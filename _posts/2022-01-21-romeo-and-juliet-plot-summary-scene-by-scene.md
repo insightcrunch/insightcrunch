@@ -6,7 +6,7 @@ date: 2022-01-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "plot-summary", "scene-by-scene", "structure", "romeo-and-juliet-summary"]
 excerpt: "Romeo and Juliet moves faster than memory suggests, and a careful scene-by-scene walk shows how the comedy of the first half hardens into tragedy at Act 3."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2022-01-21
@@ -14,7 +14,7 @@ lang: en
 ---
 The first words spoken on stage are not about love. They are a pun about coal and a threat about violence: two Capulet servants, Sampson and Gregory, swagger through the opening of Act 1 Scene 1 trading bawdy jokes about pushing maids to the wall and carrying naked weapons, and within ninety lines the joke has become a sword fight that drags in citizens, both household heads, and finally the Prince. A reader who knows the tragedy only by reputation expects an aching romance to open it. What opens it is a street riot played first as crude comedy and then as civic emergency. That gap, between what the work is remembered as and what it actually does minute by minute, is the reason a scene-by-scene walk repays the effort. The shorthand that flattens the drama into a single mood of doomed tenderness hides a built object that keeps changing its register, and the change is the whole point.
 
-![Romeo and Juliet scene-by-scene plot summary and five-act structural map - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Romeo and Juliet scene-by-scene plot summary and five-act structural map - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 This walkthrough tracks the action in order, act by act and beat by beat, but it refuses to let recap stand in for analysis. At every step it names the formal key the writing is playing in: the sonnet that serves as Prologue, the prose brawl of the servants, the lyric verse of the young Montague heir, the perfect fourteen-line sonnet the couple build together at the masked ball, the comic chatter of the Nurse, the hinge at the duel where the machinery snaps, and the tightening compression that hurries the final movement toward the tomb. The aim is a map of how the drama is assembled, the kind of map that lets a reader locate any moment in seconds and, more usefully, see why the second half feels so different from the first. The turn has an address. It happens at Act 3 Scene 1, and once it happens nothing in Verona behaves as it did before.
 

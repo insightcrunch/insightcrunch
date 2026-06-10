@@ -6,7 +6,7 @@ date: 1997-02-26
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Parallel Structure", "Modifiers", "Grammar"]
 excerpt: "SAT parallel structure and modifier placement explained: matching list forms, correlative pairs and fixing dangling modifiers, with error-and-fix examples."
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 61
 author: "katherine-blake"
 last_updated: 1997-02-26
@@ -16,7 +16,7 @@ Two sentences can carry the same words, the same punctuation, and the same inten
 
 That gap between how a sentence sounds and what its structure actually says is where parallel form and modifier placement live, and it is where a large share of Standard English Conventions points quietly disappears. These two rules sit close together because they share one demand: a sentence has to keep its parts in the right relationship. A list has to keep every member in the same grammatical shape. A describing phrase has to sit beside the thing it describes. Readers who trust their ear miss both, because the ear forgives what the rulebook does not.
 
-![SAT parallel structure and modifier placement worked examples and error fixes - Insight Crunch](/assets/images/blog/blog-20.webp)
+![SAT parallel structure and modifier placement worked examples and error fixes - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 This guide gives you something a generic grammar overview cannot: a single two-part check you run on every sentence of this type, built to expose the exact traps the exam plants. For matching form, you name the grammatical shape a series demands and force every member into it. For describing phrases, you find the actor an opening phrase points to and place that actor right after the comma. Call it the InsightCrunch two-part fix routine. By the end you will run it in seconds, on a faulty list and on a dangling phrase alike, and you will stop being fooled by sentences that sound fine and fail anyway.
 

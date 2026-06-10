@@ -6,7 +6,7 @@ date: 2015-02-15
 categories: ["Travel"]
 tags: ["USA Travel", "Grand Canyon", "National Parks", "Where to Stay", "Outdoors"]
 excerpt: "Where to stay at the Grand Canyon: in-park lodges, Tusayan, Williams, and Flagstaff ranked by booking lead time, price, and drive time for every traveler."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "amit-chatterjee"
 last_updated: 2015-02-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The single choice that shapes a Grand Canyon trip more than any other is not which viewpoint you photograph or which trail you walk. It is where you sleep. Deciding where to stay at the Grand Canyon settles how early you reach the rim for first light, how many hours of driving bookend each day, how much of your budget the room absorbs, and whether the canyon is the first thing you see in the morning or a place you commute to. Get the base right and the rest of the planning falls into place. Get it wrong and you spend the trip in the car, paying for nights you barely use, or scrambling for a room that filled months before you started looking.
 
-![Where to stay at the Grand Canyon, an in-park and gateway lodging guide - Insight Crunch](/assets/images/blog/blog-31.webp)
+![Where to stay at the Grand Canyon, an in-park and gateway lodging guide - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 This is the basing decision the broad orientation in the [complete Grand Canyon planning guide](/2014/11/01/grand-canyon-national-park-complete-guide/) deliberately defers, because it deserves its own treatment. The South Rim, where the overwhelming majority of visitors go, is a small developed village perched on the edge of a canyon a mile deep, ringed by a thin band of in-park lodges and a few gateway towns at increasing distances. Each option trades one thing for another: proximity for price, character for choice, a guaranteed walk to the edge for the freedom of a last-minute room. The job of this guide is to make those trades plain, name the best pick for each kind of traveler, and give you a fallback for the very common moment when the lodge you wanted is already gone.
 

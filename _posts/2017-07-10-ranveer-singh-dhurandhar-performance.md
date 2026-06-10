@@ -6,7 +6,7 @@ date: 2017-07-10
 categories: ["Industry"]
 tags: ["ranveer-singh", "dhurandhar", "performance", "bollywood", "acting", "shadow-war"]
 excerpt: "How Ranveer Singh's preparation and restraint in Dhurandhar produced Bollywood's most compelling spy performance and gave India's shadow war a human face."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
 author: "nandini-sen"
 last_updated: 2017-07-10
@@ -16,7 +16,7 @@ Before Dhurandhar, India's covert campaign against terrorists sheltered on Pakis
 
 <!--more-->
 
-![Ranveer Singh Dhurandhar Performance Analysis - Insight Crunch](/assets/images/blog/blog-72.webp)
+![Ranveer Singh Dhurandhar Performance Analysis - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 What makes this performance worthy of sustained analysis is not simply that it was commercially successful, although the numbers were staggering. Nor is it that the performance drew critical praise, although the reviews were among the strongest of Singh's career. What makes it analytically significant is the cultural function the performance serves. Ranveer Singh did not play a spy. He became the avatar for a national mood, the embodiment of a country that spent decades absorbing terrorist attacks and finally decided, through means it refuses to officially acknowledge, to strike back. Every intelligence briefing, every classified operation, every motorcycle-borne hit on a wanted terrorist in Karachi or Lahore now has a face in the Indian popular imagination, and that face belongs to Ranveer Singh. Understanding how he built that performance, what craft decisions produced the specific emotional texture audiences responded to, and how those decisions compare to the choices made by actors in similar roles across world cinema is not a trivial exercise in celebrity profiling. It is an investigation into how popular culture processes state violence, how a democracy gives itself permission to kill, and why the right face, at the right moment, matters as much as any intelligence briefing.
 

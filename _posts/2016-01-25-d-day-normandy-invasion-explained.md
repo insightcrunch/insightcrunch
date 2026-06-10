@@ -6,7 +6,7 @@ date: 2016-01-25
 categories: ["Leisure"]
 tags: ["d-day", "normandy-invasion", "operation-overlord", "wwii-europe", "1944", "modern-history"]
 excerpt: "D-Day succeeded through planning, deception, weather luck, and German command errors. The combination was contingent rather than historically inevitable."
-image: "/assets/images/blog/blog-52.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 69
 author: "amanda-ross"
 last_updated: 2016-01-25
@@ -16,7 +16,7 @@ On the morning of June 6, 1944, approximately 160,000 Allied troops crossed the 
 
 <!--more-->
 
-![D-Day and the Normandy Invasion - Insight Crunch](/assets/images/blog/blog-52.webp)
+![D-Day and the Normandy Invasion - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 Understanding the Normandy invasion requires grasping what it accomplished, what it risked, and what conditions produced its success. For readers tracing the broader arc of the [conflict that produced the need for D-Day](https://insightcrunch.com/2016/01/20/causes-of-world-war-2-explained/), the operation represented the culmination of Western Allied strategy that had been debated, delayed, and refined across three years of intense preparation. This article walks through the strategic background, the planning, the deception, the weather decision, the beach landings, the German response, the subsequent Normandy campaign, the key figures involved, the consequences, and the historiographical debate over D-Day's significance. Readers looking to [trace these events on the broader chronological map](https://reportmedic.org/tools/world-history-timeline.html) will find that the Normandy invasion sits at a pivotal junction in the global conflict's timeline.
 

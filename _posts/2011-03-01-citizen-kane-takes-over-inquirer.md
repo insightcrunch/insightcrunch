@@ -7,14 +7,14 @@ last_updated: 2011-03-01
 author: "amanda-ross"
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Charles Foster Kane", "Orson Welles", "Close Reading", "Cinematography", "Themes"]
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-39.webp"
 excerpt: "When Kane takes over the Inquirer the film hands us its one stretch of pure joy, a rise sequence staged so that its delight becomes the tragedy's bait."
 reading_time: 59
 lang: en
 ---
 There is a moment, early in the long flashback that Mr. Bernstein narrates, when the whole machinery of the film seems to lighten, speed up, and grin. A young man with no experience and limitless appetite walks into a failing newspaper, announces that he is going to run it, and proceeds to make the place over in his own image with a delight so infectious that audiences who have just watched an old tyrant die alone behind iron gates suddenly find themselves rooting for him. This is the stretch the series calls the rise sequence, and when Kane takes over the Inquirer the film offers the single most energetic and joyful run of footage in its entire two hours. It is also, read closely, the most deliberately cruel piece of construction in the movie, because every gust of that early delight is engineered to be lost. The exuberance is the bait. The hunger that makes the young owner a thrilling reformer is the same hunger that will harden, scene by scene, into the figure dying at Xanadu, and the sequence is built so that we cannot tell the difference between the two until it is far too late.
 
-![Citizen Kane: Kane Takes Over the Inquirer](/assets/images/blog/blog-12.webp)
+![Citizen Kane: Kane Takes Over the Inquirer](/assets/images/blog/blog-39.webp)
 
 That is the argument this article will make and defend, shot by shot and beat by beat. Most viewers remember this part of the film as the fun part, the breather before the long decline, the place where Orson Welles the actor is allowed to be charming before he has to be monstrous. That memory is accurate as far as it goes, and it is also a trap, the very trap the sequence is designed to spring. The reading offered here is that the takeover of the paper is not a separate happy chapter that the rest of the film betrays. It is the seed of the fall, fully present, visible in the staging if you know where to look, and the better you read its joy the more precisely you can name the disaster it predicts. To watch this sequence well is to watch a tragedy disguised as a celebration, and learning to do that is one of the most useful close-reading skills the whole film can teach.
 

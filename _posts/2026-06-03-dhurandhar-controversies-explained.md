@@ -6,7 +6,7 @@ date: 2026-06-03
 categories: ["Leisure"]
 tags: ["dhurandhar", "controversies", "bollywood", "propaganda-debate", "censorship", "cultural-impact"]
 excerpt: "Every Dhurandhar controversy explained: the propaganda debate, Baloch objections, CBFC censorship, Gulf-region bans, and the strange economics of outrage."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 71
 author: "nandini-sen"
 last_updated: 2026-06-03
@@ -16,7 +16,7 @@ Most blockbusters generate controversy as a side effect of their success. A scen
 
 <!--more-->
 
-![Dhurandhar Controversies Explained - Insight Crunch](/assets/images/blog/blog-33.webp)
+![Dhurandhar Controversies Explained - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 Here is the argument this piece will defend, and it is an argument you will not find made cleanly anywhere else on the internet. The reason Dhurandhar became the most fiercely disputed mainstream release of the decade is not that it is propaganda, though a serious viewer can build that reading and we will build it honestly. The reason is that the picture occupies, with unusual clarity, the exact position that every Hindi spy thriller and patriotic war picture has occupied for decades while denying it. Earlier films smuggled their ideology inside spectacle and let audiences pretend the flag-waving was incidental to the action. Dhar refused the disguise. He made a saga whose emotional logic and its ideological logic are the same logic, so that you cannot enjoy the one without consenting to the other, at least for the duration of the running time. The disputes are what consent looks like when a portion of the audience withdraws it mid-screening and says so loudly.
 

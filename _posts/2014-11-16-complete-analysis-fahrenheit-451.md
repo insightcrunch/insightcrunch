@@ -6,7 +6,7 @@ date: 2014-11-16
 categories: ["Leisure"]
 tags: ["fahrenheit-451", "ray-bradbury", "novel-analysis", "literary-analysis", "censorship", "dystopian-fiction"]
 excerpt: "Fahrenheit 451 is not primarily about government censorship. Bradbury's 1953 argument targets mass media's corrosion of attention and public discourse."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "lauren-hayes"
 last_updated: 2014-11-16
@@ -16,7 +16,7 @@ Fahrenheit 451 is Ray Bradbury's 1953 argument that mass media, not government c
 
 <!--more-->
 
-![Complete Analysis of Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Complete Analysis of Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 ## Ray Bradbury and the Formation of a Self-Taught Writer
 

@@ -6,7 +6,7 @@ date: 2012-02-16
 categories: ["Industry"]
 tags: ["hizbul-mujahideen", "kashmir", "syed-salahuddin", "terrorism", "pakistan", "insurgency"]
 excerpt: "The definitive guide to Hizbul Mujahideen, the oldest active Kashmir militant group, its ISI connections, and its decimated Pakistan-based leadership."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ Hizbul Mujahideen is the Kashmir insurgency's founding organization, the group t
 
 <!--more-->
 
-![Hizbul Mujahideen Complete Guide - Insight Crunch](/assets/images/blog/blog-36.webp)
+![Hizbul Mujahideen Complete Guide - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Understanding Hizbul Mujahideen requires understanding it as three things simultaneously: as the product of a genuine political crisis in Kashmir that Indian governance failures produced, as an instrument of Pakistani state policy that the ISI co-opted, armed, and directed toward strategic objectives that often had nothing to do with Kashmiri self-determination, and as an organization whose trajectory from founding through dominance through decline through destruction maps onto a universal pattern that scholars of insurgent movements have documented across dozens of conflicts from Colombia to Sri Lanka to Algeria. The analytical payoff of this article is a three-decade operational lifecycle chart rendered in prose, plotting Hizbul's rise, peak, decline, and destruction against the specific decisions, individuals, and structural forces that drove each phase. The chart reveals something that neither Salahuddin's rhetoric nor India's security briefings acknowledge clearly: Hizbul Mujahideen was already dying before the shadow war arrived. The targeted killings that [destroyed its Pakistan-based command in 2023](https://insightcrunch.com/2013/06/22/hizbul-leadership-decimation/) did not kill the organization so much as confirm its death, delivering the autopsy report on a body that had stopped functioning years earlier.
 

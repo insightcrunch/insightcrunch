@@ -6,7 +6,7 @@ date: 2010-01-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Close Reading", "Themes", "Film History"]
 excerpt: "Citizen Kane analysis that reads the film as an argument about the unknowability of a life, with shot-level close reading, themes, symbols, and a study key."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2010-01-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Most people who can name *Citizen Kane* cannot tell you why it matters, and that gap is the whole reason this guide exists. A serious Citizen Kane analysis does not begin with the plot, because the plot is the least interesting thing the picture is doing. The story is a detective story in which the detective is a reporter, the body is already dead in the first minute, and the mystery is not a crime but a person. The joke Orson Welles plays on his audience is that the investigation runs the full length of the film and solves nothing. The reporter never learns what the dying man meant, and neither, on any honest accounting, do we. Learn to read that failure as the design rather than a flaw, and the film opens up into the richest single object in classical cinema.
 
-![Citizen Kane analysis and complete viewing guide to Orson Welles 1941 film explained - Insight Crunch](/assets/images/blog/blog-80.webp)
+![Citizen Kane analysis and complete viewing guide to Orson Welles 1941 film explained - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 This article is the hub for everything that follows in this series. It is built to give you a complete mental model of the film in one sitting: what it is about, how it is built, what its famous symbol is doing, how its camera argues, why critics have called it the greatest film ever made, and what you can actually say about it that a recap site cannot. Where a point deserves its own deep treatment, you will find a link to the article that handles it at full length. Read this guide first, then follow the threads. By the end you should be able to defend a thesis about the film rather than merely summarize it, which is the difference between a viewer and a reader.
 

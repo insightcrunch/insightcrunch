@@ -6,7 +6,7 @@ date: 2008-11-12
 categories: ["Leisure"]
 tags: ["dwight-eisenhower", "decision-reconstruction", "us-presidents", "cold-war", "vietnam", "dien-bien-phu"]
 excerpt: "In 1954, Eisenhower refused to rescue France at Dien Bien Phu despite intense pressure. The refusal delayed America's Vietnam tragedy by a full decade."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 56
 author: "chloe-martin"
 last_updated: 2008-11-12
@@ -16,7 +16,7 @@ lang: en
 
 On the morning of April 5, 1954, Admiral Arthur Radford, Chairman of the Joint Chiefs of Staff, sat across from eight congressional leaders in a closed session and laid out Operation Vulture. Sixty B-29 bombers flying from Clark Air Base in the Philippines, escorted by 150 carrier-based fighters from the USS Essex and USS Boxer, would carpet the hills surrounding the besieged French garrison at Dien Bien Phu with conventional ordnance. If conventional bombs proved insufficient, tactical nuclear weapons remained an option. Radford wanted authorization within seventy-two hours. The French were running out of time. The Viet Minh had dug artillery into the ridgelines overlooking the valley, and the garrison's airstrip was already cratered beyond repair. Supplies arrived only by parachute, and many of those parachutes drifted into enemy hands. Without American firepower, France would lose its anchor position in Indochina within weeks, and the domino theory that governed Washington's strategic imagination would begin its cascade: Vietnam, then Laos, then Cambodia, then Thailand, then Malaya, then Indonesia.
 
-![Eisenhower Dien Bien Phu decision reconstruction 1954 refusal to intervene - Insight Crunch](/assets/images/blog/blog-98.webp)
+![Eisenhower Dien Bien Phu decision reconstruction 1954 refusal to intervene - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The congressional leaders listened. Then they asked questions that Radford could not answer to their satisfaction. Was the Army on board? No, General Matthew Ridgway opposed the plan. Had the British agreed to participate? Not yet. Would air strikes alone suffice, or would ground troops follow? Radford admitted that ground forces might become necessary. Lyndon Johnson, then Senate Minority Leader, and Richard Russell, the Armed Services Committee chairman, told Radford they would not support a unilateral American intervention in another Asian land war barely a year after the Korean armistice. The meeting ended without authorization. Operation Vulture was functionally dead before Dwight Eisenhower ever had to veto it publicly. But the deeper question of how a president with five stars on his shoulders, a man whose entire career had been defined by military command, chose restraint when his own chairman of the Joint Chiefs urged action demands reconstruction. The answer reveals something fundamental about how Eisenhower understood executive war power, about the institutional tripwires he deliberately set to block his own hawks, and about the road not taken that Kennedy and Lyndon Johnson would later travel with catastrophic consequences.
 

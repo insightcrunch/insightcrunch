@@ -6,7 +6,7 @@ date: 2010-12-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "News on the March", "Orson Welles", "Close Reading", "Cinematography", "Film History"]
 excerpt: "The Citizen Kane News on the March newsreel is no recap: this scene analysis reads the fake obituary as a hollow thesis about an unknowable public life."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2010-12-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Roughly ten minutes after a dying man drops a glass globe and whispers a word no one can verify, the picture stops being a poem and turns into a press release. The Citizen Kane: News on the March newsreel arrives like a thunderclap of certainty: brass on the soundtrack, a narrator who sounds carved from granite, and a confident survey of a great man's life, complete with empire, marriages, politics, and death. The sequence is the most underrated few minutes in the film, because most viewers treat it as a convenient recap, a way to learn who Kane was before the real movie begins. It is the opposite. The newsreel is a trap the picture sets for its own audience, a glittering summary handed to us precisely so the next two hours can take it apart.
 
-![News on the March newsreel scene analysis in Citizen Kane explained - Insight Crunch](/assets/images/blog/blog-96.webp)
+![News on the March newsreel scene analysis in Citizen Kane explained - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 Read closely, this fake obituary is a film inside the film and a thesis statement disguised as journalism. It tells us everything about the public Charles Foster Kane and nothing about the private one, and it does so on purpose. By the time the lights snap up in a dark projection room and an editor complains that the whole thing lacks an angle, the movie has already taught us its central lesson without seeming to teach anything at all: a life can be catalogued completely and still escape understanding entirely. That gap, between the record and the man, is the engine of everything that follows.
 

@@ -6,7 +6,7 @@ date: 1997-02-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Comparisons", "Idioms", "Grammar"]
 excerpt: "SAT logical comparisons and idioms explained: the equal-sign test for comparing like to like and the most-tested prepositions, with 25 idioms and examples."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 59
 author: "samantha-lee"
 last_updated: 1997-02-21
@@ -14,7 +14,7 @@ lang: en
 ---
 # SAT Writing: Logical Comparisons and Idioms
 
-![SAT Writing: Logical Comparisons and Idioms - Insight Crunch](/assets/images/blog/blog-89.webp)
+![SAT Writing: Logical Comparisons and Idioms - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 A single comparison question can swing on three words you would never hear yourself say wrong out loud. Read this sentence the way the digital test presents it: "The annual rainfall in Seattle is greater than Phoenix." Nothing in your ear flinches. The sentence sounds finished, even confident. Yet it is broken, and the College Board knows that most test-takers will glide right past the flaw because speech tolerates what the written standard does not. Rainfall, a quantity, is being measured against Phoenix, a city. The two sides of the scale hold different kinds of things, so the balance is false. The repair is small and surgical: "greater than that of Phoenix." That fix is worth a point, and the same logic, once you can see it, recurs on every form.
 

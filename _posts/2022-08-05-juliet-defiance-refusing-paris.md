@@ -6,7 +6,7 @@ date: 2022-08-05
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "juliet", "lord-capulet", "juliet-refuses-paris"]
 excerpt: "Juliet's refusal to marry Paris triggers her father's fury and her mother's retreat, and the scene is where her quiet obedience hardens into open defiance."
-image: "/assets/images/blog/blog-56.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 69
 author: "rachel-foster"
 last_updated: 2022-08-05
@@ -14,7 +14,7 @@ lang: en
 ---
 "Hang thee, young baggage, disobedient wretch!" A father says this to his thirteen-year-old daughter, in his own house, in front of her mother and her nurse, because she has declined to marry the man he has chosen. The line lands midway through Act 3, Scene 5, and it is one of the ugliest moments in the play. It is also one of the most revealing, because the daughter who provokes it does not flinch into compliance. She kneels, she petitions, she is refused, and then she falls silent, and the silence is not surrender. It is the moment a girl who has so far hidden her resolve inside private soliloquy turns that resolve outward and lets it harden into open resistance against everyone with authority over her.
 
-![Juliet's Defiance: Refusing to Marry Paris - Insight Crunch](/assets/images/blog/blog-56.webp)
+![Juliet's Defiance: Refusing to Marry Paris - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The cliche keeps Juliet sweet, biddable, a soft creature of moonlight and balconies who exists to be loved and then to die prettily. The scene at 3.5 dismantles that picture line by line. Here the heroine is cornered by the full apparatus of the patriarchal household: a father who treats her as property to be conveyed, a mother who refuses to intervene, a marriage market that prices her like a parcel of land, and a confessor and a nurse who will both, in their different ways, advise her to give in. What she does under that pressure is the question this article pursues. The answer is that 3.5 is the hinge on which Juliet's whole character swings from inwardness to action, and that her defiance, far from being a romantic flourish, is the costliest and most deliberate choice she makes before the tomb.
 

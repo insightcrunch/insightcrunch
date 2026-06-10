@@ -6,7 +6,7 @@ date: 2013-02-17
 categories: ["Industry"]
 tags: ["mufti-qaiser-farooq", "lashkar-e-taiba", "hafiz-saeed", "karachi", "targeted-killing", "shadow-war"]
 excerpt: "Complete profile of Mufti Qaiser Farooq, LeT founding member and Hafiz Saeed aide shot dead near a Karachi seminary during the shadow war's peak month."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
 author: "ryan-walsh"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ On September 30, 2023, Mufti Qaiser Farooq walked toward the Gulshan-e-Omar Madr
 
 <!--more-->
 
-![Mufti Qaiser Farooq LeT Aide Killed Karachi - Insight Crunch](/assets/images/blog/blog-93.webp)
+![Mufti Qaiser Farooq LeT Aide Killed Karachi - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 Farooq's killing was the third targeted assassination of a Lashkar-e-Taiba-linked figure in Karachi in a single month. On September 12, Maulana Ziaur Rahman had been [shot dead during his evening walk](https://insightcrunch.com/2013/02/11/ziaur-rahman-let-karachi-killing/) in the Gulistan-e-Jauhar area by two motorcycle-borne assailants. On September 28, Abu Qasim Kashmiri had been killed in Rawalakot, Pakistan-administered Kashmir. In between these killings, Hafiz Saeed's own son Kamaluddin Saeed had reportedly been abducted from Peshawar on September 26 by unidentified individuals arriving in a car, and social media platforms were flooded with unverified claims that his body had been found in the Jabba Valley of Khyber Pakhtunkhwa. The concentrated violence of that single week sent a seismic tremor through Pakistan's jihadist infrastructure. Farooq's death was not an isolated incident. It was the third blow in a sustained offensive that targeted the men who run Hafiz Saeed's organizational machinery, the mid-tier operatives who keep Lashkar-e-Taiba functional even when its founder sits in a prison cell. The [shadow war's complete timeline](https://insightcrunch.com/2013/01/01/targeted-killings-pakistan-complete-timeline/) records a pattern of escalation that reached its most intense phase in September 2023, and Farooq's name belongs near the center of that cascade.
 

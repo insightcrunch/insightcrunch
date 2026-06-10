@@ -6,7 +6,7 @@ date: 2010-11-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Xanadu", "Close Reading", "Cinematography", "Symbolism", "Orson Welles"]
 excerpt: "The Citizen Kane Xanadu opening scene is a wordless gothic prologue that states the whole film's method through slow dissolves before a word is spoken."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2010-11-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The Citizen Kane Xanadu opening scene runs for roughly two and a half minutes, contains no dialogue beyond a single whispered word, and tells you almost everything about how the next two hours will treat its subject. Most first-time viewers register it as atmosphere, a moody curtain-raiser before the real movie begins with the newsreel. That is the first thing this prologue teaches a careful watcher to distrust. The wordless climb up the decaying estate is not a warm-up. It is the film's whole method stated in advance, a self-contained gothic short that argues, before any character speaks, that the man at its center cannot be reached. Learn to read these opening dissolves and you have a key that unlocks the rest of the picture.
 
-![Citizen Kane Xanadu opening scene shot-by-shot prologue analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Citizen Kane Xanadu opening scene shot-by-shot prologue analysis - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 What makes the sequence so strange on a first encounter is that it withholds the one thing an opening is supposed to give: orientation. You are not told where you are, whose estate this is, what year it is, or why you should care. You are shown a fence, a sign that forbids entry, and a slow, patient series of images that climb toward a single lit window in a dark castle on a hill. The camera does the one thing the sign tells it not to do. It crosses the boundary and pushes in. By the time the light in that window goes out and the film cuts inside to a hand holding a globe full of snow, the prologue has already made its argument in pure pictures: this film will be an act of trespass into a private interior, and it will find, at the center of all that wealth, only a man dying alone with a toy.
 

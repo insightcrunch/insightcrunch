@@ -6,7 +6,7 @@ date: 2012-01-29
 categories: ["Industry"]
 tags: ["zaki-ur-rehman-lakhvi", "26-11", "lashkar-e-taiba", "mumbai", "pakistan", "terrorism"]
 excerpt: "Profile of Zaki-ur-Rehman Lakhvi, the LeT operations commander who directed the 26/11 Mumbai attack from a Karachi control room before Pakistan freed him."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "thomas-reid"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ For seventy-two hours in late November 2008, a man with a satellite phone sat in
 
 <!--more-->
 
-![Zaki-ur-Rehman Lakhvi Profile - Insight Crunch](/assets/images/blog/blog-67.webp)
+![Zaki-ur-Rehman Lakhvi Profile - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 What Pakistan did with those recordings, and what Pakistan did with Lakhvi himself, is the most consequential failure of international counter-terrorism cooperation in the twenty-first century. Pakistan arrested him within days. Pakistan placed him in a holding facility outside Rawalpindi. Pakistan filed a charge sheet. Pakistan held hearings. Pakistan permitted his lawyers to argue that the testimony of an Indian-tried gunman could not be admitted, that the satellite phone records were not properly authenticated, that the man named in the Indian dossier was perhaps not the same man in the Adiala Jail cell. And on April 10, 2015, after six years and three months in custody, an Islamabad High Court bench granted Zaki-ur-Rehman Lakhvi bail. He walked out the front gate. He was driven to a safe house. He has not seen the inside of a courtroom in any meaningful way since.
 

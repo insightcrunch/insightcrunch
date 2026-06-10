@@ -5,7 +5,7 @@ date: 2023-08-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Speed up your Tableau workflow. Essential keyboard shortcuts, quick formatting tricks, and the tips that save experienced users hours every week."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 4
 author: "alex-rivera"
 last_updated: 2026-03-30
@@ -15,7 +15,7 @@ Tableau, a powerful data visualization tool, has revolutionized the way we analy
 
 Read more: [Top Resources for Tableau Certification Preparation »](https://insightcrunch.com/2023/01/09/top-resources-for-tableau-certification-preparation/)
 
-![Tableau Tips and Shortcuts Every User Should Know](/assets/images/blog/blog-96.webp)
+![Tableau Tips and Shortcuts Every User Should Know](/assets/images/blog/blog-59.webp)
 Tableau Tips and Shortcuts Every User Should Know
 
 ## **1. Quick Data Connection**

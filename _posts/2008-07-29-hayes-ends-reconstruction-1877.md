@@ -6,7 +6,7 @@ date: 2008-07-29
 categories: ["Leisure"]
 tags: ["rutherford-hayes", "decision-reconstruction", "us-presidents", "american-history", "compromise-of-1877", "reconstruction-end"]
 excerpt: "Hayes pulled federal troops from South Carolina and Louisiana in April 1877, ending Reconstruction. Black voter turnout in the South collapsed within years."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2008-07-29
@@ -14,7 +14,7 @@ lang: en
 ---
 On April 3, less than thirty days after he placed his hand on a Bible at the East Portico of the Capitol, Rutherford Hayes signed the order that pulled federal soldiers away from the South Carolina statehouse in Columbia. Three weeks later, on April 24, he signed a second order for New Orleans. Both documents were brief. Neither contained the words "end" or "Reconstruction." Neither had to. Within seventy-two hours of each order, the Republican statehouse governments in those two states collapsed, replaced by Democratic regimes that white Southerners called the Redeemers. The federal commitment to the region's biracial GOP experiment, written in the blood of Antietam and Gettysburg and codified in three constitutional amendments, ended on those two days in two short executive orders.
 
-![Hayes ends Reconstruction April 1877 national troops withdrawal Wormley Hotel - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Hayes ends Reconstruction April 1877 national troops withdrawal Wormley Hotel - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 This was the decision. The disputed election of 1876, the Electoral Commission of January 1877, the late-night meetings at the Wormley Hotel on February 26 of that year, and the inaugural address of March 5 all funneled into the two signatures the new president placed on paper in that spring. Everything before the spring of that year was prologue. Everything after was consequence. What he pulled out was small in raw numbers, fewer than three thousand soldiers scattered across the former Confederacy, but their presence had been the last guarantor of African American voting rights, Black officeholding, and Black physical safety in the contested statehouses. With them gone, Republican governments in the lower former Confederacy became impossible to defend. The collapse was not gradual. In the affected states, it was immediate.
 

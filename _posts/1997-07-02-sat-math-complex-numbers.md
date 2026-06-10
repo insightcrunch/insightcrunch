@@ -6,7 +6,7 @@ date: 1997-07-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Complex Numbers", "Advanced Math", "Algebra"]
 excerpt: "SAT complex numbers explained: the definition of i, the power cycle, adding, multiplying with FOIL and dividing by the conjugate, with worked examples included."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 1997-07-02
@@ -14,7 +14,7 @@ lang: en
 ---
 A single SAT complex numbers item sits in the harder half of the Math section like a coin left on the sidewalk. Most test-takers walk past it. They see the symbol for the square root of negative one, decide the topic belongs to some advanced course they half remember, and guess. The prepared candidate picks the coin up in under ninety seconds, because the whole topic reduces to about six mechanical moves, and not one of them is hard once you have done it a dozen times.
 
-![SAT complex numbers i power cycle FOIL and conjugate division worked examples - Insight Crunch](/assets/images/blog/blog-72.webp)
+![SAT complex numbers i power cycle FOIL and conjugate division worked examples - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 That gap between the freeze and the quick solve is the entire reason this guide exists. The aim here is not to teach you the deep theory of the imaginary unit, because the digital exam never asks for it. There is no complex plane to draw, no modulus to compute, no polar form to convert. What the assessment rewards is procedural fluency with a tiny, fixed set of operations: knowing what the symbol means, riding its repeating power cycle, combining like parts when adding, distributing carefully when multiplying, and clearing a denominator with a conjugate when dividing. Master those, and an item that intimidates the room becomes one of the most reliable points on your answer sheet. By the end you will be able to simplify the unit raised to any exponent in seconds, multiply two binomials without losing the sign, and turn a fraction with an imaginary denominator into clean standard form without hesitation.
 

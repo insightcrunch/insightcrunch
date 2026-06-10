@@ -6,7 +6,7 @@ date: 2008-12-15
 categories: ["Leisure"]
 tags: ["john-f-kennedy", "moment-in-time", "us-presidents", "cold-war", "cuban-missile-crisis", "nuclear-war"]
 excerpt: "Thirteen October days in 1962 nearly ended the world. The ExComm tapes reveal the minute-by-minute decisions that pulled humanity back from nuclear war."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2008-12-15
@@ -18,7 +18,7 @@ At 8:45 on the morning of October 16, 1962, McGeorge Bundy walked into the secon
 
 That delay is the first artifact of the crisis that historians keep returning to. It encodes a thesis about how nuclear emergencies were already, by the autumn of 1962, being managed by a small group of unelected officials operating on a presidential proxy. Bundy made a judgment that constitutionally belonged to Kennedy alone. Kennedy never criticized him for it. The structure that would govern the next thirteen days was already in place before the president had been told what he was managing.
 
-![JFK ExComm Cuban Missile Crisis thirteen days reconstruction - Insight Crunch](/assets/images/blog/blog-98.webp)
+![JFK ExComm Cuban Missile Crisis thirteen days reconstruction - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 What follows is the hour-by-hour reconstruction of the next thirteen days, drawn primarily from the ExComm tape transcripts published by Ernest May and Philip Zelikow as The Kennedy Tapes, the Soviet-side documentation assembled by Aleksandr Fursenko and Timothy Naftali in One Hell of a Gamble, and Michael Dobbs's hour-keyed narrative in One Minute to Midnight. The argument here is narrower than the standard textbook account. It is that three decision nodes, not the surface-level drama of October 22 through 28, determined whether civilization continued: the choice of quarantine over airstrike between October 18 and 20, the management of the quarantine line on October 24, and the resolution sequence of October 26 through 27 involving the back channel through Anatoly Dobrynin and the secret trade of Jupiter missiles in Turkey. Each of those nodes turned on judgments by a handful of officials whose internal disagreements have been distorted by the popular memory of the crisis. The tape evidence revises that memory in directions worth tracing carefully.
 

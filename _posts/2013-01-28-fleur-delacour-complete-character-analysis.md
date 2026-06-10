@@ -6,7 +6,7 @@ date: 2013-01-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fleur Delacour", "Triwizard Tournament", "Beauxbatons"]
 excerpt: "Fleur Delacour in Harry Potter is the underestimated Triwizard champion whose loyalty to a scarred Bill proves beauty and depth are independent of one another."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2013-01-28
@@ -16,7 +16,7 @@ lang: en
 
 There is a particular kind of cruelty in being looked at constantly and noticed never. Fleur Delacour walks into the Great Hall of Hogwarts in *Harry Potter and the Goblet of Fire* and the entire school stops eating. Boys gape. A Weasley twin nearly chokes. The narration itself, filtered through Harry's adolescent eye, registers her as a phenomenon rather than a person, something closer to weather than to a girl who has travelled hundreds of miles to risk her life in a tournament that has historically killed its competitors. From that first entrance, the silver-haired champion from Beauxbatons is positioned as an object of attention, and the reader is invited, gently and almost without noticing, to join the gaping crowd.
 
-![Fleur Delacour character analysis across the Harry Potter series](/assets/images/blog/blog-34.webp)
+![Fleur Delacour character analysis across the Harry Potter series](/assets/images/blog/blog-30.webp)
 
 What Rowling does over the following three books is take that invitation back. She lets the reader underestimate the young Frenchwoman exactly as Molly Weasley underestimates her, as the Triwizard judges underestimate her, as Harry himself underestimates her, and then she dismantles the judgment piece by piece until the woman first introduced as scenery becomes, by the final volume, the keeper of the only safe house in the war. The trajectory is not accidental. It is one of the most deliberate acts of authorial self-correction in the entire series: a writer noticing the trap of the beautiful-woman-as-decoration and walking her character straight out of it.
 

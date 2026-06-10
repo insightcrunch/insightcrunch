@@ -5,7 +5,7 @@ date: 2011-06-28
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "The candidates of 2011 batch have started getting their joining dates after waiting for some time. It’s really a time to enjoy for them now that the..."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 1
 author: "nikhil-tiwari"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 The candidates of 2011 batch have started getting their joining dates after waiting for some time. It’s really a time to enjoy for them now that the prestigious organization of their dreams have started providing them the joining dates. The candidates are maintaining a spreadsheet as found in several social networking sites. I am providing it here hoping you might find it useful.
 
-![man wearing plaid dress shirt standing](/assets/images/blog/blog-25.webp)
+![man wearing plaid dress shirt standing](/assets/images/blog/blog-58.webp)
 TCS 2011 Batch Joining Dates
 
 The atmosphere is certainly positive that people have started receiving their joining dates much before their previous batches of 2009 batch and 2010 batch, apparently. It will only be a matter of time before they get their joining dates. The joining date prediction tool have already helped thousands and is sure to give quite an idea about the probable joining date after getting which candidates may also feel like predicting their ILP score here.   

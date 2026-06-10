@@ -6,7 +6,7 @@ date: 2017-03-16
 categories: ["Leisure"]
 tags: ["joi-baba-felunath", "feluda", "satyajit-ray", "varanasi", "maganlal-meghraj"]
 excerpt: "জয় বাবা ফেলুনাথের সম্পূর্ণ বিশ্লেষণ। ১৯৭৫-এর শারদীয়া দেশ, বাঙালি বারাণসী, ধর্মীয় প্রতারণার সমালোচনা, এবং মগনলাল মেঘরাজের কিংবদন্তি আগমন।"
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 136
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-07.webp)
+![জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-25.webp)
 
 ## ১৯৭৫ সালের শারদীয়া দেশ: প্রকাশনার প্রসঙ্গ
 

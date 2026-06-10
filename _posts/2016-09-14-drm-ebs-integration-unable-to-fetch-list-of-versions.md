@@ -5,7 +5,7 @@ date: 2016-09-14
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Oracle DRM and Oracle GL are integrated very closely in environments where both are present. Sometimes it happens that the concurrent program which is..."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 2
 author: "jason-mckenzie"
 last_updated: 2026-04-01
@@ -17,7 +17,7 @@ Oracle DRM and Oracle GL are integrated very closely in environments where both 
 
 The integration should work fine if the above checks and tests pass. In some rare cases, the error might still be present, and it can often become a headache. Check if the policy manager **wsm-pm** exists under Deployments in the Administration Console, it should be created as part of the extending domain during the configuration. If it is present, need to make sure it is in active status and showing status as 'OK'.
 
-![DRM EBS Integration - Unable to fetch list of Versions](/assets/images/blog/blog-69.webp)
+![DRM EBS Integration - Unable to fetch list of Versions](/assets/images/blog/blog-103.webp)
 DRM EBS Integration - Unable to fetch list of Versions
 
 Now, in Enterprise Manager, we need to verify if the wss_username_token_service_policy is correctly attached to the **EPMPolicySet** (found under Web Services - Policy Sets, refer screenshot below). If you get the below error after clicking Policy Sets, go back to extending the domain to create wsm-pm. Then try again.

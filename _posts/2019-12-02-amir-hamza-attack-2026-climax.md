@@ -6,7 +6,7 @@ date: 2019-12-02
 categories: ["Industry"]
 tags: ["amir-hamza", "2026", "climax", "lahore", "let", "shadow-war"]
 excerpt: "How the April 2026 motorcycle shooting of Lashkar-e-Taiba co-founder Amir Hamza in Lahore became the dramatic peak of India's four-year covert shadow war."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
 author: "jason-mckenzie"
 last_updated: 2019-12-02
@@ -16,7 +16,7 @@ On a Thursday afternoon in April 2026, two men on a motorcycle pulled alongside 
 
 <!--more-->
 
-![Amir Hamza attack 2026 Lahore shadow war climax](/assets/images/blog/blog-58.webp)
+![Amir Hamza attack 2026 Lahore shadow war climax](/assets/images/blog/blog-16.webp)
 
 This is not a story that begins on Peco Road. It is the story of a campaign climbing a ladder, rung by rung, from the bottom of a terrorist hierarchy to the very top, and the Hamza shooting is the moment the ladder finally reached the founders. Every event in the twenty-six-year arc that runs from the IC-814 hijacking of 1999 to the Pahalgam massacre of 2025 produced a consequence, and every consequence produced the next event. The attack on Hamza belongs near the end of that chain. To understand why a wounded ideologue in a Lahore hospital represents the dramatic peak of an entire era, the chain has to be read backward from the hospital bed and then forward again from its origin.
 

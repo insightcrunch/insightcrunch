@@ -6,7 +6,7 @@ date: 2017-01-31
 categories: ["Leisure"]
 tags: ["topshe", "feluda", "satyajit-ray", "bengali-literature"]
 excerpt: "তোপসে চরিত্রের সম্পূর্ণ বিশ্লেষণ। কাকাতো ভাইয়ের কথন, দাদা-ভাইয়ের বন্ধন, এবং কেন এই কিশোর কথকের অস্তিত্ব ছাড়া ক্যানন কল্পনাযোগ্য নয়।"
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 102
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-04.webp)
+![তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-94.webp)
 
 ## তপেশরঞ্জন মিত্র: প্রাথমিক পরিচিতি
 

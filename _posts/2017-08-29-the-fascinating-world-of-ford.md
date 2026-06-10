@@ -5,13 +5,13 @@ date: 2017-08-29
 categories: ["Travel"]
 tags: ["Nature"]
 excerpt: "The stories of how the automobile industry revolution started had been in the air for sometime around me after watching a few documentaries on YouTube. It..."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 6
 author: "amit-chatterjee"
 last_updated: 2026-04-01
 lang: en
 ---
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/blog/blog-22.webp)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/blog/blog-67.webp)
 
 The stories of how the automobile industry revolution started had been in the air for sometime around me after watching a few documentaries on YouTube. It is then that I started learning more about the smallest of the small details of Henry Ford’s life, and gradually it became an obsession. When I learnt that he has created a world where a snapshot of history is preserved so well, it was irresistible to drive up to Dearborn, Michigan.
 

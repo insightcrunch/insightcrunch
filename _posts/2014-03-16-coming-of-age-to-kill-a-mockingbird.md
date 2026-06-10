@@ -6,7 +6,7 @@ date: 2014-03-16
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "coming-of-age", "scout-finch", "jem-finch", "literary-analysis"]
 excerpt: "How Scout and Jem grow up in To Kill a Mockingbird - innocence lost, lessons learned, and empathy earned."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
 author: "emily-reed"
 last_updated: 2014-03-16
@@ -16,7 +16,7 @@ To Kill a Mockingbird is taught in most American high schools as a coming-of-age
 
 <!--more-->
 
-![Coming of Age in To Kill a Mockingbird Analysis - Insight Crunch](/assets/images/blog/blog-34.webp)
+![Coming of Age in To Kill a Mockingbird Analysis - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The claim is not that Scout is unimportant. She is the voice, and the voice is magnificent: warm, precise, bewildered by adult cruelty without being crushed by it, and shaped by the distance between six-year-old Scout's experience and adult Jean Louise's retrospection. But a narrator is not automatically a protagonist, and a protagonist is not automatically the character who comes of age. Scout's moral compass at the beginning of the novel, her attachment to fairness and her instinctive resistance to hypocrisy, is substantially her moral compass at the end. She has observed more than she has changed. Jem, by contrast, enters the novel as a confident ten-year-old who believes Maycomb works the way Atticus says it does, and exits the novel as a physically broken adolescent who has learned that evidence does not guarantee justice, that courage does not guarantee victory, and that the town he trusted is capable of condemning an innocent man to death because of the color of his skin. That trajectory, from trust through crisis to disillusioned knowledge, is the classical arc of the bildungsroman. Jem lives it. Scout reports on it. Understanding this distinction changes how the entire novel reads, and it answers a question that the standard classroom treatment leaves hanging: if this is Scout's coming-of-age story, why does she end the novel essentially the same person she was at the start?
 

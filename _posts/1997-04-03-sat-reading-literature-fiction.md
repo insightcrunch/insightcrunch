@@ -6,7 +6,7 @@ date: 1997-04-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Literature", "Fiction", "Reading Strategy"]
 excerpt: "SAT literature and poetry passages: reading character, precise tone, figurative language and verse, with interpretive walkthroughs for both prose and verse."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
 author: "michael-brooks"
 last_updated: 1997-04-03
@@ -14,7 +14,7 @@ lang: en
 ---
 A literature item on the digital SAT can stall a strong test-taker for a full minute, and almost never because the language is hard. The excerpt is short, often under a hundred words, and the sentences are plain enough. The stall comes from a quieter problem: the candidate reads the lines correctly, understands every clause, and then cannot decide which answer choice the text actually supports. Two of the four options feel right. One says the narrator is "frustrated," another says she is "wistful," and the reader, having followed the scene perfectly, has no procedure for choosing between them. That gap, between comprehending a literary excerpt and proving an interpretation against it, is where points on the literature items quietly disappear.
 
-![SAT literature and fiction passages character tone figurative language worked examples - Insight Crunch](/assets/images/blog/blog-49.webp)
+![SAT literature and fiction passages character tone figurative language worked examples - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 This guide closes that gap. The promise here is not "read more carefully," which is the advice every thin page offers and no student can act on. The promise is a repeatable discipline for the four things SAT literary excerpts actually test: inferring a figure's character and motivation from limited evidence, naming an attitude with a precise word rather than a vague one, reading figurative language for its meaning instead of its picture, and tracking the shape of a short narrative. You will leave able to take a tone item with two attractive choices and select the supported one in seconds, able to read a compressed verse excerpt without freezing, and able to defend a character inference by pointing at the exact phrase that licenses it. Interpretive reading on this test is still evidence-bound, and evidence-bound reading is a learnable skill, not a matter of taste.
 

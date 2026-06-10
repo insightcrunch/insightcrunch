@@ -6,7 +6,7 @@ date: 2021-07-29
 categories: ["Industry"]
 tags: ["Infosys Background Verification", "Infosys BGV Process", "Infosys Background Check", "Infosys BGV Status", "Infosys Offer Withdrawal", "Infosys BGV Discrepancy", "Infosys Joining Documents", "Infosys Verification Process"]
 excerpt: "Complete guide to the Infosys background verification process covering what gets checked, timelines, what triggers flags, how to resolve discrepancies, and what happens when BGV finds an issue."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 50
 author: "pooja-gupta"
 last_updated: 2026-04-02
@@ -14,7 +14,7 @@ lang: en
 ---
 The Infosys background verification process is the step between receiving your offer letter and achieving confirmed employment status. Most candidates who have been honest throughout their application know intellectually that they have nothing to worry about, yet the BGV period is one of the most anxiety-producing phases of the entire joining process. Part of that anxiety comes from a genuine lack of understanding about what is actually being verified, how long it takes, and what happens when something flags.
 
-![Infosys Background Verification Process](/assets/images/blog/blog-71.webp)
+![Infosys Background Verification Process](/assets/images/blog/blog-38.webp)
 
 This guide eliminates that anxiety by replacing vague reassurance with specific information. It covers every component of what Infosys verifies, the exact mechanisms through which each component is verified, the specific situations that trigger flags and what each type of flag means, the resolution process for every common flag type, the realistic timelines for BGV completion, what happens to your employment when BGV is ongoing versus when it concludes with a finding, the difference between a flag and a failure, and the proactive steps candidates can take during the pre-joining and post-joining periods to support a smooth BGV outcome.
 

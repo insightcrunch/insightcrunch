@@ -6,7 +6,7 @@ date: 2022-05-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "counterfactual", "ending", "could-romeo-and-juliet-end-happily"]
 excerpt: "Romeo and Juliet turns on a string of near misses, a quarantined letter, a few early minutes, so it is fair to ask whether the tragedy was ever avoidable."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2022-05-06
@@ -14,7 +14,7 @@ lang: en
 ---
 A friar stands at a sealed door in Verona and cannot get out. The searchers of the town, hunting for plague, have nailed up the house he entered, and the one letter that would save two lives stays in his sleeve. That is the hinge of the whole catastrophe, and Shakespeare puts it almost offhandedly into a short scene late in Act 5. Friar John reports to Friar Laurence that he never reached Mantua, and Laurence answers with a cry that names the engine of the ending: "Unhappy fortune!" The plan was sound. The timing was good. A pestilence nobody could foresee shut a door, and the message died behind it.
 
-![Friar Laurence and the quarantined letter near-miss analysis Act 5 - Insight Crunch](/assets/images/blog/blog-28.webp)
+![Friar Laurence and the quarantined letter near-miss analysis Act 5 - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 Once a reader notices that door, the question becomes hard to suppress. If the letter had crossed to Mantua, the boy from the Montague house would have known his bride was only sleeping. If he had arrived at the tomb a few minutes later, she would have woken in his arms. If the older friar had run a little faster, he would have caught the pair before either took a fatal step. The disaster is built out of small, escapable contingencies, and the text makes them conspicuous rather than hiding them. So the counterfactual is not an idle parlor game imported by modern readers. It is a question the drama itself plants. Could this have ended happily, and if a happy outcome sat that close, what does the closeness tell us about the kind of tragedy Shakespeare wrote?
 

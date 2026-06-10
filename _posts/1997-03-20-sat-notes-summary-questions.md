@@ -6,7 +6,7 @@ date: 1997-03-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Student Notes", "Summary", "Digital SAT"]
 excerpt: "SAT student notes questions explained: matching the stated goal to the bullet-point notes and the goal-first method, with worked examples for each goal type."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 59
 author: "maria-santos"
 last_updated: 1997-03-20
@@ -14,7 +14,7 @@ lang: en
 ---
 A student loses this question not because the facts are hard but because they answer a question nobody asked. The screen shows four short bullet facts a researcher jotted down, and the prompt says the writer wants to emphasize a difference between two methods. Three of the four choices are flawless restatements of the facts. They are accurate, fluent, grammatically clean. Only one of them actually puts the two methods side by side and names the contrast, and that single trait is the entire point. The other three are traps built from true sentences. If you grade an answer by whether it is correct rather than by whether it does the job the directive named, you will pick a true sentence that fails the assignment, and you will do it fast and confidently, which is the worst way to be wrong.
 
-![SAT student notes summary questions goal-first method worked examples - Insight Crunch](/assets/images/blog/blog-24.webp)
+![SAT student notes summary questions goal-first method worked examples - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 That is the whole personality of the student notes question on the digital exam, and it is why this format deserves a treatment of its own rather than a footnote inside a broader writing guide. The notes question hands you a small pile of discrete facts and a one-line directive, and it tests a single skill that has almost nothing to do with reading comprehension: can you read the directive precisely enough to know what shape the right sentence has to take, then find the only option that takes that shape. The reading is trivial. The facts are short. The trap is structural. Master the structure of each directive and the format converts from a guessing exercise into the most mechanical points in the Reading and Writing section, points you can clear in under forty seconds once the method is automatic.
 

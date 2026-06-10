@@ -6,7 +6,7 @@ date: 2013-07-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Animal Symbolism", "Hedwig", "Familiars"]
 excerpt: "Every animal in Harry Potter is a character in miniature: how Hedwig, Scabbers, Crookshanks, and Fawkes quietly expose what their owners truly are inside."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 57
 author: "victoria-stone"
 last_updated: 2013-07-25
@@ -16,7 +16,7 @@ lang: en
 
 There is a test that runs quietly beneath the entire wizarding saga, and almost no human character in it knows they are being graded. The test is simple. Put a person in a room with a living thing that cannot bargain, cannot retaliate, cannot report them to any authority, and cannot withhold anything they actually need. Then watch what they do. The way a witch or wizard treats a creature that has no leverage over them turns out to be the most exact instrument Rowling ever builds for measuring who a person really is, and she scatters that instrument across seven books in the form of owls, rats, cats, toads, snakes, and one immortal bird that keeps choosing to burn.
 
-![Pets, familiars, and animal symbolism across the Harry Potter books](/assets/images/blog/blog-48.webp)
+![Pets, familiars, and animal symbolism across the Harry Potter books](/assets/images/blog/blog-59.webp)
 
 This is the argument worth making about the animals in these books, and it is larger than it first appears. The conventional reading treats the pets as decoration, or as plot devices, or at best as a warm shorthand for childhood. A snowy owl is lovely; a rat is amusing until it is sinister; a cat is clever; a phoenix is majestic. All true, and all beside the point. The deeper claim is that every significant animal in the series functions as a thesis about its owner, a compressed statement of the owner's interior life rendered in fur or feather or scale. The relationship between a person and the creature bound to them discloses not the self that person performs for the watching world, but the self that emerges when no one whose opinion matters is in the room. The animals are the books' lie detector. They cannot be charmed, flattered, or deceived into reporting a flattering version of the human they live beside, because they do not report at all. They simply are what their treatment has made them, and the reader is left to read backward from the creature to the conscience.
 

@@ -6,7 +6,7 @@ date: 2011-09-10
 categories: ["Industry"]
 tags: ["Accenture", "TCS", "Employee Perspective", "Work Comparison"]
 excerpt: "This is a comparison that is not surprisingly read by thousands of visitors everyday. [Click here to proceed reading with the ..."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "siddharth-rao"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Numbers and frameworks tell one side of the story. Salary bands, headcount figures, revenue growth rates, promotion timelines - these data points matter and deserve the serious analysis they receive. But they do not fully answer the question that most people asking "Accenture vs TCS?" actually want answered: what is it actually like to work there?
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-13.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-08.webp)
 *Accenture vs TCS from the employee perspective - what the daily experience is really like, how management behaves in practice, what kind of projects you actually work on, and how career trajectories differ in lived reality*
 
 This guide approaches the comparison from the ground up - from the perspective of the people who show up every day, sit through the meetings, navigate the managers, work through the project challenges, and carry the weight of the professional choices they made when they accepted an offer at one of these companies over the other.

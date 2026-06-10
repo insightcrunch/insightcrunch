@@ -6,7 +6,7 @@ date: 2014-08-23
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "victor-frankenstein", "character-analysis", "paternal-abandonment", "classic-literature"]
 excerpt: "Victor Frankenstein's catastrophic error is not creating the Creature but abandoning him immediately. The scientific-hubris reading misses the argument."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "sophia-turner"
 last_updated: 2014-08-23
@@ -16,7 +16,7 @@ Victor Frankenstein is one of the most misunderstood figures in Western literatu
 
 <!--more-->
 
-![Victor Frankenstein Character Analysis - Insight Crunch](/assets/images/blog/blog-78.webp)
+![Victor Frankenstein Character Analysis - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The distinction matters because it changes what the entire novel means. If Victor's sin is playing God, then Frankenstein is a conservative fable about the limits of human knowledge, a story that says certain doors should stay closed. If Victor's sin is abandoning his creation, then Frankenstein is a radical argument about parental obligation, about what creators owe the beings they bring into existence, and about the catastrophic consequences that follow when that obligation is refused. Anne Mellor, Ellen Moers, and Mary Poovey have each demonstrated through rigorous biographical and textual scholarship that the second reading is closer to what Mary Shelley wrote. The abandonment reading does not dismiss Victor's scientific ambition as irrelevant. It repositions ambition as context and abandonment as the specific moral failure that transforms context into catastrophe. Victor's ambition created a being who deserved care. Victor's cowardice denied that care. Everything that follows in the plot is consequence.
 

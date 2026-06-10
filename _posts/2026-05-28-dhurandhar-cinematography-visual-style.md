@@ -16,7 +16,7 @@ You can watch Dhurandhar with the sound turned all the way down and still follow
 
 <!--more-->
 
-![Dhurandhar Cinematography and Visual Style - Insight Crunch](/assets/images/blog/blog-50.webp)
+![Dhurandhar Cinematography and Visual Style - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 Most spy movies treat the lens as a delivery system. Point it at the star, light him beautifully, cut fast when fists fly, and let the frame stay out of the way of the plot. Dhurandhar refuses that arrangement. The frame is never out of the way. In the Karachi sequences the world presses inward, walls crowding the edges of the image until Hamza looks trapped even when no one is threatening him. In the Delhi sequences the same man is photographed from across cold rooms, small against grey institutional space, a tool being deployed rather than a person being met. Two cities, two pictorial grammars, and the gap between them is the whole tragedy of the saga rendered as composition.
 

@@ -6,7 +6,7 @@ date: 2003-06-09
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Cut Off", "IAS Cut Off", "UPSC Prelims Cut Off", "UPSC Mains Cut Off"]
 excerpt: "Set realistic UPSC targets with multi-year cut-off data across Prelims, Mains, and final stages."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2026-04-13
@@ -20,7 +20,7 @@ The UPSC cut-off is the single number, determined after the examination by facto
 
 Understanding UPSC cut-offs requires carefully distinguishing between three fundamentally different cut-off types, each serving a distinct selection function, responding to different driving factors, and requiring a different strategic response from you as an aspirant preparing for the examination. The Prelims cut-off determines which candidates advance from Prelims to Mains; it is based solely on your GS Paper I score (CSAT is a separate qualifying paper with a fixed 33 percent threshold that does not contribute to merit) and varies by category and by cycle based on paper difficulty, vacancy count, and the size of the appearing candidate pool. The Mains cut-off determines which candidates advance from Mains to the Interview; it is based on your total written marks across all seven merit papers (out of 1,750 marks) and varies by category, though with less year-to-year volatility than the Prelims cut-off due to the averaging effect of multiple papers. The Final cut-off determines which candidates are ultimately selected for appointment to the civil services; it is based on your combined Mains written marks plus Interview marks (out of 2,025 total marks) and varies by category, with the Final cut-off being the threshold that determines both your selection status and, through your rank position, your service allocation. Each cut-off serves a different selection function within the progressive filtering architecture of the examination, responds to different combinations of the three driving factors (paper difficulty, vacancy count, and candidate pool size), and requires a different strategic response from you in terms of preparation intensity, target-setting, risk management, and resource allocation across the stages of your preparation journey.
 
-![UPSC Cut-Off Analysis - Insight Crunch](/assets/images/blog/blog-92.webp)
+![UPSC Cut-Off Analysis - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is designed as a progressive filter: approximately ten lakh candidates apply each cycle, six to seven lakh actually appear for Prelims, twelve to fifteen thousand candidates qualify for the subsequent Mains examination, two to three thousand qualify for the Interview, and approximately eight hundred to one thousand are finally selected. The cut-offs at each stage are not arbitrary administrative thresholds set by bureaucratic discretion; they are mathematically determined boundaries that balance the number of candidates to be advanced to the next stage against the examination's difficulty level, the number of vacancies available for allocation, and the size and quality of the candidate pool competing for those vacancies.
 

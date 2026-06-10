@@ -6,7 +6,7 @@ date: 2012-08-31
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Bellatrix Lestrange", "Death Eaters", "Black Family", "Slytherin"]
 excerpt: "Complete literary analysis of Bellatrix Lestrange in Harry Potter - fanaticism as a love language, the Black sisters, Azkaban, and the duel with Molly."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 58
 author: "sarah-mitchell"
 last_updated: 2012-08-31
@@ -18,7 +18,7 @@ She is introduced laughing.
 
 Not speaking, not pleading, not denying. Laughing. The first sustained appearance of Bellatrix Lestrange in the novels is a Pensieve memory of her own trial, and the reader meets her in the moment she chooses, against every survival instinct any defendant has ever possessed, to declare her loyalty to a man who has just been defeated and is presumed dead. The Wizengamot offers her a plea. She refuses it. They offer her a chance to claim Imperius, the legal escape every other Death Eater of consequence has taken or will take. She refuses it. She tells the court she has done what she did with full knowledge and that she would do it again, and she laughs while she says so, and the laugh is the entire portrait. Twelve years in Azkaban have not yet happened to her when this memory was made; the Lestrange who laughs at her sentencing is not yet hollow-cheeked and matted-haired. She is, by every account, beautiful. And she chooses Azkaban over disavowal, and she laughs at the choosing.
 
-![Bellatrix Lestrange character analysis in Harry Potter series](/assets/images/blog/blog-90.webp)
+![Bellatrix Lestrange character analysis in Harry Potter series](/assets/images/blog/blog-101.webp)
 
 The laugh is what the analysis must work backward from. Most readers encounter the character first as the Azkaban escapee of *Order of the Phoenix*, the gaunt witch with the hooded eyes and the sharp teeth, and assume the prison did the work. The prison did some of the work. But the laughing in the courtroom predates the prison. The temperament was already there. What Azkaban did was strip away everything else, leaving only the central commitment, and the central commitment turned out to be sufficient to sustain a personality. Most prisoners in Azkaban lose themselves to the dementors because there is nothing in them strong enough to resist the soul-erosion. The eldest Black daughter resisted because the thing being eroded was already the only thing she cared about, and devotion to Voldemort was apparently denser than ordinary identity. The prison made her what she became. It did not make her what she was.
 

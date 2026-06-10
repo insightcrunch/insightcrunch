@@ -6,7 +6,7 @@ date: 2013-06-29
 categories: ["Industry"]
 tags: ["kashmir", "pakistan", "loc", "hizbul-mujahideen", "targeted-killings", "shadow-war"]
 excerpt: "Mapping the fates of Kashmir-origin terrorists who crossed into Pakistan seeking sanctuary, their decades in exile, and how the shadow war found them."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ A generation of Kashmiri men crossed the Line of Control during the 1990s expect
 
 <!--more-->
 
-![Kashmir-Origin Terrorists in Pakistan Shadow War Analysis - Insight Crunch](/assets/images/blog/blog-58.webp)
+![Kashmir-Origin Terrorists in Pakistan Shadow War Analysis - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The pattern that has emerged since then constitutes one of the most significant dimensions of India's [shadow war against terrorism](https://insightcrunch.com/2013/01/06/india-shadow-war-explained/). Kashmir-origin terrorists living in Pakistan are being tracked, located, and killed in cities across the country, from Rawalpindi's military cantonments to Karachi's sprawling neighborhoods to the villages and towns of Pakistan-Occupied Kashmir. The men who crossed the Line of Control seeking permanence found impermanence instead. Their fate reveals something fundamental about how the shadow war operates: it is not limited to the senior leadership of Lashkar-e-Taiba or Jaish-e-Mohammed. It extends to the Kashmiri exile community that provides organizational continuity, recruitment networks, and operational knowledge for cross-border infiltration. Understanding who these exiles are, where they settled, and what has happened to them since the campaign began is essential to grasping the full scope of what India's counter-terror doctrine now encompasses.
 

@@ -6,7 +6,7 @@ date: 2018-10-01
 categories: ["Industry"]
 tags: ["training-camps", "pakistan", "map", "let", "jem", "hizbul", "sindoor"]
 excerpt: "Mapping Pakistan's terror training camp network from Muridke to Muzaffarabad, the courses these facilities run, and the sites India struck in Operation Sindoor."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2018-10-01
@@ -16,7 +16,7 @@ Pakistan's terror infrastructure is not an abstraction. It carries street addres
 
 <!--more-->
 
-![Terror training camps mapped across Pakistan and Pakistan-occupied Kashmir](/assets/images/blog/blog-31.webp)
+![Terror training camps mapped across Pakistan and Pakistan-occupied Kashmir](/assets/images/blog/blog-97.webp)
 
 At the briefing it held on the afternoon of May 7, the Indian military displayed a map. That map marked twenty-one facilities spread across Pakistan and Pakistan-occupied Jammu and Kashmir, nine of them ringed as the night's targets and the remaining twelve catalogued as known but untouched. The display was the clearest public admission of a claim India's security establishment had pressed for two decades. The neighbouring state does not merely shelter wanted men. It schools them.
 

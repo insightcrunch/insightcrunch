@@ -6,7 +6,7 @@ date: 2008-01-24
 categories: ["Leisure"]
 tags: ["george-h-w-bush", "decision-reconstruction", "us-presidents", "1990-budget-deal", "tax-policy", "newt-gingrich"]
 excerpt: "Bush vowed 'Read my lips: no new taxes' in 1988 and signed the reversal in 1990. Gingrich led the revolt; Buchanan primaried; Perot took 18.9 percent."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 63
 author: "amanda-ross"
 last_updated: 2008-01-24
@@ -16,7 +16,7 @@ On the evening of June 26, 1990, George Herbert Walker Bush walked into the Whit
 
 The pledge he was breaking had been made in New Orleans on August 18, 1988, in the most quotable line of any presidential acceptance speech of the postwar era. "Read my lips: no new taxes." Peggy Noonan had drafted the phrase. He had hesitated to deliver it. Roger Ailes had insisted it stay in. Once spoken, the line became the load-bearing wall of the Bush coalition, the proof that this Yankee patrician could keep faith with the Reagan tax revolt that had elevated him from second-place finisher in the 1980 primaries to the vice presidency to eventual nominee.
 
-![George H.W. Bush 1990 budget deal Read My Lips reversal Andrews Air Force Base summit reconstruction - Insight Crunch](/assets/images/blog/blog-24.webp)
+![George H.W. Bush 1990 budget deal Read My Lips reversal Andrews Air Force Base summit reconstruction - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 Twenty-two months after the convention speech, the wall came down. What followed across the next twenty-eight months reads in retrospect like a slow-motion demolition. A lower-chamber Republican floor revolt led by a backbench Georgia minority whip named Newt Gingrich killed the first budget package in October 1990. A primary challenge from former Nixon and Reagan speechwriter Pat Buchanan drew thirty-seven percent in New Hampshire in February 1992. A third-party campaign by Texas billionaire Ross Perot, built explicitly on the broken promise, drew 18.9 percent of the general election vote that November. Bush 41, who had presided over the peaceful end of the Cold War and the largest coalition military victory since World War II, became the first incumbent since Jimmy Carter to lose a general election. The decision that bought fiscal prudence cost a presidency.
 

@@ -6,7 +6,7 @@ date: 2012-06-15
 categories: ["Industry"]
 tags: ["dhangri", "rajouri", "terror-attack", "abu-qasim", "lashkar-e-taiba", "kashmir"]
 excerpt: "The Dhangri village attack in Rajouri killed seven people through gunfire and an IED blast. The alleged mastermind was later shot inside a PoK mosque."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
 author: "robert-quinn"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ On the evening of January 1, 2023, two gunmen carrying rifles walked into the pr
 
 <!--more-->
 
-![Dhangri Terror Attack Explained](/assets/images/blog/blog-100.webp)
+![Dhangri Terror Attack Explained](/assets/images/blog/blog-84.webp)
 
 What makes the Dhangri incident analytically significant extends beyond its immediate casualties. The twin strikes represented a deliberate revival of civilian-targeted violence in the Jammu division, a region that had been largely free of major terror incidents for years. Rajouri district, which borders Pakistan-Occupied Kashmir's Kotli district along the Line of Control, had experienced sporadic security force encounters but no mass-casualty civilian attack since the mid-2000s. The assault on Dhangri broke that fragile stability and signaled that the [Lashkar-e-Taiba's operational network](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/) retained the capability and intent to strike soft civilian targets in regions far from the Kashmir Valley's established conflict zones. The subsequent elimination of the alleged planner inside a house of worship in PoK illustrated a counter-pattern that Indian security analysts and international observers have documented with increasing frequency: those who plan civilian massacres on Indian soil are themselves being reached, identified, and killed on Pakistani soil with surgical precision. Rajouri's geography, its proximity to the LoC, its mixed demographics, and its history of communal violence dating back to the 1947 partition massacres provide essential context for understanding why this particular village became a target and why the response followed the trajectory it did.
 

@@ -6,7 +6,7 @@ date: 2011-08-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Jedediah Leland", "Close Reading", "Themes", "Susan Alexander Kane", "Charles Foster Kane"]
 excerpt: "The Citizen Kane Leland review scene stages the film's strangest act of integrity, as Kane finishes the savage notice his unconscious friend had begun."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 59
 author: "chloe-martin"
 last_updated: 2011-08-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The Citizen Kane Leland review scene is the moment a sixteen-year friendship ends over a typewriter, and it is built around a gesture so contradictory that audiences have argued about it for the better part of a century. Jedediah Leland, the drama critic for Kane's Chicago paper, sits down drunk to write an honest notice of Susan Alexander Kane's operatic debut, a performance everyone in the theater has already judged a catastrophe. He gets a paragraph or two into a brutal pan and then collapses across the keys, too far gone to finish. Kane arrives, reads the unfinished assault on his own wife's talent, and rather than soften it, kill it, or fire the writer on the spot, he rolls the page back into the carriage and completes the savage notice himself, in the same condemning vein, before having Leland dismissed. A man finishes the public humiliation of the person he loves most, written by the friend he is about to discard, and he does it to keep a promise.
 
-![Jedediah Leland's drunken review scene in Citizen Kane analyzed - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Jedediah Leland's drunken review scene in Citizen Kane analyzed - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 That paradox is the reason this short passage carries more interpretive weight than its few minutes of screen time would suggest. It is not a plot beat that advances the story so much as a pressure test applied to Kane's character, and the test produces a result that refuses to resolve into a single tidy motive. Read it one way and Kane is a man of unbreakable principle, honoring the pledge of honesty he printed on the front page of his first newspaper even when honesty wounds him personally. Read it another way and he is a tyrant of self-image who cannot tolerate any verdict on his life that he did not personally author, so he seizes even his own disgrace and signs it. Read it a third way and the act looks like punishment, a man flagellating himself through the proxy of a wife he forced onto a stage she never wanted. The scene sustains all three at once, and the central argument of this analysis is that the sustaining is the point. The friendship ends not because Kane fails the test but because he passes it in a way that proves he can obey his own ideals only when he, and no one else, gets to administer them.
 

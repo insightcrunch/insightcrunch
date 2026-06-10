@@ -6,7 +6,7 @@ date: 1996-02-18
 categories: ["Industry"]
 tags: ["SAT", "International", "JEE", "NEET", "Exam Comparison"]
 excerpt: "SAT vs JEE and NEET compared: the enormous difficulty and preparation gap, the coaching-hub phenomenon and brutal admit ratios, and how the skills overlap."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "anita-das"
 last_updated: 1996-02-18
@@ -14,7 +14,7 @@ lang: en
 ---
 A student who has spent two years grinding through JEE Advanced problem sets opens an SAT math module, reads the first question, and feels something close to disbelief. The question asks for the value that makes a linear equation true. There is no integral, no system of forces, no organic mechanism to push electrons through. For a candidate trained on India's engineering entrance, the early SAT math feels less like an exam and more like a warm-up that ended before it began. That reaction is not arrogance. It is an accurate reading of two assessments that were built for different jobs, set their content ceilings at different heights, and ask students to spend wildly different amounts of their lives getting ready.
 
-![SAT vs JEE and NEET difficulty gap, coaching culture and admit ratios compared - Insight Crunch](/assets/images/blog/blog-92.webp)
+![SAT vs JEE and NEET difficulty gap, coaching culture and admit ratios compared - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 This is the comparison that surprises almost everyone who makes it for the first time, and the standard account gets it badly wrong in both directions. Foreign observers hear that the SAT is the gateway to American universities and assume it must be as punishing as the exams that gate the most competitive seats elsewhere. Indian families who know JEE and NEET intimately sometimes swing the other way and dismiss the SAT as a test that barely registers as a challenge. Both readings miss the point. The SAT and the two great Indian entrance examinations are not harder or easier versions of the same thing. They measure different qualities, on different timelines, for different ends, and the only way to understand either is to stop ranking them on a single scale and look at what each one is actually engineered to do.
 

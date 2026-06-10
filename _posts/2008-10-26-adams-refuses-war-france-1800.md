@@ -6,7 +6,7 @@ date: 2008-10-26
 categories: ["Leisure"]
 tags: ["john-adams", "decision-reconstruction", "us-presidents", "american-history", "early-republic", "quasi-war", "alexander-hamilton"]
 excerpt: "Adams sent peace envoys to France in 1800, defying Hamilton and his own cabinet. His party turned on him. He lost reelection. He called it his proudest act."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 56
 author: "chloe-martin"
 last_updated: 2008-10-26
@@ -16,7 +16,7 @@ lang: en
 
 On February 18, 1799, John Adams walked into a political ambush of his own making. Without consulting his cabinet, without warning the Federalist leadership in Congress, without seeking Alexander Hamilton's approval or even his opinion, the President of the United States sent a message to the Senate nominating William Vans Murray as minister plenipotentiary to the French Republic. The nomination landed like a grenade in the chamber. Federalist senators, who had spent the previous eighteen months building public support for a potential war against France, stared at the message in disbelief. Theodore Sedgwick of Massachusetts called the nomination "the wildest measure." Timothy Pickering, Adams's own Secretary of State, learned about it the same way the public did. Hamilton, commanding the provisional army from his New York headquarters, received the news by courier and reacted with fury that would curdle into a vendetta lasting through the 1800 election and beyond.
 
-![John Adams refuses war with France 1800 peace decision reconstruction - Insight Crunch](/assets/images/blog/blog-93.webp)
+![John Adams refuses war with France 1800 peace decision reconstruction - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The president knew exactly what he was doing. He understood that the nomination would fracture the Federalist Party, alienate his cabinet (three of whom took their orders from Hamilton rather than from him), and quite possibly cost him reelection in 1800. He did it anyway. Years later, writing to Benjamin Rush in 1805, Adams looked back on that February afternoon and declared that he would defend his missions to France "as long as I have an eye to direct my hand, or a finger to hold my pen." In another letter to Rush, he called the peace with France "the most disinterested and meritorious actions of my life." By 1811 he was even more emphatic: "I desire no other inscription over my gravestone than: 'Here lies John Adams, who took upon himself the responsibility of the peace with France in the year 1800.'"
 

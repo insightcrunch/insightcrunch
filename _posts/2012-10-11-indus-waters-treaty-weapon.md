@@ -6,7 +6,7 @@ date: 2012-10-11
 categories: ["Industry"]
 tags: ["indus-waters-treaty", "india-pakistan", "water", "strategic-weapon", "2025", "escalation"]
 excerpt: "How India turned the sixty-five-year-old Indus Waters Treaty into a strategic weapon after the Pahalgam attack, and why Pakistan calls it an act of war."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2026-05-17
@@ -16,7 +16,7 @@ On April 23, 2025, one day after gunmen killed twenty-six tourists at the Baisar
 
 <!--more-->
 
-![Indus Waters Treaty as Strategic Weapon - Insight Crunch](/assets/images/blog/blog-30.webp)
+![Indus Waters Treaty as Strategic Weapon - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The Indus Waters Treaty had survived four wars, two nuclear crises, the Kargil conflict, the 26/11 Mumbai siege, the Pulwama bombing, and the Balakot airstrikes. It had survived the 1965 war fought partly over Kashmir, the 1971 war that split Pakistan in two, and the Brasstacks crisis of 1987 that brought both nations to the brink of nuclear exchange. No Indian government, regardless of political orientation, had seriously contemplated suspending it. The treaty's resilience was not a product of goodwill; it reflected a pragmatic calculation that water disputes between nuclear-armed neighbors carried escalation risks that transcended any single crisis. That calculation held for sixty-five years. The [Pahalgam attack](https://insightcrunch.com/2012/08/06/pahalgam-attack-complete-guide/) shattered it in twenty-four hours.
 

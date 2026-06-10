@@ -6,7 +6,7 @@ date: 2013-08-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Food and Feasts", "Molly Weasley", "House-Elves"]
 excerpt: "Food in Harry Potter is never simply food. It is Rowling's most reliable metaphor for love, from the Dursleys' deprivation to the great Hogwarts feast."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 56
 author: "sarah-mitchell"
 last_updated: 2013-08-05
@@ -16,7 +16,7 @@ lang: en
 
 The first thing we learn about how the Dursleys treat their nephew is not that they lock him in a cupboard. It is that they do not feed him properly. Before the wand, before the scar, before the owl that changes everything, Rowling establishes the moral architecture of Privet Drive through the simplest register available to her: who eats well, and who is told to wait. Dudley's birthday breakfast groans with bacon. The boy under the stairs gets what is left, if anything is left. The grapefruit diet that the family endures in a later book is funny precisely because it inverts the usual arrangement, and even then the orphan is given the smallest portion and a quarter of a grapefruit while everyone else complains about restriction. The cruelty of the Dursleys is legible long before it is dramatised, and it is legible at the table.
 
-![Food and feasts as a metaphor for love across the Harry Potter books](/assets/images/blog/blog-98.webp)
+![Food and feasts as a metaphor for love across the Harry Potter books](/assets/images/blog/blog-49.webp)
 
 This is the thesis that the seven books quietly construct and never once announce: in Rowling's world, nourishment is the most trustworthy measure of care. More trustworthy than declarations, which can lie. More trustworthy than gestures, which can be performed. More trustworthy than promises, which can be broken. A character who feeds you has told you something about how they regard you that no speech could counterfeit, and a character who withholds bread has confessed something they may never say aloud. The equation runs through the whole sequence with an almost mathematical consistency. The starved boy at Privet Drive becomes the well-fed boy at the school, and the difference between those two conditions is the difference between a place that wishes him gone and a place that has decided to keep him. Where you eat tells the reader to whom you belong.
 

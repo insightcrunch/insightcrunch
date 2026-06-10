@@ -6,7 +6,7 @@ date: 2006-10-08
 categories: ["Leisure"]
 tags: ["richard-nixon", "moment-in-time", "us-presidents", "american-history", "watergate", "resignation", "august-1974"]
 excerpt: "Inside the White House on August 8, 1974, hour by hour, as Richard Nixon decided to resign and delivered his historic resignation address to the nation."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2026-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The teleprompter had been wheeled into the Oval Office and tested twice, and still the technicians fussed over the lighting because the man who would sit beneath it had asked them to. It was the evening of Thursday, August 8, 1974, and the room that had hosted every modern American crisis was being dressed for a broadcast no occupant of the building had ever delivered. A makeup artist named Ray Voege, who had powdered the same face through six years of addresses, worked the perspiration off a forehead that would not stop producing it. At a few minutes before nine o'clock, the thirty-seventh president of the United States walked the short corridor from the residence, took the chair behind the Wilson desk, and prepared to tell two hundred and eleven million Americans that he was quitting. No one in the history of the Republic had done what he was about to do. The Constitution did not describe it. The statute books did not anticipate it. The men who designed the office had built impeachment as the remedy for a president who would not leave, and had never seriously imagined one who would.
 
-![Richard Nixon final hours before resignation address August 8 1974 White House - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Richard Nixon final hours before resignation address August 8 1974 White House - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 What follows is a reconstruction of the roughly eighteen hours that bracketed that broadcast, from the gray light of early morning through the late hours after the cameras went dark. It is a window narrow enough to hold under a magnifying glass, and the magnification reveals something the standard account of Watergate tends to flatten. The collapse of a presidency is usually told as a long erosion, a drip of revelations across twenty-six months. That telling is accurate as far as it goes. But the office did not actually change hands across twenty-six months. It changed hands inside a single compressed day, through a sequence of meetings, notifications, and constitutional gestures that had to be performed correctly and in order, by exhausted people operating without precedent, while the world watched. The argument of this piece is that August 8 deserves to be read not only as the end of a scandal but as the rarest thing the modern presidency produces: a working demonstration that the office can be made to release its holder. Call it the counter-pattern case. The series this article belongs to traces a single long arc, the expansion of executive power across four national emergencies and its failure to retract afterward, and August 8 is the day that arc met a wall it could not climb.
 

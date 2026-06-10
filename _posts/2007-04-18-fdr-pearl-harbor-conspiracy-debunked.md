@@ -6,7 +6,7 @@ date: 2007-04-18
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "myth-bust", "us-presidents", "historical-myths", "pearl-harbor", "conspiracy-theories"]
 excerpt: "The claim that FDR knew Pearl Harbor was coming and let it happen runs from Beard to Stinnett. Three generations of historians have rejected it. Here is why."
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2026-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 On the morning of November 27, 1941, a coded dispatch reached Admiral Husband E. Kimmel at his headquarters above the Pacific Fleet anchorage on Oahu. The first line did not waste words. It told him to treat what followed as a war warning. Negotiations with Tokyo had effectively collapsed, the message said, and an aggressive Japanese move was expected within the next several days. Then it listed where that move was likely to land: the Philippines, the Thai or Kra Peninsula, possibly Borneo. Hawaii was not on the list. Kimmel read the dispatch, conferred with his staff, and concluded that the threat pointed thousands of miles to the west of where his battleships sat in their berths. Ten days later, on the morning of December 7, the first Japanese dive bombers came out of the sun over Battleship Row.
 
-![FDR Pearl Harbor advance-knowledge conspiracy debunked, the November 1941 warnings reconstructed - Insight Crunch](/assets/images/blog/blog-73.webp)
+![FDR Pearl Harbor advance-knowledge conspiracy debunked, the November 1941 warnings reconstructed - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 That single dispatch, and the gap between what it warned about and what actually happened, sits at the center of one of the most durable accusations in American political history: that Franklin Roosevelt knew the attack was coming, deliberately withheld the warning from his Pacific commanders, and let more than two thousand sailors and soldiers die so that an isolationist nation would finally consent to war. The charge has been made by serious academic historians, by retired admirals who were present, by a Pulitzer Prize winner, and by a former Navy photographer who spent seventeen years filing Freedom of Information Act requests. It has been graded, weighed, and rejected by the largest peacetime congressional investigation in the country's history and by every major scholar who has examined the documentary record since. And it refuses to die. This is the story of where the conspiracy came from, what each generation of accusers actually argued, what the declassified record shows, and why the honest verdict is more uncomfortable than either side prefers: there was no plot, but there was a catastrophe of intelligence that no clean villain can absorb.
 

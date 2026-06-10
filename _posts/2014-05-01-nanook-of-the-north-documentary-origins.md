@@ -6,7 +6,7 @@ date: 2014-05-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Nanook of the North", "Robert Flaherty", "Documentary", "Film History", "World Cinema"]
 excerpt: "Nanook of the North founded the feature documentary and its central ethical problem, the staging of reality, shaping how nonfiction cinema works ever since."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2014-05-01
@@ -16,7 +16,7 @@ Robert Flaherty's Nanook of the North did not merely record a way of life in the
 
 The film also founded a problem, and the problem is inseparable from the form. Flaherty reconstructed scenes, directed his subjects, had them perform older methods that had already passed out of daily use, and built a set when reality would not hold still for his camera. He then presented the result as an unmediated window onto life in the actual Arctic. The most useful way to understand Nanook of the North is to hold those two facts in a single grip: it is the founding work of feature nonfiction cinema, and it is the founding case of nonfiction cinema's central deception, the claim to show truth while quietly arranging it. Everything that makes the picture historically decisive and everything that makes it ethically troubling come from the same root.
 
-![How Nanook of the North founded the feature documentary and its staging paradox, an analysis - Insight Crunch](/assets/images/blog/blog-29.webp)
+![How Nanook of the North founded the feature documentary and its staging paradox, an analysis - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 This article treats Nanook of the North as the origin point it is, and it does so comparatively, because the form did not arrive from one mind alone. In the same decade, two other founding theories of nonfiction cinema took shape an ocean away. In the Soviet Union, Dziga Vertov built a body of work arguing for exactly the opposite of Flaherty's method: life caught unawares, truth assembled through montage, the camera as a mechanical eye superior to the human one. In Germany, Walter Ruttmann arranged a city's day into a patterned symphony of motion with no protagonist at all. Three answers to a single question, all within a few years of one another, and every nonfiction picture since descends from one of them or some braid of the three. To understand what Nanook gave the form, you have to see what the alternatives looked like and why Flaherty's romance of the reconstructed hunter beat them to the popular imagination.
 

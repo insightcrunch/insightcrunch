@@ -6,7 +6,7 @@ date: 2013-03-27
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Villains", "Morality", "Voldemort", "Free Will"]
 excerpt: "Villain origins in Harry Potter mapped on a born, made, and chosen spectrum from Greyback to Pettigrew, and why explanation never amounts to absolution."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2013-03-27
@@ -16,7 +16,7 @@ lang: en
 
 Every villain in the wizarding world arrives carrying a question the reader is invited to answer twice. The first answer is causal: how did this person come to do these things? The second is moral: now that we know, does the knowing change what they owe? Rowling spends seven books teaching the reader to keep those two answers apart, because the entire ethical architecture of her world depends on the gap between them. To explain a person is not to excuse them. To understand the road that led someone to cruelty is not to wave them through the gate of judgment. The series argues this so consistently, and so quietly, that a large portion of its readership has missed it entirely.
 
-![Villain origins and moral complexity analysis across Harry Potter books](/assets/images/blog/blog-63.webp)
+![Villain origins and moral complexity analysis across Harry Potter books](/assets/images/blog/blog-44.webp)
 
 Read the villains as a set rather than as individuals and a structure appears. They fall along a spectrum defined by a single variable: how much choice was involved in their becoming. At one end stands Fenrir Greyback, who is given no origin at all, presented as appetite that simply exists, the closest the series comes to the idea of a creature born to harm. At the other end stands Peter Pettigrew, who had no traumatic childhood the books show, no family pressure, no coercion, and who walked into atrocity because the winning side felt warmer. Between those poles sit the made villains, Tom Riddle and Bellatrix Lestrange, shaped by orphanage and bloodline into the people they chose to remain. And occupying the most uncomfortable middle ground is Draco Malfoy, handed an evil to perform under threat to everyone he loves, who in the decisive moment cannot lift the wand.
 

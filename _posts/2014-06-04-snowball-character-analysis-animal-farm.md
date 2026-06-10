@@ -6,7 +6,7 @@ date: 2014-06-04
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "snowball", "character-analysis", "literary-analysis", "political-allegory"]
 excerpt: "Snowball is specifically Leon Trotsky. His alternative leadership was not fundamentally different from Napoleon's in its revolutionary-elite assumptions."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2014-06-04
@@ -16,7 +16,7 @@ Snowball in Animal Farm is Leon Trotsky, and the most important thing about Snow
 
 <!--more-->
 
-![Snowball Character Analysis in Animal Farm - Insight Crunch](/assets/images/blog/blog-22.webp)
+![Snowball Character Analysis in Animal Farm - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The argument this article advances is that Snowball is Trotsky, that this identification is not decorative but diagnostic, and that the diagnostic value lies in what it reveals about the novel's critique of revolutionary vanguardism itself. Snowball was not Orwell's preferred alternative. Orwell's preferred alternative was not any pig. Bernard Crick's authorized biography of Orwell, published in 1980, documents Orwell's consistent anti-vanguardism across the 1930s and 1940s, from the Spanish Civil War essays through the composition of Animal Farm. John Newsinger's Orwell's Politics, published in 1999, extends this analysis to show that Orwell's socialism was specifically anti-Leninist: Orwell believed in democratic, decentralized, worker-controlled socialism, not in the leadership of a revolutionary party claiming to represent workers while governing them. Snowball is the fictional embodiment of the revolutionary leader who is smarter, braver, and more articulate than his rival, and who still cannot escape the structural trap of the vanguard position he occupies.
 

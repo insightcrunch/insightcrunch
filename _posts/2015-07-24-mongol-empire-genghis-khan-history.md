@@ -6,7 +6,7 @@ date: 2015-07-24
 categories: ["Leisure"]
 tags: ["mongol-empire", "genghis-khan", "medieval-asia", "steppe-empires", "pax-mongolica", "medieval-history"]
 excerpt: "The Mongol Empire was history's largest contiguous land empire and its most misunderstood. The atrocities were real, and the institutional innovations were too."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 73
 author: "diana-patel"
 last_updated: 2015-07-24
@@ -16,7 +16,7 @@ The Mongol Empire was the largest contiguous land empire in the history of the w
 
 <!--more-->
 
-![The Mongol Empire and Genghis Khan - Insight Crunch](/assets/images/blog/blog-71.webp)
+![The Mongol Empire and Genghis Khan - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 Two incompatible stories tend to circulate about this empire. In the older one the Mongols are a hurricane of destruction, a mounted horde that burned libraries, raised pyramids of skulls outside conquered cities, and set the development of half a continent back by a century. In the newer one, popularized above all by Jack Weatherford's widely read book on Genghis Khan, the Mongols become unsung modernizers who guaranteed safe trade across Eurasia, practiced religious tolerance as deliberate policy, and stitched the medieval world into something close to a single connected system. The argument advanced here is that the choice between these stories is a false one. The killing was real and is attested by detailed and often eyewitness sources. The administrative innovation was real and is attested by the same kind of sources. Honest scholarship holds both truths at once and refuses to let either erase the other.
 

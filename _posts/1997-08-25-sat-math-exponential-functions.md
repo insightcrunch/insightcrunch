@@ -6,7 +6,7 @@ date: 1997-08-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Exponential Functions", "Advanced Math", "Test Prep"]
 excerpt: "SAT exponential functions made simple: growth, decay, doubling time and modeling equations, with worked examples and the growth-factor trap explained."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 1997-08-25
@@ -14,7 +14,7 @@ lang: en
 ---
 A student aiming above the middle band loses more points to one quiet error on exponential functions than to almost any other single Advanced Math idea. The error is not arithmetic. It is reading a phrase like "the population grows 5 percent each year" and writing the model with 5, or 0.05, or 1.5 where the number 1.05 belongs. The wrong factor produces a clean-looking equation, a confident bubble, and a missed point that the score report will never explain. Exponential growth and decay questions look intimidating because they arrive wrapped in bacteria, bank accounts, radioactive samples, and depreciating cars, but underneath the costume they reduce to two equation forms and a short list of decisions. This guide teaches you to make those decisions fast, so the costume stops fooling you.
 
-![SAT exponential functions growth and decay worked examples - Insight Crunch](/assets/images/blog/blog-100.webp)
+![SAT exponential functions growth and decay worked examples - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 Here is what you will be able to do by the end. You will glance at a table of values and know within five seconds whether it shows linear or exponential behavior. You will translate any percent-change word problem into a correct modeling equation without hesitating over whether the rate becomes a factor. You will set up doubling-time and half-life problems with the exponent in the right place, handle compound interest with any compounding frequency, and recognize the rare moments when the continuous form with the constant e is the one a question wants. You will also learn the single naming rule, the InsightCrunch growth-rate versus growth-factor rule, that prevents the most expensive mistake on this entire topic. None of that is available, fully worked and in one place, from a generic prep overview or an encyclopedia entry. The skill is built by solving, so most of this page is solved problems with the reasoning narrated the way a tutor sitting next to you would narrate it.
 

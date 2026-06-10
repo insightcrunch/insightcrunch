@@ -6,7 +6,7 @@ date: 1996-08-25
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Engineering", "STEM", "Score Ranges"]
 excerpt: "SAT scores for top engineering programs explained: middle-50 ranges, why the math side weighs more than reading, plus accessible strong schools and a table."
-image: "/assets/images/blog/blog-97.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "christopher-wells"
 last_updated: 1996-08-25
@@ -16,7 +16,7 @@ Two applicants sit on a reader's desk with the same total of 1480. One earned a 
 
 That asymmetry is the whole point of this guide. The SAT score that gets a student into a strong engineering program is not just a total to clear; it is a profile to build, and the math half of that profile carries weight that the public conversation almost completely ignores.
 
-![SAT scores for top engineering programs middle-50 ranges and math-weighting reference - Insight Crunch](/assets/images/blog/blog-97.webp)
+![SAT scores for top engineering programs middle-50 ranges and math-weighting reference - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 Engineering admissions sit among the most selective corners of American higher education, and they reward a reading of the data that goes beyond a glance at one published band. A student aiming at a top technical school needs to know where the middle-50 ranges actually fall, why the quantitative sub-score tends to matter more than the verbal one for this field, which internal majors are the genuine bottlenecks, and which strong programs hand a real degree to applicants whose totals fall short of the elite tier. Get those four things right and the same score does noticeably more work. This piece builds each of them out, ends with a reference table you can return to, and gives you a decision rule you can actually apply to your own numbers.
 

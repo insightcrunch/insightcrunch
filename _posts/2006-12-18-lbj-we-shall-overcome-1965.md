@@ -6,7 +6,7 @@ date: 2006-12-18
 categories: ["Leisure"]
 tags: ["lyndon-johnson", "close-read", "us-presidents", "voting-rights-act", "we-shall-overcome", "selma"]
 excerpt: "LBJ told Congress 'and we shall overcome' on March 15, 1965, eight days after Selma's Bloody Sunday. The movement's anthem turned into the law of the land."
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 71
 author: "jessica-kim"
 last_updated: 2026-06-01
@@ -16,7 +16,7 @@ In a small frame house on Lapsley Street in Selma, Alabama, a knot of weary orga
 
 The address that produced that tear is the subject of this close read. It is one of the few speeches in the American canon whose effect can be measured almost to the day in legislation: the Voting Rights Act, requested that night, became law on August 6, 1965, and it reshaped the political map of the South more completely than any statute since Reconstruction. The speech ran to roughly 3,920 words. It was written in a single feverish day. It has been called, by people who do not agree on much else, the finest presidential address of the twentieth century and a piece of moral theft. This article reads it section by section, traces the eight days that produced it, and tests the argument it built.
 
-![Lyndon Johnson We Shall Overcome March 1965 voting rights address to Congress close read - Insight Crunch](/assets/images/blog/blog-79.webp)
+![Lyndon Johnson We Shall Overcome March 1965 voting rights address to Congress close read - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The house thesis of this series holds that the modern presidency was forged in crisis and that the emergency powers minted in each crisis outlived the emergency, leaving every later occupant of the office wielding authority designed for conditions that had passed. Lyndon Johnson's voting-rights address is the cleanest counterexample and the cleanest confirmation at once. It shows expanded federal power being turned outward, against the states, to enforce a constitutional guarantee that had sat unenforced for ninety years. The same enlargement of executive reach that produced internment and warrantless surveillance produced, in this instance, the dismantling of the literacy test and the poll tax. The ratchet of central authority is not morally fixed. On March 15, 1965, it cut in favor of the franchise.
 

@@ -5,7 +5,7 @@ date: 2010-07-09
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "We might soon be able to search a song or music in the market and click the download button to save it in our Android devices. The idea is pretty..."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 1
 author: "marcus-hall"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 We might soon be able to search a song or music in the market and click the download button to save it in our Android devices. The idea is pretty compelling of Google Music, if that is what it is going to be called in the end. Google teased the audience a few weeks ago about this which would be a new segment in the Android market.
 
-![Spotify vs iTunes vs Amazon Music vs Google Music](/assets/images/blog/blog-37.webp)
+![Spotify vs iTunes vs Amazon Music vs Google Music](/assets/images/blog/blog-83.webp)
 Spotify vs iTunes vs Amazon Music vs Google Music
 
 Read more: [TCS Bangalore fresher Sudarshan Commits suicide »](https://insightcrunch.com/2010/08/22/tcs-bangalore-fresher-sudarshan-commits-suicide/)

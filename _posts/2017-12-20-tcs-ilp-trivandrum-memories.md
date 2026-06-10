@@ -6,7 +6,7 @@ date: 2017-12-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Trivandrum", "Trainee Memories"]
 excerpt: "TCS ILP Trivandrum memories: personal reflections on the training experience, friendships made, Kerala life, and why ILP stays with you long after it ends."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "siddharth-rao"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 There are career experiences you remember in outline - the job you had, the company you worked for, the projects you contributed to. And then there are experiences you remember in texture - the specific smell of a morning, the exact feeling of a friendship forming in real time, the precise moment something difficult became beautiful. TCS ILP Trivandrum is the second kind.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-75.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-04.webp)
 *TCS ILP Trivandrum from every angle - the training experience, the city of Thiruvananthapuram, the accommodations, the weekend trips across Kerala and beyond, the food, the friendships, the assessments, and the memories that stay long after the three months end*
 
 Ask any TCS professional who went through ILP at Trivandrum about the experience, and something specific happens in their face. There is a pause - not a searching pause, but a savoring one - before they start. And then the specific memories come in a rush: the coconut oil in every canteen dish that made North Indians groan and South Indians feel at home, the weekend buses to Varkala beach, the coffee shop conversations that stretched until the accommodation curfew threatened to close them, the last day when tears appeared on faces that had been professionally composed for three months.

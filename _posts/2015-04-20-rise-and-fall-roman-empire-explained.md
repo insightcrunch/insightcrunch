@@ -6,7 +6,7 @@ date: 2015-04-20
 categories: ["Leisure"]
 tags: ["roman-empire", "rise-and-fall", "ancient-rome", "late-antiquity", "historiography", "ancient-history"]
 excerpt: "Rome did not fall in 476 CE. The Western administrative apparatus dissolved across the fifth century, but most of Rome survived as transformed institutions."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2015-04-20
@@ -16,7 +16,7 @@ Rome did not fall. The Western administrative apparatus dissolved across the fif
 
 <!--more-->
 
-![Rise and Fall of the Roman Empire - Insight Crunch](/assets/images/blog/blog-45.webp)
+![Rise and Fall of the Roman Empire - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 That synthesis, which holds collapse and transformation together rather than choosing between them, is the position this article defends. It draws on Edward Gibbon's canonical narrative, Peter Brown's 1971 paradigm shift, Bryan Ward-Perkins's 2005 archaeological counter-argument, and Peter Heather's 2005 political-military analysis. Wikipedia's entry on the fall of the Western Roman Empire catalogs these positions neutrally without adjudicating among them, because Wikipedia's editorial rules prohibit taking sides. This article takes a side. The side it takes is that Ward-Perkins and Heather are substantially correct for the Western provinces, Brown is substantially correct for the Eastern Empire and for certain dimensions of Western cultural continuity, and the most honest reading treats collapse and transformation as descriptions of the same events measured at different registers. The material register collapsed. The cultural register transformed. Choosing one description and discarding the other produces a false picture.
 

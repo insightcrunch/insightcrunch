@@ -6,7 +6,7 @@ date: 2024-05-20
 categories: ["Technology"]
 tags: ["Azure", "Landing Zones", "Architecture", "Governance", "Networking", "Cloud Computing"]
 excerpt: "Azure landing zones give a governed, multi-subscription cloud foundation. Learn the management group hierarchy and the platform versus application split."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 61
 author: "kevin-reeves"
 last_updated: 2024-05-20
@@ -16,7 +16,7 @@ A cloud environment rarely fails all at once. It erodes. Someone spins up a subs
 
 The problem a landing zone solves is the cost of disorder discovered late. When a security team finally tries to enforce a tagging standard across a sprawl of ungoverned subscriptions, the work is no longer a policy assignment; it is a migration project touching hundreds of resources owned by people who have moved teams. When a network team tries to route every subscription through a central firewall after the fact, half the workloads already have public endpoints and direct internet egress baked into their design. The structure that would have been cheap to impose on day one becomes expensive precisely because it was deferred. A landing zone front-loads that structure so the foundation is in place before the first production workload arrives.
 
-![Azure landing zones management group hierarchy and platform versus application split - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Azure landing zones management group hierarchy and platform versus application split - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 This guide treats the landing zone as an architecture pattern with a defensible internal logic rather than a checklist to copy. You will leave understanding what a landing zone is at the level of its moving parts, how the management group hierarchy organizes subscriptions so that governance applies once at the top instead of being repeated per subscription, why the platform concerns split cleanly from the application concerns, and how the whole arrangement aligns with the Cloud Adoption Framework that Microsoft publishes as its reference. The aim is that you can design a foundation that scales, defend each placement decision in a review, and recognize the failure modes (sprawl, per-subscription policy, mixed concerns) before they cost you a quarter to unwind.
 

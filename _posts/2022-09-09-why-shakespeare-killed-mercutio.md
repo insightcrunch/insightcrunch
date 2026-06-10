@@ -6,7 +6,7 @@ date: 2022-09-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "mercutio", "john-dryden", "why-mercutio-dies"]
 excerpt: "Dryden said Shakespeare killed Mercutio to stop Mercutio from killing the play itself, and the famous claim opens a real debate about the tragedy's design."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2022-09-09
@@ -14,7 +14,7 @@ lang: en
 ---
 A poet who had been dead for nearly sixty years left behind a single sentence about a single character, and that sentence has shaped how generations read the death scene at the center of the Verona tragedy. The poet was John Dryden, writing in 1672, and the sentence reports something Shakespeare supposedly said about the swordsman, jester, and dreamer who dies halfway through the third act. According to Dryden, Shakespeare confessed that he was forced to kill the character early because, if he had not, the character would have killed him. The remark is witty, memorable, and almost certainly the most quoted thing ever written about Mercutio. It is also a claim with a hidden argument inside it, and that argument is worth dragging into the light.
 
-![Did Shakespeare Kill Mercutio to Save the Play? - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Did Shakespeare Kill Mercutio to Save the Play? - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The hidden argument runs like this. A figure of such verbal energy, such anti-romantic mockery, such sheer stage appeal, cannot survive into the second half of a love tragedy without unbalancing it. The vitality that makes the character irresistible in the first two acts becomes a liability the moment the play needs to harden into grief. So the dramatist, on this reading, performs an act of structural surgery. He removes the threat to the design before the design can be ruined. The death is not primarily about the feud, or about Romeo's honor, or about the machinery of the plot. It is about craft. It is about a writer protecting his own work from a creation that had grown too large for the frame.
 

@@ -6,7 +6,7 @@ date: 2002-11-14
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "Polity", "Constitution", "Governance", "International Relations", "IAS Preparation"]
 excerpt: "Complete UPSC Mains GS Paper 2 strategy: constitution, governance, welfare schemes, international relations with answer frameworks."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 65
 author: "deepika-joshi"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC Mains GS Paper 2 is the governance paper, and the aspirants who internalise
 
 The cognitive shift required for effective GS Paper 2 preparation is from treating polity, governance, and international relations as separate subjects to treating them as interconnected dimensions of Indian statecraft. The constitutional provisions on federalism connect to the contemporary policy debates on centre-state relations. The judicial pronouncements on fundamental rights connect to the welfare scheme implementation challenges. The international relations engagements connect to the constitutional framework for foreign policy and the domestic policy implications of international commitments. Aspirants who can articulate these connections produce GS Paper 2 answers that demonstrate the integrative analytical capacity UPSC explicitly rewards. Aspirants who treat polity, governance, and IR as separate silos produce fragmented answers that consistently underscore the available marks.
 
-![UPSC Mains GS Paper 2 Governance Polity Constitution IR Strategy - Insight Crunch](/assets/images/blog/blog-09.webp)
+![UPSC Mains GS Paper 2 Governance Polity Constitution IR Strategy - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 By the end of this guide you will understand the architecture of GS Paper 2 across its constitutional, governance, social welfare, and international relations subtopics, the recurring themes UPSC consistently tests within each subtopic, the source hierarchy that produces depth without dilution, the answer-writing techniques specific to GS Paper 2 (the deployment of constitutional provisions, the integration of Supreme Court judgments, the use of committee report recommendations, the linkage of policy with implementation realities), the integration of GS Paper 2 with other Mains papers and the Essay paper, the common mistakes aspirants make, and the 90-day intensive plan that produces measurable score improvement. The total time investment for dedicated GS Paper 2 preparation across the full cycle is approximately 150 to 200 hours, which is substantial but produces returns commensurate with the paper's 250-mark allocation.
 

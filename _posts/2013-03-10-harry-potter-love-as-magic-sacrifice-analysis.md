@@ -6,7 +6,7 @@ date: 2013-03-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Love", "Sacrifice", "Lily Potter", "Magic System"]
 excerpt: "Love as a magical mechanism in Harry Potter - Lily's sacrifice, maternal power, compelled love, friendship, and the strict operating conditions of devotion."
-image: "/assets/images/blog/blog-95.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 57
 author: "sophia-turner"
 last_updated: 2013-03-10
@@ -16,7 +16,7 @@ lang: en
 
 The most powerful magic in the wizarding world is not taught at Hogwarts. It is not catalogued in any spellbook, not examined in any O.W.L., not demonstrated by any professor in front of a class. It cannot be acquired through study, refined through practice, or stolen from a more accomplished caster. The strongest force the seven books ever describe is one that the cleverest wizard who ever lived spent his whole existence failing to understand, and the failure is not incidental to his villainy. The failure *is* his villainy.
 
-![Love as magic analysis across Harry Potter books](/assets/images/blog/blog-95.webp)
+![Love as magic analysis across Harry Potter books](/assets/images/blog/blog-96.webp)
 
 Readers who shrug at the famous declaration that the boy survived because his mother gave her life for him tend to treat it as sentiment. A children's-book platitude. The power of a mother's love, printed on a greeting card and slipped between the Quidditch matches and the wand duels. That reading is not wrong so much as catastrophically incomplete, because it mistakes a piece of engineering for a piece of decoration. When Albus Dumbledore tells the eleven-year-old in the hospital wing that being loved so deeply leaves a mark that lives in the very skin, he is not offering comfort. He is describing a mechanism. He is telling a child the operating principle of a magic that has rules, conditions, failure modes, and a single, fatal incompatibility with the man who has spent decades trying to defeat death.
 

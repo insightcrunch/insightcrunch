@@ -6,7 +6,7 @@ date: 2018-05-07
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "ফেলুদা কীভাবে বাঙালি ভদ্রলোক শ্রেণির আদর্শ আত্মপ্রতিচ্ছবি হয়ে উঠেছেন তার গভীর বিশ্লেষণ"
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 144
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ভদ্রলোক গোয়েন্দা ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-59.webp)
+![ভদ্রলোক গোয়েন্দা ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-70.webp)
 
 ## ভদ্রলোক শব্দের ইতিহাস এবং তার বহু স্তর
 

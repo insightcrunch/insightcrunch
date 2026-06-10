@@ -6,7 +6,7 @@ date: 2010-02-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Charles Foster Kane", "Orson Welles", "Close Reading", "Themes", "Character Analysis"]
 excerpt: "Citizen Kane explained as the full life of Charles Foster Kane, told in chronological order and read as analysis, so each plot beat shows what happened and why."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2010-02-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Most people who look up Citizen Kane want one simple thing: a clear account of what actually happens. They have heard that it is the greatest film ever made, they know there is a sled, and they have a vague sense that a rich man dies whispering a strange word. What they rarely get is the version that matters, which is the life of Charles Foster Kane laid out in plain order and then read for meaning rather than recited as trivia. This guide gives you that. It walks Kane's biography from the snow outside a Colorado boardinghouse to the smoke rising over Xanadu, and at every step it pairs the question "what happened" with the harder question the picture is really built around: why does the film refuse to show it to us this way?
 
-![Charles Foster Kane's full life story explained in chronological order - Insight Crunch](/assets/images/blog/blog-29.webp)
+![Charles Foster Kane's full life story explained in chronological order - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 That refusal is the whole argument of this article. Told straight, in the order the events occurred, the life of Kane is a familiar American shape: a poor boy strikes it lucky, builds an empire, marries badly, overreaches, and dies rich and alone. You have met that man in a dozen lesser stories. The genius of the picture is that it declines to tell this familiar story in the familiar way. It shatters the chronology, hands the pieces to five biased witnesses, opens with the death, and withholds the one fact that would tie the life together until the final seconds, by which point the only person who could have used it is gone. So the proper way to understand Kane is to hold two versions in your head at once. There is the plain biography, which this guide reconstructs in order. And there is the scrambled telling, which the film actually delivers. The space between those two versions is where the meaning lives, and learning to read that gap is the single most useful skill you can bring to the film.
 

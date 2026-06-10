@@ -6,7 +6,7 @@ date: 2013-01-17
 categories: ["Industry"]
 tags: ["safe-havens", "pakistan", "karachi", "lahore", "rawalpindi", "targeted-killings", "shadow-war"]
 excerpt: "How Pakistan's cities, once considered safe havens for India's most-wanted terrorists, became active hunting grounds for covert elimination campaigns."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Pakistan promised its proxy warriors one thing above all others: sanctuary. For 
 
 <!--more-->
 
-![How Safe Havens Became Hunting Grounds - Insight Crunch](/assets/images/blog/blog-40.webp)
+![How Safe Havens Became Hunting Grounds - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The transformation did not happen overnight, and it did not happen everywhere at once. It began in Karachi in early 2022, when Zahoor Mistry, one of the five hijackers of Indian Airlines flight IC-814, was shot dead by two motorcycle-borne assailants outside his furniture shop in Akhtar Colony. Mistry had lived in Karachi for years under the alias Zahid Akhund, running Crescent Furniture and moving through the city's chaotic streets with the confidence of a man who believed no one was looking for him. Two bullets to the head proved otherwise. Within months, similar killings surfaced in Rawalpindi, then Lahore, then Rawalakot in Pakistan-Occupied Kashmir, then Sialkot, then Nawabshah in rural Sindh, then Landi Kotal deep inside Khyber Pakhtunkhwa's tribal belt. Each killing shared operational features with the others: motorcycle-borne assailants, point-blank range, precise targeting of individuals designated as wanted by India, rapid escape, and no claim of responsibility.
 

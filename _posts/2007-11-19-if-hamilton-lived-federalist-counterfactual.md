@@ -6,7 +6,7 @@ date: 2007-11-19
 categories: ["Leisure"]
 tags: ["alexander-hamilton", "counterfactual", "us-presidents", "federalist-party", "aaron-burr", "two-party-system"]
 excerpt: "Alexander Hamilton died in Burr's 1804 duel at age 49. The Federalist Party limped through 1816, then collapsed. What if he had lived? Four historians argue."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 64
 author: "amanda-ross"
 last_updated: 2026-05-25
@@ -16,7 +16,7 @@ The morning of July 11, 1804 was hot on the Weehawken Heights above the Hudson R
 
 The Federalist Party had just lost its organizational mind. Within twelve years, it would be functionally extinct as a national force. The Hartford Convention of December 1814 destroyed what remained of the party's reputation through New England secession rhetoric during the War of 1812. James Monroe ran essentially unopposed for the presidency in 1820, winning every electoral vote except one. The second American party system that emerged in the 1830s pitted Jacksonian Democrats against Whigs rather than Federalists against Republicans.
 
-![Alexander Hamilton 1804 Burr duel Federalist Party survival counterfactual - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Alexander Hamilton 1804 Burr duel Federalist Party survival counterfactual - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 What if Burr's shot had missed?
 

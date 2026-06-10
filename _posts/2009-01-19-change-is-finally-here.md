@@ -5,7 +5,7 @@ date: 2009-01-19
 categories: ["Leisure"]
 tags: ["World"]
 excerpt: "Obama's inauguration and the weight of global expectations: Gaza, India-Pakistan tensions, economic crisis, and the bold promise of change."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
@@ -17,7 +17,7 @@ Lets  hope he brings about the long-desired change that his campaigns spoke abo
 
 May the first Afro-American president create history during his tenure.
 
-![Obama Presidency](/assets/images/blog/blog-75.webp)
+![Obama Presidency](/assets/images/blog/blog-02.webp)
 Obama Presidency
 
 Read more: [Gmail grows up with offline e-mail access »](https://insightcrunch.com/2009/01/28/gmail-grows-up-with-offline-e-mail-access/)

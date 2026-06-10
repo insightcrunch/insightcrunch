@@ -6,7 +6,7 @@ date: 2026-06-13
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Constitutional Law", "Taxing Power", "Immigration", "Legal", "Policy"]
 excerpt: "The H-1B fee was struck down as an unlawful tax, not a fee. Here is the functional test that decides when a government charge becomes a tax rather than a fee."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
 author: "thomas-reid"
 last_updated: 2026-06-13
@@ -14,7 +14,7 @@ lang: en
 ---
 The H-1B fee at the center of the Massachusetts ruling was never struck down because a judge disliked the immigration policy behind it. It was struck down because of what it was, structurally, as a matter of constitutional classification: a tax, imposed by the executive, that the Constitution permits only Congress to levy. That single classification did all the work. Once the court concluded that the $100,000 charge on certain new petitions functioned as a tax rather than as a regulatory fee, the outcome followed almost mechanically, because the power to tax sits with the legislature and a president cannot manufacture it by proclamation. Understanding precisely why a payment can be a tax even when the government insists it is a fee, and the test that decides the question, is the difference between reading the headline and understanding the law.
 
-![Why the H-1B $100,000 fee was ruled a tax, not a fee, a constitutional analysis - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Why the H-1B $100,000 fee was ruled a tax, not a fee, a constitutional analysis - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 This article is about that test and nothing else. It is not a recap of who won and who lost, which the [June 8 ruling explained in full is the place to start](/2026/06/10/h1b-fee-unlawful-tax-ruling-explained/), and it is not a walk through the reasoning chain from the tax finding to the nationwide remedy, which has [its own detailed treatment](/2026/06/17/h1b-fee-ruling-legal-reasoning/). It is a constitutional and statutory deep dive into one question that controlled everything else. When is a government charge a tax, and when is it a fee? The distinction sounds technical, even semantic, but it is one of the oldest load-bearing lines in American public law, and it is the reason a payment labeled a fee in a presidential proclamation could be vacated as an unlawful tax. A reader who finishes this piece should be able to explain the functional test in plain terms, apply it feature by feature to any charge, and see why that classification, not immigration politics, decided the case.
 

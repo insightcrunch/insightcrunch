@@ -5,7 +5,7 @@ date: 2024-12-15
 categories: ["Leisure"]
 tags: ["solo-dining", "miami", "restaurants", "miami-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "cuban-food", "south-beach", "wynwood", "brickell"]
 excerpt: "From omakase in South Beach to ventanitas in Little Havana, the complete guide to eating alone in Miami."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 45
 author: "katherine-blake"
 last_updated: 2026-03-31
@@ -13,7 +13,7 @@ lang: en
 ---
 Miami is a city that eats with its hands. It eats standing at a ventanita window on Calle Ocho, picking up a cortadito and a croqueta before the morning heat sets in. It eats sitting at an outdoor counter in Wynwood, tearing into a plate of ceviche while reggaeton pulses from a speaker somewhere down the block. It eats late, starting dinner at 10 PM and finishing at midnight, because in this city, the night is when the real eating begins. And increasingly, Miami eats alone, because the city's explosive restaurant growth, its transient population of travelers and remote workers, and its deeply embedded Latin American street food culture have created one of the most exciting solo dining scenes in the American South.
 
-![Dining - Insight Crunch](/assets/images/blog/blog-78.webp)
+![Dining - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 This guide is the most thorough resource ever assembled on solo dining in Miami. It covers every major neighborhood from South Beach to Little Havana, from Wynwood to Coral Gables, from Brickell to Miami Gardens. It spans every cuisine from Cuban and Colombian to Japanese and Peruvian, every price point from a three-dollar croqueta to a three-hundred-dollar omakase, and every dining format from ventanita windows to Michelin-starred tasting menus. Whether you are a Miami local, a snowbird settling in for the winter, or a visitor with a long weekend and a serious appetite, this guide exists to serve you.
 

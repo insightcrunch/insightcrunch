@@ -5,7 +5,7 @@ date: 2023-06-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Plan your Tableau certification journey with clear milestones. Weekly study goals, practice targets, and the momentum strategy that prevents burnout."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-03-30
@@ -15,7 +15,7 @@ In the vein of Hemingway's protagonists who embark on life-changing journeys, yo
 
 Read more: [Tableau Certification: Boost Your Data Visualization Skills »](https://insightcrunch.com/2023/05/16/tableau-certification-boost-your-data-visualization-skills/)
 
-![The Road to Tableau Certification: Setting Goals and Achieving Them](/assets/images/blog/blog-76.webp)
+![The Road to Tableau Certification: Setting Goals and Achieving Them](/assets/images/blog/blog-40.webp)
 The Road to Tableau Certification: Setting Goals and Achieving Them
 
 ## **1. Setting Clear Goals**

@@ -6,7 +6,7 @@ date: 2012-12-16
 categories: ["Industry"]
 tags: ["shadow-war", "india-pakistan", "counter-terrorism", "targeted-killings", "unknown-gunmen", "raw"]
 excerpt: "A comprehensive guide to India's shadow war, the unknown gunmen campaign, and how most-wanted terrorists are being systematically eliminated inside Pakistan."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 75
 author: "benjamin-scott"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ India's shadow war against terrorism is the most consequential covert campaign o
 
 <!--more-->
 
-![India's Shadow War Against Terror Explained - Insight Crunch](/assets/images/blog/blog-28.webp)
+![India's Shadow War Against Terror Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 This is not a series of coincidences. The pattern of targeted killings in Pakistan reveals a systematic doctrine, one that follows a consistent modus operandi, an escalating target hierarchy, and a geographic expansion that stretches from Karachi's commercial districts to Lahore's residential neighborhoods to the tribal regions of Khyber Pakhtunkhwa. India's shadow war is the defining counter-terrorism campaign of this era, and every eliminated target exposes the network that produced them, the state that protected them, and the doctrine that hunted them.
 

@@ -6,7 +6,7 @@ date: 2019-09-23
 categories: ["Industry"]
 tags: ["uri", "surgical-strikes", "2016", "new-doctrine", "india-pakistan"]
 excerpt: "How the Uri attack of 2016 and India's eleven day surgical strike response forged a bold new military doctrine that broke decades of strategic restraint."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
 author: "nandini-sen"
 last_updated: 2019-09-23
@@ -16,7 +16,7 @@ Eleven days separated two events that, taken together, ended an era. On the morn
 
 <!--more-->
 
-![Indian special forces and the Line of Control terrain after the 2016 surgical strikes](/assets/images/blog/blog-10.webp)
+![Indian special forces and the Line of Control terrain after the 2016 surgical strikes](/assets/images/blog/blog-86.webp)
 
 This is the story of how a single pre-dawn assault on a sleeping garrison forced a structural change in how the world's largest democracy thinks about military force. It is not primarily a story about nineteen deaths, terrible as those deaths were, nor about the tactical particulars of a special forces raid, impressive as that raid was. It is a story about velocity. The genuinely new thing that emerged in late September 2016 was not the crossing of the Line of Control, which Indian soldiers had done quietly many times before, but the speed and the public ownership of the response. Within eleven days a prime minister had decided, a plan had been finalised, special forces had crossed and returned, and a serving Director General of Military Operations had stood before cameras to announce it. That sequence had no precedent in the modern history of the subcontinent, and once it had happened it could not be made to un-happen. Every crisis that followed would be measured against the clock that started ticking at Uri.
 

@@ -6,7 +6,7 @@ date: 2008-04-10
 categories: ["Leisure"]
 tags: ["john-f-kennedy", "decision-reconstruction", "us-presidents", "cold-war", "berlin-wall", "khrushchev"]
 excerpt: "East Germany began building the Berlin Wall on August 13, 1961. Kennedy did nothing military. Privately he told O'Donnell a wall beat a war by a long shot."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 62
 author: "amanda-ross"
 last_updated: 2008-04-10
@@ -16,7 +16,7 @@ Just after midnight on Sunday, August 13, 1961, East German police units and con
 
 This was not paralysis. It was a decision, and Kennedy had made it weeks earlier.
 
-![John Kennedy August 1961 Berlin Wall non-military response decision reconstruction - Insight Crunch](/assets/images/blog/blog-71.webp)
+![John Kennedy August 1961 Berlin Wall non-military response decision reconstruction - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The question this article reconstructs is not whether Kennedy "let" the wall go up, the verb is misleading, but rather what alternatives sat on his desk in the summer of 1961, why he chose the alternative he chose, and what that decision cost and saved. The wall was a Soviet and East German action that the United States lacked any straightforward military instrument to prevent, given that it was built on Communist territory by Communist labor under Communist sovereignty as Moscow defined it. What Kennedy could have done was challenge it physically, posture militarily, or escalate diplomatically. He did none of those things. He did something far more interesting. He absorbed the political cost of looking weak in order to avoid a war over a problem he believed had no military solution. In a private conversation with his special assistant Kenneth O'Donnell, captured in O'Donnell and Powers's 1972 memoir Johnny, We Hardly Knew Ye, Kennedy reportedly said that a wall was a hell of a lot better than a war.
 

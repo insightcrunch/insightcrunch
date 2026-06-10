@@ -6,7 +6,7 @@ date: 1997-04-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Interpretation", "Context", "Problem Solving"]
 excerpt: "SAT interpreting coefficients in context explained: slope as a rate of change, intercept as a starting value, and the wording trap, with worked examples."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 59
 author: "jessica-kim"
 last_updated: 1997-04-25
@@ -14,7 +14,7 @@ lang: en
 ---
 A delivery service charges a flat dispatch fee plus a per-mile rate, and the model on the screen reads C = 1.4d + 5. The prompt asks what the 1.4 represents. Four choices sit below it, and three of them are written to sound almost right: the total charge for the delivery, the charge for each mile driven, the base fee before any driving, the number of miles covered. A student who solved the equation correctly, who could graph it, factor near it, and solve for any variable inside it, still loses the point because they matched the right number to the wrong sentence. That gap between knowing the math and reading the description is the entire subject of this guide, and on the digital exam it is worth more raw points than almost any single algebra skill, because the question that asks "what does this number mean here" shows up on nearly every form.
 
-![SAT interpreting coefficients and constants in context worked examples - Insight Crunch](/assets/images/blog/blog-15.webp)
+![SAT interpreting coefficients and constants in context worked examples - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The skill has a name that undersells it. People call it interpretation, which sounds soft, as though the right answer were a matter of taste. It is not. Reading a coefficient in context is a precise translation task with exactly one correct output, and the wrong choices are engineered by the test writers to capture predictable misreadings. The 1.4 in that delivery model is a rate, the dollars added for each additional mile, and it carries an invisible word the answer choice must honor: per. The 5 is a starting value, the charge that exists before a single mile is driven, the amount when the input sits at zero. Once you see that every number in a real-world equation is either a rate or a starting amount, and once you train yourself to read the four descriptions as carefully as you read the algebra, this family of items converts from a guessing exercise into a near-automatic point. This piece builds that habit from the ground up, across linear models, exponential ones, quadratics, and the regression lines that appear with data, and it ends with the trap-elimination drill that separates the students who lose these points from the ones who bank them.
 

@@ -6,7 +6,7 @@ date: 2019-04-01
 categories: ["Industry"]
 tags: ["raw", "sikkim", "annexation", "1975", "covert-operation", "india"]
 excerpt: "How RAW engineered the 1975 annexation of Sikkim, the most successful covert regime-change operation in Indian history and a model of intelligence work."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "ryan-walsh"
 last_updated: 2019-04-01
@@ -18,7 +18,7 @@ On the morning of April 16, 1975, the parliament of a small Himalayan kingdom vo
 
 Few episodes in modern statecraft are as quiet, or as instructive, as the absorption of this mountain principality. No other democracy has incorporated a separate sovereign state and emerged with the act ratified by a referendum, endorsed by the target population's own legislature, and wrapped in the legitimising language of self-determination. The operation produced a permanent territorial gain, neutralised a strategic vulnerability on the Tibetan frontier, and avoided the international censure that follows an armed conquest. For an agency that was barely seven years old in 1975, the campaign amounted to a demonstration of what disciplined political engineering could accomplish.
 
-![RAW and the 1975 Sikkim annexation](/assets/images/blog/blog-35.webp)
+![RAW and the 1975 Sikkim annexation](/assets/images/blog/blog-64.webp)
 
 Understanding how it happened requires holding two truths at once. The first is that genuine grievances existed inside the kingdom, that a majority of its population had legitimate complaints about a political order rigged against them, and that many of its people sincerely wanted change. A second truth, harder to see from the streets of Gangtok, is that those grievances did not organise themselves, that the timing and direction of the agitation were shaped from outside, and that the agency operating in the capital understood precisely which levers to pull. This is not a story of pure manufacture, and it is not a story of pure popular will. It is the account of an intelligence service locating a fault line that already existed and applying steady pressure to it until the structure gave way.
 

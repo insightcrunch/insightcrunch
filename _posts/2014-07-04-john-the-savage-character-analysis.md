@@ -6,7 +6,7 @@ date: 2014-07-04
 categories: ["Leisure"]
 tags: ["brave-new-world", "aldous-huxley", "john-savage", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "John is not Brave New World's authentic human hero. His Shakespeare-formed psychology reveals both the dystopia's horror and his own constructed limits."
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "olivia-grant"
 last_updated: 2014-07-04
@@ -16,7 +16,7 @@ Aldous Huxley's Brave New World introduces John in its seventh chapter, and with
 
 <!--more-->
 
-![John the Savage Character Analysis - Insight Crunch](/assets/images/blog/blog-85.webp)
+![John the Savage Character Analysis - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 John does not arrive in London as an unformed soul encountering civilization for the first time. He arrives as a person whose moral vocabulary was shaped by an abandoned volume of Shakespeare's collected works, whose childhood was defined by rejection from Zuni culture, whose maternal relationship was warped by Linda's displacement from the World State, and whose understanding of sexuality, suffering, and meaning was assembled from fragments of incompatible traditions. The thesis that emerges from careful reading is direct: John is not the dystopia's authentic-human counterexample. He is a specifically constructed hybrid whose responses illuminate the World State's arrangements precisely because those responses come from somewhere particular, not from some universal human nature the World State has suppressed. Reading John as Huxley's mouthpiece for natural humanity flatters the reader's instinct but flattens the character's complexity. Reading him as specifically constructed restores both the argument Huxley was making and the tragedy of a young man who had no viable world to inhabit.
 

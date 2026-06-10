@@ -6,7 +6,7 @@ date: 2008-03-30
 categories: ["Leisure"]
 tags: ["lyndon-johnson", "decision-reconstruction", "us-presidents", "civil-rights-act", "cloture", "everett-dirksen"]
 excerpt: "Southerners filibustered the Civil Rights Act of 1964 for 60 days. Lyndon Johnson broke them via Dirksen. The 71 to 29 cloture roll was the first one."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 75
 author: "jessica-kim"
 last_updated: 2008-03-30
@@ -14,7 +14,7 @@ lang: en
 ---
 At 11:18 a.m. on June 10, 1964, Senator Clair Engle of California was wheeled into the Senate chamber on a stretcher. A brain tumor had taken his speech and most of his movement. The clerk called his name on the roll for cloture. Engle could not answer. He raised a shaking hand and pointed at his eye. The chair recorded it as an aye. The final tally read 71 to 29. The Southern filibuster against the civil rights bill, the longest in Senate history at 60 calendar days, ended on a four-vote margin above the two-thirds threshold then required by Rule 22. No civil rights measure had ever survived a cloture vote before. None had even come close. The vote made the passage of the Civil Rights Act of 1964 mechanically inevitable, and on July 2 President Lyndon Johnson signed Public Law 88-352 in the East Room of the White House. The pen he handed to Senator Everett Dirksen, the Republican minority leader from Illinois, traveled by motorcade back to the Capitol that afternoon. Dirksen had earned it. Johnson had bought it.
 
-![Lyndon Johnson Civil Rights Act 1964 cloture decision reconstruction - Insight Crunch](/assets/images/blog/blog-84.webp)
+![Lyndon Johnson Civil Rights Act 1964 cloture decision reconstruction - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 That is the surface story. The deeper story, the story this article reconstructs, runs from Johnson's joint address to Congress on November 27, 1963 (five days after John Kennedy was killed in Dallas) through the cloture vote seven months later, and it answers a question that the standard textbook narrative buries. The question is not whether Johnson wanted the bill, nor whether he signed it, but how the bill was won at the precise procedural choke point that had killed every previous civil rights measure since Reconstruction. The answer is a specific cloture strategy executed through a specific person, Everett Dirksen, against a specific opposition leader, Richard Russell of Georgia, whose 35-year personal relationship with Johnson made the contest more intimate and more brutal than any committee vote count can capture. The decision Johnson made in late November 1963 (to spend the political inheritance of an assassinated president on the bill that had stalled for eight years) was the easy part. The decision he kept making, day after day, between January and June 1964, was the hard part: that Dirksen and only Dirksen could deliver the Republican votes needed for cloture, that Hubert Humphrey and only Humphrey could be trusted to manage the floor without alienating Dirksen, and that Russell would have to be permitted to fight, openly and at full length, because crushing him on procedure would forfeit the legitimacy the bill needed to survive Southern resistance once enacted.
 

@@ -5,7 +5,7 @@ date: 2010-11-12
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "1. Google Chrome Dual View lets you view two pages at the same time. It will split the page into two halves and let you view the articles of both together."
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 1
 author: "gregory-marsh"
 last_updated: 2026-04-01
@@ -21,7 +21,7 @@ lang: en
 
 5. [PDF Page](http://www.pdfdownload.org/pdf_bookmarklet.html) lets you save the page you are viewing right now as a PDF. This is extremely useful as we all know the benefit of a PDF document in today’s world.
 
-![Top Google Chrome Extensions](/assets/images/blog/blog-82.webp)
+![Top Google Chrome Extensions](/assets/images/blog/blog-19.webp)
 Top Google Chrome Extensions
 
 Read more: [Love to forward mails to a lot of friends? Make Gmail Contact Groups. »](https://insightcrunch.com/2010/11/16/love-to-forward-mails-to-a-lot-of-friends-make-gmail-contact-groups/)

@@ -6,7 +6,7 @@ date: 2012-04-28
 categories: ["Industry"]
 tags: ["terror-leaders", "at-large", "survival", "adaptation", "shadow-war", "counter-terrorism"]
 excerpt: "The terror commanders alive after the shadow war have changed homes, routines, communications, and security details, and the cost of survival has been steep."
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 71
 author: "marcus-hall"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ The list of terror commanders still breathing in Pakistan grows shorter every ye
 
 <!--more-->
 
-![Terror Leaders Still at Large - Insight Crunch](/assets/images/blog/blog-82.webp)
+![Terror Leaders Still at Large - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The category itself is new. Before 2021, the question of which Pakistan-based terror commanders had survived a counter-terror campaign had no operational meaning, because no campaign was reaching them with sufficient consistency to sort the alive from the dead. India's targeted killing pattern, anchored in the [definitive guide to Lashkar-e-Taiba's structure and operations](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/) and the [JeM organizational analysis](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/), changed that. By late 2024 the pattern had eliminated enough mid-tier and senior figures across LeT, JeM, Hizbul Mujahideen, and the Khalistan groupings that the survivors became identifiable as a distinct cohort. They share a status: they are the men the campaign has not yet reached. They share a problem: every elimination of someone in their orbit reduces the number of people who could be targeted before them.
 

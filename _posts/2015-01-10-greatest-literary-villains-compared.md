@@ -7,7 +7,7 @@ last_updated: 2015-01-10
 excerpt: "Great literary villains are not one type. The villain-taxonomy runs from motiveless malignancy through systemic abstraction; the typology is the subject."
 categories: ["Leisure"]
 tags: ["literary-villains", "character-analysis", "literary-comparison", "classic-literature", "literary-analysis", "antagonists"]
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 70
 author: "claire-bennett"
 lang: en
@@ -16,7 +16,7 @@ Every list of the greatest literary villains makes the same mistake. It ranks Ia
 
 <!--more-->
 
-![Greatest Villains in Classic Literature - Insight Crunch](/assets/images/blog/blog-87.webp)
+![Greatest Villains in Classic Literature - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 The argument of this article is that literary villainy is not one thing. It operates through at least five distinct structural types, each with its own mechanism, its own narrative function, and its own interpretive demands. The five types this article identifies are: the motiveless-malignancy villain, whose paradigm is Iago; the passional-wounded villain, whose paradigm is Heathcliff; the systemic-abstraction villain, whose paradigm is Big Brother; the colonial-ambition villain, whose paradigm is Kurtz; and the revolutionary-betrayer villain, whose paradigm is Napoleon the pig. Beyond these five, additional figures such as Dracula, Lady Macbeth, Moriarty, Milton's Satan, and the deeply contested Shylock extend the typology further and complicate it productively. The claim is not that ranking is impossible within a single type but that ranking across types requires a category confusion that obscures rather than illuminates what each villain actually does in its text. The typology is the analytical content. The ranking is the distraction.
 

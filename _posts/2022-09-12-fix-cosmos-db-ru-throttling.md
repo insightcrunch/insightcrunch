@@ -6,7 +6,7 @@ date: 2022-09-12
 categories: ["Technology"]
 tags: ["Azure", "Cosmos DB", "Troubleshooting", "Performance", "Cloud Computing"]
 excerpt: "Cosmos DB RU throttling on a single hot partition is rarely a true capacity shortage. Read the per-partition metric, find the skew, and fix the key behind it."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "thomas-reid"
 last_updated: 2022-09-12
@@ -16,7 +16,7 @@ You raised the provisioned throughput on the container, the bill went up, and th
 
 This article gives you the diagnosis and the ranked set of fixes. By the end you will be able to read the per-partition request-unit metric, confirm whether one partition is pinned at its ceiling while the others stay quiet, and decide between the cheap remedy of reshaping a query and the expensive remedy of re-keying the container. The work is mostly investigative. The throttle tells you something is uneven, the metrics tell you exactly which partition is hot, and the key tells you why.
 
-![Diagnosing Cosmos DB RU throttling and hot spot skew - Insight Crunch](/assets/images/blog/blog-92.webp)
+![Diagnosing Cosmos DB RU throttling and hot spot skew - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The reason this matters beyond the immediate fire is cost. Over-provisioning to mask a hot spot is one of the most expensive mistakes a team can make on Cosmos DB, because the spend scales with the whole container while the relief scales with nothing. You pay for throughput spread across every physical partition, the hot one keeps throttling at its slice of that total, and the invoice climbs without the errors falling. Understanding the even-split mechanism turns a recurring panic into a one-time design decision.
 

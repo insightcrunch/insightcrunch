@@ -5,7 +5,7 @@ date: 2016-10-13
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "The ORA_HASH is one of my favorite functions to generate a hash value and use it for that record in a variety of ways. But there are certain circumstances..."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 2
 author: "alex-cunningham"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 The ORA_HASH is one of my favorite functions to generate a hash value and use it for that record in a variety of ways. But there are certain circumstances where even an useful function like ORA_HASH can have it's limitations. Let's take a look at how this function can act while implementing SCD2.
 
-![](/assets/images/blog/blog-42.webp)
+![](/assets/images/blog/blog-09.webp)
 
 The above snapshot is from a table where SCD2 is implemented. The logic calculates the ORA_HASH value of each record using the values in columns Field 1, Field 2 and Field 3. If the value is new, it marks the existing record as "Active Flag" N, and inserts the new record as "Active Flag" Y. Thus we can see, for R2, the record having V6 is marked Y since on Day 5 the hash value has changed for this record id.
 

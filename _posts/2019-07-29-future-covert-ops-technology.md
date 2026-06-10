@@ -6,7 +6,7 @@ date: 2019-07-29
 categories: ["Industry"]
 tags: ["future", "covert-operations", "ai", "drones", "cyber", "biometrics"]
 excerpt: "How AI, autonomous drones, cyber warfare, and biometric tracking will transform covert intelligence operations worldwide by 2030, and what it means for India."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 72
 author: "ryan-walsh"
 last_updated: 2019-07-29
@@ -18,7 +18,7 @@ A handgun, two riders, and a congested street outside a mosque in Rawalpindi or 
 
 Four technologies are converging on the practice of clandestine elimination, and each of them attacks a different part of the method that India has used to hunt wanted men on Pakistani soil. Algorithmic target identification is collapsing the months of patient watching that used to precede a strike. Small uncrewed aircraft are removing the need for a shooter to ever stand within pistol range of a victim. Cyber sabotage is opening the possibility of causing death through infrastructure rather than through bullets. Biometric tracking is making the disguises, false identities, and quiet relocations that protected hunted men for years close to useless. By 2030 the motorcycle-borne shooting may look less like the cutting edge of statecraft and more like the last generation of a craft that machines are about to inherit.
 
-![Conceptual illustration of future covert operations technology, showing drones, surveillance networks, and digital targeting systems](/assets/images/blog/blog-06.webp)
+![Conceptual illustration of future covert operations technology, showing drones, surveillance networks, and digital targeting systems](/assets/images/blog/blog-87.webp)
 
 This article forecasts that transformation, technology by technology, and tests it against a sober objection. Paul Scharre, the former Army Ranger who drafted the Pentagon's first directive on autonomy in weapons and later wrote the field-defining book on the subject, has spent years warning that the gap between what these systems can do in a laboratory and what they can do reliably in the chaos of a real operation is wide and slow to close. James Johnson, who studies how machine intelligence interacts with nuclear stability, argues that the danger is less the capability itself than the temptation it creates to act faster and with less reflection than humans should. Both cautions belong in any honest projection. What follows treats the four technologies as trends with momentum behind them, not as prophecies, and it keeps returning to the same governing question: when the surveillance, the approach, and the trigger pull can all be handled by software and machines, what survives of the [signature method](https://insightcrunch.com/2013/08/27/motorcycle-assassinations-pattern/) that built India's reputation as the most disciplined practitioner of quiet killing in the modern era?
 

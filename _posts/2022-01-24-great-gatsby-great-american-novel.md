@@ -6,7 +6,7 @@ date: 2022-01-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Themes"]
 excerpt: "Why is The Great Gatsby the Great American Novel? A defended case that Fitzgerald earns the title by diagnosing the American Dream, not by praising it."
-image: "/assets/images/blog/blog-95.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2022-01-24
@@ -14,7 +14,7 @@ lang: en
 ---
 The phrase "Great American Novel" gets pinned to The Great Gatsby so often that the label has worn smooth, repeated until it means little more than "a book everyone agrees is important." That habit is worth resisting, because the interesting claim is not that Fitzgerald's slim 1925 novel wears the title but why it deserves one, and what that title is supposed to certify in the first place. A reader who can only say "it is a classic" has absorbed a verdict without the argument behind it. This guide rebuilds the argument from the ground up, weighing the book against the phrase's own history and against its rivals, so that you finish able to defend a position rather than recite a slogan.
 
-![Why The Great Gatsby is considered the Great American Novel, explained - Insight Crunch](/assets/images/blog/blog-95.webp)
+![Why The Great Gatsby is considered the Great American Novel, explained - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The case made here is specific, and it cuts against the easy reading. Gatsby does not earn its place in the canon by celebrating the American Dream. It earns that place by diagnosing the Dream, by tracing how the wish to remake the self collides with a country organized to keep old money and new money apart, and by leaving the reader inside the wreckage rather than safely above it. The label fits a book about failure, and that paradox is the whole point. If you want the wider map of the novel and how its parts connect, the [complete analytical guide to The Great Gatsby](/2022/01/03/great-gatsby-complete-analytical-guide/) sets out the full mental model this article draws on; what follows here narrows the lens to a single evaluative question and answers it.
 

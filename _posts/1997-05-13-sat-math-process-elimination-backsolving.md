@@ -6,7 +6,7 @@ date: 1997-05-13
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Backsolving", "Strategy", "Problem Solving"]
 excerpt: "SAT math backsolving and elimination explained: plugging in answer choices, testing numbers and ruling out by sense, often faster than algebra, with examples."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 59
 author: "katherine-blake"
 last_updated: 1997-05-13
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a question sitting in your math module right now that you could solve two ways. One way asks you to set up an equation, isolate a variable, distribute a negative correctly, and arrive at the value the prompt wants. The other way asks you to look at the four answers already printed on the screen, pick the one in the middle, and check whether it works. Both produce the same point. One of them is the path most test-takers default to, and it is frequently the slower, riskier path. The other is the one this article teaches you to reach for the moment the algebra starts to feel heavy.
 
-![SAT math backsolving and process of elimination worked examples - Insight Crunch](/assets/images/blog/blog-60.webp)
+![SAT math backsolving and process of elimination worked examples - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The SAT math sections are built on a quiet assumption that works against you: that you will treat every item as a pure algebra exercise, derive the result from scratch, and trust your own manipulation. For a strong algebra student under no time pressure, that assumption holds. For everyone else, and for the strong student staring at the clock with six items left and four minutes on the timer, it falls apart. The methods in this guide, backsolving from the printed answers, plugging in concrete numbers for abstract expressions, and ruling out impossible choices by sense, are not tricks or shortcuts in the pejorative sense. They are exact procedures that exploit the structure the College Board chose: a four-option multiple-choice format with no penalty for a wrong response. When the correct value is already on the screen, you do not always need to derive it. You need to recognize it. That recognition is faster, and on the digital exam it is often the difference between finishing the section and leaving points unmarked.
 

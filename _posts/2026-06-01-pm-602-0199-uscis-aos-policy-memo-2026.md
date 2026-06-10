@@ -6,7 +6,7 @@ date: 2026-06-01
 categories: ["Industry"]
 tags: ["pm-602-0199", "policy-memo-explainer", "us-immigration", "immigration-policy", "adjustment-of-status", "i-485", "uscis-discretion"]
 excerpt: "USCIS Policy Memorandum PM-602-0199, issued May 21 2026, reframes Form I-485 adjustment of status as discretionary administrative grace, not entitlement."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 82
 author: "benjamin-scott"
 last_updated: 2026-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 On May 21, 2026, U.S. Citizenship and Immigration Services issued [Policy Memorandum PM-602-0199](https://www.uscis.gov/sites/default/files/document/memos/PM-602-0199-AdjustmentOfStatusAndDiscretion-20260521.pdf), titled "Adjustment of Status is a Matter of Discretion and Administrative Grace, and an Extraordinary Relief that Permits Applicants to Dispense with the Ordinary Consular Visa Process." The memo did not amend the [Immigration and Nationality Act section 245](https://www.law.cornell.edu/uscode/text/8/1255). It did not promulgate a regulation under [8 CFR Part 245](https://www.law.cornell.edu/cfr/text/8/part-245). It issued no new Form I-485 edition. What it did was reframe the conceptual character of in-country adjustment of status for foreign nationals present in the United States on a nonimmigrant visa, recasting the in-country pathway as a discretionary act of administrative grace that USCIS officers are now told to weigh against the ordinary consular visa process abroad. Twenty-four hours later, USCIS Spokesman Zach Kahler told reporters at a Washington press briefing that foreign nationals temporarily in the United States who seek lawful permanent residence will generally be expected to return to their home countries to apply. The doctrinal shift is interpretive. The operational shock is real.
 
-![PM-602-0199 Memo Explained: USCIS Discretion in I-485 - Insight Crunch](/assets/images/blog/blog-09.webp)
+![PM-602-0199 Memo Explained: USCIS Discretion in I-485 - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 This article is the foundational explainer for the InsightCrunch ten-article series on PM-602-0199. It reads the memo against the seventy-four year history of section 245 from the 1952 McCarran-Walter Immigration and Nationality Act forward, grounds the memo's claims in the Board of Immigration Appeals precedent chain that begins with [Matter of Ortiz-Prieto](https://www.justice.gov/eoir/bia-decisions) in 1965 and is anchored by [Matter of Arai](https://www.justice.gov/eoir/bia-decisions) in 1970, and engages the named scholarly and practitioner voices that have produced the first month of substantive commentary on what the memo actually changes. The article surveys every Form I-485 applicant category the memo touches and the several it does not, names the post-[Loper Bright](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf) administrative-law landscape in which the memo will be tested, and previews the federal court Administrative Procedure Act challenges that practitioners expect through the second half of 2026. The reader who finishes this piece will understand what the memo says, what it does not say, what existing law still requires regardless of the memo, and what the most important named scholars, practitioners, and advocacy organisations think USCIS got right and got wrong. The remaining nine articles in the series build on this foundation.
 

@@ -6,7 +6,7 @@ date: 1996-06-05
 categories: ["Industry"]
 tags: ["SAT", "Florida", "Bright Futures", "Scholarships", "College Admissions"]
 excerpt: "SAT for Florida students: how Bright Futures ties scholarship money to your score, the tier thresholds and university ranges, with the high-ROI score math."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 59
 author: "simon-hartley"
 last_updated: 1996-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 A Florida junior sits twenty points below the Florida Academic Scholars line going into her final attempt. Those twenty points are not a bragging right and they are not a college admission decision. They are a tuition bill. Cross the line and the state covers the full cost of tuition and applicable fees at a public university for four years, then hands her a stipend on top. Miss it by those twenty points and she drops to the next award, which historically covers a smaller share of the same bill, leaving thousands of dollars a year for her family to find. Nowhere else in this entire series does a single block of test points carry a clearer dollar value than it does for a student chasing Bright Futures, and that is the reason this guide exists.
 
-![SAT for Florida students Bright Futures scholarship tier thresholds and score ROI - Insight Crunch](/assets/images/blog/blog-49.webp)
+![SAT for Florida students Bright Futures scholarship tier thresholds and score ROI - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 Most pages about the test treat the score as an admissions number. For a resident of the Sunshine State, that framing is incomplete and quietly expensive. Your composite does two jobs at once. It tells a school whether you clear its academic band, and it tells the Florida Office of Student Financial Assistance which Bright Futures award you qualify for, which translates straight into how much of your degree the state pays for. The query this article is built to answer is the one a worried parent and a strategic teenager type at midnight: what number unlocks which award, how much that award is worth across four years, and whether the gain that gets you there is realistically within reach before your last sitting. By the end you will own the InsightCrunch Florida Score-to-Scholarship Map, a single table that converts your number into an award tier, and the Point-to-Dollar read, a method for pricing the exact gap between where you sit now and the next threshold above you.
 

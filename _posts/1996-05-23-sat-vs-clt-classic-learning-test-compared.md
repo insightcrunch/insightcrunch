@@ -6,7 +6,7 @@ date: 1996-05-23
 categories: ["Industry"]
 tags: ["SAT", "CLT", "Classic Learning Test", "Test Comparison", "College Admissions"]
 excerpt: "SAT vs CLT compared: which schools accept the Classic Learning Test, how the content and length differ, score conversion and when switching makes sense."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 61
 author: "patrick-dunn"
 last_updated: 1996-05-23
@@ -14,7 +14,7 @@ lang: en
 ---
 Most families discover the SAT vs CLT question the moment a target college's admissions page lists the Classic Learning Test next to the SAT and ACT, and the immediate reaction is the wrong one. The reaction is loyalty. A student who has spent a year drilling the digital format suddenly wonders whether the Classic Learning Test is a secret shortcut, a friendlier exam that produces a higher number with less pain, and a parent who values a classical or faith-based education wonders whether the alternative is the principled choice. Both instincts skip the only question that matters: does the college list you are actually applying to reward the switch, or does it quietly cost you reach, scholarship leverage, and a year of misdirected preparation?
 
-![SAT vs CLT Classic Learning Test comparison acceptance scoring and switch decision - Insight Crunch](/assets/images/blog/blog-37.webp)
+![SAT vs CLT Classic Learning Test comparison acceptance scoring and switch decision - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 This article gives you what the test-prep marketing pages and the College Board fact sheet each refuse to give you on their own: an even-handed read on who the Classic Learning Test serves well, who it traps, and a decision rule precise enough to run against your own school list in an afternoon. The standard account either sells the CLT as a rising challenger to a tired duopoly or dismisses it as a niche exam for a narrow slice of religious colleges. The truth is more useful and more boring than either pitch. The Classic Learning Test is a genuinely different assessment with a real, growing, but still narrow acceptance footprint, and the strategic move is not to pick a side but to match the exam to the colleges that will actually read the result. By the end you will be able to look at any acceptance list, read the rough score conversion with appropriate skepticism, and reach a submit-the-SAT, take-the-CLT, or do-both verdict that fits your situation rather than someone's ideology about standardized testing.
 

@@ -7,7 +7,7 @@ author: "elena-wright"
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "novel-analysis", "literary-analysis", "gothic-fiction", "classic-literature"]
 reading_time: 70
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-60.webp"
 excerpt: "Frankenstein is not primarily anti-science. It is Mary Shelley's specific 1818 argument about paternal abandonment, creators' obligations, and moral failure."
 lang: en
 ---
@@ -15,7 +15,7 @@ Frankenstein is one of the most misread novels in the English language. Two cent
 
 <!--more-->
 
-![Complete Analysis of Frankenstein by Mary Shelley - Insight Crunch](/assets/images/blog/blog-35.webp)
+![Complete Analysis of Frankenstein by Mary Shelley - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 Reading Shelley's Frankenstein against the cultural mythology requires deliberate effort, because the mythology arrived first for most readers. Boris Karloff's inarticulate, shambling creature has occupied the cultural imagination since James Whale's 1931 film, and that figure bears almost no resemblance to the eloquent, philosophically sophisticated being Shelley actually wrote. The real Creature speaks in paragraphs, reads Milton and Plutarch, constructs moral arguments about his own condition, and articulates his suffering with a precision that exceeds Victor's capacity for self-reflection. Victor Frankenstein, meanwhile, is not a heroic overreacher brought low by cosmic forces. He is a man who created a child and ran away from it because it was ugly. The scientific creation was the occasion; the abandonment was the moral catastrophe. That distinction is Shelley's central argument, and recovering it is the first task of any serious reading.
 

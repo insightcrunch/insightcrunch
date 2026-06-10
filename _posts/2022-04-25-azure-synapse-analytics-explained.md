@@ -6,7 +6,7 @@ date: 2022-04-25
 categories: ["Technology"]
 tags: ["Azure", "Azure Synapse Analytics", "Data Engineering", "Analytics", "Data Warehouse", "Cloud Computing"]
 excerpt: "Azure Synapse Analytics unifies dedicated SQL, serverless SQL, and Spark in one workspace, and this guide shows you how to choose the right engine per query."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "thomas-reid"
 last_updated: 2022-04-25
@@ -14,7 +14,7 @@ lang: en
 ---
 The single most expensive mistake teams make with Azure Synapse Analytics is treating it as one database. They provision a dedicated SQL pool, point everything at it, and then watch ad hoc exploratory queries fight production reporting for the same fixed slice of compute while the monthly bill climbs and nobody can explain why a five-row lookup waited ninety seconds in a queue. Synapse is not a database. It is a workspace that fronts several distinct compute engines over a shared data lake, and the whole point of the design is that you choose the engine that fits the query rather than running every query the same way. Once you hold that model in your head, the throttling stops looking like a fault and starts looking like the predictable result of asking the wrong engine to do the work.
 
-![Azure Synapse Analytics multi-engine workspace explained - Insight Crunch](/assets/images/blog/blog-59.webp)
+![Azure Synapse Analytics multi-engine workspace explained - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This guide builds that model from the ground up. You will leave able to look at a workload, name whether it belongs on the dedicated SQL pool, the serverless SQL pool, a Spark pool, or an orchestration pipeline, and justify that choice by reasoning about how each engine allocates resources and how each one bills. You will understand why the dedicated engine spreads your data across exactly sixty distributions and what that means for the distribution column you pick. You will understand why a single careless serverless query against an unpartitioned folder can scan terabytes and arrive as a surprise line on the invoice. And you will understand the concurrency-versus-memory trade-off that explains most of the queuing people misread as a capacity shortage. The goal is reasoning you can act on, not a feature tour you could get from a marketing page.
 

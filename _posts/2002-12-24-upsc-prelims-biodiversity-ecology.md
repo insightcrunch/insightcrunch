@@ -6,7 +6,7 @@ date: 2002-12-24
 categories: ["Industry"]
 tags: ["UPSC", "Environment and Ecology", "UPSC Prelims", "Biodiversity", "Climate Change", "Prelims Strategy"]
 excerpt: "Master UPSC Prelims environment with biodiversity, ecology, pollution, climate change, and environmental conventions strategy."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 59
 author: "kavita-sharma"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The challenge with environment and ecology preparation is that the subject sits 
 
 This article is your comprehensive manual for biodiversity, ecology, and environmental conventions as tested in UPSC Prelims. It covers the ecological concepts and frameworks that UPSC uses to construct questions, the species and ecosystem knowledge that the examination rewards, the international environmental conventions and their specific provisions, the environmental pollution types and their regulatory frameworks, and the Indian environmental legislation and institutional architecture. It also provides a structured study plan that transforms this seemingly vast and ever-expanding subject into a finite, manageable, and high-yield preparation module. The [geography and environment strategy for Prelims](/2003/03/15/upsc-prelims-geography-environment/) provides the broader geographic context, while this article focuses specifically on the biodiversity, ecology, and convention dimensions that constitute the fastest-growing question cluster.
 
-![UPSC Prelims Biodiversity Ecology Environment Conventions Strategy - Insight Crunch](/assets/images/blog/blog-07.webp)
+![UPSC Prelims Biodiversity Ecology Environment Conventions Strategy - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 ## Why Biodiversity and Ecology Is the Fastest-Growing Prelims Section
 

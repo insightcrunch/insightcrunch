@@ -6,7 +6,7 @@ date: 2007-06-07
 categories: ["Leisure"]
 tags: ["herbert-hoover", "consensus-flip", "us-presidents", "american-history", "great-depression", "rehabilitation-attempts"]
 excerpt: "Hoover ranked 21st in 1962 and 36th by 2021. Five serious scholarly rehabilitation attempts since the 1980s, and not one moved his presidential ranking."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2007-06-07
@@ -14,7 +14,7 @@ lang: en
 ---
 In a quiet suite on the thirty-first floor of the Waldorf Towers in New York, an aging man kept a working schedule that would have exhausted men half his age. He answered correspondence, drafted memoranda, edited the multiple volumes of his memoirs, and presided over a reorganization commission that two presidents had asked him to lead. The man was Herbert Hoover, and by the time he died in 1964 at the age of ninety, he had spent more than three decades in a kind of reputational exile, trying to outlive the four years that had defined him. He had fed starving Belgians, rescued famine-stricken Russians, organized American food production through one world war and assessed global hunger after another. He had also presided over the worst economic collapse in the history of the republic, and that single fact had eaten the rest.
 
-![Herbert Hoover reputation rehabilitation attempts and presidential ranking failure - Insight Crunch](/assets/images/blog/blog-70.webp)
+![Herbert Hoover reputation rehabilitation attempts and presidential ranking failure - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 Hoover believed history would correct the verdict. He was not entirely wrong, and he was not entirely right, and the gap between those two outcomes is one of the most instructive cases in the entire enterprise of presidential reputation. For roughly half a century, a sequence of serious scholars has tried to lift Hoover out of the bottom third of the rankings where he has lodged. They have written sympathetic biographies, recovered his humanitarian achievements, documented the unprecedented scope of his Depression-fighting machinery, and argued, persuasively and with archives behind them, that the popular image of a passive president who did nothing while the country starved is a caricature. The remarkable thing is that they have largely won the factual argument and almost entirely lost the reputational one. Hoover ranked 21st among presidents in a 1962 scholarly poll. He ranked 36th in the C-SPAN survey of 2021. Across the decades in which the rehabilitation literature accumulated, his standing did not rise. It fell.
 

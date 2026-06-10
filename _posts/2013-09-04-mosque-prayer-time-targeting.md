@@ -6,7 +6,7 @@ date: 2013-09-04
 categories: ["Industry"]
 tags: ["mosque", "prayer-time", "targeting", "modus-operandi", "shadow-war", "pattern-analysis"]
 excerpt: "Examining why mosques and prayer times have become the most reliable targeting window for covert eliminations, and what this pattern reveals about surveillance."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
 author: "robert-quinn"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ Muhammad Riaz, known to Indian intelligence as Abu Qasim, knelt in the second ro
 
 <!--more-->
 
-![Mosque and Prayer Time Targeting Pattern - Insight Crunch](/assets/images/blog/blog-18.webp)
+![Mosque and Prayer Time Targeting Pattern - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 Qasim's killing inside Al-Quds mosque was not an isolated act of violence. It belongs to a distinct pattern within India's [shadow war against terror](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) that has unfolded across Pakistani cities since 2021, a pattern in which mosques and prayer times have become the single most reliable targeting window for the elimination of wanted terrorists. Before Qasim's death in September 2023, Jaish-e-Mohammed's Zahoor Ibrahim Mistry had reportedly been killed during prayers in Karachi in March 2022. After Qasim, Shahid Latif, the Pathankot airbase attack mastermind and JeM launching commander in Sialkot, was gunned down alongside his security guard and a prayer leader while offering prayers at a mosque in Daska on October 11, 2023. Intelligence sources confirmed to The Tribune that before Latif's killing, "JeM's Ibrahim Mistry, Hizbul Mujahideen's Imtiaz Alam, and Lashkar-e-Taiba's Abu Qasim had been killed during prayers." The recurrence is too consistent to be coincidental. Prayer times and religious congregations have become the operational cornerstone of the campaign because they solve the hardest problem in targeted killing: locating a target whose entire existence revolves around evading detection.
 

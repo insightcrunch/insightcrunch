@@ -6,7 +6,7 @@ date: 2007-01-26
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "close-read", "us-presidents", "american-history", "day-of-infamy", "pearl-harbor", "war-message"]
 excerpt: "FDR's first draft called December 7 a date that would live in world history. One handwritten edit changed it to infamy, and that word made the speech."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2026-06-02
@@ -16,7 +16,7 @@ The reading copy that survives in Hyde Park has a single word crossed out near t
 
 This is the story of those pages: how a 518-word address came together in roughly the time it takes to fly from Washington to the West Coast and back, why the man who composed most of it alone reached for one specific word over the obvious one, and how a document that Americans now remember as towering and elaborate was in fact among the shortest and most surgically constructed war messages in the nation's history. The speech is famous. The drafting is not. The gap between the two is where the real argument lives, because the choices that made the speech were choices about register, not about facts, and a president made them with a pencil in the hours when the country had not yet decided how to feel.
 
-![FDR Day of Infamy December 8 1941 war message draft edits world history to infamy revision - Insight Crunch](/assets/images/blog/blog-43.webp)
+![FDR Day of Infamy December 8 1941 war message draft edits world history to infamy revision - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 ## The 1:40 Telephone Call
 

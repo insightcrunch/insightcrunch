@@ -6,7 +6,7 @@ date: 2022-09-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "mercutio", "the-feud", "plague-both-houses"]
 excerpt: "Mercutio dies cursing both Capulet and Montague, and his thrice repeated plague o' both your houses turns a private death into a verdict on the whole feud."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2022-09-02
@@ -14,7 +14,7 @@ lang: en
 ---
 A man is bleeding to death on a Verona street, and the last thing he does is land a joke. "Ask for me tomorrow," he tells the friends crouched over him, "and you shall find me a grave man." Then, between the wit and the wound, three times over, he spends what breath he has left on a curse: a plague o' both your houses. The line is among the most quoted in the play, and it is almost always remembered wrong. People recall it as an insult flung at an enemy, the dying man spitting at whoever killed him. It is the opposite. The wound came from Tybalt, a Capulet, but Romeo, a Montague, was the one whose well-meaning arm got in the way of the blade. So the man on the ground does not curse the Capulets alone, and he does not curse the Montagues alone. He curses both. He refuses to take a side, because in his judgment there is no side worth taking. Both families built the street he is dying on, and both will answer for it.
 
-!['A Plague o' Both Your Houses': Mercutio's Curse - Insight Crunch](/assets/images/blog/blog-04.webp)
+!['A Plague o' Both Your Houses': Mercutio's Curse - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 That refusal is the whole point, and it is the thing the popular memory of the play loses first. The image that survives in greeting cards and graduation speeches is of two young lovers undone by a hostile world, a private romance crushed by circumstance. The man dying in the road is a different play breaking through. His curse names the real subject, which is not love but the feud, and his death pronounces the verdict the rest of the tragedy will spend two more acts carrying out. To read his dying speech closely is to recover the play Shakespeare actually wrote, in which a quarrel between two households poisons everyone it touches, the guilty and the innocent without distinction, and a man who belongs to neither household is given the authority to say so.
 

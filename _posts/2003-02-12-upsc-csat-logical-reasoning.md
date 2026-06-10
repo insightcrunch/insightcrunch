@@ -6,7 +6,7 @@ date: 2003-02-12
 categories: ["Industry"]
 tags: ["UPSC", "CSAT", "Logical Reasoning", "Analytical Ability", "UPSC Prelims"]
 excerpt: "UPSC CSAT logical reasoning and analytical ability complete strategy: topic-wise techniques across syllogisms seating arrangements blood relations direction sense coding-decoding series venn diagrams and analytical puzzles, contemporary difficulty trends since 2022, and the systematic preparation that builds the reasoning skills the qualifying section requires."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The reduced share of logical reasoning in contemporary CSAT papers has important
 
 This article provides the complete preparation strategy for UPSC CSAT logical reasoning and analytical ability that addresses both the topic-wise techniques and the strategic approach that contemporary papers require. The article integrates four critical components: the topic-wise coverage across all major reasoning question types with specific solution techniques for each, the analytical reasoning approach for complex puzzles that combine multiple reasoning operations, the contemporary difficulty trends explaining the reduced section share and what it means for preparation, and the integrated preparation methodology that builds reasoning competence efficiently within the time constraints that the smaller section size justifies.
 
-![UPSC CSAT Logical Reasoning and Analytical Ability - Insight Crunch](/assets/images/blog/blog-09.webp)
+![UPSC CSAT Logical Reasoning and Analytical Ability - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process where Prelims serves as the qualifying gate for Mains, and within Prelims, both papers must be cleared independently for qualification with CSAT serving as the binary qualifying filter at 33 percent. The [CSAT Paper 2 complete guide](/2003/02/25/upsc-csat-paper-2-complete-guide/) describes the broader CSAT preparation framework that this logical reasoning specific strategy operates within. The [CSAT reading comprehension strategy](/2003/02/21/upsc-csat-reading-comprehension-strategy/) addresses the largest CSAT section. The [CSAT quantitative aptitude and data interpretation strategy](/2003/02/16/upsc-csat-quantitative-aptitude/) addresses the second largest CSAT section. The [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) places CSAT within the overall Prelims preparation framework. The [Prelims Polity strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/), the [Prelims History strategy](/2003/03/24/upsc-prelims-history-culture-strategy/), the [Prelims Geography and Environment strategy](/2003/03/15/upsc-prelims-geography-environment-strategy/), the [Prelims Economy strategy](/2003/03/11/upsc-prelims-economy-strategy/), and the [Prelims Science and Technology strategy](/2003/03/06/upsc-prelims-science-technology-strategy/) provide the corresponding GS Paper 1 subject preparation approaches that operate alongside the CSAT preparation that this article addresses.
 

@@ -6,7 +6,7 @@ date: 1996-05-05
 categories: ["Industry"]
 tags: ["SAT", "International", "Brazil", "ENEM", "Financial Aid"]
 excerpt: "SAT guide for Brazilian students: test centers in Brazil, how the SAT compares to the ENEM, English prep and the need-blind aid pathway, with score targets."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "matheus-oliveira"
 last_updated: 1996-05-05
@@ -16,7 +16,7 @@ A student in São Paulo finishes the math section of a practice Digital SAT with
 
 That single misallocation, time poured into math that was never the bottleneck while the verbal gap goes unaddressed, costs Brazilian applicants more points than any other mistake. This guide is built to correct it. It treats English proficiency as the decisive variable, the comparison with the ENEM as the thing that explains why so many strong Brazilian students underperform on a test that should favor them, and the small set of universities that practice need-blind admission with full demonstrated need for international applicants as the financial key that turns a US degree from a fantasy into a funded plan. By the end you will be able to read your own situation precisely: where to test, how the assessment differs from the exam you already know, how to close the language gap that actually limits you, and which schools make the money work.
 
-![SAT guide for Brazilian students test centers ENEM comparison and need-blind aid - Insight Crunch](/assets/images/blog/blog-33.webp)
+![SAT guide for Brazilian students test centers ENEM comparison and need-blind aid - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The Brazilian applicant pool to US universities has grown steadily, and admissions readers now see Brazil as a recognizable, rising source of strong candidates rather than a curiosity. That growth cuts both ways. It means there are more peers to compare you against, and it means the bar for what distinguishes a Brazilian file has risen with the pool. The thing that distinguishes it most reliably is not a math score that any well-schooled Brazilian teenager can post; it is command of academic English at a level the admissions office trusts you to thrive in. The SAT is the cleanest, most comparable signal of that command available to you, which is exactly why this guide refuses to treat it as a generic hurdle and instead treats it as the place your effort pays the steepest return.
 

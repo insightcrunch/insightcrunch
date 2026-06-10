@@ -6,7 +6,7 @@ date: 2012-11-08
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Kreacher", "House-Elves", "Regulus Black", "Grimmauld Place"]
 excerpt: "Deep literary analysis of Kreacher in Harry Potter - the bigoted house-elf whose loyalty to Regulus Black became the series' most uncomfortable redemption."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2012-11-08
@@ -16,7 +16,7 @@ lang: en
 
 There is a scene late in *Harry Potter and the Deathly Hallows* in which an old, half-mad house-elf sits in the basement kitchen of a London townhouse and tells the story of a young man who walked into a cave, drank a potion that made him scream and beg for water, and died alone in a chamber filled with the dead. The elf is the only witness. The young man is Regulus Arcturus Black. The story has been carried for almost two decades, sealed inside a servant whose masters never thought to ask what he had seen. When Hermione Granger sits across from this elf and weeps as he speaks, the reader is given perhaps the most disorienting emotional moment in all seven books: the racist who taught his masters to call her a Mudblood becomes, in the act of telling his grief, the figure she cannot stop crying for.
 
-![Kreacher character analysis in Harry Potter series](/assets/images/blog/blog-66.webp)
+![Kreacher character analysis in Harry Potter series](/assets/images/blog/blog-96.webp)
 
 This is the central provocation of the character. On every page he appears in *Order of the Phoenix*, he is a bigot. He calls Hermione a slur. He worships a portrait of a witch who screamed about purity of blood. He works actively for the destruction of the only people in the household who treat him with anything like moral seriousness. And he is, simultaneously, the only creature in the entire seven-book series whose love produced something resembling courage on the wrong side of the war. Regulus turned because of him. The first Horcrux was almost destroyed because of him. The elf himself, after a lifetime of being beaten and dismissed, eventually cooked treacle tart for a teenager whose existence he had spent most of the previous book actively working to sabotage.
 

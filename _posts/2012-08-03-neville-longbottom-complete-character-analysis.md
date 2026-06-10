@@ -6,7 +6,7 @@ date: 2012-08-03
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Neville Longbottom", "Gryffindor", "The Other Chosen One"]
 excerpt: "Deep literary analysis of Neville Longbottom across all Harry Potter books - earned courage, the prophecy's shadow, Augusta's burden, and a hero rebuilt."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 57
 author: "elena-wright"
 last_updated: 2012-08-03
@@ -16,7 +16,7 @@ lang: en
 
 There is a sentence buried in *Order of the Phoenix* that, on a first reading, slides past the eye like a stone skipped across water. Dumbledore tells Harry that the prophecy could have referred to two boys born at the end of July to parents who had defied Voldemort three times. The headmaster says it almost in passing, as if the alternative were a thought experiment rather than a fact of the wizarding world. But it is a fact. There was another candidate. There was another boy. And the other boy spent the next six years sitting in the same dormitory as the chosen one, eating at the same table, sleeping under the same crimson canopies, losing his toad on the same train, forgetting passwords at the same portrait, being laughed at by the same students, and growing, with a slowness the narrative almost obscures, into the only person in the entire series whose courage was not given but made.
 
-![Neville Longbottom character analysis in Harry Potter series](/assets/images/blog/blog-19.webp)
+![Neville Longbottom character analysis in Harry Potter series](/assets/images/blog/blog-66.webp)
 
 Rowling's quietest argument across seven books is that the Boy Who Lived was not the only candidate for the role. The prophecy did not choose Harry; Voldemort did, by walking into Godric's Hollow rather than into the Longbottom home. This reading depends on taking seriously the way Dumbledore frames the prophecy in his fifth-book conversation with Harry, where the headmaster carefully distinguishes between what was prophesied and what was made true by Voldemort's choice; the philosophical weight of that distinction is unpacked at length in the [Albus Dumbledore character analysis](/2012/07/12/albus-dumbledore-complete-character-analysis/), but its consequence for the second prophecy candidate is the entire textual basis for reading him as a parallel protagonist rather than as a sidekick. That single contingent choice severed two lives forever. One boy became a legend before he could speak. The other boy became a forgotten possibility, raised by an iron-willed grandmother who measured him daily against parents he could not remember, attending a school where his roundness and shyness made him an object of routine ridicule, and growing slowly, painfully, against every condition stacked against him, into the man who would behead Voldemort's last living horcrux at the Battle of Hogwarts. The series knows this. It gestures toward it. It gives the boy the Sword of Gryffindor twice. It places him at the moral center of the final battle. But it never quite says out loud what its own structure is shouting: read the books with him at the center, and they read more clearly than they do with the Chosen One at the center. The contingent hero becomes more morally legible than the assigned one, because his heroism was built rather than received.
 

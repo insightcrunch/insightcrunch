@@ -6,7 +6,7 @@ date: 2002-09-21
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Ethics", "Emotional Intelligence", "Attitude", "IAS Preparation"]
 excerpt: "UPSC GS4 ethics attitude emotional intelligence deep dive: concepts to application, contemporary dilemmas, EI frameworks, moral reasoning stages."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 65
 author: "anita-das"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC GS4 ethics attitude and emotional intelligence is the Section A theoretical
 
 The cognitive shift required is from treating ethics attitude and emotional intelligence as concepts requiring definitional knowledge to treating them as applied frameworks requiring demonstration through specific scenarios and contemporary dilemmas. The aspirant who writes about emotional intelligence by listing Goleman's five components without illustrating how each component applies in specific administrative scenarios signals concept-knowledge preparation that lacks application capacity. The aspirant who writes about emotional intelligence by demonstrating how self-awareness applies when officer recognises personal bias affecting judgment how self-regulation applies when officer manages frustration during difficult stakeholder engagement how empathy applies when officer understands community concerns about specific policy and how social skills apply when officer builds coalition for difficult reform demonstrates application capacity that UPSC GS4 actually rewards. Both aspirants may know the same conceptual material; only one signals the substantive engagement that GS4 Section A actually tests.
 
-![UPSC GS4 Ethics Attitude Emotional Intelligence Deep Dive - Insight Crunch](/assets/images/blog/blog-29.webp)
+![UPSC GS4 Ethics Attitude Emotional Intelligence Deep Dive - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 By the end of this guide you will understand the conceptual architecture of ethics attitude and emotional intelligence as GS4 Section A content, the essence determinants and consequences of ethics in human actions, the dimensions of ethics in private and public relationships, the comprehensive attitude framework with cognitive affective and behavioural components, the moral and political attitudes with social influence and persuasion mechanisms, the emotional intelligence frameworks with Goleman model and alternative frameworks, the conscience and moral reasoning stages including Kohlberg's framework, the application of these frameworks in contemporary dilemmas and administrative scenarios, the answer-writing techniques for theoretical questions, the source hierarchy for systematic preparation, and the integration with broader GS4 preparation. The total time investment for dedicated ethics attitude and emotional intelligence preparation across the cycle is approximately 35 to 50 hours building on broader GS4 foundational reading.
 

@@ -6,7 +6,7 @@ date: 1996-03-07
 categories: ["Industry"]
 tags: ["SAT", "Accommodations", "Twice Exceptional", "Gifted", "Learning Differences"]
 excerpt: "SAT for twice-exceptional students: handling uneven profiles, the accommodations process, strengths-first strategies and the emotional side, with guidance."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 61
 author: "michael-brooks"
 last_updated: 1996-03-07
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a particular kind of practice-test report that breaks a smart kid's confidence: a Math section near the ceiling sitting next to a Reading and Writing section that lands two hundred points lower, or the reverse, a verbal mind that reads at a college level dragging behind a Math number that does not match the rest of the brain at all. The teenager who produces that report is often the one teachers have called gifted since third grade, and the gap between what the page says and what everyone expected feels less like a data point and more like a verdict. This guide is for the twice-exceptional learner who lives inside that gap, and for the parents and counselors trying to help. The promise here is concrete: a way to read an uneven profile without shame, a clear walk through the accommodations process, and a strengths-first plan that lets exceptional ability finally show through on a digital, adaptive assessment that, handled correctly, suits this kind of mind better than the paper test ever did.
 
-![SAT twice-exceptional students strengths and accommodations strategy map - Insight Crunch](/assets/images/blog/blog-36.webp)
+![SAT twice-exceptional students strengths and accommodations strategy map - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 Twice-exceptional, usually shortened to 2e, names a real and specific combination: high ability in one or more domains paired with a learning difference, a disability, or a form of neurodivergence that affects how that ability gets expressed. A 2e teenager might reason through abstract algebra faster than the teacher and still need extended time because slow processing speed turns a forty-minute module into a race they lose on the clock rather than on the content. Another reads literary fiction for pleasure, writes essays adults envy, and freezes on a timed reading section because dyslexia makes decoding under pressure cost energy that classmates spend on comprehension. The defining feature is not a low number anywhere. It is the distance between the high number and the low one, and the way standardized testing was historically built to reward an even profile that this kind of mind does not have.
 

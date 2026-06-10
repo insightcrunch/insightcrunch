@@ -6,7 +6,7 @@ date: 1997-07-06
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Polynomials", "Advanced Math", "Algebra"]
 excerpt: "SAT polynomials explained: the zero-factor-intercept trinity, the remainder theorem shortcut, multiplicity and end behavior, with worked factoring examples."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 59
 author: "samantha-lee"
 last_updated: 1997-07-06
@@ -14,7 +14,7 @@ lang: en
 ---
 A student looks at a question that says "the polynomial p has a zero at x equals 4," then looks at the answer choices, which talk about factors. A second question shows a graph crossing the horizontal axis at three places and asks for an equation. A third hands over a quartic and asks for the remainder when it is divided by a linear expression. To an unprepared test-taker these read as three different topics, each demanding its own method, each a fresh chance to freeze. They are not three topics. They are one fact wearing three costumes, and the entire polynomial strand of the Advanced Math domain rewards the candidate who learns to see through the wardrobe.
 
-![SAT polynomials zeros factors and x-intercepts worked examples end behavior - Insight Crunch](/assets/images/blog/blog-28.webp)
+![SAT polynomials zeros factors and x-intercepts worked examples end behavior - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 Here is the recognition that collapses the topic to manageable size. For a polynomial function, the statement "x equals a is a solution of the equation set to zero," the statement "the quantity x minus a is a factor," the statement "a is a zero of the function," and the statement "the point a comma zero is an x-intercept of the graph" are four ways of saying the same single thing. Call it the zero-factor-intercept trinity, the InsightCrunch name for the equivalence at the heart of every polynomial item on the digital exam. A test writer can phrase a question in any of the four registers, then offer answer choices in a fifth, and the only candidates who lose points are the ones who treat the translation as new work rather than as recognition.
 

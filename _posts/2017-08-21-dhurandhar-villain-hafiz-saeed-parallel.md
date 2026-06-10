@@ -6,7 +6,7 @@ date: 2017-08-21
 categories: ["Industry"]
 tags: ["dhurandhar", "villain", "hafiz-saeed", "lashkar-e-taiba", "reel-vs-real"]
 excerpt: "Mapping Dhurandhar's chief antagonist to the real Hafiz Saeed across eight analytical dimensions reveals what the fictional portrait gets right and wrong."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-08-21
@@ -16,7 +16,7 @@ Aditya Dhar did not name his villain. He did not have to. Every audience member 
 
 <!--more-->
 
-![Dhurandhar Villain vs Hafiz Saeed Parallel Analysis - Insight Crunch](/assets/images/blog/blog-45.webp)
+![Dhurandhar Villain vs Hafiz Saeed Parallel Analysis - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 What makes this mapping significant is not that a Bollywood film used a real terrorist leader as inspiration for its villain. Films have drawn from real figures for decades. What makes the Dhurandhar villain's connection to Hafiz Muhammad Saeed significant is the precision of the portrait, the political confidence required to create it, and the legal architecture of deniability the filmmakers constructed around it. The villain is not a generic antagonist who happens to resemble a real person. The villain is a forensically detailed recreation of Saeed's public persona, organizational methodology, rhetorical style, and relationship with the Pakistani state, rendered with enough fictional distance to survive a defamation lawsuit but not enough distance to fool anyone paying attention.
 

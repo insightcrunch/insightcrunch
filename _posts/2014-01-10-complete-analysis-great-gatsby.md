@@ -6,7 +6,7 @@ date: 2014-01-10
 categories: ["Leisure"]
 tags: ["great-gatsby", "f-scott-fitzgerald", "novel-analysis", "american-dream", "jazz-age", "classic-literature"]
 excerpt: "Gatsby is not a love story. It is a 1925 verdict on the American postwar bubble that Fitzgerald knew was about to burst."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 72
 author: "megan-clark"
 last_updated: 2014-01-10
@@ -16,7 +16,7 @@ The Great Gatsby is the most misread canonical novel in the United States litera
 
 <!--more-->
 
-![Complete Analysis of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Complete Analysis of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 Fitzgerald published the novel on April 10, 1925, three years into the speculative expansion that would end in the crash of October 1929. The novel is set during the summer of 1922, a period Fitzgerald chose with care: 1922 was the year the postwar boom shifted from recovery into speculation, the year consumer credit began its decisive expansion, the year the Harding administration's corruption began surfacing through the Teapot Dome investigation. Fitzgerald did not need to wait for the crash to see what was coming. He had already written it. The green light at the end of Daisy's dock is not a symbol of romantic longing; it is the beacon of a speculative economy that rewards obsessive pursuit and punishes the pursuer. The novel's final image, the boats beating ceaselessly against the current, is not an elegy for beautiful impossibility. It is a diagnosis of a speculative formation that produces men like Jay Gatsby, uses their energy, and discards their bodies.
 

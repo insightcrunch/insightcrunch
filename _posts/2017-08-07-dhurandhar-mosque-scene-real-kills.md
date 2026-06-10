@@ -6,7 +6,7 @@ date: 2017-08-07
 categories: ["Industry"]
 tags: ["dhurandhar", "mosque", "scene", "real-killings", "reel-vs-real", "controversy"]
 excerpt: "The most controversial parallel between Dhurandhar and reality explored in full: the film's mosque killing scene versus actual prayer-time assassinations."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-08-07
@@ -16,7 +16,7 @@ Dhurandhar's most morally complex moment lasts less than three minutes on screen
 
 <!--more-->
 
-![Dhurandhar Mosque Scene vs Real Kills Analysis - Insight Crunch](/assets/images/blog/blog-49.webp)
+![Dhurandhar Mosque Scene vs Real Kills Analysis - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 ## The Film's Version
 

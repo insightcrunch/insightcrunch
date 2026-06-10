@@ -6,7 +6,7 @@ date: 2013-02-27
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Horace Slughorn", "Slytherin", "Complicity"]
 excerpt: "A Harry Potter character study of Horace Slughorn: the affable bystander whose ambition, guilt, and late courage make complicity the saga subtlest theme."
-image: "/assets/images/blog/blog-99.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-02-27
@@ -16,7 +16,7 @@ lang: en
 
 There is a particular kind of person who never commits a crime and never quite prevents one either. He is pleasant company. He remembers your name, your achievements, the small flattering details that make you feel singular. He pours good wine, tells warm stories, and arranges introductions that quietly advance everyone present, himself included. He is the friend you are glad to have and the witness who, when the moment of consequence arrives, was somehow looking the other way. Rowling gave this person a name, a belly, a fondness for crystallised pineapple, and a secret he spent half a century trying not to remember. His name is Horace Slughorn, and he may be the most morally interesting character in the entire seven-book sequence precisely because he is the least dramatic.
 
-![Horace Slughorn character analysis across the Harry Potter series](/assets/images/blog/blog-99.webp)
+![Horace Slughorn character analysis across the Harry Potter series](/assets/images/blog/blog-62.webp)
 
 The great villains of the saga are easy to read. Voldemort wants to conquer death and rule the living; his evil is total and his logic, once granted its monstrous premise, internally consistent. Dolores Umbridge enjoys cruelty and dresses it in institutional pink. Bellatrix Lestrange worships, Lucius Malfoy calculates, Peter Pettigrew cowers. These are legible moral positions. The retired Potions master who returns to Hogwarts in the sixth book occupies none of them. He is not a Death Eater. He never tortured anyone, never killed, never knowingly served the Dark Lord. By any ordinary accounting he is a decent man, and the series mostly treats him as one. Yet he carries a guilt heavier than that of several characters who did far worse, and the source of that guilt is the heart of why this character endures.
 

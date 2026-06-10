@@ -6,7 +6,7 @@ date: 2019-07-08
 categories: ["Industry"]
 tags: ["blowback", "unintended-consequences", "covert-operations", "afghanistan", "cia-mujahideen", "shadow-war", "intelligence"]
 excerpt: "How covert operations create unintended consequences, from the CIA's Afghan mujahideen to al-Qaeda, and the blowback risks now facing India's shadow war."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 71
 author: "robert-quinn"
 last_updated: 2019-07-08
@@ -18,7 +18,7 @@ The Central Intelligence Agency armed the Afghan mujahideen to bleed the Soviet 
 
 That structural property is what makes blowback the single most important analytical lens for understanding the long-term trajectory of [India's shadow war against terror](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/). The campaign of targeted killings that has eliminated dozens of wanted militants across Pakistani cities looks, from the inside, like a clean instrument: a precise, deniable, low-cost method of imposing consequences on men the Pakistani state has sheltered for decades. Every covert program in history has looked clean from the inside at the moment of its launch. The question this analysis sets out to answer is not whether the shadow war will produce unintended consequences. History gives no example of a sustained covert program that did not. The question is what form those consequences will take, when they will arrive, and whether the campaign's specific design makes it more or less exposed than the programs that came before it.
 
-![Blowback and Unintended Consequences in Covert Operations - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Blowback and Unintended Consequences in Covert Operations - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 To answer that question honestly requires setting the shadow war against the historical record rather than against its own self-image. It requires treating blowback not as a moral verdict but as an engineering fact, the way a structural analyst treats metal fatigue. A bridge does not fail because its designers were wicked. It fails because stress accumulates in places the designers did not model, and because the failure arrives long after the design decisions that caused it. Covert operations fail the same way. They accumulate consequences in places their authors did not model, and the bill arrives years after the officials who authorized the program have left office. What follows is an attempt to model the stress points, to name where the shadow war is exposed, and to adjudicate the central disagreement among intelligence scholars about whether blowback can be designed away or whether it is simply the price of the activity.
 

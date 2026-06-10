@@ -5,7 +5,7 @@ date: 2009-03-28
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Buddhadeb Bhattacharjee's interview with Karan Thapar: a raw, uncomfortable exchange that exposed the reality of governance in West Bengal."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 1
 author: "diana-patel"
 last_updated: 2026-04-01
@@ -15,5 +15,5 @@ Buddhadeb Bhattacharjee, chief minister of West Bengal, in a one-on-one intervie
 
 https://www.youtube.com/watch?v=GUOQP5dUFrg
 
-![Karan Thapar Interviews Buddhadeb Bhattacharjee](/assets/images/blog/blog-40.webp)
+![Karan Thapar Interviews Buddhadeb Bhattacharjee](/assets/images/blog/blog-70.webp)
 Karan Thapar Interviews Buddhadeb Bhattacharjee

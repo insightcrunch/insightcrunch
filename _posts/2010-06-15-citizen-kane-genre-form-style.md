@@ -6,7 +6,7 @@ date: 2010-06-15
 last_updated: 2010-06-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Film Theory", "Cinematography", "Themes", "Film History"]
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-62.webp"
 excerpt: "The Citizen Kane genre puzzle has a clear answer: it is a tragedy disguised as a newsreel investigation, borrowing noir shadow and the biopic's shape."
 reading_time: 60
 author: "amanda-ross"
@@ -14,7 +14,7 @@ lang: en
 ---
 Ask ten viewers what kind of movie Citizen Kane is and you will get ten confident, contradictory answers. One calls it a mystery, because a reporter spends the runtime chasing a dying man's last word. Another calls it film noir, pointing to the shadows that swallow half of every face. A third insists it is a biopic, the life of a press lord from cradle to crypt. A fourth says tragedy, a fifth says political drama, and a sixth shrugs and says it is just an old black-and-white classic that everyone is supposed to admire. The Citizen Kane genre question is the single most common source of confusion about the picture, and it is not a trivial one. What kind of work you decide you are watching governs what you expect, what you notice, and what you conclude. Get the category wrong and you misread the whole design.
 
-![Genre, form, and style in Citizen Kane explained, the fusion of mystery, biography, and tragedy - Insight Crunch](/assets/images/blog/blog-78.webp)
+![Genre, form, and style in Citizen Kane explained, the fusion of mystery, biography, and tragedy - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The honest answer is that Citizen Kane fuses several modes at once, and the fusion is the entire point. Welles and his collaborators built a work that wears the costume of a detective story over the body of a tragedy, that adopts the structure of a biography only to deny biography's deepest promise, and that borrows a documentary's voice in its first reel so it can spend the rest of its length tearing that voice apart. To name only one genre is to grab one limb of the animal and declare it the whole creature. This guide lays out every mode the picture runs at once, shows where each one lives in the actual footage, settles the recurring online debates about whether the work counts as noir or as biopic, and arrives at a single defensible claim about its form that you can carry into an essay, a seminar, or a second viewing. By the end you should be able to describe the style with the right vocabulary and defend a verdict about the kind of film this is, rather than repeating the label you happened to hear first.
 

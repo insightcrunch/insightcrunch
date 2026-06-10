@@ -6,7 +6,7 @@ date: 2007-05-27
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "consensus-flip", "us-presidents", "historical-reappraisal", "new-deal", "japanese-internment"]
 excerpt: "FDR held third place among historians from 1948 to 2000 without a serious challenge. Now the margin is thinner, and the reasons that moved it are specific."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 71
 author: "diana-patel"
 last_updated: 2026-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 In the spring of 1948, Arthur Schlesinger Sr. mailed a questionnaire to fifty-five scholars and asked them to rank the presidents. When the results came back and ran in Life magazine that November, the top of the list looked the way it would look for the next half century. Lincoln first. Washington second. Franklin Roosevelt third, dead barely three years, his coalition still in power, his name still on buildings that had not yet been dedicated. No president who had governed within living memory had ever been placed so high so fast. The professors who filled out Schlesinger's cards had voted for the man who pulled them through the worst decade and the worst war the republic had survived, and they did it almost reflexively, as if ranking him anywhere else would have been a category error.
 
-![FDR's Decline From Untouchable: The Critiques That Stuck - Insight Crunch](/assets/images/blog/blog-70.webp)
+![FDR's Decline From Untouchable: The Critiques That Stuck - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 That third-place finish hardened into something close to a law of nature. For the rest of the twentieth century, every major survey of historians returned the same answer, give or take one position. The question this article asks is narrow and specific: what happened to that answer in the years after 2000, and why. The short version is that Roosevelt did not fall. He slipped. The longer version, which is the one worth reading, is that the slip is the most interesting movement in modern presidential historiography precisely because it is small, because it is contested, and because it tracks a set of criticisms specific enough to name. This is the story of the critiques that stuck to a reputation everyone assumed was critique-proof.
 

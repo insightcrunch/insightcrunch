@@ -6,7 +6,7 @@ date: 2012-01-17
 categories: ["Industry"]
 tags: ["syed-salahuddin", "hizbul-mujahideen", "kashmir", "terrorism", "designated-terrorist"]
 excerpt: "The complete profile of Syed Salahuddin, Hizbul Mujahideen supreme commander and US-designated global terrorist, directing Kashmir from Pakistani exile."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
 author: "thomas-reid"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ In April 2024, a stooped, heavily bearded man in his late seventies appeared at 
 
 <!--more-->
 
-![Syed Salahuddin Hizbul Mujahideen Supreme Commander Profile](/assets/images/blog/blog-29.webp)
+![Syed Salahuddin Hizbul Mujahideen Supreme Commander Profile](/assets/images/blog/blog-15.webp)
 
 The rarity is not coincidence. It is the visible surface of a deeper collapse. Since February 2023, the Pakistan-based command structure that Salahuddin built across three decades of exile has been gutted by the [systematic elimination campaign documented in this series](https://insightcrunch.com/2013/06/22/hizbul-leadership-decimation/). His launching chief in Rawalpindi was [shot dead by unknown gunmen on a February evening](https://insightcrunch.com/2013/06/01/bashir-ahmad-peer-hizbul-profile/). One week later, his Al-Badr-affiliated lieutenant, who had served as a Hizbul commander in Kupwara before crossing the Line of Control, was [killed in Karachi](https://insightcrunch.com/2013/06/08/syed-khalid-raza-al-badr-profile/). His sons in Kashmir have been arrested by the National Investigation Agency, dismissed from their government jobs, and seen their family properties attached. His funding pipelines have been frozen, his recruits intercepted at the Line of Control, and his rhetoric, when it surfaces, lands in a near-silent Kashmir Valley where Hizbul's operational footprint has shrunk to vanishing.
 

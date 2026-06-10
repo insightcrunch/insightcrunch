@@ -6,7 +6,7 @@ date: 2007-07-26
 categories: ["Leisure"]
 tags: ["dwight-eisenhower", "consensus-flip", "us-presidents", "historical-reappraisal", "hidden-hand-presidency", "1950s-politics"]
 excerpt: "Eisenhower ranked 22nd of 31 in the 1962 Schlesinger poll. He now sits in the top five. Archival declassification, not ideology, drove the consensus flip."
-image: "/assets/images/blog/blog-99.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 73
 author: "diana-patel"
 last_updated: 2026-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 In 1962, Arthur Schlesinger Sr. published a poll of 75 American historians ranking the presidents. Dwight Eisenhower placed 22nd of 31, three slots below Rutherford Hayes and one slot above Chester Arthur. The verdict was professional consensus, not eccentric opinion. The Columbia historian who organized the survey had built his reputation on assessing the executive, and the scholars he canvassed represented the mainstream of the American history profession at the height of its mid-century confidence. Their reading of the man who left office only eighteen months earlier was that he had been an amiable caretaker who delegated to Dulles abroad and to Sherman Adams at home, who failed to lead on civil rights or McCarthy, who played golf during Little Rock, and who left no signature legislative achievement worth the name. A pleasant interregnum between Truman's responsibilities and Kennedy's energies.
 
-![Dwight Eisenhower reappraisal hidden-hand presidency consensus flip - Insight Crunch](/assets/images/blog/blog-99.webp)
+![Dwight Eisenhower reappraisal hidden-hand presidency consensus flip - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 In the C-SPAN historians' survey of 2017, Eisenhower ranked fifth, behind Lincoln, Washington, Franklin Roosevelt, and Theodore Roosevelt, ahead of Truman, Jefferson, Kennedy, Reagan, and Lyndon Johnson. Siena College polls beginning in 1982 had been telling the same story for thirty-five years. A near-bottom-quartile finish in 1962 had become near-top-five status. No external event reshuffled the deck. Eisenhower had been dead since 1969. The historical record of his eight years did not change. What changed was what scholars could read of that record, and what they chose to read it as.
 

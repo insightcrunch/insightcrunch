@@ -6,7 +6,7 @@ date: 2016-01-20
 categories: ["Leisure"]
 tags: ["world-war-2-causes", "appeasement", "munich-1938", "japanese-expansion", "ww2-origins", "modern-history"]
 excerpt: "WWII had multiple particular causes: Hitler's aggression, appeasement failures, Japanese expansionism, Italian aggression, and the 1939 Nazi-Soviet pact."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2016-01-20
@@ -16,7 +16,7 @@ World War II did not have a single cause. The deadliest conflict in human histor
 
 <!--more-->
 
-![Causes of World War II Explained - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Causes of World War II Explained - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 Conventional narratives taught in most secondary schools and repeated in popular treatments frame WWII as the inevitable sequel to WWI: the [Treaty of Versailles](https://insightcrunch.com/2015/11/26/treaty-of-versailles-explained/) imposed harsh terms on Germany, those terms produced resentment, resentment produced Hitler, and Hitler produced WWII. This single-chain explanation is inadequate. Richard Overy's scholarship on the origins of WWII, Gerhard Weinberg's comprehensive history of the conflict, and Ian Kershaw's biographical reconstruction of Hitler's decision-making all demonstrate that WWII resulted from multiple specific decisions by multiple specific governments across multiple specific theaters. WWII had four conflict-paths converging into global war, and reducing causes to Versailles or Hitler or appeasement misses the multi-path structure entirely. A war that began in Europe on September 1, 1939 was not identical to the war that began in East Asia with Japan's Mukden Incident on September 18, 1931, and their merger into a single global conflict was itself produced by specific choices, not structural inevitability.
 

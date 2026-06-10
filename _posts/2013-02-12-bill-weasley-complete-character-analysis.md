@@ -6,7 +6,7 @@ date: 2013-02-12
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Bill Weasley", "Curse-Breaker", "Weasley Family"]
 excerpt: "Bill Weasley in Harry Potter is the eldest Weasley son who escaped the Burrow, broke curses in Egypt, and built one of the series' quietest love stories."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 58
 author: "claire-bennett"
 last_updated: 2013-02-12
@@ -16,7 +16,7 @@ lang: en
 
 Every large family produces one child who leaves first, and the manner of that leaving tells you almost everything about the family's relationship to the wider world. The eldest Weasley son left for Egypt. He did not flee, and he did not slam a door behind him. He went with his mother's worried blessing and his father's quiet pride, did dangerous work for a foreign bank, grew his hair long, put a fang in his ear, and then returned as an adult who could sit at the Burrow's crowded table without being absorbed back into it. That distinction matters more than the series ever pauses to explain. He is the Weasley who got away, and the only one who managed to get away without breaking anything.
 
-![Bill Weasley character analysis across the Harry Potter series](/assets/images/blog/blog-30.webp)
+![Bill Weasley character analysis across the Harry Potter series](/assets/images/blog/blog-96.webp)
 
 Place that achievement beside his brother Percy, who tried to leave the same family and could not do it without first declaring the family beneath him, and the shape of the comparison becomes clear. Two ambitious sons, two routes out of a household defined by love and shortage of money. One found a way to honor the family while building a life it could never have given him. The other could only build that life by repudiating where he came from. The difference between them is not talent or even temperament. It is permission. The firstborn was allowed to be impressive on his own terms, and he extended that permission to himself without waiting for anyone else to grant it.
 

@@ -6,7 +6,7 @@ date: 2013-08-27
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Severus Snape", "Sirius Black", "Character Comparison"]
 excerpt: "Snape vs Sirius Black in Harry Potter compared across grief, cruelty, recklessness, and the misseeing that left a beloved boy unseen by both these men."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 42
 author: "sarah-mitchell"
 last_updated: 2013-08-27
@@ -16,7 +16,7 @@ lang: en
 
 The question is not whether Severus Snape or Sirius Black loved Harry Potter more. That contest, conducted endlessly across fan forums and rereadings, mistakes the matter entirely. The real question is sharper and far less comfortable: when love is expressed through cruelty, and when love is expressed through recklessness, which one does more harm to the person it is aimed at? Both men carried genuine attachment toward the orphan in their care. Both were broken long before that boy was born. And both, in their wildly different ways, mishandled him so badly that choosing between them becomes less a matter of literary preference than of clinical assessment. We are not asking who was kinder. We are asking which form of damaged devotion a child could more easily survive.
 
-![Snape vs Sirius character comparison in Harry Potter](/assets/images/blog/blog-76.webp)
+![Snape vs Sirius character comparison in Harry Potter](/assets/images/blog/blog-61.webp)
 
 Rowling sets this comparison up with a patience that few readers notice on a first pass. The escaped convict enters in *Harry Potter and the Prisoner of Azkaban* as the falsely accused villain who turns out to be the wronged hero, positioned so that the boy and the reader fall in love with him at the same moment. The sour Potions teacher has by then already spent two books being unambiguously horrible, sneering at children, humiliating the nervous ones, playing favourites with the cruelty of a man who knows no one will stop him. The story practically begs us to draw the obvious line: one good man, one bad man, and the only complication is that the good one is on the run. Then the next four books dismantle that line so thoroughly that by the end the reader has to hold two incompatible truths at once. The warm, brave, wronged escapee was also negligent, self-absorbed, and emotionally frozen at twenty-one. The cold, vindictive teacher was also the most loyal and self-sacrificing figure in the entire narrative.
 

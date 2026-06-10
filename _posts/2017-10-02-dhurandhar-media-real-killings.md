@@ -6,7 +6,7 @@ date: 2017-10-02
 categories: ["Industry"]
 tags: ["dhurandhar", "media", "real-killings", "coverage", "bollywood", "terminology"]
 excerpt: "How Indian media built a Dhurandhar feedback loop to frame real targeted killings in Pakistan, blurring the boundary between entertainment and news forever."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-10-02
@@ -16,7 +16,7 @@ Indian television news does not simply report when a wanted militant is shot dea
 
 <!--more-->
 
-![How Media Uses Dhurandhar for Killings - Insight Crunch](/assets/images/blog/blog-31.webp)
+![How Media Uses Dhurandhar for Killings - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The phenomenon is neither accidental nor trivial. Since Aditya Dhar's Dhurandhar became the [highest-grossing Bollywood blockbuster of its year](https://insightcrunch.com/2017/07/17/dhurandhar-box-office-cultural-impact/), a feedback loop has formed between entertainment and journalism that now governs how hundreds of millions of Indians process the [shadow war unfolding across the border](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/). A real targeted killing breaks as news. Within minutes, social media users overlay clips from the film onto the breaking report. Television anchors reference specific Dhurandhar scenes during their coverage. Hashtags combining the film's title with the name of the deceased militant trend simultaneously on multiple platforms. By the next morning, opinion columns debate whether the latest operation was conducted in a manner the film would approve of, as though Ranveer Singh's fictional character were an operational benchmark for the real intelligence establishment.
 

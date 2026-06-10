@@ -6,7 +6,7 @@ date: 2008-05-30
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "decision-reconstruction", "us-presidents", "new-deal", "hundred-days", "great-depression"]
 excerpt: "FDR passed fifteen major bills between March 9 and June 16, 1933. The Hundred Days legislative blitz built the modern federal executive's institutional core."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 68
 author: "rachel-foster"
 last_updated: 2008-05-30
@@ -14,7 +14,7 @@ lang: en
 ---
 At noon on March 4, 1933, the United States had no functional banking system. Thirty-eight states had closed their banks outright. The two largest economic states, New York and Illinois, had imposed full holidays the previous morning. The Federal Reserve was bleeding gold at a rate that would have exhausted its reserves within weeks. Industrial production stood at roughly half its 1929 level. One worker in four had no job. Farm prices had collapsed by sixty percent. Twelve million Americans were unemployed in a population of one hundred twenty-five million. The Dow Jones Industrial Average had closed the previous trading day at 53, down from a 1929 peak of 381. Suicides had reached the highest per-capita level the country had ever recorded.
 
-![FDR Hundred Days fifteen bills 1933 decision reconstruction - Insight Crunch](/assets/images/blog/blog-89.webp)
+![FDR Hundred Days fifteen bills 1933 decision reconstruction - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 Franklin Delano Roosevelt took the oath of office at one in the afternoon on the East Portico of the Capitol. The inaugural address ran one thousand eight hundred eighty words. Buried in it lay a sentence whose constitutional implications would shape the next century of American executive power: "I shall ask the Congress for the one remaining instrument to meet the crisis: broad executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded by a foreign foe." That sentence is the modern presidency's opening note, and its close reading is the subject of a companion piece on the [March 4, 1933 first inaugural](https://insightcrunch.com/blog/fdr-first-inaugural-fear-itself/).
 

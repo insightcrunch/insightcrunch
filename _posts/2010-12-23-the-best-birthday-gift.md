@@ -5,7 +5,7 @@ date: 2010-12-23
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "This is a guest post on TCS joining experience by Debapriya Mukherjee. The views expressed are entirely of the author."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 5
 author: "pooja-gupta"
 last_updated: 2026-04-01
@@ -63,5 +63,5 @@ After a week I started for Bhubaneshwar - Kalinga Park.
 
 Between I changed my Orkut tag:"GOT MY BIRTHDAY GIFT, A HAPPY FAMILY".
 
-![TCS Joining The Best Birthday Gift](/assets/images/blog/blog-31.webp)
+![TCS Joining The Best Birthday Gift](/assets/images/blog/blog-33.webp)
 The Best Birthday Gift

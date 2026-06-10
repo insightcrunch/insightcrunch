@@ -6,7 +6,7 @@ date: 2015-02-09
 categories: ["Leisure"]
 tags: ["isolation", "loneliness", "literary-comparison", "classic-literature", "frankenstein", "catcher-in-the-rye"]
 excerpt: "Classic literature's great isolated figures are not lonely in the same way. Isolation varies by cause, by duration, and by what it finally does to the self."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 70
 author: "sophia-turner"
 last_updated: 2015-02-09
@@ -16,7 +16,7 @@ Isolation is one of the most frequently invoked themes in classic literature, an
 
 <!--more-->
 
-![Isolation in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-19.webp)
+![Isolation in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 A six-character comparison across Shelley, Salinger, Conrad, Hawthorne, Defoe, and Ellison demonstrates that the varieties of isolation are systematic rather than incidental, and that the specific combination of cause, duration, and effect in each novel constitutes an argument about what human beings require from one another and what happens when that requirement is denied. Philosopher Philip Koch's distinction between solitude as chosen withdrawal and loneliness as unchosen separation provides one axis. Literary scholar Patricia Meyer Spacks's work on privacy and the self provides another. Hannah Arendt's analysis of the conditions under which human beings are reduced to superfluity provides a third, particularly relevant to Ellison's narrator and to the Creature. But the texts themselves supply the primary evidence, and the evidence shows that treating isolation as a single literary theme is like treating color as a single color. What we need is the spectrum.
 

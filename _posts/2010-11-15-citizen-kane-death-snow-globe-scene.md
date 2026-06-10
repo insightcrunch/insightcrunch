@@ -6,7 +6,7 @@ date: 2010-11-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Rosebud", "Snow Globe", "Close Reading", "Cinematography", "Symbolism", "Orson Welles"]
 excerpt: "The Citizen Kane death scene and the snow globe stage a magic trick of withheld information that quietly dooms the entire investigation before it begins."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2010-11-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The Citizen Kane death scene lasts under two minutes, and almost everything the film spends the next two hours chasing is planted, withheld, or quietly faked inside it. A dying man holds a small glass sphere with a snowbound cabin inside, whispers a single word, lets the object slip from his hand, and the glass breaks on the marble floor. That is the whole of it. Yet this brief passage is the keystone the entire structure rests on, because it manufactures the mystery that every later sequence pretends to solve, and it does so with a sleight of hand most viewers never catch. The reporter who spends the film hunting for the meaning of the dying word is chasing something the staging of this very passage suggests no living person could have heard. Read frame by frame, the opening is not an emotional prelude to a detective story. It is the detective story's quiet confession that the case was unsolvable from the first image.
 
-![Citizen Kane death scene and snow globe analysis, the shattering glass sphere and the whispered word Rosebud, explained by Insight Crunch](/assets/images/blog/blog-80.webp)
+![Citizen Kane death scene and snow globe analysis, the shattering glass sphere and the whispered word Rosebud, explained by Insight Crunch](/assets/images/blog/blog-62.webp)
 
 This reading treats the passage as a designed object rather than a mood piece. Orson Welles, working with cinematographer Gregg Toland and composer Bernard Herrmann, built the sequence to do contradictory jobs at once: to grieve, to mystify, to plant a clue, and to undercut the value of that clue before anyone can act on it. Once you see how the staging arranges who can and cannot witness the final word, the famous puzzle that circulates endlessly online stops being a continuity error and becomes the film's first and most honest statement of its own subject. The word belongs to us, the audience, and to no one inside the story. That is the trick, and the rest of the picture is the elaborate misdirection that follows it.
 

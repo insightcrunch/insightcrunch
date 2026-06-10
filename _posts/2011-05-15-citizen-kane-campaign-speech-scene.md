@@ -6,7 +6,7 @@ date: 2011-05-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Campaign Speech Scene", "Close Reading", "Orson Welles", "Themes", "Cinematography"]
 excerpt: "The Citizen Kane campaign speech scene stages Kane's defeat before a single vote is cast, as a giant poster dwarfs the man and Gettys watches from above."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2011-05-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The campaign speech scene is the moment Citizen Kane lets you watch a man lose an election he has not yet lost, and it does so before a single vote is cast, before Boss Gettys makes his threat, before the affair becomes public, by an act of pure composition. Kane stands on a platform at the front of an enormous hall, and behind him, filling the wall from floor to ceiling, hangs a photograph of his own face so vast that the living man at the podium reads as a detail of his own portrait. The film does not tell you that the brand has outgrown the person. It shows you, in one held arrangement of bodies and scale, that the image of Kane has become larger than Kane, and that the gap between the two is exactly where the rest of the story will happen.
 
-![The Citizen Kane campaign speech scene composition with the giant poster dwarfing Kane analyzed - Insight Crunch](/assets/images/blog/blog-15.webp)
+![The Citizen Kane campaign speech scene composition with the giant poster dwarfing Kane analyzed - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 This is the most openly political sequence in the film, and it is also the most quietly diagnostic. Watched as plot, it is a candidate at the height of his momentum, promising reform to a packed auditorium while his family looks on with pride and his rival looks on with calculation. Watched as design, it is a portrait of the demagogue at the instant the personality cult swallows the platform, and the staging is the argument. The size of the room, the height of the poster, the smallness of the speaker, and the lonely figure watching from the upper darkness are not decoration around the speech. They are the reading. Welles and his cinematographer Gregg Toland build a frame in which the man cannot win, and they build it out of nothing more controversial than where to put the camera and how big to print a face.
 

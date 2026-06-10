@@ -6,7 +6,7 @@ date: 2003-02-25
 categories: ["Industry"]
 tags: ["UPSC", "CSAT", "UPSC Prelims", "Reading Comprehension", "Quantitative Aptitude"]
 excerpt: "UPSC CSAT Paper 2 complete preparation guide: 33 percent qualifying threshold, section-wise strategy for reading comprehension quantitative aptitude logical reasoning and decision-making, difficulty trends since 2022, and the systematic approach to clearing the qualifying paper that has eliminated record numbers of aspirants in recent years."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 59
 author: "anita-das"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The transformation of CSAT from a routine qualifying paper into a major eliminat
 
 This article provides the complete preparation strategy for UPSC CSAT Paper 2 that addresses the contemporary difficulty level rather than the historical difficulty level that older preparation guides describe. The article integrates four critical components: the structural overview of the CSAT paper including the section composition the marking scheme and the qualifying threshold mechanics, the section-wise preparation strategies for reading comprehension quantitative aptitude logical reasoning analytical ability decision-making and basic numeracy, the difficulty trend analysis covering the dramatic escalation since 2022 and what it means for preparation intensity, and the integrated three-phase preparation methodology that allocates appropriate time to CSAT preparation alongside the substantial GS preparation requirements that the parallel papers demand.
 
-![UPSC CSAT Paper 2 Complete Guide - Insight Crunch](/assets/images/blog/blog-43.webp)
+![UPSC CSAT Paper 2 Complete Guide - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process where Prelims serves as the qualifying gate for Mains, and within Prelims, both papers must be cleared independently for qualification with GS Paper 1 determining the actual cutoff and CSAT serving as the binary qualifying filter at 33 percent. The [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) describes the broader Prelims preparation framework that this CSAT-specific strategy operates within. The [Prelims topic-wise weightage analysis](/2003/03/29/upsc-prelims-topic-wise-weightage/) focuses on GS Paper 1 question patterns while this article addresses the parallel CSAT paper that operates under different rules. The [Prelims Polity strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/), the [Prelims History strategy](/2003/03/24/upsc-prelims-history-culture-strategy/), the [Prelims Geography and Environment strategy](/2003/03/15/upsc-prelims-geography-environment-strategy/), the [Prelims Economy strategy](/2003/03/11/upsc-prelims-economy-strategy/), and the [Prelims Science and Technology strategy](/2003/03/06/upsc-prelims-science-technology-strategy/) provide the corresponding GS Paper 1 subject preparation approaches that operate alongside the CSAT preparation that this article addresses. The [current affairs strategy guide](/2003/03/02/upsc-prelims-current-affairs-strategy/) describes the cross-cutting current affairs preparation that supports GS Paper 1 but does not directly affect CSAT performance.
 

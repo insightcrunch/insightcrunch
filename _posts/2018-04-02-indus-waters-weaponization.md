@@ -6,7 +6,7 @@ date: 2018-04-02
 categories: ["Industry"]
 tags: ["indus-waters", "weaponization", "india-pakistan", "water", "strategy", "treaty"]
 excerpt: "A deep dive into India's weaponization of the Indus Waters Treaty, the Baglihar and Kishanganga dam closures, and Pakistan's existential water crisis."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
 author: "david-thornton"
 last_updated: 2018-04-02
@@ -16,7 +16,7 @@ On April 23, 2025, one day after gunmen killed 26 tourists in the meadows of Pah
 
 <!--more-->
 
-![Indus Waters Weaponization Deep Dive](/assets/images/blog/blog-11.webp)
+![Indus Waters Weaponization Deep Dive](/assets/images/blog/blog-18.webp)
 
 No aspect of this decision can be overstated. India controls the upper reaches of every major tributary that flows into Pakistan. The Chenab, the Jhelum, and ultimately the Indus itself pass through Indian-administered territory before crossing into Pakistani Punjab and Sindh, the agricultural heartland that feeds 230 million people. The Baglihar Dam on the Chenab and the Kishanganga project on the Neelum give New Delhi physical control over flows that sustain roughly ninety percent of Pakistan's agricultural production. When India closed the dam gates, it did not trigger an immediate famine or an overnight collapse of Pakistani agriculture. What it did was far more consequential as a strategic signal. It demonstrated that India possesses the physical infrastructure, the political will, and the legal framing to cause precisely such a catastrophe, whenever it chooses, for as long as it chooses. The [broader overview of the treaty's role as a strategic instrument](https://insightcrunch.com/2012/10/11/indus-waters-treaty-weapon/) traces how this moment was decades in the making. This article goes deeper, examining the dam-level operational detail, the downstream vulnerability mathematics, and the legal and ethical battleground on which the next phase of this confrontation will be fought.
 

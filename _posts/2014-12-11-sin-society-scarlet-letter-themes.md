@@ -6,7 +6,7 @@ date: 2014-12-11
 categories: ["Leisure"]
 tags: ["the-scarlet-letter", "nathaniel-hawthorne", "sin", "society", "themes", "literary-analysis", "classic-literature"]
 excerpt: "Hawthorne treats sin not as private moral failing but as social technology the Puritan community uses to manufacture its authority and absorb dissent."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
 author: "olivia-grant"
 last_updated: 2014-12-11
@@ -16,7 +16,7 @@ The Scarlet Letter contains three kinds of sin, and the distinctions among them 
 
 <!--more-->
 
-![Sin and Society in The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Sin and Society in The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 Most classroom treatments of The Scarlet Letter approach sin through what might be called a moral-inventory frame. Hester's sin, Dimmesdale's sin, Chillingworth's sin, and the the colony's sin are itemized, psychologized, and evaluated on a spectrum from sympathetic to condemnable. This approach produces competent literary analysis, but it misses what Hawthorne was actually doing. Sacvan Bercovitch, in his landmark study The Office of the Scarlet Letter, and Michael J. Colacurcio, in The Province of Piety, both demonstrated that the novel's subject is not sin as a ethical category but sin as a social technology. The Puritan community in the novel manufactures its authority by identifying, categorizing, and punishing sin in its members. The manufacturing process is the the colony's constitutional work, and the novel's argument is that this process produces more sin than it identifies, distributes the costs of sin unequally by social position, and ultimately collapses when the sin it cannot absorb erupts through its own legitimating apparatus. To read the novel's thematic architecture accurately, readers must shift from the question of who has sinned to the question of how Puritan Boston uses sin. That shift transforms the reading from moral inventory into political analysis, and the political analysis is what Hawthorne intended in the first place. For a richer understanding of this novel's layered design, readers might [explore character relationships and thematic networks interactively](https://reportmedic.org/tools/classic-literature-study-guide.html) to see how these structural patterns connect across the full text.
 

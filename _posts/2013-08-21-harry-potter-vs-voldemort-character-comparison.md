@@ -6,7 +6,7 @@ date: 2013-08-21
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Voldemort", "Tom Riddle", "Character Comparison"]
 excerpt: "Harry Potter vs Voldemort compared across orphanhood, death, choice, and the shared wand core that binds two boys the prophecy made structurally equal."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 41
 author: "megan-clark"
 last_updated: 2013-08-21
@@ -16,7 +16,7 @@ lang: en
 
 The question is not why one orphan became a hero and the other became a monster. That framing assumes the answer is character, some inborn seed of good or evil that the books exist to reveal. The more dangerous and more interesting question is this: what separates the boy raised without love who learns to attach himself to equals from the boy raised without love who learns only to dominate inferiors? Rowling spends seven volumes assembling the most precise pair of orphans in modern fantasy, loading them with so much shared material that the reader begins to suspect the two are interchangeable, two outcomes of a single experiment. Then she removes one variable at a time until the difference stands exposed. The difference is not magic. It is not luck. It is not even, in the simple sense the films prefer, love. It is the capacity to want company rather than mastery.
 
-![Harry Potter vs Voldemort character comparison across all seven books](/assets/images/blog/blog-69.webp)
+![Harry Potter vs Voldemort character comparison across all seven books](/assets/images/blog/blog-07.webp)
 
 The prophecy is the engine of the symmetry. "Neither can live while the other survives" binds the two together as a closed system, and the books treat that binding with absolute seriousness. They share a wand core. They share a language no one else at Hogwarts can speak. They share the lightning event that scarred one and shattered the other. They were both offered Slytherin and both recognised by the Sorting Hat as belonging there. By the time the reader reaches the final volume, the architecture is unmistakable: this was never a story about a good wizard and a bad one. It was a controlled comparison, and the control was so tight that the divergence in the results becomes the entire argument of the series.
 

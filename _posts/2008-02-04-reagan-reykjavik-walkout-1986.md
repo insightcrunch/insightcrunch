@@ -6,7 +6,7 @@ date: 2008-02-04
 categories: ["Leisure"]
 tags: ["ronald-reagan", "decision-reconstruction", "us-presidents", "american-history", "reykjavik-summit", "nuclear-abolition", "sdi"]
 excerpt: "Reagan and Gorbachev nearly eliminated all nuclear arms at Reykjavik in October 1986. The deal broke over SDI lab limits. Shultz framed the lost bargain."
-image: "/assets/images/blog/blog-32.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 73
 author: "diana-patel"
 last_updated: 2008-02-04
@@ -14,7 +14,7 @@ lang: en
 ---
 At 6:50 p.m. on Sunday, October 12, 1986, Ronald Reagan stood up at a small white wooden house on the Reykjavik waterfront and ended the most ambitious arms-control negotiation in human history. Two leaders had spent two days inside Hofdi House moving from a proposal to cut strategic atomic arsenals in half, to a proposal to eliminate every ballistic missile on earth, to a proposal to abolish every nuclear weapon held by both superpowers within a decade. The breaking point was a single technical question about where research on strategic defense could legally be conducted. The president walked. Mikhail Gorbachev followed him out, and the photograph of the two men outside Hofdi, jaws set, eyes hard, became the iconic image of a deal that died in the doorway.
 
-![Ronald Reagan Reykjavik 1986 summit walkout decision reconstruction - Insight Crunch](/assets/images/blog/blog-32.webp)
+![Ronald Reagan Reykjavik 1986 summit walkout decision reconstruction - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The standard version of the Reykjavik story treats the walkout as either tragedy or vindication, depending on the historian's politics. Frances FitzGerald argues Reagan threw away a generational opportunity for an ideological fantasy. Jack Matlock argues the walkout was the principled stand that made the 1987 INF Treaty and the eventual end of the Cold War possible. Paul Lettow argues the entire summit only makes sense once you understand that Reagan was negotiating in pursuit of total nuclear abolition and that the Strategic Defense Initiative was the only instrument he trusted to make abolition strategically safe. None of these readings is complete on its own. What the meeting minutes show, once they were released by both sides in the 1990s and cross-verified through the work of Svetlana Savranskaya and Thomas Blanton, is a negotiation that escalated past everyone's expectations through four sessions across two days, then collapsed on a definition. The reconstruction below tracks each of those four sessions in turn, names what each side put on the table, and asks the harder question the popular accounts skirt: was Reagan right to walk?
 

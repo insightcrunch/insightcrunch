@@ -6,7 +6,7 @@ date: 2007-01-04
 categories: ["Leisure"]
 tags: ["ronald-reagan", "close-read", "us-presidents", "brandenburg-gate", "berlin-wall", "cold-war-rhetoric"]
 excerpt: "Reagan's State Department and NSC tried to cut the tear down this wall line. Speechwriter Peter Robinson restored it. Reagan kept it. The wall later fell."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 71
 author: "anita-das"
 last_updated: 2026-06-02
@@ -14,7 +14,7 @@ lang: en
 ---
 The most quoted sentence Ronald Reagan ever spoke was, until the morning he delivered it, a sentence that the United States foreign-policy establishment had spent six weeks trying to delete. By the time the president stood at a lectern in front of the Brandenburg Gate on the afternoon of June 12, 1987, the National Security Council had objected to it, the State Department had objected to it, the American diplomatic mission in West Berlin had objected to it, and at least one senior aide had circled it in a draft with the word "no" beside it. Four words at the center of that sentence kept reappearing in every revision the speechwriter sent back, and kept getting struck out by the bureaucracy that reviewed it, in a slow tug of war that ran from late April through the second week of June. The sentence survived because the president himself read the draft, understood exactly what his own advisors wanted removed, and decided that it would stay.
 
-![Reagan Brandenburg Gate tear down this wall line State NSC tried to cut - Insight Crunch](/assets/images/blog/blog-98.webp)
+![Reagan Brandenburg Gate tear down this wall line State NSC tried to cut - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 That is the story this close read takes apart, sentence by sentence and memo by memo. The popular memory of the Brandenburg speech has flattened into a single image: a defiant president, a famous demand, a wall that fell two years later as if on cue. The flattening hides almost everything interesting. It hides the fact that the line was not the product of a confident White House consensus but the survivor of an internal fight. It hides the fact that the speech drew only moderate notice in 1987 and was elevated to prophecy retroactively, after November 1989 made it look like a prediction. And it hides the genuinely unresolved historical question underneath all the celebration: whether the speech contributed to what came next or merely happened to precede it. We will read the 2,754-word address in full, trace the drafting fight in detail, dissect the four-word demand at its rhetorical core, and then confront the causal question honestly rather than pretending the cheering crowd settled it.
 

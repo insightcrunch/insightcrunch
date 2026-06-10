@@ -6,7 +6,7 @@ date: 2023-05-15
 categories: ["Technology"]
 tags: ["Azure", "Azure Front Door", "Networking", "Security", "Cloud Computing"]
 excerpt: "Configure Azure Front Door routing rules end to end: origin groups, health probes, path patterns, caching, a custom domain, and an attached WAF policy."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 62
 author: "nathan-cole"
 last_updated: 2023-05-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Correct Front Door routing buys you one thing that nothing else in your stack can: a single global entry point that sends each request to a healthy backend, over the protocol you intended, with the caching and security behavior you chose. When the configuration is right, a user in Singapore and a user in Dublin both land on the closest edge, the edge forwards to an upstream that is actually serving traffic, and the response comes back transformed exactly as the route specifies. When the configuration is wrong, the same setup returns a 502 to every visitor while the portal shows a green checkmark and a route that looks perfectly valid. The gap between those two outcomes is rarely the route itself. It is almost always the origin contract sitting behind the route, and that contract is the part most setup guides skip.
 
-![Set Up Azure Front Door Routing Rules - Insight Crunch](/assets/images/blog/blog-67.webp)
+![Set Up Azure Front Door Routing Rules - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 This article walks the full setup for Azure Front Door routing rules and treats the origin contract as a first-class part of the procedure rather than an afterthought. You will create an origin group with a health probe, define a route with a path pattern, configure caching so the right responses are served from the edge, attach a custom domain with a managed certificate, and bind a Web Application Firewall policy to the endpoint. At each step the gotcha that produces a silent failure gets called out next to the command that avoids it. By the end you will have a working profile and, more importantly, a mental model that explains why a route that matches the path can still fail at the backend.
 

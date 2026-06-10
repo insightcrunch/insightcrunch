@@ -7,7 +7,7 @@ last_updated: 2026-04-04
 categories: ["Leisure"]
 tags: ["dhurandhar", "dhurandhar the revenge", "celebrity reactions", "ranveer singh", "aditya dhar", "rajinikanth dhurandhar", "ss rajamouli dhurandhar", "bollywood silence dhurandhar", "south india dhurandhar praise", "dhurandhar tweets", "dhurandhar 2026", "india cinema reactions"]
 excerpt: "Every famous voice that responded to Dhurandhar and Dhurandhar: The Revenge. Rajinikanth to SS Rajamouli, Allu Arjun to Hrithik Roshan, the supporters to the dissenters, and the deafening silence that said everything. The complete record of how India reacted."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-94.webp"
 author: "amit-chatterjee"
 read_time: 95
 lang: en
@@ -20,7 +20,7 @@ What the social media record of Dhurandhar and its sequel reveals is a portrait 
 
 <!--more-->
 
-![The Dhurandhar Effect: India's Most Powerful Voices Respond - Insight Crunch](/assets/images/blog/blog-66.webp)
+![The Dhurandhar Effect: India's Most Powerful Voices Respond - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 ---
 

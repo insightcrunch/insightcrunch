@@ -6,7 +6,7 @@ date: 2012-12-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Pansy Parkinson", "Slytherin", "Draco Malfoy", "Bullying"]
 excerpt: "Deep literary analysis of Pansy Parkinson across Harry Potter books - cruelty without ideology, conformity as cowardice, and Slytherin's most chilling moment."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 61
 author: "olivia-grant"
 last_updated: 2012-12-28
@@ -16,7 +16,7 @@ lang: en
 
 Most cruelty in literature needs a reason. Iago has his wounded pride, Edmund his bastardy, Voldemort his motherless dread of dying. Even the smallest villains in fiction usually carry some scar that the reader can be invited to recognise, some moment of injury that becomes the seed of the harm they will later inflict. Pansy Parkinson is Rowling's quiet refusal of that convention. She is the bully without a backstory, the mean girl without a motive, the cruelty that arises not from grief or grievance but from the simple discovery that her social world rewards the behaviour and punishes the alternative. She is among the most disturbing portraits in the seven Harry Potter books precisely because she is so plausible.
 
-![Pansy Parkinson character analysis in Harry Potter series](/assets/images/blog/blog-04.webp)
+![Pansy Parkinson character analysis in Harry Potter series](/assets/images/blog/blog-84.webp)
 
 Read across the full arc of the series, this Slytherin girl emerges as something stranger than the cackling antagonist the films briefly attempt to make her. She is the consummate conformist, a creature whose every cruelty exists in tight conformity with the social current of the room she happens to be standing in. Her laughter follows Draco's lead. Her gossip carries the dominant tone of the dormitory. Her hexes pursue whichever student the in-group has decided to mark that week. There is no original cruelty in her, only echoes, and the echoes carry because she sharpens them as they pass through her. The series's deepest indictment of her is not that she is uniquely evil; it is that she is recognisable, that any reader who has ever attended a school can name the girl who shaped herself entirely around the dominant social wind.
 

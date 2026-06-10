@@ -6,7 +6,7 @@ date: 2026-03-19
 categories: ["Leisure"]
 tags: ["dhurandhar", "ranveer-singh", "bollywood", "movie-analysis", "spy-thriller", "aditya-dhar"]
 excerpt: "The definitive analysis of Dhurandhar Part 1 - themes, performances, box office, and why it changed Bollywood forever."
-image: "/assets/images/blog/blog-64.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-04-02
@@ -16,7 +16,7 @@ Bollywood has spent the better part of two decades trying to make a spy thriller
 
 <!--more-->
 
-![Complete Analysis of Dhurandhar Part 1 - Insight Crunch](/assets/images/blog/blog-64.webp)
+![Complete Analysis of Dhurandhar Part 1 - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 What makes Dhurandhar exceptional, and what separates it from every previous Bollywood attempt at the spy genre, is its commitment to world-building. Where films like Pathaan and War treated their international settings as glossy backdrops for fight sequences and costume changes, Dhar constructs a fully realized version of Karachi's Lyari district that feels lived-in, dangerous, and socially textured. The criminal ecosystem he builds is not a cartoon; it operates by its own internal logic, with power structures, loyalties, economic pressures, and cultural codes that the film takes the time to establish before it begins dismantling them. By the time the credits roll on this first installment, the audience does not merely understand the plot; they understand the world, and that is a fundamentally different achievement. For a deeper exploration of how this world functions on screen, our analysis of [the Karachi underworld and Lyari in Dhurandhar](https://insightcrunch.com/2026/05/11/karachi-underworld-lyari-dhurandhar/) examines every layer of the production design and setting.
 

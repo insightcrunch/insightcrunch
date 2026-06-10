@@ -7,7 +7,7 @@ last_updated: 2018-07-30
 author: "andrew-price"
 categories: ["Industry"]
 tags: ["sialkot", "jaish-e-mohammed", "shahid-latif", "pathankot", "border-city"]
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-27.webp"
 excerpt: "How Sialkot functions as JeM's primary operations hub near the Indian border, enabling infiltration into Jammu and Kashmir, and where Shahid Latif died."
 reading_time: 70
 lang: en
@@ -16,7 +16,7 @@ The city of Sialkot presents the world with one of South Asia's most consequenti
 
 <!--more-->
 
-![Sialkot JeM Operations Hub - Insight Crunch](/assets/images/blog/blog-100.webp)
+![Sialkot JeM Operations Hub - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 Yet this same city, separated from Indian-administered Jammu and Kashmir by a strip of flatland that a person can traverse in minutes, has served for decades as one of [Jaish-e-Mohammed's](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) most consequential operational nodes in Pakistan's Punjab province. The infiltration corridors that radiate from Sialkot's district toward the Working Boundary and toward the Line of Control have carried fighters, weapons, and planning instructions into India on a schedule that Indian security forces have spent years trying to disrupt. When Indian precision missiles struck two facilities in Sialkot during Operation Sindoor in May 2025, they confirmed what Indian intelligence had asserted for years: that the city's export workshops and its militant infrastructure exist in the same geographic space, separated only by the institutional decisions of a Pakistani state that chose, repeatedly, to shelter one while celebrating the other. The contradiction is not incidental to Pakistan's relationship with anti-India militancy; it is definitional of it. Sialkot earns international goodwill through its footballs and surgical forceps, and it exports violence through the same border crossings that once carried commuter trains to Jammu before partition made neighbors into adversaries.
 

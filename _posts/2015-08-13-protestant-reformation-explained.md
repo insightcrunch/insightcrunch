@@ -6,7 +6,7 @@ date: 2015-08-13
 categories: ["Leisure"]
 tags: ["protestant-reformation", "martin-luther", "religious-history", "sixteenth-century", "european-history", "medieval-history"]
 excerpt: "The Protestant Reformation did not begin in 1517. It began a full century earlier with Wycliffe and Hus, and Luther was its conjuncture, not its origin."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2015-08-13
@@ -18,7 +18,7 @@ The Protestant Reformation was the sixteenth-century movement that split Western
 
 A reform movement aimed at the same abuses Luther named had been running inside Latin Christianity for more than a hundred years before he was born. John Wycliffe had argued in the 1370s that scripture, not papal decree, was the final authority in matters of faith. Jan Hus had been burned alive for saying much the same thing in 1415. Desiderius Erasmus had published a critical Greek New Testament in 1516, a full year before the ninety-five theses, and had spent two decades mocking clerical greed in print. The raw materials of the Reformation, the theological arguments and the moral complaints, were old. What was new in 1517 was not the critique. What was new was a printing infrastructure that could spread a critique faster than authorities could suppress it, and a political situation in the Holy Roman Empire that gave a single German prince both the motive and the power to shield the man making it.
 
-![The Protestant Reformation Explained - Insight Crunch](/assets/images/blog/blog-100.webp)
+![The Protestant Reformation Explained - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 This is why a careful account of the Reformation has to be a reconstruction of decisions rather than a list of doctrines. The doctrines had been available for a century and had produced martyrs rather than a movement. Between 1517 and 1521 a specific sequence of choices, made by Luther, by the elector Frederick the Wise of Saxony, by Pope Leo X, and by the young emperor Charles V, converted a recurring internal complaint into a permanent schism. Remove any one of those decisions and the most likely outcome is another suppressed heresy, another name added to the list that already held Wycliffe and Hus. Understanding the Reformation means understanding why this attempt held when every earlier attempt had failed.
 

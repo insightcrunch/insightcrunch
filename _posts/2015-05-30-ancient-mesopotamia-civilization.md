@@ -9,7 +9,7 @@ slug: "ancient-mesopotamia-civilization"
 excerpt: "Mesopotamia is the cradle of civilization: writing, cities, law codes, schools, and empires were all first invented between the Tigris and the Euphrates."
 categories: ["Leisure"]
 tags: ["ancient-mesopotamia", "sumer", "babylon", "cradle-of-civilization", "cuneiform", "ancient-history"]
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
 lang: en
 ---
@@ -19,7 +19,7 @@ The phrase "cradle of civilization" is one of those labels that everybody uses a
 
 The analytical question driving every section here is precise: why did a specific cluster of institutions - the city, writing, formal law, the school, the standing army, the administrative state, long-distance trade organized through contracts, and eventually the multi-ethnic empire - appear first in southern Mesopotamia between roughly 3500 and 2000 BCE, and not simultaneously or earlier somewhere else? The answer is hydrology, and the institutional cascade that hydrology set in motion. Every achievement discussed below has a structural cause. The article traces those causes institution by institution, from the first canal-irrigation settlements of the Ubaid period through the Persian conquest of 539 BCE, and then measures what the subsequent three millennia of world history owe to the land between the Tigris and Euphrates.
 
-![Ancient Mesopotamia Ruins - Insight Crunch](/assets/images/blog/blog-42.webp)
+![Ancient Mesopotamia Ruins - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 That measurement is the article's ultimate purpose. The "cradle" claim is not a compliment. It is a testable empirical proposition: that the institutional inventory developed in Mesopotamia between roughly 3500 and 500 BCE constitutes the baseline from which all subsequent institutional development in the ancient Near East, the eastern Mediterranean, and ultimately the Western and South Asian traditions proceeded. This article defends that proposition with specific evidence, acknowledges the competition from Egypt and the Indus Valley, and closes with the conservation crisis that makes the surviving Mesopotamian textual record all the more precious.
 

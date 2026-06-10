@@ -6,7 +6,7 @@ date: 2014-11-26
 categories: ["Leisure"]
 tags: ["fahrenheit-451", "ray-bradbury", "censorship", "themes", "literary-analysis", "dystopian-fiction"]
 excerpt: "Bradbury's 1953 novel is not about government book-burning. It is about a society that stopped wanting to read and then asked the state to finish the job."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "lauren-hayes"
 last_updated: 2014-11-26
@@ -16,7 +16,7 @@ Fahrenheit 451 is not a warning against government censorship. It is a diagnosis
 
 <!--more-->
 
-![Censorship and Ignorance in Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-28.webp)
+![Censorship and Ignorance in Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 The distinction between government censorship and voluntary cultural surrender is not academic. It changes what the work prescribes. If the threat is government book-burning, the solution is political: limit state power, defend free speech, oppose authoritarian overreach. If the threat is voluntary cultural surrender, the solution is personal and civilizational: restore the conditions under which reading is possible, resist the attention-fragmenting pressures that make sustained thought uncomfortable, and recognize that the firemen are not the cause of the problem but its terminal symptom. Bradbury's thesis, as stated in the text and confirmed in his 1979 coda and subsequent interviews, is the second. The work's protagonist, [Guy Montag](https://insightcrunch.com/2014/11/21/guy-montag-character-analysis/), does not overthrow a repressive regime; he escapes a collapsing civilization and joins a small community of memorizers who preserve texts against the possibility that the civilization might, after burning itself down, choose to rebuild differently. The solution Fahrenheit 451 proposes is not revolution. It is patient preservation. That distinction, between the censorship interpretation and the voluntary-surrender interpretation, is the subject of this article.
 

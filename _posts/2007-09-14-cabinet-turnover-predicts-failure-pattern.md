@@ -6,7 +6,7 @@ date: 2007-09-14
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "cabinet", "executive-personnel", "presidential-management"]
 excerpt: "Cabinet turnover correlates with presidential trouble. Tyler lost five in a day. Carter purged five at once. Eisenhower kept his. The pattern holds 200 years."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 81
 author: "amanda-ross"
 last_updated: 2026-05-25
@@ -14,7 +14,7 @@ lang: en
 ---
 On September 11, 1841, five of the six men sitting in John Tyler's cabinet resigned within hours of one another. Only Daniel Webster stayed, and he stayed because the Webster-Ashburton negotiations with Britain were too far along to abandon. Tyler had been president for five months. He had taken office on April 4 after William Henry Harrison died of pneumonia thirty-one days into the term, and by September the Whig coalition that elected the ticket had fractured so completely that the party formally expelled its own president two days later. Tyler served three and a half more years, vetoed bill after bill, and left office in 1845 having accomplished almost nothing he set out to do. He is ranked, depending on the survey, somewhere between the fifth-worst and the worst president in American history.
 
-![Cabinet turnover predicts presidential failure across two centuries - Insight Crunch](/assets/images/blog/blog-24.webp)
+![Cabinet turnover predicts presidential failure across two centuries - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 One hundred thirty-eight years later, on July 17, 1979, Jimmy Carter walked into a closed meeting with his entire cabinet and asked every secretary to submit a written letter of resignation. Over the next four days he accepted five of them. The press immediately called it the Massacre on the Potomac. Newsweek and Time both ran cover stories suggesting the administration was collapsing. The dollar fell. Carter's approval rating, which had briefly recovered after his July 15 energy address, dropped within ten days and never came back. Sixteen months later he lost forty-four states to Ronald Reagan.
 

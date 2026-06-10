@@ -6,7 +6,7 @@ date: 2018-05-14
 categories: ["Industry"]
 tags: ["nuclear-signals", "deterrence", "no-first-use", "india-pakistan", "escalation"]
 excerpt: "How the weapons shaped the 2025 India-Pakistan conflict without being used, analyzing Pakistan's NCA meeting, the Babur restraint, and India's NFU doctrine."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 70
 author: "james-carter"
 last_updated: 2018-05-14
@@ -20,7 +20,7 @@ Each of these six crises contributed a data point to what is now an empirically 
 
 <!--more-->
 
-![Nuclear Signals During 2025 Conflict](/assets/images/blog/blog-02.webp)
+![Nuclear Signals During 2025 Conflict](/assets/images/blog/blog-98.webp)
 
 Understanding what actually happened in the the dimension of the 2025 conflict requires separating three distinct questions that are often conflated in public discussion. First: did either side signal strategic readiness, meaning did either government take actions that were intended to communicate a willingness to consider weapons use? Second: did either side actually move toward weapons use, meaning did operational the forces change posture in ways that reduced the time to launch? Third: did the weapons influence conventional military decisions even without explicit signaling? The answers to these three questions are different, and their differences reveal a great deal about how deterrence actually operates between these two rivals. The [crisis timeline from Pahalgam to ceasefire](https://insightcrunch.com/2012/07/29/india-pakistan-2025-conflict-timeline/) documents the military sequence; this article examines the nuclear layer beneath it.
 

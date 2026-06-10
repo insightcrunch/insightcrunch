@@ -6,7 +6,7 @@ date: 2007-10-06
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "vice-presidents", "presidential-succession", "accidental-presidents"]
 excerpt: "Nine VPs inherited mid-term after death or resignation. Each made a defining consolidating move within thirty days. The pattern holds across two centuries."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 62
 author: "rachel-foster"
 last_updated: 2026-05-25
@@ -14,7 +14,7 @@ lang: en
 ---
 At 5:08 p.m. on April 12, 1945, Harry Truman walked into Sam Rayburn's first-floor hideaway in the Capitol expecting bourbon and political gossip. The phone rang. Steve Early at the White House asked the vice president to come, quietly, by the back entrance, as quickly as he could. Truman arrived to find Eleanor Roosevelt waiting. She placed a hand on his shoulder. "Harry, the president is dead." Truman stood silent for what witnesses later described as a long moment. He asked if there was anything he could do for her. Eleanor answered with the line that has survived in every Truman biography written since: "Is there anything we can do for you? For you are the one in trouble now."
 
-![John Tyler Calvin Coolidge Truman Lyndon Johnson Gerald Ford vice presidential succession 200 year audit - Insight Crunch](/assets/images/blog/blog-31.webp)
+![John Tyler Calvin Coolidge Truman Lyndon Johnson Gerald Ford vice presidential succession 200 year audit - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 Four months and three days after that exchange, Truman ordered the atomic bombing of Hiroshima. The interval compresses into action the central challenge facing every American vice president who has ever inherited the presidency through the death or resignation of his predecessor. The accidental president has roughly thirty days before the political system reorganizes around him or against him. His own party's factions, the opposition leadership, foreign chancelleries, the senior civil service, the cabinet he did not appoint, and the Washington press corps all watch the same question: does this man have the authority to govern, or merely the title?
 

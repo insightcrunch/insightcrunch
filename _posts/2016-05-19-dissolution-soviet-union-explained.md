@@ -7,7 +7,7 @@ slug: "dissolution-soviet-union-explained"
 categories: ["Leisure"]
 tags: ["soviet-union", "dissolution", "1991", "cold-war", "world-history"]
 excerpt: "The Soviet Union dissolved through structural exhaustion and reform miscalculations rather than external defeat. Neither inevitability nor Reagan captures it."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2016-05-19
@@ -17,7 +17,7 @@ The Soviet Union dissolved on December 25, 1991, when Mikhail Gorbachev resigned
 
 <!--more-->
 
-![The Dissolution of the Soviet Union](/assets/images/blog/blog-54.webp)
+![The Dissolution of the Soviet Union](/assets/images/blog/blog-38.webp)
 
 Understanding the Soviet dissolution requires recovering the specific interaction between structural factors that had accumulated over decades and contingent decisions made by identifiable individuals between 1985 and 1991. Vladislav Zubok's scholarship, particularly his 2021 work on the Soviet collapse, demonstrates that the dissolution operated through multiple levels simultaneously: industrial stagnation had eroded the system's capacity to deliver consumer satisfaction by the mid-1970s, but the system might have persisted in its diminished form for considerably longer had Gorbachev not introduced reforms that destabilized the political structure without producing a functional economic alternative. Stephen Kotkin's analysis emphasizes the institutional dimension, arguing that the Soviet system's uncorrectable institutional defects made eventual crisis inevitable even if the specific timing was contingent on particular leadership choices. Serhii Plokhy's research on the final months recovers the republic-level agency that both triumphalist and structural-inevitability narratives erase, demonstrating that leaders in Ukraine, Belarus, and Russia made specific choices that produced the specific dissolution that occurred rather than the various alternative outcomes that remained possible even in late 1991. The Soviet dissolution was, in short, a case of structural conditions determining what was possible and contingent decisions determining which possibility was realized, and understanding that interaction is the article's central purpose.
 

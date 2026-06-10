@@ -6,7 +6,7 @@ date: 2023-10-30
 categories: ["Technology"]
 tags: ["Azure", "Azure Firewall", "NSG", "Networking", "Security", "Cloud Computing"]
 excerpt: "Azure Firewall vs NSG vs NVA confuses many teams. Learn how statefulness, FQDN egress control, and layer differences decide which one each need wants."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 59
 author: "nathan-cole"
 last_updated: 2023-10-30
@@ -14,7 +14,7 @@ lang: en
 ---
 A surprising number of Azure designs treat the network security group, Azure Firewall, and a third-party network virtual appliance as three names for the same job. They are not. The recurring confusion behind every Azure Firewall vs NSG argument, and behind every debate over whether a network virtual appliance belongs in the picture, is the assumption that these three controls compete for one slot in the design. They do not compete. They sit at different layers, hold different scopes, and answer different questions, and the moment you see that clearly the choice stops being a coin flip and becomes a short chain of reasoning.
 
-![Azure Firewall vs NVA vs NSG comparison](/assets/images/blog/blog-34.webp)
+![Azure Firewall vs NVA vs NSG comparison](/assets/images/blog/blog-02.webp)
 
 This piece walks the full distinction. It builds the mental model for each control, shows exactly where the filtering decision happens for a packet, names the one fact that wrecks most designs (a network security group cannot screen outbound flows by domain name), and gives you a decision table you can paste into a design review. By the end you should be able to look at any requirement, whether it is screening a subnet, governing what your workloads may reach on the public internet, or supporting an inspection feature the managed service does not offer, and say with confidence which control owns that requirement and how the others layer around it.
 

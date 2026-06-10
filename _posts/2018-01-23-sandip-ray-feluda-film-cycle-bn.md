@@ -6,7 +6,7 @@ date: 2018-01-23
 categories: ["Leisure"]
 tags: ["feluda", "sandip-ray", "satyajit-ray", "sabyasachi-chakraborty", "bengali-cinema"]
 excerpt: "সন্দীপ রায়ের সম্পূর্ণ ফেলুদা চলচ্চিত্র চক্রের বিশ্লেষণ। ফেলুদা ৩০ থেকে বাদশাহী আংটি পর্যন্ত ১৬টি ছবি, সব্যসাচী চক্রবর্তী এবং আবীর চট্টোপাধ্যায়ের যুগ, এবং বাঙালি বাবা-পুত্র উত্তরাধিকারের একটি অসাধারণ অধ্যায়।"
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 133
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![সন্দীপ রায়ের ফেলুদা চলচ্চিত্র চক্র - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-77.webp)
+![সন্দীপ রায়ের ফেলুদা চলচ্চিত্র চক্র - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-19.webp)
 
 ## সন্দীপ রায় একজন পরিচালক হিসেবে
 

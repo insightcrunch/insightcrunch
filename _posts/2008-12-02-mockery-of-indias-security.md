@@ -5,7 +5,7 @@ date: 2008-12-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Mumbai 26/11 attack analysis: intelligence failures, security lapses, and why warnings were ignored despite specific location alerts from allies."
-image: "/assets/images/blog/blog-94.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
@@ -17,7 +17,7 @@ Read more: [How to become a famous blogger »](https://insightcrunch.com/2008/12
 
 Its true that we feel like taking up arms ourselves and showing everybody what Indians are about, but since we cant begin a revolution with arms literally, we should be satisfied with lighting candles and keeping 1 minute’s silences, showing that we are concerned about this from the bottom of our hearts, concerned that we have the biggest loopholes in our security system, about the infrastructure of our arms and ammunitions and after all we are so happy to have such responsible politicians who are responding so well after this national tragedy, forgetting what happened and focusing on saving their chairs(failing inevitably), not even giving a second thought before politicizing the death of a martyr. Sincerely hope the situation will improve, and our country will stay strong and prosper amidst the ruins of these chaoses. With improvement and advancements in security technologies we sincerely hope greater peace will come and prevail across all our communities.
 
-![Indian Security Forces](/assets/images/blog/blog-94.webp)
+![Indian Security Forces](/assets/images/blog/blog-73.webp)
 Indian Security Forces
 
 The larger question that emerged from those four days in late November was whether India had been taking its coastal security seriously at all. The attackers arrived by sea, slipping past the Indian Coast Guard and the Mumbai Police marine units, landing at a fishing colony in Colaba with automatic weapons and explosives. How does a country with a 7,500 kilometre coastline leave gaps that wide? The answer, painful as it is to admit, is that our security establishment had grown comfortable with the assumption that land borders were the only vulnerability worth funding. Sea routes, airspace monitoring, and rapid-response coordination between state police and central forces had all been treated as secondary concerns. The siege at the Taj, the Oberoi, and Nariman House exposed every one of those gaps in the most public way imaginable.

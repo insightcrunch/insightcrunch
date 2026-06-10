@@ -8,7 +8,7 @@ author: "james-carter"
 categories: ["Industry"]
 tags: ["most-wanted", "india", "pakistan", "terrorism", "target-list", "shadow-war"]
 excerpt: "Who remains on India's most-wanted list inside Pakistan today, what makes each a priority target, and why Pakistan's safe haven guarantee is eroding fast."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 lang: en
 ---
@@ -16,7 +16,7 @@ The men still on India's most-wanted list inside Pakistan know they are being hu
 
 <!--more-->
 
-![Most Wanted Indians in Pakistan Today](/assets/images/blog/blog-24.webp)
+![Most Wanted Indians in Pakistan Today](/assets/images/blog/blog-62.webp)
 
 There is no single most-wanted list. There are several, and they overlap unevenly. The Indian government maintains a designated-terrorist register under the Unlawful Activities Prevention Act. The National Investigation Agency runs its own most-wanted notifications, with charge sheets attached. The Central Bureau of Investigation publishes its own roll. Interpol holds Red Notices that India has filed against fugitives believed to be sheltering inside Pakistan. The Ministry of External Affairs has, on at least three documented occasions, handed Islamabad consolidated lists of accused individuals living openly inside Pakistani territory. Combine these sources, account for those eliminated since 2021, and the residual list runs to roughly forty names. The top tier, the men whose elimination would alter the operational character of an entire terror organization, contains fewer than ten.
 

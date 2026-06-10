@@ -6,7 +6,7 @@ date: 2014-05-30
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "napoleon", "character-analysis", "literary-analysis", "political-allegory"]
 excerpt: "Napoleon in Animal Farm is specifically Stalin, not just a generic tyrant. Orwell's allegory traces precise 1917-1943 Soviet events chapter by chapter."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "sophia-turner"
 last_updated: 2014-05-30
@@ -16,7 +16,7 @@ Napoleon is the pig who becomes dictator of Animal Farm, and he is specifically 
 
 <!--more-->
 
-![Napoleon Character Analysis in Animal Farm - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Napoleon Character Analysis in Animal Farm - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Orwell composed Animal Farm between November 1943 and February 1944, during the exact period when Stalin's Soviet Union was being publicly celebrated as Britain's indispensable wartime ally. The book's difficulty in finding a publisher, documented extensively in Bernard Crick's 1980 biography George Orwell: A Life, resulted directly from the political climate: Jonathan Cape, Victor Gollancz, Faber and Faber (where T. S. Eliot wrote the rejection letter), and the Dial Press in America all declined the manuscript because criticizing Stalin while Russia was fighting Hitler felt diplomatically reckless. Orwell's 1945 preface, suppressed until 1972 and subsequently published in full in Peter Davison's twenty-volume Complete Works of George Orwell (1998), makes the target explicit: the novel was an attack on the Stalinist corruption of socialist ideals, written by a democratic socialist who had witnessed Stalinist methods firsthand during the Spanish Civil War. Reading Napoleon without reading Stalin is reading the vehicle without the tenor, and the allegory collapses into a fable about bad leadership when it was designed as a forensic account of how one particular leader betrayed one particular revolution through identifiable institutional mechanisms.
 

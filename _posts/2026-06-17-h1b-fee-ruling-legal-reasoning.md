@@ -6,7 +6,7 @@ date: 2026-06-17
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Constitutional Law", "Administrative Procedure Act", "Executive Power", "Legal", "Immigration"]
 excerpt: "The H-1B fee ruling rested on two independent grounds, an unauthorized tax and a skipped rulemaking, each one strong enough to vacate the charge alone."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 59
 author: "hannah-moore"
 last_updated: 2026-06-17
@@ -14,7 +14,7 @@ lang: en
 ---
 The H-1B fee ruling that came out of the federal district court in Boston on June 8, 2026 is easy to summarize and easy to misread. The one-line version, that a judge struck down the $100,000 charge imposed on certain new H-1B petitions, tells you the result and almost nothing about why the result is hard to undo. The reasoning is the part that matters, because the reasoning is what a court of appeals must dismantle, and the decision was built so that dismantling it in one place is not enough. Judge Leo T. Sorokin did not write an opinion that turns on a single pivot. He wrote one that travels a chain, from how the charge is characterized, through whose power it required, through the process it skipped, to the remedy that followed, and he set the chain up so that two of its links are each independently load bearing. Understanding that structure is the difference between knowing that the levy fell and knowing why it will be hard to put back.
 
-![How the H-1B fee ruling reasoned from the tax finding to nationwide vacatur, a step-by-step analysis - Insight Crunch](/assets/images/blog/blog-28.webp)
+![How the H-1B fee ruling reasoned from the tax finding to nationwide vacatur, a step-by-step analysis - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 This analysis walks the reasoning the way the court walked it, link by link, and then steps back to show the architecture. The aim is not to restate the holding, which other accounts handle in a paragraph, but to make the logic usable: to let an attorney see exactly which findings an appeal must attack, to let a student see how a characterization decision drives everything that comes after it, and to let an employer or a policy analyst understand why the structure of the opinion, not just its bottom line, shapes the odds on review. The companion piece that owns the underlying tax-versus-fee question lives at [why the charge counts as a tax rather than a fee](/2026/06/13/h1b-fee-tax-or-fee-explained/), and the piece that owns the meaning of the remedy lives at [what vacated nationwide actually means](/2026/06/27/h1b-fee-vacated-nationwide-meaning/). This article owns the connective tissue between them: the reasoning that runs from the first finding to the last order, and the procedural ground that gives the decision its second spine.
 

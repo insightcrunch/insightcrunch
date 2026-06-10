@@ -6,7 +6,7 @@ date: 2023-04-03
 categories: ["Technology"]
 tags: ["Azure", "429", "Throttling", "Azure Resource Manager", "Troubleshooting", "Performance"]
 excerpt: "Azure 429 throttling hits Cosmos, storage, Event Hubs, and Resource Manager. Read the Retry-After header, back off with jitter, and confirm the source."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 64
 author: "william-knight"
 last_updated: 2023-04-03
@@ -14,7 +14,7 @@ lang: en
 ---
 An HTTP 429 response, the status line that reads Too Many Requests, is the platform telling you that a caller has exceeded a rate limit and that the offending request was rejected without being processed. Azure 429 throttling shows up everywhere a quota exists, which is to say almost everywhere: a Cosmos DB container that runs out of request units, a storage account that crosses its scalability target, an Event Hubs namespace past its throughput units, a Resource Manager subscription whose control-plane calls have piled up, and a long tail of resource providers that each defend themselves the same way. The status code is identical in every case. What differs is which budget you blew through, which header tells you how long to wait, and whether the fix is to slow down or to provision more capacity.
 
-![Fixing Azure 429 Too Many Requests throttling across services - Insight Crunch](/assets/images/blog/blog-23.webp)
+![Fixing Azure 429 Too Many Requests throttling across services - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The reason a single article can cover throttling across so many unrelated services is that the response carries its own remedy. A well-formed 429 includes a Retry-After value, and that value is not advice. It is the amount of time the service wants you to wait before trying again, computed by the system that is doing the throttling, which knows far more about its own recovery window than your client does. The central lesson of this guide, the one rule that resolves the largest share of throttling incidents on the first pass, is the honor-the-retry-after rule: read the wait the response hands you, back off for at least that long with a little jitter, and only then reattempt. The service that sent the 429 then tells you the second half of the story, namely whether you also need to raise a limit or redistribute load, but the immediate move is always the same regardless of which corner of Azure produced the rejection.
 
