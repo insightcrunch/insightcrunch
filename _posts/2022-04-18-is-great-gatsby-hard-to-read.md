@@ -4,17 +4,17 @@ title: "Is The Great Gatsby Hard to Read? A Reader's Guide"
 page_title: "Is The Great Gatsby Hard to Read? A Reader's Guide"
 date: 2022-04-18
 last_updated: 2022-04-18
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Reading Difficulty", "Reading Guide", "Classic Literature", "Study Help", "First-Time Readers"]
 excerpt: "Is The Great Gatsby hard to read? Easy on the surface, deep underneath. This guide maps the difficulty by dimension so you know exactly what to expect."
 image: /assets/images/blog/blog-01.webp
 reading_time: 60
+lang: en
 ---
-
 The question of whether The Great Gatsby is hard to read has a short answer that is wrong and a long answer that is useful. The short answer points at the book's slim spine, its nine chapters, its plain plot, and concludes that a novel you can finish in a weekend cannot be difficult. The long answer notices that thousands of readers do finish it in a weekend and still cannot say what it means, why it matters, or what Fitzgerald was doing on any given page. Both facts are true at once, and holding them together is the whole task. Gatsby is one of the easiest serious novels in the language to read to the last page and one of the hardest to read well, and mistaking the first for the second is exactly why so many readers leave it underrated, half-understood, or quietly resented.
 
-![Is The Great Gatsby hard to read explained for students and first-time readers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Is The Great Gatsby hard to read explained for students and first-time readers - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 This guide answers the difficulty question honestly, by dimension, so you know in advance what will actually challenge you and how to meet it. The aim is calibration. A reader who walks in expecting a thriller and finds a meditation will feel cheated; a reader who walks in braced for impenetrable modernist density will be surprised by how fast the pages turn and then blindsided by how little of the meaning they caught. Neither of those readers was warned correctly. What follows is the warning, broken into the five places the difficulty actually lives, with a coping strategy for each, so that the honest answer becomes a plan rather than a verdict.
 

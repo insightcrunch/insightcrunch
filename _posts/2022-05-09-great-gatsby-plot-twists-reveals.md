@@ -6,17 +6,17 @@ date: 2022-05-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Plot Twists", "Jay Gatsby", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby plot twists work as slow corrections, not shock endings. See how Fitzgerald reveals Gatsby, his invented past, and the death car driver."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2022-05-09
+lang: en
 ---
-
 Search the phrase Great Gatsby plot twists and you will find lists that treat the novel as a thriller with a hidden trapdoor, as though Fitzgerald saved one shocking card and slammed it down in the final pages. That framing misreads the book at the level of its design. The Great Gatsby does contain genuine reversals, moments where what you believed about a character collapses and rebuilds, but they are not gimmicks sprung for surprise. They are a controlled sequence of corrections, each one timed to change how you read everything that came before it. The novel withholds, then discloses, then reframes, and the order of those moves is the engine of the whole experience.
 
 This matters because the gap between reading Gatsby for plot and reading it for design is enormous, and most online coverage lives entirely on the plot side. A summary can tell you that Gatsby is really James Gatz, that Daisy was driving the car, that Wolfsheim made Gatsby's money in the shadows. What a summary cannot show you is why Fitzgerald places each of those facts exactly where he places it, what you are made to believe in the meantime, and how the late truth retroactively rewrites the early scenes. Treat the reveals as information design and the book becomes a masterclass in narrative control rather than a story with a few surprises bolted on.
 
-![The Great Gatsby plot twists and reveals explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby plot twists and reveals explained - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 ## What a reveal is, and why The Great Gatsby is built on them
 

@@ -6,15 +6,15 @@ date: 2014-12-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "It's a Wonderful Life", "Frank Capra", "Film History", "Film Analysis", "World Cinema"]
 excerpt: "It's a Wonderful Life flopped in 1946 and faded, until a copyright lapse and television turned a genuinely dark fable into a beloved Christmas classic."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-12-15
+lang: en
 ---
-
 The strangest fact about *It's a Wonderful Life* is that almost everything people believe about its reputation is backward. The film that now feels like a permanent fixture of the Christmas calendar, the one that seems to have been beloved since the moment it opened, was a commercial disappointment that lost money for the company that made it, dimmed the standing of one of Hollywood's most bankable directors, and then drifted out of circulation for the better part of three decades. Its canonization did not come from its first reviews or its first audience. It came from a clerical accident in a copyright office and from the appetite of television stations for cheap programming to fill the air in late December. And the cozy warmth that the film now carries as its brand conceals a movie about thwarted ambition, financial ruin, a nervous collapse, and a man standing on a bridge in the snow on Christmas Eve, ready to throw away the only life he has. The reputation and the film diverge so sharply that understanding the gap is the most useful thing a viewer can do with it.
 
-![How It's a Wonderful Life went from box-office flop to Christmas classic, a reception and reappraisal analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How It's a Wonderful Life went from box-office flop to Christmas classic, a reception and reappraisal analysis - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 This article takes the reception, controversy, and reappraisal of Frank Capra's 1946 film as its lens, which means the central object of study is not the plot but the arc of the film's standing over time: how it landed in 1946 and 1947, why it landed that way, how it slid toward obscurity, and how it was reborn through a mechanism that had nothing to do with anyone deciding the film was great. That mechanism, a lapse in copyright renewal that pushed the film into the public domain, is the rare case where a movie's place in the culture can be traced not to taste but to law and to broadcast economics. Set against the cinema being made elsewhere in the world in the same charged postwar year, the film also stops looking like an outlier of American sentimentality and starts looking like one national answer to a question the whole of world cinema was asking in 1946: what do you do with despair after a war.
 

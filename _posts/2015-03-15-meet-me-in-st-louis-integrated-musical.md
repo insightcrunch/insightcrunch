@@ -6,19 +6,19 @@ date: 2015-03-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Meet Me in St. Louis", "Vincente Minnelli", "Musical", "Film Analysis", "World Cinema", "Film History"]
 excerpt: "Meet Me in St. Louis advanced the integrated musical, where each song erupts from feeling, while a dark Halloween and a child's grief give the form real weight."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-03-15
+lang: en
 ---
-
 ## What Meet Me in St. Louis Changed About the Movie Musical
 
 By 1944 the Hollywood musical had a problem it had stopped noticing, the way a house develops a smell its residents cannot detect. The problem was the alibi. Almost every song in almost every studio musical of the preceding decade arrived wearing a permission slip. Someone stepped onto a nightclub floor, walked into a rehearsal hall, took the stage at a benefit, or sat down at a piano and announced that a number was about to happen. The camera then watched a performance, and the performance was understood by everyone, characters and audience alike, to be a performance. The backstage cycle that ran from the early sound era forward had built an entire grammar on this premise: the show inside the movie justified the songs in the movie, and when the curtain came down on the staged number the story resumed where it had paused. The musical was a delivery system for set pieces, and the set pieces were corralled behind the velvet rope of the diegetic stage.
 
 Meet Me in St. Louis removes the velvet rope. When Esther Smith stands alone in the parlor of a St. Louis house and sings about the boy next door, there is no stage, no audience, no benefit, no rehearsal, no orchestra she can see. She is not performing. She is in love and cannot say so to the person who would matter, and the song is the only place that feeling can go. The number is not interrupting the story to entertain us; the number is the story, rendered audible because the character has reached a pitch of feeling that ordinary speech cannot carry. That single shift, from song-as-performance to song-as-overflow, is the hinge on which this film turns, and it is the reason the picture sits at the center of any honest account of how the American musical grew up.
 
-![How Meet Me in St. Louis advanced the integrated musical, a comparative analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Meet Me in St. Louis advanced the integrated musical, a comparative analysis - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The technical name for what the film achieves is integration, and the term has a precise meaning that gets blurred in casual use. An integrated musical is one in which the songs and, where present, the dances grow from character and dramatic situation rather than pausing the drama to entertain. The number does work that the scene needs done: it advances feeling, deepens character, marks a turn, or discharges a tension that the dialogue has built and cannot resolve on its own. Remove an integrated number and the story loses a beat it required; remove a non-integrated number and the story is merely shorter. Sally Benson's source material, a sequence of New Yorker stories published across 1941 and 1942 under the address title that named the Smith family home, gave Arthur Freed and Vincente Minnelli a structure built from domestic episodes rather than plot machinery, and that loose, mood-driven shape turned out to be the ideal vessel for songs that come from feeling rather than from a booking on a stage.
 

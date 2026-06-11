@@ -6,16 +6,17 @@ date: 2022-04-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "First-Time Readers", "Close Reading", "American Literature", "F. Scott Fitzgerald"]
 excerpt: "Reading The Great Gatsby for the first time? A friendly guide to what to expect, what to watch for, and how to finish the short novel engaged, not lost."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2022-04-25
+lang: en
 ---
 Reading The Great Gatsby for the first time is a strange experience, because the book has a reputation that arrives before the book does. You have heard the title spoken with reverence. You have seen the green light on a hundred covers. You may already know a quotation or two, the parties, the doomed romance, the sense that something sad waits at the end. So you open it expecting to be swept away, and instead you meet a narrator talking about his father's advice, a man named Tom who is unpleasant in a hard-to-place way, and a long stretch of pages before the title character even arrives. The famous book feels quieter and slipperier than its legend. That gap, between the legend and the actual first encounter, is where most newcomers get lost.
 
 This guide is for the person holding the novel for the first time and wondering what to do with it. It is not a summary, and it is not a difficulty audit, and it is not a close-reading method, though it points toward all three. It is a companion for the first pass: what to expect from these nine chapters, what to watch for without straining, and how to finish the book engaged rather than confused. The promise here is simple. You can read this short novel for pleasure and still come out the other side ready to think about it, if you know what kind of book you are holding and what it is asking of you.
 
-![The Great Gatsby for first-time readers](/assets/images/blog/blog-01.webp)
+![The Great Gatsby for first-time readers](/assets/images/blog/blog-59.webp)
 
 The single most useful thing to understand before you begin is that Fitzgerald built this book to be met twice. The first meeting is for the shape of the story, the feel of the world, the slow pull of the characters. The second meeting is for the craft, the patterns, the way an image planted in chapter one pays off in chapter nine. A newcomer who tries to do both at once, hunting symbols while also following the plot, usually does neither well and quits somewhere around the third party. A newcomer who relaxes into the story first, and trusts that a reread will reward them later, almost always finishes and almost always wants to go back. That is the whole argument of this guide, and everything below is built to support it.
 
