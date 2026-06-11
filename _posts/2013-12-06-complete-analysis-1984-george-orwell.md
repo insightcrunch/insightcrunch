@@ -6,7 +6,7 @@ date: 2013-12-06
 categories: ["Leisure"]
 tags: ["1984", "george-orwell", "novel-analysis", "literary-analysis", "dystopian-fiction", "classic-literature"]
 excerpt: "The definitive analysis of 1984 - its themes, symbols, political warnings, and enduring relevance in the modern age."
-image: "/assets/images/blog/blog-83.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "claire-bennett"
 last_updated: 2013-12-06
@@ -16,7 +16,7 @@ lang: en
 
 <!--more-->
 
-![Complete Analysis of 1984 by George Orwell - Insight Crunch](/assets/images/blog/blog-83.webp)
+![Complete Analysis of 1984 by George Orwell - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 Orwell sent a letter to Francis A. Henson of the United Auto Workers on June 16, 1949, five months before his death and eight months before the Soviet Union detonated its first atomic device, in which he stated plainly that the novel was not intended as a prophecy but as a warning, and that he had set the action in Britain specifically to make the point that English-speaking peoples are not innately superior to anyone else. That letter has been available in the Collected Essays, Journalism and Letters since 1968, edited by Sonia Orwell and Ian Angus, and yet the popular reading of 1984 as a technology-warning or a surveillance-prophecy persists. The reading persists because it is easier than the alternative. If 1984 is about a future that might arrive, the reader can feel vigilant. If 1984 is about a past that already happened and a process that is always happening, the reader must feel implicated. Orwell's novel insists on implication. Its power is not speculative. Its power is testimonial.
 

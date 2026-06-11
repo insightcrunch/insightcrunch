@@ -6,7 +6,7 @@ date: 2013-02-23
 categories: ["Industry"]
 tags: ["sardar-hussain-arain", "jamaat-ud-dawa", "lashkar-e-taiba", "nawabshah", "targeted-killing", "shadow-war"]
 excerpt: "Profile of Sardar Hussain Arain, the Jamaat-ud-Dawa figure who ran LeT's madrassa network across rural Sindh, shot dead in Nawabshah's Qazi Ahmed town."
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Sardar Hussain Arain was not a fugitive hiding in a Karachi safe house or a comm
 
 <!--more-->
 
-![Sardar Hussain Arain JuD Profile - Insight Crunch](/assets/images/blog/blog-103.webp)
+![Sardar Hussain Arain JuD Profile - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 His death drew little coverage outside Pakistani regional media and a handful of Indian defense outlets that added his name to the growing ledger of anti-India figures killed by unidentified attackers on Pakistani soil since March 2022. But beneath the thin layer of news reporting lies a case that illuminates something no single-paragraph kill-list entry can capture: the anatomy of Pakistan's safe-haven infrastructure in its most overlooked province. Sindh is not Punjab, where Lashkar-e-Taiba's headquarters in Muridke operated for decades as an open city. Sindh is not Khyber Pakhtunkhwa, where tribal structures provide natural cover for armed groups. Sindh is a province where the Pakistan Peoples Party has governed without interruption for over fifteen years, where ethnic Sindhi politics dominate, and where Punjabi settlers, including the families of retired military personnel who received land grants after Partition, have carved out communities in towns like Qazi Ahmed and Nawabshah. Arain was part of that settler infrastructure. He was, by all available evidence, the man who made Jamaat-ud-Dawa's charitable mask work in rural Sindh, registering seminaries, collecting donations, organizing community events, and building a pipeline that connected young men in Sindhi towns to an ideological apparatus controlled from Lahore and, ultimately, to the armed formations that Hafiz Saeed built across three decades.
 

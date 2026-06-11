@@ -6,7 +6,7 @@ date: 2022-03-28
 categories: ["Technology"]
 tags: ["Azure", "Event Hubs", "Architecture", "Performance", "Cloud Computing"]
 excerpt: "Azure Event Hubs is a partitioned, log-based streaming ingestion service, not a queue. Master partitions, consumer groups, checkpoints, and throughput units."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "andrew-price"
 last_updated: 2022-03-28
@@ -14,7 +14,7 @@ lang: en
 ---
 Most teams meet Azure Event Hubs already holding the wrong model. They arrive from a queue, from Service Bus, from RabbitMQ, or from a database table they polled, and they expect the same contract: a message goes in, one worker takes it out, the worker acknowledges it, and the message disappears. Azure Event Hubs honors almost none of that contract, and the gap between what people assume and what the platform actually does is where the production incidents come from. A consumer reads an event and the event stays put. Two consumers in the same role read the same event twice. Ordering that held in testing falls apart at scale. The fix is never a configuration toggle. The fix is replacing the queue model in your head with the log model the service is actually built on, because once the model is right, every behavior that looked like a bug turns out to be the documented design.
 
-![Azure Event Hubs partitioned log model, consumer groups, and checkpointing explained - Insight Crunch](/assets/images/blog/blog-57.webp)
+![Azure Event Hubs partitioned log model, consumer groups, and checkpointing explained - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 This guide builds that model from the ground up and then makes it operational. You will leave able to reason about partitions, partition keys, consumer groups, offsets, checkpoints, throughput units, retention, Capture, and the Kafka-compatible endpoint well enough to size a hub for peak load, write a consumer that keeps up without losing or double-reading data, and recognize the five failure strings that account for most Event Hubs support tickets before they page you at three in the morning. The recurring theme is the one this series returns to again and again: a folk model gets you started and then betrays you, and the cure is the mechanism underneath.
 

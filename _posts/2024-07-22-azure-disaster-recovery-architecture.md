@@ -6,7 +6,7 @@ date: 2024-07-22
 categories: ["Technology"]
 tags: ["Azure", "Disaster Recovery", "Architecture", "Site Recovery", "Cloud Computing"]
 excerpt: "Disaster recovery on Azure starts with RPO and RTO, then weighs backup versus replication, multi-region failover, and a tested runbook that proves it works."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 61
 author: "nathan-cole"
 last_updated: 2024-07-22
@@ -16,7 +16,7 @@ A regional outage does not ask whether your disaster recovery plan is finished. 
 
 This article fixes that order. The design starts from two numbers, the Recovery Point Objective and the Recovery Time Objective, and it is only real after the runbook has been tested under conditions close to a true failover. Everything in between, the choice between backup and replication, the multi-region failover pattern, the tiering of workloads by how much downtime each can survive, follows from those two numbers and is proven by that one test. Get the order right and the rest of the design becomes a series of answerable questions. Get it wrong and you own an expensive collection of replicated bytes that nobody has confirmed will ever come back.
 
-![Disaster recovery architecture on Azure with RPO and RTO targets driving backup, replication, and multi-region failover](/assets/images/blog/blog-53.webp)
+![Disaster recovery architecture on Azure with RPO and RTO targets driving backup, replication, and multi-region failover](/assets/images/blog/blog-31.webp)
 
 The argument here is one rule applied without exception. Call it the rpo-rto-then-test rule: a disaster recovery design begins with explicit RPO and RTO targets per workload, chooses the cheapest pattern that meets those targets, and becomes a real capability only when a tested failover has confirmed the runbook. A plan missing any of the three pieces, the targets, the matched pattern, or the proof, is not disaster recovery. It is a hope with a budget attached.
 

@@ -6,7 +6,7 @@ date: 2013-10-14
 categories: ["Industry"]
 tags: ["india", "israel", "mossad", "raw", "covert-operations", "comparison", "targeted-killings"]
 excerpt: "Comparing India's shadow war with Mossad's targeted killings across eight dimensions, revealing what the parallels and gaps expose about state doctrine."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 70
 author: "kevin-reeves"
 last_updated: 2013-10-14
@@ -16,7 +16,7 @@ Two democracies separated by geography, religion, and colonial history arrived a
 
 <!--more-->
 
-![India vs Israel Covert Ops Compared - Insight Crunch](/assets/images/blog/blog-08.webp)
+![India vs Israel Covert Ops Compared - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The analytical question is precise: across which dimensions do India's [shadow war](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) and Israel's targeted killing program converge, across which do they diverge, and what does each point of convergence or divergence reveal about the relationship between democracy, secrecy, and state violence? This is not a question that opinion columns have answered systematically. Brief comparisons exist, usually noting the obvious parallel (both countries kill terrorists abroad) before moving to commentary. No existing analysis compares the two programs across multiple structured dimensions using specific operational evidence. That is what this article provides: an eight-dimension comparative framework covering target-selection criteria, operational methods, attribution policy, domestic legal architecture, international legal justification, media relationships, diplomatic consequence management, and strategic effectiveness. Each dimension holds both programs in the same analytical frame simultaneously, because a comparison that profiles one program and then the other with a bridging paragraph is not a comparison at all.
 

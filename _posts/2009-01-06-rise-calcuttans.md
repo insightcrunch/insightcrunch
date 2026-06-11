@@ -5,7 +5,7 @@ date: 2009-01-06
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Its sad to see my home town deteriorating like this in terms of its progress. It has only heard the plans of its improvement over the last couple of years..."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 1
 author: "chloe-martin"
 last_updated: 2026-04-01
@@ -17,7 +17,7 @@ We, Kolkatans are fighting hard enough to rise to the occasions when we see the 
 
 Read more: [Satyam tainted »](https://insightcrunch.com/2009/01/08/satyam-tainted/)
 
-![Kolkata Protests](/assets/images/blog/blog-66.webp)
+![Kolkata Protests](/assets/images/blog/blog-43.webp)
 Kolkata Protests
 
 Politics play a major role in the fate  of the state. Opposing parties simply doesn’t give a second thought to take up laws in their hands to meet their diplomatically-unsolvable-issues. Day in and day out plans of progress or solvable problems get out of hand. The current ruling party is the only party we can look up to to have any sign of hope as we have really no damn idea how competent(?) the opposition might be. Is it time for the citizens of Kolkata to do something?

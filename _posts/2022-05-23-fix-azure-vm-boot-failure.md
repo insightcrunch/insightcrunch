@@ -6,7 +6,7 @@ date: 2022-05-23
 categories: ["Technology"]
 tags: ["Azure", "Virtual Machines", "Boot Diagnostics", "Serial Console", "Troubleshooting"]
 excerpt: "An Azure VM boot failure is almost always a guest OS fault you can read from boot diagnostics and then repair with a rescue VM, not a reason to redeploy."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 63
 author: "thomas-reid"
 last_updated: 2022-05-23
@@ -16,7 +16,7 @@ An Azure VM boot failure is one of the few problems on the platform that feels g
 
 This guide treats a dead virtual machine the way a senior engineer does: as a five-symptom diagnosis with a confirming view, not a guessing game. You will learn to read the boot diagnostics screenshot and the serial log, identify which of the distinct no-boot causes is yours, and recover the instance with the repair commands rather than rebuilding it. Everything here assumes the instance reached the Azure fabric and was assigned to a host, then failed somewhere between power-on and a usable login. That is the territory where the guest, not the platform, owns the problem.
 
-![Diagnosing an Azure VM boot failure with boot diagnostics and the serial console - Insight Crunch](/assets/images/blog/blog-23.webp)
+![Diagnosing an Azure VM boot failure with boot diagnostics and the serial console - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 ## What an Azure VM boot failure actually is
 

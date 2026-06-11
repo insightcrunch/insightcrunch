@@ -6,7 +6,7 @@ date: 2023-09-26
 categories: ["Industry"]
 tags: ["高考英语", "英语写作", "高级句型", "作文模板", "Gaokao English", "Writing", "评分标准", "书写规范", "读后续写"]
 excerpt: "最全面的高考英语写作高分指南,深入解析评分标准与阅卷规律、应用文与读后续写的写作框架、倒装句强调句with复合结构等高级句型运用、段落组织与衔接技巧、高分模板与万能句式、书写规范与卷面分,助你英语写作稳拿高分。"
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 45
 author: "feng-lei"
 last_updated: 2026-03-31
@@ -22,7 +22,7 @@ lang: zh
 
 本篇指南将从评分标准深度解析、两大写作题型(应用文和读后续写)的写作框架、高级句型的系统运用、段落组织与逻辑衔接、高分模板与万能句式、词汇升级策略、书写规范与卷面分、不同水平考生的备考建议、写作的常见错误与避免方法、备考时间规划、命题趋势分析、考场实战策略等多个维度,为你提供一份关于高考英语写作的全景式高分攻略。关于高考英语科目的整体备考策略,可以参考[英语备考完全指南](/2026/02/06/gaokao-english-preparation-guide/)。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-85.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-94.webp)
 *高考英语写作高分攻略 - 从评分标准到满分突破的完整路线图*
 
 ## 评分标准深度解析 - 阅卷老师在看什么

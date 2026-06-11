@@ -6,7 +6,7 @@ date: 2023-08-28
 categories: ["Technology"]
 tags: ["Azure", "Networking", "VNet", "NSG", "Routing", "Cloud Computing", "Architecture"]
 excerpt: "Azure networking fundamentals explained: how routing chooses the path and NSGs filter it, so any connectivity problem lands on one clear, debuggable map."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 62
 author: "william-knight"
 last_updated: 2023-08-28
@@ -14,7 +14,7 @@ lang: en
 ---
 A request leaves a client, crosses a virtual network, passes through a security boundary, resolves a name, and arrives at a service. When it works, nobody thinks about the path. When it fails, an engineer stares at a timeout and starts guessing, and the guessing is where hours disappear. The reason the guessing happens is almost always the same: two distinct decisions, made at two distinct layers, get treated as one. Routing decides where a packet goes. Filtering decides whether it is allowed to go there. Name resolution decides what address the packet aims at in the first place. These are three separate questions answered by three separate mechanisms, and an engineer who keeps them separate can place any connectivity problem on a map within a minute, while an engineer who blends them widens a security rule to fix a routing fault, or rewrites a route table to fix a name that never resolved.
 
-![Azure networking fundamentals packet path map - Insight Crunch](/assets/images/blog/blog-49.webp)
+![Azure networking fundamentals packet path map - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 This article builds the model that the rest of the networking work in this series leans on. It is the reasoning layer underneath every troubleshooting guide: once you can say which route a packet takes and which rule evaluates it, the specific errors stop being mysteries and become positions on a known path. The claim it defends is small and load-bearing. In Azure networking, routing chooses the path and security groups filter it, so almost every connectivity question reduces to two sub-questions, which route and which rule, and keeping those two apart is the core skill. Call it the route-then-filter model. Everything below is an elaboration of that one sentence, with the configuration that realizes it, the failure modes that break it, and the diagnostic tools that expose where on the path a packet actually died.
 

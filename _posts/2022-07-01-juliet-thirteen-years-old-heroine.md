@@ -6,7 +6,7 @@ date: 2022-07-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "juliet", "juliet-age", "juliet-thirteen"]
 excerpt: "Juliet is barely thirteen, younger than in any source, and Shakespeare's daring choice gives his heroine a vulnerability and a force the sources never had."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2022-07-01
@@ -14,7 +14,7 @@ lang: en
 ---
 A father stands in a Verona street and tries to slow a suitor down. His daughter, he says, has not yet seen the change of fourteen years; let two more summers wither before anyone calls her ripe to be a bride. The suitor answers that girls younger than she are already happy mothers, and the father, half conceding, half resisting, mutters that those married so early are too soon marred. The whole of the tragedy that follows is compressed into that small, almost throwaway exchange in the second scene. The bride at its center is not fifteen, not sixteen, not the maturing young woman of the books Shakespeare read before he wrote. She is twelve turning thirteen, a child by any reckoning, and within four days of that street conversation she will propose marriage, arrange a secret wedding, share a bed, lose a cousin to her new husband's sword, defy her father to his enraged face, break with the woman who nursed her, swallow a drug that may be poison, and end the action with a dagger she turns on herself. That speed, set against that age, is the engine of the play. It is also the single fact the popular memory of the story works hardest to forget.
 
-![Juliet at Thirteen: Shakespeare's Daring Heroine - Insight Crunch](/assets/images/blog/blog-18.webp)
+![Juliet at Thirteen: Shakespeare's Daring Heroine - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The familiar image flattens the Capulet daughter into a soft icon of romance, a face on a greetings card, a name borrowed for perfume and pop songs. That image cannot hold what the text actually puts on stage. The girl who barely registers her own marriageability in the first act becomes, before the week is out, the most decisive intelligence in the drama. The argument of this study is that her youth is not a colorful detail to be noted and set aside. It is the key to her characterization, the source of both the tenderness audiences feel and the horror they suppress, and the deliberate result of a choice Shakespeare made against every version of the tale he inherited. To read the heroine as merely young, or merely passive, is to miss how the playwright loaded the contrast between a child's age and an adult's resolve until it became the most frightening thing in the work.
 

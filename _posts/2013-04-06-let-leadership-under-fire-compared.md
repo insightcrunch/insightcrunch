@@ -6,7 +6,7 @@ date: 2013-04-06
 categories: ["Industry"]
 tags: ["lashkar-e-taiba", "leadership", "targeted-killings", "comparison", "shadow-war", "counter-terrorism"]
 excerpt: "Comparative analysis of how the targeted elimination campaign has systematically climbed Lashkar-e-Taiba's hierarchy from mid-tier operatives to co-founders."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Somebody is climbing Lashkar-e-Taiba's organizational ladder, and the ascent is 
 
 <!--more-->
 
-![LeT Leadership Under Fire Compared](/assets/images/blog/blog-81.webp)
+![LeT Leadership Under Fire Compared](/assets/images/blog/blog-104.webp)
 
 This article holds every eliminated or attacked LeT figure in the same analytical frame simultaneously, comparing them across organizational rank, geographic location, operational method, and chronological sequence. The question is not who these individuals were, as their [individual profiles](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) answer that. The question is what their collective targeting reveals about the campaign's strategic logic. Is someone working through a predetermined list, ascending from expendable foot soldiers to irreplaceable founding members? Or is the hierarchical pattern an artifact of improving intelligence access over time, each successful operation yielding contacts and connections that unlock the next tier?
 

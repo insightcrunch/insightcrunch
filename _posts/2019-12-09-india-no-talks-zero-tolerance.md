@@ -6,7 +6,7 @@ date: 2019-12-09
 categories: ["Industry"]
 tags: ["no-talks", "zero-tolerance", "india", "pakistan", "doctrine"]
 excerpt: "How India declared a permanent end to engagement with Pakistan until terrorism stops, the zero-tolerance doctrine behind it, and what it means going forward."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
 author: "alex-cunningham"
 last_updated: 2019-12-09
@@ -16,7 +16,7 @@ In the weeks after Operation Sindoor, India did something it had never done in t
 
 <!--more-->
 
-![India No Talks Zero Tolerance Policy - Insight Crunch](/assets/images/blog/blog-61.webp)
+![India No Talks Zero Tolerance Policy - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 This is the link in the chain where the campaign hardens into permanent policy. Everything that came before, the IC-814 hijacking at Kandahar, the 26/11 Mumbai siege, the surgical strikes after Uri, the Balakot air raid after Pulwama, the slow eliminations of the shadow war, and finally the four days of missile exchange in May 2025, had produced reactions that were eventually absorbed back into a fragile normal. India protested, India retaliated, and then, after a decent interval, India re-engaged. The composite dialogue resumed. A prime minister flew to Lahore. A foreign secretary picked up a telephone. The no-talks policy is the moment the country decided to break that reflex on purpose. To understand why the decision belongs in the twenty-six-year arc rather than alongside it, the right place to begin is the event that immediately preceded it, because the no-talks doctrine did not arrive from a clear sky. It arrived as the codified residue of a campaign that had already spent four years proving that India no longer needed Pakistan to be a partner in anything.
 

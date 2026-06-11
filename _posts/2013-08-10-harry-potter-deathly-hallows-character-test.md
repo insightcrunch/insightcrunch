@@ -6,7 +6,7 @@ date: 2013-08-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Deathly Hallows", "Death and Mortality", "Symbolism"]
 excerpt: "The Deathly Hallows in Harry Potter act as a personality test in fairy-tale dress, where the relic each character craves exposes their truest answer to death."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-08-10
@@ -16,7 +16,7 @@ lang: en
 
 There is a peculiar trick buried in the seventh book, and most readers walk straight past it because it arrives dressed as a bedtime story. Hermione reads "The Tale of the Three Brothers" aloud from a children's book, and what sounds like a quaint folk parable is in fact the most precise philosophical instrument Rowling ever built. The three objects the brothers receive are not props in a treasure hunt. They are a diagnostic. Each relic corresponds to a different way of answering the one question every conscious being must eventually answer, and the answer a character reaches for tells you, with frightening accuracy, exactly who that character is.
 
-![The Deathly Hallows as a character test in Harry Potter](/assets/images/blog/blog-90.webp)
+![The Deathly Hallows as a character test in Harry Potter](/assets/images/blog/blog-79.webp)
 
 Consider the structure. The first brother demands a weapon, and receives the unbeatable wand. The second brother demands the return of a woman he lost, and receives the stone that summons the dead. The third brother, asking for nothing, requests only the means to leave the encounter unfollowed, and is given the cloak that hides its wearer from the figure of mortality itself. Strip the fable of its medieval scenery and a taxonomy emerges. One man tries to defeat the end. One man tries to negotiate with it. One man simply declines to be chased by it. Fight, bargain, accept. These are not three quirks of three fictional brothers. They are the three permanent postures the human mind takes toward its own finitude, and the genius of the relics is that they sort everyone who learns of them into one of the three.
 

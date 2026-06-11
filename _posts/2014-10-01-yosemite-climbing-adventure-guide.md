@@ -6,7 +6,7 @@ date: 2014-10-01
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "National Parks", "Hiking", "Outdoors"]
 excerpt: "A practical Yosemite climbing and adventure guide that grades the hardest hikes, explains Half Dome permits, and separates fit hiking from wall climbing."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
 author: "nandini-sen"
 last_updated: 2014-10-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Climbing and adventure in Yosemite splits into two worlds that look similar in photos and could not be more different on the ground, and the single most useful thing this guide can do is teach you which world a given objective belongs to before you commit a vacation day to it. One world is the strenuous day hike: long, steep, sometimes frightening, but reachable by a determined person with strong legs, an early start, and the right permit. The other world is technical rock climbing, the vertical granite that made this valley famous, which asks for years of skill, partners, ropes, and a tolerance for genuine consequence. The marquee challenges sort cleanly between the two. Half Dome is a hike, the hardest one most visitors will ever attempt, gated by a permit and your own fitness. El Capitan is a climb, gated by ability you cannot rent or fake. Confuse the two and you either waste a day chasing something you cannot do or, worse, talk yourself onto terrain that will hurt you.
 
-![Yosemite climbing and adventure guide to Half Dome, the hardest hikes, and big-wall granite - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Yosemite climbing and adventure guide to Half Dome, the hardest hikes, and big-wall granite - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 This guide is built around a simple sorting question you should ask of every objective: is this gated by a permit and my fitness, or is it gated by climbing skill? Get the answer right and the rest of the planning falls into place. The hikes that a fit person can train for, you train for, secure the permit, start before dawn, and turn around when the weather turns. The walls that require real climbing, you either spend years earning or you admire from a meadow with a pair of binoculars, and there is no shame in the second choice. The point of an honest adventure guide is not to flatter your ambition. It is to match your ambition to reality so the trip ends with a summit photo or a sane decision rather than a rescue. Once you understand the sorting, you can read the rest of this in order or jump to the objective that brought you here, because every section below states the distance, the gain, the gate, and the specific hazard that has hurt people before you.
 

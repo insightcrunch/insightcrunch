@@ -6,7 +6,7 @@ date: 1997-03-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Punctuation", "Colon Semicolon", "Grammar"]
 excerpt: "SAT punctuation explained: colon, semicolon, dash and apostrophe rules, including the its-versus-it's trap, for questions that offer all four marks as choices."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 1997-03-02
@@ -14,7 +14,7 @@ lang: en
 ---
 Picture the moment that decides a punctuation item. The screen shows one sentence with a single blank, and the four answer choices are a colon, a semicolon, a comma, and a dash. The sentence itself has not changed across the four options. Only the mark in the gap moves. A test-taker who reads the sentence four times, listening for which version "sounds right," will guess, and on this kind of item the ear is a coin flip. A test-taker who applies one mechanical check, whether the words on each side of the gap form a complete sentence on their own, will answer in seven seconds and move on with the point banked.
 
-![SAT Writing: Colon, Semicolon and Apostrophe - Insight Crunch](/assets/images/blog/blog-96.webp)
+![SAT Writing: Colon, Semicolon and Apostrophe - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 That is the whole game this guide trains. The College Board does not write punctuation items to reward intuition. It writes them to reward a rule, and it deliberately offers several marks at once so that students who never learned the rule have nowhere to hide. The four-choice design is not a trap in the sneaky sense. It is an honesty test. It asks, plainly, do you know what each mark is allowed to do, or are you guessing? Most test-takers guess. The ones who train the decision rule turn a frequent, predictable item type into nearly free points.
 

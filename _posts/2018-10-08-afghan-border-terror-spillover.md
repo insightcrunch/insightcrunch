@@ -6,7 +6,7 @@ date: 2018-10-08
 categories: ["Industry"]
 tags: ["afghanistan", "border", "spillover", "terror", "pakistan", "taliban"]
 excerpt: "How Afghanistan's chronic instability feeds Pakistan's terror infrastructure, the cross-border spillover dynamic, and what it means for India's security."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 72
 author: "william-knight"
 last_updated: 2018-10-08
@@ -16,7 +16,7 @@ The frontier between Afghanistan and Pakistan runs for roughly 2,600 kilometers 
 
 <!--more-->
 
-![Afghan Border Terror Spillover - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Afghan Border Terror Spillover - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 This region rarely sits at the center of the targeted-killing story. The eliminations that have defined India's covert campaign happened in Karachi apartments, Lahore mosques, Rawalakot prayer halls, and Sialkot streets, not in the Hindu Kush. Yet the Afghan frontier belongs in any honest account of the shadow war for a reason that is structural rather than incidental. The men who were eventually shot in Pakistani cities were, in many cases, products of this belt. They trained in camps that the Afghan jihad of the 1980s first established. They absorbed an ideology that crossed and recrossed the mountains for four decades. They moved through a corridor that no government has ever controlled, and they belonged to organizations whose survival depends on the strategic depth that Afghanistan provides. To map the safe haven and ignore the country next door would be to study a body without acknowledging its bloodstream.
 

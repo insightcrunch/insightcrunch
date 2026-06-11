@@ -6,7 +6,7 @@ date: 2013-10-30
 categories: ["Industry"]
 tags: ["pakistan", "raw", "blame", "allegations", "intelligence", "counter-narrative", "shadow-war"]
 excerpt: "Analyzing Pakistan's shifting official allegations against RAW for the targeted killings, the evidence gaps, and why Islamabad's story keeps changing."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "ryan-walsh"
 last_updated: 2013-10-30
@@ -16,7 +16,7 @@ Pakistan's counter-narrative on the targeted killings of India's most-wanted ter
 
 <!--more-->
 
-![Pakistan RAW Blame Game Analysis - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Pakistan RAW Blame Game Analysis - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 Islamabad's evolving response to the [shadow war campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) is itself a case study in how states manage narratives when reality contradicts their preferred version of events. Pakistan spent decades denying that designated terrorists lived on its territory. When those same designated terrorists began turning up dead, shot by unknown gunmen in Karachi, Lahore, Sialkot, and Rawalpindi, Pakistan faced a problem no public relations strategy could solve: acknowledging the killings meant acknowledging the targets, and acknowledging the targets meant admitting the very safe haven infrastructure that Pakistan had spent decades denying. The counter-narrative that emerged was not a single coherent story but a sequence of improvised positions, each abandoned when events on the ground made it untenable. Husain Haqqani, the former Pakistani ambassador to the United States and author of a searing critique of Pakistan's strategic communication patterns, has long argued that Islamabad's foreign policy narratives are reactive rather than proactive, constructed to manage the immediate crisis rather than to advance a consistent position. The targeted killings exposed this tendency with unusual clarity.
 

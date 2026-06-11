@@ -6,7 +6,7 @@ date: 2019-05-27
 categories: ["Industry"]
 tags: ["khashoggi", "saudi-arabia", "assassination", "aftermath", "extraterritorial"]
 excerpt: "How Saudi Arabia's botched killing of Jamal Khashoggi inside a consulate rewrote the global rules for extraterritorial operations and diplomatic fallout."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "kevin-reeves"
 last_updated: 2019-05-27
@@ -16,7 +16,7 @@ On the afternoon of October 2, 2018, a 59-year-old Saudi journalist walked into 
 
 <!--more-->
 
-![Aftermath of the Khashoggi killing and its global diplomatic fallout](/assets/images/blog/blog-66.webp)
+![Aftermath of the Khashoggi killing and its global diplomatic fallout](/assets/images/blog/blog-29.webp)
 
 This article reconstructs what happened in Istanbul, traces the eight months of denial, leaks, and shifting Saudi explanations that followed, and then does something the standard coverage never attempts. It places the Khashoggi case directly alongside India's shadow war against terrorism in Pakistan, comparing the two campaigns across the dimensions that determine whether an extraterritorial killing produces universal condemnation or selective silence. The comparison is uncomfortable, and it should be. It is not a verdict on whether either program is right. It is an attempt to understand a strange and consequential fact about the international order: that two states can both reach beyond their borders to kill, and the world can treat one as a pariah and the other as a footnote. Understanding why is the only way to understand what the rules of extraterritorial operations actually are, as opposed to what they are claimed to be.
 

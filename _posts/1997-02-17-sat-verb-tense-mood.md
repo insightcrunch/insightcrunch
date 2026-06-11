@@ -6,7 +6,7 @@ date: 1997-02-17
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Verb Tense", "Grammar", "Conventions"]
 excerpt: "SAT verb tense and mood explained: tense consistency, when shifts are valid, past perfect sequencing and the subjunctive, with error-and-fix examples."
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
 author: "christopher-wells"
 last_updated: 1997-02-17
@@ -14,7 +14,7 @@ lang: en
 ---
 A single mismatched verb sits inside an otherwise consistent paragraph, and the Digital SAT asks you to repair it. That is the whole game with the verb questions on the Standard English Conventions portion of Reading and Writing, and yet students lose these points at a rate that has nothing to do with the difficulty of the grammar. They lose them because they read each verb in isolation, weigh whether it "sounds right," and pick whichever choice matches the rhythm of the sentence they just read. The fix sounds right too. The trap choice always sounds right. That is what makes it a trap.
 
-![SAT Writing: Verb Tense and Mood - Insight Crunch](/assets/images/blog/blog-79.webp)
+![SAT Writing: Verb Tense and Mood - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The reader who finishes this guide will do something different and faster. Before evaluating any underlined verb, you will identify the dominant tense the passage has already established, and you will treat that tense as the default against which every choice is measured. Most verb items resolve the instant you have that anchor: the surrounding sentences are in the past, the only past-tense choice is correct, and the present-tense and future-tense distractors fall away without further thought. The harder items, the ones that separate a 650 Reading and Writing score from a 750, hinge on a small set of legitimate shifts away from the dominant tense, and on the second concept this guide treats in full, the subjunctive mood. Knowing precisely when a shift is warranted, the past perfect for an event that came earlier in time, the historical present for a discussion of a text or an enduring fact, the reported-speech sequence, is the difference between a student who fixes a correct verb and a student who leaves it alone.
 

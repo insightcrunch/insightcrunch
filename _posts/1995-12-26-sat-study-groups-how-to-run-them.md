@@ -6,7 +6,7 @@ date: 1995-12-26
 categories: ["Industry"]
 tags: ["SAT", "Study Resources", "Study Groups", "Teach-Back", "Accountability"]
 excerpt: "SAT study groups explained: the optimal size and composition, the teach-back method, a session structure and accountability, and the pitfalls to avoid."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
 author: "christopher-wells"
 last_updated: 2026-06-09
@@ -16,7 +16,7 @@ Two groups of four students each sit down to prep for the same test date. The fi
 
 That gap is the entire subject of this guide. An SAT study group is one of the highest-leverage free resources a motivated student can build, and it is also one of the easiest to waste. The default version, friends agreeing to study together, almost always decays into a social hour with textbooks open as props. The version that works treats peer time as a specific learning technology with rules: a deliberate size, members at compatible levels, a method that forces every person to produce rather than absorb, a session shape that fills the clock with retrieval and practice instead of passive review, and an accountability layer that makes drift visible. Build those five elements and a group converts ordinary hangout time into deliberate practice in a social form. Skip them and you get the first group.
 
-![SAT study group session structure and the teach-back method - Insight Crunch](/assets/images/blog/blog-49.webp)
+![SAT study group session structure and the teach-back method - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 What this guide gives you that a generic "study with friends" article does not: a ready-to-run session template with timed blocks you can copy and use this week, a group-formation checklist that screens for the conditions that predict success, a concrete walkthrough of the teach-back method applied to a real SAT topic, an accountability-tracker setup that ties group hours to actual score movement, and a diagnosis of every common failure pattern with the specific fix for each. Together these form the InsightCrunch study-group playbook, a system you can hand to three friends and start running on a Tuesday. The promise is narrow and testable: by the end you will be able to form a group that will not drift, run a session that teaches, and tell within two meetings whether the group is working or quietly wasting everyone's time.
 

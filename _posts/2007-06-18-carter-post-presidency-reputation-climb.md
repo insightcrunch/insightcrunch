@@ -6,7 +6,7 @@ date: 2007-06-18
 categories: ["Leisure"]
 tags: ["jimmy-carter", "consensus-flip", "us-presidents", "historical-reappraisal", "post-presidency", "nobel-peace-prize"]
 excerpt: "Jimmy Carter ranked 32nd of 36 in 1982 and sits near 26th now. The Nobel-winning post-presidency lifted the man far more than it moved the ranking of his term."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2007-06-18
@@ -16,7 +16,7 @@ On a December morning in Oslo in 2002, a seventy-eight-year-old peanut farmer fr
 
 That gap is the subject of this article, and it is one of the strangest puzzles in the study of presidential reputation. Most former leaders rise or fall as a single unit: the man and the term move together, and when the historiography shifts, both shift. Harry Truman climbed from contempt to the top ten. Ulysses Grant clawed back from the cellar. Dwight Eisenhower walked from the golf course into the rank of strategic genius. The Georgian did something none of them did. He split in two. The private citizen ascended to a level of public esteem unmatched by any living former occupant of the office, while the presidency itself barely budged on the charts that historians compile. Call it the split-verdict problem, the InsightCrunch term for a reputation that fractures cleanly along the seam between what a person did in office and who the person became after leaving it.
 
-![Jimmy Carter post-presidency reputation split between Nobel-era public esteem and flat historian rankings - Insight Crunch](/assets/images/blog/blog-75.webp)
+![Jimmy Carter post-presidency reputation split between Nobel-era public esteem and flat historian rankings - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The numbers tell the story before any interpretation does. In 1982, barely a year after the Georgian left Washington, the political scientists Robert Murray and Tim Blessing surveyed nearly a thousand historians and placed him thirty-second out of thirty-six. That is not a middling result. That is a verdict delivered while the wounds were fresh, a ranking that sat him among the failures rather than the mediocrities. The Siena College Research Institute, polling its own panel the same year, was kinder, slotting him twenty-fifth. Eighteen years later the C-SPAN Survey of Presidential Leadership in 2000 found him at twenty-second, a flicker of improvement. Then the needle wandered. Siena's 2010 survey dropped him back to thirty-second, exactly where Murray and Blessing had left him a generation earlier. C-SPAN's panels held steadier, placing him twenty-fifth in 2009 and twenty-sixth in both 2017 and 2021. Across forty years and half a dozen major surveys, the man who built the most admired post-presidency in modern memory moved from the low thirties to the mid-twenties and never once cracked the top half.
 

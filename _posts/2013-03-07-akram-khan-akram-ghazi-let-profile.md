@@ -6,7 +6,7 @@ date: 2013-03-07
 categories: ["Industry"]
 tags: ["akram-khan", "akram-ghazi", "lashkar-e-taiba", "bajaur", "targeted-killing", "shadow-war"]
 excerpt: "Profile of Akram Khan aka Akram Ghazi, the Lashkar-e-Taiba terrorist shot dead by unknown gunmen in Bajaur, proving the campaign's reach into tribal Pakistan."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 71
 author: "marcus-hall"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Akram Khan carried two identities. To the residents of Bajaur tribal district in
 
 <!--more-->
 
-![Akram Khan aka Akram Ghazi LeT Profile Bajaur Tribal District - Insight Crunch](/assets/images/blog/blog-100.webp)
+![Akram Khan aka Akram Ghazi LeT Profile Bajaur Tribal District - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 The significance of this killing lies not in who Akram Khan was within LeT's hierarchy, where he occupied a mid-tier position without the seniority of an [Amir Hamza](https://insightcrunch.com/2013/01/30/amir-hamza-let-cofounder-shot/) or the operational notoriety of an [Abu Qasim](https://insightcrunch.com/2013/03/01/abu-qasim-riyaz-ahmad-let-profile/), but in where he was killed. Bajaur is not Karachi, where a motorcycle-borne shooter can vanish into a city of fifteen million. Bajaur is a tribal district where the Pakistan Army maintains checkpoints every few kilometers, where outsiders are noticed within hours, where tribal councils track the movements of strangers, and where the security infrastructure theoretically makes covert operations by foreign intelligence services functionally impossible. That Akram Khan was nevertheless reached, surveilled, and eliminated in this environment transforms the geography of what the campaign can accomplish. It raises questions that Pakistan's security establishment has failed to answer: either the campaign's operational networks extend into the tribal agencies themselves, or the Pakistan Army's control over its own tribal territories is far weaker than Rawalpindi has claimed.
 

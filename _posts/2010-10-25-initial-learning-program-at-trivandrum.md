@@ -5,7 +5,7 @@ date: 2010-10-25
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "This is an article on TCS ILP Trivandrum by Neha Saxena."
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 5
 author: "sneha-reddy"
 last_updated: 2026-04-01
@@ -27,5 +27,5 @@ And finally the third most thing every engineer fears is the ‘MATC’. Everyon
 
 Now came the time to depart. I thought I was entering a mean world but here at TCS ILP I met the sweetest people of my life. Everyone was so much fun to be with. We developed a sort of harmony. We got accustomed to each other. Somewhere love blossomed and somewhere friendship .The bad corporate world seemed to be really sweet. Everyone was always ready to give a helping hand. If getting back home was something that made everyone happy losing on such wonderful friends made everyone sad. I wish this ilp lasted longer. This wonderful phase of my life is etched in my mind like one of the most beautiful memories. Thanks all of u, for this amazing memory.
 
-![TCS ILP Initial Learning Program at Trivandrum](/assets/images/blog/blog-103.webp)
+![TCS ILP Initial Learning Program at Trivandrum](/assets/images/blog/blog-100.webp)
 Initial Learning Program at Trivandrum

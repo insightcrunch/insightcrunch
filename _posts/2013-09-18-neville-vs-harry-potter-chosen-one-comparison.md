@@ -6,7 +6,7 @@ date: 2013-09-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Neville Longbottom", "Character Comparison", "The Chosen One"]
 excerpt: "Neville vs Harry in Harry Potter: the prophecy could have chosen either boy, and the comparison reveals heroism as contingent rather than fated by destiny."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 42
 author: "megan-clark"
 last_updated: 2013-09-18
@@ -16,7 +16,7 @@ lang: en
 
 The prophecy never named a name. It described a child, and the description fit two infants equally. Both were born as the seventh month died. Both had parents who had defied the Dark Lord three times. The seer who spoke the words could not have known which cradle she was pointing toward, because the words pointed toward neither and both. The choice that made one boy the centre of seven novels and left the other in the dormitory bed beside him was not made by fate, by magic, or by the words themselves. It was made by Voldemort, on a single night, when he turned his wand toward Godric's Hollow rather than toward the Longbottom house. The whole architecture of the wizarding war rests on that turn of a wrist.
 
-![Neville Longbottom and Harry Potter compared in the Chosen One question in Harry Potter](/assets/images/blog/blog-15.webp)
+![Neville Longbottom and Harry Potter compared in the Chosen One question in Harry Potter](/assets/images/blog/blog-93.webp)
 
 This is the question the comparison forces, and it is a more dangerous question than the books usually let themselves ask out loud: if the hero could have been someone else, in what sense was he ever the hero at all? Readers tend to treat the lightning scar as a mark of cosmic election, as if the universe selected the orphan of Godric's Hollow for greatness the way scripture selects a prophet. Rowling spends the better part of two thousand pages dismantling that reading, and her chief instrument for dismantling it is the round-faced, frightened, forgetful boy who shares the protagonist's birth month, his year at school, his dead-or-destroyed parents, and very nearly his destiny. The story gives us a spare hero. It keeps him in plain sight for seven books. And in the final volume it hands him the sword.
 

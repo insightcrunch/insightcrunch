@@ -5,7 +5,7 @@ date: 2023-07-01
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2020", "Thoughts"]
 excerpt: "Happiness hides in the small things. 30 everyday pleasures from a gentle breeze to a good book that bring genuine joy when you stop to notice them."
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 4
 author: "rachel-foster"
 last_updated: 2026-03-30
@@ -17,7 +17,7 @@ Happiness, that elusive emotion we all seek, can often be found in the little th
 
 Keep Reading: [Gastronomic Grandeur: Exploring High-Cost Dining Experiences in Chicago »](https://insightcrunch.com/2023/08/09/gastronomic-grandeur-exploring-high-cost-dining-experiences-in-chicago/)
 
-![](/assets/images/blog/blog-85.webp)
+![](/assets/images/blog/blog-44.webp)
 
 In this article, we explore 30 simple pleasures that have the power to uplift our spirits and bring a smile to our faces.
 

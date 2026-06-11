@@ -6,7 +6,7 @@ date: 2013-05-19
 categories: ["Industry"]
 tags: ["jaish-e-mohammed", "comparison", "targeted-killings", "shadow-war", "counter-terrorism"]
 excerpt: "Comparing five JeM targeted eliminations from Zahoor Mistry to Tahir Anwar across organizational seniority, attack involvement, and strategic impacts."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 50
 author: "robert-quinn"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Five Jaish-e-Mohammed operatives have been killed in Pakistan since March 2022, 
 
 <!--more-->
 
-![JeM Targets Compared - From Zahoor Mistry to Dawood Malik, How the Campaign Against Jaish-e-Mohammed Has Evolved](/assets/images/blog/blog-59.webp)
+![JeM Targets Compared - From Zahoor Mistry to Dawood Malik, How the Campaign Against Jaish-e-Mohammed Has Evolved](/assets/images/blog/blog-08.webp)
 
 The purpose of comparing these five cases is not to rank them by some abstract measure of importance. It is to answer a precise analytical question: does the JeM targeting sequence reveal a deliberate strategy, or does it reflect opportunistic strikes against whoever happened to be vulnerable at a given moment? The answer matters because it determines whether the campaign against Jaish-e-Mohammed is a systematic decapitation effort or a series of fortunate coincidences. Vipin Narang at MIT has argued that strategic targeting in counter-terrorism campaigns follows organizational logic rather than target availability, and the JeM sequence is perhaps the clearest test case for that argument in the contemporary era. Sushant Sareen at the Observer Research Foundation has mapped JeM's vulnerability points and concluded that the sequence tracks Azhar's organizational dependency chain with uncomfortable precision. If both are right, what happened to Jaish-e-Mohammed between 2022 and 2024 was not a scattering of independent kills but a coordinated campaign that read JeM's organizational chart and worked through it layer by layer.
 

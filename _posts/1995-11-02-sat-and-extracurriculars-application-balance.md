@@ -6,7 +6,7 @@ date: 1995-11-02
 categories: ["Industry"]
 tags: ["SAT", "Extracurriculars", "Application Balance", "Time Management", "College Admissions"]
 excerpt: "SAT and extracurriculars: balancing prep against activities, when to stop studying and invest elsewhere, and the spike philosophy, with a time-allocation guide."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "katherine-blake"
 last_updated: 2026-06-09
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a moment in almost every motivated student's application year when one more hour of SAT prep becomes the worst possible use of that hour. A junior sitting at 1480 decides to grind toward 1540, books another six weeks of timed sections, and in the same six weeks lets the robotics club presidency slip to someone else, skips the regional science fair deadline, and turns in a personal essay drafted in a single tired evening. The 60 points may or may not arrive. The presidency, the fair, and the essay do not come back. That trade is the single most common strategic error strong applicants make, and it is invisible while it is happening, because studying always feels productive. This article is about seeing the trade before you make it.
 
-![SAT and Extracurriculars: The Balance - Insight Crunch](/assets/images/blog/blog-67.webp)
+![SAT and Extracurriculars: The Balance - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 The decision is not SAT versus activities in the abstract. It is a question about your next available hour and where that one hour buys the most admissions value. Early in a prep cycle, when a student sits well below the range their target schools expect, an hour of focused study returns enormous value, because a section score climbing from the 40th percentile to the 70th changes which schools are realistic at all. Late in the cycle, when the same student sits at or above the upper end of a school's published admitted range, that identical hour returns almost nothing, because no admissions officer distinguishes meaningfully between a 1520 and a 1550 for a candidate whose file is otherwise thin. The hour is the same. Its value is not. The whole skill is learning to read which situation you are in.
 

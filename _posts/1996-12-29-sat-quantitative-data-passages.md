@@ -6,7 +6,7 @@ date: 1996-12-29
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Data Interpretation", "Graphs", "Quantitative"]
 excerpt: "SAT quantitative data in passages explained: reading tables and graphs and matching a specific data point to a claim, with worked examples for each format."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 60
 author: "maria-santos"
 last_updated: 1996-12-29
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a particular question on the Reading and Writing section that students lose for a reason that has nothing to do with vocabulary, grammar, or comprehension. A short paragraph sits beside a small table or a bar chart. The prompt asks which figure from the display best supports a claim the writer makes, and four answer choices each quote a real number lifted straight off the visual. Every number is true. Every number is sitting right there on the page. And the test-taker, scanning for something that matches, picks the largest value, or the one that sounds most dramatic, or the row their eye landed on first, and gets it wrong. The trap is not that the data is hard to read. The trap is that all four wrong answers are also reading the data correctly. They are just answering a different question than the one the writer's claim actually requires.
 
-![SAT Reading: Tables and Graphs in Passages - Insight Crunch](/assets/images/blog/blog-26.webp)
+![SAT Reading: Tables and Graphs in Passages - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 This is the heart of SAT quantitative data in passages, and it is one of the most learnable point sources on the entire verbal half of the exam. The skill the College Board is measuring here is not arithmetic and it is not chart literacy in any general sense. It is the discipline of pinning a written assertion to one specific value on a figure, the same support-or-undermine logic that drives command-of-evidence items, applied to numbers instead of sentences. A student who treats these as math problems flounders, because there is almost no calculation. A student who treats them as reading problems and ignores the figure flounders too. The points live in the join between the prose and the display, and the join is governed by rules that this guide makes explicit and drillable.
 

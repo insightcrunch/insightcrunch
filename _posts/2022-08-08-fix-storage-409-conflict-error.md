@@ -6,7 +6,7 @@ date: 2022-08-08
 categories: ["Technology"]
 tags: ["Azure", "Azure Storage", "Blob Storage", "Troubleshooting", "Error Codes", "Cloud Computing"]
 excerpt: "Azure Storage 409 conflict errors split into four types: existence, lease, container-lifecycle, and blob-state. Diagnose which one you hit and fix each."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "nathan-cole"
 last_updated: 2022-08-08
@@ -16,7 +16,7 @@ A 409 from Azure Storage almost never means what the first guess assumes. The st
 
 This guide takes the single status code `409` and decomposes it into the conflict families that actually produce it: an existence conflict such as `BlobAlreadyExists`, a lease conflict such as `LeaseAlreadyPresent`, a container-lifecycle conflict such as `ContainerBeingDeleted`, and a blob-state conflict such as `SnapshotsPresent` or `PendingCopyOperation`. For each family you get the response signal that confirms it is yours, the tested fix with a command, and the design change that stops it coming back. The boundary that wastes the most engineering time, the line between a 409 and its lookalike `412 Precondition Failed`, gets its own treatment, because half the "random 409s" reported in production are 412s misread, and the rest are 409s a developer expected to behave like a 412.
 
-![Fix Azure Storage 409 Conflict Errors](/assets/images/blog/blog-68.webp)
+![Fix Azure Storage 409 Conflict Errors](/assets/images/blog/blog-38.webp)
 
 ## What an Azure Storage 409 conflict actually means
 

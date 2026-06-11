@@ -6,7 +6,7 @@ date: 2022-03-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "setting", "verona", "mantua", "romeo-and-juliet-setting"]
 excerpt: "Romeo and Juliet is set in fair Verona with exile to Mantua, a choice Shakespeare inherited that carried loaded Elizabethan ideas of Italy, passion, and feud."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2022-03-04
@@ -14,7 +14,7 @@ lang: en
 ---
 The second line the audience hears names the place before it names a single character: "In fair Verona, where we lay our scene." The Chorus has not yet introduced a lover, a feud, or a death, but it has already pinned the action to a city in the Veneto, and the adjective "fair" does a quiet, deceptive amount of work. A spectator at the Curtain or the Theatre in the mid-1590s would not have recognized Verona from any visit. Most of the audience would never cross the Channel, let alone the Alps. What they recognized instead was an idea, the literary and moral idea of northern Italy that Elizabethan England carried around in its head, and that idea was anything but fair. It was a place of vendetta, hot blood, poison, secret marriages, scheming friars, and sudden violence in the street. The opening word flatters the city in order to set up the irony that the next two hours will dismantle.
 
-![Verona and Mantua setting of Romeo and Juliet, the Italian source lineage - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Verona and Mantua setting of Romeo and Juliet, the Italian source lineage - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 So the short answer to the question is easy: the tragedy unfolds in Verona, with one crucial relocation to Mantua, the nearby city where Romeo serves out his banishment and from which he returns to die. The longer and more interesting answer is that this setting was not Shakespeare's invention, was not chosen for local colour, and is not the decorative backdrop the postcard version of the story implies. The locale arrived already freighted with meaning, handed down through a chain of Italian and French and English writers stretching back to the early sixteenth century and, for the family names themselves, back to Dante in the early fourteenth. Recovering that lineage, and recovering what an Elizabethan understood by "Italy," changes how the whole drama reads. The place is an argument, not a stage flat.
 

@@ -6,7 +6,7 @@ date: 2019-06-10
 categories: ["Industry"]
 tags: ["isi", "covert-operations", "history", "pakistan", "proxy-wars", "afghanistan"]
 excerpt: "The complete history of ISI covert operations, from the Afghan jihad through the Kashmir proxy wars to the shadow war, and how the agency declined steadily."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 71
 author: "ian-fletcher"
 last_updated: 2019-06-10
@@ -16,7 +16,7 @@ There was a stretch of years when the Inter-Services Intelligence Directorate ra
 
 <!--more-->
 
-![ISI Covert Operations Complete History - Insight Crunch](/assets/images/blog/blog-06.webp)
+![ISI Covert Operations Complete History - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 That peak is the right place to begin any honest account of the agency, because everything the directorate has done since has been measured, consciously or not, against the memory of those years. The institution that allegedly cannot today protect a designated militant living openly in Bahawalpur is the same institution that once decided which Afghan commander received anti-aircraft missiles and which did not. The distance between those two states of being is the real story. It is a story of institutional decline, and the decline matters because it explains why the killings now happening on Pakistani soil are possible at all.
 

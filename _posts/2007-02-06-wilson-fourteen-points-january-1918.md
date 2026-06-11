@@ -6,7 +6,7 @@ date: 2007-02-06
 categories: ["Leisure"]
 tags: ["woodrow-wilson", "close-read", "us-presidents", "fourteen-points", "world-war-one", "versailles-treaty"]
 excerpt: "Woodrow Wilson read his Fourteen Points to Congress on January 8, 1918, as America's war aims. Eight survived Versailles, six did not. Here is each point."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2026-06-02
@@ -14,7 +14,7 @@ lang: en
 ---
 At noon on January 8, 1918, the President of the United States walked into the chamber of the House of Representatives, unfolded a typed manuscript, and read aloud a numbered list that he intended the whole world to overhear. The members of Congress in front of him were not the audience he cared about most. He was speaking past them, across the Atlantic, into the trenches and the war ministries and the newspaper offices of a continent that had been killing itself for forty-one months. He wanted German workers to read his words in the morning papers. He wanted the new Bolshevik government in Petrograd to feel rebuked. He wanted exhausted French and British publics to believe the slaughter had a purpose larger than revenge. Into that hope he poured a program of fourteen specific commitments, and he read them slowly enough that the stenographers could catch every clause.
 
-![Woodrow Wilson reading the Fourteen Points to a Joint Session of Congress January 1918 close read - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Woodrow Wilson reading the Fourteen Points to a Joint Session of Congress January 1918 close read - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The speech lasted a little under half an hour. It produced no immediate treaty, won no battles, and bound no government except, in a moral sense, his own. Yet within ten months a defeated Germany would ask for an armistice and cite that exact address as the agreed basis for peace, and within eighteen months the men gathered at Paris would test each of the fourteen commitments against the hard arithmetic of victory and defeat. By the time the Treaty of Versailles was signed in the Hall of Mirrors on June 28, 1919, the careful accounting could be done. Eight of the fourteen survived in some recognizable form. Six did not. This is a close read of all fourteen, of what each one asked for, of how it was drafted, and of precisely how it lived or died in the room where the war was settled.
 

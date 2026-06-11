@@ -6,7 +6,7 @@ date: 2012-06-26
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ron Weasley", "Weasley Family", "Golden Trio"]
 excerpt: "Ron Weasley in Harry Potter analyzed as the trio's moral pivot: his capacity for return, working-class portrait, chess sacrifice, and the wounds of being sixth."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 77
 author: "sophia-turner"
 last_updated: 2012-06-26
@@ -16,7 +16,7 @@ lang: en
 
 There are two scenes that bracket the youngest Weasley son's entire arc, and any honest reading of him must hold them in the same hand. In the first, an eleven-year-old chess prodigy walks his queen into capture so that his two friends can survive a board he himself has refused to leave. In the second, a seventeen-year-old in a damp Welsh forest takes off a cursed locket, looks at the two people he loves more than anyone alive, and walks away from them into the dark. The first scene is the one the fandom remembers. The second is the one that defines him.
 
-![Ron Weasley sitting at a chessboard, wand at his side, with Hogwarts in the background](/assets/images/blog/blog-36.webp)
+![Ron Weasley sitting at a chessboard, wand at his side, with Hogwarts in the background](/assets/images/blog/blog-82.webp)
 
 The standard reading of Harry's first friend is that he is loyal. The films flatten this further into comic relief and the occasional brave moment. Both readings are wrong, and both miss what is actually radical about Rowling's portrait. The defining trait of the long-limbed Gryffindor is not loyalty. He breaks. He walks out. He says cruel things to the two people who love him most. What makes the boy from Ottery St Catchpole exceptional, and what Rowling spends seven books arguing for, is something far rarer than loyalty: the capacity for return. The ability to come back after failing the people you love is rarer and more valuable than the ability to never fail them. It is also more morally interesting. It assumes the failure as inevitable and treats the response to failure as the actual measure of a person.
 

@@ -6,7 +6,7 @@ date: 2018-04-22
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "মগজাস্ত্র শব্দটি কীভাবে ফেলুদার গোয়েন্দা-দর্শনকে একটি সমাসবদ্ধ শব্দে ধারণ করে তার গভীর বিশ্লেষণ"
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 134
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![মগজাস্ত্র: ফেলুদার মস্তিষ্ক-অস্ত্র - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-28.webp)
+![মগজাস্ত্র: ফেলুদার মস্তিষ্ক-অস্ত্র - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-19.webp)
 
 ## সমাসবদ্ধ শব্দের শক্তি: বাংলা ভাষার নিজস্ব সম্পদ
 

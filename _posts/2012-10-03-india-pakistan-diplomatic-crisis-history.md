@@ -6,7 +6,7 @@ date: 2012-10-03
 categories: ["Industry"]
 tags: ["india-pakistan", "diplomatic-crisis", "history", "partition", "kashmir", "relations"]
 excerpt: "A complete history of India-Pakistan diplomatic breakdowns from Partition to Pahalgam, analyzing why every resolution failed and the next crisis erased it."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2026-05-17
@@ -16,7 +16,7 @@ India and Pakistan have experienced a major bilateral crisis roughly every five 
 
 <!--more-->
 
-![India Pakistan Diplomatic Crises History - Insight Crunch](/assets/images/blog/blog-59.webp)
+![India Pakistan Diplomatic Crises History - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 This article traces every significant bilateral breakdown from the first Kashmir war through the Pahalgam-Sindoor crisis, analyzing not just what happened in each episode but why the resolution that followed invariably collapsed. The analytical question at the center is deceptively simple: is the India-Pakistan conflict intractable, meaning structurally rooted in identity and territory in ways that no agreement can bridge, or is it solvable given sufficient political will and the right confidence-building architecture? The evidence overwhelmingly supports the first interpretation. Every confidence-building measure ever attempted between the two countries has been destroyed by the next terror attack, and every peace agreement has been rendered irrelevant by the next military confrontation. The pattern is the proof.
 

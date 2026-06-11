@@ -7,7 +7,7 @@ last_updated: 2015-06-19
 slug: han-dynasty-china-golden-age
 author: "amanda-ross"
 excerpt: "The Han Dynasty is called China's golden age because it created the institutional template every subsequent Chinese dynasty copied for over 2,000 years."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-103.webp"
 categories: ["Leisure"]
 tags: ["han-dynasty", "ancient-china", "confucianism", "chinese-golden-age", "silk-road", "ancient-history"]
 reading_time: 70
@@ -19,7 +19,7 @@ Four centuries of Han rule produced paper, a seismograph, the Silk Road, a trans
 
 Stating the thesis precisely: the Han Dynasty is called China's golden age not because it was uniquely prosperous or uniquely creative, though it was both, but because it invented the institutional template - Confucian bureaucracy, census-and-taxation, state monopolies on strategic commodities, long-distance trade infrastructure, and systematic historical documentation - that every subsequent Chinese dynasty preserved for nearly two thousand years after the Han itself collapsed in 220 CE. Understanding those five innovations, understanding why they proved so durable, and understanding what the Han's own historians both preserved and distorted about its origins is the task of this article. The Han's "golden age" was above all an institutional achievement, and institutions are what last.
 
-![Han Dynasty China's Golden Age - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Han Dynasty China's Golden Age - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 ## The Qin Shadow: What the Han Inherited and What It Fixed
 

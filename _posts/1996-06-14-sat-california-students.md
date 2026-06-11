@@ -6,7 +6,7 @@ date: 1996-06-14
 categories: ["Industry"]
 tags: ["SAT", "California", "UC System", "CSU", "Test Optional"]
 excerpt: "SAT for California students: the test-free UC landscape, when to still test for private and out-of-state schools, and the hypercompetitive applicant pool."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 1996-06-14
@@ -14,7 +14,7 @@ lang: en
 ---
 A junior in Pasadena told me last spring that she had stopped studying for the SAT because, in her words, the University of California does not look at it anymore, so why bother. She was half right, which is the most dangerous kind of right. The University of California genuinely will not read her score for admission. The problem was the rest of her list. She had Stanford, the University of Southern California, and Harvey Mudd on it, and she had circled the University of Michigan as a financial safety because of its lower out-of-state sticker price relative to some privates. Every one of those institutions, in the cycle she was about to enter, would either require an SAT result or reward a strong one. She had read a single true headline about the UC system and let it make a decision that the rest of her list had no business letting it make.
 
-![SAT for California students UC test-free decision matrix and private school score ranges - Insight Crunch](/assets/images/blog/blog-78.webp)
+![SAT for California students UC test-free decision matrix and private school score ranges - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 That mismatch is the whole subject of this guide. California sends more young people to the SAT than any other state, and California is also the state where the largest public university system in the country, the one most of those test-takers grew up assuming they would attend, no longer reads the result at all. Those two facts sit next to each other and produce a genuinely difficult decision rather than an obvious one. The lazy version of the advice, the version that junior had absorbed, treats the most lenient school on a list as if it governed the whole list. The correct version does the opposite. Your testing decision is set by the most demanding destination you are serious about, not the most forgiving one, and for a large share of ambitious students in this state the most demanding destination is no longer test-free at all.
 

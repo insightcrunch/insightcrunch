@@ -6,7 +6,7 @@ date: 2002-10-31
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "Social Justice", "Welfare Schemes", "Vulnerable Sections", "Women Empowerment", "IAS Preparation"]
 excerpt: "UPSC GS2 social justice deep dive: SC ST OBC welfare, women, children, elderly, disabled with scheme evaluation frameworks."
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 65
 author: "deepika-joshi"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC GS2 social justice and welfare schemes is the subdomain where aspirants mos
 
 The cognitive shift required is from treating welfare schemes as features-to-memorise to treating them as policy interventions to evaluate within constitutional and developmental frameworks. The aspirant who can articulate that "the Pradhan Mantri Awas Yojana with its rural and urban components has constructed approximately 4 crore houses across years, demonstrating substantial scale achievement, but the implementation analysis reveals continuing challenges including site availability constraints, beneficiary identification gaps in difficult-to-reach populations, construction quality concerns in various states, and the broader question of whether housing alone addresses the multidimensional poverty that the scheme implicitly targets" demonstrates analytical command that a generic "PMAY provides housing for the poor" framing entirely lacks. Both statements are accurate; only one signals the substantive engagement with implementation evidence and analytical evaluation that UPSC actually rewards. This evidence-based evaluative engagement is teachable through structured preparation that consciously builds case studies, empirical data, and analytical frameworks alongside foundational reading.
 
-![UPSC GS2 Social Justice Welfare Schemes Vulnerable Sections Deep Dive - Insight Crunch](/assets/images/blog/blog-20.webp)
+![UPSC GS2 Social Justice Welfare Schemes Vulnerable Sections Deep Dive - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 By the end of this guide you will understand the architecture of the social justice and welfare schemes subdomain within GS Paper 2, the constitutional framework for affirmative action and protections for vulnerable sections, the major welfare programmes for Scheduled Castes Scheduled Tribes Other Backward Classes Economically Weaker Sections women children elderly persons with disabilities and minorities, the cross-cutting themes of poverty hunger and food security, the answer-writing techniques specific to evaluate-the-scheme questions, the source hierarchy that produces depth without dilution, the integration with constitutional and broader governance preparation, and the 90-day intensive plan that produces measurable score improvement. The total time investment for dedicated social justice preparation across the cycle is approximately 60 to 80 hours, building on the broader GS Paper 2 governance preparation rather than substituting for it.
 

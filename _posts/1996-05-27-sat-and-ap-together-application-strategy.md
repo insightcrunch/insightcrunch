@@ -6,7 +6,7 @@ date: 1996-05-27
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "AP Exams", "Application Strategy", "Course Selection"]
 excerpt: "SAT and AP together explained: how AP courses build SAT skills, the spring scheduling conflict, and how colleges read the combination, with a coordination plan."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 1996-05-27
@@ -14,7 +14,7 @@ lang: en
 ---
 Most juniors treat the SAT and AP exams as two separate taxes on the same overloaded spring. They block out weekends for one, then panic about the other, then discover in early May that both bills come due in the same two weeks. The mistake is not the panic. The mistake is the belief that the two demands are unrelated, that hours spent on Advanced Placement work are hours stolen from admissions-test preparation, and that the only way to survive is to ration attention between rivals. That belief is wrong, and it is expensive. The reader who understands how an AP English class trains the exact reasoning the Reading and Writing section rewards, and how AP Calculus rehearses the algebra the math portion lives on, stops running two campaigns and starts running one. Effort compounds instead of competing.
 
-![SAT and AP together application strategy spring coordination calendar and skill overlap map - Insight Crunch](/assets/images/blog/blog-91.webp)
+![SAT and AP together application strategy spring coordination calendar and skill overlap map - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 This guide is built around that synergy and around the calendar collision that makes people miss it. You will leave able to map any AP course you are already taking onto the admissions-test skill it strengthens, sequence the spring so the May exam window and the reasoning-test dates stop colliding, choose next year's classes so a single body of study serves two ends, and decide whether to report your subject-exam results alongside an application at all. The centerpiece is a coordination plan that lays the two demands on one timeline and shows where the work overlaps, presented as the InsightCrunch SAT-and-AP plan. The governing idea is what we will call the overlap-first rule: choose and sequence Advanced Placement work so the skills it builds are the skills the reasoning test measures, and preparation stops being two jobs.
 

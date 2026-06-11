@@ -6,7 +6,7 @@ date: 1996-07-16
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Senior Year", "Test Dates", "Deadlines"]
 excerpt: "SAT for seniors: which fall test dates still reach your deadlines, preparing alongside essays, and the test-optional safety valve, with a decision guide."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 59
 author: "maria-santos"
 last_updated: 1996-07-16
@@ -14,7 +14,7 @@ lang: en
 ---
 The single most expensive mistake a twelfth-grader makes with the SAT is not a wrong answer. It is registering for a sitting whose results land after the application is already due. A student spends the summer telling themselves they will test once more in the fall, signs up for a December administration the moment the calendar opens, studies hard, walks out feeling strong, and then discovers in the second week of January that the number they earned will reach exactly none of the early-deadline schools on their list. The effort was real. The strategy was empty. By senior year the binding constraint is no longer how many points you can gain; it is whether the results arrive before the door closes.
 
-![SAT for seniors last-chance test dates and application deadline strategy - Insight Crunch](/assets/images/blog/blog-10.webp)
+![SAT for seniors last-chance test dates and application deadline strategy - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 This guide is built around that calculation and almost nothing else, because that calculation is what a final-year applicant actually needs and almost never gets. Most senior-year advice repeats the same study tips you have already read a dozen times since sophomore year. What changes in the fall of twelfth grade is not the content of the exam; it is the arithmetic of the calendar. You have a small, fixed number of remaining sittings, each with its own results-return window, and a set of application cutoffs that will not move. The work of these months is to line those two timelines up correctly, prepare efficiently in whatever weeks remain without sabotaging your essays, and decide honestly whether one more attempt will help your file or merely occupy time you cannot spare. We will treat dates and turnaround as guidance to verify against the current published schedule, because administration dates and results windows shift year to year, but the reasoning behind the map does not change.
 

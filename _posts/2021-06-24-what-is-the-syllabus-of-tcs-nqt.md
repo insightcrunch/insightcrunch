@@ -6,7 +6,7 @@ date: 2021-06-24
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Syllabus", "Study Topics"]
 excerpt: "TCS NQT syllabus breakdown: every topic covered in aptitude, verbal, reasoning, and coding sections with weightage and recommended preparation order."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 45
 author: "rajan-kumar"
 last_updated: 2026-04-02
@@ -14,7 +14,7 @@ lang: en
 ---
 The TCS NQT syllabus covers more ground than most candidates expect. Understanding the full scope before beginning preparation - what is tested, how much of each topic appears, and in what difficulty range - is the difference between systematic preparation that covers everything important and scattered preparation that leaves gaps in critical areas.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-42.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-98.webp)
 *The complete TCS NQT syllabus guide - every topic in every section covered in detail, the Foundation section structure with Numerical Ability, Verbal Ability, and Logical Reasoning subtopics, the Advanced section with Advanced Quantitative, Advanced Reasoning, and Coding content, topic frequency estimates, specific question types within each topic, what preparation each topic requires, the study priority order that produces maximum score per preparation hour, and what is not on the NQT syllabus (so you do not waste time studying it)*
 
 This guide is the complete syllabus reference. Use it to plan your preparation calendar, identify your topic gaps, and ensure no high-frequency topic is left uncovered before exam day.

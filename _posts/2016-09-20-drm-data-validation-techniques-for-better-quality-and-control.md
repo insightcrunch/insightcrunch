@@ -5,7 +5,7 @@ date: 2016-09-20
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The data in DRM is of extreme importance for any organization. Hence, automatically the need comes to have a robust control over the data and making sure..."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 3
 author: "marcus-hall"
 last_updated: 2026-04-01
@@ -45,7 +45,7 @@ The **DRM repository tables** provide a range of options to find and format th
 
 We have lot of options after identifying the nodes which do not meet the 4 validation criterion above. We can use Windows Batch scripting to extract the required data using SQL and dump it in a txt file and send it via mail using Windows Mail. This activity can be scheduled to run always after a specific interval (say 30 mins) to make it near real-time data monitoring. Note how we are completely bypassing the inbuilt DRM Exports functionalities here. It's totally driven by the repository tables, SQL and Windows scripting.
 
-![Oracle DRM Data Validation Techniques for Better Quality and Control](/assets/images/blog/blog-39.webp)
+![Oracle DRM Data Validation Techniques for Better Quality and Control](/assets/images/blog/blog-21.webp)
 Oracle DRM Data Validation Techniques for Better Quality and Control
 
 ## Method 2

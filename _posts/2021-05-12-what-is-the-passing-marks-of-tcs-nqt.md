@@ -6,7 +6,7 @@ date: 2021-05-12
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Passing Marks", "Qualifying Score"]
 excerpt: "TCS NQT passing marks: minimum qualifying scores for foundation and advanced sections, how cutoffs differ by category, and what score lands interviews."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 45
 author: "siddharth-rao"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The most searched question after "how do I prepare for TCS NQT" is "what score do I need to pass TCS NQT?" The honest answer requires more nuance than most candidates expect: TCS NQT does not have published fixed passing marks. The qualifying threshold is relative - determined by the performance distribution of every candidate in your window.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-27.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-82.webp)
 *The complete guide to TCS NQT passing marks - why no fixed pass mark is published, how the relative scoring system determines qualification thresholds, what section-wise minimum floors mean and how they work, the approximate score ranges that community data suggests are associated with qualification, how Ninja and Digital pass marks differ, what factors cause passing marks to shift between windows, how your score translates to track assignment, and the strategic preparation implications of the pass mark system*
 
 This guide gives you the most accurate picture available of what "passing marks" means in the NQT context - and what that means for your preparation strategy.

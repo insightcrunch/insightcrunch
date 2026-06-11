@@ -6,7 +6,7 @@ date: 2017-07-28
 categories: ["Leisure"]
 tags: ["feluda", "tintorettor-jishu", "satyajit-ray", "tintoretto", "art-forgery"]
 excerpt: "টিনটোরেটোর যিশু গল্পের সম্পূর্ণ বিশ্লেষণ। ইতালিয়ান রেনেসাঁ শিল্প, বাঙালি বুদ্ধিজীবীর ইউরোপীয় শিল্প-ঐতিহ্য, ফেলুদার শিল্প-জ্ঞান, এবং প্রামাণ্যতা-উৎস-জ্ঞানের থিম।"
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 109
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![টিনটোরেটোর যিশু: রেনেসাঁ শিল্প ও বাঙালি গোয়েন্দা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-82.webp)
+![টিনটোরেটোর যিশু: রেনেসাঁ শিল্প ও বাঙালি গোয়েন্দা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-61.webp)
 
 ## প্রকাশনার প্রসঙ্গ
 

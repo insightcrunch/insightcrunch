@@ -6,7 +6,7 @@ date: 1997-08-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Functions", "Transformations", "Advanced Math"]
 excerpt: "SAT functions and transformations explained: notation, composition, domain and range, and the horizontal-shift trap, with graphical and algebraic examples."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 62
 author: "simon-hartley"
 last_updated: 1997-08-02
@@ -14,7 +14,7 @@ lang: en
 ---
 A student stares at a multiple-choice item that shows a parabola and four candidate equations. Three of the four use the expression `(x - 4)`. The student knows the vertex sits to the right of the origin, picks the equation that subtracts inside the parentheses, second-guesses because subtracting "feels like left," switches to the answer with `(x + 4)`, and loses the point. That single reversal, the belief that subtracting inside a rule moves a picture left, is the most expensive misconception in this entire corner of the test, and it shows up on most Digital SAT forms in one disguise or another.
 
-![SAT functions and transformations notation composition and graph shifting worked examples - Insight Crunch](/assets/images/blog/blog-46.webp)
+![SAT functions and transformations notation composition and graph shifting worked examples - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 Functions and transformations reward something narrower than raw talent: fluency with notation and command of one counterintuitive rule. The reader who finishes this guide can read a transformed equation straight off a curve and write the equation straight back from the picture, can evaluate `f(3)` without freezing, can compose two rules in the correct order, and can state the domain and range from a graph in seconds. More than that, you will internalize the InsightCrunch inside-versus-outside rule, the single line that resolves the shift-direction confusion permanently: anything done inside the parentheses acts horizontally and in reverse, while anything done outside acts vertically and exactly as written. Get that one sentence into your hands and a whole family of items that stops unprepared test-takers becomes a thirty-second read.
 

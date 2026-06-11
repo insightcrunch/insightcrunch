@@ -6,7 +6,7 @@ date: 2017-10-11
 categories: ["Leisure"]
 tags: ["feluda", "londone-feluda", "satyajit-ray", "london", "sherlock-holmes"]
 excerpt: "লন্ডনে ফেলুদা গল্পের সম্পূর্ণ বিশ্লেষণ। বেকার স্ট্রিটে ফেলুদার তীর্থযাত্রা, বাঙালি ভদ্রলোকের লন্ডন-সম্পর্ক, স্মৃতিভ্রংশ-রোগীর প্লট, এবং দেরিতে-পর্বের রায়ের সাহিত্যিক আত্ম-প্রতিফলন।"
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 121
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![লন্ডনে ফেলুদা: বেকার স্ট্রিটের তীর্থযাত্রা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-48.webp)
+![লন্ডনে ফেলুদা: বেকার স্ট্রিটের তীর্থযাত্রা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-100.webp)
 
 ## প্রকাশনার প্রসঙ্গ
 

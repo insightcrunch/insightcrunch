@@ -6,7 +6,7 @@ date: 1997-01-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Paired Passages", "Cross-Text", "Analysis"]
 excerpt: "SAT cross-text connections explained: pinning both authors' positions, the how-would-author-2-respond item, and the mischaracterization trap, with examples."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 1997-01-21
@@ -14,7 +14,7 @@ lang: en
 ---
 A student reads the two short passages, finds the choice that perfectly captures what the first writer argued, selects it, and moves on feeling certain. The choice was wrong. It described the first writer with surgical accuracy and then misstated the second one by a single degree, and that single degree is the whole question. This is the signature failure of cross-text connections, the paired-passage item that asks not what either writer thinks but how the two stances relate, and it is the place where careful readers lose points they have no business losing.
 
-![SAT Reading: Cross-Text Connections - Insight Crunch](/assets/images/blog/blog-07.webp)
+![SAT Reading: Cross-Text Connections - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 Cross-text connections sit inside the Reading and Writing section of the Digital SAT, and they are unusual because they are the only items that hand you two separate sources and grade you on the gap between them. Every other reading item lives inside one passage. Here the passage is a pair, labeled Text 1 and Text 2, written by different people who took up the same subject from positions that do not line up. The task is to name the precise nature of the disagreement, the overlap, the extension, or the rebuttal that connects them. The correct answer is never a summary of one writer. It is always a statement about the relationship.
 

@@ -6,7 +6,7 @@ date: 2008-03-14
 categories: ["Leisure"]
 tags: ["richard-nixon", "decision-reconstruction", "us-presidents", "china-opening", "henry-kissinger", "cold-war"]
 excerpt: "Kissinger flew secretly to Beijing in July 1971. Nixon went public in February 1972. State Department learned last. Here is the full reconstruction."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 71
 author: "diana-patel"
 last_updated: 2008-03-14
@@ -14,7 +14,7 @@ lang: en
 ---
 On the afternoon of July 9, 1971, a Pakistan International Airlines Boeing 707 lifted off from Chaklala Air Base outside Rawalpindi and turned northeast toward the high passes of the Karakoram. The plane's most important passenger had been listed nowhere on its manifest. Henry Kissinger, National Security Adviser to the President of the United States, had spent the previous evening in Islamabad pretending to be unwell. Pakistani officials had told the press corps trailing him through Asia that Dr. Kissinger had picked up a stomach complaint, that he required rest, that he would be conveyed to a presidential guest house in the cool hills of Nathia Gali to recover. The guest house was real. The illness was not. While reporters drafted thin paragraphs about Kissinger's diet, the man himself was in the air, headed for Beijing, where Premier Zhou Enlai was waiting to meet him.
 
-![Nixon and Kissinger 1971 1972 China opening secret diplomacy reconstruction - Insight Crunch](/assets/images/blog/blog-61.webp)
+![Nixon and Kissinger 1971 1972 China opening secret diplomacy reconstruction - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 No American official of comparable rank had set foot in the Chinese capital since the Communist Party had taken power on October 1, 1949. The diplomatic ice between Washington and Beijing was twenty-two years thick. The two governments did not exchange ambassadors, did not trade, did not pretend to speak even in the formal courtesies of recognized adversaries. They had fought a war against each other in Korea between November 1950 and July 1953. They had threatened nuclear war over Quemoy and Matsu in 1958. They had clashed by proxy across the Asian rim from the Taiwan Strait to the Mekong Delta. Now, in the space of seventy-two hours of conversation at the Diaoyutai State Guesthouse, an American emissary and a Chinese premier would agree that the President of the United States would travel to China to meet Chairman Mao Zedong. The world would be told six days later. The Secretary of State of the United States would learn slightly before the public announcement and not at all about the substance. The Secretary of Defense would learn nothing.
 

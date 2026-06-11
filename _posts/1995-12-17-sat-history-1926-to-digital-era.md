@@ -6,7 +6,7 @@ date: 1995-12-17
 categories: ["Industry"]
 tags: ["SAT", "History", "Education", "Standardized Testing", "Digital SAT"]
 excerpt: "SAT history from 1926 to the digital era: the creation, postwar expansion, the major revisions and the 2023 digital launch, and the forces behind each change."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 2026-06-09
@@ -14,7 +14,7 @@ lang: en
 ---
 Most students sit down for the exam believing they are facing something fixed, a permanent fact of American life that has always looked roughly the way it looks now. That belief is wrong, and the SAT history that corrects it changes how you should approach the test today. The instrument you take has been torn down and rebuilt at least five separate times since its first administration in 1926, and each rebuild was an argument, a deliberate answer to a national disagreement about who deserves a college seat and how anyone should be measured for one. A student who understands that lineage stops treating the score as a verdict on raw intelligence and starts treating it as what it actually is: a designed, revisable instrument with rules that can be learned.
 
-![SAT history timeline from 1926 origin to the digital era worked walkthroughs - Insight Crunch](/assets/images/blog/blog-69.webp)
+![SAT history timeline from 1926 origin to the digital era worked walkthroughs - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The standard account you will find on a generic encyclopedia page hands you a list of dates and a few sentences about each. It tells you the assessment was created in 1926, revised in 2005, redesigned in 2016, and digitized in the 2020s, and it stops there, as if the changes simply happened. That account misses the only part worth knowing. Every revision was pushed by a force outside the testing room: a war that flooded campuses with veterans, a state university system threatening to walk away, a competitor stealing market share, a pandemic that emptied test centers. This article reconstructs that century of pressure and response, walks through six pivotal moments one at a time, and ends with a framework you can apply to predict where the exam goes next. By the close you will be able to explain not just what the test looked like in any given decade but why it changed, and what that pattern tells a test-taker who wants to treat the assessment as a solvable system rather than a fixed judgment.
 

@@ -6,7 +6,7 @@ date: 2026-05-01
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "spy-thriller", "movie-comparison", "pathaan", "war", "ek-tha-tiger"]
 excerpt: "Dhurandhar refuses the Bollywood spy template. Here is how it stacks up against Pathaan, War, Tiger, Baby, and Raazi, and why it owes far more to le Carre."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: "71 min read"
 author: "nandini-sen"
 last_updated: 2026-05-01
@@ -16,7 +16,7 @@ The question worth asking about Dhurandhar is not whether it is a better spy thr
 
 <!--more-->
 
-![Dhurandhar vs Bollywood Spy Thrillers - Insight Crunch](/assets/images/blog/blog-47.webp)
+![Dhurandhar vs Bollywood Spy Thrillers - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This is the argument this piece will defend, and it is one no other comparison on the internet makes with conviction. Dhurandhar is not the next step in the evolution of the Bollywood espionage thriller. It is a refusal of the genre's founding premise. The movies it is repeatedly placed beside, the YRF universe entries built around Salman Khan and Shah Rukh Khan and Hrithik Roshan, treat espionage as a stage for invincibility. The agent is a brand. The body is a billboard for the actor's physique. The mission is an excuse for set pieces. Dhurandhar inverts every one of these assumptions. Its agent is a ghost who has forgotten which face is his own. Its protagonist's body is not a weapon but a disguise that has fused to the skin. Its mission is not the point; the cost of the mission is the point. The closest relative to Aditya Dhar's franchise is not Pathaan or Tiger Zinda Hai. It is John le Carre, the British novelist who spent a career arguing that intelligence work is a moral sewer that corrodes the people who do it best.
 

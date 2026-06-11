@@ -6,7 +6,7 @@ date: 2026-06-08
 categories: ["Industry"]
 tags: ["Industry", "Immigration", "H-1B Visa", "Legal", "Workforce", "Policy"]
 excerpt: "H-1B $100,000 fee struck down: a federal judge ruled it an unlawful tax Congress never approved, and the decision reshapes hiring for employers nationwide."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "marcus-hall"
 last_updated: 2026-06-08
@@ -16,7 +16,7 @@ On June 8, 2026, a federal judge in Boston erased one of the most expensive immi
 
 The ruling is the loudest moment yet in a fight that has been building since the autumn of 2025, and it lands the country in an unusual position: two federal trial judges, both appointed by the same president, have now looked at the same policy and reached opposite conclusions. To understand why this decision matters so much, and why it is far from the last word, you have to understand the policy it dismantled, the legal theory that brought it down, the conflicting ruling that came six months earlier, and the long shadow that a separate Supreme Court case about tariffs cast over the whole dispute. This is the full picture, assembled from the court record, agency guidance, and the economic data that frames what is genuinely at stake.
 
-![H-1B $100,000 fee struck down - Insight Crunch](/assets/images/blog/blog-12.webp)
+![H-1B $100,000 fee struck down - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 ## What the court actually decided
 

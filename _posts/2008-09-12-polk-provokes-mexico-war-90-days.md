@@ -6,7 +6,7 @@ date: 2008-09-12
 categories: ["Leisure"]
 tags: ["james-polk", "decision-reconstruction", "us-presidents", "mexican-american-war", "manifest-destiny", "war-powers"]
 excerpt: "Polk engineered the Mexican War in ninety days. His own diary proves it. The country doubled in size. The 1846 decision is reconstructed in full detail."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 71
 author: "diana-patel"
 last_updated: 2008-09-12
@@ -14,7 +14,7 @@ lang: en
 ---
 At six o'clock on the evening of Saturday, May 9, 1846, a courier reached the White House with dispatches from General Zachary Taylor's camp on the lower Rio Grande. Inside the sealed packet was Captain Seth Thornton's account of a skirmish ten days earlier, in which sixty-three American dragoons riding patrol north of Matamoros had been surrounded by Mexican cavalry under General Anastasio Torrejón. Eleven Americans were dead, five wounded, the rest captured. James Knox Polk read the dispatches in his White House study, summoned his cabinet by note, and prepared the war message he had been writing for months.
 
-![Polk Mexican War cabinet meeting May 1846 decision reconstruction - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Polk Mexican War cabinet meeting May 1846 decision reconstruction - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 That sentence already contains the central historical claim of this article. Polk did not learn of Thornton's defeat and then decide to recommend hostilities. The reverse occurred: Polk had decided to recommend hostilities, had already polled his cabinet that morning on the question of whether to send a war message based solely on Mexico's refusal to receive his envoy John Slidell, and was given by Thornton's defeat the casus belli he needed to frame the request as a response rather than as a provocation. The diary entry Polk dictated that night, published in 1910 by Milo Milton Quaife and unedited since, is the document that settles the question. The eleventh president wrote himself into the historical record as the engineer of his own war.
 

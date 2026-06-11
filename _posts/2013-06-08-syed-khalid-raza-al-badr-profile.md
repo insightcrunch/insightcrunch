@@ -6,7 +6,7 @@ date: 2013-06-08
 categories: ["Industry"]
 tags: ["syed-khalid-raza", "al-badr", "hizbul-mujahideen", "syed-salahuddin", "karachi", "targeted-killing"]
 excerpt: "Profiling Syed Khalid Raza, the former Al-Badr commander with close ties to Hizbul chief Syed Salahuddin, assassinated by motorcycle gunmen in Karachi."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 70
 author: "robert-quinn"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ On the evening of February 26, 2023, two gunmen on a motorcycle pulled up outsid
 
 <!--more-->
 
-![Syed Khalid Raza Al-Badr Commander Profile - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Syed Khalid Raza Al-Badr Commander Profile - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 Raza's killing would have been significant on its own terms. A former militant commander who had led Al-Badr operations in Kashmir for eight years during the 1990s, he was connected to the [supreme commander](https://insightcrunch.com/2012/01/17/syed-salahuddin-complete-profile/) of Hizbul Mujahideen, Syed Salahuddin, through the organizational ties that bound Al-Badr and Hizbul together as overlapping components of the same militant ecosystem. But the killing's real analytical significance lies in its timing. Six days separated Raza's assassination from Peer's. Two targets from two different organizations, killed in two cities separated by more than 1,200 kilometers, using the same method: motorcycle-borne gunmen, precise targeting at predictable locations, rapid escape, and no credible claim of responsibility. The Sindhudesh Revolutionary Army, a small Sindhi separatist group, claimed the Raza killing on social media, but few analysts found the claim credible given the SRA's complete lack of operational history targeting Islamist militants and its limited urban capability in Karachi. The back-to-back elimination of Peer and Raza represented the most concentrated damage the [shadow war campaign](https://insightcrunch.com/2013/01/01/shadow-war-explained/) had inflicted on any single organizational cluster in its entire documented history.
 

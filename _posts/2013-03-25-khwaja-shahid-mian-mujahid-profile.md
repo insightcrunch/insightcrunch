@@ -6,7 +6,7 @@ date: 2013-03-25
 categories: ["Industry"]
 tags: ["khwaja-shahid", "mian-mujahid", "sunjuwan-attack", "lashkar-e-taiba", "pok", "targeted-killing"]
 excerpt: "Profile of Khwaja Shahid aka Mian Mujahid, the LeT commander and Sunjuwan Army camp attack mastermind kidnapped and found beheaded near the LoC in PoK."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 71
 author: "gregory-marsh"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Most targeted eliminations in Pakistan follow a recognizable signature: motorcyc
 
 <!--more-->
 
-![Khwaja Shahid Sunjuwan Mastermind Profile - Insight Crunch](/assets/images/blog/blog-41.webp)
+![Khwaja Shahid Sunjuwan Mastermind Profile - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 Shahid was not a minor operative whose death could be dismissed as a local feud or a criminal settling of scores. He was identified by Indian security forces as one of the masterminds behind the February 2018 terror attack on the Sunjuwan Military Station in Jammu, a predawn assault that killed seven people, including five soldiers from the Jammu and Kashmir Light Infantry and one civilian, while wounding twenty others. The attack targeted not just combatants but the families who lived inside the military station, and the choice to strike a brigade headquarters housing women and children marked Sunjuwan as one of the most provocative terror operations since the [2016 Uri attack](https://insightcrunch.com/2012/05/22/uri-attack-2016-explained/). That Shahid, one of the men who allegedly planned that assault, was found beheaded near the very border he had helped terrorists cross five years earlier carries a symmetry that no analytical framework can fully resolve: was this justice, vengeance, or something else entirely?
 

@@ -6,7 +6,7 @@ date: 2015-01-05
 categories: ["Leisure"]
 tags: ["1984", "brave-new-world", "fahrenheit-451", "dystopian-fiction", "literary-comparison", "classic-literature"]
 excerpt: "Three canonical dystopias propose three competing theories of civilizational collapse. Reading them together reveals which prediction best tracks reality."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2015-01-05
@@ -16,7 +16,7 @@ George Orwell, Aldous Huxley, and Ray Bradbury did not write three versions of t
 
 <!--more-->
 
-![1984 vs Brave New World vs Fahrenheit 451 - Three Dystopias Compared - Insight Crunch](/assets/images/blog/blog-22.webp)
+![1984 vs Brave New World vs Fahrenheit 451 - Three Dystopias Compared - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The answer this article defends is that the question itself is malformed in its standard framing. The popular version asks which single dystopia "got it right," as though one novel's theory could explain the full range of contemporary political arrangements. The defended position here, drawing on Gregory Claeys's Dystopia: A Natural History and Tom Moylan's Scraps of the Untainted Sky, is a two-tier synthesis: Orwell remains the stronger predictor for authoritarian states, where active coercion operates at institutional scale, while Huxley and Bradbury together are the stronger predictors for market democracies, where pleasure management and attention fragmentation operate through mechanisms that are less visible precisely because they are less violent. The distribution of predictive accuracy across the three novels is not a tie. It is a diagnostic observation about the actual structure of the century the novels were reading, and the distribution itself is the analytical content the comparison produces.
 

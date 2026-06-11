@@ -6,7 +6,7 @@ date: 2024-03-18
 categories: ["Technology"]
 tags: ["Azure", "Network Security", "Security", "Networking", "Cloud Computing"]
 excerpt: "Azure network security best practices for defense in depth: layer segmentation, egress filtering, private endpoints, DDoS protection, and flow log monitoring."
-image: "/assets/images/blog/blog-88.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 63
 author: "kevin-reeves"
 last_updated: 2024-03-18
@@ -14,7 +14,7 @@ lang: en
 ---
 Most network breaches in Azure do not start with a clever exploit. They start with a single control asked to do a job it was never built for. A team attaches a network security group to a subnet, allows the ports the application needs, and calls the workload secured. Then an attacker who lands inside that subnet moves laterally without resistance, exfiltrates data to an arbitrary internet host because nothing inspects outbound traffic, reaches a storage account over its public endpoint because no private path was ever configured, and rides out a volumetric flood that saturates the public IP because no perimeter protection was in place. Each of those failures is a different exposure, and no single rule on a single device closes more than one of them. Azure network security best practices exist precisely because the platform gives you distinct controls for distinct exposures, and a defensible posture comes from layering them rather than over-trusting one.
 
-![Azure network security best practices defense in depth layering - Insight Crunch](/assets/images/blog/blog-88.webp)
+![Azure network security best practices defense in depth layering - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 This article assembles those controls into a posture you can defend in a design review. It treats segmentation, controlled egress, private access, DDoS protection, and monitoring as five separate layers, each implemented by a specific control and each closing an exposure the others leave open. The goal is not a checklist of features. The goal is a reasoning model: when you can name the exposure a control closes, you can tell whether your design has a gap, and you can explain to an auditor or an architect why each piece is present. By the end you will be able to look at a network and say which layer is missing and what an attacker would do with the gap.
 

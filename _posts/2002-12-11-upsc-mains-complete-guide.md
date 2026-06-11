@@ -6,7 +6,7 @@ date: 2002-12-11
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "IAS Mains Strategy", "Mains Preparation", "UPSC Mains Guide", "Answer Writing", "IAS Preparation"]
 excerpt: "The complete UPSC Mains guide: nine-paper architecture, answer writing technique, time allocation and the 90-day intensive plan."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
 author: "deepika-joshi"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ If UPSC Prelims is the gate, UPSC Mains is the building. Most aspirants spend ei
 
 The aspirant population that talks about Mains as if it is "the next stage after Prelims" misunderstands the exam structurally. Mains is not the next stage. Mains is the actual examination. Prelims is a screening filter that removes roughly 98 percent of applicants so that UPSC can grade descriptive answer scripts at a manageable scale. The merit list is built entirely from Mains marks (out of 1750) plus the personality test (out of 275). Prelims marks contribute zero to your final rank. Internalising this single fact reframes every preparation decision you make from the day you start your journey.
 
-![UPSC Mains Complete Guide and IAS Mains Strategy - Insight Crunch](/assets/images/blog/blog-89.webp)
+![UPSC Mains Complete Guide and IAS Mains Strategy - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 This UPSC Mains guide is built for the aspirant who is either preparing for Mains for the first time, returning to Mains after a previous attempt that did not convert, or strategising the parallel preparation of Prelims and Mains in a single integrated cycle (which is the recommended approach for any serious candidate). By the end of this article, you will understand the nine-paper architecture, the actual weight distribution that determines ranks, the answer-writing transformation that separates Mains-strong aspirants from Mains-weak ones, the daily routine that builds Mains capacity over months, the ninety-day intensive plan for the post-Prelims window, the inter-paper synergies that compound your preparation efficiency, and the benchmark scores that correspond to specific rank bands. The aim is not motivation. The aim is operational clarity.
 

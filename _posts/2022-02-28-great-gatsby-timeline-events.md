@@ -6,7 +6,7 @@ date: 2022-02-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Timeline", "Plot", "F. Scott Fitzgerald", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby timeline reconstructed in true order: the buried clock of 1917 and the summer clock of 1922, and why Fitzgerald scrambles the events."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2022-02-28
@@ -14,7 +14,7 @@ lang: en
 ---
 Reconstructing the The Great Gatsby timeline is the moment a careful reader stops summarizing the book and starts arguing about it. Most pages online will hand you a list of what happens, march you from the dinner at the Buchanans' through the parties to the swimming pool, and call that the sequence. They have given you the order in which Fitzgerald tells the story. They have not given you the order in which the story actually occurs, and the difference between those two arrangements is one of the most important interpretive facts about the book. The events on the page do not run in a straight line. The novel feeds in years of history out of sequence, doubles back, withholds origins, and saves the deepest layer of the past for its final pages. Sorting that scrambled telling into true chronological order is not bookkeeping. It is reading.
 
-![A reconstructed chronology of The Great Gatsby, separating the 1922 summer from the 1917 backstory](/assets/images/blog/blog-11.webp)
+![A reconstructed chronology of The Great Gatsby, separating the 1922 summer from the 1917 backstory](/assets/images/blog/blog-04.webp)
 
 This guide rebuilds the chronology from the ground up, separates the buried history from the present action, and shows you exactly where the book discloses each piece. Along the way it makes a claim about why the order matters, and it hands you a two-track table you can keep open beside the novel. If you want to check any date against the words on the page as you go, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html) and mark each beat the moment Fitzgerald hands it over.
 

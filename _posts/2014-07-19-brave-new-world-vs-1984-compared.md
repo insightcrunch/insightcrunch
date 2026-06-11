@@ -6,7 +6,7 @@ date: 2014-07-19
 categories: ["Leisure"]
 tags: ["brave-new-world", "1984", "aldous-huxley", "george-orwell", "dystopian-fiction", "literary-comparison"]
 excerpt: "The Postman complementary-dystopias frame oversimplifies both texts. Huxley and Orwell targeted different institutional systems and feared different futures."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 70
 author: "megan-clark"
 last_updated: 2014-07-19
@@ -16,7 +16,7 @@ Aldous Huxley published Brave New World in 1932, seventeen years before George O
 
 <!--more-->
 
-![Brave New World vs 1984 Compared - Insight Crunch](/assets/images/blog/blog-90.webp)
+![Brave New World vs 1984 Compared - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 ## The Postman Frame and Its Influence
 

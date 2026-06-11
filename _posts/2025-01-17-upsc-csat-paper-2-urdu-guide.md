@@ -5,7 +5,7 @@ date: 2025-01-17
 categories: ["Industry"]
 tags: ["upsc-csat", "csat-paper-2", "upsc-urdu-guide", "csat-strategy", "upsc-prelims"]
 excerpt: "UPSC CSAT پیپر 2 میں 33% کیسے پار کریں؟ فہم، استدلال، ریاضی - مکمل حکمت عملی اور مشق گائیڈ۔"
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 45
 author: "deepika-joshi"
 last_updated: 2026-03-31
@@ -13,7 +13,7 @@ lang: ur
 ---
 UPSC سول سروسز امتحان میں ہر سال سینکڑوں امیدوار جنرل اسٹڈیز پیپر 1 میں شاندار کارکردگی دکھاتے ہیں، لیکن CSAT پیپر 2 میں کم از کم نمبر حاصل نہ کر پانے کی وجہ سے ان کا خواب وہیں ٹوٹ جاتا ہے۔ CSAT کو "آسان" یا "بس کوالیفائی کرنا ہے" کہہ کر نظرانداز کرنا ایک ایسی غلطی ہے جو آپ کا پورا UPSC سفر ختم کر سکتی ہے۔
 
-![UPSC Complete Guide - Insight Crunch](/assets/images/blog/blog-89.webp)
+![UPSC Complete Guide - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 یہ گائیڈ خاص طور پر UPSC کی تیاری کرنے والوں کے لیے، ریاضی یا انگریزی پس منظر کمزور ہونے والوں کے لیے، اور پہلے کسی کوشش میں CSAT میں ناکام ہو چکے لوگوں کے لیے لکھی گئی ہے۔ اس گائیڈ میں CSAT کے ہر حصے کی تفصیلی حکمت عملی، اردو ذریعے کے امیدواروں کی خاص چیلنجز اور ان کے حل، اور عملی مشق کے طریقے شامل ہیں۔
 

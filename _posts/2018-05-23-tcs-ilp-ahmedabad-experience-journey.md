@@ -5,7 +5,7 @@ date: 2018-05-23
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "TCS ILP Ahmedabad journey: extensive experience covering the full training period from first day nerves to final PRA, with hostel life and city..."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 35
 author: "pooja-gupta"
 last_updated: 2026-04-01
@@ -21,7 +21,7 @@ If you are still preparing for the TCS recruitment process, the [TCS NQT Prepara
 
 Read more: [TCS ILP Guwahati Experience »](https://insightcrunch.com/2018/09/07/tcs-ilp-guwahati-experience/)
 
-![TCS ILP Ahmedabad Experience Journey](/assets/images/blog/blog-46.webp)
+![TCS ILP Ahmedabad Experience Journey](/assets/images/blog/blog-84.webp)
 TCS ILP Ahmedabad Experience Journey
 
 ---

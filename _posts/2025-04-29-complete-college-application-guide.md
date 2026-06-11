@@ -6,7 +6,7 @@ date: 2025-04-29
 categories: ["Industry"]
 tags: ["college application tips", "Common App essay", "college admissions", "test-optional", "recommendation letter", "how to get into college", "college essay examples", "extracurricular activities", "college admission timeline", "early decision vs regular decision"]
 excerpt: "The most complete college application guide: Common App strategy, essay writing with examples, recommendation letter requests, extracurricular..."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 55
 author: "jason-mckenzie"
 last_updated: 2026-03-31
@@ -46,7 +46,7 @@ The academic record - GPA, course rigor, and test scores if submitted - is the f
 
 **Standardised tests:** The role of SAT and ACT scores varies by institution - more on test-optional strategy later - but where submitted, scores are evaluated in context of what is typical for admitted students at that school and in context of the student's school and socioeconomic background.
 
-![Complete College Application Guide: Common App Strategy, Essay Examples, Recommendation Letters, Extracurriculars, Test-Optional Schools & Admission Timeline for Every Deadline](/assets/images/blog/blog-29.webp)
+![Complete College Application Guide: Common App Strategy, Essay Examples, Recommendation Letters, Extracurriculars, Test-Optional Schools & Admission Timeline for Every Deadline](/assets/images/blog/blog-63.webp)
 Complete College Application Guide: Common App Strategy, Essay Examples, Recommendation Letters, Extracurriculars, Test-Optional Schools and Admission Timeline for Every Deadline
 
 ### What Holistic Review Actually Evaluates

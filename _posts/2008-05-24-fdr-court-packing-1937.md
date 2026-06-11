@@ -6,7 +6,7 @@ date: 2008-05-24
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "decision-reconstruction", "us-presidents", "new-deal", "supreme-court", "court-packing"]
 excerpt: "FDR's 1937 court-packing bill died in the Senate 70 to 20, but Roosevelt won the constitutional revolution anyway. The mere threat alone did all the work."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2008-05-24
@@ -14,7 +14,7 @@ lang: en
 ---
 On Friday, February 5, 1937, at noon, Franklin Roosevelt summoned his cabinet and the Democratic leadership of both houses of Congress to the White House for what they assumed was a routine briefing. Vice President John Nance Garner, Speaker William Bankhead, Senate Majority Leader Joseph Robinson, House Majority Leader Sam Rayburn, Senate Judiciary Chairman Henry Ashurst, and House Judiciary Chairman Hatton Sumners filed in. Attorney General Homer Cummings was already seated. The press waited in an adjoining room. Roosevelt handed each man a copy of a message he was about to deliver to Congress within the hour and a copy of a bill draft. He gave them ten minutes to read. Then he announced he was sending both to the Capitol immediately. There would be no consultation, no markup, no negotiation. The bill, which the administration insisted on calling the Judicial Procedures Reform Bill, would add up to six new justices to the Supreme Court, one for every sitting member of the bench who had passed seventy years of age and refused to retire.
 
-![FDR court-packing 1937 fight Roosevelt Supreme Court bill - Insight Crunch](/assets/images/blog/blog-10.webp)
+![FDR court-packing 1937 fight Roosevelt Supreme Court bill - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 Six of the nine sitting justices were over seventy. The bill could expand the high tribunal from nine to fifteen at a stroke. Sumners, walking back to the House, told Rayburn in the cloakroom: "Boys, here's where I cash in my chips." Garner, who would oppose the plan privately throughout the spring, was reported to have walked back to the Senate holding his nose with one hand and giving the thumbs down with the other. The reaction was not what Roosevelt expected. He thought he had a mandate. He had won 523 electoral votes to Alf Landon's eight in November 1936, the largest electoral margin since James Monroe ran unopposed in 1820. Within six months, his own party would kill his bill on the Senate floor by a vote of seventy to twenty. He would never recover the legislative momentum of his first term. And yet, by the time the proposal died in July, the constitutional revolution it was meant to compel had already arrived through other means. The threat had done the work. That paradox is the story of the 1937 fight, and it is the cleanest single test in American political history of the difference between losing a bill and winning a war.
 

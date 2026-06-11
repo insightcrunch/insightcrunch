@@ -5,7 +5,7 @@ date: 2022-09-24
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "The news is that Taylor Swift is gearing up to headline the upcoming Super Bowl halftime show. This came after a major NFL announcement. The corporation..."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 2
 author: "amanda-ross"
 last_updated: 2026-04-02
@@ -20,7 +20,7 @@ Taylor Swift has an upcoming album called Midnights next month. This means there
 
 Read more: [Killers of the Flower Moon Movie Review »](https://insightcrunch.com/2022/09/22/killers-of-the-flower-moon/)
 
-![](/assets/images/blog/blog-19.webp)
+![](/assets/images/blog/blog-49.webp)
 Taylor Swift in Super Bowl
 
 The headlines have got Taylor Swift fans excited as they anticipate another excellent performance from their favorite star.

@@ -6,7 +6,7 @@ date: 2017-07-13
 categories: ["Leisure"]
 tags: ["feluda", "joto-kando-kathmandute", "satyajit-ray", "kathmandu", "maganlal-meghraj"]
 excerpt: "যত কাণ্ড কাঠমান্ডুতে গল্পের সম্পূর্ণ বিশ্লেষণ। মগনলাল মেঘরাজের পুনরাগমন, কাঠমান্ডু পটভূমি, মাদক-পাচার, প্রার্থনা চাকা দৃশ্য, এবং ক্যাননের একটি স্থায়ী মুহূর্ত।"
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 115
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![যত কাণ্ড কাঠমান্ডুতে: মগনলালের পুনরাগমন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-96.webp)
+![যত কাণ্ড কাঠমান্ডুতে: মগনলালের পুনরাগমন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-27.webp)
 
 ## প্রকাশনার প্রসঙ্গ
 

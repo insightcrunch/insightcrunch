@@ -6,7 +6,7 @@ date: 1995-12-31
 categories: ["Industry"]
 tags: ["SAT", "Study Resources", "Tutoring", "ROI", "Decision"]
 excerpt: "SAT tutoring ROI explained: when a tutor is worth it, when it is not, how to choose one, the red flags and the cost per point, with cheaper alternatives."
-image: "/assets/images/blog/blog-32.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 59
 author: "hannah-moore"
 last_updated: 1995-12-31
@@ -14,7 +14,7 @@ lang: en
 ---
 A family books a private tutor the moment a first practice score comes back below target, often before anyone has looked at why the points were lost. That single reflex is the most common way money leaves a college-prep budget without buying any points back. A tutor is not a score increase. A tutor is a delivery system for instruction, and a delivery system only pays when the thing it delivers is the thing you were missing. Hire one to fix a problem you have correctly diagnosed and the spend can return more points per dollar than almost any other prep choice. Hire one because the score scared you, and you can spend four figures to be taught material that a free practice review would have surfaced for nothing.
 
-![SAT tutoring ROI decision guide, red flags, and cost per point analysis - Insight Crunch](/assets/images/blog/blog-32.webp)
+![SAT tutoring ROI decision guide, red flags, and cost per point analysis - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 This guide treats the decision the way you would treat any other purchase that costs as much as a used laptop: with a diagnosis first, a price-per-result estimate second, and a clear list of conditions under which the answer is no. The question that organizes everything below is not "is a tutor good," because a good tutor is plainly good. The question is whether a tutor is the right next dollar for your specific situation, given what is free, what you have already tried, and what your score report is actually telling you. By the end you will have a decision aid that names the conditions under which one-on-one coaching earns its cost, a red-flags checklist that screens out the services most likely to waste your money, and a cost-per-point estimate you can run on any quote you receive. We call the whole apparatus the InsightCrunch tutoring ROI guide, and its governing principle is short enough to tape to a desk: diagnose before you hire.
 

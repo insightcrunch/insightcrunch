@@ -6,7 +6,7 @@ date: 2015-12-11
 categories: ["Leisure"]
 tags: ["armenian-genocide", "ottoman-empire", "genocide-history", "1915", "twentieth-century-atrocities", "modern-history"]
 excerpt: "The Armenian Genocide killed about 1.5 million people. It was the 20th century's first genocide under Lemkin's definition, and Turkish denial persists."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2015-12-11
@@ -16,7 +16,7 @@ In the spring of 1915, on the night of April 24, Ottoman gendarmes moved through
 
 <!--more-->
 
-![The Armenian Genocide Explained - Insight Crunch](/assets/images/blog/blog-68.webp)
+![The Armenian Genocide Explained - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The killing that followed claimed approximately 1.5 million Armenian men, women, and children. It was carried out through massacre, forced deportation into desert terrain, sexual violence on a mass scale, and the deliberate obliteration of churches, schools, cemeteries, and inscriptions that documented Armenian presence in eastern Anatolia. The Polish-Jewish lawyer Raphael Lemkin coined the term "genocide" three decades later partly to name what had happened to the Armenians, and the United Nations Genocide Convention incorporated his definition in 1948. By any legal, historical, or moral measure that scholarship has produced, the events meet the criteria.
 

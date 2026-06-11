@@ -6,7 +6,7 @@ date: 2026-04-18
 categories: ["Leisure"]
 tags: ["dhurandhar", "box-office", "bollywood", "collection-analysis", "ranveer-singh", "blockbuster"]
 excerpt: "Complete box office analysis of Dhurandhar Part 1 - day-wise trends, records, and the journey to 1,350 crore."
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "amit-chatterjee"
 last_updated: 2026-03-30
@@ -22,7 +22,7 @@ The resolution of this uncertainty, delivered over the seven weeks of the film's
 
 <!--more-->
 
-![Dhurandhar Part 1 Box Office Collection Analysis - Insight Crunch](/assets/images/blog/blog-79.webp)
+![Dhurandhar Part 1 Box Office Collection Analysis - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The final worldwide gross of approximately 1,350 crore represents not merely a commercial triumph for the specific film and its stakeholders but a paradigm shift in the economics of Hindi cinema. A film with an A certificate, a runtime exceeding three and a half hours, a protagonist who spends the majority of the narrative speaking Urdu with a Karachi accent, and a moral framework that refuses to provide the uncomplicated patriotic catharsis that the spy genre typically delivers should not, by the conventional wisdom of Bollywood box office analysis, have achieved numbers of this magnitude. That it did so, and did so with a consistency and durability that suggested genuine audience enthusiasm rather than mere opening-weekend curiosity, is an achievement whose implications extend far beyond the balance sheet of its producers. It is a demonstration that the Indian audience, when given material that respects their capacity for engagement, will reward that respect with the most meaningful currency available: sustained, enthusiastic, repeat attendance.
 

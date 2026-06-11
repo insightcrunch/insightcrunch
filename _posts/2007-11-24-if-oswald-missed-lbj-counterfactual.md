@@ -6,7 +6,7 @@ date: 2007-11-24
 categories: ["Leisure"]
 tags: ["lyndon-johnson", "counterfactual", "us-presidents", "jfk-assassination", "vietnam-war", "great-society"]
 excerpt: "Oswald missed. JFK lives. LBJ never becomes president. The Great Society? Vietnam? Three historians argue the counterfactual with rigor and primary sources."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 64
 author: "rachel-foster"
 last_updated: 2026-05-29
@@ -16,7 +16,7 @@ lang: en
 
 The standard Kennedy counterfactual asks what Jack Kennedy would have done about Vietnam if he had survived Dallas. The companion question, the one that gets less attention, is what would have happened to Lyndon Baines Johnson. Strip away the assassination, and you are left with a sidelined vice president whose Senate Rules Committee testimony was scheduled, whose chief Senate protégé Bobby Baker had resigned in scandal six weeks earlier, whose private secretary had pled the Fifth before federal investigators, and whose financial dealings were about to become the cover story of the next issue of Life magazine. Johnson's biographer Robert Caro called the period October through November 1963 "the worst weeks of his life." Dallek called it the moment when "all his nightmares were coming true at once." Then the motorcade turned onto Elm Street.
 
-![Lyndon Johnson Vice President Bobby Baker scandal November 1963 counterfactual - Insight Crunch](/assets/images/blog/blog-81.webp)
+![Lyndon Johnson Vice President Bobby Baker scandal November 1963 counterfactual - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 Pull that trigger differently and the entire trajectory inverts. Kennedy returns to Washington. The Rules Committee resumes hearings on Tuesday. Don Reynolds, the insurance agent who had spent four hours testifying behind closed doors on the morning of the assassination, completes his sworn account. Life publishes the buried Baker story. Bobby Kennedy, who had wanted Johnson off the 1964 ticket for two years, gets the political cover he needed to push his brother to act. Johnson, in this world, does not deliver a joint address to Congress on November 27. He does not sign the Civil Rights Act in July 1964. He does not authorize Rolling Thunder. He does not declare war on poverty. He completes a humiliated vice-presidential term, returns to Texas under a federal cloud, and the post-1964 American century unfolds without him as its principal author. The question this article runs is what that world looks like, how historians who have studied Johnson at depth predict its specific contours, and what the comparison teaches about how much of the imperial presidency's mid-century form was structural inevitability versus how much was one man's particular combination of Senate mastery, post-FDR ideology, and Kennedy-comparison insecurity.
 

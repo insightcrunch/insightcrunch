@@ -7,7 +7,7 @@ last_updated: 2025-05-15
 author: "insight-crunch-team"
 excerpt: "The French Revolution's decisive phase permanently ended European monarchical legitimacy as the default, and its consequences far outran all intentions."
 tags: ["french-revolution", "european-history", "bastille", "napoleon", "world-history"]
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 56
 lang: en
 ---
@@ -15,7 +15,7 @@ The French Revolution permanently ended the assumption that kings ruled by divin
 
 <!--more-->
 
-![The French Revolution Explained - Insight Crunch](/assets/images/blog/blog-85.webp)
+![The French Revolution Explained - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 What makes the Revolution intellectually demanding is not the scale of its violence, though that scale was enormous. What makes it demanding is that the violence and the liberation came from the same source, that the Declaration of the Rights of Man and the Reign of Terror were produced by the same political process, and that the Revolution's failures shaped Europe as decisively as its triumphs. The namable claim this analysis advances is direct: the French Revolution's consequences outran its intentions, and the Revolution's failures shaped Europe as much as its successes. The Terror was not an aberration of the revolutionary project. It was an outcome that the revolutionary project's own internal logic made possible, and both the Terror and the Declaration became permanent features of European political life. Understanding why requires tracing the Revolution phase by phase, decision by decision, and consequence by consequence, from the fiscal collapse that produced the Estates-General through the Napoleonic settlement that closed the revolutionary decade and opened the century that followed.
 

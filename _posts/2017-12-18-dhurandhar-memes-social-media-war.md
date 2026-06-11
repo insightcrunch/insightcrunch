@@ -6,7 +6,7 @@ date: 2017-12-18
 categories: ["Industry"]
 tags: ["dhurandhar", "memes", "social-media", "india-pakistan", "online-warfare"]
 excerpt: "How Dhurandhar's imagery became a potent weapon in the India-Pakistan social media war, with both sides weaponizing memes from the film as propaganda."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-12-18
@@ -16,7 +16,7 @@ Dhurandhar did not stay inside the cinema hall. Ranveer Singh's blockbuster esca
 
 <!--more-->
 
-![Dhurandhar Memes and Social Media War - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Dhurandhar Memes and Social Media War - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## The Film's Version
 

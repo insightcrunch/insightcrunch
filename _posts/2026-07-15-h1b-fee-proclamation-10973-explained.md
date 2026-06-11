@@ -6,7 +6,7 @@ date: 2026-07-15
 categories: ["Industry"]
 tags: ["H-1B Visa", "Proclamation 10973", "H-1B Fee", "Immigration Policy", "Executive Power", "Policy", "Immigration"]
 excerpt: "Proclamation 10973 built the H-1B $100,000 fee from three moving parts: a charge, a wage directive, and a sunset, and only one of them was ever struck down."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "david-thornton"
 last_updated: 2026-07-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Most accounts of the H-1B $100,000 fee describe a single thing: a six-figure charge that an employer suddenly had to pay to sponsor a new worker. That description is accurate as far as it goes, and it captures the part of Proclamation 10973 that drew the lawsuits, the headlines, and the December and June rulings. It also misses most of the document. The order that created the charge was not a one-line decree. It was a structured instrument with a title that spoke of entry rather than money, a pair of statutory hooks borrowed from the law of presidential exclusion power, an operative clause that conditioned eligibility on a payment routed through a federal collections portal, a separate directive aimed at the Labor Department about wage levels, a built-in expiration date, and an instruction to study whether the whole thing should continue. Reading the order as only the levy is the single most common mistake made about it, and it leads directly to a second mistake: assuming that when a court struck the charge, the order vanished. Neither is true. This analysis takes the proclamation apart clause by clause so that a reader can see exactly what it is, what authority it claimed, how its parts fit together, and which of those parts a court ever actually reached.
 
-![Anatomy of Proclamation 10973 and the H-1B $100,000 fee, a clause-by-clause analysis - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Anatomy of Proclamation 10973 and the H-1B $100,000 fee, a clause-by-clause analysis - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The value of reading the document this way is not antiquarian. An employer deciding whether to file, an attorney advising on exposure, a student weighing a status change, and a policy analyst modeling the program all need to know which provision controls their situation, and they need to know it at the level of the text rather than the level of the news summary. The summary collapses a bundle into a number. The text shows a machine with several independent moving parts, each resting on its own legal premise, each with its own fate in the litigation that followed. Knowing which part does what is the difference between understanding the policy and reciting a figure.
 

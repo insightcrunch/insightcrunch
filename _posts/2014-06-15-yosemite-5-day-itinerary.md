@@ -6,7 +6,7 @@ date: 2014-06-15
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "National Parks", "Itineraries", "Hiking", "Outdoors"]
 excerpt: "A sequenced 5-day Yosemite itinerary that solves the Valley and high-country split, so first-timers cross each long road once and never waste a half day."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 68
 author: "rahul-banerjee"
 last_updated: 2014-06-15
@@ -16,7 +16,7 @@ Five days in Yosemite is enough time to do the park properly, and it is also exa
 
 Most plans you will find treat Yosemite as a Valley base camp with a list of day trips hanging off it. That works for the Valley itself, but it quietly costs you a day or more in repeated driving, because Mariposa Grove sits near the far South Entrance and Tuolumne Meadows sits an hour and a half up a separate mountain road in the opposite direction. Tack both on as out-and-back errands and you will spend a quarter of your trip looking at the same asphalt. Sequence them into the arrival and the departure instead, and the wasted driving disappears.
 
-![A First-Timer's 5-Day Yosemite Itinerary showing the no-backtrack route through the Valley, sequoias, Glacier Point, and Tuolumne Meadows - Insight Crunch](/assets/images/blog/blog-72.webp)
+![A First-Timer's 5-Day Yosemite Itinerary showing the no-backtrack route through the Valley, sequoias, Glacier Point, and Tuolumne Meadows - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 ## What this 5-day Yosemite itinerary delivers
 

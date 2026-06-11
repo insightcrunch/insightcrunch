@@ -6,7 +6,7 @@ date: 2022-04-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-reception", "tragedy", "ac-bradley", "first-tragedy"]
 excerpt: "Romeo and Juliet is often called Shakespeare's first tragedy, yet Titus came earlier and Bradley left it out of his four, so the title needs careful defending."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 68
 author: "chloe-martin"
 last_updated: 2022-04-29
@@ -14,7 +14,7 @@ lang: en
 ---
 To call a thing the first of its kind is to make a claim that sounds like a fact and behaves like an argument. The label "Shakespeare's first tragedy," fixed to Romeo and Juliet on countless syllabi, blurbs, and programme notes, is exactly that sort of claim: it feels settled, and it is not. Two awkward facts sit under it. Titus Andronicus, a Roman revenge play soaked in mutilation and a baked-pie cannibal feast, almost certainly reached the stage two or three years before the Verona love story. And A.C. Bradley, whose 1904 lectures fixed the shape of tragic criticism for a century, refused Romeo and Juliet a seat at the table of the four he treated as the real thing: Hamlet, Othello, King Lear, Macbeth. To say the Verona play comes first, then, is to walk straight past one earlier tragedy and one influential verdict that the work is a tragedy of a thinner sort.
 
-![Romeo and Juliet first tragedy debate, Titus Andronicus and the Bradley exclusion - Insight Crunch](/assets/images/blog/blog-22.webp)
+![Romeo and Juliet first tragedy debate, Titus Andronicus and the Bradley exclusion - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 This piece tests the label rather than repeating it. The interesting discovery is that "first tragedy" is not one claim but several, and they point in different directions. First by date of composition is one question, and Titus answers it. First mature tragedy is another, and the answer turns on what maturity means in a dramatist still in his early thirties. First love tragedy is a third, and here the Verona play has a strong and specific claim that Titus cannot touch. The casual phrase collapses these into a single honorific and loses the very thing that makes the question worth asking. What follows pulls them apart, weighs each, sets the Bradley exclusion against the formal reading that Harry Levin and Susan Snyder later built, and reaches a verdict on both the title and the man who withheld it.
 

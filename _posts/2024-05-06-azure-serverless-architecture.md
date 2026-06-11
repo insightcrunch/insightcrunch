@@ -6,7 +6,7 @@ date: 2024-05-06
 categories: ["Technology"]
 tags: ["Azure", "Azure Functions", "Serverless", "Durable Functions", "Architecture", "Cloud Computing"]
 excerpt: "Serverless architecture on Azure pairs event-driven Functions with Durable orchestration. Learn where the model fits, what it costs, and where it breaks."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 61
 author: "abigail-cooper"
 last_updated: 2024-05-06
@@ -14,7 +14,7 @@ lang: en
 ---
 A serverless architecture on Azure is easy to start and easy to misjudge. Anyone can write an Azure Function in an afternoon, wire it to an HTTP route, and watch it return a response. The gap that costs teams money and sleep is the distance between writing one function and designing a system out of many. A single handler is a snippet. An architecture is a set of decisions about what triggers work, how state survives between invocations, how a multi-step process stays correct when any step can fail, what happens when traffic spikes, and what the bill looks like at the end of the month. Those decisions are where the model rewards you or quietly turns against you.
 
-![Serverless Architecture with Azure Functions - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Serverless Architecture with Azure Functions - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The reason serverless feels deceptive is that the platform hides the parts engineers are trained to reason about. There is no server to size, no process to keep alive, no thread pool to tune. The compute appears when an event arrives and disappears when the work is done. That disappearance is the whole point, and it is also the source of nearly every surprise: the function that holds a database connection across requests and then loses it, the workflow that double-charges a customer because a retry ran a non-idempotent step twice, the API that times out under load because the platform had scaled to zero and needed a moment to come back. None of these are bugs in your code. They are consequences of a model whose contract you have not yet internalized.
 

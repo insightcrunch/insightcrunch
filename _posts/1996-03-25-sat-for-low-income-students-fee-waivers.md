@@ -6,7 +6,7 @@ date: 1996-03-25
 categories: ["Industry"]
 tags: ["SAT", "Fee Waivers", "Low Income", "Free Resources", "College Access"]
 excerpt: "SAT for low-income students: fee waivers, free prep platforms, and college-access programs, with the message that the best preparation costs nothing at all."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1996-03-25
@@ -14,7 +14,7 @@ lang: en
 ---
 A junior at a public high school once told a counselor she had decided not to register for the SAT. The reason was not grades, not ambition, and not the work involved. The reason was money. She had heard that the families who score well pay for tutoring at a hundred dollars an hour, that the good prep books cost more than her family spent on groceries in a week, and that the registration fee alone was real money in a household that counted every dollar. She had quietly concluded that the exam, and the colleges behind it, were built for other people. She was wrong on every count, and the cost of being wrong was a path she had talked herself out of before it began.
 
-![SAT for low-income students fee waivers and free prep resources - Insight Crunch](/assets/images/blog/blog-59.webp)
+![SAT for low-income students fee waivers and free prep resources - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 This guide exists to dismantle that conclusion piece by piece, because it is both common and false. The single most important fact for a student from a low-income household is this: the registration fee can be waived entirely, the best preparation platform in the world is free and always has been, and the gap between rich and poor scores is overwhelmingly a gap in access to practice rather than a gap in ability. Once a student internalizes that, the question stops being whether prep is affordable and becomes how to use the free resources with the discipline that turns hours into points. That reframing is the whole article. What follows is the fee-waiver mechanics down to the eligibility line, a no-cost study plan built on the official practice platform and the free question tools at ReportMedic, the college-access organizations that connect strong students to full scholarships, and an honest account of why the price tag on tutoring buys far less than the marketing suggests.
 

@@ -5,7 +5,7 @@ date: 1996-03-21
 categories: ["Industry"]
 tags: ["SAT", "International", "Non-US Universities", "UK", "Singapore"]
 excerpt: "SAT for non-US universities: where the SAT is accepted across the UK, Canada, Singapore, Hong Kong and Europe, and how each system weights it as a threshold."
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "patrick-dunn"
 last_updated: 1996-03-21
@@ -15,7 +15,7 @@ A student in Singapore writes me every spring with a version of the same worry: 
 
 That single distinction, threshold versus holistic, is the most useful thing a student applying across borders can learn, and almost no general guide states it plainly. This article gives you the country-by-country map of where the assessment is accepted, how each system actually weights it, and the decision logic that turns a score report into a sensible application list. I call the central tool here the InsightCrunch threshold-versus-holistic read, because once you can label what a given institution is doing with your number, you stop wasting effort on the wrong target and start aiming at the schools where your profile actually competes.
 
-![SAT acceptance map for non-US universities in the UK, Singapore, Hong Kong and Canada with threshold expectations - Insight Crunch](/assets/images/blog/blog-20.webp)
+![SAT acceptance map for non-US universities in the UK, Singapore, Hong Kong and Canada with threshold expectations - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The mistake is understandable. American admissions culture is loud, and it exports the holistic vocabulary everywhere. Counselors talk about fit and passion and well-rounded files, and students absorb the idea that a test result is one ingredient among many. That picture is largely accurate for selective US private colleges. It travels badly. A British course, a Singaporean faculty, a Hong Kong department, a Dutch programme: most of these read an application as a question of academic preparation for a specific subject, and they want evidence that you can do the work in that subject from day one. The SAT, when they accept it at all, slots into that question as a measure of general academic readiness, not as a substitute for subject mastery and rarely as a place where personality earns you a seat.
 

@@ -6,7 +6,7 @@ date: 2018-06-21
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "মূল বাংলায় ফেলুদা পড়লে রায়ের গদ্যের যে ছন্দ ও শব্দখেলা পাওয়া যায় ইংরেজি অনুবাদে তা কেন সম্ভব নয়"
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 134
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![বাংলায় ফেলুদা পড়ার প্রতিদান - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-65.webp)
+![বাংলায় ফেলুদা পড়ার প্রতিদান - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-102.webp)
 
 ## রায়ের গদ্যের ছন্দ: শ্বাসের ভাষা
 

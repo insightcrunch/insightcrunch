@@ -6,7 +6,7 @@ date: 2014-08-28
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "the-creature", "character-analysis", "milton-paradise-lost", "classic-literature"]
 excerpt: "The Creature in Frankenstein is articulate, intelligent, and morally serious. The Karloff figure has obscured what Mary Shelley actually wrote in 1818."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 72
 author: "elena-wright"
 last_updated: 2014-08-28
@@ -16,7 +16,7 @@ The Creature who appears in Mary Shelley's 1818 novel is not the figure most rea
 
 <!--more-->
 
-![The Creature Character Analysis - Insight Crunch](/assets/images/blog/blog-98.webp)
+![The Creature Character Analysis - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The 1931 James Whale film, with Karloff inarticulate and lumbering, established the popular image that has overwhelmed the novel for nearly a century. Hundreds of subsequent films, comics, breakfast cereals, and Halloween costumes have reproduced that image. By the time most readers reach the actual book, the picture is so fixed that the textual Creature reads as a violation. He is supposed to grunt; he speaks. This being is supposed to be stupid; he reads Plutarch. He is supposed to be the source of horror; in the novel he is the source of accusation, and his creator is the figure who flees in shame. To take Shelley's Creature seriously means displacing Karloff entirely and reading what is actually on the page.
 

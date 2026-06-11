@@ -6,7 +6,7 @@ date: 2007-06-12
 categories: ["Leisure"]
 tags: ["richard-nixon", "consensus-flip", "us-presidents", "american-history", "white-house-tapes", "watergate"]
 excerpt: "Nixon sat near the bottom of historian polls in 1982 and still ranks 31st today, and every new White House tape release has confirmed or worsened the verdict."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2007-06-12
@@ -14,7 +14,7 @@ lang: en
 ---
 A reel of magnetic tape, recorded inside the Oval Office decades earlier, spins onto a playback machine in a federal archive. An archivist logs the date of the conversation, the participants, the deletions, the gaps. Somewhere in the hiss and the cross-talk a sentence surfaces that no biographer had heard before, and within a week it travels from a reading room in Maryland to a footnote in a revised assessment of the thirty-seventh president. This has happened, in one form or another, more times than any other modern presidency has endured. The pattern is not occasional. It is structural. The voice on the tape keeps talking, and almost every time it does, the man it belongs to falls a little further.
 
-![Richard Nixon declining reputation and the White House tape releases that keep worsening the verdict - Insight Crunch](/assets/images/blog/blog-91.webp)
+![Richard Nixon declining reputation and the White House tape releases that keep worsening the verdict - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 That is the singular fact about Richard Nixon's place in historical memory. Most presidential reputations move because interpretation moves. A new generation of scholars reads the same documents through a different lens, weighs the same achievements against a changed moral standard, and the ranking shifts. The thirty-seventh president is different. His reputation moves because the evidentiary base itself keeps expanding, in his own recorded voice, and the expansion runs almost entirely in one direction. Where Harry Truman climbed from contempt to the top tier as the Cold War receded, and where the second Adams found a sympathetic biographer and a hit miniseries, the man from Yorba Linda has no comparable arc of recovery. He had a recording system, he chose not to destroy what it captured, and the system has functioned, ever since, as a slow-release mechanism of self-incrimination. The question this piece answers is narrow and concrete: why does the most thoroughly documented modern president keep getting worse in the eyes of the people whose job is to judge him, and what does that one-directional drift reveal about how reputations are actually made.
 

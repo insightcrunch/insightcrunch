@@ -6,7 +6,7 @@ date: 2007-09-25
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "presidential-assassinations", "economic-panics", "civic-violence"]
 excerpt: "Four presidents assassinated. Nine serious attempts on the office since 1835. Every one fell during, or within five years of, an acute financial collapse."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2026-05-25
@@ -14,7 +14,7 @@ lang: en
 ---
 On the afternoon of September 6, 1901, William McKinley extended his right hand to a young man waiting in the receiving line at the Pan-American Exposition in Buffalo. The young man, Leon Czolgosz, had wrapped his own right hand in a handkerchief to conceal a .32 caliber Iver Johnson revolver. He fired twice at point-blank range. The first shot deflected off a button on McKinley's coat. The second tore through the president's stomach, pancreas, and one kidney. McKinley died eight days later of gangrene. The country's third presidential assassination in thirty-six years had occurred in a state whose unemployment rolls had only just stabilized after five years of post-Panic-of-1896 wage compression, populist agitation against the gold standard, and waves of immigrant industrial labor unrest that contemporary newspapers routinely described as the worst conditions since the long depression of the 1870s. Czolgosz's stated motivation, recorded by Buffalo police within hours of the shooting and reaffirmed at his trial three weeks later, was that he had "done his duty" against a "ruler of a good people" who had grown wealthy while working people suffered.
 
-![Presidential assassination attempts cluster around financial collapses from 1835 to 1981 - Insight Crunch](/assets/images/blog/blog-29.webp)
+![Presidential assassination attempts cluster around financial collapses from 1835 to 1981 - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 That sentence captures something the standard scholarship on presidential assassinations rarely names directly. Czolgosz was an anarchist; Charles Guiteau, who killed James Garfield twenty years earlier, was a delusional office-seeker; John Wilkes Booth was a Confederate sympathizer; John Schrank, who shot Theodore Roosevelt eleven years later, was a saloon-keeper acting under what he described as McKinley's ghost-instructions; Giuseppe Zangara, who tried to kill Franklin Roosevelt in 1933, blamed capitalism for his stomach pain; Oscar Collazo and Griselio Torresola, who attacked Harry Truman in 1950, were Puerto Rican independence partisans; Lynette Fromme and Sara Jane Moore, who tried to shoot Gerald Ford within seventeen days of each other in 1975, came from two opposite ideological universes; John Hinckley Jr., who nearly killed Ronald Reagan in 1981, wanted to impress an actress. By the standards of the assailant biographies, these are nine entirely different cases. By the standards of when they happened, they are a single pattern. Every one of them fell during, or within five years of, an acute monetary contraction as the National Bureau of Economic Research defines that term. The clustering is so consistent that the question worth asking is not whether the correlation is real but what it means.
 

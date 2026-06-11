@@ -6,7 +6,7 @@ date: 2012-07-21
 categories: ["Industry"]
 tags: ["surgical-strikes", "2016", "uri", "loc", "special-forces", "india-pakistan"]
 excerpt: "How Indian special forces crossed the Line of Control after the Uri attack to destroy terrorist launch pads in PoK, permanently changing military doctrine."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "nandini-sen"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ On September 29, 2016, Indian Army Para Special Forces crossed the Line of Contr
 
 <!--more-->
 
-![Surgical Strikes 2016 Explained - Insight Crunch](/assets/images/blog/blog-58.webp)
+![Surgical Strikes 2016 Explained - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The significance of what happened on September 29 cannot be understood through body counts or damage assessments alone. It must be understood through the lens of what did not happen during every previous crisis. After the 2001 Parliament attack, India mobilized a million soldiers under Operation Parakram, held them on the border for ten months, and ultimately stood them down without firing a shot. After the 2008 Mumbai massacre that killed 166 people, India's political leadership chose restraint over retaliation, judging the risks of escalation under the nuclear umbrella too severe. After the January 2016 [Pathankot airbase infiltration](https://insightcrunch.com/2012/05/16/pathankot-airbase-attack-explained/) that killed seven Indian security personnel, India offered Pakistan a Joint Investigation Team, an olive branch that Pakistan exploited for intelligence gathering rather than genuine inquiry. Each time, the pattern repeated: Pakistan sponsored an attack, India absorbed the blow, and Pakistan's assumption of impunity grew stronger. September 29, 2016, broke that pattern permanently. What India's special forces accomplished in the mountains of PoK was less important than what India's political leadership accomplished in the realm of strategic signaling. They demonstrated that the old rules, absorb the attack, protest diplomatically, and wait for the next one, were over.
 

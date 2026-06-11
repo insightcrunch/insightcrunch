@@ -6,7 +6,7 @@ date: 2024-02-19
 categories: ["Technology"]
 tags: ["Azure", "Azure Storage", "Security", "Identity", "Encryption", "Cloud Computing"]
 excerpt: "Azure Storage security rests on identity over keys: encrypt with customer-managed keys, scope data-plane RBAC, lock the network, and issue short-lived SAS."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 63
 author: "james-carter"
 last_updated: 2024-02-19
@@ -16,7 +16,7 @@ A storage account holds the data that matters: the customer uploads, the backups
 
 The encryption part tends to get the attention because it sounds like the hard problem, and it is the part Azure already solved for you. Every storage account encrypts data at rest by default with 256-bit AES, and that encryption cannot be turned off. The part that is left to you, and the part that decides whether an account is genuinely hardened or merely encrypted, is everything around the key: who can read the data once it is decrypted on the wire, where requests are allowed to come from, and whether the credentials that grant access are an account key with godlike reach or an Entra identity scoped to exactly one container with read-only rights. This article works through the whole posture in the order that matters, builds the InsightCrunch storage security checklist as a reference you can apply to any account, and names the single rule that organizes all of it.
 
-![Azure Storage Security and Encryption](/assets/images/blog/blog-89.webp)
+![Azure Storage Security and Encryption](/assets/images/blog/blog-21.webp)
 
 ## The identity-over-keys rule
 

@@ -5,7 +5,7 @@ date: 2010-10-22
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "This is a guest posy by MALAY MAJITHIA. The views expressed are entirely of the author."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 5
 author: "arjun-nair"
 last_updated: 2026-04-01
@@ -218,7 +218,7 @@ Fir bhi itne pyaare dosto me, Humne ye suhana safar hai kaata;
 Sab ko chhod jaane ka khayal, mere dil ko bilkul na bhaata,   
 Itne behtarin jo dost mile hai, Sab sath me bolo Thanks to Tata.
 
-![TCS ILP Chalisa](/assets/images/blog/blog-80.webp)
+![TCS ILP Chalisa](/assets/images/blog/blog-23.webp)
 ILP Chalisa
 
 Read more: [Initial Learning Program at Trivandrum »](https://insightcrunch.com/2010/10/25/initial-learning-program-at-trivandrum/)

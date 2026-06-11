@@ -5,7 +5,7 @@ date: 2009-09-14
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Recently Yahoo Mail had been a lot more innovative and their new interface is far better and appealing to users than the old classic interface. There have..."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
@@ -17,5 +17,5 @@ Read more: [Twitter direct messages: Somewhere between email and chat »](https:
 
 The major breakthrough that has happened is with allowing users to add third party Applications to their accounts. There are infinite opportunities which becomes available by this. Yes, infinite. With thousands of developers around the world, Yahoo is sure to get better day by day with cooler and cooler apps. A trick you can say that Yahoo themselves are not having to work to make those services on their own, but who cares as long as the consumers and ecstatic with Yahoo’s services! So if you are really wondering what I have been talking about simply switch to the new Yahoo Mail by clicking “All-New Mail” on top right and submit your email address to Yahoo for requesting them to provide you with the apps.
 
-![Yahoo Mail Improvements](/assets/images/blog/blog-47.webp)
+![Yahoo Mail Improvements](/assets/images/blog/blog-18.webp)
 Yahoo Mail Improvements

@@ -6,7 +6,7 @@ date: 2012-06-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Chosen One", "Orphan Hero", "Trauma Survivor"]
 excerpt: "Harry Potter character analysis: why the Boy Who Lived's quiet ordinariness, inherited fortunes, and father-hunger form Rowling's most radical moral argument."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 58
 author: "victoria-stone"
 last_updated: 2012-06-16
@@ -18,7 +18,7 @@ There is a reading of the Harry Potter series, popular in certain online corners
 
 This reading is not wrong about the surface. It is catastrophically wrong about the architecture.
 
-![Harry Potter character analysis across all seven books](/assets/images/blog/blog-35.webp)
+![Harry Potter character analysis across all seven books](/assets/images/blog/blog-49.webp)
 
 Rowling spent seventeen years writing a series whose protagonist refuses to brood, refuses to scheme, refuses to grow magnificently strange. The reader who finds this boring has not noticed what is being argued. Voldemort, the antagonist, is the brilliant philosophical creature of the series: he reasons about death, designs immortality, builds a coherent ideology of blood and power. He is fascinating in the way that intellectually serious villains always are. The protagonist offers no equivalent fascination. The boy plays Quidditch, does his homework, gets angry at his friends, falls in love unspectacularly, and at the climax of the series walks into a forest to die because that is what is required of him. There is no soliloquy. There is no inner darkness wrestled into the light. There is only the doing of the thing.
 

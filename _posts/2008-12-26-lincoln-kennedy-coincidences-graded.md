@@ -6,7 +6,7 @@ date: 2008-12-26
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "john-f-kennedy", "myth-bust", "us-presidents", "american-history", "assassination", "urban-legend"]
 excerpt: "Fifteen Lincoln-Kennedy assassination coincidences graded true, exaggerated, or fabricated, with the specific source disproving or contextualizing each one."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 80
 author: "amanda-ross"
 last_updated: 2008-12-26
@@ -20,7 +20,7 @@ What that "something more" was, the list never quite said. Numerology, fate, div
 
 This article grades each of the fifteen most-circulated claims on a four-point rubric: true, true-but-meaningless, exaggerated, and fabricated. Each grade is paired with the specific receipt that supports it: a birth certificate, a hotel register, a payroll record, a newspaper clipping, a White House staff list, a coroner's report, or in the cases of the most egregious inventions, the absence of any such document anywhere. The article also explains why a list of this kind feels uncanny even after every individual claim has been graded. The mathematics of selection bias, the elastic semantics of "similar," and the birthday-paradox logic that makes coincidence inevitable across any two long lives operate beneath the surface of every supernatural list. Once those mechanisms are visible, the Lincoln-Kennedy list joins the catalog of pleasing patterns that human cognition manufactures from any sufficiently rich data set.
 
-![Lincoln Kennedy coincidences fifteen claims graded myth-bust analysis - Insight Crunch](/assets/images/blog/blog-57.webp)
+![Lincoln Kennedy coincidences fifteen claims graded myth-bust analysis - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 ## Where the List Came From and Why It Spread
 

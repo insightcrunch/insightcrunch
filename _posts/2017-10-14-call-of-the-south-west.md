@@ -5,7 +5,7 @@ date: 2017-10-14
 categories: ["Travel"]
 tags: ["Nature"]
 excerpt: "A trip to the southwest USA creates excitement even when we just imagine it, even though it is not my first time. It was during late winter that we..."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 3
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 A trip to the southwest USA creates excitement even when we just imagine it, even though it is not my first time. It was during late winter that we started to plan a trip, but due to various changes in our lives things were regularly getting re-prioritized, until the month of August. It was extremely difficult to finalize a list of destinations, there were just too many to cover. My preference always lies towards places untouched by man, not that am not pro-progress, but the simple fact that we can unwind to unseen beauties and see the same things which has witnessed such notable historical events, listen to the amazing stories of the local people, the fact that so many lifeless mammoth rocks can be worshiped, and a cave that failed to serve as a hideout during invasion from the east leading to hundreds being dead, or a view from one of the toughest hiking destinations in the world, driving via an amazing scenic road that can only be felt by our senses, each such fact, moment and place gives so much intensity and meaning to the time and place we are in, it helps makes my decisions a lot less difficult.
 
-![](/assets/images/blog/blog-60.webp)
+![](/assets/images/blog/blog-33.webp)
 Exploring the South West
 
 Nearly 20 places made it to my initial list, but after much deliberation it came down to 16, then finally to 9 places. As always, per our new rule, we do not want to stress out so much that the thoughts of reaching the next destination late, becomes a constraint for cherishing the times at the last destination. Needless to say, the best part of a trip is the planning part, the quest for the unknown, the curiosity of how the new places will be like, the excitement of the memories that are going to be in the making, really makes the weeks before the trip so much memorable.

@@ -6,7 +6,7 @@ date: 2012-02-10
 categories: ["Industry"]
 tags: ["jaish-e-mohammed", "jem", "masood-azhar", "terrorism", "pakistan", "pulwama"]
 excerpt: "The definitive guide to Jaish-e-Mohammed, from Masood Azhar's release in the IC-814 hijacking crisis to Pulwama and the shadow war's devastating toll."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "james-carter"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ Jaish-e-Mohammed is the terror organization that India created by accident. Ever
 
 <!--more-->
 
-![Jaish-e-Mohammed Complete Guide - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Jaish-e-Mohammed Complete Guide - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 Understanding Jaish-e-Mohammed requires understanding that it was never an organic product of grassroots radicalization. It was manufactured. Masood Azhar did not emerge from the madrassas of southern Punjab with a vague desire to fight; he was a trained, imprisoned, and then deliberately freed militant who leveraged the IC-814 hostage crisis to extract himself from an Indian jail cell and immediately converted his freedom into an organizational weapon. Hassan Abbas, in his study "Pakistan's Drift into Extremism," traces how JeM's founding fit within a broader pattern of ISI-cultivated militancy in Pakistan, but Azhar's case is distinctive because the Indian government itself supplied the catalyst. The ISI provided the infrastructure, the ideological ecosystem provided the recruits, and the Deobandi seminary network provided the theological cover, but India provided the founder. That foundational irony shapes everything that followed.
 

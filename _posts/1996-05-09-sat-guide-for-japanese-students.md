@@ -5,7 +5,7 @@ date: 1996-05-09
 categories: ["Industry"]
 tags: ["SAT", "International", "Japan", "Study Abroad", "English Preparation"]
 excerpt: "SAT guide for Japanese students: test centers in Japan, how the SAT compares to the Kyotsu test, score targets and the English prep that decides outcomes."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 59
 author: "christopher-wells"
 last_updated: 1996-05-09
@@ -13,7 +13,7 @@ lang: en
 ---
 A student in Tokyo who has spent two years drilling integrals and probability for the university entrance season will often walk into the SAT expecting the math to be the hard part, and walk out having lost the points that mattered somewhere else entirely. That reversal is the single most useful thing a Japanese applicant can understand before building a study plan. The quantitative half of the American admissions exam will feel, to a student trained inside Japan's rigorous secondary mathematics tradition, noticeably gentler than the second-stage problems set by a national university. The verbal half is the opposite story. It asks a reader to move quickly through dense English passages, judge the rhetorical function of a sentence, repair a grammatical construction, and weigh evidence, all at native reading speed and all in a second language. For a Japanese candidate, that is where the contest is decided.
 
-![SAT Guide for Japanese Students - Insight Crunch](/assets/images/blog/blog-96.webp)
+![SAT Guide for Japanese Students - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 This guide is built around that realization rather than around a generic walkthrough of an American test. The aim is to give an applicant in Japan a precise map: where the assessment can be taken inside the country, how it lines up against the familiar Kyotsu common test and the second-stage examinations that follow it, what a realistic target looks like for the kinds of American universities a strong Japanese student tends to consider, and most of all how to structure English preparation so that effort lands on the part of the exam that actually moves an admissions decision. The branded artifact at the center of this piece, the InsightCrunch English-First Map for Japanese applicants, pairs a side-by-side comparison of the two examination systems with a preparation sequence that deliberately weights the verbal challenge ahead of the quantitative one. Every score figure, center detail, and policy note below should be read as a dated snapshot to verify against current sources before you act on it, because international testing logistics and university requirements shift from one admissions cycle to the next.
 

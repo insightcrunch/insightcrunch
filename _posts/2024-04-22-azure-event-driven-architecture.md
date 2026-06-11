@@ -6,7 +6,7 @@ date: 2024-04-22
 categories: ["Technology"]
 tags: ["Azure", "Event Grid", "Event Hubs", "Service Bus", "Architecture", "Cloud Computing"]
 excerpt: "Event-driven architecture on Azure: pick Event Grid, Event Hubs, or Service Bus by event shape, and build idempotent consumers for at-least-once delivery."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
 author: "nathan-cole"
 last_updated: 2024-04-22
@@ -14,7 +14,7 @@ lang: en
 ---
 When a system grows past a handful of services, the wiring between them quietly becomes the hardest part of the design. Order processing calls inventory, inventory calls notifications, notifications call the audit log, and every one of those calls is a synchronous request that has to succeed right now or the whole chain stalls. Add a sixth service and the call graph turns into a web that no single engineer can hold in their head. Event-driven architecture on Azure is the answer to that sprawl: instead of services calling each other directly, a service announces that something happened and walks away, and any number of other services react to that announcement on their own schedule. This guide is about designing such a system deliberately, choosing the right messaging backbone for each kind of event, and building consumers that survive the delivery guarantees Azure actually offers rather than the ones engineers wish it offered.
 
-![Event-Driven Architecture on Azure: A Design Guide - Insight Crunch](/assets/images/blog/blog-100.webp)
+![Event-Driven Architecture on Azure: A Design Guide - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 The promise is decoupling, and the trap is that decoupling is not free. The moment a producer stops waiting for a consumer, you inherit a new class of problems: the same event can arrive twice, events can arrive out of order, a consumer can fail halfway through and leave the system in a partial state, and a failed event can vanish if nothing catches it. None of these problems are exotic. They are the ordinary, daily reality of every event-driven system in production, and the difference between a design that works and one that pages an engineer at three in the morning is whether those realities were engineered for on day one or discovered later under load.
 

@@ -6,7 +6,7 @@ date: 1997-01-30
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Pacing", "Time Management", "Strategy"]
 excerpt: "SAT RW pacing explained: spending time by question type across a 32-minute module, the flag-and-return rule and module differences, with a worked model."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "hannah-moore"
 last_updated: 1997-01-30
@@ -14,7 +14,7 @@ lang: en
 ---
 A reader who finishes the Reading and Writing section with four items unanswered has not lost four hard questions. More often, those four were easy, and they went unanswered because the clock ran out on a passage somebody read three times. That is the quiet arithmetic of this section: points are rarely lost to difficulty alone. They are lost to misallocation, to spending ninety seconds on a comma rule that deserved thirty and then having nothing left for an inference that deserved a hundred. The fix is not reading faster, though that helps. The fix is spending unevenly on purpose.
 
-![SAT RW Pacing: A Module Time Plan - Insight Crunch](/assets/images/blog/blog-92.webp)
+![SAT RW Pacing: A Module Time Plan - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 This article gives you something the standard "manage your time" advice never does: an actual budget. Not a slogan about working steadily, but a per-family target range, in seconds, that runs the mechanical items fast so the analytical items can run slow. Most pacing guidance treats every prompt as worth the same slice of the clock. It is not. A boundaries question and a cross-text synthesis question share a section and share an answer format, and there the resemblance ends. One is a recognition task you either see or you do not; the other is a reasoning task that rewards a few extra deliberate seconds. Pay them the same and you have starved the one that pays you back.
 

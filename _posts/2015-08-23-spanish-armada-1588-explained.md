@@ -6,7 +6,7 @@ date: 2015-08-23
 categories: ["Leisure"]
 tags: ["spanish-armada", "elizabeth-i", "philip-ii", "1588", "naval-history", "medieval-history"]
 excerpt: "The Spanish Armada's defeat in 1588 was a failure of Philip II's own planning as much as an English victory, and most of its worst errors were preventable."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2015-08-23
@@ -18,7 +18,7 @@ In the stone corridors of the Escorial, the vast monastery-palace northwest of M
 
 The standard story of that failure is an English story. It features quick English ships, daring English captains, and a providential storm that English Protestants would name the "Protestant wind." That story is not false. The English fleet was genuinely capable, its gunnery was genuinely superior, and the weather genuinely punished the invaders. Yet the familiar account leaves out the more important half of the explanation. The Spanish Armada lost because Philip II's planning could not coordinate what it needed to coordinate. The defeat was a Spanish failure at least as much as an English triumph, and most of the worst errors were visible, in principle, before a single vessel left harbor.
 
-![The Spanish Armada of 1588 - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The Spanish Armada of 1588 - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 This article reconstructs the campaign as a sequence of decisions rather than as a sea battle. It treats the Enterprise of England, as Philip's court called the project, the way a modern analyst would treat a failed engineering program: by tracing the choices the king made, the options he rejected, the assumptions his design depended on, and the specific points where those assumptions broke. The argument is not that England did nothing. The argument is that the Armada was a plan demanding perfect coordination across hundreds of miles of hostile water using the communications of the 1580s, and that no quantity of courage or seamanship on the Spanish side could have rescued a design with that flaw built into its foundation. Understanding why means starting not with the ships but with the king.
 

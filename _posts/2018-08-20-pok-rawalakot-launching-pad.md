@@ -6,7 +6,7 @@ date: 2018-08-20
 categories: ["Industry"]
 tags: ["pok", "rawalakot", "terror-launching-pad", "infiltration", "loc", "kashmir"]
 excerpt: "Rawalakot in Pakistan-Occupied Kashmir is the Line of Control's busiest infiltration staging ground, the town where LeT commander Abu Qasim was shot dead."
-image: "/assets/images/blog/blog-95.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 74
 author: "james-carter"
 last_updated: 2018-08-20
@@ -16,7 +16,7 @@ The hill town of Rawalakot sits in a bowl of pine-covered slopes in the Poonch d
 
 <!--more-->
 
-![Rawalakot in Pakistan-Occupied Kashmir terror launching pad - Insight Crunch](/assets/images/blog/blog-95.webp)
+![Rawalakot in Pakistan-Occupied Kashmir terror launching pad - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 For years the assumption inside the insurgent ecosystem was that a man could disappear into Rawalakot and be untouchable. The town was deep inside Pakistani-controlled territory, ringed by Pakistan Army brigades, populated by families with cross-frontier kinship ties and a long cultural memory of the 1947 war. A man who had crossed from Rajouri or Poonch and settled here, married here, prayed at the same mosque every dawn, was as protected as the geography of South Asia could make him. That assumption is what makes the killing of Riyaz Ahmad, the Lashkar-e-Taiba commander known across the region by his operational name Abu Qasim, such a hinge moment. He was shot in the head at point-blank range inside al-Qudus mosque while he knelt for the pre-dawn Fajr prayer, and the men who did it knew which town, which mosque, which prayer, and which spot in the congregation. The staging ground had been staged against. This guide examines how Rawalakot became the most active infiltration launching pad along the southern Line of Control, what its geography and its militant infrastructure actually look like at ground level, how the Abu Qasim shooting punctured the town's reputation for safety, and what the targeted killing revealed about the reach of India's shadow war into the heart of the infiltration apparatus. The argument running through every section is the one that connects this town to the broader campaign chronicled across [India's shadow war against terror](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/): a place that exists to send violence across a border eventually finds that the border works in both directions.
 

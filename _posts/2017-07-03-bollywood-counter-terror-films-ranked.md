@@ -6,7 +6,7 @@ date: 2017-07-03
 categories: ["Industry"]
 tags: ["bollywood", "counter-terrorism", "films", "ranked", "dhurandhar", "baby", "phantom"]
 excerpt: "Ranking every Bollywood counter-terrorism film from A Wednesday through Dhurandhar, analyzing how Hindi cinema shaped India's appetite for covert action."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
 author: "nandini-sen"
 last_updated: 2017-07-03
@@ -16,7 +16,7 @@ Bollywood's counter-terrorism genre did not emerge from a vacuum. It grew from n
 
 <!--more-->
 
-![Bollywood Counter-Terror Films Ranked - Insight Crunch](/assets/images/blog/blog-100.webp)
+![Bollywood Counter-Terror Films Ranked - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 ## How This Ranking Works
 

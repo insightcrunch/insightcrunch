@@ -5,7 +5,7 @@ date: 2016-09-17
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "One of the DRM servers was idle for a long time and one day I decided to start using it. After ensuring the usual things of the application services..."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 1
 author: "ian-fletcher"
 last_updated: 2026-04-01
@@ -17,7 +17,7 @@ One of the DRM servers was idle for a long time and one day I decided to start u
 
 There cannot be a more dreadful error than the Web Client not responding when all the different parts of the application seem to be working fine. Also it was a not a firewall or Weblogic issue since those were tested to be working fine.
 
-![DRM Web Client HTTP 503 Error](/assets/images/blog/blog-14.webp)
+![DRM Web Client HTTP 503 Error](/assets/images/blog/blog-96.webp)
 DRM Web Client HTTP 503 Error
 
 On further investigation it was found in the Internet Information Services (IIS) for Windows Server the connection drm_pool was in Stopped state. On starting it back the Web Client started responding fine.

@@ -6,7 +6,7 @@ date: 2018-03-05
 categories: ["Industry"]
 tags: ["civilian-casualties", "2025", "india-pakistan", "human-cost", "poonch", "kashmir"]
 excerpt: "Documenting the civilian casualties on both sides of the 2025 India-Pakistan conflict, the disputed death tolls, the verification gaps, and the human cost."
-image: "/assets/images/blog/blog-99.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 71
 author: "abigail-cooper"
 last_updated: 2018-03-05
@@ -16,7 +16,7 @@ When the guns went quiet on the evening of May 10, 2025, the four days of fighti
 
 <!--more-->
 
-![Civilian casualties on both sides of the 2025 India-Pakistan conflict](/assets/images/blog/blog-99.webp)
+![Civilian casualties on both sides of the 2025 India-Pakistan conflict](/assets/images/blog/blog-21.webp)
 
 The short answer to the question most readers arrive with is that both countries killed each other's civilians, and neither country's count can be fully trusted. Pakistan said that India's missile strikes on the night of May 6 into May 7 killed civilians in Bahawalpur, Muridke, Muzaffarabad and Kotli, and its military first put the figure at thirty-one before raising it days later to forty civilians, among them seven women and fifteen children. India said that Pakistani artillery and mortar fire across the Line of Control, together with drones and a loitering munition, killed civilians in Poonch, Rajouri, Uri, Kupwara and one town in Punjab, and its official tally settled at roughly twenty-one civilians alongside its uniformed dead. Independent investigators who later studied the firing along the Line of Control suggested the true civilian total was higher than either government's headline number, because much of the killing happened in border villages where nobody was counting in real time.
 

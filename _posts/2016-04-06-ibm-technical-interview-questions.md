@@ -5,7 +5,7 @@ date: 2016-04-06
 categories: ["Industry"]
 tags: ["IBM"]
 excerpt: "IBM technical interview: programming questions, data structure problems, system design basics, and the technical depth IBM expects from candidates."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 3
 author: "benjamin-scott"
 last_updated: 2026-04-01
@@ -19,7 +19,7 @@ Read more: [TCS Hiring Steps »](https://insightcrunch.com/2015/12/11/tcs-hiring
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Technical Interview Questions](/assets/images/blog/blog-38.webp)
+![IBM Technical Interview Questions](/assets/images/blog/blog-75.webp)
 IBM Technical Interview Questions
 
 ## IBM Technical Interview Questions

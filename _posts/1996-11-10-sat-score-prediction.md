@@ -6,7 +6,7 @@ date: 1996-11-10
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Score Prediction", "Practice Tests", "Strategy"]
 excerpt: "SAT score prediction: using official practice tests and the PSAT, why scores over or underestimate, and reading your score spread, with a decision rule."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "michael-brooks"
 last_updated: 1996-11-10
@@ -14,7 +14,7 @@ lang: en
 ---
 Two weeks before the real thing, a student emails me a single number. "I got a 1380 on a practice test. Will I get a 1380?" The honest answer is that one practice result tells you almost nothing on its own, and treating it as a forecast is the most common way students walk into the exam either falsely calm or falsely panicked. A single timed run is a snapshot of one morning, one set of passages, one Math module, one breakfast, one mood. The morning that counts will be a different morning. What you can do, and what almost nobody does carefully, is convert several practice results into a defensible range, then read the shape of those results to learn something more useful than the range itself: whether you are a steady performer who will land near your average, or a swinging one whose outcome depends on which version of you shows up.
 
-![SAT score prediction worksheet using practice tests and the PSAT - Insight Crunch](/assets/images/blog/blog-47.webp)
+![SAT score prediction worksheet using practice tests and the PSAT - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 This article gives you a method the open web does not. Most pages that promise to predict your result hand you a converter that turns a raw count into a scaled figure and stop there, as if the only question were arithmetic. The harder and more valuable question is which practice numbers deserve your trust, why a comfortable living-room run inflates your estimate while a low-stakes one can deflate it, and what a wide gap between your highest and lowest practice results is trying to tell you. By the end you will be able to take three or more timed official runs, build a predicted band, read the spread to diagnose consistency, cross-check the figure against your PSAT, and turn the whole thing into a clear now-or-delay decision rather than a nervous guess. Prediction, done right, is diagnosis. It is not fortune-telling, and the students who treat it as fortune-telling are the ones it fails.
 

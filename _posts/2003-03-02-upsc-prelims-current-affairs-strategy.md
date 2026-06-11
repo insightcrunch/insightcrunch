@@ -6,7 +6,7 @@ date: 2003-03-02
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Current Affairs", "The Hindu", "PIB"]
 excerpt: "UPSC Prelims current affairs preparation strategy: three-layer methodology with daily monthly and annual review, newspaper selection, source limitation principle, backward linkages with static subjects, and the systematic approach to the most foundational preparation activity for Prelims."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 59
 author: "anita-das"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The pervasive influence of current affairs across the Prelims paper makes curren
 
 This article provides the complete data-driven preparation strategy for UPSC Prelims current affairs that addresses both the substantial direct question contribution and the pervasive cross-subject influence that current affairs exercises across the Prelims paper. The article integrates four critical components: the three-layer methodology (daily monthly and annual review) that captures the dynamic content systematically across the preparation period, the source selection framework that identifies the optimal combination of newspapers compilations and reference sources, the note-making approach that organises captured content for efficient revision and retrieval, and the integration approach that connects contemporary developments to the static knowledge foundations that they relate to.
 
-![UPSC Prelims Current Affairs Strategy - Insight Crunch](/assets/images/blog/blog-78.webp)
+![UPSC Prelims Current Affairs Strategy - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process where Prelims serves as the qualifying gate for Mains, and within Prelims, current affairs functions as the connective tissue that binds together the various subject preparations into coherent qualification capability. The [Prelims topic-wise weightage analysis](/2003/03/29/upsc-prelims-topic-wise-weightage/) provides the thirteen-year quantitative breakdown that confirms current affairs as the single largest influence on Prelims question patterns when cross-subject effects are properly counted. The [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) places current affairs within the broader Prelims preparation framework that this article's current-affairs-specific strategy operates within. The [Prelims Polity strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/), the [Prelims History strategy](/2003/03/24/upsc-prelims-history-culture-strategy/), the [Prelims Geography and Environment strategy](/2003/03/15/upsc-prelims-geography-environment-strategy/), the [Prelims Economy strategy](/2003/03/11/upsc-prelims-economy-strategy/), and the [Prelims Science and Technology strategy](/2003/03/06/upsc-prelims-science-technology-strategy/) provide the corresponding subject-specific approaches that current affairs preparation supplements and integrates with rather than replaces, with current affairs serving as the cross-cutting layer that touches every other subject.
 

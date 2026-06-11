@@ -6,7 +6,7 @@ date: 2019-01-21
 categories: ["Industry"]
 tags: ["mossad", "iran", "nuclear-scientists", "assassinations", "sabotage", "stuxnet"]
 excerpt: "How Mossad's long campaign of assassinations and sabotage against Iran's nuclear scientists became the closest historical parallel to India's shadow war."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 71
 author: "william-knight"
 last_updated: 2019-01-21
@@ -18,7 +18,7 @@ A little before eight in the morning on a cold January day in 2012, a green Peug
 
 That machine is the subject of this account. For roughly fifteen years, an unacknowledged campaign hunted the men who built Iran's capacity to enrich uranium, eliminating them one at a time on the streets of their own capital, then sabotaging the centrifuges they had spun, then, in the summer of 2025, abandoning deniability altogether and bombing their homes from the air. The effort is overwhelmingly attributed to Israel and its foreign intelligence service. It has never been formally claimed in full. And it matters here, on a site devoted to a very different conflict, because it is the closest working model the world has produced for what India has been doing inside Pakistan. The motorcycle, the magnetic charge, the deniability, the targeting of human capability rather than infrastructure, the official silence paired with unofficial pride: every signature element of [India's shadow war against terror](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) appears first, fully formed, in the streets of Tehran.
 
-![Mossad vs Iran Nuclear Scientists - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Mossad vs Iran Nuclear Scientists - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 To read the Iranian effort closely is therefore to read a manual that New Delhi appears to have studied. By the end of this piece you will have a scientist-by-scientist account of who died and how, an explanation of the parallel sabotage track that ran alongside the killings, a sober assessment of whether any of it actually delayed the thing it was meant to delay, and a structured comparison that places each Iranian operation against its closest counterpart in Pakistan. None of this is offered as celebration. The Iranian operation killed men in front of their children, it almost certainly killed at least one person by mistake, and it raised questions about sovereignty and law that remain unresolved. But it is the precedent, and India's planners did not invent their doctrine in a vacuum. They inherited a template, and the template was tested first against Iran.
 

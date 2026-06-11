@@ -6,7 +6,7 @@ date: 2018-05-28
 categories: ["Industry"]
 tags: ["asim-munir", "field-marshal", "pakistan-army", "promotion", "2025", "military"]
 excerpt: "Why Pakistan promoted Army Chief Asim Munir to Field Marshal during the 2025 India-Pakistan military crisis, what the elevation signals, and historical context."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 author: "alex-cunningham"
 last_updated: 2018-05-28
@@ -16,7 +16,7 @@ On May 20, 2025, ten days after the ceasefire that ended a four-day armed exchan
 
 <!--more-->
 
-![Asim Munir Field Marshal Promotion - Insight Crunch](/assets/images/blog/blog-22.webp)
+![Asim Munir Field Marshal Promotion - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 the country's formal justification framed the promotion as recognition of Munir's leadership during [Operation Bunyan-un-Marsoos](https://insightcrunch.com/2018/02/12/operation-bunyan-un-marsoos/), the name Islamabad gave to its counter-response to India's Operation Sindoor. The cabinet resolution employed the language of martial glory, crediting Munir with ensuring Pakistan's national defence while demonstrating courageous leadership and exceptional strategy in repelling what the government characterised as Indian aggression. Critics from Karachi to London read the resolution differently. Defence analyst Ayesha Siddiqa, Pakistan's most incisive observer of civil-military dynamics, offered a simpler framing in the days immediately following the announcement: "Every time the Pakistani army loses a war, their generals pin on a medal." That sentence, widely circulated on social media and quoted in international coverage, captured an analytical consensus outside Pakistan's official narrative, that Munir's elevation was a wartime narrative device dressed as a military ceremony, a political instrument wrapped in ceremonial gold braid.
 

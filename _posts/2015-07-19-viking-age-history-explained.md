@@ -6,7 +6,7 @@ date: 2015-07-19
 categories: ["Leisure"]
 tags: ["viking-age", "vikings", "medieval-scandinavia", "viking-diaspora", "norse-expansion", "medieval-history"]
 excerpt: "Vikings were not only raiders but also traders, settlers, explorers, mercenaries, and administrators whose vast diaspora reshaped early medieval Europe."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2015-07-19
@@ -16,7 +16,7 @@ On the eighth of June in the year 793, a Northumbrian monastery on the tidal isl
 
 <!--more-->
 
-![Viking longships and Norse expansion across early medieval Europe - Insight Crunch](/assets/images/blog/blog-33.webp)
+![Viking longships and Norse expansion across early medieval Europe - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The men who sacked that monastery belonged to a movement that historians now describe with a word the monastic chroniclers never used: diaspora. Over roughly three centuries, between the Lindisfarne attack and the year 1066, people from what are now Norway, Denmark, and Sweden spread across an astonishing geographic range. They founded the polity that would become the Russian state. They served as the personal bodyguard of the Byzantine emperor in Constantinople. They settled an empty Iceland, colonized Greenland, and reached the coast of North America five centuries before Columbus. They carved out a zone of Norse law across northern and eastern England, and they planted a colony in northern France whose descendants would conquer England in the very year the Viking Age is conventionally said to end. The raids appear in the Anglo-Saxon Chronicle because chroniclers recorded catastrophes. The settlements, the trade routes, and the new states changed history, and they did so quietly enough that they have been undervalued for a thousand years.
 

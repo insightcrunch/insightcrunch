@@ -5,7 +5,7 @@ date: 2016-02-24
 categories: ["Industry"]
 tags: ["IBM"]
 excerpt: "IBM interview questions across all rounds: aptitude, technical, HR, and managerial. Real questions from candidates with preparation tips for each stage."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 3
 author: "james-carter"
 last_updated: 2026-04-01
@@ -19,7 +19,7 @@ Read more: [IBM Panel Interview »](https://insightcrunch.com/2016/03/19/ibm-pan
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Interview Questions](/assets/images/blog/blog-61.webp)
+![IBM Interview Questions](/assets/images/blog/blog-102.webp)
 IBM Interview Questions
 
 ## IBM Interview Questions

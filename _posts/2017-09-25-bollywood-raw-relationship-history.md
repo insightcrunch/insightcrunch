@@ -6,7 +6,7 @@ date: 2017-09-25
 categories: ["Industry"]
 tags: ["bollywood", "raw", "intelligence", "history", "films", "tiger", "dhurandhar"]
 excerpt: "How Bollywood depicted RAW and India's spy services across three phases, from decades of total absence through the Tiger franchise to Dhurandhar's apex."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-09-25
@@ -16,7 +16,7 @@ For more than four decades after India established its external intelligence age
 
 <!--more-->
 
-![Bollywood and RAW Relationship History](/assets/images/blog/blog-67.webp)
+![Bollywood and RAW Relationship History](/assets/images/blog/blog-28.webp)
 
 ## The Film's Version
 

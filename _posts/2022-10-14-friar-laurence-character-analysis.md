@@ -6,7 +6,7 @@ date: 2022-10-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-debate", "friar-laurence", "religion", "friar-laurence-analysis"]
 excerpt: "Friar Laurence marries the lovers, brews the potion, and devises the plan that fails, so the play leaves him poised between wise healer and reckless schemer."
-image: "/assets/images/blog/blog-88.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 63
 author: "rachel-foster"
 last_updated: 2022-10-14
@@ -14,7 +14,7 @@ lang: en
 ---
 A Franciscan kneels in a garden before dawn, basket in hand, gathering weeds and flowers while the rest of Verona sleeps. He is talking to himself about poison. "Within the infant rind of this weak flower," he observes, "Poison hath residence, and medicine power" (2.3.23-24, Arden second series, ed. Brian Gibbons). The lines arrive as botany and end as moral philosophy: the same plant that heals can kill, and the difference lies not in the herb but in the hand that uses it. Forty minutes of stage time later, that same hand will mix a draught that mimics death, hide a thirteen-year-old in a tomb, and stake two lives on a letter that never gets delivered.
 
-![Friar Laurence herb soliloquy and the sleeping potion plot in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-88.webp)
+![Friar Laurence herb soliloquy and the sleeping potion plot in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The cultural shorthand files the friar under harmless: a kindly old priest who marries the young couple, frets a good deal, and turns up too late at the end to do any good. That portrait is comfortable and almost entirely wrong. The figure Shakespeare actually wrote is the busiest agent in the tragedy, the one character who could have stopped the catastrophe at half a dozen points and instead engineers it. Friar Laurence performs the secret marriage, supplies the potion, drafts the scheme, sends the failed message, and stands in the vault as the bodies cool. No other character touches so many of the play's hinges. The question this article presses is not whether he means well, because he plainly does, but what to call a man whose every benevolent intervention deepens the disaster. Three labels compete for him: healer, schemer, bungler. The argument here is that the play sustains all three at once, and that refusing to choose between them is precisely what makes the character interesting rather than the prop the cliche reduces him to.
 

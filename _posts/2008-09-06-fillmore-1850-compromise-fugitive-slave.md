@@ -6,7 +6,7 @@ date: 2008-09-06
 categories: ["Leisure"]
 tags: ["millard-fillmore", "decision-reconstruction", "us-presidents", "american-history", "compromise-of-1850", "fugitive-slave-act", "whig-party"]
 excerpt: "Taylor blocked the 1850 Compromise; cholera killed him in July. Fillmore signed the Fugitive Slave Act that September, and the Whig Party never recovered."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 71
 author: "michael-brooks"
 last_updated: 2008-09-06
@@ -14,7 +14,7 @@ lang: en
 ---
 The President of the United States was dying. On the night of July 8, 1850, Zachary Taylor lay in a second-floor bedroom of the executive mansion, his abdomen seized by what attending physicians, working with the medical vocabulary of their century, called cholera morbus. The diagnosis covered gastroenteritis, food poisoning, dysentery, and almost any acute bowel collapse short of the actual epidemic Asiatic cholera. Taylor had spent the afternoon of July 4 outdoors at the cornerstone ceremony for the Washington Monument, eaten raw cherries, and drunk iced milk; by July 5 he was vomiting. Five days later, his system was finished.
 
-![Fillmore signs the Fugitive Slave Act 1850 Compromise calculation - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Fillmore signs the Fugitive Slave Act 1850 Compromise calculation - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 In a boarding house on Pennsylvania Avenue, roughly half a mile away, Vice President Millard Fillmore was about to inherit a presidency, a constitutional crisis, and a question that the dying man upstairs had spent the entire summer refusing to answer. Henry Clay's omnibus compromise bill, which bundled California's admission as a non-slaveholding jurisdiction, Texas's western boundary, the New Mexico territorial question, the slave trade in the District of Columbia, and a strengthened federal fugitive-slave statute into a single legislative package, was stalled in the Senate. Taylor, a slaveholding Louisiana planter, had threatened to veto the omnibus. He had also threatened, in cabinet, to lead the army personally against any Southern state that talked secession. Fillmore, a cautious lawyer who had spent the summer presiding over a Senate that openly ignored his own administration, held the opposite view in private, and within nine weeks of Taylor's death he would convert that private view into federal law.
 

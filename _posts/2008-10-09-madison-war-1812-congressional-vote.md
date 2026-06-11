@@ -6,7 +6,7 @@ date: 2008-10-09
 categories: ["Leisure"]
 tags: ["james-madison", "decision-reconstruction", "us-presidents", "war-of-1812", "war-powers", "early-republic"]
 excerpt: "Madison presented his June 1812 war grievances as evidence for Congress to judge, not as a presidential demand. No successor has matched that restraint."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 56
 author: "chloe-martin"
 last_updated: 2008-10-09
@@ -16,7 +16,7 @@ On June 1, 1812, James Madison sent a message to Congress that asked for somethi
 
 What followed was seventeen days of genuine congressional deliberation, a divided House vote of 79 to 49, a Senate vote of 19 to 13 that nearly failed, and a regional split so severe that New England voted against hostilities with the nation whose navy was kidnapping American sailors off American ships. The War of 1812 is the closest the American republic has come to a constitutionally faithful declaration of war, and the reason it looks so unusual is that every president from James K. Polk forward abandoned Madison's model in favor of executive fait accompli.
 
-![Madison War of 1812 Congressional War Vote Decision - Insight Crunch](/assets/images/blog/blog-16.webp)
+![Madison War of 1812 Congressional War Vote Decision - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 This article reconstructs the decision Madison made on June 1, 1812, the seventeen days Congress took to respond, the regional fractures the vote exposed, and the rhetorical template Madison established that his successors dismantled. The namable claim is direct: Madison's 1812 war message is the constitutional baseline against which every subsequent presidential military request must be measured, and every subsequent military request has failed the comparison. Stagg calls it strategic calculation. Ketcham calls it constitutional fidelity. The evidence supports both readings simultaneously, which makes Madison's restraint more interesting, not less.
 

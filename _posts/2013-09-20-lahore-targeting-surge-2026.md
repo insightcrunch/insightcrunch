@@ -6,7 +6,7 @@ date: 2013-09-20
 categories: ["Industry"]
 tags: ["lahore", "targeting-surge", "2026", "amir-hamza", "shadow-war", "lashkar-e-taiba"]
 excerpt: "How Lahore, long considered impenetrable for senior terror leadership, became ground zero for the unprecedented 2026 wave of targeted eliminations in Pakistan."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2013-09-20
@@ -16,7 +16,7 @@ Until 2026, Lahore was the one city where Pakistan's most wanted felt safe. Kara
 
 <!--more-->
 
-![Lahore Targeting Surge 2026 - Insight Crunch](/assets/images/blog/blog-91.webp)
+![Lahore Targeting Surge 2026 - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The story of how Lahore, a city of over eleven million residents and home to the Pakistan Army's IV Corps headquarters, became the primary stage for the targeted elimination of senior terror figures is not simply a story of intelligence improvement. It is a story about the erosion of a guarantee. For decades, Lahore functioned as the one city where the overlap between state protection and militant infrastructure was so complete that operating against high-value targets there was considered too risky, too politically explosive, and too operationally complex. The 2021 car bomb near Hafiz Saeed's Johar Town residence was the [first crack in that wall](https://insightcrunch.com/2013/03/31/hafiz-saeed-lahore-car-bomb-2021/), a loud, destructive announcement that the campaign could reach the city. The May 2023 killing of Paramjit Singh Panjwar confirmed that it could kill in the city. And the two attacks on Amir Hamza, first at his residence in May 2025 and then near a television station in April 2026, proved that the campaign could target co-founder-level leadership in the heart of Lashkar-e-Taiba's own territory.
 

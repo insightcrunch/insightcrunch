@@ -6,7 +6,7 @@ date: 2014-09-01
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "National Parks", "Outdoors", "Hiking"]
 excerpt: "Yosemite waterfalls run on a snowmelt clock, so timing decides everything. Here is when each fall peaks, where to photograph it, and how to plan the firefall."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 68
 author: "amit-chatterjee"
 last_updated: 2014-09-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The single most important thing to understand about Yosemite waterfalls is that they are not a fixed attraction you can see on demand. They run on a meltwater schedule, swelling to a roar in late spring and shrinking, in some cases to a dark stain on the granite, by late summer. A traveler who arrives in May to a thundering Yosemite Falls and a traveler who arrives in late August to a silent cliff are looking at the same wall of rock and a completely different experience. The cataracts of Yosemite Valley are a timing decision before they are a sightseeing one, and the whole craft of seeing them well comes down to matching your visit to the water.
 
-![Yosemite waterfalls flow timing and the best viewpoints, a seasonal guide - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Yosemite waterfalls flow timing and the best viewpoints, a seasonal guide - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 This guide treats the falls the way a planner would: which drops are worth your hours, exactly when each one is at its best, where to stand to see and photograph each, and how to handle the famous Horsetail Fall firefall, the only fall in the park you build a whole trip around rather than stumble onto. The orientation for the park as a whole lives in the [complete Yosemite planning guide](/2014/06/01/yosemite-national-park-complete-guide/); here the subject is narrow and the payoff is precise. By the end you should be able to look at any week of the year and know what the water will be doing, which makes the difference between catching the show and arriving after the curtain has dropped.
 

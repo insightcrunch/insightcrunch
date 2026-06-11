@@ -5,7 +5,7 @@ date: 2009-05-10
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "College memories captured in a short, emotional piece: the days, the friendships, and everything that made those years impossible to forget."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 1
 author: "chloe-martin"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 A small but priceless piece of work by me ... to cherish all those lovely days spent together. It's as emotional as it could get.
 
-![College Memories](/assets/images/blog/blog-77.webp)
+![College Memories](/assets/images/blog/blog-103.webp)
 College Memories
 
 Read more: [Memories forever, college days »](https://insightcrunch.com/2009/05/13/memories-forever-college-days/)

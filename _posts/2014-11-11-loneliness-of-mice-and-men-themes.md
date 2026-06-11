@@ -9,14 +9,14 @@ categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "loneliness", "themes", "literary-analysis", "classic-literature"]
 excerpt: "Aloneness in Of Mice and Men is not existential tragedy but structural 1930s employment alienation with five distinct forms Steinbeck documents methodically."
 reading_time: 70
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-15.webp"
 lang: en
 ---
 Aloneness is the condition that every character in Of Mice and Men inhabits, and it is the condition that most popular interpretations of John Steinbeck's 1937 novella get fundamentally wrong. The standard classroom treatment presents aloneness as an existential universal, a timeless ache woven into the human condition that Steinbeck merely illustrates through Depression-era characters. That reading is comfortable, portable, and almost entirely disconnected from what Steinbeck actually wrote. The novella does not argue that people are lonely because aloneness is part of being human. It argues that specific people in specific 1930s California migratory-work conditions are lonely because specific social, economic, and institutional arrangements produce specific forms of exclusion with specific identifiable causes. The difference between those two readings is the difference between a meditation and an indictment, and Steinbeck intended the indictment.
 
 <!--more-->
 
-![Loneliness in Of Mice and Men Explained - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Loneliness in Of Mice and Men Explained - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The novella documents five concrete forms of systemic exclusion, each attached to a named character, each rooted in a distinct social mechanism. George articulates the general condition in Chapter 1 when he tells Lennie that ranch hands are the most solitary people alive, that they have no family, no place they belong to, and nothing ahead of them. Crooks demonstrates racial segregation in Chapter 4, confined to a separate room because agricultural society enforces a color line. Lennie embodies disability-related exclusion, unable to navigate communal environments without George's mediation because 1930s California offered nothing resembling adequate accommodation. Candy carries aged-and-injured exclusion, a man whose lost hand marks him for eventual disposal just as Carlson's shooting of his old dog prefigures his own fate. Curley's wife represents gender-based confinement, the only woman on the property, forbidden communal contact by her husband's jealousy and the workers' fear, never even granted a name. Each of these five isolations has a identifiable cause. None of them is existential. All of them are the consequence of arrangements that could, in principle, be different. That is the political content of the aloneness argument, and it is what the existential interpretation erases.
 

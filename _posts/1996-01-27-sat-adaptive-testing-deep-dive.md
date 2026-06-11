@@ -6,7 +6,7 @@ date: 1996-01-27
 categories: ["Industry"]
 tags: ["SAT", "Digital SAT", "Adaptive Testing", "Scoring", "Test Design"]
 excerpt: "SAT adaptive testing: how multistage adaptation works, how it differs from question-by-question CAT, and why equal correct counts can yield different scores."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 61
 author: "daniel-morgan"
 last_updated: 1996-01-27
@@ -14,7 +14,7 @@ lang: en
 ---
 Two students sit for the same digital SAT on the same morning. Both finish the Math section having answered the identical number of questions correctly. When the reports arrive, one carries a Math score in the high 700s and the other lands in the low 600s. Nothing was broken, nothing was scored unfairly, and no one was watching either of them more closely than the other. SAT adaptive testing produced that gap on purpose, because the two test-takers did not answer the *same* questions, and the questions they answered were not worth the same amount toward the final estimate of their ability. The mechanism that creates that outcome is the single most misunderstood feature of the modern exam, and understanding it changes how a thoughtful student prepares.
 
-![SAT adaptive testing multistage routing and difficulty-weighted scoring explained - Insight Crunch](/assets/images/blog/blog-48.webp)
+![SAT adaptive testing multistage routing and difficulty-weighted scoring explained - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 The fear in the room is almost always the same. Students imagine a machine quietly judging every keystroke, tightening the screws when they do well and toying with them when they slip, a kind of surveillance dressed up as a test. That picture is wrong in every important way, and the wrongness matters, because a student who believes the exam is an adversary plays defense against a system that is actually trying to measure them as precisely as possible with as few items as it can. The digital format is not a trap. It is a measurement instrument with a specific, documented design, and once you can see the design you stop flinching at it.
 

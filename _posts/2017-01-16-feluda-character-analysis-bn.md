@@ -6,7 +6,7 @@ date: 2017-01-16
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "ফেলুদার চরিত্রের সম্পূর্ণ বিশ্লেষণ। ভদ্রলোক নায়কের আদর্শ, মগজাস্ত্রের দর্শন, অবিবাহিত পরিচয়, এবং কেন এই বাঙালি গোয়েন্দা আজও আমাদের আয়না।"
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 114
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদা চরিত্রের গভীর বিশ্লেষণ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-37.webp)
+![ফেলুদা চরিত্রের গভীর বিশ্লেষণ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-73.webp)
 
 ## নাম, পরিচয়, ঠিকানা
 

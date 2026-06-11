@@ -6,7 +6,7 @@ date: 2018-04-23
 categories: ["Industry"]
 tags: ["global-response", "nuclear-war", "risk", "india-pakistan", "2025", "un"]
 excerpt: "How the world responded to the 2025 India-Pakistan conflict, from Malala Yousafzai's peace appeal to UN consultations and the global scramble for de-escalation."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 71
 author: "william-knight"
 last_updated: 2018-04-23
@@ -16,7 +16,7 @@ For four days in May, the planet watched two nuclear-armed states trade missiles
 
 <!--more-->
 
-![Global Response to the 2025 India-Pakistan Conflict - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Global Response to the 2025 India-Pakistan Conflict - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The terrified fascination was real, and it was justified. Antonio Guterres warned that the confrontation could "spin out of control." A Pakistani ambassador in Moscow raised the spectre of the full spectrum of national power, conventional and atomic alike. Indian officials briefed thirteen of the fifteen Security Council members on the legal basis for their strikes. Donald Trump posted a ceasefire announcement to Truth Social before either government had confirmed it. And through all of it ran a single uncomfortable truth that diplomats acknowledged privately even as they performed urgency in public: no outside actor held the leverage to force New Delhi or Islamabad to stop. The combatants stopped when they chose to stop, for reasons of their own, and the worldwide chorus of concern functioned less as a brake than as a soundtrack.
 

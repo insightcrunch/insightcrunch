@@ -6,7 +6,7 @@ date: 1997-07-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Triangles", "Trigonometry", "Unit Circle"]
 excerpt: "SAT right triangles and trig explained: Pythagorean triples, special triangles, SOH CAH TOA and the sin equals cos complementary rule, with worked examples."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 60
 author: "natalie-webb"
 last_updated: 1997-07-20
@@ -14,7 +14,7 @@ lang: en
 ---
 A test-taker who recognizes that a right triangle with legs of 9 and 12 has a hypotenuse of 15 spends three seconds on a question that costs the student beside them ninety. That gap is the entire subject of this guide. SAT right triangles reward recognition over calculation, and the readers who internalize a tiny set of patterns convert grinding arithmetic into instant recall. The Pythagorean theorem is real and it works every time, but on this exam it is frequently the slow road to an answer that a memorized triple hands you for free.
 
-![SAT right triangles, special triangles, and the unit circle with worked examples - Insight Crunch](/assets/images/blog/blog-16.webp)
+![SAT right triangles, special triangles, and the unit circle with worked examples - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 Here is what this guide gives a reader that a generic overview will not. You will leave able to spot the four common Pythagorean triples on sight, deploy the two special-triangle side relationships without re-deriving them, apply SOH CAH TOA to find either a missing length or a missing measure, and answer the single highest-value trigonometry item the Digital SAT asks: the complementary-angle relationship that makes the sine of one acute corner equal to the cosine of the other. Every claim below is anchored to how the assessment actually behaves, and every method is shown working on a fully solved problem, narrated the way a tutor sitting beside you would explain it.
 

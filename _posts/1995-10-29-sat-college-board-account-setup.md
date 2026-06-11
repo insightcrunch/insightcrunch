@@ -6,13 +6,13 @@ date: 1995-10-29
 categories: ["Industry"]
 tags: ["SAT", "College Board", "Account", "Score Reports", "Logistics"]
 excerpt: "Managing your College Board account: creating it, linking your school and Khan Academy, accessing scores, sending reports and reading your report, with the QAS."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "hannah-moore"
 last_updated: 2026-06-09
 lang: en
 ---
-![SAT College Board account setup, score reports, and the QAS guide - Insight Crunch](/assets/images/blog/blog-16.webp)
+![SAT College Board account setup, score reports, and the QAS guide - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The single most expensive mistake students make with the College Board account has nothing to do with answering questions wrong. It is leaving the Khan Academy link unclicked and the Question and Answer Service unordered, then wondering months later why the practice never targeted the right weaknesses and why a baffling score has no explanation behind it. Two checkboxes, both buried, both free or nearly so, both skipped by the majority of test-takers who treat the College Board account as a registration formality rather than the control panel for the entire testing process.
 

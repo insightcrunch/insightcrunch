@@ -6,7 +6,7 @@ date: 2023-04-17
 categories: ["Technology"]
 tags: ["Azure", "Managed Identity", "Identity", "Security", "DevOps", "Cloud Computing"]
 excerpt: "Set up managed identities in Azure the right way: choose the type, assign the identity, grant the least-privilege role, and select it correctly in code."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 63
 author: "benjamin-scott"
 last_updated: 2023-04-17
@@ -16,7 +16,7 @@ A managed identity that exists but cannot read a single secret is the most commo
 
 The reward for correct setup is concrete. The connection string with an embedded account key disappears from configuration. The certificate you used to rotate every ninety days stops being your problem. The credential that leaked in a public repository last year cannot leak again, because there is no credential to leak. What replaces all of it is a platform-issued token that Azure mints on demand, scoped to exactly the access you granted, tied to the lifecycle you chose. What breaks when the setup is wrong is equally concrete: the application authenticates fine and is still denied, because authentication and authorization are separate, and a managed identity setup that stops at authentication leaves the authorization half undone.
 
-![Set Up Managed Identities the Right Way](/assets/images/blog/blog-15.webp)
+![Set Up Managed Identities the Right Way](/assets/images/blog/blog-42.webp)
 
 This is the identity-then-role rule, and it is the single idea that turns a frustrating afternoon into a five-minute procedure. A managed identity becomes useful only after it is both assigned to a resource and granted the precise role on the target. Setup is therefore two steps wearing the disguise of one, and the missing role is the usual reason a correctly enabled identity still cannot do its job. Hold that rule through every section below and the failure modes stop being mysterious.
 

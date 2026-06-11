@@ -5,7 +5,7 @@ date: 2011-12-17
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today and employs 1000s of people globally The one of the best aspects of Amazon in the variety of..."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 9
 author: "ian-fletcher"
 last_updated: 2026-04-01
@@ -23,7 +23,7 @@ Amazon has a prominent presence and in various technology domains and it advance
 
 Let's learn about the different elements that makes getting a job at Amazon more difficult. Amazon has very high standards of quality and the technical rounds at Amazon are incredibly demanding. Also, Amazon's behavioral interviews has a variety of tricky questions that you need to prepare well ahead of time. Subscribe here and get access to hundreds of questions that you can expect in your Amazon interview. Amazon sets a very high bar when selecting candidates so that they can get the best person suited to do the job. Amazon is always looking for engineers, who has the aptitude to overcome challenging obstacles in the technology world. The technological sector is constantly evolving with new innovations every day. 
 
-![Is it hard to apply at Amazon](/assets/images/blog/blog-15.webp)
+![Is it hard to apply at Amazon](/assets/images/blog/blog-68.webp)
 Is it hard to apply at Amazon
 
 ## Amazon Skill Requirements

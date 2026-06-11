@@ -6,7 +6,7 @@ date: 2011-03-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Declaration of Principles", "Jedediah Leland", "Close Reading", "Themes", "Character Analysis"]
 excerpt: "The Declaration of Principles scene in Citizen Kane stages a promise built to break, and this close reading tracks how the film plants its own betrayal."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2011-03-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The Declaration of Principles scene in Citizen Kane lasts only a couple of minutes, yet it is the most precisely engineered time bomb in the picture. A young newspaperman, flushed with his first real triumph, sits down late at night and writes out a public vow: he will tell the news straight, and he will fight for the people who buy his paper. He believes every word. So does the friend standing over his shoulder, and that is exactly why the friend asks to keep the original page. This is a scene that knows its own ending before the story does. Everything Charles Foster Kane sets down in ink will be used against him, and the film makes sure we sense it the instant the document is born.
 
-![Citizen Kane: The Declaration of Principles Scene](/assets/images/blog/blog-92.webp)
+![Citizen Kane: The Declaration of Principles Scene](/assets/images/blog/blog-50.webp)
 
 What follows is a close reading of that single sequence: where it sits in the film, how it is staged and lit, what each man in the room is doing while the page fills up, why Jedediah Leland's quiet request is the hinge the whole scene turns on, and how the promise written here is broken in slow installments across the rest of Kane's life. The argument of this article is simple to state and harder to dismiss. The Declaration of Principles is the contract Kane signs with himself, and the film tracks him breaking it piece by piece until the page itself comes back, torn, to accuse him. Read this way, the scene stops being a tidy bit of exposition about a man's ideals and becomes the planted charge that the rest of Citizen Kane spends two hours detonating.
 

@@ -6,7 +6,7 @@ date: 1997-06-05
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Desmos", "Digital SAT", "Calculator Strategy"]
 excerpt: "SAT Desmos strategy with exact keystrokes: graphing, intersections, zeros, equivalence checks, inequalities, sliders and regression, plus a decision rule."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
 author: "christopher-wells"
 last_updated: 1997-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 A linear system that would cost you ninety seconds of careful elimination by hand becomes a fifteen-second click once you know the SAT Desmos workflow. A quadratic whose vertex you would otherwise complete the square to find appears on screen the moment you press enter. An "equivalent expressions" item that invites three minutes of factoring resolves the instant two graphs lie on top of each other. The graphing calculator built into the Digital SAT is not a convenience bolted onto the side of the math section. It is a second method available on every question, and for a large share of the algebra and the harder modeling items, it is the faster method by a wide margin. The students who walk out of the room with the highest scores are rarely the ones who computed the most by hand. They are the ones who knew, in advance and to the keystroke, what to type.
 
-![SAT Desmos calculator graphing intersections zeros and equivalence checks worked examples - Insight Crunch](/assets/images/blog/blog-33.webp)
+![SAT Desmos calculator graphing intersections zeros and equivalence checks worked examples - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 This page is the manual nobody hands you. It documents, technique by technique and entry by entry, exactly what to type into the embedded calculator and exactly which question type each move solves. It gives you the one rule that separates the problems you should graph from the problems you should solve with a pencil, so that the tool saves time instead of stealing it. And it ends with a worked tour of more than a dozen scenarios, each shown with the precise on-screen entry, so that you can reproduce every one before test day rather than discovering the feature for the first time under a timer. The promise is narrow and specific: by the end you will not merely know that the calculator can graph things. You will know what to type, when to type it, and when to leave it alone.
 

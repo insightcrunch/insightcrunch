@@ -6,7 +6,7 @@ date: 2015-02-24
 categories: ["Leisure"]
 tags: ["parents", "children", "family", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "Classic novels build parent-child bonds from structural forms - protection, failure, inheritance, tyranny - and each form determines what children become."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
 author: "sarah-mitchell"
 last_updated: 2015-02-24
@@ -16,7 +16,7 @@ Parent-child relationships in classic literature are typically catalogued rather
 
 <!--more-->
 
-![Parents and Children in Classic Literature - Insight Crunch](/assets/images/blog/blog-23.webp)
+![Parents and Children in Classic Literature - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The argument advanced here is that parent-child relationships in classic fiction should be taught through a structural-forms typology rather than through pair-by-pair cataloguing. The typology proposed identifies six forms: protective fatherhood, inadequate motherhood with instrumental daughters, absent-benefactor shadow-parenthood, maternal devotion under duress, paternal tyranny, and adoptive-chosen parenthood. Each form produces a specific developmental effect on the child, and the correspondence between form and effect is the analytical content that comparative reading recovers. The six novels examined are Harper Lee's To Kill a Mockingbird, Jane Austen's Pride and Prejudice, Charles Dickens's Great Expectations and David Copperfield, John Steinbeck's The Grapes of Wrath, and George Eliot's Silas Marner. The scholarly framework draws on John Bowlby's attachment theory, Nancy Armstrong's analysis of domesticity and fiction, Claudia Durst Johnson's Mockingbird scholarship, and Donald Winnicott's concept of the good enough parent. The comparative grid that emerges from this reading demonstrates that classic novelists were not simply depicting family life. They were constructing analytical instruments for understanding how specific relational structures shape human formation.
 

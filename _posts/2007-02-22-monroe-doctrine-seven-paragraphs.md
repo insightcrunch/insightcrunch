@@ -6,7 +6,7 @@ date: 2007-02-22
 categories: ["Leisure"]
 tags: ["james-monroe", "close-read", "us-presidents", "american-history", "monroe-doctrine", "john-quincy-adams", "foreign-policy-doctrine"]
 excerpt: "Seven paragraphs buried in Monroe 1823 annual message became a doctrine: Adams wrote the principles, Monroe signed them, and an empire later grew from it."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 74
 author: "chloe-martin"
 last_updated: 2026-06-02
@@ -14,7 +14,7 @@ lang: en
 ---
 On the morning of December 2, 1823, a clerk of the House of Representatives unrolled a long manuscript and began to read aloud. The document was President James Monroe's seventh annual message to Congress, a sprawling state-of-the-nation report that ran through the condition of the Treasury, the progress of coastal fortifications, the suppression of piracy in the West Indies, the status of treaty negotiations with several powers, and the steady retirement of the national debt. Members listened the way legislators have always listened to such reports, which is to say with the patient half-attention of men waiting for the parts that touch their own committees. Nothing in the room signaled that two passages of that message, separated from each other by thousands of words of fiscal and administrative detail, would still be shaping the conduct of the United States in the second half of the twentieth century.
 
-![Monroe Doctrine 1823 seven paragraphs annual message close read - Insight Crunch](/assets/images/blog/blog-44.webp)
+![Monroe Doctrine 1823 seven paragraphs annual message close read - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The passages were not labeled. They carried no heading, no title, no rhetorical drumroll. The phrase "Monroe Doctrine" did not exist in 1823 and would not be coined for roughly three decades. What the message contained, scattered rather than gathered, was a set of claims about the relationship between the Western Hemisphere and Europe that later generations would treat as a single text and a single act of statecraft. Reading them now, with the knowledge of everything that followed, produces a strange double vision. The words are modest, defensive, hedged with qualifications. The uses to which they were eventually put were anything but. The distance between what Monroe's message said in 1823 and what the United States claimed it had said by 1904 is the real subject of any honest close read, and it is a distance that almost no popular account bothers to measure.
 

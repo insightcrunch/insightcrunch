@@ -6,7 +6,7 @@ date: 2022-04-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "class", "power", "two-households-romeo-and-juliet"]
 excerpt: "Romeo and Juliet calls its two houses alike in dignity, but the play is layered with class, from brawling servants to a poor apothecary and a failing Prince."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2022-04-22
@@ -14,7 +14,7 @@ lang: en
 ---
 The Chorus says it in the sixth word of the play. "Two households, both alike in dignity," the Prologue announces, and most readers hear only the word that flatters the lovers: dignity. They take the line as a frame for romance, a polite throat-clearing before the real business of moonlight and balconies begins. Yet that opening clause is a precise social claim, and it is doing colder work than it looks. To say the Montagues and the Capulets are alike in dignity is to fix their rank relative to each other, not to flatter either. Verona contains a great deal more than two equal families. It contains the servingmen who load the first scene with weapons and filthy jokes, a nurse who has suckled the heroine and still answers a bell, a kinsman of the Prince who comes shopping for a wife, a civic ruler who issues three edicts and stops nothing, and, in a back street of Mantua, a starving druggist who sells a forbidden drug because hunger leaves him no other answer. The postcard version of this tragedy erases all of them. It keeps a boy, a girl, and a balcony, and discards the society that built the balcony and decides who may stand beneath it.
 
-![Verona social hierarchy from servants to the Prince - power and class in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-71.webp)
+![Verona social hierarchy from servants to the Prince - power and class in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 This article argues that the tragedy is, among other things, a study of a social order, and that the order is legible the moment one stops reading the feud as a private quarrel and starts reading it as a structure. The quarrel happens among peers, which is exactly why it is so dangerous: nothing above the two houses can master them, and a good deal below them is dragged into the fire. The play maps a whole ladder of station, from the men who carry coals to the prince who carries the law, and it marks each rung in the most concrete instrument a dramatist has, the difference between verse and prose. Restore that ladder and the work stops being a sentimental ballad and becomes what the cultural materialists of the 1980s insisted it was, a drama about authority and its failure. The thesis here is blunt: in this Verona, rank governs speech, speech governs power, and the love story is the thing that snaps when the social machine seizes.
 

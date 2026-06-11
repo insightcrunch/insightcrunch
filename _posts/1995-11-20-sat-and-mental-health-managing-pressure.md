@@ -6,7 +6,7 @@ date: 1995-11-20
 categories: ["Industry"]
 tags: ["SAT", "Mental Health", "Test Anxiety", "Wellbeing", "Support"]
 excerpt: "SAT and mental health: normalizing some test anxiety, reframing the test's importance, recognizing when pressure becomes harmful, and where to find support."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
 author: "hannah-moore"
 last_updated: 2026-06-09
@@ -14,7 +14,7 @@ lang: en
 ---
 The night before a test, a lot of students lie awake running the same loop. The chest feels tight. The mind rehearses the worst version of the morning, the blank screen, the clock, the question that will not resolve. By the time the alarm goes off, the body is already tired from a fight that never happened. If that sounds familiar, you are not broken and you are not alone, and the first thing worth saying plainly is that some of what you are feeling is the most ordinary thing in the world. A pounding heart before something that matters is your body taking the morning seriously. The problem is never that you feel something. The problem is when the feeling grows large enough to crowd out sleep, focus, and the parts of your life that have nothing to do with a college entrance exam.
 
-![SAT and mental health managing test pressure for teenagers wellbeing toolkit - Insight Crunch](/assets/images/blog/blog-92.webp)
+![SAT and mental health managing test pressure for teenagers wellbeing toolkit - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Most advice about nerves and high-stakes assessments stops at two words: relax, breathe. That advice is not wrong, but it is so thin that it can make a worried person feel worse, as if the solution were obvious and they were simply failing at it. This guide takes a different route. It treats your nerves as information rather than a defect, separates the ordinary apprehension that almost every test-taker carries from the kind of strain that deserves real support, and gives you a concrete toolkit you can actually use: a way to think about what this exam is and is not, a set of reframing statements that hold up under pressure, a short list of habits that move the needle on how you feel, and a clear, honest guide to recognizing when the load has become too heavy and where to turn when it has. The phrase to keep in front of you is the series thesis applied to your wellbeing: the SAT is an improvable skills test, not a verdict on who you are, and keeping it in proportion protects both your mind and your performance at the same time. You do not have to choose between caring about your future and protecting your peace. The most grounded students do both, and they tend to score better for it.
 

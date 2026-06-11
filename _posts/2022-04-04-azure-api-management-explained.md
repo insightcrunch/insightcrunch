@@ -6,7 +6,7 @@ date: 2022-04-04
 categories: ["Technology"]
 tags: ["Azure", "API Management", "Architecture", "Security", "Cloud Computing"]
 excerpt: "Azure API Management explained: the gateway, the four-stage policy pipeline, the five tiers, subscription keys versus OAuth, and how to diagnose its errors."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "ian-fletcher"
 last_updated: 2022-04-04
@@ -16,7 +16,7 @@ The fastest way to lose a day to Azure API Management is to assume that the erro
 
 That skill is learnable, and it is the entire point of this guide. API Management is not a black box that "handles APIs." It is three distinct things bolted together: a gateway that sits in the request path, a management plane that configures it, and a developer portal that documents it for consumers. The behavior that surprises people, the throttling that appears out of nowhere, the token that gets rejected before the app sees it, the response that arrives transformed, all of it follows from a single mechanism: the policy pipeline. Learn the pipeline and you can reason about where a request is authenticated, rate-limited, rewritten, cached, and routed, instead of guessing.
 
-![Azure API Management policy pipeline and gateway architecture explained - Insight Crunch](/assets/images/blog/blog-62.webp)
+![Azure API Management policy pipeline and gateway architecture explained - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 This is a service deep dive, so the goal is not a tour of buttons in the portal. The goal is the mental model an engineer needs to design with the service on purpose: the components and what each owns, the four-stage pipeline and the scopes it runs across, the difference between identifying a caller and authenticating one, the five pricing tiers and the single capability that forces most upgrades, and the failure modes that look like backend problems but are not. By the end you should be able to place any new requirement, validate a token, throttle a noisy consumer, cache an expensive response, rewrite a header, in the correct stage of the pipeline without trial and error.
 

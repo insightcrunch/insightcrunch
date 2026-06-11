@@ -5,7 +5,7 @@ date: 2016-10-19
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "Oracle Data Integrator provides multiple features to automate almost all manual data extraction and transformation related activities. One such scenario..."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 3
 author: "thomas-reid"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Oracle Data Integrator provides multiple features to automate almost all manual data extraction and transformation related activities. One such scenario is using Smart View to manually fetch data from the Essbase cubes, maybe weekly or monthly. Often such cases require changing the values of time dimension over the entire scope of the template (maybe to different values for current year and last year, or current month and last month, in adjacent columns, etc) and then retrieve the data to meet our needs. So it might become time-consuming and prone to manual errors.
 
-![ODI Automation of Smart View Manual Activities](/assets/images/blog/blog-36.webp)
+![ODI Automation of Smart View Manual Activities](/assets/images/blog/blog-05.webp)
 ODI Automation of Smart View Manual Activities
 
 This is where ODI comes really handy with the KM called **LKM Hyperion Essbase DATA to SQL**. First we need to create our report script (say X.rep) within Essbase to fetch the data we require. This report script is the first layer of data extraction and must include all the relevant information and records. It might not necessarily be formatted exactly as per requirement but should extract all the data for the next processes to act on this retrieved data.

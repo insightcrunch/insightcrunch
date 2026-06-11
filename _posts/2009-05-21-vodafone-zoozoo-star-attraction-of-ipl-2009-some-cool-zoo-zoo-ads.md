@@ -5,7 +5,7 @@ date: 2009-05-21
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Vodafone ZooZoo ads from IPL 2009: the cute alien-like characters that grabbed as much attention as the cricket tournament itself. Best ads compiled."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Not a single person can deny of having not yet seen these cute creatures during the IPL 2009 .. they grabbed as much attention as the tournament itself !! Extremely nice concept and timing to start off with the ads, this idea has extremely impressed me, though the concept might seem to be childish apparently. Some behind the scenes cool pics I got while surfing are here.
 
-![IPL Photo](/assets/images/blog/blog-61.webp)
+![IPL Photo](/assets/images/blog/blog-58.webp)
 IPL Photo
 
 Read more: [Wolframalpha search: Threat to Google? »](https://insightcrunch.com/2009/05/21/wolframalpha-search-threat-to-google/)

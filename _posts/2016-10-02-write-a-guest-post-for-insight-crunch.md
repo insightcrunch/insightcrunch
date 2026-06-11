@@ -5,7 +5,7 @@ date: 2016-10-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Insight Crunch is the most happening place for discussions and information on the IT sector, the latest technology, and the gadgets that emerge. This site..."
-image: "/assets/images/blog/blog-94.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 2
 author: "amanda-ross"
 last_updated: 2026-04-01
@@ -33,5 +33,5 @@ I am looking for creative articles on various IT work cultures, exam experiences
 
 Once you are ready with your article, upload your story above for me to review. You can be completely anonymous, or use a pseudo name. Or, you can also add links to your social media profiles if you want so that people can learn more about you.
 
-![Guest Post for Insight Crunch](/assets/images/blog/blog-94.webp)
+![Guest Post for Insight Crunch](/assets/images/blog/blog-85.webp)
 Guest Post for Insight Crunch

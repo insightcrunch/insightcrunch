@@ -6,7 +6,7 @@ date: 1995-11-29
 categories: ["Industry"]
 tags: ["SAT", "Equity", "Fairness", "Access", "Test Prep", "College Admissions"]
 excerpt: "SAT and equity: the fairness debate presented even-handedly, the score gaps and their causes, the arguments for and against, and the researcher middle ground."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 59
 author: "michael-brooks"
 last_updated: 2026-06-09
@@ -16,7 +16,7 @@ Ask whether the SAT is fair and you will get a fight, not an answer. One side tr
 
 This guide does something less satisfying and more useful: it refuses to settle it in a paragraph. The fairness question is genuinely contested among the people who study it for a living, and the honest service is to hand you each side's strongest version rather than a slogan dressed as a conclusion. You will find the documented gaps laid out plainly, the competing explanations for why those gaps exist, the best case the testing defenders make, the best case the critics make, and the measured middle ground that most education researchers actually occupy once the rhetoric burns off. Every figure here is dated and flagged, because demographic score data shifts as policy, participation, and the format itself change, and a number stated as a permanent fact is the fastest way to mislead.
 
-![SAT equity and fairness debate, score gaps, causes, and the researcher middle ground - Insight Crunch](/assets/images/blog/blog-04.webp)
+![SAT equity and fairness debate, score gaps, causes, and the researcher middle ground - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 What you can do after reading is the point. You will be able to tell the difference between a gap that exists and a gap caused by a biased test, two claims that sound identical and mean very different things. You will be able to read an equity statistic critically instead of absorbing it as a headline. You will be able to hold the for-and-against argument map in your head and decide, for your own situation, what weight to give a score you are about to submit or withhold. That is a sharper tool than a verdict, and it survives the next time the data moves.
 

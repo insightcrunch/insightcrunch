@@ -6,7 +6,7 @@ date: 2007-04-24
 categories: ["Leisure"]
 tags: ["john-f-kennedy", "myth-bust", "us-presidents", "american-history", "boston-irish", "chowder-and-marching-club"]
 excerpt: "The Chowder and Marching Club was a 1949 Republican group JFK never joined. His rise ran on Joe Kennedy's money, PT-109 heroism, and the national party."
-image: "/assets/images/blog/blog-64.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2026-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 On a Wednesday evening in the spring of 1949, fifteen young Republican congressmen crowded into a House office after the legislative day ended and decided to make trouble. Their target was a pension bill that would have sent ninety dollars a month to aging veterans of the two world wars, a measure pushed by the autocratic chairman of the Veterans' Affairs Committee, John Rankin of Mississippi. The freshmen thought the price tag reckless. They organized, whipped votes, and helped sink the Rankin bill by a single ballot. Out of that small insurgency came a dining society they named, with deliberate self-mockery, the Chowder and Marching Club. Its charter members included a lean, intense Californian named Richard Nixon and a genial Michigan lineman named Gerald Ford, both of whom would later reach the White House. The club met for decades. It welded friendships, traded strategy, and groomed talent.
 
-![JFK Boston Irish chowder club myth versus the real 1946 to 1960 power base of money and war heroism - Insight Crunch](/assets/images/blog/blog-64.webp)
+![JFK Boston Irish chowder club myth versus the real 1946 to 1960 power base of money and war heroism - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 John Fitzgerald Kennedy was not in that room. He was never a member of the Chowder and Marching Club. He could not have been, because the club admitted only Republicans, and Kennedy was a Democrat representing a working-class Boston district he had won three years earlier. The most durable single image in the popular memory of how the first Irish Catholic president clawed his way up, the picture of a smoky Boston-Irish chowder society greasing the wheels of his career, attaches a Republican congressional caucus to a Democrat who had nothing to do with it. That misattribution is the smallest error in the larger myth, and it is the thread that, when pulled, unravels the whole garment.
 

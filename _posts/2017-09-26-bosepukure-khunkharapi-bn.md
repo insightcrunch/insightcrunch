@@ -6,7 +6,7 @@ date: 2017-09-26
 categories: ["Leisure"]
 tags: ["feluda", "bosepukure-khunkharapi", "satyajit-ray", "para", "twenty-nine"]
 excerpt: "বোসপুকুরে খুনখারাপি গল্পের সম্পূর্ণ বিশ্লেষণ। কলকাতার পাড়া-সংস্কৃতি, ঊনত্রিশ তাসের আসর, হরিপদ দত্তের পুনরাগমন, ফেলুদার ছদ্মবেশ, এবং শোনা ও অংশীদারিত্বের থিম।"
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 110
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![বোসপুকুরে খুনখারাপি: পাড়া, তাসের আসর, ও ছদ্মবেশ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-100.webp)
+![বোসপুকুরে খুনখারাপি: পাড়া, তাসের আসর, ও ছদ্মবেশ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-40.webp)
 
 ## প্রকাশনার প্রসঙ্গ
 

@@ -6,7 +6,7 @@ date: 2006-12-07
 categories: ["Leisure"]
 tags: ["us-presidents", "institutional-biography", "american-history", "presidential-pardon", "article-ii-section-2", "executive-clemency"]
 excerpt: "Article II Section 2 hands presidents near-unlimited pardon power. Washington used it on whiskey rebels, Clinton on Marc Rich, and the norm only widened."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2026-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 On the morning of January 20, 2001, in the final hours before George W. Bush took the oath on the Capitol steps, William Jefferson Clinton sat in the White House signing clemency grants. The pen moved across one hundred and forty names. Among them, near the bottom of a list that aides had assembled in a scramble of late-night phone calls and faxes from defense lawyers, was a fugitive commodities trader named Marc Rich. Rich had fled to Switzerland in 1983 rather than face a sixty-five-count federal indictment for tax evasion, racketeering, and oil trades with Iran during the hostage crisis. He had spent seventeen years on the run. He had never stood trial. And in the span of a signature, the forty-second president erased the legal jeopardy of a man most of the Justice Department had never been consulted about.
 
-![Presidential pardon institutional history Washington whiskey rebels to Clinton Marc Rich - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Presidential pardon institutional history Washington whiskey rebels to Clinton Marc Rich - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The reaction was immediate and bipartisan in its disgust. Jimmy Carter, a fellow Democrat, called the Rich pardon disgraceful. Congressional committees opened investigations. Federal prosecutors in the Southern District of New York, the office that had built the case against Rich, began examining whether the grant itself broke any laws. It did not, and that was the point that should have unsettled everyone. The pardon of Marc Rich was constitutional. It was, by the plain text of the document that governs the office, entirely within the president's authority. A man could buy nothing from the Treasury, command no army on his own say-so, and appoint no judge without the Senate. But he could, on his last morning in office, with no review, no appeal, and no obligation to explain himself, lift a federal indictment off a fugitive whose ex-wife had given more than a million dollars to Democratic causes and the Clinton library fund.
 

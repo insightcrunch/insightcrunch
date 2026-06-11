@@ -6,7 +6,7 @@ date: 2010-01-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Narrative Structure", "Close Reading", "Film History", "Themes"]
 excerpt: "Citizen Kane plot and structure explained: a frame story, five narrators, and a scrambled timeline that builds Kane from fragments that never resolve."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 59
 author: "chloe-martin"
 last_updated: 2010-01-15
@@ -16,7 +16,7 @@ lang: en
 
 The Citizen Kane plot and structure are not the same thing, and confusing the two is the single most common mistake a first-time viewer makes. The events of the film can be summarized in a paragraph: a fabulously rich newspaper publisher dies alone in a half-finished palace, whispering one word, and a reporter spends the rest of the picture trying to find out what that word means. That is the story. It would make a forgettable melodrama if it were told straight. What turns a simple rise-and-fall biography into the most analyzed motion picture of the twentieth century is the design that carries it: a frame wrapped around five witnesses, a chronology shattered on purpose, and a final answer that the characters inside the film never hear.
 
-![Citizen Kane plot and structure explained](/assets/images/blog/blog-57.webp)
+![Citizen Kane plot and structure explained](/assets/images/blog/blog-97.webp)
 
 Read passively, the film tells you that Rosebud was a sled and that wealth cannot buy love. Read closely, it tells you something far harder and far more interesting: that a human life cannot be reassembled from the outside, no matter how many people you interview or how much money you spend building a monument to yourself. The arrangement of the scenes is what makes that argument, and once you can see the arrangement, you can never watch the film as a simple mystery again. This guide takes you through the whole architecture, segment by segment, and shows you how each piece of the design does a job that the plot alone could not do.
 

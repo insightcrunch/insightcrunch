@@ -6,7 +6,7 @@ date: 2008-01-07
 categories: ["Leisure"]
 tags: ["richard-nixon", "counterfactual", "us-presidents", "watergate", "white-house-tapes", "executive-privilege"]
 excerpt: "Nixon had one week in July 1973 to destroy the tapes before subpoenas forced executive privilege. He kept them. Three historians argue what that choice cost."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 64
 author: "amanda-ross"
 last_updated: 2008-01-07
@@ -16,7 +16,7 @@ lang: en
 
 On the afternoon of Monday, July 16, 1973, a forty-seven-year-old former Air Force colonel named Alexander Butterfield sat down in front of the Senate Select Committee on Presidential Campaign Activities and answered a question that nobody in the public room had been told to expect. Senator Howard Baker's minority counsel, Fred Thompson, asked Butterfield whether any kind of recording system existed in the Oval Office. Butterfield, who had served as deputy assistant to the president and the person responsible for the system's day-to-day management, said yes. He said the system covered the Oval Office, the Cabinet Room, the president's hideaway office in the Executive Office Building, and the telephone lines in both locations. He said it had been operating since February 1971. He said the president had not been informed in advance that this committee would ask the question, which meant Richard Nixon was about to learn from the wire services that the largest single piece of evidence in his presidency had been exposed.
 
-![Nixon white house tapes counterfactual decision July 1973 - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Nixon white house tapes counterfactual decision July 1973 - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 What followed has been studied frame by frame. The special prosecutor, Archibald Cox, served a subpoena for nine recordings on July 18. The Senate committee served its own subpoena on July 23. The president asserted executive privilege on July 25 and refused to produce anything. The legal battle ran fourteen months through the District Court, the D.C. Circuit, and finally a unanimous Supreme Court in United States v. Nixon on July 24, 1974. Two weeks later, the so-called smoking gun recording of a June 23, 1972 conversation between the president and his chief of staff was released, and within five days the presidency ended. The recordings were the spine of every consequential development from July 1973 through August 1974. Without them, the bones of the case would have had nothing to hang on.
 

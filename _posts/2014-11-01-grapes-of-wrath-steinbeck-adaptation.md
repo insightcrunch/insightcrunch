@@ -6,7 +6,7 @@ date: 2014-11-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Grapes of Wrath", "John Ford", "Adaptations", "Cinematography", "Film History"]
 excerpt: "The Grapes of Wrath turned Steinbeck's Dust Bowl novel into composed beauty, reordering its episodes and softening its politics while keeping the anger."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2014-11-01
@@ -14,7 +14,7 @@ lang: en
 ---
 When a studio buys a furious book, the first question is never whether to change it but how much, and which direction the changes will push. The Grapes of Wrath, John Ford's 1940 adaptation of John Steinbeck's Dust Bowl novel, answers that question with a single structural decision that reorganizes the entire emotional arc of the story. The book moves its migrant family from the safety of a clean government camp into the violence of a strikebreaking fruit ranch, ending on an image of bare survival. The film flips that order. The Joads pass through the brutality of the ranch first and arrive at the government camp second, so the last large movement of the picture is toward shelter rather than away from it. That reversal, more than any cut line or trimmed episode, is the adaptation's governing act, and everything a student of adaptation needs to understand about the film follows from it.
 
-![How The Grapes of Wrath adapted Steinbeck, reordered the novel, and changed the ending, an analysis - Insight Crunch](/assets/images/blog/blog-07.webp)
+![How The Grapes of Wrath adapted Steinbeck, reordered the novel, and changed the ending, an analysis - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The useful way to study this film is not to score its fidelity against the book like a teacher marking a paper. Fidelity is the least interesting question an adaptation raises. The productive question is what the changes reveal: about what Hollywood could say and could not say in 1940, about the difference between a novelist's tools and a director's, and about how a story of rural poverty gets routed through studio craft into something closer to composed beauty than to rough document. The central claim of this analysis is that Ford and his screenwriter Nunnally Johnson made what is best described as a softened-spine adaptation. They kept Steinbeck's anger in the images, in the faces and the silhouettes and the long road, while blunting his politics in the ending and in the dialogue. The gap between those two impulses is the most instructive thing about the film, and it is visible, scene by scene, to anyone who knows where to look.
 

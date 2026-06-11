@@ -6,7 +6,7 @@ date: 2007-11-30
 categories: ["Leisure"]
 tags: ["al-gore", "counterfactual", "us-presidents", "2000-election", "september-11", "climate-policy"]
 excerpt: "Gore won the popular vote by 540,000 in 2000 but lost Florida by just 537 ballots. What if those votes had flipped? The 9/11 decade reshapes under Gore."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 56
 author: "amanda-ross"
 last_updated: 2026-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 Five hundred and thirty-seven ballots, out of nearly six million cast in Florida, separated Al Gore from the presidency on the night of November 7, 2000. The popular-vote tally nationwide gave Gore roughly 540,000 more votes than George W. Bush. The Electoral College, after thirty-six days of recounts, lawsuits, and the December 12 Supreme Court ruling in Bush v. Gore, gave Bush 271 electors to Gore's 266. The historical question this article runs is not whether the Florida outcome was correctly adjudicated. That dispute has been ground over for a generation by lawyers, journalists, and partisans, and the legal record is closed. The question here is narrower and more useful: if those 537 ballots had broken the other way, and Al Gore had been inaugurated on January 20, 2001, what does the decade look like?
 
-![Al Gore counterfactual 2000 election - Insight Crunch](/assets/images/blog/blog-68.webp)
+![Al Gore counterfactual 2000 election - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The temptation in any counterfactual is to load every wish onto the alternative path. A Gore presidency in 2001 becomes, in undisciplined hands, a climate-saving, Iraq-avoiding, financial-crisis-preventing utopia projected backward through wishful thinking. That is not the work this article does. The work is to take Gore as he actually existed in 2000, with his Senate voting record on Iraq, his vice presidency, his climate book, his hawkish Bosnia and Kosovo record, and his 1991 Gulf War authorization vote, and project that political figure into the years 2001 through 2009 using the disciplined readings of four serious historians who have argued the counterfactual on the record. Michael Beschloss, Bob Woodward, George Packer, and Michael Gerson have each produced versions of what a Gore administration would and would not have done. They disagree in instructive ways. Naming the disagreement and adjudicating it is the discipline.
 

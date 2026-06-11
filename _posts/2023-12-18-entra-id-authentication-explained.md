@@ -6,7 +6,7 @@ date: 2023-12-18
 categories: ["Technology"]
 tags: ["Azure", "Microsoft Entra ID", "Authentication", "Identity", "Security", "OAuth"]
 excerpt: "Entra ID authentication explained: the sign-in pipeline, OAuth and OIDC flows, ID versus access tokens, SSO, federation, MFA, and Conditional Access gating."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 61
 author: "marcus-hall"
 last_updated: 2023-12-18
@@ -14,7 +14,7 @@ lang: en
 ---
 Almost every Azure incident that reaches a security review eventually traces back to a sentence that begins "the app was authenticated, so we assumed." A user signed in, a token was present, a call went through, and somewhere along that path a decision was made on the strength of the wrong proof. An ID token was forwarded to an API as though it were a key. An access token was inspected for the user's name and trusted as evidence of who was on the other end. A refresh token sat in a log file long enough for someone to find it. None of these are exotic attacks. They are the ordinary result of treating authentication as a single binary event rather than as a pipeline that produces several different artifacts, each meant for a single purpose.
 
-![Microsoft Entra ID Authentication Explained - Insight Crunch](/assets/images/blog/blog-78.webp)
+![Microsoft Entra ID Authentication Explained - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 Microsoft Entra ID authentication is that pipeline. When a user opens an application, or when a background service wakes up to call an API, a sequence of steps runs that establishes who the caller is, decides whether the sign-in is allowed under the current policy, and then hands back a set of tokens that say different things to different parties. Understanding authentication in Entra ID means understanding that sequence well enough to place any sign-in problem, any token rejection, and any unexpected prompt on a specific point in the path. The reader who can do that stops guessing. They can look at a failed call and say, with confidence, that the failure is an audience mismatch and not a permissions problem, or that the prompt is Conditional Access asking for a second factor and not a broken credential.
 

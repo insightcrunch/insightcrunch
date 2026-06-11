@@ -6,7 +6,7 @@ date: 2003-01-11
 categories: ["Industry"]
 tags: ["UPSC", "Modern Indian History", "UPSC Prelims", "Indian Freedom Struggle", "IAS Preparation", "Prelims Strategy"]
 excerpt: "Master modern Indian history for UPSC Prelims with freedom struggle, reform movements, constitutional development and PYQ analysis."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 59
 author: "anita-das"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ This gap between the narrative approach that most coaching materials adopt and t
 
 This article is your comprehensive, self-contained manual for modern Indian history as tested in UPSC Prelims. It maps every major topic to its examination frequency, decodes the analytical frameworks that distinguish high scorers from average performers, covers the socio-religious reform movements and tribal uprisings that UPSC finds most testable, traces the constitutional evolution from the Regulating Act of 1773 to the Indian Independence Act of 1947, and provides a structured study plan that ensures you cover this vast period systematically within a realistic time frame.
 
-![UPSC Prelims Modern Indian History Strategy and Study Plan - Insight Crunch](/assets/images/blog/blog-59.webp)
+![UPSC Prelims Modern Indian History Strategy and Study Plan - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## Why Modern Indian History Dominates UPSC Prelims
 

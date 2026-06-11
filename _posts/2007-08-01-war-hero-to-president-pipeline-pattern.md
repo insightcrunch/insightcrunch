@@ -6,7 +6,7 @@ date: 2007-08-01
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "war-heroes", "military-presidents", "presidential-pathways"]
 excerpt: "Washington, Jackson, Harrison, Taylor, Grant, Hayes, Garfield, B. Harrison, TR, Eisenhower. Ten war-hero presidents across two centuries. Most failed."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2026-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 The American voter has a soft spot for the soldier. Washington, Jackson, William Henry Harrison, Zachary Taylor, Franklin Pierce, Ulysses Grant, Rutherford Hayes, James Garfield, Benjamin Harrison, Theodore Roosevelt, Dwight Eisenhower. Eleven uniformed officeholders across one hundred sixty-three years of American politics, by the most generous count. Three governed well. Two were killed by their offices before anyone could find out. The remaining six produced presidencies that ran the spectrum from mediocre on a kindly read to catastrophic on a fair one. Eight of the eleven won their elections decisively, which is the appeal that keeps party strategists reaching for the laurels. Three of the eleven left the office in better shape than they found it. That gap, between the electoral payoff and the governing payoff, is the central paradox of what historians call the soldier-statesman pathway, and it is the puzzle this article sets out to test.
 
-![The War-Hero-to-President Pipeline Pattern Across American History - Insight Crunch](/assets/images/blog/blog-66.webp)
+![The War-Hero-to-President Pipeline Pattern Across American History - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 The pathway has been so dominant in American political memory that the failures get edited out of the story. Most Americans, if asked to free-associate on military officers who became chief executives, will name Washington and Eisenhower and stop. The list above shows what falls out of view in that abbreviation: a one-month tenure that ended in a Whitehouse death from pneumonia, a sixteen-month Mexican-American campaign veteran killed by cholera or possibly arsenic-laced cherries, a one-term scandal-shadow following a disputed 1876 settlement, a six-month tenure ended by an assassin's bullet, a one-term loser to the man he had himself unseated four years earlier, and the brigadier from New Hampshire whose four years in office produced the Kansas-Nebraska Act and the dissolution of the second party system. The pathway worked at the polls. It produced a record of governance that, taken honestly, is among the worst track records of any consistent pathway to the office. This piece works through the eleven cases in turn, then runs the audit table, then asks the structural question Stephen Skowronek and Fred Greenstein have framed for decades: does battlefield command actually transfer to civilian executive operation, or does the country keep electing people for one set of skills and then asking them to use a different set?
 

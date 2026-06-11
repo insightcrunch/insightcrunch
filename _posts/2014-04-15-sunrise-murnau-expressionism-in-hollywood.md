@@ -6,7 +6,7 @@ date: 2014-04-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Sunrise", "F.W. Murnau", "German Expressionism", "Film History", "World Cinema", "Cinematography"]
 excerpt: "Sunrise (1927) carried German Expressionism into a Hollywood studio. A close reading of Murnau's craft, its movement roots, and global contemporaries."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2014-04-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A movement is supposed to belong to a place. We say German Expressionism the way we say Italian Neorealism or the French New Wave, as though the adjective and the noun could not be pried apart, as though the style grew from the soil and could not be transplanted without dying. Then a German director boards a ship, arrives at a California studio with more money than he ever commanded at home, and makes a film that proves the assumption wrong. *Sunrise: A Song of Two Humans* is that proof. Released by Fox in 1927 and directed by F.W. Murnau, it takes the techniques that German artists had spent a decade refining and grafts them onto an American studio's resources and an American story shape, and in doing so it answers a question most film history asks only obliquely: what travels when a movement crosses a border, and what gets left behind at the dock.
 
-![How Sunrise carried German Expressionism into Hollywood, a movement and national-cinema analysis - Insight Crunch](/assets/images/blog/blog-92.webp)
+![How Sunrise carried German Expressionism into Hollywood, a movement and national-cinema analysis - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The answer this film gives is precise and useful. A movement travels as a set of techniques, a way of bending space and light and camera to externalize what a character feels. It does not travel as a national condition, because the conditions that produced it, the painted theaters and the postwar dread and the particular economics of a particular industry, cannot be packed in a trunk. Murnau brought the kit. He could not bring the country. The film that resulted is neither a German Expressionist work nor an American classical one but a genuine hybrid, and the hybridity is the lesson. To watch *Sunrise* is to watch a method survive transplantation while its origin is stripped away, and to understand from that survival exactly which parts of any movement are the portable parts. That distinction, between a movement as a transmissible craft and a movement as a fixed national event, is the spine of everything that follows.
 

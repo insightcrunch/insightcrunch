@@ -6,7 +6,7 @@ date: 1996-07-25
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Freshman", "Early Preparation", "Foundations"]
 excerpt: "SAT for freshmen explained: why 9th grade is usually too early for formal prep, the rare exceptions, and the foundations that make later prep far easier."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1996-07-25
@@ -14,7 +14,7 @@ lang: en
 ---
 A parent emails a tutor in September of their child's freshman year. The message is calm on the surface and anxious underneath. A neighbor's older kid scored well after starting prep in ninth grade, a cousin enrolled in a weekend course at fourteen, and now the question lands hard: should a freshman study for the SAT right now, before the train leaves the station? The honest answer surprises almost everyone who asks it. For nearly every fourteen-year-old, formal SAT prep in ninth grade is not a head start. It is wasted effort at best and a quiet path toward burnout at worst, and the student who waits until eleventh grade with strong foundations behind them tends to match or beat the peer who drilled flashcards at fourteen.
 
-![SAT for freshmen early preparation four-year foundation timeline guidance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![SAT for freshmen early preparation four-year foundation timeline guidance - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 That claim runs against the instinct that earlier is always better, so this guide makes the case carefully and then hands you something more useful than reassurance. You will leave able to tell the difference between foundation work that genuinely raises a future score and formal prep that does nothing for a freshman except drain motivation. You will see the four-year arc laid out so the ninth grade year has a job that is real and not invented to soothe an anxious household. And you will get the rare exceptions named precisely, so the small number of families for whom an early start does make sense can recognize themselves rather than guess. The generic web answer to the freshman question is either a shrug or a sales pitch. Neither tells a fourteen-year-old what to actually do this year, and that gap is the thing this page exists to close.
 

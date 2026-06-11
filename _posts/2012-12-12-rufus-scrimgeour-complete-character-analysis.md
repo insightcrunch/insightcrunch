@@ -6,7 +6,7 @@ date: 2012-12-12
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Rufus Scrimgeour", "Ministry of Magic", "Wartime Leadership"]
 excerpt: "Rufus Scrimgeour in Harry Potter is Rowling's study of wartime authority without wisdom: the lion-faced Minister who refused cowardice and partnership both."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2012-12-12
@@ -16,7 +16,7 @@ lang: en
 
 The wizarding world meets Rufus Scrimgeour the way a damaged country meets its second wartime leader: with relief that the first one is gone and the slow, sinking recognition that relief is not the same as hope. He arrives in *Harry Potter and the Half-Blood Prince* with everything Cornelius Fudge lacked. He believes Voldemort has returned. He understands that the Ministry is at war. He carries himself with the visible bearing of a man who has fought before and would fight again. He is, in every surface respect, the corrective the wizarding world has been waiting for since the closing pages of *Order of the Phoenix*.
 
-![Rufus Scrimgeour character analysis Minister of Magic Harry Potter](/assets/images/blog/blog-70.webp)
+![Rufus Scrimgeour character analysis Minister of Magic Harry Potter](/assets/images/blog/blog-67.webp)
 
 And then Rowling does something quietly devastating. She lets the reader watch this competent, courageous, lion-faced man fail at the one thing his role required him to do: build alliance rather than performance. The new Minister of Magic understands the war. He does not understand the people who can win it. He wants Harry Potter as a symbol. He does not want Albus Dumbledore as a peer. He treats the Boy Who Lived as a recruitment poster and the greatest wizard of the age as a political rival. By the time he is taken from his office and tortured into silence for refusing to reveal where Harry is hiding, the Ministry has fallen, the war has been lost on the institutional front, and the redemption of his death is real but structurally too late.
 

@@ -6,7 +6,7 @@ date: 2008-06-26
 categories: ["Leisure"]
 tags: ["woodrow-wilson", "decision-reconstruction", "us-presidents", "american-history", "world-war-one", "zimmermann-telegram", "war-powers"]
 excerpt: "Wilson won 1916 promising he kept the country out of war. Five months later he asked Congress to declare it. The Zimmermann Telegram tipped his cabinet."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 71
 author: "rachel-foster"
 last_updated: 2008-06-26
@@ -14,7 +14,7 @@ lang: en
 ---
 On the evening of March 20, 1917, ten men sat around the long table in the Cabinet Room of the White House and were polled, one by one, on whether the United States should ask Congress for a declaration of war against the German Empire. The man chairing the session had won re-election four months earlier on the slogan "He Kept Us Out of War." He had told Frank Cobb of the New York World, only weeks before, that a war presidency would mean "the spirit of ruthless brutality will enter into the very fiber of our national life." He had spent two and a half years constructing an elaborate edifice of mediation, of "peace without victory," of armed neutrality just short of belligerency. Yet when Secretary of State Robert Lansing finished noting each cabinet member's position in the small notebook he kept for such occasions, the vote was unanimous. Even Josephus Daniels, the pacifist Secretary of the Navy who had wept in private over the prospect, voted yes. Even Albert Burleson, the Postmaster General whose Texas constituency depended on cotton exports the war would disrupt, voted yes.
 
-![Woodrow Wilson war message April 1917 Zimmermann Telegram cabinet reversal - Insight Crunch](/assets/images/blog/blog-54.webp)
+![Woodrow Wilson war message April 1917 Zimmermann Telegram cabinet reversal - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The president listened. Then he stood, dismissed the meeting without committing himself, and walked alone in the West Wing for what aides later said was an unusually long time. Thirteen days later he was standing before a joint session of Congress, reading the war message that would commit the country to a conflict it had spent nearly three years avoiding. The vote in the Senate would be 82 to 6. In the House, 373 to 50. The reversal had taken roughly sixty days, from the January 22 "peace without victory" speech to the April 2 war message. This is the reconstruction of how those sixty days happened. The cabinet meeting of March 20 was not the moment the president changed his mind. By that evening the change had already happened. What this article reconstructs is the chain of specific events, beginning with a German naval memorandum drafted in Berlin in late December 1916, that made the change unavoidable to the man who least wanted to make it.
 

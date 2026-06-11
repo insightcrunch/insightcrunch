@@ -6,7 +6,7 @@ date: 2013-05-04
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Leadership", "Power", "Dumbledore"]
 excerpt: "Leadership styles in Harry Potter compared: why Rowling argues that wanting to lead disqualifies you, from Dumbledore and Harry to Voldemort and Umbridge."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2013-05-04
@@ -16,7 +16,7 @@ lang: en
 
 There is a quiet, almost subterranean argument running beneath the entire seven-book sequence, and it has nothing to do with wands or houses or the colour of a scarf. It concerns who should be allowed to hold power over other people, and it answers that question with a paradox so consistent that it begins to look less like a recurring motif and more like a deliberate political thesis. The people who most want authority are precisely the people who must never be given it. The people fit to hold it are the ones who keep trying to put it down.
 
-![Leadership styles compared across the Harry Potter series](/assets/images/blog/blog-31.webp)
+![Leadership styles compared across the Harry Potter series](/assets/images/blog/blog-59.webp)
 
 Watch who reaches for command and who flinches from it. Tom Riddle reaches. He reaches in the orphanage, in the corridors of school, in the cold years of wandering, in the cruel theatre of the manor drawing room. Bartemius Crouch reaches, and his hunger for order curdles into the very lawlessness he claimed to oppose. Dolores Umbridge reaches, decorated with kitten plates and a voice like sugared poison, and the reaching is so naked that it would be comic if the blood quill were not real. Against this procession of grasping hands, the story keeps placing people who do not want the job. A boy who would rather play a sport than command a secret army. A witch who runs a school for decades without once angling for the chair above her own. An old wizard who, having learned in his youth exactly what his own ambition could do, spends the rest of his life refusing the highest office in the land.
 

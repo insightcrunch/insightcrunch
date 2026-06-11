@@ -6,7 +6,7 @@ date: 2007-04-07
 categories: ["Leisure"]
 tags: ["andrew-jackson", "myth-bust", "us-presidents", "historical-myths", "dueling", "rachel-jackson"]
 excerpt: "Jackson did not fight a dozen duels for Rachel's honor. He fought one fatal duel, against Charles Dickinson in 1806, and its real cause was a horse-racing debt."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 71
 author: "rachel-foster"
 last_updated: 2026-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 On the cold morning of May 30, 1806, on a strip of riverbank in Logan County, Kentucky, a tall, gaunt Tennessee lawyer stood very still and let another man shoot him first. Charles Dickinson was the finest pistol shot in the state, a young dandy who could put four balls in a target the width of a coin from twenty-four feet, and he had bragged about exactly how he would kill the man now facing him. Andrew Jackson knew all of this. He had decided, with his second Thomas Overton, that there was no surviving a contest of speed against such an opponent. The only path was to absorb the first ball, stay upright, and then take careful, unhurried aim. Dickinson fired. The ball struck Jackson in the chest, broke two ribs, and buried itself near his heart, where it would stay for the remaining thirty-nine years of his life. Jackson did not fall. He pressed his left arm against his side, raised his pistol, and shot Charles Dickinson through the body. Dickinson bled to death that evening.
 
-![Andrew Jackson Charles Dickinson 1806 duel horse-racing debt Rachel honor myth graded - Insight Crunch](/assets/images/blog/blog-59.webp)
+![Andrew Jackson Charles Dickinson 1806 duel horse-racing debt Rachel honor myth graded - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 This is the scene that anchors one of the most durable legends in American political folklore: that Andrew Jackson was a man who fought a dozen, or a hundred, duels, and that he fought them to defend the honor of his wife Rachel against sneering insults about her tangled marital past. The legend is not nothing. It contains a real corpse, a real bullet near a real heart, and a real wife whose reputation was genuinely attacked for decades. But the legend, in almost every version that circulates, is wrong about the two things that matter most. Jackson fought exactly one fatal duel in his life, and the duel that killed Charles Dickinson was not, at its root, about Rachel at all. It was about a horse race and the money owed on it. The purpose of this article is to grade the claim carefully, separate what is true from what has been inflated, and lay out the actual record of Andrew Jackson's affairs of honor against the documentary evidence that historians have spent two centuries assembling.
 

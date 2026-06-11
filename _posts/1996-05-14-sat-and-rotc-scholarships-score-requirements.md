@@ -6,7 +6,7 @@ date: 1996-05-14
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "ROTC", "Scholarships", "Military"]
 excerpt: "SAT and ROTC scholarships: score expectations by service branch, the full-tuition value, the application timeline and how requirements differ from admission."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 61
 author: "christopher-wells"
 last_updated: 1996-05-14
@@ -16,7 +16,7 @@ A four-year Reserve Officers Training Corps scholarship can be worth more than t
 
 This guide does what the recruiting brochures and the thin aggregator pages will not. It separates the score that earns admission from the score that earns the scholarship, walks each service branch one at a time, explains why the same total can be competitive for one program and merely adequate for another, and gives you a dated, verifiable map of where the funding decisions actually live. The reserve-officer route weighs your exam result alongside grade point average, a physical fitness assessment, demonstrated leadership, and an interview, so the test is necessary without ever being sufficient. Read this and you will be able to look at any branch, estimate the competitive band, see what else the board weighs, and build a preparation plan that aims at the funding rather than at a vague sense of doing well.
 
-![SAT and ROTC scholarship score requirements by service branch worked decision guide - Insight Crunch](/assets/images/blog/blog-05.webp)
+![SAT and ROTC scholarship score requirements by service branch worked decision guide - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The mistake that costs students the award is assuming the commissioning scholarship mirrors regular admission. It does not. A selection board is buying future officers, not filling a class, and the service commitment that comes attached changes the math in the applicant's favor in some places and against it in others. By the end of this piece you will hold what we call the InsightCrunch ROTC Score-Target Map, a branch-by-branch read on where the exam sits in each evaluation, and you will know the one rule that governs the whole decision: the test is leverage inside a composite, never a standalone gate.
 

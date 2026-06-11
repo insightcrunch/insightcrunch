@@ -6,7 +6,7 @@ date: 2017-06-26
 categories: ["Industry"]
 tags: ["dhurandhar-style", "killings", "terminology", "bollywood", "media", "counter-terrorism"]
 excerpt: "How the phrase Dhurandhar-style killing migrated from film reviews to Indian news desks to political rallies, reshaping how a nation discusses state violence."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 74
 author: "rahul-banerjee"
 last_updated: 2017-06-26
@@ -16,7 +16,7 @@ When an unknown gunman on a motorcycle pulls alongside a car in Karachi or Lahor
 
 <!--more-->
 
-![What Dhurandhar Style Killings Mean - Insight Crunch](/assets/images/blog/blog-69.webp)
+![What Dhurandhar Style Killings Mean - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The significance of this terminological migration cannot be overstated. Covert operations conducted by intelligence agencies operate in a space where official language is deliberately absent. India's Research and Analysis Wing has never confirmed or denied the targeted killings of designated terrorists on Pakistani soil. The Indian Ministry of External Affairs has dismissed Pakistani allegations of Indian involvement as "false and malicious anti-India propaganda." In the absence of official language, the public needed a language to describe what everyone could see happening but nobody would formally name. Aditya Dhar's film, which grossed over 1,300 crore rupees worldwide in its first run alone, did not just entertain 200 million viewers. It handed them a shared language. The consequences of that vocabulary extend far beyond cinema.
 

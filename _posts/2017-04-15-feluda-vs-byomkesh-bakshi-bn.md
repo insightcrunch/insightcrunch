@@ -6,7 +6,7 @@ date: 2017-04-15
 categories: ["Leisure"]
 tags: ["feluda", "byomkesh-bakshi", "satyajit-ray", "saradindu-bandyopadhyay", "comparative"]
 excerpt: "ফেলুদা এবং ব্যোমকেশের গভীর তুলনা। দুই লেখক, দুই কলকাতা, দুই পাঠকশ্রেণী, পরিবারিক মানুষ বনাম ব্রহ্মচারী, এবং কোনটি শ্রেষ্ঠ এই প্রশ্নের সৎ উত্তর।"
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 144
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদা বনাম ব্যোমকেশ বক্সী - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-66.webp)
+![ফেলুদা বনাম ব্যোমকেশ বক্সী - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-24.webp)
 
 ## দুই লেখক: শরদিন্দু এবং সত্যজিৎ
 

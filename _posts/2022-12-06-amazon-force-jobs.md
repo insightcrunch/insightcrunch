@@ -5,7 +5,7 @@ date: 2022-12-06
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world and every year it employs and hires hundreds of thousands of hourly workers. We see a huge number..."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 12
 author: "kevin-reeves"
 last_updated: 2026-04-02
@@ -25,7 +25,7 @@ Out of six to seven people who apply at Amazon, actually one person shows up and
 
 Many of the newcomers who joined Amazon were in different types of situations that were impractical. The reason for these impractical situations stemmed from having a difficult schedule or difficulty in commuting. Often, the Amazon role that they have joined in is just not a good fit for the skills of that employee. Many candidates are always a fan of Amazon. Over time, many of the human resources professionals who work at Amazon were disappointed that they did not see a long term thinking from the senior leadership at Amazon. The company was quickly cycling through different pool of workers. It was almost like the fossil fuels that Amazon was churning to the employees despite climate change. This analogy is often similar to the fossil fuel consumption of climate change, which is bound to be depleting and will disappear at one point of time. 
 
-![Amazon force jobs](/assets/images/blog/blog-11.webp)
+![Amazon force jobs](/assets/images/blog/blog-13.webp)
 Amazon force jobs
 
 ## Amazon Employee Communications
