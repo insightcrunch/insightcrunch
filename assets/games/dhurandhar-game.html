@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>DHURANDHAR : Deep Cover</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Staatliches&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#0b0e14;          /* night street */
+    --ink-2:#131826;        /* panel */
+    --sodium:#f5a623;       /* sodium lamp amber */
+    --paper:#e8e0cc;        /* dossier paper */
+    --danger:#e23d3d;       /* alert red */
+    --teal:#2e8f8a;         /* radio-set teal */
+    --line:#2a3145;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+  html,body{height:100%}
+  body{
+    background:var(--ink);
+    color:var(--paper);
+    font-family:'IBM Plex Mono',monospace;
+    overflow:hidden;
+    user-select:none;
+  }
+  /* film grain + scanlines over everything */
+  body::after{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:50;
+    background:
+      repeating-linear-gradient(0deg, rgba(255,255,255,.022) 0 1px, transparent 1px 3px);
+    mix-blend-mode:overlay;
+  }
+  #stage{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column}
+  canvas{display:block;background:#0d1119;border:1px solid var(--line);max-width:100vw;max-height:100vh}
+
+  /* ---------- HUD ---------- */
+  #hud{
+    position:fixed;top:0;left:0;right:0;z-index:10;
+    display:flex;justify-content:space-between;align-items:flex-start;
+    padding:10px 14px;pointer-events:none;
+    font-size:12px;letter-spacing:.08em;
+  }
+  .hud-box{background:rgba(11,14,20,.78);border:1px solid var(--line);padding:6px 10px;border-radius:2px}
+  .hud-label{color:var(--sodium);font-size:10px;letter-spacing:.2em}
+  #alertbar{width:120px;height:8px;background:#1c2233;border:1px solid var(--line);margin-top:4px;position:relative;overflow:hidden}
+  #alertfill{height:100%;width:0%;background:var(--sodium);transition:width .12s linear}
+  #alertfill.hot{background:var(--danger)}
+  #intelHud,#timerHud{margin-top:2px;font-weight:600}
+
+  /* ---------- Overlay screens ---------- */
+  .screen{
+    position:fixed;inset:0;z-index:20;display:flex;align-items:center;justify-content:center;
+    background:radial-gradient(ellipse at 50% 30%, #141a2a 0%, var(--ink) 70%);
+  }
+  .dossier{
+    width:min(560px,92vw);background:var(--ink-2);border:1px solid var(--line);
+    padding:34px 34px 28px;position:relative;
+    box-shadow:0 30px 80px rgba(0,0,0,.6);
+  }
+  .dossier::before{ /* punched corner like a file folder */
+    content:"";position:absolute;top:-1px;right:-1px;width:46px;height:46px;
+    background:var(--ink);clip-path:polygon(100% 0,0 0,100% 100%);
+    border-left:1px solid var(--line);
+  }
+  .stamp{
+    position:absolute;top:18px;right:54px;transform:rotate(8deg);
+    border:2px solid var(--danger);color:var(--danger);
+    font-family:'Staatliches',sans-serif;font-size:15px;letter-spacing:.3em;
+    padding:2px 10px;opacity:.85;
+  }
+  .eyebrow{color:var(--teal);font-size:11px;letter-spacing:.34em;margin-bottom:10px}
+  h1{
+    font-family:'Staatliches',sans-serif;font-size:clamp(44px,9vw,72px);
+    line-height:.92;color:var(--paper);letter-spacing:.02em;
+  }
+  h1 .amber{color:var(--sodium)}
+  h2{font-family:'Staatliches',sans-serif;font-size:30px;color:var(--sodium);letter-spacing:.05em;margin-bottom:10px}
+  .brief{font-size:13px;line-height:1.7;color:#b9b29e;margin:16px 0 22px;border-left:2px solid var(--sodium);padding-left:14px}
+  .objline{font-size:12px;color:var(--paper);margin:4px 0}
+  .objline b{color:var(--sodium)}
+  .keys{font-size:11px;color:#7e88a3;margin-top:16px;line-height:1.8}
+  .keys kbd{background:#1c2233;border:1px solid var(--line);padding:1px 6px;border-radius:2px;color:var(--paper)}
+  button.go{
+    margin-top:22px;width:100%;padding:14px;cursor:pointer;
+    font-family:'Staatliches',sans-serif;font-size:22px;letter-spacing:.18em;
+    background:var(--sodium);color:#161003;border:none;border-radius:2px;
+  }
+  button.go:active{transform:translateY(1px)}
+  button.go.red{background:var(--danger);color:#fff}
+  .statline{display:flex;justify-content:space-between;font-size:12px;color:#b9b29e;border-bottom:1px dashed var(--line);padding:7px 0}
+  .statline span:last-child{color:var(--paper);font-weight:600}
+  .hidden{display:none !important}
+
+  /* ---------- Touch controls ---------- */
+  #touchUI{position:fixed;inset:0;z-index:15;pointer-events:none}
+  #stick{
+    position:absolute;left:22px;bottom:26px;width:120px;height:120px;border-radius:50%;
+    border:1px solid var(--line);background:rgba(19,24,38,.45);pointer-events:auto;
+  }
+  #knob{
+    position:absolute;left:38px;top:38px;width:44px;height:44px;border-radius:50%;
+    background:rgba(245,166,35,.75);
+  }
+  #dashBtn{
+    position:absolute;right:26px;bottom:40px;width:84px;height:84px;border-radius:50%;
+    border:1px solid var(--sodium);background:rgba(245,166,35,.16);color:var(--sodium);
+    font-family:'Staatliches',sans-serif;font-size:18px;letter-spacing:.1em;pointer-events:auto;
+  }
+  @media (hover:hover) and (pointer:fine){ #touchUI{display:none} }
+</style>
+</head>
+<body>
+
+<div id="stage">
+  <canvas id="game" width="960" height="600"></canvas>
+</div>
+
+<!-- HUD -->
+<div id="hud" class="hidden">
+  <div class="hud-box">
+    <div class="hud-label">SUSPICION</div>
+    <div id="alertbar"><div id="alertfill"></div></div>
+  </div>
+  <div class="hud-box" style="text-align:center">
+    <div class="hud-label" id="missionHud">MISSION 1</div>
+    <div id="intelHud">INTEL 0 / 3</div>
+  </div>
+  <div class="hud-box" style="text-align:right">
+    <div class="hud-label">CLOCK</div>
+    <div id="timerHud">00:00</div>
+  </div>
+</div>
+
+<!-- Touch controls -->
+<div id="touchUI" class="hidden">
+  <div id="stick"><div id="knob"></div></div>
+  <button id="dashBtn">DASH</button>
+</div>
+
+<!-- Title screen -->
+<div id="titleScreen" class="screen">
+  <div class="dossier">
+    <div class="stamp">CLASSIFIED</div>
+    <div class="eyebrow">FIELD OPERATION FILE 7-A</div>
+    <h1>DHURAN<span class="amber">DHAR</span></h1>
+    <h2 style="margin-top:4px">DEEP COVER</h2>
+    <div class="brief">
+      An original stealth operation inspired by the great spy thrillers.
+      You are Agent Arka, a deep cover operative inside a hostile port city.
+      Lift the intel. Stay out of the lamplight. Walk out like you were never there.
+    </div>
+    <div class="objline"><b>01</b> Collect every intel dossier on the map</div>
+    <div class="objline"><b>02</b> Avoid the amber vision cones of patrols</div>
+    <div class="objline"><b>03</b> Reach the green extraction zone</div>
+    <div class="keys">
+      Move <kbd>WASD</kbd> / <kbd>Arrows</kbd> &nbsp;&middot;&nbsp; Dash <kbd>Shift</kbd> or <kbd>Space</kbd> &nbsp;&middot;&nbsp;
+      On mobile use the joystick and DASH button
+    </div>
+    <button class="go" id="startBtn">BEGIN OPERATION</button>
+  </div>
+</div>
+
+<!-- Mission briefing -->
+<div id="briefScreen" class="screen hidden">
+  <div class="dossier">
+    <div class="stamp">EYES ONLY</div>
+    <div class="eyebrow" id="briefEyebrow">MISSION 1 OF 3</div>
+    <h2 id="briefTitle">THE DOCKYARD LEDGER</h2>
+    <div class="brief" id="briefText"></div>
+    <button class="go" id="briefBtn">INSERT AGENT</button>
+  </div>
+</div>
+
+<!-- Caught screen -->
+<div id="caughtScreen" class="screen hidden">
+  <div class="dossier">
+    <div class="stamp" style="border-color:var(--danger)">COMPROMISED</div>
+    <div class="eyebrow">SIGNAL LOST</div>
+    <h2 style="color:var(--danger)">COVER BLOWN</h2>
+    <div class="brief" id="caughtText">A patrol made you under the sodium lamps. The network goes dark tonight.</div>
+    <button class="go red" id="retryBtn">RE-INSERT AGENT</button>
+  </div>
+</div>
+
+<!-- Victory screen -->
+<div id="winScreen" class="screen hidden">
+  <div class="dossier">
+    <div class="stamp" style="border-color:var(--teal);color:var(--teal)">ARCHIVED</div>
+    <div class="eyebrow">OPERATION COMPLETE</div>
+    <h2 style="color:var(--teal)">THE GHOST WALKS OUT</h2>
+    <div class="brief">Every dossier lifted. Not one patrol filed a report. The handler pours two cups of tea and burns the file.</div>
+    <div class="statline"><span>Total time</span><span id="finalTime">00:00</span></div>
+    <div class="statline"><span>Times spotted</span><span id="finalSpots">0</span></div>
+    <div class="statline"><span>Operative rating</span><span id="finalRank">DHURANDHAR</span></div>
+    <button class="go" id="againBtn">RUN IT AGAIN</button>
+  </div>
+</div>
+
+<script>
+"use strict";
+/* ============================================================
+   DHURANDHAR : DEEP COVER  -  single file stealth arcade game
+   Original characters and missions. Top-down canvas stealth.
+   ============================================================ */
+const cv = document.getElementById('game');
+const cx = cv.getContext('2d');
+const W = cv.width, H = cv.height;
+
+/* ---------- responsive canvas ---------- */
+function fitCanvas(){
+  const s = Math.min(window.innerWidth / W, window.innerHeight / H);
+  cv.style.width  = (W * s) + 'px';
+  cv.style.height = (H * s) + 'px';
+}
+window.addEventListener('resize', fitCanvas); fitCanvas();
+
+/* ---------- helpers ---------- */
+const TAU = Math.PI * 2;
+const clamp = (v,a,b)=>Math.max(a,Math.min(b,v));
+const dist  = (a,b)=>Math.hypot(a.x-b.x, a.y-b.y);
+const lerpA = (a,b,t)=>{ let d=((b-a+Math.PI*3)%TAU)-Math.PI; return a+d*t; };
+
+/* ---------- missions ---------- */
+/* walls: [x,y,w,h]; guards: {path:[{x,y}...], speed, fov(deg), range} */
+const MISSIONS = [
+{
+  title:"THE DOCKYARD LEDGER",
+  text:"A smuggling ledger is split into three dossiers across the dock warehouse. Two patrols on fixed rounds. Slow feet, soft hands.",
+  px:70, py:530,
+  walls:[
+    [180,90,30,260],[420,250,30,260],[640,90,30,260],
+    [180,90,260,30],[420,480,250,30]
+  ],
+  intel:[{x:300,y:170},{x:540,y:420},{x:830,y:120}],
+  exitZone:{x:880,y:520,r:42},
+  guards:[
+    {path:[{x:300,y:420},{x:300,y:120}],speed:1.05,fov:62,range:170},
+    {path:[{x:760,y:120},{x:760,y:420},{x:560,y:420}],speed:1.15,fov:62,range:175}
+  ],
+  time:0
+},
+{
+  title:"THE RADIO ROOM",
+  text:"Cipher pads sit in a signals compound ringed with corridors. Three patrols, tighter rounds. The lamps are brighter here. Dash between shadows.",
+  px:60, py:80,
+  walls:[
+    [150,180,660,26],[150,180,26,250],[784,180,26,250],
+    [150,404,250,26],[560,404,250,26],
+    [380,280,200,26]
+  ],
+  intel:[{x:300,y:320},{x:660,y:320},{x:480,y:520},{x:880,y:90}],
+  exitZone:{x:80,y:530,r:42},
+  guards:[
+    {path:[{x:220,y:300},{x:740,y:300}],speed:1.3,fov:66,range:185},
+    {path:[{x:480,y:470},{x:480,y:560},{x:840,y:560},{x:840,y:470}],speed:1.25,fov:64,range:175},
+    {path:[{x:880,y:140},{x:600,y:140},{x:600,y:90},{x:880,y:90}],speed:1.2,fov:60,range:165}
+  ],
+  time:0
+},
+{
+  title:"THE HARBOURMASTER'S SAFE",
+  text:"Final lift. Five dossiers in the harbourmaster's compound, four patrols, and one long walk to the boat. Tonight you earn the name.",
+  px:480, py:560,
+  walls:[
+    [120,120,26,360],[814,120,26,360],
+    [120,120,300,26],[540,120,300,26],
+    [260,260,26,200],[674,260,26,200],
+    [380,330,200,26]
+  ],
+  intel:[{x:180,y:180},{x:780,y:180},{x:480,y:260},{x:330,y:540},{x:630,y:540}],
+  exitZone:{x:480,y:70,r:40},
+  guards:[
+    {path:[{x:200,y:240},{x:200,y:440}],speed:1.35,fov:68,range:185},
+    {path:[{x:760,y:440},{x:760,y:240}],speed:1.35,fov:68,range:185},
+    {path:[{x:340,y:300},{x:620,y:300}],speed:1.45,fov:64,range:175},
+    {path:[{x:320,y:500},{x:640,y:500}],speed:1.5,fov:66,range:180}
+  ],
+  time:0
+}
+];
+
+/* ---------- state ---------- */
+let missionIdx = 0;
+let state = 'title';            // title | brief | play | caught | win
+let player, guards, walls, intel, exitZone, gotIntel, needIntel;
+let suspicion = 0, spotted = 0, totalTime = 0, mTime = 0;
+let dashCd = 0, dashT = 0;
+let particles = [];
+
+const keys = {};
+window.addEventListener('keydown', e=>{ keys[e.key.toLowerCase()] = true; if(['arrowup','arrowdown','arrowleft','arrowright',' '].includes(e.key.toLowerCase())) e.preventDefault(); });
+window.addEventListener('keyup',   e=>{ keys[e.key.toLowerCase()] = false; });
+
+/* ---------- touch joystick ---------- */
+const touchUI = document.getElementById('touchUI');
+const stick = document.getElementById('stick');
+const knob  = document.getElementById('knob');
+let joy = {x:0,y:0,active:false};
+function stickMove(t){
+  const r = stick.getBoundingClientRect();
+  const cxp = r.left + r.width/2, cyp = r.top + r.height/2;
+  let dx = t.clientX - cxp, dy = t.clientY - cyp;
+  const m = Math.hypot(dx,dy), max = r.width/2 - 14;
+  if(m > max){ dx = dx/m*max; dy = dy/m*max; }
+  knob.style.left = (r.width/2 - 22 + dx) + 'px';
+  knob.style.top  = (r.height/2 - 22 + dy) + 'px';
+  joy.x = dx/max; joy.y = dy/max;
+}
+stick.addEventListener('touchstart', e=>{ joy.active=true; stickMove(e.touches[0]); e.preventDefault(); });
+stick.addEventListener('touchmove',  e=>{ stickMove(e.touches[0]); e.preventDefault(); });
+stick.addEventListener('touchend',   ()=>{ joy={x:0,y:0,active:false}; knob.style.left='38px'; knob.style.top='38px'; });
+document.getElementById('dashBtn').addEventListener('touchstart', e=>{ tryDash(); e.preventDefault(); });
+
+/* ---------- mission setup ---------- */
+function loadMission(i){
+  const m = MISSIONS[i];
+  player = { x:m.px, y:m.py, r:11, a:0, speed:2.35, anim:0 };
+  walls = m.walls.map(w=>({x:w[0],y:w[1],w:w[2],h:w[3]}));
+  intel = m.intel.map(p=>({x:p.x,y:p.y,got:false,pulse:Math.random()*TAU}));
+  exitZone = m.exitZone;
+  needIntel = intel.length; gotIntel = 0;
+  guards = m.guards.map(g=>({
+    x:g.path[0].x, y:g.path[0].y, r:11, a:0, path:g.path, wp:1,
+    speed:g.speed, fov:g.fov*Math.PI/180, range:g.range,
+    mode:'patrol', alertT:0
+  }));
+  suspicion = 0; dashCd = 0; dashT = 0; mTime = 0; particles = [];
+  document.getElementById('missionHud').textContent = 'MISSION ' + (i+1);
+  updateHud();
+}
+
+/* ---------- geometry ---------- */
+function circleRect(px,py,r,w){
+  const nx = clamp(px, w.x, w.x+w.w), ny = clamp(py, w.y, w.y+w.h);
+  return Math.hypot(px-nx, py-ny) < r;
+}
+function lineBlocked(x1,y1,x2,y2){
+  const steps = Math.ceil(Math.hypot(x2-x1,y2-y1)/8);
+  for(let i=1;i<steps;i++){
+    const t=i/steps, sx=x1+(x2-x1)*t, sy=y1+(y2-y1)*t;
+    for(const w of walls) if(sx>w.x && sx<w.x+w.w && sy>w.y && sy<w.y+w.h) return true;
+  }
+  return false;
+}
+function moveWithWalls(o, dx, dy){
+  o.x = clamp(o.x + dx, o.r, W - o.r);
+  for(const w of walls) if(circleRect(o.x,o.y,o.r,w)) o.x -= dx;
+  o.y = clamp(o.y + dy, o.r, H - o.r);
+  for(const w of walls) if(circleRect(o.x,o.y,o.r,w)) o.y -= dy;
+}
+
+/* ---------- dash ---------- */
+function tryDash(){
+  if(state==='play' && dashCd<=0){ dashT = 9; dashCd = 90; }
+}
+
+/* ---------- update ---------- */
+function update(){
+  if(state!=='play') return;
+  mTime++;
+
+  /* player input */
+  let dx=0, dy=0;
+  if(keys['w']||keys['arrowup'])dy-=1;
+  if(keys['s']||keys['arrowdown'])dy+=1;
+  if(keys['a']||keys['arrowleft'])dx-=1;
+  if(keys['d']||keys['arrowright'])dx+=1;
+  if(joy.active){ dx=joy.x; dy=joy.y; }
+  if((keys['shift']||keys[' '])) tryDash();
+  const mag = Math.hypot(dx,dy);
+  if(mag>0.15){
+    dx/=Math.max(mag,1); dy/=Math.max(mag,1);
+    const sp = player.speed * (dashT>0 ? 2.6 : 1);
+    moveWithWalls(player, dx*sp, dy*sp);
+    player.a = Math.atan2(dy,dx);
+    player.anim += dashT>0 ? 0.55 : 0.3;
+    if(dashT>0 && mTime%2===0) particles.push({x:player.x,y:player.y,t:14});
+  }
+  if(dashT>0)dashT--; if(dashCd>0)dashCd--;
+
+  /* intel pickup */
+  for(const it of intel){
+    it.pulse += .08;
+    if(!it.got && dist(player,it) < 22){
+      it.got = true; gotIntel++;
+      for(let k=0;k<10;k++) particles.push({x:it.x,y:it.y,t:20,gold:true,vx:(Math.random()-.5)*3,vy:(Math.random()-.5)*3});
+      updateHud();
+    }
+  }
+
+  /* guards */
+  let seen = false;
+  for(const g of guards){
+    if(g.mode==='chase'){
+      const ang = Math.atan2(player.y-g.y, player.x-g.x);
+      g.a = lerpA(g.a, ang, .15);
+      moveWithWalls(g, Math.cos(g.a)*g.speed*1.7, Math.sin(g.a)*g.speed*1.7);
+      g.alertT--;
+      if(g.alertT<=0 || lineBlocked(g.x,g.y,player.x,player.y)) g.mode='patrol';
+    } else {
+      const tgt = g.path[g.wp];
+      const ang = Math.atan2(tgt.y-g.y, tgt.x-g.x);
+      g.a = lerpA(g.a, ang, .08);
+      g.x += Math.cos(ang)*g.speed; g.y += Math.sin(ang)*g.speed;
+      if(dist(g,tgt) < 6) g.wp = (g.wp+1) % g.path.length;
+    }
+    /* vision check */
+    const d = dist(g, player);
+    if(d < g.range){
+      const toP = Math.atan2(player.y-g.y, player.x-g.x);
+      let da = Math.abs(((toP-g.a+Math.PI*3)%TAU)-Math.PI);
+      if(da < g.fov/2 && !lineBlocked(g.x,g.y,player.x,player.y)){
+        seen = true;
+        if(g.mode!=='chase'){ g.mode='chase'; g.alertT=160; }
+        else g.alertT = 160;
+      }
+    }
+    if(d < player.r + g.r){ caught(); return; } /* contact */
+  }
+
+  /* suspicion meter */
+  suspicion = clamp(suspicion + (seen ? 1.6 : -0.7), 0, 100);
+  if(seen && suspicion===1.6) spotted++;
+  if(suspicion >= 100){ caught(); return; }
+
+  /* extraction */
+  if(gotIntel===needIntel && dist(player, exitZone) < exitZone.r){
+    totalTime += mTime;
+    missionIdx++;
+    if(missionIdx >= MISSIONS.length) showWin();
+    else showBrief();
+    return;
+  }
+
+  particles = particles.filter(p=>{ p.t--; if(p.vx){p.x+=p.vx;p.y+=p.vy;} return p.t>0; });
+  updateHud();
+}
+
+function caught(){
+  spotted++;
+  state='caught';
+  document.getElementById('caughtScreen').classList.remove('hidden');
+  document.getElementById('hud').classList.add('hidden');
+  touchUI.classList.add('hidden');
+}
+
+/* ---------- HUD ---------- */
+function updateHud(){
+  const f = document.getElementById('alertfill');
+  f.style.width = suspicion + '%';
+  f.classList.toggle('hot', suspicion > 55);
+  document.getElementById('intelHud').textContent = 'INTEL ' + gotIntel + ' / ' + needIntel;
+  document.getElementById('timerHud').textContent = fmt(mTime);
+}
+function fmt(frames){
+  const s = Math.floor(frames/60);
+  return String(Math.floor(s/60)).padStart(2,'0') + ':' + String(s%60).padStart(2,'0');
+}
+
+/* ---------- render ---------- */
+function draw(){
+  cx.clearRect(0,0,W,H);
+
+  /* floor: faint dock planks */
+  cx.fillStyle = '#0d1119'; cx.fillRect(0,0,W,H);
+  cx.strokeStyle = 'rgba(42,49,69,.35)'; cx.lineWidth = 1;
+  for(let y=40; y<H; y+=40){ cx.beginPath(); cx.moveTo(0,y); cx.lineTo(W,y); cx.stroke(); }
+
+  if(state!=='play' && state!=='caught') return;
+
+  /* extraction zone */
+  const ready = gotIntel===needIntel;
+  cx.beginPath(); cx.arc(exitZone.x, exitZone.y, exitZone.r, 0, TAU);
+  cx.fillStyle = ready ? 'rgba(46,143,138,.28)' : 'rgba(46,143,138,.10)';
+  cx.fill();
+  cx.setLineDash([6,6]);
+  cx.strokeStyle = ready ? '#2e8f8a' : 'rgba(46,143,138,.4)';
+  cx.lineWidth = 2; cx.stroke(); cx.setLineDash([]);
+  cx.fillStyle = ready ? '#7fd8d2' : 'rgba(127,216,210,.4)';
+  cx.font = '10px IBM Plex Mono'; cx.textAlign='center';
+  cx.fillText(ready ? 'EXTRACT' : 'LOCKED', exitZone.x, exitZone.y+4);
+
+  /* guard vision cones (sodium light) */
+  for(const g of guards){
+    const grad = cx.createRadialGradient(g.x,g.y,8, g.x,g.y,g.range);
+    const hot = g.mode==='chase';
+    grad.addColorStop(0, hot?'rgba(226,61,61,.40)':'rgba(245,166,35,.30)');
+    grad.addColorStop(1, hot?'rgba(226,61,61,0)':'rgba(245,166,35,0)');
+    cx.fillStyle = grad;
+    cx.beginPath(); cx.moveTo(g.x,g.y);
+    cx.arc(g.x,g.y,g.range, g.a-g.fov/2, g.a+g.fov/2);
+    cx.closePath(); cx.fill();
+  }
+
+  /* walls: crates / containers */
+  for(const w of walls){
+    cx.fillStyle = '#1b2235'; cx.fillRect(w.x,w.y,w.w,w.h);
+    cx.strokeStyle = '#2f3a57'; cx.lineWidth = 2; cx.strokeRect(w.x+1,w.y+1,w.w-2,w.h-2);
+  }
+
+  /* intel dossiers */
+  for(const it of intel){
+    if(it.got) continue;
+    const p = 3 + Math.sin(it.pulse)*1.5;
+    cx.save(); cx.translate(it.x,it.y); cx.rotate(-.12);
+    cx.fillStyle = '#e8e0cc'; cx.fillRect(-9,-6,18,12);
+    cx.strokeStyle = '#f5a623'; cx.lineWidth=1.4; cx.strokeRect(-9,-6,18,12);
+    cx.strokeStyle = '#b94c4c'; cx.beginPath(); cx.moveTo(-6,-1); cx.lineTo(6,-1); cx.stroke();
+    cx.restore();
+    cx.beginPath(); cx.arc(it.x,it.y,14+p,0,TAU);
+    cx.strokeStyle = 'rgba(245,166,35,.35)'; cx.lineWidth=1; cx.stroke();
+  }
+
+  /* particles */
+  for(const p of particles){
+    cx.fillStyle = p.gold ? 'rgba(245,166,35,'+(p.t/20)+')' : 'rgba(232,224,204,'+(p.t/14*.5)+')';
+    cx.beginPath(); cx.arc(p.x,p.y, p.gold?2.4:5, 0, TAU); cx.fill();
+  }
+
+  /* guards */
+  for(const g of guards){
+    cx.save(); cx.translate(g.x,g.y); cx.rotate(g.a);
+    cx.fillStyle = g.mode==='chase' ? '#e23d3d' : '#8a93ad';
+    cx.beginPath(); cx.arc(0,0,11,0,TAU); cx.fill();
+    cx.fillStyle = '#0d1119'; cx.fillRect(4,-3,9,6); /* cap brim = facing */
+    cx.restore();
+    if(g.mode==='chase'){
+      cx.fillStyle = '#e23d3d'; cx.font='bold 14px IBM Plex Mono'; cx.textAlign='center';
+      cx.fillText('!', g.x, g.y-18);
+    }
+  }
+
+  /* player: Agent Arka, a man in a flowing robe */
+  cx.save(); cx.translate(player.x,player.y); cx.rotate(player.a);
+  const ph = player.anim;
+  const sway = Math.sin(ph)*2.8;                       /* hem swing */
+  const robeC = dashT>0 ? '#ffd98a' : '#f5a623';
+  const robeD = dashT>0 ? '#d9a946' : '#b87a10';       /* sleeve tone */
+
+  /* feet kicking out behind the hem */
+  cx.fillStyle = '#161003';
+  cx.beginPath(); cx.arc(-10+Math.sin(ph)*4.5, -3.5, 2.4, 0, TAU); cx.fill();
+  cx.beginPath(); cx.arc(-10+Math.sin(ph+Math.PI)*4.5, 3.5, 2.4, 0, TAU); cx.fill();
+
+  /* robe: teardrop body with a swaying hem */
+  cx.beginPath();
+  cx.moveTo(7,0);
+  cx.quadraticCurveTo(6,-8, -2,-8.5);
+  cx.quadraticCurveTo(-12,-7+sway, -13.5, sway*0.6);
+  cx.quadraticCurveTo(-12,7+sway, -2,8.5);
+  cx.quadraticCurveTo(6,8, 7,0);
+  cx.closePath();
+  cx.fillStyle = robeC; cx.fill();
+  cx.strokeStyle = 'rgba(22,16,3,.5)'; cx.lineWidth = 1.2; cx.stroke();
+  /* sash across the robe */
+  cx.strokeStyle = robeD; cx.lineWidth = 2.2;
+  cx.beginPath(); cx.moveTo(2,-6.5); cx.lineTo(-3,6.5); cx.stroke();
+
+  /* arms in sleeves, pumping opposite the legs */
+  cx.strokeStyle = robeD; cx.lineWidth = 3.4; cx.lineCap = 'round';
+  cx.beginPath(); cx.moveTo(1,-6.5); cx.lineTo(1+Math.sin(ph+Math.PI)*5.5, -9); cx.stroke();
+  cx.beginPath(); cx.moveTo(1,6.5);  cx.lineTo(1+Math.sin(ph)*5.5, 9);  cx.stroke();
+
+  /* head: skin tone with dark hair at the back */
+  cx.fillStyle = '#caa37c';
+  cx.beginPath(); cx.arc(4.5,0,4.3,0,TAU); cx.fill();
+  cx.fillStyle = '#161003';
+  cx.beginPath(); cx.arc(3.2,0,4.3, Math.PI*0.55, Math.PI*1.45); cx.fill();
+  cx.restore();
+  /* dash ring cooldown */
+  if(dashCd>0){
+    cx.beginPath();
+    cx.arc(player.x, player.y, 17, -Math.PI/2, -Math.PI/2 + TAU*(1-dashCd/90));
+    cx.strokeStyle = 'rgba(245,166,35,.6)'; cx.lineWidth=2; cx.stroke();
+  }
+
+  /* vignette */
+  const vg = cx.createRadialGradient(W/2,H/2,H*.35, W/2,H/2,H*.85);
+  vg.addColorStop(0,'rgba(0,0,0,0)'); vg.addColorStop(1,'rgba(0,0,0,.55)');
+  cx.fillStyle = vg; cx.fillRect(0,0,W,H);
+}
+
+/* ---------- screens / flow ---------- */
+const $ = id => document.getElementById(id);
+function showBrief(){
+  state='brief';
+  const m = MISSIONS[missionIdx];
+  $('briefEyebrow').textContent = 'MISSION ' + (missionIdx+1) + ' OF ' + MISSIONS.length;
+  $('briefTitle').textContent = m.title;
+  $('briefText').textContent = m.text;
+  $('briefScreen').classList.remove('hidden');
+  $('hud').classList.add('hidden');
+  touchUI.classList.add('hidden');
+}
+function startPlay(){
+  loadMission(missionIdx);
+  state='play';
+  $('briefScreen').classList.add('hidden');
+  $('caughtScreen').classList.add('hidden');
+  $('hud').classList.remove('hidden');
+  if(!window.matchMedia('(hover:hover) and (pointer:fine)').matches) touchUI.classList.remove('hidden');
+}
+function showWin(){
+  state='win';
+  $('hud').classList.add('hidden');
+  touchUI.classList.add('hidden');
+  $('finalTime').textContent = fmt(totalTime);
+  $('finalSpots').textContent = spotted;
+  $('finalRank').textContent = spotted===0 ? 'DHURANDHAR' : spotted<4 ? 'PHANTOM' : 'FIELD AGENT';
+  $('winScreen').classList.remove('hidden');
+}
+$('startBtn').onclick = ()=>{ $('titleScreen').classList.add('hidden'); missionIdx=0; totalTime=0; spotted=0; showBrief(); };
+$('briefBtn').onclick = startPlay;
+$('retryBtn').onclick = startPlay;
+$('againBtn').onclick = ()=>{ $('winScreen').classList.add('hidden'); missionIdx=0; totalTime=0; spotted=0; showBrief(); };
+
+/* ---------- main loop ---------- */
+function loop(){ update(); draw(); requestAnimationFrame(loop); }
+loop();
+</script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6313cbe537898912e9670bac/1gc2l8uv9';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+</body>
+</html>
