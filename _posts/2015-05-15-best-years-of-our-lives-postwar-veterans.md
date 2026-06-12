@@ -6,15 +6,15 @@ date: 2015-05-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Best Years of Our Lives", "William Wyler", "Film History", "World Cinema", "Cinematography", "Performances"]
 excerpt: "The Best Years of Our Lives turned the returning soldier into honest cinema, casting a real disabled veteran and shooting the readjustment in deep focus."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-05-15
+lang: en
 ---
-
 In the autumn of 1945 the United States began the largest peacetime movement of human beings it had ever attempted: the return of more than twelve million men and women from the armed forces into a country that had reorganized itself entirely around their absence. Factories that had run on three shifts of women and older men now had to make room for the people the war had taken. Wives who had learned to manage households, money, and grief alone now had to fold a stranger back into the bed. Sons returned to fathers they barely recognized and fathers returned to sons who had grown a foot. The government had a name for the logistics of it, demobilization, and a law for the economics of it, the Servicemen's Readjustment Act that everyone called the GI Bill, but neither the word nor the law had anything to say about the part that mattered most, which was what happened in the silence of a living room when a man who had been to the war sat down in a chair that no longer fit him. That silence is the subject of William Wyler's *The Best Years of Our Lives*, released in 1946, and it remains the most honest film Hollywood ever made about the cost of coming home.
 
-![How The Best Years of Our Lives filmed the postwar veteran homecoming, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How The Best Years of Our Lives filmed the postwar veteran homecoming, an analysis - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The film follows three servicemen, strangers to one another, who share the nose of a B-17 bomber on a flight back to the same fictional Midwestern city, Boone City, and discover over the months that follow that the war they thought they had left behind has followed them into peace. Al Stephenson, a middle-aged infantry sergeant played by Fredric March, returns to a senior job at a bank and a family that loves him and finds that he cannot stop drinking and cannot stomach the gap between the men he fought beside and the collateral standards his employer wants him to apply to their loans. Fred Derry, a decorated bombardier played by Dana Andrews, comes home a captain to discover that his medals are worth nothing in the labor market, that the wife he married in a hurry before shipping out is a stranger he does not like, and that the only job he can get is the soda-fountain counter he worked before the war. Homer Parrish, a young sailor played by Harold Russell, comes home with two steel hooks where his hands used to be, to a family that does not know how to look at him and a fiancee whose love he cannot believe is anything but pity. Three homecomings, three kinds of damage, and a film with the patience to refuse the one thing every studio instinct demanded, which was the triumphant ending.
 

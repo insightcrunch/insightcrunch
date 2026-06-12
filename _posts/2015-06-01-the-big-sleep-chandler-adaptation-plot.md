@@ -6,15 +6,15 @@ date: 2015-06-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Big Sleep", "Howard Hawks", "Film Noir", "Raymond Chandler", "Adaptation", "Hardboiled Detective"]
 excerpt: "The Big Sleep turns Raymond Chandler's tangled novel into a film whose plot never fully resolves, proving that mood and voice can carry hardboiled cinema."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-06-01
+lang: en
 ---
-
 The single most revealing decision in Howard Hawks's adaptation of Raymond Chandler was the decision not to fix the plot. When the writing team reached a body in a car at the bottom of a pier and could not work out who had put it there, they did not invent an answer, restructure the chain of cause and effect, or send Marlowe back to gather the missing clue. They wired the novelist, received a shrug, and kept shooting. The film that resulted runs for the better part of two hours on blackmail, gambling, pornography, and at least half a dozen corpses, and it never bothers to make all of that arithmetic add up. A film built on a mystery declines to solve itself, and it loses nothing by the refusal. That is the puzzle worth studying, and it is a puzzle about adaptation rather than about murder.
 
-![The Big Sleep adaptation analysis](/assets/images/blog/blog-01.webp)
+![The Big Sleep adaptation analysis](/assets/images/blog/blog-86.webp)
 
 Most writing on this film treats the confusion as an anecdote, a charming bit of Hollywood lore about the telegram and the unanswered question. The anecdote is real, and it is repeated below, but it is the wrong place to stop. The confusion is not a production accident that the film survived. It is the direct consequence of a specific theory of what the source material is, a theory the filmmakers absorbed from Chandler himself and then executed with more discipline than the careless plot suggests. Chandler did not write puzzles to be solved. He wrote a voice moving through a corrupt city, and the plot was the route the voice took, not the point of the trip. Hawks understood this, kept the voice and the route, and let the destination dissolve. The result is the clearest case in American cinema of a hardboiled adaptation that sacrifices coherence on purpose and gains everything that matters in exchange.
 

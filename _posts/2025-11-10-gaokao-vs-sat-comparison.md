@@ -6,14 +6,14 @@ date: 2025-11-10
 categories: ["Industry"]
 tags: ["高考", "SAT", "Exam Comparison", "International Education", "中美教育对比"]
 excerpt: "高考与 SAT 不是同一种考试的两个版本,而是服务两套招生体系的不同工具。本文从中美招生制度的底层逻辑入手,逐层拆解两者在考试结构、科目广度、单题难度、总认知负荷、重考机制、备考节奏、经济成本与录取权重上的本质差异,并结合不同考生画像与省份背景,帮你判断哪条路更适合自己,而不是空泛地纠结于谁更难这个问题。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "xu-meifang"
+lang: zh
 ---
-
 每隔一段时间,总会有家长在咨询时抛出同一个问题:"高考和 SAT 到底哪个更难?"这个问题听起来很自然,却隐藏着一个根本性的误解。把高考和 SAT 放在同一把尺子上量,就好比拿一辆载重卡车和一辆跑车比"哪个更好"。卡车跑不过跑车,跑车也拉不动货,但没有人会因此说其中一个是失败的设计。两者被造出来,本就是为了解决不同的问题。高考和 SAT 也是如此,它们诞生于两套截然不同的高校招生体系,承担着完全不同的职责。理解了这一点,关于"谁更难"的争论才会显出它的空洞。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-76.webp)
 *中美两套高校入学考试的结构、难度与招生职责对比*
 
 这个问题之所以被反复提起,背后其实藏着真实的焦虑。有的家长是在为孩子的未来权衡两条路该怎么选,有的学生是想给自己脚下这条路找一个"值不值得"的注脚,还有的人只是被网络上各种"中外考试难度对比"的标题党勾起了好奇。无论出于哪种动机,他们真正想知道的,其实并不是一个抽象的难度名次,而是"这条路适不适合我、我该不该走"。把焦虑包装成"哪个更难"的提问,反而容易让人在错误的方向上越纠结越糊涂。

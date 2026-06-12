@@ -6,14 +6,14 @@ date: 2025-09-15
 categories: ["Industry"]
 tags: ["高考", "考试当天", "备考技巧", "考场规则", "Exam Day"]
 excerpt: "高考那两天,真正较量的不是知识,而是流程执行与心理稳定。这份逐时段操作指南完整覆盖考前一晚的备物与作息、清晨出门的节奏、入场安检的流程、语文数学外语各科的应对策略、午间休息的调整、考场突发状况的处理,以及考间不对答案的纪律与考后查分的衔接,把抽象的紧张拆解成可以照着执行的清单,帮你稳稳发挥真实水平。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "zhang-hao"
+lang: zh
 ---
-
 走到高考那两天,真正的较量其实已经不在书本里。三年的积累早就沉淀进了你的笔尖与脑海,而眼前这短短四十多个小时,考验的是另一种能力:把准备好的东西稳稳地拿出来。许多同学在最后阶段问的不再是"这道题怎么做",而是"那天我会不会发挥失常"。答案往往不取决于你又背了多少,而取决于你能否把流程走顺、把情绪稳住。这份指南要做的,就是把那两天里每一个看似琐碎的环节拆开来讲清楚,让你在走进考点之前,心里就已经演练过一遍。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-54.webp)
 *高考两天逐时段行动指南:把不确定变成可执行的清单*
 
 ## 那两天拼的是执行,不是知识

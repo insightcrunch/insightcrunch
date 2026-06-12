@@ -6,15 +6,15 @@ date: 2022-05-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Conflict", "Climax", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The central conflict in The Great Gatsby runs deeper than the love triangle. See the real antagonist, the Plaza climax, and the novel's bleak resolution."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2022-05-16
+lang: en
 ---
-
 Ask twenty readers to name the central conflict in The Great Gatsby and most will say the same thing: two men want the same woman, and the richer one wins. That answer is not wrong so much as shallow, and the gap between it and the truth is the gap between a reader who has absorbed the plot and a reader who can argue about the design. The rivalry between Jay Gatsby and Tom Buchanan over Daisy is real, and it is loud, and it is where the visible drama lives. But it is a surface that a careful reader learns to look through. Underneath the shouting at the Plaza Hotel sits a quieter and far more punishing struggle, and naming it correctly is the difference between summarizing the book and understanding what Fitzgerald built.
 
-![The central conflict, climax, and resolution in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The central conflict, climax, and resolution in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 This guide is a dramatic anatomy of the novel. It identifies every strand of conflict the book sets running, traces how those strands tighten into a single afternoon at the Plaza, and follows the wreckage outward to the funeral that closes the story. By the end you will be able to do something most study guides never let you do: say precisely what the novel's dramatic engine is, where it reaches its peak, why the peak is an argument rather than a death, and why the ending feels like a defeat even though the law never touches the people who caused it. The aim is not more information. The aim is an argument you can carry into a seminar or an exam and defend with the text.
 

@@ -6,13 +6,15 @@ date: 2015-04-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Third Man", "Carol Reed", "Film Noir", "Cinematography", "World Cinema", "Film History"]
 excerpt: "The Third Man turns canted angles, wet cobblestones, and the real ruins of postwar Vienna into pure dread, the craft that defines European noir style."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-04-01
+lang: en
 ---
-
 There is a single decision in The Third Man that explains everything else, and it is not the zither, not the famous reveal of a face in a doorway, not the speech about cuckoo clocks. It is a tilt. Carol Reed and his cinematographer Robert Krasker pitched the camera off its level so often that a city already broken in half by war seems to lean toward the viewer, threatening to slide out of the frame. The image arrives before the meaning does. You feel that something is wrong with the world of this picture a full beat before you can name what the wrongness is, and that gap, between sensation and understanding, is the engine of its dread.
+
+![The Third Man: How Krasker Shot a City Off Its Axis - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 That tilt is the place to begin, because it is the clue to the larger achievement. Most accounts of this 1949 film reach quickly for the music, the boyish menace of Orson Welles, or the elegant fatalism of Graham Greene's script. All of that is real and all of it matters. But the deepest accomplishment of the picture is photographic, and it is a fusion that almost no other film of its moment managed. Reed and Krasker took the distortions of a studio art, the painted shadow and the warped angle that German Expressionism had invented and Hollywood had domesticated into film noir, and they laid those distortions over a real ruined city that they did not have to build, because the war had already built it for them. The expressionism here is not painted on. It is found. That is the whole game, and the rest of this analysis is an attempt to show, shot by shot, how the game is played and why it sets this European noir apart from the American studio shadows being manufactured at the very same time.
 
@@ -340,5 +342,4 @@ The central lesson is that technique should serve meaning, not spectacle. Every 
 ### Q: How does The Third Man fit into postwar British cinema?
 
 The Third Man stands among the high points of postwar British cinema, made within Alexander Korda's London Films by a British director, cinematographer, and screenwriter at the peak of their powers. It belongs to a remarkable run of British achievement in the late nineteen forties, and its director Carol Reed had immediately preceded it with Odd Man Out, the Belfast-set study that rehearsed many of its visual techniques. What sets The Third Man apart even within that strong period is its outward gaze: rather than examining British life, it sends an American innocent into a ruined central European city, using a British craft sensibility to photograph a continental catastrophe. The film won the top prize at the Cannes festival and the leading British film honor of its moment, recognition that confirmed its standing both at home and abroad as one of the defining works its national cinema produced.
-
 

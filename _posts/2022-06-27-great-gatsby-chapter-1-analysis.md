@@ -6,17 +6,17 @@ date: 2022-06-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 1", "Close Reading", "Nick Carraway", "American Literature"]
 excerpt: "Great Gatsby Chapter 1 summary and analysis: how Nick's arrival, the Buchanan dinner, and the green light plant every thread the whole novel later unwinds."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2022-06-27
+lang: en
 ---
-
 # Great Gatsby Chapter 1: Summary and Analysis
 
 Great Gatsby Chapter 1 is the most deceptively quiet opening in American fiction, a stretch of pages where almost nothing detonates and yet every charge that will later explode is already buried. A first-time reader often finishes these pages convinced that the story has not started. There has been a dinner, some uneasy talk, a strange phone call, and a man standing alone on a lawn. The plot, in the ordinary sense of incident piled on incident, seems to be waiting in the wings. That impression is the first thing a serious reading has to correct, because the opening installment is not a slow throat-clearing before the real book begins. It is the real book in compressed form, the whole design folded down to its seed.
 
-![Great Gatsby Chapter 1 summary and analysis with Nick's arrival, the Buchanan dinner, and the green light - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Great Gatsby Chapter 1 summary and analysis with Nick's arrival, the Buchanan dinner, and the green light - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 Read it that way and the apparent quiet becomes the point. Fitzgerald spends his opening not on action but on installation: he installs a narrator, a social geography, a marriage, a longing, and a method of telling, and he does all five at once, so smoothly that the machinery never shows. The aim of this analysis is to make the machinery visible. By the end you should be able to name what each part of the opening does, defend a single claim about why the section matters, and carry a usable argument into a classroom or an essay rather than a list of events you happen to remember.
 
