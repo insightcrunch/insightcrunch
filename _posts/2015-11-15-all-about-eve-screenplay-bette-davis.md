@@ -8,11 +8,13 @@ tags: ["Cinema Classics", "All About Eve", "Joseph L. Mankiewicz", "Screenwritin
 excerpt: "All About Eve turns a backstage tale into an autopsy of ambition through relay narration, sharp dialogue, and a cyclical ending that begins the climb anew."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-11-15
+lang: en
 ---
-
 A young woman in a plain coat reaches for a statuette, and the image stops dead. The applause hangs in the air. A sardonic voice cuts across the frozen room to tell us, with the confidence of a man who has decided the ending in advance, that we are about to learn the truth about the girl on the stage. That held frame near the start of All About Eve is one of the most quietly radical openings in studio cinema, and everything the screenplay does afterward grows out of it. Joseph L. Mankiewicz does not begin at the beginning. He begins at the verdict, freezes it, and then spends two hours assembling the case that explains how the verdict was reached, handing the telling from one witness to the next.
+
+![All About Eve: The Screenplay That Dissects Ambition - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 This is a film built like a deposition. The backstage world of the New York theater, with its first nights and its dressing-room jealousies and its long lunches at which careers are decided, supplies the surface. Underneath the surface runs an argument about ambition: what it costs, who pays, and why the cycle never stops turning. The genius of the screenplay is that it never lectures on that argument. It dramatizes the argument through who gets to narrate, what each narrator chooses to emphasize, and what the frozen frame at the start is concealing from us even as it promises full disclosure.
 

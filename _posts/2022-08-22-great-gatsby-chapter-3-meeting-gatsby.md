@@ -6,15 +6,15 @@ date: 2022-08-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 3", "Jay Gatsby", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "Meeting Gatsby in Chapter 3 turns on a single reassuring smile, a quiet reveal, formal speech, and the gap between the rumored legend and the real man."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2022-08-22
+lang: en
 ---
-
 Meeting Gatsby in Chapter 3 of The Great Gatsby is the moment the novel finally lets its title character walk on stage, and Fitzgerald stages it as a trick. For two and a half chapters the reader has heard about Gatsby the way Nick has heard about him, through rumor and party gossip and the awed hush of strangers, and then, without warning, the rumored man turns out to be the courteous stranger Nick has already been talking to for several minutes. The introduction is built on a delay and a reveal, and at its center sits a single described smile that does more persuasive work than any speech the character could have given. Understanding how that smile functions, and why Fitzgerald withholds the name until after the warmth has landed, is the key to reading the entrance of the most famous host in American fiction.
 
-![Meeting Gatsby in Chapter 3 of The Great Gatsby and the smile explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Meeting Gatsby in Chapter 3 of The Great Gatsby and the smile explained - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 This article owns the meeting moment itself. It is not a recap of the whole third chapter, which belongs to the [full Chapter 3 summary and analysis](/2022/08/08/great-gatsby-chapter-3-analysis/), and it is not a tour of the party machinery, which belongs to the reading of [Gatsby's first party](/2022/08/15/great-gatsby-chapter-3-first-party/). The focus here is narrow and deliberate: the few pages where Nick, sitting at a table with a pleasant stranger, discovers that the stranger is the man the entire valley has been gossiping about, and the way Fitzgerald turns that discovery into the reader's first lesson in how Gatsby works on people.
 

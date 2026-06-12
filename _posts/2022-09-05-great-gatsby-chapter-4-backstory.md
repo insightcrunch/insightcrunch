@@ -6,17 +6,17 @@ date: 2022-09-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 4", "Jay Gatsby", "Close Reading", "Character Analysis", "American Literature"]
 excerpt: "Gatsby's backstory in Chapter 4 hands Nick a medal and an Oxford photo as proof, yet the San Francisco slip quietly turns his own evidence against him."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2022-09-05
+lang: en
 ---
-
 A man you barely know picks you up for lunch, drives you through a wasteland and across a bridge, and somewhere on that ride decides to hand you his entire life. That is the strange transaction at the heart of Gatsby's backstory in Chapter 4 of The Great Gatsby, the moment when Jay Gatsby raises his right hand, swears to tell the truth, and recites a history of wealthy parents, an Oxford education, a war fought as a decorated major, and years spent wandering Europe like a prince. He even produces physical evidence: a medal from Montenegro and a photograph from Trinity Quad. The scene asks the reader to do something a plot summary never does, which is to weigh a confession against its own proof and decide whether the proof helps or hurts the man offering it.
 
 What makes this passage worth slowing down over is that Gatsby's evidence does not settle the question. It complicates it. The medal is real metal with a real inscription; the photograph shows a real young man in a real archway. And yet the story those objects are meant to authenticate keeps tripping over small, telling details, the most famous of which is a single word: when Nick asks which part of the Middle West Gatsby comes from, the answer is San Francisco, a city on the Pacific coast that no one would place in the American interior. The backstory is built to be believed and built, at the same time, to give itself away.
 
-![Gatsby's backstory claims in Chapter 4 of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Gatsby's backstory claims in Chapter 4 of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This article reads that self-told history closely, claim by claim, and tracks the gap between what Gatsby asserts and what the text quietly undercuts. The aim is not to brand him a simple liar or to take him at his word, but to show how Fitzgerald engineers a confession that is part fact, part exaggeration, and part slip, so that a careful reader leaves able to argue exactly which parts to trust and why. For the full sweep of the chapter, including the lunch with Wolfsheim and the second half where Jordan delivers the Louisville story, see the companion reading of [Chapter 4 as a whole](/2022/08/29/great-gatsby-chapter-4-analysis/). Here the focus is narrower and sharper: the autobiography Gatsby narrates in his own voice, and the proof he carries in his pocket to back it up.
 

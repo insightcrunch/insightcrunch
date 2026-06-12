@@ -6,17 +6,17 @@ date: 2015-08-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Laura", "Otto Preminger", "Film Noir", "Film Scores", "Film Analysis"]
 excerpt: "Laura (1944) makes David Raksin's haunting theme the object of a detective's love, the score that turns film music from background into obsession itself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-08-15
+lang: en
 ---
-
 A detective falls in love with a dead woman. He never meets her, never hears her voice, never watches her cross a room. He falls for a face in a painting and for a melody that follows him from room to room, and by the time the picture turns, he is already lost. That is the engine of Laura (1944), Otto Preminger's cool and lacquered murder mystery, and the most important fact about it is that the engine runs on music. David Raksin's theme is not decoration laid over the story. It is the story's beating center, the thing the detective is actually chasing, the shape that longing takes when the person who provoked it is supposedly gone. Where most films of the period used an orchestra to underline what the images already showed, Laura did something rarer and stranger: it made a single recurring melody the object of desire, so that the audience falls for the absent woman through the same channel the detective does, through the ear.
 
 This article reads Laura as a problem in sound rather than a problem in plot. The whodunit machinery is elegant and worth admiring, but it is not what makes the film durable, and it is not what a researcher cannot already assemble from a synopsis. What a synopsis cannot give is the precise mechanism by which a piece of music becomes a character, recurring until the audience cannot separate the tune from the woman, the woman from the wanting, the wanting from the screen. Raksin built that mechanism over a single weekend under a deadline imposed in anger, and the film built its identity around it. To understand Laura is to understand how its theme works, cue by cue, and how that approach to film music sits against the symphonic, leitmotif-driven scoring that dominated Hollywood at the time and against the very different uses of music being developed in cinemas abroad.
 
-![How the Laura theme works as the obsession at the center of Otto Preminger's 1944 film noir, a score analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Laura theme works as the obsession at the center of Otto Preminger's 1944 film noir, a score analysis - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 ## The Sonic Signature: A Single Melody Doing the Work of an Entire Cast
 

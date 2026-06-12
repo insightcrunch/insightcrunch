@@ -6,17 +6,17 @@ date: 2022-07-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 2", "The Valley of Ashes", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "The valley of ashes scene opens Great Gatsby Chapter 2 with a descent into ash, a forced look up at Eckleburg's eyes, and the first sight of Wilson's garage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2022-07-25
+lang: en
 ---
-
 Most readers meet the valley of ashes in *The Great Gatsby* the way Nick meets it, by accident, on the way to somewhere else, and that is exactly how Fitzgerald wants the encounter to feel. Chapter 2 opens by pulling the novel off its glittering rails and dropping it into a gray waste between West Egg and Manhattan, and the few pages that describe this place do more quiet work than any party scene that follows. The valley of ashes is not background. It is the moral floor of the book, laid early so everything bright that comes later has something to fall onto. Read the descent slowly and you find Fitzgerald building, in three measured movements, the image the whole novel will keep returning to: human squalor below, and a blank watching gaze above.
 
 This article reads that scene closely, line of sight by line of sight, from the road that shrinks away to the ash heaps, up to the painted eyes, and into George Wilson's garage. The aim is not to summarize what happens but to show how the passage is made and why its placement so early in Chapter 2 matters. The full symbolic life of the wasteland is taken up in the dedicated study of [the valley of ashes as a symbol](/2025/05/05/valley-of-ashes-symbolism/), and the billboard above it gets its own reading in the piece on [the eyes of Doctor T. J. Eckleburg](/2025/04/21/eyes-of-tj-eckleburg/); here the concern is the scene itself, the moment of first contact, before the imagery hardens into meaning.
 
-![The valley of ashes scene in The Great Gatsby Chapter 2](/assets/images/blog/blog-01.webp)
+![The valley of ashes scene in The Great Gatsby Chapter 2](/assets/images/blog/blog-108.webp)
 
 ## Where the valley scene sits in the chapter and the arc
 

@@ -6,19 +6,19 @@ date: 2022-07-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 2", "The Valley of Ashes", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "Great Gatsby Chapter 2 summary and analysis: the descent into the valley of ashes, Eckleburg's brooding eyes, and the party where Tom breaks Myrtle's nose."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2022-07-18
+lang: en
 ---
-
 # Great Gatsby Chapter 2: Summary and Analysis
 
 If Great Gatsby Chapter 2 reads like a detour, that is the trap it sets. Chapter 1 hands the reader a glittering world of white dresses, sea breezes, and a marriage that looks like money behaving itself. Chapter 2 drives straight out of that world and dumps the reader in a grey wasteland, then in a cramped city apartment where the same men who dine on East Egg lawns get drunk and break a woman's face. The chapter is short, it is ugly, and it is the place where the novel quietly tells you what its glamour costs. Reading it as a string of events, a stop here and a party there, misses the design. Read as analysis, Great Gatsby Chapter 2 is a deliberate descent, a controlled fall from the surface of wealth into the ash and the violence that hold it up.
 
 That descent is the chapter's argument, not its accident. Fitzgerald could have shown the affair between Tom Buchanan and Myrtle Wilson in a dozen gentler ways. He chose to route the reader through the valley of ashes, past the blind billboard eyes of Doctor T. J. Eckleburg, into a garage owned by a beaten-down man, and finally into a flat where class aspiration curdles into bruises. Every movement of the chapter lowers the reader, and the lowering is the point.
 
-![The Great Gatsby Chapter 2 summary and analysis: the valley of ashes, Eckleburg's eyes, and Myrtle's party - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby Chapter 2 summary and analysis: the valley of ashes, Eckleburg's eyes, and Myrtle's party - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 This is the canonical reading of the chapter, and it pairs naturally with the close work this series does on the two scenes it contains. The desolate stretch and the brooding billboard get their own focused treatment in the analysis of [the valley of ashes scene in Chapter 2](/2022/07/25/great-gatsby-chapter-2-valley-of-ashes/), and the drunken flat gets its own anatomy in the reading of [Myrtle's apartment party](/2022/08/01/great-gatsby-chapter-2-myrtle-party/), while the contrast that frames the whole descent runs back to the [close reading of Chapter 1](/2022/06/27/great-gatsby-chapter-1-analysis/). What follows here is the whole-chapter view: how the parts assemble into a single fall, and why that fall matters for everything the novel does next.
 
