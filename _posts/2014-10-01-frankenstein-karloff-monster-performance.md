@@ -6,7 +6,7 @@ date: 2014-10-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Frankenstein", "James Whale", "Horror", "Performances", "World Cinema"]
 excerpt: "How Boris Karloff turned the Monster in Frankenstein into a tragic figure through movement, makeup, and timing alone, with no dialogue to lean on at all."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2014-10-01
@@ -14,7 +14,7 @@ lang: en
 ---
 A character who never speaks a coherent sentence became the most recognizable face in horror, and the reason is not the makeup, though the makeup is unforgettable. The reason is what an actor did underneath it. The central puzzle of Frankenstein, James Whale's 1931 Universal production, is how a creature assembled from corpses and denied language acquires an interior life so legible that audiences pity him before they fear him. The film hands its leading performer no monologue, no confession, no plea. It gives him a flat skull, two neck electrodes, eyes weighted half shut, a body that moves as if it is learning the idea of movement, and roughly seventy minutes to make all of that mean something. Boris Karloff, billed in the opening credits as a question mark, answered with a performance that relocated the entire emotional center of the horror film.
 
-![How Boris Karloff built a wordless, sympathetic Monster in Frankenstein, a performance analysis - Insight Crunch](/assets/images/blog/blog-48.webp)
+![How Boris Karloff built a wordless, sympathetic Monster in Frankenstein, a performance analysis - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This article studies that performance as constructed craft rather than as a famous image. The aim is to show, scene by scene and gesture by gesture, how Karloff and Whale built sympathy into a figure the script could easily have left a brute, and to set that achievement against the horror bodies of European cinema that Whale's film openly descends from. The comparison is the point. The stylized sleepwalkers and predators of German Expressionism made the horror body into abstract design, a shape that meant dread. Karloff did something the European films had not quite done: he put a wounded, frightened, unwilling consciousness inside the design. He invented the sympathetic monster, the creature whose tragedy is that it did not ask to exist, and that invention is the reason the figure outlived its decade and reshaped a genre.
 

@@ -6,7 +6,7 @@ date: 2012-08-30
 categories: ["Industry"]
 tags: ["s-400", "air-defense", "india", "russia", "2025-conflict", "military-technology"]
 excerpt: "India deployed its Russian-built S-400 Triumf air defense system in combat for the first time during the May 2025 conflict with Pakistan, a global debut."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "kevin-reeves"
 last_updated: 2026-05-17
@@ -16,7 +16,7 @@ Every weapons platform eventually faces a moment when theory yields to practice,
 
 <!--more-->
 
-![S-400 First Combat Deployment Analysis - Insight Crunch](/assets/images/blog/blog-13.webp)
+![S-400 First Combat Deployment Analysis - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 Before May 2025, every assessment of the Triumf existed in the conditional tense. Manufacturer specifications from Almaz-Antey, the Russian state defense conglomerate responsible for the platform's design and production, described a system capable of detecting aerial targets at six hundred kilometers, tracking three hundred objects simultaneously, and guiding interceptor missiles to engage threats at ranges up to four hundred kilometers. Western defense analysts acknowledged these figures while noting that no customer had ever tested the system against a capable, motivated adversary. Turkey had purchased the platform but never activated it operationally, choosing instead to let its batteries gather dust in warehouses as a bargaining chip with Washington. China deployed its batteries along the Taiwan Strait and near the Senkaku Islands but never fired them in anger. Russia itself used the system in Syria, though the targets there were comparatively unsophisticated. India's conflict with Pakistan in May 2025 changed everything, providing the first real-world dataset against a peer adversary's air force equipped with modern electronic warfare, Chinese-supplied cruise missiles, and Western-designed fighter aircraft.
 

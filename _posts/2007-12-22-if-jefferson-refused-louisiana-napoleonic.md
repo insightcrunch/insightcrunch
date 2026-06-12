@@ -6,7 +6,7 @@ date: 2007-12-22
 categories: ["Leisure"]
 tags: ["thomas-jefferson", "counterfactual", "us-presidents", "louisiana-purchase", "napoleon", "french-north-america"]
 excerpt: "Jefferson nearly refused Louisiana on constitutional grounds in 1803. If he had held that line, Napoleon keeps Louisiana. What follows for America? Three views."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 72
 author: "chloe-martin"
 last_updated: 2026-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 Jefferson sat at his Monticello desk in early July 1803 with a draft constitutional amendment in front of him. The document, two paragraphs in his own hand, authorized the federal government to acquire foreign territory and incorporate it into the Union. He had drafted the language because he was certain the existing Constitution gave the president no such power. James Monroe and Robert R. Livingston had just signed a treaty in Paris on April 30, 1803 acquiring roughly 828,000 square miles of French Louisiana for fifteen million dollars, a transaction that doubled the territorial size of the United States in a single instrument. Jefferson, the strict constructionist who had built fifteen years of opposition theory against Federalist constitutional improvisation, faced a question he had been theorizing about since the late 1780s: was the president constitutionally permitted to do something the Constitution did not specifically authorize?
 
-![Jefferson Louisiana Purchase counterfactual Napoleonic North America 1803 - Insight Crunch](/assets/images/blog/blog-21.webp)
+![Jefferson Louisiana Purchase counterfactual Napoleonic North America 1803 - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 By October he had abandoned the amendment. The treaty went to the Senate without it. The Senate ratified on October 20, 1803 by a vote of twenty-four to seven. Jefferson's biographers have written about that summer's reversal for two centuries. The constitutional theory yielded to the geopolitical opportunity. The acquisition entered American history as the founding act of continental ambition. The reading-of-record holds that Jefferson, when pushed against the wall, chose pragmatism over principle and bequeathed the precedent to every subsequent president who would expand executive authority under emergency conditions.
 

@@ -6,7 +6,7 @@ date: 2024-02-19
 categories: ["Industry"]
 tags: ["TCS CodeVita", "TCS coding competition", "CodeVita preparation", "competitive coding TCS"]
 excerpt: "TCS CodeVita decoded - competition structure, how it feeds into Digital hiring, and a 60-day preparation plan for competitive coding."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "arun-verma"
 last_updated: 2026-03-30
@@ -14,7 +14,7 @@ lang: en
 ---
 TCS CodeVita is one of the largest global coding competitions run by a corporate entity, and it sits at a unique intersection: it is simultaneously a prestigious competitive programming contest, a talent identification mechanism for TCS's premium hiring tracks, and the most demanding preparation ground for the TCS NQT Advanced Coding section. Candidates who participate in CodeVita and perform well earn direct interview access to TCS's Digital and Prime profiles - bypassing the standard NQT route entirely. Candidates who prepare for CodeVita but do not win still benefit enormously because the CodeVita preparation skill set maps directly onto what TCS Digital Advanced Coding requires. This guide covers the competition completely: its structure, its scoring, how it connects to hiring, how it differs from standard competitive programming, and a systematic 60-day preparation plan that takes candidates from beginner to genuinely competition-ready.
 
-![TCS Guide](/assets/images/blog/blog-10.webp)
+![TCS Guide](/assets/images/blog/blog-37.webp)
 
 ## What TCS CodeVita Is
 

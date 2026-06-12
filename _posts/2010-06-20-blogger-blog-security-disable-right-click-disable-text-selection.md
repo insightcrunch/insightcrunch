@@ -5,7 +5,7 @@ date: 2010-06-20
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "All of us, into blogging or engaged in online activities, at some time or the other has faced the issue of our images and own articles being copied to..."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 1
 author: "diana-patel"
 last_updated: 2026-04-01
@@ -60,5 +60,5 @@ document.onmouseup=reEnable
 </script>    
 ```
 
-![Disable Text Selection and Right Click Code](/assets/images/blog/blog-65.webp)
+![Disable Text Selection and Right Click Code](/assets/images/blog/blog-49.webp)
 Disable Text Selection and Right Click Code

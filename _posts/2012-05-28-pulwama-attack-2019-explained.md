@@ -6,7 +6,7 @@ date: 2012-05-28
 categories: ["Industry"]
 tags: ["pulwama", "crpf", "balakot", "jaish-e-mohammed", "terrorism", "india"]
 excerpt: "The Pulwama suicide bombing of February 2019 killed 40 CRPF personnel and forced India to strike inside Pakistan proper for the first time since 1971."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
 author: "jason-mckenzie"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ At 3:15 in the afternoon on February 14, 2019, a Mahindra Scorpio carrying somew
 
 <!--more-->
 
-![Pulwama Attack 2019 Explained - Insight Crunch](/assets/images/blog/blog-39.webp)
+![Pulwama Attack 2019 Explained - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 What happened in the next twelve days reshaped India's military doctrine permanently. New Delhi did not wait. New Delhi did not consult. New Delhi did not engage Islamabad through the diplomatic channels that had absorbed every previous attack since the 1999 Kandahar hijacking. On February 26, in the pre-dawn hours, twelve Mirage 2000 jets of the Indian Air Force crossed the international boundary, penetrated thirty kilometres into Pakistani territory proper, and dropped SPICE 2000 precision-guided bombs on what India identified as a Jaish-e-Mohammed seminary at Balakot in Khyber Pakhtunkhwa. For forty-eight years, since the 1971 war that produced Bangladesh, India had not struck inside undisputed Pakistani soil. The bombing of a CRPF convoy on a Kashmir highway broke that line. The decision to break it was made in twelve days.
 

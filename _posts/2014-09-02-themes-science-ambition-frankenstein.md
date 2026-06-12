@@ -6,7 +6,7 @@ date: 2014-09-02
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "science", "ambition", "themes", "literary-analysis", "classic-literature"]
 excerpt: "Shelley targets ambition-without-responsibility, not ambition itself, through three parallel protagonists. The popular anti-science reading misses her argument."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "lauren-hayes"
 last_updated: 2014-09-02
@@ -16,7 +16,7 @@ Mary Shelley subtitled her 1818 masterwork "The Modern Prometheus," and most rea
 
 <!--more-->
 
-![Science and Ambition in Frankenstein - Insight Crunch](/assets/images/blog/blog-24.webp)
+![Science and Ambition in Frankenstein - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The thesis of this article is direct: Shelley does not oppose ambition. She opposes creation without responsibility. Walton has ambition and chooses responsibility when the two conflict. Victor has ambition and abandons responsibility at every critical moment. The Creature has ambition for legitimate attachment and is denied by precisely the figures who owed him care. The three-protagonist structure is Shelley's moral machinery, and flattening it into generic anti-science cautionary tale destroys the machine. SparkNotes and LitCharts treat the theme as "science is dangerous," and both miss what makes Shelley's argument genuinely interesting: the claim that the problem is not what Victor created but what he refused to do after creating it. For a [comprehensive reading of the full text](https://insightcrunch.com/2014/08/18/complete-analysis-frankenstein-shelley/), the complete analysis traces this argument through every chapter. Here, the focus narrows to the three-ambition framework and what it reveals about Shelley's philosophy of creation, knowledge, and moral obligation.
 

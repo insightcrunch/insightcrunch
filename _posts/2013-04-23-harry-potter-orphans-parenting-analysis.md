@@ -6,7 +6,7 @@ date: 2013-04-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Orphans", "Parenting", "Tom Riddle"]
 excerpt: "Orphans and parenting in Harry Potter, read through Riddle, Harry, and Neville, argue that family is a choice of imagination rather than blood inheritance."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2013-04-23
@@ -16,7 +16,7 @@ lang: en
 
 The series begins with an abandonment dressed as a rescue. A baby is left on a doorstep in the November cold, wrapped in a blanket, with a letter that no one will read aloud for ten years. No social worker signs off on the arrangement. No relative is consulted about whether they want the child. An old man, a stern witch, and a weeping giant on a flying motorcycle simply decide, and then they leave, and the front step of number four Privet Drive becomes the most consequential nursery in modern children's literature. The boy who wakes up there will not be told who he is. He will be told he is a burden.
 
-![Orphans and parenting analysis across all Harry Potter books](/assets/images/blog/blog-96.webp)
+![Orphans and parenting analysis across all Harry Potter books](/assets/images/blog/blog-84.webp)
 
 Read the seven books with the wands and the broomsticks stripped away and a different architecture appears underneath. This is an orphan story. It is, in fact, a story almost obsessively populated by the parentless: the boy on the doorstep; the dark wizard raised in a children's home; the round-faced classmate whose mother and father live in a hospital ward but cannot recognise him; the godfather who fled his own family at sixteen; the half-giant whose mother walked out and whose father died young; the werewolf abandoned by a society that fears him; the infant born in the middle of a war whose parents both die before he can form a memory of their faces. Rowling does not merely give her hero dead parents because the genre requires it. She builds an entire moral universe out of the condition of being unparented, and then she asks the only question that finally matters in that universe: what does a person do with the absence?
 

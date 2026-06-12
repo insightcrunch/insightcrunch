@@ -6,7 +6,7 @@ date: 2023-12-04
 categories: ["Technology"]
 tags: ["Azure", "Network Watcher", "Networking", "Troubleshooting", "Cloud Computing"]
 excerpt: "Azure Network Watcher pairs each diagnostic tool with one precise connectivity question, so you can localize any network fault to its real cause in minutes."
-image: "/assets/images/blog/blog-105.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 60
 author: "ryan-walsh"
 last_updated: 2023-12-04
@@ -16,7 +16,7 @@ A connectivity problem in Azure rarely announces its cause. A request times out,
 
 The reason engineers reach for the wrong tool, or for no tool at all, is that the Azure Network Watcher feature set looks like a grab bag. IP flow verify, next hop, effective security rules, connection troubleshoot, connection monitor, packet capture, NSG flow logs, traffic analytics, topology, VPN diagnostics: it reads like a menu with no organizing principle. There is an organizing principle, and once you hold it, the menu becomes a decision. Each tool answers exactly one kind of question. The skill is not memorizing every tool. The skill is matching the symptom in front of you to the single question that will confirm or eliminate a cause, then running the tool that answers that question. This article gives you that mapping, the internals behind each tool so you trust its answer, the commands to run each one, and a worked diagnosis that walks a real connectivity failure from symptom to root cause without a single speculative change.
 
-![Azure Network Watcher and Diagnostics](/assets/images/blog/blog-105.webp)
+![Azure Network Watcher and Diagnostics](/assets/images/blog/blog-51.webp)
 
 ## What Azure Network Watcher actually is
 

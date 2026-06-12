@@ -6,7 +6,7 @@ date: 2022-05-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Close Reading", "F. Scott Fitzgerald", "American Literature", "Themes"]
 excerpt: "The Great Gatsby opening explained: how Nick's father's advice and his broken promise to reserve judgment frame the whole novel from its very first line."
-image: "/assets/images/blog/blog-108.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2022-05-30
@@ -14,7 +14,7 @@ lang: en
 ---
 Most readers treat the first page of a novel as a runway: a stretch of throat-clearing to get through before the real story takes off. With this book that instinct costs you the most important clue Fitzgerald ever gives. The Great Gatsby opening explained properly is not a warm-up at all. It is a designed trap, a sequence of moves that installs the narrator, states his promise, breaks that promise inside the same paragraph, and quietly tells you how to read everything that follows. Skim it and you spend the next eight chapters trusting a man the first page warned you about.
 
-![The Great Gatsby opening explained, Nick's father's advice and reserving judgment in Chapter 1 - Insight Crunch](/assets/images/blog/blog-108.webp)
+![The Great Gatsby opening explained, Nick's father's advice and reserving judgment in Chapter 1 - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 The passage in question runs from the novel's first sentence to the moment Nick names Gatsby and admits his scorn has an exception. It is short, roughly a page and a half, and it is the most quoted opening in American fiction after the first line of Moby-Dick. Students memorize the father's advice for exams and never ask why Fitzgerald put a piece of inherited wisdom about tolerance at the front of a book that ends in three deaths and a funeral almost nobody attends. The answer is that the opening is an argument in miniature. It proposes a way of seeing people, tolerant and reserved, and then it spends a paragraph showing that way of seeing collapsing under its own weight. Nick is the proof and the casualty.
 

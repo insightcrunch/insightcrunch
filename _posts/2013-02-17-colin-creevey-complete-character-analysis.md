@@ -6,7 +6,7 @@ date: 2013-02-17
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Colin Creevey", "Muggle-born", "Hero Worship"]
 excerpt: "A deep Colin Creevey character analysis: how the Harry Potter series uses the camera-toting Muggle-born first-year to weigh the real cost of hero-worship."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2013-02-17
@@ -16,7 +16,7 @@ lang: en
 
 There is a sentence in the final volume that most readers pass over on the first run and cannot un-see on the second. It is the moment when Oliver Wood and another fighter carry a small body into the makeshift mortuary of the Great Hall, and the body is described as looking very young. The figure being carried is a sixteen-year-old who was not supposed to be there at all, a Muggle-born who had been cleared out with the rest of the underage students and who slipped back into the castle to fight for the person he had idolised since he was eleven. He gets a sentence. He gets, at most, a short paragraph. Then the narrative moves on, because there are larger losses queued behind him and a war to finish.
 
-![Colin Creevey character analysis across the Harry Potter series](/assets/images/blog/blog-44.webp)
+![Colin Creevey character analysis across the Harry Potter series](/assets/images/blog/blog-24.webp)
 
 That brevity is the whole argument. Rowling could have given this death a chapter. She gave it a line, and the line is doing something the chapter could not have done: it reproduces, in the reader, the exact moral failure the series has been quietly building toward for six books. The reader has spent years finding this enthusiast funny. The reader has shared, without quite admitting it, the protagonist's mild irritation at being followed, photographed, and adored by a younger student with a camera and no sense of boundaries. And now the enthusiast is dead, killed in part because the adoration was real, and the reader has to sit with the discomfort of having been amused by a child who would walk into fire to be near his hero.
 

@@ -8,7 +8,7 @@ excerpt: "Stalingrad was the Eastern Front's decisive turning point where Hitler
 slug: "battle-of-stalingrad-explained"
 author: "insight-crunch-team"
 reading_time: 70
-image: "/assets/images/blog/blog-56.webp"
+image: "/assets/images/blog/blog-80.webp"
 last_updated: "2016-02-09"
 lang: en
 ---
@@ -16,7 +16,7 @@ Stalingrad was the Eastern Front turning point in the Second World War, and the 
 
 <!--more-->
 
-![The Battle of Stalingrad Explained](/assets/images/blog/blog-56.webp)
+![The Battle of Stalingrad Explained](/assets/images/blog/blog-80.webp)
 
 What makes Stalingrad analytically distinctive is not the scale of the carnage, though the scale was staggering. The analytical significance lies in the identifiable command decisions that produced the catastrophe. Adolf Hitler refused to permit the Sixth Army to attempt a breakout from the Soviet encirclement. Paulus, despite his professional military judgment warning him that the position was untenable, complied with Hitler's orders and held his troops in place. Hermann Goring promised an airlift that could not deliver the necessary supplies. Erich von Manstein's relief attempt came too late and with insufficient force. On the Soviet side, Georgy Zhukov and Aleksandr Vasilevsky planned Operation Uranus with a precision that exploited every German vulnerability along the Don River flanks. Each of these decisions was specific, identifiable, and consequential. Together, they produced the destruction of an entire field army and the transformation of the Eastern Front from a German offensive theater into a Soviet one. This article reconstructs those decisions with the granularity they deserve, drawing on the scholarship of Antony Beevor, David Glantz, and Jochen Hellbeck, and traces the consequences that followed from the frozen ruins of the city that bore Stalin's name.
 

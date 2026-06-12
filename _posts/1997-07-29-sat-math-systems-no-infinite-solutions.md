@@ -6,7 +6,7 @@ date: 1997-07-29
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Systems of Equations", "Algebra", "Advanced Math"]
 excerpt: "SAT systems with no or infinite solutions explained: solving for k, parallel lines, identical equations and the discriminant, with parameter-finding examples."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 59
 author: "hannah-moore"
 last_updated: 1997-07-29
@@ -14,7 +14,7 @@ lang: en
 ---
 A student who can solve an ordinary pair of linear equations in forty seconds will sometimes stall completely on a single extra word: the question does not ask for x and y, it asks for the value of k that makes the pair have no solution. That swap, from "solve the system" to "find the parameter that controls how many solutions the system has," is one of the most reliable ways the SAT separates a 700 math score from a 770. The arithmetic barely changes. What changes is whether you recognize that solution count is not something you compute by solving; it is something you read off the structure of the two equations before you touch a single number.
 
-![SAT systems with no or infinite solutions, parallel lines and the discriminant - Insight Crunch](/assets/images/blog/blog-61.webp)
+![SAT systems with no or infinite solutions, parallel lines and the discriminant - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 This guide builds the recognition that the standard account leaves out. Most pages will tell you that parallel lines never meet and that identical lines overlap everywhere. True, and nearly useless on test day, because the SAT rarely hands you two lines in tidy slope-intercept form and asks you to look. It hands you a pair with a letter buried in a coefficient and asks you to engineer the answer: make the slopes match, force the constants apart, or push the discriminant of a hidden quadratic to exactly zero. By the end you will own a two-step move for every linear-pair version of this item, a clean discriminant method for the harder curve-meets-line variant, and the geometric picture that tells you, in five seconds, whether you are looking at a no-solution problem, an infinite-solution problem, or a trap that looks like one and is the other.
 

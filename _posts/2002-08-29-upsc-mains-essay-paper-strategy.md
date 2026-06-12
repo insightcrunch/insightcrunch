@@ -6,7 +6,7 @@ date: 2002-08-29
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Essay Paper", "Essay Writing", "IAS Preparation"]
 excerpt: "UPSC Mains essay paper complete strategy: structure brainstorming scoring techniques essay as great equalizer for 150 plus marks."
-image: "/assets/images/blog/blog-107.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 65
 author: "kavita-sharma"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC Mains essay paper is the great equalizer in the civil services examination 
 
 The cognitive shift required is from treating essays as creative expression exercises to treating them as structured analytical compositions requiring systematic multi-dimensional engagement with specific topic within word constraints. The aspirant who reads essay topic and begins writing immediately without systematic brainstorming without thesis formulation without dimensional mapping and without structural planning produces rambling compositions that lack analytical coherence. The aspirant who reads essay topic and deploys systematic 15-minute brainstorming process formulates clear thesis maps multiple analytical dimensions plans structural architecture and then executes disciplined composition produces analytically coherent essays that consistently score in the 60 to 80 range per essay (120 to 160 total). Both aspirants may have similar general knowledge; only one deploys it through systematic analytical framework.
 
-![UPSC Mains Essay Paper Strategy for 150 Plus - Insight Crunch](/assets/images/blog/blog-107.webp)
+![UPSC Mains Essay Paper Strategy for 150 Plus - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 By the end of this guide you will understand why the essay paper is the great equalizer, the 1000-1200 word target and its implications, the essay structure architecture (introduction body with multiple dimensions conclusion), the 15-minute brainstorming method, the multi-dimensional body paragraph approach, the introduction and conclusion techniques, the scoring strategy for consistent 150 plus, the topic selection strategy between Section A and Section B, the common mistakes that produce essay underperformance, the source hierarchy for systematic preparation, and the integration with broader Mains preparation. The total time investment for dedicated essay preparation across the cycle is approximately 60 to 80 hours including 20 to 30 practice essays with structured self-review. The broader integration with Mains preparation is contextualised in the [UPSC Mains complete guide to all 4 GS papers and essay](/2002/12/11/upsc-mains-complete-guide/) article which positions essay preparation within comprehensive Mains architecture.
 

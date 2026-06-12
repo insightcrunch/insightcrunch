@@ -6,7 +6,7 @@ date: 2026-06-27
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Nationwide Vacatur", "Administrative Procedure Act", "Legal", "Immigration"]
 excerpt: "The H-1B fee was vacated nationwide, not just enjoined. Vacatur erases the rule for every employer, and the scope of that relief is the contested part."
-image: "/assets/images/blog/blog-95.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 2026-06-27
@@ -14,7 +14,7 @@ lang: en
 ---
 When Judge Leo T. Sorokin set aside the H-1B fee on June 8, 2026, the operative word in the order was not "wrong" but "vacated," and the operative phrase was not "for the plaintiff states" but "nationwide." That pairing is the whole story of how a single district court in Massachusetts erased a six-figure charge for every employer in the country, not only for the twenty states that sued. A reader who absorbs the difference between vacating a rule and enjoining its enforcement understands both why the relief reached a technology firm in Texas that filed nothing and a hospital in Florida that joined no coalition, and why that same reach is the single most appealable feature of the decision. The label sounds technical. The consequences are not.
 
-![How nationwide vacatur erased the H-1B fee for every employer, a policy mechanics analysis - Insight Crunch](/assets/images/blog/blog-95.webp)
+![How nationwide vacatur erased the H-1B fee for every employer, a policy mechanics analysis - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 Most coverage of the ruling reported that a court "struck down" the charge and moved on. That phrasing is imprecise to the point of being misleading, because "struck down" hides exactly the mechanism that makes the relief broad and the mechanism that makes it vulnerable. A court that strikes down a statute on constitutional grounds, a court that enjoins an official from enforcing a policy against named parties, and a court that vacates an agency action under the Administrative Procedure Act are doing three different things with three different reaches and three different exposures on appeal. The Massachusetts decision did the third. Understanding what that means in operation, who it binds, how durable it is, and how it can be narrowed is the difference between knowing the headline and being able to advise a client, brief a partner, or model a hiring decision under genuine uncertainty.
 

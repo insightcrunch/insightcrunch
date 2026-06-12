@@ -6,7 +6,7 @@ date: 2010-08-15
 last_updated: 2010-08-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Opening Scene", "Orson Welles", "Close Reading", "Cinematography", "Themes"]
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-38.webp"
 excerpt: "Citizen Kane opening explained shot by shot: how a No Trespassing fence, a dying word, and a blaring newsreel rehearse the entire film in five minutes."
 reading_time: 61
 author: "diana-patel"
@@ -14,7 +14,7 @@ lang: en
 ---
 The reputation of Orson Welles's 1941 picture is so settled that most people watch it the way you walk past a monument, dutifully, half-attentively, waiting for the famous sled. That habit costs them the single most instructive passage in the work. **The Citizen Kane opening** is the whole film compressed into roughly five minutes, a rehearsal of every move the next two hours will make, and a viewer who learns to read it closely has already learned how to read the rest. This piece is a shot-by-shot account of that beginning and an argument about why it matters more than the plot it sets in motion.
 
-![Citizen Kane opening scene explained shot by shot, from the No Trespassing fence to the News on the March newsreel - Insight Crunch](/assets/images/blog/blog-90.webp)
+![Citizen Kane opening scene explained shot by shot, from the No Trespassing fence to the News on the March newsreel - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 Treat the first minutes not as throat-clearing before the story but as the story's thesis stated in advance. Welles crosses a forbidden boundary to reach a dying man, hands you that man's final word, and then, with a violence of tone that still jolts first-time watchers, drops you into a brassy public summary of the same man's life that gets nearly everything wrong. That gap, between the private syllable whispered behind a locked gate and the loud official record that follows, is the engine of the entire picture. Naming it early is the most useful thing any close reading of this film can do, and it is what separates a real account of the work from the recap you can find on a hundred study pages.
 

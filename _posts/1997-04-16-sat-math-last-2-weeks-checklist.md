@@ -6,7 +6,7 @@ date: 1997-04-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Final Review", "Study Plan", "Checklist"]
 excerpt: "SAT math final two weeks mapped day by day: practice tests, error analysis, Desmos drills, formula review and a taper, ending calm and ready on test day."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
 author: "natalie-webb"
 last_updated: 1997-04-16
@@ -14,7 +14,7 @@ lang: en
 ---
 The fourteen days before the digital exam are the stretch where most students lose points they had already earned. Not in the obvious way, by forgetting a formula, but in the quiet way: they keep cramming new material, their accuracy on the things they already knew starts to slip, and they walk in tired, jittery, and convinced that one more topic will be the one that saves them. The SAT math final review is not about adding knowledge in the last fortnight. It is about protecting the knowledge you already have and arranging it so that it fires cleanly under timed pressure on the morning that counts.
 
-![SAT math last two weeks review checklist day-by-day countdown plan - Insight Crunch](/assets/images/blog/blog-81.webp)
+![SAT math last two weeks review checklist day-by-day countdown plan - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 Here is the claim this guide will defend, and it is a specific one: in the last two weeks, the highest-return activity is not learning, it is consolidation and tapering. A student who spends these days diagnosing exactly where points leak, drilling those leaks shut, rehearsing the timed rhythm of a module, and then deliberately easing off so they arrive rested will outscore an identical student who studies harder and longer right up to the night before. Effort in this window is not free. Past a point it costs you, because a fatigued brain makes the careless slips that the quantitative section punishes hardest, and a panicked one second-guesses correct first instincts. The plan below treats the taper as preparation, not as a reward for finishing, because peaking on a single date is a thing you engineer, not a thing you hope for.
 

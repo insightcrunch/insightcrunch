@@ -5,7 +5,7 @@ date: 2014-04-17
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta is one of the largest technology corporations in the world today. Big companies around the world are preparing for a recession that might come in..."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 8
 author: "gregory-marsh"
 last_updated: 2026-04-01
@@ -23,7 +23,7 @@ Read more: [Is Facebook hiring freeze over? »](https://insightcrunch.com/2014/0
 
 The senior management at Meta highlighted that they had hoped the economy would have stabilized by now. But since the economy continues to decline and stay volatile, they are being forced to plan conservatively. Meta senior management also highlighted that the company will be a much smaller organization at the end of the next few years. Meta has also reduced its hiring targets significantly. Earlier during better days, Meta had shared its target numbers for hiring. But the new numbers show that Meta has severely revised its hiring targets. The Meta management team also highlighted that their goal is to steadily reduce the headcount over the next few years. Many teams are going to shrink so that Meta can shift their energy to other priority projects and areas. Only those projects that are deemed critical and aligned with the long term vision of Meta will see a steady stream of investment and hiring of skilled resources to fill in any gaps that may arise. Meta management also highlighted that they wanted to give the individual team leaders the ability to decide how to restructure their teams internally. Individual team leaders have the liberty to decide where to backfill attrition and when to restructure teams while keeping in mind the value they are adding to the long term initiatives that are prioritized by Meta. 
 
-![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-68.webp)
+![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-40.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta Hiring Freeze

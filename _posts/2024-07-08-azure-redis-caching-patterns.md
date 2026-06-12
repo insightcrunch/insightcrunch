@@ -6,7 +6,7 @@ date: 2024-07-08
 categories: ["Technology"]
 tags: ["Azure", "Azure Cache for Redis", "Redis", "Architecture", "Performance", "Cloud Computing"]
 excerpt: "Caching patterns with Azure Cache for Redis explained: cache-aside, invalidation and TTL, session stores, tier choice, and stopping a cache stampede fast."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 60
 author: "gregory-marsh"
 last_updated: 2024-07-08
@@ -14,7 +14,7 @@ lang: en
 ---
 A cache is the fastest way to make a slow system feel fast, and the fastest way to make a correct system serve wrong answers. Both happen for the same reason: the cache holds a copy of data that lives somewhere else, and a copy is only as good as the discipline that keeps it honest. Most teams reach for caching patterns with Azure Cache for Redis the moment a database starts groaning under read load, drop a few `GET` and `SET` calls into the hot path, watch latency fall, and ship. Weeks later a customer sees a price that changed an hour ago, a feature flag that was turned off still reads as on, or a deleted record reappears, and the bug is almost impossible to reproduce because it depends on what happens to be sitting in memory at that instant.
 
-![Caching patterns with Azure Cache for Redis: cache-aside, invalidation, TTL, and stampede avoidance - Insight Crunch](/assets/images/blog/blog-84.webp)
+![Caching patterns with Azure Cache for Redis: cache-aside, invalidation, TTL, and stampede avoidance - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 That class of bug is not a Redis bug. Redis does exactly what it was told. The bug is a pattern bug: the team adopted the read path of caching without the write path, the speed without the correctness contract. This article treats caching as a design pattern rather than a pair of commands. You will leave able to apply cache-aside correctly, decide where invalidation belongs and where a time-to-live belongs, run Redis as a session store across stateless instances, pick the tier and persistence the workload actually needs, and recognize and defuse a cache stampede before it takes the source system down with it. The throughline is one rule, stated below, that explains the large majority of cache correctness incidents and tells you exactly what to check first.
 

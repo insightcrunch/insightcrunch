@@ -6,7 +6,7 @@ date: 2012-12-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Gryffindor", "Female Characters", "Adolescent Romance"]
 excerpt: "Complete literary analysis of Lavender Brown in Harry Potter - the girl dismissed as silly, her quiet loyalty, and her brutal fate at the Battle of Hogwarts."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 72
 author: "megan-clark"
 last_updated: 2012-12-23
@@ -18,7 +18,7 @@ The girl who loved Ron Weasley dies in fan memory two ways, depending on which m
 
 That ambiguity is the whole argument of this character. Lavender Brown is the test case for a question the books raise but never name: what does it cost a narrative to dismiss a girl, and what does that narrative owe her when she shows up to die anyway?
 
-![Lavender Brown character analysis in Harry Potter series](/assets/images/blog/blog-28.webp)
+![Lavender Brown character analysis in Harry Potter series](/assets/images/blog/blog-96.webp)
 
 The standard reading is that Lavender is comic relief. The Won-Won subplot in *Half-Blood Prince* is sometimes cited as the most cringe-inducing stretch in the entire seven books, a six-month sentence of secondhand embarrassment that Hermione, the reader's chosen viewpoint character on this matter, suffers through alongside the audience. Lavender slobbers on Ron in the common room. Lavender writes the boy's name in tiny gold letters on a pendant. Lavender weeps outside the hospital wing while the unconscious Ron mumbles Hermione's name in his Skele-Gro-haunted sleep. The narrative is unkind to her with the particular kind of unkindness that adolescent girls have always endured: not malice, but laughter at things they do not laugh at themselves.
 

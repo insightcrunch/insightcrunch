@@ -6,7 +6,7 @@ date: 2022-07-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 1", "Tom Buchanan", "Daisy Buchanan", "Close Reading", "Character Analysis", "American Literature"]
 excerpt: "The Buchanan dinner in Great Gatsby Chapter 1 exposes Tom's cruelty, Daisy's beautiful little fool line, and a marriage already rotting beneath its charm."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 47
 author: "olivia-grant"
 last_updated: 2022-07-11
@@ -14,7 +14,7 @@ lang: en
 ---
 The Buchanan dinner is the first time The Great Gatsby lets a reader sit at a table with the people the rest of the novel will revolve around, and Fitzgerald uses one meal to do what a lesser writer would spread across fifty pages. Nick Carraway drives across the bay to East Egg, eats with his cousin Daisy, her husband Tom, and a golfer named Jordan Baker, and by the time the plates are cleared he has watched a marriage perform its own happiness and then crack open in front of him. The scene looks like polite social comedy. It is a controlled exposure of cruelty, boredom, fear, and rot, staged so quietly that a careless reader walks away thinking nothing much happened. Reading the Buchanan dinner closely is the difference between knowing that Tom and Daisy are unhappy and being able to point to the exact lines where the novel proves it.
 
-![The Buchanan dinner scene in The Great Gatsby Chapter 1 close reading of Tom Daisy and Jordan - Insight Crunch](/assets/images/blog/blog-05.webp)
+![The Buchanan dinner scene in The Great Gatsby Chapter 1 close reading of Tom Daisy and Jordan - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 This article treats the dinner as a single, self-contained piece of stagecraft and reads it for everything it accomplishes: how Tom is built into a figure of menace before he says anything cruel, how an interrupting telephone does the work of a hundred lines of exposition, how Jordan Baker is slid into the cast as the novel's coolest observer, and how Daisy's most quoted line in the whole book arrives not as wisdom but as a wound. The aim is not to recap what happens but to show how the scene means, sentence by sentence, so that a reader can carry an argument about it into a seminar or an exam rather than a summary anyone could repeat.
 

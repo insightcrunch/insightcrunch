@@ -6,7 +6,7 @@ date: 2014-10-17
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "jane-eyre-character", "moral-autonomy", "victorian-woman", "classic-literature"]
 excerpt: "Jane Eyre is not a romantic heroine accidentally given moral seriousness. Her moral autonomy is the novel's central and deliberate Victorian argument."
-image: "/assets/images/blog/blog-106.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 83
 author: "claire-bennett"
 last_updated: 2014-10-17
@@ -16,7 +16,7 @@ Jane Eyre is among the most discussed female characters in English literature, a
 
 <!--more-->
 
-![Jane Eyre Character Analysis - Insight Crunch](/assets/images/blog/blog-106.webp)
+![Jane Eyre Character Analysis - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The popular flattening happens easily because the romantic plot is genuinely compelling. Brontë was an excellent dramatist of attraction, and the Thornfield sequences carry an intensity that overwhelms any abstract framework a reader brings to the page. Many adaptations exploit that intensity exclusively. The 1943 Robert Stevenson film with Orson Welles and Joan Fontaine, the 1996 Franco Zeffirelli version with William Hurt and Charlotte Gainsbourg, the 2011 Cary Fukunaga adaptation with Michael Fassbender and Mia Wasikowska, all foreground the romance and treat the Lowood sequences as backstory to be hurried through, the Moor House refusal of St. John Rivers as a structural delay rather than a thematic peak, and the final match as the resolution of romantic longing rather than the consummation of an ethical experiment. The popular Jane is the woman who said "Reader, I married him." The textual Jane is the woman who said "I would scorn such a union" when Rochester offered to take her abroad as his unmarried partner, and who walked out of Thornfield with twenty shillings in her pocket and slept on a moor for two nights rather than compromise her moral position. These two Janes are not the same character, even though the same words produce both readings.
 

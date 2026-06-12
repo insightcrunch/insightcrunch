@@ -6,7 +6,7 @@ date: 1996-12-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Tone", "Author Perspective", "Reading Comprehension"]
 excerpt: "SAT tone and attitude questions explained: precise tone words, tone-marker phrases, author versus subject tone and tone shifts, with worked examples by degree."
-image: "/assets/images/blog/blog-52.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 59
 author: "christopher-wells"
 last_updated: 1996-12-20
@@ -14,7 +14,7 @@ lang: en
 ---
 A reader finishes a short passage about a scientist who keeps revising her own published model, picks the answer marked "negative," and loses the point. The stance the writer actually built was wary admiration: respect for the willingness to be wrong, tempered by worry about how slowly the field is catching up. "Negative" is not in the building. The Digital SAT does not reward the broad bucket; it rewards the exact word that the sentences earned, and the gap between "negative" and "wary admiration" is the gap between a missed item and a clean one.
 
-![SAT Reading tone and attitude questions with precise tone words and author perspective worked examples - Insight Crunch](/assets/images/blog/blog-52.webp)
+![SAT Reading tone and attitude questions with precise tone words and author perspective worked examples - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 That gap is the whole subject of this guide. Tone and attitude items live in the Craft and Structure family, the same family as the function and word-in-context work covered in the [Craft and Structure questions](/sat/sat-craft-structure-questions) breakdown, and they punish vagueness more reliably than almost any other reading task. Students who can summarize a passage cold still pick "positive" when the right word is "appreciative but skeptical," because nobody taught them that the answer choices are graded by degree and that the text leaves a trail of marker words pointing to one rung on a ladder, not to a whole side of it. The standard advice, "figure out how the author feels," is true and nearly useless. This piece replaces it with a method: name the precise word, locate the marker words that license it, separate the writer's stance from the stance of any person being described, and track the moment a stance turns. By the end you will read tone the way the exam writes it, as a measurable property of the diction, not a mood you intuit and hope.
 

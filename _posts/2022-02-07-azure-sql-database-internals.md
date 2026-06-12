@@ -6,7 +6,7 @@ date: 2022-02-07
 categories: ["Technology"]
 tags: ["Azure", "Azure SQL Database", "Databases", "PaaS", "High Availability", "Hyperscale", "Architecture"]
 excerpt: "Azure SQL Database internals decoded: how service tiers map to storage and replica architecture, why throttling is not an outage, and how to pick right."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "marcus-hall"
 last_updated: 2022-02-07
@@ -14,7 +14,7 @@ lang: en
 ---
 Most teams adopt Azure SQL Database the way they would order a laptop: they pick a number that sounds big enough, accept the default, and discover the consequences in production. The number turns out to govern far more than raw speed. In Azure SQL Database the service tier you choose silently selects how your data is stored, how many copies of it exist, where those copies live, how a failure is absorbed, and what latency a single committed write will cost. The gap between using the platform and understanding it is exactly this: a developer who treats the tier as a performance slider will be surprised by latency, by throttling that looks like an outage, and by a recovery story they never designed. An engineer who reads the tier as a choice of internal architecture will provision the right shape on the first attempt and reason confidently about why it behaves the way it does.
 
-![Azure SQL Database internals: service tiers, vCore and DTU purchasing models, and high availability architecture - Insight Crunch](/assets/images/blog/blog-96.webp)
+![Azure SQL Database internals: service tiers, vCore and DTU purchasing models, and high availability architecture - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 This guide takes the platform apart at the level a working engineer actually needs. It covers the deployment options and what each is for, the two purchasing models and how they map to physical resources, the three service tiers and the genuinely different storage and replica architectures hiding under each name, the resource governor that produces throttling, and the high availability and failover design that decides your recovery objectives. The aim is a mental model durable enough that you can stand in a design review, defend a tier choice by naming the deciding factor, and explain what a committed transaction costs in milliseconds on the architecture you picked.
 

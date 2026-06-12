@@ -6,7 +6,7 @@ date: 2025-04-23
 categories: ["Industry"]
 tags: ["side hustles college students", "make money in college", "remote jobs students", "freelancing for students", "passive income", "student budget", "college student income", "campus jobs", "gig economy students", "student financial tips"]
 excerpt: "The most complete guide to making money in college: 25 legitimate side hustles and remote jobs for students, top freelancing platforms, passive income..."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 55
 author: "marcus-hall"
 last_updated: 2026-03-31
@@ -40,7 +40,7 @@ The more strategic framing: college is a 4-year window during which your most va
 
 This does not mean every earning activity needs to be career-aligned. Some side hustles are simply ways to generate income that funds your life without sacrificing your education or professional development. Both types are covered here, with honest assessments of realistic income potential, time requirements, and career relevance for each.
 
-![Making Money in College Complete Guide: 25 Legit Side Hustles, Remote Jobs, Freelancing Platforms, Passive Income Ideas & Financial Tips for Students on a Budget](/assets/images/blog/blog-15.webp)
+![Making Money in College Complete Guide: 25 Legit Side Hustles, Remote Jobs, Freelancing Platforms, Passive Income Ideas & Financial Tips for Students on a Budget](/assets/images/blog/blog-101.webp)
 Making Money in College Complete Guide: 25 Legit Side Hustles, Remote Jobs, Freelancing Platforms, Passive Income Ideas and Financial Tips for Students on a Budget
 
 ### The Four Income Categories for Students

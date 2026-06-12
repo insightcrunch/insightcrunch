@@ -19,7 +19,7 @@ This article argues that every element of that telling is either wrong or mislea
 
 <!--more-->
 
-![Roman Forum ruins - Insight Crunch](/assets/images/blog/blog-93.webp)
+![Roman Forum ruins - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 Rome did not become an empire because Julius Caesar or Augustus wanted to rule. Rome became an empire because the political institutions it had built between 509 and 367 BCE were designed for a city-state governing a few thousand square kilometres of central Italy, and those institutions were constitutionally, practically, and financially incapable of governing the Mediterranean-wide territorial system Rome had acquired between 241 and 30 BCE. The 27 BCE settlement was not the moment the Republic ended. It was the moment Rome's political class formally acknowledged that the Republic had already ended, and papered over that acknowledgement with enough republican language to allow everyone in the room to pretend otherwise.
 

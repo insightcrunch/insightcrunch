@@ -6,7 +6,7 @@ date: 2024-02-05
 categories: ["Technology"]
 tags: ["Azure", "Zero Trust", "Security", "Identity", "Cloud Computing"]
 excerpt: "Azure Zero Trust architecture moves the perimeter from network to identity, mapping verify explicitly, least privilege, and assume breach to controls."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "nathan-cole"
 last_updated: 2024-02-05
@@ -14,7 +14,7 @@ lang: en
 ---
 Most security incidents in the cloud do not begin with a breached firewall. They begin with a valid credential used by the wrong party, a service account with far more access than its job requires, or a workload that was implicitly trusted because it happened to sit inside the right virtual network. Azure Zero Trust architecture exists to close that gap. It is not a product you purchase, a license you activate, or a network project you complete once and forget. It is a security model that withdraws the assumption of trust from network location and forces every request, from a user, a device, a service, or a workload, to prove itself against current evidence before any access is granted.
 
-![Azure Zero Trust Architecture Explained - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Azure Zero Trust Architecture Explained - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The exposure created by ignoring this model is concrete. A flat network where one compromised host can reach the database tier, an administrator account with permanent standing rights and no second factor, a storage account reachable from the public internet because someone trusted the subscription boundary to protect it. Each of these is a single point that, once crossed, hands an attacker the rest of the environment. Zero Trust is the discipline of removing those single points by verifying continuously, granting the least access that works, and designing as though the attacker is already inside.
 

@@ -6,7 +6,7 @@ date: 2017-01-01
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray-feluda", "pradosh-chandra-mitter", "bengali-detective", "who-is-feluda", "feluda-character"]
 excerpt: "The most comprehensive English-language primer on Feluda, Satyajit Ray's iconic Bengali detective, across 35 stories, the films, and why he endures."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 102
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -20,7 +20,7 @@ His name is Pradosh Chandra Mitter. His friends call him Felu. To his teenage co
 
 <!--more-->
 
-![The Complete Guide to Feluda - Insight Crunch](/assets/images/blog/blog-58.webp)
+![The Complete Guide to Feluda - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 If you have arrived at this article, you have probably just heard the name. Maybe you saw a still from Sandip Ray's 2024 Nayan Rahasya in a film magazine. Maybe a Bengali friend mentioned the character in passing and you were too embarrassed to ask. Maybe your reading-the-classics project finally led you from Conan Doyle through Christie and Sayers and Chesterton to the question of whether other languages produced great cerebral detectives, and someone told you to look up Satyajit Ray. Maybe you watched the 1974 Sonar Kella as part of a film studies course on Indian cinema and wondered why no one had told you the source novella was a masterpiece in its own right.
 

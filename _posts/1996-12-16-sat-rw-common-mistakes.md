@@ -6,7 +6,7 @@ date: 1996-12-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "SAT Writing", "Error Prevention", "Strategy"]
 excerpt: "SAT reading and writing mistakes fixed: the 15 costliest errors from misreading the stem to overreaching, each with a concrete behavioral cure, with examples."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 59
 author: "patrick-dunn"
 last_updated: 1996-12-16
@@ -14,7 +14,7 @@ lang: en
 ---
 A student finishes the Reading and Writing section convinced she nailed it, then opens the score report and finds eleven misses she cannot explain. She knew the grammar. She understood the passages. She was not guessing. So where did the points go? They went, almost all of them, to habits: a verb in the question she skimmed past, an answer that was true about the world but wrong about the text, a grammar rule she half-applied because the clock was loud in her head. None of those misses came from a gap in knowledge. Every one came from a behavior, and behaviors can be trained.
 
-![SAT RW: Common Mistakes That Cost Points - Insight Crunch](/assets/images/blog/blog-21.webp)
+![SAT RW: Common Mistakes That Cost Points - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 That distinction is the whole argument of this piece. Students treat verbal misses as fuzzy, subjective, a matter of taste that the College Board happens to disagree with. They are not. The Digital SAT verbal section is built from a small, repeating set of decision points, and the costly errors cluster around the same fifteen moments every time. Once you can name the moment, you can install a habit that closes it. A knowledge gap takes weeks of study to fill. A behavior gap takes a checklist and a few practice sets, which is why the points lost here are the cheapest points on the entire exam to win back.
 

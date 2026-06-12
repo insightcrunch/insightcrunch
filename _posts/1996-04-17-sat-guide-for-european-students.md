@@ -6,7 +6,7 @@ date: 1996-04-17
 categories: ["Industry"]
 tags: ["SAT", "International", "Europe", "A-Levels", "Study Abroad"]
 excerpt: "SAT guide for European students: when the SAT adds value beside A-Levels, Abitur and the Bac, testing access in Europe and the cost comparison, with strategy."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "lukas-weber"
 last_updated: 1996-04-17
@@ -14,7 +14,7 @@ lang: en
 ---
 A student in Munich with a projected Abitur of 1.3 emails an American admissions office and gets a one-line reply: your secondary record is strong, and a test result is optional but considered. That single sentence is where most European applicants lose the thread. Optional does not mean irrelevant, and considered does not mean decisive. The real question is narrower and far more useful: given the credential you already hold and the exact list of universities you are targeting, does adding the SAT move your file forward, leave it unchanged, or simply cost you a Saturday you could have spent on your written work. This guide answers that question for European applicants, and it answers it as a decision rather than a slogan.
 
-![SAT guide for European students applying to US universities alongside A-Levels Abitur and the Baccalaureate - Insight Crunch](/assets/images/blog/blog-13.webp)
+![SAT guide for European students applying to US universities alongside A-Levels Abitur and the Baccalaureate - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 Here is the uncomfortable truth that the optional label hides. European applicants arrive holding qualifications that American universities already trust, because A-Levels, the German Abitur, the French Baccalauréat, the International Baccalaureate, the Italian Maturità, and the Dutch VWO diploma have decades of admissions history behind them. An admissions reader in Boston knows roughly what a string of A grades at A-Level signals, and knows how to read a Bac mention très bien. The standardized assessment, then, is not filling an information vacuum the way it might for an applicant from a school system the reader has never encountered. It is offering one more comparable data point on a scale every applicant in the pool shares. Whether that extra point helps depends entirely on what your file looks like without it and where you are applying. That conditional answer is the whole article, and the framework that produces it is what you will leave with.
 

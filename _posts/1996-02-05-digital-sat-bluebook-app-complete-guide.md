@@ -6,7 +6,7 @@ date: 1996-02-05
 categories: ["Industry"]
 tags: ["SAT", "Digital SAT", "Bluebook", "Test Day", "App Guide"]
 excerpt: "The Bluebook app complete guide: installing, checking in, navigating a module, flagging, the timer, Desmos and tools, plus troubleshooting before test day."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 60
 author: "michael-brooks"
 last_updated: 1996-02-05
@@ -14,7 +14,7 @@ lang: en
 ---
 The single most avoidable way to lose points on the digital SAT is to meet the Bluebook app for the first time on test morning. A student who has practiced the content but never opened the testing software arrives fluent in algebra and grammar, then spends the opening minutes of a timed module hunting for the calculator, guessing how to mark a question for later, and wondering whether tapping an answer locks it in. None of that fumbling is on the score report as a content gap, yet it costs exactly the same as a missed question: time bled away, attention split, and a small panic that ripples into the next item. This guide removes that variable completely. By the end of it you will know where every tool sits, what each button does, how check-in works in the days before the exam, and what actually happens if your laptop freezes mid-section.
 
-![Bluebook app complete guide for the digital SAT features check-in and test-day tools - Insight Crunch](/assets/images/blog/blog-47.webp)
+![Bluebook app complete guide for the digital SAT features check-in and test-day tools - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The promise here is narrow and practical. This is not a content review and it is not a pep talk. It is a feature-by-feature manual for the application that delivers the digital exam, written so that a student who has never launched it can install it tonight, complete the pre-test setup this week, and walk into the testing room treating the software as invisible. The thesis of this whole series is that the SAT rewards format-aware practice over raw aptitude, and nowhere is that clearer than the interface. The reading and the math are the test. The app is the room the test happens in, and you should know that room the way you know your own kitchen in the dark.
 

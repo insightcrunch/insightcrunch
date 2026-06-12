@@ -6,7 +6,7 @@ date: 2026-07-08
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Executive Power", "Separation of Powers", "Legal", "Immigration"]
 excerpt: "The H-1B fee ruling belongs to a line of decisions demanding clear authorization for executive power over money, from the steel seizure to the tariffs."
-image: "/assets/images/blog/blog-106.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
 author: "marcus-hall"
 last_updated: 2026-07-08
@@ -16,7 +16,7 @@ In the spring of 1952, with steelworkers set to strike and a war running in Kore
 
 That throughline is the reason this decision matters well beyond the people who file H-1B petitions. A reader who treats the case as a one-off immigration squabble misses what makes it citable, teachable, and predictive. Place it where it belongs, in the arc that runs from the steel seizure through the nondelegation cases, the line-item veto, the travel-ban litigation, the student-loan dispute, and the 2026 decision striking the President's tariffs, and a pattern comes into focus that tells you a good deal about how the appeal is likely to be argued and what the next executive who tries something similar will face.
 
-![How the H-1B fee ruling fits the line of executive-power decisions, an analysis - Insight Crunch](/assets/images/blog/blog-106.webp)
+![How the H-1B fee ruling fits the line of executive-power decisions, an analysis - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 ## The arc this H-1B fee ruling belongs to
 

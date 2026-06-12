@@ -6,7 +6,7 @@ date: 2023-03-13
 categories: ["Technology"]
 tags: ["Azure", "Integration Runtime", "Data Factory", "Synapse", "Troubleshooting", "Cloud Computing"]
 excerpt: "Fix a self-hosted integration runtime offline by checking the node service and its outbound connectivity to Azure first, before recreating the runtime."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "thomas-reid"
 last_updated: 2023-03-13
@@ -14,7 +14,7 @@ lang: en
 ---
 A pipeline that ran cleanly yesterday refuses to start today, and the run history shows a single blunt reason: the activity could not find an available node because the self-hosted integration runtime offline status has taken every node out of rotation. The monitoring blade paints the runtime red, the word "Unavailable" sits where "Running" used to be, and the copy activity that pulls from an on-premises SQL Server now fails before it moves a single row. This is one of the most common operational stalls in Azure data integration, and it is also one of the most misdiagnosed. The reflex, under deadline pressure, is to delete the runtime and build a new one. That reflex is almost always wrong, and acting on it can turn a ten minute restart into a half day rebuild that touches every linked service and every pipeline binding.
 
-![Fixing a self-hosted integration runtime offline in Azure Data Factory root causes and the node-and-connectivity rule - Insight Crunch](/assets/images/blog/blog-98.webp)
+![Fixing a self-hosted integration runtime offline in Azure Data Factory root causes and the node-and-connectivity rule - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The self-hosted integration runtime, which engineers shorten to self-hosted IR or SHIR, is the bridge that lets a cloud data service reach data that does not live in the cloud. When you build pipelines in Azure Data Factory or in the pipeline engine inside Synapse, the managed Azure runtime can reach public cloud endpoints on its own, but it cannot reach a database sitting inside your corporate network, a file share behind a firewall, or a virtual machine with no public address. The self-hosted IR is the agent you install on a Windows machine inside that private boundary so the cloud control plane can hand it work and it can move the data without anyone opening an inbound hole through the perimeter. When that agent reports offline, the cloud has lost contact with the one component that can see your private sources, and every pipeline that depends on it stops. Understanding what offline actually means, and what it almost never means, is the difference between a quick recovery and a destructive overreaction. If you want the full picture of where this component sits in the broader service, the [complete guide to Azure Data Factory](/2022/04/18/azure-data-factory-complete-guide/) lays out the runtime model end to end, and this article zooms into the single failure that takes the runtime dark.
 

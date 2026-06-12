@@ -6,7 +6,7 @@ date: 2012-10-01
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "House-Elves", "Freedom", "Sacrifice"]
 excerpt: "Full literary analysis of Dobby in Harry Potter - the sock that freed him, the self-punishment that did not stop, and the free elf's death for the Chosen One."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 57
 author: "elena-wright"
 last_updated: 2012-10-01
@@ -18,7 +18,7 @@ A creature with bat-shaped ears and tennis-ball eyes stands on a child's bed in 
 
 This is the strange achievement of Dobby in *Harry Potter* - a character introduced as a joke who becomes the moral keystone of an entire series's argument about freedom, dignity, and the difference between service that is freely given and service that is taken under duress. The slapstick body, the third-person speech, the pillowcase wardrobe: these are not the marks of a minor character. They are the marks of a character whose author wanted readers to underestimate him, the better to register the weight of what he means by the time he is buried in a grave dug by hand.
 
-![Dobby character analysis in Harry Potter series](/assets/images/blog/blog-90.webp)
+![Dobby character analysis in Harry Potter series](/assets/images/blog/blog-94.webp)
 
 Most discussions of the series treat the house-elf question as an awkward subplot. Hermione's S.P.E.W. campaign reads to many readers as a comic running gag. The elves themselves become scenery, a quaint feature of wizarding domestic infrastructure. To read the books this way is to miss the deepest layer of their political and theological argument. Rowling placed the slavery question inside the body of an elf and then refused to let that elf be a minor character. The free elf is the test case for every claim the series makes about love, choice, and the moral weight of a soul. He is the place where the wizarding fantasy stops being a story about a boarding school and starts being a story about what loyalty can possibly mean when it cannot be coerced.
 

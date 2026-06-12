@@ -6,7 +6,7 @@ date: 1997-08-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Percentages", "Problem Solving", "Data Analysis"]
 excerpt: "SAT percent problems made fast: the multiplier method, successive changes that multiply not add, and reverse-percent setups, with worked examples throughout."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 1997-08-07
@@ -14,7 +14,7 @@ lang: en
 ---
 A retailer marks a jacket up by 40% for the season, then puts it on a 25% clearance rack. A student who reads that sentence and thinks the net effect is "up 15%" loses the question before touching the numbers. The true net is a 5% gain, because 1.40 times 0.75 equals 1.05, and the whole point of SAT percent change problems is that the two adjustments multiply rather than add. That single arithmetic fact, missed by a large share of test-takers, is worth real points across the data-analysis content of the digital exam, and it is the reason this topic deserves a method rather than a shrug.
 
-![SAT percent change markups discounts and tax with the multiplier method worked examples - Insight Crunch](/assets/images/blog/blog-12.webp)
+![SAT percent change markups discounts and tax with the multiplier method worked examples - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 Most students treat percentages as a grab bag of half-remembered tricks: move the decimal, sometimes divide, sometimes multiply, hope the answer choices rescue you. The exam punishes that approach with traps that are engineered around exactly the confusions a guesser falls into. This guide replaces the grab bag with one move, the multiplier, and shows that almost every percent question on the assessment reduces to choosing the right multiplier and applying it once. You will leave able to increase or decrease a quantity in a single multiplication, chain several adjustments without error, find an original price after a discount by dividing rather than guessing, and tell at a glance whether a question is asking "what percent of A is B" or the reverse. By the end you will reach for a multiplier the way a carpenter reaches for a tape measure, and the questions that used to eat ninety seconds will close in fifteen.
 

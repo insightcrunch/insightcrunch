@@ -6,7 +6,7 @@ date: 2013-07-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Wand Lore", "Elder Wand", "Ollivander"]
 excerpt: "Wand lore in Harry Potter read as a theory of identity: how the wand chooses the wizard, why brother cores bind fate, and what the Elder Wand cannot give."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 57
 author: "victoria-stone"
 last_updated: 2013-07-30
@@ -16,7 +16,7 @@ lang: en
 
 A wizard hands a child a slim length of holly and phoenix feather and tells him, in effect, that the object has been waiting. Not the child for the object, but the object for the child. This inversion sits at the centre of everything Rowling builds around magical instruments, and it is more radical than the casual reader notices. In almost every other fantasy tradition, the magical artefact is property. A hero earns a sword, inherits a ring, steals a staff. The relationship runs one direction: the wielder commands, the object obeys. Rowling reverses the flow. Her instruments have preferences. They select. They withhold loyalty from those who have not won it and offer it freely to those they recognise. The implement is not a possession but a partner, and the partnership is the most precise public record of inner character the wizarding world possesses.
 
-![Wand lore and object symbolism across the Harry Potter books](/assets/images/blog/blog-72.webp)
+![Wand lore and object symbolism across the Harry Potter books](/assets/images/blog/blog-52.webp)
 
 This is the thesis worth defending: that across seven books Rowling constructs a complete theory of identity out of slim pieces of wood, and that the theory peaks in a paradox. The most powerful instrument in the world, the one wizards have killed for across centuries, is also the only one that can never be loved by its owner. Every other magical focus in the series rewards affection, patience, the slow accumulation of shared work. The Elder Wand rewards only conquest, and conquest is the one bond that cannot be trusted. To possess the deadliest tool is to hold something that will leave you the instant someone stronger arrives. Rowling has hidden, inside a children's adventure, an argument about the difference between power and intimacy so exact that adult political philosophy rarely states it better.
 

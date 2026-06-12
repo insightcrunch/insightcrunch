@@ -6,7 +6,7 @@ date: 1996-12-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Final Review", "Study Plan", "Checklist"]
 excerpt: "SAT reading and writing final two weeks mapped day by day: timed sets, error analysis, grammar and vocabulary review and a taper, ending calm and ready."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 60
 author: "katherine-blake"
 last_updated: 1996-12-07
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a version of the final fortnight that wrecks scores, and almost everyone falls into it without realizing. A student who has prepared diligently for months arrives at the last stretch, panics that it is not enough, and crams harder than ever: new grammar rules absorbed at midnight, a fresh stack of vocabulary the brain cannot file, a full-length sitting every single afternoon until the eyes blur. They walk into the verbal section exhausted, over-revised, and slower than they were three weeks earlier. The points they lose are not points they never had. They are points they trained away in the closing stretch through fatigue and second-guessing.
 
-![SAT RW: Last Two Weeks Review Checklist - Insight Crunch](/assets/images/blog/blog-42.webp)
+![SAT RW: Last Two Weeks Review Checklist - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 This guide gives you the opposite plan. The fourteen days before your Reading and Writing test are not for learning anything genuinely new. They are for sharpening what you already own, hunting down the specific errors that still cost you marks, and then deliberately backing off so your mind is fast, calm, and rested when it matters. What separates a peak performance from a merely adequate one in this closing window is almost never an extra rule. It is rhythm, accuracy under a clock, and a nervous system that is not fried. The InsightCrunch RW final-review countdown maps each of those fourteen days to a single focus and to the exact article in this series that carries the technique, so you are never guessing what to do with an afternoon. By the end you will have a calendar, not a vague intention, and a taper that lets you crest on the morning that counts rather than three days too early.
 

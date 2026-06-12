@@ -6,7 +6,7 @@ date: 2023-04-10
 categories: ["Technology"]
 tags: ["Azure", "Virtual Machines", "Cost Management", "DevOps", "Cloud Computing"]
 excerpt: "Azure VM auto-shutdown saves money only when it deallocates in the right time zone. Set the schedule, notification, and the morning auto-start correctly."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "robert-quinn"
 last_updated: 2023-04-10
@@ -14,7 +14,7 @@ lang: en
 ---
 A correctly configured Azure VM auto-shutdown schedule is one of the cheapest, highest-return settings in the entire platform, and a misconfigured one is a quiet disappointment that looks like savings and delivers none. The toggle sits in the portal under Operations, takes about ninety seconds to enable, and promises to power off your virtual machine every evening so you stop paying for compute you are not using. The trouble is that two of its most important behaviors are easy to get wrong without any error message to warn you. The schedule fires in a time zone you set separately and that defaults to coordinated universal time, so an engineer in Chicago who picks 19:00 and never touches the time zone gets a machine that powers off at 13:00 local. And the saving only materializes if the machine deallocates, which is exactly what this feature does, but which is also the precise thing that a stop issued from inside the guest operating system does not do. Get either of these wrong and you have a schedule that runs faithfully every day while saving you nothing or interrupting your work at lunchtime.
 
-![Azure VM auto-shutdown schedule, time zone, and deallocation configuration - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Azure VM auto-shutdown schedule, time zone, and deallocation configuration - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This article treats auto-shutdown as a configuration to verify rather than a checkbox to tick. The central rule that organizes everything below is what we will call the time-zone-and-deallocate rule: an auto-shutdown schedule earns its keep only when it deallocates the machine and fires in the time zone you actually live in, so confirming both is the difference between real savings and a schedule that does nothing useful while appearing busy. Around that rule we will build the InsightCrunch auto-shutdown setup checklist, a step-by-step procedure that names the gotcha at each stage: enable the schedule, set the correct time zone, add a notification with enough lead time to defer, confirm the machine reaches the deallocated state, layer on an auto-start mechanism because Azure does not include one, and extend the policy from a single machine to an entire fleet. By the end you will be able to set this up by hand, prove it worked, encode it as infrastructure, and pair it with the morning start that the built-in feature deliberately leaves out.
 

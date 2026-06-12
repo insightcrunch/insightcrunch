@@ -6,7 +6,7 @@ date: 2015-06-29
 categories: ["Leisure"]
 tags: ["roman-empire-fall", "decline-of-rome", "barbarian-invasions", "late-antiquity", "historical-causation", "ancient-history"]
 excerpt: "The Roman Empire did not fall for one reason. Six structural causes compounded across two centuries, and only their combination explains the Western collapse."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 73
 author: "rachel-foster"
 last_updated: 2015-06-29
@@ -16,7 +16,7 @@ The Roman Empire did not fall for one reason. It fell since six structural facto
 
 <!--more-->
 
-![Why the Roman Empire Fell - Insight Crunch](/assets/images/blog/blog-100.webp)
+![Why the Roman Empire Fell - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The deposition of the last Western emperor, a teenager named Romulus Augustulus, by the general Odoacer in 476 CE is the date textbooks hand to students. It is a convenient marker and a misleading one. Nothing dramatic happened in 476 that had not already happened repeatedly across the preceding hundred years. The teenage emperor was a figurehead with no real authority over anything; Odoacer simply declined to appoint a replacement and ruled Italy as a king who still nominally acknowledged the emperor in Constantinople. That imperial office was retired rather than destroyed. What that office had once governed had been hollowing out for generations, and the hollowing is the story that matters.
 

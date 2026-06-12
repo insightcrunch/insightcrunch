@@ -6,7 +6,7 @@ date: 2016-03-15
 categories: ["Leisure"]
 tags: ["cuban-missile-crisis", "cold-war", "kennedy", "khrushchev", "1962", "history"]
 excerpt: "The October 1962 crisis was more dangerous than the contemporary narrative suggested. Post-1990s declassification has substantially revised the story."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2016-03-15
@@ -16,7 +16,7 @@ The Cuban Missile Crisis of October 1962 brought civilization closer to nuclear 
 
 <!--more-->
 
-![The Cuban Missile Crisis Explained - Insight Crunch](/assets/images/blog/blog-40.webp)
+![The Cuban Missile Crisis Explained - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 ## The Standard Narrative and Its Sources
 

@@ -6,7 +6,7 @@ date: 2022-02-28
 categories: ["Technology"]
 tags: ["Azure", "Virtual Network", "Networking", "Cloud Computing", "Architecture"]
 excerpt: "Azure Virtual Network is the private address and routing boundary for your cloud resources. Learn to plan subnets, routing, peering, and DNS with intent."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 59
 author: "abigail-cooper"
 last_updated: 2022-02-28
@@ -14,7 +14,7 @@ lang: en
 ---
 Most teams meet the Azure Virtual Network the same way: they accept a default when they create their first virtual machine, never look at it again, and then spend an afternoon six months later trying to work out why two subnets that should talk to each other suddenly cannot. The VNet is the quietest resource in a deployment and the one that decides the most. It sets the private address range every resource draws from, it owns the default routing that moves a packet from one subnet to the next, it governs whether a name resolves to a private address or a public one, and it draws the line between what is reachable inside your cloud estate and what has to cross a gateway to get in. Get the address plan wrong on day one and you inherit a renumbering project later. Misread the default routing and you will chase a connectivity ghost that no firewall rule explains. This guide treats the Azure Virtual Network as the foundational primitive it actually is, and the goal is a working mental model you can reason from rather than a settings tour you forget by lunch.
 
-![Azure Virtual Network VNet address space subnets routing and DNS deep dive - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Azure Virtual Network VNet address space subnets routing and DNS deep dive - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 The reader who finishes this article should be able to plan an address space and a subnet layout deliberately, predict the default routing and name-resolution behavior before deploying anything, and state precisely what a VNet does and does not isolate. That last point is where most production confusion lives, so we will keep returning to it. A VNet is an address and routing boundary. It is not, by itself, a security boundary. The difference between those two statements is the difference between a network you understand and a network that surprises you.
 

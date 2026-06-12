@@ -8,7 +8,7 @@ tags: ["animal-farm", "george-orwell", "boxer", "character-analysis", "literary-
 author: "sarah-mitchell"
 excerpt: "Boxer is Animal Farm's allegorical Soviet worker whose labor and loyalty are extracted by the ruling pigs until his usefulness ends and he is sold for glue."
 last_updated: 2014-06-09
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 lang: en
 ---
@@ -16,7 +16,7 @@ Boxer the cart-horse is the most genuinely heroic character George Orwell ever c
 
 <!--more-->
 
-![Boxer Character Analysis in Animal Farm - Insight Crunch](/assets/images/blog/blog-103.webp)
+![Boxer Character Analysis in Animal Farm - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The conventional reading of Boxer treats him as a figure of pathos. He is the good horse who trusts the wrong leaders, works himself to destruction, and is betrayed at the moment he needs help most. This reading is emotionally accurate but analytically incomplete. It locates the problem in Napoleon's personal treachery, as though a better leader would have treated Boxer differently. Orwell's argument is more structural and more devastating. The novel shows that Boxer's exploitation is not an aberration within the revolutionary system but a product of how the system functions. The pigs do not betray Boxer despite their revolutionary ideology. They betray him through it. The slogans that keep Boxer working, the praise that ties his identity to his productivity, the vague principles that accommodate every policy reversal, the propaganda that reframes every failure as an external enemy's sabotage: these are not Napoleon's personal inventions. They are the mechanisms through which revolutionary regimes historically constructed the voluntary consent that made coerced labor unnecessary, because the workers coerced themselves. Orwell had witnessed versions of this mechanism in Spain, read about its Soviet implementations in detail, and diagnosed it in Animal Farm with a precision that most popular treatments of the novel still underread. The argument Boxer carries is not sentimental. It is political-economic. And it is the most important argument the novel makes, because Boxer is the character whose class position the revolution claimed to serve.
 

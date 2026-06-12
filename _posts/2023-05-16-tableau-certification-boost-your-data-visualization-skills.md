@@ -5,7 +5,7 @@ date: 2023-05-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau certification does not just give you a badge. The preparation process itself sharpens your visualization, calculation, and design skills."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-03-30
@@ -15,7 +15,7 @@ Just as Hemingway's narratives resonate with authenticity, Tableau certification
 
 Read more: [How to Ace Tableau Certification: Expert Insights »](https://insightcrunch.com/2023/04/16/how-to-ace-tableau-certification-expert-insights/)
 
-![Tableau Certification: Boost Your Data Visualization Skills](/assets/images/blog/blog-72.webp)
+![Tableau Certification: Boost Your Data Visualization Skills](/assets/images/blog/blog-20.webp)
 Tableau Certification: Boost Your Data Visualization Skills
 
 ## **1. Mastering the Art of Visual Storytelling**

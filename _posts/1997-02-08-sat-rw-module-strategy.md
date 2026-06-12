@@ -6,7 +6,7 @@ date: 1997-02-08
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Digital SAT", "Adaptive", "Module Strategy"]
 excerpt: "SAT RW Module 1 vs Module 2 explained: how adaptive routing gates your reading and writing score ceiling and why Module 1 accuracy is paramount, with strategy."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 59
 author: "daniel-morgan"
 last_updated: 1997-02-08
@@ -14,7 +14,7 @@ lang: en
 ---
 Two students sit for the same Reading and Writing section on the same morning. They answer the same opening set of questions. One of them finishes the first half a little stronger than the other, and from that moment forward the two are no longer taking the same test. One is routed into a second half built from harder material that pays out a higher top score. The other is routed into a gentler second half whose top score is capped well below the first student's reach, no matter how flawlessly they handle what remains. By the time both submit, the gap between them is wider than the small difference in their early answers should suggest, because the digital SAT does not simply add up correct responses. It decides, partway through, how high you are even allowed to climb. The lever that makes that decision is the SAT RW module 1 vs 2 routing, and understanding it is worth real points before you read a single passage.
 
-![SAT Reading and Writing Module 1 vs Module 2 adaptive routing and score ceiling strategy - Insight Crunch](/assets/images/blog/blog-87.webp)
+![SAT Reading and Writing Module 1 vs Module 2 adaptive routing and score ceiling strategy - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 Most prep coverage treats the Reading and Writing section as one long block of short passages and stops there. That account misses the structural fact that governs your result. The section is delivered in two stages, the performance on the first stage selects which version of the second stage you receive, and the two versions do not lead to the same place on the score scale. This piece gives you what the standard summary leaves out: a precise read on how the routing works, an honest estimate of how far the two paths diverge, a defensible plan for protecting the early answers that matter most, and a specific argument for why this routing punishes a weak first half harder in Reading and Writing than it does in Math. The thesis running through the whole series applies here with unusual force. Understanding the structure is itself worth points, and nowhere is that truer than in the half of the test where careful reading cannot be hurried without breaking.
 

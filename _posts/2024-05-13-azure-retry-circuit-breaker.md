@@ -6,7 +6,7 @@ date: 2024-05-13
 categories: ["Technology"]
 tags: ["Azure", "Resilience", "Retry Pattern", "Circuit Breaker", "Architecture", "Reliability"]
 excerpt: "Retry and circuit breaker patterns on Azure stop transient faults from cascading: backoff with jitter, timeouts, bulkheads, and safe idempotent retries."
-image: "/assets/images/blog/blog-88.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "kevin-reeves"
 last_updated: 2024-05-13
@@ -18,7 +18,7 @@ The trouble is that resilience is not a single switch. It is a small family of p
 
 This guide lays out the resilience patterns an Azure engineer should reach for, in the order they compose: retry with exponential backoff and jitter, the circuit breaker that stops hammering a failed dependency, the timeout that bounds how long any single call may take, and the bulkhead that isolates one failing component so it cannot sink the whole process. It then ties them together with the requirement that makes retries safe at all, idempotency, and walks a reference design that an order service would actually run in production. By the end you should be able to look at a call to any Azure service or downstream API and know which patterns it needs, how to configure them, and where each one stops helping.
 
-![Resilience patterns on Azure showing retry with backoff, circuit breaker, timeout, and bulkhead composing around a service call](/assets/images/blog/blog-88.webp)
+![Resilience patterns on Azure showing retry with backoff, circuit breaker, timeout, and bulkhead composing around a service call](/assets/images/blog/blog-64.webp)
 
 ## Why transient faults are the default condition, not the exception
 

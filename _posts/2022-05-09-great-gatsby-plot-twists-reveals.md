@@ -6,7 +6,7 @@ date: 2022-05-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Plot Twists", "Jay Gatsby", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby plot twists work as slow corrections, not shock endings. See how Fitzgerald reveals Gatsby, his invented past, and the death car driver."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 59
 author: "rachel-foster"
 last_updated: 2022-05-09
@@ -16,7 +16,7 @@ Search the phrase Great Gatsby plot twists and you will find lists that treat th
 
 This matters because the gap between reading Gatsby for plot and reading it for design is enormous, and most online coverage lives entirely on the plot side. A summary can tell you that Gatsby is really James Gatz, that Daisy was driving the car, that Wolfsheim made Gatsby's money in the shadows. What a summary cannot show you is why Fitzgerald places each of those facts exactly where he places it, what you are made to believe in the meantime, and how the late truth retroactively rewrites the early scenes. Treat the reveals as information design and the book becomes a masterclass in narrative control rather than a story with a few surprises bolted on.
 
-![The Great Gatsby plot twists and reveals explained - Insight Crunch](/assets/images/blog/blog-72.webp)
+![The Great Gatsby plot twists and reveals explained - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 ## What a reveal is, and why The Great Gatsby is built on them
 

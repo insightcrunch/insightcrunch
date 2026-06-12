@@ -6,7 +6,7 @@ date: 2019-03-18
 categories: ["Industry"]
 tags: ["raw", "bangladesh", "1971", "liberation", "covert-operation", "mukti-bahini"]
 excerpt: "How RAW's covert backing of the Mukti Bahini in 1971 became India's first great intelligence triumph and the founding blueprint for operations to come."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 70
 author: "william-knight"
 last_updated: 2019-03-18
@@ -16,7 +16,7 @@ On the damp afternoon of December 16, 1971, on a polo ground in central Dhaka, L
 
 <!--more-->
 
-![RAW Bangladesh 1971 Liberation operation reconstruction](/assets/images/blog/blog-54.webp)
+![RAW Bangladesh 1971 Liberation operation reconstruction](/assets/images/blog/blog-03.webp)
 
 That organization was the Research and Analysis Wing, the external intelligence service Indira Gandhi had carved out of the Intelligence Bureau in September 1968 and placed under a quiet, cultured police officer named Rameshwar Nath Kao. When the eastern crisis broke in March 1971, the agency had existed for less than thirty months. It had no operational history to speak of, no reputation, and no proof that the decision to build a dedicated foreign intelligence arm had been worth the political capital Indira spent on it. Nine months later it had helped raise a guerrilla army, run training camps along a border fifteen hundred kilometres long, supplied the Indian military with a detailed picture of the enemy it would face, and midwifed a sovereign state. No covert undertaking in Indian history before or since has produced a result on that scale.
 

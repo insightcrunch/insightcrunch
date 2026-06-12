@@ -6,7 +6,7 @@ date: 2023-10-04
 categories: ["Industry"]
 tags: ["高考英语", "语法填空", "非谓语动词", "定语从句", "Gaokao English", "Grammar", "时态语态", "词形转换", "冠词", "介词"]
 excerpt: "最全面的高考英语语法填空备考指南,深入解析时态语态判断方法、非谓语动词三大形式选择技巧、定语从句引导词判断、名词性从句填写策略、冠词与介词用法、词形转换规律与高频考点,助你语法填空稳拿满分。"
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 45
 author: "wang-yue"
 last_updated: 2026-03-31
@@ -20,7 +20,7 @@ lang: zh
 
 本篇指南将从题型结构、考点分类、解题思路("决策树"方法)、九大高频考点逐一攻破、十大解题技巧、易错点总结、不同水平考生的备考建议、真题训练方法、考场实战策略、命题趋势分析等多个维度,为你提供一份关于高考英语语法填空的全景式深度攻略。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-09.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-60.webp)
 *高考英语语法填空深度攻略 - 从语法规则到满分突破的完整路线图*
 
 ## 语法填空的题型概述

@@ -6,7 +6,7 @@ date: 2017-07-17
 categories: ["Industry"]
 tags: ["dhurandhar", "box-office", "cultural-impact", "bollywood", "politics", "nationalism"]
 excerpt: "How Dhurandhar broke box office records while shifting public opinion on covert operations and becoming a political weapon in India's national discourse."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-07-17
@@ -16,7 +16,7 @@ Dhurandhar did not simply earn money. It conducted a national referendum that th
 
 <!--more-->
 
-![Dhurandhar Box Office Cultural Impact - Insight Crunch](/assets/images/blog/blog-44.webp)
+![Dhurandhar Box Office Cultural Impact - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 A [complete analysis of Dhurandhar's narrative architecture](https://insightcrunch.com/2017/06/05/dhurandhar-film-complete-analysis/) established its storytelling craft. A [scene-by-scene fact check](https://insightcrunch.com/2017/06/19/dhurandhar-vs-reality-fact-check/) established its relationship with documented operations. This article asks a different question: what did the box office tell us about India? When the numbers are laid against the political timeline, Dhurandhar's commercial performance was not a story about cinema. It was a story about a country discovering, through the act of buying a movie ticket, exactly what it was willing to accept, celebrate, and demand from its government. Every crore collected carried a message, and the message was louder than any political speech delivered that year.
 

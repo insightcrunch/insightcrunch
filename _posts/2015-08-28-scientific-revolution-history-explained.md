@@ -6,7 +6,7 @@ date: 2015-08-28
 categories: ["Leisure"]
 tags: ["scientific-revolution", "copernicus", "galileo", "newton", "history-of-science", "medieval-history"]
 excerpt: "The Scientific Revolution is a twentieth-century frame. The discoveries from Copernicus to Newton were real, yet their unity as one event was imposed later."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2015-08-28
@@ -16,7 +16,7 @@ The Scientific Revolution is the name historians give to a cluster of changes in
 
 <!--more-->
 
-![Copernicus, Galileo, and Newton and the making of the Scientific Revolution - Insight Crunch](/assets/images/blog/blog-53.webp)
+![Copernicus, Galileo, and Newton and the making of the Scientific Revolution - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Walk into most classrooms and the story arrives prepackaged. A benighted medieval world deferred to Aristotle and to ecclesiastical authority; then a handful of geniuses looked through telescopes, performed calculations, ran experiments, and dragged humanity into modernity. Copernicus moved the Earth, Galileo confirmed the motion, Newton crowned the structure with universal gravitation, and the modern method of inquiry was born. The trouble is that nearly every load-bearing element of that narrative has been dismantled by historians of science over the past several decades, and the dismantling reaches all the way down to whether the episode itself, as a single thing with a clean beginning and a clean end, ever existed in the form the textbook describes.
 

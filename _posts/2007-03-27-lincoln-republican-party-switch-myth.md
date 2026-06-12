@@ -6,7 +6,7 @@ date: 2007-03-27
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "myth-bust", "us-presidents", "historical-myths", "republican-party", "party-realignment"]
 excerpt: "Lincoln's Republicans backed federal power, high tariffs, land grants, and Reconstruction. On the issues, the 1854 party is not the 2000 party at all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2026-06-05
@@ -16,7 +16,7 @@ In the summer of 1862, while Confederate armies pressed toward Washington and th
 
 This was the party of Lincoln in its formative years: a coalition that believed Washington should tax, spend, build, charter banks, print money, settle the West, and educate the citizenry, all from the center outward. Hold that picture in mind, because it sits at the heart of one of the most stubborn claims in American political conversation, the assertion that the Republican Party of Lincoln is, in any meaningful sense, the same Republican Party that competes for the presidency today.
 
-![Lincoln-era Republican Party platform versus modern GOP positions party realignment myth - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lincoln-era Republican Party platform versus modern GOP positions party realignment myth - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The claim arrives in many costumes. Sometimes it is a campaign applause line, the reminder that the Grand Old Party is the party that freed the slaves. Sometimes it is a debate-stage trump card, deployed to argue that one side or the other has betrayed or fulfilled a 150-year-old founding promise. Sometimes it surfaces as a meme insisting that nothing fundamental has changed, that the labels mean now what they meant when Lincoln carried Illinois in 1860. The emotional pull is obvious. Lincoln is the most revered figure in the American political pantheon, and to inherit his organization is to inherit his moral authority. The trouble is that the claim, examined against the actual positions the two major coalitions have held across a century and a half, does not survive contact with the record.
 

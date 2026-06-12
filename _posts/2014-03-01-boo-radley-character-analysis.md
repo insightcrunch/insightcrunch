@@ -6,7 +6,7 @@ date: 2014-03-01
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "boo-radley", "harper-lee", "character-analysis", "community-confinement", "classic-literature"]
 excerpt: "Boo Radley is not a symbol of childhood imagination. He is a man kept in a cage for thirty years by Maycomb's conformity, who saves two children once."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
 author: "victoria-stone"
 last_updated: 2014-03-01
@@ -16,7 +16,7 @@ Arthur "Boo" Radley has been locked inside his family's house for approximately 
 
 <!--more-->
 
-![Boo Radley Character Analysis - Insight Crunch](/assets/images/blog/blog-71.webp)
+![Boo Radley Character Analysis - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 Understanding what Lee accomplishes through Boo requires refusing the reading that most classroom discussions impose on him. Boo is not a fable. He is a case study in what a small town does to people it cannot categorize, and his rescue of Scout and Jem Finch in Chapter 28 is not the novel's heartwarming climax but its most searing indictment of the place where these children have been learning to tell right from wrong. Claudia Durst Johnson's 1994 study of [the broader architecture of Lee's Maycomb](https://insightcrunch.com/2014/02/14/complete-analysis-to-kill-a-mockingbird/) identified Boo as the figure through whom the town's self-image as a decent, God-fearing place collapses under scrutiny. Johnson was right, but the analytical tradition has been slow to follow her. Most treatments of Boo still read him through Scout's eyes alone, which means they read him as a child reads a fairy tale: with wonder, with pity, with the satisfying resolution of a monster turning out to be a friend. The adult reading is darker. The adult reading asks why the monster was manufactured in the first place.
 

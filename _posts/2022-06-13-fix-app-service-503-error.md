@@ -6,7 +6,7 @@ date: 2022-06-13
 categories: ["Technology"]
 tags: ["Azure", "Azure App Service", "503 Error", "Troubleshooting", "SNAT", "Cloud Computing"]
 excerpt: "An Azure App Service 503 has five distinct causes, from startup crashes to SNAT port exhaustion. Learn to read the log stream and fix the right one quickly."
-image: "/assets/images/blog/blog-64.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 61
 author: "kevin-reeves"
 last_updated: 2022-06-13
@@ -14,7 +14,7 @@ lang: en
 ---
 An Azure App Service 503 Service Unavailable response tells you that the front end accepted your request but could not route it to a healthy worker that was willing to answer. That single fact is the most useful thing to hold in your head, because it rules out a whole class of guesses before you start. The request reached Azure. The platform front end found your site. What it could not find was a worker process in a state to serve the response, so it returned the generic 503 page instead. The error is not telling you what broke. It is telling you that something between the front end and your application code is in the way, and the entire job of diagnosis is to find which of a small number of distinct conditions is producing it on your site right now.
 
-![Fixing Azure App Service 503 Service Unavailable root causes - Insight Crunch](/assets/images/blog/blog-64.webp)
+![Fixing Azure App Service 503 Service Unavailable root causes - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The reason a 503 frustrates so many engineers is that the symptom is identical across causes that have nothing to do with each other. A site that crashed on startup, a site that ran out of memory, a site that exhausted its outbound connection ports under load, and a site caught mid-swap all return the same three-digit code and the same unhelpful page. The instinct is to restart the app, watch the 503 disappear for a few minutes, and call it solved. That instinct is the single most expensive mistake you can make with this error, because a restart clears a transient condition and masks a structural one. The SNAT-exhausted site comes back the moment traffic returns. The startup-crash site comes back the instant the worker tries to start again. You have spent a restart and learned nothing. The method that actually works is to read the diagnostic signal first, name the cause, and then apply the fix that matches it. That is the whole of this article, and it is the same root-cause-over-symptom discipline the rest of this Azure series is built on.
 

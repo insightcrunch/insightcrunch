@@ -14,7 +14,7 @@ There is a question that surfaces in every test-prep forum, every group chat the
 
 This article exists to settle that point completely, to explain the mechanism that makes it true, to trace where the rumor comes from so you can recognize the next mutation of it, and to convert the fact into the handful of strategic decisions it actually changes. Knowing that the sections are walled apart is not trivia. It kills a tempting and self-destructive plan before a student can act on it, and it clarifies how to treat the two halves of a sitting that, on the surface, feel like one continuous ordeal.
 
-![SAT cross-section adaptive effects and section independence explained - Insight Crunch](/assets/images/blog/blog-61.webp)
+![SAT cross-section adaptive effects and section independence explained - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The shorthand this series uses for the principle is the section firewall. A firewall, in the original architectural sense, is a wall built to stop a fire in one part of a structure from spreading to the rest. The digital SAT has exactly such a barrier between its two scored halves. Whatever happens inside Reading and Writing, however well or badly it burns, stays in Reading and Writing. The routing engine for Math never sees it, never reads it, never adjusts to it. The reverse holds with equal force. Once you internalize the firewall, a whole category of pre-test scheming collapses, and a cleaner way of approaching the day takes its place.
 

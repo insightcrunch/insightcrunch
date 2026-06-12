@@ -6,7 +6,7 @@ date: 2008-05-13
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "decision-reconstruction", "us-presidents", "world-war-ii", "japanese-internment", "executive-order-9066"]
 excerpt: "FDR signed Executive Order 9066 on February 19, 1942. Attorney General Biddle warned it was unconstitutional. 120,000 Japanese Americans were interned anyway."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 68
 author: "chloe-martin"
 last_updated: 2008-05-13
@@ -14,7 +14,7 @@ lang: en
 ---
 On the afternoon of February 19, 1942, Franklin Roosevelt sat at his Oval Office desk and signed a single page of typewritten text. The order ran nine paragraphs. It authorized the Secretary of War to designate "military areas" from which "any or all persons may be excluded." It named no group. It mentioned no ethnicity. It contained no reference to Japan, to the Pacific Coast, or to the 127,000 Japanese Americans whose lives the document was about to take apart. The text, on its face, could have applied to anyone. In practice, within ten weeks of the signature, it would apply to almost no one else.
 
-![FDR Japanese internment Executive Order 9066 decision reconstruction February 1942 - Insight Crunch](/assets/images/blog/blog-27.webp)
+![FDR Japanese internment Executive Order 9066 decision reconstruction February 1942 - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The morning before the signing, Attorney General Francis Biddle had sent Roosevelt a memorandum. Biddle wrote that the proposal his cabinet colleague Henry Stimson was urging on the White House was, in his legal judgment, unconstitutional. He wrote that there was no evidence of disloyalty among the Japanese American population sufficient to justify the measure being contemplated. He wrote that the Federal Bureau of Investigation, which he supervised, had already identified and interned the small number of specific individuals about whom genuine intelligence concerns existed. He wrote that what Stimson and General John DeWitt were asking for was something different: the removal, by military command, of an entire ethnic minority from its homes, including American citizens by birth, on no basis but ancestry. Biddle's memo did not stop the order. Roosevelt read it, set it aside, and signed.
 

@@ -6,7 +6,7 @@ date: 2007-07-10
 categories: ["Leisure"]
 tags: ["lyndon-johnson", "consensus-flip", "us-presidents", "historical-reappraisal", "civil-rights", "vietnam-war"]
 excerpt: "Lyndon Johnson ranks 10th overall despite Vietnam, with civil rights lifting him as the war should sink him. Historians split the difference uncomfortably."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 56
 author: "chloe-martin"
 last_updated: 2007-07-10
@@ -14,7 +14,7 @@ lang: en
 ---
 On the afternoon of January 22, 1973, a former president collapsed in the bedroom of his Texas ranch house, dialed the security detail for help that arrived too late, and died of a heart attack at age 64. He had been out of office four years and five days. He was, by every measure available in that moment, a man whose historical reputation had cratered. The Gallup approval rating he carried out of the White House in January 1969 was 49 percent, a recovery from worse, but his standing among the educated classes who read books and wrote them was lower still. The peace agreement his successor would sign in Paris five days after his funeral was the war he had escalated and could not end. The newsreels of his presidency that ran on the evening broadcasts that night were not the Voting Rights Act signing ceremony from March 1965. They were the cities burning in 1967 and 1968, the body counts from MACV briefings, the protesters chanting outside the White House.
 
-![Lyndon Johnson civil rights vs Vietnam split reputation reassessment - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Lyndon Johnson civil rights vs Vietnam split reputation reassessment - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 Robert Caro was thirty-seven years old that January and had not yet begun the project that would reshape what was thinkable about this dead president. The first volume of The Years of Lyndon Johnson would not appear until 1982, nine years after the funeral. The Path to Power would run 882 pages and would change nothing immediately about the public estimation of the man it covered, because the man was already a punchline in the spring of 1973, a Texas figure receding into the rearview mirror of a country trying to forget Vietnam. What Caro had begun, however, would over four decades and four volumes produce one of the strangest historiographic events in American political biography. It would lift Lyndon Johnson into the top fifteen presidential rankings while leaving the war catastrophe untouched. It would generate a split verdict that no subsequent reassessment has reconciled. That split verdict, durable, productive, and analytically unstable, is the subject of this article.
 

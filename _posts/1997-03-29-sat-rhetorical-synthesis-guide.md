@@ -6,7 +6,7 @@ date: 1997-03-29
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Rhetorical Synthesis", "Digital SAT", "Strategy"]
 excerpt: "SAT rhetorical synthesis explained: read the goal first, match notes to the stated purpose and avoid the factually-true-but-wrong trap, with worked examples."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 59
 author: "hannah-moore"
 last_updated: 1997-03-29
@@ -14,7 +14,7 @@ lang: en
 ---
 Give a strong student the same set of research notes twice, change one sentence in the prompt, and watch them pick two different correct answers. That is rhetorical synthesis, and it is the cleanest demonstration on the entire Digital SAT that the test rewards a procedure over a feeling. Here is the trap in miniature. A bulleted set of facts about a marine biologist sits on the screen. The directive reads, "The student wants to emphasize a difference between the two expeditions." Four answer choices follow, and every single one of them is grammatically perfect and factually true to the notes. Three of them are decoys not because they contain an error, but because they do not do what the sentence asked. The student who hunts for a grammar mistake finds none, panics, and burns ninety seconds. The student who read the directive first, decided "I need both expeditions and an explicit contrast word," and then scanned the choices for that exact shape, answers in under thirty.
 
-![SAT rhetorical synthesis read the goal first worked examples - Insight Crunch](/assets/images/blog/blog-22.webp)
+![SAT rhetorical synthesis read the goal first worked examples - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 That gap, ninety seconds of confusion against thirty seconds of mechanical matching, is the whole subject of this guide. Rhetorical synthesis is new to the Digital SAT; it did not exist in this form on the paper exam, and it confuses students precisely because their instincts from every other writing question fire in the wrong direction. On a grammar item you look for what is broken. Here nothing is broken. On a reading item you weigh nuance and tone. Here the answer is a near-mechanical match between a stated purpose and the structural fingerprint of the sentence that serves it. Once you flip your reading order so the purpose comes first and the facts come second, this becomes one of the fastest reliable points in the Reading and Writing section, the kind of point a well-drilled test-taker banks without breaking stride. The aim of this guide is to leave you able to read any rhetorical-synthesis directive, name in one phrase what the correct sentence must contain, and screen four choices against that requirement faster than you can read all of them carefully. The method is the point. The facts in the notes are raw material. Your job is assembly to spec.
 

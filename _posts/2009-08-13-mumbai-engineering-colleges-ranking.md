@@ -5,7 +5,7 @@ date: 2009-08-13
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "Mumbai engineering colleges ranking: top institutions evaluated on academic quality, industry placements, campus facilities, and student experience."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 1
 author: "nathan-cole"
 last_updated: 2026-04-01
@@ -17,5 +17,5 @@ Read more: [Tamil Nadu Engineering Colleges Ranking »](https://insightcrunch.c
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Mumbai Engineering Colleges](/assets/images/blog/blog-01.webp)
+![Mumbai Engineering Colleges](/assets/images/blog/blog-60.webp)
 Mumbai Engineering Colleges

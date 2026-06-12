@@ -8,7 +8,7 @@ excerpt: "Tiananmen Square 1989 was a protest movement ended by military suppres
 categories: ["Leisure"]
 tags: ["tiananmen-square", "1989", "china", "democracy", "world-history", "human-rights"]
 author: "rachel-foster"
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
 lang: en
 ---
@@ -16,7 +16,7 @@ Tiananmen Square 1989 was a seven-week protest movement involving millions of Ch
 
 <!--more-->
 
-![Tiananmen Square 1989 Protest Movement and Military Suppression - Insight Crunch](/assets/images/blog/blog-26.webp)
+![Tiananmen Square 1989 Protest Movement and Military Suppression - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 ## The Political and Economic Context of 1989 China
 

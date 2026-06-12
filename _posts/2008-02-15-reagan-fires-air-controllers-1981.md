@@ -6,7 +6,7 @@ date: 2008-02-15
 categories: ["Leisure"]
 tags: ["ronald-reagan", "decision-reconstruction", "us-presidents", "patco-strike", "labor-history", "collective-bargaining"]
 excerpt: "PATCO struck August 3, 1981. Reagan gave 48 hours. He fired 11,345 controllers. The TR-FDR-Truman labor template died here."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 68
 author: "chloe-martin"
 last_updated: 2008-02-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The Rose Garden microphone caught a phrase Reagan had practiced. Calvin Coolidge used it in September 1919 after Boston's police walked off duty, and the line had been pinned to a small set of index cards in the West Wing since the previous evening: there is no right to strike against the public safety by anybody, anywhere, any time. The president delivered it on Monday, August 3, at 10:55 in the morning, with a clock already running on roughly thirteen thousand federal workers. The Professional Air Traffic Controllers Organization had struck two hours earlier. The administration was giving them forty-eight hours to come back. Eighty-five percent did not, and on Wednesday the federal government fired 11,345 of its own employees in a single administrative stroke.
 
-![Reagan PATCO 1981 air controllers strike decision reconstruction - Insight Crunch](/assets/images/blog/blog-45.webp)
+![Reagan PATCO 1981 air controllers strike decision reconstruction - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 That morning is the moment American national workforce policy reversed direction. From Theodore Roosevelt's October 1902 intervention in the anthracite coal strike through Harry Truman's May 1946 railroad seizure and his 1952 attempt to seize the steel mills, the executive branch operated as a industrial broker. Sometimes the White House coerced employers. Sometimes it coerced workers. Consistently it inserted federal power as a stabilizing third party against the rawest forms of management power. After those early-summer events, the executive's signal pointed the other way. Private employers read the precedent within months. Strike activity collapsed across the decade that followed. Union density entered the long decline that would carry into the present century. The legal mechanism PATCO violated had existed since the 1947 Taft-Hartley restrictions on federal workers, and Coolidge's 1919 line had stood as rhetorical doctrine for more than sixty years before Reagan repurposed it. What changed that year was not law but the political willingness of a president to enforce that law to its harshest conclusion against a sympathetic group of skilled professionals.
 

@@ -6,7 +6,7 @@ date: 1997-03-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Grammar", "Standard English", "Conventions"]
 excerpt: "SAT Standard English Conventions: every tested grammar rule ordered by test frequency, from agreement to punctuation, with error-and-fix examples throughout."
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 62
 author: "natalie-webb"
 last_updated: 1997-03-11
@@ -14,7 +14,7 @@ lang: en
 ---
 Most students study grammar the way they clean a messy room: they start wherever their eye lands, fix whatever bothers them first, and run out of energy before the important corner gets touched. That habit costs real points on the SAT, because the Standard English Conventions questions are the most recoverable points on the entire exam. They reward a finite, knowable rule set rather than open-ended judgment. There is no passage to interpret three ways, no author's intent to argue about, no trap built from ambiguity. A semicolon either joins two independent clauses or it does not. A verb either matches its real subject or it does not. The answer is mechanical, and mechanical things can be learned to mastery in a way that reading interpretation never quite can.
 
-![SAT Standard English Conventions grammar rules ordered by test frequency with error and fix examples - Insight Crunch](/assets/images/blog/blog-103.webp)
+![SAT Standard English Conventions grammar rules ordered by test frequency with error and fix examples - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 This guide does one thing the open web almost never does: it puts the tested rules in order of how often they actually show up, then teaches each one with paired error-and-fix examples you can study cold. Call it the InsightCrunch conventions ladder. You climb it from the most frequently tested rule to the least, so the hours you spend convert to points at the highest possible rate. A reader who finishes this page can name every convention family the SAT tests, recognize the trigger that signals each one inside a sentence, and walk into the writing portion knowing exactly what the four answer choices are quietly asking. That is a different outcome from "I reviewed grammar," and the difference is worth a measurable chunk of your writing score.
 

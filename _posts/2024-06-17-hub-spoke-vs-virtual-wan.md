@@ -6,7 +6,7 @@ date: 2024-06-17
 categories: ["Technology"]
 tags: ["Azure", "Virtual WAN", "Networking", "Architecture", "Hub-Spoke", "Cloud Computing"]
 excerpt: "Hub-spoke vs Virtual WAN comes down to one axis: control or managed scale. See how routing, scale, cost, and regions decide your Azure topology choice."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 61
 author: "david-thornton"
 last_updated: 2024-06-17
@@ -14,7 +14,7 @@ lang: en
 ---
 A network architect sketching out a multi-region Azure estate reaches the same fork every time. On one side sits the hand-built hub-spoke: a hub virtual network carrying shared services, spoke VNets peered into it, route tables steering traffic through a central firewall. On the other side sits Azure Virtual WAN: a managed service where Microsoft owns the hub, the routing engine, and most of the transit plumbing, and the team connects spokes and branches without wiring the mesh by hand. Both deliver hub-and-spoke connectivity. Both centralize egress through a firewall. Both can span regions. So the question that stalls the design review is rarely "which one connects VNets" and almost always "which one will this team still want to operate when the estate has thirty spokes across five regions and a dozen branch offices."
 
-![Hub-Spoke vs Virtual WAN Architecture - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Hub-Spoke vs Virtual WAN Architecture - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 That second framing is the one this guide answers. The choice between a manual hub-spoke and Virtual WAN is not a feature checklist where one product wins every row. It is a trade between two things an engineering organization values differently depending on its size, its skills, and its appetite for operational work. A hand-built hub-spoke gives the team total control over every route, every peering, every firewall rule, at the price of building and maintaining that machinery itself. Virtual WAN gives the team managed scale, a routing engine that handles transit and inter-hub connectivity automatically, at the price of surrendering some of that fine-grained control to Microsoft's abstractions. The decision rule that follows from that trade is the spine of this entire article, and it is short enough to state before the first diagram: choose hub-spoke when control matters more than operational savings, and choose Virtual WAN when managed scale matters more than control.
 

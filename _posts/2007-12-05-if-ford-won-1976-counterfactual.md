@@ -6,7 +6,7 @@ date: 2007-12-05
 categories: ["Leisure"]
 tags: ["gerald-ford", "counterfactual", "us-presidents", "1976-election", "iran-hostage-crisis", "ronald-reagan"]
 excerpt: "Ford lost 1976 by 1.7 percent of the popular vote. A Ford win erases the Carter era, reshapes the 1979 Iran response, and reroutes Reagan's 1980 path."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 64
 author: "amanda-ross"
 last_updated: 2026-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 Carter beat Ford by 1.7 percentage points in the popular vote on November 2, 1976, taking 297 electoral votes to 240. The margin was thinner than the rounding error in any contemporary poll. Ohio decided by 11,116 votes. Wisconsin by 35,245. Mississippi by 14,463. Move roughly 9,000 votes across Ohio and Mississippi together, leave Wisconsin alone, and Ford reaches 270 electoral votes and serves until January 1981.
 
-![Gerald Ford 1976 election counterfactual Carter Iran Reagan rise - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Gerald Ford 1976 election counterfactual Carter Iran Reagan rise - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 This is the rarest kind of counterfactual. It is not speculative in the wild-contingency sense, not balanced on a dozen unrelated breaks, but turning on a single bad debate answer that the incumbent's own staff watched in real time and chose not to clean up for six full days. Ford's October 6, 1976 statement that there was "no Soviet domination of Eastern Europe, and there never will be under a Ford administration" arrived during the second presidential debate at the Walnut Street Theatre in Philadelphia. Carter's lead had collapsed from twenty-five points in early September to two points by the morning of the debate. The recovery was visible in every internal Ford campaign poll. The October 6 answer froze it.
 

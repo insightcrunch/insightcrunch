@@ -7,7 +7,7 @@ author: "ian-fletcher"
 categories: ["Industry"]
 tags: ["pakistan-army", "terrorism", "isi", "military", "state-sponsorship", "let", "jem"]
 excerpt: "How Pakistan's military establishment systematically controls, protects, funds, and strategically deploys terror group leadership as core state policy."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
 slug: pakistan-army-terror-leadership
 lang: en
@@ -16,7 +16,7 @@ The Pakistan Army does not merely tolerate terrorism. It manages terrorism. The 
 
 <!--more-->
 
-![Pakistan Army and Terror Leadership](/assets/images/blog/blog-13.webp)
+![Pakistan Army and Terror Leadership](/assets/images/blog/blog-65.webp)
 
 This article is the analytical foundation for understanding why Pakistan's terror infrastructure has survived four decades of international pressure, why it has produced the deadliest non-state attacks of the last quarter century, and why the covert campaign now systematically dismantling its leadership operates with the efficiency of an institution penetrating a familiar bureaucracy rather than an enemy unknown. The shadow war is not targeting terrorists in a vacuum. It is targeting the Pakistan Army's clients, and every successful elimination is a demonstration that the Army cannot protect what it created. To grasp why the campaign reaches the people it reaches, in the cities it reaches them in, with the precision it brings to the work, the reader must first understand what the campaign is actually fighting against. It is fighting against an institutional relationship, not a movement. It is fighting against the patronage networks of a uniformed bureaucracy that has, since the late 1970s, treated militant violence as one tool among many in the management of national strategy.
 

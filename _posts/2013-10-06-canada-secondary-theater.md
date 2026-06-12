@@ -6,7 +6,7 @@ date: 2013-10-06
 categories: ["Industry"]
 tags: ["canada", "nijjar", "pannun", "khalistan", "shadow-war", "diplomatic-crisis", "counter-terrorism"]
 excerpt: "Three targeted killings on Canadian soil turned a Five Eyes partner into the shadow war's costliest secondary theater, triggering a full diplomatic war."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 71
 author: "kevin-reeves"
 last_updated: 2013-10-06
@@ -16,7 +16,7 @@ Canada is not Pakistan. That single observation contains the analytical puzzle a
 
 <!--more-->
 
-![Canada as Shadow War's Secondary Theater - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Canada as Shadow War's Secondary Theater - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 Every previous theater of the shadow war operated under conditions that minimized blowback. In Pakistan's Karachi, Lahore, and Rawalpindi, [the campaign proceeded](https://insightcrunch.com/2013/01/14/india-shadow-war-against-terror-explained/) with a rhythm that became almost predictable: motorcycle-borne gunmen, mid-day or post-prayer timing, rapid escape into dense urban traffic, no claims of responsibility, and Pakistani investigations that produced neither arrests nor accountability. The targets were universally designated terrorists, men with UN sanctions listings, NIA charge sheets, and documented involvement in mass-casualty attacks on Indian soil. When Pakistan protested, the protests carried the weight of a country that had sheltered the same men for decades while collecting billions in American counter-terrorism aid. The international community's response to killings in Pakistan ranged from silence to implicit acceptance. Canada changed all of that. When Hardeep Singh Nijjar was shot dead in the parking lot of the Guru Nanak Sikh Gurdwara in Surrey, British Columbia, on June 18, 2023, and when Prime Minister Justin Trudeau stood in Parliament three months later to accuse India of involvement, the shadow war collided with a force it had never encountered in its Pakistani operations: a Western democracy with the institutional capacity to investigate, the diplomatic standing to confront New Delhi publicly, and membership in the Five Eyes intelligence-sharing alliance that gave Ottawa access to signals intelligence Canada alone could not have produced.
 

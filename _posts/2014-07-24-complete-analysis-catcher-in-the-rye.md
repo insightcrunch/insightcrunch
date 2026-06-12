@@ -6,7 +6,7 @@ date: 2014-07-24
 categories: ["Leisure"]
 tags: ["catcher-in-the-rye", "jd-salinger", "novel-analysis", "trauma", "holden-caulfield", "classic-literature"]
 excerpt: "Salinger's Catcher is a 1951 portrait of acute grief and probable PTSD, not teenage rebellion. The rebel reading flattens specific trauma into cliches."
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
 author: "lauren-hayes"
 last_updated: 2014-07-24
@@ -16,7 +16,7 @@ J.D. Salinger published The Catcher in the Rye in 1951, and within a decade the 
 
 <!--more-->
 
-![Complete Analysis of Catcher in the Rye - Insight Crunch](/assets/images/blog/blog-103.webp)
+![Complete Analysis of Catcher in the Rye - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The misreading is not accidental. Salinger published the novel into a 1951 psychiatric culture that lacked the diagnostic vocabulary to name what Holden's behavior documented. Not until 1980 would the American Psychiatric Association formally codify post-traumatic stress disorder as a diagnosis in the third edition of the Diagnostic and Statistical Manual, nearly thirty years after Catcher appeared. Salinger, who had himself been hospitalized for combat exhaustion after serving with the Fourth Infantry Division through some of the most brutal European Theater campaigns of the Second World War, wrote a narrator whose symptoms he recognized from firsthand experience. Lacking the clinical framework, the reading public substituted the nearest available category: teenage rebellion. That substitution stuck. Kenneth Slawenski's 2010 biography, J.D. Salinger: A Life, and Sarah Graham's 2007 critical study have begun recovering the trauma reading, but the rebel-teenager interpretation remains dominant in popular reception and classroom practice. This article argues for the trauma reading and documents the specific textual evidence that supports it against the rebel-teenager consensus.
 

@@ -5,7 +5,7 @@ date: 2023-03-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Does Tableau certification help your career? Real impact on hiring, salary negotiations, project assignments, and how clients perceive certified analysts."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 3
 author: "jordan-ellis"
 last_updated: 2026-03-30
@@ -15,7 +15,7 @@ Much like the characters in Hemingway's stories who venture into the unknown to 
 
 Read more: [From Novice to Certified Pro: Your Tableau Journey »](https://insightcrunch.com/2023/02/16/from-novice-to-certified-pro-your-tableau-journey/)
 
-![Tableau Certification: Your Ticket to Career Advancement](/assets/images/blog/blog-78.webp)
+![Tableau Certification: Your Ticket to Career Advancement](/assets/images/blog/blog-54.webp)
 Tableau Certification: Your Ticket to Career Advancement
 
 ## **1. Elevating Your Skillset**

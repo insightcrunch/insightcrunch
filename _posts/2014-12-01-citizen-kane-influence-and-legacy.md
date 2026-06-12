@@ -6,7 +6,7 @@ date: 2014-12-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Citizen Kane", "Orson Welles", "Film History", "Cinematography", "Film Analysis", "Directors"]
 excerpt: "Citizen Kane mattered less for inventing techniques than for fusing the scattered grammar of cinema into one model that directors worldwide could study."
-image: "/assets/images/blog/blog-95.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 59
 author: "chloe-martin"
 last_updated: 2014-12-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The clearest line of influence that Citizen Kane set running is not a shot or a trick but a habit of looking. Before 1941, a young filmmaker who wanted to learn how the camera could stage a whole life in depth, how a single frame could hold a foreground argument and a background betrayal at the same time, how sound could carry a story across years in a few seconds, would have had to assemble that knowledge from a dozen scattered sources across several national cinemas. After 1941, that beginner could watch one picture. The reporter stepping into the projection room under the harsh light of a newsreel, the snow globe slipping from a dead man's hand, the boy on the sled framed tiny in the window while his future is signed away in the warm room beyond him: these became reference points that a working director could point at and say, do that, study that, build from that.
 
-![Citizen Kane: The Influence That Built a Textbook - Insight Crunch](/assets/images/blog/blog-95.webp)
+![Citizen Kane: The Influence That Built a Textbook - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 This is the argument of the present analysis, and it is worth stating plainly at the outset because it cuts against the way the work is usually discussed. The standard line is that Citizen Kane is the greatest movie ever made, a verdict repeated so often that it has hardened into branding and then, predictably, provoked a backlash that calls the whole reputation inflated. Both the worship and the backlash miss the more interesting and more defensible point. Orson Welles and his cinematographer Gregg Toland did not invent deep focus, did not invent flashback structure, did not invent expressionist lighting or overlapping dialogue or the long take. What they did was gather techniques that had been developing separately, in France and Germany and the Soviet Union and in Hollywood's own back rooms, and consolidate them into a single, coherent, teachable model that later filmmakers could lift and adapt. The importance of the work is the consolidation, not any one invention. Call it the synthesis engine: a film whose lasting power comes from how completely it assembled the available grammar of the medium into one demonstrable example.
 

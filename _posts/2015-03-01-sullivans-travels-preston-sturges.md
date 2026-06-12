@@ -6,7 +6,7 @@ date: 2015-03-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Preston Sturges", "Sullivan's Travels", "Screwball Comedy", "Hollywood Satire", "Auteur Theory"]
 excerpt: "Sullivan's Travels reveals Preston Sturges as an auteur whose tonal swerve from farce to gravity builds the sharpest defense of comedy in all of cinema."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-03-01
@@ -14,7 +14,7 @@ lang: en
 ---
 A successful director of light entertainments decides he is tired of making people laugh and wants instead to make a serious film about human suffering. He knows nothing about suffering, so he disguises himself as a hobo and goes looking for it. By the time he finds it, the joke has turned on him, and the lesson he carries home is that the laughter he was ashamed of may be the most useful thing he ever made. That is the engine of Sullivan's Travels, the 1941 Paramount picture written and directed by Preston Sturges, and it is also a description of the directorial problem Sturges set himself: how to argue, in the body of a comedy, that comedy is worth defending, without letting the argument curdle into the very preaching it mocks.
 
-![How Sullivan's Travels makes Preston Sturges an auteur, the tonal swerve and the defense of comedy, an analysis - Insight Crunch](/assets/images/blog/blog-10.webp)
+![How Sullivan's Travels makes Preston Sturges an auteur, the tonal swerve and the defense of comedy, an analysis - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The signature Sturges brings to that problem is the move this analysis will call the tonal swerve: the sudden, controlled drop from breakneck farce into genuine gravity, and the deliberate climb back out. No other American director of the period built a body of work on that specific gear change, and none used it to make a film argue with itself the way Sullivan's Travels does. Understanding the swerve is the key to understanding what makes Sturges a distinctive author rather than simply a fast and funny screenwriter who got promoted to the chair. It is the difference between a director who has jokes and a director who has a method, and the method is what this piece sets out to define, scene by scene, and then to measure against the earnest social-realist cinema being made around the world at the same moment, the cinema Sturges was gently, pointedly answering.
 

@@ -6,7 +6,7 @@ date: 2013-07-13
 categories: ["Industry"]
 tags: ["hardeep-singh-nijjar", "khalistan-tiger-force", "canada", "targeted-killing", "diplomatic-crisis"]
 excerpt: "Profile of Hardeep Singh Nijjar, the Khalistan Tiger Force chief killed in Surrey, Canada, and how his killing triggered a severe India-Canada crisis."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
 author: "robert-quinn"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ On the evening of June 18, 2023, two masked gunmen approached a black pickup tru
 
 <!--more-->
 
-![Hardeep Singh Nijjar Profile - Insight Crunch](/assets/images/blog/blog-18.webp)
+![Hardeep Singh Nijjar Profile - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 What made Nijjar's killing exceptional within [the broader shadow war](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) was not the method, which bore surface-level similarities to the motorcycle-borne shootings documented across Pakistan's cities, but the location. Surrey is not Karachi. British Columbia is not Sindh. Canada is a Five Eyes intelligence alliance member, a country with functional law enforcement, sovereign territorial protections, and the diplomatic leverage to punish foreign interference in ways that Pakistan cannot. Nijjar's case stands as the moment the campaign crossed a threshold that separated covert operations conducted inside an adversary state from covert operations conducted inside an ally's territory, and the consequences of that threshold crossing continue to reshape India's foreign relations years after the parking lot in Newton fell silent.
 

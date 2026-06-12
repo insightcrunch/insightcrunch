@@ -6,7 +6,7 @@ date: 2013-06-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Half-Blood", "Identity", "Severus Snape", "Voldemort"]
 excerpt: "Snape, Voldemort, and Harry are half-bloods in Harry Potter, and how each one resolves the pull of two worlds becomes the series' deepest study of identity."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 58
 author: "victoria-stone"
 last_updated: 2013-06-23
@@ -16,7 +16,7 @@ lang: en
 
 Consider a strange coincidence at the center of the seven books. The hero, the villain, and the most morally vexed figure in the entire saga share a single biographical fact, and the books never gather them into the same sentence to point it out. Harry Potter is a half-blood. The man who tries to murder him is a half-blood. The teacher who protects him while loathing him, who dies with the hero's mother's name on his lips, is a half-blood. Three figures who occupy the three corners of the moral universe, and the trait that links them is the one the pure-blood ideology of their world treats as the great impurity, the thing that cannot be cleanly sorted.
 
-![Half-blood identity and heritage in Harry Potter analyzed across Snape, Voldemort, and Harry](/assets/images/blog/blog-72.webp)
+![Half-blood identity and heritage in Harry Potter analyzed across Snape, Voldemort, and Harry](/assets/images/blog/blog-92.webp)
 
 This is not an accident of plotting. It is the most sophisticated piece of social architecture Rowling ever built, and it is hiding in plain sight under a word so common in the books that readers stop hearing it. A half-blood is a person with one magical parent and one Muggle or Muggle-born parent. In the crude blood-taxonomy of the wizarding world, that makes such a person a category problem: not pure, not Muggle-born, but a hybrid who belongs fully to neither camp and is therefore claimed and rejected by both. The argument of these pages is that the children of two worlds are the series' real engine for thinking about identity, and that the three central men resolve the same predicament in three irreconcilable ways. One eliminates the half he despises. One overcorrects toward the inheritance he chose. One, almost alone, learns to hold both at once. Their three answers are a compressed psychology of what it costs to belong to two things and be granted no honest home in either.
 

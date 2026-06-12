@@ -6,7 +6,7 @@ date: 2008-11-17
 categories: ["Leisure"]
 tags: ["harry-truman", "consensus-flip", "us-presidents", "cold-war", "presidential-rankings", "historiography"]
 excerpt: "Truman left office at 22 percent Gallup approval in January 1953. Historians now rank him in the top ten. The four-decade rehabilitation, fully traced."
-image: "/assets/images/blog/blog-83.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 59
 author: "amanda-ross"
 last_updated: 2008-11-17
@@ -16,7 +16,7 @@ lang: en
 
 On January 15, 1953, five days before Dwight Eisenhower took the oath of office, Gallup published its final approval rating for the outgoing president. Harry Truman stood at 22 percent. No other departing commander-in-chief in the age of scientific polling had been judged so harshly by the public he served. The Korean War ground on without resolution. McCarthyism had poisoned the domestic atmosphere, and his own administration had been stung by allegations of corruption involving cronies he refused to abandon. Voters had rendered a verdict, and that verdict was catastrophic. The man from Independence, Missouri, boarded his train home with the reputation of a failed president.
 
-![Truman reputation rehabilitation from 22 percent approval to top ten presidential ranking - Insight Crunch](/assets/images/blog/blog-83.webp)
+![Truman reputation rehabilitation from 22 percent approval to top ten presidential ranking - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 Fifty years later, he sits in the top ten of virtually every major historian survey. The C-SPAN 2000 survey placed him sixth. The 2009 edition placed him fifth. Siena College's 2010 poll had him eighth. The C-SPAN 2017 survey confirmed him at sixth, and the 2021 survey held at sixth. The gap between his 22 percent exit and his sixth-place historian ranking represents one of the largest reputation reversals in the history of the American presidency. How did a president so despised by the public at the close of his tenure become so admired by scholars within four decades? The answer runs through six distinct phases of reassessment, each driven by specific historical forces, specific scholars, and specific archival revelations. The Truman ranking rise is not a mystery or a fluke. It is a case study in how presidential reputations are made, broken, and remade by forces that have almost nothing to do with contemporary public opinion.
 

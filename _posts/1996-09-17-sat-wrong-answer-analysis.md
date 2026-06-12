@@ -6,7 +6,7 @@ date: 1996-09-17
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Error Analysis", "Mistakes", "Strategy"]
 excerpt: "SAT wrong answer analysis explained: the four error types, content, careless, timing and misread, the cure for each and a tracking template, with examples."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 59
 author: "daniel-morgan"
 last_updated: 1996-09-17
@@ -16,7 +16,7 @@ A student finishes a practice section, checks the key, counts eleven misses, sig
 
 SAT wrong answer analysis is the discipline that strips off the disguise. Every miss on the exam falls into exactly one of four categories: a content gap, a careless slip, a timing failure, or a misread. Name the category correctly and the fix is obvious. A content gap demands learning. A careless slip demands a behavioral habit. A timing failure demands a pacing change. A misread demands reading discipline. Confuse the categories and you pour study hours into the wrong reservoir, drilling content you already know to fix slips that have nothing to do with content, or grinding more questions to fix a clock problem that more questions only worsen.
 
-![SAT wrong answer analysis four error types content careless timing misread - Insight Crunch](/assets/images/blog/blog-53.webp)
+![SAT wrong answer analysis four error types content careless timing misread - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 This article goes deeper than the practice-test review workflow in [how to review a full practice test](/sat-practice-test-analysis/), which sorts misses quickly so you can build a study week before the score fades from memory. Here the four categories are the entire subject. Each one gets a precise definition, a diagnostic test that distinguishes it from its neighbors, at least five concrete examples drawn from both Math and Reading and Writing, the corrective action that actually moves it, and a worked categorization of the cases students get wrong. The piece closes with a reusable tracking template that lets you watch the four categories rise and fall across a stack of practice tests, because the pattern across tests is where the real diagnosis lives. One bad day tells you little. Four tests showing the same category swollen above the others tell you exactly what to fix next.
 

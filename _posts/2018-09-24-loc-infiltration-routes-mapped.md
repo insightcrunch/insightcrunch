@@ -6,7 +6,7 @@ date: 2018-09-24
 categories: ["Industry"]
 tags: ["loc", "infiltration", "routes", "kashmir", "border-security", "india-pakistan"]
 excerpt: "Mapping the five infiltration corridors across the Line of Control, how militants cross into Kashmir, and exactly where India's fenced border holds and fails."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 73
 author: "william-knight"
 last_updated: 2018-09-24
@@ -16,7 +16,7 @@ The Line of Control is 740 kilometers of fortified mountain frontier. Concertina
 
 <!--more-->
 
-![Map illustration of Line of Control infiltration corridors between Pakistan-Occupied Kashmir and Indian Kashmir](/assets/images/blog/blog-98.webp)
+![Map illustration of Line of Control infiltration corridors between Pakistan-Occupied Kashmir and Indian Kashmir](/assets/images/blog/blog-90.webp)
 
 This is an attempt to map those crossings honestly, corridor by corridor, without either the triumphalism of official Indian briefings or the fatalism that treats infiltration as a permanent fact of nature. The reality sits between the two. India has not sealed the Line of Control, and the soldiers who patrol it would be the first to say so. What India has done is raise the cost of every crossing so steeply that the volume has collapsed, the success rate has fallen, and the routes that remain viable have narrowed to a handful of terrain features that recur in every infiltration season. Those features are not secret. River valleys where fencing washes out, mountain passes above the snow line where surveillance is seasonal, and densely forested sectors where the tree canopy defeats cameras: these are the conduits, and they have been the conduits for as long as the militancy has existed.
 

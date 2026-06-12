@@ -6,7 +6,7 @@ date: 2015-09-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Ten Commandments", "Cecil B. DeMille", "Film History", "World Cinema", "Directors"]
 excerpt: "How The Ten Commandments turned 1950s scale into a weapon against television, with the Red Sea effect and worldwide epic spectacle fully explained inside."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2015-09-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The most useful way to understand The Ten Commandments is not as a sermon and not as a relic, but as a production solving a business problem with a hammer the size of a continent. In 1956, the American film industry was losing its audience to a small box in the living room, and Cecil B. DeMille answered that threat with a 220-minute religious epic shot in VistaVision and Technicolor, mounted at a scale no home receiver could imitate. The film was his last, the thirty-something feature of a career that began when cameras were hand-cranked, and it was a partial remake of his own 1923 silent version of the same story. Everything about its making points back to one calculation: give the public a thing the television set physically cannot deliver, and they will leave the house to see it. That calculation is the key to the whole picture, and it is why the making of this film explains the film better than any reading of its theology.
 
-![How The Ten Commandments built 1950s spectacle as Hollywood's answer to television, a production analysis - Insight Crunch](/assets/images/blog/blog-78.webp)
+![How The Ten Commandments built 1950s spectacle as Hollywood's answer to television, a production analysis - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 This article treats the production as the argument. It reconstructs how DeMille mounted the era's defining biblical spectacle, how the parting of the Red Sea was assembled from practical water elements and optical compositing rather than any single trick, and how Hollywood's widescreen epic compares to the monumental spectacle traditions being made elsewhere in the world at the same moment. The thesis running through every section is a single nameable idea, which this analysis calls spectacle against the small screen: the 1950s epic exists because television did, and The Ten Commandments is the purest case in the period of scale deployed as a reason to fill a cinema. Read the production that way and the film stops being kitsch to be apologized for and becomes a precise industrial response to a precise industrial emergency.
 

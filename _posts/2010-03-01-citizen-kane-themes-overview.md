@@ -6,7 +6,7 @@ date: 2010-03-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Themes", "The American Dream", "Close Reading", "Film Theory", "Essay Writing"]
 excerpt: "Citizen Kane themes explained: how the American Dream, wealth, loneliness, memory, and the unknowable self interlock into one single argument about a life."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2010-03-01
@@ -16,7 +16,7 @@ Most people who can name a single fact about Welles's first feature can name the
 
 This overview maps every major idea in the film and shows how they fit together rather than treating them as a checklist. The single most useful thing to understand before going any further is that these concerns are not separate items that happen to share a movie. They are facets of one argument, repeated through different materials, and the article's job is to make that argument visible.
 
-![Citizen Kane themes overview: the American Dream, wealth, loneliness, memory, and the unknowable self analyzed - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Citizen Kane themes overview: the American Dream, wealth, loneliness, memory, and the unknowable self analyzed - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 ## Why the Themes of Citizen Kane Work as One System
 

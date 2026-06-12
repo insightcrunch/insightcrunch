@@ -7,7 +7,7 @@ categories: ["Leisure"]
 tags: ["democracy", "world-history", "political-history", "athens", "historical-analysis"]
 author: "chloe-martin"
 excerpt: "Democracy is neither inevitable nor permanently achieved. Its history is a discontinuous struggle against tyranny, exclusion, and structural fragility."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 last_updated: 2016-07-23
 lang: en
@@ -16,7 +16,7 @@ The most dangerous myth about democracy is that it represents the natural endpoi
 
 <!--more-->
 
-![The History of Democracy Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The History of Democracy Explained - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Samuel Huntington's 1991 framework in The Third Wave identified three great democratic waves since the early nineteenth century, each followed by a reverse wave during which authoritarian regimes reclaimed territory that democracy had briefly occupied. Larry Diamond's subsequent scholarship documented the phenomenon of democratic recession beginning approximately in 2006, with Freedom House recording consecutive years of global decline in political freedom through the present. Steven Levitsky and Daniel Ziblatt's How Democracies Die warned that contemporary institutional erosion typically occurs not through military coups but through the incremental actions of elected leaders who dismantle institutional safeguards while maintaining the vocabulary of democratic legitimacy. The scholarly consensus is clear: democracy is a discontinuous achievement requiring active defense rather than a historical inevitability requiring only patience. Understanding why requires tracing democracy's actual trajectory from its origins in a small Greek city-state through its modern global variations, preserving the pattern of advance and retreat that popular narratives consistently flatten.
 

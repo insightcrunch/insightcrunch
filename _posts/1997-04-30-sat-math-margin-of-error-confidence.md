@@ -6,7 +6,7 @@ date: 1997-04-30
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Statistics", "Margin of Error", "Data Analysis"]
 excerpt: "SAT margin of error and confidence intervals explained in plain English: sample size effects, valid inference and the overgeneralization trap, with examples."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
 author: "simon-hartley"
 last_updated: 1997-04-30
@@ -14,7 +14,7 @@ lang: en
 ---
 The SAT margin of error question is the rare item that almost never asks you to calculate anything, and that is exactly why so many strong students lose it. You spend the whole exam training yourself to compute, to manipulate, to reach for an arithmetic move the moment you see a number. Then a survey question arrives, hands you a percentage and a small range, and asks which conclusion the data supports. There is nothing to solve. There is only something to read, carefully, with statistical sense rather than a calculator. The students who treat it as a computation problem dig for a formula that is not needed. The students who treat it as a reading problem, and who know the one trap the test plants every single time, answer it in under thirty seconds and move on.
 
-![SAT margin of error and confidence intervals worked examples - Insight Crunch](/assets/images/blog/blog-13.webp)
+![SAT margin of error and confidence intervals worked examples - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 That one trap has a name worth fixing in your memory before anything else: overgeneralization. The test gives you a result drawn from a specific, named group of people, then offers an answer choice that quietly stretches the finding to a much broader group the survey never touched. The numbers in the choice look right. The reasoning is wrong. A poll of four hundred students at one high school tells you something about that high school, and it tells you nothing reliable about every teenager in the country. Recognize that move and you have recognized the whole question type, because the College Board returns to it again and again across the Problem Solving and Data Analysis content. This article teaches you to read a confidence interval in plain language, to know what the margin of error actually measures, to predict how the interval responds when the sample grows, and to spot the overgeneralizing choice on sight. By the end you will treat the survey item as one of the most reliable points on the Math section rather than one of the most confusing.
 

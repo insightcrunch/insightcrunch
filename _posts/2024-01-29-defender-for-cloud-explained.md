@@ -6,7 +6,7 @@ date: 2024-01-29
 categories: ["Technology"]
 tags: ["Azure", "Microsoft Defender for Cloud", "Secure Score", "CSPM", "CWPP", "Cloud Security", "Security & Identity"]
 excerpt: "Microsoft Defender for Cloud pairs CSPM posture with CWPP protection, so you raise the secure score by remediating recommendations rather than reading alerts."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
 author: "alex-cunningham"
 last_updated: 2024-01-29
@@ -14,7 +14,7 @@ lang: en
 ---
 A subscription that has never had Microsoft Defender for Cloud opened is not a subscription without security problems. It is a subscription whose security problems have never been counted. The threat that Defender for Cloud addresses is the slow accumulation of misconfiguration: a storage account that allows public blob access, a SQL server with its firewall open to every address, a virtual machine missing endpoint protection, a key vault without purge protection, a management port reachable from the internet. None of these is an attack. Each is an opening. The exposure that a misconfiguration creates is not theoretical, because attackers scan for exactly these openings continuously, and the gap between a resource being created and a resource being hardened is the window they work in. Defender for Cloud exists to make that window visible, to quantify how wide it is, and to drive it closed.
 
-![Microsoft Defender for Cloud secure score and posture management explained - Insight Crunch](/assets/images/blog/blog-87.webp)
+![Microsoft Defender for Cloud secure score and posture management explained - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The mistake that wastes the tool is treating it as an alert feed. An engineer enables Defender for Cloud, sees a stream of alerts and recommendations, and settles into reading them the way one reads a log: passively, as a record of things that happened. That posture collects findings without changing anything. The whole value of the product is the opposite motion. Microsoft Defender for Cloud is posture management and workload protection together, and using it well means raising the secure score through remediation, not just reading alerts. Call this the posture-plus-protection rule, because it names the two halves the tool covers and the single action, remediation, that connects them. Everything in this article serves that rule: what the secure score measures, how recommendations turn into fixes, what the per-workload protection plans add on top of posture, and how the whole thing feeds Microsoft Sentinel when you want a security operations workflow around it.
 

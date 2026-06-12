@@ -6,7 +6,7 @@ date: 1996-09-21
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Section Scores", "Score Balance", "Strategy"]
 excerpt: "SAT section score balance: why lifting your weaker section usually wins, strategies for each imbalance pattern and how superscoring changes it, with examples."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "michael-brooks"
 last_updated: 1996-09-21
@@ -14,7 +14,7 @@ lang: en
 ---
 A student walks in with a 720 in Math and a 580 in Reading and Writing, a 1300 composite, and one question: how do I get to 1400 before the next sitting? Almost every instinct points the wrong way. The 720 feels like the foundation, the part that works, the place where another grind session will surely pay off. So the student books more Math, drills the questions they already get right, and watches the composite barely move. The hundred-and-forty-point gap between the two halves of the score was the map the whole time, and the student spent the season reading it upside down.
 
-![SAT Section Score Balance: Uneven Scores - Insight Crunch](/assets/images/blog/blog-89.webp)
+![SAT Section Score Balance: Uneven Scores - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The points you are missing do not live where you are strong. They live where you are weak, and they sit there in clusters, cheaper per hour of work than anything left on the strong side. A jump from the high 500s to the mid 600s is a different kind of climb than a push from the low 700s into the high 700s, and treating those two climbs as if they cost the same is the single most expensive planning error in score improvement. This piece gives you the decision rule, the two imbalance patterns and their distinct cures, the way superscoring rewrites the whole calculation, and the narrow set of cases where pushing your stronger side is the right call after all. By the end you can look at any lopsided pair of section scores and say, in a sentence, where your next month of effort belongs.
 

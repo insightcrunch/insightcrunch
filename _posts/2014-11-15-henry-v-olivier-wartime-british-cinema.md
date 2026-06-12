@@ -6,7 +6,7 @@ date: 2014-11-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Henry V", "Laurence Olivier", "British Cinema", "Film History", "World Cinema", "Adaptations"]
 excerpt: "Henry V (1944) turned Shakespeare into British wartime morale, dissolving the Globe stage into a real Agincourt, read against the world's cinemas at war."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2014-11-15
@@ -14,7 +14,7 @@ lang: en
 ---
 When a country decides that its cinema should fight, the choices it makes reveal what that country believes about itself. In 1944, with the outcome of the war still uncertain and the Normandy landings only months away, British cinema produced its boldest statement of national purpose, and it did so not by staging a present-day battle but by reaching six centuries into the past. Laurence Olivier's Henry V takes Shakespeare's play about a young king who leads an outnumbered English army to victory at Agincourt and rebuilds it as a Technicolor pageant aimed squarely at a population under bombardment. The picture is usually filed under the heading of great Shakespeare adaptations, and it is one, but that label undersells what it accomplishes. It is one of the clearest examples in all of cinema of a national film industry mobilizing its deepest cultural inheritance, its national poet and its national myth, as an instrument of morale. To understand it, you have to read it as national cinema first and as literary adaptation second.
 
-![How Olivier's Henry V worked as British wartime national cinema, from the Globe stage to the field at Agincourt, an analysis - Insight Crunch](/assets/images/blog/blog-16.webp)
+![How Olivier's Henry V worked as British wartime national cinema, from the Globe stage to the field at Agincourt, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 That reading is also the way to see what makes the film formally radical rather than merely handsome. Olivier did not film the play as a recording of a stage production, and he did not pretend the camera could simply walk into fifteenth-century France. He built the picture as a journey out of the theater and into history. It opens as a performance at the Globe playhouse in the year 1600, complete with a paying audience, a property-man scurrying with signboards, and actors who play to the back of the house. Then, scene by scene, the artifice peels away. The painted backdrops give way to stylized storybook sets, and those in turn open out onto a real landscape for the Battle of Agincourt, photographed on location with hundreds of horsemen. By the end the picture folds itself back into the playhouse, returning to the stage it left. This is the single most discussed feature of the film, and it is the key to everything else, because the form is not decoration. The movement from playhouse to battlefield is the film's argument about how a nation talks to itself in a crisis, and it doubles as the most elegant solution anyone had yet found to the oldest problem in filmed Shakespeare.
 

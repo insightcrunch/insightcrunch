@@ -6,7 +6,7 @@ date: 2013-04-17
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Loyalty", "Betrayal", "Peter Pettigrew", "Severus Snape"]
 excerpt: "Loyalty and betrayal in Harry Potter from Pettigrew to Snape - the central moral axis of the series and the choices that drive every plot turn in seven books."
-image: "/assets/images/blog/blog-106.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-04-17
@@ -16,7 +16,7 @@ lang: en
 
 Two wizards sit at the opposite ends of a single moral question, and the entire seven-volume structure of the series hangs between them. One spent twelve years curled in the form of a rat at a family's dinner table, eating their food, sleeping in their children's beds, and waiting. The other spent sixteen years performing the role of a traitor so completely that the boy he was protecting would have killed him on sight, given the chance. Peter Pettigrew betrayed everyone who ever trusted him. Severus Snape betrayed no one, and was believed to have betrayed everything. Place these two beside each other and you have the thesis of the books in compressed form: that the difference between fidelity and treachery is almost never visible on the surface, and that learning to read it correctly is the moral education the series demands of its reader.
 
-![Loyalty and betrayal in Harry Potter analyzed from Pettigrew to Snape](/assets/images/blog/blog-106.webp)
+![Loyalty and betrayal in Harry Potter analyzed from Pettigrew to Snape](/assets/images/blog/blog-72.webp)
 
 Rowling does not treat allegiance as a warm sentiment. She treats it as a problem with consequences, a thing that can be faked, weaponised, withheld, or paid for in blood, and she builds nearly every major plot reversal in the series out of a misreading of who is loyal to whom. The Fidelius Charm fails because the secret-keeper was the wrong man. The trio's journey nearly collapses because one of them walks away. The headmaster of Hogwarts dies at the wand of the man most devoted to his cause. Each of these turns depends on the reader, and the characters inside the story, getting the loyalty question wrong before getting it right. The series is, at its mechanical level, a machine for generating and then correcting errors about who can be trusted.
 

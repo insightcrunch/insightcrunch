@@ -6,7 +6,7 @@ date: 2014-03-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Phantom of the Opera", "Lon Chaney", "Silent Horror", "Performances", "World Cinema"]
 excerpt: "How Lon Chaney built the monster of The Phantom of the Opera through self-applied makeup, a staged unmasking, and a realism that opposed Expressionism."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2014-03-01
@@ -16,7 +16,7 @@ The performance problem at the center of The Phantom of the Opera (1925) is a pr
 
 This is the rare horror performance organized entirely around a reveal that the film spends most of its running time refusing. Chaney understood that the shock would only land if the body underneath the cloak earned it, and so he played Erik, the disfigured musician haunting the cellars of the Paris Opera House, as a man with a complete interior life rather than a lurching effect. The result is a piece of screen acting that invented one of the templates American horror would use for the next century, and it did so by going in the opposite direction from the European horror being made at exactly the same moment.
 
-![How Lon Chaney built the Phantom through self-applied makeup and a staged unmasking, a performance analysis - Insight Crunch](/assets/images/blog/blog-41.webp)
+![How Lon Chaney built the Phantom through self-applied makeup and a staged unmasking, a performance analysis - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 To watch the film as a performance study is to watch a single actor solve a design problem that the production around him could barely hold together. The shoot was famously chaotic, passed between directors, previewed to confused audiences, and recut more than once. What survives the chaos is Chaney. He is the organizing intelligence of the picture, and the argument of this analysis is that his performance, not the credited direction, is what gives The Phantom of the Opera its coherence and its permanence. Strip away the troubled history and you are left with a man who turned his own skull into a script.
 

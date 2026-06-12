@@ -6,7 +6,7 @@ date: 1997-03-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Subject-Verb Agreement", "Pronouns", "Grammar"]
 excerpt: "SAT subject-verb agreement explained: the intervening-phrase trap, collective and indefinite subjects, inverted sentences and pronoun clarity, with examples."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 1997-03-07
@@ -14,7 +14,7 @@ lang: en
 ---
 The single most common question in the Standard English Conventions portion of the Digital SAT is not the hardest one. It is the one students miss because the exam hides the answer in plain sight. A sentence reads, "The collection of rare stamps that my grandfather assembled over four decades ___ now worth a small fortune," and the choices offer *is*, *are*, *were*, and *being*. A test-taker scans the words right before the blank, sees "four decades," hears a plural, and picks *are*. The point is gone. The real subject was *collection*, a singular noun sitting eight words back, and the verb had to be *is*. That one move, dropping a phrase between the subject and its verb to disguise the true head noun, generates more agreement errors on this exam than any other design in the conventions category.
 
-![SAT subject-verb agreement and pronoun clarity worked examples with the intervening-phrase trap - Insight Crunch](/assets/images/blog/blog-92.webp)
+![SAT subject-verb agreement and pronoun clarity worked examples with the intervening-phrase trap - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 This guide treats subject-verb agreement the way it deserves to be treated: as a rule the exam tests relentlessly, with a small set of predictable disguises layered on top of one plain principle. A verb must match its subject in number. Singular subject, singular verb. Plural subject, plural verb. That is the whole rule, and a fifth grader can state it. What turns it into a points machine for the test writers is the gap they open between the subject and the verb, the collective nouns that look plural but act singular, the indefinite pronouns that split into singular and plural camps, the inverted sentences that put the verb before its subject, and the relative-pronoun constructions that bury the agreement two clauses deep. Layer pronoun clarity on top, where a pronoun has to point to exactly one unmistakable noun, and you have the most heavily weighted grammar territory the Writing material covers. Master the disguises and you neutralize the entire category at once.
 

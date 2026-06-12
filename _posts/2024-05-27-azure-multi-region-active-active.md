@@ -6,7 +6,7 @@ date: 2024-05-27
 categories: ["Technology"]
 tags: ["Azure", "Architecture", "Multi-Region", "Cosmos DB", "Front Door", "Cloud Computing"]
 excerpt: "Multi-region active-active on Azure pairs global routing with cross-region data replication, but write conflicts decide whether the pattern fits your data."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "kevin-reeves"
 last_updated: 2024-05-27
@@ -14,7 +14,7 @@ lang: en
 ---
 A full Azure region does not fail often, but when it does, the failure is total and it does not negotiate. Compute stops answering, managed databases stop accepting writes, the storage accounts pinned to that geography return errors, and every service you assumed was independent turns out to have shared a single fate. Teams that planned for a single virtual machine crashing, or a single availability zone losing power, discover that their resilience story had a hidden ceiling, and the ceiling was the region boundary. The natural response is to run in two regions at once, both live, both serving production traffic, so that the loss of one is absorbed rather than felt. That design is multi-region active-active on Azure, and it is the most demanding resilience pattern the platform asks you to reason about, because the moment two regions both accept writes, you have signed up for a distributed-systems problem that no amount of routing cleverness can hide.
 
-![Multi-Region Active-Active on Azure - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Multi-Region Active-Active on Azure - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 This guide treats multi-region active-active as an architecture decision first and a configuration exercise second. The configuration is the easy half. Pointing a global router at two regional deployments, turning on cross-geography replication, and watching traffic split across continents takes an afternoon. The hard half is the one that the demos skip: when both regions accept a write to the same record at nearly the same instant, which write survives, who decides, and what happens to the loser. Get that answer wrong and active-active does not improve your resilience, it manufactures a new class of data-correctness bug that single-region systems never see. So the through-line of everything below is a single rule, stated plainly and defended throughout. The hard part of active-active is multi-region writes and the conflicts they create, and unless your data model has a deliberate answer for those conflicts, active-passive is the safer multi-region design. Naming that rule up front is not a hedge against the pattern. It is the filter that tells you whether you should reach for it at all.
 

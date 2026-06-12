@@ -6,7 +6,7 @@ date: 2024-07-29
 categories: ["Technology"]
 tags: ["Azure", "Virtual Machines", "Performance", "Networking", "Cloud Computing", "Cost Management"]
 excerpt: "Azure VM performance tuning begins by finding the real bottleneck across disk, network, CPU, and memory, so you fix the limit instead of resizing blind."
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 62
 author: "gregory-marsh"
 last_updated: 2024-07-29
@@ -14,7 +14,7 @@ lang: en
 ---
 A virtual machine that feels slow is almost never slow for the reason the first guess assumes. Azure VM performance tuning fails most often because the engineer reaches for the resize button, moves from a Standard_D4s_v5 to a Standard_D8s_v5, watches the bill double, and finds the workload no faster than before. The capacity went up. The thing that was actually gating the work did not move at all. That gap, between the size of the machine and the limit that constrains it, is where most wasted spend and most wasted afternoons live.
 
-![Azure VM performance tuning across disk, network, CPU, and memory bottlenecks - Insight Crunch](/assets/images/blog/blog-20.webp)
+![Azure VM performance tuning across disk, network, CPU, and memory bottlenecks - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 Every guest on Azure runs against four hard ceilings at once: how fast its attached storage can read and write, how fast packets move across its network interface, how much processor it can apply to a unit of work, and how much memory it can hold before paging begins. A workload runs at the speed of whichever ceiling it hits first. Everything else is headroom that does nothing until the binding ceiling rises. Tuning is the discipline of identifying which of the four is binding right now, raising only that one, confirming the gain with a measurement, and then asking whether a new ceiling has become the limit. The skill that separates a careful operator from a guesser is the refusal to spend money on a dimension that was never the constraint.
 

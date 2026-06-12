@@ -6,7 +6,7 @@ date: 2014-01-25
 categories: ["Leisure"]
 tags: ["great-gatsby", "f-scott-fitzgerald", "daisy-buchanan", "character-analysis", "feminist-reading", "classic-literature"]
 excerpt: "Daisy is not Gatsby's villain. She is the most trapped figure in the novel, choosing survival in a system designed to reward her compliance."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2014-01-25
@@ -16,7 +16,7 @@ Daisy Buchanan is not the villain of The Great Gatsby. She is the most constrain
 
 <!--more-->
 
-![Daisy Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-69.webp)
+![Daisy Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The standard reading of Daisy has been remarkably stable for decades: she is shallow, she is careless, she is the object Gatsby pursues and the person who fails to deserve his devotion. Nick Carraway's famous final judgment of the Buchanans as people who smash things and retreat behind their money has become the novel's verdict on Daisy in most classroom discussions and on most study-guide websites. SparkNotes and LitCharts reproduce this reading almost verbatim. The reading has the advantage of simplicity and the disadvantage of accepting Nick's perspective as neutral when the entire novel demonstrates that Nick is anything but. The argument this analysis advances is different. Daisy is not careless in the way Nick means it. Daisy is constrained, and what looks like carelessness from the outside is the set of survival decisions a woman in her position was structurally required to make. The feminist critical tradition, from Lois Tyson's work on gender in Gatsby to Sarah Churchwell's historical contextualization, has built the scholarly foundation for this reassessment. The textual evidence, read without Nick's framing imposed on top of it, supports it decisively.
 

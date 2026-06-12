@@ -6,7 +6,7 @@ date: 2023-08-07
 categories: ["Technology"]
 tags: ["Azure", "Azure DevOps", "DevOps", "Security", "Identity", "Cloud Computing"]
 excerpt: "An Azure DevOps service connection is your pipeline's credential to Azure. Federate it, scope it least-privilege, and gate it with approvals to deploy safely."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 62
 author: "gregory-marsh"
 last_updated: 2023-08-07
@@ -14,7 +14,7 @@ lang: en
 ---
 When a pipeline deploys to Azure, something has to vouch for it. The Azure DevOps service connection is that something: it is the stored credential and trust relationship a pipeline uses to authenticate to your subscription and act on your resources. Get it right and your deployments run unattended, prove who they are without a password sitting in a variable, and touch only the resources they were meant to touch. Get it wrong and you have a long-lived secret that leaks in a log, expires on a Friday afternoon, or hands a compromised pipeline the keys to an entire subscription. The credential choice is not a checkbox at the end of setup. It is the single most consequential security decision you make when you wire delivery to the cloud, and most teams make it by accident.
 
-![Azure DevOps service connection setup with workload identity federation and least-privilege scope - Insight Crunch](/assets/images/blog/blog-71.webp)
+![Azure DevOps service connection setup with workload identity federation and least-privilege scope - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 This guide builds the endpoint the durable way and names the rule that should govern every choice along the path. Call it the federate-not-store rule: a service connection should authenticate through workload identity federation so that there is no secret to leak, expire, or rotate, and the credential type is chosen before anything else because everything downstream depends on it. The old pattern, a service principal carrying a client secret that some human has to remember to renew, is still the default many teams reach for because it is what the wizard offered them three years ago. It works until the secret expires mid-release or shows up in a debug dump. Federation removes the secret entirely, and once you have seen a pipeline authenticate to Azure with nothing stored, the secret-bearing connection looks like the liability it always was.
 

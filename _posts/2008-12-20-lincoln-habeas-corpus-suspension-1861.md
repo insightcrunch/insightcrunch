@@ -6,7 +6,7 @@ date: 2008-12-20
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "decision-reconstruction", "us-presidents", "civil-war", "habeas-corpus", "executive-power"]
 excerpt: "Lincoln suspended habeas corpus alone in April 1861. Chief Justice Taney ruled it unconstitutional in Ex parte Merryman. This is how Lincoln won."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 68
 author: "rachel-foster"
 last_updated: 2008-12-20
@@ -14,7 +14,7 @@ lang: en
 ---
 The order traveled by courier on April 27, 1861. From the executive mansion to the headquarters of Lieutenant General Winfield Scott, somewhere in the same besieged city of Washington. Forty-seven words long. Addressed to the army's general-in-chief, not to the legislature, not to the courts, not to the Maryland authorities whose territory it would govern. Abraham Lincoln had just authorized the writ's halting of habeas corpus along the military line between Philadelphia and Washington. He had done so unilaterally. Not one legislator voted on the question. Not one judge was consulted in advance. The order itself cited no constitutional power.
 
-![Lincoln habeas writ-halt 1861 decision reconstruction - Insight Crunch](/assets/images/blog/blog-93.webp)
+![Lincoln habeas writ-halt 1861 decision reconstruction - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 Six days earlier, Confederate guns had reduced Fort Sumter to rubble. Eight days earlier, a Baltimore mob had attacked Massachusetts troops passing through the city, killing four soldiers and at least nine civilians on Pratt Street. Five days earlier, rail bridges into Washington had been burned by order of Maryland authorities. The capital was severed from the loyal North. The Sixth Massachusetts had fought its way through Baltimore using ammunition the soldiers had loaded themselves on the train cars. The president of the United States did not know whether Washington would fall before reinforcements arrived. Outside the executive mansion, he reportedly looked toward the Potomac and said, "Why don't they come."
 

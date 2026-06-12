@@ -6,7 +6,7 @@ date: 2018-02-19
 categories: ["Industry"]
 tags: ["ceasefire", "negotiations", "may-10", "dgmo", "us-mediation", "nuclear"]
 excerpt: "How the May 10 ceasefire was negotiated through three simultaneous channels, from DGMO hotlines to US diplomacy and backchannels, to halt nuclear war."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
 author: "ryan-walsh"
 last_updated: 2018-02-19
@@ -16,7 +16,7 @@ On May 10, 2025, at precisely 15:35 hours Indian Standard Time, a telephone rang
 
 <!--more-->
 
-![Ceasefire Negotiations May 10 2025 - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Ceasefire Negotiations May 10 2025 - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 ## The Four Days That Made the Call Necessary
 

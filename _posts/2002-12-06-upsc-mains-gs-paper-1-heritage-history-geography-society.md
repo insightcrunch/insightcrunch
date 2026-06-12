@@ -6,7 +6,7 @@ date: 2002-12-06
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 1", "Indian History", "Geography", "Indian Society", "IAS Preparation"]
 excerpt: "Complete UPSC Mains GS Paper 1 strategy: syllabus decoded, source list per topic, PYQ patterns and answer frameworks for 130-plus marks."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "anita-das"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC Mains GS Paper 1 is the paper that aspirants either consistently score 130 
 
 This UPSC Mains GS Paper 1 strategy guide is built for the aspirant who wants to move from the 95 to 110 score band into the 130 to 150 score band, which is precisely the gap that separates rank 500 from rank 100 in any given cycle. The mathematics is unforgiving: a 30-mark improvement in one paper, replicated across the four GS papers, produces a 120-mark improvement in your Mains total, which routinely shifts your rank by 200 to 400 places. GS1 is the most accessible of the four GS papers for sustained improvement because its content base is the most stable (history does not change, geography does not change, the bulk of culture does not change), and the analytical frameworks are the most teachable. The aspirant who invests 250 to 350 hours specifically into GS1 mastery extracts a return that compounds across every cycle they attempt the exam.
 
-![UPSC Mains GS Paper 1 Strategy and Source List - Insight Crunch](/assets/images/blog/blog-53.webp)
+![UPSC Mains GS Paper 1 Strategy and Source List - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The paper itself carries 250 marks across 20 questions in three hours. Ten questions carry 10 marks each (150-word target answers, approximately 9 minutes per question) and ten carry 15 marks each (250-word target answers, approximately 11 minutes per question). The syllabus spans Indian Heritage and Culture, History (Ancient, Medieval, Modern Indian, and World), Indian Society, and Geography (Indian and World, Physical and Human). On the surface this looks like a vast syllabus with no clear priority. In practice, UPSC has consistently asked from a relatively predictable set of subtopics over the past decade, and the aspirant who internalises this question architecture writes faster, more relevantly, and with higher mark conversion. This guide decodes that architecture line by line.
 

@@ -6,7 +6,7 @@ date: 2021-10-27
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Salary Structure", "In-Hand Pay"]
 excerpt: "TCS NQT salary structure: CTC, in-hand pay, and benefits for Ninja and Digital roles. How your NQT score tier determines your starting compensation."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 45
 author: "vikram-iyer"
 last_updated: 2026-04-02
@@ -14,7 +14,7 @@ lang: en
 ---
 Most candidates know the CTC. What they need to know is the in-hand monthly salary - the actual amount credited to the bank account on salary day. For a TCS Ninja fresher with a ₹3.5 LPA CTC, the monthly in-hand is not ₹29,167 (which is ₹3.5L divided by 12). It is approximately ₹22,000-26,000 after deductions. Understanding precisely how this calculation works - which deductions apply, how much variable pay is, when it is paid, and how the in-hand salary grows over time - is essential financial planning information for every TCS NQT aspirant.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-87.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-91.webp)
 *The complete TCS NQT salary guide focused on monthly in-hand pay - the exact salary structure for Ninja and Digital tracks, every deduction explained (PF, professional tax, income tax), how variable pay is calculated and when it arrives, what the first month's salary looks like versus month 12, how to increase monthly in-hand through tax optimization, the salary growth pattern through increments and promotions, and the complete financial planning framework for living on TCS fresher salary*
 
 This guide focuses specifically on the monthly salary mechanics - the actual numbers that land in your account and the calculations behind them.

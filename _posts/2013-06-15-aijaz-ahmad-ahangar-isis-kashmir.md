@@ -6,7 +6,7 @@ date: 2013-06-15
 categories: ["Industry"]
 tags: ["aijaz-ahmad-ahangar", "isis", "kashmir", "afghanistan", "targeted-killing"]
 excerpt: "Profile of Aijaz Ahmad Ahangar, the Kashmiri ISIS recruit found dead in Afghanistan's Kunar Province, and what his fatal journey reveals about ISKP's reach."
-image: "/assets/images/blog/blog-83.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ Aijaz Ahmad Ahangar died in Afghanistan's Kunar Province sometime in February 20
 
 <!--more-->
 
-![Aijaz Ahmad Ahangar ISIS Kashmir Profile - Insight Crunch](/assets/images/blog/blog-83.webp)
+![Aijaz Ahmad Ahangar ISIS Kashmir Profile - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 What is not ambiguous is what Ahangar represented. Born around 1973 in Srinagar's Mirjanpora neighborhood, the son of a blacksmith, he crossed the Line of Control in 1996, passed through Pakistan's jihadist infrastructure, migrated to Afghanistan, joined the Islamic State, and rose to become the chief recruiter of the Islamic State Jammu and Kashmir chapter. He masterminded the recruitment of Indian nationals who carried out suicide bombings against Sikh worshippers in Kabul and Jalalabad. He launched the Voice of Hind propaganda magazine targeting Indian Muslims. He was arrested in Kandahar alongside ISKP chief Aslam Farooqi in April 2020, imprisoned in the infamous Pul-i-Charkhi prison, escaped during the Taliban's August 2021 takeover, and disappeared into the mountains of eastern Afghanistan. His trajectory from a Kashmiri iron-foundry apprentice to a senior ISIS commander orchestrating attacks against minorities on Afghan soil is a story that no single organization, no single country, and no single ideology can fully explain. Ahangar's career spanned Tehreek-ul-Mujahideen, Harkat-ul-Mujahideen, al-Qaeda's orbit, and finally the Islamic State, each transition revealing how the jihadist ecosystem recycles personnel across organizational boundaries and across decades.
 

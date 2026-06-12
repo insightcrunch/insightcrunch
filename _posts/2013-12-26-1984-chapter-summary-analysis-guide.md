@@ -6,7 +6,7 @@ date: 2013-12-26
 categories: ["Leisure"]
 tags: ["1984", "george-orwell", "chapter-analysis", "novel-structure", "summary-guide", "classic-literature"]
 excerpt: "1984's three-part structure is not a narrative convenience. It is the architecture of totalitarian conditioning."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
 author: "megan-clark"
 last_updated: 2013-12-26
@@ -16,7 +16,7 @@ George Orwell's 1984 is not structured like a story. It is structured like a pro
 
 <!--more-->
 
-![1984 Chapter by Chapter Summary and Analysis - Insight Crunch](/assets/images/blog/blog-71.webp)
+![1984 Chapter by Chapter Summary and Analysis - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 This is the central difference between reading 1984 as a narrative and reading it as an engineered system. SparkNotes and its competitors provide plot summaries that walk linearly through what happens: Winston writes in a diary, Winston meets Julia, Winston is arrested, Winston is tortured, Winston capitulates. That sequence is accurate and useless. It describes events without explaining why Orwell arranged them in precisely this order, with precisely these structural proportions, producing precisely this effect. The three-part architecture is itself an argument. Part One is the Learning phase, in which Winston absorbs the surface operations of Oceania's power structure and commits his first crime by beginning a diary. Part Two is the Discovery phase, in which every act of apparent rebellion, the love affair, the rented room, the Brotherhood meeting, the Goldstein book, turns out to be a resource the state provided. Part Three is the Confirmation phase, in which the apparatus demonstrates that it controlled the rebellion from the start and processes Winston into compliance. Each phase exists to set up the next. The Learning phase makes the Discovery phase feel liberating by contrast. The Discovery phase makes the Confirmation phase devastating because the reader, along with Winston, believed the rebellion was real. Orwell was not writing a story about a man who fights and loses. He was writing a [diagnostic report on how totalitarian systems process individuals](https://insightcrunch.com/2013/12/06/complete-analysis-1984-george-orwell/), and the processing diagram is the three-part structure itself.
 

@@ -6,7 +6,7 @@ date: 1996-04-26
 categories: ["Industry"]
 tags: ["SAT", "International", "Africa", "Fee Waivers", "Scholarships"]
 excerpt: "SAT guide for African students: test access in major cities, fee waivers, scholarship organizations and English readiness, with competitive score targets."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1996-04-26
@@ -14,7 +14,7 @@ lang: en
 ---
 A student in Lagos who scores 1480 and a student in Boston who scores 1480 hold the same number on paper, but they did not run the same race to get there. The Boston student booked a seat at a school down the road, sat a digital exam in a familiar building, and paid a fee that cost an afternoon of part-time work. The Lagos student traveled across the city to one of a handful of authorized centers, registered months ahead because seats fill, paid a fee in dollars that landed very differently against a naira income, and did all of it while preparing in a system that never mentioned this exam until they chose to chase it. That gap is not about ability. It is about access, cost, and information, and every one of those three is a solvable problem once you can see the whole path at once.
 
-![SAT guide for African students with test access, fee support, and scholarship pathway - Insight Crunch](/assets/images/blog/blog-96.webp)
+![SAT guide for African students with test access, fee support, and scholarship pathway - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 This guide gives African students the thing the standard college-admissions account skips: a single map that connects where you can actually sit the exam, what the cost looks like against local incomes and where relief comes from, which organizations move students from Accra and Nairobi and Lagos into funded US places, what score range actually competes for need-based aid, and how much English preparation your country's school system has already done for you before you start. The standard advice tells an African student to "get a good score and apply." It rarely tells them that for most families the only realistic route to a US degree runs through full financial aid or a dedicated scholarship program, that those programs read a score as a gate rather than a brochure number, and that the access and cost obstacles in front of the exam are navigable rather than disqualifying. The students who succeed are not the ones who scored highest. They are the ones who understood the pathway early and worked it in order.
 

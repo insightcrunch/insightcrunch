@@ -6,7 +6,7 @@ date: 2002-10-27
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "International Relations", "Foreign Policy", "India-China", "India-Pakistan", "IAS Preparation"]
 excerpt: "UPSC GS2 international relations deep dive: India's foreign policy, bilaterals with neighbours and major powers, multilaterals with answer frameworks."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 65
 author: "deepika-joshi"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC GS2 international relations is the subdomain where aspirants most consisten
 
 The cognitive shift required is from treating international relations as current affairs memorisation to treating it as strategic analysis within historical and doctrinal frameworks. The aspirant who can articulate that "India's contemporary China policy operates within the strategic framework established through the Nehru era Panchsheel principles and the subsequent evolution through the 1962 war the Rajiv Gandhi era normalisation of 1988 the 1993 and 1996 border peace agreements the contemporary strategic competition in the Indo-Pacific and the 2020 Galwan crisis and subsequent military standoff that has substantially transformed the operational relationship while structural factors including trade dependencies boundary dispute and competing regional ambitions continue to shape the broader strategic trajectory" demonstrates analytical command that a generic "India-China relations face various challenges" framing entirely lacks. Both statements are accurate; only one signals the substantive strategic engagement that UPSC actually rewards. This strategically grounded engagement is teachable through structured preparation that consciously builds historical context, analytical frameworks, and specific bilateral and multilateral knowledge alongside current affairs engagement.
 
-![UPSC GS2 International Relations India and its Neighbours Deep Dive - Insight Crunch](/assets/images/blog/blog-23.webp)
+![UPSC GS2 International Relations India and its Neighbours Deep Dive - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 By the end of this guide you will understand the architecture of the international relations subdomain within GS Paper 2, India's foreign policy doctrine and its evolution across decades, the detailed bilateral relationships with major powers and neighbouring countries, the major multilateral engagements through UN BRICS SCO Quad G20 and various other frameworks, India's role in global governance reform discussions, the effects of developed country policies on Indian interests, the Indian diaspora as foreign policy instrument, the answer-writing techniques for balanced IR perspective, the source hierarchy that produces depth without dilution, the common mistakes aspirants make, and the 90-day intensive plan that produces measurable score improvement. The total time investment for dedicated IR preparation across the cycle is approximately 80 to 100 hours, reflecting both the content breadth and the continuous current affairs dimension that IR preparation requires.
 

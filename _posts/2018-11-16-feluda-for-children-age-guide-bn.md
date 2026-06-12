@@ -6,7 +6,7 @@ date: 2018-11-16
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction", "children-reading"]
 excerpt: "বাঙালি শিশুদের ফেলুদা পড়ানোর জন্য পিতামাতার নির্দেশিকা, বয়স-অনুযায়ী পাঠের ক্রম"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 144
 author: "amit-chatterjee"
 lang: bn
@@ -17,7 +17,7 @@ last_updated: 2026-04-01
 
 <!--more-->
 
-![ছোটদের জন্য ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-01.webp)
+![ছোটদের জন্য ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-84.webp)
 
 ## ফেলুদা কি সত্যিই একটি শিশু-সাহিত্য
 

@@ -6,7 +6,7 @@ date: 2012-03-23
 categories: ["Industry"]
 tags: ["isi", "pakistan", "intelligence", "terrorism", "let", "jem", "state-sponsorship"]
 excerpt: "How Pakistan's Inter-Services Intelligence agency systematically built, armed, and protected LeT, JeM, and other militant groups as state instruments."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 author: "abigail-cooper"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ Pakistan's Inter-Services Intelligence directorate did not stumble into the busi
 
 <!--more-->
 
-![ISI and Terror Nexus Explained - Insight Crunch](/assets/images/blog/blog-45.webp)
+![ISI and Terror Nexus Explained - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Understanding the ISI-terror nexus requires moving beyond the simplistic framing of a rogue intelligence agency operating without state knowledge. The ISI is not rogue. It is the institutional expression of a strategic doctrine that treats terrorism as a legitimate instrument of statecraft, one that successive Pakistani governments, military chiefs, and political leaders have endorsed, funded, and defended at international forums for over three decades. Former Pakistani President Pervez Musharraf acknowledged in a 2015 interview that Pakistan had supported and trained groups like Lashkar-e-Taiba throughout the 1990s, calling fighters like Hafiz Saeed and Zaki-ur-Rehman Lakhvi "our heroes" during that era. The candor was unusual; the policy was not. From the moment Lieutenant General Hamid Gul redirected Afghan jihad veterans toward Kashmir in 1989, the ISI operated as what former US National Security Council members Daniel Benjamin and Steven Simon described as a "terrorist conveyor belt," radicalizing young men in Pakistani madrassas and delivering them to training camps where they were transformed from seminary students into armed fighters. The pipeline that Gul built in the late 1980s has never been fully dismantled. It was expanded, professionalized, and diversified across organizations, geographies, and operational objectives. The result is a terror ecosystem so deeply embedded in Pakistan's military and political institutions that eliminating individual operatives, however tactically valuable, addresses symptoms rather than the disease. The disease is the ISI itself, or more precisely, the institutional culture within the ISI that treats proxy warfare as Pakistan's primary strategic tool against a militarily, economically, and demographically superior India.
 

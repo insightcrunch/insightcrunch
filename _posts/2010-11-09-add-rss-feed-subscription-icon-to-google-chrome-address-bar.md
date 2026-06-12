@@ -5,7 +5,7 @@ date: 2010-11-09
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "Unlike Firefox, Google Chrome does not have the subscribe to RSS feed icon in its address bar. This might make many users feel uneasy because feeds ar..."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 1
 author: "david-thornton"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Unlike Firefox, Google Chrome does not have the subscribe to RSS feed icon in its address bar. This might make many users feel uneasy because feeds ar such a great way to stay connected to a particular which we liked.
 
-![Google Chrome Address Bar RSS Feed Subscription](/assets/images/blog/blog-58.webp)
+![Google Chrome Address Bar RSS Feed Subscription](/assets/images/blog/blog-104.webp)
 Google Chrome Address Bar RSS Feed Subscription
 
 But now there’s an extension by Google. *[Install it here](https://chrome.google.com/extensions/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)*.

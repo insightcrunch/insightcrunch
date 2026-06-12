@@ -6,7 +6,7 @@ date: 2015-07-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Maltese Falcon", "John Huston", "Film Noir", "Film History", "Directors"]
 excerpt: "The Maltese Falcon fixed the hardboiled private eye on screen, launched the film noir cycle, and carried its code-in-corruption archetype around world cinema."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-07-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The clearest line of influence The Maltese Falcon set running is a man: a private detective who works for money, lies as fluently as the people he is hired to outwit, and keeps exactly one rule when everyone around him has none. Before John Huston's 1941 picture, the screen sleuth was a puzzle-solver, a gentleman of superior reasoning who restored order to a world that was fundamentally sound. After it, the detective became something else entirely, a wary professional moving through a corruption so total that his private code is the only law left standing. That figure, and the whole stylistic cycle organized around him, is what this film bequeathed to the cinema, and the bequest traveled far beyond Warner Bros. and beyond the United States.
 
-![How The Maltese Falcon launched film noir and fixed the private-eye archetype, an analysis - Insight Crunch](/assets/images/blog/blog-43.webp)
+![How The Maltese Falcon launched film noir and fixed the private-eye archetype, an analysis - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 Huston adapted Dashiell Hammett's 1930 novel with a fidelity that bordered on transcription, cast Humphrey Bogart as Sam Spade among a gallery of liars chasing a jeweled bird, and in doing so gave Hollywood a template it would work over and over for nearly two decades. The story is simple to summarize and impossible to exhaust: a beautiful client who is not what she says, a partner murdered in the first reel, a fat man and a perfumed thief and a trigger-happy boy all circling a black statuette that turns out to be worthless. What matters for the question of legacy is not the plot. It is the way the picture fixed a set of conventions, a hero, a moral posture, a visual grammar of entrapment, and a closing note of disillusionment so complete that the cycle to follow could only elaborate it, never improve on it.
 

@@ -6,7 +6,7 @@ date: 2002-08-02
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Answer Writing", "Introduction Techniques", "Conclusion Techniques", "IAS Preparation"]
 excerpt: "UPSC Mains introduction and conclusion techniques: 15 introduction formulas data-based quote-based historical definitional and 10 conclusion styles."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 65
 author: "anita-das"
 last_updated: 2026-04-16
@@ -18,7 +18,7 @@ UPSC Mains introduction and conclusion techniques represent the critical opening
 
 The cognitive shift required is from treating introductions and conclusions as routine perfunctory openings and closings to treating them as strategic craftsmanship dimensions that meaningfully affect overall answer quality and evaluator impression. The aspirant who writes "Since ancient times humanity has grappled with various challenges and continues to do so" produces generic opening that could precede any topic providing minimal analytical value. The aspirant who writes "India's renewable energy capacity expansion from approximately 35 GW to over 175 GW since 2014 demonstrates the transformative impact of dedicated policy framework on clean energy transition" produces specific opening that immediately engages the renewable energy topic with substantive data establishing analytical commitment from first sentence. Both aspirants address renewable energy questions; only one demonstrates the strategic introduction craftsmanship that captures evaluator attention from the opening sentence.
 
-![UPSC Mains Introduction and Conclusion Techniques Strategy - Insight Crunch](/assets/images/blog/blog-91.webp)
+![UPSC Mains Introduction and Conclusion Techniques Strategy - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 By the end of this guide you will understand the 15 introduction formulas with deployment criteria for each, the 10 conclusion styles with deployment criteria for each, the format-specific introduction and conclusion adaptation over 150-word 200-word and 250-word answers, the introduction-conclusion bookending technique for answer coherence, the question type recognition supporting formula and style selection, the practice approach for technique mastery, the common introduction and conclusion mistakes that produce marks loss, the organized deployment strategy for examination performance, and the integration with broader answer writing preparation. The total time investment for dedicated introduction-conclusion technique preparation across the cycle is approximately 25 to 35 hours building on broader answer writing foundations. The broader answer writing format technique foundation is established in the [UPSC Mains answer writing 200-word and 150-word format](/2002/08/11/upsc-mains-answer-writing-formats/) article and the comprehensive answer writing skill development in the [UPSC answer writing practice how to build the skill from scratch](/2003/04/07/upsc-answer-writing/) article that contextualise introduction-conclusion techniques within broader answer writing strategy.
 

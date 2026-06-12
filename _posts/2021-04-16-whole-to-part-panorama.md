@@ -5,13 +5,13 @@ date: 2021-04-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "..."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 1
 author: "alex-rivera"
 last_updated: 2026-04-01
 lang: en
 ---
-![](/assets/images/blog/blog-17.webp)
+![](/assets/images/blog/blog-21.webp)
 
  Any new initiative brings with it several bytes of data to start with. When we start with the goal to derive insights, evaluating the available raw data becomes the only activity for days. Fields stop making sense with relation to another if at all when we challenge it enough but often enables modeling with precision with regard to the context.
 

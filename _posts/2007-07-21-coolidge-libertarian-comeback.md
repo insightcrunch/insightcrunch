@@ -6,7 +6,7 @@ date: 2007-07-21
 categories: ["Leisure"]
 tags: ["calvin-coolidge", "consensus-flip", "us-presidents", "historical-reappraisal", "libertarian-politics", "small-government"]
 excerpt: "Historians ranked Coolidge 27th of 31 in 1962. Conservative scholars and libertarian institutes rebuilt his reputation. The reappraisal has clear limits."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 72 min
 author: "diana-patel"
 last_updated: 2026-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 On a January morning in 1981, a quiet ceremony reshaped the symbolic geography of the West Wing. Ronald Reagan's staff removed the portrait of Harry Truman from its place of honor in the Cabinet Room and hung a portrait of Calvin Coolidge in its stead. The swap drew a few sentences of newspaper commentary at the time and then faded from public attention. Inside the conservative intellectual movement, however, the gesture registered as a deliberate signal. A chief executive written off in the academy for half a century as the passive custodian of a doomed boom had become, in Reagan's hands, a usable past.
 
-![Calvin Coolidge libertarian conservative reputation rehabilitation reappraisal - Insight Crunch](/assets/images/blog/blog-62.webp)
+![Calvin Coolidge libertarian conservative reputation rehabilitation reappraisal - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The Schlesinger Sr. survey of 1962 placed the thirtieth president twenty-seventh out of thirty-one rated chief executives, ahead of only Tyler, Pierce, Buchanan, and Grant. The C-SPAN historians survey of 2017 placed him twenty-seventh of forty-four. By the surface numerics, the climb is small. Beneath the rankings, the substantive scholarly portrait has moved further than the survey numbers reveal, and along ideological fault lines that the rankings partially mask.
 

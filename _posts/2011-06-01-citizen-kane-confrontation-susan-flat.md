@@ -6,7 +6,7 @@ date: 2011-06-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Boss Gettys", "Charles Foster Kane", "Close Reading", "Cinematography", "Essay Writing"]
 excerpt: "Citizen Kane: the confrontation at Susan's flat is the film's hinge, where Boss Gettys traps Kane and a proud refusal costs him marriage, race, and future."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2011-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a single short passage in the middle of the picture where the rising half of the story stops rising, and it happens in a rented apartment with four people who cannot all get what they want. Citizen Kane: the confrontation at Susan's flat is the hinge on which the whole film turns, the moment when a man who has spent an hour of screen time accumulating power is offered a way to keep all of it and refuses, because the one thing he will not surrender is the right to refuse. Everything before this scene is ascent. Everything after it is the long, patient demonstration of what that ascent was built on. If you want to understand why a film about a newspaper tycoon plays like a tragedy rather than a biography, you study these few minutes in the cramped flat on the upper floor, where Boss Jim Gettys waits in the shadows with a piece of information that can end Kane's career, and Kane, given every reason by every person in the room to bend, plants his feet and shouts.
 
-![The confrontation at Susan's flat in Citizen Kane, Boss Gettys and the turning point scene analyzed - Insight Crunch](/assets/images/blog/blog-77.webp)
+![The confrontation at Susan's flat in Citizen Kane, Boss Gettys and the turning point scene analyzed - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 The scene is short, but it carries an enormous structural load, and the more closely you read its staging, its lighting, and the placement of its four bodies in one small room, the more it reveals about how Welles builds character into fate. This is not a transcription of the dialogue, and it does not need to be. The screenplay's words matter less here than the geometry of the room, the angle of the camera, and the simple, devastating fact that the cost of Kane's grand refusal will be paid almost entirely by the two women standing on either side of him. What follows is a close reading of those minutes: where they sit in the architecture of the film, what actually happens when the analysis strips away the melodrama, how Welles arranges four colliding wills inside a single frame, and why this encounter, more than any newsreel headline or deathbed whisper, is where Kane decides who he is going to be.
 

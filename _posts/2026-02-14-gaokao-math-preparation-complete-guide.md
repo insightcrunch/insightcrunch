@@ -6,14 +6,14 @@ date: 2026-02-14
 categories: ["Industry"]
 tags: ["高考", "高考数学", "数学备考", "Mathematics", "Study Guide"]
 excerpt: "高考数学满分一百五十分,是冲击顶尖大学的关键学科。本指南系统拆解函数导数、三角向量、数列、立体几何、解析几何、概率统计六大核心板块,详解考试结构、分值权重、四阶段复习节奏、错题本机制与限时套卷训练,并按一百四十分、一百二十分等不同目标给出可执行的得分策略,帮助每位考生告别低效刷题,找到最适合自己的高效备考路径。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 50
 author: "wang-yue"
 lang: zh
 ---
 在所有高考科目里,数学往往是拉开差距最明显的一门。语文和外语的分数分布相对集中,大多数人都落在某个不大的区间内;可一旦换成这门讲究逻辑与运算的学科,强者与弱者之间常常出现五十分甚至更大的鸿沟。正因如此,它几乎是决定能否叩开顶尖高校大门的那把钥匙。然而令人遗憾的是,绝大多数考生在备考时走的都是同一条看似勤奋、实则低效的老路:埋头刷题,以为练得越多分数就越高。本文要讲的,就是把这条路彻底讲清楚,告诉你真正有效的备考究竟是怎样一套体系,以及你应当如何一步步从基础走向冲刺。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-36.webp)
 *高考数学六大核心板块与四阶段复习节奏全景图*
 
 ## 一、走出"刷题陷阱":为什么刷五千道题不如答对两千道

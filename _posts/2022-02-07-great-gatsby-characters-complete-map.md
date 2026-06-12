@@ -6,7 +6,7 @@ date: 2022-02-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Character Analysis", "Jay Gatsby", "F. Scott Fitzgerald", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby characters form two linked triangles, not a flat roster. Map every figure, their ties, and the single job each one does in the novel."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2022-02-07
@@ -16,7 +16,7 @@ Most readers meet the Great Gatsby characters as a list to memorize: a narrator,
 
 This guide maps that mechanism. It treats each figure not as a personality to admire or condemn but as a working part with a job, and it shows how those jobs lock together into the design that produces the novel's catastrophe. You will leave able to name every character, state exactly how each one is tied to the others, and say in one sentence what each is for. More than that, you will be able to defend a claim that turns the whole cast into an argument rather than a cast list.
 
-![The Great Gatsby characters and their relationships mapped across the two-triangle structure - Insight Crunch](/assets/images/blog/blog-60.webp)
+![The Great Gatsby characters and their relationships mapped across the two-triangle structure - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 ## Why the cast of The Great Gatsby works as a network, not a roster
 

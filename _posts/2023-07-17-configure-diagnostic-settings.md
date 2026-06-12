@@ -6,7 +6,7 @@ date: 2023-07-17
 categories: ["Technology"]
 tags: ["Azure", "Azure Monitor", "Diagnostic Settings", "Log Analytics", "Azure Policy", "Cloud Computing"]
 excerpt: "Configure diagnostic settings across Azure so each service routes logs and metrics to a workspace, and enforce the settings at scale using Azure Policy."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 60
 author: "abigail-cooper"
 last_updated: 2023-07-17
@@ -14,7 +14,7 @@ lang: en
 ---
 A component in Azure produces telemetry whether or not anyone is listening. The platform meters it, generates platform metrics, and writes audit records to the activity log automatically. The detailed signal, the per-request logs, the firewall verdicts, the gateway access entries, the database query statistics, stays inside the resource and is discarded unless you have told the platform where to send it. That instruction is the diagnostic setting. When you configure diagnostic settings correctly, every asset forwards its logs and metrics to a destination you control, and the data is there the day an incident starts. When you skip the configuration, the service looks healthy in the portal blade right up to the moment you open a Log Analytics query during an outage and discover the table is empty for the window you most need.
 
-![Configure Diagnostic Settings Across Azure - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Configure Diagnostic Settings Across Azure - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 That gap is the most expensive misconfiguration in Azure observability, and it is silent. Nothing warns you that a resource has no diagnostic setting. The blade renders, the metrics charts populate from the always-on platform metrics, and the component serves traffic. The absence only surfaces later, when an auditor asks for ninety days of access logs you never captured, or when a 3 a.m. page sends you to a query that returns no rows because the network security group was never wired to forward its flow data. Getting diagnostic settings right is not a nice-to-have hardening step you schedule for a quiet sprint. It is the precondition for every other thing you will try to do with Azure Monitor, and the cost of getting it wrong is paid entirely in the future, at the worst possible time.
 

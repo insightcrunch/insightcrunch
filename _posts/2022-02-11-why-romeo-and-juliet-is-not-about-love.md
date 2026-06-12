@@ -6,7 +6,7 @@ date: 2022-02-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "the-feud", "masculinity", "romeo-and-juliet-themes"]
 excerpt: "Romeo and Juliet sells itself as romance, but the engine that drives every turn is the feud, the honor culture, and the marriage market around the lovers."
-image: "/assets/images/blog/blog-88.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 
 author: "diana-patel"
 last_updated: 2022-02-11
@@ -14,7 +14,7 @@ lang: en
 ---
 The first blood in Verona is spilled before either of the title characters has spoken a word. Servants brawl in a public square, a kinsman draws his rapier on the word peace itself, and an old man calls for his long sword while his wife mocks him for it. By the time the lovers meet, the play has already shown an audience what kind of world they are about to fall in love inside. The popular memory of this drama keeps only the balcony, the kiss, the poison, and the tears, and it files the whole thing under romance. That filing is the mistake this article exists to correct.
 
-![The Capulet Montague feud as the engine of the play, Act 1 Scene 1 brawl close reading - Insight Crunch](/assets/images/blog/blog-88.webp)
+![The Capulet Montague feud as the engine of the play, Act 1 Scene 1 brawl close reading - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The claim here is precise, and it is structural rather than sentimental. Affection is the occasion of the tragedy; enmity is its engine. The quarrel between two households opens the action, frames the central romance at every turn, governs the duel that snaps the plot in half, and survives long enough to kill almost everyone who matters. The young men of this city are bred to fight, and the code that rules the fatal duel is not desire but reputation. The arrangement that condemns the heroine is not a love match but a property transaction conducted by her father over her objections. Read this way, the work is a study of a violent social order, and two children's attachment is the spark that lights it, not the subject it is about. This is what we will call the hate-engine reading, and the rest of the article builds it line by line, tests it against the strongest counterargument, and reaches a verdict.
 

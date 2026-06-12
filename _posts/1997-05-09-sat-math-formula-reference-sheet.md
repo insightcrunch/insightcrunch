@@ -6,7 +6,7 @@ date: 1997-05-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Formulas", "Reference", "Study Guide"]
 excerpt: "SAT math formula reference by domain: algebra, geometry and statistics formulas beyond the provided sheet, each with a one-line note on when you need it."
-image: "/assets/images/blog/blog-83.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 59
 author: "hannah-moore"
 last_updated: 1997-05-09
@@ -14,7 +14,7 @@ lang: en
 ---
 A student opens the Bluebook testing app, taps into the math section, and finds a blue link near the corner of the screen labeled Reference. Tapping it reveals a small panel of shapes and equations. Relief washes over the unprepared candidate: the formulas are right there, so memorizing them was never necessary. That relief is the single most expensive feeling in the math section, because the supplied panel is a trap of false security. It hands you the area of a circle and the volume of a cone, then stays silent on the slope of a line, the coordinates of a parabola's vertex, the distance between two points, and roughly a dozen other relationships that appear far more often than any solid the panel bothers to define. The candidate who relies only on the provided list walks into Module 2 missing the exact tools the harder items demand.
 
-![SAT math formula reference sheet by domain with worked usage notes - Insight Crunch](/assets/images/blog/blog-83.webp)
+![SAT math formula reference sheet by domain with worked usage notes - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 This is the complete SAT math formulas reference, built to be the page you keep open during your final review and the one you print and tape above your desk. It is organized the way the digital section actually behaves, by domain, with a one-line usage note attached to every relationship so the page reads as a working tool rather than a memory dump. You will see clearly which items the official panel already supplies, so you never waste a single minute memorizing the area of a triangle, and which high-frequency relationships the panel omits, so you never lose a question because you forgot the vertex form or the rule for an inequality sign. The governing idea of this guide is plain: knowing which relationships the supplied panel leaves out, and knowing precisely when each one applies, converts directly into speed and into points. A relationship you can recall in two seconds is a relationship you can deploy while a slower candidate is still scrolling to the corner of the screen.
 

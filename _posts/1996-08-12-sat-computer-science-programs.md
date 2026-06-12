@@ -6,7 +6,7 @@ date: 1996-08-12
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Computer Science", "STEM", "Score Ranges"]
 excerpt: "SAT scores for computer science programs: why CS is the most competitive major, the admission models, math weighting and a reality check, with a table."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 1996-08-12
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a sentence on more admission letters than students expect, and it ends careers in computing before they begin: "Congratulations on your admission to the university. Your application to the computer science major was not selected." A student opens that letter, reads the first line, celebrates, and only on the second read understands that the SAT score that cleared the institution did not clear the department. Knowing what SAT score do I need for a top computer science program is the wrong first question. The sharper question is which threshold you are actually being measured against, because for the most sought-after major in American higher education, the bar inside the major sits well above the bar at the front gate.
 
-![SAT Scores for Computer Science Programs - Insight Crunch](/assets/images/blog/blog-69.webp)
+![SAT Scores for Computer Science Programs - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 This guide is built for the applicant who intends to study computing and wants to read the data the way an admission committee reads it. The open web answers the score question badly. It quotes a school's overall middle band, attaches it to the word "engineering" or "computer science," and calls the matter settled. That answer is not just incomplete; for a CS-bound applicant it is misleading, because the institutions that have made computing their flagship draw a separate, higher line for the major than for the campus as a whole. A 1480 that comfortably clears a university's general profile can land below the working range its computing program admits from. The reader who treats the published all-applicant band as the target walks into the most competitive admission funnel in the country carrying a number calibrated for a different race.
 

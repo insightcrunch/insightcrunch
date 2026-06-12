@@ -6,7 +6,7 @@ date: 2017-11-27
 categories: ["Industry"]
 tags: ["dhurandhar", "timeline", "real-operations", "post-release", "targeted-killings", "shadow-war"]
 excerpt: "A post-release timeline overlay of real targeted killings mapped against Dhurandhar's fictional operations, revealing convergences too striking to ignore."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-11-27
@@ -16,7 +16,7 @@ Aditya Dhar's Dhurandhar opened in Indian cinemas on December 5, 2025, and withi
 
 <!--more-->
 
-![Real Operations After Dhurandhar Released - Insight Crunch](/assets/images/blog/blog-75.webp)
+![Real Operations After Dhurandhar Released - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 ## The Film's Version
 

@@ -6,7 +6,7 @@ date: 2024-01-15
 categories: ["Technology"]
 tags: ["Azure", "Key Vault", "Security", "Identity", "Cloud Computing"]
 excerpt: "Azure Key Vault security best practices to harden a vault with RBAC, network lockdown, soft delete, purge protection, secret rotation, and access auditing."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "david-thornton"
 last_updated: 2024-01-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A key vault holds the material that protects everything else: the connection strings that reach your databases, the certificates that terminate your TLS, the keys that encrypt your storage accounts. When the vault is hardened, a stolen application credential buys an attacker very little, because the vault still gates what that credential can read. When the vault is left on defaults, the same vault becomes the single richest target in the subscription, and one over-broad role assignment or one open network path turns it into a master key for the estate. Azure Key Vault security best practices exist to close that gap on purpose rather than by accident.
 
-![Azure Key Vault Security Best Practices - Insight Crunch](/assets/images/blog/blog-35.webp)
+![Azure Key Vault Security Best Practices - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The exposure is rarely a flaw in the vault itself. It is the posture around the vault. A vault that still uses the legacy access policy model lets anyone with a Contributor-style write permission grant themselves data-plane access. A vault reachable from the public internet trusts the network boundary to no one. A vault without purge protection can be deleted, secrets and all, by a single mistaken command or a malicious insider, and the encrypted data those secrets unlocked goes dark with it. None of these are exotic. They are the defaults or the legacy settings that a vault carries forward when nobody hardens it deliberately.
 

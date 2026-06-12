@@ -6,7 +6,7 @@ date: 2014-06-01
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "National Parks", "Itineraries", "Outdoors", "Hiking"]
 excerpt: "A complete Yosemite National Park planning guide covering the four entrances, how many days you need, the Valley versus the high country, and what to skip."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 76
 author: "nandini-sen"
 last_updated: 2014-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Most people arrive at Yosemite National Park holding a single picture in their head, usually Half Dome rising over a green floor, and they plan the whole trip around chasing that one frame. The picture is real, but it hides the decision that actually shapes a good visit: Yosemite is two very different places stitched together, a dense and crowded valley floor and a vast, open high country, and the trip succeeds or fails on how you split your time between them. Resolve that split, pick the right entrance, and commit enough nights, and the park rewards you. Treat it as a one-day photo stop and you leave having seen the postcard and missed the park.
 
-![Yosemite National Park complete planning guide showing Half Dome and the valley floor, a first-timer orientation - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Yosemite National Park complete planning guide showing Half Dome and the valley floor, a first-timer orientation - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 This guide is built to hand you a working trip rather than a list of sights. It walks through what the place actually is, how much time it really takes, how to get in and move around, where to base yourself, the experiences worth ranking your days around, the honest downsides nobody mentions in the brochure, and a realistic sense of what the week costs. Where a topic deserves its own deep treatment, this guide points you to the article that owns it rather than repeating thin advice here. The aim is simple: by the end you should be able to sketch a Yosemite trip you could book this week.
 

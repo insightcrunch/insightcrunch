@@ -6,7 +6,7 @@ date: 2022-04-18
 categories: ["Technology"]
 tags: ["Azure", "Azure Data Factory", "Data Engineering", "ETL", "Cloud Computing", "Architecture"]
 excerpt: "Azure Data Factory explained for engineers: the orchestration model, the integration runtime choice, copy activity versus mapping flows, triggers, and pricing."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 62
 author: "david-thornton"
 last_updated: 2022-04-18
@@ -14,7 +14,7 @@ lang: en
 ---
 Azure Data Factory is the service most engineers reach for the moment a pipeline has to move data from one place to another on a schedule, and it is also the service most engineers misread on the first try. The misreading is predictable: people treat it as an ETL tool with a drag-and-drop canvas, copy a tutorial, watch the first run succeed against a sample blob, and then hit a wall the moment the real source sits behind a firewall, the transform needs more than a column rename, or the schedule has to honor a late-arriving file. The gap between using Azure Data Factory and understanding it is the gap between a demo that copies a CSV and a production pipeline that survives a self-hosted runtime restart, a throttled sink, and a Spark cluster that takes four minutes to spin up. This guide closes that gap by treating the service as what it actually is, an orchestration engine built from a small number of coupled parts, and showing how each part decides what your pipeline can and cannot do.
 
-![Azure Data Factory orchestration model, integration runtimes, and copy versus flow explained - Insight Crunch](/assets/images/blog/blog-47.webp)
+![Azure Data Factory orchestration model, integration runtimes, and copy versus flow explained - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The promise here is not a feature tour. Microsoft Learn already lists every activity and every connector, and a forum thread will solve one person's exact copy failure without ever telling you why it happened. What follows instead is a mental model you can reason from. Once you can name the five moving parts, predict which integration runtime a source requires before you provision anything, and tell a copy activity apart from a flow by the work it does rather than by the icon on the canvas, most of the failures that send people to a search engine stop being mysterious. They become consequences of a choice you can see in advance.
 

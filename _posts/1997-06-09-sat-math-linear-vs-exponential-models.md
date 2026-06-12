@@ -6,7 +6,7 @@ date: 1997-06-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Modeling", "Linear", "Exponential"]
 excerpt: "SAT linear versus exponential models explained: the differences-and-ratios diagnostic, real-world cues and piecewise models, with side-by-side worked examples."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
 author: "katherine-blake"
 last_updated: 1997-06-09
@@ -16,7 +16,7 @@ Two tables sit side by side on the screen. One shows a savings account that adds
 
 That decision is what this guide hands you, cold and repeatable. By the end you will run one diagnostic on any data set, any word problem, any pair of answer choices, and route yourself to the correct family in seconds. You will know that a fixed yearly raise belongs to the straight-line world and a percentage growth rate belongs to the compounding world, and you will know why the two are never the same beast wearing different clothes. The differences-and-ratios diagnostic at the center of this piece is the tool a prepared candidate reaches for the instant a modeling question appears, and the worked sequence below drills it until the choice becomes reflex.
 
-![SAT linear vs exponential models differences-and-ratios diagnostic worked examples - Insight Crunch](/assets/images/blog/blog-60.webp)
+![SAT linear vs exponential models differences-and-ratios diagnostic worked examples - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 This article sits one layer above the individual function families. If you have already studied the mechanics of [exponential functions, growth and decay equations, and the growth-factor trap](/1997/08/25/sat-math-exponential-functions/), and you have worked through [scatter plots, lines of best fit, and the correlation-is-not-causation rule](/1997/08/11/sat-math-scatter-plots-regression/), then you have the two vocabularies. What you may still lack is the decision layer that chooses between them under pressure. A surprising share of lost points on the digital exam come not from being unable to solve either kind of model but from solving the wrong one with confidence. The fix is a clean test you apply before you commit, and that test is the spine of everything that follows.
 

@@ -5,7 +5,7 @@ date: 2016-09-14
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "It has happened, though very rarely, that the DRM application refuses to start up. On further investigation it has revealed that the number of versions in..."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 1
 author: "nathan-cole"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 It has happened, though very rarely, that the DRM application refuses to start up. On further investigation it has revealed that the number of versions in the repository has been duplicated which had been preventing the application from starting up normally.
 
-![DRM Application not starting up - Duplicate Versions](/assets/images/blog/blog-47.webp)
+![DRM Application not starting up - Duplicate Versions](/assets/images/blog/blog-31.webp)
 DRM Application not starting up - Duplicate Versions
 
 The below query will provide the information of the version which is causing the issue:

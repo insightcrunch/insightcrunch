@@ -6,7 +6,7 @@ date: 2012-12-24
 categories: ["Industry"]
 tags: ["unknown-gunmen", "targeted-killings", "modus-operandi", "shadow-war", "india-pakistan", "counter-terrorism"]
 excerpt: "Decoding the unknown gunmen pattern across Pakistan, from motorcycle-borne assassins to mosque killings, and the covert intelligence doctrine behind it."
-image: "/assets/images/blog/blog-105.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "ryan-walsh"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Between 2022 and 2026, a series of killings spread across Pakistan's cities with
 
 <!--more-->
 
-![The Unknown Gunmen Pattern Decoded - Insight Crunch](/assets/images/blog/blog-105.webp)
+![The Unknown Gunmen Pattern Decoded - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The phrase "unknown gunmen" appears in Pakistani police First Information Reports with a regularity that has become its own form of dark comedy among intelligence analysts. Every FIR reads the same way: two unidentified men on a motorcycle, faces covered, fired multiple rounds at the victim, fled the scene, no arrests made, no group claimed responsibility. Swap the name, swap the city, swap the date, and the report is interchangeable. Pakistani security officials have, since January 2024, formally alleged that a "hostile intelligence agency" is responsible for at least eight of these incidents. India has denied every allegation as "false and malicious anti-India propaganda." The denials have not altered the pattern, and the pattern has not paused.
 

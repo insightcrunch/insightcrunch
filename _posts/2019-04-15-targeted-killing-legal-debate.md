@@ -6,7 +6,7 @@ date: 2019-04-15
 categories: ["Industry"]
 tags: ["targeted-killing", "legality", "ethics", "international-law", "sovereignty"]
 excerpt: "The global legal and ethical debate on targeted killings, what international law says about sovereignty, imminence, and self-defense, and where India fits."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 73
 author: "abigail-cooper"
 last_updated: 2019-04-15
@@ -16,7 +16,7 @@ When a Lashkar-e-Taiba commander is shot outside a mosque in Karachi by two men 
 
 <!--more-->
 
-![Targeted killing legal and ethical debate](/assets/images/blog/blog-24.webp)
+![Targeted killing legal and ethical debate](/assets/images/blog/blog-76.webp)
 
 This is the puzzle that sits underneath every covert elimination of a wanted militant on foreign soil. The legal debate over targeted killing is often described as a clash between two clear camps, one that says such killings are permitted and one that says they are forbidden. That description is wrong. The real situation is stranger and more uncomfortable. International law does not contain a clear permission and it does not contain a clear prohibition. It contains a set of standards, imminence, proportionality, necessity, sovereignty, self-defense, and combatant status, each of which is defined loosely enough that a determined government can argue almost any killing into compliance, and a determined critic can argue almost any killing out of it. The space between those two readings is not an accident. It is the space in which targeted killing has lived for half a century, and it is the space in which India's shadow war operates today.
 

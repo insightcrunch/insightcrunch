@@ -6,7 +6,7 @@ date: 2015-10-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Singin' in the Rain", "Gene Kelly", "Stanley Donen", "Musical", "Film History", "World Cinema"]
 excerpt: "Singin' in the Rain perfected the integrated musical by making cinema's own conversion to sound its subject, the form turning to study itself at its summit."
-image: "/assets/images/blog/blog-108.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2015-10-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The reputation arrives before the film does. Ask almost anyone to name the greatest movie musical and the answer comes back fast, and it is usually Singin' in the Rain. That reflex is worth interrogating rather than accepting, because the reflex hides the actual achievement behind a warm feeling about a man dancing through a downpour. The film earns its standing not by being the most lavish musical, the most technically advanced, or the most emotionally ambitious, but by solving a problem the form had circled for two decades and then folding the solution back on itself. It takes the most disruptive event in the history of its own industry, the conversion from silent pictures to sound, and turns that trauma into the engine of a musical comedy. The genre that exists only because sound arrived makes the arrival of sound its plot.
 
-![How Singin' in the Rain perfected the integrated musical by making the coming of sound its subject, an analysis - Insight Crunch](/assets/images/blog/blog-108.webp)
+![How Singin' in the Rain perfected the integrated musical by making the coming of sound its subject, an analysis - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 That move is the whole game, and it is why the film sits where it sits. A musical is a strange contraption: people stop talking and start singing, and the audience accepts the convention without protest. The history of the form, from the first crude part-talkies of 1927 onward, is largely the history of filmmakers learning to make that convention feel inevitable rather than arbitrary, to make the song grow out of the scene rather than interrupt it. The Metro-Goldwyn-Mayer team that built Singin' in the Rain had spent years perfecting exactly that craft, and here they took it to its logical end. They made a musical in which the very subject is how the movies learned to sing, so that every number is at once a piece of entertainment and a comment on the machinery that produces entertainment. To watch it closely is to watch a genre think about how it came to exist.
 

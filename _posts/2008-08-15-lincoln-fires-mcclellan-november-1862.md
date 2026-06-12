@@ -6,7 +6,7 @@ date: 2008-08-15
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "decision-reconstruction", "us-presidents", "american-history", "civil-war", "mcclellan", "commander-in-chief"]
 excerpt: "Lincoln removed George McClellan on November 5, 1862, after a failed Antietam pursuit and the midterm vote. A reconstruction of the 49-day patience arc."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 72
 author: "chloe-martin"
 last_updated: 2008-08-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The order ran three short paragraphs. Major General George Brinton McClellan, by direction of the President of the United States, was hereby relieved of command of the Army of the Potomac. Major General Ambrose E. Burnside would take charge. The relieved officer was to repair to Trenton, New Jersey, and await further orders. The text was signed by Secretary of War Edwin Stanton on November 5, 1862, drafted at the War Department, carried by special messenger Brigadier General Catharinus P. Buckingham through a Virginia winter night, and delivered to McClellan's tent near Rectortown around eleven o'clock on November 7. The papers in Buckingham's pouch also contained a second removal, that of Major General Fitz John Porter from his corps command, and there was deliberate purpose in the pairing.
 
-![Lincoln dismisses McClellan November 1862 commander-in-chief authority reconstruction - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Lincoln dismisses McClellan November 1862 commander-in-chief authority reconstruction - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 The order was the end of the story. The story itself began on the bloodiest single day in American history, September 17, 1862, in the cornfields and sunken road and stone bridge outside Sharpsburg, Maryland. That night Robert E. Lee's Army of Northern Virginia held its battered position by darkness alone. The following day Lee did not retreat. He waited an entire day, his army pinned against the Potomac River with its back to the water, daring his opponent to renew the assault. The opponent, with a numerical advantage of roughly two to one and at least two fresh corps that had not been engaged, did not attack. On the night of September 18, the Confederate force withdrew across the Potomac to Virginia unmolested. The Union army chief reported a great victory. The president received the report and reached a private conclusion that the official record would not catch up with for forty-nine days. This is the reconstruction of those forty-nine days, and of the constitutional muscle that the November 5 order exercised on a scale no chief executive had attempted before.
 

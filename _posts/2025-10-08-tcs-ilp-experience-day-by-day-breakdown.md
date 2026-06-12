@@ -5,7 +5,7 @@ date: 2025-10-08
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Experience", "Fresher", "IT Career", "Training"]
 excerpt: "What actually happens inside TCS ILP? This is the most detailed day-by-day account of the 60-day Initial Learning Program ever written, compiled from..."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 25
 author: "pooja-gupta"
 last_updated: 2026-03-31
@@ -15,7 +15,7 @@ What actually happens inside TCS ILP? If you are about to join, this question is
 
 This is the most detailed day-by-day account of the TCS Initial Learning Program ever compiled. We have gathered firsthand experiences from hundreds of ILP alumni across all five training centers, spanning multiple batches and streams, and organized them into a comprehensive narrative that covers every phase of the 60-day journey.
 
-![TCS ILP Experience Day by Day](/assets/images/blog/blog-45.webp)
+![TCS ILP Experience Day by Day](/assets/images/blog/blog-89.webp)
 TCS ILP Experience - Day by Day Breakdown of Your 60-Day Training
 
 Whether you are in the Java, .NET, SAP, ITIS, Python, or any other stream, the structural experience of ILP is remarkably consistent. The timelines, assessments, and milestones described here reflect the standard pattern reported across batches. Stream-specific variations are noted where they matter.

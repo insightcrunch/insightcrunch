@@ -6,7 +6,7 @@ date: 2023-07-03
 categories: ["Technology"]
 tags: ["Azure", "Azure Backup", "Virtual Machines", "Architecture", "Cloud Computing"]
 excerpt: "Configure Azure Backup for VMs so a machine is recoverable, not merely protected: the vault, the policy, app-consistent snapshots, and a tested restore."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 63
 author: "ryan-walsh"
 last_updated: 2023-07-03
@@ -14,7 +14,7 @@ lang: en
 ---
 A virtual machine that has a green checkmark next to its name in the portal is not the same as a virtual machine you can get back. The gap between those two states is where most teams discover, at the worst possible moment, that they configured Azure Backup to run rather than configured it to recover. The job succeeds every night, the protected-instance count looks healthy, and then a ransomware event or a botched in-place upgrade arrives and the restore either fails, takes far longer than anyone budgeted, or hands back a database in a torn state that the application refuses to open. To configure Azure Backup for VMs correctly, you have to treat the running job as the means and the proven recovery as the end. This guide walks the whole path: the Recovery Services vault and the backup policy, the schedule and retention tiers, the snapshot consistency levels that decide whether a restored database opens cleanly, the restore options that determine how fast you can be back, cross-region restore for a regional outage, the cost drivers that creep up quietly, and the one verification step that separates a backup from a recovery. The reward for getting it right is dull and precise: when something destroys a machine, you bring it back, and the incident becomes a footnote instead of a postmortem.
 
-![Configure Azure Backup for VMs correctly with a Recovery Services vault, backup policy, application-consistent snapshots, and a tested restore](/assets/images/blog/blog-40.webp)
+![Configure Azure Backup for VMs correctly with a Recovery Services vault, backup policy, application-consistent snapshots, and a tested restore](/assets/images/blog/blog-28.webp)
 
 ## What correct configuration buys, and what breaks when it is wrong
 

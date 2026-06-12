@@ -6,7 +6,7 @@ date: 2026-07-04
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Visa Fee Litigation", "Constitutional Law", "Executive Power", "Legal", "Litigation"]
 excerpt: "The H-1B fee ruling split two federal judges who read the same $100,000 charge in opposite ways. Here is why characterization, not politics, decided it."
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "gregory-marsh"
 last_updated: 2026-07-04
@@ -14,7 +14,7 @@ lang: en
 ---
 Two federal judges looked at the identical $100,000 charge on new H-1B petitions, applied recognizably similar tools of statutory reading, and walked out with directly opposite results. One upheld it as a lawful condition on entry. The other struck it down as a tax that only Congress can impose. The H-1B fee ruling that drew national attention in June 2026 was not the first word a court had spoken on the subject; it was the second, and it contradicted the first. Understanding why the two decisions diverged is more useful than reading either one alone, because the divergence exposes the single hinge on which the entire legal question turns.
 
-![How two H-1B fee rulings reached opposite results, tax framing versus entry-power framing compared, an analysis - Insight Crunch](/assets/images/blog/blog-103.webp)
+![How two H-1B fee rulings reached opposite results, tax framing versus entry-power framing compared, an analysis - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 That hinge is characterization. Not politics, not the personalities of the judges, not even a disagreement about the facts, which were never really in dispute. The two courts agreed on what the charge was in dollars and cents, who paid it, and how it came to exist. They split on what to call it. Classify the payment as a condition on a foreign worker's entry into the country and a broad presidential power answers the case. Classify the same payment as a measure that raises revenue and a constitutional limit on the taxing power answers it instead. Everything else follows from that one act of naming. This article sets the two decisions directly against each other, isolates the genuine point of difference, names the criterion that decided each, and defends a verdict on which framing is the more faithful reading of the law.
 

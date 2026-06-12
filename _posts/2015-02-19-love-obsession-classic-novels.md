@@ -6,7 +6,7 @@ date: 2015-02-19
 categories: ["Leisure"]
 tags: ["love", "obsession", "literary-comparison", "classic-literature", "jay-gatsby", "heathcliff", "literary-analysis"]
 excerpt: "Classic literature's great lovers are often obsessives. The novels distinguish love from obsession through structural markers, not through declarations."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-06.webp"
 author: "olivia-grant"
 reading_time: 70
 last_updated: 2015-02-19
@@ -16,7 +16,7 @@ Love and obsession are not the same thing, but classic literature's most celebra
 
 <!--more-->
 
-![Love and Obsession in Classic Novels](/assets/images/blog/blog-02.webp)
+![Love and Obsession in Classic Novels](/assets/images/blog/blog-06.webp)
 
 Four structural markers separate love from obsession across the novels examined here. First, reciprocity-orientation: love seeks mutual recognition, while obsession projects a fantasy onto an unwilling or unknowing target. Second, beloved-as-subject: love recognizes the beloved as a person with independent existence, while obsession constructs the beloved as a figure in the lover's private mythology. Third, growth-orientation: love develops through conflict and mutual transformation, while obsession repeats the same pattern without change. Fourth, response to resistance: love accepts the beloved's autonomy even when that autonomy produces rejection, while obsession escalates in the face of refusal. Applying these four markers to six couples across six novels - Gatsby and Daisy in The Great Gatsby, Heathcliff and Catherine in Wuthering Heights, Rochester and Jane in Jane Eyre, Humbert and Dolores in Lolita, Romeo and Juliet in Shakespeare's tragedy, and Darcy and Elizabeth in Pride and Prejudice - produces a typology that reveals what the novels themselves already knew: love and obsession are distinguishable by structure, not by the beauty of the declaration.
 

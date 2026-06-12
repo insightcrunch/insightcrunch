@@ -5,7 +5,7 @@ date: 2016-12-16
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Extensive TCS ILP Hyderabad experience: a long-form account covering the full training period at the Hyderabad center with daily details and honest..."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 35
 author: "priya-mehta"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 *This is a guest post. The views expressed are of the author.*
 
-![TCS ILP Hyderabad Experience - Insight Crunch](/assets/images/blog/blog-76.webp)
+![TCS ILP Hyderabad Experience - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 ---
 

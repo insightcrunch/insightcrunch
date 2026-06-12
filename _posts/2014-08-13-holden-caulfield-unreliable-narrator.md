@@ -6,7 +6,7 @@ date: 2014-08-13
 categories: ["Leisure"]
 tags: ["catcher-in-the-rye", "jd-salinger", "unreliable-narrator", "literary-analysis", "narrative-technique"]
 excerpt: "Holden Caulfield is called an unreliable narrator, but the generic label misses what Salinger built - a specific grief-driven narration no formula covers."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2014-08-13
@@ -16,7 +16,7 @@ Holden Caulfield is the most frequently cited unreliable narrator in American fi
 
 <!--more-->
 
-![Holden Caulfield as Unreliable Narrator - Insight Crunch](/assets/images/blog/blog-78.webp)
+![Holden Caulfield as Unreliable Narrator - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The thesis of this analysis is direct: Holden is not lying to the reader. He is lying to himself. Wayne C. Booth coined the term "unreliable narrator" in The Rhetoric of Fiction in 1961, and Booth's definition was precise. An unreliable narrator is one whose values or perceptions diverge from those of the implied author. Booth was describing a technical relationship between two constructed positions within a text, not issuing a blanket judgment about a character's honesty. When popular criticism applies the "unreliable narrator" label to Holden, it typically means something far vaguer: Holden exaggerates, Holden contradicts himself, Holden is a teenager and therefore cannot be trusted. That vagueness is the problem. It treats unreliability as a personality flaw rather than as a formal device Salinger controls with extraordinary precision. This article replaces the generic label with a specific narratological description. Holden narrates through trauma distortions: factual inflation, emotional displacement, intrusive memory, avoidance behavior, and retrospective reconstruction from a clinical setting. Each mechanism is traceable in the text. Each serves a function within the architecture of Salinger's storytelling. Together, they produce something more accurately described as trauma-narration than as unreliable narration, and the distinction matters because it changes what the reader is being asked to do with the text.
 

@@ -6,7 +6,7 @@ date: 2012-03-05
 categories: ["Industry"]
 tags: ["al-badr", "mujahideen", "kashmir", "hizbul-mujahideen", "terrorism", "pakistan"]
 excerpt: "Al-Badr Mujahideen explained from founding to present, the often-overlooked Kashmir terror group, its deep Hizbul ties, and its eliminated operatives."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "david-thornton"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ Every insurgency produces organizations that become household names and organiza
 
 <!--more-->
 
-![Al-Badr Mujahideen Kashmir Terror Group Explained - Insight Crunch](/assets/images/blog/blog-60.webp)
+![Al-Badr Mujahideen Kashmir Terror Group Explained - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 Understanding Al-Badr requires understanding what it means to be a secondary organization in a crowded insurgent ecosystem. The Kashmir conflict has never been a single organization's war. At its peak in the early 1990s, dozens of militant groups operated simultaneously in the valley, competing for recruits, territory, funding, and the patronage of Pakistan's Inter-Services Intelligence. Some of these groups grew into multinational enterprises with thousands of cadres, dedicated media wings, and political front organizations. Others remained small, specialized, and operationally dependent on larger patrons. Al-Badr belongs to the second category, and that classification is precisely what makes it analytically valuable. The organization's history illuminates the Kashmir insurgency's organizational ecology in ways that studying only the dominant groups cannot. It reveals how niche specialization in infiltration operations sustained a group that lacked the manpower to compete with LeT's recruitment machine or the ideological fervor of JeM's suicide-attack doctrine. It exposes the permeable boundaries between ostensibly independent militant organizations, where commanders drift between Al-Badr and Hizbul Mujahideen as casually as executives rotate between corporate subsidiaries. And it demonstrates that even forgotten organizations produce individuals whom the targeted elimination campaign considers worth hunting across international borders.
 

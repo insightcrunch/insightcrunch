@@ -6,7 +6,7 @@ date: 2015-11-06
 categories: ["Leisure"]
 tags: ["meiji-restoration", "japan-modernization", "nineteenth-century-japan", "institutional-history", "asian-history", "modern-history"]
 excerpt: "The Meiji Restoration remade Japan in a single generation, and the clearest reading of the evidence is that it was selective adoption, not Westernization."
-image: "/assets/images/blog/blog-94.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 72
 author: "diana-patel"
 last_updated: 2015-11-06
@@ -16,7 +16,7 @@ The Meiji Restoration was the deliberate self-reconstruction of a state, carried
 
 <!--more-->
 
-![The Meiji Restoration in Japan - Insight Crunch](/assets/images/blog/blog-94.webp)
+![The Meiji Restoration in Japan - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 What the Meiji leadership did was closer to industrial procurement than to cultural conversion. They sent observers abroad with shopping lists. Their agents studied the British navy, the Prussian army, the American school system, and the German civil code, took the specific institutional component that solved a specific Japanese problem, modified it to fit a political structure they had no intention of abandoning, and discarded the rest. The emperor at the center of the new state was not a Western import. He was an indigenous symbol, ancient and carefully restaged, and the entire modern apparatus was bolted onto him precisely so that the changes would feel like recovery rather than surrender. A country that adopts a foreign army, a foreign legal code, and a foreign constitutional template, and uses all of them to make an eighth-century imperial institution the unquestionable center of national life, has not become Western. It has done something far more interesting and far more deliberate.
 

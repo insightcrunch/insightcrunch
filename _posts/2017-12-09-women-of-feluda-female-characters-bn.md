@@ -6,7 +6,7 @@ date: 2017-12-09
 categories: ["Leisure"]
 tags: ["feluda", "women-characters", "satyajit-ray", "gender", "bhadralok"]
 excerpt: "ফেলুদা ক্যাননের নারী চরিত্রদের সম্পূর্ণ বিশ্লেষণ। পরিসংখ্যানগত ছবি, বাঙালি ভদ্রলোক সমাজের গন্ডারমহল ঐতিহ্য, মূলধারা বাঙালি সাহিত্যের সঙ্গে তুলনা, এবং রায়ের পছন্দের সমালোচনামূলক পঠন।"
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 119
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদার নারীরা: একটি সমালোচনামূলক চারিত্রিক অধ্যয়ন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-24.webp)
+![ফেলুদার নারীরা: একটি সমালোচনামূলক চারিত্রিক অধ্যয়ন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-76.webp)
 
 ## পরিসংখ্যানগত ছবি
 

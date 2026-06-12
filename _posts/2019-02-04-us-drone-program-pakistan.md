@@ -6,7 +6,7 @@ date: 2019-02-04
 categories: ["Industry"]
 tags: ["us-drone-program", "pakistan", "gwot", "targeted-killings", "cia", "comparison"]
 excerpt: "Between 2004 and 2018 the United States flew hundreds of drone strikes over Pakistan, killing thousands. Here is how the secret campaign worked and ended."
-image: "/assets/images/blog/blog-106.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 72
 author: "andrew-price"
 last_updated: 2019-02-04
@@ -16,7 +16,7 @@ For fourteen years a foreign power killed people inside Pakistan almost every we
 
 <!--more-->
 
-![US Drone Program in Pakistan - Insight Crunch](/assets/images/blog/blog-106.webp)
+![US Drone Program in Pakistan - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 That campaign matters far beyond its own grim arithmetic. It established, in plain view of the world, that the territory of a nuclear-armed state could be struck repeatedly by an outside power without the relationship collapsing, without a war, and without consequences severe enough to make the striking power stop. Washington proved that Pakistan was penetrable, that Pakistan's protests could be absorbed, and that the political cost of killing terrorists on Pakistani ground was survivable. A decade later, when [unknown gunmen began eliminating India's most wanted on the same soil](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/), the precedent was already set. New Delhi did not copy the American method. It studied what the American method revealed and chose a quieter instrument. To understand why India reaches for motorcycles and pistols rather than missiles and aircraft, it helps first to understand the program that came before, what it accomplished, what it destroyed, and why it eventually ground to a halt.
 

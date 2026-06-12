@@ -6,7 +6,7 @@ date: 2022-07-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "juliet", "soliloquy", "gallop-apace-analysis"]
 excerpt: "Juliet's gallop apace soliloquy is a frank epithalamium in which a thirteen-year-old summons night and her wedding bed in some of the boldest verse in the play."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 61
 author: "amanda-ross"
 last_updated: 2022-07-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A girl stands alone on a stage and orders the universe to hurry. "Gallop apace, you fiery-footed steeds," she begins, and the command is addressed not to a servant or a horse but to the horses of the sun, the team that drags daylight across the sky. She wants them gone. She wants the light whipped down below the western horizon so that darkness can arrive and bring her husband with it. Within thirty-one lines she has invoked a reckless charioteer out of Greek myth, reversed the entire moral weather of the play by making blackness her ally and the sun her enemy, and named, without flinching, what she is waiting for: her wedding night. The speech that opens the second scene of the third act is the most sexually candid passage Shakespeare ever wrote for a young woman, and for three centuries the theatre cut it, the editors fretted over it, and the popular imagination simply pretended it was not there.
 
-![Juliet's 'Gallop Apace' Speech: Desire in Verse - Insight Crunch](/assets/images/blog/blog-58.webp)
+![Juliet's 'Gallop Apace' Speech: Desire in Verse - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 This article argues that the cliche of the chaste, passive, swooning Juliet, the Juliet of greeting cards and school posters, cannot survive a careful reading of these lines. The speech is not a sigh. It is an argument, a rhetorical engine, a wedding hymn sung by the bride about her own bridal bed, and it puts a frank, articulate, governing desire at the center of the play's most famous female role. The standard account treats the balcony scene as the high point of Juliet's voice. The standard account is wrong. The fullest expression of who she is and what she wants comes here, in the dark, with no one listening, in verse so bold that generations of readers preferred to look away. What follows is a line-by-line examination of the soliloquy, the mythology packed into its first sentence, the imagery system that runs beneath it, the centuries-old textual quarrel buried in its sixth line, and the reason this short passage matters more to the portrait of the Capulet daughter than any balcony ever could.
 

@@ -6,7 +6,7 @@ date: 2014-10-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "All Quiet on the Western Front", "Lewis Milestone", "War Film", "Film History", "World Cinema"]
 excerpt: "All Quiet on the Western Front (1930) told World War I from the enemy's side, an act of empathy so radical that nationalist mobs rioted to silence the film."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 61
 author: "amanda-ross"
 last_updated: 2014-10-15
@@ -14,7 +14,7 @@ lang: en
 ---
 By the autumn of 1930, the First World War had been over for twelve years, and Germany had not stopped fighting it, which is the political weather into which Universal released **All Quiet on the Western Front**. Lewis Milestone's adaptation of Erich Maria Remarque's novel did the one thing the resentful could not forgive: it told the Great War from inside the German trenches and asked an American and worldwide audience to grieve for the enemy's dead boys as if they were their own. The fighting was finished and the maps redrawn, but the wound stayed open in the politics of the Weimar Republic, in the rage over the Treaty of Versailles, and in the ranks of young men too young to have served who had decided, against all evidence, that the war had been glorious and the defeat a betrayal. It is the rare film whose reception is part of its meaning: the riots it provoked and the bans that followed were not a footnote to the picture but a confirmation of exactly what it had argued.
 
-![How All Quiet on the Western Front turned anti-war feeling into an act of empathy across the trench, an analysis - Insight Crunch](/assets/images/blog/blog-31.webp)
+![How All Quiet on the Western Front turned anti-war feeling into an act of empathy across the trench, an analysis - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 This article reads the film as a cultural and political document, which is the way it most demands to be read. The craft is extraordinary and we will give it its due, but the craft is in service of a position, and the position is what got the film banned. The aim here is to leave you understanding three things that thinner accounts treat separately when they belong together: how the picture uses the brand-new medium of synchronized sound and the inherited grammar of the silent cinema to build an anti-war argument out of structure and image rather than speech, why telling the war from the former enemy's point of view was a radical act of identification rather than a neutral choice, and how the film stands beside the German cinema that was processing the same trauma from the opposite side of the same trenches at the very same moment. The comparison is not decoration. It is the evidence that the conclusion the film reached was not an American conceit but a thing the cinema of two enemy nations arrived at simultaneously, which is the strongest case anyone can make that the conclusion was true.
 

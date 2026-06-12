@@ -6,7 +6,7 @@ date: 2003-02-16
 categories: ["Industry"]
 tags: ["UPSC", "CSAT", "Quantitative Aptitude", "Data Interpretation", "UPSC Prelims"]
 excerpt: "UPSC CSAT quantitative aptitude and data interpretation complete strategy: topic-wise preparation across arithmetic algebra geometry and mensuration, data interpretation across charts graphs and tables, contemporary difficulty trends since 2022, strategic approach for non-technical aspirants, and the systematic preparation that produces reliable scoring on the second largest CSAT section."
-image: "/assets/images/blog/blog-101.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The quantitative aptitude section produces the most anxiety for non-technical as
 
 This article provides the complete preparation strategy for UPSC CSAT quantitative aptitude and data interpretation that addresses both the comprehensive topic coverage and the strategic approach that contemporary papers require. The article integrates four critical components: the topic-wise coverage across arithmetic algebra geometry and mensuration with priority guidance based on question frequency and accessibility, the data interpretation approach across all chart and table formats including data sufficiency questions, the contemporary difficulty analysis explaining what the post-2022 escalation means for preparation intensity, and the integrated three-phase preparation methodology that builds quantitative competence from foundation through skill development to examination-ready performance.
 
-![UPSC CSAT Quantitative Aptitude and Data Interpretation - Insight Crunch](/assets/images/blog/blog-101.webp)
+![UPSC CSAT Quantitative Aptitude and Data Interpretation - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process where Prelims serves as the qualifying gate for Mains, and within Prelims, both papers must be cleared independently for qualification with CSAT serving as the binary qualifying filter at 33 percent. The [CSAT Paper 2 complete guide](/2003/02/25/upsc-csat-paper-2-complete-guide/) describes the broader CSAT preparation framework that this quantitative aptitude specific strategy operates within. The [CSAT reading comprehension strategy](/2003/02/21/upsc-csat-reading-comprehension-strategy/) addresses the largest CSAT section that operates in parallel with quantitative aptitude. The [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) places CSAT within the overall Prelims preparation framework. The [Prelims Polity strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/), the [Prelims History strategy](/2003/03/24/upsc-prelims-history-culture-strategy/), the [Prelims Geography and Environment strategy](/2003/03/15/upsc-prelims-geography-environment-strategy/), the [Prelims Economy strategy](/2003/03/11/upsc-prelims-economy-strategy/), and the [Prelims Science and Technology strategy](/2003/03/06/upsc-prelims-science-technology-strategy/) provide the corresponding GS Paper 1 subject preparation approaches that operate alongside the CSAT preparation that this article addresses.
 

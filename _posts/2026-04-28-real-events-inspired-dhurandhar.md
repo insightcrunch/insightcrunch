@@ -6,7 +6,7 @@ date: 2026-04-28
 categories: ["Leisure"]
 tags: ["dhurandhar", "real-events", "ic-814", "26-11-mumbai", "bollywood", "spy-thriller", "history"]
 excerpt: "Every real-world event that inspired the Dhurandhar franchise - from IC-814 to 26/11 and beyond."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ Dhurandhar does not dramatize history. It reorganizes it. The franchise takes re
 
 <!--more-->
 
-![Real Events That Inspired Dhurandhar - Insight Crunch](/assets/images/blog/blog-47.webp)
+![Real Events That Inspired Dhurandhar - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 This argument, that India's security crises from the late nineties through the late two thousands were not a series of unfortunate and unrelated events but rather a cascading and increasingly devastating consequence of a single initial failure of political will, is the franchise's most provocative and most historically consequential intellectual proposition. The initial failure, as the franchise carefully and deliberately frames it, was the Kandahar capitulation: the decision to release three imprisoned militants, including the man who would go on to found one of the subcontinent's most lethal terrorist organizations, in exchange for the passengers of IC-814. Everything that follows in the franchise's densely plotted narrative, every death, every betrayal, every agonizing moral compromise that the characters endure across both installments, is presented as a downstream consequence of that single decision, a ripple effect that took years and multiple governmental administrations to reach its full destructive expression. Whether this reading of history is accurate or reductive is a question the franchise invites but deliberately does not answer, and the tension between its narrative coherence and the messy complexity of historical reality is the central subject of this analysis. For a complete walkthrough of how these events function within the narrative, see our analyses of [Dhurandhar Part 1](https://insightcrunch.com/2026/03/19/complete-analysis-dhurandhar-part-1/) and [The Revenge](https://insightcrunch.com/2026/03/22/complete-analysis-dhurandhar-the-revenge/).
 

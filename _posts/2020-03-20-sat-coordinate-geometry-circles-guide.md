@@ -6,7 +6,7 @@ date: 2020-03-20
 categories: ["Industry"]
 tags: ['SAT Coordinate Geometry', 'SAT Circle Equations', 'SAT Distance Formula', 'SAT Midpoint Formula', 'SAT Coordinate Plane', 'SAT Circle Equation Standard Form', 'SAT Parallel Perpendicular Lines', 'SAT Circle Problems']
 excerpt: "Master every SAT coordinate geometry topic including distance and midpoint formulas, circle equations, line relationships, and transformations with worked examples."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 45
 author: "patrick-dunn"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ Coordinate geometry gives us the tools to describe shapes, distances, and relati
 
 What makes coordinate geometry particularly accessible is that a small number of formulas, applied correctly and consistently, handle the vast majority of SAT questions in this area. The distance formula, the midpoint formula, the slope formula, and the standard-form circle equation are the core tools. Understanding where these formulas come from, not just how to apply them, produces the deeper understanding that allows you to adapt when a question presents the concept in an unfamiliar form.
 
-![SAT Coordinate Geometry and Circles Complete Guide](/assets/images/blog/blog-10.webp)
+![SAT Coordinate Geometry and Circles Complete Guide](/assets/images/blog/blog-77.webp)
 
 This guide covers every coordinate geometry topic tested on the SAT: the coordinate plane, the distance formula and its derivation, the midpoint formula, slope and line relationships (parallel, perpendicular, neither), all forms of linear equations and conversions among them, circle equations in standard and general form, graphing circles, line-circle intersections, and coordinate geometry in applied contexts. Each topic includes concept explanation, worked examples at multiple difficulty levels, common mistakes, and strategic guidance for when to use Desmos.
 

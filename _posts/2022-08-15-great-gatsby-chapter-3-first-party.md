@@ -6,7 +6,7 @@ date: 2022-08-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 3", "Jay Gatsby", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "Gatsby's first party in Chapter 3 looks like aimless Jazz Age excess, but every crate, every uninvited guest, and the sober host is aimed at one woman."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 47
 author: "amanda-ross"
 last_updated: 2022-08-15
@@ -16,7 +16,7 @@ Gatsby's first party in Chapter 3 is the moment the novel stops describing a man
 
 Read carelessly, the chapter is a montage of Jazz Age abundance, champagne and orchestras and beautiful strangers behaving badly on a rich man's lawn. Read closely, it is a portrait of a single intention disguised as universal pleasure. Fitzgerald builds the surface lovingly so that the reader, like every guest on that lawn, is dazzled into missing the point. This article works through the scene element by element to recover the point.
 
-![Gatsby's first party in The Great Gatsby Chapter 3 close reading - Insight Crunch](/assets/images/blog/blog-28.webp)
+![Gatsby's first party in The Great Gatsby Chapter 3 close reading - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 ## Where Gatsby's First Party Sits in the Novel's Design
 

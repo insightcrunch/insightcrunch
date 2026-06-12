@@ -6,7 +6,7 @@ date: 2012-08-09
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Rubeus Hagrid", "Hogwarts Gamekeeper", "Half-Giant", "Magical Creatures"]
 excerpt: "Deep literary analysis of Rubeus Hagrid across all Harry Potter books - the gentle giant, his trust in Harry, naming as love, and institutional exile."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 57
 author: "emily-reed"
 last_updated: 2012-08-09
@@ -18,7 +18,7 @@ The wizarding world enters Harry Potter's life through a door that has been brok
 
 Rubeus Hagrid is the easiest character in the seven books to underestimate, and the entire series is structured to make readers who underestimate him pay for it later. He is loud, he is sentimental, he cries at funerals and at births and at the sight of a creature most witches would hex on principle, and his magical credentials are a snapped wand hidden in a pink umbrella. He fails the expert's tests at every level. He is the half-trained groundskeeper of the world's most prestigious magical school, a half-giant in a culture that calls his maternal lineage a monstrous category, a man with no published research and no clear professional title and no recorded duels. By every metric the wizarding world claims to value, he is unremarkable.
 
-![Rubeus Hagrid character analysis in Harry Potter series](/assets/images/blog/blog-38.webp)
+![Rubeus Hagrid character analysis in Harry Potter series](/assets/images/blog/blog-14.webp)
 
 And yet. The protagonist's life is shaped more profoundly by this half-trained groundskeeper than by any teacher, any government official, or any sage. Dumbledore manages Harry. McGonagall watches him. Snape cultivates a private surveillance. The gentle giant simply trusts him, from the first minute, with no conditions attached. The thesis of this analysis is that Rowling builds her seven-book moral architecture on top of a quiet and radical proposition: that emotional intelligence is the form of intelligence the wizarding world undervalues most, and that the people positioned outside the institution are sometimes the only ones who can see the protagonist clearly. The series' gentlest character is also its most institutionally marginal, and the relationship is causal. Being outside the credentialed centre is what makes the seeing possible.
 

@@ -6,7 +6,7 @@ date: 2018-01-22
 categories: ["Industry"]
 tags: ["operation-sindoor", "23-minutes", "missile-strikes", "rafale", "scalp", "india"]
 excerpt: "A target-by-target reconstruction of Operation Sindoor's 23-minute strike campaign on May 7, 2025, the weapons systems used, and what India destroyed."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 author: "james-carter"
 last_updated: 2018-01-22
@@ -16,7 +16,7 @@ At 0105 hours Indian Standard Time on May 7, 2025, aircraft from No. 17 Squadron
 
 <!--more-->
 
-![Operation Sindoor 23-Minute Strike Reconstruction - Insight Crunch](/assets/images/blog/blog-76.webp)
+![Operation Sindoor 23-Minute Strike Reconstruction - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The operation's name carried deliberate symbolic weight. Sindoor, the vermilion powder that marks a married Hindu woman's hairline as a sign of matrimonial status, was chosen in direct reference to the women widowed in the Pahalgam massacre of April 22, 2025, when five gunmen descended on the Baisaran Valley tourist site in Indian-administered Kashmir and killed twenty-six people. Witnesses described the attackers checking tourists' religious identities before firing, a sectarian targeting methodology that transformed what might have been treated as another Kashmir security incident into a national trauma demanding a response calibrated to its scale. The name communicated India's framing before the first weapon reached Pakistani soil: this was not merely a counter-terrorism operation but an act of reckoning, tying the vermilion-stained grief of Indian families directly to the infrastructure that created and dispatched the men responsible.
 

@@ -6,7 +6,7 @@ date: 2007-02-28
 categories: ["Leisure"]
 tags: ["thomas-jefferson", "close-read", "us-presidents", "american-history", "first-inaugural", "1800-election", "peaceful-transfer"]
 excerpt: "Jefferson told a divided nation we are all Republicans, we are all Federalists in 1801, the first peaceful transfer of power between rival American parties."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2026-06-02
@@ -18,7 +18,7 @@ That document ran to roughly 1,730 words. It took perhaps ten minutes to deliver
 
 This is a close read of that address, line by line and section by section, set against the wreckage of the 1800 election that produced it. The argument here is that the First Inaugural was not the olive branch it is usually remembered as. It was something more interesting and more calculated: a performance of conciliation built on the naming of shared principles, designed to disarm opponents without surrendering an inch of policy ground, delivered by a man who would govern far more partisanly than he spoke. Understanding the gap between the rhetoric and the record is the whole point.
 
-![Thomas Jefferson 1801 First Inaugural Address conciliation we are all Republicans we are all Federalists - Insight Crunch](/assets/images/blog/blog-44.webp)
+![Thomas Jefferson 1801 First Inaugural Address conciliation we are all Republicans we are all Federalists - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 ## The Election That Made the Speech Necessary
 

@@ -6,7 +6,7 @@ date: 2008-07-13
 categories: ["Leisure"]
 tags: ["theodore-roosevelt", "decision-reconstruction", "us-presidents", "coal-strike", "labor-history", "federal-mediation"]
 excerpt: "Cleveland broke strikes in 1894. TR brokered them in 1902. The federal-labor reversal begins with the anthracite mediation that built the modern template."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 58
 author: "chloe-martin"
 last_updated: 2008-07-13
@@ -14,7 +14,7 @@ lang: en
 ---
 October 3, 1902. Theodore Roosevelt convened a meeting at 22 Jackson Place, the temporary executive offices on Lafayette Square. The actual White House was under renovation. The president, still recovering from a streetcar collision in Pittsfield a month earlier that had killed a Secret Service agent named William Craig and crushed his own leg, received the operators and the United Mine Workers in a single room. He had brought them together against the open opposition of half his Cabinet and the open derision of the operators themselves.
 
-![TR coal strike 1902 anthracite mediation federal labor precedent reconstruction - Insight Crunch](/assets/images/blog/blog-38.webp)
+![TR coal strike 1902 anthracite mediation federal labor precedent reconstruction - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 John Mitchell, the thirty-two-year-old president of the UMW, spoke first. He was calm. He offered arbitration by a commission of Roosevelt's choosing. He pledged the miners would accept any decision the commission rendered. He asked only that the operators accept the same terms. George Baer, president of the Reading Railroad and lead spokesman for the coal operators, refused to address Mitchell directly. He refused to acknowledge the United Mine Workers as a party to the dispute. He delivered a written statement insisting that the operators would never negotiate with men he characterized as criminals and anarchists. The meeting collapsed within hours.
 

@@ -6,14 +6,14 @@ date: 2025-09-23
 categories: ["Industry"]
 tags: ["高考选科", "新高考", "选科策略", "Subject Selection", "Strategy"]
 excerpt: "新高考选科不是选最简单或最喜欢的科目,而是在能力、兴趣与专业覆盖三个约束下求最优解。本指南系统拆解物理与历史首选的关键差异、再选组合的搭配逻辑、等级赋分背后的选科池机制、各专业大类的覆盖对照表,以及常见误区与改科时机的判断,并附决策矩阵与自检清单,帮助考生与家长一步步做出经得起三年检验的选科决定,少走弯路。"
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 63
 author: "he-xiaomei"
 lang: zh
 ---
 选科,是新高考改革之后每一位考生在高中阶段必须独立面对的第一个重大决定。它发生在高一,影响却一直延伸到三年后的志愿填报、大学专业,乃至更远的职业方向。很多家庭把这件事想得太简单:有人觉得"选你擅长的"就够了,有人坚持"选将来有用的"才对,还有人干脆"别人选什么我就选什么"。这些说法都不能算错,但没有一条是完整的。真正经得起三年检验的选科,从来不是凭一句口号就能定下来的。
 
-![Gaokao Subject Selection Strategy Guide - InsightCrunch](/assets/images/blog/blog-09.webp)
+![Gaokao Subject Selection Strategy Guide - InsightCrunch](/assets/images/blog/blog-16.webp)
 *新高考选科是能力、兴趣与专业覆盖三重约束下的最优化决策*
 
 本指南想做的,是把选科从一道"凭感觉"的题,还原成一道有清晰结构、可以逐步推演的题。我们会先讲清楚选科到底在解一个什么样的问题,再依次拆解专业覆盖、首选决策、再选搭配、等级赋分、能力评估、兴趣定位、职业方向、常见误区、组合权衡、时间节点与改科可能性,最后用一整套常见问题把容易被忽略的细节补齐。无论你是理科见长的考生、文科见长的考生,还是暂时还没想清楚方向的同学,都能在这里找到属于自己的推演路径。如果你想先回顾整个高考的全貌,可以参考[高考完全指南](/2026/03/18/gaokao-complete-guide/);如果你对各种考试模式还不熟悉,建议先看[考试模式详解](/2026/03/10/gaokao-exam-pattern-format/)与[高考改革新模式](/2025/10/01/gaokao-reforms-new-model/)。

@@ -6,7 +6,7 @@ date: 2026-04-14
 categories: ["Leisure"]
 tags: ["dhurandhar", "themes", "symbolism", "movie-analysis", "bollywood", "spy-thriller", "film-criticism"]
 excerpt: "Every theme and symbol in the Dhurandhar duology explained - identity, sacrifice, vengeance, and more."
-image: "/assets/images/blog/blog-97.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-30
@@ -16,7 +16,7 @@ The Dhurandhar duology is, at its surface, a spy thriller about an undercover RA
 
 <!--more-->
 
-![Themes and Symbolism in Dhurandhar Duology - Insight Crunch](/assets/images/blog/blog-97.webp)
+![Themes and Symbolism in Dhurandhar Duology - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 This analysis examines every major theme and symbol in the franchise, tracing how each is introduced, developed, and resolved across both installments. The thematic architecture of the duology is not a collection of independent ideas but an interconnected and mutually reinforcing web in which each theme reinforces, complicates, and sometimes directly contradicts the others, creating a moral and philosophical landscape that rewards the kind of sustained analytical attention that these interconnected articles are designed to provide.
 

@@ -6,7 +6,7 @@ date: 2015-01-30
 categories: ["Leisure"]
 tags: ["nature-vs-nurture", "literary-comparison", "frankenstein", "lord-of-the-flies", "wuthering-heights", "literary-analysis"]
 excerpt: "Classic novels test the nature-versus-nurture question as thought experiment. The answers they give are not uniform; the variation is the analytical content."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "megan-clark"
 last_updated: 2015-01-30
@@ -16,7 +16,7 @@ Classic novels do not agree about nature versus nurture. The disagreement is the
 
 <!--more-->
 
-![Nature vs Nurture in Classic Fiction - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Nature vs Nurture in Classic Fiction - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The standard classroom treatment of nature versus nurture in literature tends to flatten these differences. Students learn that Frankenstein explores the theme, that Lord of the Flies explores the theme, that Wuthering Heights explores the theme, and the explorations are treated as roughly interchangeable. The analytical content disappears. What a comparative reading recovers is that each work constructs a different kind of test, controls for different variables, and reaches a conclusion shaped by the particular conditions the author chose to impose. Shelley isolates a being from all connection and watches what happens. Golding removes adult civilization from a group of children and watches what happens. Huxley engineers every dimension of existence from conception onward and watches what happens. Bronte deliberately withholds the information that would allow the reader to decide. Twain places a child inside a corrupt system and watches whether the child's instinct can overcome what he has been taught. The variation across these experiments is not a failure of the tradition to reach consensus. The variation is the tradition's most valuable analytical contribution, because it reveals what different starting assumptions produce and what each construction leaves out.
 

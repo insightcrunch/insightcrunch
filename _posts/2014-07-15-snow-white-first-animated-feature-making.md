@@ -7,7 +7,7 @@ slug: "snow-white-first-animated-feature-making"
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Snow White and the Seven Dwarfs", "Walt Disney", "Animation", "Film History", "Film Analysis"]
 excerpt: "How Walt Disney gambled his entire studio on Snow White and the Seven Dwarfs, the 1937 feature that proved drawn animation could sustain a real industry."
-image: "/assets/images/blog/blog-97.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2014-07-15
@@ -15,7 +15,7 @@ lang: en
 ---
 The most instructive thing about Snow White and the Seven Dwarfs is not what appears on the screen but what had to be wagered to put it there. By the middle of the 1930s the received wisdom inside Hollywood held a clear shape: a drawn cartoon was a delightful seven-minute warm-up before the main attraction, a thing of squash and stretch and gag timing, and no paying crowd would ever sit still for a feature-length one. Walt Disney bet his company, his house, and his reputation against that wisdom, and the bet is the reason the film matters as a piece of industrial history rather than only as a fairy tale. Understanding how the picture was built, and what each technical and financial gamble solved, explains the work far better than any account of its plot, and it clears away a myth that has clung to it for generations.
 
-![How Snow White and the Seven Dwarfs was made, the production gamble behind Disney's Folly, an analysis - Insight Crunch](/assets/images/blog/blog-97.webp)
+![How Snow White and the Seven Dwarfs was made, the production gamble behind Disney's Folly, an analysis - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 This study reads the picture through its making. The argument is simple to state and harder to prove, which is why the proof takes the space it does: the lasting contribution of Snow White was not that it invented the animated feature, because it did not, but that it proved the animated feature could sustain a commercial industry. That is a different claim from primacy, and a much larger one. A first attempt can be a curiosity. A viable industry is a permanent change in what cinema can be. The picture premiered at the Carthay Circle Theatre in Los Angeles in December 1937 and went into wide American release early the following year, and within months it had rewritten the economics of drawn animation so thoroughly that every major company in the world had to respond. The route to that result ran through a string of problems that looked, at the time, very much like reasons to stop.
 

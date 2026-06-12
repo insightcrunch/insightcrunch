@@ -8,7 +8,7 @@ excerpt: "The inventions that changed the world did not simply improve life. Eac
 tags: ["inventions", "world-history", "technology", "innovation", "historical-analysis"]
 author: "insight-crunch-team"
 last_updated: "2016-08-12"
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 lang: en
 ---
@@ -16,7 +16,7 @@ Teaching inventions as a list of celebrated discoveries is one of the most persi
 
 This article examines ten inventions through a structural-transformation framework rather than through the individual-invention description approach that dominates popular treatments. The ten are: agriculture (c. 10,000 BCE), writing (c. 3200 BCE), the wheel (c. 3500 BCE), coinage (c. 600 BCE), paper (c. 100 CE), the printing press (c. 1440), the steam engine (1712/1769), electricity generation (1879-1882), the internal combustion engine (1860s-1890s), and computers and the internet (1945 onward). Each is analyzed for the mechanisms through which it restructured civilization - the previously impossible arrangements it enabled, the unintended consequences it generated, and the subsequent adjustments those consequences required. The comparative frame reveals patterns that the invention-by-invention approach cannot see.
 
-![Inventions That Changed the World - InsightCrunch](/assets/images/blog/blog-02.webp)
+![Inventions That Changed the World - InsightCrunch](/assets/images/blog/blog-93.webp)
 
 <!--more-->
 

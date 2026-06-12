@@ -6,7 +6,7 @@ date: 2022-06-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Reading Guide", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The Great Gatsby reading order and pacing, explained: read it front to back, race the plot, and slow down at the five passages that carry the meaning."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2022-06-13
@@ -14,7 +14,7 @@ lang: en
 ---
 Most readers finish The Great Gatsby in an afternoon and come away convinced they have read it. They have read the plot. The reading order and pacing of this novel are the difference between covering the story and possessing the book, because Fitzgerald wrote a narrative that moves like a thriller wrapped around passages that move like poems, and the two parts ask for different speeds. Race the whole thing and the lyric high points blur past unread. Labor every line and the momentum that makes the tragedy feel inevitable drains away. A reader who plans the read gets both: the pull of the plot and the weight of the prose. This guide lays out a concrete plan for how to move through the novel, what order to take it in, how long it actually takes, and exactly where to drop your speed so the book pays off the way it was built to.
 
-![The Great Gatsby reading order and pacing](/assets/images/blog/blog-78.webp)
+![The Great Gatsby reading order and pacing](/assets/images/blog/blog-94.webp)
 
 ## Why a reading plan matters for a book this short
 

@@ -5,7 +5,7 @@ date: 2016-09-23
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The Oracle DRM to EBS integration is one of the most widely used programs to maintain and refresh master data easily. The EBS concurrent program pulls the..."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 2
 author: "ryan-walsh"
 last_updated: 2026-04-01
@@ -21,7 +21,7 @@ The Oracle DRM to EBS integration is one of the most widely used programs to mai
 
 - CHILD_FLEX_VALUE_HIGH
 
-![Oracle DRM EBS Integration Fnd Flex Loader Value Updates](/assets/images/blog/blog-77.webp)
+![Oracle DRM EBS Integration Fnd Flex Loader Value Updates](/assets/images/blog/blog-53.webp)
 Oracle DRM EBS Integration Fnd Flex Loader Value Updates
 
 **Once the integration is completed**, the values are expected to be showing up fine in EBS, more specifically in FND_FLEX_VALUES and FND_FLEX_VALUE_NORM_HIERARCHY. Any new values, hierarchy changes, description changes can be verified using these and few other FND tables under APPS or APPLSYS schemas.

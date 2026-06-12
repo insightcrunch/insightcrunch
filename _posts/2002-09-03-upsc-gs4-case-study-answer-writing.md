@@ -6,7 +6,7 @@ date: 2002-09-03
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Case Studies", "Ethics", "Answer Writing", "IAS Preparation"]
 excerpt: "UPSC GS4 case study answer writing strategy: CASE framework structure practice cases model outlines common mistakes for Mains Section B."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 65
 author: "deepika-joshi"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC GS4 case study answer writing represents the single highest-leverage prepar
 
 The cognitive shift required is from treating case studies as creative writing exercises requiring improvised responses to treating case studies as structured analytical exercises requiring systematic framework deployment. The aspirant who reads a case study scenario and begins writing immediately without systematic stakeholder identification without explicit dilemma articulation without multi-framework analysis and without implementation evaluation produces ad hoc responses that consistently miss critical dimensions. The aspirant who reads a case study scenario and deploys structured CASE framework (Context Analysis Solution Evaluation) with systematic stakeholder identification explicit dilemma articulation multi-framework ethical analysis specific solution with reasoning and implementation evaluation produces comprehensive responses addressing multiple dimensions. Both aspirants may have similar ethical knowledge; only one deploys it systematically through structured analytical approach.
 
-![UPSC GS4 Case Study Answer Writing Strategy - Insight Crunch](/assets/images/blog/blog-55.webp)
+![UPSC GS4 Case Study Answer Writing Strategy - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 By the end of this guide you will understand the CASE framework architecture for case study answers, the word allocation strategy for 250-word case study responses, the systematic stakeholder identification approach, the multi-framework ethical analysis method, the specific solution articulation technique, the evaluation approach for implementation challenges, the 10 practice cases with model outlines across diverse scenario patterns, the common mistakes in case study answer writing, the topper-level case study answer patterns, the integration with broader GS4 preparation, and the systematic practice approach for building case study analytical capacity. The total time investment for dedicated case study preparation across the cycle is approximately 40 to 60 hours across 30 to 50 practice case studies with structured self-review.
 

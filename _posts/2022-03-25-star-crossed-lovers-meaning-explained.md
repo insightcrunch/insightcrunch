@@ -6,7 +6,7 @@ date: 2022-03-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "star-crossed", "astrology", "star-crossed-lovers-meaning"]
 excerpt: "Romeo and Juliet gave English the phrase star-crossed lovers, and its real sense, thwarted by the stars themselves, is sharper than the loose modern one."
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 61
 author: "rachel-foster"
 last_updated: 2022-03-25
@@ -14,7 +14,7 @@ lang: en
 ---
 Six lines into the Prologue, before a single character has spoken, the Chorus delivers a verdict on two people the audience has not yet met: "A pair of star-cross'd lovers take their life." The phrasing is so familiar that it slips past most listeners as a synonym for unlucky, doomed, or merely sad. That reading empties the words of their actual content. The compound did not signify unlucky to the people who first heard it in the 1590s. It named a working cosmology, a serious theory of how human lives were governed, and it pointed a finger at a precise culprit. The heavens cross these two. Something above and outside them reaches down and thwarts them. The grammar is active, and the agent is celestial.
 
-![Star-crossed lovers phrase meaning in Romeo and Juliet Prologue - Insight Crunch](/assets/images/blog/blog-82.webp)
+![Star-crossed lovers phrase meaning in Romeo and Juliet Prologue - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 What follows recovers the buried machinery inside the most quoted three syllables in English romance. The standard account treats the term as a mood word, a wash of melancholy over a courtship. The sharper account, the one defended here, is that Shakespeare coined a verb of opposition and dressed it as an adjective, that the firmament in his line does something rather than merely loom, and that four centuries of repetition have sanded the action off the word until only the sentiment survives. The expression is a fossil. Inside the smooth modern surface sits a hard kernel of Renaissance astral physics, a claim about cause that the culture forgot it ever made. Restore the cause and the play's whole argument about destiny shifts under your feet.
 

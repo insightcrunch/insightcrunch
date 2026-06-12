@@ -6,7 +6,7 @@ date: 2019-03-25
 categories: ["Industry"]
 tags: ["raw", "sri-lanka", "ltte", "tamil-tigers", "operations", "lessons"]
 excerpt: "How RAW armed and trained the Tamil Tigers in the 1980s, then sent the IPKF to fight them, and why that reversal still shapes Indian covert doctrine today."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2019-03-25
@@ -16,7 +16,7 @@ In the autumn of 1987, Indian soldiers who had crossed the Palk Strait expecting
 
 <!--more-->
 
-![RAW Sri Lanka LTTE Operations](/assets/images/blog/blog-42.webp)
+![RAW Sri Lanka LTTE Operations](/assets/images/blog/blog-90.webp)
 
 This is the story of the operation that intelligence officers in India still discuss in lowered voices, the campaign that began as a calculated geopolitical move and ended with a former prime minister torn apart by a suicide bomber on a campaign stage in his own country. It is the account of how the Research and Analysis Wing trained and equipped Sri Lankan Tamil insurgents, how the most capable of those insurgents grew into a force that India could neither control nor abandon, and how the resulting catastrophe rewired the doctrine that governs every covert decision India has made since. The campaign against the Tamil Tigers is the negative precedent that hangs over the country's modern shadow war, the cautionary tale that explains why India today prefers to eliminate its enemies rather than to arm anyone against them.
 

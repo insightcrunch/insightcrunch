@@ -6,7 +6,7 @@ date: 2003-01-02
 categories: ["Industry"]
 tags: ["UPSC", "Indian Geography", "UPSC Prelims", "National Parks", "Map Work", "Prelims Strategy"]
 excerpt: "Master UPSC Prelims geography with river systems, mountain passes, national parks, straits, and map-based question strategy."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 59
 author: "anita-das"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ Map-based and factual geography questions constitute one of the most stable and 
 
 This article is your comprehensive manual for map-based and factual geography as tested in UPSC Prelims. It covers India's major river systems with their tributaries and geographical significance, the strategic mountain passes of the Himalayas and other ranges, the national parks and wildlife sanctuaries that appear most frequently in the examination, India's biosphere reserves, the straits and maritime features of the Indian Ocean region, India's island territories, and the world geography facts that UPSC occasionally tests. More importantly, it teaches you the "atlas method" of geography preparation, a spatial learning approach that anchors facts in visual memory rather than in prose memory, producing dramatically better retention and recall under examination conditions.
 
-![UPSC Prelims Maps Geography River Systems National Parks Strategy - Insight Crunch](/assets/images/blog/blog-57.webp)
+![UPSC Prelims Maps Geography River Systems National Parks Strategy - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 ## Why Map-Based Geography Is the "Score Forever" Section
 

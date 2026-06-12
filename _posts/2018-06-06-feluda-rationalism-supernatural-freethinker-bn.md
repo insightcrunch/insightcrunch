@@ -6,7 +6,7 @@ date: 2018-06-06
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "ফেলুদার যুক্তিবাদী দৃষ্টিভঙ্গি বাঙালি মুক্তচিন্তা ঐতিহ্যের কোন পরম্পরায় দাঁড়িয়ে তার বিস্তৃত বিশ্লেষণ"
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 140
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![যুক্তিবাদ বনাম অলৌকিক - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-73.webp)
+![যুক্তিবাদ বনাম অলৌকিক - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-25.webp)
 
 ## বাঙালি মুক্তচিন্তার পরম্পরা: রামমোহন থেকে রায় পর্যন্ত
 

@@ -6,7 +6,7 @@ date: 2022-05-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "rosaline", "petrarchan-love", "romeo-and-rosaline"]
 excerpt: "Romeo loves Rosaline before he ever meets Juliet, and this unseen first love, mocked by the Friar, shapes how the whole play asks us to read his devotion."
-image: "/assets/images/blog/blog-104.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 
 author: "diana-patel"
 last_updated: 2022-05-20
@@ -14,7 +14,7 @@ lang: en
 ---
 When the play that carries the most famous love in English literature opens, its hero is in love with the wrong person. Before the balcony, before the shared kiss, before the vow exchanged across an orchard wall, Romeo Montague spends the first act sighing over a woman the audience never sees and the culture has agreed to forget. Her name is Rosaline. She has no lines. She never walks onstage. And yet the boy who will die for Juliet enters the tragedy already heartbroken over someone else, weeping in an artificial darkness of his own making, reciting the kind of contradictory love-talk that signals, to anyone trained in the conventions of 1595, that he does not yet know what he is talking about.
 
-![Romeo's Rosaline infatuation before Juliet, Petrarchan love in Act 1 close reading - Insight Crunch](/assets/images/blog/blog-104.webp)
+![Romeo's Rosaline infatuation before Juliet, Petrarchan love in Act 1 close reading - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The standard account of this play skips the first love entirely. The cultural shorthand begins at the ball, or at the window, with two teenagers struck simultaneously by a passion strong enough to kill them inside four days. That shorthand is not wrong so much as incomplete, and the part it leaves out is the part that tells the reader how to read the rest. Rosaline is the play's control variable. She is the earlier, untested case against which the later, fatal one is measured, and Shakespeare puts her there on purpose. This article makes the case that the unseen first love is not a false start to be hurried past but the interpretive key to Romeo, to the speed of his change, and to the question the whole tragedy keeps asking under its breath: is the love that follows different in kind, or only different in object?
 

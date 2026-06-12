@@ -6,7 +6,7 @@ date: 2008-03-03
 categories: ["Leisure"]
 tags: ["richard-nixon", "decision-reconstruction", "us-presidents", "watergate", "resignation", "impeachment"]
 excerpt: "The smoking gun tape dropped August 5, 1974. Goldwater told Nixon on August 7 he had at most 15 Senate votes. August 8 he resigned. The 72-hour collapse."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2008-03-03
@@ -14,7 +14,7 @@ lang: en
 ---
 At 4:00 p.m. Eastern on Monday, August 5, 1974, the White House released the transcript of a conversation recorded on June 23, 1972, six days after the Watergate break-in. The transcript ran to roughly thirty pages. On those pages, the president of the United States could be heard instructing H.R. Haldeman to have the Central Intelligence Agency tell the Federal Bureau of Investigation to stop pursuing the money trail from the Committee to Re-elect the President to the Watergate burglars. The instruction came in plain language. It contradicted every public statement the 37th president had issued across twenty-six months of denials. By 6:00 p.m. that Monday, three of the ten Republican members of the House Judiciary Committee who had voted against the articles of impeachment two weeks earlier had announced they would now vote to impeach. By 10:00 p.m., the working Republican count in the United States Senate had collapsed below the threshold needed for acquittal. By Wednesday afternoon, August 7, a three-senator delegation walked into the Oval Office and delivered a number: fifteen. That was the maximum count of senators prepared to vote against conviction. The constitutional threshold for acquittal stood at thirty-four. By 9:00 p.m. Eastern on Thursday, August 8, the 37th president addressed the nation and announced his resignation, effective at noon the following day. The first presidential resignation in American history occupied seventy-two hours from the smoking gun release on Monday afternoon to the resignation address on Thursday evening. This article reconstructs those seventy-two hours, examines what alternatives existed at each decision node, and adjudicates the historians who have disagreed about whether the resignation was inevitable, calculated, or negotiated.
 
-![Nixon August 1974 resignation three-day collapse from smoking gun to departure - Insight Crunch](/assets/images/blog/blog-93.webp)
+![Nixon August 1974 resignation three-day collapse from smoking gun to departure - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 ## The Twenty-Six Months Before August 5
 

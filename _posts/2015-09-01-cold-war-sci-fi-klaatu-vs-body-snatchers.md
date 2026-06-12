@@ -6,7 +6,7 @@ date: 2015-09-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Day the Earth Stood Still", "Invasion of the Body Snatchers", "Science Fiction", "Cold War Cinema", "Film History", "World Cinema"]
 excerpt: "The Day the Earth Stood Still and Invasion of the Body Snatchers turned Cold War dread into allegory from opposite political poles, the sky and the self."
-image: "/assets/images/blog/blog-99.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-09-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Put two films from the same anxious decade side by side and a hidden argument surfaces. The Day the Earth Stood Still, directed by Robert Wise in 1951, asks the people of Earth to lay down their weapons or be erased by a power they cannot resist. Invasion of the Body Snatchers, directed by Don Siegel in 1956, asks something colder and harder to answer: how would you know if the person beside you had already been replaced? One film looks up at the sky and finds a stern visitor with a sermon. The other looks across the breakfast table and finds a stranger wearing a familiar face. Set them on a single bill, as this comparison does, and the 1950s stop being a decade of cheap monsters and start being a decade dreaming its terror out loud.
 
-![How The Day the Earth Stood Still and Invasion of the Body Snatchers turned the Cold War into allegory from opposite poles, a comparative analysis - Insight Crunch](/assets/images/blog/blog-99.webp)
+![How The Day the Earth Stood Still and Invasion of the Body Snatchers turned the Cold War into allegory from opposite poles, a comparative analysis - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 These two films are usually filed under the same genre heading and left there, as if science fiction were a single shelf rather than a battlefield of competing fears. The pairing rewards a sharper look. They were made within five years of each other, by directors who came up through the studio system, on subjects that a casual viewer would call the same: aliens, invasion, the end of the familiar world. Yet they fear opposite things, invite opposite politics, and end on opposite emotional notes. To decide what each one reveals, you have to stop treating them as interchangeable artifacts of a paranoid age and start reading them as the two clearest poles of a single act of cultural displacement. That act, the way an entire decade of American cinema let itself feel the Cold War by transferring the dread onto flying saucers and seed pods, is the thread that runs through everything below.
 

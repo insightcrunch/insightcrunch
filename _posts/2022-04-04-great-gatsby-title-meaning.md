@@ -6,7 +6,7 @@ date: 2022-04-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Title Meaning", "F. Scott Fitzgerald", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "The Great Gatsby title explained: the word great reads first as a showman's billing, then as irony, then as an earned grandeur, and you travel all three."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2022-04-04
@@ -14,7 +14,7 @@ lang: en
 ---
 Most readers finish *The Great Gatsby* without ever pausing on the two words printed on its cover, and that is the first close reading they skip. The Great Gatsby title is not a label stuck on the book after the fact. It is the novel's opening argument, a verdict delivered before the first sentence, and a small machine built to mean three contradictory things at once. Fitzgerald spent months unhappy with it, proposed half a dozen alternatives, and at one point begged his editor to let him change it after the type had been set. He lost that fight, and the book is better for the loss, because the phrase he kept does something none of his other choices could. It hangs a single charged adjective over a man's bare surname and dares the reader to decide what the word is doing there.
 
-![The Great Gatsby title explained and its three meanings - Insight Crunch](/assets/images/blog/blog-68.webp)
+![The Great Gatsby title explained and its three meanings - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 This guide treats the book's name the way the rest of this series treats the green light or the Valley of Ashes: as a text worth reading at the level of the word. The argument is simple to state and harder to earn. The adjective on the cover works in three stages. It arrives first as a showman's billing, the kind of inflated promise you would see painted over a circus tent or stitched into a vaudeville program. It curdles, across the party chapters and the unraveling of the summer, into irony, because the man being advertised is exposed as a bootlegger living on borrowed glamour. And then, in the last pages, after the pool and the empty house and the unattended funeral, the word turns again and earns a meaning it did not have at the start: a battered, genuine grandeur that survives the exposure of every lie. The book asks you to move through all three. Reading the name as only praise, or only mockery, stops on the first or second floor of a building with three.
 

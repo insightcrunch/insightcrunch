@@ -6,7 +6,7 @@ date: 2012-05-22
 categories: ["Industry"]
 tags: ["uri-attack", "surgical-strikes", "india", "pakistan", "loc", "jaish-e-mohammed"]
 excerpt: "The Uri Army camp pre-dawn assault that killed 19 Indian soldiers and triggered India's first acknowledged surgical strikes across the Line of Control."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 71
 author: "rahul-banerjee"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ The pre-dawn hours of September 18, 2016, brought four Jaish-e-Mohammed fighters
 
 <!--more-->
 
-![Uri Army Camp Assault and Cross-LoC Surgical Strike Reconstruction - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Uri Army Camp Assault and Cross-LoC Surgical Strike Reconstruction - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 What happened at the Uri brigade headquarters has been narrated many times, but the analytical center of the episode is rarely placed where it belongs. The center is not the attack itself, devastating as the body count was. The center is not even the cross-LoC operation, militarily modest as the strike package proved. The center is the decision chain that connects the two: the eleven days during which the Indian security cabinet, the army headquarters at South Block, the Northern Command at Udhampur, and the special forces units pre-positioned in Jammu and Kashmir compressed a deliberation that had stretched over a decade after the November 2008 Mumbai siege into less than two weeks. That compression was the doctrinal earthquake. Once a state demonstrates that it can convert outrage into cross-border kinetic action in under a fortnight, the calculus of every subsequent provocation changes.
 

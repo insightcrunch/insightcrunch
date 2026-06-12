@@ -6,7 +6,7 @@ date: 2011-01-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Susan Alexander Kane", "Close Reading", "Cinematography", "Orson Welles", "Character Analysis"]
 excerpt: "The El Rancho nightclub scene in Citizen Kane uses a famous crane through the roof to reveal Susan Alexander's ruin before she ever says a single word."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2011-01-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Citizen Kane: the El Rancho nightclub scene is the moment the film teaches you to read a camera move as a verdict on a life. A reporter named Thompson arrives at a shabby Atlantic City club in driving rain to interview the woman the world remembers as the great man's failed singer, and before she lifts her head, before she speaks one word of refusal, the picture has already told you how far she has fallen. The telling is not done with dialogue. It is done with a single descending gesture of the lens that climbs the wet exterior wall, passes the buzzing neon that bears her name, and lowers itself through a skylight into a near empty room where she sits slumped over a table. By the time the audience reaches Susan Alexander, the argument about her has been made in motion, in weather, and in light, and the words she will not say are almost beside the point.
 
-![The El Rancho nightclub crane shot in Citizen Kane analyzed - Insight Crunch](/assets/images/blog/blog-70.webp)
+![The El Rancho nightclub crane shot in Citizen Kane analyzed - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 This is why the sequence rewards the kind of close attention that a plot recap can never supply. A recap will tell you that Thompson goes to a nightclub, that Susan is drunk, that she will not talk, and that he leaves and comes back later. All of that is accurate and none of it is the point. The point is that Orson Welles and his cinematographer Gregg Toland built a passage of pure cinema around a character who, in this moment, has nothing to perform and no song to sing, and they let the apparatus of the film do the speaking she has stopped doing. To understand the El Rancho is to understand one of the clearest demonstrations in all of Citizen Kane of a principle the whole film runs on, which is that camera movement is meaning rather than decoration, and that the way an image arrives can characterize a person more efficiently than any line of script.
 

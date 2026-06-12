@@ -6,7 +6,7 @@ date: 2015-12-01
 categories: ["Leisure"]
 tags: ["battle-of-the-somme", "world-war-i", "british-army", "western-front-1916", "haig-offensive", "modern-history"]
 excerpt: "The Somme killed a million men for seven miles of depth. Both the tragedy and the strategic consequences deserve analysis, and the evidence needs both."
-image: "/assets/images/blog/blog-50.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2015-12-01
@@ -18,7 +18,7 @@ No battle of the First World War occupies a more central position in British nat
 
 <!--more-->
 
-![The Battle of the Somme Explained - Insight Crunch](/assets/images/blog/blog-50.webp)
+![The Battle of the Somme Explained - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The argument here is not that the Somme was worth its cost, and it is not that Douglas Haig was a competent commander whose reputation has been unfairly maligned. Put differently, the senseless-slaughter framing, as powerful as its cultural warrant is, leaves out the German side of the ledger, the Allied coordination requirements that determined the battle's location and timing, and the specific tactical consequences that shaped the remainder of the war. Gary Sheffield, William Philpott, and Peter Barton have each contributed to a revisionist scholarship that complicates the popular picture without displacing it. The Somme was catastrophic. It was also part of specific strategic attrition that German commanders recognized as decisive. Both claims are true, and both require evidence.
 

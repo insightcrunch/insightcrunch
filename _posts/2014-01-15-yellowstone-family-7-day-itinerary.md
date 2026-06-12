@@ -6,7 +6,7 @@ date: 2014-01-15
 categories: ["Travel"]
 tags: ["USA Travel", "Yellowstone", "National Parks", "Family Travel", "Itineraries", "Outdoors"]
 excerpt: "Yellowstone with kids works when the plan is paced by drive time, not sights. This seven-day family itinerary uses short legs, dawn wildlife, and boardwalks."
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 68
 author: "nandini-sen"
 last_updated: 2014-01-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Visiting Yellowstone with kids is less about how many sights you can reach and more about how little time you spend strapped into car seats getting to them. The park is enormous, the famous loop is a figure-eight of roughly 140 miles, and the single fastest way to wreck a family trip is to plan it the way a childless road-tripper would: a marathon of overlooks linked by ninety-minute drives that end in a backseat meltdown by the third afternoon. This seven-day plan does the opposite. It is paced by drive time rather than sight count, anchored to two bases so you unpack twice instead of seven times, and sequenced so geyser boardwalks land before the energy crashes and wildlife valleys get their cool, golden hour at dawn.
 
-![Yellowstone with kids, a day-by-day seven-day family itinerary - Insight Crunch](/assets/images/blog/blog-20.webp)
+![Yellowstone with kids, a day-by-day seven-day family itinerary - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 The promise of the week below is specific. A parent of a four-year-old and a nine-year-old could follow it without further research and come home having seen Old Faithful erupt, walked the rainbow rim of the park's largest hot spring, stood at the railing above a waterfall taller than a thirty-story building, and watched bison move across a river valley in the half-light of early morning, all without a single driving day that drags past the patience of a small passenger. If you have only read one thing about a family trip here, read the pacing logic first, because the order and the drive legs are what make the rest possible.
 

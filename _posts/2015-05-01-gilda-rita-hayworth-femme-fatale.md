@@ -6,13 +6,13 @@ date: 2015-05-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Gilda", "Rita Hayworth", "Film Noir", "Performances", "World Cinema", "Film History"]
 excerpt: "In Gilda, Rita Hayworth built the definitive femme fatale and quietly exposed the archetype as a male projection a woman is forced to perform onscreen."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2015-05-01
 lang: en
 ---
-![How Rita Hayworth performed the definitive femme fatale in Gilda, a performance and character study - Insight Crunch](/assets/images/blog/blog-59.webp)
+![How Rita Hayworth performed the definitive femme fatale in Gilda, a performance and character study - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 A woman is summoned, off-screen, by her husband. The camera holds on an empty space for a beat, and then she flings her head up into the frame, hair swinging back off her face, and says she is decent, which is a lie and a joke at once. That entrance lasts a few seconds. It has outlived the film around it, the studio that made it, and most of the careers attached to it, and it tells you almost everything about the problem Rita Hayworth set out to solve in Gilda (1946), Charles Vidor's Columbia production. The problem was not how to play a dangerous woman. Dozens of actresses had played dangerous women. The problem was how to play a woman performing dangerousness as a survival tactic, so that the surface read as pure threat while the inside read as something closer to a trapped animal. Hayworth solved it, and in solving it she built the single most reproduced femme fatale image in American cinema while quietly dismantling the thing she was building.
 

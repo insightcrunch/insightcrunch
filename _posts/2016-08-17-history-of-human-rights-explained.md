@@ -17,7 +17,7 @@ Human rights are declared in response to atrocities, not discovered through mora
 <!--more-->
 
 
-![The History of Human Rights Explained - Insight Crunch](/assets/images/blog/blog-18.webp)
+![The History of Human Rights Explained - Insight Crunch](/assets/images/blog/blog-94.webp)
 ## The Linear Narrative and Its Limits
 
 The version of human rights history most commonly taught in schools and reproduced on general-interest websites follows a recognizable arc. Ancient civilizations produced legal codes. Medieval charters limited sovereign power. Enlightenment thinkers articulated universal principles. The twentieth century globalized those principles through international institutions. In this telling, human rights are something humanity gradually figured out, like the laws of physics or the germ theory of disease, with each era adding another brick to the edifice of moral knowledge.

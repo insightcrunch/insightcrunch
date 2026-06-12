@@ -6,7 +6,7 @@ date: 2023-01-30
 categories: ["Technology"]
 tags: ["Azure", "Service Principal", "AADSTS7000215", "Troubleshooting", "Identity", "Security"]
 excerpt: "Service principal authentication errors in Azure split into credential and role failures. Read the error class to fix the secret, certificate, tenant, or role."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
 author: "thomas-reid"
 last_updated: 2023-01-30
@@ -14,7 +14,7 @@ lang: en
 ---
 A pipeline that deployed cleanly on Friday returns `invalid_client` on Monday, and the message buried in the response reads AADSTS7000215 or AADSTS7000222. A nightly job that has run for a year suddenly cannot reach a storage account. A new automation account works in development and gets rejected in production with a tenant it does not recognize. Every one of these is a service principal authentication error, and almost every one of them is one of a small set of distinct causes wearing slightly different clothes. The reason these incidents feel mysterious is that two completely different kinds of failure print into the same logs and get treated as the same problem. One kind means the identity could not prove who it is. The other means it proved who it is and then was told it is not allowed to do the thing it asked for. Knowing which of those two you are looking at, before you touch anything, is the difference between a thirty second fix and an afternoon of regenerating credentials that were never the problem.
 
-![Diagnosing Azure service principal authentication errors and AADSTS codes - Insight Crunch](/assets/images/blog/blog-48.webp)
+![Diagnosing Azure service principal authentication errors and AADSTS codes - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This piece treats the service principal authentication error as a diagnosis rather than a symptom. A service principal is the identity an application, a script, or a pipeline uses to sign in to Microsoft Entra ID and act against Azure resources without a human at the keyboard. It carries an application (client) ID, it lives in a specific tenant, and it proves itself with one of two credential types: a client secret or a certificate. When any one of those pieces is wrong, expired, or missing, the sign-in fails before a token is ever issued. When all of them are right but the principal has not been granted a role on the resource it is trying to reach, the sign-in succeeds and the call still fails. Those are two separate failure classes, and the whole method here rests on telling them apart from the first error line.
 

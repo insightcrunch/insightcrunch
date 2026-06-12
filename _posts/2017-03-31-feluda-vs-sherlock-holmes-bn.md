@@ -6,7 +6,7 @@ date: 2017-03-31
 categories: ["Leisure"]
 tags: ["feluda", "sherlock-holmes", "satyajit-ray", "bengali-literature", "comparative"]
 excerpt: "ফেলুদা এবং হোমসের গভীর তুলনা। ঔপনিবেশিক উত্তরাধিকার, বাঙালিকরণের প্রক্রিয়া, এবং রায় কীভাবে হোমস-প্রকল্পকে কলকাতার ভেতরে নতুন করে গড়েছিলেন।"
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 144
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদা বনাম শার্লক হোমস - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-68.webp)
+![ফেলুদা বনাম শার্লক হোমস - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-80.webp)
 
 ## কেন এই তুলনা অনিবার্য
 

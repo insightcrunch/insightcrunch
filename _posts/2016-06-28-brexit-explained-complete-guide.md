@@ -6,7 +6,7 @@ date: 2016-06-28
 categories: ["Leisure"]
 tags: ["brexit", "european-union", "british-history", "european-history", "world-history"]
 excerpt: "Brexit was not a single event but a decade of sustained crisis that transformed British governance and tested whether EU membership was truly reversible."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-62.webp"
 author: "amanda-ross"
 last_updated: 2016-06-28
 reading_time: 70
@@ -16,7 +16,7 @@ Brexit was not a single event but a decade-long political crisis that transforme
 
 <!--more-->
 
-![Brexit Explained Complete Guide - Insight Crunch](/assets/images/blog/blog-30.webp)
+![Brexit Explained Complete Guide - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 Conventional treatments of Brexit, including those from the BBC, the Guardian, Reuters, and Wikipedia, deliver competent event-by-event chronology: the referendum was held, Britain voted Leave, negotiations followed, departure occurred. This chronological approach captures the surface sequence but systematically misses the structural causes, the referendum-design critiques, the negotiation dynamics, and the continuing consequences that give the episode its historical weight. This article applies the scholarship of Tim Shipman, Anand Menon, Ivan Rogers, and Fintan O'Toole to recover the analytical content that chronological treatments flatten, treating Brexit not as a discrete political decision but as the culmination of decades of Conservative Euroscepticism, a series of tactical miscalculations by identifiable decision-makers, and a referendum whose design was structurally inadequate for the constitutional transformation it initiated.
 

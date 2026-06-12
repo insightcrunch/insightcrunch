@@ -8,7 +8,7 @@ author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["september-11", "2001", "terrorism", "american-history", "world-history"]
 excerpt: "September 11 was not random violence. It culminated a planned al-Qaeda strategy rooted in Cold War Afghan blowback and specific intelligence failures."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 70
 lang: en
 ---
@@ -16,7 +16,7 @@ The September 11 attacks killed 2,977 people in New York, Virginia, and Pennsylv
 
 <!--more-->
 
-![The September 11 Attacks Explained - Insight Crunch](/assets/images/blog/blog-75.webp)
+![The September 11 Attacks Explained - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 Popular understanding of September 11 operates through what might be called the shock-and-response framework: the attacks arrived without warning, America was stunned, and the War on Terror followed. This framework is emotionally accurate but analytically insufficient. It erases the specific operational history that made the attacks possible, the specific intelligence failures that left them undetected, and the specific strategic calculations that shaped both al-Qaeda's planning and the American response. Competitor treatments from History.com, Britannica, and Wikipedia deliver compressed chronological narratives that move from attack to aftermath in a single breath, losing the structural causes in the process. The analysis that follows recovers those structures by applying an authoritative-reading framework grounded in historical materialism: the attacks are read as the product of specific material conditions, specific organizational decisions, and specific institutional failures, each of which is traceable through primary documentation including the 9/11 Commission Report, the Joint Congressional Inquiry, and the scholarship of Lawrence Wright, Steve Coll, and Peter Bergen.
 

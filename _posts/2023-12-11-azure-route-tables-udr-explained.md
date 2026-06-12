@@ -6,7 +6,7 @@ date: 2023-12-11
 categories: ["Technology"]
 tags: ["Azure", "Route Tables", "UDR", "Networking", "Routing", "Cloud Computing"]
 excerpt: "Azure route tables and user-defined routes decide where packets go. Learn UDR precedence, next-hop types, forced tunneling, and reading effective routes."
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
 author: "jason-mckenzie"
 last_updated: 2023-12-11
@@ -16,7 +16,7 @@ A packet leaves a virtual machine bound for the public internet, and instead of 
 
 The promise of this guide is concrete. By the end you will hold a working model of how Azure decides where every packet goes, you will know the precedence rules that let a user-defined route override the defaults, you will recognize each next-hop type and the behavior it produces, and you will be able to read the effective routes on a network interface to see the real forwarding decision rather than the one you assumed. That last skill alone converts routing from guesswork into a deterministic read.
 
-![Azure route tables and user-defined routes precedence diagram - Insight Crunch](/assets/images/blog/blog-82.webp)
+![Azure route tables and user-defined routes precedence diagram - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 ## How Azure routing works before you touch anything
 

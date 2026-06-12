@@ -6,7 +6,7 @@ date: 2018-03-12
 categories: ["Industry"]
 tags: ["100-militants", "operation-sindoor", "claims", "evidence", "damage-assessment"]
 excerpt: "India says Operation Sindoor killed more than 100 militants, Pakistan says it killed only civilians, and this examines what satellite imagery can prove."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
 author: "thomas-reid"
 last_updated: 2018-03-12
@@ -16,7 +16,7 @@ When Indian officials said that more than one hundred militants died in the miss
 
 <!--more-->
 
-![Operation Sindoor Damage Assessment - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Operation Sindoor Damage Assessment - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The honest answer to the question that titles this analysis is that the hundred-plus figure is almost certainly inflated relative to what can be shown, almost certainly not zero as Pakistan insists, and located somewhere inside a range so wide that the range itself is the real story. Maxar Technologies imagery confirms that buildings at Bahawalpur and Muridke were struck and in places flattened. Masood Azhar, the founder of Jaish-e-Mohammed, publicly counted fourteen dead at one site, ten of them relatives. Pakistan's military spokesman counted thirty-one civilians across six locations and described mosques and homes reduced to debris. None of those numbers, stacked together, reaches one hundred armed fighters, and none of them rules it out either, because the people who could be counted from above are precisely the people a camera in orbit cannot see.
 

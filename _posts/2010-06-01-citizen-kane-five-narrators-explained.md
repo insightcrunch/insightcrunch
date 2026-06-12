@@ -6,7 +6,7 @@ date: 2010-06-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Narrators", "Orson Welles", "Close Reading", "Themes", "Film History"]
 excerpt: "Citizen Kane narrators tell one life from five fixed distances, and the gaps between Thatcher, Bernstein, Leland, Susan, and Raymond hold the real story."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2010-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The five Citizen Kane narrators are the engine of the whole film, and almost everyone who watches it passively misses what they are for. A reporter named Jerry Thompson is sent to find out what a dying man's last word meant, and the trail leads him to five people who knew Charles Foster Kane at five different stages and from five fixed emotional distances. Each of them hands Thompson a version of Kane. None of them hands him the man. The film is built so that the gaps between these accounts, not the facts inside them, carry the meaning, and a viewer who learns to read the witnesses rather than just their stories has learned the single most useful skill the film teaches.
 
-![How the five Citizen Kane narrators shape the film explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![How the five Citizen Kane narrators shape the film explained - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 This is why the standard description of the film as a mystery is only half right. The plot question, what does Rosebud mean, is a mystery in the detective sense, and Thompson never solves it. The deeper question, who was Charles Foster Kane, is a different kind of problem, and the film answers it by refusing to answer it cleanly. It collects five testimonies, lays them side by side, and lets the reader see that even five honest witnesses cannot reassemble a person into a single coherent figure. The structure is the argument. Once you grasp that, the film stops being slow and starts being a machine for thinking about how anyone ever knows anyone.
 

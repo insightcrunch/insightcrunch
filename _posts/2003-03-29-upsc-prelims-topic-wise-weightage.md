@@ -6,7 +6,7 @@ date: 2003-03-29
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Prelims Weightage", "Topic Priority", "UPSC GS Paper 1"]
 excerpt: "Where to focus your UPSC Prelims prep: 12 years of weightage data and a data-driven priority matrix."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 59
 author: "kavita-sharma"
 last_updated: 2026-04-13
@@ -22,7 +22,7 @@ This article provides the definitive, data-driven, year-by-year topic-wise weigh
 
 The comparison with examination preparation approaches in other countries illustrates the value of this data-driven approach: in the United States, preparation for the [SAT](/2026/03/26/sat-complete-guide/) is routinely guided by detailed topic-frequency analysis of past examination papers, and the most effective SAT preparation programmes explicitly allocate study time proportionally to each topic's historical testing frequency. The same data-driven allocation principle, applied to UPSC Prelims through the thirteen-year dataset analysed in this article, produces the same benefit: higher scores from the same total preparation investment.
 
-![UPSC Prelims Topic-Wise Weightage - Insight Crunch](/assets/images/blog/blog-39.webp)
+![UPSC Prelims Topic-Wise Weightage - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 As the [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) explains, GS Paper 1 contains 100 questions worth 2 marks each (200 marks total) drawn from seven major subject areas, and the "qualify, don't top" philosophy prescribes investing preparation time proportionally to each subject's question contribution rather than uniformly or based on personal preference. This article provides the precise, empirically derived question contribution data that makes proportional investment operationally possible, converting the general strategic principle of "prioritise high-frequency topics" into the specific, numerically grounded, daily-schedulable instruction of "allocate X percent of your preparation time to Subject Y because it contributes Z percent of the questions across thirteen years of examination data."
 

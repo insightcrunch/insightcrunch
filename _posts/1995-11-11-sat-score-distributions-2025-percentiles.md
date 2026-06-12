@@ -6,7 +6,7 @@ date: 1995-11-11
 categories: ["Industry"]
 tags: ["SAT", "Score Distributions", "Percentiles", "Statistics", "Analysis"]
 excerpt: "SAT score distributions and percentiles: what share scores at each level, how percentiles work and the national average, with perspective for targeting."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "katherine-blake"
 last_updated: 2026-06-09
@@ -14,7 +14,7 @@ lang: en
 ---
 A 1250 on its own tells you almost nothing. It is a number on a 400 to 1600 scale, and on a scale you have never seen mapped, the only honest reaction is a shrug. The SAT score distribution is the map. Once you lay a 1250 against the full national spread of results, the same four digits turn into something you can act on: a standing somewhere near the top fifth of all test-takers, comfortably above the midpoint, short of the bands most selective universities post, and close enough to several strong public flagships to be worth a serious application. Nothing about the digits changed. What changed is that you now know where they sit in the field, and that single piece of context is the difference between a number and a decision.
 
-![SAT score distributions and percentiles by score level - Insight Crunch](/assets/images/blog/blog-41.webp)
+![SAT score distributions and percentiles by score level - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 Most pages that promise to explain percentiles hand you one fact, that a percentile is the share of test-takers you scored at or above, and then leave you there, no better off than before. This article does the opposite. It gives you the full shape of the national results, a score-to-percentile reference you can read in seconds, the reason two students with the identical composite can be quoted different ranks, and a method for turning any of it into a targeted list of schools. By the end you should be able to glance at any four-digit total, name roughly where it lands nationally, and say what that standing does and does not buy in admissions. That is a skill the strategy articles across this library quietly assume you already have, and it is the grounding the rest of a sane testing plan rests on.
 
