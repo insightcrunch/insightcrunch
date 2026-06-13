@@ -9,7 +9,7 @@ excerpt: "SAT vs JEE and NEET compared: the enormous difficulty and preparation 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 1996-02-18
+last_updated: 2026-06-13
 lang: en
 ---
 A student who has spent two years grinding through JEE Advanced problem sets opens an SAT math module, reads the first question, and feels something close to disbelief. The question asks for the value that makes a linear equation true. There is no integral, no system of forces, no organic mechanism to push electrons through. For a candidate trained on India's engineering entrance, the early SAT math feels less like an exam and more like a warm-up that ended before it began. That reaction is not arrogance. It is an accurate reading of two assessments that were built for different jobs, set their content ceilings at different heights, and ask students to spend wildly different amounts of their lives getting ready.

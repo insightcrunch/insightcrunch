@@ -9,7 +9,7 @@ excerpt: "Digital SAT vs paper SAT compared: the structural changes, the adaptiv
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "katherine-blake"
-last_updated: 1996-01-31
+last_updated: 2026-06-13
 lang: en
 ---
 A student who trained for two months on a stack of old practice booklets, timing each long reading passage with a stopwatch and grinding through a separate no-calculator math block, can walk into a current exam and discover that almost none of what they rehearsed maps onto what is in front of them. The passages are short. The calculator is allowed the whole time. The second math block was assembled, in difficulty, by how the first one went. The total sitting ended sooner than expected. Nothing was wrong with the studying. The studying was simply aimed at a version of the exam that the College Board retired, and the gap between the format that was prepared for and the format that was administered is the single most expensive misunderstanding in test prep right now.

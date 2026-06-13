@@ -9,6 +9,7 @@ excerpt: "SAT cross-section adaptive effects explained: why Reading and Writing 
 tags: ["SAT", "Digital SAT", "Adaptive Testing", "Section Scores", "Myths"]
 reading_time: 60
 lang: en
+last_updated: 2026-06-13
 ---
 There is a question that surfaces in every test-prep forum, every group chat the night before a test date, and every nervous conversation between a student and a parent who half-remembers how computer tests work. It goes like this: if I do badly on the first half of the digital SAT, does the machine hand me an easier second half on the other subject? Phrased more precisely by the students who have read a little about how the exam routes them, the worry becomes a strategy: should I deliberately tank Reading and Writing so the algorithm decides I am weak and serves me a gentler Math section? The premise behind both versions is the same, and it is wrong. Your performance in Reading and Writing has no bearing on the difficulty you face in Math, and your performance in Math has no bearing on the difficulty you face in Reading and Writing. The two halves of the test are sealed off from each other. Each one routes you on its own evidence and nothing else.
 

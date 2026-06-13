@@ -9,7 +9,7 @@ excerpt: "SAT adaptive testing: how multistage adaptation works, how it differs 
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 61
 author: "daniel-morgan"
-last_updated: 1996-01-27
+last_updated: 2026-06-13
 lang: en
 ---
 Two students sit for the same digital SAT on the same morning. Both finish the Math section having answered the identical number of questions correctly. When the reports arrive, one carries a Math score in the high 700s and the other lands in the low 600s. Nothing was broken, nothing was scored unfairly, and no one was watching either of them more closely than the other. SAT adaptive testing produced that gap on purpose, because the two test-takers did not answer the *same* questions, and the questions they answered were not worth the same amount toward the final estimate of their ability. The mechanism that creates that outcome is the single most misunderstood feature of the modern exam, and understanding it changes how a thoughtful student prepares.

@@ -9,7 +9,7 @@ excerpt: "The Bluebook app complete guide: installing, checking in, navigating a
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 60
 author: "michael-brooks"
-last_updated: 1996-02-05
+last_updated: 2026-06-13
 lang: en
 ---
 The single most avoidable way to lose points on the digital SAT is to meet the Bluebook app for the first time on test morning. A student who has practiced the content but never opened the testing software arrives fluent in algebra and grammar, then spends the opening minutes of a timed module hunting for the calculator, guessing how to mark a question for later, and wondering whether tapping an answer locks it in. None of that fumbling is on the score report as a content gap, yet it costs exactly the same as a missed question: time bled away, attention split, and a small panic that ripples into the next item. This guide removes that variable completely. By the end of it you will know where every tool sits, what each button does, how check-in works in the days before the exam, and what actually happens if your laptop freezes mid-section.

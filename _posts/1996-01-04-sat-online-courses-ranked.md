@@ -9,7 +9,7 @@ excerpt: "SAT online courses ranked: free and paid options reviewed, the ROI of 
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1996-01-04
+last_updated: 2026-06-13
 lang: en
 ---
 A parent sits with a credit card and three browser tabs open. One tab holds a fifteen-hundred-dollar live class with a guarantee printed in confident type. The second holds a self-paced video library for a couple hundred dollars a month. The third holds the free official program that the College Board built and gives away. The instinct, almost universal, is that the most expensive tab is the safest bet, because surely a price that high is buying something the free tab cannot. That instinct is where most prep money goes to die.

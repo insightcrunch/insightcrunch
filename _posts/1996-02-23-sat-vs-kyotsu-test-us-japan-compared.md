@@ -9,7 +9,7 @@ excerpt: "SAT vs the Kyotsu test compared: a single holistic factor against Japa
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 59
 author: "yamamoto-kenji"
-last_updated: 1996-02-23
+last_updated: 2026-06-13
 lang: en
 ---
 A student in Yokohama sits two exams in the same admissions cycle, and the two could not be built on more different assumptions. One is the Common Test for University Admissions, the national exam most people in Japan still call the Kyotsu test, and it asks for measured mastery across Japanese, mathematics, a foreign language, the sciences, and the social studies. The other is the SAT, the College Board reasoning exam that a US-bound applicant adds to a holistic file, and it asks almost the opposite question: not how much you have learned across the school curriculum, but how well you reason with a deliberately narrow band of mathematics and English on a single afternoon. Put the two side by side and the contrast is not really about difficulty. It is about what each country decided an entrance exam is for.

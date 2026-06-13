@@ -9,7 +9,7 @@ excerpt: "SAT tutoring ROI explained: when a tutor is worth it, when it is not, 
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 59
 author: "hannah-moore"
-last_updated: 1995-12-31
+last_updated: 2026-06-13
 lang: en
 ---
 A family books a private tutor the moment a first practice score comes back below target, often before anyone has looked at why the points were lost. That single reflex is the most common way money leaves a college-prep budget without buying any points back. A tutor is not a score increase. A tutor is a delivery system for instruction, and a delivery system only pays when the thing it delivers is the thing you were missing. Hire one to fix a problem you have correctly diagnosed and the spend can return more points per dollar than almost any other prep choice. Hire one because the score scared you, and you can spend four figures to be taught material that a free practice review would have surfaced for nothing.

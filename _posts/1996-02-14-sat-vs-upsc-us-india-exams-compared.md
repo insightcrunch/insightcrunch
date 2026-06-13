@@ -9,7 +9,7 @@ excerpt: "SAT vs UPSC: two society-defining exams at different life stages, thei
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 1996-02-14
+last_updated: 2026-06-13
 lang: en
 ---
 Somewhere right now a seventeen-year-old in Ohio is closing a Bluebook practice module, and somewhere a twenty-five-year-old in Uttar Pradesh is closing a thousand-page volume of post-independence Indian history. A search engine treats them as neighbors. Type "is the UPSC harder than the SAT" and the autocomplete fills in before you finish the word, because thousands of people have asked the same thing, as though the two sat on a single ladder and the only question worth settling was which rung stood higher. That framing is the most natural mistake in the world, and it is wrong in a way that is worth taking seriously, because the error is not about difficulty. It is about what an examination is for.

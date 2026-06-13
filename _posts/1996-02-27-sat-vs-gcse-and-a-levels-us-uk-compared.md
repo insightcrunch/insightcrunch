@@ -8,7 +8,7 @@ excerpt: "SAT vs GCSEs and A-Levels: reasoning breadth versus deep subject speci
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
 author: "james-whitfield"
-last_updated: 1996-02-27
+last_updated: 2026-06-13
 lang: en
 ---
 A British seventeen-year-old who has spent two years reading three subjects in real depth sits down to a sample SAT and finishes the math feeling underwhelmed, then loses points on a reading question that asks nothing about content and everything about how a short paragraph is built. An American junior who has trained for that same reading question stares at a past A-Level chemistry paper and cannot start, because the paper assumes a body of memorized mechanism that the reasoning test never asked for. Both teenagers are strong. Both are about to misjudge the other system, and the misjudgment will cost a family money, time, and sometimes an entire application strategy.

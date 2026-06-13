@@ -9,7 +9,7 @@ excerpt: "SAT test center logistics: finding a center, arrival and check-in, dev
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
 author: "christopher-wells"
-last_updated: 1996-01-18
+last_updated: 2026-06-13
 lang: en
 ---
 Two students sit down for the same digital exam with the same scores in practice. One walks in with a laptop charged to full, a photo ID that matches the registration exactly, the testing app already updated and signed in, and a clear memory of which building the proctor said to enter. The other arrives eleven minutes late after circling a community college parking lot, hands over a school ID the proctor cannot accept, and then watches a battery icon turn red during the second module because the charger is sitting on a kitchen counter at home. Nothing about reading comprehension or quadratic equations separated those two outcomes. Logistics did. The points the second student lost were never academic points. They were focus points bled away by avoidable friction, and they are the easiest points on the entire exam to protect, because protecting them costs nothing but a checklist and an evening of preparation.

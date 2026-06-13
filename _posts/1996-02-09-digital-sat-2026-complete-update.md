@@ -9,7 +9,7 @@ excerpt: "Digital SAT 2026 update: format and policy changes, test dates and fee
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
 author: "natalie-webb"
-last_updated: 1996-02-09
+last_updated: 2026-06-13
 lang: en
 ---
 A student sits down in February, opens a prep book a cousin used three years ago, and starts studying a paper exam with a separate essay, a no-calculator section, and a wrong-answer penalty. None of that describes the assessment they will actually take. The biggest risk going into the Digital SAT 2026 cycle is not a hard algebra item or a tricky inference question. It is preparing for a version of the exam that no longer exists, registering against deadlines that have already passed, and walking into an admissions season with last year's test-optional map in your head.

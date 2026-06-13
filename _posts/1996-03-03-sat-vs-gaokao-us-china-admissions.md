@@ -9,7 +9,7 @@ excerpt: "SAT vs Gaokao compared: format, content depth, cultural weight and pre
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "he-xiaomei"
-last_updated: 1996-03-03
+last_updated: 2026-06-13
 lang: en
 ---
 Ask a roomful of American parents whether the SAT or the Gaokao is harder, and most will pick the Gaokao on instinct, picturing nine hours of testing, a single irreversible morning, and a nation that treats the result as destiny. Ask which exam carries more raw academic content, and they will pick the Gaokao again. Both instincts are partly right and almost entirely beside the point. The SAT vs Gaokao question is not a contest with a winner; it is a window into two countries that have built fundamentally different machines for sorting and selecting young people, and the machines reveal what each society believes a measurement is for.
