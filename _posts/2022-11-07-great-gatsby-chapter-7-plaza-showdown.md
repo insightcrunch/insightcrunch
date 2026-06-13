@@ -7,14 +7,14 @@ last_updated: 2022-11-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 7", "Plaza Hotel Scene", "Close Reading", "Climax", "Daisy Buchanan"]
 excerpt: "The Plaza Hotel showdown is the real climax of The Great Gatsby Chapter 7. A close reading of how Daisy's honest qualifier, not Tom's force, breaks Gatsby."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
+lang: en
 ---
-
 The Great Gatsby reaches its true climax not on a road or in a mansion but inside a rented parlour at the Plaza Hotel, where five overheated people talk a marriage and a dream to pieces in an afternoon. The Plaza Hotel showdown is the scene the whole first half of the novel has been driving toward, and it resolves the central contest of the book with a single qualified sentence rather than a blow. Read carelessly, it looks like a shouting match Tom Buchanan wins by being louder and richer. Read closely, it is the precise moment Jay Gatsby's plan to repeat the past collapses, defeated by four words Daisy will not take back.
 
-![The Plaza Hotel showdown in The Great Gatsby Chapter 7 analyzed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Plaza Hotel showdown in The Great Gatsby Chapter 7 analyzed - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 This article reads the Plaza scene line by line, tracks who gains and who loses ground through each exchange, and isolates the exact admission that ends Gatsby's claim on Daisy. The argument it defends is simple to state and easy to prove from the page: Gatsby does not lose because Tom overpowers him, and he does not lose because of anything that happens later on the dark road home. He loses inside the suite, in the gap between what he demands of Daisy and the most she is willing to say.
 

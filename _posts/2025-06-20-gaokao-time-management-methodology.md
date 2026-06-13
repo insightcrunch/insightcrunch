@@ -6,14 +6,14 @@ date: 2025-06-20
 categories: ["Industry"]
 tags: ["Gaokao", "时间管理", "学习计划", "专注力", "番茄工作法", "备考方法"]
 excerpt: "高考备考拼的从来不是坐在桌前的小时数,而是真正专注的小时数,前者可以无限堆叠,后者却有上限。本指南带你诚实测量真实专注时长,设计可持续的每日计划与每周节奏,用番茄工作法、学习单元设计与学科轮换稳定提升效率,管住手机干扰,守住睡眠预算,做好每周复盘,并把这套方法一路延伸到考场,帮你高效备考而不透支身体与状态。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "lin-shuyi"
+lang: zh
 ---
-
 很多高三学生都有过这样的体验:晚上十点合上书本,回想一整天,明明从早自习坐到熄灯,身体疲惫不堪,心里却隐约觉得没干成什么实事。第二天再来一遍,周而复始。问题往往不在于不够刻苦,而在于一个被普遍误解的概念:备考拼的从来不是你坐在桌前的钟点总数,而是你真正全神贯注投入的那部分。前者几乎可以无限堆叠,后者却有明确的上限。懂得区分这两者,正是把高三这一年过得高效而不崩溃的关键。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-103.webp)
 *高考时间管理的核心:测量真实专注时长,设计可持续的每日与每周节奏*
 
 这篇指南不打算劝你"再多熬两小时",恰恰相反。它要帮你把模糊的"我学了一整天"拆解成可以测量、可以改进的具体单元,教你设计一套即使在状态低落时也能照常运转的节奏,并把这套方法一直延续到考场之上。如果你刚开始接触系统的备考方法,建议先读一读这份[高考完全指南](/2026/03/18/gaokao-complete-guide/),对整个流程有个全局认识,再回到时间管理这个具体维度上来。

@@ -6,14 +6,15 @@ date: 2022-09-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 5", "Close Reading", "The Green Light", "Jay Gatsby", "American Literature"]
 excerpt: "Great Gatsby Chapter 5 summary and analysis of the Gatsby and Daisy reunion, the novel's turning point where the dream is touched and the green light dims."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-09-19
+lang: en
 ---
 Everything the first half of the novel promises arrives in Great Gatsby Chapter 5, and the cost of that arrival is the chapter's real subject. For four chapters Jay Gatsby has been a rumor, a host who does not drink, a man who stretches his arms toward a green light he cannot reach. Here he finally stands in a room with Daisy Buchanan, and the structural heart of the book turns on a paradox that most first readings miss: the moment the dream is touched is the moment it begins to shrink. This is the canonical close reading of the chapter, written so that you leave able to argue why the reunion is not a climax of joy but the quiet beginning of the novel's decline.
 
-![Great Gatsby Chapter 5 summary and analysis of the Gatsby and Daisy reunion - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Great Gatsby Chapter 5 summary and analysis of the Gatsby and Daisy reunion - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Fitzgerald places the reunion at the dead center of a nine-chapter book, and the placement is not an accident. The first four chapters build longing; the last four spend it. Chapter five is the hinge between them, the pressure point where everything Gatsby has constructed meets the woman it was constructed for. To read the chapter well is to watch a man get exactly what he wants and to notice, in the same breath, the first crack opening in the wanting itself. If you have only ever absorbed the plot, you know that Gatsby and Daisy meet again over tea at Nick's cottage and then tour the mansion. The argument of this piece is that what happens between those two events is the most important emotional reversal in the novel, and that Fitzgerald stages it with a precision worth tracking line by line.
 

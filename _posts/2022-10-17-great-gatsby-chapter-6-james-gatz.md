@@ -6,15 +6,15 @@ date: 2022-10-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 6", "Jay Gatsby", "James Gatz", "Close Reading", "Character Analysis", "American Literature"]
 excerpt: "Great Gatsby Chapter 6: James Gatz revealed shows the poor North Dakota boy who invented Jay Gatsby at seventeen, the self-creation that drives the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2022-10-17
+lang: en
 ---
-
 Great Gatsby Chapter 6: James Gatz revealed is the moment the whole novel stops pretending it is a love story and admits what it has been about all along: a man who made himself out of nothing and then could not stop. For five chapters Fitzgerald lets the rumors run, the bootlegging whispers, the cousin of Kaiser Wilhelm, the man who killed someone once, and then Nick walks into the middle of the book and quietly tells us the one fact that explains everything. The boy was named James Gatz. He came from North Dakota. His parents were poor farmers. And at seventeen, watching a millionaire's yacht drop anchor on Lake Superior, he decided to become someone else entirely. Read carefully, this passage is not backstory tucked into a quiet chapter. It is the engine of the book, exposed for one page so the reader can see the gears turning before the machine drives Gatsby into the ground.
 
-![James Gatz revealed in The Great Gatsby Chapter 6, the self-creation of Jay Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![James Gatz revealed in The Great Gatsby Chapter 6, the self-creation of Jay Gatsby explained - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 This article reads the Gatz reveal as it actually occurs in Chapter 6, in its place, in its sequence, and in the strange voice Nick uses to deliver it. The standalone study of James Gatz across the whole novel handles the figure as a lifelong subject; here the concern is narrower and sharper. What does this particular page do, planted where it is, told the way it is told? The claim this reading defends is simple to state and unsettling to sit with: Gatsby is the man who fathered himself. Every later scene, the pursuit of Daisy most of all, reads differently once you understand that Gatsby is not chasing a woman so much as completing an act of self-authorship he began as a teenager on a beach.
 

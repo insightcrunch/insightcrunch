@@ -6,15 +6,15 @@ date: 2022-10-31
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 7", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Great Gatsby Chapter 7 summary and analysis: how the hottest day runs from the Plaza confrontation to Myrtle's death, and the exact moment the dream dies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2022-10-31
+lang: en
 ---
-
 Most readers come to a Great Gatsby Chapter 7 summary and analysis looking for the body count: who dies, who was driving, what the newspapers got wrong. That instinct is understandable, because Chapter 7 ends with a woman dead on a dark road and a man marked for murder he has not yet suffered. Yet the death on the road is not where the chapter turns. The decisive blow lands hours earlier, in a stifling hotel suite, when Daisy is asked to say one sentence and finds she cannot say it. Everything after that, including the killing, is consequence. Read the longest and hottest chapter in the novel around that single failed sentence rather than around its many spectacular events, and the whole architecture of the book snaps into focus.
 
-![Great Gatsby Chapter 7 summary and analysis of the Plaza confrontation and Myrtle's death - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Great Gatsby Chapter 7 summary and analysis of the Plaza confrontation and Myrtle's death - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 This chapter is the hinge on which the entire story swings from rising hope to certain ruin. Up to now Gatsby has been gaining ground: the reunion in Chapter 5, the recovered intimacy, the sense that the past might genuinely be rebuilt. Chapter 7 stops that ascent and reverses it inside a single sweltering afternoon, compressing months of pressure into a few hours so that the collapse feels both sudden and inevitable. To follow that reversal closely is to understand why so many readers, even ones who finish the book moved and shaken, still cannot say exactly when the dream actually ended. It ended in a sentence, and this chapter is the place to learn to hear it.
 

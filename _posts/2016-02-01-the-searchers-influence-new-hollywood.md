@@ -6,15 +6,15 @@ date: 2016-02-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Searchers", "John Ford", "Western", "Film Analysis", "Film History", "Directors"]
 excerpt: "The Searchers turned the western on its own racism and gave New Hollywood its enduring damaged hero, the searcher who restores a home he can never enter."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-02-01
+lang: en
 ---
-
 There is a film the generation that built modern American cinema watched the way other people study scripture, and it is The Searchers. Martin Scorsese has called John Ford's 1956 western one of his favorite pictures and returned to it before starting work of his own. George Lucas borrowed its imagery wholesale. Paul Schrader rewrote its plot twice. Steven Spielberg copied its most famous shot frame for frame. When a single western directed by a self-deprecating Irishman who described himself as a man who made westerns turns out to be the hidden engine behind Taxi Driver, Star Wars, Close Encounters of the Third Kind, and Saving Private Ryan, the interesting question is no longer whether the work matters. It is how exactly the influence traveled, what specific images and ideas proved portable enough to carry across genres and decades, and why a story this morally compromised became the template the next era of directors could not put down.
 
-![How The Searchers shaped New Hollywood, an influence and legacy analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How The Searchers shaped New Hollywood, an influence and legacy analysis - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 The short version of the answer lives in two shots that bookend the picture. The Searchers opens in total darkness. A door swings inward, and the black rectangle of the screen fills with the blazing red mesas of Monument Valley as a woman steps onto the porch to watch a rider approach across the desert. It closes on the mirror of that image: the same doorway, the same frame of darkness around the bright world outside, with John Wayne's Ethan Edwards standing alone on the threshold, the rescued girl carried past him into the house, the family reunited inside, and the door swinging shut on a man who has no place in the home he just restored. Between those two doorways lies a seven-year hunt driven as much by racial hatred as by love, and the whole argument of the film, along with the whole argument of its influence, is contained in the difference between a man framed entering the wilderness and a man framed unable to leave it. That is the legacy in miniature. The Searchers gave American cinema the hero who cannot come inside.
 

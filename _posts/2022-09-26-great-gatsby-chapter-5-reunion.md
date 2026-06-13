@@ -6,15 +6,15 @@ date: 2022-09-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 5", "Jay Gatsby", "Daisy Buchanan", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby Chapter 5 reunion brings Gatsby and Daisy together at last, where rain, a knocked clock, and a slow thaw turn dread into overwhelming joy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-09-26
+lang: en
 ---
-
 The Great Gatsby Chapter 5 reunion is the scene the first four chapters have been quietly engineering, and it is also the moment Fitzgerald chooses to make almost unbearable to watch. For four chapters Gatsby has been a rumor, a light, a host who does not drink, a name spoken across a lawn. Everything the reader has gathered about his longing points to one event: the afternoon he finally stands in a room with Daisy Buchanan again. When that afternoon arrives, Fitzgerald does not stage a triumphant embrace. He stages a man so frightened he nearly flees, a clock that almost shatters, a downpour, and a silence so heavy that the narrator wants to crawl out of his own skin. The reunion is the structural heart of the novel, but it earns that title not by delivering the dream and ending the story; it earns it by showing, in the space of one rainy afternoon, the precise instant when the dream is touched and begins to shrink.
 
-![The Gatsby and Daisy reunion scene in The Great Gatsby Chapter 5 explained, with the broken clock and the rain - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Gatsby and Daisy reunion scene in The Great Gatsby Chapter 5 explained, with the broken clock and the rain - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 Read this scene closely and you stop seeing a love story and start seeing a study in what happens when a fantasy is finally allowed to collide with a person. The reunion owns a single defining gesture, the one this analysis will return to and name: Gatsby, leaning back in a paralysis of nerves, knocks a stopped clock with his head and lunges to catch it before it falls. That clock is not decoration. It is the novel telling you, in one trembling object, that the man in the room is trying to stop time and reset it five years backward, and that the attempt is as precarious as a piece of broken machinery teetering on a mantel. The whole reading below builds outward from that catch.
 
