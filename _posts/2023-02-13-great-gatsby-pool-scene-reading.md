@@ -6,15 +6,15 @@ date: 2023-02-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 8", "Close Reading", "Jay Gatsby", "Themes", "American Literature"]
 excerpt: "The pool scene in The Great Gatsby stages the novel's quietest death. A close reading of the unused pool, the turning season, and the stillness on the water."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-02-13
+lang: en
 ---
-
 The pool scene in The Great Gatsby is the quietest death in American fiction, and that quiet is the whole point. Gatsby owns a swimming pool he has not entered once all summer, and he chooses to use it for the first time on the morning he is killed. Nothing about the moment announces itself as a climax. There is no struggle on the page, no last words, barely a ripple. A man floats on an inflatable mattress in still water while the season turns toward autumn around him, and the violence, when it arrives, is reported almost as an afterthought. Reading this passage closely, rather than skating over it as the setting where the plot disposes of its hero, is where the novel rewards a patient eye.
 
-![The Great Gatsby pool scene close reading](/assets/images/blog/blog-01.webp)
+![The Great Gatsby pool scene close reading](/assets/images/blog/blog-74.webp)
 
 Most readers reach Chapter 8 braced for catastrophe and treat the water as a backdrop, a convenient location for George Wilson to find his target. That reading misses almost everything Fitzgerald built into the scene. The unused pool, the timing on the last warm day, the stillness of the water, the leaves beginning to fall, the wind that nudges the mattress on its accidental course: every one of these details does interpretive work. They compose a portrait of belatedness, of a man stepping into a summer that has already left without him. The murder is the least interesting thing in the passage. What surrounds it, the arrangement of small physical facts into a single resonant image, is the close reading this article is about.
 ## Where the Pool Scene Sits in the Novel's Arc

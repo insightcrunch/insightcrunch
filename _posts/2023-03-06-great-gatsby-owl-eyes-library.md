@@ -6,15 +6,15 @@ date: 2023-03-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Owl Eyes", "Chapter 3", "Close Reading", "Jay Gatsby", "Symbolism"]
 excerpt: "Reading the Owl Eyes library scene in The Great Gatsby: how one drunk guest and a shelf of real but uncut books expose the logic of Gatsby's performance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-03-06
+lang: en
 ---
-
 A drunk man in enormous spectacles sits alone in a Gothic library at the height of the loudest party on Long Island, and what he says about the books on the shelves tells you more about Jay Gatsby than the host says about himself in nine chapters. Reading the Owl Eyes library scene is the quickest way into the central problem of the whole novel, because this minor figure, two drinks past sober and squinting through owl-eyed glasses, performs the one act of genuine close reading that anyone manages at a Gatsby party. He picks up a book, he opens it, and he discovers that the most lavish display of culture in the house is real and untouched at the same time. The Owl Eyes library scene in The Great Gatsby is short, comic, and easy to skim past on a first read, yet it is one of the most precisely engineered moments Fitzgerald wrote, a single image that holds the entire logic of Gatsby's self-construction.
 
-![The Great Gatsby Owl Eyes library scene](/assets/images/blog/blog-01.webp)
+![The Great Gatsby Owl Eyes library scene](/assets/images/blog/blog-48.webp)
 
 This article reads that scene line by line and argues that it is not a throwaway gag but a key. The drunk guest is the novel's first real critic of Gatsby, and the books are the first hard evidence that the man at the center of all this spectacle has built an authentic surface around an empty interior. To get there, you have to slow the scene down, take its small details seriously, and resist the two easy readings that swallow it: that Owl Eyes is comic relief and nothing more, and that the books are simply a sign of wealth. Neither is wrong, exactly. Both stop one step short of what the scene is doing.
 

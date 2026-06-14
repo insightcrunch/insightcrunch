@@ -6,15 +6,15 @@ date: 2023-01-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 4", "Close Reading", "Themes", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The guest-list passage in The Great Gatsby reads like a comic party roster but works as an early obituary, naming the careless, doomed crowd at its height."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2023-01-30
+lang: en
 ---
-
 Most readers skim it. The guest-list passage in The Great Gatsby, the long roll call of party names that opens Chapter 4, looks at first like a comic interlude, a stretch of invented surnames a reader can glide over on the way back to the plot. That instinct to skim is exactly what Fitzgerald is counting on, and it is exactly what a strong reading refuses. Slow the page down and the catalogue stops being filler. It becomes a compressed portrait of an entire social world, sorted by geography, ranked by money, and quietly seeded with disaster. The names are funny. The fates attached to several of them are not.
 
-![The guest-list passage in The Great Gatsby Chapter 4 close reading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The guest-list passage in The Great Gatsby Chapter 4 close reading - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 This article owns that single stretch of text. It reads the catalogue of party guests line by line, shows how a seeming digression delivers a whole panorama of Long Island society, and argues that the roll call of names functions less like a celebration and more like an early obituary. The central claim is simple enough to carry into an exam and specific enough to defend from the page: the party reads as a guest list and works as an obituary, naming a careless crowd and noting, in passing, how many of them came to bad ends.
 
@@ -105,7 +105,6 @@ The roll call also registers the unattached and the merely useful, the human fil
 The catalogue closes its disasters with its bleakest. Young Brewer appears with his nose shot off in the war, a wound that drags the recent slaughter of the trenches directly onto the festive lawn and reminds the reader that this glittering crowd is, to a man, a postwar crowd. And the final fate the roll call records is Henry L. Palmetto, who killed himself by jumping in front of a train in Times Square, a suicide stated in the same flat tone as a funny surname, dropped near the end of the list like a closing chord. The catalogue ends, in effect, on a death, and the placement is not accidental. Having sorted, satirized, and ranked its crowd, the passage leaves the reader with a man stepping in front of a train, the logical terminus of a world that lives this carelessly and pays in exactly this coin.
 
 
-
 ## Nick as cataloguer: narration and complicity
 
 The catalogue is one of the clearest windows in the novel onto how Nick Carraway narrates, and reading it for its narration rather than its content adds a whole layer. The act of writing the names down is itself characterizing. Nick is the kind of man who keeps records, who sits with an old timetable and transcribes a summer's worth of acquaintances into the margins of a discarded schedule. That impulse to inventory, to fix the chaotic social swirl into an orderly column, tells the reader as much about the narrator as about the crowd. Nick imposes order on the party the way a bookkeeper imposes order on accounts, and the catalogue is the ledger.
@@ -149,7 +148,6 @@ The movie people, gathered into their own clause, mark the freshest fortune of a
 It reveals the Jazz Age as a world of fast, freshly made, often illegal money, sorted into a loose hierarchy the catalogue maps with comic precision. The movie people, promoters, importers, and bootleggers embody the era's surging postwar wealth, while the disasters threaded among them expose the cost beneath the glitter.
 
 The war sits inside the catalogue too, quieter but unmistakable. This is a crowd assembled only a few years after the armistice, and the maimed young man with his nose shot off carries the trenches onto the festive grass. The Great War is the unspoken pressure behind the era's frantic gaiety, the reason the decade drinks and dances as if making up for lost time, and the catalogue lets that history surface for exactly one clause before the comedy resumes. The effect is to remind the reader that the careless world has a recent and bloody origin, that the party is in part a flight from memory, and that the wounds it would rather forget keep wandering, uninvited, onto the lawn. The maimed young man is not mourned or even paused over; he is named and passed, his ruined face one more entry between two comic surnames. That refusal to dwell is the cruelest accuracy of the whole passage, because it shows a society that has decided the war is over and the dead are not to be discussed, even as the survivors limp through its garden parties. For the broader historical frame that shaped the world this crowd belongs to, the way the boom, prohibition, and the war converge in the novel's setting, the context articles in the series read that period against the specific scenes it illuminates.
-
 
 
 ## What the passage sets up and what it pays off

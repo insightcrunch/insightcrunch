@@ -6,15 +6,15 @@ date: 2023-02-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 7", "Close Reading", "Themes", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The Great Gatsby car crash sequence in Chapter 7, read step by step: who was driving, the fatal hit-and-run, and the cover-up that reroutes the blame."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-02-06
+lang: en
 ---
-
 The car crash sequence in The Great Gatsby is the moment the novel stops threatening violence and delivers it. For six and a half chapters Fitzgerald has been stacking pressure, the affairs, the heat, the rivalry between old money and new, and in the back half of Chapter 7 all of it collapses into a single stretch of road outside Wilson's garage. Myrtle Wilson runs into the path of a yellow car, the car does not stop, and within a day two more people are dead because of it. Read carelessly, the scene looks like bad luck, a woman in the wrong place at the wrong moment. Read closely, it is something colder and more deliberate: a chain of choices, each one careless, each one made by someone who could have chosen otherwise, locking together until the outcome is no longer avoidable.
 
-![The Great Gatsby car crash sequence in Chapter 7 explained step by step - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby car crash sequence in Chapter 7 explained step by step - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 This article tracks that chain link by link. It separates what actually happens from what the characters and the newspapers say happened, because the gap between those two accounts is where the chapter does its real work. The single most repeated error about this scene, that Gatsby was at the wheel, is not a careless reader's mistake so much as the exact false impression the novel engineers and then leaves standing. Following the sequence precisely, who drove which car, who switched with whom, who saw the impact, and who decided afterward what the world would be told, is the only way to see how Fitzgerald turns a road accident into a verdict on a class of people. The death itself, the brutal second when Myrtle is struck, is treated in depth in the close reading of [Myrtle's death scene in Chapter 7](/2022/11/14/great-gatsby-chapter-7-myrtle-death/); this article holds the wider frame, the whole motion from the car switch through the cover-up.
 

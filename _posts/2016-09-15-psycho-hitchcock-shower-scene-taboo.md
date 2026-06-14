@@ -6,13 +6,15 @@ date: 2016-09-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Psycho", "Alfred Hitchcock", "Horror", "Slasher", "Film Analysis"]
 excerpt: "Psycho killed its star in a motel shower and remade horror for good. How Hitchcock broke 1960's rules, reshaped moviegoing, and fathered the slasher film."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-09-15
+lang: en
 ---
-
 A film teaches you how to watch it in its first ten minutes. It tells you who matters, whose eyes you will see through, and roughly how long the ride will last. By that unspoken agreement, the woman you follow for the opening third is the person whose story you are watching. Psycho takes that agreement, lets you settle into it, and then drives a kitchen knife through it about forty-seven minutes in. The star is dead, the money she stole becomes a footnote, and you are left in a dark theater with no one to follow and a young man with a mother problem. That rupture, more than any single image of blood, is the thing that made audiences scream in 1960 and the thing that scholars still circle today.
+
+![Psycho: The Shower Scene That Reshaped Horror - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The story most people tell about Psycho shrinks to one location: a shower, a curtain, a knife, a scream. That scene earns its fame, and this piece will take it apart frame by frame. But the reason the film fathered modern horror is larger than forty-five seconds of footage. Hitchcock did something structurally heretical, marketed it with a gambit no studio had tried, and relocated terror from the haunted European castle to an ordinary American roadside motel and the house on the hill behind it. Call it the claim this article defends: terror brought home. Psycho moved dread out of the gothic past and into the plumbing, the parlor, and the family, and that domestication is the rupture every slasher and home-invasion film since has inherited.
 

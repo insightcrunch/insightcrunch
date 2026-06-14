@@ -6,14 +6,14 @@ date: 2025-02-27
 categories: ["Industry"]
 tags: ["高考", "高考FAQ", "高考常见问题", "Gaokao", "FAQ"]
 excerpt: "最全面的高考常见问题集中解答,涵盖这场全国统一招生选拔的基础认知、报考资格、科目选择与考试模式,再到评分赋分规则、备考方法与时间规划、考场临场应对、成绩查询与分数线解读、志愿填报与录取流程,以及复读决策、艺术体育等特殊群体、国际升学路径与常见心理误区,集中汇总一百多个核心疑问并逐一给出清晰可靠的答案。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "xu-meifang"
+lang: zh
 ---
-
 每年都有上千万考生和家庭走进这场全国统一招生选拔，而围绕它的疑问几乎从未停歇。从一个初三学生第一次听说"选科"开始，到高三冲刺阶段对赋分规则的反复推敲，再到出分后填报志愿时的彻夜难眠，每一个阶段都会冒出大量看似简单却又难以一句话说清的问题。本文把这些高频疑问集中起来，按照认知、报名、科目、评分、备考、考场、出分、录取、复读、特殊群体、国际视角、常见误区十二个板块逐一拆解，力求让读者无论处于备考的哪个节点，都能快速找到属于自己的那条答案。如果你想先从宏观上把握整套制度，可以先读[高考完全指南](/2026/03/18/gaokao-complete-guide/)，再回到本文逐条对照。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-17.webp)
 *一百多个高频疑问的集中解答，帮助考生与家长厘清备考全流程*
 
 ## 一、基础认知：这场考试到底是什么

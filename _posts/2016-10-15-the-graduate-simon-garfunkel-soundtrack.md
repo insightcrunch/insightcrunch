@@ -6,13 +6,15 @@ date: 2016-10-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Graduate", "Mike Nichols", "New Hollywood", "Film Scores", "Film Analysis", "World Cinema"]
 excerpt: "The Graduate scored its drift with Simon and Garfunkel records rather than original music, a pop-scoring landmark that reshaped how cinema used sound."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-10-15
+lang: en
 ---
-
 A young man rides an airport walkway toward the camera, motionless while the floor carries him forward, and a folk-rock record begins to murmur over the image. He is going somewhere without taking a single step, delivered by a machine to a future he never chose, and the song that accompanies him is not a piece of original underscore commissioned to flatter the scene. It is a record that thousands of listeners already owned. That opening is the whole argument of The Graduate compressed into ninety seconds. Mike Nichols built his 1967 comedy of postgraduate paralysis on a soundtrack of existing pop recordings by Simon and Garfunkel, and in doing so he taught American cinema a lesson it has never unlearned: a movie can score itself with the records its audience already loves, and the borrowed song can carry a film's emotional through-line more truthfully than music written to order.
+
+![The Graduate: How Pop Songs Became Its Score - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 This is an essay about how The Graduate sounds, and about why the way it sounds changed the way movies everywhere would handle music. The film follows Benjamin Braddock, played by Dustin Hoffman in the role that made him a star, a freshly minted college graduate who drifts home to his wealthy parents in California with a chest full of awards and not one idea about what he wants. He slides into an affair with the older, married Mrs. Robinson, the friend of his parents played by Anne Bancroft, then falls for her daughter Elaine, played by Katharine Ross, and chases her toward an ending that has been argued over for decades. The plot is a sturdy enough comedy of manners. What lifts the picture into permanence is the marriage of that drift to a handful of melancholy folk-rock tracks, the sound binding itself to the generation that bought the albums. The way Nichols deployed those tracks is the subject of everything that follows.
 

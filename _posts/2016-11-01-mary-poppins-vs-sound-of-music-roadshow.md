@@ -6,13 +6,13 @@ date: 2016-11-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Mary Poppins", "The Sound of Music", "Robert Wise", "Musicals", "Film History", "World Cinema"]
 excerpt: "Mary Poppins and The Sound of Music perfected the lavish roadshow musical just as New Hollywood made the form obsolete. A comparative verdict on both."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-11-01
+lang: en
 ---
-
-![How Mary Poppins and The Sound of Music perfected the roadshow musical, a comparative analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Mary Poppins and The Sound of Music perfected the roadshow musical, a comparative analysis - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 Within twelve months, the same studio system released two musicals that would define the family blockbuster for a generation, and the same young Englishwoman stood at the center of both. Mary Poppins arrived from Walt Disney in 1964, and The Sound of Music followed from Twentieth Century-Fox in 1965, and Julie Andrews carried each on a voice and a bearing that seemed engineered for exactly this kind of picture. The two films are routinely shelved together, spoken of in one breath as the wholesome high-water mark of the old Hollywood musical, the sort of thing a certain audience grew up on and a certain audience grew tired of. That shelving is not wrong, but it flattens a real argument. These are not the same picture twice. They were made by different studios with different aims, they solve different problems, and they have aged along different curves. Setting them directly against each other is the most useful way to see what the lavish studio musical could still do at the precise moment it was about to be swept aside.
 

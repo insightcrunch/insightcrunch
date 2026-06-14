@@ -6,15 +6,15 @@ date: 2023-01-23
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 3", "Chapter 6", "Close Reading", "Themes", "American Literature"]
 excerpt: "The two party scenes compared in Gatsby show how a single spectacle inverts in meaning once Daisy, not Nick, becomes the eyes watching the same evening."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2023-01-23
+lang: en
 ---
-
 Fitzgerald stages two enormous nights at Gatsby's mansion, and with the two party scenes compared side by side, the novel quietly performs one of its sharpest tricks: it shows you the same glittering machine twice and lets it mean opposite things. The first gathering, in Chapter 3, arrives as wonder. The second, in Chapter 6, arrives as something curdled and sad. Nothing about the orchestras, the imported oranges, the floating cocktails, or the host who hovers at the edge of his own celebration has fundamentally changed. What has changed is who is watching, and that single difference is the whole point. The two party scenes are not a repetition. They are a measurement of how far Gatsby's dream has traveled between hope and its failure.
 
-![The two Gatsby party scenes compared in Chapter 3 and Chapter 6 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The two Gatsby party scenes compared in Chapter 3 and Chapter 6 - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 Read carefully, these two evenings form a matched pair, a controlled experiment that Fitzgerald runs on his own narrative. He holds the variables nearly constant and alters only the perspective, then invites the reader to register the result. The Chapter 3 fete dazzles a curious, half-drunk Nick Carraway who has never seen anything like it. The Chapter 6 fete repels Daisy Buchanan, who has seen plenty and finds this version cheap. Place the two beside each other and the spectacle becomes a mirror that reflects the viewer rather than the room. That is the reading this article defends, and it is the reading that turns a pair of crowded set pieces into the structural hinge of the book.
 

@@ -6,15 +6,15 @@ date: 2023-02-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Chapter 7", "Close Reading", "Themes", "American Literature"]
 excerpt: "Nick's thirtieth birthday slips past almost unnoticed in Chapter 7 of The Great Gatsby. A close reading of why Fitzgerald buries it on the day Myrtle dies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 49
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-02-20
+lang: en
 ---
-
 There is a line in the seventh chapter of The Great Gatsby that most readers pass over without a second thought, and Nick's thirtieth birthday is the quietest catastrophe in a chapter full of louder ones. It arrives in a single sentence, spoken aloud in a hot car on the drive back from the Plaza Hotel, and Fitzgerald gives it no fanfare, no chapter break, no white space to mark its weight. The reader who is tracking the affair, the confrontation, and the coming wreck almost never registers that the narrator has just crossed a threshold of his own. That near invisibility is the point. The birthday is buried on purpose, and learning to read why is one of the cleanest demonstrations of how this novel rewards attention to the line rather than the plot.
 
-![Nick's thirtieth birthday moment in The Great Gatsby Chapter 7 close reading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nick's thirtieth birthday moment in The Great Gatsby Chapter 7 close reading - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 This article does one narrow thing thoroughly. It reads the moment when Nick remembers, in the middle of someone else's disaster, that the day is his birthday and that he has turned thirty. It treats that recollection not as a stray autobiographical detail but as a deliberate structural note, placed with precision at the hinge of the novel, and it argues that the buried milestone is Fitzgerald quietly reminding the reader that the man telling this story is himself aging into the disillusionment he describes. To get there we will look at where the moment sits in the nine-chapter arc, what is actually happening around it, the exact words Fitzgerald uses, the way his imagery and diction do the work, and how a student can write about a single sentence without inflating it past what it can bear.
 

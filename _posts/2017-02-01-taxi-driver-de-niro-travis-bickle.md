@@ -6,13 +6,15 @@ date: 2017-02-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Taxi Driver", "Robert De Niro", "Martin Scorsese", "New Hollywood", "Performances", "World Cinema"]
 excerpt: "Taxi Driver made Robert De Niro's Travis Bickle the screen's defining study of loneliness curdling into menace, set against alienation cinema worldwide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-02-01
+lang: en
 ---
-
 A man sits across a desk in a yellow garage, applying to drive nights. He answers the questions a beat too late, his eyes scanning the room as if the words were arriving from another country. He cannot quite meet the gaze of the dispatcher, and yet there is something coiled under the stillness, a pressure held just below the surface of an ordinary face. That face belongs to Robert De Niro, the man is Travis Bickle, and the film is Taxi Driver, Martin Scorsese's 1976 portrait in which De Niro becomes one of the most studied images of solitude ever committed to the screen. The remarkable thing about that opening, and about everything that follows it, is how little the actor seems to be doing and how much the viewer feels. The portrayal works by withholding. It refuses to perform loneliness in the usual broad strokes of sad music and downcast looks, and instead lets isolation accumulate as a texture, a way of sitting, a rhythm of speech that never finds another rhythm to meet it.
+
+![Taxi Driver: De Niro and Loneliness as Menace - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 ![Taxi Driver De Niro Travis Bickle]({{ "/assets/images/blog/blog-01.webp" | relative_url }})
 

@@ -6,15 +6,15 @@ date: 2023-02-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Telephone Calls", "Close Reading", "Motifs", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The telephone calls in The Great Gatsby form a thread of intrusion and failed connection, from the dinner that breaks apart to Gatsby's silent last day."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-02-27
+lang: en
 ---
-
 A device built to join people together runs through The Great Gatsby doing the opposite. The telephone calls that punctuate the novel, from the ringing that breaks apart the Buchanan dinner in the first chapter to the message Gatsby is said to be awaiting on the last morning of his life, form one of Fitzgerald's quietest and most deliberate threads. Read them in sequence and a pattern surfaces that no single scene declares on its own: every time a phone rings in this book, it carries intrusion, evasion, or absence rather than contact. The instrument promises connection and delivers its failure. Tracing the telephone calls across the nine chapters is not a hunt for trivia. It is a way of watching Fitzgerald measure the distance between his characters with a single recurring object, and of seeing how a comic interruption in the opening pages hardens, by the end, into the silence of a phone that never rings.
 
-![The telephone calls in The Great Gatsby traced across the novel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The telephone calls in The Great Gatsby traced across the novel - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 This reading treats the telephone as a thread of scenes rather than as a freestanding symbol. The difference matters. The symbolic weight of the instrument, what it stands for in the abstract, belongs to a separate study; here the work is to follow the calls where they actually happen in the text, to watch what each one interrupts and what it reveals, and to build from the sequence a claim about how Fitzgerald uses a modern machine to dramatize a very old human problem. People in this novel reach for one another constantly and rarely arrive. The phone is where that failure becomes audible.
 
@@ -283,5 +283,4 @@ No, and this is one of the most common misreadings to avoid. The novel never sho
 ### Q: What is the single best reading of the telephone thread?
 
 The strongest reading names the thread the line that never truly connects: in The Great Gatsby every telephone promises contact and delivers intrusion or absence, so the device invented to join people becomes the novel's most precise instrument for measuring their distance. This reading is defensible because it survives every test the text offers. There is no scene in which a call warmly reunites two estranged people, no ring that repairs rather than ruptures, and the absence of any exception across a long novel is itself the evidence of design. The marriage the instrument exposes is loveless, the crimes it half conceals fund a counterfeit identity, the word it might carry never arrives, and the funeral it should summon goes unattended. Holding that single claim and proving it call by call turns a scattered set of rings into one of the most disciplined motifs in American fiction.
-
 

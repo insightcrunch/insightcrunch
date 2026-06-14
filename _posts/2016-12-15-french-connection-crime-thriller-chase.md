@@ -6,17 +6,17 @@ date: 2016-12-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The French Connection", "William Friedkin", "Crime Thriller", "New Hollywood", "Film Analysis", "World Cinema"]
 excerpt: "The French Connection traded polished crime cinema for documentary grit, and its reckless car-versus-train chase reset what a screen thriller could feel like."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-12-15
+lang: en
 ---
-
 The crime picture that audiences walked into through the 1950s and most of the 1960s was a tidy thing. The detective was a moral instrument, the city was a backdrop dressed and lit for clarity, and the line between the law and the lawless ran clean down the middle of the frame. Then in 1971 a New York narcotics thriller arrived that treated all of that as a fiction worth abandoning. The French Connection, directed by William Friedkin and built around Gene Hackman as a brutal, obsessive cop named Jimmy "Popeye" Doyle, looked less like a movie about police work than like police work caught on the run. The camera shook. The cop was a bully. The city was filthy. The hero shot the wrong man and the villain got away. And the film won the Academy Award for Best Picture, which meant the industry had just blessed a new set of rules for what a crime thriller was allowed to be.
 
 That blessing matters because it marks a hinge. Before The French Connection, grit was an accent a crime film could reach for; after it, grit became the genre's working default, the texture every serious cop thriller would have to either adopt or consciously reject. This article reads the film as that turning point: the polish it tore down, the documentary realism it put in its place, the car-versus-train chase that reset the bar for screen action, the morally compromised cop it refused to redeem, and the way its dirty realism sits against the crime cinema being made everywhere else in the world at the same moment. The argument throughout is simple to name and worth defending in detail. The French Connection made grit the new default, and that single shift, from polish to documentary rawness and from clean heroes to compromised ones, is the change that reset the crime thriller.
 
-![The French Connection](/assets/images/blog/blog-01.webp)
+![The French Connection](/assets/images/blog/blog-112.webp)
 
 ## Before the grit: the crime picture this film broke
 
