@@ -6,15 +6,15 @@ date: 2017-02-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Network 1976", "Sidney Lumet", "Paddy Chayefsky", "New Hollywood", "Media Satire", "1970s Cinema"]
 excerpt: "Network (1976) foresaw outrage-driven television and ratings worship, and reads as prophecy. A cultural and comparative analysis of Lumet and Chayefsky."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-02-15
+lang: en
 ---
-
 A satire earns the word prophecy only when the thing it mocked arrives intact, on schedule, wearing the costume the script drew for it. By that test, Sidney Lumet and Paddy Chayefsky's Network, released in 1976, is the rare film that won the bet. It looked at the television news of its own decade, a business still pretending to a public trust, and it described, in detail, the medium that ratings logic would eventually produce: a screen that converts grievance into viewership, that prizes the size of an audience over the truth of a broadcast, and that learns to manufacture rage because rage is the cheapest, most renewable thing a programmer can sell. The film did not predict a gadget or a platform. It predicted an incentive, and incentives do not date.
 
-![Network 1976 media satire analysis](/assets/images/blog/blog-01.webp)
+![Network 1976 media satire analysis](/assets/images/blog/blog-54.webp)
 
 The historical pressure the film registers is the moment American network news stopped being a loss leader the broadcasters tolerated for prestige and started being asked to earn its keep. That shift, small and bureaucratic when it happened, is the hinge on which the whole satire turns. Chayefsky saw that once news was measured by the same yardstick as game shows and sitcoms, the content of news would bend toward whatever the yardstick rewarded, and the yardstick rewards attention. Everything Howard Beale becomes, the mad prophet of the airwaves, the ranting folk hero, the corpse killed for slipping ratings, follows from that single structural fact with the cold inevitability of a proof.
 

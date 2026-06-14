@@ -6,14 +6,14 @@ date: 2025-02-11
 categories: ["Industry"]
 tags: ["高考", "河南高考", "河南分数线", "Henan Gaokao", "Provincial Guide"]
 excerpt: "河南高考完全指南:从百万考生背后的结构性竞争格局,到一分一段位次解读、复读文化、省内郑大河大等重点院校分层分析、跨省报考与平行志愿填报策略、农村专项计划、新高考选科要点以及不同分数段的实战方法,帮中原地区的考生与家庭看清究竟难在哪里、路又在何方,把每一分都考出应有价值,在现实里找到最适合自己的那条升学路径。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "yang-bo"
+lang: zh
 ---
-
 在中国所有参加高考的省份里,如果要找一个把"竞争"二字写到极致的地方,中原大省几乎是绕不开的答案。这里每年的报名人数常年稳定在百万量级,是全国考生体量最庞大的区域之一;而与之形成强烈反差的,是省内顶尖高校资源的相对稀缺。同样一个分数,在这里换来的位次,可能和沿海发达地区、直辖市的同分考生天差地别。本文要做的,不是渲染"中原考生最惨"这种情绪化叙事,而是把这片土地上真实的升学环境一层层拆开:为什么这里难,百万考生到底在争什么,普通家庭的孩子有哪些可以走通的路。理解了这套结构,才谈得上在现实里把握自己的机会。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-50.webp)
 *中原大省百万考生的高考全景:从位次解读到院校策略的完整路线图*
 
 ## 一、百万体量的现实:先看清基本盘

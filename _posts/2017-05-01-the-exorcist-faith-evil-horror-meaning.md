@@ -6,15 +6,15 @@ date: 2017-05-01
 last_updated: 2017-05-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Exorcist", "William Friedkin", "Horror", "World Cinema", "Film Analysis"]
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 excerpt: "The Exorcist hides a crisis of faith beneath its horror: a doubting priest, a literal evil, and how it stands against the religious horror of world cinema."
+lang: en
 ---
-
 Strip away the vomit and the spinning head, and The Exorcist (1973) is a film about a priest who has stopped believing in God. William Friedkin built the most frightening mainstream picture of its decade around a quiet, devastating problem: a man trained to defend the soul can no longer feel the thing he is sworn to protect. The shocks that made audiences faint in lobbies are real, and they are not the point. They are the pressure that forces a question the modern world had agreed to stop asking out loud. If a child can be inhabited by something ancient and malign, then doubt is not a private comfort. It is a fatal weakness, and a priest who cannot believe cannot fight.
 
-![How The Exorcist stages faith and doubt as horror, a comparative analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How The Exorcist stages faith and doubt as horror, a comparative analysis - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 That is the argument hiding under the spectacle, and it is why the film unsettles people who are not religious at all. Friedkin and screenwriter William Peter Blatty, adapting his own 1971 novel, were not chasing a scare for its own sake. Blatty modeled the doubting Jesuit, Father Damien Karras, on his own wavering belief, and he wanted a picture about the mystery of faith disguised as a horror story. The disguise worked so well that for fifty years the conversation has fixated on the bile and the levitation. This analysis goes the other way. It treats the demon as the antagonist and the priest's broken faith as the subject, and it reads the picture against the metaphysical and religious horror that world cinema was making at the same moment, because that comparative frame is what turns a famous scare into a serious idea.
 

@@ -6,15 +6,15 @@ date: 2023-05-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Character Analysis", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Jay Gatsby character analysis: who Gatsby really is, what he wants most, and why the man defined by reaching for a vanished past is both great and doomed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2023-05-08
+lang: en
 ---
-
 Ask who Jay Gatsby is and most readers answer with a costume: the pink suit, the mansion, the parties, the mysterious smile. A Jay Gatsby character analysis that stops at the costume has missed the man, because Gatsby is not finally a set of traits you can list. He is a direction. He is a person organized entirely around something he is reaching for, and the central question this study answers is not what Gatsby has or what Gatsby looks like but what Gatsby wants, why he cannot stop wanting it, and what that single orientation does to him across nine chapters. The answer is the difference between reading the novel for plot and reading it for argument.
 
-![Jay Gatsby character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jay Gatsby character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The trouble with the costume reading is that it treats Gatsby as a noun, a rich man with secrets, when the novel writes him as a verb. Everything that matters about him is an action of striving: the arms reaching toward the green light, the parties thrown to summon one absent guest, the past he insists can be rebuilt by sheer will. To understand him you have to read the reaching, not the props. This is the man who is all verb, and naming him that way is the through line of everything below. His tragedy is not that he wants the wrong thing. It is that the wanting itself has grown so large that no real object could ever fill it, so the striving outlives every version of Daisy a living woman could be.
 

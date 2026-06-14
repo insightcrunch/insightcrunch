@@ -6,14 +6,14 @@ date: 2025-01-18
 categories: ["Industry"]
 tags: ["高考", "四川高考", "四川分数线", "Sichuan Gaokao", "Provincial Guide"]
 excerpt: "四川高考完全指南,系统解读西南考试大省的整体规模与竞争格局、现行考试模式与新高考改革进程、一分一段位次解读,详解四川大学、电子科技大学、西南财经大学、西南交通大学等本地名校全景,涵盖省内外升学权衡、农村专项计划与民族地区加分政策、成渝双城就业前景、复读决策、选科趋势与平行志愿填报技巧,助每一位巴蜀学子科学规划升学之路。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "huang-dawei"
+lang: zh
 ---
-
 在中国的高考版图上,四川是一块分量极重的拼图。这片位于西南腹地的土地,常年位居全国报名人数最多的几个省份之列,每到考季,数十万名考生同时走进考场,竞争的激烈程度丝毫不逊于东部任何一个教育大省。与此同时,巴蜀大地又拥有自己独特的气质:这里有四川大学这样底蕴深厚的985旗舰高校,有电子科技大学这样在电子信息领域全国领先的强校,也有华西医学这样百年传承的金字招牌。对于川内的学子而言,既能享受省内优质院校带来的便利,又要在通往顶尖名校的窄门前与全国精英同台角逐。要真正读懂四川高考,就不能把它简单地当成一个"人多分高"的大省来看待,而应当深入它的肌理,理解它的考试环境、本地院校生态与考生的现实抉择。本文将系统梳理四川考生面对的全部图景,如果你想先建立对整个升学体系的宏观认识,可以先参阅[高考完全指南](/2026/03/18/gaokao-complete-guide/),再回到这里看四川的具体情况。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-21.webp)
 *四川高考备考与升学规划全景图解*
 
 ## 四川高考的整体格局与考生规模

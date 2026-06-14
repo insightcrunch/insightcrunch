@@ -6,13 +6,15 @@ date: 2017-06-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Apocalypse Now", "Francis Ford Coppola", "War Cinema", "Film Production", "Vietnam War Films", "Film Analysis"]
 excerpt: "Apocalypse Now survived a typhoon, a heart attack, and a director's breakdown, and its chaotic making became inseparable from the war madness it depicts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2017-06-15
+lang: en
 ---
-
 Some movies are remembered for what reached the screen. A smaller number are remembered just as vividly for what happened behind the camera. Apocalypse Now belongs to that rarer group, and it may be the purest example cinema has ever produced. Francis Ford Coppola set out to make a Vietnam epic and instead led a cast and crew into sixteen months of jungle chaos that nearly destroyed everyone involved, including himself. A typhoon flattened the sets. The leading man suffered a near-fatal heart attack on location. The most famous star arrived overweight and unprepared, having read neither the script nor the book the story was built on. The budget tripled, the director mortgaged his home and his winery to keep going, and he later admitted he had contemplated ending his own life more than once. The shoot, in other words, descended into the same derangement the picture was about.
+
+![Apocalypse Now: When the Making Became the Madness - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 That overlap is the heart of this analysis. The troubled making of Apocalypse Now is not a colorful footnote to the finished work. It is the explanation for the finished work. The film depicts a journey upriver into madness, and the people who made it took that same journey for real. This piece walks through why the production nearly collapsed, what each crisis contributed to the result, and, just as importantly, how this American war epic sits among the great war films of the wider world. Filmmakers across many nations have reckoned with the insanity of armed conflict on screen. What sets Coppola's work apart is that its making enacted the very breakdown the story portrays, a coincidence of art and circumstance that almost no other major picture can claim.
 

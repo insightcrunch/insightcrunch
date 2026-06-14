@@ -6,17 +6,17 @@ date: 2023-05-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Character Analysis", "Literary Criticism", "Close Reading", "American Literature"]
 excerpt: "Jay Gatsby: romantic idealist or criminal? A defended verdict weighing his bootlegging against the wonder of his hope, refusing the easy single label."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2023-05-22
+lang: en
 ---
-
 Ask the question plainly and most readers flinch toward one answer or the other. Jay Gatsby: romantic idealist or criminal? Pick the romance and you have to look away from the drugstore alcohol, the man who fixed a World Series, the lies stacked under the name. Pick the crime and you have to discount the single-minded devotion, the gift for hope that Nick Carraway calls the rarest thing he ever met, the wonder that survives every sordid fact attached to it. The novel will not let you keep both labels comfortably, and it will not let you drop either. That refusal is not a flaw in the book or a gap in your reading. It is the engineering of the character.
 
 This article holds the two cases side by side and reaches a verdict you can defend in an essay or an argument, rather than the cliche that gets reached for first. The verdict is not a compromise that splits the difference and calls him fifty percent guilty. It is a claim about how the two readings actually relate inside one man, and why Fitzgerald built him so that neither cancels the other.
 
-![Jay Gatsby romantic idealist or criminal analysis](/assets/images/blog/blog-01.webp)
+![Jay Gatsby romantic idealist or criminal analysis](/assets/images/blog/blog-17.webp)
 
 ## Jay Gatsby: Romantic Idealist or Criminal? Why the Question Matters
 

@@ -6,15 +6,15 @@ date: 2023-04-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Dan Cody", "Chapter 6", "Jay Gatsby", "Close Reading", "Character Analysis"]
 excerpt: "The Dan Cody yacht passage in Chapter 6 is where James Gatz becomes Gatsby, a close reading of the mentor who shaped his ambition, his money, and his fate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2023-04-03
+lang: en
 ---
-
 The Dan Cody yacht passage in Chapter 6 is the single most important backstory in The Great Gatsby, because it is the place where a poor North Dakota farm boy named James Gatz stops existing and Jay Gatsby walks onto the deck of a millionaire's boat fully formed. Readers tend to skim it as a flashback, a few paragraphs of origin trivia tucked between the rumors of Chapter 5 and the confrontation of Chapter 7. That habit costs them the key to the whole novel. This passage is not a detour from the story of Gatsby's ambition. It is the engine room of it. Everything Gatsby later builds at West Egg, the parties, the manner, the imported shirts, the conviction that money can buy back a lost summer, has its prototype on board the Tuolomee.
 
-![Dan Cody yacht passage in The Great Gatsby analyzed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dan Cody yacht passage in The Great Gatsby analyzed - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 What follows is a close reading of the Dan Cody yacht passage as a working scene rather than a biographical footnote. The argument running through it is simple enough to name and large enough to organize an essay: Cody is at once the blueprint Gatsby copies and the warning Gatsby ignores. He is the model of the self-made man and a preview of where that model ends, a rich man who dies dissipated, drained, and discarded by the people closest to him. Read carefully, the passage does not just explain how Gatsby got his start. It quietly forecasts how he will finish.
 
