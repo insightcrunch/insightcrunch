@@ -6,15 +6,15 @@ date: 2023-07-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Character Analysis", "Close Reading", "American Literature"]
 excerpt: "This Tom Buchanan character analysis reads Fitzgerald's old-money antagonist as a flat, untouchable figure whose refusal to change indicts his entire class."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2023-07-17
+lang: en
 ---
-
 Most readers finish The Great Gatsby hating Tom Buchanan and stop there, as if contempt were the same thing as understanding. A serious Tom Buchanan character analysis has to start somewhere harder. The central question is not whether Tom is awful, which the novel settles within a few pages, but why Fitzgerald built the cast's least likable man as its most secure, and what it means that the one character who never grows is also the one the world never punishes. Tom is the husband Daisy will not leave, the man who keeps a mistress in plain sight, the voice that turns a dinner party into a lecture on race, and, at the end, the figure who points a grieving man toward Gatsby's house and then drives off into a long untroubled life. To read him well is to see a deliberate construction, not a cartoon brute.
 
-![Tom Buchanan character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tom Buchanan character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The temptation is to treat Tom as set dressing, the obstacle Gatsby has to get past to reach Daisy. That reading underrates him. Tom is not an obstacle so much as a fixed point, the thing the novel's restless dreamers keep crashing against. Gatsby reinvents himself; Nick revises his judgments; Daisy wavers between two men. Tom does none of this. He arrives in Chapter 1 fully formed and exits in Chapter 9 unchanged, and that flatness is not a failure of characterization. It is the point Fitzgerald is making about the people who already hold everything and have no reason to become anyone else.
 

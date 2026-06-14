@@ -6,14 +6,14 @@ date: 2024-12-17
 categories: ["Industry"]
 tags: ["高考", "浙江高考", "浙江分数线", "Zhejiang Gaokao", "Provincial Guide"]
 excerpt: "浙江高考完全指南:作为全国3+3新高考改革的先锋省份,本文系统解析七选三选科逻辑、等级赋分计分规则、专业平行志愿填报策略、分段录取规则与浙江大学报考要点,并附二十问详尽答疑与各分数段择校实战案例,同时梳理选考时间安排、综合评价招生与复读权衡,助浙江考生及家长从容规划升学之路,稳稳把握每一个关键决策环节。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "xu-meifang"
+lang: zh
 ---
-
 在中国新高考改革的版图上，浙江始终占据着一个特殊而醒目的位置。作为全国最早一批启动招生制度综合改革的试点省份，之江大地不仅率先打破了延续多年的文理分科格局，更以"七选三"这一独树一帜的选考模式，为全国后续的改革方案提供了最直接的经验与教训。对于身处浙江的高三学子、正在为孩子规划升学路径的家长，乃至关注招生政策走向的一线教师而言，读懂浙江高考的运行逻辑，是做出每一个升学决策的前提。本指南将系统梳理浙江高考的制度框架、计分规则、选科逻辑、志愿填报方式以及备考策略，力求成为你案头最值得信赖的一份参考。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-55.webp)
 *浙江高考改革先锋省份的选考、赋分与志愿填报全景解析*
 
 ## 浙江高考的独特地位:改革先锋省份

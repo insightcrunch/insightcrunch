@@ -6,17 +6,17 @@ date: 2023-07-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Daisy Buchanan", "Character Analysis", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "Daisy Buchanan and the voice full of money: how one phrase fuses her allure with her wealth, and why Gatsby never could tell love from class in the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2023-07-10
+lang: en
 ---
-
 Of all the ways Fitzgerald could have told us who Daisy Buchanan is, he chose her sound. Not her hair, not her dress, not her history, but the thing the ear catches before the eye settles. When the question of Daisy Buchanan and the voice full of money comes up, most readers reach for the famous five words and stop there, as if the line were a clever epigram Fitzgerald dropped in and moved past. It is not. The phrase is the hinge of her whole character. Strip away the parties and the green light and the long Sunday afternoons, and what remains of Daisy in the reader's memory is a quality of sound, a low and thrilling music that pulls listeners toward her and promises something it will never quite deliver. The line about money does not interrupt that music. It explains it.
 
 This article takes a single image, Gatsby's observation that Daisy's voice is full of money, and reads it for everything it carries. The wager is that one phrase, properly opened, holds the entire link between desire and wealth that the novel keeps circling. Gatsby loves a woman, yes, but the sound he loves is inseparable from the class that produced it, and the moment he names what he hears, he names a truth about his own longing he can never afford to face. To understand the line is to understand why his dream was doomed from the first note.
 
-![Daisy Buchanan and the voice full of money in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Daisy Buchanan and the voice full of money in The Great Gatsby](/assets/images/blog/blog-98.webp)
 
 ## Daisy Buchanan and the voice full of money: the line that names everything
 

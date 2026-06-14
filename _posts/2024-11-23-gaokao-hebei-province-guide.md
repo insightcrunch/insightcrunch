@@ -6,14 +6,14 @@ date: 2024-11-23
 categories: ["Industry"]
 tags: ["高考", "河北高考", "衡水中学", "河北分数线", "Hebei Gaokao", "Provincial Guide"]
 excerpt: "河北是名副其实的高考大省,考生体量庞大而优质名额相对有限,升学竞争格外激烈。本指南深入解读燕赵大地的升学生态:从衡水模式的来龙去脉,到新高考3+1+2选科与等级赋分机制,从紧邻北京带来的户籍张力,到分数线、位次与志愿填报策略,并按不同分段和考生类型给出务实路径,助力冀籍学子在激烈竞争中走稳升学的每一步。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "wang-yue"
+lang: zh
 ---
-
 在中国高考的版图上,河北是一个绕不开的名字。提起燕赵大地的考试生态,很多人脑海里浮现的第一个词往往是"衡水模式";第二个联想,则是这片土地与首都北京之间那种既紧邻又分隔的微妙关系。河北是名副其实的高考大省,每年报名人数稳居全国前列,本科录取竞争之激烈在华北地区数一数二。对于身处其中的考生和家庭来说,理解本省独特的考试环境、招生规则与升学路径,几乎决定了三年苦读能否换来理想的结果。这篇指南将把河北高考的方方面面拆开讲透,从新高考"3+1+2"模式的落地，到分数线的解读，从衡水现象的来龙去脉，到不同分段考生的现实选择,力求成为冀籍学子和家长手边最实用的一份参考。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-88.webp)
 *河北高考全景解读：从衡水模式到新高考选科与志愿策略*
 
 ## 河北高考的整体格局

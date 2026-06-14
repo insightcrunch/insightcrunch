@@ -6,13 +6,15 @@ date: 2023-07-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Character Analysis", "Themes", "Context", "American Literature"]
 excerpt: "Tom Buchanan turns power, race, and brutality into one machine in The Great Gatsby. His racism and his fists enforce the hierarchy that keeps him on top."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2023-07-24
+lang: en
 ---
-
 The question that decides how you read Tom Buchanan is whether his cruelty is a temper or a creed. Treat it as temper and he shrinks to a stock bully, a rich man with a short fuse and heavy hands. Read it as creed and a far more disturbing figure comes into focus, because Tom Buchanan: Power, Race, and Brutality are not three separate facts about the man but one connected machine. His racism, his physical violence, and his command over everyone in his orbit run on the same fuel, and that fuel is the conviction that the world is a hierarchy he sits on top of and is entitled to defend by any means. The broken nose he gives Myrtle and the white-supremacist book he recites at his own dinner table are the same gesture aimed at different targets.
+
+![Tom Buchanan: Power, Race, and Brutality - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 This study reads Tom not as the whole man, which the [complete Tom Buchanan character analysis](/2023/07/17/tom-buchanan-character-analysis/) handles as the hub, but as an instrument of dominance. The aim is to show that his violence is never random and his bigotry is never decoration. Both are tools, and they serve the same project. Fitzgerald draws a man whose fists and whose theories point in one direction, and a reader who separates them misses the precise thing the novel is doing.
 

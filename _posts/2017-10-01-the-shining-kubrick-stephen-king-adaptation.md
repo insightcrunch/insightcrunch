@@ -6,11 +6,13 @@ excerpt: "How Stanley Kubrick turned The Shining from Stephen King's warm traged
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Stanley Kubrick", "Stephen King", "Horror Cinema", "Film Adaptation", "World Cinema", "Comparative Analysis"]
 image: /assets/images/blog/blog-01.webp
-author: "Insight Crunch Team"
+author: "amanda-ross"
 reading_time: 60
+lang: en
 ---
-
 When Stanley Kubrick took possession of Stephen King's 1977 novel and carried it onto the screen in 1980, he performed an act of transformation so complete that the man who wrote the source has spent four decades disowning the result. The book is a warm tragedy. A flawed, loving father, scarred by his own father and by drink, takes a winter caretaking job at a remote mountain hotel, and the building's accumulated evil works on his weakness until it destroys him. The novelist meant it as a story of a good man broken, a portrait of addiction and inherited violence, and at its close a flicker of redemption: the father, for one instant, reclaims himself before the end. Kubrick kept the hotel, the family, the isolation, and the descent. He threw away nearly everything that gave the descent its warmth. What he built in its place was colder, stranger, more ambiguous, and, for reasons that have kept scholars and obsessives busy ever since, endlessly open to interpretation.
+
+![The Shining: Kubrick Adapts Stephen King - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 That gap between the page and the screen is the subject of this study. It is one of the most instructive adaptations in the history of the medium precisely because the two versions are so close in plot and so far apart in feeling. Reading them side by side teaches more about what adaptation actually is than a dozen faithful transfers could. An adaptation is not a translation. It is a set of choices, made by a different artist, in a different medium, toward a different end. The director's choices here ran directly against the author's intentions, and the friction between the two has never cooled.
 

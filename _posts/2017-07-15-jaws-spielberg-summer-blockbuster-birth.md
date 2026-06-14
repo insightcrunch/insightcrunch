@@ -6,15 +6,15 @@ date: 2017-07-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Jaws", "Steven Spielberg", "New Hollywood", "Film Analysis", "World Cinema"]
 excerpt: "Jaws turned a malfunctioning mechanical shark into the genius of the unseen, and a bold new wide-release model into the modern summer blockbuster's birth."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2017-07-15
+lang: en
 ---
-
 Before the summer of 1975, the warm months were where studios buried the films they did not believe in. The serious pictures arrived in the autumn for awards season, the prestige adaptations and the road-show epics came at Christmas, and June carried the reputation of a dumping ground for second-tier programmers and drive-in fodder. Then a thriller about a great white predator and the three mismatched men who set out to kill it opened wide across the country, and within a single season the whole calendar of American moviegoing turned upside down. Jaws did not merely succeed. It rewrote the rules by which success was measured, manufactured, and timed. To study it is to watch a genre picture become an industrial event, and to watch a young director turn a string of disasters into the most influential restraint in popular cinema.
 
-![How Jaws invented the summer blockbuster through the genius of the unseen, a genre analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Jaws invented the summer blockbuster through the genius of the unseen, a genre analysis - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 The film that did this was directed by Steven Spielberg, who was around twenty-seven when shooting began and who had exactly one theatrical feature behind him, the road movie The Sugarland Express. He was handed an adaptation of Peter Benchley's 1974 best-seller, a property the producers Richard Zanuck and David Brown had bought before the novel even reached print. What arrived on screens fused a creature feature, a suspense thriller, and a seafaring adventure into a shape no single earlier genre quite owned, and it did so while being marketed and distributed in a way that turned a movie into a national appointment. The result is the founding text of the summer blockbuster, and the most useful single object for understanding how genre cinema and the business of cinema reshaped each other in the second half of the twentieth century.
 

@@ -6,15 +6,15 @@ date: 2023-06-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "F. Scott Fitzgerald", "Character Analysis", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Nick Carraway: reliable or unreliable narrator? A close reading weighing the evidence for trust against the evidence for doubt, then defending a verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2023-06-12
+lang: en
 ---
-
 Every word you know about Jay Gatsby reaches you through one man, and that man tells you on the first page that he reserves judgment and that he is honest, then spends the next two hundred pages judging almost everyone and shaping a partial account of the one person he refuses to judge. So the real question of the book is not only what happened on Long Island in the summer of 1922. It is whether you can trust the voice telling you. **Nick Carraway: reliable or unreliable narrator?** is the question that decides how you read every scene, because Nick is not a window onto the story. He is a person standing inside it, with stakes, with blind spots, and with a confessed fondness for the man at the center.
 
-![Nick Carraway as reliable or unreliable narrator in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nick Carraway as reliable or unreliable narrator in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The lazy answers both fail. Call Nick a liar and you cannot explain why his account feels so scrupulous, why he keeps correcting himself, why his eye catches the small rotten detail that a flatterer would smooth over. Call him perfectly trustworthy and you cannot explain why the man he scorns becomes, by the last page, the only person worth the whole crowd, or why a self-described honest narrator opens by undercutting his own honesty. The truth sits in the harder middle, and reaching it is the whole task of this analysis. This article owns the reliability debate in full; the question of how the narration is first set up belongs to the close reading of the opening chapter, and the whole shape of Nick as a person belongs to his complete character study.
 

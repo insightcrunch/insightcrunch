@@ -6,14 +6,14 @@ date: 2024-12-01
 categories: ["Industry"]
 tags: ["高考", "湖南高考", "湖南分数线", "Hunan Gaokao", "Provincial Guide"]
 excerpt: "本篇全面解析湖南高考的整体竞争格局与备考策略,涵盖3+1+2新高考模式与等级赋分规则、物理类与历史类分数线的双线逻辑、长沙四大名校、中南大学与湖南大学及国防科技大学等本省重点高校的录取要点、平行志愿冲稳保梯度的设计,以及不同分数段湖湘学子的升学路径、选科技巧与实用的备考建议,助你从容应对这场关键考试。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "lin-shuyi"
+lang: zh
 ---
-
 湖南是中国教育版图上一个分量极重的省份。这里既有深厚的湖湘文化底蕴,又有令人瞩目的升学竞争强度。一提到湖南的基础教育,很多人首先想到的就是长沙的几所超级中学,它们在全国学科竞赛和高分段的表现常年位居前列。但湖南高考远不止于几所名校的光环,它是一个由百万考生、复杂的赋分规则、梯度分明的院校层次共同构成的庞大系统。对于身处其中的每一位学子和他们的家庭来说,真正读懂这个系统,远比盲目刷题更能决定最终的去向。本篇就把湖湘大地的高考全貌拆开来讲透,从报考规模到选科逻辑,从分数线到志愿填报,帮你把每一步都走得踏实。如果你想先建立对全国统考的整体认识,可以先读这篇[高考完全指南](/2026/03/18/gaokao-complete-guide/),再回到湖南的具体语境。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-70.webp)
 *湖南高考竞争格局与备考策略全景解读*
 
 ## 湖南高考的整体概况

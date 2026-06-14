@@ -6,13 +6,15 @@ date: 2017-09-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Cabaret", "Bob Fosse", "Movie Musicals", "Liza Minnelli", "Joel Grey", "Weimar Cinema"]
 excerpt: "Cabaret turns its Kit Kat Klub into a mirror, with Liza Minnelli and Joel Grey performing a society in denial as Bob Fosse reinvents the movie musical."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2017-09-01
+lang: en
 ---
-
 A drumroll, a crash of cymbals, and a face swims up out of green light. The mouth is painted into a permanent grin, the cheeks are rouged, the eyes are doing something the smile does not authorize. "Willkommen," the face purrs, and this is how Cabaret begins, the 1972 film directed by Bob Fosse, with an invitation that for the length of one number feels like an ordinary entertainment, a little risque, a little dated, a souvenir of an old decade. Then the camera pulls back, the audience inside the club comes into focus, and you understand that the grin is not welcoming you. It is daring you to keep watching while the world outside the door begins to burn. That is the performance problem at the center of Cabaret, the 1972 film directed by Bob Fosse, and it is a problem that no ordinary musical had ever been built to solve. How do you act denial? How do you sing a society's refusal to look at what is coming? Two performers, Liza Minnelli and Joel Grey, found a way, and a choreographer turned director rebuilt the entire grammar of the movie musical around them so that the answer could land.
+
+![Cabaret: Minnelli, Grey, and a Stage That Mirrors Berlin - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 This article is about those two performances and the structure that makes them legible, and it is finally about a single, durable claim: that Fosse confined every song to the stage of the Kit Kat Klub so that performance itself could become commentary on a society dancing toward catastrophe. To understand why that confinement matters, you have to understand what it broke from, what it made possible, and how the brittle vitality of one singer and the grinning menace of one emcee carry a warning that no amount of spoken dialogue could deliver. We will read the construction of both leads choice by choice, watch how the direction shaped what they built, set the result against the acting and musical conventions of its own moment, and then place it among the worldwide contemporaries that tried, in other languages and other traditions, to make song carry the weight of history. The cabaret, by the end, is not a place of escape. It is a mirror held up to an audience that would rather look at the dancers than at the door.
 

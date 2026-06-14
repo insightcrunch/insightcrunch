@@ -6,14 +6,14 @@ date: 2024-11-15
 categories: ["Industry"]
 tags: ["高考", "安徽高考", "毛坦厂中学", "安徽分数线", "Anhui Gaokao", "Provincial Guide"]
 excerpt: "安徽是全国高考竞争最激烈的省份之一,考生基数庞大而省内顶尖高校稀缺,唯有中国科大一枝独秀。本文深入解析毛坦厂中学的复读现象、城乡教育资源差距、3+1+2新高考改革的落地节奏与历年分数线的走势,并系统梳理选科赋分、志愿填报、专项招生与高效备考的实用策略,助皖籍考生在残酷的赛道上找到属于自己的突围路径。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "wu-chengan"
+lang: zh
 ---
-
 在中国所有参加高考的省份当中,安徽始终是一个绕不开的话题。这里有全国闻名的备考重镇,有令无数家庭奔赴的超级学校,也有一所足以让全省引以为傲的顶尖学府。然而光环背后,是连年攀升的报名人数、相对有限的本地优质高校资源,以及城市与乡村之间难以忽视的教育落差。对于一名皖籍学子和他背后的家庭而言,理解本省的招生格局,往往比埋头刷题更能决定最终的去向。这篇指南将带你完整梳理江淮大地上的备考生态:从新一轮改革落地的细节,到中国科大独占鳌头的院校版图,再到毛坦厂这座小镇为何能牵动整个省份的神经。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-97.webp)
 *安徽高考竞争格局与备考策略全景解读*
 
 ## 安徽高考的基本盘:人多、线高、机会紧

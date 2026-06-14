@@ -6,16 +6,16 @@ date: 2024-12-09
 categories: ["Industry"]
 tags: ["高考", "江苏高考", "江苏分数线", "Jiangsu Gaokao", "Provincial Guide"]
 excerpt: "江苏高考以数学难、竞争激烈著称,这篇完全指南带你看懂它从480分制到750分制的改革之路,拆解数学卷难度背后的真相,理清3+1+2选科与等级赋分规则,梳理南京大学、东南大学等南京高校集群的录取门道,并为不同分数段、不同类型的考生与家长提供切实可行的升学规划、志愿填报与实用备考建议,助力稳步圆梦理想院校。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "huang-dawei"
+lang: zh
 ---
-
 本省高考,在很多外省人眼里几乎是一个传说。提起这片土地上的考试,人们脑海里浮现的往往是几个关键词:数学卷难到让人崩溃,曾经独树一帜的480分制,以及一群在高强度竞争中拼杀的考生。该省曾经被戏称为高考的"地狱模式",这个说法虽然带着调侃,却也反映出本省考生所承受的真实压力。作为长三角教育重镇,省内既拥有南京大学、东南大学为代表的顶尖学府集群,又面对着考生基数大、优质名额相对紧张的现实矛盾。
 
 这篇指南将带你全面了解本省高考的来龙去脉:它独特的历史方案为何让全国侧目,数学卷难度背后的真相是什么,新高考改革如何把本省从特立独行拉回主流轨道,南京高校集群的录取门道有哪些,以及不同分数段、不同类型的学子应该如何制定升学规划。无论你是该省本地的高中生、操心孩子前途的家长,还是研究各省命题特色的教育工作者,都能在这里找到有价值的参考。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-35.webp)
 *省内高考备考全景解析:数学难度、改革历程与南京名校录取策略*
 
 ## 江苏高考的独特地位
