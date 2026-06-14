@@ -6,14 +6,14 @@ date: 2025-10-25
 categories: ["Industry"]
 tags: ["高考", "NEET", "高考vs NEET", "临床医学", "Medical Admission"]
 excerpt: "高考与印度 NEET 全面对比:从考试结构、生物比重、科目广度,到考生规模、录取机制、保留名额、培养学制与重考政策逐项对照,带你看清中印两国如何用专科化与通识化两种相反的哲学筛选未来的医生,也帮你看清这条先全再专的学医之路,在世界坐标系里究竟处于一个怎样真实而独特的位置,从而更从容地规划自己的未来。"
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 45
 author: "feng-lei"
 lang: zh
 ---
 每年,在亚洲的两个人口大国里,都有数以百万计的年轻人怀揣着同一个梦想走进考场:成为一名医生。在印度,他们要面对的是一场叫做 NEET 的全国性医学选拔考试;在中国,他们走的则是另一条看似熟悉、实则迥异的道路,也就是通过全国统一高考、再凭借分数进入临床医学专业。两条路通向同一个终点,选拔方式却几乎是镜像般相反。理解这种差异,不只是满足好奇心,更能帮助中国的学生、家长看清自己脚下这条学医之路在世界坐标系里究竟处于什么位置。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-66.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-13.webp)
 *高考与印度 NEET 的医学选拔路径对照:专科化考试与通识化考试的两种哲学*
 
 如果你已经读过本系列的其他对比文章,比如 [高考vs SAT](/2025/11/10/gaokao-vs-sat-comparison/) 和 [高考vs IIT-JEE](/2025/11/02/gaokao-vs-iit-jee-comparison/),你会发现一个反复出现的主题:没有哪两个国家用完全相同的方式筛选人才。NEET 与高考的对照尤其鲜明,因为它触及一个更深的问题,那就是一个社会到底应该用什么机制,把未来的医生从茫茫人海中挑选出来。想全面了解高考这套体系本身,可以先参考我们的 [高考完全指南](/2026/03/18/gaokao-complete-guide/),本文则聚焦于医学这一条赛道。

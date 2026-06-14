@@ -16,7 +16,7 @@ A director faces a simple problem and a hard one. The simple problem is how to k
 
 That is why Vertigo rewards the auteur reading more richly than almost any other studio picture of its decade. An auteur study asks a precise question: what in this film could only have come from this director, and how does the film make that signature legible at the level of the shot, the cut, the score, and the structure? With Vertigo the answer is unusually clean, because the film is not merely directed by Hitchcock in the way a competent professional directs an assignment. It is about the very impulses that drove him to direct at all: the desire to watch from a safe distance, to arrange people inside a frame, to know the ending and dole it out on his own schedule, and to fashion an idealized image of a woman and then mourn its impossibility. The argument of this analysis is that Vertigo is the operative definition of Hitchcock as an artist, and that the people who first understood this were not American reviewers but European critics, who saw the design beneath the entertainment and built a theory of cinematic authorship partly on the evidence of films like this one.
 
-![Vertigo Hitchcock auteur analysis](/assets/images/blog/blog-107.webp)
+![Vertigo Hitchcock auteur analysis](/assets/images/blog/blog-65.webp)
 
 ## Where the film sits in the body of work
 

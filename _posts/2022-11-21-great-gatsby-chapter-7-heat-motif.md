@@ -6,7 +6,7 @@ date: 2022-11-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 7", "Close Reading", "Themes", "Symbolism", "F. Scott Fitzgerald"]
 excerpt: "The hottest day motif in Great Gatsby Chapter 7 turns rising temperature into rising tension, making the weather the novel's true thermostat of conflict."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 47
 author: "chloe-martin"
 last_updated: 2022-11-21
@@ -14,7 +14,7 @@ lang: en
 ---
 Read Great Gatsby Chapter 7 with a thermometer in hand and the structure of the novel suddenly becomes visible. The hottest day motif is not decoration laid over the action; it is the action's pressure gauge. Fitzgerald sets the longest and most violent chapter of the book on the single most uncomfortable afternoon of the summer, and he keeps the temperature in front of you, line after line, until the moment the catastrophe arrives. The argument of this close reading is simple to state and worth defending in detail: in Chapter 7 the warmth functions as the thermostat of the plot, climbing with the conflict and breaking with the violence, so the air narrates the tension before any character will admit to feeling it. Track the rising mercury and you have tracked the rising danger.
 
-![Great Gatsby Chapter 7: The Hottest Day Motif](/assets/images/blog/blog-98.webp)
+![Great Gatsby Chapter 7: The Hottest Day Motif](/assets/images/blog/blog-08.webp)
 
 That claim, the thermostat of the plot, is what this article owns. The wider study of weather across the whole novel, and the standalone reading of heat and temperature as a recurring image, each have their own dedicated pages in this series, linked below. Here the focus stays inside one chapter. The aim is to show, scene by scene and sentence by sentence, how a reader can use the physical temperature as a reliable instrument for reading the emotional and dramatic temperature, and why that technique is so much more useful than treating the warm weather as mere background atmosphere.
 

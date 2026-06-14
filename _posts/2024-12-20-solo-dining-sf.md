@@ -5,7 +5,7 @@ date: 2024-12-20
 categories: ["Leisure"]
 tags: ["solo-dining", "san-francisco", "restaurants", "sf-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "mission-district", "chinatown", "ferry-building"]
 excerpt: "From Swan Oyster Depot to Mission taquerias, the complete guide to eating alone by the Bay."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "natalie-webb"
 last_updated: 2026-03-31
@@ -13,7 +13,7 @@ lang: en
 ---
 San Francisco is a city of seven-by-seven miles that contains more extraordinary food per square foot than almost anywhere else on Earth. It is the birthplace of California cuisine, the home of the oldest Chinatown in North America, the cradle of the farm-to-table movement, and a city where a single neighborhood block might contain a Michelin-starred tasting menu restaurant, a counter-service ramen shop, a century-old seafood counter, and a taqueria that has been perfecting its al pastor for three decades. For the solo diner, San Francisco is paradise.
 
-![Dining - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dining - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 This guide is the most thorough resource ever assembled on solo dining in San Francisco. It covers every major neighborhood, every significant cuisine, every price point from a Mission burrito to a multi-course tasting menu at Atelier Crenn, and every dining format from seafood counters to communal tables. Whether you are a lifelong San Franciscan, a tech worker who just relocated to SoMa, or a visitor with three days and a serious appetite, this guide exists to serve you.
 

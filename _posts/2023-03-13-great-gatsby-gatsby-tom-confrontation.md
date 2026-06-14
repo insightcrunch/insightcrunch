@@ -6,7 +6,7 @@ date: 2023-03-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Jay Gatsby", "Chapter 7", "Close Reading", "Themes"]
 excerpt: "The Gatsby-Tom confrontation in Chapter 7 reads old money against new. A close reading of why Tom wins, how he exposes Gatsby, and what the scene proves."
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 48
 author: "diana-patel"
 last_updated: 2023-03-13
@@ -14,7 +14,7 @@ lang: en
 ---
 Two rich men stand in a hot hotel suite arguing over a woman, and the novel decides who America protects. The Gatsby-Tom confrontation in Chapter 7 of *The Great Gatsby* is usually filed under romance, a love triangle reaching its boiling point on the hottest afternoon of the summer. Read that way, it is a quarrel about Daisy. Read more closely, it is a contest between two kinds of wealth, and the winner is settled before a word is spoken. Tom Buchanan does not defeat Jay Gatsby by loving Daisy more or by arguing better. He defeats him by holding the older, sturdier form of money, the kind that gets to decide who counts as a person and who counts as an intruder. This article reads the confrontation as a clash of social types rather than a clash of personalities, and it argues that the scene is the novel's verdict on a question larger than any marriage.
 
-![The Gatsby-Tom confrontation in The Great Gatsby Chapter 7 explained - Insight Crunch](/assets/images/blog/blog-82.webp)
+![The Gatsby-Tom confrontation in The Great Gatsby Chapter 7 explained - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The distinction matters because it changes what you take the scene to be about. If the confrontation is a love rivalry, then Tom wins because Daisy chooses him, and the cause is personal weakness or sentiment. If the confrontation is a class contest, then Daisy's choice is itself a symptom, the moment the prize sides with the power that can keep her safe. The first reading makes Gatsby a man defeated in love. The second makes him a man defeated by a wall he could never climb, no matter how much he earned, because the wall was never about money in the simple sense. It was about the difference between having money and being money, between buying a mansion across the bay and owning the bay.
 

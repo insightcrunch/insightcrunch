@@ -6,7 +6,7 @@ date: 1997-04-12
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Science Passages", "Reading Comprehension", "Strategy"]
 excerpt: "SAT science passages decoded: data-driven answers, technical vocabulary and the conclusion-versus-data question, with worked passage walkthroughs throughout."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 59
 author: "daniel-morgan"
 last_updated: 1997-04-12
@@ -14,7 +14,7 @@ lang: en
 ---
 Most students brace for the science excerpts on the Reading and Writing section the way they brace for a pop quiz in a subject they never took. They see a paragraph about photosynthesis or planetary geology or working memory, and the dread arrives before they have read a single line. That dread is the costliest mistake you can make on this part of the digital exam, and it is built entirely on a misunderstanding. A science text on the Reading and Writing section is not a test of what you know about biology or chemistry. It is a test of whether you can find the one fact on the screen that settles the matter. The terrain is friendlier than any other reading category for one reason: the right answer is sitting in the text, measurable and objective, and the wrong answers are not.
 
-![SAT science passages claim to evidence mapping worked walkthroughs - Insight Crunch](/assets/images/blog/blog-91.webp)
+![SAT science passages claim to evidence mapping worked walkthroughs - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 Here is what you will be able to do by the end of this guide. You will read a short research excerpt, locate the precise claim a question is built around, and trace that claim to the single datum that supports it while rejecting the three options that sound topical but prove nothing. You will separate a researcher's interpretation from the raw measurement that interpretation rests on, because the exam tests that boundary constantly and most candidates blur it. You will read an embedded figure, a small table or a simple line graph, fast enough to answer from it rather than around it. And you will stop importing outside knowledge, the habit that turns an answerable task into a trap, because the digital format guarantees that everything you need has already been handed to you in the text or the figure beside it. That guarantee is the whole game, and learning to trust it is worth more points than any vocabulary list.
 

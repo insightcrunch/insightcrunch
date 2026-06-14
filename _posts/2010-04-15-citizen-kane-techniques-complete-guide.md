@@ -6,7 +6,7 @@ date: 2010-04-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Deep Focus", "Cinematography", "Orson Welles", "Close Reading", "Film History"]
 excerpt: "Citizen Kane techniques explained in full: deep focus, ceilings, low angles, sound, and montage, and the truth about what the film invented versus perfected."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2010-04-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The most repeated sentence about this picture is also the least examined: that Citizen Kane techniques rewrote the rulebook of cinema. People say it the way they say the earth is round, as a fact too obvious to inspect. Then a contrarian arrives to correct the record, points out that deep focus existed before 1941, that flashbacks were already old, that low angles were not new, and declares the whole reputation a myth. Both camps miss the same thing. The achievement of Orson Welles and his cinematographer Gregg Toland is not a list of first-time inventions, and it is not a borrowed bag of tricks either. It is integration: a single coherent style in which the lens, the set, the cut, and the soundtrack all push one story in one direction. Understanding the cinematography of Citizen Kane means learning to read that integration, not memorizing a trivia list.
 
-![Citizen Kane techniques and cinematography explained, from deep focus to ceilings and sound - Insight Crunch](/assets/images/blog/blog-62.webp)
+![Citizen Kane techniques and cinematography explained, from deep focus to ceilings and sound - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 This guide surveys every major device the film deploys and ties each one to the work it performs on screen. It moves through deep focus, the ceilinged sets and floor-level cameras, the long takes and crane moves, the editing and the optical and sound transitions, the expressionist lighting, the overlapping dialogue, Bernard Herrmann's score, and the aging makeup, and it ends with a single defensible argument about what the picture actually accomplished. Along the way it answers the questions a student or a curious viewer actually types into a search bar: what the film is famous for, what deep focus is, whether the film invented it, why the sets have ceilings, who Toland was, and how the breakfast montage works. The reader who finishes should be able to walk into a seminar and argue about technique with shot evidence rather than received opinion.
 

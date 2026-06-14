@@ -6,7 +6,7 @@ date: 2014-09-27
 categories: ["Leisure"]
 tags: ["great-expectations", "charles-dickens", "novel-analysis", "bildungsroman", "victorian-class", "classic-literature"]
 excerpt: "Great Expectations is Dickens's sharpest critique of Victorian class-aspiration machinery. The standard bildungsroman reading misses its structural argument."
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "emily-reed"
 last_updated: 2014-09-27
@@ -16,7 +16,7 @@ Great Expectations is not primarily a story about a boy who learns to be good. I
 
 <!--more-->
 
-![Complete Analysis of Great Expectations - Insight Crunch](/assets/images/blog/blog-79.webp)
+![Complete Analysis of Great Expectations - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 The namable claim this analysis defends is straightforward: Great Expectations is Victorian class-critique disguised as individual moral journey, and the bildungsroman frame that dominates popular reception actively obscures the structural argument Dickens built into every chapter. SparkNotes, LitCharts, and CliffsNotes all organize their Great Expectations pages around Pip's personal growth arc. They track his mistakes, his redemption, his tearful reconciliation with Joe Gargery at the forge. What they do not track is the system that manufactured the mistakes in the first place. Dickens did track that system. He tracked it with the obsessive specificity of a man who had lived inside it, who had been pulled out of a blacking factory at twelve years old and deposited into a genteel world that pretended the factory had never existed. Great Expectations is Dickens writing what he knew, and what he knew was that Victorian England sorted human beings by accent, manners, and income, then persuaded the sorted to believe the sorting was natural.
 

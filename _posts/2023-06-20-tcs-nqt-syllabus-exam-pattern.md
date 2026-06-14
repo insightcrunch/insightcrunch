@@ -6,7 +6,7 @@ date: 2023-06-20
 categories: ["Industry"]
 tags: ["TCS NQT syllabus", "TCS NQT exam pattern", "TCS NQT preparation", "TCS foundation test", "TCS advanced test"]
 excerpt: "Every section, every topic, every question type in TCS NQT decoded with weightage analysis and preparation priority matrix."
-image: "/assets/images/blog/blog-94.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
 author: "shruti-agarwal"
 last_updated: 2026-03-30
@@ -14,7 +14,7 @@ lang: en
 ---
 The TCS National Qualifier Test is structured with a precision that rewards candidates who understand the pattern as well as they understand the content. Knowing that there are aptitude questions is not enough. Knowing exactly how many questions appear per topic, how much time you have per question, and which topics carry the most weight relative to the preparation effort they demand - that is the level of detail that separates candidates who clear the NQT comfortably from those who fall one or two marks short. This article maps every section, every topic, every question type, and every preparation variable of the TCS NQT so you walk into the test hall with zero uncertainty about what to expect.
 
-![Technology Industry Analysis](/assets/images/blog/blog-94.webp)
+![Technology Industry Analysis](/assets/images/blog/blog-12.webp)
 
 If you want to pair this breakdown with an interactive practice environment, bookmark the [TCS NQT Preparation Guide on ReportMedic](https://reportmedic.org/tools/tcs-nqt-preparation-guide.html) - it covers section-wise mock questions aligned with the current NQT pattern without any sign-up required.
 

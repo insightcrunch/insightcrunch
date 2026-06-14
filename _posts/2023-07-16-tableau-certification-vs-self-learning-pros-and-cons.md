@@ -5,7 +5,7 @@ date: 2023-07-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Should you get Tableau certified or just learn on your own? Comparing skill depth, career impact, cost, and what employers actually value more."
-image: "/assets/images/blog/blog-104.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-03-30
@@ -15,7 +15,7 @@ In the vein of Hemingway's protagonists who often find themselves at crossroads,
 
 Read more: [The Road to Tableau Certification: Setting Goals and Achieving Them »](https://insightcrunch.com/2023/06/16/the-road-to-tableau-certification-setting-goals-and-achieving-them/)
 
-![Tableau Certification vs. Self-Learning: Pros and Cons](/assets/images/blog/blog-104.webp)
+![Tableau Certification vs. Self-Learning: Pros and Cons](/assets/images/blog/blog-45.webp)
 Tableau Certification vs. Self-Learning: Pros and Cons
 
 ## **Tableau Certification: The Defined Path**

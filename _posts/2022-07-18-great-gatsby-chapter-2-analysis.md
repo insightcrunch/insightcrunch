@@ -6,7 +6,7 @@ date: 2022-07-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 2", "The Valley of Ashes", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "Great Gatsby Chapter 2 summary and analysis: the descent into the valley of ashes, Eckleburg's brooding eyes, and the party where Tom breaks Myrtle's nose."
-image: "/assets/images/blog/blog-95.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 48
 author: "rachel-foster"
 last_updated: 2022-07-18
@@ -18,7 +18,7 @@ If Great Gatsby Chapter 2 reads like a detour, that is the trap it sets. Chapter
 
 That descent is the chapter's argument, not its accident. Fitzgerald could have shown the affair between Tom Buchanan and Myrtle Wilson in a dozen gentler ways. He chose to route the reader through the valley of ashes, past the blind billboard eyes of Doctor T. J. Eckleburg, into a garage owned by a beaten-down man, and finally into a flat where class aspiration curdles into bruises. Every movement of the chapter lowers the reader, and the lowering is the point.
 
-![The Great Gatsby Chapter 2 summary and analysis: the valley of ashes, Eckleburg's eyes, and Myrtle's party - Insight Crunch](/assets/images/blog/blog-95.webp)
+![The Great Gatsby Chapter 2 summary and analysis: the valley of ashes, Eckleburg's eyes, and Myrtle's party - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 This is the canonical reading of the chapter, and it pairs naturally with the close work this series does on the two scenes it contains. The desolate stretch and the brooding billboard get their own focused treatment in the analysis of [the valley of ashes scene in Chapter 2](/2022/07/25/great-gatsby-chapter-2-valley-of-ashes/), and the drunken flat gets its own anatomy in the reading of [Myrtle's apartment party](/2022/08/01/great-gatsby-chapter-2-myrtle-party/), while the contrast that frames the whole descent runs back to the [close reading of Chapter 1](/2022/06/27/great-gatsby-chapter-1-analysis/). What follows here is the whole-chapter view: how the parts assemble into a single fall, and why that fall matters for everything the novel does next.
 

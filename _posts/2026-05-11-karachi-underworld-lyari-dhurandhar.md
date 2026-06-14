@@ -6,7 +6,7 @@ date: 2026-05-11
 categories: ["Leisure"]
 tags: ["dhurandhar", "karachi", "lyari", "world-building", "bollywood", "production-design", "spy-thriller"]
 excerpt: "How Aditya Dhar turned the Lyari quarter into Bollywood's most immersive criminal underworld, and why this Karachi setting is the franchise's true achievement."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: "70 min read"
 author: "nandini-sen"
 last_updated: 2026-05-11
@@ -16,7 +16,7 @@ Most spy thrillers treat their locations as backdrops. A city is a location the 
 
 <!--more-->
 
-![Lyari streets and the Karachi underworld in Dhurandhar - Insight Crunch](/assets/images/blog/blog-69.webp)
+![Lyari streets and the Karachi underworld in Dhurandhar - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 That argument matters because the conventional praise heaped on Dhurandhar misses where its true craft lives. Critics applauded the performances, the brutal action, the audacity of a Bollywood production willing to set its drama inside an enemy city. All of that is true. Yet the achievement that nobody quite named is the world-building, the patient construction of a believable criminal ecosystem out of signage and stairwells and the way a tea vendor nods at a passing enforcer. This piece takes the position that Dhurandhar's Lyari belongs in the same conversation as the favelas of City of God or the concrete labyrinth of Gomorrah, and that the movie earns the comparison not through scale but through specificity. A milieu is convincing when its smallest details imply a system you never see. Lyari has that system, and the camera trusts you to feel it.
 

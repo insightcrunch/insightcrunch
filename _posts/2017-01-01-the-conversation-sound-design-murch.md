@@ -6,7 +6,7 @@ date: 2017-01-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Conversation", "Francis Ford Coppola", "Walter Murch", "Sound Design", "New Hollywood", "Film Craft"]
 excerpt: "The Conversation turns sound into suspense, replaying one recorded line until its meaning inverts, the Walter Murch craft that makes listening the drama."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 59
 author: "diana-patel"
 last_updated: 2017-01-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Most thrillers locate their suspense in something you can see: a gun in a drawer, a shadow on a wall, a body that has not yet been found. The Conversation, written, produced, and directed by Francis Ford Coppola in 1974, locates its suspense in something you can only hear, and worse, in something you cannot quite hear clearly. A surveillance expert named Harry Caul, played by Gene Hackman, records a young couple walking in circles around a crowded San Francisco plaza, and spends the rest of the film replaying the tape, cleaning it, sharpening it, until a single muttered sentence rises out of the noise and refuses to hold still. The whole machine of dread in this picture runs on audio, on the act of listening, and on the terrible discovery that what you hear is never the same as what was said.
 
-![The Conversation: How Sound Builds Its Dread](/assets/images/blog/blog-27.webp)
+![The Conversation: How Sound Builds Its Dread](/assets/images/blog/blog-60.webp)
 
 That is an unusual place to build a thriller, and it is worth pausing on how rare it really is. Cinema is an overwhelmingly visual medium, and most of its grammar, its close-ups and cutaways and reverse angles, exists to organize what the eye takes in. Coppola, working at the absolute peak of his powers in the early 1970s, between The Godfather and The Godfather Part II, made a deliberate wager that the ear could carry a feature-length story of guilt and paranoia on its own. He bet that a recording could be a character, that a remix could be a plot twist, and that the gap between a sound and its meaning was the most frightening empty space in the medium. He won the bet, and the proof is that The Conversation remains, decades on, the film that aspiring sound editors are sent to study first. This piece argues that its central achievement, the thing that makes it permanently teachable, is a craft idea we can name precisely: meaning lives in the mix, and by replaying and re-treating one sentence until it inverts, the film makes listening itself into the drama.
 

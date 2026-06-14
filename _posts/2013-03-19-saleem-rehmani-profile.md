@@ -6,7 +6,7 @@ date: 2013-03-19
 categories: ["Industry"]
 tags: ["saleem-rehmani", "designated-terrorist", "targeted-killing", "pakistan", "shadow-war", "counter-terrorism"]
 excerpt: "Profile of Saleem Rehmani, an India-designated wanted terrorist shot dead by unidentified gunmen in Pakistan, one of the very earliest confirmed cases."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 70
 author: "alex-cunningham"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Saleem Rehmani, alias Abu Saad, was shot dead by unidentified gunmen in Nawabsha
 
 <!--more-->
 
-![Saleem Rehmani Profile Analysis - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Saleem Rehmani Profile Analysis - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 Rehmani's death attracted almost no international attention when it occurred. Pakistani media covered the Nawabshah incident as a local crime story, a brief dispatch buried among reports of street robberies and property disputes in Sindh's interior. Indian media did not cover the event at all. No government claimed credit. No investigation produced results. The killing dissolved into the background noise of urban violence in Pakistan's Sindh province, unremarkable in a country where armed encounters between shopkeepers and robbers barely register as news. Only later, after Zahoor Mistry was [shot dead in Karachi by motorcycle-borne assailants](https://insightcrunch.com/2013/04/13/zahoor-mistry-ic814-hijacker-profile/) two months later in March 2022, and after the pace of similar killings accelerated through 2023 and into 2024, did analysts begin tracing the pattern backward to its earliest instances. Rehmani's January 2022 killing emerged in that retrospective analysis as one of the opening moves in a covert campaign that had been invisible while it was happening. That retrospective invisibility is itself analytically significant. The Rehmani case reveals how the campaign's architects designed their operations to be individually unremarkable while collectively unmistakable, a hallmark of intelligence doctrine refined through practice.
 

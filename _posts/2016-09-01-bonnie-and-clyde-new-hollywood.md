@@ -6,7 +6,7 @@ date: 2016-09-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Bonnie and Clyde", "Arthur Penn", "New Hollywood", "Film History", "World Cinema"]
 excerpt: "Bonnie and Clyde carried French New Wave freedom into the American studio film, the 1967 spark that lit New Hollywood and rewrote how movies showed violence."
-image: "/assets/images/blog/blog-111.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 59
 author: "rachel-foster"
 last_updated: 2016-09-01
@@ -18,7 +18,7 @@ The clearest line of influence that Bonnie and Clyde set running is also the str
 
 This is an essay about consequence rather than plot. The story of the real outlaws who blasted their way across five states from 1932 to 1934 is told well enough elsewhere, and the film itself compresses and reshapes that story for its own ends. What concerns us here is the wake the picture left behind: the conventions it overturned, the directors it emboldened, the screen grammar it normalized, and the worldwide currents it absorbed and rerouted into the studio film. Penn's work matters less for what it shows than for what it permitted, and the most useful way to read it is as a hinge, the point at which one model of American moviemaking gave way to another.
 
-![Bonnie and Clyde launched New Hollywood by importing new-wave freedom into the American studio film.](/assets/images/blog/blog-111.webp)
+![Bonnie and Clyde launched New Hollywood by importing new-wave freedom into the American studio film.](/assets/images/blog/blog-62.webp)
 
 The central claim of this analysis is the imported rupture. The young screenwriters David Newman and Robert Benton, both of them working on their first script, were saturated in the European new waves, and they built their screenplay as a deliberate transplant of that sensibility onto American soil. The freedom they admired was not theirs to invent; it had already been won in Paris and beyond. Their achievement, completed by Penn and by the producer-star Warren Beatty, was to make that freedom legible to a mass American audience inside a glossy studio production. When the picture detonated, it did not merely succeed. It rewrote the terms under which an American film could be made, and the people who walked through the door it opened built the most fertile decade the national cinema has known.
 

@@ -6,7 +6,7 @@ date: 2018-09-10
 categories: ["Industry"]
 tags: ["sindh", "nawabshah", "jamaat-ud-dawa", "madrassa", "recruitment"]
 excerpt: "How Jamaat-ud-Dawa built a madrassa and charity network across rural Sindh and what the targeted killing of Sardar Hussain Arain in Nawabshah exposed."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 72
 author: "gregory-marsh"
 last_updated: 2018-09-10
@@ -16,7 +16,7 @@ Sindh does not look like a war zone, and that is precisely why it has mattered s
 
 <!--more-->
 
-![Sindh and the JuD madrassa network mapped from Nawabshah to Hyderabad - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Sindh and the JuD madrassa network mapped from Nawabshah to Hyderabad - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The killing of Arain near Nawabshah in the summer of 2023 was treated, in the first wave of Indian coverage, as one more entry on a now familiar list. A man with a history of association with Hafiz Saeed had been shot in Pakistan, and the assumption travelled faster than the facts. Yet Arain's case sits awkwardly inside the broader pattern of unexplained eliminations precisely because it is not unexplained. A proscribed Sindhi separatist outfit, the Sindhudesh Revolutionary Army, claimed it within days, and that claim fits a documented campaign of violence against ethnic Punjabi residents of interior Sindh that long predates any wave of motorcycle killings. To understand Arain is to understand Sindh, and to understand Sindh is to understand a quieter, less cinematic layer of Pakistan's terror geography than the headquarters compounds of Punjab. This is the layer that does not announce itself: the seminary in a market town, the charity dispensary on a district road, the local notable who organises relief during floods and recruitment in between.
 

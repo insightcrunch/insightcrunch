@@ -6,7 +6,7 @@ date: 2022-06-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-debate", "romeo", "fate", "is-romeo-impulsive"]
 excerpt: "Romeo calls himself fortune's fool, yet nearly every disaster follows a choice he makes, so the question of impulse versus fate in Romeo and Juliet stays open."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2022-06-10
@@ -14,7 +14,7 @@ lang: en
 ---
 Standing outside the Capulet house at the close of Act 1 Scene 4, before he has entered the party, before he has seen the Capulet daughter, before a single thing has gone wrong, the Montague heir stops his friends and reports a foreboding. His mind misgives, he says, that some consequence still hangs in the stars and will begin its bitter course from the night's revels. The Arden third series, edited by René Weis, prints the lines as a hesitation that the boy overrides in the same breath: he hands the steerage of his course to whoever directs the sail, and walks in. Within a few hours he is married in secret. Within a few days he is a killer, an exile, and a corpse. The speech is the hinge on which the whole question of his nature turns, because in nine lines he both announces that he is doomed and chooses to proceed anyway.
 
-![Romeo impulsive or doomed Act 1 Scene 4 foreboding close reading - Insight Crunch](/assets/images/blog/blog-22.webp)
+![Romeo impulsive or doomed Act 1 Scene 4 foreboding close reading - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The standard account of this young man arrives pre-sorted into one of two bins. He is the helpless plaything of destiny, a figure the opening Chorus has already condemned before he speaks a word, his death written into the heavens above Verona. Or he is the reckless adolescent whose galloping appetites destroy him and the girl he loves, a cautionary specimen of passion without patience. Wikipedia will give the first reading in a sentence and the second in a footnote. A study guide will offer both and choose neither. What neither source does, and what this article does, is test the two readings against the actual sequence of decisions the text records, moment by moment, to show that they are not competitors at all. The argument here is that his rashness is the instrument through which the play's sense of fate is delivered, so that the choices and the stars describe the same catastrophe from two angles. The reader who finishes this piece can name every decisive act the boy commits, state the alternative the script left open at each, and explain why the verdict of impulse and the verdict of doom collapse into one.
 

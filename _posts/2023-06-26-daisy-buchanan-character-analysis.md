@@ -6,7 +6,7 @@ date: 2023-06-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Daisy Buchanan", "Character Analysis", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Daisy Buchanan: a complete character analysis of the charm, constraint, and carelessness that let her choose the safety of her cage and walk away clean."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 47
 author: "elena-wright"
 last_updated: 2023-06-26
@@ -14,7 +14,7 @@ lang: en
 ---
 Every reader of the novel arrives at the same question without quite knowing how to answer it: is Daisy Buchanan the golden dream Gatsby spends five years and an entire fortune trying to reach, or is she the careless rich woman who lets another man die for her crime and goes back to her dinner table as if nothing happened? This complete character analysis of Daisy Buchanan refuses the easy half of either answer. Daisy is neither a prize to be won nor a villain to be hissed at; she is a constrained woman who, handed one real chance to choose, chooses the cell she already knows, and the book indicts both her and the world that built the cell around her.
 
-![Daisy Buchanan complete character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-54.webp)
+![Daisy Buchanan complete character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 Most readings of Daisy fail because they stop at the surface Fitzgerald deliberately gives them. The plot-summary sites file her under "love interest," the moralizing readers file her under "shallow," and the romantic readers file her under "the dream," and all three are reading the costume rather than the person inside it. The novel is smarter than any of those labels, and so the work of this study is to read Daisy across all nine chapters as a full character with a function, a psychology, a symbolic weight, an arc, and a verdict, rather than as the bright thing Gatsby points at from the end of his dock. The reward for doing that work is large. Daisy is the hinge on which the tragedy turns, and a reader who understands her stops asking why Gatsby fails and starts asking what, exactly, he was reaching for, and whether it was ever there at all.
 

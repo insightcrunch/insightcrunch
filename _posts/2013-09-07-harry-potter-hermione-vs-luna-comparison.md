@@ -6,7 +6,7 @@ date: 2013-09-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Hermione Granger", "Luna Lovegood", "Epistemology"]
 excerpt: "Hermione vs Luna in Harry Potter: empiricism against vision, intelligence against wisdom, and why defeating Voldemort needed both ways of knowing at once."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 42
 author: "lauren-hayes"
 last_updated: 2013-09-07
@@ -16,7 +16,7 @@ lang: en
 
 The question is not which of these two witches is smarter. Put them in an examination hall and the contest is over before it begins; one of them will finish first, score highest, and correct the proctor's grammar on the way out. The question that actually matters is harder and stranger. It asks whether a person who believes only what can be proved and a person who believes anything that cannot be disproved are running the same mental operating system at different settings, or whether they are running fundamentally different machines that happen to arrive, now and then, at the same correct answer.
 
-![Hermione Granger and Luna Lovegood compared as two forms of intelligence in Harry Potter](/assets/images/blog/blog-09.webp)
+![Hermione Granger and Luna Lovegood compared as two forms of intelligence in Harry Potter](/assets/images/blog/blog-15.webp)
 
 Rowling builds her seven-book argument about knowledge around exactly this pairing, and she does something the casual reader rarely notices: she refuses to declare a winner. The bushy-haired girl who reads every book in the library and the pale girl who reads a tabloid her father edits are not set up as the right way and the wrong way to think. They are set up as two halves of a single requirement. The resistance to a fascist regime, the series quietly insists, needed the researcher who could decode a snake's anatomy and the seer who could walk a corridor by instinct. Neither could have carried the war alone. The friendship between them, threadbare and underwritten as it is, turns out to be the most precise study Rowling ever produces of how two incompatible methods of finding truth can sit in the same room without one devouring the other.
 

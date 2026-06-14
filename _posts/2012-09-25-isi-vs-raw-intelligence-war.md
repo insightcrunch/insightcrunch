@@ -6,7 +6,7 @@ date: 2012-09-25
 categories: ["Industry"]
 tags: ["isi", "raw", "intelligence-war", "india-pakistan", "espionage", "counter-intelligence"]
 excerpt: "The decades-long intelligence war between Pakistan's ISI and India's RAW, how the rivalry evolved through each major crisis, and why the balance is shifting."
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
 author: "david-thornton"
 last_updated: 2026-05-17
@@ -16,7 +16,7 @@ For four decades, the contest between Pakistan's Inter-Services Intelligence and
 
 <!--more-->
 
-![ISI vs RAW Intelligence War](/assets/images/blog/blog-73.webp)
+![ISI vs RAW Intelligence War](/assets/images/blog/blog-72.webp)
 
 The reversal has not been universally acknowledged. Pakistani analysts, military commentators, and retired directorate officers tend to dismiss the shadow war as either Indian propaganda or the work of internal Pakistani rivalries, Baloch separatists, or Tehrik-i-Taliban Pakistan factions settling scores. Indian analysts, by contrast, tend to interpret the shadow war as vindication of a long-overdue shift toward offensive capability, though New Delhi has never officially confirmed any role. The divergence in interpretation matters because it shapes how each side understands its own position in the rivalry. If Pakistan's directorate genuinely believes the shadow war is not an Indian operation, its institutional response will be calibrated to the wrong threat. If India's agency is not responsible, the analytical framework presented here would require revision on its most consequential dimension.
 

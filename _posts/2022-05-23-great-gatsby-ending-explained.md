@@ -6,7 +6,7 @@ date: 2022-05-23
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Themes", "Literary Criticism", "American Literature"]
 excerpt: "The Great Gatsby ending explained: why Gatsby dies in the pool, who skips his funeral, what the green light finally means, and why the careless survive."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2022-05-23
@@ -14,7 +14,7 @@ lang: en
 ---
 The most common way to read the ending of The Great Gatsby is also the weakest one: as a sad story about a dreamer who dies before he gets the girl. That reading is not wrong so much as small. It mistakes the funeral for the point and the death for the meaning. The closing chapters of Fitzgerald's novel are not a tragedy of romance at all. They are a verdict, delivered quietly, on who survives and who does not, and on what the survival costs the people left standing. To understand the ending of The Great Gatsby is to understand that the book stops caring about whether Gatsby gets Daisy long before Gatsby does, and turns instead to a harder question: what kind of world lets a man like Gatsby die in a swimming pool while the people who killed him drive away.
 
-![The Great Gatsby ending explained](/assets/images/blog/blog-81.webp)
+![The Great Gatsby ending explained](/assets/images/blog/blog-06.webp)
 
 This guide reads the last act of the novel for meaning rather than recapping it. It works through the death in Chapter 8, the funeral in Chapter 9, the arrival of Gatsby's father, and the closing meditation in which Nick reframes the green light as something larger than one man's longing. Along the way it isolates the single best argument the ending makes, names the misreadings that wreck student essays, and supplies a decoder that maps each closing beat to the meaning the book asks you to carry out of it. The famous final sentence has its own dedicated treatment in [the analysis of the last line of The Great Gatsby](/2029/01/01/gatsby-last-line-explained/); here the work is the resolution as a whole, the shape of the close and the judgment built into it.
 

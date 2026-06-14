@@ -6,7 +6,7 @@ date: 1995-12-04
 categories: ["Industry"]
 tags: ["SAT", "Prep Industry", "Evidence", "Value", "Analysis"]
 excerpt: "The SAT prep industry examined: what the evidence says about course effectiveness, the marketing tactics to watch, and what paid prep really buys you."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 2026-06-09
@@ -14,7 +14,7 @@ lang: en
 ---
 A family writes a check for two thousand dollars, sometimes far more, and believes they have bought a higher score. That belief is the engine of the SAT prep industry, and it is mostly wrong about what the money does. The check does not buy a secret method, a hidden question bank, or knowledge that a disciplined student could not find for free. It buys structure, accountability, scheduling, and a person to answer to on Tuesday afternoon. Those things have real value for some students and almost none for others, and the difference between the two cases is the most useful thing a parent can learn before spending anything at all.
 
-![SAT prep industry effectiveness evidence and what paid prep buys analysis - Insight Crunch](/assets/images/blog/blog-26.webp)
+![SAT prep industry effectiveness evidence and what paid prep buys analysis - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 This piece does something the marketing pages will not. It separates the part of paid preparation that genuinely moves a score from the part that is theater, it reads the actual evidence on whether commercial courses work rather than the testimonial reel, and it gives you a ledger you can hold against any tutor, course, or app before you pay. The verdict, stated up front so the rest of the article can earn it, is that for most students a disciplined plan built on free material matches what a paid course delivers, and that paid preparation earns its price mainly when a student cannot supply their own structure. That is not a slogan. It is what the research base, read honestly, actually shows, and the rest of this analysis walks through the evidence, the marketing tactics that obscure it, and the cases where spending the money is the right call.
 

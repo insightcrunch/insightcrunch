@@ -6,7 +6,7 @@ date: 2008-09-01
 categories: ["Leisure"]
 tags: ["franklin-pierce", "decision-reconstruction", "us-presidents", "kansas-nebraska-act", "bleeding-kansas", "republican-party"]
 excerpt: "Pierce backed Douglas on Kansas-Nebraska in January 1854, repealing the Missouri Compromise. The signing birthed the Republican Party and killed his own."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 62
 author: "michael-brooks"
 last_updated: 2008-09-01
@@ -18,7 +18,7 @@ Sunday, January 22, 1854. The White House sitting room held seven men whose deci
 
 The Sabbath constraint was not ornamental. Pierce, a Democrat shaped by Calvinist habits inherited from his New Hampshire upbringing and by the recent death of his eleven-year-old son Bennie, did not conduct government business on Sundays as a rule. Douglas and Atchison knew this. They had come anyway because the bill could not wait another day. The Missouri delegation had threatened to defect from the administration's coalition if Pierce refused to back the explicit repeal. Atchison had told colleagues he would "see the Missouri Compromise line obliterated, sir, or sink in hell," and he meant it. Davis had argued through the previous week that Pierce had no realistic option but to back the explicit repeal Atchison demanded. Cushing agreed. Pierce listened, asked questions, and within ninety minutes committed his administration to a bill he had not drafted, did not yet fully grasp, and would never recover from supporting.
 
-![Pierce Kansas-Nebraska January 22 1854 White House decision reconstruction - Insight Crunch](/assets/images/blog/blog-41.webp)
+![Pierce Kansas-Nebraska January 22 1854 White House decision reconstruction - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The signature five months later, on May 30, 1854, would ignite Bleeding Kansas. It would birth the Republican Party at Ripon, Wisconsin on March 20, 1854 and crystallize the party at Jackson, Michigan on July 6, 1854. It would collapse the northern Democratic delegation from ninety-one House members in the Thirty-Third Congress to twenty-five in the Thirty-Fourth. It would set in motion the realignment that elected Abraham Lincoln in 1860 and triggered the secession winter of 1860 through 1861. The historical record, more open now than in any previous decade because of the Pierce papers, the Davis correspondence, the Douglas papers at the University of Chicago, and the Atchison files at the State Historical Society of Missouri, allows reconstruction of that Sunday afternoon decision and its slow detonation into national catastrophe.
 

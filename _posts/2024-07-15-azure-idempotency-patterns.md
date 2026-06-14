@@ -6,7 +6,7 @@ date: 2024-07-15
 categories: ["Technology"]
 tags: ["Azure", "Idempotency", "Architecture", "Messaging", "Cloud Computing"]
 excerpt: "Idempotency on Azure turns at-least-once delivery into safe, effectively-once processing using idempotency keys, a processed-state store, and the outbox."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 61
 author: "david-thornton"
 last_updated: 2024-07-15
@@ -16,7 +16,7 @@ A payment service charged a customer twice on a Friday afternoon. Nothing crashe
 
 The gap between expecting exactly-once delivery and getting at-least-once delivery is where double charges, duplicate emails, doubled inventory decrements, and replayed state transitions come from. Closing that gap is not a feature you toggle on. It is a small set of patterns you apply deliberately: an idempotency key that names a unit of work, a processed-state store that records what has already happened, deduplication that rejects a repeat before it does damage, and the outbox pattern that keeps your database and your published events from drifting apart. Put together, these turn an at-least-once channel into processing that behaves as though each message landed exactly once.
 
-![Idempotency and exactly-once patterns on Azure](/assets/images/blog/blog-24.webp)
+![Idempotency and exactly-once patterns on Azure](/assets/images/blog/blog-46.webp)
 
 ## The effectively-once rule that most exactly-once expectations miss
 

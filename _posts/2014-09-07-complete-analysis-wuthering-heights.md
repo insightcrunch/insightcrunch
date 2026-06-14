@@ -6,7 +6,7 @@ date: 2014-09-07
 categories: ["Leisure"]
 tags: ["wuthering-heights", "emily-bronte", "novel-analysis", "victorian-literature", "class-in-literature", "classic-literature"]
 excerpt: "Wuthering Heights is not a romance. It is Brontë's structured argument about class conflict, childhood cruelty, and Victorian property inheritance law."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2014-09-07
@@ -16,7 +16,7 @@ Wuthering Heights is not a love story. It is a story about what happens when lov
 
 <!--more-->
 
-![Complete Analysis of Wuthering Heights - Insight Crunch](/assets/images/blog/blog-77.webp)
+![Complete Analysis of Wuthering Heights - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The namable claim this analysis defends is direct: Wuthering Heights is about class, property, and childhood cruelty, and the romantic reading obscures what Brontë specifically wrote. The two-generation structure that organizes the entire plot is not a narrative convenience but the argument itself. The first generation - Heathcliff, Catherine Earnshaw, Hindley Earnshaw, Edgar Linton, Isabella Linton - destroys itself through passion that cannot find legitimate expression within the class structure that governs Yorkshire property relations. The second generation - young Cathy Linton, Hareton Earnshaw, Linton Heathcliff - recapitulates the first generation's conflicts but resolves them differently, because Heathcliff's obsessive revenge has exhausted itself and left space for something quieter and more durable. Brontë's argument is that obsession must burn itself out before peace becomes possible, and that the burning consumes not just the obsessed but everyone within reach.
 

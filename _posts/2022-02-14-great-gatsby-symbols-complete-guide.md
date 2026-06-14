@@ -6,7 +6,7 @@ date: 2022-02-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Symbolism", "The Green Light", "F. Scott Fitzgerald", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby symbols form a connected system, not a glossary. See how the green light, the eyes, the valley of ashes, and the colors shift in meaning."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2022-02-14
@@ -14,7 +14,7 @@ lang: en
 ---
 Most readers meet the symbols in The Great Gatsby one at a time, as a list to memorize before a test: green light equals hope, eyes equal God, valley equals decay. That list will get you through a quiz and fail you on an essay, because Fitzgerald did not build a glossary. He built a connected machine in which the green light, the watching eyes, the gray valley, and the recurring colors answer one another across the whole novel, change meaning as the story moves, and finally collapse into a single argument about longing and its cost. This guide treats the symbols as that working system rather than as separate facts, so that by the end you can trace how each one shifts, show how they speak to one another, and defend a reading instead of reciting an equivalence.
 
-![The Great Gatsby symbols explained as a connected system, the green light, the eyes of Eckleburg, the valley of ashes, and color - Insight Crunch](/assets/images/blog/blog-60.webp)
+![The Great Gatsby symbols explained as a connected system, the green light, the eyes of Eckleburg, the valley of ashes, and color - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The difference between a glossary and a system is the difference between a quiz answer and an interpretation. A glossary fixes one meaning to each object and stops. A system asks what the objects do together, why they appear where they appear, and how their meaning travels across the chapters. Fitzgerald wrote a short novel, and he loaded its few central images with enormous pressure precisely because there are so few of them. The green light appears at three hinge points. The billboard eyes preside over the novel's bleakest ground and return at its moment of violence. The valley of ashes sits geographically and morally between the two worlds the plot moves between. The colors are not decoration; they are a coded palette that sorts the cast into the longing, the falsely innocent, the corrupt, and the dead. Read together, these elements do not merely illustrate the story's themes. They generate them.
 

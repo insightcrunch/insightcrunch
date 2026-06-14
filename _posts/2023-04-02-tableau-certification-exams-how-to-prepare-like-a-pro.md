@@ -5,7 +5,7 @@ date: 2023-04-02
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Pro-level Tableau exam preparation. The study structure, practice-to-theory ratio, mock test strategy, and day-of techniques that top scorers use."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-03-30
@@ -19,7 +19,7 @@ Read more: [The Ultimate Guide to Tableau Certification: Everything You Need to 
 
 Tableau certification validates your command over data visualization, dashboard creation, and analysis. It serves as a tangible testament to your expertise and opens doors to new opportunities in the realm of data analytics.
 
-![Tableau Certification Exams: How to Prepare Like a Pro](/assets/images/blog/blog-100.webp)
+![Tableau Certification Exams: How to Prepare Like a Pro](/assets/images/blog/blog-58.webp)
 Tableau Certification Exams: How to Prepare Like a Pro
 
 ## Crafting Your Strategy: Techniques to Prepare Like a Pro

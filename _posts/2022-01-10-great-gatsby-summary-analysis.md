@@ -6,7 +6,7 @@ date: 2022-01-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Plot Summary", "Close Reading", "F. Scott Fitzgerald", "American Literature", "Themes"]
 excerpt: "A Great Gatsby summary that does more than recap: a chapter-by-chapter walk through the whole plot, explaining why each turn happens and what it means."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 59
 author: "amanda-ross"
 last_updated: 2022-01-10
@@ -14,7 +14,7 @@ lang: en
 ---
 Most people who search for a Great Gatsby summary want one of two things: to find out what happens, or to remember what happened before an exam or a discussion. The trouble is that the standard summary gives you the events and almost nothing else. You learn that Gatsby loves Daisy, that there is a car accident, that Gatsby dies, and you close the page knowing the shape of the story without understanding a single one of its turns. That kind of recap is enough to bluff your way through a conversation for about ninety seconds. It is not enough to say anything true about the book.
 
-![The Great Gatsby plot summary and chapter analysis explained - Insight Crunch](/assets/images/blog/blog-16.webp)
+![The Great Gatsby plot summary and chapter analysis explained - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 This summary is built differently. It moves through all nine chapters in order, but it never reports an event without telling you what that event does: what it causes, what it reveals, and how it pushes the story toward its ending. Fitzgerald did not write a sequence of incidents. He wrote a chain in which each link pulls the next, so that the death in chapter eight is already shadowed on the first page and the confrontation that breaks everything open is set in motion by a reunion two chapters earlier. Read this way, the plot stops being a list and becomes an argument the novel makes about wealth, longing, and the impossibility of repeating the past.
 

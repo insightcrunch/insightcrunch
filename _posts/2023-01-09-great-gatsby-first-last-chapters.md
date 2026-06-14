@@ -6,7 +6,7 @@ date: 2023-01-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 1", "Chapter 9", "Close Reading", "The Green Light", "F. Scott Fitzgerald"]
 excerpt: "The first and last chapters of Gatsby form a closed circle: the green light returns and Nick has changed, and the matched frame measures exactly what was lost."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 47
 author: "chloe-martin"
 last_updated: 2023-01-09
@@ -14,7 +14,7 @@ lang: en
 ---
 Read the first and last chapters of Gatsby back to back, with the seven chapters between them set aside, and a shape appears that a straight read through the novel tends to hide. The book opens and closes on the same two things: a green light burning across the water, and a narrator weighing whether the people around him deserve his judgment. Fitzgerald sets those two elements down in Chapter 1 and then picks them up again on the final page of Chapter 9, almost unchanged in their wording and entirely changed in their weight. The novel does not simply end. It returns to its own beginning and lets the reader feel the distance traveled. That return is the subject of this comparison, and it is the strongest evidence that The Great Gatsby is built as a closed circle rather than a straight line.
 
-![The first and last chapters of The Great Gatsby compared, Chapter 1 and Chapter 9 as a closed circle - Insight Crunch](/assets/images/blog/blog-78.webp)
+![The first and last chapters of The Great Gatsby compared, Chapter 1 and Chapter 9 as a closed circle - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The pairing matters because most readers meet these two chapters far apart, separated by the parties, the reunion, the heat of the Plaza, and a killing. By the time the green light reappears in Nick's closing meditation, the reader has been carried so far from the dock at the end of Chapter 1 that the echo can pass unnoticed. Yet Fitzgerald put it there deliberately. The same symbol bookends the book, and the same narrator stands at both ends, but the narrator who delivers the final page is not the one who arrived in the East at the start. Setting the two chapters side by side turns a quiet structural rhyme into an argument about what the whole novel measures: the gap between hope at the threshold and knowledge at the close.
 

@@ -6,7 +6,7 @@ date: 2019-12-16
 categories: ["Industry"]
 tags: ["predictions", "shadow-war", "future", "endgame", "escalation", "analysis"]
 excerpt: "Predicting the next phase of India's covert shadow war in Pakistan, the targets that remain, the escalation risks, and why nobody can define how it ends."
-image: "/assets/images/blog/blog-52.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 71
 author: "abigail-cooper"
 last_updated: 2019-12-16
@@ -16,7 +16,7 @@ A campaign that never announced its objective also never announced an ending. In
 
 <!--more-->
 
-![What Comes Next in the Shadow War](/assets/images/blog/blog-52.webp)
+![What Comes Next in the Shadow War](/assets/images/blog/blog-101.webp)
 
 Prediction is an uncomfortable exercise, and it should be performed with humility. Nobody forecasting the trajectory of a deniable intelligence operation can claim certainty, because the operation's own designers have left no public roadmap and may not themselves possess one. What follows is therefore not a forecast in the sense of a weather report. It is a structured argument about the small number of futures the shadow war can plausibly produce, the conditions under which each becomes more or less likely, and the strategic logic that pushes the campaign toward some outcomes and away from others. The honest version of this analysis acknowledges its own limits at every turn, presents probabilities rather than confident assertions, and treats the reader as an adult capable of weighing evidence rather than a consumer to be reassured.
 

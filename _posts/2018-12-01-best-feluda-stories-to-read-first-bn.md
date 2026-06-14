@@ -6,7 +6,7 @@ date: 2018-12-01
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction", "reading-guide"]
 excerpt: "প্রথমবার ফেলুদা পড়ছেন এমন বাঙালি পাঠকের জন্য একটি সূচনা-নির্দেশিকা, পারিবারিক প্রেক্ষাপটে কোথায় শুরু করবেন"
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 145
 author: "amit-chatterjee"
 lang: bn
@@ -17,7 +17,7 @@ last_updated: 2026-04-01
 
 <!--more-->
 
-![প্রথমে কোন ফেলুদা গল্প পড়বেন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-03.webp)
+![প্রথমে কোন ফেলুদা গল্প পড়বেন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-55.webp)
 
 ## কেন একটি সূচনা-নির্দেশিকা প্রয়োজন, ফেলুদা-সমগ্রের বিপুলতা
 

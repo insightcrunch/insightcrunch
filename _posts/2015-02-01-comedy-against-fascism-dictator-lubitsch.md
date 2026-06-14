@@ -6,7 +6,7 @@ date: 2015-02-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Great Dictator", "To Be or Not to Be", "Charlie Chaplin", "Ernst Lubitsch", "Comedy", "World Cinema"]
 excerpt: "The Great Dictator and To Be or Not to Be both fought fascism with comedy, Chaplin through sincerity and Lubitsch through irony, two rival strategies compared."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 61
 author: "chloe-martin"
 last_updated: 2015-02-01
@@ -16,7 +16,7 @@ Two comedians stood at the same crossroads within two years of each other and ch
 
 This is a comparative double-bill, and the goal is a verdict, not a shrug. By the end you should be able to say which strategy you trust more when an artist points a comedy at organized evil, and why, with the deciding criterion named rather than felt. The argument here runs on a single distinction that the two films make visible by embodying its extremes. Call it sincerity versus irony. The Great Dictator confronts fascism by dropping the comedy to speak plainly. To Be or Not to Be confronts it by never breaking the joke. Each film exposes the limit of the other, and watching them back to back is the fastest education available in what comedy can and cannot do against tyranny.
 
-![How The Great Dictator and To Be or Not to Be confront fascism with comedy, a comparative analysis - Insight Crunch](/assets/images/blog/blog-13.webp)
+![How The Great Dictator and To Be or Not to Be confront fascism with comedy, a comparative analysis - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 ## Why These Two Films Belong Together
 

@@ -6,7 +6,7 @@ date: 2008-05-02
 categories: ["Leisure"]
 tags: ["harry-truman", "decision-reconstruction", "us-presidents", "korean-war", "douglas-macarthur", "civilian-military-relations"]
 excerpt: "Harry Truman fired General Douglas MacArthur on April 11, 1951, after months of public insubordination on Korea. Civilian control held at 23 percent approval."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 71
 author: "rachel-foster"
 last_updated: 2008-05-02
@@ -14,7 +14,7 @@ lang: en
 ---
 The leak reached the White House late in the evening of April 10, 1951. The Chicago Tribune had obtained word of the firing order and intended to run the story in its morning edition. Joseph Short, the press secretary who had been on the job for less than four months, had to wake the senior staff and pull forward a public announcement originally scheduled for later in the day. At one in the morning Eastern time on April 11, the order went out via the regular military communications system, the same channels used for routine field correspondence. The most decorated American officer of the twentieth century was relieved of all four of his commands without ceremony, without warning to the relieved officer ahead of the public, and without a graceful exit narrative drafted by the staff who normally produce such things. The general would learn of his removal from an aide who heard it on the radio.
 
-![Truman fires MacArthur April 1951 civilian control decision - Insight Crunch](/assets/images/blog/blog-62.webp)
+![Truman fires MacArthur April 1951 civilian control decision - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The political consequences arrived almost immediately. Approval for the president dropped to twenty-three percent within weeks of the announcement, the lowest figure recorded for any occupant of the office until Richard Nixon broke through that floor during the final weeks of Watergate. Telegrams ran roughly twenty to one against the firing in the days following the public announcement. Senator Richard Nixon of California proposed a resolution of impeachment. Effigies of the president were burned in cities across the country. The man being fired returned home to a ticker-tape parade in New York that drew an estimated seven and a half million people, larger than the celebration of victory over Japan in 1945. The decision made on April 10 looked at the time like the ruin of the Truman presidency. It also became, almost without exception in subsequent scholarly judgment, the single act for which the thirty-third president would later be rehabilitated and praised. The reconstruction of how that decision was made, by whom, against what evidence, and over what objections, is the subject of this article.
 

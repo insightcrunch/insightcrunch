@@ -6,7 +6,7 @@ date: 2002-09-16
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Foundational Values", "Civil Service Ethics", "IAS Preparation"]
 excerpt: "UPSC GS4 foundational values deep dive: integrity impartiality non-partisanship objectivity dedication empathy tolerance compassion with administrative examples."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 65
 author: "deepika-joshi"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC GS4 aptitude and foundational values for civil service represents the sylla
 
 The cognitive shift required is from treating foundational values as concepts requiring definitions to treating them as integrated competencies requiring demonstration through specific administrative scenarios. The aspirant who writes about integrity by providing dictionary definition without illustrating integrity through specific administrative scenarios where the value applies signals abstract preparation that lacks demonstration capacity. The aspirant who writes about integrity by demonstrating how integrity applies when officer faces pressure to overlook procedural violation by senior officer's instruction how integrity applies when officer encounters financial inducement attempts during procurement decisions how integrity applies when officer must report misconduct by close colleague despite personal relationship and how integrity applies in maintaining consistency between professional values and personal conduct across visible and non-visible dimensions of work demonstrates demonstration capacity that UPSC GS4 actually rewards. Both aspirants may know what integrity means; only one signals the substantive engagement that GS4 foundational values questions actually test.
 
-![UPSC GS4 Aptitude and Foundational Values Deep Dive - Insight Crunch](/assets/images/blog/blog-12.webp)
+![UPSC GS4 Aptitude and Foundational Values Deep Dive - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 By the end of this guide you will understand the conceptual architecture of aptitude and foundational values as GS4 syllabus content, the specific foundational values articulated through syllabus including integrity impartiality non-partisanship objectivity dedication to public service empathy tolerance and compassion towards weaker sections, the demonstration approach for each value through specific administrative scenarios, the integration approach for multi-value treatment, the contemporary administrative challenges that test foundational values, the answer-writing techniques for foundational values questions, the source hierarchy for systematic preparation, the integration with broader GS4 preparation, and the common mistakes that produce foundational values question underperformance. The total time investment for dedicated foundational values preparation across the cycle is approximately 25 to 35 hours building on broader GS4 foundational reading.
 

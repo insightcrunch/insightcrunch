@@ -6,7 +6,7 @@ date: 2023-07-24
 categories: ["Technology"]
 tags: ["Azure", "Azure Policy", "Governance", "Security", "DevOps", "Cloud Computing"]
 excerpt: "Set up Azure Policy for governance by choosing the right effect, grouping rules into initiatives, assigning at the correct scope, and remediating drift."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 62
 author: "abigail-cooper"
 last_updated: 2023-07-24
@@ -14,7 +14,7 @@ lang: en
 ---
 Most teams that say they have governance in place have a folder of policy assignments that audit and a compliance dashboard full of red. Nothing is prevented, nothing is fixed, and the dashboard is a record of drift rather than a control on it. The reason is almost never the rule that was written. It is the effect that rule carries. Azure Policy enforces standards only as strongly as the effect each definition declares, and choosing that effect is the real governance decision, not the resource type or the condition you match on.
 
-![Setting up Azure Policy for governance with effects, initiatives, scopes, and remediation - Insight Crunch](/assets/images/blog/blog-36.webp)
+![Setting up Azure Policy for governance with effects, initiatives, scopes, and remediation - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This is the gap this guide closes. You can stand up an assignment in five minutes from the portal, and the documentation will happily walk you through it. What the documentation rarely connects is the chain that turns a written rule into an enforced one: an effect that prevents or remediates rather than merely observes, an initiative that groups related controls so they assign and report as a unit, a scope that lands the control where it belongs and inherits no further than intended, an exemption that records the one justified exception without weakening everything else, and a remediation task that drags existing noncompliant assets into line instead of waiting for someone to recreate them. Miss any link and you get the folder of red dashboards. Get the chain right and standards are enforced rather than documented, which is the whole point.
 

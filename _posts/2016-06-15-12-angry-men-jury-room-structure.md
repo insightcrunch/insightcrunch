@@ -6,7 +6,7 @@ date: 2016-06-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "12 Angry Men", "Sidney Lumet", "Legal Drama", "Screenwriting", "Film History"]
 excerpt: "12 Angry Men turns one jury room and a lone dissenting vote into a gripping feature, flipping jurors one at a time so structure, not spectacle, drives it."
-image: "/assets/images/blog/blog-102.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2016-06-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A feature film that almost never leaves a single room should be a recipe for tedium. Twelve men sit around a table on the hottest day of the year, argue, and eventually agree. There is no chase, no romance, no location work to speak of, no spectacle in the conventional sense at all. Yet 12 Angry Men, Sidney Lumet's 1957 debut from Reginald Rose's screenplay, holds an audience for ninety-six minutes through nothing but talk, and it does so by turning argument itself into the engine of the drama. The script takes one premise, a jury that begins eleven to one for conviction, and converts it into a chain of small reversals, each juror's mind flipping in sequence until the room has turned completely. That conversion, vote by vote, is the structural achievement, and it is the reason screenwriters still open this script to study how a story can be built almost entirely from the pressure of people reasoning in a confined space.
 
-![12 Angry Men jury room structure](/assets/images/blog/blog-102.webp)
+![12 Angry Men jury room structure](/assets/images/blog/blog-02.webp)
 
 The film's reputation as a courtroom classic is slightly misleading, because the courtroom is precisely what the picture leaves behind. The trial is over before the first frame of the deliberation; the judge's instructions, delivered in a flat monotone, are the last thing the audience hears from the legal apparatus. From that point the drama belongs entirely to the jury room, a space roughly the size of a generous living room, furnished with a long table, a water cooler, a few windows that will not open, a fan that will not start, and a washroom off to the side. Within those walls a writer and a director set themselves a problem that most of the medium spends its energy avoiding: how to make stasis dramatic, how to wring suspense from people who are forbidden to leave until they decide. The answer they found has become one of the most studied structures in screenwriting, and it rewards a close look at exactly how the architecture is assembled.
 

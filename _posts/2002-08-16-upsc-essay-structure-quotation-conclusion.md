@@ -6,7 +6,7 @@ date: 2002-08-16
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Essay Paper", "Essay Structure", "Quotation", "IAS Preparation"]
 excerpt: "UPSC essay structure quotation and conclusion techniques: funnel introduction PESTLE body framework action point conclusion quotation deployment essay aesthetics."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 65
 author: "anita-das"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC essay structural techniques represent the dimension where aspirants either 
 
 The cognitive shift required is from treating essay structure as natural by-product of content writing to treating it as systematic craftsmanship requiring specific techniques deliberately deployed. The aspirant who writes essays without conscious attention to introduction architecture body paragraph internal structure transition technique quotation integration and conclusion synthesis produces essays where structural weaknesses obscure substantive content. The aspirant who deliberately deploys funnel introduction technique PESTLE-based body organisation explicit transition sentences integrated quotations and action point conclusions produces essays where polished structure showcases substantive content. Both aspirants may have similar content; only one demonstrates the structural craftsmanship that converts content into marks.
 
-![UPSC Essay Structure Quotation and Conclusion Techniques - Insight Crunch](/assets/images/blog/blog-96.webp)
+![UPSC Essay Structure Quotation and Conclusion Techniques - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 By the end of this guide you will understand the funnel introduction technique with three essential components, the PESTLE body framework with adaptive deployment, the action point conclusion technique with synthesis-plus-forward-look architecture, the quotation integration strategy avoiding decoration, the transition technique connecting paragraphs into flowing argument, the essay aesthetics including handwriting layout and presentation considerations, the introduction-conclusion bookending technique, the structural variation patterns for different topic types, the common structural mistakes that produce essay underperformance, the systematic practice approach for technique mastery, and the integration with broader essay preparation. The total time investment for dedicated structural technique preparation across the cycle is approximately 15 to 25 hours building on broader essay preparation. The broader essay framework is established in the [UPSC Mains essay paper strategy for 150 plus](/2002/08/29/upsc-mains-essay-paper-strategy/) article that contextualises structural techniques within comprehensive essay architecture, with content-specific guidance in the [UPSC essay philosophical and abstract topics strategy](/2002/08/25/upsc-essay-philosophical-abstract-topics/) article and the [UPSC essay current affairs and policy-based topics](/2002/08/20/upsc-essay-current-affairs-policy-topics/) article that address Section A and Section B content engagement respectively.
 

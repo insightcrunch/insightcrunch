@@ -6,7 +6,7 @@ date: 2023-01-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter Analysis", "Close Reading", "F. Scott Fitzgerald", "Structure", "American Literature"]
 excerpt: "How the nine chapters of The Great Gatsby are built into a deliberate sequence: four to build the dream, one to pivot, two to escalate, then two to fall."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 47
 author: "amanda-ross"
 last_updated: 2023-01-16
@@ -14,7 +14,7 @@ lang: en
 ---
 Most readers move through *The Great Gatsby* counting nine chapters the way they count mile markers, as neutral intervals that happen to fall where Fitzgerald put a number. That habit hides the single most useful fact about the book's design: how the nine chapters are built is itself an argument. They are not equal units of road. They are a shaped sequence, four chapters that build a world and a longing, one chapter that pivots the whole thing on its hinge, two that escalate the pressure until it detonates, and two that let the wreckage settle into meaning. Read the divisions as architecture and the novel stops being a story that merely happens to you and becomes a structure you can take apart, name, and defend in an essay.
 
-![The nine-chapter structural design of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-41.webp)
+![The nine-chapter structural design of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 This is the design reading. The plot beats themselves, the chronological order of events, and the craft of the prose each get their own treatment elsewhere in this series, and they are linked below where they matter. Here the object of study is the chaptering: the proportions, the placements, the handoffs, and the choice of where to cut. Fitzgerald revised this novel hard, and the nine-part shape that survived is one of the most deliberate things about it. A reader who can see the proportions can see the craft.
 

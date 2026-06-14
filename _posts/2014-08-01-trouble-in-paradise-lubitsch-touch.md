@@ -6,7 +6,7 @@ date: 2014-08-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Trouble in Paradise", "Ernst Lubitsch", "Sophisticated Comedy", "Film Analysis", "Directors"]
 excerpt: "Trouble in Paradise (1932) defines the Lubitsch touch: how Ernst Lubitsch turned sex, money, and feeling into pure cinematic suggestion and implication."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 59
 author: "diana-patel"
 last_updated: 2014-08-01
@@ -16,7 +16,7 @@ The phrase arrives before the evidence does. People say a comedy has "the Lubits
 
 The argument of this analysis is that the Lubitsch touch can be defined operationally, from the screen rather than from the legend, and that once you can name its devices you can see exactly how a European theatrical sophistication got translated into a purely cinematic grammar. That translation is the achievement. A stage comedy of manners makes its sophistication out of dialogue, out of the epigram and the timed pause and the actor's raised eyebrow. Lubitsch took the same adult content, the same equation of erotic desire with money and theft, and found a way to carry it in the architecture of the film itself: in a closed door, in an object held a beat too long, in a cut that arrives one moment before you expect it and leaves the rest to you. That is why the touch is a directorial signature and not a writer's, even though Lubitsch worked with one of the finest screenwriters of the sound era. The wit on the page is excellent. The wit of the cutting and the framing is the part no other filmmaker could reproduce.
 
-![How Trouble in Paradise defines the Lubitsch touch through ellipsis and suggestion, an analysis - Insight Crunch](/assets/images/blog/blog-22.webp)
+![How Trouble in Paradise defines the Lubitsch touch through ellipsis and suggestion, an analysis - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 ## The directorial problem behind Trouble in Paradise
 

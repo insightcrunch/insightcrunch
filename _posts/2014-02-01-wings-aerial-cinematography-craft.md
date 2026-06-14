@@ -6,7 +6,7 @@ date: 2014-02-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Wings", "William Wellman", "Cinematography", "Film History", "World Cinema", "Film Analysis"]
 excerpt: "How Wings (1927) filmed real aerial combat with fuselage camera rigs and one motorized cafe dolly move, and why its in-camera spectacle still teaches."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2014-02-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The hardest thing about *Wings* was not the love triangle or the studio politics or the Texas weather that kept hundreds of people idle for days. The hardest thing was a question no cinematographer of 1927 had answered: how do you put an audience inside a dogfight that is happening two thousand feet up, at a hundred miles an hour, in an open cockpit, with the actor's face large enough to read and the enemy plane real enough to fear? William A. Wellman and his crew solved that problem by refusing the easy answers their colleagues abroad were taking, and the solution they built is why this First World War aviation drama remains a working document for anyone who films motion, danger, and scale. The film is studied less for what it says than for how it shows, and the how is unusually instructive because so much of it is verifiably real.
 
-![How Wings (1927) filmed real aerial combat with fuselage camera rigs, a craft analysis - Insight Crunch](/assets/images/blog/blog-72.webp)
+![How Wings (1927) filmed real aerial combat with fuselage camera rigs, a craft analysis - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 That distinction, real versus simulated, is the spine of everything worth saying about the picture's technique. The thrill of the aerial sequences is not the thrill of a convincing illusion. It is the thrill of footage the audience correctly suspects was dangerous to obtain. A modern viewer raised on seamless digital compositing has to make a small mental adjustment to feel it, but once the adjustment is made the sequences land harder than most contemporary spectacle, because the camera and the bodies in front of it shared the same sky and the same risk. The argument of this analysis is that *Wings* sells danger through the viewer's knowledge that the planes and pilots are genuine, a logic this piece will call the verification spectacle, and that this logic is the precise opposite of the constructed sublime being engineered in Germany at the same moment. Two national cinemas, two routes to overwhelming a crowd, and the difference between them explains more about each than any plot summary could.
 

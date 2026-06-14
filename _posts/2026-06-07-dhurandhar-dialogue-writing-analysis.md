@@ -6,7 +6,7 @@ date: 2026-06-07
 categories: ["Leisure"]
 tags: ["dhurandhar", "dialogue", "screenwriting", "bollywood", "aditya-dhar", "film-writing"]
 excerpt: "How Dhurandhar rewrites Bollywood speech: restraint over melodrama, silence as punctuation, and lines that say far less than the people speaking them mean."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 71
 author: "nandini-sen"
 last_updated: 2026-06-07
@@ -16,7 +16,7 @@ There is a long tradition in Hindi cinema of telling the spectator exactly how t
 
 <!--more-->
 
-![Dhurandhar Dialogue Writing Analyzed - Insight Crunch](/assets/images/blog/blog-21.webp)
+![Dhurandhar Dialogue Writing Analyzed - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 The argument of this piece is simple to state and difficult to execute on screen: Dhurandhar inverts the default grammar of Bollywood speech. Where the tradition announces emotion, this writing suppresses it. Where the tradition explains, this writing trusts the spectator to infer. The devastating moments in both installments are built on a gap, the distance between what a person actually says and what the spectator understands them to feel, and the screenplay engineers that gap with the precision of a man defusing something. A spy survives by saying less than he knows. Dhar made an entire screenwriting philosophy out of that single professional truth.
 

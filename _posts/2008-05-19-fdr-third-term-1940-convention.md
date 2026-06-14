@@ -6,7 +6,7 @@ date: 2008-05-19
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "decision-reconstruction", "us-presidents", "third-term", "two-term-tradition", "1940-election"]
 excerpt: "FDR broke the 144-year two-term norm Washington set in 1796. The July 1940 Chicago convention was stage-managed. A voice from the sewer sealed it all."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 73
 author: "diana-patel"
 last_updated: 2008-05-19
@@ -14,7 +14,7 @@ lang: en
 ---
 At 9:43 p.m. on Wednesday, July 17, 1940, the lights in the Chicago Stadium dimmed and a deep, amplified voice rolled through the hall: "We want Roosevelt. The world wants Roosevelt." The voice belonged to Thomas D. Garry, Superintendent of Sewers for the city of Chicago, sitting in a basement room with a live microphone fed into the gathering's public-address system. Mayor Edward J. Kelly had arranged the placement. For roughly fifty-three minutes the delegates marched, shouted, and waved standards while Senator Alben Barkley, the permanent chairman, stood at the rostrum unable to call order. Outside the hall, banners rained from balconies. Inside, the President of the United States was at his desk in the second-floor study at the White House, listening on the radio with Harry Hopkins and Missy LeHand. Hopkins, who had been running the Chicago operation from a suite at the Blackstone Hotel since June, had wired the script in advance. The voice from the sewer was the audible moment a 144-year informal constitutional norm cracked.
 
-![FDR third-term decision 1940 Chicago convention voice from the sewer reconstruction - Insight Crunch](/assets/images/blog/blog-36.webp)
+![FDR third-term decision 1940 Chicago convention voice from the sewer reconstruction - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The norm in question had a name attached to it: George Washington's. In September 1796, the first president had quietly declined to seek the office a third time, and the example calcified across fourteen decades into something every politically literate American treated as binding without anyone ever writing it down. Jefferson honored it in 1808. Madison honored it in 1816. Jackson honored it in 1836. Grant tried to break it in 1880 and was rebuked at his own party's proceedings. Theodore Roosevelt tried in 1912 on a third-party ticket and lost. Then, on the seventh ballot of an otherwise tightly scripted Democratic gathering in the second week of July 1940, Franklin Delano Roosevelt was renominated with 946 votes to challenger James Farley's 72, a margin engineered by the same Farley who was simultaneously the Democratic National Committee chairman, the Postmaster General, and the man he had quietly stripped of any meaningful role in the assembly machinery. The break was administrative as much as it was political. This article reconstructs the February through July 1940 maneuver, names the participants, sources the orchestration to documents, and adjudicates the historians' dispute over whether the third term was emergency necessity, personal ambition, or, as the documentary record actually suggests, both.
 

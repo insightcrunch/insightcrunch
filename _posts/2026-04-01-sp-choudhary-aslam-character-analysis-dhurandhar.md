@@ -8,7 +8,7 @@ tags: ["dhurandhar", "sp-choudhary-aslam", "sanjay-dutt", "character-analysis", 
 excerpt: "Deep analysis of SP Choudhary Aslam - Sanjay Dutt's authoritative, conflicted officer in Dhurandhar."
 reading_time: 60
 last_updated: 2026-03-30
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-54.webp"
 author: "rahul-banerjee"
 lang: en
 ---
@@ -17,7 +17,7 @@ Every world needs a figure who embodies the contradiction between the law as it 
 <!--more-->
 
 
-![SP Choudhary Aslam Character Analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
+![SP Choudhary Aslam Character Analysis - Insight Crunch](/assets/images/blog/blog-54.webp)
 What makes Aslam extraordinary as a character within the franchise is his position at the intersection of every power structure the films depict. He interacts with the criminal underworld as a negotiating partner, with the intelligence apparatus as a reluctant instrument, with the military establishment as a wary subordinate, and with the civilian population as an ambiguous protector whose protection carries a price that the protected may not fully understand. No other character in the franchise touches as many worlds simultaneously, and this breadth of engagement gives Aslam a narrative function that extends far beyond his screen time. He is the connective tissue between the franchise's various storylines, the character through whom the audience most clearly sees how the different power structures of the film's world interact, overlap, and corrupt one another. The character is inspired by a real Pakistani police officer known for his uncompromising approach to policing in Karachi, and the franchise draws on this inspiration to create a figure whose moral complexity is rooted in the genuinely ambiguous territory between law enforcement and extrajudicial violence that characterizes policing in conflict zones around the world. For the complete cinematic context in which this character operates, see our analyses of [Dhurandhar Part 1](https://insightcrunch.com/2026/03/19/complete-analysis-dhurandhar-part-1/) and [The Revenge](https://insightcrunch.com/2026/03/22/complete-analysis-dhurandhar-the-revenge/).
 
 ## Aslam's Role in the Dhurandhar Franchise

@@ -6,7 +6,7 @@ date: 2016-05-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Some Like It Hot", "Billy Wilder", "Comedy", "Film History", "World Cinema"]
 excerpt: "Some Like It Hot is the summit of screen comedy: how Billy Wilder's disguise farce broke the Production Code and surpassed the world's farce traditions."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2016-05-15
@@ -16,7 +16,7 @@ By 1959 the Hollywood comedy had grown cautious. The screwball cycle that once l
 
 That standing is not an accident of nostalgia. Some Like It Hot is the summit of a particular fusion: continental sophistication welded to American velocity, the comedy of disguise and manners that Europe had refined for centuries driven at the breakneck pace Hollywood had perfected. Wilder, who had learned his trade in Berlin and Paris before the Nazis chased him to California, was the right person to perform that weld, and this picture is where the seam disappears. To see why it works, and why later comedies kept borrowing its engine, you have to look at what comedy could and could not do before it arrived, the specific moves it made, and the worldwide farce traditions it stood beside and quietly surpassed.
 
-![How Some Like It Hot became the greatest screen comedy, an analysis - Insight Crunch](/assets/images/blog/blog-18.webp)
+![How Some Like It Hot became the greatest screen comedy, an analysis - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 ## The comedy Some Like It Hot inherited
 

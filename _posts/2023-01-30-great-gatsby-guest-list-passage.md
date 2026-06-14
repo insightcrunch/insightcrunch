@@ -6,7 +6,7 @@ date: 2023-01-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 4", "Close Reading", "Themes", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The guest-list passage in The Great Gatsby reads like a comic party roster but works as an early obituary, naming the careless, doomed crowd at its height."
-image: "/assets/images/blog/blog-86.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 47
 author: "chloe-martin"
 last_updated: 2023-01-30
@@ -14,7 +14,7 @@ lang: en
 ---
 Most readers skim it. The guest-list passage in The Great Gatsby, the long roll call of party names that opens Chapter 4, looks at first like a comic interlude, a stretch of invented surnames a reader can glide over on the way back to the plot. That instinct to skim is exactly what Fitzgerald is counting on, and it is exactly what a strong reading refuses. Slow the page down and the catalogue stops being filler. It becomes a compressed portrait of an entire social world, sorted by geography, ranked by money, and quietly seeded with disaster. The names are funny. The fates attached to several of them are not.
 
-![The guest-list passage in The Great Gatsby Chapter 4 close reading - Insight Crunch](/assets/images/blog/blog-86.webp)
+![The guest-list passage in The Great Gatsby Chapter 4 close reading - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 This article owns that single stretch of text. It reads the catalogue of party guests line by line, shows how a seeming digression delivers a whole panorama of Long Island society, and argues that the roll call of names functions less like a celebration and more like an early obituary. The central claim is simple enough to carry into an exam and specific enough to defend from the page: the party reads as a guest list and works as an obituary, naming a careless crowd and noting, in passing, how many of them came to bad ends.
 

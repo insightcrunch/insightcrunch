@@ -6,7 +6,7 @@ date: 1996-03-12
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Retake", "Low Score", "Diagnosis"]
 excerpt: "SAT retake after a low score: processing the disappointment, diagnosing what went wrong, the reset protocol and realistic targets, with a measurable plan."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 1996-03-12
@@ -14,7 +14,7 @@ lang: en
 ---
 You opened the score report and the number was lower than anything you practiced into. Maybe it was a 1080 when your last full-length sat at 1240. Maybe it was a 1290 when you needed the 1400 your reach school quietly expects. The first instinct, the one almost every test-taker has within the hour, is to find the next available date, register, and resolve to study harder. That instinct is the single most expensive mistake a student makes after a disappointing result, because studying harder in the same direction that produced the low number is the most reliable way to produce a second low number. A reset is not more effort. A reset is a different direction, chosen on purpose, after you understand what actually went wrong.
 
-![SAT retake after a low score reset protocol diagnosis and realistic targets - Insight Crunch](/assets/images/blog/blog-60.webp)
+![SAT retake after a low score reset protocol diagnosis and realistic targets - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This guide hands you something the panic-register approach never gives you: a structured way to turn a bad result into a better one without burning a month repeating the study that already failed. You will leave able to sit with the disappointment for the few days it deserves, run a real diagnosis on the practice data and the result itself, decide what to change rather than what to repeat, build a measurable plan with named rules and a set count of targeted problems, and set a target band that the calendar can actually support. The path back from a low number is paved with diagnosis, not with grit alone, and the difference between those two roads is usually a hundred points and a saner few weeks. The thesis running underneath every section here is plain. A retake driven by what the data says, not by how badly you want a higher number, is the evidence-based way back, and it is the only one that respects the time you have left.
 

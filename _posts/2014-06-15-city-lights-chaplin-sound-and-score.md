@@ -6,7 +6,7 @@ date: 2014-06-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "City Lights", "Charlie Chaplin", "Silent Film", "Film Scores", "Film History"]
 excerpt: "City Lights shows how Chaplin scored silence with a self-composed soundtrack and satirical sound effects, a defiant answer to the talkies, analyzed here."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2014-06-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The most radical decision in City Lights is not visible. It is audible, and it is the choice to keep almost everything inaudible. By the time Charlie Chaplin released the film in 1931, the talking picture had already won the industry argument outright. Audiences had heard Al Jolson sing and speak, theaters across the country had wired themselves for synchronized sound at enormous expense, and the studios had quietly retired the silent feature as a commercial form. Into that settled verdict Chaplin delivered a film with a recorded track but no spoken dialogue, a comedy of pantomime carried by a score he composed himself and by sound effects deployed not for realism but for ridicule. The opening reel makes the strategy a manifesto: when civic dignitaries step up to dedicate a public monument, their pompous oratory emerges as a strangled kazoo-like squawk, the human voice reduced to honking nonsense. That is not a director who failed to understand sound. That is a director making an argument about it.
 
-![How City Lights used score, sound, and silence to defy the talkies, an analysis - Insight Crunch](/assets/images/blog/blog-78.webp)
+![How City Lights used score, sound, and silence to defy the talkies, an analysis - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 This article reads City Lights as a sound film that refuses speech on purpose, and it treats the refusal as the most considered piece of craft in Chaplin's career to that point. The thesis is simple to state and harder to earn: Chaplin proved that a synchronized musical score and a handful of pointed sound effects could narrate a feature more precisely than dialogue could, and that the new medium of recorded speech, in its first rush, had thrown away an expressive language at the very moment it reached maturity. Call it the scored-silence strategy. The score does the work a voiceover or a screenplay of talk would otherwise do; it tells you who to love, when to laugh, when the joke has curdled into something sadder, and it does so without a single line a microphone would need to capture. Everything that follows tests that claim against the film itself and against the way filmmakers elsewhere in the world were answering the same question about what to do with sound.
 

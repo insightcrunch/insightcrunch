@@ -6,7 +6,7 @@ date: 2023-07-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Daisy Buchanan", "Character Analysis", "Literary Criticism", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Is Daisy Buchanan a victim, a villain, or both? A scene-by-scene verdict on her culpability, her constraints, and the careless choices that close the novel."
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 47
 author: "victoria-stone"
 last_updated: 2023-07-03
@@ -14,7 +14,7 @@ lang: en
 ---
 Ask a room of readers whether Daisy Buchanan is a victim, villain, or both, and the room splits before the argument even starts. One side sees a woman trapped in a marriage she cannot leave, handed to her by an era that gave women of her class almost no exit, voicing her own captivity in the line about wishing her daughter will grow up a fool. The other side sees the driver who killed Myrtle Wilson, said nothing, let Gatsby carry the blame, and walked back into her money without a backward glance. Both sides are reading the same novel. Both sides are pointing at real evidence. That is exactly why the question of whether Daisy Buchanan is victim, villain, or both refuses to settle, and why answering it well requires more than picking a team.
 
-![Daisy Buchanan analyzed as victim, villain, or both in The Great Gatsby](/assets/images/blog/blog-73.webp)
+![Daisy Buchanan analyzed as victim, villain, or both in The Great Gatsby](/assets/images/blog/blog-90.webp)
 
 This article gathers the evidence on each side, scene by scene, and reaches a defended verdict. The verdict is not a compromise that splits the difference and calls her fifty percent each. It is a third frame that the victim-or-villain binary keeps hidden from view. Daisy is a constrained agent: a woman whose options were genuinely narrowed by her time and her class, and who, inside that narrowed room, still made choices that cost other people everything. Holding those two facts together at once, rather than acquitting her as a pure victim or condemning her as a pure villain, is the only reading that survives contact with the whole book. Call it the constrained-agent reading. It is more demanding than either caricature, and it is the only one that does justice to what Fitzgerald actually wrote.
 

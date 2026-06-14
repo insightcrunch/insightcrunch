@@ -6,7 +6,7 @@ date: 2022-01-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "reception", "adaptation", "why-romeo-and-juliet-famous"]
 excerpt: "Romeo and Juliet has outlived four centuries of changing taste, yet its fame hides a stranger, faster, funnier play than the myth of doomed lovers admits."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 67
 author: "chloe-martin"
 last_updated: 2022-01-07
@@ -14,7 +14,7 @@ lang: en
 ---
 The earliest printed text of the tragedy, the quarto of 1597, advertises on its title page that the work had already been staged often and to great applause. That single line, set in type within a year or two of the first performances, settles one question before the argument even begins: this drama was not a slow grower, not a piece that crept toward fame across the generations. It arrived popular. The Veronese story sold tickets in the 1590s, and it has gone on selling them, in one altered shape or another, ever since. The interesting puzzle is not whether the work endures. The puzzle is why, and the honest answer is stranger than the romance industry that grew up around it would like to admit.
 
-![Why Romeo and Juliet endures across four centuries of adaptation and reception - Insight Crunch](/assets/images/blog/blog-18.webp)
+![Why Romeo and Juliet endures across four centuries of adaptation and reception - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The cliche says the work survives because it is the supreme account of young romance, a feeling so universal that every age recognizes itself in the orchard scene. That explanation flatters readers and explains nothing. Plenty of accomplished accounts of doomed desire have sunk without trace. What the standard story misses is that the Capulet daughter and the Montague son have lived four hundred years not because the text fixes a single meaning that each century happens to share, but because the text is unusually willing to be remade. It holds a sonnet sequence, a stretch of romantic comedy, a revenge plot, and a civic parable inside one frame, and each era has reached in and pulled out the strand it needed. The endurance is evidence of an engineered flexibility, not proof of one unchanging emotional truth. The aim here is to trace the actual machinery of survival rather than to repeat the slogan that the work simply lasts because feeling is eternal.
 

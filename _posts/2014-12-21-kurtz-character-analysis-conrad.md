@@ -6,7 +6,7 @@ date: 2014-12-21
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "kurtz", "character-analysis", "literary-analysis", "colonialism"]
 excerpt: "Kurtz is not a symbol of universal human darkness. He is a specific colonial-agent type that Joseph Conrad observed firsthand in Leopold's Congo system."
-image: "/assets/images/blog/blog-88.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "megan-clark"
 last_updated: 2014-12-21
@@ -16,7 +16,7 @@ Kurtz is the most discussed character in Joseph Conrad's Heart of Darkness, and 
 
 <!--more-->
 
-![Kurtz Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-88.webp)
+![Kurtz Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 What this article argues is that Kurtz must be read through both psychological and historical-materialist lenses simultaneously. His psychology matters because the novella insists on his individual brilliance, his specific talents, his particular charisma. His historical context matters because those talents operated within an incentive structure that rewarded ivory extraction without ethical constraint. Neither a purely psychological reading (Kurtz as case study in madness) nor a purely structural reading (Kurtz as interchangeable cog in imperial machinery) captures what Conrad constructed. A [complete analysis of Heart of Darkness](https://insightcrunch.com/2014/12/16/complete-analysis-heart-of-darkness/) establishes the novella's broader architecture; this article focuses on the character who stands at its center and asks what the novella knows about him that most readers miss.
 

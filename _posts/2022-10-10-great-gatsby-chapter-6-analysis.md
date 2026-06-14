@@ -6,7 +6,7 @@ date: 2022-10-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 6", "Jay Gatsby", "Close Reading", "Themes", "American Literature"]
 excerpt: "Great Gatsby Chapter 6 summary and analysis: the James Gatz reveal, the Sloane snub, Daisy at the party, and Gatsby's claim that the past can be repeated."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
 author: "chloe-martin"
 last_updated: 2022-10-10
@@ -16,7 +16,7 @@ Most readers race through Great Gatsby Chapter 6 because, after the reunion fire
 
 This Great Gatsby Chapter 6 summary and analysis reads the chapter the way it deserves to be read: not as a sequence of events to be recapped, but as a structure built around a single sentence. When Gatsby insists that you can, of course, repeat the past, he is not making conversation. He is naming the delusion the rest of the novel will test to destruction, and Fitzgerald has spent the whole chapter loading the gun that sentence fires.
 
-![Great Gatsby Chapter 6 summary and analysis](/assets/images/blog/blog-62.webp)
+![Great Gatsby Chapter 6 summary and analysis](/assets/images/blog/blog-108.webp)
 
 ## Where Chapter 6 Sits in the Nine-Chapter Arc
 

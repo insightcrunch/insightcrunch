@@ -6,7 +6,7 @@ date: 2008-10-04
 categories: ["Leisure"]
 tags: ["james-monroe", "decision-reconstruction", "us-presidents", "monroe-doctrine", "foreign-policy", "john-quincy-adams"]
 excerpt: "Monroe closed the hemisphere to Old World colonization in 1823. Adams wrote every key passage. Britain's Royal Navy enforced the words for seventy years."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 57
 author: "diana-patel"
 last_updated: 2008-10-04
@@ -14,7 +14,7 @@ lang: en
 ---
 On the afternoon of November 7, 1823, Secretary of State John Quincy Adams sat in a cabinet meeting inside the Executive Mansion and told the President of the United States that he was wrong. James Monroe wanted to accept a proposal from George Canning, the British Foreign Secretary, for a joint Anglo-American statement opposing any European attempt to reconquer the newly independent nations of Latin America. Monroe had consulted Thomas Jefferson and James Madison, both of whom endorsed the British offer. The elder statesmen believed the protection of the Royal Navy was worth the cost of shared credit. Adams disagreed. Writing in his diary that evening, he recorded his argument in language that would shape the next two centuries of U.S. foreign policy: the United States should not come in "as a cock-boat in the wake of the British man-of-war." The phrase was more than rhetoric. It was a strategic gamble that risked the security of an entire hemisphere on a declaration the country lacked the military capacity to enforce.
 
-![Monroe Doctrine 1823 cabinet debate Adams unilateral assertion - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Monroe Doctrine 1823 cabinet debate Adams unilateral assertion - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 That gamble is the subject of this article. The Monroe Doctrine, as the December 2, 1823 annual message to Congress would later be called, is one of the most consequential diplomatic pronouncements in American history. It declared the Western Hemisphere closed to further Old World colonization, announced that the United States would treat any such attempt as a hostile act, and pledged American non-interference in Continental affairs. The doctrine carried Monroe's name, but he drafted its core passages. It spoke with the authority of a sovereign nation, but the United States Navy in 1823 consisted of fewer than a dozen major warships, while the Royal Navy commanded over six hundred vessels across the globe. For roughly seventy years after its proclamation, the 1823 pronouncement was sustained not by American frigates but by British ones, because the commercial interests of the British Empire happened to align with keeping South American markets open and European competitors out.
 

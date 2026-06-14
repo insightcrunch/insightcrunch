@@ -6,7 +6,7 @@ date: 2017-07-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Star Wars", "George Lucas", "Science Fiction", "New Hollywood", "Film History", "World Cinema"]
 excerpt: "Star Wars (1977) analysis: how George Lucas fused the ancient hero's journey with a used universe and reshaped the film industry, set against world cinema."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2017-07-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The directorial problem George Lucas set himself with Star Wars (1977) was not how to film a spaceship. It was how to make a galaxy feel old. Audiences in the mid-1970s had been trained by a decade of cold, sterile science fiction to expect the future as a clean white corridor, an antiseptic space where chrome surfaces and atonal electronic music signified intelligence and distance. Lucas wanted the opposite. He wanted a far-off place that felt as worn as a Tunisian farmhouse, as lived-in as a frontier saloon, as ancient as a folk tale told by firelight. The whole project rested on a paradox that no one in his industry had solved: to make people believe in the impossible, he would make the impossible look used. That single instinct, more than any laser or any creature, is the signature Star Wars bears, and it is the reason a farm boy's adventure became the most consequential popular film of its era.
 
-![How George Lucas built the used universe and the hero's journey in Star Wars, an analysis - Insight Crunch](/assets/images/blog/blog-09.webp)
+![How George Lucas built the used universe and the hero's journey in Star Wars, an analysis - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 To read Star Wars as the expression of a director's method, rather than as a merchandising event or a nostalgia object, requires holding two things at once. The first is the film's surface: a rebellion against an empire, a princess in distress, a wizard and a farm boy, a smuggler and his towering companion, a battle station the size of a moon. The second is the architecture underneath that surface: an ancient template for storytelling that predates cinema by several thousand years, dressed in the salvaged costume of 1930s adventure serials and shot through with the texture of a world that has been getting dirty for a very long time. Lucas did not invent the pieces. His authorship lies in the synthesis, in the specific decision to fuse the oldest narrative shape humans tell with a brand-new visual language of grime and weight, and to score that fusion with music that the rest of his industry had abandoned. Understanding how he did it, and setting his solution against the directors abroad who were rebuilding their own ancient myths in parallel, is the work of this analysis.
 

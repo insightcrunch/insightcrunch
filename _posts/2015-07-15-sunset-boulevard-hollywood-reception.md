@@ -6,7 +6,7 @@ date: 2015-07-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Sunset Boulevard", "Billy Wilder", "Film Noir", "Film History", "World Cinema", "Film Analysis"]
 excerpt: "Sunset Boulevard turned Hollywood's gaze on itself, casting real discarded silent stars as evidence, which is why the industry recoiled even while honoring it."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2015-07-15
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a particular kind of artwork that the people it describes cannot forgive, not because it lies about them but because it does not. Sunset Boulevard belongs to that category. When Billy Wilder's account of a forgotten silent star and the dead screenwriter she keeps premiered in 1950, the same film that critics and the Academy moved to honor was the film that a roomful of studio chiefs wanted run out of town. Those two reactions look opposite. They were the same reaction. Hollywood applauded and recoiled at one object because that object had told the truth about the industry using the industry's own discarded people as evidence, and there is no comfortable way to receive a verdict delivered in your own voice.
 
-![Sunset Boulevard analysis: reception, controversy, and reappraisal](/assets/images/blog/blog-43.webp)
+![Sunset Boulevard analysis: reception, controversy, and reappraisal](/assets/images/blog/blog-52.webp)
 
 This article reads Sunset Boulevard through the lens its history demands, which is reception. Most analysis of a famous picture treats how it was received as trivia attached to the work, a paragraph of premiere anecdotes before the real business of close reading begins. With this title the reception is not attached to the meaning. It is the meaning. The fury of the moguls and the embrace of the critics are not two facts about a film; they are two halves of a single demonstration the film set out to perform, and to understand why the picture matters you have to understand why both responses were earned by the same scenes. The argument here is that Sunset Boulevard is best understood as an honored indictment: a charge against the dream factory so accurate that the factory could neither dismiss it nor escape rewarding it, and that the casting, the references, and the real ruined careers Wilder put on screen are the case files that made the indictment stick.
 

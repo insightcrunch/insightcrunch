@@ -6,7 +6,7 @@ date: 2022-08-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 3", "Close Reading", "Jay Gatsby", "American Literature"]
 excerpt: "Great Gatsby Chapter 3 summary and analysis: how the first party, the wild rumors, the uncut library books, and the meeting build a legend, then deflate it."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 47
 author: "chloe-martin"
 last_updated: 2022-08-08
@@ -16,7 +16,7 @@ Great Gatsby Chapter 3 is where the novel stops telling you about Gatsby and sta
 
 This reading treats the third chapter as a built thing rather than a sequence of events. The aim is to leave you able to argue about it: to name what the gathering is doing, why the rumors matter more than their content, what the library scene proves, and why the meeting with Gatsby lands as an anticlimax that is also the chapter's whole point.
 
-![The Great Gatsby Chapter 3 summary and analysis: the first party, the rumors, and meeting Gatsby - Insight Crunch](/assets/images/blog/blog-63.webp)
+![The Great Gatsby Chapter 3 summary and analysis: the first party, the rumors, and meeting Gatsby - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 ## Where Chapter 3 Sits in the Nine-Chapter Arc
 

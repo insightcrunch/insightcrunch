@@ -6,7 +6,7 @@ date: 1996-09-12
 categories: ["Industry"]
 tags: ["SAT", "Study Plan", "Motivation", "Burnout", "Wellbeing"]
 excerpt: "SAT motivation and burnout: consistent moderate effort over cramming, intermediate goals, planned off days and recognizing and recovering from burnout."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 60
 author: "katherine-blake"
 last_updated: 1996-09-12
@@ -14,7 +14,7 @@ lang: en
 ---
 The student who studies four hours every Saturday and nothing the rest of the week will almost always be beaten by the student who works for forty focused minutes a day, six days a week, and rests on the seventh. The two of them log nearly identical hours over a month. One of them remembers what they learned; the other relearns the same material every weekend because the gap between sessions erased it. SAT motivation is not a personality trait you either have or lack. It is the predictable result of a schedule built so that showing up tomorrow is easy, and SAT burnout is not a sign of weakness but the predictable result of a schedule built so that showing up tomorrow feels impossible. This guide treats both as engineering problems with engineering solutions, because that is what they are.
 
-![SAT motivation and avoiding burnout sustainable study schedule - Insight Crunch](/assets/images/blog/blog-89.webp)
+![SAT motivation and avoiding burnout sustainable study schedule - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 Most advice on staying driven through a long preparation campaign stops at slogans. Push harder. Want it more. Visualize success. None of that survives contact with a Tuesday in October when you have a chemistry test the next morning, a practice section you have been dreading, and a brain that has decided it is done for the day. What survives is structure: a weekly rhythm you can keep when willpower is low, checkpoints that show you the needle moving, variety that keeps the work from curdling into drudgery, and a planned day of rest that you take whether or not you feel you earned it. The thesis of this entire series is that deliberate, diagnosed, format-aware practice moves results in ways that surprise people who believe the number reflects raw ability. The quiet corollary, and the subject of this article, is that deliberate practice has to be sustainable practice, because the version of you who quits in week six gains nothing from a brilliant plan you could only follow for five. What this guide gives you that a generic pep talk cannot is a concrete weekly framework, a checkpoint system that converts months of slow work into visible movement, a supportive way to recognize when you are running on empty, and a recovery protocol that gets you back to the desk without losing the gains you already banked.
 

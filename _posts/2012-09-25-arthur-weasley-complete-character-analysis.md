@@ -6,7 +6,7 @@ date: 2012-09-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Arthur Weasley", "Weasley Family", "Ministry of Magic", "Muggle Studies"]
 excerpt: "Complete literary analysis of Arthur Weasley in Harry Potter - the Muggle-loving Ministry man whose gentle curiosity becomes quiet defiance and moral courage."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 57
 author: "elena-wright"
 last_updated: 2012-09-25
@@ -16,7 +16,7 @@ lang: en
 
 There is a peculiar kind of literary courage in writing a character whose defining trait is, on the surface, ridiculous. Arthur Weasley is a grown man who keeps a shed full of broken Muggle artefacts so he can take them apart and try to understand how they work. He gets visibly excited about batteries. He once asked Harry Potter, with complete sincerity, what the exact function of a rubber duck might be. The wizarding world treats this as a charming eccentricity at best and a professional embarrassment at worst. The text invites the reader to share the joke for several books before quietly, almost imperceptibly, turning the joke inside out.
 
-![Arthur Weasley character analysis in Harry Potter series](/assets/images/blog/blog-93.webp)
+![Arthur Weasley character analysis in Harry Potter series](/assets/images/blog/blog-04.webp)
 
 By the end of *Harry Potter and the Deathly Hallows*, the man with the rubber duck question has spent his entire adult life as a sustained, principled, low-status rebuke to everything the wizarding world's ruling caste believes about itself. The pure-blood patriarch who refused the pure-blood project. The Ministry employee who never advanced because the Ministry could not understand what he was actually doing. The father of seven who raised every one of his children to laugh at exactly the same people his colleagues took seriously. The Weasley patriarch is what happens when gentleness is allowed to harden into a position without ever becoming aggressive about it, and the series suggests, with increasing clarity over seven books, that the wizarding world would have been a different and better place if more of its people had been gentle in this specific way.
 

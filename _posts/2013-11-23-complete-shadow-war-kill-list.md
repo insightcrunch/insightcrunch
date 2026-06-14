@@ -6,7 +6,7 @@ date: 2013-11-23
 categories: ["Industry"]
 tags: ["kill-list", "shadow-war", "ranked", "targeted-killings", "counter-terrorism", "comprehensive"]
 excerpt: "The definitive ranked list of every terrorist eliminated on foreign soil, organized by seniority, organization, and the strategic impact of each case."
-image: "/assets/images/blog/blog-109.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 author: "benjamin-scott"
 last_updated: 2013-11-23
@@ -16,7 +16,7 @@ Ranked by strategic impact rather than organizational seniority, the shadow war'
 
 <!--more-->
 
-![Complete Shadow War Kill List Ranked by Strategic Impact - Insight Crunch](/assets/images/blog/blog-109.webp)
+![Complete Shadow War Kill List Ranked by Strategic Impact - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 Every news outlet that covers targeted killings in Pakistan produces some version of a list. Dawn compiles body counts by city. India Today arranges them by date. The Guardian's investigation organized them by alleged attribution. Each of these lists serves a journalistic function, but none answers the analytical question that matters most: which of these eliminations actually changed something? A chronological list treats the first killing and the thirtieth as structurally equivalent. A seniority-based list assumes that a co-founder's death is always more important than a mid-tier commander's, regardless of what each death demonstrated. Both approaches flatten the campaign into a sequence of events when the campaign is, in fact, a sequence of escalating precedents. The [complete timeline](https://insightcrunch.com/2013/01/01/targeted-killings-pakistan-complete-timeline/) records when things happened. This article argues what they meant.
 

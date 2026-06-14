@@ -7,14 +7,14 @@ categories: ["Industry"]
 tags: ["高考", "考试模式", "3+1+2", "选科", "China Education"]
 slug: gaokao-exam-pattern-format
 excerpt: "很多考生和家长以为全国只有一套高考模式，结果在选科第一步就走偏。事实上今天的高考是三种模式并存：以物理或历史为首选的 3+1+2、六门自由组合的 3+3，以及少数地区仍用的传统文综理综。本文拆解三种模式的科目设置、等级赋分机制、考试时间与题型结构，并给出典型选科组合与不同分数段备考策略，帮你看清省份模式归属。"
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 63
 author: "chen-xiaoling"
 lang: zh
 ---
 很多人以为全国只有一套统一的高考考试模式，于是拿着别人省份的经验生搬硬套，结果在选科和备考的第一步就走偏了。事实并非如此。今天的高考，并不是一种考试模式，而是三种模式同时并存：以物理或历史为首选科目的 3+1+2 模式、六门选考科目自由组合的 3+3 模式，以及仍在少数地区使用的传统文综理综模式。搞清楚自己所在省份究竟用的是哪一种，是一切备考决策的真正前提。这篇文章会把三种模式的科目设置、计分规则、考试时间、题型结构和选科策略一次讲透，帮你在起跑线上就把方向定准。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-81.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-05.webp)
 *三种高考模式并存：先看清自己省份的模式归属，再谈备考策略*
 
 ## 为什么"一种高考模式"是误导性的说法

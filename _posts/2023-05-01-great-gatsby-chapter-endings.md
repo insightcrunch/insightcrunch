@@ -6,7 +6,7 @@ date: 2023-05-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter Endings", "F. Scott Fitzgerald", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "How each chapter of The Great Gatsby ends reveals a designed pattern of nine held closing images that set the novel's rhythm and trace its emotional arc."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 47
 author: "rachel-foster"
 last_updated: 2023-05-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Ask a class what happens at the end of any chapter in The Great Gatsby and the answers tend to dissolve into plot: a party breaks up, a drive ends, a man dies. Look at the actual final lines and a different fact emerges. Almost none of the nine chapters closes on an event. They close on an image. A reading of how each chapter ends, the heart of this great gatsby chapter analysis, shows Fitzgerald shutting each door not with a bang of plot but with a held picture, a charged line that lands a feeling and lets it ring before the next chapter resets the room. The endings are the novel's pulse, and once you can hear them you can hear the whole book breathing.
 
-![The closing image of each chapter in The Great Gatsby](/assets/images/blog/blog-98.webp)
+![The closing image of each chapter in The Great Gatsby](/assets/images/blog/blog-96.webp)
 
 This is the article that owns the pattern of chapter endings across The Great Gatsby. Other pieces in the series read the chapters whole or track a single symbol; here the subject is narrower and stranger. The question is not what happens in a chapter but how Fitzgerald decides to leave it, what the last sentence is doing, and why nine separate decisions, read in a row, turn out to share a method. The claim this article defends is simple enough to name and hard to unsee once you have seen it. Call it the nine landings: Fitzgerald ends almost every chapter on an image rather than an event, so the book's rhythm is set by nine deliberate emotional landings, and reading them as a sequence reveals the novel's pulse.
 

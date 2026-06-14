@@ -5,13 +5,13 @@ date: 2008-12-12
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Two lighthearted paths to becoming a famous blogger: either become famous first, or follow these tongue-in-cheek blogging tips that actually work."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
 lang: en
 ---
-![](/assets/images/blog/blog-100.webp)
+![](/assets/images/blog/blog-23.webp)
 
 I just came across this thing which I think will help all bloggers to try and become famous... ;)
 

@@ -6,7 +6,7 @@ date: 2022-02-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Setting", "Long Island", "Themes", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby setting makes class physical: East Egg and West Egg face across an uncrossable bay, and the valley of ashes is what the crossing costs."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2022-02-21
@@ -14,7 +14,7 @@ lang: en
 ---
 Most readers can name where The Great Gatsby happens long before they can say why it happens there. The setting of The Great Gatsby gets filed away as background: a rich corner of Long Island, a few mansions, some parties, a stretch of road to the city. That filing is the first mistake. Fitzgerald did not drop his characters onto a neutral map and let the plot run. He built a geography in which every address is a verdict, every distance is a social fact, and the move from one place to another carries a cost the novel makes you pay. Read the locations as a moral map rather than scenery and the book stops being a story about a man and a woman and becomes a story about a country sorted by where it is allowed to stand.
 
-![The Great Gatsby setting explained: East Egg, West Egg, and the valley of ashes as the novel's moral geography - Insight Crunch](/assets/images/blog/blog-89.webp)
+![The Great Gatsby setting explained: East Egg, West Egg, and the valley of ashes as the novel's moral geography - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 This guide treats place as the novel's central argument. It walks the full map in order, West Egg and East Egg facing each other across the water, the valley of ashes laid between the suburbs and the city, and New York itself as the room where the rules come off, and it reads each location for the social meaning Fitzgerald loaded into it. Where the layout of the land matters as pure cartography, the distances and routes that the plot travels, the companion to this guide is the [physical map of the novel's geography](/2022/06/06/great-gatsby-geography-map/); this article owns the meaning of place rather than the meters between points. By the end you should be able to argue a thesis about the setting, not just describe it.
 

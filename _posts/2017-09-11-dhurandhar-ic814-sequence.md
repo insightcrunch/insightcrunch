@@ -6,7 +6,7 @@ date: 2017-09-11
 categories: ["Industry"]
 tags: ["dhurandhar", "ic-814", "hijacking", "kandahar", "bollywood", "reel-vs-real"]
 excerpt: "How Dhurandhar rewrote the IC-814 hijacking to replace India's most humiliating hostage crisis with a promise of justice that reality never delivered."
-image: "/assets/images/blog/blog-105.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-09-11
@@ -16,7 +16,7 @@ Dhurandhar does not begin with its protagonist loading a weapon or boarding a fl
 
 <!--more-->
 
-![Dhurandhar IC-814 Sequence Analysis - Insight Crunch](/assets/images/blog/blog-105.webp)
+![Dhurandhar IC-814 Sequence Analysis - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 ## The Film's Version
 

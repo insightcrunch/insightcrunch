@@ -9,7 +9,7 @@ slug: "destruction-pompeii-vesuvius-79-ad"
 categories: ["Leisure"]
 tags: ["pompeii", "vesuvius", "ancient-rome", "79-ad", "archaeological-evidence", "ancient-history"]
 excerpt: "Pompeii's destruction is an archaeological gift: a Roman commercial town frozen in ordinary afternoon operations, preserving life no literary source captures."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 70
 lang: en
 ---
@@ -17,7 +17,7 @@ The date most textbooks give for the eruption of Mount Vesuvius is August 24, 79
 
 <!--more-->
 
-![Destruction of Pompeii by Vesuvius in 79 AD](/assets/images/blog/blog-77.webp)
+![Destruction of Pompeii by Vesuvius in 79 AD](/assets/images/blog/blog-96.webp)
 
 The fundamental claim of this article is that the 79 CE eruption of Vesuvius is not primarily a tragedy. Approximately two thousand people died across Pompeii and Herculaneum combined - a number that demands clear acknowledgment, not aesthetic framing. Those deaths were violent and terrifying. What the eruption produced, alongside those deaths, was something unprecedented in the study of antiquity: a Roman commercial town of roughly eleven thousand to twelve thousand inhabitants, frozen at a specific moment in ordinary operation, sealed beneath volcanic material to a depth that preserved not only the town's structure but its food, its graffiti, its household shrines, its tools, its furniture, and the voids left by human bodies as they decomposed within their volcanic entombments. Every other major Roman site has been continuously built over, stripped of portable objects, and reorganized by subsequent occupations. Pompeii was not. The mountain sealed it, and the seal held for seventeen centuries. What archaeologists recovered beginning in the eighteenth century is the most detailed reconstruction of ordinary Roman commercial life that exists - more granular, more specific, and more analytically useful than any literary source. Understanding how that seal was created, and what it contains, is the central task of any serious treatment of Pompeii.
 

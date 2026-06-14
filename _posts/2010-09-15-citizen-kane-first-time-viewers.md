@@ -5,7 +5,7 @@ date: 2010-09-15
 last_updated: 2010-09-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Close Reading", "Film History", "Themes"]
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-71.webp"
 excerpt: "Citizen Kane for first-time viewers: a spoiler-aware primer on what to expect, why the story jumps through memories, and how to enjoy the 1941 classic."
 reading_time: 59
 author: "diana-patel"
@@ -13,7 +13,7 @@ lang: en
 ---
 Watching Citizen Kane for the first time goes wrong in one predictable way: the viewer treats it as a puzzle to be solved, waits the whole picture for the answer, gets the answer, and feels cheated. This guide to Citizen Kane for first-time viewers exists to head that off. Orson Welles's 1941 debut is routinely called the greatest film ever made, and that reputation does newcomers a quiet disservice, because it sets up an expectation of fireworks the film has no interest in supplying. The pleasures here are slower, stranger, and far more durable than a twist. The single most useful thing a newcomer can do before pressing play is to stop hunting for a payoff and start watching a man become impossible to know.
 
-![Citizen Kane for first-time viewers, a spoiler-aware first watch primer - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Citizen Kane for first-time viewers, a spoiler-aware first watch primer - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 That sentence is the whole argument of this article in miniature, and the rest of it unpacks what the sentence asks of you. A first watch of Citizen Kane is not difficult in the way a foreign-language art film is difficult. It is difficult in a more specific and more fixable way: it asks you to look at the wrong things if you bring the habits of a modern thriller to it, and it rewards you the moment you change what you are looking for. Once that adjustment is made, the film stops feeling like a homework assignment handed down by critics and starts feeling like what it actually is, a fast, funny, melancholy, technically dazzling story about ambition and loneliness that happens to be built out of other people's memories.
 

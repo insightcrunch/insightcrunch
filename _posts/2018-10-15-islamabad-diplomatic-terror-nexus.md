@@ -6,7 +6,7 @@ date: 2018-10-15
 categories: ["Industry"]
 tags: ["islamabad", "diplomatic", "terror-nexus", "pakistan", "embassies"]
 excerpt: "How Islamabad uniquely shelters foreign embassies and the offices of UN-designated terror organizations inside one city, and what that contradiction reveals."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 72
 author: "ian-fletcher"
 last_updated: 2018-10-15
@@ -16,7 +16,7 @@ A foreign envoy leaving the British High Commission in Sector G-5 on a working m
 
 <!--more-->
 
-![Islamabad's Diplomatic Enclave and the contradiction at the heart of Pakistan's capital](/assets/images/blog/blog-29.webp)
+![Islamabad's Diplomatic Enclave and the contradiction at the heart of Pakistan's capital](/assets/images/blog/blog-19.webp)
 
 That single fact is the reason this city matters to anyone trying to understand how a sanctuary survives diplomatic daylight. The argument running through every safe-haven study on this site is that protection for terrorism is never accidental, never simply a failure of policing, and never confined to the lawless frontier. Islamabad is the sharpest test of that argument, because Islamabad is the one Pakistani city where the chaos explanation collapses entirely. Karachi can be described as ungovernable. The tribal districts can be described as remote. The garrison sprawl of Rawalpindi can be described as a security state too dense to read. None of those defenses apply to a city that was built from empty ground in the 1960s with the explicit purpose of being controllable, surveilled, and ordered. When a designated entity maintains a footprint here, the question is not how the state lost control. The question is why a state in full control of its newest and most monitored city has chosen to let that footprint remain.
 

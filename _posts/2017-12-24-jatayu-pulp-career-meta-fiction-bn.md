@@ -6,7 +6,7 @@ date: 2017-12-24
 categories: ["Leisure"]
 tags: ["feluda", "jatayu", "lalmohan-ganguly", "satyajit-ray", "metafiction"]
 excerpt: "লালমোহন গাঙ্গুলির পাল্প-লেখক জীবনের সম্পূর্ণ বিশ্লেষণ। জটায়ুর কাল্পনিক বইগুলি, তথ্যগত ভুলের চলমান কৌতুক, বাঙালি পাল্প-সাহিত্যের ঐতিহ্য, এবং ফেলুদা ক্যাননের মেটা-ফিকশনাল স্তর।"
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 96
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![লালমোহন গাঙ্গুলির পাল্প-জীবন: জটায়ুর বইয়ের ভেতরের বইগুলি পড়া - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-12.webp)
+![লালমোহন গাঙ্গুলির পাল্প-জীবন: জটায়ুর বইয়ের ভেতরের বইগুলি পড়া - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-109.webp)
 
 ## লালমোহন গাঙ্গুলি এবং জটায়ু: একটি দ্বৈত পরিচয়
 

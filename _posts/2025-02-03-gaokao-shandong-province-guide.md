@@ -6,14 +6,14 @@ date: 2025-02-03
 categories: ["Industry"]
 tags: ["高考", "山东高考", "山东分数线", "Shandong Gaokao", "Provincial Guide"]
 excerpt: "这是一份面向山东考生、家长与教师的高考完全指南,深入解析 3+3 新高考模式的运作机制、等级赋分的计分逻辑、六选三的选科组合策略,以及省内名校格局、高强度竞争形态、复读决策、志愿填报、就业前景与农村专项政策,帮助齐鲁学子站在改革先行省份的经验之上,稳健备考、科学选科、理性填报,走好升学路上的每一步。"
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 63
 author: "chen-xiaoling"
 lang: zh
 ---
 在中国新高考改革的版图上,山东是一个绕不开的名字。作为最早一批走完 3+3 模式完整周期的省份之一,这片土地既保留着深厚的应试传统,又积累了其他省份难以复制的改革实践经验。每年有数十万学子走进考场,在三门核心科目与三门选考科目的组合里,书写属于自己的升学答卷。理解山东高考,不只是理解一套计分规则,更是理解一个高考大省如何在机会与压力之间寻找平衡。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-19.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-24.webp)
 *山东作为新高考改革先行省份,3+3 模式与等级赋分制度的实践经验值得每一位齐鲁考生与家长深入理解*
 
 本文是一份面向齐鲁学子、家长与教师的深度指南。我们会从改革先行者的身份谈起,逐一拆解 3+3 的运作机制、等级赋分的计分逻辑、选科组合的取舍、省内名校的格局,以及竞争强度、复读现象、就业前景等现实议题。如果你想先建立对整个考试体系的宏观认识,可以先读一读 [高考完全指南](/2026/03/18/gaokao-complete-guide/),再回到这份山东专属的拆解中来。

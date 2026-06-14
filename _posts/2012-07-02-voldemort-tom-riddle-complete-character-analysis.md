@@ -6,7 +6,7 @@ date: 2012-07-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Voldemort", "Tom Riddle", "Dark Lord", "Horcruxes"]
 excerpt: "A literary analysis of Voldemort in Harry Potter: the orphan Tom Riddle, the flight from death, Horcruxes, and the psychology of an immortal narcissist."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2012-07-02
@@ -16,7 +16,7 @@ lang: en
 
 There is a peculiar formal joke buried in the name. *Voldemort*. In French, the syllables resolve into *vol de mort*, which translates as flight from death. The most feared villain in modern fantasy has chosen a name that is also a diagnosis. He has labeled his own pathology and pinned it to his chest, and across seven books no one ever says it aloud, least of all him. The character is so structurally legible to himself, and so structurally incapable of seeing what the legibility means, that the name becomes the cleanest summary of the tragedy. Every Horcrux, every murder, every act of dominion follows from the syllables he picked. The wizard who renamed himself was diagnosing the disease that would kill him.
 
-![Voldemort character analysis across all Harry Potter books](/assets/images/blog/blog-93.webp)
+![Voldemort character analysis across all Harry Potter books](/assets/images/blog/blog-107.webp)
 
 This is not the way the villain is usually read. The popular reading sees him as a cartoon of evil, a wand-wielding Hitler, a snake-faced terror whose purpose in the story is to threaten children and demand resistance. That reading is not wrong, but it is shallow. Rowling has written something stranger and more rigorous than a generic dark lord. She has written a clinical study of narcissistic terror that doubles as her most theological argument. Strip away the magic and the serpents and the wand, and the seven books contain a sustained essay on a single proposition: the refusal to die is also the refusal to live, because what living requires is the capacity to lose, and the capacity to lose requires the willingness to be ended.
 

@@ -6,7 +6,7 @@ date: 2017-12-04
 categories: ["Industry"]
 tags: ["ghar-mein-ghus-ke", "modi", "dhurandhar", "narrative", "politics", "shadow-war"]
 excerpt: "How PM Modi's rallying cry about striking enemies inside their homes fused with the Dhurandhar film and the real shadow war into one powerful narrative."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "nandini-sen"
 last_updated: 2017-12-04
@@ -16,7 +16,7 @@ Seven Hindi words changed how a nation of 1.4 billion people talks about killing
 
 <!--more-->
 
-![Ghar Mein Ghus Ke Maarta Hai PM Modi Shadow War Dhurandhar - Insight Crunch](/assets/images/blog/blog-78.webp)
+![Ghar Mein Ghus Ke Maarta Hai PM Modi Shadow War Dhurandhar - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 "Ghar mein ghus ke maarta hai" translates roughly as "enters their home and strikes them dead." Its power does not rest in its literal meaning. Plenty of political leaders have promised to pursue enemies across borders. What makes this declaration singular in the history of political communication is the speed and completeness with which it escaped the domain of politics and colonized two additional domains: cinematic entertainment and covert intelligence operations. Within six years of Modi's first deployment of these words, the Ranveer Singh blockbuster Dhurandhar had woven these words into its narrative DNA, Indian news anchors were using it to describe real assassinations in Pakistani cities, and social media users were posting it under news reports of [unknown gunmen on motorcycles gunning down India's most-wanted terrorists](https://insightcrunch.com/2012/12/24/unknown-gunmen-pattern-decoded/) in Rawalpindi, Sialkot, and Peshawar. Three domains, political speech, Bollywood entertainment, and covert operations, fused into seven syllables. The phrase did not describe a policy. It became the policy. This article traces how that fusion happened, why it matters, and what it reveals about the relationship between language, entertainment, and state violence in contemporary India.
 

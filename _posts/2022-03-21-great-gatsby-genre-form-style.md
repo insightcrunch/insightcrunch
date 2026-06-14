@@ -6,7 +6,7 @@ date: 2022-03-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Literary Criticism", "Close Reading", "American Literature", "Themes"]
 excerpt: "The Great Gatsby genre explained: this guide weighs the novel as a modernist work, a tragedy, a romance, and a social satire, then defends the hybrid case."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
 author: "chloe-martin"
 last_updated: 2022-03-21
@@ -16,7 +16,7 @@ Ask ten readers what kind of book *The Great Gatsby* is and you will get a tangl
 
 The stakes are higher than they look. A reader who decides the book is "just" a romance will spend the whole novel waiting for Gatsby and Daisy to either succeed or fail, and will treat the valley of ashes and the eyes of Doctor T. J. Eckleburg as scenery. A reader who decides it is a social critique will read the parties as exhibits and miss the ache underneath them. The book punishes single-label reading because it was built to operate on several frequencies at once. Getting the genre right, or rather getting the genre argument right, is what lets you read every scene for what it is actually doing.
 
-![The Great Gatsby genre, form, and style explained: modernist novel, tragedy, romance, and social satire - Insight Crunch](/assets/images/blog/blog-40.webp)
+![The Great Gatsby genre, form, and style explained: modernist novel, tragedy, romance, and social satire - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 ## What "Genre" Actually Asks of a Reader
 

@@ -6,7 +6,7 @@ date: 2011-01-25
 categories: ["Leisure"]
 tags: ["shakespeare", "othello", "emilia", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Deep study of Emilia in Othello - her marriage to Iago, the stolen handkerchief, and her courageous truth-telling at the cost of her own life."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
 author: "elena-wright"
 last_updated: 2026-04-18
@@ -14,7 +14,7 @@ lang: en
 ---
 She is the wife of Iago and the attendant of Desdemona, the domestic figure whose presence in both households gives her access to the intimate dynamics of each while rendering her apparently invisible to both the partner she serves and the mistress she attends, the woman whose picking up of the dropped fabric provides the unwitting instrument through which her spouse's deception acquires its central piece of manufactured evidence, the conversational partner whose exchanges with Desdemona in the willow song passage articulate the period's most searching commentary on the double standards men apply to women, the attendant whose proximity to the bedchamber of her mistress creates the conditions under which the catastrophe can occur and who discovers the body in the immediate aftermath of the killing, the wife whose recognition of what her spouse has done transforms her from the unwitting accomplice of the earlier acts into the heroic veracity-teller of the closing passage, the figure whose insistence on speaking despite her spouse's commands to be silent exposes the entire deception to the assembled authorities, and the woman who dies at her spouse's hand for the speaking she has chosen to perform regardless of the cost. The trajectory from overlooked attendant to silenced wife to unwitting accomplice to heroic witness to murdered veracity-teller is one of the most carefully constructed arcs in the canon.
 
-![Emilia Character Analysis in Shakespeare's Othello](/assets/images/blog/blog-09.webp)
+![Emilia Character Analysis in Shakespeare's Othello](/assets/images/blog/blog-34.webp)
 
 <!--more-->
 

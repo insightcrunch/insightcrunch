@@ -6,7 +6,7 @@ date: 2022-12-12
 categories: ["Technology"]
 tags: ["Azure", "Application Gateway", "502 Bad Gateway", "Troubleshooting", "Networking", "Cloud Computing"]
 excerpt: "An Application Gateway 502 means no pool member is healthy, so read the Backend health view first to name the real cause before touching a rule or timeout."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 61
 author: "nathan-cole"
 last_updated: 2022-12-12
@@ -16,7 +16,7 @@ An Application Gateway 502 is one of the most misread errors in Azure networking
 
 That distinction is the whole article. Engineers lose afternoons restarting the gateway, recycling the backend virtual machines, scaling the instance count, and reissuing certificates, all while the Backend health blade sits one click away with the exact reason written in plain text. The fastest path from a 502 to a fix is to read what the gateway already knows about each server, match that reason to one of a small number of root causes, and apply the change that cause calls for. Everything below builds that habit into a repeatable method.
 
-![Fixing Azure Application Gateway 502 Bad Gateway root causes - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Fixing Azure Application Gateway 502 Bad Gateway root causes - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 ## What a 502 From Application Gateway Actually Means
 

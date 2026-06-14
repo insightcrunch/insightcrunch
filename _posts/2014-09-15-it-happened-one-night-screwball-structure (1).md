@@ -6,7 +6,7 @@ date: 2014-09-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "It Happened One Night", "Frank Capra", "Screwball Comedy", "Screenwriting", "Film History"]
 excerpt: "How It Happened One Night built the romantic comedy out of antagonism rather than courtship, mapped beat by beat against the comedy of manners in Europe."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2014-09-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Most great romances on screen are built out of attraction. Two people see each other, want each other, and the story arranges the obstacles that keep them apart until the last reel. It Happened One Night does something stranger and far more durable. It builds its romance out of irritation. Peter Warne and Ellie Andrews do not fall for each other across a crowded room; they get stuck together against their will, and the friction of being trapped in close quarters is the entire generator of feeling. Frank Capra and his screenwriter Robert Riskin took two people who would never have chosen one another, locked them into a forced journey, and let the bickering do the work that a courtship would normally do. That single decision, romance as a byproduct of conflict rather than the product of desire, is the structural invention every later bickering-couple comedy still runs on.
 
-![How It Happened One Night built the romantic comedy template from antagonism, a screenwriting structure analysis - Insight Crunch](/assets/images/blog/blog-90.webp)
+![How It Happened One Night built the romantic comedy template from antagonism, a screenwriting structure analysis - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 This is why the film is worth taking apart as architecture rather than admiring as a charming antique. It is easy to file It Happened One Night under pleasant Depression-era escapism, a light comedy that got lucky at the Academy Awards. That filing badly underrates it. The lightness is the achievement, not the limitation. Underneath the easy surface sits one of the most precisely engineered story machines in American cinema, a design so efficient that screenwriters have been rebuilding it for ninety years without always knowing they were copying a 1934 Columbia picture. What follows maps that machine: the act structure, the time scheme of the road, the way each episode along the route charges the central pair a little more, the dialogue strategy that turns insults into courtship, the precise place where the structure strains, and a comparison with the very different comic architectures being built in Europe at the same moment, where the great laughs came from wit and class rather than from two stubborn people forced to share a room.
 

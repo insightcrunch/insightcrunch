@@ -6,7 +6,7 @@ date: 2019-11-25
 categories: ["Industry"]
 tags: ["post-sindoor", "acceleration", "2025-2026", "targeted-killings", "surge"]
 excerpt: "Targeted killings of militants surged across Pakistan after Operation Sindoor, with more than 30 eliminated by unknown gunmen at an unprecedented pace."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
 author: "kevin-reeves"
 last_updated: 2019-11-25
@@ -16,7 +16,7 @@ The ceasefire stopped the missiles. It did not stop the motorcycles. On the afte
 
 <!--more-->
 
-![Post Operation Sindoor acceleration of targeted killings across Pakistan](/assets/images/blog/blog-24.webp)
+![Post Operation Sindoor acceleration of targeted killings across Pakistan](/assets/images/blog/blog-105.webp)
 
 ## The Preceding Link
 

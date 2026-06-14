@@ -6,7 +6,7 @@ date: 2017-11-09
 categories: ["Leisure"]
 tags: ["feluda", "sidhu-jyatha", "satyajit-ray", "bhadralok", "calcutta-memory"]
 excerpt: "সিধু জ্যাঠা চরিত্রের সম্পূর্ণ বিশ্লেষণ। বাঙালি ভদ্রলোক জ্যান-দান ঐতিহ্য, সংবাদপত্র-কেটে রাখা ফাইলিং পদ্ধতি, আড্ডা-ঘরের বিদ্বান-জ্যাঠা আদর্শ, এবং ইন্টারনেট-যুগে এই ব্যক্তিত্বের অপ্রচলিতকরণ।"
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 105
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![সিধু জ্যাঠা: ইন্টারনেট-পূর্ব কলকাতার জীবন্ত বিশ্বকোষ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-85.webp)
+![সিধু জ্যাঠা: ইন্টারনেট-পূর্ব কলকাতার জীবন্ত বিশ্বকোষ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-36.webp)
 
 ## সিধু জ্যাঠা কে
 

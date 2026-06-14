@@ -6,7 +6,7 @@ date: 2022-12-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 8", "Jay Gatsby", "George Wilson", "Close Reading", "American Literature"]
 excerpt: "Gatsby's death in Chapter 8 is a quiet killing in his own pool. A close reading of how Gatsby dies, who shoots him, why, and what the manner of it means."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 49
 author: "rachel-foster"
 last_updated: 2022-12-12
@@ -16,7 +16,7 @@ Gatsby's death in Chapter 8 of *The Great Gatsby* is the strangest kind of clima
 
 This article owns the death scene itself: the pool, the waiting, the shot, and the way the novel composes a violent killing into one of its most peaceful images. The fuller account of the Louisville past that Gatsby tells Nick the same night belongs to its own reading, and the empty funeral that follows belongs to Chapter 9. Here the focus narrows to the moment of dying and to a single hard question the text raises and refuses to answer cleanly: was Gatsby, at the end, still hoping, or had he already let go? That question is the engine of the scene, and a careful reader can weigh the evidence without pretending the novel settles it.
 
-![Gatsby's death in Chapter 8 of The Great Gatsby, the pool scene close reading - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Gatsby's death in Chapter 8 of The Great Gatsby, the pool scene close reading - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 ## Where the Death Falls in the Novel's Architecture
 

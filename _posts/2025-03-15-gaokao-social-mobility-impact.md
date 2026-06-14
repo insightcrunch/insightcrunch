@@ -6,14 +6,14 @@ date: 2025-03-15
 categories: ["Industry"]
 tags: ["高考", "社会流动", "寒门贵子", "教育公平", "Social Mobility", "Meritocracy"]
 excerpt: "高考被誉为中国最公平的考试,也是普通家庭子弟向上流动最可靠的阶梯。本文深入解析高考作为社会流动引擎的运作机制、专项计划与资助政策、鲤鱼跳龙门隐喻的由来、城乡与省际差距的真实争议、第一代大学生的隐形课程、寒门贵子背后的代价与取舍,以及高考之外通往更好人生的多元路径与给不同背景家庭的务实备考与志愿填报建议。"
-image: "/assets/images/blog/blog-109.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 63
 author: "wu-chengan"
 lang: zh
 ---
 每年盛夏,一千多万名年轻人走进同一种考场,在同一段时间里、用同一套规则,完成一场决定人生走向的考试。对许多出身普通的学生来说,这不只是一次升学,而是一道闸门。闸门之外,是父辈很难凭借其他途径企及的世界:更好的城市、更宽的视野、更高的起点。正因为如此,这场考试长期被许多人视为中国社会里最重要的一架向上的梯子。它究竟在多大程度上承载了"改变命运"的承诺?它真的让出身寒微的孩子有机会与城里的孩子站在同一条起跑线上吗?这篇文章试图把这些问题摊开来,既不盲目歌颂,也不一味否定,而是认真地看清这架梯子的结构、它的承重能力,以及它的裂缝在哪里。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-109.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-106.webp)
 *这场考试被视为普通家庭子弟向上流动的重要通道,但理想与现实之间始终存在张力*
 
 ## 鲤鱼跳龙门:一个古老隐喻的现代回声

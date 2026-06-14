@@ -6,7 +6,7 @@ date: 1996-07-07
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Transfer", "Community College", "Score Policy"]
 excerpt: "SAT for transfer students: when scores are waived after enough college credits, when a strong score still helps, and the major system policies explained."
-image: "/assets/images/blog/blog-104.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 59
 author: "christopher-wells"
 last_updated: 1996-07-07
@@ -16,7 +16,7 @@ A student who finished a year of community college with a 3.7 grade point averag
 
 That story repeats every admissions cycle, and it is the exact failure this guide is built to prevent. The question is not whether the SAT can help a transfer applicant, because in narrow cases it genuinely can. The question is whether your specific situation, defined by how much college credit you carry and where you are headed, places you in the band where a score is required, the band where a strong score adds something, or the band where the test is simply irrelevant to your file. Most people moving from a two-year campus to a four-year one land squarely in that last band and never learn it in time.
 
-![SAT for community college transfer students score waiver and policy guide - Insight Crunch](/assets/images/blog/blog-104.webp)
+![SAT for community college transfer students score waiver and policy guide - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The standard advice you will find treats every applicant as if the rules were identical, which is why it is useless. A first-year applicant fresh out of high school lives in a world where the SAT carries real weight at most selective programs. An upper-division candidate arriving with sixty completed credits and an associate degree lives in a different world, one where the admissions reader cares about the college transcript first, the prerequisite coursework second, and the high school record, including any test score attached to it, barely at all. The mistake that costs students time, money, and stress is importing the first-year playbook into the transfer process where it does not apply. This piece gives you the decision rule the generic accounts skip: a clean map from credits completed to whether the assessment matters, grounded in how four-year admissions offices and the major public systems actually evaluate incoming upper-division applicants as of recent cycles, with the framework you need to confirm the current policy at any specific destination before you spend a single hour preparing.
 

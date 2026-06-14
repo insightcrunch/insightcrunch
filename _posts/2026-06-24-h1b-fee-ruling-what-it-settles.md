@@ -6,7 +6,7 @@ date: 2026-06-24
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Forecasting", "Executive Power", "Litigation", "Immigration", "Policy"]
 excerpt: "The H-1B fee ruling vacated the charge nationwide yet left the refund question, the entry power, and the live appeal open: a map of what stays unsettled."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 60
 author: "david-thornton"
 last_updated: 2026-06-24
@@ -16,7 +16,7 @@ A reader who wants a single sentence on the H-1B fee ruling can have one: the Ma
 
 That map is the whole point of this analysis. The temptation, on a story this large, is to treat the strike-down as the end of the fight. It is not. It is the resolution of one question, asked in one posture, by one judge, on one record, and it sits inside a larger contest that includes a separate decision pointing the other way, an appeal the government has signaled, a sunset clause that could end the matter on its own, and a recovery question that no court has yet answered. Reading the ruling as the close of the saga misreads it. Reading it as a clean account of what is now decided, what is expressly undecided, and which threads remain live is the disciplined alternative, and it is the one a researcher, an attorney, an employer, or a worker can actually use.
 
-![What the H-1B fee ruling settles and what it leaves open, a forecasting analysis - Insight Crunch](/assets/images/blog/blog-17.webp)
+![What the H-1B fee ruling settles and what it leaves open, a forecasting analysis - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 This article works through the settled and the open in turn. It states what the decision conclusively establishes, then catalogs what it pointedly does not reach, then traces the live paths and the conditions that select among them. It lays out the appeal and stay mechanics that govern the near term, sets out the plausible branches in durable conditional terms, and explains what each would mean for the people the policy touched. Throughout, it holds to one rule: forecasting is framed as conditional analysis, never disguised as prediction. Where the answer depends on a future event or on a contested point of law, the condition is named rather than the outcome asserted. The closing identifies the single variable that does the most work in deciding how the rest unfolds.
 

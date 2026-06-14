@@ -5,7 +5,7 @@ date: 2008-12-22
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "It has been about three and a half years that I have been going to my college in Sector 5 via Chingrighata. Sector 5, the new tech town of Kolkata, the..."
-image: "/assets/images/blog/blog-64.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 3
 author: "rachel-foster"
 last_updated: 2026-04-01
@@ -23,5 +23,5 @@ Read more: [Breaking the photo limit while using Windows Live Writer and Blogger
 
 I sincerely hope that all the issues get solved soon as I love my Kolkata just too much to see it this way. I do hope that our future pride is really a place that we can appreciate from the bottom of our hearts, not merely by reading its achievements in the newspapers and headlines.
 
-![Is Kolkata Salt Lake Sector 5 Ready](/assets/images/blog/blog-64.webp)
+![Is Kolkata Salt Lake Sector 5 Ready](/assets/images/blog/blog-43.webp)
 Is Kolkata Salt Lake Sector 5 Ready

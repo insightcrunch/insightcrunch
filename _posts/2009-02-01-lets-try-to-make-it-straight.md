@@ -5,7 +5,7 @@ date: 2009-02-01
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "College politics and moral dilemmas: caught between supporting juniors, protecting grades, and navigating the pressures of final year campus life."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 2
 author: "amanda-ross"
 last_updated: 2026-04-01
@@ -38,5 +38,5 @@ Withdraw support from the protests immediately
  Support as long as we dnt hv a favourable decision  
  5 (20%)
 
-![Path to a Brighter Future](/assets/images/blog/blog-57.webp)
+![Path to a Brighter Future](/assets/images/blog/blog-84.webp)
 Path to a Brighter Future

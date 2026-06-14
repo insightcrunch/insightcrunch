@@ -6,7 +6,7 @@ date: 2013-08-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Coming of Age", "Bildungsroman", "Genre"]
 excerpt: "How the Harry Potter series ages with its reader, shifting from fairy tale to war novel as supervision withdraws and growing up becomes the loss of rescue."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2013-08-16
@@ -16,7 +16,7 @@ lang: en
 
 Open the first chapter of *Harry Potter and the Philosopher's Stone* and you are reading a comedy. A fat man with a moustache worries about a tabby cat reading a map. Owls fall over themselves in daylight. A giant arrives on a flying motorbike and weeps into a beard the size of a hedge. The prose is brisk, the cruelty is cartoonish, the villains are the kind a six-year-old can hate without nightmares. Roald Dahl could have written the Dursleys. The register is unmistakable: this is a book for children, and it knows it.
 
-![Growing up with Harry Potter as the series matures across seven books](/assets/images/blog/blog-27.webp)
+![Growing up with Harry Potter as the series matures across seven books](/assets/images/blog/blog-07.webp)
 
 Open the first chapter of *Harry Potter and the Deathly Hallows* and you are reading something else entirely. Two men sit at a long table in a darkened manor while a woman revolves slowly above them, unconscious, suspended by an enemy who will murder her for entertainment before the chapter ends. The humour is gone. The Dursleys, if they appeared here, would be unrecognisable. The prose has slowed, thickened, learned to dwell on dread. This is a war novel, and it knows that too.
 

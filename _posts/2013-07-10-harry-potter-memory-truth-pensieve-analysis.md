@@ -6,7 +6,7 @@ date: 2013-07-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Pensieve", "Memory", "Epistemology"]
 excerpt: "How the Pensieve turns Harry Potter into a theory of knowledge: memory as plural truth, self-deception as magic, and the Prince's Tale as its reframing."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2013-07-10
@@ -16,7 +16,7 @@ lang: en
 
 There is a stone basin in the headmaster's office, shallow and wide, its rim carved with runes that no one in seven books pauses to translate. Inside it moves a substance that is neither liquid nor gas, silver-white, glowing, shifting when a wand stirs it. Dumbledore calls it a Pensieve. He uses it the way a scholar uses an archive and the way a tired man uses a confessional, and the casual reader files it under "magical gadget" alongside the Remembrall and the Sneakoscope. That filing is a mistake. The basin is the single most philosophically loaded object Rowling ever invented, and what it holds is not memory in the ordinary sense. It holds an argument about how anyone can know anything about anyone else.
 
-![Memory, truth, and the Pensieve analysis across all Harry Potter books](/assets/images/blog/blog-43.webp)
+![Memory, truth, and the Pensieve analysis across all Harry Potter books](/assets/images/blog/blog-39.webp)
 
 The argument runs against intuition. We tend to believe one of two contradictory things about memory. The first is that memory is a recording, faithful and retrievable, a tape we can rewind to settle a dispute about what really happened. The second, the cynic's correction, is that memory is unreliable to the point of uselessness, so thoroughly contaminated by desire and time that no account can be trusted. Rowling rejects both. The Pensieve shows memory to be at once more reliable and less reliable than either camp allows. The events inside a recollection are dense with detail no witness could consciously have stored, down to the texture of a stranger's robe in the background. And yet the same memory can carry a deliberate fog, a doctored seam, a perspective so narrow it amounts to a lie of omission. Truth, the basin insists, is plural without being relative. There is what happened. There is what each person saw. The gap between the two is not noise to be eliminated; the gap is the object of study.
 

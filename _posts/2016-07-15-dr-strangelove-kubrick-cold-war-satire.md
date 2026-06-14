@@ -6,7 +6,7 @@ date: 2016-07-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Dr. Strangelove", "Stanley Kubrick", "Cold War", "Black Comedy", "Film History", "World Cinema"]
 excerpt: "Dr. Strangelove turned nuclear deterrence into farce, arguing the doctrine of mutual destruction was too absurd for tragedy and only comedy could expose it."
-image: "/assets/images/blog/blog-104.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
 author: "amanda-ross"
 last_updated: 2016-07-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Stanley Kubrick set out to make a serious film about the end of the world and kept laughing at his own script. He had bought the rights to a taut British thriller, hired himself to adapt it straight, and sat down to dramatize the most frightening subject available to a filmmaker in the early 1960s: an accidental slide into thermonuclear war. The harder he worked at solemnity, the more the material resisted it. Every time he tried to write a scene of grave men deciding the fate of the species, he found himself deleting details that were true and that played as jokes. Eventually he stopped fighting. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb is the film that came out of that surrender, and its argument is hidden inside its genre. The doctrine governing the survival of the human race, Kubrick decided, was not tragic. It was a joke that could kill everyone, and the only honest way to film a joke is as a comedy.
 
-![Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](/assets/images/blog/blog-104.webp)
+![Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](/assets/images/blog/blog-07.webp)
 
 That decision is the whole event of the film, and it is easy to misread. A black comedy about nuclear annihilation can look like a flinch, a way of making the unbearable bearable by treating it lightly. The opposite is true here. Kubrick reached for farce because farce was the form that could say what a thriller could not, which is that the logic of deterrence, followed faithfully, leads to a war room full of competent men presiding over extinction and unable to stop it. The comedy is not relief from the argument. The comedy is the argument. To understand why a sane filmmaker chose laughter over dread, you have to look at what the nuclear age actually asked people to believe, and then watch how the film takes that belief at its word and rides it to the end of the world.
 

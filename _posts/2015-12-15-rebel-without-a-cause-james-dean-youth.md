@@ -6,7 +6,7 @@ date: 2015-12-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Rebel Without a Cause", "James Dean", "Nicholas Ray", "World Cinema", "Film History", "Film Analysis"]
 excerpt: "Rebel Without a Cause located teenage despair not in poverty but in the comfortable suburban home, a diagnosis read against the youth cinema of the world."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
 author: "amanda-ross"
 last_updated: 2015-12-15
@@ -16,7 +16,7 @@ lang: en
 
 The pressure that produced Rebel Without a Cause was demographic before it was dramatic. By the middle of the 1950s the United States had built something no society had built at that scale before: a vast, comfortable, car-owning suburban middle class whose children had money, leisure, automobiles, and time, and no clear idea what any of it was for. Nicholas Ray's 1955 drama, shot in CinemaScope for Warner Bros. and carried by James Dean, took that new and uneasy figure, the affluent American teenager, and gave him a face, a posture, and a wound. The picture does not locate adolescent despair where earlier delinquency films had located it, in slums and broken tenements and the wreckage of poverty. It locates the ache inside warm, well-furnished homes with two cars and a lawn, and that single relocation is what made the film a permanent document of its decade rather than a topical melodrama that aged with its headlines.
 
-![How Rebel Without a Cause gave 1950s teenage alienation its defining image, an analysis - Insight Crunch](/assets/images/blog/blog-26.webp)
+![How Rebel Without a Cause gave 1950s teenage alienation its defining image, an analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 That is the argument this analysis will make and defend across its length: that the film's lasting cultural achievement is a diagnosis, not a mood. The red windbreaker, the slouch, the wet eyes, the muttered defiance have become so iconic that the diagnosis underneath them is easy to miss, and the easiest way to misremember the movie is to reduce it to James Dean nostalgia, a beautiful doomed boy frozen in a posthumous glow. The film is sharper than its own iconography. It names causes. It builds a careful case that the rebellion of its three central teenagers is produced by specific, nameable failures of parents and the wider adult world, and the case is so legible that the title's promise of causelessness reads as ironic almost from the first reel. Read against the youth cinema that was erupting at the same moment across Japan, France, Britain, and West Germany, the particular American shape of that diagnosis, alienation born of plenty rather than want, becomes unmistakable, and it is the comparison that finally shows what kind of film this is.
 

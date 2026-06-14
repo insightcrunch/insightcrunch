@@ -6,7 +6,7 @@ date: 2007-06-01
 categories: ["Leisure"]
 tags: ["ronald-reagan", "consensus-flip", "us-presidents", "historical-reappraisal", "partisan-polarization", "public-opinion"]
 excerpt: "Historians rank Reagan 9th while the public consistently puts him in the top three, the widest scholar-versus-public divergence of any modern president."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 71
 author: "diana-patel"
 last_updated: 2026-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 Two surveys land on a researcher's desk in the same week, and they describe two different men. One comes from a polling outfit that telephoned a representative sample of American adults and asked them to name the greatest president of the modern era. Ronald Reagan finishes near the top, jostling with Franklin Roosevelt and John Kennedy for the lead, the kind of result he has produced almost every time ordinary citizens have been asked the question since he left office. The other survey comes from a panel of professional historians and political scientists who study the presidency for a living. They rank him ninth, respectable but a full tier below the figures the public puts beside him. Same president. Same record. Same forty months of available evidence. Two verdicts that will not reconcile.
 
-![Reagan partisan gap historian ranking versus public ranking reassessment - Insight Crunch](/assets/images/blog/blog-80.webp)
+![Reagan partisan gap historian ranking versus public ranking reassessment - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 That stubborn distance between the academy and the electorate is the most interesting fact about Reagan's afterlife, more interesting than any single policy fight from the 1980s, because it exposes how reputation actually forms and who gets to decide it. Most presidents converge over time. The shouting of their own era fades, the partisans who loved or hated them die off, and scholarly judgment and popular memory drift toward a shared estimate. Harry Truman did this, climbing from contempt to consensus respect over three decades. Dwight Eisenhower did it, rising from a caricature of the golfing caretaker into a recognized strategic mind. Reagan has not done it. More than a generation after he left the White House, the scholar and the citizen still keep separate scoreboards, and the spread between them has barely narrowed. Understanding why requires taking both scoreboards seriously rather than dismissing one as ignorant and the other as biased, which is the lazy move available to whichever side a reader already favors.
 

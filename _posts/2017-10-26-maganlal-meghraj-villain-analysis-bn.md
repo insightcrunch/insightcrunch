@@ -6,7 +6,7 @@ date: 2017-10-26
 categories: ["Leisure"]
 tags: ["feluda", "maganlal-meghraj", "satyajit-ray", "villain", "utpal-dutt"]
 excerpt: "মগনলাল মেঘরাজ চরিত্রের সম্পূর্ণ বিশ্লেষণ। বাঙালি ভদ্রলোক-মাড়োয়ারি ইতিহাস, আতিথেয়তা-অস্ত্র, ছুরি দৃশ্য, উৎপল দত্তের অভিনয়, এবং ক্যাননের একমাত্র পুনরাগত খলনায়ক।"
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 133
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![মগনলাল মেঘরাজ: বাঙালি গোয়েন্দা সাহিত্যের শ্রেষ্ঠ খলনায়ক - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-21.webp)
+![মগনলাল মেঘরাজ: বাঙালি গোয়েন্দা সাহিত্যের শ্রেষ্ঠ খলনায়ক - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-05.webp)
 
 ## মগনলালের পটভূমি এবং ভৌগোলিক উৎস
 

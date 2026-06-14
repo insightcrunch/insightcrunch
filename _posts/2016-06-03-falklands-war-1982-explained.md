@@ -332,4 +332,4 @@ Operation Black Buck was a series of long-range bombing missions flown by RAF Vu
 
 For additional historical context, explore our [World History Timeline at ReportMedic](https://reportmedic.com/world-history-timeline){:target="_blank"} for understanding how the Falklands War fits within the broader pattern of late Cold War conflicts, or visit the [ReportMedic historical events resource](https://reportmedic.com/world-history-timeline){:target="_blank"} for connections between South Atlantic conflict and global political transformation.
 
-![The Falklands War of 1982 Explained](/assets/images/blog/blog-76.webp)
+![The Falklands War of 1982 Explained](/assets/images/blog/blog-79.webp)

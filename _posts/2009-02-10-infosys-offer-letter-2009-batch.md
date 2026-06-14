@@ -5,7 +5,7 @@ date: 2009-02-10
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "Infosys offer letters arrive for 2009 batch: the excitement, the wait, and what it means for freshers placed during campus recruitment season."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 1
 author: "siddharth-rao"
 last_updated: 2026-04-01
@@ -17,5 +17,5 @@ I think its time Infosys comes out with some information on when the remaining c
 
 Read more: [TCS may stretch working hours by half an hour »](https://insightcrunch.com/2009/02/11/tcs-may-stretch-working-hours-by-half-an-hour/)
 
-![Infosys TCS Offer Letter Joining Date Joining Letter Wipro IBM Accenture Cognizant](/assets/images/blog/blog-77.webp)
+![Infosys TCS Offer Letter Joining Date Joining Letter Wipro IBM Accenture Cognizant](/assets/images/blog/blog-103.webp)
 Infosys Offer Letter

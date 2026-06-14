@@ -6,7 +6,7 @@ date: 2014-11-15
 categories: ["Travel"]
 tags: ["USA Travel", "Grand Canyon", "National Parks", "Itineraries", "Hiking", "Outdoors"]
 excerpt: "Plan a four-day Grand Canyon South Rim itinerary that paces the rim walk, the best light, and one safe descent below the edge without the rookie mistakes."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 68
 author: "amit-chatterjee"
 last_updated: 2014-11-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A good Grand Canyon South Rim itinerary is mostly a question of restraint. The canyon is so large that the instinct, once you are standing at the edge, is to chase it: drive every overlook, hike toward the river, cram a week of scenery into two rushed days. That instinct is exactly what produces a bad trip, a heat-sick afternoon, and the nagging sense that you saw a lot and absorbed none of it. Four days is the length where the South Rim stops being a viewpoint you photographed and becomes a place you understood, because four days gives you room to see the canyon three ways that matter: from the flat rim in changing light, from a short walk below the edge where the scale finally lands, and from the quieter eastern drive most day-trippers never reach.
 
-![A four-day Grand Canyon South Rim itinerary pacing rim views, best light, and one safe descent - Insight Crunch](/assets/images/blog/blog-09.webp)
+![A four-day Grand Canyon South Rim itinerary pacing rim views, best light, and one safe descent - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 This plan is built for a traveler who is actually going and wants a sequence they can follow, not a catalog of things that exist. It suits couples, friends, solo travelers, and families with kids old enough to walk a paved rim path and handle a short descent. It assumes you have a car to reach the park and the eastern overlooks, that you will lean on the free shuttle inside the village corridor where private cars are a liability, and that you would rather end each day satisfied than exhausted. The order is deliberate. Each day has a spine, an anchor experience, and a single decision about light, and the plan tells you which decision to make and why.
 

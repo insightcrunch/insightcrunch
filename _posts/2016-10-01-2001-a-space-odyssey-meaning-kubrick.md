@@ -6,7 +6,7 @@ date: 2016-10-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "2001: A Space Odyssey", "Stanley Kubrick", "Science Fiction", "Film Analysis", "World Cinema"]
 excerpt: "2001: A Space Odyssey trades explanation for awe, turning the monolith, HAL, and the Star Child into felt mysteries that redraw what science fiction can ask."
-image: "/assets/images/blog/blog-99.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2016-10-01
@@ -14,7 +14,7 @@ lang: en
 ---
 A bone spins upward against a pale sky, flung by a creature that has just learned a club can kill. The shot cuts, and four million years vanish in a single edit as the bone becomes a slender craft drifting through orbit. No film before had compressed the whole arc of a species into one gesture, and few have dared it since. This is the engine of 2001: A Space Odyssey, the 1968 picture directed by Stanley Kubrick and co-written with the novelist Arthur C. Clarke, a work that refuses to tell you what its images mean and grows more powerful for the refusal. Most science fiction of its era explained itself. It named the monster, diagrammed the threat, and resolved the danger before the credits. Kubrick built something stranger: a contemplative epic that withholds its answers so that evolution, intelligence, and transcendence stop being plot points and become felt mysteries. That withholding is the whole argument, and understanding it is the key to everything the work attempts.
 
-![2001: A Space Odyssey: Meaning, Monolith, Mystery](/assets/images/blog/blog-99.webp)
+![2001: A Space Odyssey: Meaning, Monolith, Mystery](/assets/images/blog/blog-21.webp)
 
 The central wager is easy to state and hard to absorb. Where a conventional story would gather its threads and offer a resolution, this one opens its hand and lets meaning float free. The picture moves from the dawn of humanity to a voyage toward Jupiter and out past the edge of the known, and at each threshold a smooth black slab appears without explanation, a presence that seems to nudge the species forward without ever stating its purpose. A computer with a soft, reasonable voice turns against the crew it was built to serve. An astronaut passes through a corridor of impossible light and is reborn as a luminous infant suspended above the Earth. None of this is decoded for the viewer. The choice to leave it open is not a failure of nerve or a gap in the screenplay. It is the position the work takes about its own subject: that the largest questions a species can ask, where it came from, what intelligence is for, what might lie beyond the human, do not yield to tidy explanation, and that the honest response to them is awe rather than a tidy chart of causes.
 

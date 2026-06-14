@@ -6,7 +6,7 @@ date: 2016-03-20
 categories: ["Leisure"]
 tags: ["korean-war", "cold-war", "1950s", "truman", "macarthur", "history"]
 excerpt: "The Korean War was a civil war that became an international conflict. Cumings scholarship fundamentally complicated the aggression-response narrative."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2016-03-20
@@ -16,7 +16,7 @@ The Korean War was a civil war that became an international conflict, fought fro
 
 <!--more-->
 
-![The Korean War Explained - Insight Crunch](/assets/images/blog/blog-37.webp)
+![The Korean War Explained - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 Understanding the Korean War requires holding two truths simultaneously. Kim Il-sung launched a deliberate military invasion across the 38th parallel, and the peninsula was already engulfed in political violence that had killed tens of thousands before June 1950. The first truth without the second produces the History.com summary. The second truth without the first produces apologia. The integrated account that this analysis constructs, drawing on Cumings, Allan R. Millett, Sheila Miyoshi Jager, and Wada Haruki, preserves the analytical content of both without reducing either to a footnote. The Korean War was the first major military confrontation of the [Cold War system](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide/) and remains the only conflict from that era whose formal termination has never been achieved.
 

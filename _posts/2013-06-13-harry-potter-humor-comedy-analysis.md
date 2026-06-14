@@ -6,7 +6,7 @@ date: 2013-06-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Comedy", "Weasley Twins", "Satire"]
 excerpt: "Humor in Harry Potter analyzed as survival, weapon, deflection, and moral diagnostic - from the Weasley twins to Voldemort's chilling inability to laugh."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 57
 author: "olivia-grant"
 last_updated: 2013-06-13
@@ -16,7 +16,7 @@ lang: en
 
 There is a single detail Rowling withholds from her villain that damns him more completely than any murder he commits, and most readers never consciously register its absence. Lord Voldemort cannot tell a joke. He cannot enjoy one. Across thousands of pages and four decades of fictional life, the most powerful Dark wizard of the age is never once moved to genuine laughter, never delivers a line that lands as wit rather than threat, never participates in the small human transaction in which one person offers a piece of absurdity and another receives it with delight. The closest he comes is a cold, derisive amusement at the suffering of others, which is not comedy at all but its taxidermied corpse, propped up to resemble the living thing. This is not an oversight. It is the most precise diagnostic Rowling ever performs on him, and she performs it almost entirely through what she refuses to write.
 
-![Humor and comedy analysis across the Harry Potter books](/assets/images/blog/blog-03.webp)
+![Humor and comedy analysis across the Harry Potter books](/assets/images/blog/blog-29.webp)
 
 The argument of this essay is that comedy in Harry Potter is never merely comic relief, never simply the spoonful of sugar that helps the darker medicine go down. It is a survival mechanism for the powerless, a tactical weapon against tyranny, a screen that intimate people hide behind, and, above all, a moral instrument more reliable than any speech. How a character uses laughter, and whether that character can bear to have laughter aimed back at the self, reveals moral quality faster and more honestly than any stated belief. People lie about their values constantly. They announce loyalty they do not feel and courage they do not possess. But the involuntary nature of the laugh, the spontaneous thing that escapes before the conscious mind can edit it, gives the reader a truer reading than any declaration. Show me what a person finds funny, and whether that person can laugh at the self, and I will tell you more about that person's interior than a thousand words of professed conviction.
 

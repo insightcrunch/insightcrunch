@@ -6,7 +6,7 @@ date: 2017-03-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "American Graffiti", "George Lucas", "New Hollywood", "Film History", "World Cinema"]
 excerpt: "American Graffiti announced the movie brats, the film-school generation whose pop-fluent nostalgia and jukebox style would reshape Hollywood for good."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2017-03-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A movement rarely announces itself with a single picture, but American Graffiti comes close. George Lucas made it in 1973 as his second feature, a small comedy about one night of cruising in a California town, and it turned out to be the manifesto of a generation that had grown up inside movie theaters and television rooms rather than inside the studio system. That generation came to be called the movie brats, and American Graffiti is the film where their style, their nostalgia, their pop-culture fluency, and their commercial instincts all arrived at once. To watch it now is to watch a film school graduate teach Hollywood how the next thirty years would sound.
 
-![How American Graffiti announced the movie brats and the film-school generation, an analysis - Insight Crunch](/assets/images/blog/blog-92.webp)
+![How American Graffiti announced the movie brats and the film-school generation, an analysis - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The picture follows four young men and the people orbiting them through a single late-summer evening in 1962. Curt Henderson hesitates over leaving for college back east. Steve Bolander is ready to go and rattled by the leaving. John Milner cruises the strip in a souped-up yellow hot rod, the fastest car in the valley and the loneliest. Terry Fields, nicknamed the Toad, borrows a car and a confidence he does not own. Around them the radio never stops, a stream of rock and roll spun by a disc jockey named Wolfman Jack, and the streets fill with headlights and engines and the particular ache of a night that everyone senses will not come again. Nothing explodes. No plot machine grinds. The film simply lets a town and an age reveal themselves through motion and sound, and in doing so it captured a way of making American pictures that had not quite existed before.
 

@@ -6,7 +6,7 @@ date: 2026-01-05
 categories: ['Analytics']
 tags: ['ENEM', 'Vestibular', 'Preparação', 'Universidade']
 excerpt: 'Um guia autoritativo, estratégico e profundamente prático para a preparação do ENEM — cobrindo a arquitetura do exame, a Teoria de Resposta ao Item...'
-image: '/assets/images/blog/blog-14.webp'
+image: '/assets/images/blog/blog-92.webp'
 reading_time: 35
 author: "juliana-costa"
 last_updated: 2026-03-31
@@ -22,7 +22,7 @@ O ENEM não é um teste de memorização. É um exame que avalia a capacidade de
 
 Este guia é para o estudante do terceiro ano que está se preparando pela primeira vez, para o treineiro do primeiro ou segundo ano que quer começar cedo, para o candidato que já fez o ENEM e precisa melhorar sua nota, e para o adulto que voltou a estudar depois de anos fora da escola. Vamos percorrer a arquitetura do exame, o funcionamento da TRI (Teoria de Resposta ao Item), estratégias específicas para cada área do conhecimento, o caminho para a redação nota 1000, gestão de tempo na prova, cronogramas de estudo por perfil de candidato e a dimensão psicológica de uma preparação que pode durar meses. O princípio orientador é simples: o ENEM é um exame que pode ser significativamente conquistado através de preparação estratégica — mas somente se essa preparação estiver alinhada com o que a prova realmente exige.
 
-![O Guia Definitivo para Conquistar o ENEM](/assets/images/blog/blog-14.webp)
+![O Guia Definitivo para Conquistar o ENEM](/assets/images/blog/blog-92.webp)
 O Guia Definitivo para Conquistar o ENEM: Um Plano Estratégico do Zero à Aprovação
 
 ## **2. Entendendo a Arquitetura do ENEM**

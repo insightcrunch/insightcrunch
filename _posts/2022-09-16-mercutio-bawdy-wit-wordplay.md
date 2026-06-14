@@ -6,7 +6,7 @@ date: 2022-09-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "mercutio", "bawdy", "mercutio-bawdy-puns"]
 excerpt: "Mercutio's relentless bawdy puns set a coarse, physical view of sex against Romeo's idealized love, and the contrast frames the play's whole argument."
-image: "/assets/images/blog/blog-109.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2022-09-16
@@ -14,7 +14,7 @@ lang: en
 ---
 Stand in the dark orchard at the start of the second act and listen to what Mercutio actually shouts over the wall. Romeo has just leapt the Capulet boundary to find the girl he met at the feast, and his friend, not knowing the object has changed from Rosaline to Juliet, tries to flush him out with a mock spell. The spell is filthy. It conjures Romeo by a woman's thigh and by what lies above it, jokes about raising and laying a spirit in a woman's body, and ends on a wish so coarse that editors spent three centuries refusing to print it plainly. Most readers remember the orchard for the balcony that follows, for the sun and the moon and the exchanged vows. Almost nobody remembers that the scene opens with a comedian standing in the same garden making the crudest sexual jokes in the play.
 
-![Mercutio's Bawdy: Sex, Wit, and Wordplay - Insight Crunch](/assets/images/blog/blog-109.webp)
+![Mercutio's Bawdy: Sex, Wit, and Wordplay - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 That juxtaposition is the whole point, and it is the thing the sanitized version of this love story cannot afford to keep. The standard account treats Mercutio's smut as garnish, a few naughty lines to be glossed quickly and hurried past on the way to the poetry. The argument here runs the other way. Mercutio's bawdy is not spice. It is a theory. Across the conjuring at the top of 2.1 and the rapid-fire innuendo of 2.4, the character mounts a sustained case that love is appetite, that bodies are the joke, and that the language of adoration is a polite lie told over the top of plain physical want. Shakespeare gives this case to his funniest and most quotable speaker, lets it run at full volume, and then sets it directly beside Romeo's celestial idealism and Juliet's frank but tender desire. The result is not comic relief. It is a debate among three different languages of love, staged in one orchard and one street, and the tragedy that follows cannot be read fully without hearing all three.
 

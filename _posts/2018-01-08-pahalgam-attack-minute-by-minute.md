@@ -6,7 +6,7 @@ date: 2018-01-08
 categories: ["Industry"]
 tags: ["pahalgam", "attack", "minute-by-minute", "kashmir", "trf", "2025"]
 excerpt: "A complete minute-by-minute reconstruction of the Pahalgam tourist massacre in Baisaran Valley, how gunmen killed 26 people, and the crisis it caused."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "david-thornton"
 last_updated: 2018-01-08
@@ -16,7 +16,7 @@ On April 22, 2025, between approximately 1:00 p.m. and 2:45 p.m., armed men ente
 
 <!--more-->
 
-![Pahalgam Attack Minute by Minute Reconstruction - Insight Crunch](/assets/images/blog/blog-96.webp)
+![Pahalgam Attack Minute by Minute Reconstruction - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 Baisaran Valley sits approximately seven kilometers from the town of Pahalgam, accessible only by foot or horseback along a muddy, rocky trail that winds through dense pine forests. The meadow itself stretches roughly 200 meters wide and 800 meters long, ringed by a seven-foot chain-link fence with two gates, one for entry and one for exit, enclosed on all sides by thick alpine woodland that rises toward the Pir Panjal range. Tourists call it Mini Switzerland. On April 22, it became a killing ground whose geography conspired against every attempt to escape or summon help, with the nearest CRPF base four to five kilometers away across terrain that takes forty to forty-five minutes to traverse on foot. What follows is the most granular publicly available reconstruction of those approximately ninety minutes, compiled from eyewitness testimonies, survivor accounts, security force reports, and investigative journalism, with the acknowledgment that exact timings from a chaotic mass-casualty event are inherently approximate and that different accounts conflict on specific sequences. The reconstruction establishes not just what happened, but how the attack's methodology, specifically the religious identification process that preceded each killing, transformed what might have been absorbed as another security incident into a national trauma that demanded a response India could not calibrate as proportionate.
 

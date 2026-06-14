@@ -14,7 +14,7 @@ lang: en
 ---
 ## The 1911 Confession
 
-![TR Takes Panama: The 1903 Canal Zone Maneuver - Insight Crunch](/assets/images/blog/blog-20.webp)
+![TR Takes Panama: The 1903 Canal Zone Maneuver - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 In March 1911, on a Berkeley lecture stage, Theodore Roosevelt told an audience: "I took the Isthmus, started the canal, and then left Congress not to debate the canal, but to debate me." The line comes from his March 23, 1911 address titled "The Right of the People to Rule."
 

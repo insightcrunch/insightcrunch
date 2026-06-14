@@ -6,7 +6,7 @@ date: 2022-04-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "foundations", "deaths", "body-count", "who-dies-in-romeo-and-juliet"]
 excerpt: "Romeo and Juliet kills off six named characters, and tracking each death in order, with its cause, reveals how steadily the play tightens toward the tomb."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2022-04-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The hardest fact about Shakespeare's most romantic play is how many corpses it leaves on the stage. By the final curtain, six named figures have stopped breathing, three of them in a single afternoon and three more crammed into one nighttime scene inside a single monument. The popular memory of this tragedy keeps two young lovers and a balcony and forgets the rest, yet the text is a steady accumulation of bodies, and the order in which they fall is not random. It is engineered. Each fatality removes a possibility, narrows the exits, and pushes the survivors closer to the vault where the last three will lie. To count the dead is to read the play's architecture from the inside.
 
-![Romeo and Juliet death sequence and body count analysis from Mercutio to the tomb - Insight Crunch](/assets/images/blog/blog-87.webp)
+![Romeo and Juliet death sequence and body count analysis from Mercutio to the tomb - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 This article does something the thin summaries refuse to do: it treats the mortality rate as evidence rather than as a sad footnote. Most online accounts will tell a reader that the lovers die and that there is a duel somewhere in the middle. That is not analysis; it is a logline. What follows instead is a precise inventory. Who dies, in what sequence, by whose hand, and to what dramatic end. The wager is that the question schoolchildren ask first, namely how many people die and how, opens directly onto the question scholars ask last, namely how the comic opening of this work hardens into catastrophe. The corpses are the hinge between the two.
 

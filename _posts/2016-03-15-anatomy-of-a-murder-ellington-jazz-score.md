@@ -6,7 +6,7 @@ date: 2016-03-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Anatomy of a Murder", "Otto Preminger", "Film Scores", "World Cinema", "Film History"]
 excerpt: "Anatomy of a Murder put Duke Ellington's modern jazz into a Hollywood courtroom, a sonic statement read against the jazz scores of world cinema abroad."
-image: "/assets/images/blog/blog-112.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2016-03-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A small-town Michigan lawyer walks into a roadhouse the night before the biggest trial of his career, and the room is swinging. A band plays loose, late-night jazz, the kind that lives in cigarette smoke and half-finished drinks, and the lawyer drifts toward the piano where a heavyset man in shirtsleeves works the keys with easy authority. The man at the piano is Duke Ellington. That cameo, brief and almost thrown away, is the clearest signal Otto Preminger could give about what he had done to the sound of his 1959 courtroom drama. Anatomy of a Murder does not score its tension with the swelling strings that every Hollywood trial picture of the period would have reached for by reflex. It scores that tension with a jazz band, and the choice was not decoration. It was an argument about what a Hollywood film could sound like, who could be trusted to make that sound, and how closely the music of a serious American drama could move to the music people actually played and danced to.
 
-![How Duke Ellington's jazz score reshaped Anatomy of a Murder, a comparative analysis - Insight Crunch](/assets/images/blog/blog-112.webp)
+![How Duke Ellington's jazz score reshaped Anatomy of a Murder, a comparative analysis - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The standard account treats the Ellington score as a stylish grace note on an otherwise conventional film, a bit of cool atmosphere laid over a sturdy legal procedural. That account undersells the achievement badly. The music is not a coat of paint. It is structural. It changes the temperature of the courtroom, it shapes how the audience reads the central characters, it sets the film's moral ambiguity to a sound that refuses to resolve, and it carried a cultural weight that no symphonic cue could have carried in 1959, because it was the first major Hollywood feature to hand its score to a Black composer of Ellington's stature and let his orchestra play it as itself. This article reads the score as the organizing device of the film, traces how specific cues operate against the images they accompany, and sets the whole experiment against the jazz that was entering cinema on the other side of the Atlantic at the very same moment, where the directors of the emerging French new wave were reaching for the same modern sound to signal that a new kind of film had arrived.
 

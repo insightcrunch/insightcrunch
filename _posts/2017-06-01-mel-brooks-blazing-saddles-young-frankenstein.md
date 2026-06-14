@@ -6,7 +6,7 @@ date: 2017-06-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Blazing Saddles", "Young Frankenstein", "Mel Brooks", "Gene Wilder", "Comedy", "Film Analysis"]
 excerpt: "Blazing Saddles and Young Frankenstein show Mel Brooks mastering two opposite modes of parody in a single year, the anarchic satire and the loving homage."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 59
 author: "sarah-mitchell"
 last_updated: 2017-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 In the space of ten months in 1974, one director released two parodies of two American genres, and got both exactly right by doing the opposite thing in each. Blazing Saddles tears the Western apart from the inside, weaponizing every cliche the form ever produced until the movie literally rips through its own back wall and spills onto the studio lot next door. Young Frankenstein does the reverse: it rebuilds the 1930s horror picture so lovingly, so precisely, that it could pass for a lost Universal title until the jokes start. Mel Brooks made both. He did not soften one to balance the other. He committed completely to demolition in the first and to devotion in the second, and in doing so he demonstrated something almost no comic filmmaker has matched in a single year, that the lampoon has two separate engines and that a master can run either one at full throttle.
 
-![Two engines of genre parody: the anarchic Western send-up and the affectionate horror homage that Mel Brooks released within a single year](/assets/images/blog/blog-91.webp)
+![Two engines of genre parody: the anarchic Western send-up and the affectionate horror homage that Mel Brooks released within a single year](/assets/images/blog/blog-35.webp)
 
 This pairing is the cleanest case study in film comedy for a question that sounds simple and turns out to be deep: what is a send-up actually doing when it mocks a genre? The lazy answer treats all spoofs as one thing, a stream of gags hung loosely on a familiar frame. The two pictures Brooks released that year refute the lazy answer by being so different from each other while sharing a director, a year, several cast members, and a single underlying obsession with classic Hollywood forms. Set them side by side and the whole grammar of the form becomes legible. One mode mocks by destroying. The other mocks by rebuilding so faithfully that the affection becomes the joke. This article places the two films directly against each other, argues the genuine differences that matter, and reaches a defended verdict on which approach to the burlesque proves more durable, with the worldwide comedy traditions of the same era held up alongside to show what was and was not particular to Brooks.
 

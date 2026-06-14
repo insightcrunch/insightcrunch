@@ -6,7 +6,7 @@ date: 2022-01-17
 categories: ["Technology"]
 tags: ["Azure", "AKS", "Kubernetes", "Containers", "Networking", "DevOps", "Cloud Architecture"]
 excerpt: "Azure Kubernetes Service explained: what AKS manages versus what you own, node pools, kubenet vs Azure CNI, the control plane SLA, and the upgrade model."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 60
 author: "ryan-walsh"
 last_updated: 2022-01-17
@@ -14,7 +14,7 @@ lang: en
 ---
 Azure Kubernetes Service sits in an awkward middle ground that trips up almost everyone who adopts it. The marketing line says it is managed Kubernetes, and engineers reasonably hear that as "Azure runs the cluster for me." Then a pod crashes, an upgrade stalls, the virtual network runs out of addresses, and the on-call engineer opens a support ticket expecting Microsoft to fix something that was never theirs to fix. The gap between using AKS and understanding AKS is precisely the gap between what the service manages and what you still operate, and that line is rarely drawn clearly anywhere. This guide draws it explicitly, because the single most useful thing you can know about the platform is which failures land on Microsoft's side and which land on yours.
 
-![Azure Kubernetes Service managed boundary and node pool architecture - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Azure Kubernetes Service managed boundary and node pool architecture - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The reader who finishes this piece should be able to design a cluster's node pools and network plugin on purpose rather than by accepting a portal default, predict the failure modes before they arrive, and reason about the tier, the upgrade cadence, and the address plan well enough to defend each choice in a design review. None of that comes from a single documentation page, because the docs treat each topic in isolation. The size of a node, the type of its disk, the plugin that assigns addresses, the tier that backs the API server, and the cadence that keeps the whole thing patched are one connected reasoning chain, and the value here is connecting them.
 

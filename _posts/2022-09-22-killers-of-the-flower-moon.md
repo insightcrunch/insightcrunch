@@ -5,7 +5,7 @@ date: 2022-09-22
 categories: ["Leisure"]
 tags: ["Movie"]
 excerpt: "The movie Killers of the Flower Moon is an American Western crime drama film which is directed by Martin Scorsese. The film is based on the best-selling..."
-image: "/assets/images/blog/blog-101.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 4
 author: "diana-patel"
 last_updated: 2026-04-02
@@ -17,7 +17,7 @@ The movie Killers of the Flower Moon is an American Western crime drama film whi
 
 Read more: [Health of IT professionals »](https://insightcrunch.com/2011/07/16/health-of-it-professionals-err/)
 
-![](/assets/images/blog/blog-101.webp)
+![](/assets/images/blog/blog-25.webp)
 Leonardo DiCaprio in Killers of the Flower Moon
 
 ## Killers of the Flower Moon Release Date

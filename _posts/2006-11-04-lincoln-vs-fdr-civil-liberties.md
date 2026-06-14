@@ -6,7 +6,7 @@ date: 2006-11-04
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "franklin-d-roosevelt", "comparative", "us-presidents", "american-history", "civil-liberties", "wartime-executive"]
 excerpt: "Lincoln suspended habeas corpus. FDR interned Japanese Americans. Both expanded wartime executive power. Lincoln went broader; FDR set the worse precedent."
-image: "/assets/images/blog/blog-86.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2026-06-01
@@ -16,7 +16,7 @@ On the night of May 25, 1861, soldiers pulled John Merryman out of his bed in Co
 
 Eighty-one years later, on the night of a different war, families in Los Angeles and Seattle and the farming valleys of California packed what they could carry into single suitcases and reported to assembly centers built on racetracks and fairgrounds. They had committed no act. They had drilled no militia and burned no bridges. They had been born to parents who came from the wrong country, or in many cases they had been born American citizens whose only offense was ancestry. They were loaded onto trains and shipped to camps ringed with wire in the deserts and swamps of the interior, where most of them would remain until the war they had no part in starting finally ended.
 
-![Lincoln habeas corpus suspension versus FDR Japanese internment civil liberties comparison - Insight Crunch](/assets/images/blog/blog-86.webp)
+![Lincoln habeas corpus suspension versus FDR Japanese internment civil liberties comparison - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 Two presidents. Two wars. Two suspensions of liberty carried out under the banner of military necessity, each defended by a leader most Americans rank among the greatest who ever held the office. Abraham Lincoln and Franklin Roosevelt sit near the top of nearly every scholarly survey of presidential greatness, and both earned that standing partly through the way they handled the gravest crises the republic has faced. Yet each man also compiled a civil-liberties record that, viewed in isolation, reads like a catalog of authoritarian impulse: arrests without charge, courts overruled and ignored, citizens detained on the say-so of generals, a free press shuttered by military order, an entire ethnic minority swept off the map of the West Coast and held for years on the strength of their bloodline.
 

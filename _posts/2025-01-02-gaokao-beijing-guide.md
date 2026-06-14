@@ -6,7 +6,7 @@ date: 2025-01-02
 categories: ["Industry"]
 tags: ["高考", "北京高考", "北京分数线", "Beijing Gaokao", "Provincial Guide"]
 excerpt: "北京高考自成体系:自主命题、本地名校集群与相对充裕的录取名额,让首都考生在统计上享有优势,而顶尖中学的竞争依旧激烈。本指南拆解北京自主命题的风格与难度、3+3选科与等级赋分逻辑、户籍带来的录取池优势、非京籍子女的异地高考路径,以及国际化升学、强基计划与综合评价等多元通道,帮助京籍与非京籍家庭看清规则、理性应考。"
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 63
 author: "huang-dawei"
 lang: zh
@@ -15,7 +15,7 @@ lang: zh
 
 本文面向首都的考生、家长以及外地在京就读的家庭,系统拆解北京这场升学考试的独特结构:为什么用自主命题、本地户籍考生的统计优势究竟有多大、非京籍学子能否在本地参考、京城密集的名校集群如何塑造志愿格局,以及国际化升学路径的现实选择。我们尽量把每一个判断都建立在可核查的机制之上,而不是停留在传言层面。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-38.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-59.webp)
 *北京高考的独特生态:自主命题、本地名校集群与户籍录取池的全面解读*
 
 ## 北京高考最大的不同:自主命题体系

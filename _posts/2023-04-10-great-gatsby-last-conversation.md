@@ -6,7 +6,7 @@ date: 2023-04-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Jay Gatsby", "Chapter 8", "Close Reading", "Character Analysis"]
 excerpt: "Nick and Gatsby's last conversation in Chapter 8 ends on a single shouted compliment, and that one line holds the novel's final, honest verdict on Gatsby."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
 author: "emily-reed"
 last_updated: 2023-04-10
@@ -14,7 +14,7 @@ lang: en
 ---
 Nick and Gatsby's last conversation is the quietest scene in a loud book, and it carries more moral weight than any party, confrontation, or car crash that precedes it. It happens in the grey hour after the worst night of the summer, when Myrtle Wilson is already dead, Daisy has already retreated behind Tom, and the dream Gatsby built his life around has already failed without his quite admitting it. Two men sit in a vast, ransacked house, and one of them tells the other the truth at last. Then the visitor leaves for work, turns on the lawn, and shouts a single sentence that the narrator will spend the rest of his life being glad he said. That sentence is the only compliment Nick Carraway ever pays the man he watched all summer, and it is also their final exchange, because Gatsby is shot dead in his pool before the afternoon is out. Read closely, this short morning scene is where the novel hands down its verdict.
 
-![Nick and Gatsby's last conversation in The Great Gatsby Chapter 8 close reading - Insight Crunch](/assets/images/blog/blog-53.webp)
+![Nick and Gatsby's last conversation in The Great Gatsby Chapter 8 close reading - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 This article owns that scene. It tracks the morning talk beat by beat, reads the parting line for everything packed into it, and argues that the compliment is not a burst of simple affection but a complex moral judgment that holds disapproval and admiration in the same breath. That contradiction, refusing to collapse into either pure praise or pure censure, is the most honest thing Nick ever does, and it is the measure the book finally takes of its title character. If you want the broader chapter around this exchange, the full reading lives in our [Chapter 8 summary and analysis](/2022/11/28/great-gatsby-chapter-8-analysis/); if you want the wider question of whether Nick is the book's conscience, that argument lives in our study of [Nick as the novel's moral center](/2023/06/19/nick-carraway-moral-center/). Here the lens stays tight on the conversation itself.
 

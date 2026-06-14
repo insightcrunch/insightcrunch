@@ -6,7 +6,7 @@ date: 2014-01-20
 categories: ["Leisure"]
 tags: ["great-gatsby", "f-scott-fitzgerald", "nick-carraway", "character-analysis", "unreliable-narrator", "classic-literature"]
 excerpt: "Nick Carraway claims he reserves judgment. He judges constantly. The novel's honesty lives in the gap between his claim and his practice."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
 author: "megan-clark"
 last_updated: 2014-01-20
@@ -16,7 +16,7 @@ Nick Carraway is the most dishonest honest man in American fiction. He opens The
 
 <!--more-->
 
-![Nick Carraway Character Analysis](/assets/images/blog/blog-44.webp)
+![Nick Carraway Character Analysis](/assets/images/blog/blog-104.webp)
 
 That gap is the novel's deepest structural achievement, and it is the one feature that competitor analyses routinely flatten. SparkNotes and LitCharts treat Nick as a broadly reliable moral observer whose narration is the novel's ethical center, accepting his self-description at face value because Nick sounds trustworthy, because his prose is beautiful, because his final meditation on the Dutch sailors carries the weight of elegy. The reading is understandable. It is also wrong. Fitzgerald did not write a trustworthy narrator. He wrote a narrator whose trustworthiness is the question the reader must answer, and the evidence for answering that question sits on nearly every page, hiding in plain sight behind the beauty of Nick's prose. The thesis of this analysis is direct: Nick Carraway claims neutrality and delivers partisan narration. He is not detached. He is complicit. He is the novel's most sophisticated performance of objectivity, and the performance is designed to fail under close examination.
 

@@ -6,7 +6,7 @@ date: 2022-08-01
 categories: ["Technology"]
 tags: ["Azure", "Azure Storage", "Troubleshooting", "Security", "Identity", "Cloud Computing"]
 excerpt: "An Azure Storage 403 means authenticated but not authorized. Learn to split the error into the data-plane role, SAS, or firewall layer and fix the right one."
-image: "/assets/images/blog/blog-102.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 61
 author: "nathan-cole"
 last_updated: 2022-08-01
@@ -14,7 +14,7 @@ lang: en
 ---
 An Azure Storage 403 is one of the most misread errors on the platform, because the word that comes back with it sounds like a network problem and the instinct it triggers is almost always wrong. You call a blob, a file share, a queue, or a table, and the service answers with a 403 carrying `AuthorizationFailure` or `AuthorizationPermissionMismatch`, and the message reads "This request is not authorized to perform this operation." The reflex is to widen something: grant a broader role, open the firewall, regenerate a key, escalate the identity to Owner. Most of those moves do nothing, and a few of them quietly make the account less secure while leaving the original 403 exactly where it was. The fix starts with understanding what a 403 actually reports, which is not a failure to prove who you are but a failure to be allowed to do the specific thing you asked for.
 
-![Fixing Azure Storage 403 AuthorizationFailure root causes - Insight Crunch](/assets/images/blog/blog-102.webp)
+![Fixing Azure Storage 403 AuthorizationFailure root causes - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The distinction between authentication and authorization is the whole game here, and the status codes encode it precisely. A 401 means the request never proved its identity: the credential was missing, malformed, or rejected outright, so the service does not even know who is asking. A 403 is the opposite situation. The request authenticated successfully, the service knows exactly which principal or token is calling, and it has decided that this caller is not permitted to perform this action on this resource. When you internalize that single sentence, the entire troubleshooting path changes. You stop asking "are my credentials right" and start asking "what does this identity have permission to do, and on what scope, through which authorization system." That question has a small number of distinct answers, and the job of this article is to make you able to tell which one is yours in a couple of minutes rather than a couple of hours.
 

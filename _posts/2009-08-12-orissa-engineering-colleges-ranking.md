@@ -5,7 +5,7 @@ date: 2009-08-12
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "Orissa engineering colleges ranking: top institutions listed by academic reputation, placement record, infrastructure, and overall student experience."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 1
 author: "james-carter"
 last_updated: 2026-04-01
@@ -17,5 +17,5 @@ Read more: [Mumbai Engineering Colleges Ranking »](https://insightcrunch.com/2
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Orissa Engineering Colleges](/assets/images/blog/blog-70.webp)
+![Orissa Engineering Colleges](/assets/images/blog/blog-101.webp)
 Orissa Engineering Colleges

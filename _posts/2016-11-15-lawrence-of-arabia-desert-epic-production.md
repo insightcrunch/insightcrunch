@@ -6,7 +6,7 @@ date: 2016-11-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Lawrence of Arabia", "David Lean", "Epic Cinema", "Film History", "Cinematography", "World Cinema"]
 excerpt: "Lawrence of Arabia mounted a punishing two-year desert shoot in 70mm to frame a troubled hero, and here is how David Lean built, and later restored, it."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2016-11-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A producer once summarized the pitch that became Lawrence of Arabia as an act of commercial madness: a film roughly four hours long, with no female lead worth the name, no love story, no obvious stars in the principal roles, and a vast budget to be spent dragging a crew into real deserts to shoot the whole thing in punishing heat. Omar Sharif, recalling the proposal years later, said that any sane person holding the money would have refused. The film got made anyway, and the reason it got made, and the reason it still towers over the prestige cinema of its era, lies almost entirely in how it was produced. This is a film whose making is its meaning. To understand why the picture looks and feels the way it does, you have to understand what David Lean and his collaborators were willing to endure to put it on the screen.
 
-![Lawrence of Arabia: Mounting the Desert Epic - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Lawrence of Arabia: Mounting the Desert Epic - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 ![Lawrence of Arabia desert epic production]( /assets/images/blog/blog-01.webp )
 

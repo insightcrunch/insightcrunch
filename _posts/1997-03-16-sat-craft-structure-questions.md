@@ -6,7 +6,7 @@ date: 1997-03-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Craft and Structure", "Text Structure", "Purpose"]
 excerpt: "SAT craft and structure explained: purpose, text structure, word choice and audience, asking what the author is doing, with worked examples by subtype."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 59
 author: "michael-brooks"
 last_updated: 1997-03-16
@@ -14,7 +14,7 @@ lang: en
 ---
 A reader who has been trained only to ask "what does this say" walks into a craft and structure item and answers the wrong question. The choices in front of them describe what the writer is *doing* (qualifying a claim, setting up a contrast, signaling a shift in the argument), yet the student reaches for the option that paraphrases what the writer literally *said*. That single reflex, content over function, is the most expensive habit a reader brings to this part of the Digital SAT, and it is the habit this guide exists to retrain. Master one reframing move, hold it across every sentence you meet, and a fuzzy category of items collapses into something concrete and fast.
 
-![SAT craft and structure questions purpose text structure word choice and author function worked examples - Insight Crunch](/assets/images/blog/blog-48.webp)
+![SAT craft and structure questions purpose text structure word choice and author function worked examples - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 Craft and structure items live in the Reading and Writing section and test how and why a passage is built rather than the surface information it carries. They reward a meta-reading habit: standing one step back from the words to watch the moves a writer makes. The reframing question that powers the whole domain is short. Stop asking what the writer is saying. Start asking what the writer is doing. The first phrasing pulls you toward summary; the second pulls you toward function, and function is exactly what these prompts measure. By the end of this guide you will be able to name the job of any sentence, classify the architecture of a short text, read the effect of a chosen word, identify the intended reader, and answer a "primarily serves to" item without rereading the whole excerpt three times. You will leave with the InsightCrunch doing-not-saying frame and a function menu you can apply to your own practice.
 

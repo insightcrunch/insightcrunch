@@ -6,7 +6,7 @@ date: 2022-10-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 6", "Daisy Buchanan", "Close Reading", "Themes", "American Literature"]
 excerpt: "Daisy at the party in Chapter 6 is the night Gatsby's dream first fails on contact with its object. A close reading of why she recoils and what it costs."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 47
 author: "chloe-martin"
 last_updated: 2022-10-24
@@ -14,7 +14,7 @@ lang: en
 ---
 Gatsby built the whole apparatus for one spectator. The orchestra, the imported fruit, the cars stacked five deep in the drive, the strangers who arrived uninvited and left without thanking him: every Saturday of that summer was a signal flare fired across the bay toward a single house, in the hope that one woman would see the light and come. In Chapter 6 she finally comes. **Daisy at the party** is the moment the entire strategy is tested, and it is the moment the strategy fails. The night Gatsby designed to win Daisy Buchanan is the first thing about him that repels her, and a careful reader watches his dream begin to fail not because anyone attacks it, but because it finally meets the person it was built for.
 
-![Daisy at Gatsby's party in The Great Gatsby Chapter 6 analysis - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Daisy at Gatsby's party in The Great Gatsby Chapter 6 analysis - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 This is one of the quietest disasters in the novel, and one of the easiest to skim past, because nothing violent happens. There is no broken nose, no car crash, no gunshot. A guest is bored at a party. Yet this short scene does work that the louder chapters cannot do. It shows the dream and its object in the same room for the only sustained social evening they share, and it lets a reader measure the exact distance between what Gatsby thinks he is offering and what Daisy actually receives. That distance is the subject of this article. Read the full chapter alongside the [complete Chapter 6 summary and analysis](/2022/10/10/great-gatsby-chapter-6-analysis/), then return here for the scene that hinges the chapter.
 

@@ -8,7 +8,7 @@ author: "sarah-mitchell"
 categories: ["Leisure"]
 tags: ["great-expectations", "charles-dickens", "miss-havisham", "character-analysis", "trauma-response", "classic-literature"]
 excerpt: "Miss Havisham is not a Gothic caricature. She is Dickens's coherent trauma-response study, showing what one betrayal produces inside one human personality."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 76
 lang: en
 ---
@@ -17,7 +17,7 @@ The yellowed wedding dress, the stopped clocks, the mouse-eaten bridecake under 
 <!--more-->
 
 
-![Miss Havisham Character Analysis - Insight Crunch](/assets/images/blog/blog-47.webp)
+![Miss Havisham Character Analysis - Insight Crunch](/assets/images/blog/blog-74.webp)
 <img src="/assets/images/blog/blog-02.webp" alt="Miss Havisham character analysis Great Expectations" class="img-fluid">
 
 Examined carefully against the textual evidence Dickens places before us, Miss Havisham emerges as something far more demanding and far more contemporary than the Gothic frame can hold. She is a coherent psychological case: a woman whose response to identifiable betrayal at a known age, in known circumstances, produced a recognizable pattern of arrested time, displaced rage, weaponized attachment, and eventual rupturing recognition. The pattern is not mysterious. The pattern is what unaddressed catastrophic loss does to a human being who has the resources to wall herself off from any corrective contact with the world. Dickens did not have the vocabulary of complex trauma, betrayal trauma theory, or attachment disruption when he wrote Great Expectations. He had something better. He had the eye to observe the pattern in his own century and the craft to render it whole.

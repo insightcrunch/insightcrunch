@@ -6,7 +6,7 @@ date: 2023-03-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Wilson's Garage", "Close Reading", "Symbolism", "Setting", "American Literature"]
 excerpt: "A close reading of the Wilson garage scenes in The Great Gatsby, the threshold where class, surveillance, and grief quietly gather under Eckleburg's eyes."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 47
 author: "rachel-foster"
 last_updated: 2023-03-27
@@ -16,7 +16,7 @@ The Wilson garage scenes are the parts of The Great Gatsby that readers tend to 
 
 This article reads those scenes as a unit. Rather than treating the garage as a neutral spot on the road between West Egg and Manhattan, it tracks the location across its appearances and asks what the place exposes each time it is opened. The argument it defends is what we will call the garage under the eyes: every scene set at Wilson's shop unfolds beneath the painted gaze of Doctor T. J. Eckleburg, so the place where the poor are watched and used slowly becomes the novel's altar of judgment, with Wilson as its broken priest. To see how that transformation happens, you have to read the garage scenes in order and watch the room change meaning around a man who never moves.
 
-![Reading the Wilson garage scenes in The Great Gatsby](/assets/images/blog/blog-30.webp)
+![Reading the Wilson garage scenes in The Great Gatsby](/assets/images/blog/blog-10.webp)
 
 ## Where Wilson's Garage Sits in the Novel's Nine-Chapter Arc
 

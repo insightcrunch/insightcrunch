@@ -6,7 +6,7 @@ date: 2012-11-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Nymphadora Tonks", "Metamorphmagus", "Order of the Phoenix"]
 excerpt: "Complete literary analysis of Nymphadora Tonks in Harry Potter - Metamorphmagus power, identity as choice, marriage to Remus Lupin, and her brutal ending."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 62
 author: "victoria-stone"
 last_updated: 2012-11-02
@@ -16,7 +16,7 @@ lang: en
 
 The first thing she does is correct everyone. Her mother named her Nymphadora, a name dripping with Greek nymph-glamour and the kind of vowel-rich romanticism that Andromeda Tonks must have thought beautiful and her daughter immediately found unbearable. The young woman in the Order of the Phoenix introduces herself with one syllable: Tonks. The surname only. Just the surname her mother took from a Muggle-born husband when she married out of the Black family. The given name is rejected at the door of every conversation she enters in the series. This is the most under-discussed sentence Rowling writes about her, and it is the entire argument about her character in three letters.
 
-![Nymphadora Tonks character analysis in Harry Potter series](/assets/images/blog/blog-25.webp)
+![Nymphadora Tonks character analysis in Harry Potter series](/assets/images/blog/blog-95.webp)
 
 The thesis worth defending is this: she is the series' most overt depiction of identity as performative choice rather than essential inheritance, and the fictional universe she lives in uses her to argue that the self is what you do, not what you are. The Metamorphmagus power, the ability to reshape the body at will, is the literalisation of self-construction, and her entire life is built around the possibility of refusal. The given name is refused. The visible birth-face is refused, replaced daily by pink hair and a pug nose and whatever else the mood permits. The pure-blood marriage her ancestry expected is refused, replaced with a Muggle-born family on her father's side and a werewolf older man on her husband's. The Black family destiny of suffering quietly inside a beautiful house is refused, replaced with Auror training, Order missions, and finally a battle she walks into with an infant son at home. The character argues, through every choice she makes, that you build your self the way you build a campaign or a marriage or a body in a mirror. And then the war kills her at the moment she has done it most completely, mother and wife and Auror and fighter, and the books decline to let their own argument fully land.
 

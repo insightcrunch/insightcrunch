@@ -6,7 +6,7 @@ date: 2012-01-23
 categories: ["Industry"]
 tags: ["dawood-ibrahim", "d-company", "1993-bombings", "mumbai", "organized-crime", "pakistan"]
 excerpt: "Definitive profile of Dawood Ibrahim, the 1993 Mumbai bombings mastermind, D-Company boss, and India's most wanted fugitive sheltered openly in Karachi."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 72
 author: "jason-mckenzie"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ The most wanted fugitive in Indian history sleeps in a stone-and-marble bungalow
 
 <!--more-->
 
-![Dawood Ibrahim Complete Profile - Insight Crunch](/assets/images/blog/blog-57.webp)
+![Dawood Ibrahim Complete Profile - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 Dawood Ibrahim Kaskar is the most documented protected fugitive on earth. The Indian government has filed Interpol Red Notices, the United States Treasury has designated him a Specially Designated Global Terrorist, the United Nations Security Council has sanctioned him under the 1267 regime for ties to al-Qaeda and Lashkar-e-Taiba, and Indian agencies have submitted dossier after dossier to Islamabad with addresses, telephone numbers, and photographs of the houses he occupies. Pakistan's response has cycled through three positions over three decades: he is not in Pakistan, he was in Pakistan but has left, and he may have been in Pakistan but is not there now. None of these claims has ever been backed by extradition, arrest, or even a serious police inquiry. The pattern is the proof. A state that cannot find a man whose location its own elite knows is not a state that has lost a fugitive. It is a state that has chosen one.
 

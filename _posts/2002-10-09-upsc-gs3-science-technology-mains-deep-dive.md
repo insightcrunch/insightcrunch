@@ -6,7 +6,7 @@ date: 2002-10-09
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 3", "Science Technology", "ISRO", "Biotechnology", "Artificial Intelligence", "IAS Preparation"]
 excerpt: "UPSC GS3 science and technology deep dive: space, defence, biotechnology, artificial intelligence, nuclear with policy-relevant answer frameworks."
-image: "/assets/images/blog/blog-86.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 65
 author: "kavita-sharma"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC GS3 science and technology is the subdomain where aspirants most consistent
 
 The cognitive shift required is from treating science and technology as a subject requiring technical depth to treating it as a policy subdomain where technological developments interact with governance questions economic implications strategic considerations and societal dimensions. The aspirant who can articulate that "India's artificial intelligence preparedness operates through the IndiaAI Mission launched in 2024 with approximately 10000 crore outlay over five years covering computing infrastructure (AI compute expansion through substantial GPU capacity) skill development (through various academic and industry programmes) startup ecosystem support (through IndiaAI Innovation Centre) safe and trusted AI framework development application development (particularly for public sector use cases) and broader digital public infrastructure for AI alongside the broader regulatory framework questions being addressed through Digital India Act discussions while strategic considerations include AI talent retention and attraction AI compute self-reliance and the broader positioning within global AI race primarily led by US and China" demonstrates analytical command that a generic "India is developing AI capabilities" framing entirely lacks. Both statements are accurate; only one signals the substantive policy engagement that UPSC actually rewards.
 
-![UPSC GS3 Science and Technology Deep Dive - Insight Crunch](/assets/images/blog/blog-86.webp)
+![UPSC GS3 Science and Technology Deep Dive - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 By the end of this guide you will understand the architecture of science and technology as GS3 subject, the space technology dimension with substantial ISRO achievements and contemporary commercialisation, the defence technology and indigenisation trajectory, the biotechnology sector with pharmaceutical and agricultural applications, the artificial intelligence and emerging digital technology framework, the nuclear technology civilian and strategic dimensions, the various emerging technology areas including quantum nanotechnology and various others, the intellectual property framework and its implications, the answer-writing techniques for policy-relevant science and technology answers, the source hierarchy for systematic preparation, and the integration with broader GS3 and Mains preparation. The total time investment for dedicated science and technology preparation across the cycle is approximately 40 to 60 hours building on broader GS3 preparation.
 

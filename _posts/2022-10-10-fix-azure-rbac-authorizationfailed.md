@@ -6,7 +6,7 @@ date: 2022-10-10
 categories: ["Technology"]
 tags: ["Azure", "RBAC", "Troubleshooting", "Security", "Identity", "Cloud Computing"]
 excerpt: "Fix Azure RBAC AuthorizationFailed errors by reading the exact action and scope from the message, then granting the least-privilege role that resolves it."
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "alex-cunningham"
 last_updated: 2022-10-10
@@ -14,7 +14,7 @@ lang: en
 ---
 An AuthorizationFailed response from Azure is one of the most misread errors on the platform, because the obvious reaction is the wrong one. The message looks like a wall, so people reach for the biggest key they have, assign the Owner role, and move on. Sometimes that papers over the symptom. Often it does nothing, because the failing call was a data-plane operation that no management role grants, or because a deny assignment outranks every role, or because the assignment simply has not propagated yet. The AuthorizationFailed error is not a vague "you lack permission" signal. It is a precise statement that names the exact action the caller tried and the exact scope it tried it on, and the fix is almost always the smallest role that grants that one action at that one scope. This article treats the error the way it deserves to be treated: as a diagnostic readout, not a wall.
 
-![Diagnosing Azure RBAC AuthorizationFailed root causes and least-privilege fixes - Insight Crunch](/assets/images/blog/blog-82.webp)
+![Diagnosing Azure RBAC AuthorizationFailed root causes and least-privilege fixes - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The reason the error is worth a long, careful treatment is that it sits at the intersection of several systems that each fail in their own way. Azure role-based access control evaluates a request against role assignments, deny assignments, and increasingly attribute conditions, and it does so at two different planes that look identical from the outside but obey different rules. A request to create a storage account and a request to read a blob inside that account both travel over HTTPS to a Microsoft endpoint, both can return a 403, and both can surface AuthorizationFailed or a closely related denial, yet the role that satisfies one does nothing for the other. An engineer who understands that split, who can read the action string out of the error, and who knows which of a small set of root causes is in front of them will resolve the error in minutes. An engineer who guesses will over-permit an identity, leave a security hole, and frequently still be locked out. The goal here is the former.
 

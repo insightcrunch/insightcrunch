@@ -6,7 +6,7 @@ date: 2015-12-26
 categories: ["Leisure"]
 tags: ["great-depression", "1929-crash", "monetary-policy", "new-deal", "interwar-economic-history", "modern-history"]
 excerpt: "The October 1929 Wall Street crash was an ordinary recession. Federal Reserve errors and metallic-standard rigidities turned it into a decade-long catastrophe."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 76
 author: "amanda-ross"
 last_updated: 2015-12-26
@@ -16,7 +16,7 @@ The Great Depression is the case study every modern central banker and treasury 
 
 <!--more-->
 
-![The Great Depression Explained - Insight Crunch](/assets/images/blog/blog-62.webp)
+![The Great Depression Explained - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The argument of this article is that the Great Depression was made, not born. Milton Friedman and Anna Schwartz established in their 1963 monetary history that the Federal Reserve allowed the American money supply to contract by about a third while bank runs were destroying deposits. Barry Eichengreen extended the analysis internationally in 1992 by showing how the gold standard transmitted American contraction to every major economy. Ben Bernanke added a third layer in his 1983 paper by documenting how bank failures destroyed credit-allocation knowledge that took years to rebuild. Each layer explains a different piece of the depth and the duration. The popular account of irrational speculators and inadequate political response is not wrong so much as shallow. It names real contributors and misses the structural mechanisms that did most of the damage.
 

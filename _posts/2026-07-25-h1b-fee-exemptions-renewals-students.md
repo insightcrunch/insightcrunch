@@ -6,7 +6,7 @@ date: 2026-07-25
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Exemptions", "Immigration Policy", "Skilled Immigration", "Workforce", "Immigration"]
 excerpt: "H-1B fee exemptions, explained: how renewals, extensions, prior filings, and the in-country F-1 to H-1B route carved most ordinary hiring out of the charge."
-image: "/assets/images/blog/blog-50.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 61
 author: "marcus-hall"
 last_updated: 2026-07-25
@@ -14,7 +14,7 @@ lang: en
 ---
 The first decision an employer, a worker, or an international student had to make about the H-1B $100,000 fee was not how to pay it. It was whether the charge reached them at all. That question sounds simple and was not, because the headline number traveled faster and farther than the fine print that defined who owed it. A trillion-dollar surcharge on a skilled-worker program is the kind of figure that fills a room with anxiety, and in the first days after Proclamation 10973 took effect, the anxiety was close to universal: every sponsor assumed exposure, every visa holder abroad feared a locked door, and every graduating student on a campus assumed the dream had just been priced out of reach. The reality was narrower, and the gap between the fear and the rule is the subject of this analysis. The carve-outs were not footnotes. They were the structural feature that decided how far the policy actually reached, and understanding them is the difference between planning from panic and planning from the rule.
 
-![H-1B fee exemptions for renewals, extensions, and F-1 to H-1B students, an analysis of who was carved out - Insight Crunch](/assets/images/blog/blog-50.webp)
+![H-1B fee exemptions for renewals, extensions, and F-1 to H-1B students, an analysis of who was carved out - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 This piece is the carve-out catalog. It lays out, group by group, who escaped the charge and why, and it corrects the most durable misconception the episode produced, that every H-1B hire faced the surcharge. By most estimates the charge missed a large share of ordinary hiring, because the way most new H-1B workers actually arrive in their jobs sat outside the rule's reach. If you want the threshold question of coverage itself, the trigger that decided whether a given petition fell inside or outside the measure, that belongs to a companion analysis on [who pays the H-1B fee and who is exempt](/2026/07/18/h1b-fee-who-pays-and-who-is-exempt/); this one takes the exemption categories and treats them as a population map, written for the people standing in each of them. And because the charge was later erased entirely, the catalog now reads in two registers at once: as a guide to who was spared while the policy lived, and as a record of how a sweeping number was quietly bounded by its own carve-outs.
 

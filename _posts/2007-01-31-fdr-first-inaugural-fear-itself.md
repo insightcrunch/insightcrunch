@@ -6,7 +6,7 @@ date: 2007-01-31
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "close-read", "us-presidents", "american-history", "first-inaugural", "great-depression", "raymond-moley"]
 excerpt: "FDR's fear itself line sat in Moley's 1933 draft. FDR kept it, added his own lines, and used the inaugural to ask Congress for war powers in peacetime."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2026-06-02
@@ -14,7 +14,7 @@ lang: en
 ---
 The morning of March 4, 1933, broke gray and raw over Washington, and the man about to take the oath had spent part of the previous night at the Mayflower Hotel copying a speech out in his own hand. Outside the Capitol the temperature hovered near freezing, the sky threatened rain that never quite committed, and the crowd packed into the plaza below the East Portico carried with it the particular silence of people who do not know whether the next four years will save them or finish them. Thirteen million Americans had no work. Banks had stopped paying out cash in state after state, and on the morning of the inauguration itself the governors of New York and Illinois shut their banking systems entirely, which meant that the financial heart of the country went dark on the day its new president swore to defend it. Herbert Hoover sat beside Franklin Roosevelt in the open touring car on the ride to the Capitol, and witnesses recalled that the two men barely spoke, the outgoing president staring ahead at a defeat he did not understand and the incoming one waving to crowds who had pinned a desperate hope on a patrician they barely knew.
 
-![FDR March 1933 first inaugural fear itself speech draft revision close read - Insight Crunch](/assets/images/blog/blog-18.webp)
+![FDR March 1933 first inaugural fear itself speech draft revision close read - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 What Roosevelt said in the next twenty minutes has been reduced, in the national memory, to four words. The only thing we have to fear is fear itself. The line gets quoted at graduations and in self-help books and by politicians reaching for borrowed gravity, and it has been sanded down into a piece of motivational wallpaper. That is a loss, because the line was never the most important thing in the speech. The most important thing came two-thirds of the way through, in a passage almost nobody remembers, when Roosevelt told Congress that if the ordinary methods of governing failed he would ask for "broad Executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded by a foreign foe." That sentence, delivered in peacetime against an economic crisis, is the modern presidency announcing itself. This article reads the 1,880-word address the way it deserves to be read: across its draft history, where the famous phrases were born and revised; line by line through its five movements; and against the gap between what Roosevelt asked for rhetorically and what he actually received constitutionally. The fear-itself line is the surface. The war-power request is the substance, and it is the opening note of the office we still live with.
 

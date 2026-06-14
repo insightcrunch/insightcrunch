@@ -6,7 +6,7 @@ date: 2023-09-11
 categories: ["Technology"]
 tags: ["Azure", "Private Link", "Private Endpoint", "Networking", "DNS", "Cloud Computing"]
 excerpt: "Azure Private Link projects a service into your VNet as a private endpoint, and DNS is the linchpin that decides whether traffic ever reaches it correctly."
-image: "/assets/images/blog/blog-51.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 62
 author: "alex-cunningham"
 last_updated: 2023-09-11
@@ -18,7 +18,7 @@ Most engineers meet Azure Private Link on a bad afternoon. A storage account, a 
 
 This deep dive treats Azure Private Link as a mechanism rather than a checkbox. By the end you should be able to hold a clear mental model of what a endpoint actually is at the network layer, explain why DNS is the load-bearing element rather than a finishing touch, reason about how the consumer side and the producer side fit together, and tell the difference between a endpoint and a service endpoint without reaching for a vendor comparison chart. The goal is the kind of understanding that lets you predict behavior before you deploy and localize a failure quickly when it appears.
 
-![Azure Private Link and private endpoints model map](/assets/images/blog/blog-51.webp)
+![Azure Private Link and private endpoints model map](/assets/images/blog/blog-86.webp)
 
 ## What Azure Private Link actually is
 

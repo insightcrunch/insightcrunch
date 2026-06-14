@@ -6,7 +6,7 @@ date: 2020-01-10
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Exam Date", "Schedule"]
 excerpt: "TCS NQT exam dates: typical scheduling pattern, registration deadlines, and how to stay updated on upcoming National Qualifier Test windows."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 45
 author: "devendra-patil"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The TCS NQT does not have a fixed annual date the way university exams do. TCS conducts multiple exam windows across the year, announces each window with varying lead time, and opens registration for specific periods before each window closes. Missing an announcement means missing a window - and the next window may be months away.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-06.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-101.webp)
 *The complete guide to TCS NQT exam dates and scheduling - how TCS announces NQT windows, where to find official exam date information, typical scheduling patterns across the calendar year, how registration deadlines relate to exam dates, how to plan your preparation timeline backward from target exam dates, what to do when exam dates conflict with other commitments, and how to ensure you never miss an NQT window announcement*
 
 This guide gives you a complete system for tracking NQT dates - not just where to find the information, but how to build the preparation calendar that ensures you arrive at any NQT window ready to perform.

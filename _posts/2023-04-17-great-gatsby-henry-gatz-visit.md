@@ -6,7 +6,7 @@ date: 2023-04-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Henry Gatz", "Chapter 9", "Close Reading", "F. Scott Fitzgerald", "Character Analysis"]
 excerpt: "The Henry Gatz visit in Chapter 9 brings Gatsby's grieving father to the funeral, and this close reading shows how the brief scene reframes the whole man."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 47
 author: "olivia-grant"
 last_updated: 2023-04-17
@@ -16,7 +16,7 @@ For eight and a half chapters, Jay Gatsby has no parents worth the name. He tell
 
 The visit occupies only a few pages near the close of Chapter 9, and a careless reader treats it as a sad footnote before the burial. Read closely, it is one of the most consequential reversals in the book. Henry Gatz carries a cracked photograph of the mansion he is standing inside, and a boyhood schedule his son wrote at the age of sixteen, and a faith in Jimmy that no amount of bootlegging or adultery can dent. Through those two objects and that faith, Fitzgerald restores the poor family Gatsby erased and makes the erasure itself part of the tragedy. The grief is sharper because the father never learns, and never needs to learn, what his son really was.
 
-![The Henry Gatz visit in The Great Gatsby Chapter 9 explained, Gatsby's father at the funeral - Insight Crunch](/assets/images/blog/blog-58.webp)
+![The Henry Gatz visit in The Great Gatsby Chapter 9 explained, Gatsby's father at the funeral - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 ## Where the Henry Gatz visit sits in Chapter 9
 

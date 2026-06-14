@@ -6,7 +6,7 @@ date: 2026-06-10
 categories: ["Leisure"]
 tags: ["dhurandhar", "dhurandhar-2", "movie-comparison", "bollywood", "franchise", "spy-thriller"]
 excerpt: "Part 1 is an infiltration thriller, Part 2 a revenge saga. Comparing both Dhurandhar films reveals which is the better movie and why the answer resists you."
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 71
 author: "nandini-sen"
 last_updated: 2026-06-10
@@ -16,7 +16,7 @@ The argument worth having is not which Dhurandhar film you enjoyed more. That is
 
 <!--more-->
 
-![Dhurandhar Part 1 versus Part 2 compared - Insight Crunch](/assets/images/blog/blog-103.webp)
+![Dhurandhar Part 1 versus Part 2 compared - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 Hold that seam in view and a great deal becomes visible. Part 1 is a study in confinement: narrow Lyari lanes, a borrowed name, a person learning to disappear inside someone else's life. Part 2 is a study in exposure: open desert highways, a name burning down, a figure who can no longer disappear because everyone now knows his face. The shift in scale is not decoration. It is the engine of the comparison. To understand how a franchise can evolve in the middle of its own sentence without dissolving into incoherence, you have to read the two halves against each other rather than in sequence, and that is what this piece sets out to do. For the foundational reading of each on its own terms, the full breakdowns live in the [complete analysis of Dhurandhar Part 1](https://insightcrunch.com/2026/03/19/complete-analysis-dhurandhar-part-1/) and the [complete analysis of Dhurandhar The Revenge](https://insightcrunch.com/2026/03/22/complete-analysis-dhurandhar-the-revenge/). What follows assumes you have seen both and want them placed in the same frame.
 

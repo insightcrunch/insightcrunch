@@ -6,7 +6,7 @@ date: 2022-12-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 9", "Close Reading", "Nick Carraway", "Themes", "F. Scott Fitzgerald"]
 excerpt: "Great Gatsby Chapter 9 works as the novel's verdict: the near-empty funeral, Nick's break with the East, and the judgment passed on careless Tom and Daisy."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 47
 author: "rachel-foster"
 last_updated: 2022-12-19
@@ -14,7 +14,7 @@ lang: en
 ---
 Great Gatsby Chapter 9 is the chapter most readers skim and the chapter that decides what the whole novel meant. By the time it opens, the plot is essentially finished: Gatsby is dead, Myrtle is dead, Wilson is dead, and the summer that began with a green light at the end of a dock has burned down to ash. A reader trained on plot might assume the work is over. It is not. The final chapter is where Fitzgerald stops telling the story and starts judging it. Chapter 9 is the verdict chapter, the place where the novel passes sentence on the people who survive, on the city that drew them, and on the dream that killed the one man worth more than all of them. Read it as a sad epilogue and you lose the book's argument. Read it as an active moral summation and the ending snaps into focus.
 
-![Great Gatsby Chapter 9 summary and analysis: the funeral, the carelessness verdict, and Nick's retreat from the East](/assets/images/blog/blog-05.webp)
+![Great Gatsby Chapter 9 summary and analysis: the funeral, the carelessness verdict, and Nick's retreat from the East](/assets/images/blog/blog-87.webp)
 
 This close reading treats Chapter 9 as a designed conclusion rather than a wind-down. The chapter has four movements, and each does a specific kind of work: the aftermath, where Nick takes charge of a deserted man; the funeral, where the world that drank Gatsby's liquor declines to mourn him; the reckoning with Tom, where Nick names the carelessness that drives the book's final theme; and the closing meditation, where the lens widens from one failed man to a national and human pattern. The argument of this article is simple to state and harder to prove: the last chapter exists to render judgment, and Nick's decision to go back West is the moral conclusion the entire novel was building toward, not a tired man's retreat.
 

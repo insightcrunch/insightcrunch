@@ -6,7 +6,7 @@ date: 2023-05-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "James Gatz", "Character Analysis", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "James Gatz, who Gatsby was before, is the poor North Dakota farm boy whose erasure made Jay Gatsby possible and whose buried self surfaces at the funeral."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 47
 author: "olivia-grant"
 last_updated: 2023-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 Strip away the mansion, the hydroplane, the pink suit, and the swirl of rumors, and a different person stands at the center of Fitzgerald's novel: a poor farm boy from the northern plains who decided, at seventeen, to stop being himself. James Gatz, who Gatsby was before, is the most consequential character most readers forget the instant they close the book. We remember the green light, the parties, the line about boats against the current. We rarely remember that the man chasing all of it began as somebody else entirely, somebody the novel buries so thoroughly that his name surfaces only once at full length, deep in the sixth chapter, and then almost vanishes again.
 
-![James Gatz: Who Gatsby Was Before](/assets/images/blog/blog-15.webp)
+![James Gatz: Who Gatsby Was Before](/assets/images/blog/blog-30.webp)
 
 The central question this study answers is not what happened to Gatsby but who he stopped being in order to become Gatsby at all. That suppressed person has a name, a birthplace, a family, and a boyhood, and the novel hands all of them to us in fragments. To read James Gatz carefully is to watch the cost of self-invention from the inside, because every gleaming detail of Jay Gatsby is paid for by the erasure of a boy who actually existed. The pathos of the whole novel, the ache underneath the glamour, comes from the fact that Gatz never fully disappears. He keeps leaking through the performance, and at the funeral he walks back into the story in the body of his own father.
 

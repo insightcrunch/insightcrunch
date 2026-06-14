@@ -6,7 +6,7 @@ date: 2007-12-27
 categories: ["Leisure"]
 tags: ["franklin-d-roosevelt", "counterfactual", "us-presidents", "wendell-willkie", "world-war-two", "lend-lease"]
 excerpt: "FDR's health was poor in 1940. If he had died before November, Willkie likely wins. What changes about WWII? Three historians argue six key questions."
-image: "/assets/images/blog/blog-107.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 72
 author: "rachel-foster"
 last_updated: 2026-05-29
@@ -16,7 +16,7 @@ The historical record on Franklin Roosevelt's cardiovascular health in 1940 is n
 
 So suppose it happens. Suppose Roosevelt collapses at Hyde Park in August 1940, or in the back of the limousine returning from a campaign rally in October, or at his desk in early November before the polls open. The Democratic Party, midway through a campaign built almost entirely around the personal indispensability of its candidate, faces an emergency for which no party machinery had been designed. The Republican nominee is a forty-eight-year-old Indiana-born corporate utility executive named Wendell Lewis Willkie, an internationalist who had been a registered Democrat as recently as 1939, who supported Lend-Lease before it was a bill, and who would visit Churchill in London in January 1941 as a private citizen carrying a personal letter from his defeated rival. Willkie wins. The 1941 inauguration installs the most unusual Republican president of the twentieth century, and the question for historians has been clear ever since: how much of what Franklin Roosevelt did between 1940 and 1945 was Roosevelt, and how much was the war itself, the institutions he had already built, and the structural pressures any competent occupant of the office would have faced?
 
-![If FDR died in 1940 Willkie presidency counterfactual World War II Lend-Lease - Insight Crunch](/assets/images/blog/blog-107.webp)
+![If FDR died in 1940 Willkie presidency counterfactual World War II Lend-Lease - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 Three historians have engaged this counterfactual seriously. David Kennedy in *Freedom from Fear* gives the most measured assessment: Willkie preserves most of Roosevelt's foreign policy with delays and frictions, Lend-Lease passes with a narrower margin, and the war proceeds along recognizably similar lines with the substantial difference that the personal Churchill-Roosevelt relationship that anchored Anglo-American grand strategy never forms. Eric Rauchway in *Winter War* argues something more institutional: the monetary, fiscal, and mobilization framework Roosevelt built between 1933 and 1940 was already self-sustaining by the time of the third-term campaign, and a Willkie administration would have inherited an apparatus that constrained him toward continuity regardless of his personal preferences. Steve Neal in *Dark Horse*, his biography of Willkie, gives Willkie himself the most credit: an unusually capable wartime leader, perhaps better suited to certain diplomatic situations than Roosevelt, whose personal qualities and genuine internationalism would have produced a war effort substantively comparable to what actually occurred. The disagreement among the three is not whether the United States enters the war (all three say yes), but how much friction the transition introduces, how much of the Roosevelt era was personal versus structural, and what specific points of divergence matter most.
 

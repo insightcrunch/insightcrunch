@@ -6,7 +6,7 @@ date: 2015-04-25
 categories: ["Leisure"]
 tags: ["ancient-greece", "greek-civilization", "world-history", "democracy", "historical-analysis"]
 excerpt: "Ancient Greek civilization explained: how a fractious cluster of small sovereign city-states built democracy, philosophy, drama, and the Western mind."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 72
 author: "diana-patel"
 last_updated: 2015-04-25
@@ -16,7 +16,7 @@ Ancient Greece was never a country. It was an argument that lasted a thousand ye
 
 <!--more-->
 
-![Ancient Greek Civilization Explained - Insight Crunch](/assets/images/blog/blog-92.webp)
+![Ancient Greek Civilization Explained - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 That claim runs against the way Greece is usually taught. The standard story treats the achievements as a kind of miracle, a sudden flowering of genius on the shores of the Aegean, as if a few brilliant individuals simply decided to invent the examined life. That genius was real, but it did not appear from nowhere. It was manufactured by a specific arrangement: hundreds of separate sovereign communities, small enough that an ordinary man could know the names of the people who governed him, close enough together that ideas, money, and insults traveled fast, and independent enough that no single ruler could shut down an experiment he disliked. When an idea failed in one city, another city tried the opposite, and when a tyrant crushed free speech in Corinth, the free speech moved to Athens. The fragmentation that frustrates anyone trying to draw a clean map of ancient Greece is the same fragmentation that made the place an innovation laboratory.
 

@@ -6,7 +6,7 @@ date: 2016-01-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "A Streetcar Named Desire", "Elia Kazan", "Adaptations", "Film History", "World Cinema"]
 excerpt: "A Streetcar Named Desire shows how the Production Code reshaped Tennessee Williams's play, and how the censored film compares to freer European cinema."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2016-01-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The central decision in adapting A Streetcar Named Desire was not how to open up a stage play for the camera. It was whether the assault at the heart of the story could survive the journey from Broadway to Hollywood at all. Elia Kazan, who had directed the 1947 stage production and knew the material to the bone, faced a censorship office that wanted the scene gone. He shot it anyway. He staged it as obliquely as he could, a smashed mirror and a torrent of water on a darkened street standing in for the act, and he gambled that the Production Code Administration would rather approve a coded version than fight a studio over a prestige picture. The gamble paid off. Then a second body, the Catholic Legion of Decency, cut four more minutes without his knowledge, and the film that reached theaters in 1951 was a negotiated document, shaped as much by what 1950s America forbade as by what Tennessee Williams wrote.
 
-![A Streetcar Named Desire: The Censored Adaptation - Insight Crunch](/assets/images/blog/blog-05.webp)
+![A Streetcar Named Desire: The Censored Adaptation - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 That negotiation is the subject of this analysis. The film of A Streetcar Named Desire is one of the most faithful stage-to-screen transfers of its era, preserving Williams's language, his structure, and most of his cast, and it is also one of the most revealing acts of censorship in American cinema. The gap between the play and the picture is not noise to be cleared away in search of the real work. The gap is itself legible. Each softening, each substituted image, each altered line traces the exact edge of what the screen could say in the early 1950s, and reading those changes against the freer cinema being made in Europe at the same moment turns the adaptation into a map of a national boundary.
 

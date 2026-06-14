@@ -6,7 +6,7 @@ date: 2017-11-06
 categories: ["Industry"]
 tags: ["dhurandhar", "zero-dark-thirty", "comparison", "india", "america", "covert-war"]
 excerpt: "Dhurandhar and Zero Dark Thirty reveal how India and America construct fundamentally different national self-images of their covert wars through cinema."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-11-06
@@ -16,7 +16,7 @@ Kathryn Bigelow sat in a Los Angeles editing suite in late 2012, assembling foot
 
 <!--more-->
 
-![Dhurandhar vs Zero Dark Thirty Comparison - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Dhurandhar vs Zero Dark Thirty Comparison - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The comparison matters because both films arrived at moments when their respective nations needed a narrative. America in 2012 was a decade into the War on Terror, exhausted by two ground wars, politically divided over torture and drone strikes, and still processing the catharsis of the Abbottabad raid that had killed Osama bin Laden eighteen months earlier. India in 2025 was grappling with the aftermath of the Pahalgam massacre, the escalation toward Operation Sindoor, and a shadow war in which [unknown gunmen were systematically eliminating India's most wanted terrorists on Pakistani soil](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/). Each film stepped into a national conversation already in progress and offered a cinematic vocabulary for what the country was doing, had done, or wanted to believe it was doing. Zero Dark Thirty gave America a language of institutional persistence and moral ambiguity. Dhurandhar gave India a language of personal heroism and righteous vengeance. The vocabulary each film provided shaped the conversations that followed, and those conversations continue to shape policy.
 

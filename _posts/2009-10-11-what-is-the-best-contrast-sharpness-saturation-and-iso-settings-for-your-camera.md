@@ -6,7 +6,7 @@ date: 2009-10-11
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "First and foremost there are some assumptions to be made before this article gets underway. Many of us use Photoshop and other image editing software..."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 2
 author: "amanda-ross"
 last_updated: 2026-04-01
@@ -21,7 +21,7 @@ First and foremost there are some assumptions to be made before this article get
 
 So you have tried taking a few photographs with the above settings and is extremely disappointed with the results? Now choose a photo and use Photoshop to adjust the brightness and contrast. Use sharpen or smart sharpen whichever you like more. Adjust the saturation up to a point where you feel its ok. Take care of the noise. And see the result.
 
-![Popular Camera Settings ISO Contrast Sharpness Saturation](/assets/images/blog/blog-96.webp)
+![Popular Camera Settings ISO Contrast Sharpness Saturation](/assets/images/blog/blog-99.webp)
 Popular Camera Settings ISO Contrast Sharpness Saturation
 
 Read more: [Google Wave aimed at a revolution »](https://insightcrunch.com/2009/11/26/google-wave-aimed-at-a-revolution/)

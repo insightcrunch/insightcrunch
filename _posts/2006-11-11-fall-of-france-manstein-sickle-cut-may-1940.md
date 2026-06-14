@@ -17,7 +17,7 @@ Between October 1939 and February 1940, a planning dispute inside the German hig
 
 <!--more-->
 
-![Manstein's Sichelschnitt plan and the Fall of France May to June 1940](/assets/images/blog/blog-101.webp)
+![Manstein's Sichelschnitt plan and the Fall of France May to June 1940](/assets/images/blog/blog-24.webp)
 
 This article reconstructs the decision sequence that produced the Sichelschnitt, the sickle cut, from Manstein's first memorandum on October 31, 1939, through the February 17 meeting that bypassed the institutional hierarchy, to the operational execution that shattered Allied defenses in six weeks. The reconstruction serves a broader argument within the InsightCrunch WWII Decisions series: the house thesis holds that committee-architecture decision systems (democratic governments coordinating through institutional consultation) reliably outperform command-architecture systems (authoritarian regimes routing decisions through a single leader) across the full arc of the war. The Fall of France is the sharpest inverse test of that thesis. Here, a non-standard process inside a command architecture produced a brilliant outcome. The Sickle Cut plan bypassed institutional filters, reached the dictator through a personal channel, and succeeded spectacularly. The article's task is to explain why this happened, acknowledge the genuine complication it poses, and identify what constrains its applicability to the broader pattern.
 

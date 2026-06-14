@@ -6,7 +6,7 @@ date: 2022-09-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-reception", "mercutio", "queer-reading", "mercutio-romeo-queer"]
 excerpt: "Some critics read Mercutio's intensity toward Romeo as desire, and the queer readings of Romeo and Juliet reopen the play's account of male love and rivalry."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 67
 author: "rachel-foster"
 last_updated: 2022-09-23
@@ -14,7 +14,7 @@ lang: en
 ---
 Picture the moment that starts the question. Romeo has slipped over the Capulet wall, drawn by a face he glimpsed for the length of a dance, and his two companions are left in the lane outside, calling for a man who will not answer. Benvolio wants to go home. Mercutio refuses to leave it there. He decides instead to raise his friend the way a magician raises a spirit, and the spell he chooses is a catalogue of a woman's body, mounting from the bright eyes and the high forehead down through the fine foot and the straight leg and the quivering thigh to the parts that lie adjacent. The conjuration is filthy, funny, and strangely tender, and it ends with a wish so specific that editors have argued about its spelling for two centuries. A reader who has been told that this play is a clean account of young love meeting parental hate will not know quite what to do with the scene, because the scene is not about Juliet at all. It is about a man who cannot bear to lose his friend to a woman, and who tries to win him back with the only instrument he trusts, which is his own extraordinary mouth.
 
-![Was Mercutio in Love With Romeo? Queer Readings - Insight Crunch](/assets/images/blog/blog-60.webp)
+![Was Mercutio in Love With Romeo? Queer Readings - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 That scene, the conjuring in 2.1, sits at the center of one of the liveliest debates in modern criticism of the tragedy. A line of interpretation, associated above all with the scholar Jonathan Goldberg and developed by others, asks whether the intensity Mercutio directs at Romeo is more than the rough affection of a friend. The case rests on the conjuring, on the bawdy fixation that runs through every scene the two men share, on the fury that breaks out when Romeo turns away from the company of young men toward marriage, and on the death that follows fast upon that turn. The opposing case answers that the evidence is ambiguous at best and anachronistic at worst, that the bawdy is the common coin of Elizabethan male friendship, and that to call Mercutio a lover is to read a modern category back into a world that did not own it. This article lays out both cases with the seriousness they deserve, weighs the textual material moment by moment, and reaches a verdict about what the queer readings actually illuminate, whatever any reader finally decides about the contents of Mercutio's heart.
 

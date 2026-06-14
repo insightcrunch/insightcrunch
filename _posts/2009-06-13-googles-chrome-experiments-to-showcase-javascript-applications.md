@@ -5,7 +5,7 @@ date: 2009-06-13
 categories: ["Leisure"]
 tags: ["Google", "Surfing", "Thoughts"]
 excerpt: "Google Chrome Experiments: stunning JavaScript demos that showcase what browsers can do. Interactive art, physics simulations, and creative coding."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 1
 author: "alex-cunningham"
 last_updated: 2026-04-01
@@ -19,5 +19,5 @@ There are some pretty awesome [3D](http://www.xs4all.nl/~peterned/3d/) graphics 
 
 Keep reading: [Laptop Review: Price, Feature, Durability, Ergonomics »](https://insightcrunch.com/2009/06/20/laptop-review-price-feature-durability-ergonomics/)
 
-![Google Chrome Experiments](/assets/images/blog/blog-07.webp)
+![Google Chrome Experiments](/assets/images/blog/blog-32.webp)
 Google Chrome Experiments

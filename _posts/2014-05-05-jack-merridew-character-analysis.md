@@ -6,7 +6,7 @@ date: 2014-05-05
 categories: ["Leisure"]
 tags: ["lord-of-the-flies", "william-golding", "jack-merridew", "character-analysis", "leadership", "classic-literature"]
 excerpt: "Jack Merridew is not evil incarnate. Golding presents him as a case-study in how populist-authoritarian leadership outcompetes the collaborative kind."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "lauren-hayes"
 last_updated: 2014-05-05
@@ -16,7 +16,7 @@ Jack Merridew is not the face of evil in William Golding's Lord of the Flies. He
 
 <!--more-->
 
-![Jack Merridew Character Analysis - Insight Crunch](/assets/images/blog/blog-93.webp)
+![Jack Merridew Character Analysis - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 To read Jack as simply villainous is to miss everything Golding labored to construct. John Carey's biography, William Golding: The Man Who Wrote Lord of the Flies (2009), documents how Golding's years at Bishop Wordsworth's gave him a laboratory for observing how boys organize themselves when adult authority recedes. Golding watched the choir captains, the prefects, the natural leaders whose charisma operated independently of any institutional backing. Jack arrives on the island already holding institutional authority over his choir; the interesting question is not whether he will seek more authority, but why his particular style of seeking it proves so effective against Ralph's alternative. James Gindin's study William Golding (1988) reads Jack's arc as a political narrative rather than a moral one, and that distinction matters. A moral narrative asks who is good and who is bad. A political narrative asks which leadership style produces which outcomes under which conditions. Golding wrote the political narrative.
 

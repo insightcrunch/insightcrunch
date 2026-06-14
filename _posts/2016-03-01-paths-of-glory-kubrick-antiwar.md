@@ -6,7 +6,7 @@ date: 2016-03-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Paths of Glory", "Stanley Kubrick", "War Film", "Anti-War Cinema", "Film Analysis"]
 excerpt: "Paths of Glory locates the atrocity of war not in the trench but in the chateau, building Kubrick's cold anti-war argument about class, command, and power."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2016-03-01
@@ -16,7 +16,7 @@ Most films that set out to oppose war begin with the body. They put the camera i
 
 That single relocation of the camera's moral attention is what separates Paths of Glory from the anti-war tradition it inherits, and it is the reason the film still cuts when so much of its period has softened into reverence. Kubrick is not interested in persuading you that dying is terrible. He assumes you already know. He is interested in the colder, more structural proposition that the men who die and the men who decide they will die occupy two different physical worlds, and that the geometry of those worlds, the distance between the table and the trench, is the real subject. This article reads the film as an argument: how it is constructed, what it claims, where its readings genuinely diverge, and how its cold systemic anger sets it apart from the anti-war cinema other nations were making at the same moment.
 
-![How Paths of Glory builds its anti-war argument through the chateau and the trench, an analysis - Insight Crunch](/assets/images/blog/blog-71.webp)
+![How Paths of Glory builds its anti-war argument through the chateau and the trench, an analysis - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 ## The Film That Indicts the Order, Not the Enemy
 

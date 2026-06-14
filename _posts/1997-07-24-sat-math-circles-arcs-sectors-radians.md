@@ -6,7 +6,7 @@ date: 1997-07-24
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Circles", "Geometry", "Trigonometry"]
 excerpt: "SAT circle geometry explained: the standard equation, completing the square, arc length, sector area and radian conversion, with worked examples throughout."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
 author: "simon-hartley"
 last_updated: 1997-07-24
@@ -14,7 +14,7 @@ lang: en
 ---
 A student opens a Module 2 math item and sees this: x squared plus y squared minus 6x plus 8y minus 11 equals 0. There is no obvious shape, no center, no radius, nothing that looks like geometry at all. It reads like an algebra problem that wandered into the wrong section. The unprepared test-taker stares, decides it is too hard, and skips it. The prepared one notices a single feature, the equal coefficients on the two squared terms, recognizes the expression as a circle in disguise, completes the square in about forty seconds, and walks away with a free point. That gap, between a blank stare and a fast solve, is the entire subject of this guide, and it is the clearest example on the whole exam of how a tiny act of pattern recognition converts a hard-looking question into an easy one.
 
-![SAT circle geometry completing the square arc length sector area radians worked examples - Insight Crunch](/assets/images/blog/blog-61.webp)
+![SAT circle geometry completing the square arc length sector area radians worked examples - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 Circle geometry on the Digital SAT splits cleanly into two families of skill, and almost every point in the topic falls into one of them. The first family is the equation of a round figure on the coordinate plane: reading a center and a radius straight out of standard form, and recovering them from the general form that hides the shape until you complete the square. The second family is proportional reasoning about parts of the figure: arc length, sector area, central and inscribed angles, and the radian system that makes all of that reasoning clean. This guide teaches both to mastery. By the end you will recognize a disguised equation on sight, complete the square without hesitation, convert between degrees and radians in either direction, and treat any wedge of the figure as a simple fraction of the whole. Those are concrete abilities a generic overview will not hand you, and they are worth real points to anyone aiming above the middle band.
 

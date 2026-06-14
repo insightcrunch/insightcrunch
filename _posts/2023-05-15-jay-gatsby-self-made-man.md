@@ -6,7 +6,7 @@ date: 2023-05-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Character Analysis", "The American Dream", "Close Reading", "American Literature"]
 excerpt: "Jay Gatsby: the self-made man reconsidered. How James Gatz invented a millionaire, and why that self-creation both lifted Gatsby and ensured his fall."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 47
 author: "victoria-stone"
 last_updated: 2023-05-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Every self-made man in American fiction asks the reader to admire the climb and ignore the ground it stands on. Jay Gatsby asks both questions at once and refuses to settle either. This is Jay Gatsby: the self-made man reconsidered, not as a success story with a sad ending but as the most exacting case the novel can build of what self-creation costs and what it cannot buy. A poor farm boy from North Dakota named James Gatz wills a millionaire into existence, names him, dresses him, funds him, gives him a past, and rides that invention straight to the bottom of his own swimming pool. The achievement is real. The hollowness underneath it is also real. The argument of this study is that the two are the same fact seen from two sides, and that any reading which keeps only one of them has stopped reading too soon.
 
-![Jay Gatsby: The Self-Made Man Reconsidered](/assets/images/blog/blog-76.webp)
+![Jay Gatsby: The Self-Made Man Reconsidered](/assets/images/blog/blog-107.webp)
 
 The phrase self-made man flatters the man and erases the making. It implies a finished product, a person who arrived. Gatsby is the opposite: a person in permanent construction, a performance that never gets to stop performing, because the moment the gestures fail the whole edifice shows what it is built on, which is nothing. To read him as the self-made man is to watch a human being treat himself as a project, and to feel both the grandeur of that ambition and the loneliness of a self that has no resting place beneath the act. For a wider account of the character as a whole, this study sits beside the full [analysis of Jay Gatsby's desire, contradictions, and arc](/2023/05/08/jay-gatsby-character-analysis/); here the lens is tightened to one question, the question of the manufactured self.
 

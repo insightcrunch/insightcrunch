@@ -6,14 +6,14 @@ date: 2025-07-13
 categories: ["Industry"]
 tags: ["高考", "国际生", "留学", "International Students", "Study Abroad"]
 excerpt: "外籍学生如何申请中国大学,中国考生又怎样用高考走向海外升学?本指南完整梳理入境与出境两个方向:从汉语水平测试等级、中国政府奖学金、港澳台联考途径,到雅思托福备考、英国预科与美国社区学院转学、海外申请材料、留学费用规划与回国学历认证,并附一张升学路径矩阵,帮你先认清目标、再决定用什么考试走对升学这条路。"
-image: "/assets/images/blog/blog-56.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 63
 author: "zhao-lina"
 lang: zh
 ---
 很多人把高考想象成一道唯一的、不可绕过的窄门:要进好大学,就只有一条路。但当视野从一个省份扩大到全球升学的版图,你会发现真实的图景远比这复杂,也远比这宽阔。一边是越来越多的外籍青年想进入中国的高校读书,他们走的并不是高考这条路;另一边是越来越多的内地家庭,在为孩子盘算除了高考之外、通往世界各地校园的多种可能。把这两股方向放在同一篇文章里讲清楚,正是本篇想做的事。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-56.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-07.webp)
 *国际升学的双向版图:外籍学子走进中国校园,内地考生走向世界各地*
 
 如果你刚接触整个体系,建议先读一遍[高考完全指南](/2026/03/18/gaokao-complete-guide/),把这场全国统考的基本结构、评分逻辑和录取流程理顺,再回到这里看它在国际升学坐标系里的位置。本篇要回答的核心问题只有一句话:外籍学子怎么进中国高校,内地考生又如何用高考与平行赛道走向海外升学?

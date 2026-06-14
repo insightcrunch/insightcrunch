@@ -6,7 +6,7 @@ date: 2013-09-12
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Draco Malfoy", "Dudley Dursley", "Character Comparison"]
 excerpt: "Draco Malfoy vs Dudley Dursley in Harry Potter: two spoiled bullies, two paths to change, and why Dudley's quiet repentance rings truer than Draco's choice."
-image: "/assets/images/blog/blog-88.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 41
 author: "olivia-grant"
 last_updated: 2013-09-12
@@ -16,7 +16,7 @@ lang: en
 
 The question is not which boy was the worse bully. Both tormented the same child for years; both inherited their cruelty from parents who had cultivated it; both were larger, louder, and more protected than the boy they hounded. The question is narrower and stranger than a tally of insults. Two boys built to be cruel were each handed, near the end, a single opportunity to recognise their victim as a person. One took it in a sentence spoken on a doorstep with no one important watching. The other never quite managed the sentence, though he lowered his wand when it mattered most. Why does the smaller gesture feel like the larger change?
 
-![Draco Malfoy and Dudley Dursley bully comparison in Harry Potter](/assets/images/blog/blog-88.webp)
+![Draco Malfoy and Dudley Dursley bully comparison in Harry Potter](/assets/images/blog/blog-65.webp)
 
 Rowling rarely lets two minor figures rhyme this precisely by accident. Dudley Dursley and Draco Malfoy occupy mirrored positions on either side of the magical divide. The first is the cruelty Harry grows up inside, the domestic tyranny of a Surrey cul-de-sac. The second is the cruelty Harry meets when he escapes into the wizarding world, the school-corridor tyranny dressed in pure-blood theory. They never meet. They share a target, an age, a body type, a household built on the rejection of difference, and a faint, partial movement toward something better. Held in the same frame, they become the series' most exact laboratory experiment on a question children's literature rarely asks with any honesty: can a bully become a decent adult, and if so, what has to be true for the change to take?
 

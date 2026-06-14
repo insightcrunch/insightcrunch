@@ -6,7 +6,7 @@ date: 1996-02-14
 categories: ["Industry"]
 tags: ["SAT", "International", "UPSC", "India", "Exam Comparison"]
 excerpt: "SAT vs UPSC: two society-defining exams at different life stages, their formats, cultural weight and the aptitude-versus-knowledge-and-character divide."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
 author: "anita-das"
 last_updated: 2026-06-13
@@ -14,7 +14,7 @@ lang: en
 ---
 Somewhere right now a seventeen-year-old in Ohio is closing a Bluebook practice module, and somewhere a twenty-five-year-old in Uttar Pradesh is closing a thousand-page volume of post-independence Indian history. A search engine treats them as neighbors. Type "is the UPSC harder than the SAT" and the autocomplete fills in before you finish the word, because thousands of people have asked the same thing, as though the two sat on a single ladder and the only question worth settling was which rung stood higher. That framing is the most natural mistake in the world, and it is wrong in a way that is worth taking seriously, because the error is not about difficulty. It is about what an examination is for.
 
-![SAT vs UPSC: US and India Exams Compared - Insight Crunch](/assets/images/blog/blog-61.webp)
+![SAT vs UPSC: US and India Exams Compared - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The SAT and the Union Public Service Commission civil services examination are both, in their own societies, gateways that carry enormous weight. Both shape life trajectories. Both inspire dread, folklore, coaching industries, and a quiet conviction in the people who sit them that a single performance will define their worth. Past that surface similarity the two diverge so completely that ranking one above the other is like asking whether a marathon is harder than a chess championship. You can answer the question, but the answer tells you nothing, because the two events are not measuring the same human quality, were never designed to, and arrive at entirely different moments in a life. The SAT meets a student at the threshold of adulthood and asks a narrow question about reasoning with text and numbers. The civil services examination meets an adult, often years into a career or a graduate degree, and asks an enormous question about accumulated knowledge, analytical judgment, and the kind of character a government wants in the people who will administer a nation of more than a billion citizens.
 

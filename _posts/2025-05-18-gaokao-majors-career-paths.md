@@ -6,14 +6,14 @@ date: 2025-05-18
 categories: ["Industry"]
 tags: ["高考", "专业选择", "职业规划", "University Majors", "Salary Outcomes"]
 excerpt: "高考分数与选科究竟如何一步步决定你的大学专业乃至未来十年的职业走向?本文用兴趣、能力、就业三维框架系统拆解专业选择的完整过程,详解各类选科对应的报考要求、计算机医学金融等最难进热门专业的竞争格局,以及一本二本等不同院校层次之间真实存在的就业与薪资差距,手把手帮你做出一个让十年后的自己都不会后悔的扎实选择。"
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 63
 author: "chen-xiaoling"
 lang: zh
 ---
 每年放榜之后,无数家庭围坐在餐桌前,翻着厚厚的招生计划册,试图在短短几天内决定一个孩子未来十年的人生走向。和长达三年的备考相比,填报志愿和挑选学科方向的时间窗口短得惊人,可它的分量却丝毫不轻。很多人把全部精力投入到提高几十分的卷面成绩上,却在真正决定命运的那一步上仓促行事。这是一个值得认真对待的判断,而不是一次匆忙的饭桌讨论。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-87.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-34.webp)
 *高考分数与学科学科共同决定大学四年的课程形态与毕业后的职业走向*
 
 本文要回答的核心问题只有一个:高考之后到底应该怎么挑选大学的学习领域,兴趣、能力和就业前景这三件事又该如何权衡?围绕这个问题,我们会从一个相对残酷但必须诚实面对的前提讲起,再逐步搭建出一套可操作的三维决策框架,接着把选科要求、热门方向的竞争格局、院校层次带来的薪资差距等具体话题逐一拆开,最后用二十个高频疑问做收尾。如果你想先把整个高考流程梳理一遍,可以先读这篇[高考完全指南](/2026/03/18/gaokao-complete-guide/)再回来。

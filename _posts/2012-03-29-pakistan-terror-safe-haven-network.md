@@ -6,7 +6,7 @@ date: 2012-03-29
 categories: ["Industry"]
 tags: ["pakistan", "safe-haven", "lahore", "karachi", "rawalpindi", "terrorism", "sanctuary"]
 excerpt: "Pakistan's safe haven is not passive shelter but active infrastructure, from designated residences and police protocols to military-escorted corridors."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "benjamin-scott"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ Pakistan does not merely shelter terrorists. It operates an integrated infrastru
 
 <!--more-->
 
-![Pakistan Terror Safe Haven Network - Insight Crunch](/assets/images/blog/blog-76.webp)
+![Pakistan Terror Safe Haven Network - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 The shadow war that India has conducted against terrorists on Pakistani soil since 2021, documented comprehensively in the [campaign overview](https://insightcrunch.com/2013/01/03/india-shadow-war-explained/), is not simply targeting individuals. It is targeting a system. Every elimination of a wanted terrorist in Karachi, Lahore, Sialkot, Rawalpindi, or Pakistan-Occupied Kashmir is an incision into the body of an institutional apparatus that produces, protects, and replenishes the men who plan and execute attacks against India. To understand the shadow war's strategic logic, one must first understand the infrastructure it is penetrating. This article provides the first systematic inventory of that infrastructure, categorized by facility type and mapped to the cities where it operates, treating the safe haven not as a collection of random hiding spots but as an integrated institutional system with identifiable components, maintenance mechanisms, and vulnerabilities.
 

@@ -6,7 +6,7 @@ date: 2024-12-25
 categories: ["Industry"]
 tags: ["高考", "上海高考", "上海分数线", "Shanghai Gaokao", "Provincial Guide"]
 excerpt: "这份上海高考完全指南系统解析上海自主命题的独特之处、春季高考与秋季高考双轨制度、3+3 选科模式与等级赋分的内在逻辑,并详解复旦上交同济华师大等本地名校版图、上海户籍优势与非沪籍异地高考政策、国际化升学路径以及不同分数段的备考策略,最后附上二十问常见问题解答,助力申城考生与家长理清思路、从容规划升学之路。"
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 63
 author: "liu-jian"
 lang: zh
@@ -15,7 +15,7 @@ lang: zh
 
 和很多人想象的不同,上海高考的难点往往不在于试卷本身有多偏多怪,而在于路径太多、信息太密。一个上海学子手里可能同时握着春考、秋考、综合评价、强基计划、国际化升学等多条赛道,每一条都有自己的时间节点和准入门槛。选择越多,意味着规划越重要。本文将按照命题、评分、招生、院校、户籍、产业、选科、备考等维度,系统拆解上海高考的全貌,并在结尾用一份完整的常见问题解答帮你扫清最后的疑虑。如果你想先建立全国层面的整体认知,可以先读一读[高考完全指南](/2026/03/18/gaokao-complete-guide/),再回到上海的具体语境。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-04.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-61.webp)
 *上海高考的双轨制、3+3 模式与本地名校生态全景解读*
 
 ## 上海卷:自主命题塑造的本地特色

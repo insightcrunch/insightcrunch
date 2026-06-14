@@ -6,7 +6,7 @@ date: 2023-04-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "James Gatz", "Chapter 9", "Close Reading", "The American Dream", "American Literature"]
 excerpt: "Gatsby's boyhood schedule, the daily plan young James Gatz penciled into a Western in 1906, is the first draft of the self-made man and the seed of his ruin."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 47
 author: "rachel-foster"
 last_updated: 2023-04-24
@@ -14,7 +14,7 @@ lang: en
 ---
 Gatsby's boyhood schedule is the smallest document in the novel and the one that explains the most. It arrives late, in Chapter 9, when a grieving father named Henry Gatz opens a worn copy of a Western adventure book and points to a daily plan his son penciled into the back of it as a boy. For most of the novel the reader has watched Jay Gatsby as a finished surface: the mansion, the parties, the pink suits, the rumors. The schedule shows the surface being drafted. It is the only place in the book where we see the self-made man before he made himself, and it turns the whole performance we have just witnessed into the keeping of a childhood promise. A reader who skims past it as a quaint detail misses the single passage that makes Gatsby tragic rather than absurd.
 
-![Gatsby's boyhood schedule and self-improvement list in The Great Gatsby Chapter 9 close reading - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Gatsby's boyhood schedule and self-improvement list in The Great Gatsby Chapter 9 close reading - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 This article reads the schedule as an artifact: line by line, in the order the boy wrote it, against the adult it predicts. The claim it defends is simple and worth carrying into an essay. The boyhood schedule is the original draft of Jay Gatsby, the American dream of self-betterment written out by a twelve-year-old in pencil, and its earnest, slightly misspelled discipline is exactly what keeps the eventual ruin from being a joke. To read it well you have to refuse two easy responses: the smile at its quaintness and the sneer at its naivety. The boy who wrote "Be better to parents" at the bottom of a list about dumbbells and elocution is the same man who, decades later, will stand alone at the end of his dock reaching for a green light. The schedule is where that reach begins.
 

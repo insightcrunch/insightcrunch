@@ -6,7 +6,7 @@ date: 2015-10-07
 categories: ["Leisure"]
 tags: ["declaration-of-independence", "thomas-jefferson", "1776", "american-founding", "natural-rights", "medieval-history"]
 excerpt: "The Declaration of Independence was a legal document built to win foreign recognition for a secession, not simply a statement of philosophical ideals."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 72
 author: "chloe-martin"
 last_updated: 2015-10-07
@@ -16,7 +16,7 @@ The Declaration of Independence is a legal and diplomatic instrument that justif
 
 <!--more-->
 
-![The Declaration of Independence Explained - Insight Crunch](/assets/images/blog/blog-69.webp)
+![The Declaration of Independence Explained - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 This article makes a single argument and follows it from the document's structure outward. The claim is that the Declaration is a legal-diplomatic instrument with a philosophical preamble, and that the preamble's modern fame is a later construction, built across the nineteenth century rather than fixed in 1776. Restoring the whole text to view, the introduction, the preamble, the long catalog of complaints, the denunciation of the British public, and the formal closing pledge, does not shrink the Declaration. It sharpens it. A reader who knows only the equality clause holds a fragment. Anyone who understands what the full page was built to do holds the thing itself, and that thing is stranger, more contingent, and more revealing than the civics-class summary suggests.
 

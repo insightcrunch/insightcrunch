@@ -6,7 +6,7 @@ date: 2019-11-04
 categories: ["Industry"]
 tags: ["us", "canada", "pannun", "nijjar", "allegations", "diplomatic-crisis"]
 excerpt: "How the US Pannun assassination plot and the Canadian Nijjar killing allegations turned two of India's closest Western allies into open public accusers."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "benjamin-scott"
 last_updated: 2019-11-04
@@ -16,7 +16,7 @@ For three years the shadow war had a comfortable arithmetic. Wanted men died on 
 
 <!--more-->
 
-![US and Canadian allegations against India over the Pannun plot and Nijjar killing](/assets/images/blog/blog-84.webp)
+![US and Canadian allegations against India over the Pannun plot and Nijjar killing](/assets/images/blog/blog-11.webp)
 
 This is the moment in the long chain where the cost of India's covert counter-terror campaign changed denomination. Up to this point the costs had been Pakistani: dead operatives, exposed safe houses, a militant leadership forced into hiding. Those costs were borne by India's adversary, which is to say they were not really costs at all. The Western allegations introduced a different ledger. For the first time the campaign threatened something India actually valued, namely its standing with the democracies it had spent two decades courting as partners against terrorism, as buyers of its goods, and as suppliers of the technology its military wanted. The accusations did not kill anyone. They did something the Pakistani body count never could. They made the shadow war expensive in the currency India cares about, and a campaign that has become expensive in a currency its sponsor values is a campaign that can no longer simply be run. It has to be justified, weighed, and rationed.
 

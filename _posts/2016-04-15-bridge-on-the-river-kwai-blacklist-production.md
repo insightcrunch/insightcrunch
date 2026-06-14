@@ -6,7 +6,7 @@ date: 2016-04-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Bridge on the River Kwai", "David Lean", "War Film", "Film History", "Directors", "Adaptations"]
 excerpt: "The Bridge on the River Kwai built a real bridge only to blow it up and hid its blacklisted writers, a 1957 production that records the cracking studio era."
-image: "/assets/images/blog/blog-94.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2016-04-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A film studio normally protects two things above all else: the property it spends money to build, and the names it puts on the screen. The Bridge on the River Kwai inverts both. It spent a small fortune to construct a working railway bridge in the jungle for the sole purpose of destroying it on camera, and it withheld the names of the two writers who actually wrote it, crediting instead a French novelist who could not speak English. To study how David Lean's 1957 epic was made is to watch a production deliberately doing the opposite of what a studio is built to do, and the reasons it did so are the reasons the film carries the meaning it does. The bridge had to be real because the film is about the pride of building, and the writers had to be hidden because the era could not yet say their names aloud. Those two production facts, the constructed bridge and the erased authorship, are not trivia attached to a finished movie. They are the film, rendered in lumber and in silence.
 
-![How The Bridge on the River Kwai built a real bridge and hid its blacklisted writers, a production history - Insight Crunch](/assets/images/blog/blog-94.webp)
+![How The Bridge on the River Kwai built a real bridge and hid its blacklisted writers, a production history - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 This is a making-of study, not a plot appreciation. The aim is to reconstruct the conditions under which the picture came together, the choices forced on it by money, location, weather, and politics, and to show how each pressure left a visible mark on the screen. The path runs from the decision to abandon a Hollywood soundstage for a riverbank in Ceylon, through the engineering of a span that a real locomotive could cross and that real explosives could shatter, into the secret rooms where blacklisted writers shaped a story whose authorship the credits denied, and out to the wider world of the late 1950s, when the international location epic was becoming the prestige form and when directors abroad were beginning to hold the authorial control that the Hollywood blacklist was busy stripping away at home. The film that resulted won seven Academy Awards and the highest gross of its year, and it did so while carrying inside its credits a lie that took nearly three decades to correct.
 

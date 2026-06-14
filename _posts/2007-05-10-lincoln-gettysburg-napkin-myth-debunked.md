@@ -6,7 +6,7 @@ date: 2007-05-10
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "myth-bust", "us-presidents", "gettysburg-address", "historical-myths", "composition-process"]
 excerpt: "Lincoln never scrawled the Gettysburg Address on an envelope. Five surviving manuscripts in his own hand prove weeks of patient and deliberate revision."
-image: "/assets/images/blog/blog-94.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2026-06-05
@@ -16,7 +16,7 @@ On the evening of November 18, 1863, in a brick house on the diamond at the cent
 
 The popular story tells none of this. The popular story says Abraham Lincoln scribbled the Gettysburg Address on the back of an envelope during the train ride, a flash of careless genius dashed off between glances out the window. It is one of the most durable pieces of misinformation in American memory, and it is false in every particular that matters. The composition can be tracked across roughly seventeen days, five surviving manuscripts in Lincoln's own hand, the diary of his secretary, the dispatches of reporters who watched him prepare, and the unanimous judgment of the historians who have studied the question hardest. This is the reconstruction of how the speech was actually built, why the envelope story took hold anyway, and exactly where the small grain of truth inside the myth ends and the fabrication begins.
 
-![Lincoln Gettysburg Address envelope myth debunked with five extant manuscripts - Insight Crunch](/assets/images/blog/blog-94.webp)
+![Lincoln Gettysburg Address envelope myth debunked with five extant manuscripts - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 ## The Myth in Its Strongest Form
 

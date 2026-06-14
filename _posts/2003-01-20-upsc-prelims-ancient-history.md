@@ -6,7 +6,7 @@ date: 2003-01-20
 categories: ["Industry"]
 tags: ["UPSC", "Ancient Indian History", "UPSC Prelims", "Indian History", "IAS Preparation", "Prelims Strategy"]
 excerpt: "Master ancient Indian history for UPSC Prelims with PYQ analysis, cultural focus strategy, and a topic-wise action plan."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "kavita-sharma"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ This disconnect between how aspirants study ancient history and how UPSC actuall
 
 This article is your self-contained manual for mastering ancient Indian history specifically for UPSC Prelims. It does not replicate what you will find in a generic history textbook. Instead, it decodes exactly how UPSC frames ancient history questions, maps every major topic to its examination relevance, identifies the cultural and philosophical dimensions that the Commission favors, and gives you a week-by-week study plan that ensures you walk into the examination hall with the precise knowledge and analytical instinct that ancient history questions demand.
 
-![UPSC Prelims Ancient Indian History Strategy and Study Plan - Insight Crunch](/assets/images/blog/blog-34.webp)
+![UPSC Prelims Ancient Indian History Strategy and Study Plan - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 ## Why Ancient Indian History Carries Outsized Importance in UPSC Prelims
 

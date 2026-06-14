@@ -6,7 +6,7 @@ date: 2014-09-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "King Kong", "Willis O'Brien", "Special Effects", "Film History", "Cinematography"]
 excerpt: "King Kong (1933) fused stop-motion, miniatures, rear projection, and matte work into one giant ape, and this craft analysis explains how each layer sold it."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 59
 author: "amanda-ross"
 last_updated: 2014-09-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The single hardest thing King Kong (1933) had to do was not build a convincing giant ape. It was to put that ape and a living woman inside the same rectangle of film and make a 1933 audience accept that they shared the air between them. A puppet on a tabletop is a puppet on a tabletop. A frightened actress on a soundstage is a frightened actress on a soundstage. The whole achievement of the picture, the thing that turned Merian C. Cooper and Ernest B. Schoedsack's monster adventure into the founding document of effects-driven spectacle, lives in the seam where those two unrelated images were stitched together so that the giant and the human appeared to occupy one continuous space. Everything else, the armature, the fur, the dinosaurs, the famous fall from the Empire State Building, follows from solving that one problem. This analysis is about how the problem was solved, layer by layer, and why the solution mattered far beyond the running time of a single adventure film.
 
-![How King Kong (1933) combined stop-motion, miniatures, rear projection, and matte work to share the frame, a craft analysis - Insight Crunch](/assets/images/blog/blog-78.webp)
+![How King Kong (1933) combined stop-motion, miniatures, rear projection, and matte work to share the frame, a craft analysis - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 The reason to read the film this way, at the level of the composite rather than the level of the story, is that the story is the part anyone can summarize in two sentences. A film crew sails to an uncharted island, captures a colossal ape that has fallen for the leading lady, and brings the creature back to New York, where it breaks loose and dies atop a skyscraper. That is the plot. It is not the achievement. The achievement is technical, and it is specific, and it is reproducible in description even when it is not reproducible in execution. A researcher who wants to understand why this picture sits at the head of an entire lineage of fantasy and monster cinema has to understand the craft, because the craft is the argument. King Kong won its place in film history by making the impossible verifiable, by letting an animated figure cast a believable presence into the same frame as photographed reality, and the rest of this piece traces exactly how that was done.
 

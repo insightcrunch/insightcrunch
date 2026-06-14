@@ -5,7 +5,7 @@ date: 2010-07-20
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "Google may be taking note of the photogenic interface of the Bing homepage which led it to add a background image last month. The traditional neat look of..."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 1
 author: "andrew-price"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Google may be taking note of the photogenic interface of the Bing homepage which led it to add a background image last month. The traditional neat look of the homepage faced a sharp contrast with the flashy background image behind the Google search box. But the question is that will Google users accept this change wholeheartedly.
 
-![Google Homepage Background Design](/assets/images/blog/blog-81.webp)
+![Google Homepage Background Design](/assets/images/blog/blog-39.webp)
 Google Homepage Background Design
 
 [](http://imageshack.com/a/img924/6126/o6Vcbr.gif)Google’s Marissa Mayer writes in a blog post :

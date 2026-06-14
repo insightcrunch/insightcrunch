@@ -6,7 +6,7 @@ date: 2015-01-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Fantasia", "Walt Disney", "Animation", "Film Scores", "Film History"]
 excerpt: "Fantasia (1940) reversed the order of scoring, animating imagery to pre-existing music, and its Fantasound system pioneered multichannel cinema audio."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-01-15
@@ -16,7 +16,7 @@ Most films are scored. A picture is shot and cut first, and only then does a com
 
 That reversal is not a trivia point. It changes the relationship between eye and ear at the root, and it produces a viewing experience that feels unlike any conventional cartoon or any conventional musical. To watch this feature is to watch drawing take dictation from Bach, Tchaikovsky, Stravinsky, and Beethoven, and the resulting tension between a fixed sonic structure and a free pictorial imagination is the real subject of the work. This analysis treats the picture the way it asks to be treated: as a problem in sound and image, scored backward, and as the boldest mass-market attempt to do something that a handful of European artists had already been doing quietly for almost twenty years.
 
-![How Fantasia animated classical music and pioneered Fantasound multichannel sound, an analysis - Insight Crunch](/assets/images/blog/blog-31.webp)
+![How Fantasia animated classical music and pioneered Fantasound multichannel sound, an analysis - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 The ambition behind the project was enormous, and so was its cost. Disney did not merely want to draw to recorded orchestral works. He wanted audiences to feel surrounded by them, lifted out of the flat, tinny, single-horn audio of the late 1930s and placed, as he put it, beside the conductor on the podium. To get there his engineers built a multichannel reproduction system called Fantasound, the first commercial attempt to put stereophonic, directional, and at moments enveloping sound into a movie theater. The picture and its delivery system were a matched pair of gambles, one aesthetic and one technological, and both ran far ahead of what the marketplace of 1940 could support. The roadshow lost money. The reasons are concrete and worth stating plainly, because the financial result has been used, unfairly, to file the whole enterprise under noble failure. It deserves a more careful verdict than that.
 

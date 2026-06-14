@@ -6,7 +6,7 @@ date: 2023-03-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 7", "Close Reading", "Tom Buchanan", "Themes", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The drive into the city in Chapter 7 looks like travel, but it quietly arranges every piece of the catastrophe that follows. A full Chapter 7 close reading."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 47
 author: "rachel-foster"
 last_updated: 2023-03-20
@@ -14,7 +14,7 @@ lang: en
 ---
 The drive into the city in Chapter 7 of The Great Gatsby is the passage most readers skim on the way to something louder. It sits between the strained lunch at the Buchanan house and the explosion at the Plaza Hotel, and because nothing seems to detonate during the journey itself, it gets filed under transition. That filing is the mistake. Read closely, the trip from East Egg to Manhattan is where Fitzgerald arranges every element of the disaster to come: it puts the wrong driver in the yellow car, seals Daisy and Gatsby together in a single coupé, and rattles Tom Buchanan at a gas pump until he realizes he may be losing two women at once. The day does not stumble into tragedy. The drive sets the table for it.
 
-![The drive into the city in The Great Gatsby Chapter 7, car switch and Wilson's garage close reading - Insight Crunch](/assets/images/blog/blog-48.webp)
+![The drive into the city in The Great Gatsby Chapter 7, car switch and Wilson's garage close reading - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 This article reads the drive as the novel quietly loading a gun. The journey looks like motion without consequence, and that is precisely its cover. Underneath the surface of a hot afternoon car ride, three arrangements lock into place, and each one will fire later in the same chapter. Treat the trip as setup rather than filler, and the whole architecture of Chapter 7 becomes visible: the climax at the Plaza, the death in the valley of ashes, and the cover-up after are not separate accidents but the consequences of choices made on the road in.
 

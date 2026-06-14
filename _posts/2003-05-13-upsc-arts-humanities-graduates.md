@@ -6,7 +6,7 @@ date: 2003-05-13
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Arts Background", "IAS Arts Graduates", "Humanities UPSC", "Study Strategy"]
 excerpt: "Use your humanities background as a UPSC advantage with subject-aware strategies for essay, Mains, and CSAT."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 59
 author: "anita-das"
 last_updated: 2026-04-13
@@ -24,7 +24,7 @@ However, the psychological risk that accompanies this content alignment is equal
 
 This article provides the complete strategic framework for arts and humanities graduates preparing for UPSC, honestly and specifically assessing both the genuine advantages your academic background provides (content alignment, writing quality, Essay paper dominance, Interview depth) and the specific gaps that must be filled through targeted, structured preparation (CSAT anxiety and the two-month crash course solution, Science and Technology weakness and the governance-focused building programme, Economy discomfort and the three-phase literacy programme for non-Economics graduates). It analyses the optimal optional subjects for arts graduates across History, PSIR, Sociology, Philosophy, and Literature with specific scoring data, GS overlap analysis, and suitability criteria. It describes the university-to-UPSC writing transition through five specific contrasts between academic writing and examination writing that humanities graduates must consciously adapt. And it explains how humanities depth translates to Interview strength through four specific competencies that humanities education develops and that Interview boards directly assess and reward.
 
-![UPSC for Arts and Humanities Graduates - Insight Crunch](/assets/images/blog/blog-06.webp)
+![UPSC for Arts and Humanities Graduates - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination tests knowledge across History, Geography, Polity, Economy, Science and Technology, Ethics, and an optional subject, combined with analytical writing, current affairs awareness, and Interview performance. Arts graduates enter this examination with the strongest content alignment of any background group but must address specific quantitative and scientific gaps to convert that alignment into competitive examination performance across all stages and all papers.
 

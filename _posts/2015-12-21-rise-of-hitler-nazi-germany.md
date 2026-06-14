@@ -6,7 +6,7 @@ date: 2015-12-21
 categories: ["Leisure"]
 tags: ["rise-of-hitler", "nazi-germany", "weimar-republic", "1933", "fascism-history", "modern-history"]
 excerpt: "Hitler's rise to power was not inevitable. Specific conservative politicians chose to bring him to power believing they could control him. They failed."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2015-12-21
@@ -16,7 +16,7 @@ Hitler's rise to power was not a predictable consequence of the Treaty of Versai
 
 <!--more-->
 
-![Rise of Hitler and Nazi Germany - Insight Crunch](/assets/images/blog/blog-30.webp)
+![Rise of Hitler and Nazi Germany - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The story of how a failed Austrian artist, rejected twice by the Vienna Academy of Fine Arts, became the chancellor of Germany and then the dictator who plunged Europe into its most devastating war is not a story about destiny. It is a story about political miscalculation on a civilizational scale. The conservative politicians who brought Hitler to power in January 1933 believed they were using him. Franz von Papen reportedly told associates that within two months, Hitler would be squeaking in a corner under conservative control. Papen was wrong about the timeline by approximately twelve years and wrong about the direction of control by one hundred and eighty degrees. The Enabling Act, the suppression of all opposition parties, the Night of the Long Knives, the fusion of presidential and chancellorial authority upon Hindenburg's death - each step in the destruction of German democracy was enabled by the initial miscalculation. The people who could have prevented it chose not to, and the people who chose to enable it believed they were being clever. To [trace these events on the interactive chronological map](https://reportmedic.org/tools/world-history-timeline.html) is to see how rapidly a democratic system can be dismantled when the institutions designed to protect it are deliberately circumvented by the people entrusted with their preservation. This article reconstructs the specific decisions, names the specific actors, identifies the specific alternatives, and explains why the scholarly consensus has moved decisively toward the decision-reconstruction reading and away from the structural-inevitability narrative that popular treatments still often repeat.
 

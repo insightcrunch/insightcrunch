@@ -6,7 +6,7 @@ date: 2022-05-02
 categories: ["Technology"]
 tags: ["Azure", "Logic Apps", "Serverless", "Integration", "Cloud Computing", "Architecture"]
 excerpt: "Azure Logic Apps explained end to end: triggers, actions, connectors, the Consumption and Standard plans, and stateful versus stateless workflow design."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "david-thornton"
 last_updated: 2022-05-02
@@ -14,7 +14,7 @@ lang: en
 ---
 Most teams adopt Azure Logic Apps for the reason it markets itself: a workflow runs without anyone writing a server, a polling loop, or a connector library by hand. The first integration ships in an afternoon, the demo lands, and the platform feels solved. The trouble arrives three months later, when a workflow that was cheap at a hundred runs a day costs real money at a hundred thousand, when a trigger that fired reliably in testing silently skips a window in production, or when a connector that authorized once starts returning unauthorized and nobody can say why. The gap between using Logic Apps and understanding it is exactly this: the visual designer hides a precise execution engine, a billing model that punishes certain workflow shapes, and a hosting choice that should have been made before the first action was dragged onto the canvas. This deep dive closes that gap so you build flows that survive scale rather than ones that look finished in a screenshot.
 
-![Azure Logic Apps workflow engine, triggers, connectors, and plan model explained - Insight Crunch](/assets/images/blog/blog-21.webp)
+![Azure Logic Apps workflow engine, triggers, connectors, and plan model explained - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The reader who finishes this article should leave holding a working mental model of Logic Apps as a workflow engine driven by triggers, actions, and connectors, able to choose between the Consumption and Standard plans deliberately, and able to reason about stateful versus stateless runs instead of accepting whatever the default offered. That is a sharper outcome than the documentation gives, because the documentation describes each feature in isolation while the failures engineers actually hit come from how the features interact: a billing model meeting a chatty workflow, a stateless run meeting a debugging session that needs history, a managed connector meeting a token that quietly expired over a weekend.
 

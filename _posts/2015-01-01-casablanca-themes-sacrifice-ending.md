@@ -6,7 +6,7 @@ date: 2015-01-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Casablanca", "Michael Curtiz", "World Cinema", "Film History", "Film Analysis"]
 excerpt: "Casablanca turns Rick's sacrifice of Ilsa into an argument that commitment costs something, reading one man's private loss as a nation's turn toward war."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-01-01
@@ -14,7 +14,7 @@ lang: en
 ---
 A man stands on a fog-wet airstrip and gives away the one thing he has spent the whole picture trying to get back. That image, Rick Blaine handing Ilsa Lund to another man and to the plane that carries her out of his life, is the moral engine of Casablanca, and it is also the reason a wartime entertainment from Warner Bros. has outlived nearly every prestige production that surrounded it. Michael Curtiz directed a romance, but the romance is the carrier wave for an argument, and the argument is about the price of becoming someone who acts. Rick begins the film refusing to stick his neck out for anybody. He ends it by cutting his own heart out so that two strangers to his happiness can fly to safety and keep fighting. The distance between those two positions is the film's real subject, and it is an idea, not a plot turn.
 
-![How Casablanca turns Rick's sacrifice into a national allegory, a themes analysis - Insight Crunch](/assets/images/blog/blog-04.webp)
+![How Casablanca turns Rick's sacrifice into a national allegory, a themes analysis - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The trap with Casablanca is that it is so quotable, so warm, so endlessly revivable, that its reputation has hardened into a kind of affectionate shrug. People call it the most beloved Hollywood movie ever made and then change the subject, as though loving it were the same as understanding it. The affection is earned, but it tends to hide the thing underneath. Beneath the cigarette smoke and the piano and the famous farewell sits one of the most disciplined thematic structures in American studio cinema: a film that argues, scene by scene, that you cannot be committed to anything worth having without giving something up, and that the size of what you surrender is the measure of how serious your commitment is. This is the renunciation that commits, and once you see it organizing the picture you cannot unsee it. Every scene either tests that idea or pays it off.
 

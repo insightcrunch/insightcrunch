@@ -6,7 +6,7 @@ date: 2023-06-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Character Analysis", "Literary Criticism", "American Literature"]
 excerpt: "Is Nick Carraway the moral center of The Great Gatsby? A close reading weighs his sharp judgments against his own complicity to test the famous claim."
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 48
 author: "elena-wright"
 last_updated: 2023-06-19
@@ -14,7 +14,7 @@ lang: en
 ---
 Ask a class who keeps the conscience of The Great Gatsby and the answer comes back fast: Nick Carraway, the moral center, the one decent man in a book full of liars. The reader trusts him because he tells us, on the first page, that his father taught him to reserve judgment, and because by the last page he is the only person willing to stand at Gatsby's grave. The verdict feels settled before the argument begins. Yet the moment you hold the claim up to the text, it starts to wobble. The narrator who promises to withhold judgment spends nine chapters delivering verdicts on nearly everyone he meets. The man who calls himself honest helps conceal an affair, drifts into a relationship he ends by deciding the woman is a liar, and watches a marriage drive toward catastrophe without lifting a hand. So the moral center question is not a soft one. It asks whether Nick Carraway earns the role the novel seems to hand him, or whether his authority is something more compromised and more interesting than a clean conscience.
 
-![Is Nick Carraway the moral center of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-85.webp)
+![Is Nick Carraway the moral center of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 This article tests the claim against the evidence rather than repeating it. It is a companion to the full [Nick Carraway character analysis](/2023/06/05/nick-carraway-character-analysis/), which treats him whole, and to the separate study of whether he is a [reliable or unreliable narrator](/2023/06/12/nick-carraway-reliable-narrator/), a question about narration that overlaps with this one but is not identical. Reliability asks whether to trust what Nick reports. The moral center question asks something else: whether his judgments carry the weight of a conscience, and whether he holds himself to the standard he holds everyone else to. The two questions touch, because a narrator whose honesty is in doubt makes a shaky moral arbiter, but they are worth keeping apart. A man can report events accurately and still fail the test of conscience, and a man can be morally serious while seeing the world through a partial lens. What follows weighs Nick's verdicts against his own conduct, names the contradiction at the heart of his moral authority, and reaches a defended position on whether that authority survives.
 

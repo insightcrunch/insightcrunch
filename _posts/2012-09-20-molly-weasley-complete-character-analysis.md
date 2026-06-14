@@ -6,7 +6,7 @@ date: 2012-09-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Molly Weasley", "The Weasleys", "Motherhood in Literature", "Female Characters"]
 excerpt: "Full literary analysis of Molly Weasley across all Harry Potter books - motherhood as combat magic, the Howler, the Boggart, and her hidden Prewett grief."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2012-09-20
@@ -16,7 +16,7 @@ lang: en
 
 Of all the characters Rowling places in the path of the orphan, only one offers him something the boy has never had: a kitchen that smells like food cooked for him specifically. That kitchen belongs to Molly Weasley, and the offering is the most quietly radical gift in the series. The mother of seven children does not have time or money for an eighth, and she finds time and money anyway, because the boy walking through her door at the start of *Chamber of Secrets* looks too thin and too watchful, and because that is the only response Molly's nervous system knows how to make.
 
-![Molly Weasley character analysis in Harry Potter series](/assets/images/blog/blog-40.webp)
+![Molly Weasley character analysis in Harry Potter series](/assets/images/blog/blog-28.webp)
 
 The temptation when writing about Molly is to treat her as the warm hearth and stop there. That reading is not wrong. It is incomplete. Rowling has built a far more uncomfortable character than the fandom usually acknowledges, a woman whose love is total and whose totality is itself the question. The series asks the reader to accept Molly as the gold standard of maternal devotion and then quietly shows her as a controller, a worrier whose worry sometimes manifests as suffocation, a woman whose entire self has been poured into the role of mother with no remainder. Her warmth is real. Her limits are also real. The two facts coexist, and Rowling does not always seem to know how unsettling the combination is.
 

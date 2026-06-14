@@ -6,7 +6,7 @@ date: 2023-06-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Character Analysis", "Close Reading", "American Literature"]
 excerpt: "Nick Carraway character analysis: the involved bystander who claims to observe but facilitates the affair, judges everyone, then retreats West when it ends."
-image: "/assets/images/blog/blog-86.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 47
 author: "megan-clark"
 last_updated: 2023-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 Every Nick Carraway character analysis has to settle one question before it can say anything else: is Nick a transparent window onto the lives of richer, louder people, or is he a full character with a stake in what he records? The reader meets him as a voice rather than a body, a careful Midwesterner who promises fairness and delivers a confession. He spends the summer of 1922 telling other people's secrets, yet the secret the book keeps circling back to is his own: that the man who insists he merely watched was the one who unlocked the door, drove the car of the plot forward, and judged everyone in it before he left for home.
 
-![Nick Carraway character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-86.webp)
+![Nick Carraway character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 This article reads Nick as a character in his own right rather than as a pane of glass. The argument it defends is that he is the involved bystander: a man who presents himself as an observer but works throughout as a facilitator and a judge, so that his whole character lives in the tension between the detachment he claims and the involvement he cannot avoid. To read him only as Fitzgerald's lens is to miss the most interesting person in the novel. The separate questions of whether his account can be trusted and whether he earns the title of moral center each deserve their own treatment, and this study sends you to the [debate over Nick as a reliable or unreliable narrator](/2023/06/12/nick-carraway-reliable-narrator/) and to the case for and against [Nick as the moral center of the novel](/2023/06/19/nick-carraway-moral-center/) for those facets. Here the task is the whole figure: who he is, what he wants, what he does, and what the doing makes of him.
 

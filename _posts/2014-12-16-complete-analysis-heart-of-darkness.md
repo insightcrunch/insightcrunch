@@ -9,14 +9,14 @@ categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "novel-analysis", "literary-analysis", "colonialism", "classic-literature"]
 author: "emily-reed"
 reading_time: 70
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-114.webp"
 lang: en
 ---
 Joseph Conrad's Heart of Darkness, published in 1899 as a three-part serial in Blackwood's Magazine and then as a single volume in 1902, has been read for more than a century through a lens that fundamentally misrepresents what Conrad wrote. The dominant classroom reading treats the narrative as a psychological allegory about the universal darkness lurking inside every human being, with the Congo River serving as atmospheric backdrop and Kurtz's descent serving as the exemplary case of civilization's thin veneer peeling away to reveal the savage beneath. That reading is structurally wrong. It mistakes the work's reception for its meaning, and the mistake has done substantial damage to the text's political force.
 
 <!--more-->
 
-![Heart of Darkness Analysis](/assets/images/blog/blog-79.webp)
+![Heart of Darkness Analysis](/assets/images/blog/blog-114.webp)
 
 What Conrad actually wrote in 1899 was a specific eyewitness report on a specific historical atrocity: Leopold II's Congo Free State, where rubber-quota enforcement between 1885 and 1908 killed approximately ten million Africans through forced labor, starvation, mutilation, and outright murder. Conrad himself had served as a steamboat captain on the Congo River in 1890, and what he witnessed during those months shaped every formal choice in the narrative, from the frame narrator's distance to Marlow's digressive telling to the suppression of specific place-names and dates. The psychological-allegory reading strips the narrative of its historical content and transforms a political indictment into a philosophical meditation, and the transformation serves precisely the kind of comfortable European self-regard that Conrad was writing against. This article recovers the historical-materialist reading that the reception has obscured, engages the Achebe critique that the reception has failed to integrate, and argues that holding both truths together is the narrative's actual intellectual demand.
 

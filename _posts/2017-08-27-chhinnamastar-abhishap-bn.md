@@ -6,7 +6,7 @@ date: 2017-08-27
 categories: ["Leisure"]
 tags: ["feluda", "chhinnamastar-abhishap", "satyajit-ray", "hazaribagh", "rationalism"]
 excerpt: "ছিন্নমস্তার অভিশাপ গল্পের সম্পূর্ণ বিশ্লেষণ। হাজারিবাগ পটভূমি, ছিন্নমস্তা মহাবিদ্যা, বাঙালি যুক্তিবাদী ঐতিহ্য, এবং বিশ্বাস বনাম প্রতারণার পার্থক্য।"
-image: "/assets/images/blog/blog-111.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 116
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-111.webp)
+![ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-65.webp)
 
 ## প্রকাশনার প্রসঙ্গ
 

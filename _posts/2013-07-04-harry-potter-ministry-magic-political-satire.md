@@ -6,7 +6,7 @@ date: 2013-07-04
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ministry of Magic", "Political Satire", "Bureaucracy"]
 excerpt: "The Ministry of Magic in Harry Potter decoded as political satire: how authoritarianism arrives through paperwork, memos, and bureaucratic inertia, not coups."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 56
 author: "claire-bennett"
 last_updated: 2013-07-04
@@ -16,7 +16,7 @@ lang: en
 
 When the wizarding government falls to Voldemort, no tanks roll into Diagon Alley. No mob storms the atrium. There is no dawn broadcast announcing that power has changed hands, no general on a balcony, no burning of the old constitution in a public square. The takeover is announced, instead, by a man stepping out of a fireplace at a wedding to say the Minister is dead. By the time the guests have processed the sentence, the regime has already changed. The offices are the same. The lifts still run. The memos still fly, folded into paper aeroplanes, between the same desks they flew between the week before. The only difference is whose name sits at the top of the letterhead, and even that is not announced loudly, because loudness would imply that something had happened, and the genius of the thing is that nothing visibly has.
 
-![The Ministry of Magic atrium as a study in bureaucratic political satire](/assets/images/blog/blog-55.webp)
+![The Ministry of Magic atrium as a study in bureaucratic political satire](/assets/images/blog/blog-103.webp)
 
 This is the argument the seven books make about how governments die, and it is far more frightening than the version most fantasy offers. Rowling's wizarding bureaucracy is not a cartoon despotism waiting for a hero to topple it. It is a recognisable modern state, complete with a press office, a court system, a regulatory apparatus, and a vast professional middle layer of clerks who process forms regardless of who signs them. The horror of the takeover is not that the institution is destroyed. It is that the institution does not need to be destroyed. It works perfectly well for tyranny because it worked imperfectly well for everything else, and the same procedural machinery that rubber-stamped a teenager's underage-magic hearing one year will rubber-stamp a campaign of racial registration the next. Democracies, the series quietly insists, do not fall with a revolution. They fall with a memo, and the memo is signed by the same official who signed last week's.
 

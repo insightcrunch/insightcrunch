@@ -6,7 +6,7 @@ date: 2015-10-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "All That Heaven Allows", "Douglas Sirk", "Melodrama", "Film Analysis", "Directors", "World Cinema"]
 excerpt: "All That Heaven Allows hides a sharp attack on 1950s conformity inside a glossy Technicolor weepie, the Sirkian method that turned melodrama into critique."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-10-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The directorial problem Douglas Sirk solved with All That Heaven Allows was how to say something subversive while appearing to say nothing at all. He had been handed a story Universal regarded as a reliable money machine: an upper-middle-class widow falls for her younger gardener, the town disapproves, hearts ache, tears fall, the box office fills. The studio wanted another hit in the mold of the previous year's earner. What Sirk delivered instead was a picture that uses every glossy surface, every saturated color, every sob-ready turn of plot to indict the comfortable world it pretends to celebrate. The achievement is not that he made a beautiful weepie. The achievement is that he weaponized the weepie, building a critique of conformity into the very form audiences came to for reassurance, and hiding it so well that most of his contemporaries never saw it.
 
-![How All That Heaven Allows hides a critique of 1950s conformity inside a glossy Technicolor melodrama, an analysis - Insight Crunch](/assets/images/blog/blog-26.webp)
+![How All That Heaven Allows hides a critique of 1950s conformity inside a glossy Technicolor melodrama, an analysis - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 That hiding is the whole story of Sirk's reputation. For more than a decade after release, serious critics filed him under the directors who made handsome trash for housewives, a craftsman of luxury tearjerkers with nothing on his mind. Then a generation of writers and filmmakers looked again and found that the sentiment was a disguise, that the lushness was ironic, that the apparently naive surfaces were doing precise critical work. The reappraisal turned a supposed hack into a touchstone for serious cinema, and it turned this particular picture, once dismissed as a glossy romance for a Christmas release, into one of the most analyzed melodramas ever made. To understand how that reversal happened, you have to read the film the way its admirers eventually learned to read it: not as a story about a widow and a gardener, but as a system of devices, each one delivering a charge against the society it appears to flatter.
 

@@ -6,7 +6,7 @@ date: 2017-06-05
 categories: ["Industry"]
 tags: ["dhurandhar", "bollywood", "ranveer-singh", "film-analysis", "counter-terrorism", "shadow-war"]
 excerpt: "The complete analysis of Dhurandhar, the three-act spy narrative, Ranveer Singh's career-defining turn, and why this film reshaped India's self-image."
-image: "/assets/images/blog/blog-96.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-06-05
@@ -16,7 +16,7 @@ Dhurandhar is not a film about counter-terrorism. It is a story about a country 
 
 <!--more-->
 
-![Dhurandhar Film Complete Analysis - Insight Crunch](/assets/images/blog/blog-96.webp)
+![Dhurandhar Film Complete Analysis - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 ## Dhurandhar's Three Act Architecture
 

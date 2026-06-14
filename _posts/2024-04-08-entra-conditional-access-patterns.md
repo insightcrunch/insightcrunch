@@ -6,7 +6,7 @@ date: 2024-04-08
 categories: ["Technology"]
 tags: ["Azure", "Microsoft Entra ID", "Conditional Access", "Security", "Identity", "Cloud Computing"]
 excerpt: "Conditional Access patterns give you a proven baseline of admin MFA, blocked legacy auth, device compliance, and risk-based step-up to assemble quickly."
-image: "/assets/images/blog/blog-111.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "david-thornton"
 last_updated: 2024-04-08
@@ -16,7 +16,7 @@ A tenant with no Conditional Access is a building with the doors propped open. E
 
 The exposure created by getting this wrong is not abstract. A tenant that enforces MFA in the portal but leaves IMAP and SMTP open has an MFA bypass sitting in plain sight, and credential-spray tooling finds it within hours. A tenant that builds twenty overlapping one-off policies ends up with users locked out of email at random and admins afraid to touch the policy list because nobody can predict what a change will break. The difference between a tenant that holds and a tenant that leaks is rarely a single clever control. It is whether the team assembled a small set of well-understood patterns or invented bespoke rules one incident at a time.
 
-![Entra Conditional Access patterns baseline catalog](/assets/images/blog/blog-111.webp)
+![Entra Conditional Access patterns baseline catalog](/assets/images/blog/blog-16.webp)
 
 This article is a working catalog. It defines each high-value pattern, shows the assignments, conditions, and controls that realize it, names the risk it mitigates, and explains how to layer the patterns so they reinforce rather than fight each other. By the end you should be able to stand up a defensible baseline from named, tested patterns instead of staring at a blank policy editor wondering where to begin.
 

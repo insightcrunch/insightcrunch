@@ -6,7 +6,7 @@ date: 2018-09-03
 categories: ["Industry"]
 tags: ["waziristan", "terror-zones", "dawood-malik", "al-qaeda", "tribal-areas"]
 excerpt: "Mapping North and South Waziristan, the most lawless tribal zones in Pakistan, where Dawood Malik was killed and al-Qaeda once rebuilt its operational base."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 74
 author: "nathan-cole"
 last_updated: 2018-09-03
@@ -16,7 +16,7 @@ Two adjacent districts in the far west of Pakistan have, for more than two decad
 
 <!--more-->
 
-![North and South Waziristan terror zones](/assets/images/blog/blog-39.webp)
+![North and South Waziristan terror zones](/assets/images/blog/blog-47.webp)
 
 This is the geography that defeats easy generalization. Urban sanctuaries such as Karachi or Lahore can be mapped by neighborhood, policed in theory, and reached by an assassin who dissolves into a crowd of millions. The Waziristan districts offer none of that cover. They are remote, thinly populated, ethnically homogenous, and bound by a social code that treats every stranger as either a guest to be protected or a danger to be watched. An outsider does not pass unnoticed in a Mehsud valley. A vehicle carrying the wrong number plate is remembered for weeks. The terrain that turns the area into a refuge for the hunted also makes it hostile to the hunter, which is why a single confirmed killing here reads less like a routine entry in a chronology and more like a statement about how far a campaign has matured.
 

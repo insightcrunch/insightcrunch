@@ -6,7 +6,7 @@ date: 2013-10-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sirius Black", "Remus Lupin", "Character Comparison"]
 excerpt: "Sirius vs Lupin in Harry Potter: two outcasts, two survival strategies. How rage and caution carried the last Marauders, and what each style cost them."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 41
 author: "claire-bennett"
 last_updated: 2013-10-13
@@ -16,7 +16,7 @@ lang: en
 
 The question is not which of these two men endured his exile more nobly. Both Sirius Black and Remus Lupin were cast out of ordinary life by forces they did not choose, and both spent twelve years in the wilderness while a child they would come to love grew up unaware they existed. The question worth asking is sharper and stranger than a contest of nobility: does the condition of being an outcast determine how a person survives it, or does the same exclusion leave room for radically different temperaments to take radically different roads? Place these two survivors side by side and the series offers its most sustained answer. One man rages at his cage and breaks it. The other learns the shape of his cage so thoroughly that he stops noticing the bars. Each strategy keeps its owner alive for a while. Each strategy, in the end, kills him.
 
-![Sirius Black and Remus Lupin comparison across the Harry Potter books](/assets/images/blog/blog-29.webp)
+![Sirius Black and Remus Lupin comparison across the Harry Potter books](/assets/images/blog/blog-92.webp)
 
 What makes the pairing so rich is that it removes nearly every variable except temperament. These were friends of the same age, schooled in the same dormitory, shaped by the same four-person fellowship, robbed of that fellowship in the same single night. They are, in the most literal narrative sense, two halves of one shattered group walking forward into the same ruined future. When the volatile one and the careful one emerge from the rubble of the first war and meet again in Harry's third year, the reader is handed a controlled experiment in adult survival. Hold the loss constant. Hold the generation constant. Hold the betrayal constant. Then watch what rage builds and what caution builds, and count the cost of each.
 

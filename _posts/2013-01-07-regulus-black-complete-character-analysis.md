@@ -6,7 +6,7 @@ date: 2013-01-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Regulus Black", "Slytherin", "Death Eaters", "Sacrifice"]
 excerpt: "Complete literary analysis of Regulus Black in Harry Potter - the Horcrux destroyer, the R.A.B. note, the brother contrast, and a martyrdom hidden in a cave."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 57
 author: "olivia-grant"
 last_updated: 2013-01-07
@@ -18,7 +18,7 @@ The most consequential heroic act in the entire Harry Potter series is never wit
 
 The boy's name is Regulus Arcturus Black. He is seventeen or eighteen years old. He dies alone.
 
-![Regulus Black character analysis in Harry Potter series](/assets/images/blog/blog-59.webp)
+![Regulus Black character analysis in Harry Potter series](/assets/images/blog/blog-93.webp)
 
 The structural genius of Rowling's choice to render this heroic act entirely offscreen is that it forces the reader to confront something the rest of the series carefully avoids: that the most consequential good in the wizarding world may not require an audience. Harry dies in the Forbidden Forest with witnesses watching from the trees. Dumbledore dies on the Astronomy Tower with Draco's wand raised and Snape's spell flying. Lily dies in front of her son, defending a cradle. Even Cedric, killed mid-sentence in a graveyard, dies with someone watching. The deaths the series invests with moral weight tend to occur in front of a person who can carry the meaning forward. The death in the cave is the exception, and the exception is structural. The youngest of the Black brothers dies in the dark, accompanied only by an elf the world has been trained to dismiss, and the universe of the books proceeds as if nothing has happened. Voldemort does not know. The Order does not know. The reader does not know until *Deathly Hallows*, when an embittered house-elf finally gives testimony fourteen years after the fact, and the meaning of the entire seventh book retroactively rearranges itself around an offscreen death no living person in the cast had registered.
 

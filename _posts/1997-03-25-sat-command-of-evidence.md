@@ -6,7 +6,7 @@ date: 1997-03-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Command of Evidence", "Data Interpretation", "Strategy"]
 excerpt: "SAT command of evidence explained: textual and quantitative support, a two-step method and the right-topic-wrong-claim trap, with worked examples both subtypes."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 59
 author: "christopher-wells"
 last_updated: 1997-03-25
@@ -14,7 +14,7 @@ lang: en
 ---
 A student reads a short passage about a historian's argument, glances at four answer choices, and picks the one that sounds the most like the passage. The choice is on topic. It uses the same vocabulary. It even repeats a phrase the author used. And it is wrong, because it supports a claim the question never asked about. That single habit, choosing the option that matches the subject rather than the option that matches the exact claim, costs more command of evidence points than any reading-comprehension weakness ever will.
 
-![SAT command of evidence textual and quantitative support worked examples - Insight Crunch](/assets/images/blog/blog-31.webp)
+![SAT command of evidence textual and quantitative support worked examples - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 This guide treats command of evidence as one skill wearing two costumes. The first costume is textual: you are handed a claim and asked which quotation, finding, or statement best supports or undercuts it. The second is quantitative: you are handed the same kind of claim and a table or graph, and asked which data point does the supporting or the undercutting. The verbal surface looks different. The underlying move is identical. Pin the claim down to its exact variable, group, and direction, then test every option against that pinned claim rather than against the general topic. The InsightCrunch two-step method that this article builds, define the claim precisely, then evaluate only for direct support, turns a question type that feels like a judgment call into something closer to arithmetic. Precision about the claim is the whole game, and precision can be drilled.
 

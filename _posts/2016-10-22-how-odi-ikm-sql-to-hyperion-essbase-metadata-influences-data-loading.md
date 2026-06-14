@@ -5,7 +5,7 @@ date: 2016-10-22
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "Oracle Data Integrator integrates with Essbase for metadata as well as data loading using different Knowledge Modules. Each of the KMs provides a range of..."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 4
 author: "robert-quinn"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Oracle Data Integrator integrates with Essbase for metadata as well as data loading using different Knowledge Modules. Each of the KMs provides a range of options for us to customize the loading as we want. The IKM SQL to Hyperion Essbase (METADATA) is usually the starting point when we begin our activities, since first we will load the metadata and get the outline ready, then we can load the actual data.
 
-![ODI IKM SQL to Hyperion Essbase (METADATA) Loading](/assets/images/blog/blog-15.webp)
+![ODI IKM SQL to Hyperion Essbase (METADATA) Loading](/assets/images/blog/blog-85.webp)
 ODI IKM SQL to Hyperion Essbase (METADATA) Loading
 
 The standard practice of the using the **IKM SQL to Hyperion Essbase (METADATA)** is to create an ODI interface for each dimension using this KM, and provide the values of the parameters in each of the interfaces as applicable. As observed below, we need to create a rule file for the different dimensions in Essbase and provide those rule file names as the value for the parameter RULES_FILE. In case we need the data to be loaded in a specific order, we can use the ORDER_BY clause accordingly.

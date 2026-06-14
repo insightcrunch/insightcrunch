@@ -6,7 +6,7 @@ date: 2023-07-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Daisy Buchanan", "Character Analysis", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "Daisy Buchanan and the voice full of money: how one phrase fuses her allure with her wealth, and why Gatsby never could tell love from class in the novel."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 47
 author: "sophia-turner"
 last_updated: 2023-07-10
@@ -16,7 +16,7 @@ Of all the ways Fitzgerald could have told us who Daisy Buchanan is, he chose he
 
 This article takes a single image, Gatsby's observation that Daisy's voice is full of money, and reads it for everything it carries. The wager is that one phrase, properly opened, holds the entire link between desire and wealth that the novel keeps circling. Gatsby loves a woman, yes, but the sound he loves is inseparable from the class that produced it, and the moment he names what he hears, he names a truth about his own longing he can never afford to face. To understand the line is to understand why his dream was doomed from the first note.
 
-![Daisy Buchanan and the voice full of money in The Great Gatsby](/assets/images/blog/blog-98.webp)
+![Daisy Buchanan and the voice full of money in The Great Gatsby](/assets/images/blog/blog-88.webp)
 
 ## Daisy Buchanan and the voice full of money: the line that names everything
 

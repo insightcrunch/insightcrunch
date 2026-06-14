@@ -6,7 +6,7 @@ date: 2022-11-28
 categories: ["Technology"]
 tags: ["Azure", "Private Endpoint", "Private Link", "DNS", "Troubleshooting", "Networking"]
 excerpt: "A private endpoint resolving to a public IP means one link in its DNS chain is missing. Trace and repair the whole Private DNS resolution path end to end."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 62
 author: "marcus-hall"
 last_updated: 2022-11-28
@@ -14,7 +14,7 @@ lang: en
 ---
 You created a private endpoint for your storage account, your SQL server, or your Key Vault, you disabled public network access, and now your application cannot reach the service at all, or worse, it reaches it over the internet path you thought you had closed. You run a name lookup from inside the virtual network and the answer comes back as a public IP address in the service's shared range rather than the endpoint IP you provisioned. This is the single most common failure with Private Link, and it is almost never a problem with the private endpoint itself. A private endpoint not resolving is a DNS problem: the network interface and the endpoint IP were created correctly, but nothing is telling clients to use that private IP instead of the service's public address. The endpoint is a parked car with no road sign pointing to it.
 
-![Fixing private endpoint DNS not resolving and repairing the Private DNS zone chain - Insight Crunch](/assets/images/blog/blog-31.webp)
+![Fixing private endpoint DNS not resolving and repairing the Private DNS zone chain - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The reason this trips up so many engineers is that the Azure portal lets you create a working private endpoint, complete with an approved connection and an allocated private IP, without ever creating the DNS records that make that IP reachable by name. The connection status reads "Approved," the endpoint IP shows up in the endpoint blade, and every signal in the resource view says success. Then the application tries to connect to `mystorageacct.blob.core.windows.net` or `mysql-server.database.windows.net`, the operating system asks DNS where that name lives, and DNS hands back the public IP because no one ever told it about the internal one. The fix is to trace the resolution chain link by link, find the one that is broken, and repair it. This article walks that chain from the client's name lookup all the way to the A record that should point at your private IP, names the distinct causes that break it, gives you the confirming command for each, and shows the prevention that stops the problem from recurring across every endpoint you build afterward.
 

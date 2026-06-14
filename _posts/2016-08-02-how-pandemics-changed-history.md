@@ -7,7 +7,7 @@ categories: ["Leisure"]
 tags: ["pandemics", "world-history", "black-death", "spanish-flu", "historical-analysis"]
 excerpt: "Pandemics are not interruptions of history. They are structural forces reshaping labor, faith, empire, and politics for generations after the last death."
 author: "rachel-foster"
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-89.webp"
 last_updated: 2016-08-02
 reading_time: 69
 lang: en
@@ -17,7 +17,7 @@ The standard narrative treats pandemics as tragic interruptions. A disease arriv
 <!--more-->
 
 
-![How Pandemics Changed History - Insight Crunch](/assets/images/blog/blog-59.webp)
+![How Pandemics Changed History - Insight Crunch](/assets/images/blog/blog-89.webp)
 ## The Analytical Framework: Pandemics as Primary Historical Forces
 
 The scholarly foundation for treating pandemics as primary historical forces rests on three landmark works whose combined analytical framework this article applies across six comparative cases. William McNeill's *Plagues and Peoples*, published in 1976, established the central argument: disease has operated as a fundamental shaping force in human civilization, not merely as a biological event occurring within political narratives. McNeill demonstrated that the patterns of disease transmission, immunity development, and demographic consequence follow identifiable structural dynamics that historians had systematically underweighted. His argument was not that disease explains everything but that disease explains far more than conventional political-military history acknowledges.

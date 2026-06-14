@@ -6,7 +6,7 @@ date: 2015-12-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "On the Waterfront", "Marlon Brando", "Elia Kazan", "Performances", "Film History", "World Cinema"]
 excerpt: "On the Waterfront made Brando's Method the new grammar of screen acting, while Kazan's HUAC testimony left the film's politics permanently compromised."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-12-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The problem any actor faces with Terry Malloy is that almost nothing he needs to convey can be spoken. Terry is a washed-up club fighter turned dock laborer, a man whose intelligence has never been trained and whose feelings have never been named, even to himself. He cannot deliver a monologue about his own ruin because he does not possess the vocabulary for it. So the performance that carries On the Waterfront, Elia Kazan's 1954 study of corruption on the Hoboken docks, had to find a way to make an inarticulate man legible without ever letting him become articulate. Marlon Brando solved that problem by relocating the entire transaction of screen acting, moving it off the tongue and into the body, the hesitation, the half-swallowed word, the hand that fidgets with a glove while the face refuses to settle. The single image the film leaves behind is two brothers in the back of a taxicab, one of them quietly realizing he has been sold, the other watching the realization arrive and unable to stop it. Nobody in that cab raises his voice. The devastation is total anyway.
 
-![On the Waterfront: Brando and the Method Break - Insight Crunch](/assets/images/blog/blog-62.webp)
+![On the Waterfront: Brando and the Method Break - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 That is the achievement this article will examine, and the claim it argues is narrow enough to be useful. Call it the interior break. Before Brando, mainstream screen acting in Hollywood was fundamentally an art of presentation, the performer showing the audience a clear, readable surface of emotion. Brando, working from the Method that Kazan had helped plant at the Actors Studio, treated the surface as something to withhold, so that the audience leaned in to read a man who was not performing his feelings but suffering them. On the Waterfront is the film where that approach stopped being an experiment and became the new default, the performance that made the older style look like posing. It is also, inseparably, a film made by men working out their own guilt in public, since Kazan and his screenwriter Budd Schulberg had both named former associates before the House Un-American Activities Committee, and the movie's celebration of the man who informs is bound to that fact. The honest account holds both truths at once. The acting changed cinema. The politics remain compromised. Neither cancels the other, and pretending otherwise is the easy way out of a hard film.
 

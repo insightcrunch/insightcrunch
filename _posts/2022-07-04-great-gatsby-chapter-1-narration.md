@@ -6,7 +6,7 @@ date: 2022-07-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 1", "Nick Carraway", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Great Gatsby Chapter 1 narration installs Nick as narrator, and his honesty claim, reserved judgment, and quick verdicts put his reliability in doubt."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 47
 author: "chloe-martin"
 last_updated: 2022-07-04
@@ -14,7 +14,7 @@ lang: en
 ---
 The Great Gatsby Chapter 1 narration is the most important work the novel does before its plot ever starts, because everything a reader will later believe about Jay Gatsby, Daisy, Tom, and the summer of 1922 arrives filtered through a single voice that the first three pages quietly put on trial. Most readers race past those pages to reach the mansion, the parties, and the green light, treating the opening as throat-clearing before the real book begins. That is a mistake. Fitzgerald spends his first pages building the instrument through which the entire story will be told, and he builds it with a flaw stitched in on purpose. Nick Carraway announces a code of tolerance and then breaks it inside the same breath, calls himself honest while admitting he is about to make an exception, and positions himself as both a man inside the action and a man hovering above it. Read closely, the opening is not a neutral window onto events. It is the careful installation of a witness whose testimony the reader is invited to question from the first sentence.
 
-![Nick Carraway's narration setup in The Great Gatsby Chapter 1 explained - Insight Crunch](/assets/images/blog/blog-25.webp)
+![Nick Carraway's narration setup in The Great Gatsby Chapter 1 explained - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 This article isolates one thing and reads it hard: how the narration gets built in Chapter 1. It is the companion piece to our full [Chapter 1 summary and analysis](/2022/06/27/great-gatsby-chapter-1-analysis/), which walks the whole chapter scene by scene. Here the focus stays on the voice itself, on the moment a reader stops hearing Fitzgerald and starts hearing Nick, and on the precise textual signals that should keep a careful reader alert rather than trusting. The full argument over whether that witness can finally be believed lives in our study of [Nick as a reliable or unreliable narrator](/2023/06/12/nick-carraway-reliable-narrator/); this piece owns only the setup, the trap door Fitzgerald cuts in the floor of the first chapter and leaves open under everything that follows.
 

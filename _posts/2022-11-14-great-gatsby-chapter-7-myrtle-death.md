@@ -6,7 +6,7 @@ date: 2022-11-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 7", "Myrtle Wilson", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Great Gatsby Chapter 7: Myrtle's death, decoded. Who drove the yellow car, why Myrtle ran into the road, and how a careless act becomes Gatsby's blame."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 48
 author: "rachel-foster"
 last_updated: 2022-11-14
@@ -14,7 +14,7 @@ lang: en
 ---
 Everyone remembers that someone dies on the road home from the Plaza, and almost everyone remembers it wrong. Great Gatsby Chapter 7: Myrtle's death is the moment the novel converts a long, sweltering argument about love into a body in the dust, and the way Fitzgerald stages it makes misremembering almost inevitable. Ask a roomful of readers who was driving the car that killed Myrtle Wilson and a confident majority will say Gatsby. The text says otherwise, and the gap between what the chapter records and what readers carry away is itself one of the novel's sharpest instruments. This is the scene where carelessness stops being a personality trait and starts producing corpses.
 
-![The Great Gatsby Chapter 7 analysis](/assets/images/blog/blog-70.webp)
+![The Great Gatsby Chapter 7 analysis](/assets/images/blog/blog-103.webp)
 
 The death happens off the page of any single character's full knowledge. Nick is not in the yellow car. The reader learns the collision through a Greek coffee-shop owner named Michaelis, then through Tom's furious arrival at the garage, then, hours later, through Gatsby's quiet confession in the moonlight. Three partial accounts, no omniscient witness, and a crowd of bystanders already mangling the facts before the police finish writing names in a notebook. The scene is built like the aftermath of a real accident, where the truth has to be assembled from contradictory fragments. Reading it well means doing what the characters mostly fail to do: keeping the established facts separate from the rumors, the beliefs, and the lies. That separation is the work of this article.
 

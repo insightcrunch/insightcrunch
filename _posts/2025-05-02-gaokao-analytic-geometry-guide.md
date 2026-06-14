@@ -6,14 +6,14 @@ date: 2025-05-02
 categories: ["Industry"]
 tags: ["高考", "解析几何", "圆锥曲线", "Analytic Geometry", "Conic Sections"]
 excerpt: "解析几何是高考数学最令人畏惧的压轴板块,本指南从直线、圆到椭圆双曲线抛物线逐块讲透,系统拆解圆锥曲线的定义与性质、直线与曲线联立、韦达定理、弦长中点弦、定点定值、最值范围与轨迹切线等核心题型,并给出压轴题的标准解题流程、各分数段提分策略与不同考生群体的针对性建议,帮你把这道最难的大题变成稳定得分点。"
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 65
 author: "liu-jian"
 lang: zh
 ---
 在所有高考数学的板块里,解析几何大概是最容易让人心里发怵的一块。很多同学一翻到那道压在试卷靠后位置的圆锥曲线大题,光是看到满屏的字母、坐标和方程,手就先软了一半。它的计算量大、步骤长、容易在中途某一步算错,而一旦中间出错,后面所有的努力往往跟着白费。正因为如此,解析几何在不少考生心目中被贴上了"玄学""碰运气"的标签。但事实恰恰相反:解析几何是整张数学卷里逻辑最清晰、套路最固定的板块之一。只要你愿意把那套标准流程练到熟,把每一种圆锥曲线的性质记牢,把韦达定理这一核心工具用顺,你完全可以把这道令人头疼的大题变成稳定的得分点。这篇指南要做的,就是把解析几何从头到尾拆开,讲清楚每一块知识、每一类题型、每一步该怎么走。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-20.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-91.webp)
 *高考解析几何:椭圆、双曲线、抛物线与圆锥曲线压轴题的系统攻略*
 
 ## 解析几何在高考数学中的地位与分值

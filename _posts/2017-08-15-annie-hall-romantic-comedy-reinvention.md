@@ -6,7 +6,7 @@ date: 2017-08-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Annie Hall", "Woody Allen", "Romantic Comedy", "Screenwriting", "New Hollywood"]
 excerpt: "Annie Hall reinvented the romantic comedy through fractured structure, direct address, and a love story told as a rueful essay about memory and failed love."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 62
 author: "amanda-ross"
 last_updated: 2017-08-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Most romantic comedies move forward. They introduce two people, place an obstacle between them, and march toward the embrace or the wedding that resolves the tension. Annie Hall (1977) does almost none of this. Woody Allen's film opens with a man standing alone against a plain background, talking to the camera, telling us at the outset that the relationship is already over. The story we are about to watch has no suspense about its ending, because the ending has been handed to us in the first two minutes. What remains is not the question of whether Alvy Singer and Annie will stay together but the far stranger question of why a man would assemble the wreckage of a love affair into a shape, turn it over, and address it directly to us. That single decision, to build a comedy out of fragments narrated by a man trying to understand a loss, is the structural move that reinvented the genre.
 
-![How Annie Hall reinvented the romantic comedy through fractured structure and direct address, an analysis - Insight Crunch](/assets/images/blog/blog-84.webp)
+![How Annie Hall reinvented the romantic comedy through fractured structure and direct address, an analysis - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 The reinvention is easy to feel and harder to describe, which is precisely why the movie rewards a structural reading. Audiences in 1977 sensed that something had shifted in what a love story on screen could do, and the Academy agreed, handing the picture the Oscars for Best Picture, Best Director, Best Original Screenplay, and Best Actress, four of the five major categories, in a year when Star Wars dominated the box office and the cultural conversation. The wins are part of the story, but they are the symptom, not the cause. The cause is a screenplay, written by Allen and Marshall Brickman, that refuses the engine of the conventional romance and replaces it with the engine of memory. To read Annie Hall as a structure is to watch a genre learn that it could think.
 

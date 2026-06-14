@@ -6,7 +6,7 @@ date: 2022-12-05
 categories: ["Technology"]
 tags: ["Azure", "Load Balancer", "Health Probe", "Networking", "Troubleshooting", "NSG"]
 excerpt: "An Azure Load Balancer probe failing and marking a backend unhealthy has five root causes. Learn which one is yours, how to confirm it, and the exact fix."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 65
 author: "robert-quinn"
 last_updated: 2022-12-05
@@ -14,7 +14,7 @@ lang: en
 ---
 An Azure Load Balancer probe failing is one of the most common reasons a healthy looking application stops serving traffic, and it is also one of the most misdiagnosed. The instance is running. The service is up. You can sign in and watch it respond on the box itself. Yet the portal insists the backend is unhealthy, the load balancer has pulled the instance out of rotation, and every request now lands on a different instance or, when every instance fails the same way, on nothing at all. The instinct is to blame the load balancer, recreate it, or open a support case about a routing fault. That instinct is almost always wrong. The load balancer is doing exactly what it was built to do, which is route only to instances whose probe succeeds, and a backend marked down is a health check that cannot reach a healthy response, not a load balancer that has misbehaved.
 
-![Fixing Azure Load Balancer health probe failures and unhealthy backends - Insight Crunch](/assets/images/blog/blog-47.webp)
+![Fixing Azure Load Balancer health probe failures and unhealthy backends - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 This article diagnoses the failing probe to its root cause and gives you the confirming test and the tested fix for each. By the end you will be able to look at an unhealthy backend, read the one signal Azure exposes that names the cause, and decide in a few minutes whether the check is hitting a blocked source range, a port nothing listens on, a path that returns the wrong status, the wrong protocol entirely, or a health endpoint that has tied its own fate to a downstream dependency that is down. Each of those is a distinct failure with a distinct repair, and the difference between a frustrating afternoon and a five minute correction is knowing which one you have and how to confirm it before you change anything.
 

@@ -6,7 +6,7 @@ date: 2011-02-12
 categories: ["Leisure"]
 tags: ["shakespeare", "othello", "bianca", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Analysis of Bianca in Othello - her love for Cassio, her role in the handkerchief plot, and her thematic mirroring of the other women in the tragedy."
-image: "/assets/images/blog/blog-97.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 59
 author: "olivia-grant"
 last_updated: 2026-04-19
@@ -14,7 +14,7 @@ lang: en
 ---
 She is the Cypriot courtesan whose genuine affection for Cassio provides the personal connection that his military posting has produced, who appears in the fourth act when Cassio gives her the handkerchief he has found in his lodging and asks her to copy the embroidery pattern, who returns to Cassio in the subsequent scene to confront him about the fabric because she suspects it belongs to another woman and throws it back to him in the conversation that Othello overhears from his concealed standing, whose public display of the fabric provides the visual confirmation that seals Othello's certainty about the supposed affair between Cassio and Desdemona, who appears again after the fifth act attack to find her wounded lover in the street and to be accused by Iago of complicity in the violence based on nothing more than her vocation, who is ordered away under suspicion despite her evident distress at finding Cassio wounded, and whose brief appearances across these scenes make her one of the most concentrated treatments of how profession shapes the presumption of character in the canon. The trajectory from devoted lover to suspected accomplice reveals the precise mechanism through which societal prejudice converts the same behavior into different meanings depending on the station of the person who performs it.
 
-![Bianca Character Analysis - The Courtesan in Shakespeare's Othello](/assets/images/blog/blog-97.webp)
+![Bianca Character Analysis - The Courtesan in Shakespeare's Othello](/assets/images/blog/blog-87.webp)
 
 <!--more-->
 

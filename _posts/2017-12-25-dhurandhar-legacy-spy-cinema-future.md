@@ -6,7 +6,7 @@ date: 2017-12-25
 categories: ["Industry"]
 tags: ["dhurandhar", "legacy", "spy-cinema", "bollywood", "future", "national-security"]
 excerpt: "How the Dhurandhar duology permanently changed Bollywood's relationship with India's national security state, and three possible futures for spy cinema."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-12-25
@@ -16,7 +16,7 @@ Dhurandhar did not merely succeed at the box office. It rewired the circuitry co
 
 <!--more-->
 
-![Dhurandhar Legacy and Spy Cinema Future - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Dhurandhar Legacy and Spy Cinema Future - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 ## The Film's Version
 

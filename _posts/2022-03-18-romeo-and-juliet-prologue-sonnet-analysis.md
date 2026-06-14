@@ -6,7 +6,7 @@ date: 2022-03-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "prologue", "sonnet", "romeo-and-juliet-prologue"]
 excerpt: "Romeo and Juliet opens with a Chorus sonnet that gives away the ending in fourteen lines, a bold formal move that frames the whole play as fated theatre."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2022-03-18
@@ -14,7 +14,7 @@ lang: en
 ---
 A single voice walks out onto a bare platform stage, and before any character has spoken, before the servants have drawn their swords, before the boy from the Montague house has even been named, that voice tells the audience exactly how the story ends. The pair of lovers will die. Their deaths will be the price that finally buries the family quarrel. Fourteen lines later the speaker withdraws, the action begins, and an audience that now knows the destination is asked to watch the journey anyway. This is the most studied opening in English drama, and it is also the strangest, because a playwright who wanted to keep his audience guessing would never have written it.
 
-![Romeo and Juliet Prologue Chorus sonnet close reading line by line - Insight Crunch](/assets/images/blog/blog-44.webp)
+![Romeo and Juliet Prologue Chorus sonnet close reading line by line - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 What the standard account misses is that these fourteen lines are not a summary bolted onto the front of the tragedy. They are a complete Shakespearean sonnet, built with the same architecture that governs the love poetry of the period, and that form is doing structural work. The Chorus does not merely tell the audience what happens. It tells them, in the most artificial verse shape available to an Elizabethan poet, that the play they are about to watch is obsessed with form, with patterning, with the collision between the shapeliness of art and the messiness of feeling and accident. The spoiler is the argument. Read closely, the Prologue announces a self-conscious, experimental tragedy disguised as a famous romance, and it does so in the exact poetic mode the play will go on to dismantle.
 

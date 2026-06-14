@@ -6,7 +6,7 @@ date: 2022-10-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 5", "Close Reading", "Jay Gatsby", "Daisy Buchanan", "American Literature"]
 excerpt: "The Great Gatsby Chapter 5 shirts scene read closely: why Gatsby throws his imported shirts, why Daisy weeps, and what her unreadable tears truly mean."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 47
 author: "diana-patel"
 last_updated: 2022-10-03
@@ -18,7 +18,7 @@ The Great Gatsby Chapter 5 shirts scene is the moment readers carry out of the n
 
 This article reads the shirts scene closely: what literally happens, how it is staged, what the shirts mean to the man throwing them and to the woman crying into them, and why the tears refuse to settle into a single explanation. The shirts as a standalone object carry meanings that ripple across the whole novel, and those are tracked in the dedicated [analysis of Gatsby's shirts as a symbol](/2025/07/28/gatsby-shirts-symbol/); here the focus is the scene itself, the live moment in Chapter 5 where the gesture happens and the crying begins. If you want the full chapter that surrounds it, the reunion, the tour, the rain clearing, that is laid out in the [Chapter 5 summary and analysis](/2022/09/19/great-gatsby-chapter-5-analysis/).
 
-![The Great Gatsby Chapter 5 shirts scene analysis](/assets/images/blog/blog-93.webp)
+![The Great Gatsby Chapter 5 shirts scene analysis](/assets/images/blog/blog-34.webp)
 
 ## Where the Shirts Scene Sits in Chapter 5
 

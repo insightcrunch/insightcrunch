@@ -6,7 +6,7 @@ date: 2012-07-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Severus Snape", "Slytherin", "Double Agent"]
 excerpt: "Deep literary analysis of Severus Snape across all seven Harry Potter books - obsessive love, calculated cruelty, hidden courage, and a tragic double life."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 57
 author: "megan-clark"
 last_updated: 2012-07-07
@@ -16,7 +16,7 @@ lang: en
 
 There is a moment late in *Harry Potter and the Deathly Hallows* when everything the reader thought they understood about Severus Snape collapses, reassembles, and refuses to settle into anything as tidy as redemption. It is not a twist in the conventional sense. Rowling does not simply reveal that the sneering Potions master was secretly good. She reveals something darker and more demanding: that the man who tormented children for nineteen years had been living inside a grief so total it had hollowed out everything except a single promise made to a dead woman. The brilliance of "The Prince's Tale" is that it does not soften what came before. It explains it without absolving it.
 
-![Severus Snape character analysis across all Harry Potter books](/assets/images/blog/blog-07.webp)
+![Severus Snape character analysis across all Harry Potter books](/assets/images/blog/blog-73.webp)
 
 No character in the series has generated more debate, more passionate defence, more furious criticism, or more genuine philosophical disagreement than this hook-nosed Potions teacher. He occupies a position in modern literature that few characters occupy honestly. He is simultaneously a bully and a hero, a bigot and a lover, a murderer and a protector, a man who saved Harry's life dozens of times and who told a child that he saw no difference when her teeth had been hexed to grow past her chest. To analyse this figure is to confront the most uncomfortable question Rowling poses across seven books. Can a person be genuinely cruel and genuinely noble at the same time? Not in sequence, not as a villain who reforms, but simultaneously, in the same breath, from the same source.
 

@@ -6,7 +6,7 @@ date: 2017-05-15
 categories: ["Leisure"]
 tags: ["feluda", "badshahi-angti", "satyajit-ray", "lucknow", "bonobihari-babu"]
 excerpt: "বাদশাহী আংটির সম্পূর্ণ বিশ্লেষণ। ফেলুদার দ্বিতীয় গল্প, লখনউ পটভূমি, বনবিহারী বাবু চরিত্র, মুঘল ঐতিহ্য, এবং ক্ষতি ও প্রবাসের থিম।"
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 126
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![বাদশাহী আংটি: লখনউ ও বনবিহারী বাবু - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-11.webp)
+![বাদশাহী আংটি: লখনউ ও বনবিহারী বাবু - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-40.webp)
 
 ## ১৯৬৬ সালের সন্দেশ পত্রিকা: প্রকাশনার প্রসঙ্গ
 

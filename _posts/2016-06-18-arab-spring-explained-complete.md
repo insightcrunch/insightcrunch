@@ -6,7 +6,7 @@ date: 2016-06-18
 categories: ["Leisure"]
 tags: ["arab-spring", "middle-east", "revolution", "tunisia", "egypt", "world-history"]
 excerpt: "The Arab Spring produced radically different outcomes in each country. Only Tunisia completed democratic transition while most faced war or repression."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2016-06-18
@@ -16,7 +16,7 @@ The Arab Spring was a series of anti-government uprisings that swept across the 
 
 <!--more-->
 
-![The Arab Spring Explained - Insight Crunch](/assets/images/blog/blog-60.webp)
+![The Arab Spring Explained - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 What happened between December 2010 and the end of 2012 remains staggering in scale. Protests erupted in Tunisia, Egypt, Libya, Syria, Yemen, Bahrain, Jordan, Morocco, Algeria, Oman, Iraq, and several other states. Four heads of state were overthrown within fourteen months. Two countries plunged into civil wars that continue, in different forms, to this day. The combined death toll across all affected countries has exceeded one million people. The refugee crisis produced by the Syrian war alone displaced more than thirteen million people and reshaped European politics in ways whose consequences are still unfolding. To understand the Arab Spring requires moving beyond the compressed narrative of hopes and failures toward a structural analysis of why the same revolutionary impulse produced such fundamentally different results in different national contexts. Marc Lynch, whose 2012 work The Arab Uprising remains one of the foundational scholarly treatments, argues that the uprisings shared a common catalyst but operated within profoundly different institutional environments. Asef Bayat, in his 2017 Revolution without Revolutionaries, goes further, arguing that the Arab Spring represented a new type of revolutionary phenomenon altogether, one characterized by mass mobilization without the ideological frameworks that had organized earlier revolutions. Both scholars converge on the central insight that structures, not sentiments, determined outcomes.
 

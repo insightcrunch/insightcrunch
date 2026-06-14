@@ -6,7 +6,7 @@ date: 2007-08-17
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "executive-orders", "executive-power", "presidential-directives"]
 excerpt: "FDR signed 3,721 executive orders. Washington signed 8. The raw count misleads us badly. Here is what 230 years of presidential directives actually mean."
-image: "/assets/images/blog/blog-56.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 62
 author: "chloe-martin"
 last_updated: 2026-05-29
@@ -16,7 +16,7 @@ Franklin Roosevelt signed 3,721 of them across twelve years and one month. Georg
 
 The counts that fill comparative tables on civics websites and partisan op-eds are misleading in three specific ways that together undermine almost every confident claim built on them. Pre-1907 directives were not systematically numbered or even reliably preserved, so Washington's eight and Jefferson's four reflect counting conventions rather than the actual volume of formal instructions those administrations issued to the federal apparatus. Post-1945 delegations to agencies mean modern presidents accomplish through Cabinet-department rulemaking, national security memoranda, and signing statements what earlier presidents accomplished by direct order, so a falling raw count does not signal falling unilateral authority. And the scope of any individual directive varies so enormously, from a routine reassignment of office space to the internment of 120,000 Japanese Americans, that aggregating by count alone is closer to weighing battleships by their hull numbers than by their displacement.
 
-![Executive orders count per president pattern analysis from Washington through Clinton - Insight Crunch](/assets/images/blog/blog-56.webp)
+![Executive orders count per president pattern analysis from Washington through Clinton - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 What follows is the count itself, president by president from Washington through Clinton, accompanied by the context the count requires. The argument is that the substantive transformation of the directive instrument across 230 years is real, sweeping, and irreversible, but the case for it cannot rest on the bare numbers. It has to rest on what specific directives accomplished, when, and against what background of constitutional understanding. The path runs through Lincoln's wartime expansions, Theodore Roosevelt's institutional formalization, Wilson's wartime mobilization machinery, Franklin Roosevelt's Depression and Second World War apparatus, Truman's confrontation with the Supreme Court at the steel mills, Eisenhower's federalization of state troops at Little Rock, Kennedy's creation of the Peace Corps by directive alone, Johnson's affirmative action requirements, Nixon's reorganization of the Executive Office, Reagan's cost-benefit review apparatus, and Clinton's environmental-justice mandates. Each step looks routine in its own decade and impossible in earlier ones.
 

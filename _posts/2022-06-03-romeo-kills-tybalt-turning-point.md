@@ -6,7 +6,7 @@ date: 2022-06-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "tybalt", "turning-point", "romeo-kills-tybalt"]
 excerpt: "Romeo kills Tybalt at the exact midpoint of Romeo and Juliet, and that single furious choice is the hinge where the comedy collapses into the tragedy."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
 author: "chloe-martin"
 last_updated: 2022-06-03
@@ -14,7 +14,7 @@ lang: en
 ---
 A man stands in a public square holding a sword he did not want to draw, having just run a kinsman of the Prince through the body, and he says four words that change the genre of the play around him: "O, I am fortune's fool." The cry comes near the close of Act 3 Scene 1, in the Arden third series numbering at line 135, and it marks the precise instant when a comedy of young desire becomes a tragedy of consequence. Everything before that square is courtship, wit, and the expectation of a wedding. Everything after it is exile, poison, and two corpses in a tomb.
 
-![Romeo kills Tybalt Act 3 Scene 1 turning point close reading - Insight Crunch](/assets/images/blog/blog-59.webp)
+![Romeo kills Tybalt Act 3 Scene 1 turning point close reading - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The popular memory of Shakespeare's Verona keeps the balcony and forgets the blade. School posters, greeting cards, and film trailers reproduce the moonlit vows and quietly drop the fact that the center of this drama is a double killing carried out by its hero in the street at noon. The standard account treats the slaying of Juliet's cousin as a regrettable plot complication, a speed bump on the road to the crypt. This article argues the opposite. The death of Tybalt at the new bridegroom's hand is not a complication inside the story. It is the structural and moral pivot on which the whole design balances, the moment the play stops obeying the laws of one kind of drama and begins obeying the laws of another. Read closely, the killing tells us what kind of tragedy this is, how much of the catastrophe is chosen and how much is driven, and why the romance image of the work is not merely incomplete but actively misleading. Restore the killing to the center and the engine of the tragedy starts to turn again.
 

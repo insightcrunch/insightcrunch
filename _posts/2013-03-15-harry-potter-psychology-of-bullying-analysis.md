@@ -6,7 +6,7 @@ date: 2013-03-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Bullying", "Dolores Umbridge", "Power", "Cruelty"]
 excerpt: "Bullying in Harry Potter scales from Dudley's fists to Umbridge's blood quill, one mechanism running from the schoolyard to the Ministry of Magic itself."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 57
 author: "emily-reed"
 last_updated: 2013-03-15
@@ -16,7 +16,7 @@ lang: en
 
 Watch closely the first time anyone is cruel to Harry Potter, and you will have watched, in miniature, the whole moral architecture of the series. A fat boy raises a fist over a smaller boy who sleeps in a cupboard. The fat boy does not strike because the smaller boy has done anything. He strikes because the smaller boy is small, is parentless, is fed last and clothed worst, is the household's designated nothing. The cruelty has a target, and the target is a fact the victim cannot alter. You cannot un-orphan yourself. You cannot un-poor yourself overnight. You cannot, by any act of will, stop being the thing the bully has decided you are.
 
-![Bullying in Harry Potter analyzed from playground to Ministry](/assets/images/blog/blog-23.webp)
+![Bullying in Harry Potter analyzed from playground to Ministry](/assets/images/blog/blog-84.webp)
 
 Hold that mechanism in your mind, because it never changes. Five books later, a government official in a pink cardigan will press an enchanted quill into the hand of a fifteen-year-old and make him carve sentences into his own skin. She will not torture him because he has lied. She will torture him because he has told a truth she has decided is forbidden, and because she can. The scale has changed beyond recognition. The mechanism has not changed at all. The bully locates what the victim cannot escape, names it the reason for the pain, and recruits whatever power is available to make the pain stick.
 

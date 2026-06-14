@@ -6,7 +6,7 @@ date: 2014-06-19
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "political-allegory", "russian-revolution", "soviet-history", "classic-literature"]
 excerpt: "Animal Farm's political allegory maps chapter by chapter onto 1917-1943 Soviet history, and the specific correspondences still reward careful tracing."
-image: "/assets/images/blog/blog-74.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 98
 author: "sophia-turner"
 last_updated: 2014-06-19
@@ -16,7 +16,7 @@ George Orwell drafted Animal Farm during the Second World War with a specific hi
 
 <!--more-->
 
-![Animal Farm political allegory chapter by chapter Soviet history](/assets/images/blog/blog-74.webp)
+![Animal Farm political allegory chapter by chapter Soviet history](/assets/images/blog/blog-66.webp)
 
 The novel's chapters map onto twentieth-century Soviet events with a precision that rewards detailed tracing. Old Major's barn speech in the opening section articulates the principles of Animalism in terms close enough to The Communist Manifesto that any reader familiar with Marx and Engels can recognize the source. The Rebellion that follows reproduces the rhythm of October 1917 down to the drunken negligence of the deposed master. The dog-pack expulsion of Snowball stages Trotsky's 1929 deportation from the Soviet Union. The animal confessions and executions that fill the seventh chapter capture the Moscow show trials of 1936 to 1938 with a fidelity that the surviving NKVD documents have only confirmed since the post-1991 archival opening. The dinner between pigs and humans in the closing chapter records the 1943 Tehran Conference, at which Stalin met Churchill and Roosevelt as a co-equal great-power leader, confirming in person what Orwell had been arguing throughout the war about the convergence of the Soviet leadership with its capitalist allies.
 

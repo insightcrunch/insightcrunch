@@ -7,7 +7,7 @@ slug: "one-term-presidents-pattern-since-1900"
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "one-term-presidents", "second-mandate-loss", "political-coalitions"]
 excerpt: "Four single-mandate U.S. presidents since 1900 lost reelection. Each defeat tracked the same four-stage pattern: rupture, crisis, challenger, defection."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 72
 author: "diana-patel"
 last_updated: 2026-05-25
@@ -17,7 +17,7 @@ lang: en
 
 Since 1900, these sitting American presidents have lost their reelection bids in a standard two-term-eligible context. William Howard Taft in 1912. Herbert Hoover in 1932. Jimmy Carter in 1980. George Bush Sr. in 1992. These four cases span 112 years and very different men, distinct decades, fiscal environments ranging from a mild Edwardian downturn to the Great Depression to stagflation to a moderate post-Gulf-War contraction. Place those defeats side by side and the natural assumption is that they happened for reasons specific to each presidency: a personal feud with Theodore Roosevelt, the catastrophe of 1929, the Iran hostage crisis, a broken tax pledge. The narratives feel idiosyncratic. The men felt idiosyncratic.
 
-![Single-mandate presidents the-stage diagnostic of defeat Taft Hoover Carter Bush Sr - Insight Crunch](/assets/images/blog/blog-57.webp)
+![Single-mandate presidents the-stage diagnostic of defeat Taft Hoover Carter Bush Sr - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 They were not. Lay the defeats on a single grid and the same structural sequence appears in every case, in the same order, with the same elements. A coalition base begins fracturing in year two or three of the first term, usually because the incumbent has betrayed his ideological base on a signature issue. A financial shock or sustained downturn arrives in the third or fourth year, depressing the consumer mood that drives retrospective voting. A within-faction challenger or insurgent candidate materializes during the second-term year, drawing oxygen and donors and giving aggrieved partisans somewhere to defect. The general election then registers the crossover through an insurgent vote share, an independent-voter swing, or simply a turnout collapse among the base the incumbent has alienated. The cases share these factors. Sixteen cells. Sixteen matches. This article walks through the matrix, names it, defends it against the strongest objections, and argues that the model is more than coincidence: it is the diagnostic that predicts every modern second-mandate defeat and that explains why incumbents who survived their second-term year (Wilson, Coolidge, FDR, Eisenhower, Nixon, Reagan, Clinton) had each broken at least one of the stages.
 

@@ -6,7 +6,7 @@ date: 2022-06-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Misreadings", "Close Reading", "Themes", "Literary Criticism", "American Literature"]
 excerpt: "The most common misreadings of The Great Gatsby, from the love-story myth to the trusted narrator, corrected against what the book actually shows on the page."
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2022-06-20
@@ -14,7 +14,7 @@ lang: en
 ---
 The Great Gatsby is one of the most assigned and most misread books in the American classroom, and the gap between those two facts is where most weak essays are born. A student finishes the final page, carries away an impression that feels obvious, and writes the impression down as if it were the argument. The trouble is that the impression is usually a trap the book set on purpose. Fitzgerald built a story that feels like a doomed romance, narrated by a man who insists he is honest, populated by characters who invite a single quick verdict, so the surface reading and the supported reading point in opposite directions. This guide is a corrective. It collects the errors readers and students carry into their essays, the assumptions the text does not actually license, and it sets each one beside the passage that corrects it, so you can clear the mistakes before they harden into a thesis you cannot defend.
 
-![The Great Gatsby misreadings corrected](/assets/images/blog/blog-73.webp)
+![The Great Gatsby misreadings corrected](/assets/images/blog/blog-50.webp)
 
 The value here is not a list of opinions about how the book should feel. It is a method. Each correction below moves the same way: name the comfortable reading, return to the page, and show where the text refuses to support what the reading assumes. None of this requires inventing a clever new interpretation. It requires reading what is already there with the surface glamour turned down. By the end you will have a working table of the errors and their fixes, a name for the deepest of them, and a clear sense of where reasonable readers still disagree and where they have simply stopped reading carefully.
 

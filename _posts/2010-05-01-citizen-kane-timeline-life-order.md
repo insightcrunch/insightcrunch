@@ -6,7 +6,7 @@ date: 2010-05-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Charles Foster Kane", "Close Reading", "Themes", "Symbolism", "Film History"]
 excerpt: "A complete Citizen Kane timeline placing Kane's life in order, from the Colorado snow to Xanadu, read as analysis with on-screen evidence and narrators."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 61
 author: "amanda-ross"
 last_updated: 2010-05-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The single most common thing a viewer wants after watching Orson Welles's 1941 picture is a clean Citizen Kane timeline: the life of Charles Foster Kane laid out from birth to death, in the order it actually happened rather than the order the film throws at you. That desire is reasonable, because the film withholds chronology on purpose. It opens with a dying man, jumps to a fake newsreel obituary, then scatters the rest of his life across five remembered accounts that double back, overlap, and leave gaps. Reassembling that scattered material into a straight line is the first thing a serious student of the film should do, and it is also the first thing the film quietly dares you to notice it has hidden.
 
-![Citizen Kane timeline of Charles Foster Kane's life in chronological order explained - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Citizen Kane timeline of Charles Foster Kane's life in chronological order explained - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 This guide gives you that straight line, and then does the thing a recap site never does: it reads the line. Putting Kane's life in order is useful, but the order is not the destination. The destination is what you see once the events sit end to end, because the moment you straighten the chronology you discover something the scrambled telling conceals. Kane's life begins in snow and ends in snow. It begins with a boy and a sled and ends with an old man and the glass globe that holds the same snow. Laid out in sequence, the life is not a line at all. It is a closed loop, a circle that the film deliberately breaks into pieces so that you cannot see its shape until you reassemble it yourself. That hidden circle is the argument of this article, and the timeline is the evidence for it.
 

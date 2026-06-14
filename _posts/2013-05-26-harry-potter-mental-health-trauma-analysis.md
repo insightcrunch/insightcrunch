@@ -6,7 +6,7 @@ date: 2013-05-26
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Mental Health", "Trauma", "Grief"]
 excerpt: "Mental health and trauma in Harry Potter, read through PTSD, the Dementor as depression, Neville's silent grief, and a wizarding world without therapy."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-05-26
@@ -16,7 +16,7 @@ lang: en
 
 There is a sentence that arrives in the fifth book and changes everything we thought we understood about its hero, though it is easy to miss because it is dressed as bad temper. Harry has been screaming. He has been throwing things. He has been cruel to the two people who love him most, and the reader, who has spent four volumes adoring this boy, is invited by the narrative to find him exhausting. The fandom that grew up alongside these books has a nickname for this version of the protagonist: CAPSLOCK Harry, the one who shouts in all capital letters. The joke is affectionate and slightly impatient, the way you might be impatient with a friend going through a difficult phase. What almost no one says is the truer thing. The boy is not having a phase. He is exhibiting, with a precision that would satisfy a clinician, the symptom cluster of post-traumatic stress disorder, and the woman writing him has built that cluster so carefully, scene by scene, that it survives translation into the diagnostic language she never once uses.
 
-![Mental health and trauma analysis across Harry Potter books](/assets/images/blog/blog-53.webp)
+![Mental health and trauma analysis across Harry Potter books](/assets/images/blog/blog-35.webp)
 
 This is the argument worth making about these seven volumes, and it is larger than the familiar observation that the series "deals with dark themes." Plenty of children's books deal with dark themes and handle them badly, gesturing at grief and then resolving it by the last chapter with a hug and a lesson learned. What sets this particular work apart is its refusal to resolve. The wound Cedric Diggory's death opens in the protagonist does not close in the next book; it deepens, metastasises, governs his sleep and his temper and his capacity to trust, and it does this in the realistic, non-linear, inconvenient way that real psychological injury actually behaves. Whether the author did this deliberately, drawing on a documented personal history with clinical depression, or instinctively, drawing on the same wells of feeling that produce all serious fiction, the result is the same. Embedded inside a story about a boy wizard is one of the most honest portraits of how a young person carries catastrophe that popular literature has produced.
 

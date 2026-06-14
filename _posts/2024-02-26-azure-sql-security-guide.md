@@ -6,7 +6,7 @@ date: 2024-02-26
 categories: ["Technology"]
 tags: ["Azure", "Azure SQL", "Security", "Identity", "Encryption", "Cloud Computing"]
 excerpt: "Azure SQL security means closing five surfaces together: Entra authentication, a private endpoint, TDE and Always Encrypted, auditing, and least privilege."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 61
 author: "benjamin-scott"
 last_updated: 2024-02-26
@@ -18,7 +18,7 @@ The common failure is to treat the database as secure because it sits inside Azu
 
 This guide treats Azure SQL security as five surfaces that must be closed together rather than a checklist of independent toggles. Authentication decides who can prove identity to the server. The network path decides who can even reach the endpoint to attempt a connection. Encryption decides what an attacker recovers if they reach the storage, the backups, or the query traffic. Auditing and threat detection decide whether you find out an attack happened. Authorization decides how much damage a single compromised identity can do once it is inside. The argument running through every section is the entra-auth-and-network rule: the two changes that move the security posture the furthest are switching to Microsoft Entra authentication and removing public network exposure, because together they close the credential surface that SQL logins leave open and the reachability surface that an open firewall leaves open. Everything else in this guide is defense in depth layered behind those two moves.
 
-![Azure SQL security: authentication, encryption, network lockdown, auditing, and least privilege](/assets/images/blog/blog-84.webp)
+![Azure SQL security: authentication, encryption, network lockdown, auditing, and least privilege](/assets/images/blog/blog-114.webp)
 
 ## What "secure" means for an Azure SQL database
 

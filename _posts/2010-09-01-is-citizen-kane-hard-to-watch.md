@@ -6,7 +6,7 @@ date: 2010-09-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Close Reading", "Film History", "Reception"]
 excerpt: "Is Citizen Kane hard to watch? The honest verdict, the real barriers like pacing and black and white, and the simple fix that turns each one into pleasure."
-image: "/assets/images/blog/blog-102.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2010-09-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Is Citizen Kane hard to watch? You arrived here because you have heard the praise, maybe started the film once, and felt a small private worry that the most celebrated movie ever made was going to be homework rather than pleasure. That worry deserves an honest answer rather than a lecture. The short version is that the film is not difficult so much as differently built, and almost everything that feels like a wall on a first attempt turns into a reward once you know what you are actually looking at. The barriers are real, they have names, and each one comes with a fix you can apply tonight.
 
-![Is Citizen Kane hard to watch barriers and fixes guide for modern viewers - Insight Crunch](/assets/images/blog/blog-102.webp)
+![Is Citizen Kane hard to watch barriers and fixes guide for modern viewers - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 The trouble with most writing about this film is that it splits into two useless camps. One camp shrugs and calls the movie slow, overrated, a relic that only film professors pretend to love. The other camp gatekeeps, implying that if the picture bores you then the failure is yours, that you simply lack the taste to appreciate genius. Both camps are lazy, and neither helps the person sitting in front of a streaming menu deciding whether to commit two hours. This guide takes a third position: the difficulty is genuine and worth naming plainly, because naming it honestly is the fastest route past it. Once you understand why a scene feels strange, the strangeness stops being a barrier and becomes the point.
 

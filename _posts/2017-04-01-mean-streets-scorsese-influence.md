@@ -15,7 +15,7 @@ lang: en
 ---
 A young man wakes in the dark, drops his head back to the pillow, and the drum intro of a girl-group record kicks the room into motion. Within that single gesture, Martin Scorsese set a whole strain of American cinema running. Mean Streets, released in 1973, is the film where his style arrived fully formed, where his lifelong partnership with Robert De Niro began, and where the restless handheld camera, the wall-to-wall pop and rock, the Catholic guilt, and the confessional voice-over fused into a template that filmmakers would build on for half a century. This analysis traces that line of influence to specific later work, weighs what endured against what dated, and sets the achievement beside the personal, confessional cinema rising in other countries at the same moment.
 
-![How Mean Streets seeded modern crime cinema, an influence and legacy analysis - Insight Crunch](/assets/images/blog/blog-63.webp)
+![How Mean Streets seeded modern crime cinema, an influence and legacy analysis - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The temptation with this picture is to treat it as a warm-up, a rough sketch that the later masterpieces would refine. That reading shortchanges it. The early film is not a draft of a style; it is the style, arriving with a force that the polished pictures would inherit rather than improve. Understanding its legacy means looking closely at what it invented and then following those inventions outward, into the films that copied them, adapted them, and argued with them, here and abroad.
 

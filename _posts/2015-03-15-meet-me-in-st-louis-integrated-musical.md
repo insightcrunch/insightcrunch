@@ -6,7 +6,7 @@ date: 2015-03-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Meet Me in St. Louis", "Vincente Minnelli", "Musical", "Film Analysis", "World Cinema", "Film History"]
 excerpt: "Meet Me in St. Louis advanced the integrated musical, where each song erupts from feeling, while a dark Halloween and a child's grief give the form real weight."
-image: "/assets/images/blog/blog-52.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-03-15
@@ -18,7 +18,7 @@ By 1944 the Hollywood musical had a problem it had stopped noticing, the way a h
 
 Meet Me in St. Louis removes the velvet rope. When Esther Smith stands alone in the parlor of a St. Louis house and sings about the boy next door, there is no stage, no audience, no benefit, no rehearsal, no orchestra she can see. She is not performing. She is in love and cannot say so to the person who would matter, and the song is the only place that feeling can go. The number is not interrupting the story to entertain us; the number is the story, rendered audible because the character has reached a pitch of feeling that ordinary speech cannot carry. That single shift, from song-as-performance to song-as-overflow, is the hinge on which this film turns, and it is the reason the picture sits at the center of any honest account of how the American musical grew up.
 
-![How Meet Me in St. Louis advanced the integrated musical, a comparative analysis - Insight Crunch](/assets/images/blog/blog-52.webp)
+![How Meet Me in St. Louis advanced the integrated musical, a comparative analysis - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 The technical name for what the film achieves is integration, and the term has a precise meaning that gets blurred in casual use. An integrated musical is one in which the songs and, where present, the dances grow from character and dramatic situation rather than pausing the drama to entertain. The number does work that the scene needs done: it advances feeling, deepens character, marks a turn, or discharges a tension that the dialogue has built and cannot resolve on its own. Remove an integrated number and the story loses a beat it required; remove a non-integrated number and the story is merely shorter. Sally Benson's source material, a sequence of New Yorker stories published across 1941 and 1942 under the address title that named the Smith family home, gave Arthur Freed and Vincente Minnelli a structure built from domestic episodes rather than plot machinery, and that loose, mood-driven shape turned out to be the ideal vessel for songs that come from feeling rather than from a booking on a stage.
 

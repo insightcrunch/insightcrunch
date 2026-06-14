@@ -6,7 +6,7 @@ date: 2014-10-12
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "victorian-novel", "feminist-literature", "imperial-critique", "classic-literature"]
 excerpt: "Often read as a marriage plot, Jane Eyre (1847) is Charlotte Brontë's pointed intervention in Victorian gender, class, religious, and imperial questions."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 74
 author: "emily-reed"
 last_updated: 2014-10-12
@@ -16,7 +16,7 @@ Charlotte Brontë published Jane Eyre in October 1847 under the pseudonym Currer
 
 <!--more-->
 
-![Complete Analysis of Jane Eyre](/assets/images/blog/blog-38.webp)
+![Complete Analysis of Jane Eyre](/assets/images/blog/blog-98.webp)
 
 The marriage-plot reading is not wrong, but it is incomplete. Yes, Jane and Rochester eventually marry, and yes, the final pages deliver the satisfaction of a romantic resolution that nineteenth-century readers had every right to expect. To read the text only through that final union, however, is to skip past everything Brontë built to make the match possible: the Gateshead confrontation in which a child confronts an adult for the first time about the structure of her abuse, the Lowood chapters that argue against the misuse of religious authority over female education, the refusal at the altar that costs Jane every material security she has, the rejection of St. John Rivers's missionary proposal that costs her a respectable role in imperial Christianity, and the recovery of an inheritance that buys her into the partnership as an equal rather than as a dependent. The union at Ferndean is the consequence of an argument; it is not the argument itself.
 

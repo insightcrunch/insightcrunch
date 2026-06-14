@@ -6,7 +6,7 @@ date: 2008-04-05
 categories: ["Leisure"]
 tags: ["lyndon-b-johnson", "decision-reconstruction", "us-presidents", "vietnam-war", "gulf-of-tonkin", "war-powers"]
 excerpt: "On August 4, 1964, a phantom attack triggered the Gulf of Tonkin Resolution and Vietnam escalation. Declassified NSA records confirm it never happened."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 62
 author: "diana-patel"
 last_updated: 2008-04-05
@@ -16,7 +16,7 @@ At 11:36 in the morning on August 4, 1964, Washington time, Captain John J. Herr
 
 By the time that cable cleared the wires, three things were already in motion. President Lyndon Johnson had decided to launch retaliatory air strikes. The Joint Chiefs had drafted a congressional resolution authorizing whatever force the commander in chief deemed necessary. And Defense Secretary Robert McNamara had begun briefing congressional leaders that two destroyers had been attacked, unprovoked, in international waters. None of that was true in the way it was being told. The August 2 attack on the Maddox had been real but provoked. The August 4 attack, the one that triggered the retaliation and the resolution, had not happened.
 
-![LBJ Gulf of Tonkin Resolution August 1964 phantom attack decision reconstruction - Insight Crunch](/assets/images/blog/blog-08.webp)
+![LBJ Gulf of Tonkin Resolution August 1964 phantom attack decision reconstruction - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 This is the story of how a Texas politician with decades of Senate mastery used six days in 1964 to extract from Congress a blank-check war authorization on the basis of an engagement that the Pentagon's own operational records, declassified in 2005, confirm did not occur. It is the story of how the on-scene commander's near-immediate doubts were overridden, how a defense secretary briefed the Senate Foreign Relations Committee without disclosing those doubts, and how 416 House members and 88 senators voted yes on a measure most of them had never read. The Gulf of Tonkin Resolution would be cited by two presidents to justify a war that killed roughly 58,000 Americans and at least one million Vietnamese. The legal foundation of that war was a sonar reading on a moonless night, a frightened junior radarman, and a presidential calculation that the political moment would not wait for evidence.
 

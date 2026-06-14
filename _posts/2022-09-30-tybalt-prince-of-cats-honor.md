@@ -6,7 +6,7 @@ date: 2022-09-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "tybalt", "honor", "tybalt-prince-of-cats"]
 excerpt: "Tybalt lives by an honor code that reads every slight as a duel, and Mercutio's mockery of the prince of cats sharpens the rivalry that kills them both."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 65
 author: "rachel-foster"
 last_updated: 2022-09-30
@@ -14,7 +14,7 @@ lang: en
 ---
 "What, drawn, and talk of peace? I hate the word, / As I hate hell, all Montagues, and thee." Tybalt arrives in the play already at the boil. Benvolio has just pleaded for calm in the opening street fight, sword raised only to beat down the servants' weapons, and the Capulet kinsman answers the offer of peace as if it were itself a blow. The first thing the audience learns about this young man is that he treats the very word for the absence of violence as an insult that requires a drawn rapier. The line is at 1.1.66 to 67 in the Arden third series edited by Rene Weis, and it is the most economical character sketch in the tragedy. Eleven syllables establish a man who cannot tell the difference between a courtesy and a challenge.
 
-![Tybalt prince of cats honor code and the duel in Romeo and Juliet character study - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Tybalt prince of cats honor code and the duel in Romeo and Juliet character study - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 The standard account of this figure treats him as the obstacle, the hot-tempered cousin whose hatred of the Montagues exists to give the lovers something to die around. That reading is not wrong so much as incurious. It mistakes a diagnosis for a stock part. The Capulet nephew is not a generic obstructor borrowed from a hundred romance plots; he is the play's purest specimen of a particular sickness, the honor reflex that turns trivial slights into corpses. Shakespeare gives him very few lines, and the thinness of those lines is not a failure of characterization. It is the characterization. A man entirely governed by a code does not need an inner life, because the code does his thinking for him. To read Verona's most dangerous swordsman as a true believer rather than a villain is to see the feud itself anatomized in a single body. This study sets out the honor logic that drives every one of his appearances, traces the cat name that Mercutio hangs on him, and reaches a verdict on whether the man deserves the word villain that he so freely throws at others.
 

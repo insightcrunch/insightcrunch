@@ -6,7 +6,7 @@ date: 2007-09-03
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "foreign-policy", "presidential-doctrines", "institutional-memory"]
 excerpt: "Monroe, Truman, Eisenhower, Nixon, Carter, Reagan: each named a doctrine, each doctrine outlived its author by decades. The pattern holds for 162 years."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 56
 author: "amanda-ross"
 last_updated: 2026-05-25
@@ -14,7 +14,7 @@ lang: en
 ---
 On February 6, 1985, Ronald Reagan stood before a joint session of Congress and committed the United States to "support [for] the democratic resistance" in every country where Marxist regimes faced armed insurgency. He named no countries. He named no commitments. He attached no budgetary figure, no troop estimate, and no termination criteria. Within forty-eight hours the Washington press corps had labeled the passage the Reagan Doctrine. Within six months the State Department was citing the speech in routine briefings on Afghanistan, Nicaragua, and Angola. Within four years Reagan was a private citizen and George H.W. Bush was invoking the same framework to justify continued funding for the Contras. Within ten years the Cold War was over and the Reagan Doctrine, by any literal reading, no longer applied to anything, yet the foreign-policy bureaucracy continued to file the 1985 paragraph as live precedent for executive authority to back foreign rebels without congressional authorization.
 
-![Presidential foreign policy doctrines pattern across American history - Insight Crunch](/assets/images/blog/blog-44.webp)
+![Presidential foreign policy doctrines pattern across American history - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 This is what every named presidential foreign-policy doctrine does. It outlives its author. It accumulates rather than expires. It hardens from rhetoric into bureaucratic property, then into precedent for further commitments the original speech did not contemplate. The Monroe Doctrine of 1823 was invoked in 1895 to justify British arbitration over Venezuela, in 1904 to justify U.S. occupation of the Dominican Republic, and in 1962 to justify the naval quarantine of Cuba. The Truman Doctrine of 1947 was invoked through Korea, Berlin, Vietnam, and the contra wars. The Eisenhower Doctrine of 1957 was invoked five months after its announcement to justify Marines landing in Lebanon and was still being cited by the Nixon and Ford administrations in Middle Eastern crises. Six presidents, six doctrines, one hundred and sixty-two years from the first to the last, and the same institutional pattern in each case: a speech becomes a framework, the structure becomes a permission slip, and the permission slip never expires.
 

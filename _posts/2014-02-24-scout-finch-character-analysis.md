@@ -6,7 +6,7 @@ date: 2014-02-24
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "scout-finch", "harper-lee", "character-analysis", "narrative-voice", "coming-of-age"]
 excerpt: "Scout is not a six-year-old narrator. She is adult Jean Louise reconstructing childhood through a deliberately innocent voice."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2014-02-24
@@ -16,7 +16,7 @@ Scout Finch is the most famous child narrator in American fiction, and almost ev
 
 <!--more-->
 
-![Scout Finch Character Analysis - Insight Crunch](/assets/images/blog/blog-36.webp)
+![Scout Finch Character Analysis - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The child voice is the novel's most consequential stylistic decision, and treating it as a transparent window rather than a constructed lens is the central error that separates casual reading from serious analysis. A six-year-old does not command the vocabulary Scout deploys throughout the novel. A six-year-old does not manage the ironic distance that pervades the narration from its opening sentence forward. A six-year-old does not produce retrospective overviews of family history, town sociology, and courtroom procedure with the assured control that characterizes every chapter. What the reader encounters on every page is not the voice of a child but the voice of an adult who has chosen to remember her childhood in a particular register, for reasons the novel itself only partially acknowledges. The literary tradition behind this move is deep: Pip in Great Expectations, David in David Copperfield, and Nick Carraway in The Great Gatsby all reconstruct their pasts through adult voices that select, shape, and argue. Scout belongs to that lineage, and reading her as a literal child narrator is reading her outside the convention Lee inherited and deployed.
 

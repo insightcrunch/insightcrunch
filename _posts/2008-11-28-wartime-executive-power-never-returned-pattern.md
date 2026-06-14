@@ -6,7 +6,7 @@ date: 2008-11-28
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "executive-power", "wartime-powers", "constitutional-history"]
 excerpt: "Every wartime president from Lincoln to Bush expanded executive power. None returned what they took. The two-century audit."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2008-11-28
@@ -16,7 +16,7 @@ On the morning of June 1, 1812, James Madison sent Congress a campaign message t
 
 Now read Lyndon Johnson's August 5, 1964 message asking for the Gulf of Tonkin measure, drafted at the White House and delivered to a Congress that had been told a Vietnamese attack on American destroyers happened the night before. The vote was 416 to 0 in the House and 88 to 2 in the Senate. Forty-eight hours. The August 4 attack, we now know from declassified signals intelligence and the Pentagon Papers, almost certainly never happened. Johnson said privately the destroyers were probably shooting at flying fish.
 
-![Wartime presidents expanded executive power Madison to Bush constitutional pattern - Insight Crunch](/assets/images/blog/blog-36.webp)
+![Wartime presidents expanded executive power Madison to Bush constitutional pattern - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 What changed between Madison and Johnson is the question this audit answers. The founding text on declaring hostilities did not change. Article I, Section 8, Clause 11 still reads the same words it has carried since 1789. What changed is the presidency. Across nine wartime presidencies, every chief executive who took the country into a major conflict claimed powers that had not previously existed at federal scale, and after the fighting stopped, those powers did not return. The ratchet ran one way. The 1917 Espionage Act is still on the books. The Insular Cases doctrine from McKinley's annexations still governs Puerto Rico. The surveillance architecture built under Johnson and Nixon for Vietnam was never dismantled, only renamed. Madison's restraint, defended in [his June 1812 deference to a congressional vote](https://insightcrunch.com/madison-war-1812-congressional-vote), is the historical anomaly. Every president since Polk has learned from Polk, and every president since Wilson has learned from Wilson, and the presidency today inherits the accumulated stock of every emergency that ever passed.
 

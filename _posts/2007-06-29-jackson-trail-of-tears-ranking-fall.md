@@ -6,7 +6,7 @@ date: 2007-06-29
 categories: ["Leisure"]
 tags: ["andrew-jackson", "consensus-flip", "us-presidents", "historical-reappraisal", "indian-removal", "trail-of-tears"]
 excerpt: "Jackson ranked 9th among presidents in 1948 and sits near 21st today. The collapse tracks sixty years of rising attention to his Indian Removal record."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 71
 author: "diana-patel"
 last_updated: 2007-06-29
@@ -14,7 +14,7 @@ lang: en
 ---
 In the autumn of 1948, the editors of Life magazine mailed a single sheet of paper to fifty-five professional historians and asked each of them to do something the discipline had never formally tried. Rank the men who had held the presidency, from greatest to worst, on a five-step scale that ran from Great down to Failure. The man who tabulated the returns, Arthur Schlesinger Sr. of Harvard, was a careful counter, and when the ballots came back he placed Andrew Jackson high in the company that mattered. Jackson landed at ninth, a hair below the founders and the war-winners, comfortably inside the tier the professoriate reserved for presidents who had bent the office to a purpose and made it serve. For the next two decades that judgment held and even improved. By 1962 the same survey, now run by the son rather than the father, moved Jackson up to sixth.
 
-![Andrew Jackson historian ranking collapse Trail of Tears reappraisal - Insight Crunch](/assets/images/blog/blog-89.webp)
+![Andrew Jackson historian ranking collapse Trail of Tears reappraisal - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 Seventy-three years after that first ballot, C-SPAN released its 2021 survey of presidential historians, and Jackson sat at twenty-second. He had not lost a war in the interim. No new scandal had surfaced from the 1830s. The documents had not changed. What had changed was where the profession chose to point its attention, and once it pointed at the thing Jackson had spent his presidency building toward, the ground under his reputation gave way. The fall from ninth to the low twenties is one of the steepest sustained declines in the entire ranking literature, and it did not happen in a lurch. It happened the way erosion happens, one survey at a time, each poll registering a little more of the weight that the Indian Removal Act of 1830 and the Cherokee deportation of 1838 had always carried but that the discipline had, for a long time, agreed not to weigh.
 

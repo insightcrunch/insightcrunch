@@ -6,7 +6,7 @@ date: 2008-12-09
 categories: ["Leisure"]
 tags: ["ulysses-grant", "consensus-flip", "us-presidents", "reconstruction", "historiography", "civil-rights"]
 excerpt: "Grant placed 33rd in the 2000 C-SPAN survey. He sits at 17th today. The reappraisal tracks specific archives, the Foner regime, and Dunning's collapse."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 64
 author: "diana-patel"
 last_updated: 2008-12-09
@@ -14,7 +14,7 @@ lang: en
 ---
 In February 2000, C-SPAN released its first major poll of presidential historians and political scientists. Ulysses Grant placed 33rd of 41 ranked presidents. He sat below Calvin Coolidge, below Chester Arthur, below Benjamin Harrison, below Rutherford Hayes. The 2000 result echoed a verdict that had calcified over a century: Grant was a great general who failed in the White House, a tippler surrounded by thieves, a credulous figurehead presiding over what Henry Adams called an administration that "outraged every rule of ordinary decency."
 
-![Ulysses Grant presidential placement rehabilitation Columbia school civil rights - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Ulysses Grant presidential placement rehabilitation Columbia school civil rights - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 Twenty-four years later, the 2024 Presidential Greatness Project Expert Survey placed Grant at 17th. The 2024 APSA panel landed him at 18th. The shift was not marginal. Grant had crossed from the lower third into the upper middle of historian placements, displacing presidents whose reputations had been considered fixed. No other post-Civil War president has moved that far in that direction. Coolidge climbed a few slots and stalled. Hoover has been unsuccessfully resuscitated five times. Eisenhower rose from twenty-second to a stable upper-tier slot, but that climb began in the 1970s and was complete by 2000. Grant's reappraisal is the rare case of a reputation reversed within a single generation of working historians.
 

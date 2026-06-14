@@ -6,7 +6,7 @@ date: 2018-08-13
 categories: ["Industry"]
 tags: ["muridke", "lashkar-e-taiba", "markaz-e-taiba", "seminary", "training-camp"]
 excerpt: "Inside Muridke, the 200-acre Markaz-e-Taiba compound and seminary that operated openly as Lashkar-e-Taiba's campus until India struck it in Operation Sindoor."
-image: "/assets/images/blog/blog-109.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 71
 author: "william-knight"
 last_updated: 2018-08-13
@@ -16,7 +16,7 @@ Roughly thirty kilometres north of Lahore, where the Grand Trunk Road runs flat 
 
 <!--more-->
 
-![Markaz-e-Taiba compound in Muridke - Insight Crunch](/assets/images/blog/blog-109.webp)
+![Markaz-e-Taiba compound in Muridke - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 To understand why this place matters more than almost any other location in the geography of South Asian terrorism, it helps to set aside the word "camp" entirely. A camp is temporary. A camp can be folded up, relocated, denied. What Saeed built outside Muridke was the opposite of temporary. It was permanent by design, self-sufficient by intention, and proudly visible because visibility itself was the point. A hidden facility is a liability; a celebrated one is a statement. For most of its existence the complex hosted public gatherings, welcomed credentialed journalists, printed its own literature, harvested its own crops, and educated thousands of children whose families could not afford schooling elsewhere. None of that openness was an accident. It was the architecture of impunity, and it is the reason analysts who study the so-called shadow war keep returning to this one stretch of Punjabi farmland. Every other safe haven on the map, from the launching pads of Pakistan-occupied Kashmir to the urban safe houses of Karachi, is a variation on a theme that Muridke states in its purest form: a militant organisation can be protected so completely that it stops behaving like a secret and starts behaving like an institution.
 

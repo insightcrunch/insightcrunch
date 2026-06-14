@@ -6,7 +6,7 @@ date: 2003-03-06
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Science Technology", "ISRO", "Biotechnology"]
 excerpt: "UPSC Prelims Science and Technology preparation strategy: current affairs first approach, space technology ISRO missions, biotechnology and health, IT and AI, defence technology, and the systematic methodology for the most current-affairs-dominated subject in Prelims."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 59
 author: "anita-das"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The current affairs dominance of Science and Technology questions creates a uniq
 
 This article provides the complete data-driven preparation strategy for UPSC Prelims Science and Technology that addresses the unique challenges of this subject through a systematic approach to current affairs integration combined with selective static content study. The article integrates four critical components: the current-affairs-first approach that recognises the contemporary nature of Science and Technology questions and prioritises tracking over textbook reading, the major thematic clusters within Science and Technology (space technology, defence technology, biotechnology and health, information technology and AI, nuclear technology, emerging technologies) and their relative question frequencies, the three-phase preparation methodology adapted for the dynamic content nature of this subject, and the integration with current affairs sources that capture the developments which static references cannot include.
 
-![UPSC Prelims Science and Technology Strategy - Insight Crunch](/assets/images/blog/blog-55.webp)
+![UPSC Prelims Science and Technology Strategy - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process where Prelims serves as the qualifying gate for Mains, and within Prelims, the Science and Technology section's 6 to 9 question contribution makes it a significant scoring opportunity that aspirants often neglect due to the perceived difficulty of tracking the dynamic content. The [Prelims topic-wise weightage analysis](/2003/03/29/upsc-prelims-topic-wise-weightage/) provides the thirteen-year quantitative breakdown of Science and Technology's question contribution and confirms its consistent appearance across examination years. The [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) places Science and Technology within the broader Prelims preparation framework that this article's subject-specific strategy operates within. The [Prelims Polity strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/), the [Prelims History strategy](/2003/03/24/upsc-prelims-history-culture-strategy/), the [Prelims Geography and Environment strategy](/2003/03/15/upsc-prelims-geography-environment-strategy/), and the [Prelims Economy strategy](/2003/03/11/upsc-prelims-economy-strategy/) provide the corresponding preparation approaches for the other major Prelims subject areas, completing the systematic subject-by-subject preparation framework that the topic-wise weightage analysis recommends.
 

@@ -6,7 +6,7 @@ date: 2023-03-27
 categories: ["Technology"]
 tags: ["Azure", "Log Analytics", "Azure Monitor", "Troubleshooting", "KQL", "Cloud Computing"]
 excerpt: "Log Analytics ingestion delay is usually expected latency, not lost data. Read ingestion_time, confirm the true cause, and act only when the delay is abnormal."
-image: "/assets/images/blog/blog-110.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 59
 author: "gregory-marsh"
 last_updated: 2023-03-27
@@ -14,7 +14,7 @@ lang: en
 ---
 A Log Analytics ingestion delay is the gap between the moment an event happens on your resource and the moment a query in that workspace can return the row. It feels like a fault because you know the event occurred, you can see the activity on the resource, and yet the table comes back empty when you run the search. The reflex that follows is almost always wrong: engineers conclude data is being lost, open a support case, rebuild the diagnostic pipeline, reinstall the agent, or recreate the workspace, when in the overwhelming majority of cases nothing is broken at all. The data is in flight. It has not finished its journey from the source, through collection and batching, across the ingestion pipeline, into the indexed store where queries read from. That journey has an inherent, bounded latency, and treating that latency as loss is the single most common and most expensive mistake in Azure Monitor operations.
 
-![Diagnosing a Log Analytics ingestion delay, latency versus data loss - Insight Crunch](/assets/images/blog/blog-110.webp)
+![Diagnosing a Log Analytics ingestion delay, latency versus data loss - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 This article diagnoses the delay to root cause. The central idea, the one to carry into every incident, is what this series calls the latency-is-expected rule: a bounded ingestion delay is normal, so the first step is always to compare the observed latency against the expected window before you treat it as a fault. Get that ordering wrong and you spend an afternoon dismantling a healthy pipeline to chase data that was about to arrive on its own. Get it right and most of these incidents close in two minutes with a single query. The distinct causes that produce a real, abnormal delay are few and each has a confirming check: a query that filters on event time rather than ingestion time and therefore excludes rows that already arrived, agent buffering and batching that holds events before sending them, ingestion-volume throttling that extends latency under heavy load, a connector or pipeline lag specific to one source, and a dashboard that refreshes inside the normal latency window and shows a hole that fills itself. By the end you will be able to tell normal latency from a genuine delay, attribute a true delay to its cause, and act only when the situation is actually abnormal.
 

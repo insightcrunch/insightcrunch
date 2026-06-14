@@ -6,7 +6,7 @@ date: 2009-09-22
 categories: ["Industry"]
 tags: ["TCS", "Leadership", "Corporate Governance", "Succession Planning"]
 excerpt: "Here’s an awesome in-depth coverage of how things happened. No doubt why TCS is number one today. Eighteen months ago, some time in the early part of..."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 45
 author: "nikhil-tiwari"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Few aspects of a company's character are more revealing than how it handles the transfer of its highest leadership. A succession that is rushed, contested, or driven by personality rather than governance discipline exposes fragility at the organisational core. A succession that is planned years in advance, executed with transparency, and results in a prepared leader who builds on rather than dismantles what preceded them reveals a company with genuine institutional depth. By this measure, TCS's record of leadership succession is among the most instructive in Indian corporate history - a case study in how deliberate governance, long-horizon thinking, and genuine mentorship compound across generations to produce an institution that outlasts any individual who leads it.
 
-![A structured leadership development model shown as ascending steps, representing TCS's deliberate approach to CEO succession and the Tata Group's governance philosophy](/assets/images/blog/blog-71.webp)
+![A structured leadership development model shown as ascending steps, representing TCS's deliberate approach to CEO succession and the Tata Group's governance philosophy](/assets/images/blog/blog-103.webp)
 *TCS leadership succession planning - how the Tata Group's governance philosophy, deliberate CEO development, and long-term institutional thinking produce exceptional leadership continuity*
 
 The story of how TCS produces successive generations of capable leaders is not a story about exceptional individuals, though exceptional individuals have led the company. It is a story about a system - a set of governance disciplines, mentoring practices, organisational structures, and cultural values that make exceptional leadership development more probable than it would be without them. Understanding this system is useful for anyone who cares about how large organisations sustain quality across time: employees navigating TCS's management hierarchy, professionals studying corporate governance, or simply thoughtful observers of how institutions are built to last.

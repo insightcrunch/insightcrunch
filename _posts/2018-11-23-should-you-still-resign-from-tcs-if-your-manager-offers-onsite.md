@@ -6,7 +6,7 @@ date: 2018-11-23
 categories: ["Industry"]
 tags: ["TCS", "Onsite", "Resignation", "Career Decision"]
 excerpt: "Tata Consultancy Services is one of the largest organizations of the world with nearly a million people in its payroll. The sheer magnitude of handling a..."
-image: "/assets/images/blog/blog-98.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 45
 author: "pooja-gupta"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ You submitted your resignation letter. You have spent months preparing for the j
 
 Then your manager calls. Or the HR business partner reaches out. And suddenly there is an onsite opportunity on the table. Or a promotion. Or both. Something that was never available when you were performing well and asking for it, but is now suddenly possible precisely because you are leaving.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-98.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-61.webp)
 *The complete decision framework for TCS employees facing a counter-offer or retention offer that includes onsite opportunity - how to evaluate the offer honestly, what questions to ask, what the data says about counter-offer outcomes, and how to make the decision you will not regret*
 
 This is one of the most psychologically difficult career decisions a TCS employee faces. The resignation was not taken lightly. The job search took real effort. The new offer represents real opportunity. But now the familiar organization is offering something you actually wanted - and the uncertainty of the new company versus the relative familiarity of TCS creates genuine ambiguity about the right choice.

@@ -6,7 +6,7 @@ date: 1996-03-30
 categories: ["Industry"]
 tags: ["SAT", "Student Athletes", "NCAA", "Time Management", "Recruiting"]
 excerpt: "SAT for student athletes: choosing test dates by sport season, in-season study habits, the recruiting timeline and the training-mindset shift, with NCAA links."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 60
 author: "patrick-dunn"
 last_updated: 1996-03-30
@@ -14,7 +14,7 @@ lang: en
 ---
 The single worst test date for a fall-sport athlete is the one that lands in the third week of October, in the heart of the playoff push, when practices run long, film sessions eat the evenings, and a Saturday morning is the one block of recovery the body is begging for. Plenty of athletes book that date anyway, walk in flat, and post a number that does not reflect what they could do. The SAT for student athletes is not a harder exam than it is for anyone else. It is the same adaptive, learnable, pattern-bound assessment that every other test-taker faces. The difference is the calendar. A competitor who plays a sport carries two demanding schedules at once, the practice and competition calendar and the testing and recruiting calendar, and the whole game is getting those two calendars to stop fighting each other.
 
-![SAT for student athletes test dates by sport season and in-season study plan - Insight Crunch](/assets/images/blog/blog-75.webp)
+![SAT for student athletes test dates by sport season and in-season study plan - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 This guide gives you something the generic prep page and the standard counseling handout do not. It maps each sport season to the test windows that actually fit it, so a soccer player and a swimmer and a track athlete each get a different answer instead of the same vague "take it junior year." It gives you an in-season routine built for the reality that you have twenty spare minutes, not two spare hours, on a competition week. It sets the testing calendar against the recruiting calendar so you know the date by which a college-ready number needs to exist. And it makes the case, which most prep advice skips entirely, that the discipline you have already built in the weight room and on the practice field is the exact discipline that produces a strong score, if you transfer it deliberately rather than assuming academics run on a different engine.
 

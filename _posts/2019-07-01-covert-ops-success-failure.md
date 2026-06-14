@@ -6,7 +6,7 @@ date: 2019-07-01
 categories: ["Industry"]
 tags: ["covert-operations", "success", "failure", "patterns", "history", "analysis"]
 excerpt: "Analyzing the global patterns of covert operation success and failure, and what intelligence history teaches about when shadow wars work and when they fail."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 70
 author: "kevin-reeves"
 last_updated: 2019-07-01
@@ -16,7 +16,7 @@ Ask an intelligence historian why one secret action succeeds and another collaps
 
 <!--more-->
 
-![Covert operations success and failure patterns analysis](/assets/images/blog/blog-62.webp)
+![Covert operations success and failure patterns analysis](/assets/images/blog/blog-99.webp)
 
 That question is not academic for anyone reading the news out of South Asia. Since 2021, a sequence of wanted militants has been shot dead on Pakistani soil by assailants who arrive on motorcycles, fire at close range, and vanish into traffic. Indian officials have claimed nothing. Pakistani officials have alleged much. The pattern, examined across dozens of incidents, looks less like coincidence and more like a sustained program, and that program now has enough operational history behind it to be measured rather than merely described. The measurement requires a yardstick, and the only honest yardstick is the comparative record of every other state that has tried something similar. India's shadow war is new. The dilemmas it faces are not.
 

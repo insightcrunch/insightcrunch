@@ -6,7 +6,7 @@ date: 2008-03-25
 categories: ["Leisure"]
 tags: ["lyndon-johnson", "decision-reconstruction", "us-presidents", "vietnam-war", "escalation", "george-ball"]
 excerpt: "In July 1965, Johnson chose between George Ball's withdrawal memo and William Westmoreland's 125,000 troops over seven days. Westmoreland won the room."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2008-03-25
@@ -16,7 +16,7 @@ The president had been awake since before five. On the morning of Wednesday, Jul
 
 This is the reconstruction of those seven days. It is the story of a president who had every alternative laid in front of him, who heard the dissent in full sentences from his own undersecretary of state, who recorded the meetings on a Dictabelt system installed by his own order, and who chose anyway. The decision week of July 21 through July 28, 1965 is the cleanest test case in the postwar record of whether executive war-making had become, by then, structurally untethered from the legislative branch. The answer the week produces is unambiguous.
 
-![LBJ July 1965 Vietnam escalation decision week reconstruction - Insight Crunch](/assets/images/blog/blog-41.webp)
+![LBJ July 1965 Vietnam escalation decision week reconstruction - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 ## The June 7 Request That Forced the Question
 

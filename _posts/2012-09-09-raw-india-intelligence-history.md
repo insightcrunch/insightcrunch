@@ -6,7 +6,7 @@ date: 2012-09-09
 categories: ["Industry"]
 tags: ["raw", "intelligence", "india", "r-n-kao", "covert-operations", "history"]
 excerpt: "The complete history of RAW, the external intelligence agency of India, from R.N. Kao's founding vision in 1968 to the shadow war against Pakistani terror."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
 author: "ian-fletcher"
 slug: "raw-india-intelligence-history"
@@ -17,7 +17,7 @@ On September 21, 1968, an organization was born in secrecy that would, over the 
 
 <!--more-->
 
-![RAW India Intelligence Agency History - Insight Crunch](/assets/images/blog/blog-33.webp)
+![RAW India Intelligence Agency History - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The distance between Kao's founding vision and the shadow war is the distance between intelligence gathering and kinetic action, between filing reports and allegedly pulling triggers. Fifty-eight years separate the two endpoints. In between lie some of the most dramatic episodes in South Asian history: the covert campaign that helped birth Bangladesh in 1971, the political engineering that absorbed Sikkim into the Indian union in 1975, the catastrophic decision to arm the Tamil Tigers in Sri Lanka that culminated in the assassination of a former prime minister, the intelligence failure that allowed ten gunmen from Lashkar-e-Taiba to paralyze Mumbai for three days in November 2008, and the post-Pulwama recalibration that, according to multiple reports, has produced a campaign of [targeted killings across Pakistan's cities](https://insightcrunch.com/2012/03/29/pakistan-terror-safe-haven-network/) unlike anything in Indian intelligence history. Each of these episodes reshaped the institution. Each pushed it closer to or further from the offensive posture it allegedly occupies today. Together, they form the five-era institutional evolution that this analysis reconstructs, an evolution that no single competitor, whether Wikipedia's brief entry, B. Raman's founding-era memoirs, or news reports covering individual crises, has ever mapped comprehensively in a single analytical framework. The absence of that framework until now is itself a product of the secrecy Kao embedded in the institution: when an organization tells no stories about itself, the stories must be reconstructed from the outside.
 

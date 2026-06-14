@@ -6,7 +6,7 @@ date: 2012-07-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Remus Lupin", "Werewolf", "Marauders", "Gryffindor"]
 excerpt: "Complete literary analysis of Remus Lupin in Harry Potter - internalized stigma, werewolf metaphor, Marauder silence, and the kindest teacher's tragedy."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2012-07-23
@@ -16,7 +16,7 @@ lang: en
 
 There is a particular quality of light in the compartment on the Hogwarts Express when Harry first meets the sleeping professor in *Prisoner of Azkaban*, and the entire arc of Remus Lupin is encoded in that opening tableau. A shabby man in a patched coat, asleep on the train, exhausted before the school year has even begun. Rowling gives us almost everything in that single image. She gives us a man so tired he cannot stay awake in public. A man whose clothes betray a poverty so persistent it has become part of his identity. A man taking up the smallest possible amount of space in a public compartment, as if even in sleep he is apologising for being there at all.
 
-![Remus Lupin character analysis in Harry Potter series](/assets/images/blog/blog-14.webp)
+![Remus Lupin character analysis in Harry Potter series](/assets/images/blog/blog-61.webp)
 
 The thesis of any serious reading of this character must begin with a difficult recognition: the kindest adult Harry Potter ever meets is also the adult most fundamentally damaged by the world's contempt. Lupin is not a man who happens to suffer; he is a man who has been taught, slowly and patiently, since childhood, that his suffering is the appropriate response to his existence. Rowling has built him as a portrait of internalised stigma, a study in what happens when a person spends thirty years being told that their existence is a danger to others and quietly, gently, comes to believe it. The text wants us to love him. The structure wants us to notice that he cannot love himself. The gap between those two facts is the wound at the centre of the character, and Rowling refuses to close it, because closing it would betray the truth of what stigma does to a soul.
 

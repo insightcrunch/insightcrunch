@@ -6,7 +6,7 @@ date: 2012-01-05
 categories: ["Industry"]
 tags: ["hafiz-saeed", "lashkar-e-taiba", "26-11", "mumbai", "pakistan", "terrorism", "jamaat-ud-dawa"]
 excerpt: "Definitive Hafiz Saeed profile examining the 26/11 Mumbai attack mastermind, the Lashkar-e-Taiba founder, and the most protected terrorist in Pakistan."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 71
 author: "david-thornton"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ On the afternoon of 26 November 2008, ten young men sailed into Mumbai harbour o
 
 <!--more-->
 
-![Hafiz Saeed Complete Profile](/assets/images/blog/blog-40.webp)
+![Hafiz Saeed Complete Profile](/assets/images/blog/blog-90.webp)
 
 Saeed was already, by 26 November 2008, the most consequential terrorist Pakistan had ever produced. He would become, over the following sixteen years, the most protected. The international community placed him on the United Nations Security Council 1267 list. The United States offered ten million dollars for information leading to his prosecution. India submitted dossiers, extradition requests, and intercepted communications. Pakistan responded with a sequence of arrests, releases, house detentions, court appearances, and acquittals so choreographed that it took FATF grey-listing to break the pattern. By 2022, after seven separate terror financing convictions delivered a combined seventy-eight years, Pakistani authorities at last began detaining Saeed in conditions that resembled actual incarceration. Indian media correspondents who tracked his movements reported a different reality: a military-protected residence in central Lahore with a private mosque, vehicles, and a dedicated bodyguard rotation. Pakistan calls this prison. The men who built the case against him in New Delhi call it something else.
 

@@ -6,7 +6,7 @@ date: 2016-04-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Sweet Smell of Success", "A Face in the Crowd", "Elia Kazan", "Film Noir", "Film History", "Film Analysis"]
 excerpt: "Sweet Smell of Success and A Face in the Crowd both diagnosed media power in 1957, the gossip column against the broadcast, and one cut deeper than the other."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 61
 author: "chloe-martin"
 last_updated: 2016-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Two American pictures arrived within weeks of each other in the summer of 1957, and between them they took the measure of a country that was learning to manufacture reputation at industrial scale. One looked at the print column, the syndicated paragraph that could lift an unknown into the spotlight or bury a career under a single insinuating line. The other looked at the broadcast, the radio voice and then the television face that could turn a drifter into a force capable of bending an election. Neither film knew it was making the other's argument from the opposite end. Watched together now, Sweet Smell of Success and A Face in the Crowd read like a single diagnosis delivered in two registers, and the question they raise has only sharpened with every decade since: when a society lets a machine decide who is famous and who is finished, who actually holds the controls, and what does that machine do to the people it lifts and the people who watch?
 
-![Sweet Smell of Success vs A Face in the Crowd - Insight Crunch](/assets/images/blog/blog-89.webp)
+![Sweet Smell of Success vs A Face in the Crowd - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 That is the question this comparison sets out to answer, and it is worth stating plainly that the two films do not split the work evenly. They diagnose the same disease from different organs. Alexander Mackendrick's Sweet Smell of Success studies the gossip column as a closed circuit of favor and fear, a Manhattan ecosystem where a press agent feeds the columnist and the columnist feeds the public, and the currency that flows through all of it is the manufactured paragraph. Elia Kazan's A Face in the Crowd studies the broadcast as an open valve, a stream that pours a single voice into millions of living rooms until the voice begins to believe it owns the country. Put the two side by side and you can watch the same engine, reputation built and weaponized for profit, running on two different fuels. The deciding question, the one this piece argues toward, is which film saw further down the road we were actually traveling.
 
