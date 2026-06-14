@@ -6,15 +6,15 @@ date: 2022-12-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 9", "Close Reading", "Jay Gatsby", "F. Scott Fitzgerald"]
 excerpt: "Gatsby's funeral in Chapter 9 is nearly empty, and that emptiness becomes the novel's verdict on his world. A close reading of who came and who stayed away."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2022-12-26
+lang: en
 ---
-
 Gatsby's funeral is the cruelest scene in the novel, and it is cruel by arithmetic. The man who filled a mansion with hundreds of strangers every Saturday night is buried before a handful of people in the rain, and almost none of them knew him. Reading the funeral scene in The Great Gatsby's Chapter 9 closely means refusing the easy response, which is to call it sad and move on. The scene is sadder than that, and more pointed. Fitzgerald built the funeral as a deliberate answer to the parties, a final accounting that sets the guest list against the grave and lets the empty chairs deliver the judgment the narrator never quite says out loud. This article owns that scene: what happens, who appears, who stays away, and why the count of mourners is the harshest thing the book ever says about the world Gatsby tried to buy his way into.
 
-![Gatsby's funeral scene in The Great Gatsby Chapter 9 analyzed, who came and who stayed away - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby's funeral scene in The Great Gatsby Chapter 9 analyzed, who came and who stayed away - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The funeral is not a coda tacked onto the tragedy. It is the place where the novel's central wager comes due. Gatsby spent years converting himself into a magnet for a crowd, on the theory that enough wealth and enough spectacle would close the distance between James Gatz of North Dakota and the world that contained Daisy Buchanan. The funeral measures exactly how wide that distance stayed. To read it well, you have to hold two scenes in your head at once: the Chapter 3 party, where light and music pulled in people who never met their host, and this gray afternoon, where Nick cannot find five people willing to stand at the man's grave. The contrast is the meaning. Everything in this reading turns on it.
 

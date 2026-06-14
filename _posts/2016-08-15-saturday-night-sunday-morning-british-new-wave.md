@@ -6,13 +6,15 @@ date: 2016-08-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Saturday Night and Sunday Morning", "Karel Reisz", "British New Wave", "World Cinema", "Film History"]
 excerpt: "Saturday Night and Sunday Morning made Arthur Seaton the emblem of the British New Wave, the angry young factory worker who turned class anger into a style."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-08-15
+lang: en
 ---
-
 A lathe operator stands at his machine in a Nottingham bicycle factory, the camera close on his hands and his face, and a young man's voice rises over the din to announce a philosophy: a good time on Saturday night, and to hell with everything the bosses and the neighbors and the whole grinding apparatus of respectable life would have him be. That voice belongs to Arthur Seaton, and the film that gave it to British screens is Saturday Night and Sunday Morning, directed by Karel Reisz in 1960. With that single sour, defiant, unapologetically working-class figure, a national cinema turned a corner. The polite drawing rooms and clipped officer-class accents that had dominated British pictures for a generation gave way to terraced streets, factory floors, and a hero who did not want to better himself so much as to be left alone to live.
+
+![Saturday Night and Sunday Morning: British New Wave - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 To understand why this picture matters far beyond its modest budget and its ninety-minute running time, you have to see it not as one good film but as the breakthrough of a movement. The British New Wave, the loose body of social-realist features that arrived at the turn of the 1960s, found in Arthur Seaton its first and most complete emblem. Critics had a name ready for the new mood, kitchen-sink realism, borrowed from the theater and the painters who had begun to put the ordinary back into art. This article takes that movement as its subject and uses Reisz's film as the door into it. The central claim is simple to state and worth defending at length: Saturday Night and Sunday Morning translated the era's private class anger into a public national style, and the worker who refused respectability became the face of a new British cinema.
 

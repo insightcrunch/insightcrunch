@@ -9,14 +9,14 @@ tags: ["Cinema Classics", "Vertigo", "Alfred Hitchcock", "Film Analysis", "Direc
 excerpt: "Vertigo (1958) is the picture where Hitchcock turned his private obsessions into the subject itself, making it the clearest case for the auteur reading."
 image: /assets/images/blog/blog-01.webp
 reading_time: 61
-author: "Insight Crunch Team"
+author: "diana-patel"
+lang: en
 ---
-
 A director faces a simple problem and a hard one. The simple problem is how to keep an audience guessing. The hard problem is how to put a private compulsion on the screen so completely that two hours later the viewer carries it out of the theater like a fever. Vertigo, released by Paramount in 1958, is the film in which Alfred Hitchcock stopped solving the first problem and gave himself entirely to the second. He builds a thriller, then quietly abandons the thriller's reason for being, the withheld answer, halfway through, and spends the rest of the running time studying a man who cannot stop reshaping a living woman into a dead one. The mystery is the bait. The subject is the sickness of looking, controlling, and remaking, and that subject is Hitchcock's own, carried across his entire body of work and concentrated here into its purest form.
 
 That is why Vertigo rewards the auteur reading more richly than almost any other studio picture of its decade. An auteur study asks a precise question: what in this film could only have come from this director, and how does the film make that signature legible at the level of the shot, the cut, the score, and the structure? With Vertigo the answer is unusually clean, because the film is not merely directed by Hitchcock in the way a competent professional directs an assignment. It is about the very impulses that drove him to direct at all: the desire to watch from a safe distance, to arrange people inside a frame, to know the ending and dole it out on his own schedule, and to fashion an idealized image of a woman and then mourn its impossibility. The argument of this analysis is that Vertigo is the operative definition of Hitchcock as an artist, and that the people who first understood this were not American reviewers but European critics, who saw the design beneath the entertainment and built a theory of cinematic authorship partly on the evidence of films like this one.
 
-![Vertigo Hitchcock auteur analysis](/assets/images/blog/blog-01.webp)
+![Vertigo Hitchcock auteur analysis](/assets/images/blog/blog-107.webp)
 
 ## Where the film sits in the body of work
 

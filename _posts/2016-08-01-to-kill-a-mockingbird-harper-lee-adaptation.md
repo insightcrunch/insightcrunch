@@ -6,13 +6,15 @@ date: 2016-08-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "To Kill a Mockingbird", "Robert Mulligan", "Adaptations", "World Cinema", "Film History"]
 excerpt: "To Kill a Mockingbird narrows Harper Lee's novel to a single trial seen through a child's eyes, making injustice legible and Atticus Finch a screen icon."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-08-01
+lang: en
 ---
-
 ## The central decision: narrowing a novel to a trial and a child's eye
+
+![To Kill a Mockingbird: Adapting Harper Lee - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 Every adaptation begins with a cut that no one sees, the decision about what the film will refuse to be. To Kill a Mockingbird, directed by Robert Mulligan in 1962 from Harper Lee's 1960 novel, makes that decision with unusual clarity. Lee's book is a loose, episodic chronicle of three summers in a small Alabama town, narrated by a grown woman remembering herself as a six-year-old. The film keeps the remembering voice, keeps the child, and then quietly throws out most of the chronicle. It pulls the sprawl down to a spine: the children's fear of a reclusive neighbor, their father's defense of a Black man falsely accused of rape, and the slow collision of those two stories on a single violent night. What remains is not a smaller version of the novel. It is a different shape built from the same materials, and the shape is the argument.
 

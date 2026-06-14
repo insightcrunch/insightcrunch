@@ -6,17 +6,17 @@ date: 2022-12-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 8", "Jay Gatsby", "George Wilson", "Close Reading", "American Literature"]
 excerpt: "Gatsby's death in Chapter 8 is a quiet killing in his own pool. A close reading of how Gatsby dies, who shoots him, why, and what the manner of it means."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 49
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2022-12-12
+lang: en
 ---
-
 Gatsby's death in Chapter 8 of *The Great Gatsby* is the strangest kind of climax, because by the time it happens the thing it should resolve has already been lost. The man is shot in his own swimming pool on the first morning he has ever bothered to use it, while waiting for a telephone call that the reader already suspects will never come. Fitzgerald does not stage the killing as a thunderclap. He stages it as a slow settling, a body drifting on a mattress while leaves trace a thin red circle in the water, and only afterward does the gardener find a second corpse in the grass. Reading this chapter well means resisting the urge to treat the murder as the high point of the book, because Fitzgerald has deliberately drained it of suspense. The dream died in the heat of the Plaza suite one chapter earlier. What dies in the pool is only the dreamer, and the gap between those two deaths is where the meaning of the scene lives.
 
 This article owns the death scene itself: the pool, the waiting, the shot, and the way the novel composes a violent killing into one of its most peaceful images. The fuller account of the Louisville past that Gatsby tells Nick the same night belongs to its own reading, and the empty funeral that follows belongs to Chapter 9. Here the focus narrows to the moment of dying and to a single hard question the text raises and refuses to answer cleanly: was Gatsby, at the end, still hoping, or had he already let go? That question is the engine of the scene, and a careful reader can weigh the evidence without pretending the novel settles it.
 
-![Gatsby's death in Chapter 8 of The Great Gatsby, the pool scene close reading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby's death in Chapter 8 of The Great Gatsby, the pool scene close reading - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 ## Where the Death Falls in the Novel's Architecture
 

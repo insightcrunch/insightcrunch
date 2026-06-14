@@ -6,15 +6,15 @@ date: 2022-12-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 8", "Jay Gatsby", "Daisy Buchanan", "Close Reading", "Themes"]
 excerpt: "Great Gatsby Chapter 8 retells Gatsby and Daisy's 1917 Louisville past, revealing the idealized, class-driven love that was unreal from its very beginning."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 49
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2022-12-05
+lang: en
 ---
-
 The Great Gatsby Chapter 8 does something the first seven chapters carefully withhold: it lets Gatsby speak, at length and without performance, about the Louisville past that started everything. On the last night of his life, with the confrontation at the Plaza already lost and Myrtle already dead, Gatsby sits with Nick in the dim house and tells the real story of how he met and loved Daisy Fay in 1917. This article reads Gatsby and Daisy's past as Chapter 8 finally recounts it, the version told now without the legend, so that the emotional history beneath the myth becomes visible. The recollection is the chapter's quiet center, and it reframes everything the reader thought the novel was building toward.
 
-![Great Gatsby Chapter 8 Gatsby and Daisy's past in Louisville 1917 close reading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Great Gatsby Chapter 8 Gatsby and Daisy's past in Louisville 1917 close reading - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 What the chapter offers here is not new plot. It is interpretation. By the time Gatsby tells Nick about Louisville, the reader already knows the outline: a poor officer met a rich girl, went to war, lost her to a wealthier man, and spent five years and a fortune trying to win her back. Chapter 8 supplies the inside of that outline, the feeling and the self-deception that drove it, and in doing so it delivers the article's central claim. Call it the Daisy who never existed. The recollection reveals that Gatsby did not lose a real woman and then idealize her in absence. He idealized her from the first October night, which means the dream was unreal at its origin, not merely at its end. The tragedy is not that the past slipped away. It is that the past Gatsby mourns was already a fiction while he was living it.
 

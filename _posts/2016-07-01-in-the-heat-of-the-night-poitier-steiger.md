@@ -6,15 +6,15 @@ date: 2016-07-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "In the Heat of the Night", "Sidney Poitier", "Norman Jewison", "Performances", "Film History", "World Cinema"]
 excerpt: "In the Heat of the Night routes its racial reckoning through performance, as Poitier and Steiger turn a Mississippi murder case into a duel of dignity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-07-01
+lang: en
 ---
-
 A murder in a small Southern town is a small thing for a movie to be about. A man who refuses to be made small inside that town is a large thing, and that is the real subject of In the Heat of the Night. Norman Jewison's 1967 drama hands its plot to a routine police procedure and hands its meaning to two actors standing in a cramped office, sweating, watching each other, deciding moment by moment how much respect they are willing to give and how much they are able to withhold. The film's argument is carried not by a speech but by a posture, by the angle of a held chin, by the half-second before a reply. Sidney Poitier and Rod Steiger turn a whodunit into a study of who is permitted to be a person, and they do it almost entirely through the craft of performance.
 
-![In the Heat of the Night: The Poitier-Steiger Duet](/assets/images/blog/blog-01.webp)
+![In the Heat of the Night: The Poitier-Steiger Duet](/assets/images/blog/blog-84.webp)
 
 That is the performance problem the picture set for itself, and it is harder than it looks. A lesser version of this story would lean on the murder mystery, would let the plot machinery generate the suspense, and would treat the racial tension as atmosphere. The version Jewison made does the reverse. The investigation is almost beside the point, a frame on which to hang the only contest that matters, the contest between a Black homicide detective from Philadelphia and a white police chief who cannot at first decide whether to jail him or use him. Everything the film wants to say about 1967 America has to come out of the way these two men occupy a room together. The actors had to make character itself into action, had to make dignity legible as a series of choices a viewer can see and name. The claim worth holding onto across this entire reading is simple to state and demanding to prove: In the Heat of the Night routes its racial argument through performance, so that respect becomes something demanded rather than granted, and the demanding is the drama.
 

@@ -6,15 +6,15 @@ date: 2022-11-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 8", "Close Reading", "George Wilson", "F. Scott Fitzgerald"]
 excerpt: "Great Gatsby Chapter 8 analysis: Gatsby's last vigil, the real Louisville past, and the pool killing, read as the novel's quiet, fated falling action."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2022-11-28
+lang: en
 ---
-
 Great Gatsby Chapter 8 is the chapter most readers skim on the way to the funeral, and that is exactly the mistake the chapter is built to expose. The loud work of the novel is already finished. The confrontation that decides everything happened the afternoon before, in a hot suite at the Plaza, and Myrtle Wilson is already dead on the road. What remains is a man waiting by a telephone that will not ring, a story told too late to a listener who cannot use it, and a death that arrives almost as an afterthought. The chapter reads as a long exhale, and the reader who treats it as filler between the climax and the burial misses the most important interpretive fact the novel offers: Fitzgerald kills Gatsby only after the dream that animated him is already gone, so the murder is not the tragedy but its echo.
 
-![Great Gatsby Chapter 8 summary and analysis of Gatsby's last night and death - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Great Gatsby Chapter 8 summary and analysis of Gatsby's last night and death - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 That ordering is deliberate, and it is the whole argument of the chapter. The bullet does not destroy the dream; the dream died the previous day when Daisy failed to say she had never loved Tom, and Chapter 8 simply records the body catching up to the hope. Read that way, this stretch of the book becomes a study in what happens after meaning leaves a life but before the life ends, and Fitzgerald handles that interval with a quietness that is itself a literary decision. This close reading walks the chapter movement by movement, transcribes the lines that carry its weight, and defends a single claim about why the calm matters more than the gunshot.
 

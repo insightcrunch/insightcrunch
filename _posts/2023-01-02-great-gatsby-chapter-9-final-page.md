@@ -6,15 +6,15 @@ date: 2023-01-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 9", "Close Reading", "Symbolism", "American Literature", "F. Scott Fitzgerald"]
 excerpt: "The final page of Great Gatsby Chapter 9 is a designed movement that widens from Gatsby's private dream to America's dream and then to every human striving."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2023-01-02
+lang: en
 ---
-
 Almost everyone who has read the novel can recite a fragment of its ending, yet almost no one reads the whole of it. The final page of Great Gatsby Chapter 9 has been reduced, in classrooms and quote walls and graduation cards, to a single famous sentence about boats, and that reduction quietly throws away the thing that makes the sentence land. The last sentence works because of the page that builds to it. Take the page apart and you find not a stray aphorism but a deliberate movement, a controlled widening of the lens that starts with one dead man on a strip of Long Island and ends with the entire human capacity for hope. Reading that movement, rather than memorizing its last line, is the difference between knowing how Gatsby ends and understanding what its ending does.
 
-![The final page of Great Gatsby Chapter 9 analyzed, from the green breast of the new world to the receding green light - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The final page of Great Gatsby Chapter 9 analyzed, from the green breast of the new world to the receding green light - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 This article reads the closing meditation as a unit. The most quoted single sentence and the boats image have their own dedicated treatments, and the green light across the whole novel has its own symbol study; here the subject is the passage as a passage, the way Fitzgerald engineers a final paragraph cluster that lifts off from Gatsby and refuses to come back down. The claim worth holding onto, the one this reading defends and names, is what we will call the widening close: the last page zooms out in three distinct steps, from Gatsby's private dream to the founding dream of the continent to every human striving toward something just out of reach. By the time the page ends, Gatsby's failure has stopped being Gatsby's. It has become ours.
 
