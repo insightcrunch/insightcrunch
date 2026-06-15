@@ -8,7 +8,7 @@ tags: ["World Cup 2026", "Canada", "Bosnia and Herzegovina", "Group Stage", "Hos
 excerpt: "Canada vs Bosnia World Cup 2026 preview and prediction: team news, Alphonso Davies fitness, predicted lineups, head to head and Group B stakes in Toronto."
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 60
-author: "diana-patel"
+author: "sofia-marchetti"
 last_updated: 2026-06-13
 lang: en
 ---

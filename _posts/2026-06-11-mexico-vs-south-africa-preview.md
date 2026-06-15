@@ -8,7 +8,7 @@ tags: ["World Cup 2026", "Mexico", "South Africa", "Group Stage", "Match Preview
 excerpt: "Mexico vs South Africa World Cup 2026 preview: prediction, predicted lineups, head-to-head and the key battle as El Tri kick off at the Estadio Azteca."
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
-author: "amanda-ross"
+author: "sofia-marchetti"
 last_updated: 2026-06-11
 lang: en
 ---

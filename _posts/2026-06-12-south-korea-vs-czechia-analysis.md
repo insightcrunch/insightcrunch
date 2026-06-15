@@ -8,7 +8,7 @@ tags: ["World Cup 2026", "South Korea", "Czechia", "Group Stage", "Match Analysi
 excerpt: "South Korea vs Czechia result and analysis: how Oh Hyeon-gyu's late winner sealed a dramatic 2-1 comeback in the World Cup 2026 Group A opener in Guadalajara."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
-author: "chloe-martin"
+author: "bruno-carvalho"
 last_updated: 2026-06-12
 lang: en
 ---

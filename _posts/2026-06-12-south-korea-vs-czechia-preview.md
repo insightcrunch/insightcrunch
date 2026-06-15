@@ -8,7 +8,7 @@ tags: ["World Cup 2026", "South Korea", "Czechia", "Group A", "Match Preview", "
 excerpt: "South Korea vs Czechia World Cup 2026 preview: prediction, predicted lineups, head-to-head and the midfield battle set to decide a pivotal Group A opener."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
-author: "amanda-ross"
+author: "aisha-rahman"
 last_updated: 2026-06-12
 lang: en
 ---

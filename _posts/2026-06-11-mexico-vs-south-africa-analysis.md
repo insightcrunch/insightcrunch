@@ -8,7 +8,7 @@ tags: ["World Cup 2026", "Mexico", "South Africa", "Group Stage", "Match Analysi
 excerpt: "Mexico vs South Africa result and analysis: Quinones and Jimenez sealed a 2-0 World Cup 2026 opener defined by three red cards at the historic Estadio Azteca."
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
-author: "amanda-ross"
+author: "naomi-adebayo"
 last_updated: 2026-06-11
 lang: en
 ---

@@ -8,7 +8,7 @@ tags: ["World Cup 2026", "Canada", "Bosnia and Herzegovina", "Group Stage", "Mat
 excerpt: "Canada vs Bosnia ended 1-1 as Cyle Larin's late strike earned the co-hosts their first ever World Cup point in this tense World Cup 2026 Group B opener."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 62
-author: "diana-patel"
+author: "carlos-mendez"
 last_updated: 2026-06-13
 lang: en
 ---

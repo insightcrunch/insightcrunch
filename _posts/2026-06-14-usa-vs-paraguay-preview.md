@@ -8,7 +8,7 @@ tags: ["World Cup 2026", "USA", "Paraguay", "Group Stage", "Match Preview", "Pre
 excerpt: "USA vs Paraguay prediction, lineups, head to head and key battles for the World Cup 2026 Group D opener at SoFi Stadium, plus what each side must deliver."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
-author: "chloe-martin"
+author: "sebastian-vogt"
 last_updated: 2026-06-14
 lang: en
 ---
