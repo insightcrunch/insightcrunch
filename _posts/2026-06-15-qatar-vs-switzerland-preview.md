@@ -6,15 +6,15 @@ date: 2026-06-15
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Qatar", "Switzerland", "Group Stage", "Group B", "Match Preview"]
 excerpt: "Qatar vs Switzerland World Cup 2026 preview: prediction, predicted lineups, head-to-head, the key battle and what each side needs from the Group B opener."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-15
+lang: en
 ---
-
 Qatar vs Switzerland at World Cup 2026 is not a fixture decided by who has the better players, because that question has an obvious answer. It is decided by whether Switzerland can convert the control they will almost certainly enjoy into goals, and whether Qatar can build a wall patient and disciplined enough to make the favorites pay a high tax for every chance they want. That is the whole shape of this Group B opener in San Francisco: a fancied European side that has reached the knockout rounds in each of its last three World Cups against an Asian champion that has never won, or even drawn, a World Cup match. The interesting part is not the gap in pedigree. The interesting part is the precise mechanism by which a smaller side keeps a bigger one out, and the precise mechanism by which the bigger side finally breaks through. Get those two right and you understand this game before a ball is kicked.
 
-![Qatar vs Switzerland World Cup 2026 preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Qatar vs Switzerland World Cup 2026 preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 This is the meeting of two teams whose ambitions sit at very different altitudes but whose immediate need is identical. Switzerland want to start a tournament the way contenders are supposed to, with three points banked and the table tilted in their favor before the heavyweight European reunion later in the group. Qatar want, more than anything, to erase the memory of 2022, when they hosted the tournament and lost all three of their group games, and to take the single point or the single win that would rewrite their World Cup record. Both of those goals run through ninety minutes at Levi's Stadium, and both depend on the same handful of duels. The favorite has more ways to win. The underdog has exactly one road, and it is narrow. This preview maps both.
 

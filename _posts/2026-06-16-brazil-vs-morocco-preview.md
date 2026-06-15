@@ -6,15 +6,15 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Morocco", "Group Stage", "Match Preview"]
 excerpt: "Brazil vs Morocco World Cup 2026 preview and prediction: predicted lineups, the key transition battle, the head-to-head record and what each side needs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-16
+lang: en
 ---
-
 Brazil vs Morocco at World Cup 2026 is the only fixture in the entire group stage that puts two top-ten nations on the same pitch, and it lands on the opening weekend in New Jersey, before either side has settled into the tournament. The headline writes itself, but the headline is not the interesting part. The interesting part is a tactical contradiction sitting right at the heart of the matchup. Carlo Ancelotti has spent a year building the most forward-leaning Brazil setup in a generation, a shape that can put four attackers on the field at once. Morocco, more than any team on earth, are built to punish exactly that. The Atlas Lions reached a World Cup semi-final in 2022 by defending in a tight block and breaking at speed, and they have spent the years since refining the art of turning an opponent's ambition into their own counter-attack. So the question this game poses is sharp and specific: can Brazil commit numbers forward against the one side designed to make them pay for it, and if they do, who controls the seconds after the ball changes hands?
 
-![Brazil vs Morocco World Cup 2026 preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Brazil vs Morocco World Cup 2026 preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 That single tension runs through everything else worth knowing about this fixture, and it is the reason a group opener between Brazil and Morocco carries more weight than a first-round game usually does. This is not a giant against a minnow. It is the sixth-ranked nation in the world against the eighth, the five-time champions against the reigning kings of Africa, a side chasing a first global title in twenty-four years against a side trying to prove that 2022 was a foundation rather than a freak. Get this preview right and you will not just know who is likely to win. You will know why, where on the pitch it will be decided, which selection calls matter most, and what each result does to a Group C that also contains Scotland and Haiti. Everything here is built from what was knowable before kickoff. The verdict on what actually happened lives in the companion piece, the [Brazil vs Morocco result, player ratings and tactical analysis](/2026/06/16/brazil-vs-morocco-analysis/), which is where the post-match story belongs.
 

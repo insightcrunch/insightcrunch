@@ -6,17 +6,17 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Haiti", "Scotland", "Group Stage", "Match Preview", "Group C"]
 excerpt: "Haiti vs Scotland World Cup 2026 preview: prediction, predicted lineups, head to head, key battles and what Group C means for Steve Clarke's returning Scots."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-06-17
+lang: en
 ---
-
 The single question that decides Haiti vs Scotland at World Cup 2026 is not who has the better players, because that argument is settled before anyone steps onto the grass in Foxborough. It is whether Scotland can solve the problem that Haiti have spent two years learning to pose: a deep, narrow, stubborn defensive block that asks an opponent to be patient, precise, and clinical for ninety minutes, and punishes any side that is only two of those three. Steve Clarke's team arrive at their first World Cup in 28 years as clear favorites against a Caribbean nation playing in the tournament for the first time since 1974, and the gap in pedigree, squad value, and recent tournament football is real. The gap in the thing that actually wins this kind of match, the ability to break a low block without losing the game on the counter, is much smaller and far more interesting.
 
 That is the lens this preview takes, because it is the lens the fixture itself demands. This is a meeting of two redemption stories that are completely different in shape. Scotland have qualified for nine World Cups and never escaped the group stage, a record that has become a national ache, and they finally return to the biggest stage carrying both relief and a quiet, growing belief that this squad is better equipped than any since 1998. Haiti, by contrast, are not chasing a knockout breakthrough; they are chasing a single point, a single goal, a single moment that would rewrite a tournament history that currently reads as three defeats in West Germany half a century ago. When a heavy favorite meets a side with nothing to lose and everything to prove, the match is rarely as simple as the rankings suggest.
 
-![Haiti vs Scotland World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Haiti vs Scotland World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 ## What Haiti vs Scotland Means in Group C
 

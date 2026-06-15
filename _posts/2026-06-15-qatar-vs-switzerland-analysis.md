@@ -6,17 +6,17 @@ date: 2026-06-15
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Qatar", "Switzerland", "Group Stage", "Match Analysis", "Group B"]
 excerpt: "Qatar vs Switzerland result and analysis: how 26 Swiss shots produced one goal and a late Khoukhi header earned Qatar a historic World Cup 2026 point."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-06-15
+lang: en
 ---
-
 Qatar 1-1 Switzerland will not be remembered for the goal that decided it, because no single goal decided it. The match that opened Group B at World Cup 2026, played at Levi's Stadium in Santa Clara on June 13, was settled instead by the strikes that never arrived: twenty-six Switzerland efforts, exactly one of them converted, and a stoppage-time header from Qatar captain Boualem Khoukhi that turned a comfortable Swiss afternoon into the first genuine shock of the tournament. Murat Yakin's side did almost everything a favorite is supposed to do except the only thing that matters at this level, which is to put the ball in the net more than once when twenty-six invitations present themselves.
 
 The result reads as a draw, and the league table will record it as a point apiece, but the truth of the ninety-plus minutes is sharper than that. This was a contest in which the better team lost two of the three points it had earned through sheer territorial superiority, and a debutant in everything but name, an Asian champion that had never previously taken a single point at a World Cup, walked away with the loudest celebration of the day. The decisive factor was not Qatar's resistance, impressive as it was in the closing exchanges, and it was not a refereeing call, controversial as one of them became. The decisive factor was Swiss profligacy, the gap between chances created and chances taken, and that gap is the spine of everything that follows.
 
-![Qatar vs Switzerland World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Qatar vs Switzerland World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 For Qatar, managed by Julen Lopetegui, the point carries a weight that the bare scoreline cannot convey. The 2022 hosts lost all three of their group games on home soil, conceded seven and scored once, and left their own tournament without a single point to show for it. That history made the equalizer at the San Francisco Bay Area Stadium more than a goal. It was the first point in the nation's World Cup existence, claimed in their fourth World Cup match, and it arrived in the cruelest possible fashion for their opponents, four minutes into second-half stoppage time, from a side that had barely threatened for an hour. The reaction told the story: the Maroons celebrated as though they had won a knockout tie, and Switzerland trudged off looking like a team that had lost one.
 

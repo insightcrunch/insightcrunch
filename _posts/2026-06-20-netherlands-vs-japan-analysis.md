@@ -6,15 +6,15 @@ date: 2026-06-20
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Netherlands", "Japan", "Group Stage", "Match Analysis", "Player Ratings"]
 excerpt: "Netherlands vs Japan result and analysis from World Cup 2026: Japan came from behind twice in Dallas as Kamada's late header sealed a dramatic 2-2 draw."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-20
+lang: en
 ---
-
 Netherlands vs Japan at World Cup 2026 ended 2-2, and the truest measure of the night was not either of the two goals the Dutch scored but the third goal they never found. Twice Ronald Koeman's side led at AT&T Stadium in Arlington, through a Virgil van Dijk header and a Crysencio Summerville curler, and twice Japan refused to accept it, leveling first through Keito Nakamura and then through a Daichi Kamada header deep in the closing stages. A favorite that talks about winning the tournament walked away with one point from a game it controlled, and a side billed as a dark horse walked away validated. That gap between control and conviction is the whole story of this opener.
 
-![Netherlands vs Japan World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Netherlands vs Japan World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 The 69,285 inside the home of the Dallas Cowboys watched a first half so cautious it threatened to pass without incident, then a second half that delivered four goals in under forty minutes and a finish that left orange-clad supporters silent and the Samurai Blue end roaring. The result reads as a draw, which sounds like a balanced outcome, but it did not feel balanced to either bench. Koeman left the field believing his team had thrown away two points it had earned; Hajime Moriyasu left believing his team had announced itself on the tournament's biggest stage. Both were right, and the reasons each was right tell you a great deal about where these two nations sit as the 2026 World Cup begins.
 

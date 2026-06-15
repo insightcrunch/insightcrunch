@@ -6,17 +6,17 @@ date: 2026-06-14
 categories: ["Leisure"]
 tags: ["World Cup 2026", "USA", "Paraguay", "Group Stage", "Match Analysis", "Folarin Balogun"]
 excerpt: "The USA vs Paraguay result at World Cup 2026 was a 4-1 statement, with a Balogun brace and a Pulisic masterclass that reshaped Group D from minute one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-14
+lang: en
 ---
-
 The single number that explains USA vs Paraguay at World Cup 2026 is not the four on the home side of the scoreline. It is the seven, the minute on the clock when Damian Bobadilla turned a United States cross into his own net and handed the hosts a lead they would never relinquish. The final read of 4-1 looks like a procession, and in many ways it was, but the match was settled in the opening quarter of an hour by a level of intensity Paraguay had no answer for and never recovered from. The United States did not grind Gustavo Alfaro's side down over ninety minutes. They overwhelmed it inside fifteen, and everything that followed, the Folarin Balogun brace, the Christian Pulisic masterclass, the late Gio Reyna flourish, was the consequence of a start so ferocious that the game's competitive phase barely lasted a single sip of a beer in the SoFi Stadium concourse.
 
 That is the decisive-factor verdict this analysis will defend: the United States' early intensity, not its late quality, decided this match. The finishing that produced four goals flattered an expected-goals figure of 1.42, and a calmer Paraguay on another night escapes with two or three conceded rather than four. But the pressing, the willingness to attack the channels from the first whistle, and the refusal to let a nervy opening two minutes become a pattern were sustainable, repeatable strengths. They are the reason this was, for many who watched it, the best forty-five minutes a United States men's team has produced at a World Cup, and the reason the rest of Group D now has to reckon with a host that looks nothing like the side that limped out of the 2022 Round of 16.
 
-![USA vs Paraguay World Cup 2026 result, player ratings, and analysis of the 4-1 win - Insight Crunch](/assets/images/blog/blog-01.webp)
+![USA vs Paraguay World Cup 2026 result, player ratings, and analysis of the 4-1 win - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 This was Match 4 of the 2026 World Cup, played on June 12 at the venue officially branded as Los Angeles Stadium and known to everyone who walked through its gates as SoFi, in Inglewood, California. It was the United States' first appearance at the tournament it co-hosts with Mexico and Canada, and the weight of that occasion, the years of build-up, the questions about whether Mauricio Pochettino had assembled something coherent, all of it dissolved within minutes of kickoff. What follows is the full account: how the goals came, why the result happened, who decided it, what the numbers say, and what a statement opening win means for the United States, for a deflated Paraguay, and for the shape of a Group D that suddenly has two sides on three points and two staring at an early hole.
 
