@@ -958,3 +958,83 @@ amara-okafor:
   avatar: /assets/images/authors/amara-okafor.webp
   pool: african
   gender: F
+daniel-okoro:
+  name: Daniel Okoro
+  credential: Sports Tactics Writer
+  bio: Breaks down game plans, in-match adjustments, and strategy across football,
+    basketball, cricket, and beyond.
+  avatar: /assets/images/authors/daniel-okoro.webp
+  pool: sports
+  gender: M
+sofia-marchetti:
+  name: Sofia Marchetti
+  credential: Match Analyst
+  bio: Writes player ratings, turning points, and tactical breakdowns across team
+    sports and major tournaments.
+  avatar: /assets/images/authors/sofia-marchetti.webp
+  pool: sports
+  gender: F
+liam-ferris:
+  name: Liam Ferris
+  credential: Sports Data Analyst
+  bio: Turns advanced metrics and box-score numbers into readable match stories
+    across every sport.
+  avatar: /assets/images/authors/liam-ferris.webp
+  pool: sports
+  gender: M
+naomi-adebayo:
+  name: Naomi Adebayo
+  credential: Women's Sport Correspondent
+  bio: Covers the women's game across football, athletics, cricket, and tennis,
+    from grassroots to world finals.
+  avatar: /assets/images/authors/naomi-adebayo.webp
+  pool: sports
+  gender: F
+carlos-mendez:
+  name: Carlos Mendez
+  credential: North American Sports Correspondent
+  bio: Follows the major US and Canadian leagues plus host-city events across the
+    continent up close.
+  avatar: /assets/images/authors/carlos-mendez.webp
+  pool: sports
+  gender: M
+bruno-carvalho:
+  name: Bruno Carvalho
+  credential: South American Sports Correspondent
+  bio: Covers football, motorsport, and continental tournaments across South America
+    with an eye for flair.
+  avatar: /assets/images/authors/bruno-carvalho.webp
+  pool: sports
+  gender: M
+yuki-mori:
+  name: Yuki Mori
+  credential: Asia-Pacific Sports Correspondent
+  bio: Tracks Asian and Pacific leagues, the Olympic pipeline, and rising stars
+    across the region.
+  avatar: /assets/images/authors/yuki-mori.webp
+  pool: sports
+  gender: F
+sebastian-vogt:
+  name: Sebastian Vogt
+  credential: European Sports Writer
+  bio: Reports on European leagues, continental cups, and Grand Prix weekends from
+    the heart of the action.
+  avatar: /assets/images/authors/sebastian-vogt.webp
+  pool: sports
+  gender: M
+aisha-rahman:
+  name: Aisha Rahman
+  credential: Sports Features Writer
+  bio: Writes on fan culture, host cities, and the human side of the games behind
+    the scoreline.
+  avatar: /assets/images/authors/aisha-rahman.webp
+  pool: sports
+  gender: F
+grace-whitmore:
+  name: Grace Whitmore
+  credential: Sports Desk Editor
+  bio: Oversees previews, results, and tournament coverage across every sport on
+    the desk.
+  avatar: /assets/images/authors/grace-whitmore.webp
+  pool: sports
+  gender: F

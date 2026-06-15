@@ -219,6 +219,14 @@ rules:
     scope: "any"
     pool: "mixed"
 
+  # ── SPORTS: World Cup + multi-sport coverage (tag-scoped) ─
+  # Routes any sport (not only football) via match/tournament tags.
+  # Stays under the "Leisure" category but is matched before the
+  # Leisure fallback below, so sports posts get sports bylines.
+  - keywords: ["World Cup 2026", "World Cup", "Group Stage", "Match Preview", "Match Analysis", "Match Report", "Host Nation", "Player Ratings", "Box Score", "Olympics", "Olympic Games", "Champions League", "Premier League", "La Liga", "UEFA Euro", "Asian Cup", "Copa America", "Cricket World Cup", "T20 World Cup", "IPL", "NBA", "NFL", "NHL", "MLB", "Tennis", "Grand Slam", "Wimbledon", "Formula 1", "Grand Prix", "Super Bowl", "Test Match", "Playoffs"]
+    scope: "tags"
+    pool: "sports"
+
   # ── CATEGORY-LEVEL FALLBACKS ─────────────────────────────
   - categories: ["Analytics"]
     pool: "mixed"
