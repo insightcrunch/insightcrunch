@@ -6,13 +6,15 @@ date: 2017-12-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Chariots of Fire", "Vangelis", "Hugh Hudson", "Film Scores", "British Cinema", "World Cinema"]
 excerpt: "Chariots of Fire scored a 1920s Olympic drama with the Vangelis synthesizer, and the bold anachronism made the period picture feel timeless, not dated."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2017-12-15
+lang: en
 ---
-
 A handful of synthesizer notes climb over a pulse, men in white run barefoot through wet sand, and a period sports picture about two runners at the 1924 Olympics becomes one of the most recognizable sounds in the history of motion pictures. That is the strange achievement of Chariots of Fire (1981), directed by Hugh Hudson and produced by David Puttnam, scored by the Greek composer Vangelis. The story is set in the early twentieth century, in a Britain of cobbled quadrangles, dress dinners, and Gilbert and Sullivan. The music that carries it is none of those things. It is electronic, contemporary to its own moment of release, and built from instruments that did not exist when Harold Abrahams and Eric Liddell were alive. By every rule of period decorum that pairing should fail. Instead it produced a theme that topped record charts, won an Academy Award, and attached itself so completely to the act of running that millions who have never seen the film can hum it on cue.
+
+![Chariots of Fire: Why the Vangelis Score Endures - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 This analysis treats the music as the organizing principle of Chariots of Fire, because for this picture it genuinely is. Strip the Vangelis score away and you have a handsomely mounted, slightly stately British prestige drama, accomplished but conventional. Add the score back and the same images acquire lift, longing, and a sense of the timeless that the costumes and the dialogue, on their own, never reach. The central argument here is simple to state and worth defending at length: the anachronism is not a flaw the picture survives but the very engine of its power. By scoring a 1920s tale with a modern synthesizer, Hudson and Vangelis made a story of faith and effort feel universal rather than antique, and that single daring choice is what turned a modestly budgeted British movie into a cultural touchstone that has outrun the film around it.
 

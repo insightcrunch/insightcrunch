@@ -6,15 +6,15 @@ date: 2023-08-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jordan Baker", "Character Analysis", "Context", "American Literature", "F. Scott Fitzgerald"]
 excerpt: "Jordan Baker: the dishonest modern woman of The Great Gatsby is the era's new woman, her freedom shadowed by the casual lying the novel cannot fully trust."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2023-08-07
+lang: en
 ---
-
 There is a question most readers skip when they meet Jordan Baker, and it is the question that unlocks her: is she a woman the novel admires, a woman the novel warns against, or a woman the novel cannot make up its mind about? Treat Jordan Baker: the dishonest modern woman as a minor love interest and you lose the most concentrated portrait of female modernity Fitzgerald gives us. She is the book's clearest specimen of the 1920s new woman, the independent, athletic, financially self-supporting, sexually free figure who frightened and fascinated her decade in equal measure, and the way the novel handles her freedom tells us exactly how far its sympathies for that freedom go.
 
-![Jordan Baker, the dishonest modern woman of The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Jordan Baker, the dishonest modern woman of The Great Gatsby](/assets/images/blog/blog-56.webp)
 
 This article owns one facet of Jordan: her standing as the new woman of the Jazz Age. The complete portrait, her function as witness, her romance with Nick, her clear-eyed cynicism, lives in the hub study, the [complete character analysis of Jordan Baker](/2023/07/31/jordan-baker-character-analysis/). Here the work is narrower and sharper. We read Jordan against the social type she embodies, watch the novel admire her self-possession and flinch at her dishonesty in the same breath, and arrive at a defensible verdict: Jordan is the new woman the novel cannot fully trust, and the dishonesty shadowing her freedom is the book registering its own unease about what an emancipated woman might become.
 

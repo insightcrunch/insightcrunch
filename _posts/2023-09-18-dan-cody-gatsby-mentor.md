@@ -6,17 +6,17 @@ date: 2023-09-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Dan Cody", "Character Analysis", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Dan Cody is Gatsby's forgotten mentor, the rich adventurer who shaped James Gatz and previewed his fate. A full character study of the man behind Jay Gatsby."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2023-09-18
+lang: en
 ---
-
 The single most important relationship in Jay Gatsby's life is not with Daisy. It is with a dead man whose portrait hangs in Gatsby's bedroom and whose name most readers forget the moment they close the book. **Dan Cody** is the wealthy yachtsman who plucked a poor seventeen-year-old off the Minnesota shore, renamed his world, and handed him the only working model he would ever have of what a rich man looks like, moves like, and wants. Without this older man there is no Jay Gatsby, only James Gatz. The mansion, the parties, the careful clothes, the whole performance of effortless wealth: the blueprint for all of it came from five years aboard a yacht owned by a debauched silver and copper millionaire who drank himself toward death while a watchful boy learned everything by looking.
 
 That is the central question this character study takes up. If Cody is so easy to forget, why does Fitzgerald give him a portrait, a backstory, a fortune, and a death? The answer is that the mentor is also the warning. Cody supplies the template of the self-made millionaire and, in his used-up, dissipated end, previews exactly where that template leads. The man who shows Gatsby how to rise is the same man whose ruin shows what rising costs. Reading Cody as trivia misses the structural work he does; reading him closely reveals one of the novel's quietest and most exact pieces of foreshadowing.
 
-![Dan Cody, Gatsby's forgotten mentor in The Great Gatsby, character analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dan Cody, Gatsby's forgotten mentor in The Great Gatsby, character analysis - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This article makes the case that Cody is not minor at all. He is the formative cause of Gatsby's self-invention and a compressed prophecy of Gatsby's collapse, folded into a few paragraphs of Chapter 6 and a stray portrait Nick notices upstairs. To see how, we have to read him as a full figure: his function in the plot, the way Fitzgerald frames his first appearance, the psychology the text gives him, the symbolic weight he carries, his strange arc through a novel he never physically walks through, the passages that define him, and the critical debate over whether he matters at all. By the end, the verdict will be plain. The forgotten mentor is the hidden hinge of the entire Gatsby myth.
 

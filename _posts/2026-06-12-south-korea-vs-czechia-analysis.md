@@ -6,15 +6,15 @@ date: 2026-06-12
 categories: ["Leisure"]
 tags: ["World Cup 2026", "South Korea", "Czechia", "Group Stage", "Match Analysis", "Hwang In-beom"]
 excerpt: "South Korea vs Czechia result and analysis: how Oh Hyeon-gyu's late winner sealed a dramatic 2-1 comeback in the World Cup 2026 Group A opener in Guadalajara."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-12
+lang: en
 ---
-
 South Korea began their World Cup 2026 campaign the way the better team usually wants to, by winning, but they did it the hard way, falling behind to a set-piece they had been warned about and then rebuilding the game from their bench. The 2-1 result against Czechia in the second match of the tournament reads like a straightforward comeback, and in one sense it was: Ladislav Krejci headed Czechia in front in the 59th minute, Hwang In-beom equalized eight minutes later, and substitute Oh Hyeon-gyu turned in the winner with ten minutes left in Guadalajara. But the scoreline hides the thing that actually decided it. South Korea controlled the night without scoring for an hour, conceded against the run of play to the one route Czechia were always going to try, and then found the answer not in their starting plan but in the players Hong Myung-bo introduced to change the shape of the contest. The single most useful sentence to carry away from this match is that the bench, not the first eleven, supplied the goal that won it.
 
-![South Korea vs Czechia World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![South Korea vs Czechia World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 That distinction matters because it tells you something durable about this Korea side rather than something about one lucky bounce. Hong's team is built around a small group of high-quality attackers and a deep, useful bench, and the manager trusts both. On a night when the starters could not break through and a moment of set-piece defending went wrong, Hong reached for changes early enough to matter, and the changes worked. Czechia, back at a World Cup for the first time in twenty years, played to a clear and honest plan, took their chance from it, and were beaten by the side that adapted faster. This analysis works through how the result was reached, why it happened, where it turned, who decided it, what the numbers say, and what it means for Group A and for both teams from here. Every fact below was confirmed against the official match record and major reporting before being stated.
 

@@ -6,15 +6,15 @@ date: 2026-06-13
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Canada", "Bosnia and Herzegovina", "Group Stage", "Match Analysis", "Cyle Larin"]
 excerpt: "Canada vs Bosnia ended 1-1 as Cyle Larin's late strike earned the co-hosts their first ever World Cup point in this tense World Cup 2026 Group B opener."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-06-13
+lang: en
 ---
-
 Canada vs Bosnia at World Cup 2026 will be remembered for one substitute, one finish, and a number that had eluded a nation for forty years. The co-hosts drew 1-1 with Bosnia and Herzegovina at Toronto Stadium on June 12, and in doing so claimed the first point in the history of Canadian men's World Cup football. The headline is the comeback. The truer story is the hour that preceded it, when Jesse Marsch's side built a commanding platform, missed the chances that should have buried the game, and came within a set-piece and a missed sitter of throwing away a contest they had largely controlled. Cyle Larin needed two minutes off the bench to rewrite the night. The forty years of waiting needed every one of the seventy-eight that came before.
 
-![Canada vs Bosnia World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Canada vs Bosnia World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 This was the first men's World Cup match ever played on Canadian soil, and it carried the strange double weight of celebration and pressure. The pre-match show belonged to Michael Buble and Alanis Morissette, the crowd belonged to a sea of red that included Connor McDavid and Ryan Reynolds, and for twenty minutes the occasion belonged entirely to Canada. Then Jonathan David skewed a clear chance straight at the goalkeeper, Bosnia broke upfield, Jovo Lukic rose at the near post from a corner, and the celebration curdled into the old familiar dread. That Canada did not lose, that they found a route back, and that they ended the evening with something tangible to show for it, makes this one of the more significant results in the country's footballing history even though no one won.
 

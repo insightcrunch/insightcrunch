@@ -6,15 +6,15 @@ date: 2023-09-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Meyer Wolfsheim", "Character Analysis", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism"]
 excerpt: "Meyer Wolfsheim character analysis: the gambler who fixed the World Series and Gatsby's criminal backer, plus the antisemitic stereotype behind his portrait."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2023-09-11
+lang: en
 ---
-
 A reader who wants an honest Meyer Wolfsheim character analysis has to do two jobs at once, and most study guides only do one. The first job is to read what Wolfsheim does inside the plot: he is the gambler who fixed the World Series, the underworld patron who set Gatsby up in business, and the one man close to Gatsby who will not come to his funeral. The second job is to read how Fitzgerald draws him, because that portrait leans hard on antisemitic caricature, and a reading that skips the prejudice is no more complete than a reading that lets the prejudice cancel the function. This article holds both at the same time, because the figure cannot be understood any other way.
 
-![Meyer Wolfsheim character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Meyer Wolfsheim character analysis in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 The temptation, when a minor character carries an ugly stereotype, is to choose a side and stay there. Some readers treat Wolfsheim as a piece of comic local color, a funny old crook with cufflinks made of teeth, and never notice the structural load he carries. Others see the caricature, recoil, and refuse to read him as anything but evidence of the author's prejudice. Neither move gives the figure his full weight. Wolfsheim is the proof of where Gatsby's money actually comes from, the only adult who admits to having built the man, and the one mourner who decides his own safety matters more than loyalty. He is also drawn through a lens of bigotry that the novel never examines. A complete reading names both facts and refuses to let either erase the other.
 

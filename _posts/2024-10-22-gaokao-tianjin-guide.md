@@ -6,14 +6,14 @@ date: 2024-10-22
 categories: ["Industry"]
 tags: ["高考", "天津高考", "天津分数线", "南开大学", "Tianjin Gaokao", "Provincial Guide"]
 excerpt: "天津高考全解析:作为拥有自主命题权的直辖市,津门考生基数小、本地名校多、录取名额相对充裕,长期被称为高考洼地。本文系统剖析三加三选科与等级赋分规则、南开大学与天津大学的报考门道、户籍红利成因、海河英才落户争议及异地高考的真实门槛,并附京津冀三地对比、各分数段志愿填报策略与全年备考规划,帮助考生与家长看清这盘棋。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "ma-ruoxi"
+lang: zh
 ---
-
 在中国高考的版图上,津门是一个特别的存在。它不像河南、山东那样以庞大的考生基数和惨烈的竞争闻名,也不像北京、上海那样长期处在舆论的聚光灯下。天津更像是一座低调的"高考洼地":作为直辖市,它拥有自主命题的权力,坐拥南开大学与天津大学两所顶尖学府,考生基数小,而本地录取名额却相对充裕。正因如此,过去几年里"落户本市、参加高考"一度成为全国家长群里热议的话题,甚至演变成一场关于教育公平的公共争论。这篇指南将带你完整理解该市高考的独特生态,从命题方式、改革模式、院校格局,到户籍红利、异地高考门槛、京津冀三地的命运差异,帮助每一位关心天津高考的学子和家长看清这盘棋的全貌。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-18.webp)
 *这座城市高考全景解析:直辖市优势、户籍争议与南开天大录取攻略*
 
 ## 天津高考为何与众不同:直辖市的独立生态

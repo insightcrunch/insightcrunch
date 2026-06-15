@@ -6,17 +6,17 @@ date: 2026-06-13
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Canada", "Bosnia and Herzegovina", "Group Stage", "Host Nation", "Match Preview"]
 excerpt: "Canada vs Bosnia World Cup 2026 preview and prediction: team news, Alphonso Davies fitness, predicted lineups, head to head and Group B stakes in Toronto."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-06-13
+lang: en
 ---
-
 The single question that defines Canada vs Bosnia at World Cup 2026 is not who is the better team on paper, because the co-hosts settle that comfortably, but whether Canada can solve a problem they have never once solved on this stage: how do you break down a side that has built its entire identity around refusing to be broken down? Bosnia and Herzegovina arrive in Toronto as a team engineered to absorb, to stay compact, to wait, and to punish a single lapse from a dead ball or a transition. Canada arrive as a host nation carrying the weight of a country that has waited a generation for this afternoon, with a pressing machine designed to overwhelm and a goal record across previous World Cups that reads, plainly, as a row of defeats. The opener at BMO Field is the place where one of those two truths gives way.
 
 That is the whole drama of this Group B fixture, and it is why the result will be decided in a very specific zone of the pitch rather than across the full ninety minutes of possession that the expected-goals models will eventually tally. Canada will have the ball. Canada will have the crowd. What Canada must find is the breakthrough, and finding it against this opponent is the test that the rest of their tournament hangs on.
 
-![Canada vs Bosnia World Cup 2026 preview and prediction at BMO Field in Toronto - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Canada vs Bosnia World Cup 2026 preview and prediction at BMO Field in Toronto - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 This preview sets the game up completely. It covers what the match means inside Group B and the wider bracket, the road each side took to get here and the form they carry, the first-ever head-to-head context and the two nations' contrasting World Cup histories, the team news that reshapes the plan with Alphonso Davies a genuine doubt, the predicted lineups and the reasoning behind every selection, the tactical shape each side will use and the one battle that decides it, the players to watch on both sides, the qualification scenarios that turn this opener into a near must-win for the home team, the practical viewing and venue details, and a closing prediction with a scoreline and the reasoning behind it. The intent is simple: a reader who finishes this should be able to walk into the match understanding everything that matters, and watch it knowing exactly where to look.
 

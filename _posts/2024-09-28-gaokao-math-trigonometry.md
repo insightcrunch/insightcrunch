@@ -6,14 +6,14 @@ date: 2024-09-28
 categories: ["Industry"]
 tags: ["高考数学", "三角函数", "三角恒等变换", "Gaokao Math", "Trigonometry"]
 excerpt: "这是一份面向高考考生的三角函数深度解析:从角的概念、弧度制、诱导公式与同角关系讲起,深入和差倍角恒等变换、辅助角化简技巧、函数图像的平移与伸缩,再到正弦定理与余弦定理解三角形,并配以五步解题框架、典型题型盘点、高频失分点辨析以及真题演练与日常训练建议,帮助不同基础、不同分数段的考生稳稳拿下这块二三十分的高性价比阵地。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "huang-dawei"
+lang: zh
 ---
-
 三角函数是高考数学中一块分值稳定、考查全面的核心内容。无论是全国卷还是各省自主命题的版本,正弦、余弦、正切的相关考点几乎从不缺席。它既出现在选择填空这类相对基础的客观题里,也常常以解三角形大题的形式压在试卷的中段,成为决定一张数学卷子上限的关键板块之一。对于想冲击一本线乃至名校的学子来说,把这部分吃透,意味着每次模考至少能稳稳拿下二三十分的基本盘。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-88.webp)
 *高考数学三角函数复习要点与解题流程图解*
 
 本文会带你从最基础的角的概念出发,一路走到诱导公式、同角关系、和差倍角的恒等变换、辅助角的化简技巧,再到函数图像的平移伸缩,最后落到解三角形的正弦定理与余弦定理。我们不只是罗列式子,而是讲清楚每一类题背后的思路,告诉你它在考场上会以什么面貌出现,失分点又埋在哪里。如果你正在做整体规划,建议先看一遍[数学备考指南](/2026/02/14/gaokao-math-preparation-complete-guide/),再回到这里逐个攻破三角函数的细分考点。

@@ -6,14 +6,14 @@ date: 2024-10-14
 categories: ["Industry"]
 tags: ["高考数学", "函数", "数学题型", "Gaokao Math", "Functions"]
 excerpt: "高考数学函数模块完全攻略,系统讲解概念三要素、定义域与值域的多种求法、单调性、奇偶性、周期性与对称性,深入剖析复合函数、抽象函数赋值法、图像变换、零点与分段函数,逐一拆解二次、指数、对数等各类高考题型的解题思路与易错陷阱,并配方法归纳与分层备考方案,助不同基础的考生都能稳拿这块决定数学成败的核心高地。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "zhang-hao"
+lang: zh
 ---
-
 函数是高考数学的灵魂,也是整张试卷里贯穿始终的一条主线。从选择题的小巧考点,到压轴大题的层层设问,函数思想几乎无处不在。很多考生数学成绩上不去,根子往往不在某一道难题,而在于对函数这个核心概念理解得不够透彻。把函数学扎实,等于为整个高中数学打好了地基。这篇指南会带你系统地走一遍高考函数的全部知识脉络,从最基本的概念三要素,讲到定义域、值域的求法,再到单调性、奇偶性、周期性、对称性,直至复合函数、抽象函数、图像变换以及各类压轴题型,每一块都配有方法归纳和典型例子,帮你把这块内容彻底吃透。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-48.webp)
 *高考数学函数模块知识体系与解题方法全景图*
 
 ## 为什么函数是高考数学的核心

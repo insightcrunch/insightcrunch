@@ -6,15 +6,15 @@ date: 2026-06-12
 categories: ["Leisure"]
 tags: ["World Cup 2026", "South Korea", "Czechia", "Group A", "Match Preview", "Son Heung-min"]
 excerpt: "South Korea vs Czechia World Cup 2026 preview: prediction, predicted lineups, head-to-head and the midfield battle set to decide a pivotal Group A opener."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-12
+lang: en
 ---
-
 South Korea vs Czechia at World Cup 2026 is, on the surface, a meeting of the 25th and 40th sides in the world rankings in a Group A opener at Estadio Akron in Guadalajara. Underneath that, it is a single, sharply defined question: can a South Korea team built around the most decorated forward in its history finally start a World Cup the way it keeps promising to, and can it do so against the one kind of opponent that has repeatedly undone fancied sides, the organized, physical, set-piece-driven European outfit that asks you to beat eleven men behind the ball rather than ten men chasing it. Son Heung-min has waited his whole career for a tournament on this stage and at this point in his life, and the side around him has the talent to make a statement. Czechia, back at a World Cup after a 20-year absence, would like nothing better than to spoil the script in the first ninety minutes.
 
-![South Korea vs Czechia World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![South Korea vs Czechia World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 This is the fixture that frames South Korea's tournament before a ball is kicked in anger anywhere else in their group. Win it, and Hong Myung-bo's side go into a date with co-hosts Mexico with a points cushion and the freedom to play. Fail to win it, and they walk into the same fixture carrying the familiar weight that has dragged at Korean campaigns for over a decade. For Czechia, a first World Cup match since 2006 is both a reward for one of European qualifying's most improbable survival stories and a test of whether a veteran-spined, set-piece-obsessed side coached by one of the oldest managers ever to stand on a World Cup touchline can translate grit into points against quicker, more technical opponents. The two teams have crossed paths only once at senior level, and never on a stage that mattered, which makes this less a renewal of rivalry than a first real measurement of two very different football cultures at the only tournament where such measurements stick.
 

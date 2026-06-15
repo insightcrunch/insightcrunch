@@ -6,15 +6,15 @@ date: 2018-01-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Terminator", "RoboCop", "Science Fiction", "Film Analysis", "World Cinema"]
 excerpt: "The Terminator and RoboCop turned the 1980s cyborg into a mirror for fears of automation, corporate power, and the human cost of life inside the machine."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-01-01
+lang: en
 ---
-
 Two American pictures released within three years of each other took the same raw image, a body that is part flesh and part hardware, and pointed it in opposite directions. James Cameron's The Terminator (1984) sends an unstoppable killing machine back through time to murder a woman who has done nothing yet, and the horror lies in its refusal to feel, negotiate, or stop. Paul Verhoeven's RoboCop (1987) takes a murdered police officer and rebuilds him as company property, and the horror lies in how much of the man the corporation keeps and how little it lets him keep of himself. One film fears the machine that cannot be reasoned with. The other fears the human who has been turned into a product. Place them side by side and a single question sharpens into focus: when the decade reached for the half-machine body to name its anxieties, which version cut deeper, the relentless mechanism arriving from the future or the dead man wearing a brand?
 
-![The Terminator and RoboCop compared, how two 1980s cyborg films dramatized automation and corporate power - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Terminator and RoboCop compared, how two 1980s cyborg films dramatized automation and corporate power - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 That question is worth taking seriously because both pictures have spent decades being underestimated in the same way. They arrived dressed as action spectacle, full of gunfire and chases and bodies thrown through plate glass, and a great deal of writing about them stopped at the spectacle. Yet the spectacle is the delivery system, not the payload. Underneath the chrome and the squibs, each film is doing patient, deliberate cultural work, taking the fears that ran through the Reagan years, automation eating jobs, capital treating people as inventory, technology outpacing the institutions meant to govern it, and giving those fears a shape an audience could not shake. This is a comparison piece, and it ends with a verdict. To get there honestly we need to understand what each film is actually built to do, where they genuinely diverge, and what each one achieves that the other never attempts.
 

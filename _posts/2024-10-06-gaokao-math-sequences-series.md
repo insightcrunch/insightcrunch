@@ -6,14 +6,14 @@ date: 2024-10-06
 categories: ["Industry"]
 tags: ["高考数学", "数列", "等差数列", "等比数列", "Gaokao Math", "Sequences"]
 excerpt: "全面拆解高考数学数列专题:从等差数列与等比数列的定义、通项、性质与求和公式讲起,系统梳理递推求通项的累加法、累乘法、构造法与取倒数法,详解分组求和、错位相减、裂项相消、倒序相加等六大求和方法,深入剖析放缩与数学归纳证明、压轴题拆解技巧,并给出各分数段考生的备考路线与高效练习方法,助你稳拿数列每一分。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "ma-ruoxi"
+lang: zh
 ---
-
 在高考数学的命题版图中,数列始终占据着一个特殊而稳固的位置。它既可以以小巧灵活的选择题、填空题形式出现,考查最基础的概念辨析与运算能力;也能够摇身一变,成为压轴大题中令无数考生望而生畏的难关。许多同学在备考过程中都有这样的体会:等差与等比的公式背得滚瓜烂熟,可一旦遇到递推关系或者求和变形,思路便瞬间卡壳。这并不是因为这部分内容有多么高深莫测,而是因为它的方法体系庞大、套路繁多,需要系统化的梳理与反复打磨。本文将带你从最基本的概念出发,层层深入,把这一板块的每一种题型、每一类方法都讲透讲细,让你在考场上无论面对哪种变形,都能从容应对。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-35.webp)
 *高考数列专题:从等差等比到递推求和,系统掌握每一种题型与解法*
 
 ## 数列在高考中的地位与分值分布

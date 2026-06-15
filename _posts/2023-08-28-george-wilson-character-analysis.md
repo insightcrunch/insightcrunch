@@ -6,13 +6,15 @@ date: 2023-08-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "George Wilson", "Character Analysis", "F. Scott Fitzgerald", "Close Reading", "American Literature"]
 excerpt: "George Wilson is far more than the man who kills Gatsby. This character analysis reads the worn garage owner as a tragic figure shaped by class and grief."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2023-08-28
+lang: en
 ---
-
 Most readers meet George Wilson twice and remember him once. He appears in the gray middle of the novel as a tired man wiping his hands on a rag, and he returns at the end as the hand that fires the gun. Between those two moments the question that decides everything is whether the novel wants you to see a murderer or a victim, and a George Wilson character analysis that takes the book seriously has to answer that question with the text rather than with a reflex. The reflex is easy. Wilson kills the most magnetic figure in American fiction, so the reflex files him under villain and moves on. The text resists that filing at every turn. It frames Wilson as the one character with no power to spare, the one person who is poorer than the people he serves and weaker than the grief that finally moves through him, and it arranges his whole arc so that his single act of violence is something done to him before it is something he does.
+
+![George Wilson: A Complete Character Analysis - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The argument of this analysis can be stated in one line: the poor man made the instrument. Wilson begins the book with nothing, ends it as a weapon, and the rich characters who set that weapon in motion never have to touch the trigger. Read him that way and his arc stops being a crime story and becomes the novel's hardest piece of evidence about how the careless rich let the poor destroy one another while keeping their own hands clean. That is the through line here, and it is what a real character study owes a reader who has only been handed the word killer and told to be satisfied with it.
 

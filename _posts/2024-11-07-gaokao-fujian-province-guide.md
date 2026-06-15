@@ -6,14 +6,14 @@ date: 2024-11-07
 categories: ["Industry"]
 tags: ["高考", "福建高考", "厦门大学", "福建分数线", "Fujian Gaokao", "Provincial Guide"]
 excerpt: "福建高考完全指南:深度解读东南沿海优势省份的新高考3+1+2选科模式、再选科目等级赋分规则与物理历史分轨的各批次分数线划定逻辑,梳理厦门大学、福州大学、福建师范大学等省内院校梯队,详解各分数段志愿填报、平行志愿投档与退档滑档防范,涵盖侨乡对台特殊升学通道、复读决策与高效备考方法,助八闽学子从容迎战高考。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "lin-shuyi"
+lang: zh
 ---
-
 高考对每一位福建考生来说,都是人生中极为关键的一道分水岭。作为东南沿海经济活跃、教育底蕴深厚的省份,福建在全国高考版图中有着相当独特的位置:它既不像河南、山东那样承受着巨大的人数压力,也不像北京、上海那样享有顶尖部属高校的本地名额红利,而是介于两者之间,呈现出一种"中等竞争、稳健发展"的格局。八闽大地依山傍海,厦门大学、福州大学等院校在省内外都有不俗声誉,加上独特的侨乡传统与对台交流优势,使得本省学子在报考路径上拥有不少别处少见的选项。这篇指南将系统梳理福建新高考的方方面面,从考试模式、赋分规则、分数线解读,到院校梯队、选科策略、志愿填报与特殊招生通道,帮助考生和家长把每一分的价值都用在刀刃上。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-86.webp)
 *福建沿海优势省份高考报考全景解析*
 
 如果你想先建立对整个考试制度的宏观认识,建议配合阅读我们的[高考完全指南](/2026/03/18/gaokao-complete-guide/),那篇文章把全国统考的来龙去脉讲得相当透彻,本文则聚焦于八闽这一方水土的具体情形。

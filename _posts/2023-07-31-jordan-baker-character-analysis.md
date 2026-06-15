@@ -6,17 +6,17 @@ date: 2023-07-31
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jordan Baker", "Character Analysis", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "A complete Jordan Baker character analysis: the golf champion, the careless modern woman, and the clear-eyed liar who outsees Nick Carraway in Gatsby."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2023-07-31
+lang: en
 ---
-
 The fastest way to misread *The Great Gatsby* is to file Jordan Baker under "minor characters" and move on. This Jordan Baker character analysis starts from the opposite assumption: that the cool, bored golf champion lounging on the Buchanans' couch is one of the most precisely engineered figures Fitzgerald built, and that the novel hands her a job no other character can do. She is the witness who knows the secret, the romantic interest who tells Nick the truth about himself, and the one person in the book who never pretends to be better than she is. Read her closely and a strange thing happens. The character the plot treats as a side dish turns out to be the clearest pair of eyes in the room.
 
 Jordan is easy to underrate because she rarely raises her voice. She does not chase a green light or smash anything in a hotel suite. She balances objects on her chin, keeps her shoulders thrown back like a young cadet, and watches the other characters destroy themselves with the mild interest of a spectator at a sport she has already mastered. That detachment is the point. The argument this article defends is that her detachment is a form of honesty, and that the novel uses her flat, unillusioned gaze to expose the self-deceptions of everyone around her, Nick most of all.
 
-![Jordan Baker character analysis in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Jordan Baker character analysis in The Great Gatsby](/assets/images/blog/blog-81.webp)
 
 ## Who Is Jordan Baker as a Character?
 

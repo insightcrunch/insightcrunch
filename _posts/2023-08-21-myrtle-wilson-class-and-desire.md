@@ -6,15 +6,15 @@ date: 2023-08-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Myrtle Wilson", "Character Analysis", "Themes", "Class", "American Literature"]
 excerpt: "Myrtle Wilson: class, desire, and death form a single argument in The Great Gatsby, reading her affair, her objects, and her doomed reach across the line."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2023-08-21
+lang: en
 ---
-
 Myrtle Wilson wants exactly what the rich already have, and the novel destroys her for the wanting. That is the hard center of her story, and it is why a study of Myrtle Wilson: class, desire, and death cannot treat those three words as three separate facts about her. They are one continuous motion. The desire is a class desire, a hunger for the dress and the flat and the small dog that the people across the social line own without thinking. The death is what that desire earns when a body from the bottom of the order pushes against the boundary above it. Read her this way and Myrtle stops being Tom's mistress or a plot device that clears the road for the ending. She becomes the clearest demonstration the book offers that the line between the classes is not merely unfair but lethal to anyone who tries to cross it from below.
 
-![Myrtle Wilson and the theme of class, desire, and death in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Myrtle Wilson and the theme of class, desire, and death in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 This is the argument the present study defends, and it runs against the easy reading that files Myrtle under vulgarity. The woman who buys an unwanted dog on a city sidewalk, who changes dresses to change selves, who chants a rival's name until a hand breaks her nose, is easy to dismiss as merely common, a coarse contrast to Daisy's polish. The novel invites that snobbery and then quietly indicts it. Every object Myrtle gathers, every airs she puts on, is a reach for something the system has placed just out of her grasp, and the gap between what she wants and what her marriage to a failing garage owner can supply is the gap the whole novel measures. The complete portrait of who she is across all nine chapters belongs to the [full character analysis of Myrtle Wilson](/2023/08/14/myrtle-wilson-character-analysis/); this study takes one facet and presses on it, the facet where her appetite and her body carry Fitzgerald's class argument to its violent end.
 

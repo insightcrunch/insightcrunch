@@ -6,15 +6,15 @@ date: 2023-09-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Owl Eyes", "Character Analysis", "Close Reading", "Symbolism", "F. Scott Fitzgerald"]
 excerpt: "Owl Eyes, the mysterious library guest in The Great Gatsby, appears three times and is the only guest to see Gatsby clearly. A full character analysis."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 49
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2023-09-25
+lang: en
 ---
-
 Why does a drunk stranger in oversized spectacles, a man who speaks fewer than a hundred words in the entire novel, end up being the only party guest who understands Jay Gatsby and the only one of those hundreds who bothers to return for the funeral? Owl Eyes, the mysterious library guest, is the figure Fitzgerald hands the novel's clearest pair of eyes, and the joke of the book is that he hands them to a man too drunk to drive home. He arrives uninvited, sits among unread books, vanishes into a ditch, and reappears in the rain over an open grave. Three brief scenes, no name, no backstory, and yet a thread of genuine sight runs through all three. This study follows that thread.
 
-![Owl Eyes character analysis in The Great Gatsby, the mysterious library guest who sees Gatsby clearly - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Owl Eyes character analysis in The Great Gatsby, the mysterious library guest who sees Gatsby clearly - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 To read the rest of the cast against him, it helps to know exactly where Owl Eyes sits among the figures who orbit Gatsby's mansion. He is not Klipspringer the freeloader, not Wolfsheim the fixer, not a partygoer with a single funny line. He is something rarer in the book, a minor character who recurs on purpose, and recurrence in Fitzgerald is never accidental. When the same odd face turns up at the party, at the wreck, and at the burial, the novel is asking the reader to connect those dots into a meaning. The connection is the subject of this article, and the claim it defends is simple to name and hard to dismiss: Owl Eyes is the only honest spectator in The Great Gatsby.
 

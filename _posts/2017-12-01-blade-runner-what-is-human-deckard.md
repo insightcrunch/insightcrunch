@@ -6,15 +6,15 @@ date: 2017-12-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Blade Runner", "Ridley Scott", "Science Fiction", "Film Analysis", "World Cinema"]
 excerpt: "Blade Runner asks what divides the made from the born, finding more soul in its replicants than its people, and leaving Deckard's own nature open."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-12-01
+lang: en
 ---
-
 Every great science-fiction film smuggles a philosophy lesson inside its spectacle, and few have smuggled a heavier one than Blade Runner. Ridley Scott's 1982 future-noir hands you a detective story about a man hired to retire escaped artificial people, then quietly inverts the assignment until the question stops being who will win the chase and becomes who, in this rain-soaked city, deserves to be called a person at all. The plot is a hunt. The subject is the soul. By the time the last of the fugitives dies on a rooftop in the rain, the picture has turned its premise inside out, asking the audience to wonder whether the hunted were more alive than the hunter, and whether the hunter himself is one of the things he was sent to destroy.
 
-![Blade Runner (1982), Ridley Scott](/assets/images/blog/blog-01.webp)
+![Blade Runner (1982), Ridley Scott](/assets/images/blog/blog-14.webp)
 
 That inversion is the whole argument. A genre built to thrill audiences with the difference between man and machine became, in Scott's hands, a sustained meditation on how thin that difference really is. The picture does not lecture. It builds its philosophy into light, set design, performance, and structure so completely that you can watch it as a moody chase thriller and absorb the argument without noticing you have been taught anything. This analysis takes the picture apart along that single seam: the question of the human, how the picture stages it, why the long-running debate about its detective keeps the question open, how its dying antagonist reframes mortality into the moral center of the work, and how Scott's vision compares with the speculative and philosophical cinema being made across the world at the same moment.
 

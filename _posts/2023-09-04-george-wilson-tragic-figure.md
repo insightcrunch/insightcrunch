@@ -6,15 +6,15 @@ date: 2023-09-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "George Wilson", "Character Analysis", "Themes", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "George Wilson, the forgotten tragic figure of The Great Gatsby, loses everything and is mourned by none. A close reading of the novel's overlooked grief."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2023-09-04
+lang: en
 ---
-
 Most readers of The Great Gatsby can tell you who killed Jay Gatsby. Far fewer can tell you who George Wilson was before that final act, what he wanted, what he lost, or why his suffering barely registers on anyone inside the book. That gap is the subject here. **George Wilson: The Forgotten Tragic Figure** is the character the novel pushes to its margins even as it hands him the gun that ends its hero. He is the working man whose grief the rich step over, the husband whose devotion the story treats as an embarrassment, and the mourner no one mourns. To read him as merely the killer is to repeat, as a reader, the exact carelessness the novel is quietly accusing its wealthy characters of committing.
 
-![George Wilson as the forgotten tragic figure in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![George Wilson as the forgotten tragic figure in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The central question this study answers is not whether George Wilson is guilty. He is. He shoots Gatsby and then himself, and the plot offers no doubt about the sequence. The question is whether his guilt is the most important fact about him, or whether it is the last and least interesting thing a careful reader notices. The argument across the following sections is that Wilson is a tragic figure in the fullest sense, a man of real feeling brought low by forces larger than himself, and that the novel half conceals this tragedy on purpose, so that the reader who recovers it is doing the moral work the careless characters refuse. You can read and annotate every Wilson scene in full for yourself when you [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which is the surest way to test the reading offered here against the text.
 

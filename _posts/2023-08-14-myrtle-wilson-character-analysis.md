@@ -6,15 +6,15 @@ date: 2023-08-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Myrtle Wilson", "Character Analysis", "Close Reading", "Themes", "American Literature"]
 excerpt: "Myrtle Wilson character analysis: Tom's vivid mistress, her hunger to escape the valley of ashes, and why The Great Gatsby destroys the one who climbs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2023-08-14
+lang: en
 ---
-
 Strip away the label that nearly every reader hangs on her, and one question stays alive on the page: is Myrtle Wilson the only person in this book who actually tries to change her fate? A full Myrtle Wilson character analysis has to begin there, because the novel hands us a woman who is easy to file under a single word, mistress, and then quietly dares us to notice that she is the one figure who reaches with her whole body for a life above the one she was handed. Tom Buchanan inherits his power. Daisy is born inside it. Jordan glides along its surface. Myrtle, alone, claws upward from the grey floor of the valley of ashes, and Fitzgerald kills her for the effort while the people who never lift a finger walk away clean.
 
-![Myrtle Wilson character analysis in The Great Gatsby, her vitality, class aspiration, and death - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Myrtle Wilson character analysis in The Great Gatsby, her vitality, class aspiration, and death - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 That contrast is the engine of everything that follows. Read Myrtle as a vulgar woman who got what was coming to her, and you have read the novel the way Tom would have you read it. Read her as a helpless victim and you erase the appetite, the nerve, and the will that make her dangerous to the careless rich. The richer reading sits between those two flattenings: Myrtle is an aspirant whose vitality and self-delusion are equally real, and the manner of her ruin is the most direct sentence Fitzgerald writes about who is permitted to climb in America and who is crushed for trying. This study works through her function, her introduction, her psychology, her symbolic charge, her arc, and the passages that fix her in the memory, and it ends with a defended verdict you can carry into an essay.
 
