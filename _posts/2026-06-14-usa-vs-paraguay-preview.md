@@ -6,15 +6,15 @@ date: 2026-06-14
 categories: ["Leisure"]
 tags: ["World Cup 2026", "USA", "Paraguay", "Group Stage", "Match Preview", "Prediction"]
 excerpt: "USA vs Paraguay prediction, lineups, head to head and key battles for the World Cup 2026 Group D opener at SoFi Stadium, plus what each side must deliver."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-14
+lang: en
 ---
-
 The question that defines USA vs Paraguay at World Cup 2026 is not whether the co-hosts have the better players, because they do, and not whether a packed house in Los Angeles will lift them, because it will. The question is sharper than that: can a young, attack-heavy United States side, carrying the weight of a home tournament and a thin midfield, break down the single most disciplined defensive structure in this group before that structure breaks them on the counter? Paraguay did not travel to SoFi Stadium to admire the occasion. Gustavo Alfaro built this team to frustrate, to absorb, and to punish exactly the kind of front-foot, possession-leaning opponent the United States wants to be. This Group D opener is a clean tactical collision: a host nation that needs goals against a visitor engineered to deny them, with the early shape of the entire group riding on ninety minutes in Inglewood.
 
-![USA vs Paraguay World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![USA vs Paraguay World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 For the United States, this is more than the first fixture of a campaign. It is the first World Cup match played on American soil since 1994, the return of the sport's biggest event to a country that has spent three decades building toward a moment exactly like this one. Mauricio Pochettino's team walks out as one of three co-hosts, into a stadium and an atmosphere designed to make the night feel enormous, and the expectation that comes with that is its own opponent. The 2022 squad reached the Round of 16 before the Netherlands ended it. Anything short of progress from a group widely read as navigable would register, at home, as a failure. That framing is the backdrop to everything that follows, and it is the reason a tidy, unglamorous Paraguay performance is the result the United States fears most.
 

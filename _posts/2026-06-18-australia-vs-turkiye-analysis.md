@@ -6,15 +6,15 @@ date: 2026-06-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Australia", "Turkiye", "Group Stage", "Match Analysis", "Tony Popovic"]
 excerpt: "Australia vs Turkiye World Cup 2026 result and analysis: how Tony Popovic's bold plan beat Turkiye 2-0 in Vancouver and reshaped the Group D opening round."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-06-18
+lang: en
 ---
-
 The upset of the opening round at World Cup 2026 did not arrive by accident, and it did not arrive on a lucky bounce. Australia beat Turkiye 2-0 at BC Place in Vancouver because Tony Popovic walked into a Group D fixture nobody expected him to win, picked a team half the watching world did not recognize, and built a plan precise enough to turn Turkiye's biggest strengths into the very channels through which the Socceroos struck. Nestory Irankunda finished a counter in the 27th minute. Connor Metcalfe drove in the second from outside the box in the 75th. In between, a Turkiye side stacked with Arda Guler, Hakan Calhanoglu and Kenan Yildiz had most of the ball, most of the territory, and none of the answers. This was not a smash-and-grab. It was a blueprint, executed.
 
-![Australia vs Turkiye World Cup 2026 result and tactical analysis with Irankunda and Metcalfe goals - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Australia vs Turkiye World Cup 2026 result and tactical analysis with Irankunda and Metcalfe goals - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 Call it the Vancouver ambush. The single idea that runs through this entire analysis is that Popovic did not hope Turkiye would have an off night; he engineered one. He invited possession into areas where it could not hurt him, choked the supply lines feeding Turkiye's creators, and loaded his side with the running power to punish every loose pass the moment it arrived. The scoreline reads like a shock. The performance behind it reads like a thesis defended in full. By the time Metcalfe's strike beat Ugurcan Cakir to make it two, the only surprise left was that anyone had still doubted the design. If you set this match up beforehand in our [Australia vs Turkiye World Cup 2026 preview](/2026/06/18/australia-vs-turkiye-preview/), the prediction's caveat, that Australia's discipline and transition threat could trouble a Turkiye side learning to break down a low block, turned out to be the whole story rather than a footnote.
 

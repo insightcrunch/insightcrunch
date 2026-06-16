@@ -6,15 +6,15 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Scotland", "Haiti", "Group Stage", "Match Analysis", "John McGinn"]
 excerpt: "Haiti vs Scotland result and analysis: John McGinn's deflected strike won Scotland's first World Cup 2026 match in 36 years and ended a 28-year goal wait."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-17
+lang: en
 ---
-
 For 28 years Scotland had not scored a goal at a World Cup, and for 36 years they had not won a match at one. Both droughts ended on the same humid night in Foxborough, and the man who ended them was the one everyone in dark blue had hoped would. The Haiti vs Scotland World Cup 2026 result reads as a narrow 1-0, a single deflected strike from John McGinn in the 28th minute settling a Group C opener that Haiti, on the balance of chances and territory, did at least as much to win. That gap between what the scoreboard says and what the ninety minutes felt like is the whole story of this match, and it is where any honest analysis has to begin. Scotland did not control this game. They controlled the only moment that decided it.
 
-![Haiti vs Scotland World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Haiti vs Scotland World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 That is not a criticism dressed up as praise. Winning the one clear chance the night produced, and then defending the lead for an hour against a side throwing five and six bodies forward on every break, is a skill of its own, and it is the skill that separates teams who qualify for World Cups from teams who go deep into them. Steve Clarke's side passed the first test of that kind they have faced in a generation. Haiti, back at the tournament for the first time since 1974 and ranked second from bottom of the entire 48-team field, failed it by the width of the final pass, which is the cruelest margin in the sport. This is the analysis of how a 1-0 that flattered nobody and was still entirely deserved came to be, told through the goal, the tactics, the numbers, the player performances, the records that fell, and what all of it means for a Group C that now has Scotland on top of it.
 

@@ -6,17 +6,17 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Morocco", "Group Stage", "Match Analysis", "Vinicius Junior"]
 excerpt: "Brazil vs Morocco result and analysis: Vinicius Junior rescued a 1-1 draw at World Cup 2026, and the night exposed more about both sides than the score."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-06-16
+lang: en
 ---
-
 For an hour at MetLife Stadium, the most-watched fixture of the opening round in World Cup 2026 looked less like a coronation and more like an ambush. Brazil vs Morocco was sold as the first heavyweight collision of the tournament, the only group-stage tie between two sides ranked inside the FIFA top ten, and it delivered a 1-1 draw whose scoreline hides the truer story: Morocco controlled the early stages, took a deserved lead through Ismael Saibari, and were only pulled back by a single moment of stardust from Vinicius Junior. The five-time champions left New Jersey with a point and a long list of questions; the African champions left with a performance that confirmed every word written about their dark-horse credentials.
 
 That is the one thing that explains this match. The score reads even, the underlying contest did not. Morocco's organization met Brazil's individual quality, and for ninety minutes the two cancelled each other out. The night Morocco's structure met Brazil's stardust is the spine of this analysis, because it is the truth the highlight reel cannot carry: Brazil's individuals, not Brazil's system, salvaged this result, and Carlo Ancelotti knows it.
 
-![Brazil vs Morocco World Cup 2026 result, player ratings and Vinicius Junior goal analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Brazil vs Morocco World Cup 2026 result, player ratings and Vinicius Junior goal analysis - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The contest unfolded at the New York/New Jersey Stadium in East Rutherford, the same venue that will stage the final next month, in front of a crowd of 80,663 dominated by yellow shirts that fell quiet long before they roared. Brazil came in as favorites and as the team carrying the heaviest expectation in the sport, chasing a first world title since 2002. Morocco came in as the side that reached the semi-finals four years ago and won every one of its qualifiers, a team that no longer surprises anyone who has watched it since 2022. What followed was a draw that felt, to Morocco, like two points dropped, and to Brazil, like a warning shipped in early.
 

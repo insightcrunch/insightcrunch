@@ -6,17 +6,17 @@ date: 2026-06-11
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Mexico", "South Africa", "Group Stage", "Match Analysis", "Estadio Azteca"]
 excerpt: "Mexico vs South Africa result and analysis: Quinones and Jimenez sealed a 2-0 World Cup 2026 opener defined by three red cards at the historic Estadio Azteca."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-11
+lang: en
 ---
-
 Mexico beat South Africa 2-0 to open World Cup 2026, and the cleanest way to understand the night is this: the result was settled by a discipline gap, not by a wave of attacking dominance. The co-hosts scored early through Julian Quinones, doubled the lead through an emotional Raul Jimenez header, and then watched a feisty Group A opener at the Estadio Azteca collapse into a procession of dismissals, two for South Africa and, in stoppage time, one for Mexico. The final scoreline reads like control. The match itself was looser, scrappier, and more revealing than 2-0 suggests, and the story of how El Tri finally buried a decades-old opening-match curse is told as much through Sphephelo Sithole's miscontrol and his later sending-off as through anything Mexico built in open play.
 
 That is the verdict this analysis defends across every section below: Mexico won the opener of World Cup 2026 because they punished two avoidable South African errors and because they kept eleven men on the pitch long enough to make the gulf in numbers decisive, not because they dominated a disciplined opponent into submission. The early goal changed the emotional weather inside a stadium desperate to celebrate. The red cards did the rest.
 
-![Mexico vs South Africa World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Mexico vs South Africa World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 This was the match the whole tournament had been waiting on, the first of 104 fixtures, played at a stadium that had now seen more World Cup football than any other on earth. For Mexico, the weight attached to it went beyond three points. The country had hosted the opening match of a World Cup before, had played in seven curtain-raisers across its history, and had never once won the first game. The Azteca crowd knew the record. So did Javier Aguirre, the manager handed the job of laying it to rest. By full time the hoodoo was gone, the points were banked, and the conversation had already shifted to the three red cards that made this the most heavily punished opening match in the competition's history.
 
