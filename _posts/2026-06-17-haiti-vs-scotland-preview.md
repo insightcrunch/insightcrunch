@@ -6,17 +6,17 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Haiti", "Scotland", "Group Stage", "Match Preview", "Group C"]
 excerpt: "Haiti vs Scotland World Cup 2026 preview: prediction, predicted lineups, head to head, key battles and what Group C means for Steve Clarke's returning Scots."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
-author: "grace-whitmore"
+author: "Insight Crunch Team"
 last_updated: 2026-06-17
-lang: en
 ---
+
 The single question that decides Haiti vs Scotland at World Cup 2026 is not who has the better players, because that argument is settled before anyone steps onto the grass in Foxborough. It is whether Scotland can solve the problem that Haiti have spent two years learning to pose: a deep, narrow, stubborn defensive block that asks an opponent to be patient, precise, and clinical for ninety minutes, and punishes any side that is only two of those three. Steve Clarke's team arrive at their first World Cup in 28 years as clear favorites against a Caribbean nation playing in the tournament for the first time since 1974, and the gap in pedigree, squad value, and recent tournament football is real. The gap in the thing that actually wins this kind of match, the ability to break a low block without losing the game on the counter, is much smaller and far more interesting.
 
 That is the lens this preview takes, because it is the lens the fixture itself demands. This is a meeting of two redemption stories that are completely different in shape. Scotland have qualified for nine World Cups and never escaped the group stage, a record that has become a national ache, and they finally return to the biggest stage carrying both relief and a quiet, growing belief that this squad is better equipped than any since 1998. Haiti, by contrast, are not chasing a knockout breakthrough; they are chasing a single point, a single goal, a single moment that would rewrite a tournament history that currently reads as three defeats in West Germany half a century ago. When a heavy favorite meets a side with nothing to lose and everything to prove, the match is rarely as simple as the rankings suggest.
 
-![Haiti vs Scotland World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-18.webp)
+![Haiti vs Scotland World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 ## What Haiti vs Scotland Means in Group C
 
@@ -157,7 +157,7 @@ The case for caution, and it is a real one, rests on Scotland's own history and 
 
 Weighing it all, the prediction here, offered as a considered forecast rather than a certainty, is a Scotland win by a margin of one or two goals, with the breakthrough more likely to come from a set-piece, a cutback, or a late midfield run than from a flowing open-play move against a packed defense. A 1-0 or 2-0 Scotland victory feels like the most probable outcome, with the caveat that Haiti's resilience and Isidor's threat make a nervy, narrow scoreline more likely than a rout, and a goalless first hour would not be a surprise. The decisive factor, in this writer's view, will be whether Scotland can win the second-phase squeeze often enough to wear Haiti down before the legs and the nerves start to fray. If they do, the long wait ends with three points. If they do not, this becomes the kind of opener that Scotland fans have learned, painfully, to fear.
 
-Whatever the result, this is a meeting of two redemption stories that deserve to be told in full, and the complete account of how the ninety minutes actually unfold, the goals, the turning points, the ratings, and what it all means for the group, will live in our [Haiti vs Scotland result and player ratings analysis](/2026/06/17/haiti-vs-scotland-analysis/). The road ahead for both sides runs through far sterner tests, and you can look ahead to Scotland's daunting second assignment in our [Scotland vs Morocco Group C preview](/2026/07/10/scotland-vs-morocco-preview/) and to the fixture that completes the group for Clarke's men against the five-time champions in the [Scotland vs Brazil preview](/2026/07/31/scotland-vs-brazil-preview/). For now, though, everything reduces to a single, long-awaited night in Foxborough, and a single question: can Scotland, at last, win the match they are supposed to win.
+Whatever the result, this is a meeting of two redemption stories that deserve to be told in full, and the complete account of how the ninety minutes actually unfold, the goals, the turning points, the ratings, and what it all means for the group, will live in our [Haiti vs Scotland result and player ratings analysis](/2026/06/17/haiti-vs-scotland-analysis/). The road ahead for both sides runs through far sterner tests, and you can look ahead to Scotland's daunting second assignment in our [Scotland vs Morocco Group C preview](/2026/06/19/scotland-vs-morocco-preview/) and to the fixture that completes the group for Clarke's men against the five-time champions in the [Scotland vs Brazil preview](/2026/06/24/scotland-vs-brazil-preview/). For now, though, everything reduces to a single, long-awaited night in Foxborough, and a single question: can Scotland, at last, win the match they are supposed to win.
 
 ## Steve Clarke's Scotland: The Method Behind the Return
 
