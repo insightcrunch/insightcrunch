@@ -6,17 +6,17 @@ date: 2018-05-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Breakfast Club", "John Hughes", "Teen Film", "Film History", "World Cinema"]
 excerpt: "The Breakfast Club distilled the John Hughes teen film into five archetypes in a single room, the clearest statement of an earnest youth-cinema movement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-05-15
+lang: en
 ---
-
 For most of the studio era the American teenager existed on screen as a punchline, a nuisance, or a body count. Hollywood sold films to young audiences without ever taking the young seriously, and the gap between what adolescence felt like from inside and how the movies depicted it from outside stayed wide for decades. John Hughes closed that gap, and The Breakfast Club, released in 1985, is where he closed it most completely. Across a short, concentrated run of pictures in the middle of the 1980s he built something that had not existed before as a coherent body of work: an American teen film that treated its subjects as full people whose feelings were not a phase to be condescended to but the actual stakes of the story. This single-room drama is the purest statement of that project, the picture in which Hughes strips his own formula down to its load-bearing parts and lets them carry the entire ninety-seven minutes.
 
 The premise could fit on an index card. Five students from five different corners of a suburban high school report for a Saturday detention, spend the day locked in the library together, and leave changed. There is no plot in the conventional sense, no chase, no romance engine driving toward a kiss, no external threat. The drama is entirely the slow erosion of the labels the five wear when they walk in. That radical narrowing of means is what makes the film the clearest window onto the movement Hughes was assembling, because everything that defined the Hughes teen picture is present here in concentrated form, with nothing else around it to distract the eye.
 
-![The Breakfast Club (1985), directed by John Hughes](/assets/images/blog/blog-01.webp)
+![The Breakfast Club (1985), directed by John Hughes](/assets/images/blog/blog-80.webp)
 
 This article reads The Breakfast Club as the movement piece it is: the film that took the loose set of conventions Hughes had been developing and pressed them into a single room until the underlying shape became visible. The claim it advances is that adolescence taken seriously is the through line of the whole Hughes cycle, and that The Breakfast Club is where that principle is least diluted. To make the case we will trace what the American youth picture looked like before Hughes, name the recurring traits that turned a handful of his films into a recognizable kind, watch those traits operate inside the library, and then set the whole earnest, archetype-driven American model against the harder coming-of-age traditions that grew up in France, Britain, Japan, and elsewhere, because the comparison is the only way to see what is distinctly American about the thing Hughes made.
 

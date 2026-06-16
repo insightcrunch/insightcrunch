@@ -2,15 +2,16 @@
 title: "Michaelis: The Witness at the Garage"
 date: 2023-10-23
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "chloe-martin"
 image: /assets/images/blog/blog-01.webp
 slug: michaelis-character-analysis
 excerpt: "Michaelis is the witness who stays in The Great Gatsby, the coffee-shop owner whose all-night vigil with Wilson exposes the careless retreat of the rich."
 reading_time: 48
+lang: en
 ---
 When the worst thing in The Great Gatsby finally happens, who is standing closest to it, and why does the novel choose him? The answer is Michaelis, the quiet coffee-shop owner of the valley of ashes, and the choice is anything but accidental. The central question this study asks is simple to state and surprisingly deep to answer: what is Michaelis for? He has no fortune, no party, no dream, and barely a paragraph of backstory. Yet Fitzgerald hands him the most morally weighted hours in the book, the long night beside a broken George Wilson, and trusts him to carry what the rich characters will not stay to see.
 
-![Michaelis as the witness at the garage in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Michaelis as the witness at the garage in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 This is the InsightCrunch standalone study of Michaelis, and its claim is one phrase you can carry into any essay: the witness who stays. While the Buchanans retreat behind their money and Gatsby waits alone in his empty mansion, Michaelis keeps vigil with the one man the story has utterly destroyed. Reading him as a mere plot device misses the whole point of his placement. He is the novel's working-class witness, the figure whose ordinary decency throws the carelessness of the wealthy into sharp relief. If you have ever wondered why Fitzgerald bothers to name a minor restaurant keeper at all, the answer is that the book needs at least one person who does not look away.
 
@@ -277,5 +278,4 @@ His presence is concentrated entirely in the valley of ashes around the garage a
 ### Q: What does the name Michaelis suggest about his role?
 
 The name carries a faint but fitting resonance. Michaelis derives from Michael, the archangel traditionally associated with judgment, protection, and standing guard, and there is a quiet aptness in giving that name to the novel's one true keeper of vigil. He is the figure who watches over the broken Wilson through the night while a false god looms uselessly on the billboard above. The book stages a sly relocation in these scenes: Wilson looks up to the painted eyes for a divine observer and finds only an advertisement, while the genuine watchful presence is the human neighbor right there in the room. The name need not be pressed too hard, since Fitzgerald keeps the character resolutely ordinary and human, but the echo of the guardian archangel suits a man whose entire role is to see, to protect as far as he can, and to bear honest witness to a suffering the heavens ignore.
-
 

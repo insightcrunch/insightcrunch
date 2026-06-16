@@ -6,14 +6,14 @@ date: 2024-08-03
 categories: ["Industry"]
 tags: ["高考数学", "选填技巧", "特值法", "排除法", "Gaokao Math", "Speed Techniques"]
 excerpt: "系统讲解高考数学选择题与填空题的速解技巧，涵盖特值法、排除法、数形结合、代入验证、极端临界与估算对称量纲等核心方法，配合四十分钟的时间预算与答题节奏，并附二十问常见问题解答，教你识别题目结构、选对工具、用最短路径逼近正确答案，又快又准地拿下全部客观题，把宝贵时间和精力留给后面真正需要深思的压轴大题。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "yang-bo"
+lang: zh
 ---
-
 在高考数学这张一百五十分的试卷上，真正决定成败的往往不是最后那道让人望而生畏的压轴大题，而是开篇那一组看似简单的选择题和填空题。很多同学把大量时间耗在前面，用最笨拙的硬算去对付每一道客观题，结果到了解答题部分早已心慌意乱、时间见底。其实，单选、多选与填空这三类题型加在一起，分值接近全卷的一半，却完全可以用一套成熟的速解思路在四十分钟之内稳稳拿下。本文要传递的核心观点很直接：选填题考的不是谁算得快，而是谁能识别题目结构、选对工具、用最短路径逼近正确答案。掌握了特值、排除、数形结合、代入检验、极端与临界、估算与对称这一整套组合拳，你就能把宝贵的时间和精力留给后面真正需要深思的难题。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-20.webp)
 *高考数学选择题与填空题速解技巧全解析，帮助考生在四十分钟内高效完成客观题。*
 
 ## 选填题为什么是高考数学的胜负手

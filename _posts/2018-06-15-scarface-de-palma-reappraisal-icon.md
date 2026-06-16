@@ -6,15 +6,15 @@ date: 2018-06-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Scarface", "Brian De Palma", "Gangster Film", "Film Analysis", "Performances", "World Cinema"]
 excerpt: "Scarface was condemned for its excess in 1983, then crowned a cultural icon. Inside the reappraisal, the hip-hop afterlife, and the global gangster comparison."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-06-15
+lang: en
 ---
-
 Few American films have travelled a longer distance between their first verdict and their final one than Scarface. When Brian De Palma's gangster epic opened in December 1983, the cultural authorities that hand out reputations met it with suspicion bordering on disgust. It was called bloated, vulgar, and morally bankrupt, a 170-minute wallow in violence and cocaine that mistook excess for vision. Within a decade the same picture had become something its detractors could not have predicted: a permanent fixture of popular culture, a parable quoted on dorm-room posters and in rap verses, a film whose central line was printed on T-shirts and whose hero's name became shorthand for ruthless ambition. The gap between those two receptions is the real subject worth studying. It is not enough to say the movie was rediscovered. The more useful question is why the exact qualities that got it condemned were the ones that later got it crowned.
 
-![How Scarface went from condemned to cultural icon, a reception and reappraisal analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Scarface went from condemned to cultural icon, a reception and reappraisal analysis - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 This article reads Scarface as a case study in how reception works as a process rather than a single event. A film does not have one reputation; it has a sequence of them, each shaped by who is watching, what they bring to the theater, and what the surrounding culture is prepared to hear. De Palma's film about a Cuban refugee clawing his way up the Miami cocaine trade arrived at a moment that recoiled from its maximalism, then aged into a moment that embraced it. Tracing that arc tells you something about the movie, and it tells you something larger about how American culture decides what counts as garbage and what counts as art, and how often it changes its mind. Along the way the picture has to be set against the gangster cinema being made elsewhere in the world, because the rise-and-fall criminal is not an American invention, and Scarface's particular contribution was to push that ancient shape to an operatic extreme that other national cinemas approached very differently.
 

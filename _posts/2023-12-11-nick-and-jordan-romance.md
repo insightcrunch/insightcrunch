@@ -6,15 +6,15 @@ date: 2023-12-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Jordan Baker", "Character Analysis", "Close Reading", "American Literature"]
 excerpt: "Nick and Jordan: the subplot romance is the mirror the novel holds to its narrator, exposing the careless honesty he claims and the cool exit he calls honor."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2023-12-11
+lang: en
 ---
-
 The romance between Nick and Jordan is the quietest thing in the book, and that is exactly why it matters. While the Gatsby and Daisy story burns at the center of the novel and the Tom and Myrtle affair throws off its sparks of violence, the courtship between the narrator and the golf champion runs along the margin, easy to skim past, easy to file under minor business. Treat it that way and you miss the one relationship the narrator is fully inside, the one place where the man who reserves judgment on everyone is himself available to be judged. The Nick and Jordan romance is not a diversion from the main plot. It is the novel quietly turning its instrument back on the person holding it.
 
-![Nick and Jordan subplot romance in The Great Gatsby explained, the mirror it holds to the narrator - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nick and Jordan subplot romance in The Great Gatsby explained, the mirror it holds to the narrator - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Here is the claim this article defends, and it is worth stating plainly before the reading begins. Call it the romance that indicts the narrator. Nick drifts into the relationship over the summer of 1922, lets it deepen without ever quite committing to it, and after the deaths cuts it off cleanly and walks away calling the move a kind of honor. That pattern, the easy entry and the clean exit, is the same carelessness he spends the whole book condemning in the rich. The subplot is therefore a test the novel sets for its own moral voice, and the result of the test is not flattering. Nick fails it in a smaller key than Tom and Daisy fail theirs, but he fails it by the standard he himself sets.
 

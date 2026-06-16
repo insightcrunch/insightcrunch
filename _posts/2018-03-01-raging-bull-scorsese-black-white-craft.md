@@ -6,15 +6,15 @@ date: 2018-03-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Raging Bull", "Martin Scorsese", "New Hollywood", "Cinematography", "Film Analysis"]
 excerpt: "Raging Bull turns a boxer's ruin into pure craft: its black-and-white images and assaultive fight editing make Jake LaMotta's inner rage fully visible."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-03-01
+lang: en
 ---
-
 Most films about a boxer want you to root for him. Raging Bull spends two hours making sure you cannot. Martin Scorsese took the life of middleweight champion Jake LaMotta, a man whose jealousy and rage wrecked his career, his marriage, and his bond with his own brother, and built around it the most technically aggressive character study of its decade. The achievement that matters most is not the punch count or the period detail. It is the way the film makes a man's inner violence physically visible, frame by frame, cut by cut, so that the craft itself becomes the argument. The black-and-white photography, the choreographed single-camera fights, the warped frame rates, the animal sound design, and the surgical editing are not decoration laid over a story. They are the story, translated into technique.
 
-![How Raging Bull externalizes Jake LaMotta's rage through black-and-white craft and assaultive fight editing, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Raging Bull externalizes Jake LaMotta's rage through black-and-white craft and assaultive fight editing, an analysis - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 That distinction is the whole reason Raging Bull rewards close study. A synopsis can tell you that LaMotta rose, fell, beat his wife, accused his brother, ballooned into a washed-up nightclub act, and ended up reciting another man's lines into a dressing-room mirror. None of that explains why the film feels like an assault rather than a biography. The answer lives in the choices, and the choices are legible if you slow down and read them. This article reads them: how each fight was constructed to feel subjective, why the absence of color is structural rather than nostalgic, how sound and cutting put the viewer inside the punishment, and how that whole apparatus turns a sports picture into an interior portrait. Then it sets the film against the character cinema of the wider world, because the comparative frame is where Raging Bull's particular solution becomes clearest.
 

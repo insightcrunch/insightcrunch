@@ -2,14 +2,16 @@
 title: "Henry Gatz: Gatsby's Father Analyzed"
 date: 2023-10-09
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "amanda-ross"
 image: /assets/images/blog/blog-01.webp
 slug: henry-gatz-character-analysis
 excerpt: "Henry Gatz, Gatsby's father, restores the poor loving family his son erased, and his proud, uncomprehending grief reframes the whole act of self-invention."
 reading_time: 47
+lang: en
 ---
-
 Almost everyone who reads The Great Gatsby remembers the green light, the parties, the careless rich, and the long fall toward the funeral nobody attends. Far fewer remember the old man who shows up at the very end, clutching a cracked photograph of a house he has never set foot in, prouder of his son than anyone living. He arrives too late to save anything and just in time to change everything we thought we understood. The central question this study answers is simple to ask and surprisingly hard to answer well: who is Henry Gatz, and why does Fitzgerald give the dead dreamer a living father at all?
+
+![Henry Gatz: Gatsby's Father Analyzed - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The easy reading treats him as a footnote, a sentimental grace note added so the burial would not feel quite so cold. That reading misses what is actually happening on those last pages. Henry Gatz is the one person in the book who can prove that the self-made legend had a maker, a childhood, a real name, and people who loved the boy before the boy decided to disappear. The father who arrives from the rural Midwest carries the buried origin in a coat pocket, and when he opens that pocket he revises every glittering thing the novel has shown us. This study makes a single defended claim about him, and the rest of the article tests it from every angle.
 

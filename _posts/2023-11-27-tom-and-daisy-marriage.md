@@ -6,15 +6,15 @@ date: 2023-11-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Daisy Buchanan", "Character Analysis", "Marriage", "Themes"]
 excerpt: "Tom and Daisy's marriage is the loveless union that outlasts every sincere passion in The Great Gatsby. A study of why the careless marriage truly survives."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2023-11-27
+lang: en
 ---
-
 Most readers finish The Great Gatsby grieving for Jay Gatsby and despising the couple who let him die, and then they close the book without noticing the strangest fact in it. Tom and Daisy's marriage, the loveless and unfaithful union that betrays everyone who comes near it, is the one relationship left standing when the lights go out over the bay. Gatsby's devotion ends in a swimming pool. Myrtle Wilson's hope ends on a road in the valley of ashes. George Wilson's grief ends with a pistol. The Buchanans end the summer packing their bags, untouched, already gone before the funeral. The careless match survives the sincere passions it destroys, and that survival is the verdict the novel most wants its readers to register.
 
-![Tom and Daisy's marriage in The Great Gatsby analyzed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tom and Daisy's marriage in The Great Gatsby analyzed - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 That outcome is not an accident of plot. Fitzgerald builds the whole book so that the union nobody admires outlasts every union the reader is asked to root for, and he means the contrast to sting. To read Tom and Daisy as a broken marriage is to miss the point by a wide margin. Their marriage is not broken. It is durable in the most disturbing way a marriage can be durable: held together by money, social caste, mutual cowardice, and a shared instinct to close ranks the instant either of them is threatened. The question this study answers is not whether the Buchanans love each other. The question is why a couple who plainly do not love each other prove harder to break than any bond built on feeling, and what Fitzgerald is saying about his country when he lets them win.
 

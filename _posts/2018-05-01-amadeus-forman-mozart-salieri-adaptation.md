@@ -6,15 +6,15 @@ date: 2018-05-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Amadeus", "Milos Forman", "Adaptations", "Film History", "World Cinema"]
 excerpt: "How Amadeus adapts Peter Shaffer's play into a fantasia on genius and envy, why the Mozart and Salieri rivalry is invented, and what the fiction reveals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2018-05-01
+lang: en
 ---
-
 A dying man slashes his own throat and is carried, screaming, into an asylum, and from that cell he summons a young priest to hear a confession that is really an accusation against God. This is how Amadeus begins, and the choice tells you immediately that Milos Forman and the playwright Peter Shaffer are not making a biography of Wolfgang Amadeus Mozart. They are adapting a play about envy, narrated by the man who claims to have destroyed a genius he could not equal. Everything the film shows of Mozart reaches us secondhand, filtered through the memory and the resentment of Antonio Salieri, the court composer who outlived his rival by decades and spent those decades convinced that he had been cursed with just enough taste to recognize greatness and not one ounce of the gift to produce it. The central adaptation decision is that frame: the story is a confession, and a confession is a shaped thing, selective, self-justifying, and free to invent.
 
-![How Amadeus adapts Peter Shaffer's play into a fantasia on genius and envy, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Amadeus adapts Peter Shaffer's play into a fantasia on genius and envy, an analysis - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 That decision governs everything else, and it is the reason the film can take such enormous liberties with the historical record while remaining, on its own terms, scrupulously honest. Salieri is an unreliable narrator by design. He tells the priest a tale in which he poisons Mozart's career, drives the younger man toward an early grave, and commissions in disguise the Requiem that will become Mozart's death mass. None of that happened. The real Salieri and the real Mozart were professional acquaintances in Vienna whose relationship, by the documentary evidence that survives, was closer to wary courtesy than to murderous obsession. Forman and Shaffer knew this. The film does not. The film knows only what Salieri chooses to remember, and Salieri is a man building a case. To read Amadeus as a factual account of how Mozart died is to misunderstand the kind of object it is, which is why the most useful way to approach the film is as an adaptation: a set of deliberate choices made in moving a stage play, itself drawn from older legend, onto the screen, with every departure from fact serving a theme rather than betraying one.
 

@@ -6,14 +6,14 @@ date: 2024-08-27
 categories: ["Industry"]
 tags: ["高考数学", "排列组合", "二项式定理", "Gaokao Math", "Combinatorics"]
 excerpt: "排列组合是高考数学的高频考点与公认易失分点。本文系统讲解两个计数原理、排列与组合的本质区别,详细拆解捆绑法、插空法、隔板法、分组分配四大经典模型,并延伸到二项式定理与概率的天然联系。配以各省命题特点、高频易错点盘点、标准解题流程与多道分层精讲例题,帮助考生把这块小切口大智慧的内容真正学通学透,从容稳拿分数。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "feng-lei"
+lang: zh
 ---
-
 排列组合是高考数学里一块既迷人又让人头疼的内容。它的公式只有寥寥几条,概念也不算复杂,可一旦进入实际题目,很多同学就会发现自己明明背熟了排列数与组合数的写法,却依然算错、重复、漏掉某些情形。这种"一看就会、一做就废"的落差,正是这一板块最典型的特征。它考查的从来不是记忆,而是分析问题的条理性与缜密度。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-33.webp)
 *高考数学排列组合知识体系与经典解题模型一览*
 
 在整张高考数学试卷里,排列组合通常以一道选择题或填空题的形式出现,分值大多在五分上下;在部分省份的理科卷或新高考卷中,它还会与概率统计的大题结合,成为压轴部分的一个环节。别看分值不算高,这五分却是公认的"易失分点"。原因在于,它不像函数、数列那样有固定的运算套路可以反复演练,而是要求做题者针对每一道具体情境重新搭建分析框架。换句话说,它考的是"想清楚",而不是"算得快"。

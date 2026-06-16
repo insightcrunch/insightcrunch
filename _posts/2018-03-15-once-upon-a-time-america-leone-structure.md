@@ -6,15 +6,15 @@ date: 2018-03-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Once Upon a Time in America", "Sergio Leone", "Gangster", "Screenwriting", "World Cinema"]
 excerpt: "How Once Upon a Time in America braids three decades into a memory lattice, why the opium frame reads as a dream, and how its structure compares worldwide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-03-15
+lang: en
 ---
-
 Sergio Leone spent more than a decade preparing to break the one rule every gangster saga had obeyed since the genre learned to talk: tell the story forward. **Once Upon a Time in America**, his final film and his only work set on American soil rather than the mythic American West, refuses chronology on principle. It follows a Jewish gangster named David Aaronson, called Noodles, across roughly half a century of New York life, and it scrambles that life into a deliberately fractured order so that the film moves the way memory moves, by association and guilt rather than by the calendar. A boy throws a frisbee and the cut lands decades away. A telephone rings in 1933 and keeps ringing into a future that may not have happened yet. The screenplay is built not as a timeline but as a lattice of recollection, and the whole structure is framed inside an opium den, which is the single decision that turns a crime epic into something stranger: a meditation on memory, regret, and whether any of what we watch is real.
 
-![How Once Upon a Time in America fractures its timeline into a memory lattice, a screenwriting analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Once Upon a Time in America fractures its timeline into a memory lattice, a screenwriting analysis - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 That framing device is the reason this article treats the film as a screenwriting problem rather than a directorial mood piece. Plenty of writing on Leone dwells on his close-ups, his operatic violence, and the Ennio Morricone scores that swell underneath both. Those things matter here too. But the durable, teachable achievement of Once Upon a Time in America is structural: it shows how a script can carry a character's entire life without marching through it, how withholding and then reframing a single betrayal can reorganize everything a viewer thought they understood, and how a frame story can quietly convert a realist genre into an unreliable dream. The film is long, sometimes frustrating, occasionally indefensible in its content, and it was mutilated on first release in a way that nearly buried it. The structure survived all of that, and it is the structure that a screenwriter, a student, or a teacher can actually use.
 

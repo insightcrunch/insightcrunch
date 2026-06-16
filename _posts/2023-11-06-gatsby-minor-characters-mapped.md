@@ -6,15 +6,15 @@ date: 2023-11-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Minor Characters", "Character Analysis", "Owl Eyes", "F. Scott Fitzgerald"]
 excerpt: "The Great Gatsby's minor characters mapped by function: each supporting figure works as a witness, parasite, foil, or victim in Fitzgerald's tight design."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2023-11-06
+lang: en
 ---
-
 Ask most readers to name the people in The Great Gatsby and you get six names, maybe seven. Gatsby. Daisy. Nick. Tom. Jordan. Myrtle and her husband. Then the list runs dry, and the rest of the novel's population fades into a blur of party guests and passing faces. Yet the supporting cast is where Fitzgerald does some of his most precise work, and a careful map of the great gatsby's minor characters mapped against their functions shows a book engineered far more tightly than its dreamy surface suggests. Every figure who steps into the frame, the drunk in the library, the boarder at the piano, the Greek who runs the all-night cafe, the proud father who arrives by train, was placed there to do a specific job. Nothing in this novel is filler. The crowd that seems random is a system.
 
-![The minor characters of The Great Gatsby mapped by function and connection - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The minor characters of The Great Gatsby mapped by function and connection - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 That is the wager of this article. Where a plot summary lists the supporting players and moves on, the close reader asks what each one is for, and the answer, repeated across the whole roster, reveals a design. The novel is short, barely fifty thousand words, and Fitzgerald could not afford a single passenger. So he built a supporting cast in which each member performs one of four structural tasks. Some witness. Some feed. Some throw the principals into relief. Some absorb the damage the careless rich leave behind. Read the supporting players this way and the novel stops being a glittering surface with a tragic center and becomes a machine in which every gear turns the plot, the theme, or the moral weight.
 
@@ -285,5 +285,4 @@ The discipline is to argue rather than to list. A weak essay names the supportin
 ### Q: What role does Catherine play after Myrtle's death?
 
 Catherine, Myrtle's sister, plays her decisive role at the inquest after the fatal accident. Earlier she is the loud, status-hungry guest at the Manhattan party, but the death transforms her function. Called to testify about her sister's life, she swears that Myrtle had been entirely happy with George Wilson and was involved with no one, a flat denial of the affair with Tom that everyone in the room half knows. Her lie protects her dead sister's reputation and, by accident, shields Tom from scandal. The moment is quietly devastating. Loyalty at the bottom of the social order does the dirty work that keeps the careless rich clean, and the truth is buried with Myrtle so that the comfortable world can close over the wreck and move on. Catherine's testimony is a small act of working-class solidarity that the powerful exploit without ever acknowledging, a final instance of the poor absorbing the cost.
-
 

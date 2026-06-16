@@ -6,17 +6,17 @@ date: 2023-11-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gatsby and Nick", "Nick Carraway", "Character Study", "Friendship and Loyalty", "Literary Analysis"]
 excerpt: "The friendship between Gatsby and Nick starts as a transaction yet becomes the novel's only redeemed bond, proven by Nick's lonely loyalty at the funeral."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2023-11-13
+lang: en
 ---
-
 Of all the bonds in The Great Gatsby, only one survives the wreckage with any dignity, and it belongs to the two men who, on the surface, have the least reason to care about each other. The friendship between Gatsby and Nick begins as a piece of pure usefulness. A rich stranger needs the cousin of the woman he loves, and the cousin happens to have rented the small house next door. From that flat transaction grows the single human attachment the novel treats as real. By the last chapter, when the parties have emptied and the telephone has gone silent, Nick Carraway is the only person left standing on Gatsby's side, and the loyalty he shows then is the closest thing the book offers to redemption.
 
 That arc, from use to devotion, is the central question this study answers: are Gatsby and Nick actually friends, and if they are, what kind of friendship can begin in calculation and end in grief at a graveside. The answer matters because the relationship is the frame around everything else. Nick narrates because he was close enough to watch, and he was close enough to watch because Gatsby first decided he was worth knowing. Read the bond carefully and the whole novel changes shape: it stops being a story about a man chasing a woman and becomes a story about a man who found, almost by accident, the one person who would mourn him.
 
-![The friendship between Gatsby and Nick in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The friendship between Gatsby and Nick in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The claim this article defends has a name worth remembering: the friendship that began as a transaction. Gatsby befriends Nick to reach Daisy, yet the tie outgrows its purpose and becomes the one genuine connection in a book full of false ones. Nick's lonely fidelity at the funeral, when the rotten crowd that drank Gatsby's liquor cannot be bothered to attend, is the novel's only redeemed relationship. To see why, you have to follow the bond from its cold beginning through its warming middle to its bleak, faithful end, and to read what each man takes from the other along the way.
 
@@ -318,5 +318,4 @@ The bond becomes genuine at the moment its usefulness runs out and the closeness
 ### Why is this the only real relationship in the novel?
 
 Because every other bond in the book is compromised, possessive, or doomed, and this one alone moves toward something good. Tom and Daisy share a marriage held together by money and mutual betrayal. Tom and Myrtle conduct an affair built on appetite and contempt. Gatsby and Daisy pursue a love that turns out to be the chasing of an idealized memory. Nick and Jordan drift into a romance that ends in mutual carelessness. Each of these is about having or using another person. The friendship between Gatsby and Nick asks for nothing of the kind; Nick does not want to possess Gatsby, only, in the end, to honor him. It is the single connection free of the acquisitive hunger that poisons the rest, which is exactly what lets it become real. One man simply wishes another well and acts on it, and in this novel that is rare enough to stand alone.
-
 

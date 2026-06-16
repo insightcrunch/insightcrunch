@@ -6,15 +6,15 @@ date: 2018-07-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Mission", "Roland Joffe", "Ennio Morricone", "Film Scores", "Film Analysis", "World Cinema"]
 excerpt: "The Mission makes Ennio Morricone's score its moral voice, fusing sacred choir, indigenous drum, and a lyrical oboe theme into an elegy for faith and empire."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-07-15
+lang: en
 ---
-
 A priest climbs to the top of a waterfall, sits on a rock above a tribe that has just martyred one of his brothers, and instead of speaking he plays an oboe. The Guarani warriors who were ready to kill him stop, listen, and lower their weapons. That scene is the thesis of The Mission in a single image, and it is also the thesis of Ennio Morricone's score: that music can reach across a gulf no argument can bridge, and that when the talking fails, the melody is the only thing left that both sides can hear. The Mission, directed by Roland Joffe in 1986 from a screenplay by Robert Bolt, is a film about Jesuit missionaries and the Guarani people of eighteenth-century South America, caught between faith and the slave-trading empires of Spain and Portugal. It is also, by wide agreement, the home of one of the most revered scores ever written for cinema, a body of music so durable that it long ago outgrew the film and now lives in concert halls, weddings, funerals, and the standard repertoire of every crossover soprano alive.
 
-![How The Mission turns Ennio Morricone's score into the film's moral voice, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How The Mission turns Ennio Morricone's score into the film's moral voice, an analysis - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 This article reads The Mission as a score-and-sound film, because that is where its lasting power sits. The images are beautiful, the Iguazu Falls cinematography won an Oscar, and the performances of Robert De Niro and Jeremy Irons are committed and grave. But strip the music away and the film becomes what several of its sharpest critics always said it was: a handsome, slow, sometimes inert historical pageant that struggles to make its moral argument land in dialogue. Put the music back and the same footage becomes an elegy. The score does not decorate the film. It carries the film's central claim, that the Jesuit reductions were a brief and fragile harmony of two worlds, and that their destruction was the silencing of something that had only just learned to sing together. That is an argument almost impossible to state in words without sounding naive. Morricone states it in sound, where it cannot be cross-examined, and that is why it works.
 

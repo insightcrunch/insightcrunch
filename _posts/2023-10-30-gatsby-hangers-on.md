@@ -6,19 +6,19 @@ date: 2023-10-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gatsby's hangers-on", "Klipspringer", "character analysis", "party guests", "the funeral", "F. Scott Fitzgerald"]
 excerpt: "A character study of Gatsby's hangers-on, the uninvited party crowd who consume his world and vanish at his funeral, with Ewing Klipspringer as the type case."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2023-10-30
+lang: en
 ---
-
 The most damning portrait in The Great Gatsby is not a person at all. It is a crowd. Gatsby's hangers-on, the hundreds who pour through his gates every summer Saturday and drink his liquor and repeat invented stories about him, are the novel's quiet verdict on what money can and cannot buy. They are everywhere when the lights are on. They are nowhere when the coffin is open. To read them as a single character, rather than as a string of comic walk-ons, is to see Fitzgerald's sharpest argument about transactional society laid bare: the popularity that wealth purchases is as hollow as the parties that produce it.
 
 This study treats the party crowd as one collective figure with one arc. It owns the hangers-on as a group, the freeloading multitude typified by Ewing Klipspringer, the boarder who practically lived in Gatsby's house. The individual close study of Klipspringer as a person belongs to its own analysis, which reads him line by line as a character in his own right; here he appears as the representative case, the single named body that stands for the whole anonymous throng. Read together, the crowd and its type case make the same point twice.
 
 The namable claim of this article is simple and, once you see it, hard to unsee. Call it the crowd that was never there. The hangers-on consume Gatsby's manufactured world for three summers and then abandon it the instant it can no longer feed them, and that abandonment, staged at the empty funeral in the final chapter, proves that the man bought attention but never bought a single human tie. The parties were full. The funeral was a vacancy. The distance between those two scenes is the whole moral of the book in miniature.
 
-![The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The Great Gatsby](/assets/images/blog/blog-25.webp)
 
 What follows traces that distance. It establishes why the crowd should be read as one character rather than many, examines how Fitzgerald frames their arrival, reads their motives from the text, names the type case in Klipspringer, builds a collective portrait you can cite, weighs their symbolic load, follows their arc through the nine chapters, and ends at the graveside where the argument completes itself. If you want the primary source open beside this reading, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the party chapters and the funeral sit a few clicks apart.
 
@@ -277,5 +277,4 @@ Both, and the achievement is that they are the same thing seen from different di
 ### Q: What is the "crowd that was never there" reading of the hangers-on?
 
 It is the reading this study defends: that the hangers-on are one character whose defining act is an absence, and that the absence is the novel's most economical statement of its theme. The crowd consumes Gatsby's manufactured world for three summers and abandons it the instant it can no longer feed them, and that abandonment, staged at the empty funeral, proves that Gatsby bought attention but never bought a single human tie. The name captures the paradox. The crowd was overwhelmingly present at the parties and completely absent when it mattered, which means that in every sense that counts it was never really there at all. The distance between the crowded gardens and the empty grave is the whole reading in one image.
-
 

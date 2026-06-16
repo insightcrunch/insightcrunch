@@ -6,14 +6,14 @@ date: 2024-07-10
 categories: ["Industry"]
 tags: ["高考物理", "物理实验", "实验设计", "误差分析", "Gaokao Physics", "Experiments"]
 excerpt: "高考物理实验题分值固定、考点稳定、套路清晰,是理科生最该稳稳拿下的板块之一。本文系统拆解力学与电学全部必考实验、游标卡尺与螺旋测微器等仪器读数、纸带与图像数据处理、系统误差与偶然误差的辨析、探究类与设计类实验,以及规范的作图与答题模板,并附二十个高频问题解答,助你在考场上把这一板块的每一分都稳稳收入囊中。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "zhang-hao"
+lang: zh
 ---
-
 高考物理实验题是整张物理试卷中性价比最高的板块之一。它分值固定、考点稳定、套路清晰,只要把典型实验的原理、步骤、数据处理和误差分析吃透,再配合规范的作图和单位书写,15 到 20 分几乎可以稳稳拿下。然而现实情况是,很多理科考生在这一板块反复丢分,原因往往不是不会做,而是平时复习把绝大多数时间投在了计算题和压轴题上,对实验板块只是草草翻过。本文将带你系统拆解高考物理实验题的全部核心内容,从力学到电学,从纸带数据到作图求斜率,从内接外接的选择到误差来源的判断,把这一板块彻底讲透,让你在考场上面对实验题时心里有底、下笔有据。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-102.webp)
 *高考物理实验题力学与电学板块的系统复习路线图*
 
 ## 实验题在高考物理中的地位与结构

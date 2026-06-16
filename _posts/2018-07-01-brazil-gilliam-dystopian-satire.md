@@ -6,15 +6,15 @@ date: 2018-07-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Brazil", "Terry Gilliam", "Dystopian Film", "Film Analysis", "World Cinema", "Directors"]
 excerpt: "Brazil (1985) is Terry Gilliam's argument that against a crushing bureaucracy, fantasy is the only escape and also the final trap, sealed by its ending."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-07-01
+lang: en
 ---
-
 Terry Gilliam's *Brazil* (1985) is built around a single, uncomfortable idea: that against a machine designed to crush you, imagination is the only refuge available, and that the refuge is also a trap. The film follows Sam Lowry, a contented low-level clerk inside a monstrous administrative state, who escapes the grey weight of his working life into daydreams of flight and rescue. The daydreams give him everything the world withholds: wings, a heroic body, a woman to save, a sky to fly through. By the end, those same daydreams have become the place he disappears into permanently, after the apparatus has taken everything else. That is the argument the movie wants you to leave with, and it is the reason its famously contested ending matters so much. The happy version that a studio executive preferred does not soften the film. It cancels the thought the whole thing was built to deliver.
 
-![Retro-future dystopian satire and the argument of Terry Gilliam's Brazil](/assets/images/blog/blog-01.webp)
+![Retro-future dystopian satire and the argument of Terry Gilliam's Brazil](/assets/images/blog/blog-85.webp)
 
 This analysis treats *Brazil* as a philosophical object rather than a plot to be recapped. The questions worth answering are these. What is the film actually saying about officialdom, daydream, and liberty? How does it build that meaning into image and structure rather than into speeches? Why did the studio fight its director over the final scene, and why is the bleak version the only one that completes the thought? And how does Gilliam's comic-nightmare vision sit alongside the speculative and absurdist cinema being made elsewhere in the world, where the same anxieties about the modern state produced very different films? Answer those, and the movie stops being a cult curiosity with a strange title and becomes one of the most coherent screen arguments about freedom and the imagination ever assembled.
 
