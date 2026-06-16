@@ -2,16 +2,16 @@
 title: "Who Is the Real Protagonist of The Great Gatsby?"
 date: 2024-01-29
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "diana-patel"
 image: /assets/images/blog/blog-01.webp
 slug: gatsby-real-protagonist
 excerpt: "The real protagonist of The Great Gatsby is contested because Gatsby is the one the story watches while Nick is the one it changes, so the definition decides."
 reading_time: 48
+lang: en
 ---
-
 Ask a classroom who the real protagonist of The Great Gatsby is and almost every hand goes up for the same answer: Gatsby, obviously, because his name is on the cover. The title looks like a verdict. Yet the question is harder than the cover makes it appear, and the reason it stays alive in essays, exam halls, and seminar rooms is that the novel quietly splits the job of protagonist between two men. One of them is the figure everyone watches. The other is the figure the events actually change. Settle which of those two definitions you mean, and you have settled the debate; refuse to settle it, and you will argue in circles forever.
 
-![Who is the real protagonist of The Great Gatsby, Gatsby or Nick Carraway, debate explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Who is the real protagonist of The Great Gatsby, Gatsby or Nick Carraway, debate explained - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 This is not a trick question with a hidden right answer that makes the obvious one wrong. Gatsby has a genuine claim, and so does Nick Carraway, and the strongest reading of the book is the one that can hold both claims at once before deciding between them on principle rather than habit. The trouble with the classroom answer is not that it names Gatsby. The trouble is that it names him for the wrong reason, treating the title as proof and skipping the analysis that the title was supposed to invite. A reader who can explain why Gatsby is the protagonist by one standard and Nick by another, and who can say which standard the novel itself seems to prefer, understands the book at a level the cover answer never reaches.
 

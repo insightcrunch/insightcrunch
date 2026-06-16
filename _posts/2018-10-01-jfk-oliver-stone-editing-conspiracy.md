@@ -6,15 +6,15 @@ date: 2018-10-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "JFK", "Oliver Stone", "Political Thriller", "Film Editing", "Film Analysis", "World Cinema"]
 excerpt: "JFK turns thousands of cuts across mixed film stocks into an argument, the editing craft that makes Oliver Stone's conspiracy case thrilling and contested."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-10-01
+lang: en
 ---
-
 Most films build their argument in the screenplay and let the cutting room keep it intact. JFK, the 1991 political thriller directed by Oliver Stone, inverts that order. The script supplies the case, the names, the timeline, and the doubts, but the persuasion itself happens in the splices, in the rapid traffic of mismatched images that the film keeps shoving in front of you faster than disbelief can organize a reply. Watch the picture once and you may come away convinced that the assassination of President Kennedy was a coup; watch the same footage with the sound off and you can see the machinery that did the convincing. The editing is the argument. That single fact is what separates this film from the hundreds of conspiracy documentaries that share its subject and reach none of its force.
 
-![How JFK uses multi-format editing to argue a conspiracy, a craft analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How JFK uses multi-format editing to argue a conspiracy, a craft analysis - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The premise sounds like a courtroom drama. New Orleans district attorney Jim Garrison reopens the only criminal prosecution ever brought in connection with the Kennedy killing, builds a case against a local businessman named Clay Shaw, and loses. A faithful procedural treatment of that material would have produced a respectable and forgettable movie. Stone made something else: a three-hour assembly of thousands of shots drawn from every film format he could lay hands on, real and staged footage spliced together until the seam between document and dramatization disappears. The craft question this article pursues is precise. How does a cutting strategy turn into a rhetorical weapon, why is the result both thrilling and distrusted by the very people most qualified to judge it, and how does that strategy read against the political filmmakers around the world who were trying to solve the same problem with very different tools? The answer is the spine of everything below.
 

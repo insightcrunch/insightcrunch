@@ -4,17 +4,17 @@ page_title: "Daisy and Myrtle as Parallel Women: A Great Gatsby Character Analys
 date: 2024-01-01
 last_updated: 2024-01-01
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "emily-reed"
 image: /assets/images/blog/blog-01.webp
 slug: daisy-and-myrtle-parallels
 excerpt: "Daisy and Myrtle as parallel women want the same escape into a better life, yet class alone decides which one survives and which one Daisy kills with the car."
 reading_time: 47
 tags: ["The Great Gatsby", "Daisy Buchanan", "Myrtle Wilson", "Character Analysis", "Class and Wealth", "F. Scott Fitzgerald"]
+lang: en
 ---
-
 Most readers file Daisy and Myrtle in opposite drawers. One is the golden wife in a white dress on a white couch, the other the flushed mistress in a brown garage at the edge of an ash heap. The instinct is to read them as a contrast, the lady against the common woman, refinement against appetite. That instinct misses the most disquieting thing Fitzgerald built into the novel. Read closely, Daisy and Myrtle as parallel women are not opposites at all. They are the same woman wearing two budgets. Both are married, both are restless inside that marriage, both reach for a larger life through a man who can buy it, and both are tied to the same man, Tom Buchanan. The variable that separates them is not character, virtue, or desire. It is money. And the novel makes that point with a cruelty so exact it is easy to miss: the wife does not merely outrank the mistress. She kills her.
 
-![Daisy and Myrtle as parallel women in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Daisy and Myrtle as parallel women in The Great Gatsby](/assets/images/blog/blog-51.webp)
 
 This study reads Daisy Buchanan and Myrtle Wilson as a deliberate parallel rather than a clean opposition, and it argues a single claim it will call **Same Desire, Opposite Verdicts**: the two women want the identical thing, an escape upward into a better life, and the only thing that decides their fates is the class they start from. Held side by side, they expose the engine of the whole book. Class is not a backdrop in The Great Gatsby. It is the thing that decides who lives. The parallel is the proof, and the image of Daisy at the wheel of the car that strikes Myrtle down is the proof made literal, the rich woman becoming, in one stroke of plot, the death of the poor one. To gather the scenes and lines this reading depends on in one place, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the Daisy passages of Chapters 1 and 7 and the Myrtle passages of Chapters 2 and 7 sit a click apart and the parallel becomes visible on the page.
 
@@ -292,5 +292,4 @@ They map the narrow range of routes the era allowed women, and both routes run t
 ### Q: What is the biggest mistake students make writing about Daisy and Myrtle?
 
 The most common mistake is stopping at the contrast. A weak essay lists the differences, the refined wife against the coarse mistress, East Egg against the ash heaps, and treats that opposition as the whole point, producing a tidy compare-and-contrast piece with no argument underneath. The opposition is only the entry point. The real claim is the equivalence beneath it, that the two women want the same thing and are divided only by class, and that their opposite fates therefore indict class rather than character. A second frequent error is treating Myrtle as simply vulgar and Daisy as simply tragic, which swallows the very class reflex the novel is exposing. A third is reading the killing as a plot accident rather than the parallel resolving into cause and effect. Keep returning to the claim that the women are the same in desire and split only by money, and use the Chapter 7 collision as proof, and the essay will hold a real argument rather than a surface comparison.
-
 

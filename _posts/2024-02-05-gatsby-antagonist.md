@@ -6,15 +6,15 @@ date: 2024-02-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Jay Gatsby", "Character Analysis", "Literary Criticism", "American Literature"]
 excerpt: "Who is the antagonist in The Great Gatsby? Tom seems the obvious villain, yet the novel's real and undefeatable opponent is time, the past that cannot return."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2024-02-05
+lang: en
 ---
-
 Ask a classroom who the antagonist in The Great Gatsby is, and the hands go up fast: Tom Buchanan. He is rich, cruel, unfaithful, and he is the man who finally breaks Gatsby. The answer feels obvious, which is exactly why it is worth distrusting. Naming Tom and stopping there treats a layered novel as if it were a melodrama with a mustache-twirling villain, and Fitzgerald built something stranger and sadder than that. The real question is not which character we dislike most. It is which force in the book actually opposes Gatsby's deepest want and proves stronger than him. Once you frame it that way, the obvious answer starts to wobble, and a better one comes into view.
 
-![The Great Gatsby antagonist analysis](/assets/images/blog/blog-01.webp)
+![The Great Gatsby antagonist analysis](/assets/images/blog/blog-82.webp)
 
 This study weighs the genuine candidates against one another, holds the evidence for each, and reaches a defended verdict rather than asserting a label. Tom is the human obstacle, the face of the opposition, and any honest reading has to give him his due. But Gatsby's deeper enemy is something Tom only represents: the impossibility of repeating the past. The argument here is that the antagonist of The Great Gatsby is time itself, and that the careless rich, the corrupted dream, and Tom are each a mask worn by that single, undefeatable adversary. To get there honestly, we have to take every contender seriously, because the strength of the verdict depends on how fairly the alternatives are tried.
 

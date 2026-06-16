@@ -6,15 +6,15 @@ date: 2018-12-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Dances with Wolves", "Kevin Costner", "Western", "Adaptations", "World Cinema", "Film History"]
 excerpt: "Dances with Wolves adapts Michael Blake's novel into a subtitled, sympathetic Western that shifts the genre's full sympathy from settler to Lakota tribe."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-12-01
+lang: en
 ---
-
 The central decision in adapting Dances with Wolves was not which scenes to keep. It was whose ear the camera would belong to. Kevin Costner's 1990 directorial debut takes a frontier story that had every reason to play as another cavalry picture and points the whole apparatus the other way, so that the Lakota who would once have been the genre's faceless threat become the people whose language fills the soundtrack and whose judgment the white outsider is anxious to earn. That single reorientation, carried out in the act of turning Michael Blake's novel into a three-hour epic, is the reason the movie still gets argued about thirty years on, and it is the proper subject of an adaptation study rather than a plot recap.
 
-![Dances with Wolves analysis](/assets/images/blog/blog-01.webp)
+![Dances with Wolves analysis](/assets/images/blog/blog-25.webp)
 
 This article treats the picture as a set of adaptation choices and reads each one against what film history actually supports. The aim is not appreciation. The aim is to show how a sympathetic, subtitled portrait of a Plains tribe was built out of a slim novel, where the adaptation gained power and where it strained, and how the result sits beside the very different attempts other national cinemas were making at the same moment to retell conquest from the side of the conquered. The namable claim that organizes everything below is simple enough to cite: this is the Western from the other side, an adaptation that shifts the genre's sympathy from settler to tribe by granting the Lakota their own language on screen.
 

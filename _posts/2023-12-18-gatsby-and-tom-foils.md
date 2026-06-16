@@ -2,16 +2,16 @@
 title: "Gatsby and Tom as Foils"
 date: 2023-12-18
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "diana-patel"
 image: /assets/images/blog/blog-01.webp
 slug: gatsby-and-tom-foils
 excerpt: "Gatsby and Tom as foils: the dreamer without security and the brute with it, two men who define each other and reveal the novel's cold verdict on America."
 reading_time: 47
+lang: en
 ---
-
 Ask why Daisy stays with the man who humiliates her rather than the man who worships her, and you have already started reading Gatsby and Tom as foils. The whole novel arranges itself around that single choice, and the choice only makes sense once you see that these two men are not rivals who happen to want the same woman. They are opposite answers to the same question, built by Fitzgerald to measure each other. Jay Gatsby is the dream with no ground under it. Tom Buchanan is the ground with no dream on top of it. Daisy stands between them as the place where the contrast becomes a decision, and her decision is the book's coldest sentence about what America actually rewards.
 
-![Gatsby and Tom as foils in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Gatsby and Tom as foils in The Great Gatsby](/assets/images/blog/blog-55.webp)
 
 A foil is a character who exists, structurally, to throw another character into relief. Put a thing beside its opposite and you see the edges of both. Fitzgerald does not give us Tom so that Gatsby will have someone to fight. He gives us Tom so that we will understand exactly what Gatsby is by seeing what Gatsby is not, and he gives us Gatsby so that Tom's secure cruelty has something luminous to stand against. Neither man is fully legible on his own. Read alone, Gatsby looks like either a saint or a swindler, and Tom looks like a simple bully. Read together, each one supplies the missing half of the other's meaning, and a deeper pattern emerges: two halves of one impossible whole, the dreamer who has everything except a foundation and the heir who has the foundation and nothing he would dream toward.
 
@@ -281,5 +281,4 @@ It reveals that the dream and the security have been split, and that the society
 ### Q: How should a student write about Gatsby and Tom as foils in an essay?
 
 Start from the structural claim rather than a list of differences. Argue that Fitzgerald split the dream and the security between two men so that Daisy's choice would reveal which one the society protects. Use the foil table as your skeleton, then prove each contrast with evidence, Gatsby's invented self against Tom's inherited one, the green light against the secure dock, the worshipful want against the casual possession. Address the counter-reading directly by showing the shared flaw, both men reducing Daisy to a possession, so your essay rises above the hero-versus-villain cliche. Close on the verdict, that the dreamer dies and the heir walks away, and name what that outcome says about the American dream. A defended claim about the structure will always outscore a neutral catalogue of traits.
-
 

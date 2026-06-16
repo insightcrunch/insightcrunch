@@ -6,15 +6,15 @@ date: 2018-08-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "sex, lies, and videotape", "Slacker", "Richard Linklater", "Steven Soderbergh", "Independent Film", "Film History"]
 excerpt: "How sex, lies, and videotape and Slacker launched the American independent film surge from two ends, the festival breakthrough and the regional margins."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2018-08-01
+lang: en
 ---
-
 Two American films arrived within roughly a year of each other at the turn of the 1990s, and between them they cracked open the decade of independent cinema. sex, lies, and videotape was a quiet four-hander about confession, repression, and a man who can only feel anything through a camera lens, made for a little over a million dollars in Baton Rouge by a twenty-six-year-old who had barely directed anything. Slacker was a plotless drift through a single day in Austin, made for the price of a used car, following one talkative misfit after another with no story to speak of and no one you could call a lead. The two do not look like siblings. They share no plot logic, no budget bracket, no tone, no idea of what a movie is supposed to do. Yet hold them side by side and they become the two doors through which the American independent surge walked in: one through the festival, with a top prize at Cannes and a star turn at Sundance, and one through the margins, where a region found its own voice without asking permission from anyone.
 
-![sex, lies, and videotape and Slacker, the festival breakthrough and the regional experiment that opened the American independent surge.](/assets/images/blog/blog-01.webp)
+![sex, lies, and videotape and Slacker, the festival breakthrough and the regional experiment that opened the American independent surge.](/assets/images/blog/blog-93.webp)
 
 The question this double bill raises is not which film is better, a contest that would flatter neither, but which mattered more to what came after. Did the surge begin when an unknown filmmaker proved you could break out of nowhere and win the most prestigious award in world cinema, putting a festival and a distributor on the map in a single season? Or did it begin when a filmmaker showed that a place, a generation, and a way of talking could become a movie without any of the machinery the first film still used? The honest answer is that the surge had two engines and these two films are each one of them. To watch them together is to see the whole shape of how American independent film came up: through the prize and through the parking lot, through the jury at Cannes and through the laundromats of Austin, at the same moment and from opposite ends.
 
@@ -214,7 +214,6 @@ The truth this pairing makes visible is that the surge rose from several directi
 There is also a chronological subtlety the single-origin myth obscures. These films did not arrive in a vacuum; the conditions that made them possible, an established if struggling festival, a hungry young distribution sector, affordable filmmaking equipment, and a generation of filmmakers who had grown up on both Hollywood and the international art cinema, were already in place. sex, lies, and videotape and Slacker did not create the surge out of nothing. They proved that the surge was possible, each in a different register, and that proof drew in the talent and money and attention that turned a latent possibility into a decade-long movement. A movement needs proof of concept more than it needs a single founder, and what these two films provided, between them, was proof that both the high road and the low road were open.
 
 There is a reason the single-origin myth is so hard to dislodge, and naming it guards against the error. Origin myths flatter the desire for a hero, a founding moment that can be commemorated and a name that can be credited, and the film industry in particular loves a discovery narrative in which one bold work changes everything overnight. That story is more marketable and more memorable than the truth, which is that movements emerge from converging conditions and multiple simultaneous proofs rather than from a single spark. Resisting the myth is not pedantry; it is the difference between understanding how change actually happens and settling for a fairy tale. The honest account, that the surge had at least two engines firing at once and neither caused the other, is less tidy but far more useful, because it lets a filmmaker or a student see the real structure of the opportunity rather than waiting for a lone genius to repeat a feat that was never solitary in the first place.
-
 
 
 ## Reception, reappraisal, and lasting standing

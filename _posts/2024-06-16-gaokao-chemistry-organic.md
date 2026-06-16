@@ -6,14 +6,14 @@ date: 2024-06-16
 categories: ["Industry"]
 tags: ["高考化学", "有机化学", "官能团", "合成路线", "Gaokao Chemistry", "Organic"]
 excerpt: "高考有机化学权威备考指南,从烃类四大家族与含氧官能团的识别讲起,系统梳理取代加成消去氧化还原与聚合这五大反应类型,详解酯化机理、同分异构体分层枚举、合成路线五步设计与推断题现象到官能团的破解线索,并结合各省命题特点、分数段突破路径与实验工业情境,把看似繁杂的有机大题拆解成人人皆可训练掌握的清晰模式。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "yang-bo"
+lang: zh
 ---
-
 很多同学一翻开有机化学这一章,就被密密麻麻的分子结构、五花八门的物质名称和绕来绕去的箭头吓住了。其实,有机这个板块看上去物质繁多、变化莫测,真正的内核却异常规整。它不是一门靠运气和悟性才能学好的玄学,而是一套围绕官能团与反应类型搭建起来的、可以系统训练的知识体系。只要把"有哪些官能团"和"它们之间怎样转化"这两张表牢牢刻进脑子里,所谓的有机大题、合成推断,都会从难以下手变成有章可循。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-24.webp)
 *有机化学并不神秘,官能团与反应类型构成它清晰的内在骨架*
 
 作为一名长期研究高考命题的教育工作者,我见过太多学生在有机这一块走了弯路:有人死记硬背几十个方程式却理不清逻辑,有人盲目刷题却抓不住命题规律。本文想做的,是带你把整个有机板块的脉络梳理清楚,从最基础的烃类分类,一路讲到合成路线设计和推断题破解。如果你刚开始接触化学这门学科,建议先读一读我们的[化学备考指南](/2026/01/13/gaokao-chemistry-preparation-guide/),对整门学科的结构有个全局认识,再回来啃有机这块硬骨头,效果会更好。

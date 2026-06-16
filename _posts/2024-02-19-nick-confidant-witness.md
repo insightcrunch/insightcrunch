@@ -6,17 +6,17 @@ date: 2024-02-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Character Analysis", "Narration", "F. Scott Fitzgerald", "Confidant"]
 excerpt: "Nick Carraway as confidant and witness is the engine of the novel: he hears every secret and sees every scene, which is exactly how the story can be told."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2024-02-19
+lang: en
 ---
-
 Ask why The Great Gatsby can be narrated at all and you arrive at one quiet man standing slightly apart from every party, every quarrel, and every confession. Nick Carraway as confidant and witness is not a minor descriptive fact about him; it is the condition that makes the book possible. Strip away his gift for drawing out the secrets of others and his habit of lingering at the rim of each scene, and there is no story to tell, because no one would have told it to anyone. The novel we read exists only because Nick is the man people talk to and the man who happens to be watching when it matters.
 
 This is the double position the present study owns. Other examinations of this narrator divide the labor among themselves. The hub study of [Nick Carraway: A Complete Character Analysis](/2023/06/05/nick-carraway-character-analysis/) weighs the whole man and his complicity. The debate over whether he tells the truth belongs to [Nick Carraway: Reliable or Unreliable Narrator?](/2023/06/12/nick-carraway-reliable-narrator/), and his deepest single tie sits inside the analysis of [Gatsby and Nick: The Central Friendship](/2023/11/13/gatsby-and-nick-friendship/). What concerns us here is narrower and, in a structural sense, more fundamental: the role of the listener who is also the seer, the confessor who is also the recorder. That fused office is the machinery beneath every other reading of him.
 
-![Nick Carraway as confidant and witness in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Nick Carraway as confidant and witness in The Great Gatsby](/assets/images/blog/blog-99.webp)
 
 ## Nick Carraway as Confidant and Witness: The Role That Makes the Novel Possible
 

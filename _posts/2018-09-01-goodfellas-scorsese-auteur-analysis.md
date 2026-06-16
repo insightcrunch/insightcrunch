@@ -6,14 +6,15 @@ date: 2018-09-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Goodfellas", "Martin Scorsese", "Crime Film", "Film Analysis", "Directors", "World Cinema"]
 excerpt: "Goodfellas defines Martin Scorsese as an auteur, the restless camera, dual voiceover, and needle-drops making crime thrilling before the consequence lands."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-09-01
+lang: en
 ---
 Martin Scorsese opens Goodfellas with a body in a trunk that will not stay dead. A car drifts down a dark road, three men hear a thumping from behind them, they pull over, they pop the trunk, and a half-wrapped corpse looks back at them still breathing. One of them stabs it; another empties a pistol into it. Then the screen freezes on the youngest man's face, the soundtrack drops to a single line of narration, and a voice tells us that as far back as he can remember he always wanted to be a gangster. In ninety seconds the picture has announced every instrument the director will play for the next two and a half hours: the camera that refuses to sit still, the freeze-frame that arrests a moment for judgment, the voiceover that confides in us, the violence rendered as casual fact, and the seductive promise that this life is the only one worth wanting. The directorial problem Scorsese set himself was not how to tell a true crime story. Henry Hill's story had already been told in print. The problem was how to make an audience feel the pull of a life it knows to be monstrous, to ride the rush until the rush turns to dread, and to walk out implicated rather than instructed. The signature this work bears is the solution to that problem, and it is the clearest statement of what makes Scorsese an author rather than a craftsman.
 
-![Goodfellas Scorsese auteur analysis](/assets/images/blog/blog-01.webp)
+![Goodfellas Scorsese auteur analysis](/assets/images/blog/blog-13.webp)
 
 This article reads Goodfellas as an authored object, the place where a director's recurring obsessions, his developed technique, and his moral imagination converge into a single propulsive design. The aim is to define Scorsese as an auteur through this one work, to name the tools and show what each one expresses, and then to set that authorial vision against the gangster cinema being made across the world at the same moment, because the comparison is what reveals the specificity of his contribution. A reader who finishes should be able to say what a Scorsese picture is, point to the scenes that prove it, and understand why his velocity makes the moral reckoning land harder than the colder or grander crime films made elsewhere.
 

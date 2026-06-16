@@ -7,14 +7,14 @@ last_updated: 2024-02-12
 excerpt: "Gatsby as a tragic hero: a label most assert and few test. This character analysis weighs greatness, flaw, reversal, and the recognition he never reaches."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "claire-bennett"
 tags: ["The Great Gatsby", "Jay Gatsby", "Character Analysis", "Tragedy", "Close Reading", "Literary Criticism"]
 reading_time: 47
+lang: en
 ---
-
 The label gets attached almost reflexively. A student writes the phrase "Gatsby as a tragic hero" in an opening sentence, assumes the matter is settled, and hurries on to the plot. The trouble is that a label asserted is not a label earned, and the most useful thing a reader can do with this novel is refuse the reflex. The classical tradition does not hand out the title for free. It demands a figure of real stature, a flaw that belongs to that figure rather than to bad luck, a reversal that turns greatness into ruin, and a moment of clear self-knowledge in which the hero finally sees what he has done. Run Jay Gatsby through those four demands honestly and something strange happens. He passes three of them with room to spare, and the fourth, the recognition, he never quite reaches. That gap is not a failure of the analysis. It is the most interesting fact about him.
 
-![Jay Gatsby as a tragic hero in The Great Gatsby, the classical criteria tested - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jay Gatsby as a tragic hero in The Great Gatsby, the classical criteria tested - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 This study does one thing and tries to do it well: it weighs the tragic-hero question against the text rather than assuming the answer. The aim is not to crown Gatsby or to dethrone him but to argue the precise case, so that a reader can defend a verdict instead of inheriting one. Where the genre and form of the whole book treats tragedy at the level of the novel's design, this piece stays on the man, on whether the figure at the center of it earns the oldest and heaviest word criticism keeps reaching for. A fuller portrait of the character sits in the complete [Jay Gatsby character analysis](/2023/05/08/jay-gatsby-character-analysis/) that anchors this series; here the lens narrows to a single, contested claim.
 

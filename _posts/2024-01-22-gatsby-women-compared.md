@@ -6,13 +6,13 @@ date: 2024-01-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Daisy Buchanan", "Jordan Baker", "Myrtle Wilson", "Character Analysis", "Themes", "F. Scott Fitzgerald"]
 excerpt: "The women of Great Gatsby compared: how Daisy, Jordan, and Myrtle map the narrow spectrum of female options the 1920s allowed, and why not one of them escapes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2024-01-22
+lang: en
 ---
-
-![The women of The Great Gatsby compared, Daisy, Jordan, and Myrtle as a spectrum of female options - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The women of The Great Gatsby compared, Daisy, Jordan, and Myrtle as a spectrum of female options - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 Ask who the women of The Great Gatsby are and most readers will hand you three labels and stop. Daisy is the prize. Jordan is the cynic. Myrtle is the mistress. Each label is a door slammed before the reading begins, and behind each door is a person the novel built with care. The point of having the women of Great Gatsby compared as a set, rather than studied one at a time, is that the labels dissolve the moment you place the three figures beside one another. What looks like three unrelated types turns out to be three answers to a single question the era kept asking its women: given that a woman cannot simply choose her own life, how will she choose within the cage?
 

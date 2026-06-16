@@ -6,13 +6,15 @@ date: 2024-01-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Male Characters", "Jay Gatsby", "Tom Buchanan", "Character Analysis", "American Literature"]
 excerpt: "The men of The Great Gatsby form a spectrum of failed manhood: Gatsby, Tom, Nick, and George Wilson compared as four rival models of American masculinity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2024-01-15
+lang: en
 ---
-
 The men of The Great Gatsby are usually read one at a time, as if Gatsby, Tom, Nick, and George Wilson happened to land in the same book by accident. They did not. Fitzgerald built them as a set, and the set has a shape. Lay the four major male figures side by side and a pattern surfaces that no single portrait reveals: a dreamer who invents himself, a brute who inherits everything, a watcher who narrates from the edge, and a victim who is ground to nothing at the bottom. Each embodies a different relationship to power, money, and manhood, and not one of them escapes failure. That is the argument this study defends, and it is the reason the male cast rewards being read together rather than apart.
+
+![The Men of The Great Gatsby Compared - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 Call it the spectrum of failed manhood. The phrase is worth holding onto because it names what the individual character studies cannot: the men are not four unrelated people but four points on a single line that runs from aspiration to annihilation, with privilege and observation sitting in between. Gatsby reaches and is shot for it. Tom holds and breaks others to keep holding. Nick records and retreats. Wilson loses everything and pulls the trigger. Read as a group, they form a deliberate indictment of the era's models of being a man, and the novel withholds its endorsement from every one of them.
 

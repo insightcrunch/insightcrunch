@@ -6,15 +6,15 @@ date: 2018-08-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "El Mariachi", "Robert Rodriguez", "Independent Film", "Film History", "Directors"]
 excerpt: "El Mariachi turned roughly seven thousand dollars and a one man crew into a propulsive style, the micro budget legend of how scarcity became its own aesthetic."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-08-15
+lang: en
 ---
-
 A feature film has a floor price, the number below which the received wisdom says you cannot buy a finished movie, and in 1991 a twenty-three-year-old from Texas decided to find out where that floor actually sat. El Mariachi was made for roughly seven thousand dollars, a figure so far beneath the floor that it stopped being a budget and became an argument. The argument runs like this: most of what a production spends money on is insurance against difficulty, and if you are willing to absorb the difficulty yourself, in your own labor, your own time, and your own refusal to do anything twice, the price collapses. Robert Rodriguez absorbed all of it. He wrote the picture, directed it, shot it, recorded the sound, cut it, built the effects, and did everything except step in front of the lens, because there was no one left to operate the camera if he did. What came out the other end was not a charity case that critics forgave for being cheap. It was a propulsive, kinetic action movie whose style was not despite the money but because of it, and that inversion is the whole story.
 
-![How El Mariachi turned a seven thousand dollar micro-budget and a one man crew into a propulsive style, a production analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How El Mariachi turned a seven thousand dollar micro-budget and a one man crew into a propulsive style, a production analysis - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 This article treats the making of El Mariachi as the explanation for the film rather than as trivia attached to it. The seven-thousand-dollar legend is repeated so often that it has worn smooth, and worn-smooth facts stop teaching. The point of going back into the production is to recover what the constraint actually forced, decision by decision, and to show how each limit, met with a specific workaround, left a fingerprint on the screen. The wheelchair that stood in for a dolly is on the screen. The decision never to shoot a second take is on the screen. The choice to edit in the camera, planning the cuts before the trigger was ever pulled, is on the screen. Scarcity did not hide in this movie. Scarcity is its aesthetic, and naming exactly how that works is the business of the pages that follow.
 

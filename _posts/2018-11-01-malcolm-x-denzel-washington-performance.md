@@ -6,15 +6,15 @@ date: 2018-11-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Malcolm X", "Spike Lee", "Denzel Washington", "Biographical Epic", "Performance Study", "1990s Cinema"]
 excerpt: "Malcolm X gives Spike Lee's epic biography its spine through Denzel Washington's decade-spanning transformation, the contested life one performance holds."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-11-01
+lang: en
 ---
-
 A biographical epic asks one thing of its lead that almost no other kind of role demands: that a single body hold together a life so changeable it barely seems to belong to one person. Malcolm X, Spike Lee's 1992 drama, hands Denzel Washington a man who is a street hustler at twenty, a prison convert at twenty-five, a national minister at thirty, and a pilgrim revising every belief he ever preached at thirty-eight, and the picture asks him to make all four feel like the same human being seen at different hours of the same long day. The danger in any cradle-to-grave portrait is that the actor turns into a tour guide, pointing at each phase from outside it, so the audience watches a museum of haircuts and accents rather than a person becoming himself. Washington solves that problem by treating change as something that accumulates rather than something that gets announced, and the result is the spine that holds a contested history upright for more than three hours.
 
-![Malcolm X poster image](/assets/images/blog/blog-01.webp)
+![Malcolm X poster image](/assets/images/blog/blog-44.webp)
 
 That is the claim worth keeping in view through everything that follows. A life carried in one performance: Washington shifts so completely from stage to stage that the epic biography rests on those shifts, and the man's evolution becomes the film's structure rather than its decoration. The history around the role is fierce and unsettled, the production that made it possible was a war, and the man at the center remains an argument that the United States has never finished having. None of that holds without the central performance. Take Washington out and you have a handsome chronicle of events; leave him in and you have a continuous interior life, a sense that the person you met running numbers in a Boston nightclub is genuinely, traceably the same person who will stand at a Harlem podium and then kneel on a stone floor in Mecca. The through-line is the achievement, and it is built choice by nameable choice.
 

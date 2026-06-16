@@ -6,17 +6,17 @@ date: 2018-11-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Thelma & Louise", "Ridley Scott", "Road Movie", "Film History", "World Cinema", "Film Analysis"]
 excerpt: "Thelma & Louise hands the road movie to two women and finds freedom with no room to land, a feminist landmark whose famous ending sparked a national debate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-11-15
+lang: en
 ---
-
 By the summer of 1991 American popular culture had spent a decade quietly walking back the gains of the women's movement, and most of Hollywood was content to let it. Then two friends climbed into a green 1966 Thunderbird, shot a man in a parking lot, and refused to come home, and the argument that followed told the country more about itself than the picture ever set out to. Thelma & Louise, written by Callie Khouri and directed by Ridley Scott, did not invent a debate; it forced one that had been waiting under the surface into the open, and it did so by taking the most American of escape stories, the road movie, and handing the wheel to women who had never been allowed to drive it.
 
 That is the historical pressure this picture registers, and it is the reason it became a cultural document rather than a hit that faded. The film arrived at a moment when the question of how much room a society leaves women to live freely was being argued in magazines, on talk radio, and in Senate hearing rooms, and it gave that abstract argument two faces, a car, and a destination. The story works as drama, but it also works as a reading of its own moment, which is why it belongs in any serious account of how cinema absorbs the politics around it.
 
-![Thelma & Louise feminist road movie analysis](/assets/images/blog/blog-01.webp)
+![Thelma & Louise feminist road movie analysis](/assets/images/blog/blog-51.webp)
 
 ## The pressure the film registers
 
