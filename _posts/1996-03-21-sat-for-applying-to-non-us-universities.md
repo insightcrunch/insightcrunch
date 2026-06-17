@@ -8,7 +8,7 @@ excerpt: "SAT for non-US universities: where the SAT is accepted across the UK, 
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "patrick-dunn"
-last_updated: 1996-03-21
+last_updated: 2026-06-17
 lang: en
 ---
 A student in Singapore writes me every spring with a version of the same worry: she has a strong SAT composite, the kind that would put her in the conversation at a competitive American campus, and she cannot understand why an Imperial College London course has not offered her a place while a friend with a lower score and the right A-Level subjects walked in. The score did not fail her. Her reading of what the SAT does abroad failed her. She assumed it works the way it works in the United States, as one factor in a long, narrative-driven file that an admissions committee weighs against essays, recommendations, and the shape of a life. Outside the US, that assumption is usually wrong. The SAT for non-US universities behaves far more often as a gate than as a story: a number you either clear or do not, after which the subject-specific requirements decide everything.

@@ -9,7 +9,7 @@ excerpt: "SAT guide for Canadian students: who benefits, testing access, how Can
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1996-04-12
+last_updated: 2026-06-17
 lang: en
 ---
 A Grade 11 student in Mississauga emails her counselor in a panic because a friend told her that every serious university applicant writes the SAT, and she has not registered. She is applying to McMaster, Western, and Queen's, with one reach south of the border at the University of Michigan. The honest answer her counselor gives saves her four months of preparation she does not need: for the three Ontario schools on her list, the College Board exam earns her nothing, because those programs admit on her Grade 12 marks. For Michigan, the picture is different, and there the test can matter. The mistake she nearly made is the single most expensive misconception a student north of the border carries into the admissions cycle, and it costs the people who fall for it whole semesters of misdirected effort.

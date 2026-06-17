@@ -9,7 +9,7 @@ excerpt: "SAT retake after a low score: processing the disappointment, diagnosin
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 1996-03-12
+last_updated: 2026-06-17
 lang: en
 ---
 You opened the score report and the number was lower than anything you practiced into. Maybe it was a 1080 when your last full-length sat at 1240. Maybe it was a 1290 when you needed the 1400 your reach school quietly expects. The first instinct, the one almost every test-taker has within the hour, is to find the next available date, register, and resolve to study harder. That instinct is the single most expensive mistake a student makes after a disappointing result, because studying harder in the same direction that produced the low number is the most reliable way to produce a second low number. A reset is not more effort. A reset is a different direction, chosen on purpose, after you understand what actually went wrong.

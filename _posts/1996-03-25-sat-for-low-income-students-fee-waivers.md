@@ -9,7 +9,7 @@ excerpt: "SAT for low-income students: fee waivers, free prep platforms, and col
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1996-03-25
+last_updated: 2026-06-17
 lang: en
 ---
 A junior at a public high school once told a counselor she had decided not to register for the SAT. The reason was not grades, not ambition, and not the work involved. The reason was money. She had heard that the families who score well pay for tutoring at a hundred dollars an hour, that the good prep books cost more than her family spent on groceries in a week, and that the registration fee alone was real money in a household that counted every dollar. She had quietly concluded that the exam, and the colleges behind it, were built for other people. She was wrong on every count, and the cost of being wrong was a path she had talked herself out of before it began.

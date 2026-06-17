@@ -9,7 +9,7 @@ excerpt: "SAT for students with ADHD: applying for accommodations, focused-study
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1996-04-08
+last_updated: 2026-06-17
 lang: en
 ---
 A student with attention differences can sit for the digital SAT, work through a module with the timer running, and watch a question that they fully understand slip away because their focus drifted for ninety seconds at the wrong moment. That is not a knowledge gap. It is a focus-delivery gap, and it is the single most fixable thing standing between many attention-challenged test-takers and the score their ability already deserves. The exam does not measure how long you can hold still. It measures whether you can read carefully, reason cleanly, and finish what you start, and every one of those can be supported, scaffolded, and rehearsed.

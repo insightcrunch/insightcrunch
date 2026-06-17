@@ -8,7 +8,7 @@ excerpt: "SAT guide for Japanese students: test centers in Japan, how the SAT co
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 59
 author: "christopher-wells"
-last_updated: 1996-05-09
+last_updated: 2026-06-17
 lang: en
 ---
 A student in Tokyo who has spent two years drilling integrals and probability for the university entrance season will often walk into the SAT expecting the math to be the hard part, and walk out having lost the points that mattered somewhere else entirely. That reversal is the single most useful thing a Japanese applicant can understand before building a study plan. The quantitative half of the American admissions exam will feel, to a student trained inside Japan's rigorous secondary mathematics tradition, noticeably gentler than the second-stage problems set by a national university. The verbal half is the opposite story. It asks a reader to move quickly through dense English passages, judge the rhetorical function of a sentence, repair a grammatical construction, and weigh evidence, all at native reading speed and all in a second language. For a Japanese candidate, that is where the contest is decided.

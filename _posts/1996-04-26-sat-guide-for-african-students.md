@@ -9,7 +9,7 @@ excerpt: "SAT guide for African students: test access in major cities, fee waive
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1996-04-26
+last_updated: 2026-06-17
 lang: en
 ---
 A student in Lagos who scores 1480 and a student in Boston who scores 1480 hold the same number on paper, but they did not run the same race to get there. The Boston student booked a seat at a school down the road, sat a digital exam in a familiar building, and paid a fee that cost an afternoon of part-time work. The Lagos student traveled across the city to one of a handful of authorized centers, registered months ahead because seats fill, paid a fee in dollars that landed very differently against a naira income, and did all of it while preparing in a system that never mentioned this exam until they chose to chase it. That gap is not about ability. It is about access, cost, and information, and every one of those three is a solvable problem once you can see the whole path at once.

@@ -9,7 +9,7 @@ excerpt: "SAT for student athletes: choosing test dates by sport season, in-seas
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 60
 author: "patrick-dunn"
-last_updated: 1996-03-30
+last_updated: 2026-06-17
 lang: en
 ---
 The single worst test date for a fall-sport athlete is the one that lands in the third week of October, in the heart of the playoff push, when practices run long, film sessions eat the evenings, and a Saturday morning is the one block of recovery the body is begging for. Plenty of athletes book that date anyway, walk in flat, and post a number that does not reflect what they could do. The SAT for student athletes is not a harder exam than it is for anyone else. It is the same adaptive, learnable, pattern-bound assessment that every other test-taker faces. The difference is the calendar. A competitor who plays a sport carries two demanding schedules at once, the practice and competition calendar and the testing and recruiting calendar, and the whole game is getting those two calendars to stop fighting each other.

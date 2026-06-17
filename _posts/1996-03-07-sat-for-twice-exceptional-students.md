@@ -9,7 +9,7 @@ excerpt: "SAT for twice-exceptional students: handling uneven profiles, the acco
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 1996-03-07
+last_updated: 2026-06-17
 lang: en
 ---
 There is a particular kind of practice-test report that breaks a smart kid's confidence: a Math section near the ceiling sitting next to a Reading and Writing section that lands two hundred points lower, or the reverse, a verbal mind that reads at a college level dragging behind a Math number that does not match the rest of the brain at all. The teenager who produces that report is often the one teachers have called gifted since third grade, and the gap between what the page says and what everyone expected feels less like a data point and more like a verdict. This guide is for the twice-exceptional learner who lives inside that gap, and for the parents and counselors trying to help. The promise here is concrete: a way to read an uneven profile without shame, a clear walk through the accommodations process, and a strengths-first plan that lets exceptional ability finally show through on a digital, adaptive assessment that, handled correctly, suits this kind of mind better than the paper test ever did.

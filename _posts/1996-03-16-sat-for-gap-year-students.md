@@ -9,7 +9,7 @@ excerpt: "SAT for gap year students: how long scores stay valid, keeping skills 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 59
 author: "simon-hartley"
-last_updated: 1996-03-16
+last_updated: 2026-06-17
 lang: en
 ---
 A student emails in late August, weeks before a gap year begins: the acceptance is deferred for a year, the plane ticket is booked, and a panicked thought has surfaced. Will the SAT result earned last spring still count when applications go out fourteen months from now? The fear behind that question costs real money and real time, because students who believe a strong result evaporates the moment they step off the academic treadmill sign up for a needless retake, lose a chunk of their gap year to prep they did not require, and arrive at the new test date rusty and anxious instead of relaxed and ready. The good news, and the spine of this entire guide, is that an SAT result earned in high school does not vanish because a year off follows it. For a gap year student, the testing question is rarely whether the old number expired. It is whether the old number is high enough, whether a year away from coursework will dull the skills enough to matter, and whether a deliberate retake would buy a better outcome than simply submitting what already exists.

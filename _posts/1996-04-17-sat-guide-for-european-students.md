@@ -9,7 +9,7 @@ excerpt: "SAT guide for European students: when the SAT adds value beside A-Leve
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "lukas-weber"
-last_updated: 1996-04-17
+last_updated: 2026-06-17
 lang: en
 ---
 A student in Munich with a projected Abitur of 1.3 emails an American admissions office and gets a one-line reply: your secondary record is strong, and a test result is optional but considered. That single sentence is where most European applicants lose the thread. Optional does not mean irrelevant, and considered does not mean decisive. The real question is narrower and far more useful: given the credential you already hold and the exact list of universities you are targeting, does adding the SAT move your file forward, leave it unchanged, or simply cost you a Saturday you could have spent on your written work. This guide answers that question for European applicants, and it answers it as a decision rather than a slogan.
