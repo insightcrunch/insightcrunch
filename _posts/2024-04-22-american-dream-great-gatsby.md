@@ -7,12 +7,14 @@ last_updated: 2024-04-22
 excerpt: "The American Dream in The Great Gatsby is engine and lie at once: a defended reading of how the promise lifts Gatsby and ruins him in the same gesture."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "amanda-ross"
 reading_time: 47
 tags: ["The Great Gatsby", "The American Dream", "Themes", "Close Reading", "American Literature"]
+lang: en
 ---
-
 The American Dream in The Great Gatsby is not a backdrop to the story but its central argument, and the argument is double. Fitzgerald presents the national promise as the very force that lifts Jay Gatsby out of obscurity and remakes him into a figure of dazzling possibility, and in the same motion he presents that promise as the illusion that ruins him. The novel neither salutes the American Dream nor simply tears it down. It holds both truths at once and refuses to let go of either, so that the book becomes a sustained meditation on a beautiful, ruinous contradiction. A reader who finishes the last page should leave not with a tidy definition but with a thesis: that the Dream is at once the engine of Gatsby's greatness and the lie at the heart of his fall.
+
+![The American Dream in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 This article makes that thesis its spine. Rather than cataloguing what the American Dream "means" in the abstract, it traces how the theme actually works across the chapters, which scenes carry it, which characters embody and betray it, and which passages crystallize Fitzgerald's verdict. It treats the corruption of the Dream and the question of whether the novel is finally a critique or an elegy as facets of this larger whole. Those debates branch from here. The aim throughout is the series standard of argument over assertion, a defended reading rather than a glossary entry, so that the next time a student or essay writer has to say what the book claims about America's founding promise, they can say it with a position to defend.
 ## The American Dream in The Great Gatsby: What the Theme Means

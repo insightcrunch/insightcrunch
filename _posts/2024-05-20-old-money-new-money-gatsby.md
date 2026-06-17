@@ -6,15 +6,15 @@ date: 2024-05-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Old Money vs New Money", "Themes", "Wealth and Class", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Old money vs new money in The Great Gatsby explained: why Gatsby's earned fortune buys spectacle but never the belonging old money guards behind its line."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-05-20
+lang: en
 ---
-
 The sharpest wound in Fitzgerald's novel is not poverty. It is the discovery that a man can own a mansion, throw the loudest parties on the shore, and still be turned away at the one door he wants opened. That is the engine behind old money vs new money in great gatsby: the book argues that wealth and belonging are two different currencies, and that the second cannot be bought with the first. Jay Gatsby earns a fortune large enough to rival anyone in the established families across the bay, yet he never crosses into their world. The gap that defeats him is not the size of his bank account. It is the line between money that was inherited and money that was made, a line the novel treats as one of its most serious and unforgiving boundaries.
 
-![Old money mansions across the bay from new money West Egg in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Old money mansions across the bay from new money West Egg in The Great Gatsby](/assets/images/blog/blog-60.webp)
 
 Read this way, the divide stops being decoration and becomes a thesis. Among the great gatsby themes, the contest between inherited gentility and earned fortune is the one that most clearly exposes how the novel's social world actually works: who gets accepted, who gets used, and who gets discarded when the careless rich decide they have had enough. This analysis walks the theme from its first appearance through the chapters that develop it, names the characters and settings that carry it, reads the passages where it crystallizes, answers the charge that the whole thing is mere snobbery, and shows how to turn the divide into an essay thesis you can defend.
 

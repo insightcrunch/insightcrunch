@@ -6,15 +6,15 @@ date: 2019-04-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Fargo", "Coen Brothers", "Crime Film", "Film Analysis", "Directors", "World Cinema"]
 excerpt: "Fargo turns a botched kidnapping in snowbound Minnesota into a crime film anchored by plain decency, the tonal signature that defines the Coen Brothers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2019-04-15
+lang: en
 ---
-
 By the middle of the 1990s the American crime picture had hardened into a set of reliable poses. The genre knew how to be cool, how to be brutal, and how to be slick, and it had learned to wear violence as a kind of glamour. What it had mostly forgotten was how to be decent. Fargo arrived in March 1996 and quietly rebuilt the crime film around an idea the form had stopped trusting: that an ordinary good person, doing an ordinary job with patience and care, could be the most compelling figure on the screen, more interesting than any killer. Joel and Ethan Coen took a sordid little kidnapping scheme, set it in the frozen flatness of Minnesota, surrounded it with a regional politeness so exact it sounds invented, and anchored the whole bloody mess in the plain goodness of a pregnant police chief. The result reshaped what a crime story could sound like.
 
-![Fargo film analysis](/assets/images/blog/blog-01.webp)
+![Fargo film analysis](/assets/images/blog/blog-95.webp)
 
 That reshaping is the subject of this article. The claim it defends is simple to state and difficult to imitate: Fargo surrounds bungling greed with deadpan regional comedy and anchors it in plain goodness, and that arrangement, decency placed at the center of the dark, is the tonal signature that defines the Coen Brothers. Plenty of films before this one mixed murder with laughter. Almost none of them had managed to make the laughter and the horror coexist without either one canceling the other, and almost none had dared to make the moral weight of the story rest on a character whose chief virtues are kindness, competence, and an unglamorous appetite for breakfast. To understand why that combination mattered to the genre, and why it has proved so hard for other filmmakers to copy, you have to look at the state of the crime film before the Coens got to it, at the precise moves they made, and at how their voice sits against crime cinema from the rest of the world.
 

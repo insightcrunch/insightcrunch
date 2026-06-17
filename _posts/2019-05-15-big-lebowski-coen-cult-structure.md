@@ -6,15 +6,15 @@ date: 2019-05-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Big Lebowski", "Coen Brothers", "Neo-Noir", "Screenwriting", "Film Analysis", "World Cinema"]
 excerpt: "The Big Lebowski hangs a shaggy noir plot on digression and bowling, an anti-plot whose deliberate looseness turned a quiet 1998 flop into a lasting cult."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2019-05-15
+lang: en
 ---
-
 The Big Lebowski opens with a tumbleweed, not a corpse. Most detective stories begin with a body, a theft, or a threat that starts a clock ticking. The Coen brothers begin their 1998 neo-noir comedy with a tumbleweed rolling out of the desert and into Los Angeles while a drawling narrator loses his own train of thought before he can tell you what the picture is about. That opening is the entire design in miniature. The film takes the convoluted machinery of the classic private-eye story and hollows it out, swapping forward momentum for digression, the urgent case for a soiled rug, and the driven investigator for a man who would rather be bowling.
 
-![The Big Lebowski anti-plot structure analysis](/assets/images/blog/blog-01.webp)
+![The Big Lebowski anti-plot structure analysis](/assets/images/blog/blog-03.webp)
 
 This is the structural move that makes the script work, and it is also the move that made the picture flop in theaters and then grow, slowly and then enormously, into one of the most quoted and most studied comedies in American cinema. The argument of this analysis is simple and, once you see it, hard to unsee. Joel and Ethan Coen built a deliberate parody of the convoluted detective plot, a shaggy-dog architecture in which the mystery is beside the point and the pleasure lives entirely in the detours. The loose, quotable looseness is not a failure of construction. It is the construction. Calling it the central claim of this piece: plot as the joke. The Big Lebowski tells a kidnapping story whose solution nobody in the story actually wants, and that refusal is the engine of both its comedy and its cult.
 

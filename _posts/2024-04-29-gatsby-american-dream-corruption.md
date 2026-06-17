@@ -6,15 +6,15 @@ date: 2024-04-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "Themes", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "The corruption of the American Dream in The Great Gatsby rots the means, not the wish: Gatsby's hope stays pure while money, crime, and waste defile it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-04-29
+lang: en
 ---
-
 The Great Gatsby does not argue that the American Dream is a lie. It argues something more unsettling: that the corruption of the American Dream begins the moment a pure hope is forced through an impure machine. Jay Gatsby wants one clean thing, the chance to remake himself and win back a life he believes was stolen from him. To get it, he has to become a bootlegger, buy a mansion he cannot fill with real company, and throw his name into a social world that will use him and discard him. The hope stays beautiful. The means rot. That gap, between the shining wish and the soiled methods the wish demands, is where Fitzgerald locates the novel's deepest theme.
 
-![The corruption of the American Dream in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The corruption of the American Dream in The Great Gatsby](/assets/images/blog/blog-15.webp)
 
 Read this way, the corruption is not a flaw in Gatsby's character. It is a property of the Dream itself in the world the novel describes. A reader who blames Gatsby for cutting corners has stopped one level too early. The harder, truer reading asks why the corners had to be cut at all, why a country that promises everyone a fresh start has built a machinery of arrival that runs on money, exclusion, and crime. This article traces that decay as a mechanism rather than a mood. It follows the slide from honest aspiration to materialism to criminal means to human waste, names the passages where each stage shows itself, and defends a single claim: in Fitzgerald's America, the Dream rots from the means up.
 ## What the corruption of the American Dream means in the novel

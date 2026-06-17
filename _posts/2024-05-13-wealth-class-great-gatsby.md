@@ -6,15 +6,15 @@ date: 2024-05-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Wealth and Class", "Themes", "Class System", "Old Money", "American Dream", "Literary Analysis"]
 excerpt: "Wealth and class in The Great Gatsby decide who survives the novel, sorting every character by inherited rank into a fate the story will not let them escape."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2024-05-13
+lang: en
 ---
-
 Wealth and class in The Great Gatsby are not background scenery against which a love story plays out; they are the machinery that decides which characters live, which die, and which walk away unscathed. Fitzgerald wrote a novel that looks like a romance and works like a sorting engine. Money enters every room before the people do, and by the final page it has quietly assigned each of them a fate that matches their bank balance and their breeding. The book's deepest claim is not that the rich are cruel, though some of them are. It is that money is destiny, and that the American promise of self-invention shatters against a class line the characters can see but never cross.
 
-![Wealth and class in The Great Gatsby explained, the East Egg and West Egg divide and the valley of ashes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Wealth and class in The Great Gatsby explained, the East Egg and West Egg divide and the valley of ashes - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 Read the last chapter and the arithmetic becomes plain. Gatsby, who earned his fortune, is shot in his own pool and buried almost alone. Myrtle, who reached toward a higher rung, is run down on the road. Wilson, who had no rung to stand on at all, dies in the ashes where he lived. Meanwhile Tom and Daisy, who were born rich and stayed rich, pack their bags and disappear into a tidy domestic future, leaving the bodies behind. Nick gives the verdict in the language of carelessness, but carelessness is only the surface of it. What protects Tom and Daisy is not luck or temperament. It is the inherited security of a class that the novel treats as a fortress the others can press against but never breach.
 

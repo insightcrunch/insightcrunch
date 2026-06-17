@@ -6,14 +6,15 @@ date: 2019-06-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Forrest Gump", "Tom Hanks", "Robert Zemeckis", "Performances", "Film Analysis", "World Cinema"]
 excerpt: "Forrest Gump works because Tom Hanks plays the everyman with complete sincerity, never winking, the anchor that holds the film's leap through history together."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-06-01
+lang: en
 ---
 A man sits on a bench at a bus stop in Savannah, a box of chocolates on his lap, and tells his life story to whoever happens to sit beside him. His name is Forrest Gump, and he knows he is not clever. Yet over the next two hours, this guileless southerner walks straight through forty years of American upheaval, shaking hands with three presidents, teaching Elvis to dance, fighting in Vietnam, founding a shrimp company, and running back and forth across the continent for no reason he can name. The whole improbable construction holds together for one reason, and that reason is Tom Hanks. *Forrest Gump*, directed by Robert Zemeckis and released in 1994, asks its lead to play a character who could collapse into mockery, sap, or freak show at any moment, and Hanks refuses every one of those exits. He plays the man straight. He never winks. That decision, sustained shot by shot across the entire picture, is the performance, and it is the subject of this analysis.
 
-![Forrest Gump](/assets/images/blog/blog-01.webp)
+![Forrest Gump](/assets/images/blog/blog-98.webp)
 
 The difficulty here is easy to underestimate, which is exactly why so many viewers assume the role was simple. A casual look at *Forrest Gump* might conclude that Hanks is doing very little: he speaks slowly, keeps his face open, holds his posture stiff, and lets the script's parade of historical cameos do the heavy lifting. But the restraint is the craft. An actor reaching for sympathy would have softened the eyes at every emotional beat, leaned into the southern drawl for laughs, or signaled to the audience that he, the performer, understood the joke even if the character did not. Hanks does none of this. He plays a man with no irony from inside a film drenched in it, and that gap between the sincerity of the performance and the cleverness of the movie around it is the engine that makes the whole thing run. This article reads that engine closely, names the specific choices Hanks makes at each stage of the character's life, examines how those choices let the film stitch its hero into real archival footage, takes the charge of sentimentality and passivity seriously rather than waving it away, and then sets the picture against the epic life-story films that other national cinemas were making in the same years, including one released the very same season half a world away.
 

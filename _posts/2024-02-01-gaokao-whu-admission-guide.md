@@ -6,14 +6,14 @@ date: 2024-02-01
 categories: ["Industry"]
 tags: ["高考", "武汉大学", "录取分数线", "强基计划", "Wuhan University", "985"]
 excerpt: "武汉大学高考录取完全指南:系统解析武大各省录取分数线与位次规律,深入剖析测绘、水利、信息管理、法学四大全国顶尖学科,详解统招、强基计划、综合评价与自强计划等多元招生通道,横向对比武大与华中科技大学、南京大学、中国人民大学等同档名校的差异,并给出实用的位次定位与志愿填报梯度策略,助你做出清醒而从容的报考决策。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 53
-author: "Insight Crunch Team"
+author: "wu-chengan"
+lang: zh
 ---
-
 每年樱花盛开的时节,珞珈山下总会涌入成千上万的游人,他们举着相机,在粉色花海与古朴建筑之间寻找最美的取景角度。武汉大学因此被许多人记住,记住的是它的浪漫与风景。然而对于正在准备志愿填报的高三学子和家长来说,把一所顶尖学府仅仅理解为"最美校园",其实是一种相当昂贵的误读。这所学校真正值得你认真对待的,是它在测绘、水利、信息管理、法学等多个领域稳居全国前列的硬核实力,以及它作为综合性研究型高校所提供的广阔成长空间。樱花是加分项,而不是全部。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-85.webp)
 *珞珈山下的武汉大学:风景之外,更有四大传统学科撑起的学术分量*
 
 这篇文章会带你完整走一遍报考武汉大学需要了解的方方面面:它的历史定位、各省录取位次的大致规律、院系版图与王牌专业、强基计划与综合评价等多元入口、本科培养的特色、保研出国就业的真实去向,以及和华中科技大学、南京大学、中国人民大学等同档名校的横向比较。读完之后,你应该能清楚判断:自己究竟适不适合珞珈山,以及用什么样的策略去争取它。

@@ -6,14 +6,15 @@ date: 2024-06-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Love and Desire", "Themes", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Love and desire in The Great Gatsby rarely mean love at all. A close reading of every relationship reveals projection, appetite, and cold possession instead."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-06-03
+lang: en
 ---
 The Great Gatsby is read at school as a romance and remembered as one, and that is the first mistake. Look closely at love and desire in Great Gatsby and the warmth drains out of the picture almost at once. The novel is crowded with longing, with people reaching for other people, but the reaching almost never lands on a real person. It lands on an image, an appetite, a piece of status, a convenience. The book everyone calls a love story turns out to be a study of wanting, and of how easily a culture trained to want confuses that hunger with love. That confusion is the quiet subject of the whole novel.
 
-![Love and desire in The Great Gatsby analyzed across every relationship - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Love and desire in The Great Gatsby analyzed across every relationship - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This is the pillar analysis of the theme, the hub the more focused articles branch from. The claim it defends is blunt and worth stating up front: no relationship in the novel depicts settled, mutual, equal love, and most of the wanting on the page is bound up with money or status rather than with another human being. A novel of desire without love is not a contradiction once you accept that Fitzgerald spends nine chapters keeping the two apart on purpose. Gatsby projects onto Daisy. Tom and Daisy endure without warmth. Tom and Myrtle run on appetite. Nick and Jordan drift on tepid curiosity. The few moments that look like love are either memory, performance, or possession wearing love's clothes.
 

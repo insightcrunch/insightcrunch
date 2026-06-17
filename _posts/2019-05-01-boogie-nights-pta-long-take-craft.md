@@ -6,17 +6,17 @@ date: 2019-05-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Boogie Nights", "Paul Thomas Anderson", "Cinematography", "Directors", "World Cinema", "Film Analysis"]
 excerpt: "Boogie Nights turns a found family in the porn trade into a saga through gliding Steadicam and ensemble craft, set against long-take cinema worldwide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-05-01
+lang: en
 ---
-
 Watch the first three minutes of Boogie Nights and you already know you are in the hands of a filmmaker who has decided that the camera will be a character. A marquee glows over a San Fernando Valley boulevard, the title card flashes, and then the lens drops down to street level and begins to move. It crosses a parking lot, slips through the doors of a nightclub called Hot Traxx, and threads its way across a crowded floor, picking up one person after another, pausing on a face long enough to make an introduction before sliding on to the next. By the time the shot finally settles, the film has handed you a porn director, his leading lady, a roller-skating ingenue, a busboy with a body, and a half-dozen hangers-on, all of them moving through the same room as if they have known each other for years. The craft is not decoration. It is the argument. Paul Thomas Anderson built the picture around a gliding camera and an orchestrated ensemble so that a debauched subculture would feel, by the end, like a family.
 
 This is a craft and technique deep-dive, which means the question is not whether Boogie Nights is good but how it works at the level of shots, cuts, and sound, and why a young writer-director chose the moving long take as his signature. The film follows Eddie Adams, a teenage dishwasher with one remarkable physical gift, as he is discovered, renamed Dirk Diggler, and lifted to stardom across the turn from the late 1970s to the early 1980s, then dropped back down when the industry, the drugs, and the decade turn against him. The arc is a rise and a fall. The method that carries it is a camera that never wants to stop moving and a cast deployed like an orchestra, and the two together are what announced one of American cinema's major directors.
 
-![How Boogie Nights uses long Steadicam takes and ensemble craft, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Boogie Nights uses long Steadicam takes and ensemble craft, an analysis - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 ## The shot that announces a filmmaker
 
