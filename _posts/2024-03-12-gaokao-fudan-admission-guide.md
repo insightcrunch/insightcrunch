@@ -6,14 +6,14 @@ date: 2024-03-12
 categories: ["Industry"]
 tags: ["高考", "复旦大学", "录取分数线", "强基计划", "Fudan", "C9 League"]
 excerpt: "复旦大学高考录取完全解析:系统梳理各省录取位次规律与分数门槛、新闻传播经济管理生命科学医学等优势学科、统招强基计划与上海综合评价等多元招生通道、上海地理与国际化优势、保研出国与就业去向,并针对不同省份不同学生群体与不同分数段的考生给出实用而具体的报考与志愿填报策略,助你科学规划冲击这所沪上顶尖名校。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "ma-ruoxi"
+lang: zh
 ---
-
 在中国顶尖高校的版图上，复旦大学始终占据着一个特殊的位置。它既不是工科见长的理工强校，也不是单纯的文理学府，而是一所学科气质鲜明、人文底蕴深厚、又坐拥中国最大经济中心地理优势的综合性研究型名校。对许多东部地区的考生，尤其是对上海与长三角抱有向往的学子来说，这所百年学府常常排在清华、北大之后，成为他们心目中真正意义上的第三选择，甚至是第一志愿。本文将带你系统了解这所沪上名校的高考录取规律、优势学科、招生通道、校园文化以及毕业去向，帮助有志报考的同学在备考与志愿规划上做到心中有数。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-22.webp)
 *复旦大学高考录取深度解析：分数线、优势专业、招生通道与上海地理优势全览*
 
 如果你正在为冲击顶尖学府制定整体策略，建议先阅读我们的[高考完全指南](/2026/03/18/gaokao-complete-guide/)，再结合本篇做针对性规划。

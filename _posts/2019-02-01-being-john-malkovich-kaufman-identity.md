@@ -6,15 +6,15 @@ date: 2019-02-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Being John Malkovich", "Spike Jonze", "Surrealism", "Film Analysis", "World Cinema"]
 excerpt: "Being John Malkovich turns a portal into the actor's mind into a searching study of identity, desire, control, and the surreal world cinema that shaped it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-02-01
+lang: en
 ---
-
 A puppeteer crawls through a small wooden door behind a filing cabinet and, for fifteen minutes, looks out at the world through another man's eyes. Then the floor of that experience drops away and he lands in a ditch beside the New Jersey Turnpike. That is the engine of Being John Malkovich (1999), Spike Jonze's feature debut from a screenplay by Charlie Kaufman, and the strange thing about it is how quickly the joke turns into a question. The premise is built for a laugh: a portal into the head of a working actor, John Malkovich, sold to paying customers at two hundred dollars a trip. Yet under the gag sits one of the most patient inquiries any American comedy has made into what a person actually is. The film asks whether the self is something you own or something you borrow, and it refuses to let the reader off with an easy answer.
 
-![Being John Malkovich analysis](/assets/images/blog/blog-01.webp)
+![Being John Malkovich analysis](/assets/images/blog/blog-106.webp)
 
 The reading offered here is simple to state and harder to exhaust. Being John Malkovich uses a literal portal into another mind to ask whether identity is fixed or stolen, and it answers by showing every character treating a borrowed self as more livable than the one they were given. The self, in this account, is a borrowed room. People move into Malkovich the way a tenant moves into an apartment, rearrange the furniture, and discover that the lease has terms nobody read. Craig Schwartz wants the room so he can perform inside it. Lotte wants the room because it lets her feel like the man she suspects she was meant to be. Maxine wants whoever is in the room at the moment she is aroused. Lester wants the room because his own is condemned and he needs somewhere to live past his expiration. The premise that sounds like a sketch is actually a controlled experiment in desire, and the variables are the people pushing through the door.
 

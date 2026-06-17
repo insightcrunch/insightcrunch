@@ -6,15 +6,15 @@ date: 2019-01-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Scream", "Wes Craven", "Slasher", "Horror", "Film History", "World Cinema"]
 excerpt: "Scream revived the dying slasher by letting its teens name horror's own rules, scaring and winking at once, the meta turn that reshaped 1990s horror cinema."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2019-01-01
+lang: en
 ---
-
 The clearest line of influence Scream set running is also the strangest: a horror film that talks about horror films, out loud, while the bodies fall. When Wes Craven's Scream opened in December 1996, the slasher was a corpse the industry had stopped bothering to bury. Five years later, thanks almost entirely to the door this film kicked open, the multiplex was crowded with knowing teenagers being stalked by knowing killers, and the conversation about what a scary movie was for had moved from film-studies seminars into the multiplex itself. Scream did not merely revive a genre. It changed the terms on which the genre could exist, by proving that a film could name its own rules, obey some, break others, and stay genuinely frightening through all of it.
 
-![How Scream revived and reshaped the slasher film through meta horror, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Scream revived and reshaped the slasher film through meta horror, an analysis - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 That is the achievement worth tracing, because it is the one that traveled. Plenty of films are admired and copied for a single image or a single scare. Scream was copied for a whole way of thinking. Its central move, putting characters inside a horror film who have seen horror films and discuss the conventions they are trapped within, became a template that the next decade of American horror could not stop reaching for, that parody quickly turned into an industry of its own, and that, two decades on, mutated into a self-aware mode so dominant it became the new convention to break. To understand why Scream matters, you have to understand both how dead the slasher was when it arrived and how completely the meta turn it executed reorganized everything that followed.
 

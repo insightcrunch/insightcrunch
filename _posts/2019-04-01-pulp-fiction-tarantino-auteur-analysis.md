@@ -6,15 +6,15 @@ date: 2019-04-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Pulp Fiction", "Quentin Tarantino", "Crime Cinema", "Directors", "World Cinema", "Film Analysis"]
 excerpt: "Pulp Fiction reveals Tarantino as an auteur who recombines world genre cinema into a nonlinear, pop-soaked pulp template that became wholly and singularly his."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-04-01
+lang: en
 ---
-
 The problem a young director faces when he wants to be recognized as an author is that authorship is usually proven across a body of work, slowly, over decades, in the accumulation of a recognizable set of obsessions. Quentin Tarantino solved that problem in a single picture. Pulp Fiction arrived in 1994 as only his second feature, and it announced a complete, sealed, instantly legible authorial signature so distinct that the adjective "Tarantino-esque" entered the language almost overnight. The achievement was not that the picture was violent or talky or cool, though it was all of those. The achievement was that every choice in it, the shuffled chronology, the digressive talk, the eruptions of brutality inside comic banter, the surf-rock wash, the unexplained briefcase, pointed back to one governing sensibility, and that sensibility could be named and studied. This article reads Pulp Fiction as the clearest available statement of what Tarantino does as a director, and then places that statement against the world cinema he absorbed to build it.
 
-![Pulp Fiction Tarantino auteur analysis](/assets/images/blog/blog-01.webp)
+![Pulp Fiction Tarantino auteur analysis](/assets/images/blog/blog-46.webp)
 
 The reading offered here rests on a single claim, which the rest of the article defends: Tarantino's originality is a synthesis. He is a magpie who pulled from French art cinema, Hong Kong crime pictures, American pulp paperbacks, blaxploitation, the spaghetti western, television reruns, and the back catalog of a video store, and recombined all of it into a nonlinear, pop-saturated American pulp so personal that it stopped reading as borrowing and started reading as a style. Call it pastiche made personal. The picture is new precisely because it remembers everything, and the contradiction in that sentence is the whole argument.
 

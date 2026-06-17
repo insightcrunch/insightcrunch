@@ -6,14 +6,14 @@ date: 2024-03-20
 categories: ["Industry"]
 tags: ["高考", "北京大学", "录取分数线", "强基计划", "Peking University", "C9 League"]
 excerpt: "北京大学高考录取完全指南:解析各省录取分数线与位次要求,深入对比北大与清华的选择逻辑,详解元培学院、光华管理学院与北大医学部等王牌院系,梳理强基计划、综合评价与提前批等多元招生通道,并涵盖通识培养特色、保研出国、毕业去向与平行志愿填报策略,助每一位向往燕园的考生把梦想转化为清晰可执行的报考与备考规划。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "liu-jian"
+lang: zh
 ---
-
 北京大学是无数高考考生心中的终极目标之一。作为中国第一所国立综合性高等学府,它承载着百年学术传统,也代表着当代基础研究与人文社科的最高水准。然而,"考北大要多少分""元培学院和光华管理学院到底是什么""北大医学部值不值得报""北大和清华到底怎么选",这些问题困扰着每一届向往燕园的学子。本文从录取位次、学院实力、招生通道、培养特色到毕业去向,系统拆解这所顶尖学府的报考逻辑,帮助你把"想去北大"的愿望,变成一份可执行的备考与志愿规划。对于想要进一步了解整体升学框架的读者,可以先浏览[高考完全指南](/2026/03/18/gaokao-complete-guide/)建立全局认知。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-73.webp)
 *燕园未名湖畔:无数考生心向往之的顶尖学府*
 
 ## 北京大学的定位与精神底色

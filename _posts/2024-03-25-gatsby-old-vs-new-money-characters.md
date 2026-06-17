@@ -6,15 +6,15 @@ date: 2024-03-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Old Money vs New Money", "Character Analysis", "Wealth and Class", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The old money vs new money characters in The Great Gatsby split the cast by born versus made wealth, and the class line decides who survives and who dies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2024-03-25
+lang: en
 ---
-
 Readers of The Great Gatsby tend to flatten the novel's social world into a single word: rich. Everyone with a mansion, a motorcar, and a closet full of silk shirts gets sorted into one undifferentiated pile of privilege, and the book's most precise argument disappears into that blur. The study of old money vs new money characters corrects that blur. Fitzgerald does not write one wealthy class; he writes two, and the line between them is the sharpest social boundary in the book. On one side stand the families whose fortunes arrived before they did, the inheritors who never had to earn a dollar and never let you forget it. On the other stand the strivers who made their fortunes in a single furious decade and discovered that a bank balance buys a house but not a welcome. Sort the cast along that one axis and the whole machinery of the plot snaps into focus.
 
-![Old money versus new money characters in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Old money versus new money characters in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 This is a character study built on a single social division, and the division does real work. It explains why Tom Buchanan can humiliate a man who could buy and sell him, why Daisy retreats from the only person who ever organized his life around her, why Jay Gatsby throws parties for hundreds and dies attended by almost no one. The contest between inherited wealth and earned wealth is not background scenery in this book. It is the engine that grinds the dreamer down. To read the cast through that axis is to see class not as a static label pinned to each figure but as a live force that sorts them, judges them, and decides which of them survive. Where a thematic treatment of the idea belongs to the article on [old money and new money as a theme](/2024/05/20/old-money-new-money-gatsby/), this study owns the mapping itself: who stands where, what each position grants or denies, and why the placement matters more than the size of any character's fortune.
 ## The Two Fortunes the Novel Refuses to Treat as One

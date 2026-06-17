@@ -6,14 +6,14 @@ date: 2024-03-04
 categories: ["Industry"]
 tags: ["高考", "上海交通大学", "录取分数线", "致远学院", "SJTU", "C9 League"]
 excerpt: "上海交通大学高考录取完全解析:从全省位次门槛到机械动力、电子信息、船舶海洋等王牌工科,从致远学院拔尖培养到上海交大医学院八年制临床,从安泰经管、密西根学院到强基计划、综合评价与大类招生分流,再到灵活转专业、保研出国比例、校友职业路径以及上交与复旦的同城取舍之道,这是一份写给广大考生和家长的权威报考指南。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "huang-dawei"
+lang: zh
 ---
-
 对于每一位把"工科顶尖学府"列入志愿表的考生而言,上海交通大学几乎是一个绕不开的名字。它坐落在中国经济最活跃的城市之一,拥有横跨一个多世纪的办学积淀,又在工程、医学、管理等领域长期占据国内第一方阵。然而,正因为它太常被人和清华、复旦放在一起比较,反倒让不少考生和家长对这所学校形成了一些模糊甚至偏颇的印象:有人觉得它不过是"上海版的清华",有人把它简单理解为"复旦旁边那所偏理工的学校"。这篇深度解析想做的,正是把这些标签一一拆开,带你看清这所百年名校真实的分数门槛、学科版图、培养路径,以及它究竟适合什么样的人。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-25.webp)
 *上海交通大学高考录取全解析:从分数位次到致远学院,带你看懂这所百年工科名校*
 
 如果你正在系统了解中国顶尖高校的录取格局,建议先读一读我们的[高考完全指南](/2026/03/18/gaokao-complete-guide/)和[名校录取分数](/2025/11/26/gaokao-top-universities-admission/),再回到这篇专门聚焦上海交通大学的解析,这样能把单所学校的细节放进更大的全局里去理解。

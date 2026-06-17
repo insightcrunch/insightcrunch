@@ -6,13 +6,15 @@ date: 2024-03-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Character Analysis", "Jay Gatsby", "Nick Carraway", "Close Reading", "American Literature"]
 excerpt: "Character arcs across great Gatsby reveal who changes and who stays still, and why Fitzgerald makes that distribution of change carry the novel's meaning."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2024-03-11
+lang: en
 ---
-
 Ask which figures actually grow in this novel and the answer sorts the whole cast into two unequal camps. The character arcs across great Gatsby are not evenly handed out. A small number of people move from one understanding of the world to another, paying for that movement in disillusion or in death, while a larger and more comfortable group ends the summer exactly where it began, untouched by everything that happened around them. Fitzgerald builds that imbalance on purpose. Who is permitted to develop, and who is held in place, turns out to be one of the sharpest arguments the book makes about money, safety, and the cost of wanting more than your station allows.
+
+![Character Arcs Across The Great Gatsby - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 Most readers come to this question expecting an even spread. School training in plot structure teaches that protagonists learn a lesson, antagonists get their comeuppance, and supporting players nudge the hero along. The Great Gatsby refuses that tidy scheme. Its most powerful people learn nothing, lose nothing, and feel no need to. Its strivers and its watcher carry the entire weight of transformation. Reading the distribution of growth, rather than tallying who is "good" or "bad," is what separates analysis from a book report, and it is the lens this study uses to map every meaningful figure in turn.
 

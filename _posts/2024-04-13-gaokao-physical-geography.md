@@ -6,14 +6,14 @@ date: 2024-04-13
 categories: ["Industry"]
 tags: ["高考地理", "自然地理", "大气环流", "气候类型", "Gaokao Geography", "Physical"]
 excerpt: "这篇高考自然地理完全指南沿着地球运动、大气环流、水循环、地貌成因、自然灾害五条主线展开，详解昼夜长短与正午太阳高度计算、气候类型两步判别法、洋流与季风、板块运动与典型地貌、等高线和等压线判读以及综合题答题模板，并梳理高频失分点与分阶段复习策略，帮助你把零散知识织成一张因果网，在陌生情境中灵活迁移、稳拿高分。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "feng-lei"
+lang: zh
 ---
-
 很多同学一提到高考地理，第一反应是"背地名、记特产"，把这门学科当成纯记忆型科目来对待。等到真正坐进考场，面对一道给出等高线、河流走向和气温降水数据的综合大题时，才发现死记硬背根本撑不起一道十几分的题目。自然地理这一半内容，恰恰是地理学科里最讲究"理解"和"空间推理"的部分。它要求你把地图上的信息和背后的地理原理结合起来，针对一个具体而陌生的区域做出分析判断。单纯记公式不行，纯凭生活常识也不行，真正能拿稳这部分分数的，是那些把原理内化、又能灵活迁移到新情境里的同学。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-20.webp)
 
 这篇文章想做的，就是把高考自然地理的主干脉络一次梳理清楚。我们会沿着地球运动、大气环流、水循环、地貌成因、自然灾害这几条主线走一遍，每一条线既讲清楚它考什么，也讲清楚它怎么考、容易在哪儿丢分。如果你正在备考，或者带着孩子一起复习，希望读完之后，你心里能有一张完整的知识地图，知道自然地理这三四十分的分值到底分布在哪里，又该用什么方法去稳稳拿下。想系统了解整个高考的备考框架，可以先看看我们的[高考完全指南](/2026/03/18/gaokao-complete-guide/)，那篇文章会帮你把各科的位置摆正；而专门针对地理学科的整体规划，[地理备考指南](/2025/12/20/gaokao-geography-preparation-guide/)里有更细致的拆解。
 

@@ -6,15 +6,15 @@ date: 2019-03-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Usual Suspects", "Se7en", "Neo-Noir", "Crime Thriller", "Film Analysis", "World Cinema"]
 excerpt: "The Usual Suspects and Se7en turned 1995 into the year the twist thriller detonated, one through unreliable narration and one through an unbearable box."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2019-03-01
+lang: en
 ---
-
 In 1995 two American thrillers arrived within months of each other, each built its entire effect on a single withheld truth, and each detonated that truth in its final minutes with a force that reset what a popular mystery could do to an audience. The Usual Suspects, directed by Bryan Singer and written by Christopher McQuarrie, hides the identity of a legendary criminal until a coffee cup hits the floor of a police office. Se7en, directed by David Fincher and written by Andrew Kevin Walker, hides the contents of a cardboard box until a detective's question turns into the most quoted line of dread in modern crime cinema. Pair them and a real choice appears: which 1995 reveal cut deeper, and which one did more to reshape the decade's thrillers?
 
-![Two 1995 twist thrillers compared](/assets/images/blog/blog-01.webp)
+![Two 1995 twist thrillers compared](/assets/images/blog/blog-43.webp)
 
 This article treats the two as a double bill and adjudicates that choice with a single deciding criterion. The case rests on a claim worth naming up front. Call it the reveal as detonation: within one year, two films built everything on a buried truth, the unmasked mastermind and the unthinkable box, and in doing so they redefined how the genre lands its final blow. The Usual Suspects engineers its shock from the inside out, through a story you cannot trust told by a narrator you should have doubted. Se7en engineers its shock from the outside in, through a procedure so methodical that the ending feels less like a surprise than like an inevitability the film refused to spare you. Both withhold. Both detonate. The argument here is about how each one earns the blast, and which earns it more completely.
 

@@ -7,14 +7,14 @@ last_updated: 2024-04-15
 excerpt: "Naming in The Great Gatsby turns the cast list into characterization: see how Gatsby, Daisy, Jordan, and the rest carry compressed verdicts in their names."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "claire-bennett"
 tags: ["The Great Gatsby", "Character Analysis", "Character Names", "F. Scott Fitzgerald", "Symbolism", "Onomastics"]
 reading_time: 47
+lang: en
 ---
-
 Ask a class who Jay Gatsby really is, and someone will eventually mention that his name is a costume. They are right, and that small observation opens a door most readers walk past. Studying naming in The Great Gatsby means reading the cast list as a set of arguments rather than a set of labels, because Fitzgerald rarely picked a sound at random. A plain farm boy from North Dakota becomes a glittering host the moment he stops being James Gatz, and the woman at the center of every man's longing is christened after a flower with white petals and a golden heart. The book hands you its verdicts in the very words it uses to summon its people onstage.
 
-![Naming in The Great Gatsby: What Names Mean](/assets/images/blog/blog-01.webp)
+![Naming in The Great Gatsby: What Names Mean](/assets/images/blog/blog-114.webp)
 
 This study treats each major character's appellation as a piece of characterization, sitting beside the gesture, the dialogue, and the symbol as a tool Fitzgerald uses to compress meaning. The Daisy flower as a full emblem belongs to its own dedicated piece; here the flower matters only as the seed of her christening. What follows surveys the whole roster, weighs which designations carry the heaviest freight, defends the claim that these choices are deliberate rather than accidental, and shows a student how to turn the pattern into an essay paragraph that a grader will reward.
 
@@ -333,5 +333,4 @@ It can be a sharp move when handled with discipline, and a liability when handle
 ### Q: What does the name Catherine contribute as Myrtle's sister?
 
 Catherine, Myrtle's sister, wears a plain, common given name that places her firmly in the same modest social world, but the ordinary label carries a small irony worth noting. She is one of the few characters whose name has no overt symbolic charge, which itself marks her as part of the anonymous crowd that fills the novel's parties and apartments, the interchangeable revelers who drift through the Jazz Age without weight or consequence. Her flat designation suits a figure who exists mainly to gossip, to repeat rumors about Gatsby, and to embody the loose, modern social set Myrtle aspires to join. In a roster where the loaded names announce their verdicts loudly, the unremarkable Catherine demonstrates the other half of Fitzgerald's method, the deliberate plainness reserved for the figures who are meant to blur into the background of a careless, crowded world.
-
 

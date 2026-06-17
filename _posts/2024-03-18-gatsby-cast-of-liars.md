@@ -6,17 +6,17 @@ date: 2024-03-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Character Analysis", "Dishonesty", "Deception", "Nick Carraway", "Literary Analysis"]
 excerpt: "The Great Gatsby's cast of liars makes deception the rule: who lies, to whom, and why, plus why Nick's claimed honesty is the most suspect lie of all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2024-03-18
+lang: en
 ---
-
 ## The novel where almost no one tells the truth
 
 Readers come to Fitzgerald's book for a love story and a green light, and they leave quoting the last line about boats against the current. What they tend to miss is that the great gatsby's cast of liars is the real engine of the plot, the social texture, and the moral argument all at once. Strip away the parties and the longing and you find a room full of people who deceive one another as a matter of course. Gatsby invents his entire history. Tom and Daisy lie to each other and to everyone around them. Jordan cheats and shrugs. Even Nick, who opens the book by promising candor, turns out to be the most slippery witness of all. A serious great gatsby character analysis has to begin from that uncomfortable fact: in this novel, telling the truth is the exception, not the rule.
 
-![The Great Gatsby's cast of liars and the dishonesty across the whole cast explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby's cast of liars and the dishonesty across the whole cast explained - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 That observation changes how you read every scene. Once you notice how thoroughly deception saturates the world of the book, the famous moments stop looking like accidents and start looking like symptoms. The reunion at Nick's cottage is a staged performance. The confrontation at the Plaza is a contest over which fiction will be allowed to stand. The inquest after Myrtle's death is a coordinated act of concealment. This guide maps the whole field of falsehood, naming who lies, what they lie about, whom they deceive, and why, and it singles out the handful of figures who do not lie so that their rarity registers. The goal is not to scold the characters but to show that Fitzgerald built a moral landscape in which honesty is the deviation, and to show why Nick's confident claim to be one of the honest ones is the cleverest deception in the book.
 ## How deception drives the plot of The Great Gatsby

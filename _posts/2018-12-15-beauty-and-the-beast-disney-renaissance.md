@@ -6,16 +6,17 @@ date: 2018-12-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Beauty and the Beast", "Disney", "Disney Renaissance", "Animation", "Film History", "World Cinema"]
 excerpt: "Beauty and the Beast led the Disney Renaissance, fusing Broadway songcraft with new computer animation to become the first animated Best Picture nominee."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2018-12-15
+lang: en
 ---
 # Beauty and the Beast and the Disney Renaissance
 
 When the nominees for Best Picture were read for the 64th Academy Awards, one title did not belong to the company the other four kept. *Beauty and the Beast*, released by Walt Disney Pictures in 1991, sat beside *The Silence of the Lambs*, *JFK*, *Bugsy*, and *The Prince of Tides*. It was a drawn feature, a fairy-tale musical with talking candlesticks and a singing teapot, and it had just become the first animated work in history to compete for the top prize Hollywood gives itself. That nomination is the single fact most people know about the film, and it is usually told as a charming anecdote. It is better understood as the visible peak of a deliberate creative recovery, the moment a studio that had spent two decades adrift announced that drawn storytelling could carry adult prestige again. That recovery has a name. It is the Disney Renaissance, and *Beauty and the Beast* is the film that defines it.
 
-![How Beauty and the Beast led the Disney Renaissance and won animation new prestige, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Beauty and the Beast led the Disney Renaissance and won animation new prestige, an analysis - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The word renaissance is doing real work here, not decoration. A renaissance implies a fall first, a fallow stretch, and then a return. The studio that had built the feature-length cartoon as an art form in the 1930s and 1940s had, by the late 1970s and early 1980s, lost the thread. The drawn features it released in that long middle period were uneven, expensive, and culturally marginal, treated by critics as children's matinee filler rather than as serious work. Then, across a single decade, the studio produced a run of musicals that put animation back at the center of the culture, won Academy Awards, sold soundtracks by the millions, and reached audiences who had stopped thinking of drawn features as anything they needed to see. *Beauty and the Beast* is the film where every element of that revival locks into place at once: the Broadway-trained songwriting that gave the era its sound, the sharpened characterization and structure that gave it weight, and the early use of computer tools that pointed at the technical future. It is the article's central claim, and the one to carry away: animation was restored to prestige here, because *Beauty and the Beast* fused Broadway songcraft with new computer animation to become the first animated Best Picture nominee, the high point of the Disney Renaissance.
 

@@ -5,14 +5,14 @@ date: 2024-04-08
 excerpt: "The most misunderstood Gatsby characters are misread by flattening: one true trait kept, its opposite dropped. Here are the five errors and the fixes."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "emily-reed"
 tags: ["The Great Gatsby", "Character Analysis", "Daisy Buchanan", "Nick Carraway", "Close Reading", "American Literature"]
 reading_time: 48
+lang: en
 ---
-
 Ask a room of readers who the villain of *The Great Gatsby* is and a fast majority will name Daisy Buchanan. Ask who tells the truth and the same majority will name Nick Carraway. Both answers feel obvious, and both are wrong in the same way: they take a doubled figure and press it flat into a single label. This is the quiet engine behind nearly every received reading of the novel's cast. The most misunderstood Gatsby characters are not misread because the book is obscure. They are misread because the book is generous with contradiction, and a contradiction is harder to carry in the mind than a verdict. So we drop the half that complicates and keep the half that settles. The result is a gallery of cardboard cutouts standing where Fitzgerald built people.
 
-![The Most Misunderstood Gatsby Characters](/assets/images/blog/blog-01.webp)
+![The Most Misunderstood Gatsby Characters](/assets/images/blog/blog-05.webp)
 
 This study takes the five figures readers most consistently get wrong, sets the popular flattening beside what the text actually shows, and supplies the correction in each case. The goal is not to be contrarian for its own sake. It is to recover the version of each person that the prose supports, which turns out to be richer, sadder, and more useful for an essay than the cartoon. Where the whole-novel errors live, from plot misremembering to thematic oversimplification, the broader survey of [everything students get wrong about the novel](/2022/06/20/great-gatsby-misreadings-corrected/) does that work. Here the focus is tight: the people, the misreadings attached to them, and the lines that undo those misreadings.
 

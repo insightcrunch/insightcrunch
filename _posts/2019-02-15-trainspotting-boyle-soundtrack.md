@@ -6,17 +6,17 @@ date: 2019-02-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Trainspotting", "Danny Boyle", "Film Scores", "World Cinema", "Film Analysis"]
 excerpt: "Trainspotting turns a borrowed pop soundtrack into a score that seduces you into the heroin high and then, with the same records, reveals it as hollow."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-02-15
+lang: en
 ---
-
 Most films lean on a composer to tell the audience how to feel. Trainspotting refuses that arrangement and replaces it with a jukebox of borrowed records, and the substitution is the whole argument of Danny Boyle's 1996 adaptation of Irvine Welsh's novel. There is no orchestral cue swelling under Mark Renton's veins, no leitmotif assigned to his decline. Instead a snarl of Iggy Pop, a wash of Brian Eno, a hymn from Lou Reed, and a surge of Underworld do the scoring work, each track lifted from another decade and another purpose and pressed into service against images it was never written for. The result is a soundtrack that became as famous as the picture it accompanies, sold in vast numbers on its own, and rewired how a generation of filmmakers thought about putting pop music to film. This article reads that soundtrack as a score: not a list of cool songs, but a designed sequence of sonic decisions that seduces the viewer into the rush of heroin and then, with the same music, exposes the rush as hollow.
 
 The claim worth holding onto, the one this piece will defend through the cues themselves, is simple to state and easy to underestimate. The music in Trainspotting is not decoration laid over the drama; it is the drama's chief instrument of seduction, and the seduction is a trap the film deliberately springs. Boyle uses propulsive, joyous, irresistible records to make addiction feel thrilling, then lets the same compiled soundtrack curdle into stillness, irony, and dread, so that the audience experiences the arc of dependency as a felt rhythm rather than a lecture. Understanding how that works, track by track and scene by scene, is the difference between treating the film as a stylish drug movie and recognizing it as one of the most sophisticated uses of borrowed music in English-language cinema.
 
-![How Trainspotting uses its compiled pop soundtrack as a score to seduce and then undercut, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Trainspotting uses its compiled pop soundtrack as a score to seduce and then undercut, an analysis - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 ## Why Trainspotting has no traditional score
 

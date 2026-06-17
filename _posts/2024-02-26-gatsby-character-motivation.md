@@ -6,15 +6,15 @@ date: 2024-02-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Character Analysis", "Jay Gatsby", "Daisy Buchanan", "Tom Buchanan", "Close Reading"]
 excerpt: "Character motivation in The Great Gatsby is a clockwork of incompatible wants: see what each major character chases and why those desires destroy them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2024-02-26
+lang: en
 ---
-
 Ask most readers why the people in The Great Gatsby do what they do, and the answers arrive as labels. Gatsby is the romantic. Daisy is the prize. Tom is the brute. Nick is the watcher. Myrtle is the mistress. George is the victim. The labels are not wrong, exactly, but they are inert. They tell you what a character is rather than what a character is reaching for, and a label cannot collide with anything. Character motivation in The Great Gatsby only becomes interesting when you stop sorting the cast into types and start asking, scene by scene, what each person is actually trying to get, and what they will sacrifice to get it.
 
-![Character motivation in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Character motivation in The Great Gatsby](/assets/images/blog/blog-54.webp)
 
 Do that, and the novel reorganizes itself in front of you. It stops being a story about one man's doomed love and becomes a machine of competing appetites, six people pulling in six directions, every pull crossing someone else's. Fitzgerald did not write a tragedy in which fate descends from above. He wrote a tragedy in which the characters destroy one another by simply, persistently, wanting what they want. The catastrophe at the end of the summer of 1922 is not an accident of plot. It is the inevitable output of a system, and the engine of that system is desire.
 

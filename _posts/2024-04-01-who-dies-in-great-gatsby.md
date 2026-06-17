@@ -6,12 +6,14 @@ date: 2024-04-01
 excerpt: "Who dies in Great Gatsby and why: Myrtle, Gatsby, and George die while the careless Buchanans survive, a class pattern that is the novel's real verdict."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "emily-reed"
 tags: ["The Great Gatsby", "Myrtle Wilson", "George Wilson", "Character Analysis", "Death and Mortality", "American Literature"]
 reading_time: 49
+lang: en
 ---
-
 ## The question this article answers
+
+![Who Dies in The Great Gatsby and Why - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 Ask most readers what happens at the close of The Great Gatsby and they will name a single loss, the man in the pool. Press a little further and the picture fills in: a woman struck on a dark road, a grieving husband with a revolver, a body floating in still water, and then the husband himself found dead in the grass. Three people die in the span of two summer afternoons, and the way Fitzgerald arranges those three deaths is the most pointed argument the book makes about the society it watched. This is the heart of any serious great gatsby character analysis: not the spectacle of who is lost, but the meaning carried by which characters the story chooses to spend.
 

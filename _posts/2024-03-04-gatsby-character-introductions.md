@@ -6,14 +6,15 @@ date: 2024-03-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Character Analysis", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "How Fitzgerald introduces each character in The Great Gatsby turns every entrance into a first impression the novel quietly complicates and revises later."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2024-03-04
+lang: en
 ---
 Studying how Fitzgerald introduces each character is the fastest way to learn how characterization actually works in The Great Gatsby, because every major figure walks onto the page inside a single engineered image that decides what you believe about them before they have done anything. Fitzgerald does not let his cast accumulate slowly through scattered detail. He stages an entrance for each one, fixes a first impression in a few sentences, and then spends the rest of the book either confirming that impression or quietly demolishing it. Read the introductions closely and you stop seeing description and start seeing strategy.
 
-![How Fitzgerald introduces each character in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Fitzgerald introduces each character in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The novel is short, and Fitzgerald cannot afford a slow build for anyone. Daisy and Jordan arrive lifted into the air in white. Tom arrives as a body before he is a man. Gatsby is held offstage for two and a half chapters and then revealed by a smile rather than a fact. Myrtle pushes into view trailing a heat the cool Buchanan world does not have. George Wilson surfaces faintly, almost colorless, in a garage built of dust. None of this is accidental, and none of it is neutral. Each entrance is a verdict the reader is invited to reach, and most of those verdicts are designed to be wrong, or at least incomplete, so that the act of revising them becomes part of reading the book.
 
