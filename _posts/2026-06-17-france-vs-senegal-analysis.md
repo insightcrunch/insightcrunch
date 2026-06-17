@@ -20,6 +20,8 @@ That is the namable claim of the night, and it is the spine of everything below:
 
 This analysis owns the post-match story of the fixture: the final score and how it arrived, the tactical reasons France won and Senegal lost, the player ratings and the man-of-the-match case, the records broken, the numbers that carry the story, and what the result means for a Group I that already looks like one of the most demanding in the tournament. The forward-looking questions, the predicted lineups, the build-up and the pre-match reasoning, all live in the companion [France vs Senegal World Cup 2026 preview](/2026/06/16/france-vs-senegal-preview/), which committed to a French win and a tight first half before the favorites pulled clear. Here, with the match played, we deal only in what actually happened.
 
+{% include tweet.html id='2066989861270176193' %}
+
 ## France 3-1 Senegal: the result and the shape of the night
 
 ### What was the final score of France vs Senegal at World Cup 2026?

@@ -24,6 +24,8 @@ Kansas City Stadium, the home of the NFL's Chiefs and known to most of the footb
 
 Argentina beat Algeria 3-0 at Kansas City Stadium on June 16, 2026, in their Group J opener at World Cup 2026. Lionel Messi scored all three goals, in the 17th, 60th, and 76th minutes, completing the first World Cup hat trick of his career and tying the all-time tournament scoring record of 16 goals.
 
+{% include tweet.html id='2067074983470289137' %}
+
 The result was Argentina's most authoritative possible start to a title defense, and it arrived without the side ever needing to move out of second gear after the opening goal. The champions did not produce a relentless, wave-after-wave demolition. They produced three clinical strikes from the one player guaranteed to punish hesitation, and then they managed the game with the calm of a team that has been in every kind of World Cup situation and knows the value of a clean sheet on matchday one. Lionel Scaloni's side controlled the parts of the match that decide results, even while conceding the part of the match, raw possession, that decides very little on its own.
 
 That distinction matters because the temptation with a 3-0 win featuring a hat trick is to assume total domination from first whistle to last. The truth is more interesting and more useful for anyone trying to understand where Argentina stand. They were vulnerable to Algeria's transitions for spells, leaned on Emiliano Martinez for at least one important save, and were grateful that two early Algerian moments did not stand. The final margin reflects ruthlessness in both penalty areas far more than it reflects a one-sided flow of play, and it is exactly that ruthlessness that separates contenders from the rest at this level.
