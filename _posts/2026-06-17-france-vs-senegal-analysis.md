@@ -6,17 +6,17 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Senegal", "Group Stage", "Match Analysis"]
 excerpt: "France beat Senegal 3-1 at World Cup 2026 as Mbappe's second-half brace broke a national scoring record and tore a tense Group I opener wide open late on."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-17
+lang: en
 ---
-
 France beat Senegal 3-1 in their World Cup 2026 Group I opener at New York/New Jersey Stadium, and the scoreline flatters a contest that, for an hour, refused to obey the form guide. The single thing that explains this France vs Senegal World Cup 2026 result is not a tactic, a formation, or a substitution in isolation. It is the gap between what each side could summon in the final third when the game finally opened. Two strong teams cancelled each other out for the better part of an hour. Then Kylian Mbappe scored twice, Bradley Barcola scored seconds after walking on, and the difference that had been invisible since kickoff became the only thing on the scoreboard. This was not a demolition. It was a demonstration of how the best individual quality on the pitch decides tight games when the structure around it holds firm.
 
 That is the namable claim of the night, and it is the spine of everything below: France did not out-think Senegal so much as out-finish them, and the second half exposed a quality gap the first half had carefully hidden. Senegal were organized, brave, and genuinely dangerous before the interval. They did not lose because they were overrun. They lost because the margins that separate a contender from a very good side are measured in moments, and France owned the moments that mattered.
 
-![France vs Senegal World Cup 2026 result, player ratings and Group I analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![France vs Senegal World Cup 2026 result, player ratings and Group I analysis - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 This analysis owns the post-match story of the fixture: the final score and how it arrived, the tactical reasons France won and Senegal lost, the player ratings and the man-of-the-match case, the records broken, the numbers that carry the story, and what the result means for a Group I that already looks like one of the most demanding in the tournament. The forward-looking questions, the predicted lineups, the build-up and the pre-match reasoning, all live in the companion [France vs Senegal World Cup 2026 preview](/2026/06/16/france-vs-senegal-preview/), which committed to a French win and a tight first half before the favorites pulled clear. Here, with the match played, we deal only in what actually happened.
 

@@ -7,15 +7,15 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Iraq", "Norway", "Group Stage", "Match Preview"]
 excerpt: "Iraq vs Norway World Cup 2026 preview: prediction, predicted lineups, Haaland's debut, head to head, and what both sides need from the Group I opener now."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-16
+lang: en
 ---
-
 Iraq vs Norway at World Cup 2026 reduces, at its core, to a single question of supply. Norway carry the most lethal center-forward on the planet into a Group I opener at Gillette Stadium, and the only meaningful debate before kickoff is not whether Erling Haaland can hurt a debutant defense but whether that defense can keep the ball away from him long enough to matter. Iraq arrive at their first World Cup in forty years with one clear plan: compress the space, dig in, and turn the contest into the kind of low-scoring slog that has defined their recent results. Norway arrive with the opposite intention, a front line built to stretch and break a packed block, and a delivery system designed to feed a striker who punishes a single yard of room. The match is the meeting of those two philosophies, and the side that wins the supply question wins the night.
 
-![Iraq vs Norway World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Iraq vs Norway World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 That framing is what separates this fixture from a routine favorite-versus-underdog group opener. On paper the gap is enormous. Norway sit 31st in the FIFA world ranking and Iraq 56th, and the bookmakers have priced Solbakken's side as heavy favorites, with Iraq a long shot and the draw the value play for anyone who believes in the resistance. Yet the numbers that decide a football match are rarely the ranking columns. They are the expected-goals counts that come from how often one side can manufacture a clean look at goal and how stubbornly the other can deny it. Iraq have spent two years building a team whose entire identity is the denial of clean looks. Norway have spent the same period assembling the most ruthless finishing weapon any World Cup debutant could be asked to face. The collision is the story, and it is a far more interesting story than the price suggests.
 

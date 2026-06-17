@@ -6,15 +6,15 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Belgium", "Egypt", "Group Stage", "Match Analysis"]
 excerpt: "Belgium vs Egypt result and analysis from World Cup 2026: how a Romelu Lukaku cameo forced an own goal to deny Egypt their first ever finals win in a 1-1 draw."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-16
+lang: en
 ---
-
 For roughly forty-seven minutes inside a sun-warmed Lumen Field, Egypt were not the perennial World Cup also-rans of their own history. They were a team leading a tournament heavyweight, playing with the discipline and bite that their record had always promised and rarely delivered, and they were one clearance, one block, one whistle away from a result the nation had waited almost a century to record. Then a substitute walked on, the ball was worked to the left, and twenty-two seconds later it was in the back of the Egyptian net off an Egyptian boot. Belgium vs Egypt at World Cup 2026 finished 1-1, and the single sentence that explains the scoreline is this: Romelu Lukaku changed nothing about Belgium's quality and everything about Belgium's threat, and his cameo, not their hour of possession, rescued the point.
 
-![Belgium vs Egypt World Cup 2026 result, player ratings and tactical analysis of the 1-1 Group G draw - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Belgium vs Egypt World Cup 2026 result, player ratings and tactical analysis of the 1-1 Group G draw - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 This was the opening match of Group G, played in Seattle on Monday, June 15, in front of a crowd of 66,775, the first World Cup fixture the city hosted in the 2026 tournament. It pitted Rudi Garcia's reshaped Belgium, a side carrying the last embers of a golden generation behind a wave of younger names, against Hossam Hassan's Egypt, a counter-leaning unit built to release Mohamed Salah and Omar Marmoush at speed. The pre-match framing, laid out in our [Belgium vs Egypt preview and prediction](/2026/06/15/belgium-vs-egypt-preview/), expected Belgium's possession to meet a low Egyptian block, with the decisive question being whether the Pharaohs could absorb pressure and strike on the break. For an hour they did exactly that. The reason they did not hold on is the spine of this analysis.
 

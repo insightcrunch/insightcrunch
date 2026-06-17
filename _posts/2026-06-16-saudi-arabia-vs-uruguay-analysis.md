@@ -6,15 +6,15 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Saudi Arabia", "Uruguay", "Group Stage", "Match Analysis"]
 excerpt: "Saudi Arabia vs Uruguay result: a 1-1 World Cup 2026 draw in Miami, with player ratings, key stats and the tactical story of Al-Owais and a late point."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-16
+lang: en
 ---
-
 Saudi Arabia vs Uruguay ended 1-1 at the World Cup 2026, and the single fact that explains the night is this: a two-time world champion produced twenty-seven shots in Miami and still walked off with one point, because Mohammed Al-Owais kept the one save the scoreline needed and Uruguay never found the one finish that would have settled it. That is the spine of this analysis, and the phrase to remember is the one-save margin. La Celeste did not lose a point because they were poor across ninety minutes. They lost two because, on a sweltering evening at the Hard Rock Stadium, the Green Falcons defended deeper, struck first through a centre-back's instinct, and then hid behind a goalkeeper who refused to be beaten more than once. Saudi Arabia did not so much protect a lead as rent it back one intervention at a time, and the rent came due only in the eightieth minute.
 
-![Saudi Arabia vs Uruguay World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Saudi Arabia vs Uruguay World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 This was a Group H opener that read, on paper, like a routine evening for Marcelo Bielsa's side and a survival exercise for a Saudi team chasing the kind of headline they last manufactured against Argentina in Qatar. The paper lied for an hour. Saudi Arabia took the lead before half-time and looked, with Spain held to a goalless draw by Cape Verde earlier in the day, briefly capable of topping the group after the opening round. Then Bielsa changed his team, Uruguay changed their tempo, and the contest became a siege. The siege produced everything except the second goal that would have made the night routine after all. By full time, all four Group H sides sat level on a single point, and a fixture that should have clarified the group instead left it wide open.
 

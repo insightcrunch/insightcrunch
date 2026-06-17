@@ -6,15 +6,15 @@ date: 2026-06-15
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Sweden", "Tunisia", "Group Stage", "Match Analysis"]
 excerpt: "Sweden vs Tunisia result and analysis from World Cup 2026: a clinical 4-1 win driven by ruthless finishing, with ratings, stats and the Group F picture."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-15
+lang: en
 ---
-
 Sweden vs Tunisia at World Cup 2026 ended 4-1, and the scoreline does not tell you the most important thing about it. Possession was close, the chance count was closer than four goals to one suggests, and for a stretch either side of the interval the Eagles of Carthage looked like a team that might drag the night somewhere awkward. What separated the two countries in Monterrey was not control of the ball or territory. It was the quality of the finishing. Graham Potter's side took the openings that came and buried them; the North Africans created less and converted almost none of it. That gap, the difference between manufacturing chances and putting them away, is the whole story of this Group F opener, and it is the spine of everything that follows.
 
-![Sweden vs Tunisia World Cup 2026 result, player ratings and Group F analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sweden vs Tunisia World Cup 2026 result, player ratings and Group F analysis - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 This is the analysis half of our coverage. The forward-looking briefing, with the predicted lineups, the form lines and the tactical questions we set before kickoff, lives in the [Sweden vs Tunisia preview](/2026/06/14/sweden-vs-tunisia-preview/); read together the two pieces give you the full ninety minutes from both directions. Here the job is different. The match has been played, the record is known, and the work now is to explain how a 4-1 result happened, who made it happen, where the contest actually turned, and what it changes for a group that began the tournament looking like one of the more even draws in the bracket. The result reads as a comfortable win, and in the end it was a comfortable win, but the path to it ran through a genuinely uncertain middle hour that any honest account has to honor rather than smooth over.
 

@@ -6,13 +6,14 @@ excerpt: "Spain open World Cup 2026 against debutants Cape Verde in Atlanta. Ful
 image: /assets/images/blog/blog-01.webp
 reading_time: 68
 tags: [World Cup 2026, Spain, Cape Verde, Group H, Preview]
+author: "yuki-mori"
+lang: en
 ---
-
 ## Spain Begin Their Quest Against Football's Newest Story
 
 There are openers that ask questions, and there are openers that only seem to. When the reigning European champions walk out in Atlanta to begin a World Cup that many expect them to win, the temptation is to file the meeting with Cape Verde under the second heading, a formality dressed up as a fixture, a box to be ticked before the tournament proper begins. That reading is lazy, and it is also wrong. This is a Group H opener with two very different kinds of pressure sitting on the same patch of grass, and the side that handles its own pressure better will set the tone for everything that follows. For Luis de la Fuente's Spain, the pressure is the weight of being expected. For Pedro Leitao Brito's Cape Verde, the pressure is the joy and the terror of arriving somewhere no team from their islands has ever stood before.
 
-![Spain vs Cape Verde World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Spain vs Cape Verde World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 That contrast is the heart of this preview, and it is the reason the match deserves to be treated as more than a warm-up. Spain arrive as one of the two or three teams most likely to lift the trophy, a side stacked with Barcelona's young core and anchored by midfielders who pass the ball as if it were on a string. Cape Verde arrive as the third-smallest nation by population ever to reach a World Cup, a team of diaspora footballers drawn from leagues across more than a dozen countries, captained by a 36-year-old who knows this will be the only World Cup of his career. One side is chasing a second world title. The other has already won simply by being here, and now wants to prove the trip was not an accident. The next ninety minutes will be read very differently depending on which dressing room you sit in, and that is exactly what makes it worth previewing in full.
 

@@ -5,17 +5,17 @@ date: 2026-06-15
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Belgium", "Egypt", "Group Stage", "Match Preview"]
 excerpt: "Belgium vs Egypt prediction, predicted lineups, head-to-head record and Group G stakes for this World Cup 2026 opener, with Salah and De Bruyne in focus."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-15
+lang: en
 ---
-
 Belgium walk into their World Cup 2026 opener as the ninth-ranked side on the planet and the clear favorites of Group G, and they walk straight into the one country that keeps refusing to read the script. Egypt have met Belgium four times in senior football and won three of them, a record that sits oddly against the gulf in squad value, league pedigree, and tournament expectation. That single fact frames the whole evening at Lumen Field in Seattle: this is not a procession, and the team in red knows it. The question that decides Belgium vs Egypt is not whether Rudi Garcia's side can dominate the ball, because they will. It is whether Egypt can survive the territory, ride the pressure, and make the one transition that turns a long defensive shift into a result.
 
 That is the tension worth sitting with before kickoff. Belgium arrive with a settled idea of themselves under a new manager, a creative spine built around Kevin De Bruyne, and the kind of attacking width that pulls back fours apart. Egypt arrive with Mohamed Salah in what is almost certainly his final World Cup, a coach who is also the country's record scorer, and a defensive plan honed over an unbeaten qualifying campaign. The favorite has the talent. The underdog has the history, the discipline, and a single world-class outlet who can punish any lapse. Group G opens here, and the team that gets the tone right in the first thirty minutes will shape the entire group.
 
-![Belgium vs Egypt World Cup 2026 preview, prediction and Group G stakes with Salah and De Bruyne - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Belgium vs Egypt World Cup 2026 preview, prediction and Group G stakes with Salah and De Bruyne - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 ## What Belgium vs Egypt is and why it matters in Group G
 

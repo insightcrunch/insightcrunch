@@ -6,15 +6,15 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Iraq", "Norway", "Group Stage", "Match Analysis"]
 excerpt: "Iraq vs Norway result and analysis: Erling Haaland's brace on his World Cup 2026 debut drove a 4-1 win that put Norway top of Group I after matchday one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-06-17
+lang: en
 ---
-
 Iraq vs Norway at World Cup 2026 finished 1-4, and the scoreline flatters neither the winners nor the losers so much as it simplifies them. Norway won because they had Erling Haaland to convert the half-chances and, more importantly, because they had a supply line built to keep feeding him and the men around him. Iraq lost not because they were overrun for ninety minutes, which they were not, but because the two or three moments that demanded a clean defensive head went the wrong way, and a side returning to the global stage after forty years discovered how unforgiving this level is when the margins close. The headline belongs to Haaland, who scored twice on his long-delayed World Cup debut. The deeper story belongs to the channels and the crosses and the corner that produced the goals, and that is the story this analysis is built around.
 
-![Iraq vs Norway World Cup 2026 result, player ratings and analysis with Haaland brace - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Iraq vs Norway World Cup 2026 result, player ratings and analysis with Haaland brace - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 This was the second of the two Group I openers, and it landed in Foxborough on June 16 with a peculiar weight. Both nations had been absent from the World Cup for a generation, Iraq since Mexico 1986 and Norway since France 1998, and both arrived carrying the hopes of footballing publics who had waited a very long time for ninety minutes that mattered on this stage. The match did not produce a classic. It produced something more instructive: a clear, repeatable demonstration of how a well-stocked attacking side breaks down an organized but limited opponent, and how a single goalkeeping error can turn a competitive contest into a comfortable win before the interval.
 

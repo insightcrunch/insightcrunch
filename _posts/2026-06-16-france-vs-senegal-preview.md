@@ -6,17 +6,17 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Senegal", "Group Stage", "Match Preview"]
 excerpt: "France vs Senegal World Cup 2026 preview: prediction, predicted lineups, the 2002 echo, the key tactical battle, and what the Group I opener means for both."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-16
+lang: en
 ---
-
 There is one question that hangs over France vs Senegal at World Cup 2026, and it is not whether the favourites can win. It is whether the favourites can stay patient long enough to win the way they want to, against a Senegal side built specifically to make patience expensive. Les Bleus arrive in New Jersey as one of the two or three most likely teams to lift the trophy, carrying the deepest attacking roster in the tournament and a captain chasing his country's all-time scoring record. Senegal arrive as the team nobody in Group I wants to play first: organized, fast, physically imposing, and carrying a history with this exact opponent that turns a routine opener into something heavier. The fixture is a test of whether quality alone settles a match against a side that has spent two years learning how to deny it.
 
 This is the marquee tie of the opening round, the heavyweight clash inside the group most observers have labelled the Group of Death, and it sets the tone for everything that follows in Group I. Get the tactical question right and you understand the whole ninety minutes before a ball is kicked. Get it wrong and you are left explaining a scoreline you did not see coming, which is exactly what happened the last time these two nations opened a World Cup against each other.
 
-![France vs Senegal World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![France vs Senegal World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 ## What France vs Senegal means at World Cup 2026
 

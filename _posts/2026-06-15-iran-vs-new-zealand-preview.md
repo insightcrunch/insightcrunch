@@ -6,15 +6,15 @@ date: 2026-06-15
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Iran", "New Zealand", "Group Stage", "Match Preview"]
 excerpt: "Iran vs New Zealand World Cup 2026 preview: prediction, lineups, head to head and the Group G tactical battle that decides this opener at SoFi Stadium."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-06-15
+lang: en
 ---
-
 The single question that hangs over Iran vs New Zealand at World Cup 2026 is whether two nations who have spent decades in the same waiting room, each undefeated against the other and each still chasing the same elusive prize, can finally turn a survivable group into something more. Both arrive in Group G having never reached a World Cup knockout round. Both look at Belgium and see the favorite, look at Egypt and see a coin flip, and look at each other and see the fixture that very likely decides which of them spends the tournament dreaming and which spends it doing arithmetic. This is the opener that frames everything else, and the side that wins the small margins inside it gives itself a runway the other will struggle to find later.
 
-![Iran vs New Zealand World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Iran vs New Zealand World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 That is the honest weight of this match, and it is worth stating plainly before the tactical detail begins. Iran are the higher-ranked, more battle-hardened side, a team playing its fourth straight World Cup and its seventh overall, with a captain who has scored at the top level of European club football and a manager who built his qualification campaign on defensive structure. New Zealand are the lowest-ranked nation in the entire 48-team field, an Oceania side returning to the global stage after a long absence, carrying a record goalscorer in his thirties and a squad short on World Cup minutes but long on belief. The gap on paper is real. The gap on the grass, in a group this open, is smaller than the rankings suggest, and that is exactly why this game is the pivot of the section.
 

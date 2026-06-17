@@ -6,17 +6,17 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "Algeria", "Group Stage", "Match Analysis"]
 excerpt: "Argentina vs Algeria result and full analysis: Lionel Messi scored a hat trick to tie the all-time World Cup 2026 goals record in a commanding 3-0 win."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-17
+lang: en
 ---
-
 Argentina beat Algeria 3-0 in their World Cup 2026 opener in Kansas City, and the scoreline tells you almost nothing about how the night actually felt. The headline is simple and historic: Lionel Messi scored the first World Cup hat trick of his career, and in doing so he drew level with Miroslav Klose on 16 goals, the most any man has scored at the tournament. The deeper story is stranger. For long stretches Algeria held more of the ball, pressed with intent, and looked like a side capable of frustrating the holders. They lost by three goals anyway, because one player kept finding the half-second of space that turns a balanced contest into a rout. This Argentina vs Algeria analysis is built around that contradiction, and around the single claim that explains the night.
 
 That claim is what this piece will call the individual override. Argentina did not out-system Algeria in any decisive way; the two teams traded territory, both had a goal correctly chalked off for offside inside the opening ten minutes, and the expected-goals gap was nothing like three to nil. What separated them was that Argentina had the one footballer on the pitch capable of converting marginal openings into finished goals at a rate nobody else could match. The system held the line and stayed patient. The override did the rest.
 
-![Argentina vs Algeria World Cup 2026 result, Messi hat trick and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Argentina vs Algeria World Cup 2026 result, Messi hat trick and tactical analysis - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 Kansas City Stadium, the home of the NFL's Chiefs and known to most of the football world by its Arrowhead name, was a sea of pale blue and white long before kickoff. The crowd of just over 69,000 had come for one man, and he delivered a performance that will be replayed for as long as the tournament is discussed. For Algeria, a side that arrived with genuine quality and a clear plan, the night became a lesson in the cruelty of the margins: do almost everything right against a great team, give away three moments, and lose by three. What follows is the full account of how it happened, why it happened, what the numbers say, and what it sets up for the rest of Group J.
 

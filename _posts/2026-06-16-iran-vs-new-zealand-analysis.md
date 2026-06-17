@@ -6,15 +6,15 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Iran", "New Zealand", "Group Stage", "Match Analysis"]
 excerpt: "Iran vs New Zealand result and analysis from World Cup 2026: how a 2-2 draw came, Elijah Just's double, Ramin Rezaeian's record night and the Group G math."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-16
+lang: en
 ---
-
 Iran and New Zealand traded the lead twice and finished honors even, and the truth of the night at World Cup 2026 is that no system won this game. Four goals went in, two at each end, and every one of them was authored by a moment of individual quality rather than by a team grinding the other into submission. That is the lens this analysis takes, because it is the only honest way to explain a 2-2 draw in which neither manager could point to ninety minutes of control and claim the result was earned through structure. New Zealand led, then led again, through the breakout double of Elijah Just. Iran answered both times, the first leveller struck by the night's true protagonist Ramin Rezaeian himself and the second headed home by Mohammad Mohebbi from a Rezaeian cross, the full-back walking off having both scored and created a goal in the same fixture and rewritten a small piece of his country's tournament history.
 
-![Iran vs New Zealand World Cup 2026 result, player ratings and Group G analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Iran vs New Zealand World Cup 2026 result, player ratings and Group G analysis - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 Call it the individual-quality draw, the result that four decisive contributions wrote while the two coaching plans cancelled out. That is the namable claim this piece will defend across every section that follows: the scoreline did not flow from possession dominance, from a press that suffocated, or from a tactical tweak that unlocked a stubborn block. It flowed from a striker finding two finishes, from a full-back who refused to let the game pass him by, and from a centre-forward whose hold-up play kept dragging his side back up the pitch. The Iran vs New Zealand opener in Group G was open, watchable, and ultimately fair, and the deeper you look at how the four goals arrived the clearer it becomes that the people, not the formations, decided it.
 

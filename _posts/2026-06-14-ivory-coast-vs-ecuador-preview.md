@@ -6,17 +6,17 @@ date: 2026-06-14
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Ivory Coast", "Ecuador", "Group Stage", "Match Preview"]
 excerpt: "Ivory Coast vs Ecuador World Cup 2026 preview: prediction, predicted lineups, head-to-head, the key tactical battle and what each side needs in Group E."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-14
+lang: en
 ---
-
 The question that defines Ivory Coast vs Ecuador at World Cup 2026 is not whether a famous attacking name will shine or whether a celebrated defense will hold. It is narrower and sharper than that: can a team built to take the ball wide and hurt you in the final third break down a team built to give you nothing through the middle and nothing in behind? This Group E opener in Philadelphia is a collision of two design philosophies, the flank against the fortress, and the side that wins that single argument will almost certainly take the three points that shape the entire race for second place behind Germany.
 
 Both nations arrive convinced they belong in the knockout rounds, and both know the maths makes this the most important ninety minutes of their group. Germany are the clear favorites to top the section, which leaves one realistic qualification ticket genuinely in play, and the two sides most likely to fight for it are meeting on matchday one. A win here is close to a passport. A defeat leaves a team chasing the group for the next two games with the margin for error already gone.
 
-![Ivory Coast vs Ecuador World Cup 2026 preview, prediction and Group E tactical battle - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ivory Coast vs Ecuador World Cup 2026 preview, prediction and Group E tactical battle - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 ## Ivory Coast vs Ecuador: the World Cup 2026 Group E opener that frames the second-place race
 

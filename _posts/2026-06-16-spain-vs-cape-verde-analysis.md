@@ -6,17 +6,17 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Spain", "Cape Verde", "Group Stage", "Match Analysis"]
 excerpt: "Spain vs Cape Verde result and analysis: how 27 shots yielded nothing, Vozinha's seven-save heroics, player ratings and what the World Cup 2026 draw means."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-16
+lang: en
 ---
-
 Spain had twenty-seven shots and could not score one of them. That single sentence holds the whole of a Group H opener that will be replayed in Cape Verde for a generation, because on the afternoon of June 15 at Mercedes-Benz Stadium in Atlanta, the World Cup 2026 produced a result that the form book, the world ranking, and the betting market all said was close to impossible. Spain, the reigning European champions and one of the two or three sides most expected to lift the trophy in New York in July, were held to a 0-0 draw by Cape Verde, a nation of roughly half a million people playing the first World Cup match in its history. The favorites monopolized the ball, ringed the Cape Verde box for ninety minutes, and went home with a point they will regard as two lost. The debutants defended as if their lives depended on it, rode their luck where they had to, and walked off to celebrations that belonged to a final, not a first group game.
 
 This is the story of how that happened, told in the order it unfolded, with the tactical reasons Spain could not convert territory into goals, honest ratings for the players who mattered, the moments that came closest to deciding it, the numbers that frame the night, and what the draw does to a Group H that is now wide open. The short version is that finishing and goalkeeping, not possession, settle football matches, and Spain ran into a goalkeeper having the night of his career behind a back line that refused to break. The longer version is below.
 
-![Spain vs Cape Verde World Cup 2026 result, player ratings and analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Spain vs Cape Verde World Cup 2026 result, player ratings and analysis - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 ## The result and the shape of the night
 
