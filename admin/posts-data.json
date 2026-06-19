@@ -6,6 +6,7 @@ permalink: /admin/posts-data.json
 [{% for post in site.posts %}{
   "index": {{ forloop.index }},
   "title": {{ post.title | jsonify }},
+  "pageTitle": {{ post.page_title | default: post.title | jsonify }},
   "url": {{ post.url | relative_url | jsonify }},
   "slug": {{ post.slug | jsonify }},
   "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
