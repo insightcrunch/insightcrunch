@@ -6,15 +6,15 @@ date: 2026-06-19
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Canada", "Qatar", "Group Stage", "Match Analysis"]
 excerpt: "Canada vs Qatar World Cup 2026 analysis: Jonathan David's hat trick drove a historic 6-0 win over nine-man Qatar and sent the co-hosts top of Group B."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-06-19
+lang: en
 ---
-
 Canada came to Vancouver chasing a first men's World Cup win in their history, and they did not merely find it: they buried Qatar under it. The Canada vs Qatar World Cup 2026 result was 6-0, a scoreline that reads like a mismatch and, for long stretches, looked like one, with Jonathan David scoring a hat trick that ended his goal drought and rewrote the page that Canadian men's football had been waiting forty years to write. Yet the night carried a darker thread too, a sickening leg injury to Ismael Kone that drained the celebration of some of its joy and turned a coronation into something more complicated. This is the story of how the co-hosts turned a milestone into a rout, and why the final margin tells only part of the truth.
 
-![Canada vs Qatar World Cup 2026 result and player ratings as Jonathan David scores a hat trick - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Canada vs Qatar World Cup 2026 result and player ratings as Jonathan David scores a hat trick - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The single sentence that explains the evening is this: Canada were clinical at last, and Qatar fell apart. The co-hosts had created and squandered chances against Bosnia and Herzegovina in their opener, a 1-1 draw rescued late by Cyle Larin, and the criticism that followed centered on a forward line that could not finish. Against Qatar, the finishing arrived, David's most of all, and once the first goal went in the discipline that had made Qatar so hard to break down against Switzerland simply collapsed. Two Qatar red cards, the second of them the foul that broke Kone's leg, left the Asian champions playing the final forty minutes with nine men and no route back into a game that was already gone.
 

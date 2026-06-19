@@ -6,15 +6,15 @@ date: 2026-06-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "England", "Croatia", "Group Stage", "Match Analysis"]
 excerpt: "England vs Croatia at World Cup 2026 ended 4-2 as a Harry Kane brace and a full-gas second-half restart settled a chaotic, six-goal Group L opener in Dallas."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-18
+lang: en
 ---
-
 England vs Croatia at World Cup 2026 was supposed to be a measured reintroduction to a familiar foe. It was nothing of the sort. England beat Croatia 4-2 at AT&T Stadium in Arlington, Texas, in a Group L opener that swung four times before half time and then tilted decisively in the ten minutes after the restart. Harry Kane scored twice, Jude Bellingham and Marcus Rashford added the others, and Croatia replied through Martin Baturina and Petar Musa before England's second-half intensity put the game beyond them. The single thing that explains this result is not the scoreline, eye-catching as it is. It is what Thomas Tuchel's side did in the first twelve minutes of the second half: they raised the tempo to a level Croatia could not match, and the game broke under the pressure.
 
-![England vs Croatia World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![England vs Croatia World Cup 2026 analysis](/assets/images/blog/blog-03.webp)
 
 This was a match of two distinct England teams stitched together at the interval. The first was nervous and jittery, conceding from each of Croatia's first two shots on target and surviving on the quality of its set-piece delivery and the ruthlessness of its captain. The second was relentless, pinning Croatia inside their own box and forcing Dominik Livakovic into a sequence of saves that briefly kept the contest alive long after it had stopped being competitive on the balance of play. By full time the disparity in territory, chance creation, and shots told a clearer story than the 4-2 read on the scoreboard. England had won the game twice over in terms of opportunities created, even if their defending in the opening 45 minutes gave Tuchel a long list of things to fix before they face Ghana.
 

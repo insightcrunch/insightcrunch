@@ -6,15 +6,15 @@ date: 2026-06-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Mexico", "South Korea", "Group Stage", "Match Preview"]
 excerpt: "Mexico vs South Korea World Cup 2026 preview and prediction: predicted lineups, head to head, the suspension that reshapes El Tri, and the fight to top Group A."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-18
+lang: en
 ---
-
 Group A arrives at its defining night with both Mexico and South Korea sitting on three points, and the question that frames the Mexico vs South Korea World Cup 2026 meeting in Guadalajara is simple to state and hard to answer: which of the group's two opening winners walks away controlling the table? Two teams who took maximum points from matchday one now meet with first place, and the cleaner path through the new Round of 32, riding on ninety minutes at Estadio Akron. This is not a survival match for either side. It is a positioning match, and in a tournament where the bracket you fall into can matter as much as the points you bank, positioning is its own prize.
 
-![Mexico vs South Korea World Cup 2026 preview, predicted lineups and Group A stakes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mexico vs South Korea World Cup 2026 preview, predicted lineups and Group A stakes - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The tension that defines this fixture is sharper than a generic top-of-the-table billing suggests, because a late red card in Mexico's opener has quietly rewritten the home side's plan. Cesar Montes, the vice-captain and a fixed point in Javier Aguirre's central defense, was dismissed in stoppage time against South Africa and serves a one-match ban here. Into that gap steps Edson Alvarez, a midfielder by trade pressed into the back line, and the seam he leaves behind is exactly the kind of space Son Heung-min has built a career attacking. Call it the Montes vacancy: the single question of whether Mexico's reshaped central defense can hold its shape against South Korea's runners, and whether the hosts can smother Korea's transitions before they ever begin, is the thread that runs through this entire preview.
 

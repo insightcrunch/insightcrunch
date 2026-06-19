@@ -6,15 +6,15 @@ date: 2026-06-19
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Mexico", "South Korea", "Group Stage", "Match Analysis"]
 excerpt: "Mexico vs South Korea World Cup 2026 ended 1-0 as Luis Romo pounced and Raul Rangel's late double save sent the co-hosts top of Group A and into the last 32."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-19
+lang: en
 ---
-
 Two goalkeepers decided Mexico vs South Korea at World Cup 2026, and they decided it in opposite directions. The co-hosts won 1-0 in Guadalajara on June 18, a result built almost entirely on a single error in one penalty area and a single act of brilliance in the other. Kim Seung-gyu spilled a ball he should have claimed, Luis Romo punished it, and three minutes from time Raul Rangel produced the double save that kept the lead intact and made Mexico the first nation to reach the knockout rounds of this tournament. For long stretches the match looked like a stalemate two careful teams were content to share. It was not the football that decided it. It was the goalkeeping.
 
-![Mexico vs South Korea World Cup 2026 result and analysis with Romo goal and Rangel save - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mexico vs South Korea World Cup 2026 result and analysis with Romo goal and Rangel save - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 That is the frame for everything that follows, and it is the honest one. This was not a night when Mexico imposed a system on South Korea, ground them into submission, and converted dominance into goals. It was a night of fine margins, when control was traded back and forth, chances were rationed, and the difference between top spot and a nervy final matchday came down to two moments separated by thirty-seven minutes and the width of two penalty boxes. The scoreline reads as a clean 1-0, the kind of result tournament sides learn to love, but the truth underneath it is messier and more interesting: the better goalkeeping performance lost, the worse goalkeeping moment won, and the team that gave up the ball for long passages walked away with the points and the group.
 

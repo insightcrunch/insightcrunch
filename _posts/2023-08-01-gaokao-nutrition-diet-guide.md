@@ -6,14 +6,14 @@ date: 2023-08-01
 categories: ["Industry"]
 tags: ["高考", "高考饮食", "考试营养", "补脑食物", "Gaokao Nutrition", "Diet Guide"]
 excerpt: "高考期间吃什么、怎么吃,直接影响考生的专注力、反应速度与临场发挥。本文从大脑的能量需求出发,系统讲解补脑食物的真相、考前一个月的饮食安排、考试周的每日食谱、当天早餐搭配以及常见饮食禁忌,并逐一澄清保健品与所谓高考餐的误区,帮助每个家庭用最朴素的家常饭菜,把孩子的身体和临场状态稳稳护航到最后一科交卷。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "huang-dawei"
+lang: zh
 ---
-
 高考是一场对知识、心理和身体的综合考验。很多家庭把全部精力放在刷题和复习上,却忽略了一个常常决定临场发挥的隐形因素:吃。考前那几周吃得对不对,考试当天早餐安排得合不合理,直接影响着考生在考场上的专注力、反应速度和情绪稳定。作为长期研究高考备考的教育工作者,我见过太多平时成绩稳定的孩子,因为考试期间饮食出了问题,在最关键的两天里状态全无。也见过一些懂得科学吃饭的家庭,用最朴素的饭菜,帮孩子稳稳地把状态保持到了最后一科交卷。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-10.webp)
 *高考饮食营养指南:用科学的一日三餐,为大脑提供稳定的能量*
 
 这篇指南要解决的,正是高考饮食里所有让人纠结的问题。哪些食物真的能"补脑",哪些只是商家包装出来的概念?考前一个月该不该突然改善伙食?考试当天每一场考试之前应该吃什么、吃多少?哪些食物在考试期间绝对要避开?喝水有没有讲究?万一考场上肚子不舒服怎么办?那些被吹得神乎其神的保健品到底要不要买?我会把这些问题一个一个拆开,讲清楚背后的道理,给出可以直接照着做的方案。如果你刚开始接触高考备考的整体安排,建议先读一读[高考完全指南](/2026/03/18/gaokao-complete-guide/),对整个流程有个全局认识,再回来细看饮食这一块。

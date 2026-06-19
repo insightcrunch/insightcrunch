@@ -6,15 +6,15 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "England", "Croatia", "Group Stage", "Match Preview"]
 excerpt: "England vs Croatia World Cup 2026 preview: prediction, lineups, head to head, the 2018 semifinal weight and Group L stakes as Tuchel's side open in Dallas."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-17
+lang: en
 ---
-
 The question that frames England vs Croatia at World Cup 2026 is not who has the better players, because England plainly do, and it is not who carries the heavier history, because both arrive with scars from the same wound. The question is whether a young, deep, expensively assembled England side can impose its quality early enough to bury a Croatia team that has spent a decade turning patience into punishment. This is a Group L opener in Dallas, and it is the fixture every neutral circled the moment the draw landed, because it reopens the file on Moscow in 2018 and asks whether eight years have shifted the balance for good. England are among the favorites for the whole tournament. Croatia are the side that has made a habit of ending English summers. Wednesday tells us which of those truths still holds.
 
-![England vs Croatia World Cup 2026 preview and prediction in Dallas - Insight Crunch](/assets/images/blog/blog-01.webp)
+![England vs Croatia World Cup 2026 preview and prediction in Dallas - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The honest answer to the fixture's tension lies in one specific patch of grass, and naming it early is the spine of this preview: the yards behind Croatia's midfield, the transition channel that opens in the seconds after a Croatian attack breaks down. Luka Modric is 40 and Mateo Kovacic is returning from injury, and the ground those two could once cover in recovery is the ground England's pace will hunt. If England win the second ball and break into that channel with Bukayo Saka and Marcus Rashford running at retreating full-backs, they will create the chances that decide this. If Croatia control the tempo, keep the ball away from that channel, and drag the game into the slow, technical rhythm they prefer, the gap in raw quality shrinks to almost nothing. That is the match. Everything else is detail in service of it.
 

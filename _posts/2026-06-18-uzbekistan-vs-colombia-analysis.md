@@ -6,17 +6,17 @@ date: 2026-06-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Uzbekistan", "Colombia", "Group Stage", "Match Analysis"]
 excerpt: "Uzbekistan vs Colombia result and analysis: Colombia won 3-1 at World Cup 2026, but the expected goals say the debutants pushed them far closer than that."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-18
+lang: en
 ---
-
 Colombia beat Uzbekistan 3-1 at World Cup 2026, and the cleanest way to read the night is to hold two numbers next to each other and refuse to let either one lie. The scoreboard at the Estadio Azteca in Mexico City said 3-1, a comfortable margin, a seasoned CONMEBOL side seeing off tournament debutants without alarm. The expected-goals figure said 1.61 to 1.14, a contest decided by a handful of moments rather than by suffocation. Both are true. The story of Uzbekistan vs Colombia lives in the gap between them, and that gap is where Nestor Lorenzo's team won a game they controlled for territory but never put to bed until the ninth minute of stoppage time.
 
 That is the spine of this analysis: the 3-1 both flattered and undersold Colombia at the same time, and you only understand the match when you accept that contradiction rather than resolve it. It flattered them because for roughly eighty minutes this was a one-goal game that a single Uzbek moment kept threatening to level. It undersold them because Colombia owned the ball, the field, and the better chances from the first whistle, and the final goal that stretched the score arrived precisely because Uzbekistan had thrown bodies forward in search of an equalizer they were entitled to chase.
 
-![Uzbekistan vs Colombia World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Uzbekistan vs Colombia World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 This was the twenty-fourth match of the tournament and the last of the forty-eight teams to begin their campaigns, a Group K opener that had already been reshaped before kickoff. Earlier in the day, in Houston, DR Congo had held Portugal to a 1-1 draw, a result that cracked the group open and handed Colombia a clear incentive: win, and top Group K outright after matchday one. They did, but the manner of it, and the fact that Uzbekistan scored the first World Cup goal in their history along the way, gave the evening a texture that a glance at the table will miss entirely. What follows is the full account, in sequence, with the tactical reasons, the ratings, the numbers, and the implications laid out so the result reads as more than a line in a standings grid.
 

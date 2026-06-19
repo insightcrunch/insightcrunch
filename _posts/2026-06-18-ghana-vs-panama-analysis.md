@@ -6,15 +6,15 @@ date: 2026-06-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Ghana", "Panama", "Group Stage", "Match Analysis"]
 excerpt: "Ghana vs Panama result and analysis: how Caleb Yirenkyi's dramatic 95th-minute winner sealed a chaotic 1-0 World Cup 2026 Group L win that boiled over late."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-18
+lang: en
 ---
-
 Ghana won this game in the last act of a match they had barely controlled, and that gap between deserving and winning is the whole story of Ghana vs Panama at World Cup 2026. For ninety-four minutes Panama were the better-organized side, the calmer side on the ball, and the side that looked likelier to claim the point that would have been the first they have ever earned at a World Cup. Then, in the fifth minute of second-half stoppage time at a rain-soaked BMO Field in Toronto, Caleb Yirenkyi turned in a low cross from Brandon Thomas-Asante, the bench emptied, the corner flags shook, and a contest that had been heading nowhere suddenly delivered a 1-0 result and a brawl. The Black Stars did not master Panama. They outlasted them.
 
-![Ghana vs Panama World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ghana vs Panama World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 That distinction matters because it explains both why Carlos Queiroz could walk off with three points and why Thomas Christiansen was entitled to feel his side had been robbed of something they earned. This was not a smash-and-grab in the cynical sense, because Ghana kept asking the question right to the whistle, but it was a result that ran ahead of the run of play across the opening hour. The single thing that decided the night was persistence rather than control: Ghana never built a platform of sustained dominance, yet they kept committing bodies forward late and kept practicing the very pattern that eventually broke Panama, and one repetition too many for the Central Americans to survive ended their resistance at the death.
 

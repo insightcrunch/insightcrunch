@@ -6,15 +6,15 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Ghana", "Panama", "Group Stage", "Match Preview"]
 excerpt: "Ghana vs Panama World Cup 2026 preview: predicted lineups, the transition battle that decides Group L's outsider duel, key players and our score pick."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-17
+lang: en
 ---
-
 Group L was always going to be sorted into two conversations. One is about England and Croatia, the European pair the bracket expects to carry the section. The other is about Ghana and Panama, two sides who looked at the same draw and saw a different opportunity, because when these two meet at Toronto's BMO Field on June 17, the loser does not simply drop a game. The loser is left needing a result against one of the group favorites to stay alive, and that is a far harder errand than the ninety minutes in front of them now. Ghana vs Panama at World Cup 2026 is the quiet pivot of the group, the fixture that decides which outsider walks into the rest of the tournament with belief and which one walks in chasing a miracle.
 
-![Ghana vs Panama World Cup 2026 preview, predicted lineups and Group L prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ghana vs Panama World Cup 2026 preview, predicted lineups and Group L prediction - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 That framing is not a slight on either nation. It is the honest math of a group that contains a former World Cup champion and the side that finished third at the last tournament. Ghana and Panama are not here to make up the numbers, and both have said as much, but the structure of Group L hands their head-to-head an outsized weight. Win it, and a route opens. Lose it, and the route narrows to the width of a tightrope. This preview lays out exactly what each side brings, who is fit and who is not, the tactical question the match poses, and a prediction with the reasoning behind it, all built from what is knowable before kickoff.
 

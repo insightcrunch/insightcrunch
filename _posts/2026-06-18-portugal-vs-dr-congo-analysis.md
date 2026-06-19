@@ -6,15 +6,15 @@ date: 2026-06-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Portugal", "DR Congo", "Group Stage", "Match Analysis"]
 excerpt: "Portugal vs DR Congo result, player ratings and analysis: how DR Congo earned a historic 1-1 World Cup 2026 draw as Cristiano Ronaldo was left frustrated."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-06-18
+lang: en
 ---
-
 The Portugal vs DR Congo World Cup 2026 opener finished 1-1, and the scoreline is the smallest part of the story. Portugal had the ball for roughly three-quarters of the afternoon, passed it more than five hundred times, and walked off NRG Stadium in Houston with one point and a long list of questions. DR Congo, back at a World Cup for the first time in fifty-two years, walked off with their first goal in tournament history, their first point, and a performance that will be studied across the group. This was not a heavyweight stumbling into a soft draw. This was a debutant-era side executing a plan, and the plan worked.
 
-![Portugal vs DR Congo World Cup 2026 result and player ratings analysis as Yoane Wissa earns the Leopards a historic point - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Portugal vs DR Congo World Cup 2026 result and player ratings analysis as Yoane Wissa earns the Leopards a historic point - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The single claim this article makes, and defends, is simple: this was the point DR Congo earned, not the point Portugal dropped. Those two framings sound similar and mean opposite things. The first credits Sebastien Desabre's organization, his compact five-man defensive line, his planned set piece, and the discipline that turned eighty percent possession into almost nothing dangerous. The second blames Roberto Martinez's profligacy and treats DR Congo as bystanders to a Portuguese off day. The evidence on the pitch points firmly to the first reading. Portugal were tidy without being penetrating, and they were tidy because DR Congo made them tidy, funneling the ball into the areas where a touch more passing does the least harm. Profligacy was a factor. It was not the factor.
 

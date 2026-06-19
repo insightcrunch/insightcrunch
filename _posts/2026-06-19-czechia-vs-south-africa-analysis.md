@@ -6,15 +6,15 @@ date: 2026-06-19
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Czechia", "South Africa", "Group Stage", "Match Analysis"]
 excerpt: "Czechia vs South Africa result and analysis: Teboho Mokoena's late penalty rescued a 1-1 draw at World Cup 2026, leaving Group A wide open before the finale."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-06-19
+lang: en
 ---
-
 Czechia and South Africa met in Atlanta needing a winner and produced the opposite: a 1-1 draw that keeps both World Cup 2026 campaigns breathing without giving either side anything close to the control it came for. Michal Sadilek struck inside six minutes, the earliest goal of the tournament to that point, and for seventy-seven minutes that lead looked like it might be enough. Then a substitute's shot found Pavel Sulc's arm in the box, Teboho Mokoena stepped up in the 83rd minute, and the equalizer that arrived was the kind that rearranges a group without resolving it. The single fact that explains this match is not the penalty. It is the seventy minutes between the goals, when Czechia stopped playing and South Africa slowly remembered how to.
 
-![Czechia vs South Africa World Cup 2026 result and analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Czechia vs South Africa World Cup 2026 result and analysis - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 This is the Insight Crunch analysis of Czechia versus South Africa at World Cup 2026: how the game was actually decided, who earned their rating and who did not, the turning points that mattered more than the scoreline suggests, and the qualification math that now governs both nations heading into the final round of Group A. It is the companion piece to our pre-match read, the [Czechia vs South Africa preview](/2026/06/18/czechia-vs-south-africa-preview/), which set the fixture up as a must-win for two sides reeling from opening defeats. The prediction there leaned toward a tight, low-scoring Czech edge built on set-pieces. The set-piece arrived on schedule. The edge did not survive contact with the second half.
 

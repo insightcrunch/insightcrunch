@@ -6,15 +6,15 @@ date: 2026-06-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Czechia", "South Africa", "Group Stage", "Match Preview"]
 excerpt: "Czechia vs South Africa World Cup 2026 preview: prediction, predicted lineups, suspensions and the Group A survival math after both sides lost their openers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-06-18
+lang: en
 ---
-
 Two teams walked off the pitch on the opening weekend of World Cup 2026 carrying the same problem, and on Thursday afternoon in Atlanta they hand it to each other. Czechia vs South Africa is the second Group A fixture for both nations, and it arrives with a single question hanging over every minute: which of these sides can drag a stalled tournament back to life before it is too late. Czechia lost their opener to South Korea. South Africa lost theirs to Mexico, and finished with nine men. Both sit on zero points, both need a result, and only one of them can leave Mercedes-Benz Stadium with the win that keeps a clean knockout path open. This is not a match either manager wanted to find himself in. It is the match that now defines their summers.
 
-![Czechia vs South Africa World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Czechia vs South Africa World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The bracket math is brutal in its simplicity. A first-round defeat is survivable in a 48-team World Cup where eight of the twelve third-placed teams advance, but a second straight defeat is, for all practical purposes, fatal. The loser here drops to a near-certain elimination with one game left and a points total no third-placed permutation rescues. The winner climbs back into contention and walks into the final round of Group A games with destiny at least partly in its own hands. A draw helps the watching neutral more than either dugout, because it keeps two sides alive on a single point and solves nothing about the table. That is the spine of this preview: the survival match inside Group A, and the specific tactical and selection questions that will decide who survives it.
 

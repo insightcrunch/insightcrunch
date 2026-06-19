@@ -6,15 +6,15 @@ date: 2026-06-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Canada", "Qatar", "Group Stage", "Match Preview"]
 excerpt: "Canada vs Qatar World Cup 2026 prediction, predicted lineups, team news and head-to-head, with the Group B stakes as the co-hosts chase their first win."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-06-18
+lang: en
 ---
-
 Can Canada finally win a match at a World Cup, and can they do it at home, on the night it matters most? That is the single question Canada vs Qatar at World Cup 2026 puts on the table in Vancouver, and everything about the fixture flows from it. Canada arrive at BC Place with one point from their opener and a forty-year wait for a first World Cup victory still unbroken. Qatar arrive as the surprise of Group B, having taken a point off Switzerland when almost nobody expected it. The co-hosts are favoured, heavily, and a win would all but settle their place in the Round of 32. But a tournament debut is full of nights when the favoured side cannot find the one pass that breaks a packed defence, and Qatar are built precisely to make that night happen.
 
-![Canada vs Qatar World Cup 2026 preview at BC Place in Vancouver](/assets/images/blog/blog-01.webp)
+![Canada vs Qatar World Cup 2026 preview at BC Place in Vancouver](/assets/images/blog/blog-19.webp)
 
 This is the second of three Group B fixtures for each side, and it lands in a group where every team is level. The opening round produced two draws, Canada holding Bosnia and Herzegovina and Qatar holding Switzerland, so all four nations sit on a single point with goal difference and fair-play conduct the only thing separating them. That symmetry is what gives the Vancouver meeting its weight. The winner does not merely move up a place; they put real daylight between themselves and the chasing pack, and they shift the entire arithmetic of the final round. For Canada, playing a second straight match in front of a home crowd, the chance is obvious and the pressure is just as plain. For Qatar, a second point would be a statement that their opening night was no fluke, and a defeat would leave the Asian champions needing to beat Bosnia on the final day to keep their tournament alive.
 

@@ -6,14 +6,14 @@ date: 2023-08-09
 categories: ["Industry"]
 tags: ["高考语文", "语言文字运用", "语用题", "成语辨析", "病句修改", "Gaokao Chinese", "Language Application"]
 excerpt: "高考语文语用题完全攻略,系统拆解病句六大类型与六步辨析法,逐一讲透扩展、压缩、仿写、变换四类语言表达题,梳理得体题敬辞谦辞、图文转换三步法、修辞分析三段式模板,以及新高考越来越常见的补写句子与情境化综合题,附上七大题型答题模板速查和常见失分点提醒,带你把这看似散装零碎却最讲规律的十五分,稳稳拿到手。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "feng-lei"
+lang: zh
 ---
-
 高考语文试卷里,有一个模块常被考生戏称为"散装题":题型零散,考点跳跃,今天考成语,明天考病句,后天又冒出一张漫画让你写解说词。这就是语言文字运用,简称语用。很多人对它又爱又怕。爱,是因为它总分大约十五分,题目往往不长,答起来不像作文那样动辄半小时;怕,是因为它看似没有套路,东一榔头西一棒子,复习起来无从下手。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-35.webp)
 *高考语文语用模块七大题型与答题模板全景图*
 
 作为一名研究中国基础教育多年的资深教育专家,我想先纠正一个普遍的误解。语用题绝不是杂乱无章的大杂烩,恰恰相反,它是整张语文试卷里规律性最强、最容易拿到稳定分数的板块。现代文阅读会因为文本难度起伏,作文会因为审题立意而拉开差距,但语言文字运用的每一种题型,背后都站着一套清晰可循的解题逻辑。把这些逻辑拆开,你会发现所谓的"散装",不过是七八个独立的小模块拼在一起,每个模块都有自己的判断标准和答题模板。
