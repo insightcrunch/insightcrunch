@@ -6,13 +6,13 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Austria", "Jordan", "Group J", "Match Analysis", "Football"]
 excerpt: "Austria vs Jordan result and analysis: how Rangnick's side came from behind to win 3-1 as fearless debutants pushed the favorites hard at World Cup 2026."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-06-17
+lang: en
 ---
-
-![Austria vs Jordan World Cup 2026 result and analysis with player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Austria vs Jordan World Cup 2026 result and analysis with player ratings - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The Austria vs Jordan result at World Cup 2026 reads, in the cold print of a group table, like a comfortable evening for a European side returning to the biggest stage. Austria 3, Jordan 1. A first World Cup win in thirty-six years. Three points in the bank in a tricky Group J. Yet anyone who watched the ninety-plus minutes at the San Francisco Bay Area Stadium in Santa Clara knows that the scoreline tells a story the match itself spent long stretches refusing to confirm. For most of this game, the tournament debutants from the Asian confederation were the braver side, the more inventive side, and for a glorious half-hour after the interval, the side that looked likeliest to author one of the opening round's signature shocks.
 

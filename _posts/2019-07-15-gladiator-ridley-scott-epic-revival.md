@@ -6,15 +6,15 @@ date: 2019-07-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Gladiator", "Ridley Scott", "Historical Epic", "World Cinema", "Film History"]
 excerpt: "Gladiator revived the historical epic through digital crowds and a lean revenge arc, reopening Hollywood while wuxia cinema reinvented the form abroad."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-07-15
+lang: en
 ---
-
 By the late 1990s the historical epic was treated in Hollywood as a relic. The big Roman pictures, the sandal-and-sword spectacles that once anchored studio prestige, had been dead for the better part of three decades, abandoned after a run of bloated, money-losing productions soured the form for a generation of executives. Then a betrayed Roman general was enslaved, thrown into the arena, and made to fight his way back toward the emperor who destroyed his family. Gladiator arrived in the spring of 2000, and within a single release it did something the industry had assumed impossible: it brought the dead genre back, proved it could earn, and handed Hollywood a working template for the historical film that the next decade would copy without quite equaling.
 
-![Gladiator and the revival of the historical epic](/assets/images/blog/blog-01.webp)
+![Gladiator and the revival of the historical epic](/assets/images/blog/blog-95.webp)
 
 This article reads Gladiator not as a story to recap but as a movement event. The lens is movement and national-cinema context: where a form sat, what one film did to it, and how that revival reads against the epic traditions being reinvented elsewhere in the same years. The central argument is simple and defensible. Gladiator updated the old historical spectacle with two specific things, digital crowds and arenas that solved the old form's ruinous cost problem, and a lean revenge story that solved its old problem of bloat, and in doing so it reopened the studios to the big period picture. That is the namable claim this piece advances and defends: the epic brought back to life through digital spectacle married to a stripped, propulsive arc.
 

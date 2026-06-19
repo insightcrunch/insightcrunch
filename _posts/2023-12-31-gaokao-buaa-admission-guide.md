@@ -6,14 +6,14 @@ date: 2023-12-31
 categories: ["Industry"]
 tags: ["高考", "北京航空航天大学", "录取分数线", "北航", "Beihang", "985"]
 excerpt: "北京航空航天大学是国内航空航天领域的领军高校,也是国防科技工业的重要人才基地。本文全面解析北航的录取分数线位次规律、航空航天与计算机材料等优势学科、高等工程学院与中法工程师学院两大精英实验班,以及强基计划、博雅计划等六大招生通道、保研出国比例与校友职业去向,帮助考生判断考北航需要多少分,以及自己是否适合这所工科名校。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "zhao-lina"
+lang: zh
 ---
-
 每年高考志愿填报季,总有大批分数优秀、对理工科怀有热情的考生把目光投向北京海淀区学院路上的那所工科名校。北京航空航天大学,简称北航,是国内航空航天领域当之无愧的领头羊,也是国防科技工业人才培养的重要基地。它既不像清华那样追求学科的全面覆盖,也不像综合性大学那样文理并重,而是以鲜明的航空航天底色和深厚的工程师传统,在中国高等教育版图上占据了一个无可替代的战略位置。对于一名立志投身飞行器设计、宇航工程、计算机科学或先进材料的高三学子来说,理解北航的录取规律、学科格局和培养特色,往往是规划未来的第一步。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-24.webp)
 *北京航空航天大学录取分数线、优势学科与招生通道全面解析*
 
 本文将系统梳理北航的办学定位、分数线位次、学院与学科布局、六大招生通道、高等工程学院与中法工程师学院两大精英实验班,以及保研出国比例和校友职业去向。无论你是想弄清楚考北航究竟需要多少分,还是想判断自己是否适合这所学校,都能在这里找到尽可能详尽的答案。如果你还没有建立起对名校录取格局的整体认识,建议先阅读[名校录取分数全解析](/2025/11/26/gaokao-top-universities-admission/),再回到本文深入了解北航这一所具体院校。

@@ -6,17 +6,17 @@ date: 2024-06-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Obsession", "Idealization", "Themes", "Jay Gatsby", "Close Reading"]
 excerpt: "Obsession and idealization in The Great Gatsby: how Gatsby loves an image of Daisy, not a person, why the dream is built to fail, and how to write about it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-06-10
+lang: en
 ---
-
 The strongest claim this article defends is simple to state and hard to accept: obsession and idealization in The Great Gatsby is not a love story gone wrong but a love story that was never aimed at a real person in the first place. Gatsby does not lose Daisy because Tom is richer or because the timing is cruel. He loses her because the woman he wants has been built in his own head over five years of longing, polished past the point where any living person could match her. The theme that runs under the novel's romance is the human habit of worshipping an image and then blaming reality for failing to be that image. Read this way, the book stops being sad about a broken couple and becomes precise about a psychological trap that catches more than one character.
 
 That distinction matters because most readers, and most study guides, treat Gatsby's feeling for Daisy as devotion: steady, romantic, almost noble. The novel itself keeps quietly correcting that reading. Fitzgerald hands Nick the language to name what is really happening, and the language is never the language of love between equals. It is the language of dreams, illusions, enchantment, and projection. Once you start tracking those words, the romance reorganizes itself into a study of obsession, and the green light at the end of the dock stops being a symbol of hope and starts looking like a symbol of a man in love with a thing he can see but never reach.
 
-![The Great Gatsby obsession and idealization analysis](/assets/images/blog/blog-01.webp)
+![The Great Gatsby obsession and idealization analysis](/assets/images/blog/blog-98.webp)
 
 This is a theme analysis, which means it traces one idea across the whole novel rather than walking through the plot. It belongs to a cluster: the broader treatment of [love and desire in The Great Gatsby](/2024/06/03/love-desire-great-gatsby/) is the hub this article branches from, and the specific pairing gets its full anatomy in the study of [Gatsby and Daisy's obsession](/2023/11/20/gatsby-and-daisy-obsession/). What this piece owns, and what it will defend with passage after passage, is the mechanism itself: how idealization works, why it guarantees disappointment, and why naming it changes how the ending lands.
 ## What Obsession and Idealization Mean in The Great Gatsby

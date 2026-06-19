@@ -6,14 +6,15 @@ date: 2024-07-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Self-Invention", "Themes", "Jay Gatsby", "Close Reading", "American Literature"]
 excerpt: "Self-invention and reinvention in Gatsby remake James Gatz into Jay Gatsby, a new self built on an erased past that proves brilliant but finally doomed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-07-15
+lang: en
 ---
-
-
 Jay Gatsby is not a man so much as a project. The dazzling host of West Egg, the owner of the blue gardens and the yellow car, the figure who reaches toward a green light across the water, did not arrive in the world fully formed. He was made, deliberately and against the grain of his origins, by a boy named James Gatz who decided that the life he was born into would not be the life he kept. To study self-invention and reinvention in Gatsby is to study that decision and everything it costs, because the novel's most famous character is also its clearest argument about whether a person can author a wholly new self and survive the writing.
+
+![Self-Invention and Reinvention in Gatsby - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The argument the book makes is sharper than the myth it is usually mistaken for. Readers tend to file Gatsby under inspiration, a striver who dreamed big and almost made it, and they read his reinvention as the heroic part of the story, the part the tragedy happens to rather than the part that causes it. That reading is comfortable and it is wrong. Fitzgerald does not present remaking the self as a triumph spoiled by bad luck. He presents it as a structure with a flaw built into its foundation, an act that requires destroying the very thing it needs in order to stand. The new man is brilliant precisely because he is invented, and he is doomed precisely because he is invented, and those are not two facts but one.
 
@@ -284,5 +285,4 @@ The cost is the erased original and everything attached to it, paid in full at t
 ### Q: What evidence best supports a self-invention essay?
 
 The three strongest pieces of evidence are the name change, the boyhood schedule, and the Plaza confrontation, because together they show the invention being built and unbuilt. The Chapter 6 account of James Gatz springing from a Platonic conception of himself establishes the erasure and the ambition in Fitzgerald's own loaded diction. The boyhood schedule, with its programmatic self-improvement and its poignant resolve to be better to parents, proves the invention began in childhood and carried the seed of its later denial. The Plaza scene, where Tom exposes the persona and the buried past returns, demonstrates the collapse the method made inevitable. Build the essay on those three, conceding the empowering reading and then defeating it, and the argument that reinvention is doomed by its own erasure will rest on the novel's most decisive moments.
-
 

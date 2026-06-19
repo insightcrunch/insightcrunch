@@ -6,15 +6,15 @@ date: 2026-06-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Austria", "Jordan", "Group Stage", "Match Preview"]
 excerpt: "Austria vs Jordan World Cup 2026 preview: prediction, predicted lineups, head to head and the Group J stakes as Rangnick pressers meet fearless debutants."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-16
+lang: en
 ---
-
 The single question that hangs over Austria vs Jordan at World Cup 2026 is not whether the higher-ranked side can win, but whether a debutant nation arriving with nothing to lose can drag a cautious, pressing European team into the kind of open, transitional game that has undone bigger names than Ralf Rangnick's Austria. This is a Group J opener that looks one-sided on the ranking sheet and is anything but simple in practice. Austria are back at the World Cup for the first time since 1998, carrying the weight of a generation that was supposed to arrive here years ago. Jordan walk out for the first match in their history, free of expectation and armed with a counter-attacking plan built to punish exactly the high line Rangnick demands. The gap in pedigree is wide. The gap in motivation is not, and that is where this fixture gets interesting.
 
-![Austria vs Jordan World Cup 2026 preview, prediction and Group J stakes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Austria vs Jordan World Cup 2026 preview, prediction and Group J stakes - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 For Austria, this is the game they cannot afford to treat as a formality. The bracket has handed them defending champions Argentina in the same group, which means the realistic competition for a knockout place runs through Algeria and through this meeting with Jordan. Drop points to the debutants and the math turns hostile before the tournament has properly started. For Jordan, the brief is the opposite and strangely liberating: stay in the match, frustrate a side that wants the ball high up the pitch, and trust that one moment from Musa Al-Taamari or Ali Olwan can turn a historic afternoon into a historic result. The fixture poses a clean tactical question, and the answer decides who controls the early shape of Group J.
 

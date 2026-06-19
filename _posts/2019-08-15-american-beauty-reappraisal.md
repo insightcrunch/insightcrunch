@@ -6,13 +6,15 @@ date: 2019-08-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "American Beauty", "Sam Mendes", "Reappraisal", "Oscar Best Picture", "Suburban Cinema", "1990s Films"]
 excerpt: "American Beauty swept the 1999 Oscars and then watched its standing crack. A study of acclaim that inverted, and how it measures up against world cinema."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2019-08-15
+lang: en
 ---
-
 Few films have traveled as far from where they began as American Beauty. On a March night in 2000, Sam Mendes stood on the stage of the Shrine Auditorium and accepted the Academy Award for Best Picture, the climax of a sweep that handed his first feature five Oscars and crowned it the defining American picture of its year. Two decades later the same picture turns up on lists of the most overrated movies ever made, its central fantasy treated as an embarrassment and its leading man a figure most viewers would rather not watch at all. The distance between those two positions is the subject of this article. A reputation can rise to the summit of an industry's esteem and then fall almost out of view, and the story of how that happened to one celebrated movie tells us something durable about how reputations work and how provisional our certainties about art turn out to be.
+
+![American Beauty: Why Its Reputation Inverted - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 The reappraisal of American Beauty is not a single event with a single cause. It is a slow inversion built from several pressures arriving at different moments: a shift in critical taste that began to find the film's satire glib, a reassessment of its core premise about a middle-aged man's longing for a teenage girl, and the allegations against its lead actor that broke in late 2017 and recolored every frame he appears in. Reading the work through the lens of its changing standing means treating reception itself as a process that unfolds over years rather than a verdict delivered once and filed away. It also means setting the picture against the wider tradition of films that have dissected middle-class discontent, because American Beauty was the celebrated American entry in a conversation that cinemas around the world have been having for half a century, and its fate is a reminder that the entry a culture rewards in one moment it may interrogate in the next.
 

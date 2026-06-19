@@ -6,15 +6,15 @@ date: 2019-07-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "L.A. Confidential", "Curtis Hanson", "Neo-Noir", "Film Adaptation", "James Ellroy", "Crime Cinema"]
 excerpt: "L.A. Confidential compresses James Ellroy's sprawling novel into a tight neo-noir, reviving classic noir style with full period craft rather than parody."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-07-01
+lang: en
 ---
-
 When Curtis Hanson and Brian Helgeland sat down to turn James Ellroy's 1990 crime novel into a feature, they faced a problem most writers would have called impossible. The book ran hundreds of pages, covered most of a decade, and braided together dozens of characters across a web of plots so dense that Ellroy himself assumed no studio would ever crack it. The central decision that produced L.A. Confidential was not how to be faithful. It was what to throw away. Hanson and Helgeland boiled an enormous narrative down to three policemen and one convergent case, and that single act of compression is the reason the picture works. The craft of the adaptation lives in the cutting, not the keeping.
 
-![L.A. Confidential (1997), directed by Curtis Hanson](/assets/images/blog/blog-01.webp)
+![L.A. Confidential (1997), directed by Curtis Hanson](/assets/images/blog/blog-12.webp)
 
 This article reads L.A. Confidential as an adaptation under pressure: a study in how a sprawling, near unfilmable source becomes a tight, propulsive neo-noir without losing the moral murk and period texture that made the original worth filming. The argument running through every section is a single claim. L.A. Confidential compresses Ellroy's gigantic novel into a lean crime story that revives classic noir with full period craft rather than parody, and in doing so it offers a model of how to adapt a book that resists adaptation. Selection, not completeness, is the heart of the achievement. The chapters below trace what the writers cut, what they merged, what they invented, and why each choice serves the revival of a style that had been treated as a museum piece for forty years.
 

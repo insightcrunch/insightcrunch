@@ -6,15 +6,15 @@ date: 2024-07-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Illusion and Reality", "Themes", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "Illusion vs reality in The Great Gatsby read as the engine of the book: every dream laid over a harder fact, and the plot that closes the gap between them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-07-01
+lang: en
 ---
-
 The question of illusion vs reality in great gatsby is not a side theme you can isolate in one chapter and tick off. It is the machinery the whole book runs on. Every major element of the story is an illusion laid over a harder reality: money laid over crime, glamour laid over emptiness, an idealized image laid over an ordinary woman, a green light laid over a dock and a marriage. Fitzgerald builds the novel as a gap, and the plot is the slow, painful closing of that gap until the illusions can no longer hold and the reality they concealed comes through.
 
-![Illusion vs reality in The Great Gatsby explained, the gap between dream and fact - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Illusion vs reality in The Great Gatsby explained, the gap between dream and fact - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 Read that way, The Great Gatsby stops being a tragic love story and becomes something colder and more exact: an anatomy of self-deception. The book is interested in the precise distance between what its characters believe and what is true, and in how long that distance can be sustained before something breaks. This is why the novel rewards the close reader who tracks the theme rather than the casual reader who tracks the romance. The romance is itself one of the illusions the book takes apart.
 

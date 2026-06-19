@@ -6,17 +6,17 @@ date: 2024-07-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Appearance and Identity", "Themes", "Close Reading", "American Literature"]
 excerpt: "Appearance and identity in Great Gatsby is the theme where surface stops expressing the self and starts replacing it, until little authentic self remains."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-07-08
+lang: en
 ---
-
 The argument Fitzgerald makes about appearance and identity in Great Gatsby is sharper than the usual classroom summary admits. The novel does not simply say that people put on a front, or that the rich hide behind their money. It says something colder: that for these characters appearance has stopped expressing who they are and started standing in for who they are. The surface is not a mask laid over a face. It has become the face. A reader who treats this as a lesson about vanity will miss the structural claim underneath, which is that the self in this book is something the characters perform into existence and then cannot find again when the performance fails.
 
 That claim is what separates a defensible reading from a list of examples. Gatsby has the mansion, the imported clothes, the borrowed manner, and the rehearsed phrase he repeats to strangers. Myrtle changes her costume and changes her personality with it. Tom carries his body like an argument. Daisy's identity lives in the sound of her voice. Each of them is built outward from a surface, and the novel keeps asking, with increasing pressure, whether anything reliable sits behind the constructed front. The honest answer it arrives at is unsettling, and tracing how it gets there is the work of this analysis.
 
-![Appearance and identity in The Great Gatsby theme analysis, how surface replaces self - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Appearance and identity in The Great Gatsby theme analysis, how surface replaces self - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 ## How the novel defines appearance and identity as a theme
 

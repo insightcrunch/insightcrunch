@@ -6,16 +6,16 @@ date: 2024-06-17
 excerpt: "The past and the repetition of time is the root theme of The Great Gatsby. See how Fitzgerald proves you cannot repeat the past, and how to write about it."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "diana-patel"
 tags: ["The Great Gatsby", "Themes", "Time and the Past", "Close Reading", "Essay Writing", "F. Scott Fitzgerald"]
 reading_time: 47
+lang: en
 ---
-
 The most quoted sentence in American fiction is a sentence about going backward. When Nick Carraway closes his narration with the image of boats beating against a current that carries them relentlessly rearward, he is not decorating the book with a pretty line. He is naming its engine. The past and the repetition of time is the deepest theme in The Great Gatsby, the one from which every other concern in the novel grows, and a reader who grasps it stops seeing a love story or a class study and starts seeing a single, devastating argument about the human refusal to let a vanished moment stay vanished. This guide treats the past and the repetition of time as the root theme of Fitzgerald's novel, the buried spring that drives the green light, the parties, the ruined marriage, and the death at the end of the dock.
 
 Most readings of the book hand you a list. They tell you the novel is about the American Dream, about wealth and class, about love and illusion, about carelessness and decay, as though these sat side by side like exhibits in a case. That list is not wrong, but it is shallow, because it never asks what the items have in common. They have time in common. Each so-called theme is a particular shape taken by one impossible wish: the wish to reach behind you and pull a finished moment forward into the present, intact. Gatsby wants to repeat a Louisville afternoon from 1917. The Dream wants to repeat an older, cleaner promise of self-made grace. The careless rich want their money to repeal consequence so that nothing they break ever finally breaks. Read the book this way and the separate themes resolve into one, the way scattered iron filings snap into a pattern once you slide a magnet beneath the paper.
 
-![A broken mantelpiece clock and a green light over dark water, the twin images of the past and the repetition of time in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![A broken mantelpiece clock and a green light over dark water, the twin images of the past and the repetition of time in The Great Gatsby](/assets/images/blog/blog-103.webp)
 
 ## What the past and the repetition of time means in The Great Gatsby
 

@@ -6,14 +6,14 @@ date: 2023-12-15
 categories: ["Industry"]
 tags: ["高考", "东南大学", "录取分数线", "东大建筑", "Southeast University", "985"]
 excerpt: "东南大学高考录取完全指南:深入解析东大在各省的分数线规律与专业落差、与清华同济天大并称建筑老四校的崇高地位、土木交通电子与生物医学工程等全国领先的优势学科、吴健雄学院与强基计划等多元招生通道,厘清东大与南大同源分流而非一主一备的关系,并为不同分数段的考生提供切实可行的报考策略与备考建议,助力工科考生理性选择。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "xu-meifang"
+lang: zh
 ---
-
 在中国高等教育的版图上,有一所大学长期被一种误解所笼罩:它身处南京,与综合实力顶尖的南京大学比邻而居,于是不少考生和家长想当然地把它当成"考不上南大的退而求其次"。这种印象不仅片面,而且严重低估了这所学校的真正分量。东南大学(简称东南大学)是一所以工科见长的顶尖高校,它的建筑学与清华、同济、天津大学并称国内"建筑老四校",它的土木、交通、电子、生物医学工程等学科常年位居全国前列。把东大理解为南大的"备胎",是对中国工科教育格局的一次误读。本文将系统梳理东大的历史脉络、录取规律、优势学科、招生通道与培养特色,帮助有志于工科方向的考生看清这所学校的真实位置,做出更理性的选择。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-113.webp)
 *东南大学高考录取完全指南:分数线、建筑老四校、吴健雄学院与南京工科传统全面解析*
 
 如果你正在规划整体的备考路线,建议先读一读我们的[高考完全指南](/2026/03/18/gaokao-complete-guide/),把考试结构、评分体系与志愿流程先打通,再来看具体院校的录取分析,理解会更深入。

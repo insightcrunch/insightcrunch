@@ -6,14 +6,14 @@ date: 2023-09-10
 categories: ["Industry"]
 tags: ["高考语文", "诗歌鉴赏", "意象", "唐诗宋词", "Gaokao Chinese", "Poetry"]
 excerpt: "高考诗歌鉴赏究竟怎么学才能稳拿分？本文以资深教育视角，系统讲解古诗词的意象与意境、修辞与表现手法、炼字诗眼与思想感情，梳理唐诗宋词的风格脉络，并按形象、语言、手法、情感、比较五大题型给出可直接套用的答题模板，附常见意象固定含义清单、典型失分点剖析与各分数段的提分路径，帮你把读懂与答好这两关稳稳打通，循序提分。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 64
-author: "Insight Crunch Team"
+author: "yang-bo"
+lang: zh
 ---
-
 在高考语文的所有板块里，古典诗词鉴赏常常被视为最难拿满分、却又最值得下功夫的一块。它分值不算最高，通常在九分上下，可它考查的能力却最综合：你要读懂一首陌生的作品，体会作者藏在字句背后的心绪，辨认出种种含蓄的表达技巧，再用规范的语言把这一切讲清楚。很多同学一看到诗就发怵，觉得它玄之又玄，无从下手；也有人凭着一点语感蒙对几道选择，却始终摸不透主观题的答题门道。其实，古诗词的考查并非无章可循，它背后有一套相当稳定的命题逻辑和答题套路。只要把意象、手法、情感这三条主线理清楚，再配上扎实的训练，这块看似缥缈的内容完全可以变成你的提分高地。本文是面向高中生、家长与一线教师的一份系统梳理，目标是把诗词品鉴讲到通透。建议把它和[高考语文备考指南](/2026/01/29/gaokao-chinese-language-preparation/)以及[高考完全指南](/2026/03/18/gaokao-complete-guide/)对照着读，从全局把握语文备考的节奏。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-116.webp)
 *古诗词鉴赏意象、手法与情感三条主线的系统梳理*
 
 ## 古诗词品鉴在高考语文里的真实位置

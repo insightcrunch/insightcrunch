@@ -6,14 +6,14 @@ date: 2023-12-23
 categories: ["Industry"]
 tags: ["高考", "同济大学", "录取分数线", "同济建筑", "Tongji", "985"]
 excerpt: "同济大学是上海以工科见长的顶尖985高校,本文系统梳理各省录取分数线与位次规律,详解建筑、城乡规划、土木与交通四大王牌学科,剖析源自建校传统的独有中德合作通道,介绍综合评价、强基计划等多元招生路径,并将其与复旦、上海交大、浙江大学逐一对比,帮助考生看清自身匹配度、精准定位目标,科学完成志愿填报与升学规划。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "feng-lei"
+lang: zh
 ---
-
 同济大学是坐落于上海的一所历史悠久的全国重点高校,以工科立校,在建筑、城市规划、土木与交通等领域长期居于国内前沿。它的名字对许多向往工程与设计方向的考生而言,几乎等同于"专业实力"四个字。对于正在研究院校选择的高三家庭来说,真正需要弄清楚的,是这所学校到底强在哪里、录取门槛大致几何、它独有的德国合作传统意味着什么,以及把它放进上海三所顶尖高校的坐标系里又该如何取舍。本文围绕这些核心疑问,系统梳理同济的办学特色与升学路径,帮助你判断它是否契合自己的方向。想先把整体规则框架补齐的读者,可以配合阅读[高考完全指南](/2026/03/18/gaokao-complete-guide/),再回到本篇细看院校层面的内容。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-58.webp)
 
 ## 同济大学的整体定位与办学渊源
 

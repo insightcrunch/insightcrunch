@@ -6,15 +6,15 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Portugal", "DR Congo", "Group Stage", "Match Preview"]
 excerpt: "Portugal vs DR Congo World Cup 2026 preview: prediction, predicted lineups, the low block Ronaldo must unlock, plus head to head and Group K stakes in Houston."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-17
+lang: en
 ---
-
 Portugal vs DR Congo at World Cup 2026 poses one clean question, and the whole afternoon in Houston turns on the answer: can a Portugal side that arrives ranked among the favorites, captained by Cristiano Ronaldo at his sixth and final World Cup, pull apart a disciplined, athletic DR Congo team that has built its entire identity on staying compact and refusing to be pulled apart? This is the Group K opener, a fixture between the sixth-ranked nation in the world and one returning to football's biggest stage after a fifty-two-year absence, and the gap on paper could hardly be wider. The gap on the pitch is a different calculation, because the way DR Congo defend is the way underdogs survive, and the way Portugal attack is not always the way you break a wall.
 
-![Portugal vs DR Congo World Cup 2026 preview](/assets/images/blog/blog-01.webp)
+![Portugal vs DR Congo World Cup 2026 preview](/assets/images/blog/blog-92.webp)
 
 That tension is the spine of this preview. Portugal have the deeper squad, the higher individual ceiling, and the expectation of three points. DR Congo have a back line organized by one of the most experienced defenders at the tournament, a coach who has spent three years teaching this group to absorb pressure and counter, and the freedom that comes from having nothing to lose against a nation everyone expects to win. The match that decides the early shape of Group K is not a mismatch in the way the rankings suggest. It is a test of whether Portugal's quality can solve a problem that DR Congo have been preparing to set, and that is the question worth walking into the stadium understanding.
 

@@ -6,14 +6,14 @@ date: 2023-11-29
 categories: ["Industry"]
 tags: ["高考", "天津大学", "录取分数线", "北洋", "Tianjin University", "985"]
 excerpt: "天津大学高考录取完全解析:作为传承北洋传统的中国第一所现代大学,天大化学工程全国第一,建筑学与清华同济并列顶尖,水利与光学同样位居国内前列。本文解读天大在各省的录取分数线与位次规律、王牌学院与优势学科、强基计划等招生途径、保研与央企就业去向,并对比天大与南开、哈工大、西安交大的取舍之道,助你定位北洋园的报考门槛。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "li-wei"
+lang: zh
 ---
-
 天津大学坐落于渤海之滨的天津,是中国近代高等教育的发源地之一,也是一所以工科见长、综合实力雄厚的985工程、211工程和"双一流"建设高校。对于无数怀揣工程师梦想的高中生而言,这所学校代表着扎实严谨的学风、深厚的工科底蕴,以及通向国家重大工程与央企体系的稳健路径。本文将带你完整解析天津大学的录取门槛、优势学科、招生途径与就业去向,帮助你判断自己究竟需要多少分、走哪条路、适不适合这所北洋传统的正宗继承者。如果你刚开始了解高校选择的整体逻辑,建议先读一读[高考完全指南](/2026/03/18/gaokao-complete-guide/),再回到本文做针对性的院校研究。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-101.webp)
 *天津大学北洋传统与工科优势全解析,帮助考生精准定位录取门槛*
 
 ## 天津大学的定位:北洋传统与工科底色
