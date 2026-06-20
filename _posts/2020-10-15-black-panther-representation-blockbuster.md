@@ -6,9 +6,9 @@ date: 2020-10-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Black Panther", "Ryan Coogler", "Superhero", "Film Analysis", "World Cinema"]
 excerpt: "Black Panther turned representation into a global event, pairing Afrofuturist spectacle with Killmonger's argument and a historic Best Picture nomination."
-image: "/assets/images/blog/blog-100.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
-author: "amanda-ross"
+author: "diana-patel"
 last_updated: 2020-10-15
 lang: en
 ---
@@ -16,7 +16,7 @@ lang: en
 
 Most superhero releases arrive as events and leave as merchandise. Black Panther arrived as an event and stayed a subject. When Ryan Coogler's 2018 film opened, the conversation around it ran wider than opening grosses or post-credit teasers, reaching into questions about who gets to be a hero on the largest commercial stage and what a studio is willing to put behind that question. The gap between how the picture was first received and where its standing later settled is small in years and large in meaning, because the early excitement and the later reappraisal point at the same thing from different distances: this was a blockbuster built to argue, not only to dazzle.
 
-![Black Panther representation and reception analysis](/assets/images/blog/blog-100.webp)
+![Black Panther representation and reception analysis](/assets/images/blog/blog-72.webp)
 
 That argument is the reason a comic-book adaptation belongs in a series devoted to the works that change the terms of their medium. The early reception treated the project as a cultural moment; the reappraisal that followed treated it as a text worth taking seriously, one that paired Afrofuturist design with a genuine moral dispute and then carried that dispute into awards rooms that had never made room for the genre. Reading the reception means reading two things at once: the celebration that greeted a major studio entrusting a predominantly Black cast and crew with a tentpole, and the harder conversation about whether spectacle of this scale can hold a radical idea without softening it.
 
