@@ -6,13 +6,15 @@ date: 2025-01-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Themes", "Alienation", "Modern City", "Nick Carraway", "American Literature", "Close Reading"]
 excerpt: "Alienation in the modern city in The Great Gatsby: how the crowded, anonymous metropolis deepens isolation rather than relieving it in Fitzgerald's novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-01-06
+lang: en
 ---
-
 The Great Gatsby makes a sharp and specific argument about modern life: the more people a place gathers, the lonelier it can become. Alienation in the modern city is not a mood the book stumbles into but a claim it presses through scene after scene, where dense crowds, impersonal commutes, and rootless arrivals leave its characters passing one another without ever connecting. Fitzgerald sets his summer of 1922 in and around a New York that promises everything and delivers solitude, and he watches a handful of Midwesterners try and fail to find a footing in it. The result is one of American literature's most exact portraits of urban estrangement.
+
+![Alienation in the Modern City in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 That argument is easy to miss because the city in the novel is so beautiful. The skyline rises in white heaps, the parties glitter, and the avenues hum with what Nick calls the racy, adventurous feel of the place at night. The book never pretends the metropolis is ugly. Its point is subtler and harder: the very glamour that pulls people toward the city is also what isolates them inside it. Beauty and loneliness arrive together, in the same image, at the same moment, and learning to read both at once is the work this analysis sets out to do.
 
@@ -308,5 +310,4 @@ The novel offers a partial answer rather than a cure. Its one gesture toward rel
 ### How does the image of the crowd carry the alienation theme?
 
 The crowd is the theme's master image because it should mean company and instead means solitude. Across the novel, gatherings of people repeatedly produce isolation rather than connection: the swarming party with its unmet host, the dusk streets where Nick feels lonely among strangers, the funeral that draws almost no one despite the parties that drew hundreds. Each time, the density of people sharpens rather than softens the estrangement. By making the crowd carry the loneliness, Fitzgerald states the theme's most counterintuitive claim without commentary, that in the modern city the surest way to feel most alone is to stand in the middle of a multitude.
-
 

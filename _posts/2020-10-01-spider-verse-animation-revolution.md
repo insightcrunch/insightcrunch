@@ -6,15 +6,15 @@ date: 2020-10-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Into the Spider-Verse", "Animation", "Superhero Films", "Film Analysis", "World Cinema", "Film History"]
 excerpt: "Into the Spider-Verse broke computer animation's photoreal mold with a comic-book look, winning the Oscar and sending a whole field chasing style over realism."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-10-01
+lang: en
 ---
-
 For roughly two decades, mainstream computer animation chased one goal above all others: a smoother, rounder, more believable surface, hair that moved like real hair and skin that caught light like real skin. The pursuit produced extraordinary craft, but it also produced a default, a single gleaming house style that every major studio drifted toward until their films were hard to tell apart at the level of texture. Then Spider-Man: Into the Spider-Verse (2018) walked into that race and turned the other way. It made a wide-release studio feature that looked like a printed comic book set in motion, with visible halftone dots, off-register color, hand-drawn lines laid over computer models, and sound effects spelled out across the screen. The look was so unexpected, and so clearly deliberate, that it won the Academy Award for Best Animated Feature and sent an entire field chasing style instead of realism. This is the story of how one film broke the mold, why the break mattered, and what it set running across animation worldwide.
 
-![Spider-Man: Into the Spider-Verse animation style](/assets/images/blog/blog-01.webp)
+![Spider-Man: Into the Spider-Verse animation style](/assets/images/blog/blog-88.webp)
 
 The directors Bob Persichetti, Peter Ramsey, and Rodney Rothman, working from a story and screenplay shaped by producers Phil Lord and Christopher Miller, did not invent stylized animation. Artists around the world had been bending the medium toward drawing, texture, and graphic boldness for a century. What this film did was prove that the bending could happen at the dead center of the commercial industry, in a tentpole built around a beloved character, and that audiences would not merely tolerate the rougher, more illustrated surface but would love it and reward it. That proof is the legacy. Once a film this visible showed the door was open, studios everywhere walked through it. The pages that follow trace the break itself, read it shot by shot, look inside the production that made it possible, follow the influence into the works that carry its fingerprints, weigh honestly what endured against what dated, and set the whole achievement against the wider world of animation that had been stylizing all along.
 

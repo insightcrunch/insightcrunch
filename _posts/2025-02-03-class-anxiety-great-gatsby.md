@@ -6,13 +6,15 @@ date: 2025-02-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Class Anxiety", "Wealth and Class", "Themes", "Close Reading", "American Literature"]
 excerpt: "Class anxiety in The Great Gatsby reaches every social level, from anxious strivers to the defensive rich, proving that rank in the novel gives no one rest."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-02-03
+lang: en
 ---
-
 The Great Gatsby is often read as a book about money, but its sharper subject is the feeling money produces. The novel argues that class is never settled and never safe. Everyone in its world is watching the rung above and the rung below, and the watching never stops. Class anxiety in The Great Gatsby is not a mood that visits a few unlucky strivers; it is the permanent weather of the whole social order, felt by the man clawing upward, the woman terrified of slipping back, and the heir who already has everything and still cannot sleep. Read the book this way and a famous love story reveals its harder engine: dread of where you stand.
+
+![Class Anxiety in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Picture the green light at the end of Daisy's dock, the image readers remember first. We tend to call it hope, and it is. But hope of that intensity is only the bright face of fear. A man stares across dark water at a single small light because he is afraid the distance cannot be closed, afraid the woman on the far shore belongs to a world that will not let him in, afraid that the self he built will be exposed as a costume. The reaching arm and the racing pulse are the same gesture. Behind every yearning in this novel sits a corresponding fear, and that fear has a social shape. It is the fear of class.
 
@@ -303,5 +305,4 @@ The catastrophe is the dread collecting its bill. Myrtle's desperate flight towa
 ### Q: What is the difference between class anxiety and snobbery in the novel?
 
 Snobbery is one of the behaviors that class anxiety produces, not a separate thing. Snobbery is the outward act of looking down, of asserting rank by despising those below. Class anxiety is the inward fear that drives the act. Myrtle's snobbery toward her husband, her sneering at "these people" who must be supervised, is the visible surface; underneath it lies her terror of being recognized as one of those people herself. Tom's snobbery toward Gatsby, his mockery of the Oxford claim, masks his dread that the border between old and new money is collapsing. The novel suggests that the most aggressive snobs are often the most frightened, since contempt for those below is a way of reassuring yourself that you are not among them. Read this way, snobbery is anxiety turned outward, a defense mechanism, while the anxiety is the wound the defense is protecting.
-
 

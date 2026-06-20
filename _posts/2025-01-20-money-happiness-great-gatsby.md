@@ -6,13 +6,15 @@ date: 2025-01-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Themes", "Wealth and Class", "F. Scott Fitzgerald", "Close Reading", "American Literature"]
 excerpt: "Money cannot buy happiness in Gatsby, yet the novel argues something sharper: wealth buys the wrong things with reliability and the thing wanted never."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-01-20
+lang: en
 ---
-
 The phrase money cannot buy happiness in Gatsby gets used as if it settled the matter, as if F. Scott Fitzgerald wrote a long, glittering book to prove a slogan most readers already accepted before they opened it. That reading is comfortable and wrong. The novel does not argue that money is worthless or that the rich are sad in some vague, moralizing way. It argues something more exact and more unsettling: money in this book buys a great deal, houses and cars and shirts and parties and the appearance of arrival, and it buys none of the one thing each character actually wants. Wealth purchases the wrong things with perfect reliability. The right thing stays out of reach no matter how large the fortune behind the reach.
+
+![Money Cannot Buy Happiness in Gatsby - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 That is the verdict this analysis defends, and it deserves a name so it can be used and cited. Call it the wrong-things reading. The novel does not say that money fails to buy happiness because money is corrupt. It says that money fails because the objects money can reach are never the objects that would satisfy. Daisy can be courted with a mansion across the bay, but she cannot be made to have always loved Gatsby and only Gatsby. Tom can own a string of houses and horses and women, but he cannot own the unbothered security he keeps reaching for. Myrtle can buy a dog and a tasseled lamp and a set of magazines, but she cannot buy her way out of the garage. The fortune lands; the longing remains. Reading the theme this way turns a tired cliché into a precise piece of literary argument, which is the whole point of treating the book as something to analyze rather than something to summarize.
 

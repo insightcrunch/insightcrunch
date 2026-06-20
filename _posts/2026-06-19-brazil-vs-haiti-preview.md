@@ -6,15 +6,15 @@ date: 2026-06-19
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Haiti", "Group Stage", "Match Preview"]
 excerpt: "Brazil vs Haiti prediction, predicted lineups and Group C scenarios for this World Cup 2026 matchday two clash, with team news, key battles and stakes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-19
+lang: en
 ---
-
 The single question hanging over Brazil vs Haiti at World Cup 2026 is not whether the five-time champions are good enough to win. It is whether they will finally turn first-half control into goals after a flat, unconvincing opener left Carlo Ancelotti openly worried. Brazil arrive at Lincoln Financial Field in Philadelphia on Friday, June 19 carrying one point from their Group C opener and a list of questions about a forward line that created chances against Morocco yet only scored once. Haiti, ranked among the lowest-placed nations in the tournament and back at the finals for the first time since 1974, arrive with nothing to lose and a defensive plan built to make Brazil uncomfortable for as long as possible. That tension, a heavyweight under pressure to be ruthless against a disciplined underdog with a point to prove, is the spine of this fixture.
 
-![Brazil vs Haiti World Cup 2026 preview](/assets/images/blog/blog-01.webp)
+![Brazil vs Haiti World Cup 2026 preview](/assets/images/blog/blog-74.webp)
 
 This Brazil vs Haiti prediction and preview breaks down the team news, the predicted lineups, the head-to-head history, the tactical battle, the players who will decide it, and the Group C scenarios that hang on the result, all built from what is knowable before kickoff. The central claim threaded through everything below is simple and worth naming up front: this game is not a test of whether Brazil are better than Haiti, because plainly they are. It is a test of Brazil's finishing margin, the gap between the volume of chances their control produces and the number they actually convert. Get that margin right and the night is comfortable. Get it wrong, as they nearly did against Morocco, and a stubborn Haiti side stays in the contest long enough to make Ancelotti sweat.
 

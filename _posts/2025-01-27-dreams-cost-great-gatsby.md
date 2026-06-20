@@ -6,15 +6,15 @@ date: 2025-01-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Themes", "The American Dream", "Jay Gatsby", "Close Reading", "American Literature"]
 excerpt: "Dreams and their cost in The Great Gatsby decide who lives and dies. The novel charges a lethal price for aspiration, sparing only the careless and dreamless."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-01-27
+lang: en
 ---
-
 Most readings of dreams and their cost in The Great Gatsby get the accounting backward. They treat the novel as a story about a dream that fails, as though the tragedy were simple disappointment, a man who reached for something and missed. That reading is too gentle. Fitzgerald did not write a book about aspiration falling short. He wrote a book about aspiration being charged for, line by line, until the bill comes due in full. The dream does not merely fail the people who hold it. It bills them. And the two characters who dream hardest, Gatsby and Myrtle Wilson, both end the novel dead, while the people who never dream of anything beyond their own comfort walk away unscathed. That pattern is not an accident of plot. It is the theme stated in the only language a novel has, which is the language of who lives and who dies.
 
-![Dreams and their cost in The Great Gatsby theme analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dreams and their cost in The Great Gatsby theme analysis - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 This is the argument the book makes about wanting too much: the dream charges everything. Not the dream that is foolish, not the dream that is impossible, but the dream as such, the bare capacity to imagine a life larger than the one you were handed. The novel attaches a lethal price to that capacity. It does not say dreams are lies, and it does not say dreamers are fools. It says something harder to hear, which is that the gift of dreaming and the cost of dreaming are the same thing seen from two sides, that the very intensity which makes Gatsby magnificent is the intensity that gets him shot, and that the people noble enough to want more than they have are precisely the people the world destroys for wanting it. Read the novel as a ledger rather than a romance, and its cruelty comes into focus. The dreamers pay. The dreamless are spared. There is no third column.
 

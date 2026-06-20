@@ -6,13 +6,15 @@ date: 2025-02-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Themes", "Nick Carraway", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Judgment and the reserving of judgment in The Great Gatsby: why Nick's vow to withhold verdicts collapses, and why the novel cannot survive without them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-02-10
+lang: en
 ---
-
 The Great Gatsby is a novel about judging that pretends not to judge. It opens with a narrator who vows to hold his verdicts back and then spends nine chapters delivering them, so the real subject of judgment and the reserving of judgment is the gap between the promise and the practice. Nick Carraway tells us on the first page that he keeps his opinions to himself, and almost everything that follows is an opinion. He measures Tom's cruelty, files Jordan's dishonesty, weighs Daisy's voice, condemns a careless world, and crowns Gatsby worth more than all of them. The reservation is announced once. The judging never stops.
+
+![Judgment and the Reserving of Judgment in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 That contradiction is not a flaw in the book. It is the book's argument. Fitzgerald builds the whole moral machinery of the story on a narrator who cannot do the one thing he claims to do, and the failure is the point. A person who genuinely reserved all verdicts could not tell this story at all, because the story is a sequence of verdicts. To narrate is to select, to weight, to decide what matters and who is to blame, and Nick does all of it while insisting he does none of it. The novel uses his self-deception to expose a truth about moral life: withholding judgment sounds like a virtue, but a world without verdicts would be a world where carelessness costs nothing and the careless drive away clean.
 

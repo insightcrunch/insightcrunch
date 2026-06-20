@@ -6,14 +6,14 @@ date: 2023-01-13
 categories: ["Industry"]
 tags: ["高考", "高三规划", "一年计划", "一轮复习", "Gaokao Countdown", "Year Plan"]
 excerpt: "高考倒计时一年是决定成败的关键阶段,如何把这一年走稳走对至关重要。本文提供从高二暑假一直到走进考场的全年逐月作战规划,系统详解一轮、二轮、三轮复习的节奏、目标与衔接,涵盖各科分阶段安排、模考数据追踪、错题整理、刷题方法、时间管理、作息心态调节与关键里程碑检查点,帮助考生在正确的时间做正确的事,科学备战、稳步提升。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "sun-ming"
+lang: zh
 ---
-
 对于每一位即将走进考场的学生来说,高三这一整年都是命运的转折点。它不是简单地把过去两年学过的内容再过一遍,而是一场需要精密设计、分阶段推进的系统工程。很多人以为只要拼命刷题、熬夜苦读就能换来理想的分数,可现实往往相反:方向错了,投入越多反而越疲惫;节奏乱了,努力越久反而越焦虑。真正拉开差距的，从来不是谁更辛苦，而是谁更懂得在正确的时间做正确的事。作为长期研究中国基础教育与升学体系的教育工作者,我想用这篇长文，把从高二升高三的那个暑假一直到走进考场之前的整整一年，拆解成一份可执行、可检查、可修正的月度作战地图。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-82.webp)
 *高考倒计时一年的月度规划与三轮复习节奏全景图*
 
 这份规划的核心思想只有一句话:这一年不是一年的持续冲刺,而是几个阶段各有其正确的做法,做错阶段的事，再多的时间也换不来应有的效果。下面，我们就从全局的节奏谈起，再逐月、逐科、逐种学生画像地展开，让你既看得清整片森林，也走得稳每一步路。

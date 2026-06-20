@@ -6,14 +6,14 @@ date: 2023-02-06
 categories: ["Industry"]
 tags: ["高考", "志愿填报", "退档", "服从调剂", "Gaokao Preferences", "Mistakes"]
 excerpt: "高考志愿填报是分数公布后最关键、也最容易出错的一步,同样的分数,排序不同结果可能天差地别。本文以资深教育专家视角,系统拆解只盯名校、不看往年数据、漏勾服从调剂、冲稳保失衡、分数与专业错配、地域偏见、忽视就业等十大常见误区,讲清退档与滑档真实成因,并附一份可直接照做的志愿防错清单,帮助考生与家长稳妥落档、不留遗憾。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "lin-shuyi"
+lang: zh
 ---
-
 每年分数公布之后,真正决定一名考生去向的,往往不是考场上的那张答卷,而是接下来短短两到四天里填下的那张志愿表。考试比拼的是知识与临场发挥,志愿填报比拼的却是信息、概率与冷静的判断力。遗憾的是,绝大多数家庭一生只经历一次志愿填报,既没有经验积累,也很难在短时间内补齐所有规则细节。于是,同样的分数,有人稳稳落进心仪院校的理想方向,有人却因为一个看似微小的疏忽而滑档、退档,甚至被迫复读。差距常常不在分数,而在有没有踩中那些反复出现的填报误区。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-92.webp)
 *志愿填报十大误区全解析:看清退档与滑档背后的真实成因*
 
 作为长期研究中国高校招生规则的教育从业者,我见过太多高分考生因为填报失误而与好学校擦肩而过,也见过中等分数的考生靠科学排序实现了所谓的"高分低就的逆转"。志愿填报本质上是一道在不确定条件下的概率排序题,而不是一份"把喜欢的学校列出来"的心愿清单。理解这一点,是避开所有误区的起点。本文将系统拆解志愿填报中最常见、代价也最高的十类错误,讲清每一类错误背后的招生机制,并在文末给出一份可以直接照做的防错清单。如果你还没有读过填报的整体方法论,建议先浏览[志愿填报完全指南](/2025/11/18/gaokao-university-preference-form/),再回到本文逐一对照避坑;若想从宏观上把握高考的全流程位置,也可以参考[高考完全指南](/2026/03/18/gaokao-complete-guide/)。

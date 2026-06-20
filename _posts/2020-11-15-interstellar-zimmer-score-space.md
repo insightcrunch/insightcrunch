@@ -6,15 +6,15 @@ date: 2020-11-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Interstellar", "Christopher Nolan", "Hans Zimmer", "Science Fiction", "Film Scores"]
 excerpt: "Interstellar scores the cosmos as a cathedral, using Hans Zimmer's church organ and pointed silence to render space, time, and love across dimensions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-11-15
+lang: en
 ---
-
 A pipe organ is the last instrument a viewer expects to hear when a spacecraft slips its mooring and drifts toward a wormhole. It belongs to stone naves and choir stalls, to weddings and funerals, to a register of human feeling that predates the cinema by centuries. Yet the sound that carries Interstellar across the gulf between a dying Earth and the far side of a black hole is exactly that: a towering church organ, recorded in a medieval London church, breathing through pipes that look, in Hans Zimmer's description, like the afterburners of a rocket. Christopher Nolan's 2014 epic gambles its emotional weight on a single, strange decision, to score the cosmos not with the brass fanfares the genre had trained audiences to expect but with the most sacred and most mechanical instrument in Western music, and to let long stretches of vacuum fall almost silent around it.
 
-![How Interstellar scores space with a church organ and silence, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Interstellar scores space with a church organ and silence, an analysis - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 That choice is the key to the film's sound, and the sound is the key to the film. Interstellar is built on ideas a synopsis cannot carry, time stretched and folded by gravity, love proposed as a force that crosses dimensions, a father and a daughter separated by decades that pass in an afternoon. Dialogue can state those ideas, and the script states them often, but it is the score that makes a viewer feel their scale. The organ supplies awe without words. The silences supply dread. The ticking inside one famous cue supplies the unbearable arithmetic of a clock running down on a planet where an hour costs years. To analyze the music of Interstellar is to analyze how the film thinks, because the film does much of its reasoning in sound.
 

@@ -6,15 +6,15 @@ date: 2026-06-20
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Haiti", "Group Stage", "Match Analysis"]
 excerpt: "Brazil vs Haiti result and analysis: a Matheus Cunha brace and a Vinicius Junior strike sank Haiti and lifted Brazil top of Group C at World Cup 2026."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-20
+lang: en
 ---
-
 Brazil won this match in twenty-two first-half minutes, and everything that came after was management rather than performance. That is the single truth that explains Brazil 3-0 Haiti at World Cup 2026, a Group C result that arrived through a Matheus Cunha brace and a Vinicius Junior finish before the interval, then settled into a controlled coast that flattered Haiti's resistance without ever putting the outcome in doubt. The scoreline reads like a comfortable afternoon for the five-time champions in Philadelphia, and in the columns that matter it was. The deeper story is narrower and more interesting: a recalled forward who repaid a selection gamble inside half an hour, a star winger thriving in the space a frightened opponent surrendered, and a coach who needed exactly this and got it without the complete display he keeps asking for.
 
-![Brazil vs Haiti World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Brazil vs Haiti World Cup 2026 analysis](/assets/images/blog/blog-86.webp)
 
 The first-half verdict is the spine of this piece, and it is worth stating plainly before the detail crowds in. Carlo Ancelotti's Brazil did not deliver ninety minutes of authority against Haiti. They delivered roughly a quarter of an hour either side of the half-hour mark, a burst clinical enough to make the rest a formality, and then they took their collective foot off the pedal in a way that handed Haiti the ball, the territory, and a flattering share of the second-half contest. None of that changed the result, the points, or the table. It is the difference, though, between the dominant statement some had demanded after a flat opening draw and the truth of what actually happened: Brazil were ruthless in a short window and ordinary outside it, and the short window was enough.
 

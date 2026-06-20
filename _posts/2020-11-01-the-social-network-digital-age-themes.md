@@ -6,19 +6,19 @@ date: 2020-11-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Social Network", "David Fincher", "Film Analysis", "Drama", "World Cinema"]
 excerpt: "The Social Network argues the digital age's connection machine was built by someone who could not connect, a themes analysis of ambition and betrayal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-11-01
+lang: en
 ---
-
 A young man sits across a table from the woman he is about to lose, talking faster than she can follow, and by the end of the conversation he has insulted her family, her school, and her motives, all while believing he is the smartest person in the room. The Social Network opens on this breakup because David Fincher and screenwriter Aaron Sorkin understood something about their subject that no founding myth of the digital age had yet dared to say out loud. The film argues that the world's great connection machine was built by someone who could not connect, and that the loneliness at its center is not a flaw in the story but the entire point of it. This is a movie about ambition, betrayal, and the strange hunger that drives a person to wire half the planet together while sitting alone, refreshing a page, waiting for one message that never comes.
 
 That argument is what separates The Social Network from the biographical dramas it superficially resembles. It is not a chronicle of how a company was founded. It is a philosophical case about what the founding cost, who paid it, and what the cost reveals about the era the company helped define. The film takes the contradictions of the digital age and folds them into a single rise-and-fallout, then tells that story through a structure built to fracture the truth into competing accounts. Understanding what the film says, and how it builds the saying into image, sound, and shape rather than into speeches, is the work of any serious reading of it.
 
 The film's title carries this double meaning from the first frame, and the doubleness is the key to its reading. A social network is the technical name for the kind of website the film depicts, a system of digital links among users. It is also the older, human thing: the web of relationships, loyalties, rivalries, and obligations that binds people together before any software exists. The film plays the two meanings against each other throughout, showing how the digital social network is built out of, and at the expense of, the human social network that precedes it. Every connection the protagonist adds to the website corresponds to a connection he severs in his life, and the title names the trade. The website grows as the friendships die, and the film's whole argument lives in the space between the two things the title can mean.
 
-![How The Social Network argues that the digital age's connection machine was built by the disconnected, a themes and philosophy analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How The Social Network argues that the digital age's connection machine was built by the disconnected, a themes and philosophy analysis - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 ## A Story About Connection Built by the Disconnected
 

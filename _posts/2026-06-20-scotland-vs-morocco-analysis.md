@@ -6,15 +6,15 @@ date: 2026-06-20
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Scotland", "Morocco", "Group Stage", "Match Analysis"]
 excerpt: "Scotland 0-1 Morocco: how Ismael Saibari's 71-second strike at World Cup 2026 settled a Group C tie and left the Tartan Army needing a result against Brazil."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-20
+lang: en
 ---
-
 Scotland lost this match before the Tartan Army in Boston had finished their first song. Seventy-one seconds into a Group C fixture they needed to win, Ismael Saibari collected a Brahim Diaz pass over the top, opened his body, and lashed the ball into the roof of Angus Gunn's net. Morocco 1-0 Scotland at World Cup 2026, a scoreline that never changed across the following eighty-nine minutes and never looked like changing. The Atlas Lions did not so much beat Scotland as remove the contest from the board at the first opportunity and then spend the rest of the evening making sure it stayed removed.
 
-![Scotland 0-1 Morocco World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Scotland 0-1 Morocco World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 That is the spine of this analysis, and it is worth stating plainly before the detail crowds in: Morocco won this game with their fast start and their control of it, not with anything they did late, and Scotland lost it in the same opening exchange, not in the closing minutes when the appeals and the half-chances arrived. The two penalty shouts that will dominate the Scottish back pages, the late rally, the introduction of fresh legs, all of it played out inside a frame that Saibari had already set. A reader who watches only the goal and the final whistle understands more about this match than one who watches everything in between, because everything in between was Morocco managing a lead they had earned in the time it takes to tie a boot.
 

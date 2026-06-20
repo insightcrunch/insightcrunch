@@ -5,12 +5,14 @@ date: 2025-02-17
 excerpt: "The motif of drinking and drunkenness in The Great Gatsby works as a truth serum, exposing the characters and indicting a society that broke its own law."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "amanda-ross"
 reading_time: 47
 tags: ["The Great Gatsby", "Themes", "Close Reading", "Prohibition", "F. Scott Fitzgerald", "American Literature"]
+lang: en
 ---
-
 Pour out every glass in The Great Gatsby and the novel changes shape. The motif of drinking and drunkenness is not decoration laid over a Jazz Age party scene; it is the mechanism by which Fitzgerald gets his characters to tell the truth. Sober, they perform. They reserve judgment, manage their faces, keep their secrets folded inside good manners. Drunk, they spill. A loosened tongue says what a careful one would never risk, and the novel keeps arranging for tongues to loosen. Set that pattern against the fact that the book takes place during Prohibition, when every one of these drinks is a crime, and the motif sharpens into something with an edge. The liquor that frees these mouths is illegal, and the people pouring it are the same respectable Americans who voted the law into being. The drinking, in other words, does two jobs at once. It strips performance away, and it quietly convicts the world that depends on the stripping never being noticed.
+
+![The Drinking and Drunkenness Motif in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 That double action is the argument this article defends. Call it the truth-serum reading of the drinking motif: alcohol in Gatsby functions as a chemical that dissolves the surface a character has built, and the dissolving is most damning because the chemical itself is contraband. Fitzgerald could have made his people confess through grief, or exhaustion, or a slip of conscience. Instead he makes them confess through a bottle, and he makes the bottle illegal. Revelation and hypocrisy fuse in the same gesture. To read the parties as period color is to miss the whole engine. The drinking is how the novel works, not what the novel wears.
 
@@ -289,5 +291,4 @@ Avoid two traps: listing the drinking scenes without connecting them, which prod
 ### What role did Dan Cody's drinking play in Gatsby's past?
 
 Gatsby's mentor Dan Cody was a heavy drinker, and the young Gatsby learned his trade partly as the keeper of the older man's binges. Cody sober knew what lavish doings Cody drunk might soon be about, and Gatsby was kept on to manage the contingency. The detail quietly shapes everything about Gatsby's later relationship to alcohol. The man who builds his life on liquor money learned that money at the elbow of a drunk, watching firsthand what intoxication costs and what it can be made to pay. The experience forms the watchful sobriety that defines Gatsby at his own parties, where he supplies the drinking but never joins it. Cody's drunkenness is the origin of Gatsby's discipline. Having seen how intoxication strips a powerful man of control, Gatsby resolves never to be the one stripped, and his lifelong abstinence traces straight back to those years on Cody's yacht.
-
 

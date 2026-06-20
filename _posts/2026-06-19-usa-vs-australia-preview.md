@@ -6,15 +6,15 @@ date: 2026-06-19
 categories: ["Leisure"]
 tags: ["World Cup 2026", "USA", "Australia", "Group Stage", "Match Preview"]
 excerpt: "USA vs Australia World Cup 2026 preview: prediction, predicted lineups, head to head and the Group D top-spot stakes as two opening winners meet in Seattle."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-19
+lang: en
 ---
-
 The single question the USA vs Australia World Cup 2026 meeting poses is not which side is better. Both walked out of their opening fixtures with three points and a clean idea of who they are, so the question is sharper: can a United States team that wants the ball for ninety minutes break down a Socceroos block that has already shown it will surrender the ball and the territory and still win? That is the tension that defines this Group D second-round match in Seattle, and it is the reason the game is worth a closer look than the bare phrase "host nation against underdog" suggests.
 
-![USA vs Australia World Cup 2026 preview, prediction and Group D top-spot stakes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![USA vs Australia World Cup 2026 preview, prediction and Group D top-spot stakes - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 Mauricio Pochettino's side arrives off a 4-1 dismantling of Paraguay that looked, for forty-five minutes, like the most fluent attacking half the program has produced on a World Cup stage. Tony Popovic's Australia arrives off a 2-0 win over Turkiye built on the opposite virtues: a deep, disciplined shape, a goalkeeper's debut for the ages, and a counter that needed only two clean strikes to settle the night. Two winners, two philosophies, one table to lead. The piece below sets the whole game up, from the predicted lineups and the head-to-head to the one passage of play that is most likely to decide it, and closes with a prediction and a scoreline.
 

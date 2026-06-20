@@ -6,14 +6,14 @@ date: 2022-12-28
 categories: ["Industry"]
 tags: ["高考", "考前一周", "减压", "考场踩点", "Gaokao Final Week", "Pre-Exam"]
 excerpt: "考前一周是高考备考的收尾阶段,核心不是临时突破而是把已有实力完整且稳定地带进考场。本文逐日拆解七天倒计时的具体安排,讲清该轻触复习什么、该坚决放弃什么,如何调整作息让生物钟对齐考试节奏,如何提前到考场踩点熟悉路线,怎样准备准考证与文具清单,并给出考前减压、家长配合与积极暗示的实用方法,帮你从容稳住状态。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "xu-meifang"
+lang: zh
 ---
-
 作为一名长期研究中国教育体系的资深教育专家,我见过太多考生把考前一周过成了备考三年里最焦虑、最折腾、也最容易自我消耗的七天。其实,考前一周的本质非常简单:它不是用来突破的,而是用来收尾的。三年的积累已经基本定型,你的真实水平大体已经写在那里,这最后七天能做的,是把这份已经具备的实力完整、稳定、不打折扣地带进考场。把这一点想透,你就抓住了考前一周的全部精髓:轻触复习,深呼吸,稳住节奏,然后从容走进考场。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-56.webp)
 *考前一周的核心是维持状态而非临时突破,把已有实力稳稳带进考场。*
 
 很多人对最后这几天抱有一种近乎赌博的期待,觉得只要再拼一把、再熬几个夜、再刷几套难题,就能在分数上拉开差距。这种心态恰恰是考前一周最危险的陷阱。它会让你在最需要稳定的时候去冒险,在最需要休息的时候去透支,在最需要自信的时候去自我打击。本文会用一整套逐日方案、清单和心理工具,帮你把这七天过得清醒、踏实、有掌控感。如果你想从更宏观的角度理解整个备考体系,可以先回顾一下[高考备考的完整框架](/2026/03/18/gaokao-complete-guide/),再带着全局视角来安排这最后一周。

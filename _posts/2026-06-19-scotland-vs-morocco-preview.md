@@ -6,15 +6,15 @@ date: 2026-06-19
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Scotland", "Morocco", "Group Stage", "Match Preview"]
 excerpt: "Scotland vs Morocco World Cup 2026 preview: prediction, predicted lineups, head-to-head and the Group C scenarios after Scotland topped matchday one in style."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-19
+lang: en
 ---
-
 Scotland vs Morocco at World Cup 2026 poses one clean question, and the whole evening in Foxborough turns on it: can a disciplined, hard-working Scotland side that has waited twenty-eight years for this stage take a point or three off a Morocco team carrying more pure talent and far heavier tournament pedigree? That is the fixture in a sentence. Scotland arrive on top of Group C, a place almost nobody outside the Tartan Army expected them to occupy after one round. Morocco arrive a point back, semi-finalists from 2022, the highest-ranked African nation in the field, and clear favourites despite the table. The gap in quality is real. The gap in the standings runs the other way. That tension, pedigree against position, is what makes this one of the most interesting matchday-two fixtures of the group phase.
 
-![Scotland vs Morocco World Cup 2026 preview](/assets/images/blog/blog-01.webp)
+![Scotland vs Morocco World Cup 2026 preview](/assets/images/blog/blog-82.webp)
 
 This preview lays out everything a serious viewer needs before kickoff: what the match means inside Group C, the road each side took to get here, the single previous meeting between these nations and what it signals, the team news and predicted lineups with the reasoning behind every call, the tactical shape and the one or two battles that will decide ninety minutes, the players to watch on both flanks, the qualification math worked out in full, the practical viewing details, and a closing prediction with a defended scoreline. The thesis sits underneath all of it, and it is the spine of the piece: Scotland cannot win this game the way Morocco can win it, so Scotland must change the kind of game it is. Call it the low-event plan. Hold the event count down, deny Morocco the rhythm and the transitions that hurt teams, and bank everything on one set piece or one McTominay arrival. That is the route, and the rest of this article explains why it is the only route.
 
