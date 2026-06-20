@@ -6,17 +6,17 @@ date: 2026-06-19
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Turkiye", "Paraguay", "Group Stage", "Match Preview"]
 excerpt: "Turkiye vs Paraguay prediction, predicted lineups and Group D scenarios for World Cup 2026, as two beaten sides chase a vital first win at Levi's Stadium."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-06-19
+lang: en
 ---
-
 Turkiye took thirty shots and did not score. Paraguay conceded three goals before half-time and only stopped the bleeding when the game was already gone. Both walked away from the opening round of World Cup 2026 with nothing, and now they walk into each other at Levi's Stadium in Santa Clara on June 19 knowing that the loser is, in all likelihood, finished. That is the blunt frame for Turkiye vs Paraguay, the Group D fixture that has quietly become the most consequential match on the Friday card. The question it poses is not which side has the better players, because that argument is already settled in Turkiye's favor. The question is whether Vincenzo Montella's side can do the one thing they could not do against Australia: turn territory and possession into goals against a team built to deny exactly that.
 
 That is where this preview lives, in the twenty yards of grass where the match will be won or lost. Turkiye's whole revival hinges on whether Arda Guler can find and use the central pocket between Paraguay's two banks of four, the pocket Gustavo Alfaro's side is specifically organized to close. Call it the pocket where Turkiye's tournament is won or lost, because everything else, the talent gap, the bounce-back record, the home crowd in California, runs through it. Get Guler on the ball facing forward in that zone and Turkiye look like the dark horses they were billed as. Let Paraguay's screen swallow it and you get another night of sterile possession and a knockout exit that nobody in Istanbul saw coming.
 
-![Turkiye vs Paraguay World Cup 2026 preview, prediction and Group D scenarios - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Turkiye vs Paraguay World Cup 2026 preview, prediction and Group D scenarios - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 ## What is at stake: Group D after the opening round
 

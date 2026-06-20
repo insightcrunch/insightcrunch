@@ -6,17 +6,17 @@ date: 2026-06-20
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Netherlands", "Sweden", "Group Stage", "Match Preview"]
 excerpt: "Netherlands vs Sweden World Cup 2026 preview with predicted lineups, head to head, the channel Koeman targets and Group F scenarios after matchday one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-06-20
+lang: en
 ---
-
 The question that defines Netherlands vs Sweden at World Cup 2026 is not which side has the better players, because almost everyone who studies the two squads arrives at the same answer there, and arrives at it quickly. The question is sharper and more uncomfortable for Ronald Koeman: can a Dutch team that controlled large stretches of its opening match and still walked away with a single point find the cutting edge to break down a Sweden side that has discovered, almost overnight, that it can score for fun. One team owns the reputation. The other owns the early momentum. They meet on Saturday at NRG Stadium in Houston with the shape of Group F hanging on the result, and the gap between what the Netherlands are supposed to be and what they have so far produced is the tension that runs through the entire ninety minutes.
 
 This is a matchday-two fixture that arrives with the group already tilted off its expected axis. Sweden, not the Netherlands, sit on top of Group F. The Oranje, fancied before a ball was kicked to win the section at a canter, instead spent the first hours of their tournament chasing a game they thought they had won, and now they must respond. Houston in late June will be hot, the stadium roof likely closed, the air conditioned and heavy, and the football played at the tempo two technical European sides choose rather than the tempo the climate would otherwise impose. What follows is a complete pre-match briefing: the form each team carries into the game, the head-to-head record and what it actually signals, the predicted lineups and the selection reasoning behind them, the tactical shape and the single channel that may decide the contest, the players who will swing it, the qualification math laid out in full, the practical details of how to watch, and a defended prediction with a scoreline attached.
 
-![Netherlands vs Sweden World Cup 2026 preview](/assets/images/blog/blog-01.webp)
+![Netherlands vs Sweden World Cup 2026 preview](/assets/images/blog/blog-36.webp)
 
 Before the detail, the headline. The Netherlands are favorites in the eyes of the market and the models, and they are favorites for sound reasons rooted in squad depth and tournament pedigree. But favoritism is a statement about the average of many possible games, not a guarantee about this one, and Sweden have already shown in this tournament that they can turn a single afternoon into something that bends a group out of shape. The Dutch know it. That awareness, more than any tactical wrinkle, is the backdrop against which everything in Houston will be measured.
 
