@@ -6,12 +6,14 @@ date: 2020-06-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Paul Thomas Anderson", "Daniel Day-Lewis", "Auteur Cinema", "American Film", "Film Analysis"]
 image: /assets/images/blog/blog-01.webp
-author: "Insight Crunch Team"
+author: "rachel-foster"
 reading_time: 59
 excerpt: "There Will Be Blood unites Paul Thomas Anderson and Daniel Day-Lewis in a severe portrait of greed and faith curdling into a ruinous, monumental madness."
+lang: en
 ---
-
 A man kneels alone in a dry hole in the ground, swinging a pick at rock, breathing hard, saying nothing. There is no music that comforts and no dialogue that explains. For long minutes the only argument the film makes is that this labor is hard, that the land gives up nothing without being torn, and that the figure doing the tearing will not stop. By the time There Will Be Blood lets its central character speak, the audience already understands him as a force rather than a man. Paul Thomas Anderson built his 2007 feature on that severe foundation, and Daniel Day-Lewis filled it with one of the most complete performances American screen acting has produced. Together they made a portrait of greed and faith collapsing into madness that belongs with the great studies of ruinous ambition anywhere in world cinema.
+
+![There Will Be Blood: Anderson and Day-Lewis at Full Power - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 This study treats the film as both an auteur statement and a performance landmark. It defines what makes Anderson a director with a vision rather than a craftsman for hire, and what makes Day-Lewis a transformative actor rather than a skilled impersonator. It anchors those definitions in specific choices on the screen, the wordless opening, the dissonant score, the borrowed voice, the bowling-alley finale, and then sets the whole achievement against epics of ambition from other traditions. The aim is a reader who leaves able to define both artists operationally, from the text, and to place There Will Be Blood inside a global archetype of the man consumed by his own acquisition.
 

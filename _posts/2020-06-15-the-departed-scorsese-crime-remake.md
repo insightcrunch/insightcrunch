@@ -6,14 +6,15 @@ date: 2020-06-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Departed", "Martin Scorsese", "Crime Film", "Film Analysis", "Adaptations"]
 excerpt: "The Departed reworked a Hong Kong thriller into a rotting Boston crime landmark, won Scorsese his Oscar, and proved a remake stands as its own masterwork."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-06-15
+lang: en
 ---
 By the middle of the 2000s the American crime film carried a weight of its own history. The mob saga had been canonized, the undercover thriller had hardened into formula, and the cops-and-criminals picture had been told so many times that audiences could anticipate the beats. Into that settled landscape arrived The Departed, Martin Scorsese's 2006 study of two men living inside each other's worlds, a police mole planted in the Irish mob and a mob mole planted in the police, hunting each other through a Boston of loyalty and rot. The film did not invent the genre it joined. It took a tight Hong Kong thriller, transplanted it into a richly specific American milieu, and proved that a remake could be its own landmark, an act that revitalized the crime picture and finally won its long-overlooked director his first Oscar for direction.
 
-![How The Departed reworked a Hong Kong thriller into a Boston crime landmark, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How The Departed reworked a Hong Kong thriller into a Boston crime landmark, an analysis - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The achievement is easy to misread, because the language of prestige tends to treat originality and adaptation as opposites. A remake, in the common account, is a lesser thing, a commercial copy that trades on a finished idea. The Departed refuses that hierarchy. It is faithful to its source in plot architecture and unmistakably its own in texture, voice, and moral weather. Understanding it as a genre landmark means holding both facts at once: that the bones came from elsewhere, and that the body built on them belongs to a single sensibility working at the height of its craft. This study traces how the crime film stood before The Departed arrived, what the film inherited and what it changed, how its dual-mole premise generates relentless tension, why the Academy at last rewarded the man who made it, and how the picture compares to crime cinema made around the world in the same era.
 

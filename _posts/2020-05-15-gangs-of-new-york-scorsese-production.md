@@ -5,12 +5,14 @@ date: 2020-05-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Martin Scorsese", "Gangs of New York", "Film Production", "Historical Epics", "Daniel Day-Lewis", "Film Analysis"]
 image: /assets/images/blog/blog-01.webp
-author: "Insight Crunch Team"
+author: "chloe-martin"
 excerpt: "Gangs of New York was a thirty-year dream Martin Scorsese finished only after a bruising studio battle over length, final cut, and a vast city built in Rome."
 reading_time: 60
+lang: en
 ---
-
 Some films arrive whole, as if the world simply handed them over. Gangs of New York arrived the hard way, dragged into being across three decades of waiting, then forced through a post-production fight so bitter that the version audiences finally saw in late 2002 still carries the marks of the struggle. Martin Scorsese had wanted to make this picture since the early 1970s. He read the book that inspired it, optioned the rights, watched the financing collapse, watched it revive, built an entire nineteenth-century city on a foreign backlot, and then spent months locked in conflict with a producer over how long the movie should run and who controlled the final cut. The film that resulted is sprawling, uneven, magnificent in stretches, compromised in others, and impossible to separate from the conditions that produced it.
+
+![Gangs of New York: Anatomy of a Troubled Epic - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 That inseparability is the argument of this study. Gangs of New York is best understood not as a finished object that happens to have a troubled backstory, but as a film whose final shape was written by the troubles themselves. The decades of development gave it the weight of obsession. The built city gave it a tactile, lived-in density that computer effects could not have matched. The final-cut battle gave it both its scars and, arguably, some of its discipline. To watch the movie attentively is to watch a vision and a checkbook wrestling on screen, and that wrestling match is more interesting, and more instructive about how large films actually get made, than any tidy account of authorial genius could be.
 

@@ -5,12 +5,14 @@ slug: performance-great-gatsby
 excerpt: "Performance and theatricality in Gatsby shape the whole novel, with each character staging a self for an audience until authenticity becomes impossible."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "amanda-ross"
 tags: ["The Great Gatsby", "Themes", "Performance", "Theatricality", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 reading_time: 50
+lang: en
 ---
-
 Every major figure in this novel is acting for someone, and the book knows it. Gatsby builds a mansion, a manner, and a name; Myrtle rehearses a gentility she was never handed; Daisy plays at a warmth she can switch off; and Nick, who insists he only watches, arranges the whole story so that we watch it through him. To study performance and theatricality in Gatsby is to notice that Fitzgerald treats identity and society as theater, with each character cast in a role and each scene blocked for effect. The claim this article defends is blunt: in this world everyone is always on stage, and the cost of that staging is that an honest, unperformed self becomes nearly impossible to reach.
+
+![Performance and Theatricality in Gatsby - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 That argument matters because it changes what the book is about. Read as a love story, the novel is about a man who wants a woman. Read as a class study, it is about money that cannot buy entry. Read as theater, it becomes something stranger and more modern: a study of people who have so thoroughly turned themselves into roles that the role is the only self left. The green light, the parties, the lies, the social maneuvering all become scenes in a production with no offstage. By the end, the question is not whether Gatsby loves Daisy or whether he can rise. The question is whether anyone in the book is ever simply themselves, with the curtain down and no one watching. The answer the novel keeps returning is no.
 

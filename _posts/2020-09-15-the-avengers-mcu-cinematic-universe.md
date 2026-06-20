@@ -6,15 +6,15 @@ date: 2020-09-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Avengers", "Joss Whedon", "Superhero", "Marvel Cinematic Universe", "Franchise Cinema"]
 excerpt: "The Avengers (2012) confirmed the cinematic universe model, turning standalone superhero films into chapters of one serial and reshaping the blockbuster."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2020-09-15
+lang: en
 ---
-
 In the spring of 2012, a single movie did something no studio had managed before: it took six superheroes who had each carried a film of their own, or been seeded inside someone else's, and brought them into one room to fight a shared enemy. The Avengers, directed and co-written by Joss Whedon, was not the first crossover in the history of popular storytelling, and it was not even the first attempt to link movies through recurring characters. What it was, and what nothing before it had been, was proof. It demonstrated that a studio could plant a slate of standalone pictures over four years, thread them with shared characters and end-credit teases, and then pay the whole thing off in a crossover event that audiences would treat as a season finale they had waited their lives to see. The receipts settled the argument. The Avengers grossed over 1.5 billion dollars worldwide and stood as the third highest-grossing film ever made at the moment of its release. After that number, the interconnected universe stopped being a gamble and became the central business plan of Hollywood. The franchise era had its founding text.
 
-![A team of costumed heroes standing together in formation, the visual signature of the superhero crossover event that defined the cinematic-universe era](/assets/images/blog/blog-01.webp)
+![A team of costumed heroes standing together in formation, the visual signature of the superhero crossover event that defined the cinematic-universe era](/assets/images/blog/blog-79.webp)
 
 This article treats The Avengers not as a superhero adventure to be recapped but as the confirming case of a production model, the moment a strategy crossed from theory into industrial fact. The aim is to explain what the cinematic-universe model is, how this film proved it works, why that proof reshaped what a blockbuster is and who gets to make one, and how the whole approach sits inside a longer worldwide history of serialized, interconnected storytelling that Hollywood did not invent so much as industrialize. The reading is comparative by design, because the cinematic universe looks inevitable only until you set it beside the franchise traditions of other film cultures and see how specific, and how American, its particular shape turned out to be.
 

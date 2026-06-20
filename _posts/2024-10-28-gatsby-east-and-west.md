@@ -6,15 +6,15 @@ date: 2024-10-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "East and West", "Themes", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Geography as theme: East and West in The Great Gatsby maps the corrupt East against the wholesome Midwest, turning the novel's compass into a moral verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-10-28
+lang: en
 ---
-
 Reading geography as theme: East and West in The Great Gatsby means treating the novel's compass as a moral instrument rather than a set of directions. The book is not simply set on Long Island and in New York; it argues something through where its people come from, where they go, and where they end up. Every major character in Fitzgerald's novel is a Westerner who has migrated to the corrupt Eastern seaboard, and the man telling the story leaves that East for home after watching it destroy the others. The precise claim the novel makes is that the East is where the Midwestern dream goes to rot, and that the only available cleansing is retreat.
 
-![The Great Gatsby: geography as theme, the moral map of East and West](/assets/images/blog/blog-01.webp)
+![The Great Gatsby: geography as theme, the moral map of East and West](/assets/images/blog/blog-97.webp)
 
 That claim is easy to miss, because the directions look like ordinary scenery. A reader can finish the book convinced that East and West are just the addresses of the action. Nick lives in West Egg, Tom and Daisy across the bay in East Egg, the parties happen on the Sound, the confrontation happens in a Manhattan hotel suite. But Fitzgerald loads those coordinates with judgment. By the final pages, Nick has reorganized the whole narrative around a single axis, and that reorganization is the key to the book's deepest argument about value, belonging, and the country itself.
 

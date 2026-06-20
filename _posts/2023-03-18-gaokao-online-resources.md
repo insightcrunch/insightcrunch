@@ -6,15 +6,14 @@ date: 2023-03-18
 categories: ["Industry"]
 tags: ["高考", "高考网课", "学习APP", "在线资源", "Gaokao Online", "Resources"]
 excerpt: "系统梳理高考在线学习资源:国家智慧教育平台等免费平台、学而思猿辅导等付费网课、猿题库作业帮等题库APP、AI辅助工具,以及历年真题在线练习入口。教你按自身基础、按学科特点、按不同备考阶段挑选真正适合的工具,避开信息过载与伪学习陷阱,合理搭配线上与线下学习,把每天投入的时间都真正转化为考场上的实际分数。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "chen-xiaoling"
+lang: zh
 ---
-
-
 近些年,中国的在线教育发展迅猛,高考备考的数字工具几乎覆盖了从视频讲解、刷题练习、错题管理到智能辅导的每一个环节。对今天的高三学生来说,问题早已不是"找不到资料",而是"资料太多、不知道怎么挑"。打开手机,各类网课广告、刷题应用、名师课程铺天盖地,稍不留神就会陷入"收藏了一堆却一个都没用"的怪圈。本文把这片庞杂的数字学习版图梳理清楚,帮助你在免费平台、付费课程、题库应用、真题工具之间做出理性的取舍,把有限的时间和金钱花在真正能提分的地方。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-22.webp)
 
 本文的核心立场很明确:在数字资料过剩的时代,决定成败的不是你能拿到多少课程,而是你能不能筛选出适合自己的那几样,并且坚持用到底。一个常见的典型组合是:国家官方平台打底、哔哩哔哩上的顶尖讲师补充、配合真题工具做系统训练,再针对薄弱学科买一到两门专项付费课。把这套逻辑想清楚,你就不会被层出不穷的推销话术牵着走。
 

@@ -6,17 +6,17 @@ date: 2020-09-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Harry Potter", "David Yates", "Fantasy", "Adaptations", "Film History", "World Cinema"]
 excerpt: "Harry Potter adapted a single book saga across eight films and a decade, darkening with its audience and shaping how studios build literary franchises."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2020-09-01
+lang: en
 ---
-
 No studio had ever attempted what Warner Bros. set out to do in 2001: adapt a single, still-unfinished literary saga across eight films and a full decade, releasing the chapters fast enough that the children who lined up for the first would graduate from school alongside the characters they were watching. The Harry Potter film series is the clearest case in modern cinema of adaptation treated not as a single act of translation but as a sustained, decade-long campaign, a property mined chapter by chapter while its audience aged in real time. The decision that organizes every other decision in the eight films is this one: to build a franchise that grew up.
 
 That choice sounds obvious in hindsight, because the result became the template every studio later copied. It was not obvious in 2001. The conventional wisdom of the literary blockbuster held that you optioned a bestseller, made one expensive film, and hoped for a sequel if the numbers justified it. The eight-film commitment to one author's continuing work, undertaken before that work was even complete, was a wager on continuity at a scale Hollywood had not tried. Understanding the Harry Potter adaptation means understanding it as that wager: how a sequence of children's novels became a sustained blockbuster enterprise, how the translation darkened deliberately as its readers and viewers matured, and how that model of long-arc, real-time adaptation reshaped the way studios everywhere build durable properties out of books.
 
-![How the Harry Potter films built a blockbuster franchise from the books, an adaptation analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Harry Potter films built a blockbuster franchise from the books, an adaptation analysis - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 ## The source and what a sustained adaptation demanded
 

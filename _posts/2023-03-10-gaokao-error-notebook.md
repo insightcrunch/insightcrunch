@@ -6,14 +6,14 @@ date: 2023-03-10
 categories: ["Industry"]
 tags: ["高考", "错题本", "学习方法", "复习工具", "Gaokao Error Notebook", "Study Method"]
 excerpt: "错题本是高考备考中性价比最高、最经典有效的学习方法之一,却常被普通考生敷衍对待、做成精美的摆设。本指南从理念到操作,系统讲解错题本的核心理念、六要素结构、分类方式、记录时机、回顾频率、错因分析、纸质与电子的取舍、五大常见陷阱以及各学科整理特点,帮助考生把每一处失误真正转化为不再失分的知识,实现稳步而高效的提分。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 64
-author: "Insight Crunch Team"
+author: "he-xiaomei"
+lang: zh
 ---
-
 在高考备考的所有学习方法当中,如果要评选一个性价比最高、被状元和老师反复强调、却又最容易被普通考生敷衍对待的工具,那一定是错题本。它不需要花钱报班,不需要熬夜刷海量习题,只需要一支笔、一个本子和一点点坚持,就能让你的分数在几个月内稳步上升。遗憾的是,绝大多数学生虽然都听说过这个方法,真正把它做对、做透、做出效果的却寥寥无几。很多人把错题整理当成一项抄写作业,把宝贵的本子变成了精美的摆设。本指南将从理念到操作,把这套方法彻底讲透,帮助你建立起一套真正能提分的复习系统。想要了解备考全局的读者,也可以先浏览[高考完全指南](/2026/03/18/gaokao-complete-guide/),再回到这里深入掌握这一核心技术。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-32.webp)
 
 ## 错题本的核心理念:错误是最有价值的学习资源
 

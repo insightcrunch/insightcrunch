@@ -6,15 +6,15 @@ date: 2024-11-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Religion", "Themes", "Symbolism", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "Religion and the sacred in Great Gatsby, explained: how Fitzgerald empties the world of God so money, the dream, and a faded billboard replace true faith."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-11-25
+lang: en
 ---
-
 The argument the novel makes about religion and the sacred in Great Gatsby is colder than most readers expect. Fitzgerald does not write a book that doubts God or wrestles with belief. He writes a book in which God has simply gone, leaving the shape of worship behind without its object. Every gesture that once belonged to faith still happens in this world. People kneel, they yearn, they pledge themselves to something larger, they wait for a sign across the water. What has changed is the destination. The longing that a believer would carry toward heaven now travels toward money, toward a green light, toward a woman's voice, toward a face on an advertising hoarding. To read religion and the sacred in The Great Gatsby properly is to watch a spiritual machinery keep running after the spirit has been drained out of it.
 
-![Religion and the sacred in The Great Gatsby explained - the spiritual vacuum and displaced worship - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Religion and the sacred in The Great Gatsby explained - the spiritual vacuum and displaced worship - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 This is why the theme is so easy to misread. A reader who notices the eyes on the billboard, the talk of God, the funeral with its minister, and Gatsby's almost devotional pursuit of Daisy can conclude that the novel is quietly religious, that it points upward toward judgment and grace. The opposite is true. The novel keeps producing the vocabulary of the sacred precisely because there is nothing sacred left to attach it to. The eyes are an advertisement. The son of God is a bootlegger. The grail is a careless rich girl. The prayer is a single broken sentence spoken by a man about to commit murder. The book belongs in the broader conversation about [the novel's major themes](/2022/01/31/great-gatsby-themes-overview/), but its treatment of faith is one of the most precise and least sentimental things in it, and it rewards a reader who refuses to soften it.
 

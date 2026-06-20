@@ -6,14 +6,14 @@ date: 2023-02-22
 categories: ["Industry"]
 tags: ["高考", "答题技巧", "时间分配", "考场策略", "Gaokao Techniques", "Exam Hall"]
 excerpt: "同等知识水平下,临场策略出色的考生往往能比策略薄弱的同伴多拿十到三十分,而这段差距可能就是与理想院校之间的距离。本文系统讲解高考考场答题技巧,涵盖时间分配、题型作答顺序、难题取舍、答题卡填涂、争取过程分、检查环节与失误防范,并分科目、分学生群体给出可落地的临场方案,帮你把多年寒窗的积累稳稳兑现成考场上的分数。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 64
-author: "Insight Crunch Team"
+author: "feng-lei"
+lang: zh
 ---
-
 高考是知识储备和应试能力的双重检验。很多人误以为只要把书读透、把题刷够,分数自然就会上来。可真正走进考场才会发现,同样掌握了知识的两名学生,最终成绩却可能相差几十分。这中间的差距,往往不在于谁懂得更多,而在于谁能在有限的时间里,把自己会的东西稳稳地、清晰地、不出纰漏地落在答题卡上。考场上的临场发挥,本质上是一套可以训练、可以打磨的能力。把这套能力梳理清楚、刻意练习,是每一名考生在冲刺阶段最值得投入的事情之一。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-117.webp)
 *考场上的临场发挥是一套可以系统训练的能力,时间分配、题型应对、检查复核、失误防范缺一不可*
 
 作为深耕中国基础教育多年的教育研究者,我想先把一个核心判断摆在最前面:同等知识水平之下,临场策略出色的考生通常可以比策略薄弱的同伴多拿十到三十分。这个区间不是夸张,而是无数阅卷现场和模考数据反复印证的事实。十分,在很多省份意味着上万名次的差距;三十分,足以让一个原本只能走二本的孩子叩开一本甚至重点高校的大门。所以请不要把临场策略当成可有可无的小聪明,它是实打实的得分能力。

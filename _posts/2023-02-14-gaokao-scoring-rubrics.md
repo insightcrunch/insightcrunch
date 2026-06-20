@@ -6,16 +6,16 @@ date: 2023-02-14
 categories: ["Industry"]
 tags: ["高考", "评分标准", "阅卷", "得分点", "Gaokao Scoring", "Rubrics"]
 excerpt: "本文由资深教育专家系统拆解高考各科评分标准与完整阅卷流程，详解客观题机读与主观题双评机制，覆盖数学物理解答题分步得分点、语文作文四维评分等级、各科常见失分点与规范书写要点，并梳理得分最大化的五大策略与考生常见的评分误区，结合历年真题逐步说明阅卷逻辑，帮助考生看懂判分规则、优化答题习惯、稳步提升卷面得分。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "sun-ming"
+lang: en
 ---
-
 高考评分是整个高考链条中最容易被考生忽视却又最直接决定命运的一环。许多考生把全部精力放在做题量与知识点覆盖上，却很少认真研究阅卷老师究竟依据什么尺度来判定一份答卷的高下。理解评分尺度并不是投机取巧，而是为了弄清楚怎样的作答方式才能把已经掌握的知识最大限度地转化为卷面分数。一名资深教育专家在多年带班与参与阅卷研究的过程中反复确认一个事实：相同水平的两名考生，仅仅因为作答习惯与卷面规范的差异，最终分差可以拉开十几分甚至更多。这正是研究阅卷尺度的意义所在。
 
 本文将系统拆解高考各学科的判分依据，从阅卷流程、判分类型、学科特点、解答题的步骤给分、作文的等级评定，一直到失分点清单、双评机制、规范书写与得分最大化策略。希望读者读完之后，能够建立起一套清晰的卷面意识，把每一分该拿的分都稳稳拿到手。如果你正在制定复习节奏，建议同时参考[高考完全指南](/2026/03/18/gaokao-complete-guide/)，把评分研究放进整体备考框架中统筹安排。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-112.webp)
 
 ## 高考评分体系的整体框架
 

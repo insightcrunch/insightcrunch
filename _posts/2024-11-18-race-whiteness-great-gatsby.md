@@ -6,17 +6,17 @@ date: 2024-11-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Race and Whiteness", "Themes", "Literary Criticism", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Race and whiteness in Great Gatsby is the novel's unspoken floor of belonging: how Fitzgerald encodes a racial order he rarely names, and how to read it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-11-18
+lang: en
 ---
-
 Most students read The Great Gatsby as a story about money, and they are not wrong. Yet the question of race and whiteness in great gatsby sits one layer beneath the class drama, quietly organizing who is allowed to belong and who is permanently shut out. The novel almost never names race outright. It does not have to. Its world is built on an assumption so total that it functions like the floor under a house: invisible until someone starts kicking at it, which is exactly what Tom Buchanan does within minutes of the book's first dinner party. When Tom panics about civilization, when Daisy wraps her girlhood in the word white, when Nick laughs at a passing car, the novel is registering a racial order it treats as the natural shape of the world. Learning to see that order is the difference between reading the surface of Fitzgerald's book and reading its argument.
 
 This article takes race and whiteness as a standalone theme and traces how the novel encodes it. The claim it defends is simple to state and easy to miss: whiteness in Gatsby is the unspoken floor of belonging. Race rarely surfaces as a topic, yet an assumed whiteness is the precondition for entry into the old-money world, and Tom defends that precondition in open panic because he can feel it being challenged. Read this way, the racial subtext is not a footnote to the class story. It is the silent boundary that makes the class story possible.
 
-![Race and whiteness as a theme in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Race and whiteness as a theme in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 To follow the argument you will want the text close at hand, because the evidence lives in single words and brief gestures rather than long speeches. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the searchable text makes it easy to gather every appearance of the word white and every moment the racial order shows itself. With the passages in front of you, the theme stops looking marginal and starts looking structural.
 

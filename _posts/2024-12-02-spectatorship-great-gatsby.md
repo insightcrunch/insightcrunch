@@ -5,12 +5,14 @@ date: 2024-12-02
 excerpt: "Spectatorship and watching in Gatsby shape the entire novel, where everyone is watched and judged yet the looking never deepens into true seeing or knowing."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "amanda-ross"
 reading_time: 48
 tags: ["The Great Gatsby", "Spectatorship", "Theme Analysis", "F. Scott Fitzgerald", "Watching and the Gaze", "American Literature"]
+lang: en
 ---
-
 Spectatorship and watching in Gatsby is one of those structural features that hides in plain sight, so familiar that most readers walk straight past it on the way to the green light and the parties. Yet once you start counting the acts of looking in F. Scott Fitzgerald's novel, the pattern becomes impossible to unsee. Someone is almost always observing someone else. A narrator studies a host. A host studies a dock. A billboard studies a road. Guests study a stranger they have come to gawk at. The whole book is organized around eyes that look and bodies that get looked at, and that arrangement is not decoration. It is the architecture of the moral world Fitzgerald builds.
+
+![Spectatorship and Watching in Gatsby: Theme Guide - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 This article takes spectatorship as a theme in its own right, distinct from the eyes-and-seeing motif that runs through the prose and distinct from the Eckleburg billboard treated as a symbol. Those are real and related, but they are not the same thing. The motif is a pattern of imagery. The symbol is a single object loaded with meaning. Spectatorship is the social condition the novel keeps dramatizing: the state of existing as something on display, perpetually available to the gaze of others, judged by audiences who watch without ever quite understanding. Among the great gatsby themes that essay writers reach for, this one rewards close attention because it touches every character and nearly every scene.
 

@@ -6,13 +6,15 @@ date: 2024-12-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Ambition", "Themes", "Jay Gatsby", "Myrtle Wilson", "Close Reading", "American Literature"]
 excerpt: "Ambition and aspiration in The Great Gatsby drive the whole novel: Fitzgerald crowns his strivers with grandeur, then kills them while the static rich live."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-12-16
+lang: en
 ---
-
 The Great Gatsby is often read as a love story or a portrait of the rich, but its sharpest subject is the will to rise. The theme of ambition and aspiration in The Great Gatsby runs deeper than any single romance, because the novel watches what happens to people who refuse to stay where they were born. Fitzgerald gives his strivers grandeur and then destroys them, and he leaves the people who already arrived untouched. That doubled outcome is the argument the book makes about wanting more: ambition is the most admirable and the most dangerous force in its world, and the novel crowns it in the same gesture that kills it.
+
+![Ambition and Aspiration in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 This is not an accident of plot. The book is built so that the characters with the largest dreams meet the worst ends, while the characters with no dreams at all survive in comfort. Gatsby reaches for a remade self and a recovered past, and he dies face down in his own pool. Myrtle Wilson reaches for a richer, larger life, and she dies under the wheels of a car owned by the world she wanted to enter. Tom and Daisy Buchanan, who want nothing they do not already possess, retreat into their money and go on. Read those three fates side by side and a pattern emerges that this article calls the crown-and-kill verdict: the novel reserves its magnificence for the strivers and its safety for the satisfied.
 
@@ -321,5 +323,4 @@ Start by naming the novel's specific verdict rather than the topic. A weak thesi
 ### Does the novel reward anyone for their ambition?
 
 No character in the novel is rewarded for the drive to rise, and that absence is the theme's hardest point. The strivers are punished, Gatsby with death and Myrtle with death, while the only characters who prosper are the ones who never reached, Tom and Daisy, who retreat into inherited money and survive untouched. The novel grants the strivers grandeur, the narrator's love, and the most beautiful prose in the book, but grandeur is not the same as reward, and the admiration the text offers is paid out only after the reacher is destroyed. Fitzgerald arranges his world so that aspiration buys magnificence and ruin together, never safety or success. The comfortable are spared, but their safety is the impunity of the already powerful, not a prize for any quality. In this novel the reach is honored and never rewarded, and the gap between honor and reward is where its tragedy lives.
-
 
