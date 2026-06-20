@@ -6,17 +6,17 @@ date: 2026-06-21
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Netherlands", "Sweden", "Group Stage", "Match Analysis"]
 excerpt: "Netherlands vs Sweden analysis: how a Brobbey and Gakpo double drove a 5-1 World Cup 2026 win, what the result meant for Group F, and who delivered the night."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-21
+lang: en
 ---
-
 The Netherlands beat Sweden 5-1 in Houston, and the scoreline says control while the ninety minutes told a more interesting story. This Netherlands vs Sweden World Cup 2026 result was a finishing exhibition more than a smothering, a night when the Dutch turned a handful of well-built chances into goals and Sweden turned a larger pile of openings into almost nothing. Brian Brobbey scored twice inside the opening seventeen minutes, Cody Gakpo struck twice early in the second half, and Crysencio Summerville added a fifth from the bench, with Anthony Elanga claiming a consolation that flattered no one but at least put Sweden on the board. The gap between the teams on the night was not possession and it was not territory. It was the quality of the final pass and the calm of the finish.
 
 That distinction is the spine of this piece, and it is worth naming plainly: this was a delivery-and-finishing rout, not a wire-to-wire stranglehold. Sweden carried a real threat, out-shot the Dutch through the first half, and had a goal chalked off before the interval. What separated the sides was that Ronald Koeman's players converted the better openings while Graham Potter's side spurned theirs. Read that way, the 5-1 is less a verdict on who held the ball and more a verdict on who used it.
 
-![Netherlands vs Sweden World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Netherlands vs Sweden World Cup 2026 analysis](/assets/images/blog/blog-84.webp)
 
 Houston in late June is a test of legs as much as nerve, and the heat forced a scheduled cooling break that briefly slowed the rhythm of a game the Netherlands had already shaped. By the time the players paused, the Dutch were two goals up and Sweden were chasing a match that had run away from them faster than the balance of play warranted. The rest of this analysis works through how the night unfolded, why the systems produced this outcome, who lifted the performance and who fell short, what the numbers actually say underneath the five-goal margin, and what the win means for a Group F that the Netherlands now lead going into the final round.
 
