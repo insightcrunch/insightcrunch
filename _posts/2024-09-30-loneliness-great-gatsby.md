@@ -6,15 +6,15 @@ date: 2024-09-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Loneliness and Isolation", "Themes", "Close Reading", "American Literature"]
 excerpt: "Loneliness and isolation in The Great Gatsby run beneath the glamour: every character stands alone in the crowded parties, and the empty funeral confirms it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-09-30
+lang: en
 ---
-
 The loudest loneliness in The Great Gatsby happens in the most crowded rooms. Loneliness and isolation in The Great Gatsby are not a quiet undertone the novel saves for a few melancholy passages; they are the condition the parties are built to hide, the truth the spectacle is staged to drown out. Fitzgerald fills his pages with orchestras, motorcars, hundreds of guests, and a man whose mansion blazes with light all summer, and then he arranges every scene so that the more people gather, the more alone his characters become. Read the novel for its loneliness and the glamour stops being glamour. It becomes a sound made to cover a silence.
 
-![Loneliness and isolation in The Great Gatsby explained, the solitude beneath the crowded parties - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Loneliness and isolation in The Great Gatsby explained, the solitude beneath the crowded parties - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The claim this article defends is simple to state and easy to prove from the text: the novel surrounds its characters with people precisely to expose how separate they are from one another, so that the empty funeral at the end does not introduce a new sadness but finally makes visible what was true on every crowded page before it. Call it the paradox of crowds that conceal solitude. Gatsby throws the largest parties on Long Island and dies essentially friendless. Nick stands inside the city's brightest rooms and feels himself watching from the street. Daisy sits at the center of a marriage and a social world and asks what she will do with the next thirty years as if facing a sentence. The book never lets a crowd mean company. That refusal is the theme.
 
@@ -256,5 +256,4 @@ Build the answer on the paradox rather than the observation. Do not simply state
 ### Q: Why does Daisy send no flower when Gatsby dies?
 
 Daisy's silence at Gatsby's death is the novel's coldest confirmation of the loneliness theme. Gatsby organized his entire existence around reaching her, building the mansion, throwing the parties, and waiting years to win her back, and when he dies for a crime committed in her defense, she does not mark the death with so much as a flower. Nick records the fact "without resentment," which makes it colder still, a simple statement of how completely the reach of the whole novel goes unanswered. Daisy's silence is not only cruelty; it is the act of a woman retreating into the safety of her marriage and her wealth, choosing the careless self-protection that Nick will finally diagnose in her and Tom. The green light Gatsby reached toward across nine chapters answers, at the last, with nothing, and that nothing is the loneliness theme stated as plainly as a novel can state it.
-
 

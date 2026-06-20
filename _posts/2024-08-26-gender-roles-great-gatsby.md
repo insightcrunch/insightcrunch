@@ -6,15 +6,15 @@ date: 2024-08-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gender Roles", "Themes", "Daisy Buchanan", "Literary Criticism", "F. Scott Fitzgerald"]
 excerpt: "Gender roles in The Great Gatsby trap both sexes, yet the women get far less room: a theme analysis of marriage, the double standard, and masculine codes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-08-26
+lang: en
 ---
-
 Ask what gender roles in The Great Gatsby actually do, and the easy answer is that the men hold power and the women suffer it. That answer is half right, which is what makes it dangerous. Fitzgerald did build a world that punishes its women, but he also built one that squeezes its men into shapes nearly as rigid, and a reading that sees only the female victims misses the architecture of the whole thing. The novel does not simply show oppression. It maps a system of expectation that closes around everyone in the book, sorting each character by sex into a set of permitted moves, and then it watches what happens when a person tries a move the system forbids. The verdict the book reaches is bleak and precise: the social world of 1922 is a cage for men and women alike, but the women's cage is smaller, and the bars are closer to the skin.
 
-![Gender Roles in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Gender Roles in The Great Gatsby](/assets/images/blog/blog-70.webp)
 
 This is the analysis that holds the whole gender cluster together. The marriage and the feminist-lens articles take pieces of it; this one owns the broad question of how the novel represents masculinity and femininity as a structure of permitted and forbidden behavior. The aim here is not to catalog grievances but to read the system, scene by scene, until you can defend a thesis about it. By the end you should be able to argue not just that the book is unfair to women, which any reader notices, but exactly how its unfairness is organized, why the men are caged too, and whether Fitzgerald is criticizing the arrangement or merely recording it.
 
@@ -66,7 +66,6 @@ The men are bound by a masculine code that equates worth with dominance, money, 
 Gatsby's relationship to the masculine code is the most poignant in the book, because he has done everything the script of the self-made man tells a poor boy to do and still cannot purchase the one thing the script promised. He has the money, the house, the shirts, the parties, the performance of effortless wealth, and none of it converts into the standing that Tom inherited at birth. When Tom sneers at his pink suit and his bootlegging, he is enforcing the deeper rule that new money is not real manhood in this world, that the power Gatsby bought is counterfeit beside the power Tom was given. Gatsby's tragedy has many dimensions, and one of them is gendered: he is a man who believed manhood could be earned and self-invented, and the old-money men close ranks to show him it cannot. His failure to win Daisy is also a failure to be granted full membership in the only definition of manhood his world recognizes.
 
 George Wilson sits at the bottom of the male hierarchy, and he is the novel's image of masculinity emptied out. He has no money, no command, no presence; he is so faded that Tom can carry on an affair with his wife almost under his eyes. Wilson cannot perform any part of the masculine script, and the result is not freedom but erasure. He is barely a person in his own marriage until the very end, when grief and rage finally move him to the one act of dominance available to a powerless man, an act of lethal violence that destroys Gatsby and then himself. The book is precise here: the man who could not be powerful in any sanctioned way becomes powerful only through murder, and only for a moment, before turning the power on himself. Wilson is what the masculine cage does to a man who cannot meet its terms, just as Myrtle is what the feminine cage does to a woman who reaches above hers. They die in the same hour, the powerless husband and the over-reaching wife, and the symmetry is not an accident.
-
 
 
 ## How the gender theme develops across the nine chapters
@@ -284,5 +283,4 @@ The Plaza Hotel confrontation captures it most completely, because it places bot
 ### Q: How can I write about gender roles without reducing the novel to its women?
 
 Use the men as contrast rather than ignoring them, even when the prompt centers on women. A paragraph that sets Daisy's trapped retreat against Tom's consequence-free affair makes the inequality argument far stronger than one that merely describes Daisy's confinement, because contrast is evidence while assertion is not. Bring in Wilson's erasure and Gatsby's failed manhood to show that the masculine code cages its men too, then use that universality to measure the inequality precisely: both sexes are confined, but the women's cells are smaller and their punishments crueler. The richest essays read the whole system, cage against cage, rather than cataloging only the female grievances, which is what turns a true observation into a defended argument.
-
 

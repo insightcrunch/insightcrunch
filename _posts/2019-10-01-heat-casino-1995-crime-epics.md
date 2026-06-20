@@ -6,15 +6,15 @@ date: 2019-10-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Heat", "Casino", "Michael Mann", "Martin Scorsese", "Crime Film", "Film Analysis"]
 excerpt: "Heat and Casino, two sprawling 1995 crime epics, compared: how Michael Mann and Martin Scorsese pushed the crime film in opposite directions in one year."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-10-01
+lang: en
 ---
-
 In 1995 two American directors at the height of their powers released sprawling crime epics within weeks of each other, and the coincidence still frames an argument worth having. Michael Mann gave audiences Heat, a cool professional duel that sets a master thief against the detective who hunts him across the avenues and storm drains of Los Angeles. Martin Scorsese gave them Casino, an operatic chronicle of a mob-run gambling empire rising and rotting in the desert light of Las Vegas. Both run close to three hours. Both put Robert De Niro at the center of a doomed enterprise. Both treat the criminal life as a vocation pursued with monastic seriousness. Yet they could hardly feel less alike, and the gap between them maps the full range of what the crime epic could do at the close of the century.
 
-![Two crime epics compared, Heat and Casino, 1995](/assets/images/blog/blog-01.webp)
+![Two crime epics compared, Heat and Casino, 1995](/assets/images/blog/blog-70.webp)
 
 That single calendar year produced two studies in obsession built on opposite temperatures. One is controlled, precise, almost surgical, a study of men defined by their work and their codes. The other is hot, restless, and maximalist, a study of men and women destroyed by appetite. Putting them side by side is not a parlor game. It is a way to see how scale, style, and obsession can be tuned toward completely different ends, and to decide, with the evidence laid out, which of the two left the deeper mark on the crime film as a form.
 

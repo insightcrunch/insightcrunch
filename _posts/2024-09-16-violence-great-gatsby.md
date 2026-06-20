@@ -6,15 +6,15 @@ date: 2024-09-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Violence", "Themes", "Close Reading", "Tom Buchanan", "American Literature"]
 excerpt: "Violence in The Great Gatsby flows downward and unpunished: the secure rich harm the poor without cost, making brutality a privilege of class, not disorder."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-09-16
+lang: en
 ---
-
 Violence in The Great Gatsby is the part of the novel that gets noticed and then misread. Readers register the broken nose, the death car, and the gunshots in the garden as shocks along the way to the ending, isolated jolts in a story that is mostly about parties and a green light. The argument this analysis defends is harder and more useful: the bloodshed in Fitzgerald's novel is not scattered, and it is not even-handed. It runs in a single direction. Tom Buchanan strikes a working woman across the face and pours himself another drink. A machine owned by the new-money world kills that same woman, and the wife driving it is shielded by the family's money. A grieving mechanic shoots the man the secure rich have set up to take the blame, then shoots himself. Across every one of these acts a pattern holds: the people who commit harm and keep their lives are the established rich, and the people who absorb harm with their bodies are the poor and the outsiders. Call it the downward-and-unpunished rule, the through-line that organizes violence in The Great Gatsby into an argument about class rather than a sequence of accidents.
 
-![Violence in The Great Gatsby explained, the broken nose, the death car, and the unpunished rich - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Violence in The Great Gatsby explained, the broken nose, the death car, and the unpunished rich - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 That rule is the claim this article owns, and it changes how the deaths read. The individual scenes belong to the chapter readings, where the choreography of each moment can be slowed down and examined. Here the question is thematic: what does the novel build out of its harm, who is allowed to inflict it, who is required to absorb it, and what verdict the pattern delivers on the world that produced it. The short answer is that Fitzgerald turns brutality into a measure of social standing. The deeper the security of your money, the more harm you can do without paying for it. The thinner your claim to that world, the more certainly the harm lands on you. Violence in the novel is not a breakdown of the social order. It is the social order, expressed at full volume.
 
@@ -40,7 +40,6 @@ A useful way to hold the theme steady is to notice what the novel never does. It
 
 The novel announces its real subject early, in the apartment Tom keeps for his affair. The afternoon has the loose, drunken texture of a party that does not quite know it is a party, and then Myrtle, emboldened by gin, begins to chant Daisy's name in defiance of Tom's command never to say it. What follows is the most economical act of brutality in the book. Fitzgerald writes that, making a short deft movement, Tom Buchanan broke her nose with his open hand. The sentence is almost unbearably controlled. The adjectives that matter are "short," "deft," and "open." This is not a man losing himself in rage. It is a man performing a small, practiced correction, the kind of gesture that requires no effort because the power behind it is never in question.
 
-![The broken nose in Chapter 2, Tom Buchanan and the first act of violence in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 ### Why does Tom Buchanan break Myrtle's nose?
 

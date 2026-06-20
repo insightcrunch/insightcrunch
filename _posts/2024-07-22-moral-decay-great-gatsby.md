@@ -6,13 +6,15 @@ date: 2024-07-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Moral Decay", "Themes", "Symbolism", "Close Reading", "American Literature"]
 excerpt: "Moral decay in Great Gatsby is the foundation of its glittering world, not a flaw: corruption, carelessness, and ash expose the rot beneath the bright gloss."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-07-22
+lang: en
 ---
-
 The argument this article defends is blunt: moral decay in Great Gatsby is not a flaw in an otherwise glittering world but the foundation that world is built on. Fitzgerald does not show a beautiful Jazz Age that a few bad actors happen to spoil. He shows a surface of wealth and music and silk shirts whose brilliance is generated, at its source, by rot. The parties are funded by crime. The ease of the rich is purchased by other people's ruin. The dream at the center of the book floats on what the narrator calls foul dust. Read this way, the novel is less a tragedy of one man's love than a moral diagnosis of an entire social order, and the diagnosis is delivered through image and structure rather than through any sermon.
+
+![Moral Decay in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 That claim has consequences for how every other part of the book reads. If the decay is foundational rather than incidental, then the valley of ashes is not a grim detour between West Egg and Manhattan but the truth the mansions are designed to hide. The carelessness of Tom and Daisy is not bad manners but a structural privilege. The emptiness behind the spectacle is not a private sadness but the predictable result of a culture that has confused having with meaning. This is the reading the rest of the article builds, scene by scene, image by image, until the surface and the rot beneath it can be seen as a single system.
 

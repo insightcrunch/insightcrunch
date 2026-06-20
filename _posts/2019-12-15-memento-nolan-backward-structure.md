@@ -6,13 +6,15 @@ date: 2019-12-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Memento", "Christopher Nolan", "Neo-Noir", "Narrative Structure", "Nonlinear Storytelling"]
 excerpt: "Memento runs its color scenes backward so the audience shares Leonard's amnesia. A clear guide to Nolan's two-timeline structure and what the ending means."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2019-12-15
+lang: en
 ---
-
 A man wakes in a motel room he does not recognize. He checks the notes in his pockets, reads the tattoos on his skin, and studies a wallet of Polaroid photographs that tell him who to trust and who to kill. He cannot form new memories. Everything that happened more than a few minutes ago has vanished, and he rebuilds his identity each morning from the evidence he has left himself. This is Leonard Shelby, and the remarkable thing about the picture built around him is that the audience knows almost exactly as little as he does at any given moment. Christopher Nolan engineered that effect by running the story backward.
+
+![Memento Explained: Nolan's Backward Story Structure - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 Memento, released to festival audiences in 2000 and to wider American screens in March 2001, is a thriller about an insurance investigator hunting the man he believes raped and murdered his wife. That logline sounds conventional. The execution is not. The picture is told in two interlocking strands, one of them running in reverse, and the design is so precise that it changed how a generation of writers thought about what a screenplay could do. The backward construction is not decoration laid over a normal plot. It is the only way to put a viewer inside a mind that cannot hold on to the past.
 

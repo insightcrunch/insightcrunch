@@ -6,11 +6,13 @@ categories: ["Leisure"]
 tags: ["Cinema Classics", "Studio Ghibli", "Hayao Miyazaki", "Spirited Away", "Anime", "Animation", "Japanese Cinema"]
 excerpt: "Spirited Away carried Studio Ghibli's hand-drawn vision worldwide, winning the Oscar and Golden Bear and opening the West to Japanese anime and folklore."
 image: /assets/images/blog/blog-01.webp
-author: "Insight Crunch Team"
+author: "chloe-martin"
 reading_time: 60
+lang: en
 ---
-
 In the summer of 2001, while the major American studios were busy proving that the future of feature cartoons belonged to the computer, a sixty-year-old artist in suburban Tokyo released a movie drawn almost entirely by hand. It told the story of a sulky ten-year-old girl who wanders into a bathhouse for gods. Within two years that picture had won the highest honor the international film world reserves for the animated form, taken the top prize at one of Europe's most prestigious festivals, and become the single most successful release in the history of Japanese cinema. More than that, it cracked open a door. Audiences in the West who had never knowingly watched a Japanese cartoon walked out of theaters wanting more, and a whole industry that had lived at the cultural margins suddenly found itself standing in the center of the room.
+
+![Spirited Away: How Miyazaki Carried Ghibli to the World - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 That movie is Spirited Away, written and directed by Hayao Miyazaki for Studio Ghibli, and the argument of this study is simple to state and rich to unpack. Hand-drawn artistry reached its summit at the exact moment the rest of the industry was abandoning it. Miyazaki carried Ghibli's humane, folklore-soaked vision to the world, and in doing so he spread anime far beyond Japan and reshaped how animators everywhere think about wonder, patience, and restraint. This is the story of how a quiet film about a frightened child became a global event, what made its craft so revered, and why its influence still runs through a generation of artists who grew up wanting to draw the way it draws.
 

@@ -6,17 +6,17 @@ date: 2020-01-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "American Psycho", "Mary Harron", "Black Comedy", "Performances", "Film Analysis", "World Cinema"]
 excerpt: "American Psycho turns Christian Bale into a performance of pure surface, making Patrick Bateman a satire of a culture that mistakes consumption for identity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-01-01
+lang: en
 ---
-
 ## The performance problem: how do you play a man who is all surface?
 
 The hardest acting assignment in American Psycho (2000) is not the violence. It is the emptiness. Patrick Bateman, the wealthy Manhattan investment banker at the center of Mary Harron's film, has no interior to reveal, no wound to nurse, no secret tenderness that a sympathetic close-up might find. He is a man built entirely of surfaces: the morning skincare ritual, the business card stock, the dinner reservation no one else can get, the brand names recited like prayer. An actor handed a character with a rich inner life can mine that life for sympathy. Christian Bale was handed a character whose inner life is a vacuum, and the assignment was to perform the vacuum without letting it collapse into nothing the audience could watch. The performance had to be the satire. It had to embody, in the rhythms of a single body and voice, a culture that mistakes consumption for identity, and it had to do so while keeping the audience uncertain whether the horrors Bateman narrates ever happened at all.
 
-![Christian Bale as Patrick Bateman in American Psycho (2000), directed by Mary Harron](/assets/images/blog/blog-01.webp)
+![Christian Bale as Patrick Bateman in American Psycho (2000), directed by Mary Harron](/assets/images/blog/blog-80.webp)
 
 Bale solved the problem by deciding that Bateman is not a person pretending to be normal. Bateman is a performance pretending to be a person, all the way down, with nothing underneath the act except the next act. That decision sounds like a small distinction and it changes everything. It means Bale never plays the scenes from the inside, never asks what Bateman feels, because the joke and the horror are that Bateman feels almost nothing and has learned to simulate the rest. He studies other people the way a tourist studies a phrasebook. He assembles the correct expressions, the correct opinions on pop music, the correct concern for world affairs delivered at a dinner party, and he wears them like the suits he describes by designer. The result is a character who is funny in the way a malfunctioning robot is funny and frightening in the way a malfunctioning robot is frightening, and the two reactions arrive in the same instant, which is the engine of the whole film.
 

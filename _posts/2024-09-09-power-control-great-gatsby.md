@@ -6,15 +6,15 @@ date: 2024-09-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Power and Control", "Themes", "Tom Buchanan", "Close Reading", "American Literature"]
 excerpt: "Power and control in The Great Gatsby reveal that real authority is structural and effortless: the secure rule while the rest are used up. A theme analysis."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-09-09
+lang: en
 ---
-
 The strongest figure in The Great Gatsby never throws a punch in front of the reader, never raises his voice past a sneer, and never has to ask for anything twice. That is the first thing to understand about power and control in The Great Gatsby: the novel's deepest authority belongs to the people who never need to exert it. Tom Buchanan does break a woman's nose, and that act matters, but his real grip on the world shows in the quieter scenes, the ones where he simply assumes the room is his and the room agrees. Fitzgerald builds a whole social order out of that assumption, and the book's argument about who rules and who is ruled is sharper, and more political, than the love story laid on top of it.
 
-![Power and control in The Great Gatsby explained, who rules whom through money, gender, and class - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Power and control in The Great Gatsby explained, who rules whom through money, gender, and class - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 Call it the principle of power that does not have to act. The Buchanans command by being secure rather than by being forceful, and the surest sign of authority in this novel is the ability to make other people absorb the consequences while you stay perfectly still. Gatsby spends the book straining toward a kind of mastery he can purchase the look of but never the substance of, and George Wilson, at the bottom of the ladder, becomes the book's clearest image of what it means to have no leverage at all. Trace the line from Tom's untroubled ease to Wilson's helpless grief and you have the novel's verdict on dominance, told without a single speech about it.
 

@@ -2,15 +2,17 @@
 layout: post
 title: "Titanic 1997: How James Cameron Built a Phenomenon"
 date: 2019-10-15
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Titanic", "James Cameron", "Film Production", "Blockbusters", "Movie Analysis", "Epic Romance"]
 image: /assets/images/blog/blog-01.webp
 reading_time: 60
 excerpt: "Titanic was the costliest film of its time. How James Cameron built the ship, the tanks, the wreck dives, and the sinking explains why it became a phenomenon."
+lang: en
 ---
-
 When a film becomes the most expensive ever made, the story of how it was built usually matters as much as the story it tells. Titanic, released in 1997 and written and directed by James Cameron, is the clearest case of this in modern Hollywood. The picture wraps a fictional cross-class romance around the real sinking of an ocean liner, and for most of its running time audiences watch a love story play out on a doomed ship. Behind that screen, though, sat a production so large, so risky, and so technically obsessive that the trade press spent the better part of two years predicting it would sink the studios funding it. The film that emerged did the opposite. It became a phenomenon, the highest-grossing release in the world for more than a decade, and a permanent reference point for what enormous ambition can buy.
+
+![Titanic 1997: How James Cameron Built a Phenomenon - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 This study treats the production as the explanation for the film. The argument is straightforward and worth stating up front: Titanic paired one of the oldest forms in popular storytelling, the doomed-love epic set against a historical catastrophe, with the most ambitious and most expensive making-of its era, and Cameron's refusal to compromise on either the romance or the spectacle is exactly what produced the broadest possible appeal. The budget, the sets, the water tanks, the dives to the real wreck, the digital effects, and the punishing schedule are not trivia surrounding a hit. They are the reasons the hit happened. To understand why Titanic worked, you have to understand how it was made.
 

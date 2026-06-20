@@ -6,17 +6,17 @@ date: 2020-02-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Crouching Tiger Hidden Dragon", "Ang Lee", "Wuxia", "Martial Arts Cinema", "World Cinema"]
 excerpt: "Crouching Tiger, Hidden Dragon carried centuries-old wuxia to a global mainstream, proving subtitled martial-arts cinema could be both prestige and spectacle."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-02-15
+lang: en
 ---
-
 For a few months at the turn of the millennium, a Mandarin-language film about a stolen sword and two pairs of thwarted lovers did something no subtitled feature had managed before. It filled multiplexes in suburban America, drew patrons who had never knowingly watched an Asian film, and ended its run as the highest-grossing foreign-language release in United States history. Crouching Tiger, Hidden Dragon was not the first wuxia film, not the first martial-arts spectacle, and not even the first time fighters flew across rooftops on wires. What Ang Lee's 2000 film accomplished was a crossover: it took a Chinese popular tradition older than cinema itself and made it legible, thrilling, and prestigious to a global mainstream that had no vocabulary for the genre it was watching.
 
 That distinction matters because the most common thing said about Crouching Tiger, Hidden Dragon is also the most misleading. It is frequently described as the film that invented a new kind of action, a poetic martial-arts movie unlike anything before it. It invented nothing. It carried a tradition over. The gravity-defying combat, the swordswomen, the moral code of the wandering warrior, the romance braided through violence, all of it belongs to wuxia, a genre that had run through Chinese fiction, opera, serialized newspapers, and several decades of Hong Kong and Shanghai filmmaking before Lee picked up a camera. The achievement was the translation, not the invention. Understanding the film means understanding the tradition it crossed over, the conditions that let it cross, and the martial-arts cinemas of the rest of the world it suddenly stood beside.
 
-![Crouching Tiger, Hidden Dragon and the global crossover of wuxia](/assets/images/blog/blog-01.webp)
+![Crouching Tiger, Hidden Dragon and the global crossover of wuxia](/assets/images/blog/blog-105.webp)
 
 This article treats Crouching Tiger, Hidden Dragon as a movement film: a single work standing in for a whole tradition, placed inside the worldwide field of martial-arts and action cinema it both drew from and reshaped. The genre is wuxia. The film is its most famous ambassador. The question is what wuxia is, how this particular film carried it to the world, why its flying fights felt new to audiences who had simply never seen the form, and how it sits among the martial-arts traditions of Hong Kong, Japan, and Hollywood that were doing related work at the same time. Along the way the film's harder problem comes into view: whether a crossover this complete smoothed the tradition for foreign taste, and what is gained and lost when a national genre becomes a global one.
 

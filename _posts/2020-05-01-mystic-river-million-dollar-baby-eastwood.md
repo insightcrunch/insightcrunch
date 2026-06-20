@@ -6,17 +6,17 @@ date: 2020-05-01
 last_updated: 2020-05-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Mystic River", "Million Dollar Baby", "Clint Eastwood", "Film Analysis", "Directors", "Performances"]
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 excerpt: "Mystic River and Million Dollar Baby are Eastwood's twin tragedies, the consecutive films that confirmed his late mastery as a director of grave drama."
 reading_time: 59
-author: "Insight Crunch Team"
+author: "amanda-ross"
+lang: en
 ---
-
 ## A double bill that defined a late career
 
 Two films released in consecutive years asked their audiences to sit with grief and then decide what they had seen. Mystic River arrived in 2003 and Million Dollar Baby in 2004, both directed by Clint Eastwood, and together they marked the moment a famous actor was recognized, fully and without argument, as one of the major American directors of his generation. The first is a Boston tragedy rooted in childhood horror. The second is a boxing story that begins as an underdog triumph and turns toward a choice few mainstream pictures have ever dared to stage. Watched as a pair, they raise a real question worth answering carefully: which is the greater achievement, and what should decide it.
 
-![How Mystic River and Million Dollar Baby defined Clint Eastwood's late peak, a comparative analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Mystic River and Million Dollar Baby defined Clint Eastwood's late peak, a comparative analysis - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 That question is not idle ranking. The two works share a temperament, a production team, and a moral seriousness that sets them apart from almost everything around them in their years of release. They were made quickly, shot plainly, and scored sparely, and both swept the major acting honors of their seasons. Approaching them side by side reveals more than approaching either alone, because each one clarifies what the other is doing. The Boston picture shows how Eastwood handles a community sealed by silence. The boxing picture shows how he handles intimacy collapsing into an impossible decision. Neither flinches. The pairing is the lens, and the verdict is the prize.
 

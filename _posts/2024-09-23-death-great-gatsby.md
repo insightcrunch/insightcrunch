@@ -6,15 +6,15 @@ date: 2024-09-23
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Death and Mortality", "Themes", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Death and mortality in Great Gatsby shape every page of the novel: trace the foreshadowing, the three deaths, and the dream that dies before the dreamer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 49
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-09-23
+lang: en
 ---
-
 Most readers finish The Great Gatsby remembering it as a love story that ends badly, and they are not wrong, only incomplete. The subject that actually organizes the book is death and mortality in Great Gatsby, a pressure that begins on the first page and never lifts. Fitzgerald wrote a novel in which a man is shot in a swimming pool, a woman is torn open on a roadside, and a second man kills himself in a yard of ashes, yet the most important death in the book is one with no body at all. The hope that drives Gatsby dies hours before the bullet finds him, and once you see that the novel kills the dream first and the dreamer second, the whole design rearranges itself around endings. This is the argument the book stages: that the real casualty is possibility, and that the three literal corpses are the grim proof of a loss that was never physical to begin with.
 
-![Death and mortality in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Death and mortality in The Great Gatsby](/assets/images/blog/blog-117.webp)
 
 That argument is easy to miss because the deaths arrive late and fast, clustered in the final three chapters, so a first-time reader processes them as plot rather than theme. The deeper reading treats mortality as the air the novel breathes from the start, a steady undertow beneath the parties and the green light and the heat. The aim of this analysis is to make that undertow visible: to show where the theme enters, how it accumulates, which characters and symbols carry it, and why the strongest reading of the book is one organized around its endings rather than its romance. By the close you should be able to defend a single thesis about what Fitzgerald finally says through the dying in his pages, and to write about it with passages rather than impressions.
 

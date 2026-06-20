@@ -6,15 +6,15 @@ date: 2020-04-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Lost in Translation", "Sofia Coppola", "Film Score and Sound", "Film Analysis", "2000s Cinema"]
 excerpt: "Lost in Translation puts mood before plot, using a dream-pop soundtrack and pointed silence to carry a near-plotless story that ends on an unheard whisper."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2020-04-15
+lang: en
 ---
-
 Most films tell you what to feel by telling you what happens. Lost in Translation, Sofia Coppola's 2003 study of two strangers adrift in a Tokyo hotel, does something rarer and harder. It tells you what to feel by how the air sounds. A hazy wash of guitar noise, a held silence, a pop song bent into a confession at a karaoke microphone: these are the events. The plot, such as it is, could be written on a napkin. A fading American movie star and a young woman, both sleepless and stranded, meet, talk, wander the city, and part. What carries the picture is not incident but atmosphere, and that atmosphere is built almost entirely out of music and quiet.
 
-![Lost in Translation](/assets/images/blog/blog-01.webp)
+![Lost in Translation](/assets/images/blog/blog-29.webp)
 
 This is the film's defining wager, and it is worth stating plainly at the start. Lost in Translation places mood before plot. It trusts a dreamy, melancholy soundtrack and long stretches of near-silence to hold an audience for a hundred minutes, and it ends on the boldest sonic choice of all, a whisper the viewer is deliberately not allowed to hear. To understand the film is to understand its sound, because the sound is where the meaning lives. Coppola did not write a story and then decorate it with songs. She built a feeling and let a thin thread of story drift through it, the way a half-remembered night drifts through the music that played during it.
 

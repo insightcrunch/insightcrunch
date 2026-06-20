@@ -5,12 +5,14 @@ date: 2019-09-15
 excerpt: "How James Horner's sweeping Celtic score carries Braveheart past its much-debated history, manufacturing a people's soul on a wave of unforgettable sound."
 image: /assets/images/blog/blog-01.webp
 category: ["Leisure"]
-author: "Insight Crunch Team"
+author: "insight-crunch-team"
 tags: ["Cinema Classics", "Braveheart", "James Horner", "Film Score", "Mel Gibson", "Historical Epic", "Film Music"]
 reading_time: 59
+lang: en
 ---
-
 When the camera lifts over the Highlands in the opening minutes of Braveheart, the image of mist and mountain would be merely handsome on its own. What makes it ache is the sound. A solo pipe carries a melody that feels older than the film, a tune that seems to rise out of the land rather than land on top of it. James Horner's score is doing the heavy lifting before a single word of dialogue arrives, and it never stops. By the time William Wallace screams for freedom on the scaffold, the music has already taught the audience how to feel about every battle, every betrayal, and every loss along the way. This is a film whose emotion arrives on a wave of sound, and the wave is the work of a composer at the height of his craft.
+
+![Braveheart Score: How Horner's Music Carries the Epic - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 That is the claim worth holding onto across everything that follows. Horner's pipe-laced orchestral score manufactures Braveheart's sense of a people's soul, and it carries the film past its much-debated grip on history. The picture is myth, not chronicle, and the music is the chief reason audiences accepted the myth so readily. To understand Braveheart is to understand its score, because the score is the organizing device through which the whole film speaks.
 

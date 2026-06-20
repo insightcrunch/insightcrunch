@@ -6,15 +6,15 @@ date: 2024-08-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Materialism", "Consumer Culture", "Themes", "American Literature", "Close Reading"]
 excerpt: "Materialism and consumer culture in Gatsby turn possessions into a substitute for meaning, where shirts, cars, and parties stand in for the feelings they bury."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-08-19
+lang: en
 ---
-
 The precise argument The Great Gatsby makes about materialism and consumer culture in Gatsby is not that wealthy people are greedy. It is something stranger and sadder: that an entire society has begun to buy objects in the place where meaning used to be, so that a shirt, a car, a guest list, and a string of pearls all do the work that feeling, faith, and belonging once did. Fitzgerald sets his characters loose in a world thick with goods, and then he watches what they reach for when they are frightened, lonely, or in love. They reach for things. The novel's quiet horror is that the things never answer, and the characters keep reaching anyway.
 
-![Materialism and consumer culture in The Great Gatsby theme analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Materialism and consumer culture in The Great Gatsby theme analysis - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 Read this way, the book stops being a costume drama about rich people and becomes a diagnosis of a culture learning to consume. The valley of ashes is what gets ground up to keep the consumption running. Myrtle Wilson's parlor is the same hunger one rung down the ladder. Gatsby's shirts are love translated into merchandise. Even the green light, the most spiritual image in the book, is in the end a thing across the water that Gatsby wants to own. The argument of this article is that materialism in Fitzgerald's hands is a failed substitute for meaning, objects standing where feeling should be, and that reading the novel this way explains far more than reading it as a simple morality tale about money corrupting the soul.
 
@@ -269,5 +269,4 @@ Advertising and display are everywhere in the novel's world, and they shape how 
 ### Q: What is the difference between materialism and wealth as themes?
 
 Wealth and materialism are related but distinct themes, and keeping them apart sharpens any analysis. Wealth and class is the larger subject of how money sorts the characters and decides their fates, the unbridgeable line between old and new money, the way the Buchanans' inherited security defeats Gatsby's earned fortune. Materialism is the narrower theme of how that world expresses itself through objects and consumption, the specific mechanism by which feeling, status, and identity get translated into goods. Wealth is about who has the money and what it buys them socially; materialism is about what the buying does to meaning. The two intersect because materialism is the lived texture of the wealth theme, the daily practice of a moneyed culture, but they are not identical. You can argue about wealth without focusing on objects, and you can argue about materialism, as this article does, by tracing the gap between what objects promise and what they deliver, which is a question about meaning rather than about class.
-
 

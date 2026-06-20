@@ -6,15 +6,15 @@ date: 2020-01-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Truman Show", "Peter Weir", "Satire", "Surveillance Culture", "Media Studies"]
 excerpt: "The Truman Show turned one unknowing man into a non-stop broadcast, foreseeing reality TV, surveillance, and the social media age long before they arrived."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-01-15
+lang: en
 ---
-
 A man wakes in a tidy coastal town, greets his neighbors with a cheerful line, drives to an office job, and goes home to a wife who smiles a little too brightly. Nothing about his day looks strange. Everything about it is staged. The streets are a set, the sky is a painted dome, the neighbors are paid performers, and several thousand hidden cameras follow his every blink for an audience of billions who have watched him since before he could speak. He does not know any of this. He believes he is simply alive. He is Truman Burbank, and this is The Truman Show.
 
-![How The Truman Show foresaw reality TV and surveillance culture, a comparative analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How The Truman Show foresaw reality TV and surveillance culture, a comparative analysis - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 That is the engine of Peter Weir's 1998 film, and it remains one of the cleanest, most unsettling premises any movie has ever proposed. A single innocent life, turned without consent into total content. The picture took a fantastical conceit and made it feel close enough to touch, and within a few years the surrounding culture had caught up to the warning. Reality television arrived in force. Surveillance crept into ordinary streets and ordinary pockets. The social media age taught millions of people to perform their own lives for an unseen crowd. A real psychiatric delusion was eventually named after the film. Few movies have predicted their own era with such accuracy, and fewer still have done it while wearing the gentle face of a feel-good comedy.
 

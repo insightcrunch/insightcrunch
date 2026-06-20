@@ -6,14 +6,14 @@ date: 2023-06-22
 categories: ["Industry"]
 tags: ["高考", "异地高考", "户籍", "随迁子女", "Gaokao Hukou", "Cross-Province"]
 excerpt: "户籍如何决定你在哪个省考试、按什么分数线录取？本文系统拆解异地高考的就业、居住、社保、学籍四道门槛，厘清随迁子女合法报考的完整路径，深入辨析高考移民与少数民族加分政策的本质区别，并附浙江江苏到北京上海的各省宽严分档、四维家庭决策框架与官方权威查询渠道，手把手帮你把政策读懂、把主动权稳稳握在自己手里。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "tang-jing"
+lang: zh
 ---
-
 在中国的升学体系中,有一个看似行政、实则深刻影响每个家庭命运的因素，那就是户籍。一名学子最终能进入哪一层次的大学，固然取决于他在考场上的实力，但同样取决于一件他出生时就已大致确定的事情：他的户口落在哪个省、哪座城市。同样的分数，在不同省份可能对应着天壤之别的录取结果；同样一所名校，对甲省考生敞开大门，对乙省考生却高悬门槛。这并非个别现象，而是贯穿整个招生制度的结构性安排。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-80.webp)
 *户籍与异地高考政策直接决定考生的录取起跑线与可选路径*
 
 对于跟随父母外出务工、求学、定居的随迁子女家庭来说，这个问题更加现实而紧迫。孩子在工作地长大、读书、交友，却可能在升学的关键节点被告知必须回到一个陌生的"老家"参加考试。为缓解这一矛盾，国家逐步推出了异地高考制度，允许符合条件的随迁子女在非户籍省份就地参加升学考试。然而政策细则因省而异，宽严不一，再加上社会上长期存在的高考移民现象，使得整个领域充满了信息差与误解。

@@ -6,17 +6,17 @@ date: 2024-08-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Upper Class", "Themes", "Wealth and Class", "Close Reading", "American Literature"]
 excerpt: "The hollowness of the upper class is the verdict The Great Gatsby passes on the rich: the people who have already arrived are bored, aimless, and wholly empty."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-08-12
+lang: en
 ---
-
 Readers who finish The Great Gatsby tend to remember the dreamer and forget the verdict the novel passes on the people he wanted to join. The hollowness of the upper class is the charge Fitzgerald lays most quietly and most damningly: the established rich in this book have arrived at the destination everyone else is killing themselves to reach, and they are bored. They are aimless. They have money, manners, houses on the right side of the bay, and nothing inside the rooms. The poor boy from North Dakota burns with purpose. The Buchanans, who already own everything purpose is supposed to buy, drift through their afternoons with the restless emptiness of people who cannot think of a single thing worth wanting. That contrast is not incidental. It is the engine of the book's argument, and reading it carelessly is the difference between thinking Gatsby is a story about a crook and understanding that it is a story about a culture that mistook a vacuum for a summit.
 
 This analysis takes the spiritual emptiness of the elite as its single subject. Not their wealth as a fact, which the [wealth and class hub](/2024/05/13/wealth-class-great-gatsby/) treats across the whole social field, but their wealth as a condition that fails to fill anyone who has it. The question is narrow and the answer is bleak. What does Fitzgerald think of the people who already won? He thinks they are empty, and he builds the novel so that their emptiness becomes the most important thing the strivers never learn.
 
-![The hollowness of the upper class in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The hollowness of the upper class in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 ## What the hollowness of the upper class means in The Great Gatsby
 
@@ -282,5 +282,4 @@ They fill the time with motion that means nothing. Daisy and Jordan drift betwee
 ### Q: Why does the novel reserve its bleakest portrait for those who already arrived?
 
 Because their condition proves the novel's hardest truth. If Fitzgerald had made the rich happy, the Dream would survive even Gatsby's failure, and the tragedy would be merely that he could not reach a real and worthy destination. By making the arrived the emptiest figures in the book, Fitzgerald demonstrates that the destination itself is a void, that fulfillment does not exist even for the fully successful. The bleakest portrait belongs to the Buchanans because they are the control group, the people for whom money was never in question, and their emptiness shows the problem is not the chase but the prize. Reserving the darkest light for the arrived is how the novel turns the American Dream from an impossible aspiration into a counterfeit one, hollow at its very summit.
-
 

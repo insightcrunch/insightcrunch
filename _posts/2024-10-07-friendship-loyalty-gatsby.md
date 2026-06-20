@@ -6,15 +6,15 @@ date: 2024-10-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Friendship and Loyalty", "Themes", "Close Reading", "Nick Carraway", "American Literature"]
 excerpt: "Friendship and loyalty in The Great Gatsby form a near-vacuum: hundreds abandon Gatsby, only Nick stays loyal, making fidelity the novel's rarest virtue."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-10-07
+lang: en
 ---
-
 Ask most readers what holds the people in The Great Gatsby together and they will reach for the parties, the wealth, the romance. Almost no one names loyalty, and that absence is the point. Friendship and loyalty in The Great Gatsby are not a warm subplot running underneath the tragedy; they are a near-vacuum the novel keeps drawing attention to, a virtue so scarce that when a single example of it finally appears it stands out like a light in an empty room. Fitzgerald builds a world stuffed with company and starved of fidelity, and the gap between the two is one of his sharpest indictments of the era. The crowds are enormous. The friends are almost nonexistent.
 
-![Friendship and loyalty in The Great Gatsby theme analysis explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friendship and loyalty in The Great Gatsby theme analysis explained - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 This article makes one argument and defends it: in a novel saturated with transactional bonds, genuine loyalty turns out to be the rarest thing in the book, and Fitzgerald uses its scarcity as a verdict on the world he is describing. The hundreds who drink Gatsby's champagne vanish the moment he can no longer host them. The business partner who claims to have made him will not be seen near his grave. The woman he reorganized his entire life around sends neither a message nor a flower. Against all of that stands Nick Carraway, who disapproves of Gatsby and stays loyal anyway, and that lone exception is what gives the theme its force. Read the friendships honestly and the novel stops looking like a story about love and starts looking like a story about how few people will stand by anyone when there is nothing left to gain.
 

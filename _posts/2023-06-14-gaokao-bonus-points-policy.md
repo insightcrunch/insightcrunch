@@ -6,16 +6,16 @@ date: 2023-06-14
 categories: ["Industry"]
 tags: ["高考", "高考加分", "少数民族", "优惠政策", "Gaokao Bonus Points", "Policy"]
 excerpt: "全面解析高考加分政策:政策性加分与奖励性加分的根本区别、少数民族与烈士子女退役军人等照顾对象、近年改革究竟取消了哪些奖励项目、奥赛奖如今如何通过保送和强基计划发挥作用、各省细则差异、加分使用限制、资格认定流程与造假处罚,以及不同分数段考生应当如何看待这几分政策倾斜的真实价值,帮助考生与家长理性规划升学。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "xu-meifang"
+lang: zh
 ---
-
 高考分数是绝大多数考生进入大学的唯一通行证,但有一类考生在投档时,实际参与排序的分数会比卷面成绩更高一些。这多出来的分数,就是人们常说的高考加分。它不是凭空赠送的福利,而是国家依据特定政策,对符合条件的考生给予的分数倾斜。对烈士子女、归侨子女、少数民族聚居地区的考生等群体来说,这几分到十几分,有时足以改变一个志愿是否被投档的结果。
 
 围绕这项制度,社会上长期存在两种截然不同的声音。一部分人认为它破坏了"分数面前人人平等"的纯粹性;另一部分人则强调,它是对历史与现实中处境不利群体的必要补偿。真实的政策,既不像质疑者想象的那样泛滥,也不像支持者描述的那样宽松。经过近年一轮又一轮的精简改革,曾经名目繁多的奖励性加分被大幅压缩,如今真正保留下来的项目已经相当有限,而且每一项都有严格的资格门槛。本文将系统梳理高考加分的全部类型、近年改革的来龙去脉、各省差异、资格认定流程、造假处罚,以及不同考生应当如何理性看待和使用这项政策。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-04.webp)
 *高考加分政策全景解析:政策性照顾项、奖励项收紧趋势与各省细则一览*
 
 ## 什么是高考加分:基本概念厘清

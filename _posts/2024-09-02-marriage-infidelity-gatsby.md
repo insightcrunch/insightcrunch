@@ -6,17 +6,17 @@ date: 2024-09-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Marriage and Infidelity", "Themes", "Close Reading", "Essay Writing", "American Literature"]
 excerpt: "Marriage and infidelity in Great Gatsby reveal a transaction that survives betrayal, so the loveless Buchanan union endures while the faithful are destroyed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-09-02
+lang: en
 ---
-
 The novel's most quietly devastating fact is not that Gatsby dies. It is that Tom and Daisy Buchanan stay married. To understand marriage and infidelity in Great Gatsby is to confront a book in which every romantic ideal collapses while one cold, betrayed, loveless union survives everything thrown at it. Fitzgerald does not present the Buchanan marriage as a tragic exception to an otherwise hopeful world. He presents it as the rule the world runs on. The affairs, the broken promises, the night in the Plaza when two men fight over one woman, all of it ends with the married couple intact and the dreamers dead or discarded. That outcome is the theme's true argument.
 
 Call it the transaction-and-survival reading: in this novel marriage is an arrangement held together by money, status, and convenience rather than by fidelity or love, which is exactly why the most betrayed marriage in the book is also the most durable. Infidelity does not threaten the institution. It is built into how the institution functions. Once a reader sees that, the question shifts from "why are these people so unfaithful" to the far more unsettling "why does the betrayal change nothing." This article defends that shift and shows how the text earns it.
 
-![Marriage and Infidelity in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Marriage and Infidelity in The Great Gatsby](/assets/images/blog/blog-43.webp)
 
 ## Reading Marriage and Infidelity in Great Gatsby as a Single Verdict
 
@@ -298,5 +298,4 @@ Yes, though it does so through pattern and irony rather than explicit commentary
 ### Q: Which couples are unfaithful in The Great Gatsby?
 
 The clearest unfaithful couple is Tom and Daisy Buchanan, both of whom betray their marriage: Tom through his established affair with Myrtle Wilson and Daisy through her rekindled relationship with Gatsby. Myrtle Wilson is unfaithful to her husband George through that affair with Tom, making the Tom and Myrtle relationship a double betrayal that breaks two marriages at once. Gatsby is the partner in Daisy's infidelity, though he frames it not as an affair but as the restoration of a love that preceded her marriage. George Wilson stands apart as the one faithful spouse, devoted to Myrtle to the point of ruin, and his fidelity is precisely what destroys him. Nick and Jordan are unmarried and so not unfaithful in the strict sense, though their cool, disposable courtship belongs to the same atmosphere of detachment. The pattern across these pairings is consistent: the unfaithful wealthy characters are protected, while the faithful poor one is annihilated, which is the heart of the theme.
-
 

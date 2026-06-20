@@ -6,16 +6,16 @@ date: 2023-05-21
 categories: ["Industry"]
 tags: ["高考", "强基计划", "基础学科", "面试准备", "Gaokao", "Strong Foundation Plan"]
 excerpt: "强基计划是国家为基础学科战略选拔后备人才的招生改革试点,它替代了原有的自主招生机制,高考成绩占八成五、校测占一成五,并特别强调本硕博贯通培养模式。本指南系统解析强基的设立背景、招生学校与招生专业、报考条件与完整流程、校测内容、录取合成公式、备考策略以及常见误区,帮助考生理性判断自己是否真正适合走这条路。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "ma-ruoxi"
+lang: zh
 ---
-
 # 高考强基计划完全指南:政策背景、招生学校、招生专业与报考策略
 
 对于真正热爱基础学科、立志投身科学研究的高三学子而言,强基计划是一条独特而珍贵的升学通道。它既不同于普通批次的统一录取,也有别于已经退出历史舞台的自主招生。作为一项面向国家重大战略需求选拔后备人才的招生改革试点,这项政策把基础学科的人才培养放在了前所未有的高度。然而,正因为它的特殊性,许多家长和考生对它一知半解:有人以为它是"降分进名校"的捷径,有人把它和早年的自主招生混为一谈,还有人在并不了解培养要求的情况下盲目报考,结果进校之后才发现专业方向与自己的兴趣并不契合。本文将从设立背景、与自主招生的区别、招生学校与专业、报考条件与流程、校测内容、录取合成公式、培养方式、备考策略到常见误区,做一次系统而透彻的梳理,帮助你判断自己究竟适不适合走这条路。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-24.webp)
 *强基计划招生学校、专业与录取合成机制全景解析*
 
 如果你对高考的整体框架还不够熟悉,建议先阅读[高考完全指南](/2026/03/18/gaokao-complete-guide/),把统一考试的基本结构、评分逻辑与录取顺序搞清楚,再来理解强基这条特殊通道,会清晰许多。

@@ -4,17 +4,17 @@ title: "高考艺术生完全指南 - 艺考流程、联考校考、文化课要
 page_title: "高考艺术生完全指南 - 艺考流程、联考校考、文化课门槛、院校选择、报考费用与备考策略全解析"
 date: 2023-04-27
 categories: ["Industry"]
-author: "Insight Crunch Team"
+author: "wu-chengan"
 tags: ["高考", "艺术生", "艺考", "文化课", "Gaokao Art", "Art Student"]
 slug: gaokao-art-student-guide
 excerpt: "这是一份面向艺术生及其家长的高考完全指南:系统梳理艺考的完整流程、省级联考与院校校考的关键区别、2024年文化课门槛的明显抬升、主要艺术院校的层次划分、报考时间线与真实费用构成,并针对不同专业水平的考生给出清醒可行的报考策略,逐一破除关于艺考是升学捷径的常见误解,帮助每个家庭做出理性而长远的升学选择。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 63
+lang: zh
 ---
-
 对很多家庭来说,艺术类招生是一条既熟悉又陌生的升学道路。熟悉是因为身边总有人走过,陌生是因为它的规则远比普通升学复杂。本文系统梳理艺术高考的完整链路:从专业方向的选择,到省级统考与院校自主考试的差异,再到文化成绩门槛、院校层次、报考流程与真实费用,帮助有志于此的学生和家长建立一个清晰、可执行的认知框架。如果你想先了解整体升学制度的全貌,可以参考[高考完全指南](/2026/03/18/gaokao-complete-guide/);如果你关心各类特殊渠道的全景，可以结合[特殊招生通道](/2025/05/10/gaokao-special-admission-pathways/)一并阅读。
 
-![艺术类高考完整流程与备考策略](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![艺术类高考完整流程与备考策略](/assets/images/blog/blog-47.webp)
 
 ## 艺术高考到底是什么:一条需要双轨准备的升学路径
 
