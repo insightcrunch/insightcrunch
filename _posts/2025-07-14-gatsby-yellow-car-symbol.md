@@ -6,13 +6,15 @@ date: 2025-07-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Yellow Car", "Symbolism", "Close Reading", "American Literature"]
 excerpt: "Gatsby's yellow car as a symbol fuses glamour with catastrophe: the gorgeous machine of his new wealth becomes the very vehicle that kills Myrtle Wilson."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-07-14
+lang: en
 ---
-
 ## The car everyone had seen
+
+![Gatsby's Yellow Car as a Symbol - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 To read Gatsby's yellow car as a symbol, begin where the novel does, with a rumor made of metal. The first time the machine arrives, it arrives as gossip before it arrives as glass and nickel. Nick has heard about it for weeks before he sees it, and when Gatsby finally pulls up to take him to lunch in the city, the vehicle does not so much appear as announce itself. Nick has seen it. Everybody had seen it. The car is famous on Long Island before the reader ever meets it, a local legend on wheels, and Fitzgerald lets that reputation do its work before he gives us a single detail of the bodywork.
 

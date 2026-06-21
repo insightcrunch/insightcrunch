@@ -6,13 +6,15 @@ date: 2021-12-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Seven Samurai", "Akira Kurosawa", "Samurai Film", "World Cinema", "Influence and Legacy"]
 excerpt: "Seven Samurai built the assemble-a-team story that Hollywood, the Western, and the blockbuster have borrowed ever since, world cinema shaping Hollywood."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-12-01
+lang: en
 ---
-
 Trace almost any modern story in which a leader walks the land gathering specialists one by one for a mission that looks unwinnable, and the trail runs back to a single source. Seven Samurai, released in 1954 and directed by Akira Kurosawa, did not invent every part of that story, but it assembled the parts into a shape so durable that filmmakers across the world have been borrowing it ever since. A poor farming village, raided each harvest by bandits, decides to fight back. Lacking weapons and skill, the farmers go to the city to hire warriors with nothing to offer but food and a roof. What follows is the recruitment, the training, the waiting, and the rain-soaked battle that gave global cinema its master template for the assembled team.
+
+![Seven Samurai: The Template the World Borrowed - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The image that stays is the final clash in the downpour: mud to the ankle, horses wheeling, swords and spears in a chaos that the camera somehow keeps legible. Few sequences in any language have been studied, copied, and diluted as often. Yet the picture is not, at heart, an action film, and reading it only as one is the error this article works to correct. Beneath the structure that Hollywood took sits a study of class, duty, and the people history forgets. The world borrowed the skeleton. The flesh, the part that makes the skeleton matter, is what gets left behind in most of the copies.
 

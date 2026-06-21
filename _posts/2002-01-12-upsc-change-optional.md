@@ -6,15 +6,15 @@ date: 2002-01-12
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Optional Subject", "Changing Optional", "UPSC Strategy"]
 excerpt: "Changing your UPSC optional mid-preparation: when a switch makes sense, the sunk cost trap, the easiest subject transitions and a clear rebuild timeline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2002-01-12
+lang: en
 ---
-
 Changing your UPSC optional mid-preparation is one of the most agonising decisions an aspirant ever faces, because it sits at the exact point where two terrifying fears collide: the fear of throwing away months of hard work, and the fear of spending years more on a subject that will never give you the marks you need. You have already invested. You have notes, half-remembered theories, a coaching enrollment, perhaps a shelf of books you bought with money you did not have to spare. And yet something gnaws at you. The mock answers come back disappointing. The subject feels heavier every week instead of lighter. A friend who started after you is already scoring better in a different paper. You begin to wonder whether the smartest thing you could do is also the most painful thing: walk away and begin again.
 
-![Changing your UPSC optional subject mid-preparation decision guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Changing your UPSC optional subject mid-preparation decision guide - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 This guide exists to help you make that call with clarity rather than panic. The internet is full of two equally unhelpful camps. One camp tells you that switching is always a disaster, that quitters never qualify, that you must commit and grind no matter what. The other camp tells you to chase whichever paper has the highest reported averages, switching freely until you land on a winner. Both are wrong, and both have ruined careers. The truth is narrower and more demanding. A switch is sometimes the single best strategic move available to you, and it is sometimes the worst self-sabotage imaginable, and the entire difference lies in why you are switching and what you do in the months that follow. If you have not yet locked your first choice and are reading this preemptively, the deeper logic of selection lives in our [complete framework on picking the right optional](/2003/05/31/upsc-optional-subject-selection/), and this article assumes you have already made one choice and are now reconsidering it.
 

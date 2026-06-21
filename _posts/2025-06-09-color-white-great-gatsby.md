@@ -6,15 +6,15 @@ date: 2025-06-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Color White", "Symbolism", "Close Reading", "Daisy Buchanan", "American Literature"]
 excerpt: "The color white in The Great Gatsby looks like purity but quietly hides decay. See how Fitzgerald dresses his hollow characters in its counterfeit shine."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-06-09
+lang: en
 ---
-
 The first thing Nick Carraway sees inside the Buchanan house is not a person. It is a color. Two young women lie on an enormous couch by the open windows, and they are dressed alike: "They were both in white, and their dresses were rippling and fluttering as if they had just been blown back in after a short flight around the house." Daisy and Jordan float there like something weightless and clean, and a first-time reader files the image where the novel wants it filed, under innocence, under freshness, under the unspoiled. That filing is the trap. By the last page you will have learned that the woman in white let another woman die for her and said nothing, and the color you trusted will have curdled into something you cannot unsee.
 
-![The color white in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The color white in The Great Gatsby](/assets/images/blog/blog-24.webp)
 
 This article makes one argument and defends it across every scene where the color appears. The color white in The Great Gatsby is not innocence. It is the counterfeit of innocence, a surface the novel hands to its most compromised characters so that the gap between how they look and what they are becomes visible. White is the paint on the rot. Fitzgerald drapes purity over emptiness on purpose, and once you track the pattern you cannot read a single white object in the book the same way again.
 

@@ -6,15 +6,15 @@ date: 2002-01-25
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Score 300 Optional", "Optional Answer Writing", "Optional Strategy", "Mains Optional"]
 excerpt: "Learn how to score 300+ in any UPSC optional using a proven framework: syllabus mastery, PYQ analysis, answer writing and disciplined revision drills."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2002-01-25
+lang: en
 ---
-
 The single fastest way to move from the failed-Mains pile to the recommended list is to learn how to score 300+ in your UPSC optional. The optional carries 500 marks across two papers, and in a contest where the difference between rank 200 and rank 2000 often comes down to forty or fifty marks in total, those two papers quietly decide more careers than any other component of the examination. General Studies tends to compress everyone toward the middle, because thousands of aspirants read the same five books and write broadly similar answers. The optional is where genuine separation happens. A candidate who has truly mastered a single subject can pull ahead of the field by a margin that essay and interview rarely match.
 
-![Strategy framework to score 300+ in any UPSC optional](/assets/images/blog/blog-01.webp)
+![Strategy framework to score 300+ in any UPSC optional](/assets/images/blog/blog-68.webp)
 
 This guide gives you a subject-agnostic system. Whether you have chosen Geography, History, Political Science and International Relations, Sociology, Public Administration, Anthropology, Philosophy or any of the literature and science papers, the underlying machinery of a top score is the same. The content changes; the method does not. Over the next several thousand words you will learn the five pillars that produce a 300-plus aggregate, the exact way to convert previous year papers into a study map, the answer architecture that examiners reward, and a revision rhythm that keeps five hundred marks of material alive in your head right up to the exam hall. If you are still deciding which paper to take, pause here and read the dedicated guide on [choosing the right optional for your background](/2003/05/31/upsc-optional-subject-selection/) before you commit, because the framework below assumes you have already locked your choice.
 

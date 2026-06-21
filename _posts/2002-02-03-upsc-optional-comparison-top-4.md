@@ -6,17 +6,17 @@ date: 2002-02-03
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Optional Subject Comparison", "Geography Optional", "History Optional", "PSIR Optional", "Sociology Optional"]
 excerpt: "A data driven UPSC optional comparison of Geography, History, PSIR and Sociology across ten parameters to help you pick the right scoring subject for you."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2002-02-03
+lang: en
 ---
-
 Choosing your optional is the single most consequential strategic decision in your entire preparation, and for a large share of aspirants that decision comes down to four names: Geography, History, Political Science and International Relations, and Sociology. This UPSC optional comparison exists because the four subjects dominate the choice sheets of arts, humanities, and even engineering aspirants year after year, and because the wrong pick can quietly cost you fifty to eighty marks across two papers without you ever realising where the leak was. Two papers of two hundred and fifty marks each mean five hundred marks ride on this choice, which is more than the entire General Studies aggregate that everyone obsesses over. Getting this right is not a luxury. It is the foundation on which a competitive Mains score is built.
 
 The trouble is that most aspirants pick on hearsay. A senior cleared with Sociology, so Sociology must be easy. A coaching brochure called Geography "scientific and scoring," so Geography it is. Someone on a forum said PSIR is "current affairs friendly," and that single phrase decides a year of effort. None of these one line verdicts survive contact with the actual syllabus, the actual answer writing demands, or your own academic temperament. This article replaces hearsay with a structured, parameter by parameter examination of all four subjects so that you can match the subject to yourself rather than chasing whatever happens to be fashionable this cycle.
 
-![UPSC optional comparison of Geography, History, PSIR and Sociology across ten decision parameters](/assets/images/blog/blog-01.webp)
+![UPSC optional comparison of Geography, History, PSIR and Sociology across ten decision parameters](/assets/images/blog/blog-32.webp)
 
 Before going further it helps to anchor this decision inside the larger map of your preparation. If you have not yet read the broader treatment of how the entire civil services examination fits together, the [complete guide to cracking the civil services examination](/2003/07/24/upsc-civil-services-complete-guide/) sets the context for why the Mains optional weighs so heavily on your final rank. And if you are still at the stage of deciding whether to pick one of these four at all rather than a technical or literature subject, the dedicated walkthrough of [how to select an optional subject from scratch](/2003/05/31/upsc-optional-subject-selection/) covers the first principles that this article assumes you have already absorbed.
 

@@ -6,19 +6,19 @@ date: 2002-01-21
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "PYQ Analysis", "Optional Subjects", "IAS Mains Strategy", "UPSC Trends"]
 excerpt: "UPSC optional PYQ trends, decoded subject by subject. See which themes UPSC repeats, which are fading, and how to turn old papers into reliable marks."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2002-01-21
+lang: en
 ---
-
 If you have ever opened ten years of your optional subject's question papers and felt your stomach drop, you are not alone, and you are also closer to a breakthrough than you realise. Most aspirants treat those papers as a mountain of unrelated questions to be feared. The toppers treat them as a map. This guide on UPSC optional PYQ trends exists to hand you that map, subject by subject, so that the next time you sit down to prepare, you are studying what the examiner actually rewards rather than everything the syllabus theoretically contains.
 
 There is a quiet truth that no coaching brochure prints in bold: the optional paper is the most predictable scoring zone in the entire Civil Services Examination. General Studies rewards breadth and current affairs that shift every year, but the optional rewards depth in a finite, slow-moving body of knowledge. When you read previous year question patterns carefully, you discover that a surprisingly small set of themes generates the majority of marks, that certain areas repeat with almost embarrassing regularity, and that other areas have been quietly fading for a decade. Knowing this difference is the line between a score in the low two hundreds and a score that crosses three hundred and carries you into the final list.
 
 This article will not give you vague encouragement to solve papers regularly. It will show you, for each of the most chosen electives, which themes the examiner returns to, which are declining, and what the emerging shape of questioning looks like. Treat it as a companion to your broader plan in the [complete UPSC Civil Services guide](/2003/07/24/upsc-civil-services-complete-guide/) and to your subject decision in the [optional subject selection guide](/2003/05/31/upsc-optional-subject-selection/).
 
-![UPSC optional PYQ trends analysis chart for top 10 optionals - Insight Crunch](/assets/images/blog/blog-03.webp)
+![UPSC optional PYQ trends analysis chart for top 10 optionals - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 ## Why PYQ Trend Analysis Beats Every Other Optional Strategy
 

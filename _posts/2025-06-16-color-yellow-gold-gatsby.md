@@ -6,13 +6,15 @@ date: 2025-06-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Yellow and Gold", "Symbolism", "Close Reading", "American Literature"]
 excerpt: "The color yellow and gold in Gatsby splits the warm spectrum: gold carries the dream's glamour and yellow marks its cheaper, decaying echo and death car."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 41
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-06-16
+lang: en
 ---
-
 Everybody had seen Gatsby's car, and everybody remembered it wrong. To read the color yellow and gold in Gatsby is to begin with that car, because it carries the novel's whole warm palette in a single object. When Nick finally rides in it, he describes it with reverence: it was "a rich cream colour," bright with nickel, swollen along its "monstrous length" with hatboxes and supper-boxes, terraced with a labyrinth of windshields that mirrored a dozen suns. That is the car at the height of its glamour, a gilded machine that catches and multiplies the light. Yet when the same car kills Myrtle Wilson and tears on into the dark, the witnesses do not call it cream. A pale, well-dressed man tells the policeman it was "a yellow car," a big yellow car, new. The machine that gleamed like a piece of jewelry has become, in the language of the people who watched it kill, merely yellow.
+
+![The Color Yellow and Gold in Gatsby - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 That shift, from cream and gold to yellow, is the whole argument of Fitzgerald's warm palette in miniature. The novel does not use one color where most readers see one. It uses two that live next to each other on the spectrum and that the book keeps carefully apart. Gold belongs to the dream: to wealth at its most seductive, to the glow of the desirable woman, to the costume the lover wears to win her. Yellow belongs to what the dream becomes once the glitter wears off: the cheaper echo, the artificial light, the sickly tint of decay and the color the death car wears as it disappears around the bend.
 

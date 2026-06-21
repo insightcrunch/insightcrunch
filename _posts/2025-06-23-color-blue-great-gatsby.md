@@ -6,15 +6,15 @@ date: 2025-06-23
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Symbolism", "The Color Blue", "Close Reading", "American Literature"]
 excerpt: "The color blue in The Great Gatsby tints whatever Gatsby dreams rather than owns, from the blue gardens to the blue lawn, marking the beautiful and unreal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-06-23
+lang: en
 ---
-
 On the first warm nights of the summer, before Nick Carraway has met his neighbour, he watches the spectacle next door and gives it a color. The color blue in The Great Gatsby arrives at exactly this moment, attached to the parties that define Gatsby before the man himself appears. "In his blue gardens men and girls came and went like moths" among the whisperings and the champagne and the stars, Nick reports, and the phrase fixes a strange thing in the reader's mind. Gardens are not blue. Grass is green, hedges are green, the lawns of West Egg are green. Yet Fitzgerald reaches past the literal and tints the whole scene with a cooler, dreamier shade, and once a reader notices that choice, the color begins to appear everywhere the novel turns toward longing.
 
-![The color blue in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The color blue in The Great Gatsby](/assets/images/blog/blog-44.webp)
 
 This article owns one strand of Fitzgerald's palette. The wider system of greens and whites and golds is mapped in the [color symbolism overview for The Great Gatsby](/2025/07/07/color-symbolism-great-gatsby/), which surveys how every hue works together. Here the focus narrows to a single shade and the work it quietly does. Green announces itself at the end of the dock and demands interpretation. Yellow and gold glitter at the parties and at the wheel of a death car. The cooler tone moves differently. It rarely steps into the foreground, it never gets a speech of explanation the way the green light almost does, and for that reason many readers walk straight past it. The claim this article defends is that they should not. Read in sequence, Fitzgerald's coolest hue forms a consistent strand, and that strand has a single subject: the unreal, the dreamed, the thing that is beautiful precisely because it is not quite there.
 
@@ -229,5 +229,4 @@ The separation is the arc of the summer, not a change in the color. Early on the
 
 ### Q: How can a reader find every blue passage to study the strand?
 The most efficient way is to read the novel with the strand in mind and collect the impossible colorings, the moments where gardens, leaves, or lawns are tinted the shade they could not actually be, since those are the symbolic instances rather than the casual ones. Working through the text in order lets a reader watch the meaning build by sequence, from the blue gardens of Chapter Three to the blue lawn of Chapter Nine, and notice how the feeling shifts from hope to loss along the way. A searchable annotated edition makes this far quicker, because it allows a reader to jump to each appearance, compare them side by side, and gather the passages into a single body of evidence for an essay. Tracking presence and absence together matters most, noting not only where the shade falls but where it pointedly does not, because that contrast is what proves the strand is a design rather than an accident.
-
 

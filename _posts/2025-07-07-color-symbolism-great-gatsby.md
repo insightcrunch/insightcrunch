@@ -6,15 +6,15 @@ date: 2025-07-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Symbolism", "Color Symbolism", "Close Reading", "American Literature"]
 excerpt: "Color symbolism in The Great Gatsby works as a system: green, white, yellow, blue, and grey form one coordinated palette that maps the novel's moral world."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-07-07
+lang: en
 ---
-
 The first image the novel hands you is a color. Nick watches Gatsby stretch his arms toward the dark water, and across the bay he can make out "a single green light, minute and far away," a point of brightness with no obvious meaning attached. By the final page that same light has become the figure for every hope a person carries forward against the current. The color came first; the meaning accumulated around it. That is how the whole book works, and it is why color symbolism in The Great Gatsby rewards a system reading rather than a glossary. Fitzgerald did not scatter pretty tints across his pages. He built a palette, and the palette keeps a moral account.
 
-![Color symbolism in The Great Gatsby: a coordinated palette of green, white, yellow and gold, blue, and grey](/assets/images/blog/blog-01.webp)
+![Color symbolism in The Great Gatsby: a coordinated palette of green, white, yellow and gold, blue, and grey](/assets/images/blog/blog-56.webp)
 
 This article is the capstone of the color sequence in the InsightCrunch series. Each individual color has its own full treatment, and this piece routes you to those for depth. What it does on its own is assemble the parts into a coordinated scheme. The claim it defends has a name: a moral world painted by hue. Fitzgerald assigns each color a stable symbolic charge and then arranges those charges so the palette functions as a map of the novel's moral terrain. Green is hope shadowed by money. White is purity that hides rot. Yellow and gold are wealth and its counterfeit glitter. Blue is the dreamlike air Gatsby breathes. Grey is the death underneath all of it. Read the colors together and you read the novel's ethics.
 

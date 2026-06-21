@@ -6,15 +6,15 @@ date: 2021-11-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Princess Bride", "Rob Reiner", "Fantasy", "Adaptations", "Film Analysis"]
 excerpt: "The Princess Bride turns William Goldman's metafictional novel into a grandfather's bedtime tale, balancing sincere romance with an affectionate genre wink."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-11-01
+lang: en
 ---
-
 A grandfather sits at the edge of a sick boy's bed, opens a worn book, and begins to read about fencing, fighting, torture, revenge, giants, monsters, chases, escapes, true love, and miracles. That single image, an old man reading aloud to a reluctant child, is the adaptation decision that makes The Princess Bride work. Rob Reiner's 1987 film had to translate a novel built on layers of literary trickery into something a camera could hold, and it found its answer not in spectacle but in the oldest gesture storytelling knows. The whole fairy tale of Westley and Buttercup arrives wrapped inside that bedroom, narrated by a man who keeps stopping to reassure a grandson that the kissing parts are bearable and the good parts are coming. Understanding how the film built that wrapper, and why it preserved rather than discarded the source's affection for its own genre, is the key to understanding why this picture became one of the most quoted and most beloved fantasies ever filmed.
 
-![The Princess Bride film analysis](/assets/images/blog/blog-01.webp)
+![The Princess Bride film analysis](/assets/images/blog/blog-82.webp)
 
 The temptation, when a fantasy adventure reaches the screen, is to lead with the swordplay and the giants and let the romance carry itself. Reiner and his screenwriter resisted that pull. They understood that the source they were adapting was never only a fairy tale. It was a fairy tale about reading fairy tales, a romance that kept one eyebrow raised at its own conventions while still committing, fully and without irony, to the feelings underneath. The grandfather frame is the cinematic instrument that let the film be sincere and knowing at the same time, and that double register is the achievement the rest of this analysis will trace back, scene by scene and choice by choice, to the book it came from.
 

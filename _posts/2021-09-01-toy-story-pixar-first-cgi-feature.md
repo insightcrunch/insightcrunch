@@ -6,13 +6,15 @@ date: 2021-09-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Toy Story", "Pixar", "Animation", "Computer Animation", "Film Craft"]
 excerpt: "Toy Story was the first fully computer-animated feature. A craft deep-dive into the tools Pixar invented, the toy-world design, and animation worldwide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2021-09-01
+lang: en
 ---
-
 The achievement that matters most about Toy Story is the one stated so plainly that it is easy to walk past: every frame was made inside a computer. No cel was painted. No background was airbrushed onto glass. No model was placed on a tabletop and nudged a fraction of an inch between exposures. The cowboy doll, the spaceman, the bedroom, the carpet, the slanting afternoon light through the window, all of it was described to a machine as numbers and then rendered into pictures. That had never been done across a full feature before. Pixar built the first one, and it built it while inventing the tools that would let it be built at all.
+
+![Toy Story: How the First CGI Feature Was Built - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 Hold the image of the opening in your mind. A boy named Andy plays in his room, and the camera moves with a freedom no animation camera had owned before, gliding around the toys as if it were a real lens on a real crane in a real space. The bedspread has a printed pattern. The cowboy's shirt carries a plaid that bends across the folds of cloth. A pull-string hangs and swings. There is weight, there is reflection, there is the soft fall of shadow, and there is a depth that hand-drawn animation, for all its beauty, could never quite hold because hand-drawn animation is flat by nature. This room has volume. You could walk into it. That sensation, that you are looking into a space rather than at a surface, is the whole technical argument of the picture delivered in its first minute, and the rest of the film spends ninety minutes proving the argument was earned.
 

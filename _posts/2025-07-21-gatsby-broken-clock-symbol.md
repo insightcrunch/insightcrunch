@@ -6,16 +6,15 @@ date: 2025-07-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Clock", "Symbolism", "Close Reading", "Themes"]
 excerpt: "The clock Gatsby almost breaks is the novel's time theme made touchable, the small stopped object whose near-fall and catch hold his whole doomed wish."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 41
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-07-21
+lang: en
 ---
-
-
 The clock Gatsby almost breaks is the most charged minor object in The Great Gatsby, and almost every reader walks past it. It sits on a mantel for a single page in the fifth chapter, gets knocked, gets caught, and is never mentioned again. Yet that defunct mantelpiece timepiece does in one nervous gesture what the rest of the novel spends nine chapters arguing: it shows a man trying to handle time itself with his bare hands, almost dropping it, catching it at the last instant, and setting it carefully back as if the past could be returned to its place. This article reads that object in full, because the small thing on the mantel turns out to hold the large thing the whole book is about.
 
-![A stopped antique mantel object resting at the edge of a shelf](/assets/images/blog/blog-01.webp)
+![A stopped antique mantel object resting at the edge of a shelf](/assets/images/blog/blog-102.webp)
 
 The scene is the reunion. Gatsby has spent five years and an obscene fortune engineering one afternoon of tea in Nick's cottage, and when Daisy finally arrives he is so unstrung that he leans against the mantel in a pose he means to read as ease and which reads as terror. Fitzgerald gives the body away before he gives the feeling: Gatsby is <q>reclining against the mantelpiece in a strained counterfeit of perfect ease</q>, and his head is tipped so far back that it rests against the dial of the dead clock behind him. The man who has bent everything to his will cannot control the angle of his own skull. The object he happens to be resting on is a stopped timepiece. Nothing in the novel is placed by accident, and this is the placement the book has been building toward without telling us.
 

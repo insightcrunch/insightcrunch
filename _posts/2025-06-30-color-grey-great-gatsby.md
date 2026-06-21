@@ -6,15 +6,15 @@ date: 2025-06-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Symbolism", "The Valley of Ashes", "Close Reading", "American Literature"]
 excerpt: "The color grey in The Great Gatsby is the shade that hope and gold drain into, marking the valley of ashes and the moral, spiritual death beneath its glitter."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-06-30
+lang: en
 ---
-
 Most readers finish The Great Gatsby remembering two colors. They remember the green light at the end of Daisy's dock, and they remember the gold and yellow that glitters across Gatsby's parties. The color grey in The Great Gatsby is the one almost nobody names, and that silence is itself a clue to how the shade works. It does not announce itself the way green or gold does. It settles. It coats. It is the color Fitzgerald reaches for when the dream has burned down to its residue, when the bright pigments of hope and money have been spent and only the ash is left. To read this color closely is to read the novel's accounting of what the dream costs, paid in the only currency that never glitters.
 
-![Ash-grey valley scene representing the color grey in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Ash-grey valley scene representing the color grey in The Great Gatsby](/assets/images/blog/blog-09.webp)
 
 This article makes a single claim and defends it across every page where the shade appears: grey is what color drains into. Where green carries hope and gold carries wealth, grey carries the absence of both, the visible residue of a world that has burned out its color. The valley of ashes is the obvious home of this reading, but the shade leaks far past the valley, into eyes and names and dawns and a dead man's portrait, and tracing those leaks is how a reader moves from noticing the shade to arguing about it. The series treats reading a color as the negation of the palette as its analysis-over-equivalence standard, and grey is the clearest case the novel offers.
 

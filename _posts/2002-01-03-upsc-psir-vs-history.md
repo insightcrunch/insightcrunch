@@ -6,19 +6,19 @@ date: 2002-01-03
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "PSIR Optional", "History Optional", "Optional Selection", "Optional Comparison"]
 excerpt: "PSIR vs History optional for UPSC compared on syllabus length, current affairs advantage, GS overlap, scoring trends and background fit to decide right."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2002-01-03
+lang: en
 ---
-
 PSIR vs History is one of the most agonising optional decisions an aspirant faces, because both subjects sit among the most chosen humanities optionals year after year, both produce a steady stream of selected candidates, and both reward the kind of conceptual depth that the Civil Services Examination is built to test. The trouble is that aspirants usually choose between them on the basis of a single half-remembered claim heard in a coaching corridor or a YouTube thumbnail: "PSIR is the current affairs optional" or "History has too vast a syllabus to ever finish." Each of those statements is partly true and dangerously incomplete. Choosing your optional on a half-truth costs you something far more precious than marks, it costs you eighteen months you cannot recover. This comparison exists so that you make the PSIR vs History decision with your eyes fully open, weighing the real preparation load, the genuine scoring behaviour, the actual overlap with the General Studies papers, and the honest question of which subject your mind will tolerate at hour ten of a long study day.
 
 This is not a sales pitch for either subject. PSIR (Political Science and International Relations) and History each have committed advocates who will tell you their optional is the obviously correct choice, and both camps are partly right and partly engaged in motivated reasoning. The aspirant who succeeds is not the one who picks the "better" optional in the abstract, because no such thing exists, but the one who matches the optional's demands to their own background, temperament, available time, and answer writing instincts. Before you read another comparison video or another forum thread, read this guide in full, because the difference between these two optionals is more structural and less about difficulty than almost anyone tells you.
 
 <!--more-->
 
-![PSIR vs History optional UPSC comparison guide - Insight Crunch](/assets/images/blog/blog-07.webp)
+![PSIR vs History optional UPSC comparison guide - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 By the end of this article you will understand precisely what each optional asks of you across both papers, how the syllabus lengths genuinely compare once you account for revision cycles rather than raw page counts, why PSIR enjoys a structural current affairs advantage and what that advantage actually buys you in the examination hall, why History offers a comprehensiveness and stability that current-affairs-heavy optionals cannot match, how the two subjects overlap with different General Studies papers, what the scoring patterns realistically look like, and how to run a concrete personal decision framework that ends the dithering. The broader optional selection logic that underpins this whole discussion is laid out in the [optional subject selection guide](/2003/05/31/upsc-optional-subject-selection/), and you should treat that as the parent framework and this article as the focused two-subject deep dive within it.
 

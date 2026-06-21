@@ -6,13 +6,15 @@ date: 2021-10-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Gone with the Wind", "Victor Fleming", "Historical Epic", "Lost Cause Myth", "Classic Hollywood"]
 excerpt: "Gone with the Wind is a monumental epic whose seductive grandeur is inseparable from its romanticized, harmful vision of the antebellum slaveholding South."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-10-15
+lang: en
 ---
-
 ## Gone with the Wind: Grandeur and Distortion
+
+![Gone with the Wind: Grandeur and Distortion - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 There is a particular kind of film that a nation tells itself about its own past, and then keeps telling, generation after generation, until the telling becomes harder to separate from the history it claims to describe. Victor Fleming's 1939 adaptation of Margaret Mitchell's novel is the American example at its largest and its most seductive. For decades audiences sat in the dark and watched a willful Southern woman lose a world and claw her way back toward something like survival, and they came out moved, dazzled, and persuaded. They came back again and again. By any measure of reach, this is the most successful motion picture the country has produced. By any measure of historical honesty, it is among the most damaging. Both statements are true at once, and the work of taking the picture seriously begins with refusing to let either one cancel the other.
 

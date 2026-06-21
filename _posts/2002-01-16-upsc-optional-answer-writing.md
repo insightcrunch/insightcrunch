@@ -6,17 +6,17 @@ date: 2002-01-16
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Answer Writing", "UPSC Mains", "IAS Preparation", "Mains Strategy"]
 excerpt: "UPSC optional answer writing guide to 10, 15 and 20 mark questions with exact word limits, structure templates, depth calibration and a daily practice plan."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2002-01-16
+lang: en
 ---
-
 UPSC optional answer writing is the single skill that converts the hundreds of hours you have already invested in reading your optional subject into the marks that actually appear on your scorecard. You can know your optional better than the person sitting beside you in the examination hall and still finish forty marks behind them across the two papers, purely because they have learned to package what they know into the shape an evaluator rewards and you have not. The optional carries 500 marks out of the 1750 that decide the merit list, and at the level where ranks are separated by a handful of marks, the gap between a candidate who writes a 10 mark answer in 150 disciplined words and one who writes the same content in a sprawling, structureless 220 words is the gap between a service of choice and another year of waiting. This guide is built entirely around that conversion problem: how to read the mark value of a question, how to calibrate depth and length to it, and how to practise until the calibration becomes automatic.
 
 Most aspirants treat answer writing as something they will get to "once the syllabus is done." That sequencing is the most expensive mistake in the entire optional preparation cycle. The candidate who reads for ten months and then attempts to learn answer writing in the final eight weeks discovers, far too late, that knowing content and presenting content are two different competencies built on two different muscles. The presentation muscle takes months of daily repetition to develop, and it cannot be crammed. By the time you reach this article you have presumably chosen your subject, which we cover in depth in the [UPSC optional subject selection](/2003/05/31/upsc-optional-subject-selection/) guide, and you may already be tracking how repeated themes appear across years through our [UPSC optional PYQ trend analysis](/2002/01/21/upsc-optional-pyq-trends/). What remains, and what this article delivers, is the technique that turns that reading into reproducible marks.
 
-![UPSC Optional Answer Writing 10 15 and 20 Mark Questions - Insight Crunch](/assets/images/blog/blog-04.webp)
+![UPSC Optional Answer Writing 10 15 and 20 Mark Questions - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 By the end of this guide you will understand the architecture of the optional papers, the precise relationship between marks, time and words, the distinct demands of 10, 15 and 20 mark questions, the way directive words reshape what an answer must contain, the construction of introductions, bodies and conclusions across mark values, the strategic use of diagrams and tables, the answer writing nuances that differ across subjects such as Sociology, Geography, History, PSIR, Anthropology and Public Administration, and a ninety-day practice protocol that takes you from a single hesitant answer per day to confident full-length papers under examination conditions. The broader Mains technique that supports all of this lives in the [UPSC Mains answer writing formats](/2002/08/11/upsc-mains-answer-writing-formats/) article and the foundational [UPSC answer writing](/2003/04/07/upsc-answer-writing/) guide, both of which complement what follows here.
 

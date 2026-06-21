@@ -6,17 +6,17 @@ date: 2021-11-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Easy Rider", "Dennis Hopper", "New Hollywood", "Counterculture", "World Cinema", "Film History"]
 excerpt: "Easy Rider captured the 1960s counterculture and detonated New Hollywood, the American form of a worldwide youth-cinema rupture, in one doomed road movie."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-11-15
+lang: en
 ---
-
 Two men ride east on motorcycles, financed by a cocaine sale and chasing a freedom the country keeps refusing them. That is the whole engine of Easy Rider, the 1969 road film Dennis Hopper directed and co-wrote, that Peter Fonda produced and co-wrote, and that the two of them rode straight into the center of American film history. The picture cost almost nothing, looked like nobody in charge had supervised it, and went on to gross sums that rearranged how the studios thought about who their audience was. It arrived as the clearest possible signal that a movement had taken hold of the culture and was now reaching the screen on its own terms, and it left the industry that released it permanently changed.
 
 To call this film a movement document is not to reduce it to sociology. Easy Rider belongs to the counterculture the way a particular song belongs to a particular summer: it did not invent the mood, but it caught it whole and gave it back at a volume nobody could ignore. The aim of this analysis is to place the film inside the two overlapping movements it served, the youth counterculture of the late 1960s and the New Hollywood that the counterculture forced into being, and then to set it against the parallel youth and road cinemas rising across the world in the same years. Read that way, the film stops being a curio about long hair and chopper handlebars and becomes the American detonation of a global generational upheaval that was remaking cinema on several continents at once.
 
-![How Easy Rider captured the counterculture and launched New Hollywood, a movement analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Easy Rider captured the counterculture and launched New Hollywood, a movement analysis - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## The two movements Easy Rider belongs to
 

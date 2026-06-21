@@ -6,17 +6,17 @@ date: 2021-09-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "When Harry Met Sally", "Rob Reiner", "Nora Ephron", "Romantic Comedy", "Screenwriting"]
 excerpt: "When Harry Met Sally built a friendship into love across the years, setting the modern romantic comedy template of witty equals and a famous deli scene."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-09-15
+lang: en
 ---
-
 The structural gamble at the center of When Harry Met Sally is easy to miss because the film wears it so lightly. Rob Reiner's 1989 romantic comedy, written by Nora Ephron, decides that the love story will not be a courtship at all. It will be a friendship, stretched across more than a decade, that keeps refusing to become the thing the audience can see it already is. Most love stories on screen run on obstacles between two people who want each other from the first reel. This screenplay runs on the opposite engine: two people who insist, for years and with great wit, that they do not want each other, while the architecture of the script quietly assembles every reason they belong together. The structure is the argument. By the time Harry sprints across Manhattan on New Year's Eve, the film has spent its whole length earning a conclusion the characters spent that same length denying.
 
 That inversion is what made the picture a template rather than just a hit. A great many romantic comedies followed it, borrowed its shape, and measured themselves against its rhythm, the talky equals, the long delay, the structured debate about whether men and women can be friends. To read When Harry Met Sally as a piece of screenwriting is to watch a writer take the oldest plot in the world, two people who end up together, and rebuild its load-bearing walls so the genre could stand somewhere new.
 
-![When Harry Met Sally analysis](/assets/images/blog/blog-01.webp)
+![When Harry Met Sally analysis](/assets/images/blog/blog-52.webp)
 
 ## How the screenplay turns time into structure
 
