@@ -6,15 +6,15 @@ date: 2002-02-26
 categories: ["Industry"]
 tags: ["UPSC", "Mathematics Optional", "UPSC Optional Subject", "IAS Mathematics", "UPSC Mains", "Civil Services"]
 excerpt: "A complete UPSC Mathematics optional guide covering the full syllabus, best books, scoring strategy, real risks and a month-by-month plan to cross 300."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2002-02-26
+lang: en
 ---
-
 There is a particular kind of aspirant who reads about the UPSC Mathematics optional and feels something close to relief. After months of hearing that Mains success depends on how well you "frame" an answer, how gracefully you balance arguments, and how much examiner subjectivity you can survive, the idea of a subject where a correct proof is simply correct sounds almost too good to be true. A determinant is a determinant. An eigenvalue does not care about the examiner's mood. If you have solved the problem properly and shown your steps, the marks are yours, and no amount of interpretive judgement can take them away. This is the central promise of the UPSC Mathematics optional, and it is both real and dangerously incomplete. The subject genuinely rewards precision more cleanly than almost any other optional in the Civil Services Examination, yet that same precision can turn against you in ways that humanities optionals never threaten. This guide is built to give you the honest, complete picture, so that you choose this subject with your eyes open and prepare for it with a method that actually works.
 
-![UPSC Mathematics optional syllabus and preparation strategy](/assets/images/blog/blog-10.webp)
+![UPSC Mathematics optional syllabus and preparation strategy](/assets/images/blog/blog-80.webp)
 
 Before going further, it helps to anchor where this subject sits in the larger architecture of the exam. If you are still forming your understanding of how the three stages of the Civil Services Examination fit together, the [complete UPSC preparation guide](/2003/07/24/upsc-civil-services-complete-guide/) lays out the full structure, and the dedicated guide on [how to select your optional subject](/2003/05/31/upsc-optional-subject-selection/) walks through the decision framework that this article assumes you have already engaged with. What follows is not a generic pep talk about the joys of numbers. It is an operational manual for treating this discipline as a 500-mark scoring engine inside a 1750-mark Mains examination, written for the aspirant who wants to know exactly what to read, in what order, with what practice protocol, and against what risks.
 

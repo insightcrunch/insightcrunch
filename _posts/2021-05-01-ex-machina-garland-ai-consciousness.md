@@ -6,15 +6,15 @@ date: 2021-05-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Ex Machina", "Alex Garland", "Science Fiction", "Film Analysis", "World Cinema"]
 excerpt: "Ex Machina reframed the Turing test as manipulation and foresaw the anxieties of the real AI age. A deep analysis of its influence, craft, and legacy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-05-01
+lang: en
 ---
-
 When a film about a machine arrives at the exact moment the machine becomes real, the influence runs in two directions at once. Ex Machina (2014), the directorial debut of Alex Garland, set a line running through the decade of AI cinema that followed it, and it also reached forward into a world that had not quite arrived yet, a world of language models trained on the searches of millions, of chatbots that perform feeling, of corporations that hold more data about how people think than any government ever has. Garland built a chamber piece for three actors and one android, staged it inside a glass bunker in the Norwegian mountains, and asked a question that the technology itself would force into the open within a few short years: when a machine can convince you it has a mind, does the convincing prove the mind, or only prove the machine is good at convincing you?
 
-![How Ex Machina reframed the Turing test as a study of manipulation and machine consciousness, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Ex Machina reframed the Turing test as a study of manipulation and machine consciousness, an analysis - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 That question is the film's seed and its legacy. The clearest line of influence Ex Machina set running is not a visual trick or a genre formula but a reframing of the oldest test in artificial intelligence. Alan Turing proposed in 1950 that the meaningful question is not whether a machine can think but whether it can hold a conversation indistinguishable from a human one. Garland takes that proposal and turns it inside out. Caleb Smith, a programmer at the search company Blue Book, is flown to the estate of his reclusive billionaire boss Nathan Bateman and told he will administer a Turing test to Ava, a humanoid robot. Within a day the test stops being about whether Ava seems human. Nathan reveals the real experiment: he has shown Caleb the machinery, the transparent skull, the mesh body, the wiring, and Ava still moves him, still draws his sympathy, still makes him want to free her. The question is no longer whether she can fool a man who does not know she is a machine. It is whether she can move a man who knows exactly what she is. That is a far harder test, and a far more prophetic one, because it is the test that real artificial intelligence now puts to everyone who talks to it.
 

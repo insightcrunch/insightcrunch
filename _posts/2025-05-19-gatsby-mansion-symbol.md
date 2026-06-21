@@ -2,15 +2,17 @@
 title: "Gatsby's Mansion as a Symbol: The House Behind the Man"
 slug: gatsby-mansion-symbol
 date: 2025-05-19
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gatsby's Mansion", "Symbolism", "Close Reading", "Jay Gatsby", "American Literature"]
 image: /assets/images/blog/blog-01.webp
 excerpt: "Gatsby's mansion as a symbol is a facade of borrowed grandeur: an imitation chateau, magnificent and empty, that is finally a portrait of the man who built it."
 reading_time: 38
+lang: en
 ---
-
 Before Nick Carraway has met the man whose name the novel carries, he has met the man's house. In the opening chapter, standing on his rented strip of West Egg, Nick looks at the place next door and registers it as a thing too large to ignore. The building is a copy of a European original, fresh and raw, ringed by lawn and water, and it announces a fortune before it announces a person. Fitzgerald introduces Gatsby through real estate. We see the walls long before we see the face, and that order of seeing is the first clue to what the mansion means.
+
+![Gatsby's Mansion as a Symbol: The House Behind the Man - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This article makes a single argument and defends it across the whole book: Gatsby's mansion is a house that is all facade. It is an imitation of old-world grandeur built by new money to perform a belonging it cannot have, which makes it Gatsby in architecture, magnificent, borrowed, and finally empty. The estate is not a backdrop to the story. It is a portrait of its owner, and reading it that way turns a description of a building into an analysis of a man.
 
@@ -261,5 +263,4 @@ The estate is the clearest image in the novel of new money trying to buy what on
 ### Q: Why does the mansion feel haunted during the tour with Daisy?
 
 During the Chapter 5 reunion, when Gatsby leads Daisy through the rooms, Nick senses guests concealed behind every couch and table, as if the empty spaces were watched. The eerie feeling comes from the gap between the building's function and its present use. The estate was built as a public stage, designed for crowds, so seeing it quiet and private makes the absence of the crowd palpable, a silence shaped like the people who are not there. The tour also turns the building inward: Gatsby revalues every object according to Daisy's reaction, so the rooms are charged with the pressure of a single judgment. The structure feels haunted because it is suspended between its two states, no longer the party palace and not quite a home, holding the ghost of the spectacle and the weight of the hope riding on one visitor's eyes.
-
 

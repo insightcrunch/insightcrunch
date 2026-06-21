@@ -6,19 +6,19 @@ date: 2002-02-21
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Literature Optional", "English Literature", "Hindi Literature", "Sanskrit Literature", "Optional Selection"]
 excerpt: "UPSC literature optional guide comparing English, Hindi, Sanskrit and regional language choices, with syllabus structure, suitability tests and scoring strategy"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2002-02-21
+lang: en
 ---
-
 The literature optional occupies a strange and often misunderstood corner of the UPSC choice map. When an aspirant decides to write the literature of a particular tongue as the elective subject, that decision sits apart from almost every other optional on offer. It is not a current-affairs subject, it does not chase the news cycle, and it does not borrow heavily from any General Studies paper. Instead it asks a candidate to read prescribed works closely, to understand how a linguistic tradition grew across centuries, and to write critically about poems, plays, novels and ideas. This guide treats the entire family of literary electives as one connected field so that you can judge, with clear eyes, whether one of these subjects belongs in your strategy and, if it does, which one.
 
 <!--more-->
 
 The reason so many aspirants overlook these electives is that the popular conversation on coaching forums and video channels fixates on a small cluster of so-called safe choices. Yet the data on selected candidates over many cycles shows that aspirants writing the literature of their mother tongue, or of a classical canon they trained in, frequently post optional totals that rival or exceed the crowd favourites. The catch is that this performance depends almost entirely on genuine command. A literary elective rewards the right background ruthlessly and punishes the wrong one just as ruthlessly. Reading this guide end to end will let you place yourself accurately on that spectrum before you commit a year of your life.
 
-![UPSC Literature Optional Strategy for English Hindi Sanskrit and Regional Languages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Literature Optional Strategy for English Hindi Sanskrit and Regional Languages - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 By the time you finish, you will understand what separates a literary elective from a conventional subject, the full menu of tongues the Commission permits, the shared architecture that binds the Indian-language papers, the distinct shape of the English canon, the strategic profile of the major choices, a decision framework for matching a subject to your background, the medium and script rules that trip up the unprepared, a month-by-month preparation plan, the answer craft that evaluators reward, and the honest scoring picture behind the scoring-subject reputation. The wider logic of picking any elective sits in the [UPSC optional subject selection guide](/2003/05/31/upsc-optional-subject-selection/), and the broader directory of every available choice lives in the [complete list of all UPSC optionals with analysis](/2001/12/20/upsc-all-48-optionals/). If you are still building the full picture of the examination itself, the [complete UPSC Civil Services guide](/2003/07/24/upsc-civil-services-complete-guide/) is the foundation everything else rests upon.
 

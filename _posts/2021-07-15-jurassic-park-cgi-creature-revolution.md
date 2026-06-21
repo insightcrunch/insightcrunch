@@ -6,13 +6,15 @@ date: 2021-07-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Jurassic Park", "Steven Spielberg", "Visual Effects", "Creature Features", "Blockbusters"]
 excerpt: "Jurassic Park fused animatronics with computer animation to make dinosaurs that looked alive, the production that turned the whole movie industry digital."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2021-07-15
+lang: en
 ---
-
 ## The Production Problem That Made the Film
+
+![Jurassic Park: How the Dinosaurs Were Made - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 Every legendary production begins with a problem nobody has solved, and the problem facing Jurassic Park in 1990 was as old as the movies themselves: how do you put a living animal on screen that does not exist and never can. Steven Spielberg had bought the rights to Michael Crichton's novel before it reached bookstores, and he knew within hours of committing that the entire picture rested on a single technical gamble. If audiences believed the dinosaurs were alive, the film would be the event of the decade. If the creatures looked like puppets, models, or animation, the spectacle would collapse into the same well-meaning awkwardness that had limited monster cinema for sixty years. There was no middle ground and no margin for charm. The dinosaurs had to breathe.
 

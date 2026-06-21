@@ -6,15 +6,15 @@ date: 2025-04-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Eyes of T. J. Eckleburg", "Symbolism", "Religion", "George Wilson", "Close Reading"]
 excerpt: "The eyes of Eckleburg as God is the novel's most debated reading. See exactly how a faded billboard becomes a deity through grieving Wilson's projection."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-04-28
+lang: en
 ---
-
 A grieving man stands at his window before dawn, looks at a faded advertising billboard, and tells it that it cannot be fooled because it is God. That single moment is where the reading of the eyes of Eckleburg as God begins, and it is also where the reading quietly comes apart. The text never says the eyes are God. A broken husband says it, once, to a billboard, the morning after his wife is killed. Everything that makes this the novel's most haunting religious image depends on who is speaking and what he needs to be true.
 
-![A faded billboard with painted eyes looking over a grey industrial wasteland at dawn](/assets/images/blog/blog-01.webp)
+![A faded billboard with painted eyes looking over a grey industrial wasteland at dawn](/assets/images/blog/blog-09.webp)
 
 This article owns one facet of a much larger symbol. The complete treatment of the faded oculist's sign lives in the pillar study of [the eyes of Doctor T. J. Eckleburg](/2025/04/21/eyes-of-tj-eckleburg/), and the wider question of faith and emptiness belongs to the analysis of [religion in The Great Gatsby](/2024/11/25/religion-great-gatsby/). Here the focus is narrow and exact: the scene in which George Wilson identifies the painted eyes with God, what the identification means, and why the smartest reading treats it as projection rather than proof. The claim this article defends has a name, the God-as-projection reading, and the argument is that the eyes become a deity only because a shattered man needs a witness, so the symbol records not a watching heaven but the human hunger to be watched over.
 

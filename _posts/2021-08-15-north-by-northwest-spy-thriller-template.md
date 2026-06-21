@@ -6,13 +6,15 @@ date: 2021-08-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "North by Northwest", "Alfred Hitchcock", "Spy Thriller", "Genre Analysis", "Film Studies"]
 excerpt: "North by Northwest codified the modern chase thriller: the wrong-man hero, the empty MacGuffin, and the landmark set piece the spy genre still follows."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-08-15
+lang: en
 ---
-
 Before a Madison Avenue advertising man named Roger Thornhill was bundled into a car at gunpoint in North by Northwest and accused of being a spy who did not exist, the screen chase thriller was a scattered, unsettled thing. It had pieces. It had the falsely accused man from stage melodrama, the exotic intrigue of pulp serials, the train compartments and border crossings of wartime espionage pictures, the cool menace of the foreign agent. What it did not have was a single, gleaming model that fused all of those pieces into one self-aware machine, set it in motion across a continent, and made the whole exhilarating contraption look effortless. North by Northwest, released in 1959 and directed by Alfred Hitchcock from a script by Ernest Lehman, supplied that model. It took the loose inheritance of the chase picture and codified it into a template so durable that the spy franchises and action blockbusters of the decades that followed have been drawing on it ever since, sometimes knowingly, often without realizing where the blueprint came from.
+
+![North by Northwest: The Chase Thriller Template - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 ![North by Northwest spy thriller template]({{ "/assets/images/blog/blog-01.webp" | relative_url }})
 

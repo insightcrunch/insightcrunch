@@ -6,15 +6,15 @@ date: 2025-04-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Green Light", "Symbolism", "Themes", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "The green light: hope, distance, desire in The Great Gatsby, and why this single image names the structure of longing every reader recognizes at once."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-04-14
+lang: en
 ---
-
 A man stands at the end of his own lawn in the dark, arms held out toward the water, reaching for something a reader cannot yet see. That posture, fixed in the closing lines of the first chapter, is the whole novel in miniature, and the object of the reach is the green light: hope, distance, desire braided into one point of color across the bay. Before Gatsby has a name to us, before we know what he wants or why, Fitzgerald shows us the wanting itself. The light gives the longing a body. This article reads that single image for the psychological structure it carries, so that the most quoted symbol in American fiction stops being a one-line answer and becomes a way of understanding why human beings are moved by what stays just out of reach.
 
-![The green light symbolism in The Great Gatsby explained, hope, distance, and desire - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The green light symbolism in The Great Gatsby explained, hope, distance, and desire - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 ## What the Green Light Is and Why It Carries So Much
 

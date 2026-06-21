@@ -6,17 +6,17 @@ date: 2021-06-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "La La Land", "Damien Chazelle", "Musical", "Film Scores", "World Cinema"]
 excerpt: "La La Land revives the movie musical by letting a returning melody, changed by all that has happened, deliver its bittersweet truth about love and ambition."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-06-15
+lang: en
 ---
-
 ## La La Land and the Music That Does the Thinking
 
 Most movie musicals tell you how to feel and then hand the song the job of saying it louder. La La Land works the other way around. The picture trusts a handful of melodies to carry its argument about ambition and love, and it lets one of those melodies return at the end in a changed form to deliver a truth the dialogue never states out loud. Damien Chazelle's 2016 film about a jazz pianist and an aspiring actress chasing their dreams in Los Angeles is built so that the score reasons through the story the way a character might, planting a tune early, attaching it to a feeling, and then bringing it back transformed when the feeling has soured into something wiser and sadder. The result is a revival of the Hollywood musical that depends, more than any single performance or shot, on what the music remembers.
 
-![How the music and score of La La Land revive the movie musical and deliver its bittersweet ending, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the music and score of La La Land revive the movie musical and deliver its bittersweet ending, an analysis - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 That dependence is the whole design. Justin Hurwitz, who scored every Chazelle feature and shared a Harvard dorm with the director before either had made anything, wrote the songs and the underscore as a single connected system of recurring ideas. He did not begin with set pieces and fill the gaps with background filler. He began, as he has described it, by finding themes and melodies that the picture would reuse, melodies built to represent particular people and particular ideas so that their reappearance could mean something. The two anchors of that system are the instrumental piece the production calls Mia and Sebastian's Theme and the melody that lyricists Benj Pasek and Justin Paul turned into the song City of Stars. Both are introduced as small, almost private gestures, and both are engineered from the first to be heard again. By the closing minutes, the picture has earned the right to replay them as a verdict on everything that came before.
 

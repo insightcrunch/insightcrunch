@@ -6,17 +6,17 @@ date: 2002-03-07
 categories: ["Industry"]
 tags: ["UPSC", "Law Optional", "UPSC Optional Subjects", "IAS Preparation", "Law Graduates"]
 excerpt: "UPSC Law optional complete guide: decode the syllabus, master legal answer writing, pick the right books and build a tested route to a 300 plus score."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2002-03-07
+lang: en
 ---
-
 You spent three or five years learning to think like a lawyer. You can read a judgment, isolate the ratio, distinguish a precedent and argue both sides of a proposition before breakfast. And now you are staring at the optional subject list for the civil services examination, wondering whether all that training translates into marks. The UPSC Law optional sits at a strange crossroads. It is one of the most natural choices for an LLB holder and simultaneously one of the most underestimated electives in the entire pool. This guide is the resource you print, annotate and return to for the next twelve months. It walks through the syllabus clause by clause, separates the myths from the marking reality, hands you a chapter-level reading plan, and shows you exactly how to convert courtroom prose into the kind of answers that examiners reward.
 
 Before going further, anchor yourself in the larger map. If you have not yet read the [master overview of the entire civil services journey](/2003/07/24/upsc-civil-services-complete-guide/), do that first, because the elective you pick is one moving part inside a much bigger machine, and treating it in isolation is the single most common planning error aspirants make.
 
-![UPSC Law optional complete guide syllabus and strategy for law graduates](/assets/images/blog/blog-01.webp)
+![UPSC Law optional complete guide syllabus and strategy for law graduates](/assets/images/blog/blog-24.webp)
 
 ## Why the Law Optional Deserves a Serious Look
 

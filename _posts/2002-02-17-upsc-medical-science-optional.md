@@ -8,10 +8,10 @@ tags: ["UPSC", "UPSC Optional", "Medical Science Optional", "MBBS UPSC", "Option
 excerpt: "UPSC Medical Science optional complete guide for MBBS doctors covering Paper 1 Paper 2 anatomy physiology medicine community medicine and 300 plus scoring"
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2002-02-17
+lang: en
 ---
-
 UPSC Medical Science optional is the specialist choice reserved almost entirely for one group: graduates who already hold an MBBS degree and want to convert years of clinical training into a high-scoring, factually grounded optional rather than starting an unfamiliar humanities subject from scratch. The aspirant who treats this optional as a fresh learning project, attempting to absorb the entire pre-clinical, para-clinical and clinical curriculum from zero, almost always drowns in volume and abandons it midway. The aspirant who treats it as a structured, examination-oriented revision of knowledge they already possess, layered with answer-writing adaptation and disciplined practice, produces precise, diagram-rich, definitively correct answers that evaluators reward generously. A well-prepared doctor frequently scores in the 280 to 340 band across both papers, while an unprepared one who relies on memory and clinical instinct alone often lands below 200. That 80 to 140 mark differential decides ranks and services. This UPSC Medical Science optional complete guide is built to help a qualified doctor extract the maximum return from a degree they have already earned.
 
 <!--more-->
