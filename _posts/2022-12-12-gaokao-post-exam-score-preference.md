@@ -6,14 +6,14 @@ date: 2022-12-12
 categories: ["Industry"]
 tags: ["高考", "高考查分", "志愿填报", "平行志愿", "录取查询", "Gaokao Results", "Preferences"]
 excerpt: "高考结束并非终点,而是一系列关键决策的真正开始。本文以资深教育视角系统梳理高考后三个月的完整流程,涵盖成绩查询渠道、一本二本与一段二段分数线解读、位次定位方法、平行志愿规则、冲稳保梯度策略、提前批选择、新高考志愿特点、录取通知、档案转递、学费缴纳以及新生入学准备,帮助考生与家庭从容走稳通往理想大学的每一步。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "yang-bo"
+lang: zh
 ---
-
 走出考场的那一刻,很多考生和家长都长舒一口气,以为最艰难的部分已经结束。然而站在多年带考的经验角度看,高考结束其实只是完成了整场战役的前半程。真正决定一名考生未来四年走向的,往往不是考场上那张试卷,而是接下来三个月里一连串看似琐碎、实则环环相扣的决策:什么时候查分、怎样读懂自己的分数、如何定位位次、怎么排布志愿、要不要服从调剂、提前批要不要冲、录取通知书到了要核对什么、档案怎么转、学费怎么交、入学前要准备些什么。每一个环节都可能影响最终去哪所大学、读什么专业。可以毫不夸张地说,同样的分数,填报方式不同,结果可能是天壤之别。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-96.webp)
 *高考后三个月是与备考三年同等重要的关键期,查分填志愿的每一步都关乎大学去向*
 
 这篇文章是整个高考系列的收官之作。如果你刚刚读完前面关于备考、选科、择校的内容,那么这里就是把所有线索收拢、串联成一条完整行动路线的地方。无论你是高分段考生在名校之间权衡,还是中段考生在冲稳保之间反复斟酌,亦或是暂时失利需要寻找新出路,本文都会给出系统、可操作的指引。建议把它和[高考完全指南](/2026/03/18/gaokao-complete-guide/)对照阅读,前者是整体框架,本文则是考后阶段的落地手册。

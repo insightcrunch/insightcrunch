@@ -6,11 +6,14 @@ slug: gatsby-cars-driving-motif
 excerpt: "The motif of cars and driving in The Great Gatsby makes the road a moral test, where reckless driving exposes reckless living and ends in a fatal crash."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "chloe-martin"
 reading_time: 47
 tags: ["The Great Gatsby", "Cars and Driving", "Carelessness", "Themes", "Symbolism", "Close Reading", "F. Scott Fitzgerald"]
+lang: en
 ---
 The Great Gatsby is a novel in which almost no one knows how to handle a car, and that is not an accident of plot. Fitzgerald builds a sustained pattern out of automobiles and the people steering them, and the pattern carries an argument: the way a character drives is the way that character lives. Hands that grip a wheel loosely grip lives loosely. The book turns the road into a moral test, and one by one its bright, moneyed people fail it.
+
+![The Motif of Cars and Driving in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 This is the motif of cars and driving, and it runs from the first party scene to the last page. Cars announce who has money and who does not. Cars mark the distance between West Egg and East Egg and the city. Cars carry the careless toward the careful and leave wreckage behind. By the time a yellow automobile strikes Myrtle Wilson on the road outside the garage, the novel has already taught a reader to read driving as character, so the fatal collision lands not as a freak event but as the motif arriving at its conclusion. Careless driving has become careless living made visible at speed.
 
