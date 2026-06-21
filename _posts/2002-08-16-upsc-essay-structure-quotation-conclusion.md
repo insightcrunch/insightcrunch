@@ -5,7 +5,7 @@ page_title: "UPSC Essay Structural Techniques: Funnel Introduction PESTLE Body A
 date: 2002-08-16
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Essay Paper", "Essay Structure", "Quotation", "IAS Preparation"]
-excerpt: "UPSC essay structure quotation and conclusion techniques: funnel introduction PESTLE body framework action point conclusion quotation deployment essay aesthetics."
+excerpt: "UPSC essay structure quotation and conclusion techniques: funnel introduction PESTLE body framework action point conclusion quotation deployment essay"
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 65
 author: "anita-das"

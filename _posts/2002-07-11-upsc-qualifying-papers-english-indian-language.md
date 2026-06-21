@@ -5,7 +5,7 @@ page_title: "UPSC Qualifying Papers Strategy: English Compulsory Paper Indian La
 date: 2002-07-11
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Qualifying Papers", "English Paper", "Indian Language", "IAS Preparation"]
-excerpt: "UPSC qualifying papers strategy for English and Indian language covering essay precis vocabulary grammar and the danger of ignoring qualifying requirements."
+excerpt: "UPSC qualifying papers strategy for English and Indian language covering essay precis vocabulary grammar and the danger of ignoring qualifying requirements"
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 65
 author: "deepika-joshi"

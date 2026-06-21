@@ -5,7 +5,7 @@ page_title: "UPSC Mains Answer Writing Strategy: 150-Word 200-Word 250-Word Form
 date: 2002-08-11
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Answer Writing", "150 Word", "250 Word", "IAS Preparation"]
-excerpt: "UPSC Mains answer writing strategy: 150-word and 200-word format word-to-structure mapping how to say more in fewer words timed practice drills."
+excerpt: "UPSC Mains answer writing strategy: 150-word and 200-word format word-to-structure mapping how to say more in fewer words timed practice drills, study roadmap"
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 65
 author: "kavita-sharma"

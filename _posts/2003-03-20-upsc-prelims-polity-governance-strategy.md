@@ -5,7 +5,7 @@ page_title: "UPSC Prelims: Indian Polity and Governance Strategy with Laxmikanth
 date: 2003-03-20
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Indian Polity", "Constitution", "Governance"]
-excerpt: "Master UPSC Polity and Governance with chapter-level Prelims relevance and proven question pattern analysis."
+excerpt: "Master UPSC Polity and Governance with chapter-level Prelims relevance and proven question pattern analysis, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 59
 author: "deepika-joshi"
@@ -202,7 +202,7 @@ During the revision phase, particularly emphasise the constitutional amendment q
 
 The third phase occurs during the final 30 to 60 days before Prelims and involves intensive revision of Laxmikanth's most important chapters, focused PYQ practice on questions you previously got wrong, and systematic review of governance schemes through your dedicated scheme notes file. During this phase, do not introduce new Polity content; focus exclusively on consolidating, retrieving, and stress-testing the knowledge you have already built through the first two phases. Introducing new content in the final weeks creates anxiety and confusion that degrades performance on the well-established knowledge base.
 
-The final sprint revision should include at least two complete revisions of all Tier 1 chapters and one revision of all Tier 2 chapters during the final 30 days. PYQ practice should be intensified to approximately 50 to 80 Polity questions during the final 30 days, focusing on the topics where mock test analysis has revealed weakness. The [last 30 days strategy](/2003/01/07/upsc-prelims-last-30-days/) provides the broader sprint preparation framework within which Polity sprint revision should be integrated.
+The final sprint revision should include at least two complete revisions of all Tier 1 chapters and one revision of all Tier 2 chapters during the final 30 days. PYQ practice should be intensified to approximately 50 to 80 Polity questions during the final 30 days, focusing on the topics where mock test analysis has revealed weakness. The [last 30 days strategy](/2002/12/20/upsc-prelims-last-30-days/) provides the broader sprint preparation framework within which Polity sprint revision should be integrated.
 
 For the comprehensive PYQ practice that supports all three phases of the preparation methodology, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides the authentic question archive spanning multiple examination years across all subjects, enabling targeted Polity PYQ practice with the question formats that current UPSC examinations use. The [free UPSC Prelims daily practice on ReportMedic](https://reportmedic.org/tools/upsc-prelims-daily-practice.html) provides examination-format daily MCQ practice that includes Polity questions calibrated to the current examination's difficulty level and question style.
 

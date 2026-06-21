@@ -5,7 +5,7 @@ page_title: "UPSC for STEM Graduates: Science and Maths Background Advantage"
 date: 2003-05-17
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Science Background", "IAS for Science Students", "STEM UPSC", "Maths Optional"]
-excerpt: "Turn your science background into a UPSC edge with optional synergy and CSAT advantage strategies."
+excerpt: "Turn your science background into a UPSC edge with optional synergy and CSAT advantage strategies, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 59
 author: "anita-das"

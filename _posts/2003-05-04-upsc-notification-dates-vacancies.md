@@ -5,7 +5,7 @@ page_title: "UPSC Notification 2026: Key Dates, Vacancies and What to Expect"
 date: 2003-05-04
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Notification", "UPSC 2026", "UPSC Dates", "UPSC Vacancies"]
-excerpt: "Decode the UPSC 2026 notification with vacancy data, date trends, and a pre-application checklist."
+excerpt: "Decode the UPSC 2026 notification with vacancy data, date trends, and a pre-application checklist, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 59
 author: "deepika-joshi"

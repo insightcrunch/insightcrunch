@@ -5,7 +5,7 @@ page_title: "UPSC After Multiple Failed Attempts: How to Reset, Refocus and Clea
 date: 2003-05-08
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Failed Attempts", "UPSC Not Clearing", "IAS Multiple Attempts", "UPSC Motivation"]
-excerpt: "Reset your UPSC preparation after failure with a diagnostic framework and concrete strategy fixes."
+excerpt: "Reset your UPSC preparation after failure with a diagnostic framework and concrete strategy fixes, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 59
 author: "anita-das"

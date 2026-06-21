@@ -5,7 +5,7 @@ page_title: "UPSC Result: How Results Are Declared, Merit List and What Happens 
 date: 2003-04-29
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Result", "IAS Result", "UPSC Merit List", "UPSC Final Result"]
-excerpt: "Understand UPSC results from Prelims to final merit list, including marksheets, cadres, and post-selection."
+excerpt: "Understand UPSC results from Prelims to final merit list, including marksheets, cadres, and post-selection, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 59
 author: "anita-das"

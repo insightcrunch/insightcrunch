@@ -5,7 +5,7 @@ page_title: "UPSC GS1 Geography Mains Strategy: Physical, Human, Indian Geograph
 date: 2002-11-18
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 1", "Indian Geography", "Physical Geography", "Environment", "IAS Preparation"]
-excerpt: "Complete UPSC GS1 geography Mains strategy: physical, human, Indian geography with map work and environment integration."
+excerpt: "Complete UPSC GS1 geography Mains strategy: physical, human, Indian geography with map work and environment integration, complete preparation strategy"
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 62
 author: "anita-das"
@@ -228,7 +228,7 @@ The Indian cultural and demographic geography map work should include the lingui
 
 The world geography map work should include the major physical features (mountains, rivers, plateaus, deserts), the major political divisions with attention to regions frequently mentioned in UPSC questions (the Middle East, East Asia, Southeast Asia, Central Asia, the European Union region, North America, Latin America, Africa), the major resource regions, and the major trade routes and maritime chokepoints.
 
-The recommended map-work schedule is one to two hours weekly across the preparation cycle, with increasingly detailed annotations as your content knowledge deepens. The cumulative effect across 40 to 60 map-work sessions is a spatial command that transforms geography answers. For comprehensive geography preparation, the [UPSC Prelims maps atlases and geography factual questions strategy](/2003/01/02/upsc-prelims-maps-atlases-geography-factual-questions/) article covers map-marking discipline with attention to both Prelims and Mains applications.
+The recommended map-work schedule is one to two hours weekly across the preparation cycle, with increasingly detailed annotations as your content knowledge deepens. The cumulative effect across 40 to 60 map-work sessions is a spatial command that transforms geography answers. For comprehensive geography preparation, the [UPSC Prelims maps atlases and geography factual questions strategy](/2003/01/02/upsc-prelims-maps-geography/) article covers map-marking discipline with attention to both Prelims and Mains applications.
 
 ## Answer Writing for Geography Questions
 

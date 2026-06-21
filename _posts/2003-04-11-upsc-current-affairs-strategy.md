@@ -5,7 +5,7 @@ page_title: "UPSC Current Affairs Strategy: How to Cover News Without Drowning i
 date: 2003-04-11
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Current Affairs", "Current Affairs IAS", "News for UPSC", "UPSC Strategy"]
-excerpt: "Master UPSC current affairs without drowning, using a layered method, syllabus mapping, and clear note structures."
+excerpt: "Master UPSC current affairs without drowning, using a layered method, syllabus mapping, and clear note structures, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 59
 author: "deepika-joshi"

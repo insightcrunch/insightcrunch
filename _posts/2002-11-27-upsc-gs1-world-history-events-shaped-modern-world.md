@@ -5,7 +5,7 @@ page_title: "UPSC GS1 World History Strategy: Industrial Revolution, World Wars,
 date: 2002-11-27
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 1", "World History", "Cold War", "Decolonisation", "IAS Preparation"]
-excerpt: "Complete UPSC GS1 world history strategy: industrial revolution, world wars, cold war, decolonisation themes with Indian context."
+excerpt: "Complete UPSC GS1 world history strategy: industrial revolution, world wars, cold war, decolonisation themes with Indian context, complete preparation strategy"
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "deepika-joshi"

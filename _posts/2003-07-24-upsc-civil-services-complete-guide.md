@@ -5,7 +5,7 @@ page_title: "UPSC Civil Services Complete Guide: Prelims, Mains and Interview"
 date: 2003-07-24
 categories: ["Industry"]
 tags: ["UPSC", "IAS Preparation", "UPSC CSE", "Civil Services", "UPSC Guide"]
-excerpt: "Your one-stop UPSC Civil Services guide covering structure, syllabus, strategy, and a starter action plan."
+excerpt: "Your one-stop UPSC Civil Services guide covering structure, syllabus, strategy, and a starter action plan, detailed preparation strategy and approach, tips"
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 69
 author: "kavita-sharma"

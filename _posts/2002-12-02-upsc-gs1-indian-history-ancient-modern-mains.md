@@ -5,7 +5,7 @@ page_title: "UPSC GS1 Indian History for Mains: Ancient, Medieval, Modern Themes
 date: 2002-12-02
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 1", "Indian History", "Ancient History", "Modern History", "IAS Preparation"]
-excerpt: "Complete UPSC GS1 Indian history Mains strategy: ancient, medieval, modern themes with answer frameworks and source hierarchy."
+excerpt: "Complete UPSC GS1 Indian history Mains strategy: ancient, medieval, modern themes with answer frameworks and source hierarchy, complete preparation strategy"
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
 author: "kavita-sharma"

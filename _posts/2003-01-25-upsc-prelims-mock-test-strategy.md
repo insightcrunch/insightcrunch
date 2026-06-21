@@ -5,7 +5,7 @@ page_title: "UPSC Prelims Mock Test Strategy Complete Guide for Test Selection F
 date: 2003-01-25
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Mock Test Strategy", "Test Series", "Exam Preparation"]
-excerpt: "UPSC Prelims mock test strategy complete guide covering the optimal mock test volume of 40 to 60 well-analysed tests, the phased preparation approach across foundation practice and refinement phases, the systematic mock test analysis methodology that converts practice into improvement, the test series selection criteria, and the integration with the broader Prelims preparation framework."
+excerpt: "UPSC Prelims mock test strategy complete guide covering the optimal mock test volume of 40 to 60 well-analysed tests, the phased preparation approach across"
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 59
 author: "kavita-sharma"

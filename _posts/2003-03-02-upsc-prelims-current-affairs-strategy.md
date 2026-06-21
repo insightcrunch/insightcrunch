@@ -5,7 +5,7 @@ page_title: "UPSC Prelims: Current Affairs Pattern and Coverage with Three-Layer
 date: 2003-03-02
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Current Affairs", "The Hindu", "PIB"]
-excerpt: "UPSC Prelims current affairs preparation strategy: three-layer methodology with daily monthly and annual review, newspaper selection, source limitation principle, backward linkages with static subjects, and the systematic approach to the most foundational preparation activity for Prelims."
+excerpt: "UPSC Prelims current affairs preparation strategy: three-layer methodology with daily monthly and annual review, newspaper selection, source limitation"
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 59
 author: "anita-das"

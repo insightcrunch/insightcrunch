@@ -5,7 +5,7 @@ page_title: "UPSC GS3 Agriculture Deep Dive: Green Revolution, MSP, APMC, Food S
 date: 2002-10-13
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 3", "Agriculture", "MSP", "Food Security", "Land Reforms", "IAS Preparation"]
-excerpt: "UPSC GS3 agriculture deep dive: Green Revolution to precision farming, MSP, APMC, food security, land reforms, farmer welfare schemes for Mains."
+excerpt: "UPSC GS3 agriculture deep dive: Green Revolution to precision farming, MSP, APMC, food security, land reforms, farmer welfare schemes for Mains, study roadmap"
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 65
 author: "anita-das"

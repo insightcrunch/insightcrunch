@@ -5,7 +5,7 @@ page_title: "UPSC Answer Writing Practice: How to Build the Skill from Scratch"
 date: 2003-04-07
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Answer Writing", "IAS Mains Writing", "UPSC Writing Practice", "Answer Writing"]
-excerpt: "Master UPSC Mains answer writing from scratch with a structured framework and progressive practice plan."
+excerpt: "Master UPSC Mains answer writing from scratch with a structured framework and progressive practice plan, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 59
 author: "kavita-sharma"

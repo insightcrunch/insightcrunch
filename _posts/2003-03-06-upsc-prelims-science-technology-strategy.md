@@ -5,7 +5,7 @@ page_title: "UPSC Prelims: Science and Technology Strategy with Current Affairs 
 date: 2003-03-06
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Science Technology", "ISRO", "Biotechnology"]
-excerpt: "UPSC Prelims Science and Technology preparation strategy: current affairs first approach, space technology ISRO missions, biotechnology and health, IT and AI, defence technology, and the systematic methodology for the most current-affairs-dominated subject in Prelims."
+excerpt: "UPSC Prelims Science and Technology preparation strategy: current affairs first approach, space technology ISRO missions, biotechnology and health, IT and AI"
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 59
 author: "anita-das"

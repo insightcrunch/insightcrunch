@@ -5,7 +5,7 @@ page_title: "UPSC for Engineers: Leveraging Technical Background for Civil Servi
 date: 2003-05-22
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Engineers", "IAS for Engineers", "Technical Background UPSC", "Engineering Optional"]
-excerpt: "Use your engineering background to crack UPSC with technical advantages and humanities gap-closing tactics."
+excerpt: "Use your engineering background to crack UPSC with technical advantages and humanities gap-closing tactics, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 59
 author: "anita-das"

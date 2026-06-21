@@ -5,7 +5,7 @@ page_title: "UPSC GS3 Indian Economy Deep Dive: GDP, Fiscal Policy, Monetary Pol
 date: 2002-10-18
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 3", "Indian Economy", "Budget", "Fiscal Policy", "Monetary Policy", "IAS Preparation"]
-excerpt: "UPSC GS3 Indian economy deep dive: GDP, fiscal policy, monetary policy, banking reforms, taxation and budget analysis with data frameworks."
+excerpt: "UPSC GS3 Indian economy deep dive: GDP, fiscal policy, monetary policy, banking reforms, taxation and budget analysis with data frameworks, complete study guide"
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 65
 author: "kavita-sharma"

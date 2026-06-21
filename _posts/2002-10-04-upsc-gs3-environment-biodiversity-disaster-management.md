@@ -5,7 +5,7 @@ page_title: "UPSC GS3 Environment Deep Dive: Climate Change, Biodiversity, Pollu
 date: 2002-10-04
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 3", "Environment", "Climate Change", "Biodiversity", "Disaster Management", "IAS Preparation"]
-excerpt: "UPSC GS3 environment deep dive: climate change governance, biodiversity, pollution, EIA, disaster management with international agreement frameworks."
+excerpt: "UPSC GS3 environment deep dive: climate change governance, biodiversity, pollution, EIA, disaster management with international agreement frameworks, exam guide"
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 65
 author: "anita-das"

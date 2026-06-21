@@ -5,7 +5,7 @@ page_title: "UPSC Eligibility 2026: Age Limit, Attempts, Qualifications and Rese
 date: 2003-07-19
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Eligibility", "IAS Eligibility", "UPSC Age Limit", "UPSC Attempts"]
-excerpt: "Check if you qualify for UPSC with category-wise age, attempt, and degree eligibility rules."
+excerpt: "Check if you qualify for UPSC with category-wise age, attempt, and degree eligibility rules, detailed preparation strategy and approach, study roadmap"
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 59
 author: "kavita-sharma"

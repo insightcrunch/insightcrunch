@@ -5,7 +5,7 @@ page_title: "IAS vs IPS vs IFS vs IRS: Understanding All Civil Services Posts"
 date: 2003-04-25
 categories: ["Industry"]
 tags: ["UPSC", "IAS vs IPS", "UPSC Services", "IFS IRS", "Civil Services Posts"]
-excerpt: "Choose between IAS, IPS, IFS, and IRS with this complete comparison of duties, growth, and lifestyle factors."
+excerpt: "Choose between IAS, IPS, IFS, and IRS with this complete comparison of duties, growth, and lifestyle factors, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 59
 author: "deepika-joshi"

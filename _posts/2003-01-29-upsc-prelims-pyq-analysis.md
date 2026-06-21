@@ -5,7 +5,7 @@ page_title: "UPSC Prelims PYQ Analysis Most Repeated Topics 2013 to 2025 Subject
 date: 2003-01-29
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "PYQ Analysis", "Question Patterns", "Subject Weightage"]
-excerpt: "UPSC Prelims PYQ analysis 2013 to 2025 covering subject wise weightage trends across History Polity Geography Economy Environment Science and Technology and Current Affairs, the most repeated topics within each subject category, the contemporary shift toward statement based and analytical questions, and the systematic PYQ analysis methodology that converts past paper data into targeted preparation efficiency."
+excerpt: "UPSC Prelims PYQ analysis 2013 to 2025 covering subject wise weightage trends across History Polity Geography Economy Environment Science and Technology"
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 59
 author: "deepika-joshi"

@@ -5,7 +5,7 @@ page_title: "UPSC Mains Costly Mistakes: 15 Errors That Cost 50+ Marks Not Compl
 date: 2002-06-18
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Common Mistakes", "Answer Writing", "IAS Preparation", "Marks Loss"]
-excerpt: "UPSC Mains common mistakes costing 50 plus marks including not completing papers poor presentation ignoring GS4 question misreading and essay-length short answers."
+excerpt: "UPSC Mains common mistakes costing 50 plus marks including not completing papers poor presentation ignoring GS4 question misreading and essay-length short"
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 65
 author: "kavita-sharma"

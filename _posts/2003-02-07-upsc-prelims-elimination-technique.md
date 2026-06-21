@@ -5,7 +5,7 @@ page_title: "UPSC Prelims Elimination Technique and Intelligent Guessing Complet
 date: 2003-02-07
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Elimination Technique", "MCQ Strategy", "Negative Marking"]
-excerpt: "UPSC Prelims elimination technique and intelligent guessing complete strategy: the mathematical foundation of educated guessing under negative marking, all major elimination patterns from extreme language to mutual exclusion, statement-based analysis for two-statement and three-statement questions, and the systematic approach that converts partial knowledge into reliable scoring marks."
+excerpt: "UPSC Prelims elimination technique and intelligent guessing complete strategy: the mathematical foundation of educated guessing under negative marking, all"
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 59
 author: "kavita-sharma"

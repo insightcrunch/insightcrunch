@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "UPSC GS2 Governance, Transparency, Accountability, E-Governance"
+title: "UPSC GS2 Governance, Transparency, Accountability"
 page_title: "UPSC GS2 Governance Deep Dive: RTI, CAG, Lokpal, E-Governance, DBT, Aadhaar with Answer Frameworks for Mains"
 date: 2002-11-05
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "Governance", "Transparency", "Accountability", "E-Governance", "RTI", "IAS Preparation"]
-excerpt: "UPSC GS2 governance deep dive: RTI, CAG, Lokpal, e-governance, DBT, Aadhaar, MGNREGA with real-world examples and frameworks."
+excerpt: "UPSC GS2 governance deep dive: RTI, CAG, Lokpal, e-governance, DBT, Aadhaar, MGNREGA with real-world examples and frameworks, complete preparation strategy"
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 65
 author: "anita-das"

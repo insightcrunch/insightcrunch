@@ -5,7 +5,7 @@ page_title: "UPSC Syllabus Decoded: Complete Prelims and Mains Syllabus with Str
 date: 2003-07-10
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Syllabus", "IAS Syllabus", "UPSC Prelims Syllabus", "UPSC Mains Syllabus"]
-excerpt: "Decode the full UPSC syllabus topic by topic with PYQ links, recommended sources, and time estimates."
+excerpt: "Decode the full UPSC syllabus topic by topic with PYQ links, recommended sources, and time estimates, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 59
 author: "deepika-joshi"
@@ -202,7 +202,7 @@ Ethics and Human Interface covers the essentials of ethical theory: what ethics 
 
 The moral thinkers component requires familiarity with both Indian and Western philosophical traditions. From the Indian tradition: Chanakya's Arthashastra on governance and political ethics, the ethical philosophy of the Bhagavad Gita (nishkama karma, duty-based ethics), Gandhi's philosophy of non-violence and satyagraha as an ethical method, Ambedkar's Buddhist ethics and his critique of caste-based morality, and Swami Vivekananda's practical Vedanta as applied ethics. From the Western tradition: Aristotle's virtue ethics and the concept of eudaimonia, Kant's categorical imperative and deontological ethics, Mill's utilitarianism and the greatest happiness principle, and more recent thinkers like Rawls (justice as fairness) and Sen (the capability approach).
 
-Preparation for the Ethics paper requires a different mode than other GS papers. Rather than accumulating facts, you are developing a consistent ethical reasoning framework and the ability to apply it to novel scenarios. Regular practice in ethical case study analysis, specifically working through hypothetical administrative dilemmas and evaluating them from multiple ethical frameworks, builds the reasoning quality that distinguishes strong GS4 performers. The [UPSC Mains GS Paper 4 Ethics guide](/2002/09/25/upsc-mains-gs-paper-4-ethics/) covers the full preparation approach.
+Preparation for the Ethics paper requires a different mode than other GS papers. Rather than accumulating facts, you are developing a consistent ethical reasoning framework and the ability to apply it to novel scenarios. Regular practice in ethical case study analysis, specifically working through hypothetical administrative dilemmas and evaluating them from multiple ethical frameworks, builds the reasoning quality that distinguishes strong GS4 performers. The [UPSC Mains GS Paper 4 Ethics guide](/2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/) covers the full preparation approach.
 
 ## The Essay Paper and Qualifying Papers
 

@@ -5,7 +5,7 @@ page_title: "UPSC Geography Optional Paper 1: Geomorphology Climatology Oceanogr
 date: 2002-06-09
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Geography Optional", "Physical Geography", "Geomorphology", "Climatology"]
-excerpt: "UPSC Geography optional Paper 1 physical geography preparation covering geomorphology climatology oceanography biogeography and diagram-intensive approach."
+excerpt: "UPSC Geography optional Paper 1 physical geography preparation covering geomorphology climatology oceanography biogeography and diagram-intensive approach"
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 65
 author: "anita-das"

@@ -5,7 +5,7 @@ page_title: "UPSC Prelims: Indian Economy Questions Strategy with NCERT and Rame
 date: 2003-03-11
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Indian Economy", "Economic Survey", "Budget"]
-excerpt: "UPSC Prelims Indian Economy preparation strategy: NCERT and Ramesh Singh integration, core economic concepts, banking and finance, budget and Economic Survey tracking, government schemes, and the largest single content subject in the Prelims paper."
+excerpt: "UPSC Prelims Indian Economy preparation strategy: NCERT and Ramesh Singh integration, core economic concepts, banking and finance, budget and Economic Survey"
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 59
 author: "anita-das"
@@ -232,7 +232,7 @@ During the revision phase, particularly emphasise the integration with current a
 
 The third phase occurs during the final 30 to 60 days before Prelims and involves intensive revision of Economy concepts, focused PYQ practice on questions you previously got wrong, systematic review of the latest Budget and Economic Survey, and intensive scheme review through your dedicated scheme notes file. During this phase, do not introduce new Economy content; focus exclusively on consolidating, retrieving, and stress-testing the knowledge you have already built through the first two phases.
 
-The final sprint revision should include at least one complete revision of the core Economy concepts (national income, inflation, monetary policy, fiscal policy, banking, balance of payments, exchange rates), one complete review of the latest Budget and Economic Survey highlights, one comprehensive scheme review from the dedicated notes file, and intensive PYQ practice on approximately 50 to 80 Economy questions during the final 30 days. The [last 30 days strategy](/2003/01/07/upsc-prelims-last-30-days/) provides the broader sprint preparation framework within which Economy sprint revision should be integrated.
+The final sprint revision should include at least one complete revision of the core Economy concepts (national income, inflation, monetary policy, fiscal policy, banking, balance of payments, exchange rates), one complete review of the latest Budget and Economic Survey highlights, one comprehensive scheme review from the dedicated notes file, and intensive PYQ practice on approximately 50 to 80 Economy questions during the final 30 days. The [last 30 days strategy](/2002/12/20/upsc-prelims-last-30-days/) provides the broader sprint preparation framework within which Economy sprint revision should be integrated.
 
 For the comprehensive PYQ practice that supports all three phases, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides the authentic question archive spanning multiple examination years across all subjects. The [free UPSC Prelims daily practice on ReportMedic](https://reportmedic.org/tools/upsc-prelims-daily-practice.html) provides examination-format daily MCQ practice that includes Economy questions calibrated to the current examination's difficulty level.
 

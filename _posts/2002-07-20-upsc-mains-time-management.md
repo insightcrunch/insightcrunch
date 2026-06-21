@@ -5,7 +5,7 @@ page_title: "UPSC Mains Time Management Strategy: 20 Questions 180 Minutes Math 
 date: 2002-07-20
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Time Management", "Question Selection", "Examination Strategy", "IAS Preparation"]
-excerpt: "UPSC Mains time management: 20 questions in 180 minutes math question selection strategy attempt-all versus attempt-well debate and time traps in Mains."
+excerpt: "UPSC Mains time management: 20 questions in 180 minutes math question selection strategy attempt-all versus attempt-well debate and time traps in Mains"
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 65
 author: "deepika-joshi"

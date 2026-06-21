@@ -5,7 +5,7 @@ page_title: "UPSC Prelims: Geography and Environment Strategy with NCERT and PYQ
 date: 2003-03-15
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Geography", "Environment", "Climate Change"]
-excerpt: "UPSC Prelims Geography and Environment preparation strategy: NCERT and GC Leong integration, Indian and World Geography prioritisation, environment subdomain analysis, climate conventions tracking, and the systematic approach to two of the highest-weightage Prelims sections."
+excerpt: "UPSC Prelims Geography and Environment preparation strategy: NCERT and GC Leong integration, Indian and World Geography prioritisation, environment subdomain"
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 59
 author: "kavita-sharma"

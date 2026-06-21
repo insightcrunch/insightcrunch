@@ -5,7 +5,7 @@ page_title: "UPSC Study Plan: 12-Month, 18-Month and 24-Month Preparation Timeli
 date: 2003-07-01
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Study Plan", "IAS Preparation", "Study Strategy", "UPSC Timetable"]
-excerpt: "Choose your UPSC timeline and follow a month-by-month plan with books, hours, and clear milestones."
+excerpt: "Choose your UPSC timeline and follow a month-by-month plan with books, hours, and clear milestones, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 59
 author: "deepika-joshi"

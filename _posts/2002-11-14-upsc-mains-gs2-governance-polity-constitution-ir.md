@@ -5,7 +5,7 @@ page_title: "UPSC GS Paper 2 Strategy: Constitution, Governance, Welfare, Intern
 date: 2002-11-14
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "Polity", "Constitution", "Governance", "International Relations", "IAS Preparation"]
-excerpt: "Complete UPSC Mains GS Paper 2 strategy: constitution, governance, welfare schemes, international relations with answer frameworks."
+excerpt: "Complete UPSC Mains GS Paper 2 strategy: constitution, governance, welfare schemes, international relations with answer frameworks, step by step study approach"
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 65
 author: "deepika-joshi"

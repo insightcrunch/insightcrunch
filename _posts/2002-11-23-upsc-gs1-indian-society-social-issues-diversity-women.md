@@ -5,7 +5,7 @@ page_title: "UPSC GS1 Indian Society Strategy: Caste, Gender, Communalism, Secul
 date: 2002-11-23
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 1", "Indian Society", "Women Empowerment", "Social Issues", "IAS Preparation"]
-excerpt: "Complete UPSC GS1 Indian society strategy: caste, gender, communalism, secularism, women's issues with answer frameworks for Mains."
+excerpt: "Complete UPSC GS1 Indian society strategy: caste, gender, communalism, secularism, women's issues with answer frameworks for Mains, step by step study approach"
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 62
 author: "anita-das"

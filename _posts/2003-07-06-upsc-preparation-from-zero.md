@@ -5,7 +5,7 @@ page_title: "How to Start UPSC Preparation from Zero: Complete Beginner's Roadma
 date: 2003-07-06
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Preparation", "IAS Preparation", "UPSC Beginners", "Study Strategy"]
-excerpt: "A complete 90-day UPSC starter plan for absolute beginners, covering NCERTs, schedules, and strategy."
+excerpt: "A complete 90-day UPSC starter plan for absolute beginners, covering NCERTs, schedules, and strategy, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 59
 author: "deepika-joshi"
@@ -324,7 +324,7 @@ The third mistake is not solving PYQs from the very beginning. PYQs are the UPSC
 
 The fourth mistake is over-relying on coaching notes and YouTube videos at the expense of reading actual books. Coaching notes are condensed summaries designed to aid revision, not to replace first-principles learning. YouTube videos can explain concepts well, but passive listening is not the same as active reading and note-making. The aspirants who consistently perform best in UPSC are readers, not viewers. They read books cover to cover, make their own notes in their own words, and use videos and coaching notes only as supplements.
 
-The fifth mistake is ignoring CSAT (Prelims Paper 2). CSAT is a qualifying paper requiring only 33 percent (66 marks out of 200), but candidates fail it every year. If your reading comprehension in English is weak, or if basic mathematics (percentages, ratios, averages, profit and loss) makes you uncomfortable, dedicate two to four weeks of focused preparation to CSAT in the months before Prelims. Failing CSAT after qualifying on Paper 1 is one of the most devastating possible outcomes, and it is entirely preventable with minimal targeted preparation. The [UPSC CSAT Paper 2 complete guide](/2003/02/25/upsc-csat-paper-2-guide/) covers the strategy in detail.
+The fifth mistake is ignoring CSAT (Prelims Paper 2). CSAT is a qualifying paper requiring only 33 percent (66 marks out of 200), but candidates fail it every year. If your reading comprehension in English is weak, or if basic mathematics (percentages, ratios, averages, profit and loss) makes you uncomfortable, dedicate two to four weeks of focused preparation to CSAT in the months before Prelims. Failing CSAT after qualifying on Paper 1 is one of the most devastating possible outcomes, and it is entirely preventable with minimal targeted preparation. The [UPSC CSAT Paper 2 complete guide](/2003/02/25/upsc-csat-paper-2-complete-guide/) covers the strategy in detail.
 
 The sixth mistake is starting optional subject preparation too late. Your optional subject carries 500 marks, the single largest component of Mains merit marks. Aspirants who begin their optional only three to four months before Mains consistently underperform compared to those who start it eight to ten months before Mains. Integrate optional preparation into your Phase 3 daily schedule, not as an afterthought.
 

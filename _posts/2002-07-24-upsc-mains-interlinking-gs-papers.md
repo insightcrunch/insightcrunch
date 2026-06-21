@@ -5,7 +5,7 @@ page_title: "UPSC Mains GS Paper Interlinking Strategy: Multi-Dimensional Answer
 date: 2002-07-24
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Papers", "Interlinking", "Multi-Dimensional", "IAS Preparation"]
-excerpt: "UPSC Mains interlinking GS papers for holistic answers: how a single topic answers differently in GS1 GS2 GS3 GS4 with multi-dimensional answer advantage."
+excerpt: "UPSC Mains interlinking GS papers for holistic answers: how a single topic answers differently in GS1 GS2 GS3 GS4 with multi-dimensional answer advantage"
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 65
 author: "anita-das"

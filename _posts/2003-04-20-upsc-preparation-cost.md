@@ -5,7 +5,7 @@ page_title: "UPSC Preparation Cost: Realistic Budget for Coaching, Books and Liv
 date: 2003-04-20
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Cost", "IAS Coaching Cost", "UPSC Budget", "UPSC Preparation Expenses"]
-excerpt: "How much UPSC preparation actually costs: five tiered budgets, scholarships, and opportunity cost analysis."
+excerpt: "How much UPSC preparation actually costs: five tiered budgets, scholarships, and opportunity cost analysis, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 59
 author: "kavita-sharma"

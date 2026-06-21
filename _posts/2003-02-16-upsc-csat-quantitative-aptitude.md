@@ -5,7 +5,7 @@ page_title: "UPSC CSAT Quantitative Aptitude and Data Interpretation Complete St
 date: 2003-02-16
 categories: ["Industry"]
 tags: ["UPSC", "CSAT", "Quantitative Aptitude", "Data Interpretation", "UPSC Prelims"]
-excerpt: "UPSC CSAT quantitative aptitude and data interpretation complete strategy: topic-wise preparation across arithmetic algebra geometry and mensuration, data interpretation across charts graphs and tables, contemporary difficulty trends since 2022, strategic approach for non-technical aspirants, and the systematic preparation that produces reliable scoring on the second largest CSAT section."
+excerpt: "UPSC CSAT quantitative aptitude and data interpretation complete strategy: topic-wise preparation across arithmetic algebra geometry and mensuration, data"
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 59
 author: "deepika-joshi"

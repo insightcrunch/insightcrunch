@@ -5,7 +5,7 @@ page_title: "UPSC GS4 Public Administration Ethics Deep Dive: Probity Whistleblo
 date: 2002-09-12
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Public Administration Ethics", "Probity", "Case Studies", "IAS Preparation"]
-excerpt: "UPSC GS4 public administration ethics deep dive: probity in governance ethical frameworks whistleblower protection conflict of interest with practice case studies."
+excerpt: "UPSC GS4 public administration ethics deep dive: probity in governance ethical frameworks whistleblower protection conflict of interest with practice case"
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 65
 author: "kavita-sharma"

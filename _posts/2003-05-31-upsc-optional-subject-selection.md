@@ -5,7 +5,7 @@ page_title: "UPSC Optional Subject Selection: How to Choose the Right Optional"
 date: 2003-05-31
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Optional Subject", "UPSC Optional Selection", "Best Optional UPSC"]
-excerpt: "Choose your UPSC optional confidently with a five-criteria framework and analysis of the top 10 subjects."
+excerpt: "Choose your UPSC optional confidently with a five-criteria framework and analysis of the top 10 subjects, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
 author: "anita-das"

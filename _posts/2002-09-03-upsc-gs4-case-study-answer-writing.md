@@ -5,7 +5,7 @@ page_title: "UPSC GS4 Case Study Answer Writing Strategy: CASE Framework Structu
 date: 2002-09-03
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Case Studies", "Ethics", "Answer Writing", "IAS Preparation"]
-excerpt: "UPSC GS4 case study answer writing strategy: CASE framework structure practice cases model outlines common mistakes for Mains Section B."
+excerpt: "UPSC GS4 case study answer writing strategy: CASE framework structure practice cases model outlines common mistakes for Mains Section B, complete study guide"
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 65
 author: "deepika-joshi"

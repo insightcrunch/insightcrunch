@@ -5,7 +5,7 @@ page_title: "UPSC Geography Optional Paper 2: Human Geography Models Indian Geog
 date: 2002-06-05
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Geography Optional", "Human Geography", "Indian Geography", "IAS Preparation"]
-excerpt: "UPSC Geography optional Paper 2 covering human geography models and theories Indian geography resources agriculture industry population and map work strategy."
+excerpt: "UPSC Geography optional Paper 2 covering human geography models and theories Indian geography resources agriculture industry population and map work strategy"
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 65
 author: "deepika-joshi"

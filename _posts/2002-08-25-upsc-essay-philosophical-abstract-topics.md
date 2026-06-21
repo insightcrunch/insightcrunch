@@ -5,7 +5,7 @@ page_title: "UPSC Essay Section A Strategy: Philosophical Abstract Topics Framew
 date: 2002-08-25
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Essay Paper", "Philosophical Essays", "Abstract Topics", "IAS Preparation"]
-excerpt: "UPSC essay philosophical abstract topics strategy: approaching morality ethics human nature topics with framework for abstract essays and concrete grounding."
+excerpt: "UPSC essay philosophical abstract topics strategy: approaching morality ethics human nature topics with framework for abstract essays and concrete grounding"
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 65
 author: "anita-das"

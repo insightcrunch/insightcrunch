@@ -5,7 +5,7 @@ page_title: "UPSC CSAT Reading Comprehension Strategy with Passage Analysis and 
 date: 2003-02-21
 categories: ["Industry"]
 tags: ["UPSC", "CSAT", "Reading Comprehension", "UPSC Prelims", "Inference"]
-excerpt: "UPSC CSAT reading comprehension complete strategy: passage analysis approach, all six question type techniques, active reading methodology, vocabulary building, time management, and the systematic approach to mastering the largest single CSAT section that anchors qualification for non-technical aspirants."
+excerpt: "UPSC CSAT reading comprehension complete strategy: passage analysis approach, all six question type techniques, active reading methodology, vocabulary building"
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 59
 author: "deepika-joshi"

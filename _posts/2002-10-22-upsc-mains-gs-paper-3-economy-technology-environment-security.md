@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "UPSC Mains GS Paper 3: Economy, Technology, Environment, Security"
+title: "UPSC Mains GS Paper 3: Economy, Technology, Environment"
 page_title: "UPSC Mains GS Paper 3 Strategy: Economy Technology Environment Security with Answer Frameworks and Source Hierarchy"
 date: 2002-10-22
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 3", "Indian Economy", "Science Technology", "Environment", "Internal Security", "IAS Preparation"]
-excerpt: "UPSC GS Paper 3 strategy: economy, science and technology, environment and security with answer frameworks, source hierarchy, and 90-day plan."
+excerpt: "UPSC GS Paper 3 strategy: economy, science and technology, environment and security with answer frameworks, source hierarchy, and 90-day plan, preparation guide"
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 65
 author: "kavita-sharma"
@@ -170,7 +170,7 @@ The intellectual property rights dimension has gained substantial attention. The
 
 The indigenisation of technology has been sustained policy emphasis across multiple sectors reflecting both self-reliance aspirations and economic considerations. The specific progress includes substantial indigenisation in various sectors with continuing work across various domains. The import substitution considerations have gained prominence during various geopolitical crises.
 
-UPSC questions on science and technology expect engagement with specific technological developments Indian achievements policy frameworks and contemporary debates. Practise 8 to 12 science and technology-specific answers across the preparation cycle. The deeper treatment is in the [UPSC Mains GS Paper 3 science and technology deep dive](/2002/10/13/upsc-gs3-science-technology-mains-deep-dive/) article.
+UPSC questions on science and technology expect engagement with specific technological developments Indian achievements policy frameworks and contemporary debates. Practise 8 to 12 science and technology-specific answers across the preparation cycle. The deeper treatment is in the [UPSC Mains GS Paper 3 science and technology deep dive](/2002/10/09/upsc-gs3-science-technology-mains-deep-dive/) article.
 
 ## Subdomain 3: Environment, Biodiversity, and Disaster Management
 

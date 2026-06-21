@@ -5,7 +5,7 @@ page_title: "UPSC GS Paper 4 Strategy: Ethics Integrity Aptitude Complete Guide 
 date: 2002-09-25
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Ethics", "Integrity", "Case Studies", "IAS Preparation"]
-excerpt: "UPSC GS Paper 4 ethics complete strategy: frameworks, thinkers, attitude-aptitude-EI integration, case study approach for civil service Mains."
+excerpt: "UPSC GS Paper 4 ethics complete strategy: frameworks, thinkers, attitude-aptitude-EI integration, case study approach for civil service Mains, preparation guide"
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 65
 author: "kavita-sharma"

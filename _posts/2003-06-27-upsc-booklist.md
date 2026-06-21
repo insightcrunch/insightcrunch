@@ -5,7 +5,7 @@ page_title: "UPSC Booklist: Essential Books for Prelims, Mains and Every GS Pape
 date: 2003-06-27
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Books", "IAS Booklist", "UPSC Preparation", "Study Material"]
-excerpt: "Your complete UPSC booklist organized by stage and paper, with chapter-by-chapter reading guidance."
+excerpt: "Your complete UPSC booklist organized by stage and paper, with chapter-by-chapter reading guidance, detailed preparation strategy and approach, exam guide"
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 59
 author: "deepika-joshi"

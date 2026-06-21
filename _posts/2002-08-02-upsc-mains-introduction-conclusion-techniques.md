@@ -5,7 +5,7 @@ page_title: "UPSC Mains Introduction Conclusion Techniques: 15 Introduction Form
 date: 2002-08-02
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Answer Writing", "Introduction Techniques", "Conclusion Techniques", "IAS Preparation"]
-excerpt: "UPSC Mains introduction and conclusion techniques: 15 introduction formulas data-based quote-based historical definitional and 10 conclusion styles."
+excerpt: "UPSC Mains introduction and conclusion techniques: 15 introduction formulas data-based quote-based historical definitional and 10 conclusion styles, exam guide"
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 65
 author: "anita-das"

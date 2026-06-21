@@ -5,7 +5,7 @@ page_title: "UPSC GS4 Thinkers Philosophers Deep Dive: Aristotle Kant Mill Rawls
 date: 2002-09-07
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Thinkers", "Philosophers", "Ethics", "IAS Preparation"]
-excerpt: "UPSC GS4 thinkers and philosophers deep dive: Aristotle Kant Mill Rawls Gandhi Ambedkar Kautilya Confucius with deployment strategy for Mains answers."
+excerpt: "UPSC GS4 thinkers and philosophers deep dive: Aristotle Kant Mill Rawls Gandhi Ambedkar Kautilya Confucius with deployment strategy for Mains answers, tips"
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 65
 author: "kavita-sharma"

@@ -5,7 +5,7 @@ page_title: "UPSC Prelims Geography Facts: Rivers, Passes, Parks and Map Strateg
 date: 2003-01-02
 categories: ["Industry"]
 tags: ["UPSC", "Indian Geography", "UPSC Prelims", "National Parks", "Map Work", "Prelims Strategy"]
-excerpt: "Master UPSC Prelims geography with river systems, mountain passes, national parks, straits, and map-based question strategy."
+excerpt: "Master UPSC Prelims geography with river systems, mountain passes, national parks, straits, and map-based question strategy, complete preparation strategy"
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 59
 author: "anita-das"
@@ -30,7 +30,7 @@ The second reason is predictability. UPSC draws geography factual questions from
 
 The third reason is the discriminating power of these questions. Geography factual questions are among the most efficiently discriminating questions on the paper, meaning they effectively separate well-prepared aspirants from those who have studied only the narrative dimensions of geography. A question asking "Which of the following national parks is located in the Western Ghats?" is trivially easy for an aspirant who has studied national parks with a map, and nearly impossible for one who has only read about them in prose. This binary quality (you either know it or you do not, with very little scope for logical deduction) makes geography factual content one of the highest-certainty scoring areas available.
 
-The [UPSC Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) positions geography alongside polity and history as one of the three pillars of GS Paper 1 preparation. Within geography, the factual and map-based segment covered in this article represents the most stable pillar, complemented by the conceptual geography (covered in the [geography and environment strategy for Prelims](/2003/03/15/upsc-prelims-geography-environment/)) and the applied geography (covered in the [Indian geography guide](/2001/04/21/upsc-indian-geography-guide/) and the [world geography guide](/2001/04/17/upsc-world-geography-guide/) in this series).
+The [UPSC Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) positions geography alongside polity and history as one of the three pillars of GS Paper 1 preparation. Within geography, the factual and map-based segment covered in this article represents the most stable pillar, complemented by the conceptual geography (covered in the [geography and environment strategy for Prelims](/2003/03/15/upsc-prelims-geography-environment-strategy/)) and the applied geography (covered in the [Indian geography guide](/2001/04/21/upsc-indian-geography-guide/) and the [world geography guide](/2001/04/17/upsc-world-geography-guide/) in this series).
 
 ## How UPSC Tests Geographical Facts: The Spatial Testing Framework
 

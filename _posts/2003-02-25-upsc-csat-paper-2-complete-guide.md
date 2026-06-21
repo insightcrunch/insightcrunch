@@ -5,7 +5,7 @@ page_title: "UPSC CSAT Paper 2 Complete Guide with Section-Wise Strategy and Dif
 date: 2003-02-25
 categories: ["Industry"]
 tags: ["UPSC", "CSAT", "UPSC Prelims", "Reading Comprehension", "Quantitative Aptitude"]
-excerpt: "UPSC CSAT Paper 2 complete preparation guide: 33 percent qualifying threshold, section-wise strategy for reading comprehension quantitative aptitude logical reasoning and decision-making, difficulty trends since 2022, and the systematic approach to clearing the qualifying paper that has eliminated record numbers of aspirants in recent years."
+excerpt: "UPSC CSAT Paper 2 complete preparation guide: 33 percent qualifying threshold, section-wise strategy for reading comprehension quantitative aptitude logical"
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 59
 author: "anita-das"

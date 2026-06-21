@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "UPSC GS2 Social Justice, Welfare Schemes, Vulnerable Sections"
+title: "UPSC GS2 Social Justice, Welfare Schemes, Vulnerable"
 page_title: "UPSC GS2 Social Justice Deep Dive: SC ST OBC Women Children Elderly Disabled Welfare Schemes for Mains"
 date: 2002-10-31
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "Social Justice", "Welfare Schemes", "Vulnerable Sections", "Women Empowerment", "IAS Preparation"]
-excerpt: "UPSC GS2 social justice deep dive: SC ST OBC welfare, women, children, elderly, disabled with scheme evaluation frameworks."
+excerpt: "UPSC GS2 social justice deep dive: SC ST OBC welfare, women, children, elderly, disabled with scheme evaluation frameworks, complete preparation strategy"
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 65
 author: "deepika-joshi"

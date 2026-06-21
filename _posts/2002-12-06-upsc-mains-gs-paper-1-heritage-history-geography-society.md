@@ -5,7 +5,7 @@ page_title: "UPSC Mains GS Paper 1 Strategy: Heritage, History, Geography, Socie
 date: 2002-12-06
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 1", "Indian History", "Geography", "Indian Society", "IAS Preparation"]
-excerpt: "Complete UPSC Mains GS Paper 1 strategy: syllabus decoded, source list per topic, PYQ patterns and answer frameworks for 130-plus marks."
+excerpt: "Complete UPSC Mains GS Paper 1 strategy: syllabus decoded, source list per topic, PYQ patterns and answer frameworks for 130-plus marks, complete study guide"
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
 author: "anita-das"

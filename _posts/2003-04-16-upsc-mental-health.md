@@ -5,7 +5,7 @@ page_title: "UPSC and Mental Health: Managing Stress, Anxiety and Isolation"
 date: 2003-04-16
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mental Health", "IAS Stress", "UPSC Anxiety", "UPSC Motivation"]
-excerpt: "Manage UPSC stress, anxiety, and isolation with evidence-based mental health strategies for serious aspirants."
+excerpt: "Manage UPSC stress, anxiety, and isolation with evidence-based mental health strategies for serious aspirants, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 59
 author: "deepika-joshi"

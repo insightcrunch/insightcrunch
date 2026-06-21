@@ -5,7 +5,7 @@ page_title: "UPSC Mains Static Dynamic Content Balance: 60-40 Ratio Textbook Kno
 date: 2002-07-02
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Static Content", "Dynamic Content", "Current Affairs", "IAS Preparation"]
-excerpt: "UPSC Mains static versus dynamic content balance with 60-40 ideal ratio how to make static answers dynamic and current affairs integration strategy."
+excerpt: "UPSC Mains static versus dynamic content balance with 60-40 ideal ratio how to make static answers dynamic and current affairs integration strategy, exam guide"
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 65
 author: "anita-das"

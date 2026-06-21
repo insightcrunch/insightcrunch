@@ -5,7 +5,7 @@ page_title: "UPSC Prelims Time Management Complete Strategy for 120 Minutes Acro
 date: 2003-02-03
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Time Management", "Exam Strategy", "GS Paper 1", "CSAT"]
-excerpt: "UPSC Prelims time management complete strategy for the 120 minute examination: minute by minute allocation across the three pass approach, OMR transcription discipline, recovery from time pressure failure modes, parallel CSAT Paper 2 time management, and the systematic preparation that builds the time discipline that the qualifying examination demands."
+excerpt: "UPSC Prelims time management complete strategy for the 120 minute examination: minute by minute allocation across the three pass approach, OMR transcription"
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 59
 author: "deepika-joshi"

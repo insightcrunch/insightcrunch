@@ -5,7 +5,7 @@ page_title: "UPSC Mains PYQ Analysis: Paper-Wise Trend Analysis Emerging Themes 
 date: 2002-07-15
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "PYQ Analysis", "GS Trends", "Paper Patterns", "IAS Preparation"]
-excerpt: "UPSC Mains PYQ analysis paper-wise trend mapping for GS1 GS2 GS3 GS4 with emerging themes topics gaining prominence and cross-paper repetition patterns."
+excerpt: "UPSC Mains PYQ analysis paper-wise trend mapping for GS1 GS2 GS3 GS4 with emerging themes topics gaining prominence and cross-paper repetition patterns"
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 65
 author: "deepika-joshi"

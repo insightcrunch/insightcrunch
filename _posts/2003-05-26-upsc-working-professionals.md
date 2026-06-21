@@ -5,7 +5,7 @@ page_title: "UPSC for Working Professionals: How to Prepare While Employed"
 date: 2003-05-26
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Working Professionals", "IAS While Working", "UPSC Part Time", "Study Strategy"]
-excerpt: "Crack UPSC without quitting your job using realistic schedules, weekend plans, and the 2-attempt approach."
+excerpt: "Crack UPSC without quitting your job using realistic schedules, weekend plans, and the 2-attempt approach, detailed preparation strategy and approach, tips"
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 59
 author: "anita-das"

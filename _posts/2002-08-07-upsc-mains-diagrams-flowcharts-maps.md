@@ -5,7 +5,7 @@ page_title: "UPSC Mains Visual Element Strategy: Diagrams Flowcharts Maps Templa
 date: 2002-08-07
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Answer Writing", "Diagrams", "Flowcharts", "Maps", "IAS Preparation"]
-excerpt: "UPSC Mains visual element strategy: which questions benefit from diagrams flowcharts and maps with templates for polity economy and geography answers."
+excerpt: "UPSC Mains visual element strategy: which questions benefit from diagrams flowcharts and maps with templates for polity economy and geography answers, tips"
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 65
 author: "deepika-joshi"

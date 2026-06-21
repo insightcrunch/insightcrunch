@@ -5,7 +5,7 @@ page_title: "UPSC Mains Essay Paper Complete Strategy: Structure Brainstorming S
 date: 2002-08-29
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Essay Paper", "Essay Writing", "IAS Preparation"]
-excerpt: "UPSC Mains essay paper complete strategy: structure brainstorming scoring techniques essay as great equalizer for 150 plus marks."
+excerpt: "UPSC Mains essay paper complete strategy: structure brainstorming scoring techniques essay as great equalizer for 150 plus marks, complete preparation strategy"
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 65
 author: "kavita-sharma"
@@ -70,7 +70,7 @@ The body architecture serves the analytical function through multi-dimensional e
 
 The conclusion architecture serves three functions: synthesising analysis providing forward-looking perspective and leaving lasting impression. The synthesis briefly integrates key analytical dimensions demonstrating coherent thesis support across the essay. The forward-looking perspective addresses implications for future engagement with the topic. The lasting impression can use compelling observation call to action returning-to-opening technique or various other closing techniques. The conclusion should avoid introducing entirely new arguments and instead synthesise existing analysis.
 
-The deeper exploration of essay structure techniques including the funnel introduction PESTLE body framework and action point conclusion is in the forthcoming [UPSC essay structure quotation and conclusion techniques](/2002/08/16/upsc-essay-structure-quotation-conclusion-techniques/) article that builds upon the structural foundations established here.
+The deeper exploration of essay structure techniques including the funnel introduction PESTLE body framework and action point conclusion is in the forthcoming [UPSC essay structure quotation and conclusion techniques](/2002/08/16/upsc-essay-structure-quotation-conclusion/) article that builds upon the structural foundations established here.
 
 ## Multi-Dimensional Body Paragraph Approach
 
@@ -102,7 +102,7 @@ The dimensional diversity across body paragraphs produces multi-dimensional anal
 
 The essay paper presents two sections with typically 4 topics each (total 8 topics) requiring selection of one topic from each section.
 
-The Section A topics typically cover philosophical social abstract ethical and broad civilizational themes. The examples include topics on morality ethics human nature social change technology-humanity relationship education values democracy liberty equality and various other abstract themes. The Section A topics reward philosophical depth diverse examples multi-dimensional analysis and ethical reasoning capacity. The deeper exploration of Section A preparation is in the forthcoming [UPSC essay philosophical and abstract topics strategy](/2002/08/25/upsc-essay-philosophical-abstract-topics-strategy/) article.
+The Section A topics typically cover philosophical social abstract ethical and broad civilizational themes. The examples include topics on morality ethics human nature social change technology-humanity relationship education values democracy liberty equality and various other abstract themes. The Section A topics reward philosophical depth diverse examples multi-dimensional analysis and ethical reasoning capacity. The deeper exploration of Section A preparation is in the forthcoming [UPSC essay philosophical and abstract topics strategy](/2002/08/25/upsc-essay-philosophical-abstract-topics/) article.
 
 The Section B topics typically cover current affairs governance policy economy development science-technology environment and various other contemporary themes. The examples include topics on specific policies governance challenges economic development technology applications environmental issues social welfare international relations and various other contemporary themes. The Section B topics reward current affairs knowledge data-driven analysis policy evaluation and balanced assessment. The deeper exploration of Section B preparation is in the forthcoming [UPSC essay current affairs and policy-based topics](/2002/08/20/upsc-essay-current-affairs-policy-topics/) article.
 

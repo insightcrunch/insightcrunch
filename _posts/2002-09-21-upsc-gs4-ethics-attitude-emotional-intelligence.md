@@ -5,7 +5,7 @@ page_title: "UPSC GS4 Ethics Attitude Emotional Intelligence Deep Dive: Concepts
 date: 2002-09-21
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Ethics", "Emotional Intelligence", "Attitude", "IAS Preparation"]
-excerpt: "UPSC GS4 ethics attitude emotional intelligence deep dive: concepts to application, contemporary dilemmas, EI frameworks, moral reasoning stages."
+excerpt: "UPSC GS4 ethics attitude emotional intelligence deep dive: concepts to application, contemporary dilemmas, EI frameworks, moral reasoning stages, study roadmap"
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 65
 author: "anita-das"

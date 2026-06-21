@@ -5,7 +5,7 @@ page_title: "UPSC for Arts and Humanities Graduates: Natural Strengths and Gaps"
 date: 2003-05-13
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Arts Background", "IAS Arts Graduates", "Humanities UPSC", "Study Strategy"]
-excerpt: "Use your humanities background as a UPSC advantage with subject-aware strategies for essay, Mains, and CSAT."
+excerpt: "Use your humanities background as a UPSC advantage with subject-aware strategies for essay, Mains, and CSAT, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 59
 author: "anita-das"

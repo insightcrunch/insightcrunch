@@ -5,7 +5,7 @@ page_title: "UPSC Geography Optional Guide: Syllabus Decode Paper 1 vs Paper 2 S
 date: 2002-06-14
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Geography Optional", "IAS Preparation", "Optional Subject", "Geography Strategy"]
-excerpt: "UPSC Geography optional complete guide with syllabus decode paper-wise strategy book list topper mark analysis and GS overlap map for scoring 300 plus."
+excerpt: "UPSC Geography optional complete guide with syllabus decode paper-wise strategy book list topper mark analysis and GS overlap map for scoring 300 plus"
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 65
 author: "deepika-joshi"

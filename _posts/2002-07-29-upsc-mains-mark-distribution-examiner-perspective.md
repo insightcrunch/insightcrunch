@@ -5,7 +5,7 @@ page_title: "UPSC Mains Examiner Perspective: Mark Distribution Checking Camps F
 date: 2002-07-29
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Examiner Perspective", "Mark Distribution", "Checking Process", "IAS Preparation"]
-excerpt: "UPSC Mains examiner perspective: how checking camps work mark distribution time per answer first page impression effect structure-before-content evaluation."
+excerpt: "UPSC Mains examiner perspective: how checking camps work mark distribution time per answer first page impression effect structure-before-content evaluation"
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 65
 author: "deepika-joshi"

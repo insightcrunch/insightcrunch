@@ -5,7 +5,7 @@ page_title: "UPSC GS3 Internal Security Deep Dive: LWE, Northeast Insurgency, Bo
 date: 2002-09-30
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 3", "Internal Security", "Terrorism", "Cybersecurity", "Border Management", "IAS Preparation"]
-excerpt: "UPSC GS3 internal security deep dive: LWE, Northeast insurgency, border management, cyber threats, terrorism, organised crime with answer frameworks."
+excerpt: "UPSC GS3 internal security deep dive: LWE, Northeast insurgency, border management, cyber threats, terrorism, organised crime with answer frameworks, exam guide"
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 65
 author: "kavita-sharma"

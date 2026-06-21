@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "UPSC Prelims Last 30 Days Strategy"
+excerpt: "The final thirty days before UPSC Prelims are not the time to learn anything new. They are the time to convert everything you already half-know into something"
 date: 2002-12-20
 author: "deepika-joshi"
 categories: ["Industry"]

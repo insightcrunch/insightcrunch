@@ -5,7 +5,7 @@ page_title: "UPSC GS2 International Relations Deep Dive: India Foreign Policy, B
 date: 2002-10-27
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "International Relations", "Foreign Policy", "India-China", "India-Pakistan", "IAS Preparation"]
-excerpt: "UPSC GS2 international relations deep dive: India's foreign policy, bilaterals with neighbours and major powers, multilaterals with answer frameworks."
+excerpt: "UPSC GS2 international relations deep dive: India's foreign policy, bilaterals with neighbours and major powers, multilaterals with answer frameworks, tips"
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 65
 author: "deepika-joshi"

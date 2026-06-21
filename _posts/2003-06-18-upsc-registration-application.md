@@ -5,7 +5,7 @@ page_title: "UPSC Registration and Application: Step-by-Step Process and Common 
 date: 2003-06-18
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Application", "UPSC Registration", "IAS Form", "UPSC Apply Online"]
-excerpt: "Fill your UPSC application correctly with photo, DAF, fee, and centre selection guidance and common pitfalls."
+excerpt: "Fill your UPSC application correctly with photo, DAF, fee, and centre selection guidance and common pitfalls, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 59
 author: "deepika-joshi"
@@ -130,7 +130,7 @@ The DAF window opens after Prelims results are announced and remains open for ap
 
 You must list the Civil Services in order of preference. There are approximately twenty-four services in the CSE, including the Indian Administrative Service (IAS), Indian Police Service (IPS), Indian Foreign Service (IFS), Indian Revenue Service (IRS Income Tax and IRS Customs), Indian Audit and Accounts Service (IA&AS), and various other Group A and Group B services. Your preference order does not affect your Mains evaluation (examiners do not know your service preferences while grading your papers), but it determines which service you are allocated after the final ranking is published. UPSC uses a mechanical allocation process: it goes through the rank list from top to bottom, and each candidate is assigned to their highest available preference that still has vacancies.
 
-List your preferences honestly based on your genuine interest, career goals, and understanding of each service's role, posting patterns, promotion trajectory, and working conditions. There is no penalty for listing IPS first instead of IAS, or for listing IRS first instead of IFS. The [IAS IPS IFS IRS comparison guide](/2002/11/07/ias-ips-ifs-irs-comparison/) provides detailed comparisons across the major services to help you make informed preference decisions. Research each service before finalising your preference order, because once you are allocated a service based on your preferences and your rank, changing services after joining is extremely difficult.
+List your preferences honestly based on your genuine interest, career goals, and understanding of each service's role, posting patterns, promotion trajectory, and working conditions. There is no penalty for listing IPS first instead of IAS, or for listing IRS first instead of IFS. The [IAS IPS IFS IRS comparison guide](/2003/04/25/ias-ips-ifs-irs-comparison/) provides detailed comparisons across the major services to help you make informed preference decisions. Research each service before finalising your preference order, because once you are allocated a service based on your preferences and your rank, changing services after joining is extremely difficult.
 
 ### Optional Subject Confirmation
 

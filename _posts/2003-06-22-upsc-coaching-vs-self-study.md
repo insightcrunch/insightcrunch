@@ -5,7 +5,7 @@ page_title: "UPSC Coaching vs Self-Study: How to Decide and How to Succeed Eithe
 date: 2003-06-22
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Coaching", "Self Study UPSC", "IAS Preparation", "UPSC Strategy"]
-excerpt: "Coaching or self-study for UPSC? An honest comparison of costs, outcomes, and the hybrid model that works."
+excerpt: "Coaching or self-study for UPSC? An honest comparison of costs, outcomes, and the hybrid model that works, detailed preparation strategy and approach, tips"
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 59
 author: "kavita-sharma"

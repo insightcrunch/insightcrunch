@@ -5,7 +5,7 @@ page_title: "UPSC GS2 Polity Deep Dive: Fundamental Rights, Directive Principles
 date: 2002-11-09
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "Constitution", "Fundamental Rights", "Parliamentary System", "Federalism", "IAS Preparation"]
-excerpt: "UPSC GS2 polity deep dive: fundamental rights, directive principles, federal structure, parliamentary system with answer frameworks."
+excerpt: "UPSC GS2 polity deep dive: fundamental rights, directive principles, federal structure, parliamentary system with answer frameworks, step by step study approach"
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 65
 author: "anita-das"

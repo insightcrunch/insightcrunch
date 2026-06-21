@@ -5,7 +5,7 @@ page_title: "UPSC GS4 Foundational Values Deep Dive: Integrity Impartiality Obje
 date: 2002-09-16
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 4", "Foundational Values", "Civil Service Ethics", "IAS Preparation"]
-excerpt: "UPSC GS4 foundational values deep dive: integrity impartiality non-partisanship objectivity dedication empathy tolerance compassion with administrative examples."
+excerpt: "UPSC GS4 foundational values deep dive: integrity impartiality non-partisanship objectivity dedication empathy tolerance compassion with administrative examples"
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 65
 author: "deepika-joshi"

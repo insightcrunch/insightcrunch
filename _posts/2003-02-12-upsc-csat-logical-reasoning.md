@@ -5,7 +5,7 @@ page_title: "UPSC CSAT Logical Reasoning and Analytical Ability Complete Strateg
 date: 2003-02-12
 categories: ["Industry"]
 tags: ["UPSC", "CSAT", "Logical Reasoning", "Analytical Ability", "UPSC Prelims"]
-excerpt: "UPSC CSAT logical reasoning and analytical ability complete strategy: topic-wise techniques across syllogisms seating arrangements blood relations direction sense coding-decoding series venn diagrams and analytical puzzles, contemporary difficulty trends since 2022, and the systematic preparation that builds the reasoning skills the qualifying section requires."
+excerpt: "UPSC CSAT logical reasoning and analytical ability complete strategy: topic-wise techniques across syllogisms seating arrangements blood relations direction"
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 59
 author: "deepika-joshi"

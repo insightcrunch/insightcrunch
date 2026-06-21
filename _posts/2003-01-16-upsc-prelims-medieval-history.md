@@ -5,7 +5,7 @@ page_title: "UPSC Prelims Medieval History: Sultanate, Mughals and Study Strateg
 date: 2003-01-16
 categories: ["Industry"]
 tags: ["UPSC", "Medieval Indian History", "UPSC Prelims", "Delhi Sultanate", "Mughal Empire", "Bhakti Movement"]
-excerpt: "Master medieval Indian history for UPSC Prelims with Delhi Sultanate, Mughal, Bhakti-Sufi coverage and PYQ strategy."
+excerpt: "Master medieval Indian history for UPSC Prelims with Delhi Sultanate, Mughal, Bhakti-Sufi coverage and PYQ strategy, detailed preparation strategy and approach"
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 59
 author: "kavita-sharma"
@@ -36,7 +36,7 @@ UPSC's approach to medieval history can be summarized in one word: synthesis. Th
 
 This syncretic lens extends to the religious movements of the medieval period. The Bhakti and Sufi traditions are among the most frequently tested topics in medieval history, and UPSC treats them as expressions of India's civilizational capacity for spiritual dialogue and social reform. Questions about Bhakti saints (Kabir, Guru Nanak, Tulsidas, Mirabai, Ramanuja, Madhva, Basaveshwara, Chaitanya) focus on their philosophical teachings, their social critique of caste and ritual orthodoxy, and their literary contributions, not on biographical details. Questions about Sufi orders (Chishti, Suhrawardi, Qadiri, Naqshbandi) focus on their spiritual practices, their relationship with political power, and their role in the cultural integration of Islamic and Indic traditions, not on the biographical details of individual Sufi saints.
 
-The practical implication for your preparation is this: for every medieval ruler, dynasty, or movement you study, your notes should dedicate at least equal space to cultural, religious, economic, and administrative dimensions as to political and military events. If your notes on the Mughal Empire are 70 percent political narrative and 30 percent cultural content, the proportions are inverted relative to what UPSC actually tests. The [history and culture strategy for Prelims](/2003/03/24/upsc-prelims-history-culture/) article provides the broader framework for this approach across all historical periods.
+The practical implication for your preparation is this: for every medieval ruler, dynasty, or movement you study, your notes should dedicate at least equal space to cultural, religious, economic, and administrative dimensions as to political and military events. If your notes on the Mughal Empire are 70 percent political narrative and 30 percent cultural content, the proportions are inverted relative to what UPSC actually tests. The [history and culture strategy for Prelims](/2003/03/24/upsc-prelims-history-culture-strategy/) article provides the broader framework for this approach across all historical periods.
 
 ## The Delhi Sultanate: Five Dynasties, One Examination Framework
 

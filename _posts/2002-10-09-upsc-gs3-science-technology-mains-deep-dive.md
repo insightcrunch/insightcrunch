@@ -5,7 +5,7 @@ page_title: "UPSC GS3 Science and Technology Deep Dive: Space ISRO, Defence, Bio
 date: 2002-10-09
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 3", "Science Technology", "ISRO", "Biotechnology", "Artificial Intelligence", "IAS Preparation"]
-excerpt: "UPSC GS3 science and technology deep dive: space, defence, biotechnology, artificial intelligence, nuclear with policy-relevant answer frameworks."
+excerpt: "UPSC GS3 science and technology deep dive: space, defence, biotechnology, artificial intelligence, nuclear with policy-relevant answer frameworks, study roadmap"
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 65
 author: "kavita-sharma"
@@ -274,7 +274,7 @@ The biotechnology developments include various vaccine and therapeutic developme
 
 The quantum technology developments include various National Quantum Mission implementation initiatives Technology Hubs at research institutions and various research outputs. The global quantum developments including continuing advances at leading laboratories support benchmarking.
 
-The defence technology developments include various missile tests (with various specific missiles tested and developed), naval platform developments including various submarine and surface combatant programmes, aircraft developments including Tejas Mk1A production and Mk2 development, and various other platform developments. The integration with broader internal security preparation covered in forthcoming [UPSC GS3 internal security deep dive](/2002/09/25/upsc-gs3-internal-security-mains-deep-dive/) article provides additional analytical foundations for cross-subdomain answers connecting technology and security.
+The defence technology developments include various missile tests (with various specific missiles tested and developed), naval platform developments including various submarine and surface combatant programmes, aircraft developments including Tejas Mk1A production and Mk2 development, and various other platform developments. The integration with broader internal security preparation covered in forthcoming [UPSC GS3 internal security deep dive](/2002/09/30/upsc-gs3-internal-security-mains-deep-dive/) article provides additional analytical foundations for cross-subdomain answers connecting technology and security.
 
 The semiconductor manufacturing progress has been substantial with various specific projects progressing including substantial Tata Electronics facility development in Gujarat and other projects moving toward operational status. The cumulative semiconductor ecosystem development has substantial implications for broader technology strategy.
 

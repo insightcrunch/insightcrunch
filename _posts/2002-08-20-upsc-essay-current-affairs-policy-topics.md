@@ -5,7 +5,7 @@ page_title: "UPSC Essay Section B Strategy: Current Affairs Policy Topics Data-D
 date: 2002-08-20
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Essay Paper", "Current Affairs", "Policy Essays", "IAS Preparation"]
-excerpt: "UPSC essay current affairs and policy-based topics strategy: data-driven essays policy evaluation framework balancing critique with constructive suggestion."
+excerpt: "UPSC essay current affairs and policy-based topics strategy: data-driven essays policy evaluation framework balancing critique with constructive suggestion"
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 65
 author: "anita-das"

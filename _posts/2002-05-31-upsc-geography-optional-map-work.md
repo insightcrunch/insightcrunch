@@ -5,7 +5,7 @@ page_title: "UPSC Geography Optional Map Work: Guaranteed Scoring Section Diagra
 date: 2002-05-31
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Geography Optional", "Map Work", "Diagram Templates", "Scoring Strategy"]
-excerpt: "UPSC Geography optional map work as guaranteed scoring section with diagram templates time management in geography optional papers and the 300 plus formula."
+excerpt: "UPSC Geography optional map work as guaranteed scoring section with diagram templates time management in geography optional papers and the 300 plus formula"
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 65
 author: "deepika-joshi"
