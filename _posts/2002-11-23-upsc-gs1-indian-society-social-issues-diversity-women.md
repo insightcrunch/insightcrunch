@@ -42,7 +42,7 @@ The historical foundations of Indian unity include cultural integration through 
 
 The contemporary challenges to unity include communalism (the political mobilisation of religious identity), regionalism (the assertion of regional identity, sometimes against the national framework), linguistic disputes (particularly around the status of Hindi and the regional languages), caste politics (which can both disrupt and reinforce social integration), and separatist movements in specific regions. UPSC questions on Indian diversity and unity expect you to articulate both the extraordinary diversity and the robust integrative mechanisms that sustain unity despite challenges.
 
-The aspirants who can deploy the analytical vocabulary of plurality, syncretism, composite culture, multiculturalism, and pluralism within this framework consistently outscore those who write descriptive accounts of diversity without analytical grounding. The deeper framework for handling diversity and unity questions is in the [UPSC Mains GS Paper 1 Indian diversity and social empowerment strategy](/2002/11/18/upsc-mains-gs1-indian-society-women-strategy/) article.
+The aspirants who can deploy the analytical vocabulary of plurality, syncretism, composite culture, multiculturalism, and pluralism within this framework consistently outscore those who write descriptive accounts of diversity without analytical grounding. The deeper framework for handling diversity and unity questions is in the [UPSC Mains GS Paper 1 Indian diversity and social empowerment strategy](/2002/11/18/upsc-gs1-geography-india-world-mains/) article.
 
 ## Women and Women's Organisations: The Most-Tested Subtopic
 
@@ -82,7 +82,7 @@ Secularism in India has a distinctive form that differs from both the strict Wes
 
 The contemporary debates about Indian secularism include questions about whether the principled distance model has been consistently implemented, whether certain constitutional provisions and court rulings favour particular religious communities, whether the uniform civil code should be enacted and what form it should take, and how secularism relates to questions of religious conversion, religious education, and religious freedom. UPSC questions in these areas expect balanced analytical treatment that engages multiple perspectives without partisan framing.
 
-The detailed treatment of communalism, secularism, and regionalism with policy analysis is in the [UPSC Mains GS Paper 2 social justice and secularism strategy](/2002/10/22/upsc-mains-gs2-social-justice-secularism-strategy/) article, which complements the GS1 sociological framing with the GS2 policy analysis perspective.
+The detailed treatment of communalism, secularism, and regionalism with policy analysis is in the [UPSC Mains GS Paper 2 social justice and secularism strategy](/2002/10/22/upsc-mains-gs-paper-3-economy-technology-environment-security/) article, which complements the GS1 sociological framing with the GS2 policy analysis perspective.
 
 ## Urbanisation and Its Consequences
 
@@ -98,7 +98,7 @@ The policy responses include the Smart Cities Mission launched in 2015 aimed at 
 
 The social consequences of urbanisation extend beyond infrastructure to social transformation. The changing family structures toward nuclear family formation accelerate in urban settings. The migration-driven urban growth fragments rural communities and creates urban communities of origin-based networks. The emerging urban middle class has distinct political and cultural patterns. The urban informal economy provides livelihoods for the majority of urban workers while exposing them to insecurity. The urban inequalities are often more visible than rural inequalities due to spatial proximity of elites and poor. Urbanisation is transforming gender relations, caste relations, religious practices, and generational relations in multiple ways.
 
-UPSC questions on urbanisation can be enriched by deploying sociological concepts like urbanism as a way of life (Wirth's classic formulation), dual city (the spatial and economic separation of elite and non-elite urban populations), informal urbanism (the predominance of informal settlement and economy in Indian cities), and the rural-urban continuum (the recognition that Indian urbanisation produces transitional forms rather than sharp rural-urban binaries). The deeper treatment of urbanisation with policy analysis is in the [UPSC Mains GS Paper 1 urbanisation deep dive and policy analysis](/2002/11/18/upsc-mains-gs1-indian-society-women-strategy/) article.
+UPSC questions on urbanisation can be enriched by deploying sociological concepts like urbanism as a way of life (Wirth's classic formulation), dual city (the spatial and economic separation of elite and non-elite urban populations), informal urbanism (the predominance of informal settlement and economy in Indian cities), and the rural-urban continuum (the recognition that Indian urbanisation produces transitional forms rather than sharp rural-urban binaries). The deeper treatment of urbanisation with policy analysis is in the [UPSC Mains GS Paper 1 urbanisation deep dive and policy analysis](/2002/11/18/upsc-gs1-geography-india-world-mains/) article.
 
 ## Effects of Globalisation on Indian Society
 

@@ -62,7 +62,7 @@ The fundamental rights enshrined in Part III (Articles 12 to 35) provide the con
 
 The directive principles of state policy in Part IV (Articles 36 to 51) articulate the social and economic goals the state should pursue. The fundamental duties in Part IVA (Article 51A) added by the 42nd Amendment articulate the duties of citizens. The relationship between fundamental rights and directive principles has been extensively analysed by the courts, with the contemporary view emphasising their complementary rather than conflicting character.
 
-The amendment procedure under Article 368 is consistently tested. Build notes on the three categories of amendments (simple majority amendments under specific provisions, two-thirds majority amendments which is the general rule, and the special amendments requiring two-thirds majority plus ratification by half the state legislatures for specific federal provisions), the basic structure limitations on amendment power as established through Kesavananda Bharati and elaborated subsequently, and the major constitutional amendments and their significance. The detailed treatment of polity foundations including constitution and amendments is in the [UPSC Mains GS Paper 2 polity and constitution deep dive](/2002/11/09/upsc-mains-gs2-polity-constitution-deep-dive/) article.
+The amendment procedure under Article 368 is consistently tested. Build notes on the three categories of amendments (simple majority amendments under specific provisions, two-thirds majority amendments which is the general rule, and the special amendments requiring two-thirds majority plus ratification by half the state legislatures for specific federal provisions), the basic structure limitations on amendment power as established through Kesavananda Bharati and elaborated subsequently, and the major constitutional amendments and their significance. The detailed treatment of polity foundations including constitution and amendments is in the [UPSC Mains GS Paper 2 polity and constitution deep dive](/2002/11/09/upsc-gs2-constitution-polity-parliamentary-system/) article.
 
 ## Functions and Responsibilities of the Union and the States
 
@@ -78,7 +78,7 @@ The contemporary debates about Centre-state relations have been extensively anal
 
 The recent developments in Centre-state relations include the abolition of the Planning Commission and the establishment of the NITI Aayog in 2015 with implications for centre-state coordination, the implementation of the Goods and Services Tax in 2017 with the GST Council mechanism producing a new model of cooperative fiscal federalism, the Fifteenth Finance Commission recommendations on revenue sharing, and the various contemporary controversies around specific Centre-state issues including the role of governors, the implementation of central schemes by state governments, and the financial transfer arrangements.
 
-UPSC questions on Centre-state relations expect engagement with the constitutional provisions, the major commission recommendations, the contemporary developments, and the policy implications. Practise 5 to 8 federalism-related answers across the preparation cycle. The deeper treatment of federalism with policy analysis is in the [UPSC Mains GS Paper 2 federalism and centre-state relations deep dive](/2002/11/05/upsc-mains-gs2-federalism-deep-dive/) article.
+UPSC questions on Centre-state relations expect engagement with the constitutional provisions, the major commission recommendations, the contemporary developments, and the policy implications. Practise 5 to 8 federalism-related answers across the preparation cycle. The deeper treatment of federalism with policy analysis is in the [UPSC Mains GS Paper 2 federalism and centre-state relations deep dive](/2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/) article.
 
 ## Separation of Powers and Dispute Redressal Mechanisms
 
@@ -242,7 +242,7 @@ India's neighbourhood policy frames the bilateral relations with the immediate n
 
 The Neighbourhood First policy and the various sub-regional frameworks including BIMSTEC, BBIN, and others provide the institutional architecture for neighbourhood engagement.
 
-The detailed treatment of India's neighbourhood relations is in the [UPSC Mains GS Paper 2 India neighbourhood relations deep dive](/2002/10/22/upsc-mains-gs2-neighbourhood-relations-deep-dive/) article.
+The detailed treatment of India's neighbourhood relations is in the [UPSC Mains GS Paper 2 India neighbourhood relations deep dive](/2002/10/22/upsc-mains-gs-paper-3-economy-technology-environment-security/) article.
 
 ## Bilateral, Regional, and Global Groupings
 
