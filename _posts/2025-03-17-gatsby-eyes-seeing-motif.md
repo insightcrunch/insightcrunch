@@ -6,13 +6,15 @@ date: 2025-03-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Eyes and Seeing", "Symbolism", "Themes", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "The motif of eyes and seeing fills The Great Gatsby with looking yet shows that almost no one sees, setting abundant watching against the scarcity of insight."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-03-17
+lang: en
 ---
-
 The motif of eyes and seeing runs through The Great Gatsby like a current the reader feels before naming it. Characters look, stare, glance, peer, and watch on nearly every page, and a giant pair of painted eyes presides over the wasteland at the novel's middle. Yet for all this looking, almost no one in the book actually sees. That gap is the argument the motif makes: Fitzgerald saturates his world with vision while starving it of insight, so that the abundance of watching stands against a scarcity of true understanding, and the blind billboard eyes hang over the whole arrangement like a verdict no one reads.
+
+![The Motif of Eyes and Seeing in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 This is the claim this article defends, and I will give it a name so it stays portable: the watch-without-seeing split. The novel multiplies the equipment of sight, eyes and glasses and gazes and vigils, precisely in order to show how little of it converts into knowledge. Tom has arrogant eyes that dominate his face and see nothing about his own cruelty. Myrtle peers down from a window with jealous intensity and reads the scene below exactly wrong. Wilson stares at a roadside advertisement and mistakes it for God. Gatsby reaches toward a green light he cannot resolve into anything at all. The one figure who looks carefully, the drunk man in the library with the owl-eyed spectacles, is treated as a joke until the very end, when he turns out to be the only mourner who came to see for himself.
 

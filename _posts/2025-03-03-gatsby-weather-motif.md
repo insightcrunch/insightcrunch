@@ -6,13 +6,15 @@ date: 2025-03-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Weather Motif", "Themes", "Symbolism", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "The motif of weather and heat in The Great Gatsby tracks feeling across the whole novel, with rain, heat, and season timed to the story's emotional arc."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-03-03
+lang: en
 ---
-
 The Great Gatsby keeps one eye on the sky. The motif of weather and heat runs through the whole novel, and before a single character admits what they feel, the weather has already said it. Rain falls on the day Gatsby dreads most and clears the instant his dread lifts. The hottest afternoon of the summer arrives precisely when the novel's buried jealousy boils over into open accusation. Summer ends, leaves yellow, and the man who staked everything on an endless green season dies in the first chill of autumn. None of this is decoration. Fitzgerald times the weather to the emotional and dramatic arc so exactly that the sky functions as a narrator in its own right, telling the reader the temperature of a scene before the people inside it find the words.
+
+![The Motif of Weather and Heat - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 That is the argument this article defends. The weather in The Great Gatsby is a structural mood device, not atmospheric filler. Rain, heat, and season form a single recurring motif that tracks feeling across the whole book, from the optimistic spring of Nick's arrival to the wet, grieving close. Call it the novel's mood ring. The sky changes color with the story's blood pressure, and once a reader learns to watch it, the plot reads like a barometer.
 
@@ -309,5 +311,4 @@ Build the thesis around what the weather does, not just where it appears. A weak
 ### Q: How does Fitzgerald use the season as part of the motif?
 
 Season is the motif's largest movement, carrying the whole novel from hope to death. The book opens in spring, with sunshine and bursts of new leaves that carry Nick's optimism and Gatsby's sense that the summer ahead will remake him. It moves through the full heat of summer at the Chapter 7 climax, the warmest day of the year timed to the story's breaking point. Then it turns toward autumn in Chapter 8, where the yellowing trees and raw sunlight accompany Gatsby's collapse, and he dies in the first chill, out of season, clinging to a summer that is over. The seasonal arc rhymes the spring opening against the autumn close, so the year's turn and the man's fall become one curve. Where rain and heat handle individual scenes, season handles the entire rise and fall, which is why it is the deepest layer of the weather motif.
-
 

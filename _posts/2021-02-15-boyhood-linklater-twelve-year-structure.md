@@ -6,15 +6,15 @@ date: 2021-02-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Boyhood", "Richard Linklater", "Coming-of-Age", "Screenwriting", "World Cinema"]
 excerpt: "Boyhood filmed one cast across twelve real years so aging itself becomes the structure, building a whole life from ordinary moments rather than from plot."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-02-15
+lang: en
 ---
-
 Most films build their structure out of incident. A screenwriter chooses turning points, raises stakes, plants reversals, and arranges the whole machine so that one event causes the next until a climax pays off the setup. Boyhood throws that machine away and replaces it with something no script could simply describe: the passage of real time, captured by filming the same cast across twelve actual years. Richard Linklater began shooting in 2002 with a six-year-old named Ellar Coltrane and returned to the same actors year after year until 2013, letting a child and his parents age on screen for the audience to watch directly. The structural move is the whole point. Instead of using makeup, recasting, or a time-jump title card, the film let the calendar do the work, and that decision turned aging itself into the narrative engine.
 
-![Boyhood, Richard Linklater's twelve-year coming-of-age film, builds its structure from real time rather than plot](/assets/images/blog/blog-01.webp)
+![Boyhood, Richard Linklater's twelve-year coming-of-age film, builds its structure from real time rather than plot](/assets/images/blog/blog-103.webp)
 
 This article reads Boyhood as a problem in screenwriting and narrative architecture: what it means to build a film whose structure is not a sequence of incidents but an accumulation of ordinary moments, why that gamble produces a genuine emotional effect rather than a mere stunt, and how the design compares to the coming-of-age and duration films made around the world. The claim worth holding onto is simple to state and hard to execute. Time becomes the plot. By filming one cast across twelve years, Linklater made real aging the spine of the story, so the structure builds from the steady deposit of small scenes rather than from the rise and fall of dramatic events. That is the design under examination, and everything else follows from it.
 

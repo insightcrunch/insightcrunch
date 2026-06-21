@@ -8,10 +8,10 @@ tags: ["Cinema Classics", "Call Me by Your Name", "Luca Guadagnino", "Adaptation
 excerpt: "How Call Me by Your Name adapts Andre Aciman's inward novel into a sensory film of first love, using bodies, landscape, heat, and silence to carry the prose."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-04-01
+lang: en
 ---
-
 ## The Adaptation Decision at the Center of the Film
 
 Every faithful adaptation begins with a problem, and the problem at the heart of Call Me by Your Name is that its source is almost entirely interior. André Aciman's 2007 debut novel lives inside a single consciousness, narrating a summer of first love from behind one boy's eyes, building feeling out of obsessive thought, hesitation, and the kind of inward circling that prose does easily and a camera cannot do at all. Luca Guadagnino and his screenwriter James Ivory inherited a book where almost nothing happens that you could photograph, because the real action is happening in Elio Perlman's head. The decision that organizes the entire film is the decision to stop trying to film thought and instead to film its symptoms: the body that betrays desire, the landscape that holds heat, the silence that carries what a character will not say. Call Me by Your Name succeeds as an adaptation because it found sensory equivalents for an inward novel, trusting bodies, weather, and stillness to do the work that Aciman's sentences did on the page.

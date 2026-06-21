@@ -6,19 +6,19 @@ date: 2002-05-13
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "PSIR Optional", "Political Science", "International Relations", "Mains Strategy"]
 excerpt: "UPSC PSIR optional complete guide decoding the syllabus, booklist, GS2 overlap, answer writing and a tested 300 plus scoring roadmap for serious aspirants."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2002-05-13
+lang: en
 ---
-
 The UPSC PSIR optional, formally Political Science and International Relations, has earned its reputation as the thinking aspirant's optional because it rewards conceptual clarity, contemporary awareness, and structured argumentation rather than rote accumulation of dates and facts. Among the most chosen optionals at the civil services examination, PSIR attracts candidates who want a subject that talks directly to the front page of the newspaper while resting on a durable theoretical foundation. A well-prepared candidate routinely converts this combination into a 300 plus aggregate across both papers, and in strong years the top scorers in this discipline cross 320, placing them firmly inside rank-deciding territory. This guide is built to take you from a blank slate to that scoring band by treating the subject as an integrated craft rather than two disconnected syllabi.
 
 <!--more-->
 
 The cognitive shift this discipline demands is from memorising thinker positions to deploying them as analytical tools. The candidate who can reproduce what Rawls argued about justice but cannot use that argument to evaluate a reservation policy or a welfare scheme has stored information without building capability. The candidate who reads the same material and then explains why a particular governance failure reflects a deeper tension between procedural and substantive equality demonstrates exactly the reasoning that examiners reward with high marks. Both candidates encounter identical content; only one converts reading into the layered, application-rich responses that the 300 plus band requires. Before you commit, work through the [UPSC optional subject selection](/2003/05/31/upsc-optional-subject-selection/) framework so that this choice rests on evidence about your aptitude rather than on coaching-centre folklore.
 
-![UPSC PSIR Optional Complete Guide for 300+ - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC PSIR Optional Complete Guide for 300+ - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 By the end of this guide you will understand why this discipline suits a particular kind of mind, how the two-paper structure is organised, what the booklist should look like at chapter level, how the overlap with the general studies papers compounds your effort, how to write responses that blend theory with current developments, what the toppers actually do differently, where most candidates lose marks, and how to sequence a realistic preparation calendar. Treat this as your standing reference for the discipline, and return to the deeper companion pieces, the [PSIR Paper 1 political theory and Indian government](/2002/05/09/upsc-psir-optional-paper-1/) breakdown and the [PSIR Paper 2 international relations](/2002/05/04/upsc-psir-optional-paper-2/) breakdown, whenever you need granular section-level treatment.
 

@@ -8,13 +8,13 @@ excerpt: "How Gatsby's themes connect to each other shows one connected web, not
 reading_time: 48
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "sophia-turner"
 tags: ["The Great Gatsby", "Gatsby themes", "theme analysis", "American Dream", "literary analysis", "F. Scott Fitzgerald", "essay help"]
+lang: en
 ---
-
 Ask a class what *The Great Gatsby* is about and you will collect a tidy little list: the American Dream, wealth and class, love, the passage of time, illusion, death. Each gets its own paragraph, its own colored highlighter, its own row in the study guide. The trouble is that a list is exactly the wrong shape for this book. Understanding how Gatsby's themes connect to each other is the difference between a reader who can name the novel's concerns and a reader who can argue what the novel actually says, because Fitzgerald did not write six separate essays bound under one cover. He wrote a single argument, and the colored highlighters cut it into pieces that lose their meaning the moment they are separated.
 
-![A web of connected glowing strands converging on a single point of light across a dark bay](/assets/images/blog/blog-01.webp)
+![A web of connected glowing strands converging on a single point of light across a dark bay](/assets/images/blog/blog-76.webp)
 
 This article is the synthesis the rest of a theme study points toward. It does not re-explain the Dream or class or time one at a time; the individual pillar pieces do that work in depth, and the broader [complete overview of the novel's themes](/2022/01/31/great-gatsby-themes-overview/) surveys them in full. What it does instead is show the wiring. The claim it defends is simple to state and demanding to prove: the major concerns of *The Great Gatsby* are not separate subjects sitting side by side but a single connected system, and the root they all grow from is one human wish, the wish to repeat the past. Pull that root and every other strand comes up with it. Trace it carefully and the Dream, money, longing, and mortality stop being a checklist and start being one argument seen from different angles.
 
@@ -276,5 +276,4 @@ The valley of ashes is the physical image where wealth and death are permanently
 ### Q: Why is a thesis about connected themes stronger than one about a single theme?
 
 Because a single-theme thesis is usually true but inert, while a connection thesis has stakes. "The novel critiques the American Dream" is correct and lifeless; a grader has read it countless times and it leaves nothing to prove. "The Dream and the passage of time are one concern, because the Dream here is the wish to recover a sealed past" asserts a relationship someone could dispute, which gives you a real job: demonstrate the link. A connection thesis also signals that you have seen how the book is built rather than what it lists, the exact quality that separates strong literary analysis from competent summary. It forces the essay toward proof and away from tour. The most ambitious version names the root and traces branches back to it, which is the fullest form of the analysis-over-list standard.
-
 

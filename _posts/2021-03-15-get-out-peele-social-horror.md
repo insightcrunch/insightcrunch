@@ -6,15 +6,15 @@ date: 2021-03-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Get Out", "Jordan Peele", "Social Horror", "Race and Cinema", "Comparative Cinema"]
 excerpt: "Get Out turns horror into argument, using the Sunken Place, hypnosis, and a chilling silent auction to expose liberal racism and the theft of Black bodies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-03-15
+lang: en
 ---
-
 When a film opens with a Black man lost on a manicured suburban street at night, narrating his unease into a phone while a white car slows behind him, it is already making an argument about who is allowed to feel safe and where. *Get Out*, written and directed by Jordan Peele in 2017, builds an entire feature out of that single inversion of comfort and threat. The film takes the most familiar of social rituals, a young man meeting his girlfriend's parents for a weekend in the country, and reveals the quiet terror folded inside the welcome. It registers a specific historical pressure: the gap between a country that had elected and twice reelected a Black president and the lived reality of race that no election could resolve. Peele turned that gap into genre, and in doing so he made horror argue.
 
-![Get Out and the horror that carries its argument](/assets/images/blog/blog-01.webp)
+![Get Out and the horror that carries its argument](/assets/images/blog/blog-104.webp)
 
 This piece reads *Get Out* as a cultural and political document. It traces what the film was responding to in the moment of its release, how that response surfaces in image and story rather than in speeches, what the Sunken Place actually means, how the picture redefined the social horror film, and how it sits among the worldwide tradition of genre cinema that has always smuggled social fear into entertainment. The central claim is straightforward and worth stating plainly at the start: *Get Out* literalizes the appropriation and erasure of Black bodies, satirizes the benevolent racism of well-meaning white liberals more sharply than overt bigotry would allow, and proves that genre can carry a pointed social commentary without ceasing to function as genre. It is horror and it is argument, fully and at once, and the rest of this reading is an attempt to show how the two never separate.
 
