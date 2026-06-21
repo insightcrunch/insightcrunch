@@ -9,7 +9,7 @@ excerpt: "SAT Score Choice explained: choosing which dates to send, which school
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1996-07-02
+last_updated: 2026-06-21
 lang: en
 ---
 SAT Score Choice exists for exactly the student in the story that follows. A student walks out of a second sitting convinced the morning went badly, goes home, and quietly decides to bury the whole attempt. Three weeks later the official report lands and the math came in forty points higher than the first try. The reading and writing slipped a little, but the section that rose is exactly the one a target university happens to rebuild a superscore from. Because that student hid the date out of embarrassment, the application now carries a lower combined figure than the one the College Board would have assembled for free. Nobody asked the student to lie. The points were simply left on the table by a guess made in a bad mood.

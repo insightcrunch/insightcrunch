@@ -9,7 +9,7 @@ excerpt: "SAT score cancellation: the narrow cancellation window, when it makes 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "patrick-dunn"
-last_updated: 1996-06-28
+last_updated: 2026-06-21
 lang: en
 ---
 A test-taker walks out of the testing room convinced the morning went badly. The reading passages felt long, the algebra ran past the clock, and a wave of certainty sets in: that result is going to be a disaster, so it should be deleted before anyone sees it. This is the exact moment SAT score cancellation does the most damage, because the request feels like protection and is actually the surest way to throw away points you have not yet seen. The decision is irreversible, the feeling driving it is unreliable, and the better tool usually sits one click away.

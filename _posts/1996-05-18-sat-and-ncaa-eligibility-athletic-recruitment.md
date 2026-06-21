@@ -9,7 +9,7 @@ excerpt: "SAT and NCAA eligibility explained: the GPA-and-score sliding scale, D
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 1996-05-18
+last_updated: 2026-06-21
 lang: en
 ---
 A recruited point guard with a 3.6 core grade point average walks into the same testing room as a walk-on hopeful carrying a 2.4, and the two of them face very different math on the way to a roster spot. That gap, and what it means for the number each one needs on test day, is the single most misread part of athletic recruitment. For years the governing body that certifies college athletes ran a published combination chart that paired a student's core grade point average with a qualifying test result, so the higher the transcript climbed, the lower the number the test had to deliver. Coaches quoted it from memory, recruiting services reprinted it, and families treated it as the law of the land. The system that produced that chart has since shifted underneath everyone who learned it, and the families who still plan around the old combination chart are planning around a map that no longer matches the road.

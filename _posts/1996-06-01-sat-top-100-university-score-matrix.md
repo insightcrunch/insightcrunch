@@ -9,7 +9,7 @@ excerpt: "The complete SAT score matrix for the top 100 US universities: 25th an
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 68
 author: "samantha-lee"
-last_updated: 1996-06-01
+last_updated: 2026-06-21
 lang: en
 ---
 A high schooler opens an admissions page, finds a single number, and decides on the spot whether the dream is alive or dead. That number is almost always read wrong. SAT scores for the top 100 universities do not work as cutoffs, and treating a published figure as a pass-or-fail line is the most expensive misreading a college applicant makes. The figure that students fixate on is usually the 75th percentile of admitted students, which means a quarter of the enrolled class scored at or below it. Read as a wall, it terrifies. Read correctly, as the upper edge of a band with a floor far lower than the headline, it becomes a planning instrument.

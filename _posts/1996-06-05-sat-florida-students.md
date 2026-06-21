@@ -9,7 +9,7 @@ excerpt: "SAT for Florida students: how Bright Futures ties scholarship money to
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 59
 author: "simon-hartley"
-last_updated: 1996-06-05
+last_updated: 2026-06-21
 lang: en
 ---
 A Florida junior sits twenty points below the Florida Academic Scholars line going into her final attempt. Those twenty points are not a bragging right and they are not a college admission decision. They are a tuition bill. Cross the line and the state covers the full cost of tuition and applicable fees at a public university for four years, then hands her a stipend on top. Miss it by those twenty points and she drops to the next award, which historically covers a smaller share of the same bill, leaving thousands of dollars a year for her family to find. Nowhere else in this entire series does a single block of test points carry a clearer dollar value than it does for a student chasing Bright Futures, and that is the reason this guide exists.

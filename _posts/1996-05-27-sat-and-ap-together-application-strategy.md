@@ -9,7 +9,7 @@ excerpt: "SAT and AP together explained: how AP courses build SAT skills, the sp
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 1996-05-27
+last_updated: 2026-06-21
 lang: en
 ---
 Most juniors treat the SAT and AP exams as two separate taxes on the same overloaded spring. They block out weekends for one, then panic about the other, then discover in early May that both bills come due in the same two weeks. The mistake is not the panic. The mistake is the belief that the two demands are unrelated, that hours spent on Advanced Placement work are hours stolen from admissions-test preparation, and that the only way to survive is to ration attention between rivals. That belief is wrong, and it is expensive. The reader who understands how an AP English class trains the exact reasoning the Reading and Writing section rewards, and how AP Calculus rehearses the algebra the math portion lives on, stops running two campaigns and starts running one. Effort compounds instead of competing.

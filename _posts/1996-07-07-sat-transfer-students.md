@@ -9,7 +9,7 @@ excerpt: "SAT for transfer students: when scores are waived after enough college
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 59
 author: "christopher-wells"
-last_updated: 1996-07-07
+last_updated: 2026-06-21
 lang: en
 ---
 A student who finished a year of community college with a 3.7 grade point average asked a counselor whether she needed to register for the SAT before applying to the state flagship. The counselor said yes, out of caution. She spent eleven weekends drilling practice sets, paid for the sitting, and sat the exam on a Saturday morning that she could have spent finishing the lab report that actually mattered for her chemistry grade. The flagship she applied to waived testing for any applicant arriving with more than thirty semester credits. Her scores were never read. The eleven weekends bought her nothing.

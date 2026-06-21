@@ -9,7 +9,7 @@ excerpt: "SAT for seniors: which fall test dates still reach your deadlines, pre
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 59
 author: "maria-santos"
-last_updated: 1996-07-16
+last_updated: 2026-06-21
 lang: en
 ---
 The single most expensive mistake a twelfth-grader makes with the SAT is not a wrong answer. It is registering for a sitting whose results land after the application is already due. A student spends the summer telling themselves they will test once more in the fall, signs up for a December administration the moment the calendar opens, studies hard, walks out feeling strong, and then discovers in the second week of January that the number they earned will reach exactly none of the early-deadline schools on their list. The effort was real. The strategy was empty. By senior year the binding constraint is no longer how many points you can gain; it is whether the results arrive before the door closes.

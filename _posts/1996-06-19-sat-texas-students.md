@@ -9,7 +9,7 @@ excerpt: "SAT for Texas students: how automatic admission guarantees a spot but 
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
 author: "michael-brooks"
-last_updated: 1996-06-19
+last_updated: 2026-06-21
 lang: en
 ---
 A junior in Plano sits in the top 5 percent of her class, qualifies for automatic admission to the University of Texas at Austin, and decides she can stop studying for the exam. She has heard the rule her whole life: hit the right class rank, get the guaranteed seat, skip the test-prep grind that students in other states sweat over. Then she opens the major application for computer science, reads that the program reviews scores and the rest of the file separately from the class-rank guarantee, and realizes the seat she earned might be a seat in a major she did not want. That gap, between a guaranteed place on campus and a place in the program she actually came for, is the single most expensive misunderstanding a Texan brings to this assessment, and it is the reason this guide exists.

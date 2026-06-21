@@ -9,7 +9,7 @@ excerpt: "SAT and the Common App explained: self-reporting versus official repor
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 60
 author: "hannah-moore"
-last_updated: 1996-07-11
+last_updated: 2026-06-21
 lang: en
 ---
 The single most common application-season panic that lands in a counselor's inbox has nothing to do with essays or recommendation letters. It is a senior staring at the testing page of an application, holding a strong result, and unsure whether typing that number into a box counts, whether the college will believe it, and whether a separate fee and a separate send are still hanging over the submission like an unpaid bill. The number itself is fine. The fear is procedural, and procedural fear is the most wasteful kind, because the entire process is learnable in an afternoon and then never has to cost a moment of worry again.

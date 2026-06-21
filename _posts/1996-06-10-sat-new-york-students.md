@@ -9,7 +9,7 @@ excerpt: "SAT for New York students explained: the CUNY and SUNY systems, NYC pr
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1996-06-10
+last_updated: 2026-06-21
 lang: en
 ---
 A New York teenager with a 1380 SAT result and a high transcript is sitting on a decision worth more than fifty thousand dollars, and most of them never see it. That number is not the price of a private dorm or a fancy admissions consultant. It is the four-year value of the Macaulay Honors College full-tuition pathway at the City University of New York, the single highest-return outcome available to a strong test-taker who happens to live in this state. The same applicant, with the same result, can also commute to a senior college such as Baruch or Hunter for a resident tuition that costs a fraction of what a comparable private charges, walk into a competitive SUNY university center like Binghamton or Stony Brook on an in-state bill, or aim a private application at Fordham, New York University, or Columbia. The dense cluster of choices inside a single subway ride is exactly what makes the SAT for New York students a different planning problem than it is almost anywhere else in the country.

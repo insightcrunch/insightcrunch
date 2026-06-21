@@ -9,7 +9,7 @@ excerpt: "SAT for California students: the test-free UC landscape, when to still
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1996-06-14
+last_updated: 2026-06-21
 lang: en
 ---
 A junior in Pasadena told me last spring that she had stopped studying for the SAT because, in her words, the University of California does not look at it anymore, so why bother. She was half right, which is the most dangerous kind of right. The University of California genuinely will not read her score for admission. The problem was the rest of her list. She had Stanford, the University of Southern California, and Harvey Mudd on it, and she had circled the University of Michigan as a financial safety because of its lower out-of-state sticker price relative to some privates. Every one of those institutions, in the cycle she was about to enter, would either require an SAT result or reward a strong one. She had read a single true headline about the UC system and let it make a decision that the rest of her list had no business letting it make.

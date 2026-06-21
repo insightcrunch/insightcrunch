@@ -3,7 +3,7 @@ layout: post
 title: "SAT State Requirements and School-Day Testing"
 page_title: "SAT by State: Which States Offer School-Day Testing and What It Means for You"
 date: 1996-06-23
-last_updated: 1996-06-23
+last_updated: 2026-06-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Policy", "State Testing", "School Day SAT", "Accountability"]
 excerpt: "SAT state requirements explained: which states offer the school-day SAT, what school-day testing means and how it differs from a weekend test, with strategy."
