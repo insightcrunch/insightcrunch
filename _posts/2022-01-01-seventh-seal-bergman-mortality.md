@@ -6,15 +6,15 @@ date: 2022-01-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Seventh Seal", "Ingmar Bergman", "World Cinema", "Film Analysis", "Directors"]
 excerpt: "The Seventh Seal stages mortality as a chess game with Death and asks whether meaning can survive a God who will not answer the knight's desperate plea."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-01-01
+lang: en
 ---
-
 A knight kneels at the edge of a stone beach, the sea behind him flat and grey, and a hooded figure in black tells him plainly that his hour has come. The knight asks for a reprieve, and to win it he proposes a game. This is the opening of The Seventh Seal, Ingmar Bergman's 1957 film about a crusader who returns to a plague-ravaged homeland and plays chess against the figure of mortality while begging a God who will not speak for one clear sign that he exists. The film is short, barely ninety-six minutes, and almost everything in it has hardened into the common visual language we now use whenever a story wants to picture a person standing at the threshold of the grave.
 
-![The Seventh Seal](/assets/images/blog/blog-01.webp)
+![The Seventh Seal](/assets/images/blog/blog-101.webp)
 
 What makes the picture endure is not the chessboard, striking as the chessboard is, but the question the chessboard exists to dramatize. Antonius Block, the knight, does not bargain for survival so much as for time, and he wants time because he cannot bear to die without first knowing whether his ten years of crusading were spent in the service of anything real. He has prayed and received no reply. He has fought and seen only rot. He returns to find his country dying around him, the fields empty, the churches painting murals of the plague to frighten the faithful, and into this silence he hurls the most uncomfortable demand a believer can make: not for mercy, not for heaven, but for an answer. The film is the record of what a person does when the answer does not come, and that record is why it still gets taught, argued over, parodied, and reached for whenever a culture needs an image for the moment a human being faces the end and asks what it was all for.
 

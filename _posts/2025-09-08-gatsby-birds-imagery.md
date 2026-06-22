@@ -6,13 +6,15 @@ date: 2025-09-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Birds and Wings Imagery", "Symbolism", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Birds and wings imagery in Gatsby links flight to rising above one's origins, while each winged image carries the fragility that quietly foretells the fall."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 40
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-09-08
+lang: en
 ---
-
 The first wings in The Great Gatsby do not belong to a bird at all. They belong to two women in white. When Nick Carraway steps into the Buchanan drawing room in Chapter One, Daisy and Jordan are "buoyed up as though upon an anchored balloon," their dresses "blown back in after a short flight around the house," before the curtains settle and the two of them "ballooned slowly to the floor." Birds and wings imagery in Gatsby begins here, in a moment of weightless lift that lasts exactly until a husband shuts a window and gravity returns the room to the ground. The image promises flight. The next breath takes it back. That small motion, up then down, is the whole avian strand of the novel in miniature.
+
+![Birds and Wings Imagery in Gatsby - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 Readers tend to remember Gatsby's green light, the eyes of Doctor T. J. Eckleburg, and the grey valley of ashes. The bird and wing imagery is quieter, scattered, easy to read past. Yet once you start tracking it, the pattern is hard to unsee. Gulls wheel over the wingless residents of the two eggs. Wings beat in the trees on the night Nick walks home from his first party. Gatsby's car spreads its fenders "like wings" as it carries him toward the city and his ruin. The mythic boy who invents himself rests his future on "a fairy's wing." On Gatsby's final morning, before the gun, "ghostly birds began to sing among the blue leaves." Each of these is a flicker of upward motion, and each is shadowed by the fall that the same image quietly carries inside it.
 

@@ -6,15 +6,15 @@ date: 2022-02-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Fitzcarraldo", "Werner Herzog", "Directors", "World Cinema", "Film History"]
 excerpt: "Fitzcarraldo had Werner Herzog haul a real steamship over a mountain rather than fake it, making the production enact the very obsession the film portrays."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-02-15
+lang: en
 ---
-
 Most films about impossible dreams settle for the illusion of difficulty. A model is built, a matte painting is hung, a green screen does the rest, and the audience agrees to believe. Fitzcarraldo (1982) refuses that bargain at the level of its own making. The story concerns a dreamer in the Peruvian Amazon who decides to drag a riverboat over a mountain that separates two rivers, all so he can fund an opera house in the jungle. Werner Herzog, writing, producing, and directing, made the same decision his protagonist makes. He found a real, full-size steamship of more than three hundred tons, found a real hill in the rainforest, and hauled the vessel over it using period engineering and the labor of hundreds of people, with the camera running. The film and the making of the film became one fact, and that single fact is the key to everything the picture means.
 
-![Fitzcarraldo (1982), directed by Werner Herzog](/assets/images/blog/blog-01.webp)
+![Fitzcarraldo (1982), directed by Werner Herzog](/assets/images/blog/blog-07.webp)
 
 This article reads Fitzcarraldo through its production history, because for this title the production is not background to the meaning. It is the meaning. To understand why the boat-over-the-mountain sequence carries a weight that no other adventure film of its era can match, you have to understand that the labor on screen is genuine, the risk was genuine, and the director who insisted on doing it for real was chasing the same useless grandeur as the character he was filming. The result is one of cinema's clearest cases of a shoot enacting the obsession its film is about, and the surest anchor in this series for the question of what defines Werner Herzog as a filmmaker.
 

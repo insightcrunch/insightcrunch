@@ -6,15 +6,15 @@ date: 2025-08-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Symbolism", "The Telephone", "Close Reading", "Themes", "American Literature"]
 excerpt: "The telephone as a symbol in Gatsby names a device wired for contact yet empty of it, carrying affairs, secret business, and the call that never comes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-08-04
+lang: en
 ---
-
 A bell rings inside the Buchanan house, and a dinner party freezes. Tom leaves the table, Daisy follows, Jordan leans toward Nick, and the evening that had been pretending to be civilized cracks open along a single thread of wire. Nobody on the porch has touched the instrument, yet it has already rearranged the room. That small interruption is where the telephone as a symbol in Gatsby announces itself, and once you start tracking the device through the novel you find it doing the same work everywhere: promising to join people and instead carrying betrayal, secrecy, and silence into the spaces where intimacy should be.
 
-![The telephone as a symbol in The Great Gatsby explained, failed connection and secrecy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The telephone as a symbol in The Great Gatsby explained, failed connection and secrecy - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 Most readers register the calls as atmosphere, a period prop that dates the novel to 1922 the way a horse-drawn carriage dates an earlier book. That reading is not wrong so much as unfinished. Fitzgerald hands the device a recurring, patterned job, and the pattern is the meaning. The telephone is the one piece of technology in the book engineered for connection, and Fitzgerald uses it almost exclusively to dramatize connection breaking down. The phone is how Tom keeps a mistress, how Gatsby runs a criminal enterprise he will not name, how Daisy was courted by a crowd of officers who never landed, and how the household waits for a message on the last day of Gatsby's life that never arrives. The device that should unite everyone unites no one. That is the argument this article defends.
 

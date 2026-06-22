@@ -6,17 +6,17 @@ date: 2001-12-25
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "UPSC Mains", "GS Overlap", "Optional Subject", "Study Strategy", "IAS Preparation"]
 excerpt: "Every UPSC optional quietly shares content with the General Studies papers. Learn the exact GS overlap map and the double benefit strategy that saves months."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-12-25
+lang: en
 ---
-
 Most aspirants prepare for the UPSC optional and the General Studies papers as if they live in two sealed rooms with no connecting door. They read one set of books for the optional, another set for the General Studies papers, take separate notes, build separate revision schedules, and quietly accept that they are carrying two full courses on their back at once. This is the single most expensive mistake in the entire Mains preparation cycle, and almost nobody discusses it in concrete terms. The truth is that GS overlap is real, it is large for several subjects, and learning to exploit it deliberately can recover three to five months of preparation time over a two year journey.
 
 If you have ever stared at your timetable and wondered why there are never enough hours in the day, the answer is rarely that you are slow or undisciplined. More often, it is that you are studying the same idea twice under two different labels, paying full price for content you have effectively already bought. A candidate with Sociology, for instance, who reads about caste, kinship, and social change for the optional and then sits down to read the very same themes again for the Indian society section of the first General Studies paper is doing double the work for a single payoff. The overlap was sitting there, waiting to be used, and it went to waste because nobody told the candidate to look for it.
 
-![UPSC Optional GS Overlap Matrix - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Optional GS Overlap Matrix - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 This guide does something the coaching ecosystem rarely bothers to do well. It maps, subject by subject and paper by paper, exactly where your optional touches the General Studies syllabus, how deep that contact runs, and how to convert that contact into recovered hours. It then shows you the integrated study method, the double benefit approach, that lets a single preparation session feed two answer scripts at once. By the end, you will be able to look at any optional and estimate its true preparation cost rather than its advertised cost, because the advertised cost ignores the discount that overlap quietly provides. If you are still in the earlier stage of deciding which subject to take, you should read this alongside our guide to [choosing the right optional subject](/2003/05/31/upsc-optional-subject-selection/), because overlap is one of the five criteria that should drive that decision, and yet it is the one aspirants weigh least and understand worst.
 

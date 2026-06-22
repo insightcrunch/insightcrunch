@@ -6,19 +6,19 @@ date: 2001-12-20
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Optional Subject", "IAS Preparation", "Study Strategy"]
 excerpt: "The complete UPSC optional subjects directory: all 48 optionals analysed for viability, scoring patterns, material availability and the right fit for you."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2001-12-20
+lang: en
 ---
-
 Almost every aspirant who sits down to choose a UPSC optional subject is, without realising it, choosing from a menu of six. Geography, History, Political Science, Sociology, Public Administration, Anthropology: these are the names that fill YouTube thumbnails and Telegram debates, and most candidates believe these are essentially the whole field. They are not. The Union Public Service Commission permits you to write your two optional papers in any one of forty-eight recognised disciplines, and the gap between what aspirants think the menu looks like and what it actually contains is one of the quietest, most consequential blind spots in the entire preparation journey.
 
 This matters because the optional carries 500 marks out of the 1750 that decide your final rank, and because a poorly chosen subject can silently cap your ceiling for years while you blame your effort instead of your selection. Some of the most under-discussed disciplines on the full list are also among the most economical in syllabus length, the most generously supplied with material, or the most naturally aligned with a graduate's existing degree. You cannot make that judgement if you have never seen the complete list laid out and assessed honestly, one entry at a time.
 
 This guide is that directory. It walks through all forty-eight recognised disciplines, grouped by the way real candidates actually think about them, and assesses each on the same four practical lenses: how heavy the syllabus is, how easy the study material is to find, how much it overlaps with the General Studies papers you are already preparing, and what its scoring reputation genuinely is once you strip away the marketing. By the end you will be able to look at the entire field rather than the famous corner of it, and shortlist with eyes open.
 
-![UPSC optional subjects directory of all 48 optionals - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC optional subjects directory of all 48 optionals - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 ## Why a Complete Directory of All 48 Optionals Matters
 

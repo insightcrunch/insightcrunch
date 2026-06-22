@@ -6,13 +6,15 @@ date: 2022-03-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Bicycle Thieves", "Vittorio De Sica", "Italian Neorealism", "World Cinema", "Film Analysis"]
 excerpt: "Bicycle Thieves turned non-actors and the real streets of Rome into the defining statement of Italian Neorealism, the movement that reshaped world cinema."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2022-03-15
+lang: en
 ---
-
 A man loses a bicycle, and somehow that small theft became the founding argument of a film movement. Vittorio De Sica built Bicycle Thieves in 1948 around a premise so plain it could fit on a pawn ticket: a poor father in postwar Rome lands a job that requires a bicycle, the bicycle is stolen on his first morning of work, and he spends a Sunday combing the city with his young son to find it. No villain twirls a mustache. No twist redeems the search. The movement that this film came to define, Italian Neorealism, asked cinema to look at exactly this kind of ordinary catastrophe and insist it was worth the screen, and Bicycle Thieves made the case more clearly than any film before or since.
+
+![Bicycle Thieves and the Birth of Italian Neorealism - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 That clarity is why the film keeps turning up at the top of the lists. It topped the inaugural Sight and Sound critics poll of the greatest films ever made in 1952, and it has never fallen far from the summit in the decades of polling that followed. Directors as different as Satyajit Ray and Ken Loach have pointed to it as the work that showed them what cinema could do with people who were neither stars nor heroes. The reputation rests on a paradox worth taking apart slowly: a film that looks like life caught unawares was in fact one of the most deliberately shaped works of its era, and the plainness that reads as accident was a choice made shot by shot. This analysis traces how the movement was built, how Bicycle Thieves embodied it, where its method came from, and how that method traveled out of Rome and into the social-realist cinema of Britain, America, India, and beyond.
 

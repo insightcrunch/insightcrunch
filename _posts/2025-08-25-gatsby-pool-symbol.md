@@ -6,15 +6,15 @@ date: 2025-08-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Swimming Pool", "Symbolism", "Close Reading", "Jay Gatsby", "Chapter 8"]
 excerpt: "The swimming pool as a symbol in The Great Gatsby fuses deferral and death: Gatsby saves it untouched all summer, then dies on it the day he finally swims."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-08-25
+lang: en
 ---
-
 For an entire summer the most expensive item on Gatsby's property goes untouched. The marble pool sits behind the imitation chateau, fed and filtered and ready, and the man who built the whole spectacle never once gets into it. He tells Nick this almost in passing, on the last morning of his life, with a small note of apology in his voice: "I've never used that pool all summer." A few hours later he is floating on it, dead. No object in the novel carries that arc so cleanly, from saved to fatal, from a luxury kept for some better day to the surface a body comes to rest on. The swimming pool as a symbol gathers the book's deepest pattern into one piece of architecture: the dream postponed until the postponement is what kills you.
 
-![The swimming pool as a symbol in The Great Gatsby explained, deferral and death - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The swimming pool as a symbol in The Great Gatsby explained, deferral and death - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 Most readers meet the water only as the place where Gatsby is shot, and stop there. That reading is not wrong, but it is thin, and it misses the thing Fitzgerald actually built. The pool is not a backdrop for the murder. It is the murder's meaning, an object that has been quietly accumulating significance across the whole back half of the book so that when the body finally touches the water the image already means something before Wilson ever raises the gun. This article traces the object from its first mention to its last ripple, reads the literal object for the figurative work it performs, and defends a single thesis about what it finally signifies. The pool is the pleasure deferred until it turns lethal, the standing argument that a life lived for later arrives at last only as a death.
 

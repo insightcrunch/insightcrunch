@@ -6,15 +6,15 @@ date: 2001-12-11
 categories: ["Industry"]
 tags: ["UPSC", "Electrical Engineering Optional", "UPSC Optional", "Engineering Optional", "IAS Optional", "UPSC Mains", "Civil Services Optional"]
 excerpt: "Decode the UPSC electrical engineering optional with a full syllabus map, book list, paper-wise strategy, PYQ trends and a realistic scoring blueprint."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-12-11
+lang: en
 ---
-
 You spent four years learning circuit theory, control systems, power systems and signal processing, and now you are staring at the optional subject list wondering whether all of that effort can be converted into Mains marks instead of being quietly discarded. The UPSC electrical engineering optional sits at the centre of that question, and very few resources answer it honestly. Most either glamorise it as a guaranteed scorer because it is "objective," or dismiss it outright because "humanities optionals are safer." Both verdicts are lazy. The truth is more useful and more demanding, and this guide gives it to you in full, with the syllabus mapped section by section, the books named with the chapters that actually matter, the answer-writing technique that technical papers reward, and a clear-eyed account of who should choose this optional and who should walk away from it.
 
-![UPSC Electrical Engineering Optional syllabus and strategy guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Electrical Engineering Optional syllabus and strategy guide - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 Before going further, it helps to place this decision inside the wider architecture of the Civil Services Examination. The optional carries 500 marks across two papers in the Mains stage, which is roughly a quarter of the written total, so the choice is not cosmetic. If you have not yet worked through the broader framework of how this exam is structured and scored, the [complete guide to the UPSC Civil Services Examination](/2003/07/24/upsc-civil-services-complete-guide/) is the foundation everything else rests on, and the dedicated breakdown of [how to choose an optional subject](/2003/05/31/upsc-optional-subject-selection/) lays out the five criteria you should be weighing. This article assumes you are seriously considering electrical engineering and want operational detail rather than a sales pitch.
 

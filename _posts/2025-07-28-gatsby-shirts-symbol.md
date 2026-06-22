@@ -2,15 +2,17 @@
 title: "Gatsby's Shirts as a Symbol"
 slug: gatsby-shirts-symbol
 date: 2025-07-28
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Shirts", "Jay Gatsby", "Symbolism", "Chapter 5", "Close Reading", "American Literature"]
 image: /assets/images/blog/blog-01.webp
 excerpt: "Gatsby's shirts look like luxury, but the pile he throws before Daisy fuses wealth, love, and loss, and her tears fall on the years no fortune can buy back."
 reading_time: 39
+lang: en
 ---
-
 A man stands in his bedroom and empties a cabinet of imported shirts onto a table while the woman he has loved for five years watches. He does it without explanation, almost without pause, pulling out armful after armful until the colors mound up in front of her. Then she lowers her face into the soft heap and sobs that she has never seen anything so beautiful. Nothing is bought, nothing is given, nothing changes hands. And yet this is one of the most quietly devastating moments in American fiction, because the shirts on that table are not shirts. They are the visible shape of everything a man manufactured to win back a single person, and the tears falling into them measure the one thing all that manufacturing could not reach.
+
+![Gatsby's Shirts as a Symbol - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 This article is about the shirts as a symbol. It owns the object itself, the layered meaning packed into that pile of linen and silk, rather than the scene that contains it. The reunion in chapter five, the choreography of the afternoon, the rain and the awkward tea, belongs to the close reading of the [shirts scene in chapter five](/2022/10/03/great-gatsby-chapter-5-shirts-scene/). Here the question is narrower and stranger. Why these objects? Why does Fitzgerald hand his hero a stack of garments at the emotional summit of the novel, and why does the woman cry over fabric rather than over the man? The answer is the central claim of this analysis: the shirts are wealth standing in for the years. They symbolize everything Gatsby built to win Daisy and everything that building cost, so her tears fall not on cloth but on the distance between the fortune he can pour out in an afternoon and the time he can never give back.
 

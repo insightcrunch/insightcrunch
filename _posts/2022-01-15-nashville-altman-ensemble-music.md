@@ -6,15 +6,15 @@ date: 2022-01-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Nashville", "Robert Altman", "New Hollywood", "Ensemble Cinema", "Film Music"]
 excerpt: "Nashville turns Robert Altman's self-written songs and overlapping sound into a portrait of America, a sprawling mosaic in which the score is the argument."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2022-01-15
+lang: en
 ---
-
 The first thing you hear in Nashville is not a melody but a sales pitch. A mock advertisement barks the film's own title and its roster of stars at you like a late-night record offer, and before the picture has shown you a single face it has already told you that everything to follow will be packaged, sold, and sung. Robert Altman's 1975 panorama of the country-music capital runs close to three hours, tracks two dozen major characters across five days, and uses its songs and its layered noise not as decoration laid over the story but as the story itself. The picture argues, through sound before anything else, that an entire country can be heard talking over itself, and that the act of listening to that din is the closest thing to understanding America the screen can offer.
 
-![How Nashville turns self-written songs into a portrait of America, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Nashville turns self-written songs into a portrait of America, an analysis - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 This is a work in which the score is the argument. The performers wrote and sang most of their own numbers, so a tune is never merely a tune; it is a character's self-portrait, a confession, a lie, or a campaign promise. The famous engineering that lets a dozen conversations bleed across one another at once is not a gimmick to suggest realism. It is a thesis about attention, about who gets heard and who gets drowned, and about a culture that produces more talk than anyone can absorb. To study the sonic design of this picture is to study its meaning, because here the two are the same object seen from two angles.
 
