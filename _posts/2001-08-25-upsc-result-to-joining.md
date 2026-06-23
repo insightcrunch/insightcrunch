@@ -6,17 +6,17 @@ date: 2001-08-25
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Joining Process", "UPSC Document Verification", "UPSC Medical Examination", "IAS Joining", "UPSC Result to Joining"]
 excerpt: "From the UPSC final result to your first day, here is the joining process: document verification, medical exam, allocation and the reporting timeline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-08-25
+lang: en
 ---
-
 Your name is on the final list. After years of early mornings, abandoned weekends, and the quiet ache of explaining to relatives that you were still preparing, the UPSC joining process is finally the only thing standing between you and the service you fought for. And yet, almost nobody tells you what that process actually involves. The coaching ecosystem invests enormous energy in getting you to clear the examination and then falls silent the moment the result is declared, as though everything after selection takes care of itself. It does not. The window between seeing your roll number on the merit list and walking into your first day of duty is a maze of attestation forms, a medical board that can rattle even confident candidates, a police verification you barely notice happening, and a wait that stretches far longer than most aspirants expect.
 
 This guide exists because that silence is unfair to you. You have earned the right to understand precisely what comes next, in the order it comes, with the specificity that lets you prepare instead of panic. We will walk through every stage of the journey from the declaration of the final result to the day you report for your Foundation Course and beyond, covering document verification, the detailed medical examination, character and antecedent verification, the appointment and allocation formalities, and the realistic timeline you can expect. We will also address the part nobody discusses openly: the emotional limbo of the months between selection and joining, when you are technically a future officer but functionally still waiting by your phone.
 
-![UPSC Joining Process Complete Timeline - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Joining Process Complete Timeline - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 By the end, you will have a concrete checklist of what to gather, when to gather it, and how to avoid the small, avoidable errors that delay or complicate joining for a surprising number of recommended candidates every single year. Treat this as the operational manual for the final leg of a very long race. The examination tested whether you deserved the service. This phase tests whether you are organised enough to claim it cleanly.
 

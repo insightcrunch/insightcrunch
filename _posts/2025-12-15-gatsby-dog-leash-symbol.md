@@ -6,15 +6,15 @@ date: 2025-12-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Myrtle Wilson", "Symbolism", "Close Reading", "American Literature"]
 excerpt: "The dog leash Myrtle buys is a tiny object that distills her whole doomed climb. Here is what the impulse purchase reveals and why it still matters today."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-12-15
+lang: en
 ---
-
 Halfway through a reckless city afternoon, the taxi stops short, and a purchase that changes nothing in the plot changes everything in how a careful reader sees Myrtle Wilson. She leans out the window, points, and demands a puppy from a street vendor, and a few chapters later the dog leash Myrtle buys turns up wrapped in tissue paper as the one keepsake of her brief, borrowed taste of wealth. Most students skim past this scene on the way to the apartment party. They should not. The animal and its braided strap make up one of the most quietly devastating object symbols in the novel, a small splurge that holds Myrtle's ambition and its hollowness in a single image.
 
-![The Dog Leash Myrtle Buys](/assets/images/blog/blog-01.webp)
+![The Dog Leash Myrtle Buys](/assets/images/blog/blog-91.webp)
 
 This article owns that object symbol. It reads the puppy and its lead as an emblem, tracing every place they surface, the literal thing and its figurative freight, the way the meaning darkens from a giddy whim into a grim relic, and the larger reading the whole sequence supports. For Myrtle as a person, her motivation and her death, the dedicated [Myrtle Wilson character analysis](/2023/08/14/myrtle-wilson-character-analysis/) carries the figure herself. Here the focus stays narrow and deliberate: the purchase, the prop, and the neglect, and what each layer tells us about a woman reaching for a class she can only rent by the hour.
 

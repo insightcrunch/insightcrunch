@@ -6,15 +6,15 @@ date: 2025-12-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Symbolism", "Close Reading", "The Green Light", "The Valley of Ashes", "F. Scott Fitzgerald"]
 excerpt: "How the symbols cluster by place in The Great Gatsby: a map of West Egg, the valley of ashes, East Egg, and the city, each a moral zone that shapes meaning."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-12-29
+lang: en
 ---
-
 Stand at the end of Nick Carraway's lawn on the first night of the novel and look across the water. A man stretches his arms toward a "single green light," "minute and far away," and the reach of that gesture tells you something the plot has not yet said: in The Great Gatsby the meaning of a symbol is fixed to the ground it stands on. The green light is not loose in the air. It hangs on a dock in East Egg, seen from a dock in West Egg, and the whole ache of the image lives in the distance between those two specific places. To understand how the symbols cluster by place is to read the novel's geography as the filing system of its meaning, where every location holds the emblems that belong to it and gives them the sense they carry.
 
-![A map of how the symbols cluster by place in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![A map of how the symbols cluster by place in The Great Gatsby](/assets/images/blog/blog-08.webp)
 
 This is the synthesis article for the whole symbol system organized by location. It does not try to out-analyze the dedicated studies of each emblem. The full set is gathered in [the complete guide to the novel's symbols](/2022/02/14/great-gatsby-symbols-complete-guide/), and the layout of the land itself is drawn in [the map of the novel's geography](/2022/06/06/great-gatsby-geography-map/). What this article owns is the by-place organization: the claim that Fitzgerald sorts his images so that each location becomes a thematic ground, and that reading the map of the symbols is a way of reading the moral map of the book.
 

@@ -6,15 +6,15 @@ date: 2025-12-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Swimming Pool", "Symbolism", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Gatsby's gardener and the pool drain read as a symbol of time running out, the small domestic detail that closes the season and the life together at once."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-12-22
+lang: en
 ---
-
 A servant walks up to the steps of a half-emptied mansion and offers to do something ordinary, and a man tells him to wait one more day. That is the whole of it. Gatsby's gardener and the pool drain occupy four sentences in a novel of nine chapters, and most readers pass over them on the way to the gunshot. Yet this small exchange is one of the most precisely engineered moments in the book, because it sets a clock ticking that the reader can hear even when Gatsby cannot. The gardener proposes to empty the pool before the leaves fall and clog the pipes. Gatsby asks him to hold off, because he wants to use the water one last time. Within hours he is dead in it. The detail looks like household maintenance. It is the season closing on a life, and the timing is exact.
 
-![Gatsby's gardener and the pool drain symbolism in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Gatsby's gardener and the pool drain symbolism in The Great Gatsby](/assets/images/blog/blog-70.webp)
 
 This article owns the pool-drain detail as an object symbol. It is a different thing from the swimming pool itself, which carries the larger weight of postponement and arrival, and it is different again from the pool scene as a piece of narrative craft. Here the focus narrows to the smallest unit of all: a gardener's plan, a refused instruction, a falling leaf, and the way Fitzgerald uses these to make a domestic chore stand for the running-out of time. The reading on offer is simple to state and hard to exhaust. The plug pulled on summer is the plug pulled on Gatsby, and the novel arranges its calendar so that the two drainings coincide.
 

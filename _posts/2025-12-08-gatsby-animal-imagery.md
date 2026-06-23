@@ -6,15 +6,15 @@ date: 2025-12-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Symbolism", "Close Reading", "Themes", "American Literature"]
 excerpt: "Animals and beast imagery in Gatsby strips the civilized veneer from the powerful, gathering on Tom to expose the brute appetite beneath his polished manners."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-12-08
+lang: en
 ---
-
 When Nick Carraway first lays eyes on Tom Buchanan, he does not describe a man so much as a force of nature barely held inside a suit. Animals and beast imagery in Gatsby begins right there, on the lawn at East Egg, where the most powerful figure in the novel is rendered as a body before he is rendered as a person. Fitzgerald reaches for the language of muscle, appetite, and dominance, and that language never quite leaves the powerful afterward. This article owns the bestial strand running through the book: the comparisons that strip the civilized veneer from the polished and reveal the brute working underneath.
 
-![Animals and beast imagery in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Animals and beast imagery in The Great Gatsby](/assets/images/blog/blog-43.webp)
 
 The claim this article defends has a name. Call it the beast under the manners. The animal language in the novel is not decoration scattered for color; it is a diagnostic tool. It gathers most heavily on Tom Buchanan, and where it gathers, it exposes a world in which refinement is a thin coat thrown over force. The riding clothes, the East Egg mansion, the easy money, all of it sits on top of an appetite that the prose keeps insisting is closer to the animal than the gentleman would like us to believe.
 

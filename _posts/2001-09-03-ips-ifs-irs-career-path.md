@@ -6,13 +6,15 @@ date: 2001-09-03
 categories: ["Industry"]
 tags: ["UPSC", "IPS Career", "IFS Career", "IRS Career", "Civil Services Salary", "Non-IAS Services"]
 excerpt: "IPS, IFS, IRS career path explained: salary structures, promotion timelines, foreign postings and the field versus headquarters reality for non-IAS officers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-09-03
+lang: en
 ---
-
 The IPS, IFS, IRS career path is the part of the civil services story that most aspirants ignore until the moment they are filling in their service preferences, and by then it is far too late to think clearly. Almost every conversation about the Union Public Service Commission examination collapses into a single fantasy about becoming a District Magistrate, and the three letters that dominate that fantasy are I, A and S. Yet the Indian Administrative Service accounts for only a fraction of the Group A posts that the examination fills each year. The Indian Police Service, the Indian Foreign Service and the various branches of the Indian Revenue Service together shape the working lives of a far larger number of selected candidates, and the trajectories they offer are not consolation prizes. They are distinct, powerful and in several respects more specialised vocations than the generalist administrative track most people imagine when they begin their preparation.
+
+![IPS, IFS, IRS Career Path: Salary and Growth - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 This guide exists because the silence around the non-administrative services does real damage. Aspirants spend two or three years preparing for an examination, clear it against terrifying odds, and then discover that they understand almost nothing about the service they have actually been allotted. They do not know how an Assistant Superintendent of Police becomes a Director General, how a probationary diplomat becomes an Ambassador, or how an Assistant Commissioner of Income Tax climbs toward the Central Board of Direct Taxes. They do not know what the pay looks like at entry, what it looks like after fifteen years, or what the daily texture of the work actually feels like. If you are serious about this examination, you owe it to yourself to understand the destinations before you rank your preferences, because the order you submit in your Detailed Application Form will quietly govern the next three decades of your life. For a foundational comparison of every service, the [complete guide to IAS, IPS, IFS and IRS](/2003/04/25/ias-ips-ifs-irs-comparison/) is the place to begin, and this article goes deeper into the three families of non-administrative service that the comparison only sketches.
 

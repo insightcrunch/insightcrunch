@@ -6,17 +6,17 @@ date: 2001-09-12
 categories: ["Industry"]
 tags: ["UPSC", "Service Allocation", "Cadre Allocation", "IAS Cadre", "UPSC Services", "Civil Services Allocation"]
 excerpt: "Understand UPSC service allocation: how rank, preference and vacancy decide your service and cadre, the zone based policy, and whether you can pick a state."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-09-12
+lang: en
 ---
-
 You have spent years preparing, cleared three brutal stages, watched your roll number appear on the final list, and felt that flood of disbelief and relief. Then a quieter question arrives, the one almost nobody prepared you for: which service will you actually join, and which corner of the country will become your professional home for the next three decades? UPSC service allocation is the machinery that answers that question, and for most successful candidates it remains a black box until the moment the allocation list is published. You hear stories of a friend who ranked higher getting a service they did not want, or someone from your own state being sent two thousand kilometres away, and the logic seems arbitrary. It is not arbitrary. It follows a precise, rule bound, almost mechanical procedure, and once you understand that procedure you can fill your preference form with strategic clarity instead of anxious guesswork.
 
 This guide exists because the gap between clearing the examination and joining your posting is filled with consequential decisions that aspirants make blindly. The preference form you submit, often called the Detailed Application Form stage two, locks in choices that the appointing authority will honour to the letter. A candidate who ranks well but orders the form carelessly can end up in a service that does not match their temperament or in a state far from family for reasons that were entirely within their control to influence. Understanding how rank interacts with preference, how vacancies and reservation rosters shape the outcome, and how the cadre system actually distributes officers across the federation is the difference between accepting your fate and authoring it.
 
-![UPSC Service Allocation Cadre Service and Post - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Service Allocation Cadre Service and Post - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 <!--more-->
 

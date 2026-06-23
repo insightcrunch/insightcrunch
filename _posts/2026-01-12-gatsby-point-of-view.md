@@ -6,15 +6,15 @@ date: 2026-01-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The narrative point of view in The Great Gatsby is Fitzgerald's central craft choice, routing the whole novel through a witness who never sees Gatsby plain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-01-12
+lang: en
 ---
-
 Most readers can name the narrator of The Great Gatsby within a sentence and then stop, as if naming were the same as understanding. The narrative point of view in The Great Gatsby is not a label to memorize and move past; it is the single decision from which almost every other effect in the novel descends. Fitzgerald chose to tell a story about a man named Gatsby without ever letting us inside that man, routing the whole account through a bystander who watches, half understands, and reconstructs. The result is a book whose famous mystery is not an accident of mood but a product of engineering. Treat the perspective as the machine that builds the novel, and the green light, the parties, the silences, and the elegiac last page all begin to make a different kind of sense.
 
-![The narrative point of view in The Great Gatsby routes the whole story through Nick Carraway's first-person, peripheral, retrospective vantage.](/assets/images/blog/blog-01.webp)
+![The narrative point of view in The Great Gatsby routes the whole story through Nick Carraway's first-person, peripheral, retrospective vantage.](/assets/images/blog/blog-21.webp)
 
 This is the pillar article on the novel's perspective as a craft choice, and it owns the whole treatment. The facets branch from here: the specific question of [why Fitzgerald chose a first-person narrator](/2026/01/19/gatsby-first-person-choice/), the technique of [the unreliable narrator](/2026/01/26/gatsby-unreliable-narrator/), and the architecture of [frame narrative and retrospection](/2026/02/02/gatsby-frame-narrative/). Those articles drill into parts. This one assembles the whole, and it keeps a strict distinction in view throughout: analyzing the perspective as a built effect is a different task from asking whether [Nick Carraway is a reliable narrator](/2023/06/12/nick-carraway-reliable-narrator/) as a person. The character study weighs the man. This article reads the technique.
 

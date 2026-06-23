@@ -6,13 +6,15 @@ date: 2001-09-17
 categories: ["Industry"]
 tags: ["UPSC", "LBSNAA", "IAS Training", "Civil Services", "IAS Probation", "Foundation Course"]
 excerpt: "IAS training at LBSNAA explained: Foundation Course, Phase 1 and Phase 2 academics, the one-year district stint, and what life as a probationer feels like."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-09-17
+lang: en
 ---
-
 IAS training at LBSNAA is the part of the civil services journey that almost no aspirant prepares for, because the entire preparation machine is built to deliver you to a rank in the final merit list and then falls silent about what happens next. Everyone studies for the examination. Almost nobody studies what the examination delivers them into. The truth is that clearing the Union Public Service Commission examination is not the end of anything. It is an admission ticket to a two-year apprenticeship at the Lal Bahadur Shastri National Academy of Administration in Mussoorie, a residential training institution perched in the lower Himalayas that has shaped almost every senior administrator India has produced since the 1950s. The rank you earn after the [final merit list](/2003/04/29/upsc-result-merit-list/) is published opens the gate. LBSNAA is what lies on the other side of that gate, and it is nothing like what you imagined while you were memorising polity and revising answer writing.
+
+![IAS Training at LBSNAA: Life After Clearing UPSC - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 This guide walks through the entire arc of training, from the moment the joining letter arrives in your inbox to the day you finally take charge of your first independent posting. It covers the four-month Foundation Course where officers of all the central services live and learn together, the professional Phase 1 training specific to the Indian Administrative Service, the long and formative year of district training in your allotted cadre, and the Phase 2 return to Mussoorie that ties the whole experience together. More than the structure, this guide tries to convey what the experience actually feels like from the inside, because the academic timetable tells you almost nothing about the human reality of being thrown into a cohort of the country's most driven young people, stripped of your old identity, and slowly rebuilt into a public servant. If you are still on the preparation side of this journey, understanding where it leads can sharpen your motivation in ways that another revision cycle never will.
 

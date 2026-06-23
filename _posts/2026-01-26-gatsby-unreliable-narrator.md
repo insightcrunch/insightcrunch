@@ -6,15 +6,15 @@ date: 2026-01-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The unreliable narrator in The Great Gatsby is engineered, not accidental. See how Fitzgerald builds Nick's bias, gaps, and contradictions into craft."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-01-26
+lang: en
 ---
-
 The unreliable narrator in The Great Gatsby is one of the most misunderstood machines in American fiction, and the misunderstanding costs students grades and costs general readers the deeper book. Most people who talk about Nick Carraway treat his unreliability as a verdict to be reached, a courtroom question with a yes or a no at the end: did Nick lie, is Nick a hypocrite, can we trust him. That is a question about Nick the person, and it is a fine question, but it is not the craft question, and confusing the two is where almost every essay on this topic goes wrong. The craft question is different and more interesting. It asks how Fitzgerald builds and signals the unreliability, what tools he uses to make a reader doubt the very voice telling the story, and what effect that engineered doubt produces on the page. Unreliability in this novel is not a flaw the author failed to iron out. It is a designed instrument, tuned with care, and learning to hear how it works changes the whole experience of reading.
 
-![A 1920s figure recounting a story from memory, suggesting the retrospective and selective nature of narration](/assets/images/blog/blog-01.webp)
+![A 1920s figure recounting a story from memory, suggesting the retrospective and selective nature of narration](/assets/images/blog/blog-100.webp)
 
 This article treats unreliable narration as a technique, a piece of literary engineering, rather than as a moral indictment of the man who narrates. It owns the device. The companion piece on whether Nick is finally a reliable or untrustworthy human being lives in his [character study on reliability](/2023/06/12/nick-carraway-reliable-narrator/), and the broader architecture of how the book is told, the first person, the peripheral position, the backward vantage, lives in the [point of view master guide](/2026/01/12/gatsby-point-of-view/). Here the work is mechanical in the best sense. We are going to take the technique apart, name each signal Fitzgerald plants, watch each one operate in a specific passage, and show how the parts combine into a single deliberate effect that is the source of the novel's strange durability: the reader is made to follow one account of events while quietly correcting it, to believe and to doubt in the same breath. That is the technique. That is what this article is about.
 

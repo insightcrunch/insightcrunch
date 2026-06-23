@@ -6,19 +6,19 @@ date: 2001-08-30
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Reserve List", "UPSC Result", "UPSC Merit List", "Civil Services Examination", "UPSC Waiting List"]
 excerpt: "Understand the UPSC reserve list: what triggers it, how long it stays valid, and your genuine chances of being called from the standby waiting roll today."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-08-30
+lang: en
 ---
-
 You opened the final result late at night, scrolled through the recommended candidates with your heart pounding, and your roll number was not there. Then someone in a forum mentioned the UPSC reserve list, and a small, stubborn flame of hope flickered back to life. Maybe you are still in the game. Maybe a few candidates ahead of you will not join, a few vacancies will open up, and the Commission will reach down the order of merit and pull your name into the light. If you have spent the days since the result refreshing every website and decoding every rumour, this guide is written for you, and it will give you the clear, unsentimental picture you have been searching for.
 
 The reserve list is one of the least understood mechanisms in the entire Civil Services Examination process. Aspirants treat it like a lottery ticket, coaching circles treat it like folklore, and the gap between what people believe and what actually happens is enormous. Some candidates pin their entire future on it and stop preparing for the next attempt, which is often a mistake. Others dismiss it entirely and miss the genuine, if narrow, opportunity it represents. The truth sits in between, and understanding exactly how this supplementary roll is built, what activates it, how long it lives, and what your realistic odds are will let you make calm, rational decisions at a time when calm is in short supply.
 
 By the end of this article you will know precisely what the reserve list is, why the Union Public Service Commission maintains one, what triggers a candidate to be called from it, how the validity window works, how category-wise rolls operate, how service allocation interacts with late recommendations, and what the historical activation patterns suggest about your probability of being summoned. We will also bust the persistent myths, walk through the strategic decision of whether to reapply while waiting, and end with a concrete action plan for anyone sitting just below the line.
 
-![UPSC Reserve List explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Reserve List explained - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 ## What Is the UPSC Reserve List and Why Does It Exist?
 

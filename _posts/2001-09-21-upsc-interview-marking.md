@@ -6,19 +6,19 @@ date: 2001-09-21
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Interview", "Personality Test", "Interview Marking", "Civil Services", "IAS Preparation"]
 excerpt: "UPSC interview marking explained: how the board scores the 275-mark personality test, what lifts you past 200, and why the safe-middle myth costs ranks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-09-21
+lang: en
 ---
-
 You have cleared Prelims against odds that humble most graduate examinations on earth. You have survived nine papers of Mains, written until your hand cramped, and emerged with a written total that put you on the list of roughly two thousand candidates called for the final stage. And now, after years of preparation, your entire candidature comes down to a single conversation lasting under half an hour, scored out of 275 marks by a panel of strangers you will meet exactly once. If the opacity of that final number keeps you awake, you are not alone, and understanding UPSC interview marking is the difference between walking into that room as a passive subject of evaluation and walking in as someone who knows exactly what the board is measuring and why.
 
 The personality test, as the Union Public Service Commission formally calls it, is the most misunderstood stage of the entire Civil Services Examination. Aspirants pour months into mock interviews and current affairs revision, yet almost none of them can explain how the marks are actually awarded, what the realistic distribution looks like, or why two candidates with nearly identical answers can finish thirty marks apart. The result is a swirl of folklore: that the board has already decided based on your file, that smooth talkers always win, that there is a safe band of marks you can aim for and coast into, that honesty is punished and confidence is everything. Most of this is wrong, and believing it actively damages your performance.
 
 This guide strips away the mythology and replaces it with a clear-eyed account of how UPSC interview marking functions in practice. You will learn how the 275 marks are conceptually distributed across the qualities the board evaluates, how panels actually arrive at a score during and after your conversation, where the bulk of candidates land and why, what genuinely pushes a score above the 200 mark that transforms a borderline rank into a comfortable one, and what quietly drags an otherwise strong candidate below 150. We will also dismantle the single most damaging belief in the entire interview ecosystem, the idea that there exists a safe middle you can target, because that myth costs more aspirants their preferred service than almost any other.
 
-![UPSC Interview Marking and Board Evaluation Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Interview Marking and Board Evaluation Explained - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 If you have not yet read the broader [UPSC interview preparation blueprint](/2001/11/01/upsc-interview-complete-guide/), this article works best as a companion to it. That pillar covers the full preparation arc; this one zooms into the question every serious aspirant eventually asks, which is how the number at the end of it all is decided. Treat what follows not as reassurance but as intelligence. The more precisely you understand the evaluation, the more deliberately you can prepare for it, and deliberate preparation is the only kind that survives contact with a real board.
 
