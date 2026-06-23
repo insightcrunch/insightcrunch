@@ -6,15 +6,15 @@ date: 2015-09-01
 categories: ["Travel"]
 tags: ["USA Travel", "Great Smoky Mountains", "National Parks", "Tennessee", "North Carolina", "Outdoors"]
 excerpt: "Plan a Great Smoky Mountains trip the right way: the parking-tag rule, the two-state layout, where to base, how many days you need, and what to see first."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2015-09-01
+lang: en
 ---
-
 Two facts surprise almost everyone who plans a first trip to the Great Smoky Mountains, and getting them straight before you book is the difference between a smooth week and a frustrating one. The first is about money: there is no entrance fee to drive into the park, yet you now need a paid parking tag to leave your car anywhere inside it, which means the budget math works nothing like the western parks where one fee covers everything. The second is about lodging: there are no hotels, lodges, or motels inside the park boundary, so you do not "stay in the Smokies" the way you stay at a lodge in Yellowstone. You base in a gateway town or a rented cabin on the edge and drive in each day. Hold those two ideas and the rest of the planning falls into place quickly.
 
-![Forested ridgelines of the Great Smoky Mountains fading into layered blue haze at sunrise](/assets/images/blog/blog-01.webp)
+![Forested ridgelines of the Great Smoky Mountains fading into layered blue haze at sunrise](/assets/images/blog/blog-20.webp)
 
 This guide treats the Smokies as what they actually are: a park-plus-gateway-town trip, half wilderness and half tourist corridor, straddling two states with one scenic road stitching them together. That framing is the thing most guides miss, and it is the thing that shapes every real decision you will make, from which airport to fly into, to which side of the crest to sleep on, to how you spend a rainy afternoon. The goal here is not to describe the scenery for its own sake. It is to hand you the handful of orientation decisions that turn an overwhelming map into a trip you can build in one sitting, and then point you to the specialist guides in this series when you are ready to go deeper on timing, basing, the signature drives, or a worked family itinerary.
 

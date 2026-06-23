@@ -6,17 +6,17 @@ date: 2001-11-19
 categories: ["Industry"]
 tags: ["UPSC", "Zoology Optional", "UPSC Optional", "Science Optional", "IAS Preparation", "UPSC Mains"]
 excerpt: "Complete UPSC Zoology optional guide: syllabus decode, Paper 1 and Paper 2 strategy, booklist, diagram scoring, GS overlap and a six month study plan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-11-19
+lang: en
 ---
-
 If you studied life sciences in college and you are now staring at a list of forty-eight optional subjects wondering whether the discipline you already love can carry you to a rank, the UPSC Zoology optional sits right at the centre of that anxiety. You have heard two contradictory things from seniors and coaching channels. One camp swears that science optionals are a graveyard where hard work disappears into stingy marking. The other camp insists that a well prepared candidate with a biology background can convert factual precision and clean diagrams into a stable, predictable score that arts optionals can only dream of. Both claims contain a grain of truth and a great deal of exaggeration, and the purpose of this guide is to separate the two with the kind of operational detail no coaching brochure will give you.
 
 Zoology is not a glamorous choice in the way Geography or Political Science and International Relations are, and that is precisely why the noise around it is thinner and the genuine information is harder to find. There are fewer test series, fewer toppers writing detailed blogs, and fewer mentors who can hand you a ready made strategy. That scarcity intimidates many capable aspirants into abandoning a subject they understand deeply in favour of a crowded elective they will spend a year struggling to comprehend. This article exists to make sure you never make that mistake out of ignorance. By the end you will know exactly what the syllabus demands, which books to read down to the chapter level, how the marking actually behaves, how the subject overlaps with the General Studies papers, and how to build answers that earn marks rather than merely fill pages.
 
-![UPSC Zoology Optional Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Zoology Optional Guide - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 Before you go further, anchor one idea firmly. An optional subject is not chosen the way you pick a favourite dish from a menu. It is chosen the way an engineer selects a load bearing material, by matching the properties of the option to the demands of the structure you are building. Your structure is a final rank, and the load is roughly five hundred marks split across two papers, plus the indirect benefit your elective gives to the rest of your preparation. Read this entire guide with that engineering mindset, and treat every section as a specification rather than a suggestion. If you are still at the stage of comparing electives rather than committing to one, you will get the most out of this piece by first working through the broader framework in our [guide to choosing the right UPSC optional subject](/2003/05/31/upsc-optional-subject-selection/), then returning here to test Zoology against your own background.
 

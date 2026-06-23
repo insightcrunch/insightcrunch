@@ -6,15 +6,15 @@ date: 2015-09-15
 categories: ["Travel"]
 tags: ["USA Travel", "Smoky Mountains", "Family Travel", "National Parks", "Itinerary", "Tennessee"]
 excerpt: "This Smoky Mountains family itinerary splits seven days between quiet park mornings and Pigeon Forge fun, with Cades Cove, waterfalls, and a Dollywood day."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2015-09-15
+lang: en
 ---
-
 A good Smoky Mountains family itinerary has to solve a problem that almost no other national park trip presents. Most parks ask you to plan around one thing: the wilderness, the trails, the wildlife, the views. The Great Smoky Mountains asks you to plan around two completely different vacations stacked on top of each other. On one side of the line you have the most visited national park in the country, full of black bears, cold streams, waterfall trails a six-year-old can manage, and a wide green valley where elk graze at dusk. A few miles down the road you have Pigeon Forge and Gatlinburg, where the same family can ride roller coasters, eat dinner in a barn full of singing cowboys, and spend a rainy afternoon indoors at Dollywood. The week works when you stop treating those two worlds as rivals and start sequencing them so each one gets the family at its best.
 
-![A family looking out over the layered blue ridges of the Great Smoky Mountains at golden hour](/assets/images/blog/blog-01.webp)
+![A family looking out over the layered blue ridges of the Great Smoky Mountains at golden hour](/assets/images/blog/blog-59.webp)
 
 That is the wager of this plan. Spend the quiet hours, the early mornings and the cooler parts of the day, inside the park where the crowds and the heat punish anyone who arrives late. Spend the afternoons and the rainy stretches in the attraction towns, where lines and indoor air conditioning are built for the middle of the day. Do that for seven days and you come home with a family that saw bears at dawn, hiked to two or three waterfalls, drove the high ridge to the Tennessee and North Carolina line, rode the rides, and never once melted down in a hot parking lot at noon. This is the half-park, half-theme-park rhythm, and once you see it you cannot unsee it.
 

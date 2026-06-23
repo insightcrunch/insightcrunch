@@ -6,13 +6,15 @@ date: 2025-10-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Owl Eyes", "Symbolism", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The owl-eyed man's glasses are Gatsby's sharpest small symbol: enormous lenses marking the one guest who truly sees in a whole world gone willfully blind."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-10-20
+lang: en
 ---
-
 There is a moment at Gatsby's first party when two wandering guests push open a door and find a stout, middle-aged stranger sitting drunk in the library, marvelling at the shelves. He wears enormous owl-eyed spectacles, and he has just made a discovery that no one else at the party has bothered to make. The books are real. The owl-eyed man's glasses are the smallest symbol in The Great Gatsby and one of the sharpest, because the object that sits on this minor character's nose is the novel's image for the thing almost nobody else in the book possesses: the capacity to actually see. In a story crowded with people who look without perceiving, who stare at surfaces and believe them, the comic spectacles on a forgotten guest become the lens through which Fitzgerald measures everyone's blindness.
+
+![The Owl-Eyed Man's Glasses - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 This article owns the owl-eyed man's glasses as an object symbol. It is not a study of the character himself, whose function, name-that-never-comes, and ghostly persistence across the novel are traced in the [owl-eyes character analysis](/2023/09/25/owl-eyes-character-analysis/). Nor is it a survey of the broader eyes-and-seeing motif, which threads through the whole book and belongs to its own [theme analysis of eyes and seeing](/2025/03/17/gatsby-eyes-seeing-motif/). The subject here is narrower and more precise: the spectacles themselves, that absurd, oversized pair of lenses, read as a symbol of genuine perception, comically magnified, in a world that has gone willfully blind.
 

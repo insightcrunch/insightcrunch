@@ -6,15 +6,15 @@ date: 2025-11-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "garden imagery", "party imagery", "symbolism", "Gatsby's parties", "literary analysis"]
 excerpt: "The garden and party imagery in Gatsby figures a paradise on hire, lush and blue for the night and cleared by morning, a manufactured Eden built to be lost."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2025-11-17
+lang: en
 ---
-
 There is a single sentence in the third chapter of The Great Gatsby that does almost all of the work people credit to the parties. Before a guest arrives, before the orchestra tunes, before Nick crosses the lawn, Fitzgerald writes that "in his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars." The garden and party imagery in Gatsby begins right there, in that phrase "blue gardens," and once you notice it you cannot stop noticing it. The grounds are not green and they are not merely decorated. They are blue, lit, and alive for one night, and the choice of word turns a piece of real estate into a symbol. This article is about that symbol: the lush, floral, manufactured paradise that Gatsby raises every weekend and lets fall to ruin by Monday.
 
-![The garden and party imagery in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The garden and party imagery in The Great Gatsby](/assets/images/blog/blog-02.webp)
 
 The reason the gardens matter so much, and the reason they deserve their own analysis apart from the parties, is that they carry an argument the parties alone do not. A party is an event. A garden is a place that is made, tended, and then cleared. When Fitzgerald builds Gatsby's most extravagant beauty out of flowers, fruit, and foliage, he is choosing the one kind of beauty that is grown rather than bought, and then he undermines that choice at every turn by showing how completely the beauty is hired, staged, and temporary. The result is a paradise on lease. Read the gardens closely and you read the whole novel's quarrel with the American dream in miniature, because the grounds promise an Eden that money can grow and the morning proves that money can only rent it.
 

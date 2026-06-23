@@ -6,12 +6,12 @@ date: 2001-10-23
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Interview", "DAF Analysis", "UPSC Personality Test", "IAS Interview", "Personal Questions", "Interview Preparation"]
 excerpt: "Master UPSC interview DAF analysis to predict hometown, education and work questions, and learn the honest but strategic principle that earns high marks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2001-10-23
+lang: en
 ---
-
 UPSC interview DAF analysis is the single most underrated preparation activity in the entire personality test, and the candidates who treat their Detailed Application Form as a casual administrative document rather than the literal script for half their interview are the ones who walk out of Dholpur House wondering why the board kept asking things they never anticipated. The board members sitting across from you have not read a dossier on your life. They have read your DAF. Every question about your hometown, your graduation subject, your service preference, your hobbies, the meaning of your name, and the choices you have made all flow from the two pages of information you yourself submitted. This is the quiet truth that separates the prepared candidate from the surprised one: you handed the board its question paper, and you can reconstruct most of it in advance if you know how to read your own form the way a board member reads it.
 
 Most aspirants spend the final months before the personality test cramming current affairs and revising their optional, which is reasonable, but they neglect the one document that determines the texture of the entire conversation. The interview is not a viva on the syllabus. It is a structured conversation built around who you are, and the DAF is the architecture of that conversation. When you understand that the board uses your form as a launchpad, you stop fearing the unknown and start engineering a predictable interview where eighty percent of the questions are ones you saw coming. The remaining twenty percent, the genuinely unpredictable current affairs and opinion questions, become manageable precisely because you are not also scrambling to answer basic questions about your own district or your own degree.
@@ -20,7 +20,7 @@ This guide walks you through the complete method of mining your DAF for likely q
 
 <!--more-->
 
-![UPSC Interview DAF Analysis and Personal Questions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Interview DAF Analysis and Personal Questions - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 ## What the DAF Actually Is and Why It Decides Your Interview
 

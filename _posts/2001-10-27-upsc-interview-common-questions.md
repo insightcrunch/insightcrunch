@@ -6,19 +6,19 @@ date: 2001-10-27
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Interview", "Interview Questions", "Personality Test", "IAS Preparation"]
 excerpt: "The most common UPSC interview questions decoded, with DAF, hobby, opinion and situational answer frameworks the board actually rewards in the real room."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-10-27
+lang: en
 ---
-
 You have cleared Prelims. You have survived the marathon of Mains. Now a letter arrives summoning you to a panelled room at Dholpur House in New Delhi, where five or six accomplished strangers will spend roughly half an hour deciding whether you carry the temperament to govern a district. Almost every aspirant who reaches this stage makes the same quiet mistake. They treat the UPSC interview questions as a quiz to be crammed, hunt for "model answers" on Telegram, memorise them word for word, and then freeze the moment a board member tilts the question two degrees away from the script they rehearsed. The personality test does not reward recitation. It rewards a calm, thinking human being who can hold an opinion, defend it without arrogance, change it when shown a better argument, and stay courteous while everything inside is racing.
 
 This article is the most thorough breakdown you will find of what the UPSC board actually asks, why they ask it, and how to construct responses that sound like you rather than like a coaching handout. We will categorise every major question type, hobby-based, DAF-based, opinion-based, situational, and current affairs, give you repeatable answer frameworks for each, and teach you a technique called structured spontaneity that lets you sound prepared and natural at the same time. The goal is not to hand you answers. The goal is to hand you a method so robust that you can walk into any board, face any panel, and respond to a question you have never seen before with composure.
 
 If you have not yet read the broader [UPSC interview complete guide](/2001/11/01/upsc-interview-complete-guide/), pair this piece with it. That article covers board dynamics, scoring, and the full preparation arc; this one zooms in on the single thing that decides your transcript, the questions and your answers. And if you are at the very start of your civil services journey rather than the end, the [complete UPSC preparation guide](/2003/07/24/upsc-civil-services-complete-guide/) maps the entire road from Prelims to allocation.
 
-![UPSC interview questions and answer frameworks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC interview questions and answer frameworks - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 ## Why the Personality Test Is Not a Knowledge Test
 

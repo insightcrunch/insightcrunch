@@ -6,19 +6,19 @@ date: 2001-11-14
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Chemistry Optional", "Science Optional", "IAS Preparation", "Answer Writing"]
 excerpt: "UPSC Chemistry optional complete guide covering Paper 1 and 2 syllabus, physical inorganic organic chemistry, book list and a 300 plus scoring strategy"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-11-14
+lang: en
 ---
-
 If you graduated with a degree in chemical science and you keep hearing that only Geography, History, PSIR, and Sociology are "worth taking" as optionals, the UPSC Chemistry optional probably feels like a path nobody around you is willing to endorse. You loved the subject through your BSc or MSc, you can still recall reaction mechanisms and thermodynamic derivations with comfort, yet every coaching counsellor nudges you toward a humanities optional because that is where the crowd and the coaching revenue sit. The result is a quiet anxiety: am I throwing away an attempt by choosing a science optional that few aspirants take and even fewer talk about openly?
 
 This guide exists to replace that anxiety with a clear, honest, data-grounded decision. The Chemistry optional is neither the secret shortcut some YouTube channels pretend it is, nor the suicide mission that risk-averse mentors imply. It is a precise, technically demanding optional that rewards a specific kind of aspirant extraordinarily well and punishes the wrong aspirant just as decisively. The difference between those two outcomes is almost never intelligence. It is the match between your background and the subject, the discipline of your revision, and whether you treat this as a science paper to be mastered rather than a memory load to be crammed.
 
 By the end of this guide you will understand who should genuinely consider this optional, the complete Paper 1 and Paper 2 syllabus architecture, the realistic mark ranges and what drives them, the book and source hierarchy that actually works, the answer writing method for a quantitative science paper, the previous year question patterns, a month-by-month timeline, and the mistakes that quietly sink otherwise capable candidates. The wider question of how to weigh any optional against your profile sits in the [UPSC optional subject selection guide](/2003/05/31/upsc-optional-subject-selection/), and the foundational map of the entire examination sits in the [complete UPSC Civil Services guide](/2003/07/24/upsc-civil-services-complete-guide/).
 
-![UPSC Chemistry Optional Complete Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Chemistry Optional Complete Guide - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 <!--more-->
 

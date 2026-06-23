@@ -6,17 +6,17 @@ date: 2001-11-01
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Interview", "Personality Test", "IAS Preparation", "Interview Strategy", "Civil Services"]
 excerpt: "UPSC interview guide covering DAF preparation, board dynamics, body language, mock practice, and the confidence-knowledge-honesty 200-plus score formula."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-11-01
+lang: en
 ---
-
 You have crossed the two hardest filters in the toughest selection process India runs. Prelims eliminated more than ninety eight out of every hundred who sat the paper. Mains thinned the survivors again, leaving roughly two candidates competing for every final seat. And now, after years of solitary study, the final 275 marks of the UPSC interview will decide not only whether your name appears on the list but where it appears, which means whether you become an IAS officer in your home cadre, an IPS officer, an IRS officer, or someone who tries again next cycle. The cruelty of this stage is that it rewards a skill set almost nobody spent the previous years building. You trained to write. Now you must speak. You trained to be comprehensive. Now you must be concise. You trained in silence. Now you sit before five accomplished strangers who will form a judgment about your character in under thirty minutes.
 
 This guide treats the personality test as what it actually is: a structured, learnable, high-stakes conversation that you can prepare for with the same rigour you brought to [the rest of the UPSC journey](/2003/07/24/upsc-civil-services-complete-guide/). Most aspirants walk into the board room having read a hundred current affairs compilations and zero pages on how a board actually thinks. They confuse the personality test with a quiz, treat it like an oral examination, and then wonder why a candidate with weaker knowledge scored forty marks higher. The difference is almost never raw information. It is presence, structure, honesty, and the ability to think out loud under pressure without losing composure. Those four things can be built. This article shows you exactly how, week by week, question category by question category, so that you arrive at the Dholpur House gates as the calmest, clearest, most genuinely interesting version of yourself.
 
-![UPSC interview preparation and personality test strategy guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC interview preparation and personality test strategy guide - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The personality test carries 275 marks against the 1750 marks of the written Mains examination. On paper that looks like a modest fraction, only about thirteen percent of the total. In practice it is the single most volatile and decisive component of the entire selection. Written papers cluster tightly: a strong candidate and an average candidate might be separated by sixty or seventy marks across nine papers spanning many hours of writing. The board, by contrast, can hand one candidate 220 and another 90 after the same half hour. That swing of 130 marks is larger than the gap most candidates build across the entire written exam. Understanding this volatility is the first strategic insight: the personality test is where ranks are made and unmade, and treating it as a formality you can wing after a few mock sessions is the most expensive mistake in the final lap.
 

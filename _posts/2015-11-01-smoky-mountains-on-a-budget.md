@@ -6,15 +6,15 @@ date: 2015-11-01
 categories: ["Travel"]
 tags: ["USA Travel", "Smoky Mountains", "Budget Travel", "National Parks", "Where to Stay", "Family Travel"]
 excerpt: "The Smoky Mountains on a budget: with no entrance fee and free hiking, see what a trip really costs, where the money goes, and how to spend far less of it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2015-11-01
+lang: en
 ---
-
 Plan the Smoky Mountains on a budget and the first surprise is how little the mountains themselves ask of you. A weekend for two can run lean or loose depending on almost nothing to do with the park and almost everything to do with the choices you make in the gateway towns: a couple on a tight shoestring can sleep, eat, and hike for a modest daily figure, while the same two people can triple that number before they have left the parking lot, just by booking a cabin with a hot tub and buying a stack of attraction tickets. The park does not set that range. You do. The single most useful thing to understand before you price anything is that the Great Smoky Mountains National Park is free to enter and full of things that cost nothing, so the entire budget question reduces to two decisions: where you sleep and how many paid attractions you bolt onto the trip.
 
-![The Smoky Mountains on a budget, a complete trip cost guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Smoky Mountains on a budget, a complete trip cost guide - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 That is the whole game, and it is good news for anyone watching the money. Most big national parks charge a per-vehicle entrance fee and then surround you with concessioner lodges and in-park restaurants that price themselves accordingly. The Smokies do neither at the gate. You can drive in, hike all day, watch a black bear cross a meadow, picnic by a river, and drive out without spending a dollar inside the boundary. What you spend, you spend on the edges: a bed in Gatlinburg, Pigeon Forge, Sevierville, Townsend, or on the quieter North Carolina side, a tank of gas, groceries or restaurant meals, and whatever slice of the gateway-town carnival you choose to buy. Get those edges right and the Smokies become one of the lowest-cost mountain trips in the country. Get them wrong and you will wonder where the money went.
 

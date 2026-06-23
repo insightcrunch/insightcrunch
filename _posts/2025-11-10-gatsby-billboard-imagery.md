@@ -3,13 +3,15 @@ title: "The Billboard and Advertising Imagery in The Great Gatsby"
 slug: gatsby-billboard-imagery
 date: 2025-11-10
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "diana-patel"
 image: /assets/images/blog/blog-01.webp
 excerpt: "The billboard and advertising imagery in The Great Gatsby turns the whole land into salesmanship, with the Eckleburg sign crowning a world put up for sale."
 reading_time: 39
+lang: en
 ---
-
 There is a moment, early in The Great Gatsby, when the bleakest patch of ground in the whole novel is presided over not by a god, not by a person, and not by nature, but by a sales pitch. Above the valley of ashes hang the painted eyes of a vanished eye doctor, an old hoarding left to weather over a wasteland. A reader who slows down here notices something strange. The one thing watching over this ruined place is leftover salesmanship. That detail is the doorway into a wider pattern that runs through the book, a pattern of painted signs, printed pages, brand names, and sales pitches that quietly turn the world of the novel into a place for sale.
+
+![The Billboard and Advertising Imagery in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 This article takes that pattern as its subject. It treats the billboard and advertising imagery as a single strand of figures, a recurring way that Fitzgerald paints commerce onto the landscape until even the sky seems rented out to a sign. The painted oculist hoarding is the anchor of that strand, the most famous image of the set, but it is not the whole of it. Once you start looking, the sales pitch is everywhere: in the magazines a character buys at a newsstand, in the placard a woman stares at to avoid a man's gaze, in the way one lover is compared to a picture in an advertisement, in the brand names that drift across the train windows. Read together, these figures make an argument about the age the book describes.
 

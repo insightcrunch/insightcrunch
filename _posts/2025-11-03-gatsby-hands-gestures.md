@@ -6,17 +6,17 @@ date: 2025-11-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Hands and Gestures", "Symbolism", "Body Language", "Imagery", "Leisure"]
 excerpt: "Hands and gestures in Great Gatsby turn desire into motion: a guide to the reaching, grasping, and careless touches that drive the novel's deep symbolism."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-11-03
+lang: en
 ---
-
 The first time Nick sees the man whose name the book carries, Gatsby is not speaking, dancing, or hosting. He is reaching. Standing alone on his lawn at the edge of the bay, he "stretched out his arms toward the dark water in a curious way," and from across the grass Nick "could have sworn he was trembling." That single motion, arms extended toward something Nick cannot yet identify, is the most important piece of body language in the novel, and it is where any honest study of hands and gestures in Great Gatsby has to begin. Before we know what Gatsby wants, we watch him want it with his whole body.
 
 This article tracks that strand of physical imagery from the opening reach to the final careless shrug. Fitzgerald rarely tells us what a character feels in a flat sentence of explanation. Instead he gives us a hand, an arm, a clenched fist, a touch withheld or a touch struck, and lets the body carry the meaning the dialogue refuses to state. Reading those motions closely is one of the most rewarding things a student can do with this book, because the hands keep their own honest record even when the mouths are lying.
 
-![Hands and gestures imagery in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Hands and gestures imagery in The Great Gatsby](/assets/images/blog/blog-60.webp)
 
 ## What do hands and gestures in Great Gatsby symbolize?
 

@@ -6,19 +6,19 @@ date: 2001-10-14
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Interview", "Optional Subject", "Personality Test", "Interview Preparation", "UPSC Optional"]
 excerpt: "UPSC interview optional subject questions decoded: how boards test passion and applied knowledge, going beyond the syllabus, and the common traps to avoid."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2001-10-14
+lang: en
 ---
-
 You have spent eighteen months living inside your optional subject. You can recite definitions in your sleep, draw the diagrams from memory, and structure a full length answer in your head while standing in a queue. Then you walk into the interview room, a board member glances at your Detailed Application Form, sees your chosen subject, and asks a question so simple, so basic, so far from the syllabus that your mind goes completely blank. This is the strange paradox of UPSC interview optional subject questions: the board rarely asks what you studied hardest, and almost never rewards the candidate who recites the most. It tests something the written examination could never capture, namely whether your knowledge is alive, whether it connects to the world, and whether you genuinely care about the discipline you spent two years defending across two papers worth five hundred marks.
 
 Most aspirants prepare for the personality test as though it were a viva extension of the Mains optional paper. They revise theories, memorise scholars, and rehearse textbook answers. Then they discover, often painfully, that the board is not interested in a lecture. A panel chairperson who has interviewed candidates for two decades can tell within ninety seconds whether your relationship with your subject is one of love or one of convenience, whether you chose it for genuine interest or merely because a coaching brochure called it scoring. That ninety second judgement shapes the entire conversation that follows, and it often shapes the marks that land on the score sheet at the end.
 
 This guide treats the optional subject segment of the interview as a distinct skill, separate from your written preparation and separate from your general current affairs readiness. We will decode why the board asks about your specialisation at all, what it is actually measuring when it does, how the questioning differs fundamentally from the Mains examination you have already cleared, and how to prepare in the six weeks before your interview so that this segment becomes the most comfortable part of your conversation rather than the most feared.
 
-![UPSC interview optional subject questions strategy guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC interview optional subject questions strategy guide - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 <!--more-->
 

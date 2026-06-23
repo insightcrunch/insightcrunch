@@ -6,15 +6,15 @@ date: 2025-09-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Moon and Stars", "Symbolism", "Close Reading", "American Literature"]
 excerpt: "The moon and stars in The Great Gatsby lend Gatsby's longing a romantic glow while measuring it against an indifferent cosmos that quietly dwarfs the dream."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-09-22
+lang: en
 ---
-
 The first time Nick Carraway sees his neighbor alone, the man is looking up. Gatsby stands on his own lawn with his hands in his pockets, "regarding the silver pepper of the stars," and that small gesture sets the terms for everything the moon and stars in The Great Gatsby will come to mean. A man who has built a mansion, bought a fortune, and staged a city's worth of parties is, in his single unguarded moment, gazing at something he cannot buy and cannot reach. The celestial imagery enters the novel not as decoration but as the measure of a longing too large for the world that holds it.
 
-![The moon and stars over Gatsby's house, celestial imagery in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The moon and stars over Gatsby's house, celestial imagery in The Great Gatsby](/assets/images/blog/blog-57.webp)
 
 Readers tend to file the night sky under atmosphere. The parties happen under the moon, the lovers meet under the stars, and the reader moves on to the green light or the eyes of Eckleburg, the symbols that announce themselves. The celestial strand is quieter, and that quietness is exactly why it is worth tracking. The moon and the stars do two things at once that no other image in the book manages together. They lend the novel's hopes a romantic glow, the silver light that makes a party look enchanted and a kiss feel cosmic, and in the same instant they set those hopes against a vastness that does not care whether any of it succeeds. The heavens both ennoble Gatsby's striving and quietly tell you how small it is.
 

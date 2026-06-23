@@ -3,14 +3,16 @@ title: "Heat and Temperature Imagery in Gatsby"
 slug: heat-imagery-great-gatsby
 date: 2025-09-29
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "amanda-ross"
 image: /assets/images/blog/blog-01.webp
 excerpt: "Heat and temperature imagery in Gatsby works as a pressure gauge, the swelter rising in lockstep with the tension that finally boils over on the hottest day."
 reading_time: 39
 tags: ["The Great Gatsby", "Symbolism", "Imagery", "Close Reading", "Chapter 7", "American Literature"]
+lang: en
 ---
-
 The most violent hour in Fitzgerald's novel arrives wrapped in weather. Before a single accusation is thrown in the Plaza Hotel, before Tom and Gatsby square off over Daisy, the book tells us the temperature. "The next day was broiling, almost the last, certainly the warmest, of the summer," Nick reports, and that sentence is doing far more than fixing a date on the calendar. It is setting a gauge. By the time the characters reach that stifling sitting room, the air has been climbing toward this exact reading for chapters, and the reader who has been watching the mercury knows that something is about to give.
+
+![Heat and Temperature Imagery in Gatsby - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 That is the claim this article defends, and it is worth naming plainly at the start: in The Great Gatsby, physical temperature functions as a pressure gauge of feeling. The warmth of the early summer is comfortable, almost lazy. As the plot tightens, the swelter rises, and the novel's hottest hour coincides with its emotional explosion. The boiling air of the Plaza is not a coincidence of season; it is the characters' suppressed passion and rage rendered as climate. The room is unbearable because the people in it have become unbearable to one another. Read this way, heat and temperature imagery in Gatsby is not background. It is one of the instruments the novel uses to make us feel the build long before the characters say what they feel.
 

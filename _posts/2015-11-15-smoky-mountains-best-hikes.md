@@ -6,15 +6,15 @@ date: 2015-11-15
 categories: ["Travel"]
 tags: ["USA Travel", "Smoky Mountains", "National Parks", "Hiking", "Outdoors"]
 excerpt: "The best Smoky Mountains hikes sorted by difficulty, from easy waterfall walks to the open balds and the long climb to Mount LeConte, with a matching table."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2015-11-15
+lang: en
 ---
-
 Choosing among the best Smoky Mountains hikes is less about hunting down a single famous trail and more about deciding what you actually came to see. This is a forested park, the most visited national park in the country, and the thing that surprises first-time hikers is how much of it is green. You walk for an hour under a closed canopy of oak, maple, hemlock, and tulip poplar, and the view ahead is more forest. That is not a flaw in your trail choice. It is the character of the place. The Great Smoky Mountains are one of the wettest and most thickly wooded ranges in the eastern half of the continent, and the trails reflect it. So the first decision you make before you lace your boots is the one that matters most, and it has nothing to do with mileage or elevation. It is this: are you here for a waterfall, or are you here for a view?
 
-![A misty ridgeline of forested mountains in the Great Smoky Mountains at dawn](/assets/images/blog/blog-01.webp)
+![A misty ridgeline of forested mountains in the Great Smoky Mountains at dawn](/assets/images/blog/blog-108.webp)
 
 That single question sorts almost every hike in the park. The Smokies hand you two kinds of payoff, and they rarely overlap. The waterfalls are everywhere, because all that rain has to go somewhere, and the trails that chase them range from a paved stroll to a brutal climb that strands people who underestimated it. The open views, by contrast, are rare and precious, because the forest closes overhead on nearly every ridge. The few places where the trees thin out, the grassy balds and the high rocky outcrops, are the exceptions worth working for. Once you know which of the two you want, the trail picks itself, and the rest of this guide is really a sorting exercise to get you to the right trailhead for your legs, your time, and your goal.
 

@@ -6,15 +6,15 @@ date: 2025-10-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Symbolism", "Jay Gatsby", "Close Reading", "Themes", "F. Scott Fitzgerald"]
 excerpt: "Faces and smiles in The Great Gatsby form a symbol of the performed surface, and Gatsby's reassuring smile is the novel's most calculated instrument of all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 41
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-10-27
+lang: en
 ---
-
 A reader meets Jay Gatsby properly not through his mansion, his money, or his rumored past, but through a single expression that lasts a sentence and then disappears. Nick has been talking to a stranger at a party without knowing it is the host, and when the man finally smiles at him, the whole novel briefly reorganizes itself around that look. Faces and smiles in The Great Gatsby are not decoration; they are the surfaces on which the book stages its central transaction, the moment when one person offers another exactly the understanding that person most wants, and asks for trust in return. The smile Gatsby gives Nick is the most famous expression in American fiction, and it is famous precisely because it is doing something almost no real smile does. It promises total comprehension, and it is also, the same sentence reveals, a performance with a stranger's face waiting underneath.
 
-![Faces and Smiles in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Faces and Smiles in The Great Gatsby](/assets/images/blog/blog-60.webp)
 
 This article treats the faces and the smiles of the novel as a single imagery strand and reads it as a symbol, not as a collection of nice descriptive touches. The claim it defends is specific: the face in Gatsby is the perfect instrument of seduction because it works by reflecting the watcher back to the watcher, and the smile that seems most generous is the most calculated tool in the book. To get there, the article tracks the imagery from its first and most famous appearance through every meaningful reappearance, separates the literal expression from its figurative labor, watches the meaning shift as the novel darkens, and then defends a single best reading against the easy misreading that Gatsby is simply charming. Along the way it builds a catalogue of the novel's key faces so a reader can see the whole pattern at once, and it closes with a method for writing about the imagery in an essay without flattening it into a one-line equivalence.
 
