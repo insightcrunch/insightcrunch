@@ -6,17 +6,17 @@ date: 2001-09-26
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Interview", "Mock Interview", "Personality Test", "Interview Preparation", "Civil Services"]
 excerpt: "UPSC mock interview strategy: how many mocks to take, where to find quality panels, video self-review, and how to process feedback without losing your nerve."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-09-26
+lang: en
 ---
-
 The UPSC mock interview is the single rehearsal that separates candidates who walk into the real personality test composed and articulate from those who freeze, ramble, or contradict themselves under pressure. You have cleared Prelims and Mains, which means your knowledge is no longer in question; what the board examines now is something you have never been formally tested on across your entire academic life, namely how you think aloud, how you hold a position under challenge, and how you carry yourself when a stranger of considerable seniority disagrees with you. Most aspirants treat the practice session as a casual checkbox, attend two or three rushed panels, collect contradictory feedback, and arrive at Dholpur House more confused than confident. This guide rebuilds that approach from the ground up, treating the rehearsal process as a structured training programme rather than a last-minute formality.
 
 What makes the personality test genuinely difficult is that there is no syllabus to finish and no answer key to verify against. A candidate can spend a thousand hours mastering polity and still deliver a weak performance in the room because nobody ever told them that their habit of looking at the ceiling while thinking reads as evasiveness, or that their tendency to begin every answer with "Basically, sir" signals nervousness. These are not knowledge gaps; they are behavioural patterns invisible to the person who carries them. The only mechanism that surfaces them is repeated, observed practice with honest reviewers, and that is precisely what a well-run rehearsal cycle provides.
 
-![UPSC mock interview strategy and practice guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC mock interview strategy and practice guide - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 <!--more-->
 

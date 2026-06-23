@@ -6,13 +6,15 @@ date: 2025-12-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "mirrors and reflection", "symbolism", "imagery", "self-regard", "literary analysis"]
 excerpt: "Mirrors and reflection in great gatsby figure a self-regarding world that mistakes its polished surface for substance, returning only the watcher's own face."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2025-12-01
+lang: en
 ---
-
 A woman stands with her back to the room, fixing her hair in the glass, talking past the people behind her to the version of herself in front. That small gesture, repeated by Daisy in the overheated suite at the Plaza, is the clearest single picture of how mirrors and reflection in great gatsby do their quiet work. The novel is crowded with polished surfaces that hand their watchers an image and call it enough, and tracking those surfaces is one of the most rewarding exercises in all of great gatsby symbolism. This article owns the reflection strand: where the looking-glasses sit, what the doublings between characters expose, and why a world so absorbed in watching itself never quite manages to look beneath the shine.
+
+![Mirrors and Reflection in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 ## What do mirrors and reflection symbolize in The Great Gatsby?
 

@@ -920,6 +920,7 @@ gatsby-character-introductions: emily-reed
 gatsby-character-motivation: victoria-stone
 gatsby-character-names-meaning: claire-bennett
 gatsby-critique-american-dream: amanda-ross
+gatsby-distance-reaching-imagery: diana-patel
 gatsby-drinking-motif: amanda-ross
 gatsby-east-and-west: amanda-ross
 gatsby-eyes-seeing-motif: chloe-martin
@@ -935,6 +936,7 @@ gatsby-lists-motif: sarah-mitchell
 gatsby-mansion-symbol: rachel-foster
 gatsby-men-compared: megan-clark
 gatsby-minor-characters-mapped: claire-bennett
+gatsby-mirrors-reflection: lauren-hayes
 gatsby-misunderstood-characters: emily-reed
 gatsby-music-motif: chloe-martin
 gatsby-old-vs-new-money-characters: olivia-grant
@@ -2153,6 +2155,8 @@ smoky-mountains-best-time-to-visit: nandini-sen
 smoky-mountains-family-7-day-itinerary: nandini-sen
 smoky-mountains-hidden-gems: amit-chatterjee
 smoky-mountains-on-a-budget: nandini-sen
+smoky-mountains-wildlife-guide: rahul-banerjee
+smoky-mountains-with-kids: rahul-banerjee
 snow-white-first-animated-feature-making: amanda-ross
 snowball-character-analysis-animal-farm: elena-wright
 snp_session-the-data-analysts-dream-table-of-oracle-data-integrator: jason-mckenzie
@@ -2607,12 +2611,14 @@ upsc-hindi-medium-success: deepika-joshi
 upsc-history-optional-complete-guide: anita-das
 upsc-history-optional-paper-1: deepika-joshi
 upsc-history-optional-paper-2: kavita-sharma
+upsc-interview-boards: deepika-joshi
 upsc-interview-body-language: kavita-sharma
 upsc-interview-common-questions: deepika-joshi
 upsc-interview-complete-guide: deepika-joshi
 upsc-interview-current-affairs: anita-das
 upsc-interview-daf-analysis: kavita-sharma
 upsc-interview-optional-questions: kavita-sharma
+upsc-interview-pressure-questions: deepika-joshi
 upsc-ki-taiyari-kaise-karein: anita-das
 upsc-ki-tayari-kaise-shuru-karein: kavita-sharma
 upsc-law-optional-guide: deepika-joshi
@@ -2642,6 +2648,7 @@ upsc-mathematics-optional-guide: deepika-joshi
 upsc-mechanical-engineering-optional: kavita-sharma
 upsc-medical-science-optional: kavita-sharma
 upsc-mental-health: deepika-joshi
+upsc-mock-interview-strategy: deepika-joshi
 upsc-notification-dates-vacancies: deepika-joshi
 upsc-optional-answer-writing: anita-das
 upsc-optional-comparison-compact-3: kavita-sharma
@@ -2778,6 +2785,7 @@ whats-my-tcs-college-grade: rajan-kumar
 when-did-shakespeare-write-romeo-and-juliet: rachel-foster
 when-harry-met-sally-romcom-template: rachel-foster
 where-to-stay-grand-canyon: amit-chatterjee
+where-to-stay-smoky-mountains: nandini-sen
 where-to-stay-yellowstone: rahul-banerjee
 where-to-stay-yosemite: amit-chatterjee
 where-to-stay-zion: rahul-banerjee

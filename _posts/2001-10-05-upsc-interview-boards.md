@@ -6,19 +6,19 @@ date: 2001-10-05
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Interview", "Interview Board", "Personality Test", "IAS Interview", "Interview Strategy"]
 excerpt: "UPSC interview board styles decoded: friendly, adversarial and philosophical chairpersons, how to read each one, adapt fast and never take pressure personally"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-10-05
+lang: en
 ---
-
 Two aspirants with nearly identical written marks walk into the same Dholpur House complex on the same morning, are assigned to two different UPSC interview boards, and walk out with a thirty mark gap between them. Neither candidate was smarter than the other. Neither prepared with materially different rigour. What separated them was something almost nobody trains for: one read the temperament of the five people across the table within the first two minutes and adjusted, and the other treated a probing, sceptical panel as a personal attack and spent the next half hour fighting it. The UPSC interview board is not a fixed object you can study like a syllabus. It is a living, variable, human encounter, and the single biggest reason equally capable candidates score so differently is that the personality of the board, and especially of its chairperson, changes the entire texture of the conversation.
 
 This is the part of the personality test that coaching brochures gloss over because it cannot be reduced to a model answer. There is no list of fifty questions that, once memorised, guarantees a smooth board. Instead there is a smaller and more useful truth: boards have recognisable styles, those styles are driven mostly by who chairs them, and a candidate who learns to identify the style early and respond to it appropriately will outperform a candidate of equal knowledge who walks in with one rigid persona and refuses to bend. The friendly board and the adversarial board are testing the same things, awarding marks against the same broad criteria, but they feel so different from the inside that an unprepared aspirant experiences them as two entirely different exams.
 
 This guide is built to make you fluent in board personalities. By the end you will understand how the panel is constituted, why the chairperson sets the tone more than anyone else, the major board styles you are likely to encounter and the tells that reveal each one, how to diagnose your specific board inside the opening ninety seconds, how to adapt your register without becoming a different person, and most importantly why the harshest, most cutting line of questioning is almost never a verdict on you as a human being. The complete preparation blueprint sits in the [UPSC interview complete guide on how to score 200 plus](/2001/11/01/upsc-interview-complete-guide/), and this article zooms into one decisive sliver of it: the people on the other side of the table and how to meet them.
 
-![UPSC interview board styles and chairperson adaptation strategy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC interview board styles and chairperson adaptation strategy - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 <!--more-->
 
