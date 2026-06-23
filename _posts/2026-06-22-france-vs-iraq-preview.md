@@ -6,15 +6,15 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Iraq", "Group Stage", "Match Preview"]
 excerpt: "France vs Iraq World Cup 2026 preview: predicted lineups, the Group I qualification math, key battles, and a full expert score prediction for Philadelphia."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-22
+lang: en
 ---
-
 When two of the most decorated forwards on the planet share a tournament with a nation returning from a forty-year absence, the question a fixture poses is rarely about whether a result is likely. France vs Iraq at World Cup 2026 carries a different sort of tension, and it is worth naming plainly before kickoff at Lincoln Financial Field in Philadelphia. The question is not really who wins. It is whether France can convert their obvious superiority into the points and goal difference that seal a knockout place a full matchday early, and whether Iraq can take the structure that briefly held against Norway and stretch it across ninety minutes against a far more varied attack. That is the contest hiding inside a scoreline most neutrals have already pencilled in.
 
-![France vs Iraq World Cup 2026 preview, predicted lineups and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![France vs Iraq World Cup 2026 preview, predicted lineups and prediction - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 Les Bleus arrive in Pennsylvania having opened their Group I campaign with a controlled 3-1 win over Senegal, a performance that told you almost everything about how Didier Deschamps wants this farewell tournament to feel: solid at the back, patient in possession, and lethal when the moment arrives. Iraq arrive having lost 4-1 to Norway, a result that flattered nobody and exposed how quickly the gap between a returning side and a settled European one can open up. Graham Arnold's players walked off that field knowing the second fixture would be harder still on paper, and knowing too that the World Cup rarely rewards teams who treat the hardest game as a write-off. The Lions of Mesopotamia did not travel halfway across the world to defend for survival alone, but survival is the realistic frame, and they will defend it fiercely.
 

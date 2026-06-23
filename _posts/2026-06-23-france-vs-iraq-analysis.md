@@ -6,17 +6,17 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Iraq", "Group Stage", "Match Analysis"]
 excerpt: "France vs Iraq analysis from World Cup 2026: a Mbappe brace and Dembele goal sealed a 3-0 win and France's knockout spot on a rain-hit Philadelphia night."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-23
+lang: en
 ---
-
 The France vs Iraq analysis from World Cup 2026 starts with a number that flatters one side and a performance that did not flatter either. France beat Iraq 3-0 at Lincoln Financial Field in Philadelphia to reach the Round of 32 with a game to spare, and the scoreline reads like a stroll. The ninety minutes around it told a more honest story. France were better in every department that matters, carved Iraq open whenever they chose to raise the tempo, and still spent long stretches in second gear, content to manage a stubborn opponent and a freak summer storm rather than chase the kind of statement win their forward line is capable of producing. That is the single idea this piece is built around, the claim that frames everything below: France eased through Group I on individual quality, not on a complete team performance, and the gap between those two things is the most interesting thing about the night.
 
 Kylian Mbappe supplied the quality. On the evening he won his 100th cap for his country, the captain scored twice, dragged France clear when the match threatened to stay tight, and reminded a watching tournament why he remains the most decisive individual at the 2026 World Cup. Ousmane Dembele added the third after the restart, the goal that turned a working win into a comfortable one. Between Mbappe's opener and his second strike sat a delay nobody had scripted, a lightning storm that suspended the match for more than two hours and forced both teams to come back out and find their rhythm twice. France found theirs faster. Iraq, playing at their first World Cup in forty years, did not disgrace themselves, and that distinction matters in a contest like this one.
 
-![France vs Iraq World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![France vs Iraq World Cup 2026 analysis](/assets/images/blog/blog-106.webp)
 
 This was a control-and-progression result, the kind favorites are supposed to register against opponents ranked far below them, and France registered it without alarm and without ever needing their best. Didier Deschamps got the three points, the qualification, and the clean sheet his side wanted, and he got them while resting the option of a higher gear for the games that will demand it. For Iraq, Graham Arnold's side, the night ended their realistic hopes of advancing but left them with the harder, quieter currency of respect: an organized defensive shift, a refusal to fold even after the second goal, and a tournament debut that did not collapse into the rout that the opening loss to Norway had hinted it might.
 

@@ -6,15 +6,15 @@ date: 2026-06-20
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Germany", "Ivory Coast", "Group Stage", "Match Preview"]
 excerpt: "Germany vs Ivory Coast World Cup 2026 preview: prediction, likely lineups, the Group E scenarios and the key tactical battle as two opening winners meet."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-20
+lang: en
 ---
-
 Two winners, one ticket already half-punched, and a single question hanging over Toronto: can a side that has just scored seven do the simple, ruthless thing and finish the job? Germany vs Ivory Coast at World Cup 2026 is the matchday-two collision Group E was always pointed toward, the four-time champions against the Africa Cup of Nations holders, both fresh from opening wins, both knowing that the next ninety minutes can settle qualification and very likely the group itself. Germany arrived at this tournament under the radar and left their first match looking like contenders again. Ivory Coast arrived as one of the most athletic, fearless teams in the field and proved it with a winner in the last minute of their opener. Now they meet with the table already taking shape and the stakes sharpened to a point.
 
-![Germany vs Ivory Coast World Cup 2026 preview, prediction and Group E scenarios - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Germany vs Ivory Coast World Cup 2026 preview, prediction and Group E scenarios - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 This is the fixture that separates a promising start from real control of the section. Both nations sit on three points after the first round, and the winner here banks the result that, in the expanded format, all but guarantees passage into the knockout phase and opens the door to topping the group. For Germany it is the cleanest possible route to a first knockout appearance since the 2014 final, a chance to convert a confidence-restoring opener into something concrete. For Ivory Coast it is the stage on which a generation of World Cup debutants can do what no Ivorian team has managed before. The match has the weight of a knockout tie dressed as a group game, and it deserves to be read as one.
 

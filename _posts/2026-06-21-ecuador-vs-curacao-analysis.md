@@ -6,15 +6,15 @@ date: 2026-06-21
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Ecuador", "Curacao", "Group Stage", "Match Analysis"]
 excerpt: "Ecuador vs Curacao result: Eloy Room's record 15 saves earned debutants Curacao their first ever World Cup 2026 point in a goalless Kansas City stalemate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-21
+lang: en
 ---
-
 The Ecuador vs Curacao result at World Cup 2026 reads as the flattest line in any record book, a goalless draw, and tells you almost nothing about the ninety minutes that produced it. Ecuador battered the door for the whole match and never got it open. Curacao, the smallest nation by population ever to reach a World Cup, walked out of Kansas City with the first point in their history. The number that explains the 0-0 is not in the scoreline at all. It sits in the goalkeeping column, where Eloy Room was credited with fifteen saves, the most by any goalkeeper inside the ninety minutes of a World Cup match since saves became an official statistic in 1966. That single column is the story of the night, and it is the spine of this analysis: a point was earned in Kansas City not by a defensive masterclass alone, but by one man standing between the posts who simply would not be beaten.
 
-![Eloy Room makes a save during Curacao's goalless draw with Ecuador at World Cup 2026](/assets/images/blog/blog-01.webp)
+![Eloy Room makes a save during Curacao's goalless draw with Ecuador at World Cup 2026](/assets/images/blog/blog-94.webp)
 
 Strip the emotion away and the imbalance is almost comic. Ecuador, ranked thirtieth in the world and fancied before the tournament to make a deep run, piled up twenty-seven attempts at goal and put fifteen of them on target, the most shots on target in a men's World Cup match without scoring since at least 1966. They generated an expected-goals figure north of three. They had a striker clean through inside the opening three minutes, a header from six yards, a follow-up that needed only a touch, and a cross-shot that smacked the crossbar. Curacao, ranked eighty-first, conceded that mountain of chances and still came away level. The team that lost 7-1 to Germany six days earlier conceded nothing at all to a side that should, on any normal evening, have won comfortably. That is the paradox this piece exists to unpick, and the answer is not complicated. It is a man called Room, and it is one of the finest individual goalkeeping displays the competition has seen.
 

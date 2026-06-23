@@ -6,15 +6,15 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "Austria", "Group J", "Match Analysis", "Lionel Messi"]
 excerpt: "Argentina vs Austria World Cup 2026 analysis: a Messi brace broke the all-time scoring record and sent the champions through to the Round of 32 in Dallas."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-23
+lang: en
 ---
-
 Argentina beat Austria 2-0 in their World Cup 2026 Group J fixture in Dallas, and the cleanest way to read the game is this: the result was decided less by the two finishes that won it than by the quarter of an hour in between, when a missed penalty could have pulled the champions apart and instead found them at their most composed. Lionel Messi scored in the 38th minute and again deep in stoppage time at 90+5, and those two strikes carried him past Miroslav Klose to stand alone as the all-time leading scorer in men's World Cup history. The headline writes itself. The match underneath the headline is more interesting, because for long stretches this was not the champions in full flow but the champions in management mode, grinding a stubborn, well-drilled Austria side down while their captain chased a number that would not come until the very end of the first half.
 
-![Argentina vs Austria World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Argentina vs Austria World Cup 2026 analysis](/assets/images/blog/blog-61.webp)
 
 The defining sequence arrived inside the opening ten minutes, and it set the emotional weather for everything after. Argentina won a penalty when Stefan Posch and Xaver Schlager collided with Lautaro Martinez as he ran onto a through ball inside the box. After a lengthy review the spot kick stood, and Messi placed the ball down with a record sitting one finish away. Seventy thousand phones came up. The stadium went quiet. He missed, dragging it wide, and for a few minutes the most decorated player in the sport's history looked rattled, giving the ball away in midfield and snatching at chances he would normally take in his sleep. That this game still ended 2-0 to Argentina, with Messi the author of both goals and the holder of a new record, is the whole story of why the reigning champions are so hard to beat. The recovery, not the record, is the thing worth remembering.
 

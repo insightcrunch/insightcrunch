@@ -6,15 +6,15 @@ date: 2026-06-21
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Uruguay", "Cape Verde", "Group Stage", "Match Preview"]
 excerpt: "Uruguay vs Cape Verde prediction, predicted lineups, head to head and Group H scenarios for World Cup 2026, plus the one tactical key Bielsa must crack."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-21
+lang: en
 ---
-
 The single question Uruguay vs Cape Verde poses at World Cup 2026 is not whether the South American side is better. Everyone in the building at Hard Rock Stadium on Sunday already knows that. The question is whether Uruguay can do the one thing Spain could not manage four days earlier: find a way through a Cape Verde block that defends as though the result is the only thing that exists in the world. La Celeste arrive in Miami as heavy favorites and arrive frustrated, having needed a late goal to escape their opener with a point. Cape Verde arrive as World Cup debutants who have already authored one of the great upsets in the tournament's history and have nothing left to fear.
 
-![Uruguay vs Cape Verde World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Uruguay vs Cape Verde World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 That is the tension this fixture sets up, and it is a genuinely interesting one rather than the formality the ranking gap suggests. Uruguay sit inside the world's top twenty and have two World Cup titles in their history. Cape Verde, an archipelago of a little over five hundred thousand people, sit roughly forty-five places lower and had never played a World Cup match until last Monday. On paper this should be straightforward. On the grass, after what Cape Verde did to Spain, nothing about breaking down this team looks straightforward at all, and Marcelo Bielsa knows it better than anyone.
 

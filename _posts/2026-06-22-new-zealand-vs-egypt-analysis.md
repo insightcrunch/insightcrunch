@@ -6,15 +6,15 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["World Cup 2026", "New Zealand", "Egypt", "Mohamed Salah", "Group Stage", "Match Analysis"]
 excerpt: "New Zealand vs Egypt result and analysis: Mohamed Salah led a 3-1 comeback for Egypt's first ever World Cup 2026 win, with player ratings and Group G math."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-22
+lang: en
 ---
-
 For ninety-two years Egypt had carried the same unwanted footnote: a proud African football nation that had reached the World Cup, played in it, and never once won a match. New Zealand vs Egypt at World Cup 2026 in Vancouver was supposed to be the game that finally changed that, and for forty-five minutes it looked like the opposite story was being written. The All Whites led at the interval through Finn Surman, defended with the discipline that had frustrated Iran, and carried the belief of a side that genuinely fancied a first World Cup win of its own. Then Egypt came out for the second half a different team, and Mohamed Salah turned a tense, edgy contest into a piece of history. The Pharaohs won 3-1, and the long wait was over.
 
-![New Zealand vs Egypt World Cup 2026 result, Salah comeback win and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![New Zealand vs Egypt World Cup 2026 result, Salah comeback win and player ratings - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 This Analysis tells the story of how a match New Zealand controlled for an hour slipped away inside a decisive nine-minute window, why Egypt's second-half quality proved too much for a tiring defensive block, and what the result means for one of the most balanced groups in the tournament. It is built entirely on the verified record from BC Place: the goals and their builders, the substitutions that shifted the balance, the numbers that show where the game was won, and the milestones that gave the night its weight. The headline is simple and historic. The detail is where the match actually lives, and the detail is what serious fans, neutrals, and the two sets of supporters will want to understand before Group G reaches its final day.
 

@@ -6,15 +6,15 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Uruguay", "Cape Verde", "Group Stage", "Match Analysis"]
 excerpt: "Uruguay vs Cape Verde result and analysis: how debutants Cape Verde rescued a 2-2 World Cup 2026 draw, plus the Group H math, ratings and what is next."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-22
+lang: en
 ---
-
 Uruguay needed a goalkeeper and a back four that could be trusted for ninety minutes, and on a humid night in Miami at World Cup 2026 they had neither when it counted. The Uruguay vs Cape Verde result finished 2-2, and the single sentence that explains it is this: Uruguay spent the night in control of the ball, scored twice from their only two shots on target, and then handed the equalizer to the smallest nation in the group with a back-pass so loose that it pulled Fernando Muslera clean out of his goal. Cape Verde, the World Cup debutants who had already held Spain, refused to fold when they fell behind and took a second point from two games that no one outside their islands had forecast.
 
-![Uruguay vs Cape Verde World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Uruguay vs Cape Verde World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 That is the whole story in miniature, and the rest of this analysis unpacks it: the sequence of the four goals, why a side with Federico Valverde, Rodrigo Bentancur and Manuel Ugarte in midfield could not break a team ranked far below them, the exact moment Mathias Olivera's pass changed the group, the standout performers, the numbers that frame a strange evening, and, above all, the table math, because the draw reshaped Group H in a way that now leaves a two-time world champion needing to beat Spain to be sure of survival while the debutants control more of their own fate than the giants do. The namable claim of this piece is simple and it sits at the center of everything that follows: Cape Verde's second point was co-authored, half belief and half gift, and the gift came from the very players who were supposed to put this game to bed.
 

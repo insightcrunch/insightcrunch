@@ -6,15 +6,15 @@ date: 2026-06-21
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Spain", "Saudi Arabia", "Group Stage", "Match Preview"]
 excerpt: "Spain vs Saudi Arabia World Cup 2026 preview: prediction, lineups, the Yamal fitness question and what Spain must fix in Atlanta after a goalless opener."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-06-21
+lang: en
 ---
-
 Spain vs Saudi Arabia at World Cup 2026 is not the routine win the rankings suggest, and that is the whole story of this Group H second-round meeting in Atlanta. Spain arrived in North America as European champions and one of the two or three sides everyone fancied to lift the trophy, then spent ninety minutes against Cape Verde unable to score from twenty-seven shots. Saudi Arabia, written off in most previews of the group, instead led Uruguay for forty minutes and came away with a point. The favourites need a win to steady a campaign that wobbled on day one. The question that defines the fixture is not whether Spain are better, because they plainly are, but whether they can solve the specific problem that left them frustrated against a deep, disciplined defense the first time out.
 
-![Spain vs Saudi Arabia World Cup 2026 preview, prediction and lineups in Group H Atlanta - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Spain vs Saudi Arabia World Cup 2026 preview, prediction and lineups in Group H Atlanta - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 That problem has a name worth holding onto for the next ninety minutes: this is a conversion and penetration problem, not a creation problem. Against Cape Verde, Spain did not lack the ball, the territory, or even the chances. They lacked the final, decisive action, the through-ball that splits a back five rather than the cross that a packed box clears, the shot taken early before the angle closes, the one-against-one that drags a defender out and opens the gap behind him. Saudi Arabia will set up to make Spain repeat exactly the kind of afternoon they endured in their opener: a low block, two banks of four, and an inspired goalkeeper behind them. Whether Luis de la Fuente's team has fixed the last-third problem, or whether Georgios Donis's organized Saudi side can frustrate them a second time, is what a viewer should watch for from the first whistle to the last.
 

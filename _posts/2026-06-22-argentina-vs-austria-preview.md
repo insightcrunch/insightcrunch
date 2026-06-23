@@ -6,15 +6,15 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "Austria", "Group Stage", "Match Preview"]
 excerpt: "Argentina vs Austria preview for World Cup 2026: predicted lineups, the Group J permutations, and whether Messi can seize the all-time scoring record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-22
+lang: en
 ---
-
 There is one number hanging over Argentina vs Austria at World Cup 2026, and it sits at sixteen. Sixteen is the figure Lionel Messi carried out of Kansas City after his hat trick against Algeria, sixteen is the figure Miroslav Klose retired with as the all-time leading scorer in men's World Cup history, and sixteen is the figure that turns a routine-looking Group J second-round fixture in Dallas into something a global audience will stop to watch. Argentina arrive as reigning champions chasing qualification for the Round of 32. Austria arrive off a first World Cup win in a generation, pressing, physical, and convinced they can make the holders uncomfortable. The match poses a single, simple question with an enormous answer attached: can the defending champions tidy up their group business while their captain takes the one goal that would leave him alone at the summit of the sport's oldest scoring chart?
 
-![Argentina vs Austria preview for World Cup 2026 in Group J](/assets/images/blog/blog-01.webp)
+![Argentina vs Austria preview for World Cup 2026 in Group J](/assets/images/blog/blog-112.webp)
 
 This Argentina vs Austria preview for World Cup 2026 treats the fixture as exactly what it is, a collision between a side managing a tournament and a side with nothing to lose, framed by a record that may fall on the night. It is built only from what was knowable before kickoff in Dallas: the form both teams brought out of matchday one, the Group J table as it stood, the selection questions Lionel Scaloni and Ralf Rangnick had to answer, the tactical shape each will use, and the qualification math that decides who walks into the knockout rounds. The result is not assumed anywhere in this piece. What follows is the case for how the game should unfold, the players who will decide it, and the prediction that the evidence supports.
 

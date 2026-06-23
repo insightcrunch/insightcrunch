@@ -6,15 +6,15 @@ date: 2026-06-21
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Germany", "Ivory Coast", "Group Stage", "Match Analysis"]
 excerpt: "Germany vs Ivory Coast finished 2-1 as substitute Deniz Undav struck twice, his 94th-minute winner sealing a Round of 32 place and top spot in Group E."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-06-21
+lang: en
 ---
-
 Germany vs Ivory Coast at World Cup 2026 was supposed to be the night a four-time champion strolled into the knockout rounds. Instead it became a study in how a tournament side wins when its plan fails. For an hour at Toronto Stadium, Julian Nagelsmann's Germany were second best to an Ivory Coast team that defended a one-goal lead with discipline and threatened to add to it on the counter. Then the bench changed everything. Deniz Undav, on as part of a triple substitution just before the hour, equalized with a controlled volley and then drilled home a 94th-minute winner to settle a 2-1 result that sent Germany through with a match to spare and left the Elephants to do their qualifying maths all over again.
 
-![Germany vs Ivory Coast World Cup 2026 result, player ratings and Deniz Undav late winner - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Germany vs Ivory Coast World Cup 2026 result, player ratings and Deniz Undav late winner - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 This was not a comfortable evening for the favorites, and pretending otherwise would miss the actual lesson of the game. Ivory Coast were the better team for long stretches, took a deserved lead through captain Franck Kessie, and were minutes from a result that would have rearranged the entire group. What separated the sides in the end was not Germany's first eleven but the players Nagelsmann sent on, and one of them in particular. The spine of this report is a single, nameable idea: the hour-mark gamble that rescued Germany, the triple change that turned a stuttering performance into top spot in Group E. Below is the full account, the tactical reasons it worked, the player ratings, the verified numbers, the post-match fallout, and what the win means for both nations as the group reaches its final round.
 

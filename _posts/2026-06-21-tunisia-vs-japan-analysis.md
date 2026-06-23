@@ -6,18 +6,18 @@ slug: tunisia-vs-japan-analysis
 date: 2026-06-21
 last_updated: 2026-06-21
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 tags: ["World Cup 2026", "Japan", "Tunisia", "Group Stage", "Match Analysis", "Asian Football"]
 image: /assets/images/blog/blog-01.webp
 excerpt: "Tunisia vs Japan World Cup 2026 analysis: a record 4-0 Japan win built on relentless pressing, an Ayase Ueda brace, and a Group F surge that sent Tunisia out."
 reading_time: 60
+lang: en
 ---
-
 The Tunisia vs Japan World Cup 2026 result reads 4-0 to Japan, and the cleanest way to understand it is this: the margin was manufactured by Japan's pressing, not merely donated by Tunisia's disarray. That distinction matters, because a 4-0 scoreline invites a lazy verdict about a broken opponent, and the broken opponent was real. Yet for ninety minutes at Estadio Monterrey, Hajime Moriyasu's team set the speed, chose the spaces, and forced every error they then punished. Tunisia did not so much lose this game as get pulled apart by a side that refused to let them breathe, and the four goals that followed were the logical end of a plan executed with unusual discipline.
 
 This was the 1,000th match in World Cup history, and Japan marked it by becoming the first Asian nation to score four times in a single finals fixture and by recording the largest victory ever managed by an Asian team at the tournament. Ayase Ueda scored twice and set up a third, Daichi Kamada opened the scoring inside four minutes, and Junya Ito finished the rout with a clinical strike on the hour mark's far side. Tunisia, already beaten heavily in their opener and now under a new coach, were eliminated. Japan climbed to four points and into the knockout conversation with a game to spare.
 
-![Tunisia vs Japan World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Tunisia vs Japan World Cup 2026 analysis](/assets/images/blog/blog-11.webp)
 
 The temptation after a result like this is to file it under "one side was simply better" and move on. The richer story is how Japan engineered the gap. They pressed in coordinated waves, they manipulated Tunisia's back line into stepping when it should have held and holding when it should have stepped, and they trusted a reshaped attacking unit to convert the chances that pressure produced. The numbers, which we will return to in detail, are emphatic: Japan generated more than two expected goals from eleven attempts while Tunisia mustered two shots worth a combined 0.05. That is not the profile of a team that fell over on its own. It is the profile of a team that was dismantled.
 

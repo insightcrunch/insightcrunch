@@ -6,15 +6,15 @@ date: 2026-06-21
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Belgium", "Iran", "Group Stage", "Match Preview"]
 excerpt: "Belgium vs Iran prediction, predicted lineups and the key Group G scenarios for World Cup 2026 as De Bruyne's Belgium face Iran's stubborn defensive block."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-21
+lang: en
 ---
-
 Belgium vs Iran at World Cup 2026 sets one of the cleanest stylistic questions of the entire group stage: a side built around individual creation against a side built around collective shape. Belgium arrive in Los Angeles with Kevin De Bruyne pulling the strings, Jeremy Doku running at full-backs, and Romelu Lukaku waiting to punish a half-chance. Iran arrive with a back line drilled to hold its lines, a midfield that screens the space in front of it, and Mehdi Taremi dropping off the front to give them an out-ball. The fixture is not a mismatch of talent dressed up as a contest. It is a genuine tactical problem, and the team that solves it first takes a long stride toward the knockout rounds.
 
-![Belgium vs Iran World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Belgium vs Iran World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 Both sides opened their campaigns with draws, so this second-round Group G meeting carries a weight that an opening fixture rarely does. Belgium were pegged back by Egypt and rescued by Lukaku's instant impact off the bench. Iran traded blows with New Zealand and came away level after twice falling behind. Neither result settled anything, and neither performance answered the central question each coach now faces. For Rudi Garcia, the question is how to convert clear territorial control into goals against a team that will sit deep and dare him to break it down. For Amir Ghalenoei, the question is how to stay compact for ninety minutes against the most fluent attacking trio his side will face all summer, then to hurt Belgium on the rare moments his forwards get the ball with space to run into. This preview works through the road each side took to this point, the head-to-head that frames a first-ever meeting, the predicted lineups and the reasoning behind them, the tactical battle that decides the ninety minutes, the players who tilt it, the qualification math in a tight Group G, the conditions in Los Angeles, and a final prediction with a scoreline and the logic behind it.
 

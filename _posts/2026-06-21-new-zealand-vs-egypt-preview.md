@@ -6,15 +6,15 @@ date: 2026-06-21
 categories: ["Leisure"]
 tags: ["World Cup 2026", "New Zealand", "Egypt", "Group Stage", "Match Preview"]
 excerpt: "New Zealand vs Egypt preview for World Cup 2026: two winless nations collide in Vancouver chasing a first ever victory, with Salah driving Egypt's push."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-06-21
+lang: en
 ---
-
 Two nations who have never won a World Cup match arrive in Vancouver with the same hunger and the same fear, and the New Zealand vs Egypt World Cup 2026 Group G meeting reduces to one blunt question: which of them finally breaks the duck, and which of them is left to chase qualification the hard way? Both opened the tournament with a draw, both led and then surrendered that lead, and both now understand that a point will probably not be enough. New Zealand twice went in front against Iran and were twice pulled back. Egypt held the advantage over Belgium for the better part of an hour before an own goal erased it. Neither side got the result its performance arguably deserved, and that shared sense of a missed opening is what gives this second-round fixture its edge. The team that learns the quicker lesson from matchday one is the team that walks out of British Columbia with three points and, very likely, a path into the Round of 32.
 
-![New Zealand vs Egypt World Cup 2026 Group G preview](/assets/images/blog/blog-01.webp)
+![New Zealand vs Egypt World Cup 2026 Group G preview](/assets/images/blog/blog-91.webp)
 
 This is a meeting of contrasts dressed up as a meeting of equals. On paper Egypt are the higher-ranked, more decorated football nation, a side built around one of the finest attackers of his generation and coached by the man who remains its record scorer. New Zealand are the lowest-ranked team at the entire tournament, a side whose attacking blueprint depends almost entirely on the hold-up play of a thirty-four-year-old centre forward and the runs of a winger few outside Scotland had heard of a month ago. Yet the table tells a flatter story. After one round of matches, all four Group G nations sit on a single point, separated only by the fine print of goals scored and disciplinary records. The hierarchy that the rankings imply has not yet shown up on the scoreboard, and that is precisely why this game matters so much. Win it, and the loser of Belgium against Iran is suddenly looking up at you. Draw it, and the group stays a coin toss into the final round.
 

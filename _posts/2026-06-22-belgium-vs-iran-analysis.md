@@ -6,15 +6,15 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Belgium", "Iran", "Group Stage", "Match Analysis"]
 excerpt: "Belgium vs Iran analysis: Iran's organization and Beiranvand's seven saves earned a stubborn 0-0 World Cup 2026 draw against a wasteful 10-man Belgium."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-06-22
+lang: en
 ---
-
 The single question that defined Belgium vs Iran at World Cup 2026 was not whether a talented Belgium would score, but how long Iran could hold the line before they did. The answer, in the end, was the full ninety-plus minutes. Belgium piled up twenty-three shots and roughly 1.8 expected goals across a sweltering afternoon at SoFi Stadium in the Los Angeles area, played for the final twenty-five minutes with ten men, and still could not beat Alireza Beiranvand. Iran left Inglewood with a goalless draw, a second successive clean sheet they had no business keeping on the run of territorial play, and a place in the conversation for the Round of 32 that almost nobody outside their own dressing room had predicted before kickoff. This was a 0-0 that told two opposite stories at once: Belgian frustration mounting toward something close to alarm, and Iranian resilience hardening into genuine belief.
 
-![Belgium vs Iran World Cup 2026 analysis, Iran's 0-0 draw, Beiranvand's saves and the Ngoy red card - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Belgium vs Iran World Cup 2026 analysis, Iran's 0-0 draw, Beiranvand's saves and the Ngoy red card - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The temptation after a scoreless draw is to file it under wastefulness and move on, to say that a strong side missed its chances and a weaker side got lucky. That reading is lazy, and in this case it is wrong. The central claim of this analysis is simple and worth naming up front: this was a built draw, not a missed one. Iran's structure, Beiranvand's seven saves, and a back five that swallowed cross after cross did at least as much to produce the goalless scoreline as any Belgian profligacy. Belgium were wasteful, yes, and the sending off of Nathan Ngoy made a hard task harder. But Iran did not simply survive. They organized, they defended their box with bodies and conviction, they carried a real threat on the counter that twice should have won them the game, and they goalkept their way to a point that reshaped Group G. Calling it the Beiranvand wall undersells the eleven men in front of him, but it is the right place to start, because the goalkeeper's afternoon was the difference between a famous Iranian point and a routine Belgian win.
 
