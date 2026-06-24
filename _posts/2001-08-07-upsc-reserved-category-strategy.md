@@ -6,19 +6,19 @@ date: 2001-08-07
 categories: ["Industry"]
 tags: ["UPSC", "Reserved Category", "SC ST OBC", "EWS", "Civil Services Strategy", "Age Relaxation"]
 excerpt: "UPSC reserved category strategy for SC, ST, OBC and EWS aspirants: extra attempts, age relaxation, cut-off advantages, certificates and financial support."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2001-08-07
+lang: en
 ---
-
 If you belong to a reserved category and you have ever felt a quiet confusion about how exactly your situation changes the civil services game, you are not alone, and a clear UPSC reserved category strategy is precisely what most aspirants in your position never receive. You hear two contradictory messages constantly. One crowd insists that reservation hands you the result on a plate, that your cut-off is so low you barely have to study. Another crowd, often inside your own head at two in the morning, whispers that you will always be seen as the candidate who got in through the back door, that your selection will carry an asterisk. Both messages are wrong, and both quietly sabotage thousands of capable aspirants every year.
 
 The truth sits in a far more useful place. The reservation framework gives you specific, legally guaranteed structural levers: more attempts, more years of eligibility, separate merit lists, fee concessions, and access to dedicated financial and academic support. These are not favours and they are not shortcuts. They are policy instruments designed to offset generations of unequal access to schools, libraries, English-medium education, coaching, and the kind of family wealth that lets a candidate prepare full time without earning. Used with intelligence, these levers convert into a genuine, planned advantage. Used carelessly, or out of either entitlement or shame, they get wasted, and the aspirant walks away believing the system failed them when in fact they never learned to operate it.
 
 This guide is written to give you that operating manual. We will look at what the four reserved categories actually are, how the attempt and age provisions work and how to spend those extra years rather than fritter them, what the cut-off gap really means once you read it honestly, how reservation mathematics flows through Prelims, Mains and the interview, which certificates make or break a candidature, and finally how to overcome the socio-economic barriers and tap the scholarships that are sitting unclaimed. By the end you should never again feel uncertain about your own ground.
 
-![UPSC reserved category strategy for SC ST OBC and EWS aspirants - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC reserved category strategy for SC ST OBC and EWS aspirants - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 ## What UPSC Reserved Category Strategy Actually Means
 

@@ -6,12 +6,12 @@ date: 2001-07-02
 categories: ["Industry"]
 tags: ["UPSC", "Regional Language Medium", "UPSC Mains", "Vernacular Medium", "Tamil Medium UPSC", "Code Mixing"]
 excerpt: "UPSC regional language medium guide covering Tamil Telugu Kannada Bengali Mains translation code-mixing strategy and resource gaps for vernacular aspirants"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-07-02
+lang: en
 ---
-
 If you prepare in a regional language medium, you have probably been told, in a hundred small ways, that you have already lost. A coaching counsellor in a metro city steered you toward English with a sympathetic shrug. A senior who cleared the exam in English suggested you would struggle with translation. A well meaning relative asked whether anyone "actually" clears UPSC in Tamil or Telugu or Kannada or Bengali these days. Underneath all of it sits one persistent, demoralising assumption: that the language in which you think, dream, argue, and understand the world is somehow a liability in the Civil Services Examination. This guide exists to dismantle that assumption with evidence, with strategy, and with operational specificity, because the truth is more complicated and far more hopeful than the discouragement suggests.
 
 The regional language medium aspirant occupies a strange position in the UPSC ecosystem. The Constitution of India recognises 22 scheduled languages, and the Union Public Service Commission permits candidates to write the Mains examination in any of them, alongside English. This is not a token provision; it is a deliberate constitutional commitment to the idea that administrative talent is distributed across every linguistic community in the country, not concentrated among those educated in English. Yet the preparation ecosystem, the coaching industry, the YouTube channels, the test series, and the bulk of quality study material have all migrated overwhelmingly toward English and Hindi. The regional language medium candidate therefore faces a genuine resource asymmetry that has nothing to do with intelligence or capability and everything to do with where the market has chosen to invest.
@@ -20,7 +20,7 @@ This article treats your situation honestly. It does not pretend the path is ide
 
 <!--more-->
 
-![UPSC regional language medium strategy guide for vernacular aspirants - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC regional language medium strategy guide for vernacular aspirants - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 ## What "Regional Language Medium" Actually Means in UPSC CSE
 

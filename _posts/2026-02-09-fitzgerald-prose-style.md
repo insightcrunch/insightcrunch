@@ -5,16 +5,16 @@ date: 2026-02-09
 excerpt: "How Fitzgerald's prose style in The Great Gatsby fuses lyric feeling with classical control, read through four pillars and the novel's most famous passages."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "amanda-ross"
 reading_time: 60
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
+lang: en
 ---
-
 Most readers finish The Great Gatsby remembering two things: a man staring at a green light, and a last sentence they cannot quite paraphrase but cannot forget. That second memory is the subject of this guide. Fitzgerald's prose style in The Great Gatsby is the reason the book survives a hundred plot summaries and still feels unread until you read it slowly. The novel is short, the events are few, and the moral can be stated in a sentence. None of that explains why the language keeps being quoted, taught, memorized, and tattooed on forearms. The explanation is the writing itself, and the writing is a craft problem with a solvable structure, not a vague aura of beauty.
 
 This article treats the style as a built thing. It surveys the whole of Fitzgerald's manner across the novel, breaks it into its working parts, reads the passages where each part is doing its clearest work, and defends a single claim about how those parts fit together. The aim is not to praise the prose. Praise is easy and useless in an essay. The aim is to give you a characterization precise enough to argue with, so that when you write about the language you can say what it does and how, rather than reaching for the word "beautiful" and hoping the reader agrees.
 
-![Fitzgerald's prose style in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Fitzgerald's prose style in The Great Gatsby](/assets/images/blog/blog-67.webp)
 
 ## What "prose style" means, and why this novel rewards the question
 

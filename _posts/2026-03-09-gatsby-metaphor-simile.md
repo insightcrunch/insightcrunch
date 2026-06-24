@@ -6,15 +6,15 @@ date: 2026-03-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "Symbolism", "American Literature"]
 excerpt: "Metaphor and simile in The Great Gatsby do real thinking, fusing a concrete image to an abstract idea so tightly that the figure itself becomes the argument."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 40
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-03-09
+lang: en
 ---
-
 A reader can finish The Great Gatsby, admire the prose, and never notice that the book has been reasoning with them the whole time. The reasoning happens inside the comparisons. Metaphor and simile in The Great Gatsby are the places where Fitzgerald stops telling you what a thing is and shows you what it is like, and in that small swerve from statement to likeness he smuggles his whole argument about money, longing, and the cost of a dream. The danger is to treat these figures as ornament, as the pretty surface you skate across on the way to plot and theme. That misreads the engine for the paint. The famous comparisons are not decoration laid over an idea; they are the idea, compressed into an image you can hold.
 
-![Metaphor and simile in The Great Gatsby explained, Fitzgerald's figurative language - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Metaphor and simile in The Great Gatsby explained, Fitzgerald's figurative language - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 This is the prose-style facet that the series treats on its own, because the comparisons reward the kind of slow attention that a survey of [Fitzgerald's prose style in The Great Gatsby](/2026/02/09/fitzgerald-prose-style/) can only gesture toward. The pillar article owns the whole style, the diction and the syntax and the rhythm together. Here the lens narrows to a single question with a large answer: when Fitzgerald sets a concrete thing beside an abstract one and says they are alike, what does the likeness make a reader know that a plain sentence could not? Call the answer the figurative engine, and call the claim it powers comparisons that think.
 

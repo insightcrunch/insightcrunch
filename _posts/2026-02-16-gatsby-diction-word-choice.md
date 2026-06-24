@@ -6,17 +6,17 @@ date: 2026-02-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "Essay Writing", "American Literature"]
 excerpt: "Diction and word choice in The Great Gatsby make single words load-bearing, from orgastic to gorgeous and careless: a close reading and essay strategy guide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-02-16
+lang: en
 ---
-
 Most readers finish The Great Gatsby remembering scenes, the parties, the pool, the green light across the bay, and forget that none of it would survive a single careless substitution. The novel is short enough to read in an afternoon, yet its sentences have outlasted thousands of longer books, and the reason sits below the level of plot or theme. It sits in the vocabulary. A study of diction and word choice in The Great Gatsby is a study of how Fitzgerald makes one carefully selected term do the work that a weaker writer would need a paragraph to attempt. This is the most overlooked of all Fitzgerald literary techniques, because it hides in plain sight: the prose looks simple, so students assume the simplicity is accidental rather than engineered.
 
 It is not accidental. Fitzgerald rewrote the closing pages of this book obsessively, and the surviving manuscripts show him hunting single terms, swapping one adjective for another, testing how a sentence breathes when a Latinate noun replaces a plain one. The result is a novel where almost every striking effect can be traced to a specific lexical decision. Learn to read that layer and you stop skimming the surface; you begin to see the engine underneath. That is the promise of this guide, and the discipline it teaches is the same one examiners and serious critics reward above all others: the ability to show, at the scale of the single term, exactly why a sentence means what it means.
 
-![Diction and word choice in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Diction and word choice in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 ## What diction means and why word choice carries the novel
 

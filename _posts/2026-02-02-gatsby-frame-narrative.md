@@ -6,12 +6,12 @@ date: 2026-02-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Close Reading", "Literary Criticism", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Frame narrative and retrospection in Gatsby explained: how Nick narrates from a later vantage, and why a story told already knowing the end feels inevitable."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 42
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-02-02
+lang: en
 ---
-
 ## Why the Frame Narrative Quietly Runs the Whole Book
 
 
@@ -19,7 +19,7 @@ Most readers finish The Great Gatsby convinced they have been watching a summer 
 
 This is the single most underrated of Fitzgerald's literary techniques, because it is invisible if you are not looking for it. A reader can love this book for years without consciously registering that the voice narrating it is speaking from a vantage point months past the funeral. Yet that vantage is doing constant, quiet work. It bathes the brightest scenes in advance grief. It lets a single early sentence drop the ending into your lap before the plot has started. It turns a sequence of events into a meditation on what those events meant. To read the frame is to read the engineering of feeling, and a student who can name and defend that engineering has moved from summarizing the plot to analyzing the craft, which is the whole point of writing about this novel at all.
 
-![The Great Gatsby frame narrative and retrospection](/assets/images/blog/blog-01.webp)
+![The Great Gatsby frame narrative and retrospection](/assets/images/blog/blog-95.webp)
 
 ## What a Frame Narrative and Retrospection Actually Mean Here
 

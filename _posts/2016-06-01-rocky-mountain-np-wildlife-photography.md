@@ -6,17 +6,17 @@ date: 2016-06-01
 categories: ["Travel"]
 tags: ["USA Travel", "Rocky Mountain National Park", "National Parks", "Outdoors", "Hiking"]
 excerpt: "Rocky Mountain wildlife made simple: where and when to see elk, moose, and bighorn sheep, the best light for photos, and the distances that keep you safe."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2016-06-01
+lang: en
 ---
-
 The difference between hoping to see Rocky Mountain wildlife and planning to see it comes down to three things you can decide before you ever leave the car: where to be, what hour to be there, and how far back to stand. Most visitors get the first wrong by searching the famous overlooks at midday, get the second wrong by sleeping through the only productive hours, and get the third wrong by walking toward the very animal they drove all this way to watch. Fix those three and the park opens up. Elk fill the meadows of Moraine Park and Horseshoe Park at dawn, moose browse the willows on the quiet west side, bighorn sheep work the slopes above Sheep Lakes, and the high tundra hums with marmots and pikas that almost nobody slows down to find.
 
 This is a viewing-and-shooting strategy, not a checklist of animals you might theoretically encounter. The animals are reliable if you meet them on their schedule and in their places, and the iconic photographs of this park come from a short list of locations at a short list of times. A reader who treats Rocky Mountain National Park wildlife as a planning problem rather than a matter of luck will see more, photograph better, and stay safe doing it.
 
-![Rocky Mountain National Park wildlife and photography](/assets/images/blog/blog-01.webp)
+![Rocky Mountain National Park wildlife and photography](/assets/images/blog/blog-56.webp)
 
 What follows ties each signature animal to its ground and its hour, lays out the light that produces the park's best-known images, and states the distance rules plainly, because here those rules are both the law and the single most effective viewing strategy you have. A bull elk in the rut is not a backdrop. Treated with respect and a long lens, though, it is one of the great wildlife spectacles in the lower forty-eight, and you can watch it happen from a meadow's edge with the morning fog still burning off the grass.
 
