@@ -6,15 +6,15 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Norway", "Senegal", "Group Stage", "Match Analysis"]
 excerpt: "Norway vs Senegal analysis from World Cup 2026: Erling Haaland's early brace held off a late Ismaila Sarr fightback to settle a nervy 3-2 in Group I action."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-23
+lang: en
 ---
-
 Norway beat Senegal 3-2 at the World Cup 2026 because they did the brutal, simple thing better than a more decorated opponent did the elaborate one. Senegal kept the ball, built the patterns, and finished the night with the higher possession count and the bigger shot total. Norway took the half-chances that fell to them, punished two defensive errors, and let Erling Haaland do what he has done in every competitive shirt he has worn for two seasons: turn a sliver of space into a goal. The final scoreline at New York/New Jersey Stadium in East Rutherford read like a thriller, and the closing fifteen minutes earned that billing. The body of the game did not. This was a controlled, front-foot-when-it-mattered performance dressed up as a scare by a Senegal side who arrived too late to the part of the match that decides outcomes.
 
-![Norway vs Senegal World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Norway vs Senegal World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The single sentence that explains this Norway vs Senegal analysis is that the Norwegians scored their goals in a fourteen-minute window either side of half-time and then defended the rest. Marcus Holmgren Pedersen put them ahead two minutes before the interval, Haaland struck three minutes after it and again ten minutes later, and from the hour mark onward Norway were managing a lead rather than building one. Senegal's two goals, both from Ismaila Sarr, came in that same managed phase and at the death, which made the result look closer than the run of play across ninety minutes ever suggested. Stale Solbakken's team are through to the Round of 32 with a game to spare. Pape Thiaw's are staring at an early exit. That asymmetry, two sides separated by a couple of moments of quality and a couple of lapses, is the story of the night, and it is the story this piece sets out to tell in full.
 

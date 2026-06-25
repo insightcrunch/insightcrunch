@@ -6,17 +6,17 @@ date: 2001-06-28
 categories: ["Industry"]
 tags: ["UPSC", "Tier 2 Cities", "Small Town UPSC", "Self Study", "IAS Preparation"]
 excerpt: "Prepare for UPSC from tier 2 and tier 3 cities with a complete guide to internet study, library groups and the truth about not needing to move to Delhi."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2001-06-28
+lang: en
 ---
-
 Preparing for UPSC from tier 2 and tier 3 cities feels, on the surface, like entering a race where the better-resourced runners started two kilometres ahead. You see Instagram reels of aspirants walking out of marble-fronted coaching institutes in Karol Bagh and Rajinder Nagar, you read interviews where toppers casually mention the test series they attended every Sunday a metro ride away, and you wonder whether your hometown of two hundred thousand people, with one decaying district library and no specialised UPSC bookstore, has quietly disqualified you before you wrote your first answer. This article exists to dismantle that fear completely, not with empty motivation, but with an operational, resource-by-resource plan that shows exactly how a candidate from a small city can build a preparation ecosystem equal to anything available in the national capital.
 
 The truth that the coaching industry will never advertise is that the single most decisive input in clearing the civil services examination is the quality of your self-study, and self-study is geography-agnostic. A candidate sitting in Bhilai, Warangal, Kozhikode, Saharanpur, or Dibrugarh has access to exactly the same primary sources, the same standard textbooks, the same syllabus, the same previous year question papers, and the same internet that a candidate in Delhi has. What the small-town aspirant lacks is not knowledge but infrastructure of habit: the peer pressure of a study room full of serious candidates, the easy availability of mentors, the curated test environment, and the psychological reassurance of being surrounded by others chasing the same dream. Every one of those gaps can be engineered around, and this guide walks through each of them in turn.
 
-![UPSC from tier 2 and tier 3 cities preparation guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC from tier 2 and tier 3 cities preparation guide - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 Before going further, it helps to be honest about what this article is and is not. It is not a feel-good pep talk that tells you location does not matter and leaves it there. Location does create real friction, and pretending otherwise would be dishonest. What this guide argues instead is that every form of that friction is solvable with deliberate systems, and that the candidates who internalise this early stop wasting months agonising over whether to migrate and start converting that anxiety into study hours. By the end, you will have a concrete twelve-month framework you can begin from a town of any size, a clear understanding of the two or three situations where relocating genuinely helps, and a realistic picture of the psychological terrain you will cross alone.
 

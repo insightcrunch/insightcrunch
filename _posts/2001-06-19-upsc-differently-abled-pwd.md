@@ -6,17 +6,17 @@ date: 2001-06-19
 categories: ["Industry"]
 tags: ["UPSC", "PwBD UPSC", "Differently Abled UPSC", "UPSC Reservation", "Civil Services", "UPSC Strategy"]
 excerpt: "UPSC for differently abled candidates explained: scribe rules, compensatory time, age and attempt relaxation, accessible centres and a complete PwBD plan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2001-06-19
+lang: en
 ---
-
 UPSC for differently abled candidates is not a softer version of the same examination; it is the same gruelling contest fought with a different set of tools, a different set of rights, and a different set of obstacles that most preparation advice never bothers to name. If you are a candidate with a benchmark disability, you have probably read dozens of strategy pieces that assume a body and a set of circumstances that are not yours. They assume you can write four hundred words in nine minutes without your hand cramping, that you can sit upright in a plastic chair for three hours without pain, that you can read a dense newspaper column without magnification, that you can simply walk into any examination centre and find it usable. When that assumption breaks, the generic advice quietly stops being useful, and you are left guessing at the rules that actually govern your attempt.
 
 This guide exists to remove the guessing. The reservation framework, the scribe provision, the compensatory time, the age and attempt relaxations, the accessible centre entitlements, and the medical board process that decides your final allocation are not favours handed to you out of sympathy. They are statutory entitlements built into the recruitment system, and the candidates who clear this examination as persons with benchmark disabilities are almost always the ones who understood those entitlements precisely, claimed them without apology, and then prepared with a discipline that left nothing to chance. The candidates who struggle are rarely the ones who lacked ability; they are the ones who walked in under-informed, claimed too little, prepared with materials that fought their disability instead of accommodating it, and discovered the rules too late to use them.
 
-![UPSC for Differently Abled Candidates Strategy Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC for Differently Abled Candidates Strategy Guide - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 By the end of this guide you will understand exactly where the persons with benchmark disability category sits inside the larger recruitment architecture, how the reservation and the relaxations interact, what the scribe rules permit and forbid, how compensatory time is calculated and claimed, how to assemble study material that works with your specific condition rather than against it, what to demand from an examination centre and how to demand it in time, and how the post result medical examination shapes your service allocation. The foundational overview of the whole journey lives in the [complete UPSC Civil Services preparation guide](/2003/07/24/upsc-civil-services-complete-guide/), and the precise eligibility arithmetic that every aspirant must internalise is laid out in the [UPSC eligibility, age limit and attempts guide](/2003/07/19/upsc-eligibility-age-attempts/). The broader reservation logic that sits behind every special category is covered in the [UPSC reserved category strategy guide](/2001/08/07/upsc-reserved-category-strategy/), and the welfare and social justice context that frames disability policy in India is treated in depth in the [UPSC GS2 social justice and vulnerable sections guide](/2002/10/31/upsc-gs2-social-justice-welfare-schemes-vulnerable-sections/). Treat this article as the disability specific layer that sits on top of all of those.
 

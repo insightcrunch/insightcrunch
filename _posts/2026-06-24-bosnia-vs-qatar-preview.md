@@ -6,15 +6,15 @@ date: 2026-06-24
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Bosnia and Herzegovina", "Qatar", "Group Stage", "Match Preview"]
 excerpt: "Bosnia vs Qatar World Cup 2026 preview: predicted lineups, the set-piece duel that decides it, the Group B scenarios and a clear final-round prediction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-24
+lang: en
 ---
-
 One question swallows everything else when Bosnia and Herzegovina meet Qatar in Seattle on the final day of Group B at World Cup 2026: who can find the goal that keeps a campaign alive? Both teams arrive at Seattle Stadium with a single point, both have been beaten heavily once, and both know that the other final-round game in the group cannot save them. This Bosnia vs Qatar World Cup 2026 fixture is a knockout in everything but name. Win and the survivor jumps to four points and steps to the front of the queue for one of the eight best third-placed places. Draw, and the maths quietly buries them both. Lose, and the tournament ends that afternoon.
 
-![Bosnia vs Qatar World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bosnia vs Qatar World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 That stark framing is what makes the game worth reading closely rather than skimming. It is not a dead rubber and it is not a coronation. It is the rarest thing the group stage produces in the expanded 48-team format: a true final-round decider between two sides who both still control their own destiny, played out while the teams above them settle first and second somewhere else. The set-piece lane, the containment of one Qatari playmaker, and a single column of the Group B table are the three things that will decide it, and this preview takes each of them apart.
 

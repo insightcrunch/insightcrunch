@@ -6,15 +6,15 @@ date: 2026-06-24
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Colombia", "DR Congo", "Group Stage", "Match Analysis"]
 excerpt: "Colombia vs DR Congo analysis: Daniel Munoz's deflected 76th-minute strike beat Lionel Mpasi to send a dominant Colombia into the World Cup 2026 round of 32."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-24
+lang: en
 ---
-
 For seventy-five minutes in Guadalajara, the Colombia vs DR Congo World Cup 2026 Group K meeting looked like the kind of night that swallows a favorite whole. Colombia battered the door, Lionel Mpasi kept slamming it shut, and the scoreboard sat stubbornly on 0-0 while the rain came down at Estadio Akron. Then Daniel Munoz arrived at the near post in the 76th minute, took Juan Quintero's pass first time, and watched it deflect past the goalkeeper who had spent the evening saving everything else. One goal. That was the whole margin. It was also, on any honest reading of the contest, an understatement of the gulf between the two sides.
 
-![Colombia vs DR Congo World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Colombia vs DR Congo World Cup 2026 analysis](/assets/images/blog/blog-25.webp)
 
 The single most important thing to understand about this match is that the final score and the balance of play pointed in opposite directions, and the score was the liar. Colombia did not edge a tight game. They controlled it from the first whistle to the last, generated twenty attempts to DR Congo's eight, and were held to a one-goal win only by a goalkeeping performance that belongs in the small museum of great World Cup rearguard nights. The result that reads as narrow was, in truth, a near-total tactical victory. The brief for this piece, and the spine of everything below, is exactly that contrast: Colombia's quality, not a comfortable cushion, secured control of Group K, and the way they did it tells you more about their tournament than a 4-0 rout would have.
 

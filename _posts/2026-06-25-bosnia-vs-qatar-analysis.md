@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Bosnia and Herzegovina", "Qatar", "Group Stage", "Match Analysis"]
 excerpt: "Bosnia vs Qatar World Cup 2026 finished 3-1 as a teenage stunner and veteran control sent Bosnia third in Group B and through to the Round of 32 knockouts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-25
+lang: en
 ---
-
 Bosnia and Herzegovina beat Qatar 3-1 in their final Group B game at World Cup 2026, and the single image that explains the night is an 18-year-old leaning back on the edge of the box and bending a shot into the far corner. Kerim Alajbegovic, the youngest player his country has ever sent to a World Cup, settled a do-or-die fixture in Seattle with a goal that would not have looked out of place in a final, and around that flash of youth the older heads in Sergej Barbarez's side did the unglamorous work that carried them third in the group and on toward the Round of 32. Qatar, the 2022 hosts, went home from a second straight World Cup without a win.
 
-![Bosnia vs Qatar World Cup 2026 result and analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bosnia vs Qatar World Cup 2026 result and analysis - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 That sentence holds the whole story in miniature, and the rest of this analysis unpacks it: how a side that arrived in the United States off a seven-game winless run, beaten 4-1 by Switzerland only days earlier, found the composure to control a match it had to win; why Qatar could edge the expected-goals count and still finish bottom of the table; what the result did to a Group B that Switzerland topped and Canada took second in; and where it sends both nations from here. The verdict that runs through every section is simple to name and was earned across ninety minutes at Lumen Field: Bosnia's blend of veteran control and a teenager's spark proved just enough, and the margin flattered neither the winners nor the losers as much as the scoreline alone suggests.
 

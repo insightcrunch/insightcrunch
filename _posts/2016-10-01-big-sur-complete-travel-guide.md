@@ -6,17 +6,17 @@ date: 2016-10-01
 categories: ["Travel"]
 tags: ["USA Travel", "Big Sur", "Pacific Coast Highway", "Road Trips", "Outdoors"]
 excerpt: "Big Sur rewards drivers who plan around Highway 1 closures, scarce gas, and no cell service. Here is how to ready the drive, time it, and pick your stops."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2016-10-01
+lang: en
 ---
-
 The first thing to understand about Big Sur is that it is two places at once. It is the stretch of coast that sells the postcards, all golden bluffs and a bridge arcing over a gorge, and it is also a remote ribbon of road where the gas runs out, the phone goes dark, and a single hillside can sever the route for months. Plan for the first Big Sur and you will be charmed. Plan for the second and you will actually get the trip you came for. Almost every disappointing visit traces back to a traveler who arrived ready for scenery and unready for logistics, and almost every great one belongs to someone who treated the drive as a readiness problem first and a scenic problem second.
 
 This guide is built around that order of operations. Big Sur is not a town you book and arrive at; it is a roughly ninety-mile gap in the map between Carmel and San Simeon where Highway 1 hugs the edge of the continent with the Santa Lucia Mountains dropping straight into the Pacific. There is no chain hotel to fall back on, no twenty-four-hour pharmacy, no reliable signal to look up the answer once you have left town. What there is instead is a series of state parks, a handful of famous viewpoints, a few expensive lodges, and a road that demands respect. Get the preparation right and the rest of the place opens up easily.
 
-![Big Sur coastline where Highway 1 winds along the cliffs above the Pacific](/assets/images/blog/blog-01.webp)
+![Big Sur coastline where Highway 1 winds along the cliffs above the Pacific](/assets/images/blog/blog-50.webp)
 
 If you are stitching Big Sur into a longer California coast trip, this guide assumes you have already met the route in the [complete Pacific Coast Highway road trip guide](/2016/07/01/pacific-coast-highway-complete-guide/) and are now zooming in on its most demanding and most rewarding segment. Big Sur is the heart of that drive and also its hardest section to plan, which is exactly why it earns a guide of its own. Everything below assumes you want to do it right rather than wing it, because winging Big Sur is how people end up coasting toward an empty fuel gauge on a road with no shoulder and no signal.
 

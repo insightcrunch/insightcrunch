@@ -1,17 +1,17 @@
 ---
 title: "Dramatic Irony in The Great Gatsby"
 date: 2026-04-06
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 image: /assets/images/blog/blog-01.webp
 excerpt: "Dramatic irony in The Great Gatsby lets the reader watch the catastrophe the characters cannot, turning Wilson's mistake and Gatsby's wait into pathos."
 reading_time: 41
 tags: ["The Great Gatsby", "Dramatic Irony", "F. Scott Fitzgerald", "Close Reading", "Themes", "American Literature"]
+lang: en
 ---
-
 There is a moment near the end of the novel when a grieving man loads a revolver, walks across half of Long Island, and shoots the wrong person. George Wilson believes he is killing his wife's lover and the driver who ran her down. He is wrong on both counts, and every reader who has reached that page knows he is wrong. That gap, between what we know and what Wilson does not, is the engine this essay takes apart. Dramatic irony in The Great Gatsby is not a decorative flourish or a clever wink. It is the device that converts a sordid chain of accidents into something close to tragedy, because Fitzgerald arranges for the reader to carry knowledge the characters never receive, and then makes us watch them act in the dark.
 
-![Dramatic irony in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Dramatic irony in The Great Gatsby](/assets/images/blog/blog-40.webp)
 
 Most readers meet the phrase dramatic irony in a vocabulary list and file it next to verbal irony and situational irony as one more term to memorize for an exam. That filing is where the misreading begins. Treated as a label, dramatic irony explains nothing. Treated as a working part of the machine, it explains why the last quarter of the book hurts the way it does. This is the dramatic-irony facet of the larger irony technique; if you want the whole apparatus of verbal, situational, and structural irony surveyed together, the [irony in The Great Gatsby](/2026/03/30/gatsby-irony/) pillar holds that survey. What follows here narrows to one device and presses on it until it gives up its method.
 

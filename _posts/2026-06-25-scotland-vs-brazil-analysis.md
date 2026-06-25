@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Scotland", "Group Stage", "Match Analysis"]
 excerpt: "Scotland vs Brazil result and analysis: a sharp Vinicius Junior brace and a Matheus Cunha strike sealed Brazil's 3-0 win to top Group C at World Cup 2026."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-25
+lang: en
 ---
-
 Brazil beat Scotland 3-0 in Miami to win Group C at World Cup 2026, and the single fact that explains the scoreline is not Brazilian brilliance but Scottish generosity. All three goals were born in Scotland's own half, from passes that never reached their target, and the man who punished each lapse was Vinicius Junior. The Real Madrid forward scored inside seven minutes, had a second ruled out by the video assistant referee, then headed home in first-half stoppage time, and Matheus Cunha applied the finish on the hour. The numbers underline the gap, an expected-goals reading of 4.46 to 1.13, yet the story of the night is narrower and harsher for Steve Clarke's side: Scotland did not lose this game so much as hand it over, and the margin they conceded may decide whether their tournament continues.
 
-![Scotland vs Brazil result and analysis at World Cup 2026](/assets/images/blog/blog-01.webp)
+![Scotland vs Brazil result and analysis at World Cup 2026](/assets/images/blog/blog-32.webp)
 
 That is the verdict this analysis defends, and it is worth naming clearly before the detail, because it is the through-line of everything that follows. Call it the turnover tax. Brazil arrived at Hard Rock Stadium needing a win to stay ahead of Morocco at the top of Group C, and they got one without ever reaching their ceiling, because Scotland kept paying them in possession. The opener came from Scott McKenna dawdling on the ball. The disallowed effort came from Vinicius robbing Jack Hendry in a similar moment of hesitation. The second goal arrived after another giveaway inside the Scottish box. Carlo Ancelotti's team did not have to construct; they had to collect. And the bill Scotland ran up, a three-goal defeat rather than the narrow loss they had publicly hoped to limit themselves to, swelled into a goal-difference penalty that left their qualification hopes in other nations' hands.
 

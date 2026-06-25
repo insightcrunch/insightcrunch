@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Switzerland", "Canada", "Group Stage", "Match Analysis"]
 excerpt: "Switzerland vs Canada result and analysis: the Swiss won Group B 2-1 at World Cup 2026, with the scorers, the seeding swing and the Round of 32 road ahead."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-25
+lang: en
 ---
-
 Switzerland beat Canada 2-1 at BC Place in Vancouver to win Group B at World Cup 2026, and the whole afternoon turned on an eleven-minute window early in the second half. Both teams arrived already on course for the Round of 32, so this was never a fight for survival. It was a fight for first place, for seeding, and for the right shape of knockout draw, and Switzerland won all three. Ruben Vargas struck within a minute of the restart, Johan Manzambi doubled the lead soon after, and although Promise David pulled one back with his first touch off the Canada bench, the co-hosts could not find the equalizer their second-half pressure deserved. The single thing that explains this result is the speed and the timing of the Swiss punch: two goals in eleven minutes, against the run of much of the play, that flipped the entire group on its head.
 
-![Switzerland vs Canada World Cup 2026 analysis and Group B result](/assets/images/blog/blog-01.webp)
+![Switzerland vs Canada World Cup 2026 analysis and Group B result](/assets/images/blog/blog-68.webp)
 
 That eleven-minute window did not just decide who lifted the group. It decided where each side travels next, and that matters far more than the trophy-less honor of topping a group both teams had effectively already escaped. By finishing first, Switzerland stay in Vancouver for their Round of 32 tie. By finishing second, Canada surrender home advantage and fly south to Los Angeles. The scoreboard read 2-1, a one-goal margin, but the consequences fan out across the bracket in a way that a single goal rarely does. This analysis walks through how the game was won and lost, who decided it, what the numbers say, and exactly what the result means for both nations and for the rest of Group B.
 

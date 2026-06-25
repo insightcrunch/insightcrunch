@@ -5,18 +5,18 @@ date: 2026-03-23
 excerpt: "How Fitzgerald foreshadows tragedy in The Great Gatsby, seeding doom through the retrospective frame so the ending feels inevitable rather than abrupt."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "chloe-martin"
 reading_time: 60
 tags: ["The Great Gatsby", "Foreshadowing", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
+lang: en
 ---
-
 Most readers meet foreshadowing in The Great Gatsby as a scavenger hunt. They are told to circle the green light, underline the eyes on the billboard, flag the careless driving, and tally the omens like coupons clipped from the text. That habit produces a list, and a list is not an argument. It treats Fitzgerald's planted signs as decoration, as little Easter eggs scattered for the attentive, when in fact the signs are load bearing. They hold the ending up. The difference between noticing a hint and understanding the technique is the difference between summary and analysis, and it is the whole subject of this guide.
 
 The claim this article defends is simple to state and harder to earn: Fitzgerald did not sprinkle clues across the book. He engineered an inevitability. From the first chapter, the narration is salted with signals of the outcome, and those signals are not random sparks of authorial cleverness but a system, built deliberately, that makes the catastrophe feel less like an accident and more like a destination the story was always traveling toward. By the time Gatsby floats dead in his pool, the reader experiences not surprise but recognition, the strange sensation of arriving somewhere the book had quietly promised all along.
 
 That effect has a name worth keeping: doom written in advance. The phrase points at the machinery rather than the moment. It insists that the tragedy is authored before it happens, planted in plain sight, and that the reader's growing dread is not a side effect but the designed result of a narrator who already knows how the summer ends and cannot help letting that knowledge bleed into the telling.
 
-![Foreshadowing in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Foreshadowing in The Great Gatsby](/assets/images/blog/blog-33.webp)
 
 Understanding this changes how you read every scene. A car is never only a car once you have seen what the cars in this novel do. A clock teetering on a mantel is never only a clock. The cheerful surface of a party acquires an undertow, because you have learned that the book's brightness is a setup for its darkness. This is the reward of reading foreshadowing as a craft choice instead of a trivia exercise: the novel stops being a sequence of events and becomes a designed object, every part answering to every other, the beginning already containing the end.
 

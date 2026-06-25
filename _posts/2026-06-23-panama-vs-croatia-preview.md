@@ -6,15 +6,15 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Panama", "Croatia", "Group L", "Match Preview", "Prediction"]
 excerpt: "Panama vs Croatia World Cup 2026 preview: prediction, predicted lineups, the key Group L battles and the recovery both winless sides must chase in Toronto."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-23
+lang: en
 ---
-
 Two sides walked into the 2026 World Cup with very different reputations and walked out of their opening games carrying the same number: zero. Panama vs Croatia, a World Cup 2026 fixture in Toronto on June 23, is the match where that shared figure stops being a coincidence and starts being a verdict. Croatia, the side that reached the 2018 final and finished third in 2022, arrived among the more respected names in Group L and were beaten by England. Panama, a nation at only its second World Cup, were the better team for long stretches of their opener and lost it in the final seconds. Both now sit on no points, and the table does not care which badge is more famous. This is the recovery checkpoint: the game that decides whether a tournament is salvaged or quietly lost.
 
-![Panama vs Croatia World Cup 2026 preview, prediction, lineups and Group L scenarios - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Panama vs Croatia World Cup 2026 preview, prediction, lineups and Group L scenarios - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 Call it the recovery checkpoint because that is exactly what it is for the side wearing the checkered shirts, and a different kind of checkpoint for the other. For Croatia, a defeat here would not just be a poor result, it would be a structural problem, the kind that ends a campaign before the third game is even played. For Panama, this is the fixture their whole group was always built around, the one their coaching staff circled the moment the draw was made, because the matches against England were always going to be uphill and the matches against a recovering Croatia were always going to be the realistic route to history. The pressure points run in opposite directions and meet on the same field.
 

@@ -6,17 +6,17 @@ date: 2026-06-24
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Morocco", "Haiti", "Group Stage", "Match Preview"]
 excerpt: "Morocco vs Haiti World Cup 2026 preview: predicted lineups, Group C qualification scenarios, the key battles and a score prediction for the Atlanta finale."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-24
+lang: en
 ---
-
 When Morocco walk out at Mercedes-Benz Stadium for their final Group C game of World Cup 2026, the question is not whether they will go through. It is where they will finish, and what that finishing position will cost or save them in the bracket that follows. That is the lens through which to read Morocco vs Haiti: a settled, top-ten side managing the difference between first and second against a Haiti team that has already been eliminated and now plays purely for pride. The margin Morocco win by, and what Brazil are doing two thousand miles away in Miami at the same moment, will decide their knockout path more than anything Haiti can do to stop them.
 
 That is the claim this preview is built around. Call it the seeding game. With four points from a draw against Brazil and a win over Scotland, Morocco arrive in Atlanta needing only to avoid a heavy defeat to be near-certain of a Round of 32 place, and a win to lock second outright. The drama, such as it is, lives in goal difference and in the parallel result, not in survival. Haiti, freed from the maths, can throw caution aside and try to leave the tournament with the first World Cup goal of their 2026 campaign. That combination, a favorite chasing a tidy finish and an underdog with nothing to lose, is what gives this fixture its shape.
 
-![Morocco vs Haiti World Cup 2026 preview, predicted lineups and Group C qualification scenarios - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Morocco vs Haiti World Cup 2026 preview, predicted lineups and Group C qualification scenarios - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 ## Morocco vs Haiti: the Group C finale and what it really decides
 

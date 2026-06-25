@@ -6,15 +6,15 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Jordan", "Algeria", "Group Stage", "Match Analysis"]
 excerpt: "Jordan vs Algeria result: Algeria won 2-1 from two second-half corners at World Cup 2026, ending debutant Jordan's run and breathing new life into Group J."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-23
+lang: en
 ---
-
 A corner kick decided Jordan vs Algeria at World Cup 2026, and then a second corner kick decided it again. Algeria came from behind to beat debutant Jordan 2-1 in Group J at the San Francisco Bay Area Stadium in Santa Clara, turning a night that had threatened to bury their tournament into the night that revived it. Jordan had led through a first-half strike that nobody in green saw coming and that few in the stands could quite believe. Algeria answered with the most unglamorous weapon in the modern game, the set piece, scoring twice from the corner flag in the second half through substitute Nadhir Benbouali and then Amine Gouiri to leave the World Cup newcomers eliminated with a match still to play.
 
-![Jordan vs Algeria World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Jordan vs Algeria World Cup 2026 analysis](/assets/images/blog/blog-73.webp)
 
 This is the post-match account of a contest that was tighter, tenser, and more revealing than the bare 2-1 suggests. It is a story about how a side that had been humbled by Lionel Messi and Argentina found a way to win without ever truly purring, about how a debutant nation defended for an hour with the discipline of veterans before the dead ball undid them, and about how two restarts swung a result and, with it, the shape of an entire group. If you want the forward-looking build-up, the predicted lineups and the pre-match stakes as they stood before kickoff, that material lives in the companion piece, the [Jordan vs Algeria preview](/2026/06/22/jordan-vs-algeria-preview/). What follows here is what actually happened, why it happened, and what it changed.
 

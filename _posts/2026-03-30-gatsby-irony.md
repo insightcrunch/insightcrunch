@@ -6,15 +6,15 @@ date: 2026-03-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Irony", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Irony in The Great Gatsby is the book's basic mode: verbal, situational, and structural irony turn Nick's wit and Gatsby's empty funeral into one method."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-03-30
+lang: en
 ---
-
 Most readers meet irony in The Great Gatsby as a handful of clever moments: a sharp line from Nick, a funeral nobody attends, a green light that turns out to be a porch lamp on a neighbor's dock. Treated that way, irony looks like seasoning, a wit Fitzgerald sprinkles over an otherwise straight story. That reading sells the novel short. Irony is not a garnish in this book. It is the climate. Every level of the narrative, from the choice of a single adverb to the shape of the whole plot, runs on the gap between what is expected and what arrives. Learn to read that gap and you stop summarizing the novel and start analyzing it, because irony is the engine that drives almost every effect Fitzgerald wants.
 
-![Irony in The Great Gatsby: verbal, situational, and structural irony as the novel's basic mode](/assets/images/blog/blog-01.webp)
+![Irony in The Great Gatsby: verbal, situational, and structural irony as the novel's basic mode](/assets/images/blog/blog-115.webp)
 
 The aim of this guide is to treat irony as a craft technique rather than a list of funny coincidences. We will define the three kinds of irony the novel uses, survey where each one operates, read the decisive passages line by line, and then sort the whole pattern into a single map you can cite in an essay. Along the way we will defend one argument: that irony in The Great Gatsby is not occasional wit but the book's fundamental mode, and that the empty funeral after the crowded parties is the entire method compressed into one image. For a closely related device, the moments where the reader knows what a character does not, see the companion study of [dramatic irony in The Great Gatsby](/2026/04/06/gatsby-dramatic-irony/), which this article treats as one branch of the larger system.
 

@@ -6,15 +6,15 @@ date: 2026-06-24
 categories: ["Leisure"]
 tags: ["World Cup 2026", "England", "Ghana", "Group Stage", "Match Analysis"]
 excerpt: "England vs Ghana finished 0-0 at World Cup 2026 as Carlos Queiroz's block strangled Tuchel's side. Full analysis, player ratings, and the Group L math."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-24
+lang: en
 ---
-
 England vs Ghana at World Cup 2026 ended goalless in Boston, and the single fact that explains the night is not that England wasted chances but that Ghana almost never let England build a clear one. Four days after Thomas Tuchel's team had thrilled in a 4-2 win over Croatia, the Three Lions ran into a defensive machine built by a 73-year-old coach who has spent four decades teaching teams how to make games small. Carlos Queiroz did it again. Ghana sat deep, stayed compact, and turned a fixture every projection had marked as a procession into a grind that England never solved. The 0-0 draw was earned by a plan, not handed over by accident.
 
-![England vs Ghana World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![England vs Ghana World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 That distinction is the spine of this piece, and it deserves a name. Call it the structure-over-profligacy verdict. England did miss good moments, most painfully through Harry Kane in the closing stages, and a more clinical evening would have produced a 1-0 or 2-0 scoreline that nobody would have questioned. But the reason those moments were so few, so late, and so rushed was the shape Ghana held in front of Benjamin Asare's goal for ninety-plus minutes. The draw was a Queiroz blueprint executed by players who refused to break their lines, and reading the game any other way flatters England and robs Ghana of the credit the night actually demands. This analysis takes the result apart from both directions: why England could not find a way through, and how Ghana made sure there was no way through to find.
 
@@ -316,7 +316,6 @@ England were not the only fancied side to find the second round of group games a
 What distinguishes England's case, and what should temper any rush to panic, is the specific and addressable nature of the problem they encountered. This was not a team outplayed, outfought, or exposed defensively; it was a team that dominated the ball, conceded almost nothing, and fell short only in the final, decisive act of converting territory into goals against a packed rearguard. That is a far more comfortable kind of failure to carry forward than its alternatives, because it points to a single missing skill rather than a systemic frailty. A side that cannot defend has a deep and dangerous flaw; a side that defends well and merely needs to sharpen its edge against deep opponents has a project, not a crisis.
 
 Set against the other contenders, then, England's position remains strong, and the Boston result is best read as a useful correction rather than a damaging blow. They sit top of their group, all but assured of progression, with a diagnosis of their weakness delivered early and a squad deep enough to address it. The favorites who stumble in the group stage and learn the right lessons are historically better placed than those who breeze through and meet their reckoning later, and England have the talent and the time to turn their frustrating night in Boston into the moment their tournament grew up. The comparison with their fellow contenders, in the end, is reassuring rather than worrying, provided the lesson is heeded.
-
 
 
 ## The goalkeeping and the back line that defined Ghana's night

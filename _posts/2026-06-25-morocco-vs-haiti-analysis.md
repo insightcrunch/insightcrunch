@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Morocco", "Haiti", "Group Stage", "Match Analysis"]
 excerpt: "Morocco beat Haiti 4-2 at World Cup 2026 to reach the Round of 32 as Group C runners-up, recovering from behind twice in a wild six-goal night in Atlanta."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-25
+lang: en
 ---
-
 Morocco are through to the Round of 32, and they got there the hard way. The Atlas Lions beat Haiti 4-2 in their final Group C match of World Cup 2026 at Atlanta's Mercedes-Benz Stadium, but the scoreline flatters a night on which they twice trailed an eliminated side that had not scored a single goal in 52 years of waiting. The one thing that explains this result is the gap between Morocco's process and Morocco's personnel. By the underlying numbers this was a thrashing waiting to happen, with the Atlas Lions piling up chances and territory against opponents with nothing left to qualify for. By the run of play it was chaos, a game Morocco kept handing back through soft concessions before two substitutes, Soufiane Rahimi and Gessime Yassine, finally settled it inside the last quarter of an hour. Morocco won, sealed second place, and advanced. They also showed any future opponent exactly where to push.
 
-![Morocco vs Haiti World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Morocco vs Haiti World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 That tension is the spine of this report. Morocco arrived in Atlanta having drawn with Brazil and beaten Scotland, four points banked and qualification all but secured, needing only to avoid a heavy and improbable defeat to guarantee a knockout berth. Haiti arrived with nothing to chase but pride, already out after losing to Scotland and Brazil, carrying the weight of a nation that had not appeared at a World Cup since 1974 and had not scored at one in all that time. On paper it was a procession. On grass it was the most entertaining game of the group, a six-goal swing of momentum that asked real questions of a Morocco side many expect to go deep, and answered very few of them cleanly.
 

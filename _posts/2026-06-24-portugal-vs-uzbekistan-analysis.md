@@ -6,15 +6,15 @@ date: 2026-06-24
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Portugal", "Uzbekistan", "Group Stage", "Match Analysis"]
 excerpt: "Portugal vs Uzbekistan result and analysis: Ronaldo's record brace powered a commanding 5-0 World Cup 2026 win that reshaped Group K in Houston on June 23."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-06-24
+lang: en
 ---
-
 Five days of questions answered in six minutes. Portugal vs Uzbekistan at World Cup 2026 had been framed as a referendum on whether a 41-year-old captain still belonged in the starting eleven, and Cristiano Ronaldo settled the argument before the Houston crowd had finished finding its seats. His opener after six minutes was the first beat of a 5-0 rout, and by the time he had added a second and rewritten a stack of tournament records, the only debate left was how far this Portugal side can go. The number that defines this match is not the five goals. It is the six minutes it took Portugal to turn a week of doubt into a statement.
 
-![Portugal vs Uzbekistan World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Portugal vs Uzbekistan World Cup 2026 result and player ratings - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 This is the namable spine of the night, and it is worth stating plainly: the six-minute answer. Ronaldo's early strike did more than open the scoring. It dissolved the question that had hung over Roberto Martinez since the opening-game draw with DR Congo, freed Portugal to play with the front-foot conviction that had deserted them four days earlier, and turned a potentially nervous afternoon against World Cup debutants into a stress-free exhibition. Everything that followed, the second goal, the free-kick, the own goal, the late fifth, flowed from a team that no longer had anything to prove and a striker who had just proved everything.
 

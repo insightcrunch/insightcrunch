@@ -6,17 +6,17 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Norway", "Senegal", "Group Stage", "Match Preview"]
 excerpt: "Norway vs Senegal preview for World Cup 2026: Haaland and the Group I leaders meet Senegal in New Jersey, with predicted lineups, tactics and key stakes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-22
+lang: en
 ---
-
 Can a Senegal side built for speed and power find a way to slow Erling Haaland before he decides another night, or will Norway's first World Cup in a generation turn into a procession through Group I? That is the question Norway vs Senegal poses at World Cup 2026, a Group I meeting at New York/New Jersey Stadium in East Rutherford on June 22 that pits the group's early pacesetters against a wounded heavyweight who cannot afford a second defeat. Norway arrive on a high after dismantling Iraq. Senegal arrive stung by a late collapse against France. Both know that the next ninety minutes could shape the entire group.
 
 This is not a tie between a favorite and a makeweight. It is a tie between two sides who believe they should win, who have the attacking weapons to win, and who carry very different kinds of pressure into kickoff. Norway have the tournament's most feared number nine and a settled, confident rhythm. Senegal have a deeper pool of major-tournament experience, a more physically imposing spine, and the urgency of a team that has already used up its margin for error. The collision of those profiles is what makes this fixture worth dissecting in detail.
 
-![Norway vs Senegal World Cup 2026 preview, prediction and predicted lineups featuring Erling Haaland - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Norway vs Senegal World Cup 2026 preview, prediction and predicted lineups featuring Erling Haaland - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 ## What Norway vs Senegal means in Group I at World Cup 2026
 

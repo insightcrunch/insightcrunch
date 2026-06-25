@@ -6,17 +6,17 @@ date: 2026-06-24
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Scotland", "Brazil", "Group Stage", "Match Preview"]
 excerpt: "Scotland vs Brazil World Cup 2026 preview with team news, predicted lineups, head to head record, Group C qualification scenarios, and our score prediction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-24
+lang: en
 ---
-
 Scotland arrive in Miami on the final night of Group C with a question they have never once answered in their history, and Brazil are the side standing between them and the answer. This is the fixture that defines Scotland's World Cup 2026, a Group C decider at the Hard Rock Stadium where one result keeps the Tartan Army alive and another sends them home as they have always gone home, at the group stage. Brazil have a different question on their minds, the simple matter of whether they finish top of the group or settle for second, but the gap in stakes does not narrow the gap in quality. Steve Clarke's side need something from ninety minutes against a Brazil team that has won the last three World Cup meetings between these nations and has never lost to Scotland in ten attempts across half a century. The pre-match maths is brutal in its clarity, and so is the pre-match history.
 
 What makes this final-round tie so charged is that both teams want something real from it. Brazil are not coasting toward a settled qualification with nothing to gain; they are chasing first place in the group because first place hands them a kinder route through the new Round of 32. Scotland are not playing for pride alone; they are playing for the first knockout appearance in their tournament history, and the margin between getting it and missing it could be a single goal one way or the other. That double incentive is what turns a fixture the bookmakers see as one-sided into a genuine night of jeopardy.
 
-![Scotland vs Brazil World Cup 2026 preview and prediction Group C scenarios - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Scotland vs Brazil World Cup 2026 preview and prediction Group C scenarios - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 ## What Scotland vs Brazil means in Group C
 

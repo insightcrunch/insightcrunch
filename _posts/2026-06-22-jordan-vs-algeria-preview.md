@@ -6,15 +6,15 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Jordan", "Algeria", "Group Stage", "Match Preview"]
 excerpt: "Jordan vs Algeria is a World Cup 2026 Group J must-win after both lost their openers. Predicted lineups, team news, tactics and the scenarios that decide it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-22
+lang: en
 ---
-
 There is one question that hangs over Jordan vs Algeria at World Cup 2026, and it is the bluntest kind a group game can pose: which of these two nations gets to keep dreaming, and which one effectively goes home a week early? Both walked off the field in their opening fixtures with nothing. Both arrive in Santa Clara on June 22 needing not just a performance but a result, because the math of Group J has already turned a second-round group match into something that behaves far more like a knockout tie. This is the night the pointless meet, and only one of them can leave with a pulse.
 
-![Jordan vs Algeria World Cup 2026 Group J preview](/assets/images/blog/blog-01.webp)
+![Jordan vs Algeria World Cup 2026 Group J preview](/assets/images/blog/blog-88.webp)
 
 That framing is not hype, it is arithmetic. When the draw placed Jordan and Algeria alongside reigning champions Argentina and a resurgent Austria, most neutrals pencilled this fixture in as the contest that would settle the runner-up race or, at minimum, the fight for one of the eight best third-placed berths. Instead, after a single round of fixtures, it has become the cliff edge. The loser here will almost certainly be eliminated before the final matchday whistle blows elsewhere in the group, and even the winner will need favors. That is the survival play-off that Group J did not plan for, and it is the spine of everything that follows.
 

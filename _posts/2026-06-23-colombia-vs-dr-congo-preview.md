@@ -6,13 +6,13 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Colombia", "DR Congo", "Group Stage", "Match Preview"]
 excerpt: "Colombia vs DR Congo World Cup 2026 preview with prediction, predicted lineups, head to head and the Group K scenarios shaping this matchday two clash."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-23
+lang: en
 ---
-
-![Colombia vs DR Congo World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Colombia vs DR Congo World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 Colombia arrive in Guadalajara as the only side in Group K with a clean three points, and they meet a DR Congo team that has already rewritten part of its own history. The second round of fixtures in this group splits cleanly into two stories that pull against each other. One is the story of a fluent South American side that took the early initiative and now wants to convert promise into qualification. The other is the story of a nation that waited fifty two years to return to the World Cup, scored its first goal at this level inside its opening match, and walked off the pitch in Houston believing it could have won. When those two stories collide at Estadio Akron, the result will reshape the entire group.
 
