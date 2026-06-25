@@ -9,7 +9,7 @@ excerpt: "SAT for sophomores: the PSAT as a baseline, foundational skills that s
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 61
 author: "christopher-wells"
-last_updated: 1996-07-29
+last_updated: 2026-06-25
 lang: en
 ---
 A tenth grader who spends sophomore fall grinding through timed practice sections is solving the wrong problem two years early. The exam that decides college options is still eighteen months away from mattering, the math that anchors a third of it has not been fully taught in class yet, and the single activity with the highest long-term payoff is one no timed drill can replace: reading widely, every week, for the pleasure and the volume of it. Sophomore year is not the year to cram. It is the year to build the floor that everything else stands on, and to set one low-pressure marker so the work that begins later starts from a known place rather than a guess.

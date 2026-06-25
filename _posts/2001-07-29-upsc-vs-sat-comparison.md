@@ -9,7 +9,7 @@ excerpt: "UPSC vs SAT compared: how India's knowledge-breadth civil services exa
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-07-29
+last_updated: 2026-06-25
 lang: en
 ---
 The UPSC vs SAT comparison sounds, at first hearing, like a category error. One is the gateway to the Indian Administrative Service, a multi-stage ordeal that consumes years of a young adult's life and selects roughly a thousand officers from more than a million applicants. The other is a three-hour standardised test that American teenagers sit, often more than once, on a Saturday morning to strengthen a college application. Putting them side by side feels like weighing a marathon against a sprint. Yet aspirants, parents, and curious students keep asking the question, and the question is more revealing than it looks. When you place these two examinations next to each other, you are really comparing two entire philosophies of what a high-stakes test should measure, how a society decides who deserves opportunity, and what kind of mind each system is trying to find.

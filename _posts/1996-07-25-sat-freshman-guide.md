@@ -9,7 +9,7 @@ excerpt: "SAT for freshmen explained: why 9th grade is usually too early for for
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1996-07-25
+last_updated: 2026-06-25
 lang: en
 ---
 A parent emails a tutor in September of their child's freshman year. The message is calm on the surface and anxious underneath. A neighbor's older kid scored well after starting prep in ninth grade, a cousin enrolled in a weekend course at fourteen, and now the question lands hard: should a freshman study for the SAT right now, before the train leaves the station? The honest answer surprises almost everyone who asks it. For nearly every fourteen-year-old, formal SAT prep in ninth grade is not a head start. It is wasted effort at best and a quiet path toward burnout at worst, and the student who waits until eleventh grade with strong foundations behind them tends to match or beat the peer who drilled flashcards at fourteen.

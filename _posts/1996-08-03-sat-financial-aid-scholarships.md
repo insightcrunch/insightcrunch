@@ -9,7 +9,7 @@ excerpt: "SAT scores and financial aid explained: automatic merit grids, the Nat
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "patrick-dunn"
-last_updated: 1996-08-03
+last_updated: 2026-06-25
 lang: en
 ---
 Here is the sentence almost no one says out loud to a high school junior staring at a practice result: a forty-point gain on this exam can be worth more than a summer job, a part-time job through college, and a graduation gift combined. Not in some vague motivational sense. In dollars, layered across four years, written into an award letter before you have even chosen a roommate. The reason is a quiet mechanism that most families never learn until they are deep in the application season, when the chance to act on it has mostly passed: a large number of universities convert your composite into automatic scholarship money on a published grid, and a separate national program turns one strong fall morning into a title that follows you onto award letters at hundreds of campuses.

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-21T09:56:37Z",
-  "total_posts": 2757,
-  "flagged_posts": 154,
-  "clean_posts": 2603,
+  "generated": "2026-06-25T09:30:35Z",
+  "total_posts": 2932,
+  "flagged_posts": 155,
+  "clean_posts": 2777,
   "posts": [
     {
       "filename": "2013-08-27-harry-potter-snape-vs-sirius-comparison.md",
@@ -193,6 +193,30 @@
       ],
       "critical_count": 1,
       "warning_count": 1
+    },
+    {
+      "filename": "2001-09-17-ias-training-lbsnaa.md",
+      "slug": "ias-training-lbsnaa",
+      "url": "/2001/09/17/ias-training-lbsnaa/",
+      "title": "IAS Training at LBSNAA: Life After Clearing UPSC",
+      "page_title": "IAS Training at LBSNAA: Foundation Course Phases Field Posting Guide",
+      "has_page_title": true,
+      "date": "2001-09-17",
+      "word_count": 14101,
+      "issues": [
+        {
+          "keyword": "upsc",
+          "type": "MISSING_FROM_PAGE_TITLE",
+          "severity": "critical",
+          "detail": "\"upsc\" is in the title but absent from page_title",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 9
+        }
+      ],
+      "critical_count": 1,
+      "warning_count": 0
     },
     {
       "filename": "2009-07-04-south-point-high-school-opts-for-cbse-board-along-with-west-bengal-board.md",

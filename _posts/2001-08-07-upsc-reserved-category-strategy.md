@@ -9,7 +9,7 @@ excerpt: "UPSC reserved category strategy for SC, ST, OBC and EWS aspirants: ext
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 61
 author: "kavita-sharma"
-last_updated: 2001-08-07
+last_updated: 2026-06-25
 lang: en
 ---
 If you belong to a reserved category and you have ever felt a quiet confusion about how exactly your situation changes the civil services game, you are not alone, and a clear UPSC reserved category strategy is precisely what most aspirants in your position never receive. You hear two contradictory messages constantly. One crowd insists that reservation hands you the result on a plate, that your cut-off is so low you barely have to study. Another crowd, often inside your own head at two in the morning, whispers that you will always be seen as the candidate who got in through the back door, that your selection will carry an asterisk. Both messages are wrong, and both quietly sabotage thousands of capable aspirants every year.

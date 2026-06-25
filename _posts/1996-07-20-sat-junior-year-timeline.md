@@ -9,7 +9,7 @@ excerpt: "SAT junior year timeline explained month by month: PSAT, structured pr
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 60
 author: "maria-santos"
-last_updated: 1996-07-20
+last_updated: 2026-06-25
 lang: en
 ---
 Most eleventh-graders treat the SAT junior year question as a single decision: pick a date, sign up, show up. That framing is why so many of them end the year with a number that does not reflect what they could have earned. The exam does not reward the student who studied hardest in the final two weeks. It rewards the one who turned a vague intention into a sequence of dated decisions, each made on time, each informed by the result of the one before it. Junior year is the main event of the whole admissions arc, and a junior who walks into it with a calendar instead of a panic schedule keeps options open that a late starter has already lost by spring.
