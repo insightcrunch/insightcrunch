@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Curacao", "Ivory Coast", "Group Stage", "Match Analysis"]
 excerpt: "Curacao vs Ivory Coast analysis: Nicolas Pepe's brace sent Ivory Coast into the World Cup 2026 last 32 and ended Curacao's historic debut tournament run."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-26
+lang: en
 ---
-
 A World Cup is decided in small moments, and the Curacao vs Ivory Coast analysis at World Cup 2026 keeps returning to one of them: a loose ball in the Curacao box after seven minutes, a defensive line that did not clear its lines, and Nicolas Pepe arriving at exactly the spot a deep block is supposed to protect. Ivory Coast won 2-0 at Philadelphia Stadium on June 25, 2026, and the scoreline tells the truth about the night. The smallest nation ever to reach a World Cup set up to survive, came within a single early error of making the final group game a genuine fright, and then watched the contest drain away as the team that only needed a draw took the lead it could sit on. By the end, Ivory Coast had reached the knockout stage of a World Cup for the first time in their history, and Curacao had reached the end of a debut that still rewrote what a tiny football nation can do.
 
-![Curacao vs Ivory Coast World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Curacao vs Ivory Coast World Cup 2026 analysis](/assets/images/blog/blog-84.webp)
 
 The match was never a thriller in the conventional sense, and pretending otherwise would miss what actually happened on the field. It was a control exercise, a deep defensive plan tested against a side with more individual quality, and a story about how one mistake can collapse a whole tactical structure before it has the chance to do its job. This is the analysis of how Ivory Coast advanced and how Curacao bowed out, told through the passages that decided it, the numbers that support it, and the two clean passes that broke the most stubborn block in the group.
 

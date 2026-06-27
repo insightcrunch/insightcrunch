@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Paraguay", "Australia", "Group Stage", "Match Preview", "Qualification Scenarios"]
 excerpt: "Paraguay vs Australia World Cup 2026 preview: prediction, team news with Almiron banned, predicted lineups and the Group D scenarios that decide who advances."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-25
+lang: en
 ---
-
 Two nations arrive in the San Francisco Bay Area on the same number of points, with the same two-game record, chasing the same single prize, and only one obvious difference between them: a two-goal cushion that sits entirely on Australia's side of the ledger. That is the question Paraguay vs Australia poses on the final night of Group D at World Cup 2026. Both have beaten Turkiye, both have lost to the host United States, and both will finish in the top three of a group the Americans have already won. Yet the math does not treat them equally. Australia can walk into the knockout rounds with a draw because their goal difference is better. Paraguay, sitting on minus two and missing the one player who unlocks defenses, almost certainly have to win. Everything about how these two managers set up flows from that asymmetry.
 
-![Paraguay vs Australia World Cup 2026 preview](/assets/images/blog/blog-01.webp)
+![Paraguay vs Australia World Cup 2026 preview](/assets/images/blog/blog-74.webp)
 
 Call it the draw-cushion asymmetry, because it is the spine of the entire evening and the lens through which every selection, every tactical choice, and every substitution should be read. Australia are second on goal difference and need only to avoid defeat. Paraguay are third on goal difference and need a result they have managed only once in two games so far. One side can defend a point with a clear conscience; the other has to break down a deep block without its most creative passer. That is not a small edge, and it shapes a contest that, on the surface, looks like a coin flip between two evenly matched sides.
 

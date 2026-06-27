@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Japan", "Sweden", "Group F", "Match Analysis", "Football"]
 excerpt: "Japan vs Sweden result and analysis: how a tense 1-1 draw in Dallas sent both teams into the World Cup 2026 Round of 32 and settled the final Group F places."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-26
+lang: en
 ---
-
 The Japan vs Sweden result at World Cup 2026 read 1-1, and the scoreline carried more meaning than its symmetry suggested. Two second-half goals, traded inside six minutes at Dallas Stadium in Arlington, settled nothing between the sides on the night and yet settled everything that mattered for both. Japan finished second in Group F and reached the Round of 32 with composure intact. Sweden finished third, points still on the board, and watched the best third-placed math fall their way. The draw that looked like a stalemate was in truth a result that pushed two nations forward together while the group's final shape clicked into place behind the Netherlands.
 
-![Japan vs Sweden World Cup 2026 Group F analysis](/assets/images/blog/blog-01.webp)
+![Japan vs Sweden World Cup 2026 Group F analysis](/assets/images/blog/blog-71.webp)
 
 That is the headline, and it is worth holding onto, because the temptation with a 1-1 draw is to file it as a non-event. This one was not. It was the climax of a Group F that had produced wild swings, two 5-1 results, a 4-0 demolition, and a late comeback, and it arrived with three teams still able to move. The Netherlands and Japan came into the final round level on points and goal difference at the top. Sweden sat one point back, needing a win to leapfrog into the automatic places. The fixture in Arlington therefore doubled as a qualification decider and a seeding fight, and the way it unfolded, cagey first, frantic later, told you a great deal about how Hajime Moriyasu's side manage a tournament and how Graham Potter's Sweden chase one.
 

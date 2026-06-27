@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Curacao", "Ivory Coast", "Group Stage", "Match Preview"]
 excerpt: "Curacao vs Ivory Coast preview: prediction, predicted lineups, key battles and Group E scenarios as the Elephants chase a first World Cup 2026 knockout berth."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-25
+lang: en
 ---
-
 One question hangs over Curacao vs Ivory Coast at World Cup 2026, and it is sharper than the gap between the two nations suggests. Ivory Coast arrive in Philadelphia knowing a single point will almost certainly carry them into the knockout phase for the first time in their history. Curacao arrive as the smallest country ever to reach the tournament, with nothing left to protect and a fairytale still flickering. The puzzle that defines this Group E finale is whether a result that looks already half-won can be calmly collected, or whether the very comfort of needing so little becomes the trapdoor that an unburdened debutant prises open.
 
-![Curacao vs Ivory Coast World Cup 2026 preview](/assets/images/blog/blog-01.webp)
+![Curacao vs Ivory Coast World Cup 2026 preview](/assets/images/blog/blog-14.webp)
 
 That tension is the spine of this preview, and it is worth naming plainly before the detail begins. Call it the permission to draw: the runner-up math that hands Ivory Coast a safety net also invites the kind of passive, mistake-prone afternoon that has undone bigger favorites against smaller opponents at every World Cup. Emerse Fae's side must decide whether to chase the win that removes all doubt or to manage a contest they are statistically allowed to draw, and the answer to that single strategic choice will shape everything that follows at Lincoln Financial Field.
 

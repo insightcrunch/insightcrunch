@@ -6,15 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Norway", "France", "Group Stage", "Match Analysis"]
 excerpt: "Norway vs France finished 1-4 at World Cup 2026 as Ousmane Dembele scored a first-half hat trick, winning France top spot in Group I and a kinder bracket."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-27
+lang: en
 ---
-
 The single fact that explains Norway vs France at World Cup 2026 is the one each coach made before kickoff. France named close to their strongest side. Norway named almost none of theirs. From that asymmetry came a 1-4 result in Foxborough that handed France the top of Group I, sent Ousmane Dembele off the field with the match ball and a first-half hat trick, and pointed the two nations down very different corridors of the Round of 32 bracket. The scoreline reads like a mismatch. The truth is more interesting: this was two squads spending their depth in opposite ways, and the team that could afford to keep its stars on the pitch turned a settled group into a seeding statement.
 
-![Norway vs France World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Norway vs France World Cup 2026 analysis](/assets/images/blog/blog-64.webp)
 
 Norway came into the final round of Group I already through to the knockout phase, as did France. Both had won their opening two matches. The only thing left to settle was the order of finish, and with it the half of the bracket each would occupy and the opponent each would draw in the first knockout round. That context matters for everything that followed, because it shaped the team sheets more than any tactical plan did. France treated the night as a chance to keep their best XI sharp and to claim first place outright. Norway treated it as a chance to rest the legs of Erling Haaland and Martin Odegaard and to protect the spine that had carried them this far. The result was not a contest of equals, and it was never going to be.
 

@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Turkiye", "USA", "Group Stage", "Match Analysis"]
 excerpt: "Turkiye vs USA result and full World Cup 2026 analysis: Kaan Ayhan's 98th-minute winner sank a heavily rotated USA 3-2 in a Group D dead rubber thriller."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-26
+lang: en
 ---
-
 The Turkiye vs USA result at World Cup 2026 read 3-2 to the visitors, and the single fact that explains it sat on the team sheet long before Kaan Ayhan scrambled the ball over the line in the eighth minute of second-half stoppage time. Mauricio Pochettino had already won Group D. He changed nine of the eleven players who beat Australia, handed the night to his fringe, and asked them to compete with the group already secured and nothing on the scoreboard to gain. They competed. They led twice in the sense that they scored first and then drew level after falling behind, they matched a more talented Turkiye for long stretches, and they still lost in the final kick because a second-string defense, a man down on the bench, and one motivated opponent with genuine quality is a combination that eventually tells. That is the story of this game, and it is a more interesting story than the scoreline suggests.
 
-![Turkiye vs USA World Cup 2026 Group D match analysis](/assets/images/blog/blog-01.webp)
+![Turkiye vs USA World Cup 2026 Group D match analysis](/assets/images/blog/blog-29.webp)
 
 This was the third and final Group D fixture for both sides, played at SoFi Stadium in Inglewood, the venue the tournament lists as Los Angeles Stadium, in front of a crowd that arrived overwhelmingly to cheer the co-hosts and stayed to watch a five-goal match swing one way and then the other. For the United States, top spot was already banked. For Turkiye, elimination was already confirmed. On paper that made the match a dead rubber, the term broadcasters reach for when the table is settled before kickoff. On the pitch it produced one of the more entertaining ninety-eight minutes of the group stage, a game that told you something true about both teams even though it changed nothing about where either finished.
 

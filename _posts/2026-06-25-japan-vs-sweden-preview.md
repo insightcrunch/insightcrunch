@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Japan", "Sweden", "Group Stage", "Match Preview"]
 excerpt: "Japan vs Sweden preview for the World Cup 2026 Group F decider: our prediction, predicted lineups, the Gyokeres and Isak threat, and qualification math."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-25
+lang: en
 ---
-
 The single question that frames Japan vs Sweden at World Cup 2026 is whether a Sweden attack built around two elite center-forwards can force the one result Japan are determined not to concede. This is the Group F decider in Arlington, the final round of fixtures that sorts the section behind a Netherlands side that has set the early pace. Japan arrive on four points and in control of their own qualification. Sweden arrive on three points, behind on the table, and carrying the unforgiving knowledge that anything other than a win leaves their World Cup hanging on results elsewhere and on the cruel arithmetic of the best third-placed places.
 
-![Japan vs Sweden World Cup 2026 Group F preview](/assets/images/blog/blog-01.webp)
+![Japan vs Sweden World Cup 2026 Group F preview](/assets/images/blog/blog-106.webp)
 
 That asymmetry is the spine of this preview. Japan can advance with a point and can probably survive even a narrow defeat. Sweden, for all the firepower of Viktor Gyokeres and Alexander Isak, need three points to make their own fate certain. Two teams walk into the same stadium with the same scoreline available to them and read it in completely different ways. We will call it the asymmetric stakes of the Group F decider, and everything that follows, the lineups, the tactical plan, the players to watch, and the prediction, returns to it.
 

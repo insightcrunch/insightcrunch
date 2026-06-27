@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Turkiye", "USA", "Group Stage", "Match Preview"]
 excerpt: "Turkiye vs USA prediction and preview for the World Cup 2026 Group D finale: lineups, the Pulisic rotation question, the scenarios and a scoreline call."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-25
+lang: en
 ---
-
 What does a team play for once it has already won its group? That single question hangs over Turkiye vs USA at World Cup 2026, the Group D finale at SoFi Stadium in Los Angeles on June 25, and it is the reason this fixture is more interesting than a glance at the table suggests. The United States arrive having sealed top spot with a game to spare, their place in the Round of 32 confirmed, their seeding settled. Turkiye arrive at the opposite end of the same group, two defeats into a tournament return that took twenty-four years to arrange, chasing a first win and the pride of leaving a major stage on their own terms rather than someone else's scoreline. The mismatch in standings is real, yet the contest underneath it is not a dead rubber. It is an audition.
 
-![Turkiye vs USA World Cup 2026 Group D preview at SoFi Stadium](/assets/images/blog/blog-01.webp)
+![Turkiye vs USA World Cup 2026 Group D preview at SoFi Stadium](/assets/images/blog/blog-107.webp)
 
 Call it the host's free hit. With qualification banked and first place locked, Mauricio Pochettino does not need a result here, which is precisely what makes the night useful to him. He can hand Christian Pulisic the minutes that a calf injury denied him through the opening fortnight, test combinations he has not yet trusted under pressure, and carry rhythm into a knockout tie that begins in less than a week, all without a single league point riding on the outcome. The prize on offer is not three points. It is sharpness, the one currency a qualified host still needs and the one thing a flat, risk-averse ninety minutes would fail to bank. That is the spine of this preview: for the United States, the real stake at SoFi Stadium is the knockout audition, and how Pochettino balances rest against rhythm will tell you more about his July than the final whistle will.
 

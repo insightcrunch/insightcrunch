@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Ecuador", "Germany", "Group Stage", "Match Preview"]
 excerpt: "Ecuador vs Germany at MetLife decides Group E: a desperate Ecuador must win to survive while a qualified Germany chase momentum in the World Cup 2026 finale."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-25
+lang: en
 ---
-
 Group E saved its strangest test for last. One side has nothing left to win and every reason to protect itself. The other has everything still to play for and nothing yet to show for it. That is the contradiction at the heart of Ecuador vs Germany at World Cup 2026, the Group E finale at MetLife Stadium in East Rutherford on June 25. Germany are already through as group winners. Ecuador, with a single point and not one goal across two matches, must beat the best team in the section to keep their tournament alive. A draw sends them home. The arithmetic is brutal in its simplicity, and the night turns on whether a side that has created chances by the dozen can finally take one.
 
-![Ecuador vs Germany World Cup 2026 Group E preview](/assets/images/blog/blog-01.webp)
+![Ecuador vs Germany World Cup 2026 Group E preview](/assets/images/blog/blog-55.webp)
 
 This is the fixture that the expanded format was built to produce: a dead rubber for one team that is a survival match for the other, played at the same hour as the group's other decider so that nobody can manage the scoreboard by watching the clock. Germany will line up knowing their place in the round of 32 is secure no matter what happens in New Jersey. Ecuador will line up knowing that anything other than three points ends their World Cup, and that even three points may not be enough on their own. To understand why a team can win and still be eliminated, and why a team with nothing to gain might still play its strongest hand, you have to read the Group E table closely and follow the threads back to where this all began.
 

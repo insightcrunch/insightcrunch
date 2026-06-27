@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Norway", "France", "Group Stage", "Match Preview"]
 excerpt: "Norway vs France preview for the World Cup 2026 Group I finale: predicted lineups, the Haaland and Mbappe subplot, the top-spot math and a score call."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-06-26
+lang: en
 ---
-
 There is only one question that truly frames Norway vs France at World Cup 2026, and it is not whether either side will reach the knockout rounds, because both already have. The question in Boston is who walks out of Group I as the winner, and what that single placing does to the road ahead. France arrive needing only a point. Norway arrive needing a victory to leapfrog them. Wrapped inside that simple arithmetic is one of the most attractive subplots of the entire group stage: Kylian Mbappe and a French attack brimming with finishers against Erling Haaland and a Norwegian side returning to the grandest stage after a generation away. This is a final-round fixture with nothing left to settle for survival and everything left to settle for seeding, and seeding at a 48-team World Cup can shape a whole tournament.
 
-![Norway vs France preview at World Cup 2026](/assets/images/blog/blog-01.webp)
+![Norway vs France preview at World Cup 2026](/assets/images/blog/blog-109.webp)
 
 ## What Norway vs France means in the World Cup 2026 Group I finale
 

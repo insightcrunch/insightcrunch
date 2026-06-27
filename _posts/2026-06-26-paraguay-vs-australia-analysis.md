@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Paraguay", "Australia", "Group Stage", "Match Analysis"]
 excerpt: "Paraguay vs Australia result and analysis: how a goalless World Cup 2026 draw in San Francisco sent the Socceroos through and settled Group D on fine margins."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-26
+lang: en
 ---
-
 Paraguay vs Australia at World Cup 2026 finished where the math always suggested it might, with both sides looking at the scoreboard before they looked at the goal. The 0-0 draw at San Francisco Bay Area Stadium on June 25 was not the open shootout the Group D table seemed to invite. It was a controlled, cagey, nervous night that handed Australia second place on goal difference, left Paraguay third and waiting on the best third-placed rankings, and confirmed the single most important truth of this fixture: caution and fine margins, not goals, settled qualification. That is the spine of this analysis, and every passage of the game pointed back to it.
 
-![Paraguay vs Australia World Cup 2026 result and analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Paraguay vs Australia World Cup 2026 result and analysis - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 This was the rare modern World Cup game where a goalless draw served two nations at once, and both knew it. The expanded 48-team tournament, which sends eight of the twelve third-placed teams into the Round of 32, changed the risk calculation for everyone in this group. A point was worth more than a roll of the dice for either coaching staff. Tony Popovic insisted afterward that his Australia side never set out to share the spoils, and Gustavo Alfaro framed the result as a job mostly done. The reality on the grass sat somewhere in between: two teams who attacked in bursts, defended with discipline, and ultimately found the cost of a mistake too high to chase a winner with abandon. If you came for chaos, this was not it. If you came to understand how Group D actually resolved, this was the decisive ninety minutes.
 

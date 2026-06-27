@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Netherlands", "Tunisia", "Group F", "Preview", "Football"]
 excerpt: "Tunisia vs Netherlands prediction, lineups and Group F scenarios for World Cup 2026, plus the slender goals edge that keeps top spot firmly in Dutch hands."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-06-25
+lang: en
 ---
-
 One question frames Tunisia vs Netherlands at World Cup 2026: can a confident Dutch side, level on points with Japan at the summit of Group F, finish the job by the margin that keeps first place in their own hands? This is the final round of Group F, played at Kansas City Stadium, and it pairs a Netherlands team chasing top spot against a Tunisia side already eliminated and playing for nothing but pride and a measure of redemption. The maths is unusually clean and unusually cruel: the Dutch control their destiny, but only if they take care of their own result and keep an eye on the scoreboard in Texas, where Japan face Sweden at the same time. For Tunisia, the tournament is already over, and the question is whether the Eagles of Carthage can leave North America with a performance that reframes a difficult fortnight.
 
-![Tunisia vs Netherlands World Cup 2026 Group F preview](/assets/images/blog/blog-01.webp)
+![Tunisia vs Netherlands World Cup 2026 Group F preview](/assets/images/blog/blog-11.webp)
 
 This preview sets the game up in full: what each side needs, the road both took to this point, the head-to-head that carries almost no World Cup weight, the predicted lineups and the reasoning behind them, the tactical shape that should decide the ninety minutes, the players who can swing it, the qualification scenarios worked through to the last tiebreaker, and a final prediction with a likely scoreline. The result itself belongs to the post-match account; here the focus is everything a reader needs to walk into kickoff understanding exactly what is at stake and how it is most likely to unfold.
 

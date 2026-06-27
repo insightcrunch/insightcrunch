@@ -6,17 +6,17 @@ date: 2026-06-24
 categories: ["Leisure"]
 tags: ["World Cup 2026", "South Africa", "South Korea", "Group Stage", "Match Preview"]
 excerpt: "South Africa vs South Korea is the World Cup 2026 Group A decider: Bafana must win to reach the knockouts while a draw is enough to send South Korea through."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-24
+lang: en
 ---
-
 ## South Africa vs South Korea: the World Cup 2026 Group A decider
 
 South Africa vs South Korea closes Group A at World Cup 2026, and it is the rare final-round fixture where the two dugouts walk into the same stadium needing two completely different things from the same ninety minutes. South Africa must win or go home. South Korea need only avoid defeat. That asymmetry, more than any single matchup of players, is the question that defines the night in Monterrey: how do you coach a game when one bench is chasing and the other is protecting, and the scoreboard means something different to each side from the first whistle?
 
-![South Africa vs South Korea World Cup 2026 Group A preview](/assets/images/blog/blog-01.webp)
+![South Africa vs South Korea World Cup 2026 Group A preview](/assets/images/blog/blog-33.webp)
 
 Hold that split in your head, because it shapes everything that follows. A team that has to win plays differently from a team that can sit in a 0-0 and still book its place in the knockout rounds. The pressure does not fall evenly. It bends the tactics, the substitutions, the willingness to commit numbers forward, and the temperature of the closing twenty minutes. This preview lays out what each side needs, who is fit, who is suspended, how the lineups are likely to look, where the game will be won and lost, and a final prediction with a likely scoreline. Throughout, the lens stays fixed on the one idea worth remembering before kickoff: in this match, South Africa play for everything and South Korea play to not lose, and that gap colors every decision.
 

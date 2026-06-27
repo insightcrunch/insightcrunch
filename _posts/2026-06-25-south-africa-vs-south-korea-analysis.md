@@ -6,15 +6,15 @@ date: 2026-06-25
 categories: ["Leisure"]
 tags: ["World Cup 2026", "South Africa", "South Korea", "Group Stage", "Match Analysis"]
 excerpt: "South Africa vs South Korea result and analysis: Maseko's strike sent Bafana Bafana into the World Cup 2026 knockouts as a benched Son could not respond."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-25
+lang: en
 ---
-
 South Africa beat South Korea 1-0 in Monterrey to reach the knockout stage of a World Cup for the first time in their history, and the single thing that explains the result at World Cup 2026 is a decision South Korea made before a ball was kicked. Hong Myung-bo left his captain, Son Heung-min, on the bench for a winner-takes-second-place Group A decider, asked his side to control the game without their one reliable source of a goal, and watched them dominate possession to no end while Thapelo Maseko punished the one moment Bafana Bafana needed. The night turned on that call, and so did the qualification race behind group winners Mexico. This analysis works through how a low-event match was won and lost, why the gamble failed, who decided it, and what it leaves for both nations.
 
-![South Africa vs South Korea World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![South Africa vs South Korea World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The scoreline reads as a tight, fine-margins win, and on the raw event count it was. One goal settled it, and the goal arrived in the 63rd minute when Maseko met a Tshepang Moremi cross and finished low into the bottom corner. But the margin in the result understates the clarity of the performance. South Africa knew exactly what they wanted from the evening, executed it with discipline through ninety-plus minutes, and never once looked like a side stumbling into qualification by accident. South Korea, by contrast, had the ball and almost nothing to do with it, and their tournament now hangs on results in other groups rather than on anything still in their hands.
 
