@@ -9,13 +9,13 @@ image: /assets/images/blog/blog-01.webp
 image_alt: "Uruguay vs Spain World Cup 2026 result and player ratings, Spain win Group H - Insight Crunch"
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Uruguay", "Spain", "Group Stage", "Match Analysis"]
-author: "Insight Crunch Team"
+author: "yuki-mori"
 reading_time: 68
+lang: en
 ---
-
 Spain beat Uruguay 1-0 in Guadalajara to win Group H at World Cup 2026, and the single image that explains the night is a 40-year-old goalkeeper watching a tame shot squirm through his gloves and into his own net. Alex Baena struck three minutes before half-time, Fernando Muslera could not hold it, and that error decided a tense, low-quality contest that sent the two-time world champions out of the tournament. Uruguay needed only a draw to keep their qualification hopes alive into the final reckoning of best third-placed teams. They could not find one. Marcelo Bielsa's side managed a single shot on target across ninety minutes, finished the match with ten men after Agustin Canobbio was sent off in stoppage time, and trudged off the pitch eliminated while Spain, far from convincing, collected the three points they had come for and topped the group.
 
-![Uruguay vs Spain World Cup 2026 result and player ratings, Spain win Group H - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Uruguay vs Spain World Cup 2026 result and player ratings, Spain win Group H - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 That is the bare outcome, and it flatters neither side as a spectacle. Spain controlled the ball for long stretches without producing the flowing football their squad promises, and Uruguay defended with discipline for an hour before unraveling in a way that summed up a flat and frustrating campaign. Yet the result is enormous in its consequences. Spain advance to the Round of 32 as group winners and avoid the half of the bracket that the runners-up of Group H were funneled toward. Cape Verde, the World Cup debutants, finished above Uruguay to make history. And Uruguay, a nation with two world titles in its past and a manager whose reputation is built on bold, attacking, high-pressing football, exited at the group stage for the second World Cup running. This is the story of how a one-goal margin produced so many large outcomes, why Spain won without playing well, why Uruguay lost a match they were equipped to draw, and what each verdict means for the knockout rounds.
 

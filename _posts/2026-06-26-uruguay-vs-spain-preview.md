@@ -6,18 +6,18 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Spain", "Uruguay", "Group H", "Match Preview", "Lamine Yamal"]
 excerpt: "Uruguay vs Spain at World Cup 2026 decides Group H in Guadalajara, with first place for La Roja and survival for the two-time champions both on the line."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-26
 slug: "uruguay-vs-spain-preview"
+lang: en
 ---
-
 Can a side that has never lost to Spain in 76 years finally break that record on the one night it has to? That is the question Uruguay carry into Guadalajara on June 26, and it is the question that frames the whole of this Group H decider at World Cup 2026. The numbers say one thing and the history says another. Spain arrive as European champions, top of the group, unbeaten across their last dozen matches, and needing only a draw to seal first place. Uruguay arrive as two-time world champions with a proud knockout pedigree, yet they sit second on two points after two draws, carrying a winless run and a manager who has already taken public responsibility for the mistakes that put them here. The fixture is the only meeting of former World Cup winners in the entire group stage of this tournament, and it lands, fittingly, on the final matchday, when there is nowhere left to hide.
 
 The stakes pull in opposite directions and that is what makes the match worth dissecting in full. For Spain, the task is to confirm an expected first place without leaving the door ajar. For Uruguay, the task is survival, and the cleanest route to it runs straight through a side they have not beaten since before the men in their dressing room were born. Estadio Akron in Guadalajara hosts a contest in which one team is playing for seeding and the other for its tournament life, and the simultaneous Cape Verde versus Saudi Arabia match means the Group H table will keep shifting under both of them while they play.
 
-![Uruguay vs Spain World Cup 2026 preview](/assets/images/blog/blog-01.webp)
+![Uruguay vs Spain World Cup 2026 preview](/assets/images/blog/blog-116.webp)
 
 This preview takes the favorites-versus-pedigree lens and works through every angle a serious follower will want before kickoff: the exact Group H math after matchday two, what each result does to the standings, the likely lineups and the selection questions hanging over both managers, the midfield duel that should decide the balance of play, the head-to-head record that hangs over Uruguay, the knockout pathways that open up depending on where each side finishes, and a clearly labelled prediction grounded in what we know before a ball is kicked. Nothing here assumes the outcome. Everything here is built to help you understand what is genuinely at stake when Marcelo Bielsa's side meet Luis de la Fuente's at the close of Group H.
 

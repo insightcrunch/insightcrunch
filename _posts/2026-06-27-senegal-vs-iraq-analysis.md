@@ -6,17 +6,17 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Senegal", "Iraq", "Group Stage", "Match Analysis"]
 excerpt: "Senegal vs Iraq result and analysis: how a 5-0 World Cup 2026 rout in Toronto, sparked by an early red card, carried the Lions of Teranga into the last 32."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-27
+lang: en
 ---
-
 Senegal needed goals, not just a win, and at the Toronto Stadium they produced a flood of them. The Senegal vs Iraq result at World Cup 2026 read 5-0, a scoreline that flattered no one and rewrote a small slice of the record books, as the Lions of Teranga became the first African nation to put five past an opponent in a single match at a World Cup finals. The margin was exactly what their qualification arithmetic demanded, and it arrived because a stodgy, frustrating opening hour finally cracked open into a second-half avalanche. One decision, more than any single piece of brilliance, set the platform: a 13th-minute red card that handed Senegal a man advantage they would eventually punish without mercy.
 
 This was the final round of Group I, a do-or-die assignment for both teams after each had lost their opening two fixtures to France and Norway. Iraq arrived already eliminated in all but name and needed a small miracle. Senegal, sitting bottom of the group on goal difference, needed a victory of real size to keep alive their hope of sneaking through as one of the eight best third-placed sides. The brief was unusual for a team chasing knockout football: do not merely win, win big. They did, and the manner of it tells the story of a side that grew into a ruthless rhythm only after the interval.
 
-![Senegal vs Iraq World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Senegal vs Iraq World Cup 2026 analysis](/assets/images/blog/blog-27.webp)
 
 What follows is the full account: the shape of the game, the red card that bent the math Senegal's way, the goal-by-goal sequence, the tactical reasons the rout developed, the standout performers and the man-of-the-match case, the statistics behind the result, and the implications for Senegal's route into the Round of 32 and Iraq's tournament exit. For readers who want to keep their own record of the run, you can [save this match and build your bracket free on VaultBook](https://vaultbook.net/tools/world-cup-2026-planner.html), and for the underlying fixtures, squads and group data you can [explore the fixtures, squads and group data on ReportMedic](https://reportmedic.org/tools/world-cup-2026-stats.html).
 

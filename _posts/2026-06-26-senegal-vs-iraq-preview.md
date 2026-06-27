@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Senegal", "Iraq", "Group Stage", "Match Preview"]
 excerpt: "Senegal vs Iraq World Cup 2026 preview: the Teranga Lions need a big win in Toronto to chase a best third-place spot, plus predicted lineups and scenarios."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-26
+lang: en
 ---
-
 Senegal vs Iraq at World Cup 2026 reduces to one cold-eyed question: can a side that has lost twice still win by enough to save itself? Both teams arrive at BMO Field in Toronto on Friday with zero points from two games, which turns the Group I finale into a straight knockout dressed up as a group match. The losers go home that night. The winner keeps breathing. For Senegal, the third consecutive World Cup of a generation built around Sadio Mane, the stakes are sharper still, because beating Iraq is necessary but might not be sufficient. To stay alive through the best third-placed route they have to win, and they almost certainly have to win big.
 
-![Senegal vs Iraq World Cup 2026 preview](/assets/images/blog/blog-01.webp)
+![Senegal vs Iraq World Cup 2026 preview](/assets/images/blog/blog-110.webp)
 
 That is the framing the table forces on Pape Thiaw and his players. Senegal opened the tournament as arguably the strongest team in Africa, the reigning continental force, a squad stocked with Premier League and top-five-league regulars. Two games later they sit on nothing, behind a France side cruising and a Norway side riding Erling Haaland, and they are looking up at a points total they cannot reach by ordinary means. The math is the story here, and the math says goals. This preview lays out exactly what Senegal need, how Graham Arnold's Iraq might make the night awkward, who starts, where the game is won and lost, and the most likely way a must-win evening unfolds.
 

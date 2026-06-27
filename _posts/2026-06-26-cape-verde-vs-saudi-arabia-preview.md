@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Cape Verde", "Saudi Arabia", "Group Stage", "Match Preview"]
 excerpt: "Cape Verde vs Saudi Arabia World Cup 2026 preview: predicted lineups, qualification math, key battles and a score prediction as the Blue Sharks chase history."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-26
+lang: en
 ---
-
 How does the smallest nation at the tournament walk into its final group game knowing a single point may rewrite its entire football history? That is the question Cape Verde vs Saudi Arabia poses at World Cup 2026, and it is the reason a fixture that looked, on paper, like the quietest game in Group H has become one of the most loaded ninety minutes of the matchday. Cape Verde arrive in Houston on two points, unbeaten, having stunned reigning European champions Spain and matched two-time world champions Uruguay. Saudi Arabia arrive needing a win and nothing less, their knockout hopes hanging by a thread after a chastening second matchday. The gap between what each side needs is the whole story of this preview, and it has a name.
 
-![Cape Verde vs Saudi Arabia World Cup 2026 preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Cape Verde vs Saudi Arabia World Cup 2026 preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 Call it the asymmetry of need. Cape Verde do not have to win this game to reach the Round of 32; in most permutations they do not even have to draw it cleanly, only to avoid the kind of defeat that would let Saudi Arabia leapfrog them and let the third-place mathematics swing away. Saudi Arabia, by contrast, have one route and one alone: beat the debutants, score enough to fix their goal difference, and hope the other Group H result falls kindly. One side can manage the clock; the other must chase the game from the first whistle. Everything that will happen at NRG Stadium flows from that imbalance, and the team that handles its own version of the pressure better is the team that survives. This is not a glamour tie, but it is a genuinely fascinating one, and it deserves to be read closely rather than dismissed as a dead rubber.
 

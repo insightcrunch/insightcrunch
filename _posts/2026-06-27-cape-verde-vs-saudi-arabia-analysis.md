@@ -6,15 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Cape Verde", "Saudi Arabia", "Group Stage", "Match Analysis"]
 excerpt: "Cape Verde vs Saudi Arabia World Cup 2026 analysis: a goalless draw in Houston sent debutants Cape Verde into the Round of 32 and knocked Saudi Arabia out."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-27
+lang: en
 ---
-
 Cape Verde 0-0 Saudi Arabia did not produce a goal, and that is the whole point of this Cape Verde vs Saudi Arabia World Cup 2026 analysis: the smallest nation ever to reach the knockout phase of a men's World Cup got there without scoring a single time in their final group game, and without conceding either. On a humid night at Houston Stadium the islanders held the line they have held all tournament, soaked up the only spell of genuine Saudi pressure, created the better chances themselves, and walked off with the point that turned a debut appearance into a place in the Round of 32. The one thing that explains the result is not a moment of attacking inspiration but a goalkeeper: Vozinha, forty years old, kept his second clean sheet of the tournament and smothered the one Saudi effort that could have changed history in stoppage time. Saudi Arabia needed to win and could not, and their World Cup ended bottom of Group H.
 
-![Cape Verde vs Saudi Arabia World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Cape Verde vs Saudi Arabia World Cup 2026 analysis](/assets/images/blog/blog-68.webp)
 
 The numbers framed the story before the emotion did. Cape Verde finished with 1.52 expected goals to Saudi Arabia's 0.40, out-shot their opponents fifteen to seven, and won the bulk of the second-half attempts eleven to four. None of it produced a goal, and none of it needed to. A draw was enough for Cape Verde provided Uruguay did not win, and within a couple of minutes of the final whistle in Houston the result from Spain's meeting with Uruguay landed to confirm what the islanders had already secured: second place, three points from three draws, and a knockout tie against the reigning world champions. This article walks through how the game was won and lost, why a side that has not scored more than twice in any match has become the story of the tournament, what the final Group H table actually says, and where both nations go from a night that sent one into the last thirty-two and the other home.
 
