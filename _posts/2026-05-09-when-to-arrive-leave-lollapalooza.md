@@ -6,15 +6,15 @@ date: 2026-05-09
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Set Times", "Festival Planning", "Grant Park", "Festival Survival", "Music Festivals"]
 excerpt: "The smartest time to arrive and leave Lollapalooza each day, from whether gate-open pays off to exactly when to slip out ahead of the post-headliner crush."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-09
+lang: en
 ---
-
 The two moments that quietly decide whether your day at Lollapalooza feels generous or grinding are the moment you walk in and the moment you walk out. Almost nobody plans them. People obsess over the middle of the day, the clash between two acts at eight o'clock, the walk from one end of Grant Park to the other, and then they sleepwalk through the bookends, drifting in whenever they happen to wake up and shuffling out in a slow river of several hundred thousand people all aimed at the same trains and the same streets at the same minute. That is the expensive part. The start and the end of a Lollapalooza day cost the most time for the least music, and the fans who treat arrival and departure as a decision rather than a default walk away with more festival in their pockets than the fans who spent the whole afternoon optimizing set times.
 
-![When to arrive and leave Lollapalooza each day - Insight Crunch](/assets/images/blog/blog-01.webp)
+![When to arrive and leave Lollapalooza each day - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 This is the page that resolves the arrival-and-departure question for each day of the four-day Grant Park weekend. Not the raw gate hours, which live in the worked daily walkthrough, but the strategy on top of them: whether being first through the gate is worth setting an alarm for, what the smartest arrival time looks like depending on what you are chasing, when to leave to beat the exit crush, and how many songs early you should slip away from a headliner if you actually want to get home before midnight. The festival runs Thursday through Sunday, gates open in the late morning and music runs until roughly ten at night, and those edges behave very differently from the dense, decision-heavy middle. Learn how the bookends work and you reclaim more of your weekend than any mid-day tweak can give you.
 

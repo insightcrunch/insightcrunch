@@ -6,15 +6,15 @@ date: 2026-05-08
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Planning", "Music Festivals", "Grant Park", "Festival Survival", "Chicago Travel"]
 excerpt: "A Lollapalooza day-by-day plan that shapes all four days as one arc, so you front-load energy, build in recovery, and finish strong instead of fading."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-08
+lang: en
 ---
-
 The hardest scheduling problem at a multi-day festival is not which act to catch at four in the afternoon. It is what to do with the fourth stretch when your legs are gone, your ears are tired, and the part of you that felt invincible on the first afternoon has quietly left the building. A good Lollapalooza multi-day plan solves that problem before it starts. It treats the four days in Grant Park not as four separate marathons stacked end to end, but as a single arc with a shape: a place to push hard, a place to wander, a place to ease off on purpose, and a place to spend everything you have left. Most planning advice stops at the single day. The set-time grid, the clash, the walk between stages, the gate to use. That advice matters, and this series covers it in depth, but it answers a smaller question than the one a multi-day pass actually poses. The real question is how the days fit together, because the choice you make on the first afternoon determines whether the last night is a triumph or a slow shuffle toward the exit.
 
-![How to build a four-day Lollapalooza multi-day plan across Grant Park stages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to build a four-day Lollapalooza multi-day plan across Grant Park stages - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 This article owns the multi-day plan. It is the page that hands you a worked arc across all four days and the logic to assign each one a role. It does not re-argue how many days to buy in the first place, because the dose decision belongs to its own article, and it does not walk you minute by minute through a single day, because that hour-by-hour clock has its own home too. What it does is the thing no thin festival roundup bothers with: it sequences the whole weekend as one connected plan, so the energy, the genres, and the crowds balance across four days rather than spiking and crashing day after day. By the end you will have a defensible shape for your weekend, a table you can copy, and a decision rule you can apply to any edition's lineup, in any year, no matter who is headlining.
 

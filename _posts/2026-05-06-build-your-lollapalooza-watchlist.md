@@ -6,17 +6,17 @@ date: 2026-05-06
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Lineup", "Music Festivals", "Festival Planning", "Festival Survival"]
 excerpt: "Build a Lollapalooza must-see list that holds up on the day by tiering a full lineup into ranked must-see, would-like, and if-time picks with a clash rule."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-05-06
+lang: en
 ---
-
 The hardest part of a four-day festival is not getting in, getting there, or getting a wristband. It is the moment you open the full poster, count well over a hundred and seventy names spread across eight stages, and realize you cannot see a tenth of them. A Lollapalooza must-see list is the tool that turns that wall of names into a plan you can actually run, and the fans who build one well walk out having seen the sets they came for, while the fans who skip it walk out having seen whoever happened to be in front of them when they got hungry. The lineup is not the plan. The lineup is the raw material. The watchlist is what you make out of it, and the quality of your weekend tracks the quality of that conversion more than it tracks the strength of the bill itself.
 
 Most people never make the conversion on purpose. They glance at the poster, recognize the four or five names printed largest, tell themselves they will figure out the rest on the grass, and then spend the weekend reacting instead of choosing. That works fine for the headliners, who are impossible to miss, and falls apart everywhere else, because the acts that turn a good festival into your festival are almost never the ones in the biggest font. They are the midafternoon sets you would have walked past if you had not already decided to be there. Deciding in advance, on a ranked and realistic list, is the whole game.
 
-![How to build a ranked Lollapalooza must-see list from a full lineup - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to build a ranked Lollapalooza must-see list from a full lineup - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 This guide is about the conversion itself: how to take a complete lineup and produce a ranked, tiered, survivable watchlist, the must-see tier you protect at all costs, the would-like tier you catch when the day allows, the if-time tier you treat as a bonus, and the rule for what happens when two of your must-sees play at once. It is not about how the daily set-time grid works minute by minute, which is its own craft and lives in the schedule cluster; it is about prioritization, the upstream decision that decides whether your schedule has anything worth scheduling. Get the watchlist right and the day plans itself around it. Get it wrong and no amount of clever routing saves a list that was never realistic to begin with.
 

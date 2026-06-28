@@ -6,15 +6,15 @@ date: 2026-05-07
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Lollapalooza Chicago", "Schedule & Set Times", "Festival Planning", "Grant Park", "Music Festivals"]
 excerpt: "The Lollapalooza 2026 set times drop in the final week, so build your plan around the fixed July dates now and pivot to the confirmed grid the moment it lands."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-05-07
+lang: en
 ---
-
 The Lollapalooza 2026 set times are the last big piece of information you get and the one you have the least time to act on. The full grid of who plays which stage, at what hour, on each of the four days lands in the final stretch before the festival, usually inside the last week, long after you have bought the pass, booked the room, and built the rest of the trip. That timing creates the single hardest scheduling problem of the whole weekend: the most decision-critical data shows up when you have the least runway, and the people who treat it as a final-week scramble lose hours of the festival to indecision while the prepared ones convert the grid into a day plan in a single sitting. Lollapalooza Chicago 2026 runs Thursday July 30 through Sunday August 2, 2026, in Grant Park, and this guide is built around one move that separates a smooth weekend from a frantic one.
 
-![How to find and plan around the Lollapalooza 2026 set times in Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to find and plan around the Lollapalooza 2026 set times in Grant Park - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 That one move is what this entire page exists to teach. Most coverage of the grid does one of two unhelpful things. Either it lacks the current grid entirely and pads the gap with generic advice, or it dumps the grid the instant it drops with no method for turning a wall of overlapping blocks into a sequence you can actually walk. Neither helps the person standing in their kitchen the night before doors, trying to decide whether to commit to a rail spot or roam, whether to skip an early act to bank energy, whether a cross-park hop is even possible in the gap they have. The grid is raw material. A plan is the product. The gap between them is where most first weekends quietly go wrong, and closing that gap before the festival begins is the whole game.
 

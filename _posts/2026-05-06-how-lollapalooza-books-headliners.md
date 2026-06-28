@@ -6,15 +6,15 @@ date: 2026-05-06
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Lineup", "Music Festivals", "Festival Planning", "Music History"]
 excerpt: "How Lollapalooza books its headliners comes down to budgets, agents, radius clauses, and lead times. Here is the real booking machine behind the poster."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-05-06
+lang: en
 ---
-
 When you stand in front of a festival poster and scan the names stacked from the giant type at the top to the tiny print at the bottom, you are looking at the output of a year of negotiation, and understanding how Lollapalooza books its headliners changes how you read every line of it. The poster is not a popularity ranking and it is not a wish list that came true. It is a negotiated settlement between money, calendars, contracts, and relationships, and once you can see the machine behind it you stop asking the wrong question (why is my favorite act not on here?) and start asking the right one (what would it have taken to get them, and what did the festival trade to land the names it did?).
 
-![Lollapalooza headliner performing on a main stage in Grant Park at dusk as the crowd fills the field](/assets/images/blog/blog-01.webp)
+![Lollapalooza headliner performing on a main stage in Grant Park at dusk as the crowd fills the field](/assets/images/blog/blog-109.webp)
 
 This article is the one page that explains the real mechanics: the promoter who writes the checks, the talent buyers who shape the bill, the agents and managers who sit across the table, the radius clauses that quietly govern who can play where, the fee tiers that scale with draw and billing, and the lead times that mean the names you will see this summer were largely settled long before you started planning your trip. None of this is mysterious once it is laid out plainly, and none of it requires insider gossip to understand, because the structure is consistent across every festival of this scale. The specific dollar figures and the specific handshakes stay private, but the system that produces them is knowable, and knowing it is durable: it will still be true next year, and the year after, long after this summer's names are forgotten.
 

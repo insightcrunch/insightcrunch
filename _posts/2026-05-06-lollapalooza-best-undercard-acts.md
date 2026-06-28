@@ -6,15 +6,15 @@ date: 2026-05-06
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Lineup", "Music Festivals", "Festival Planning", "Grant Park"]
 excerpt: "The best undercard acts at Lollapalooza play the small stages and early slots. Here is how to find the non-headliner sets that quietly steal the weekend."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-06
+lang: en
 ---
-
 The fans who walk out of Grant Park talking about the single best set they saw rarely name the artist who closed the night. They name the undercard act they almost skipped, the band on the small stage at two in the afternoon, the name printed in tiny type near the bottom of the poster that turned out to be the reason the whole weekend was worth the ticket. That gap between what the poster sells and what the festival actually delivers is the subject of this guide, because the undercard is where the real Lollapalooza lives, and almost every page written about the lineup ignores it completely.
 
-![Best non-headliner undercard acts at Lollapalooza on the small stages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Best non-headliner undercard acts at Lollapalooza on the small stages - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The word undercard borrows from boxing, where the bouts before the main event fill out the card. At a music festival it means everything below the headliners: the mid-bill names, the small-stage afternoon acts, the openers who play to a few hundred people while the field is still half empty. These performers draw thinner crowds, take the earlier slots, and play the more intimate stages, and they frequently deliver the most surprising and rewarding sets of the four days. The closer is a known quantity wrapped in a dense, exhausted crowd at the end of a long night. The undercard is a gamble with a high ceiling, and learning to play that gamble well is the most underrated skill a festivalgoer can develop.
 

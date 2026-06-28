@@ -6,15 +6,15 @@ date: 2026-05-08
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Planning", "Grant Park", "Music Festivals", "Festival Survival"]
 excerpt: "Set time clashes are the hardest call at Lollapalooza. Use the split-or-commit rule, the walk-time math, and a decision tree to resolve any conflict fast."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-05-08
+lang: en
 ---
-
 Every serious Lollapalooza plan dies at the same moment: two acts you have been waiting months to see are playing at the same time, on stages a long walk apart, and there is no version of the afternoon where you catch both in full. Set time clashes are the single most agonized-over problem at the festival, and they are the one problem most guides refuse to solve. They tell you the lineup. They tell you the stages. Then they hand you a grid where four of your must-sees overlap and wish you luck. This guide does the part everyone skips. It gives you a repeatable method for resolving any set time clash at Lollapalooza, a decision tree you can run in seconds, and the walk-time and crowd-flow math that turns an impossible double-booking into a clean call you will not regret at midnight.
 
-![How to handle Lollapalooza set time clashes with the split-or-commit method - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to handle Lollapalooza set time clashes with the split-or-commit method - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The reason clashes feel impossible is that most people approach them as a feeling rather than a decision. They stare at the schedule, feel the dread of missing something, and either freeze or make an emotional call they regret an hour later. The fix is not to want it less. The fix is to convert the conflict into a small number of inputs, weigh them in a fixed order, and arrive at an answer you can defend. That is what the rest of this guide builds, piece by piece, starting with why the festival generates so many clashes in the first place and ending with a worked example of a four-clash day resolved cleanly.
 
