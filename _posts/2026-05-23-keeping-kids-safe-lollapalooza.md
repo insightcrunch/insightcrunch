@@ -6,17 +6,17 @@ date: 2026-05-23
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Kidzapalooza", "Family Travel", "Festival Planning", "Festival Survival", "Music Festivals"]
 excerpt: "Keeping kids safe at Lollapalooza takes a real system: a heat and hydration clock, hearing protection, crowd rules, and an ID-and-meetup lost-child plan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-23
+lang: en
 ---
-
 A child standing in a packed crowd at Grant Park is the single image that keeps parents awake the week before they go, and keeping kids safe at Lollapalooza is the question that sits underneath every other family decision about the festival. Most pages answer it with a shrug and a reassurance: bring sunscreen, hold their hand, you will be fine. That is not a plan. It is a wish. A four-day festival that draws hundreds of thousands of people to a downtown park in the heat of a Chicago summer is a genuinely different safety environment than a playground or a zoo, and a child who is comfortable and supervised in those settings can be overwhelmed, overheated, or separated here in minutes. The good news is that the dangers are predictable, which means they are plannable, and a parent who walks in with a real system rather than a hopeful attitude has already removed most of the risk.
 
 This guide builds that system. It treats four hazards as the real work of bringing a young child to the festival: heat, which is the top risk and the one that sends the most kids to the medical tent; hearing exposure, which does quiet, permanent damage that no one notices in the moment; the crowd itself, which separates families and pins small bodies in places they cannot easily leave; and the lost-child scenario, which is the fear that dwarfs all the others and the one with the cleanest solution. For each, you will get the specifics that matter and the order to do them in, so that by the time you reach the gate you are running a day on a safety plan rather than reacting to whatever goes wrong.
 
-![Keeping kids safe and cool at Lollapalooza heat hearing crowds and lost-child plan for parents - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Keeping kids safe and cool at Lollapalooza heat hearing crowds and lost-child plan for parents - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 ## Why Lollapalooza is a different safety problem than a normal day out
 

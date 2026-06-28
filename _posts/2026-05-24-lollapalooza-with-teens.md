@@ -6,15 +6,15 @@ date: 2026-05-24
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Family Travel", "Festival Planning", "Festival Survival", "Grant Park", "Music Festivals"]
 excerpt: "Lollapalooza with teens means swapping constant supervision for a check-in plan: the minors rules, the drop-off call, and how to keep tabs the right way."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-05-24
+lang: en
 ---
-
 Doing Lollapalooza with teens is a different job than doing it with small children, and the parents who struggle most are the ones who never notice the difference. A seven-year-old needs a hand to hold and a stroller and a nap. A fifteen-year-old needs a ticket, a charged phone, a meetup point, and the quiet confidence that you trust them to walk to the dance stage with their friends and turn up where they said they would. The hardest part of taking a teenager to Grant Park is not the heat or the crowd or the cost. It is the calibration: how much rope to give, when to hold it, and what to put in place so that giving rope feels safe rather than reckless. This guide is built around that single calibration, because once you get it right, the rest of the weekend mostly takes care of itself.
 
-![Lollapalooza with teens, a parent's guide to the minors rules and the check-in plan - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lollapalooza with teens, a parent's guide to the minors rules and the check-in plan - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 Most pages that mention young people at the festival lump every age together under one tired heading and tell you to bring sunscreen and watch them closely. That advice fits a small child and insults a teenager, and following it tends to produce the worst version of the weekend: a parent shadowing an eyeroll for nine hours while the teen sulks at missing the sets their friends went to without them. The festival itself draws a line between a small child and an older minor in how it handles tickets and supervision, and a smart parent draws the same line in how they plan. What follows is the durable version of that plan, written so it stays true from one edition to the next, with the changeable details flagged as things to confirm before you go.
 

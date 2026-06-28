@@ -6,15 +6,15 @@ date: 2026-05-25
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Kidzapalooza", "Family Travel", "Festival Planning", "Grant Park", "Music Festivals"]
 excerpt: "A family day plan for Lollapalooza on a kid-paced clock: cool arrival, Kidzapalooza, nap and meal blocks, daytime sets, and a calm early exit before the crush."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-25
+lang: en
 ---
-
 A family day plan for Lollapalooza is not an adult day plan with smaller shoes. The single decision that shapes everything else is whether you run the day on a grown-up clock, gates to the last note, or on a clock built around a child's energy, appetite, and tolerance for heat and crowds. Most pages you will find treat the question as if a family simply tags along with the standard itinerary, arriving when the music starts and leaving when it ends. That approach produces sunburned, overtired children and parents who spend the back half of the night carrying a sleeping kid through a packed field. The better answer is a deliberately different rhythm: a cooler arrival, a long anchor at the children's area, planned breaks for naps and food, a daytime set or two chosen for the family rather than for you, and an exit timed to land before the late crush rather than inside it.
 
-![A kid-paced family day plan for Lollapalooza, from a cool morning arrival through Kidzapalooza, naps, and an early exit before the headliner crush - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A kid-paced family day plan for Lollapalooza, from a cool morning arrival through Kidzapalooza, naps, and an early exit before the headliner crush - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 This guide gives you that rhythm as a worked plan you can carry into Grant Park and follow hour by hour. It assumes you have already settled the questions that come before the day itself: which ages you are bringing, whether the youngest is old enough to get anything out of the trip, what goes in the bag, and how you will keep small bodies safe in heat and crowds. Those are big questions with their own answers, and where the plan touches them it points you to the article that owns the detail rather than repeating it. What stays here is the thing no generic roundup hands a parent: a kid-paced clock for a single day at Lollapalooza, the reasoning behind each block, and the adjustments that make it fit a toddler, a seven-year-old, or a mixed group of ages walking in the same gate.
 

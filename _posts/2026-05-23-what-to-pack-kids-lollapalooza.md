@@ -6,15 +6,15 @@ date: 2026-05-23
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Family Travel", "Kidzapalooza", "Festival Survival", "Festival Planning", "Music Festivals"]
 excerpt: "What to pack for kids at Lollapalooza, from ear protection and sun gear to ID and hydration, built into one checklist that clears the festival bag policy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-05-23
+lang: en
 ---
-
 The hardest part of bringing a child to Lollapalooza is not the ticket, the crowd, or even the heat. It is the bag you carry through the gate, because that single bag has to solve a day that runs from late-morning sun to a chilly lakefront night, and it has to do it for a small body that overheats faster, tires sooner, and cannot tell you what is wrong until it is already a problem. Knowing what to pack for kids at Lollapalooza is the difference between a family that lasts until the early-evening set they came for and one that leaves at two in the afternoon with a sunburned, overstimulated child who never wants to hear the word festival again. Most packing guides treat a child as a smaller adult who also needs snacks. A child is not a smaller adult. The kit is genuinely different, and this is the page that builds it from the ground up.
 
-![What to pack for kids at Lollapalooza family packing list - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What to pack for kids at Lollapalooza family packing list - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 Grant Park in the last days of July is a specific kind of hard on a child. The festival runs four days on the downtown lakefront, gates open in the late morning, and music runs into the night, which means a family with kids is signing up for many hours in open sun with limited shade, a sound system loud enough to reach across a field, and crowds dense enough that a five-year-old sees knees and not stages. None of that is a reason to leave the kids home, and a separate article in this series makes the case for who should and should not bring them. But all of it shapes the bag. The heat decides the hydration and the sun gear. The sound decides the hearing protection. The crowd decides the ID plan. The long day decides the comfort and the layers. And the festival's clear-bag rules decide what actually makes it past the entrance, which is the constraint that quietly ruins more family packing jobs than any forgotten item.
 

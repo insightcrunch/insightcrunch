@@ -6,17 +6,17 @@ date: 2026-05-20
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Budget Travel", "Chicago Travel", "Festival Planning", "Music Festivals", "Grant Park"]
 excerpt: "Free things to do on Lollapalooza weekend in Chicago, from free city music to open parks, plus an honest look at experiencing the festival without a ticket."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-05-20
+lang: en
 ---
-
 A four-day pass, a downtown hotel, food inside the gates, and rideshares home is the version of this weekend that empties a bank account in a hurry, and it is the only version most guides bother to describe. The free things to do on Lollapalooza weekend are a different trip entirely, and they are the ones almost nobody maps. The festival itself sits behind a fence in Grant Park and asks for a ticket at every gate, but the weekend it creates spills across the whole downtown lakefront, and that spillover is open to anyone with a transit card and a pair of shoes. A budget traveler, a ticketless friend tagging along, a student who spent the ticket money on the flight, or a local who would rather keep the cash can build a full, satisfying Lollapalooza-weekend experience for close to nothing, as long as they understand exactly where the free part begins and where the gated part ends.
 
 That line is the whole game, and getting it wrong is how people end up disappointed. You cannot sneak the festival for nothing, and any plan that depends on watching the headliner from a secret spot is going to fail. What you can do is wrap your weekend around the festival in a city that happens to throw a great deal of no-cost music, open green space, and public programming into the same days, and do it without spending on a ticket at all.
 
-![Open attractions to do on Lollapalooza weekend in Chicago without a ticket - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Open attractions to do on Lollapalooza weekend in Chicago without a ticket - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 This guide draws the line plainly, then fills the open side of it with specifics: which public spaces cost nothing and sit a short walk from the gates, where the city's no-cost summer music actually happens, how to assemble a no-cost day plan that still feels like part of the festival, and the small spends that turn a no-ticket weekend into a genuinely good one. The numbers here stay in durable, ranged terms on purpose, because gate fees, pass tiers, and city event calendars shift every edition, so confirm the current specifics before you build a hard plan around any one of them. What does not shift is the shape of the opportunity: a gated festival inside a open city.
 

@@ -6,17 +6,17 @@ date: 2026-05-19
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Budget Travel", "Festival Planning", "Festival Tickets", "Chicago Travel", "Music Festivals"]
 excerpt: "What a Lollapalooza weekend really costs, broken down by ticket, lodging, food, and travel, with honest per-day and full-trip totals you can plan around."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-05-19
+lang: en
 ---
-
 The first thing most people learn about a Lollapalooza cost is how little the advertised number tells them. A four-day pass has a price, that price is easy to find, and a first-time planner reads it, doubles it for a partner, and decides the festival is affordable or out of reach on the strength of that single figure. The decision is almost always wrong, because the pass is rarely even half of what the weekend actually takes. The honest Lollapalooza cost is a stack of categories, and the pass sits near the top of that stack rather than describing the whole of it. This article exists to add the stack up properly, category by category, in ranged and durable terms, so that what you carry into your planning is a real total instead of a sticker price that flatters the trip.
 
 There are two numbers worth holding in your head before any detail arrives. The first is the per-day figure, what a single festival day asks of your wallet once you count the music, the food, the moving around, and the small unavoidable spends. The second is the full-trip figure, what the four-day Grant Park weekend adds up to once lodging and travel are folded in, which for an out-of-town visitor is a different and much larger animal than the per-day number suggests. A local who walks to the gate and sleeps in their own bed lives close to the per-day figure across four afternoons. A traveler flying in from another city is funding a small vacation that happens to be wrapped around a festival, and the two should never be quoted as if they were the same trip.
 
-![Full Lollapalooza cost breakdown by category, per day, and total trip - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Full Lollapalooza cost breakdown by category, per day, and total trip - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 Across this guide, every dollar figure is given as a range rather than a fixed quote, and every range carries the same instruction: confirm the current number before you commit, because passes, hotel rates, food prices, and transit fares all move year to year. What does not move is the shape of the stack. The categories that dominate a Lollapalooza budget have stayed the same for years, the order of their size has stayed the same, and the lesson that follows from that order, the one this article is built to deliver, has stayed the same too. Get the shape right and the exact figures slot into place around it. Quote the pass alone and the real total ambushes you in July.
 

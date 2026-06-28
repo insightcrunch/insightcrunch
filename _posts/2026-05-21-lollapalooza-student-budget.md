@@ -6,15 +6,15 @@ date: 2026-05-21
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Budget Travel", "Festival Planning", "Music Festivals", "Grant Park", "Festival Tickets"]
 excerpt: "A Lollapalooza student budget built from real levers: the single day, the shared bed, the payment plan, and cheap eats, plus where the money truly goes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-05-21
+lang: en
 ---
-
 A Lollapalooza student budget is not built from a discount that does not exist. It is built from four choices, and once you make them in the right order, a downtown summer festival that looks impossible on a student wallet becomes a weekend you can actually fund. The students who pull this off are not the ones who found a secret student rate, because there generally is not one. They are the ones who picked the single day instead of the four, split a room or a hostel bunk instead of paying for a bed alone, locked the price early on a payment plan instead of fronting the whole pass in one hit, and ate around the gates instead of inside them. That is the entire trick, and the rest of this page is the math, the order, and the honest cautions that turn it into a plan you can carry into a booking screen.
 
-![Lollapalooza on a student budget, how students afford the Grant Park festival - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lollapalooza on a student budget, how students afford the Grant Park festival - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 The reason most budget advice fails a student is that it treats the festival as one undifferentiated cost and then tells you to bring a water bottle and skip a few drinks. That advice is not wrong, but it is aimed at the wrong target. The water bottle saves you a handful of dollars; the choice between one day and four moves your total by a multiple. The choice between a private room and a split rental moves it by hundreds. The structural levers are the ones that decide whether you go, and the small economies are the ones that decide whether you go home with twenty dollars or zero. A student has to get the big levers right first, then layer the small wins on top, and the page below is sequenced exactly that way: the levers that decide the trip, then the costs that fill it in, then the spend plan that ties it together.
 

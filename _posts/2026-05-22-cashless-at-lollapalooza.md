@@ -6,15 +6,15 @@ date: 2026-05-22
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Planning", "Budget Travel", "Grant Park", "Music Festivals", "Festival Survival"]
 excerpt: "Cashless at Lollapalooza trips up first-timers. Here is how the wristband pays, whether you need any cash, and how to load, check, and refund a balance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-22
+lang: en
 ---
-
 The first time you reach a food stall in Grant Park and the worker waves your wrist over a small glowing pad instead of taking a bill, the whole payment question answers itself in about two seconds. Going cashless at Lollapalooza is not a glitch or an upsell. It is the default, the only way most of the festival takes your money, and the single mechanic that trips up more first-timers than the heat, the crowds, or the set-time clashes combined, because nobody explains it before they arrive holding a fold of twenties that almost nothing inside the gates wants.
 
-![How the cashless wristband payment system works at Lollapalooza - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the cashless wristband payment system works at Lollapalooza - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 This is the page that fixes that. Not a vague reassurance that the festival is "mostly card friendly," but the actual flow: what the cashless system is, what hardware you carry, how to link a card or preload a balance, how to check what you have left, where the rare cash exceptions hide, and what to do when a card declines on day three with a headliner about to start and a line behind you. Master the mechanic before you go and you will never think about it again once you are inside. Ignore it and you will spend the first hour of an expensive weekend troubleshooting a payment terminal instead of watching music.
 

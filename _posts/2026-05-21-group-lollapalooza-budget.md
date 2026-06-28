@@ -6,15 +6,15 @@ date: 2026-05-21
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Planning", "Budget Travel", "Grant Park", "Music Festivals"]
 excerpt: "A group Lollapalooza budget drops per head when you split the fixed costs the right way. Here is the costed method for lodging, rides, and shared money."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-05-21
+lang: en
 ---
-
 The single biggest lever on a group Lollapalooza budget is one most friends never deliberately pull: deciding, before anyone books anything, which costs get split across the whole party and which stay on each person's own card. Get that split right and four or six or eight people can each pay noticeably less than a solo traveler would for the same weekend in Grant Park, because the largest line on the trip, the roof over everyone's head, divides cleanly by the number of bodies sleeping under it. Get it wrong, or never think about it at all, and a group ends up paying close to solo rates each while also fighting over who owes whom for the late-night food run. This page is about pulling the lever on purpose. It lays out which costs shrink per head, how much they shrink, and how to handle the shared money so the math stays friendly all weekend.
 
-![How to split costs on a group Lollapalooza budget and save per person - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to split costs on a group Lollapalooza budget and save per person - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The reason this matters is structural, not motivational. A festival weekend has two kinds of expenses, and they behave in opposite ways when you add people to the trip. Some costs are fixed: they exist whether one person or six people share them, so every additional person who joins drives the per-head share down. A downtown apartment that sleeps six costs roughly the same total whether four people or six people are in it, so the sixth person makes everyone cheaper. Other costs are per-head by nature: a wristband admits one body, a rib tip plate feeds one stomach, a personal bar tab belongs to one liver. Adding people does nothing to those. The whole art of a group budget is loading as much spend as possible onto the fixed side and being honest that the per-head side will not move. That is the entire wager of this article, and the rest of it is the costed method that follows from it.
 

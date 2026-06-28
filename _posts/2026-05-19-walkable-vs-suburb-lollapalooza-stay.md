@@ -6,15 +6,15 @@ date: 2026-05-19
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Where to Stay", "Festival Planning", "Chicago Travel", "Budget Travel", "Grant Park"]
 excerpt: "Choosing between a walkable Lollapalooza hotel and a cheaper suburb stay? Compare full cost, commute, and late-night fatigue to find your real winner."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-19
+lang: en
 ---
-
 You have two browser tabs open and they are pulling you in opposite directions. One holds a downtown room you can walk to the Grant Park gates from in fifteen minutes, and the price makes you wince. The other holds a room twenty-odd miles out, on a train line, for a fraction of the nightly figure, and the saving looks like found money. This is the single most argued lodging question for Lollapalooza, and almost everyone settles it the same lazy way: they compare the two nightly rates, see the gap, and book the cheaper room. That instinct is where the trip starts to leak time and money you never budgeted for.
 
-![Walkable hotel vs cheaper suburb stay for Lollapalooza - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Walkable hotel vs cheaper suburb stay for Lollapalooza - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The honest answer is that the nightly rate decides nothing on its own. A walkable hotel and a cheaper suburb stay are not two prices to rank; they are two complete weekend systems, each with costs the listing page never shows you. The walkable room costs more per night and saves you a daily commute, a transit fare, and the particular misery of a long ride home after a headliner when your feet are wrecked and the trains are packed. The suburb room saves you real money on the room and quietly spends a chunk of that saving back across four days of travel, fares, and fatigue. The right call is whichever option wins on total cost for your specific trip, and the only way to see total cost is to count everything the two tabs are hiding from you.
 
