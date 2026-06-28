@@ -6,16 +6,18 @@ date: 2001-05-18
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Revision", "Revision Strategy", "Spaced Repetition", "Prelims Preparation", "Mains Preparation"]
 excerpt: "UPSC revision strategy using spaced repetition, a structured revision calendar, and smart time allocation to retain the syllabus before Prelims and Mains"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 64
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-05-18
+lang: en
 ---
-
 A sound UPSC revision strategy is the single difference between an aspirant who has read the syllabus and an aspirant who actually remembers it on examination day. Most candidates approach this examination as a reading marathon, accumulating fresh material month after month, telling themselves they will somehow consolidate everything later. Later never arrives, and they walk into the Prelims hall having forgotten ninety percent of what they covered eight months earlier. The aspirants who clear this examination are rarely the ones who read the most. They are the ones who revised the most deliberately, who understood that the human brain discards unused information ruthlessly, and who built a system that forced critical content back into working memory at precisely the intervals where it was about to fade. This guide treats revision not as a final-month panic activity but as the central architecture of your entire preparation, the engine that converts reading hours into recall ability when it counts.
 
 <!--more-->
 
+
+![UPSC Revision Strategy: Before Prelims and Mains - Insight Crunch](/assets/images/blog/blog-70.webp)
 The cognitive reframing required here is significant. Fresh study feels productive because it generates the sensation of progress, of pages turned and topics ticked off. Revision feels tedious because it covers ground you believe you already know. This emotional asymmetry is exactly why most aspirants under-revise and over-read, and it is exactly the trap that ends preparations. Understanding how memory consolidation works, how spaced repetition exploits the brain's retention mechanics, and how to allocate finite hours between absorbing new content and reinforcing old content is what separates a strategically mature candidate from an anxious one drowning in unread books.
 
 ## Why a UPSC Revision Strategy Matters More Than Fresh Study

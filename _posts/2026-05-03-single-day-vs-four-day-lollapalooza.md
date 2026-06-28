@@ -6,15 +6,15 @@ date: 2026-05-03
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Tickets", "Lollapalooza Chicago", "Festival Planning", "Music Festivals", "Budget Travel"]
 excerpt: "Single-day vs four-day Lollapalooza passes, settled with honest per-day cost math, sell-out risk, and a clear verdict on which pass fits which buyer type."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-05-03
+lang: en
 ---
-
 You are on the buying screen, the lineup is announced, and the only real question left is the one that quietly shapes the entire trip: do you buy a single-day Lollapalooza pass or the four-day pass? Everything downstream hangs on it. The flight you book, the nights you reserve at a hotel, the budget you draw up, the friends you try to sync with, even how hard you chase a clashing set on a Saturday night, all of it bends around how many days you committed to at checkout. Most pages dodge this. They tell you the four-day is "the better value" in a single line and move on, which is true on a spreadsheet and useless the moment your actual constraints enter the room. The single-day versus four-day Lollapalooza decision deserves real math, an honest accounting of what each path costs you in money and flexibility, and a verdict that changes depending on who you are. That is what this page gives you.
 
-![Single-day vs four-day Lollapalooza pass comparison and per-day cost math - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Single-day vs four-day Lollapalooza pass comparison and per-day cost math - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The short version, so you can act fast and read the reasoning afterward: the four-day pass wins on pure cost the instant you intend to attend three or more days, because its effective per-day price sits well below what a single date costs on its own. The single-day pass wins for the one-or-two-day attendee, for the fan targeting a specific date's lineup, and for the budget-capped buyer for whom a single date is the only realistic way in. The breakpoint is the whole game, and once you know where you fall on it, the rest of this decision answers itself.
 

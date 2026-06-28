@@ -4,15 +4,15 @@ slug: gatsby-characterization-technique
 date: 2026-05-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Character Analysis", "Literary Criticism"]
-author: "Insight Crunch Team"
+author: "megan-clark"
 image: /assets/images/blog/blog-01.webp
 excerpt: "Characterization techniques in Gatsby build each figure from the outside in, through introduction, gesture, speech, rumor, and action before interiority."
 reading_time: 38
+lang: en
 ---
-
 Most readers can name the people in this novel within a chapter, and almost none can say how Fitzgerald put them there. That gap is the whole subject of this guide. The characterization techniques in Gatsby are not a matter of the author telling you who someone is; they are a matter of the author letting you assemble a person out of a posture, a voice, a piece of gossip, and a single act under pressure. Studying Fitzgerald literary techniques at the level of character means learning to watch the machinery rather than the result, to see the toolkit instead of the finished figure. This article owns that analysis. It is not a study of any one person in the book, and it is not a catalogue of who enters where. It is an account of method: the precise ways a short novel makes a handful of people feel permanent.
 
-![Characterization techniques in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Characterization techniques in The Great Gatsby](/assets/images/blog/blog-91.webp)
 
 ## Why characterization is a technique, not a description
 

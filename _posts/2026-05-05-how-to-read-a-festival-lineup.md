@@ -6,15 +6,15 @@ date: 2026-05-05
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Lineup", "Music Festivals", "Festival Planning", "Grant Park"]
 excerpt: "Learn to read a festival lineup poster like a planner: decode the font hierarchy, billing tiers, name order, day columns, and what every slot signals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-05-05
+lang: en
 ---
-
 The moment a festival lineup poster drops, two kinds of people look at it. The first kind reads the top three names, feels something, and starts arguing about whether the bill is stacked or weak this year. The second kind reads the whole thing, top to bottom and left to right, and walks away already knowing which acts are getting long sets on the big stages, which midday names are worth showing up early for, and roughly how the four days will shake out before a single set time has been published. This guide turns you into the second kind of reader. Knowing how to read a festival lineup poster is a durable skill, not a one-time trivia win, because the conventions hold across nearly every major festival on earth and across every future edition of the one you care about most.
 
-![How to read a festival lineup poster and decode billing tiers at Lollapalooza - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to read a festival lineup poster and decode billing tiers at Lollapalooza - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 Most people treat the poster as a piece of marketing art, a pretty grid of names designed to make them buy a ticket. It is that. But it is also a dense, structured document that encodes a whole hierarchy of who matters, when they play, how long they play, and on what size of stage, all communicated through font size, vertical position, horizontal order, row breaks, and a small set of typographic conventions that almost never vary. Once you can see that structure, the poster stops being a wall of names and becomes the first and most useful planning tool you get, months before the set times arrive. At Lollapalooza specifically, where the bill runs well over a hundred and seventy acts across eight stages and four days in Grant Park, learning to read the poster is the difference between facing the lineup as an overwhelming list and facing it as a map you can actually plan against.
 

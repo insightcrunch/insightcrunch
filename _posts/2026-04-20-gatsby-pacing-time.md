@@ -6,15 +6,15 @@ date: 2026-04-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Pacing", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Pacing and time compression in Gatsby explained: how Fitzgerald slows time at the climax and compresses dull months, turning narrative speed into tension."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 41
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-04-20
+lang: en
 ---
-
 A novel that covers a whole summer and runs to fewer than fifty thousand words has to make brutal decisions about where to linger and where to hurry, and pacing and time compression in Gatsby are the names for how Fitzgerald makes those decisions. Most readers feel the result before they can describe it: the party chapters drift and shimmer, the months between visits vanish in a sentence, and then the afternoon at the Plaza seems to last forever while the drive home that kills Myrtle Wilson is over almost before you register it. That uneven rhythm is not a flaw or an accident. It is a deliberate instrument. Fitzgerald slows the clock when intensity peaks and speeds it up when nothing is at stake, so the reader's sense of duration becomes a tension dial the author controls from the first page to the last.
 
-![Pacing and time compression in The Great Gatsby explained, how Fitzgerald slows and speeds narrative time - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pacing and time compression in The Great Gatsby explained, how Fitzgerald slows and speeds narrative time - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 This is craft worth naming because it is craft most study guides skip. They will tell you what happens in each chapter and in what order, but they rarely explain why the same number of pages can feel like a long afternoon in one chapter and a quick montage of weeks in another. Treating the rhythm of the storytelling as a designed effect, rather than a side effect of plot, is the move that separates a reader who can argue about the book from one who can only summarize it. The pages do not turn at a constant rate. Fitzgerald engineers the speed, and once you can see the engineering you can write about it.
 

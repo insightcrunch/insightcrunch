@@ -6,17 +6,17 @@ date: 2016-11-15
 categories: ["Travel"]
 tags: ["USA Travel", "Pacific Coast Highway", "California", "Road Trips", "Outdoors", "Itineraries"]
 excerpt: "The best time to drive the Pacific Coast Highway is late spring or fall, when coastal fog lifts, crowds thin out, and gray whales pass close offshore."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2016-11-15
+lang: en
 ---
-
 Most people choose when to drive the Pacific Coast Highway by looking at a school calendar or a stretch of free vacation days, and a large share of them pick the worst possible window without knowing it. They book the warmest weeks of the year, fly into California expecting the postcard, and meet a gray wall of fog that sits on the water from breakfast until mid afternoon. The single decision that shapes whether this drive delivers the views you came for is not how many days you take or which direction you point the car. It is the month you choose, and specifically whether you choose around the coastal marine layer or straight into it.
 
 That is the whole timing problem in one sentence, and it is the reason this guide exists. The Pacific Coast Highway is clearest, calmest for crowds in the best stretches, and most rewarding for the long ocean panoramas in late spring and again in fall. Early summer, the window most families default to, is the foggiest part of the year along the central coast, the so called June Gloom that grays out the cliffs and turns a turquoise sea into flat pewter. Once you understand that one pattern, every other timing question on this road, the crowds, the prices, the winter rain and closures, the whale migration, falls into place around it.
 
-![A clear afternoon view of the Pacific Coast Highway winding along the California coast](/assets/images/blog/blog-01.webp)
+![A clear afternoon view of the Pacific Coast Highway winding along the California coast](/assets/images/blog/blog-99.webp)
 
 This is a timing decision, not a description, so the guide is built on the coast's specific calendar rather than generic season labels. You will get the marine layer pattern that drives everything, a season by season comparison on weather, crowds, price, and access, the natural events that move the calendar such as the gray whale migration and the elephant seal cycle at San Simeon, a month level look at when the fog is worst and when it clears, the quietest and cheapest windows, the genuine downsides of winter and the closures it can bring, and a way to time the trip around whatever you personally care about most. The road itself, the order of the stops, and the best direction to drive are covered in the [complete Pacific Coast Highway road trip guide](/2016/07/01/pacific-coast-highway-complete-guide/); this page is only about when.
 

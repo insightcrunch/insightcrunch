@@ -6,15 +6,15 @@ date: 2026-05-01
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Survival", "Festival Planning", "Grant Park", "Music Festivals"]
 excerpt: "A Lollapalooza first-timer survival system for four days: what to pack, what to wear, the bag rules, beating the heat, and keeping your group together."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-05-01
+lang: en
 ---
-
 A first Lollapalooza punishes the unprepared in ways the lineup poster never warns you about. The set of skills that gets you through a Lollapalooza survival weekend has almost nothing to do with which acts you love and almost everything to do with how you handle eleven hours on your feet in downtown Chicago heat, a bag policy that turns away gear at the gate, a cell network that dies the second the crowd arrives, and a body that is being asked to do this four days running. Most of the advice floating around for newcomers reduces to two phrases repeated forever: stay hydrated and wear comfortable shoes. That advice is correct and almost useless, because it tells you the goal without telling you the system. This guide is the system. It treats getting through the weekend as a solvable engineering problem with a small number of failure points, and it walks you through each one in the order it will actually threaten your trip.
 
-![Lollapalooza first-timer survival guide packing and heat preparation in Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lollapalooza first-timer survival guide packing and heat preparation in Grant Park - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The promise here is specific. By the end you will know what goes in your bag and why, what gets confiscated, what to wear for a day that starts in ninety-degree humidity and ends in a cold lakefront wind, how to keep a phone alive across a twelve-hour stretch with no outlet, how to find your friends when texts stop sending, and how to recognize the early warning signs that your body is in trouble before they become an emergency. None of it is complicated. All of it is the difference between a weekend you remember fondly and a weekend you spend overheated, lost, and broke by the second afternoon. If you want the wider planning picture behind these survival tactics, the [complete Lollapalooza Chicago guide](/2026/05/01/lollapalooza-chicago-complete-guide/) lays out the four decisions that shape the whole trip, and this article picks up where that one leaves off, at the gate.
 

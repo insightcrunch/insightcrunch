@@ -6,15 +6,15 @@ date: 2026-04-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tone and Mood", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Tone and mood in The Great Gatsby pull against each other: one elegiac narrating voice holds steady while the atmosphere of every scene keeps shifting."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-04-13
+lang: en
 ---
-
 Ask a classroom what the tone and mood in The Great Gatsby are, and the answers blur together into a single fog: sad, dreamy, glamorous, tragic, nostalgic. The words pile up, none of them wrong, none of them precise, and the confusion hides a craft distinction that the novel is built on. Tone is the narrator's attitude, the settled stance Nick takes toward the story he is telling. Mood is the atmosphere of a given scene, the feeling the prose stirs in the reader as the party roars or the heat presses down or the pool goes still. Mix the two and the book flattens into a vague sadness. Keep them apart and you can see the engine: one steady attitude riding over a surface of constantly changing weather.
 
-![Tone and Mood in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Tone and Mood in The Great Gatsby](/assets/images/blog/blog-47.webp)
 
 That gap between the constant and the changing is where the novel's complexity lives. Fitzgerald never lets Nick's voice settle into simple grief or simple celebration; the attitude stays double, admiring and mournful at once, while the scenes underneath it swing from glitter to dread to desolation. A reader who can name which is which stops describing the book and starts analyzing it. This guide separates the two cleanly, tracks the attitude that never moves and the atmospheres that never stop moving, and shows how the controlled distance between them produces the elegiac power readers feel but rarely explain.
 

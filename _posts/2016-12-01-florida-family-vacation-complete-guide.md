@@ -6,17 +6,17 @@ date: 2016-12-01
 categories: ["Travel"]
 tags: ["USA Travel", "Florida", "Orlando", "Family Travel", "Itineraries"]
 excerpt: "A Florida family vacation guide to choosing your region, balancing the parks and beaches, and planning out the days before you ever book a single ticket."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2016-12-01
+lang: en
 ---
-
 The first real decision in a Florida family vacation is not which hotel to book or which park to start with. It is what kind of trip you are taking at all. Florida behaves like two different states stitched together at the waist, and a household that books before settling that question tends to overpay, overdrive, and arrive at a beach day everyone needed three days too late. The job of this guide is to settle the shape of the trip first, so that every later choice has somewhere to fit.
 
 Most parents arrive at the planning stage assuming the answer is Orlando, and Orlando alone. The theme parks dominate the search results, the advertising, and the conversations at school pickup, so a trip to Florida quietly becomes a trip to a single cluster of gates an hour inland. That instinct is not wrong so much as incomplete. The parks are spectacular and worth every bit of their reputation, but they are one half of the state, and the half a tired household often remembers most fondly is the other one: the warm shallow gulf, the spring-fed rivers where manatees drift past, the long quiet barrier-island beaches, and the small historic towns that ask nothing of anyone except a slow afternoon.
 
-![Florida family vacation planning guide, balancing theme parks and beaches by region - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Florida family vacation planning guide, balancing theme parks and beaches by region - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 So the framing this guide uses, and the one that makes the rest of the planning fall into place, is simple. Decide the mix before the destination. Decide how much of your trip belongs to the theme-park Florida and how much belongs to the beach-and-springs Florida, and the region, the day count, the airport, and the rental car all follow from that single ratio. Get the ratio right for the ages and temperaments in your household and the trip works. Get it wrong, and no amount of careful park strategy will rescue a week that was built around the wrong half of the state.
 

@@ -6,13 +6,15 @@ date: 2026-05-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Dialogue and speech in The Great Gatsby reveal class, character, and subtext, turning every conversation into a second narration that exposes what people hide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-05-04
+lang: en
 ---
-
 Read most study guides and you will find the conversations in The Great Gatsby treated as plumbing: lines that move characters from the lawn to the Plaza, deliver a plot point, and get out of the way. That reading wastes the richest layer of the book. Dialogue and speech in The Great Gatsby are not a delivery system for information; they are a second narration running underneath Nick's, one that reports on class, character, and motive even as the speakers try to manage what they reveal. When Gatsby calls a near stranger old sport, when Daisy lets her voice climb and fall over a sentence about nothing, when Tom turns a casual remark into a verdict on civilization, the talk is doing analytical work. It exposes the very things the speaker is trying to hide.
+
+![Dialogue and Speech in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This is the claim the present analysis defends and names: speech that betrays more than it says. Fitzgerald engineers conversation so that the surface meaning is the smallest part of what is communicated. The class a character performs leaks through diction and tic; the want a character cannot admit leaks through evasion and silence; the contest two characters are actually having leaks through what they say about a third thing entirely. Read this way, dialogue stops being recap and becomes evidence. A reader who learns to hear the tell and the subtext can analyze any scene in the novel, because every scene is partly built out of people failing to keep their words from giving them away.
 

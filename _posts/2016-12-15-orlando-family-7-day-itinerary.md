@@ -6,15 +6,15 @@ date: 2016-12-15
 categories: ["Travel"]
 tags: ["USA Travel", "Orlando", "Family Travel", "Itineraries", "Florida"]
 excerpt: "A paced 7-day Orlando family itinerary that caps park days, builds in pool and rest days, and names which parks suit which ages, and what to skip and when."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2016-12-15
+lang: en
 ---
-
 A 7-day Orlando family itinerary is not a list of parks to conquer; it is a pacing problem to solve. The families who come home raving are almost never the ones who did the most. They are the ones who did the right amount, in the right order, with enough air in the schedule that a tired four-year-old did not detonate the whole afternoon. The families who come home frayed usually made one mistake, and it is always the same mistake: they treated a week in Orlando as seven chances to be at a gate when it opened, and by the fourth straight morning of alarms, sunscreen, and ten-mile days on small legs, the trip turned into a forced march that nobody was enjoying, least of all the kids it was supposedly for.
 
-![A paced 7-day Orlando family itinerary with Disney and Universal park days, pool days, and rest days for kids - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A paced 7-day Orlando family itinerary with Disney and Universal park days, pool days, and rest days for kids - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 This plan is built around one rule that governs everything else, and the whole week flows from it: you cap consecutive theme-park days and you schedule pool and rest days on purpose, because the thing that ruins these trips is not a shortage of things to do, it is theme-park fatigue. Orlando will happily sell you a park day for all seven days, and your family can physically be inside a gate every morning, but stamina is the real constraint, not opportunity. A week paced for endurance gives you more good memories than a week paced for maximum gate-scans, even though it visits fewer turnstiles. That is the trade this itinerary makes deliberately, and once you see why, you will not want to plan it any other way. If you are still deciding whether Orlando is the right base at all, or weighing it against beaches and springs elsewhere in the state, start with the broader [Florida family vacation planning guide](/2016/12/01/florida-family-vacation-complete-guide/) and come back here once the destination is settled.
 

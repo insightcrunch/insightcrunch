@@ -5,17 +5,17 @@ excerpt: "Flashback and chronology in The Great Gatsby reorder Gatsby's history 
 date: 2026-04-27
 last_updated: 2026-04-27
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "diana-patel"
 image: /assets/images/blog/blog-01.webp
 reading_time: 39
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
+lang: en
 ---
-
 The first time a reader meets Jay Gatsby in full, they meet a rumor: a man who supposedly killed someone, who is somehow nephew to a German general, who came from nowhere with too much money. The facts arrive much later, and they arrive out of sequence. That gap between what a reader hears and what a reader can confirm is the subject of this study of flashback and chronology in The Great Gatsby, where Fitzgerald refuses to lay the life of his hero down in a straight line. He scatters it, withholds it, and feeds it back at the moments of maximum pressure, so the timeline of the novel and the timeline of the events it describes pull steadily apart.
 
 Most readers sense the disorientation without naming its cause. They feel that Gatsby stays mysterious for a long while, that his past surfaces in pieces, that the book seems to circle rather than march. The cause is craft. Fitzgerald built a story whose order of telling deliberately breaks from the order of happening, and that single decision shapes suspense, sympathy, and the slow dawning of tragedy. Reading the architecture of that timeline, rather than smoothing it into a plot summary, is what separates analysis from recap.
 
-![Flashback and chronology in The Great Gatsby explained, the reordered timeline of Jay Gatsby's history - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Flashback and chronology in The Great Gatsby explained, the reordered timeline of Jay Gatsby's history - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 ## What flashback and chronology mean in this novel
 
