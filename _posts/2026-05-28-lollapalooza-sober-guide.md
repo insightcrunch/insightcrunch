@@ -6,15 +6,15 @@ date: 2026-05-28
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Sober Festival", "Festival Survival", "Music Festivals", "Festival Planning"]
 excerpt: "Doing Lollapalooza sober works because the music is the point, not the bar. Here is the sober scene, the spaces, and a real energy and hydration plan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-05-28
+lang: en
 ---
-
 The question almost every clear-headed festivalgoer types into a search bar before buying a wristband is some version of the same worry: if you do Lollapalooza sober, are you going to spend four days watching everyone else have the night of their life while you stand there holding a water bottle and feeling like the designated adult. The honest answer, and the reason this guide exists, is that the worry is built on a false premise. Lollapalooza is a music festival, and the music is the product. The bar is a concession stand, not the main stage. A sober attendee at Grant Park is not a spectator at someone else's party; they are getting the exact thing they paid for, often with a sharper memory of it than the people around them who will be reconstructing Saturday night from blurry phone footage on Sunday morning.
 
-![How to do Lollapalooza sober without missing the festival - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to do Lollapalooza sober without missing the festival - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 This is a planning guide for anyone doing the four-day Grant Park weekend without alcohol or other substances, whether you are in long-term recovery, newly sober and protecting that, sober-curious and testing what a festival feels like clear, pregnant, on medication that does not mix with drinking, driving home each night, or simply someone who decided years ago that paying festival prices to feel worse the next day was a bad trade. The plan that follows treats your sobriety as a fixed input, not a problem to solve, and builds the rest of the festival around it: how the days actually feel without a buzz, where the other dry people are, what carries the energy that drinking pretends to carry, how to handle the social friction, and how to leave on the last night knowing you saw the festival rather than survived it.
 

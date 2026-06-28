@@ -6,15 +6,15 @@ date: 2026-05-26
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Planning", "Music Festivals", "Grant Park", "Festival Survival"]
 excerpt: "Doing Lollapalooza with friends works when you plan the group trip around a shared plan, set meetup points, and use a split-and-reconvene rule for tastes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-26
+lang: en
 ---
-
 A friend group does not fall apart at Lollapalooza because anyone fights. It falls apart because eleven people try to move as one body through a crowd of several hundred thousand, the phones die by mid-afternoon, two of you wander off to grab water and never find the others again, and by the time the headliner starts you are scattered across Grant Park, each convinced the others have the better spot. Doing Lollapalooza with friends is a coordination problem before it is anything else, and the groups who treat it that way have the best weekend by a wide margin. This guide is about the part almost every other page skips: the shared plan, the meetup protocol, the right group size, and the single rule that saves more friendships than any other, which is that you do not have to stay together every minute to have a great time together.
 
-![How to plan a Lollapalooza group trip and keep your friends together - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to plan a Lollapalooza group trip and keep your friends together - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The festival itself is built in a way that quietly works against large clumps of people. Lollapalooza runs four days, Thursday through Sunday, across the lakefront half of Grant Park in downtown Chicago, with the biggest stages anchored at the far north and far south ends so that headliners can play at the same time without their sound bleeding into each other. That layout, the one that makes the music work, is the same layout that splits groups: the band half your crew wants to see is a fifteen to twenty minute walk from the act the other half came for, and the path between them runs through the densest crowd-flow choke points in the park. Add a cell network that buckles the moment a few hundred thousand people all try to text at once, and you have the exact conditions under which a group dissolves. None of this is a reason to come with fewer friends. It is a reason to plan like a group instead of like a crowd that happens to know each other.
 
