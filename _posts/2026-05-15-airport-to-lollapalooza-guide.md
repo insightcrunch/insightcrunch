@@ -6,15 +6,15 @@ date: 2026-05-15
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Grant Park", "Chicago Travel", "Festival Planning", "Music Festivals", "Festival Survival"]
 excerpt: "Getting from the airport to Lollapalooza is simpler than the cab line suggests: O'Hare and Midway each ride a train downtown, and the airport you book matters."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-15
+lang: en
 ---
-
 The flight is booked, the pass is in your account, and now there is one logistics problem left that out-of-town fans consistently get wrong: getting from the airport to Lollapalooza. Most pages that claim to answer this give you a shrug and a sentence about grabbing a cab, which is the single most expensive and least predictable way to make the trip during a festival weekend. The truth is simpler and cheaper. Both of Chicago's airports connect to downtown by one train line for one fare, the Grant Park gates sit a short hop from where those trains drop you, and the only decision that genuinely shapes your arrival is which airport you book in the first place. This guide solves that decision and then walks the transfer from each airport, O'Hare and Midway, by train, by time, and by cost.
 
-![How to get from O'Hare and Midway to Lollapalooza in Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to get from O'Hare and Midway to Lollapalooza in Grant Park - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 Chicago is unusual among American festival cities in that its public transit reaches both of its commercial airports directly. You do not need a car, you do not need to pre-book a shuttle, and you do not need to surrender a chunk of your music budget to a surge-priced ride before you have heard a single set. O'Hare International sits at the far northwest edge of the metropolitan area and connects to the Loop on the Blue Line. Midway International sits on the southwest side, much closer in, and connects to the Loop on the Orange Line. Either line carries you to the cluster of downtown stations that put Grant Park within a short walk or a single easy connection. That structural fact, two airports each wired to downtown by a single train, is the foundation everything else in this guide rests on, and it is why the airport transfer is one of the few parts of a Lollapalooza trip that you can treat as a solved problem rather than a source of arrival-day stress.
 

@@ -6,15 +6,15 @@ date: 2026-05-16
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Grant Park", "Festival Planning", "Chicago Travel", "Festival Survival", "Music Festivals"]
 excerpt: "Leaving Lollapalooza after the headliner means a crush at one gate. The spread-out exit plan turns that chaos into a calm, planned walk to a calm train home."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-05-16
+lang: en
 ---
-
 Leaving Lollapalooza is the part of the day almost nobody plans for, and it is the part that ruins more nights than any set-time clash. The music ends, the lights come up over Grant Park, and several hundred thousand people who spent the day spread across the lakefront all decide to go home in the same ten minutes, toward the same handful of gates, the same trains, and the same rideshare zones. The result is a slow, shoulder-to-shoulder press toward the nearest exit, a dead phone with no signal, a forty-minute wait for a car that costs triple, and a group that got separated somewhere between the closing song and the gate. That ending is not bad luck. It is the predictable outcome of having no plan for the one moment the festival manages worst. A planned departure turns the same night into a calm walk to a calm train, and the gap between those two endings is almost entirely about where you aim and when you move.
 
-![How to leave Lollapalooza without the post-headliner crush - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to leave Lollapalooza without the post-headliner crush - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 The reason the exit deserves its own plan, separate from how you arrived, is that arrival and departure are not mirror images. In the morning, people trickle in over three or four hours; the gates absorb a steady stream, the trains run half-empty, and there is no rush because nothing has started. The exit compresses that same crowd into a few minutes. Everyone leaves at once because the headliners end at once, and the infrastructure that comfortably handled a four-hour arrival has to swallow the entire park in a fraction of that time. Add darkness, tired legs, lowered phone batteries, and the simple fact that nobody can see over the heads in front of them, and you have the single least-managed moment of the Lollapalooza day. The fix is not heroics. It is a small set of decisions made before the last song, so that when the crowd surges toward the obvious exit, you are already moving somewhere calmer.
 

@@ -5,16 +5,16 @@ page_title: "Lollapalooza Single-Day Tickets: Which Day to Buy, by Lineup Fit an
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Tickets", "Festival Planning", "Music Festivals", "Grant Park"]
 excerpt: "Choosing a Lollapalooza single-day ticket comes down to lineup fit and sell-out risk. Here is how to pick the right day, even before the lineup drops."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-12
 date: 2026-05-12
+lang: en
 ---
-
 A Lollapalooza single-day ticket is a different purchase from a four-day pass, and the question it asks is sharper: not how much festival do you want, but which one of the four dates you want. That single choice decides everything downstream. It fixes the acts you can see, the crowd you will stand in, the price you pay, and the odds that the date you want is still on sale when you go to buy it. Most pages treat picking a day as an afterthought to picking a pass, a footnote tacked onto a tickets explainer. It deserves its own decision, because the buyer who gets it wrong does not lose a little value. They lose the whole point of going.
 
-![How to choose your Lollapalooza single-day ticket by lineup fit and sell-out risk - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to choose your Lollapalooza single-day ticket by lineup fit and sell-out risk - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The festival runs four days, Thursday through Sunday, across the lakefront half of Grant Park in downtown Chicago, and each of those four dates sells as its own pass. Thursday is its own product. Friday is its own product. Saturday and Sunday are theirs. They are priced separately, they sell separately, and crucially they sell out separately, which means the date with the biggest name attached to it can vanish from the on-sale while the remaining three sit available for weeks. The single-day buyer is therefore making two decisions at once, even if they only feel like one: which date fits them best, and which day they can still get. This article exists to resolve both, and to give you a way to choose even in the awkward window when the passes go on sale before the lineup is public.
 

@@ -6,15 +6,15 @@ date: 2026-05-13
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Grant Park", "Getting There", "Festival Planning", "Chicago Travel", "Music Festivals"]
 excerpt: "Getting to Lollapalooza is one decision, not a pile of options: weigh the train, rideshare, driving, biking, and airport routes to Grant Park, then commit."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-13
+lang: en
 ---
-
 The first real choice of your Lollapalooza weekend is not which headliner to catch or which pass tier to buy. It is how you will physically reach Grant Park each day and how you will get home each night, because every other plan rides on top of that one. Getting to Lollapalooza looks, on the surface, like a long menu of options: train, rideshare, taxi, your own car, a rented car, a bike, your own two feet, a flight into one of two airports. Most pages hand you that menu and walk away. The useful version treats arrival as a single decision with a clear default, then tells you the narrow situations where a different mode wins. That is what this guide does for the four-day Grant Park festival in downtown Chicago.
 
-![How to get to Lollapalooza in Grant Park by train, rideshare, and more - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to get to Lollapalooza in Grant Park by train, rideshare, and more - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The short version, which the rest of this page earns: the train is your default, and anything else has to justify itself. That single sentence will save more readers more money and more aggravation than any clever shortcut, because the geography of this festival does the work for you. Lollapalooza is not a field in the countryside reached by one two-lane road. It sits on the downtown lakefront, ringed by rail lines and surrounded by a city built to move hundreds of thousands of people in and out of the core every single day. The festival simply borrows that machine for four days. Understanding why that changes your math is the whole point of the page, so we start there.
 

@@ -6,15 +6,15 @@ date: 2026-05-12
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Tickets", "Festival Planning", "Music Festivals", "Grant Park"]
 excerpt: "When do Lollapalooza tickets sell out, and how much runway do you really have? The four-day pattern, single-day timing, and what to do if you miss it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-05-12
+lang: en
 ---
-
 The question of when Lollapalooza tickets sell out is the one timing decision that quietly shapes the entire trip, and most pages answer it with a shrug and a "buy early" platitude that helps nobody plan. The honest answer has structure to it. Four-day passes go first and they often go well before the gates ever open, the lineup announcement is the single biggest accelerant on the clock, and single days move at wildly different speeds depending on which night carries the marquee name. A reader who understands that pattern can time the purchase instead of gambling on it, and that is the whole point of this page: to replace the vague warning with a realistic picture of how the inventory actually drains, so you know how much runway you have and when waiting stops being patience and starts being a mistake.
 
-![When do Lollapalooza tickets sell out, the four-day and single-day sell-out timing pattern explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![When do Lollapalooza tickets sell out, the four-day and single-day sell-out timing pattern explained - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 This article owns the sell-out-timing question for the whole series. It will not re-explain the step-by-step purchase mechanics, which belong to their own guide, and it will not walk you through the resale market in detail, which has a dedicated page of its own. What it does is map the clock: how the on-sale opens, how fast each kind of pass tends to clear, what speeds the whole thing up, and what your options look like once a tier is gone. Treat every window described here as a durable range rather than a fixed date, because the exact pace shifts a little every edition, but the shape of the curve has held remarkably steady across the festival's recent history.
 

@@ -6,15 +6,15 @@ date: 2026-05-15
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Grant Park", "Festival Planning", "Chicago Travel", "Music Festivals"]
 excerpt: "Lollapalooza entrances ring Grant Park, and the right gate is the one nearest your stop or hotel. Here is where each sits and which lines stack up first."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-15
+lang: en
 ---
-
 The first real decision of your festival day is not which set to open with. It is which of the Lollapalooza entrances you walk toward, and most people get it wrong by treating the choice as an afterthought. They follow the densest stream of wristbanded strangers, assume that the crowd knows something they do not, and end up baking in a switchback security line at the busiest gate on the perimeter while a quieter entrance two blocks away processes its trickle of arrivals in a fraction of the time. Grant Park is ringed with gates, not served by a single front door, and the gap between the smartest entrance for your approach and the default one can cost you forty-five minutes and a half-mile of unnecessary walking before you have heard a single note.
 
-![Lollapalooza entrances and gates around Grant Park explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lollapalooza entrances and gates around Grant Park explained - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 This guide does one thing thoroughly: it maps the Grant Park entrances, tells you where each one sits, names the transit stop or hotel zone it actually serves, and shows you which gates stack up first once the music starts. The governing idea is simple enough to state in a sentence, and it is the single most useful thing on this page. The right Lollapalooza gate is the one nearest your transit stop or your hotel, not the most famous one, because the marquee entrances back up first and a quieter perimeter gate almost always means a shorter line and a shorter walk. Call it the gate-to-approach rule. Internalize it and you will never again drift toward the wrong entrance because everyone around you was drifting there too.
 
