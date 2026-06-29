@@ -6,15 +6,15 @@ date: 2026-06-01
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Merch", "Grant Park", "Music Festivals", "Festival Planning"]
 excerpt: "Lollapalooza merch is a real festival spend, so this guide covers where to buy it, what it costs, the online option after the gates close, and the smart play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-01
+lang: en
 ---
-
 The decision most fans never plan for is the merch decision. You arrive at Grant Park focused on the lineup, the heat, the gates, and the set times, and then somewhere around mid-afternoon you walk past a tent stacked with hoodies and tote bags and you think, almost without deciding, that you want one. That unplanned moment is where Lollapalooza merch quietly becomes a real line in your weekend spend, and it is the moment this guide exists to make smarter. The question is not whether the souvenir is tempting. It is whether you buy the right thing, at the right time, in the right place, for a price you chose rather than a price the peak-hour line chose for you.
 
-![Lollapalooza merch tents and festival shopping in Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lollapalooza merch tents and festival shopping in Grant Park - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 Merch is the rare festival cost that you control completely and yet almost never plan. You cannot negotiate the ticket tier down at the gate, you cannot lower the hotel rate once you have checked in, and you cannot talk the heat into being kinder. The shirt, though, is entirely optional, entirely up to you, and entirely worth thinking through before you are standing in front of a wall of folded cotton with a card already in your hand. The fans who walk out of the weekend happy with what they bought are almost always the ones who decided in advance what they wanted, set a rough number, and knew the one rule that beats the peak-hour tent. The fans who feel a small sting of regret are usually the ones who bought on impulse at the worst possible hour for the worst possible price. This guide is built to put you firmly in the first group.
 

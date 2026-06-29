@@ -6,15 +6,15 @@ date: 2026-06-01
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Lollapalooza Sustainability", "Rock and Recycle", "Music Festivals", "Festival Planning", "Grant Park"]
 excerpt: "Lollapalooza sustainability is a fan activity, not a slogan: Rock and Recycle rewards, composting, refill stations, and green transit you can actually use."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-01
+lang: en
 ---
-
 Lollapalooza sustainability is the part of the weekend most people walk straight past, and that is exactly why it is worth understanding before you go. A few hundred thousand people moving through the lakefront half of Grant Park over four hot days produce a staggering volume of cups, cans, food trays, and packaging, and the festival has spent a long time building programs to keep as much of that as possible out of a landfill. The headline program, Rock and Recycle, does something most green initiatives never manage: it turns recycling into a thing you actively do for a reward, rather than a guilt-tinged afterthought. The question this guide answers is not whether the event cares about the planet in the abstract. It is what the green programs actually are, how they work on the ground, and how a single attendee can take part and come away having lowered their own footprint while picking up something tangible in return.
 
-![How Lollapalooza sustainability and Rock and Recycle work for fans - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Lollapalooza sustainability and Rock and Recycle work for fans - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Most coverage of festival environmental efforts stops at a press release. You read that an event composts, diverts waste, and runs refill stations, and then the article ends, leaving you no clearer on what you personally do with that information. This page is built the other way around. The programs matter, and they get a full and honest accounting here, but the spine of the guide is the take-part method: the specific steps that move you from a fan who reads about sustainability to a fan who participates in it. That shift, from awareness to participation, is the whole point. The recycle-for-rewards rule sits at the center of it: because Rock and Recycle pays you back for collecting recyclables, the eco-conscious attendee can reduce their impact and earn a perk in the same motion, which beats the usual model of being asked to feel bad and do nothing.
 
