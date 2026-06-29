@@ -6,15 +6,15 @@ date: 2026-06-28
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "Jordan", "Group J", "Lionel Messi", "Match Analysis"]
 excerpt: "Jordan vs Argentina analysis: Messi came off the bench for a World Cup 2026 record as Lo Celso and Lautaro Martinez sealed a perfect Group J for the holders."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-28
+lang: en
 ---
-
 Argentina finished the World Cup 2026 group stage exactly the way the reigning champions wanted to, and the Jordan vs Argentina analysis from a warm night under the closed roof in Arlington reads as a study in control rather than drama. The holders won 3-1, took nine points from nine, and topped Group J without ever looking troubled, yet the lasting image came in the eightieth minute, when a 39-year-old substitute curled a free kick into the bottom corner and became the first footballer to score in seven consecutive World Cup matches. Giovani Lo Celso and a Lautaro Martinez penalty had already done the structural work; Lionel Messi arrived to write the headline. Mousa Al-Tamari's reply gave Jordan a moment to keep from their first World Cup, but the result was settled long before the substitutes changed its complexion.
 
-![Jordan vs Argentina World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Jordan vs Argentina World Cup 2026 analysis](/assets/images/blog/blog-40.webp)
 
 This was the third act of a group-stage campaign that Argentina had already won by the time the teams walked out, and it carried the strange tension of a dead rubber for the standings that was simultaneously a stage for one of the tournament's defining individual records. Lionel Scaloni had locked up first place against Austria five days earlier, so the manager treated this final round as a chance to rest legs, give minutes to his rotation options, and protect the bodies he will need deeper into the knockout bracket. He made nine changes. He left Messi on the bench. And still Argentina led 2-0 inside thirty-two minutes, because the gap in quality between a rotated world champion and a debutant chasing its first point was always going to be wide. The detail worth dwelling on is how the goals arrived, what they said about Argentina's set-piece method, how Jordan briefly made the second half awkward, and what the perfect group stage sets up next. If you read the pre-match framing in our [Jordan vs Argentina preview](/2026/06/27/jordan-vs-argentina-preview/), the questions were about Scaloni's rotation and whether Messi would feature; the answers came in stages across the ninety minutes.
 

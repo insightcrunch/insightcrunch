@@ -6,15 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Colombia", "Portugal", "Group Stage", "Match Preview"]
 excerpt: "Colombia vs Portugal at World Cup 2026 is a Group K top-spot decider between two qualified sides, with prediction, predicted lineups and key tactical battles."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-27
+lang: en
 ---
-
 Two teams already through, one place at the top of the group still open, and a question that decides far more than a line in a table: do you spend your last group game chasing first, or do you protect the players who will have to win you knockout ties? That is the tension that defines Colombia vs Portugal at World Cup 2026, the Group K finale in Miami where Nestor Lorenzo's side and Roberto Martinez's side meet with qualification secured and seeding on the line. Neither manager needs the points. Both want the position. The match that follows is a study in controlled ambition, two strong squads weighing the value of finishing first against the cost of getting there.
 
-![Colombia vs Portugal World Cup 2026 preview, a Group K top-spot decider in Miami](/assets/images/blog/blog-01.webp)
+![Colombia vs Portugal World Cup 2026 preview, a Group K top-spot decider in Miami](/assets/images/blog/blog-63.webp)
 
 The headline reads like a heavyweight tie because, on paper, it is one. Colombia arrive as Copa America finalists rebuilt into one of the most coherent sides in the tournament, carrying the form of two group wins and the swagger of a team that beat Uzbekistan and then saw off DR Congo without ever looking troubled. Portugal arrive as one of the pre-tournament favorites, a squad stacked with Champions League talent and led by the most recognizable footballer of his generation, having recovered from an opening stalemate to dismantle Uzbekistan in their second game. The names alone would sell the fixture. What gives it edge is that both have already done the hard part, which changes the calculation each bench brings to kickoff and turns a glamour tie into a chess match about risk.
 

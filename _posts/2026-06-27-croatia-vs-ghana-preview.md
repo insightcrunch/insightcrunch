@@ -6,15 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Croatia", "Ghana", "Group Stage", "Match Preview"]
 excerpt: "Croatia vs Ghana World Cup 2026 preview: prediction, predicted lineups, head to head, the Group L scenarios and the key tactical battle in Philadelphia."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-27
+lang: en
 ---
-
 One question hangs over Croatia vs Ghana at World Cup 2026, and it is not the simple one of who is better on paper. It is who handles the arithmetic better under pressure. When these two sides meet in Philadelphia on June 27 for the final round of Group L, Croatia arrive needing a result to lock down a place in the Round of 32, while Ghana arrive sitting prettier in the table than almost anyone expected and weighing exactly how much they need to risk. That gap between a side that must chase and a side that can choose is the whole story of this fixture, and it shapes every selection, every tactical decision, and every minute of the ninety to come.
 
-![Croatia vs Ghana World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Croatia vs Ghana World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 This is a matchday-three group game with real stakes for both, played at the same time as Panama vs England across the group, so the two results talk to each other in real time. Croatia, the 2018 runners-up and a semi-finalist at each of the last two World Cups, came into the tournament as the seeded European heavyweight of the group and have spent two games discovering that seeding guarantees nothing. Ghana, the lowest-ranked side in Group L when the draw was made, have spent the same two games quietly assembling the kind of points total that turns an outsider into a qualifier. The reasoning behind that flip, and what each side must now do about it, is what this preview lays out in full.
 

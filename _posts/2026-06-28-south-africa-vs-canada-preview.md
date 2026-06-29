@@ -6,17 +6,17 @@ date: 2026-06-28
 categories: ["Leisure"]
 tags: ["World Cup 2026", "South Africa", "Canada", "Round of 32", "Match Preview"]
 excerpt: "South Africa vs Canada prediction, predicted lineups, team news and head to head for a World Cup 2026 Round of 32 tie as two first-timers chase the last 16."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-28
+lang: en
 ---
-
 Two nations who have never stood in this exact spot will share a pitch in Los Angeles, and only one of them walks out still alive. South Africa vs Canada is the very first knockout fixture of World Cup 2026, the match that opens the brand new Round of 32, and it carries a weight that neither country has felt before at this stage of a global finals. Bafana Bafana have reached the knockout phase of a World Cup for the first time in their history. Canada, the co-hosts, have done the same. One of them will reach the last 16 by Sunday evening, and the other will fly home with a campaign that already rewrote the record books but stopped one round short of the next prize.
 
 That shared novelty is the spine of this preview. There is no group math left to untangle, no permutation to chart, no draw that quietly suits both sides. Single-elimination football strips a match down to its hardest form: win and continue, lose and leave. For a fixture between two teams that have spent their entire World Cup histories chasing exactly this moment, the pressure is not abstract. It sits in the chest of every player who knows that one mistake, one missed chance, or one refereeing call can end a tournament that took years to reach.
 
-![South Africa vs Canada World Cup 2026 Round of 32 preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-01.webp)
+![South Africa vs Canada World Cup 2026 Round of 32 preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 What follows is a complete pre-match briefing for the tie at the Los Angeles venue: how each side arrived here, what their group campaigns revealed, the one previous meeting between the two countries back in 2007, the team news and predicted lineups, the tactical hinge that should decide it, the players who can swing it, the bracket pathway that waits for the winner, the viewing details, and a reasoned prediction with a likely scoreline. The actual result is not revealed here. This is the pre-match read, built only from what was knowable before kickoff, and our paired report covering the result, the ratings, and the turning points lives in the [South Africa vs Canada analysis and player ratings](/2026/06/29/south-africa-vs-canada-analysis/) published the following day.
 

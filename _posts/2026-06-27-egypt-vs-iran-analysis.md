@@ -6,15 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Egypt", "Iran", "Group Stage", "Match Analysis"]
 excerpt: "Egypt vs Iran finished 1-1 at World Cup 2026, a saved penalty and a stoppage-time VAR offside sending Egypt through and Iran out on the finest margin."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-27
+lang: en
 ---
-
 Egypt advanced from Group G at World Cup 2026 without playing their best football, and the Egypt vs Iran analysis has to begin there, because the truth of the night in Seattle is that the better side over ninety minutes went home. Egypt drew 1-1 with Iran at Lumen Field on June 26, clung to a point they had targeted from kickoff, and finished second in the group on goal difference. Iran created the clearer chances, won a penalty, hit the woodwork, and had what looked like a stoppage-time winner chalked off for offside by the video review. The margin between qualification and elimination was not a goal. It was two frames: a goalkeeper diving the right way in the twelfth minute, and an assistant referee's flag in the ninety-third. Name that margin and you have named the match.
 
-![Egypt vs Iran World Cup 2026 Group G analysis](/assets/images/blog/blog-01.webp)
+![Egypt vs Iran World Cup 2026 Group G analysis](/assets/images/blog/blog-48.webp)
 
 This is the account of how a result that read as a tame draw on the scoreline was anything but, why Egypt's caution and Iran's nerve produced one of the group stage's most dramatic finishes, and what the 1-1 means for both nations as the tournament moves into the knockout rounds. It is the post-match companion to our pre-match build-up, and where the [Egypt vs Iran preview](/2026/06/26/egypt-vs-iran-preview/) framed the qualification math both teams carried into Seattle, this piece settles what actually happened to it. The prediction that a draw would do for Egypt was borne out. The cost it nearly carried was not foreseen.
 

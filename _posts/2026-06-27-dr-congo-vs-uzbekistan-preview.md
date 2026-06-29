@@ -6,15 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "DR Congo", "Uzbekistan", "Group K", "Group Stage", "Match Preview"]
 excerpt: "DR Congo vs Uzbekistan is the World Cup 2026 Group K finale where the Leopards must win to reach the knockouts. Preview, predicted lineups and scenarios."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-27
+lang: en
 ---
-
 One question hangs over the DR Congo vs Uzbekistan World Cup 2026 preview, and it is unusually blunt for a group game: can DR Congo win the match they have to win? The Leopards arrive in Atlanta on June 27 with a single point from two outings, a goal difference of minus one, and a path to the Round of 32 that has narrowed to one outcome. Beat Uzbekistan and they have a strong claim on a best third-placed berth. Fail to beat them and their first World Cup since 1974 ends in the group stage. Uzbekistan, the tournament debutants across the halfway line, carry a heavier mathematical burden and a lighter emotional one. With no points and a goal difference of minus seven, the White Wolves are close to gone, which paradoxically frees them to swing. This is the rare three-team-table fixture that behaves like a knockout tie for one side and a free hit for the other.
 
-![DR Congo vs Uzbekistan World Cup 2026 Group K preview, prediction and qualification scenarios - Insight Crunch](/assets/images/blog/blog-01.webp)
+![DR Congo vs Uzbekistan World Cup 2026 Group K preview, prediction and qualification scenarios - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 That asymmetry is the spine of the night, and it is worth naming plainly: Atlanta is the knockout game hiding inside the group stage. For DR Congo, the math removes every comfort a third group fixture sometimes offers. There is no calculation in which a draw is acceptable, no scenario in which a narrow defeat keeps them breathing on a rival's results elsewhere. Sebastien Desabre's players have to score, have to lead, and have to hold on, against opponents who have nothing left to protect and every reason to throw bodies forward. Understanding why the equation reduces to that one line, and how each side is built to chase or deny it, is the whole story of this preview.
 

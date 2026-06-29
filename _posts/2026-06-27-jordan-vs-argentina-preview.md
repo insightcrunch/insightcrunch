@@ -6,13 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Jordan", "Argentina", "Group Stage", "Match Preview"]
 excerpt: "Jordan vs Argentina World Cup 2026 preview: Group J is already won, so a rotated Argentina meets eliminated debutants Jordan in Dallas. Lineups and prediction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-06-27
+lang: en
 ---
-
 How do you ask Lionel Messi to sit down? That is the strange question hanging over Jordan vs Argentina at World Cup 2026, the final Group J fixture in Dallas on June 27, and it tells you almost everything about the night. The reigning champions have already won the group and locked their place in the Round of 32. The debutants have already been eliminated. Neither table position can change here. What remains is a holders' side deciding how hard to push a perfect record against a first-time nation determined to leave its maiden tournament with something to remember, and a manager weighing the temptation of one more Messi cameo against eleven fresh days before the knockouts.
+
+![Jordan vs Argentina: World Cup 2026 Preview - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 That tension, between a champion managing its energy and an underdog chasing a parting statement, is the whole story of this game. It is not a contest for points. It is a contest for momentum, for fitness, for fringe minutes, and for pride, and those quieter stakes make the selection calls more interesting than the scoreline is ever likely to be.
 

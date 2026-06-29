@@ -6,15 +6,15 @@ date: 2026-06-28
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Algeria", "Austria", "Group Stage", "Match Analysis"]
 excerpt: "Algeria vs Austria result and analysis: a dramatic 3-3 World Cup 2026 thriller, with a stoppage-time equalizer sending both through and knocking Iran out."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-28
+lang: en
 ---
-
 Algeria vs Austria at World Cup 2026 turned on roughly ninety seconds of stoppage time, and when those ninety seconds were done the scoreboard at GEHA Field at Arrowhead Stadium read 3-3, both nations had qualified, and Iran were out. That is the headline, and it does not begin to capture the swing. Riyad Mahrez looked to have won it for Algeria in the 93rd minute with a finish that, for a few delirious seconds, sent the Fennecs through as Group J runners-up and condemned Austria to elimination. Then Sasa Kalajdzic, on the pitch for barely a minute, headed home in the 96th to flip the entire equation back the other way. One goal sent Algeria second and Austria home; the answer sent Austria second and Algeria into the knockouts as a best third-placed side anyway. The single thing that explains this match is that its meaning changed twice inside the final two minutes, and both teams survived the chaos.
 
-![Algeria vs Austria World Cup 2026 result, player ratings and six-goal thriller analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Algeria vs Austria World Cup 2026 result, player ratings and six-goal thriller analysis - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 This was billed beforehand as a fixture that might tiptoe to a mutually convenient draw, both sides aware that a point apiece would carry them out of the group. For seventy minutes there were stretches that fit that fear. What actually unfolded was the opposite of a stitch-up: six goals, four lead changes if you count the brief stoppage-time ownership of the scoreline, two veteran finishers in Mahrez and Marko Arnautovic rolling back the years, and a finale so frantic that both managers spent their post-match interviews swatting away the suggestion that anything had been arranged. The Algeria vs Austria result is the kind of group-stage drama the expanded World Cup 2026 format was built to produce, and it deserves to be remembered for the football rather than the bookkeeping.
 

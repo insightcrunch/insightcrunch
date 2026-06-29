@@ -6,15 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "New Zealand", "Belgium", "Group Stage", "Match Analysis"]
 excerpt: "New Zealand vs Belgium analysis from World Cup 2026: how a Trossard brace and a De Bruyne strike sealed top spot in Group G and ended the All Whites' run."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-27
+lang: en
 ---
-
 For two matches Belgium looked like a name without a team, a roster of reputations that could not score, and then in the space of one night at BC Place they remembered who they were. This New Zealand vs Belgium analysis from World Cup 2026 begins with the number that flipped the entire mood of a tournament for the Red Devils: 5-1, the first win of their campaign, the heaviest scoreline Group G produced, and the result that carried Rudi Garcia's side from third place to first. New Zealand, the lowest ranked nation in the field and the bravest of underdogs across two matches, met a side that had finally found its finishing, and the gap that had been hidden for a week opened up in front of a sold-out Vancouver crowd.
 
-![New Zealand vs Belgium World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![New Zealand vs Belgium World Cup 2026 analysis](/assets/images/blog/blog-46.webp)
 
 The single thing that explains the evening is not that Belgium were suddenly transformed. They were not. The shape was the same, the personnel mostly the same, the patient possession the same as it had been against Egypt and Iran. What changed was conversion. The chances Belgium had spurned for a week began to go in, and once the first one did, the resistance New Zealand had sustained for the better part of two and a half group matches gave way in a rush. By the time Romelu Lukaku headed in fifty-six seconds after stepping off the bench, the contest was a memory and the only question left was the size of the margin. That margin, as it turned out, decided which team finished first.
 

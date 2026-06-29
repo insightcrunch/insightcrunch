@@ -6,15 +6,15 @@ date: 2026-06-29
 categories: ["Leisure"]
 tags: ["World Cup 2026", "South Africa", "Canada", "Round of 32", "Match Analysis"]
 excerpt: "South Africa vs Canada result and analysis: Stephen Eustaquio's 92nd-minute winner sent co-hosts Canada into their first ever World Cup 2026 Round of 16."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-29
+lang: en
 ---
-
 For ninety minutes the South Africa vs Canada Round of 32 tie at World Cup 2026 looked like a match designed to die quietly, a tight, low-scoring stalemate dragging toward extra time and the lottery of penalties. Then, in the second minute of second-half stoppage time, Stephen Eustaquio chested down a half-cleared ball at the edge of the box, let it drop, and drove it into the bottom corner past Ronwen Williams. One swing of a tired leg settled everything. Canada beat South Africa 1-0 to become the first nation into the last 16 of this tournament, and the co-hosts reached a World Cup knockout round of 16 for the first time in their history. The single thing that explains the result is patience under pressure: South Africa built their entire afternoon around frustrating Canada, and the plan held until the precise moment it could not.
 
-![Stephen Eustaquio scores Canada's stoppage-time winner against South Africa at World Cup 2026](/assets/images/blog/blog-01.webp)
+![Stephen Eustaquio scores Canada's stoppage-time winner against South Africa at World Cup 2026](/assets/images/blog/blog-43.webp)
 
 That sentence carries more weight than the bare scoreline suggests, because the margin was a single goal arriving in the ninety-second minute, and the contest that preceded it was a genuine test of nerve rather than a procession. This analysis tells the story of how a deadlock that looked unbreakable was finally broken, why the breaking of it was deserved on the balance of chances even as it flattered Canada on the balance of possession, and what the win sets in motion for a Canadian side that has spent this World Cup 2026 quietly dismantling its own reputation for falling short. The companion to this piece, the pre-match [South Africa vs Canada preview](/2026/06/28/south-africa-vs-canada-preview/), set the tie up as a meeting of two first-time knockout hopefuls and framed the central question as whether Canada's running power could prise open a disciplined defensive block. The answer, in the end, was yes, but only just, and only at the last.
 

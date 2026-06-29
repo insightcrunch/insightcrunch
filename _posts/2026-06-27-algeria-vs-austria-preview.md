@@ -6,15 +6,15 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Algeria", "Austria", "Group Stage", "Match Preview"]
 excerpt: "Algeria vs Austria World Cup 2026 preview: prediction, lineups, head to head and the Group J scenarios that decide who joins Argentina in the last 32."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-06-27
+lang: en
 ---
-
 Two sides arrive in Kansas City on level points, one place in the Round of 32 between them, and a single question hanging over the whole evening: who finishes second in Group J behind a champion who has already finished first. Algeria vs Austria at World Cup 2026 is the kind of final-round group fixture the new 48-team format was built to produce, a straight contest for survival where a draw might be enough for one and a defeat could still leave a door ajar for the other. Argentina have taken care of the top of the group. Everything still to be decided sits in this match at Arrowhead Stadium and in the simultaneous game in Dallas, and the math that governs it is the spine of this preview.
 
-![Algeria vs Austria World Cup 2026 preview, prediction and Group J qualification scenarios - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Algeria vs Austria World Cup 2026 preview, prediction and Group J qualification scenarios - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 The framing is simple to state and harder to play. Algeria and Austria both carry three points into the final round of group games. One of them will almost certainly take the runner-up spot and a guaranteed place in the knockout stage. The other will be left to the arithmetic of the eight best third-placed teams, a safety net that has caught some sides and dropped others across the group stage. That is the equation this fixture sets, and it is why a match between a CAF side ranked just outside the world's top 25 and a UEFA side back at the World Cup after a long absence carries so much weight on the night.
 

@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Egypt", "Iran", "Group Stage", "Match Preview"]
 excerpt: "Egypt vs Iran World Cup 2026 preview: prediction, likely lineups, head to head, and exactly what each side needs to reach the knockout stage in Seattle."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-26
+lang: en
 ---
-
 Group G arrives at its final ninety minutes with one fixture carrying a contradiction at its core, and that contradiction is the most useful thing to understand about Egypt vs Iran at World Cup 2026. Egypt need only a point in Seattle to reach the knockout stage of a World Cup for the first time in the group-stage era, which means Hossam Hassan can build his plan around control, patience, and the counter-attack Mohamed Salah was made for. Iran, level on points with Belgium but yet to win a game, need three points to be certain of anything, and Amir Ghalenoei has spent two matches building a back five designed above all not to lose. A team set up to avoid defeat now has to chase a victory. That tension, between the shape Iran trust and the result Iran require, is the fault line this match will be decided along.
 
-![Egypt vs Iran World Cup 2026 Group G preview, prediction and lineups - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egypt vs Iran World Cup 2026 Group G preview, prediction and lineups - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 Both Group G deciders kick off at the same time on Friday, so nothing happening at Lumen Field can be read in isolation from the parallel tie in Vancouver. Egypt sit top on four points after a hard-earned draw with Belgium and a convincing win over New Zealand. Iran sit on two points, unbeaten through two draws, having frustrated Belgium into a goalless stalemate and clawed back a two-goal deficit against New Zealand. The math is alive for every side in the group, but it is not symmetrical, and the asymmetry of need is the spine of this preview. Egypt can advance by managing the game. Iran, to be sure of their own fate, must open one up. Everything below, from the predicted lineups to the closing scoreline call, follows from that single difference.
 

@@ -6,13 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["World Cup 2026", "New Zealand", "Belgium", "Group G", "Match Preview"]
 excerpt: "New Zealand vs Belgium is the Group G decider in Vancouver, where Rudi Garcia's stuttering Red Devils must beat the All Whites to be sure of World Cup 2026."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-06-26
+lang: en
 ---
-
 New Zealand against Belgium at BC Place in Vancouver is the kind of fixture the expanded World Cup 2026 group stage was built to produce: a pre-tournament outsider that has refused to lie down, set against a fancied European side that has yet to play anywhere near its level, with knockout qualification riding on ninety minutes. On paper the gap is enormous. Belgium arrived in North America ranked ninth in the world, carrying Kevin De Bruyne, Romelu Lukaku, Jeremy Doku and Leandro Trossard, while New Zealand came as winners of the Oceania qualifying path and one of the lighter squads in the field. Yet two matchdays into Group G the table tells a different story, and the final round in Vancouver matters far more to Rudi Garcia's Red Devils than anyone expected when the draw was made.
+
+![New Zealand vs Belgium Preview: World Cup 2026 - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 This is a preview of the third and final Group G match for both nations, played on Friday, June 26, 2026, and it reads as a complete pre-match briefing: where each side stands, what each needs from the night, who is likely to start, how the tactical contest shapes up, and what the qualification math demands. Belgium hold their fate in their own hands, but only just, and only with a win. New Zealand, bottom of the group on a single point, must win to keep a historic first knockout appearance alive. Two teams that came into the tournament with opposite expectations meet needing the same outcome, and that shared need is what gives a fixture between sides 90 places apart in the world ranking its genuine edge.
 

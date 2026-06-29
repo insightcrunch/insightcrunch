@@ -6,15 +6,15 @@ date: 2026-06-28
 categories: ["Leisure"]
 tags: ["World Cup 2026", "DR Congo", "Uzbekistan", "Group Stage", "Match Analysis"]
 excerpt: "DR Congo vs Uzbekistan World Cup 2026 analysis: Yoane Wissa's brace sealed a 3-1 comeback that sent the Leopards into a first ever World Cup knockout round."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-28
+lang: en
 ---
-
 The DR Congo vs Uzbekistan World Cup 2026 result will be remembered in Kinshasa long after the tournament ends. On a humid night inside Atlanta Stadium, DR Congo fell behind to an Eldor Shomurodov goal, lost a first-half equalizer to a video review, and looked for an hour like a side whose campaign was slipping away. Then the game turned. Yoane Wissa converted a penalty, substitute Fiston Mayele forced his side ahead, and Wissa struck again in stoppage time to complete a 3-1 comeback that carried DR Congo into the knockout phase of a World Cup for the first time in their history. Uzbekistan, debutants who had led and looked the likelier winners at the break, went home with nothing.
 
-![DR Congo vs Uzbekistan World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![DR Congo vs Uzbekistan World Cup 2026 analysis](/assets/images/blog/blog-87.webp)
 
 This analysis tells the story of how that comeback happened, why it happened, and what it set in motion. It is the companion to our [pre-match preview of DR Congo vs Uzbekistan](/2026/06/27/dr-congo-vs-uzbekistan-preview/), which read the fixture as a must-win the Leopards were equipped to take and which, in the end, was vindicated, though not by the comfortable route many expected. The win sealed third place in Group K, a best-third-place berth in the expanded Round of 32, and a meeting with England that nobody in the DR Congo camp would have traded for an easier evening. For Uzbekistan it closed a debut tournament that promised more in fifteen first-half minutes than it ever delivered across two hundred and seventy.
 

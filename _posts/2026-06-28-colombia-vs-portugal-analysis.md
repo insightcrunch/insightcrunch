@@ -6,15 +6,15 @@ date: 2026-06-28
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Colombia", "Portugal", "Group K", "Match Analysis", "Knockout Stage"]
 excerpt: "Colombia vs Portugal result and analysis from World Cup 2026: a goalless Group K draw sent Colombia top and Portugal through in second to face Croatia."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-28
+lang: en
 ---
-
 Colombia vs Portugal at World Cup 2026 ended goalless, and the scoreline is the least interesting thing about it. The 0-0 draw at Hard Rock Stadium in Miami sent Colombia to the top of Group K and left Portugal as runners-up, exactly the order most of the pre-match math pointed toward, yet the ninety minutes that produced it were anything but the cautious dead rubber that two already-qualified sides might have served up. Colombia created the better and more numerous chances, hit the woodwork of their own profligacy again and again, and had a stoppage-time winner ruled out by a toe. Portugal survived through Diogo Costa's gloves and Cristiano Ronaldo's quietest night of the group stage. Both teams advanced. Only one of them controlled where they were going.
 
-![Colombia vs Portugal World Cup 2026 result, player ratings and Group K analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Colombia vs Portugal World Cup 2026 result, player ratings and Group K analysis - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 That distinction is the spine of this piece, and it is the reason a goalless draw between two qualified teams is worth a full post-match dissection. This was a seeding stalemate: a game neither side strictly needed to win, played as if both did, that still rearranged the knockout map. Colombia's point steered them into a softer round-of-32 assignment against Ghana and the friendlier half of the early bracket. Portugal's failure to win steered them toward Croatia and a potential last-16 collision with Spain. The 0-0 did not change who advanced. It changed who they would meet, when, and how hard the road back to the final looks from here. A scoreless match settled the order at the top of Group K and reshaped two brackets in the process, and understanding how requires looking past the empty net to the chances that were spurned, the system that contained Ronaldo, and the VAR review that erased the only goal anyone scored.
 

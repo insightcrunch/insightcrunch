@@ -6,17 +6,17 @@ date: 2026-06-27
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Panama", "England", "Group Stage", "Match Preview"]
 excerpt: "Panama vs England World Cup 2026 preview: prediction, predicted lineups, head-to-head and the Group L final-round scenarios as Tuchel chases a fluent finish."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-06-27
+lang: en
 ---
-
 The Panama vs England World Cup 2026 Group L finale asks a narrow, awkward question of a side that arrived in North America among the favorites: where did the fluency go, and can it be switched back on against opponents who cannot hurt them? England open the final round on top of Group L, four points banked and the best goal difference in the section, needing very little and wanting a great deal more. They beat Croatia in a four-goal opener that looked like the tournament their backers had imagined, then ground out a goalless draw with Ghana that looked like a different team entirely. Panama, eliminated and playing for pride and a first goal of this World Cup, will sit deep, frustrate, and counter. The match that should be routine on paper is, for Thomas Tuchel, a referendum on rhythm.
 
 That tension is the spine of this preview. England do not need the points in any urgent sense, but they need the performance, and the gap between those two things is exactly what makes a dead-rubber-for-one-side fixture worth dissecting. This is the finish England went looking for after the Ghana stalemate, a chance to rediscover the attacking shape that beat Croatia and to settle the seeding and bracket questions that a comfortable win would answer cleanly.
 
-![Panama vs England World Cup 2026 preview, prediction and Group L scenarios - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Panama vs England World Cup 2026 preview, prediction and Group L scenarios - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 ## What Panama vs England means in Group L
 

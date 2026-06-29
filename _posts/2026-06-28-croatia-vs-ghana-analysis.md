@@ -6,15 +6,15 @@ date: 2026-06-28
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Croatia", "Ghana", "Group Stage", "Match Analysis"]
 excerpt: "Croatia vs Ghana analysis from World Cup 2026: how Petar Sucic and a late Nikola Vlasic header sealed second place in Group L for Zlatko Dalic's veterans."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-28
+lang: en
 ---
-
 Croatia beat Ghana 2-1 in Philadelphia, and the single line that explains the World Cup 2026 Group L finale is that quality, not control, settled second place. Ghana built the better cumulative chances and forced the game level after the break, yet Croatia took the two moments that mattered. Petar Sucic struck from distance in the first half, Derrick Luckassen levelled for Ghana just past the hour, and Nikola Vlasic headed the winner with seven minutes left to lift Zlatko Dalic's side above the Black Stars and into the runner-up berth behind England. This Croatia vs Ghana analysis works through how that happened, why the result fell the way it did, and what it set up in the knockout bracket.
 
-![Croatia vs Ghana World Cup 2026 Group L analysis](/assets/images/blog/blog-01.webp)
+![Croatia vs Ghana World Cup 2026 Group L analysis](/assets/images/blog/blog-88.webp)
 
 The verdict that runs through the whole night is simple, and it is the spine of this piece: Croatia's quality settled second while Ghana advanced regardless. Both halves of that sentence are true and both matter. Croatia needed the win and produced the two pieces of decisive execution a knockout-grade side is supposed to produce when the margins are thin. Ghana, already assured of a place in the last 32 before kickoff, finished third in the group and still moved on as one of the eight best third-placed teams. Nobody who reached Philadelphia on the final Saturday of the group stage walked away from the tournament because of this scoreline. What changed was the order, and the order shapes the road each side now travels.
 
