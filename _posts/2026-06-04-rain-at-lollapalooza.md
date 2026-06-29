@@ -6,15 +6,15 @@ date: 2026-06-04
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Survival", "Grant Park", "Festival Planning", "Chicago Travel", "Music Festivals"]
 excerpt: "Rain at Lollapalooza rarely cancels the show. Here is what happens in a storm, what to pack, the poncho rule, and how to keep a wet festival day workable."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-06-04
+lang: en
 ---
-
 The thing nobody tells you about rain at Lollapalooza is that the festival almost never simply stops for it. A morning of steady drizzle does not close the gates. An afternoon shower does not refund your pass. Even a fast-moving thunderstorm that pushes everyone out of Grant Park for an hour tends to end with the same crowd streaming back in to catch the headliners, soaked and grinning, while the stage crew squeegees water off the decks. The festival is built to bend around weather, not to surrender to it, and the people who have a miserable wet day are almost always the ones who arrived planning for sunshine and nothing else.
 
-![How to prepare for rain at Lollapalooza in Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to prepare for rain at Lollapalooza in Grant Park - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 That is the real problem this guide solves. Most pages about the festival treat weather as a footnote, a single line about checking the forecast tucked between the lineup and the food vendors. Yet Chicago in the height of summer is one of the more weather-volatile festival settings in the country, and Grant Park sits right on the open lakefront where storms gather fast and pass through hard. A reader who understands what actually happens during a weather pause, who packs the right gear instead of the banned gear, and who has a simple plan for the moment the sky opens will keep dancing through a day that sends the unprepared trudging toward the exits. This is the page that gets you ready for a wet weekend, covering what the festival does when it storms, whether it ever gets called off, exactly what to bring, the poncho-versus-umbrella rule that trips up so many first-timers, and how to stay both dry and safe when the lightning starts.
 
