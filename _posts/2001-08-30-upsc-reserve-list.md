@@ -9,7 +9,7 @@ excerpt: "Understand the UPSC reserve list: what triggers it, how long it stays 
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2001-08-30
+last_updated: 2026-06-29
 lang: en
 ---
 You opened the final result late at night, scrolled through the recommended candidates with your heart pounding, and your roll number was not there. Then someone in a forum mentioned the UPSC reserve list, and a small, stubborn flame of hope flickered back to life. Maybe you are still in the game. Maybe a few candidates ahead of you will not join, a few vacancies will open up, and the Commission will reach down the order of merit and pull your name into the light. If you have spent the days since the result refreshing every website and decoding every rumour, this guide is written for you, and it will give you the clear, unsentimental picture you have been searching for.

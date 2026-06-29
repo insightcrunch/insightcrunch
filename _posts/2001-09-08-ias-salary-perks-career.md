@@ -9,7 +9,7 @@ excerpt: "IAS salary explained from Junior Scale to Cabinet Secretary, with pay 
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2001-09-08
+last_updated: 2026-06-29
 lang: en
 ---
 The IAS salary question sits behind almost every decision an aspirant makes, even when nobody admits it out loud. You spend two or three of your most productive years preparing, you forgo a starting corporate package, and somewhere in the quiet hours you wonder what the financial reality on the other side actually looks like. The honest answer is layered. An Indian Administrative Service officer does not earn a headline-grabbing private sector figure at entry, yet the total value of the position, once you account for the housing, the vehicle, the staff, the security, the pension architecture, and the sheer trajectory of growth from a sub-divisional posting to the Cabinet Secretariat, tells a story that no single number on a payslip can capture. This guide unpacks every layer of that story, from the first month as a probationer to the final pension credited decades after retirement, so that you can plan your life with real figures rather than rumour.

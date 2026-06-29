@@ -9,7 +9,7 @@ excerpt: "UPSC for differently abled candidates explained: scribe rules, compens
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
 author: "kavita-sharma"
-last_updated: 2001-06-19
+last_updated: 2026-06-29
 lang: en
 ---
 UPSC for differently abled candidates is not a softer version of the same examination; it is the same gruelling contest fought with a different set of tools, a different set of rights, and a different set of obstacles that most preparation advice never bothers to name. If you are a candidate with a benchmark disability, you have probably read dozens of strategy pieces that assume a body and a set of circumstances that are not yours. They assume you can write four hundred words in nine minutes without your hand cramping, that you can sit upright in a plastic chair for three hours without pain, that you can read a dense newspaper column without magnification, that you can simply walk into any examination centre and find it usable. When that assumption breaks, the generic advice quietly stops being useful, and you are left guessing at the rules that actually govern your attempt.

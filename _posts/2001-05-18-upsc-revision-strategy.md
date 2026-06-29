@@ -9,7 +9,7 @@ excerpt: "UPSC revision strategy using spaced repetition, a structured revision 
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 64
 author: "deepika-joshi"
-last_updated: 2001-05-18
+last_updated: 2026-06-29
 lang: en
 ---
 A sound UPSC revision strategy is the single difference between an aspirant who has read the syllabus and an aspirant who actually remembers it on examination day. Most candidates approach this examination as a reading marathon, accumulating fresh material month after month, telling themselves they will somehow consolidate everything later. Later never arrives, and they walk into the Prelims hall having forgotten ninety percent of what they covered eight months earlier. The aspirants who clear this examination are rarely the ones who read the most. They are the ones who revised the most deliberately, who understood that the human brain discards unused information ruthlessly, and who built a system that forced critical content back into working memory at precisely the intervals where it was about to fade. This guide treats revision not as a final-month panic activity but as the central architecture of your entire preparation, the engine that converts reading hours into recall ability when it counts.

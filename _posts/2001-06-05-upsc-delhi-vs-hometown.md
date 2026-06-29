@@ -9,7 +9,7 @@ excerpt: "UPSC Delhi vs home town, decoded: honest pros and cons of each path, w
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-06-05
+last_updated: 2026-06-29
 lang: en
 ---
 The UPSC Delhi vs home town decision is one of the earliest and most consequential choices an aspirant faces, and it is also one of the most emotionally loaded. Long before you open a single textbook or attempt your first mock test, the question of where you will physically sit and prepare quietly shapes your budget, your routine, your relationships, and your mental health for the next two to four years. Some aspirants treat relocating to Delhi as an automatic rite of passage, packing their bags the moment they decide to attempt the examination. Others stay rooted in their home town out of financial necessity or family obligation and spend years wondering whether they handicapped themselves by not joining the crowd in Old Rajinder Nagar. Both groups frequently make the choice for the wrong reasons, driven by anecdote, social pressure, or fear rather than an honest reckoning with their own circumstances.

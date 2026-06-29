@@ -9,7 +9,7 @@ excerpt: "Prepare for UPSC from tier 2 and tier 3 cities with a complete guide t
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "kavita-sharma"
-last_updated: 2001-06-28
+last_updated: 2026-06-29
 lang: en
 ---
 Preparing for UPSC from tier 2 and tier 3 cities feels, on the surface, like entering a race where the better-resourced runners started two kilometres ahead. You see Instagram reels of aspirants walking out of marble-fronted coaching institutes in Karol Bagh and Rajinder Nagar, you read interviews where toppers casually mention the test series they attended every Sunday a metro ride away, and you wonder whether your hometown of two hundred thousand people, with one decaying district library and no specialised UPSC bookstore, has quietly disqualified you before you wrote your first answer. This article exists to dismantle that fear completely, not with empty motivation, but with an operational, resource-by-resource plan that shows exactly how a candidate from a small city can build a preparation ecosystem equal to anything available in the national capital.

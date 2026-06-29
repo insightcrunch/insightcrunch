@@ -9,7 +9,7 @@ excerpt: "IPS, IFS, IRS career path explained: salary structures, promotion time
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2001-09-03
+last_updated: 2026-06-29
 lang: en
 ---
 The IPS, IFS, IRS career path is the part of the civil services story that most aspirants ignore until the moment they are filling in their service preferences, and by then it is far too late to think clearly. Almost every conversation about the Union Public Service Commission examination collapses into a single fantasy about becoming a District Magistrate, and the three letters that dominate that fantasy are I, A and S. Yet the Indian Administrative Service accounts for only a fraction of the Group A posts that the examination fills each year. The Indian Police Service, the Indian Foreign Service and the various branches of the Indian Revenue Service together shape the working lives of a far larger number of selected candidates, and the trajectories they offer are not consolation prizes. They are distinct, powerful and in several respects more specialised vocations than the generalist administrative track most people imagine when they begin their preparation.

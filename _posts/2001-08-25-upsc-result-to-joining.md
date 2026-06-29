@@ -9,7 +9,7 @@ excerpt: "From the UPSC final result to your first day, here is the joining proc
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2001-08-25
+last_updated: 2026-06-29
 lang: en
 ---
 Your name is on the final list. After years of early mornings, abandoned weekends, and the quiet ache of explaining to relatives that you were still preparing, the UPSC joining process is finally the only thing standing between you and the service you fought for. And yet, almost nobody tells you what that process actually involves. The coaching ecosystem invests enormous energy in getting you to clear the examination and then falls silent the moment the result is declared, as though everything after selection takes care of itself. It does not. The window between seeing your roll number on the merit list and walking into your first day of duty is a maze of attestation forms, a medical board that can rattle even confident candidates, a police verification you barely notice happening, and a wait that stretches far longer than most aspirants expect.

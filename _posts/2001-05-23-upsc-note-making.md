@@ -9,7 +9,7 @@ excerpt: "UPSC note-making strategy guide covering the revision-ready framework,
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 67
 author: "anita-das"
-last_updated: 2001-05-23
+last_updated: 2026-06-29
 lang: en
 ---
 UPSC note-making sits at the quiet centre of every successful preparation story, yet it remains the single skill most aspirants get wrong for the longest time. The candidate who copies textbook paragraphs into a notebook believes they are making notes when they are merely transcribing, and the difference between transcription and genuine note-making is the difference between a year wasted and a year that compounds. Good notes are not a record of what you read; they are a compressed, retrievable, revision-ready version of what you understood, organised so that your future self can reload an entire topic into working memory in minutes rather than hours. The aspirant who builds such a system spends the final months before the examination revising with calm efficiency, while the aspirant who never learned to compress spends those same months re-reading bulky sources in rising panic. This guide is built around one governing idea that should reshape how you handle every page you study, namely that notes you never revise are useless, and therefore every decision about format, length, and medium should be made in service of revision rather than in service of feeling productive.

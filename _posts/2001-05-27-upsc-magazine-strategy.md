@@ -9,7 +9,7 @@ excerpt: "UPSC magazine strategy for Yojana, Kurukshetra and EPW with which issu
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2001-05-27
+last_updated: 2026-06-29
 lang: en
 ---
 A coherent UPSC magazine strategy is the difference between aspirants who drown in a stack of monthly publications and aspirants who convert those same pages into ranks. Most candidates approach Yojana, Kurukshetra and the Economic and Political Weekly the way they approach an unread newspaper pile, with guilt rather than method, and the result is predictable. They hoard issues they never open, photocopy articles they never revise, and quote thinkers they only half understood in the examination hall. This guide builds the opposite habit. It treats each periodical as a specific tool with a specific job, shows you which issues genuinely matter, demonstrates how to pull examination relevant content out of dense prose, and resolves the digital versus physical subscription question without the usual hand waving. By the end you will read fewer pages and retain far more of what those pages contain.

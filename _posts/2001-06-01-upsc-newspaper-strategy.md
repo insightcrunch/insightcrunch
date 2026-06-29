@@ -9,7 +9,7 @@ excerpt: "UPSC newspaper strategy comparing The Hindu and the Indian Express, wi
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-06-01
+last_updated: 2026-06-29
 lang: en
 ---
 A sound UPSC newspaper strategy is the single habit that separates aspirants who treat current affairs as a daily chore from those who convert the morning paper into a compounding analytical asset over an entire preparation cycle. The aspirant who opens The Hindu or the Indian Express and reads it the way a commuter reads it, skimming headlines, lingering on sport, drifting through the city pages, absorbs almost nothing the examination rewards and burns ninety precious minutes doing it. The aspirant who reads the same edition with a syllabus-trained eye, extracting policy developments, government scheme details, editorial reasoning, and the conceptual hooks that link a news item to a static topic, builds the issue awareness, the balanced perspective, and the answer-ready material that Mains answers and the interview both demand. This guide is built to convert you from the first kind of reader into the second.
