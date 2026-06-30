@@ -6,15 +6,15 @@ date: 2026-06-10
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Music History", "Music Festivals", "Grant Park", "Festival Planning", "Chicago Travel"]
 excerpt: "Lollapalooza records and biggest crowds, explained in honest ranged terms: how the festival reaches hundreds of thousands across a single long weekend."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-06-10
+lang: en
 ---
-
 The search that brings most people here is short and blunt. They want the Lollapalooza records and the biggest crowds, the single number that says how enormous this thing has become, the figure they can drop into an argument or a school report. They open page after page and get a shrug: a vague "tens of thousands," a stray statistic with no source, a claim that contradicts the claim three results above it. The honest answer is both simpler and more useful than a disputed headline figure, and it is the answer this page is built to give.
 
-![Lollapalooza records and biggest crowds across a packed Grant Park festival skyline](/assets/images/blog/blog-01.webp)
+![Lollapalooza records and biggest crowds across a packed Grant Park festival skyline](/assets/images/blog/blog-05.webp)
 
 Here is the durable truth, stated plainly so you can carry it anywhere. The festival draws hundreds of thousands of people across its four days in Grant Park, which places it among the largest destination music events anywhere, and it grew into that scale step by step rather than overnight. That ranged figure, hundreds of thousands across four days, is the record that actually holds up, and the rest of this guide explains why the magnitude is the real story and why chasing a precise single-day attendance trophy will mostly hand you bad data.
 

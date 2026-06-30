@@ -6,17 +6,17 @@ date: 2026-06-08
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Lollapalooza History", "Music History", "Grant Park", "Music Festivals", "Festival Planning"]
 excerpt: "Lollapalooza grew from two days to four across its Grant Park era. Here is the day-count timeline, when each day arrived, and why the festival expanded."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-08
+lang: en
 ---
-
 Ask a longtime fan how long Lollapalooza runs and the answer comes back fast: four days, Thursday through Sunday, every summer in Grant Park. Ask that same fan how long it has always run, and the certainty wobbles. Plenty of people assume the long weekend is the natural shape of Lollapalooza, the form it arrived in and never changed. The real story is more interesting, and it is one of the few concrete pieces of Lollapalooza history that almost no page bothers to trace. The festival did not begin its Chicago life at four days. It grew there, one added installment at a time, across a stretch of years that maps the rise of the whole enterprise.
 
 This is the page that follows the length from start to finish. When the reborn festival opened in Grant Park, it ran for two days. It later stretched to three. It reached its current full length around the quarter-century mark. Each of those steps had a reason, and the reasons cluster around a single force: demand kept outrunning the space the event had given itself. The length, in other words, is not trivia. It is a measurement of how big Lollapalooza became, recorded in the simplest unit a festival has, the number of days it needs to fit everything in.
 
-![Lollapalooza length growth from two days to four in Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lollapalooza length growth from two days to four in Grant Park - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 To keep the story clean, this page sticks to the growth and the count alone. The decision to plant the weekend in Grant Park in the first place belongs to its own chapter, and the broad sweep of the festival's history from its founding through its global reach belongs to the master timeline. Here the lens stays narrow on purpose. How long was it originally, when did each new day appear, and why did the program keep growing? Those four questions have clean answers, and answering them well is the whole job of this page. By the end you will be able to recite the expansion the way you can recite the full weekend, because you will know exactly how the program arrived at it.
 

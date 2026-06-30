@@ -6,17 +6,17 @@ date: 2026-06-06
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Perry Farrell", "Music History", "Music Festivals", "Festival Planning"]
 excerpt: "How Perry Farrell created Lollapalooza, who he is, why he started it, and the genre-mixing, art, and activism vision that still defines the festival today."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-06-06
+lang: en
 ---
-
 Every fan who falls for Lollapalooza eventually asks the same question, and most pages answer it in a single sentence before rushing back to lineups and logistics. The question is simple: who made this, and what were they thinking? The honest answer is a person, not a brand, and that person is Perry Farrell. Understanding how Perry Farrell created Lollapalooza is the closest thing the festival has to reading its source code, because the event you walk into today still runs on the operating logic he wrote at the start. The genre-mixing bills, the art tucked between stages, the activist booths, the sense that a festival could be a cultural statement rather than a concert with extra steps: all of it traces back to one restless musician with an outsized idea about what a tour could be.
 
 This is the founder's page. It is about the man, the moment, the reasons, and the vision, told in full rather than waved at. The first festival's exact bill, the band's farewell shows, the long road era, and the way the sound shifted across decades each have their own home in this series, and this article points you to them rather than crowding them out. What lives here is the origin story proper, the part that explains why Lollapalooza exists at all and why it still feels different from a festival assembled by committee.
 
-![How Perry Farrell created Lollapalooza and shaped its founding vision - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Perry Farrell created Lollapalooza and shaped its founding vision - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 To understand the festival, you have to understand the founder, and to understand the founder, you have to start before the festival was even a plan. Perry Farrell did not set out to build an institution. He set out to throw a goodbye party for a band, and the goodbye party was so much bigger than a band that it outlived everyone's expectations, including his own.
 

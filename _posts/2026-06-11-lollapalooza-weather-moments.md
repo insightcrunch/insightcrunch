@@ -6,15 +6,15 @@ date: 2026-06-11
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Lollapalooza History", "Lollapalooza Weather", "Lollapalooza Grant Park", "Lollapalooza Storms"]
 excerpt: "Lollapalooza weather moments are festival lore: the storms, the green skies, the evacuations, and the pause-and-resume history of resilient Grant Park."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-11
+lang: en
 ---
-
 Ask a longtime fan about the most dramatic Lollapalooza weather moments and you will not hear about a sunny afternoon. You will hear about the sky going green over the lake, about a voice on the speakers asking everyone to leave the park in an orderly line, about thousands of people streaming up Michigan Avenue under a wall of rain, and then, a few hours later, about music starting again as if the storm had only been an intermission. The weather story is the part of the festival's history that fans tell each other long after the lineup has faded from memory, and it is the part that most pages skip entirely. Search for weather and the festival, and you get a wall of present-tense advice about ponchos and sunscreen. That advice matters, and it has its own home in this series, but it is not the story. The story is what happened when the worst weather actually arrived, how the festival answered it, and why those moments became part of the character of the place rather than a stain on it.
 
-![Memorable Lollapalooza weather moments and storm evacuations at Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Memorable Lollapalooza weather moments and storm evacuations at Grant Park - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 This is the one page in the series devoted to that lore. It owns the historical weather moments: the documented severe-weather events, the evacuations that cleared Grant Park and then refilled it, and the pattern of response that has held across the festival's years on the Chicago lakefront. It does not re-explain how to pack for rain or how to manage the heat on your own festival day, because those practical questions belong to their own owners, and you will find them linked along the way. What you will find here instead is the dramatic weather history told as a real story, with honest anchors, a clear timeline of the kinds of moments that have defined it, and a named rule that explains why the festival's track record reads as recovery rather than ruin.
 

@@ -6,13 +6,15 @@ date: 2026-06-08
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Lollapalooza History", "Jane's Addiction", "Music History", "Music Festivals", "Perry Farrell"]
 excerpt: "The first Lollapalooza began as a Jane's Addiction farewell tour that grew into a franchise. Here is what the inaugural festival was and who played on it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-06-08
+lang: en
 ---
-
 Before there was a four-day gathering on the Chicago lakefront, before the global network of editions, before the word itself became shorthand for a certain kind of summer, there was a single stage in the Arizona desert and a band that thought it was saying goodbye. The story of the first Lollapalooza is the story of a farewell that refused to stay a farewell. It is the origin event of everything the name now carries, and it began not as a festival empire but as the parting gesture of Jane's Addiction, the alternative-rock band whose singer dreamed up the whole traveling spectacle as a way to end his group on its own terms.
+
+![Jane's Addiction and the First Lolla - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 Most pages that mention this give it a sentence. A line about 1991, a nod to the band, and then a jump straight to the modern festival. That shortcut loses the part that matters most, because the inaugural edition was not a warm-up for the real thing. It was the blueprint. The genre-mixing bill, the day-long sprawl of styles, the sense that a concert could be a cultural statement rather than a single act with openers: all of it was set in that first summer. This is the one page that treats the first Lollapalooza as the template-setting moment it was, tracing what the inaugural festival was, whether it was a Jane's Addiction farewell tour, who played, and how the band launched a goodbye that outlived its own purpose.
 
