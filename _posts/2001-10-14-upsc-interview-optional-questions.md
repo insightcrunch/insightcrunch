@@ -9,7 +9,7 @@ excerpt: "UPSC interview optional subject questions decoded: how boards test pas
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
 author: "kavita-sharma"
-last_updated: 2001-10-14
+last_updated: 2026-07-01
 lang: en
 ---
 You have spent eighteen months living inside your optional subject. You can recite definitions in your sleep, draw the diagrams from memory, and structure a full length answer in your head while standing in a queue. Then you walk into the interview room, a board member glances at your Detailed Application Form, sees your chosen subject, and asks a question so simple, so basic, so far from the syllabus that your mind goes completely blank. This is the strange paradox of UPSC interview optional subject questions: the board rarely asks what you studied hardest, and almost never rewards the candidate who recites the most. It tests something the written examination could never capture, namely whether your knowledge is alive, whether it connects to the world, and whether you genuinely care about the discipline you spent two years defending across two papers worth five hundred marks.

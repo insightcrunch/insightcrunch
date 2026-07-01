@@ -9,7 +9,7 @@ excerpt: "UPSC interview board styles decoded: friendly, adversarial and philoso
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 63
 author: "deepika-joshi"
-last_updated: 2001-10-05
+last_updated: 2026-07-01
 lang: en
 ---
 Two aspirants with nearly identical written marks walk into the same Dholpur House complex on the same morning, are assigned to two different UPSC interview boards, and walk out with a thirty mark gap between them. Neither candidate was smarter than the other. Neither prepared with materially different rigour. What separated them was something almost nobody trains for: one read the temperament of the five people across the table within the first two minutes and adjusted, and the other treated a probing, sceptical panel as a personal attack and spent the next half hour fighting it. The UPSC interview board is not a fixed object you can study like a syllabus. It is a living, variable, human encounter, and the single biggest reason equally capable candidates score so differently is that the personality of the board, and especially of its chairperson, changes the entire texture of the conversation.

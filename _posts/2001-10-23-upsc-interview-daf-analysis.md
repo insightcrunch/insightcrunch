@@ -9,7 +9,7 @@ excerpt: "Master UPSC interview DAF analysis to predict hometown, education and 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 62
 author: "kavita-sharma"
-last_updated: 2001-10-23
+last_updated: 2026-07-01
 lang: en
 ---
 UPSC interview DAF analysis is the single most underrated preparation activity in the entire personality test, and the candidates who treat their Detailed Application Form as a casual administrative document rather than the literal script for half their interview are the ones who walk out of Dholpur House wondering why the board kept asking things they never anticipated. The board members sitting across from you have not read a dossier on your life. They have read your DAF. Every question about your hometown, your graduation subject, your service preference, your hobbies, the meaning of your name, and the choices you have made all flow from the two pages of information you yourself submitted. This is the quiet truth that separates the prepared candidate from the surprised one: you handed the board its question paper, and you can reconstruct most of it in advance if you know how to read your own form the way a board member reads it.

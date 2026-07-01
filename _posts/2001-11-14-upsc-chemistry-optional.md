@@ -9,7 +9,7 @@ excerpt: "UPSC Chemistry optional complete guide covering Paper 1 and 2 syllabus
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2001-11-14
+last_updated: 2026-07-01
 lang: en
 ---
 If you graduated with a degree in chemical science and you keep hearing that only Geography, History, PSIR, and Sociology are "worth taking" as optionals, the UPSC Chemistry optional probably feels like a path nobody around you is willing to endorse. You loved the subject through your BSc or MSc, you can still recall reaction mechanisms and thermodynamic derivations with comfort, yet every coaching counsellor nudges you toward a humanities optional because that is where the crowd and the coaching revenue sit. The result is a quiet anxiety: am I throwing away an attempt by choosing a science optional that few aspirants take and even fewer talk about openly?

@@ -9,7 +9,7 @@ excerpt: "Understand UPSC service allocation: how rank, preference and vacancy d
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2001-09-12
+last_updated: 2026-07-01
 lang: en
 ---
 You have spent years preparing, cleared three brutal stages, watched your roll number appear on the final list, and felt that flood of disbelief and relief. Then a quieter question arrives, the one almost nobody prepared you for: which service will you actually join, and which corner of the country will become your professional home for the next three decades? UPSC service allocation is the machinery that answers that question, and for most successful candidates it remains a black box until the moment the allocation list is published. You hear stories of a friend who ranked higher getting a service they did not want, or someone from your own state being sent two thousand kilometres away, and the logic seems arbitrary. It is not arbitrary. It follows a precise, rule bound, almost mechanical procedure, and once you understand that procedure you can fill your preference form with strategic clarity instead of anxious guesswork.

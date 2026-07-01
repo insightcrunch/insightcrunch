@@ -9,7 +9,7 @@ excerpt: "UPSC interview marking explained: how the board scores the 275-mark pe
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-09-21
+last_updated: 2026-07-01
 lang: en
 ---
 You have cleared Prelims against odds that humble most graduate examinations on earth. You have survived nine papers of Mains, written until your hand cramped, and emerged with a written total that put you on the list of roughly two thousand candidates called for the final stage. And now, after years of preparation, your entire candidature comes down to a single conversation lasting under half an hour, scored out of 275 marks by a panel of strangers you will meet exactly once. If the opacity of that final number keeps you awake, you are not alone, and understanding UPSC interview marking is the difference between walking into that room as a passive subject of evaluation and walking in as someone who knows exactly what the board is measuring and why.

@@ -9,7 +9,7 @@ excerpt: "UPSC mock interview strategy: how many mocks to take, where to find qu
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 62
 author: "deepika-joshi"
-last_updated: 2001-09-26
+last_updated: 2026-07-01
 lang: en
 ---
 The UPSC mock interview is the single rehearsal that separates candidates who walk into the real personality test composed and articulate from those who freeze, ramble, or contradict themselves under pressure. You have cleared Prelims and Mains, which means your knowledge is no longer in question; what the board examines now is something you have never been formally tested on across your entire academic life, namely how you think aloud, how you hold a position under challenge, and how you carry yourself when a stranger of considerable seniority disagrees with you. Most aspirants treat the practice session as a casual checkbox, attend two or three rushed panels, collect contradictory feedback, and arrive at Dholpur House more confused than confident. This guide rebuilds that approach from the ground up, treating the rehearsal process as a structured training programme rather than a last-minute formality.

@@ -9,7 +9,7 @@ excerpt: "UPSC interview current affairs guide: how opinion questions differ fro
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 71
 author: "anita-das"
-last_updated: 2001-10-18
+last_updated: 2026-07-01
 lang: en
 ---
 The single biggest reason capable candidates stumble in the personality test is that they walk into the room treating contemporary events the way they treated them during Mains, as a body of facts to be recalled and reproduced on demand. The board does not want a walking newspaper. It wants a thinking citizen who can take a contested public issue, hold its competing claims fairly in mind, and then commit to a reasoned position without hiding behind neutrality or collapsing into partisanship. That capacity, the ability to reason aloud about live public questions with balance and conviction, is what the contemporary affairs segment of the interview actually tests, and it is a fundamentally different skill from the one that carried you through the written stage. A candidate who scored 130 in the GS papers can still fumble a question about a recent policy debate, not because they lack information but because they have never practised converting information into a defensible viewpoint under the gaze of five experienced people. This guide exists to close that gap completely, so that you enter the room able to treat any live issue the board raises as an opportunity to demonstrate judgment rather than a trap waiting to expose a thin opinion.

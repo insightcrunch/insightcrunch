@@ -9,7 +9,7 @@ excerpt: "UPSC interview pressure questions guide covering Kashmir reservation r
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 61
 author: "deepika-joshi"
-last_updated: 2001-09-30
+last_updated: 2026-07-01
 lang: en
 ---
 UPSC interview pressure questions are the moments that separate composed, mature candidates from rattled ones, and they are deliberately engineered to do exactly that. Somewhere in the twenty to forty minutes you spend in front of the personality test board, a member will lean forward and ask you something designed to unsettle you. It might be about Kashmir, about whether reservation has outlived its purpose, about your religion, about a political decision that divides the country, or about a contradiction buried in your own application. The temperature in the room shifts. The friendly tone you had been enjoying evaporates. You realise, with a jolt, that the easy part is over. How you respond in the next ninety seconds can move your final ranking by thirty, forty, even fifty positions, because the board is no longer testing what you know. It is testing who you are under stress. This guide is built entirely around that single high-stakes skill: responding to deliberately provocative, controversial, and pressure-laden questions with the balance, honesty, and composure that earns marks rather than loses them.

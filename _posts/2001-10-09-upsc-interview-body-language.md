@@ -9,7 +9,7 @@ excerpt: "UPSC interview body language guide covering posture, eye contact, hand
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
 author: "kavita-sharma"
-last_updated: 2001-10-09
+last_updated: 2026-07-01
 lang: en
 ---
 UPSC interview body language is the silent argument you make before you have answered a single question, and the board begins reading it the moment the door opens. By the time you have walked the few steps from the entrance to the chair, sat down, and exchanged the first courtesies, the five people across the table have already formed a working impression of your composure, your bearing, and your relationship with pressure. That impression is not final, and it can be revised through the substance of your answers, but it sets the emotional temperature of the entire conversation. A candidate who enters with a settled, unhurried, quietly confident presence is heard differently from one who enters apologetic, rigid, or visibly rattled, even when both give identical answers. This guide treats the nonverbal layer of the personality test with the same operational seriousness that strong aspirants bring to their optional subject, because in a contest decided by a handful of marks, the way you occupy the room is not a cosmetic afterthought. It is part of the evaluation itself.

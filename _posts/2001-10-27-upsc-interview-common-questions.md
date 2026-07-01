@@ -9,7 +9,7 @@ excerpt: "The most common UPSC interview questions decoded, with DAF, hobby, opi
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2001-10-27
+last_updated: 2026-07-01
 lang: en
 ---
 You have cleared Prelims. You have survived the marathon of Mains. Now a letter arrives summoning you to a panelled room at Dholpur House in New Delhi, where five or six accomplished strangers will spend roughly half an hour deciding whether you carry the temperament to govern a district. Almost every aspirant who reaches this stage makes the same quiet mistake. They treat the UPSC interview questions as a quiz to be crammed, hunt for "model answers" on Telegram, memorise them word for word, and then freeze the moment a board member tilts the question two degrees away from the script they rehearsed. The personality test does not reward recitation. It rewards a calm, thinking human being who can hold an opinion, defend it without arrogance, change it when shown a better argument, and stay courteous while everything inside is racing.

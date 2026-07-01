@@ -9,7 +9,7 @@ excerpt: "A complete UPSC Statistics optional guide: full syllabus decode, best 
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2001-11-05
+last_updated: 2026-07-01
 lang: en
 ---
 If you are reading this, you are probably one of a small, self-selecting group of aspirants who looked at the UPSC optional list, saw Statistics sitting quietly among the science subjects, and wondered whether it could be the quiet edge that nobody talks about. Maybe you have a B.Sc or M.Sc in Statistics, an engineering degree with a strong probability and inference background, or an economics or actuarial foundation, and you keep hearing two contradictory things: that mathematical optionals "guarantee" high marks because answers are objective, and that they are "too risky" because one mistake collapses an entire ten-mark answer. Both claims are half-truths, and the cost of believing the wrong half is two years of your life.

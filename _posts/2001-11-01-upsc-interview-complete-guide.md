@@ -9,7 +9,7 @@ excerpt: "UPSC interview guide covering DAF preparation, board dynamics, body la
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2001-11-01
+last_updated: 2026-07-01
 lang: en
 ---
 You have crossed the two hardest filters in the toughest selection process India runs. Prelims eliminated more than ninety eight out of every hundred who sat the paper. Mains thinned the survivors again, leaving roughly two candidates competing for every final seat. And now, after years of solitary study, the final 275 marks of the UPSC interview will decide not only whether your name appears on the list but where it appears, which means whether you become an IAS officer in your home cadre, an IPS officer, an IRS officer, or someone who tries again next cycle. The cruelty of this stage is that it rewards a skill set almost nobody spent the previous years building. You trained to write. Now you must speak. You trained to be comprehensive. Now you must be concise. You trained in silence. Now you sit before five accomplished strangers who will form a judgment about your character in under thirty minutes.

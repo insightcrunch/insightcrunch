@@ -9,7 +9,7 @@ excerpt: "IAS training at LBSNAA explained: Foundation Course, Phase 1 and Phase
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-09-17
+last_updated: 2026-07-01
 lang: en
 ---
 IAS training at LBSNAA is the part of the civil services journey that almost no aspirant prepares for, because the entire preparation machine is built to deliver you to a rank in the final merit list and then falls silent about what happens next. Everyone studies for the examination. Almost nobody studies what the examination delivers them into. The truth is that clearing the Union Public Service Commission examination is not the end of anything. It is an admission ticket to a two-year apprenticeship at the Lal Bahadur Shastri National Academy of Administration in Mussoorie, a residential training institution perched in the lower Himalayas that has shaped almost every senior administrator India has produced since the 1950s. The rank you earn after the [final merit list](/2003/04/29/upsc-result-merit-list/) is published opens the gate. LBSNAA is what lies on the other side of that gate, and it is nothing like what you imagined while you were memorising polity and revising answer writing.
