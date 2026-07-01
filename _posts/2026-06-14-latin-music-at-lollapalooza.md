@@ -6,15 +6,15 @@ date: 2026-06-14
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Lineup", "Latin Music", "Music Festivals", "Festival Planning", "Music History"]
 excerpt: "Latin music at Lollapalooza grew from a niche into a real presence, and this guide maps the reggaeton and Latin acts a fan should plan to catch each day."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-14
+lang: en
 ---
-
 If you came to this page because you scanned a Lollapalooza poster looking for the names that sound like home, the artists who sing in Spanish, the reggaeton beat you can feel in your chest before you can name the track, then you are asking the right question of the right festival at the right moment. Latin music at Lollapalooza is no longer a footnote or a single afternoon slot tucked between two rock bands. It has become a current that runs through the whole four-day bill, and learning to read that current is the difference between catching the sets that will define your weekend and finding out about them from someone else's phone the next morning. This guide is built to make the Latin half of the lineup legible, so you walk into Grant Park already knowing where your music lives.
 
-![Latin music at Lollapalooza, from reggaeton acts to Spanish-language pop on the main stages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Latin music at Lollapalooza, from reggaeton acts to Spanish-language pop on the main stages - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 The job here is not to admire the lineup and tell you it is diverse. Anyone can say that. The job is to hand you a working method: how Latin music entered this festival and grew into a genuine presence, what kinds of acts get booked under that broad banner, which crowds they pull and when, and how to turn a wall of names into a personal must-see list weighted toward the sound you love. The festival has spent the last stretch of its life broadening past its rock roots into a genuinely all-genre event, and the wave is one of the clearest signals of that shift. A fan who understands the shift can plan around it. A fan who does not will keep treating Latin music as a side dish at a festival that has quietly made it part of the main course.
 

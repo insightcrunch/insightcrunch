@@ -6,15 +6,15 @@ date: 2026-06-13
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Lineup", "Rock Music", "Music Festivals", "Festival Planning"]
 excerpt: "Rock at Lollapalooza is no longer the headline sound, yet it stays woven through the whole lineup as founding DNA, and here is where the genre lives now."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-06-13
+lang: en
 ---
-
 If you came to Lollapalooza for guitars, the question is not whether rock at Lollapalooza exists, because it does. The question is where it sits, how much of the bill it claims, and how to find the sets that will reward anyone who still wants the loud, the live, and the four-piece on a big stage. That is a navigation problem, not a nostalgia problem, and it is the one this page solves. The poster no longer leads with the genre that gave the event its name and its early identity, so someone who plans the old way, by scanning the top line for the biggest guitar act and building outward, will walk away thinking the music they love has been pushed off the grounds. It has not. It has moved. Learn where it moved and the weekend opens back up.
 
-![Crowd watching a rock band on a large outdoor festival stage at Lollapalooza in Chicago](/assets/images/blog/blog-01.webp)
+![Crowd watching a rock band on a large outdoor festival stage at Lollapalooza in Chicago](/assets/images/blog/blog-17.webp)
 
 The honest framing is the one most pages skip. The genre is no longer the dominant force on this lineup, and pretending otherwise sets a fan up for a letdown. What is also true, and what the doom threads online leave out, is that the founding sound never left. It got folded into a much wider bill, where it shares space with hip-hop, pop, dance music, and everything in between, and where the guitar acts now have to be hunted rather than handed to you. This guide gives you the hunt. It maps the current place of rock and alternative across the stages and the days, names the kinds of acts the booking team still reaches for, and shows you how to turn a crowded, genre-spanning poster into a personal must-see list built around the sound you came for.
 

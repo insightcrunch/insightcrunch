@@ -6,12 +6,12 @@ date: 2026-06-15
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Lineup", "Music Festivals", "Festival Planning", "Music History"]
 excerpt: "Which genre owns Lollapalooza now? An honest verdict: hip-hop and pop share the top of the bill, rock has receded, and electronic holds its dedicated hub."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-06-15
+lang: en
 ---
-
 ## The argument that never gets settled
 
 Spend ten minutes in any festival forum and you will find the same fight breaking out. Someone posts the poster, someone else says the whole thing has turned into a rap show, a third person insists pop ruined it, and a fourth swears it is still a rock festival at heart. The question of which genre owns Lollapalooza now is one of the most repeated arguments in live music, and most pages that try to answer it just plant a flag for one side and move on. That is not an answer. That is a take.
@@ -22,7 +22,7 @@ That framing matters because the people arguing usually want a clean one-word re
 
 This article owns the genre-dominance verdict for the series, which means it answers which genre leads, defends that answer, and names the deciding factor. It does not re-teach the individual genres. If you want the full story of hip-hop's run at the festival, the deep history of how pop climbed the bill, the complete genre spread across every stage, or the curation logic that holds the whole mix in balance, those each have their own home and this page points you to them rather than repeating them. What you get here is the ranking, the case for each contender, and a verdict you can actually use the next time the argument starts.
 
-![A packed Grant Park crowd facing a main stage at dusk during Lollapalooza, the skyline behind the lights](/assets/images/blog/blog-01.webp)
+![A packed Grant Park crowd facing a main stage at dusk during Lollapalooza, the skyline behind the lights](/assets/images/blog/blog-71.webp)
 
 ## The two genres sitting at the top
 

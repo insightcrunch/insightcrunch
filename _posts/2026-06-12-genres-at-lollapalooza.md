@@ -6,13 +6,13 @@ date: 2026-06-12
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Lollapalooza Genres", "Lollapalooza Music", "Lollapalooza Lineup", "Lollapalooza Guide"]
 excerpt: "Lollapalooza genres span rock, hip-hop, EDM, pop, indie, and global sounds. Here is the full genre map and a clear way to navigate the all-genre lineup."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-06-12
+lang: en
 ---
-
-![How to read the genres at Lollapalooza and navigate the all-genre lineup - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to read the genres at Lollapalooza and navigate the all-genre lineup - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 The genres at Lollapalooza are the point of the place. Ask what kind of music plays here and the honest answer is almost all of it: rock and alternative, hip-hop and rap, electronic and dance, pop, indie, K-pop, Latin, and a widening band of global sounds that arrive every cycle. Most guides hand you a label and move on. A label is the wrong tool. What a planner needs is a map, a way to see the whole spread at once, understand why the range is built the way it is, and route to the corner of the lineup that matters to a specific set of ears. That is the job of this page.
 
