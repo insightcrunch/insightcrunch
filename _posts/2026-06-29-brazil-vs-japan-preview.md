@@ -6,17 +6,17 @@ date: 2026-06-29
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Japan", "Round of 32", "Match Preview"]
 excerpt: "Brazil vs Japan World Cup 2026 Round of 32 preview: prediction, lineups, team news, and head-to-head as the five-time champions meet an unbeaten Japan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-29
+lang: en
 ---
-
 Brazil vs Japan at World Cup 2026 poses one question above all others: can the most decorated nation in the sport's history survive the one opponent that has just learned how to beat them? This Round of 32 tie in Houston is not a group game with a safety net. It is single elimination, win or go home, and it pits the five-time champions against a Japan side that arrives unbeaten, hungry, and carrying the memory of a night in Tokyo eight months ago when they came from two goals down to defeat this same Selecao for the first time in their history. The gap in pedigree is enormous. The gap in current belief is not.
 
 That is the tension that makes this knockout fixture far more interesting than the seeding suggests. Brazil are the group winners, the higher seed, and the bookmakers' clear favorites. Japan are the Group F runners-up, shorn of three of their most creative attackers through injury, and still convinced they can end their long wait for a first quarter-final. One of these two football cultures leaves the World Cup on Monday night. The other takes a step toward the last sixteen and a bracket that opens up invitingly beyond it.
 
-![Brazil vs Japan World Cup 2026 Round of 32 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Brazil vs Japan World Cup 2026 Round of 32 preview and prediction - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 ## What is at stake in Brazil vs Japan at World Cup 2026?
 

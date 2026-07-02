@@ -6,17 +6,17 @@ date: 2026-07-02
 categories: ["Leisure"]
 tags: ["World Cup 2026", "USA", "Bosnia and Herzegovina", "Round of 32", "Match Analysis", "USMNT"]
 excerpt: "USA vs Bosnia World Cup 2026 analysis: how the ten-man USMNT beat Bosnia 2-0 with Balogun and Tillman goals to reach the Round of 16 and a Belgium tie."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-07-02
+lang: en
 ---
-
 The story of USA vs Bosnia at World Cup 2026 is that the co-hosts won the match twice: once with eleven players and a clear tactical plan, and then again with ten and nothing but nerve. The United States beat Bosnia and Herzegovina 2-0 in the Round of 32 at San Francisco Bay Area Stadium in Santa Clara on July 1, 2026, and on the scoreboard it reads like the comfortable evening everyone forecast. Watch it back and the single thing that explains the night is not the finishing but the response to adversity: Folarin Balogun opened the scoring on the stroke of half-time, was then sent off just past the hour, and a side reduced to ten men held its shape for half an hour before Malik Tillman curled a free kick over the wall to settle it. A win that looked routine at the interval turned into a test of character, and the Americans passed it.
 
 That is why this result matters beyond the bracket line it fills. For a program that had not won a World Cup knockout tie since 2002, doing it a man light against organized European opposition is a different kind of proof than a first-half stroll would have been. It also came at a price that will shadow the next round, because the man who scored the opener will sit out the last sixteen. The following analysis walks through the shape of the night, the sequence that produced the goals, why the United States controlled the parts of the game that mattered, the sending-off that changed the texture of it, the ratings that tell you who carried the load, the numbers behind the performance, and what all of it means with Belgium waiting.
 
-![USA vs Bosnia World Cup 2026 result, player ratings and analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![USA vs Bosnia World Cup 2026 result, player ratings and analysis - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 ## USA vs Bosnia World Cup 2026 result and the shape of the night
 

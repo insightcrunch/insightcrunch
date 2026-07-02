@@ -6,15 +6,15 @@ date: 2026-06-30
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Netherlands", "Morocco", "Round of 32", "Match Analysis"]
 excerpt: "Netherlands vs Morocco result and analysis: Morocco win the World Cup 2026 Round of 32 shootout 3-2 after Issa Diop's stoppage-time header forced extra time."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-30
+lang: en
 ---
-
 Morocco knocked the Netherlands out of the World Cup 2026 Round of 32 in Monterrey, winning 3-2 on penalties after a 1-1 draw that stretched through extra time, and the story of the night is contained in one decision and one header. The decision was Ronald Koeman's, to protect a Cody Gakpo goal with a five-man defensive block rather than press for a second. The header was Issa Diop's, glanced past Bart Verbruggen in the first minute of stoppage time to drag a game the Dutch had all but won back to level, and then to the spot, where the Atlas Lions held their nerve and the Oranje did not. Morocco advanced to face co-hosts Canada in the Round of 16. The Netherlands went home earlier than they have ever gone home from a World Cup they qualified for, undone once more from twelve yards.
 
-![Netherlands vs Morocco World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Netherlands vs Morocco World Cup 2026 result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 This was billed as the heavyweight tie of the Round of 32, and the seedings backed the billing: Morocco arrived ranked sixth in the world, the Netherlands seventh, the highest combined ranking of any last-32 pairing in the bracket. It delivered on that promise not through open, flowing football but through tension, a fractious middle third, a late twist, and a shootout that will haunt one nation and vindicate another. If you want the pre-match framing, the predicted lineups, and the tactical questions this fixture posed before a ball was kicked, our [Netherlands vs Morocco Round of 32 preview](/2026/06/29/netherlands-vs-morocco-preview/) set the game up in full. What follows is the account of what actually happened, why it happened, who decided it, and what it changes for both sides.
 

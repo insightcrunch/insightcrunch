@@ -6,15 +6,15 @@ date: 2026-06-29
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Netherlands", "Morocco", "Round of 32", "Match Preview"]
 excerpt: "Netherlands vs Morocco prediction, lineups and tactical preview for this World Cup 2026 Round of 32 tie in Monterrey, plus the key battle that decides it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-06-29
+lang: en
 ---
-
 One question frames Netherlands vs Morocco in the World Cup 2026 Round of 32: can Ronald Koeman's structured, defensively imperious Oranje impose control on a Morocco side that presses in packs, defends for its life, and carries the belief of a nation that reached a World Cup semi-final only four years ago? This is a knockout tie, win or go home, and it sets the seventh-ranked team in the world against the eighth, a European heavyweight against the continent's proudest modern overachiever. There is no second leg, no group table to lean on, and no margin for a slow start. Ninety minutes, or a hundred and twenty, or penalties, decide which of these two genuine contenders walks on and which flies home.
 
-![Netherlands vs Morocco World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Netherlands vs Morocco World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The fixture is loaded with subplots. Morocco arrive as the reigning Africa Cup of Nations champions and the standard-bearers of a golden generation, coached by a manager who lifted the Under-20 World Cup barely a year ago and now takes his first senior tournament into the last thirty-two. The Netherlands arrive as Group F winners, unbeaten through three matches, with one of the meanest defenses in the field and an attack that put five past Sweden. Both sides believe they can win the whole thing. Only one leaves Monterrey with that dream intact. This preview breaks down the road each team took to the Estadio BBVA, the head-to-head history, the predicted lineups and the team news that shapes them, the single tactical battle that will most likely settle the tie, the players who can decide it, the stakes and the knockout pathway that waits beyond, the venue and conditions, how to watch, and a defended prediction with a likely scoreline.
 

@@ -6,15 +6,15 @@ date: 2026-06-30
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Japan", "Round of 32", "Match Analysis", "Knockout Stage"]
 excerpt: "Brazil vs Japan result and analysis: Gabriel Martinelli's stoppage-time winner sealed a 2-1 comeback that sent the Selecao into the World Cup 2026 last 16."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-06-30
+lang: en
 ---
-
 The Brazil vs Japan result at World Cup 2026 reads as a routine line in the record books, Brazil 2-1, five-time champions through to the Round of 16. The ninety-plus minutes that produced it were anything but routine. For an hour in Houston, Japan were the better team, ahead through Kaishu Sano and organized enough to make the Selecao look old, slow, and short of ideas. Brazil did not win this last-32 tie by controlling it. They won it because their bench carried more match-winning quality than Japan's, because Casemiro made amends for his own error, and because a substitute, Gabriel Martinelli, arrived in the fifth minute of stoppage time to spare a great footballing nation its earliest exit in a generation. That is the story this analysis tells, and it is a more honest one than the scoreline suggests.
 
-![Brazil vs Japan World Cup 2026 Round of 32 analysis](/assets/images/blog/blog-01.webp)
+![Brazil vs Japan World Cup 2026 Round of 32 analysis](/assets/images/blog/blog-34.webp)
 
 The single idea that explains this match is the one Carlo Ancelotti will have carried into the dressing room afterward with equal parts relief and unease: on the day, Brazil's starting eleven could not break Japan down, and it was the depth of the squad, not the control of the game, that settled it. Call it the bench, not the ball. It is the frame through which every passage of this tie makes sense, from a first half Japan dominated without the ball to a finish that flattered a Brazil side that spent an hour searching for answers it did not have. This is the complete post-match account: the shape of the game, the story in sequence, the tactical reasons it turned, the decisive moments, the individual performances, the numbers underneath, the meaning of it all, and where both nations go from here.
 

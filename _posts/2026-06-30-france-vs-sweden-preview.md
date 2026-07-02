@@ -7,16 +7,16 @@ last_updated: 2026-06-30
 excerpt: "France vs Sweden headlines the World Cup 2026 Round of 32, as favorites Les Bleus meet Graham Potter's Sweden in a win or go home knockout tie in New Jersey."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 reading_time: 68
 tags: ["World Cup 2026", "France", "Sweden", "Round of 32", "Kylian Mbappe", "Knockout Stage"]
+lang: en
 ---
-
 How do you take a point, let alone a win, off a France side that has not conceded control of a single half at this World Cup 2026? That is the puzzle Graham Potter and his Sweden players carry into the Round of 32 at the New York New Jersey Stadium on June 30, a knockout tie in which the loser flies home and the winner walks on toward the last 16. France vs Sweden pairs the tournament's clearest favorite against a side that reached the knockout rounds by the thinnest available margin, and the gap in expectation could hardly be wider. The interest lies in whether that gap survives contact with a single-elimination game, where one lapse, one set piece, one moment from a striker of Alexander Isak's class can rewrite a night that looked settled on paper.
 
 Les Bleus arrived in North America ranked at the very top of the world and left the group stage with a perfect record, three wins from three and a goal difference that flattered nobody but themselves. Sweden arrived through a playoff they were never supposed to need, then blew hot and cold across three group games before scraping into the last 32 as one of the eight best third-placed teams. This preview lays out how each side reached this point, what the head-to-head history says, the tactical questions that will decide the tie, the men most likely to settle it, and a grounded prediction built only on what is knowable before kickoff.
 
-![France vs Sweden World Cup 2026 Round of 32 preview](/assets/images/blog/blog-01.webp)
+![France vs Sweden World Cup 2026 Round of 32 preview](/assets/images/blog/blog-100.webp)
 
 The knockout math is brutally simple. There is no second leg, no aggregate cushion, no third game to recover a bad night. Whoever prevails in New Jersey earns a Round of 16 date with Paraguay in Philadelphia on July 4, and whoever loses is finished. For France that pathway looks like a runway toward a third star. For Sweden it represents the sort of one-off where a well-drilled underdog, playing with freedom because almost nobody expects anything, can occasionally trip a giant. The tension between those two readings is the story of the night.
 

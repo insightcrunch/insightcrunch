@@ -6,15 +6,15 @@ date: 2026-06-30
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Germany", "Paraguay", "Round of 32", "Match Analysis"]
 excerpt: "Germany vs Paraguay World Cup 2026 result and analysis as Paraguay stun the four-time champions on penalties to reach the Round of 16 after a 1-1 draw."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-06-30
+lang: en
 ---
-
 Germany came to Foxborough with 75 percent of the ball and left the World Cup 2026 with nothing, and the Germany vs Paraguay Round of 32 tie will be remembered as the night a four-time world champion drowned in its own possession. The final score read 1-1 after 120 minutes, and Paraguay won the penalty shootout 4-3 to reach the last 16, but the numbers underneath that scoreline tell the real story: a side that dominated the ball for two hours and could not find a way through a back four and a bank of midfielders that simply refused to break. This was not a smash-and-grab in the classic sense. It was a controlled, deliberate suffocation, and the one thing that explains it is the shape Gustavo Alfaro built and Germany never solved.
 
-![Germany vs Paraguay World Cup 2026 result and player ratings as Paraguay win on penalties - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Germany vs Paraguay World Cup 2026 result and player ratings as Paraguay win on penalties - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 Julian Nagelsmann's Germany had gone into the knockout rounds as one of the pre-tournament favorites, a possession side stocked with Florian Wirtz, Kai Havertz, Joshua Kimmich and Jamal Musiala, and they had topped their group to earn what looked, on paper, like a routine passage. Paraguay arrived from the other end of the seeding, a lower-ranked qualifier that had scraped into the knockout bracket and had been thumped 4-1 by the United States in its own opening game of the tournament, a scoreline that framed them as makeweights. Instead, the South Americans produced a defensive performance of nerve and discipline that will be studied for years, and when the game reached the one arena where control counts for nothing, the twelve-yard spot, it was Paraguay who held their composure and Germany who cracked. The result stands, by most reasonable measures, as the biggest upset of the tournament and one of the great shocks in the modern history of the competition.
 

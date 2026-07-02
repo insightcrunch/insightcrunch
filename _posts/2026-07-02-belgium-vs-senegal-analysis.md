@@ -6,17 +6,17 @@ date: 2026-07-02
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Belgium", "Senegal", "Round of 32", "Match Analysis"]
 excerpt: "Belgium vs Senegal World Cup 2026 result and analysis: how Tielemans's record extra-time penalty sealed a stunning 3-2 comeback over Senegal in Seattle."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "liam-ferris"
 last_updated: 2026-07-02
+lang: en
 ---
-
 Belgium were beaten for eighty-five minutes and one moment saved them. In the World Cup 2026 Round of 32 at Lumen Field in Seattle, Senegal built the game they wanted, led it 2-0 with the clock running down, and lost it 3-2 after extra time to a penalty converted deep into the second additional period. Youri Tielemans scored the last two Belgium goals of the night, a header to force extra time and a spot-kick timed at 124 minutes and 44 seconds to finish it, the latest goal ever recorded at a men's World Cup. The single thing that explains this result is not a system or a substitution pattern, though both matter to the story. It is that one side kept its composure through a seven-minute delay while the other lost the thread of a match it had controlled almost from the first whistle.
 
 This is the analysis of how a two-goal deficit became a Belgium win and a Senegal elimination, and why the numbers underneath the scoreline tell a stranger story than the final margin. Senegal out-chanced Belgium, out-shot them in the passages that mattered, and produced the sharper football for an hour. Belgium survived on the quality of two moments and the willingness of a misfiring team to keep arriving in the box until something broke. The comeback built in three minutes at the end of regulation and the penalty that arrived after everyone had already begun to think about the next round are the spine of this piece: the three-minute rescue and the 125th-minute record that carried the Red Devils into a Round of 16 meeting with the United States.
 
-![Belgium vs Senegal World Cup 2026 result, player ratings and tactical analysis of a 3-2 comeback in Seattle - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Belgium vs Senegal World Cup 2026 result, player ratings and tactical analysis of a 3-2 comeback in Seattle - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 ## The result and the shape of the game
 

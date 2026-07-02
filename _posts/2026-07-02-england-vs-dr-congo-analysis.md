@@ -6,15 +6,15 @@ date: 2026-07-02
 categories: ["Leisure"]
 tags: ["World Cup 2026", "England", "DR Congo", "Round of 32", "Match Analysis"]
 excerpt: "England vs DR Congo result and analysis: Harry Kane's late brace turns a shock scare into a 2-1 World Cup 2026 win and a Round of 16 date with Mexico."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-07-02
+lang: en
 ---
-
 For seventy-four minutes at the Mercedes-Benz Stadium, the England vs DR Congo result at World Cup 2026 read like the opening line of an obituary for a tournament favorite. England trailed a nation playing its first knockout match in history, and the longer the afternoon wore on the heavier the silence around Atlanta grew. Then Harry Kane happened, twice inside eleven minutes, and a 2-1 win turned dread into deliverance and sent England into the Round of 16 to meet co-hosts Mexico. This analysis takes the game apart: how DR Congo led, why England could not break the wall until so late, and what the escape says about Thomas Tuchel's side going deeper into the bracket.
 
-![England vs DR Congo World Cup 2026 result, Harry Kane brace and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![England vs DR Congo World Cup 2026 result, Harry Kane brace and player ratings - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The scoreline flatters neither the drama nor the danger. DR Congo, ranked well below England and appearing at a World Cup for the first time since they played as Zaire in 1974, did not sit back and hope to lose narrowly. They led early, missed a chance to double the advantage, and needed a moment of individual brilliance from one of the world's best center-forwards to be beaten. If the pre-match question, laid out in our [England vs DR Congo Round of 32 preview](/2026/07/01/england-vs-dr-congo-preview/), was whether England could find fluency against a disciplined, athletic opponent, the answer was messy: no fluency, but enough quality held in reserve to matter when it counted. That reserve of quality, contained for seventy-four minutes and then not, is the spine of this piece and the story of England's night.
 

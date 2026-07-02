@@ -6,15 +6,15 @@ date: 2026-06-30
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Ivory Coast", "Norway", "Round of 32", "Match Preview"]
 excerpt: "Ivory Coast vs Norway is a World Cup 2026 Round of 32 knockout: AFCON champions face Erling Haaland's Norway, with a Round of 16 place at stake in Dallas."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-06-30
+lang: en
 ---
-
 Every knockout tie reduces to a single question, and Ivory Coast vs Norway in the World Cup 2026 Round of 32 poses one of the sharpest in the whole bracket: can a compact, transition-hungry side of African champions survive ninety minutes against a team built to funnel service toward the most lethal center forward on the planet? This is not a group game where a draw keeps hope alive. It is win or go home, one match in Dallas to decide who carries on and who flies back across the Atlantic with the tournament over. Emerse Fae's Ivory Coast arrive as the reigning kings of Africa. Stale Solbakken's Norway arrive with Erling Haaland leading the line and Martin Odegaard pulling the strings. The gap between the two is not one of quality so much as one of type, and the tie is a study in how you close that gap when there is no second leg to correct a mistake.
 
-![Ivory Coast vs Norway World Cup 2026 Round of 32 preview, prediction and key battle - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ivory Coast vs Norway World Cup 2026 Round of 32 preview, prediction and key battle - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The framing that runs through this preview is simple to state and hard to execute: the match will be settled by the supply line to Haaland. Norway want to press high, win the ball early, and feed their striker in behind or into the box from wide areas. Ivory Coast want to sit compact, deny that service, and turn every recovered ball into a sprint the other way through pace they carry across the front line. Whichever side wins that specific argument, the crossing lane and the counter that answers it, is likely to win the tie. Everything that follows, the form, the team news, the predicted shapes, and the prediction itself, is built around that single contest.
 

@@ -6,15 +6,15 @@ date: 2026-07-01
 categories: ["Leisure"]
 tags: ["World Cup 2026", "United States", "Bosnia and Herzegovina", "Round of 32", "Match Preview"]
 excerpt: "USA vs Bosnia World Cup 2026 Round of 32 preview: prediction, predicted lineups, the decisive tactical battle and what the co-hosts need to reach the last 16."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-07-01
+lang: en
 ---
-
 The USA vs Bosnia World Cup 2026 Round of 32 tie poses one blunt question, and it has nothing to do with which side owns the better players on paper. It asks whether the United States, the highest-ranked team in their group and roared on by a home crowd in Santa Clara, can impose a tempo game on a Bosnia and Herzegovina side built to slow everything down, win the air, and drag ninety minutes into the kind of low-event, physical grind where a single set-piece decides a knockout. Get that answer right and the co-hosts stride into the last 16. Get it wrong and the tournament ends on the first Wednesday of July, in front of the very supporters who came to watch a run. That is the whole tie in one sentence, and everything below unpacks it.
 
-![USA vs Bosnia World Cup 2026 Round of 32 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![USA vs Bosnia World Cup 2026 Round of 32 preview and prediction - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 This is single elimination now. The group stage forgave a bad night; the Round of 32 does not. For the United States that shift changes the psychology as much as the tactics, because a host nation carries an expectation the other 47 teams do not. Bosnia arrive with the opposite burden, which is to say almost none. They were the last European side to book their place, they scraped through a group that battered them at least once, and they reached the knockouts of a World Cup for the first time in their history. Every minute from here is profit for them and pressure for the Americans. That asymmetry is the emotional engine of the fixture, and any preview that ignores it misreads the game.
 

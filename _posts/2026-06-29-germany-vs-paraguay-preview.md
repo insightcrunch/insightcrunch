@@ -6,15 +6,15 @@ date: 2026-06-29
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Germany", "Paraguay", "Round of 32", "Match Preview"]
 excerpt: "Germany vs Paraguay World Cup 2026 preview: prediction, predicted lineups, the tactical key and head-to-head as four-time champions meet Alfaro's side."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-06-29
+lang: en
 ---
-
 Germany vs Paraguay at World Cup 2026 poses one clean question, and everything else in this Round of 32 tie hangs off it: can an organized, counter-punching Paraguay side survive long enough, and stay disciplined enough, to drag four-time world champions Germany into the kind of low-margin knockout game where a single moment or a shootout can undo all the difference in talent? On paper, Julian Nagelsmann's Germany are the heavier, more gifted team, Group E winners with a forward line that can pull any defense apart. Paraguay arrived in the knockout rounds the hard way, as one of the eight best third-placed sides, built on a compact block and the willingness to defend for long stretches. The gap in ability is real. The gap in this format, win or go home over ninety minutes and possibly extra time and penalties, is narrower than any group game, and that is exactly the ground Gustavo Alfaro wants to fight on.
 
-![Germany vs Paraguay World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Germany vs Paraguay World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 This is knockout football at its most unforgiving, and the appeal is in the contrast. Germany want the ball, want to build patiently, and want to turn possession into a stream of chances that eventually breaks a stubborn opponent. Paraguay want to compress the space, deny the clean chance, and win the match in the seconds after they turn the ball over, when Miguel Almiron and Julio Enciso can attack a defense that has committed bodies forward. One side is trying to make the game as long and as controlled as possible; the other is trying to make it short, chaotic, and decided by a handful of transitions. The team that imposes its preferred rhythm usually wins games like this. The team that loses the argument over tempo tends to lose the tie.
 

@@ -6,15 +6,15 @@ date: 2026-07-01
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Mexico", "Ecuador", "Round of 32", "Match Analysis"]
 excerpt: "Mexico vs Ecuador analysis: two first-half goals from Quinones and Jimenez sent Mexico past Ecuador 2-0 at the Azteca, ending a 40-year World Cup 2026 wait."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-07-01
+lang: en
 ---
-
 The Mexico vs Ecuador result at World Cup 2026 finished 2-0 to the co-hosts, and the sentence that explains the night is short: Mexico took the two clear openings a knockout tie tends to allow, and Ecuador took none. Julian Quinones drove in the first on twenty-two minutes and set up Raul Jimenez for the second on thirty-one, and inside that half-hour burst a forty-year weight lifted off a nation. This was Mexico's first victory in a World Cup knockout match since 1986, delivered at the Estadio Azteca, the same ground where the last one happened, in front of a crowd north of eighty thousand that turned a rain-delayed evening into a coronation.
 
-![Mexico vs Ecuador World Cup 2026 Round of 32 analysis at the Estadio Azteca](/assets/images/blog/blog-01.webp)
+![Mexico vs Ecuador World Cup 2026 Round of 32 analysis at the Estadio Azteca](/assets/images/blog/blog-50.webp)
 
 What follows is a full account of how the tie was won and lost: the shape of the contest, the sequence of the decisive passages, the tactical reasons the scoreline read the way it did, the turning points, the standout performers and the man-of-the-match case, the numbers that back the story, the meaning of the Azteca on a knockout night, and what a 2-0 win sets up for Mexico and closes off for Ecuador. The headline is simple. The detail is where the tie actually lived, and the detail is where a pragmatic Mexican side that had been questioned for its caution produced the best forty-five minutes of Javier Aguirre's tenure.
 

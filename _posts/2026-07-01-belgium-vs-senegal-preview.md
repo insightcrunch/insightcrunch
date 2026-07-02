@@ -6,17 +6,17 @@ date: 2026-07-01
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Belgium", "Senegal", "Round of 32", "Match Preview"]
 excerpt: "Belgium vs Senegal prediction, predicted lineups and key battles for this World Cup 2026 Round of 32 knockout in Seattle, where the winner reaches the last 16."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-07-01
+lang: en
 ---
-
 The single question that hangs over Belgium vs Senegal in the World Cup 2026 Round of 32 is simple to ask and hard to answer: can a Belgian golden generation that has spent a decade being called talented but soft finally win the knockout tie it is supposed to win, or do Senegal's speed and belief drag the Red Devils into exactly the kind of chaotic, transition-heavy afternoon that has undone them before? This is a first-ever meeting between the two nations, staged at Lumen Field in Seattle on July 1, and it carries the full weight of single-elimination football. There is no second leg, no group-stage safety net, no chance to lose and regroup. One side walks into the last sixteen of the World Cup 2026. The other flies home.
 
 That framing matters because these two teams arrive from opposite emotional places. Belgium topped Group G and reached this stage without ever looking troubled, controlling matches through possession and the passing of Kevin De Bruyne. Senegal survived a brutal group, lost twice, and clawed their way through as one of the best third-placed sides on the back of a single emphatic result. The Red Devils are the bookmakers' favorite, ranked just inside the world's top ten. The Lions of Teranga sit around eighteenth in the world and carry themselves like a team that has already used up one life and intends to make the second one count.
 
-![Belgium vs Senegal World Cup 2026 Round of 32 preview, predicted lineups and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Belgium vs Senegal World Cup 2026 Round of 32 preview, predicted lineups and prediction - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 This preview is a complete pre-match briefing for that collision. It sets out what the tie means inside the bracket, the very different roads each side took to reach it, the head-to-head context (or lack of it), the team news that reshapes both lineups, the predicted elevens with the reasoning behind them, the tactical shape and the one or two battles that will decide the ninety minutes, the players worth watching, the qualification and bracket math, the practical viewing details for Seattle, and a committed prediction with a scoreline and the logic that supports it. It is written from what was knowable before kickoff, and it deliberately stops short of the result: the verdict on how the game actually unfolded belongs to the [Belgium vs Senegal analysis](/2026/07/02/belgium-vs-senegal-analysis/), which will live alongside this piece once the final whistle has blown.
 

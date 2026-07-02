@@ -6,15 +6,15 @@ date: 2026-07-01
 categories: ["Leisure"]
 tags: ["World Cup 2026", "England", "DR Congo", "Round of 32", "Match Preview"]
 excerpt: "England vs DR Congo preview for the World Cup 2026 Round of 32: our prediction, likely lineups, the key tactical battle, team news and how to watch it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-07-01
+lang: en
 ---
-
 England vs DR Congo in the World Cup 2026 Round of 32 asks England a single, uncomfortable question: can a side ranked among the tournament favorites finally produce a clear, fluent performance when the safety net of the group stage is gone and one flat afternoon ends the whole campaign? Thomas Tuchel's team arrive in Atlanta as Group L winners with seven points and a growing sense that the results have been better than the football. DR Congo arrive as the story of the group stage, a side that had never won a World Cup match before June 27 and now finds itself ninety minutes, or more, from the last sixteen. This is knockout football at its starkest. Win and the pathway opens toward Mexico and the Estadio Azteca. Lose and the plane home leaves the next morning.
 
-![England vs DR Congo World Cup 2026 Round of 32 preview](/assets/images/blog/blog-01.webp)
+![England vs DR Congo World Cup 2026 Round of 32 preview](/assets/images/blog/blog-116.webp)
 
 The temptation with a fixture like this is to treat it as a formality, a seeded name against a debutant knockout side, and to spend the preview listing England's attacking riches. That misreads the tie. DR Congo are not here by accident, and the shape of the danger they carry is specific rather than vague. Under Sebastien Desabre they have built a team designed first and foremost not to lose, and the numbers behind that identity are the single most important thing an England supporter should understand before kickoff. This preview lays out the road each side took to Atlanta, the head-to-head that does not exist, the team news and likely lineups, the tactical collision that will decide the ninety minutes, the players who can settle it, the knockout stakes and the pathway beyond, the practical viewing details, and a prediction with the reasoning behind it. The spoiler firewall applies throughout: everything here is built from what was knowable before the first whistle.
 

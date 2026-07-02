@@ -6,15 +6,15 @@ date: 2026-07-01
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Sweden", "Round of 32", "Match Analysis"]
 excerpt: "France vs Sweden World Cup 2026 result and ratings: a Kylian Mbappe brace and a Michael Olise masterclass sent Les Bleus past Sweden and into the last 16."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-07-01
+lang: en
 ---
-
 France beat Sweden 3-0 in the World Cup 2026 Round of 32, and the scoreline tells only the gentle half of the story. Kylian Mbappe scored either side of half-time, Bradley Barcola drove home the second, and Michael Olise conducted the whole thing from the right half-space in a display that turned a knockout tie into an exhibition. The one thing that explains this result is not Mbappe's finishing, elite as it was; it is the gap in class between the two front lines, and specifically the axis between Olise and Mbappe that Sweden had no answer for. Graham Potter set his side up to survive, and for roughly forty minutes they did. Then the dam broke, and once it did, the only real question left was how many France would score before Didier Deschamps started thinking about Paraguay.
 
-![France vs Sweden World Cup 2026 result, player ratings and analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![France vs Sweden World Cup 2026 result, player ratings and analysis - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 This is the Analysis, the post-match companion to our pre-match [France vs Sweden preview and prediction](/2026/06/30/france-vs-sweden-preview/), and it exists to explain rather than to recap. Anyone can read that France won 3-0. What this piece sets out to do is name the reasons: the creative overload that Sweden's back three could not track, the specific sequence that finally cracked a stubborn low block, the ratings that separate the men who decided it from the men who merely appeared in it, and the numbers that show a game far more one-sided than three goals suggest. France registered an expected-goals figure of 3.17 to Sweden's 0.67, hit the woodwork twice, had a goal correctly disallowed for offside, and still ended the night feeling they had left goals out on the pitch at the New York New Jersey Stadium. That is the shape of the evening: total control, a late flurry of ruthlessness, and a favorite reminding the tournament exactly why it is the favorite.
 
