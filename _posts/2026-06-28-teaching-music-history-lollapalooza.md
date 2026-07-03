@@ -6,15 +6,15 @@ date: 2026-06-28
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Music History", "Music Festivals", "Festival Planning", "Grant Park"]
 excerpt: "Teaching music history through Lollapalooza turns a single festival into a lens on the alternative movement, genre change, and the culture of live music."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-28
+lang: en
 ---
-
 Teaching music history through Lollapalooza gives an educator something most textbooks never supply: a single, vivid story that carries the whole arc of modern popular music. One festival, born as a farewell tour and grown into a four-day event in a downtown park, holds the alternative movement, the widening of genre, the rise of the live-music economy, and the shift in how a generation discovers sound. A teacher who wants a cultural hook that students already half-recognize can open that story in a class period and keep pulling threads from it for a whole unit. This page is written for that teacher. It is not another history of the festival, and it does not try to be the archive; it is the lesson map that shows what the festival can teach, in what order, and where the documented material lives so a lesson stands on solid ground.
 
-![Teaching music history through Lollapalooza as a classroom lens](/assets/images/blog/blog-01.webp)
+![Teaching music history through Lollapalooza as a classroom lens](/assets/images/blog/blog-117.webp)
 
 The reader here is an educator first and a fan second: a middle-school or high-school music teacher looking for a unit that holds attention, a history or social-studies teacher reaching for a cultural case study, a college instructor building a survey of popular music, or a homeschool parent who wants a spine for a semester. What each of them shares is a problem the open web rarely solves. Search the festival's name and the results sell tickets, rank headliners, or recap a single weekend. None of that is a lesson. The gap between a fan page and a teachable resource is the gap this article closes, and it closes it by treating the festival as a lens rather than a subject to be admired.
 

@@ -6,15 +6,15 @@ date: 2026-06-28
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Photography", "Concert Photography", "Music Festivals", "Festival Planning", "Grant Park"]
 excerpt: "Lollapalooza photography rewards craft over gear: master stage light, low-light concert settings, and movement, and know the camera the policy allows."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-28
+lang: en
 ---
-
 Lollapalooza photography is not a gear problem, and the fans who come home with frames they are proud of almost never own the most expensive body on the field. They understand two things the thin guides skip: how stage light behaves when it is dim, colored, and changing faster than your eye can track, and what camera the festival will let through the gate. Master those two, and a modest kit outshoots a bag of glass carried by someone who never learned to read a wash of magenta against a silhouette. Get either one wrong, and the best sensor in Grant Park either produces a blurred smear or gets turned away at the checkpoint before it ever meets the light.
 
-![Lollapalooza photography how-to](/assets/images/blog/blog-01.webp)
+![Lollapalooza photography how-to](/assets/images/blog/blog-114.webp)
 
 That is the argument this how-to defends, and it has a name. Call it the light-and-policy rule: festival photography is won by mastering low and changing stage light and by knowing what camera the policy allows, so the craft is equal parts shooting technique and policy awareness. Most photography guides treat the second half as an afterthought, a line at the bottom about "check the rules," and most fans discover the gap the hard way, standing at security with a detachable lens they cannot bring in. Here the policy sits beside the settings because a shot you cannot take is not a shot. Everything that follows pairs the two halves so you walk in with a camera that clears the gate and the technique to make it earn its place in your bag.
 

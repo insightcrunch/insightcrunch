@@ -6,15 +6,15 @@ date: 2026-06-26
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Production", "Grant Park", "Music Festivals", "Festival Planning", "Chicago Travel"]
 excerpt: "Lollapalooza production turns a public park into a temporary festival city and back: the build-out, the crew, the logistics, and the teardown behind the show."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-26
+lang: en
 ---
-
 Lollapalooza production is the part of the festival that almost no attendee ever watches, and it is the part that makes everything else possible. Before a single fan taps through the gates, before the first act sound-checks, before the food stalls fire up their grills, a temporary city has already been engineered onto the lakefront half of Grant Park in downtown Chicago. That city has stages tall enough to be seen from Michigan Avenue, miles of cable, its own power backbone, its own water and sanitation, its own security perimeter, and its own supply chain feeding hundreds of vendors. Then, days after the last headliner walks off, all of it disappears and the park becomes a park again. This article is the one page about how that happens: how the festival is produced, what goes on out of sight, how long the build takes, and how many people it takes to pull off.
 
-![Cranes and stage rigging rising over Grant Park as crews build a large music festival site](/assets/images/blog/blog-01.webp)
+![Cranes and stage rigging rising over Grant Park as crews build a large music festival site](/assets/images/blog/blog-64.webp)
 
 Most pages about the festival show you the front of the stage. They tell you which acts are playing, where to stand, how to beat the clash between two sets on opposite ends of the grounds. Those are the right questions for a fan planning a weekend, and other articles in this series answer them well. This one turns around and looks the other way, at the loading docks and the cable ramps and the forklifts, because the scale of what stands behind the show is its own kind of spectacle, and understanding it changes how you see the festival while you are standing in it.
 
