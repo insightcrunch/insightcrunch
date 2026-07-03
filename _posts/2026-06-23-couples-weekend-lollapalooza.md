@@ -6,13 +6,15 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Couples Weekend", "Date Weekend", "Chicago Trip", "Leisure", "Festival Planning"]
 excerpt: "Doing Lollapalooza as a couple works best when you share the must-sees, split cleanly for clashing tastes, and reconvene for the headliner and a city night."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-23
+lang: en
 ---
-
 Most festival advice speaks to one of two people: the solo attendee optimizing every minute, or the friend group negotiating twelve conflicting wish lists. Doing Lollapalooza as a couple sits in neither camp, and the pages that lump the two of you into a generic group plan miss what makes a couples weekend its own puzzle. You are traveling together, sleeping in the same room, sharing a budget, and carrying a relationship into a four-day sensory marathon in the middle of a major city. That changes the math. The good news is that the couple's version of this weekend is one of the strongest ways to attend, because the downtown setting pairs a music festival with a city trip, and the two blend into something neither would be alone.
+
+![A Couple's Weekend at Lollapalooza - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 ![A couple watching a sunset set together on the Grant Park lawn during Lollapalooza]({{ site.baseurl }}/assets/images/blog/blog-01.webp)
 

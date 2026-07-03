@@ -6,17 +6,17 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Chicago Travel", "Festival Planning", "Grant Park", "Music Festivals"]
 excerpt: "Your first time in Chicago for Lollapalooza, made simple: how the city works, getting around, which neighborhoods matter, and staying safe as a newcomer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-22
+lang: en
 ---
-
 If this is your first time in Chicago for Lollapalooza, the festival is only half of what you are actually planning. The other half is a city you have never navigated, and that unfamiliarity is what quietly wrecks a first weekend. You booked the tickets, you built a rough set-time wish list, and then the real questions arrived: how does this city even work, will I get lost, which parts of town matter, and is it safe to walk back to where I am staying after the headliner. Most Lollapalooza pages assume you already know Chicago. This one does not. It assumes you are arriving from somewhere else, possibly for the first time in your life, and it treats learning the city as the planning problem it really is.
 
 Here is the good news, stated up front so the rest of the page makes sense: Chicago is far more legible than its skyline suggests. It is a huge city by population and footprint, but the slice a festival visitor actually uses is compact, walkable, and organized on a grid so rational you can teach yourself the whole system in the length of one flight. You do not need to master the entire city. You need to understand two anchors and one grid, and once you hold those, the place stops feeling like an intimidating metropolis and starts feeling like a manageable weekend base with a festival at its center.
 
-![First time in Chicago for Lollapalooza, a newcomer's orientation to the city and Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![First time in Chicago for Lollapalooza, a newcomer's orientation to the city and Grant Park - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 This guide owns the orientation, the mental map a newcomer needs before they arrive. It does not re-explain the trains and the parking, which belong to the transit guide, and it does not rank the attractions, which belong to the activities guide. What it does is hand you the layout, the way the streets are numbered, the character of the neighborhoods you will brush against, the honest safety picture, and a first-day plan that keeps you oriented from the moment you step out of the airport. Think of everything below as the briefing a local friend would give you over coffee the night before your first festival day, the one that turns "I have no idea where anything is" into "I know exactly how this city is put together."
 

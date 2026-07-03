@@ -6,17 +6,17 @@ date: 2026-06-20
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Lollapalooza India", "Global Festivals", "Music Festivals", "Festival Planning"]
 excerpt: "Lollapalooza India is the festival's first Asian edition: a two-day Mumbai winter weekend. What it is like, when and where it runs, and whether it is worth it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-20
+lang: en
 ---
-
 If you have spent any time reading Lollapalooza guides, you have probably noticed that almost all of them describe one place: Grant Park in Chicago, four days at the end of a Midwestern summer, eight stages spread across a lakefront lawn. That version of the festival is the one most of the internet is built around. It is not the version this guide is about. Lollapalooza India is the brand's first foothold on an entire continent, a two-day weekend held in the middle of Mumbai during the coolest, driest stretch of the Indian calendar, and it works on a logic that the Chicago pages simply do not cover. If you are an Asian fan deciding whether to make the trip across town or a traveler weighing a flight from farther away, the questions you need answered are local ones: what the Mumbai edition is actually like on the ground, when and where it runs, how you get in and get around, and whether the whole thing is worth your money and your weekend. This guide answers those, and it treats the Indian edition as a plannable trip rather than a footnote to Chicago.
 
 The short version, before the detail: Lollapalooza India is the festival's first Asian edition, staged at a racecourse ground in central Mumbai over a two-day winter weekend, pairing a strong roster of Indian and South Asian acts with a headline layer of international touring artists. It is smaller and denser than the Chicago original, easier to see end to end in a single visit, and pitched at a young, music-hungry urban audience that had never had a global-scale festival of this kind on its doorstep before. The frontier framing is not marketing hyperbole. When this edition launched, it opened the Lollapalooza network to a market of well over a billion people who had watched the brand from a distance for three decades, and that shift is the single most important thing to understand about it.
 
-![Lollapalooza festival crowd and stage](/assets/images/blog/blog-01.webp)
+![Lollapalooza festival crowd and stage](/assets/images/blog/blog-83.webp)
 
 ## What Lollapalooza India Actually Is
 

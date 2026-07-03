@@ -6,15 +6,15 @@ date: 2026-06-22
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Chicago Travel", "Grant Park", "Festival Planning", "Music Festivals", "Where to Stay"]
 excerpt: "The best things to do in Chicago around Lollapalooza, from Millennium Park to the lakefront and museums, so a festival weekend becomes a real city trip."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-22
+lang: en
 ---
-
 Most people plan a Lollapalooza trip as though the festival is the whole reason to be here, and then they leave one of the best things to do in Chicago sitting untouched a few hundred steps from the gate. The honest reality is simpler and more useful: a Lollapalooza trip is also a Chicago trip, whether you plan it that way or not. You are flying into or driving toward one of the great American cities, staying inside walking distance of its most concentrated cluster of parks, museums, architecture, and lakefront, and spending four days in a festival that sits directly on top of all of it. The gate closes on the music each night and opens again the next afternoon, which leaves mornings, rest days, and the hours before you feel like fighting a crowd wide open. The question is not whether Chicago is worth seeing while you are here. The question is how much of it you can fold into a festival weekend without wearing yourself out, and which pieces are worth the effort when your legs already ache and your feet already know what a long day feels like.
 
-![Things to do in Chicago around Lollapalooza, from Millennium Park to the lakefront and Grant Park - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Things to do in Chicago around Lollapalooza, from Millennium Park to the lakefront and Grant Park - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 This guide owns one job: it is the page on what to do in Chicago around the festival. It covers the attractions near the grounds, the sights worth seeing across a festival weekend, and the ways to fill the hours between and after festival days, so that the trip becomes a city experience rather than a set of four gate-to-gate marathons. It does not try to be your first-time orientation to the city, and it does not try to send you off on a longer regional loop, because both of those have their own homes in this series and both deserve more room than a section here could give them. What this page does is map the Chicago that surrounds Grant Park, name the pieces that reward a tired festivalgoer, and give you a way to decide what to build in and what to skip. If you came for the music and nothing else, that is a complete trip and a good one. If you want the weekend to hold more than the music, the city is right there, and most of it is closer than you think.
 
