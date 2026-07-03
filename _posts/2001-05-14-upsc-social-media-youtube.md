@@ -6,17 +6,17 @@ date: 2001-05-14
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Social Media", "UPSC YouTube", "UPSC Preparation", "Screen Time", "UPSC Strategy"]
 excerpt: "A complete UPSC social media strategy for YouTube, Telegram and Twitter: evaluate channels, escape information overload and manage screen time smartly."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-05-14
+lang: en
 ---
-
 A serious UPSC social media strategy is now as important to your preparation as your booklist, because the same phone that holds every free lecture, every current affairs thread, and every study group also holds the most sophisticated attention-capture machinery ever built, and it does not care whether you clear the Civil Services Examination or spend three years feeling busy without moving forward. Almost every aspirant today begins with YouTube, drifts into a dozen Telegram channels, and keeps Twitter open for current affairs, and almost every aspirant discovers, usually too late, that these tools quietly reorganised their day around consumption rather than mastery. This is not a lecture telling you to delete every app and study from paper. It is a working manual for turning YouTube, Telegram, and Twitter into disciplined instruments that genuinely accelerate your journey, while dismantling the information overload trap and the screen time drift that sink far more candidates than any tough question paper ever will.
 
 <!--more-->
 
-![UPSC Social Media Strategy for YouTube Telegram Twitter - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Social Media Strategy for YouTube Telegram Twitter - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The uncomfortable truth is that social media is neither your friend nor your enemy in this preparation. It is a neutral amplifier. If your underlying habits are disciplined, these platforms multiply your reach, letting you learn from the sharpest minds in the country for free. If your underlying habits are scattered, they multiply your scatter, giving your procrastination the comforting costume of productivity. The aspirant who watches six hours of strategy videos about how to study has not studied for one minute, yet feels exhausted and accomplished. Understanding this single distinction, between activity that feels like progress and activity that is progress, is the foundation of everything that follows. If you are still building your overall approach, anchor this article to the broader roadmap in our [complete UPSC preparation guide](/2003/07/24/upsc-civil-services-complete-guide/), because social media decisions only make sense inside a larger plan.
 

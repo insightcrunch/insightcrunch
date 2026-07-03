@@ -6,17 +6,17 @@ date: 2026-06-30
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Myths", "Festival Planning", "Music Festivals", "Grant Park"]
 excerpt: "Lollapalooza myths about camping, re-entry, bags, and origin wreck plans, so here is each common misconception corrected with the durable fact you can plan on."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-06-30
+lang: en
 ---
-
 The most expensive Lollapalooza myths and misconceptions do not fail because of bad luck. They fail because a fan believed something about the festival that was never true, and acted on it. A first-timer packs a comfortable backpack because a friend swore bags were fine, then stands at the gate watching security turn the bag away. A group books a campsite an hour out because someone read that this was a camping festival, then discovers there is nowhere on site to pitch a tent and no shuttle built for campers. A planner assumes they can duck out for a proper lunch and return refreshed, then learns at the exit that the wristband does not work that way. Every one of these gate-day surprises traces back to a Lollapalooza myth that spread faster than the fact that would have corrected it.
 
 This is the page that sorts the Lollapalooza myths and misconceptions from the durable realities, so the false belief never becomes a ruined afternoon. The trivia article on this series collects true surprises that delight; this one does the opposite job, taking the confident-sounding claims that circulate on forums and group chats and replacing each with the accurate fact underneath. The distinction matters because a myth and a piece of trivia feel identical when you read them. Both arrive as "did you know," both sound authoritative, and both get repeated. The difference is that trivia is true and a myth is not, and only one of them will cost you money, comfort, or a headliner you missed because you were arguing with a gate agent.
 
-![A crowded urban music festival in a downtown park with skyline behind the main stage](/assets/images/blog/blog-01.webp)
+![A crowded urban music festival in a downtown park with skyline behind the main stage](/assets/images/blog/blog-104.webp)
 
 The festival that these myths describe is a four-day event held in a downtown park, ringed by a skyline, run on a clear-bag rule, sold without in-and-out privileges, and part of a family of editions that now spans several continents. Almost every popular misconception gets one of those five realities wrong. Hold that picture in mind as the correction to each myth, because the pattern repeats: the myth imagines a different kind of festival, a rural one, a loose one, an American-only one, and the fact pulls it back to what the event is.
 

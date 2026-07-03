@@ -6,15 +6,15 @@ date: 2026-05-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The structure and the nine-chapter arc of The Great Gatsby rise to the Chapter 5 reunion and fall to the death, a balanced design that enacts the tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-05-25
+lang: en
 ---
-
 Read the last page of The Great Gatsby and you feel a door closing that the first page quietly opened. That sensation is not luck. It is engineering. The structure and the nine-chapter arc of the novel are built so that the shape of the book performs the meaning of the book, and a reader who feels the ending as inevitable is responding to a design laid down chapter by chapter with unusual care. Fitzgerald wrote a short novel, and he wrote it in nine movements that rise toward a single reunion near the center and then fall away from it toward a death, so the architecture itself carries the tragedy rather than merely reporting it.
 
-![The nine-chapter symmetrical arc of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The nine-chapter symmetrical arc of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 Most readers meet the novel as a story about a man and a dream and a green light, and all of that is true. Fewer readers notice that the man, the dream, and the light are placed on a frame with the precision of a bridge. This article treats the book's form as a craft achievement in its own right, a set of choices Fitzgerald made about where to put the reunion, how to bracket the whole in a first and last chapter that answer each other, and how to make a two hundred page book feel like an epic. Reading the design this way belongs to the series' larger habit of treating every technique as a decision rather than an accident, the same lens the [full plot and structure map](/2022/01/17/great-gatsby-plot-structure-map/) applies to the events and the [chapter build analysis](/2023/01/16/great-gatsby-nine-chapter-design/) applies at the level of the individual movement. Here the object is the whole shape and the reason it holds.
 

@@ -6,15 +6,15 @@ date: 2026-06-30
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Planning", "Grant Park", "Music Festivals", "Festival Survival", "Music History"]
 excerpt: "The Lollapalooza encyclopedia defines every term, stage, policy, and word from A to Z in one place and points each entry to the guide that owns the answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-30
+lang: en
 ---
-
 Somewhere between buying a wristband and standing in Grant Park for the first time, most people hit a wall of vocabulary. A friend says to meet at Perry's, a forum thread argues about GA+ versus Platinum, a packing post warns about the bag policy, and a veteran mentions Chow Town as if everyone already knows what that is. The Lollapalooza encyclopedia exists to end that confusion. It is the single alphabetical place to look up any Lollapalooza word, from the name of a stage to the meaning of a ticket tier to a piece of Grant Park geography, with a plain definition for each and a pointer to the guide that covers it in full. This is the reference capstone of the whole series, the page you keep open when a term stops you cold.
 
-![The Lollapalooza encyclopedia A to Z glossary of terms, stages, and policies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Lollapalooza encyclopedia A to Z glossary of terms, stages, and policies - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The organizing idea here has a name: the one-reference rule. The rule says that any Lollapalooza word worth knowing should be findable in exactly one place, defined accurately, and connected to the article that owns its deeper story, so you never have to guess which of two hundred guides holds the answer. Scatter is the enemy of a reference. When the meaning of a wristband lives in one guide, the price of a pass in another, and the layout of a gate in a third, a newcomer spends the pre-festival weeks hunting instead of learning. This encyclopedia collects the whole vocabulary under one roof, defines each item once, and hands you the link to go deeper. That is the series wager applied to the humble act of looking something up.
 

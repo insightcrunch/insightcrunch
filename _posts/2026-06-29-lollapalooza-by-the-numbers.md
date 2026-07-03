@@ -6,15 +6,15 @@ date: 2026-06-29
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Lollapalooza by the Numbers", "Festival Scale", "Grant Park", "Festival Stages", "Music Festival Facts"]
 excerpt: "Lollapalooza by the numbers: a handful of stages, well over a hundred acts, a major downtown park, and hundreds of thousands, all in honest, durable ranges."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-29
+lang: en
 ---
-
 Search for Lollapalooza by the numbers and you will find a wall of confident figures, each one slightly different from the last, none of them showing its work. One page swears the festival has a precise stage count. Another quotes an attendance figure down to the last person. A third gives an act total that a fourth flatly contradicts. The reader who wanted a clear sense of scale walks away with four numbers and no way to tell which, if any, is right. That is the trap this page refuses to set. The honest way to quantify a festival this large is not to invent precision the organizers themselves do not publish; it is to give durable, ranged figures that hold from one edition to the next and let a reader grasp the real magnitude without being lied to about the decimal places.
 
-![Lollapalooza by the numbers, the festival's scale shown in honest ranges rather than invented precision.](/assets/images/blog/blog-01.webp)
+![Lollapalooza by the numbers, the festival's scale shown in honest ranges rather than invented precision.](/assets/images/blog/blog-24.webp)
 
 This is the scale overview for the whole series. It answers the size questions a fan actually asks, how many stages, how many acts, how big the footprint, how many people, and it answers them in the only form that stays true across editions. The superlatives, the single biggest crowd ever recorded and the record-setting moments, belong to their own page and are routed there rather than repeated here. The anecdotes, the strange and delightful facts that make good trivia, belong to another page still. What sits here is the quantitative backbone: the festival measured, ranged, and made legible. Read it once and you will never again be fooled by a page that quotes a suspiciously exact number it cannot possibly verify.
 
