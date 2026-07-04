@@ -4,22 +4,22 @@ title: "Stalingrad: Hitler's November 1942 No-Retreat"
 page_title: "Stalingrad: Hitler's November 1942 No-Retreat Order and the Destruction of the German Sixth Army"
 date: 2006-10-20
 last_updated: 2006-10-20
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "eastern-front", "1942", "stalingrad", "germany"]
 image: /assets/images/blog/blog-08.webp
 excerpt: "Paulus was encircled November 23, 1942. Manstein urged a breakout. Hitler ordered 'Fortress Stalingrad.' Göring promised 500 tons a day. Ninety came instead."
 slug: "stalingrad-hitler-no-retreat-order-november-1942"
 reading_time: 56
+lang: en
 ---
-
 At 6:00 p.m. on November 24, 1942, a teleprinter in the headquarters of the German Sixth Army received an order that killed roughly a quarter of a million men. The order came from the Wolfsschanze, Hitler's command compound in East Prussia, and it was short. The Sixth Army would hold its positions around Stalingrad. It would not attempt to break out to the southwest, even though a corridor to the southwest was still, on that date, thinly held and probably passable. It would form a defensive perimeter, designated Festung Stalingrad, Fortress Stalingrad, and it would wait to be relieved and resupplied from the air. Two days earlier, Soviet armored spearheads had met at the town of Kalach on the Don, closing a ring around approximately 265,000 Axis soldiers. The commander of the trapped force, General Friedrich Paulus, had asked for freedom of action to fight his way out. His immediate superior had agreed. So had the army chief of staff in East Prussia, at least initially. The order overrode all of them.
 
 <!--more-->
 
 This article reconstructs the decision of November 22 through 24, 1942, hour by hour where the records permit, and it defends a specific conclusion: the Fortress Stalingrad order was not a defensible gamble that happened to fail but an override of sound military judgment, produced by a command structure that had no mechanism to correct a single man's error once he had committed to it. The reconstruction sides with David Glantz's operational analysis and Antony Beevor's assessment against the exculpatory reading advanced in some early German general memoirs, which framed the disaster as the product of impossible circumstances rather than a bad choice made among available better ones. The decision belongs to a pattern that runs through the whole Eastern Front, the pattern examined in the series' [reconstruction of Hitler's June 1941 invasion of the Soviet Union](/blog/barbarossa-hitler-june-22-1941-invasion/), where ideological commitment framed and narrowed what professional soldiers could contribute. At Stalingrad the mechanism was more concrete than ideology. It was a promise about airlift tonnage that everyone with relevant expertise knew to be false, accepted because it permitted a politically desired conclusion.
 
-![Hitler's November 24 1942 Fortress Stalingrad order refusing the encircled Sixth Army's breakout from the Soviet Uranus ring](/assets/images/blog/blog-08.webp)
+![Hitler's November 24 1942 Fortress Stalingrad order refusing the encircled Sixth Army's breakout from the Soviet Uranus ring](/assets/images/blog/blog-95.webp)
 
 ## How the Sixth Army Came to Be at Stalingrad
 

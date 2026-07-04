@@ -6,15 +6,15 @@ date: 2017-04-01
 categories: ["Travel"]
 tags: ["USA Travel", "Florida", "Family Travel", "Outdoors", "Itineraries"]
 excerpt: "Florida with kids beyond the parks: swim with manatees, float the springs, snorkel the Keys, and meet gators safely in the Everglades on a broader trip."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2017-04-01
+lang: en
 ---
-
 The question most parents actually ask is not which theme park to pick first. It is quieter and more useful than that: what does a Florida trip look like once you drive away from the turnstiles? Planning Florida with kids around the parks alone is the default, and it leaves the best of the state unopened. The manatees, the clear-water springs, the coral of the Keys, and the sawgrass of the Everglades sit within a few hours of the resort corridor, and almost none of the crowds who fly in for the parks ever see them. This guide is about that other Florida, the one that rewards a family willing to point the car somewhere less obvious.
 
-![A family wading in a shallow, spring-fed Florida river with clear turquoise water and cypress trees along the bank](/assets/images/blog/blog-01.webp)
+![A family wading in a shallow, spring-fed Florida river with clear turquoise water and cypress trees along the bank](/assets/images/blog/blog-92.webp)
 
 The defining tradeoff is simple to state and easy to get wrong. A parks-only trip is predictable, air-conditioned, and expensive, and it hands your children a version of Florida that could be assembled anywhere. The broader trip asks more of you, more driving, more sunscreen, more planning around tides and water temperature, and in exchange it gives kids a day they will actually remember: a manatee surfacing an arm's length away, a swim in water so clear the bottom looks close enough to touch, a ranger holding up a live snake at a visitor center while a heron stalks the parking lot. The parks are engineered wonder. The other Florida is the real thing, and it is cheaper. This is a plan for folding both into one trip without spending the whole vacation behind a windshield.
 

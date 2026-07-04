@@ -6,15 +6,15 @@ date: 2026-06-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Allusion", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Allusion in The Great Gatsby is a compression device: one reference, from Trimalchio to the son of God, imports meaning the novel never has to state itself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-29
+lang: en
 ---
-
 A single proper noun can make a paragraph carry the weight of a book it never quotes. When Nick calls the end of Gatsby's party-throwing summer the close of "his career as Trimalchio," one borrowed name folds an entire Roman satire about a vulgar, newly rich host into a Long Island lawn, and the reader who catches it suddenly reads the whole social season differently. That move is allusion, and studying allusion in The Great Gatsby means studying how Fitzgerald gets a scene to draw on the weight of everything it points to without stopping to explain a word of it. The technique is a compression device, and it is one of the quietest, most efficient engines in the novel.
 
-![Allusion in The Great Gatsby explained, from Trimalchio to the son of God - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Allusion in The Great Gatsby explained, from Trimalchio to the son of God - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 Most readers meet these references without registering them as a method. They notice the green light and the eyes of Doctor T. J. Eckleburg because the novel returns to those images and lights them up. Allusion works in the opposite direction. It hides in a single clause, imports its meaning silently, and moves on before you can ask where the extra resonance came from. Fitzgerald never footnotes Trimalchio, never pauses to gloss the son of God, never tells you who Belasco was. The reading below recovers the technique, maps the specific references, and defends a claim about what they add up to: what this article calls borrowed resonance, the way an allusion lets the novel mean more than it says by pointing at meaning it does not have to build.
 

@@ -6,15 +6,15 @@ date: 2026-06-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Symbolism", "Close Reading", "Literary Criticism"]
 excerpt: "Color as a literary device in Gatsby is a coded craft tool: Fitzgerald plants and repeats hues so consistently they become a second language for readers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 40
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-06-08
+lang: en
 ---
-
 Read the first page of Fitzgerald's novel with a pencil and you will notice something before you can name it: the prose keeps handing you paint. A lawn is described by its color before its size, a dress by its shade before its cut, a light across the bay by its single quality of greenness before anything else about it. By the last page you have absorbed a whole spectrum without being told you were learning one. That quiet training is the subject here. Color as a literary device in Gatsby is not decoration and not a scavenger hunt of hidden meanings; it is a method, a way of building an argument out of hues so that the palette does analytical work the sentences never openly claim to do.
 
-![The color device in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The color device in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 Most readers meet color in the novel the wrong way around. They are handed a list: green is hope, white is false purity, yellow is corrupt money, grey is death. The list is not wrong, but it treats the result as the technique, and it teaches a reader to stop at translation. This article is about the tool rather than the translations. What did Fitzgerald actually do with color, sentence by sentence, that turned a handful of ordinary adjectives into a system a first-time reader can feel and a careful reader can defend? The answer is craft: placement, repetition, restraint, and consistency, deployed until color becomes legible as a second language. If you want the meanings of each color laid out, the [complete account of color symbolism in The Great Gatsby](/2025/07/07/color-symbolism-great-gatsby/) does that survey. Here the question is how the device is engineered.
 

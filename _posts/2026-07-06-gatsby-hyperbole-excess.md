@@ -6,15 +6,15 @@ date: 2026-07-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Hyperbole and excess in Fitzgerald's style turn overstatement into method: the swelling prose mirrors Gatsby's world so the eventual emptiness lands harder."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-07-06
+lang: en
 ---
-
 Read the party scenes in Chapter 3 out loud and something happens to your breathing. The sentences swell. Caterers arrive with several hundred feet of canvas, oranges turn into pulpless halves by the crate, an orchestra becomes a whole pit of instruments, and the prose keeps adding when a plainer writer would have stopped. Hyperbole and excess in Fitzgerald's style are not accidents of an excited young author who could not edit himself. They are a controlled technique, an overstatement calibrated to match a world built on overstatement, and the central argument of this article is that the excess in the writing is a diagnosis of the excess in the life. The prose does not merely describe Gatsby's extravagance; it performs it, and it swells on purpose so that the collapse, when it comes, can be measured against the height from which everything falls.
 
-![Hyperbole and excess in Fitzgerald's style in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hyperbole and excess in Fitzgerald's style in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 Most readers meet these passages as decoration, the glittering surface a study guide summarizes in a sentence before hurrying on to theme. That reading throws away the technique. The overstatement is doing analytical work: it exposes the gap between the scale of Gatsby's gesture and the smallness of what he is reaching for, and it trains the reader to feel abundance and hollowness in the same breath. To read the excess as a flaw is to miss that Fitzgerald controls it exactly, turning it off at the deaths and the funeral, so that the two registers, the swollen and the bare, define each other. This article treats hyperbole and excess as a craft choice and shows how the choice is made, sentence by sentence.
 

@@ -6,12 +6,12 @@ date: 2001-04-17
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Geography", "World Geography", "Climatology", "Oceanography", "Geomorphology", "Physical Geography"]
 excerpt: "UPSC World Geography guide covering climatology, oceanography, geomorphology, Koppen classification, ocean currents and plate tectonics for Prelims and Mains."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2001-04-17
+lang: en
 ---
-
 UPSC World Geography is the portion of the syllabus that quietly decides the fate of your General Studies Paper 1 score in Prelims and your GS1 physical geography answers in Mains, and yet it is the portion most aspirants either fear as impossibly technical or dismiss as too small to bother with. You have probably sat with a textbook diagram of ocean currents or a Koppen climate map and felt the familiar sinking sensation of not knowing where to begin, how deep to go, or which of the hundred sub-topics will actually be tested. That confusion is not a reflection of your ability. It is a reflection of how badly this subject is usually taught, as a disconnected list of facts to memorise rather than as a coherent system of cause and effect that, once understood, becomes almost impossible to forget.
 
 This guide exists to fix exactly that. The three pillars of physical geography, namely climatology, oceanography, and geomorphology, are not three separate burdens to be crammed. They are three views of a single planetary machine, and when you learn to see the connections between the interior heat that drives plate tectonics, the solar heat that drives the atmosphere, and the way those two energy sources sculpt every landform and ocean current on Earth, the entire subject collapses into something learnable in a few focused weeks rather than an endless slog.
@@ -20,7 +20,7 @@ By the time you finish reading, you will understand where world geography appear
 
 <!--more-->
 
-![UPSC World Geography Complete Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC World Geography Complete Guide - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 Before we begin, one mindset correction is worth stating plainly. Physical geography rewards understanding far more than rote recall. An aspirant who memorises that the Gulf Stream is a warm current has learned one disposable fact. An aspirant who understands why trade winds push equatorial water westward, why that water piles up and deflects poleward, and why the resulting current warms the coast of northwestern Europe has learned a framework that answers a dozen possible questions and cannot be forgotten under pressure. Everything that follows is designed to build that second kind of knowledge.
 

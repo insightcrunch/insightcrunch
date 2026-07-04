@@ -4,18 +4,18 @@ title: "Dunkirk: Ramsay's Operation Dynamo May 1940"
 page_title: "Dunkirk: Vice Admiral Bertram Ramsay's Operation Dynamo May 26 Through June 4 1940 and the Evacuation of 338,226 Allied Troops"
 date: 2006-10-15
 last_updated: 2006-10-15
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["bertram-ramsay", "decision-reconstruction", "european-theater", "1940", "dunkirk-evacuation", "united-kingdom"]
 image: /assets/images/blog/blog-09.webp
 excerpt: "Ramsay had nine days to lift some 400,000 trapped Allied troops off Dunkirk. He got 338,226 out. Military vessels did most. The little ships did the rest."
 slug: "dunkirk-ramsay-operation-dynamo-may-1940"
 reading_time: 56
+lang: en
 ---
-
 Vice Admiral Bertram Ramsay signed the order that began Operation Dynamo at 6:57 in the evening of May 26, 1940, from a chalk-cut room beneath Dover Castle that had once housed an electrical generator. The Admiralty had asked him for a plan to lift perhaps 45,000 men off the French coast before the enemy closed the last roads to the sea. Nine days later his ships had carried 338,226 soldiers back to England. Almost nobody in the room that evening believed the higher figure was reachable, and the man who signed the order least of all.
 
-![Vice Admiral Bertram Ramsay directing the Operation Dynamo evacuation of Allied troops from the Dunkirk beaches and East Mole, May 1940](/assets/images/blog/blog-09.webp)
+![Vice Admiral Bertram Ramsay directing the Operation Dynamo evacuation of Allied troops from the Dunkirk beaches and East Mole, May 1940](/assets/images/blog/blog-79.webp)
 
 <!--more-->
 

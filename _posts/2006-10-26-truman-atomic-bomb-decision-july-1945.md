@@ -4,20 +4,20 @@ title: "Truman's Atomic Bomb Decision: July 1945"
 page_title: "Truman's July 1945 Atomic Bomb Decision: The Pacific Theater Context and the Six Options Stimson's Interim Committee Considered"
 date: 2006-10-26
 last_updated: 2006-10-26
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["harry-truman", "decision-reconstruction", "pacific-theater", "1945", "atomic-bomb", "united-states"]
 image: /assets/images/blog/blog-07.webp
 excerpt: "Truman inherited the atomic bomb on April 12, 1945, and formally approved its use on July 25. Between those dates, six options were weighed and five rejected."
 slug: "truman-atomic-bomb-decision-july-1945"
 reading_time: 56
+lang: en
 ---
-
 Harry Truman had been President for thirteen days when Henry Stimson walked into the Oval Office on April 25, 1945, and told him that the United States was building a weapon capable of destroying an entire city with a single bomb. Truman had not known the weapon existed in any detail until that afternoon. Three months later, on July 25, a directive left the War Department authorizing its employment on a Japanese city on or after August 3. In the interval between those two dates, an appointed body called the Interim Committee generated and examined six distinct courses of action for what the United States might do with the finished device, and five of the six were set aside.
 
 This article reconstructs that interval as a decision, not as a moral verdict. It works within the decision-reconstruction framework: who sat in the room, what evidence they held, which options they enumerated, and why each rejected option was rejected. The frame is deliberately the Pacific theater and the machinery of committee deliberation rather than the presidency as an institution, which the US Presidents series treats through the lens of executive authority. The claim this article defends is narrow and specific. Of the six options the Interim Committee weighed, five were discarded on grounds of operational feasibility peculiar to the summer of 1945 rather than through sustained ethical argument, and the committee architecture that produced and recorded those alternatives was itself the product of the Allied habit of deciding by assembled counsel. That habit did real work here. It also reached its limit here.
 
-![Harry Truman and Henry Stimson reviewing the Interim Committee's six options for the atomic bomb in July 1945](/assets/images/blog/blog-07.webp)
+![Harry Truman and Henry Stimson reviewing the Interim Committee's six options for the atomic bomb in July 1945](/assets/images/blog/blog-74.webp)
 
 ## The Pacific theater as the decision inherited it
 

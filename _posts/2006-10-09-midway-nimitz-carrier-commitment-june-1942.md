@@ -4,18 +4,18 @@ title: "Midway: Nimitz's June 1942 Carrier Commitment"
 page_title: "Midway: Admiral Chester Nimitz's May 1942 Decision to Commit All Three Available Carriers on Rochefort's Codebreaking Intelligence"
 date: 2006-10-09
 last_updated: 2006-10-09
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["chester-nimitz", "decision-reconstruction", "pacific-theater", "1942", "battle-of-midway", "united-states"]
 image: /assets/images/blog/blog-10.webp
 reading_time: 57
 excerpt: "Rochefort said the code group AF meant Midway. Washington disagreed. Nimitz backed Station HYPO, sortied three carriers, and ambushed four. The Pacific turned."
 slug: "midway-nimitz-carrier-commitment-june-1942"
+lang: en
 ---
-
 On the last week of May 1942, Admiral Chester Nimitz did something that ran against the grain of every cautious instinct a fleet commander is trained to protect. Told by a windowless basement office beneath Pearl Harbor that the Japanese Combined Fleet would strike Midway atoll in the first week of June, and told by his own service's senior cryptanalytic bureau in Washington that the basement might be wrong, he chose to believe the basement. He committed every operational aircraft carrier the United States possessed in the Pacific, three flight decks against a Japanese force built around four, and he positioned them northeast of a coral speck barely two miles long to spring an ambush on a fleet that did not know it was being watched. Six days later the core of Japan's carrier striking arm was on the bottom of the Pacific, and the initiative in the largest ocean on earth had changed hands for good.
 
-![Admiral Chester Nimitz studying carrier dispositions at Pearl Harbor before committing three flight decks to the Midway ambush in June 1942](/assets/images/blog/blog-10.webp)
+![Admiral Chester Nimitz studying carrier dispositions at Pearl Harbor before committing three flight decks to the Midway ambush in June 1942](/assets/images/blog/blog-17.webp)
 
 <!--more-->
 

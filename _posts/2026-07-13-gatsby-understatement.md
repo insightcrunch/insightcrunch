@@ -6,15 +6,15 @@ date: 2026-07-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "Essay Writing"]
 excerpt: "Understatement and restraint in Gatsby show how Fitzgerald underplays the deaths and the empty funeral so flat narration wounds far deeper than melodrama."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-07-13
+lang: en
 ---
-
 The most violent moments in Fitzgerald's novel are also its quietest. A woman is struck down on a dusty road, a man is shot in his own swimming pool, and the prose that reports these things barely raises its voice. Understatement and restraint in Gatsby are not a failure of feeling but a deliberate calibration of it: the writer pulls back exactly where a lesser book would push forward, and the withholding does the wounding. This is one of the defining Fitzgerald literary techniques, and it is the counterweight that keeps the novel's famous lyric excess from collapsing into mere decoration. Where the parties shimmer and the sentences soar, the catastrophes arrive flat, plain, and almost offhand, and that flatness is where the grief lives.
 
-![Understatement and restraint in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Understatement and restraint in The Great Gatsby](/assets/images/blog/blog-94.webp)
 
 Readers often praise Fitzgerald for his beauty and forget his discipline. The lush passages get quoted on posters; the restrained ones do the structural labor. A novel that only glittered would exhaust itself. What makes the book endure is the way it knows when to stop performing, when to let a single unadorned sentence carry a weight that no amount of ornament could bear. This article takes that discipline seriously. It defines restraint as a craft choice, tracks it through the deaths and the funeral where it works hardest, sets it against the alternative Fitzgerald refused, and shows how the technique shapes what a reader feels and how a student can write about it.
 

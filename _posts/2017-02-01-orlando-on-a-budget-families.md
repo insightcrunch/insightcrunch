@@ -6,15 +6,15 @@ date: 2017-02-01
 categories: ["Travel"]
 tags: ["USA Travel", "Orlando", "Theme Parks", "Florida", "Budget Travel", "Family Travel"]
 excerpt: "Orlando on a budget for families comes down to two big levers, park tickets and lodging. Here is the honest, ranged cost math and how to cut the family bill."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2017-02-01
+lang: en
 ---
-
 Orlando on a budget for families is not about clipping coupons or eating peanut butter sandwiches in a parking lot. It is about understanding that two decisions, made before you leave home, set roughly eighty percent of the final bill, and that almost every small tip you will read elsewhere fights over the remaining twenty. Those two decisions are the theme park tickets you buy and the kind of place you sleep in. Get those right and a household of four or five can enjoy the parks, the pool, the ice cream, and the character breakfast without the trip turning into a financial event you spend the next year recovering from. Get them wrong and no amount of skipping souvenirs will save you.
 
-![Orlando on a budget for families, a cost breakdown and savings guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Orlando on a budget for families, a cost breakdown and savings guide - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 This guide does the math the way a parent actually needs it done. It works at two spending levels, a shoestring plan for a household watching every dollar and a comfortable plan for one that wants a few splurges without waste, and it keeps every number ranged and durable because gate prices, resort rates, and airfare all drift. What does not drift is the shape of the spending: the order of the levers, the size of each one relative to the others, and where the real savings hide. A shoestring family week for four, staying off-site with a kitchen and playing the ticket structure carefully, can land in a very different universe from a family that books an on-site deluxe room, buys the longest ticket with every add-on, and eats three sit-down meals a day inside the gates. The gap between those two universes is not luck. It is a series of choices you can see coming.
 
