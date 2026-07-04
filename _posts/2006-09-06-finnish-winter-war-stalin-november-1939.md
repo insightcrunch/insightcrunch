@@ -4,22 +4,22 @@ title: "Finnish Winter War: Stalin's November 1939"
 page_title: "Finnish Winter War: Stalin's October Through November 1939 Decision to Invade Finland and the Red Army Humiliation That Encouraged Hitler"
 date: 2006-09-06
 last_updated: 2006-09-06
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "decision-reconstruction", "european-theater", "1939", "winter-war-finland", "soviet-union"]
 image: /assets/images/blog/blog-01.webp
 excerpt: "Stalin demanded Finnish bases. Finland refused. The Red Army attacked with 450,000 troops, and three months later revealed to the world that it was broken."
 slug: "finnish-winter-war-stalin-november-1939"
 reading_time: "56 min read"
+lang: en
 ---
-
 On November 30, 1939, at roughly nine in the morning, Soviet artillery opened fire along the Karelian Isthmus and Soviet aircraft appeared over Helsinki. Joseph Stalin had ordered the Red Army across the Finnish frontier with something close to 450,000 men in the opening echelon, a force that would swell past a million before the fighting ended. He expected the campaign to take somewhere between ten days and three weeks. A puppet government had already been assembled in Moscow, ready to be installed once Helsinki fell. The Soviet leader was so confident of a rapid result that his commanders were warned against letting their columns stray across the Swedish border in the enthusiasm of pursuit.
 
 Three and a half months later, on March 12, 1940, Soviet and Finnish negotiators signed a peace in Moscow. Stalin got the territory he had demanded, and more. He also got roughly 126,000 dead soldiers against Finland's 25,000, a shattered international reputation for the Red Army, an expulsion from the League of Nations, and a watching German general staff that concluded the Soviet colossus was hollow. Within eighteen months Adolf Hitler would launch the largest land invasion in history partly on the strength of what the Winter War appeared to reveal.
 
 This article reconstructs the decision Stalin made in October and November 1939, and it argues a specific claim about that decision. The Winter War is the cleanest single-case demonstration in the entire war of what happens when a command architecture concentrates strategic judgment in one man who is insulated from professional objection. Stalin decided to invade on assumptions no serious general staff would have endorsed. When the invasion collapsed, and only when it collapsed, he began to consult professional soldiers, and Soviet performance recovered dramatically. The decision reconstruction that follows treats the Winter War as a controlled experiment in command versus committee, with the recovery phase serving as the control condition.
 
-![Soviet troops advancing through deep Finnish snow during the Winter War of 1939 to 1940, a decision Stalin made against professional military judgment](/assets/images/blog/blog-01.webp)
+![Soviet troops advancing through deep Finnish snow during the Winter War of 1939 to 1940, a decision Stalin made against professional military judgment](/assets/images/blog/blog-91.webp)
 
 ## The Security Problem Stalin Actually Faced
 

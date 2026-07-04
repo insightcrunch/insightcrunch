@@ -4,20 +4,20 @@ title: "Britain Declares War: Chamberlain September 3"
 page_title: "Britain Declares War: Chamberlain's September 1 to September 3 1939 Ultimatum Decision and the End of Appeasement"
 date: 2006-09-17
 last_updated: 2006-09-17
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 categories: ["Leisure"]
 tags: ["neville-chamberlain", "decision-reconstruction", "european-theater", "1939", "britain-declares-war", "united-kingdom"]
 image: /assets/images/blog/blog-14.webp
 reading_time: "56 min read"
 excerpt: "The Commons nearly revolted on September 2, 1939. The Cabinet forced Chamberlain to an ultimatum. At 11:15 a.m. September 3 he told Britain it was at war."
 slug: "britain-declares-war-september-3-1939"
+lang: en
 ---
-
 At 11:15 on the morning of Sunday, September 3, 1939, Neville Chamberlain sat at the Cabinet table inside 10 Downing Street, leaned toward a BBC microphone, and told the British people that the ultimatum his government had delivered to Berlin at nine o'clock that morning had expired without reply, and that in consequence "this country is at war with Germany." Twelve minutes later the air-raid sirens sounded over London. The alarm was false, a solitary friendly aircraft misidentified, but the timing gave the moment a theatrical exactness no dramatist would have dared invent. A prime minister who had staked his reputation on preserving peace had just announced its collapse, and the sky itself appeared to answer him.
 
 The conventional way to tell this story treats the broadcast as the act of a broken man honoring a commitment he had spent three years trying to avoid. That framing is not wrong, but it obscures the more interesting question, which is not whether Chamberlain declared war but who decided that he would. This article reconstructs the seventy-eight hours between the German attack on Poland at 4:45 a.m. on September 1 and the broadcast at 11:15 a.m. on September 3, and it defends a specific claim: Chamberlain did not lead Britain into the Second World War. His Cabinet and the House of Commons forced him into it, over his own preference for one further attempt at a negotiated conference. The declaration is therefore a clean early instance of the pattern this series traces across the whole conflict, in which a plural, committee-based command structure corrected the inclination of a single leader toward a decision that would have damaged the state he led.
 
-![Chamberlain at the Cabinet table in 10 Downing Street broadcasting the declaration of war on Germany, 11:15 a.m. September 3 1939](/assets/images/blog/blog-14.webp)
+![Chamberlain at the Cabinet table in 10 Downing Street broadcasting the declaration of war on Germany, 11:15 a.m. September 3 1939](/assets/images/blog/blog-07.webp)
 
 ## The Guarantee That Set the Trap
 

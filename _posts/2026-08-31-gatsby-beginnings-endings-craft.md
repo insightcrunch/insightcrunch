@@ -6,15 +6,15 @@ date: 2026-08-31
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Beginnings and endings as craft in Gatsby: how Fitzgerald builds the opening and closing to echo, frame, and answer each other across the whole novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-08-31
+lang: en
 ---
-
 A novel can win a reader on its first page and lose the memory of that page by its last. Fitzgerald refuses that fate. The book you finish is the book you started, folded back on itself, and the sensation of return you feel at the final sentence is not an accident of mood but the payoff of an engineered design. Reading beginnings and endings as craft in Gatsby means treating the opening paragraph and the closing paragraph as a single built object, two walls of one room, each shaped so the reader who reaches the end recognizes the place they entered. The frame is the achievement. The first page reserves judgment and promises hope; the last page delivers the verdict and turns hope into elegy; and the distance between those two positions is the whole novel measured in feeling.
 
-![Beginnings and endings as craft in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Beginnings and endings as craft in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 Most readers meet the opening and the closing as separate famous passages. The father's advice gets quoted in one context, the boats borne back against the current in another, and the two live in different corners of memory. That separation is a misreading of the design. Fitzgerald did not write a strong start and, thirty thousand words later, a strong finish. He built a bracket. The opening posture of reserved judgment and inherited advantage is the exact material the ending revises, and the ending's cadence of striving against a receding future is the exact hope the opening plants. To see the two as a matched pair is to see the novel's shape, and shape is where a short book becomes a permanent one.
 

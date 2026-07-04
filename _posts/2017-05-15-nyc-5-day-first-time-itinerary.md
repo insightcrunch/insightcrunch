@@ -6,15 +6,15 @@ date: 2017-05-15
 categories: ["Travel"]
 tags: ["USA Travel", "New York City", "City Guides", "Itineraries"]
 excerpt: "A 5-day New York City itinerary for first-timers that clusters each day by neighborhood, so you stop zigzagging on the subway and see far more of the city."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-05-15
+lang: en
 ---
-
 This 5-day New York City itinerary is built to solve the one problem that quietly wrecks most first-time trips: the hidden cost of moving. New York rewards travelers who see a whole area before they leave it and punishes the ones who chase famous names across the map, riding the subway forty minutes north for one photo and forty minutes back for another. The plan below groups every day around a single neighborhood cluster, orders the headline sights so you are never doubling back, and tells you exactly what to drop if you have three days instead of five. It is a plan you can follow, not a wish list you have to untangle at the hotel.
 
-![A first-time five-day New York City itinerary sequenced by neighborhood cluster, from Midtown and Central Park to Lower Manhattan, the museums, downtown, and Brooklyn.](/assets/images/blog/blog-01.webp)
+![A first-time five-day New York City itinerary sequenced by neighborhood cluster, from Midtown and Central Park to Lower Manhattan, the museums, downtown, and Brooklyn.](/assets/images/blog/blog-14.webp)
 
 By the end you will know which morning to spend near Times Square and which to spend at the harbor, why the Statue of Liberty ferry and the observation decks both reward an early arrival, how to fold a Broadway evening into a day you have already spent on your feet, and where the food and the day trips fit without derailing the sequence. The sights themselves are the easy part. Getting the order right is what turns five days into a trip that feels unhurried instead of a scramble that leaves you more tired than when you arrived.
 

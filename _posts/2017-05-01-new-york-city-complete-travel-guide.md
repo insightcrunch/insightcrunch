@@ -6,17 +6,17 @@ date: 2017-05-01
 categories: ["Travel"]
 tags: ["USA Travel", "New York City", "City Guides", "Itineraries", "Budget Travel", "Where to Stay"]
 excerpt: "A New York City travel guide that solves the real first-timer decisions: subway or car, which airport, which observation deck, and whether a pass pays off."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-05-01
+lang: en
 ---
-
 Most people plan a New York City trip backward. They start with a list of famous sights, the ones everyone photographs, and then try to string those sights together into days without ever asking the questions that actually decide how the trip feels: whether to move by subway or by car, which of three airports to fly into, how many days the place really needs, which observation deck to pay for, and whether a tourist pass earns back its price. Get those answers first and the sightseeing arranges itself. Get them wrong and you spend a chunk of a short, expensive trip stuck in traffic, standing in the wrong ticket line, or paying for a pass you barely use. This guide treats New York City as a set of decisions rather than a set of landmarks, because the decisions are the part the top search results usually skip.
 
 The defining tradeoff of the city is density against time. Everything you came to see sits close together by the standards of an American road trip, yet the sheer number of people, the length of the avenues, and the depth of the museums mean you cannot brute-force it. A traveler who accepts that the city rewards focus and punishes zigzagging will see more, spend less, and enjoy it more than one who tries to tick every borough in a weekend. So the first job of this page is orientation: how the city is laid out, how you move through it, and which recurring choices are worth thinking about before you book anything.
 
-![New York City complete travel guide for first-time visitors, subway, decks, and passes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![New York City complete travel guide for first-time visitors, subway, decks, and passes - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The single most useful thing to internalize before arrival is that New York City runs on the subway and your feet. That is the rule the rest of the trip hangs on, and it is the one most first-timers resist because they arrive with the instinct to rent a car or to hail a cab for every hop. Skip the car, learn to tap into the subway, and plan your days so you are walking a neighborhood rather than crossing the city over and over, and the whole visit gets cheaper, faster, and far less stressful. The sections below build out from that rule to the airports, the decks, the passes, the neighborhoods to base in, and the experiences actually worth your limited hours.
 

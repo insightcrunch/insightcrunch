@@ -6,17 +6,17 @@ date: 2001-03-25
 categories: ["Industry"]
 tags: ["UPSC", "International Relations", "Foreign Policy", "GS Paper 2", "Indian Diplomacy", "Bilateral Relations"]
 excerpt: "UPSC International Relations complete guide covering foreign policy evolution, bilateral ties, and multilateral diplomacy for confident GS2 answer writing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-03-25
+lang: en
 ---
-
 UPSC International Relations is the section of the Civil Services syllabus that aspirants most often underestimate and most consistently underperform in, and the reason is almost never a shortage of information. The reason is that International Relations rewards a way of thinking that ordinary current affairs consumption never builds. You can read every foreign policy headline for two years, memorise the membership of every grouping from BRICS to the Quad, and still produce a Mains answer that reads like a newspaper summary rather than the analysis a discerning evaluator wants to reward. That gap between knowing what happened and being able to explain why it matters for India is where most aspirants quietly lose fifteen to twenty marks in General Studies Paper 2, marks that separate a rank inside the reserved list from a rank that converts into an IAS allotment.
 
 This guide exists to close that gap completely. It is written for the aspirant who is tired of scattered PDFs, half-explained doctrines, and coaching handouts that list bilateral visits without ever teaching the underlying logic of Indian diplomacy. By the time you finish reading, you will understand how India's foreign policy evolved from Nehruvian non-alignment to contemporary multi-alignment, how each major bilateral relationship actually works beneath the summit photographs, how multilateral platforms fit into India's strategic calculus, and, crucially, how to convert all of this into structured, high-scoring answers under examination pressure.
 
-![UPSC International Relations complete guide for GS Paper 2 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC International Relations complete guide for GS Paper 2 - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 Treat this article as your single reference for the International Relations component of your preparation. Read it slowly, return to individual sections as your current affairs reading throws up new developments, and use the frameworks here to organise everything you encounter. The goal is not to memorise this guide but to internalise its analytical architecture, so that any new event, from a summit declaration to a border standoff, slots neatly into a structure you already understand.
 

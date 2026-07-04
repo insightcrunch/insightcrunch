@@ -6,19 +6,19 @@ date: 2001-02-22
 categories: ["Industry"]
 tags: ["UPSC", "Constitutional Amendments", "Indian Polity", "Article 368", "Basic Structure", "Prelims Mains"]
 excerpt: "UPSC Constitutional Amendments guide covering major amendments chronologically and thematically, frequently tested provisions, and Mains answer writing method"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-02-22
+lang: en
 ---
-
 UPSC Constitutional Amendments form one of the most reliably tested territories in the entire Civil Services Examination, appearing year after year in Prelims through direct factual questions and in Mains through analytical prompts that demand you connect a specific change to the wider constitutional story. The aspirants who treat amendments as a scattered list of numbers to be memorised the night before the paper produce brittle recall that collapses under the slightest twist in phrasing. The aspirants who understand each change as a response to a political moment, a judicial confrontation, or a social demand carry a durable mental map that lets them answer any question, however it is framed. This guide is built to move you from the first group into the second.
 
 <!--more-->
 
 The distinction matters because of how the examiner thinks. A poorly prepared candidate can tell you that the Forty Second altered the Preamble, but freezes when asked why that alteration mattered or what undid parts of it two years later. A well prepared candidate reads the same question and immediately places it inside the emergency era, the judicial pushback, and the restorative wave that followed. Both candidates learned the same fact; only one built the connective tissue that converts a fact into a mark. Across Prelims and Mains, the examiner consistently rewards the second kind of understanding, and this resource is organised to build exactly that.
 
-![UPSC Constitutional Amendments Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Constitutional Amendments Guide - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 By the end of this guide you will understand the amendment procedure under Article 368, the three difficulty tiers that govern how a change is passed, the basic structure doctrine that limits what can be changed at all, a chronological walk through the landmark changes from 1951 to the most recent, a thematic grouping that makes revision efficient, the amendments most frequently tested in the objective paper, and a method for deploying amendment knowledge in descriptive answers. The broader polity foundation sits in the [UPSC Indian polity topic guide](/2001/05/05/upsc-indian-polity-topic-guide/), the constitutional and parliamentary depth in the [UPSC GS2 constitution and parliamentary system guide](/2002/11/09/upsc-gs2-constitution-polity-parliamentary-system/), and the objective paper approach in the [UPSC Prelims polity and governance strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/) article.
 

@@ -8,12 +8,12 @@ tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Modernism", "Close Reading", 
 image: /assets/images/blog/blog-01.webp
 excerpt: "Modernist technique in The Great Gatsby fuses fragmentation, unreliable narration, and symbolic compression into a compact, disillusioned masterwork of its age."
 reading_time: 38
-author: "Insight Crunch Team"
+author: "amanda-ross"
+lang: en
 ---
-
 Modernist technique in The Great Gatsby is the reason a short book about a bootlegger and a green light still reads as one of the defining works of its century. Most readers meet the novel as a love story with a sad ending, and that is a fair description of its surface. It is also a description that misses almost everything the book is doing. Beneath the romance sits a machine assembled from the signature methods of literary modernism: a narrator who cannot be fully trusted, a story told out of order, images that carry more meaning than any explanation could, and a vision of the world darkened by a war the novel never directly describes. Learn to see those methods and the book stops being a pretty tragedy and becomes something harder and stranger, a piece of high craft that gathers an entire movement into fewer than two hundred pages.
 
-![Modernist technique in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Modernist technique in The Great Gatsby](/assets/images/blog/blog-99.webp)
 
 This article treats the modernist methods as a single connected system rather than a checklist of devices. The goal is not to prove that a label applies but to show how the techniques operate, why Fitzgerald reached for them, and what they do to a reader who submits to them. Along the way it builds a compact frame for the whole discussion, the argument that Gatsby is modernism made economical, the experimental toolkit of the age harnessed to a tight and readable form. That frame is the thing worth carrying into an essay or a discussion, because it turns a scattered set of observations into a claim you can defend.
 

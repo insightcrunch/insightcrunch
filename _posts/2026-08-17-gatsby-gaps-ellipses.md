@@ -6,17 +6,17 @@ date: 2026-08-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Gaps, ellipses, and the unsaid in Gatsby show how Fitzgerald withholds crimes, elides key events, and lets silence carry meaning as active, deliberate craft."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-08-17
+lang: en
 ---
-
 Some of the most important facts in The Great Gatsby are the ones Fitzgerald never states. Readers never watch Gatsby earn his fortune, never sit in on the deal that built the mansion, never hear the private words that pass between him and Daisy at the emotional center of their affair. The novel's method of gaps, ellipses, and the unsaid in Gatsby turns these absences into instruments, so that what the prose withholds performs as much narrative work as what it reports. This is the craft of omission, and every important gap in the book is placed on purpose.
 
 Approach the book as a machine for controlling knowledge and the pattern becomes clear. Fitzgerald hands the reader a narrator who admits at the outset that he is "inclined to reserve all judgements," then builds a whole novel around information that is deferred, glimpsed sideways, or never supplied at all. The blanks are not failures of a young author still learning his trade. They are the load-bearing walls of the design.
 
-![The technique of gaps, ellipses, and the unsaid in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The technique of gaps, ellipses, and the unsaid in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 Once you learn to read the silences, the book stops looking like a simple tragedy of a man and a woman and starts looking like a puzzle the reader is invited to assemble. The gaps are where Fitzgerald puts the reader to work, and the meaning a reader carries out of the novel is partly of the reader's own making. That is the argument this analysis defends: omission in Gatsby is active technique, not missing content, and the book's most famous effects depend on it.
 

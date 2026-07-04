@@ -4,18 +4,18 @@ title: "Munich Agreement: Chamberlain's September 1938"
 page_title: "Munich Agreement: Chamberlain's September 15 Through September 30 1938 Appeasement Decision and the Czechoslovak Betrayal"
 date: 2006-10-04
 last_updated: 2006-10-04
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 categories: ["Leisure"]
 tags: ["neville-chamberlain", "decision-reconstruction", "european-theater", "1938", "munich-agreement", "united-kingdom"]
 image: /assets/images/blog/blog-11.webp
 excerpt: "Chamberlain flew to Germany three times in two weeks, returned waving 'peace for our time,' and handed Hitler the Sudetenland. Prague was never consulted."
 slug: "munich-agreement-chamberlain-september-1938"
 reading_time: "57 min read"
+lang: en
 ---
-
 At sixty-nine years of age, Neville Chamberlain had never flown in an aircraft before September 15, 1938. On that morning he boarded a Lockheed Electra at Heston Aerodrome west of London and flew to Munich, then continued by train and car to Berchtesgaden, where Adolf Hitler waited in the mountain retreat above the town. The British Prime Minister had decided that the way to prevent a European conflict over Czechoslovakia was to negotiate personally, face to face, with the man threatening to start one. Over the next fifteen days he would fly to Germany twice more. He would return from the last trip holding a single sheet of paper that he waved to the cameras and read aloud from the window of 10 Downing Street, promising the crowd "peace for our time."
 
-![Neville Chamberlain returning from Munich holding the Anglo-German declaration at Heston Aerodrome, September 30 1938](/assets/images/blog/blog-11.webp)
+![Neville Chamberlain returning from Munich holding the Anglo-German declaration at Heston Aerodrome, September 30 1938](/assets/images/blog/blog-55.webp)
 
 The paper was worthless within six months. On March 15, 1939, German troops occupied the remainder of Czechoslovakia, and the guarantee of the reduced Czechoslovak borders that Britain and France had extended at Munich evaporated without a shot fired to honor it. This article reconstructs Chamberlain's September 1938 decision sequence with the granularity the decision deserves: the three flights, the escalating demands at each meeting, the options rejected, the counsel taken, and the specific calculations Chamberlain believed he was making. The analytical claim it defends is uncomfortable for the series house thesis and is offered as a deliberate complication to it. Munich was not a decision produced by a single willful autocrat overriding cautious advisers. It was the product of Allied committee architecture operating normally, taking counsel from the Cabinet, the Foreign Office, the Treasury, the service chiefs, the dominions, and the French government, and it produced what is now near-universally recognized as a strategic catastrophe. The lesson Munich teaches is that committees produce better decisions than autocrats only when the committee's shared threat model is correct. When the threat model is wrong, committee architecture does not correct the error. It ratifies it with the full confidence of consensus.
 

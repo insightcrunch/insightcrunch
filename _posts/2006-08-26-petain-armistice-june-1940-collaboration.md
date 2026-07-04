@@ -4,20 +4,20 @@ title: "Pétain's Armistice: June 1940 Collaboration"
 page_title: "Pétain's Armistice: The June 10 Through June 22 1940 French Cabinet Decision and the Reynaud-Pétain Struggle That Chose Vichy"
 date: 2006-08-26
 last_updated: 2006-08-26
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["philippe-petain", "decision-reconstruction", "european-theater", "1940", "french-armistice", "france"]
 image: /assets/images/blog/blog-03.webp
 excerpt: "Reynaud wanted to fight on from North Africa; Pétain wanted an armistice. Reynaud resigned on June 16, and Pétain requested German terms the next morning."
 slug: "petain-armistice-june-1940-collaboration"
 reading_time: 57
+lang: en
 ---
-
 At 12:30 in the afternoon of June 17, 1940, an eighty-four-year-old marshal spoke to the French people over the radio from Bordeaux and told them the fighting had to stop. "I make to France the gift of my person to attenuate her misfortune," Philippe Pétain said, and then, in a phrasing his own foreign minister would spend years regretting, he told the army it must "cease to fight" before any armistice terms had been requested, let alone agreed. Soldiers still holding their positions read the words as an order to lay down arms. Whole units did. The broadcast did not end a war so much as certify that the political will to continue it had collapsed inside a single room the night before.
 
 That room was the French Cabinet, and this is the reconstruction of what happened inside it between June 10 and June 22, 1940. The decision to seek an armistice was not made by Pétain alone, and it was not imposed by Germany. It was produced by a deliberating body that argued, canvassed opinion, tested a majority, and chose. Prime Minister Paul Reynaud wanted to move the government to French North Africa and fight on with the fleet, the empire, and the air force. Pétain and General Maxime Weygand wanted terms. The Cabinet split, Reynaud could not hold a majority, and on the night of June 16 he resigned rather than sign what he would not endorse. President Albert Lebrun called Pétain, who had his ministers chosen before morning. This article defends a specific and uncomfortable claim: the French armistice is the second clear case in this series, after the Munich Agreement, in which Allied committee architecture produced a catastrophe. The committee worked exactly as committees are supposed to work. Its threat model was wrong.
 
-![Marshal Philippe Pétain and the French Cabinet debate the June 1940 armistice decision at Bordeaux](/assets/images/blog/blog-03.webp)
+![Marshal Philippe Pétain and the French Cabinet debate the June 1940 armistice decision at Bordeaux](/assets/images/blog/blog-111.webp)
 
 ## Setup: A Government in Retreat
 

@@ -6,15 +6,15 @@ date: 2017-07-15
 categories: ["Travel"]
 tags: ["USA Travel", "New York City", "Family Travel", "City Guides", "Itineraries"]
 excerpt: "New York City with kids works when you anchor on Central Park, the big museums, and a family show, then plan the subway and stroller logistics around them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-07-15
+lang: en
 ---
-
 The real question a parent asks before booking New York City with kids is not what to see. It is whether the city that looks relentless on a screen, all crowds and traffic and stairs, can actually be enjoyable with a four-year-old in a stroller or a nine-year-old who tires by mid-afternoon. The honest answer is yes, and the reason is simpler than the skyline suggests. A New York family trip has a core that works at almost every age, and the trick is building the days around that core rather than chasing a landmark checklist that will grind the whole group down by the second afternoon. Get the core right and the city becomes one of the most rewarding family destinations in the country. Get it wrong, treat it like an adult sightseeing sprint with children attached, and you will spend the trip managing meltdowns on subway platforms.
 
-![Best NYC activities with kids, a family guide to New York City by age - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Best NYC activities with kids, a family guide to New York City by age - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 That core is three things: Central Park, the big museums, and one family show, with the subway logistics planned around them rather than left to chance. Call it the Central-Park-and-museum core. Central Park is the release valve, the place where kids run and climb and you stop paying for everything by the minute. The two great museums, the American Museum of Natural History and the Metropolitan Museum of Art, are indoor anchors that hold a child's attention far longer than any observation deck and give you weather insurance at the same time. A single family show, whether a Broadway matinee or a puppet performance downtown, gives the trip a set-piece the kids will talk about for a year. Everything else, the Statue of Liberty, the observation decks, the Bronx Zoo, Coney Island, is an optional layer you add based on your children's ages and your appetite for logistics. This guide sorts all of it by what actually works with kids, and it is blunt about the parts that do not.
 

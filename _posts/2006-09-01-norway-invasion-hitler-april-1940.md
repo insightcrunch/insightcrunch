@@ -3,7 +3,7 @@ layout: post
 title: "Norway Invasion: Hitler's April 1940 Gambit"
 page_title: "Operation Weserübung: Hitler's December 1939 to April 1940 Decision to Invade Norway and Denmark"
 date: 2006-09-01
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-09-01
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "european-theater", "1940", "norway-invasion", "germany"]
@@ -11,11 +11,11 @@ image: /assets/images/blog/blog-02.webp
 excerpt: "Swedish iron ore reached Germany through ice-free Narvik each winter. Churchill moved to mine the route, so Hitler pre-empted on April 9 with six landings."
 slug: "norway-invasion-hitler-april-1940"
 reading_time: 57
+lang: en
 ---
-
 At roughly 5:00 a.m. on April 9, 1940, German warships, transports, and airborne detachments struck six Norwegian ports in a single coordinated window and rolled across the Danish border with almost no resistance. Oslo, Kristiansand, Stavanger, Bergen, Trondheim, and Narvik were all objectives that morning, spread across more than a thousand miles of coastline, from the Skagerrak to the Arctic Circle. Denmark capitulated within hours. It was the first genuinely combined-arms strategic operation of the war, blending sea transport, naval gunfire, paratroop landings, and rapid airfield seizure into one clock-driven plan. And it was, above all, a race. Winston Churchill, then First Lord of the Admiralty, had been pressing for months to mine Norwegian coastal waters and choke off the iron ore that fed German steel. The Royal Navy laid its mines on April 8. Hitler's fleet was already at sea when they did.
 
-![German cruiser and destroyer force approaching a Norwegian fjord during Operation Weserübung, April 9, 1940](/assets/images/blog/blog-02.webp)
+![German cruiser and destroyer force approaching a Norwegian fjord during Operation Weserübung, April 9, 1940](/assets/images/blog/blog-24.webp)
 
 This article reconstructs the decision, using the framework this series applies to every pivotal choice of the war: who deliberated, what they knew, which options they weighed, what they chose, and why. Operation Weserübung, the code name for the joint conquest of Norway and Denmark, is an unusually clean test of the series' central claim, that the Allied coalition fought by committee and the Axis fought by command. In the spring of 1940, command won the sprint. Hitler authorized the operation over minimal staff consultation, the Wehrmacht executed it with professional skill, and Germany secured its ore lifeline and a long fortified coastline. But the German navy paid a price at Weserübung that no single commander had properly counted, and that unpaid bill would come due five months later off the beaches of southern England. The Norway decision is therefore the rare case where the series' thesis holds asymmetrically: the command architecture produced the faster decision and the better execution, while the committee architecture, slower and clumsier in April, produced the correction that mattered by 1945.
 

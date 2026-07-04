@@ -6,15 +6,15 @@ date: 2026-07-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The catalogue technique in The Great Gatsby turns Nick's guest list into a mimetic device: you wade through names to feel the crowd's abundance and emptiness."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-07-20
+lang: en
 ---
-
 Read the opening of chapter four aloud and something happens to your breath. The sentences stop arguing and start accumulating. Name after name arrives, each dragging a small clause of scandal or drowning or divorce behind it, and by the time you reach the flat little sentence that closes the passage you have not been told the party was crowded and hollow. You have been made to feel crowded and hollow. That effect, produced by pure enumeration, is what this article is about. The catalogue technique in The Great Gatsby is Fitzgerald's use of the long, formal list, above all the roll of party guests, as a working craft device rather than as decorative filler, and once you see how the device performs its meaning you cannot unsee it anywhere in the book.
 
-![The catalogue technique in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The catalogue technique in The Great Gatsby](/assets/images/blog/blog-58.webp)
 
 Most readers skim the guest list. It looks like a phone book with jokes, a stretch of proper nouns to be waded across on the way back to the plot. This article argues the opposite: that the passage is one of the most controlled things in the novel, that its length is not an accident but the point, and that Fitzgerald is doing with a list what a lesser writer would try, and fail, to do with a paragraph of adjectives. The claim to carry away is compact. Fitzgerald writes a mimetic catalogue, a list that does not describe abundance and emptiness but enacts them, so the reader arrives at the meaning by living through the form.
 

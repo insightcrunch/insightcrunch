@@ -4,18 +4,18 @@ title: "Stalin Invades Poland: September 17 1939"
 page_title: "Stalin's Partition Move: The September 17 1939 Soviet Invasion of Eastern Poland Per the Molotov-Ribbentrop Secret Protocol"
 date: 2006-09-12
 last_updated: 2006-09-12
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "decision-reconstruction", "european-theater", "1939", "soviet-invasion-poland", "soviet-union"]
 image: /assets/images/blog/blog-15.webp
 excerpt: "German armies were already deep in Poland when Stalin moved. At 3:00 a.m. September 17 1939, some 600,000 Red Army troops crossed to seize the eastern half."
 reading_time: 56
 slug: "stalin-invades-poland-september-17-1939"
+lang: en
 ---
-
 At roughly two o'clock on the morning of September 17, 1939, the Polish ambassador in Moscow, Waclaw Grzybowski, was summoned to the Commissariat for Foreign Affairs and handed a note. It informed him that the Polish state and its government had ceased to exist, that all treaties between Poland and the Soviet Union were therefore void, and that the Red Army had been ordered across the frontier to protect the lives and property of the Ukrainian and Belorussian populations of eastern Poland. Grzybowski read it and refused to accept it. The Polish government was still functioning, he pointed out; the Polish army was still fighting; his own accreditation was still valid. His refusal changed nothing. An hour later, along a thousand-kilometer border, roughly six hundred thousand Soviet troops in two army groups began moving west into a country that Germany had invaded sixteen days earlier and that now had no capacity to defend its rear.
 
-![Red Army troops and armor advancing into eastern Poland after Stalin's September 17 1939 order under the Molotov-Ribbentrop secret protocol](/assets/images/blog/blog-15.webp)
+![Red Army troops and armor advancing into eastern Poland after Stalin's September 17 1939 order under the Molotov-Ribbentrop secret protocol](/assets/images/blog/blog-81.webp)
 
 This article reconstructs the decision behind that note: how Joseph Stalin chose the exact hour to execute the partition he had agreed to in August, why he waited sixteen days rather than moving on September 1, and what the timing reveals about how a command architecture makes war. The claim it defends is a paradoxical one for a series whose organizing thesis holds that the Allied coalition fought better by committee than the Axis fought by command. September 17 is a strong inverse case. Here two command architectures, Stalin's and Hitler's, coordinated a conquest with a speed and coherence that the Anglo-French committee sitting a few hundred kilometers to the west could not begin to match in the same fortnight. The reconstruction that follows takes that inversion seriously rather than explaining it away, and then shows precisely where the command advantage ran out. The gains Stalin banked in September 1939 were held for twenty-two months. In June 1941 they were lost in less than a week, and the recovery that followed required Stalin to build exactly the kind of consultative war-making structure he had bypassed in 1939.
 

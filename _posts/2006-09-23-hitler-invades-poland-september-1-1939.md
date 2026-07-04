@@ -4,18 +4,18 @@ title: "Hitler Invades Poland: September 1 1939"
 page_title: "Fall Weiss: Hitler's April Through September 1939 Decision to Invade Poland and the Gleiwitz Incident Pretext"
 date: 2006-09-23
 last_updated: 2006-09-23
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "european-theater", "1939", "invasion-of-poland", "germany"]
 image: /assets/images/blog/blog-13.webp
 excerpt: "Hitler ordered the attack for August 26, postponed when Mussolini balked, then struck September 1. The Gleiwitz ruse manufactured a Polish-aggression pretext."
 slug: "hitler-invades-poland-september-1-1939"
 reading_time: 59
+lang: en
 ---
-
 At 4:45 on the morning of September 1, 1939, the old training battleship Schleswig-Holstein, moored on a courtesy visit in the harbor of the Free City of Danzig, opened her forward guns on the small Polish garrison at the Westerplatte peninsula. The shells that fell on that spit of sand and pine were the first fired in a war that would kill somewhere between fifty and seventy million people over the following six years. Within the hour, roughly 1.5 million German soldiers were crossing the Polish frontier along its entire length, from Slovakia in the south to East Prussia in the north, preceded and accompanied by the largest concentration of air power yet committed to a single opening operation. Adolf Hitler had made his decision. The war he had been preparing since at least the spring of 1939, and arguably since the day he took power, had begun.
 
-![German troops at the Polish frontier as Fall Weiss opens on September 1 1939](/assets/images/blog/blog-13.webp)
+![German troops at the Polish frontier as Fall Weiss opens on September 1 1939](/assets/images/blog/blog-32.webp)
 
 This article reconstructs the decision to launch Fall Weiss, the German plan for the invasion of Poland, using the decision-reconstruction framework that anchors this series. The claim it defends is specific: the invasion of Poland is the purest available demonstration of the house thesis that Axis command architecture could generate a flawless tactical plan while remaining structurally incapable of catching a catastrophic strategic error. The Wehrmacht executed the operational campaign with professional brilliance. The political framework inside which that campaign was launched, the assumption that Britain and France would once again fail to honor a guarantee, was wrong, and no mechanism existed inside the German command system to force a reconsideration of that assumption before the guns fired. Hitler decided; the generals executed; the strategic misjudgment went uncorrected because there was no committee, no cabinet with teeth, no institutional counterweight positioned to correct it. That absence is the whole argument.
 

@@ -6,17 +6,17 @@ date: 2001-04-03
 categories: ["Industry"]
 tags: ["UPSC", "Science and Technology", "GS Paper 3", "ISRO", "Biotechnology", "Current Affairs"]
 excerpt: "UPSC Science and Technology complete guide covering ISRO space, defence, biotech, IT, AI, nuclear and nanotechnology with an application over theory strategy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2001-04-03
+lang: en
 ---
-
 UPSC Science and Technology is the section that quietly decides how many aspirants clear Prelims by a single mark and how many general studies answers in Mains read like a school textbook rather than a policy brief. You have almost certainly felt the peculiar anxiety it produces. You are not a scientist, the syllabus mentions frontier fields you last studied in an undergraduate lecture hall, and every coaching handout seems to bury you under reactor types, satellite names, and gene editing acronyms that refuse to stay in your memory. The result is a strange paralysis where you either ignore the area and gamble on the marks, or you over prepare the wrong way, memorising definitions the examiner never asks for while missing the application angle the examiner always rewards.
 
 This guide exists to end that paralysis. The core argument, which every section here will reinforce, is that the examination does not test whether you can explain how a nuclear reactor achieves criticality or how CRISPR cuts a DNA strand at the molecular level. It tests whether you understand what a technology does, why it matters to India, what problems it solves, what risks it creates, and how governance should respond. That is a shift from theory to application, and once you internalise it, the entire domain becomes smaller, more logical, and genuinely scoreable.
 
-![UPSC Science and Technology Complete Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Science and Technology Complete Guide - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 By the end of this guide you will understand exactly what the Civil Services Examination expects from you in this area, how the marks are distributed across the Prelims and the Mains, how to prepare each major domain from space and defence to biotechnology, computing, artificial intelligence, nuclear science, and nanotechnology, how to build a current affairs system that keeps you updated without drowning you, and how to convert all of it into answers that earn marks. The broader roadmap for the whole examination sits in the [complete civil services preparation guide](/2003/07/24/upsc-civil-services-complete-guide/), and the sharper Prelims specific tactics live in the [Prelims science and technology strategy](/2003/03/06/upsc-prelims-science-technology-strategy/) article, both of which complement what follows here.
 

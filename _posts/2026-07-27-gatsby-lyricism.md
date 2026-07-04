@@ -6,15 +6,15 @@ date: 2026-07-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Lyricism and the poetic line in Gatsby is a craft study of where Fitzgerald's prose rises into verse, the passages, devices, and cadences that make it sing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 40
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-07-27
+lang: en
 ---
-
 Read the last sentence of the novel aloud and something happens that does not happen with ordinary prose. The line lifts, gathers, and settles into a beat you can feel in the chest, and long after the plot has faded a reader can still hum the shape of it. That effect, prose that behaves like a poem, is the subject here. Lyricism and the poetic line in Gatsby names the register Fitzgerald reaches for at the book's emotional peaks, the moments when his sentences abandon the flat report of events and take on the rhythm, image density, and sound of verse. This is a craft study of that register: where it appears, how it is built, why Fitzgerald turns to it, and what a reader gains by hearing it as a deliberate technique rather than as vague literary prettiness.
 
-![Lyricism and the poetic line in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Lyricism and the poetic line in The Great Gatsby](/assets/images/blog/blog-81.webp)
 
 The claim this article defends is simple to state and worth holding onto through everything that follows. At its heights, Fitzgerald's prose takes on the rhythm and density of verse, so the lyricism is a register he reaches for at feeling's peaks rather than a coat of paint spread evenly over the book. The closing paragraphs earn their fame by being, in all but the way the words are broken into lines, a poem. Understanding that, and being able to show it at the level of the sentence, is what separates a reader who says the writing is beautiful from a reader who can explain the machinery of the beauty.
 

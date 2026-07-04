@@ -4,20 +4,20 @@ title: "Molotov-Ribbentrop Pact: August 1939"
 page_title: "Molotov-Ribbentrop Pact: Stalin's August 23 1939 Decision to Partner With Hitler and the Secret Protocol That Divided Eastern Europe"
 date: 2006-09-28
 last_updated: 2006-09-28
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "decision-reconstruction", "european-theater", "1939", "molotov-ribbentrop-pact", "soviet-union"]
 image: /assets/images/blog/blog-12.webp
 excerpt: "Stalin chose Hitler over Britain and France. The public pact was a non-aggression treaty. The secret protocol partitioned Poland, the Baltics, and Bessarabia."
 slug: "molotov-ribbentrop-pact-august-1939"
 reading_time: 57
+lang: en
 ---
-
 At roughly two o'clock in the morning on August 24, 1939, in a Kremlin room lit for the cameras, Joachim von Ribbentrop and Vyacheslav Molotov signed a non-aggression treaty between Nazi Germany and the Soviet Union. Joseph Stalin stood behind them, smiling. The photographs that circled the world the next day showed two regimes that had spent six years denouncing each other as civilizational enemies now shaking hands over a ten-year peace. What the photographs did not show, and what the Soviet government would deny for the next fifty years, was the second document signed that night: a secret protocol dividing the whole of the territory between Germany and Russia into spheres of influence. Poland was partitioned along a line of rivers before a single German soldier had crossed its border. Estonia, Latvia, Finland, and Bessarabia were assigned to Moscow. Lithuania was assigned to Berlin, then traded back a month later for more of Poland. Eight days after the signing, the Second World War began.
 
 This article reconstructs the decision Stalin made across the spring and summer of 1939, when the collective-security order that the Soviet Union had championed for a decade collapsed and Stalin chose, deliberately and against the grain of his own prior policy, to partner with the regime he considered his ideological antithesis. The claim defended here is specific and uncomfortable for the series' governing argument. The Molotov-Ribbentrop Pact is the clearest single case in the entire war where a unilateral command decision by a dictator outperformed a committee-coordinated decision by two democracies. Stalin decided alone, moved fast, and won the immediate contest. Britain and France deliberated through their cabinets, their general staffs, their alliance partners, and their imperial commitments, and they lost the bidding war for Soviet neutrality. The [InsightCrunch house thesis](/blog/munich-agreement-chamberlain-september-1938) that Allied committee architecture systematically produced better strategic outcomes than Axis single-point command survives this case, but it survives only across the full arc of the war rather than in the moment of August 1939. In that moment, command beat committee. Understanding why is the work of the reconstruction that follows, and understanding how the short-term Soviet victory turned into the near-catastrophe of June 1941 is the work of the verdict.
 
-![Stalin and Ribbentrop at the August 23 1939 signing of the Nazi-Soviet Non-Aggression Pact in the Kremlin, with the secret protocol dividing Eastern Europe](/assets/images/blog/blog-12.webp)
+![Stalin and Ribbentrop at the August 23 1939 signing of the Nazi-Soviet Non-Aggression Pact in the Kremlin, with the secret protocol dividing Eastern Europe](/assets/images/blog/blog-94.webp)
 
 ## The Collapse of Collective Security
 

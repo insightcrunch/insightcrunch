@@ -6,17 +6,17 @@ date: 2026-08-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "Craft & Technique", "American Literature"]
 excerpt: "How Fitzgerald builds suspense in Gatsby: the withheld identity, a delayed reunion, and the dread that turns a foretold ending into its forward momentum."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-08-24
+lang: en
 ---
-
 Everyone who reads *The Great Gatsby* knows roughly where it is going before it gets there. The narrator opens the book already changed by the events he is about to describe, already grieving, already sure that Gatsby "turned out all right at the end." So the puzzle of how Fitzgerald builds suspense in a novel that quietly announces its own outcome is one of the most instructive problems in the book. Suspense usually depends on not knowing what will happen. Here the reader senses catastrophe from the first pages, yet the pull forward never slackens. The tension is engineered from a different source, and learning to see that engine is one of the sharpest lessons the novel offers about narrative method.
 
 This article treats suspense as a made thing, a set of choices rather than a mood that happens to hang over the story. The argument it defends can be named in a phrase: dread instead of surprise. Because the retrospective frame signals the shape of the ending, Fitzgerald does not build tension from the question of *what* happens. He builds it from *how* and *when*, from a withheld identity that the reader keeps chasing and a doom that keeps drawing closer. Once you understand that trade, you understand why a short novel with a foretold ending reads faster than books three times its length.
 
-![The Great Gatsby suspense technique](/assets/images/blog/blog-01.webp)
+![The Great Gatsby suspense technique](/assets/images/blog/blog-117.webp)
 
 ## What Suspense Means in a Novel That Tells You the Ending
 

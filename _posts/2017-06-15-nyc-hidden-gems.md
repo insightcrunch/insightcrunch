@@ -6,15 +6,15 @@ date: 2017-06-15
 categories: ["Travel"]
 tags: ["USA Travel", "New York City", "City Guides", "Hidden Gems", "Neighborhoods"]
 excerpt: "New York City hidden gems sit off the tourist spine. Here are the neighborhoods and outer boroughs where the locals go, and the tourist traps to skip."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2017-06-15
+lang: en
 ---
-
 Most first visits to New York City happen inside a corridor about two miles long and a few avenues wide. It runs from the theaters around Times Square down past the Empire State Building to the shops of Fifth Avenue, with a loop over to the observation decks and a subway hop to the tip of the island for the harbor boats. That corridor holds real landmarks, and a first-timer should see some of them. The problem is that the corridor is also where the crowds are thickest, the food is worst per dollar, and the version of the city on display is the one built for people who will leave in three days. The New York City hidden gems that locals actually spend their weekends on sit almost entirely off that spine, in the neighborhoods below Fourteenth Street, up in Harlem, and across the rivers in Brooklyn and Queens, where the real city keeps its markets, its parks, its skyline views, and its cheap great food.
 
-![New York City hidden gems and the neighborhoods tourists miss, a local guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![New York City hidden gems and the neighborhoods tourists miss, a local guide - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The mental model that fixes a New York trip is simple, and it is worth stating plainly because it drives every recommendation below. Call it the outer-borough-and-off-avenue rule: the New York that locals love sits off the Midtown tourist spine, in the neighborhoods and outer boroughs most visitors never reach. Where the crowds concentrate, the experience thins out into costumed characters, chain restaurants with tourist markups, and gift shops. A few blocks off the avenue, or one subway ride under the river, the same money buys a better meal, a quieter park, and a view that costs nothing. This guide maps that geography: where the crowds actually are, which neighborhoods reward a wander, what each famous trap has a better local alternative to, and how much subway time the outer boroughs really cost you. The goal is not to talk you out of the icons. It is to give you a plan for the other three-quarters of your trip, the part that turns a generic sightseeing checklist into a couple of days you will actually remember.
 

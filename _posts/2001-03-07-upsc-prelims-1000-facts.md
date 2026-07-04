@@ -6,19 +6,19 @@ date: 2001-03-07
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Prelims Revision", "Static GK", "Quick Revision", "Prelims Facts"]
 excerpt: "Master 1000 most important UPSC Prelims facts organised subject wise for rapid final revision, drawn from PYQ analysis, the last night before Prelims resource"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2001-03-07
+lang: en
 ---
-
 The night before Prelims, you do not want a fresh textbook in your hands. You want a tight, trustworthy set of UPSC Prelims facts that you can sweep through in a few focused hours, confident that every point on the page has a real chance of appearing on the answer sheet the next morning. That single need, a curated compendium of the most frequently tested static points across every subject, is what this resource exists to serve. Most aspirants spend two years accumulating knowledge and then panic in the final week because nobody ever taught them how to compress a mountain of reading into a portable core of high-yield points.
 
 This is that core. What follows is a subject wise treasury of the thousand static points that repeat, cycle after cycle, in the objective stage of the Civil Services Examination. These are not obscure trivia designed to impress. They are the recurring, examiner-favourite details on the Constitution, on modern and ancient history, on physical and Indian geography, on the economy, on environment and ecology, on science and technology, and on the institutions and reports that the paper returns to year after year. Where a textbook gives you a hundred pages, this gives you the fifteen sentences those pages were quietly building towards.
 
 Treat this compendium the way a surgeon treats a checklist before an operation. You have already done the deep study; now you need a final, disciplined pass that fixes the retrievable points in short-term memory so they surface instantly under exam pressure. Read it slowly the first time, then faster on each subsequent revision, until the whole thing becomes a mental map you can walk through in your sleep.
 
-![UPSC Prelims 1000 Most Important Facts - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Prelims 1000 Most Important Facts - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 Before you begin, one honest caution. A fact bank is a revision tool, not a substitute for understanding. It works spectacularly for the aspirant who has already read the standard sources and now needs consolidation, and it works poorly for the one who hopes to shortcut two years of study into a weekend of cramming. If you have built your foundation through the process described in the [UPSC Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/), this compendium becomes the capstone that ties everything together. Read on, and let this be the resource you keep open on your screen in that last, decisive night.
 

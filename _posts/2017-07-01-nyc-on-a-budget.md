@@ -6,15 +6,15 @@ date: 2017-07-01
 categories: ["Travel"]
 tags: ["USA Travel", "New York City", "Budget Travel", "City Guides"]
 excerpt: "New York City on a budget is real: honest ranged cost math, the free icons that cost nothing, and the slice-and-subway moves that cut a daily bill fast."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2017-07-01
+lang: en
 ---
-
 Doing New York City on a budget is not a compromise or a consolation prize. It is a specific, learnable skill, and the reason it feels impossible is that most cost guides quote a hotel rate, add a restaurant tab, and let you extrapolate the terror from there. The real picture is more useful and much less bleak. A frugal traveler and a comfortable one can stand at the same railing on the Brooklyn Bridge, watch the same skyline, and walk away having spent wildly different amounts, because the city hands out some of its best experiences for nothing and feeds you cheaply by the slice if you let it. What follows is the honest math: where the money actually goes, what a day costs at two spending levels, and the handful of moves that move real dollars.
 
-![Where the money goes in New York City, a budget travel guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Where the money goes in New York City, a budget travel guide - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 Set the frame first. New York is expensive in exactly two categories and forgiving in most of the rest. Lodging is the dominant line, usually the single biggest number on any trip, and it swings harder by choice than anything else you will do. Food can be a fortune or a rounding error depending entirely on how you eat, and the gap between those two is the widest lever a visitor controls day to day. Transport, by contrast, is cheap if you ride the subway and expensive only if you insist on cabs. Attractions split into a large free tier and a smaller paid tier where a little selectivity saves a lot. Get lodging and food right and the trip bends toward affordable no matter what the headlines say.
 
