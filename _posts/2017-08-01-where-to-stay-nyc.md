@@ -6,15 +6,15 @@ date: 2017-08-01
 categories: ["Travel"]
 tags: ["USA Travel", "New York City", "City Guides", "Where to Stay", "Family Travel", "Budget Travel"]
 excerpt: "Where to stay in New York City comes down to a single rule: pay for location, not room size, and base near a subway line for the trip you actually want."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2017-08-01
+lang: en
 ---
-
 Deciding where to stay in New York City is the choice that quietly shapes every other choice you make on the trip, and most visitors get it backward. They shop for the biggest room at the best nightly rate, book something that photographs well, and only discover on the ground that their bargain sits four subway stops and a transfer away from everything they came to see. In New York the room is not the product. The location is the product. You are not paying for square footage or a marble bathroom; you are paying for how few minutes stand between your bed and the front door of the thing you want to do next. Get the base right and the city feels compact and generous. Get it wrong and you spend your vacation underground, watching the express skip your stop.
 
-![Where to stay in New York City: a Manhattan street scene with a subway entrance and hotel signage](/assets/images/blog/blog-01.webp)
+![Where to stay in New York City: a Manhattan street scene with a subway entrance and hotel signage](/assets/images/blog/blog-25.webp)
 
 The rest of this guide ranks the neighborhoods the way a planner actually weighs them, on three axes that matter and one that does not. Subway access matters, because it converts distance into time and time is the only currency a New York trip really runs on. Price matters, because the spread between areas is wide and predictable. Character matters, because a base you enjoy returning to at night changes how the whole trip feels. Raw room size, the thing travelers instinctively optimize for, matters least of all, and chasing it is the single most common and most expensive basing mistake people make here. This article is the specialist companion to the [complete New York City travel guide](/2017/05/01/new-york-city-complete-travel-guide/), which lays out the city at a high level and defers the basing decision to exactly this page.
 

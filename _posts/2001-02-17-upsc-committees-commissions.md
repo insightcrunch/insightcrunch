@@ -6,19 +6,19 @@ date: 2001-02-17
 categories: ["Industry"]
 tags: ["UPSC", "Committees and Commissions", "Indian Polity", "Governance", "UPSC Mains", "Administrative Reforms"]
 excerpt: "Master UPSC committees and commissions from Sarkaria to the ARC: what each panel recommended, which reforms became law, and how to cite them in Mains."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-02-17
+lang: en
 ---
-
 UPSC committees and commissions form one of those quiet, high-return corners of the syllabus that separate the aspirant who scores in the mid-nineties on a governance answer from the one who scores in the low sixties. You have almost certainly felt the frustration: you read that the Sarkaria Commission examined Centre-State relations, you underline it, you move on, and three months later you cannot recall whether it recommended sparing use of Article 356 or whether that was some other panel. The names blur together. Sarkaria, Punchhi, Rajamannar, Balwant Rai Mehta, Ashok Mehta, the First and Second Administrative Reforms Commissions, the Finance Commission, the various police reform bodies, the electoral reform committees. There are dozens of them, each with a chairperson, a mandate, a set of recommendations, and a story about whether the government actually listened.
 
 This guide exists because the standard preparation approach to this topic is broken. Most aspirants treat committees and commissions as a list to be memorised, a flat inventory of names and years crammed the week before Prelims and forgotten the week after. That approach fails on two fronts. It fails in Prelims because the examiner increasingly asks not "who chaired the body" but "which recommendation belongs to which body," a question that demands understanding rather than recall. It fails far more painfully in Mains, where a single well-deployed committee reference can lift an ordinary answer into the top bracket, and where aspirants who memorised names but never learned to use them leave that advantage untouched on the table.
 
 What follows is a complete working system for this subject, built from years of watching aspirants struggle with exactly these bodies. You will learn the genuine distinction between a committee and a commission, why it matters constitutionally, how these bodies actually function inside Indian governance, and then a body-by-body treatment of every panel that has shown up in the examination or that shapes the governance debates you will be tested on. Crucially, you will learn which recommendations were implemented and which were quietly buried, because that distinction is where the analytical marks live. By the end you will have both the factual grid and the deployment technique that turn committee knowledge into a scoring instrument rather than a memory burden.
 
-![UPSC Committees and Commissions Complete Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Committees and Commissions Complete Guide - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 Before going further, set your expectation correctly. This is not a topic you finish in one sitting and tick off. It is a topic you build a small, permanent reference around and revisit until the associations become automatic. The aspirants who master it are not the ones with better memories; they are the ones who organised the material intelligently and revised it in the right rhythm. That is what this guide gives you.
 

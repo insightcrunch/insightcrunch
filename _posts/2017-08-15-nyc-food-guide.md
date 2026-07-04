@@ -6,15 +6,15 @@ date: 2017-08-15
 categories: ["Travel"]
 tags: ["USA Travel", "New York City", "Food", "City Guides", "Local Culture"]
 excerpt: "A New York City food guide to what to eat and where: the slice, the bagel, the deli, the dumplings, and the immigrant neighborhoods where the city really eats."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2017-08-15
+lang: en
 ---
-
 Eating in New York City is not a restaurant problem. It is a decision about which of the city's food worlds to spend your limited meals on, and most visitors get the order wrong. They arrive with a list of trendy places pulled from a feed, burn two nights on rooms with a waitlist and a view, and leave without ever tasting the food that actually made this a food town: the corner slice, the boiled-then-baked bagel with lox, the pastrami piled on rye, the soup dumplings in a Flushing food court, the momos on a Queens sidewalk. This New York City food guide is built to fix that order. It tells you what to eat, where to find it by neighborhood, and how to spread your meals across the cheap end and the splurge end so that a three-day trip tastes like the whole city rather than one expensive slice of it.
 
-![What to eat in New York City, a food guide by neighborhood - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What to eat in New York City, a food guide by neighborhood - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 The organizing idea here is what I call the slice-bagel-and-neighborhood rule: eat New York's icons first, the slice, the bagel, and the deli, because they are cheap, fast, and genuinely great, and then eat your way through the immigrant neighborhoods, because that is where the city's food really lives. Follow that order and even a short visit covers the essential ground. Chase only the restaurants that a magazine crowned this season and you will spend more, wait longer, and miss the point. The rest of this guide is that rule worked out in detail, dish by dish and district by district, with the reservations reality, the traps to skip, and a plan for eating well without spending a fortune.
 

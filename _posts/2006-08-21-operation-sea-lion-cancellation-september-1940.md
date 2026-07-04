@@ -4,18 +4,18 @@ title: "Operation Sea Lion: September 1940 Postponement"
 page_title: "Operation Sea Lion: Hitler's July Through September 1940 Invasion-of-Britain Planning and the September 17 Indefinite Postponement"
 date: 2006-08-21
 last_updated: 2006-08-21
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "european-theater", "1940", "operation-sea-lion", "germany"]
 image: /assets/images/blog/blog-04.webp
 excerpt: "The Kriegsmarine could not guarantee the Channel crossing and the Luftwaffe never suppressed the RAF. On September 17, 1940 Hitler postponed Sea Lion for good."
 slug: "operation-sea-lion-cancellation-september-1940"
 reading_time: 57
+lang: en
 ---
-
 On September 17, 1940, the war diary of the German Naval War Staff recorded a short sentence that ended the only serious German plan to invade the British Isles. The Seekriegsleitung noted that the Führer had decided to postpone Operation Sea Lion until further notice, and it gave the reason in the plainest possible terms: the enemy air force was still by no means defeated, and if anything its activity was increasing. Two weeks of maximum Luftwaffe effort had not cleared the sky over southern England. The barges concentrated in the Channel ports were being bombed nightly by RAF Bomber Command. The tide tables that would have permitted a landing were closing. And the one service that would actually have to put an army across twenty miles of contested water, the Kriegsmarine, had been telling Hitler since July that it could not guarantee the crossing on any front wide enough for the Army to survive on the far shore.
 
-![German invasion barges concentrated in a Channel port during Operation Sea Lion planning, September 1940](/assets/images/blog/blog-04.webp)
+![German invasion barges concentrated in a Channel port during Operation Sea Lion planning, September 1940](/assets/images/blog/blog-94.webp)
 
 This article reconstructs the decision sequence that ran from Führer Directive 16 on July 16, 1940, through the September 17 postponement, using the decision-reconstruction framework that anchors the WWII Decisions series. The specific claim it defends is this: the postponement of Sea Lion was the rare moment in 1940 when Hitler's command architecture behaved, at the diagnostic level, like an Allied committee. The naval skepticism was heard. The air failure was acknowledged. The operation was not launched into disaster. But the same command architecture failed completely at the generative level. Having correctly diagnosed that Sea Lion could not be done, Hitler produced no coherent alternative strategy against Britain. He did not substitute a sustained strategic air campaign, a concentrated U-boat war, a Mediterranean pivot toward Suez and Gibraltar, or a patient political blockade. He let Sea Lion lapse and turned east, toward the invasion of the Soviet Union that the [Barbarossa decision reconstruction](/blog/barbarossa-hitler-june-22-1941-invasion) examines in full. The German system could abandon a bad idea. It could not build a better one.
 

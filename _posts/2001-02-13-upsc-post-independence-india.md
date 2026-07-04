@@ -6,19 +6,19 @@ date: 2001-02-13
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 1", "Modern History", "Post-Independence India", "Nation Building"]
 excerpt: "UPSC post-independence India guide on princely states integration, linguistic reorganization, Five Year Plans, Non-Alignment, Green Revolution and reforms."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2001-02-13
+lang: en
 ---
-
 Post-independence India is the one stretch of the syllabus that almost every serious aspirant underprepares, and it is also the stretch that quietly decides marks in both Prelims and Mains. You have probably given the freedom struggle its due, memorising the sessions of the Congress, the phases of Gandhian mass mobilisation, and the constitutional milestones up to 1947. Then, somewhere around the transfer of power, the story goes soft in your notes. The princely states get a paragraph. The Five Year Plans become a list of numbers you never quite trust. The Green Revolution, Non-Alignment, and the 1991 reforms sit as disconnected facts rather than as chapters of a single, coherent narrative about how a poor, fractured, newly free country tried to build itself into a modern republic. This guide exists to close exactly that gap.
 
 The difficulty here is not that the material is obscure. It is that the material is emotionally and politically charged, which makes standard textbooks either dry to the point of uselessness or subtly partisan. Aspirants absorb strong opinions about Nehru, about planning, about liberalisation, long before they understand the actual sequence of decisions and constraints that produced each of them. UPSC does not reward opinions. It rewards the candidate who can explain why the integration of over five hundred princely states was a diplomatic miracle, why linguistic reorganisation was resisted and then reluctantly accepted, and how a food-importing nation on the edge of famine became a grain exporter within two decades. That is the analytical maturity this period demands.
 
 By the end of this guide you will hold the full arc of nation building as one connected story, from the tense summer of 1947 to the market reforms of the early 1990s, and you will know precisely how the examiner turns that story into questions.
 
-![UPSC Post-Independence India Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Post-Independence India Guide - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 Before going deeper, it helps to place this topic within your wider preparation. The complete roadmap for the examination sits in the [UPSC Civil Services complete guide](/2003/07/24/upsc-civil-services-complete-guide/), and the broader treatment of the colonial and freedom-struggle years that lead into this period is covered in the [UPSC modern history guide](/2001/04/30/upsc-modern-history-guide/). Post-independence India is best studied as the sequel to that story, not as a separate island of facts.
 

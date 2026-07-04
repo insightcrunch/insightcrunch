@@ -6,13 +6,15 @@ date: 2026-09-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Free indirect discourse in The Great Gatsby lets Nick's narration quietly slip into a character's voice, and this guide shows how the subtle device works."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-09-07
+lang: en
 ---
-
 Read the sentence "His count of enchanted objects had diminished by one" and ask a simple question: whose thought is that? Nick Carraway is the one writing it, yet no ordinary man keeps a private inventory of enchanted objects. The phrase belongs to Gatsby, to the part of him that once counted a green light across the water as a holy thing. Free indirect discourse in The Great Gatsby is the name for exactly this effect, the moment when the telling stops being a plain report about a character and starts sounding like the character himself, without quotation marks, without a "he thought," without any visible seam. The narration wears another man's idiom the way an actor wears a costume, and for a few lines a reader stands inside a mind the first-person frame should keep firmly outside. Fitzgerald does this so quietly that most students finish the novel having felt the effect without ever naming its cause. This guide names it, tracks it through the specific passages where it operates, and shows why a short novel narrated by one limited man can nonetheless open a window into other people's inner weather.
+
+![Free Indirect Discourse in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The stakes are higher than a single clever trick. The novel's whole design depends on the reader believing in Gatsby's inner life while receiving that life secondhand, filtered through a narrator who admits he only half understood the man. The blended voice is the bridge across that gap. It is how Fitzgerald smuggles Gatsby's romantic grandeur into prose that officially belongs to a cautious Midwesterner. Learn to see the device at work and the book stops being a story someone tells you and becomes a story that keeps changing hands.
 
