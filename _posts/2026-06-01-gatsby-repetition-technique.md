@@ -6,15 +6,15 @@ date: 2026-06-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Repetition and Refrain", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Repetition and refrain in Great Gatsby is a craft technique, not padding, since Fitzgerald reuses words and images so each return deepens their meaning."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-01
+lang: en
 ---
-
 Say a word once and it carries a fact. Say it a fourth time, at the right distance, and it carries a history. That gap between the first utterance and the fourth is where repetition and refrain in The Great Gatsby does its work, and it is the single technique most often mistaken for a flaw. Readers trained to prize variety notice that Jay Gatsby says the same two words to almost everyone, that the same green light keeps surfacing, that the closing sentences fall into a cadence the novel has been rehearsing for pages, and they file all of it under redundancy. This article argues the reverse. Fitzgerald repeats words, images, and sentence shapes not because he lacks alternatives but because recurrence is the only device that lets meaning accumulate, and the book you remember is built almost entirely out of things you have heard before.
 
-![Repetition and refrain in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Repetition and refrain in The Great Gatsby](/assets/images/blog/blog-42.webp)
 
 The claim this article defends can be named in three words: meaning by return. A repeated element in Fitzgerald's hands is not a static object dropped twice into the text. It is a vessel that fills a little more each time it appears, so that the phrase or image at the end of the novel means more than the identical phrase or image at the beginning, precisely because the reader has been carrying it. The green light means more when Nick names it in the last chapter than it did when Gatsby first reached for it, and it means more only because it has been said before. Repetition, read this way, is not decoration laid over the story. It is the mechanism by which the story deepens.
 
