@@ -6,17 +6,17 @@ date: 2025-03-11
 categories: ["Industry"]
 tags: ["Poland Security", "Russia", "Geopolitics", "Eastern Flank", "Military Analysis", "Defense Policy"]
 excerpt: "Why Poland fears Russia is a question of memory more than maps: partitions, 1920, 1939, and Soviet rule shaped Polish strategy, and analogy has limits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2025-03-11
+lang: en
 ---
-
 Ask why Poland fears Russia and you will get two kinds of answer. One points at the map and at the news: a large revisionist power to the east, a grinding war in neighboring Ukraine, an exclave on the Baltic coast packed with long-range systems. The other answer is older, quieter, and harder to see on any map. It points at memory. Poland behaves the way it does, spends what it spends, and reaches for the alliances it reaches for because a particular sequence of experiences taught it, in blood, what happens to a Polish state that is weak, isolated, or dependent on the goodwill of larger neighbors. This piece works the second answer, because the first is covered everywhere and the second is what actually explains the behavior a reader keeps noticing and struggling to account for.
 
 The claim here is precise, so it is worth stating cleanly before the evidence. Polish strategy is best understood as a set of lessons drawn from repeated loss of sovereignty. That single sentence, which I will return to as the memory-to-strategy lineage, does more analytical work than any headline about tanks or troop totals. It explains the unusually high sensitivity, the near-reflexive investment in hard power, the almost religious attachment to the alliance, and the deep suspicion of any arrangement that would leave Poland's security in the hands of a distant power's changeable mood. A reader who grasps the lineage can predict Polish choices better than a reader who tracks only the current force balance.
 
-![Why Poland fears Russia, a historical analysis of Polish threat perception - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Why Poland fears Russia, a historical analysis of Polish threat perception - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 There is a trap in this subject, and it needs flagging at the outset, because avoiding it is the whole point of doing the history carefully rather than dramatically. History here is evidence, not prophecy. The partitions, the war of 1920, the catastrophe of 1939, and the long postwar era under Soviet domination genuinely shaped how Warsaw reads risk today. They do not prove that any of those episodes is about to repeat. A serious assessment uses the past the way a good analyst uses any data set: to understand behavior, to weigh probabilities, and to notice which conditions have changed. It never treats the past as a script the present is doomed to perform. The reflex that turns every crisis into a rerun of 1939 is the exact error this article is built to correct, and correcting it requires walking the record with some discipline first.
 

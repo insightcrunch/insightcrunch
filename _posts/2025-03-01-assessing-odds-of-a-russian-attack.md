@@ -6,17 +6,17 @@ date: 2025-03-01
 categories: ["Industry"]
 tags: ["Poland Security", "Threat Assessment", "Intelligence Analysis", "Russia", "Military Analysis", "European Security"]
 excerpt: "Assessing the odds of a Russian attack on Poland means learning how analysts estimate risk with base rates, factor decomposition, and probability bands."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2025-03-01
+lang: en
 ---
-
 Ask ten informed people about the odds of a Russian attack on Poland and you will get ten answers, most of them delivered with a confidence the evidence does not support. Some will say it is inevitable. Some will say it is unthinkable because both sides sit inside the nuclear shadow. Both camps are reaching for a single feeling and calling it an assessment. The gap between those two reflexes is the space this article works in, because the difference between a worry and a judgment is method, and method is learnable. What professionals do when they estimate the likelihood of a rare, high-consequence event is not guess louder than everyone else. They decompose the question, anchor it against history, express the answer in a disciplined vocabulary of probability and confidence, and then hold that answer open to revision as the picture changes.
 
 This is a methodology article, not a verdict. The applied verdict, the actual banded judgment on whether Moscow moves against Warsaw, belongs to the pillar assessment and is argued there; you can read the applied case in [the core risk assessment for Poland](/2025/01/01/will-russia-attack-poland-risk-assessment/). What this piece gives you is the machinery underneath that verdict, so that when any analyst, any government brief, or any headline tells you the odds of a Russian attack are high or low, you can interrogate the claim instead of swallowing it. Once you can see how an estimate is built, the probability language in every other article in this series becomes legible rather than decorative.
 
-![How analysts estimate the odds of a Russian attack on Poland, an intelligence methodology guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How analysts estimate the odds of a Russian attack on Poland, an intelligence methodology guide - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The stakes of getting the method right are not academic. A minister who treats a low but real risk as zero underfunds deterrence and gets caught flat. A planner who treats an uncertain risk as a certainty burns political capital and public patience on a war that does not come, and blunts the alarm for the day it might. Calibrated judgment sits between those two failures. It is the discipline of saying exactly how likely you think something is, exactly how confident you are in that likelihood, and exactly what would change your mind, so that a decision-maker can allocate finite attention and money against a threat sized honestly rather than sized by mood.
 

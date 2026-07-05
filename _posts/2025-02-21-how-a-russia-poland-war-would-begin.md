@@ -6,17 +6,17 @@ date: 2025-02-21
 categories: ["Industry"]
 tags: ["Poland Security", "Scenario Analysis", "Russia", "NATO", "Eastern Flank", "Military Analysis", "Escalation"]
 excerpt: "How a Russia-Poland war would begin is best understood not as one blitz but as three distinct pathways: deliberate attack, crisis, or inadvertent war."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2025-02-21
+lang: en
 ---
-
 Ask most people how a Russia-Poland war would begin and they describe the same picture: a sudden dawn, columns of armor pouring across a border, a bolt from a clear sky. It is a vivid image, and it is almost certainly the wrong one to fix on. Great-power conflicts rarely announce themselves that cleanly, and the paths that lead into them are more varied, more gradual, and in some cases more accidental than the cinematic version allows. The serious question is not whether one dramatic scene would play out, but which of several very different on-ramps a real conflict would most plausibly travel, because each on-ramp has its own logic, its own warning signature, and its own opening character. Get the pathway wrong and every downstream judgment about warning time, deterrence, and response is built on sand.
 
 This article walks those pathways at the level of strategic logic, not operational detail. It does not describe how an attack would be conducted, what would be targeted, or in what sequence forces would move, and it should not be read as a forecast that any of this will happen. It is a structured exploration of initiation: the distinct modes by which peace on the eastern flank could give way to open conflict, and what each mode would look like in its earliest moments. The value is not prediction but discrimination. A reader who can tell one pathway from another is far better placed to interpret a real crisis than one holding a single feared image and waiting for it to arrive.
 
-![Three pathways to a Russia-Poland war analyzed, a scenario and escalation study - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Three pathways to a Russia-Poland war analyzed, a scenario and escalation study - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The framing question, then, is deceptively simple. If the peace of the eastern flank were to break, by what route would it break? The honest answer is that there is no single route, and that the routes differ so much from one another that treating them as one blurred threat is itself an analytical error. What follows separates them, examines the conditions under which each becomes live, and reaches a judgment about which deserves the most worry. That judgment runs against intuition, and it is the spine of the whole piece: the pathway most people fear is not the one that should keep a planner awake.
 
