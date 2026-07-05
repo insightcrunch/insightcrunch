@@ -581,10 +581,6 @@ article {
 
 <article>
   <header class="post-header">
-    {% assign cat = page.categories | first | downcase %}
-    <div class="post-r1">
-      <a href="{{ '/categories/' | append: cat | append: '/' | relative_url }}" class="tag tag-{{ cat }}">{{ page.categories | first }}</a>
-    </div>
     <h1>{{ page.page_title | default: page.title }}</h1>
     {% assign author_key = page.author | default: "insight-crunch-team" %}
     {% assign author = site.data.authors_pool[author_key] %}
@@ -703,14 +699,6 @@ article {
 
   {% include my-notes.html %}
   
-  {% if page.tags.size > 0 %}
-  <div class="post-taxonomy">
-    {% for tag in page.tags %}
-    <span class="tag tag-{{ tag | downcase }}">{{ tag }}</span>
-    {% endfor %}
-  </div>
-  {% endif %}
-
   {% assign post_slug = page.date | date: "%Y-%m-%d-" | remove: "" %}
   {% assign slug_parts = page.slug %}
   {% assign full_slug = slug_parts %}
