@@ -335,6 +335,12 @@
       "tag": "history"
     },
     {
+      "year": 1919,
+      "text": "🇮🇪 Ireland's first Dail assembly declared a republic.",
+      "country": "IE",
+      "tag": "history"
+    },
+    {
       "year": 1950,
       "text": "📖 Author George Orwell died.",
       "country": "LIT",
@@ -464,6 +470,12 @@
       "year": 1948,
       "text": "🇮🇳 Mahatma Gandhi was assassinated in New Delhi.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1649,
+      "text": "🇬🇧 King Charles I of England was executed.",
+      "country": "GB",
       "tag": "history"
     },
     {
@@ -666,6 +678,12 @@
     },
     {
       "year": 1990,
+      "text": "🇿🇦 Nelson Mandela was released after 27 years in prison.",
+      "country": "ZA",
+      "tag": "history"
+    },
+    {
+      "year": 1990,
       "text": "🌍 Nelson Mandela was released from prison.",
       "country": "WORLD",
       "tag": "history"
@@ -719,6 +737,12 @@
       "text": "🇷🇸 Serbia marks Statehood Day and its first uprising.",
       "country": "RS",
       "tag": "history"
+    },
+    {
+      "year": 1965,
+      "text": "🇨🇦 Canada raised its new maple leaf flag.",
+      "country": "CA",
+      "tag": "culture"
     },
     {
       "year": 1564,
@@ -1138,6 +1162,12 @@
     },
     {
       "year": 2011,
+      "text": "🇯🇵 A powerful earthquake and tsunami struck Japan.",
+      "country": "JP",
+      "tag": "history"
+    },
+    {
+      "year": 2011,
       "text": "🌍 A major earthquake and tsunami struck Japan.",
       "country": "WORLD",
       "tag": "history"
@@ -1199,6 +1229,12 @@
       "tag": "history"
     },
     {
+      "year": 1917,
+      "text": "🇷🇺 Tsar Nicholas II abdicated during the Russian Revolution.",
+      "country": "RU",
+      "tag": "history"
+    },
+    {
       "year": 44,
       "text": "🌍 Roman leader Julius Caesar was assassinated on the Ides of March.",
       "country": "WORLD",
@@ -1231,6 +1267,12 @@
       "text": "🇮🇪 Ireland honours Saint Patrick, its patron, on this feast day.",
       "country": "IE",
       "tag": "culture"
+    },
+    {
+      "year": 1861,
+      "text": "🇮🇹 The Kingdom of Italy was proclaimed under unification.",
+      "country": "IT",
+      "tag": "history"
     },
     {
       "year": 1845,
@@ -1483,6 +1525,12 @@
       "text": "🇮🇷 Iran was proclaimed an Islamic Republic.",
       "country": "IR",
       "tag": "history"
+    },
+    {
+      "year": 1939,
+      "text": "🇪🇸 The Spanish Civil War ended.",
+      "country": "ES",
+      "tag": "history"
     }
   ],
   "04-02": [
@@ -1597,6 +1645,12 @@
       "tag": "history"
     },
     {
+      "year": 1917,
+      "text": "🇨🇦 Canadian troops captured Vimy Ridge in World War I.",
+      "country": "CA",
+      "tag": "history"
+    },
+    {
       "year": 1667,
       "text": "🌍 The first public art exhibition opened in Paris.",
       "country": "WORLD",
@@ -1636,6 +1690,12 @@
       "year": 1961,
       "text": "🇮🇳 India marks this era of early space milestones.",
       "country": "IN",
+      "tag": "science"
+    },
+    {
+      "year": 1961,
+      "text": "🇷🇺 Soviet cosmonaut Yuri Gagarin became the first human in space.",
+      "country": "RU",
       "tag": "science"
     },
     {
@@ -1859,6 +1919,12 @@
   ],
   "04-26": [
     {
+      "year": 1937,
+      "text": "🇪🇸 The town of Guernica was bombed during the civil war.",
+      "country": "ES",
+      "tag": "history"
+    },
+    {
       "year": 1986,
       "text": "🌍 The Chernobyl nuclear disaster occurred.",
       "country": "WORLD",
@@ -2008,6 +2074,12 @@
     },
     {
       "year": 1919,
+      "text": "🇨🇳 China's May Fourth Movement sparked modern nationalism.",
+      "country": "CN",
+      "tag": "history"
+    },
+    {
+      "year": 1919,
       "text": "🌍 The May Fourth Movement began in China.",
       "country": "WORLD",
       "tag": "history"
@@ -2024,6 +2096,24 @@
       "year": 1941,
       "text": "🇪🇹 Ethiopia was liberated and its emperor restored.",
       "country": "ET",
+      "tag": "history"
+    },
+    {
+      "year": 1821,
+      "text": "🇫🇷 Napoleon Bonaparte died in exile on Saint Helena.",
+      "country": "FR",
+      "tag": "history"
+    },
+    {
+      "year": 1862,
+      "text": "🇲🇽 Mexican forces won the Battle of Puebla, marked as Cinco de Mayo.",
+      "country": "MX",
+      "tag": "history"
+    },
+    {
+      "year": 1945,
+      "text": "🇳🇱 The Netherlands was liberated at the end of World War II.",
+      "country": "NL",
       "tag": "history"
     },
     {
@@ -2064,6 +2154,12 @@
   "05-08": [
     {
       "year": 1945,
+      "text": "🇩🇪 Germany surrendered, ending World War II in Europe.",
+      "country": "DE",
+      "tag": "history"
+    },
+    {
+      "year": 1945,
       "text": "🌍 Victory in Europe ended World War II in the West.",
       "country": "WORLD",
       "tag": "history"
@@ -2094,6 +2190,12 @@
       "year": 1857,
       "text": "🇮🇳 The Indian Rebellion of 1857 broke out at Meerut.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1994,
+      "text": "🇿🇦 Nelson Mandela was inaugurated as South Africa's president.",
+      "country": "ZA",
       "tag": "history"
     },
     {
@@ -2142,6 +2244,12 @@
       "year": 1607,
       "text": "🇺🇸 Jamestown, the first permanent English settlement, was founded.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1888,
+      "text": "🇧🇷 Brazil abolished slavery with the Golden Law.",
+      "country": "BR",
       "tag": "history"
     }
   ],
@@ -2310,6 +2418,12 @@
     },
     {
       "year": 1949,
+      "text": "🇩🇪 West Germany was founded as a federal republic.",
+      "country": "DE",
+      "tag": "history"
+    },
+    {
+      "year": 1949,
       "text": "🌍 West Germany was established.",
       "country": "WORLD",
       "tag": "history"
@@ -2346,6 +2460,12 @@
       "year": 1946,
       "text": "🇯🇴 Jordan gained independence.",
       "country": "JO",
+      "tag": "history"
+    },
+    {
+      "year": 1810,
+      "text": "🇦🇷 Argentina's May Revolution set it toward independence.",
+      "country": "AR",
       "tag": "history"
     },
     {
@@ -2414,6 +2534,12 @@
       "year": 1917,
       "text": "🇺🇸 US President John F. Kennedy was born.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1453,
+      "text": "🇹🇷 Constantinople fell to the Ottomans.",
+      "country": "TR",
       "tag": "history"
     },
     {
@@ -2486,6 +2612,12 @@
     },
     {
       "year": 1953,
+      "text": "🇬🇧 Queen Elizabeth II was crowned at Westminster Abbey.",
+      "country": "GB",
+      "tag": "culture"
+    },
+    {
+      "year": 1953,
       "text": "🌍 Queen Elizabeth II was crowned.",
       "country": "WORLD",
       "tag": "history"
@@ -2516,6 +2648,12 @@
       "year": 1970,
       "text": "🇹🇴 Tonga became fully independent.",
       "country": "TO",
+      "tag": "history"
+    },
+    {
+      "year": 1989,
+      "text": "🇨🇳 The Tiananmen Square protests were crushed in Beijing.",
+      "country": "CN",
       "tag": "history"
     },
     {
@@ -2723,6 +2861,12 @@
       "tag": "culture"
     },
     {
+      "year": 1976,
+      "text": "🇿🇦 The Soweto uprising rose against apartheid schooling.",
+      "country": "ZA",
+      "tag": "history"
+    },
+    {
       "year": 1963,
       "text": "🌍 Valentina Tereshkova became the first woman in space.",
       "country": "WORLD",
@@ -2754,6 +2898,12 @@
       "year": 1946,
       "text": "🇮🇳 Ram Manohar Lohia raised the flag of freedom in Goa.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1940,
+      "text": "🇫🇷 General de Gaulle broadcast his appeal to resist from London.",
+      "country": "FR",
       "tag": "history"
     },
     {
@@ -2795,6 +2945,12 @@
       "text": "🇺🇸 The first commercial telephone line opened.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1837,
+      "text": "🇬🇧 Victoria became queen of the United Kingdom.",
+      "country": "GB",
+      "tag": "history"
     }
   ],
   "06-21": [
@@ -2940,6 +3096,12 @@
     },
     {
       "year": 1919,
+      "text": "🇩🇪 Germany signed the Treaty of Versailles.",
+      "country": "DE",
+      "tag": "history"
+    },
+    {
+      "year": 1919,
       "text": "🌍 The Treaty of Versailles was signed.",
       "country": "WORLD",
       "tag": "history"
@@ -3014,6 +3176,12 @@
       "year": 1962,
       "text": "🇧🇮 Burundi gained its independence.",
       "country": "BI",
+      "tag": "history"
+    },
+    {
+      "year": 1997,
+      "text": "🇨🇳 Hong Kong was handed back to China.",
+      "country": "CN",
       "tag": "history"
     }
   ],
@@ -3345,6 +3513,18 @@
       "tag": "science"
     },
     {
+      "year": 1936,
+      "text": "🇪🇸 The Spanish Civil War began.",
+      "country": "ES",
+      "tag": "history"
+    },
+    {
+      "year": 1918,
+      "text": "🇿🇦 Anti-apartheid leader Nelson Mandela was born.",
+      "country": "ZA",
+      "tag": "history"
+    },
+    {
       "year": 1918,
       "text": "🌍 Nelson Mandela was born.",
       "country": "WORLD",
@@ -3455,6 +3635,12 @@
   ],
   "07-25": [
     {
+      "year": 1943,
+      "text": "🇮🇹 Mussolini was removed from power in Italy.",
+      "country": "IT",
+      "tag": "history"
+    },
+    {
       "year": 1978,
       "text": "🌍 The first test-tube baby was born.",
       "country": "WORLD",
@@ -3484,6 +3670,12 @@
       "year": 1847,
       "text": "🇱🇷 Liberia declared itself an independent republic.",
       "country": "LR",
+      "tag": "history"
+    },
+    {
+      "year": 1956,
+      "text": "🇪🇬 Egypt nationalised the Suez Canal.",
+      "country": "EG",
       "tag": "history"
     }
   ],
@@ -3684,6 +3876,12 @@
     },
     {
       "year": 1945,
+      "text": "🇯🇵 An atomic bomb devastated Hiroshima.",
+      "country": "JP",
+      "tag": "history"
+    },
+    {
+      "year": 1945,
       "text": "🌍 An atomic bomb was dropped on Hiroshima.",
       "country": "WORLD",
       "tag": "history"
@@ -3734,6 +3932,12 @@
       "year": 1965,
       "text": "🇸🇬 Singapore became a sovereign nation.",
       "country": "SG",
+      "tag": "history"
+    },
+    {
+      "year": 1945,
+      "text": "🇯🇵 An atomic bomb devastated Nagasaki.",
+      "country": "JP",
       "tag": "history"
     },
     {
@@ -3806,6 +4010,12 @@
     },
     {
       "year": 1961,
+      "text": "🇩🇪 East Germany began building the Berlin Wall.",
+      "country": "DE",
+      "tag": "history"
+    },
+    {
+      "year": 1961,
       "text": "🌍 The Berlin Wall's construction began.",
       "country": "WORLD",
       "tag": "history"
@@ -3866,6 +4076,12 @@
       "year": 1960,
       "text": "🇨🇬 The Republic of the Congo became independent.",
       "country": "CG",
+      "tag": "history"
+    },
+    {
+      "year": 1769,
+      "text": "🇫🇷 Napoleon Bonaparte was born in Corsica.",
+      "country": "FR",
       "tag": "history"
     }
   ],
@@ -4168,6 +4384,12 @@
     },
     {
       "year": 1939,
+      "text": "🇵🇱 Germany invaded Poland, starting World War II.",
+      "country": "PL",
+      "tag": "history"
+    },
+    {
+      "year": 1939,
       "text": "🌍 Germany invaded Poland, beginning World War II.",
       "country": "WORLD",
       "tag": "history"
@@ -4184,6 +4406,12 @@
       "year": 1945,
       "text": "🇻🇳 Vietnam declared its independence.",
       "country": "VN",
+      "tag": "history"
+    },
+    {
+      "year": 1945,
+      "text": "🇯🇵 Japan formally surrendered, ending World War II.",
+      "country": "JP",
       "tag": "history"
     },
     {
@@ -4210,6 +4438,12 @@
       "year": 1971,
       "text": "🇶🇦 Qatar became an independent state.",
       "country": "QA",
+      "tag": "history"
+    },
+    {
+      "year": 1939,
+      "text": "🇬🇧 Britain declared war on Germany, entering World War II.",
+      "country": "GB",
       "tag": "history"
     },
     {
@@ -4322,6 +4556,12 @@
     },
     {
       "year": 1976,
+      "text": "🇨🇳 Chinese leader Mao Zedong died.",
+      "country": "CN",
+      "tag": "history"
+    },
+    {
+      "year": 1976,
       "text": "🌍 Chinese leader Mao Zedong died.",
       "country": "WORLD",
       "tag": "history"
@@ -4417,6 +4657,12 @@
       "tag": "history"
     },
     {
+      "year": 1940,
+      "text": "🇬🇧 Britain turned back the Luftwaffe on Battle of Britain Day.",
+      "country": "GB",
+      "tag": "history"
+    },
+    {
       "year": 1928,
       "text": "🌍 Alexander Fleming discovered penicillin.",
       "country": "WORLD",
@@ -4508,6 +4754,12 @@
       "year": 1857,
       "text": "🇮🇳 British forces recaptured Delhi during the 1857 revolt.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1870,
+      "text": "🇮🇹 Italian forces took Rome, completing unification.",
+      "country": "IT",
       "tag": "history"
     },
     {
@@ -4786,6 +5038,12 @@
     },
     {
       "year": 1957,
+      "text": "🇷🇺 The Soviet Union launched Sputnik, the first satellite.",
+      "country": "RU",
+      "tag": "science"
+    },
+    {
+      "year": 1957,
       "text": "🌍 The Soviet Union launched Sputnik, the first satellite.",
       "country": "WORLD",
       "tag": "science"
@@ -4796,6 +5054,12 @@
       "year": 1864,
       "text": "🇮🇳 A cyclone devastated Calcutta.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1789,
+      "text": "🇫🇷 Parisian women marched on Versailles during the Revolution.",
+      "country": "FR",
       "tag": "history"
     },
     {
@@ -4811,6 +5075,12 @@
       "text": "🇺🇸 The first feature film with sound premiered.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1973,
+      "text": "🇪🇬 Egypt launched the October War against Israel.",
+      "country": "EG",
+      "tag": "history"
     },
     {
       "year": 1973,
@@ -4878,6 +5148,12 @@
       "year": 1970,
       "text": "🇫🇯 Fiji gained independence from Britain.",
       "country": "FJ",
+      "tag": "history"
+    },
+    {
+      "year": 1911,
+      "text": "🇨🇳 The Xinhai Revolution began, ending imperial China.",
+      "country": "CN",
       "tag": "history"
     },
     {
@@ -5179,6 +5455,18 @@
       "text": "🇨🇿 Czechoslovakia declared independence, now Czech Statehood Day.",
       "country": "CZ",
       "tag": "history"
+    },
+    {
+      "year": 1922,
+      "text": "🇮🇹 Mussolini's March on Rome brought fascism to power.",
+      "country": "IT",
+      "tag": "history"
+    },
+    {
+      "year": 1940,
+      "text": "🇬🇷 Greece marks Ohi Day, its defiance in World War II.",
+      "country": "GR",
+      "tag": "history"
     }
   ],
   "10-29": [
@@ -5226,6 +5514,12 @@
       "year": 1984,
       "text": "🇮🇳 Indian PM Indira Gandhi was assassinated.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1517,
+      "text": "🇩🇪 Martin Luther's theses launched the Reformation.",
+      "country": "DE",
       "tag": "history"
     }
   ],
@@ -5292,6 +5586,12 @@
     },
     {
       "year": 1922,
+      "text": "🇪🇬 The tomb of Tutankhamun was discovered in Egypt.",
+      "country": "EG",
+      "tag": "history"
+    },
+    {
+      "year": 1922,
       "text": "🌍 The tomb of Tutankhamun was discovered.",
       "country": "WORLD",
       "tag": "history"
@@ -5303,6 +5603,12 @@
       "text": "🇺🇸 Author Sinclair Lewis won the Nobel Prize in Literature.",
       "country": "US",
       "tag": "literature"
+    },
+    {
+      "year": 1605,
+      "text": "🇬🇧 The Gunpowder Plot to blow up Parliament was foiled.",
+      "country": "GB",
+      "tag": "history"
     },
     {
       "year": 1605,
@@ -5331,6 +5637,12 @@
       "text": "🇮🇳 Physicist C. V. Raman, India's first science Nobel laureate, was born.",
       "country": "IN",
       "tag": "science"
+    },
+    {
+      "year": 1917,
+      "text": "🇷🇺 The Bolsheviks seized power in the October Revolution.",
+      "country": "RU",
+      "tag": "history"
     },
     {
       "year": 1867,
@@ -5473,6 +5785,12 @@
       "text": "🇺🇸 A massive anti-war march filled Washington.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1889,
+      "text": "🇧🇷 Brazil abolished its monarchy and became a republic.",
+      "country": "BR",
+      "tag": "history"
     }
   ],
   "11-16": [
@@ -5555,6 +5873,18 @@
       "text": "🇺🇸 Astronomer Edwin Hubble was born.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1975,
+      "text": "🇪🇸 The dictator Francisco Franco died, opening Spain's transition.",
+      "country": "ES",
+      "tag": "history"
+    },
+    {
+      "year": 1910,
+      "text": "🇲🇽 The Mexican Revolution began.",
+      "country": "MX",
+      "tag": "history"
     },
     {
       "year": 1945,
@@ -5771,6 +6101,12 @@
       "text": "🇦🇪 The United Arab Emirates was formed as a federation.",
       "country": "AE",
       "tag": "history"
+    },
+    {
+      "year": 1804,
+      "text": "🇫🇷 Napoleon crowned himself Emperor of the French.",
+      "country": "FR",
+      "tag": "history"
     }
   ],
   "12-03": [
@@ -5833,6 +6169,12 @@
       "text": "🇫🇮 Finland declared independence from Russia.",
       "country": "FI",
       "tag": "history"
+    },
+    {
+      "year": 1917,
+      "text": "🇨🇦 The Halifax Explosion devastated the Canadian port city.",
+      "country": "CA",
+      "tag": "history"
     }
   ],
   "12-07": [
@@ -5847,6 +6189,12 @@
       "text": "🇺🇸 Apollo 17, the last crewed Moon mission, launched.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1941,
+      "text": "🇯🇵 Japan attacked Pearl Harbor.",
+      "country": "JP",
+      "tag": "history"
     }
   ],
   "12-08": [
@@ -6140,6 +6488,18 @@
       "year": 1924,
       "text": "🇮🇳 Former Indian PM Atal Bihari Vajpayee was born.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1066,
+      "text": "🇬🇧 William the Conqueror was crowned king of England.",
+      "country": "GB",
+      "tag": "history"
+    },
+    {
+      "year": 1991,
+      "text": "🇷🇺 The Soviet Union was dissolved as Gorbachev resigned.",
+      "country": "RU",
       "tag": "history"
     }
   ],
