@@ -170,7 +170,19 @@
     /* ── On this day: loads history.json, rotates today's entries ── */
     var MONTHS = ['January','February','March','April','May','June','July',
                   'August','September','October','November','December'];
-    var LABEL = {IN:'India', US:'USA', WORLD:'World', LIT:'Literature'};
+    // Resolve any country code to a display name. Uses the browser's built-in
+    // region names for all ISO codes, with short overrides and non-ISO cases.
+    var OVERRIDE = {WORLD:'World', LIT:'Literature', US:'USA', GB:'UK',
+                    AE:'UAE', XK:'Kosovo'};
+    var REGION = (typeof Intl !== 'undefined' && Intl.DisplayNames)
+      ? new Intl.DisplayNames(['en'], {type:'region'}) : null;
+    function countryName(cc){
+      if(OVERRIDE[cc]) return OVERRIDE[cc];
+      if(REGION){
+        try { var n = REGION.of(cc); if(n && n !== cc) return n; } catch(e){}
+      }
+      return cc;
+    }
     var now = new Date();
     var mm = ('0' + (now.getMonth() + 1)).slice(-2);
     var dd = ('0' + now.getDate()).slice(-2);
@@ -187,7 +199,7 @@
       var e = events[oi];
       oTitle.textContent = e.text;
       var meta = String(e.year);
-      if(e.country && LABEL[e.country]) meta += ' \u00b7 ' + LABEL[e.country];
+      if(e.country) meta += ' \u00b7 ' + countryName(e.country);
       oFrom.textContent = meta;
     }
     function hideOtd(){
