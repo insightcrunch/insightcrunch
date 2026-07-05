@@ -4,20 +4,20 @@ title: "Fall of Singapore: February 1942 Collapse"
 page_title: "Fall of Singapore: The December 1941 Through February 15 1942 Malayan Campaign and the Surrender of the Impregnable Fortress"
 date: 2006-06-21
 last_updated: 2006-06-21
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["arthur-percival", "decision-reconstruction", "pacific-theater", "1942", "fall-of-singapore", "united-kingdom"]
 image: /assets/images/blog/blog-15.webp
 excerpt: "On February 15 1942, roughly 85,000 British Empire troops surrendered to a much smaller Japanese force. Yamashita bluffed, and the fortress then fell."
 slug: "fall-of-singapore-february-1942"
 reading_time: 57
+lang: en
 ---
-
 At approximately 7:00 p.m. on February 15 1942, Lieutenant-General Arthur Ernest Percival walked out from the Ford Motor Factory at Bukit Timah carrying a white flag and a Union Jack, and signed away the largest body of troops ever to surrender under British command. Roughly 85,000 soldiers of the British, Indian, and Australian forces on Singapore Island laid down their arms to a Japanese Twenty-Fifth Army that numbered around 35,000 combat troops at the point of decision and that was, at that very hour, dangerously short of artillery ammunition. The defenders outnumbered the attackers by better than two to one. They held prepared positions on an island fortress that had been advertised for two decades as the impregnable anchor of British power in Asia. And they capitulated.
 
 The arithmetic is the puzzle this reconstruction sets out to solve. A decision reconstruction of Singapore cannot content itself with the popular verdict that a timid general threw away a defensible position, nor with the equally popular counter-verdict that a blameless officer was scapegoated for the sins of Whitehall. Both verdicts contain truth, and both obscure more than they reveal. The claim this article defends is narrower and sharper: Percival's individual competence sat squarely within the normal range of a professional interwar British officer, while the failures that actually doomed Singapore were systemic, cumulative, and mostly decided years before Yamashita crossed the Johor Strait. The prewar allocation of ships, aircraft, and trained men to other theaters, the naval strategy that assumed a fleet would always be available and then discovered it was not, and the doctrinal blind spot that treated the Malayan jungle as an impassable moat all mattered more than any order Percival issued in February 1942. What Yamashita supplied was a command architecture nimble enough to exploit every one of those weaknesses at speed. Singapore is therefore the series' clearest single inversion of the house thesis, a case where Axis command outran Allied committee, and the article treats that inversion as a feature of the analysis rather than an embarrassment to be smoothed over.
 
-![Lieutenant-General Arthur Percival walking under a white flag to surrender Singapore to Japanese forces at the Ford Motor Factory on February 15 1942](/assets/images/blog/blog-15.webp)
+![Lieutenant-General Arthur Percival walking under a white flag to surrender Singapore to Japanese forces at the Ford Motor Factory on February 15 1942](/assets/images/blog/blog-101.webp)
 
 ## The Gibraltar That Was Never a Gibraltar
 

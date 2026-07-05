@@ -6,15 +6,15 @@ date: 2026-07-05
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Canada", "Morocco", "Round of 16", "Match Analysis"]
 excerpt: "Canada vs Morocco result and analysis: Morocco win 3-0 in the World Cup 2026 Round of 16 as Ounahi's brace and Rahimi's late strike reach the last eight."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-07-05
+lang: en
 ---
-
 Canada vs Morocco was meant to be the night the co-hosts announced themselves, and for forty-five minutes inside a roaring Houston Stadium it looked like exactly that. Then the World Cup 2026 Round of 16 turned on its clinical axis. Morocco, unhurried and untroubled by a first half they largely lost, scored three times after the interval to win 3-0, book a second straight quarterfinal, and send Canada out as the first co-host eliminated from the tournament. The result reads like a rout. The ninety-eight minutes that produced it did not, and the gap between the two truths is the whole story of this game.
 
-![Canada vs Morocco World Cup 2026 Round of 16 result and analysis](/assets/images/blog/blog-01.webp)
+![Canada vs Morocco World Cup 2026 Round of 16 result and analysis](/assets/images/blog/blog-31.webp)
 
 This is the single fact that explains the evening: Morocco reached the last eight on five shots, the fewest by any team to win a World Cup knockout match since such records began in 1966. Canada had ten attempts, three on target, a stadium behind them, and the better hour of football for a long stretch. They also had nothing to show for it. The tie was decided not by the side that controlled the game but by the side that finished its chances, and that is the through-line every part of what follows returns to.
 

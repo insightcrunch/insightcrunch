@@ -6,17 +6,17 @@ date: 2026-07-04
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Canada", "Morocco", "Round of 16", "Match Preview"]
 excerpt: "Canada vs Morocco World Cup 2026 Round of 16 preview: the co-hosts chase a first quarterfinal against 2022 semifinalists, with lineups and a prediction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-07-04
+lang: en
 ---
-
 Can a co-host with no knockout history at the World Cup outlast one of the most street-smart tournament teams on the planet? That is the question Canada vs Morocco poses in the Round of 16 of World Cup 2026, and it is the question that will define a Saturday afternoon in Houston. Canada have never reached the last eight of a World Cup, never even reached the last sixteen until this summer. Morocco stood in a World Cup semifinal four years ago and have spent the years since insisting it was no accident. One of those stories bends further this weekend. The other ends.
 
 The framing is stark because a single-elimination tie leaves no room to hide. There is no second leg, no group table to lean on, no draw to bank. Ninety minutes, and if needed thirty more and a shootout, will settle whether Canada's dream run extends into a first quarterfinal or whether Morocco's deep-tournament pedigree carries them into the last eight again. For a nation co-hosting its own World Cup, and for a nation that made history for a whole continent in 2022, the stakes could hardly be sharper.
 
-![Canada vs Morocco World Cup 2026 Round of 16 preview](/assets/images/blog/blog-01.webp)
+![Canada vs Morocco World Cup 2026 Round of 16 preview](/assets/images/blog/blog-14.webp)
 
 This preview lays out everything a fan needs before kickoff: how both sides reached this stage, the tactical collision that will decide it, the team news and the predicted lineups, the players most likely to swing the tie, the head-to-head history, the viewing details, and a reasoned prediction with a likely scoreline. Nothing here assumes the outcome. Everything here is built from what is knowable before the first whistle, which is exactly the point of a knockout preview: to arm you for the drama rather than to spoil it.
 

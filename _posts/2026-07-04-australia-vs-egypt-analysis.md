@@ -6,15 +6,15 @@ date: 2026-07-04
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Australia", "Egypt", "Round of 32", "Match Analysis"]
 excerpt: "Australia vs Egypt result and analysis: Egypt win the World Cup 2026 Round of 32 tie 4-2 on penalties after a 1-1 draw, Salah's panenka the key moment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-07-04
+lang: en
 ---
-
 The result of the Australia vs Egypt World Cup 2026 Round of 32 tie was decided by the coolest of heads on the most nerve-shredding of nights, and it explains everything about how Egypt reached a first knockout round in their history. The ninety minutes finished level, extra time settled nothing, and a contest that had swung on a single moment in each half went the distance to a penalty shootout in Dallas. There, with the pressure at its most unforgiving, Egypt held their nerve from twelve yards while Australia blinked. The Pharaohs converted four spot kicks without a stumble, the Socceroos missed two, and a 1-1 draw became a 4-2 shootout victory that carried Egypt into the last sixteen and sent Australia home. The nerve from the spot, not the run of play across two hours of football, is the thing that separated these teams.
 
-![Australia vs Egypt World Cup 2026 Round of 32 result, player ratings and penalty shootout analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Australia vs Egypt World Cup 2026 Round of 32 result, player ratings and penalty shootout analysis - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 If you read our pre-match briefing, the shape of this contest will feel familiar. The [Australia vs Egypt preview](/2026/07/03/australia-vs-egypt-preview/) framed the tie as the closest matchup of the final Round of 32 day, a game between two nations chasing history in which fine margins would decide everything, and that is precisely how it played out. What the preview could not know was where those margins would fall. They fell on an early Egyptian header, a second-half own goal that dragged Australia level, a night of missed and spurned chances at both ends, and finally a shootout in which experience, composure and a touch of stardust told. This analysis walks through all of it: the score and the shape of the game, the story in sequence, the shootout that settled it, the tactical reasons Egypt advanced and Australia did not, the turning points, the individual performances, the numbers behind the result, the reaction, and what the win and the loss mean for the road ahead.
 

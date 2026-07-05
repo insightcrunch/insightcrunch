@@ -6,15 +6,15 @@ date: 2026-07-04
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "Cape Verde", "Round of 32", "Match Analysis"]
 excerpt: "Argentina vs Cape Verde result and analysis: how the World Cup 2026 holders survived a scare and edged the spirited debutants 3-2 after extra time in Miami."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-07-04
+lang: en
 ---
-
 The Argentina vs Cape Verde result at World Cup 2026 reads 3-2 to the reigning champions, and the scoreline alone hides almost everything that made the night remarkable. Argentina reached the Round of 16 in Miami, but they got there in the 111th minute of a knockout tie the bookmakers had already filed as a formality, off a corner that a header turned into an own goal, after the smallest nation ever to reach this stage had twice pulled level and once stood a single deflection away from a penalty shootout. The single thing that explains the match is this: Cape Verde did not defend for a draw and hope, they attacked the holders with a plan, and for long stretches that plan worked. Argentina were better, deeper, and more decorated, and Argentina still needed extra time, a goalkeeper of their own making late saves, and a slice of fortune to avoid the greatest upset the competition has seen.
 
-![Argentina vs Cape Verde World Cup 2026 result, player ratings and tactical analysis of the Round of 32 extra-time thriller in Miami - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Argentina vs Cape Verde World Cup 2026 result, player ratings and tactical analysis of the Round of 32 extra-time thriller in Miami - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 That is the story this analysis tells in full: the result and the shape of the contest, the sequence of the goals, the tactical reasons the tie ran so close, the moments that turned it, the player ratings with the reasoning behind each call, the statistics that support the account, and what a narrow survival means for Argentina and for a Cape Verde side whose first World Cup ended not with a whimper but with the champions hanging on. The Preview built this fixture as champions against debutants; the ninety plus thirty minutes that followed rewrote the terms of that contest, and the record needs setting straight.
 

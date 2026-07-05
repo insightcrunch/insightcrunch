@@ -4,20 +4,20 @@ title: "Coral Sea: May 1942 First Carrier Battle"
 page_title: "Battle of the Coral Sea: Fletcher's May 4 Through May 8 1942 Carrier Engagement and the First Time Opposing Fleets Never Sighted Each Other"
 date: 2006-06-10
 last_updated: 2006-06-10
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["frank-jack-fletcher", "decision-reconstruction", "pacific-theater", "1942", "battle-of-coral-sea", "united-states"]
 image: /assets/images/blog/blog-02.webp
 reading_time: 57
 excerpt: "May 1942: carriers fought without their ships ever sighting each other. The US lost Lexington, but Japan lost Shoho and cancelled Port Moresby."
 slug: "coral-sea-may-1942-first-carrier-battle"
+lang: en
 ---
-
 At 11:35 on the morning of May 7, 1942, the pilot of a Douglas Dauntless from the carrier Lexington keyed his radio and sent one of the most quoted transmissions of the Pacific war: "Scratch one flat top." Lieutenant Commander Robert Dixon had just watched the Japanese light carrier Shoho slide beneath the Coral Sea under a swarm of American bombs and torpedoes. It was the first Japanese aircraft carrier lost in the war, and it announced that something new had entered naval history. For four days, opposing fleets maneuvered across hundreds of miles of ocean between New Guinea and the Solomon Islands, launching aircraft against one another while their surface ships never once came within sight of an enemy hull. The gunnery duel, the line of battle, the whole inherited grammar of naval combat that stretched back through Jutland to Trafalgar, had been quietly retired. Aircraft now did the fighting, and the ships that carried them decided who lived and who died.
 
 <!--more-->
 
-![Battle of the Coral Sea, May 1942](/assets/images/blog/blog-02.webp)
+![Battle of the Coral Sea, May 1942](/assets/images/blog/blog-95.webp)
 
 This article reconstructs the decision sequence that produced the Battle of the Coral Sea, the first carrier-versus-carrier engagement in history, and defends a specific claim about what that engagement meant. The claim is that Coral Sea has been persistently misjudged because observers apply the wrong ledger to it. Counted ship for ship, the battle was close to a draw, and by some tonnage accountings the Japanese came out marginally ahead. Counted by strategic effect, it was the first genuine reversal Japan suffered in the Pacific, and its consequences compounded across the following month into the disaster at Midway. The framework here is decision reconstruction: a close reading of who decided what, when, and on the strength of what information, from Admiral Chester Nimitz at Pearl Harbor down to the scout pilots whose misidentifications on May 7 turned the battle into a comedy of errors that nonetheless resolved in the Allies' strategic favor. Running underneath the reconstruction is the series' larger argument about command architecture, and Coral Sea offers an unusually clean test of it, because both sides fielded competent commanders and the decisive edge came not from any single officer's brilliance but from a distributed system of expertise that the Japanese could not match.
 

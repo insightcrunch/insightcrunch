@@ -3,7 +3,7 @@ layout: post
 title: "Fall of Tobruk: June 1942 Eighth Army"
 page_title: "Fall of Tobruk: Rommel's June 20-21 1942 Capture of the Desert Fortress and the 35,000 British Empire Troops Who Surrendered"
 date: 2006-06-05
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["erwin-rommel", "decision-reconstruction", "north-african-campaign", "1942", "fall-of-tobruk", "germany"]
 image: /assets/images/blog/blog-03.webp
@@ -11,13 +11,13 @@ excerpt: "Tobruk held eight months in 1941. Rommel took it in a single day in Ju
 slug: "fall-of-tobruk-june-1942"
 reading_time: 57
 last_updated:
+lang: en
 ---
-
 At approximately 9:40 in the morning of June 21, 1942, Major General Hendrik Klopper, commander of the South African 2nd Division and the garrison of Tobruk, signed a surrender that handed Erwin Rommel roughly 33,000 British Empire soldiers, the port whose harbor had been the logistical anchor of the entire Western Desert, and the supplies that would carry the Panzerarmee Afrika another 380 miles east toward the Nile. The fortress that had held out for eight months against siege in 1941, whose Australian defenders had turned "the Rats of Tobruk" from a German taunt into a badge of pride, collapsed in a little more than twenty-four hours of concentrated assault. When the news reached Winston Churchill, he was standing in the White House with Franklin Roosevelt. Churchill later called it one of the heaviest blows of the war, and the record of that morning shows Roosevelt asking a single question in reply: what could the United States do to help.
 
 <!--more-->
 
-![Rommel's Panzerarmee Afrika at the captured Tobruk harbor in June 1942 after the June 20-21 assault](/assets/images/blog/blog-03.webp)
+![Rommel's Panzerarmee Afrika at the captured Tobruk harbor in June 1942 after the June 20-21 assault](/assets/images/blog/blog-100.webp)
 
 This article reconstructs the decision sequence that produced the Fall of Tobruk, and it does so as a decision reconstruction in the strongest sense the series offers: an hour-by-hour and day-by-day account of specific choices made by specific commanders under specific pressure. The analytical claim is that Tobruk represents the single clearest case in the North African campaign of the pattern this series tracks across the war, the pattern by which a single-point command architecture in the hands of a gifted commander can generate operational brilliance that a poorly coordinated committee-style opponent cannot match in the moment. Rommel decided inside the Panzerarmee without external committee constraint, and he decided fast. The Eighth Army decided through a layered structure of theater commander, army commander, and corps commanders that produced, at the decisive points, coordination failures. The argument that follows honors Rommel's genuine operational skill and also insists on the complication that his skill was magnified by his opponent's mistakes, and that the very command architecture which produced the triumph at Tobruk contained the structural limit that would strand the Panzerarmee at El Alamein six weeks later.
 

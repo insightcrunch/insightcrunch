@@ -6,17 +6,17 @@ date: 2026-07-04
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Colombia", "Ghana", "Round of 32", "Match Analysis"]
 excerpt: "Colombia vs Ghana World Cup 2026 analysis: Jhon Arias struck early as Colombia edged a controlled 1-0 Round of 32 win to set up a last-16 tie with Switzerland."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-07-04
+lang: en
 ---
-
 Colombia beat Ghana 1-0 in their World Cup 2026 Round of 32 tie at Kansas City Stadium, and the single thing that explains the result is that they scored their goal after fourteen minutes and never once let Ghana believe a second act was coming. Jhon Arias swept in a first-time finish at the back post, Los Cafeteros settled into the controlled, low-event rhythm that has defined their tournament, and the Black Stars spent the rest of a sweltering evening chasing a game they could not reach. The scoreline reads narrow. The performance behind it was anything but.
 
 That is the honest headline of this Colombia vs Ghana analysis, and it is worth stating plainly before the detail arrives: a 1-0 knockout win in which the losing side fails to register a single shot on target is not a close game that swung on a moment. It is a controlled game in which one side did enough and the other could not lay a glove on them. Colombia managed the tie with the calm of a team that expected to win, and the way they managed it tells you a great deal about how far Nestor Lorenzo's side might yet travel in this World Cup 2026.
 
-![Colombia vs Ghana World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Colombia vs Ghana World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 If you read our pre-match [preview of Colombia vs Ghana](/2026/07/03/colombia-vs-ghana-preview/), the shape of the evening will feel familiar. The prediction there was that Colombia would boss the ball against a deep Ghana block, labor briefly for an opening, and then trust a resolute defense to protect a slender lead. The only surprise was the timing. Nobody expected the opening to arrive quite so early, and nobody expected both benches to be forced into action inside the opening quarter-hour. What followed the goal, though, was almost exactly the game everyone who has watched Colombia this summer would have sketched out in advance.
 

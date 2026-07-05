@@ -6,15 +6,15 @@ date: 2026-07-03
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Colombia", "Ghana", "Round of 32", "Match Preview"]
 excerpt: "Colombia vs Ghana World Cup 2026 preview: prediction, predicted lineups, form and Round of 32 stakes as Lorenzo's Cafeteros meet Queiroz's Black Stars."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-07-03
+lang: en
 ---
-
 One question hangs over the Colombia vs Ghana World Cup 2026 Round of 32 tie in Kansas City, and it is not about talent, because the gap there is plain. It is about patience. Colombia arrive as Group K winners, unbeaten, coached by a man who has spent two years teaching them to control games rather than chase them. Ghana arrive through the back door as a best third-placed side, coached by a survivor who has made a long career out of frustrating better teams. The tie is a straight knockout, win or go home, and the whole ninety minutes reduces to a single contest: can Ghana's low block hold long enough to steal a night that the run of play says belongs to Colombia? That is the control-versus-counter question that defines this fixture, and everything below is built around it.
 
-![Colombia vs Ghana World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Colombia vs Ghana World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 This is the first competitive meeting between the two nations, a knockout debut for a rivalry that has no history, and it lands at the sharpest point of the tournament so far: the moment the World Cup 2026 field is cut in half and the margin for error disappears. Colombia have been one of the tidier sides in the group stage, a team that conceded once in three matches and looked most comfortable when the ball was theirs. Ghana have been one of the more stubborn, a side that lost their best attacking player before a ball was kicked and still found a way through a demanding group. The Preview that follows works through the road each team took, the head-to-head that does not exist, the predicted lineups and the reasoning behind them, the tactical duel that decides the night, the players who can win it, the bracket that waits beyond it, and a final prediction with a scoreline. Readers who want to keep the whole bracket in one place can [save this match and build your bracket free on VaultBook](https://vaultbook.net/tools/world-cup-2026-planner.html) as the knockout rounds unfold.
 

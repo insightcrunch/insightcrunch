@@ -4,18 +4,18 @@ title: "Battle of Moscow: Stalin's December 1941"
 page_title: "Battle of Moscow: Stalin's September Through December 1941 Defense Decisions and the Zhukov Counteroffensive That Saved the Capital"
 date: 2006-07-08
 last_updated: 2006-07-08
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "decision-reconstruction", "eastern-front", "1941", "battle-of-moscow", "soviet-union"]
 image: /assets/images/blog/blog-12.webp
 excerpt: "By December 1 Moscow sat within German artillery range. Stalin refused to leave, Zhukov took the Western Front, and Siberian divisions arrived from the east."
 slug: "battle-of-moscow-stalin-december-1941"
 reading_time: "71 min read"
+lang: en
 ---
-
 On the morning of December 2, 1941, a reconnaissance battalion of the German 258th Infantry Division reached the outskirts of Khimki, a river port on the northwestern edge of Moscow, roughly twenty kilometers from the Kremlin. The men who arrived there could, according to accounts that later hardened into legend, see the spires of the capital through their field glasses. They were driven off within hours by a scratch force that reportedly included factory workers and armed militia. No German soldier came closer to Moscow for the rest of the war. That patrol at Khimki marks the high-water line of Adolf Hitler's eastern campaign, the geographic limit of an advance that had begun 1,000 kilometers to the west on June 22 and had, by early December, run entirely out of momentum, fuel, and warmth.
 
-![German troops halted in the snow before Moscow in December 1941 as Stalin's Siberian reserves prepared the Soviet counteroffensive](/assets/images/blog/blog-12.webp)
+![German troops halted in the snow before Moscow in December 1941 as Stalin's Siberian reserves prepared the Soviet counteroffensive](/assets/images/blog/blog-21.webp)
 
 <!--more-->
 

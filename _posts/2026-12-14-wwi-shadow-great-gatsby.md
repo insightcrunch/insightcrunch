@@ -6,15 +6,15 @@ date: 2026-12-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "World War One", "F. Scott Fitzgerald", "Jay Gatsby", "Context", "American Literature"]
 excerpt: "World War One's shadow over The Great Gatsby shapes its plot, mood, and characters, the uniform that made Gatsby and the war that separated him from Daisy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-12-14
+lang: en
 ---
-
 World War One's shadow over The Great Gatsby is the easiest thing in the novel to walk straight past. Read the book once for the parties, the pink suit, and the green light, and the recent conflict that shaped every adult in it can vanish behind the champagne. Yet the war is there on almost every page that matters. It made Gatsby an officer and then a stranger to his own name. It emptied out Nick until the Middle West felt like the ragged edge of the universe. It opened the gap of years that let Daisy marry another man. To read the summer of 1922 without the war behind it is to hear the music and miss the grave the dancers are standing on.
 
-![World War One's shadow over The Great Gatsby](/assets/images/blog/blog-01.webp)
+![World War One's shadow over The Great Gatsby](/assets/images/blog/blog-72.webp)
 
 This article treats the war not as background trivia but as the source of the novel's mood. The great error of the study-guide reading is to file the conflict under "historical context" and move on, as though it were a date to memorize rather than a wound the whole book is dressed to hide. Fitzgerald wrote a book about people who had just lived through the deadliest event of their lifetimes and who were determined not to talk about it. The determination is the point. When you learn to read the silence, the carefree surface of the book stops looking carefree and starts looking like a performance staged over something no one will name.
 

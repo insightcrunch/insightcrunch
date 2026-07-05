@@ -3,16 +3,16 @@ layout: post
 title: "Wannsee Conference: January 1942 Holocaust"
 page_title: "Wannsee Conference: The January 20 1942 Meeting That Coordinated Ministerial Agencies for Systematic Genocide of European Jews"
 date: 2006-06-27
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["reinhard-heydrich", "decision-reconstruction", "european-theater", "1942", "wannsee-conference", "germany"]
 image: /assets/images/blog/blog-14.webp
 excerpt: "Fifteen Nazi officials met for 90 minutes at a Berlin villa in January 1942. Eichmann took the notes. The 'Final Solution' became coordinated state policy."
 slug: "wannsee-conference-january-1942-holocaust"
 reading_time: "57 min read"
+lang: en
 ---
-
-![The lakeside villa at Am Grossen Wannsee 56-58 in Berlin, site of the January 20 1942 conference](/assets/images/blog/blog-14.webp)
+![The lakeside villa at Am Grossen Wannsee 56-58 in Berlin, site of the January 20 1942 conference](/assets/images/blog/blog-36.webp)
 
 On the morning of January 20, 1942, fifteen men gathered in a requisitioned villa on the shore of a Berlin lake and spent roughly ninety minutes turning an already-running program of mass murder into an integrated function of the German state. They did not invent the killing. By that morning the shooting squads on the Eastern Front had already murdered somewhere between half a million and eight hundred thousand Jews, the first gas van at Chelmno had been operating for six weeks, and the machinery of the death camps was under construction. What the men at the lake did instead was coordinate. They agreed which ministry would strip the property, which would rewrite the law, which would arrange the trains, and which would define who counted as a Jew at all. When they broke for lunch and cognac, the destruction of European Jewry had been converted from a set of parallel improvisations into a single bureaucratic project with a recognized owner.
 

@@ -6,17 +6,17 @@ date: 2025-01-11
 categories: ["Industry"]
 tags: ["Poland Security", "Baltic States", "Eastern Flank", "Military Analysis", "European Security", "NATO"]
 excerpt: "Poland or the Baltics as Russia's first target: a disciplined comparison of depth, warning, reinforcement, and consequence that yields a clear ranking."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2025-01-11
+lang: en
 ---
-
 If a serious planner had to bet on where Russia would move first against the alliance, the honest starting point is that Poland or the Baltics is not a coin flip. The two theaters look superficially similar, a shared border region with Russia and its Belarusian partner, a nervous eastern flank, a set of NATO guarantees that have never been tested by a direct attack. Underneath that surface the two present an aggressor with very different problems, and the difference is decisive enough to produce a ranking rather than a shrug. This article works that comparison to a verdict: which theater a rational aggressor would strike sooner, why, and what the answer changes about how the alliance should think about its own posture.
 
 The people who actually argue over this are not casual observers. They are defense ministry planners weighing where to place scarce reinforcement, general officers deciding which contingency to rehearse first, parliamentarians asked to justify a spending priority, and analysts trying to keep a public debate honest when the loudest voice is not always the most exposed party. For that audience the question is not rhetorical. It shapes where a battlegroup sits, which rail line gets hardened, and which capital gets the next tranche of air defense.
 
-![Poland or the Baltics as Russia's first target, a vulnerability comparison - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Poland or the Baltics as Russia's first target, a vulnerability comparison - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The framing worth resisting from the outset is the one that treats size and volume as a proxy for risk. Poland is the largest, best-armed, and most vocal state on the flank, so a casual reader assumes it must therefore be the primary target. That assumption confuses prominence with priority. An aggressor does not pick the target that talks the most; it picks the target where the cost-benefit math of a fast, limited win looks most favorable before the alliance can respond in force. Once the question is framed that way, the answer stops tracking size and starts tracking defensibility, depth, warning time, and the difficulty of reinforcement. This piece builds toward the parent judgment in the series assessment of [whether Russia would attack Poland at all](/2025/01/01/will-russia-attack-poland-risk-assessment/), and it should be read as the comparative companion to that pillar rather than a substitute for it.
 

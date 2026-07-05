@@ -3,22 +3,22 @@ layout: post
 title: "Doolittle Raid: April 1942 Tokyo Bombing"
 page_title: "Doolittle Raid: Jimmy Doolittle's April 18 1942 B-25 Strike on Tokyo From USS Hornet and the Japanese Reprisals That Killed 250,000 Chinese"
 date: 2006-06-16
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["james-doolittle", "decision-reconstruction", "pacific-theater", "1942", "doolittle-raid", "united-states"]
 image: /assets/images/blog/blog-01.webp
 excerpt: "Sixteen B-25s launched from a carrier 650 miles from Japan, bombed Tokyo, then crashed in China. The military damage was tiny. The cost was not."
 slug: "doolittle-raid-april-1942-tokyo"
 reading_time: 57
+lang: en
 ---
-
 At roughly 8:20 on the morning of April 18, 1942, Lieutenant Colonel James Doolittle pushed the throttles of a twin-engine North American B-25 Mitchell bomber to their stops, released the brakes, and rolled down 467 feet of pitching flight deck aboard the carrier USS Hornet. The bomber's wheels left the deck with room to spare, sagged toward the gray Pacific, and then climbed. Over the next hour, fifteen more B-25s followed, each one a medium bomber that had never been designed to leave a ship, launched from a carrier that had never been designed to carry it, headed for a target that American planners had spent three months insisting could not be struck at all. The first American bombs to fall on the Japanese home islands were minutes away.
 
 <!--more-->
 
 This article reconstructs the decision sequence that produced the Doolittle Raid, from Captain Francis Low's January 1942 memorandum through the April 18 execution, and it defends a specific claim: the raid was a triumph of Allied joint-service improvisation and a catastrophe measured by its actual consequences, and both of those things are true at once. The military damage the sixteen bombers inflicted on Japan was trivial. The morale the raid restored to a battered American public was real but temporary. The strategic pressure it placed on Japanese naval planning was real and helped set the stage for the decisive engagement at Midway two months later. And the price, paid almost entirely by Chinese civilians who had nothing to do with the decision and no voice in it, ran to roughly a quarter of a million dead. The house thesis of this series holds that Allied committee architecture tended to outperform Axis single-point command; the Doolittle Raid supports that thesis at the level of operational design while forcing a harder reckoning at the level of moral accounting. A brilliant joint operation and a moral disaster can share a single set of facts.
 
-![Doolittle Raid: April 1942 Tokyo Bombing](/assets/images/blog/blog-01.webp)
+![Doolittle Raid: April 1942 Tokyo Bombing](/assets/images/blog/blog-87.webp)
 
 ## The Winter of Unbroken Defeat
 

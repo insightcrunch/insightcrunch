@@ -8,13 +8,13 @@ tags: ["The Great Gatsby", "The Lost Generation", "F. Scott Fitzgerald", "Contex
 image: /assets/images/blog/blog-01.webp
 excerpt: "The Lost Generation and Great Gatsby belong together: how the disillusioned post-war cohort Fitzgerald joined shaped a novel that speaks for the adrift."
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 slug: lost-generation-great-gatsby
+lang: en
 ---
-
 Read the novel as a period piece about rich people at parties and you miss the frequency it broadcasts on. The Lost Generation and Great Gatsby belong to each other in a way that changes what the book is for: this is not a story that happens to be set in the 1920s, it is a report filed from inside a specific wound. Fitzgerald wrote from within the post-war group of writers that Gertrude Stein called lost, the same circle that produced Ernest Hemingway, and the disillusioned, rootless, value-emptied quality that term names is not background decoration in his novel. It is the weather system the whole story moves through. Once you see that frame, Nick Carraway's restlessness, Gatsby's hollow grandeur, and Daisy's tired glamour stop reading as personal quirks and start reading as the symptoms of a generation the war unmoored.
 
-![The Lost Generation and The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The Lost Generation and The Great Gatsby](/assets/images/blog/blog-29.webp)
 
 This article owns the literary-history frame. Where the study of the war itself traces the historical catastrophe, and where the account of Fitzgerald among the expatriates traces the personal friendships, this piece asks a narrower and more useful question: what does it mean to say the novel is a Lost Generation document, and how does that reading survive contact with the actual sentences on the page. The answer is not a vague mood. It is a set of concrete stances, disillusionment, rootlessness, the loss of inherited values, that the prose enacts scene by scene, so that reading the context becomes a way of reading the book more closely rather than a way of padding an essay with dates.
 

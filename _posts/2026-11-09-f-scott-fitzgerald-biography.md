@@ -6,15 +6,15 @@ date: 2026-11-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "American Literature", "Close Reading"]
 excerpt: "F. Scott Fitzgerald: A Life for Readers of The Great Gatsby, tracing his Midwestern origins, outsider hunger for wealth, and how the life lights the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-11-09
+lang: en
 ---
-
 Open the novel and the first thing you meet is not Gatsby but a voice, a young Midwesterner named Nick who has come east and cannot decide whether he admires or pities the man he is about to describe. That double feeling, the pull toward glamour and the recoil from it, was not invented at a desk. It belonged to the man holding the pen. This is F. Scott Fitzgerald: A Life for Readers of the book, the essential biography behind the story, offered not as trivia but as a working tool for understanding why the novel aches the way it does. Fitzgerald was a Midwesterner who chased money and an unattainable woman and always felt himself an outsider to the settled rich, which is the exact shape of Jay Gatsby's longing.
 
-![Portrait study of F. Scott Fitzgerald against a 1920s backdrop, representing the author behind The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Portrait study of F. Scott Fitzgerald against a 1920s backdrop, representing the author behind The Great Gatsby](/assets/images/blog/blog-70.webp)
 
 Readers who know only the plot often treat the author as a footnote, a name on the cover with a jazz-era mustache. That is a missed opportunity. The life does not decode the novel like a cipher, and it does not reduce fiction to confession. What it does is sharper and more useful: it shows you where the book's emotional pressure comes from, so that a scene you might have skimmed suddenly reads as the author working through his own deepest ambivalence about wealth, class, and desire. Learn the life and the novel stops being a period piece about parties. It becomes the record of a particular hunger that its author knew from the inside.
 

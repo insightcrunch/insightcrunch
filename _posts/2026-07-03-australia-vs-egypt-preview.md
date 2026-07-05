@@ -6,13 +6,15 @@ date: 2026-07-03
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Australia", "Egypt", "Round of 32", "Match Preview", "Football"]
 excerpt: "Australia vs Egypt in the World Cup 2026 Round of 32 is a knockout tie where both nations chase a first ever last-16 place, with Salah's fitness the key."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "bruno-carvalho"
 last_updated: 2026-07-03
+lang: en
 ---
-
 Someone walks off the field in Arlington on Friday having made history, and someone walks off knowing their World Cup is over. That is the whole shape of Australia vs Egypt in the World Cup 2026 Round of 32. There is no group table to fall back on, no third game to fix a bad afternoon, no calculation about goal difference that keeps a losing side alive. The Socceroos have reached the knockout phase of a World Cup for the third time and have never won a match once they got there. Egypt have reached this stage for the first time in the modern era, having never before survived a group at the tournament. Both records end the moment the final whistle blows at Dallas Stadium. One of these nations advances to the Round of 16; the other flies home.
+
+![Australia vs Egypt Preview: World Cup 2026 Round of 32 - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 That single fact reframes everything else. In the group stage a preview weighs points, permutations, and the slow arithmetic of who needs what from three matches. Here the arithmetic collapses to a binary. Win and you are still standing, with a Round of 16 tie waiting against the winner of Argentina against Cape Verde. Lose and the tournament is finished, however well you played, however narrow the margin. It is the purest version of the sport, and it tends to reward the side that handles the specific demands of single-elimination football: the patience to stay level when the game is tight, the nerve to take a chance when it comes, and the composure to carry a lead or chase a deficit without unraveling.
 

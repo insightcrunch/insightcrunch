@@ -4,20 +4,20 @@ title: "Arcadia Conference: December 1941 Anglo-US"
 page_title: "Arcadia Conference: The December 22 1941 Through January 14 1942 Washington Meeting That Confirmed Europe-First Strategy and Created the Combined Chiefs of Staff"
 date: 2006-07-02
 last_updated: 2006-07-02
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["franklin-roosevelt", "decision-reconstruction", "atlantic-theater", "1942", "arcadia-conference", "united-states"]
 image: /assets/images/blog/blog-13.webp
 excerpt: "Churchill reached the White House on December 22 1941. Three weeks later, Europe-first was Allied policy and the Combined Chiefs of Staff was running the war."
 slug: "arcadia-conference-december-1941"
 reading_time: 56
+lang: en
 ---
-
 On December 22, 1941, a British battleship party disembarked at the naval air station near Norfolk, Virginia, and Winston Churchill boarded an aircraft for the short hop to Washington. Fifteen days earlier the United States had been a neutral, if heavily committed, supplier to the Allied cause. Now it was a belligerent on two oceans, its Pacific Fleet crippled at anchor and its people convulsed with fury at Japan. Churchill had crossed the Atlantic through submarine-infested waters, against the explicit worry of his own War Cabinet, to answer a single question before the emotions of that fury hardened into policy: would the new American war be fought first against Germany, or first against Japan? By January 14, 1942, when he left Washington to sail home, the answer had been fixed, an entire coalition apparatus had been assembled from almost nothing, and twenty-six nations had put their signatures to a common war compact. The conference that produced all of this was code-named Arcadia, and in roughly three weeks it did more to shape how the Second World War would be won than any clash fought in the same period.
 
 <!--more-->
 
-![Roosevelt and Churchill in Washington during the December 1941 Arcadia Conference that confirmed the Europe-first strategy and created the Combined Chiefs of Staff](/assets/images/blog/blog-13.webp)
+![Roosevelt and Churchill in Washington during the December 1941 Arcadia Conference that confirmed the Europe-first strategy and created the Combined Chiefs of Staff](/assets/images/blog/blog-85.webp)
 
 This is a decision reconstruction, and the decision under reconstruction is not a single order but a cluster of interlocking commitments reached over twenty-four days: the confirmation of a Germany-first grand strategy against the grain of American public opinion, the invention of a standing Anglo-American command organ that had no treaty basis and no precedent, the assignment of a first unified theater command, the coordination of two national war economies into a single production plan, and the drafting of a declaration that gave the wartime coalition its name. The claim this article defends is that Arcadia is the clearest single documentary monument to the analytical spine of the entire InsightCrunch WWII Decisions series: that the Allied coalition fought by committee and the Axis coalition fought by command, and that the committee architecture, for all its friction and compromise, produced coordination the command architecture never even attempted. The Axis powers had signed the Tripartite Pact fifteen months earlier and never built anything resembling the machinery Roosevelt and Churchill improvised in a Washington December.
 

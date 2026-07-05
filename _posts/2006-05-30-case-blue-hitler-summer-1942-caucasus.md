@@ -3,20 +3,20 @@ layout: post
 title: "Case Blue: Hitler's Summer 1942 Caucasus"
 page_title: "Case Blue: Hitler's April Through July 1942 Decision to Split Forces Between Caucasus Oil and Stalingrad"
 date: 2006-05-30
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "eastern-front", "1942", "case-blue-caucasus", "germany"]
 image: /assets/images/blog/blog-04.webp
 excerpt: "Oil or Stalin's city? Directive 45 chose both. Hitler split Army Group South into two along diverging axes, and the plan already held Stalingrad."
 slug: "case-blue-hitler-summer-1942-caucasus"
 reading_time: 56
+lang: en
 ---
-
 On July 23, 1942, in a wooden headquarters compound near Vinnitsa in occupied Ukraine, Adolf Hitler issued Führer Directive 45 and, with a single order, sent one army group south into the Caucasus mountains and another east toward a city on the Volga named after Stalin. The two forces would advance at once, along diverging axes, across a front that widened with every mile they gained. Franz Halder, the Army Chief of Staff, recorded his objection in his diary that the available strength could not sustain two simultaneous offensives pointed in different directions. Hitler overrode him. The order stood.
 
 <!--more-->
 
-![Hitler's July 1942 Directive 45 splitting Army Group South toward the Caucasus oil fields and toward Stalingrad on the Volga](/assets/images/blog/blog-04.webp)
+![Hitler's July 1942 Directive 45 splitting Army Group South toward the Caucasus oil fields and toward Stalingrad on the Volga](/assets/images/blog/blog-08.webp)
 
 This article reconstructs the decision sequence that produced Case Blue, the German summer offensive of 1942, and it defends a specific claim: that the operation's ruin was written not into the battles that followed but into the July 23 choice to divide a force that was already too small for one objective between two objectives that lay hundreds of miles apart. Case Blue is a decision reconstruction in the strict sense. The failure can be traced to a document, a date, and a name, and the alternatives argued at the time can be laid beside the choice that was made. The German war in the East did not have to end at Stalingrad the way it did. It ended there because of how the summer began.
 
