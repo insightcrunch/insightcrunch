@@ -3,7 +3,7 @@ layout: post
 title: "Tripartite Pact: September 1940 Axis Alliance"
 page_title: "Tripartite Pact: Germany, Italy, and Japan's September 27 1940 Decision to Formalize an Axis That Would Never Actually Coordinate"
 date: 2006-08-10
-last_updated: 2006-08-10
+last_updated: 2026-07-05
 author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["joachim-von-ribbentrop", "decision-reconstruction", "european-theater", "1940", "tripartite-pact", "germany"]

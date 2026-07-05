@@ -3,7 +3,7 @@ layout: post
 title: "Finnish Winter War: Stalin's November 1939"
 page_title: "Finnish Winter War: Stalin's October Through November 1939 Decision to Invade Finland and the Red Army Humiliation That Encouraged Hitler"
 date: 2006-09-06
-last_updated: 2006-09-06
+last_updated: 2026-07-05
 author: "diana-patel"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "decision-reconstruction", "european-theater", "1939", "winter-war-finland", "soviet-union"]

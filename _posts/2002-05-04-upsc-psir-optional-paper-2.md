@@ -9,7 +9,7 @@ excerpt: "UPSC PSIR optional Paper 2 International Relations: IR theory, Indian 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2002-05-04
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC PSIR optional Paper 2 International Relations is where aspirants either separate themselves from the crowd or quietly bleed marks they never recover. This half of the Political Science and International Relations syllabus rewards a rare combination: conceptual command over how states behave, fluency in the theories that explain that behaviour, and the agility to weave the morning newspaper into a structured analytical answer. Candidates who reduce Paper 2 to a list of summit dates and treaty names produce flat, journalistic responses that examiners read by the hundred and reward with mediocre numbers. Candidates who treat the same syllabus as a toolkit, deploying realism to explain a border standoff or interdependence theory to read a trade dispute, write layered answers that earn the 130 to 165 band that lifts a final rank. This guide is built around developing exactly that capability for the PSIR optional Paper 2.

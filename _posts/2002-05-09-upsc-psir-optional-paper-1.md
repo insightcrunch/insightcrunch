@@ -9,7 +9,7 @@ excerpt: "UPSC PSIR optional Paper 1 guide on political theory, Western and Indi
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2002-05-09
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC PSIR optional Paper 1 is the half of the Political Science and International Relations optional where most aspirants quietly lose the marks that separate a rank inside the top hundred from a rank that lands them in a non-preferred service. The first paper carries Section A, which is pure political theory plus Western and Indian political thought, and Section B, which is the entire architecture of Indian government and politics. Together these two sections decide whether your PSIR optional becomes a 300 plus engine or a liability that drags your total below the line. The aspirant who treats political theory as a set of thinker summaries to be memorised and reproduced writes flat, undifferentiated answers that evaluators see by the thousand. The aspirant who learns to deploy theory as an argumentative tool, who can move from Hobbes to Rawls to Ambedkar inside a single answer with a clear analytical spine, writes the kind of script that earns 140 plus in this paper. This guide is built around that second capability.

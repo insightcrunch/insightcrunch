@@ -9,7 +9,7 @@ excerpt: "Eight dead. Eight helicopters launched, six reached Desert One, five w
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2008-02-20
+last_updated: 2026-07-05
 lang: en
 ---
 At 1:30 in the morning local time on April 25, 1980, in a stretch of salt flat 200 miles southeast of Tehran, a Sea Stallion helicopter lifted off the desert floor, drifted laterally in a self-generated cloud of dust, and clipped the upper fuselage of a C-130 Hercules transport plane that sat idling with its turboprops running and its fuel tanks half-empty. Both aircraft caught fire. Ammunition cooked off inside the burning hulks. Eight American servicemen were dead within minutes. The survivors abandoned the wreckage, abandoned five other intact helicopters whose maintenance and classified equipment fell into Iranian hands the next morning, and lifted off in the remaining C-130s for the long flight out of Iranian airspace. By the time the sun rose over the patch of desert the Joint Task Force planners had code-named Desert One, the operation that was supposed to free 53 American hostages from the U.S. Embassy compound in Tehran was a smoldering wreck, and the presidency of James Earl Carter was, in every politically meaningful sense, over.

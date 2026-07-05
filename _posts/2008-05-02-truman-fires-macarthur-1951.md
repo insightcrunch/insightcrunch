@@ -9,7 +9,7 @@ excerpt: "Harry Truman fired General Douglas MacArthur on April 11, 1951, after 
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2008-05-02
+last_updated: 2026-07-05
 lang: en
 ---
 The leak reached the White House late in the evening of April 10, 1951. The Chicago Tribune had obtained word of the firing order and intended to run the story in its morning edition. Joseph Short, the press secretary who had been on the job for less than four months, had to wake the senior staff and pull forward a public announcement originally scheduled for later in the day. At one in the morning Eastern time on April 11, the order went out via the regular military communications system, the same channels used for routine field correspondence. The most decorated American officer of the twentieth century was relieved of all four of his commands without ceremony, without warning to the relieved officer ahead of the public, and without a graceful exit narrative drafted by the staff who normally produce such things. The general would learn of his removal from an aide who heard it on the radio.

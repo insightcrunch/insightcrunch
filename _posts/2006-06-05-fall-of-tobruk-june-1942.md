@@ -10,8 +10,7 @@ image: /assets/images/blog/blog-03.webp
 excerpt: "Tobruk held eight months in 1941. Rommel took it in a single day in June 1942. Churchill got the news at the White House. FDR asked how he could help."
 slug: "fall-of-tobruk-june-1942"
 reading_time: 57
-last_updated:
-lang: en
+last_updated: 2026-07-05
 ---
 At approximately 9:40 in the morning of June 21, 1942, Major General Hendrik Klopper, commander of the South African 2nd Division and the garrison of Tobruk, signed a surrender that handed Erwin Rommel roughly 33,000 British Empire soldiers, the port whose harbor had been the logistical anchor of the entire Western Desert, and the supplies that would carry the Panzerarmee Afrika another 380 miles east toward the Nile. The fortress that had held out for eight months against siege in 1941, whose Australian defenders had turned "the Rats of Tobruk" from a German taunt into a badge of pride, collapsed in a little more than twenty-four hours of concentrated assault. When the news reached Winston Churchill, he was standing in the White House with Franklin Roosevelt. Churchill later called it one of the heaviest blows of the war, and the record of that morning shows Roosevelt asking a single question in reply: what could the United States do to help.
 

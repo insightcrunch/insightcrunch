@@ -9,7 +9,7 @@ excerpt: "The complete UPSC optional subjects directory: all 48 optionals analys
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 61
 author: "kavita-sharma"
-last_updated: 2001-12-20
+last_updated: 2026-07-05
 lang: en
 ---
 Almost every aspirant who sits down to choose a UPSC optional subject is, without realising it, choosing from a menu of six. Geography, History, Political Science, Sociology, Public Administration, Anthropology: these are the names that fill YouTube thumbnails and Telegram debates, and most candidates believe these are essentially the whole field. They are not. The Union Public Service Commission permits you to write your two optional papers in any one of forty-eight recognised disciplines, and the gap between what aspirants think the menu looks like and what it actually contains is one of the quietest, most consequential blind spots in the entire preparation journey.

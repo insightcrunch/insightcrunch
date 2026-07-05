@@ -9,7 +9,7 @@ excerpt: "Lyndon Johnson ranks 10th overall despite Vietnam, with civil rights l
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 56
 author: "chloe-martin"
-last_updated: 2007-07-10
+last_updated: 2026-07-05
 lang: en
 ---
 On the afternoon of January 22, 1973, a former president collapsed in the bedroom of his Texas ranch house, dialed the security detail for help that arrived too late, and died of a heart attack at age 64. He had been out of office four years and five days. He was, by every measure available in that moment, a man whose historical reputation had cratered. The Gallup approval rating he carried out of the White House in January 1969 was 49 percent, a recovery from worse, but his standing among the educated classes who read books and wrote them was lower still. The peace agreement his successor would sign in Paris five days after his funeral was the war he had escalated and could not end. The newsreels of his presidency that ran on the evening broadcasts that night were not the Voting Rights Act signing ceremony from March 1965. They were the cities burning in 1967 and 1968, the body counts from MACV briefings, the protesters chanting outside the White House.

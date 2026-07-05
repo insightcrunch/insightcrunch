@@ -9,7 +9,7 @@ excerpt: "Polk ranks eighth on C-SPAN now. He achieved all four campaign promise
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 67
 author: "diana-patel"
-last_updated: 2007-07-15
+last_updated: 2026-07-05
 lang: en
 ---
 On a humid Washington morning in late June 1846, James Knox Polk sat at his White House desk and opened a leather-bound notebook that has since become the single most useful document any historian possesses about the routine workings of a nineteenth-century American presidency. The entry that day ran several hundred words. It logged a cabinet meeting on the Oregon boundary, a confidential exchange about Mexican territorial negotiations, a complaint about a Treasury Department clerk, and a notation that the President had walked the Treasury grounds for exercise before retiring. He was forty-nine years old, gravely ill from chronic diarrhea and the lingering effects of a botched childhood bladder-stone operation, and he was halfway through a presidency he had publicly promised would end after a single four-year term.

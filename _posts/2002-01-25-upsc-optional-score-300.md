@@ -9,7 +9,7 @@ excerpt: "Learn how to score 300+ in any UPSC optional using a proven framework:
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2002-01-25
+last_updated: 2026-07-05
 lang: en
 ---
 The single fastest way to move from the failed-Mains pile to the recommended list is to learn how to score 300+ in your UPSC optional. The optional carries 500 marks across two papers, and in a contest where the difference between rank 200 and rank 2000 often comes down to forty or fifty marks in total, those two papers quietly decide more careers than any other component of the examination. General Studies tends to compress everyone toward the middle, because thousands of aspirants read the same five books and write broadly similar answers. The optional is where genuine separation happens. A candidate who has truly mastered a single subject can pull ahead of the field by a margin that essay and interview rarely match.

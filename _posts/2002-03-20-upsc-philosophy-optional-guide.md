@@ -9,7 +9,7 @@ excerpt: "UPSC Philosophy optional complete guide covering Western and Indian th
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2002-03-20
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Philosophy optional represents the reasoning-focused optional where aspirants leverage the capacity to construct and evaluate arguments to produce examination answers that combine Western conceptual rigour, Indian metaphysical depth and socio-political reflection. The aspirants who choose Philosophy without understanding its distinctive demand for argumentation rather than narration produce either dry summaries of what each thinker said or vague opinion pieces lacking the analytical scaffolding evaluators reward. The aspirants who master the optional's central skill of reconstructing a position, testing it against objections and defending a reasoned verdict produce answers demonstrating specialist reasoning that consistently earns strong marks. The well-prepared aspirant in this subject typically scores 250 to 320 marks while the weakly prepared aspirant often slips below 190 marks. That gap between an argued response and a descriptive one shapes the final ranking decisively. This UPSC Philosophy optional complete guide is built around developing the argumentative integration capability that targets 300 plus marks.

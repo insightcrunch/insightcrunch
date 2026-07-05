@@ -3,7 +3,7 @@ layout: post
 title: "Fall of Singapore: February 1942 Collapse"
 page_title: "Fall of Singapore: The December 1941 Through February 15 1942 Malayan Campaign and the Surrender of the Impregnable Fortress"
 date: 2006-06-21
-last_updated: 2006-06-21
+last_updated: 2026-07-05
 author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["arthur-percival", "decision-reconstruction", "pacific-theater", "1942", "fall-of-singapore", "united-kingdom"]

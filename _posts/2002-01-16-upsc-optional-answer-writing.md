@@ -9,7 +9,7 @@ excerpt: "UPSC optional answer writing guide to 10, 15 and 20 mark questions wit
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2002-01-16
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC optional answer writing is the single skill that converts the hundreds of hours you have already invested in reading your optional subject into the marks that actually appear on your scorecard. You can know your optional better than the person sitting beside you in the examination hall and still finish forty marks behind them across the two papers, purely because they have learned to package what they know into the shape an evaluator rewards and you have not. The optional carries 500 marks out of the 1750 that decide the merit list, and at the level where ranks are separated by a handful of marks, the gap between a candidate who writes a 10 mark answer in 150 disciplined words and one who writes the same content in a sprawling, structureless 220 words is the gap between a service of choice and another year of waiting. This guide is built entirely around that conversion problem: how to read the mark value of a question, how to calibrate depth and length to it, and how to practise until the calibration becomes automatic.

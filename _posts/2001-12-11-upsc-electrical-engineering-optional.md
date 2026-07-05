@@ -9,7 +9,7 @@ excerpt: "Decode the UPSC electrical engineering optional with a full syllabus m
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2001-12-11
+last_updated: 2026-07-05
 lang: en
 ---
 You spent four years learning circuit theory, control systems, power systems and signal processing, and now you are staring at the optional subject list wondering whether all of that effort can be converted into Mains marks instead of being quietly discarded. The UPSC electrical engineering optional sits at the centre of that question, and very few resources answer it honestly. Most either glamorise it as a guaranteed scorer because it is "objective," or dismiss it outright because "humanities optionals are safer." Both verdicts are lazy. The truth is more useful and more demanding, and this guide gives it to you in full, with the syllabus mapped section by section, the books named with the chapters that actually matter, the answer-writing technique that technical papers reward, and a clear-eyed account of who should choose this optional and who should walk away from it.

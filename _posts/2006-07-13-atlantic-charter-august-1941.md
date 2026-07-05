@@ -3,7 +3,7 @@ layout: post
 title: "Atlantic Charter: FDR-Churchill August 1941"
 page_title: "Atlantic Charter: FDR and Churchill's August 9 Through August 12 1941 Meeting at Placentia Bay and the Eight Principles That Shaped Postwar Order"
 date: 2006-07-13
-last_updated: 2006-07-13
+last_updated: 2026-07-05
 author: "diana-patel"
 categories: ["Leisure"]
 tags: ["franklin-roosevelt", "decision-reconstruction", "atlantic-theater", "1941", "atlantic-charter", "united-states"]

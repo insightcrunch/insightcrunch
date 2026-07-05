@@ -9,7 +9,7 @@ excerpt: "UPSC literature optional guide comparing English, Hindi, Sanskrit and 
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2002-02-21
+last_updated: 2026-07-05
 lang: en
 ---
 The literature optional occupies a strange and often misunderstood corner of the UPSC choice map. When an aspirant decides to write the literature of a particular tongue as the elective subject, that decision sits apart from almost every other optional on offer. It is not a current-affairs subject, it does not chase the news cycle, and it does not borrow heavily from any General Studies paper. Instead it asks a candidate to read prescribed works closely, to understand how a linguistic tradition grew across centuries, and to write critically about poems, plays, novels and ideas. This guide treats the entire family of literary electives as one connected field so that you can judge, with clear eyes, whether one of these subjects belongs in your strategy and, if it does, which one.

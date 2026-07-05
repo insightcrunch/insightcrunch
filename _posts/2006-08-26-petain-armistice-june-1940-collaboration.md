@@ -3,7 +3,7 @@ layout: post
 title: "Pétain's Armistice: June 1940 Collaboration"
 page_title: "Pétain's Armistice: The June 10 Through June 22 1940 French Cabinet Decision and the Reynaud-Pétain Struggle That Chose Vichy"
 date: 2006-08-26
-last_updated: 2006-08-26
+last_updated: 2026-07-05
 author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["philippe-petain", "decision-reconstruction", "european-theater", "1940", "french-armistice", "france"]

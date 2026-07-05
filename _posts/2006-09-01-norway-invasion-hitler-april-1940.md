@@ -4,7 +4,7 @@ title: "Norway Invasion: Hitler's April 1940 Gambit"
 page_title: "Operation Weserübung: Hitler's December 1939 to April 1940 Decision to Invade Norway and Denmark"
 date: 2006-09-01
 author: "chloe-martin"
-last_updated: 2006-09-01
+last_updated: 2026-07-05
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "european-theater", "1940", "norway-invasion", "germany"]
 image: /assets/images/blog/blog-02.webp

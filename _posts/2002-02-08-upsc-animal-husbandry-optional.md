@@ -9,7 +9,7 @@ excerpt: "UPSC Animal Husbandry and Veterinary Science optional guide for BVSc g
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2002-02-08
+last_updated: 2026-07-05
 lang: en
 ---
 The UPSC Animal Husbandry and Veterinary Science optional is the specialist choice that a small, self-selecting group of veterinary graduates reach for, often after a long internal debate about whether their professional degree is an asset or a trap inside the civil services examination. If you completed a BVSc and AH degree and you are staring at the optional subject list wondering whether five and a half years of anatomy, physiology, pathology, and clinical rotations can be converted into 500 marks of examination scoring, this guide is written for you. The honest answer is that Animal Husbandry can be a genuinely high-scoring optional for the right candidate, yet it is also one of the most misunderstood choices on the list, surrounded by thin information, almost no quality coaching, and very few public toppers to learn from. That information vacuum is precisely why so many eligible veterinary graduates abandon their natural advantage and pick a generic humanities subject they have to learn from scratch.

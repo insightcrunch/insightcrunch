@@ -3,7 +3,7 @@ layout: post
 title: "Dunkirk: Ramsay's Operation Dynamo May 1940"
 page_title: "Dunkirk: Vice Admiral Bertram Ramsay's Operation Dynamo May 26 Through June 4 1940 and the Evacuation of 338,226 Allied Troops"
 date: 2006-10-15
-last_updated: 2006-10-15
+last_updated: 2026-07-05
 author: "diana-patel"
 categories: ["Leisure"]
 tags: ["bertram-ramsay", "decision-reconstruction", "european-theater", "1940", "dunkirk-evacuation", "united-kingdom"]

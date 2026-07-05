@@ -9,7 +9,7 @@ excerpt: "Kissinger flew secretly to Beijing in July 1971. Nixon went public in 
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2008-03-14
+last_updated: 2026-07-05
 lang: en
 ---
 On the afternoon of July 9, 1971, a Pakistan International Airlines Boeing 707 lifted off from Chaklala Air Base outside Rawalpindi and turned northeast toward the high passes of the Karakoram. The plane's most important passenger had been listed nowhere on its manifest. Henry Kissinger, National Security Adviser to the President of the United States, had spent the previous evening in Islamabad pretending to be unwell. Pakistani officials had told the press corps trailing him through Asia that Dr. Kissinger had picked up a stomach complaint, that he required rest, that he would be conveyed to a presidential guest house in the cool hills of Nathia Gali to recover. The guest house was real. The illness was not. While reporters drafted thin paragraphs about Kissinger's diet, the man himself was in the air, headed for Beijing, where Premier Zhou Enlai was waiting to meet him.

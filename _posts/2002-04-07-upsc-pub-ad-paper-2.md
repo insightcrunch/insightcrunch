@@ -9,7 +9,7 @@ excerpt: "UPSC Public Administration optional Paper 2 covering Indian administra
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 71
 author: "anita-das"
-last_updated: 2002-04-07
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Public Administration optional Paper 2 Indian administration represents the institutional domain where aspirants demonstrate capacity to deploy Paper 1's administrative theory to analyse India's complex governance machinery from central secretariat to district collectorate to village Panchayat. The aspirants who treat Paper 2 as descriptive institutional catalogue listing constitutional provisions and administrative structures without deploying theoretical analytical framework produce answers indistinguishable from GS2 governance description that evaluators penalise as lacking optional-level depth. The aspirants who deploy Weber's bureaucracy ideal type to assess Indian civil service NPM principles to evaluate governance reforms Riggs' prismatic model to explain administrative behaviour and Good Governance framework to evaluate institutional effectiveness produce theory-grounded institutional analysis evaluators consistently reward. The well-prepared Paper 2 aspirant typically scores 125 to 160 marks while the inadequately prepared aspirant often scores below 85 marks. This UPSC Public Administration Paper 2 guide is built around developing the theory-informed institutional analysis that high marks demand.

@@ -9,7 +9,7 @@ excerpt: "Eisenhower's six-day U-2 cover story collapsed under Khrushchev's evid
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 72
 author: "amanda-ross"
-last_updated: 2008-04-21
+last_updated: 2026-07-05
 lang: en
 ---
 May 1, 1960. International Workers' Day in Moscow. Francis Gary Powers, a thirty-year-old former Air Force pilot under CIA contract, takes off from a forward airbase near Peshawar, Pakistan, at 06:26 local time. His U-2C reconnaissance aircraft, designated Article 360, carries a Type B camera built by Hycon designed to image Soviet missile facilities at Plesetsk, the suspected ICBM complex at Yurya, the plutonium-production city of Mayak (then known as Chelyabinsk-40), and the bomber bases at Engels and Bolsoye Savino. The flight plan crosses 2,900 nautical miles of Soviet territory before exiting over Norway at Bodo airbase. At cruising altitude the U-2 flies above 70,000 feet, beyond the operational ceiling of every interceptor the Soviet Air Defense Forces had fielded for the prior four years of overflights. The mission has been planned since mid-April. Eisenhower personally signed off on it on April 25 over the objections of staff who argued that the Paris Summit, scheduled for May 16, made the timing reckless. Four hours into the flight, near Sverdlovsk in the Ural Mountains, an S-75 Dvina surface-to-air missile detonates close to Powers' aircraft. The U-2 begins to disintegrate. Powers ejects. He survives. The cover story begins falling apart before he reaches the ground.

@@ -9,7 +9,7 @@ excerpt: "The UPSC Civil Engineering optional offers objective marking, real GS3
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2001-12-16
+last_updated: 2026-07-05
 lang: en
 ---
 If you graduated with a degree in civil engineering and you are now staring at the optional subject decision, you are probably caught between two voices. One voice tells you that humanities subjects are safer, that everyone scores well in Sociology or Public Administration, and that your four years of structural analysis and fluid mechanics are now a sunk cost. The other voice, quieter but more honest, reminds you that you actually understand bending moments, that derivations make sense to you, and that the idea of memorising paragraphs about social thinkers fills you with a particular kind of dread. This article exists for that second voice. The UPSC Civil Engineering optional is one of the most misunderstood choices in the entire optional landscape, and the misunderstanding cuts both ways. Some aspirants pick it for the wrong reasons and suffer. Others avoid it for the wrong reasons and miss a genuine advantage.

@@ -9,7 +9,7 @@ excerpt: "UPSC Modern Indian History guide covering 1857 to Independence, nation
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2001-04-30
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Modern Indian History is the single most rewarding segment of the General Studies Paper 1 syllabus, and it is also the segment where the gap between a competent aspirant and a genuinely prepared one becomes visible in the answer script. The period stretching from the Revolt of 1857 to the transfer of power in 1947 supplies a large share of Prelims questions and anchors an even larger share of the Mains General Studies Paper 1 marks, yet a surprising number of candidates approach it as a collection of dates and names to be memorised rather than as a connected narrative of cause, consequence, and contested interpretation. The candidate who reduces the freedom struggle to a timeline produces answers that read like a Wikipedia extract and earns marks accordingly. The candidate who understands the underlying economic critique, the shifting social base of the nationalist movement, the interplay between constitutional reform and mass agitation, and the multiple streams of resistance beyond the Congress mainstream produces answers that demonstrate historical reasoning, and it is that reasoning the examiner rewards. This guide is built to move you from the first kind of preparation to the second.

@@ -9,7 +9,7 @@ excerpt: "UPSC optional comparison of Anthropology vs Philosophy vs Public Admin
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2002-01-30
+last_updated: 2026-07-05
 lang: en
 ---
 The UPSC optional comparison of Anthropology vs Philosophy vs Public Administration brings together the three subjects most often described as the compact syllabus trio, the choices an aspirant considers when the goal is high marks from a limited reading load rather than the sprawling temporal scope of History or the heavy mapping burden of Geography. The aspirant who picks one of these three without understanding what each genuinely demands tends to drift toward whichever name sounds most respectable, then discovers two years later that the supposedly scoring subject rewards a thinking style their mind resists. The aspirant who studies the structural differences first, who recognises that one of these subjects rewards diagrams and field data, the second rewards argument and conceptual precision, and the third rewards administrative reasoning anchored in thinkers and committees, makes a selection that fits the way their mind already works and converts that fit into marks. A well-matched choice among these three typically produces 270 to 320 marks in the hands of a disciplined aspirant, while a mismatched choice traps an equally hardworking aspirant below 230. The 60 to 90 mark gap between fit and mismatch decides ranks and services. This guide is built to make that selection deliberate rather than accidental.

@@ -9,7 +9,7 @@ excerpt: "FDR passed fifteen major bills between March 9 and June 16, 1933. The 
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2008-05-30
+last_updated: 2026-07-05
 lang: en
 ---
 At noon on March 4, 1933, the United States had no functional banking system. Thirty-eight states had closed their banks outright. The two largest economic states, New York and Illinois, had imposed full holidays the previous morning. The Federal Reserve was bleeding gold at a rate that would have exhausted its reserves within weeks. Industrial production stood at roughly half its 1929 level. One worker in four had no job. Farm prices had collapsed by sixty percent. Twelve million Americans were unemployed in a population of one hundred twenty-five million. The Dow Jones Industrial Average had closed the previous trading day at 53, down from a 1929 peak of 381. Suicides had reached the highest per-capita level the country had ever recorded.

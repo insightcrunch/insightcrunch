@@ -9,7 +9,7 @@ excerpt: "UPSC World Geography guide covering climatology, oceanography, geomorp
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-04-17
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC World Geography is the portion of the syllabus that quietly decides the fate of your General Studies Paper 1 score in Prelims and your GS1 physical geography answers in Mains, and yet it is the portion most aspirants either fear as impossibly technical or dismiss as too small to bother with. You have probably sat with a textbook diagram of ocean currents or a Koppen climate map and felt the familiar sinking sensation of not knowing where to begin, how deep to go, or which of the hundred sub-topics will actually be tested. That confusion is not a reflection of your ability. It is a reflection of how badly this subject is usually taught, as a disconnected list of facts to memorise rather than as a coherent system of cause and effect that, once understood, becomes almost impossible to forget.

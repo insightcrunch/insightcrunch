@@ -3,7 +3,7 @@ layout: post
 title: "Stalin Invades Poland: September 17 1939"
 page_title: "Stalin's Partition Move: The September 17 1939 Soviet Invasion of Eastern Poland Per the Molotov-Ribbentrop Secret Protocol"
 date: 2006-09-12
-last_updated: 2006-09-12
+last_updated: 2026-07-05
 author: "diana-patel"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "decision-reconstruction", "european-theater", "1939", "soviet-invasion-poland", "soviet-union"]

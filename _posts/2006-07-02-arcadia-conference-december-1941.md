@@ -3,7 +3,7 @@ layout: post
 title: "Arcadia Conference: December 1941 Anglo-US"
 page_title: "Arcadia Conference: The December 22 1941 Through January 14 1942 Washington Meeting That Confirmed Europe-First Strategy and Created the Combined Chiefs of Staff"
 date: 2006-07-02
-last_updated: 2006-07-02
+last_updated: 2026-07-05
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["franklin-roosevelt", "decision-reconstruction", "atlantic-theater", "1942", "arcadia-conference", "united-states"]

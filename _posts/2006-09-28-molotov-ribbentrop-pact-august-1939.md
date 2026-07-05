@@ -3,7 +3,7 @@ layout: post
 title: "Molotov-Ribbentrop Pact: August 1939"
 page_title: "Molotov-Ribbentrop Pact: Stalin's August 23 1939 Decision to Partner With Hitler and the Secret Protocol That Divided Eastern Europe"
 date: 2006-09-28
-last_updated: 2006-09-28
+last_updated: 2026-07-05
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "decision-reconstruction", "european-theater", "1939", "molotov-ribbentrop-pact", "soviet-union"]

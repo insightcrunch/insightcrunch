@@ -9,7 +9,7 @@ excerpt: "UPSC Anthropology optional complete guide: scoring reputation, short s
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2002-04-03
+last_updated: 2026-07-05
 lang: en
 ---
 The UPSC Anthropology optional carries a reputation that precedes it across every Telegram group, every coaching corridor, and every late-night aspirant forum: the scoring optional, the short syllabus, the engineer's escape route, the subject you can finish in four months. Some of that reputation is earned and some of it is dangerous folklore that has wrecked more attempts than it has rescued. If you are standing at the optional selection crossroads and Anthropology keeps surfacing as the safe, quick, high-yield choice, you deserve an honest account rather than a recruitment pitch, because choosing an optional is a 500 mark decision that will shape eighteen months of your life and a large slice of your final rank.

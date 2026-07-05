@@ -9,7 +9,7 @@ excerpt: "In July 1965, Johnson chose between George Ball's withdrawal memo and 
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2008-03-25
+last_updated: 2026-07-05
 lang: en
 ---
 The president had been awake since before five. On the morning of Wednesday, July 21, 1965, Lyndon Johnson walked into the Cabinet Room knowing that within seven days he would have to give the country a number. Westmoreland wanted forty-four battalions. McNamara wanted closer to two hundred thousand troops. Ball wanted out, and had spent three weeks writing the memo that argued so. The reporters in the briefing room downstairs already sensed something was coming. What they did not yet know was that the country was about to be quietly committed to a land war on the Asian mainland without a single new vote being asked of Congress.

@@ -9,7 +9,7 @@ excerpt: "UPSC Philosophy vs Anthropology optional comparison: conceptual versus
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-12-29
+last_updated: 2026-07-05
 lang: en
 ---
 The UPSC Philosophy vs Anthropology decision traps thousands of aspirants every cycle in a strange paralysis, because the two subjects look superficially similar (compact syllabus, reputation for scoring, popular among candidates from every academic background) while being almost opposite in the cognitive demands they place on you. One subject asks you to argue; the other asks you to observe. One rewards the mind that enjoys taking a concept apart until its hidden assumptions are exposed; the other rewards the mind that enjoys mapping how real human communities are organised, how they evolved, and how they change. Choosing between them on the basis of "which is more scoring" is the single most common mistake in this entire decision, and it is the mistake that produces a candidate who has selected a subject their temperament quietly rebels against for the next eighteen to thirty months.

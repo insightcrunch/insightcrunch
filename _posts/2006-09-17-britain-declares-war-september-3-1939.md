@@ -3,7 +3,7 @@ layout: post
 title: "Britain Declares War: Chamberlain September 3"
 page_title: "Britain Declares War: Chamberlain's September 1 to September 3 1939 Ultimatum Decision and the End of Appeasement"
 date: 2006-09-17
-last_updated: 2006-09-17
+last_updated: 2026-07-05
 author: "lauren-hayes"
 categories: ["Leisure"]
 tags: ["neville-chamberlain", "decision-reconstruction", "european-theater", "1939", "britain-declares-war", "united-kingdom"]

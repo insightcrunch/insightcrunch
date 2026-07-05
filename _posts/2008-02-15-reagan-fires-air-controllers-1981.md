@@ -9,7 +9,7 @@ excerpt: "PATCO struck August 3, 1981. Reagan gave 48 hours. He fired 11,345 con
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2008-02-15
+last_updated: 2026-07-05
 lang: en
 ---
 The Rose Garden microphone caught a phrase Reagan had practiced. Calvin Coolidge used it in September 1919 after Boston's police walked off duty, and the line had been pinned to a small set of index cards in the West Wing since the previous evening: there is no right to strike against the public safety by anybody, anywhere, any time. The president delivered it on Monday, August 3, at 10:55 in the morning, with a clock already running on roughly thirteen thousand federal workers. The Professional Air Traffic Controllers Organization had struck two hours earlier. The administration was giving them forty-eight hours to come back. Eighty-five percent did not, and on Wednesday the federal government fired 11,345 of its own employees in a single administrative stroke.

@@ -9,7 +9,7 @@ excerpt: "UPSC Philosophy optional Paper 2 guide: socio-political philosophy, ju
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2002-03-11
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Philosophy optional Paper 2 is the half of the optional where abstract reasoning meets lived political and spiritual reality, and the aspirants who treat it merely as a collection of definitions about justice, sovereignty and God tend to land in the 90 to 110 band while those who learn to argue earn 140 and above. This paper splits cleanly into socio-political philosophy and philosophy of religion, and each half rewards a different muscle. The political half wants you to reason about how human beings should live together, why the state may command obedience, and what equality actually means once you press on it. The religious half wants you to weigh arguments about divine existence, evil, the soul and faith without sliding into devotional commentary or hostile dismissal. The well-drilled candidate who builds a stance, defends it against the strongest objection, and closes with a measured judgement consistently outscores the candidate who reproduces textbook summaries of the same thinkers. The gap between these two performances, often 40 to 55 marks across the paper, is large enough to move your final rank by hundreds of places. This guide is organised around converting your knowledge into examination-grade argument so that every section of the second paper becomes a place where you gain marks rather than merely survive.

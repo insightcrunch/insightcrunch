@@ -9,7 +9,7 @@ excerpt: "UPSC Sociology optional Paper 1 covering classical sociologists Durkhe
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 70
 author: "kavita-sharma"
-last_updated: 2002-04-25
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Sociology optional Paper 1 fundamentals and thinkers represents the theoretical backbone where aspirants demonstrate genuine intellectual engagement with classical sociological thought combined with substantive understanding of sociological concepts methodology and Indian sociological tradition. The aspirants who prepare Paper 1 by memorising thinker positions without understanding their internal logic without connecting them to Indian social reality and without critically evaluating their explanatory power produce examination answers evaluators immediately recognise as rote reproduction rather than genuine sociological thinking. The aspirants who engage with Durkheim Marx Weber and Indian sociologists as structured tools for understanding society rather than as textbook content to reproduce produce multi-layered theoretically grounded answers that consistently earn high marks. The well-prepared Paper 1 aspirant typically scores 130 to 165 marks while the inadequately prepared aspirant often scores below 90 marks. This UPSC Sociology optional Paper 1 guide is built around developing the theoretical depth and critical deployment capability that high marks demand.

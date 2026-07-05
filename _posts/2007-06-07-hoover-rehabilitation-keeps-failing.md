@@ -9,7 +9,7 @@ excerpt: "Hoover ranked 21st in 1962 and 36th by 2021. Five serious scholarly re
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2007-06-07
+last_updated: 2026-07-05
 lang: en
 ---
 In a quiet suite on the thirty-first floor of the Waldorf Towers in New York, an aging man kept a working schedule that would have exhausted men half his age. He answered correspondence, drafted memoranda, edited the multiple volumes of his memoirs, and presided over a reorganization commission that two presidents had asked him to lead. The man was Herbert Hoover, and by the time he died in 1964 at the age of ninety, he had spent more than three decades in a kind of reputational exile, trying to outlive the four years that had defined him. He had fed starving Belgians, rescued famine-stricken Russians, organized American food production through one world war and assessed global hunger after another. He had also presided over the worst economic collapse in the history of the republic, and that single fact had eaten the rest.

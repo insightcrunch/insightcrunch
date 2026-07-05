@@ -9,7 +9,7 @@ excerpt: "Nixon had months to destroy the tapes after Butterfield's July testimo
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2008-03-08
+last_updated: 2026-07-05
 lang: en
 ---
 On the afternoon of Monday, July 16, 1973, a balding former Air Force colonel named Alexander Butterfield sat down at the witness table of the Senate Watergate Committee, raised his right hand, and within thirty minutes spoke five sentences that would unwind a presidency. The room was not full. Television cameras were running but the early-afternoon audience was modest. Senator Howard Baker's deputy minority counsel, Fred Thompson, asked the question the staff had spent the prior weekend rehearsing: Mr. Butterfield, are you aware of any listening devices in the Oval Office of the president? Butterfield, who had spent his entire career as a man who answered questions truthfully, did so again. He described a voice-activated recording system installed in February 1971 in the Oval Office, the Cabinet Room, the president's office in the Executive Office Building, and the Lincoln Sitting Room. He described the Camp David recording capability. He described the system as comprehensive.

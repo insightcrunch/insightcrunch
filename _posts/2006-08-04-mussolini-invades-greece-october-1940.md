@@ -4,7 +4,7 @@ title: "Mussolini Invades Greece: October 1940"
 page_title: "Mussolini's Greek Catastrophe: The October 28 1940 Invasion Decision and the Axis Disaster That Forced German Balkan Rescue"
 date: 2006-08-04
 author: "amanda-ross"
-last_updated: 2006-08-04
+last_updated: 2026-07-05
 categories: ["Leisure"]
 tags: ["benito-mussolini", "decision-reconstruction", "mediterranean-theater", "1940", "invasion-of-greece", "italy"]
 image: /assets/images/blog/blog-07.webp

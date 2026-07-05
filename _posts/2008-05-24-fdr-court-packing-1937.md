@@ -9,7 +9,7 @@ excerpt: "FDR's 1937 court-packing bill died in the Senate 70 to 20, but Rooseve
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2008-05-24
+last_updated: 2026-07-05
 lang: en
 ---
 On Friday, February 5, 1937, at noon, Franklin Roosevelt summoned his cabinet and the Democratic leadership of both houses of Congress to the White House for what they assumed was a routine briefing. Vice President John Nance Garner, Speaker William Bankhead, Senate Majority Leader Joseph Robinson, House Majority Leader Sam Rayburn, Senate Judiciary Chairman Henry Ashurst, and House Judiciary Chairman Hatton Sumners filed in. Attorney General Homer Cummings was already seated. The press waited in an adjoining room. Roosevelt handed each man a copy of a message he was about to deliver to Congress within the hour and a copy of a bill draft. He gave them ten minutes to read. Then he announced he was sending both to the Capitol immediately. There would be no consultation, no markup, no negotiation. The bill, which the administration insisted on calling the Judicial Procedures Reform Bill, would add up to six new justices to the Supreme Court, one for every sitting member of the bench who had passed seventy years of age and refused to retire.

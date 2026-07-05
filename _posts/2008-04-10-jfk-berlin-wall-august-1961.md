@@ -9,7 +9,7 @@ excerpt: "East Germany began building the Berlin Wall on August 13, 1961. Kenned
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 62
 author: "amanda-ross"
-last_updated: 2008-04-10
+last_updated: 2026-07-05
 lang: en
 ---
 Just after midnight on Sunday, August 13, 1961, East German police units and construction crews began stringing barbed wire across the boundary between East and West Berlin. By dawn, 97 of the 277 crossing points had been sealed. By the end of the day, the wire ran 27 miles. Within a week, concrete blocks were being stacked behind the wire. Within a month, the temporary barrier had become a permanent fortification. President John F. Kennedy, vacationing at Hyannis Port with his family, received the first cable around 8:00 a.m. Washington time. He read it, listened to a National Security Council briefing by phone, and then sailed out on the Marlin for the afternoon. No United States military response was ordered. No diplomatic ultimatum was issued. No emergency address to the nation was scheduled. The leader of the free world, on the day the wall went up, went sailing.

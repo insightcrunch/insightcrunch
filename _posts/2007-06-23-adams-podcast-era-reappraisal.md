@@ -9,7 +9,7 @@ excerpt: "John Adams ranked near 10th in 1962, then slid for decades. McCullough
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2007-06-23
+last_updated: 2026-07-05
 lang: en
 ---
 In the spring of 1790, sitting in the vice president's residence with a quill and a grievance, John Adams told his friend Benjamin Rush exactly how the story would be told without him. The history of the Revolution, he predicted, would become one continued lie from beginning to end. The whole of it would be reduced to a cartoon: Doctor Franklin's electric rod struck the ground, and up sprang General Washington, fully formed, to lead the new nation. Adams understood that he was writing his own epitaph in advance. He was the lawyer who had defended the British soldiers after the Boston Massacre, the diplomat who had negotiated loans in Holland while Franklin charmed Paris, the man who had spent the war years on cold ships and in colder lodgings far from the glory. He knew that glory required a face the public could love, and he knew his own face was not it.

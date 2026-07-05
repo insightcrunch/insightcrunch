@@ -9,7 +9,7 @@ excerpt: "On August 4, 1964, a phantom attack triggered the Gulf of Tonkin Resol
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 62
 author: "diana-patel"
-last_updated: 2008-04-05
+last_updated: 2026-07-05
 lang: en
 ---
 At 11:36 in the morning on August 4, 1964, Washington time, Captain John J. Herrick aboard the destroyer USS Maddox in the Gulf of Tonkin sent a flash message to Honolulu that, had it arrived eight hours earlier, would have changed American history. "Review of action," the cable read, "makes many reported contacts and torpedoes fired appear doubtful. Freak weather effects on radar and overeager sonarmen may have accounted for many reports. No actual visual sightings by Maddox. Suggest complete evaluation before any further action."

@@ -3,7 +3,7 @@ layout: post
 title: "Lend-Lease Act: FDR's March 1941 Commitment"
 page_title: "Lend-Lease Act: FDR's December 1940 Through March 1941 Decision to Become the Arsenal of Democracy Without Formally Entering the War"
 date: 2006-07-30
-last_updated: 2006-07-30
+last_updated: 2026-07-05
 author: "hannah-moore"
 categories: ["Leisure"]
 tags: ["franklin-roosevelt", "decision-reconstruction", "home-front", "1941", "lend-lease-act", "united-states"]

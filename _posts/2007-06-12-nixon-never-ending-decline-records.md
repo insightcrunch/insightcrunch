@@ -9,7 +9,7 @@ excerpt: "Nixon sat near the bottom of historian polls in 1982 and still ranks 3
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2007-06-12
+last_updated: 2026-07-05
 lang: en
 ---
 A reel of magnetic tape, recorded inside the Oval Office decades earlier, spins onto a playback machine in a federal archive. An archivist logs the date of the conversation, the participants, the deletions, the gaps. Somewhere in the hiss and the cross-talk a sentence surfaces that no biographer had heard before, and within a week it travels from a reading room in Maryland to a footnote in a revised assessment of the thirty-seventh president. This has happened, in one form or another, more times than any other modern presidency has endured. The pattern is not occasional. It is structural. The voice on the tape keeps talking, and almost every time it does, the man it belongs to falls a little further.

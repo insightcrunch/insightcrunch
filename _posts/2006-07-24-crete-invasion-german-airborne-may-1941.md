@@ -3,7 +3,7 @@ layout: post
 title: "Crete Invasion: German Airborne May 1941"
 page_title: "Operation Merkur: Student's May 1941 Airborne Invasion of Crete and the Pyrrhic Victory That Ended German Strategic Airborne Operations"
 date: 2006-07-24
-last_updated: 2006-07-24
+last_updated: 2026-07-05
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["kurt-student", "decision-reconstruction", "mediterranean-theater", "1941", "crete-invasion", "germany"]

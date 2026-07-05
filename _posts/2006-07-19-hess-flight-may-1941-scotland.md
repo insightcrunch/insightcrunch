@@ -3,7 +3,7 @@ layout: post
 title: "Hess Flight: May 1941 Scotland Mission"
 page_title: "Rudolf Hess's May 10 1941 Flight to Scotland: The Deputy Führer's Unauthorized Peace Mission Six Weeks Before Barbarossa"
 date: 2006-07-19
-last_updated: 2006-07-19
+last_updated: 2026-07-05
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["rudolf-hess", "decision-reconstruction", "european-theater", "1941", "hess-flight", "germany"]

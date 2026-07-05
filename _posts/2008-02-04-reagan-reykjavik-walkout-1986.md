@@ -9,7 +9,7 @@ excerpt: "Reagan and Gorbachev nearly eliminated all nuclear arms at Reykjavik i
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 73
 author: "diana-patel"
-last_updated: 2008-02-04
+last_updated: 2026-07-05
 lang: en
 ---
 At 6:50 p.m. on Sunday, October 12, 1986, Ronald Reagan stood up at a small white wooden house on the Reykjavik waterfront and ended the most ambitious arms-control negotiation in human history. Two leaders had spent two days inside Hofdi House moving from a proposal to cut strategic atomic arsenals in half, to a proposal to eliminate every ballistic missile on earth, to a proposal to abolish every nuclear weapon held by both superpowers within a decade. The breaking point was a single technical question about where research on strategic defense could legally be conducted. The president walked. Mikhail Gorbachev followed him out, and the photograph of the two men outside Hofdi, jaws set, eyes hard, became the iconic image of a deal that died in the doorway.

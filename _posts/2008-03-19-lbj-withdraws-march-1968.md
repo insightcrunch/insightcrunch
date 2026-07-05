@@ -9,7 +9,7 @@ excerpt: "Lyndon Johnson refused reelection on March 31, 1968. Tet shattered sup
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2008-03-19
+last_updated: 2026-07-05
 lang: en
 ---
 At 9:01 p.m. Eastern on Sunday, March 31, 1968, Lyndon he sat in the Oval Office facing three television cameras and a teleprompter that ran the address he had revised through the afternoon. For thirty-nine minutes he spoke about Southeast Asia: a partial halt to the bombing north of the twentieth parallel, a renewed offer to talk, the appointment of W. Averell Harriman as a designated negotiator, a request for a tax surcharge to fund the conflict, a defense of the South Vietnamese government's commitments. The country had heard versions of this material before. The final two paragraphs were new. "Accordingly, I shall not seek, and I will not accept, the nomination of my party for another term as your President." The sentence ran one hundred and ten words longer than what Press Secretary George Christian had cleared at six that evening, because Johnson had inserted the exit section himself during the afternoon's final pass.

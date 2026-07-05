@@ -3,7 +3,7 @@ layout: post
 title: "Hitler Invades Poland: September 1 1939"
 page_title: "Fall Weiss: Hitler's April Through September 1939 Decision to Invade Poland and the Gleiwitz Incident Pretext"
 date: 2006-09-23
-last_updated: 2006-09-23
+last_updated: 2026-07-05
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "european-theater", "1939", "invasion-of-poland", "germany"]

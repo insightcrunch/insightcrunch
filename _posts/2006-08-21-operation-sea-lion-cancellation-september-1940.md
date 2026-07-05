@@ -3,7 +3,7 @@ layout: post
 title: "Operation Sea Lion: September 1940 Postponement"
 page_title: "Operation Sea Lion: Hitler's July Through September 1940 Invasion-of-Britain Planning and the September 17 Indefinite Postponement"
 date: 2006-08-21
-last_updated: 2006-08-21
+last_updated: 2026-07-05
 author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "european-theater", "1940", "operation-sea-lion", "germany"]

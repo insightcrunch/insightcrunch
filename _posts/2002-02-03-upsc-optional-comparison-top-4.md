@@ -9,7 +9,7 @@ excerpt: "A data driven UPSC optional comparison of Geography, History, PSIR and
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2002-02-03
+last_updated: 2026-07-05
 lang: en
 ---
 Choosing your optional is the single most consequential strategic decision in your entire preparation, and for a large share of aspirants that decision comes down to four names: Geography, History, Political Science and International Relations, and Sociology. This UPSC optional comparison exists because the four subjects dominate the choice sheets of arts, humanities, and even engineering aspirants year after year, and because the wrong pick can quietly cost you fifty to eighty marks across two papers without you ever realising where the leak was. Two papers of two hundred and fifty marks each mean five hundred marks ride on this choice, which is more than the entire General Studies aggregate that everyone obsesses over. Getting this right is not a luxury. It is the foundation on which a competitive Mains score is built.

@@ -3,7 +3,7 @@ layout: post
 title: "Stalingrad: Hitler's November 1942 No-Retreat"
 page_title: "Stalingrad: Hitler's November 1942 No-Retreat Order and the Destruction of the German Sixth Army"
 date: 2006-10-20
-last_updated: 2006-10-20
+last_updated: 2026-07-05
 author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "eastern-front", "1942", "stalingrad", "germany"]

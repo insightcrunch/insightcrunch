@@ -11,6 +11,7 @@ excerpt: "Sixteen B-25s launched from a carrier 650 miles from Japan, bombed Tok
 slug: "doolittle-raid-april-1942-tokyo"
 reading_time: 57
 lang: en
+last_updated: 2026-07-05
 ---
 At roughly 8:20 on the morning of April 18, 1942, Lieutenant Colonel James Doolittle pushed the throttles of a twin-engine North American B-25 Mitchell bomber to their stops, released the brakes, and rolled down 467 feet of pitching flight deck aboard the carrier USS Hornet. The bomber's wheels left the deck with room to spare, sagged toward the gray Pacific, and then climbed. Over the next hour, fifteen more B-25s followed, each one a medium bomber that had never been designed to leave a ship, launched from a carrier that had never been designed to carry it, headed for a target that American planners had spent three months insisting could not be struck at all. The first American bombs to fall on the Japanese home islands were minutes away.
 

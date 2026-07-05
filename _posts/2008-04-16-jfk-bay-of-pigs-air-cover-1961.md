@@ -9,7 +9,7 @@ excerpt: "Kennedy inherited the Bay of Pigs invasion plan from Eisenhower. He ca
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 64
 author: "rachel-foster"
-last_updated: 2008-04-16
+last_updated: 2026-07-05
 lang: en
 ---
 At 9:46 pm on April 16, 1961, McGeorge Bundy placed a telephone call to General Charles Cabell, the deputy director of the Central Intelligence Agency. Bundy had just spoken with the president, who was spending Easter weekend at Glen Ora, the rented Virginia estate the Kennedys used as a country retreat. The message Bundy relayed was specific. The dawn air strikes scheduled for the next morning, targeting what remained of Fidel Castro's air force after a partial attack two days earlier, were cancelled. Cabell asked permission to appeal directly to Dean Rusk. Bundy approved the appeal. Rusk took Cabell's call shortly after eleven o'clock from his seventh-floor office at the State Department, listened to the agency's case for restoring the strikes, and let the cancellation stand. The Cuban exile brigade, already at sea aboard five rusting transport ships, would land in the dark at Playa Giron without the air support the operation's planners had spent thirteen months treating as essential.

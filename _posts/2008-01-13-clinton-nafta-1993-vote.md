@@ -9,7 +9,7 @@ excerpt: "Clinton passed NAFTA in 1993 with more Republican than Democratic Hous
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 64
 author: "chloe-martin"
-last_updated: 2008-01-13
+last_updated: 2026-07-05
 lang: en
 ---
 The East Room of the White House, September 14, 1993, just past ten in the morning. Behind a long table sit four men who between them have governed the United States for twenty of the previous twenty-five years. Jimmy Carter is on the far left, smiling thinly. Gerald Ford sits to his right, looking like a man surprised to find himself anywhere ceremonial. George H. W. Bush, defeated only ten months earlier by the man now standing at the lectern, leans forward with the practiced public composure of a one-term president still figuring out what to do with his afternoons. And Bill The President, forty-seven years old, eight months into his presidency, is asking three former presidents to lend him their reputations on a bill that the leadership of his own party is preparing to kill.

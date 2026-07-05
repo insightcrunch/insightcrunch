@@ -3,7 +3,7 @@ layout: post
 title: "Midway: Nimitz's June 1942 Carrier Commitment"
 page_title: "Midway: Admiral Chester Nimitz's May 1942 Decision to Commit All Three Available Carriers on Rochefort's Codebreaking Intelligence"
 date: 2006-10-09
-last_updated: 2006-10-09
+last_updated: 2026-07-05
 author: "diana-patel"
 categories: ["Leisure"]
 tags: ["chester-nimitz", "decision-reconstruction", "pacific-theater", "1942", "battle-of-midway", "united-states"]

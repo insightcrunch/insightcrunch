@@ -9,7 +9,7 @@ excerpt: "UPSC History optional Paper 2 covering modern India 1757 to 1947 natio
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
 author: "kavita-sharma"
-last_updated: 2002-05-18
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC History optional Paper 2 modern India and world history represents the dual-domain challenge where aspirants must demonstrate analytical mastery of both colonial-nationalist Indian history and transformative European-global history within single test paper. The aspirants who prepare Paper 2 with structural analytical capability combining economic critique of colonialism multi-phase nationalist movement understanding and global historical process awareness consistently outperform aspirants who produce descriptive chronological narratives of events and personalities. The well-prepared Paper 2 aspirant typically scores 130 to 170 marks while the inadequately prepared aspirant often scores below 90 marks. The 40 to 80 marks differential between analytical and descriptive Paper 2 performance substantially affects History optional total. This UPSC History optional Paper 2 guide is built around developing the dual-domain analytical capability that high marks demand.

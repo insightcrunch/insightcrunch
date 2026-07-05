@@ -9,7 +9,7 @@ excerpt: "UPSC Geography vs Sociology optional comparison on syllabus scope, sco
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2002-01-07
+last_updated: 2026-07-05
 lang: en
 ---
 The UPSC Geography vs Sociology decision traps thousands of aspirants every cycle at the exact moment when a wrong turn costs the most, which is the start of the optional journey. Both subjects rank among the most chosen humanities optionals, both promise strong general studies overlap, both have produced top rankers in recent cycles, and both carry deep reservoirs of coaching material and toppers' notes. Yet the two subjects demand almost opposite cognitive strengths. One rewards the aspirant who thinks in maps, cross-sections, and spatial cause and effect. The other rewards the aspirant who thinks in theoretical frameworks, social structures, and the link between individual experience and collective patterns. Choosing between them on the basis of popularity, a friend's recommendation, or a single topper interview is the single most common reason aspirants abandon an optional after eight months of wasted preparation. This focused comparison exists so that you make the decision once, make it deliberately, and never look back.

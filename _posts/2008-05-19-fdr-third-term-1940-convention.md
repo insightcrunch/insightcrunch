@@ -9,7 +9,7 @@ excerpt: "FDR broke the 144-year two-term norm Washington set in 1796. The July 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 73
 author: "diana-patel"
-last_updated: 2008-05-19
+last_updated: 2026-07-05
 lang: en
 ---
 At 9:43 p.m. on Wednesday, July 17, 1940, the lights in the Chicago Stadium dimmed and a deep, amplified voice rolled through the hall: "We want Roosevelt. The world wants Roosevelt." The voice belonged to Thomas D. Garry, Superintendent of Sewers for the city of Chicago, sitting in a basement room with a live microphone fed into the gathering's public-address system. Mayor Edward J. Kelly had arranged the placement. For roughly fifty-three minutes the delegates marched, shouted, and waved standards while Senator Alben Barkley, the permanent chairman, stood at the rostrum unable to call order. Outside the hall, banners rained from balconies. Inside, the President of the United States was at his desk in the second-floor study at the White House, listening on the radio with Harry Hopkins and Missy LeHand. Hopkins, who had been running the Chicago operation from a suite at the Blackstone Hotel since June, had wired the script in advance. The voice from the sewer was the audible moment a 144-year informal constitutional norm cracked.

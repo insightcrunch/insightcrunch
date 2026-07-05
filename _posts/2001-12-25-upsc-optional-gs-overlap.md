@@ -9,7 +9,7 @@ excerpt: "Every UPSC optional quietly shares content with the General Studies pa
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-12-25
+last_updated: 2026-07-05
 lang: en
 ---
 Most aspirants prepare for the UPSC optional and the General Studies papers as if they live in two sealed rooms with no connecting door. They read one set of books for the optional, another set for the General Studies papers, take separate notes, build separate revision schedules, and quietly accept that they are carrying two full courses on their back at once. This is the single most expensive mistake in the entire Mains preparation cycle, and almost nobody discusses it in concrete terms. The truth is that GS overlap is real, it is large for several subjects, and learning to exploit it deliberately can recover three to five months of preparation time over a two year journey.

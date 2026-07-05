@@ -9,7 +9,7 @@ excerpt: "Jimmy Carter ranked 32nd of 36 in 1982 and sits near 26th now. The Nob
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2007-06-18
+last_updated: 2026-07-05
 lang: en
 ---
 On a December morning in Oslo in 2002, a seventy-eight-year-old peanut farmer from Plains, Georgia, stood before the Norwegian Nobel Committee and accepted the Peace Prize for what the citation called decades of tireless effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development. The audience applauded a global statesman. Back home, the same man held a peculiar distinction that the applause could not touch. Among the academic surveys that rank American presidents, the Georgian had spent two decades stuck in the bottom third, parked somewhere between the forgettable one-term caretakers of the late nineteenth century and the administrations that scholars file under disappointment. The prize honored the figure. It did nothing measurable to the office he had held from 1977 to 1981.

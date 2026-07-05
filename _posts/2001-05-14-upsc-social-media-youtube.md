@@ -9,7 +9,7 @@ excerpt: "A complete UPSC social media strategy for YouTube, Telegram and Twitte
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2001-05-14
+last_updated: 2026-07-05
 lang: en
 ---
 A serious UPSC social media strategy is now as important to your preparation as your booklist, because the same phone that holds every free lecture, every current affairs thread, and every study group also holds the most sophisticated attention-capture machinery ever built, and it does not care whether you clear the Civil Services Examination or spend three years feeling busy without moving forward. Almost every aspirant today begins with YouTube, drifts into a dozen Telegram channels, and keeps Twitter open for current affairs, and almost every aspirant discovers, usually too late, that these tools quietly reorganised their day around consumption rather than mastery. This is not a lecture telling you to delete every app and study from paper. It is a working manual for turning YouTube, Telegram, and Twitter into disciplined instruments that genuinely accelerate your journey, while dismantling the information overload trap and the screen time drift that sink far more candidates than any tough question paper ever will.

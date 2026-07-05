@@ -9,7 +9,7 @@ excerpt: "Eisenhower sent 1,200 paratroopers of the 101st Airborne Division to L
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 75
 author: "chloe-martin"
-last_updated: 2008-04-27
+last_updated: 2026-07-05
 lang: en
 ---
 At 9:35 p.m. on the evening of Monday, September 23, 1957, a Western Union teletype began chattering in the West Wing of the White House. The message had been filed twenty minutes earlier from City Hall in Little Rock, Arkansas. It was signed by Woodrow Wilson Mann, the city's Democratic mayor, a moderate segregationist who had spent the previous three weeks watching his governor turn a school desegregation order into a national constitutional crisis. The telegram ran to nine sentences. The operative one read: "The immediate need for federal troops is urgent. The mob is much larger in numbers at 8 a.m. than at any time yesterday. People are converging on the scene from all directions. Mob is armed and engaging in fisticuffs and other acts of violence. Situation is out of control and police cannot disperse the mob. I am pleading to you as President of the United States in the interest of humanity, law and order, and because of democracy worldwide, to provide the necessary federal troops within several hours."

@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-05T09:12:08Z",
+  "generated": "2026-07-05T20:16:34Z",
   "threshold": 50,
-  "totalPosts": 3334,
-  "flaggedPosts": 2984,
+  "totalPosts": 3377,
+  "flaggedPosts": 3027,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 165.5,
+  "avgTopCount": 165.6,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -51312,6 +51312,1026 @@
         {
           "word": "current",
           "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2006-05-30-case-blue-hitler-summer-1942-caucasus.md",
+      "slug": "case-blue-hitler-summer-1942-caucasus",
+      "title": "Case Blue: Hitler's Summer 1942 Caucasus",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6624,
+      "topWord": "german",
+      "topCount": 111,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-30-case-blue-hitler-summer-1942-caucasus.md",
+      "flaggedWords": [
+        {
+          "word": "german",
+          "count": 111
+        },
+        {
+          "word": "army",
+          "count": 110
+        },
+        {
+          "word": "soviet",
+          "count": 98
+        },
+        {
+          "word": "oil",
+          "count": 80
+        },
+        {
+          "word": "blue",
+          "count": 60
+        },
+        {
+          "word": "caucasus",
+          "count": 56
+        },
+        {
+          "word": "war",
+          "count": 52
+        },
+        {
+          "word": "force",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "german",
+          "count": 111
+        },
+        {
+          "word": "army",
+          "count": 110
+        },
+        {
+          "word": "soviet",
+          "count": 98
+        },
+        {
+          "word": "oil",
+          "count": 80
+        },
+        {
+          "word": "blue",
+          "count": 60
+        },
+        {
+          "word": "caucasus",
+          "count": 56
+        },
+        {
+          "word": "war",
+          "count": 52
+        },
+        {
+          "word": "force",
+          "count": 51
+        },
+        {
+          "word": "decision",
+          "count": 50
+        },
+        {
+          "word": "group",
+          "count": 49
+        },
+        {
+          "word": "command",
+          "count": 49
+        },
+        {
+          "word": "directive",
+          "count": 48
+        },
+        {
+          "word": "offensive",
+          "count": 48
+        },
+        {
+          "word": "stalingrad",
+          "count": 48
+        },
+        {
+          "word": "hitler",
+          "count": 47
+        },
+        {
+          "word": "summer",
+          "count": 40
+        },
+        {
+          "word": "germany",
+          "count": 40
+        },
+        {
+          "word": "strength",
+          "count": 34
+        },
+        {
+          "word": "advance",
+          "count": 33
+        },
+        {
+          "word": "july",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2006-06-05-fall-of-tobruk-june-1942.md",
+      "slug": "fall-of-tobruk-june-1942",
+      "title": "Fall of Tobruk: June 1942 Eighth Army",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6782,
+      "topWord": "tobruk",
+      "topCount": 165,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-05-fall-of-tobruk-june-1942.md",
+      "flaggedWords": [
+        {
+          "word": "tobruk",
+          "count": 165
+        },
+        {
+          "word": "rommel",
+          "count": 127
+        },
+        {
+          "word": "british",
+          "count": 100
+        },
+        {
+          "word": "command",
+          "count": 95
+        },
+        {
+          "word": "army",
+          "count": 62
+        },
+        {
+          "word": "june",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "tobruk",
+          "count": 165
+        },
+        {
+          "word": "rommel",
+          "count": 127
+        },
+        {
+          "word": "british",
+          "count": 100
+        },
+        {
+          "word": "command",
+          "count": 95
+        },
+        {
+          "word": "army",
+          "count": 62
+        },
+        {
+          "word": "june",
+          "count": 51
+        },
+        {
+          "word": "german",
+          "count": 49
+        },
+        {
+          "word": "gazala",
+          "count": 47
+        },
+        {
+          "word": "single",
+          "count": 45
+        },
+        {
+          "word": "war",
+          "count": 42
+        },
+        {
+          "word": "decision",
+          "count": 42
+        },
+        {
+          "word": "fortress",
+          "count": 40
+        },
+        {
+          "word": "operational",
+          "count": 39
+        },
+        {
+          "word": "eighth",
+          "count": 37
+        },
+        {
+          "word": "armor",
+          "count": 37
+        },
+        {
+          "word": "tanks",
+          "count": 36
+        },
+        {
+          "word": "tank",
+          "count": 34
+        },
+        {
+          "word": "battle",
+          "count": 32
+        },
+        {
+          "word": "panzerarmee",
+          "count": 31
+        },
+        {
+          "word": "architecture",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2006-06-10-coral-sea-may-1942-first-carrier-battle.md",
+      "slug": "coral-sea-may-1942-first-carrier-battle",
+      "title": "Coral Sea: May 1942 First Carrier Battle",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6869,
+      "topWord": "sea",
+      "topCount": 133,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-10-coral-sea-may-1942-first-carrier-battle.md",
+      "flaggedWords": [
+        {
+          "word": "sea",
+          "count": 133
+        },
+        {
+          "word": "carrier",
+          "count": 132
+        },
+        {
+          "word": "japanese",
+          "count": 119
+        },
+        {
+          "word": "coral",
+          "count": 113
+        },
+        {
+          "word": "battle",
+          "count": 99
+        },
+        {
+          "word": "carriers",
+          "count": 86
+        },
+        {
+          "word": "american",
+          "count": 83
+        },
+        {
+          "word": "midway",
+          "count": 57
+        },
+        {
+          "word": "force",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "sea",
+          "count": 133
+        },
+        {
+          "word": "carrier",
+          "count": 132
+        },
+        {
+          "word": "japanese",
+          "count": 119
+        },
+        {
+          "word": "coral",
+          "count": 113
+        },
+        {
+          "word": "battle",
+          "count": 99
+        },
+        {
+          "word": "carriers",
+          "count": 86
+        },
+        {
+          "word": "american",
+          "count": 83
+        },
+        {
+          "word": "midway",
+          "count": 57
+        },
+        {
+          "word": "force",
+          "count": 57
+        },
+        {
+          "word": "tactical",
+          "count": 50
+        },
+        {
+          "word": "aircraft",
+          "count": 47
+        },
+        {
+          "word": "command",
+          "count": 46
+        },
+        {
+          "word": "fleet",
+          "count": 45
+        },
+        {
+          "word": "strategic",
+          "count": 44
+        },
+        {
+          "word": "war",
+          "count": 40
+        },
+        {
+          "word": "ships",
+          "count": 38
+        },
+        {
+          "word": "japan",
+          "count": 38
+        },
+        {
+          "word": "operation",
+          "count": 38
+        },
+        {
+          "word": "lexington",
+          "count": 36
+        },
+        {
+          "word": "strike",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2006-06-16-doolittle-raid-april-1942-tokyo.md",
+      "slug": "doolittle-raid-april-1942-tokyo",
+      "title": "Doolittle Raid: April 1942 Tokyo Bombing",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6873,
+      "topWord": "raid",
+      "topCount": 135,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-16-doolittle-raid-april-1942-tokyo.md",
+      "flaggedWords": [
+        {
+          "word": "raid",
+          "count": 135
+        },
+        {
+          "word": "japanese",
+          "count": 108
+        },
+        {
+          "word": "american",
+          "count": 92
+        },
+        {
+          "word": "chinese",
+          "count": 70
+        },
+        {
+          "word": "bombers",
+          "count": 60
+        },
+        {
+          "word": "war",
+          "count": 60
+        },
+        {
+          "word": "doolittle",
+          "count": 59
+        },
+        {
+          "word": "japan",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "raid",
+          "count": 135
+        },
+        {
+          "word": "japanese",
+          "count": 108
+        },
+        {
+          "word": "american",
+          "count": 92
+        },
+        {
+          "word": "chinese",
+          "count": 70
+        },
+        {
+          "word": "bombers",
+          "count": 60
+        },
+        {
+          "word": "war",
+          "count": 60
+        },
+        {
+          "word": "doolittle",
+          "count": 59
+        },
+        {
+          "word": "japan",
+          "count": 52
+        },
+        {
+          "word": "aircraft",
+          "count": 49
+        },
+        {
+          "word": "carrier",
+          "count": 48
+        },
+        {
+          "word": "air",
+          "count": 41
+        },
+        {
+          "word": "army",
+          "count": 40
+        },
+        {
+          "word": "china",
+          "count": 40
+        },
+        {
+          "word": "launch",
+          "count": 36
+        },
+        {
+          "word": "navy",
+          "count": 34
+        },
+        {
+          "word": "crews",
+          "count": 33
+        },
+        {
+          "word": "carriers",
+          "count": 31
+        },
+        {
+          "word": "civilians",
+          "count": 30
+        },
+        {
+          "word": "forces",
+          "count": 30
+        },
+        {
+          "word": "low",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2006-06-21-fall-of-singapore-february-1942.md",
+      "slug": "fall-of-singapore-february-1942",
+      "title": "Fall of Singapore: February 1942 Collapse",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7008,
+      "topWord": "singapore",
+      "topCount": 93,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-21-fall-of-singapore-february-1942.md",
+      "flaggedWords": [
+        {
+          "word": "singapore",
+          "count": 93
+        },
+        {
+          "word": "japanese",
+          "count": 85
+        },
+        {
+          "word": "percival",
+          "count": 74
+        },
+        {
+          "word": "british",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "singapore",
+          "count": 93
+        },
+        {
+          "word": "japanese",
+          "count": 85
+        },
+        {
+          "word": "percival",
+          "count": 74
+        },
+        {
+          "word": "british",
+          "count": 51
+        },
+        {
+          "word": "command",
+          "count": 50
+        },
+        {
+          "word": "surrender",
+          "count": 45
+        },
+        {
+          "word": "campaign",
+          "count": 43
+        },
+        {
+          "word": "war",
+          "count": 42
+        },
+        {
+          "word": "island",
+          "count": 39
+        },
+        {
+          "word": "decision",
+          "count": 37
+        },
+        {
+          "word": "air",
+          "count": 37
+        },
+        {
+          "word": "defenders",
+          "count": 35
+        },
+        {
+          "word": "position",
+          "count": 35
+        },
+        {
+          "word": "yamashita",
+          "count": 32
+        },
+        {
+          "word": "february",
+          "count": 31
+        },
+        {
+          "word": "troops",
+          "count": 30
+        },
+        {
+          "word": "force",
+          "count": 29
+        },
+        {
+          "word": "defense",
+          "count": 29
+        },
+        {
+          "word": "battle",
+          "count": 28
+        },
+        {
+          "word": "fall",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2006-06-27-wannsee-conference-january-1942-holocaust.md",
+      "slug": "wannsee-conference-january-1942-holocaust",
+      "title": "Wannsee Conference: January 1942 Holocaust",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6801,
+      "topWord": "wannsee",
+      "topCount": 66,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-27-wannsee-conference-january-1942-holocaust.md",
+      "flaggedWords": [
+        {
+          "word": "wannsee",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "wannsee",
+          "count": 66
+        },
+        {
+          "word": "jews",
+          "count": 48
+        },
+        {
+          "word": "meeting",
+          "count": 48
+        },
+        {
+          "word": "killing",
+          "count": 46
+        },
+        {
+          "word": "single",
+          "count": 42
+        },
+        {
+          "word": "german",
+          "count": 40
+        },
+        {
+          "word": "gathering",
+          "count": 39
+        },
+        {
+          "word": "heydrich",
+          "count": 39
+        },
+        {
+          "word": "conference",
+          "count": 33
+        },
+        {
+          "word": "protocol",
+          "count": 31
+        },
+        {
+          "word": "murder",
+          "count": 29
+        },
+        {
+          "word": "jewish",
+          "count": 29
+        },
+        {
+          "word": "distributed",
+          "count": 28
+        },
+        {
+          "word": "authority",
+          "count": 28
+        },
+        {
+          "word": "coordination",
+          "count": 26
+        },
+        {
+          "word": "office",
+          "count": 26
+        },
+        {
+          "word": "war",
+          "count": 26
+        },
+        {
+          "word": "genocide",
+          "count": 25
+        },
+        {
+          "word": "apparatus",
+          "count": 25
+        },
+        {
+          "word": "occupied",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "filename": "2006-07-02-arcadia-conference-december-1941.md",
+      "slug": "arcadia-conference-december-1941",
+      "title": "Arcadia Conference: December 1941 Anglo-US",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7043,
+      "topWord": "arcadia",
+      "topCount": 99,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-02-arcadia-conference-december-1941.md",
+      "flaggedWords": [
+        {
+          "word": "arcadia",
+          "count": 99
+        },
+        {
+          "word": "american",
+          "count": 95
+        },
+        {
+          "word": "war",
+          "count": 81
+        },
+        {
+          "word": "churchill",
+          "count": 75
+        },
+        {
+          "word": "germany",
+          "count": 71
+        },
+        {
+          "word": "british",
+          "count": 58
+        },
+        {
+          "word": "axis",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "arcadia",
+          "count": 99
+        },
+        {
+          "word": "american",
+          "count": 95
+        },
+        {
+          "word": "war",
+          "count": 81
+        },
+        {
+          "word": "churchill",
+          "count": 75
+        },
+        {
+          "word": "germany",
+          "count": 71
+        },
+        {
+          "word": "british",
+          "count": 58
+        },
+        {
+          "word": "axis",
+          "count": 56
+        },
+        {
+          "word": "coalition",
+          "count": 47
+        },
+        {
+          "word": "command",
+          "count": 47
+        },
+        {
+          "word": "combined",
+          "count": 47
+        },
+        {
+          "word": "roosevelt",
+          "count": 46
+        },
+        {
+          "word": "japan",
+          "count": 41
+        },
+        {
+          "word": "strategy",
+          "count": 39
+        },
+        {
+          "word": "allied",
+          "count": 37
+        },
+        {
+          "word": "conference",
+          "count": 37
+        },
+        {
+          "word": "staff",
+          "count": 37
+        },
+        {
+          "word": "allies",
+          "count": 36
+        },
+        {
+          "word": "united",
+          "count": 35
+        },
+        {
+          "word": "pacific",
+          "count": 35
+        },
+        {
+          "word": "strategic",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2006-07-08-battle-of-moscow-stalin-december-1941.md",
+      "slug": "battle-of-moscow-stalin-december-1941",
+      "title": "Battle of Moscow: Stalin's December 1941",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7030,
+      "topWord": "german",
+      "topCount": 157,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-08-battle-of-moscow-stalin-december-1941.md",
+      "flaggedWords": [
+        {
+          "word": "german",
+          "count": 157
+        },
+        {
+          "word": "soviet",
+          "count": 146
+        },
+        {
+          "word": "moscow",
+          "count": 119
+        },
+        {
+          "word": "war",
+          "count": 70
+        },
+        {
+          "word": "front",
+          "count": 64
+        },
+        {
+          "word": "army",
+          "count": 58
+        },
+        {
+          "word": "december",
+          "count": 55
+        },
+        {
+          "word": "stalin",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "german",
+          "count": 157
+        },
+        {
+          "word": "soviet",
+          "count": 146
+        },
+        {
+          "word": "moscow",
+          "count": 119
+        },
+        {
+          "word": "war",
+          "count": 70
+        },
+        {
+          "word": "front",
+          "count": 64
+        },
+        {
+          "word": "army",
+          "count": 58
+        },
+        {
+          "word": "december",
+          "count": 55
+        },
+        {
+          "word": "stalin",
+          "count": 51
+        },
+        {
+          "word": "command",
+          "count": 49
+        },
+        {
+          "word": "cold",
+          "count": 47
+        },
+        {
+          "word": "counteroffensive",
+          "count": 44
+        },
+        {
+          "word": "october",
+          "count": 41
+        },
+        {
+          "word": "winter",
+          "count": 40
+        },
+        {
+          "word": "defense",
+          "count": 39
+        },
+        {
+          "word": "battle",
+          "count": 39
+        },
+        {
+          "word": "operational",
+          "count": 37
+        },
+        {
+          "word": "decision",
+          "count": 36
+        },
+        {
+          "word": "city",
+          "count": 35
+        },
+        {
+          "word": "november",
+          "count": 34
+        },
+        {
+          "word": "hitler",
+          "count": 31
         }
       ]
     },
@@ -188670,6 +189690,144 @@
       ]
     },
     {
+      "filename": "2018-01-01-where-to-stay-las-vegas.md",
+      "slug": "where-to-stay-las-vegas",
+      "title": "Where to Stay in Las Vegas: Best Areas by Type",
+      "categories": [
+        "Travel"
+      ],
+      "lang": "en",
+      "wordCount": 6507,
+      "topWord": "strip",
+      "topCount": 201,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-01-01-where-to-stay-las-vegas.md",
+      "flaggedWords": [
+        {
+          "word": "strip",
+          "count": 201
+        },
+        {
+          "word": "base",
+          "count": 153
+        },
+        {
+          "word": "room",
+          "count": 101
+        },
+        {
+          "word": "trip",
+          "count": 93
+        },
+        {
+          "word": "center",
+          "count": 76
+        },
+        {
+          "word": "downtown",
+          "count": 75
+        },
+        {
+          "word": "vegas",
+          "count": 74
+        },
+        {
+          "word": "resorts",
+          "count": 56
+        },
+        {
+          "word": "resort",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "strip",
+          "count": 201
+        },
+        {
+          "word": "base",
+          "count": 153
+        },
+        {
+          "word": "room",
+          "count": 101
+        },
+        {
+          "word": "trip",
+          "count": 93
+        },
+        {
+          "word": "center",
+          "count": 76
+        },
+        {
+          "word": "downtown",
+          "count": 75
+        },
+        {
+          "word": "vegas",
+          "count": 74
+        },
+        {
+          "word": "resorts",
+          "count": 56
+        },
+        {
+          "word": "resort",
+          "count": 52
+        },
+        {
+          "word": "rate",
+          "count": 49
+        },
+        {
+          "word": "central",
+          "count": 49
+        },
+        {
+          "word": "cost",
+          "count": 47
+        },
+        {
+          "word": "cheaper",
+          "count": 45
+        },
+        {
+          "word": "travelers",
+          "count": 41
+        },
+        {
+          "word": "car",
+          "count": 41
+        },
+        {
+          "word": "walkable",
+          "count": 41
+        },
+        {
+          "word": "property",
+          "count": 40
+        },
+        {
+          "word": "want",
+          "count": 35
+        },
+        {
+          "word": "city",
+          "count": 35
+        },
+        {
+          "word": "walk",
+          "count": 35
+        }
+      ]
+    },
+    {
       "filename": "2018-01-07-wss_username_token_service_policy-use-case-for-oracle-ebs-and-drm-integration.md",
       "slug": "wss_username_token_service_policy-use-case-for-oracle-ebs-and-drm-integration",
       "title": "WSS Username Token Policy: Oracle EBS + DRM",
@@ -189212,6 +190370,156 @@
       ]
     },
     {
+      "filename": "2018-01-15-las-vegas-shows-entertainment-guide.md",
+      "slug": "las-vegas-shows-entertainment-guide",
+      "title": "Las Vegas Shows and Entertainment Guide",
+      "categories": [
+        "Travel"
+      ],
+      "lang": "en",
+      "wordCount": 7822,
+      "topWord": "night",
+      "topCount": 133,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-01-15-las-vegas-shows-entertainment-guide.md",
+      "flaggedWords": [
+        {
+          "word": "night",
+          "count": 133
+        },
+        {
+          "word": "discount",
+          "count": 72
+        },
+        {
+          "word": "evening",
+          "count": 69
+        },
+        {
+          "word": "shows",
+          "count": 66
+        },
+        {
+          "word": "premium",
+          "count": 65
+        },
+        {
+          "word": "price",
+          "count": 63
+        },
+        {
+          "word": "comedy",
+          "count": 62
+        },
+        {
+          "word": "trip",
+          "count": 56
+        },
+        {
+          "word": "seat",
+          "count": 55
+        },
+        {
+          "word": "entertainment",
+          "count": 54
+        },
+        {
+          "word": "specific",
+          "count": 53
+        },
+        {
+          "word": "magic",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "night",
+          "count": 133
+        },
+        {
+          "word": "discount",
+          "count": 72
+        },
+        {
+          "word": "evening",
+          "count": 69
+        },
+        {
+          "word": "shows",
+          "count": 66
+        },
+        {
+          "word": "premium",
+          "count": 65
+        },
+        {
+          "word": "price",
+          "count": 63
+        },
+        {
+          "word": "comedy",
+          "count": 62
+        },
+        {
+          "word": "trip",
+          "count": 56
+        },
+        {
+          "word": "seat",
+          "count": 55
+        },
+        {
+          "word": "entertainment",
+          "count": 54
+        },
+        {
+          "word": "specific",
+          "count": 53
+        },
+        {
+          "word": "magic",
+          "count": 52
+        },
+        {
+          "word": "acrobatic",
+          "count": 50
+        },
+        {
+          "word": "free",
+          "count": 49
+        },
+        {
+          "word": "family",
+          "count": 47
+        },
+        {
+          "word": "tier",
+          "count": 47
+        },
+        {
+          "word": "mid",
+          "count": 45
+        },
+        {
+          "word": "produced",
+          "count": 43
+        },
+        {
+          "word": "residency",
+          "count": 42
+        },
+        {
+          "word": "plan",
+          "count": 41
+        }
+      ]
+    },
+    {
       "filename": "2018-01-22-operation-sindoor-23-minutes.md",
       "slug": "operation-sindoor-23-minutes",
       "title": "Operation Sindoor The 23 Minutes",
@@ -189736,6 +191044,172 @@
       ]
     },
     {
+      "filename": "2018-02-01-las-vegas-day-trips.md",
+      "slug": "las-vegas-day-trips",
+      "title": "Day Trips From Las Vegas",
+      "categories": [
+        "Travel"
+      ],
+      "lang": "en",
+      "wordCount": 7639,
+      "topWord": "canyon",
+      "topCount": 146,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-01-las-vegas-day-trips.md",
+      "flaggedWords": [
+        {
+          "word": "canyon",
+          "count": 146
+        },
+        {
+          "word": "trip",
+          "count": 128
+        },
+        {
+          "word": "vegas",
+          "count": 122
+        },
+        {
+          "word": "las",
+          "count": 104
+        },
+        {
+          "word": "desert",
+          "count": 97
+        },
+        {
+          "word": "drive",
+          "count": 91
+        },
+        {
+          "word": "car",
+          "count": 78
+        },
+        {
+          "word": "valley",
+          "count": 70
+        },
+        {
+          "word": "tour",
+          "count": 65
+        },
+        {
+          "word": "grand",
+          "count": 65
+        },
+        {
+          "word": "rim",
+          "count": 65
+        },
+        {
+          "word": "rock",
+          "count": 63
+        },
+        {
+          "word": "trips",
+          "count": 59
+        },
+        {
+          "word": "red",
+          "count": 55
+        },
+        {
+          "word": "hours",
+          "count": 55
+        },
+        {
+          "word": "dam",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "canyon",
+          "count": 146
+        },
+        {
+          "word": "trip",
+          "count": 128
+        },
+        {
+          "word": "vegas",
+          "count": 122
+        },
+        {
+          "word": "las",
+          "count": 104
+        },
+        {
+          "word": "desert",
+          "count": 97
+        },
+        {
+          "word": "drive",
+          "count": 91
+        },
+        {
+          "word": "car",
+          "count": 78
+        },
+        {
+          "word": "valley",
+          "count": 70
+        },
+        {
+          "word": "tour",
+          "count": 65
+        },
+        {
+          "word": "grand",
+          "count": 65
+        },
+        {
+          "word": "rim",
+          "count": 65
+        },
+        {
+          "word": "rock",
+          "count": 63
+        },
+        {
+          "word": "trips",
+          "count": 59
+        },
+        {
+          "word": "red",
+          "count": 55
+        },
+        {
+          "word": "hours",
+          "count": 55
+        },
+        {
+          "word": "dam",
+          "count": 54
+        },
+        {
+          "word": "city",
+          "count": 48
+        },
+        {
+          "word": "driving",
+          "count": 48
+        },
+        {
+          "word": "destinations",
+          "count": 48
+        },
+        {
+          "word": "close",
+          "count": 46
+        }
+      ]
+    },
+    {
       "filename": "2018-02-05-first-dogfight-nuclear-powers.md",
       "slug": "first-dogfight-nuclear-powers",
       "title": "First Dogfight Between Nuclear Powers",
@@ -190194,6 +191668,148 @@
         {
           "word": "armed",
           "count": 43
+        }
+      ]
+    },
+    {
+      "filename": "2018-02-15-las-vegas-for-couples.md",
+      "slug": "las-vegas-for-couples",
+      "title": "Las Vegas for Couples: A Romantic Trip Guide",
+      "categories": [
+        "Travel"
+      ],
+      "lang": "en",
+      "wordCount": 7344,
+      "topWord": "trip",
+      "topCount": 166,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-15-las-vegas-for-couples.md",
+      "flaggedWords": [
+        {
+          "word": "trip",
+          "count": 166
+        },
+        {
+          "word": "couples",
+          "count": 159
+        },
+        {
+          "word": "vegas",
+          "count": 137
+        },
+        {
+          "word": "romantic",
+          "count": 134
+        },
+        {
+          "word": "city",
+          "count": 69
+        },
+        {
+          "word": "romance",
+          "count": 64
+        },
+        {
+          "word": "couple",
+          "count": 60
+        },
+        {
+          "word": "las",
+          "count": 56
+        },
+        {
+          "word": "dinner",
+          "count": 54
+        },
+        {
+          "word": "desert",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "trip",
+          "count": 166
+        },
+        {
+          "word": "couples",
+          "count": 159
+        },
+        {
+          "word": "vegas",
+          "count": 137
+        },
+        {
+          "word": "romantic",
+          "count": 134
+        },
+        {
+          "word": "city",
+          "count": 69
+        },
+        {
+          "word": "romance",
+          "count": 64
+        },
+        {
+          "word": "couple",
+          "count": 60
+        },
+        {
+          "word": "las",
+          "count": 56
+        },
+        {
+          "word": "dinner",
+          "count": 54
+        },
+        {
+          "word": "desert",
+          "count": 54
+        },
+        {
+          "word": "anchors",
+          "count": 49
+        },
+        {
+          "word": "quiet",
+          "count": 45
+        },
+        {
+          "word": "strip",
+          "count": 43
+        },
+        {
+          "word": "want",
+          "count": 42
+        },
+        {
+          "word": "room",
+          "count": 39
+        },
+        {
+          "word": "spa",
+          "count": 38
+        },
+        {
+          "word": "night",
+          "count": 36
+        },
+        {
+          "word": "plan",
+          "count": 34
+        },
+        {
+          "word": "free",
+          "count": 33
+        },
+        {
+          "word": "shows",
+          "count": 31
         }
       ]
     },
@@ -190884,6 +192500,188 @@
         {
           "word": "strike",
           "count": 48
+        }
+      ]
+    },
+    {
+      "filename": "2018-03-01-historic-america-complete-travel-guide.md",
+      "slug": "historic-america-complete-travel-guide",
+      "title": "Historic America: The Complete Travel Guide",
+      "categories": [
+        "Travel"
+      ],
+      "lang": "en",
+      "wordCount": 8275,
+      "topWord": "trip",
+      "topCount": 213,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-03-01-historic-america-complete-travel-guide.md",
+      "flaggedWords": [
+        {
+          "word": "trip",
+          "count": 213
+        },
+        {
+          "word": "corridor",
+          "count": 211
+        },
+        {
+          "word": "founding",
+          "count": 185
+        },
+        {
+          "word": "cities",
+          "count": 112
+        },
+        {
+          "word": "history",
+          "count": 102
+        },
+        {
+          "word": "historic",
+          "count": 100
+        },
+        {
+          "word": "triangle",
+          "count": 97
+        },
+        {
+          "word": "sites",
+          "count": 87
+        },
+        {
+          "word": "city",
+          "count": 77
+        },
+        {
+          "word": "theme",
+          "count": 70
+        },
+        {
+          "word": "car",
+          "count": 69
+        },
+        {
+          "word": "washington",
+          "count": 63
+        },
+        {
+          "word": "virginia",
+          "count": 59
+        },
+        {
+          "word": "travelers",
+          "count": 58
+        },
+        {
+          "word": "story",
+          "count": 57
+        },
+        {
+          "word": "arc",
+          "count": 57
+        },
+        {
+          "word": "america",
+          "count": 55
+        },
+        {
+          "word": "philadelphia",
+          "count": 55
+        },
+        {
+          "word": "single",
+          "count": 53
+        },
+        {
+          "word": "rail",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "trip",
+          "count": 213
+        },
+        {
+          "word": "corridor",
+          "count": 211
+        },
+        {
+          "word": "founding",
+          "count": 185
+        },
+        {
+          "word": "cities",
+          "count": 112
+        },
+        {
+          "word": "history",
+          "count": 102
+        },
+        {
+          "word": "historic",
+          "count": 100
+        },
+        {
+          "word": "triangle",
+          "count": 97
+        },
+        {
+          "word": "sites",
+          "count": 87
+        },
+        {
+          "word": "city",
+          "count": 77
+        },
+        {
+          "word": "theme",
+          "count": 70
+        },
+        {
+          "word": "car",
+          "count": 69
+        },
+        {
+          "word": "washington",
+          "count": 63
+        },
+        {
+          "word": "virginia",
+          "count": 59
+        },
+        {
+          "word": "travelers",
+          "count": 58
+        },
+        {
+          "word": "story",
+          "count": 57
+        },
+        {
+          "word": "arc",
+          "count": 57
+        },
+        {
+          "word": "america",
+          "count": 55
+        },
+        {
+          "word": "philadelphia",
+          "count": 55
+        },
+        {
+          "word": "single",
+          "count": 53
+        },
+        {
+          "word": "rail",
+          "count": 53
         }
       ]
     },
@@ -320250,6 +322048,152 @@
       ]
     },
     {
+      "filename": "2025-01-11-poland-or-baltics-first-target.md",
+      "slug": "poland-or-baltics-first-target",
+      "title": "Poland or the Baltics: Who Russia Hits First",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6375,
+      "topWord": "poland",
+      "topCount": 129,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-01-11-poland-or-baltics-first-target.md",
+      "flaggedWords": [
+        {
+          "word": "poland",
+          "count": 129
+        },
+        {
+          "word": "target",
+          "count": 95
+        },
+        {
+          "word": "corridor",
+          "count": 79
+        },
+        {
+          "word": "flank",
+          "count": 72
+        },
+        {
+          "word": "comparison",
+          "count": 67
+        },
+        {
+          "word": "alliance",
+          "count": 62
+        },
+        {
+          "word": "theater",
+          "count": 62
+        },
+        {
+          "word": "aggressor",
+          "count": 58
+        },
+        {
+          "word": "depth",
+          "count": 57
+        },
+        {
+          "word": "reinforcement",
+          "count": 56
+        },
+        {
+          "word": "baltics",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "poland",
+          "count": 129
+        },
+        {
+          "word": "target",
+          "count": 95
+        },
+        {
+          "word": "corridor",
+          "count": 79
+        },
+        {
+          "word": "flank",
+          "count": 72
+        },
+        {
+          "word": "comparison",
+          "count": 67
+        },
+        {
+          "word": "alliance",
+          "count": 62
+        },
+        {
+          "word": "theater",
+          "count": 62
+        },
+        {
+          "word": "aggressor",
+          "count": 58
+        },
+        {
+          "word": "depth",
+          "count": 57
+        },
+        {
+          "word": "reinforcement",
+          "count": 56
+        },
+        {
+          "word": "baltics",
+          "count": 51
+        },
+        {
+          "word": "warning",
+          "count": 48
+        },
+        {
+          "word": "baltic",
+          "count": 48
+        },
+        {
+          "word": "ranking",
+          "count": 46
+        },
+        {
+          "word": "shallow",
+          "count": 40
+        },
+        {
+          "word": "polish",
+          "count": 38
+        },
+        {
+          "word": "theaters",
+          "count": 37
+        },
+        {
+          "word": "makes",
+          "count": 37
+        },
+        {
+          "word": "defense",
+          "count": 35
+        },
+        {
+          "word": "factor",
+          "count": 35
+        }
+      ]
+    },
+    {
       "filename": "2025-01-12-solo-dining-nyc.md",
       "slug": "solo-dining-nyc",
       "title": "Best Restaurants for Solo Dining in New York City - A Complete Guide",
@@ -320936,6 +322880,144 @@
       ]
     },
     {
+      "filename": "2025-01-21-warning-signs-russian-move-on-poland.md",
+      "slug": "warning-signs-russian-move-on-poland",
+      "title": "The Warning Signs of a Russian Move on Poland",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7504,
+      "topWord": "warning",
+      "topCount": 167,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-01-21-warning-signs-russian-move-on-poland.md",
+      "flaggedWords": [
+        {
+          "word": "warning",
+          "count": 167
+        },
+        {
+          "word": "indicators",
+          "count": 97
+        },
+        {
+          "word": "tier",
+          "count": 61
+        },
+        {
+          "word": "signals",
+          "count": 59
+        },
+        {
+          "word": "baseline",
+          "count": 59
+        },
+        {
+          "word": "exercise",
+          "count": 58
+        },
+        {
+          "word": "forces",
+          "count": 58
+        },
+        {
+          "word": "defender",
+          "count": 57
+        },
+        {
+          "word": "attack",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "warning",
+          "count": 167
+        },
+        {
+          "word": "indicators",
+          "count": 97
+        },
+        {
+          "word": "tier",
+          "count": 61
+        },
+        {
+          "word": "signals",
+          "count": 59
+        },
+        {
+          "word": "baseline",
+          "count": 59
+        },
+        {
+          "word": "exercise",
+          "count": 58
+        },
+        {
+          "word": "forces",
+          "count": 58
+        },
+        {
+          "word": "defender",
+          "count": 57
+        },
+        {
+          "word": "attack",
+          "count": 52
+        },
+        {
+          "word": "strategic",
+          "count": 47
+        },
+        {
+          "word": "decision",
+          "count": 47
+        },
+        {
+          "word": "force",
+          "count": 47
+        },
+        {
+          "word": "ambiguous",
+          "count": 43
+        },
+        {
+          "word": "surprise",
+          "count": 42
+        },
+        {
+          "word": "indicator",
+          "count": 39
+        },
+        {
+          "word": "imminent",
+          "count": 38
+        },
+        {
+          "word": "problem",
+          "count": 38
+        },
+        {
+          "word": "preparation",
+          "count": 38
+        },
+        {
+          "word": "reading",
+          "count": 37
+        },
+        {
+          "word": "operational",
+          "count": 37
+        }
+      ]
+    },
+    {
       "filename": "2025-01-23-upsc-csat-paper-2-kannada-guide.md",
       "slug": "upsc-csat-paper-2-kannada-guide",
       "title": "UPSC CSAT ಪೇಪರ್ 2 ತಂತ್ರ - ಸಂಪೂರ್ಣ ಗೈಡ್",
@@ -321412,6 +323494,152 @@
         {
           "word": "ஒரு",
           "count": 10
+        }
+      ]
+    },
+    {
+      "filename": "2025-02-01-could-russia-defeat-poland-militarily.md",
+      "slug": "could-russia-defeat-poland-militarily",
+      "title": "Could Russia Defeat Poland Militarily?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7771,
+      "topWord": "defender",
+      "topCount": 153,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-02-01-could-russia-defeat-poland-militarily.md",
+      "flaggedWords": [
+        {
+          "word": "defender",
+          "count": 153
+        },
+        {
+          "word": "attacker",
+          "count": 119
+        },
+        {
+          "word": "force",
+          "count": 104
+        },
+        {
+          "word": "fight",
+          "count": 70
+        },
+        {
+          "word": "air",
+          "count": 70
+        },
+        {
+          "word": "war",
+          "count": 68
+        },
+        {
+          "word": "analysis",
+          "count": 65
+        },
+        {
+          "word": "defense",
+          "count": 61
+        },
+        {
+          "word": "depth",
+          "count": 56
+        },
+        {
+          "word": "precision",
+          "count": 54
+        },
+        {
+          "word": "sustainment",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "defender",
+          "count": 153
+        },
+        {
+          "word": "attacker",
+          "count": 119
+        },
+        {
+          "word": "force",
+          "count": 104
+        },
+        {
+          "word": "fight",
+          "count": 70
+        },
+        {
+          "word": "air",
+          "count": 70
+        },
+        {
+          "word": "war",
+          "count": 68
+        },
+        {
+          "word": "analysis",
+          "count": 65
+        },
+        {
+          "word": "defense",
+          "count": 61
+        },
+        {
+          "word": "depth",
+          "count": 56
+        },
+        {
+          "word": "precision",
+          "count": 54
+        },
+        {
+          "word": "sustainment",
+          "count": 52
+        },
+        {
+          "word": "capability",
+          "count": 49
+        },
+        {
+          "word": "fires",
+          "count": 49
+        },
+        {
+          "word": "cannot",
+          "count": 47
+        },
+        {
+          "word": "forces",
+          "count": 46
+        },
+        {
+          "word": "question",
+          "count": 42
+        },
+        {
+          "word": "poland",
+          "count": 40
+        },
+        {
+          "word": "feasibility",
+          "count": 39
+        },
+        {
+          "word": "decision",
+          "count": 39
+        },
+        {
+          "word": "command",
+          "count": 39
         }
       ]
     },
@@ -322196,6 +324424,148 @@
       ]
     },
     {
+      "filename": "2025-02-11-what-deters-russia-attacking-poland.md",
+      "slug": "what-deters-russia-attacking-poland",
+      "title": "What Deters Russia From Attacking Poland",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7297,
+      "topWord": "deterrent",
+      "topCount": 167,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-02-11-what-deters-russia-attacking-poland.md",
+      "flaggedWords": [
+        {
+          "word": "deterrent",
+          "count": 167
+        },
+        {
+          "word": "aggressor",
+          "count": 146
+        },
+        {
+          "word": "layer",
+          "count": 128
+        },
+        {
+          "word": "defender",
+          "count": 102
+        },
+        {
+          "word": "adversary",
+          "count": 98
+        },
+        {
+          "word": "deterrence",
+          "count": 75
+        },
+        {
+          "word": "denial",
+          "count": 71
+        },
+        {
+          "word": "punishment",
+          "count": 70
+        },
+        {
+          "word": "resolve",
+          "count": 70
+        },
+        {
+          "word": "attack",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "deterrent",
+          "count": 167
+        },
+        {
+          "word": "aggressor",
+          "count": 146
+        },
+        {
+          "word": "layer",
+          "count": 128
+        },
+        {
+          "word": "defender",
+          "count": 102
+        },
+        {
+          "word": "adversary",
+          "count": 98
+        },
+        {
+          "word": "deterrence",
+          "count": 75
+        },
+        {
+          "word": "denial",
+          "count": 71
+        },
+        {
+          "word": "punishment",
+          "count": 70
+        },
+        {
+          "word": "resolve",
+          "count": 70
+        },
+        {
+          "word": "attack",
+          "count": 55
+        },
+        {
+          "word": "tripwire",
+          "count": 47
+        },
+        {
+          "word": "alliance",
+          "count": 47
+        },
+        {
+          "word": "forces",
+          "count": 45
+        },
+        {
+          "word": "strong",
+          "count": 42
+        },
+        {
+          "word": "nuclear",
+          "count": 41
+        },
+        {
+          "word": "belief",
+          "count": 40
+        },
+        {
+          "word": "response",
+          "count": 40
+        },
+        {
+          "word": "actually",
+          "count": 35
+        },
+        {
+          "word": "forward",
+          "count": 33
+        },
+        {
+          "word": "layers",
+          "count": 32
+        }
+      ]
+    },
+    {
       "filename": "2025-02-14-upsc-csat-paper-2-hindi-medium-guide.md",
       "slug": "upsc-csat-paper-2-hindi-medium-guide",
       "title": "UPSC CSAT पेपर 2 रणनीति - हिंदी माध्यम गाइड",
@@ -322890,6 +325260,136 @@
       ]
     },
     {
+      "filename": "2025-02-21-how-a-russia-poland-war-would-begin.md",
+      "slug": "how-a-russia-poland-war-would-begin",
+      "title": "How a Russia-Poland War Would Begin",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7188,
+      "topWord": "door",
+      "topCount": 147,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-02-21-how-a-russia-poland-war-would-begin.md",
+      "flaggedWords": [
+        {
+          "word": "door",
+          "count": 147
+        },
+        {
+          "word": "war",
+          "count": 103
+        },
+        {
+          "word": "deliberate",
+          "count": 92
+        },
+        {
+          "word": "crisis",
+          "count": 84
+        },
+        {
+          "word": "inadvertent",
+          "count": 71
+        },
+        {
+          "word": "escalation",
+          "count": 58
+        },
+        {
+          "word": "pathway",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "door",
+          "count": 147
+        },
+        {
+          "word": "war",
+          "count": 103
+        },
+        {
+          "word": "deliberate",
+          "count": 92
+        },
+        {
+          "word": "crisis",
+          "count": 84
+        },
+        {
+          "word": "inadvertent",
+          "count": 71
+        },
+        {
+          "word": "escalation",
+          "count": 58
+        },
+        {
+          "word": "pathway",
+          "count": 54
+        },
+        {
+          "word": "gray",
+          "count": 42
+        },
+        {
+          "word": "zone",
+          "count": 42
+        },
+        {
+          "word": "doors",
+          "count": 40
+        },
+        {
+          "word": "read",
+          "count": 39
+        },
+        {
+          "word": "deterrence",
+          "count": 37
+        },
+        {
+          "word": "likely",
+          "count": 36
+        },
+        {
+          "word": "decision",
+          "count": 36
+        },
+        {
+          "word": "alliance",
+          "count": 34
+        },
+        {
+          "word": "single",
+          "count": 33
+        },
+        {
+          "word": "conflict",
+          "count": 31
+        },
+        {
+          "word": "warning",
+          "count": 31
+        },
+        {
+          "word": "least",
+          "count": 31
+        },
+        {
+          "word": "attack",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2025-02-24-gatsby-cars-driving-motif.md",
       "slug": "gatsby-cars-driving-motif",
       "title": "The Motif of Cars and Driving in The Great Gatsby",
@@ -323422,6 +325922,140 @@
         {
           "word": "通常",
           "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2025-03-01-assessing-odds-of-a-russian-attack.md",
+      "slug": "assessing-odds-of-a-russian-attack",
+      "title": "Assessing the Real Odds of a Russian Attack",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7062,
+      "topWord": "estimate",
+      "topCount": 163,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-03-01-assessing-odds-of-a-russian-attack.md",
+      "flaggedWords": [
+        {
+          "word": "estimate",
+          "count": 163
+        },
+        {
+          "word": "judgment",
+          "count": 82
+        },
+        {
+          "word": "confidence",
+          "count": 71
+        },
+        {
+          "word": "band",
+          "count": 71
+        },
+        {
+          "word": "attack",
+          "count": 65
+        },
+        {
+          "word": "odds",
+          "count": 58
+        },
+        {
+          "word": "method",
+          "count": 57
+        },
+        {
+          "word": "evidence",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "estimate",
+          "count": 163
+        },
+        {
+          "word": "judgment",
+          "count": 82
+        },
+        {
+          "word": "confidence",
+          "count": 71
+        },
+        {
+          "word": "band",
+          "count": 71
+        },
+        {
+          "word": "attack",
+          "count": 65
+        },
+        {
+          "word": "odds",
+          "count": 58
+        },
+        {
+          "word": "method",
+          "count": 57
+        },
+        {
+          "word": "evidence",
+          "count": 55
+        },
+        {
+          "word": "low",
+          "count": 46
+        },
+        {
+          "word": "assessment",
+          "count": 44
+        },
+        {
+          "word": "probability",
+          "count": 44
+        },
+        {
+          "word": "anchor",
+          "count": 39
+        },
+        {
+          "word": "single",
+          "count": 36
+        },
+        {
+          "word": "question",
+          "count": 36
+        },
+        {
+          "word": "russian",
+          "count": 34
+        },
+        {
+          "word": "event",
+          "count": 34
+        },
+        {
+          "word": "decision",
+          "count": 33
+        },
+        {
+          "word": "honest",
+          "count": 33
+        },
+        {
+          "word": "loop",
+          "count": 31
+        },
+        {
+          "word": "likely",
+          "count": 30
         }
       ]
     },
@@ -324056,6 +326690,128 @@
         {
           "word": "catalogues",
           "count": 25
+        }
+      ]
+    },
+    {
+      "filename": "2025-03-11-why-poland-fears-russia-history.md",
+      "slug": "why-poland-fears-russia-history",
+      "title": "Why Poland Fears Russia: The Long History",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7332,
+      "topWord": "polish",
+      "topCount": 157,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-03-11-why-poland-fears-russia-history.md",
+      "flaggedWords": [
+        {
+          "word": "polish",
+          "count": 157
+        },
+        {
+          "word": "poland",
+          "count": 120
+        },
+        {
+          "word": "present",
+          "count": 74
+        },
+        {
+          "word": "history",
+          "count": 65
+        },
+        {
+          "word": "memory",
+          "count": 62
+        }
+      ],
+      "top20": [
+        {
+          "word": "polish",
+          "count": 157
+        },
+        {
+          "word": "poland",
+          "count": 120
+        },
+        {
+          "word": "present",
+          "count": 74
+        },
+        {
+          "word": "history",
+          "count": 65
+        },
+        {
+          "word": "memory",
+          "count": 62
+        },
+        {
+          "word": "power",
+          "count": 44
+        },
+        {
+          "word": "historical",
+          "count": 44
+        },
+        {
+          "word": "defense",
+          "count": 42
+        },
+        {
+          "word": "evidence",
+          "count": 41
+        },
+        {
+          "word": "alliance",
+          "count": 40
+        },
+        {
+          "word": "sovereignty",
+          "count": 37
+        },
+        {
+          "word": "prior",
+          "count": 36
+        },
+        {
+          "word": "current",
+          "count": 35
+        },
+        {
+          "word": "itself",
+          "count": 35
+        },
+        {
+          "word": "past",
+          "count": 34
+        },
+        {
+          "word": "threat",
+          "count": 34
+        },
+        {
+          "word": "specific",
+          "count": 34
+        },
+        {
+          "word": "strategic",
+          "count": 34
+        },
+        {
+          "word": "reading",
+          "count": 33
+        },
+        {
+          "word": "conditions",
+          "count": 32
         }
       ]
     },
@@ -324868,6 +327624,148 @@
         {
           "word": "records",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2025-03-21-how-poland-is-preparing-for-war.md",
+      "slug": "how-poland-is-preparing-for-war",
+      "title": "How Poland Is Preparing for War",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7836,
+      "topWord": "domain",
+      "topCount": 131,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-03-21-how-poland-is-preparing-for-war.md",
+      "flaggedWords": [
+        {
+          "word": "domain",
+          "count": 131
+        },
+        {
+          "word": "defense",
+          "count": 128
+        },
+        {
+          "word": "poland",
+          "count": 115
+        },
+        {
+          "word": "effort",
+          "count": 94
+        },
+        {
+          "word": "civil",
+          "count": 65
+        },
+        {
+          "word": "force",
+          "count": 65
+        },
+        {
+          "word": "base",
+          "count": 61
+        },
+        {
+          "word": "domains",
+          "count": 61
+        },
+        {
+          "word": "political",
+          "count": 59
+        },
+        {
+          "word": "preparation",
+          "count": 58
+        }
+      ],
+      "top20": [
+        {
+          "word": "domain",
+          "count": 131
+        },
+        {
+          "word": "defense",
+          "count": 128
+        },
+        {
+          "word": "poland",
+          "count": 115
+        },
+        {
+          "word": "effort",
+          "count": 94
+        },
+        {
+          "word": "civil",
+          "count": 65
+        },
+        {
+          "word": "force",
+          "count": 65
+        },
+        {
+          "word": "base",
+          "count": 61
+        },
+        {
+          "word": "domains",
+          "count": 61
+        },
+        {
+          "word": "political",
+          "count": 59
+        },
+        {
+          "word": "preparation",
+          "count": 58
+        },
+        {
+          "word": "manpower",
+          "count": 49
+        },
+        {
+          "word": "equipment",
+          "count": 40
+        },
+        {
+          "word": "fiscal",
+          "count": 40
+        },
+        {
+          "word": "weakest",
+          "count": 39
+        },
+        {
+          "word": "trained",
+          "count": 38
+        },
+        {
+          "word": "procurement",
+          "count": 38
+        },
+        {
+          "word": "durability",
+          "count": 35
+        },
+        {
+          "word": "question",
+          "count": 34
+        },
+        {
+          "word": "audit",
+          "count": 34
+        },
+        {
+          "word": "reserve",
+          "count": 33
         }
       ]
     },
@@ -325858,6 +328756,160 @@
       ]
     },
     {
+      "filename": "2025-04-01-would-nato-actually-defend-poland.md",
+      "slug": "would-nato-actually-defend-poland",
+      "title": "Would NATO Actually Defend Poland?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7633,
+      "topWord": "alliance",
+      "topCount": 156,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-04-01-would-nato-actually-defend-poland.md",
+      "flaggedWords": [
+        {
+          "word": "alliance",
+          "count": 156
+        },
+        {
+          "word": "guarantee",
+          "count": 134
+        },
+        {
+          "word": "credibility",
+          "count": 115
+        },
+        {
+          "word": "poland",
+          "count": 107
+        },
+        {
+          "word": "attack",
+          "count": 94
+        },
+        {
+          "word": "adversary",
+          "count": 83
+        },
+        {
+          "word": "collective",
+          "count": 78
+        },
+        {
+          "word": "answer",
+          "count": 76
+        },
+        {
+          "word": "aggressor",
+          "count": 70
+        },
+        {
+          "word": "member",
+          "count": 70
+        },
+        {
+          "word": "flank",
+          "count": 56
+        },
+        {
+          "word": "defense",
+          "count": 55
+        },
+        {
+          "word": "forces",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "alliance",
+          "count": 156
+        },
+        {
+          "word": "guarantee",
+          "count": 134
+        },
+        {
+          "word": "credibility",
+          "count": 115
+        },
+        {
+          "word": "poland",
+          "count": 107
+        },
+        {
+          "word": "attack",
+          "count": 94
+        },
+        {
+          "word": "adversary",
+          "count": 83
+        },
+        {
+          "word": "collective",
+          "count": 78
+        },
+        {
+          "word": "answer",
+          "count": 76
+        },
+        {
+          "word": "aggressor",
+          "count": 70
+        },
+        {
+          "word": "member",
+          "count": 70
+        },
+        {
+          "word": "flank",
+          "count": 56
+        },
+        {
+          "word": "defense",
+          "count": 55
+        },
+        {
+          "word": "forces",
+          "count": 53
+        },
+        {
+          "word": "members",
+          "count": 48
+        },
+        {
+          "word": "reinforcement",
+          "count": 46
+        },
+        {
+          "word": "decision",
+          "count": 44
+        },
+        {
+          "word": "question",
+          "count": 42
+        },
+        {
+          "word": "tripwire",
+          "count": 40
+        },
+        {
+          "word": "nuclear",
+          "count": 35
+        },
+        {
+          "word": "defend",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2025-04-06-ai-for-photographers.md",
       "slug": "ai-for-photographers",
       "title": "AI for Photographers - Editing and More",
@@ -326248,6 +329300,144 @@
         {
           "word": "一遍",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2025-04-11-suwalki-gap-nato-weakest-point.md",
+      "slug": "suwalki-gap-nato-weakest-point",
+      "title": "The Suwalki Gap: NATO's Weakest Point",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8462,
+      "topWord": "corridor",
+      "topCount": 415,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-04-11-suwalki-gap-nato-weakest-point.md",
+      "flaggedWords": [
+        {
+          "word": "corridor",
+          "count": 415
+        },
+        {
+          "word": "alliance",
+          "count": 93
+        },
+        {
+          "word": "flank",
+          "count": 79
+        },
+        {
+          "word": "reinforcement",
+          "count": 67
+        },
+        {
+          "word": "reader",
+          "count": 65
+        },
+        {
+          "word": "aggressor",
+          "count": 60
+        },
+        {
+          "word": "assessment",
+          "count": 60
+        },
+        {
+          "word": "single",
+          "count": 58
+        },
+        {
+          "word": "problem",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "corridor",
+          "count": 415
+        },
+        {
+          "word": "alliance",
+          "count": 93
+        },
+        {
+          "word": "flank",
+          "count": 79
+        },
+        {
+          "word": "reinforcement",
+          "count": 67
+        },
+        {
+          "word": "reader",
+          "count": 65
+        },
+        {
+          "word": "aggressor",
+          "count": 60
+        },
+        {
+          "word": "assessment",
+          "count": 60
+        },
+        {
+          "word": "single",
+          "count": 58
+        },
+        {
+          "word": "problem",
+          "count": 54
+        },
+        {
+          "word": "suwalki",
+          "count": 45
+        },
+        {
+          "word": "gap",
+          "count": 45
+        },
+        {
+          "word": "question",
+          "count": 45
+        },
+        {
+          "word": "contested",
+          "count": 45
+        },
+        {
+          "word": "severance",
+          "count": 45
+        },
+        {
+          "word": "posture",
+          "count": 44
+        },
+        {
+          "word": "air",
+          "count": 43
+        },
+        {
+          "word": "states",
+          "count": 42
+        },
+        {
+          "word": "defense",
+          "count": 42
+        },
+        {
+          "word": "kaliningrad",
+          "count": 41
+        },
+        {
+          "word": "defender",
+          "count": 37
         }
       ]
     },
@@ -327072,6 +330262,152 @@
         {
           "word": "culture",
           "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2025-04-21-why-suwalki-gap-hard-to-defend.md",
+      "slug": "why-suwalki-gap-hard-to-defend",
+      "title": "Why the Suwalki Gap Is So Hard to Defend",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7332,
+      "topWord": "defender",
+      "topCount": 189,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-04-21-why-suwalki-gap-hard-to-defend.md",
+      "flaggedWords": [
+        {
+          "word": "defender",
+          "count": 189
+        },
+        {
+          "word": "corridor",
+          "count": 172
+        },
+        {
+          "word": "ground",
+          "count": 164
+        },
+        {
+          "word": "terrain",
+          "count": 110
+        },
+        {
+          "word": "attacker",
+          "count": 97
+        },
+        {
+          "word": "cut",
+          "count": 74
+        },
+        {
+          "word": "routes",
+          "count": 70
+        },
+        {
+          "word": "movement",
+          "count": 63
+        },
+        {
+          "word": "short",
+          "count": 62
+        },
+        {
+          "word": "problem",
+          "count": 60
+        },
+        {
+          "word": "defense",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "defender",
+          "count": 189
+        },
+        {
+          "word": "corridor",
+          "count": 172
+        },
+        {
+          "word": "ground",
+          "count": 164
+        },
+        {
+          "word": "terrain",
+          "count": 110
+        },
+        {
+          "word": "attacker",
+          "count": 97
+        },
+        {
+          "word": "cut",
+          "count": 74
+        },
+        {
+          "word": "routes",
+          "count": 70
+        },
+        {
+          "word": "movement",
+          "count": 63
+        },
+        {
+          "word": "short",
+          "count": 62
+        },
+        {
+          "word": "problem",
+          "count": 60
+        },
+        {
+          "word": "defense",
+          "count": 51
+        },
+        {
+          "word": "strip",
+          "count": 43
+        },
+        {
+          "word": "connection",
+          "count": 39
+        },
+        {
+          "word": "shoulders",
+          "count": 39
+        },
+        {
+          "word": "hard",
+          "count": 38
+        },
+        {
+          "word": "suwalki",
+          "count": 36
+        },
+        {
+          "word": "depth",
+          "count": 36
+        },
+        {
+          "word": "means",
+          "count": 35
+        },
+        {
+          "word": "map",
+          "count": 34
+        },
+        {
+          "word": "gap",
+          "count": 33
         }
       ]
     },
@@ -327924,6 +331260,140 @@
         {
           "word": "novel",
           "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2025-05-01-how-russia-could-seize-suwalki-gap.md",
+      "slug": "how-russia-could-seize-suwalki-gap",
+      "title": "How Russia Could Seize the Suwalki Gap",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7182,
+      "topWord": "corridor",
+      "topCount": 162,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-05-01-how-russia-could-seize-suwalki-gap.md",
+      "flaggedWords": [
+        {
+          "word": "corridor",
+          "count": 162
+        },
+        {
+          "word": "aggressor",
+          "count": 154
+        },
+        {
+          "word": "alliance",
+          "count": 138
+        },
+        {
+          "word": "severance",
+          "count": 134
+        },
+        {
+          "word": "scenario",
+          "count": 100
+        },
+        {
+          "word": "clock",
+          "count": 76
+        },
+        {
+          "word": "response",
+          "count": 54
+        },
+        {
+          "word": "restoration",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "corridor",
+          "count": 162
+        },
+        {
+          "word": "aggressor",
+          "count": 154
+        },
+        {
+          "word": "alliance",
+          "count": 138
+        },
+        {
+          "word": "severance",
+          "count": 134
+        },
+        {
+          "word": "scenario",
+          "count": 100
+        },
+        {
+          "word": "clock",
+          "count": 76
+        },
+        {
+          "word": "response",
+          "count": 54
+        },
+        {
+          "word": "restoration",
+          "count": 53
+        },
+        {
+          "word": "act",
+          "count": 44
+        },
+        {
+          "word": "counter",
+          "count": 43
+        },
+        {
+          "word": "window",
+          "count": 43
+        },
+        {
+          "word": "connection",
+          "count": 41
+        },
+        {
+          "word": "warning",
+          "count": 41
+        },
+        {
+          "word": "effects",
+          "count": 39
+        },
+        {
+          "word": "logic",
+          "count": 36
+        },
+        {
+          "word": "wider",
+          "count": 35
+        },
+        {
+          "word": "race",
+          "count": 35
+        },
+        {
+          "word": "analysis",
+          "count": 34
+        },
+        {
+          "word": "outcome",
+          "count": 34
+        },
+        {
+          "word": "decision",
+          "count": 32
         }
       ]
     },
@@ -328792,6 +332262,156 @@
       ]
     },
     {
+      "filename": "2025-05-11-forces-facing-off-suwalki-gap.md",
+      "slug": "forces-facing-off-suwalki-gap",
+      "title": "The Forces Facing Off at the Suwalki Gap",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7621,
+      "topWord": "corridor",
+      "topCount": 214,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-05-11-forces-facing-off-suwalki-gap.md",
+      "flaggedWords": [
+        {
+          "word": "corridor",
+          "count": 214
+        },
+        {
+          "word": "forces",
+          "count": 111
+        },
+        {
+          "word": "reinforcement",
+          "count": 96
+        },
+        {
+          "word": "alliance",
+          "count": 84
+        },
+        {
+          "word": "aggressor",
+          "count": 83
+        },
+        {
+          "word": "force",
+          "count": 81
+        },
+        {
+          "word": "clock",
+          "count": 71
+        },
+        {
+          "word": "defender",
+          "count": 62
+        },
+        {
+          "word": "forward",
+          "count": 57
+        },
+        {
+          "word": "contest",
+          "count": 56
+        },
+        {
+          "word": "local",
+          "count": 52
+        },
+        {
+          "word": "balance",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "corridor",
+          "count": 214
+        },
+        {
+          "word": "forces",
+          "count": 111
+        },
+        {
+          "word": "reinforcement",
+          "count": 96
+        },
+        {
+          "word": "alliance",
+          "count": 84
+        },
+        {
+          "word": "aggressor",
+          "count": 83
+        },
+        {
+          "word": "force",
+          "count": 81
+        },
+        {
+          "word": "clock",
+          "count": 71
+        },
+        {
+          "word": "defender",
+          "count": 62
+        },
+        {
+          "word": "forward",
+          "count": 57
+        },
+        {
+          "word": "contest",
+          "count": 56
+        },
+        {
+          "word": "local",
+          "count": 52
+        },
+        {
+          "word": "balance",
+          "count": 51
+        },
+        {
+          "word": "defense",
+          "count": 48
+        },
+        {
+          "word": "read",
+          "count": 46
+        },
+        {
+          "word": "gap",
+          "count": 45
+        },
+        {
+          "word": "fires",
+          "count": 45
+        },
+        {
+          "word": "air",
+          "count": 44
+        },
+        {
+          "word": "ground",
+          "count": 42
+        },
+        {
+          "word": "tripwire",
+          "count": 39
+        },
+        {
+          "word": "weight",
+          "count": 38
+        }
+      ]
+    },
+    {
       "filename": "2025-05-12-valley-of-ashes-wasteland.md",
       "slug": "valley-of-ashes-wasteland",
       "title": "The Valley of Ashes as Moral Wasteland",
@@ -329616,6 +333236,160 @@
       ]
     },
     {
+      "filename": "2025-05-21-can-nato-hold-the-suwalki-gap.md",
+      "slug": "can-nato-hold-the-suwalki-gap",
+      "title": "Can NATO Hold the Suwalki Gap?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7461,
+      "topWord": "alliance",
+      "topCount": 207,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-05-21-can-nato-hold-the-suwalki-gap.md",
+      "flaggedWords": [
+        {
+          "word": "alliance",
+          "count": 207
+        },
+        {
+          "word": "corridor",
+          "count": 132
+        },
+        {
+          "word": "adversary",
+          "count": 129
+        },
+        {
+          "word": "hold",
+          "count": 116
+        },
+        {
+          "word": "verdict",
+          "count": 106
+        },
+        {
+          "word": "posture",
+          "count": 105
+        },
+        {
+          "word": "warning",
+          "count": 98
+        },
+        {
+          "word": "connection",
+          "count": 87
+        },
+        {
+          "word": "reinforcement",
+          "count": 77
+        },
+        {
+          "word": "seam",
+          "count": 72
+        },
+        {
+          "word": "standard",
+          "count": 61
+        },
+        {
+          "word": "closure",
+          "count": 52
+        },
+        {
+          "word": "conditions",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "alliance",
+          "count": 207
+        },
+        {
+          "word": "corridor",
+          "count": 132
+        },
+        {
+          "word": "adversary",
+          "count": 129
+        },
+        {
+          "word": "hold",
+          "count": 116
+        },
+        {
+          "word": "verdict",
+          "count": 106
+        },
+        {
+          "word": "posture",
+          "count": 105
+        },
+        {
+          "word": "warning",
+          "count": 98
+        },
+        {
+          "word": "connection",
+          "count": 87
+        },
+        {
+          "word": "reinforcement",
+          "count": 77
+        },
+        {
+          "word": "seam",
+          "count": 72
+        },
+        {
+          "word": "standard",
+          "count": 61
+        },
+        {
+          "word": "closure",
+          "count": 52
+        },
+        {
+          "word": "conditions",
+          "count": 51
+        },
+        {
+          "word": "clock",
+          "count": 50
+        },
+        {
+          "word": "ground",
+          "count": 40
+        },
+        {
+          "word": "denial",
+          "count": 40
+        },
+        {
+          "word": "four",
+          "count": 39
+        },
+        {
+          "word": "gates",
+          "count": 38
+        },
+        {
+          "word": "contested",
+          "count": 37
+        },
+        {
+          "word": "defense",
+          "count": 36
+        }
+      ]
+    },
+    {
       "filename": "2025-05-23-software-engineer-resume-guide-india.md",
       "slug": "software-engineer-resume-guide-india",
       "title": "Software Engineer Resume Guide for India: ATS, LinkedIn & Keywords",
@@ -330396,6 +334170,152 @@
         {
           "word": "scope",
           "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2025-06-01-suwalki-gap-vs-fulda-gap.md",
+      "slug": "suwalki-gap-vs-fulda-gap",
+      "title": "Suwalki Gap vs the Fulda Gap",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6536,
+      "topWord": "corridor",
+      "topCount": 157,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-06-01-suwalki-gap-vs-fulda-gap.md",
+      "flaggedWords": [
+        {
+          "word": "corridor",
+          "count": 157
+        },
+        {
+          "word": "fulda",
+          "count": 125
+        },
+        {
+          "word": "problem",
+          "count": 106
+        },
+        {
+          "word": "depth",
+          "count": 97
+        },
+        {
+          "word": "front",
+          "count": 74
+        },
+        {
+          "word": "alliance",
+          "count": 65
+        },
+        {
+          "word": "connection",
+          "count": 64
+        },
+        {
+          "word": "defense",
+          "count": 63
+        },
+        {
+          "word": "gap",
+          "count": 62
+        },
+        {
+          "word": "ground",
+          "count": 61
+        },
+        {
+          "word": "breakthrough",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "corridor",
+          "count": 157
+        },
+        {
+          "word": "fulda",
+          "count": 125
+        },
+        {
+          "word": "problem",
+          "count": 106
+        },
+        {
+          "word": "depth",
+          "count": 97
+        },
+        {
+          "word": "front",
+          "count": 74
+        },
+        {
+          "word": "alliance",
+          "count": 65
+        },
+        {
+          "word": "connection",
+          "count": 64
+        },
+        {
+          "word": "defense",
+          "count": 63
+        },
+        {
+          "word": "gap",
+          "count": 62
+        },
+        {
+          "word": "ground",
+          "count": 61
+        },
+        {
+          "word": "breakthrough",
+          "count": 53
+        },
+        {
+          "word": "central",
+          "count": 50
+        },
+        {
+          "word": "analogy",
+          "count": 48
+        },
+        {
+          "word": "warning",
+          "count": 46
+        },
+        {
+          "word": "suwalki",
+          "count": 45
+        },
+        {
+          "word": "reader",
+          "count": 45
+        },
+        {
+          "word": "forces",
+          "count": 42
+        },
+        {
+          "word": "comparison",
+          "count": 36
+        },
+        {
+          "word": "forward",
+          "count": 36
+        },
+        {
+          "word": "model",
+          "count": 35
         }
       ]
     },
@@ -415176,6 +419096,412 @@
       ]
     },
     {
+      "filename": "2026-07-03-argentina-vs-cape-verde-preview.md",
+      "slug": "argentina-vs-cape-verde-preview",
+      "title": "Argentina vs Cape Verde: World Cup 2026 Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7527,
+      "topWord": "cape",
+      "topCount": 226,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-03-argentina-vs-cape-verde-preview.md",
+      "flaggedWords": [
+        {
+          "word": "cape",
+          "count": 226
+        },
+        {
+          "word": "verde",
+          "count": 225
+        },
+        {
+          "word": "argentina",
+          "count": 200
+        },
+        {
+          "word": "tie",
+          "count": 87
+        },
+        {
+          "word": "group",
+          "count": 86
+        },
+        {
+          "word": "stage",
+          "count": 61
+        },
+        {
+          "word": "cup",
+          "count": 59
+        },
+        {
+          "word": "knockout",
+          "count": 57
+        },
+        {
+          "word": "messi",
+          "count": 56
+        },
+        {
+          "word": "moment",
+          "count": 55
+        },
+        {
+          "word": "plan",
+          "count": 54
+        },
+        {
+          "word": "tournament",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "cape",
+          "count": 226
+        },
+        {
+          "word": "verde",
+          "count": 225
+        },
+        {
+          "word": "argentina",
+          "count": 200
+        },
+        {
+          "word": "tie",
+          "count": 87
+        },
+        {
+          "word": "group",
+          "count": 86
+        },
+        {
+          "word": "stage",
+          "count": 61
+        },
+        {
+          "word": "cup",
+          "count": 59
+        },
+        {
+          "word": "knockout",
+          "count": 57
+        },
+        {
+          "word": "messi",
+          "count": 56
+        },
+        {
+          "word": "moment",
+          "count": 55
+        },
+        {
+          "word": "plan",
+          "count": 54
+        },
+        {
+          "word": "tournament",
+          "count": 53
+        },
+        {
+          "word": "team",
+          "count": 50
+        },
+        {
+          "word": "round",
+          "count": 49
+        },
+        {
+          "word": "win",
+          "count": 47
+        },
+        {
+          "word": "match",
+          "count": 45
+        },
+        {
+          "word": "block",
+          "count": 42
+        },
+        {
+          "word": "single",
+          "count": 41
+        },
+        {
+          "word": "champions",
+          "count": 40
+        },
+        {
+          "word": "minutes",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-03-australia-vs-egypt-preview.md",
+      "slug": "australia-vs-egypt-preview",
+      "title": "Australia vs Egypt Preview: World Cup 2026 Round of 32",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6585,
+      "topWord": "egypt",
+      "topCount": 169,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-03-australia-vs-egypt-preview.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 169
+        },
+        {
+          "word": "australia",
+          "count": 151
+        },
+        {
+          "word": "tie",
+          "count": 107
+        },
+        {
+          "word": "group",
+          "count": 92
+        },
+        {
+          "word": "knockout",
+          "count": 69
+        },
+        {
+          "word": "game",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 169
+        },
+        {
+          "word": "australia",
+          "count": 151
+        },
+        {
+          "word": "tie",
+          "count": 107
+        },
+        {
+          "word": "group",
+          "count": 92
+        },
+        {
+          "word": "knockout",
+          "count": 69
+        },
+        {
+          "word": "game",
+          "count": 54
+        },
+        {
+          "word": "win",
+          "count": 49
+        },
+        {
+          "word": "salah",
+          "count": 49
+        },
+        {
+          "word": "stage",
+          "count": 45
+        },
+        {
+          "word": "goal",
+          "count": 44
+        },
+        {
+          "word": "cup",
+          "count": 41
+        },
+        {
+          "word": "round",
+          "count": 40
+        },
+        {
+          "word": "goals",
+          "count": 40
+        },
+        {
+          "word": "match",
+          "count": 39
+        },
+        {
+          "word": "tournament",
+          "count": 35
+        },
+        {
+          "word": "single",
+          "count": 34
+        },
+        {
+          "word": "popovic",
+          "count": 32
+        },
+        {
+          "word": "sides",
+          "count": 31
+        },
+        {
+          "word": "second",
+          "count": 31
+        },
+        {
+          "word": "chance",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-03-colombia-vs-ghana-preview.md",
+      "slug": "colombia-vs-ghana-preview",
+      "title": "Colombia vs Ghana Preview: World Cup 2026 Round of 32",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6518,
+      "topWord": "ghana",
+      "topCount": 180,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-03-colombia-vs-ghana-preview.md",
+      "flaggedWords": [
+        {
+          "word": "ghana",
+          "count": 180
+        },
+        {
+          "word": "colombia",
+          "count": 178
+        },
+        {
+          "word": "tie",
+          "count": 81
+        },
+        {
+          "word": "group",
+          "count": 69
+        },
+        {
+          "word": "game",
+          "count": 56
+        },
+        {
+          "word": "knockout",
+          "count": 55
+        },
+        {
+          "word": "team",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "ghana",
+          "count": 180
+        },
+        {
+          "word": "colombia",
+          "count": 178
+        },
+        {
+          "word": "tie",
+          "count": 81
+        },
+        {
+          "word": "group",
+          "count": 69
+        },
+        {
+          "word": "game",
+          "count": 56
+        },
+        {
+          "word": "knockout",
+          "count": 55
+        },
+        {
+          "word": "team",
+          "count": 55
+        },
+        {
+          "word": "block",
+          "count": 49
+        },
+        {
+          "word": "win",
+          "count": 46
+        },
+        {
+          "word": "tournament",
+          "count": 42
+        },
+        {
+          "word": "round",
+          "count": 37
+        },
+        {
+          "word": "ball",
+          "count": 37
+        },
+        {
+          "word": "goal",
+          "count": 36
+        },
+        {
+          "word": "single",
+          "count": 34
+        },
+        {
+          "word": "plan",
+          "count": 31
+        },
+        {
+          "word": "james",
+          "count": 31
+        },
+        {
+          "word": "stage",
+          "count": 30
+        },
+        {
+          "word": "queiroz",
+          "count": 29
+        },
+        {
+          "word": "low",
+          "count": 28
+        },
+        {
+          "word": "defence",
+          "count": 28
+        }
+      ]
+    },
+    {
       "filename": "2026-07-03-portugal-vs-croatia-analysis.md",
       "slug": "portugal-vs-croatia-analysis",
       "title": "Portugal vs Croatia Result: Ronaldo, Ramos Win It Late",
@@ -415584,6 +419910,542 @@
       ]
     },
     {
+      "filename": "2026-07-04-argentina-vs-cape-verde-analysis.md",
+      "slug": "argentina-vs-cape-verde-analysis",
+      "title": "Argentina vs Cape Verde: World Cup 2026 Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7564,
+      "topWord": "argentina",
+      "topCount": 221,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-04-argentina-vs-cape-verde-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "argentina",
+          "count": 221
+        },
+        {
+          "word": "cape",
+          "count": 200
+        },
+        {
+          "word": "verde",
+          "count": 200
+        },
+        {
+          "word": "tie",
+          "count": 114
+        },
+        {
+          "word": "champions",
+          "count": 110
+        },
+        {
+          "word": "messi",
+          "count": 72
+        },
+        {
+          "word": "goal",
+          "count": 66
+        },
+        {
+          "word": "minutes",
+          "count": 57
+        },
+        {
+          "word": "extra",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "argentina",
+          "count": 221
+        },
+        {
+          "word": "cape",
+          "count": 200
+        },
+        {
+          "word": "verde",
+          "count": 200
+        },
+        {
+          "word": "tie",
+          "count": 114
+        },
+        {
+          "word": "champions",
+          "count": 110
+        },
+        {
+          "word": "messi",
+          "count": 72
+        },
+        {
+          "word": "goal",
+          "count": 66
+        },
+        {
+          "word": "minutes",
+          "count": 57
+        },
+        {
+          "word": "extra",
+          "count": 51
+        },
+        {
+          "word": "tournament",
+          "count": 49
+        },
+        {
+          "word": "martinez",
+          "count": 45
+        },
+        {
+          "word": "night",
+          "count": 40
+        },
+        {
+          "word": "knockout",
+          "count": 40
+        },
+        {
+          "word": "goals",
+          "count": 38
+        },
+        {
+          "word": "produced",
+          "count": 37
+        },
+        {
+          "word": "corner",
+          "count": 35
+        },
+        {
+          "word": "vs",
+          "count": 34
+        },
+        {
+          "word": "match",
+          "count": 34
+        },
+        {
+          "word": "block",
+          "count": 34
+        },
+        {
+          "word": "decisive",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-04-australia-vs-egypt-analysis.md",
+      "slug": "australia-vs-egypt-analysis",
+      "title": "Australia vs Egypt: World Cup 2026 Result and Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6508,
+      "topWord": "egypt",
+      "topCount": 193,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-04-australia-vs-egypt-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 193
+        },
+        {
+          "word": "australia",
+          "count": 142
+        },
+        {
+          "word": "shootout",
+          "count": 80
+        },
+        {
+          "word": "goal",
+          "count": 69
+        },
+        {
+          "word": "tie",
+          "count": 68
+        },
+        {
+          "word": "knockout",
+          "count": 61
+        },
+        {
+          "word": "game",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 193
+        },
+        {
+          "word": "australia",
+          "count": 142
+        },
+        {
+          "word": "shootout",
+          "count": 80
+        },
+        {
+          "word": "goal",
+          "count": 69
+        },
+        {
+          "word": "tie",
+          "count": 68
+        },
+        {
+          "word": "knockout",
+          "count": 61
+        },
+        {
+          "word": "game",
+          "count": 51
+        },
+        {
+          "word": "cup",
+          "count": 46
+        },
+        {
+          "word": "tournament",
+          "count": 46
+        },
+        {
+          "word": "egyptian",
+          "count": 41
+        },
+        {
+          "word": "penalties",
+          "count": 40
+        },
+        {
+          "word": "win",
+          "count": 38
+        },
+        {
+          "word": "ball",
+          "count": 38
+        },
+        {
+          "word": "group",
+          "count": 37
+        },
+        {
+          "word": "round",
+          "count": 35
+        },
+        {
+          "word": "second",
+          "count": 34
+        },
+        {
+          "word": "australian",
+          "count": 34
+        },
+        {
+          "word": "team",
+          "count": 34
+        },
+        {
+          "word": "extra",
+          "count": 32
+        },
+        {
+          "word": "moment",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-04-canada-vs-morocco-preview.md",
+      "slug": "canada-vs-morocco-preview",
+      "title": "Canada vs Morocco: World Cup 2026 Round of 16 Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7592,
+      "topWord": "morocco",
+      "topCount": 271,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-04-canada-vs-morocco-preview.md",
+      "flaggedWords": [
+        {
+          "word": "morocco",
+          "count": 271
+        },
+        {
+          "word": "canada",
+          "count": 258
+        },
+        {
+          "word": "game",
+          "count": 99
+        },
+        {
+          "word": "tie",
+          "count": 93
+        },
+        {
+          "word": "knockout",
+          "count": 82
+        },
+        {
+          "word": "tournament",
+          "count": 69
+        },
+        {
+          "word": "team",
+          "count": 69
+        },
+        {
+          "word": "round",
+          "count": 59
+        },
+        {
+          "word": "cup",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "morocco",
+          "count": 271
+        },
+        {
+          "word": "canada",
+          "count": 258
+        },
+        {
+          "word": "game",
+          "count": 99
+        },
+        {
+          "word": "tie",
+          "count": 93
+        },
+        {
+          "word": "knockout",
+          "count": 82
+        },
+        {
+          "word": "tournament",
+          "count": 69
+        },
+        {
+          "word": "team",
+          "count": 69
+        },
+        {
+          "word": "round",
+          "count": 59
+        },
+        {
+          "word": "cup",
+          "count": 52
+        },
+        {
+          "word": "win",
+          "count": 50
+        },
+        {
+          "word": "group",
+          "count": 42
+        },
+        {
+          "word": "likely",
+          "count": 40
+        },
+        {
+          "word": "davies",
+          "count": 35
+        },
+        {
+          "word": "single",
+          "count": 34
+        },
+        {
+          "word": "transition",
+          "count": 32
+        },
+        {
+          "word": "second",
+          "count": 31
+        },
+        {
+          "word": "hakimi",
+          "count": 29
+        },
+        {
+          "word": "vs",
+          "count": 28
+        },
+        {
+          "word": "quality",
+          "count": 27
+        },
+        {
+          "word": "ball",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-04-colombia-vs-ghana-analysis.md",
+      "slug": "colombia-vs-ghana-analysis",
+      "title": "Colombia vs Ghana World Cup 2026: Result & Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6855,
+      "topWord": "colombia",
+      "topCount": 235,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-04-colombia-vs-ghana-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "colombia",
+          "count": 235
+        },
+        {
+          "word": "ghana",
+          "count": 190
+        },
+        {
+          "word": "goal",
+          "count": 74
+        },
+        {
+          "word": "cup",
+          "count": 56
+        },
+        {
+          "word": "match",
+          "count": 55
+        },
+        {
+          "word": "knockout",
+          "count": 54
+        },
+        {
+          "word": "team",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "colombia",
+          "count": 235
+        },
+        {
+          "word": "ghana",
+          "count": 190
+        },
+        {
+          "word": "goal",
+          "count": 74
+        },
+        {
+          "word": "cup",
+          "count": 56
+        },
+        {
+          "word": "match",
+          "count": 55
+        },
+        {
+          "word": "knockout",
+          "count": 54
+        },
+        {
+          "word": "team",
+          "count": 51
+        },
+        {
+          "word": "game",
+          "count": 50
+        },
+        {
+          "word": "round",
+          "count": 47
+        },
+        {
+          "word": "tournament",
+          "count": 45
+        },
+        {
+          "word": "lorenzo",
+          "count": 43
+        },
+        {
+          "word": "tie",
+          "count": 40
+        },
+        {
+          "word": "minutes",
+          "count": 35
+        },
+        {
+          "word": "arias",
+          "count": 32
+        },
+        {
+          "word": "single",
+          "count": 31
+        },
+        {
+          "word": "target",
+          "count": 31
+        },
+        {
+          "word": "suarez",
+          "count": 29
+        },
+        {
+          "word": "attacking",
+          "count": 28
+        },
+        {
+          "word": "second",
+          "count": 27
+        },
+        {
+          "word": "control",
+          "count": 27
+        }
+      ]
+    },
+    {
       "filename": "2026-07-04-h1b-fee-two-rulings-compared.md",
       "slug": "h1b-fee-two-rulings-compared",
       "title": "Two H-1B Fee Rulings Compared: Tax vs Entry Power",
@@ -415718,6 +420580,140 @@
         {
           "word": "taxing",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-05-canada-vs-morocco-analysis.md",
+      "slug": "canada-vs-morocco-analysis",
+      "title": "Canada vs Morocco: World Cup 2026 Result and Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7483,
+      "topWord": "morocco",
+      "topCount": 238,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-05-canada-vs-morocco-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "morocco",
+          "count": 238
+        },
+        {
+          "word": "canada",
+          "count": 202
+        },
+        {
+          "word": "half",
+          "count": 87
+        },
+        {
+          "word": "team",
+          "count": 82
+        },
+        {
+          "word": "win",
+          "count": 73
+        },
+        {
+          "word": "game",
+          "count": 57
+        },
+        {
+          "word": "ounahi",
+          "count": 57
+        },
+        {
+          "word": "second",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "morocco",
+          "count": 238
+        },
+        {
+          "word": "canada",
+          "count": 202
+        },
+        {
+          "word": "half",
+          "count": 87
+        },
+        {
+          "word": "team",
+          "count": 82
+        },
+        {
+          "word": "win",
+          "count": 73
+        },
+        {
+          "word": "game",
+          "count": 57
+        },
+        {
+          "word": "ounahi",
+          "count": 57
+        },
+        {
+          "word": "second",
+          "count": 52
+        },
+        {
+          "word": "tournament",
+          "count": 49
+        },
+        {
+          "word": "knockout",
+          "count": 49
+        },
+        {
+          "word": "cup",
+          "count": 48
+        },
+        {
+          "word": "goal",
+          "count": 44
+        },
+        {
+          "word": "match",
+          "count": 42
+        },
+        {
+          "word": "co",
+          "count": 37
+        },
+        {
+          "word": "round",
+          "count": 37
+        },
+        {
+          "word": "tie",
+          "count": 36
+        },
+        {
+          "word": "ouahbi",
+          "count": 34
+        },
+        {
+          "word": "france",
+          "count": 34
+        },
+        {
+          "word": "minutes",
+          "count": 33
+        },
+        {
+          "word": "rahimi",
+          "count": 31
         }
       ]
     },
@@ -418809,6 +423805,852 @@
         },
         {
           "word": "credit",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-09-f-scott-fitzgerald-biography.md",
+      "slug": "f-scott-fitzgerald-biography",
+      "title": "F. Scott Fitzgerald: A Life for Readers",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4778,
+      "topWord": "fitzgerald",
+      "topCount": 144,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-09-f-scott-fitzgerald-biography.md",
+      "flaggedWords": [
+        {
+          "word": "fitzgerald",
+          "count": 144
+        },
+        {
+          "word": "novel",
+          "count": 103
+        },
+        {
+          "word": "gatsby",
+          "count": 84
+        }
+      ],
+      "top20": [
+        {
+          "word": "fitzgerald",
+          "count": 144
+        },
+        {
+          "word": "novel",
+          "count": 103
+        },
+        {
+          "word": "gatsby",
+          "count": 84
+        },
+        {
+          "word": "money",
+          "count": 48
+        },
+        {
+          "word": "book",
+          "count": 47
+        },
+        {
+          "word": "author",
+          "count": 42
+        },
+        {
+          "word": "biography",
+          "count": 38
+        },
+        {
+          "word": "rich",
+          "count": 33
+        },
+        {
+          "word": "reading",
+          "count": 29
+        },
+        {
+          "word": "wealth",
+          "count": 28
+        },
+        {
+          "word": "american",
+          "count": 26
+        },
+        {
+          "word": "lived",
+          "count": 26
+        },
+        {
+          "word": "zelda",
+          "count": 22
+        },
+        {
+          "word": "himself",
+          "count": 20
+        },
+        {
+          "word": "outsider",
+          "count": 20
+        },
+        {
+          "word": "poor",
+          "count": 19
+        },
+        {
+          "word": "reader",
+          "count": 19
+        },
+        {
+          "word": "story",
+          "count": 18
+        },
+        {
+          "word": "longing",
+          "count": 18
+        },
+        {
+          "word": "nick",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-16-zelda-fitzgerald-gatsby.md",
+      "slug": "zelda-fitzgerald-gatsby",
+      "title": "Zelda Fitzgerald and The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4856,
+      "topWord": "zelda",
+      "topCount": 153,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-16-zelda-fitzgerald-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "zelda",
+          "count": 153
+        },
+        {
+          "word": "fitzgerald",
+          "count": 148
+        },
+        {
+          "word": "novel",
+          "count": 125
+        },
+        {
+          "word": "daisy",
+          "count": 74
+        },
+        {
+          "word": "gatsby",
+          "count": 72
+        },
+        {
+          "word": "money",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "zelda",
+          "count": 153
+        },
+        {
+          "word": "fitzgerald",
+          "count": 148
+        },
+        {
+          "word": "novel",
+          "count": 125
+        },
+        {
+          "word": "daisy",
+          "count": 74
+        },
+        {
+          "word": "gatsby",
+          "count": 72
+        },
+        {
+          "word": "money",
+          "count": 52
+        },
+        {
+          "word": "book",
+          "count": 44
+        },
+        {
+          "word": "wealth",
+          "count": 40
+        },
+        {
+          "word": "marriage",
+          "count": 35
+        },
+        {
+          "word": "courtship",
+          "count": 29
+        },
+        {
+          "word": "girl",
+          "count": 27
+        },
+        {
+          "word": "king",
+          "count": 23
+        },
+        {
+          "word": "biography",
+          "count": 21
+        },
+        {
+          "word": "love",
+          "count": 19
+        },
+        {
+          "word": "fitzgeralds",
+          "count": 19
+        },
+        {
+          "word": "argument",
+          "count": 18
+        },
+        {
+          "word": "character",
+          "count": 18
+        },
+        {
+          "word": "rich",
+          "count": 18
+        },
+        {
+          "word": "single",
+          "count": 17
+        },
+        {
+          "word": "read",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-23-fitzgerald-life-shaped-gatsby.md",
+      "slug": "fitzgerald-life-shaped-gatsby",
+      "title": "How Fitzgerald's Life Shaped The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4847,
+      "topWord": "fitzgerald",
+      "topCount": 178,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-23-fitzgerald-life-shaped-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "fitzgerald",
+          "count": 178
+        },
+        {
+          "word": "novel",
+          "count": 124
+        },
+        {
+          "word": "gatsby",
+          "count": 106
+        }
+      ],
+      "top20": [
+        {
+          "word": "fitzgerald",
+          "count": 178
+        },
+        {
+          "word": "novel",
+          "count": 124
+        },
+        {
+          "word": "gatsby",
+          "count": 106
+        },
+        {
+          "word": "class",
+          "count": 48
+        },
+        {
+          "word": "book",
+          "count": 47
+        },
+        {
+          "word": "nick",
+          "count": 43
+        },
+        {
+          "word": "money",
+          "count": 39
+        },
+        {
+          "word": "rich",
+          "count": 34
+        },
+        {
+          "word": "self",
+          "count": 33
+        },
+        {
+          "word": "reading",
+          "count": 32
+        },
+        {
+          "word": "longing",
+          "count": 30
+        },
+        {
+          "word": "wealth",
+          "count": 30
+        },
+        {
+          "word": "daisy",
+          "count": 29
+        },
+        {
+          "word": "biography",
+          "count": 27
+        },
+        {
+          "word": "courtship",
+          "count": 26
+        },
+        {
+          "word": "himself",
+          "count": 26
+        },
+        {
+          "word": "outsider",
+          "count": 24
+        },
+        {
+          "word": "biographical",
+          "count": 23
+        },
+        {
+          "word": "zelda",
+          "count": 22
+        },
+        {
+          "word": "invented",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-30-long-island-real-west-egg.md",
+      "slug": "long-island-real-west-egg",
+      "title": "Long Island and the Real West Egg",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4835,
+      "topWord": "fitzgerald",
+      "topCount": 111,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-30-long-island-real-west-egg.md",
+      "flaggedWords": [
+        {
+          "word": "fitzgerald",
+          "count": 111
+        },
+        {
+          "word": "egg",
+          "count": 74
+        },
+        {
+          "word": "neck",
+          "count": 67
+        },
+        {
+          "word": "money",
+          "count": 65
+        },
+        {
+          "word": "west",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "fitzgerald",
+          "count": 111
+        },
+        {
+          "word": "egg",
+          "count": 74
+        },
+        {
+          "word": "neck",
+          "count": 67
+        },
+        {
+          "word": "money",
+          "count": 65
+        },
+        {
+          "word": "west",
+          "count": 52
+        },
+        {
+          "word": "novel",
+          "count": 50
+        },
+        {
+          "word": "bay",
+          "count": 49
+        },
+        {
+          "word": "peninsula",
+          "count": 47
+        },
+        {
+          "word": "eggs",
+          "count": 45
+        },
+        {
+          "word": "shore",
+          "count": 44
+        },
+        {
+          "word": "geography",
+          "count": 40
+        },
+        {
+          "word": "setting",
+          "count": 37
+        },
+        {
+          "word": "gatsby",
+          "count": 36
+        },
+        {
+          "word": "reading",
+          "count": 34
+        },
+        {
+          "word": "city",
+          "count": 34
+        },
+        {
+          "word": "ground",
+          "count": 33
+        },
+        {
+          "word": "map",
+          "count": 30
+        },
+        {
+          "word": "island",
+          "count": 29
+        },
+        {
+          "word": "social",
+          "count": 29
+        },
+        {
+          "word": "nick",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2026-12-07-real-models-for-gatsby.md",
+      "slug": "real-models-for-gatsby",
+      "title": "The Real-Life Models for Jay Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5011,
+      "topWord": "character",
+      "topCount": 132,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-12-07-real-models-for-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "character",
+          "count": 132
+        },
+        {
+          "word": "gatsby",
+          "count": 122
+        },
+        {
+          "word": "fitzgerald",
+          "count": 108
+        },
+        {
+          "word": "composite",
+          "count": 77
+        },
+        {
+          "word": "self",
+          "count": 76
+        },
+        {
+          "word": "novel",
+          "count": 71
+        },
+        {
+          "word": "source",
+          "count": 63
+        },
+        {
+          "word": "type",
+          "count": 62
+        }
+      ],
+      "top20": [
+        {
+          "word": "character",
+          "count": 132
+        },
+        {
+          "word": "gatsby",
+          "count": 122
+        },
+        {
+          "word": "fitzgerald",
+          "count": 108
+        },
+        {
+          "word": "composite",
+          "count": 77
+        },
+        {
+          "word": "self",
+          "count": 76
+        },
+        {
+          "word": "novel",
+          "count": 71
+        },
+        {
+          "word": "source",
+          "count": 63
+        },
+        {
+          "word": "type",
+          "count": 62
+        },
+        {
+          "word": "money",
+          "count": 45
+        },
+        {
+          "word": "evidence",
+          "count": 40
+        },
+        {
+          "word": "single",
+          "count": 39
+        },
+        {
+          "word": "figure",
+          "count": 39
+        },
+        {
+          "word": "reading",
+          "count": 39
+        },
+        {
+          "word": "gerlach",
+          "count": 36
+        },
+        {
+          "word": "model",
+          "count": 33
+        },
+        {
+          "word": "wolfsheim",
+          "count": 32
+        },
+        {
+          "word": "himself",
+          "count": 31
+        },
+        {
+          "word": "social",
+          "count": 31
+        },
+        {
+          "word": "sources",
+          "count": 30
+        },
+        {
+          "word": "rothstein",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2026-12-14-wwi-shadow-great-gatsby.md",
+      "slug": "wwi-shadow-great-gatsby",
+      "title": "World War One's Shadow Over The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4809,
+      "topWord": "war",
+      "topCount": 221,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-12-14-wwi-shadow-great-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "war",
+          "count": 221
+        },
+        {
+          "word": "gatsby",
+          "count": 150
+        },
+        {
+          "word": "fitzgerald",
+          "count": 57
+        },
+        {
+          "word": "daisy",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "war",
+          "count": 221
+        },
+        {
+          "word": "gatsby",
+          "count": 150
+        },
+        {
+          "word": "fitzgerald",
+          "count": 57
+        },
+        {
+          "word": "daisy",
+          "count": 54
+        },
+        {
+          "word": "novel",
+          "count": 49
+        },
+        {
+          "word": "nick",
+          "count": 45
+        },
+        {
+          "word": "book",
+          "count": 39
+        },
+        {
+          "word": "generation",
+          "count": 36
+        },
+        {
+          "word": "uniform",
+          "count": 33
+        },
+        {
+          "word": "past",
+          "count": 27
+        },
+        {
+          "word": "conflict",
+          "count": 26
+        },
+        {
+          "word": "reading",
+          "count": 26
+        },
+        {
+          "word": "argonne",
+          "count": 26
+        },
+        {
+          "word": "frame",
+          "count": 23
+        },
+        {
+          "word": "fighting",
+          "count": 23
+        },
+        {
+          "word": "read",
+          "count": 21
+        },
+        {
+          "word": "tom",
+          "count": 21
+        },
+        {
+          "word": "oxford",
+          "count": 21
+        },
+        {
+          "word": "context",
+          "count": 20
+        },
+        {
+          "word": "parties",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2026-12-21-lost-generation-great-gatsby.md",
+      "slug": "lost-generation-great-gatsby",
+      "title": "The Lost Generation and The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4765,
+      "topWord": "war",
+      "topCount": 82,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-12-21-lost-generation-great-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "war",
+          "count": 82
+        },
+        {
+          "word": "novel",
+          "count": 70
+        },
+        {
+          "word": "generation",
+          "count": 66
+        },
+        {
+          "word": "cohort",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "war",
+          "count": 82
+        },
+        {
+          "word": "novel",
+          "count": 70
+        },
+        {
+          "word": "generation",
+          "count": 66
+        },
+        {
+          "word": "cohort",
+          "count": 65
+        },
+        {
+          "word": "fitzgerald",
+          "count": 45
+        },
+        {
+          "word": "condition",
+          "count": 44
+        },
+        {
+          "word": "gatsby",
+          "count": 40
+        },
+        {
+          "word": "money",
+          "count": 39
+        },
+        {
+          "word": "reading",
+          "count": 32
+        },
+        {
+          "word": "frame",
+          "count": 31
+        },
+        {
+          "word": "nick",
+          "count": 29
+        },
+        {
+          "word": "restlessness",
+          "count": 28
+        },
+        {
+          "word": "book",
+          "count": 27
+        },
+        {
+          "word": "group",
+          "count": 27
+        },
+        {
+          "word": "disillusionment",
+          "count": 27
+        },
+        {
+          "word": "hemingway",
+          "count": 26
+        },
+        {
+          "word": "rootlessness",
+          "count": 25
+        },
+        {
+          "word": "values",
+          "count": 24
+        },
+        {
+          "word": "document",
+          "count": 22
+        },
+        {
+          "word": "disenchantment",
           "count": 21
         }
       ]

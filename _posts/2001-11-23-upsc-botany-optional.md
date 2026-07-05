@@ -9,7 +9,7 @@ excerpt: "UPSC Botany optional complete guide covering syllabus, booklist, diagr
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 61
 author: "kavita-sharma"
-last_updated: 2001-11-23
+last_updated: 2026-07-05
 lang: en
 ---
 The UPSC Botany optional is one of the most underrated scoring subjects available to science graduates, yet it carries a reputation built almost entirely on rumour rather than evidence. If you completed a BSc or MSc in Botany, Life Sciences, or any allied plant-science discipline and you keep hearing conflicting advice about whether your degree subject is a smart strategic choice or a career-ending mistake, this guide exists to settle that question with specifics rather than slogans. The honest answer is that Botany rewards the candidate who already possesses a structured foundation in plant biology and punishes the candidate who picks it casually expecting an easy ride. A well-prepared Botany aspirant routinely converts the two optional papers into a combined 280 to 320 marks, a figure that single-handedly lifts a borderline candidate into the final selection list. The poorly prepared aspirant, by contrast, often lands below 230 and never understands why. This article walks you through exactly what separates those two outcomes.

@@ -9,7 +9,7 @@ excerpt: "UPSC optional PYQ trends, decoded subject by subject. See which themes
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2002-01-21
+last_updated: 2026-07-05
 lang: en
 ---
 If you have ever opened ten years of your optional subject's question papers and felt your stomach drop, you are not alone, and you are also closer to a breakthrough than you realise. Most aspirants treat those papers as a mountain of unrelated questions to be feared. The toppers treat them as a map. This guide on UPSC optional PYQ trends exists to hand you that map, subject by subject, so that the next time you sit down to prepare, you are studying what the examiner actually rewards rather than everything the syllabus theoretically contains.

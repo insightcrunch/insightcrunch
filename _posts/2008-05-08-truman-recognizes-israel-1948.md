@@ -9,7 +9,7 @@ excerpt: "Israel declared independence at 6 p.m. on May 14, 1948. Truman granted
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2008-05-08
+last_updated: 2026-07-05
 lang: en
 ---
 At six o'clock on the evening of Friday, May 14, 1948, the British Mandate of Palestine expired. At the same instant, in the auditorium of the Tel Aviv Museum on Rothschild Boulevard, David Ben-Gurion stood beneath a portrait of Theodor Herzl and read the Declaration of the Establishment of the State of Israel. Eleven minutes later, at 6:11 p.m. Washington time, the White House press secretary Charles G. Ross stepped into the West Wing and handed reporters a single typed paragraph. The government of the United States, the paragraph said, had been informed that a Jewish state had been proclaimed in Palestine, and recognition had been requested by the provisional government thereof. The United States recognized the provisional government as the de facto authority of the new State of Israel.

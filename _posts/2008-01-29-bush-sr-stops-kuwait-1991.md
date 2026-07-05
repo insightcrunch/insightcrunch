@@ -9,7 +9,7 @@ excerpt: "After 100 hours of ground war, Bush halted at Kuwait. Baghdad lay reac
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2008-01-29
+last_updated: 2026-07-05
 lang: en
 ---
 ## The Halt

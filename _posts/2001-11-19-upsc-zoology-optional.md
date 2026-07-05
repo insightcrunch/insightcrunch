@@ -9,7 +9,7 @@ excerpt: "Complete UPSC Zoology optional guide: syllabus decode, Paper 1 and Pap
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2001-11-19
+last_updated: 2026-07-05
 lang: en
 ---
 If you studied life sciences in college and you are now staring at a list of forty-eight optional subjects wondering whether the discipline you already love can carry you to a rank, the UPSC Zoology optional sits right at the centre of that anxiety. You have heard two contradictory things from seniors and coaching channels. One camp swears that science optionals are a graveyard where hard work disappears into stingy marking. The other camp insists that a well prepared candidate with a biology background can convert factual precision and clean diagrams into a stable, predictable score that arts optionals can only dream of. Both claims contain a grain of truth and a great deal of exaggeration, and the purpose of this guide is to separate the two with the kind of operational detail no coaching brochure will give you.

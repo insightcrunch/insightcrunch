@@ -9,7 +9,7 @@ excerpt: "JFK was approving Vietnam buildup in November 1963 even as NSAM 263 au
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 62
 author: "rachel-foster"
-last_updated: 2008-01-02
+last_updated: 2026-07-05
 lang: en
 ---
 On October 11, 1963, John F. Kennedy signed National Security Action Memorandum 263. The document authorized withdrawal of 1,000 American military advisers from South Vietnam by year's end. Six weeks later, the president who signed it was dead in Dallas, and the same Pentagon that had drafted 263 was preparing its successor document for a man named Lyndon Johnson.

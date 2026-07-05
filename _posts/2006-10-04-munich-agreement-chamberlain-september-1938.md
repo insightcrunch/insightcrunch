@@ -3,7 +3,7 @@ layout: post
 title: "Munich Agreement: Chamberlain's September 1938"
 page_title: "Munich Agreement: Chamberlain's September 15 Through September 30 1938 Appeasement Decision and the Czechoslovak Betrayal"
 date: 2006-10-04
-last_updated: 2006-10-04
+last_updated: 2026-07-05
 author: "lauren-hayes"
 categories: ["Leisure"]
 tags: ["neville-chamberlain", "decision-reconstruction", "european-theater", "1938", "munich-agreement", "united-kingdom"]

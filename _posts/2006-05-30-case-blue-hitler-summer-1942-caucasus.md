@@ -11,6 +11,7 @@ excerpt: "Oil or Stalin's city? Directive 45 chose both. Hitler split Army Group
 slug: "case-blue-hitler-summer-1942-caucasus"
 reading_time: 56
 lang: en
+last_updated: 2026-07-05
 ---
 On July 23, 1942, in a wooden headquarters compound near Vinnitsa in occupied Ukraine, Adolf Hitler issued Führer Directive 45 and, with a single order, sent one army group south into the Caucasus mountains and another east toward a city on the Volga named after Stalin. The two forces would advance at once, along diverging axes, across a front that widened with every mile they gained. Franz Halder, the Army Chief of Staff, recorded his objection in his diary that the available strength could not sustain two simultaneous offensives pointed in different directions. Hitler overrode him. The order stood.
 

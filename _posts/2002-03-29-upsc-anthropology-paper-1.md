@@ -9,7 +9,7 @@ excerpt: "UPSC Anthropology optional Paper 1 covering human evolution, primates,
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2002-03-29
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Anthropology optional Paper 1 physical and social anthropology represents the conceptual engine of the entire optional, because this is the paper where an aspirant proves whether they understand the discipline as a unified science of humankind or merely as a collection of unrelated topics to be memorised in isolation. The aspirants who prepare Paper 1 by cramming the names of fossils, the labels of theories, and the definitions of kinship terminology without grasping the underlying logic that connects biological evolution to cultural variation produce answers evaluators recognise instantly as surface recall. The aspirants who treat Paper 1 as an integrated framework, where human evolution explains the biological substrate, where genetics explains population variation, and where social and cultural theory explains how human groups organise marriage, descent, economy, polity and belief, produce layered analytical answers that earn high marks. The well-prepared Paper 1 candidate typically scores 140 to 175 marks, while the poorly prepared candidate frequently sits below 95. This guide is constructed around developing exactly that integrative depth, section by section, with the precision UPSC rewards.

@@ -9,7 +9,7 @@ excerpt: "Nixon had one week in July 1973 to destroy the tapes before subpoenas 
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 64
 author: "amanda-ross"
-last_updated: 2008-01-07
+last_updated: 2026-07-05
 lang: en
 ---
 ## The Week Nixon Could Have Saved Himself

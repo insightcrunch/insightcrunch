@@ -3,7 +3,7 @@ layout: post
 title: "Truman's Atomic Bomb Decision: July 1945"
 page_title: "Truman's July 1945 Atomic Bomb Decision: The Pacific Theater Context and the Six Options Stimson's Interim Committee Considered"
 date: 2006-10-26
-last_updated: 2006-10-26
+last_updated: 2026-07-05
 author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["harry-truman", "decision-reconstruction", "pacific-theater", "1945", "atomic-bomb", "united-states"]

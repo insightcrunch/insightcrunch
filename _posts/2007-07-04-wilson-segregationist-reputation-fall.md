@@ -9,7 +9,7 @@ excerpt: "Wilson ranked 4th in the 1962 historians' poll and just 13th today. Th
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2007-07-04
+last_updated: 2026-07-05
 lang: en
 ---
 On a November night in 2015, a group of Princeton undergraduates calling themselves the Black Justice League walked into Nassau Hall, the oldest building on the oldest part of the campus, and refused to leave the office of the university president. They had a list of demands, and the first one concerned a name. They wanted the most honored name on the campus, the name attached to the residential college where many of them slept and to the graduate school of public and international affairs where the university trained future diplomats and policymakers, stripped from the buildings. The name was Woodrow Wilson, Princeton's thirteenth president before he was the nation's twenty-eighth, the only president of the United States to hold a doctorate, the scholar-statesman whose face had stared down from the walls of the institution he was thought to have remade. The students argued that the man being honored had used the power of the federal government to throw Black Americans out of their jobs, that he had welcomed into the White House a film celebrating the Ku Klux Klan, and that a university committed to service in the nation's interest should not advertise his name as the standard of that service.

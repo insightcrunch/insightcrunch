@@ -9,7 +9,7 @@ excerpt: "Southerners filibustered the Civil Rights Act of 1964 for 60 days. Lyn
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 75
 author: "jessica-kim"
-last_updated: 2008-03-30
+last_updated: 2026-07-05
 lang: en
 ---
 At 11:18 a.m. on June 10, 1964, Senator Clair Engle of California was wheeled into the Senate chamber on a stretcher. A brain tumor had taken his speech and most of his movement. The clerk called his name on the roll for cloture. Engle could not answer. He raised a shaking hand and pointed at his eye. The chair recorded it as an aye. The final tally read 71 to 29. The Southern filibuster against the civil rights bill, the longest in Senate history at 60 calendar days, ended on a four-vote margin above the two-thirds threshold then required by Rule 22. No civil rights measure had ever survived a cloture vote before. None had even come close. The vote made the passage of the Civil Rights Act of 1964 mechanically inevitable, and on July 2 President Lyndon Johnson signed Public Law 88-352 in the East Room of the White House. The pen he handed to Senator Everett Dirksen, the Republican minority leader from Illinois, traveled by motorcade back to the Capitol that afternoon. Dirksen had earned it. Johnson had bought it.

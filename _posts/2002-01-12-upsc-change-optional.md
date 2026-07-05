@@ -9,7 +9,7 @@ excerpt: "Changing your UPSC optional mid-preparation: when a switch makes sense
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2002-01-12
+last_updated: 2026-07-05
 lang: en
 ---
 Changing your UPSC optional mid-preparation is one of the most agonising decisions an aspirant ever faces, because it sits at the exact point where two terrifying fears collide: the fear of throwing away months of hard work, and the fear of spending years more on a subject that will never give you the marks you need. You have already invested. You have notes, half-remembered theories, a coaching enrollment, perhaps a shelf of books you bought with money you did not have to spare. And yet something gnaws at you. The mock answers come back disappointing. The subject feels heavier every week instead of lighter. A friend who started after you is already scoring better in a different paper. You begin to wonder whether the smartest thing you could do is also the most painful thing: walk away and begin again.

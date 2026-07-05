@@ -9,7 +9,7 @@ excerpt: "Bush vowed 'Read my lips: no new taxes' in 1988 and signed the reversa
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 63
 author: "amanda-ross"
-last_updated: 2008-01-24
+last_updated: 2026-07-05
 lang: en
 ---
 On the evening of June 26, 1990, George Herbert Walker Bush walked into the White House briefing room and handed reporters a single sheet of paper. The text was eighty-six words long. Its substance was four: "tax revenue increases" would be required to close any serious revenue deal. He had been in office for eighteen months. He was about to enter the run-up to a Gulf War that would crest his approval rating at eighty-nine percent the next March. And in the moment he authorized that joint statement with congressional leaders, he ended his political career as effectively as if he had resigned.

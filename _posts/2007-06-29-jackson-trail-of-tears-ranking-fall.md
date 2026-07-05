@@ -9,7 +9,7 @@ excerpt: "Jackson ranked 9th among presidents in 1948 and sits near 21st today. 
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2007-06-29
+last_updated: 2026-07-05
 lang: en
 ---
 In the autumn of 1948, the editors of Life magazine mailed a single sheet of paper to fifty-five professional historians and asked each of them to do something the discipline had never formally tried. Rank the men who had held the presidency, from greatest to worst, on a five-step scale that ran from Great down to Failure. The man who tabulated the returns, Arthur Schlesinger Sr. of Harvard, was a careful counter, and when the ballots came back he placed Andrew Jackson high in the company that mattered. Jackson landed at ninth, a hair below the founders and the war-winners, comfortably inside the tier the professoriate reserved for presidents who had bent the office to a purpose and made it serve. For the next two decades that judgment held and even improved. By 1962 the same survey, now run by the son rather than the father, moved Jackson up to sixth.

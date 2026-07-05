@@ -3,7 +3,7 @@ layout: post
 title: "Battle of Moscow: Stalin's December 1941"
 page_title: "Battle of Moscow: Stalin's September Through December 1941 Defense Decisions and the Zhukov Counteroffensive That Saved the Capital"
 date: 2006-07-08
-last_updated: 2006-07-08
+last_updated: 2026-07-05
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "decision-reconstruction", "eastern-front", "1941", "battle-of-moscow", "soviet-union"]

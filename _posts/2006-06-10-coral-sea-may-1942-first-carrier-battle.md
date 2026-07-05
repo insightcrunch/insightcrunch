@@ -3,7 +3,7 @@ layout: post
 title: "Coral Sea: May 1942 First Carrier Battle"
 page_title: "Battle of the Coral Sea: Fletcher's May 4 Through May 8 1942 Carrier Engagement and the First Time Opposing Fleets Never Sighted Each Other"
 date: 2006-06-10
-last_updated: 2006-06-10
+last_updated: 2026-07-05
 author: "diana-patel"
 categories: ["Leisure"]
 tags: ["frank-jack-fletcher", "decision-reconstruction", "pacific-theater", "1942", "battle-of-coral-sea", "united-states"]

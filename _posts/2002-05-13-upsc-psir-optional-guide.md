@@ -9,7 +9,7 @@ excerpt: "UPSC PSIR optional complete guide decoding the syllabus, booklist, GS2
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2002-05-13
+last_updated: 2026-07-05
 lang: en
 ---
 The UPSC PSIR optional, formally Political Science and International Relations, has earned its reputation as the thinking aspirant's optional because it rewards conceptual clarity, contemporary awareness, and structured argumentation rather than rote accumulation of dates and facts. Among the most chosen optionals at the civil services examination, PSIR attracts candidates who want a subject that talks directly to the front page of the newspaper while resting on a durable theoretical foundation. A well-prepared candidate routinely converts this combination into a 300 plus aggregate across both papers, and in strong years the top scorers in this discipline cross 320, placing them firmly inside rank-deciding territory. This guide is built to take you from a blank slate to that scoring band by treating the subject as an integrated craft rather than two disconnected syllabi.

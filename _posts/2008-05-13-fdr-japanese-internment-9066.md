@@ -9,7 +9,7 @@ excerpt: "FDR signed Executive Order 9066 on February 19, 1942. Attorney General
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2008-05-13
+last_updated: 2026-07-05
 lang: en
 ---
 On the afternoon of February 19, 1942, Franklin Roosevelt sat at his Oval Office desk and signed a single page of typewritten text. The order ran nine paragraphs. It authorized the Secretary of War to designate "military areas" from which "any or all persons may be excluded." It named no group. It mentioned no ethnicity. It contained no reference to Japan, to the Pacific Coast, or to the 127,000 Japanese Americans whose lives the document was about to take apart. The text, on its face, could have applied to anyone. In practice, within ten weeks of the signature, it would apply to almost no one else.

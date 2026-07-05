@@ -9,7 +9,7 @@ excerpt: "UPSC Philosophy optional Paper 1 guide on Western philosophy Plato to 
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2002-03-16
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Philosophy optional Paper 1 is the half of the optional where aspirants demonstrate whether they can think philosophically or merely report what philosophers said. The two sections of this paper, Western philosophy from Plato to the later Wittgenstein and Indian philosophy from the Carvaka materialists to the Vedanta systems, are not asking you to remember positions. They are asking you to reconstruct arguments, evaluate them, and defend a considered judgement. The aspirant who treats Paper 1 as a memory exercise, storing definitions of substance, the cogito, the four noble truths, and the doctrine of momentariness, and then reproducing those definitions on demand, writes answers that examiners recognise instantly as summary rather than philosophy. The aspirant who understands why Descartes needed the cogito, what work it does in his system, where it is vulnerable, and how an Indian theory of self would respond to it, writes answers that read like the work of someone who belongs in the discipline. The first aspirant tends to land between 90 and 110 marks across the two papers combined. The second tends to cross 150 in Paper 1 alone. This guide is built to move you from the first category to the second.

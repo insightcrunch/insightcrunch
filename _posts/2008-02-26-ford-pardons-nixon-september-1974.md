@@ -9,7 +9,7 @@ excerpt: "Gerald Ford pardoned Richard Nixon thirty days into his presidency, kn
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2008-02-26
+last_updated: 2026-07-05
 lang: en
 ---
 ## The Sunday Morning Sacrifice

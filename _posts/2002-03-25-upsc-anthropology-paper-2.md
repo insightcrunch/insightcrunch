@@ -9,7 +9,7 @@ excerpt: "UPSC Anthropology Paper 2 guide: Indian tribal societies, caste, kinsh
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2002-03-25
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Anthropology Paper 2 is the India-specific half of the optional where aspirants demonstrate the capacity to apply anthropological concepts to the tribal societies, caste structures, kinship systems, village communities, and prehistoric cultures of the subcontinent. The aspirants who treat this paper as a general knowledge survey of Indian society, reproducing newspaper-level commentary about poverty, reservation, and tribal welfare, score poorly because evaluators want anthropological reasoning grounded in fieldwork-based concepts and named ethnographic studies, not the social awareness any informed citizen possesses. The aspirants who deploy the tribe-caste continuum to interpret status mobility, the sacred complex to read pilgrimage centres, the nature-man-spirit complex to explain tribal ecology, and the little and great tradition framework to trace cultural transmission produce distinctively anthropological answers that evaluators reward with high marks. The well-prepared Paper 2 aspirant typically scores 140 to 175 marks while the inadequately prepared aspirant frequently scores below 95 marks. This UPSC Anthropology Paper 2 guide is built around the technique of pairing every Indian social phenomenon with a named anthropologist, a specific ethnographic study, and a labelled diagram, which is what separates examination-worthy answers from descriptive ones.

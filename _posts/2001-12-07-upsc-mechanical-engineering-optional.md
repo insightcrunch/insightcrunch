@@ -9,7 +9,7 @@ excerpt: "UPSC Mechanical Engineering optional complete guide covering Paper 1 a
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "kavita-sharma"
-last_updated: 2001-12-07
+last_updated: 2026-07-05
 lang: en
 ---
 The UPSC Mechanical Engineering optional sits in a peculiar position within the civil services landscape: it is simultaneously one of the most logically structured choices available to a technically trained candidate and one of the most demanding in terms of raw preparation hours. If you graduated with a mechanical degree and you genuinely enjoyed thermodynamics, theory of machines, and fluid mechanics rather than merely surviving them, this subject can become a precision instrument that delivers predictable, formula-anchored marks where humanities optionals leave aspirants guessing about evaluator subjectivity. If you chose the degree because your parents wanted an engineer in the family and you forgot the second law of thermodynamics the day after the semester examination, this same subject becomes a trap that consumes months and returns mediocre scores. This guide exists so that you can decide honestly which of those two people you are before you commit a single study cycle to it.
