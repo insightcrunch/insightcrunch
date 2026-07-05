@@ -598,9 +598,11 @@ article {
         <span>{{ page.date | date: "%B %-d, %Y" }}</span>
         {% if page.last_updated %}<span class="sep">&middot;</span><span>Updated {{ page.last_updated | date: "%B %-d, %Y" }}</span>{% endif %}
         {% if page.read_time %}<span class="sep">&middot;</span><span>{{ page.read_time }} min read</span>{% endif %}
+        {% if site.data.related_posts[page.slug] %}
         <button class="related-btn-meta" type="button" onclick="openPostRelatedModal()" aria-label="Related stories" title="Related stories">
           <svg width="12" height="11" viewBox="0 0 14 12" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><circle cx="2" cy="3" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="3" x2="12" y2="3"/><circle cx="2" cy="6" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="6" x2="12" y2="6"/><circle cx="2" cy="9" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="9" x2="12" y2="9"/></svg>
         </button>
+        {% endif %}
       </div>
     </div>
 
