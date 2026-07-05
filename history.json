@@ -637,6 +637,12 @@
       "tag": "culture"
     },
     {
+      "year": 1813,
+      "text": "🇦🇷 San Martin won the Battle of San Lorenzo.",
+      "country": "AR",
+      "tag": "history"
+    },
+    {
       "year": 1468,
       "text": "🌍 Printing pioneer Johannes Gutenberg died.",
       "country": "WORLD",
@@ -920,12 +926,6 @@
       "year": 2008,
       "text": "🇽🇰 Kosovo declared its independence.",
       "country": "XK",
-      "tag": "history"
-    },
-    {
-      "year": 1813,
-      "text": "🇦🇷 San Martin won the Battle of San Lorenzo.",
-      "country": "AR",
       "tag": "history"
     },
     {
