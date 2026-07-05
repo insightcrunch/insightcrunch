@@ -6,15 +6,15 @@ date: 2026-11-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Roaring Twenties", "F. Scott Fitzgerald", "Context", "American Literature"]
 excerpt: "The Roaring Twenties context for Gatsby explains the 1920s boom, social change, and the coming crash that give the novel its giddy, borrowed, doomed glow."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-11-02
+lang: en
 ---
-
 Read the parties in The Great Gatsby without the decade behind them and you get a rich man who spends too much. Read them with the decade in view and you get something sharper: a whole society spending against a future it has not yet been billed for. The Roaring Twenties context for Gatsby is not scenery you can skip on the way to the symbolism. It is the pressure that makes the symbolism mean what it means. The boom that filled Gatsby's lawn with strangers, the loosened rules that let those strangers behave as they pleased, the flood of manufactured goods that turned appetite into a national style, and above all the crash that the first readers in 1925 could not yet see but that every reader since has known was coming: these are the forces the novel converts into feeling. Miss the decade and you miss why the book feels at once so bright and so doomed.
 
-![The Roaring Twenties context for The Great Gatsby explained, the 1920s boom and its shadow - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Roaring Twenties context for The Great Gatsby explained, the 1920s boom and its shadow - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 This is the frame that changes the reading. A student who treats the 1920s as a carefree party gets a novel about wasted money. A student who understands the decade as a boom balanced on an edge gets a novel about a whole civilization mistaking borrowed prosperity for arrival. The difference is the difference between a book report and an argument. What follows lays out the era accurately, points to the exact passages it illuminates, names the myths to avoid, and shows how to turn historical context into essay evidence rather than decoration.
 

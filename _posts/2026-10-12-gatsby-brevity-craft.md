@@ -6,15 +6,15 @@ date: 2026-10-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Brevity and Compression", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "How The Great Gatsby achieves its brevity: the compression, omission, and lyrical economy that let a short novel carry an epic weight, explained in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-10-12
+lang: en
 ---
-
 Most readers finish The Great Gatsby in an afternoon and then spend the rest of their lives arguing about it. That imbalance, a book you can read between lunch and dinner that generations of critics cannot exhaust, is the single most instructive fact about Fitzgerald's craft. Understanding how The Great Gatsby achieves its brevity means understanding the whole engine of the novel, because nearly every technique Fitzgerald uses, from his symbols to his silences, pulls in the same direction: toward saying the maximum in the fewest possible pages. This capstone to the craft block gathers those techniques into one argument. The novel runs to roughly fifty thousand words, shorter than most of what sits beside it on the shelf of great American fiction, and yet it holds an epic. That is not an accident of length. It is a designed compression, and it is the supreme achievement of Fitzgerald literary techniques.
 
-![The Great Gatsby brevity and craft](/assets/images/blog/blog-01.webp)
+![The Great Gatsby brevity and craft](/assets/images/blog/blog-91.webp)
 
 ## What Brevity Actually Means in The Great Gatsby
 

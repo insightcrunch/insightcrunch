@@ -4,18 +4,18 @@ title: "Tripartite Pact: September 1940 Axis Alliance"
 page_title: "Tripartite Pact: Germany, Italy, and Japan's September 27 1940 Decision to Formalize an Axis That Would Never Actually Coordinate"
 date: 2006-08-10
 last_updated: 2006-08-10
-author: "Insight Crunch Team"
+author: "rachel-foster"
 categories: ["Leisure"]
 tags: ["joachim-von-ribbentrop", "decision-reconstruction", "european-theater", "1940", "tripartite-pact", "germany"]
 image: /assets/images/blog/blog-06.webp
 excerpt: "Germany, Italy, and Japan signed a mutual-aid pact in Berlin in September 1940. They never coordinated a single major operation. It was theater, not alliance."
 slug: "tripartite-pact-september-1940-axis-alliance"
 reading_time: "56 min read"
+lang: en
 ---
-
 At 1:00 in the afternoon on September 27 1940, in the Reich Chancellery in Berlin, three men signed a document that promised to bind their nations together for a decade. Joachim von Ribbentrop signed for Germany, Galeazzo Ciano for Italy, and the career diplomat Saburo Kurusu for Japan. The Tripartite Pact ran to six short articles. It divided the planet into spheres, recognized each signatory's leadership over a region, and committed all three to come to one another's aid if any of them were attacked by a power not yet in the war. Hitler watched from an adjoining room. The newsreel cameras rolled. Within hours the pact was being described across three capitals as the diplomatic foundation of a new world order.
 
-![Ribbentrop, Ciano, and Kurusu signing the Tripartite Pact in the Reich Chancellery, Berlin, September 27 1940](/assets/images/blog/blog-06.webp)
+![Ribbentrop, Ciano, and Kurusu signing the Tripartite Pact in the Reich Chancellery, Berlin, September 27 1940](/assets/images/blog/blog-17.webp)
 
 <!--more-->
 

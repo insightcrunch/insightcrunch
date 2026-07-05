@@ -6,15 +6,15 @@ date: 2026-07-03
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Switzerland", "Algeria", "Round of 32", "Knockout Stage", "Match Analysis"]
 excerpt: "Switzerland vs Algeria result and analysis: Embolo and Ndoye send the Swiss past Algeria 2-0 and into the World Cup 2026 Round of 16 to face Colombia."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-07-03
+lang: en
 ---
-
 Switzerland won the Switzerland vs Algeria World Cup 2026 Round of 32 tie 2-0 at BC Place in Vancouver, and the single thing that explains it is that they never needed the ball to win the game. Algeria had more of it, moved it more, and looked the livelier side for the opening ten minutes. Then Switzerland scored against the run of play, settled into a low, patient shape, and hit the second on the counter forty-six seconds after half time. From that point the outcome was rarely in doubt. Breel Embolo finished the first, Dan Ndoye drilled the second, and the twenty-year-old Johan Manzambi supplied the spark for both phases of a night that carried the Swiss into the last sixteen for the first knockout victory their country has recorded since 1938.
 
-![Switzerland vs Algeria World Cup 2026 Round of 32 analysis](/assets/images/blog/blog-01.webp)
+![Switzerland vs Algeria World Cup 2026 Round of 32 analysis](/assets/images/blog/blog-57.webp)
 
 That framing matters because it is the spine of everything that follows. This was not a game Switzerland dominated in the conventional sense of controlling possession and territory. It was a game they controlled in the sense that counts more in single-elimination football: they decided when the decisive moments happened, they were clinical in those moments, and they gave a technically gifted opponent almost nothing clean in the areas where a goal is actually scored. Murat Yakin set his team up to concede the ball and win the transitions, and his side executed that plan with a maturity that had been missing from their own tournament only two weeks earlier. The result was comfortable on the scoreboard and comfortable in the watching, even though the raw possession count told a story that pointed the other way.
 

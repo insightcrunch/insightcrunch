@@ -4,18 +4,18 @@ title: "Crete Invasion: German Airborne May 1941"
 page_title: "Operation Merkur: Student's May 1941 Airborne Invasion of Crete and the Pyrrhic Victory That Ended German Strategic Airborne Operations"
 date: 2006-07-24
 last_updated: 2006-07-24
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["kurt-student", "decision-reconstruction", "mediterranean-theater", "1941", "crete-invasion", "germany"]
 image: /assets/images/blog/blog-09.webp
 excerpt: "Kurt Student launched history's largest airborne assault on Crete in May 1941. Freyberg held Ultra warnings. The costly win ended German paratroop drops."
 slug: "crete-invasion-german-airborne-may-1941"
 reading_time: 57
+lang: en
 ---
-
 On 25 April 1941 Adolf Hitler signed Führer Directive 28 and authorized the largest airborne operation the world had yet seen. General Kurt Student, the officer who had built the German parachute arm almost single-handedly and who had spent three years arguing that vertical envelopment could seize a defended island from the sky, would drop roughly twenty-two thousand men onto Crete. The paratroopers of the 7th Flieger Division and the mountain troops of the 5th Gebirgs Division would descend on three airfields and a harbour, secure the runways, and open the island to air-landed reinforcement. Eleven days later Crete was German, the British Mediterranean Fleet had been savaged, and the elite of Student's Fallschirmjäger lay dead in the olive groves below Maleme. Germany won, and Germany never attempted a major airborne assault again.
 
-![German paratroopers of the 7th Flieger Division descending by parachute over the airfield at Maleme, Crete, during Operation Merkur in May 1941](/assets/images/blog/blog-09.webp)
+![German paratroopers of the 7th Flieger Division descending by parachute over the airfield at Maleme, Crete, during Operation Merkur in May 1941](/assets/images/blog/blog-66.webp)
 
 <!--more-->
 

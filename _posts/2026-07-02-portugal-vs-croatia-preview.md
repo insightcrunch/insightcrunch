@@ -6,15 +6,15 @@ date: 2026-07-02
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Portugal", "Croatia", "Round of 32", "Match Preview"]
 excerpt: "Portugal vs Croatia World Cup 2026 Round of 32 preview: Ronaldo faces Modric in a veterans' knockout, with form, lineups, tactics and a full prediction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-07-02
+lang: en
 ---
-
 One question hangs over Toronto before Portugal vs Croatia in the World Cup 2026 Round of 32: which set of veterans still has one more knockout night left in them. This is the tie the bracket delivered when a proud, unfulfilled Portugal finished second in Group K and an experienced, stubborn Croatia finished second in Group L, and it pairs Cristiano Ronaldo against Luka Modric one more time on the biggest stage the sport offers. It is single elimination, so it is win or fly home, and everything either side has built across two decades narrows to ninety minutes and, if needed, thirty more.
 
-![Portugal vs Croatia World Cup 2026 Round of 32 preview](/assets/images/blog/blog-01.webp)
+![Portugal vs Croatia World Cup 2026 Round of 32 preview](/assets/images/blog/blog-89.webp)
 
 The framing of this preview is simple and it is the spine of everything that follows: this is a veterans' tempo test. Portugal have the deeper talent pool and the sharper attacking edge, but Croatia have the one commodity that decides tight knockout football more often than raw ability does, which is control of the middle third and the composure to slow a game down when the pace suits them. Whoever wins the argument over tempo, over whether this becomes a fast, transition-heavy Portuguese game or a slow, patient Croatian one, will most likely win the tie. That is the lens we will hold up to every phase of the analysis below.
 

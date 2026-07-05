@@ -4,18 +4,18 @@ title: "Lend-Lease Act: FDR's March 1941 Commitment"
 page_title: "Lend-Lease Act: FDR's December 1940 Through March 1941 Decision to Become the Arsenal of Democracy Without Formally Entering the War"
 date: 2006-07-30
 last_updated: 2006-07-30
-author: "Insight Crunch Team"
+author: "hannah-moore"
 categories: ["Leisure"]
 tags: ["franklin-roosevelt", "decision-reconstruction", "home-front", "1941", "lend-lease-act", "united-states"]
 image: /assets/images/blog/blog-08.webp
 excerpt: "Britain ran out of dollars by December 1940. FDR compared Lend-Lease to lending a neighbor a garden hose to fight a fire. The Senate passed it, 60-31."
 slug: "lend-lease-act-fdr-march-1941"
 reading_time: "70 min read"
+lang: en
 ---
-
 On December 7, 1940, one year to the day before the attack that would drag his country into open war, Winston Churchill sat down to compose the most consequential letter he would ever write to Franklin Roosevelt. It ran to roughly four thousand words, and its central admission was blunt in a way that Churchill's public rhetoric almost never allowed itself to be. Britain, the Prime Minister confessed, was running out of money. "The moment approaches," he wrote, "when we shall no longer be able to pay cash for shipping and other supplies." The empire that had declared it would fight on the beaches was, fifteen months into the war, financially cornered. What Roosevelt chose to do with that letter over the following ninety-four days produced the Lend-Lease Act, and Lend-Lease in turn reshaped the strategic geometry of the Second World War before a single American soldier fired a shot in Europe.
 
-![President Franklin Roosevelt signing the Lend-Lease Act into law on March 11, 1941, committing the United States as the Arsenal of Democracy](/assets/images/blog/blog-08.webp)
+![President Franklin Roosevelt signing the Lend-Lease Act into law on March 11, 1941, committing the United States as the Arsenal of Democracy](/assets/images/blog/blog-70.webp)
 
 This is a decision reconstruction, and its claim is specific: the Lend-Lease decision was not a single act of executive will but a sustained committee process, spread across the Treasury, the War and Navy Departments, the White House staff, and two chambers of Congress, and it was precisely that distributed character that made the result durable rather than fragile. Roosevelt could have found narrower, faster expedients. He chose instead a mechanism that had to survive two months of hearings, a national propaganda war, and a recorded Senate vote. The mechanism that emerged from that ordeal was stronger for having been contested, and the contrast with the way the Axis coordinated its own war effort could hardly be sharper.
 

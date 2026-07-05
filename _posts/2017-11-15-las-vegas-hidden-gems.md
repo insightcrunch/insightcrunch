@@ -6,17 +6,17 @@ date: 2017-11-15
 categories: ["Travel"]
 tags: ["USA Travel", "Las Vegas", "City Guides", "Budget Travel", "Outdoors"]
 excerpt: "Las Vegas beyond the Strip means downtown and Fremont Street, the Arts District, the local hangouts, and the free spectacles the resorts give away nightly."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-11-15
+lang: en
 ---
-
 Almost everyone who books a first trip pictures the same mile and a half of resorts, and almost everyone spends their whole visit inside it. That is where the crowds are, shoulder to shoulder on the pedestrian bridges at Bellagio and Flamingo, three deep at the casino bars, packed onto the escalators that lift you from one air-conditioned lobby to the next. The interesting truth about Las Vegas beyond the Strip is that the moment you step a few blocks off the Boulevard, or ride fifteen minutes north into downtown, the density drops away and a different, older, more human city appears. The people who live here rarely spend a free evening on the Strip. They are downtown at a Fremont East bar, browsing a gallery in the Arts District, or watching the sun drop behind the mountains from a neighborhood patio, and they know the Strip's best trick is that some of its most memorable sights cost nothing at all.
 
 This guide is about that second city and about the free half of the first one. It maps the downtown core and the Fremont Street Experience, the 18b Arts District and its galleries and murals, the Neon Museum where the old signs go to be remembered, Container Park and the local nightlife that does not involve a velvet rope, and the neighborhood restaurants where a table does not require a reservation made a month out. It also does the thing the casino guides skip: it names the free spectacles the resorts hand out for nothing, the fountains and the conservatory and the themed interiors you can walk for hours without opening your wallet. The aim is concrete enough that you could plan an off-Strip afternoon before you finish reading, and honest enough to tell you what it costs to get there and what the desert will do to you on the way.
 
-![Downtown Las Vegas and the Fremont Street canopy glowing after dark, away from the Strip](/assets/images/blog/blog-01.webp)
+![Downtown Las Vegas and the Fremont Street canopy glowing after dark, away from the Strip](/assets/images/blog/blog-116.webp)
 
 ## The off-Strip-and-Fremont escape: reframing what the city is
 

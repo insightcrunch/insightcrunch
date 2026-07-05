@@ -6,15 +6,15 @@ date: 2017-12-15
 categories: ["Travel"]
 tags: ["USA Travel", "Las Vegas", "Family Travel", "City Guides", "Itineraries"]
 excerpt: "Las Vegas with kids works if you know the real kid pockets and plan around the heat, the walking, and the firm rule that children cannot linger in casinos."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-12-15
+lang: en
 ---
-
 Doing Las Vegas with kids is neither the disaster some parents fear nor the theme park the marketing implies, and the trip works only once you accept what the city actually is. Vegas is built for adults. The gambling, the drinking, the late nights, and the loud, sexualized advertising are the baseline, not an occasional edge. What most family guides miss is that a real children's city sits inside that adult one, in specific, findable pockets: an observation wheel, an indoor amusement park, a walk-through aquarium, resort pools with lazy rivers, and a short list of shows that welcome young audiences. The parents who have a good trip are the ones who plan around the adult city to reach those pockets, rather than pretending the adult city is not there.
 
-![Las Vegas with kids, an honest family guide to activities, shows, and pools - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Las Vegas with kids, an honest family guide to activities, shows, and pools - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 Call it the adult-city-with-kid-pockets rule, and let it govern every decision on this trip. The Strip is an adult environment with genuine children's attractions embedded in it, and the single firm limit that shapes your days is that minors cannot stop or linger in the casino gaming areas that sit between you and almost everything else. Hold those two facts together and Vegas becomes a legitimate, sometimes excellent family destination for the right ages and the right length of stay. Ignore either one and you get the trip that fuels the "never bring kids to Vegas" warnings: overheated, overwalked, and stuck watching the parent-child equivalent of a slot machine you are not allowed to touch.
 

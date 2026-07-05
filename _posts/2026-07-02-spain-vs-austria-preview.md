@@ -6,15 +6,15 @@ date: 2026-07-02
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Spain", "Austria", "Round of 32", "Match Preview"]
 excerpt: "Spain vs Austria in the World Cup 2026 Round of 32: the reigning European champions face a battling Austria in a single-elimination Los Angeles knockout."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-07-02
+lang: en
 ---
-
 Spain vs Austria is the World Cup 2026 Round of 32 tie that asks a very old football question in a very modern setting: what happens when a team built to keep the ball meets a team built to hunt it. Spain arrive in Los Angeles as the reigning European champions and one of the three sides the bookmakers still rank above the rest, a possession machine that conceded nothing across a group stage it won without ever quite catching fire. Austria arrive as survivors, a Ralf Rangnick pressing side that reached this single-elimination round by the width of a stoppage-time header and now has one afternoon to turn energy into an upset. Everything about this fixture lives in the tension between those two identities, and that is what makes it the most instructive first-round knockout on the schedule.
 
-![Spain vs Austria World Cup 2026 Round of 32 preview](/assets/images/blog/blog-01.webp)
+![Spain vs Austria World Cup 2026 Round of 32 preview](/assets/images/blog/blog-90.webp)
 
 The stakes could not be simpler. This is win or go home. There is no second leg, no away-goals cushion, no group table to fall back on. Ninety minutes, extra time if it is level, penalties if it stays level, and then one side flies on to the Round of 16 while the other flies home. For Spain, this is the point in the tournament where the polite applause for a tidy group stage stops mattering and the real examination begins. For Austria, it is a free hit against a superpower, the kind of afternoon a smaller footballing nation circles the moment the bracket is drawn. The question that hangs over the whole thing is whether Spain's class is simply too much, or whether the very thing that makes Rangnick's Austria dangerous can drag the favorites into the sort of scrappy, transitional game where seeds fall.
 

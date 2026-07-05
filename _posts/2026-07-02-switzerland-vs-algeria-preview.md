@@ -6,9 +6,12 @@ excerpt: "Switzerland vs Algeria Round of 32 preview: the unbeaten Swiss meet a 
 image: /assets/images/blog/blog-01.webp
 reading_time: 60
 tags: [world-cup-2026, round-of-32, switzerland, algeria, knockout]
+author: "insight-crunch-team"
+lang: en
 ---
-
 Switzerland vs Algeria is the Round of 32 tie that fuses cold Swiss efficiency with the raw, unpredictable belief of a North African side that refused to go quietly. When these two nations walk out at BC Place in Vancouver, the group stage will already be a closed book, and the maths that governed six weeks of qualification will collapse into a single, brutal truth. One team advances to the Round of 16. The other flies home. There is no draw to fall back on, no second leg to repair a bad night, no table to hide inside. This is knockout football at its most concentrated, and both sides arrive knowing it.
+
+![Switzerland vs Algeria: World Cup 2026 Round of 32 Preview - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 Switzerland come into this one as the higher seed and, on paper, the favourites. Murat Yakin steered them through Group B without a defeat, a run that included a statement win over co-hosts Canada to claim top spot on home North American soil for the round. Algeria arrive by a very different route, scrambling into the last thirty-two as one of the eight best third-placed teams after a group campaign that swung from a chastening opening loss to a stoppage-time rescue act that still has people talking. On momentum and drama, there is little to separate them. On pedigree and ranking, the Swiss hold the edge. On the touchline, though, sits a storyline that neither team can ignore, because the man plotting Algeria's route past Switzerland spent seven years building the very team he now wants to eliminate.
 

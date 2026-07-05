@@ -5,16 +5,16 @@ slug: jazz-age-great-gatsby
 date: 2026-10-19
 last_updated: 2026-10-19
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "diana-patel"
 image: /assets/images/blog/blog-01.webp
 reading_time: 47
 excerpt: "The Jazz Age and The Great Gatsby are almost the same subject: Fitzgerald named the era of music, money, and abandon, then wrote its sharpest portrait."
 tags: ["The Great Gatsby", "The Jazz Age", "F. Scott Fitzgerald", "Context", "American Literature"]
+lang: en
 ---
-
 Most readers meet the phrase before they meet the decade. A teacher says the words, a film trailer flashes them across a screen of falling confetti, and the label arrives already glamorous: flappers, hip flasks, a band playing on into the dark. The trouble is that the glamour hides how much work the phrase is doing. When you set the Jazz Age and The Great Gatsby beside each other, you are not lining up a book against its wallpaper. You are lining up a book against the very thing it is about. Fitzgerald did not borrow a ready made era to decorate his plot. He helped name that era, and then he wrote the portrait that fixed it in the American imagination. Reading the novel without the age is possible. Reading it well is not.
 
-![The Jazz Age and The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The Jazz Age and The Great Gatsby](/assets/images/blog/blog-10.webp)
 
 This is the difference between context that sits behind a story and context that runs through it like a current. The 1920s did not simply happen to be the years Fitzgerald was writing in. The decade's music, its new fortunes, its loosened rules, and its restless appetite for pleasure are the material the book is made from, the pressures that push every character toward the choices that ruin them. Understand the age and you understand why Gatsby throws the parties he throws, why Daisy sounds the way she sounds, why Tom clings so hard to what he already has, and why Nick comes east hungry and goes home sick of it. This article treats the era as the novel's subject rather than its scenery, and gives you a way to see the Jazz Age in the text, sentence by sentence, so you can use it in an essay as analysis and not as padding.
 

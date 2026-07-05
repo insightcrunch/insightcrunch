@@ -6,15 +6,15 @@ date: 2017-09-01
 categories: ["Travel"]
 tags: ["USA Travel", "New York City", "Couples Travel", "City Guides", "Itineraries", "Where to Stay"]
 excerpt: "Plan a romantic New York City weekend that pairs the big skyline moments with the intimate West Village, its rooftop bars, jazz, and where to stay for two."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2017-09-01
+lang: en
 ---
-
 The question that decides whether a romantic New York City weekend lands or falls flat is not which famous view you photograph. It is whether you balance two very different sides of the city and give each one its own evening. The first side is the one everybody pictures: the skyline from an observation deck, the bridge at golden hour, the lights coming on across the river. The second side is quieter and easy to miss, a tangle of small West Village streets where the noise drops, the bars hold a dozen people, and a jazz set runs late. Couples who plan only the first side leave with a beautiful set of pictures and a strangely impersonal trip. Couples who find the second side leave with a weekend that felt like it belonged to the two of them.
 
-![A romantic New York City weekend for couples](/assets/images/blog/blog-01.webp)
+![A romantic New York City weekend for couples](/assets/images/blog/blog-14.webp)
 
 This guide is built around that balance and around a specific traveler: two people with roughly two days, wanting a getaway that goes past the obvious dinner-and-deck night out. It walks the skyline moments that earn their reputation, then opens up the intimate side that the general city guides skip, because that contrast is what makes the place feel romantic rather than simply impressive. It sequences a full weekend arc from a Friday arrival to a slow Sunday brunch, gives you a findable table of the moments and their timing, and stays honest about the mistakes that flatten a couples trip. Where a detail changes often, like a price or a set of hours, it stays durable and tells you to confirm before you book. What it never does is treat New York romance as a single expensive reservation. The city has far more to offer two people than one deck and one dinner, and the plan below is about reaching it.
 

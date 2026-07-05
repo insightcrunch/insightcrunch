@@ -3,7 +3,7 @@ layout: post
 title: "Mussolini Invades Greece: October 1940"
 page_title: "Mussolini's Greek Catastrophe: The October 28 1940 Invasion Decision and the Axis Disaster That Forced German Balkan Rescue"
 date: 2006-08-04
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2006-08-04
 categories: ["Leisure"]
 tags: ["benito-mussolini", "decision-reconstruction", "mediterranean-theater", "1940", "invasion-of-greece", "italy"]
@@ -11,13 +11,13 @@ image: /assets/images/blog/blog-07.webp
 excerpt: "In October 1940 Mussolini invaded Greece over his own generals' objections and without warning Hitler. The rout forced a German rescue in the Balkans."
 reading_time: 57
 slug: "mussolini-invades-greece-october-1940"
+lang: en
 ---
-
 At about half past three on the morning of October 28, 1940, the Italian minister in Athens, Emanuele Grazzi, woke the Greek Prime Minister, Ioannis Metaxas, at his villa in Kifissia to hand him an ultimatum. The document demanded that Greece admit Italian troops to occupy unspecified "strategic points" on Greek soil, and it gave Athens three hours to comply. Metaxas, a small, bespectacled soldier-politician who had trained in the German staff college and who ran Greece as an authoritarian regime that had modeled some of its trappings on fascism, read the paper and answered in French, the diplomatic language of the era. His reply, later compressed by Greek memory into the single defiant syllable "Oxi," meaning "No," committed his country to a war it had spent a year trying to avoid. Italian artillery opened fire across the Albanian frontier at 5:30 that same morning, before the ultimatum's own deadline had expired, which told the Greeks everything they needed to know about how seriously Rome had ever intended negotiation.
 
 <!--more-->
 
-![Italian troops advancing from Albania into the Pindus mountains during Mussolini's October 1940 invasion of Greece](/assets/images/blog/blog-07.webp)
+![Italian troops advancing from Albania into the Pindus mountains during Mussolini's October 1940 invasion of Greece](/assets/images/blog/blog-64.webp)
 
 This article reconstructs the decision behind that ultimatum: how Benito Mussolini came to launch an invasion of Greece that his own senior soldiers opposed, that he concealed from his principal ally, and that within three weeks had collapsed into among the most humiliating military reverses any great power suffered in the war. The argument it defends is that the Greek invasion is the single cleanest case study in the entire conflict of what happens when a coalition has no mechanism to stop one partner from acting catastrophically on his own authority. Mussolini overrode his general staff, bypassed his ally, and produced a disaster that Germany then had to repair at a cost measured not only in divisions diverted to the Balkans but in the timetable of the largest land invasion in history. The choice belongs to the house thesis of this series at maximum intensity, and it does so because the alternative was structurally unavailable to the Axis: there existed no committee, no combined staff, no coordinating body that could have told Mussolini no and made it stick. The Allied coalition would build exactly such machinery. The Axis never did, and Greece is where the absence first cost something enormous.
 

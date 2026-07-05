@@ -6,15 +6,15 @@ date: 2026-09-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The camera eye and cinematic technique in The Great Gatsby: how Fitzgerald frames, cuts, and holds close-ups so the prose plays like film footage before you."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-09-21
+lang: en
 ---
-
 Read the third chapter of Fitzgerald's novel aloud and something odd happens to the eye. You do not so much follow a report of a party as watch one arrive. The lights come up, the bar fills, the orchestra begins, faces swim into view and dissolve out of it, and the whole sequence moves the way footage moves. This is the camera eye and cinematic technique at work, a set of visual habits in the writing that frame, cut, and hold on their subjects the way a film does, and once a reader notices the pattern it becomes hard to unsee. The prose does not describe the party so much as project it.
 
-![The Camera Eye and Cinematic Technique](/assets/images/blog/blog-01.webp)
+![The Camera Eye and Cinematic Technique](/assets/images/blog/blog-19.webp)
 
 The claim this article defends is simple to state and worth arguing with care. Fitzgerald writes with a camera eye. He frames his scenes like shots, he cuts between them with the confidence of an editor, he lingers in close-up on the single telling object, and he runs the crowd sequences as montage. The result is a book that films itself on the page, which is why it seems to beg for adaptation and then defeats every adaptation that tries. The visual work is already done. A movie can only redo what the writing has already accomplished, and it can never reproduce the one instrument doing the filming, which is the mind of the man holding the camera.
 

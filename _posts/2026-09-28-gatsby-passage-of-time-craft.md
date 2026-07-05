@@ -8,12 +8,12 @@ tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Cri
 image: /assets/images/blog/blog-01.webp
 excerpt: "How Fitzgerald handles the passage of time in The Great Gatsby is a study in compression: one summer carries five buried years and a whole vanished age."
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
+lang: en
 ---
-
 How Fitzgerald handles the passage of time is the quiet machinery behind one of the novel's strangest effects: a short book that somehow seems to carry decades. Ask a student what happens in The Great Gatsby and the answer arrives as a chain of events across a season. Ask instead how the book feels in the hand, and something stranger surfaces. A reader closes it believing they have watched a whole life unfold, and then realizes with a small shock that the entire action fits inside a few sweltering months. That gap between the small span on the page and the large stretch of experience the book delivers is not an accident of memory. It is engineering, the machinery that lets a novella hold the weight of an epic, and once you can see it you cannot unsee it.
 
-![The passage of time in The Great Gatsby](/assets/images/blog/blog-01.webp)
+![The passage of time in The Great Gatsby](/assets/images/blog/blog-70.webp)
 
 This article is about the macro handling of time, the long-range architecture that governs how the years and the seasons sit inside the book. It is a different question from the tempo of any single scene and a different question from the order in which events are revealed. Those belong to their own studies, and this piece will draw the borders carefully so the distinctions stay clean. The claim here is narrower and larger at once: that Fitzgerald arranges the long reach of time so that a single summer is made to carry a lifetime and an age, and that the two chief tools for the effect are compression and seasonal resonance, the small span built to hold the large.
 

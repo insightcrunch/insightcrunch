@@ -4,20 +4,20 @@ title: "Hess Flight: May 1941 Scotland Mission"
 page_title: "Rudolf Hess's May 10 1941 Flight to Scotland: The Deputy Führer's Unauthorized Peace Mission Six Weeks Before Barbarossa"
 date: 2006-07-19
 last_updated: 2006-07-19
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["rudolf-hess", "decision-reconstruction", "european-theater", "1941", "hess-flight", "germany"]
 image: /assets/images/blog/blog-10.webp
 excerpt: "On May 10 1941 Deputy Führer Rudolf Hess flew a Messerschmitt solo to Scotland seeking British peace. Hitler branded him insane; Britain jailed him for life."
 slug: "hess-flight-may-1941-scotland"
 reading_time: 57
+lang: en
 ---
-
 At roughly six in the evening on May 10 1941, the third-ranked figure in the Nazi Party climbed alone into the cockpit of a twin-engine Messerschmitt fighter at the Augsburg airfield, lifted off, and pointed the aircraft northwest toward Scotland. He carried no authorization from Adolf Hitler, no accreditation from the German Foreign Ministry, and no realistic plan for what would happen if he landed. Rudolf Hess, Deputy Führer of the National Socialist movement since 1933, intended to negotiate peace between Germany and Britain by presenting himself, unannounced, at the country estate of a Scottish duke he had never met. Five hours later he bailed out over a field near Eaglesham, south of Glasgow, broke his ankle on landing, and was arrested by a farmhand with a pitchfork.
 
 The Hess flight is usually filed under the war's curiosities, and it is genuinely strange. This reconstruction treats it instead as diagnostic evidence. The decision to fly, examined at the level of who authorized it, who was consulted, and what institutional channel it used, exposes the internal machinery of the Nazi command system more clearly than a dozen conventional battle narratives. The argument advanced here is that Hess's flight was neither a coded Hitler initiative nor an act of clinical madness, but the predictable output of a regime that had abolished the deliberative structures through which a senior official might otherwise have proposed a diplomatic opening. The absence of those structures did not eliminate the impulse toward negotiation; it merely guaranteed that when the impulse surfaced, it would surface as freelance individual action, executed badly, and disowned within seventy-two hours.
 
-![Rudolf Hess bails out over Scotland on May 10 1941 after flying a modified Messerschmitt fighter alone from Augsburg to seek British peace negotiations](/assets/images/blog/blog-10.webp)
+![Rudolf Hess bails out over Scotland on May 10 1941 after flying a modified Messerschmitt fighter alone from Augsburg to seek British peace negotiations](/assets/images/blog/blog-74.webp)
 
 ## Who Rudolf Hess Was and Why His Position Made the Flight Possible
 

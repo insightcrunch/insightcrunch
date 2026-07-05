@@ -6,9 +6,12 @@ excerpt: "Spain vs Austria analysis: Mikel Oyarzabal's brace and a Pedro Porro h
 image: /assets/images/blog/blog-01.webp
 reading_time: 68
 tags: [World Cup 2026, Spain, Austria, Round of 32, Match Analysis]
+author: "aisha-rahman"
+lang: en
 ---
-
 There are nights when a tournament favorite stops promising and starts delivering, and for Spain the evening of July 2 in Los Angeles was exactly that kind of turn. After a group stage that had drawn plenty of polite applause and a fair amount of quiet doubt, Luis de la Fuente's side walked into the knockout rounds and produced the performance everyone had been waiting to see. Spain beat Austria 3-0 at Los Angeles Stadium, and the scoreline, comfortable as it reads, still undersells how thoroughly the European champions controlled the contest from first whistle to last. Mikel Oyarzabal scored twice, in the 36th minute and again in the 89th, and Pedro Porro headed home in the 66th to make the outcome safe long before the closing exchanges. It was, in the plainest terms, a one-sided evening, and Spain's quality was the reason.
+
+![Spain vs Austria: Oyarzabal Double Seals Last 16 Berth - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 This was Spain's first victory in a World Cup knockout match since the day they lifted the trophy in South Africa in 2010, a statistic that had followed the national team around like a shadow across three disappointing tournaments. Across those three World Cups Spain had lost knockout ties and, on one occasion, failed to survive the group stage at all. The weight of that history made the manner of this win feel like more than three points and a place in the next round. It felt like a statement, and both dugouts read it that way. Ralf Rangnick, the Austria coach, offered a verdict afterward that will be quoted for the rest of the tournament, suggesting his team had not merely faced the reigning European champions but possibly the next world champions as well.
 

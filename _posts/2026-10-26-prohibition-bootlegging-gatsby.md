@@ -6,13 +6,15 @@ date: 2026-10-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Prohibition", "F. Scott Fitzgerald", "Context", "American Literature"]
 excerpt: "Prohibition and bootlegging in Gatsby explain how a poor boy grew rich, turning a banned trade into the hidden engine that drives the novel's whole plot."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-10-26
+lang: en
 ---
-
 Read the summer of 1922 as pure romance and you will miss the machinery under the floorboards. The parties, the shirts, the mansion, the yellow car, and the man himself all rest on a single historical fact that most first readings treat as scenery. That fact is Prohibition. Understanding Prohibition and bootlegging in Gatsby is not a decorative footnote for the curious; it is the difference between reading a love story with a rich backdrop and reading a book about how a banned trade manufactured a fortune, a persona, and a doomed dream in the space of a few years. The law did not sit behind the plot. The law made the plot possible.
+
+![Prohibition and Bootlegging in Gatsby - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 This article treats the ban on alcohol as the economic engine of the novel rather than its wallpaper. Fitzgerald never writes a documentary chapter on the Eighteenth Amendment, and he does not need to, because his first readers in 1925 lived inside the ban and understood at a glance what a "drugstore" that sold liquor over the counter meant. A century later, that shared knowledge has faded, and the gap has flattened Gatsby into a man who simply "got rich somehow." Recover the historical ground and the somehow snaps into focus. The wealth that lets Gatsby stage his summer campaign for Daisy is the direct product of a national experiment in forbidding what millions of people still wanted to buy.
 

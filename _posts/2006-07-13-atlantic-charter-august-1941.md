@@ -4,16 +4,16 @@ title: "Atlantic Charter: FDR-Churchill August 1941"
 page_title: "Atlantic Charter: FDR and Churchill's August 9 Through August 12 1941 Meeting at Placentia Bay and the Eight Principles That Shaped Postwar Order"
 date: 2006-07-13
 last_updated: 2006-07-13
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["franklin-roosevelt", "decision-reconstruction", "atlantic-theater", "1941", "atlantic-charter", "united-states"]
 image: /assets/images/blog/blog-11.webp
 excerpt: "Roosevelt and Churchill met in secret off Newfoundland in August 1941, and the eight-point charter they issued named war aims America had not yet joined."
 slug: "atlantic-charter-august-1941"
 reading_time: 57
+lang: en
 ---
-
-![Warships anchored in Placentia Bay, Newfoundland, August 1941, where Roosevelt and Churchill met to draft the Atlantic Charter](/assets/images/blog/blog-11.webp)
+![Warships anchored in Placentia Bay, Newfoundland, August 1941, where Roosevelt and Churchill met to draft the Atlantic Charter](/assets/images/blog/blog-44.webp)
 
 On August 12, 1941, two men who between them commanded the war-making resources of the British Empire and the neutral United States agreed on a single page of principles for a peace that did not yet exist, in a war that one of their countries had not yet entered. Franklin Roosevelt and Winston Churchill had spent four days anchored in Placentia Bay off the coast of Newfoundland, aboard the cruiser USS Augusta and the battleship HMS Prince of Wales, and the document they released two days later contained no army, no fleet, no treaty obligation, and no promise that America would fight. It contained eight numbered points about the shape of the world after Nazism. That single page would outlast the war, the alliance that produced it, and both of the men who wrote it.
 

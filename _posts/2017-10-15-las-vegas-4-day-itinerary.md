@@ -6,15 +6,15 @@ date: 2017-10-15
 categories: ["Travel"]
 tags: ["USA Travel", "Las Vegas", "Itineraries", "City Guides", "Couples Travel"]
 excerpt: "This 4-day Las Vegas itinerary paces the Strip one section at a time, keeps a night for downtown Fremont, and shows first-timers what to skip and what to see."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2017-10-15
+lang: en
 ---
-
 The mistake almost every first-timer makes with a 4-day Las Vegas itinerary is treating the Strip like a checklist of famous buildings and trying to bounce between them by name. You read that you have to see the Bellagio fountains, the volcano, the canals at The Venetian, the pool at one resort, and a show at another, so you set out to hit them in the order they came to mind. Then you discover that the Strip is far larger than it looks in photos, that walking from one marquee resort to another can eat forty-five minutes and leave you soaked in desert heat, and that a taxi or rideshare between two casinos a mile apart can cost more and take longer than you expected because of the traffic and the long resort driveways. By the second afternoon you are exhausted, your feet hurt, and you have seen a lot of casino floors without feeling like you actually experienced the city.
 
-![A 4-day Las Vegas itinerary that paces the Strip by section with a downtown Fremont Street night - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A 4-day Las Vegas itinerary that paces the Strip by section with a downtown Fremont Street night - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 This plan fixes that by doing one thing differently: it groups each day by geography rather than by attraction. You work through the Strip one section at a time, spend a night away from the Boulevard in downtown at the Fremont Street Experience, and keep a fourth day loose for a pool-and-show day or a desert escape. The result is a first-timer trip where you are rarely backtracking, you get midday breaks built into the pace before the heat or the crowds wear you down, and you leave having seen the parts of Las Vegas worth a first visit without the death march. If you want the full planning picture of the city beyond this sequence, the [complete Las Vegas travel guide](/2017/10/01/las-vegas-complete-travel-guide/) is the hub that this itinerary sits inside; here we focus purely on how to order four days on the ground.
 

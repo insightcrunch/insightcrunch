@@ -6,15 +6,15 @@ date: 2026-07-03
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Portugal", "Croatia", "Round of 32", "Match Analysis"]
 excerpt: "Portugal vs Croatia result and analysis: a Ronaldo penalty and a Goncalo Ramos stoppage-time header beat Croatia 2-1 in the World Cup 2026 Round of 32."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-07-03
+lang: en
 ---
-
 Portugal vs Croatia at World Cup 2026 needed two moments of composure and one contested pixel of technology to separate the sides in the Round of 32, and Portugal found all three. Portugal beat Croatia 2-1 in Toronto on a night that swung from grinding stalemate to open drama and finally to the cruelest of endings for a Croatia side that thought it had forced extra time deep into stoppage. A Cristiano Ronaldo penalty cancelled out Ivan Perisic's second-half opener, and substitute Goncalo Ramos rose in the fourth minute of added time to head Portugal in front, before Josko Gvardiol's would-be equalizer was ruled out for an offside so fine it needed a sensor inside the ball to settle it. The result carries Portugal into the last 16 against Spain, and it ends a Croatia campaign, and perhaps a Croatia generation, with a decision the losing side will argue about for years.
 
-![Portugal vs Croatia World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Portugal vs Croatia World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The single thing that explains this match is margins. Not control, not superiority across ninety minutes, not the weight of Portugal's squad depth against Croatia's aging spine. The tie was decided by the smallest available increments: a penalty awarded after a video review for a wrestle at a corner, a header that beat everyone to a cross in the last seconds of normal time, and a disallowed goal that turned on whether one forward's head brushed a moving ball. Portugal will not care how narrow the passage was. Croatia will care about nothing else. This analysis walks through how the night unfolded, why Portugal advanced and Croatia did not, who decided it, and what the win sets up. For the pre-match view of how these squads matched up, our [Portugal vs Croatia preview](/2026/07/02/portugal-vs-croatia-preview/) laid out the case for a tight, low-margin contest, and that is exactly what arrived.
 

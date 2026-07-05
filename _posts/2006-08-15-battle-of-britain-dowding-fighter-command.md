@@ -3,7 +3,7 @@ layout: post
 title: "Battle of Britain: Dowding's Fighter Command"
 page_title: "Battle of Britain: Air Chief Marshal Hugh Dowding's Integrated Air Defense System and the July Through October 1940 Campaign"
 date: 2006-08-15
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["hugh-dowding", "decision-reconstruction", "european-theater", "1940", "battle-of-britain", "united-kingdom"]
 image: /assets/images/blog/blog-05.webp
@@ -11,11 +11,11 @@ excerpt: "Dowding built Britain's air defense before the war: radar, the Observe
 slug: "battle-of-britain-dowding-fighter-command"
 reading_time: "57 min read"
 last_updated: 2006-08-15
+lang: en
 ---
-
 The decisive choice that won the Battle of Britain was made four years before the battle began, at a desk in a country house at Stanmore, by a reticent air marshal whom his own service found difficult to like. When RAF Fighter Command came into existence on 14 July 1936, its first Air Officer Commanding-in-Chief, Air Chief Marshal Hugh Caswall Tremenheere Dowding, inherited neither a coherent air defense nor the political consensus to build one. What he built instead, across the four years that followed, was a machine for turning scattered fragments of information into intercepted bombers: radar stations along the coast, a volunteer Observer Corps inland, filter rooms that fused the two into a single moving picture, and a chain of operations rooms that translated that picture into squadrons climbing to the right place at the right height at the right minute. In the summer of 1940 the German air force flew into that machine and could not break it. The men who flew the fighters won the fighting. The man who arranged for them to be in the air over the right patch of Kent had already won the argument.
 
-![Air Chief Marshal Hugh Dowding's integrated air defense system directing RAF Fighter Command fighters against the Luftwaffe during the 1940 Battle of Britain](/assets/images/blog/blog-05.webp)
+![Air Chief Marshal Hugh Dowding's integrated air defense system directing RAF Fighter Command fighters against the Luftwaffe during the 1940 Battle of Britain](/assets/images/blog/blog-36.webp)
 
 <!--more-->
 
