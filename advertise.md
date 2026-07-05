@@ -60,7 +60,7 @@ Use the form below to begin.
 
 <div class="ic-contact" markdown="0">
 <h3>Get in Touch</h3>
-<p class="ic-sub">Tell me the placement and dates you have in mind, and I will confirm availability and fit.</p>
+<p class="ic-sub">Tell us the placement and dates you have in mind, and we will confirm availability and fit.</p>
 <form action="https://api.web3forms.com/submit" method="POST">
 <input type="hidden" name="access_key" value="9cb6841a-a3a8-47d1-9598-672b68ab314c">
 <input type="hidden" name="subject" value="New advertising enquiry from Insight Crunch">
