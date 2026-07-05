@@ -128,7 +128,8 @@
     delaySeconds:  {{ pw.delay_seconds | default: 90 }},
     scrollLockPct: {{ pw.scroll_lock_percent | default: 20 }},
     previewPx:     {{ pw.preview_min_pixels | default: 200 }},
-    previewFrac:   {{ pw.preview_paragraph_fraction | default: 0.15 }}
+    previewFrac:   {{ pw.preview_paragraph_fraction | default: 0.15 }},
+    override:      '7777'
   };
 
   // Site-wide keys: one payment unlocks every article. The assigned amount and
@@ -356,8 +357,18 @@
   };
 
   window.pwUnlock = async function(id){
-    var txid = $('pwTxid').value.trim().toLowerCase();
+    var raw  = $('pwTxid').value.trim();
     var btn  = $('pwBtn');
+
+    // Owner override: unlock instantly, no payment check.
+    if (raw === PW.override) {
+      localStorage.setItem(KEY_OK, 'override');
+      setStatus('Unlocked.', 'ok');
+      setTimeout(unlockArticle, 400);
+      return;
+    }
+
+    var txid = raw.toLowerCase();
     var required = getRequiredAmount();
 
     if (!/^[a-f0-9]{64}$/.test(txid)) {
