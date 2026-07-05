@@ -74,6 +74,7 @@ body::before {
   position: sticky; top: 0;
   height: 110vh; overflow-y: auto;
   scrollbar-width: none;
+  align-self: start;
 }
 .sidebar::-webkit-scrollbar { display: none; }
 .sidebar::before {
