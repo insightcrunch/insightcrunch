@@ -18,6 +18,14 @@ var SEARCH_INDEX = null;        // cached JSON index once fetched
 var SEARCH_INDEX_LOADING = false;
 var LAST_QUERY = '';
 
+/* Random archive feed: once the 30 latest are exhausted, the same button
+   injects 4 shuffled older posts per click, reusing the search index and
+   the simplified buildExtraCard() view. Shuffled ONCE per visit so batches
+   never repeat and never skip. */
+var RANDOM_QUEUE = null;        // shuffled pool (index entries minus the 30)
+var RANDOM_PTR = 0;             // how far into the shuffled pool we have gone
+var RANDOM_PENDING = false;     // a click arrived before the index finished loading
+
 /* Post-page redirect debounce: minimum characters + quiet time before
    navigating to /?q=... so we don't fire a redirect on the first keystroke
    or on a two-letter fragment the user is still typing out. */
@@ -44,16 +52,18 @@ function updateStatus() {
   var total = posts.length;
   var stat = document.getElementById('lmStatus');
   var btn  = document.getElementById('lmBtn');
-  if (stat) stat.textContent = 'Showing ' + shown + ' of ' + total + ' latest posts';
   if (btn) {
     if (shown >= total) {
-      btn.textContent = 'Browse all posts \u2192';
+      // All 30 latest are shown. Hand the button over to the random feed.
+      btn.textContent = 'More from the archive';
       btn.classList.add('done');
-      btn.dataset.browseMode = '1';
+      btn.dataset.browseMode = 'random';
+      if (stat) stat.textContent = 'Exploring the full archive';
     } else {
       btn.textContent = 'Load more posts';
       btn.classList.remove('done');
       btn.dataset.browseMode = '';
+      if (stat) stat.textContent = 'Showing ' + shown + ' of ' + total + ' latest posts';
     }
   }
   updateCount('Showing ' + shown + ' of ' + total);
@@ -61,8 +71,8 @@ function updateStatus() {
 
 function loadMore() {
   var btn = document.getElementById('lmBtn');
-  if (btn && btn.dataset.browseMode === '1') {
-    window.location.href = '/categories/';
+  if (btn && btn.dataset.browseMode === 'random') {
+    loadMoreRandom(btn);
     return;
   }
   btn.textContent = 'Loading\u2026';
@@ -119,9 +129,14 @@ function filterPosts(q) {
   var lmWrap = document.getElementById('lmWrap');
 
   if (!q.trim()) {
-    removeExtraCards();
+    removeExtraCards();          // also clears any random-injected cards
     var emptyState = document.getElementById('searchEmpty');
     if (emptyState) emptyState.remove();
+
+    // Reset the random feed so it can start fresh after the 30 again.
+    RANDOM_PTR = 0;
+    var lmBtnReset = document.getElementById('lmBtn');
+    if (lmBtnReset) { lmBtnReset.style.display = ''; lmBtnReset.classList.remove('loading'); }
 
     shown = 0;
     allPosts().forEach(function(p, i) {
@@ -168,6 +183,10 @@ function loadSearchIndex() {
       SEARCH_INDEX_LOADING = false;
       if (LAST_QUERY && LAST_QUERY.trim() && isHomePage()) {
         renderArchiveExtras(LAST_QUERY.toLowerCase(), LAST_QUERY);
+      }
+      if (RANDOM_PENDING) {
+        RANDOM_PENDING = false;
+        loadMoreRandom(document.getElementById('lmBtn'));
       }
     })
     .catch(function() {
@@ -253,6 +272,78 @@ function renderArchiveExtras(qLower, qDisplay) {
     while (frag.firstChild) postList.appendChild(frag.firstChild);
   }
   updateCount(totalMatches + ' result' + (totalMatches !== 1 ? 's' : '') + ' for \u201c' + qDisplay + '\u201d');
+}
+
+/* ── Random archive feed ─────────────────────────────────────────────
+   Reuses SEARCH_INDEX (every post) and buildExtraCard() (the simplified
+   title + excerpt card). The pool is shuffled ONCE per visit, so repeat
+   clicks walk forward through a fixed order: no repeats, no skips. */
+
+function buildRandomQueue() {
+  // Exclude the 30 already-rendered posts so nothing shows twice.
+  var renderedSlugs = {};
+  allPosts().forEach(function(p) { renderedSlugs[p.dataset.slug] = 1; });
+
+  var pool = [];
+  for (var i = 0; i < SEARCH_INDEX.length; i++) {
+    if (!renderedSlugs[SEARCH_INDEX[i].s]) pool.push(SEARCH_INDEX[i]);
+  }
+  // Fisher-Yates shuffle, once.
+  for (var j = pool.length - 1; j > 0; j--) {
+    var k = Math.floor(Math.random() * (j + 1));
+    var tmp = pool[j]; pool[j] = pool[k]; pool[k] = tmp;
+  }
+  RANDOM_QUEUE = pool;
+  RANDOM_PTR = 0;
+}
+
+function injectRandomBatch() {
+  var postList = document.getElementById('postList');
+  if (!postList) return;
+  var slice = RANDOM_QUEUE.slice(RANDOM_PTR, RANDOM_PTR + batch);
+  RANDOM_PTR += slice.length;
+  if (!slice.length) return;
+
+  var before = postList.querySelectorAll('.src-extra').length;
+  var frag = document.createElement('div');
+  frag.innerHTML = slice.map(buildExtraCard).join('');
+  while (frag.firstChild) postList.appendChild(frag.firstChild);
+
+  // Fade the newly appended cards in, matching load-more.
+  var all = postList.querySelectorAll('.src-extra');
+  for (var i = before; i < all.length; i++) all[i].classList.add('appearing');
+}
+
+function finishRandom(btn) {
+  var stat = document.getElementById('lmStatus');
+  if (stat) stat.textContent = 'You have reached the end of the archive';
+  if (btn) btn.style.display = 'none';
+}
+
+function loadMoreRandom(btn) {
+  if (!btn) return;
+
+  // Index not ready yet: mark the click as pending and fetch it now.
+  if (!SEARCH_INDEX) {
+    RANDOM_PENDING = true;
+    btn.textContent = 'Loading\u2026';
+    btn.classList.add('loading');
+    if (!SEARCH_INDEX_LOADING) loadSearchIndex();
+    return;
+  }
+
+  if (!RANDOM_QUEUE) buildRandomQueue();
+
+  if (RANDOM_PTR >= RANDOM_QUEUE.length) { finishRandom(btn); return; }
+
+  btn.textContent = 'Loading\u2026';
+  btn.classList.add('loading');
+  setTimeout(function() {
+    injectRandomBatch();
+    btn.classList.remove('loading');
+    if (RANDOM_PTR >= RANDOM_QUEUE.length) finishRandom(btn);
+    else btn.textContent = 'More from the archive';
+  }, 400);
 }
 
 function setSort(type, el) {

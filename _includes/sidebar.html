@@ -1,11 +1,64 @@
 <aside class="sidebar">
   <div class="sb-inner">
 
-    {% capture category_rows %}{% for category in site.categories %}{% assign cat_name = category[0] %}{% assign matching_category_pages = site.pages | where: 'category', cat_name %}{% if matching_category_pages.size > 0 %}{{ category[1] | size | prepend: '0000' | slice: -4, 4 }}|||{{ cat_name }}{% unless forloop.last %}@@@{% endunless %}{% endif %}{% endfor %}{% endcapture %}
-    {% assign sorted_category_rows = category_rows | replace: '@@@@@@', '@@@' | strip | split: '@@@' %}
-    {% assign sorted_category_rows = sorted_category_rows | sort | reverse %}
-    {% assign visible_topics_count = 0 %}
-    {% for row in sorted_category_rows %}{% if row != blank %}{% assign visible_topics_count = visible_topics_count | plus: 1 %}{% endif %}{% endfor %}
+    {%- comment %}
+      ─────────────────────────────────────────────────────────────
+      COLLECTIONS — edit this one line to curate what readers see.
+      Format per item:  Name ~ link ~ short note   (rows split by | )
+      Links default to home search deep-links so they work with zero
+      new pages and never expose the category structure. Swap the
+      link to a real series page whenever you build one.
+      ─────────────────────────────────────────────────────────────
+    {% endcomment -%}
+    {%- assign ic_collections = "The UPSC Companion~/?q=UPSC~Civil services, examined closely|Gaokao Notebook~/?q=Gaokao~China's exam, read in full|Reading Shakespeare~/?q=Shakespeare~The plays, one by one|The Feluda Files~/?q=Feluda~A Bengali detective canon|Forgotten Freedom Fighters~/?q=Freedom%20Fighter~Histories worth keeping" | split: "|" -%}
+
+    <style>
+      /* ── count-free sidebar additions (theme-matched) ── */
+      .sb-signal{font-family:'Lora',serif;font-style:italic;font-size:11.5px;
+        color:var(--amber-lt);opacity:.85;margin-top:2px}
+
+      .sb-random{display:flex;align-items:center;gap:7px;width:100%;
+        background:transparent;border:none;cursor:pointer;text-align:left;
+        color:rgba(255,255,255,.4);font-family:'Inter',sans-serif;font-size:11px;
+        letter-spacing:.3px;padding:8px 4px 0;transition:color .15s}
+      .sb-random:hover{color:var(--amber-lt)}
+      .sb-random svg{width:13px;height:13px;stroke:currentColor;fill:none;
+        stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
+
+      .sb-colls{margin:0 0 14px}
+      .coll{display:block;text-decoration:none;padding:7px 8px;border-radius:5px;
+        transition:background .15s}
+      .coll:hover{background:rgba(255,255,255,.05)}
+      .coll-name{font-family:'Lora',serif;font-size:13px;color:rgba(255,255,255,.82);
+        line-height:1.3;display:flex;align-items:baseline;gap:7px}
+      .coll-name::before{content:'\25C7';font-size:8px;color:var(--amber);flex:none}
+      .coll:hover .coll-name{color:var(--amber-lt)}
+      .coll-note{display:block;font-size:10.5px;color:rgba(255,255,255,.3);
+        margin:2px 0 0 15px;line-height:1.4}
+
+      .sb-pick{background:rgba(176,96,16,.08);border:1px solid rgba(176,96,16,.2);
+        border-radius:7px;padding:13px;margin-bottom:14px}
+      .pick-body{transition:opacity .45s ease}
+      .pick-body.fade{opacity:0}
+      .pick-title{font-family:'Lora',serif;font-size:14px;line-height:1.3;
+        color:rgba(255,255,255,.9);text-decoration:none;display:block;font-weight:500}
+      .pick-title:hover{color:var(--amber-lt)}
+      .pick-from{font-size:10px;color:var(--amber-lt);margin-top:7px;
+        letter-spacing:.4px;text-transform:uppercase}
+
+      .sb-foot{display:flex;gap:16px;padding-top:14px;
+        border-top:1px solid rgba(176,96,16,.15)}
+      .sb-foot a{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;
+        color:rgba(255,255,255,.28);text-decoration:none;transition:color .15s}
+      .sb-foot a:hover{color:var(--amber-lt)}
+
+      @media (prefers-reduced-motion:reduce){.pick-body{transition:none}}
+
+      /* Match the existing mobile behaviour: sidebar becomes logo + search only */
+      @media (max-width:760px){
+        .sb-signal,.sb-random,.sb-colls,.sb-pick,.sb-foot{display:none;}
+      }
+    </style>
 
     <div class="logo">
       <a href="{{ '/' | relative_url }}" class="logo-link"><div class="logo-name">Insight <em>Crunch</em></div></a>
@@ -15,39 +68,101 @@
 
     <div class="sb-search">
       <div class="search-wrap">
-        <input type="text" placeholder="Search posts…" id="searchInput" autocomplete="off" oninput="filterPosts(this.value)">
+        <input type="text" placeholder="Search the archive" id="searchInput" autocomplete="off" oninput="filterPosts(this.value)">
         <svg class="search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
       </div>
     </div>
 
+    <button type="button" class="sb-random" id="sbRandom">
+      <svg viewBox="0 0 24 24"><path d="M4 4h4l12 16h4"/><path d="M20 4h-4L4 20"/><path d="M17 3l3 1-1 3M17 21l3-1-1-3"/></svg>
+      Random read
+    </button>
+
     <div class="sb-card">
       <div class="sb-name">Insight Crunch</div>
       <div class="sb-bio">Independent writing on technology, society, and the texture of everyday life.</div>
-      <div class="sb-stats">
-        <div class="sb-st">
-          <span class="sb-st-n">{{ site.posts | size }}</span>
-          <span class="sb-st-l">posts</span>
-        </div>
-        <div class="sb-st">
-          <span class="sb-st-n">{{ visible_topics_count }}</span>
-          <span class="sb-st-l">topics</span>
-        </div>
+      <div class="sb-signal">A deep archive, still growing.</div>
+    </div>
+
+    <div class="sb-colls">
+      <div class="sb-lbl">Collections</div>
+      {%- for item in ic_collections -%}
+        {%- assign parts = item | split: "~" -%}
+        <a href="{{ parts[1] | strip }}" class="coll">
+          <span class="coll-name">{{ parts[0] | strip }}</span>
+          <span class="coll-note">{{ parts[2] | strip }}</span>
+        </a>
+      {%- endfor -%}
+    </div>
+
+    <div class="sb-pick">
+      <div class="sb-lbl">Editor's pick</div>
+      <div class="pick-body" id="sbPickBody">
+        <a href="#" class="pick-title" id="sbPickTitle">What a century-old exam still asks of us</a>
+        <div class="pick-from" id="sbPickFrom">The UPSC Companion</div>
       </div>
     </div>
 
-    <nav class="sb-nav">
-      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="on"{% endif %}>◈ All posts</a>
-      {% for row in sorted_category_rows %}
-        {% if row != blank %}
-          {% assign row_parts = row | split: '|||' %}
-          {% assign cat_count = row_parts[0] | plus: 0 %}
-          {% assign cat_name = row_parts[1] %}
-          {% assign matching_category_page = site.pages | where: 'category', cat_name | first %}
-          <a href="{{ matching_category_page.url | relative_url }}"{% if page.category == cat_name %} class="on"{% endif %}>◇ {{ cat_name }} <span class="sb-cat-count">({{ cat_count }})</span></a>
-        {% endif %}
-      {% endfor %}
-      <a href="{{ '/about/' | relative_url }}"{% if page.url contains 'about' %} class="on"{% endif %}>◇ About</a>
-    </nav>
+    <div class="sb-foot">
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/feed.xml' | relative_url }}">Feed</a>
+    </div>
 
   </div>
+
+  <script>
+  (function(){
+    /* ── Editor's pick: rotates so the sidebar always feels fresh.
+          Edit this list to curate. Respects reduced-motion. ── */
+    var picks = [
+      {t:"What a century-old exam still asks of us", f:"The UPSC Companion", u:"/?q=UPSC"},
+      {t:"The gaokao essay that reshapes a life in three hours", f:"Gaokao Notebook", u:"/?q=Gaokao"},
+      {t:"Why Feluda never carries a gun", f:"The Feluda Files", u:"/?q=Feluda"},
+      {t:"Lady Macbeth and the arithmetic of ambition", f:"Reading Shakespeare", u:"/?q=Shakespeare"},
+      {t:"The freedom fighter the textbooks left out", f:"Forgotten Freedom Fighters", u:"/?q=Freedom%20Fighter"}
+    ];
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var i = 0;
+    var body  = document.getElementById('sbPickBody');
+    var title = document.getElementById('sbPickTitle');
+    var from  = document.getElementById('sbPickFrom');
+    function render(){
+      if(!title) return;
+      title.textContent = picks[i].t;
+      title.setAttribute('href', picks[i].u);
+      from.textContent = picks[i].f;
+    }
+    render();
+    if(body && !reduce){
+      setInterval(function(){
+        i = (i + 1) % picks.length;
+        body.classList.add('fade');
+        setTimeout(function(){ render(); body.classList.remove('fade'); }, 450);
+      }, 4200);
+    }
+
+    /* ── Random read: jump to a random post anywhere on the site.
+          Reuses /search-index.json (fetched once, then cached). ── */
+    var idx = null, loading = false;
+    var btn = document.getElementById('sbRandom');
+    function jump(){
+      if(!idx || !idx.length) return;
+      var pick = idx[Math.floor(Math.random() * idx.length)];
+      if(pick && pick.u) window.location.href = pick.u;
+    }
+    if(btn){
+      btn.addEventListener('click', function(){
+        if(idx){ jump(); return; }
+        if(loading) return;
+        loading = true;
+        var original = btn.innerHTML;
+        btn.style.opacity = '.6';
+        fetch('/search-index.json')
+          .then(function(r){ return r.ok ? r.json() : Promise.reject(); })
+          .then(function(data){ idx = data; loading = false; btn.style.opacity=''; jump(); })
+          .catch(function(){ loading = false; btn.style.opacity=''; btn.innerHTML = original; });
+      });
+    }
+  })();
+  </script>
 </aside>
