@@ -25,6 +25,30 @@
       "tag": "history"
     },
     {
+      "year": 1956,
+      "text": "🇸🇩 Sudan declared its independence.",
+      "country": "SD",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇨🇲 Cameroon gained its independence.",
+      "country": "CM",
+      "tag": "history"
+    },
+    {
+      "year": 1959,
+      "text": "🇨🇺 The Cuban Revolution triumphed.",
+      "country": "CU",
+      "tag": "history"
+    },
+    {
+      "year": 1804,
+      "text": "🇭🇹 Haiti became the first free Black republic.",
+      "country": "HT",
+      "tag": "history"
+    },
+    {
       "year": 1995,
       "text": "🌍 The World Trade Organization was established.",
       "country": "WORLD",
@@ -65,6 +89,12 @@
       "text": "🇺🇸 NASA's Spirit rover landed on Mars.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1948,
+      "text": "🇲🇲 Myanmar gained independence from Britain.",
+      "country": "MM",
+      "tag": "history"
     },
     {
       "year": 1643,
@@ -452,6 +482,12 @@
     },
     {
       "year": 1968,
+      "text": "🇳🇷 Nauru became an independent republic.",
+      "country": "NR",
+      "tag": "history"
+    },
+    {
+      "year": 1968,
       "text": "🌍 Nauru gained independence.",
       "country": "WORLD",
       "tag": "history"
@@ -511,6 +547,12 @@
       "text": "🇺🇸 Facebook was launched.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1948,
+      "text": "🇱🇰 Sri Lanka gained independence from Britain.",
+      "country": "LK",
+      "tag": "history"
     }
   ],
   "02-05": [
@@ -532,6 +574,12 @@
       "year": 1911,
       "text": "🇺🇸 US President Ronald Reagan was born.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1840,
+      "text": "🇳🇿 New Zealand marks the Treaty of Waitangi on its national day.",
+      "country": "NZ",
       "tag": "history"
     },
     {
@@ -608,6 +656,12 @@
       "year": 1929,
       "text": "🇻🇦 The Lateran Treaty established the Vatican City state.",
       "country": "VA",
+      "tag": "history"
+    },
+    {
+      "year": 1889,
+      "text": "🇯🇵 Japan marks National Foundation Day and its Meiji constitution.",
+      "country": "JP",
       "tag": "history"
     },
     {
@@ -725,6 +779,12 @@
       "text": "🇺🇸 The dwarf planet Pluto was discovered.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1965,
+      "text": "🇬🇲 The Gambia gained independence.",
+      "country": "GM",
+      "tag": "history"
     }
   ],
   "02-19": [
@@ -789,6 +849,12 @@
       "text": "🇺🇸 US Marines raised the flag on Iwo Jima.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1984,
+      "text": "🇧🇳 Brunei celebrates its National Day.",
+      "country": "BN",
+      "tag": "culture"
     },
     {
       "year": 1455,
@@ -857,6 +923,12 @@
       "text": "🇺🇸 Poet Henry Wadsworth Longfellow was born.",
       "country": "US",
       "tag": "literature"
+    },
+    {
+      "year": 1844,
+      "text": "🇩🇴 The Dominican Republic gained independence.",
+      "country": "DO",
+      "tag": "history"
     }
   ],
   "02-28": [
@@ -915,6 +987,12 @@
       "tag": "history"
     },
     {
+      "year": 1956,
+      "text": "🇲🇦 Morocco gained independence from France.",
+      "country": "MA",
+      "tag": "history"
+    },
+    {
       "year": 1969,
       "text": "🌍 The Concorde made its first test flight.",
       "country": "WORLD",
@@ -970,6 +1048,12 @@
     }
   ],
   "03-06": [
+    {
+      "year": 1957,
+      "text": "🇬🇭 Ghana became the first sub-Saharan colony to gain independence.",
+      "country": "GH",
+      "tag": "history"
+    },
     {
       "year": 1957,
       "text": "🌍 Ghana became independent.",
@@ -1070,6 +1154,12 @@
       "year": 1912,
       "text": "🇺🇸 The Girl Scouts were founded in the US.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1968,
+      "text": "🇲🇺 Mauritius became independent.",
+      "country": "MU",
       "tag": "history"
     }
   ],
@@ -1185,6 +1275,12 @@
       "tag": "history"
     },
     {
+      "year": 1956,
+      "text": "🇹🇳 Tunisia became independent.",
+      "country": "TN",
+      "tag": "history"
+    },
+    {
       "year": 1602,
       "text": "🌍 The Dutch East India Company was founded.",
       "country": "WORLD",
@@ -1196,6 +1292,12 @@
       "year": 1965,
       "text": "🇺🇸 Civil rights marchers set out from Selma to Montgomery.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1990,
+      "text": "🇳🇦 Namibia gained independence.",
+      "country": "NA",
       "tag": "history"
     },
     {
@@ -1230,6 +1332,12 @@
       "year": 1775,
       "text": "🇺🇸 Patrick Henry's 'liberty or death' speech rallied US patriots.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1940,
+      "text": "🇵🇰 Pakistan Day recalls the Lahore Resolution.",
+      "country": "PK",
       "tag": "history"
     }
   ],
@@ -1273,6 +1381,12 @@
       "text": "🇺🇸 Jonas Salk announced a polio vaccine.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1971,
+      "text": "🇧🇩 Bangladesh declared its independence.",
+      "country": "BD",
+      "tag": "history"
     },
     {
       "year": 1971,
@@ -1363,6 +1477,12 @@
       "text": "🇺🇸 Apple Computer was founded.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1979,
+      "text": "🇮🇷 Iran was proclaimed an Islamic Republic.",
+      "country": "IR",
+      "tag": "history"
     }
   ],
   "04-02": [
@@ -1398,6 +1518,12 @@
       "year": 1968,
       "text": "🇺🇸 Civil rights leader Martin Luther King Jr. was assassinated.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇸🇳 Senegal gained its independence.",
+      "country": "SN",
       "tag": "history"
     },
     {
@@ -1590,6 +1716,12 @@
     },
     {
       "year": 1946,
+      "text": "🇸🇾 Syria became fully independent.",
+      "country": "SY",
+      "tag": "history"
+    },
+    {
+      "year": 1946,
       "text": "🌍 Syria gained full independence.",
       "country": "WORLD",
       "tag": "history"
@@ -1600,6 +1732,12 @@
       "year": 1775,
       "text": "🇺🇸 Paul Revere's midnight ride warned of British troops.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1980,
+      "text": "🇿🇼 Zimbabwe achieved independence.",
+      "country": "ZW",
       "tag": "history"
     },
     {
@@ -1747,6 +1885,24 @@
       "tag": "culture"
     },
     {
+      "year": 1994,
+      "text": "🇿🇦 South Africa held its first democratic election on Freedom Day.",
+      "country": "ZA",
+      "tag": "history"
+    },
+    {
+      "year": 1961,
+      "text": "🇸🇱 Sierra Leone became independent.",
+      "country": "SL",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇹🇬 Togo gained its independence.",
+      "country": "TG",
+      "tag": "history"
+    },
+    {
       "year": 1961,
       "text": "🌍 Sierra Leone became independent.",
       "country": "WORLD",
@@ -1863,6 +2019,12 @@
       "text": "🇺🇸 Alan Shepard became the first American in space.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1941,
+      "text": "🇪🇹 Ethiopia was liberated and its emperor restored.",
+      "country": "ET",
+      "tag": "history"
     },
     {
       "year": 1818,
@@ -1991,6 +2153,18 @@
       "tag": "history"
     },
     {
+      "year": 1948,
+      "text": "🇮🇱 Israel declared its independence.",
+      "country": "IL",
+      "tag": "history"
+    },
+    {
+      "year": 1811,
+      "text": "🇵🇾 Paraguay gained its independence.",
+      "country": "PY",
+      "tag": "history"
+    },
+    {
       "year": 1796,
       "text": "🌍 Edward Jenner tested the first smallpox vaccine.",
       "country": "WORLD",
@@ -2109,6 +2283,12 @@
   ],
   "05-22": [
     {
+      "year": 1990,
+      "text": "🇾🇪 Yemen unified into a single state.",
+      "country": "YE",
+      "tag": "history"
+    },
+    {
       "year": 1972,
       "text": "🌍 Ceylon became the republic of Sri Lanka.",
       "country": "WORLD",
@@ -2143,6 +2323,12 @@
       "tag": "science"
     },
     {
+      "year": 1993,
+      "text": "🇪🇷 Eritrea gained independence.",
+      "country": "ER",
+      "tag": "history"
+    },
+    {
       "year": 1543,
       "text": "🌍 Astronomer Nicolaus Copernicus died.",
       "country": "WORLD",
@@ -2155,6 +2341,12 @@
       "text": "🇺🇸 President Kennedy set the US goal of a Moon landing.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1946,
+      "text": "🇯🇴 Jordan gained independence.",
+      "country": "JO",
+      "tag": "history"
     },
     {
       "year": 1963,
@@ -2174,6 +2366,12 @@
       "year": 1896,
       "text": "🇺🇸 The Dow Jones Industrial Average was first published.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1966,
+      "text": "🇬🇾 Guyana became independent.",
+      "country": "GY",
       "tag": "history"
     }
   ],
@@ -2196,6 +2394,12 @@
       "year": 1883,
       "text": "🇮🇳 Freedom fighter V. D. Savarkar was born.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 2008,
+      "text": "🇳🇵 Nepal abolished its monarchy and became a republic.",
+      "country": "NP",
       "tag": "history"
     },
     {
@@ -2255,6 +2459,12 @@
       "tag": "history"
     },
     {
+      "year": 1962,
+      "text": "🇼🇸 Samoa became the first Pacific nation to gain independence.",
+      "country": "WS",
+      "tag": "history"
+    },
+    {
       "year": 2001,
       "text": "🌍 Nepal's royal family was killed in a palace tragedy.",
       "country": "WORLD",
@@ -2300,6 +2510,12 @@
       "year": 1919,
       "text": "🇺🇸 The US Congress passed the women's suffrage amendment.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1970,
+      "text": "🇹🇴 Tonga became fully independent.",
+      "country": "TO",
       "tag": "history"
     },
     {
@@ -2439,6 +2655,12 @@
       "tag": "history"
     },
     {
+      "year": 1898,
+      "text": "🇵🇭 The Philippines declared independence from Spain.",
+      "country": "PH",
+      "tag": "history"
+    },
+    {
       "year": 1964,
       "text": "🌍 Nelson Mandela was sentenced to life imprisonment.",
       "country": "WORLD",
@@ -2550,6 +2772,12 @@
     },
     {
       "year": 1961,
+      "text": "🇰🇼 Kuwait gained its independence.",
+      "country": "KW",
+      "tag": "history"
+    },
+    {
+      "year": 1961,
       "text": "🌍 Kuwait gained independence.",
       "country": "WORLD",
       "tag": "history"
@@ -2655,6 +2883,12 @@
       "text": "🇸🇮 Slovenia declared independence from Yugoslavia.",
       "country": "SI",
       "tag": "history"
+    },
+    {
+      "year": 1975,
+      "text": "🇲🇿 Mozambique won its independence.",
+      "country": "MZ",
+      "tag": "history"
     }
   ],
   "06-26": [
@@ -2663,6 +2897,12 @@
       "text": "🇺🇸 A working draft of the human genome was announced.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1960,
+      "text": "🇲🇬 Madagascar gained independence.",
+      "country": "MG",
+      "tag": "history"
     },
     {
       "year": 1945,
@@ -2683,6 +2923,12 @@
       "text": "🇺🇸 The first colour TV broadcasts expanded.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1977,
+      "text": "🇩🇯 Djibouti gained its independence.",
+      "country": "DJ",
+      "tag": "history"
     }
   ],
   "06-28": [
@@ -2707,6 +2953,12 @@
       "tag": "science"
     },
     {
+      "year": 1976,
+      "text": "🇸🇨 Seychelles gained independence.",
+      "country": "SC",
+      "tag": "history"
+    },
+    {
       "year": 1613,
       "text": "📖 London's Globe Theatre burned during a Shakespeare play.",
       "country": "LIT",
@@ -2719,6 +2971,12 @@
       "text": "🇺🇸 Acrobat Blondin crossed Niagara Falls on a tightrope.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1960,
+      "text": "🇨🇩 The Democratic Republic of the Congo gained independence.",
+      "country": "CD",
+      "tag": "history"
     },
     {
       "year": 1908,
@@ -2738,6 +2996,24 @@
       "year": 1963,
       "text": "🇺🇸 The US introduced ZIP codes.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1962,
+      "text": "🇷🇼 Rwanda became independent.",
+      "country": "RW",
+      "tag": "history"
+    },
+    {
+      "year": 1867,
+      "text": "🇨🇦 Canada was formed by confederation on Canada Day.",
+      "country": "CA",
+      "tag": "history"
+    },
+    {
+      "year": 1962,
+      "text": "🇧🇮 Burundi gained its independence.",
+      "country": "BI",
       "tag": "history"
     }
   ],
@@ -2797,6 +3073,24 @@
       "tag": "history"
     },
     {
+      "year": 1962,
+      "text": "🇩🇿 Algeria won its independence after a long war.",
+      "country": "DZ",
+      "tag": "history"
+    },
+    {
+      "year": 1811,
+      "text": "🇻🇪 Venezuela declared independence from Spain.",
+      "country": "VE",
+      "tag": "history"
+    },
+    {
+      "year": 1975,
+      "text": "🇨🇻 Cape Verde became independent.",
+      "country": "CV",
+      "tag": "history"
+    },
+    {
       "year": 1687,
       "text": "🌍 Newton published his Principia Mathematica.",
       "country": "WORLD",
@@ -2810,6 +3104,18 @@
     }
   ],
   "07-06": [
+    {
+      "year": 1975,
+      "text": "🇰🇲 Comoros declared independence.",
+      "country": "KM",
+      "tag": "history"
+    },
+    {
+      "year": 1964,
+      "text": "🇲🇼 Malawi became independent.",
+      "country": "MW",
+      "tag": "history"
+    },
     {
       "year": 1957,
       "text": "🌍 John Lennon and Paul McCartney first met.",
@@ -2828,6 +3134,12 @@
       "year": 1898,
       "text": "🇺🇸 The US annexed Hawaii.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1978,
+      "text": "🇸🇧 The Solomon Islands became independent.",
+      "country": "SB",
       "tag": "history"
     },
     {
@@ -2859,6 +3171,18 @@
       "tag": "history"
     },
     {
+      "year": 1816,
+      "text": "🇦🇷 Argentina declared its independence.",
+      "country": "AR",
+      "tag": "history"
+    },
+    {
+      "year": 2011,
+      "text": "🇸🇸 South Sudan became the world's newest nation.",
+      "country": "SS",
+      "tag": "history"
+    },
+    {
       "year": 1877,
       "text": "🌍 The first Wimbledon tennis championship began.",
       "country": "WORLD",
@@ -2877,6 +3201,12 @@
       "text": "🇺🇸 Death Valley recorded a scorching world temperature.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1973,
+      "text": "🇧🇸 The Bahamas gained independence.",
+      "country": "BS",
+      "tag": "history"
     }
   ],
   "07-11": [
@@ -2884,6 +3214,12 @@
       "year": 1804,
       "text": "🇺🇸 Alexander Hamilton was fatally wounded in a duel.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1921,
+      "text": "🇲🇳 Mongolia marks its revolution and national days.",
+      "country": "MN",
       "tag": "history"
     },
     {
@@ -2899,6 +3235,18 @@
       "text": "🇺🇸 Writer Henry David Thoreau was born.",
       "country": "US",
       "tag": "literature"
+    },
+    {
+      "year": 1979,
+      "text": "🇰🇮 Kiribati gained its independence.",
+      "country": "KI",
+      "tag": "history"
+    },
+    {
+      "year": 1975,
+      "text": "🇸🇹 Sao Tome and Principe became independent.",
+      "country": "ST",
+      "tag": "history"
     },
     {
       "year": 1962,
@@ -2932,6 +3280,12 @@
       "year": 1789,
       "text": "🇫🇷 Crowds stormed the Bastille, igniting the French Revolution.",
       "country": "FR",
+      "tag": "history"
+    },
+    {
+      "year": 1958,
+      "text": "🇮🇶 Iraq became a republic.",
+      "country": "IQ",
       "tag": "history"
     },
     {
@@ -3020,6 +3374,12 @@
     },
     {
       "year": 1810,
+      "text": "🇨🇴 Colombia declared independence from Spain.",
+      "country": "CO",
+      "tag": "history"
+    },
+    {
+      "year": 1810,
       "text": "🌍 Colombia declared independence.",
       "country": "WORLD",
       "tag": "history"
@@ -3071,6 +3431,12 @@
       "text": "🇺🇸 The first live transatlantic TV signal was relayed.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1952,
+      "text": "🇪🇬 Egypt's revolution set it on the path to a republic.",
+      "country": "EG",
+      "tag": "history"
     }
   ],
   "07-24": [
@@ -3113,6 +3479,12 @@
       "text": "🇺🇸 New York ratified the US Constitution.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1847,
+      "text": "🇱🇷 Liberia declared itself an independent republic.",
+      "country": "LR",
+      "tag": "history"
     }
   ],
   "07-27": [
@@ -3134,6 +3506,12 @@
       "year": 1868,
       "text": "🇺🇸 The US 14th Amendment on citizenship was ratified.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1821,
+      "text": "🇵🇪 Peru proclaimed its independence.",
+      "country": "PE",
       "tag": "history"
     },
     {
@@ -3163,6 +3541,12 @@
       "text": "🇺🇸 Automaker Henry Ford was born.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1980,
+      "text": "🇻🇺 Vanuatu gained its independence.",
+      "country": "VU",
+      "tag": "history"
     },
     {
       "year": 1930,
@@ -3203,6 +3587,12 @@
       "text": "🇨🇭 The Swiss Confederation traces its founding to this day.",
       "country": "CH",
       "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇧🇯 Benin gained independence from France.",
+      "country": "BJ",
+      "tag": "history"
     }
   ],
   "08-02": [
@@ -3224,6 +3614,12 @@
       "year": 1900,
       "text": "🇮🇳 Freedom activist traditions of Bengal are recalled this season.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇳🇪 Niger gained its independence.",
+      "country": "NE",
       "tag": "history"
     },
     {
@@ -3259,6 +3655,12 @@
       "text": "🇺🇸 Actress Marilyn Monroe died.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1960,
+      "text": "🇧🇫 Burkina Faso became independent.",
+      "country": "BF",
+      "tag": "history"
     }
   ],
   "08-06": [
@@ -3266,6 +3668,18 @@
       "year": 1926,
       "text": "🇺🇸 Gertrude Ederle became the first woman to swim the English Channel.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1825,
+      "text": "🇧🇴 Bolivia declared its independence.",
+      "country": "BO",
+      "tag": "history"
+    },
+    {
+      "year": 1962,
+      "text": "🇯🇲 Jamaica gained independence from Britain.",
+      "country": "JM",
       "tag": "history"
     },
     {
@@ -3281,6 +3695,12 @@
       "text": "🇮🇳 Poet Rabindranath Tagore died.",
       "country": "IN",
       "tag": "literature"
+    },
+    {
+      "year": 1960,
+      "text": "🇨🇮 Ivory Coast became independent.",
+      "country": "CI",
+      "tag": "history"
     },
     {
       "year": 1947,
@@ -3311,6 +3731,12 @@
       "tag": "history"
     },
     {
+      "year": 1965,
+      "text": "🇸🇬 Singapore became a sovereign nation.",
+      "country": "SG",
+      "tag": "history"
+    },
+    {
       "year": 1945,
       "text": "🌍 An atomic bomb was dropped on Nagasaki.",
       "country": "WORLD",
@@ -3329,6 +3755,12 @@
       "text": "🇺🇸 The Smithsonian Institution was founded.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1809,
+      "text": "🇪🇨 Ecuador raised an early cry for independence.",
+      "country": "EC",
+      "tag": "history"
     }
   ],
   "08-11": [
@@ -3342,6 +3774,12 @@
       "year": 1934,
       "text": "🇺🇸 The first federal prisoners arrived at Alcatraz.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇹🇩 Chad became independent.",
+      "country": "TD",
       "tag": "history"
     }
   ],
@@ -3361,6 +3799,12 @@
   ],
   "08-13": [
     {
+      "year": 1960,
+      "text": "🇨🇫 The Central African Republic gained independence.",
+      "country": "CF",
+      "tag": "history"
+    },
+    {
       "year": 1961,
       "text": "🌍 The Berlin Wall's construction began.",
       "country": "WORLD",
@@ -3374,6 +3818,12 @@
     }
   ],
   "08-14": [
+    {
+      "year": 1947,
+      "text": "🇵🇰 Pakistan came into being as an independent nation.",
+      "country": "PK",
+      "tag": "history"
+    },
     {
       "year": 1947,
       "text": "🌍 Pakistan gained independence.",
@@ -3405,6 +3855,18 @@
       "text": "🇱🇮 Liechtenstein marks its National Day.",
       "country": "LI",
       "tag": "culture"
+    },
+    {
+      "year": 1945,
+      "text": "🇰🇷 Korea was liberated at the end of World War II.",
+      "country": "KR",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇨🇬 The Republic of the Congo became independent.",
+      "country": "CG",
+      "tag": "history"
     }
   ],
   "08-16": [
@@ -3422,6 +3884,18 @@
     }
   ],
   "08-17": [
+    {
+      "year": 1945,
+      "text": "🇮🇩 Indonesia proclaimed its independence.",
+      "country": "ID",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇬🇦 Gabon became independent.",
+      "country": "GA",
+      "tag": "history"
+    },
     {
       "year": 1982,
       "text": "🌍 The first commercial compact discs were produced.",
@@ -3454,6 +3928,12 @@
       "year": 1946,
       "text": "🇺🇸 US President Bill Clinton was born.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1919,
+      "text": "🇦🇫 Afghanistan regained full independence.",
+      "country": "AF",
       "tag": "history"
     },
     {
@@ -3560,6 +4040,12 @@
     },
     {
       "year": 1825,
+      "text": "🇺🇾 Uruguay declared independence.",
+      "country": "UY",
+      "tag": "history"
+    },
+    {
+      "year": 1825,
       "text": "🌍 Uruguay declared independence.",
       "country": "WORLD",
       "tag": "history"
@@ -3643,6 +4129,18 @@
   ],
   "08-31": [
     {
+      "year": 1957,
+      "text": "🇲🇾 Malaysia gained independence from Britain.",
+      "country": "MY",
+      "tag": "history"
+    },
+    {
+      "year": 1962,
+      "text": "🇹🇹 Trinidad and Tobago became independent.",
+      "country": "TT",
+      "tag": "history"
+    },
+    {
       "year": 1997,
       "text": "🌍 Diana, Princess of Wales, died in a car crash.",
       "country": "WORLD",
@@ -3663,6 +4161,12 @@
       "tag": "science"
     },
     {
+      "year": 1991,
+      "text": "🇺🇿 Uzbekistan declared its independence.",
+      "country": "UZ",
+      "tag": "history"
+    },
+    {
       "year": 1939,
       "text": "🌍 Germany invaded Poland, beginning World War II.",
       "country": "WORLD",
@@ -3674,6 +4178,12 @@
       "year": 1946,
       "text": "🇮🇳 India's interim government was formed under Nehru.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1945,
+      "text": "🇻🇳 Vietnam declared its independence.",
+      "country": "VN",
       "tag": "history"
     },
     {
@@ -3694,6 +4204,12 @@
       "year": 301,
       "text": "🇸🇲 San Marino, the world's oldest republic, marks its founding.",
       "country": "SM",
+      "tag": "history"
+    },
+    {
+      "year": 1971,
+      "text": "🇶🇦 Qatar became an independent state.",
+      "country": "QA",
       "tag": "history"
     },
     {
@@ -3743,6 +4259,12 @@
       "text": "🇺🇸 US President William McKinley was shot.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1968,
+      "text": "🇸🇿 Eswatini gained independence.",
+      "country": "SZ",
+      "tag": "history"
     }
   ],
   "09-07": [
@@ -3751,6 +4273,12 @@
       "text": "🇺🇸 The first electronic television image was transmitted.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1822,
+      "text": "🇧🇷 Brazil declared independence from Portugal.",
+      "country": "BR",
+      "tag": "history"
     },
     {
       "year": 1533,
@@ -3877,6 +4405,18 @@
       "tag": "science"
     },
     {
+      "year": 1821,
+      "text": "🇬🇹 Guatemala declared independence from Spain.",
+      "country": "GT",
+      "tag": "history"
+    },
+    {
+      "year": 1821,
+      "text": "🇨🇷 Costa Rica gained its independence.",
+      "country": "CR",
+      "tag": "history"
+    },
+    {
       "year": 1928,
       "text": "🌍 Alexander Fleming discovered penicillin.",
       "country": "WORLD",
@@ -3888,6 +4428,18 @@
       "year": 1620,
       "text": "🇺🇸 The Mayflower set sail for America.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1810,
+      "text": "🇲🇽 Mexico began its war for independence.",
+      "country": "MX",
+      "tag": "history"
+    },
+    {
+      "year": 1975,
+      "text": "🇵🇬 Papua New Guinea became independent.",
+      "country": "PG",
       "tag": "history"
     },
     {
@@ -3920,12 +4472,24 @@
     },
     {
       "year": 1810,
+      "text": "🇨🇱 Chile began its move toward independence.",
+      "country": "CL",
+      "tag": "history"
+    },
+    {
+      "year": 1810,
       "text": "🌍 Chile began its independence movement.",
       "country": "WORLD",
       "tag": "history"
     }
   ],
   "09-19": [
+    {
+      "year": 1893,
+      "text": "🇳🇿 New Zealand became the first nation to grant women the vote.",
+      "country": "NZ",
+      "tag": "history"
+    },
     {
       "year": 1893,
       "text": "🌍 New Zealand became the first nation to grant women the vote.",
@@ -3981,6 +4545,12 @@
       "tag": "history"
     },
     {
+      "year": 1960,
+      "text": "🇲🇱 Mali became independent.",
+      "country": "ML",
+      "tag": "history"
+    },
+    {
       "year": 1980,
       "text": "🌍 The Iran-Iraq War began.",
       "country": "WORLD",
@@ -3988,6 +4558,12 @@
     }
   ],
   "09-23": [
+    {
+      "year": 1932,
+      "text": "🇸🇦 Saudi Arabia was unified into a kingdom.",
+      "country": "SA",
+      "tag": "history"
+    },
     {
       "year": 1846,
       "text": "🌍 The planet Neptune was discovered.",
@@ -4012,6 +4588,12 @@
       "year": 1957,
       "text": "🇺🇸 US troops enforced school desegregation in Little Rock.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1973,
+      "text": "🇬🇼 Guinea-Bissau declared independence.",
+      "country": "GW",
       "tag": "history"
     }
   ],
@@ -4093,6 +4675,12 @@
       "tag": "culture"
     },
     {
+      "year": 1966,
+      "text": "🇧🇼 Botswana became independent.",
+      "country": "BW",
+      "tag": "history"
+    },
+    {
       "year": 1938,
       "text": "🌍 The Munich Agreement was signed.",
       "country": "WORLD",
@@ -4114,6 +4702,30 @@
     },
     {
       "year": 1949,
+      "text": "🇨🇳 The People's Republic of China was founded in Beijing.",
+      "country": "CN",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇳🇬 Nigeria gained independence from Britain.",
+      "country": "NG",
+      "tag": "history"
+    },
+    {
+      "year": 1994,
+      "text": "🇵🇼 Palau became a sovereign nation.",
+      "country": "PW",
+      "tag": "history"
+    },
+    {
+      "year": 1978,
+      "text": "🇹🇻 Tuvalu gained its independence.",
+      "country": "TV",
+      "tag": "history"
+    },
+    {
+      "year": 1949,
       "text": "🌍 The People's Republic of China was proclaimed.",
       "country": "WORLD",
       "tag": "history"
@@ -4131,6 +4743,12 @@
       "text": "🇺🇸 The Peanuts comic strip debuted.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1958,
+      "text": "🇬🇳 Guinea became independent from France.",
+      "country": "GN",
+      "tag": "history"
     }
   ],
   "10-03": [
@@ -4159,6 +4777,12 @@
       "text": "🇺🇸 Work began on the Mount Rushmore carvings.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1966,
+      "text": "🇱🇸 Lesotho gained independence.",
+      "country": "LS",
+      "tag": "history"
     },
     {
       "year": 1957,
@@ -4225,6 +4849,12 @@
   ],
   "10-09": [
     {
+      "year": 1962,
+      "text": "🇺🇬 Uganda gained independence.",
+      "country": "UG",
+      "tag": "history"
+    },
+    {
       "year": 1967,
       "text": "🌍 Revolutionary Che Guevara was killed.",
       "country": "WORLD",
@@ -4242,6 +4872,12 @@
       "year": 1845,
       "text": "🇺🇸 The US Naval Academy opened.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1970,
+      "text": "🇫🇯 Fiji gained independence from Britain.",
+      "country": "FJ",
       "tag": "history"
     },
     {
@@ -4276,6 +4912,12 @@
       "year": 1492,
       "text": "🇪🇸 Spain marks its National Day, tied to the voyage of Columbus.",
       "country": "ES",
+      "tag": "history"
+    },
+    {
+      "year": 1968,
+      "text": "🇬🇶 Equatorial Guinea became independent.",
+      "country": "GQ",
       "tag": "history"
     },
     {
@@ -4405,6 +5047,12 @@
       "tag": "science"
     },
     {
+      "year": 1986,
+      "text": "🇲🇭 The Marshall Islands gained self-governing independence.",
+      "country": "MH",
+      "tag": "history"
+    },
+    {
       "year": 1805,
       "text": "🌍 The Battle of Trafalgar was fought.",
       "country": "WORLD",
@@ -4451,6 +5099,12 @@
       "text": "🇺🇸 A daredevil went over Niagara Falls in a barrel.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1964,
+      "text": "🇿🇲 Zambia became independent.",
+      "country": "ZM",
+      "tag": "history"
     },
     {
       "year": 1945,
@@ -4536,6 +5190,12 @@
     },
     {
       "year": 1923,
+      "text": "🇹🇷 Turkey was proclaimed a republic under Ataturk.",
+      "country": "TR",
+      "tag": "history"
+    },
+    {
+      "year": 1923,
       "text": "🌍 Turkey was proclaimed a republic.",
       "country": "WORLD",
       "tag": "history"
@@ -4602,6 +5262,18 @@
       "year": 1900,
       "text": "🇺🇸 The first US auto show opened in New York.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1903,
+      "text": "🇵🇦 Panama became an independent nation.",
+      "country": "PA",
+      "tag": "history"
+    },
+    {
+      "year": 1986,
+      "text": "🇫🇲 The Federated States of Micronesia became independent.",
+      "country": "FM",
       "tag": "history"
     },
     {
@@ -4695,6 +5367,12 @@
       "tag": "history"
     },
     {
+      "year": 1953,
+      "text": "🇰🇭 Cambodia gained full independence from France.",
+      "country": "KH",
+      "tag": "history"
+    },
+    {
       "year": 1989,
       "text": "🌍 The Berlin Wall fell.",
       "country": "WORLD",
@@ -4726,6 +5404,12 @@
       "year": 1918,
       "text": "🇵🇱 Poland regained independence after over a century.",
       "country": "PL",
+      "tag": "history"
+    },
+    {
+      "year": 1975,
+      "text": "🇦🇴 Angola became independent.",
+      "country": "AO",
       "tag": "history"
     },
     {
@@ -4837,6 +5521,12 @@
       "text": "🇱🇻 Latvia proclaimed its independence.",
       "country": "LV",
       "tag": "history"
+    },
+    {
+      "year": 1940,
+      "text": "🇴🇲 Oman marks its National Day.",
+      "country": "OM",
+      "tag": "culture"
     }
   ],
   "11-19": [
@@ -4895,6 +5585,12 @@
       "tag": "history"
     },
     {
+      "year": 1943,
+      "text": "🇱🇧 Lebanon achieved independence.",
+      "country": "LB",
+      "tag": "history"
+    },
+    {
       "year": 1968,
       "text": "🌍 The Beatles released the White Album.",
       "country": "WORLD",
@@ -4937,6 +5633,12 @@
       "tag": "history"
     },
     {
+      "year": 1975,
+      "text": "🇸🇷 Suriname gained its independence.",
+      "country": "SR",
+      "tag": "history"
+    },
+    {
       "year": 1867,
       "text": "🌍 Alfred Nobel patented dynamite.",
       "country": "WORLD",
@@ -4976,6 +5678,12 @@
       "year": 1912,
       "text": "🇦🇱 Albania declared independence from the Ottoman Empire.",
       "country": "AL",
+      "tag": "history"
+    },
+    {
+      "year": 1960,
+      "text": "🇲🇷 Mauritania gained independence.",
+      "country": "MR",
       "tag": "history"
     },
     {
@@ -5051,6 +5759,18 @@
       "text": "🇺🇸 The first controlled nuclear chain reaction was achieved.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1975,
+      "text": "🇱🇦 Laos became a people's republic.",
+      "country": "LA",
+      "tag": "history"
+    },
+    {
+      "year": 1971,
+      "text": "🇦🇪 The United Arab Emirates was formed as a federation.",
+      "country": "AE",
+      "tag": "history"
     }
   ],
   "12-03": [
@@ -5155,9 +5875,21 @@
       "text": "🇺🇸 A Charlie Brown Christmas first aired.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1961,
+      "text": "🇹🇿 Tanganyika, later Tanzania, became independent.",
+      "country": "TZ",
+      "tag": "history"
     }
   ],
   "12-10": [
+    {
+      "year": 1932,
+      "text": "🇹🇭 Thailand adopted its first constitution.",
+      "country": "TH",
+      "tag": "history"
+    },
     {
       "year": 1948,
       "text": "🌍 The UN adopted the Universal Declaration of Human Rights.",
@@ -5190,6 +5922,12 @@
       "year": 1911,
       "text": "🇮🇳 New Delhi was announced as India's capital.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1963,
+      "text": "🇰🇪 Kenya became independent.",
+      "country": "KE",
       "tag": "history"
     },
     {
@@ -5253,6 +5991,18 @@
       "text": "🇺🇸 The Boston Tea Party protest took place.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1971,
+      "text": "🇧🇩 Bangladesh marks Victory Day at the end of its war.",
+      "country": "BD",
+      "tag": "history"
+    },
+    {
+      "year": 1991,
+      "text": "🇰🇿 Kazakhstan declared independence from the Soviet Union.",
+      "country": "KZ",
+      "tag": "history"
     }
   ],
   "12-17": [
@@ -5261,6 +6011,12 @@
       "text": "🇺🇸 The Wright brothers made the first powered flight.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1907,
+      "text": "🇧🇹 Bhutan celebrates its National Day and monarchy.",
+      "country": "BT",
+      "tag": "culture"
     },
     {
       "year": 1770,
@@ -5365,6 +6121,12 @@
       "text": "🇺🇸 Apollo 8 orbited the Moon on Christmas Eve.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1951,
+      "text": "🇱🇾 Libya became an independent kingdom.",
+      "country": "LY",
+      "tag": "history"
     }
   ],
   "12-25": [
