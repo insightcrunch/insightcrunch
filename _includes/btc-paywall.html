@@ -125,8 +125,8 @@
     win:           {{ pw.unlock_window_minutes }} * 60 * 1000,
     api:           {{ pw.mempool_api | jsonify }},
     pid:           {{ post_id | jsonify }},
-    delaySeconds:  {{ pw.delay_seconds | default: 90 }},
-    scrollLockPct: {{ pw.scroll_lock_percent | default: 20 }},
+    delaySeconds:  {{ pw.delay_seconds | default: 240 }},
+    scrollLockPct: {{ pw.scroll_lock_percent | default: 25 }},
     previewPx:     {{ pw.preview_min_pixels | default: 200 }},
     previewFrac:   {{ pw.preview_paragraph_fraction | default: 0.15 }},
     override:      '7777'
