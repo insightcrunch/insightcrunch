@@ -14,13 +14,19 @@ Usage:  python _scripts/update_freshness.py [--batch-size 15] [--posts-dir _post
 
 import argparse
 import json
+import math
 import os
 import re
 from datetime import date, datetime
 from pathlib import Path
 
 # ── config defaults ──────────────────────────────────────────────
-DEFAULT_BATCH = 15
+# The batch size is NOT fixed. It is computed each run from the current
+# post count so a full refresh cycle always takes ~TARGET_CYCLE_DAYS,
+# no matter how large the archive grows.
+DEFAULT_TARGET_CYCLE_DAYS = 122   # ~4 months
+DEFAULT_RUN_INTERVAL_DAYS = 4     # matches the every-4-days cron
+DEFAULT_MIN_BATCH = 1
 DEFAULT_POSTS = "_posts"
 DEFAULT_MANIFEST = "_data/freshness_manifest.json"
 DEFAULT_META_VARIANTS = "_data/meta_variants.json"
@@ -127,7 +133,13 @@ def get_next_excerpt(meta_variants: dict, filename: str) -> str | None:
 
 def main():
     parser = argparse.ArgumentParser(description="Refresh last_updated and rotate meta descriptions.")
-    parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH)
+    parser.add_argument("--batch-size", type=int, default=None,
+                        help="Fixed batch size. If omitted, it is computed from the "
+                             "post count to hold the target cycle length.")
+    parser.add_argument("--target-cycle-days", type=float, default=DEFAULT_TARGET_CYCLE_DAYS,
+                        help="Desired time for every post to be refreshed once (default ~4 months).")
+    parser.add_argument("--run-interval-days", type=float, default=DEFAULT_RUN_INTERVAL_DAYS,
+                        help="Days between scheduled runs (should match the cron).")
     parser.add_argument("--posts-dir", type=str, default=DEFAULT_POSTS)
     parser.add_argument("--manifest", type=str, default=DEFAULT_MANIFEST)
     parser.add_argument("--meta-variants", type=str, default=DEFAULT_META_VARIANTS)
@@ -141,7 +153,18 @@ def main():
     manifest = load_json(manifest_path)
     meta_variants = load_json(meta_path)
     all_posts = get_all_posts(posts_dir)
-    batch = pick_batch(all_posts, manifest, args.batch_size)
+    total = len(all_posts)
+
+    # Dynamic batch: derive from the current post count so the full cycle
+    # holds at ~target-cycle-days as the archive grows. An explicit
+    # --batch-size still overrides this.
+    if args.batch_size:
+        batch_size = max(DEFAULT_MIN_BATCH, args.batch_size)
+    else:
+        runs_per_cycle = max(1, round(args.target_cycle_days / args.run_interval_days))
+        batch_size = max(DEFAULT_MIN_BATCH, math.ceil(total / runs_per_cycle))
+
+    batch = pick_batch(all_posts, manifest, batch_size)
 
     changed = 0
     rotated = 0
@@ -161,11 +184,10 @@ def main():
     save_json(manifest_path, manifest)
     save_json(meta_path, meta_variants, ensure_ascii=False)
 
-    total = len(all_posts)
-    cycle_days = (total / args.batch_size) * 4  # rebuilds every 4 days
+    cycle_days = (total / batch_size) * args.run_interval_days
     print(f"[freshness] {changed}/{len(batch)} posts updated (last_updated -> {today_str})")
     print(f"[freshness] {rotated}/{len(batch)} meta descriptions rotated")
-    print(f"[freshness] {total} total posts, batch {args.batch_size}, full cycle ~ {cycle_days:.0f} days")
+    print(f"[freshness] {total} total posts, batch {batch_size} (auto), full cycle ~ {cycle_days:.0f} days")
 
 
 if __name__ == "__main__":

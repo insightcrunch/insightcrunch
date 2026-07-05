@@ -61,7 +61,7 @@ jobs:
       # ── Schedule/manual only: freshness rotation ──
       - name: Update post freshness and rotate meta descriptions
         if: github.event_name != 'push'
-        run: python _scripts/update_freshness.py --batch-size 15
+        run: python _scripts/update_freshness.py --target-cycle-days 122
 
       # ── Schedule/manual only: keyword audit ──
       - name: Run keyword audit
