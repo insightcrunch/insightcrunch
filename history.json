@@ -13,6 +13,18 @@
       "tag": "history"
     },
     {
+      "year": 1993,
+      "text": "🇸🇰 Slovakia became an independent state.",
+      "country": "SK",
+      "tag": "history"
+    },
+    {
+      "year": 1901,
+      "text": "🇦🇺 The Australian colonies federated into one nation.",
+      "country": "AU",
+      "tag": "history"
+    },
+    {
       "year": 1995,
       "text": "🌍 The World Trade Organization was established.",
       "country": "WORLD",
@@ -367,6 +379,12 @@
       "text": "🇺🇸 Michigan was admitted as the 26th US state.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1788,
+      "text": "🇦🇺 Australia Day recalls the arrival of the First Fleet.",
+      "country": "AU",
+      "tag": "culture"
     }
   ],
   "01-27": [
@@ -587,6 +605,12 @@
       "tag": "science"
     },
     {
+      "year": 1929,
+      "text": "🇻🇦 The Lateran Treaty established the Vatican City state.",
+      "country": "VA",
+      "tag": "history"
+    },
+    {
       "year": 1990,
       "text": "🌍 Nelson Mandela was released from prison.",
       "country": "WORLD",
@@ -637,6 +661,12 @@
   ],
   "02-15": [
     {
+      "year": 1804,
+      "text": "🇷🇸 Serbia marks Statehood Day and its first uprising.",
+      "country": "RS",
+      "tag": "history"
+    },
+    {
       "year": 1564,
       "text": "🌍 Astronomer Galileo Galilei was born.",
       "country": "WORLD",
@@ -664,6 +694,12 @@
     }
   ],
   "02-17": [
+    {
+      "year": 2008,
+      "text": "🇽🇰 Kosovo declared its independence.",
+      "country": "XK",
+      "tag": "history"
+    },
     {
       "year": 1972,
       "text": "🌍 The Volkswagen Beetle broke a production record.",
@@ -773,6 +809,12 @@
       "text": "🇺🇸 The first nylon toothbrush went on sale.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1918,
+      "text": "🇪🇪 Estonia declared its independence.",
+      "country": "EE",
+      "tag": "history"
     }
   ],
   "02-25": [
@@ -857,6 +899,12 @@
       "text": "🇺🇸 The US tested a hydrogen bomb at Bikini Atoll.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1992,
+      "text": "🇧🇦 Bosnia and Herzegovina voted for independence.",
+      "country": "BA",
+      "tag": "history"
     }
   ],
   "03-02": [
@@ -885,6 +933,12 @@
       "text": "🇺🇸 The Star-Spangled Banner became the US national anthem.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1878,
+      "text": "🇧🇬 Bulgaria marks Liberation Day from Ottoman rule.",
+      "country": "BG",
+      "tag": "history"
     }
   ],
   "03-04": [
@@ -993,6 +1047,12 @@
       "tag": "science"
     },
     {
+      "year": 1990,
+      "text": "🇱🇹 Lithuania was the first Soviet republic to declare independence.",
+      "country": "LT",
+      "tag": "history"
+    },
+    {
       "year": 2011,
       "text": "🌍 A major earthquake and tsunami struck Japan.",
       "country": "WORLD",
@@ -1075,6 +1135,12 @@
       "text": "🇮🇳 The Dalai Lama fled Tibet and later reached India.",
       "country": "IN",
       "tag": "history"
+    },
+    {
+      "year": 432,
+      "text": "🇮🇪 Ireland honours Saint Patrick, its patron, on this feast day.",
+      "country": "IE",
+      "tag": "culture"
     },
     {
       "year": 1845,
@@ -1182,6 +1248,12 @@
     }
   ],
   "03-25": [
+    {
+      "year": 1821,
+      "text": "🇬🇷 Greece began its War of Independence from Ottoman rule.",
+      "country": "GR",
+      "tag": "history"
+    },
     {
       "year": 1807,
       "text": "🌍 Britain abolished the slave trade.",
@@ -1473,6 +1545,12 @@
       "text": "🇺🇸 US President Abraham Lincoln was shot.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1931,
+      "text": "🇪🇸 Spain proclaimed its Second Republic.",
+      "country": "ES",
+      "tag": "history"
     }
   ],
   "04-15": [
@@ -1613,9 +1691,21 @@
       "text": "🇺🇸 The Hubble Space Telescope was launched.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1916,
+      "text": "🇮🇪 The Easter Rising began in Dublin against British rule.",
+      "country": "IE",
+      "tag": "history"
     }
   ],
   "04-25": [
+    {
+      "year": 1974,
+      "text": "🇵🇹 Portugal's peaceful Carnation Revolution ended dictatorship.",
+      "country": "PT",
+      "tag": "history"
+    },
     {
       "year": 1953,
       "text": "🌍 The DNA double helix paper was published.",
@@ -1649,6 +1739,12 @@
       "text": "🇺🇸 Telegraph inventor Samuel Morse was born.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1967,
+      "text": "🇳🇱 The Netherlands celebrates King's Day, its national holiday.",
+      "country": "NL",
+      "tag": "culture"
     },
     {
       "year": 1961,
@@ -1733,6 +1829,12 @@
       "text": "🇮🇳 India's first full-length feature film, Raja Harishchandra, released.",
       "country": "IN",
       "tag": "culture"
+    },
+    {
+      "year": 1791,
+      "text": "🇵🇱 Poland adopted Europe's first modern written constitution.",
+      "country": "PL",
+      "tag": "history"
     },
     {
       "year": 1791,
@@ -1931,6 +2033,12 @@
       "tag": "history"
     },
     {
+      "year": 1814,
+      "text": "🇳🇴 Norway adopted its constitution, celebrated as its national day.",
+      "country": "NO",
+      "tag": "history"
+    },
+    {
       "year": 1861,
       "text": "🌍 The first colour photograph was shown.",
       "country": "WORLD",
@@ -1990,6 +2098,12 @@
       "year": 1927,
       "text": "🇺🇸 Charles Lindbergh completed the first solo transatlantic flight.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 2006,
+      "text": "🇲🇪 Montenegro voted for independence in a referendum.",
+      "country": "ME",
       "tag": "history"
     }
   ],
@@ -2155,6 +2269,12 @@
       "tag": "history"
     },
     {
+      "year": 1946,
+      "text": "🇮🇹 Italians voted to become a republic on Republic Day.",
+      "country": "IT",
+      "tag": "history"
+    },
+    {
       "year": 1953,
       "text": "🌍 Queen Elizabeth II was crowned.",
       "country": "WORLD",
@@ -2197,6 +2317,12 @@
       "tag": "history"
     },
     {
+      "year": 1849,
+      "text": "🇩🇰 Denmark signed the constitution marked on Constitution Day.",
+      "country": "DK",
+      "tag": "history"
+    },
+    {
       "year": 1972,
       "text": "🌍 The first UN environment conference opened, marking World Environment Day.",
       "country": "WORLD",
@@ -2208,6 +2334,12 @@
       "year": 1984,
       "text": "🇮🇳 Operation Blue Star took place at the Golden Temple.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1523,
+      "text": "🇸🇪 Sweden's National Day recalls the election of Gustav Vasa.",
+      "country": "SE",
       "tag": "history"
     },
     {
@@ -2267,6 +2399,12 @@
       "tag": "history"
     },
     {
+      "year": 1580,
+      "text": "🇵🇹 Portugal Day honours the poet Luis de Camoes.",
+      "country": "PT",
+      "tag": "literature"
+    },
+    {
       "year": 1967,
       "text": "🌍 The Six-Day War ended.",
       "country": "WORLD",
@@ -2293,6 +2431,12 @@
       "text": "🇺🇸 The first web-connected commerce milestones took shape.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1990,
+      "text": "🇷🇺 Russia marks Russia Day, its declaration of sovereignty.",
+      "country": "RU",
+      "tag": "history"
     },
     {
       "year": 1964,
@@ -2338,6 +2482,12 @@
     },
     {
       "year": 1215,
+      "text": "🇬🇧 English barons forced King John to seal the Magna Carta.",
+      "country": "GB",
+      "tag": "history"
+    },
+    {
+      "year": 1215,
       "text": "🌍 The Magna Carta was sealed in England.",
       "country": "WORLD",
       "tag": "history"
@@ -2368,6 +2518,12 @@
       "year": 1972,
       "text": "🇺🇸 The Watergate break-in occurred.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1944,
+      "text": "🇮🇸 Iceland became an independent republic.",
+      "country": "IS",
       "tag": "history"
     }
   ],
@@ -2449,6 +2605,12 @@
       "tag": "history"
     },
     {
+      "year": 1921,
+      "text": "🇱🇺 Luxembourg celebrates its National Day.",
+      "country": "LU",
+      "tag": "culture"
+    },
+    {
       "year": 1912,
       "text": "🌍 Computing pioneer Alan Turing was born.",
       "country": "WORLD",
@@ -2480,6 +2642,18 @@
       "year": 1876,
       "text": "🇺🇸 The Battle of Little Bighorn was fought.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1991,
+      "text": "🇭🇷 Croatia declared independence from Yugoslavia.",
+      "country": "HR",
+      "tag": "history"
+    },
+    {
+      "year": 1991,
+      "text": "🇸🇮 Slovenia declared independence from Yugoslavia.",
+      "country": "SI",
       "tag": "history"
     }
   ],
@@ -2589,6 +2763,12 @@
       "tag": "history"
     },
     {
+      "year": 1944,
+      "text": "🇧🇾 Belarus marks Independence Day, tied to the liberation of Minsk.",
+      "country": "BY",
+      "tag": "history"
+    },
+    {
       "year": 1962,
       "text": "🌍 Algeria became independent.",
       "country": "WORLD",
@@ -2610,6 +2790,12 @@
     }
   ],
   "07-05": [
+    {
+      "year": 1948,
+      "text": "🇬🇧 Britain launched the National Health Service.",
+      "country": "GB",
+      "tag": "history"
+    },
     {
       "year": 1687,
       "text": "🌍 Newton published his Principia Mathematica.",
@@ -2744,6 +2930,12 @@
     },
     {
       "year": 1789,
+      "text": "🇫🇷 Crowds stormed the Bastille, igniting the French Revolution.",
+      "country": "FR",
+      "tag": "history"
+    },
+    {
+      "year": 1789,
       "text": "🌍 The storming of the Bastille began the French Revolution.",
       "country": "WORLD",
       "tag": "history"
@@ -2845,6 +3037,12 @@
       "text": "🇺🇸 Author Ernest Hemingway was born.",
       "country": "US",
       "tag": "literature"
+    },
+    {
+      "year": 1831,
+      "text": "🇧🇪 Belgium's first king took his oath, marking its National Day.",
+      "country": "BE",
+      "tag": "history"
     }
   ],
   "07-22": [
@@ -2999,6 +3197,12 @@
       "text": "🇺🇸 The music channel MTV launched.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1291,
+      "text": "🇨🇭 The Swiss Confederation traces its founding to this day.",
+      "country": "CH",
+      "tag": "history"
     }
   ],
   "08-02": [
@@ -3195,6 +3399,12 @@
       "text": "🇺🇸 The Woodstock music festival began.",
       "country": "US",
       "tag": "culture"
+    },
+    {
+      "year": 1940,
+      "text": "🇱🇮 Liechtenstein marks its National Day.",
+      "country": "LI",
+      "tag": "culture"
     }
   ],
   "08-16": [
@@ -3265,6 +3475,12 @@
       "text": "🇺🇸 Voyager 2 was launched to explore the outer planets.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1000,
+      "text": "🇭🇺 Hungary honours Saint Stephen, its founding king.",
+      "country": "HU",
+      "tag": "culture"
     }
   ],
   "08-21": [
@@ -3317,6 +3533,12 @@
       "tag": "history"
     },
     {
+      "year": 1991,
+      "text": "🇺🇦 Ukraine declared independence from the Soviet Union.",
+      "country": "UA",
+      "tag": "history"
+    },
+    {
       "year": 79,
       "text": "🌍 Mount Vesuvius buried Pompeii.",
       "country": "WORLD",
@@ -3328,6 +3550,12 @@
       "year": 1916,
       "text": "🇺🇸 The US National Park Service was created.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1944,
+      "text": "🇫🇷 Paris was liberated from occupation in World War II.",
+      "country": "FR",
       "tag": "history"
     },
     {
@@ -3357,6 +3585,12 @@
       "text": "🇺🇸 The first commercial oil well was drilled in Pennsylvania.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1991,
+      "text": "🇲🇩 Moldova declared its independence.",
+      "country": "MD",
+      "tag": "history"
     },
     {
       "year": 1883,
@@ -3457,6 +3691,12 @@
       "tag": "history"
     },
     {
+      "year": 301,
+      "text": "🇸🇲 San Marino, the world's oldest republic, marks its founding.",
+      "country": "SM",
+      "tag": "history"
+    },
+    {
       "year": 1971,
       "text": "🌍 Qatar became independent.",
       "country": "WORLD",
@@ -3524,6 +3764,18 @@
       "year": 1966,
       "text": "🇺🇸 The Star Trek series first aired.",
       "country": "US",
+      "tag": "culture"
+    },
+    {
+      "year": 1991,
+      "text": "🇲🇰 North Macedonia declared independence.",
+      "country": "MK",
+      "tag": "history"
+    },
+    {
+      "year": 1278,
+      "text": "🇦🇩 Andorra honours Our Lady of Meritxell on its national day.",
+      "country": "AD",
       "tag": "culture"
     },
     {
@@ -3703,6 +3955,12 @@
   ],
   "09-21": [
     {
+      "year": 1964,
+      "text": "🇲🇹 Malta gained independence from Britain.",
+      "country": "MT",
+      "tag": "history"
+    },
+    {
       "year": 1981,
       "text": "🌍 Belize became independent.",
       "country": "WORLD",
@@ -3849,6 +4107,12 @@
       "tag": "science"
     },
     {
+      "year": 1960,
+      "text": "🇨🇾 Cyprus became independent.",
+      "country": "CY",
+      "tag": "history"
+    },
+    {
       "year": 1949,
       "text": "🌍 The People's Republic of China was proclaimed.",
       "country": "WORLD",
@@ -3874,6 +4138,12 @@
       "year": 1863,
       "text": "🇺🇸 Lincoln proclaimed the US Thanksgiving holiday.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1990,
+      "text": "🇩🇪 Germany was reunified on its Day of German Unity.",
+      "country": "DE",
       "tag": "history"
     },
     {
@@ -4000,6 +4270,12 @@
       "year": 1967,
       "text": "🇮🇳 Poet and freedom fighter Ram Prasad Bismil is remembered this season.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1492,
+      "text": "🇪🇸 Spain marks its National Day, tied to the voyage of Columbus.",
+      "country": "ES",
       "tag": "history"
     },
     {
@@ -4157,6 +4433,12 @@
       "tag": "history"
     },
     {
+      "year": 1956,
+      "text": "🇭🇺 The Hungarian Revolution rose against Soviet control.",
+      "country": "HU",
+      "tag": "history"
+    },
+    {
       "year": 1707,
       "text": "🌍 The first British Parliament of Great Britain met.",
       "country": "WORLD",
@@ -4203,6 +4485,12 @@
       "text": "🇺🇸 The gunfight at the O.K. Corral took place.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1955,
+      "text": "🇦🇹 Austria declared its permanent neutrality, its National Day.",
+      "country": "AT",
+      "tag": "history"
     }
   ],
   "10-27": [
@@ -4230,6 +4518,12 @@
       "year": 1636,
       "text": "🇺🇸 Harvard College, the first US college, was founded.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1918,
+      "text": "🇨🇿 Czechoslovakia declared independence, now Czech Statehood Day.",
+      "country": "CZ",
       "tag": "history"
     }
   ],
@@ -4396,6 +4690,12 @@
     },
     {
       "year": 1989,
+      "text": "🇩🇪 Berliners tore down the Wall dividing East and West.",
+      "country": "DE",
+      "tag": "history"
+    },
+    {
+      "year": 1989,
       "text": "🌍 The Berlin Wall fell.",
       "country": "WORLD",
       "tag": "history"
@@ -4420,6 +4720,12 @@
       "year": 1888,
       "text": "🇮🇳 Educator Maulana Abul Kalam Azad, honoured on Education Day, was born.",
       "country": "IN",
+      "tag": "history"
+    },
+    {
+      "year": 1918,
+      "text": "🇵🇱 Poland regained independence after over a century.",
+      "country": "PL",
       "tag": "history"
     },
     {
@@ -4525,6 +4831,12 @@
       "text": "🇺🇸 The push-button telephone was introduced.",
       "country": "US",
       "tag": "science"
+    },
+    {
+      "year": 1918,
+      "text": "🇱🇻 Latvia proclaimed its independence.",
+      "country": "LV",
+      "tag": "history"
     }
   ],
   "11-19": [
@@ -4539,6 +4851,12 @@
       "text": "🇺🇸 Lincoln delivered the Gettysburg Address.",
       "country": "US",
       "tag": "history"
+    },
+    {
+      "year": 1857,
+      "text": "🇲🇨 Monaco celebrates its National Day.",
+      "country": "MC",
+      "tag": "culture"
     }
   ],
   "11-20": [
@@ -4655,6 +4973,12 @@
   ],
   "11-28": [
     {
+      "year": 1912,
+      "text": "🇦🇱 Albania declared independence from the Ottoman Empire.",
+      "country": "AL",
+      "tag": "history"
+    },
+    {
       "year": 1893,
       "text": "🌍 Women voted in a national election in New Zealand.",
       "country": "WORLD",
@@ -4700,6 +5024,12 @@
       "year": 1955,
       "text": "🇺🇸 Rosa Parks refused to give up her bus seat in Montgomery.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1918,
+      "text": "🇷🇴 Romania united its provinces on Great Union Day.",
+      "country": "RO",
       "tag": "history"
     },
     {
@@ -4776,6 +5106,12 @@
       "year": 1865,
       "text": "🇺🇸 The US abolished slavery with the 13th Amendment.",
       "country": "US",
+      "tag": "history"
+    },
+    {
+      "year": 1917,
+      "text": "🇫🇮 Finland declared independence from Russia.",
+      "country": "FI",
       "tag": "history"
     }
   ],
