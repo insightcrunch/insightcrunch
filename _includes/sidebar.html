@@ -92,8 +92,8 @@
     <div class="sb-pick">
       <div class="sb-lbl">Editor's pick</div>
       <div class="pick-body" id="sbPickBody">
-        <a href="#" class="pick-title" id="sbPickTitle">What a century-old exam still asks of us</a>
-        <div class="pick-from" id="sbPickFrom">The UPSC Companion</div>
+        <a href="#" class="pick-title" id="sbPickTitle">Finding a good read...</a>
+        <div class="pick-from" id="sbPickFrom"></div>
       </div>
     </div>
 
@@ -120,50 +120,103 @@
   (function(){
     var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    /* ── Editor's pick: rotates so the sidebar always feels fresh. ── */
-    var picks = [
-      {t:"What a century-old exam still asks of us", f:"The UPSC Companion", u:"/?q=UPSC"},
-      {t:"The gaokao essay that reshapes a life in three hours", f:"Gaokao Notebook", u:"/?q=Gaokao"},
-      {t:"Why Feluda never carries a gun", f:"The Feluda Files", u:"/?q=Feluda"},
-      {t:"Lady Macbeth and the arithmetic of ambition", f:"Reading Shakespeare", u:"/?q=Shakespeare"},
-      {t:"The freedom fighter the textbooks left out", f:"Forgotten Freedom Fighters", u:"/?q=Freedom%20Fighter"}
-    ];
-    var pi = 0;
-    var pBody = document.getElementById('sbPickBody');
-    var pTitle = document.getElementById('sbPickTitle');
-    var pFrom = document.getElementById('sbPickFrom');
-    function renderPick(){
-      if(!pTitle) return;
-      pTitle.textContent = picks[pi].t;
-      pTitle.setAttribute('href', picks[pi].u);
-      pFrom.textContent = picks[pi].f;
+    /* Current page context, injected by Jekyll. On a post these are the
+       post's own slug and tags; elsewhere they are empty. */
+    var PAGE_SLUG = {{ page.slug | jsonify }};
+    var PAGE_TAGS = ({{ page.tags | jsonify }}) || [];
+    var PAGE_TAGS_LC = PAGE_TAGS.map(function(t){ return String(t).toLowerCase(); });
+
+    /* ── Shared search index (one fetch serves the pick and Random read) ── */
+    var idx = null, idxLoading = false, waiters = [];
+    function getIndex(cb){
+      if(idx){ cb(idx); return; }
+      waiters.push(cb);
+      if(idxLoading) return;
+      idxLoading = true;
+      fetch('/search-index.json')
+        .then(function(r){ return r.ok ? r.json() : Promise.reject(); })
+        .then(function(data){ idx = data; idxLoading = false; flush(idx); })
+        .catch(function(){ idxLoading = false; flush(null); });
     }
-    renderPick();
-    if(pBody && !reduce){
-      setInterval(function(){
-        pi = (pi + 1) % picks.length;
-        pBody.classList.add('fade');
-        setTimeout(function(){ renderPick(); pBody.classList.remove('fade'); }, 450);
-      }, 5000);
+    function flush(v){ var w = waiters; waiters = []; w.forEach(function(f){ f(v); }); }
+
+    function shuffle(a){
+      for(var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1));
+        var t=a[i]; a[i]=a[j]; a[j]=t; }
+      return a;
+    }
+    function titleCase(s){
+      return String(s).replace(/\b\w/g, function(c){ return c.toUpperCase(); });
     }
 
-    /* ── Random read: jump to a random post anywhere on the site. ── */
-    var idx = null, loading = false;
+    /* ── Editor's pick: real posts. On a post page, prefer posts sharing a
+          tag with the current one; otherwise random posts from the archive. ── */
+    var picks = [], pi = 0;
+    var pBody  = document.getElementById('sbPickBody');
+    var pTitle = document.getElementById('sbPickTitle');
+    var pFrom  = document.getElementById('sbPickFrom');
+
+    function renderPick(){
+      if(!pTitle || !picks.length) return;
+      pTitle.textContent = picks[pi].t;
+      pTitle.setAttribute('href', picks[pi].u);
+      pFrom.textContent = picks[pi].from || '';
+    }
+    function hidePick(){
+      var c = document.querySelector('.sb-pick');
+      if(c) c.style.display = 'none';
+    }
+    function buildPicks(data){
+      var related = [], pool = [];
+      for(var i=0;i<data.length;i++){
+        var e = data[i];
+        if(!e || !e.t || !e.u) continue;
+        if(e.s && e.s === PAGE_SLUG) continue;          // skip the current post
+        if(PAGE_TAGS_LC.length && e.g){
+          for(var j=0;j<PAGE_TAGS_LC.length;j++){
+            if(e.g.indexOf(PAGE_TAGS_LC[j]) !== -1){
+              related.push({t:e.t, u:e.u, from:titleCase(PAGE_TAGS[j])});
+              break;
+            }
+          }
+        }
+        pool.push(e);
+      }
+      var chosen = related.length
+        ? related
+        : pool.map(function(e){ return {t:e.t, u:e.u, from:'From the archive'}; });
+      return shuffle(chosen).slice(0, 8);
+    }
+    function initPick(){
+      getIndex(function(data){
+        if(!data){ hidePick(); return; }
+        picks = buildPicks(data);
+        if(!picks.length){ hidePick(); return; }
+        pi = 0; renderPick();
+        if(pBody && !reduce && picks.length > 1){
+          setInterval(function(){
+            pi = (pi + 1) % picks.length;
+            pBody.classList.add('fade');
+            setTimeout(function(){ renderPick(); pBody.classList.remove('fade'); }, 450);
+          }, 5000);
+        }
+      });
+    }
+    var idle = window.requestIdleCallback || function(f){ return setTimeout(f, 800); };
+    idle(initPick);
+
+    /* ── Random read: jump to a random post, reusing the shared index. ── */
     var rbtn = document.getElementById('sbRandom');
-    function jump(){
-      if(!idx || !idx.length) return;
-      var p = idx[Math.floor(Math.random() * idx.length)];
+    function jump(data){
+      if(!data || !data.length) return;
+      var p = data[Math.floor(Math.random() * data.length)];
       if(p && p.u) window.location.href = p.u;
     }
     if(rbtn){
       rbtn.addEventListener('click', function(){
-        if(idx){ jump(); return; }
-        if(loading) return;
-        loading = true; rbtn.style.opacity = '.6';
-        fetch('/search-index.json')
-          .then(function(r){ return r.ok ? r.json() : Promise.reject(); })
-          .then(function(data){ idx = data; loading = false; rbtn.style.opacity=''; jump(); })
-          .catch(function(){ loading = false; rbtn.style.opacity=''; });
+        if(idx){ jump(idx); return; }
+        rbtn.style.opacity = '.6';
+        getIndex(function(data){ rbtn.style.opacity = ''; jump(data); });
       });
     }
 
