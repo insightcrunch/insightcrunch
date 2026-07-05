@@ -9,7 +9,7 @@ excerpt: "Master 1000 most important UPSC Prelims facts organised subject wise f
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2001-03-07
+last_updated: 2026-07-05
 lang: en
 ---
 The night before Prelims, you do not want a fresh textbook in your hands. You want a tight, trustworthy set of UPSC Prelims facts that you can sweep through in a few focused hours, confident that every point on the page has a real chance of appearing on the answer sheet the next morning. That single need, a curated compendium of the most frequently tested static points across every subject, is what this resource exists to serve. Most aspirants spend two years accumulating knowledge and then panic in the final week because nobody ever taught them how to compress a mountain of reading into a portable core of high-yield points.

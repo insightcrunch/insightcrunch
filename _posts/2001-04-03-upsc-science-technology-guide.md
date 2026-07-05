@@ -9,7 +9,7 @@ excerpt: "UPSC Science and Technology complete guide covering ISRO space, defenc
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
 author: "kavita-sharma"
-last_updated: 2001-04-03
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Science and Technology is the section that quietly decides how many aspirants clear Prelims by a single mark and how many general studies answers in Mains read like a school textbook rather than a policy brief. You have almost certainly felt the peculiar anxiety it produces. You are not a scientist, the syllabus mentions frontier fields you last studied in an undergraduate lecture hall, and every coaching handout seems to bury you under reactor types, satellite names, and gene editing acronyms that refuse to stay in your memory. The result is a strange paralysis where you either ignore the area and gamble on the marks, or you over prepare the wrong way, memorising definitions the examiner never asks for while missing the application angle the examiner always rewards.

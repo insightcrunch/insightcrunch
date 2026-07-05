@@ -9,7 +9,7 @@ excerpt: "UPSC essay topics decoded: fifty high-probability prompts with five-po
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 65
 author: "kavita-sharma"
-last_updated: 2001-03-12
+last_updated: 2026-07-05
 lang: en
 ---
 The single most under-prepared paper in the entire Mains schedule is the one that carries 250 marks and can single-handedly rescue a weak General Studies performance or sink an otherwise strong one. Preparing the right UPSC essay topics in advance is the quiet lever that separates a rescued rank from a ruined one. Most aspirants spend eighteen months mastering polity, economy, and ethics, then walk into the examination hall having written perhaps three or four practice pieces in their entire preparation, hoping that whatever the Union Public Service Commission throws at them will magically suit the raw material sitting in their head. This is why so many candidates who clear the cutoff with room to spare still find their final ranking dragged down by a mediocre score of 100 to 120 out of 250. The truth almost nobody tells you is that strong UPSC essay topics preparation is not about writing talent at all. It is about having a stocked, rehearsed, and battle-tested bank of themes, arguments, examples, and data that you can assemble under exam pressure into a coherent, layered, and memorable argument.

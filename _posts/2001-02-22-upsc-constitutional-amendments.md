@@ -9,7 +9,7 @@ excerpt: "UPSC Constitutional Amendments guide covering major amendments chronol
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2001-02-22
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC Constitutional Amendments form one of the most reliably tested territories in the entire Civil Services Examination, appearing year after year in Prelims through direct factual questions and in Mains through analytical prompts that demand you connect a specific change to the wider constitutional story. The aspirants who treat amendments as a scattered list of numbers to be memorised the night before the paper produce brittle recall that collapses under the slightest twist in phrasing. The aspirants who understand each change as a response to a political moment, a judicial confrontation, or a social demand carry a durable mental map that lets them answer any question, however it is framed. This guide is built to move you from the first group into the second.

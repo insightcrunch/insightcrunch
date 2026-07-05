@@ -9,7 +9,7 @@ excerpt: "UPSC government reports guide covering Economic Survey NITI Aayog ARC 
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2001-03-03
+last_updated: 2026-07-05
 lang: en
 ---
 Government reports are the single most underused scoring resource in UPSC Mains preparation, and the aspirants who learn to read them intelligently gain an advantage that current affairs magazines and coaching notes simply cannot supply. The candidate who cites the Economic Survey, quotes a NITI Aayog framework, or references a Second Administrative Reforms Commission recommendation in a General Studies answer signals to the evaluator a depth of engagement that separates the serious contender from the surface-level writer. The candidate who fills answers with vague assertions and unsourced claims produces content that reads competently but never earns the marks that specific, authoritative substantiation commands. This UPSC government reports guide is built around one goal, which is helping you convert official documents into examination marks efficiently, without drowning in the thousands of pages these publications collectively contain.

@@ -9,7 +9,7 @@ excerpt: "UPSC governance guide covering flagship schemes, e-governance, adminis
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 62
 author: "deepika-joshi"
-last_updated: 2001-03-21
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC governance is the section of the General Studies Paper 2 syllabus where the largest number of aspirants quietly lose marks without ever understanding why. You read about a dozen flagship schemes, you memorise a handful of launch years and ministry names, you feel reasonably prepared, and then the examiner asks you to evaluate whether citizen-centric governance has genuinely improved service delivery, or to link a welfare programme to the constitutional principle it operationalises, and your carefully collected list of schemes turns out to be almost useless. The problem is never that you did not read enough. The problem is that governance rewards a way of thinking that scheme lists cannot supply.

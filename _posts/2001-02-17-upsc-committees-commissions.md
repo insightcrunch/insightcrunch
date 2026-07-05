@@ -9,7 +9,7 @@ excerpt: "Master UPSC committees and commissions from Sarkaria to the ARC: what 
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 61
 author: "anita-das"
-last_updated: 2001-02-17
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC committees and commissions form one of those quiet, high-return corners of the syllabus that separate the aspirant who scores in the mid-nineties on a governance answer from the one who scores in the low sixties. You have almost certainly felt the frustration: you read that the Sarkaria Commission examined Centre-State relations, you underline it, you move on, and three months later you cannot recall whether it recommended sparing use of Article 356 or whether that was some other panel. The names blur together. Sarkaria, Punchhi, Rajamannar, Balwant Rai Mehta, Ashok Mehta, the First and Second Administrative Reforms Commissions, the Finance Commission, the various police reform bodies, the electoral reform committees. There are dozens of them, each with a chairperson, a mandate, a set of recommendations, and a story about whether the government actually listened.

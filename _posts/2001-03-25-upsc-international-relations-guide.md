@@ -9,7 +9,7 @@ excerpt: "UPSC International Relations complete guide covering foreign policy ev
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 62
 author: "anita-das"
-last_updated: 2001-03-25
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC International Relations is the section of the Civil Services syllabus that aspirants most often underestimate and most consistently underperform in, and the reason is almost never a shortage of information. The reason is that International Relations rewards a way of thinking that ordinary current affairs consumption never builds. You can read every foreign policy headline for two years, memorise the membership of every grouping from BRICS to the Quad, and still produce a Mains answer that reads like a newspaper summary rather than the analysis a discerning evaluator wants to reward. That gap between knowing what happened and being able to explain why it matters for India is where most aspirants quietly lose fifteen to twenty marks in General Studies Paper 2, marks that separate a rank inside the reserved list from a rank that converts into an IAS allotment.

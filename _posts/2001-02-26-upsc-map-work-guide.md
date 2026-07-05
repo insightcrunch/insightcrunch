@@ -9,7 +9,7 @@ excerpt: "UPSC map work guide covering places rivers mountain passes national pa
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2001-02-26
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC map work is the single highest-return investment an aspirant can make in the entire geography preparation, because the geographical features that appear on the atlas rarely change while the marks they deliver accumulate across every Prelims attempt and every Mains answer for a lifetime. The aspirant who treats map work as a decorative afterthought, glancing at the atlas the week before Prelims and hoping recognition arrives by osmosis, consistently loses four to eight marks in Prelims to location-based questions and produces flat descriptive Mains answers devoid of spatial grounding. The aspirant who builds systematic familiarity with rivers, mountain passes, national parks, straits and boundaries, revising the same features repeatedly until recall becomes automatic, converts geography from an anxiety-inducing memory burden into the most reliable scoring territory in the whole syllabus. This guide is constructed around that conversion, giving you the complete inventory of frequently tested geographical features together with a repeatable revision technique that fixes locations in long-term memory rather than the fragile short-term storage that collapses under examination pressure.

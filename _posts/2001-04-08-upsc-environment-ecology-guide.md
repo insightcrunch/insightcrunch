@@ -9,7 +9,7 @@ excerpt: "UPSC environment and ecology complete guide covering biodiversity ecos
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 67
 author: "deepika-joshi"
-last_updated: 2001-04-08
+last_updated: 2026-07-05
 lang: en
 ---
 UPSC environment and ecology has quietly become the single most decisive subject in the entire Prelims paper, and if you have been treating it as a peripheral add-on to be crammed in the final month, you are walking into the exam hall with a serious disadvantage you may not even recognise. Over the last decade the number of environment questions in the General Studies Prelims paper has climbed from a handful to fifteen, eighteen, sometimes more than twenty out of a hundred, which means this one topic area now carries the weight of what used to be an entire optional subject. Aspirants who understand this shift build their preparation around it and clear the Prelims cutoff with room to spare. Aspirants who ignore it lose fifteen to twenty marks in a paper where two marks decide whether they see the Mains hall or spend another year at their desks.

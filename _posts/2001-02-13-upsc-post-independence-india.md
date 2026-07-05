@@ -9,7 +9,7 @@ excerpt: "UPSC post-independence India guide on princely states integration, lin
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2001-02-13
+last_updated: 2026-07-05
 lang: en
 ---
 Post-independence India is the one stretch of the syllabus that almost every serious aspirant underprepares, and it is also the stretch that quietly decides marks in both Prelims and Mains. You have probably given the freedom struggle its due, memorising the sessions of the Congress, the phases of Gandhian mass mobilisation, and the constitutional milestones up to 1947. Then, somewhere around the transfer of power, the story goes soft in your notes. The princely states get a paragraph. The Five Year Plans become a list of numbers you never quite trust. The Green Revolution, Non-Alignment, and the 1991 reforms sit as disconnected facts rather than as chapters of a single, coherent narrative about how a poor, fractured, newly free country tried to build itself into a modern republic. This guide exists to close exactly that gap.
