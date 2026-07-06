@@ -6,15 +6,15 @@ date: 2026-07-04
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Paraguay", "Round of 16", "Match Preview"]
 excerpt: "France vs Paraguay in the World Cup 2026 Round of 16: Mbappe and Les Bleus meet the giant-killers who stunned Germany in a tense Philadelphia knockout tie."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-07-04
+lang: en
 ---
-
 Can a defensive masterclass and a hot goalkeeper drag the tournament's most watertight underdog past its most ruthless attack, or does class simply tell in the end? That is the single question hanging over France vs Paraguay in the World Cup 2026 Round of 16, a Philadelphia knockout tie that pits the sharpest finishing team in the competition against the side that has become the story of the summer by refusing to lose. France arrive as tournament favorites, unbeaten, rampant, and led by a captain closing on history. Paraguay arrive with a national holiday still fresh in the memory, having knocked out four-time winners Germany on penalties, and with a plan that has already toppled one European giant. One of these two roads ends on Saturday night, and the other stretches on toward the quarterfinals.
 
-![France vs Paraguay World Cup 2026 Round of 16 preview](/assets/images/blog/blog-01.webp)
+![France vs Paraguay World Cup 2026 Round of 16 preview](/assets/images/blog/blog-22.webp)
 
 The beauty of a single-elimination tie is that it strips a match to its essentials. There is no second leg, no aggregate cushion, no group table to fall back on. Ninety minutes, then extra time, then a shootout if it comes to that, and only one team walks off toward the last eight. France and Paraguay have arrived in Philadelphia from opposite directions and with opposite reputations, and the gap between them on paper could hardly be wider. Yet knockout football has a way of narrowing gaps that looked unbridgeable, and Paraguay have already shown, in the most dramatic fashion possible, that they know exactly how to make a favorite sweat. This preview breaks down how each side reached this stage, what the tactical battle will look like, the individual duels that will settle it, the history that binds the two nations, and a reasoned prediction for who advances.
 

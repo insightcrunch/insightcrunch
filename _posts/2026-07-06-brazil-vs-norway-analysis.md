@@ -6,15 +6,15 @@ date: 2026-07-06
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Norway", "Round of 16", "Match Analysis", "Erling Haaland"]
 excerpt: "Brazil vs Norway analysis: Erling Haaland's second-half brace toppled the five-time champions and carried Norway to a first-ever World Cup 2026 quarterfinal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-07-06
+lang: en
 ---
-
 Brazil lost a World Cup knockout tie they should have settled before the interval, and the scoreline that will follow them out of the tournament reads Brazil 1-2 Norway. This Brazil vs Norway analysis from the World Cup 2026 Round of 16 begins where the match turned, not where it ended, because the decisive act happened in the thirty-eighth minute rather than the seventy-ninth. Orjan Nyland dived low and pushed away Bruno Guimaraes' penalty, and from that save Norway drew the belief that a Haaland brace would later convert into the biggest result their football has ever produced. At the New York New Jersey Stadium in East Rutherford, the five-time champions dominated the ball, missed their moments, and were punished by a side built to wait.
 
-![Brazil vs Norway World Cup 2026 Round of 16 analysis](/assets/images/blog/blog-01.webp)
+![Brazil vs Norway World Cup 2026 Round of 16 analysis](/assets/images/blog/blog-42.webp)
 
 The story that a bare scoreline hides is that Norway did not steal this game. They earned it in the exact places knockout football is decided: the penalty spot, the second-ball scraps, the substitutions bench, and the eleven-minute window between Erling Haaland's header and his low drive when a lacquered, expensive Brazil simply had no answer. Carlo Ancelotti was hired to end a twenty-four-year wait for a sixth star, and instead he oversaw the earliest Brazilian exit in thirty-six years and a sixth successive elimination by European opposition. The inquest starts now. This piece reconstructs how it happened, why the tactical picture broke the way it did, who stood tallest, and what both nations carry forward from a New Jersey afternoon that rewrote Norwegian sporting history.
 

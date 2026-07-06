@@ -6,17 +6,17 @@ date: 2026-07-05
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Brazil", "Norway", "Round of 16", "Match Preview"]
 excerpt: "Brazil vs Norway headlines the World Cup 2026 Round of 16 as five-time champions chase a first ever win over Haaland-led Norway with a quarterfinal at stake."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-07-05
+lang: en
 ---
-
 There is a number that follows Brazil into this Round of 16 tie, and it has nothing to do with their five World Cup titles. It is zero. That is how many times the most decorated nation in the sport's history has beaten Norway on a football pitch. When Brazil vs Norway kicks off at MetLife Stadium in East Rutherford on Sunday, July 5, the five-time champions will try to end that peculiar drought at the worst possible moment to fail, because a place in the World Cup 2026 quarterfinals rides on the result. Win, and Carlo Ancelotti's side march on toward a record-extending sixth title. Lose, and one of the tournament's grandest campaigns ends against a Scandinavian team that has spent three decades being nobody's idea of a superpower and now arrives with the most feared striker in the world leading its line.
 
 That striker is Erling Haaland, and he is the reason this tie carries the charge it does. Norway have not appeared at a World Cup since 1998. They ended a 28-year absence to reach the United States this summer, and rather than treat the occasion as a reward in itself, they have turned it into a genuine threat to the tournament's aristocracy. Haaland has scored five goals already. He has kept the Golden Boot race alive. And he brings with him a piece of history so improbable that Brazilian supporters would rather not hear it repeated: Norway is the only country on earth to have faced Brazil and never lost, a run of two wins and two draws across four meetings that includes one of the most famous upsets in World Cup memory.
 
-![Brazil vs Norway World Cup 2026 Round of 16 preview](/assets/images/blog/blog-01.webp)
+![Brazil vs Norway World Cup 2026 Round of 16 preview](/assets/images/blog/blog-04.webp)
 
 This preview breaks down everything that matters before kickoff: how each side reached the last 16, why the head-to-head record refuses to die, the tactical duel that will decide the tie, the team news shaping both lineups, the Golden Boot subplot running underneath it all, and a prediction grounded in what we know before a ball is kicked. Nothing here reveals the outcome, because at the time of writing the outcome has not been decided. What follows is the case for Brazil, the case for Norway, and an honest read on where the balance sits.
 
