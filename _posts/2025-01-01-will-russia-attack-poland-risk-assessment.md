@@ -6,17 +6,17 @@ date: 2025-01-01
 categories: ["Industry"]
 tags: ["Poland Security", "Russian Military", "NATO", "Eastern Flank", "Deterrence", "Military Analysis"]
 excerpt: "Will Russia attack Poland? A sober four-factor assessment of capability, intent, opportunity, and cost, judging the real odds of a deliberate armed strike."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2025-01-01
+lang: en
 ---
-
 Will Russia attack Poland? The honest answer is not a yes or a no but a probability held at a stated level of confidence, and the difference between those two kinds of answer is the whole point of this assessment. A headline can tell you that the eastern flank is dangerous and that Polish officials speak of preparing for the worst. What a headline cannot give you is a way to judge how heavily that danger should weigh on a decision, how a reasonable analyst would band it, and which specific things would push the judgment up or down. That is the work this article does. It treats the top-line question the way the front page of a national estimate would treat it: as a reasoned judgment built from parts, each part examined on its own, then combined into a verdict you can carry into a debate, a briefing, or your own thinking and revise as conditions change.
 
 The central tension runs through everything that follows. Two readings dominate public conversation, and both are wrong in the same way, by being too certain. One reading treats a Russian attack on Poland as effectively imminent, a matter of when and not whether, and reasons backward from that conviction to every troop movement and every hostile speech. The other treats Poland's membership in the alliance as a settled shield that drops the danger to zero, so that the question answers itself and needs no further thought. The defensible position sits between them and is harder to hold because it refuses the comfort of either certainty: the risk of a deliberate armed attack on Polish territory is low, but it is not zero, it is conditional on factors that can be watched, and it deserves neither panic nor dismissal.
 
-![Will Russia attack Poland, a four-factor risk assessment of capability, intent, opportunity, and cost - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Will Russia attack Poland, a four-factor risk assessment of capability, intent, opportunity, and cost - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 ## Will Russia Attack Poland? What the Question Actually Asks
 
