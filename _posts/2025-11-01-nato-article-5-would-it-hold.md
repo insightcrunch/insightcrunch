@@ -6,15 +6,15 @@ date: 2025-11-01
 categories: ["Industry"]
 tags: ["Poland Security", "NATO", "Article 5", "Deterrence", "Eastern Flank", "European Security"]
 excerpt: "A structured assessment of whether NATO Article 5 would actually hold for Poland, treating the collective-defense guarantee as a product of three factors."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2025-11-01
+lang: en
 ---
-
 Every serious estimate of Russian risk to Poland eventually reaches one question, and it is not the question most coverage spends its time on. The interesting problem is not whether Russia has forces near the border, or whether Kaliningrad bristles with standoff weapons, or whether the Suwalki corridor is narrow. Those are inputs. The question that decides what all of them mean is whether NATO Article 5, the collective-defense promise at the center of the alliance, would actually function if Poland were attacked. If the guarantee holds, an attack on Poland is an attack on the strongest military coalition in history, and the calculation that faces any adversary is transformed. If the guarantee is soft, everything downstream of it is softer too. This article treats that question as what it is: the credibility judgment at the front of an alliance estimate, not a treaty explainer and not a slogan.
 
-![NATO Article 5 credibility for Poland, a collective-defense assessment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![NATO Article 5 credibility for Poland, a collective-defense assessment - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 The honest answer is neither of the two answers that circulate most. It is not the confident answer, that Article 5 is an automatic tripwire to full-scale war and therefore ironclad. It is not the cynical answer, that Article 5 is a piece of paper that no one would honor when the shooting started. The answer this assessment defends is that the guarantee's strength is conditional and, more usefully, that its strength can be decomposed, judged, and to a real degree built in advance. Article 5 credibility is not a coin that either lands heads or tails. It is a product of three separable factors, and the discipline of pulling them apart is what lets a reader move from anxiety or complacency to something closer to judgment.
 
