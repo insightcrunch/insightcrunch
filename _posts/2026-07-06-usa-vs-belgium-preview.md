@@ -7,14 +7,14 @@ last_updated: 2026-07-06
 excerpt: "USA vs Belgium in the World Cup 2026 Round of 16: co-hosts the United States meet Belgium in Seattle with a quarterfinal place and old history on the line."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 tags: ["World Cup 2026", "USA", "Belgium", "Round of 16", "Knockout Stage", "Match Preview"]
 reading_time: 69
+lang: en
 ---
-
 Can the last co-host still standing on home soil talk itself into believing that this is finally the night the ceiling breaks? That is the question hanging over Seattle as the United States and Belgium meet in the World Cup 2026 Round of 16, a single-elimination knockout with a quarterfinal place waiting for whoever survives ninety minutes, or however long it takes. For the Americans, the fixture carries a weight that no group game could match. Win, and Mauricio Pochettino's side reaches the last eight of a World Cup for the first time since 2002, a drought long enough that most of the current squad were children when it began. Lose, and a home tournament that has flickered with genuine promise ends at the same stage it has ended at so often before, with the familiar ache of a nation that keeps arriving at the door of the quarterfinals and keeps being turned away.
 
-![USA vs Belgium World Cup 2026 Round of 16 preview](/assets/images/blog/blog-01.webp)
+![USA vs Belgium World Cup 2026 Round of 16 preview](/assets/images/blog/blog-59.webp)
 
 Belgium know that door well, because twelve years ago they were the ones who closed it. The two nations have not met at a World Cup since their Round of 16 tie at Brazil 2014, a night in Salvador that ended American hearts and made a folk hero out of a goalkeeper. That result belongs to a different generation of both teams, but it hangs over this reunion all the same, the kind of history that a knockout draw seems to conjure on purpose. This preview lays out everything that can be known before kickoff at Seattle Stadium: how each side reached this stage, the tactical questions Pochettino and Rudi Garcia must answer, the players most likely to decide it, the venue and the conditions, and the pathway that opens for the winner. What it will not do is tell you the result, because at the moment of writing there is no result to tell, only two teams, a full stadium, and everything still to play for.
 

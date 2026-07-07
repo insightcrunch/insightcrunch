@@ -6,15 +6,15 @@ date: 2026-07-07
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Portugal", "Spain", "Round of 16", "Match Analysis"]
 excerpt: "Portugal vs Spain analysis: Mikel Merino's stoppage-time winner sent Spain into the World Cup 2026 quarterfinals and ended Cristiano Ronaldo's tournament."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-07-07
+lang: en
 ---
-
 For eighty-nine minutes this Portugal vs Spain World Cup 2026 Round of 16 tie in Dallas looked destined to be settled by the smallest of margins or by no margin at all, a chess match between two Iberian neighbors who know each other far too well to be surprised by anything. Then Luis de la Fuente's bench decided it. Ferran Torres, on as a substitute, slid a pass into the six-yard box, and Mikel Merino, another substitute, met it with a cool left-footed finish in the first minute of second-half stoppage time. Spain won 1-0, reached the quarterfinals, and sent Cristiano Ronaldo out of his final World Cup in tears at the AT&T Stadium.
 
-![Portugal vs Spain World Cup 2026 Round of 16 analysis](/assets/images/blog/blog-01.webp)
+![Portugal vs Spain World Cup 2026 Round of 16 analysis](/assets/images/blog/blog-53.webp)
 
 The single thing that explains this result is patience rewarded. Spain did not blow Portugal away, and for long stretches the game had the slow, careful rhythm of two sides more afraid of losing than desperate to win. But the European champions carried the greater threat throughout, built an expected-goals advantage that grew as the night wore on, and had the deeper, more incisive options to change the picture late. When the deadlock finally broke, it broke in the direction the balance of play had been pointing all along. That is the story of the match, and everything that follows is the detail behind it: how the game was shaped, why Portugal could not turn possession into clear chances, how de la Fuente's two decisive changes reshaped the final quarter, and what a 1-0 win on the margins means for a Spain side that still has not conceded a goal at this tournament and now stands two victories from a final.
 

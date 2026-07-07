@@ -6,13 +6,13 @@ date: 2025-08-01
 categories: ["Industry"]
 tags: ["Poland Security", "Kaliningrad", "Military Analysis", "Russian Military", "NATO", "Eastern Flank"]
 excerpt: "The Kaliningrad A2/AD bubble is a cost-imposition tool, not an impenetrable dome. A layered look at what it denies, how far it reaches, and how it holds up."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2025-08-01
+lang: en
 ---
-
-![The A2/AD bubble over Kaliningrad, a capability analysis of Russia's anti-access denial complex - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The A2/AD bubble over Kaliningrad, a capability analysis of Russia's anti-access denial complex - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The single question that should organize any serious look at the A2/AD bubble over Kaliningrad is not whether the alliance can enter the airspace and waters the exclave contests. It can. The question is what that entry costs, how long the contest holds under pressure, and how much of the reputation attached to the bubble survives contact with a capable air and naval force that has planned against it for years. Those are capability questions, and they have capability answers, most of them more sober than the map that circulates online with a red ring drawn around the exclave and the words "no-go zone" printed inside it.
 

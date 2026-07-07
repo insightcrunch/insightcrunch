@@ -6,15 +6,15 @@ date: 2025-08-11
 categories: ["Industry"]
 tags: ["Poland Security", "Kaliningrad", "Russian Military", "Military Analysis", "European Security", "Eastern Flank", "Nuclear"]
 excerpt: "Iskander missiles in Kaliningrad weigh more as a signal than as tonnage. A sober capability profile of what the strike system can reach and what it cannot."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2025-08-11
+lang: en
 ---
-
 The most decision-relevant question about Iskander missiles in Kaliningrad is not how far they fly. It is what a road-mobile, dual-capable strike system, based in a small piece of Russian territory wedged between two alliance members, actually does to the way a crisis on the eastern flank would be reasoned about. That is a different question from range, and it produces a different answer. Range tells you which cities and bases sit inside a circle on a map. It does not tell you whether the weapon changes the balance, whether its presence is a genuine shift in the military problem or a familiar piece of signaling, or how much of the recurring alarm around it is proportionate to what the system can really do. Those are the questions a minister's staffer, an analyst building a flank assessment, or an informed reader trying to separate the serious from the theatrical actually needs answered, and they are the questions this profile is built to answer.
 
-![Iskander missiles in Kaliningrad, a strike-system capability analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Iskander missiles in Kaliningrad, a strike-system capability analysis - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 The system deserves this care because it sits at the intersection of two things that are easy to confuse: physical reach and political weight. The Iskander is a real capability with real effects, and pretending otherwise is its own kind of error. It is also the single system most likely to be waved around in a headline, most likely to be drawn as a menacing arc across a map, and most likely to be treated as if its mere existence settled the question of whether the flank can be defended. Both readings, the one that dismisses it as just another rocket and the one that treats it as a war-winning trump card, fail the same basic test: they skip the work of asking what the weapon is for, what it can hold at risk, and how its conventional role, its nuclear-capable ambiguity, and its mobility combine into a single instrument of pressure. This article does that work. It treats the Iskander as three effects bundled into one launcher, assesses each on its own terms, and reaches a judgment about which of the three carries the most weight.
 

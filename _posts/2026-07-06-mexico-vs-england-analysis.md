@@ -6,15 +6,15 @@ date: 2026-07-06
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Mexico", "England", "Round of 16", "Analysis", "Leisure"]
 excerpt: "Mexico vs England World Cup 2026 analysis: how ten-man England survived a red card at the raucous Azteca, won a wild 3-2, and reached the quarterfinals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-07-06
+lang: en
 ---
-
 The single thing that explains Mexico vs England at World Cup 2026 is not England's quality, though there was plenty of it, and not the altitude, though the thin air of Mexico City tested every English lung. It is resolve. England went to the Estadio Azteca, silenced a crowd of 80,824 with two Jude Bellingham goals in ninety-eight seconds, lost Jarell Quansah to a straight red card in the fifty-fourth minute, and then defended for more than forty minutes with ten men against the co-hosts on the one ground where Mexico had never lost a World Cup match. They emerged 3-2 winners, and the story of how they did it is a story about what a team is made of when comfort is stripped away and only character is left.
 
-![Mexico vs England World Cup 2026 analysis](/assets/images/blog/blog-01.webp)
+![Mexico vs England World Cup 2026 analysis](/assets/images/blog/blog-51.webp)
 
 This is the analysis of a knockout tie that will be remembered as one of the games of the tournament, a five-goal Round of 16 classic decided by two penalties, one sending-off, and a defensive rearguard that refused to break. England reach the quarterfinals and a meeting with Norway. Mexico go home, their unbeaten run and their clean-sheet record both ended on the same wild night, their dream of a first quarterfinal since 1986 extinguished in the very stadium where that dream was last alive. The namable truth of the evening is simple and it runs through everything below: England's resolve with ten men, not any late comfort, carried them through.
 

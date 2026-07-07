@@ -6,15 +6,15 @@ date: 2026-07-06
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Portugal", "Spain", "Round of 16", "Match Preview"]
 excerpt: "Portugal vs Spain World Cup 2026 Round of 16 preview: prediction, predicted lineups, Iberian derby history and the one duel that decides the tie in Dallas."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-07-06
+lang: en
 ---
-
 Can Spain's unbroken back line survive ninety minutes of Cristiano Ronaldo's last stand, or does the reigning European champion simply have too much control for Portugal to live with? That is the question Portugal vs Spain poses in the World Cup 2026 Round of 16, an Iberian derby dropped into the knockout bracket far earlier than either nation wanted, with a quarterfinal place waiting for the winner and a tournament ending for the loser. When the two neighbors meet in Dallas on Monday, July 6, there is no group table to soften the result, no second leg to correct a bad afternoon. One of these heavyweights goes home by nightfall.
 
-![Portugal vs Spain World Cup 2026 Round of 16 preview](/assets/images/blog/blog-01.webp)
+![Portugal vs Spain World Cup 2026 Round of 16 preview](/assets/images/blog/blog-55.webp)
 
 The framing writes itself and yet undersells the tactical puzzle underneath. Spain arrive as the tournament's most complete team so far, a side that has not conceded a goal across four matches and that dismantled Austria in the previous round with the ease of a team hitting its stride at exactly the right moment. Portugal arrive carrying a different kind of weight: the sense that this squad, blessed with world-class players in almost every position, has flattered to deceive, and that the clock on Ronaldo's international career is running down to its final minutes. A derby that has spanned more than a century now reduces to a single elimination afternoon in Texas, and the gap between the pre-tournament billing and the pre-tournament form is exactly what makes it so hard to call.
 

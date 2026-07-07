@@ -6,15 +6,15 @@ date: 2025-10-11
 categories: ["Industry"]
 tags: ["Poland Security", "Kaliningrad", "Military Analysis", "Russia", "Eastern Flank", "NATO"]
 excerpt: "Reading Russian moves in Kaliningrad means sorting routine drills and deliberate signals from a genuine warning by judging every deployment against a baseline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2025-10-11
+lang: en
 ---
-
 Reading Russian moves in Kaliningrad is one of the hardest and most consequential interpretive tasks on the eastern flank, because the exclave generates a constant stream of military activity and almost none of it, taken on its own, tells you what you want to know. A convoy moves. An air-defense unit changes location. A missile brigade exercises. A naval detachment sorties into the Baltic. A state broadcaster runs footage of hardware. Each of these events can be reported as alarming, and each can also be entirely routine. The analyst's problem is not a shortage of observable activity in the exclave. It is a flood of it, most of which is background, some of which is theater staged precisely to be seen, and a small residue of which would be a real warning if you could pick it out from the rest.
 
-![Reading Russian moves in Kaliningrad](/assets/images/blog/blog-01.webp)
+![Reading Russian moves in Kaliningrad](/assets/images/blog/blog-98.webp)
 
 This article is about how to do that picking. It is an indicators and warning piece, which means its subject is not whether the exclave is dangerous, a question its parent pillar on [Kaliningrad as Russia's dagger in NATO's side](/2025/07/21/kaliningrad-russia-dagger-in-nato/) already treats at length, but how to interpret what happens there over time without being whipsawed by every headline. The discipline it teaches is baseline-relative reading: you do not judge an event by how dramatic it looks, you judge it by how far it departs from what the exclave normally does. That single reframing is the difference between an analyst who tracks the exclave and a reader who reacts to it.
 
