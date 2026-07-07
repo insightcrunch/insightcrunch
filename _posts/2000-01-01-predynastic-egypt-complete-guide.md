@@ -6,17 +6,17 @@ date: 2000-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Predynastic Egypt", "Ancient Egypt", "Naqada", "Archaeology", "World History"]
 excerpt: "Predynastic Egypt covers the fifteen hundred years before the pharaohs, when Nile farming villages grew into the Naqada chiefdoms that made a kingdom."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 76
-author: "amanda-ross"
+author: "Insight Crunch Team"
 last_updated: 2000-01-01
-lang: en
 ---
+
 Say the words "ancient Egypt" and most minds jump straight to pyramids, pharaohs, and golden death masks. Yet the civilization that produced those things did not begin with them. It began roughly fifteen centuries earlier, in a stretch of the Nile valley where no king wore the double crown, no hieroglyphs were carved into temple walls, and there was no unified state at all. This is Predynastic Egypt, the long formative age that runs from the first farming villages of the Nile down to the moment, around 3100 BCE, when Upper and Lower Egypt were welded into a single kingdom. Everything a later reader recognizes as Egyptian, the god-king, the mummy, the monumental tomb, the writing, the obsession with the afterlife, grew out of this era. Skip it, and you are watching a play from the second act, wondering why the characters already know their lines.
 
 The problem with most accounts of this period is that they treat it as a vague prologue, a paragraph of "farmers settled along the river and eventually kings appeared" before hurrying on to the pyramids. That framing hides the single most interesting thing about early Egypt, which is that a state is not a natural object. It has to be built, and Egypt built one out of scattered mudbrick villages over about a thousand years of gradual, uneven, entirely human work. This guide treats the Predynastic as what it actually was: a coherent story with a beginning, a shape, and an engine of change, told through the evidence that survives and honest about where that evidence runs thin.
 
-![Predynastic Egypt explained, the fifteen hundred years before the pharaohs - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Predynastic Egypt explained, the fifteen hundred years before the pharaohs - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 By the end you should be able to date the major phases, place any early Egyptian object or claim on the timeline, explain how competing chiefdoms consolidated into one kingship, and correct the most common misconception of all, the idea that Egyptian civilization sprang up suddenly and fully formed. It did not. It escalated, phase by phase, and that escalation is the real subject here.
 
