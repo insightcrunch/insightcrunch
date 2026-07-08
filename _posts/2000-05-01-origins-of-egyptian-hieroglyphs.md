@@ -6,17 +6,17 @@ date: 2000-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hieroglyphs", "Predynastic Egypt", "Ancient Egypt", "Archaeology"]
 excerpt: "Egyptian hieroglyphs began not as sacred art but as bookkeeping. Discover when writing appeared, why it was invented, and how the script really worked."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2000-05-01
+lang: en
 ---
-
 The popular picture of Egyptian hieroglyphs is a wall of mystical bird-and-eye symbols carved by priests to guard sacred secrets. That picture gets the origin of writing almost exactly backward. The earliest signs in the Nile Valley were not sacred at all. They were tags on jars, marks on labels, and names stamped on royal property, scratched into bone and ivory to answer the least romantic questions a growing state can ask: how much, from where, belonging to whom. Writing in Egypt was born in the storeroom before it ever reached the temple wall, and understanding that sequence is the difference between knowing what hieroglyphs looked like and knowing what they were for.
 
 This article sets out to replace the mystery-channel image with a working account of how Egyptian writing actually began: when the first signs appear in the archaeological record, why a society reaches for a script at all, what those earliest marks were used to do, and how a system that looks like a gallery of little pictures turned into a full writing system capable of recording sound, grammar, poetry, and law. It also takes on the two questions readers most want settled. Were hieroglyphs pictures or real writing? And did Egypt or Mesopotamia get there first? Both answers are more interesting than the confident version usually handed out, and both reward a careful look at the evidence rather than the legend.
 
-![The origins of Egyptian hieroglyphs, when writing began and why - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The origins of Egyptian hieroglyphs, when writing began and why - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 ## What hieroglyphs were, and where the first signs come from
 

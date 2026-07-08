@@ -6,15 +6,15 @@ date: 2000-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Predynastic Egypt", "Religion", "Ancient Egypt", "Pharaohs", "Archaeology"]
 excerpt: "The first gods of ancient Egypt rose from Predynastic graves and animal cults, and Horus bound belief to kingship long before the earliest temples stood."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2000-06-01
+lang: en
 ---
-
 The story of the first gods of ancient Egypt does not begin in a temple. It begins in a grave. Centuries before priests moved through stone sanctuaries at Thebes or Heliopolis, and long before the falcon god Horus perched atop a king's name in carved script, Nile villagers were laying their dead on their sides in shallow desert pits, knees drawn up toward the chest, and packing the space around the body with pots, beads, palettes, and food. Those graves are the oldest surviving argument that the people of the valley expected something to continue after death, and that they were prepared to spend real labor and real wealth to prepare for it. The gods came out of that expectation, out of the river's rhythms, and out of the animals the villagers hunted, herded, and feared, and by the time the first kings scratched their names onto pottery those gods were already tangled up with royal power in a way that would define Egyptian religion for three thousand years.
 
-![First gods of ancient Egypt and Predynastic religion, from grave belief to Horus and kingship, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![First gods of ancient Egypt and Predynastic religion, from grave belief to Horus and kingship, explained - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 This article reconstructs the earliest layer of Egyptian religious thought: the deities that can be traced or reasonably inferred before the pyramid age, the burial customs that reveal what people hoped for after death, the reverence for animals that runs through the whole system, and the single fact that shaped everything that followed, which is that the living king was identified with a god from the earliest evidence we have. That claim, that religion and monarchy were fused at the root rather than joined later, is the through-line here. It is why a study of the first gods is not a quaint prologue to the "real" Egypt of pharaohs and temples but the foundation on which the pharaonic state was built. The [complete guide to Predynastic Egypt](/2000/01/01/predynastic-egypt-complete-guide/) sets out the social and political scaffolding of the period; this article supplies the belief system that grew inside it.
 

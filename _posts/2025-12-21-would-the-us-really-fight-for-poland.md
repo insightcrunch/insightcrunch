@@ -6,17 +6,17 @@ date: 2025-12-21
 categories: ["Industry"]
 tags: ["Poland Security", "NATO", "Defense Policy", "European Security", "Eastern Flank", "Deterrence"]
 excerpt: "Would the US fight for Poland? A sober assessment of American resolve, weighing treaty commitment, forward forces, domestic politics, and burden-sharing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2025-12-21
+lang: en
 ---
-
 Whether the US would fight for Poland is, in the end, the question every other question in the eastern-flank debate leans on. A reader can settle the geography of the Suwalki corridor, count the battlegroups on the map, and rehearse the treaty text word for word, and still be left with the single doubt that decides the rest: if the moment came, would Washington actually send Americans into a war to defend a country a third of the way around the world. Every deterrence calculation, every reinforcement timeline, every judgment about whether Article 5 holds ultimately rests on an assessment of American will. Get that assessment wrong in either direction and the rest of the analysis collapses.
 
 The honest answer is neither the reassurance that the commitment is automatic nor the warning that it is about to dissolve. Both of those are lazy readings that skip the work. The commitment is a structure with moving parts, some of them fixed in concrete and some of them subject to the weather of domestic politics, and the only useful assessment is one that separates the two and weighs each on its own terms. This article does that. It treats resolve not as a mood to be guessed at from headlines but as a system built from treaty language, forward-deployed forces, decades of integration, and a domestic political consensus that is more durable than it looks from any single news cycle. The aim is to leave a reader able to judge the question for themselves, and to know which parts of the commitment are load-bearing and which are noise.
 
-![American resolve to defend Poland, a defense analysis of the US Article 5 commitment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![American resolve to defend Poland, a defense analysis of the US Article 5 commitment - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 ## Would the US Fight for Poland? Separating Structure From Sentiment
 

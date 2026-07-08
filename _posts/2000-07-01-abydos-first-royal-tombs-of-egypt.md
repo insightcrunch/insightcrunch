@@ -6,15 +6,15 @@ date: 2000-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Early Dynastic", "Ancient Egypt", "Pyramids", "Archaeology", "Pharaohs"]
 excerpt: "Abydos holds Egypt's first royal tombs, from Tomb U-j to the First Dynasty kings, and its mastabas began the architectural line that led to the pyramids."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2000-07-01
+lang: en
 ---
-
 Ask most people where Egyptian royal architecture begins and they will point at Giza, at the three great pyramids on the plateau above modern Cairo. That answer is off by several centuries and roughly three hundred miles. Egyptian royal architecture begins at Abydos, a stretch of low desert on the west bank of the Nile in Upper Egypt, where the earliest kings of a newly unified country cut their burial pits into the sand, roofed them in mudbrick, and marked them with the first monumental statement any Egyptian ruler ever made about death and power. The first royal tombs of Egypt are here, in a cemetery called Umm el-Qaab, and the modest brick structures raised above them carry a form, the mastaba, that later generations would stack, sheath in stone, and enlarge into the pyramid. The pyramid age does not start at Giza. It starts, conceptually and architecturally, at Abydos.
 
-![Abydos and Egypt's first royal tombs at Umm el-Qaab, where the mastaba form began the line that led to the pyramids - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Abydos and Egypt's first royal tombs at Umm el-Qaab, where the mastaba form began the line that led to the pyramids - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 This matters because it corrects one of the most persistent distortions in popular Egyptian history: the sense that pyramids sprang fully formed out of nowhere, an inexplicable leap of genius with no ancestry. They did not. They have a lineage, and the lineage is legible in the ground at Abydos, running from a simple oval pit in the Predynastic desert to a brick-lined chamber, to a bench-shaped superstructure, to the stacked terraces of the first pyramid, to the smooth-sided giants of the Fourth Dynasty. Every stage in that sequence is a solvable engineering and religious problem, and the first solutions were worked out here, over the two centuries or so of the First and Second Dynasties, by kings whose names most readers have never heard. Understanding Abydos is understanding the workshop where Egyptian monumental architecture was invented, before it became famous.
 

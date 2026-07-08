@@ -6,17 +6,17 @@ date: 2000-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Predynastic Egypt", "Archaeology", "Ancient Egypt", "Historiography", "World History"]
 excerpt: "How we know about Predynastic Egypt: cemeteries, sequence dating, radiocarbon, and later king lists, and how far each of those sources can be trusted."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2000-09-01
+lang: en
 ---
-
 How we know about Predynastic Egypt is a harder question than it first sounds, because the roughly fifteen centuries before the pyramids left almost no writing, no royal chronicle a reader can open, and no single labeled monument a visitor can stand in front of and simply read. Everything a modern account states about the Nile farmers who slowly fused into the first kingdom rests on a quieter kind of testimony: the way a body was laid in a pit, the shape and surface of a clay pot, the decay of carbon inside a fragment of charcoal, and a small number of much later documents in which Egyptians looked back across two thousand years at their own origins and tried to reconstruct them. This article is about that testimony. It explains how the material was found, how specialists learned to read it, and, above all, how far each strand can carry the weight that popular accounts routinely pile onto it.
 
 The honest short answer is that the picture of Predynastic Egypt is assembled almost entirely from objects rather than words, and mostly from objects buried with the dead. That single fact shapes everything a careful reader should expect from the period, its strengths and its silences alike, and it is the thread this whole guide follows.
 
-![How we know about Predynastic Egypt through cemeteries, sequence dating, and radiocarbon, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How we know about Predynastic Egypt through cemeteries, sequence dating, and radiocarbon, explained - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The stakes here are larger than one obscure era. Predynastic Egypt is the test case for a general problem in the study of the human past: how anyone knows anything at all about a society that did not yet write, or wrote so little that its own voice barely survives. The methods worked out on Egyptian graves and pottery, especially the technique of ordering objects into a relative sequence, went on to influence how prehistorians everywhere handle sites with no dated inscriptions. So a reader who follows the reasoning below leaves with two things at once: a grasp of how the Egyptian story before the pharaohs was recovered, and a working sense of source criticism that applies to any preliterate past. That transferable skill, the ability to ask what a given find can and cannot prove, is the real product of this article, and it is worth far more than a memorized list of site names.
 
