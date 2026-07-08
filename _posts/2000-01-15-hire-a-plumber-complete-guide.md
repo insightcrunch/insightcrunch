@@ -6,15 +6,15 @@ date: 2000-01-15
 categories: ["Industry"]
 tags: ["Home Services", "Plumbing", "Hiring Guide", "Consumer Protection", "DIY"]
 excerpt: "Learn how to hire a plumber with confidence: match the job to the right specialist, confirm the license, get the scope in writing, and avoid a costly hire."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2000-01-15
+lang: en
 ---
-
 The moment a pipe starts dripping under the sink or a drain refuses to clear, most people reach for a search bar and pick the first name that shows up, and that single reflex is where the trouble starts. Learning how to hire a plumber well is not about finding a phone number faster than your neighbor did. It is about controlling five decisions that quietly determine whether the visit goes smoothly and fairly or turns into a bloated bill, a botched repair, and a second call to fix the first one. The reader who treats the hire as a form to fill out gets whatever the market hands them. The reader who treats it as a decision they run keeps the leverage, the money, and the standard of work on their side of the table.
 
-![How to hire a plumber, a homeowner's decision guide to matching the job to the right specialist and verifying the license - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to hire a plumber, a homeowner's decision guide to matching the job to the right specialist and verifying the license - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 This guide is the hub for a whole cluster of plumbing articles, and it is built to do one job better than any directory listing or company brochure can: turn a stressed householder who has never booked a plumber into someone who can direct the entire hire with a level head. It refuses to describe plumbing in the abstract, because you do not need another paragraph explaining that a plumber fixes water problems. You need to know whether the job you are facing calls for a licensed pro or a handyman, which of several plumber specialties fits your situation, how the money is likely to be structured before a single quote lands in your inbox, how to spot a real operator in under a minute, and what to have staged before you dial. Everything else is detail that hangs off those decisions, and the deeper detail lives in the specialist articles this pillar points you toward.
 
