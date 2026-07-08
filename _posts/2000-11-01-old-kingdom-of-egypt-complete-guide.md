@@ -6,15 +6,15 @@ date: 2000-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Ancient Egypt", "Pharaohs", "Pyramids"]
 excerpt: "The Old Kingdom of Egypt built the pyramids and ran a centralized god-king state on Nile surplus from circa 2686 to 2181 BCE, then fell into fragmentation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2000-11-01
+lang: en
 ---
-
 The Old Kingdom of Egypt is the period when a single valley kingdom learned to convert grain into stone, and in doing so raised the largest buildings any human society would attempt for the next four thousand years. The usual shorthand calls it the Age of the Pyramids, and the pyramids are the right place to start, because nothing else on earth in the third millennium BCE looked remotely like the plateau at Giza. But the pyramids are the output, not the explanation. The real subject of this era is the machine that produced them: a state that gathered the surplus of the Nile floodplain, concentrated it in the hands of a king who was treated as a living link to the gods, and spent it on projects that no earlier society had the organization to imagine. Understand that machine, its ambitions and its built-in weaknesses, and the pyramids stop being a mystery and become a consequence.
 
-![How the Old Kingdom of Egypt built the pyramids and why it collapsed, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Old Kingdom of Egypt built the pyramids and why it collapsed, explained - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 This guide treats the Old Kingdom as a working system with a rise, a peak, a strain, and a fall, rather than as a gallery of monuments to admire. Across roughly five centuries, from about 2686 to 2181 BCE, Egypt ran through four dynasties, numbered the Third through the Sixth in the scheme inherited from the priest Manetho. Those five centuries contain the sharpest experiment in centralized power the ancient world had yet produced, and they end with that same power fracturing into a patchwork of local rulers. The argument running through this article is that these two facts are the same story told twice. The concentration of authority that let one king command the labor of tens of thousands to build a pyramid was the very thing that, once the fiscal and provincial pressures mounted, had no fallback when the center weakened. Strength and collapse grew from a single root. Call it the centralization paradox, and it is the frame that makes the whole period cohere.
 
