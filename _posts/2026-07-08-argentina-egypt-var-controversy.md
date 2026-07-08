@@ -18,6 +18,8 @@ Some World Cup matches are remembered for a goal. This one will be remembered fo
 
 The purpose of this article is not to declare a villain. It is to lay out, as fairly and completely as possible, exactly what happened, what the laws of the game actually say, what each side has claimed, where reasonable analysts disagree, and why a single VAR intervention in Georgia has spilled so far beyond the touchline. There are strong opinions on every side of this, some of them contradictory, and the honest position is that several of the flashpoints are genuinely arguable rather than obviously right or wrong. That ambiguity is precisely why the row has grown rather than faded.
 
+{% include tweet.html id='2074545272177275164' %}
+
 What is not in dispute is the scoreline and the sequence. Egypt led. Egypt looked, for a long stretch, like the team about to author the upset of the tournament. And then, inside the final quarter of an hour, everything the Pharaohs had built came apart, with a refereeing call sitting at the center of the collapse in the eyes of a furious nation. Whether that call was correct, defensible, inconsistent, or something more troubling depends on which expert you ask and which replay you trust. This is the anatomy of that argument.
 
 ## The match that set the stage
@@ -27,6 +29,8 @@ To understand the controversy, you first have to understand how tantalizingly cl
 Egypt struck first through a Yasser Ibrahim header inside the opening twenty minutes, and then produced the moment that should have defined their day for the right reasons. Mostafa Shobeir, the Egyptian goalkeeper, saved a first half penalty from Lionel Messi, one of several outstanding stops he made before the interval. For an hour and more, a disciplined, well organized Egyptian block frustrated the world champions, restricting Messi and company to shots from distance and hopeful crosses. When the second goal arrived, it looked like the platform for something unforgettable.
 
 Instead, that second goal became the fuse. Its disallowing, the manner of it, and everything that followed transformed a brave underdog performance into a grievance that Egypt has taken all the way to football's governing body. Argentina, for their part, did what great sides do. Cristian Romero pulled one back with a header in the 79th minute, Messi levelled four minutes later with his 21st career World Cup goal, and Enzo Fernandez completed the turnaround deep into stoppage time. The champions escaped. But the questions they left behind have refused to go quiet.
+
+{% include tweet.html id='2074546433748042222' %}
 
 ## The flashpoint: a goal, a celebration, and a reversal
 
