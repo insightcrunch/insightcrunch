@@ -14,6 +14,8 @@ lang: en
 ---
 France are through to the quarterfinals of the World Cup 2026, and they got there the hard way. On a sweltering July evening in Philadelphia, with an extreme heat warning pushing the on-field temperature toward 100 degrees Fahrenheit, Les Bleus beat Paraguay 1-0 in a Round of 16 tie that tested their patience far more than their talent. The single goal came from the penalty spot in the 70th minute, struck by Kylian Mbappe after substitute Desire Doue was felled inside the box and a lengthy video review sent Uzbek referee Ilgiz Tantashev to the pitchside monitor. One decision, one spot kick, one cool finish, and a stubborn South American side that had already knocked out Germany was finally broken.
 
+{% include tweet.html id='2073536682427634061' %}
+
 The story of this match is not that France dominated, though they did, controlling 76 percent of possession and shading the expected goals count 1.36 to 0.15. The story is that domination and victory are different things, and that Paraguay spent seventy minutes making them look like opposites. This is the decisive-factor verdict for anyone reading closely: a single Mbappe penalty, and not sustained control, separated the sides. France created little of genuine clarity from open play until Doue's introduction, Paraguay defended with a discipline that bordered on obstruction, and the tie hinged on a moment of contact in the area that will be argued over for as long as this tournament is discussed.
 
 ![France celebrate Kylian Mbappe's decisive penalty against Paraguay at the World Cup 2026 Round of 16 in Philadelphia](/assets/images/blog/blog-75.webp)

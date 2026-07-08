@@ -14,6 +14,8 @@ lang: en
 ---
 Colombia beat Ghana 1-0 in their World Cup 2026 Round of 32 tie at Kansas City Stadium, and the single thing that explains the result is that they scored their goal after fourteen minutes and never once let Ghana believe a second act was coming. Jhon Arias swept in a first-time finish at the back post, Los Cafeteros settled into the controlled, low-event rhythm that has defined their tournament, and the Black Stars spent the rest of a sweltering evening chasing a game they could not reach. The scoreline reads narrow. The performance behind it was anything but.
 
+{% include tweet.html id='2073222175679463699' %}
+
 That is the honest headline of this Colombia vs Ghana analysis, and it is worth stating plainly before the detail arrives: a 1-0 knockout win in which the losing side fails to register a single shot on target is not a close game that swung on a moment. It is a controlled game in which one side did enough and the other could not lay a glove on them. Colombia managed the tie with the calm of a team that expected to win, and the way they managed it tells you a great deal about how far Nestor Lorenzo's side might yet travel in this World Cup 2026.
 
 ![Colombia vs Ghana World Cup 2026 result and player ratings analysis - Insight Crunch](/assets/images/blog/blog-61.webp)

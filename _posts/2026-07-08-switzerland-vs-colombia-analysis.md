@@ -14,6 +14,8 @@ lang: en
 ---
 Switzerland reached the World Cup 2026 quarterfinals not through a moment of open-play brilliance but through the coldest test the sport offers, and they passed it for the first time in their history. After a goalless 120 minutes at BC Place in Vancouver, they beat Colombia 4-3 in a penalty shootout, with substitute Ruben Vargas rolling the decisive kick into the corner and goalkeeper Gregor Kobel providing the save that made it possible. The one thing that explains this result is temperament under maximum pressure, because on the balance of play across two hours Colombia were the better attacking side and still went home.
 
+{% include tweet.html id='2074627419642749024' %}
+
 That is the paradox at the heart of the tie. Colombia out-shot Switzerland almost two to one and finished with a superior expected-goals figure, yet a team that arrived carrying a well-worn reputation for cracking from twelve yards held its nerve while the South Americans blinked twice. Switzerland vs Colombia was decided by the discipline of a back line that refused to be broken, the reflexes of a goalkeeper enjoying the tournament of his life, and the composure of five penalty takers who knew the country's shootout record and beat it anyway.
 
 ![Switzerland vs Colombia World Cup 2026 Round of 16 analysis](/assets/images/blog/blog-99.webp)

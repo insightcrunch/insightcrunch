@@ -22,6 +22,8 @@ This is the single fact that explains the evening: Morocco reached the last eigh
 
 Canada 0, Morocco 3. Azzedine Ounahi struck five minutes after the restart and again in the 82nd minute, and Soufiane Rahimi added a third deep into stoppage time. On paper it is a comfortable win for the sixth-ranked side in the world over the thirtieth. On the pitch it was nothing of the sort for an hour, and both managers, in their own contradictory ways, agreed on that afterward.
 
+{% include tweet.html id='2073470824393154587' %}
+
 The shape of the game came in two halves that barely resembled each other. In the first, Canada pressed with a fury the Atlas Lions could not settle against, hunting Morocco's ball-players in midfield, forcing turnovers, and building the better chances. Morocco did not manage a single attempt on goal until the 28th minute, a startling statistic for a team of their pedigree and one that captures how thoroughly the co-hosts set the terms early. Had Canada led at the break, no neutral could have complained.
 
 In the second half the match inverted. Morocco needed one moment to change its entire complexion, found it inside five minutes of the restart through a rehearsed set-piece, and from there managed the game with the calm of a side that has learned exactly what a knockout tie demands. Canada kept coming, kept creating half-openings, and kept finding Yassine Bounou or their own wastefulness in the way. The longer it stayed at 1-0, the more the co-hosts had to gamble, and the more space they left for a Moroccan counterattack that punished them twice.

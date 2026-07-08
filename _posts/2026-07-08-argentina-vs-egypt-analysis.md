@@ -23,6 +23,8 @@ This is the analysis of that Round of 16 comeback: how Egypt built a two goal le
 
 Argentina beat Egypt 3-2 in the World Cup 2026 Round of 16 in Atlanta. Egypt led through Yasser Ibrahim (15) and Mostafa Zico (67), and Messi missed a penalty, before Argentina scored three times from the 79th minute through Romero, Messi (83) and Enzo Fernandez in stoppage time to reach the quarterfinals.
 
+{% include tweet.html id='2074555546431037804' %}
+
 That is the headline in its barest form, and it does little justice to the drama that produced it. To understand how the champions ended up trailing, and how they escaped, you have to walk through the match minute by minute. The shape of the contest changed several times, and each turning point deserves its own explanation.
 
 ## How the match unfolded in Atlanta

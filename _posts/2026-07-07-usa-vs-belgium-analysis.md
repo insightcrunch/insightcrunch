@@ -14,6 +14,8 @@ lang: en
 ---
 USA vs Belgium at the World Cup 2026 was billed as the night the co-hosts might finally reach a quarterfinal on home soil, and for a little more than half an hour it looked live. Then the game told a harder truth. Belgium won 1-4 in Seattle on July 6, and the score was not a freak of one bad moment. It was the sum of a quality gap Belgium had always carried and two defensive errors the United States could not afford against a side this efficient. Charles De Ketelaere scored twice inside the opening 33 minutes, Malik Tillman briefly leveled from a free kick, and after the break a goalkeeping mistake and a stoppage-time giveaway let Hans Vanaken and Romelu Lukaku turn a contest into a rout.
 
+{% include tweet.html id='2074311871968997791' %}
+
 The temptation after a 1-4 result is to hunt for the single lever that flipped everything, the one save or one call that changed the arc. This match resists that reading. There was no controversial red card in the run of play, no penalty that swung momentum, no injury crisis that hollowed out either team before kickoff. Belgium were the better side in almost every phase, and every time the United States found a foothold, they handed it straight back. That is the story of the night, and it is the story this analysis will hold to the light: not a robbery, but a reckoning.
 
 ![USA vs Belgium World Cup 2026 Round of 16 analysis](/assets/images/blog/blog-113.webp)

@@ -22,6 +22,8 @@ The story that a bare scoreline hides is that Norway did not steal this game. Th
 
 The final score was Brazil 1-2 Norway, with Haaland scoring in the seventy-ninth and ninetieth minutes and Neymar converting a penalty deep into stoppage time. On the balance of territory and possession it looked, for long stretches, like a Brazilian procession. Ancelotti's team saw roughly two-thirds of the ball, worked sixteen corners' worth of pressure, and finished with a raw expected goals figure of 2.73 from fourteen attempts. Yet that number is a mirage, and understanding why is the key to understanding the result. A large share of Brazil's expected goals came from two penalty kicks, one saved and one scored in the final seconds when the tie was already gone. Strip the spot kicks out and Brazil's open-play threat was thin, hesitant, and strangely blunt for a squad of this wattage.
 
+{% include tweet.html id='2073887899506884980' %}
+
 Norway, by contrast, produced a modest 0.84 expected goals and still won, because their chances were the cleaner ones and their finisher is the most ruthless in the sport. That is the whole match in a sentence: the team with far more of the ball created less of genuine danger, and the team content to defend for long spells took the two openings that mattered. Stale Solbakken had told his players before kickoff to play the match rather than the occasion, and they did exactly that, absorbing pressure without panic and trusting that Haaland would need only a moment. He needed two.
 
 ### How did the Brazil vs Norway Round of 16 tie unfold?
