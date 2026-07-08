@@ -2,21 +2,21 @@
 layout: post
 title: "Balogun, Trump and FIFA: A World Cup 2026 Storm"
 page_title: "The Folarin Balogun Red Card Controversy: How Trump, FIFA, UEFA and Belgium Turned One World Cup 2026 Suspension Into a Global Fight Over Rules and Political Influence"
-excerpt: "The Balogun red card controversy dragged Trump, FIFA and UEFA into a World Cup 2026 storm over political influence, the rulebook and the integrity of the game."
 date: 2026-07-08
-last_updated: 2026-07-08
 categories: ["Leisure"]
-author: "bruno-carvalho"
 tags: ["World Cup 2026", "Folarin Balogun", "FIFA", "USMNT", "Gianni Infantino", "Controversy"]
-image: "/assets/images/blog/blog-10.webp"
+excerpt: "The Balogun red card controversy dragged Trump, FIFA and UEFA into a World Cup 2026 storm over political influence, the rulebook and the integrity of the game."
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2026-07-08
 ---
+
 For a few days at the World Cup 2026, the loudest story was not a goal, a save, or a piece of skill. It was a red card, a phone call, and a single clause buried deep in FIFA's disciplinary code. Folarin Balogun, the United States striker who had scored in every match he played at the tournament, was sent off in the round of 32 win over Bosnia and Herzegovina and hit with the automatic one-game ban that any red card brings. Under the plain wording of the rules, he should have missed the round of 16 tie against Belgium. Instead, FIFA suspended the ban, Balogun played, and world football spent the better part of a week arguing about whether the sport's governing body had bent its own laws under pressure from the President of the United States.
 
 The bare facts are not really in dispute, and that is part of what makes the episode so combustible. Donald Trump confirmed that he had called FIFA president Gianni Infantino to ask for a review of the red card. FIFA confirmed the call had taken place while insisting the decision itself came from an independent committee. UEFA called the outcome unjustifiable, the Belgian federation said it was astonished, and a cross-party group in the European Parliament began gathering signatures for an investigation into Infantino himself. Belgium then won the match 4-1, eliminating the co-hosts and lending the whole saga a bitter irony that satisfied nobody.
 
-![World Cup 2026 blog image](/assets/images/blog/blog-10.webp)
+![World Cup 2026 blog image](/assets/images/blog/blog-01.webp)
 
 This article walks through every layer of the controversy, from the tackle itself to the governance questions it has opened up, and tries to set out the competing arguments fairly. There is a version of events in which a harsh, protocol-breaking red card was quietly corrected by a governing body using a discretion it genuinely holds. There is another in which a rich and powerful host nation leaned on a compliant FIFA to rewrite the rules mid-tournament for its own benefit. Both readings draw on the same set of facts, and the gap between them is where the argument lives. What follows is an attempt to lay out those facts, the statements of the major bodies and figures involved, and what the affair might mean for FIFA, for the tournament, and for the uneasy relationship between sport and political power.
 
