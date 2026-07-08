@@ -60,6 +60,8 @@ The single fact that transformed a refereeing row into an international incident
 
 Trump did not deny it. On Monday, in the Oval Office, he confirmed the call openly and framed it as a simple request for a fresh look rather than a demand. He said he had asked for a review because he did not think the challenge was a foul, and he described Infantino as highly respected. He also, memorably, admitted that he had not initially understood the sanction he was objecting to, conceding to reporters that he had not known what a red card meant until the consequences were explained to him. The candor was disarming and, to his critics, damning in equal measure, because it confirmed that a head of state had picked up the phone about a single disciplinary call at a sporting event.
 
+{% include tweet.html id='2074141395917394123' %}
+
 The timeline is important to the competing interpretations. The call came before FIFA's committee ruled, which supporters of the process say is meaningless because Infantino does not sit on the disciplinary committee and cannot dictate its findings. Opponents see the sequence very differently: a call from the most powerful office in the host nation, followed within days by an unprecedented reversal in that nation's favor, is a pattern they find impossible to wave away as coincidence. Nothing in the public record proves that the call caused the ruling. Nothing in it dispels the appearance that the two were connected. That gap, between what can be proven and what it looks like, is the terrain on which the entire controversy has been fought.
 
 ## Inside the White House effort
