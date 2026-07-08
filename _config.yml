@@ -54,6 +54,13 @@ defaults:
       layout: "post"
       author: "insight-crunch-team"
       paywall: true
+  # Keep every page under /categories/ out of sitemap.xml so search
+  # engines stop being pointed at them. Combined with the noindex tag in
+  # the category redirect layout, this removes them from search results.
+  - scope:
+      path: "categories"
+    values:
+      sitemap: false
 
 exclude:
   - Gemfile

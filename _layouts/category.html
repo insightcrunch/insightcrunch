@@ -1,41 +1,30 @@
 ---
-layout: default
+# This layout replaces the old category-listing layout.
+# Every page that used `layout: category` now renders as a lightweight
+# redirect stub: search engines are told not to index it, and human
+# visitors are bounced to the homepage. GitHub Pages cannot issue a real
+# server-side 301, so this uses the same meta-refresh + JS technique that
+# the jekyll-redirect-from plugin produces. Google treats an instant
+# (content="0") meta refresh as a permanent redirect.
 ---
-<div class="main-top">
-  <span class="main-top-title">{{ page.title }}</span>
-  <span class="main-count" id="postCount"></span>
-</div>
-
-{% assign cat_posts = site.posts | where_exp: "p", "p.categories contains page.category" %}
-
-<div class="category-header">
-  <h1>{{ page.title }}</h1>
-  <p>{{ cat_posts.size }} post{% if cat_posts.size != 1 %}s{% endif %}</p>
-</div>
-
-<div class="posts" id="postList">
-  {% for post in cat_posts %}
-  {% assign cat = post.categories | first | downcase %}
-  <article class="post-card{% if forloop.first %} featured{% endif %}"
-           data-title="{{ post.title | downcase }}"
-           data-cat="{{ cat }}"
-           data-tags="{{ post.tags | join: ' ' | downcase }}"
-           data-body="{{ post.content | strip_html | strip_newlines | truncate: 500 | downcase | escape }}">
-    <div class="post-r1">
-      <a href="{{ post.url | relative_url }}" class="tag tag-{{ cat }}">{{ post.categories | first }}</a>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </div>
-    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
-    <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
-    <div class="post-r2">
-      {% if post.read_time %}<span class="post-mins">{{ post.read_time }} min</span>{% endif %}
-      <a href="{{ post.url | relative_url }}" class="post-read">Read →</a>
-    </div>
-  </article>
-  {% endfor %}
-</div>
-
-<div class="load-more-wrap" id="loadMoreWrap" style="display:none">
-  <button class="load-more-btn" id="loadMoreBtn" onclick="loadMore()">Load more posts</button>
-  <div class="lm-status" id="lmStatus"></div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}">
+  <link rel="canonical" href="{{ '/' | absolute_url }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting to Insight Crunch</title>
+  <script>window.location.replace({{ '/' | relative_url | jsonify }});</script>
+  <style>
+    body{font-family:'Inter',system-ui,sans-serif;background:#f5f0e8;color:#3e3020;
+      display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;text-align:center}
+    a{color:#b06010}
+  </style>
+</head>
+<body>
+  <p>This page has moved. If you are not redirected automatically,
+     <a href="{{ '/' | relative_url }}">go to the Insight Crunch homepage</a>.</p>
+</body>
+</html>
