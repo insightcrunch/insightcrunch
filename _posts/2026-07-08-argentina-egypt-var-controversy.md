@@ -8,11 +8,13 @@ tags: ["World Cup 2026", "Argentina", "Egypt", "VAR", "Refereeing Controversy", 
 excerpt: "Argentina vs Egypt VAR controversy explained: the disallowed goal, Egypt's FIFA complaint, the denied Salah penalty and the political questions it raised."
 image: /assets/images/blog/blog-01.webp
 reading_time: 68
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-07-08
+lang: en
 ---
-
 Some World Cup matches are remembered for a goal. This one will be remembered for a decision. Argentina beat Egypt 3-2 in the Round of 16 in Atlanta on July 7, 2026, and the reigning champions are through to the quarterfinals, yet the enduring story of the afternoon is not the comeback but the controversy that framed it. A disallowed Egyptian goal, a waved away penalty appeal, a cascade of yellow cards, an anguished manager, a "rigged" accusation from a goalscorer, an official complaint lodged with FIFA, and a swirl of political questions have turned a sporting result into one of the most argued about episodes of the entire tournament.
+
+![Argentina vs Egypt: The World Cup VAR Controversy - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The purpose of this article is not to declare a villain. It is to lay out, as fairly and completely as possible, exactly what happened, what the laws of the game actually say, what each side has claimed, where reasonable analysts disagree, and why a single VAR intervention in Georgia has spilled so far beyond the touchline. There are strong opinions on every side of this, some of them contradictory, and the honest position is that several of the flashpoints are genuinely arguable rather than obviously right or wrong. That ambiguity is precisely why the row has grown rather than faded.
 
