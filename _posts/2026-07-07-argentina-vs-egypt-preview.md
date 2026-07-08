@@ -6,17 +6,17 @@ date: 2026-07-07
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "Egypt", "Round of 16", "Knockout Stage", "Match Preview"]
 excerpt: "Argentina vs Egypt World Cup 2026 Round of 16 preview: Messi and the champions meet Salah's Egypt in Atlanta, with prediction, lineups and key tactics."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-07-07
+lang: en
 ---
-
 Argentina vs Egypt in the World Cup 2026 Round of 16 asks one blunt question before a ball is kicked in Atlanta: can a side that has never before survived a World Cup group stage stand in a knockout tie for ninety minutes, and if necessary through extra time and penalties, against the reigning champions and the highest scorer the competition has ever produced? That is the frame for this Round of 16 preview. On one touchline stands Lionel Scaloni, whose Argentina arrive as holders chasing a second successive title. On the other stands Hossam Hassan, whose Egypt have already rewritten their own history simply by reaching this stage. The prize on July 7 is a place in the quarterfinals, and only one of these nations will keep walking.
 
 The tie carries two storylines that rarely share a pitch. Argentina bring Messi, a forward line stacked three deep, and the settled machinery of a team that has won the biggest prizes in the sport across the last cycle. Egypt bring Mohamed Salah, a compact and stubborn defensive block, and the freedom of a group with no expectation weighing on it. The champions are supposed to win comfortably. The market says so, the models say so, and recent history says so. Yet knockout football has a habit of narrowing the gap between the favorite and the underdog to a single moment, and Egypt have shown across this tournament that they know how to survive to that moment.
 
-![Argentina vs Egypt World Cup 2026 Round of 16 preview](/assets/images/blog/blog-01.webp)
+![Argentina vs Egypt World Cup 2026 Round of 16 preview](/assets/images/blog/blog-68.webp)
 
 This preview is built entirely from what is knowable before kickoff: the routes both teams took to Atlanta, their form and their fitness picture, the head-to-head thread that stretches back almost a century, the predicted lineups and the reasoning behind them, the tactical shapes that will define the ninety minutes, the players who can decide it, the bracket math that hangs on the result, and a reasoned prediction with a likely scoreline. Where a selection or a fitness call is still open, that is flagged rather than guessed. Nothing here assumes the outcome, because in a single-elimination tie the outcome is exactly what neither manager can take for granted.
 

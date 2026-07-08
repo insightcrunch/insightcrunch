@@ -6,17 +6,17 @@ slug: switzerland-vs-colombia-analysis
 date: 2026-07-08
 last_updated: 2026-07-08
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 tags: ["World Cup 2026", "Switzerland", "Colombia", "Round of 16", "Penalty Shootout", "Knockout Stage"]
 image: /assets/images/blog/blog-01.webp
 reading_time: 68
+lang: en
 ---
-
 Switzerland reached the World Cup 2026 quarterfinals not through a moment of open-play brilliance but through the coldest test the sport offers, and they passed it for the first time in their history. After a goalless 120 minutes at BC Place in Vancouver, they beat Colombia 4-3 in a penalty shootout, with substitute Ruben Vargas rolling the decisive kick into the corner and goalkeeper Gregor Kobel providing the save that made it possible. The one thing that explains this result is temperament under maximum pressure, because on the balance of play across two hours Colombia were the better attacking side and still went home.
 
 That is the paradox at the heart of the tie. Colombia out-shot Switzerland almost two to one and finished with a superior expected-goals figure, yet a team that arrived carrying a well-worn reputation for cracking from twelve yards held its nerve while the South Americans blinked twice. Switzerland vs Colombia was decided by the discipline of a back line that refused to be broken, the reflexes of a goalkeeper enjoying the tournament of his life, and the composure of five penalty takers who knew the country's shootout record and beat it anyway.
 
-![Switzerland vs Colombia World Cup 2026 Round of 16 analysis](/assets/images/blog/blog-01.webp)
+![Switzerland vs Colombia World Cup 2026 Round of 16 analysis](/assets/images/blog/blog-99.webp)
 
 For everything our [pre-match preview](/2026/07/07/switzerland-vs-colombia-preview/) flagged about two organized sides cancelling each other out, the reality went further than a cagey draw. This was a stalemate so complete that neither goalkeeper was seriously beaten in normal time or extra time, and the story became less about who could score and more about who could hold their shape, their concentration, and eventually their nerve. What follows is the full account of how Switzerland survived, why Colombia fell short despite doing more, and what a first quarterfinal since 1954 sets up against the reigning champions.
 

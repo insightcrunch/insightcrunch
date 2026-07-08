@@ -5,14 +5,16 @@ page_title: "Argentina vs Egypt: World Cup 2026 Result, Player Ratings, Messi Re
 excerpt: "Argentina vs Egypt result and analysis: the champions trailed 2-0 before Romero, Messi and Enzo Fernandez struck late to win 3-2 and reach the quarterfinals."
 date: 2026-07-08
 categories: ["Leisure"]
-author: "Insight Crunch Team"
+author: "liam-ferris"
 tags: ["World Cup 2026", "Argentina", "Egypt", "Round of 16", "Lionel Messi", "Match Analysis"]
 image: /assets/images/blog/blog-01.webp
 image_alt: "Argentina vs Egypt World Cup 2026 result and comeback analysis - Insight Crunch"
 reading_time: 73
+lang: en
 ---
-
 For seventy eight minutes at Atlanta Stadium, the story of this World Cup Round of 16 tie was written in the language of an upset. Egypt led the defending champions by two clear goals, their supporters were dreaming of a first quarterfinal in their history, and Lionel Messi had already suffered the indignity of a saved penalty in front of a stadium that had come to watch him extend his legend. Then, inside the space of thirteen breathless minutes, that story was torn up and rewritten. Cristian Romero headed in, Messi equalized with a milestone strike, and Enzo Fernandez settled the tie deep into stoppage time. Argentina 3, Egypt 2. The holders had looked beaten, and instead they marched on toward the last eight while a brave African side left the tournament with its head high and a sharp sense of what might have been.
+
+![Argentina vs Egypt: World Cup 2026 Result & Analysis - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This is the analysis of that Round of 16 comeback: how Egypt built a two goal lead that looked, for a long stretch, like it might hold; why the champions could not break through until the final act; how a late surge flipped the entire contest; and what the result means for both nations as the tournament narrows toward its conclusion. If you read our [pre match preview of Argentina vs Egypt](/2026/07/07/argentina-vs-egypt-preview/), you will recognize many of the tactical questions we posed. This piece answers them with the benefit of everything that actually happened on the pitch.
 
