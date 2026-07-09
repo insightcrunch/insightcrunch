@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane projection room scene stages its whole investigation 
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2010-12-15
+last_updated: 2026-07-09
 lang: en
 ---
 The Citizen Kane projection room scene is the least visible passage in the film and the one that decides everything that follows. The brassy newsreel obituary has just ended, the screen has gone white, and the picture cuts to a roomful of newsmen who are barely there at all. They are voices in a haze, shapes against a beam of projected light, a committee meeting held in something close to total darkness. Out of that murk a decision is made, a reporter is sent out, and the rest of the film, every flashback, every interview, every fragment of the puzzle, exists because of what these half-seen men agree to in the dark. A passage most viewers barely register as a scene is in fact the engine room of the whole machine.

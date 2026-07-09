@@ -9,7 +9,7 @@ excerpt: "McKinley resisted war with Spain through April 1898 yet got one anyway
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2008-07-18
+last_updated: 2026-07-09
 lang: en
 ---
 On the morning of April 11, 1898, a clerk read aloud to a packed House chamber a message from the president of the United States. The man who composed that message had spent two months trying to avoid the very thing the message requested. Two days earlier, on April 9, the Spanish government in Madrid had agreed to nearly every demand the American minister had laid before it: immediate armistice in Cuba, an end to the reconcentration policy, the conversion of the Cuban question into a matter for arbitration on terms favorable to the United States. The cable carrying that news had reached the State Department on April 10. The president read it. He attached a single, almost grudging sentence to the war message acknowledging the Spanish concession. And then he sent the message to Congress anyway, asking for authority to use the army and navy of the United States to compel a settlement Spain had already offered without compulsion.

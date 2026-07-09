@@ -9,7 +9,7 @@ excerpt: "South Carolina voided federal tariffs in 1832. Andrew Jackson, slaveho
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 79
 author: "chloe-martin"
-last_updated: 2008-09-23
+last_updated: 2026-07-09
 lang: en
 ---
 # Jackson's Nullification Stand: The 1832 Union Test

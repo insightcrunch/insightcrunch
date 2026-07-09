@@ -9,7 +9,7 @@ excerpt: "The first gods of ancient Egypt rose from Predynastic graves and anima
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2000-06-01
+last_updated: 2026-07-09
 lang: en
 ---
 The story of the first gods of ancient Egypt does not begin in a temple. It begins in a grave. Centuries before priests moved through stone sanctuaries at Thebes or Heliopolis, and long before the falcon god Horus perched atop a king's name in carved script, Nile villagers were laying their dead on their sides in shallow desert pits, knees drawn up toward the chest, and packing the space around the body with pots, beads, palettes, and food. Those graves are the oldest surviving argument that the people of the valley expected something to continue after death, and that they were prepared to spend real labor and real wealth to prepare for it. The gods came out of that expectation, out of the river's rhythms, and out of the animals the villagers hunted, herded, and feared, and by the time the first kings scratched their names onto pottery those gods were already tangled up with royal power in a way that would define Egyptian religion for three thousand years.

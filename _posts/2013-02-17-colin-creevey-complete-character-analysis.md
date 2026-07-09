@@ -9,7 +9,7 @@ excerpt: "A deep Colin Creevey character analysis: how the Harry Potter series u
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2013-02-17
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Boy Who Photographed a War He Was Too Young to Survive

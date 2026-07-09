@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane Xanadu opening scene is a wordless gothic prologue th
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2010-11-01
+last_updated: 2026-07-09
 lang: en
 ---
 The Citizen Kane Xanadu opening scene runs for roughly two and a half minutes, contains no dialogue beyond a single whispered word, and tells you almost everything about how the next two hours will treat its subject. Most first-time viewers register it as atmosphere, a moody curtain-raiser before the real movie begins with the newsreel. That is the first thing this prologue teaches a careful watcher to distrust. The wordless climb up the decaying estate is not a warm-up. It is the film's whole method stated in advance, a self-contained gothic short that argues, before any character speaks, that the man at its center cannot be reached. Learn to read these opening dissolves and you have a key that unlocks the rest of the picture.

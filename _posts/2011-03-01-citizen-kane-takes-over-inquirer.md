@@ -3,7 +3,7 @@ title: "Citizen Kane: Kane Takes Over the Inquirer"
 page_title: "Citizen Kane: Kane Takes Over the Inquirer Scene Analysis, Meaning, and Close Reading of the Rise Sequence"
 slug: citizen-kane-takes-over-inquirer
 date: 2011-03-01
-last_updated: 2011-03-01
+last_updated: 2026-07-09
 author: "amanda-ross"
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Charles Foster Kane", "Orson Welles", "Close Reading", "Cinematography", "Themes"]

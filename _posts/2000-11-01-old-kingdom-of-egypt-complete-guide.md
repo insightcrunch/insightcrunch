@@ -9,7 +9,7 @@ excerpt: "The Old Kingdom of Egypt built the pyramids and ran a centralized god-
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 77
 author: "diana-patel"
-last_updated: 2000-11-01
+last_updated: 2026-07-09
 lang: en
 ---
 The Old Kingdom of Egypt is the period when a single valley kingdom learned to convert grain into stone, and in doing so raised the largest buildings any human society would attempt for the next four thousand years. The usual shorthand calls it the Age of the Pyramids, and the pyramids are the right place to start, because nothing else on earth in the third millennium BCE looked remotely like the plateau at Giza. But the pyramids are the output, not the explanation. The real subject of this era is the machine that produced them: a state that gathered the surplus of the Nile floodplain, concentrated it in the hands of a king who was treated as a living link to the gods, and spent it on projects that no earlier society had the organization to imagine. Understand that machine, its ambitions and its built-in weaknesses, and the pyramids stop being a mystery and become a consequence.

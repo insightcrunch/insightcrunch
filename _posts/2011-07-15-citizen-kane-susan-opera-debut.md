@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane opera scene stages Susan's debut so the famous crane 
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2011-07-15
+last_updated: 2026-07-09
 lang: en
 ---
 The Citizen Kane opera scene is the film's cruelest joke and its clearest act of judgment, and it works because the judgment is never spoken aloud. Kane has spent a fortune to put a voice the world can hear is unready onto the grandest stage money can rent, and rather than argue with him in dialogue, the film answers with a camera move. As Susan strains through her entrance, the camera abandons the stage entirely and climbs, up past the lights and the painted scenery and the ropes, until it arrives among the flies on a narrow catwalk where two stagehands have been listening to the same performance the rich audience below is politely enduring. One of them looks at the other and pinches his nose shut. That gesture is the review. Everything the powerful people in the boxes are too cautious to say, a working man a hundred feet above the stage says with two fingers, and the film cuts the verdict into the picture as plainly as if it had printed it on a card.

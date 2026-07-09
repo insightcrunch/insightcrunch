@@ -9,7 +9,7 @@ excerpt: "Predynastic vs Early Dynastic Egypt: what changed at the threshold, wh
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2000-10-01
+last_updated: 2026-07-09
 lang: en
 ---
 Ask when Egyptian civilization "really" began and you are asking where to place the boundary between Predynastic and Early Dynastic Egypt, and you get two honest answers that point at almost the same century and still disagree about what matters. One camp draws the line at the moment a single king wore the crowns of both halves of the valley and the record starts naming reigns, and calls everything before it a prologue. The other camp watches farming villages become towns, towns become chiefdoms, chiefdoms swallow their neighbors, and writing creep onto pottery long before any founder-king, and insists the important work was finished before the founder arrived. The quarrel over Predynastic vs Early Dynastic Egypt is not a quarrel about facts nobody has. It is a quarrel about where to cut a continuous rope, and about whether the cut marks a real seam or only a convenient place to hold the two ends.

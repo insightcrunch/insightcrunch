@@ -9,7 +9,7 @@ excerpt: "AP vs IB vs dual enrollment compared on rigor, scoring, and college cr
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 59
 author: "hannah-moore"
-last_updated: 2008-10-25
+last_updated: 2026-07-09
 lang: en
 ---
 The question that sends families into hours of forum reading is rarely about a single class. It is about a whole path. AP vs IB vs dual enrollment is the choice between three different theories of what an ambitious high school transcript should look like, and the wrong answer can cost a student credit, sleep, and admissions leverage they did not have to spend. Most of the advice floating around treats the decision as a ranking contest, as if one program were objectively superior and the only task were to identify the winner. That framing is wrong, and acting on it produces students who picked the prestigious-sounding option and then watched their credit fail to transfer, or who shouldered a two-year diploma framework when three targeted exams would have served their goals better.

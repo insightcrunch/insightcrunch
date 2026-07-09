@@ -9,7 +9,7 @@ excerpt: "Grant placed 33rd in the 2000 C-SPAN survey. He sits at 17th today. Th
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 64
 author: "diana-patel"
-last_updated: 2008-12-09
+last_updated: 2026-07-09
 lang: en
 ---
 In February 2000, C-SPAN released its first major poll of presidential historians and political scientists. Ulysses Grant placed 33rd of 41 ranked presidents. He sat below Calvin Coolidge, below Chester Arthur, below Benjamin Harrison, below Rutherford Hayes. The 2000 result echoed a verdict that had calcified over a century: Grant was a great general who failed in the White House, a tippler surrounded by thieves, a credulous figurehead presiding over what Henry Adams called an administration that "outraged every rule of ordinary decency."

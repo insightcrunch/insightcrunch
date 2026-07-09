@@ -9,7 +9,7 @@ excerpt: "Father figures in Harry Potter, from Dumbledore and Sirius to Lupin, H
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 62
 author: "emily-reed"
-last_updated: 2013-03-21
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Father in the Glass

@@ -9,7 +9,7 @@ excerpt: "Citizen Kane ending explained: why Rosebud is the burning sled, why on
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2010-08-01
+last_updated: 2026-07-09
 lang: en
 ---
 You came here for the Citizen Kane ending explained in a sentence, and the film will let you have that sentence, then quietly take it apart in your hands. Rosebud is the sled. A workman pitches it into a furnace among the unsorted junk of a dead man's house, and the painted name catches fire while nobody who spent the picture hunting for it is anywhere in the room. That is the whole reveal, and it is the easiest thing about the last three minutes to state. The hard part, the part a recap site skips, is that the movie hands its solution to the one audience that did not ask the question, and then dares you to feel satisfied by an answer that solves the mystery while explaining nothing about the man.

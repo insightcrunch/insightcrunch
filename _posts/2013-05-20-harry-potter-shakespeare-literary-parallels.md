@@ -9,7 +9,7 @@ excerpt: "How Shakespeare forms the structural DNA of Harry Potter, mapping Haml
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 56
 author: "emily-reed"
-last_updated: 2013-05-20
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Ghost in the Curriculum

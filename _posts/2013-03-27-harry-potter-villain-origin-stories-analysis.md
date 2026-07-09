@@ -9,7 +9,7 @@ excerpt: "Villain origins in Harry Potter mapped on a born, made, and chosen spe
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2013-03-27
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Difference Between an Explanation and an Excuse

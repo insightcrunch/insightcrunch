@@ -9,7 +9,7 @@ excerpt: "AP exam scoring converts weighted multiple-choice and free-response po
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 2008-11-03
+last_updated: 2026-07-09
 lang: en
 ---
 A student who finishes an AP exam walks out with a vague feeling, good, bad, somewhere in between, and then waits months to learn whether that feeling was right. The number that arrives in July, a single digit from 1 to 5, decides college credit, placement, and sometimes how an admissions reader weighs a transcript. Yet most students never learn how that digit is built. AP exam scoring is not a mystery and it is not a lottery; it is a defined conversion from raw points to a reported scale, and a student who understands the conversion can aim at it deliberately instead of studying blind. This guide takes the scoring machine apart piece by piece so that any future score, on any subject, becomes readable rather than mysterious.

@@ -9,7 +9,7 @@ excerpt: "Hoover ordered the BEF camps cleared with humanity. MacArthur burned t
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2008-06-04
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Order, the Bridge, and the Fire

@@ -9,7 +9,7 @@ excerpt: "Truman confronted six genuine paths in July 1945, from a full-scale in
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 62
 author: "diana-patel"
-last_updated: 2008-12-31
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Question on the Desk at Potsdam

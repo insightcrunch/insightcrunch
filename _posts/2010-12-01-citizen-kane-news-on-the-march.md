@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane News on the March newsreel is no recap: this scene an
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2010-12-01
+last_updated: 2026-07-09
 lang: en
 ---
 Roughly ten minutes after a dying man drops a glass globe and whispers a word no one can verify, the picture stops being a poem and turns into a press release. The Citizen Kane: News on the March newsreel arrives like a thunderclap of certainty: brass on the soundtrack, a narrator who sounds carved from granite, and a confident survey of a great man's life, complete with empire, marriages, politics, and death. The sequence is the most underrated few minutes in the film, because most viewers treat it as a convenient recap, a way to learn who Kane was before the real movie begins. It is the opposite. The newsreel is a trap the picture sets for its own audience, a glittering summary handed to us precisely so the next two hours can take it apart.

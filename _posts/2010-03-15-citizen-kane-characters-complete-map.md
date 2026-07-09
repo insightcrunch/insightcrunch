@@ -9,7 +9,7 @@ excerpt: "Citizen Kane characters explained in one complete map: every major and
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
 author: "victoria-stone"
-last_updated: 2010-03-15
+last_updated: 2026-07-09
 lang: en
 ---
 The fastest way to misread the film is to treat the Citizen Kane characters as a gallery of people you are meant to get to know. They are something stranger and more useful than that. Almost the entire cast exists to remember a dead man, and the film is built so that the more they remember, the less certain you become about who he was. A reporter walks into five lives looking for one answer, and what he collects instead is five incompatible portraits that refuse to resolve into a single face. The design is the point. Each figure who steps forward to testify is a lens that catches one angle of Charles Foster Kane and misses the rest, so the supporting cast is not a set of companions to the hero but a set of partial mirrors held up to him from different distances and different years.

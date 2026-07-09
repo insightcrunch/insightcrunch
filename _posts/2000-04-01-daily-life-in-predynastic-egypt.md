@@ -9,7 +9,7 @@ excerpt: "Daily life in Predynastic Egypt ran on Nile farming, linen dress, and 
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2000-04-01
+last_updated: 2026-07-09
 lang: en
 ---
 Picture a person who lived and died on the Nile a thousand years before anyone raised a pyramid, and ask what their ordinary day held. The honest answer is that reconstructing daily life in Predynastic Egypt means working almost entirely from things left in the ground: pots stacked around a curled-up body, a worn grinding stone, a green-stained cosmetic palette, the post-holes of a reed hut, the seeds caught in a hearth. No one in this world wrote a shopping list, a marriage contract, or a complaint about a lazy neighbor, because writing had not yet arrived. Everything a modern reader wants to know about how these people fed themselves, dressed, worked, raised children, and buried their dead has to be inferred from objects and bones rather than read from a page. That constraint is not a weakness of the story. It is the story. A society that left no words still left an enormous amount of evidence, and learning to read that evidence is how we recover the texture of a life lived by the river between roughly 4400 and 3100 BCE.

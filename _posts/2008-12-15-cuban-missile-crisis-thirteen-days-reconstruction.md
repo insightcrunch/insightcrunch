@@ -9,7 +9,7 @@ excerpt: "Thirteen October days in 1962 nearly ended the world. The ExComm tapes
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2008-12-15
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Morning McGeorge Bundy Decided Not to Wake Him

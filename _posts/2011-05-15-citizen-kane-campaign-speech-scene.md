@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane campaign speech scene stages Kane's defeat before a s
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2011-05-15
+last_updated: 2026-07-09
 lang: en
 ---
 The campaign speech scene is the moment Citizen Kane lets you watch a man lose an election he has not yet lost, and it does so before a single vote is cast, before Boss Gettys makes his threat, before the affair becomes public, by an act of pure composition. Kane stands on a platform at the front of an enormous hall, and behind him, filling the wall from floor to ceiling, hangs a photograph of his own face so vast that the living man at the podium reads as a detail of his own portrait. The film does not tell you that the brand has outgrown the person. It shows you, in one held arrangement of bodies and scale, that the image of Kane has become larger than Kane, and that the gap between the two is exactly where the rest of the story will happen.

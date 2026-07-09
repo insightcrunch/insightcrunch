@@ -9,7 +9,7 @@ excerpt: "The unification of Egypt around 3100 BCE joined two rival lands into o
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2000-02-01
+last_updated: 2026-07-09
 lang: en
 ---
 Around 3100 BCE, the many-voiced patchwork of the Nile valley became a single state, and the unification of Egypt turned a river full of competing chiefdoms into the oldest large territorial kingdom the world had yet seen. That is the sentence most textbooks offer, and it is not wrong so much as it is smoothed flat. What actually happened, how it happened, and how much of the famous founding moment is history rather than royal advertising is a real historical problem, and it is a far more interesting one than the tidy tale of a single conqueror joining north and south with one clean blow.

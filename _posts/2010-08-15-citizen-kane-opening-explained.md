@@ -3,7 +3,7 @@ title: "Citizen Kane Opening Explained"
 page_title: "Citizen Kane Opening Explained: How the First Minutes Set Up the Whole Film, Shot by Shot"
 slug: "citizen-kane-opening-explained"
 date: 2010-08-15
-last_updated: 2010-08-15
+last_updated: 2026-07-09
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Opening Scene", "Orson Welles", "Close Reading", "Cinematography", "Themes"]
 image: "/assets/images/blog/blog-63.webp"

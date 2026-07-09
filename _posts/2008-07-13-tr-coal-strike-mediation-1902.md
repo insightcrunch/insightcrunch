@@ -9,7 +9,7 @@ excerpt: "Cleveland broke strikes in 1894. TR brokered them in 1902. The federal
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 58
 author: "chloe-martin"
-last_updated: 2008-07-13
+last_updated: 2026-07-09
 lang: en
 ---
 October 3, 1902. Theodore Roosevelt convened a meeting at 22 Jackson Place, the temporary executive offices on Lafayette Square. The actual White House was under renovation. The president, still recovering from a streetcar collision in Pittsfield a month earlier that had killed a Secret Service agent named William Craig and crushed his own leg, received the operators and the United Mine Workers in a single room. He had brought them together against the open opposition of half his Cabinet and the open derision of the operators themselves.

@@ -9,7 +9,7 @@ excerpt: "Citizen Kane misconceptions, corrected: the film was no lone-genius fe
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2010-10-15
+last_updated: 2026-07-09
 lang: en
 ---
 Almost everything most people can tell you about Citizen Kane is half-right, and the half that is wrong almost always flatters a simpler story than the one on screen. The most repeated Citizen Kane misconceptions are not random errors; they cluster around a few comforting shapes. A lone boy genius who made a masterpiece by himself. A thinly veiled hit job on one real tycoon. A picture so far ahead of its time that audiences rejected it and the studio buried it. Each of these is tidy, quotable, and easy to carry into a seminar or a social thread, and each one is either exaggerated or false. The strange truth is better than the legend, because the actual history of the film is messier, more collaborative, and more contested than the myths allow.

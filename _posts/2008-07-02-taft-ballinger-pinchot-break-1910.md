@@ -9,7 +9,7 @@ excerpt: "Taft fired Chief Forester Gifford Pinchot in January 1910 over Alaska 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 62
 author: "chloe-martin"
-last_updated: 2008-07-02
+last_updated: 2026-07-09
 lang: en
 ---
 On the morning of January 7, 1910, William Howard Taft sat at the desk in the second-floor study of the White House and dictated a letter that would end one of the more consequential professional partnerships in American political history. The letter ran four paragraphs. It dismissed Gifford Pinchot, the founding Chief of the United States Forest Service, the closest political and personal ally Theodore Roosevelt had outside his own family, from federal office. Pinchot received it that afternoon. He had been expecting it for thirty days. He had, in a sense, been engineering it for ninety.

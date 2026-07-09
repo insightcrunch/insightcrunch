@@ -9,7 +9,7 @@ excerpt: "Pierce backed Douglas on Kansas-Nebraska in January 1854, repealing th
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 62
 author: "michael-brooks"
-last_updated: 2008-09-01
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Sunday Meeting

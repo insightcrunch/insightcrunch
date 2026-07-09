@@ -9,7 +9,7 @@ excerpt: "Lincoln removed George McClellan on November 5, 1862, after a failed A
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 72
 author: "chloe-martin"
-last_updated: 2008-08-15
+last_updated: 2026-07-09
 lang: en
 ---
 The order ran three short paragraphs. Major General George Brinton McClellan, by direction of the President of the United States, was hereby relieved of command of the Army of the Potomac. Major General Ambrose E. Burnside would take charge. The relieved officer was to repair to Trenton, New Jersey, and await further orders. The text was signed by Secretary of War Edwin Stanton on November 5, 1862, drafted at the War Department, carried by special messenger Brigadier General Catharinus P. Buckingham through a Virginia winter night, and delivered to McClellan's tent near Rectortown around eleven o'clock on November 7. The papers in Buckingham's pouch also contained a second removal, that of Major General Fitz John Porter from his corps command, and there was deliberate purpose in the pairing.

@@ -9,7 +9,7 @@ excerpt: "Full literary analysis of Molly Weasley across all Harry Potter books 
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2012-09-20
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Mother at the Heart of the Hearth

@@ -9,7 +9,7 @@ excerpt: "Citizen Kane is called the greatest film for reasons worth defending. 
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2010-02-15
+last_updated: 2026-07-09
 lang: en
 ---
 No single question follows Orson Welles's debut around more stubbornly than the one this article exists to answer: is Citizen Kane the greatest film ever made, or is it the most overrated picture in the canon? The reputation is so large that it has stopped being a recommendation and become a dare. People sit down expecting a revelation, watch a tycoon grow rich and lonely, hear a man whisper a word about a sled, and rise from the couch faintly cheated. The gap between what the reputation promises and what a first, passive viewing delivers is the real subject here, because that gap is the engine of every "overrated" thread on the internet, and it can be closed only with evidence rather than reverence.

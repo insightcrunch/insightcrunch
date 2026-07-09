@@ -9,7 +9,7 @@ excerpt: "A complete Citizen Kane timeline placing Kane's life in order, from th
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2010-05-01
+last_updated: 2026-07-09
 lang: en
 ---
 The single most common thing a viewer wants after watching Orson Welles's 1941 picture is a clean Citizen Kane timeline: the life of Charles Foster Kane laid out from birth to death, in the order it actually happened rather than the order the film throws at you. That desire is reasonable, because the film withholds chronology on purpose. It opens with a dying man, jumps to a fake newsreel obituary, then scatters the rest of his life across five remembered accounts that double back, overlap, and leave gaps. Reassembling that scattered material into a straight line is the first thing a serious student of the film should do, and it is also the first thing the film quietly dares you to notice it has hidden.

@@ -9,7 +9,7 @@ excerpt: "Loyalty and betrayal in Harry Potter from Pettigrew to Snape - the cen
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-04-17
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Two Men Who Defined the Argument

@@ -9,7 +9,7 @@ excerpt: "Van Buren tried to return 53 Amistad Africans to Cuban slavers in 1839
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2008-09-17
+last_updated: 2026-07-09
 lang: en
 ---
 John Quincy Adams rose at the bar of the Supreme Court on February 22, 1841, seventy-three years old, his voice carrying enough force to fill the small chamber on the ground floor of the Capitol. He had not argued a case before the Court in thirty-one years. The brief he was about to deliver would span two non-consecutive days and consume approximately eight and a half hours of speaking time. The opposing counsel sat at the table representing the executive branch of the United States: Attorney General Henry Gilpin, arguing on behalf of the sitting administration of President Martin Van Buren. The question before Justice Joseph Story and his colleagues was whether fifty-three Africans, captured by the U.S. Navy off the coast of Long Island in August 1839, should be returned to Spanish slavers in Cuba or freed.

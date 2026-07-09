@@ -9,7 +9,7 @@ excerpt: "The women of Harry Potter analyzed as mothers, warriors, and survivors
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-04-06
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: Two Truths That Refuse to Cancel

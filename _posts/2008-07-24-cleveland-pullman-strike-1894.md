@@ -9,7 +9,7 @@ excerpt: "Cleveland sent federal troops into Chicago in July 1894 over Governor 
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2008-07-24
+last_updated: 2026-07-09
 lang: en
 ---
 At 5:30 on the afternoon of that Tuesday, Attorney General Richard Olney walked into the cabinet room of the White House carrying two documents. The first was the omnibus injunction issued the previous day by Judges Peter S. Grosscup and William A. Woods of the United States Circuit Court for the Northern District of Illinois, restraining Eugene V. Debs and the American Railway Union from continuing what had become, within the space of twenty days, the largest sympathetic boycott in the country's history. The second was a draft order directing Major General Nelson A. Miles to move regular army units from Fort Sheridan into the city of Chicago to enforce that injunction and to protect the carriage of the United States mails. Grover Cleveland read both papers. He asked Olney a single question about the legal theory under which the army would operate. Then he signed.

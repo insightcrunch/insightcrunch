@@ -9,7 +9,7 @@ excerpt: "Lincoln drafted the Emancipation Proclamation in July 1862. He waited 
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2008-08-20
+last_updated: 2026-07-09
 lang: en
 ---
 The cabinet table in the upstairs library of the White House on Tuesday, July 22, 1862, held seven men who did not yet know the country was about to change. Lincoln had asked them there to listen, not to vote. He had a paper in his hand. The paper proposed that on January 1, 1863, every enslaved person in any state still in armed rebellion against the United States would, by executive proclamation invoking the war powers of the commander-in-chief, be then, thenceforward, and forever free. Salmon Chase, the Treasury Secretary, wanted emancipation immediately and more broadly, especially in occupied districts where he believed loyal labor could replace rebel labor. Edward Bates, the Attorney General, supported issuance but worried about legal form and the constitutional ground. Montgomery Blair, the Postmaster General, opposed entirely, fearing border-state defection and northern Democratic backlash in the fall elections. Gideon Welles, Navy Secretary, took notes that became the most reliable account of what was said. Edwin Stanton, War Secretary, said issue it now. Caleb Smith, Interior, said little. Then William Seward, Secretary of State, spoke, and Seward changed history without changing a word of the draft.

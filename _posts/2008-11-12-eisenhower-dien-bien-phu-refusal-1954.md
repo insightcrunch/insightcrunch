@@ -9,7 +9,7 @@ excerpt: "In 1954, Eisenhower refused to rescue France at Dien Bien Phu despite 
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 56
 author: "chloe-martin"
-last_updated: 2008-11-12
+last_updated: 2026-07-09
 lang: en
 ---
 ## The General Who Refused to Fight

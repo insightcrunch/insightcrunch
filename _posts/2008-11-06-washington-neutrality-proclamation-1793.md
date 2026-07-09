@@ -9,7 +9,7 @@ excerpt: "Washington's 1793 neutrality proclamation fractured his cabinet betwee
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 56
 author: "diana-patel"
-last_updated: 2008-11-06
+last_updated: 2026-07-09
 lang: en
 ---
 On April 12, 1793, news reached Philadelphia that France had declared war on Great Britain. The French Revolution, which Americans had watched with a volatile mixture of sympathy and horror since the fall of the Bastille in 1789, had become a continental military conflict. For President George Washington, the transatlantic war posed a question that no constitutional text could answer cleanly, no precedent could resolve, and no advisor could settle without a fight. The United States had signed a Treaty of Alliance with France in 1778, negotiated by Benjamin Franklin during the darkest months of the American Revolution. That treaty contained mutual-defense provisions. France had helped America win independence. Did America now owe France the same loyalty in return? And if so, who decided: the president or Congress?

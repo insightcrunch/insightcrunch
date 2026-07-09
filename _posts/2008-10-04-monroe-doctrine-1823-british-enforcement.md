@@ -9,7 +9,7 @@ excerpt: "Monroe closed the hemisphere to Old World colonization in 1823. Adams 
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 57
 author: "diana-patel"
-last_updated: 2008-10-04
+last_updated: 2026-07-09
 lang: en
 ---
 On the afternoon of November 7, 1823, Secretary of State John Quincy Adams sat in a cabinet meeting inside the Executive Mansion and told the President of the United States that he was wrong. James Monroe wanted to accept a proposal from George Canning, the British Foreign Secretary, for a joint Anglo-American statement opposing any European attempt to reconquer the newly independent nations of Latin America. Monroe had consulted Thomas Jefferson and James Madison, both of whom endorsed the British offer. The elder statesmen believed the protection of the Royal Navy was worth the cost of shared credit. Adams disagreed. Writing in his diary that evening, he recorded his argument in language that would shape the next two centuries of U.S. foreign policy: the United States should not come in "as a cock-boat in the wake of the British man-of-war." The phrase was more than rhetoric. It was a strategic gamble that risked the security of an entire hemisphere on a declaration the country lacked the military capacity to enforce.

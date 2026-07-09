@@ -9,7 +9,7 @@ excerpt: "AP exams reward strategy over raw effort. This complete guide maps the
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 59
 author: "patrick-dunn"
-last_updated: 2008-11-08
+last_updated: 2026-07-09
 lang: en
 ---
 The gap between a student who treats AP exams as a pile of hard classes to survive and one who treats them as a planned system is enormous, and it shows up in transcripts, in admissions files, and in the tuition bills that arrive four years later. Two students can sit the same number of Advanced Placement courses, log the same hours, and walk away with wildly different returns, because one chose subjects that compound and the other collected whatever fit the schedule. This guide is built to put you on the first path. It is the map of the whole program: what the AP system is, how the subjects group together, how the scoring works at a high level, how registration and the May testing rhythm operate, and how every piece fits a four-year plan instead of a frantic senior-year scramble.

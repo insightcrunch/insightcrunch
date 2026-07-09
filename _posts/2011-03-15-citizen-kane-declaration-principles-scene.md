@@ -9,7 +9,7 @@ excerpt: "The Declaration of Principles scene in Citizen Kane stages a promise b
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2011-03-15
+last_updated: 2026-07-09
 lang: en
 ---
 The Declaration of Principles scene in Citizen Kane lasts only a couple of minutes, yet it is the most precisely engineered time bomb in the picture. A young newspaperman, flushed with his first real triumph, sits down late at night and writes out a public vow: he will tell the news straight, and he will fight for the people who buy his paper. He believes every word. So does the friend standing over his shoulder, and that is exactly why the friend asks to keep the original page. This is a scene that knows its own ending before the story does. Everything Charles Foster Kane sets down in ink will be used against him, and the film makes sure we sense it the instant the document is born.

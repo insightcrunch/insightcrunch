@@ -9,7 +9,7 @@ excerpt: "How Harry Potter turns blood purity into class warfare: Malfoy wealth,
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 57
 author: "emily-reed"
-last_updated: 2013-04-01
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Aristocracy That Called Itself a Race

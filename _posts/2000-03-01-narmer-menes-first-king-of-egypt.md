@@ -9,7 +9,7 @@ excerpt: "Narmer or Menes: which name belongs to Egypt's first king, and were th
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2000-03-01
+last_updated: 2026-07-09
 lang: en
 ---
 Egyptian tradition is emphatic that one man founded the kingdom. The later Egyptians called him Menes, first ruler of the First Dynasty, the sovereign who bound Upper and Lower Egypt into a single crown and opened the long line of kings that would run for three thousand years. Yet not one contemporary object from the founding generation around 3100 BCE names a king called Menes. The monuments of that generation name someone else: Narmer, whose catfish-and-chisel emblem sits inside the earliest royal serekhs, on seal impressions that list the dynasty's kings, and on the ceremonial palette that shows a king wearing the crown of the south on one face and the crown of the north on the other. So the question that opens any serious account of Egypt's first king is not a trivia prompt but a genuine historical problem: who was Egypt's first king, Narmer or Menes, and were they the same man carrying two different names?

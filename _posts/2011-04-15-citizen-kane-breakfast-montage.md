@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane breakfast montage compresses nine years of marriage i
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2011-04-15
+last_updated: 2026-07-09
 lang: en
 ---
 A marriage begins, ages, and dies in roughly two minutes of screen time, and almost nothing is said about the dying. The Citizen Kane breakfast montage is the single most teachable passage in the entire film because it carries out, in miniature, the method the rest of the picture spends two hours building toward. It does not announce that Charles Foster Kane and his first wife grew apart. It shows the table between them getting longer, the talk between them getting shorter, and the warmth between them draining out frame by frame until two strangers sit reading rival newspapers in the same room. Form does the work that a lesser film would hand to a tearful confession scene. Watch the sequence once for its surface and you see a clever way to skip ahead in time. Watch it the way it rewards watching, and you see the whole argument of the film compressed into a handful of cuts.

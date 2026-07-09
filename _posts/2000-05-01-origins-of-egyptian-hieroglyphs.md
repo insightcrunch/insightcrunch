@@ -9,7 +9,7 @@ excerpt: "Egyptian hieroglyphs began not as sacred art but as bookkeeping. Disco
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2000-05-01
+last_updated: 2026-07-09
 lang: en
 ---
 The popular picture of Egyptian hieroglyphs is a wall of mystical bird-and-eye symbols carved by priests to guard sacred secrets. That picture gets the origin of writing almost exactly backward. The earliest signs in the Nile Valley were not sacred at all. They were tags on jars, marks on labels, and names stamped on royal property, scratched into bone and ivory to answer the least romantic questions a growing state can ask: how much, from where, belonging to whom. Writing in Egypt was born in the storeroom before it ever reached the temple wall, and understanding that sequence is the difference between knowing what hieroglyphs looked like and knowing what they were for.

@@ -9,7 +9,7 @@ excerpt: "How many AP classes do Ivy League and top colleges expect? A rigor-in-
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 2008-10-30
+last_updated: 2026-07-09
 lang: en
 ---
 The question of how many AP classes the Ivy League and other top colleges want is the single most misread number in selective admissions. Families treat it as a finish line: hit the magic count and the gates swing open. Admissions readers treat it as nothing of the kind. They read your schedule against the menu your own high school offered, ask whether you reached for the harder options available to you, and weigh that reach alongside the grades you earned while reaching. The number on its own carries almost no information. The number relative to opportunity carries a great deal. That gap, between a count students obsess over and a context readers actually evaluate, is where most AP planning goes wrong, and closing it is the entire purpose of this guide.

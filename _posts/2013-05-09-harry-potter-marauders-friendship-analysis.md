@@ -9,7 +9,7 @@ excerpt: "The Marauders in Harry Potter shared one dorm yet met four moral fates
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-05-09
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: Four Beds, Four Fates

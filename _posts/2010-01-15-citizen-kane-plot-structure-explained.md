@@ -9,7 +9,7 @@ excerpt: "Citizen Kane plot and structure explained: a frame story, five narrato
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2010-01-15
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Plot Is Simple, the Architecture Is the Masterpiece

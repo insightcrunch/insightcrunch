@@ -9,7 +9,7 @@ excerpt: "Bullying in Harry Potter scales from Dudley's fists to Umbridge's bloo
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 57
 author: "emily-reed"
-last_updated: 2013-03-15
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Bully's First Lesson Is Always the Same

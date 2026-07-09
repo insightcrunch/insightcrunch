@@ -9,7 +9,7 @@ excerpt: "Redemption arcs in Harry Potter decoded: why Snape and Regulus earned 
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 58
 author: "victoria-stone"
-last_updated: 2013-05-14
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Ledger That Only Counts What You Do

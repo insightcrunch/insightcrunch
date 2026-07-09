@@ -9,7 +9,7 @@ excerpt: "A Harry Potter character study of Horace Slughorn: the affable bystand
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-02-27
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Most Comfortable Man in the Wizarding World

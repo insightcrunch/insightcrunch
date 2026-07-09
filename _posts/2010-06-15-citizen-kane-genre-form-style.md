@@ -3,7 +3,7 @@ title: "Citizen Kane: Genre, Form, and Style"
 page_title: "Citizen Kane Genre, Form, and Style Explained: Is It Noir, a Biopic, or a Tragedy?"
 slug: citizen-kane-genre-form-style
 date: 2010-06-15
-last_updated: 2010-06-15
+last_updated: 2026-07-09
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Film Theory", "Cinematography", "Themes", "Film History"]
 image: "/assets/images/blog/blog-97.webp"

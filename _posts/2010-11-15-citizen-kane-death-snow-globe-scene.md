@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane death scene and the snow globe stage a magic trick of
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2010-11-15
+last_updated: 2026-07-09
 lang: en
 ---
 The Citizen Kane death scene lasts under two minutes, and almost everything the film spends the next two hours chasing is planted, withheld, or quietly faked inside it. A dying man holds a small glass sphere with a snowbound cabin inside, whispers a single word, lets the object slip from his hand, and the glass breaks on the marble floor. That is the whole of it. Yet this brief passage is the keystone the entire structure rests on, because it manufactures the mystery that every later sequence pretends to solve, and it does so with a sleight of hand most viewers never catch. The reporter who spends the film hunting for the meaning of the dying word is chasing something the staging of this very passage suggests no living person could have heard. Read frame by frame, the opening is not an emotional prelude to a detective story. It is the detective story's quiet confession that the case was unsolvable from the first image.

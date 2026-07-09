@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane Susan deep focus scene works as moral architecture, i
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2011-08-15
+last_updated: 2026-07-09
 lang: en
 ---
 A single shot in Citizen Kane carries an entire marriage to its breaking point. The Citizen Kane Susan deep focus scene, the darkened bedroom where Susan Alexander reaches the limit of what she can endure, is one of the most discussed compositions Orson Welles and Gregg Toland ever built, and it earns that attention by doing in one frame what most films need a whole sequence to manage. A glass and a small bottle sit huge in the extreme foreground. Susan lies still in the middle distance. Far behind her, a locked door gives way and Kane forces his way in. The frame holds all three at once, and because it holds them at once, the image states its argument without a single line of dialogue: Susan's suffering and Kane's control occupy the same picture, and her collapse is the bill that finally comes due for his refusal to let her live an ordinary life.

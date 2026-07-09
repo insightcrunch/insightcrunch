@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane sledding scene signs a child's future away while he p
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2011-02-01
+last_updated: 2026-07-09
 lang: en
 ---
 The Citizen Kane sledding scene compresses an entire life into a single arrangement of glass, snow, and depth. A boy plays outside in the white, shouting at an imaginary war, while indoors his mother and a banker bend over a contract that hands him to a stranger and an empire. The boyhood sledding scene gives the film its most quoted composition and its quietest catastrophe at the same instant, because the camera keeps the child sharp and small in the far distance while the people deciding his fate fill the front of the frame. Nothing in the picture argues its central idea more efficiently than this one setup, and nothing rewards slow looking more.

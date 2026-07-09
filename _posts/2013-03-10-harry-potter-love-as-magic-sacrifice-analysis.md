@@ -9,7 +9,7 @@ excerpt: "Love as a magical mechanism in Harry Potter - Lily's sacrifice, matern
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 57
 author: "sophia-turner"
-last_updated: 2013-03-10
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Spell No Dark Wizard Can Cast

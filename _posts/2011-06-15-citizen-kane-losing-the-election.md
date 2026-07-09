@@ -9,7 +9,7 @@ excerpt: "Citizen Kane losing the election turns a defeat into a study of denial
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2011-06-15
+last_updated: 2026-07-09
 lang: en
 ---
 Citizen Kane losing the election is the moment the film stops dramatizing a man's rise and begins, with terrible patience, to dramatize how he refuses to register a fall. The sequence is short on incident. A campaign collapses offscreen, a count comes in, a newspaper goes to press, and two men who built that newspaper together stand in an emptied room and stop being friends. Yet the few minutes between the lost vote and the drunken late-night argument carry more diagnostic weight than almost anything else in the picture, because they show you exactly what Charles Foster Kane does when reality hands him a verdict he did not write. He reaches for the printing press and prints a different verdict. The defeat is the first thing in his adult life he cannot buy, charm, or out-publish, and the sequence watches him try all three anyway.

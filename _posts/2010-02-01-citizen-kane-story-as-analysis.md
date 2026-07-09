@@ -9,7 +9,7 @@ excerpt: "Citizen Kane explained as the full life of Charles Foster Kane, told i
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2010-02-01
+last_updated: 2026-07-09
 lang: en
 ---
 Most people who look up Citizen Kane want one simple thing: a clear account of what actually happens. They have heard that it is the greatest film ever made, they know there is a sled, and they have a vague sense that a rich man dies whispering a strange word. What they rarely get is the version that matters, which is the life of Charles Foster Kane laid out in plain order and then read for meaning rather than recited as trivia. This guide gives you that. It walks Kane's biography from the snow outside a Colorado boardinghouse to the smoke rising over Xanadu, and at every step it pairs the question "what happened" with the harder question the picture is really built around: why does the film refuse to show it to us this way?

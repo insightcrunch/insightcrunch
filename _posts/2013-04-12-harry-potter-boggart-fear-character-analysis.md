@@ -9,7 +9,7 @@ excerpt: "How Harry Potter turns the boggart into its sharpest psychological too
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 57
 author: "claire-bennett"
-last_updated: 2013-04-12
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Creature in the Drawer

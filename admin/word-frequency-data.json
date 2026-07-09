@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-05T20:16:34Z",
+  "generated": "2026-07-09T09:52:51Z",
   "threshold": 50,
-  "totalPosts": 3377,
-  "flaggedPosts": 3027,
+  "totalPosts": 3430,
+  "flaggedPosts": 3080,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 165.6,
+  "avgTopCount": 165.8,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -21753,6 +21753,1602 @@
         {
           "word": "calculator",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2000-01-01-predynastic-egypt-complete-guide.md",
+      "slug": "predynastic-egypt-complete-guide",
+      "title": "Predynastic Egypt: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8967,
+      "topWord": "predynastic",
+      "topCount": 191,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-01-01-predynastic-egypt-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "predynastic",
+          "count": 191
+        },
+        {
+          "word": "egypt",
+          "count": 123
+        },
+        {
+          "word": "naqada",
+          "count": 111
+        },
+        {
+          "word": "egyptian",
+          "count": 107
+        }
+      ],
+      "top20": [
+        {
+          "word": "predynastic",
+          "count": 191
+        },
+        {
+          "word": "egypt",
+          "count": 123
+        },
+        {
+          "word": "naqada",
+          "count": 111
+        },
+        {
+          "word": "egyptian",
+          "count": 107
+        },
+        {
+          "word": "dynastic",
+          "count": 48
+        },
+        {
+          "word": "period",
+          "count": 47
+        },
+        {
+          "word": "evidence",
+          "count": 47
+        },
+        {
+          "word": "culture",
+          "count": 41
+        },
+        {
+          "word": "trade",
+          "count": 40
+        },
+        {
+          "word": "civilization",
+          "count": 39
+        },
+        {
+          "word": "elite",
+          "count": 39
+        },
+        {
+          "word": "nile",
+          "count": 38
+        },
+        {
+          "word": "bce",
+          "count": 36
+        },
+        {
+          "word": "single",
+          "count": 36
+        },
+        {
+          "word": "valley",
+          "count": 35
+        },
+        {
+          "word": "villages",
+          "count": 35
+        },
+        {
+          "word": "kingship",
+          "count": 35
+        },
+        {
+          "word": "history",
+          "count": 34
+        },
+        {
+          "word": "pottery",
+          "count": 33
+        },
+        {
+          "word": "upper",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2000-01-15-hire-a-plumber-complete-guide.md",
+      "slug": "hire-a-plumber-complete-guide",
+      "title": "How to Hire a Plumber: The Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7971,
+      "topWord": "plumber",
+      "topCount": 215,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-01-15-hire-a-plumber-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "plumber",
+          "count": 215
+        },
+        {
+          "word": "job",
+          "count": 113
+        },
+        {
+          "word": "plumbing",
+          "count": 80
+        },
+        {
+          "word": "license",
+          "count": 54
+        },
+        {
+          "word": "problem",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "plumber",
+          "count": 215
+        },
+        {
+          "word": "job",
+          "count": 113
+        },
+        {
+          "word": "plumbing",
+          "count": 80
+        },
+        {
+          "word": "license",
+          "count": 54
+        },
+        {
+          "word": "problem",
+          "count": 53
+        },
+        {
+          "word": "hire",
+          "count": 47
+        },
+        {
+          "word": "scope",
+          "count": 45
+        },
+        {
+          "word": "quote",
+          "count": 44
+        },
+        {
+          "word": "price",
+          "count": 42
+        },
+        {
+          "word": "guide",
+          "count": 39
+        },
+        {
+          "word": "sewer",
+          "count": 38
+        },
+        {
+          "word": "heater",
+          "count": 38
+        },
+        {
+          "word": "fixture",
+          "count": 37
+        },
+        {
+          "word": "drain",
+          "count": 36
+        },
+        {
+          "word": "repair",
+          "count": 35
+        },
+        {
+          "word": "permit",
+          "count": 35
+        },
+        {
+          "word": "licensed",
+          "count": 34
+        },
+        {
+          "word": "supply",
+          "count": 32
+        },
+        {
+          "word": "homeowner",
+          "count": 32
+        },
+        {
+          "word": "visit",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "filename": "2000-02-01-unification-of-ancient-egypt.md",
+      "slug": "unification-of-ancient-egypt",
+      "title": "The Unification of Egypt Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7417,
+      "topWord": "king",
+      "topCount": 113,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-02-01-unification-of-ancient-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "king",
+          "count": 113
+        },
+        {
+          "word": "southern",
+          "count": 96
+        },
+        {
+          "word": "unification",
+          "count": 88
+        },
+        {
+          "word": "narmer",
+          "count": 80
+        },
+        {
+          "word": "single",
+          "count": 75
+        },
+        {
+          "word": "royal",
+          "count": 67
+        },
+        {
+          "word": "lands",
+          "count": 58
+        },
+        {
+          "word": "palette",
+          "count": 56
+        },
+        {
+          "word": "delta",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "king",
+          "count": 113
+        },
+        {
+          "word": "southern",
+          "count": 96
+        },
+        {
+          "word": "unification",
+          "count": 88
+        },
+        {
+          "word": "narmer",
+          "count": 80
+        },
+        {
+          "word": "single",
+          "count": 75
+        },
+        {
+          "word": "royal",
+          "count": 67
+        },
+        {
+          "word": "lands",
+          "count": 58
+        },
+        {
+          "word": "palette",
+          "count": 56
+        },
+        {
+          "word": "delta",
+          "count": 56
+        },
+        {
+          "word": "northern",
+          "count": 49
+        },
+        {
+          "word": "country",
+          "count": 45
+        },
+        {
+          "word": "crown",
+          "count": 44
+        },
+        {
+          "word": "north",
+          "count": 42
+        },
+        {
+          "word": "valley",
+          "count": 37
+        },
+        {
+          "word": "egypt",
+          "count": 36
+        },
+        {
+          "word": "south",
+          "count": 36
+        },
+        {
+          "word": "dynasty",
+          "count": 36
+        },
+        {
+          "word": "evidence",
+          "count": 34
+        },
+        {
+          "word": "kings",
+          "count": 34
+        },
+        {
+          "word": "founder",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2000-03-01-narmer-menes-first-king-of-egypt.md",
+      "slug": "narmer-menes-first-king-of-egypt",
+      "title": "Narmer or Menes: Egypt's First King",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7157,
+      "topWord": "narmer",
+      "topCount": 256,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-03-01-narmer-menes-first-king-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "narmer",
+          "count": 256
+        },
+        {
+          "word": "king",
+          "count": 210
+        },
+        {
+          "word": "menes",
+          "count": 125
+        },
+        {
+          "word": "egypt",
+          "count": 108
+        },
+        {
+          "word": "founding",
+          "count": 76
+        },
+        {
+          "word": "founder",
+          "count": 76
+        },
+        {
+          "word": "dynasty",
+          "count": 66
+        },
+        {
+          "word": "royal",
+          "count": 66
+        },
+        {
+          "word": "egyptian",
+          "count": 57
+        },
+        {
+          "word": "tradition",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "narmer",
+          "count": 256
+        },
+        {
+          "word": "king",
+          "count": 210
+        },
+        {
+          "word": "menes",
+          "count": 125
+        },
+        {
+          "word": "egypt",
+          "count": 108
+        },
+        {
+          "word": "founding",
+          "count": 76
+        },
+        {
+          "word": "founder",
+          "count": 76
+        },
+        {
+          "word": "dynasty",
+          "count": 66
+        },
+        {
+          "word": "royal",
+          "count": 66
+        },
+        {
+          "word": "egyptian",
+          "count": 57
+        },
+        {
+          "word": "tradition",
+          "count": 52
+        },
+        {
+          "word": "palette",
+          "count": 46
+        },
+        {
+          "word": "evidence",
+          "count": 46
+        },
+        {
+          "word": "horus",
+          "count": 45
+        },
+        {
+          "word": "kings",
+          "count": 44
+        },
+        {
+          "word": "kingship",
+          "count": 39
+        },
+        {
+          "word": "hor",
+          "count": 39
+        },
+        {
+          "word": "aha",
+          "count": 39
+        },
+        {
+          "word": "contemporary",
+          "count": 37
+        },
+        {
+          "word": "serekh",
+          "count": 36
+        },
+        {
+          "word": "seal",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2000-04-01-daily-life-in-predynastic-egypt.md",
+      "slug": "daily-life-in-predynastic-egypt",
+      "title": "Daily Life in Predynastic Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7885,
+      "topWord": "predynastic",
+      "topCount": 144,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-04-01-daily-life-in-predynastic-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "predynastic",
+          "count": 144
+        },
+        {
+          "word": "daily",
+          "count": 55
+        },
+        {
+          "word": "egypt",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "predynastic",
+          "count": 144
+        },
+        {
+          "word": "daily",
+          "count": 55
+        },
+        {
+          "word": "egypt",
+          "count": 55
+        },
+        {
+          "word": "graves",
+          "count": 50
+        },
+        {
+          "word": "stone",
+          "count": 45
+        },
+        {
+          "word": "ordinary",
+          "count": 42
+        },
+        {
+          "word": "evidence",
+          "count": 40
+        },
+        {
+          "word": "society",
+          "count": 38
+        },
+        {
+          "word": "river",
+          "count": 38
+        },
+        {
+          "word": "grave",
+          "count": 37
+        },
+        {
+          "word": "farming",
+          "count": 36
+        },
+        {
+          "word": "naqada",
+          "count": 35
+        },
+        {
+          "word": "goods",
+          "count": 33
+        },
+        {
+          "word": "desert",
+          "count": 31
+        },
+        {
+          "word": "household",
+          "count": 30
+        },
+        {
+          "word": "labor",
+          "count": 30
+        },
+        {
+          "word": "food",
+          "count": 30
+        },
+        {
+          "word": "flood",
+          "count": 29
+        },
+        {
+          "word": "ground",
+          "count": 28
+        },
+        {
+          "word": "village",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2000-05-01-origins-of-egyptian-hieroglyphs.md",
+      "slug": "origins-of-egyptian-hieroglyphs",
+      "title": "The Origins of Egyptian Hieroglyphs",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7443,
+      "topWord": "writing",
+      "topCount": 195,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-05-01-origins-of-egyptian-hieroglyphs.md",
+      "flaggedWords": [
+        {
+          "word": "writing",
+          "count": 195
+        },
+        {
+          "word": "egyptian",
+          "count": 123
+        },
+        {
+          "word": "signs",
+          "count": 114
+        },
+        {
+          "word": "script",
+          "count": 111
+        },
+        {
+          "word": "language",
+          "count": 58
+        },
+        {
+          "word": "read",
+          "count": 56
+        },
+        {
+          "word": "hieroglyphs",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "writing",
+          "count": 195
+        },
+        {
+          "word": "egyptian",
+          "count": 123
+        },
+        {
+          "word": "signs",
+          "count": 114
+        },
+        {
+          "word": "script",
+          "count": 111
+        },
+        {
+          "word": "language",
+          "count": 58
+        },
+        {
+          "word": "read",
+          "count": 56
+        },
+        {
+          "word": "hieroglyphs",
+          "count": 53
+        },
+        {
+          "word": "egyptians",
+          "count": 45
+        },
+        {
+          "word": "egypt",
+          "count": 38
+        },
+        {
+          "word": "picture",
+          "count": 36
+        },
+        {
+          "word": "sign",
+          "count": 33
+        },
+        {
+          "word": "royal",
+          "count": 32
+        },
+        {
+          "word": "record",
+          "count": 32
+        },
+        {
+          "word": "sound",
+          "count": 31
+        },
+        {
+          "word": "words",
+          "count": 30
+        },
+        {
+          "word": "administration",
+          "count": 30
+        },
+        {
+          "word": "earliest",
+          "count": 29
+        },
+        {
+          "word": "texts",
+          "count": 28
+        },
+        {
+          "word": "pictures",
+          "count": 27
+        },
+        {
+          "word": "scribes",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2000-06-01-first-gods-of-ancient-egypt.md",
+      "slug": "first-gods-of-ancient-egypt",
+      "title": "The First Gods of Ancient Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7664,
+      "topWord": "egyptian",
+      "topCount": 133,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-06-01-first-gods-of-ancient-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 133
+        },
+        {
+          "word": "gods",
+          "count": 111
+        },
+        {
+          "word": "god",
+          "count": 95
+        },
+        {
+          "word": "religion",
+          "count": 95
+        },
+        {
+          "word": "egypt",
+          "count": 85
+        },
+        {
+          "word": "king",
+          "count": 83
+        },
+        {
+          "word": "predynastic",
+          "count": 83
+        },
+        {
+          "word": "divine",
+          "count": 82
+        },
+        {
+          "word": "horus",
+          "count": 65
+        },
+        {
+          "word": "earliest",
+          "count": 61
+        },
+        {
+          "word": "falcon",
+          "count": 59
+        },
+        {
+          "word": "sacred",
+          "count": 58
+        },
+        {
+          "word": "animal",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 133
+        },
+        {
+          "word": "gods",
+          "count": 111
+        },
+        {
+          "word": "god",
+          "count": 95
+        },
+        {
+          "word": "religion",
+          "count": 95
+        },
+        {
+          "word": "egypt",
+          "count": 85
+        },
+        {
+          "word": "king",
+          "count": 83
+        },
+        {
+          "word": "predynastic",
+          "count": 83
+        },
+        {
+          "word": "divine",
+          "count": 82
+        },
+        {
+          "word": "horus",
+          "count": 65
+        },
+        {
+          "word": "earliest",
+          "count": 61
+        },
+        {
+          "word": "falcon",
+          "count": 59
+        },
+        {
+          "word": "sacred",
+          "count": 58
+        },
+        {
+          "word": "animal",
+          "count": 51
+        },
+        {
+          "word": "belief",
+          "count": 44
+        },
+        {
+          "word": "royal",
+          "count": 42
+        },
+        {
+          "word": "religious",
+          "count": 41
+        },
+        {
+          "word": "desert",
+          "count": 40
+        },
+        {
+          "word": "graves",
+          "count": 40
+        },
+        {
+          "word": "dead",
+          "count": 39
+        },
+        {
+          "word": "power",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "filename": "2000-07-01-abydos-first-royal-tombs-of-egypt.md",
+      "slug": "abydos-first-royal-tombs-of-egypt",
+      "title": "Abydos and Egypt's First Royal Tombs",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7655,
+      "topWord": "royal",
+      "topCount": 206,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-07-01-abydos-first-royal-tombs-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "royal",
+          "count": 206
+        },
+        {
+          "word": "abydos",
+          "count": 158
+        },
+        {
+          "word": "tombs",
+          "count": 136
+        },
+        {
+          "word": "tomb",
+          "count": 131
+        },
+        {
+          "word": "pyramid",
+          "count": 94
+        },
+        {
+          "word": "egyptian",
+          "count": 76
+        },
+        {
+          "word": "burial",
+          "count": 67
+        },
+        {
+          "word": "kings",
+          "count": 65
+        },
+        {
+          "word": "mastaba",
+          "count": 64
+        },
+        {
+          "word": "dynasty",
+          "count": 64
+        },
+        {
+          "word": "king",
+          "count": 64
+        },
+        {
+          "word": "stone",
+          "count": 57
+        },
+        {
+          "word": "egypt",
+          "count": 52
+        },
+        {
+          "word": "cemetery",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "royal",
+          "count": 206
+        },
+        {
+          "word": "abydos",
+          "count": 158
+        },
+        {
+          "word": "tombs",
+          "count": 136
+        },
+        {
+          "word": "tomb",
+          "count": 131
+        },
+        {
+          "word": "pyramid",
+          "count": 94
+        },
+        {
+          "word": "egyptian",
+          "count": 76
+        },
+        {
+          "word": "burial",
+          "count": 67
+        },
+        {
+          "word": "kings",
+          "count": 65
+        },
+        {
+          "word": "mastaba",
+          "count": 64
+        },
+        {
+          "word": "dynasty",
+          "count": 64
+        },
+        {
+          "word": "king",
+          "count": 64
+        },
+        {
+          "word": "stone",
+          "count": 57
+        },
+        {
+          "word": "egypt",
+          "count": 52
+        },
+        {
+          "word": "cemetery",
+          "count": 51
+        },
+        {
+          "word": "earliest",
+          "count": 45
+        },
+        {
+          "word": "ground",
+          "count": 44
+        },
+        {
+          "word": "built",
+          "count": 42
+        },
+        {
+          "word": "architecture",
+          "count": 41
+        },
+        {
+          "word": "desert",
+          "count": 39
+        },
+        {
+          "word": "buried",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2000-08-01-how-the-nile-built-egyptian-state.md",
+      "slug": "how-the-nile-built-egyptian-state",
+      "title": "How the Nile Built the Egyptian State",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7314,
+      "topWord": "surplus",
+      "topCount": 133,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-08-01-how-the-nile-built-egyptian-state.md",
+      "flaggedWords": [
+        {
+          "word": "surplus",
+          "count": 133
+        },
+        {
+          "word": "river",
+          "count": 125
+        },
+        {
+          "word": "flood",
+          "count": 113
+        },
+        {
+          "word": "nile",
+          "count": 103
+        },
+        {
+          "word": "grain",
+          "count": 100
+        },
+        {
+          "word": "egypt",
+          "count": 94
+        },
+        {
+          "word": "egyptian",
+          "count": 70
+        },
+        {
+          "word": "farming",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "surplus",
+          "count": 133
+        },
+        {
+          "word": "river",
+          "count": 125
+        },
+        {
+          "word": "flood",
+          "count": 113
+        },
+        {
+          "word": "nile",
+          "count": 103
+        },
+        {
+          "word": "grain",
+          "count": 100
+        },
+        {
+          "word": "egypt",
+          "count": 94
+        },
+        {
+          "word": "egyptian",
+          "count": 70
+        },
+        {
+          "word": "farming",
+          "count": 56
+        },
+        {
+          "word": "labor",
+          "count": 46
+        },
+        {
+          "word": "valley",
+          "count": 38
+        },
+        {
+          "word": "land",
+          "count": 37
+        },
+        {
+          "word": "fields",
+          "count": 34
+        },
+        {
+          "word": "country",
+          "count": 33
+        },
+        {
+          "word": "authority",
+          "count": 33
+        },
+        {
+          "word": "central",
+          "count": 32
+        },
+        {
+          "word": "coordination",
+          "count": 32
+        },
+        {
+          "word": "economy",
+          "count": 31
+        },
+        {
+          "word": "egyptians",
+          "count": 30
+        },
+        {
+          "word": "single",
+          "count": 30
+        },
+        {
+          "word": "grew",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2000-09-01-how-we-know-about-predynastic-egypt.md",
+      "slug": "how-we-know-about-predynastic-egypt",
+      "title": "How We Know About Predynastic Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7560,
+      "topWord": "predynastic",
+      "topCount": 143,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-09-01-how-we-know-about-predynastic-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "predynastic",
+          "count": 143
+        },
+        {
+          "word": "egypt",
+          "count": 70
+        },
+        {
+          "word": "material",
+          "count": 59
+        },
+        {
+          "word": "record",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "predynastic",
+          "count": 143
+        },
+        {
+          "word": "egypt",
+          "count": 70
+        },
+        {
+          "word": "material",
+          "count": 59
+        },
+        {
+          "word": "record",
+          "count": 52
+        },
+        {
+          "word": "reader",
+          "count": 48
+        },
+        {
+          "word": "sequence",
+          "count": 46
+        },
+        {
+          "word": "objects",
+          "count": 41
+        },
+        {
+          "word": "pottery",
+          "count": 39
+        },
+        {
+          "word": "period",
+          "count": 37
+        },
+        {
+          "word": "graves",
+          "count": 37
+        },
+        {
+          "word": "source",
+          "count": 36
+        },
+        {
+          "word": "grave",
+          "count": 33
+        },
+        {
+          "word": "single",
+          "count": 30
+        },
+        {
+          "word": "egyptian",
+          "count": 30
+        },
+        {
+          "word": "radiocarbon",
+          "count": 30
+        },
+        {
+          "word": "evidence",
+          "count": 29
+        },
+        {
+          "word": "naqada",
+          "count": 28
+        },
+        {
+          "word": "story",
+          "count": 26
+        },
+        {
+          "word": "goods",
+          "count": 26
+        },
+        {
+          "word": "dates",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "filename": "2000-10-01-predynastic-vs-early-dynastic-egypt.md",
+      "slug": "predynastic-vs-early-dynastic-egypt",
+      "title": "Predynastic vs Early Dynastic Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6523,
+      "topWord": "predynastic",
+      "topCount": 104,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-10-01-predynastic-vs-early-dynastic-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "predynastic",
+          "count": 104
+        },
+        {
+          "word": "dynastic",
+          "count": 99
+        },
+        {
+          "word": "royal",
+          "count": 87
+        },
+        {
+          "word": "dynasty",
+          "count": 84
+        },
+        {
+          "word": "king",
+          "count": 58
+        },
+        {
+          "word": "valley",
+          "count": 55
+        },
+        {
+          "word": "single",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "predynastic",
+          "count": 104
+        },
+        {
+          "word": "dynastic",
+          "count": 99
+        },
+        {
+          "word": "royal",
+          "count": 87
+        },
+        {
+          "word": "dynasty",
+          "count": 84
+        },
+        {
+          "word": "king",
+          "count": 58
+        },
+        {
+          "word": "valley",
+          "count": 55
+        },
+        {
+          "word": "single",
+          "count": 54
+        },
+        {
+          "word": "egypt",
+          "count": 47
+        },
+        {
+          "word": "boundary",
+          "count": 45
+        },
+        {
+          "word": "writing",
+          "count": 39
+        },
+        {
+          "word": "kingship",
+          "count": 39
+        },
+        {
+          "word": "unification",
+          "count": 34
+        },
+        {
+          "word": "rulers",
+          "count": 33
+        },
+        {
+          "word": "record",
+          "count": 32
+        },
+        {
+          "word": "comparison",
+          "count": 32
+        },
+        {
+          "word": "change",
+          "count": 29
+        },
+        {
+          "word": "burial",
+          "count": 29
+        },
+        {
+          "word": "bce",
+          "count": 28
+        },
+        {
+          "word": "threshold",
+          "count": 28
+        },
+        {
+          "word": "unified",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2000-11-01-old-kingdom-of-egypt-complete-guide.md",
+      "slug": "old-kingdom-of-egypt-complete-guide",
+      "title": "The Old Kingdom of Egypt: Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8475,
+      "topWord": "kingdom",
+      "topCount": 162,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-11-01-old-kingdom-of-egypt-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "kingdom",
+          "count": 162
+        },
+        {
+          "word": "pyramid",
+          "count": 96
+        },
+        {
+          "word": "king",
+          "count": 89
+        },
+        {
+          "word": "period",
+          "count": 76
+        },
+        {
+          "word": "royal",
+          "count": 70
+        },
+        {
+          "word": "pyramids",
+          "count": 69
+        },
+        {
+          "word": "dynasty",
+          "count": 62
+        },
+        {
+          "word": "egypt",
+          "count": 60
+        },
+        {
+          "word": "egyptian",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "kingdom",
+          "count": 162
+        },
+        {
+          "word": "pyramid",
+          "count": 96
+        },
+        {
+          "word": "king",
+          "count": 89
+        },
+        {
+          "word": "period",
+          "count": 76
+        },
+        {
+          "word": "royal",
+          "count": 70
+        },
+        {
+          "word": "pyramids",
+          "count": 69
+        },
+        {
+          "word": "dynasty",
+          "count": 62
+        },
+        {
+          "word": "egypt",
+          "count": 60
+        },
+        {
+          "word": "egyptian",
+          "count": 53
+        },
+        {
+          "word": "built",
+          "count": 48
+        },
+        {
+          "word": "power",
+          "count": 41
+        },
+        {
+          "word": "stone",
+          "count": 40
+        },
+        {
+          "word": "labor",
+          "count": 38
+        },
+        {
+          "word": "monuments",
+          "count": 37
+        },
+        {
+          "word": "single",
+          "count": 34
+        },
+        {
+          "word": "central",
+          "count": 33
+        },
+        {
+          "word": "kings",
+          "count": 32
+        },
+        {
+          "word": "surplus",
+          "count": 30
+        },
+        {
+          "word": "local",
+          "count": 29
+        },
+        {
+          "word": "third",
+          "count": 27
         }
       ]
     },
@@ -321508,6 +323104,168 @@
       ]
     },
     {
+      "filename": "2025-01-01-will-russia-attack-poland-risk-assessment.md",
+      "slug": "will-russia-attack-poland-risk-assessment",
+      "title": "Will Russia Attack Poland? A Risk Assessment",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8013,
+      "topWord": "cost",
+      "topCount": 136,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-01-01-will-russia-attack-poland-risk-assessment.md",
+      "flaggedWords": [
+        {
+          "word": "cost",
+          "count": 136
+        },
+        {
+          "word": "poland",
+          "count": 95
+        },
+        {
+          "word": "attack",
+          "count": 86
+        },
+        {
+          "word": "low",
+          "count": 84
+        },
+        {
+          "word": "alliance",
+          "count": 82
+        },
+        {
+          "word": "war",
+          "count": 79
+        },
+        {
+          "word": "risk",
+          "count": 75
+        },
+        {
+          "word": "resolve",
+          "count": 72
+        },
+        {
+          "word": "factor",
+          "count": 70
+        },
+        {
+          "word": "capability",
+          "count": 65
+        },
+        {
+          "word": "intent",
+          "count": 62
+        },
+        {
+          "word": "judgment",
+          "count": 61
+        },
+        {
+          "word": "factors",
+          "count": 59
+        },
+        {
+          "word": "verdict",
+          "count": 58
+        },
+        {
+          "word": "reader",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "cost",
+          "count": 136
+        },
+        {
+          "word": "poland",
+          "count": 95
+        },
+        {
+          "word": "attack",
+          "count": 86
+        },
+        {
+          "word": "low",
+          "count": 84
+        },
+        {
+          "word": "alliance",
+          "count": 82
+        },
+        {
+          "word": "war",
+          "count": 79
+        },
+        {
+          "word": "risk",
+          "count": 75
+        },
+        {
+          "word": "resolve",
+          "count": 72
+        },
+        {
+          "word": "factor",
+          "count": 70
+        },
+        {
+          "word": "capability",
+          "count": 65
+        },
+        {
+          "word": "intent",
+          "count": 62
+        },
+        {
+          "word": "judgment",
+          "count": 61
+        },
+        {
+          "word": "factors",
+          "count": 59
+        },
+        {
+          "word": "verdict",
+          "count": 58
+        },
+        {
+          "word": "reader",
+          "count": 57
+        },
+        {
+          "word": "question",
+          "count": 50
+        },
+        {
+          "word": "russia",
+          "count": 48
+        },
+        {
+          "word": "russian",
+          "count": 45
+        },
+        {
+          "word": "guarantee",
+          "count": 45
+        },
+        {
+          "word": "gate",
+          "count": 44
+        }
+      ]
+    },
+    {
       "filename": "2025-01-02-gaokao-beijing-guide.md",
       "slug": "gaokao-beijing-guide",
       "title": "北京高考完全指南 - 自主命题、本地名校集群与户籍录取池全解读",
@@ -335306,6 +337064,152 @@
       ]
     },
     {
+      "filename": "2025-06-11-warning-time-in-a-suwalki-crisis.md",
+      "slug": "warning-time-in-a-suwalki-crisis",
+      "title": "How Much Warning in a Suwalki Crisis",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7272,
+      "topWord": "warning",
+      "topCount": 134,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-06-11-warning-time-in-a-suwalki-crisis.md",
+      "flaggedWords": [
+        {
+          "word": "warning",
+          "count": 134
+        },
+        {
+          "word": "corridor",
+          "count": 97
+        },
+        {
+          "word": "short",
+          "count": 76
+        },
+        {
+          "word": "decision",
+          "count": 62
+        },
+        {
+          "word": "readiness",
+          "count": 61
+        },
+        {
+          "word": "clock",
+          "count": 61
+        },
+        {
+          "word": "forces",
+          "count": 57
+        },
+        {
+          "word": "posture",
+          "count": 57
+        },
+        {
+          "word": "notice",
+          "count": 55
+        },
+        {
+          "word": "window",
+          "count": 55
+        },
+        {
+          "word": "defender",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "warning",
+          "count": 134
+        },
+        {
+          "word": "corridor",
+          "count": 97
+        },
+        {
+          "word": "short",
+          "count": 76
+        },
+        {
+          "word": "decision",
+          "count": 62
+        },
+        {
+          "word": "readiness",
+          "count": 61
+        },
+        {
+          "word": "clock",
+          "count": 61
+        },
+        {
+          "word": "forces",
+          "count": 57
+        },
+        {
+          "word": "posture",
+          "count": 57
+        },
+        {
+          "word": "notice",
+          "count": 55
+        },
+        {
+          "word": "window",
+          "count": 55
+        },
+        {
+          "word": "defender",
+          "count": 52
+        },
+        {
+          "word": "rung",
+          "count": 48
+        },
+        {
+          "word": "movement",
+          "count": 47
+        },
+        {
+          "word": "force",
+          "count": 44
+        },
+        {
+          "word": "forward",
+          "count": 44
+        },
+        {
+          "word": "indicators",
+          "count": 42
+        },
+        {
+          "word": "study",
+          "count": 41
+        },
+        {
+          "word": "geometry",
+          "count": 40
+        },
+        {
+          "word": "reinforcement",
+          "count": 40
+        },
+        {
+          "word": "tells",
+          "count": 38
+        }
+      ]
+    },
+    {
       "filename": "2025-06-14-personal-finance-guide-india.md",
       "slug": "personal-finance-guide-india",
       "title": "Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS & Tax",
@@ -336214,6 +338118,184 @@
       ]
     },
     {
+      "filename": "2025-06-21-closing-the-suwalki-gap-options.md",
+      "slug": "closing-the-suwalki-gap-options",
+      "title": "Closing the Suwalki Gap: Defense Options",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7916,
+      "topWord": "corridor",
+      "topCount": 157,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-06-21-closing-the-suwalki-gap-options.md",
+      "flaggedWords": [
+        {
+          "word": "corridor",
+          "count": 157
+        },
+        {
+          "word": "clock",
+          "count": 99
+        },
+        {
+          "word": "measures",
+          "count": 90
+        },
+        {
+          "word": "reinforcement",
+          "count": 81
+        },
+        {
+          "word": "portfolio",
+          "count": 77
+        },
+        {
+          "word": "warning",
+          "count": 77
+        },
+        {
+          "word": "defense",
+          "count": 75
+        },
+        {
+          "word": "forward",
+          "count": 74
+        },
+        {
+          "word": "cost",
+          "count": 71
+        },
+        {
+          "word": "connectivity",
+          "count": 70
+        },
+        {
+          "word": "alliance",
+          "count": 66
+        },
+        {
+          "word": "decision",
+          "count": 61
+        },
+        {
+          "word": "problem",
+          "count": 59
+        },
+        {
+          "word": "escalation",
+          "count": 57
+        },
+        {
+          "word": "reaction",
+          "count": 57
+        },
+        {
+          "word": "signal",
+          "count": 54
+        },
+        {
+          "word": "value",
+          "count": 53
+        },
+        {
+          "word": "adversary",
+          "count": 52
+        },
+        {
+          "word": "risk",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "corridor",
+          "count": 157
+        },
+        {
+          "word": "clock",
+          "count": 99
+        },
+        {
+          "word": "measures",
+          "count": 90
+        },
+        {
+          "word": "reinforcement",
+          "count": 81
+        },
+        {
+          "word": "portfolio",
+          "count": 77
+        },
+        {
+          "word": "warning",
+          "count": 77
+        },
+        {
+          "word": "defense",
+          "count": 75
+        },
+        {
+          "word": "forward",
+          "count": 74
+        },
+        {
+          "word": "cost",
+          "count": 71
+        },
+        {
+          "word": "connectivity",
+          "count": 70
+        },
+        {
+          "word": "alliance",
+          "count": 66
+        },
+        {
+          "word": "decision",
+          "count": 61
+        },
+        {
+          "word": "problem",
+          "count": 59
+        },
+        {
+          "word": "escalation",
+          "count": 57
+        },
+        {
+          "word": "reaction",
+          "count": 57
+        },
+        {
+          "word": "signal",
+          "count": 54
+        },
+        {
+          "word": "value",
+          "count": 53
+        },
+        {
+          "word": "adversary",
+          "count": 52
+        },
+        {
+          "word": "risk",
+          "count": 51
+        },
+        {
+          "word": "measure",
+          "count": 49
+        }
+      ]
+    },
+    {
       "filename": "2025-06-23-color-blue-great-gatsby.md",
       "slug": "color-blue-great-gatsby",
       "title": "The Color Blue in The Great Gatsby",
@@ -337006,6 +339088,140 @@
       ]
     },
     {
+      "filename": "2025-07-01-reinforcing-the-suwalki-gap.md",
+      "slug": "reinforcing-the-suwalki-gap",
+      "title": "Reinforcing the Suwalki Gap Under Fire",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6881,
+      "topWord": "corridor",
+      "topCount": 108,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-07-01-reinforcing-the-suwalki-gap.md",
+      "flaggedWords": [
+        {
+          "word": "corridor",
+          "count": 108
+        },
+        {
+          "word": "reinforcement",
+          "count": 90
+        },
+        {
+          "word": "reception",
+          "count": 79
+        },
+        {
+          "word": "movement",
+          "count": 73
+        },
+        {
+          "word": "clock",
+          "count": 69
+        },
+        {
+          "word": "decision",
+          "count": 66
+        },
+        {
+          "word": "passage",
+          "count": 61
+        },
+        {
+          "word": "planner",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "corridor",
+          "count": 108
+        },
+        {
+          "word": "reinforcement",
+          "count": 90
+        },
+        {
+          "word": "reception",
+          "count": 79
+        },
+        {
+          "word": "movement",
+          "count": 73
+        },
+        {
+          "word": "clock",
+          "count": 69
+        },
+        {
+          "word": "decision",
+          "count": 66
+        },
+        {
+          "word": "passage",
+          "count": 61
+        },
+        {
+          "word": "planner",
+          "count": 51
+        },
+        {
+          "word": "posture",
+          "count": 50
+        },
+        {
+          "word": "forces",
+          "count": 50
+        },
+        {
+          "word": "problem",
+          "count": 47
+        },
+        {
+          "word": "warning",
+          "count": 47
+        },
+        {
+          "word": "forward",
+          "count": 46
+        },
+        {
+          "word": "planning",
+          "count": 44
+        },
+        {
+          "word": "neck",
+          "count": 42
+        },
+        {
+          "word": "reaction",
+          "count": 40
+        },
+        {
+          "word": "adversary",
+          "count": 38
+        },
+        {
+          "word": "peacetime",
+          "count": 36
+        },
+        {
+          "word": "cannot",
+          "count": 36
+        },
+        {
+          "word": "alliance",
+          "count": 35
+        }
+      ]
+    },
+    {
       "filename": "2025-07-02-programming-self-learning-roadmap-chinese.md",
       "slug": "programming-self-learning-roadmap-chinese",
       "title": "程序员自学编程完全路线图：Python、Java、前端开发从零基础到就业的详细学习计划与免费资源",
@@ -337706,6 +339922,144 @@
         {
           "word": "suggestions",
           "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2025-07-11-suwalki-gap-in-cold-war-planning.md",
+      "slug": "suwalki-gap-in-cold-war-planning",
+      "title": "The Suwalki Gap in Cold War Planning",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7459,
+      "topWord": "war",
+      "topCount": 156,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-07-11-suwalki-gap-in-cold-war-planning.md",
+      "flaggedWords": [
+        {
+          "word": "war",
+          "count": 156
+        },
+        {
+          "word": "corridor",
+          "count": 154
+        },
+        {
+          "word": "cold",
+          "count": 146
+        },
+        {
+          "word": "alliance",
+          "count": 87
+        },
+        {
+          "word": "ground",
+          "count": 82
+        },
+        {
+          "word": "method",
+          "count": 57
+        },
+        {
+          "word": "baltic",
+          "count": 53
+        },
+        {
+          "word": "map",
+          "count": 53
+        },
+        {
+          "word": "soviet",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "war",
+          "count": 156
+        },
+        {
+          "word": "corridor",
+          "count": 154
+        },
+        {
+          "word": "cold",
+          "count": 146
+        },
+        {
+          "word": "alliance",
+          "count": 87
+        },
+        {
+          "word": "ground",
+          "count": 82
+        },
+        {
+          "word": "method",
+          "count": 57
+        },
+        {
+          "word": "baltic",
+          "count": 53
+        },
+        {
+          "word": "map",
+          "count": 53
+        },
+        {
+          "word": "soviet",
+          "count": 51
+        },
+        {
+          "word": "gap",
+          "count": 50
+        },
+        {
+          "word": "modern",
+          "count": 50
+        },
+        {
+          "word": "era",
+          "count": 50
+        },
+        {
+          "word": "problem",
+          "count": 48
+        },
+        {
+          "word": "forces",
+          "count": 46
+        },
+        {
+          "word": "reinforcement",
+          "count": 40
+        },
+        {
+          "word": "warning",
+          "count": 40
+        },
+        {
+          "word": "earlier",
+          "count": 39
+        },
+        {
+          "word": "seam",
+          "count": 39
+        },
+        {
+          "word": "forward",
+          "count": 39
+        },
+        {
+          "word": "central",
+          "count": 38
         }
       ]
     },
@@ -338656,6 +341010,314 @@
       ]
     },
     {
+      "filename": "2025-07-21-kaliningrad-russia-dagger-in-nato (1).md",
+      "slug": "kaliningrad-russia-dagger-in-nato (1)",
+      "title": "Kaliningrad: Russia's Dagger in NATO's Side",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8327,
+      "topWord": "exclave",
+      "topCount": 159,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-07-21-kaliningrad-russia-dagger-in-nato (1).md",
+      "flaggedWords": [
+        {
+          "word": "exclave",
+          "count": 159
+        },
+        {
+          "word": "territory",
+          "count": 128
+        },
+        {
+          "word": "alliance",
+          "count": 101
+        },
+        {
+          "word": "war",
+          "count": 78
+        },
+        {
+          "word": "crisis",
+          "count": 77
+        },
+        {
+          "word": "corridor",
+          "count": 76
+        },
+        {
+          "word": "dagger",
+          "count": 72
+        },
+        {
+          "word": "reach",
+          "count": 70
+        },
+        {
+          "word": "assessment",
+          "count": 69
+        },
+        {
+          "word": "kaliningrad",
+          "count": 65
+        },
+        {
+          "word": "threat",
+          "count": 63
+        },
+        {
+          "word": "position",
+          "count": 61
+        },
+        {
+          "word": "flank",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "exclave",
+          "count": 159
+        },
+        {
+          "word": "territory",
+          "count": 128
+        },
+        {
+          "word": "alliance",
+          "count": 101
+        },
+        {
+          "word": "war",
+          "count": 78
+        },
+        {
+          "word": "crisis",
+          "count": 77
+        },
+        {
+          "word": "corridor",
+          "count": 76
+        },
+        {
+          "word": "dagger",
+          "count": 72
+        },
+        {
+          "word": "reach",
+          "count": 70
+        },
+        {
+          "word": "assessment",
+          "count": 69
+        },
+        {
+          "word": "kaliningrad",
+          "count": 65
+        },
+        {
+          "word": "threat",
+          "count": 63
+        },
+        {
+          "word": "position",
+          "count": 61
+        },
+        {
+          "word": "flank",
+          "count": 53
+        },
+        {
+          "word": "ledger",
+          "count": 49
+        },
+        {
+          "word": "wrist",
+          "count": 48
+        },
+        {
+          "word": "short",
+          "count": 47
+        },
+        {
+          "word": "weight",
+          "count": 45
+        },
+        {
+          "word": "problem",
+          "count": 43
+        },
+        {
+          "word": "reading",
+          "count": 42
+        },
+        {
+          "word": "denial",
+          "count": 42
+        }
+      ]
+    },
+    {
+      "filename": "2025-07-21-kaliningrad-russia-dagger-in-nato.md",
+      "slug": "kaliningrad-russia-dagger-in-nato",
+      "title": "Kaliningrad: Russia's Dagger in NATO's Side",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8327,
+      "topWord": "exclave",
+      "topCount": 159,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-07-21-kaliningrad-russia-dagger-in-nato.md",
+      "flaggedWords": [
+        {
+          "word": "exclave",
+          "count": 159
+        },
+        {
+          "word": "territory",
+          "count": 128
+        },
+        {
+          "word": "alliance",
+          "count": 101
+        },
+        {
+          "word": "war",
+          "count": 78
+        },
+        {
+          "word": "crisis",
+          "count": 77
+        },
+        {
+          "word": "corridor",
+          "count": 76
+        },
+        {
+          "word": "dagger",
+          "count": 72
+        },
+        {
+          "word": "reach",
+          "count": 70
+        },
+        {
+          "word": "assessment",
+          "count": 69
+        },
+        {
+          "word": "kaliningrad",
+          "count": 65
+        },
+        {
+          "word": "threat",
+          "count": 63
+        },
+        {
+          "word": "position",
+          "count": 61
+        },
+        {
+          "word": "flank",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "exclave",
+          "count": 159
+        },
+        {
+          "word": "territory",
+          "count": 128
+        },
+        {
+          "word": "alliance",
+          "count": 101
+        },
+        {
+          "word": "war",
+          "count": 78
+        },
+        {
+          "word": "crisis",
+          "count": 77
+        },
+        {
+          "word": "corridor",
+          "count": 76
+        },
+        {
+          "word": "dagger",
+          "count": 72
+        },
+        {
+          "word": "reach",
+          "count": 70
+        },
+        {
+          "word": "assessment",
+          "count": 69
+        },
+        {
+          "word": "kaliningrad",
+          "count": 65
+        },
+        {
+          "word": "threat",
+          "count": 63
+        },
+        {
+          "word": "position",
+          "count": 61
+        },
+        {
+          "word": "flank",
+          "count": 53
+        },
+        {
+          "word": "ledger",
+          "count": 49
+        },
+        {
+          "word": "wrist",
+          "count": 48
+        },
+        {
+          "word": "short",
+          "count": 47
+        },
+        {
+          "word": "weight",
+          "count": 45
+        },
+        {
+          "word": "problem",
+          "count": 43
+        },
+        {
+          "word": "reading",
+          "count": 42
+        },
+        {
+          "word": "denial",
+          "count": 42
+        }
+      ]
+    },
+    {
       "filename": "2025-07-25-tcs-nqt-to-ilp-the-complete-journey-from-registration-to-training-day.md",
       "slug": "tcs-nqt-to-ilp-the-complete-journey-from-registration-to-training-day",
       "title": "TCS NQT to ILP - Complete Journey From Registration to Training Day",
@@ -339148,6 +341810,160 @@
         {
           "word": "成绩",
           "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2025-08-01-kaliningrad-a2ad-bubble-explained.md",
+      "slug": "kaliningrad-a2ad-bubble-explained",
+      "title": "The A2/AD Bubble Over Kaliningrad",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7581,
+      "topWord": "complex",
+      "topCount": 150,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-08-01-kaliningrad-a2ad-bubble-explained.md",
+      "flaggedWords": [
+        {
+          "word": "complex",
+          "count": 150
+        },
+        {
+          "word": "layer",
+          "count": 117
+        },
+        {
+          "word": "reach",
+          "count": 107
+        },
+        {
+          "word": "denial",
+          "count": 86
+        },
+        {
+          "word": "defense",
+          "count": 84
+        },
+        {
+          "word": "exclave",
+          "count": 77
+        },
+        {
+          "word": "opponent",
+          "count": 73
+        },
+        {
+          "word": "cost",
+          "count": 63
+        },
+        {
+          "word": "air",
+          "count": 56
+        },
+        {
+          "word": "sea",
+          "count": 56
+        },
+        {
+          "word": "bubble",
+          "count": 55
+        },
+        {
+          "word": "price",
+          "count": 55
+        },
+        {
+          "word": "systems",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "complex",
+          "count": 150
+        },
+        {
+          "word": "layer",
+          "count": 117
+        },
+        {
+          "word": "reach",
+          "count": 107
+        },
+        {
+          "word": "denial",
+          "count": 86
+        },
+        {
+          "word": "defense",
+          "count": 84
+        },
+        {
+          "word": "exclave",
+          "count": 77
+        },
+        {
+          "word": "opponent",
+          "count": 73
+        },
+        {
+          "word": "cost",
+          "count": 63
+        },
+        {
+          "word": "air",
+          "count": 56
+        },
+        {
+          "word": "sea",
+          "count": 56
+        },
+        {
+          "word": "bubble",
+          "count": 55
+        },
+        {
+          "word": "price",
+          "count": 55
+        },
+        {
+          "word": "systems",
+          "count": 53
+        },
+        {
+          "word": "range",
+          "count": 45
+        },
+        {
+          "word": "target",
+          "count": 42
+        },
+        {
+          "word": "question",
+          "count": 39
+        },
+        {
+          "word": "ring",
+          "count": 39
+        },
+        {
+          "word": "capable",
+          "count": 38
+        },
+        {
+          "word": "coastal",
+          "count": 38
+        },
+        {
+          "word": "reading",
+          "count": 37
         }
       ]
     },
@@ -339794,6 +342610,152 @@
         {
           "word": "character",
           "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2025-08-11-iskander-missiles-in-kaliningrad.md",
+      "slug": "iskander-missiles-in-kaliningrad",
+      "title": "Iskander Missiles in Kaliningrad",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7389,
+      "topWord": "strike",
+      "topCount": 117,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-08-11-iskander-missiles-in-kaliningrad.md",
+      "flaggedWords": [
+        {
+          "word": "strike",
+          "count": 117
+        },
+        {
+          "word": "signaling",
+          "count": 88
+        },
+        {
+          "word": "exclave",
+          "count": 85
+        },
+        {
+          "word": "reach",
+          "count": 75
+        },
+        {
+          "word": "effect",
+          "count": 72
+        },
+        {
+          "word": "defender",
+          "count": 71
+        },
+        {
+          "word": "profile",
+          "count": 64
+        },
+        {
+          "word": "reading",
+          "count": 60
+        },
+        {
+          "word": "weapon",
+          "count": 54
+        },
+        {
+          "word": "layer",
+          "count": 54
+        },
+        {
+          "word": "capability",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "strike",
+          "count": 117
+        },
+        {
+          "word": "signaling",
+          "count": 88
+        },
+        {
+          "word": "exclave",
+          "count": 85
+        },
+        {
+          "word": "reach",
+          "count": 75
+        },
+        {
+          "word": "effect",
+          "count": 72
+        },
+        {
+          "word": "defender",
+          "count": 71
+        },
+        {
+          "word": "profile",
+          "count": 64
+        },
+        {
+          "word": "reading",
+          "count": 60
+        },
+        {
+          "word": "weapon",
+          "count": 54
+        },
+        {
+          "word": "layer",
+          "count": 54
+        },
+        {
+          "word": "capability",
+          "count": 51
+        },
+        {
+          "word": "crisis",
+          "count": 50
+        },
+        {
+          "word": "flank",
+          "count": 45
+        },
+        {
+          "word": "iskander",
+          "count": 43
+        },
+        {
+          "word": "ambiguity",
+          "count": 41
+        },
+        {
+          "word": "capable",
+          "count": 40
+        },
+        {
+          "word": "assessment",
+          "count": 39
+        },
+        {
+          "word": "tonnage",
+          "count": 39
+        },
+        {
+          "word": "makes",
+          "count": 38
+        },
+        {
+          "word": "conventional",
+          "count": 36
         }
       ]
     },
@@ -340586,6 +343548,144 @@
         {
           "word": "generates",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2025-08-21-how-a-kaliningrad-crisis-escalates.md",
+      "slug": "how-a-kaliningrad-crisis-escalates",
+      "title": "How a Kaliningrad Crisis Could Escalate",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7274,
+      "topWord": "crisis",
+      "topCount": 130,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-08-21-how-a-kaliningrad-crisis-escalates.md",
+      "flaggedWords": [
+        {
+          "word": "crisis",
+          "count": 130
+        },
+        {
+          "word": "exclave",
+          "count": 106
+        },
+        {
+          "word": "ladder",
+          "count": 82
+        },
+        {
+          "word": "pressure",
+          "count": 78
+        },
+        {
+          "word": "rung",
+          "count": 65
+        },
+        {
+          "word": "escalation",
+          "count": 61
+        },
+        {
+          "word": "lifeline",
+          "count": 58
+        },
+        {
+          "word": "climb",
+          "count": 54
+        },
+        {
+          "word": "territory",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "crisis",
+          "count": 130
+        },
+        {
+          "word": "exclave",
+          "count": 106
+        },
+        {
+          "word": "ladder",
+          "count": 82
+        },
+        {
+          "word": "pressure",
+          "count": 78
+        },
+        {
+          "word": "rung",
+          "count": 65
+        },
+        {
+          "word": "escalation",
+          "count": 61
+        },
+        {
+          "word": "lifeline",
+          "count": 58
+        },
+        {
+          "word": "climb",
+          "count": 54
+        },
+        {
+          "word": "territory",
+          "count": 51
+        },
+        {
+          "word": "dependence",
+          "count": 48
+        },
+        {
+          "word": "scenario",
+          "count": 47
+        },
+        {
+          "word": "moscow",
+          "count": 45
+        },
+        {
+          "word": "contact",
+          "count": 42
+        },
+        {
+          "word": "rungs",
+          "count": 39
+        },
+        {
+          "word": "kaliningrad",
+          "count": 38
+        },
+        {
+          "word": "alliance",
+          "count": 36
+        },
+        {
+          "word": "ramp",
+          "count": 36
+        },
+        {
+          "word": "ramps",
+          "count": 35
+        },
+        {
+          "word": "transit",
+          "count": 34
+        },
+        {
+          "word": "russian",
+          "count": 34
         }
       ]
     },
@@ -341410,6 +344510,156 @@
       ]
     },
     {
+      "filename": "2025-09-01-could-nato-neutralize-kaliningrad.md",
+      "slug": "could-nato-neutralize-kaliningrad",
+      "title": "Could NATO Neutralize Kaliningrad?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7423,
+      "topWord": "exclave",
+      "topCount": 249,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-09-01-could-nato-neutralize-kaliningrad.md",
+      "flaggedWords": [
+        {
+          "word": "exclave",
+          "count": 249
+        },
+        {
+          "word": "alliance",
+          "count": 141
+        },
+        {
+          "word": "escalation",
+          "count": 114
+        },
+        {
+          "word": "nuclear",
+          "count": 71
+        },
+        {
+          "word": "cost",
+          "count": 70
+        },
+        {
+          "word": "moscow",
+          "count": 67
+        },
+        {
+          "word": "posture",
+          "count": 64
+        },
+        {
+          "word": "capability",
+          "count": 61
+        },
+        {
+          "word": "containment",
+          "count": 58
+        },
+        {
+          "word": "war",
+          "count": 53
+        },
+        {
+          "word": "threshold",
+          "count": 53
+        },
+        {
+          "word": "rungs",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "exclave",
+          "count": 249
+        },
+        {
+          "word": "alliance",
+          "count": 141
+        },
+        {
+          "word": "escalation",
+          "count": 114
+        },
+        {
+          "word": "nuclear",
+          "count": 71
+        },
+        {
+          "word": "cost",
+          "count": 70
+        },
+        {
+          "word": "moscow",
+          "count": 67
+        },
+        {
+          "word": "posture",
+          "count": 64
+        },
+        {
+          "word": "capability",
+          "count": 61
+        },
+        {
+          "word": "containment",
+          "count": 58
+        },
+        {
+          "word": "war",
+          "count": 53
+        },
+        {
+          "word": "threshold",
+          "count": 53
+        },
+        {
+          "word": "rungs",
+          "count": 51
+        },
+        {
+          "word": "strike",
+          "count": 50
+        },
+        {
+          "word": "problem",
+          "count": 46
+        },
+        {
+          "word": "decisive",
+          "count": 45
+        },
+        {
+          "word": "ladder",
+          "count": 43
+        },
+        {
+          "word": "assessment",
+          "count": 42
+        },
+        {
+          "word": "rung",
+          "count": 40
+        },
+        {
+          "word": "neutralize",
+          "count": 39
+        },
+        {
+          "word": "question",
+          "count": 39
+        }
+      ]
+    },
+    {
       "filename": "2025-09-01-gatsby-flowers-daisy-symbol.md",
       "slug": "gatsby-flowers-daisy-symbol",
       "title": "Flowers and the Name Daisy in The Great Gatsby",
@@ -342194,6 +345444,160 @@
       ]
     },
     {
+      "filename": "2025-09-11-why-kaliningrad-exists-and-matters.md",
+      "slug": "why-kaliningrad-exists-and-matters",
+      "title": "Why Kaliningrad Exists and Why It Matters",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7320,
+      "topWord": "exclave",
+      "topCount": 138,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-09-11-why-kaliningrad-exists-and-matters.md",
+      "flaggedWords": [
+        {
+          "word": "exclave",
+          "count": 138
+        },
+        {
+          "word": "russian",
+          "count": 130
+        },
+        {
+          "word": "territory",
+          "count": 122
+        },
+        {
+          "word": "forward",
+          "count": 87
+        },
+        {
+          "word": "baltic",
+          "count": 84
+        },
+        {
+          "word": "sea",
+          "count": 70
+        },
+        {
+          "word": "coast",
+          "count": 67
+        },
+        {
+          "word": "soviet",
+          "count": 67
+        },
+        {
+          "word": "strategic",
+          "count": 58
+        },
+        {
+          "word": "geography",
+          "count": 55
+        },
+        {
+          "word": "value",
+          "count": 55
+        },
+        {
+          "word": "population",
+          "count": 51
+        },
+        {
+          "word": "german",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "exclave",
+          "count": 138
+        },
+        {
+          "word": "russian",
+          "count": 130
+        },
+        {
+          "word": "territory",
+          "count": 122
+        },
+        {
+          "word": "forward",
+          "count": 87
+        },
+        {
+          "word": "baltic",
+          "count": 84
+        },
+        {
+          "word": "sea",
+          "count": 70
+        },
+        {
+          "word": "coast",
+          "count": 67
+        },
+        {
+          "word": "soviet",
+          "count": 67
+        },
+        {
+          "word": "strategic",
+          "count": 58
+        },
+        {
+          "word": "geography",
+          "count": 55
+        },
+        {
+          "word": "value",
+          "count": 55
+        },
+        {
+          "word": "population",
+          "count": 51
+        },
+        {
+          "word": "german",
+          "count": 51
+        },
+        {
+          "word": "detached",
+          "count": 50
+        },
+        {
+          "word": "land",
+          "count": 49
+        },
+        {
+          "word": "history",
+          "count": 48
+        },
+        {
+          "word": "alliance",
+          "count": 46
+        },
+        {
+          "word": "moscow",
+          "count": 44
+        },
+        {
+          "word": "vulnerability",
+          "count": 43
+        },
+        {
+          "word": "surrounding",
+          "count": 41
+        }
+      ]
+    },
+    {
       "filename": "2025-09-13-how-to-use-midjourney.md",
       "slug": "how-to-use-midjourney",
       "title": "How to Use Midjourney - Prompts and More",
@@ -342868,6 +346272,168 @@
         {
           "word": "email",
           "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2025-09-21-kaliningrad-fortress-or-vulnerability.md",
+      "slug": "kaliningrad-fortress-or-vulnerability",
+      "title": "Kaliningrad: Fortress or Vulnerability?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6611,
+      "topWord": "exclave",
+      "topCount": 162,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-09-21-kaliningrad-fortress-or-vulnerability.md",
+      "flaggedWords": [
+        {
+          "word": "exclave",
+          "count": 162
+        },
+        {
+          "word": "fortress",
+          "count": 136
+        },
+        {
+          "word": "vulnerability",
+          "count": 97
+        },
+        {
+          "word": "escalation",
+          "count": 96
+        },
+        {
+          "word": "reading",
+          "count": 87
+        },
+        {
+          "word": "verdict",
+          "count": 85
+        },
+        {
+          "word": "firepower",
+          "count": 77
+        },
+        {
+          "word": "scenario",
+          "count": 73
+        },
+        {
+          "word": "peacetime",
+          "count": 72
+        },
+        {
+          "word": "leverage",
+          "count": 59
+        },
+        {
+          "word": "sustained",
+          "count": 58
+        },
+        {
+          "word": "axes",
+          "count": 56
+        },
+        {
+          "word": "conflict",
+          "count": 54
+        },
+        {
+          "word": "conditions",
+          "count": 51
+        },
+        {
+          "word": "stock",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "exclave",
+          "count": 162
+        },
+        {
+          "word": "fortress",
+          "count": 136
+        },
+        {
+          "word": "vulnerability",
+          "count": 97
+        },
+        {
+          "word": "escalation",
+          "count": 96
+        },
+        {
+          "word": "reading",
+          "count": 87
+        },
+        {
+          "word": "verdict",
+          "count": 85
+        },
+        {
+          "word": "firepower",
+          "count": 77
+        },
+        {
+          "word": "scenario",
+          "count": 73
+        },
+        {
+          "word": "peacetime",
+          "count": 72
+        },
+        {
+          "word": "leverage",
+          "count": 59
+        },
+        {
+          "word": "sustained",
+          "count": 58
+        },
+        {
+          "word": "axes",
+          "count": 56
+        },
+        {
+          "word": "conflict",
+          "count": 54
+        },
+        {
+          "word": "conditions",
+          "count": 51
+        },
+        {
+          "word": "stock",
+          "count": 51
+        },
+        {
+          "word": "encirclement",
+          "count": 50
+        },
+        {
+          "word": "balance",
+          "count": 50
+        },
+        {
+          "word": "wartime",
+          "count": 49
+        },
+        {
+          "word": "axis",
+          "count": 46
+        },
+        {
+          "word": "supply",
+          "count": 43
         }
       ]
     },
@@ -343696,6 +347262,156 @@
       ]
     },
     {
+      "filename": "2025-10-01-the-kaliningrad-blockade-question.md",
+      "slug": "the-kaliningrad-blockade-question",
+      "title": "The Kaliningrad Blockade Question",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7452,
+      "topWord": "lever",
+      "topCount": 117,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-10-01-the-kaliningrad-blockade-question.md",
+      "flaggedWords": [
+        {
+          "word": "lever",
+          "count": 117
+        },
+        {
+          "word": "supply",
+          "count": 109
+        },
+        {
+          "word": "squeeze",
+          "count": 93
+        },
+        {
+          "word": "war",
+          "count": 88
+        },
+        {
+          "word": "exclave",
+          "count": 82
+        },
+        {
+          "word": "alliance",
+          "count": 80
+        },
+        {
+          "word": "blockade",
+          "count": 77
+        },
+        {
+          "word": "question",
+          "count": 66
+        },
+        {
+          "word": "dependence",
+          "count": 66
+        },
+        {
+          "word": "pressure",
+          "count": 61
+        },
+        {
+          "word": "target",
+          "count": 54
+        },
+        {
+          "word": "transit",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "lever",
+          "count": 117
+        },
+        {
+          "word": "supply",
+          "count": 109
+        },
+        {
+          "word": "squeeze",
+          "count": 93
+        },
+        {
+          "word": "war",
+          "count": 88
+        },
+        {
+          "word": "exclave",
+          "count": 82
+        },
+        {
+          "word": "alliance",
+          "count": 80
+        },
+        {
+          "word": "blockade",
+          "count": 77
+        },
+        {
+          "word": "question",
+          "count": 66
+        },
+        {
+          "word": "dependence",
+          "count": 66
+        },
+        {
+          "word": "pressure",
+          "count": 61
+        },
+        {
+          "word": "target",
+          "count": 54
+        },
+        {
+          "word": "transit",
+          "count": 52
+        },
+        {
+          "word": "route",
+          "count": 50
+        },
+        {
+          "word": "escalation",
+          "count": 49
+        },
+        {
+          "word": "read",
+          "count": 43
+        },
+        {
+          "word": "sides",
+          "count": 42
+        },
+        {
+          "word": "territory",
+          "count": 34
+        },
+        {
+          "word": "sea",
+          "count": 34
+        },
+        {
+          "word": "act",
+          "count": 34
+        },
+        {
+          "word": "reader",
+          "count": 34
+        }
+      ]
+    },
+    {
       "filename": "2025-10-02-tcs-ilp-training-centers-comparison.md",
       "slug": "tcs-ilp-training-centers-comparison",
       "title": "TCS ILP Training Centers - The Comprehensive Guide",
@@ -344362,6 +348078,136 @@
       ]
     },
     {
+      "filename": "2025-10-11-reading-russian-moves-kaliningrad.md",
+      "slug": "reading-russian-moves-kaliningrad",
+      "title": "Reading Russian Moves in Kaliningrad",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7382,
+      "topWord": "exclave",
+      "topCount": 180,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-10-11-reading-russian-moves-kaliningrad.md",
+      "flaggedWords": [
+        {
+          "word": "exclave",
+          "count": 180
+        },
+        {
+          "word": "baseline",
+          "count": 144
+        },
+        {
+          "word": "activity",
+          "count": 141
+        },
+        {
+          "word": "reading",
+          "count": 92
+        },
+        {
+          "word": "warning",
+          "count": 73
+        },
+        {
+          "word": "theater",
+          "count": 68
+        },
+        {
+          "word": "routine",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "exclave",
+          "count": 180
+        },
+        {
+          "word": "baseline",
+          "count": 144
+        },
+        {
+          "word": "activity",
+          "count": 141
+        },
+        {
+          "word": "reading",
+          "count": 92
+        },
+        {
+          "word": "warning",
+          "count": 73
+        },
+        {
+          "word": "theater",
+          "count": 68
+        },
+        {
+          "word": "routine",
+          "count": 57
+        },
+        {
+          "word": "convergence",
+          "count": 48
+        },
+        {
+          "word": "method",
+          "count": 46
+        },
+        {
+          "word": "single",
+          "count": 44
+        },
+        {
+          "word": "quiet",
+          "count": 44
+        },
+        {
+          "word": "read",
+          "count": 43
+        },
+        {
+          "word": "costly",
+          "count": 42
+        },
+        {
+          "word": "observer",
+          "count": 40
+        },
+        {
+          "word": "weight",
+          "count": 35
+        },
+        {
+          "word": "tells",
+          "count": 34
+        },
+        {
+          "word": "genuine",
+          "count": 34
+        },
+        {
+          "word": "timed",
+          "count": 34
+        },
+        {
+          "word": "loud",
+          "count": 34
+        },
+        {
+          "word": "preparation",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2025-10-13-gatsby-library-books-symbol.md",
       "slug": "gatsby-library-books-symbol",
       "title": "The Books in Gatsby's Library",
@@ -345020,6 +348866,160 @@
         {
           "word": "sees",
           "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2025-10-21-kaliningrad-baltic-sea-nato-lake.md",
+      "slug": "kaliningrad-baltic-sea-nato-lake",
+      "title": "Kaliningrad and the Baltic Sea NATO Lake",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7603,
+      "topWord": "alliance",
+      "topCount": 233,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-10-21-kaliningrad-baltic-sea-nato-lake.md",
+      "flaggedWords": [
+        {
+          "word": "alliance",
+          "count": 233
+        },
+        {
+          "word": "sea",
+          "count": 217
+        },
+        {
+          "word": "exclave",
+          "count": 183
+        },
+        {
+          "word": "lake",
+          "count": 148
+        },
+        {
+          "word": "denial",
+          "count": 75
+        },
+        {
+          "word": "metaphor",
+          "count": 74
+        },
+        {
+          "word": "peacetime",
+          "count": 72
+        },
+        {
+          "word": "war",
+          "count": 68
+        },
+        {
+          "word": "baltic",
+          "count": 65
+        },
+        {
+          "word": "contested",
+          "count": 65
+        },
+        {
+          "word": "reach",
+          "count": 53
+        },
+        {
+          "word": "enclosure",
+          "count": 51
+        },
+        {
+          "word": "question",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "alliance",
+          "count": 233
+        },
+        {
+          "word": "sea",
+          "count": 217
+        },
+        {
+          "word": "exclave",
+          "count": 183
+        },
+        {
+          "word": "lake",
+          "count": 148
+        },
+        {
+          "word": "denial",
+          "count": 75
+        },
+        {
+          "word": "metaphor",
+          "count": 74
+        },
+        {
+          "word": "peacetime",
+          "count": 72
+        },
+        {
+          "word": "war",
+          "count": 68
+        },
+        {
+          "word": "baltic",
+          "count": 65
+        },
+        {
+          "word": "contested",
+          "count": 65
+        },
+        {
+          "word": "reach",
+          "count": 53
+        },
+        {
+          "word": "enclosure",
+          "count": 51
+        },
+        {
+          "word": "question",
+          "count": 51
+        },
+        {
+          "word": "control",
+          "count": 45
+        },
+        {
+          "word": "maritime",
+          "count": 44
+        },
+        {
+          "word": "space",
+          "count": 42
+        },
+        {
+          "word": "contest",
+          "count": 42
+        },
+        {
+          "word": "coastline",
+          "count": 39
+        },
+        {
+          "word": "presence",
+          "count": 39
+        },
+        {
+          "word": "systems",
+          "count": 37
         }
       ]
     },
@@ -345808,6 +349808,164 @@
         {
           "word": "tool",
           "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2025-11-01-nato-article-5-would-it-hold.md",
+      "slug": "nato-article-5-would-it-hold",
+      "title": "NATO Article 5: Would It Hold for Poland?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8133,
+      "topWord": "guarantee",
+      "topCount": 201,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-11-01-nato-article-5-would-it-hold.md",
+      "flaggedWords": [
+        {
+          "word": "guarantee",
+          "count": 201
+        },
+        {
+          "word": "alliance",
+          "count": 132
+        },
+        {
+          "word": "factor",
+          "count": 130
+        },
+        {
+          "word": "credibility",
+          "count": 117
+        },
+        {
+          "word": "adversary",
+          "count": 104
+        },
+        {
+          "word": "poland",
+          "count": 102
+        },
+        {
+          "word": "member",
+          "count": 102
+        },
+        {
+          "word": "attack",
+          "count": 87
+        },
+        {
+          "word": "posture",
+          "count": 84
+        },
+        {
+          "word": "treaty",
+          "count": 71
+        },
+        {
+          "word": "forces",
+          "count": 63
+        },
+        {
+          "word": "article",
+          "count": 63
+        },
+        {
+          "word": "reader",
+          "count": 57
+        },
+        {
+          "word": "forward",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "guarantee",
+          "count": 201
+        },
+        {
+          "word": "alliance",
+          "count": 132
+        },
+        {
+          "word": "factor",
+          "count": 130
+        },
+        {
+          "word": "credibility",
+          "count": 117
+        },
+        {
+          "word": "adversary",
+          "count": 104
+        },
+        {
+          "word": "poland",
+          "count": 102
+        },
+        {
+          "word": "member",
+          "count": 102
+        },
+        {
+          "word": "attack",
+          "count": 87
+        },
+        {
+          "word": "posture",
+          "count": 84
+        },
+        {
+          "word": "treaty",
+          "count": 71
+        },
+        {
+          "word": "forces",
+          "count": 63
+        },
+        {
+          "word": "article",
+          "count": 63
+        },
+        {
+          "word": "reader",
+          "count": 57
+        },
+        {
+          "word": "forward",
+          "count": 54
+        },
+        {
+          "word": "war",
+          "count": 50
+        },
+        {
+          "word": "response",
+          "count": 48
+        },
+        {
+          "word": "assessment",
+          "count": 45
+        },
+        {
+          "word": "product",
+          "count": 44
+        },
+        {
+          "word": "resolve",
+          "count": 44
+        },
+        {
+          "word": "promise",
+          "count": 43
         }
       ]
     },
@@ -346754,6 +350912,168 @@
       ]
     },
     {
+      "filename": "2025-11-11-what-article-5-really-obligates.md",
+      "slug": "what-article-5-really-obligates",
+      "title": "What Article 5 Really Obligates",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7868,
+      "topWord": "member",
+      "topCount": 181,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-11-11-what-article-5-really-obligates.md",
+      "flaggedWords": [
+        {
+          "word": "member",
+          "count": 181
+        },
+        {
+          "word": "article",
+          "count": 152
+        },
+        {
+          "word": "attack",
+          "count": 125
+        },
+        {
+          "word": "obligation",
+          "count": 121
+        },
+        {
+          "word": "alliance",
+          "count": 113
+        },
+        {
+          "word": "treaty",
+          "count": 99
+        },
+        {
+          "word": "response",
+          "count": 92
+        },
+        {
+          "word": "guarantee",
+          "count": 89
+        },
+        {
+          "word": "collective",
+          "count": 82
+        },
+        {
+          "word": "members",
+          "count": 79
+        },
+        {
+          "word": "clause",
+          "count": 77
+        },
+        {
+          "word": "armed",
+          "count": 71
+        },
+        {
+          "word": "political",
+          "count": 68
+        },
+        {
+          "word": "defense",
+          "count": 67
+        },
+        {
+          "word": "discretion",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "member",
+          "count": 181
+        },
+        {
+          "word": "article",
+          "count": 152
+        },
+        {
+          "word": "attack",
+          "count": 125
+        },
+        {
+          "word": "obligation",
+          "count": 121
+        },
+        {
+          "word": "alliance",
+          "count": 113
+        },
+        {
+          "word": "treaty",
+          "count": 99
+        },
+        {
+          "word": "response",
+          "count": 92
+        },
+        {
+          "word": "guarantee",
+          "count": 89
+        },
+        {
+          "word": "collective",
+          "count": 82
+        },
+        {
+          "word": "members",
+          "count": 79
+        },
+        {
+          "word": "clause",
+          "count": 77
+        },
+        {
+          "word": "armed",
+          "count": 71
+        },
+        {
+          "word": "political",
+          "count": 68
+        },
+        {
+          "word": "defense",
+          "count": 67
+        },
+        {
+          "word": "discretion",
+          "count": 53
+        },
+        {
+          "word": "posture",
+          "count": 49
+        },
+        {
+          "word": "forces",
+          "count": 49
+        },
+        {
+          "word": "text",
+          "count": 48
+        },
+        {
+          "word": "automatic",
+          "count": 47
+        },
+        {
+          "word": "commitment",
+          "count": 43
+        }
+      ]
+    },
+    {
       "filename": "2025-11-16-best-ai-tools-real-estate.md",
       "slug": "best-ai-tools-real-estate",
       "title": "Best AI Tools for Real Estate Agents",
@@ -347290,6 +351610,160 @@
         {
           "word": "从调",
           "count": 41
+        }
+      ]
+    },
+    {
+      "filename": "2025-11-21-the-day-article-5-is-invoked.md",
+      "slug": "the-day-article-5-is-invoked",
+      "title": "The Day Article 5 Is Invoked",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7668,
+      "topWord": "alliance",
+      "topCount": 137,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-11-21-the-day-article-5-is-invoked.md",
+      "flaggedWords": [
+        {
+          "word": "alliance",
+          "count": 137
+        },
+        {
+          "word": "sequence",
+          "count": 125
+        },
+        {
+          "word": "tempo",
+          "count": 108
+        },
+        {
+          "word": "attack",
+          "count": 100
+        },
+        {
+          "word": "member",
+          "count": 99
+        },
+        {
+          "word": "invocation",
+          "count": 98
+        },
+        {
+          "word": "decision",
+          "count": 94
+        },
+        {
+          "word": "consensus",
+          "count": 83
+        },
+        {
+          "word": "pre",
+          "count": 78
+        },
+        {
+          "word": "collective",
+          "count": 73
+        },
+        {
+          "word": "political",
+          "count": 67
+        },
+        {
+          "word": "machinery",
+          "count": 56
+        },
+        {
+          "word": "speed",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "alliance",
+          "count": 137
+        },
+        {
+          "word": "sequence",
+          "count": 125
+        },
+        {
+          "word": "tempo",
+          "count": 108
+        },
+        {
+          "word": "attack",
+          "count": 100
+        },
+        {
+          "word": "member",
+          "count": 99
+        },
+        {
+          "word": "invocation",
+          "count": 98
+        },
+        {
+          "word": "decision",
+          "count": 94
+        },
+        {
+          "word": "consensus",
+          "count": 83
+        },
+        {
+          "word": "pre",
+          "count": 78
+        },
+        {
+          "word": "collective",
+          "count": 73
+        },
+        {
+          "word": "political",
+          "count": 67
+        },
+        {
+          "word": "machinery",
+          "count": 56
+        },
+        {
+          "word": "speed",
+          "count": 51
+        },
+        {
+          "word": "adversary",
+          "count": 50
+        },
+        {
+          "word": "national",
+          "count": 49
+        },
+        {
+          "word": "contest",
+          "count": 49
+        },
+        {
+          "word": "fast",
+          "count": 49
+        },
+        {
+          "word": "members",
+          "count": 45
+        },
+        {
+          "word": "clear",
+          "count": 44
+        },
+        {
+          "word": "peacetime",
+          "count": 44
         }
       ]
     },
@@ -347960,6 +352434,160 @@
         {
           "word": "silver",
           "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2025-12-01-tripwire-forces-eastern-flank.md",
+      "slug": "tripwire-forces-eastern-flank",
+      "title": "Tripwire Forces on NATO's Eastern Flank",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7342,
+      "topWord": "tripwire",
+      "topCount": 256,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-12-01-tripwire-forces-eastern-flank.md",
+      "flaggedWords": [
+        {
+          "word": "tripwire",
+          "count": 256
+        },
+        {
+          "word": "aggressor",
+          "count": 115
+        },
+        {
+          "word": "force",
+          "count": 113
+        },
+        {
+          "word": "forward",
+          "count": 87
+        },
+        {
+          "word": "alliance",
+          "count": 86
+        },
+        {
+          "word": "entanglement",
+          "count": 85
+        },
+        {
+          "word": "war",
+          "count": 81
+        },
+        {
+          "word": "deterrent",
+          "count": 73
+        },
+        {
+          "word": "attack",
+          "count": 64
+        },
+        {
+          "word": "nations",
+          "count": 62
+        },
+        {
+          "word": "defense",
+          "count": 61
+        },
+        {
+          "word": "reinforcement",
+          "count": 53
+        },
+        {
+          "word": "function",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "tripwire",
+          "count": 256
+        },
+        {
+          "word": "aggressor",
+          "count": 115
+        },
+        {
+          "word": "force",
+          "count": 113
+        },
+        {
+          "word": "forward",
+          "count": 87
+        },
+        {
+          "word": "alliance",
+          "count": 86
+        },
+        {
+          "word": "entanglement",
+          "count": 85
+        },
+        {
+          "word": "war",
+          "count": 81
+        },
+        {
+          "word": "deterrent",
+          "count": 73
+        },
+        {
+          "word": "attack",
+          "count": 64
+        },
+        {
+          "word": "nations",
+          "count": 62
+        },
+        {
+          "word": "defense",
+          "count": 61
+        },
+        {
+          "word": "reinforcement",
+          "count": 53
+        },
+        {
+          "word": "function",
+          "count": 53
+        },
+        {
+          "word": "posture",
+          "count": 47
+        },
+        {
+          "word": "response",
+          "count": 42
+        },
+        {
+          "word": "forces",
+          "count": 41
+        },
+        {
+          "word": "multinational",
+          "count": 40
+        },
+        {
+          "word": "local",
+          "count": 39
+        },
+        {
+          "word": "concept",
+          "count": 35
+        },
+        {
+          "word": "deployment",
+          "count": 34
         }
       ]
     },
@@ -348638,6 +353266,136 @@
         {
           "word": "enterprise",
           "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2025-12-11-deterrence-by-denial-vs-punishment.md",
+      "slug": "deterrence-by-denial-vs-punishment",
+      "title": "Deterrence by Denial vs Punishment",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6697,
+      "topWord": "denial",
+      "topCount": 224,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-12-11-deterrence-by-denial-vs-punishment.md",
+      "flaggedWords": [
+        {
+          "word": "denial",
+          "count": 224
+        },
+        {
+          "word": "punishment",
+          "count": 183
+        },
+        {
+          "word": "aggressor",
+          "count": 155
+        },
+        {
+          "word": "mode",
+          "count": 71
+        },
+        {
+          "word": "posture",
+          "count": 68
+        },
+        {
+          "word": "ground",
+          "count": 63
+        },
+        {
+          "word": "attack",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "denial",
+          "count": 224
+        },
+        {
+          "word": "punishment",
+          "count": 183
+        },
+        {
+          "word": "aggressor",
+          "count": 155
+        },
+        {
+          "word": "mode",
+          "count": 71
+        },
+        {
+          "word": "posture",
+          "count": 68
+        },
+        {
+          "word": "ground",
+          "count": 63
+        },
+        {
+          "word": "attack",
+          "count": 52
+        },
+        {
+          "word": "forces",
+          "count": 50
+        },
+        {
+          "word": "flank",
+          "count": 49
+        },
+        {
+          "word": "defender",
+          "count": 49
+        },
+        {
+          "word": "cost",
+          "count": 47
+        },
+        {
+          "word": "ceiling",
+          "count": 46
+        },
+        {
+          "word": "cannot",
+          "count": 43
+        },
+        {
+          "word": "deterrence",
+          "count": 43
+        },
+        {
+          "word": "opening",
+          "count": 43
+        },
+        {
+          "word": "alliance",
+          "count": 40
+        },
+        {
+          "word": "forward",
+          "count": 38
+        },
+        {
+          "word": "adversary",
+          "count": 36
+        },
+        {
+          "word": "fait",
+          "count": 36
+        },
+        {
+          "word": "accompli",
+          "count": 36
         }
       ]
     },
@@ -349414,6 +354172,172 @@
       ]
     },
     {
+      "filename": "2025-12-21-would-the-us-really-fight-for-poland.md",
+      "slug": "would-the-us-really-fight-for-poland",
+      "title": "Would the US Really Fight for Poland?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7623,
+      "topWord": "resolve",
+      "topCount": 137,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2025-12-21-would-the-us-really-fight-for-poland.md",
+      "flaggedWords": [
+        {
+          "word": "resolve",
+          "count": 137
+        },
+        {
+          "word": "commitment",
+          "count": 120
+        },
+        {
+          "word": "structure",
+          "count": 116
+        },
+        {
+          "word": "american",
+          "count": 101
+        },
+        {
+          "word": "structural",
+          "count": 89
+        },
+        {
+          "word": "forces",
+          "count": 83
+        },
+        {
+          "word": "adversary",
+          "count": 80
+        },
+        {
+          "word": "forward",
+          "count": 79
+        },
+        {
+          "word": "reader",
+          "count": 70
+        },
+        {
+          "word": "presence",
+          "count": 69
+        },
+        {
+          "word": "ally",
+          "count": 66
+        },
+        {
+          "word": "response",
+          "count": 66
+        },
+        {
+          "word": "assessment",
+          "count": 61
+        },
+        {
+          "word": "poland",
+          "count": 58
+        },
+        {
+          "word": "crisis",
+          "count": 56
+        },
+        {
+          "word": "political",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "resolve",
+          "count": 137
+        },
+        {
+          "word": "commitment",
+          "count": 120
+        },
+        {
+          "word": "structure",
+          "count": 116
+        },
+        {
+          "word": "american",
+          "count": 101
+        },
+        {
+          "word": "structural",
+          "count": 89
+        },
+        {
+          "word": "forces",
+          "count": 83
+        },
+        {
+          "word": "adversary",
+          "count": 80
+        },
+        {
+          "word": "forward",
+          "count": 79
+        },
+        {
+          "word": "reader",
+          "count": 70
+        },
+        {
+          "word": "presence",
+          "count": 69
+        },
+        {
+          "word": "ally",
+          "count": 66
+        },
+        {
+          "word": "response",
+          "count": 66
+        },
+        {
+          "word": "assessment",
+          "count": 61
+        },
+        {
+          "word": "poland",
+          "count": 58
+        },
+        {
+          "word": "crisis",
+          "count": 56
+        },
+        {
+          "word": "political",
+          "count": 54
+        },
+        {
+          "word": "rhetoric",
+          "count": 48
+        },
+        {
+          "word": "question",
+          "count": 45
+        },
+        {
+          "word": "sentiment",
+          "count": 45
+        },
+        {
+          "word": "guarantee",
+          "count": 44
+        }
+      ]
+    },
+    {
       "filename": "2025-12-22-gatsby-pool-drain-symbol.md",
       "slug": "gatsby-pool-drain-symbol",
       "title": "Gatsby's Gardener and the Pool Drain",
@@ -350116,6 +355040,144 @@
       ]
     },
     {
+      "filename": "2026-01-01-the-weak-links-in-nato-cohesion.md",
+      "slug": "the-weak-links-in-nato-cohesion",
+      "title": "The Weak Links in NATO Cohesion",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7519,
+      "topWord": "alliance",
+      "topCount": 235,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-01-01-the-weak-links-in-nato-cohesion.md",
+      "flaggedWords": [
+        {
+          "word": "alliance",
+          "count": 235
+        },
+        {
+          "word": "cohesion",
+          "count": 145
+        },
+        {
+          "word": "member",
+          "count": 121
+        },
+        {
+          "word": "members",
+          "count": 112
+        },
+        {
+          "word": "adversary",
+          "count": 105
+        },
+        {
+          "word": "decision",
+          "count": 78
+        },
+        {
+          "word": "seam",
+          "count": 72
+        },
+        {
+          "word": "consensus",
+          "count": 70
+        },
+        {
+          "word": "crisis",
+          "count": 69
+        }
+      ],
+      "top20": [
+        {
+          "word": "alliance",
+          "count": 235
+        },
+        {
+          "word": "cohesion",
+          "count": 145
+        },
+        {
+          "word": "member",
+          "count": 121
+        },
+        {
+          "word": "members",
+          "count": 112
+        },
+        {
+          "word": "adversary",
+          "count": 105
+        },
+        {
+          "word": "decision",
+          "count": 78
+        },
+        {
+          "word": "seam",
+          "count": 72
+        },
+        {
+          "word": "consensus",
+          "count": 70
+        },
+        {
+          "word": "crisis",
+          "count": 69
+        },
+        {
+          "word": "response",
+          "count": 49
+        },
+        {
+          "word": "defense",
+          "count": 47
+        },
+        {
+          "word": "collective",
+          "count": 45
+        },
+        {
+          "word": "seams",
+          "count": 45
+        },
+        {
+          "word": "perception",
+          "count": 40
+        },
+        {
+          "word": "threat",
+          "count": 37
+        },
+        {
+          "word": "ambiguous",
+          "count": 36
+        },
+        {
+          "word": "rule",
+          "count": 35
+        },
+        {
+          "word": "attack",
+          "count": 34
+        },
+        {
+          "word": "poland",
+          "count": 33
+        },
+        {
+          "word": "tempo",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2026-01-03-best-ai-video-editing-tools.md",
       "slug": "best-ai-video-editing-tools",
       "title": "Best AI Video Editing Tools Compared",
@@ -350790,6 +355852,156 @@
         {
           "word": "data",
           "count": 38
+        }
+      ]
+    },
+    {
+      "filename": "2026-01-11-how-nato-reinforces-eastern-flank.md",
+      "slug": "how-nato-reinforces-eastern-flank",
+      "title": "How NATO Reinforces the Eastern Flank",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6723,
+      "topWord": "reinforcement",
+      "topCount": 120,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-01-11-how-nato-reinforces-eastern-flank.md",
+      "flaggedWords": [
+        {
+          "word": "reinforcement",
+          "count": 120
+        },
+        {
+          "word": "alliance",
+          "count": 118
+        },
+        {
+          "word": "clock",
+          "count": 93
+        },
+        {
+          "word": "forward",
+          "count": 88
+        },
+        {
+          "word": "forces",
+          "count": 86
+        },
+        {
+          "word": "force",
+          "count": 71
+        },
+        {
+          "word": "decision",
+          "count": 71
+        },
+        {
+          "word": "flank",
+          "count": 67
+        },
+        {
+          "word": "crisis",
+          "count": 65
+        },
+        {
+          "word": "adversary",
+          "count": 63
+        },
+        {
+          "word": "readiness",
+          "count": 60
+        },
+        {
+          "word": "peacetime",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "reinforcement",
+          "count": 120
+        },
+        {
+          "word": "alliance",
+          "count": 118
+        },
+        {
+          "word": "clock",
+          "count": 93
+        },
+        {
+          "word": "forward",
+          "count": 88
+        },
+        {
+          "word": "forces",
+          "count": 86
+        },
+        {
+          "word": "force",
+          "count": 71
+        },
+        {
+          "word": "decision",
+          "count": 71
+        },
+        {
+          "word": "flank",
+          "count": 67
+        },
+        {
+          "word": "crisis",
+          "count": 65
+        },
+        {
+          "word": "adversary",
+          "count": 63
+        },
+        {
+          "word": "readiness",
+          "count": 60
+        },
+        {
+          "word": "peacetime",
+          "count": 56
+        },
+        {
+          "word": "fast",
+          "count": 50
+        },
+        {
+          "word": "planning",
+          "count": 48
+        },
+        {
+          "word": "link",
+          "count": 47
+        },
+        {
+          "word": "problem",
+          "count": 45
+        },
+        {
+          "word": "movement",
+          "count": 41
+        },
+        {
+          "word": "warning",
+          "count": 40
+        },
+        {
+          "word": "reception",
+          "count": 40
+        },
+        {
+          "word": "chain",
+          "count": 39
         }
       ]
     },
@@ -351578,6 +356790,168 @@
         {
           "word": "的考",
           "count": 39
+        }
+      ]
+    },
+    {
+      "filename": "2026-01-21-nato-forward-presence-in-poland.md",
+      "slug": "nato-forward-presence-in-poland",
+      "title": "NATO's Forward Presence in Poland",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7578,
+      "topWord": "presence",
+      "topCount": 184,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-01-21-nato-forward-presence-in-poland.md",
+      "flaggedWords": [
+        {
+          "word": "presence",
+          "count": 184
+        },
+        {
+          "word": "forward",
+          "count": 139
+        },
+        {
+          "word": "footprint",
+          "count": 121
+        },
+        {
+          "word": "force",
+          "count": 107
+        },
+        {
+          "word": "alliance",
+          "count": 104
+        },
+        {
+          "word": "reinforcement",
+          "count": 91
+        },
+        {
+          "word": "forces",
+          "count": 87
+        },
+        {
+          "word": "enabling",
+          "count": 86
+        },
+        {
+          "word": "poland",
+          "count": 84
+        },
+        {
+          "word": "value",
+          "count": 83
+        },
+        {
+          "word": "allied",
+          "count": 68
+        },
+        {
+          "word": "combat",
+          "count": 68
+        },
+        {
+          "word": "command",
+          "count": 58
+        },
+        {
+          "word": "anchor",
+          "count": 55
+        },
+        {
+          "word": "assessment",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "presence",
+          "count": 184
+        },
+        {
+          "word": "forward",
+          "count": 139
+        },
+        {
+          "word": "footprint",
+          "count": 121
+        },
+        {
+          "word": "force",
+          "count": 107
+        },
+        {
+          "word": "alliance",
+          "count": 104
+        },
+        {
+          "word": "reinforcement",
+          "count": 91
+        },
+        {
+          "word": "forces",
+          "count": 87
+        },
+        {
+          "word": "enabling",
+          "count": 86
+        },
+        {
+          "word": "poland",
+          "count": 84
+        },
+        {
+          "word": "value",
+          "count": 83
+        },
+        {
+          "word": "allied",
+          "count": 68
+        },
+        {
+          "word": "combat",
+          "count": 68
+        },
+        {
+          "word": "command",
+          "count": 58
+        },
+        {
+          "word": "anchor",
+          "count": 55
+        },
+        {
+          "word": "assessment",
+          "count": 53
+        },
+        {
+          "word": "permanent",
+          "count": 49
+        },
+        {
+          "word": "multinational",
+          "count": 47
+        },
+        {
+          "word": "infrastructure",
+          "count": 45
+        },
+        {
+          "word": "attack",
+          "count": 44
+        },
+        {
+          "word": "defense",
+          "count": 44
         }
       ]
     },
@@ -420446,6 +425820,140 @@
       ]
     },
     {
+      "filename": "2026-07-04-france-vs-paraguay-preview.md",
+      "slug": "france-vs-paraguay-preview",
+      "title": "France vs Paraguay Preview: World Cup 2026 Round of 16",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7566,
+      "topWord": "paraguay",
+      "topCount": 262,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-04-france-vs-paraguay-preview.md",
+      "flaggedWords": [
+        {
+          "word": "paraguay",
+          "count": 262
+        },
+        {
+          "word": "france",
+          "count": 254
+        },
+        {
+          "word": "tie",
+          "count": 69
+        },
+        {
+          "word": "tournament",
+          "count": 67
+        },
+        {
+          "word": "game",
+          "count": 59
+        },
+        {
+          "word": "cup",
+          "count": 57
+        },
+        {
+          "word": "germany",
+          "count": 56
+        },
+        {
+          "word": "team",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "paraguay",
+          "count": 262
+        },
+        {
+          "word": "france",
+          "count": 254
+        },
+        {
+          "word": "tie",
+          "count": 69
+        },
+        {
+          "word": "tournament",
+          "count": 67
+        },
+        {
+          "word": "game",
+          "count": 59
+        },
+        {
+          "word": "cup",
+          "count": 57
+        },
+        {
+          "word": "germany",
+          "count": 56
+        },
+        {
+          "word": "team",
+          "count": 51
+        },
+        {
+          "word": "match",
+          "count": 47
+        },
+        {
+          "word": "goal",
+          "count": 47
+        },
+        {
+          "word": "mbappe",
+          "count": 41
+        },
+        {
+          "word": "single",
+          "count": 38
+        },
+        {
+          "word": "knockout",
+          "count": 35
+        },
+        {
+          "word": "round",
+          "count": 32
+        },
+        {
+          "word": "goalkeeper",
+          "count": 31
+        },
+        {
+          "word": "group",
+          "count": 31
+        },
+        {
+          "word": "block",
+          "count": 31
+        },
+        {
+          "word": "quality",
+          "count": 30
+        },
+        {
+          "word": "ball",
+          "count": 30
+        },
+        {
+          "word": "four",
+          "count": 29
+        }
+      ]
+    },
+    {
       "filename": "2026-07-04-h1b-fee-two-rulings-compared.md",
       "slug": "h1b-fee-two-rulings-compared",
       "title": "Two H-1B Fee Rulings Compared: Tax vs Entry Power",
@@ -420584,6 +426092,128 @@
       ]
     },
     {
+      "filename": "2026-07-05-brazil-vs-norway-preview.md",
+      "slug": "brazil-vs-norway-preview",
+      "title": "Brazil vs Norway: World Cup 2026 Round of 16 Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7743,
+      "topWord": "brazil",
+      "topCount": 244,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-05-brazil-vs-norway-preview.md",
+      "flaggedWords": [
+        {
+          "word": "brazil",
+          "count": 244
+        },
+        {
+          "word": "norway",
+          "count": 227
+        },
+        {
+          "word": "tie",
+          "count": 107
+        },
+        {
+          "word": "haaland",
+          "count": 85
+        },
+        {
+          "word": "knockout",
+          "count": 58
+        }
+      ],
+      "top20": [
+        {
+          "word": "brazil",
+          "count": 244
+        },
+        {
+          "word": "norway",
+          "count": 227
+        },
+        {
+          "word": "tie",
+          "count": 107
+        },
+        {
+          "word": "haaland",
+          "count": 85
+        },
+        {
+          "word": "knockout",
+          "count": 58
+        },
+        {
+          "word": "cup",
+          "count": 50
+        },
+        {
+          "word": "team",
+          "count": 48
+        },
+        {
+          "word": "tournament",
+          "count": 46
+        },
+        {
+          "word": "vinicius",
+          "count": 45
+        },
+        {
+          "word": "win",
+          "count": 39
+        },
+        {
+          "word": "ancelotti",
+          "count": 37
+        },
+        {
+          "word": "odegaard",
+          "count": 36
+        },
+        {
+          "word": "round",
+          "count": 34
+        },
+        {
+          "word": "norwegian",
+          "count": 32
+        },
+        {
+          "word": "history",
+          "count": 29
+        },
+        {
+          "word": "stage",
+          "count": 28
+        },
+        {
+          "word": "game",
+          "count": 28
+        },
+        {
+          "word": "full",
+          "count": 26
+        },
+        {
+          "word": "plan",
+          "count": 25
+        },
+        {
+          "word": "wide",
+          "count": 25
+        }
+      ]
+    },
+    {
       "filename": "2026-07-05-canada-vs-morocco-analysis.md",
       "slug": "canada-vs-morocco-analysis",
       "title": "Canada vs Morocco: World Cup 2026 Result and Analysis",
@@ -420718,6 +426348,420 @@
       ]
     },
     {
+      "filename": "2026-07-05-france-vs-paraguay-analysis.md",
+      "slug": "france-vs-paraguay-analysis",
+      "title": "France 1-0 Paraguay: World Cup 2026 Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7231,
+      "topWord": "france",
+      "topCount": 238,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-05-france-vs-paraguay-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "france",
+          "count": 238
+        },
+        {
+          "word": "paraguay",
+          "count": 225
+        },
+        {
+          "word": "cup",
+          "count": 72
+        },
+        {
+          "word": "match",
+          "count": 68
+        },
+        {
+          "word": "tournament",
+          "count": 67
+        },
+        {
+          "word": "penalty",
+          "count": 64
+        },
+        {
+          "word": "team",
+          "count": 64
+        },
+        {
+          "word": "tie",
+          "count": 60
+        },
+        {
+          "word": "win",
+          "count": 57
+        },
+        {
+          "word": "mbappe",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "france",
+          "count": 238
+        },
+        {
+          "word": "paraguay",
+          "count": 225
+        },
+        {
+          "word": "cup",
+          "count": 72
+        },
+        {
+          "word": "match",
+          "count": 68
+        },
+        {
+          "word": "tournament",
+          "count": 67
+        },
+        {
+          "word": "penalty",
+          "count": 64
+        },
+        {
+          "word": "team",
+          "count": 64
+        },
+        {
+          "word": "tie",
+          "count": 60
+        },
+        {
+          "word": "win",
+          "count": 57
+        },
+        {
+          "word": "mbappe",
+          "count": 52
+        },
+        {
+          "word": "goal",
+          "count": 50
+        },
+        {
+          "word": "single",
+          "count": 47
+        },
+        {
+          "word": "doue",
+          "count": 44
+        },
+        {
+          "word": "game",
+          "count": 44
+        },
+        {
+          "word": "morocco",
+          "count": 41
+        },
+        {
+          "word": "knockout",
+          "count": 39
+        },
+        {
+          "word": "block",
+          "count": 37
+        },
+        {
+          "word": "deschamps",
+          "count": 36
+        },
+        {
+          "word": "minutes",
+          "count": 35
+        },
+        {
+          "word": "round",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-05-mexico-vs-england-preview.md",
+      "slug": "mexico-vs-england-preview",
+      "title": "Mexico vs England Preview: World Cup 2026 Last 16",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7535,
+      "topWord": "england",
+      "topCount": 246,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-05-mexico-vs-england-preview.md",
+      "flaggedWords": [
+        {
+          "word": "england",
+          "count": 246
+        },
+        {
+          "word": "mexico",
+          "count": 203
+        },
+        {
+          "word": "tie",
+          "count": 70
+        },
+        {
+          "word": "game",
+          "count": 67
+        },
+        {
+          "word": "altitude",
+          "count": 64
+        },
+        {
+          "word": "azteca",
+          "count": 63
+        },
+        {
+          "word": "cup",
+          "count": 61
+        },
+        {
+          "word": "team",
+          "count": 57
+        },
+        {
+          "word": "tournament",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "england",
+          "count": 246
+        },
+        {
+          "word": "mexico",
+          "count": 203
+        },
+        {
+          "word": "tie",
+          "count": 70
+        },
+        {
+          "word": "game",
+          "count": 67
+        },
+        {
+          "word": "altitude",
+          "count": 64
+        },
+        {
+          "word": "azteca",
+          "count": 63
+        },
+        {
+          "word": "cup",
+          "count": 61
+        },
+        {
+          "word": "team",
+          "count": 57
+        },
+        {
+          "word": "tournament",
+          "count": 52
+        },
+        {
+          "word": "round",
+          "count": 37
+        },
+        {
+          "word": "knockout",
+          "count": 36
+        },
+        {
+          "word": "ball",
+          "count": 35
+        },
+        {
+          "word": "win",
+          "count": 34
+        },
+        {
+          "word": "quality",
+          "count": 32
+        },
+        {
+          "word": "tuchel",
+          "count": 32
+        },
+        {
+          "word": "kane",
+          "count": 32
+        },
+        {
+          "word": "football",
+          "count": 30
+        },
+        {
+          "word": "match",
+          "count": 29
+        },
+        {
+          "word": "crowd",
+          "count": 29
+        },
+        {
+          "word": "four",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-06-brazil-vs-norway-analysis.md",
+      "slug": "brazil-vs-norway-analysis",
+      "title": "Brazil vs Norway Analysis: Haaland Stuns Selecao",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7583,
+      "topWord": "brazil",
+      "topCount": 231,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-06-brazil-vs-norway-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "brazil",
+          "count": 231
+        },
+        {
+          "word": "norway",
+          "count": 210
+        },
+        {
+          "word": "haaland",
+          "count": 80
+        },
+        {
+          "word": "cup",
+          "count": 68
+        },
+        {
+          "word": "team",
+          "count": 59
+        },
+        {
+          "word": "penalty",
+          "count": 54
+        },
+        {
+          "word": "match",
+          "count": 51
+        },
+        {
+          "word": "goals",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "brazil",
+          "count": 231
+        },
+        {
+          "word": "norway",
+          "count": 210
+        },
+        {
+          "word": "haaland",
+          "count": 80
+        },
+        {
+          "word": "cup",
+          "count": 68
+        },
+        {
+          "word": "team",
+          "count": 59
+        },
+        {
+          "word": "penalty",
+          "count": 54
+        },
+        {
+          "word": "match",
+          "count": 51
+        },
+        {
+          "word": "goals",
+          "count": 51
+        },
+        {
+          "word": "tournament",
+          "count": 49
+        },
+        {
+          "word": "tie",
+          "count": 47
+        },
+        {
+          "word": "game",
+          "count": 45
+        },
+        {
+          "word": "nyland",
+          "count": 43
+        },
+        {
+          "word": "football",
+          "count": 38
+        },
+        {
+          "word": "ball",
+          "count": 32
+        },
+        {
+          "word": "result",
+          "count": 29
+        },
+        {
+          "word": "possession",
+          "count": 29
+        },
+        {
+          "word": "moment",
+          "count": 29
+        },
+        {
+          "word": "goal",
+          "count": 29
+        },
+        {
+          "word": "vs",
+          "count": 28
+        },
+        {
+          "word": "final",
+          "count": 28
+        }
+      ]
+    },
+    {
       "filename": "2026-07-06-gatsby-hyperbole-excess.md",
       "slug": "gatsby-hyperbole-excess",
       "title": "Hyperbole and Excess in Fitzgerald's Style",
@@ -420832,6 +426876,1326 @@
         {
           "word": "parties",
           "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-06-mexico-vs-england-analysis.md",
+      "slug": "mexico-vs-england-analysis",
+      "title": "Mexico vs England World Cup 2026 Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7392,
+      "topWord": "england",
+      "topCount": 204,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-06-mexico-vs-england-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "england",
+          "count": 204
+        },
+        {
+          "word": "mexico",
+          "count": 142
+        },
+        {
+          "word": "goal",
+          "count": 88
+        },
+        {
+          "word": "tournament",
+          "count": 69
+        },
+        {
+          "word": "cup",
+          "count": 57
+        },
+        {
+          "word": "game",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "england",
+          "count": 204
+        },
+        {
+          "word": "mexico",
+          "count": 142
+        },
+        {
+          "word": "goal",
+          "count": 88
+        },
+        {
+          "word": "tournament",
+          "count": 69
+        },
+        {
+          "word": "cup",
+          "count": 57
+        },
+        {
+          "word": "game",
+          "count": 51
+        },
+        {
+          "word": "bellingham",
+          "count": 50
+        },
+        {
+          "word": "azteca",
+          "count": 48
+        },
+        {
+          "word": "team",
+          "count": 48
+        },
+        {
+          "word": "penalty",
+          "count": 48
+        },
+        {
+          "word": "kane",
+          "count": 46
+        },
+        {
+          "word": "match",
+          "count": 44
+        },
+        {
+          "word": "tie",
+          "count": 43
+        },
+        {
+          "word": "night",
+          "count": 40
+        },
+        {
+          "word": "pickford",
+          "count": 35
+        },
+        {
+          "word": "mexican",
+          "count": 34
+        },
+        {
+          "word": "second",
+          "count": 34
+        },
+        {
+          "word": "minutes",
+          "count": 33
+        },
+        {
+          "word": "half",
+          "count": 33
+        },
+        {
+          "word": "goals",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-06-portugal-vs-spain-preview.md",
+      "slug": "portugal-vs-spain-preview",
+      "title": "Portugal vs Spain: World Cup 2026 Round of 16 Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7584,
+      "topWord": "spain",
+      "topCount": 245,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-06-portugal-vs-spain-preview.md",
+      "flaggedWords": [
+        {
+          "word": "spain",
+          "count": 245
+        },
+        {
+          "word": "portugal",
+          "count": 233
+        },
+        {
+          "word": "tie",
+          "count": 92
+        },
+        {
+          "word": "tournament",
+          "count": 84
+        },
+        {
+          "word": "cup",
+          "count": 70
+        },
+        {
+          "word": "game",
+          "count": 67
+        },
+        {
+          "word": "ronaldo",
+          "count": 55
+        },
+        {
+          "word": "knockout",
+          "count": 55
+        },
+        {
+          "word": "win",
+          "count": 52
+        },
+        {
+          "word": "team",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "spain",
+          "count": 245
+        },
+        {
+          "word": "portugal",
+          "count": 233
+        },
+        {
+          "word": "tie",
+          "count": 92
+        },
+        {
+          "word": "tournament",
+          "count": 84
+        },
+        {
+          "word": "cup",
+          "count": 70
+        },
+        {
+          "word": "game",
+          "count": 67
+        },
+        {
+          "word": "ronaldo",
+          "count": 55
+        },
+        {
+          "word": "knockout",
+          "count": 55
+        },
+        {
+          "word": "win",
+          "count": 52
+        },
+        {
+          "word": "team",
+          "count": 51
+        },
+        {
+          "word": "derby",
+          "count": 47
+        },
+        {
+          "word": "round",
+          "count": 40
+        },
+        {
+          "word": "control",
+          "count": 39
+        },
+        {
+          "word": "goal",
+          "count": 34
+        },
+        {
+          "word": "yamal",
+          "count": 34
+        },
+        {
+          "word": "vs",
+          "count": 33
+        },
+        {
+          "word": "single",
+          "count": 32
+        },
+        {
+          "word": "group",
+          "count": 31
+        },
+        {
+          "word": "dallas",
+          "count": 28
+        },
+        {
+          "word": "final",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-06-usa-vs-belgium-preview.md",
+      "slug": "usa-vs-belgium-preview",
+      "title": "USA vs Belgium: World Cup 2026 Round of 16 Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7360,
+      "topWord": "belgium",
+      "topCount": 194,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-06-usa-vs-belgium-preview.md",
+      "flaggedWords": [
+        {
+          "word": "belgium",
+          "count": 194
+        },
+        {
+          "word": "united",
+          "count": 130
+        },
+        {
+          "word": "states",
+          "count": 128
+        },
+        {
+          "word": "tie",
+          "count": 122
+        },
+        {
+          "word": "knockout",
+          "count": 82
+        },
+        {
+          "word": "game",
+          "count": 82
+        },
+        {
+          "word": "american",
+          "count": 77
+        },
+        {
+          "word": "tournament",
+          "count": 75
+        },
+        {
+          "word": "round",
+          "count": 74
+        },
+        {
+          "word": "group",
+          "count": 60
+        },
+        {
+          "word": "cup",
+          "count": 55
+        },
+        {
+          "word": "team",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "belgium",
+          "count": 194
+        },
+        {
+          "word": "united",
+          "count": 130
+        },
+        {
+          "word": "states",
+          "count": 128
+        },
+        {
+          "word": "tie",
+          "count": 122
+        },
+        {
+          "word": "knockout",
+          "count": 82
+        },
+        {
+          "word": "game",
+          "count": 82
+        },
+        {
+          "word": "american",
+          "count": 77
+        },
+        {
+          "word": "tournament",
+          "count": 75
+        },
+        {
+          "word": "round",
+          "count": 74
+        },
+        {
+          "word": "group",
+          "count": 60
+        },
+        {
+          "word": "cup",
+          "count": 55
+        },
+        {
+          "word": "team",
+          "count": 52
+        },
+        {
+          "word": "seattle",
+          "count": 49
+        },
+        {
+          "word": "usa",
+          "count": 45
+        },
+        {
+          "word": "win",
+          "count": 43
+        },
+        {
+          "word": "quality",
+          "count": 39
+        },
+        {
+          "word": "players",
+          "count": 35
+        },
+        {
+          "word": "balogun",
+          "count": 35
+        },
+        {
+          "word": "pochettino",
+          "count": 32
+        },
+        {
+          "word": "night",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-07-argentina-vs-egypt-preview.md",
+      "slug": "argentina-vs-egypt-preview",
+      "title": "Argentina vs Egypt: World Cup 2026 Round of 16 Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7728,
+      "topWord": "egypt",
+      "topCount": 251,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-07-argentina-vs-egypt-preview.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 251
+        },
+        {
+          "word": "argentina",
+          "count": 209
+        },
+        {
+          "word": "tie",
+          "count": 103
+        },
+        {
+          "word": "game",
+          "count": 67
+        },
+        {
+          "word": "round",
+          "count": 66
+        },
+        {
+          "word": "win",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 251
+        },
+        {
+          "word": "argentina",
+          "count": 209
+        },
+        {
+          "word": "tie",
+          "count": 103
+        },
+        {
+          "word": "game",
+          "count": 67
+        },
+        {
+          "word": "round",
+          "count": 66
+        },
+        {
+          "word": "win",
+          "count": 52
+        },
+        {
+          "word": "champions",
+          "count": 49
+        },
+        {
+          "word": "knockout",
+          "count": 46
+        },
+        {
+          "word": "salah",
+          "count": 45
+        },
+        {
+          "word": "underdog",
+          "count": 44
+        },
+        {
+          "word": "tournament",
+          "count": 44
+        },
+        {
+          "word": "group",
+          "count": 42
+        },
+        {
+          "word": "cup",
+          "count": 40
+        },
+        {
+          "word": "ball",
+          "count": 36
+        },
+        {
+          "word": "match",
+          "count": 36
+        },
+        {
+          "word": "plan",
+          "count": 35
+        },
+        {
+          "word": "minutes",
+          "count": 34
+        },
+        {
+          "word": "extra",
+          "count": 34
+        },
+        {
+          "word": "messi",
+          "count": 32
+        },
+        {
+          "word": "block",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-07-portugal-vs-spain-analysis.md",
+      "slug": "portugal-vs-spain-analysis",
+      "title": "Portugal vs Spain: World Cup 2026 Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7380,
+      "topWord": "spain",
+      "topCount": 202,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-07-portugal-vs-spain-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "spain",
+          "count": 202
+        },
+        {
+          "word": "portugal",
+          "count": 162
+        },
+        {
+          "word": "game",
+          "count": 85
+        },
+        {
+          "word": "tournament",
+          "count": 68
+        },
+        {
+          "word": "tie",
+          "count": 63
+        },
+        {
+          "word": "ronaldo",
+          "count": 57
+        },
+        {
+          "word": "cup",
+          "count": 56
+        },
+        {
+          "word": "goal",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "spain",
+          "count": 202
+        },
+        {
+          "word": "portugal",
+          "count": 162
+        },
+        {
+          "word": "game",
+          "count": 85
+        },
+        {
+          "word": "tournament",
+          "count": 68
+        },
+        {
+          "word": "tie",
+          "count": 63
+        },
+        {
+          "word": "ronaldo",
+          "count": 57
+        },
+        {
+          "word": "cup",
+          "count": 56
+        },
+        {
+          "word": "goal",
+          "count": 53
+        },
+        {
+          "word": "win",
+          "count": 42
+        },
+        {
+          "word": "match",
+          "count": 34
+        },
+        {
+          "word": "quality",
+          "count": 34
+        },
+        {
+          "word": "knockout",
+          "count": 33
+        },
+        {
+          "word": "merino",
+          "count": 31
+        },
+        {
+          "word": "players",
+          "count": 31
+        },
+        {
+          "word": "night",
+          "count": 30
+        },
+        {
+          "word": "moment",
+          "count": 30
+        },
+        {
+          "word": "final",
+          "count": 29
+        },
+        {
+          "word": "single",
+          "count": 28
+        },
+        {
+          "word": "team",
+          "count": 27
+        },
+        {
+          "word": "martinez",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-07-switzerland-vs-colombia-preview.md",
+      "slug": "switzerland-vs-colombia-preview",
+      "title": "Switzerland vs Colombia Preview: World Cup 2026 Last 16",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7358,
+      "topWord": "colombia",
+      "topCount": 215,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-07-switzerland-vs-colombia-preview.md",
+      "flaggedWords": [
+        {
+          "word": "colombia",
+          "count": 215
+        },
+        {
+          "word": "switzerland",
+          "count": 195
+        },
+        {
+          "word": "game",
+          "count": 108
+        },
+        {
+          "word": "team",
+          "count": 70
+        },
+        {
+          "word": "tie",
+          "count": 69
+        },
+        {
+          "word": "round",
+          "count": 67
+        },
+        {
+          "word": "cup",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "colombia",
+          "count": 215
+        },
+        {
+          "word": "switzerland",
+          "count": 195
+        },
+        {
+          "word": "game",
+          "count": 108
+        },
+        {
+          "word": "team",
+          "count": 70
+        },
+        {
+          "word": "tie",
+          "count": 69
+        },
+        {
+          "word": "round",
+          "count": 67
+        },
+        {
+          "word": "cup",
+          "count": 52
+        },
+        {
+          "word": "tournament",
+          "count": 49
+        },
+        {
+          "word": "knockout",
+          "count": 48
+        },
+        {
+          "word": "group",
+          "count": 43
+        },
+        {
+          "word": "win",
+          "count": 43
+        },
+        {
+          "word": "defensive",
+          "count": 43
+        },
+        {
+          "word": "defense",
+          "count": 42
+        },
+        {
+          "word": "diaz",
+          "count": 40
+        },
+        {
+          "word": "players",
+          "count": 39
+        },
+        {
+          "word": "goal",
+          "count": 38
+        },
+        {
+          "word": "four",
+          "count": 38
+        },
+        {
+          "word": "single",
+          "count": 37
+        },
+        {
+          "word": "possession",
+          "count": 37
+        },
+        {
+          "word": "teams",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-07-usa-vs-belgium-analysis.md",
+      "slug": "usa-vs-belgium-analysis",
+      "title": "USA vs Belgium: World Cup 2026 Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7418,
+      "topWord": "belgium",
+      "topCount": 257,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-07-usa-vs-belgium-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "belgium",
+          "count": 257
+        },
+        {
+          "word": "united",
+          "count": 126
+        },
+        {
+          "word": "states",
+          "count": 126
+        },
+        {
+          "word": "team",
+          "count": 83
+        },
+        {
+          "word": "american",
+          "count": 73
+        }
+      ],
+      "top20": [
+        {
+          "word": "belgium",
+          "count": 257
+        },
+        {
+          "word": "united",
+          "count": 126
+        },
+        {
+          "word": "states",
+          "count": 126
+        },
+        {
+          "word": "team",
+          "count": 83
+        },
+        {
+          "word": "american",
+          "count": 73
+        },
+        {
+          "word": "game",
+          "count": 49
+        },
+        {
+          "word": "ketelaere",
+          "count": 46
+        },
+        {
+          "word": "ball",
+          "count": 42
+        },
+        {
+          "word": "round",
+          "count": 40
+        },
+        {
+          "word": "tournament",
+          "count": 40
+        },
+        {
+          "word": "tie",
+          "count": 40
+        },
+        {
+          "word": "goal",
+          "count": 40
+        },
+        {
+          "word": "night",
+          "count": 39
+        },
+        {
+          "word": "win",
+          "count": 38
+        },
+        {
+          "word": "seattle",
+          "count": 36
+        },
+        {
+          "word": "match",
+          "count": 36
+        },
+        {
+          "word": "garcia",
+          "count": 36
+        },
+        {
+          "word": "hosts",
+          "count": 34
+        },
+        {
+          "word": "half",
+          "count": 34
+        },
+        {
+          "word": "lukaku",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-08-argentina-egypt-var-controversy.md",
+      "slug": "argentina-egypt-var-controversy",
+      "title": "Argentina vs Egypt: The World Cup VAR Controversy",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7283,
+      "topWord": "egypt",
+      "topCount": 135,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-08-argentina-egypt-var-controversy.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 135
+        },
+        {
+          "word": "match",
+          "count": 78
+        },
+        {
+          "word": "goal",
+          "count": 74
+        },
+        {
+          "word": "argentina",
+          "count": 58
+        },
+        {
+          "word": "game",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 135
+        },
+        {
+          "word": "match",
+          "count": 78
+        },
+        {
+          "word": "goal",
+          "count": 74
+        },
+        {
+          "word": "argentina",
+          "count": 58
+        },
+        {
+          "word": "game",
+          "count": 52
+        },
+        {
+          "word": "cup",
+          "count": 41
+        },
+        {
+          "word": "controversy",
+          "count": 40
+        },
+        {
+          "word": "tournament",
+          "count": 40
+        },
+        {
+          "word": "football",
+          "count": 38
+        },
+        {
+          "word": "review",
+          "count": 36
+        },
+        {
+          "word": "officials",
+          "count": 35
+        },
+        {
+          "word": "complaint",
+          "count": 34
+        },
+        {
+          "word": "team",
+          "count": 34
+        },
+        {
+          "word": "officiating",
+          "count": 34
+        },
+        {
+          "word": "decisions",
+          "count": 33
+        },
+        {
+          "word": "disallowed",
+          "count": 32
+        },
+        {
+          "word": "referee",
+          "count": 32
+        },
+        {
+          "word": "video",
+          "count": 31
+        },
+        {
+          "word": "foul",
+          "count": 31
+        },
+        {
+          "word": "var",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-08-argentina-vs-egypt-analysis.md",
+      "slug": "argentina-vs-egypt-analysis",
+      "title": "Argentina vs Egypt: World Cup 2026 Result & Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7863,
+      "topWord": "egypt",
+      "topCount": 217,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-08-argentina-vs-egypt-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 217
+        },
+        {
+          "word": "argentina",
+          "count": 191
+        },
+        {
+          "word": "messi",
+          "count": 101
+        },
+        {
+          "word": "tournament",
+          "count": 86
+        },
+        {
+          "word": "champions",
+          "count": 79
+        },
+        {
+          "word": "goals",
+          "count": 78
+        },
+        {
+          "word": "goal",
+          "count": 73
+        },
+        {
+          "word": "match",
+          "count": 71
+        },
+        {
+          "word": "cup",
+          "count": 69
+        },
+        {
+          "word": "minutes",
+          "count": 57
+        },
+        {
+          "word": "team",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 217
+        },
+        {
+          "word": "argentina",
+          "count": 191
+        },
+        {
+          "word": "messi",
+          "count": 101
+        },
+        {
+          "word": "tournament",
+          "count": 86
+        },
+        {
+          "word": "champions",
+          "count": 79
+        },
+        {
+          "word": "goals",
+          "count": 78
+        },
+        {
+          "word": "goal",
+          "count": 73
+        },
+        {
+          "word": "match",
+          "count": 71
+        },
+        {
+          "word": "cup",
+          "count": 69
+        },
+        {
+          "word": "minutes",
+          "count": 57
+        },
+        {
+          "word": "team",
+          "count": 56
+        },
+        {
+          "word": "tie",
+          "count": 48
+        },
+        {
+          "word": "comeback",
+          "count": 42
+        },
+        {
+          "word": "round",
+          "count": 41
+        },
+        {
+          "word": "knockout",
+          "count": 40
+        },
+        {
+          "word": "final",
+          "count": 38
+        },
+        {
+          "word": "egyptian",
+          "count": 37
+        },
+        {
+          "word": "penalty",
+          "count": 36
+        },
+        {
+          "word": "atlanta",
+          "count": 33
+        },
+        {
+          "word": "romero",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-08-balogun-red-card-controversy.md",
+      "slug": "balogun-red-card-controversy",
+      "title": "Balogun, Trump and FIFA: A World Cup 2026 Storm",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7389,
+      "topWord": "fifa",
+      "topCount": 144,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-08-balogun-red-card-controversy.md",
+      "flaggedWords": [
+        {
+          "word": "fifa",
+          "count": 144
+        },
+        {
+          "word": "balogun",
+          "count": 85
+        },
+        {
+          "word": "card",
+          "count": 64
+        },
+        {
+          "word": "red",
+          "count": 62
+        },
+        {
+          "word": "decision",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "fifa",
+          "count": 144
+        },
+        {
+          "word": "balogun",
+          "count": 85
+        },
+        {
+          "word": "card",
+          "count": 64
+        },
+        {
+          "word": "red",
+          "count": 62
+        },
+        {
+          "word": "decision",
+          "count": 53
+        },
+        {
+          "word": "tournament",
+          "count": 46
+        },
+        {
+          "word": "united",
+          "count": 45
+        },
+        {
+          "word": "states",
+          "count": 45
+        },
+        {
+          "word": "football",
+          "count": 43
+        },
+        {
+          "word": "affair",
+          "count": 43
+        },
+        {
+          "word": "belgium",
+          "count": 41
+        },
+        {
+          "word": "body",
+          "count": 39
+        },
+        {
+          "word": "rules",
+          "count": 38
+        },
+        {
+          "word": "match",
+          "count": 37
+        },
+        {
+          "word": "infantino",
+          "count": 36
+        },
+        {
+          "word": "disciplinary",
+          "count": 34
+        },
+        {
+          "word": "automatic",
+          "count": 34
+        },
+        {
+          "word": "host",
+          "count": 31
+        },
+        {
+          "word": "political",
+          "count": 31
+        },
+        {
+          "word": "trump",
+          "count": 30
         }
       ]
     },
@@ -420978,6 +428342,132 @@
         {
           "word": "constitutional",
           "count": 38
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-08-switzerland-vs-colombia-analysis.md",
+      "slug": "switzerland-vs-colombia-analysis",
+      "title": "Switzerland vs Colombia: Swiss Edge Shootout to Reach QF",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7439,
+      "topWord": "switzerland",
+      "topCount": 204,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-08-switzerland-vs-colombia-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "switzerland",
+          "count": 204
+        },
+        {
+          "word": "colombia",
+          "count": 184
+        },
+        {
+          "word": "shootout",
+          "count": 92
+        },
+        {
+          "word": "swiss",
+          "count": 83
+        },
+        {
+          "word": "team",
+          "count": 79
+        },
+        {
+          "word": "tie",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "switzerland",
+          "count": 204
+        },
+        {
+          "word": "colombia",
+          "count": 184
+        },
+        {
+          "word": "shootout",
+          "count": 92
+        },
+        {
+          "word": "swiss",
+          "count": 83
+        },
+        {
+          "word": "team",
+          "count": 79
+        },
+        {
+          "word": "tie",
+          "count": 65
+        },
+        {
+          "word": "tournament",
+          "count": 47
+        },
+        {
+          "word": "kobel",
+          "count": 43
+        },
+        {
+          "word": "goalkeeper",
+          "count": 37
+        },
+        {
+          "word": "night",
+          "count": 37
+        },
+        {
+          "word": "win",
+          "count": 37
+        },
+        {
+          "word": "cup",
+          "count": 36
+        },
+        {
+          "word": "yakin",
+          "count": 35
+        },
+        {
+          "word": "game",
+          "count": 34
+        },
+        {
+          "word": "knockout",
+          "count": 34
+        },
+        {
+          "word": "penalty",
+          "count": 32
+        },
+        {
+          "word": "colombian",
+          "count": 32
+        },
+        {
+          "word": "vargas",
+          "count": 30
+        },
+        {
+          "word": "extra",
+          "count": 29
+        },
+        {
+          "word": "quarterfinal",
+          "count": 29
         }
       ]
     },

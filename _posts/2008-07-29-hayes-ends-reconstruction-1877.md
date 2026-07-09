@@ -9,7 +9,7 @@ excerpt: "Hayes pulled federal troops from South Carolina and Louisiana in April
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2008-07-29
+last_updated: 2026-07-09
 lang: en
 ---
 On April 3, less than thirty days after he placed his hand on a Bible at the East Portico of the Capitol, Rutherford Hayes signed the order that pulled federal soldiers away from the South Carolina statehouse in Columbia. Three weeks later, on April 24, he signed a second order for New Orleans. Both documents were brief. Neither contained the words "end" or "Reconstruction." Neither had to. Within seventy-two hours of each order, the Republican statehouse governments in those two states collapsed, replaced by Democratic regimes that white Southerners called the Redeemers. The federal commitment to the region's biracial GOP experiment, written in the blood of Antietam and Gettysburg and codified in three constitutional amendments, ended on those two days in two short executive orders.

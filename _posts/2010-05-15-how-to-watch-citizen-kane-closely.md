@@ -9,7 +9,7 @@ excerpt: "How to watch Citizen Kane closely: a two-pass viewing method, a scene-
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2010-05-15
+last_updated: 2026-07-09
 lang: en
 ---
 Learning how to watch Citizen Kane closely is the difference between a viewer who shrugs at the credits and a viewer who leaves with an argument. The film carries a reputation so heavy that it almost guarantees disappointment: you sit down expecting the greatest motion picture ever made, the plot moves at the pace of a memoir, the famous secret turns out to be a sled, and you wonder what the noise was about. That reaction is honest, it is common, and it is almost entirely a problem of approach rather than a problem with the film. Orson Welles built a picture that hides its richest material in places a casual eye never lands, and once you know where to put your attention the same ninety-nine minutes that felt flat begin to crowd with meaning.

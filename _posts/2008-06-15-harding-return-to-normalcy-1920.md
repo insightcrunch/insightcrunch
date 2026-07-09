@@ -9,7 +9,7 @@ excerpt: "Warren Harding won 1920 promising 'normalcy' after Wilson's war and pe
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2008-06-15
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Promise From the Home Market Club

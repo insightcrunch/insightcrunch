@@ -9,7 +9,7 @@ excerpt: "Complete literary analysis of Arthur Weasley in Harry Potter - the Mug
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 57
 author: "elena-wright"
-last_updated: 2012-09-25
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Wizard Who Loved Plugs

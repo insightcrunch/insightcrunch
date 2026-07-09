@@ -9,7 +9,7 @@ excerpt: "Johnson vetoed the Civil Rights Act in 1866. Congress overrode him. Fi
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 72
 author: "rachel-foster"
-last_updated: 2008-08-09
+last_updated: 2026-07-09
 lang: en
 ---
 On April 9, 1866, the United States Senate voted 33 to 15 to override Johnson's rejection of the Trumbull statute. The House had already done the same three days earlier by a margin of 122 to 41. The gas lamps were being lit outside the Capitol when the Senate roll closed. Inside the chamber, the silence lasted only a moment after the tally was announced, and then it broke. The 1866 statute became law over the express objection of Andrew Johnson, the first equal-protection statute in American history to clear that obstacle, and the first major piece of legislation of any kind to survive executive veto since 1845.

@@ -9,7 +9,7 @@ excerpt: "Citizen Kane: the Thatcher library scene analysis reading the marble v
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2011-01-15
+last_updated: 2026-07-09
 lang: en
 ---
 The first place the reporter goes to find a dead man's childhood is a tomb. In Citizen Kane: the Thatcher library scene, Jerry Thompson walks into a cold marble mausoleum, submits to a guardian's rules, and is allowed to read a few rationed pages of a banker's private memoir under a single beam of light. Before the film shows us one minute of Charles Foster Kane's boyhood, it shows us who keeps that boyhood locked up. That framing is the whole point, and it is why this short bridging sequence rewards the close attention most viewers never give it. This citizen kane scene analysis treats the Thatcher Memorial Library not as a transition to the real material but as the film's opening statement on a theme it will pursue to the warehouse: the past is property, and somebody else owns it.

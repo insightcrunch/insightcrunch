@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane Leland fallout scene stages the death of Kane's one h
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2011-07-01
+last_updated: 2026-07-09
 lang: en
 ---
 The slow death of Citizen Kane's one real friendship is the picture's quietest tragedy, and the moment when Leland and Kane fall out diagnoses, with more precision than any speech in the movie, exactly what is wrong with the way this man loves. There are louder ruptures in the film. Susan walks out of Xanadu in a fury, Emily freezes into silent contempt across a breakfast table, Gettys threatens and Kane roars back. The break with Jedediah Leland is different because it is the one separation Kane never recovers from and never quite understands. Leland is the friend who came up with him from the beginning, the friend who believed in the same things, the friend who is the only person in the entire story willing to say the true thing to Kane's face. That is precisely why the bond cannot survive, and the fallout sequence shows you why with a clarity that the rest of the film spends two hours circling.

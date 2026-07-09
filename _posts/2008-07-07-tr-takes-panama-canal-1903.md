@@ -11,6 +11,7 @@ tags: ["theodore-roosevelt", "decision-reconstruction", "us-presidents", "panama
 framework: decision-reconstruction
 author: "insight-crunch-team"
 lang: en
+last_updated: 2026-07-09
 ---
 ## The 1911 Confession
 

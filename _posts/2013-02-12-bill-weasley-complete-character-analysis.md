@@ -9,7 +9,7 @@ excerpt: "Bill Weasley in Harry Potter is the eldest Weasley son who escaped the
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 58
 author: "claire-bennett"
-last_updated: 2013-02-12
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Son Who Left and Came Back

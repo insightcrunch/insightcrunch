@@ -9,7 +9,7 @@ excerpt: "Every wartime president from Lincoln to Bush expanded executive power.
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2008-11-28
+last_updated: 2026-07-09
 lang: en
 ---
 On the morning of June 1, 1812, James Madison sent Congress a campaign message that catalogued British insults, presented evidence on impressment and the Orders in Council, and stopped. He did not demand action. He did not write the resolution. He did not pressure Speaker Henry Clay to whip votes. He laid out what he believed Congress needed to decide and waited seventeen days while the House and Senate debated. The vote that produced the War of 1812 was the closest authorization vote in American history: 79 to 49 in the House on June 4, and 19 to 13 in the Senate on June 17. Roughly four in ten members of the Eleventh Congress voted no.

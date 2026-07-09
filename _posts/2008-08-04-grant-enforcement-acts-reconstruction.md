@@ -9,7 +9,7 @@ excerpt: "Grant prosecuted the Klan in 1871. 3,000 indictments. 600 convictions.
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 67
 author: "diana-patel"
-last_updated: 2008-08-04
+last_updated: 2026-07-09
 lang: en
 ---
 ## Grant Chooses Reconstruction: The Enforcement Acts

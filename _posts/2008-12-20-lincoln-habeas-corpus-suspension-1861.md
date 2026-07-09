@@ -9,7 +9,7 @@ excerpt: "Lincoln suspended habeas corpus alone in April 1861. Chief Justice Tan
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2008-12-20
+last_updated: 2026-07-09
 lang: en
 ---
 The order traveled by courier on April 27, 1861. From the executive mansion to the headquarters of Lieutenant General Winfield Scott, somewhere in the same besieged city of Washington. Forty-seven words long. Addressed to the army's general-in-chief, not to the legislature, not to the courts, not to the Maryland authorities whose territory it would govern. Abraham Lincoln had just authorized the writ's halting of habeas corpus along the military line between Philadelphia and Washington. He had done so unilaterally. Not one legislator voted on the question. Not one judge was consulted in advance. The order itself cited no constitutional power.

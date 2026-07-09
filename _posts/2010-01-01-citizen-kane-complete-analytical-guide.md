@@ -9,7 +9,7 @@ excerpt: "Citizen Kane analysis that reads the film as an argument about the unk
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2010-01-01
+last_updated: 2026-07-09
 lang: en
 ---
 Most people who can name *Citizen Kane* cannot tell you why it matters, and that gap is the whole reason this guide exists. A serious Citizen Kane analysis does not begin with the plot, because the plot is the least interesting thing the picture is doing. The story is a detective story in which the detective is a reporter, the body is already dead in the first minute, and the mystery is not a crime but a person. The joke Orson Welles plays on his audience is that the investigation runs the full length of the film and solves nothing. The reporter never learns what the dying man meant, and neither, on any honest accounting, do we. Learn to read that failure as the design rather than a flaw, and the film opens up into the richest single object in classical cinema.

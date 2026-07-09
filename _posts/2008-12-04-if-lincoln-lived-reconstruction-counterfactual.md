@@ -9,7 +9,7 @@ excerpt: "Had Lincoln survived Ford's Theatre, would Reconstruction have succeed
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2008-12-04
+last_updated: 2026-07-09
 lang: en
 ---
 On the evening of April 11, 1865, two days after Appomattox, a tired man stood at a second-floor window of the White House and read aloud from sheets of paper held by an aide who lit each page with a candle. The speech was about Reconstruction. It was, by any honest reckoning, a peculiar address: half lawyer's brief on the disputed status of Louisiana, half public meditation on whether suffrage should extend to the literate freedmen and to those who had fought in Union ranks. In the crowd below stood a 26-year-old actor who turned to a companion and said, by later recollection, that this would be the last speech the President ever gave. Three days later, that promise was kept.

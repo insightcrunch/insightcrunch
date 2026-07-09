@@ -9,7 +9,7 @@ excerpt: "Jefferson called the Louisiana Purchase unconstitutional, drafted an a
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 56
 author: "amanda-ross"
-last_updated: 2008-10-20
+last_updated: 2026-07-09
 lang: en
 ---
 In the summer of 1803, Thomas Jefferson sat in the President's House with a problem that no political philosophy could solve cleanly. He had spent his entire career arguing that the federal government possessed only the powers explicitly granted by the Constitution. He had fought Alexander Hamilton over implied powers. He had written the Kentucky Resolutions of 1798 insisting that the states retained every authority not specifically delegated. He had constructed an entire political identity around the principle that the Constitution meant what it said and nothing more. And now, sitting on his desk, was the greatest real estate offer in human history, an offer that required him to exercise a power the Constitution nowhere mentioned: the authority to acquire foreign territory and incorporate it into the republic. Jefferson knew what he believed. He also knew what the land was worth. Between July and October 1803, he chose the land.

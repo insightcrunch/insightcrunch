@@ -9,7 +9,7 @@ excerpt: "When Kane meets Susan Alexander, a splash of mud and a toothache stage
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2011-05-01
+last_updated: 2026-07-09
 lang: en
 ---
 The moment Kane meets Susan is the only stretch of Citizen Kane in which Charles Foster Kane is caught with his guard down, and the film knows it. Everywhere else he is performing: building a newspaper, courting voters, furnishing a palace, presiding over a marriage that has curdled into silence. Here, for a few minutes on a wet street corner and in a cramped boarding-house room, he is simply a middle-aged man with mud on his coat who has been knocked, briefly, out of his own legend. That is precisely why the passage rewards the close attention this series gives it. The encounter looks like the softest thing in the picture, an almost accidental idyll dropped into a study of power, and it is exactly that softness that hides the wound underneath. Read carefully, the meeting is not a romance at all. It is the beginning of a substitution, and the substitution is doomed before the two of them finish laughing.

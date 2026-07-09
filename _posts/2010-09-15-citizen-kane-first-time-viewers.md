@@ -2,7 +2,7 @@
 title: "Citizen Kane for First-Time Viewers"
 page_title: "Citizen Kane for First-Time Viewers: A Spoiler-Aware Guide to Watching, Understanding, and Enjoying Orson Welles's 1941 Classic the First Time"
 date: 2010-09-15
-last_updated: 2010-09-15
+last_updated: 2026-07-09
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Close Reading", "Film History", "Themes"]
 image: "/assets/images/blog/blog-71.webp"

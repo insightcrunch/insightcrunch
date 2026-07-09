@@ -9,7 +9,7 @@ excerpt: "How we know about Predynastic Egypt: cemeteries, sequence dating, radi
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2000-09-01
+last_updated: 2026-07-09
 lang: en
 ---
 How we know about Predynastic Egypt is a harder question than it first sounds, because the roughly fifteen centuries before the pyramids left almost no writing, no royal chronicle a reader can open, and no single labeled monument a visitor can stand in front of and simply read. Everything a modern account states about the Nile farmers who slowly fused into the first kingdom rests on a quieter kind of testimony: the way a body was laid in a pit, the shape and surface of a clay pot, the decay of carbon inside a fragment of charcoal, and a small number of much later documents in which Egyptians looked back across two thousand years at their own origins and tried to reconstruct them. This article is about that testimony. It explains how the material was found, how specialists learned to read it, and, above all, how far each strand can carry the weight that popular accounts routinely pile onto it.

@@ -9,7 +9,7 @@ excerpt: "Taylor blocked the 1850 Compromise; cholera killed him in July. Fillmo
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 71
 author: "michael-brooks"
-last_updated: 2008-09-06
+last_updated: 2026-07-09
 lang: en
 ---
 The President of the United States was dying. On the night of July 8, 1850, Zachary Taylor lay in a second-floor bedroom of the executive mansion, his abdomen seized by what attending physicians, working with the medical vocabulary of their century, called cholera morbus. The diagnosis covered gastroenteritis, food poisoning, dysentery, and almost any acute bowel collapse short of the actual epidemic Asiatic cholera. Taylor had spent the afternoon of July 4 outdoors at the cornerstone ceremony for the Washington Monument, eaten raw cherries, and drunk iced milk; by July 5 he was vomiting. Five days later, his system was finished.

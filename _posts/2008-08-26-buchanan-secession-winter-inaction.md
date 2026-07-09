@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 67
 author: "rachel-foster"
 lang: en
+last_updated: 2026-07-09
 ---
 The morning of December 3, 1860. The clerk of the House of Representatives unfolds the annual presidential message and begins to read aloud. The capital is full of nervous men. South Carolina has called a convention to leave the United States. Three cabinet officers have begun preparing their resignations. Diplomatic dispatches from European chanceries demand to know whether the federal compact will hold. And the message answers each question by answering none of them.
 

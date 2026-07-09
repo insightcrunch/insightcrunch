@@ -9,7 +9,7 @@ excerpt: "Jefferson's 1807 embargo represented the single largest peacetime pres
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 57
 author: "simon-hartley"
-last_updated: 2008-10-15
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Strict Constructionist Who Built a Police State

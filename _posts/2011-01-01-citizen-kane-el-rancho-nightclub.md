@@ -9,7 +9,7 @@ excerpt: "The El Rancho nightclub scene in Citizen Kane uses a famous crane thro
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2011-01-01
+last_updated: 2026-07-09
 lang: en
 ---
 Citizen Kane: the El Rancho nightclub scene is the moment the film teaches you to read a camera move as a verdict on a life. A reporter named Thompson arrives at a shabby Atlantic City club in driving rain to interview the woman the world remembers as the great man's failed singer, and before she lifts her head, before she speaks one word of refusal, the picture has already told you how far she has fallen. The telling is not done with dialogue. It is done with a single descending gesture of the lens that climbs the wet exterior wall, passes the buzzing neon that bears her name, and lowers itself through a skylight into a near empty room where she sits slumped over a table. By the time the audience reaches Susan Alexander, the argument about her has been made in motion, in weather, and in light, and the words she will not say are almost beside the point.

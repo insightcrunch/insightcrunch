@@ -9,7 +9,7 @@ excerpt: "Predynastic Egypt covers the fifteen hundred years before the pharaohs
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 76
 author: "amanda-ross"
-last_updated: 2000-01-01
+last_updated: 2026-07-09
 lang: en
 ---
 Say the words "ancient Egypt" and most minds jump straight to pyramids, pharaohs, and golden death masks. Yet the civilization that produced those things did not begin with them. It began roughly fifteen centuries earlier, in a stretch of the Nile valley where no king wore the double crown, no hieroglyphs were carved into temple walls, and there was no unified state at all. This is Predynastic Egypt, the long formative age that runs from the first farming villages of the Nile down to the moment, around 3100 BCE, when Upper and Lower Egypt were welded into a single kingdom. Everything a later reader recognizes as Egyptian, the god-king, the mummy, the monumental tomb, the writing, the obsession with the afterlife, grew out of this era. Skip it, and you are watching a play from the second act, wondering why the characters already know their lines.

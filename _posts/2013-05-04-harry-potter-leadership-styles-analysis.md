@@ -9,7 +9,7 @@ excerpt: "Leadership styles in Harry Potter compared: why Rowling argues that wa
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2013-05-04
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Disqualifying Desire

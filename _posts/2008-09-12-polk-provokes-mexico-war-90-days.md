@@ -9,7 +9,7 @@ excerpt: "Polk engineered the Mexican War in ninety days. His own diary proves i
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2008-09-12
+last_updated: 2026-07-09
 lang: en
 ---
 At six o'clock on the evening of Saturday, May 9, 1846, a courier reached the White House with dispatches from General Zachary Taylor's camp on the lower Rio Grande. Inside the sealed packet was Captain Seth Thornton's account of a skirmish ten days earlier, in which sixty-three American dragoons riding patrol north of Matamoros had been surrounded by Mexican cavalry under General Anastasio Torrejón. Eleven Americans were dead, five wounded, the rest captured. James Knox Polk read the dispatches in his White House study, summoned his cabinet by note, and prepared the war message he had been writing for months.

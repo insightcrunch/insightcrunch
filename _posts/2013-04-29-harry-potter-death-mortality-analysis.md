@@ -9,7 +9,7 @@ excerpt: "How Harry Potter turns the question of facing death into its only real
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2013-04-29
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Boy Who Lived to Die

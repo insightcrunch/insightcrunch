@@ -9,7 +9,7 @@ excerpt: "Why Citizen Kane is told in flashback is a question of meaning, not gi
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2010-07-15
+last_updated: 2026-07-09
 lang: en
 ---
 Most viewers can describe the plot of the film and almost none can say why its plot arrives in the order it does. They remember the dying word, the burning sled, the man who had everything and died alone. What they rarely notice is that they were never shown that life directly. The reason Citizen Kane is told in flashback is the single most consequential decision Orson Welles and his collaborators made, more consequential than any individual shot, because the structure is not a delivery system for the story but the argument the story exists to make. A life cannot be known from the inside, the film proposes; it can only be reassembled, after it ends, from the partial and self-interested memories of the people who survive it. That proposition is not stated in a line of dialogue. It is built into the shape of the movie.

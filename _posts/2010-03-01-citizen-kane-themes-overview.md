@@ -9,7 +9,7 @@ excerpt: "Citizen Kane themes explained: how the American Dream, wealth, lonelin
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2010-03-01
+last_updated: 2026-07-09
 lang: en
 ---
 Most people who can name a single fact about Welles's first feature can name the same one: a dying man whispers a word, and a reporter spends the rest of the picture trying to find out what it meant. That word, and the sled it finally names, has become shorthand for the whole movie, which is a shame, because the Citizen Kane themes that actually organize the film run far deeper than one buried clue. The reporter never solves his puzzle, and the film is built so that we cannot solve it either. What the picture offers instead is a set of interlocking ideas about ambition, money, love, memory, and the limits of knowing another person, and those ideas are the real reward of watching closely. Read the film for its themes rather than its twist and a thin detective story becomes one of the most sustained arguments cinema has ever made about the gap between a public life and a private one.

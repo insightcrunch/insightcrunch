@@ -9,7 +9,7 @@ excerpt: "Abydos holds Egypt's first royal tombs, from Tomb U-j to the First Dyn
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2000-07-01
+last_updated: 2026-07-09
 lang: en
 ---
 Ask most people where Egyptian royal architecture begins and they will point at Giza, at the three great pyramids on the plateau above modern Cairo. That answer is off by several centuries and roughly three hundred miles. Egyptian royal architecture begins at Abydos, a stretch of low desert on the west bank of the Nile in Upper Egypt, where the earliest kings of a newly unified country cut their burial pits into the sand, roofed them in mudbrick, and marked them with the first monumental statement any Egyptian ruler ever made about death and power. The first royal tombs of Egypt are here, in a cemetery called Umm el-Qaab, and the modest brick structures raised above them carry a form, the mastaba, that later generations would stack, sheath in stone, and enlarge into the pyramid. The pyramid age does not start at Giza. It starts, conceptually and architecturally, at Abydos.

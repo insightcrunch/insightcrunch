@@ -9,7 +9,7 @@ excerpt: "Truman left office at 22 percent Gallup approval in January 1953. Hist
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2008-11-17
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Paradox of a President Abandoned

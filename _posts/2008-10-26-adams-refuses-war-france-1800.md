@@ -9,7 +9,7 @@ excerpt: "Adams sent peace envoys to France in 1800, defying Hamilton and his ow
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 56
 author: "chloe-martin"
-last_updated: 2008-10-26
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Nomination That Split a Party

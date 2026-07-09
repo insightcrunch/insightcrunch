@@ -9,7 +9,7 @@ excerpt: "The Citizen Kane Leland review scene stages the film's strangest act o
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2011-08-01
+last_updated: 2026-07-09
 lang: en
 ---
 The Citizen Kane Leland review scene is the moment a sixteen-year friendship ends over a typewriter, and it is built around a gesture so contradictory that audiences have argued about it for the better part of a century. Jedediah Leland, the drama critic for Kane's Chicago paper, sits down drunk to write an honest notice of Susan Alexander Kane's operatic debut, a performance everyone in the theater has already judged a catastrophe. He gets a paragraph or two into a brutal pan and then collapses across the keys, too far gone to finish. Kane arrives, reads the unfinished assault on his own wife's talent, and rather than soften it, kill it, or fire the writer on the spot, he rolls the page back into the carriage and completes the savage notice himself, in the same condemning vein, before having Leland dismissed. A man finishes the public humiliation of the person he loves most, written by the friend he is about to discard, and he does it to keep a promise.

@@ -9,7 +9,7 @@ excerpt: "Citizen Kane narrators tell one life from five fixed distances, and th
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2010-06-01
+last_updated: 2026-07-09
 lang: en
 ---
 The five Citizen Kane narrators are the engine of the whole film, and almost everyone who watches it passively misses what they are for. A reporter named Jerry Thompson is sent to find out what a dying man's last word meant, and the trail leads him to five people who knew Charles Foster Kane at five different stages and from five fixed emotional distances. Each of them hands Thompson a version of Kane. None of them hands him the man. The film is built so that the gaps between these accounts, not the facts inside them, carry the meaning, and a viewer who learns to read the witnesses rather than just their stories has learned the single most useful skill the film teaches.

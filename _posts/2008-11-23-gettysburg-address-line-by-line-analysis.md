@@ -9,7 +9,7 @@ excerpt: "272 words. Five drafts. Lincoln's Gettysburg Address parsed phrase by 
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 78
 author: "diana-patel"
-last_updated: 2008-11-23
+last_updated: 2026-07-09
 lang: en
 ---
 On the afternoon of November 19, 1863, in a half-finished cemetery on a Pennsylvania ridge where seven thousand corpses had been collected and reburied four months earlier, a tall man rose from a wooden platform and spoke for approximately two minutes. He had been preceded by Edward Everett, the foremost orator of the age, who had spoken for two hours and seven minutes from memory. Everett's contribution ran to 13,607 words. The remarks that followed totaled 272. The Associated Press reporter who took the speech down in shorthand, Joseph Gilbert, recorded that applause interrupted the delivery five times and a "long-continued applause" closed it. Yet within forty-eight hours, the Chicago Times would call the brief presidential address "silly, flat and dishwatery utterances," and the Patriot and Union in Harrisburg would lament that "we pass over the silly remarks of the President; for the credit of the nation we are willing that the veil of oblivion shall be dropped over them."

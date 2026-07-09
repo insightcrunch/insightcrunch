@@ -9,7 +9,7 @@ excerpt: "Orphans and parenting in Harry Potter, read through Riddle, Harry, and
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2013-04-23
+last_updated: 2026-07-09
 lang: en
 ---
 ## Introduction: The Basket on the Doorstep

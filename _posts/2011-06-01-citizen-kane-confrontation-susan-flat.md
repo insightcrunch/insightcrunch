@@ -9,7 +9,7 @@ excerpt: "Citizen Kane: the confrontation at Susan's flat is the film's hinge, w
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2011-06-01
+last_updated: 2026-07-09
 lang: en
 ---
 There is a single short passage in the middle of the picture where the rising half of the story stops rising, and it happens in a rented apartment with four people who cannot all get what they want. Citizen Kane: the confrontation at Susan's flat is the hinge on which the whole film turns, the moment when a man who has spent an hour of screen time accumulating power is offered a way to keep all of it and refuses, because the one thing he will not surrender is the right to refuse. Everything before this scene is ascent. Everything after it is the long, patient demonstration of what that ascent was built on. If you want to understand why a film about a newspaper tycoon plays like a tragedy rather than a biography, you study these few minutes in the cramped flat on the upper floor, where Boss Jim Gettys waits in the shadows with a piece of information that can end Kane's career, and Kane, given every reason by every person in the room to bend, plants his feet and shouts.

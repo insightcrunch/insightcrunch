@@ -9,7 +9,7 @@ excerpt: "Fifteen Lincoln-Kennedy assassination coincidences graded true, exagge
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 80
 author: "amanda-ross"
-last_updated: 2008-12-26
+last_updated: 2026-07-09
 lang: en
 ---
 ## The List That Refuses to Die

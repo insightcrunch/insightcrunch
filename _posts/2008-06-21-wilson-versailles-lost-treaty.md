@@ -9,7 +9,7 @@ excerpt: "Wilson won the Treaty of Versailles in Paris in June 1919. Senate Majo
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2008-06-21
+last_updated: 2026-07-09
 lang: en
 ---
 On the morning of September 25, 1919, in a converted theater in Pueblo, Colorado, the twenty-eighth president of the United States stood at a lectern and could not finish his sentences. Witnesses recorded that Woodrow Wilson stumbled over the names of cities he had already visited on his speaking tour, lost his place twice in a prepared text, and ended weeping in front of an audience of about three thousand. That evening, on the presidential train heading east through the Rockies, his physician Cary Grayson found him pacing in his cabin, unable to sleep, with the left side of his face drooping. Eight days later, on October 2, in the family quarters of the White House, Wilson collapsed in front of his wife Edith and suffered the cerebral thrombosis that left him partly paralyzed for the remainder of his life. The Senate vote on the Treaty of Versailles came forty-eight days after that stroke. Wilson, from his sickbed, instructed Democratic senators to vote against the treaty if it carried Henry Cabot Lodge's reservations. They obeyed. The treaty failed 39 to 55. A second vote in March 1920 failed 49 to 35, short by seven of the two-thirds majority required for ratification. The League of Nations would convene in Geneva without an American member, and the international order Wilson had spent eighteen months building would face the rise of fascism and the slide into a second world war without the great power whose entry he had promised on its behalf.

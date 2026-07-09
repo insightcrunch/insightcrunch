@@ -9,7 +9,7 @@ excerpt: "Coolidge watched brokers loans nearly double through 1927 and 1928 whi
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2008-06-10
+last_updated: 2026-07-09
 lang: en
 ---
 On August 2, 1927, in a one-room schoolhouse outside Rapid City, South Dakota, Calvin Coolidge handed each reporter present a small slip of paper folded twice. The slips were identical. Each carried twelve words in Coolidge's own typewritten hand: "I do not choose to run for President in nineteen twenty eight." He offered no statement, no elaboration, and no questions. Reporters scrambled for telephones; the wire services moved the bulletin within minutes; markets responded the next day with a brief jitter and then resumed climbing. What received little notice at the time, and what historians have spent eight decades trying to explain, is that Coolidge made this announcement with eighteen months of presidential authority still ahead of him, with the credit and margin lending boom already visibly underway, and with the Federal Reserve Board having just three days earlier authorized a rate cut that economic historians now identify as one of the proximate accelerants of what became the 1929 crash.

@@ -9,7 +9,7 @@ excerpt: "Madison presented his June 1812 war grievances as evidence for Congres
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 56
 author: "chloe-martin"
-last_updated: 2008-10-09
+last_updated: 2026-07-09
 lang: en
 ---
 On June 1, 1812, James Madison sent a message to Congress that asked for something no president before him had requested and no president after him would request in the same way. He wanted war with Great Britain. He had the constitutional authority to recommend it. He had the political support to demand it. He chose instead to present evidence and let the legislature decide. The man who had written Article I of the Constitution, the clause that grants Congress alone the power to declare war, refused to act as though that clause were a suggestion. He treated it as law.

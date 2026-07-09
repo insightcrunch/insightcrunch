@@ -9,7 +9,7 @@ excerpt: "Washington nearly retired in 1792 but stayed. In 1796, he walked away 
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 56
 author: "rachel-foster"
-last_updated: 2008-11-01
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Question Nobody Asks Correctly

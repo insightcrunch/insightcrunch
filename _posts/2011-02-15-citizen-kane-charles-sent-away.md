@@ -9,7 +9,7 @@ excerpt: "In Citizen Kane, young Charles is sent away in a deep-focus scene that
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2011-02-15
+last_updated: 2026-07-09
 lang: en
 ---
 A film about a man nobody can explain spends one small, freezing afternoon explaining everything, and then refuses to admit it has done so. In Citizen Kane, young Charles is sent away in a single Colorado boarding-house scene that lasts only a few minutes, yet the rest of the picture, with all its palaces and newspapers and divorces, reads as one long failed attempt to undo what happens here. A boy plays in the snow outside a window while three adults inside trade his future across a tabletop, and the camera holds them all in the same merciless focus. Nothing in the film is more decisive, and nothing is staged more coldly. The genius of the passage is that it gives you the cause of a wrecked life in plain sight and dares you to recognize how ordinary catastrophe looks while it is happening.

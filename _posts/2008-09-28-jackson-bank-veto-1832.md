@@ -9,7 +9,7 @@ excerpt: "Andrew Jackson vetoed the Bank recharter on July 10, 1832. The 4,500-w
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 64
 author: "rachel-foster"
-last_updated: 2008-09-28
+last_updated: 2026-07-09
 lang: en
 ---
 ## The Morning the Veto Changed Shape
