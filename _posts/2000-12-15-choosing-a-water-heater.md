@@ -6,15 +6,15 @@ date: 2000-12-15
 categories: ["Industry"]
 tags: ["Home Services", "Plumbing", "Water Heaters", "Buying Guide", "Cost Guide"]
 excerpt: "Choosing a water heater means weighing tank versus tankless, gas versus electric, and size by total cost over the life of the unit, not the price tag."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2000-12-15
+lang: en
 ---
-
 Choosing a water heater is one of the few home purchases where the cheapest box on the sales floor is often the most expensive machine to own, and almost nobody tells you that at the point of sale. A water heater runs quietly in a closet or a corner of the basement for a decade or more, drawing fuel every single day, and the choices you make in the first hour of shopping decide what it costs you for that entire stretch. Tank or tankless. Gas or electric. Big enough or oversized. The right call is not the one a salesperson steers you toward and it is not the one a forum thread swears by; it is the one that fits your household's actual hot water demand at the lowest total cost across the years you will run it. This guide gives you the framework to make that call yourself, so you walk in already knowing which type, which fuel, and which size suits your home, and you can spot an upsell or a mismatch the moment it appears.
 
-![Choosing a water heater, tank versus tankless and gas versus electric, a homeowner buying guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Choosing a water heater, tank versus tankless and gas versus electric, a homeowner buying guide - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The reason this decision trips people up is that the water heater market is built to make the sticker price the headline and the running cost the fine print. A basic storage tank looks like a bargain against a tankless unit or a heat pump model, and if you compare only the numbers on the shelf tag, the tank wins every time. But that comparison ignores three things that dwarf the purchase price over the life of the appliance: how much fuel the unit burns to keep you in hot water, how long it lasts before it needs replacing, and what it costs to install and, eventually, to swap out. Once those enter the math, the ranking can flip entirely, and a unit that cost more to buy turns out to be the cheaper one to live with. That is the whole game, and the rest of this guide is about learning to play it on your own terms.
 

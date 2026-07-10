@@ -6,17 +6,17 @@ date: 2000-11-01
 categories: ["Industry"]
 tags: ["Home Services", "Plumbing", "Water Heater", "Repair or Replace", "Cost Guide"]
 excerpt: "Repair or replace your water heater? Use the age, cost, and leaking-tank rules to reach a clear verdict on your own unit instead of a costly, fearful guess."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2000-11-01
+lang: en
 ---
-
 You are standing in the basement or the garage or the utility closet, looking at a puddle, or listening to a rumble, or holding a quote a technician just handed you, and the question is the same one thousands of people ask every cold morning: should you repair or replace your water heater, or is the person quoting the job steering you toward the more expensive answer for their own reasons? That decision is worth getting right, because the gap between a smart repair and a smart replacement is often several hundred dollars in one direction and a wasted investment in the other. The good news is that this is not a coin flip. There is a defensible rule that resolves almost every version of it, and by the end of this you will be able to apply it to the exact unit in front of you.
 
 Most articles on this leave you with a shrug: both are options, it depends, call a professional. That is the answer of a page that does not want to commit. This one commits. The decision turns on three levers you can read yourself in about ten minutes: how old the unit is against how long its kind is built to last, how big the repair is as a share of a full replacement, and what part of the heater has actually failed. Get those three straight and the verdict falls out.
 
-![How to decide whether to repair or replace your water heater, a homeowner's age-and-cost framework - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to decide whether to repair or replace your water heater, a homeowner's age-and-cost framework - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 Before going further, one honest caveat that shapes everything below. Costs for both paths swing hard by region, by fuel type, by whether the install needs code-required upgrades, and by whether it is a routine daytime job or a flooded-basement emergency. So this guide never hands you an invented dollar figure. It gives you the relationships and the rules, then tells you to hold any quote you receive against a couple of local quotes and against the honest ranges here. The math is durable even when the numbers move.
 

@@ -6,15 +6,15 @@ date: 2027-01-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "1919 World Series", "Organized Crime", "F. Scott Fitzgerald", "Context", "American Literature"]
 excerpt: "Organized crime and the 1919 World Series stand behind Wolfsheim in Gatsby, the real Black Sox scandal Fitzgerald turned into one telling detail of an era."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-01-18
+lang: en
 ---
-
 Organized crime and the 1919 World Series enter The Great Gatsby through a single sentence at lunch, and most readers slide past it. Gatsby leans toward Nick and names the small man across the table as the person who rigged baseball's championship. Nick is staggered, the scene moves on, and the reader who does not know the real history behind that line treats it as color. It is not color. Fitzgerald reached for the one American scandal that had shocked a whole country and pinned it to a minor character, and knowing what actually happened in the autumn of 1919 changes how you read the moral world of the novel. This article recovers that history and shows what the book does with it.
 
-![Organized crime and the 1919 World Series in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Organized crime and the 1919 World Series in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The frame matters because Gatsby is a book about money that is not clean, and Fitzgerald never delivers a lecture on the point. He works by detail. A guest list, a shirt collection, a stray sentence about a fixed ballgame: these carry the argument the plot never states outright. Read the World Series line without its history and you lose one of the sharpest instances of the method. Read it with the history in place and you watch a single throwaway fact open onto a portrait of an era in which corruption had reached the level of national ritual. That is the payoff this context delivers, and it is why the scene rewards the reader who slows down.
 

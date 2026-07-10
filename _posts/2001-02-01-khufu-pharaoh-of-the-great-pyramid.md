@@ -6,15 +6,15 @@ date: 2001-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Khufu", "Old Kingdom", "Pharaohs", "Pyramids", "Ancient Egypt"]
 excerpt: "Khufu built the Great Pyramid yet left almost no personal record. Separate the real Dynasty 4 king from the later tyrant legend and the thin surviving record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2001-02-01
+lang: en
 ---
-
 Khufu commanded the resources to raise the largest stone structure the ancient world would ever build, and then left behind one of the emptiest personal files of any major pharaoh. That gap sits at the center of everything worth knowing about him. The king who ordered the Great Pyramid at Giza should, by rights, be the best documented ruler of the Old Kingdom. Instead he survives as a name on a monument, a scatter of inscriptions in remote quarries, a single tiny portrait carved in ivory, and a hostile legend written down more than two thousand years after he died. To understand Khufu is to learn how to read a ruler through the hole where his record should be, and to resist the temptation to fill that hole with a story someone invented long after the fact.
 
-![Khufu, the pharaoh of the Great Pyramid, his reign and the tyrant legend explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Khufu, the pharaoh of the Great Pyramid, his reign and the tyrant legend explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 This is the paradox that governs the whole subject, and it is worth naming plainly at the start: the ruler with the greatest monument left one of the sparsest records. Call it the largest-monument-smallest-record paradox. Almost no ancient king built on a larger scale, and almost no king of comparable importance is harder to describe as a person. The reign that produced a structure visible from the surrounding desert for kilometers produced no royal annals we can read in full, no long biographical inscription in the king's own voice, no confirmed mummy, and no securely identified full-size statue. What Khufu did survives at colossal scale. Who Khufu was survives at the scale of a figurine you could hold in one hand.
 

@@ -6,15 +6,15 @@ date: 2026-03-01
 categories: ["Industry"]
 tags: ["Poland Security", "Polish Military", "Military Analysis", "Defense Policy", "Eastern Flank", "NATO"]
 excerpt: "Why Poland bought Abrams and K2 tanks: what heavy armor buys on open terrain, and what running two fleets costs in both sustainment and supplier leverage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2026-03-01
+lang: en
 ---
-
 The question that matters about Poland's tanks is not how many the army will own or how their armor rates against a spec sheet. It is why a mid-sized European land force decided to field two separate heavy main battle tank fleets at once, one American and one South Korean, on top of the Western and post-Soviet types it already ran, and what that choice reveals about how Poland expects the eastern flank to be fought. A procurement decision is a bet. The Abrams and K2 purchase is a bet that armored mass still decides a fight on open ground, that the speed of getting steel into service was worth accepting a harder sustainment problem, and that spreading the order across two suppliers bought leverage and delivery pace that a single source could not. Read that way, the tanks stop being a shopping list and become a statement about the concept of defense they are meant to serve.
 
-![Why Poland bought Abrams and K2 tanks, a capability analysis of heavy armor on the eastern flank - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Why Poland bought Abrams and K2 tanks, a capability analysis of heavy armor on the eastern flank - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 This is a capability analysis, not a catalog and not a cheerleading exercise. The aim is to hold the armor decision to what it actually buys and what it actually costs, separating the parts that are established in the open record from the parts that are assessment. What is established: Poland is acquiring American main battle tanks and South Korean tanks in large numbers, it is doing so alongside a Western legacy fleet and a shrinking pool of post-Soviet vehicles, and its ground concept is built around defending and counterattacking across the kind of open terrain that sits between the eastern border and the country's interior. What is assessment: whether armored mass on that scale is the right bet, what the twin-fleet choice implies for logistics and training, and how much the drone age has genuinely changed the value of a tank. The honest version of this analysis presents the tanks-are-still-decisive case and the tanks-are-vulnerable case at full strength and lets the reader weigh them, because serious analysts land on different sides of that line and the disagreement is the interesting part.
 

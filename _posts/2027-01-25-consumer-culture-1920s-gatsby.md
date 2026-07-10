@@ -6,15 +6,15 @@ date: 2027-01-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The 1920s", "Consumer Culture", "Context", "American Literature", "F. Scott Fitzgerald"]
 excerpt: "Consumer culture and advertising in the 1920s built the buying world behind The Great Gatsby, turning display and purchase into a measure of the self."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-01-25
+lang: en
 ---
-
 Read Gatsby's parties as excess and you have read half a page. Read them as the visible surface of consumer culture and advertising in the 1920s, and the whole novel tilts into focus: a book about people who were taught, by the richest advertising machine the country had ever built, to assemble a self out of the things they could buy. The materialism everyone notices in The Great Gatsby is not a timeless flaw of the human heart. It is a specific lesson, delivered by a specific decade, to a nation learning for the first time that identity could be ordered from a catalogue and displayed on a lawn. This article recovers that lesson. It sets out the real economic world of the 1920s, the goods and the sell that surrounded Fitzgerald as he wrote, and it shows how that world presses on almost every scene where a character reaches for a possession to say something about who they are.
 
-![The 1920s consumer culture and advertising behind The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-10.webp)
+![The 1920s consumer culture and advertising behind The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The payoff of this frame is precise. A reader who treats the novel's materialism as an eternal moral about greed will produce the same essay a reader in 1850 or 1650 could have written. A reader who grounds that materialism in the buying culture of the 1920s can say something no other decade could have staged: that Gatsby's tragedy runs on a machinery of desire that was, at that exact moment, being manufactured and sold. Context here is not background scenery. It is the engine under the hood.
 

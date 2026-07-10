@@ -6,15 +6,15 @@ date: 2001-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Pyramids", "Ancient Egypt", "Archaeology"]
 excerpt: "How the Great Pyramid of Giza was built, from quarrying and hauling 2.3 million blocks to raising and aligning them, with the real construction evidence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2001-01-01
+lang: en
 ---
-
 A single question sits behind every visit to the Giza plateau and every documentary about it: how did a Bronze Age society, working with copper tools and rope, raise the Great Pyramid of Giza, a solid mountain of roughly 2.3 million stone blocks rising about 146 meters, and set its sides so square and so close to true north that modern surveyors still measure the result with respect? The honest answer is neither mysterious nor magical. It is logistics. The building of the Great Pyramid is best understood not as a lost secret but as an extraordinary feat of organization, quarrying, and transport, carried out by a state that could feed, house, and direct a very large skilled workforce for about two decades. That is the thesis this article defends, and it is worth naming plainly at the start: the pyramid is a triumph of management and muscle, not of technology the Egyptians did not possess.
 
-![How the Great Pyramid of Giza was built, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Great Pyramid of Giza was built, explained - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The pyramid was built as the tomb of Khufu, the Fourth Dynasty king whose reign and reputation are covered in the [profile of Khufu, the pharaoh of the Great Pyramid](/2001/02/01/khufu-pharaoh-of-the-great-pyramid/), and it belongs to the broader story told in the [complete guide to the Old Kingdom of Egypt](/2000/11/01/old-kingdom-of-egypt-complete-guide/), the pyramid-age state that made such a project possible. This article does not settle the separate argument over who supplied the labor, whether free workers or forced ones, because that debate has its own home in [the article on who really built the pyramids](/2001/03/01/who-really-built-the-pyramids/). What follows is the mechanics: how the stone was cut, how it was moved, how it was raised, how the whole vast form was leveled, squared, and aligned, and where the genuine construction debate still runs. Along the way the popular claim that the pyramid required unknown or non-Egyptian technology is set against what the evidence actually supports, which is a great deal of copper, rope, sand, water, timber, and human coordination.
 

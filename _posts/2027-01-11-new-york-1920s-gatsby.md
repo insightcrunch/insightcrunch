@@ -6,17 +6,17 @@ date: 2027-01-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "1920s New York", "Jazz Age", "F. Scott Fitzgerald", "Context", "American Literature"]
 excerpt: "New York City in the 1920s and Gatsby meet in the Manhattan scenes, where the era's booming, anonymous metropolis becomes the novel's space of permission."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-01-11
+lang: en
 ---
-
 ## The Stakes: Why the City Changes How You Read the Novel
 
 Set New York City in the 1920s and Gatsby side by side, and the metropolis stops being scenery. Readers who skim the book remember the mansions, the green light across the water, and the parties on the West Egg lawn, and they file Manhattan away as a place the characters occasionally visit. That habit misses the design. The city is not a postcard the story passes through on its way back to the suburbs. It is the one location in the novel where the characters do the things they cannot do at home, and Fitzgerald built it that way on purpose. Understanding the real 1920s metropolis behind those scenes turns a vague sense of glamour into a specific reading of how the book works.
 
-![The 1920s New York City skyline and Manhattan scenes in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1920s New York City skyline and Manhattan scenes in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The suburbs in the novel are watched places. East Egg has its dynastic families and its rigid manners, West Egg has its nervous imitation of them, and everyone at either address is legible to everyone else. Reputation travels along the Sound like a current. The city works on a different principle. In a metropolis of millions, no one is legible, and that anonymity is not a background fact but a plot engine. Tom keeps a mistress there. The affair that would be impossible under the eyes of East Egg becomes routine in an apartment forty minutes away. The confrontation that finally cracks the summer open happens in a hotel suite rather than in either of the couples' homes. The city, in other words, licenses what the suburbs would expose.
 
