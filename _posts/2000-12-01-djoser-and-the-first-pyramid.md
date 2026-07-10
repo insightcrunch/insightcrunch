@@ -6,15 +6,15 @@ date: 2000-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Pharaohs", "Pyramids", "Ancient Egypt", "Archaeology"]
 excerpt: "Djoser and the first pyramid of Egypt: how his Step Pyramid at Saqqara, designed by Imhotep, turned the mastaba into stone and opened the pyramid age."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2000-12-01
+lang: en
 ---
-
 Ask most people to picture an Egyptian pyramid and they see the smooth, four-sided silhouette of Giza. Yet the first pyramid of Egypt did not look like that at all, and the king who raised it, Djoser, ruled more than a century before the Great Pyramid was even conceived. His monument at Saqqara rises in six unequal steps, a stack of shrinking platforms in pale limestone, and it marks the single most consequential leap in the history of building. The central question this article settles is why that leap mattered: not merely that the Step Pyramid is old, but that it converted the low mudbrick tomb into a mountain of cut stone and, in doing so, made everything that followed at Meidum, Dahshur, and Giza thinkable. Djoser did not build it with his own hands, and the design belongs to a man whose name survived beside his own, the architect Imhotep. The verdict history has reached is clear enough to state plainly: the reign of Djoser is remembered less for its wars or its decrees than for a change in scale and material that no earlier king had dared, a change that turned a royal grave into a permanent statement of power visible from the desert edge for four and a half thousand years.
 
-![Djoser and the first pyramid of Egypt, the Step Pyramid at Saqqara explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Djoser and the first pyramid of Egypt, the Step Pyramid at Saqqara explained - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 That judgment needs unpacking, because the man behind the monument is harder to see than the monument itself. Djoser left almost no personal record of the ordinary kind: no long annals of campaigns, no library of decrees, no biography. What he left instead was architecture, and architecture on a scale that had never existed. To understand him, we read the building as a text, and we cross-check it against the fragmentary king lists, a handful of contemporary inscriptions, and a body of much later tradition that turned both king and architect into legend. Separating the record from that legend is the real task of any honest account of Djoser, and it is the task this article takes on, moving from who he was, through the tomb tradition he inherited, to the design that broke with it, and finally to the verdict that modern scholarship has reached about a king known almost entirely through the stone he raised.
 

@@ -6,17 +6,17 @@ date: 2000-09-01
 categories: ["Industry"]
 tags: ["Home Services", "Plumbing", "DIY", "Consumer Protection", "Maintenance"]
 excerpt: "DIY plumbing saves real money on small jobs and costs far more when a mistake floods a floor. See which tasks are safe and which ones need a licensed pro."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2000-09-01
+lang: en
 ---
-
 Every plumbing job you face sits on one side of a single line, and the whole question of whether to reach for a wrench or reach for the phone comes down to finding that line and respecting it. DIY plumbing is not one decision but a hundred small ones, and the internet flattens all of them into the same cheerful message: you can do this yourself, here is a five-minute video, save the labor. Some of that is true. A fair number of plumbing tasks really are a calm Saturday job for a careful homeowner with a basic tool kit and no special training. The trouble is that the same confident tone gets applied to jobs that can flood a finished floor, poison the air with sewer gas, feed a gas leak, or quietly void your homeowner coverage, and the videos rarely pause to say which is which. This guide draws the line for you, by law, by risk, and by money, and it is honest about the part the how-to channels skip, which is that a cheap-looking do-it-yourself repair can turn into the most expensive mistake in the house when it goes wrong behind a wall or under a floor.
 
 The frame that makes every one of those hundred decisions simple is what I call the flood-and-permit line. A plumbing task belongs to you only if a mistake cannot flood the house and the job needs no permit. Everything past that line belongs to a licensed pro. That single test resolves the vast majority of the judgment calls a homeowner faces at the sink, at the toilet, at the water heater, and at the wall, and the rest of this guide is really just the flood-and-permit line applied task by task, with the reasons spelled out so you can extend it to any job the article does not name directly.
 
-![Which plumbing jobs are safe to DIY and which need a licensed plumber, a homeowner decision guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Which plumbing jobs are safe to DIY and which need a licensed plumber, a homeowner decision guide - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 ## The flood-and-permit line: where DIY plumbing ends
 

@@ -6,13 +6,15 @@ date: 2026-02-11
 categories: ["Industry"]
 tags: ["Poland Security", "Polish Army", "Military Analysis", "Defense Policy", "Eastern Flank", "NATO"]
 excerpt: "Poland's military buildup is strong on platforms and thin on sustainment. A coherence assessment of what the armor, fires, and air defense really add up to."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2026-02-11
+lang: en
 ---
-
 Poland's military buildup is the most ambitious rearmament any European land power has attempted in a generation, and it has generated two loud and opposite verdicts. One says the country is turning itself into the foremost land army on the continent almost overnight. The other says it is spending enormous sums on a shopping list of platforms that do not yet add up to a fighting force. Both verdicts answer the wrong question. The question that decides whether the money and the political capital were well spent is not how much Poland has bought or how fast the orders have flowed. It is whether the pieces cohere into balanced, sustainable combat power, or whether the program is accumulating capability in some places while leaving gaps that an adversary would find and use. That is a harder question than a procurement tally, and it is the one this assessment is built to answer.
+
+![Inside Poland's Military Buildup - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 ![Analytical overview of Poland's military buildup and force modernization]( /assets/images/blog/blog-01.webp )
 

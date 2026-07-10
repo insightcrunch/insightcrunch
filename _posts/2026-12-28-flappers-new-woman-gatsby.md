@@ -6,15 +6,15 @@ date: 2026-12-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Jordan Baker", "Context", "American Literature"]
 excerpt: "Flappers and the New Woman in the 1920s reshaped what women could do and be, and The Great Gatsby reads that shift through Jordan and Daisy with wary doubt."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-12-28
+lang: en
 ---
-
 Read The Great Gatsby without the history of flappers and the New Woman in the 1920s, and its women flatten into stock parts: the golden girl and her cool, cynical friend. Read the book with that history held steadily in view, and Jordan Baker and Daisy Buchanan become two different answers to the same pressure the decade placed on every young woman of their class, which was how far the new freedoms would actually carry her and what they would cost once she took them. The flapper was not a decoration painted onto the era. She marked a genuine break in what a woman could wear, earn, drive, drink, and decide for herself, and Fitzgerald built two of his central figures directly on the fault line that break opened.
 
-![Flappers and the New Woman in the 1920s in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Flappers and the New Woman in the 1920s in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 That fault line is the subject of this article. The point is not to catalog jazz-age fashion for its own sake, nor to praise the flapper as a triumph of liberation. The point is to recover the specific social change happening around 1922, the year the novel is set, so that a reader can see what Jordan's independence and Daisy's constraint are made of. Jordan carries the era's new mobility into the book. Daisy shows what happens when the same era offers a woman freedom and then quietly withholds the ground she would need to stand on. Between them, Fitzgerald turns a real historical shift into character, and he watches that shift with an ambivalence worth taking seriously.
 

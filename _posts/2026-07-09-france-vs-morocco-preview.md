@@ -8,15 +8,15 @@ tags: ["World Cup 2026", "France", "Morocco", "Quarterfinal", "Kylian Mbappe", "
 excerpt: "France vs Morocco headlines the World Cup 2026 quarterfinals in Boston, a 2022 semifinal rematch with a last-four place and Golden Boot bid on the line."
 image: /assets/images/blog/blog-01.webp
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sebastian-vogt"
 last_updated: 2026-07-09
+lang: en
 ---
-
 France vs Morocco is the fixture the World Cup 2026 draw always seemed to be pointing toward, and now it arrives with the whole tournament watching. The first quarterfinal of the last eight brings Didier Deschamps and his unbeaten France side to Boston to face the African champions, and it does so as a straight rerun of the 2022 semifinal in Qatar, the night Morocco's dream run met the eventual finalists and fell one step short. Four years later the two nations meet again at the same knockout altitude, except this time the stage is North America, the winner walks into a World Cup 2026 semifinal, and the loser goes home for good. There is no away leg, no second chance, no aggregate to fall back on. Ninety minutes, extra time if needed, and penalties if it comes to that will decide who survives.
 
 That is the shape of the question in Boston. France carry the swagger of a team that has won every match it has played at this tournament and conceded almost nothing while doing it. Morocco carry a 34-match unbeaten run, a squad hardened by their historic 2022 campaign, and the belief that the gap they could not quite close in Qatar has narrowed since. This preview lays out how both teams reached the last eight, what the tactical battle is likely to hinge on, who is available and who is not, and why the result is far less certain than France's status as favorites suggests.
 
-![France vs Morocco World Cup 2026 quarterfinal preview](/assets/images/blog/blog-01.webp)
+![France vs Morocco World Cup 2026 quarterfinal preview](/assets/images/blog/blog-105.webp)
 
 The setting is Boston Stadium in Foxborough, Massachusetts, with kickoff scheduled for the late afternoon Eastern time on Thursday, July 9, 2026. It is the opening fixture of the quarterfinal round, the first of the eight remaining teams to learn its fate, and a marquee draw in every sense: a two-time world champion against a nation that has spent four years turning a surprise into an expectation. What follows is a complete pre-match briefing, built entirely from what was knowable before the whistle, on a tie that could define the top half of the World Cup 2026 bracket.
 

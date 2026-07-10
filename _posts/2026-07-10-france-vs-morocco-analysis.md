@@ -6,15 +6,15 @@ date: 2026-07-10
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Morocco", "Quarter-final", "Match Analysis"]
 excerpt: "France vs Morocco result and analysis: Mbappe and Dembele sink Morocco 2-0 in Boston as France reach a third straight World Cup 2026 semifinal in style."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-07-10
+lang: en
 ---
-
 The France vs Morocco World Cup 2026 quarter-final finished 2-0 in Boston, and the scoreline is the least honest thing about the night. France did not edge Morocco. France buried them under seventeen shots to two and an expected-goals count of 3.04 to 0.14, then walked off with the modest margin only because Yassine Bounou had the game of his tournament and Kylian Mbappe missed a first-half penalty that would have turned a control job into a rout. Goals from Mbappe on the hour and Ousmane Dembele six minutes later carried Didier Deschamps' side into a third straight World Cup semifinal, where they will meet the winner of Spain against Belgium. This analysis works from that gap between the numbers and the result, because the gap is the story.
 
-![France vs Morocco World Cup 2026 result and analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![France vs Morocco World Cup 2026 result and analysis - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 Call it the deceptive 2-0. A visitor who saw only the final score would assume a taut, fine-margins quarter-final decided by a moment of quality. A visitor who saw the shot map would assume a five-goal thrashing. Both were watching the same match. Morocco reached the last eight by grinding, defending their box and trusting a goalkeeper who has spent a month rescuing them, and for an hour that plan held the line at nil-nil against a France team playing the best football of any side left in the competition. It held right up until it did not, and once Mbappe found the smallest pocket of space on the left of the area, the dam that Morocco had built with bodies and Bounou's gloves gave way in the space of six minutes.
 

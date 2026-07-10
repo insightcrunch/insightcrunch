@@ -6,17 +6,17 @@ date: 2000-05-01
 categories: ["Industry"]
 tags: ["Home Services", "Plumbing", "Hiring Guide", "Consumer Protection", "Warning Signs"]
 excerpt: "How to vet a plumber before you hire: verify the license yourself, confirm insurance and bonding, read reviews for a pattern, and catch the real red flags."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2000-05-01
+lang: en
 ---
-
 Most people vet a plumber the same way they pick a takeout order: they glance at the star rating, skim two or three recent comments, and call the name at the top. That habit is exactly how a homeowner ends up with an unlicensed operator standing in their kitchen, a five-figure repipe they never needed, and a signed work order that gives them no recourse when the pipe behind the wall starts weeping a month later. To vet a plumber properly is not about trusting your gut or trusting a badge on a listing. It is about running a short sequence of checks that a real professional passes in seconds and a bad actor cannot survive, and knowing what a hesitation or a runaround actually tells you.
 
 The good news is that this is a checklist, not a talent. You do not need to know a thing about pipe sizing or drain slope to separate an accountable, licensed, insured plumber from someone who will take your deposit and disappear. You need to know which document to confirm, where to confirm it, which two forms of protection to insist on, how to read a review page for pattern instead of average, which four questions expose a weak operator in one phone call, and which behaviors mean you end the conversation and dial the next number. This guide walks all of that in order, so trust becomes something you verify rather than something you hope for.
 
-![A homeowner comparing a plumber's license number against a state licensing board lookup on a laptop](/assets/images/blog/blog-01.webp)
+![A homeowner comparing a plumber's license number against a state licensing board lookup on a laptop](/assets/images/blog/blog-24.webp)
 
 ## Why vetting a plumber matters more than the star rating
 

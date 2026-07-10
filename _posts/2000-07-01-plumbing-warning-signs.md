@@ -6,15 +6,15 @@ date: 2000-07-01
 categories: ["Industry"]
 tags: ["Home Services", "Plumbing", "Warning Signs", "Diagnosis", "Maintenance"]
 excerpt: "Plumbing warning signs, decoded and sorted by urgency, so you know which symptoms mean call a plumber today and which can safely wait for a scheduled visit."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2000-07-01
+lang: en
 ---
-
 The single most useful skill a homeowner can build is the ability to read plumbing warning signs and know, within a minute, whether the thing they are looking at means call today or watch it for a week. That one judgment separates the people who catch a failing supply line before it soaks a ceiling from the people who pay a premium after-hours rate for a running toilet that could have waited until Tuesday. Most of what your plumbing is trying to tell you is not a mystery. A drop in pressure, a gurgle in the drain, a whiff of sewer gas, a stain that was not there last month: each of these is a message with a fairly narrow set of meanings, and each sorts cleanly into one of two buckets once you know what to look for.
 
-![Plumbing warning signs sorted by urgency, a homeowner's diagnosis and triage guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Plumbing warning signs sorted by urgency, a homeowner's diagnosis and triage guide - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 What the ad-choked search result never gives you is the triage. Type any symptom into a search bar and you get a wall of lead-generation pages built to sell your contact details to whichever plumber bids highest, none of which will tell you whether your problem is an emergency or a nuisance. The goal here is the opposite. This guide names the real signs, explains what each one usually indicates, tells you the safe first check you can make yourself, and then hands you a verdict: act now, or keep an eye on it. Once you can do that, a leak stops being a source of dread and becomes a decision you control.
 
