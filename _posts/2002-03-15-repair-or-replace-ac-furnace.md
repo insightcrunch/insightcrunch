@@ -6,17 +6,17 @@ date: 2002-03-15
 categories: ["Industry"]
 tags: ["Home Services", "HVAC", "Repair or Replace", "Cost Guide", "Buying Guide", "Warning Signs"]
 excerpt: "Deciding whether to repair or replace your AC or furnace? Use the age, cost, efficiency, and refrigerant rules that give a real verdict, not a sales pitch."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2002-03-15
+lang: en
 ---
-
 Standing in front of a heating or cooling unit that has just quit, holding a technician's quote in one hand and a mental tally of what a brand-new system might run in the other, is one of the least comfortable spots a homeowner lands in. The choice to repair or replace an aging AC or furnace rarely arrives on a calm afternoon. It shows up on the coldest night of the season or during the first real heat wave, when the pressure to say yes to whatever gets the house comfortable again is at its highest and the ability to think clearly is at its lowest. That combination is exactly what turns a straightforward fix into a rushed, oversized purchase nobody needed.
 
 This guide exists to hand you a verdict rather than a shrug. The honest truth is that plenty of articles on this decision end with some version of "it depends, talk to a professional," which is technically correct and completely useless when you are the one deciding. What decides it are a small number of levers you can measure yourself: how old the equipment is against how long its kind is built to last, how the repair bill stacks up against the cost of a new install, whether an efficiency or refrigerant gap has quietly turned the old unit into a money loser, and which specific failure you are facing. Learn those levers and you stop being at the mercy of whoever is standing in your basement with a clipboard.
 
-![A homeowner comparing a repair quote against the cost of a new heating and cooling system](/assets/images/blog/blog-01.webp)
+![A homeowner comparing a repair quote against the cost of a new heating and cooling system](/assets/images/blog/blog-66.webp)
 
 The stakes cut both ways, which is why a one-size answer fails so many people. Say yes to a full swap too early and you have spent a large sum to solve a problem a modest part would have handled. Pour money into fixing a unit that is at the end of its road and you will be writing the same check again within a season or two, having gained nothing but a delay. The point of the framework below is to keep you out of both ditches. By the time you reach the closing rule, you should be able to look at your own equipment, your own quote, and your own situation, and reach a defensible call you can explain to anyone who asks.
 

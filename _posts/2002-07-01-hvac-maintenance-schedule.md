@@ -6,15 +6,15 @@ date: 2002-07-01
 categories: ["Industry"]
 tags: ["Home Services", "HVAC", "Maintenance", "Seasonal", "DIY"]
 excerpt: "An HVAC maintenance schedule with the filter cadence, spring and fall tune-up timing, the DIY versus pro split, and what skipping seasonal upkeep really costs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2002-07-01
+lang: en
 ---
-
 The most expensive heating and cooling failure is almost always the one you could have prevented for the price of a filter and two visits. A working HVAC maintenance schedule is not a luxury add-on or a way for a contractor to sell you something; it is the difference between a system that reaches the far end of its expected life and one that quits on the hottest afternoon or the first hard freeze, when every reputable technician in your area is already booked and the emergency rate applies. The single rule underneath everything that follows is simple enough to say in one breath: a right-sized filter changed on a real cadence, plus one tune-up in spring for cooling and one in fall for heating, prevents most breakdowns and keeps the manufacturer warranty intact. Skip those, and you are not saving money. You are moving the bill to the worst possible day and quietly shortening the life of the most costly appliance in your home.
 
-![HVAC maintenance schedule for every season, a homeowner year-round upkeep plan - Insight Crunch](/assets/images/blog/blog-01.webp)
+![HVAC maintenance schedule for every season, a homeowner year-round upkeep plan - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 That framing matters because the entire reactive world of emergency repair is built on the assumption that heating and cooling equipment is set-and-forget. It is not. A furnace and an air conditioner are machines with moving parts, electrical connections that loosen, coils that foul, drains that clog, and combustion or refrigerant systems that drift out of spec long before they fail outright. The drift is invisible. Nothing looks wrong until the day nothing works. Preventive upkeep exists precisely because the symptoms you would notice on your own tend to arrive only after the cheap fix window has closed. The purpose of this guide is to hand you the year-round routine that catches those problems while they are still small, tells you plainly which tasks are yours and which belong to a licensed technician, and shows you what neglect actually costs in efficiency, lifespan, and warranty terms so the decision to keep up with it is never a guess.
 

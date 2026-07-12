@@ -6,19 +6,19 @@ date: 2026-06-21
 categories: ["Industry"]
 tags: ["Poland Security", "Russian Military", "Russia", "Defense Policy", "Military Analysis", "Geopolitics"]
 excerpt: "Russia's war economy has surged arms output, but how much of it is borrowed from legacy stock and where the durable ceiling sits decides the real threat."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2026-06-21
+lang: en
 ---
-
 Underneath every question about whether the Russian army can menace the eastern flank sits a plainer, more material one: what can the factories actually build, and for how long. Russia's war economy is the machine that feeds the force, and reading the flank risk without reading that machine is like judging a boxer by his reach while ignoring whether he can still throw a punch in the twelfth round. Since the full-scale invasion of Ukraine, the Kremlin has pushed the country onto a war-economy footing, lifting the output of shells, drones, and refurbished vehicles to levels that alarmed observers who had written off Russian industry as sclerotic. The alarm is warranted in part and misplaced in part, and telling those two parts apart is the whole task of a serious assessment.
 
 This article treats the industrial base as an economic problem rather than a military one. It holds the war economy to a single discipline: separating the quantity a system can surge from the quantity it can hold, because the two are not the same thing and confusing them is the most common error in the popular coverage. A plant that stamps out a record number of artillery rounds this quarter has told you what it can do this quarter. It has not told you what it can do once the warehouses of Soviet inheritance are empty, once the imported machine tool wears out and cannot be replaced, once the skilled workforce is stretched past its limit. The surge is real. Whether it is durable is a different question with a different answer, and the gap between those answers is where the honest analysis lives.
 
 The purpose here is not to soothe or to frighten. It is to give a reader a structured way to read Russian arms output that survives the next headline in either direction. When a report announces that Russian shell production has tripled, the framework in this piece will help you ask the right follow-up: tripled from what, sustained by what, and paid for with which part of the country's future. When a competing report announces that sanctions have gutted Russian high-end manufacturing, the same framework will help you ask whether the gutting touches the systems that actually matter for a flank contingency or only the showpiece platforms that were never going to be produced in numbers anyway. The point is a durable reading instrument, not a snapshot.
 
-![Russia's war economy and arms output](/assets/images/blog/blog-01.webp)
+![Russia's war economy and arms output](/assets/images/blog/blog-63.webp)
 
 ## The material question underneath the security one
 

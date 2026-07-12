@@ -6,15 +6,15 @@ date: 2001-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Ancient Egypt", "Pharaohs", "Historiography", "Archaeology"]
 excerpt: "The Old Kingdom collapse ended Egypt's pyramid age through decentralization, fiscal strain, and drought, ranked here into one defended causal verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2001-08-01
+lang: en
 ---
-
 For roughly five centuries, a single king at Memphis could summon tens of thousands of workers, feed them from state granaries, and raise stone mountains on the desert edge. Then, within a generation or two, that machine stopped. The Old Kingdom collapse turned a unified pyramid-building monarchy into a patchwork of local rulers who dated events by their own authority rather than the crown's, and who sometimes boasted of feeding their districts while the king in the north could no longer guarantee bread. The hinge matters because it is not a story of foreign conquest or a single catastrophe. Egypt fell from within, and it fell in a way that reveals exactly how its greatness had been built. The concentrated royal power that raised the pyramids also concentrated the risks, and when three pressures converged, the same system that had looked unbreakable came apart.
 
-![Why the Old Kingdom of Egypt collapsed, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Why the Old Kingdom of Egypt collapsed, explained - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This article makes one central argument, which it calls the three-pillar collapse framework: the fall of the Old Kingdom is best explained by the interaction of three forces, the slow decentralization of power into the hands of hereditary provincial governors, the mounting fiscal burden of an ever-growing court and funerary cult, and a run of low Nile floods tied to a wider climate shift near the end of the third millennium BCE. None of the three acting alone brings down a state that had survived internal strains before. Together they reinforce one another, and one of them carries more of the load than the other two. Decentralization is the load-bearing cause. Fiscal strain is the amplifier that made the crown too weak to respond. Climate is the trigger that turned a manageable structural weakness into a rupture. That ranked verdict, defended against the single-cause explanations that dominate popular accounts, is what the reader should be able to carry away and argue.
 

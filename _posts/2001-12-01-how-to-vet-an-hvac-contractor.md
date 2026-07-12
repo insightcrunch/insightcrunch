@@ -6,15 +6,15 @@ date: 2001-12-01
 categories: ["Industry"]
 tags: ["Home Services", "HVAC", "Hiring Guide", "Consumer Protection", "Warning Signs"]
 excerpt: "Learn how to vet an HVAC contractor with license, certification and insurance checks, the questions that expose a weak operator, and the red flags to walk from."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2001-12-01
+lang: en
 ---
-
 A real heating and cooling professional can prove two things in the time it takes to pour a cup of coffee: that a valid contractor license stands behind the name on the truck, and that whoever will touch your refrigerant holds the federal certification the law requires to do it. To vet an HVAC contractor is mostly the work of confirming those two facts, then adding a third that no directory listing and no five-star badge can supply for you, which is whether the person quoting your system will size it with a load calculation or simply eyeball the old unit and sell you a matching number. Master that sequence and the hiring decision stops being a gamble on charm and turns into a short, repeatable verification you can run on any name that shows up in your driveway.
 
-![How to vet an HVAC contractor, a homeowner's license, certification and insurance checklist - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to vet an HVAC contractor, a homeowner's license, certification and insurance checklist - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 The reason this matters more for heating and cooling than for almost any other home trade is the stakes riding on a single visit. An HVAC replacement is one of the largest mechanical purchases a homeowner ever signs for, often rivaling a used car in price, and the person selling it frequently arrives with a commission incentive to make it larger. The equipment is technical enough that most homeowners cannot judge the work while it happens, sealed behind panels and buried in ductwork, so the only real protection is judging the person before the work starts. That judgment is not a feeling. It is a set of checks, done in order, that a legitimate operator passes without friction and a weak one stumbles over immediately.
 

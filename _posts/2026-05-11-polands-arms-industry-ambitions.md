@@ -6,15 +6,15 @@ date: 2026-05-11
 categories: ["Industry"]
 tags: ["Poland Security", "Defense Industry", "Military Analysis", "Defense Policy", "Eastern Flank", "European Security"]
 excerpt: "Poland's arms industry ambitions assessed: what co-production and technology transfer really buy, and why sustainment independence matters most in a long war."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2026-05-11
+lang: en
 ---
-
 Poland's arms industry ambitions sit underneath the security question that the buildup usually gets discussed through, and they deserve to be assessed on their own terms rather than folded into a story about tanks and jets. The country has spent heavily on foreign platforms and has paired those buys with a stated intention to convert purchases into domestic capacity, so the material question is not only what Poland is acquiring but what its own factories, workforce, and design houses will be able to make, maintain, and replenish once the delivery trucks stop coming. That is a different question from how many brigades the army fields, and it is the one this assessment holds to. The honest answer separates what co-production and technology transfer can realistically deliver from what the marketing language around offset deals promises, and it names the rung of industrial maturity where the ambition runs into limits that money alone does not clear.
 
-![Poland's arms industry ambitions, a defense-industrial assessment of co-production and sustainment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Poland's arms industry ambitions, a defense-industrial assessment of co-production and sustainment - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The framing that runs through the rest of this piece is a single analytic rule this series will return to: co-production buys sustainment independence far more readily than it buys design independence, and in a long confrontation the ability to maintain and replenish a force at home is worth more than the ability to design one. Call it the sustainment dividend. A reader who takes only one idea away should take that one, because it reorganizes the whole debate. The question stops being whether Poland can build a world-beating tank of its own design, which is the wrong bar, and becomes whether Poland can keep the tanks it has running, feed them ammunition, and regenerate losses without waiting on a distant supplier whose own war reserves may come first. That is the prize the industrial strategy is really chasing, and it is both more attainable and more decision-relevant than sovereignty in design.
 
@@ -140,7 +140,6 @@ Ammunition, by a wide margin, followed by armor sustainment and fires replenishm
 The reason that ranking holds is that security per unit of spending is highest where localization closes a dependence that would fail catastrophically in exactly the scenario that matters, a long war, and where the item is cheap enough and consumed enough that domestic production reaches meaningful scale. Ammunition is the paradigm case on every axis, which is why it tops the ranking and why a strategy that funds prestige platforms ahead of shell production has its priorities inverted. The categories that give the most security per zloty are precisely the unglamorous consumables, and the discipline of the sustainment framework is to keep funding flowing to them ahead of the platforms that photograph better but contribute less to staying power. A reader assessing any proposed localization can apply the same test: how fast would a war consume this, how badly would foreign dependence fail when it mattered, and is the technology mature enough for a domestic product to be competitive.
 
 
-
 ## The sustainment question is the whole game in a long war
 
 The reason this assessment keeps returning to sustainment is that a long confrontation is decided less by what a force looks like at the start than by what it can regenerate as it is consumed. The lesson that runs through [the analysis of what a wartime economy would demand](/2028/07/11/poland-wartime-economy/) is that modern high-intensity war eats materiel at rates that peacetime stockpiles do not begin to cover, and that the binding constraint becomes production and repair capacity rather than the initial order of battle. A force that cannot replace losses and cannot keep its surviving equipment running degrades toward irrelevance no matter how impressive its starting inventory. That is why the fourth rung of the ladder, sustainment independence, is the rung the industrial strategy should buy first.
@@ -218,7 +217,6 @@ A dimension of the industrial question that platform coverage almost entirely mi
 The economics of surge capacity are genuinely hard, because holding idle capacity against a war that may not come is expensive and hard to justify in a peacetime budget, while not holding it means the base cannot scale when scaling is the whole point. The tension has no clean resolution, and different states strike it differently, but a serious industrial strategy has to confront it rather than assume that localization alone delivers wartime output. The concept of the warm line, a production line kept running at a low rate so it can be expanded rather than restarted from cold, is one answer, and it is part of why exports matter: export orders keep lines warm between national orders, preserving the capacity to surge without the state having to pay to hold idle plant. This is a place where the economic and the strategic cases interlock, since the export earnings that improve the affordability of the base also preserve the warm capacity that a surge would require.
 
 The lesson for assessing the ambition is that localization is necessary but not sufficient for wartime sustainment, and that the harder-to-see question of whether the base can scale under stress deserves as much attention as the visible question of how much is made at home. A base that has reached the fourth rung in peacetime terms but cannot surge is still vulnerable in the exact scenario the fourth rung was meant to cover, and a complete industrial strategy therefore has to buy not only domestic production but the capacity to expand it. The analysis of what a wartime economy would demand takes this scaling problem further, and it is the natural place a reader concerned with surge should turn next, since replenishment at wartime tempo is finally an economy-wide mobilization question and not only a defense-sector one.
-
 
 
 ## Regenerating the force in a long war

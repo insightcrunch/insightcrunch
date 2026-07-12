@@ -6,15 +6,15 @@ date: 2001-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Pyramids", "Ancient Egypt", "Archaeology"]
 excerpt: "The pyramid builders were a housed, fed, and cared-for workforce, not whip-driven slaves, and their Giza village and cemetery prove the point plainly."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2001-06-01
+lang: en
 ---
-
 For most of the last two centuries the pyramid builders lived in the popular imagination as a single image: ranks of chained men dragging stone under the whip, an overseer's lash falling across bare backs, a god-king watching from a throne while thousands died to raise his tomb. It is a powerful picture, and it is almost entirely wrong. The men and women who built the pyramids of Giza left behind two things that a movie set never shows: the village where they slept and ate, and the cemetery where they were buried. Both were dug out of the Giza plateau by modern excavation, and both tell a story that overturns the whip-and-chains cliche at nearly every point.
 
-![The life of the pyramid builders at Giza, who they were and how they lived - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The life of the pyramid builders at Giza, who they were and how they lived - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 This article reconstructs the daily existence of the workforce that raised the Fourth Dynasty pyramids, roughly between 2600 and 2500 BCE, during the peak of the Old Kingdom. The reconstruction does not rest on speculation or on the guesses of ancient Greek tourists. It rests on a settlement, a bakery complex, animal bones, storerooms, and a graded cemetery, all excavated to the south of the Great Sphinx over recent decades. From that material a coherent social world emerges: a housed labor force fed on bread, beer, and meat, organized into named gangs on rotating service, treated by physicians when they broke bones, and buried within sight of the monuments they built. The central argument here has a name worth remembering. Call it the provisioned-workforce picture, the claim that the builders were a supplied, sheltered, and cared-for labor force whose bones and whose village overturn the image of expendable slaves.
 

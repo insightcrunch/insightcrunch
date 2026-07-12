@@ -6,15 +6,15 @@ date: 2026-05-01
 categories: ["Industry"]
 tags: ["Poland Security", "Polish Military", "Defense Policy", "Military Analysis", "Eastern Flank"]
 excerpt: "The gaps in Poland's modernization sit in manpower, munitions, sustainment, integration, and enablers, not in the hardware that the headlines celebrate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2026-05-01
+lang: en
 ---
-
 The decision a Polish defense planner faces is not whether to buy more hardware. That decision has largely been made, and the tanks, launchers, fighters, and air defense batteries are arriving. The harder decision is what to do with the money and attention that remain once the marquee purchases are booked, because the gaps in Poland's modernization do not live in the equipment catalog. They live in the manpower needed to crew and sustain the force, in the munitions stockpiles that decide how long the force can fight, in the maintenance and spare-parts pipeline that keeps platforms running, in the burden of integrating fleets bought from several suppliers at once, and in the unglamorous enablers that turn a shopping list into fielded combat power. A planner who reads only the procurement announcements will conclude the job is nearly finished. A planner who reads the whole force will see where it is thin, and will understand that the thin places, not the impressive ones, set the real ceiling on what the buildup deters.
 
-![A candid audit of the gaps in Poland's military modernization across manpower, munitions, sustainment, integration, and enablers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A candid audit of the gaps in Poland's military modernization across manpower, munitions, sustainment, integration, and enablers - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 This is a planning article, and it is written for the reader who has to allocate rather than admire. The Polish rearmament effort is real, ambitious, and among the most consequential in Europe since the full-scale invasion of Ukraine reset the continent's threat assessment. The top-line modernization verdict, the case that the buildup meaningfully strengthens deterrence on the eastern flank, is argued in the pillar on this cluster and is not relitigated here; readers wanting that verdict should start with the assessment of what the buildup adds inside [Poland's broader military transformation](/2026/02/11/inside-polands-military-buildup/). The purpose here is narrower and more uncomfortable. It is to name, honestly and in durable terms, where the effort is incomplete, which of those incompletions matter most, and how a decision-maker should sequence the fixes. A serious assessment names weaknesses as clearly as it names strengths. An assessment that only celebrates is marketing, and marketing does not deter anyone.
 

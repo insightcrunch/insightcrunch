@@ -6,15 +6,15 @@ date: 2002-11-01
 categories: ["Industry"]
 tags: ["Home Services", "HVAC", "Consumer Protection", "Cost Guide", "Repair or Replace"]
 excerpt: "HVAC scams run on fear and urgency. Learn the signature cons, the second-opinion shield, the permit reality, and the recourse that protects your money."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2002-11-01
+lang: en
 ---
-
 The costliest sentence an HVAC technician can say to a homeowner is short: your heat exchanger is cracked, and it is not safe to run this furnace. Said with a serious face, sometimes with a phone photo of a dark smudge that could be anything, that one line has sold more unnecessary furnace replacements than any brochure ever printed. It works because it fuses two powerful triggers, money and safety, and it arrives at the exact moment a household is least able to push back: the heat is out, the house is cold, and a stranger in a uniform is holding what looks like proof. Most HVAC scams follow that same shape. They manufacture urgency, they wrap an upsell in a safety warning, and they count on the fact that almost nobody gets a second look before signing. This guide takes those plays apart one at a time, shows the tell that exposes each, and hands you the paperwork and the recourse that turn a scared homeowner into a hard target.
 
-![How to spot HVAC scams and overcharging, a homeowner's protection guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to spot HVAC scams and overcharging, a homeowner's protection guide - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 None of this means every alarming diagnosis is a lie. A genuinely cracked heat exchanger can leak carbon monoxide, and that is a real hazard worth taking seriously. The problem is not that technicians raise safety issues; it is that a small share of operators have learned to raise them dishonestly, because fear sells and few customers verify. The entire defense laid out here rests on a single idea that costs almost nothing and disarms nearly every expensive scare: you are allowed to slow down, get it in writing, and have a second set of eyes confirm the finding before any money changes hands. A legitimate company welcomes that. A con depends on you not doing it.
 

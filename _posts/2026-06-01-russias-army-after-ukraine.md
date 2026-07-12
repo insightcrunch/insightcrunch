@@ -6,15 +6,15 @@ date: 2026-06-01
 categories: ["Industry"]
 tags: ["Poland Security", "Russian Military", "Military Analysis", "Russia", "Eastern Flank", "Defense Policy"]
 excerpt: "Russia's army after Ukraine came out both degraded and adapted at the same time, and a two-ledger reading separates durable strength from wartime expedient."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2026-06-01
+lang: en
 ---
-
 The most decision-relevant question about Russia's army after Ukraine is not whether it is bigger or smaller than it was, and not whether it won or lost a particular battle. It is this: what condition is the force actually in as a fighting instrument, and how does that condition differ from the pre-war service that crossed the border in February 2022? A reader who wants to reason honestly about the eastern flank has to answer that before anything else, because every downstream judgment, how fast the force can be rebuilt, whether it could turn toward the alliance, what it would take to deter it, rests on a clear read of the starting point. Get the starting condition wrong and every estimate built on top of it inherits the error.
 
-![Russia's army after Ukraine, a capability assessment of the degraded and adapted force - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Russia's army after Ukraine, a capability assessment of the degraded and adapted force - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 Two readings dominate the public conversation, and both are wrong in the same way: each takes half of the picture and treats it as the whole. The first reading says the force is broken. It points to the staggering loss of armor, the burned-through professional cadre, the reliance on refurbished vehicles pulled from long-term storage, and the columns of mobilized men fed into costly assaults, and it concludes that what remains is a hollow shell running on borrowed time. The second reading says the force is battle-hardened. It points to years of continuous high-intensity combat, the rapid growth of drone and electronic warfare units, the layered fortifications that blunted a well-equipped counteroffensive, and the grinding territorial gains of the later phases, and it concludes that Moscow has forged a leaner, meaner, more experienced instrument than the one it started with.
 

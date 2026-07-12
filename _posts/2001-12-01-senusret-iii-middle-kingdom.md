@@ -6,15 +6,15 @@ date: 2001-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Middle Kingdom", "Senusret III", "Pharaohs", "Ancient Egypt", "Historiography"]
 excerpt: "Senusret III, throne name Khakaure, pushed Egypt's Nubian frontier to Semna, curbed the nomarchs, and remade royal art into the image of a careworn king."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2001-12-01
+lang: en
 ---
-
 Ask which pharaoh represents the Middle Kingdom at its height and the answer that keeps returning is Senusret III, the Twelfth Dynasty king whose throne name was Khakaure and who reigned in round figures from about 1870 to 1831 BCE. He is the ruler under whom the reconstructed Egyptian state of the Middle Kingdom reached the furthest south it would hold for centuries, tightened its grip on the provinces, and produced a body of royal sculpture so unlike anything before it that the face of the king himself became a statement about what kingship was for. The judgment that later Egyptians, classical Greek writers, and modern Egyptologists have reached is broadly the same, though they reached it by very different routes: this was one of the most consequential reigns of the pharaonic age, and the man behind it was remembered long after his own century as the model of the conquering king.
 
-![Senusret III of Egypt, the Middle Kingdom warrior pharaoh and his careworn royal portraits, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Senusret III of Egypt, the Middle Kingdom warrior pharaoh and his careworn royal portraits, explained - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 That reputation rests on a genuine record rather than on legend alone, which is what separates Senusret III from many famous names in Egyptian history. His campaigns into Nubia are documented on stone boundary markers he himself set up. The chain of mudbrick fortresses that fixed his southern frontier still stood in ruin thousands of years later, their plans recoverable by excavation. The reorganization of Egypt's internal government that tradition credits to his reign shows up in the archaeological record as a change in who was buried in grand tombs and where. And the aged, weary, heavy-lidded faces carved for him survive in enough examples that the style can be studied as a deliberate artistic program rather than the whim of a single workshop. The task of this profile is to hold that record apart from the accretions that later gathered around it, above all the sprawling Greek legend of a world conqueror named Sesostris, and to arrive at an honest account of what one king actually did and why it mattered.
 

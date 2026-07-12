@@ -6,15 +6,15 @@ date: 2027-02-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "The Jazz Age", "Nick Carraway", "Context", "American Literature"]
 excerpt: "Money, stocks, and bonds in the 1920s form the economic world behind The Great Gatsby, the finance behind Nick's bond trade and the era's speculative boom."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-02-22
+lang: en
 ---
-
 Money, stocks, and bonds in the 1920s are usually treated as background scenery in The Great Gatsby, a bit of period color behind the parties and the doomed romance. That habit throws away one of the sharpest tools a reader has. The financial economy of the decade is not scenery. It is the machinery that produces the fortunes the novel is about, the reason its narrator has a job at all, and the quiet source of the dread that gathers under the glamour. Read the finance with care and the book stops being a love story dressed in wealth and becomes a study of a country learning to make money out of paper faster than it could make anything real.
 
-![Money, stocks, and bonds in the 1920s and the financial world behind The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Money, stocks, and bonds in the 1920s and the financial world behind The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 Fitzgerald wrote about the Jazz Age with a banker's son's eye for where the cash came from. He gives his narrator a specific trade, sets the action inside the greatest bull market the United States had yet seen, and lets the vocabulary of finance leak into the prose at moments that matter. None of that is accidental. This article lays out what the money world of the 1920s actually was, shows the passages where it surfaces in the text, and argues that reading the financial economy as context is the difference between summarizing the novel's glitter and analyzing its structure.
 ## What the money world of the 1920s actually was

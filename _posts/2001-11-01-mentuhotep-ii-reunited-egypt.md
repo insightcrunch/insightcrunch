@@ -6,15 +6,15 @@ date: 2001-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Middle Kingdom", "Mentuhotep II", "Pharaohs", "Ancient Egypt", "Biography"]
 excerpt: "Mentuhotep II of Thebes crushed the Herakleopolitan kings, reunited all Egypt around 2055 BCE, and refounded the state as the first Middle Kingdom ruler."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2001-11-01
+lang: en
 ---
-
 For more than a century Egypt had no single king. Two rival lines ruled two halves of a fractured country, one from Herakleopolis in the north and one from Thebes in the south, and the border between them ran as a moving line of raids, alliances, and contested cemeteries. The ruler who ended that division was Mentuhotep II, a Theban king of the Eleventh Dynasty who defeated his northern rivals, brought the whole Nile valley under one crown around 2055 BCE, and opened the era later historians call the Middle Kingdom. The question this article settles is not whether he reunified Egypt, which the evidence supports, but what kind of reunification it was: a restoration of the old order, or the founding of a new state that only wore the old order's clothes.
 
-![A terraced mortuary temple set against a bay of desert cliffs on the west bank at Thebes, its ramps and colonnades marking the burial complex of Mentuhotep II at Deir el-Bahari.](/assets/images/blog/blog-01.webp)
+![A terraced mortuary temple set against a bay of desert cliffs on the west bank at Thebes, its ramps and colonnades marking the burial complex of Mentuhotep II at Deir el-Bahari.](/assets/images/blog/blog-49.webp)
 
 The judgment history has reached is emphatic on the first point and divided on the second. Ancient Egyptians of later ages placed Mentuhotep II among the small circle of founder-kings, ranking his name beside Menes, who first unified the land, and Ahmose I, who would later expel the Hyksos and open the New Kingdom. Modern scholarship confirms the achievement while refusing the flattery. It reads his reign as the record allows, separating what inscriptions and archaeology document from what New Kingdom veneration and his own titulary claimed. What emerges is a ruler who did something harder and more interesting than restore a lost golden age. He built a new center of power in the south, imposed it on the north by force, and set a Theban stamp on Egyptian kingship that outlasted him by a thousand years.
 

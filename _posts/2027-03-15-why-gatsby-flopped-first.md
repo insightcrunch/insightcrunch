@@ -6,15 +6,15 @@ date: 2027-03-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "Literary Criticism", "American Literature"]
 excerpt: "Why The Great Gatsby flopped at first: the modest sales, the mixed reviews, and the mismatch of book and moment that left Fitzgerald a disappointed man."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-03-15
+lang: en
 ---
-
 The book that now sits on nearly every American syllabus was, in its author's lifetime, a commercial disappointment and a critical puzzle. Understanding why The Great Gatsby flopped at first is not a footnote to the novel; it changes how you read the whole thing. A reader who assumes the book arrived to acclaim will treat its greatness as obvious and its meaning as settled. A reader who knows the truth, that it sold modestly, drew divided reviews, and left F. Scott Fitzgerald convinced he had failed, has to ask a sharper question: how can a book be a masterpiece and a flop at the same time? The answer is not that the first readers were stupid or that the novel was flawed. The answer is that the book and its moment did not fit, and reading the failure as a mismatch rather than a verdict is the whole point of taking its early reception seriously.
 
-![Why The Great Gatsby flopped at first: modest sales and mixed reviews in 1925 explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Why The Great Gatsby flopped at first: modest sales and mixed reviews in 1925 explained - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This is a reception-history article, and its claim is specific. The novel did not fail because it was bad. It failed because its compressed brilliance and its bleak final judgment did not match what readers in 1925 wanted from a Fitzgerald book, and that gap between a great book and an unready moment is worth reading closely. The publication itself, the release and the launch, belongs to a separate story you can follow in the account of the [1925 publication and the making of the first edition](/2027/03/08/gatsby-1925-publication/). The correction, the slow rise from forgotten to canonical, belongs to the [revival after the Second World War](/2027/03/22/gatsby-revival-after-wwii/). What this article owns is the middle: the failure itself, its size, its shape, and its causes, and the reading of that failure that turns a discouraging chapter of literary history into an argument about the book.
 

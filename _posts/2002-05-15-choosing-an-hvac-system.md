@@ -6,17 +6,17 @@ date: 2002-05-15
 categories: ["Industry"]
 tags: ["Home Services", "HVAC", "Buying Guide", "Cost Guide", "Repair or Replace"]
 excerpt: "Choosing an HVAC system means sizing it with a load calculation, then picking a furnace, heat pump, central air, or mini-split and the tier that pays."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2002-05-15
+lang: en
 ---
-
 The single decision that shapes every dollar and every degree of comfort in a new HVAC system is not the brand on the cabinet or the efficiency sticker in the brochure. It is the size. Choosing an HVAC system that actually keeps a house even, quiet, and affordable to run starts with a load calculation that most quotes skip, and only after the size is settled does the choice between a furnace and a heat pump, central air and a mini-split, or a standard and a high-efficiency tier begin to matter. A homeowner who reverses that order, who picks the most efficient unit on the lot and lets the installer match the size to the old equipment, has bought a machine that will short cycle, run humid, wear out early, and never deliver the savings the label promised. Size first, efficiency second, is the rule this guide is built around.
 
 That order matters because HVAC is the one home purchase where bigger is almost never better and where the number that decides everything is invisible on the price tag. A furnace or air conditioner is sized to a specific house, in a specific climate, with a specific amount of insulation, window area, air leakage, and sun exposure. Get that match right and a mid-tier unit will outperform a premium one that was guessed at. Get it wrong and no efficiency rating on the market can rescue the result. The pages that follow lay out the load calculation that anchors the whole decision, the honest tradeoffs between the main system types, the efficiency ratings in plain language with a clear view of where a higher tier pays back and where it does not, the lifespan you can reasonably expect, and a closing framework that crosses home type with climate so a reader can see at a glance which system fits their situation and what tradeoff to weigh.
 
-![Choosing an HVAC system, showing sizing and equipment type tradeoffs](/assets/images/blog/blog-01.webp)
+![Choosing an HVAC system, showing sizing and equipment type tradeoffs](/assets/images/blog/blog-68.webp)
 
 ## The size-then-efficiency rule that anchors the whole decision
 

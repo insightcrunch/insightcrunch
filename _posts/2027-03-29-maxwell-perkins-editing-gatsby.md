@@ -6,17 +6,17 @@ date: 2027-03-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "Literary Criticism", "American Literature"]
 excerpt: "Maxwell Perkins and the editing of Gatsby explained: how Fitzgerald's Scribner's editor sharpened the novel's mystery and pacing into a lasting classic."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-03-29
+lang: en
 ---
-
 # Maxwell Perkins and the Editing of Gatsby
 
 Every reader who finishes The Great Gatsby and calls it flawless is praising a book that reached that condition partly because one editor refused to let its author settle. The story of Maxwell Perkins and the editing of Gatsby is not a footnote to the novel's greatness; it is part of how the greatness was achieved. Perkins, the Scribner's editor who had staked his reputation on the young Fitzgerald years earlier, read the 1924 manuscript, recognized something extraordinary, and then did the harder thing: he told the author precisely where the extraordinary thing was still blurred. What followed was a revision that sharpened the book into the form generations have read since.
 
-![Maxwell Perkins and the editing of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Maxwell Perkins and the editing of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 Understanding this collaboration changes how you read the finished novel. The famous smoothness of Gatsby, the way information about its title character arrives at exactly the right moment, the sense that the reader's understanding of Jay Gatsby deepens in perfect step with Nick Carraway's, none of that was inevitable in the draft Perkins first held. It was engineered, in dialogue, between a writer of genius and an editor whose gift was seeing what a book wanted to become. Reading Gatsby with that dialogue in view does not diminish Fitzgerald. It reveals the discipline behind the shimmer.
 

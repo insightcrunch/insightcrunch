@@ -6,17 +6,17 @@ date: 2001-08-01
 categories: ["Industry"]
 tags: ["Home Services", "HVAC", "Hiring Guide", "Buying Guide", "Warning Signs", "Consumer Protection"]
 excerpt: "Learn how to hire an HVAC contractor with confidence, from licensing and the load calculation to reading quotes, so you never get oversold a bigger system."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2001-08-01
+lang: en
 ---
-
 A dead furnace during a cold snap, or an air conditioner blowing warm air on the hottest afternoon of the summer, pushes most homeowners into the same trap. They call the first number an ad puts in front of them, describe the problem in a rush, and agree to whatever that company recommends because the house is freezing or baking and the pressure feels unbearable. Learning how to hire an HVAC contractor the right way changes that dynamic completely, because it turns a panicked reaction into a decision you actually control. The homeowner who understands the trade walks into the conversation knowing what a good visit looks like, what a fair process feels like, and where the common traps are hidden. The one who does not becomes a lead: a phone number sold to three salespeople who each arrive ready to quote a full replacement whether the house needs one or not.
 
 Heating and cooling is unlike almost any other home service in one important way. It sits at the intersection of a licensed trade, a federally regulated material, and a sizing science that most homeowners have never heard of, and any contractor who skips the last of those is quietly telling you they cut corners. The defining tradeoff in this category is not price against quality in the abstract. It is whether you let the equipment and the sales script drive the decision, or whether you make the contractor prove the system fits your house before a single dollar changes hands. This guide is the hub for that decision. It resolves what an HVAC contractor really does, why the trade is licensed and certified in ways a handyman is not, how the money and the process work at a high level, and what to have ready before anyone walks through your door. Then it hands you off to the specialist guides in this cluster that go deep on cost, vetting, symptoms, and sizing.
 
-![How to hire an HVAC contractor, a complete homeowner guide to licensing, load calculation and vetting - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to hire an HVAC contractor, a complete homeowner guide to licensing, load calculation and vetting - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 The homeowner who reads this first, before a breakdown forces a rushed choice, gains the single biggest advantage available in this trade: time to think. Most bad HVAC outcomes trace back to a decision made under duress, on a day when the house was uncomfortable and a salesperson was standing in the living room with a tablet and a financing offer. When you understand the shape of the whole thing in advance, the emergency becomes a manageable problem rather than a leverage point someone uses against you.
 

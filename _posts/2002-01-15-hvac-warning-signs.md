@@ -6,15 +6,15 @@ date: 2002-01-15
 categories: ["Industry"]
 tags: ["Home Services", "HVAC", "Warning Signs", "Maintenance", "Emergency"]
 excerpt: "HVAC warning signs sorted by urgency: what a warm-blowing AC, a dead furnace, and a burning or gas odor each mean, and which ones need action right now."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2002-01-15
+lang: en
 ---
-
 Most of the HVAC warning signs a home throws at you are patient. A slightly weaker cool, a longer run time, a rattle that comes and goes, a heating bill creeping up for no obvious reason. These give you days or weeks to plan, get a fair quote, and decide. One category does not. If your furnace or anything near it smells like burning plastic, hot metal, or rotten eggs, or if a carbon monoxide alarm sounds, the reading you need is not diagnostic at all. It is stop, shut the system down, get people and pets out if the smell is strong, and call from outside. That single split, between the symptom you research and the symptom you flee, is the most useful thing a homeowner can learn about a heating and cooling system, and it is exactly the triage a page full of ads never gives you.
 
-![Homeowner checking a furnace and outdoor AC unit for warning signs](/assets/images/blog/blog-01.webp)
+![Homeowner checking a furnace and outdoor AC unit for warning signs](/assets/images/blog/blog-78.webp)
 
 This guide names the real symptoms an air conditioner and a furnace produce, explains what each one usually means, and sorts them by how fast you have to move. The goal is a reader who can look at a warm-blowing vent, a puddle under the indoor coil, a furnace that clicks but will not light, or a strange noise on startup, and know whether that sign means shut it off now, call today, or simply watch it and mention it at the next tune-up. Two mistakes drive most of the regret in online repair threads. The first is ignoring a smell or a recurring problem until it becomes a fire, a flooded floor, or a dead compressor. The second is paying premium emergency rates in a panic over something a filter change or a tripped switch would have fixed. A clear urgency map fixes both.
 

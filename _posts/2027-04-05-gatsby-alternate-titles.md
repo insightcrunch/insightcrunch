@@ -6,15 +6,15 @@ date: 2027-04-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "Close Reading", "American Literature"]
 excerpt: "The title Fitzgerald almost used was Trimalchio in West Egg, and the discarded names reveal how much the final ironic choice quietly does for the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-04-05
+lang: en
 ---
-
 The title Fitzgerald almost used was not The Great Gatsby at all, and for most of the two years he spent making the novel he expected the cover to read Trimalchio in West Egg. That fact changes how you read the book. A title is the first argument a novel makes about itself, the frame it hands the reader before a single sentence of story arrives, and Fitzgerald tried on at least half a dozen frames before he settled on the three plain words we now treat as inevitable. Recovering the names he discarded is not literary trivia. It is a way of seeing the choice behind the choice, because each rejected option would have told the reader something different about what kind of book this is and what kind of man Jay Gatsby is meant to be.
 
-![The alternate titles of The Great Gatsby and the Trimalchio draft explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The alternate titles of The Great Gatsby and the Trimalchio draft explained - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Read the discarded names and the final one stops looking obvious. Trimalchio in West Egg would have promised a satire of a vulgar arriviste. On the Road to West Egg would have promised a journey narrative. The Gold-Hatted Gatsby and The High-Bouncing Lover, both drawn from the novel's own epigraph, would have promised a book more playful and more openly ironic than the elegy Fitzgerald wrote. Under the Red, White, and Blue, the name he wanted at the very last minute, would have made the whole thing a verdict on America before the reader met a single character. Set these against The Great Gatsby and you can measure exactly what the final choice gained, which is the argument this article defends.
 

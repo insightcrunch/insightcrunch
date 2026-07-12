@@ -6,15 +6,15 @@ date: 2027-03-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "American Literature", "Literary Criticism"]
 excerpt: "The Great Gatsby's 1925 publication story reveals how Scribner's launched a masterpiece to a modest reception, and why that quiet arrival still matters."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-03-08
+lang: en
 ---
-
 A book that would one day be called the finest American novel arrived in the spring of 1925 to almost no applause, and that quiet is the first fact of its life. The Great Gatsby's 1925 publication story is not a footnote to the reading; it is the frame that tells you what kind of object you are holding. Scribner's released a masterpiece on a Friday, wrapped it in one of the most famous covers in publishing, priced it at two dollars, and watched the world barely turn its head. Understanding how the novel first met its readers changes how you read every sentence inside it, because the gap between the book's quality and its reception opened on day one and never closed while its author lived.
 
-![The Great Gatsby's 1925 publication story explained, from Scribner's first edition to the famous dust jacket - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby's 1925 publication story explained, from Scribner's first edition to the famous dust jacket - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 Most students meet this novel as a settled classic, a fixture of syllabi and lists, and they assume it arrived that way. It did not. The story of how it entered the world is a study in mismatch, and that mismatch is the doorway into the great gatsby context that the entire InsightCrunch series treats as meaning rather than trivia. Read the publication moment carefully and you stop seeing a triumphant debut and start seeing something stranger and truer: a writer at the height of his craft, certain he had made his best thing, releasing it into a marketplace that was looking elsewhere.
 

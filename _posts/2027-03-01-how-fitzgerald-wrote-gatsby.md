@@ -6,15 +6,15 @@ date: 2027-03-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "American Literature", "Close Reading"]
 excerpt: "How Fitzgerald wrote Great Gatsby on the Riviera in 1924, then rebuilt it through intense revision, and that hidden labor explains the novel's economy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-03-01
+lang: en
 ---
-
 The compression that readers praise as effortless was the hardest thing in the book to achieve. Understanding how Fitzgerald wrote Great Gatsby corrects the most flattering myth a masterpiece can attract: that it arrived whole, dictated by a gift, poured out in a single inspired rush. The truth is slower and far more useful to a student. The novel was made. It was built on the French Riviera across the summer and autumn of 1924, then torn open and rebuilt again while it was already set in type, and the celebrated economy of its final form, the sense that not a sentence is wasted, was the product of labor rather than luck.
 
-![A writer's desk on the French Riviera in the 1920s, sunlight on manuscript pages](/assets/images/blog/blog-01.webp)
+![A writer's desk on the French Riviera in the 1920s, sunlight on manuscript pages](/assets/images/blog/blog-49.webp)
 
 That distinction matters because it changes what you are looking at when you read. If you believe the prose fell from the sky, you treat its precision as a mystery to admire and move past. If you know the precision was engineered, you start reading for the seams, for the places where a scene was tightened, a fact withheld, a revelation delayed, and the book opens into a working demonstration of craft. This article traces the making of the novel stage by stage, shows what the composition history reveals inside the finished prose, and gives you a way to use that history as genuine analysis rather than biographical filler.
 

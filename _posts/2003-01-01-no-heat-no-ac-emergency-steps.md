@@ -6,17 +6,17 @@ date: 2003-01-01
 categories: ["Industry"]
 tags: ["Home Services", "HVAC", "Emergency", "Warning Signs", "Maintenance", "Consumer Protection"]
 excerpt: "No heat or no AC emergency? Rule out gas and carbon monoxide first, run four simple homeowner checks, stabilize the household, then call the right pro."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2003-01-01
+lang: en
 ---
-
 When the furnace dies in a cold snap or the air conditioner quits in a heat wave, the household turns to you and the clock feels like it is running. A no heat or no AC emergency is one of the few home problems where the temptation to grab a phone and dial the first flashing number is strongest, and where that instinct costs the most. The advice that follows is built around a single sequence, ordered the way a stressed person actually needs it: rule out the one genuinely dangerous problem, run the handful of checks that fix most false alarms, keep the people in the house safe while you arrange help, decide whether this is a call-now or a wait-until-morning problem, and only then reach for a technician, on your terms rather than the after-hours market's.
 
 That order matters more than any single tip, because the two ways people get hurt in these moments pull in opposite directions. One household calls a premium emergency line and pays a night rate over a tripped breaker or a dead thermostat battery. Another household smells something odd, decides to poke around the equipment, and troubleshoots straight through a gas leak. The sequence below is designed to prevent both. Call it the check-safe-then-simple rule: before you dial an emergency number, rule out a gas or carbon monoxide hazard, then check the thermostat, the breaker, the switch, and the filter, because a large share of no-heat and no-AC panics turn out to be a setting or a tripped breaker, not a breakdown.
 
-![No heat or no AC emergency steps, a homeowner's safety-first action sequence - Insight Crunch](/assets/images/blog/blog-01.webp)
+![No heat or no AC emergency steps, a homeowner's safety-first action sequence - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 This is the calm that the ad-choked emergency search result never gives you. Search a phrase like "furnace stopped working" at midnight and the top of the page is a wall of lead-generation forms and paid numbers, all engineered to convert your panic into a dispatched truck at the highest rate the moment allows. None of it tells you the thing that saves you money and, in the gas case, possibly your life: what to do in the first five minutes, in what order, and where the line sits between a real emergency and a fixable annoyance. That is the whole job of this guide.
 

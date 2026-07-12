@@ -6,15 +6,15 @@ date: 2027-02-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Context", "F. Scott Fitzgerald", "Literary Criticism", "American Literature"]
 excerpt: "Scientific racism and Tom's books in Gatsby trace to real 1920s pseudo-science that dressed prejudice as fact, the ideology the novel quietly exposes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-02-15
+lang: en
 ---
-
 Ten pages into The Great Gatsby, before Gatsby himself has said a word, a wealthy man at a dinner table leans forward and announces that the white race is about to be submerged. This is where scientific racism and Tom's books enter the novel. Tom Buchanan is not raving. He is citing a book. He believes he is passing along settled knowledge, the kind that has been "proved," and he expects the table to be grateful for the education. The moment is easy to skim past as one more sign that Tom is a boor. Read it that way and you miss the point Fitzgerald built into it. The pseudo-science behind Tom's dinner-table lecture is not a throwaway character note. It is the novel pausing to show you a real ideology that gripped respectable America in the 1920s, an ideology that borrowed the prestige of the laboratory to make bigotry sound like fact, and it matters enormously to how you read Tom, the Buchanans, and the world of privilege the whole book anatomizes.
 
-![Scientific racism and Tom's books in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Scientific racism and Tom's books in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The reason this frame changes your reading is simple. If Tom's outburst is only personal nastiness, then it stays contained inside one unpleasant man. If it is the era's dominant race theory speaking through him, then his ugliness is not private eccentricity but the voice of a whole class that considered its own supremacy a scientific finding. That is the difference between a character flaw and a diagnosis of a society. Fitzgerald wrote the second thing. Recovering the real books behind Tom's half-remembered lecture lets you see it.
 
