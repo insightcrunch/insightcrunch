@@ -6,15 +6,15 @@ date: 2026-04-11
 categories: ["Industry"]
 tags: ["Poland Security", "Defense Policy", "Military Analysis", "Eastern Flank", "Geopolitics", "NATO"]
 excerpt: "Poland's defense spending politics decides whether rearmament outlasts any one government. A durability assessment of the cross-party consensus behind it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2026-04-11
+lang: en
 ---
-
 A rearmament program is only as strong as the political settlement that pays for it, and Poland's defense spending politics is the variable that decides whether the country's historic military buildup survives the next change of government, the next economic squeeze, and the next procurement fight. The hardware gets the headlines: the tanks, the fighters, the missile batteries, the plan for a much larger army. What gets far less scrutiny, and matters at least as much, is the internal question underneath all of it. Can a democracy sustain spending at wartime peacetime levels, year after year, across electoral cycles that hand power back and forth between rival camps, without the effort unraveling the moment the coalition that began it leaves office? That is a political question, not a fiscal one, and it is the question this assessment is built to answer.
 
-![Poland's defense spending politics and the durability of the cross-party consensus behind the military buildup, a domestic-political analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Poland's defense spending politics and the durability of the cross-party consensus behind the military buildup, a domestic-political analysis - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The reason to treat this as a first-order analytical problem rather than a footnote to the capability story is simple. A deterrent posture is a promise about the future. Forces bought today deter tomorrow only if an adversary believes the country will keep funding, manning, and modernizing them for the decade it takes hardware to mature into real combat power. If the political will behind the spending looks reversible, the deterrent value of the hardware is discounted before a single system is even delivered. So the durability of the consensus is not a soft, secondary factor sitting behind the "real" military story. It is part of the deterrent itself. An adversary reads the politics as carefully as the order of battle, and a buildup that could be voted away in one election cycle deters less than one that has become a settled national commitment no serious contender for power proposes to reverse.
 

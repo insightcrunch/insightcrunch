@@ -6,17 +6,17 @@ date: 2001-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Pyramids", "Ancient Egypt", "Archaeology", "Historiography"]
 excerpt: "The Great Sphinx of Giza is a Dynasty 4 monument carved from bedrock, likely wearing Khafre's face. Who built it, why, how, and which myths are false."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2001-04-01
+lang: en
 ---
-
 The Great Sphinx of Giza was never meant to be a puzzle. It was meant to be a statement. A Fourth Dynasty king took the natural limestone knoll that sat beside his pyramid causeway and had it cut into the shape of a lion with a human head, so that a colossal royal guardian would crouch at the edge of the desert and watch the sun rise over the Nile valley every morning for eternity. That is the thing modern audiences most often miss when they treat the monument as a riddle: it began as a deliberate act of royal and religious messaging, not as a mystery to be solved. The mystery grew up around it later, over the four and a half thousand years it spent half buried in sand while the memory of why it was made faded and speculation rushed in to fill the gap.
 
 This article separates the two. On one side stands what the evidence supports about the identity, builder, purpose, and construction of the Sphinx. On the other stands the crowd of viral claims that circulate about it, the missing nose blamed on Napoleon's cannons, the argument that the monument is many thousands of years older than Egyptology allows, and the promise of a sealed hall of ancient records hidden beneath the paws. Each of those claims has a real answer grounded in geology, archaeology, and datable historical sources, and each answer turns out to be more interesting than the myth it replaces.
 
-![The Great Sphinx of Giza explained, who built it and why the nose is missing - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Sphinx of Giza explained, who built it and why the nose is missing - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 ## What the Great Sphinx Is: A Lion's Body and a King's Face
 

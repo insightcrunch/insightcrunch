@@ -6,17 +6,17 @@ date: 2027-02-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Gilded Elite", "Old Money", "F. Scott Fitzgerald", "Context", "American Literature"]
 excerpt: "Class and the gilded elite of the 1920s built the old-money wall that beats Gatsby. See how real American aristocracy quietly shapes the Buchanans' world."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-02-01
+lang: en
 ---
-
 Jay Gatsby has the mansion, the shirts, the parties, and the cash, and none of it lets him cross the one bay that matters. To understand why, you have to look past the money on the page and into the social world behind it: class and the gilded elite of the 1920s, the inherited caste of established American families who guarded a rank that no fortune, however large, could purchase. Read the novel without that world in view and Gatsby's defeat looks like bad luck, a car crash and a jealous husband. Read it with the gilded elite in view and the defeat looks like what it is: a man colliding with a wall built long before he was born, a barrier of lineage and belonging that his new money was never going to breach.
 
 This article treats the 1920s gilded elite as historical context that becomes analysis, not background trivia. The aim is that you finish able to see the Buchanans not as two spoiled individuals but as representatives of a real social formation, and able to argue that the tragedy of the book rests on a genuine mechanism of exclusion rather than on private cruelty alone.
 
-![The gilded elite and class of the 1920s in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The gilded elite and class of the 1920s in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The claim this piece defends is simple to name and worth carrying into an essay: this is a wall money alone cannot climb. The gilded elite of the 1920s protected a status that wealth could not buy into, so the novel's central agony is not that Gatsby lacks money (he has plenty) but that he lacks the one thing money does not confer, which is a place inside a closed order of families who already own the future. Once you can see that wall, the ending stops reading as accident and starts reading as social physics.
 

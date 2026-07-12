@@ -6,15 +6,15 @@ date: 2027-02-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Context", "Tom Buchanan", "Race and Whiteness", "American Literature", "F. Scott Fitzgerald"]
 excerpt: "Immigration and nativism in Gatsby's America explain Tom's racial fear: how 1920s restriction and status panic shaped the novel's anxieties over belonging."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-02-08
+lang: en
 ---
-
 When Tom Buchanan leans across his dinner table in the first chapter and announces that civilization is going to pieces, most first readers file the moment away as one rich man's rudeness. It is easy to read his outburst as a personal tic, the bullying of a spoiled athlete who has run out of games to win. That reading misses almost everything that matters, because immigration and nativism in Gatsby's America were not private obsessions. They were the loudest public argument of the decade, and Tom is not inventing his fear at the table. He is repeating it. Reading the 1920s panic over who counted as American changes the novel from a story about one brute into a portrait of an entire class defending its position by racializing the people it feared.
 
-![Immigration and nativism in Gatsby's America explained through Tom Buchanan's racial fear - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Immigration and nativism in Gatsby's America explained through Tom Buchanan's racial fear - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 This article owns the immigration-and-nativism context for the whole series. It lays out the real history behind the novel's racial anxieties, tracks exactly where that history surfaces in Fitzgerald's pages, and defends a single interpretive claim: the era turned anxiety about a changing nation into racial fear, so Tom's speeches are the decade's panic compressed into one man. For the specific pseudo-science of the book Tom cites, the companion piece on [scientific racism and Tom's books](/2027/02/15/scientific-racism-gatsby/) does the close work; for the in-novel meaning of whiteness as a theme, the analysis of [race and whiteness in the novel](/2024/11/18/race-whiteness-great-gatsby/) reads what the text makes of it. Here the frame is social history, and the payoff is that once you hear the era behind Tom's voice, you cannot un-hear it.
 
@@ -127,7 +127,6 @@ One clarifying way to hold the whole pattern is to see the novel's men arranged 
 At the secure end stands Tom, old-stock, old-money, native-born, certain of his right to the country and terrified of losing it. Beside him, a step less secure but firmly inside the circle, stands Nick, of respectable Midwestern stock, educated, native-born, whose belonging is unquestioned even as his fortunes are modest. His security is exactly what lets him sort other faces by origin on the bridge without noticing the cruelty of it, the unexamined confidence of a man who has never had his own belonging challenged. Then comes Gatsby, native-born and white but self-invented, a man whose origins would exclude him from the elite and who has therefore manufactured a past to vault the wall, forever suspect to those who know the manufacture. And at the far, excluded end stands Wolfsheim, the immigrant Jew drawn in the period's caricatures, a man of obvious ability and obvious loyalty to Gatsby whom the respectable characters will never regard as anything but foreign.
 
 Laid out this way, the novel's moral arithmetic becomes visible. The men closest to the center of belonging, Tom above all, do the greatest human harm, while the men further out, Gatsby and even the compromised Wolfsheim, show the loyalties and the longings the reader is invited to value. Fitzgerald does not sentimentalize the outsiders or make them saints. He does something more pointed. He arranges the spectrum so that proximity to the era's ideal of belonging correlates inversely with decency, so that the more securely a man sits inside the nativist definition of American, the worse he behaves. That inversion is the novel's quietest and most damning verdict on the whole scheme of belonging the decade was busy enforcing.
-
 
 
 Everything above can be held in a single table that links the era's immigration politics to the anxieties the novel expresses. This is the findable artifact of the article, the nativism-to-novel map, and it is meant to be usable at a glance when you are building an essay or annotating the text.

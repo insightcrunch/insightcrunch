@@ -6,17 +6,17 @@ date: 2001-04-15
 categories: ["Industry"]
 tags: ["Home Services", "Plumbing", "Consumer Protection", "Hiring Guide", "Cost Guide"]
 excerpt: "Plumbing scams thrive on panic and paperwork you never asked for. Learn the common cons, the permit and contract facts, and the recourse that protects you."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2001-04-15
+lang: en
 ---
-
 Most plumbing scams do not look like scams. They look like a technician crouched under your sink, shaking his head slowly, telling you the thing you called about is nothing compared to the thing he just found. Plumbing scams work because water is frightening, plumbing is hidden inside walls and under floors, and the person delivering the bad news is the only one in the room who can supposedly fix it. A homeowner who called about a dripping faucet gets talked into a whole-house repipe. A family with a slow drain gets a nine-hundred-dollar diagnosis for a problem a snake would have cleared in twenty minutes. The pitch feels urgent, the numbers feel authoritative, and the pressure feels like concern. That is the con working exactly as designed.
 
 The protection is simpler than the fear. An operator who avoids a permit, refuses to put the scope in writing, and cannot produce a verifiable license is telling you, before the first wrench turns, how the job is going to end. Those three papers, a pulled permit, a written scope, and a checkable license, are the shield against nearly every common plumbing con. Call it the permit-and-paper shield: the honest plumber welcomes all three because they protect the work, and the scammer resists all three because they expose the play. This guide walks the cons one by one, shows the tell that exposes each, hands you the paperwork realities that back you up, and lays out the recourse ladder for when a job has already gone wrong. The goal is not to make you distrust every plumber who rings your doorbell. It is to make a high-pressure upsell or a phantom problem obvious the moment it starts.
 
-![Plumbing scams and how to avoid them, a homeowner's guide to cons, contracts, permits and recourse - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Plumbing scams and how to avoid them, a homeowner's guide to cons, contracts, permits and recourse - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 ## How plumbing scams actually work
 

@@ -6,15 +6,15 @@ date: 2026-03-21
 categories: ["Industry"]
 tags: ["Poland Security", "Defense Policy", "Military Analysis", "Eastern Flank", "NATO", "Geopolitics"]
 excerpt: "Can Poland afford its defense spending? A fiscal analysis of the sticker price, the sustainment tail, and whether the military buildup can be sustained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-03-21
+lang: en
 ---
-
 The question of whether Poland can afford its defense spending is usually answered with the wrong number. Analysts reach for the headline share of national output devoted to the military, or the eye-catching total of signed procurement contracts, and treat that figure as the verdict. It is not the verdict. It is the down payment. Poland's defense spending commits the country to a stream of obligations that stretch across the working life of every system it buys, and affordability is settled not at the moment of signature but years later, when the bills for fuel, spare parts, ammunition, trained crews, and the facilities to house them all come due at once and every year thereafter. A country can sign contracts it cannot ultimately keep. The affordability question is really a question about whether the whole flow can be maintained, not whether the first payment can be made.
 
-![Poland defense spending affordability and the sustainment tail of the military buildup, a fiscal analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Poland defense spending affordability and the sustainment tail of the military buildup, a fiscal analysis - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 This is an economic assessment, not a political one and not financial advice. It holds the buildup to a single test: is the fiscal path durable, or is it a surge that the underlying economy and public finances cannot carry across the years the deterrent needs to exist? That test cuts against two comfortable and opposite errors. One says that any spending share this high must be unsustainable by definition, a fiscal overreach that will collapse under its own weight. The other says that security is priceless, that a country facing a serious threat simply pays whatever it takes, and that cost is therefore beside the point. Both are wrong in the same way: they skip the actual arithmetic. The honest answer lives between them, and it depends on variables that can be named, weighed, and watched over time.
 

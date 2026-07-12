@@ -6,17 +6,17 @@ date: 2026-04-21
 categories: ["Industry"]
 tags: ["Poland Security", "Air Defense", "Polish Military", "NATO", "Military Analysis", "Eastern Flank"]
 excerpt: "Poland's air defense is a layered shield from Patriot to Pilica, and its real strength is magazine depth and integration, not one interceptor's reach."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2026-04-21
+lang: en
 ---
-
 Ask a single question about Poland's air defense and you learn more than any system catalog can teach: not which interceptor flies farthest, but whether the shield can keep intercepting when the sky fills with threats faster than the launchers can answer. That is the decision-relevant question, and it is the one most coverage skips. The public conversation fixates on the marquee interceptor, the long-range missile with the impressive reach, as though buying it settles the matter. It does not. A modern air and missile threat arrives mixed and arrives in volume, and a shield is judged by what its layers achieve together under that pressure, not by the specification sheet of its best component.
 
 This is a capability assessment of the layered architecture the Polish military is assembling, held to what the layers accomplish as a system rather than to a parade of hardware. The aim is to leave a reader able to read a shield the way an analyst does: as tiers plus magazine plus the network that binds them, with the honest limits named. Poland is building toward one of the more ambitious integrated air-defense programs in Europe, and the ambition is real. So are the constraints. Both belong in the same assessment, because a shield described only by its strengths is a brochure, and a shield described only by its gaps is a smear. The professional reading sits between, and it is more useful than either.
 
-![Poland's air defense from Patriot to Pilica, a layered shield capability analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Poland's air defense from Patriot to Pilica, a layered shield capability analysis - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The short version, stated plainly before the detail: Poland is fielding a tiered shield that pairs long-range interceptors against ballistic and high-value aerodynamic threats with short-range systems against lower and cheaper ones, all meant to be tied together by a common command network so that any sensor can cue any shooter. The layers are sound in concept. The binding constraints are two, and they are the constraints on every real shield: how many intercepts the system can sustain before the ready rounds run out, and how well the pieces actually talk to one another under load. Everything else in this assessment elaborates those two constraints.
 

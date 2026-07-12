@@ -6,17 +6,17 @@ date: 2001-06-01
 categories: ["Industry"]
 tags: ["Home Services", "Plumbing", "Emergency", "Warning Signs", "DIY", "Consumer Protection"]
 excerpt: "In a plumbing emergency, shut the water off first, contain the damage, and know when to call so a burst pipe stays an inconvenience, not a flooded floor."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2001-06-01
+lang: en
 ---
-
 When you are standing in water that should not be there, the single most useful thing you can do in the first sixty seconds of a plumbing emergency is stop more water from arriving. Not call anyone. Not photograph it. Not run for towels. Shut the water off, because every minute the supply keeps feeding the problem is a minute of soaked drywall, warped flooring, and a repair bill climbing toward the ceiling. This guide walks the actions in the order a person under stress actually needs them, from the first shutoff to the moment help arrives, so a burst line or an overflowing fixture stays an inconvenience instead of becoming the story you tell about the year your first floor came apart.
 
 A plumbing emergency rewards preparation you did before it started and punishes hesitation once it has. The reader who already knows where the main valve lives handles a burst pipe in under a minute. The reader who has never looked spends that same minute wading around a utility closet with a flashlight while the water finds the electronics. The difference is not skill or strength. It is a two-minute walk around the house on a calm afternoon, and it is the whole reason this article opens on the shutoff rather than on the phone.
 
-![Plumbing emergency shutoff and containment steps](/assets/images/blog/blog-01.webp)
+![Plumbing emergency shutoff and containment steps](/assets/images/blog/blog-82.webp)
 
 ## Shut the water off first, and know where before you need to
 

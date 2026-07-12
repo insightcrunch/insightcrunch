@@ -6,15 +6,15 @@ date: 2001-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Pyramids", "Religion", "Pharaohs", "Ancient Egypt"]
 excerpt: "The Egyptian afterlife turned pyramids into resurrection machines for the divine king, and this guide maps the ka, the ba, and the Pyramid Texts behind them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2001-05-01
+lang: en
 ---
-
 Stand at the base of a pyramid and the first question most people ask is how the stones went up. The better question, the one the builders themselves would have recognized, is why they went up at all. The Egyptian afterlife is the answer. A pyramid was never a warehouse for a dead body and a pile of treasure. It was a machine built to do a specific job: to take a dead king and turn him into a living, transfigured spirit who would rise, join the circuit of the sun and the stars, and keep the whole ordered world running from the other side of death. The pyramid was theology rendered in limestone. Understand what the Old Kingdom believed about death, about the parts of the human being, and about the fate of a divine king, and the entire funerary program stops looking like extravagance and starts looking like the most rational construction project a state with those beliefs could possibly undertake.
 
-![The Egyptian afterlife explained, the ka, the ba, and the Pyramid Texts behind Old Kingdom pyramids - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Egyptian afterlife explained, the ka, the ba, and the Pyramid Texts behind Old Kingdom pyramids - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 This is the belief system that produced the monuments, and it explains why the Old Kingdom bent so much of its labor, grain, and administrative genius toward the horizon of the dead. The beliefs came first. The stone followed. Everything that a reader finds impressive about the pyramid age, the scale of the quarrying, the precision of the alignments, the organization of tens of thousands of workers, was set in motion by an idea about what happens to a king when he stops breathing. That idea is the real subject here, and it is older, stranger, and more coherent than the tourist-poster version of Egypt suggests. The pyramid age was, above all, an age of a particular certainty about death, and the certainty was the engine.
 
