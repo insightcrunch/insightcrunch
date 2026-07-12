@@ -6,15 +6,15 @@ date: 2001-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Pyramids", "Archaeology", "Historiography", "Pharaohs"]
 excerpt: "Who really built the pyramids of Egypt? Not slaves, Hebrews, or aliens, but an organized, well-fed Egyptian workforce, and the evidence now settles it."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 62
-author: "rachel-foster"
+author: "Insight Crunch Team"
 last_updated: 2001-03-01
-lang: en
 ---
+
 Ask who really built the pyramids of Egypt and you will get four very different answers, depending on whom you ask. One camp, drawn from Sunday-school memory and a century of film, says slaves. Another, reading the Book of Exodus into the desert, says the enslaved Hebrews. A loud third, fed by television and social media, says visitors from another world, on the reasoning that no early society could stack that much stone. Then there are the archaeologists who have spent decades digging at Giza, and they say something the first three groups rarely hear: the pyramids were built by Egyptians, organized into named work gangs, housed in a purpose-built town, fed on bread, beer, fish, and beef, treated by physicians when they broke a leg, and buried in their own cemetery within sight of the monuments they raised. This article settles the question and shows why the evidence lands where it does.
 
-![Who really built the pyramids of Egypt, the slave myth corrected with the workers town evidence - Insight Crunch](/assets/images/blog/blog-39.webp)
+![Who really built the pyramids of Egypt, the slave myth corrected with the workers town evidence - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 The disagreement is worth taking seriously rather than mocking, because the popular answers are not stupid. They are old, they are emotionally satisfying, and for centuries there was genuinely little hard evidence to replace them with. The slave story reaches back to the Greek historian Herodotus, who visited Egypt roughly two thousand years after the Giza pyramids were finished and wrote down what his guides told him. The Hebrew story rests on a sincere reading of scripture that generations of readers were taught in childhood. Even the alien story, silly as it is, grows from a real intuition that the scale of the Great Pyramid feels impossible. What has changed is that the ground at Giza has been excavated, the workers' own settlement has been found, their bones have been studied, and their painted gang names still survive on the stones. The question is no longer a matter of opinion against opinion. There is a verdict, and it is defensible.
 
