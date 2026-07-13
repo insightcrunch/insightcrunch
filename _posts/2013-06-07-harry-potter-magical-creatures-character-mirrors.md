@@ -9,7 +9,7 @@ excerpt: "How the magical creatures of Harry Potter mirror their human counterpa
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 57
 author: "sarah-mitchell"
-last_updated: 2013-06-07
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Shadow Bestiary

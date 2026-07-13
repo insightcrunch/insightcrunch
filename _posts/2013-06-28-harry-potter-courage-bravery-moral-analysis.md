@@ -9,7 +9,7 @@ excerpt: "Courage in Harry Potter, reframed: why charging Gryffindor bravery is 
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 57
 author: "claire-bennett"
-last_updated: 2013-06-28
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Lion Is a Decoy

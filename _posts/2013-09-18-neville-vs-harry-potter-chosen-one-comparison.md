@@ -9,7 +9,7 @@ excerpt: "Neville vs Harry in Harry Potter: the prophecy could have chosen eithe
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 42
 author: "megan-clark"
-last_updated: 2013-09-18
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: Two Boys Born at the End of July

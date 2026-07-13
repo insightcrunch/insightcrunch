@@ -9,7 +9,7 @@ excerpt: "How It Happened One Night built the romantic comedy out of antagonism 
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2014-09-15
+last_updated: 2026-07-13
 lang: en
 ---
 Most great romances on screen are built out of attraction. Two people see each other, want each other, and the story arranges the obstacles that keep them apart until the last reel. It Happened One Night does something stranger and far more durable. It builds its romance out of irritation. Peter Warne and Ellie Andrews do not fall for each other across a crowded room; they get stuck together against their will, and the friction of being trapped in close quarters is the entire generator of feeling. Frank Capra and his screenwriter Robert Riskin took two people who would never have chosen one another, locked them into a forced journey, and let the bickering do the work that a courtship would normally do. That single decision, romance as a byproduct of conflict rather than the product of desire, is the structural invention every later bickering-couple comedy still runs on.

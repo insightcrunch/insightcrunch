@@ -9,7 +9,7 @@ excerpt: "The pyramid builders were a housed, fed, and cared-for workforce, not 
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2001-06-01
+last_updated: 2026-07-13
 lang: en
 ---
 For most of the last two centuries the pyramid builders lived in the popular imagination as a single image: ranks of chained men dragging stone under the whip, an overseer's lash falling across bare backs, a god-king watching from a throne while thousands died to raise his tomb. It is a powerful picture, and it is almost entirely wrong. The men and women who built the pyramids of Giza left behind two things that a movie set never shows: the village where they slept and ate, and the cemetery where they were buried. Both were dug out of the Giza plateau by modern excavation, and both tell a story that overturns the whip-and-chains cliche at nearly every point.

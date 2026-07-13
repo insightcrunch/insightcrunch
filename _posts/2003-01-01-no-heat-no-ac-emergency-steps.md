@@ -9,7 +9,7 @@ excerpt: "No heat or no AC emergency? Rule out gas and carbon monoxide first, ru
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2003-01-01
+last_updated: 2026-07-13
 lang: en
 ---
 When the furnace dies in a cold snap or the air conditioner quits in a heat wave, the household turns to you and the clock feels like it is running. A no heat or no AC emergency is one of the few home problems where the temptation to grab a phone and dial the first flashing number is strongest, and where that instinct costs the most. The advice that follows is built around a single sequence, ordered the way a stressed person actually needs it: rule out the one genuinely dangerous problem, run the handful of checks that fix most false alarms, keep the people in the house safe while you arrange help, decide whether this is a call-now or a wait-until-morning problem, and only then reach for a technician, on your terms rather than the after-hours market's.

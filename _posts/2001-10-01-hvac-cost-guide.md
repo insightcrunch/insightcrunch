@@ -9,7 +9,7 @@ excerpt: "HVAC cost swings from a small service call to a full system install, s
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 68
 author: "marcus-hall"
-last_updated: 2001-10-01
+last_updated: 2026-07-13
 lang: en
 ---
 The single most useful thing to understand about HVAC cost is that the words "HVAC repair" describe four completely different transactions wearing the same coat, and the person quoting you is counting on you not knowing which one you are actually buying. A diagnostic visit to tell you why the unit is short-cycling is one job. Swapping a failed capacitor or a bad contactor is a second. A seasonal tune-up that cleans coils and checks pressures is a third. And a full system replacement, where a crew pulls the old equipment, sets a new condenser and air handler, ties in the refrigerant lines, and fires the whole thing up, is a fourth that can cost fifty times what the first one does. When a homeowner hears a number and panics, it is almost always because those four jobs have been blurred together in the pitch, and a repairable unit has been quietly reframed as a replacement. This guide separates them, ranges each honestly, names the drivers that move the number, and hands you the questions that expose a padded or scare-tactic quote before you sign anything.

@@ -9,7 +9,7 @@ excerpt: "DIY plumbing saves real money on small jobs and costs far more when a 
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 60
 author: "abigail-cooper"
-last_updated: 2000-09-01
+last_updated: 2026-07-13
 lang: en
 ---
 Every plumbing job you face sits on one side of a single line, and the whole question of whether to reach for a wrench or reach for the phone comes down to finding that line and respecting it. DIY plumbing is not one decision but a hundred small ones, and the internet flattens all of them into the same cheerful message: you can do this yourself, here is a five-minute video, save the labor. Some of that is true. A fair number of plumbing tasks really are a calm Saturday job for a careful homeowner with a basic tool kit and no special training. The trouble is that the same confident tone gets applied to jobs that can flood a finished floor, poison the air with sewer gas, feed a gas leak, or quietly void your homeowner coverage, and the videos rarely pause to say which is which. This guide draws the line for you, by law, by risk, and by money, and it is honest about the part the how-to channels skip, which is that a cheap-looking do-it-yourself repair can turn into the most expensive mistake in the house when it goes wrong behind a wall or under a floor.

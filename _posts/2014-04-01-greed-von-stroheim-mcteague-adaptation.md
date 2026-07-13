@@ -9,7 +9,7 @@ excerpt: "Greed (1924) followed Frank Norris's McTeague almost page for page unt
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2014-04-01
+last_updated: 2026-07-13
 lang: en
 ---
 The central decision behind Greed was not a decision to adapt a novel. It was a decision not to adapt one, in the editorial sense of the word, and to transcribe it instead. When Erich von Stroheim set out to put Frank Norris's 1899 novel McTeague on the screen in the early 1920s, he did not ask which scenes to keep and which to lose. He filmed nearly the whole book, chapter by chapter, in the actual places Norris had described, and the result was a first assembly cut that ran somewhere close to nine hours. The studio that inherited the picture cut it to roughly two hours and destroyed the rest. That collision between an author's idea of completeness and an industry's idea of a marketable length is the real subject worth studying here, because it exposes something true about adaptation that a faithful, well-behaved literary film would have hidden.

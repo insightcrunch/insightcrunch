@@ -9,7 +9,7 @@ excerpt: "Yosemite on a budget comes down to two levers: where you sleep and wha
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 68
 author: "amit-chatterjee"
-last_updated: 2014-08-01
+last_updated: 2026-07-13
 lang: en
 ---
 A week in Yosemite can cost a couple a small fortune or a modest sum, and the gap between those two outcomes is decided by a handful of choices you make before you ever reach the gate. Doing Yosemite on a budget is not about scrimping on the granite walls and waterfalls that drew you here, because those cost nothing once you are inside. It is about understanding that the price of the trip lives almost entirely in two places: the bed you sleep in and the food you put in your mouth. Get those two levers right and a Yosemite visit lands in the reach of an ordinary traveler. Get them wrong and the same itinerary doubles, with the granite looking exactly the same either way.

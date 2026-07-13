@@ -9,7 +9,7 @@ excerpt: "The Middle Kingdom of Egypt, circa 2055 to 1650 BCE, rebuilt a unified
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 78
 author: "amanda-ross"
-last_updated: 2001-09-01
+last_updated: 2026-07-13
 lang: en
 ---
 The Middle Kingdom of Egypt is the era that historians reach for when they want to show that a civilization can be broken and then consciously put back together. After the pyramid age fractured and the country split into rival power centers, a line of southern kings pulled the two halves of the land back into one state and then set about rebuilding the machinery of rule, the arts, and the written word from the ground up. The result, running from roughly 2055 to 1650 BCE, was not a copy of the age that had produced Giza. It was something more reflective, more literary, and in several respects more sophisticated than the state it replaced. To understand this period is to understand how the culture that later ages treated as timeless actually thought hard about its own recovery and left the record of that thinking in stone, on papyrus, and in the shape of its institutions.

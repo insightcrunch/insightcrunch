@@ -9,7 +9,7 @@ excerpt: "Yosemite waterfalls run on a snowmelt clock, so timing decides everyth
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
 author: "amit-chatterjee"
-last_updated: 2014-09-01
+last_updated: 2026-07-13
 lang: en
 ---
 The single most important thing to understand about Yosemite waterfalls is that they are not a fixed attraction you can see on demand. They run on a meltwater schedule, swelling to a roar in late spring and shrinking, in some cases to a dark stain on the granite, by late summer. A traveler who arrives in May to a thundering Yosemite Falls and a traveler who arrives in late August to a silent cliff are looking at the same wall of rock and a completely different experience. The cataracts of Yosemite Valley are a timing decision before they are a sightseeing one, and the whole craft of seeing them well comes down to matching your visit to the water.

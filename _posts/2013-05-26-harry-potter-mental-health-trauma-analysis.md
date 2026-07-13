@@ -9,7 +9,7 @@ excerpt: "Mental health and trauma in Harry Potter, read through PTSD, the Demen
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-05-26
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Case Study Hiding Inside the Fairy Tale

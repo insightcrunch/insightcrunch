@@ -10,7 +10,7 @@ excerpt: "How Walt Disney gambled his entire studio on Snow White and the Seven 
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2014-07-15
+last_updated: 2026-07-13
 lang: en
 ---
 The most instructive thing about Snow White and the Seven Dwarfs is not what appears on the screen but what had to be wagered to put it there. By the middle of the 1930s the received wisdom inside Hollywood held a clear shape: a drawn cartoon was a delightful seven-minute warm-up before the main attraction, a thing of squash and stretch and gag timing, and no paying crowd would ever sit still for a feature-length one. Walt Disney bet his company, his house, and his reputation against that wisdom, and the bet is the reason the film matters as a piece of industrial history rather than only as a fairy tale. Understanding how the picture was built, and what each technical and financial gamble solved, explains the work far better than any account of its plot, and it clears away a myth that has clung to it for generations.

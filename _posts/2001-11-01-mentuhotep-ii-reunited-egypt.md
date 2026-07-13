@@ -9,7 +9,7 @@ excerpt: "Mentuhotep II of Thebes crushed the Herakleopolitan kings, reunited al
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2001-11-01
+last_updated: 2026-07-13
 lang: en
 ---
 For more than a century Egypt had no single king. Two rival lines ruled two halves of a fractured country, one from Herakleopolis in the north and one from Thebes in the south, and the border between them ran as a moving line of raids, alliances, and contested cemeteries. The ruler who ended that division was Mentuhotep II, a Theban king of the Eleventh Dynasty who defeated his northern rivals, brought the whole Nile valley under one crown around 2055 BCE, and opened the era later historians call the Middle Kingdom. The question this article settles is not whether he reunified Egypt, which the evidence supports, but what kind of reunification it was: a restoration of the old order, or the founding of a new state that only wore the old order's clothes.

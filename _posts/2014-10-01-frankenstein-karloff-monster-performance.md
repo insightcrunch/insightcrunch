@@ -9,7 +9,7 @@ excerpt: "How Boris Karloff turned the Monster in Frankenstein into a tragic fig
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2014-10-01
+last_updated: 2026-07-13
 lang: en
 ---
 A character who never speaks a coherent sentence became the most recognizable face in horror, and the reason is not the makeup, though the makeup is unforgettable. The reason is what an actor did underneath it. The central puzzle of Frankenstein, James Whale's 1931 Universal production, is how a creature assembled from corpses and denied language acquires an interior life so legible that audiences pity him before they fear him. The film hands its leading performer no monologue, no confession, no plea. It gives him a flat skull, two neck electrodes, eyes weighted half shut, a body that moves as if it is learning the idea of movement, and roughly seventy minutes to make all of that mean something. Boris Karloff, billed in the opening credits as a question mark, answered with a performance that relocated the entire emotional center of the horror film.

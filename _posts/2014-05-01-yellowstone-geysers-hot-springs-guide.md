@@ -3,7 +3,7 @@ layout: post
 title: "Yellowstone Geysers and Hot Springs Explained"
 page_title: "Yellowstone Geysers and Hot Springs: Complete Guide to Geothermal Features, Grand Prismatic and Old Faithful"
 date: 2014-05-01
-last_updated: 2014-05-01
+last_updated: 2026-07-13
 categories: ["Travel"]
 tags: ["USA Travel", "Yellowstone", "National Parks", "Outdoors", "Hiking", "Family Travel"]
 excerpt: "Yellowstone geysers and hot springs explained: the four feature types, where to see Grand Prismatic and Old Faithful, the best timing, and the safety rules."

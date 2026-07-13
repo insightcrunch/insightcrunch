@@ -9,7 +9,7 @@ excerpt: "Snape, Voldemort, and Harry are half-bloods in Harry Potter, and how e
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 58
 author: "victoria-stone"
-last_updated: 2013-06-23
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Three Men Who Were Both and Neither

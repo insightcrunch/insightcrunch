@@ -9,7 +9,7 @@ excerpt: "Every animal in Harry Potter is a character in miniature: how Hedwig, 
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 57
 author: "victoria-stone"
-last_updated: 2013-07-25
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Creature in the Room

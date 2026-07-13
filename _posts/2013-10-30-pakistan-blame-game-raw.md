@@ -9,7 +9,7 @@ excerpt: "Analyzing Pakistan's shifting official allegations against RAW for the
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "ryan-walsh"
-last_updated: 2013-10-30
+last_updated: 2026-07-13
 lang: en
 ---
 Pakistan's counter-narrative on the targeted killings of India's most-wanted terrorists on its soil has shifted four times in four years, from denial that the killings mattered, to attribution to internal feuds, to formal allegations against India's Research and Analysis Wing with claimed credible evidence, to weaponizing those allegations for international sympathy, and each shift tracked Pakistan's diminishing ability to pretend the killings were not happening.

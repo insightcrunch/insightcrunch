@@ -9,7 +9,7 @@ excerpt: "The Great Dictator and To Be or Not to Be both fought fascism with com
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2015-02-01
+last_updated: 2026-07-13
 lang: en
 ---
 Two comedians stood at the same crossroads within two years of each other and chose opposite roads. Charlie Chaplin looked at Adolf Hitler and decided the only honest response was to stop the joke entirely, walk to the front of the screen, and plead with the audience as a human being. Ernst Lubitsch looked at the same horror and decided the only honest response was never to break the joke at all, to let a farce about a vain Polish actor carry the weight of an occupation that the laughter never quite acknowledges out loud. The Great Dictator (1940) and To Be or Not to Be (1942) are the two films that frame the hardest question popular cinema has ever asked of itself: whether, and how, comedy can confront fascism without either trivializing the dead or retreating into sermon. They answer that question in incompatible ways, and the disagreement between them has never been settled because both answers are partly right.

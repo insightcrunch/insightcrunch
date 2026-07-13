@@ -9,7 +9,7 @@ excerpt: "HVAC scams run on fear and urgency. Learn the signature cons, the seco
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
 author: "andrew-price"
-last_updated: 2002-11-01
+last_updated: 2026-07-13
 lang: en
 ---
 The costliest sentence an HVAC technician can say to a homeowner is short: your heat exchanger is cracked, and it is not safe to run this furnace. Said with a serious face, sometimes with a phone photo of a dark smudge that could be anything, that one line has sold more unnecessary furnace replacements than any brochure ever printed. It works because it fuses two powerful triggers, money and safety, and it arrives at the exact moment a household is least able to push back: the heat is out, the house is cold, and a stranger in a uniform is holding what looks like proof. Most HVAC scams follow that same shape. They manufacture urgency, they wrap an upsell in a safety warning, and they count on the fact that almost nobody gets a second look before signing. This guide takes those plays apart one at a time, shows the tell that exposes each, and hands you the paperwork and the recourse that turn a scared homeowner into a hard target.

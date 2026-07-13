@@ -9,7 +9,7 @@ excerpt: "Choosing an HVAC system means sizing it with a load calculation, then 
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "gregory-marsh"
-last_updated: 2002-05-15
+last_updated: 2026-07-13
 lang: en
 ---
 The single decision that shapes every dollar and every degree of comfort in a new HVAC system is not the brand on the cabinet or the efficiency sticker in the brochure. It is the size. Choosing an HVAC system that actually keeps a house even, quiet, and affordable to run starts with a load calculation that most quotes skip, and only after the size is settled does the choice between a furnace and a heat pump, central air and a mini-split, or a standard and a high-efficiency tier begin to matter. A homeowner who reverses that order, who picks the most efficient unit on the lot and lets the installer match the size to the old equipment, has bought a machine that will short cycle, run humid, wear out early, and never deliver the savings the label promised. Size first, efficiency second, is the rule this guide is built around.

@@ -9,7 +9,7 @@ excerpt: "Wand lore in Harry Potter read as a theory of identity: how the wand c
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 57
 author: "victoria-stone"
-last_updated: 2013-07-30
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Object That Reads You

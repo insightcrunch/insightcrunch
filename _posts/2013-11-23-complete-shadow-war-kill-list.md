@@ -9,7 +9,7 @@ excerpt: "The definitive ranked list of every terrorist eliminated on foreign so
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2013-11-23
+last_updated: 2026-07-13
 lang: en
 ---
 Ranked by strategic impact rather than organizational seniority, the shadow war's most consequential elimination is not its most senior target. Amir Hamza survived the attempt on his life, and Shahid Latif held a mid-tier operational role within Jaish-e-Mohammed's hierarchy, yet both rank above figures with higher titles and longer tenures because their cases established precedent. Latif proved that attack masterminds can be reached inside their own mosques. Hamza proved that co-founders are not untouchable. Precedent, not rank, is the currency that reshapes deterrence, and the [campaign's broader logic](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) becomes visible only when each elimination is weighed by what it changed rather than whom it removed.

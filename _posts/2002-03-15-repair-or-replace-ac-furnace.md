@@ -9,7 +9,7 @@ excerpt: "Deciding whether to repair or replace your AC or furnace? Use the age,
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 59
 author: "gregory-marsh"
-last_updated: 2002-03-15
+last_updated: 2026-07-13
 lang: en
 ---
 Standing in front of a heating or cooling unit that has just quit, holding a technician's quote in one hand and a mental tally of what a brand-new system might run in the other, is one of the least comfortable spots a homeowner lands in. The choice to repair or replace an aging AC or furnace rarely arrives on a calm afternoon. It shows up on the coldest night of the season or during the first real heat wave, when the pressure to say yes to whatever gets the house comfortable again is at its highest and the ability to think clearly is at its lowest. That combination is exactly what turns a straightforward fix into a rushed, oversized purchase nobody needed.

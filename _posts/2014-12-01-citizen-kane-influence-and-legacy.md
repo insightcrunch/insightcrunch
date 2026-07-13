@@ -9,7 +9,7 @@ excerpt: "Citizen Kane mattered less for inventing techniques than for fusing th
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2014-12-01
+last_updated: 2026-07-13
 lang: en
 ---
 The clearest line of influence that Citizen Kane set running is not a shot or a trick but a habit of looking. Before 1941, a young filmmaker who wanted to learn how the camera could stage a whole life in depth, how a single frame could hold a foreground argument and a background betrayal at the same time, how sound could carry a story across years in a few seconds, would have had to assemble that knowledge from a dozen scattered sources across several national cinemas. After 1941, that beginner could watch one picture. The reporter stepping into the projection room under the harsh light of a newsreel, the snow globe slipping from a dead man's hand, the boy on the sled framed tiny in the window while his future is signed away in the warm room beyond him: these became reference points that a working director could point at and say, do that, study that, build from that.

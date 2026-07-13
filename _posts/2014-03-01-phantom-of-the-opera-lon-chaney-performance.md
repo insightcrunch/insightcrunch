@@ -9,7 +9,7 @@ excerpt: "How Lon Chaney built the monster of The Phantom of the Opera through s
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2014-03-01
+last_updated: 2026-07-13
 lang: en
 ---
 The performance problem at the center of The Phantom of the Opera (1925) is a problem of withholding. An actor playing a monster usually wants the monster seen, the way a comedian wants the joke heard. Lon Chaney wanted the opposite. He built a face so specific, so anatomically argued, that the entire film is engineered to keep it hidden until a single moment will detonate it, and his whole performance is a study in how a man behaves when his most important fact about himself is the thing he most needs to conceal. The mask is not a costume accessory. It is the dramatic engine. Everything Chaney does with his shoulders, his hands, his gait, and the tilt of his half-covered head exists to make the audience desperate to see what is behind the porcelain, and then to punish that desire when the cloth comes away.

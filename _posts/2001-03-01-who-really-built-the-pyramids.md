@@ -9,7 +9,7 @@ excerpt: "Who really built the pyramids of Egypt? Not slaves, Hebrews, or aliens
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 62
 author: "rachel-foster"
-last_updated: 2001-03-01
+last_updated: 2026-07-13
 lang: en
 ---
 Ask who really built the pyramids of Egypt and you will get four very different answers, depending on whom you ask. One camp, drawn from Sunday-school memory and a century of film, says slaves. Another, reading the Book of Exodus into the desert, says the enslaved Hebrews. A loud third, fed by television and social media, says visitors from another world, on the reasoning that no early society could stack that much stone. Then there are the archaeologists who have spent decades digging at Giza, and they say something the first three groups rarely hear: the pyramids were built by Egyptians, organized into named work gangs, housed in a purpose-built town, fed on bread, beer, fish, and beef, treated by physicians when they broke a leg, and buried in their own cemetery within sight of the monuments they raised. This article settles the question and shows why the evidence lands where it does.

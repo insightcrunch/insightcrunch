@@ -9,7 +9,7 @@ excerpt: "Senusret III, throne name Khakaure, pushed Egypt's Nubian frontier to 
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2001-12-01
+last_updated: 2026-07-13
 lang: en
 ---
 Ask which pharaoh represents the Middle Kingdom at its height and the answer that keeps returning is Senusret III, the Twelfth Dynasty king whose throne name was Khakaure and who reigned in round figures from about 1870 to 1831 BCE. He is the ruler under whom the reconstructed Egyptian state of the Middle Kingdom reached the furthest south it would hold for centuries, tightened its grip on the provinces, and produced a body of royal sculpture so unlike anything before it that the face of the king himself became a statement about what kingship was for. The judgment that later Egyptians, classical Greek writers, and modern Egyptologists have reached is broadly the same, though they reached it by very different routes: this was one of the most consequential reigns of the pharaonic age, and the man behind it was remembered long after his own century as the model of the conquering king.

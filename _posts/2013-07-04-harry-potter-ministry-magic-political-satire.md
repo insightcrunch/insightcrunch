@@ -9,7 +9,7 @@ excerpt: "The Ministry of Magic in Harry Potter decoded as political satire: how
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 56
 author: "claire-bennett"
-last_updated: 2013-07-04
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Coup That Required No Coup

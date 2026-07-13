@@ -3828,29 +3828,29 @@ predynastic-egypt-complete-guide:
   image: /assets/images/blog/blog-56.webp
   lang: en
 hire-a-plumber-complete-guide:
-- slug: tcs-bps-hiring-guide-and-tcs-bps-practice-questions
-  title: TCS BPS Hiring Guide and Interview Prep
-  url: /2022/03/17/tcs-bps-hiring-guide-and-tcs-bps-practice-questions/
+- slug: how-to-vet-a-plumber
+  title: How to Vet a Plumber Before You Hire
+  url: /2000/05/01/how-to-vet-a-plumber/
   category: industry
-  image: /assets/images/blog/blog-33.webp
+  image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: tcs-hiring-guide
-  title: Ultimate TCS Hiring Guide - All Paths
-  url: /2022/08/08/tcs-hiring-guide/
+- slug: plumber-cost-guide
+  title: 'Plumber Cost Guide: What You Should Pay'
+  url: /2000/03/15/plumber-cost-guide/
   category: industry
-  image: /assets/images/blog/blog-33.webp
+  image: /assets/images/blog/blog-68.webp
   lang: en
-- slug: what-months-does-amazon-hire
-  title: What months does Amazon hire?
-  url: /2010/03/24/what-months-does-amazon-hire/
+- slug: plumbing-diy-or-call-a-pro
+  title: 'Plumbing Jobs: DIY or Call a Plumber?'
+  url: /2000/09/01/plumbing-diy-or-call-a-pro/
   category: industry
   image: /assets/images/blog/blog-115.webp
   lang: en
-- slug: tcs-itis-and-itis-frequently-asked-questions
-  title: TCS iTIS and iON Platforms - FAQ Guide
-  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+- slug: plumbing-scams-how-to-avoid
+  title: Plumbing Scams and How to Avoid Them
+  url: /2001/04/15/plumbing-scams-how-to-avoid/
   category: industry
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-25.webp
   lang: en
 unification-of-ancient-egypt:
 - slug: predynastic-vs-early-dynastic-egypt
@@ -3865,17 +3865,17 @@ unification-of-ancient-egypt:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
 - slug: first-gods-of-ancient-egypt
   title: The First Gods of Ancient Egypt
   url: /2000/06/01/first-gods-of-ancient-egypt/
   category: leisure
   image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: narmer-menes-first-king-of-egypt
-  title: 'Narmer or Menes: Egypt''s First King'
-  url: /2000/03/01/narmer-menes-first-king-of-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-115.webp
   lang: en
 narmer-menes-first-king-of-egypt:
 - slug: unification-of-ancient-egypt
@@ -3883,6 +3883,12 @@ narmer-menes-first-king-of-egypt:
   url: /2000/02/01/unification-of-ancient-egypt/
   category: leisure
   image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 - slug: predynastic-vs-early-dynastic-egypt
   title: Predynastic vs Early Dynastic Egypt
@@ -3896,11 +3902,30 @@ narmer-menes-first-king-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: first-gods-of-ancient-egypt
-  title: The First Gods of Ancient Egypt
-  url: /2000/06/01/first-gods-of-ancient-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
+plumber-cost-guide:
+- slug: plumbing-scams-how-to-avoid
+  title: Plumbing Scams and How to Avoid Them
+  url: /2001/04/15/plumbing-scams-how-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: hire-a-plumber-complete-guide
+  title: 'How to Hire a Plumber: The Complete Guide'
+  url: /2000/01/15/hire-a-plumber-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: how-to-vet-a-plumber
+  title: How to Vet a Plumber Before You Hire
+  url: /2000/05/01/how-to-vet-a-plumber/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: plumbing-diy-or-call-a-pro
+  title: 'Plumbing Jobs: DIY or Call a Plumber?'
+  url: /2000/09/01/plumbing-diy-or-call-a-pro/
+  category: industry
+  image: /assets/images/blog/blog-115.webp
   lang: en
 daily-life-in-predynastic-egypt:
 - slug: how-we-know-about-predynastic-egypt
@@ -3926,6 +3951,31 @@ daily-life-in-predynastic-egypt:
   url: /2000/02/01/unification-of-ancient-egypt/
   category: leisure
   image: /assets/images/blog/blog-113.webp
+  lang: en
+how-to-vet-a-plumber:
+- slug: hire-a-plumber-complete-guide
+  title: 'How to Hire a Plumber: The Complete Guide'
+  url: /2000/01/15/hire-a-plumber-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: how-to-vet-an-hvac-contractor
+  title: How to Vet an HVAC Contractor
+  url: /2001/12/01/how-to-vet-an-hvac-contractor/
+  category: industry
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: plumber-cost-guide
+  title: 'Plumber Cost Guide: What You Should Pay'
+  url: /2000/03/15/plumber-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: plumbing-scams-how-to-avoid
+  title: Plumbing Scams and How to Avoid Them
+  url: /2001/04/15/plumbing-scams-how-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
   lang: en
 origins-of-egyptian-hieroglyphs:
 - slug: daily-life-in-predynastic-egypt
@@ -3978,6 +4028,12 @@ first-gods-of-ancient-egypt:
   image: /assets/images/blog/blog-07.webp
   lang: en
 abydos-first-royal-tombs-of-egypt:
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
 - slug: first-gods-of-ancient-egypt
   title: The First Gods of Ancient Egypt
   url: /2000/06/01/first-gods-of-ancient-egypt/
@@ -3996,11 +4052,30 @@ abydos-first-royal-tombs-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: narmer-menes-first-king-of-egypt
-  title: 'Narmer or Menes: Egypt''s First King'
-  url: /2000/03/01/narmer-menes-first-king-of-egypt/
-  category: leisure
+plumbing-warning-signs:
+- slug: hvac-warning-signs
+  title: AC and Furnace Warning Signs to Watch For
+  url: /2002/01/15/hvac-warning-signs/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: plumbing-diy-or-call-a-pro
+  title: 'Plumbing Jobs: DIY or Call a Plumber?'
+  url: /2000/09/01/plumbing-diy-or-call-a-pro/
+  category: industry
   image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: winterizing-your-plumbing
+  title: Winterizing Your Plumbing to Prevent Freezes
+  url: /2001/02/15/winterizing-your-plumbing/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: plumbing-emergency-what-to-do
+  title: 'Plumbing Emergencies: What to Do Right Now'
+  url: /2001/06/01/plumbing-emergency-what-to-do/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
   lang: en
 how-the-nile-built-egyptian-state:
 - slug: predynastic-egypt-complete-guide
@@ -4052,6 +4127,31 @@ how-we-know-about-predynastic-egypt:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+plumbing-diy-or-call-a-pro:
+- slug: hire-a-plumber-complete-guide
+  title: 'How to Hire a Plumber: The Complete Guide'
+  url: /2000/01/15/hire-a-plumber-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: winterizing-your-plumbing
+  title: Winterizing Your Plumbing to Prevent Freezes
+  url: /2001/02/15/winterizing-your-plumbing/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: plumbing-emergency-what-to-do
+  title: 'Plumbing Emergencies: What to Do Right Now'
+  url: /2001/06/01/plumbing-emergency-what-to-do/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: plumbing-scams-how-to-avoid
+  title: Plumbing Scams and How to Avoid Them
+  url: /2001/04/15/plumbing-scams-how-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
 predynastic-vs-early-dynastic-egypt:
 - slug: unification-of-ancient-egypt
   title: The Unification of Egypt Explained
@@ -4071,36 +4171,161 @@ predynastic-vs-early-dynastic-egypt:
   category: leisure
   image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: predynastic-egypt-complete-guide
-  title: 'Predynastic Egypt: The Complete Guide'
-  url: /2000/01/01/predynastic-egypt-complete-guide/
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
   category: leisure
-  image: /assets/images/blog/blog-07.webp
+  image: /assets/images/blog/blog-56.webp
   lang: en
 old-kingdom-of-egypt-complete-guide:
+- slug: how-egypt-paid-for-the-pyramids
+  title: How Egypt Paid for the Pyramids
+  url: /2001/07/01/how-egypt-paid-for-the-pyramids/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: khufu-pharaoh-of-the-great-pyramid
+  title: 'Khufu: The Pharaoh of the Great Pyramid'
+  url: /2001/02/01/khufu-pharaoh-of-the-great-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+repair-or-replace-water-heater:
+- slug: choosing-a-water-heater
+  title: 'Choosing a Water Heater: Tank vs Tankless'
+  url: /2000/12/15/choosing-a-water-heater/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: repair-or-replace-ac-furnace
+  title: Repair or Replace Your AC or Furnace?
+  url: /2002/03/15/repair-or-replace-ac-furnace/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: hvac-scams-to-avoid
+  title: HVAC Scams and Overcharging to Avoid
+  url: /2002/11/01/hvac-scams-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: plumbing-scams-how-to-avoid
+  title: Plumbing Scams and How to Avoid Them
+  url: /2001/04/15/plumbing-scams-how-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+djoser-and-the-first-pyramid:
+- slug: old-kingdom-of-egypt-complete-guide
+  title: 'The Old Kingdom of Egypt: Complete Guide'
+  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: life-of-the-pyramid-builders
+  title: The Life of the Pyramid Builders
+  url: /2001/06/01/life-of-the-pyramid-builders/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: how-great-pyramid-of-giza-was-built
+  title: How the Great Pyramid of Giza Was Built
+  url: /2001/01/01/how-great-pyramid-of-giza-was-built/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 - slug: abydos-first-royal-tombs-of-egypt
   title: Abydos and Egypt's First Royal Tombs
   url: /2000/07/01/abydos-first-royal-tombs-of-egypt/
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: unification-of-ancient-egypt
-  title: The Unification of Egypt Explained
-  url: /2000/02/01/unification-of-ancient-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-113.webp
+choosing-a-water-heater:
+- slug: repair-or-replace-water-heater
+  title: Repair or Replace Your Water Heater?
+  url: /2000/11/01/repair-or-replace-water-heater/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
   lang: en
-- slug: first-gods-of-ancient-egypt
-  title: The First Gods of Ancient Egypt
-  url: /2000/06/01/first-gods-of-ancient-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
+- slug: hvac-needs-by-climate
+  title: 'HVAC Needs by Climate: Hot, Cold and Humid'
+  url: /2002/09/01/hvac-needs-by-climate/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
   lang: en
-- slug: narmer-menes-first-king-of-egypt
-  title: 'Narmer or Menes: Egypt''s First King'
-  url: /2000/03/01/narmer-menes-first-king-of-egypt/
+- slug: choosing-an-hvac-system
+  title: 'Choosing an HVAC System: Sizing and Types'
+  url: /2002/05/15/choosing-an-hvac-system/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: plumber-cost-guide
+  title: 'Plumber Cost Guide: What You Should Pay'
+  url: /2000/03/15/plumber-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+how-great-pyramid-of-giza-was-built:
+- slug: great-sphinx-of-giza-explained
+  title: The Great Sphinx of Giza Explained
+  url: /2001/04/01/great-sphinx-of-giza-explained/
   category: leisure
-  image: /assets/images/blog/blog-115.webp
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: life-of-the-pyramid-builders
+  title: The Life of the Pyramid Builders
+  url: /2001/06/01/life-of-the-pyramid-builders/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: khufu-pharaoh-of-the-great-pyramid
+  title: 'Khufu: The Pharaoh of the Great Pyramid'
+  url: /2001/02/01/khufu-pharaoh-of-the-great-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+khufu-pharaoh-of-the-great-pyramid:
+- slug: old-kingdom-of-egypt-complete-guide
+  title: 'The Old Kingdom of Egypt: Complete Guide'
+  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: how-egypt-paid-for-the-pyramids
+  title: How Egypt Paid for the Pyramids
+  url: /2001/07/01/how-egypt-paid-for-the-pyramids/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: pyramids-death-and-the-afterlife
+  title: Pyramids, Death, and the Egyptian Afterlife
+  url: /2001/05/01/pyramids-death-and-the-afterlife/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
   lang: en
 upsc-civil-services-future:
 - slug: upsc-civil-services-complete-guide
@@ -4151,6 +4376,31 @@ upsc-post-independence-india:
   url: /2002/11/27/upsc-gs1-world-history-events-shaped-modern-world/
   category: industry
   image: /assets/images/blog/blog-55.webp
+  lang: en
+winterizing-your-plumbing:
+- slug: hvac-maintenance-schedule
+  title: HVAC Maintenance Schedule for Every Season
+  url: /2002/07/01/hvac-maintenance-schedule/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: plumbing-diy-or-call-a-pro
+  title: 'Plumbing Jobs: DIY or Call a Plumber?'
+  url: /2000/09/01/plumbing-diy-or-call-a-pro/
+  category: industry
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: plumbing-warning-signs
+  title: Plumbing Warning Signs You Should Not Ignore
+  url: /2000/07/01/plumbing-warning-signs/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: plumbing-emergency-what-to-do
+  title: 'Plumbing Emergencies: What to Do Right Now'
+  url: /2001/06/01/plumbing-emergency-what-to-do/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
   lang: en
 upsc-committees-commissions:
 - slug: upsc-prelims-polity-governance-strategy
@@ -4226,6 +4476,31 @@ upsc-map-work-guide:
   url: /2003/03/15/upsc-prelims-geography-environment-strategy/
   category: industry
   image: /assets/images/blog/blog-78.webp
+  lang: en
+who-really-built-the-pyramids:
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: great-sphinx-of-giza-explained
+  title: The Great Sphinx of Giza Explained
+  url: /2001/04/01/great-sphinx-of-giza-explained/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: old-kingdom-of-egypt-complete-guide
+  title: 'The Old Kingdom of Egypt: Complete Guide'
+  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
   lang: en
 upsc-government-reports-guide:
 - slug: upsc-mains-diagrams-flowcharts-maps
@@ -4402,6 +4677,31 @@ upsc-internal-security-guide:
   category: industry
   image: /assets/images/blog/blog-23.webp
   lang: en
+great-sphinx-of-giza-explained:
+- slug: how-great-pyramid-of-giza-was-built
+  title: How the Great Pyramid of Giza Was Built
+  url: /2001/01/01/how-great-pyramid-of-giza-was-built/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: life-of-the-pyramid-builders
+  title: The Life of the Pyramid Builders
+  url: /2001/06/01/life-of-the-pyramid-builders/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
 upsc-science-technology-guide:
 - slug: upsc-gs3-science-technology-mains-deep-dive
   title: UPSC GS3 Science and Technology Developments
@@ -4476,6 +4776,31 @@ upsc-indian-economy-guide:
   url: /2002/03/02/upsc-economics-optional-guide/
   category: industry
   image: /assets/images/blog/blog-73.webp
+  lang: en
+plumbing-scams-how-to-avoid:
+- slug: plumber-cost-guide
+  title: 'Plumber Cost Guide: What You Should Pay'
+  url: /2000/03/15/plumber-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: hire-a-plumber-complete-guide
+  title: 'How to Hire a Plumber: The Complete Guide'
+  url: /2000/01/15/hire-a-plumber-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: how-to-vet-a-plumber
+  title: How to Vet a Plumber Before You Hire
+  url: /2000/05/01/how-to-vet-a-plumber/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: hvac-scams-to-avoid
+  title: HVAC Scams and Overcharging to Avoid
+  url: /2002/11/01/hvac-scams-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
   lang: en
 upsc-world-geography-guide:
 - slug: upsc-geography-optional-paper-1
@@ -4576,6 +4901,31 @@ upsc-modern-history-guide:
   url: /2002/11/27/upsc-gs1-world-history-events-shaped-modern-world/
   category: industry
   image: /assets/images/blog/blog-55.webp
+  lang: en
+pyramids-death-and-the-afterlife:
+- slug: how-egypt-paid-for-the-pyramids
+  title: How Egypt Paid for the Pyramids
+  url: /2001/07/01/how-egypt-paid-for-the-pyramids/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: old-kingdom-of-egypt-complete-guide
+  title: 'The Old Kingdom of Egypt: Complete Guide'
+  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: khufu-pharaoh-of-the-great-pyramid
+  title: 'Khufu: The Pharaoh of the Great Pyramid'
+  url: /2001/02/01/khufu-pharaoh-of-the-great-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 upsc-indian-polity-topic-guide:
 - slug: upsc-prelims-polity-governance-strategy
@@ -4726,6 +5076,56 @@ upsc-magazine-strategy:
   url: /2002/08/20/upsc-essay-current-affairs-policy-topics/
   category: industry
   image: /assets/images/blog/blog-67.webp
+  lang: en
+life-of-the-pyramid-builders:
+- slug: how-great-pyramid-of-giza-was-built
+  title: How the Great Pyramid of Giza Was Built
+  url: /2001/01/01/how-great-pyramid-of-giza-was-built/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: great-sphinx-of-giza-explained
+  title: The Great Sphinx of Giza Explained
+  url: /2001/04/01/great-sphinx-of-giza-explained/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: old-kingdom-of-egypt-complete-guide
+  title: 'The Old Kingdom of Egypt: Complete Guide'
+  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+plumbing-emergency-what-to-do:
+- slug: plumbing-diy-or-call-a-pro
+  title: 'Plumbing Jobs: DIY or Call a Plumber?'
+  url: /2000/09/01/plumbing-diy-or-call-a-pro/
+  category: industry
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: hire-a-plumber-complete-guide
+  title: 'How to Hire a Plumber: The Complete Guide'
+  url: /2000/01/15/hire-a-plumber-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: how-to-vet-a-plumber
+  title: How to Vet a Plumber Before You Hire
+  url: /2000/05/01/how-to-vet-a-plumber/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: no-heat-no-ac-emergency-steps
+  title: 'No Heat or No AC: Emergency Steps'
+  url: /2003/01/01/no-heat-no-ac-emergency-steps/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
   lang: en
 upsc-newspaper-strategy:
 - slug: upsc-prelims-current-affairs-strategy
@@ -4901,6 +5301,31 @@ upsc-tier-2-tier-3-cities:
   url: /2001/11/05/upsc-statistics-optional/
   category: industry
   image: /assets/images/blog/blog-56.webp
+  lang: en
+how-egypt-paid-for-the-pyramids:
+- slug: old-kingdom-of-egypt-complete-guide
+  title: 'The Old Kingdom of Egypt: Complete Guide'
+  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: pyramids-death-and-the-afterlife
+  title: Pyramids, Death, and the Egyptian Afterlife
+  url: /2001/05/01/pyramids-death-and-the-afterlife/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: khufu-pharaoh-of-the-great-pyramid
+  title: 'Khufu: The Pharaoh of the Great Pyramid'
+  url: /2001/02/01/khufu-pharaoh-of-the-great-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 upsc-regional-language:
 - slug: upsc-qualifying-papers-english-indian-language
@@ -5083,6 +5508,56 @@ upsc-vs-sat-comparison:
   category: industry
   image: /assets/images/blog/blog-65.webp
   lang: en
+hire-an-hvac-contractor-guide:
+- slug: how-to-vet-an-hvac-contractor
+  title: How to Vet an HVAC Contractor
+  url: /2001/12/01/how-to-vet-an-hvac-contractor/
+  category: industry
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: how-to-vet-a-plumber
+  title: How to Vet a Plumber Before You Hire
+  url: /2000/05/01/how-to-vet-a-plumber/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: no-heat-no-ac-emergency-steps
+  title: 'No Heat or No AC: Emergency Steps'
+  url: /2003/01/01/no-heat-no-ac-emergency-steps/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: hvac-cost-guide
+  title: 'HVAC Cost Guide: Repair, Service and Install'
+  url: /2001/10/01/hvac-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+why-the-old-kingdom-collapsed:
+- slug: old-kingdom-of-egypt-complete-guide
+  title: 'The Old Kingdom of Egypt: Complete Guide'
+  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: djoser-and-the-first-pyramid
+  title: Djoser and the First Pyramid of Egypt
+  url: /2000/12/01/djoser-and-the-first-pyramid/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: unification-of-ancient-egypt
+  title: The Unification of Egypt Explained
+  url: /2000/02/01/unification-of-ancient-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: who-really-built-the-pyramids
+  title: Who Really Built the Pyramids of Egypt?
+  url: /2001/03/01/who-really-built-the-pyramids/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 upsc-vs-gaokao-comparison:
 - slug: upsc-civil-services-complete-guide
   title: The Complete Guide to UPSC Civil Services Exam
@@ -5264,6 +5739,31 @@ upsc-reserve-list:
   category: industry
   image: /assets/images/blog/blog-27.webp
   lang: en
+middle-kingdom-of-egypt-guide:
+- slug: egypt-collapse-and-reunification
+  title: Egypt's First Collapse and Reunification
+  url: /2001/10/01/egypt-collapse-and-reunification/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: senusret-iii-middle-kingdom
+  title: Senusret III and the Middle Kingdom Peak
+  url: /2001/12/01/senusret-iii-middle-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: mentuhotep-ii-reunited-egypt
+  title: 'Mentuhotep II: The King Who Reunited Egypt'
+  url: /2001/11/01/mentuhotep-ii-reunited-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
 ips-ifs-irs-career-path:
 - slug: ias-ips-ifs-irs-comparison
   title: 'IAS vs IPS vs IFS vs IRS: All Civil Services Posts Explained'
@@ -5439,6 +5939,56 @@ upsc-interview-pressure-questions:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: en
+egypt-collapse-and-reunification:
+- slug: middle-kingdom-of-egypt-guide
+  title: 'The Middle Kingdom of Egypt: Complete Guide'
+  url: /2001/09/01/middle-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: senusret-iii-middle-kingdom
+  title: Senusret III and the Middle Kingdom Peak
+  url: /2001/12/01/senusret-iii-middle-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: mentuhotep-ii-reunited-egypt
+  title: 'Mentuhotep II: The King Who Reunited Egypt'
+  url: /2001/11/01/mentuhotep-ii-reunited-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+hvac-cost-guide:
+- slug: choosing-an-hvac-system
+  title: 'Choosing an HVAC System: Sizing and Types'
+  url: /2002/05/15/choosing-an-hvac-system/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: hvac-scams-to-avoid
+  title: HVAC Scams and Overcharging to Avoid
+  url: /2002/11/01/hvac-scams-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: repair-or-replace-ac-furnace
+  title: Repair or Replace Your AC or Furnace?
+  url: /2002/03/15/repair-or-replace-ac-furnace/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: hvac-needs-by-climate
+  title: 'HVAC Needs by Climate: Hot, Cold and Humid'
+  url: /2002/09/01/hvac-needs-by-climate/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 upsc-interview-boards:
 - slug: upsc-interview-complete-guide
   title: 'UPSC Interview Complete Guide: How to Score 200+'
@@ -5594,6 +6144,31 @@ upsc-interview-common-questions:
   url: /2001/09/30/upsc-interview-pressure-questions/
   category: industry
   image: /assets/images/blog/blog-55.webp
+  lang: en
+mentuhotep-ii-reunited-egypt:
+- slug: middle-kingdom-of-egypt-guide
+  title: 'The Middle Kingdom of Egypt: Complete Guide'
+  url: /2001/09/01/middle-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: egypt-collapse-and-reunification
+  title: Egypt's First Collapse and Reunification
+  url: /2001/10/01/egypt-collapse-and-reunification/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: senusret-iii-middle-kingdom
+  title: Senusret III and the Middle Kingdom Peak
+  url: /2001/12/01/senusret-iii-middle-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: old-kingdom-of-egypt-complete-guide
+  title: 'The Old Kingdom of Egypt: Complete Guide'
+  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
   lang: en
 upsc-interview-complete-guide:
 - slug: upsc-interview-marking
@@ -5769,6 +6344,56 @@ upsc-management-optional:
   url: /2002/02/12/upsc-agriculture-optional/
   category: industry
   image: /assets/images/blog/blog-14.webp
+  lang: en
+how-to-vet-an-hvac-contractor:
+- slug: hire-an-hvac-contractor-guide
+  title: 'How to Hire an HVAC Contractor: Complete Guide'
+  url: /2001/08/01/hire-an-hvac-contractor-guide/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: how-to-vet-a-plumber
+  title: How to Vet a Plumber Before You Hire
+  url: /2000/05/01/how-to-vet-a-plumber/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: no-heat-no-ac-emergency-steps
+  title: 'No Heat or No AC: Emergency Steps'
+  url: /2003/01/01/no-heat-no-ac-emergency-steps/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: hvac-scams-to-avoid
+  title: HVAC Scams and Overcharging to Avoid
+  url: /2002/11/01/hvac-scams-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+senusret-iii-middle-kingdom:
+- slug: middle-kingdom-of-egypt-guide
+  title: 'The Middle Kingdom of Egypt: Complete Guide'
+  url: /2001/09/01/middle-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: egypt-collapse-and-reunification
+  title: Egypt's First Collapse and Reunification
+  url: /2001/10/01/egypt-collapse-and-reunification/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: mentuhotep-ii-reunited-egypt
+  title: 'Mentuhotep II: The King Who Reunited Egypt'
+  url: /2001/11/01/mentuhotep-ii-reunited-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
   lang: en
 upsc-commerce-optional:
 - slug: upsc-philosophy-optional-guide
@@ -6025,6 +6650,31 @@ upsc-change-optional:
   url: /2001/12/25/upsc-optional-gs-overlap/
   category: industry
   image: /assets/images/blog/blog-66.webp
+  lang: en
+hvac-warning-signs:
+- slug: no-heat-no-ac-emergency-steps
+  title: 'No Heat or No AC: Emergency Steps'
+  url: /2003/01/01/no-heat-no-ac-emergency-steps/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: plumbing-warning-signs
+  title: Plumbing Warning Signs You Should Not Ignore
+  url: /2000/07/01/plumbing-warning-signs/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: repair-or-replace-ac-furnace
+  title: Repair or Replace Your AC or Furnace?
+  url: /2002/03/15/repair-or-replace-ac-furnace/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: how-to-vet-an-hvac-contractor
+  title: How to Vet an HVAC Contractor
+  url: /2001/12/01/how-to-vet-an-hvac-contractor/
+  category: industry
+  image: /assets/images/blog/blog-114.webp
   lang: en
 upsc-optional-answer-writing:
 - slug: upsc-statistics-optional
@@ -6356,6 +7006,31 @@ upsc-philosophy-paper-2:
   url: /2002/01/30/upsc-optional-comparison-compact-3/
   category: industry
   image: /assets/images/blog/blog-59.webp
+  lang: en
+repair-or-replace-ac-furnace:
+- slug: choosing-an-hvac-system
+  title: 'Choosing an HVAC System: Sizing and Types'
+  url: /2002/05/15/choosing-an-hvac-system/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: hvac-cost-guide
+  title: 'HVAC Cost Guide: Repair, Service and Install'
+  url: /2001/10/01/hvac-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: hvac-scams-to-avoid
+  title: HVAC Scams and Overcharging to Avoid
+  url: /2002/11/01/hvac-scams-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: hvac-needs-by-climate
+  title: 'HVAC Needs by Climate: Hot, Cold and Humid'
+  url: /2002/09/01/hvac-needs-by-climate/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
   lang: en
 upsc-philosophy-paper-1:
 - slug: upsc-philosophy-optional-guide
@@ -6707,6 +7382,31 @@ upsc-psir-optional-guide:
   category: industry
   image: /assets/images/blog/blog-78.webp
   lang: en
+choosing-an-hvac-system:
+- slug: hvac-cost-guide
+  title: 'HVAC Cost Guide: Repair, Service and Install'
+  url: /2001/10/01/hvac-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: repair-or-replace-ac-furnace
+  title: Repair or Replace Your AC or Furnace?
+  url: /2002/03/15/repair-or-replace-ac-furnace/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: hvac-scams-to-avoid
+  title: HVAC Scams and Overcharging to Avoid
+  url: /2002/11/01/hvac-scams-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: hvac-needs-by-climate
+  title: 'HVAC Needs by Climate: Hot, Cold and Humid'
+  url: /2002/09/01/hvac-needs-by-climate/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 upsc-history-optional-paper-2:
 - slug: upsc-history-optional-complete-guide
   title: UPSC Optional History Complete Guide for 300 Plus
@@ -6962,6 +7662,31 @@ upsc-mains-last-60-days-strategy:
   url: /2002/12/20/upsc-prelims-last-30-days/
   category: industry
   image: /assets/images/blog-04.webp
+  lang: en
+hvac-maintenance-schedule:
+- slug: winterizing-your-plumbing
+  title: Winterizing Your Plumbing to Prevent Freezes
+  url: /2001/02/15/winterizing-your-plumbing/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: hvac-needs-by-climate
+  title: 'HVAC Needs by Climate: Hot, Cold and Humid'
+  url: /2002/09/01/hvac-needs-by-climate/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: hvac-warning-signs
+  title: AC and Furnace Warning Signs to Watch For
+  url: /2002/01/15/hvac-warning-signs/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: plumbing-diy-or-call-a-pro
+  title: 'Plumbing Jobs: DIY or Call a Plumber?'
+  url: /2000/09/01/plumbing-diy-or-call-a-pro/
+  category: industry
+  image: /assets/images/blog/blog-115.webp
   lang: en
 upsc-mains-static-vs-dynamic-content-balance:
 - slug: upsc-essay-current-affairs-policy-topics
@@ -7331,6 +8056,31 @@ upsc-mains-essay-paper-strategy:
   category: industry
   image: /assets/images/blog/blog-97.webp
   lang: en
+hvac-needs-by-climate:
+- slug: choosing-an-hvac-system
+  title: 'Choosing an HVAC System: Sizing and Types'
+  url: /2002/05/15/choosing-an-hvac-system/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: hvac-cost-guide
+  title: 'HVAC Cost Guide: Repair, Service and Install'
+  url: /2001/10/01/hvac-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: repair-or-replace-ac-furnace
+  title: Repair or Replace Your AC or Furnace?
+  url: /2002/03/15/repair-or-replace-ac-furnace/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: hvac-maintenance-schedule
+  title: HVAC Maintenance Schedule for Every Season
+  url: /2002/07/01/hvac-maintenance-schedule/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
 upsc-gs4-case-study-answer-writing:
 - slug: upsc-gs4-public-administration-ethics-case-studies
   title: UPSC GS4 Public Administration Ethics and Case Studies
@@ -7693,6 +8443,31 @@ upsc-gs2-social-justice-welfare-schemes-vulnerable-sections:
   category: industry
   image: /assets/images/blog/blog-104.webp
   lang: en
+hvac-scams-to-avoid:
+- slug: hvac-cost-guide
+  title: 'HVAC Cost Guide: Repair, Service and Install'
+  url: /2001/10/01/hvac-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: choosing-an-hvac-system
+  title: 'Choosing an HVAC System: Sizing and Types'
+  url: /2002/05/15/choosing-an-hvac-system/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: repair-or-replace-ac-furnace
+  title: Repair or Replace Your AC or Furnace?
+  url: /2002/03/15/repair-or-replace-ac-furnace/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: plumbing-scams-how-to-avoid
+  title: Plumbing Scams and How to Avoid Them
+  url: /2001/04/15/plumbing-scams-how-to-avoid/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
 upsc-gs2-governance-transparency-accountability-egovernance:
 - slug: upsc-mains-gs2-governance-polity-constitution-ir
   title: 'UPSC Mains GS Paper 2: Governance, Polity, Constitution, IR'
@@ -8023,6 +8798,31 @@ upsc-prelims-international-relations:
   url: /2003/01/11/upsc-prelims-modern-history/
   category: industry
   image: /assets/images/blog/blog-24.webp
+  lang: en
+no-heat-no-ac-emergency-steps:
+- slug: hvac-warning-signs
+  title: AC and Furnace Warning Signs to Watch For
+  url: /2002/01/15/hvac-warning-signs/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: hire-an-hvac-contractor-guide
+  title: 'How to Hire an HVAC Contractor: Complete Guide'
+  url: /2001/08/01/hire-an-hvac-contractor-guide/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: how-to-vet-an-hvac-contractor
+  title: How to Vet an HVAC Contractor
+  url: /2001/12/01/how-to-vet-an-hvac-contractor/
+  category: industry
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: plumbing-emergency-what-to-do
+  title: 'Plumbing Emergencies: What to Do Right Now'
+  url: /2001/06/01/plumbing-emergency-what-to-do/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
   lang: en
 upsc-prelims-maps-geography:
 - slug: upsc-prelims-complete-guide
@@ -9147,6 +9947,12 @@ upsc-exam-pattern-2026:
   url: /2003/03/02/upsc-prelims-current-affairs-strategy/
   category: industry
   image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
+  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
+  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
   lang: en
 upsc-eligibility-age-attempts:
 - slug: upsc-after-30-late-start
@@ -14553,6 +15359,12 @@ racism-row-over-new-york-post:
   category: leisure
   image: /assets/images/blog/blog-73.webp
   lang: en
+- slug: new-york-1920s-gatsby
+  title: New York City in the 1920s and Gatsby
+  url: /2027/01/11/new-york-1920s-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 - slug: gangs-of-new-york-scorsese-production
   title: 'Gangs of New York: Anatomy of a Troubled Epic'
   url: /2020/05/15/gangs-of-new-york-scorsese-production/
@@ -14564,12 +15376,6 @@ racism-row-over-new-york-post:
   url: /2020/01/15/truman-show-surveillance-reality-media/
   category: leisure
   image: /assets/images/blog/blog-109.webp
-  lang: en
-- slug: tr-coal-strike-mediation-1902
-  title: 'TR and the 1902 Coal Strike: The Mediation Precedent'
-  url: /2008/07/13/tr-coal-strike-mediation-1902/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
   lang: en
 google-reader-bug-fixedhooray:
 - slug: google-shows-custom-birthday-logo-doodle-on-your-birthdays
@@ -32525,17 +33331,17 @@ alexander-the-great-life-conquests:
   category: leisure
   image: /assets/images/blog/blog-52.webp
   lang: en
+- slug: mentuhotep-ii-reunited-egypt
+  title: 'Mentuhotep II: The King Who Reunited Egypt'
+  url: /2001/11/01/mentuhotep-ii-reunited-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: ancient-egyptian-civilization-explained
   title: Ancient Egyptian Civilization Explained
   url: /2015/04/30/ancient-egyptian-civilization-explained/
   category: leisure
   image: /assets/images/blog/blog-27.webp
-  lang: en
-- slug: trench-warfare-ww1-explained
-  title: Trench Warfare in World War I Explained
-  url: /2015/11/21/trench-warfare-ww1-explained/
-  category: leisure
-  image: /assets/images/blog/blog-16.webp
   lang: en
 julius-caesar-life-assassination:
 - slug: alexander-the-great-life-conquests
@@ -32550,17 +33356,17 @@ julius-caesar-life-assassination:
   category: leisure
   image: /assets/images/blog/blog-10.webp
   lang: en
+- slug: mentuhotep-ii-reunited-egypt
+  title: 'Mentuhotep II: The King Who Reunited Egypt'
+  url: /2001/11/01/mentuhotep-ii-reunited-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: rise-and-fall-roman-empire-explained
   title: Rise and Fall of the Roman Empire Explained
   url: /2015/04/20/rise-and-fall-roman-empire-explained/
   category: leisure
   image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: cleopatra-last-pharaoh-egypt
-  title: 'Cleopatra: The Last Pharaoh of Egypt'
-  url: /2015/05/15/cleopatra-last-pharaoh-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-88.webp
   lang: en
 google-hiring-freeze-2022:
 - slug: will-google-layoff-employees
@@ -44819,29 +45625,29 @@ tcs-rehire-policy-after-resignation:
   image: /assets/images/blog/blog-35.webp
   lang: en
 russia-salisbury-poisonings:
-- slug: saudi-khashoggi-killing
-  title: Saudi Khashoggi Killing Aftermath
-  url: /2019/05/27/saudi-khashoggi-killing/
+- slug: can-russia-rebuild-for-nato-war
+  title: Can Russia Rebuild for a War With NATO?
+  url: /2026/05/21/can-russia-rebuild-for-nato-war/
   category: industry
-  image: /assets/images/blog/blog-92.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: kaliningrad-russia-dagger-in-nato (1)
-  title: 'Kaliningrad: Russia''s Dagger in NATO''s Side'
-  url: /2025/07/21/kaliningrad-russia-dagger-in-nato (1)/
+- slug: russias-war-economy-arms-output
+  title: Russia's War Economy and Arms Output
+  url: /2026/06/21/russias-war-economy-arms-output/
   category: industry
-  image: /assets/images/blog/blog-66.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: kaliningrad-russia-dagger-in-nato
-  title: 'Kaliningrad: Russia''s Dagger in NATO''s Side'
-  url: /2025/07/21/kaliningrad-russia-dagger-in-nato/
+- slug: how-fast-russia-reconstitutes-forces
+  title: How Fast Russia Can Reconstitute Forces
+  url: /2026/06/11/how-fast-russia-reconstitutes-forces/
   category: industry
   image: /assets/images/blog/blog-101.webp
   lang: en
-- slug: what-deters-russia-attacking-poland
-  title: What Deters Russia From Attacking Poland
-  url: /2025/02/11/what-deters-russia-attacking-poland/
+- slug: russias-army-after-ukraine
+  title: Russia's Army After Ukraine
+  url: /2026/06/01/russias-army-after-ukraine/
   category: industry
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-105.webp
   lang: en
 trainspotting-boyle-soundtrack:
 - slug: the-mission-morricone-greatest-score
@@ -52992,12 +53798,6 @@ tcs-bps-hiring-guide-and-tcs-bps-practice-questions:
   category: industry
   image: /assets/images/blog/blog-104.webp
   lang: en
-- slug: hire-a-plumber-complete-guide
-  title: 'How to Hire a Plumber: The Complete Guide'
-  url: /2000/01/15/hire-a-plumber-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-57.webp
-  lang: en
 romeo-and-juliet-prologue-sonnet-analysis:
 - slug: juliet-potion-soliloquy-act-four
   title: 'Juliet''s Potion Soliloquy: Fear in the Dark'
@@ -54104,17 +54904,17 @@ great-gatsby-reading-order-pacing:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: how-fitzgerald-wrote-gatsby
+  title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
+  url: /2027/03/01/how-fitzgerald-wrote-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: great-gatsby-plot-structure-map
   title: 'The Great Gatsby: Full Plot and Structure Map'
   url: /2022/01/17/great-gatsby-plot-structure-map/
   category: leisure
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: great-gatsby-chapter-7-analysis
-  title: 'Great Gatsby Chapter 7: Summary and Analysis'
-  url: /2022/10/31/great-gatsby-chapter-7-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: gatsby-tone-mood
   title: Tone and Mood in The Great Gatsby
@@ -58038,6 +58838,12 @@ great-gatsby-telephone-calls:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: how-fitzgerald-wrote-gatsby
+  title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
+  url: /2027/03/01/how-fitzgerald-wrote-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: great-gatsby-plot-structure-map
   title: 'The Great Gatsby: Full Plot and Structure Map'
   url: /2022/01/17/great-gatsby-plot-structure-map/
@@ -58049,12 +58855,6 @@ great-gatsby-telephone-calls:
   url: /2026/07/20/gatsby-catalogue-technique/
   category: leisure
   image: /assets/images/blog/blog-58.webp
-  lang: en
-- slug: great-gatsby-reading-order-pacing
-  title: The Great Gatsby Reading Order and Pacing
-  url: /2022/06/13/great-gatsby-reading-order-pacing/
-  category: leisure
-  image: /assets/images/blog/blog-15.webp
   lang: en
 gaokao-mock-exam-strategy:
 - slug: gaokao-retaking-fudu-guide
@@ -59835,11 +60635,11 @@ daisy-buchanan-victim-or-villain:
   category: leisure
   image: /assets/images/blog/blog-88.webp
   lang: en
-- slug: fitzgerald-life-shaped-gatsby
-  title: How Fitzgerald's Life Shaped The Great Gatsby
-  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
   category: leisure
-  image: /assets/images/blog/blog-96.webp
+  image: /assets/images/blog/blog-55.webp
   lang: en
 gaokao-post-exam-summer:
 - slug: gaokao-provincial-inequality
@@ -60073,6 +60873,12 @@ tom-buchanan-power-and-brutality:
   category: leisure
   image: /assets/images/blog/blog-76.webp
   lang: en
+- slug: scientific-racism-gatsby
+  title: Scientific Racism and Tom's Books
+  url: /2027/02/15/scientific-racism-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 - slug: tom-and-daisy-marriage
   title: 'Tom and Daisy: A Marriage Analyzed'
   url: /2023/11/27/tom-and-daisy-marriage/
@@ -60084,12 +60890,6 @@ tom-buchanan-power-and-brutality:
   url: /2024/02/05/gatsby-antagonist/
   category: leisure
   image: /assets/images/blog/blog-82.webp
-  lang: en
-- slug: power-control-great-gatsby
-  title: Power and Control in The Great Gatsby
-  url: /2024/09/09/power-control-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-66.webp
   lang: en
 tcs-nqt-mock-strategy:
 - slug: tcs-nqt-mock-test
@@ -60160,11 +60960,11 @@ jordan-baker-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-91.webp
   lang: en
-- slug: nick-and-jordan-romance
-  title: 'Nick and Jordan: The Subplot Romance'
-  url: /2023/12/11/nick-and-jordan-romance/
+- slug: flappers-new-woman-gatsby
+  title: Flappers and the New Woman in the 1920s
+  url: /2026/12/28/flappers-new-woman-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 gaokao-nutrition-diet-guide:
 - slug: gaokao-hunan-province-guide
@@ -60273,6 +61073,12 @@ jordan-baker-modern-woman:
   category: leisure
   image: /assets/images/blog/blog-81.webp
   lang: en
+- slug: flappers-new-woman-gatsby
+  title: Flappers and the New Woman in the 1920s
+  url: /2026/12/28/flappers-new-woman-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: real-models-for-gatsby
   title: The Real-Life Models for Jay Gatsby
   url: /2026/12/07/real-models-for-gatsby/
@@ -60284,12 +61090,6 @@ jordan-baker-modern-woman:
   url: /2026/11/09/f-scott-fitzgerald-biography/
   category: leisure
   image: /assets/images/blog/blog-70.webp
-  lang: en
-- slug: jazz-age-great-gatsby
-  title: The Jazz Age and The Great Gatsby
-  url: /2026/10/19/jazz-age-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 gaokao-chinese-language-application:
 - slug: gaokao-chinese-classical-quotes
@@ -64130,6 +64930,12 @@ infytq-preparation-complete-guide:
   category: industry
   image: /assets/images/blog/blog-75.webp
   lang: en
+- slug: tcs-itis-and-itis-frequently-asked-questions
+  title: TCS iTIS and iON Platforms - FAQ Guide
+  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
 - slug: infosys-coding-questions
   title: 'Infosys Coding Questions: Complete Programming Test Guide'
   url: /2021/08/30/infosys-coding-questions/
@@ -64141,12 +64947,6 @@ infytq-preparation-complete-guide:
   url: /2021/09/23/infosys-springboard-guide/
   category: industry
   image: /assets/images/blog/blog-18.webp
-  lang: en
-- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
-  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
-  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
-  category: industry
-  image: /assets/images/blog/blog-87.webp
   lang: en
 aks-microservices-architecture:
 - slug: configure-aks-ingress-tls
@@ -66746,11 +67546,11 @@ race-whiteness-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: gatsby-free-indirect-discourse
-  title: Free Indirect Discourse in The Great Gatsby
-  url: /2026/09/07/gatsby-free-indirect-discourse/
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
   category: leisure
-  image: /assets/images/blog/blog-03.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 solo-dining-austin:
 - slug: solo-dining-portland
@@ -67114,6 +67914,12 @@ fate-free-will-gatsby:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: zelda-fitzgerald-gatsby
   title: Zelda Fitzgerald and The Great Gatsby
   url: /2026/11/16/zelda-fitzgerald-gatsby/
@@ -67125,12 +67931,6 @@ fate-free-will-gatsby:
   url: /2024/09/23/death-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-117.webp
-  lang: en
-- slug: gatsby-flashback-chronology
-  title: Flashback and Chronology in The Great Gatsby
-  url: /2026/04/27/gatsby-flashback-chronology/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 gaokao-shanghai-guide:
 - slug: gaokao-hunan-province-guide
@@ -67232,17 +68032,17 @@ will-russia-attack-poland-risk-assessment:
   category: industry
   image: /assets/images/blog/blog-70.webp
   lang: en
+- slug: can-russia-rebuild-for-nato-war
+  title: Can Russia Rebuild for a War With NATO?
+  url: /2026/05/21/can-russia-rebuild-for-nato-war/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: warning-signs-russian-move-on-poland
   title: The Warning Signs of a Russian Move on Poland
   url: /2025/01/21/warning-signs-russian-move-on-poland/
   category: industry
   image: /assets/images/blog/blog-78.webp
-  lang: en
-- slug: tripwire-forces-eastern-flank
-  title: Tripwire Forces on NATO's Eastern Flank
-  url: /2025/12/01/tripwire-forces-eastern-flank/
-  category: industry
-  image: /assets/images/blog/blog-63.webp
   lang: en
 gaokao-beijing-guide:
 - slug: gaokao-sichuan-province-guide
@@ -67620,29 +68420,29 @@ upsc-csat-paper-2-tamil-guide:
   image: /assets/images/blog/blog-03.webp
   lang: ta
 could-russia-defeat-poland-militarily:
+- slug: poland-vs-russia-military-balance
+  title: 'Poland vs Russia: The Military Balance'
+  url: /2026/04/01/poland-vs-russia-military-balance/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: russias-army-after-ukraine
+  title: Russia's Army After Ukraine
+  url: /2026/06/01/russias-army-after-ukraine/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
 - slug: how-poland-is-preparing-for-war
   title: How Poland Is Preparing for War
   url: /2025/03/21/how-poland-is-preparing-for-war/
   category: industry
   image: /assets/images/blog/blog-03.webp
   lang: en
-- slug: warning-signs-russian-move-on-poland
-  title: The Warning Signs of a Russian Move on Poland
-  url: /2025/01/21/warning-signs-russian-move-on-poland/
+- slug: how-fast-russia-reconstitutes-forces
+  title: How Fast Russia Can Reconstitute Forces
+  url: /2026/06/11/how-fast-russia-reconstitutes-forces/
   category: industry
-  image: /assets/images/blog/blog-78.webp
-  lang: en
-- slug: why-poland-fears-russia-history
-  title: 'Why Poland Fears Russia: The Long History'
-  url: /2025/03/11/why-poland-fears-russia-history/
-  category: industry
-  image: /assets/images/blog/blog-109.webp
-  lang: en
-- slug: iskander-missiles-in-kaliningrad
-  title: Iskander Missiles in Kaliningrad
-  url: /2025/08/11/iskander-missiles-in-kaliningrad/
-  category: industry
-  image: /assets/images/blog/blog-82.webp
+  image: /assets/images/blog/blog-101.webp
   lang: en
 upsc-csat-telugu:
 - slug: upsc-prelims-gs1-telugu
@@ -67951,6 +68751,12 @@ upsc-ki-tayari-kaise-shuru-karein:
   image: /assets/images/blog/blog-01.webp
   lang: ur
 how-a-russia-poland-war-would-begin:
+- slug: can-russia-rebuild-for-nato-war
+  title: Can Russia Rebuild for a War With NATO?
+  url: /2026/05/21/can-russia-rebuild-for-nato-war/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: kaliningrad-russia-dagger-in-nato (1)
   title: 'Kaliningrad: Russia''s Dagger in NATO''s Side'
   url: /2025/07/21/kaliningrad-russia-dagger-in-nato (1)/
@@ -67968,12 +68774,6 @@ how-a-russia-poland-war-would-begin:
   url: /2025/02/11/what-deters-russia-attacking-poland/
   category: industry
   image: /assets/images/blog/blog-53.webp
-  lang: en
-- slug: how-a-kaliningrad-crisis-escalates
-  title: How a Kaliningrad Crisis Could Escalate
-  url: /2025/08/21/how-a-kaliningrad-crisis-escalates/
-  category: industry
-  image: /assets/images/blog/blog-23.webp
   lang: en
 gatsby-cars-driving-motif:
 - slug: gatsby-eyes-seeing-motif
@@ -68124,6 +68924,12 @@ assessing-odds-of-a-russian-attack:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+- slug: poland-vs-russia-military-balance
+  title: 'Poland vs Russia: The Military Balance'
+  url: /2026/04/01/poland-vs-russia-military-balance/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: what-deters-russia-attacking-poland
   title: What Deters Russia From Attacking Poland
   url: /2025/02/11/what-deters-russia-attacking-poland/
@@ -68135,12 +68941,6 @@ assessing-odds-of-a-russian-attack:
   url: /2025/10/01/the-kaliningrad-blockade-question/
   category: industry
   image: /assets/images/blog/blog-27.webp
-  lang: en
-- slug: warning-signs-russian-move-on-poland
-  title: The Warning Signs of a Russian Move on Poland
-  url: /2025/01/21/warning-signs-russian-move-on-poland/
-  category: industry
-  image: /assets/images/blog/blog-78.webp
   lang: en
 gatsby-weather-motif:
 - slug: great-gatsby-chapter-7-heat-motif
@@ -68268,29 +69068,29 @@ gatsby-lists-motif:
   image: /assets/images/blog/blog-08.webp
   lang: en
 why-poland-fears-russia-history:
-- slug: could-russia-defeat-poland-militarily
-  title: Could Russia Defeat Poland Militarily?
-  url: /2025/02/01/could-russia-defeat-poland-militarily/
+- slug: poland-vs-russia-military-balance
+  title: 'Poland vs Russia: The Military Balance'
+  url: /2026/04/01/poland-vs-russia-military-balance/
   category: industry
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: how-poland-is-preparing-for-war
-  title: How Poland Is Preparing for War
-  url: /2025/03/21/how-poland-is-preparing-for-war/
+- slug: russias-army-after-ukraine
+  title: Russia's Army After Ukraine
+  url: /2026/06/01/russias-army-after-ukraine/
   category: industry
-  image: /assets/images/blog/blog-03.webp
+  image: /assets/images/blog/blog-105.webp
   lang: en
-- slug: how-a-russia-poland-war-would-begin
-  title: How a Russia-Poland War Would Begin
-  url: /2025/02/21/how-a-russia-poland-war-would-begin/
+- slug: how-fast-russia-reconstitutes-forces
+  title: How Fast Russia Can Reconstitute Forces
+  url: /2026/06/11/how-fast-russia-reconstitutes-forces/
   category: industry
-  image: /assets/images/blog/blog-79.webp
+  image: /assets/images/blog/blog-101.webp
   lang: en
-- slug: what-deters-russia-attacking-poland
-  title: What Deters Russia From Attacking Poland
-  url: /2025/02/11/what-deters-russia-attacking-poland/
+- slug: russias-war-economy-arms-output
+  title: Russia's War Economy and Arms Output
+  url: /2026/06/21/russias-war-economy-arms-output/
   category: industry
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 ai-for-architects:
 - slug: ai-for-ux-designers
@@ -68443,29 +69243,35 @@ ai-for-journalists:
   image: /assets/images/blog/blog-74.webp
   lang: en
 how-poland-is-preparing-for-war:
+- slug: inside-polands-military-buildup
+  title: Inside Poland's Military Buildup
+  url: /2026/02/11/inside-polands-military-buildup/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: polands-defense-spending-politics
+  title: Poland's Defense Spending Politics
+  url: /2026/04/11/polands-defense-spending-politics/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: poland-vs-russia-military-balance
+  title: 'Poland vs Russia: The Military Balance'
+  url: /2026/04/01/poland-vs-russia-military-balance/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: could-russia-defeat-poland-militarily
   title: Could Russia Defeat Poland Militarily?
   url: /2025/02/01/could-russia-defeat-poland-militarily/
   category: industry
   image: /assets/images/blog/blog-58.webp
   lang: en
-- slug: would-the-us-really-fight-for-poland
-  title: Would the US Really Fight for Poland?
-  url: /2025/12/21/would-the-us-really-fight-for-poland/
+- slug: polands-arms-industry-ambitions
+  title: Poland's Arms Industry Ambitions Assessed
+  url: /2026/05/11/polands-arms-industry-ambitions/
   category: industry
-  image: /assets/images/blog/blog-35.webp
-  lang: en
-- slug: nato-forward-presence-in-poland
-  title: NATO's Forward Presence in Poland
-  url: /2026/01/21/nato-forward-presence-in-poland/
-  category: industry
-  image: /assets/images/blog/blog-70.webp
-  lang: en
-- slug: deterrence-by-denial-vs-punishment
-  title: Deterrence by Denial vs Punishment
-  url: /2025/12/11/deterrence-by-denial-vs-punishment/
-  category: industry
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-77.webp
   lang: en
 gaokao-vs-a-levels-comparison:
 - slug: gaokao-vs-iit-jee-comparison
@@ -70585,6 +71391,12 @@ kaliningrad-russia-dagger-in-nato (1):
   category: industry
   image: /assets/images/blog/blog-101.webp
   lang: en
+- slug: can-russia-rebuild-for-nato-war
+  title: Can Russia Rebuild for a War With NATO?
+  url: /2026/05/21/can-russia-rebuild-for-nato-war/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: the-kaliningrad-blockade-question
   title: The Kaliningrad Blockade Question
   url: /2025/10/01/the-kaliningrad-blockade-question/
@@ -70596,12 +71408,6 @@ kaliningrad-russia-dagger-in-nato (1):
   url: /2025/08/01/kaliningrad-a2ad-bubble-explained/
   category: industry
   image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: kaliningrad-fortress-or-vulnerability
-  title: 'Kaliningrad: Fortress or Vulnerability?'
-  url: /2025/09/21/kaliningrad-fortress-or-vulnerability/
-  category: industry
-  image: /assets/images/blog/blog-50.webp
   lang: en
 kaliningrad-russia-dagger-in-nato:
 - slug: kaliningrad-russia-dagger-in-nato (1)
@@ -70610,6 +71416,12 @@ kaliningrad-russia-dagger-in-nato:
   category: industry
   image: /assets/images/blog/blog-66.webp
   lang: en
+- slug: can-russia-rebuild-for-nato-war
+  title: Can Russia Rebuild for a War With NATO?
+  url: /2026/05/21/can-russia-rebuild-for-nato-war/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: the-kaliningrad-blockade-question
   title: The Kaliningrad Blockade Question
   url: /2025/10/01/the-kaliningrad-blockade-question/
@@ -70621,12 +71433,6 @@ kaliningrad-russia-dagger-in-nato:
   url: /2025/08/01/kaliningrad-a2ad-bubble-explained/
   category: industry
   image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: kaliningrad-fortress-or-vulnerability
-  title: 'Kaliningrad: Fortress or Vulnerability?'
-  url: /2025/09/21/kaliningrad-fortress-or-vulnerability/
-  category: industry
-  image: /assets/images/blog/blog-50.webp
   lang: en
 tcs-nqt-to-ilp-the-complete-journey-from-registration-to-training-day:
 - slug: tcs-aspire-complete-preparation-guide
@@ -71608,6 +72414,12 @@ kaliningrad-fortress-or-vulnerability:
   category: industry
   image: /assets/images/blog/blog-62.webp
   lang: en
+- slug: iskander-missiles-in-kaliningrad
+  title: Iskander Missiles in Kaliningrad
+  url: /2025/08/11/iskander-missiles-in-kaliningrad/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
 moon-stars-imagery-gatsby:
 - slug: color-blue-great-gatsby
   title: The Color Blue in The Great Gatsby
@@ -72077,6 +72889,12 @@ kaliningrad-baltic-sea-nato-lake:
   category: industry
   image: /assets/images/blog/blog-27.webp
   lang: en
+- slug: kaliningrad-russia-dagger-in-nato (1)
+  title: 'Kaliningrad: Russia''s Dagger in NATO''s Side'
+  url: /2025/07/21/kaliningrad-russia-dagger-in-nato (1)/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
 - slug: kaliningrad-russia-dagger-in-nato
   title: 'Kaliningrad: Russia''s Dagger in NATO''s Side'
   url: /2025/07/21/kaliningrad-russia-dagger-in-nato/
@@ -72088,12 +72906,6 @@ kaliningrad-baltic-sea-nato-lake:
   url: /2025/09/21/kaliningrad-fortress-or-vulnerability/
   category: industry
   image: /assets/images/blog/blog-50.webp
-  lang: en
-- slug: why-kaliningrad-exists-and-matters
-  title: Why Kaliningrad Exists and Why It Matters
-  url: /2025/09/11/why-kaliningrad-exists-and-matters/
-  category: industry
-  image: /assets/images/blog/blog-62.webp
   lang: en
 tcs-ira1-and-ira2-questions-pattern-pass-marks-how-to-clear:
 - slug: tcs-aspire-complete-preparation-guide
@@ -72270,11 +73082,11 @@ nato-article-5-would-it-hold:
   category: industry
   image: /assets/images/blog/blog-35.webp
   lang: en
-- slug: would-nato-actually-defend-poland
-  title: Would NATO Actually Defend Poland?
-  url: /2025/04/01/would-nato-actually-defend-poland/
+- slug: article-5-and-the-ghost-of-1939
+  title: Article 5 and the Ghost of 1939
+  url: /2026/02/01/article-5-and-the-ghost-of-1939/
   category: industry
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-87.webp
   lang: en
 ai-powered-note-search-vs-traditional-folders-why-semantic-wins:
 - slug: best-ai-project-management-tools
@@ -72470,11 +73282,11 @@ what-article-5-really-obligates:
   category: industry
   image: /assets/images/blog/blog-99.webp
   lang: en
-- slug: the-day-article-5-is-invoked
-  title: The Day Article 5 Is Invoked
-  url: /2025/11/21/the-day-article-5-is-invoked/
+- slug: article-5-and-the-ghost-of-1939
+  title: Article 5 and the Ghost of 1939
+  url: /2026/02/01/article-5-and-the-ghost-of-1939/
   category: industry
-  image: /assets/images/blog/blog-10.webp
+  image: /assets/images/blog/blog-87.webp
   lang: en
 best-ai-tools-real-estate:
 - slug: best-ai-tools-hr-recruiting
@@ -72895,23 +73707,23 @@ deterrence-by-denial-vs-punishment:
   category: industry
   image: /assets/images/blog/blog-77.webp
   lang: en
+- slug: polands-himars-deep-strike-power
+  title: Poland's HIMARS and Deep-Strike Power
+  url: /2026/03/11/polands-himars-deep-strike-power/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
 - slug: how-poland-is-preparing-for-war
   title: How Poland Is Preparing for War
   url: /2025/03/21/how-poland-is-preparing-for-war/
   category: industry
   image: /assets/images/blog/blog-03.webp
   lang: en
-- slug: tripwire-forces-eastern-flank
-  title: Tripwire Forces on NATO's Eastern Flank
-  url: /2025/12/01/tripwire-forces-eastern-flank/
+- slug: why-poland-bought-abrams-and-k2
+  title: Why Poland Bought Abrams and K2 Tanks
+  url: /2026/03/01/why-poland-bought-abrams-and-k2/
   category: industry
-  image: /assets/images/blog/blog-63.webp
-  lang: en
-- slug: will-russia-attack-poland-risk-assessment
-  title: Will Russia Attack Poland? A Risk Assessment
-  url: /2025/01/01/will-russia-attack-poland-risk-assessment/
-  category: industry
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-112.webp
   lang: en
 gaokao-politics-preparation-guide:
 - slug: gaokao-politics-philosophy-economics
@@ -73707,6 +74519,31 @@ gaokao-chinese-language-preparation:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: zh
+article-5-and-the-ghost-of-1939:
+- slug: nato-article-5-would-it-hold
+  title: 'NATO Article 5: Would It Hold for Poland?'
+  url: /2025/11/01/nato-article-5-would-it-hold/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: what-article-5-really-obligates
+  title: What Article 5 Really Obligates
+  url: /2025/11/11/what-article-5-really-obligates/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: would-nato-actually-defend-poland
+  title: Would NATO Actually Defend Poland?
+  url: /2025/04/01/would-nato-actually-defend-poland/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: the-day-article-5-is-invoked
+  title: The Day Article 5 Is Invoked
+  url: /2025/11/21/the-day-article-5-is-invoked/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 best-bollywood-spy-thriller-movies-ranked:
 - slug: dhurandhar-vs-bollywood-spy-thrillers
   title: Dhurandhar vs Bollywood Spy Thrillers Compared
@@ -73937,6 +74774,31 @@ top-bollywood-director-filmmaking-styles-analyzed:
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
+inside-polands-military-buildup:
+- slug: why-poland-bought-abrams-and-k2
+  title: Why Poland Bought Abrams and K2 Tanks
+  url: /2026/03/01/why-poland-bought-abrams-and-k2/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: polands-defense-spending-politics
+  title: Poland's Defense Spending Politics
+  url: /2026/04/11/polands-defense-spending-politics/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: how-poland-is-preparing-for-war
+  title: How Poland Is Preparing for War
+  url: /2025/03/21/how-poland-is-preparing-for-war/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: polands-300000-strong-army-plan
+  title: Poland's Plan for a 300,000-Strong Army
+  url: /2026/02/21/polands-300000-strong-army-plan/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 best-ai-tools-teachers:
 - slug: best-ai-tools-college-students
   title: Best AI Tools for College Students Ranked
@@ -74112,6 +74974,31 @@ best-bollywood-gangster-films-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-92.webp
   lang: en
+polands-300000-strong-army-plan:
+- slug: gaps-in-polands-modernization
+  title: The Gaps in Poland's Modernization
+  url: /2026/05/01/gaps-in-polands-modernization/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: can-poland-afford-defense-spending
+  title: Can Poland Afford Its Defense Spending?
+  url: /2026/03/21/can-poland-afford-defense-spending/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: why-poland-bought-abrams-and-k2
+  title: Why Poland Bought Abrams and K2 Tanks
+  url: /2026/03/01/why-poland-bought-abrams-and-k2/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: polands-defense-spending-politics
+  title: Poland's Defense Spending Politics
+  url: /2026/04/11/polands-defense-spending-politics/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
 gaokao-registration-process:
 - slug: gaokao-hukou-cross-province
   title: 高考户籍与异地高考政策深度解析 - 随迁子女与高考移民
@@ -74236,6 +75123,31 @@ bollywood-spy-movies-based-on-true-stories:
   url: /2026/03/25/bollywood-war-movies-complete-list-analysis/
   category: leisure
   image: /assets/images/blog/blog-43.webp
+  lang: en
+why-poland-bought-abrams-and-k2:
+- slug: inside-polands-military-buildup
+  title: Inside Poland's Military Buildup
+  url: /2026/02/11/inside-polands-military-buildup/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: gaps-in-polands-modernization
+  title: The Gaps in Poland's Modernization
+  url: /2026/05/01/gaps-in-polands-modernization/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: polands-300000-strong-army-plan
+  title: Poland's Plan for a 300,000-Strong Army
+  url: /2026/02/21/polands-300000-strong-army-plan/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: polands-defense-spending-politics
+  title: Poland's Defense Spending Politics
+  url: /2026/04/11/polands-defense-spending-politics/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
   lang: en
 gaokao-scoring-system-explained:
 - slug: gaokao-exam-pattern-format
@@ -74493,6 +75405,31 @@ gaokao-exam-pattern-format:
   category: industry
   image: /assets/images/blog/blog-24.webp
   lang: zh
+polands-himars-deep-strike-power:
+- slug: polands-defense-spending-politics
+  title: Poland's Defense Spending Politics
+  url: /2026/04/11/polands-defense-spending-politics/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: how-poland-is-preparing-for-war
+  title: How Poland Is Preparing for War
+  url: /2025/03/21/how-poland-is-preparing-for-war/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: why-poland-bought-abrams-and-k2
+  title: Why Poland Bought Abrams and K2 Tanks
+  url: /2026/03/01/why-poland-bought-abrams-and-k2/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: inside-polands-military-buildup
+  title: Inside Poland's Military Buildup
+  url: /2026/02/11/inside-polands-military-buildup/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 dhurandhar-the-revenge-alternate-endings:
 - slug: complete-analysis-dhurandhar-part-1
   title: Complete Analysis of Dhurandhar Part 1
@@ -74679,6 +75616,31 @@ best-bollywood-crime-thrillers-beyond-gangster:
   url: /2018/09/15/silence-of-the-lambs-thriller-lecter/
   category: leisure
   image: /assets/images/blog/blog-36.webp
+  lang: en
+can-poland-afford-defense-spending:
+- slug: polands-defense-spending-politics
+  title: Poland's Defense Spending Politics
+  url: /2026/04/11/polands-defense-spending-politics/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: polands-300000-strong-army-plan
+  title: Poland's Plan for a 300,000-Strong Army
+  url: /2026/02/21/polands-300000-strong-army-plan/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: how-poland-is-preparing-for-war
+  title: How Poland Is Preparing for War
+  url: /2025/03/21/how-poland-is-preparing-for-war/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: inside-polands-military-buildup
+  title: Inside Poland's Military Buildup
+  url: /2026/02/11/inside-polands-military-buildup/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
   lang: en
 complete-analysis-dhurandhar-the-revenge:
 - slug: complete-analysis-dhurandhar-part-1
@@ -74999,6 +75961,31 @@ oracle-layoffs-strategic-analysis:
   category: industry
   image: /assets/images/blog/blog-87.webp
   lang: en
+poland-vs-russia-military-balance:
+- slug: could-russia-defeat-poland-militarily
+  title: Could Russia Defeat Poland Militarily?
+  url: /2025/02/01/could-russia-defeat-poland-militarily/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: why-poland-fears-russia-history
+  title: 'Why Poland Fears Russia: The Long History'
+  url: /2025/03/11/why-poland-fears-russia-history/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: how-poland-is-preparing-for-war
+  title: How Poland Is Preparing for War
+  url: /2025/03/21/how-poland-is-preparing-for-war/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: how-fast-russia-reconstitutes-forces
+  title: How Fast Russia Can Reconstitute Forces
+  url: /2026/06/11/how-fast-russia-reconstitutes-forces/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
 sp-choudhary-aslam-character-analysis-dhurandhar:
 - slug: yalina-jamali-sara-arjun-character-analysis
   title: Yalina Jamali Character Analysis
@@ -75056,6 +76043,12 @@ us-engineer-career-guide-ai-era-2026:
   category: industry
   image: /assets/images/blog/blog-89.webp
   lang: en
+- slug: plumbing-emergency-what-to-do
+  title: 'Plumbing Emergencies: What to Do Right Now'
+  url: /2001/06/01/plumbing-emergency-what-to-do/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
 - slug: upsc-vs-ssc-cgl-pcs
   title: 'UPSC vs SSC CGL vs State PCS: Which to Target'
   url: /2001/08/16/upsc-vs-ssc-cgl-pcs/
@@ -75067,12 +76060,6 @@ us-engineer-career-guide-ai-era-2026:
   url: /2026/03/31/oracle-layoffs-article/
   category: industry
   image: /assets/images/blog/blog-28.webp
-  lang: en
-- slug: amazon-layoffs-article
-  title: Amazon Layoffs January 2026 Explained in Full
-  url: /2026/01/28/amazon-layoffs-article/
-  category: industry
-  image: /assets/images/blog/blog-87.webp
   lang: en
 dhurandhar-effect-celebrity-reactions:
 - slug: dhurandhar-the-revenge-alternate-endings
@@ -75198,6 +76185,31 @@ ajay-sanyal-character-analysis-dhurandhar:
   url: /2026/04/04/major-iqbal-character-analysis-dhurandhar/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+polands-defense-spending-politics:
+- slug: can-poland-afford-defense-spending
+  title: Can Poland Afford Its Defense Spending?
+  url: /2026/03/21/can-poland-afford-defense-spending/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: inside-polands-military-buildup
+  title: Inside Poland's Military Buildup
+  url: /2026/02/11/inside-polands-military-buildup/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: how-poland-is-preparing-for-war
+  title: How Poland Is Preparing for War
+  url: /2025/03/21/how-poland-is-preparing-for-war/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: polands-300000-strong-army-plan
+  title: Poland's Plan for a 300,000-Strong Army
+  url: /2026/02/21/polands-300000-strong-army-plan/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
   lang: en
 yalina-jamali-sara-arjun-character-analysis:
 - slug: ajay-sanyal-character-analysis-dhurandhar
@@ -75349,6 +76361,31 @@ dhurandhar-the-revenge-box-office-collection:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+polands-air-defense-patriot-pilica:
+- slug: polands-300000-strong-army-plan
+  title: Poland's Plan for a 300,000-Strong Army
+  url: /2026/02/21/polands-300000-strong-army-plan/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: why-poland-bought-abrams-and-k2
+  title: Why Poland Bought Abrams and K2 Tanks
+  url: /2026/03/01/why-poland-bought-abrams-and-k2/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: gaps-in-polands-modernization
+  title: The Gaps in Poland's Modernization
+  url: /2026/05/01/gaps-in-polands-modernization/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: can-poland-afford-defense-spending
+  title: Can Poland Afford Its Defense Spending?
+  url: /2026/03/21/can-poland-afford-defense-spending/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
 aditya-dhar-filmmaking-style-analysis:
 - slug: dhurandhar-vs-uri-surgical-strike-compared
   title: Dhurandhar vs Uri The Surgical Strike
@@ -75491,6 +76528,31 @@ dhurandhar-vs-bollywood-spy-thrillers:
   url: /2026/03/30/yrf-spy-universe-complete-guide-all-films/
   category: leisure
   image: /assets/images/blog/blog-32.webp
+  lang: en
+gaps-in-polands-modernization:
+- slug: polands-300000-strong-army-plan
+  title: Poland's Plan for a 300,000-Strong Army
+  url: /2026/02/21/polands-300000-strong-army-plan/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: why-poland-bought-abrams-and-k2
+  title: Why Poland Bought Abrams and K2 Tanks
+  url: /2026/03/01/why-poland-bought-abrams-and-k2/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: polands-defense-spending-politics
+  title: Poland's Defense Spending Politics
+  url: /2026/04/11/polands-defense-spending-politics/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: polands-air-defense-patriot-pilica
+  title: 'Poland''s Air Defense: Patriot to Pilica'
+  url: /2026/04/21/polands-air-defense-patriot-pilica/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
   lang: en
 lollapalooza-chicago-complete-guide:
 - slug: lollapalooza-and-chicago-identity
@@ -75786,17 +76848,17 @@ gatsby-dialogue-technique:
   category: leisure
   image: /assets/images/blog/blog-85.webp
   lang: en
+- slug: gatsby-free-indirect-discourse
+  title: Free Indirect Discourse in The Great Gatsby
+  url: /2026/09/07/gatsby-free-indirect-discourse/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
 - slug: gatsby-unreliable-narrator
   title: The Unreliable Narrator in The Great Gatsby
   url: /2026/01/26/gatsby-unreliable-narrator/
   category: leisure
   image: /assets/images/blog/blog-100.webp
-  lang: en
-- slug: gatsby-metaphor-simile
-  title: Metaphor and Simile in The Great Gatsby
-  url: /2026/03/09/gatsby-metaphor-simile/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
   lang: en
 lollapalooza-2026-headliners:
 - slug: lollapalooza-2026-lineup-breakdown
@@ -76521,6 +77583,31 @@ lollapalooza-ga-vs-vip-vs-platinum:
   url: /2026/06/01/lollapalooza-sustainability/
   category: leisure
   image: /assets/images/blog/blog-22.webp
+  lang: en
+polands-arms-industry-ambitions:
+- slug: how-poland-is-preparing-for-war
+  title: How Poland Is Preparing for War
+  url: /2025/03/21/how-poland-is-preparing-for-war/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: could-russia-defeat-poland-militarily
+  title: Could Russia Defeat Poland Militarily?
+  url: /2025/02/01/could-russia-defeat-poland-militarily/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: poland-vs-russia-military-balance
+  title: 'Poland vs Russia: The Military Balance'
+  url: /2026/04/01/poland-vs-russia-military-balance/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: gaps-in-polands-modernization
+  title: The Gaps in Poland's Modernization
+  url: /2026/05/01/gaps-in-polands-modernization/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
   lang: en
 lollapalooza-payment-plans:
 - slug: how-to-save-on-lollapalooza-tickets
@@ -77370,6 +78457,37 @@ how-to-save-on-lollapalooza-tickets:
   url: /2026/05/12/lollapalooza-payment-plans/
   category: leisure
   image: /assets/images/blog/blog-31.webp
+  lang: en
+can-russia-rebuild-for-nato-war:
+- slug: kaliningrad-russia-dagger-in-nato
+  title: 'Kaliningrad: Russia''s Dagger in NATO''s Side'
+  url: /2025/07/21/kaliningrad-russia-dagger-in-nato/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: russias-army-after-ukraine
+  title: Russia's Army After Ukraine
+  url: /2026/06/01/russias-army-after-ukraine/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: how-fast-russia-reconstitutes-forces
+  title: How Fast Russia Can Reconstitute Forces
+  url: /2026/06/11/how-fast-russia-reconstitutes-forces/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: will-russia-attack-poland-risk-assessment
+  title: Will Russia Attack Poland? A Risk Assessment
+  url: /2025/01/01/will-russia-attack-poland-risk-assessment/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: how-a-russia-poland-war-would-begin
+  title: How a Russia-Poland War Would Begin
+  url: /2025/02/21/how-a-russia-poland-war-would-begin/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
   lang: en
 dhurandhar-franchise-records-broken:
 - slug: why-dhurandhar-changed-bollywood-forever
@@ -78607,6 +79725,31 @@ pm-602-0199-uscis-aos-policy-memo-2026:
   category: industry
   image: /assets/images/blog/blog-18.webp
   lang: en
+russias-army-after-ukraine:
+- slug: how-fast-russia-reconstitutes-forces
+  title: How Fast Russia Can Reconstitute Forces
+  url: /2026/06/11/how-fast-russia-reconstitutes-forces/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: could-russia-defeat-poland-militarily
+  title: Could Russia Defeat Poland Militarily?
+  url: /2025/02/01/could-russia-defeat-poland-militarily/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: can-russia-rebuild-for-nato-war
+  title: Can Russia Rebuild for a War With NATO?
+  url: /2026/05/21/can-russia-rebuild-for-nato-war/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: russias-war-economy-arms-output
+  title: Russia's War Economy and Arms Output
+  url: /2026/06/21/russias-war-economy-arms-output/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 lollapalooza-activations-freebies:
 - slug: lollapalooza-experience-beyond-music
   title: The Lollapalooza Experience Beyond Music
@@ -79617,6 +80760,31 @@ lollapalooza-shaped-modern-festivals:
   url: /2026/06/09/old-vs-new-lollapalooza/
   category: leisure
   image: /assets/images/blog/blog-54.webp
+  lang: en
+how-fast-russia-reconstitutes-forces:
+- slug: russias-army-after-ukraine
+  title: Russia's Army After Ukraine
+  url: /2026/06/01/russias-army-after-ukraine/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: could-russia-defeat-poland-militarily
+  title: Could Russia Defeat Poland Militarily?
+  url: /2025/02/01/could-russia-defeat-poland-militarily/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: poland-vs-russia-military-balance
+  title: 'Poland vs Russia: The Military Balance'
+  url: /2026/04/01/poland-vs-russia-military-balance/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: can-russia-rebuild-for-nato-war
+  title: Can Russia Rebuild for a War With NATO?
+  url: /2026/05/21/can-russia-rebuild-for-nato-war/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
   lang: en
 lollapalooza-and-chicago-identity:
 - slug: lollapalooza-moved-to-grant-park
@@ -82597,6 +83765,31 @@ new-zealand-vs-egypt-preview:
   category: leisure
   image: /assets/images/blog/blog-110.webp
   lang: en
+russias-war-economy-arms-output:
+- slug: russias-army-after-ukraine
+  title: Russia's Army After Ukraine
+  url: /2026/06/01/russias-army-after-ukraine/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: how-fast-russia-reconstitutes-forces
+  title: How Fast Russia Can Reconstitute Forces
+  url: /2026/06/11/how-fast-russia-reconstitutes-forces/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: why-poland-fears-russia-history
+  title: 'Why Poland Fears Russia: The Long History'
+  url: /2025/03/11/why-poland-fears-russia-history/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: can-russia-rebuild-for-nato-war
+  title: Can Russia Rebuild for a War With NATO?
+  url: /2026/05/21/can-russia-rebuild-for-nato-war/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 spain-vs-saudi-arabia-preview:
 - slug: spain-vs-saudi-arabia-analysis
   title: Spain vs Saudi Arabia World Cup 2026 Result Analysis
@@ -85484,6 +86677,12 @@ france-vs-sweden-preview:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
+- slug: france-vs-morocco-preview
+  title: 'France vs Morocco: World Cup 2026 Quarterfinal Preview'
+  url: /2026/07/09/france-vs-morocco-preview/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 - slug: france-vs-paraguay-analysis
   title: 'France 1-0 Paraguay: World Cup 2026 Analysis'
   url: /2026/07/05/france-vs-paraguay-analysis/
@@ -85495,12 +86694,6 @@ france-vs-sweden-preview:
   url: /2026/07/04/france-vs-paraguay-preview/
   category: leisure
   image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: switzerland-vs-algeria-analysis
-  title: 'Switzerland vs Algeria: World Cup 2026 Result and Analysis'
-  url: /2026/07/03/switzerland-vs-algeria-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-57.webp
   lang: en
 germany-vs-paraguay-analysis:
 - slug: germany-vs-paraguay-preview
@@ -85721,11 +86914,11 @@ france-vs-sweden-analysis:
   category: leisure
   image: /assets/images/blog/blog-41.webp
   lang: en
-- slug: netherlands-vs-sweden-analysis
-  title: 'Netherlands vs Sweden Analysis: 5-1 World Cup 2026 Win'
-  url: /2026/06/21/netherlands-vs-sweden-analysis/
+- slug: france-vs-morocco-analysis
+  title: 'France vs Morocco: World Cup 2026 Result and Analysis'
+  url: /2026/07/10/france-vs-morocco-analysis/
   category: leisure
-  image: /assets/images/blog/blog-84.webp
+  image: /assets/images/blog/blog-67.webp
   lang: en
 h1b-fee-lawsuit-california-v-trump:
 - slug: h1b-fee-arguments-both-sides
@@ -86327,6 +87520,12 @@ canada-vs-morocco-analysis:
   category: leisure
   image: /assets/images/blog/blog-14.webp
   lang: en
+- slug: france-vs-morocco-analysis
+  title: 'France vs Morocco: World Cup 2026 Result and Analysis'
+  url: /2026/07/10/france-vs-morocco-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 - slug: netherlands-vs-morocco-analysis
   title: 'Netherlands vs Morocco: World Cup 2026 Result'
   url: /2026/06/30/netherlands-vs-morocco-analysis/
@@ -86338,12 +87537,6 @@ canada-vs-morocco-analysis:
   url: /2026/06/25/morocco-vs-haiti-analysis/
   category: leisure
   image: /assets/images/blog/blog-07.webp
-  lang: en
-- slug: south-africa-vs-canada-analysis
-  title: 'South Africa vs Canada: World Cup 2026 Analysis'
-  url: /2026/06/29/south-africa-vs-canada-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-43.webp
   lang: en
 france-vs-paraguay-analysis:
 - slug: france-vs-paraguay-preview
@@ -86751,6 +87944,56 @@ switzerland-vs-colombia-analysis:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+france-vs-morocco-preview:
+- slug: scotland-vs-morocco-preview
+  title: Scotland vs Morocco World Cup 2026 Preview
+  url: /2026/06/19/scotland-vs-morocco-preview/
+  category: leisure
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: france-vs-morocco-analysis
+  title: 'France vs Morocco: World Cup 2026 Result and Analysis'
+  url: /2026/07/10/france-vs-morocco-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: canada-vs-morocco-preview
+  title: 'Canada vs Morocco: World Cup 2026 Round of 16 Preview'
+  url: /2026/07/04/canada-vs-morocco-preview/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: france-vs-senegal-preview
+  title: 'France vs Senegal: World Cup 2026 Preview'
+  url: /2026/06/16/france-vs-senegal-preview/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+france-vs-morocco-analysis:
+- slug: canada-vs-morocco-analysis
+  title: 'Canada vs Morocco: World Cup 2026 Result and Analysis'
+  url: /2026/07/05/canada-vs-morocco-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: france-vs-senegal-analysis
+  title: 'France 3-1 Senegal: World Cup 2026 Analysis'
+  url: /2026/06/17/france-vs-senegal-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: morocco-vs-haiti-analysis
+  title: 'Morocco 4-2 Haiti: World Cup 2026 Result and Analysis'
+  url: /2026/06/25/morocco-vs-haiti-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: france-vs-sweden-analysis
+  title: 'France vs Sweden: World Cup 2026 Result and Ratings'
+  url: /2026/07/01/france-vs-sweden-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 h1b-fee-ruling-economic-stakes:
 - slug: h1b-fee-ruling-what-it-settles
   title: What the H-1B Fee Ruling Settles and Leaves Open
@@ -87002,6 +88245,12 @@ gatsby-reader-sympathy:
   image: /assets/images/blog/blog-01.webp
   lang: en
 gatsby-gaps-ellipses:
+- slug: gatsby-flashback-chronology
+  title: Flashback and Chronology in The Great Gatsby
+  url: /2026/04/27/gatsby-flashback-chronology/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 - slug: gatsby-irony
   title: 'Irony in The Great Gatsby: The Novel''s Basic Mode'
   url: /2026/03/30/gatsby-irony/
@@ -87019,12 +88268,6 @@ gatsby-gaps-ellipses:
   url: /2026/01/26/gatsby-unreliable-narrator/
   category: leisure
   image: /assets/images/blog/blog-100.webp
-  lang: en
-- slug: gatsby-repetition-technique
-  title: Repetition and Refrain in The Great Gatsby
-  url: /2026/06/01/gatsby-repetition-technique/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
   lang: en
 gatsby-suspense-technique:
 - slug: gatsby-allusion
@@ -87089,17 +88332,17 @@ gatsby-free-indirect-discourse:
   category: leisure
   image: /assets/images/blog/blog-100.webp
   lang: en
+- slug: gatsby-metaphor-simile
+  title: Metaphor and Simile in The Great Gatsby
+  url: /2026/03/09/gatsby-metaphor-simile/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
 - slug: gatsby-foreshadowing
   title: Foreshadowing in The Great Gatsby
   url: /2026/03/23/gatsby-foreshadowing/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: gatsby-diction-word-choice
-  title: Diction and Word Choice in The Great Gatsby
-  url: /2026/02/16/gatsby-diction-word-choice/
-  category: leisure
-  image: /assets/images/blog/blog-94.webp
   lang: en
 gatsby-symbolic-geography-craft:
 - slug: gatsby-setting-technique
@@ -87227,29 +88470,29 @@ gatsby-brevity-craft:
   image: /assets/images/blog/blog-42.webp
   lang: en
 jazz-age-great-gatsby:
+- slug: money-bonds-1920s-gatsby
+  title: Money, Stocks, and Bonds in the 1920s
+  url: /2027/02/22/money-bonds-1920s-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: how-fitzgerald-wrote-gatsby
+  title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
+  url: /2027/03/01/how-fitzgerald-wrote-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: zelda-fitzgerald-gatsby
   title: Zelda Fitzgerald and The Great Gatsby
   url: /2026/11/16/zelda-fitzgerald-gatsby/
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: lost-generation-great-gatsby
-  title: The Lost Generation and The Great Gatsby
-  url: /2026/12/21/lost-generation-great-gatsby/
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: fitzgerald-life-shaped-gatsby
-  title: How Fitzgerald's Life Shaped The Great Gatsby
-  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-96.webp
-  lang: en
-- slug: roaring-twenties-gatsby
-  title: The Roaring Twenties Context for Gatsby
-  url: /2026/11/02/roaring-twenties-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-60.webp
+  image: /assets/images/blog/blog-26.webp
   lang: en
 prohibition-bootlegging-gatsby:
 - slug: zelda-fitzgerald-gatsby
@@ -87258,23 +88501,29 @@ prohibition-bootlegging-gatsby:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: lost-generation-great-gatsby
   title: The Lost Generation and The Great Gatsby
   url: /2026/12/21/lost-generation-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: roaring-twenties-gatsby
-  title: The Roaring Twenties Context for Gatsby
-  url: /2026/11/02/roaring-twenties-gatsby/
+- slug: gilded-elite-1920s-gatsby
+  title: Class and the Gilded Elite of the 1920s in Gatsby
+  url: /2027/02/01/gilded-elite-1920s-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-60.webp
-  lang: en
-- slug: fitzgerald-life-shaped-gatsby
-  title: How Fitzgerald's Life Shaped The Great Gatsby
-  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-96.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
 roaring-twenties-gatsby:
 - slug: prohibition-bootlegging-gatsby
@@ -87283,25 +88532,37 @@ roaring-twenties-gatsby:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
+  category: leisure
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
 - slug: zelda-fitzgerald-gatsby
   title: Zelda Fitzgerald and The Great Gatsby
   url: /2026/11/16/zelda-fitzgerald-gatsby/
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: lost-generation-great-gatsby
-  title: The Lost Generation and The Great Gatsby
-  url: /2026/12/21/lost-generation-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: jazz-age-great-gatsby
-  title: The Jazz Age and The Great Gatsby
-  url: /2026/10/19/jazz-age-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
-  lang: en
 f-scott-fitzgerald-biography:
+- slug: gatsby-alternate-titles
+  title: The Title Fitzgerald Almost Used
+  url: /2027/04/05/gatsby-alternate-titles/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: how-fitzgerald-wrote-gatsby
+  title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
+  url: /2027/03/01/how-fitzgerald-wrote-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: fitzgerald-life-shaped-gatsby
   title: How Fitzgerald's Life Shaped The Great Gatsby
   url: /2026/11/23/fitzgerald-life-shaped-gatsby/
@@ -87313,18 +88574,6 @@ f-scott-fitzgerald-biography:
   url: /2026/09/28/gatsby-passage-of-time-craft/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: zelda-fitzgerald-gatsby
-  title: Zelda Fitzgerald and The Great Gatsby
-  url: /2026/11/16/zelda-fitzgerald-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
-  lang: en
-- slug: great-gatsby-first-time-readers
-  title: The Great Gatsby for First-Time Readers
-  url: /2022/04/25/great-gatsby-first-time-readers/
-  category: leisure
-  image: /assets/images/blog/blog-112.webp
   lang: en
 zelda-fitzgerald-gatsby:
 - slug: fitzgerald-life-shaped-gatsby
@@ -87333,48 +88582,54 @@ zelda-fitzgerald-gatsby:
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
-- slug: lost-generation-great-gatsby
-  title: The Lost Generation and The Great Gatsby
-  url: /2026/12/21/lost-generation-great-gatsby/
+- slug: how-fitzgerald-wrote-gatsby
+  title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
+  url: /2027/03/01/how-fitzgerald-wrote-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: jazz-age-great-gatsby
-  title: The Jazz Age and The Great Gatsby
-  url: /2026/10/19/jazz-age-great-gatsby/
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
-- slug: prohibition-bootlegging-gatsby
-  title: Prohibition and Bootlegging in Gatsby
-  url: /2026/10/26/prohibition-bootlegging-gatsby/
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
   category: leisure
-  image: /assets/images/blog/blog-86.webp
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: gatsby-1919-world-series
+  title: Organized Crime and the 1919 World Series in Gatsby
+  url: /2027/01/18/gatsby-1919-world-series/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
   lang: en
 fitzgerald-life-shaped-gatsby:
-- slug: zelda-fitzgerald-gatsby
-  title: Zelda Fitzgerald and The Great Gatsby
-  url: /2026/11/16/zelda-fitzgerald-gatsby/
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
   category: leisure
-  image: /assets/images/blog/blog-34.webp
+  image: /assets/images/blog/blog-26.webp
   lang: en
-- slug: f-scott-fitzgerald-biography
-  title: 'F. Scott Fitzgerald: A Life for Readers'
-  url: /2026/11/09/f-scott-fitzgerald-biography/
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
   category: leisure
-  image: /assets/images/blog/blog-70.webp
+  image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: lost-generation-great-gatsby
-  title: The Lost Generation and The Great Gatsby
-  url: /2026/12/21/lost-generation-great-gatsby/
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
-- slug: gatsby-passage-of-time-craft
-  title: How Fitzgerald Handles the Passage of Time
-  url: /2026/09/28/gatsby-passage-of-time-craft/
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-55.webp
   lang: en
 - slug: gatsby-reader-sympathy
   title: How Fitzgerald Controls Reader Sympathy
@@ -87389,6 +88644,12 @@ long-island-real-west-egg:
   category: leisure
   image: /assets/images/blog/blog-115.webp
   lang: en
+- slug: gatsby-alternate-titles
+  title: The Title Fitzgerald Almost Used
+  url: /2027/04/05/gatsby-alternate-titles/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 - slug: fitzgerald-life-shaped-gatsby
   title: How Fitzgerald's Life Shaped The Great Gatsby
   url: /2026/11/23/fitzgerald-life-shaped-gatsby/
@@ -87400,12 +88661,6 @@ long-island-real-west-egg:
   url: /2022/06/06/great-gatsby-geography-map/
   category: leisure
   image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: f-scott-fitzgerald-biography
-  title: 'F. Scott Fitzgerald: A Life for Readers'
-  url: /2026/11/09/f-scott-fitzgerald-biography/
-  category: leisure
-  image: /assets/images/blog/blog-70.webp
   lang: en
 real-models-for-gatsby:
 - slug: james-gatz-before-gatsby
@@ -87445,17 +88700,17 @@ wwi-shadow-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: zelda-fitzgerald-gatsby
-  title: Zelda Fitzgerald and The Great Gatsby
-  url: /2026/11/16/zelda-fitzgerald-gatsby/
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
   category: leisure
-  image: /assets/images/blog/blog-34.webp
+  image: /assets/images/blog/blog-26.webp
   lang: en
-- slug: fitzgerald-life-shaped-gatsby
-  title: How Fitzgerald's Life Shaped The Great Gatsby
-  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
   category: leisure
-  image: /assets/images/blog/blog-96.webp
+  image: /assets/images/blog/blog-73.webp
   lang: en
 lost-generation-great-gatsby:
 - slug: zelda-fitzgerald-gatsby
@@ -87464,15 +88719,96 @@ lost-generation-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
+  category: leisure
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+flappers-new-woman-gatsby:
+- slug: jordan-baker-modern-woman
+  title: 'Jordan Baker: The Dishonest Modern Woman'
+  url: /2023/08/07/jordan-baker-modern-woman/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: jordan-baker-character-analysis
+  title: 'Jordan Baker: A Complete Character Analysis'
+  url: /2023/07/31/jordan-baker-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 - slug: fitzgerald-life-shaped-gatsby
   title: How Fitzgerald's Life Shaped The Great Gatsby
   url: /2026/11/23/fitzgerald-life-shaped-gatsby/
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
+- slug: zelda-fitzgerald-gatsby
+  title: Zelda Fitzgerald and The Great Gatsby
+  url: /2026/11/16/zelda-fitzgerald-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: consumer-culture-1920s-gatsby
+  title: Consumer Culture and Advertising in the 1920s
+  url: /2027/01/25/consumer-culture-1920s-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+automobile-age-gatsby:
+- slug: how-fitzgerald-wrote-gatsby
+  title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
+  url: /2027/03/01/how-fitzgerald-wrote-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: gatsby-alternate-titles
+  title: The Title Fitzgerald Almost Used
+  url: /2027/04/05/gatsby-alternate-titles/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: f-scott-fitzgerald-biography
+  title: 'F. Scott Fitzgerald: A Life for Readers'
+  url: /2026/11/09/f-scott-fitzgerald-biography/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
 - slug: jazz-age-great-gatsby
   title: The Jazz Age and The Great Gatsby
   url: /2026/10/19/jazz-age-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+new-york-1920s-gatsby:
+- slug: jazz-age-great-gatsby
+  title: The Jazz Age and The Great Gatsby
+  url: /2026/10/19/jazz-age-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: money-bonds-1920s-gatsby
+  title: Money, Stocks, and Bonds in the 1920s
+  url: /2027/02/22/money-bonds-1920s-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: lost-generation-great-gatsby
+  title: The Lost Generation and The Great Gatsby
+  url: /2026/12/21/lost-generation-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
@@ -87481,4 +88817,341 @@ lost-generation-great-gatsby:
   url: /2026/10/26/prohibition-bootlegging-gatsby/
   category: leisure
   image: /assets/images/blog/blog-86.webp
+  lang: en
+gatsby-1919-world-series:
+- slug: zelda-fitzgerald-gatsby
+  title: Zelda Fitzgerald and The Great Gatsby
+  url: /2026/11/16/zelda-fitzgerald-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
+  category: leisure
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: how-fitzgerald-wrote-gatsby
+  title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
+  url: /2027/03/01/how-fitzgerald-wrote-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+consumer-culture-1920s-gatsby:
+- slug: flappers-new-woman-gatsby
+  title: Flappers and the New Woman in the 1920s
+  url: /2026/12/28/flappers-new-woman-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: lost-generation-great-gatsby
+  title: The Lost Generation and The Great Gatsby
+  url: /2026/12/21/lost-generation-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
+  category: leisure
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+gilded-elite-1920s-gatsby:
+- slug: prohibition-bootlegging-gatsby
+  title: Prohibition and Bootlegging in Gatsby
+  url: /2026/10/26/prohibition-bootlegging-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: zelda-fitzgerald-gatsby
+  title: Zelda Fitzgerald and The Great Gatsby
+  url: /2026/11/16/zelda-fitzgerald-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: flappers-new-woman-gatsby
+  title: Flappers and the New Woman in the 1920s
+  url: /2026/12/28/flappers-new-woman-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: roaring-twenties-gatsby
+  title: The Roaring Twenties Context for Gatsby
+  url: /2026/11/02/roaring-twenties-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+immigration-nativism-gatsby:
+- slug: scientific-racism-gatsby
+  title: Scientific Racism and Tom's Books
+  url: /2027/02/15/scientific-racism-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: prohibition-bootlegging-gatsby
+  title: Prohibition and Bootlegging in Gatsby
+  url: /2026/10/26/prohibition-bootlegging-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
+  category: leisure
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+scientific-racism-gatsby:
+- slug: gatsby-revival-after-wwii (1)
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii (1)/
+  category: leisure
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: immigration-nativism-gatsby
+  title: Immigration and Nativism in Gatsby's America
+  url: /2027/02/08/immigration-nativism-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+money-bonds-1920s-gatsby:
+- slug: jazz-age-great-gatsby
+  title: The Jazz Age and The Great Gatsby
+  url: /2026/10/19/jazz-age-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: new-york-1920s-gatsby
+  title: New York City in the 1920s and Gatsby
+  url: /2027/01/11/new-york-1920s-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: prohibition-bootlegging-gatsby
+  title: Prohibition and Bootlegging in Gatsby
+  url: /2026/10/26/prohibition-bootlegging-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: flappers-new-woman-gatsby
+  title: Flappers and the New Woman in the 1920s
+  url: /2026/12/28/flappers-new-woman-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+how-fitzgerald-wrote-gatsby:
+- slug: f-scott-fitzgerald-biography
+  title: 'F. Scott Fitzgerald: A Life for Readers'
+  url: /2026/11/09/f-scott-fitzgerald-biography/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: gatsby-alternate-titles
+  title: The Title Fitzgerald Almost Used
+  url: /2027/04/05/gatsby-alternate-titles/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: great-gatsby-reading-order-pacing
+  title: The Great Gatsby Reading Order and Pacing
+  url: /2022/06/13/great-gatsby-reading-order-pacing/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: automobile-age-gatsby
+  title: The Automobile Age and The Great Gatsby
+  url: /2027/01/04/automobile-age-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+gatsby-1925-publication:
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: fitzgerald-life-shaped-gatsby
+  title: How Fitzgerald's Life Shaped The Great Gatsby
+  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+why-gatsby-flopped-first:
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: fitzgerald-life-shaped-gatsby
+  title: How Fitzgerald's Life Shaped The Great Gatsby
+  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+gatsby-revival-after-wwii (1):
+- slug: gatsby-revival-after-wwii
+  title: The Great Gatsby's Revival After WWII
+  url: /2027/03/22/gatsby-revival-after-wwii/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: fitzgerald-life-shaped-gatsby
+  title: How Fitzgerald's Life Shaped The Great Gatsby
+  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+gatsby-revival-after-wwii:
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: fitzgerald-life-shaped-gatsby
+  title: How Fitzgerald's Life Shaped The Great Gatsby
+  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+maxwell-perkins-editing-gatsby:
+- slug: fitzgerald-life-shaped-gatsby
+  title: How Fitzgerald's Life Shaped The Great Gatsby
+  url: /2026/11/23/fitzgerald-life-shaped-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: scientific-racism-gatsby
+  title: Scientific Racism and Tom's Books
+  url: /2027/02/15/scientific-racism-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-lyricism
+  title: Lyricism and the Poetic Line in Gatsby
+  url: /2026/07/27/gatsby-lyricism/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+gatsby-alternate-titles:
+- slug: f-scott-fitzgerald-biography
+  title: 'F. Scott Fitzgerald: A Life for Readers'
+  url: /2026/11/09/f-scott-fitzgerald-biography/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: how-fitzgerald-wrote-gatsby
+  title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
+  url: /2027/03/01/how-fitzgerald-wrote-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: great-gatsby-reading-order-pacing
+  title: The Great Gatsby Reading Order and Pacing
+  url: /2022/06/13/great-gatsby-reading-order-pacing/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-passage-of-time-craft
+  title: How Fitzgerald Handles the Passage of Time
+  url: /2026/09/28/gatsby-passage-of-time-craft/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
   lang: en

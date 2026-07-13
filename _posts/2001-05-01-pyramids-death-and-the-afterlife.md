@@ -9,7 +9,7 @@ excerpt: "The Egyptian afterlife turned pyramids into resurrection machines for 
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2001-05-01
+last_updated: 2026-07-13
 lang: en
 ---
 Stand at the base of a pyramid and the first question most people ask is how the stones went up. The better question, the one the builders themselves would have recognized, is why they went up at all. The Egyptian afterlife is the answer. A pyramid was never a warehouse for a dead body and a pile of treasure. It was a machine built to do a specific job: to take a dead king and turn him into a living, transfigured spirit who would rise, join the circuit of the sun and the stars, and keep the whole ordered world running from the other side of death. The pyramid was theology rendered in limestone. Understand what the Old Kingdom believed about death, about the parts of the human being, and about the fate of a divine king, and the entire funerary program stops looking like extravagance and starts looking like the most rational construction project a state with those beliefs could possibly undertake.

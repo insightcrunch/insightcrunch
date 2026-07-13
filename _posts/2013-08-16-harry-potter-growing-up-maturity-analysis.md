@@ -9,7 +9,7 @@ excerpt: "How the Harry Potter series ages with its reader, shifting from fairy 
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2013-08-16
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Genre That Aged in Public

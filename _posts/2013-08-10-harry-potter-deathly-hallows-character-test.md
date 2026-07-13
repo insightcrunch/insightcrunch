@@ -9,7 +9,7 @@ excerpt: "The Deathly Hallows in Harry Potter act as a personality test in fairy
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-08-10
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: A Fairy Tale That Reads You Back

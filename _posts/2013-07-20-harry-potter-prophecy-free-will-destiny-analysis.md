@@ -9,7 +9,7 @@ excerpt: "How prophecy and free will collide in Harry Potter: why the prediction
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2013-07-20
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Sentence That Made Itself True

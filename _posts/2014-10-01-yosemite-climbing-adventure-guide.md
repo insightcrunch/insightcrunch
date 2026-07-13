@@ -9,7 +9,7 @@ excerpt: "A practical Yosemite climbing and adventure guide that grades the hard
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 68
 author: "nandini-sen"
-last_updated: 2014-10-01
+last_updated: 2026-07-13
 lang: en
 ---
 Climbing and adventure in Yosemite splits into two worlds that look similar in photos and could not be more different on the ground, and the single most useful thing this guide can do is teach you which world a given objective belongs to before you commit a vacation day to it. One world is the strenuous day hike: long, steep, sometimes frightening, but reachable by a determined person with strong legs, an early start, and the right permit. The other world is technical rock climbing, the vertical granite that made this valley famous, which asks for years of skill, partners, ropes, and a tolerance for genuine consequence. The marquee challenges sort cleanly between the two. Half Dome is a hike, the hardest one most visitors will ever attempt, gated by a permit and your own fitness. El Capitan is a climb, gated by ability you cannot rent or fake. Confuse the two and you either waste a day chasing something you cannot do or, worse, talk yourself onto terrain that will hurt you.

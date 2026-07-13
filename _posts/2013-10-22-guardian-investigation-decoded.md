@@ -9,7 +9,7 @@ excerpt: "Decoding The Guardian's landmark investigation into India's alleged in
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2013-10-22
+last_updated: 2026-07-13
 lang: en
 ---
 On April 5, 2024, The Guardian published what remains the most consequential Western media investigation into India's alleged campaign of targeted killings on Pakistani soil. The British newspaper claimed that Indian and Pakistani intelligence operatives had spoken on the record, anonymously, about a systematic program of assassinations carried out by India's Research and Analysis Wing against individuals New Delhi considered hostile to Indian security interests. The investigation named nearly twenty killings since 2020, described an operational architecture running through sleeper cells in the United Arab Emirates, and quoted an unnamed Indian intelligence officer stating that such operations required approval from the highest levels of government. Indian media erupted. Pakistan seized the report as vindication. India's Ministry of External Affairs dismissed every claim as false and malicious anti-India propaganda. None of these reactions addressed the central analytical question the investigation raised, which is not whether India ordered the killings but what the report's sourcing, methodology, and evidentiary foundation actually proved and where its claims crossed from confirmed fact into informed inference.

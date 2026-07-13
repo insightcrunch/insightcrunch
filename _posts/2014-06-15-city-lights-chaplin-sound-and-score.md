@@ -9,7 +9,7 @@ excerpt: "City Lights shows how Chaplin scored silence with a self-composed soun
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2014-06-15
+last_updated: 2026-07-13
 lang: en
 ---
 The most radical decision in City Lights is not visible. It is audible, and it is the choice to keep almost everything inaudible. By the time Charlie Chaplin released the film in 1931, the talking picture had already won the industry argument outright. Audiences had heard Al Jolson sing and speak, theaters across the country had wired themselves for synchronized sound at enormous expense, and the studios had quietly retired the silent feature as a commercial form. Into that settled verdict Chaplin delivered a film with a recorded track but no spoken dialogue, a comedy of pantomime carried by a score he composed himself and by sound effects deployed not for realism but for ridicule. The opening reel makes the strategy a manifesto: when civic dignitaries step up to dedicate a public monument, their pompous oratory emerges as a strangled kazoo-like squawk, the human voice reduced to honking nonsense. That is not a director who failed to understand sound. That is a director making an argument about it.

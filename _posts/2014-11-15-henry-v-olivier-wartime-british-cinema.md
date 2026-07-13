@@ -9,7 +9,7 @@ excerpt: "Henry V (1944) turned Shakespeare into British wartime morale, dissolv
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2014-11-15
+last_updated: 2026-07-13
 lang: en
 ---
 When a country decides that its cinema should fight, the choices it makes reveal what that country believes about itself. In 1944, with the outcome of the war still uncertain and the Normandy landings only months away, British cinema produced its boldest statement of national purpose, and it did so not by staging a present-day battle but by reaching six centuries into the past. Laurence Olivier's Henry V takes Shakespeare's play about a young king who leads an outnumbered English army to victory at Agincourt and rebuilds it as a Technicolor pageant aimed squarely at a population under bombardment. The picture is usually filed under the heading of great Shakespeare adaptations, and it is one, but that label undersells what it accomplishes. It is one of the clearest examples in all of cinema of a national film industry mobilizing its deepest cultural inheritance, its national poet and its national myth, as an instrument of morale. To understand it, you have to read it as national cinema first and as literary adaptation second.

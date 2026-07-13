@@ -9,7 +9,7 @@ excerpt: "Humor in Harry Potter analyzed as survival, weapon, deflection, and mo
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 57
 author: "olivia-grant"
-last_updated: 2013-06-13
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Joke as a Moral Instrument

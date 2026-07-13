@@ -9,7 +9,7 @@ excerpt: "Learn how to vet an HVAC contractor with license, certification and in
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 69
 author: "nathan-cole"
-last_updated: 2001-12-01
+last_updated: 2026-07-13
 lang: en
 ---
 A real heating and cooling professional can prove two things in the time it takes to pour a cup of coffee: that a valid contractor license stands behind the name on the truck, and that whoever will touch your refrigerant holds the federal certification the law requires to do it. To vet an HVAC contractor is mostly the work of confirming those two facts, then adding a third that no directory listing and no five-star badge can supply for you, which is whether the person quoting your system will size it with a load calculation or simply eyeball the old unit and sell you a matching number. Master that sequence and the hiring decision stops being a gamble on charm and turns into a short, repeatable verification you can run on any name that shows up in your driveway.

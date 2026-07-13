@@ -9,7 +9,7 @@ excerpt: "HVAC warning signs sorted by urgency: what a warm-blowing AC, a dead f
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 69
 author: "robert-quinn"
-last_updated: 2002-01-15
+last_updated: 2026-07-13
 lang: en
 ---
 Most of the HVAC warning signs a home throws at you are patient. A slightly weaker cool, a longer run time, a rattle that comes and goes, a heating bill creeping up for no obvious reason. These give you days or weeks to plan, get a fair quote, and decide. One category does not. If your furnace or anything near it smells like burning plastic, hot metal, or rotten eggs, or if a carbon monoxide alarm sounds, the reading you need is not diagnostic at all. It is stop, shut the system down, get people and pets out if the smell is strong, and call from outside. That single split, between the symptom you research and the symptom you flee, is the most useful thing a homeowner can learn about a heating and cooling system, and it is exactly the triage a page full of ads never gives you.

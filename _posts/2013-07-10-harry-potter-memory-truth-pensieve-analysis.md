@@ -9,7 +9,7 @@ excerpt: "How the Pensieve turns Harry Potter into a theory of knowledge: memory
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2013-07-10
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Basin That Holds the Truth

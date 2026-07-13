@@ -9,7 +9,7 @@ excerpt: "In The General, Buster Keaton fused comedy and real danger in one unbr
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2014-01-15
+last_updated: 2026-07-13
 lang: en
 ---
 Before 1926, comedy and danger lived in separate rooms. A gag film was built in close quarters, on a porch or a kitchen or a crowded street, where a pratfall could be staged and reset between takes. A spectacle was built somewhere else entirely, on a battlefield set or a studio backlot, where scale was the selling point and laughter was beside the point. The General collapsed that wall. Buster Keaton took a real locomotive, put it on real track running through real country, set a comic engineer chasing it across enemy lines, and arranged the picture so that the joke and the peril share the same frame at the same moment. The result is the founding document of the action-comedy, and the template every later chase film still runs on, whether its makers know the source or not.

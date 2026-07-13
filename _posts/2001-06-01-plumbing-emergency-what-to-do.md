@@ -9,7 +9,7 @@ excerpt: "In a plumbing emergency, shut the water off first, contain the damage,
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
 author: "abigail-cooper"
-last_updated: 2001-06-01
+last_updated: 2026-07-13
 lang: en
 ---
 When you are standing in water that should not be there, the single most useful thing you can do in the first sixty seconds of a plumbing emergency is stop more water from arriving. Not call anyone. Not photograph it. Not run for towels. Shut the water off, because every minute the supply keeps feeding the problem is a minute of soaked drywall, warped flooring, and a repair bill climbing toward the ceiling. This guide walks the actions in the order a person under stress actually needs them, from the first shutoff to the moment help arrives, so a burst line or an overflowing fixture stays an inconvenience instead of becoming the story you tell about the year your first floor came apart.

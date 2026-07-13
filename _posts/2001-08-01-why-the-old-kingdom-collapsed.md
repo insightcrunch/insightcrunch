@@ -9,7 +9,7 @@ excerpt: "The Old Kingdom collapse ended Egypt's pyramid age through decentraliz
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2001-08-01
+last_updated: 2026-07-13
 lang: en
 ---
 For roughly five centuries, a single king at Memphis could summon tens of thousands of workers, feed them from state granaries, and raise stone mountains on the desert edge. Then, within a generation or two, that machine stopped. The Old Kingdom collapse turned a unified pyramid-building monarchy into a patchwork of local rulers who dated events by their own authority rather than the crown's, and who sometimes boasted of feeding their districts while the king in the north could no longer guarantee bread. The hinge matters because it is not a story of foreign conquest or a single catastrophe. Egypt fell from within, and it fell in a way that reveals exactly how its greatness had been built. The concentrated royal power that raised the pyramids also concentrated the risks, and when three pressures converged, the same system that had looked unbreakable came apart.

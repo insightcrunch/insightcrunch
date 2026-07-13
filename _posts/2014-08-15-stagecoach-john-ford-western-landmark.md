@@ -9,7 +9,7 @@ excerpt: "Stagecoach (1939) lifted the Western from cheap programmer to serious 
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2014-08-15
+last_updated: 2026-07-13
 lang: en
 ---
 By the middle of the 1930s the Western had become Hollywood's least respectable major form. The genre that had carried the silent era's most ambitious epics, the form that gave the young industry its first sense of national scale, had collapsed into the bottom half of the double bill: cheap, fast, formulaic series pictures churned out for Saturday matinees, built around interchangeable singing cowboys and recycled chase footage, beneath the notice of any serious studio or serious star. **Stagecoach**, directed by John Ford and released in 1939, is the film that ended that exile. It did not invent the Western, a point worth fixing at the outset because the claim is so often muddled. The form was older than the feature itself. What Ford did was rehabilitate it, prove that the genre could carry an adult ensemble drama, a moral argument, and visual grandeur all at once, and in doing so he set the terms on which the Western would operate for the next thirty years.

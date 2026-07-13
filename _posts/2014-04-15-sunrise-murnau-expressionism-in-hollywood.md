@@ -9,7 +9,7 @@ excerpt: "Sunrise (1927) carried German Expressionism into a Hollywood studio. A
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2014-04-15
+last_updated: 2026-07-13
 lang: en
 ---
 A movement is supposed to belong to a place. We say German Expressionism the way we say Italian Neorealism or the French New Wave, as though the adjective and the noun could not be pried apart, as though the style grew from the soil and could not be transplanted without dying. Then a German director boards a ship, arrives at a California studio with more money than he ever commanded at home, and makes a film that proves the assumption wrong. *Sunrise: A Song of Two Humans* is that proof. Released by Fox in 1927 and directed by F.W. Murnau, it takes the techniques that German artists had spent a decade refining and grafts them onto an American studio's resources and an American story shape, and in doing so it answers a question most film history asks only obliquely: what travels when a movement crosses a border, and what gets left behind at the dock.

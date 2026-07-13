@@ -9,7 +9,7 @@ excerpt: "Trouble in Paradise (1932) defines the Lubitsch touch: how Ernst Lubit
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2014-08-01
+last_updated: 2026-07-13
 lang: en
 ---
 The phrase arrives before the evidence does. People say a comedy has "the Lubitsch touch" the way they say a wine has a good nose, as a compliment that gestures at something they cannot quite name, and the gesture has hardened over the decades into a critical reflex that explains nothing. Trouble in Paradise (1932) is the film that first made audiences and reviewers reach for the phrase, and it is also the film that lets you replace the gesture with a definition. The touch is not a mood and not a mystery. It is a repeatable set of directorial techniques for conveying sex, money, and feeling through what the camera declines to show, and Ernst Lubitsch built the clearest demonstration of that toolkit ever assembled into roughly eighty-three minutes of a Paramount romantic comedy about two thieves in love.

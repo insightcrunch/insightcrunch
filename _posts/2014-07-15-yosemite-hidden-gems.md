@@ -9,7 +9,7 @@ excerpt: "Yosemite hidden gems beyond Half Dome and El Capitan: where the crowds
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 68
 author: "amit-chatterjee"
-last_updated: 2014-07-15
+last_updated: 2026-07-13
 lang: en
 ---
 The most useful thing to understand about Yosemite hidden gems is that they are not really hidden at all. They sit a few hundred feet of elevation above the spots everyone photographs, or a single hour on either side of the times everyone arrives. The crowding that drives so many visitors to declare the park ruined is concentrated almost entirely on the seven square miles of Yosemite Valley, and within that valley it concentrates again into a handful of pullouts, parking lots, and trailheads during a predictable midday window. Step outside that window, or gain a thousand feet, and the same park that felt like a theme park at noon goes quiet enough to hear the wind move through the pines.

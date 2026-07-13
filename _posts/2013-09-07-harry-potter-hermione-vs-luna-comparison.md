@@ -9,7 +9,7 @@ excerpt: "Hermione vs Luna in Harry Potter: empiricism against vision, intellige
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 42
 author: "lauren-hayes"
-last_updated: 2013-09-07
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: Two Ways of Being Right

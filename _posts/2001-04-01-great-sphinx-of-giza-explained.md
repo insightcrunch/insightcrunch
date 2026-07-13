@@ -9,7 +9,7 @@ excerpt: "The Great Sphinx of Giza is a Dynasty 4 monument carved from bedrock, 
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2001-04-01
+last_updated: 2026-07-13
 lang: en
 ---
 The Great Sphinx of Giza was never meant to be a puzzle. It was meant to be a statement. A Fourth Dynasty king took the natural limestone knoll that sat beside his pyramid causeway and had it cut into the shape of a lion with a human head, so that a colossal royal guardian would crouch at the edge of the desert and watch the sun rise over the Nile valley every morning for eternity. That is the thing modern audiences most often miss when they treat the monument as a riddle: it began as a deliberate act of royal and religious messaging, not as a mystery to be solved. The mystery grew up around it later, over the four and a half thousand years it spent half buried in sand while the memory of why it was made faded and speculation rushed in to fill the gap.

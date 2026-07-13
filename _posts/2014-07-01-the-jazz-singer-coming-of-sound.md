@@ -9,7 +9,7 @@ excerpt: "The Jazz Singer triggered sound, but did the talkies advance the art o
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2014-07-01
+last_updated: 2026-07-13
 lang: en
 ---
 Put two reels of film on the table and decide. On one reel is a Warner Bros. melodrama from 1927 in which a cantor's son sings popular songs into a microphone wired to a phonograph disc, and an audience, for the first time in a commercial feature that mattered, hears a human voice rise off the screen and address them directly. On the other reel is the silent art at the very summit of what it had learned to do across three decades: a camera that floated through space, faces that carried whole inner lives without a single spoken word, a visual grammar legible to a viewer in Tokyo, Berlin, Buenos Aires, and Kansas City alike. The first reel is The Jazz Singer. The second reel is everything The Jazz Singer was about to push aside. The question this article settles is not which film is better, because that comparison is rigged from the start. The question is harder and more interesting: when the coming of sound that The Jazz Singer set in motion swept through the medium, did it advance cinema as an art or set it back, and by what criterion do we decide?

@@ -9,7 +9,7 @@ excerpt: "Draco Malfoy vs Dudley Dursley in Harry Potter: two spoiled bullies, t
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 41
 author: "olivia-grant"
-last_updated: 2013-09-12
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Sentence and the Lowered Wand

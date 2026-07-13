@@ -9,7 +9,7 @@ excerpt: "Harry Potter vs Voldemort compared across orphanhood, death, choice, a
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 41
 author: "megan-clark"
-last_updated: 2013-08-21
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: Two Boys the Prophecy Made Equal

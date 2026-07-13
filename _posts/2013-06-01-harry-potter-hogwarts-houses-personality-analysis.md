@@ -9,7 +9,7 @@ excerpt: "How the Sorting Hat in Harry Potter works as a real personality theory
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 57
 author: "elena-wright"
-last_updated: 2013-06-01
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Quiz That Is Not a Quiz

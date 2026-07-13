@@ -9,7 +9,7 @@ excerpt: "Fantasia (1940) reversed the order of scoring, animating imagery to pr
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2015-01-15
+last_updated: 2026-07-13
 lang: en
 ---
 Most films are scored. A picture is shot and cut first, and only then does a composer sit at a piano and write notes that follow the images, swelling where the story swells and falling quiet where it asks for silence. The music serves the picture. It arrives last, and it bends to fit. Fantasia, released by Walt Disney in 1940, did the opposite, and that single inversion is the key to everything strange, ambitious, and prophetic about it. Here the orchestra recorded first. Leopold Stokowski conducted eight famous works of the concert repertoire, the recordings were fixed, and then hundreds of artists in Burbank spent years drawing pictures that would obey those recordings beat by beat. The image came last. The image bent to fit. For once in the history of the medium, the visual track was the accompaniment and the score was the master.

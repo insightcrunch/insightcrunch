@@ -9,7 +9,7 @@ excerpt: "Intolerance braids four distant eras around one idea, and its accelera
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2014-02-15
+last_updated: 2026-07-13
 lang: en
 ---
 The boldest structural decision in *Intolerance* is also the one most viewers misremember. The four periods it dramatizes, ancient Babylon, Judea at the time of the Nazarene, France on the eve of the 1572 massacre, and a contemporary American city, never meet. No character crosses from one panel into another. No plot in any of the four depends on a plot in the others. What binds them is a single argument, advanced through image and rhythm rather than through event, and a cutting pattern that grows faster the closer the film gets to its end, until four climaxes that share no causal thread detonate within the same handful of minutes. D.W. Griffith built a feature-length picture out of timelines that have no business being in the same building, and he held them together with an idea and a recurring image of a woman rocking a cradle. That is the move worth studying, and it is the move this article maps.

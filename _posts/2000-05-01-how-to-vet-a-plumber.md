@@ -9,7 +9,7 @@ excerpt: "How to vet a plumber before you hire: verify the license yourself, con
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 68
 author: "thomas-reid"
-last_updated: 2000-05-01
+last_updated: 2026-07-13
 lang: en
 ---
 Most people vet a plumber the same way they pick a takeout order: they glance at the star rating, skim two or three recent comments, and call the name at the top. That habit is exactly how a homeowner ends up with an unlicensed operator standing in their kitchen, a five-figure repipe they never needed, and a signed work order that gives them no recourse when the pipe behind the wall starts weeping a month later. To vet a plumber properly is not about trusting your gut or trusting a badge on a listing. It is about running a short sequence of checks that a real professional passes in seconds and a bad actor cannot survive, and knowing what a hesitation or a runaround actually tells you.

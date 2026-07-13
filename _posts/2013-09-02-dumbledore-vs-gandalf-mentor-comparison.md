@@ -9,7 +9,7 @@ excerpt: "Dumbledore vs Gandalf in Harry Potter and Tolkien compared as two theo
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 42
 author: "lauren-hayes"
-last_updated: 2013-09-02
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Question Behind the White Beard

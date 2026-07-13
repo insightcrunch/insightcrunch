@@ -9,7 +9,7 @@ excerpt: "Snape vs Sirius Black in Harry Potter compared across grief, cruelty, 
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 42
 author: "sarah-mitchell"
-last_updated: 2013-08-27
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: Two Broken Men and the Boy Between Them

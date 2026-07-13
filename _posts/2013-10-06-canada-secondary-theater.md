@@ -9,7 +9,7 @@ excerpt: "Three targeted killings on Canadian soil turned a Five Eyes partner in
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 71
 author: "kevin-reeves"
-last_updated: 2013-10-06
+last_updated: 2026-07-13
 lang: en
 ---
 Canada is not Pakistan. That single observation contains the analytical puzzle at the center of three targeted killings that transformed a trusted Western ally into the most diplomatically explosive theater of India's shadow war against terrorism. Between July 2022 and September 2023, three men connected to Khalistan separatism were killed on Canadian soil in circumstances ranging from a contract-style hit outside a Surrey business park to a gurdwara parking lot ambush to a duplex shooting in suburban Winnipeg. Ripudaman Singh Malik, Hardeep Singh Nijjar, and Sukhdool Singh Gill (known as Sukha Duneke) share a common denominator: all three were figures on India's security radar, all three died violently in Canadian cities, and all three killings generated consequences that no operation on Pakistani soil ever produced. The question this article answers is not whether these three cases are connected, because the attribution evidence varies dramatically across all three. The question is what placing them side by side reveals about the campaign's reach, its risk calculus, and the price India paid for operating, or allegedly operating, inside a Five Eyes nation with functional law enforcement, advanced signals intelligence, and the diplomatic leverage that Pakistan could never muster.

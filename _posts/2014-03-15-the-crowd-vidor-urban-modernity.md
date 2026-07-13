@@ -9,7 +9,7 @@ excerpt: "The Crowd (1928) made the anonymity of modern city work its subject, a
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2014-03-15
+last_updated: 2026-07-13
 lang: en
 ---
 A man is born on the Fourth of July, 1900, and his father announces that this boy is going to be somebody. Twenty-seven years later he is one clerk among hundreds in an insurance office, a single number on a single ledger, and the camera that finds him has to climb the face of a skyscraper and travel across a sea of identical desks before it can pick him out at all. That descent from national promise to statistical anonymity is the whole argument of King Vidor's The Crowd, the 1928 Metro-Goldwyn-Mayer production that took the most ordinary life imaginable and made it the explicit subject of a major studio film. The pressure the picture registers is the central social fact of its decade: the arrival of a mass white-collar population, the salaried clerks and stenographers and office men whose work was interchangeable and whose individuality the modern corporation had no particular use for. The Crowd is the film that looked straight at that population and refused to pretend any one of them was exceptional.

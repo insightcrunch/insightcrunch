@@ -9,7 +9,7 @@ excerpt: "It's a Wonderful Life flopped in 1946 and faded, until a copyright lap
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2014-12-15
+last_updated: 2026-07-13
 lang: en
 ---
 The strangest fact about *It's a Wonderful Life* is that almost everything people believe about its reputation is backward. The film that now feels like a permanent fixture of the Christmas calendar, the one that seems to have been beloved since the moment it opened, was a commercial disappointment that lost money for the company that made it, dimmed the standing of one of Hollywood's most bankable directors, and then drifted out of circulation for the better part of three decades. Its canonization did not come from its first reviews or its first audience. It came from a clerical accident in a copyright office and from the appetite of television stations for cheap programming to fill the air in late December. And the cozy warmth that the film now carries as its brand conceals a movie about thwarted ambition, financial ruin, a nervous collapse, and a man standing on a bridge in the snow on Christmas Eve, ready to throw away the only life he has. The reputation and the film diverge so sharply that understanding the gap is the most useful thing a viewer can do with it.

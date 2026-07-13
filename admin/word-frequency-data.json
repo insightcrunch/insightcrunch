@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-09T09:52:51Z",
+  "generated": "2026-07-13T09:35:43Z",
   "threshold": 50,
-  "totalPosts": 3430,
-  "flaggedPosts": 3080,
+  "totalPosts": 3495,
+  "flaggedPosts": 3145,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 165.8,
+  "avgTopCount": 165.7,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -22277,6 +22277,144 @@
       ]
     },
     {
+      "filename": "2000-03-15-plumber-cost-guide.md",
+      "slug": "plumber-cost-guide",
+      "title": "Plumber Cost Guide: What You Should Pay",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7091,
+      "topWord": "plumber",
+      "topCount": 147,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-03-15-plumber-cost-guide.md",
+      "flaggedWords": [
+        {
+          "word": "plumber",
+          "count": 147
+        },
+        {
+          "word": "quote",
+          "count": 137
+        },
+        {
+          "word": "plumbing",
+          "count": 99
+        },
+        {
+          "word": "job",
+          "count": 84
+        },
+        {
+          "word": "cost",
+          "count": 80
+        },
+        {
+          "word": "price",
+          "count": 74
+        },
+        {
+          "word": "quotes",
+          "count": 67
+        },
+        {
+          "word": "labor",
+          "count": 60
+        },
+        {
+          "word": "repair",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "plumber",
+          "count": 147
+        },
+        {
+          "word": "quote",
+          "count": 137
+        },
+        {
+          "word": "plumbing",
+          "count": 99
+        },
+        {
+          "word": "job",
+          "count": 84
+        },
+        {
+          "word": "cost",
+          "count": 80
+        },
+        {
+          "word": "price",
+          "count": 74
+        },
+        {
+          "word": "quotes",
+          "count": 67
+        },
+        {
+          "word": "labor",
+          "count": 60
+        },
+        {
+          "word": "repair",
+          "count": 53
+        },
+        {
+          "word": "rate",
+          "count": 50
+        },
+        {
+          "word": "honest",
+          "count": 43
+        },
+        {
+          "word": "pricing",
+          "count": 38
+        },
+        {
+          "word": "fee",
+          "count": 35
+        },
+        {
+          "word": "guide",
+          "count": 34
+        },
+        {
+          "word": "ask",
+          "count": 34
+        },
+        {
+          "word": "pipe",
+          "count": 33
+        },
+        {
+          "word": "flat",
+          "count": 33
+        },
+        {
+          "word": "fair",
+          "count": 32
+        },
+        {
+          "word": "costs",
+          "count": 31
+        },
+        {
+          "word": "problem",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2000-04-01-daily-life-in-predynastic-egypt.md",
       "slug": "daily-life-in-predynastic-egypt",
       "title": "Daily Life in Predynastic Egypt",
@@ -22387,6 +22525,132 @@
         {
           "word": "village",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2000-05-01-how-to-vet-a-plumber.md",
+      "slug": "how-to-vet-a-plumber",
+      "title": "How to Vet a Plumber Before You Hire",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6847,
+      "topWord": "plumber",
+      "topCount": 242,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-05-01-how-to-vet-a-plumber.md",
+      "flaggedWords": [
+        {
+          "word": "plumber",
+          "count": 242
+        },
+        {
+          "word": "license",
+          "count": 119
+        },
+        {
+          "word": "job",
+          "count": 97
+        },
+        {
+          "word": "vetting",
+          "count": 62
+        },
+        {
+          "word": "insurance",
+          "count": 59
+        },
+        {
+          "word": "operator",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "plumber",
+          "count": 242
+        },
+        {
+          "word": "license",
+          "count": 119
+        },
+        {
+          "word": "job",
+          "count": 97
+        },
+        {
+          "word": "vetting",
+          "count": 62
+        },
+        {
+          "word": "insurance",
+          "count": 59
+        },
+        {
+          "word": "operator",
+          "count": 53
+        },
+        {
+          "word": "ask",
+          "count": 48
+        },
+        {
+          "word": "confirm",
+          "count": 47
+        },
+        {
+          "word": "repair",
+          "count": 42
+        },
+        {
+          "word": "reviews",
+          "count": 40
+        },
+        {
+          "word": "coverage",
+          "count": 38
+        },
+        {
+          "word": "hire",
+          "count": 35
+        },
+        {
+          "word": "plumbing",
+          "count": 33
+        },
+        {
+          "word": "licensed",
+          "count": 31
+        },
+        {
+          "word": "person",
+          "count": 31
+        },
+        {
+          "word": "permit",
+          "count": 31
+        },
+        {
+          "word": "board",
+          "count": 28
+        },
+        {
+          "word": "certificate",
+          "count": 28
+        },
+        {
+          "word": "checks",
+          "count": 27
+        },
+        {
+          "word": "read",
+          "count": 26
         }
       ]
     },
@@ -22833,6 +23097,144 @@
       ]
     },
     {
+      "filename": "2000-07-01-plumbing-warning-signs.md",
+      "slug": "plumbing-warning-signs",
+      "title": "Plumbing Warning Signs You Should Not Ignore",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7140,
+      "topWord": "sign",
+      "topCount": 126,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-07-01-plumbing-warning-signs.md",
+      "flaggedWords": [
+        {
+          "word": "sign",
+          "count": 126
+        },
+        {
+          "word": "signs",
+          "count": 111
+        },
+        {
+          "word": "leak",
+          "count": 86
+        },
+        {
+          "word": "drain",
+          "count": 69
+        },
+        {
+          "word": "running",
+          "count": 58
+        },
+        {
+          "word": "warning",
+          "count": 54
+        },
+        {
+          "word": "plumber",
+          "count": 54
+        },
+        {
+          "word": "plumbing",
+          "count": 53
+        },
+        {
+          "word": "pressure",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "sign",
+          "count": 126
+        },
+        {
+          "word": "signs",
+          "count": 111
+        },
+        {
+          "word": "leak",
+          "count": 86
+        },
+        {
+          "word": "drain",
+          "count": 69
+        },
+        {
+          "word": "running",
+          "count": 58
+        },
+        {
+          "word": "warning",
+          "count": 54
+        },
+        {
+          "word": "plumber",
+          "count": 54
+        },
+        {
+          "word": "plumbing",
+          "count": 53
+        },
+        {
+          "word": "pressure",
+          "count": 53
+        },
+        {
+          "word": "fixture",
+          "count": 50
+        },
+        {
+          "word": "watch",
+          "count": 47
+        },
+        {
+          "word": "toilet",
+          "count": 47
+        },
+        {
+          "word": "smell",
+          "count": 46
+        },
+        {
+          "word": "main",
+          "count": 46
+        },
+        {
+          "word": "problem",
+          "count": 45
+        },
+        {
+          "word": "reading",
+          "count": 44
+        },
+        {
+          "word": "stain",
+          "count": 43
+        },
+        {
+          "word": "worth",
+          "count": 43
+        },
+        {
+          "word": "sewer",
+          "count": 42
+        },
+        {
+          "word": "usually",
+          "count": 39
+        }
+      ]
+    },
+    {
       "filename": "2000-08-01-how-the-nile-built-egyptian-state.md",
       "slug": "how-the-nile-built-egyptian-state",
       "title": "How the Nile Built the Egyptian State",
@@ -23081,6 +23483,132 @@
         {
           "word": "dates",
           "count": 26
+        }
+      ]
+    },
+    {
+      "filename": "2000-09-01-plumbing-diy-or-call-a-pro.md",
+      "slug": "plumbing-diy-or-call-a-pro",
+      "title": "Plumbing Jobs: DIY or Call a Plumber?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 5930,
+      "topWord": "job",
+      "topCount": 107,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-09-01-plumbing-diy-or-call-a-pro.md",
+      "flaggedWords": [
+        {
+          "word": "job",
+          "count": 107
+        },
+        {
+          "word": "diy",
+          "count": 72
+        },
+        {
+          "word": "plumbing",
+          "count": 69
+        },
+        {
+          "word": "permit",
+          "count": 67
+        },
+        {
+          "word": "pro",
+          "count": 53
+        },
+        {
+          "word": "safe",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "job",
+          "count": 107
+        },
+        {
+          "word": "diy",
+          "count": 72
+        },
+        {
+          "word": "plumbing",
+          "count": 69
+        },
+        {
+          "word": "permit",
+          "count": 67
+        },
+        {
+          "word": "pro",
+          "count": 53
+        },
+        {
+          "word": "safe",
+          "count": 53
+        },
+        {
+          "word": "flood",
+          "count": 45
+        },
+        {
+          "word": "shutoff",
+          "count": 41
+        },
+        {
+          "word": "gas",
+          "count": 39
+        },
+        {
+          "word": "jobs",
+          "count": 38
+        },
+        {
+          "word": "drain",
+          "count": 38
+        },
+        {
+          "word": "failure",
+          "count": 37
+        },
+        {
+          "word": "main",
+          "count": 36
+        },
+        {
+          "word": "homeowner",
+          "count": 35
+        },
+        {
+          "word": "toilet",
+          "count": 34
+        },
+        {
+          "word": "repair",
+          "count": 33
+        },
+        {
+          "word": "task",
+          "count": 31
+        },
+        {
+          "word": "connection",
+          "count": 29
+        },
+        {
+          "word": "guide",
+          "count": 27
+        },
+        {
+          "word": "wall",
+          "count": 27
         }
       ]
     },
@@ -23353,6 +23881,700 @@
       ]
     },
     {
+      "filename": "2000-11-01-repair-or-replace-water-heater.md",
+      "slug": "repair-or-replace-water-heater",
+      "title": "Repair or Replace Your Water Heater?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6285,
+      "topWord": "unit",
+      "topCount": 228,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-11-01-repair-or-replace-water-heater.md",
+      "flaggedWords": [
+        {
+          "word": "unit",
+          "count": 228
+        },
+        {
+          "word": "repair",
+          "count": 160
+        },
+        {
+          "word": "replacement",
+          "count": 131
+        },
+        {
+          "word": "tank",
+          "count": 96
+        },
+        {
+          "word": "heater",
+          "count": 72
+        },
+        {
+          "word": "cost",
+          "count": 62
+        },
+        {
+          "word": "failure",
+          "count": 58
+        },
+        {
+          "word": "replace",
+          "count": 56
+        },
+        {
+          "word": "decision",
+          "count": 55
+        },
+        {
+          "word": "gas",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "unit",
+          "count": 228
+        },
+        {
+          "word": "repair",
+          "count": 160
+        },
+        {
+          "word": "replacement",
+          "count": 131
+        },
+        {
+          "word": "tank",
+          "count": 96
+        },
+        {
+          "word": "heater",
+          "count": 72
+        },
+        {
+          "word": "cost",
+          "count": 62
+        },
+        {
+          "word": "failure",
+          "count": 58
+        },
+        {
+          "word": "replace",
+          "count": 56
+        },
+        {
+          "word": "decision",
+          "count": 55
+        },
+        {
+          "word": "gas",
+          "count": 53
+        },
+        {
+          "word": "age",
+          "count": 48
+        },
+        {
+          "word": "quote",
+          "count": 45
+        },
+        {
+          "word": "rule",
+          "count": 43
+        },
+        {
+          "word": "valve",
+          "count": 42
+        },
+        {
+          "word": "money",
+          "count": 39
+        },
+        {
+          "word": "second",
+          "count": 34
+        },
+        {
+          "word": "worth",
+          "count": 33
+        },
+        {
+          "word": "cheap",
+          "count": 29
+        },
+        {
+          "word": "leak",
+          "count": 29
+        },
+        {
+          "word": "machine",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2000-12-01-djoser-and-the-first-pyramid.md",
+      "slug": "djoser-and-the-first-pyramid",
+      "title": "Djoser and the First Pyramid of Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7648,
+      "topWord": "pyramid",
+      "topCount": 198,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-12-01-djoser-and-the-first-pyramid.md",
+      "flaggedWords": [
+        {
+          "word": "pyramid",
+          "count": 198
+        },
+        {
+          "word": "djoser",
+          "count": 159
+        },
+        {
+          "word": "stone",
+          "count": 98
+        },
+        {
+          "word": "step",
+          "count": 95
+        },
+        {
+          "word": "king",
+          "count": 93
+        },
+        {
+          "word": "monument",
+          "count": 88
+        },
+        {
+          "word": "reign",
+          "count": 72
+        },
+        {
+          "word": "imhotep",
+          "count": 58
+        },
+        {
+          "word": "royal",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "pyramid",
+          "count": 198
+        },
+        {
+          "word": "djoser",
+          "count": 159
+        },
+        {
+          "word": "stone",
+          "count": 98
+        },
+        {
+          "word": "step",
+          "count": 95
+        },
+        {
+          "word": "king",
+          "count": 93
+        },
+        {
+          "word": "monument",
+          "count": 88
+        },
+        {
+          "word": "reign",
+          "count": 72
+        },
+        {
+          "word": "imhotep",
+          "count": 58
+        },
+        {
+          "word": "royal",
+          "count": 54
+        },
+        {
+          "word": "building",
+          "count": 50
+        },
+        {
+          "word": "egyptian",
+          "count": 48
+        },
+        {
+          "word": "saqqara",
+          "count": 48
+        },
+        {
+          "word": "mastaba",
+          "count": 43
+        },
+        {
+          "word": "dynasty",
+          "count": 39
+        },
+        {
+          "word": "mudbrick",
+          "count": 36
+        },
+        {
+          "word": "complex",
+          "count": 36
+        },
+        {
+          "word": "built",
+          "count": 36
+        },
+        {
+          "word": "kingdom",
+          "count": 30
+        },
+        {
+          "word": "egypt",
+          "count": 29
+        },
+        {
+          "word": "history",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2000-12-15-choosing-a-water-heater.md",
+      "slug": "choosing-a-water-heater",
+      "title": "Choosing a Water Heater: Tank vs Tankless",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6406,
+      "topWord": "unit",
+      "topCount": 245,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2000-12-15-choosing-a-water-heater.md",
+      "flaggedWords": [
+        {
+          "word": "unit",
+          "count": 245
+        },
+        {
+          "word": "cost",
+          "count": 141
+        },
+        {
+          "word": "tank",
+          "count": 133
+        },
+        {
+          "word": "heater",
+          "count": 87
+        },
+        {
+          "word": "tankless",
+          "count": 85
+        },
+        {
+          "word": "gas",
+          "count": 83
+        },
+        {
+          "word": "install",
+          "count": 63
+        },
+        {
+          "word": "heat",
+          "count": 62
+        },
+        {
+          "word": "hot",
+          "count": 56
+        },
+        {
+          "word": "electric",
+          "count": 55
+        },
+        {
+          "word": "running",
+          "count": 53
+        },
+        {
+          "word": "total",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "unit",
+          "count": 245
+        },
+        {
+          "word": "cost",
+          "count": 141
+        },
+        {
+          "word": "tank",
+          "count": 133
+        },
+        {
+          "word": "heater",
+          "count": 87
+        },
+        {
+          "word": "tankless",
+          "count": 85
+        },
+        {
+          "word": "gas",
+          "count": 83
+        },
+        {
+          "word": "install",
+          "count": 63
+        },
+        {
+          "word": "heat",
+          "count": 62
+        },
+        {
+          "word": "hot",
+          "count": 56
+        },
+        {
+          "word": "electric",
+          "count": 55
+        },
+        {
+          "word": "running",
+          "count": 53
+        },
+        {
+          "word": "total",
+          "count": 51
+        },
+        {
+          "word": "price",
+          "count": 49
+        },
+        {
+          "word": "household",
+          "count": 46
+        },
+        {
+          "word": "fuel",
+          "count": 45
+        },
+        {
+          "word": "hour",
+          "count": 43
+        },
+        {
+          "word": "pump",
+          "count": 42
+        },
+        {
+          "word": "size",
+          "count": 40
+        },
+        {
+          "word": "storage",
+          "count": 38
+        },
+        {
+          "word": "flow",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2001-01-01-how-great-pyramid-of-giza-was-built.md",
+      "slug": "how-great-pyramid-of-giza-was-built",
+      "title": "How the Great Pyramid of Giza Was Built",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8133,
+      "topWord": "pyramid",
+      "topCount": 213,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-01-01-how-great-pyramid-of-giza-was-built.md",
+      "flaggedWords": [
+        {
+          "word": "pyramid",
+          "count": 213
+        },
+        {
+          "word": "stone",
+          "count": 76
+        },
+        {
+          "word": "blocks",
+          "count": 68
+        },
+        {
+          "word": "granite",
+          "count": 61
+        },
+        {
+          "word": "ramp",
+          "count": 57
+        },
+        {
+          "word": "sand",
+          "count": 52
+        },
+        {
+          "word": "copper",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "pyramid",
+          "count": 213
+        },
+        {
+          "word": "stone",
+          "count": 76
+        },
+        {
+          "word": "blocks",
+          "count": 68
+        },
+        {
+          "word": "granite",
+          "count": 61
+        },
+        {
+          "word": "ramp",
+          "count": 57
+        },
+        {
+          "word": "sand",
+          "count": 52
+        },
+        {
+          "word": "copper",
+          "count": 51
+        },
+        {
+          "word": "construction",
+          "count": 44
+        },
+        {
+          "word": "casing",
+          "count": 41
+        },
+        {
+          "word": "limestone",
+          "count": 41
+        },
+        {
+          "word": "egyptians",
+          "count": 40
+        },
+        {
+          "word": "built",
+          "count": 40
+        },
+        {
+          "word": "giza",
+          "count": 38
+        },
+        {
+          "word": "building",
+          "count": 37
+        },
+        {
+          "word": "core",
+          "count": 36
+        },
+        {
+          "word": "builders",
+          "count": 36
+        },
+        {
+          "word": "evidence",
+          "count": 35
+        },
+        {
+          "word": "stones",
+          "count": 33
+        },
+        {
+          "word": "cut",
+          "count": 32
+        },
+        {
+          "word": "chamber",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2001-02-01-khufu-pharaoh-of-the-great-pyramid.md",
+      "slug": "khufu-pharaoh-of-the-great-pyramid",
+      "title": "Khufu: The Pharaoh of the Great Pyramid",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7421,
+      "topWord": "khufu",
+      "topCount": 290,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-02-01-khufu-pharaoh-of-the-great-pyramid.md",
+      "flaggedWords": [
+        {
+          "word": "khufu",
+          "count": 290
+        },
+        {
+          "word": "king",
+          "count": 125
+        },
+        {
+          "word": "pyramid",
+          "count": 125
+        },
+        {
+          "word": "reign",
+          "count": 102
+        },
+        {
+          "word": "monument",
+          "count": 73
+        },
+        {
+          "word": "evidence",
+          "count": 71
+        },
+        {
+          "word": "record",
+          "count": 52
+        },
+        {
+          "word": "royal",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "khufu",
+          "count": 290
+        },
+        {
+          "word": "king",
+          "count": 125
+        },
+        {
+          "word": "pyramid",
+          "count": 125
+        },
+        {
+          "word": "reign",
+          "count": 102
+        },
+        {
+          "word": "monument",
+          "count": 73
+        },
+        {
+          "word": "evidence",
+          "count": 71
+        },
+        {
+          "word": "record",
+          "count": 52
+        },
+        {
+          "word": "royal",
+          "count": 52
+        },
+        {
+          "word": "tomb",
+          "count": 45
+        },
+        {
+          "word": "built",
+          "count": 39
+        },
+        {
+          "word": "giza",
+          "count": 37
+        },
+        {
+          "word": "stone",
+          "count": 36
+        },
+        {
+          "word": "single",
+          "count": 36
+        },
+        {
+          "word": "egyptian",
+          "count": 33
+        },
+        {
+          "word": "contemporary",
+          "count": 32
+        },
+        {
+          "word": "ancient",
+          "count": 30
+        },
+        {
+          "word": "kingdom",
+          "count": 28
+        },
+        {
+          "word": "egypt",
+          "count": 28
+        },
+        {
+          "word": "portrait",
+          "count": 27
+        },
+        {
+          "word": "account",
+          "count": 27
+        }
+      ]
+    },
+    {
       "filename": "2001-02-08-upsc-civil-services-future.md",
       "slug": "upsc-civil-services-future",
       "title": "UPSC Civil Services: Why It Matters and How It Evolves",
@@ -23569,6 +24791,144 @@
         {
           "word": "national",
           "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2001-02-15-winterizing-your-plumbing.md",
+      "slug": "winterizing-your-plumbing",
+      "title": "Winterizing Your Plumbing to Prevent Freezes",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7341,
+      "topWord": "pipe",
+      "topCount": 153,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-02-15-winterizing-your-plumbing.md",
+      "flaggedWords": [
+        {
+          "word": "pipe",
+          "count": 153
+        },
+        {
+          "word": "freeze",
+          "count": 150
+        },
+        {
+          "word": "cold",
+          "count": 117
+        },
+        {
+          "word": "heat",
+          "count": 117
+        },
+        {
+          "word": "pipes",
+          "count": 81
+        },
+        {
+          "word": "exposed",
+          "count": 71
+        },
+        {
+          "word": "lines",
+          "count": 68
+        },
+        {
+          "word": "frozen",
+          "count": 57
+        },
+        {
+          "word": "faucet",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "pipe",
+          "count": 153
+        },
+        {
+          "word": "freeze",
+          "count": 150
+        },
+        {
+          "word": "cold",
+          "count": 117
+        },
+        {
+          "word": "heat",
+          "count": 117
+        },
+        {
+          "word": "pipes",
+          "count": 81
+        },
+        {
+          "word": "exposed",
+          "count": 71
+        },
+        {
+          "word": "lines",
+          "count": 68
+        },
+        {
+          "word": "frozen",
+          "count": 57
+        },
+        {
+          "word": "faucet",
+          "count": 53
+        },
+        {
+          "word": "fall",
+          "count": 49
+        },
+        {
+          "word": "wall",
+          "count": 48
+        },
+        {
+          "word": "winter",
+          "count": 48
+        },
+        {
+          "word": "burst",
+          "count": 47
+        },
+        {
+          "word": "freezing",
+          "count": 47
+        },
+        {
+          "word": "space",
+          "count": 46
+        },
+        {
+          "word": "plumbing",
+          "count": 45
+        },
+        {
+          "word": "pressure",
+          "count": 44
+        },
+        {
+          "word": "outdoor",
+          "count": 44
+        },
+        {
+          "word": "exterior",
+          "count": 43
+        },
+        {
+          "word": "routine",
+          "count": 42
         }
       ]
     },
@@ -23966,6 +25326,148 @@
         },
         {
           "word": "parks",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2001-03-01-who-really-built-the-pyramids.md",
+      "slug": "who-really-built-the-pyramids",
+      "title": "Who Really Built the Pyramids of Egypt?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7046,
+      "topWord": "pyramids",
+      "topCount": 139,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-03-01-who-really-built-the-pyramids.md",
+      "flaggedWords": [
+        {
+          "word": "pyramids",
+          "count": 139
+        },
+        {
+          "word": "evidence",
+          "count": 120
+        },
+        {
+          "word": "built",
+          "count": 90
+        },
+        {
+          "word": "labor",
+          "count": 89
+        },
+        {
+          "word": "pyramid",
+          "count": 73
+        },
+        {
+          "word": "workers",
+          "count": 62
+        },
+        {
+          "word": "town",
+          "count": 58
+        },
+        {
+          "word": "workforce",
+          "count": 53
+        },
+        {
+          "word": "egyptian",
+          "count": 52
+        },
+        {
+          "word": "giza",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "pyramids",
+          "count": 139
+        },
+        {
+          "word": "evidence",
+          "count": 120
+        },
+        {
+          "word": "built",
+          "count": 90
+        },
+        {
+          "word": "labor",
+          "count": 89
+        },
+        {
+          "word": "pyramid",
+          "count": 73
+        },
+        {
+          "word": "workers",
+          "count": 62
+        },
+        {
+          "word": "town",
+          "count": 58
+        },
+        {
+          "word": "workforce",
+          "count": 53
+        },
+        {
+          "word": "egyptian",
+          "count": 52
+        },
+        {
+          "word": "giza",
+          "count": 51
+        },
+        {
+          "word": "slave",
+          "count": 47
+        },
+        {
+          "word": "organized",
+          "count": 43
+        },
+        {
+          "word": "cemetery",
+          "count": 39
+        },
+        {
+          "word": "builders",
+          "count": 39
+        },
+        {
+          "word": "claim",
+          "count": 36
+        },
+        {
+          "word": "stone",
+          "count": 33
+        },
+        {
+          "word": "slaves",
+          "count": 32
+        },
+        {
+          "word": "egyptians",
+          "count": 31
+        },
+        {
+          "word": "human",
+          "count": 31
+        },
+        {
+          "word": "debate",
           "count": 30
         }
       ]
@@ -24829,6 +26331,144 @@
       ]
     },
     {
+      "filename": "2001-04-01-great-sphinx-of-giza-explained.md",
+      "slug": "great-sphinx-of-giza-explained",
+      "title": "The Great Sphinx of Giza Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7821,
+      "topWord": "sphinx",
+      "topCount": 266,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-04-01-great-sphinx-of-giza-explained.md",
+      "flaggedWords": [
+        {
+          "word": "sphinx",
+          "count": 266
+        },
+        {
+          "word": "monument",
+          "count": 122
+        },
+        {
+          "word": "khafre",
+          "count": 76
+        },
+        {
+          "word": "royal",
+          "count": 67
+        },
+        {
+          "word": "dynasty",
+          "count": 65
+        },
+        {
+          "word": "temple",
+          "count": 62
+        },
+        {
+          "word": "fourth",
+          "count": 60
+        },
+        {
+          "word": "stone",
+          "count": 55
+        },
+        {
+          "word": "king",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "sphinx",
+          "count": 266
+        },
+        {
+          "word": "monument",
+          "count": 122
+        },
+        {
+          "word": "khafre",
+          "count": 76
+        },
+        {
+          "word": "royal",
+          "count": 67
+        },
+        {
+          "word": "dynasty",
+          "count": 65
+        },
+        {
+          "word": "temple",
+          "count": 62
+        },
+        {
+          "word": "fourth",
+          "count": 60
+        },
+        {
+          "word": "stone",
+          "count": 55
+        },
+        {
+          "word": "king",
+          "count": 51
+        },
+        {
+          "word": "giza",
+          "count": 49
+        },
+        {
+          "word": "body",
+          "count": 48
+        },
+        {
+          "word": "carved",
+          "count": 48
+        },
+        {
+          "word": "original",
+          "count": 43
+        },
+        {
+          "word": "evidence",
+          "count": 42
+        },
+        {
+          "word": "solar",
+          "count": 41
+        },
+        {
+          "word": "head",
+          "count": 39
+        },
+        {
+          "word": "kingdom",
+          "count": 39
+        },
+        {
+          "word": "limestone",
+          "count": 38
+        },
+        {
+          "word": "single",
+          "count": 38
+        },
+        {
+          "word": "face",
+          "count": 37
+        }
+      ]
+    },
+    {
       "filename": "2001-04-03-upsc-science-technology-guide.md",
       "slug": "upsc-science-technology-guide",
       "title": "UPSC Science and Technology: Complete Guide",
@@ -25219,6 +26859,132 @@
         {
           "word": "affairs",
           "count": 31
+        }
+      ]
+    },
+    {
+      "filename": "2001-04-15-plumbing-scams-how-to-avoid.md",
+      "slug": "plumbing-scams-how-to-avoid",
+      "title": "Plumbing Scams and How to Avoid Them",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7058,
+      "topWord": "plumber",
+      "topCount": 127,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-04-15-plumbing-scams-how-to-avoid.md",
+      "flaggedWords": [
+        {
+          "word": "plumber",
+          "count": 127
+        },
+        {
+          "word": "permit",
+          "count": 117
+        },
+        {
+          "word": "plumbing",
+          "count": 88
+        },
+        {
+          "word": "operator",
+          "count": 70
+        },
+        {
+          "word": "job",
+          "count": 67
+        },
+        {
+          "word": "problem",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "plumber",
+          "count": 127
+        },
+        {
+          "word": "permit",
+          "count": 117
+        },
+        {
+          "word": "plumbing",
+          "count": 88
+        },
+        {
+          "word": "operator",
+          "count": 70
+        },
+        {
+          "word": "job",
+          "count": 67
+        },
+        {
+          "word": "problem",
+          "count": 54
+        },
+        {
+          "word": "inspection",
+          "count": 49
+        },
+        {
+          "word": "con",
+          "count": 47
+        },
+        {
+          "word": "license",
+          "count": 47
+        },
+        {
+          "word": "honest",
+          "count": 43
+        },
+        {
+          "word": "second",
+          "count": 43
+        },
+        {
+          "word": "cannot",
+          "count": 42
+        },
+        {
+          "word": "payment",
+          "count": 38
+        },
+        {
+          "word": "warranty",
+          "count": 36
+        },
+        {
+          "word": "price",
+          "count": 34
+        },
+        {
+          "word": "quote",
+          "count": 33
+        },
+        {
+          "word": "paper",
+          "count": 31
+        },
+        {
+          "word": "scope",
+          "count": 30
+        },
+        {
+          "word": "claim",
+          "count": 29
+        },
+        {
+          "word": "single",
+          "count": 28
         }
       ]
     },
@@ -25703,6 +27469,152 @@
         {
           "word": "reading",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2001-05-01-pyramids-death-and-the-afterlife.md",
+      "slug": "pyramids-death-and-the-afterlife",
+      "title": "Pyramids, Death, and the Egyptian Afterlife",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7609,
+      "topWord": "king",
+      "topCount": 176,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-05-01-pyramids-death-and-the-afterlife.md",
+      "flaggedWords": [
+        {
+          "word": "king",
+          "count": 176
+        },
+        {
+          "word": "pyramid",
+          "count": 158
+        },
+        {
+          "word": "afterlife",
+          "count": 133
+        },
+        {
+          "word": "dead",
+          "count": 115
+        },
+        {
+          "word": "body",
+          "count": 94
+        },
+        {
+          "word": "ka",
+          "count": 78
+        },
+        {
+          "word": "royal",
+          "count": 65
+        },
+        {
+          "word": "kingdom",
+          "count": 59
+        },
+        {
+          "word": "texts",
+          "count": 59
+        },
+        {
+          "word": "egyptians",
+          "count": 52
+        },
+        {
+          "word": "person",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "king",
+          "count": 176
+        },
+        {
+          "word": "pyramid",
+          "count": 158
+        },
+        {
+          "word": "afterlife",
+          "count": 133
+        },
+        {
+          "word": "dead",
+          "count": 115
+        },
+        {
+          "word": "body",
+          "count": 94
+        },
+        {
+          "word": "ka",
+          "count": 78
+        },
+        {
+          "word": "royal",
+          "count": 65
+        },
+        {
+          "word": "kingdom",
+          "count": 59
+        },
+        {
+          "word": "texts",
+          "count": 59
+        },
+        {
+          "word": "egyptians",
+          "count": 52
+        },
+        {
+          "word": "person",
+          "count": 51
+        },
+        {
+          "word": "egyptian",
+          "count": 50
+        },
+        {
+          "word": "belief",
+          "count": 50
+        },
+        {
+          "word": "sun",
+          "count": 45
+        },
+        {
+          "word": "death",
+          "count": 45
+        },
+        {
+          "word": "pyramids",
+          "count": 44
+        },
+        {
+          "word": "funerary",
+          "count": 43
+        },
+        {
+          "word": "ba",
+          "count": 43
+        },
+        {
+          "word": "offering",
+          "count": 43
+        },
+        {
+          "word": "cult",
+          "count": 41
         }
       ]
     },
@@ -26495,6 +28407,258 @@
         {
           "word": "note",
           "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2001-06-01-life-of-the-pyramid-builders.md",
+      "slug": "life-of-the-pyramid-builders",
+      "title": "The Life of the Pyramid Builders",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7634,
+      "topWord": "pyramid",
+      "topCount": 130,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-06-01-life-of-the-pyramid-builders.md",
+      "flaggedWords": [
+        {
+          "word": "pyramid",
+          "count": 130
+        },
+        {
+          "word": "builders",
+          "count": 115
+        },
+        {
+          "word": "workforce",
+          "count": 82
+        },
+        {
+          "word": "workers",
+          "count": 73
+        },
+        {
+          "word": "giza",
+          "count": 61
+        },
+        {
+          "word": "labor",
+          "count": 61
+        },
+        {
+          "word": "town",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "pyramid",
+          "count": 130
+        },
+        {
+          "word": "builders",
+          "count": 115
+        },
+        {
+          "word": "workforce",
+          "count": 82
+        },
+        {
+          "word": "workers",
+          "count": 73
+        },
+        {
+          "word": "giza",
+          "count": 61
+        },
+        {
+          "word": "labor",
+          "count": 61
+        },
+        {
+          "word": "town",
+          "count": 52
+        },
+        {
+          "word": "pyramids",
+          "count": 50
+        },
+        {
+          "word": "cemetery",
+          "count": 49
+        },
+        {
+          "word": "evidence",
+          "count": 46
+        },
+        {
+          "word": "settlement",
+          "count": 45
+        },
+        {
+          "word": "bread",
+          "count": 41
+        },
+        {
+          "word": "stone",
+          "count": 40
+        },
+        {
+          "word": "built",
+          "count": 40
+        },
+        {
+          "word": "skilled",
+          "count": 40
+        },
+        {
+          "word": "beer",
+          "count": 39
+        },
+        {
+          "word": "king",
+          "count": 36
+        },
+        {
+          "word": "lived",
+          "count": 34
+        },
+        {
+          "word": "fed",
+          "count": 34
+        },
+        {
+          "word": "egyptian",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2001-06-01-plumbing-emergency-what-to-do.md",
+      "slug": "plumbing-emergency-what-to-do",
+      "title": "Plumbing Emergencies: What to Do Right Now",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 5986,
+      "topWord": "emergency",
+      "topCount": 142,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-06-01-plumbing-emergency-what-to-do.md",
+      "flaggedWords": [
+        {
+          "word": "emergency",
+          "count": 142
+        },
+        {
+          "word": "valve",
+          "count": 91
+        },
+        {
+          "word": "main",
+          "count": 75
+        },
+        {
+          "word": "plumbing",
+          "count": 67
+        },
+        {
+          "word": "shutoff",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "emergency",
+          "count": 142
+        },
+        {
+          "word": "valve",
+          "count": 91
+        },
+        {
+          "word": "main",
+          "count": 75
+        },
+        {
+          "word": "plumbing",
+          "count": 67
+        },
+        {
+          "word": "shutoff",
+          "count": 66
+        },
+        {
+          "word": "plumber",
+          "count": 49
+        },
+        {
+          "word": "leak",
+          "count": 44
+        },
+        {
+          "word": "fixture",
+          "count": 43
+        },
+        {
+          "word": "damage",
+          "count": 36
+        },
+        {
+          "word": "power",
+          "count": 33
+        },
+        {
+          "word": "hours",
+          "count": 33
+        },
+        {
+          "word": "pipe",
+          "count": 32
+        },
+        {
+          "word": "stop",
+          "count": 31
+        },
+        {
+          "word": "shut",
+          "count": 31
+        },
+        {
+          "word": "supply",
+          "count": 31
+        },
+        {
+          "word": "guide",
+          "count": 30
+        },
+        {
+          "word": "burst",
+          "count": 29
+        },
+        {
+          "word": "heater",
+          "count": 28
+        },
+        {
+          "word": "repair",
+          "count": 26
+        },
+        {
+          "word": "floor",
+          "count": 26
         }
       ]
     },
@@ -27417,6 +29581,144 @@
       ]
     },
     {
+      "filename": "2001-07-01-how-egypt-paid-for-the-pyramids.md",
+      "slug": "how-egypt-paid-for-the-pyramids",
+      "title": "How Egypt Paid for the Pyramids",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7801,
+      "topWord": "pyramid",
+      "topCount": 171,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-07-01-how-egypt-paid-for-the-pyramids.md",
+      "flaggedWords": [
+        {
+          "word": "pyramid",
+          "count": 171
+        },
+        {
+          "word": "surplus",
+          "count": 141
+        },
+        {
+          "word": "labor",
+          "count": 126
+        },
+        {
+          "word": "grain",
+          "count": 94
+        },
+        {
+          "word": "economy",
+          "count": 92
+        },
+        {
+          "word": "pyramids",
+          "count": 71
+        },
+        {
+          "word": "stone",
+          "count": 65
+        },
+        {
+          "word": "financing",
+          "count": 62
+        },
+        {
+          "word": "monument",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "pyramid",
+          "count": 171
+        },
+        {
+          "word": "surplus",
+          "count": 141
+        },
+        {
+          "word": "labor",
+          "count": 126
+        },
+        {
+          "word": "grain",
+          "count": 94
+        },
+        {
+          "word": "economy",
+          "count": 92
+        },
+        {
+          "word": "pyramids",
+          "count": 71
+        },
+        {
+          "word": "stone",
+          "count": 65
+        },
+        {
+          "word": "financing",
+          "count": 62
+        },
+        {
+          "word": "monument",
+          "count": 55
+        },
+        {
+          "word": "workers",
+          "count": 50
+        },
+        {
+          "word": "kingdom",
+          "count": 47
+        },
+        {
+          "word": "crown",
+          "count": 47
+        },
+        {
+          "word": "building",
+          "count": 44
+        },
+        {
+          "word": "egypt",
+          "count": 42
+        },
+        {
+          "word": "redistributive",
+          "count": 41
+        },
+        {
+          "word": "workforce",
+          "count": 39
+        },
+        {
+          "word": "tax",
+          "count": 37
+        },
+        {
+          "word": "fed",
+          "count": 37
+        },
+        {
+          "word": "organized",
+          "count": 36
+        },
+        {
+          "word": "produce",
+          "count": 35
+        }
+      ]
+    },
+    {
       "filename": "2001-07-02-upsc-regional-language.md",
       "slug": "upsc-regional-language",
       "title": "UPSC for Regional Language Medium Aspirants",
@@ -28299,6 +30601,270 @@
         {
           "word": "paper",
           "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2001-08-01-hire-an-hvac-contractor-guide.md",
+      "slug": "hire-an-hvac-contractor-guide",
+      "title": "How to Hire an HVAC Contractor: Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7933,
+      "topWord": "contractor",
+      "topCount": 165,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-08-01-hire-an-hvac-contractor-guide.md",
+      "flaggedWords": [
+        {
+          "word": "contractor",
+          "count": 165
+        },
+        {
+          "word": "equipment",
+          "count": 94
+        },
+        {
+          "word": "hvac",
+          "count": 78
+        },
+        {
+          "word": "guide",
+          "count": 61
+        },
+        {
+          "word": "air",
+          "count": 60
+        },
+        {
+          "word": "replacement",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "contractor",
+          "count": 165
+        },
+        {
+          "word": "equipment",
+          "count": 94
+        },
+        {
+          "word": "hvac",
+          "count": 78
+        },
+        {
+          "word": "guide",
+          "count": 61
+        },
+        {
+          "word": "air",
+          "count": 60
+        },
+        {
+          "word": "replacement",
+          "count": 55
+        },
+        {
+          "word": "cooling",
+          "count": 49
+        },
+        {
+          "word": "repair",
+          "count": 45
+        },
+        {
+          "word": "quote",
+          "count": 44
+        },
+        {
+          "word": "homeowner",
+          "count": 43
+        },
+        {
+          "word": "job",
+          "count": 43
+        },
+        {
+          "word": "full",
+          "count": 41
+        },
+        {
+          "word": "load",
+          "count": 39
+        },
+        {
+          "word": "heating",
+          "count": 37
+        },
+        {
+          "word": "actually",
+          "count": 36
+        },
+        {
+          "word": "installation",
+          "count": 36
+        },
+        {
+          "word": "warranty",
+          "count": 36
+        },
+        {
+          "word": "decision",
+          "count": 35
+        },
+        {
+          "word": "ductwork",
+          "count": 35
+        },
+        {
+          "word": "refrigerant",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2001-08-01-why-the-old-kingdom-collapsed.md",
+      "slug": "why-the-old-kingdom-collapsed",
+      "title": "Why the Old Kingdom of Egypt Collapsed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7798,
+      "topWord": "collapse",
+      "topCount": 132,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-08-01-why-the-old-kingdom-collapsed.md",
+      "flaggedWords": [
+        {
+          "word": "collapse",
+          "count": 132
+        },
+        {
+          "word": "egypt",
+          "count": 89
+        },
+        {
+          "word": "kingdom",
+          "count": 80
+        },
+        {
+          "word": "climate",
+          "count": 70
+        },
+        {
+          "word": "king",
+          "count": 69
+        },
+        {
+          "word": "fiscal",
+          "count": 59
+        },
+        {
+          "word": "crown",
+          "count": 58
+        },
+        {
+          "word": "provincial",
+          "count": 57
+        },
+        {
+          "word": "central",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "collapse",
+          "count": 132
+        },
+        {
+          "word": "egypt",
+          "count": 89
+        },
+        {
+          "word": "kingdom",
+          "count": 80
+        },
+        {
+          "word": "climate",
+          "count": 70
+        },
+        {
+          "word": "king",
+          "count": 69
+        },
+        {
+          "word": "fiscal",
+          "count": 59
+        },
+        {
+          "word": "crown",
+          "count": 58
+        },
+        {
+          "word": "provincial",
+          "count": 57
+        },
+        {
+          "word": "central",
+          "count": 56
+        },
+        {
+          "word": "local",
+          "count": 50
+        },
+        {
+          "word": "egyptian",
+          "count": 46
+        },
+        {
+          "word": "governors",
+          "count": 45
+        },
+        {
+          "word": "pillar",
+          "count": 42
+        },
+        {
+          "word": "decentralization",
+          "count": 42
+        },
+        {
+          "word": "dynasty",
+          "count": 40
+        },
+        {
+          "word": "evidence",
+          "count": 40
+        },
+        {
+          "word": "cause",
+          "count": 39
+        },
+        {
+          "word": "power",
+          "count": 37
+        },
+        {
+          "word": "single",
+          "count": 36
+        },
+        {
+          "word": "royal",
+          "count": 34
         }
       ]
     },
@@ -29201,6 +31767,132 @@
         {
           "word": "waiting",
           "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2001-09-01-middle-kingdom-of-egypt-guide.md",
+      "slug": "middle-kingdom-of-egypt-guide",
+      "title": "The Middle Kingdom of Egypt: Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8125,
+      "topWord": "kingdom",
+      "topCount": 234,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-09-01-middle-kingdom-of-egypt-guide.md",
+      "flaggedWords": [
+        {
+          "word": "kingdom",
+          "count": 234
+        },
+        {
+          "word": "middle",
+          "count": 178
+        },
+        {
+          "word": "period",
+          "count": 132
+        },
+        {
+          "word": "dynasty",
+          "count": 121
+        },
+        {
+          "word": "age",
+          "count": 87
+        },
+        {
+          "word": "country",
+          "count": 63
+        }
+      ],
+      "top20": [
+        {
+          "word": "kingdom",
+          "count": 234
+        },
+        {
+          "word": "middle",
+          "count": 178
+        },
+        {
+          "word": "period",
+          "count": 132
+        },
+        {
+          "word": "dynasty",
+          "count": 121
+        },
+        {
+          "word": "age",
+          "count": 87
+        },
+        {
+          "word": "country",
+          "count": 63
+        },
+        {
+          "word": "twelfth",
+          "count": 50
+        },
+        {
+          "word": "king",
+          "count": 48
+        },
+        {
+          "word": "built",
+          "count": 47
+        },
+        {
+          "word": "egyptian",
+          "count": 45
+        },
+        {
+          "word": "kings",
+          "count": 44
+        },
+        {
+          "word": "land",
+          "count": 44
+        },
+        {
+          "word": "crown",
+          "count": 42
+        },
+        {
+          "word": "power",
+          "count": 41
+        },
+        {
+          "word": "reconstructed",
+          "count": 40
+        },
+        {
+          "word": "reconstruction",
+          "count": 39
+        },
+        {
+          "word": "north",
+          "count": 38
+        },
+        {
+          "word": "south",
+          "count": 37
+        },
+        {
+          "word": "egypt",
+          "count": 35
+        },
+        {
+          "word": "reign",
+          "count": 34
         }
       ]
     },
@@ -30115,6 +32807,286 @@
       ]
     },
     {
+      "filename": "2001-10-01-egypt-collapse-and-reunification.md",
+      "slug": "egypt-collapse-and-reunification",
+      "title": "Egypt's First Collapse and Reunification",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7947,
+      "topWord": "kingdom",
+      "topCount": 144,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-10-01-egypt-collapse-and-reunification.md",
+      "flaggedWords": [
+        {
+          "word": "kingdom",
+          "count": 144
+        },
+        {
+          "word": "era",
+          "count": 127
+        },
+        {
+          "word": "period",
+          "count": 83
+        },
+        {
+          "word": "intermediate",
+          "count": 80
+        },
+        {
+          "word": "provincial",
+          "count": 77
+        },
+        {
+          "word": "egypt",
+          "count": 73
+        },
+        {
+          "word": "royal",
+          "count": 67
+        },
+        {
+          "word": "age",
+          "count": 59
+        },
+        {
+          "word": "collapse",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "kingdom",
+          "count": 144
+        },
+        {
+          "word": "era",
+          "count": 127
+        },
+        {
+          "word": "period",
+          "count": 83
+        },
+        {
+          "word": "intermediate",
+          "count": 80
+        },
+        {
+          "word": "provincial",
+          "count": 77
+        },
+        {
+          "word": "egypt",
+          "count": 73
+        },
+        {
+          "word": "royal",
+          "count": 67
+        },
+        {
+          "word": "age",
+          "count": 59
+        },
+        {
+          "word": "collapse",
+          "count": 54
+        },
+        {
+          "word": "king",
+          "count": 49
+        },
+        {
+          "word": "theban",
+          "count": 49
+        },
+        {
+          "word": "middle",
+          "count": 48
+        },
+        {
+          "word": "kings",
+          "count": 48
+        },
+        {
+          "word": "egyptian",
+          "count": 46
+        },
+        {
+          "word": "division",
+          "count": 46
+        },
+        {
+          "word": "century",
+          "count": 44
+        },
+        {
+          "word": "single",
+          "count": 43
+        },
+        {
+          "word": "central",
+          "count": 42
+        },
+        {
+          "word": "authority",
+          "count": 38
+        },
+        {
+          "word": "south",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2001-10-01-hvac-cost-guide.md",
+      "slug": "hvac-cost-guide",
+      "title": "HVAC Cost Guide: Repair, Service and Install",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7548,
+      "topWord": "quote",
+      "topCount": 117,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-10-01-hvac-cost-guide.md",
+      "flaggedWords": [
+        {
+          "word": "quote",
+          "count": 117
+        },
+        {
+          "word": "cost",
+          "count": 108
+        },
+        {
+          "word": "price",
+          "count": 76
+        },
+        {
+          "word": "replacement",
+          "count": 71
+        },
+        {
+          "word": "repair",
+          "count": 69
+        },
+        {
+          "word": "hvac",
+          "count": 68
+        },
+        {
+          "word": "labor",
+          "count": 65
+        },
+        {
+          "word": "equipment",
+          "count": 63
+        },
+        {
+          "word": "refrigerant",
+          "count": 53
+        },
+        {
+          "word": "efficiency",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "quote",
+          "count": 117
+        },
+        {
+          "word": "cost",
+          "count": 108
+        },
+        {
+          "word": "price",
+          "count": 76
+        },
+        {
+          "word": "replacement",
+          "count": 71
+        },
+        {
+          "word": "repair",
+          "count": 69
+        },
+        {
+          "word": "hvac",
+          "count": 68
+        },
+        {
+          "word": "labor",
+          "count": 65
+        },
+        {
+          "word": "equipment",
+          "count": 63
+        },
+        {
+          "word": "refrigerant",
+          "count": 53
+        },
+        {
+          "word": "efficiency",
+          "count": 51
+        },
+        {
+          "word": "heat",
+          "count": 49
+        },
+        {
+          "word": "quotes",
+          "count": 48
+        },
+        {
+          "word": "install",
+          "count": 47
+        },
+        {
+          "word": "air",
+          "count": 43
+        },
+        {
+          "word": "load",
+          "count": 42
+        },
+        {
+          "word": "calculation",
+          "count": 42
+        },
+        {
+          "word": "warranty",
+          "count": 41
+        },
+        {
+          "word": "single",
+          "count": 39
+        },
+        {
+          "word": "costs",
+          "count": 39
+        },
+        {
+          "word": "premium",
+          "count": 36
+        }
+      ]
+    },
+    {
       "filename": "2001-10-05-upsc-interview-boards.md",
       "slug": "upsc-interview-boards",
       "title": "UPSC Interview: Board Chairpersons and Styles",
@@ -30859,6 +33831,160 @@
         {
           "word": "current",
           "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2001-11-01-mentuhotep-ii-reunited-egypt.md",
+      "slug": "mentuhotep-ii-reunited-egypt",
+      "title": "Mentuhotep II: The King Who Reunited Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7706,
+      "topWord": "mentuhotep",
+      "topCount": 169,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-11-01-mentuhotep-ii-reunited-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "mentuhotep",
+          "count": 169
+        },
+        {
+          "word": "ii",
+          "count": 153
+        },
+        {
+          "word": "kingdom",
+          "count": 138
+        },
+        {
+          "word": "king",
+          "count": 128
+        },
+        {
+          "word": "reign",
+          "count": 91
+        },
+        {
+          "word": "theban",
+          "count": 86
+        },
+        {
+          "word": "egypt",
+          "count": 67
+        },
+        {
+          "word": "reunification",
+          "count": 67
+        },
+        {
+          "word": "dynasty",
+          "count": 66
+        },
+        {
+          "word": "southern",
+          "count": 65
+        },
+        {
+          "word": "royal",
+          "count": 61
+        },
+        {
+          "word": "egyptian",
+          "count": 59
+        },
+        {
+          "word": "middle",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "mentuhotep",
+          "count": 169
+        },
+        {
+          "word": "ii",
+          "count": 153
+        },
+        {
+          "word": "kingdom",
+          "count": 138
+        },
+        {
+          "word": "king",
+          "count": 128
+        },
+        {
+          "word": "reign",
+          "count": 91
+        },
+        {
+          "word": "theban",
+          "count": 86
+        },
+        {
+          "word": "egypt",
+          "count": 67
+        },
+        {
+          "word": "reunification",
+          "count": 67
+        },
+        {
+          "word": "dynasty",
+          "count": 66
+        },
+        {
+          "word": "southern",
+          "count": 65
+        },
+        {
+          "word": "royal",
+          "count": 61
+        },
+        {
+          "word": "egyptian",
+          "count": 59
+        },
+        {
+          "word": "middle",
+          "count": 52
+        },
+        {
+          "word": "evidence",
+          "count": 41
+        },
+        {
+          "word": "reunified",
+          "count": 40
+        },
+        {
+          "word": "north",
+          "count": 38
+        },
+        {
+          "word": "central",
+          "count": 37
+        },
+        {
+          "word": "kings",
+          "count": 36
+        },
+        {
+          "word": "names",
+          "count": 36
+        },
+        {
+          "word": "war",
+          "count": 34
         }
       ]
     },
@@ -31737,6 +34863,282 @@
         {
           "word": "daily",
           "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2001-12-01-how-to-vet-an-hvac-contractor.md",
+      "slug": "how-to-vet-an-hvac-contractor",
+      "title": "How to Vet an HVAC Contractor",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7194,
+      "topWord": "company",
+      "topCount": 192,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-12-01-how-to-vet-an-hvac-contractor.md",
+      "flaggedWords": [
+        {
+          "word": "company",
+          "count": 192
+        },
+        {
+          "word": "license",
+          "count": 93
+        },
+        {
+          "word": "ask",
+          "count": 68
+        },
+        {
+          "word": "calculation",
+          "count": 63
+        },
+        {
+          "word": "certification",
+          "count": 61
+        },
+        {
+          "word": "load",
+          "count": 52
+        },
+        {
+          "word": "warranty",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "company",
+          "count": 192
+        },
+        {
+          "word": "license",
+          "count": 93
+        },
+        {
+          "word": "ask",
+          "count": 68
+        },
+        {
+          "word": "calculation",
+          "count": 63
+        },
+        {
+          "word": "certification",
+          "count": 61
+        },
+        {
+          "word": "load",
+          "count": 52
+        },
+        {
+          "word": "warranty",
+          "count": 52
+        },
+        {
+          "word": "vetting",
+          "count": 44
+        },
+        {
+          "word": "quote",
+          "count": 44
+        },
+        {
+          "word": "refrigerant",
+          "count": 41
+        },
+        {
+          "word": "insurance",
+          "count": 40
+        },
+        {
+          "word": "confirm",
+          "count": 39
+        },
+        {
+          "word": "person",
+          "count": 37
+        },
+        {
+          "word": "job",
+          "count": 37
+        },
+        {
+          "word": "size",
+          "count": 35
+        },
+        {
+          "word": "price",
+          "count": 33
+        },
+        {
+          "word": "technician",
+          "count": 33
+        },
+        {
+          "word": "hvac",
+          "count": 30
+        },
+        {
+          "word": "equipment",
+          "count": 29
+        },
+        {
+          "word": "salesperson",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2001-12-01-senusret-iii-middle-kingdom.md",
+      "slug": "senusret-iii-middle-kingdom",
+      "title": "Senusret III and the Middle Kingdom Peak",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7872,
+      "topWord": "senusret",
+      "topCount": 172,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2001-12-01-senusret-iii-middle-kingdom.md",
+      "flaggedWords": [
+        {
+          "word": "senusret",
+          "count": 172
+        },
+        {
+          "word": "iii",
+          "count": 168
+        },
+        {
+          "word": "king",
+          "count": 146
+        },
+        {
+          "word": "reign",
+          "count": 121
+        },
+        {
+          "word": "frontier",
+          "count": 84
+        },
+        {
+          "word": "kingdom",
+          "count": 78
+        },
+        {
+          "word": "royal",
+          "count": 72
+        },
+        {
+          "word": "egyptian",
+          "count": 69
+        },
+        {
+          "word": "dynasty",
+          "count": 67
+        },
+        {
+          "word": "egypt",
+          "count": 55
+        },
+        {
+          "word": "middle",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "senusret",
+          "count": 172
+        },
+        {
+          "word": "iii",
+          "count": 168
+        },
+        {
+          "word": "king",
+          "count": 146
+        },
+        {
+          "word": "reign",
+          "count": 121
+        },
+        {
+          "word": "frontier",
+          "count": 84
+        },
+        {
+          "word": "kingdom",
+          "count": 78
+        },
+        {
+          "word": "royal",
+          "count": 72
+        },
+        {
+          "word": "egyptian",
+          "count": 69
+        },
+        {
+          "word": "dynasty",
+          "count": 67
+        },
+        {
+          "word": "egypt",
+          "count": 55
+        },
+        {
+          "word": "middle",
+          "count": 53
+        },
+        {
+          "word": "nubia",
+          "count": 43
+        },
+        {
+          "word": "record",
+          "count": 41
+        },
+        {
+          "word": "face",
+          "count": 39
+        },
+        {
+          "word": "southern",
+          "count": 33
+        },
+        {
+          "word": "careworn",
+          "count": 33
+        },
+        {
+          "word": "evidence",
+          "count": 33
+        },
+        {
+          "word": "twelfth",
+          "count": 32
+        },
+        {
+          "word": "single",
+          "count": 31
+        },
+        {
+          "word": "legend",
+          "count": 30
         }
       ]
     },
@@ -33093,6 +36495,140 @@
         {
           "word": "second",
           "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2002-01-15-hvac-warning-signs.md",
+      "slug": "hvac-warning-signs",
+      "title": "AC and Furnace Warning Signs to Watch For",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7562,
+      "topWord": "air",
+      "topCount": 102,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-01-15-hvac-warning-signs.md",
+      "flaggedWords": [
+        {
+          "word": "air",
+          "count": 102
+        },
+        {
+          "word": "furnace",
+          "count": 101
+        },
+        {
+          "word": "filter",
+          "count": 96
+        },
+        {
+          "word": "gas",
+          "count": 63
+        },
+        {
+          "word": "thermostat",
+          "count": 62
+        },
+        {
+          "word": "smell",
+          "count": 60
+        },
+        {
+          "word": "refrigerant",
+          "count": 60
+        },
+        {
+          "word": "heat",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "air",
+          "count": 102
+        },
+        {
+          "word": "furnace",
+          "count": 101
+        },
+        {
+          "word": "filter",
+          "count": 96
+        },
+        {
+          "word": "gas",
+          "count": 63
+        },
+        {
+          "word": "thermostat",
+          "count": 62
+        },
+        {
+          "word": "smell",
+          "count": 60
+        },
+        {
+          "word": "refrigerant",
+          "count": 60
+        },
+        {
+          "word": "heat",
+          "count": 54
+        },
+        {
+          "word": "unit",
+          "count": 50
+        },
+        {
+          "word": "leak",
+          "count": 47
+        },
+        {
+          "word": "symptom",
+          "count": 45
+        },
+        {
+          "word": "cooling",
+          "count": 45
+        },
+        {
+          "word": "safety",
+          "count": 45
+        },
+        {
+          "word": "airflow",
+          "count": 43
+        },
+        {
+          "word": "safe",
+          "count": 42
+        },
+        {
+          "word": "repair",
+          "count": 40
+        },
+        {
+          "word": "coil",
+          "count": 39
+        },
+        {
+          "word": "check",
+          "count": 39
+        },
+        {
+          "word": "vents",
+          "count": 38
+        },
+        {
+          "word": "hvac",
+          "count": 37
         }
       ]
     },
@@ -34835,6 +38371,144 @@
         {
           "word": "western",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2002-03-15-repair-or-replace-ac-furnace.md",
+      "slug": "repair-or-replace-ac-furnace",
+      "title": "Repair or Replace Your AC or Furnace?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6104,
+      "topWord": "unit",
+      "topCount": 161,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-03-15-repair-or-replace-ac-furnace.md",
+      "flaggedWords": [
+        {
+          "word": "unit",
+          "count": 161
+        },
+        {
+          "word": "repair",
+          "count": 118
+        },
+        {
+          "word": "equipment",
+          "count": 113
+        },
+        {
+          "word": "replacement",
+          "count": 93
+        },
+        {
+          "word": "cost",
+          "count": 90
+        },
+        {
+          "word": "age",
+          "count": 56
+        },
+        {
+          "word": "efficiency",
+          "count": 55
+        },
+        {
+          "word": "decision",
+          "count": 54
+        },
+        {
+          "word": "second",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "unit",
+          "count": 161
+        },
+        {
+          "word": "repair",
+          "count": 118
+        },
+        {
+          "word": "equipment",
+          "count": 113
+        },
+        {
+          "word": "replacement",
+          "count": 93
+        },
+        {
+          "word": "cost",
+          "count": 90
+        },
+        {
+          "word": "age",
+          "count": 56
+        },
+        {
+          "word": "efficiency",
+          "count": 55
+        },
+        {
+          "word": "decision",
+          "count": 54
+        },
+        {
+          "word": "second",
+          "count": 53
+        },
+        {
+          "word": "failure",
+          "count": 47
+        },
+        {
+          "word": "refrigerant",
+          "count": 43
+        },
+        {
+          "word": "failed",
+          "count": 43
+        },
+        {
+          "word": "cooling",
+          "count": 41
+        },
+        {
+          "word": "diagnosis",
+          "count": 40
+        },
+        {
+          "word": "replace",
+          "count": 39
+        },
+        {
+          "word": "heat",
+          "count": 37
+        },
+        {
+          "word": "fix",
+          "count": 36
+        },
+        {
+          "word": "opinion",
+          "count": 35
+        },
+        {
+          "word": "furnace",
+          "count": 33
+        },
+        {
+          "word": "compressor",
+          "count": 33
         }
       ]
     },
@@ -36759,6 +40433,140 @@
       ]
     },
     {
+      "filename": "2002-05-15-choosing-an-hvac-system.md",
+      "slug": "choosing-an-hvac-system",
+      "title": "Choosing an HVAC System: Sizing and Types",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6598,
+      "topWord": "heat",
+      "topCount": 124,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-05-15-choosing-an-hvac-system.md",
+      "flaggedWords": [
+        {
+          "word": "heat",
+          "count": 124
+        },
+        {
+          "word": "efficiency",
+          "count": 95
+        },
+        {
+          "word": "unit",
+          "count": 83
+        },
+        {
+          "word": "air",
+          "count": 69
+        },
+        {
+          "word": "equipment",
+          "count": 63
+        },
+        {
+          "word": "pump",
+          "count": 61
+        },
+        {
+          "word": "calculation",
+          "count": 55
+        },
+        {
+          "word": "size",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "heat",
+          "count": 124
+        },
+        {
+          "word": "efficiency",
+          "count": 95
+        },
+        {
+          "word": "unit",
+          "count": 83
+        },
+        {
+          "word": "air",
+          "count": 69
+        },
+        {
+          "word": "equipment",
+          "count": 63
+        },
+        {
+          "word": "pump",
+          "count": 61
+        },
+        {
+          "word": "calculation",
+          "count": 55
+        },
+        {
+          "word": "size",
+          "count": 53
+        },
+        {
+          "word": "gas",
+          "count": 49
+        },
+        {
+          "word": "comfort",
+          "count": 48
+        },
+        {
+          "word": "climate",
+          "count": 47
+        },
+        {
+          "word": "furnace",
+          "count": 44
+        },
+        {
+          "word": "cold",
+          "count": 44
+        },
+        {
+          "word": "cost",
+          "count": 44
+        },
+        {
+          "word": "load",
+          "count": 43
+        },
+        {
+          "word": "capacity",
+          "count": 37
+        },
+        {
+          "word": "sized",
+          "count": 36
+        },
+        {
+          "word": "tier",
+          "count": 35
+        },
+        {
+          "word": "heating",
+          "count": 35
+        },
+        {
+          "word": "energy",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2002-05-18-upsc-history-optional-paper-2.md",
       "slug": "upsc-history-optional-paper-2",
       "title": "UPSC History Optional Paper 2 Modern India and World History",
@@ -38567,6 +42375,144 @@
         {
           "word": "hours",
           "count": 60
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-01-hvac-maintenance-schedule.md",
+      "slug": "hvac-maintenance-schedule",
+      "title": "HVAC Maintenance Schedule for Every Season",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7406,
+      "topWord": "filter",
+      "topCount": 87,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-01-hvac-maintenance-schedule.md",
+      "flaggedWords": [
+        {
+          "word": "filter",
+          "count": 87
+        },
+        {
+          "word": "heat",
+          "count": 84
+        },
+        {
+          "word": "cooling",
+          "count": 77
+        },
+        {
+          "word": "season",
+          "count": 74
+        },
+        {
+          "word": "maintenance",
+          "count": 70
+        },
+        {
+          "word": "heating",
+          "count": 65
+        },
+        {
+          "word": "equipment",
+          "count": 65
+        },
+        {
+          "word": "tune",
+          "count": 63
+        },
+        {
+          "word": "air",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "filter",
+          "count": 87
+        },
+        {
+          "word": "heat",
+          "count": 84
+        },
+        {
+          "word": "cooling",
+          "count": 77
+        },
+        {
+          "word": "season",
+          "count": 74
+        },
+        {
+          "word": "maintenance",
+          "count": 70
+        },
+        {
+          "word": "heating",
+          "count": 65
+        },
+        {
+          "word": "equipment",
+          "count": 65
+        },
+        {
+          "word": "tune",
+          "count": 63
+        },
+        {
+          "word": "air",
+          "count": 56
+        },
+        {
+          "word": "visit",
+          "count": 49
+        },
+        {
+          "word": "warranty",
+          "count": 45
+        },
+        {
+          "word": "furnace",
+          "count": 43
+        },
+        {
+          "word": "unit",
+          "count": 43
+        },
+        {
+          "word": "homeowner",
+          "count": 41
+        },
+        {
+          "word": "routine",
+          "count": 40
+        },
+        {
+          "word": "professional",
+          "count": 38
+        },
+        {
+          "word": "schedule",
+          "count": 37
+        },
+        {
+          "word": "technician",
+          "count": 37
+        },
+        {
+          "word": "clear",
+          "count": 33
+        },
+        {
+          "word": "keeping",
+          "count": 33
         }
       ]
     },
@@ -41140,6 +45086,160 @@
       ]
     },
     {
+      "filename": "2002-09-01-hvac-needs-by-climate.md",
+      "slug": "hvac-needs-by-climate",
+      "title": "HVAC Needs by Climate: Hot, Cold and Humid",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8015,
+      "topWord": "climate",
+      "topCount": 256,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-09-01-hvac-needs-by-climate.md",
+      "flaggedWords": [
+        {
+          "word": "climate",
+          "count": 256
+        },
+        {
+          "word": "heat",
+          "count": 138
+        },
+        {
+          "word": "air",
+          "count": 127
+        },
+        {
+          "word": "cooling",
+          "count": 123
+        },
+        {
+          "word": "heating",
+          "count": 106
+        },
+        {
+          "word": "cold",
+          "count": 94
+        },
+        {
+          "word": "equipment",
+          "count": 89
+        },
+        {
+          "word": "moisture",
+          "count": 69
+        },
+        {
+          "word": "region",
+          "count": 62
+        },
+        {
+          "word": "humid",
+          "count": 60
+        },
+        {
+          "word": "dry",
+          "count": 55
+        },
+        {
+          "word": "pump",
+          "count": 55
+        },
+        {
+          "word": "backup",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "climate",
+          "count": 256
+        },
+        {
+          "word": "heat",
+          "count": 138
+        },
+        {
+          "word": "air",
+          "count": 127
+        },
+        {
+          "word": "cooling",
+          "count": 123
+        },
+        {
+          "word": "heating",
+          "count": 106
+        },
+        {
+          "word": "cold",
+          "count": 94
+        },
+        {
+          "word": "equipment",
+          "count": 89
+        },
+        {
+          "word": "moisture",
+          "count": 69
+        },
+        {
+          "word": "region",
+          "count": 62
+        },
+        {
+          "word": "humid",
+          "count": 60
+        },
+        {
+          "word": "dry",
+          "count": 55
+        },
+        {
+          "word": "pump",
+          "count": 55
+        },
+        {
+          "word": "backup",
+          "count": 52
+        },
+        {
+          "word": "temperature",
+          "count": 48
+        },
+        {
+          "word": "winter",
+          "count": 47
+        },
+        {
+          "word": "humidity",
+          "count": 46
+        },
+        {
+          "word": "hot",
+          "count": 40
+        },
+        {
+          "word": "local",
+          "count": 39
+        },
+        {
+          "word": "load",
+          "count": 38
+        },
+        {
+          "word": "comfort",
+          "count": 37
+        }
+      ]
+    },
+    {
       "filename": "2002-09-03-upsc-gs4-case-study-answer-writing.md",
       "slug": "upsc-gs4-case-study-answer-writing",
       "title": "UPSC GS4 How to Write Case Study Answers That Score",
@@ -43679,6 +47779,120 @@
       ]
     },
     {
+      "filename": "2002-11-01-hvac-scams-to-avoid.md",
+      "slug": "hvac-scams-to-avoid",
+      "title": "HVAC Scams and Overcharging to Avoid",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7128,
+      "topWord": "hvac",
+      "topCount": 80,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-11-01-hvac-scams-to-avoid.md",
+      "flaggedWords": [
+        {
+          "word": "hvac",
+          "count": 80
+        },
+        {
+          "word": "technician",
+          "count": 60
+        },
+        {
+          "word": "second",
+          "count": 60
+        }
+      ],
+      "top20": [
+        {
+          "word": "hvac",
+          "count": 80
+        },
+        {
+          "word": "technician",
+          "count": 60
+        },
+        {
+          "word": "second",
+          "count": 60
+        },
+        {
+          "word": "diagnosis",
+          "count": 47
+        },
+        {
+          "word": "quote",
+          "count": 46
+        },
+        {
+          "word": "permit",
+          "count": 46
+        },
+        {
+          "word": "company",
+          "count": 44
+        },
+        {
+          "word": "warranty",
+          "count": 43
+        },
+        {
+          "word": "replacement",
+          "count": 42
+        },
+        {
+          "word": "honest",
+          "count": 40
+        },
+        {
+          "word": "price",
+          "count": 40
+        },
+        {
+          "word": "repair",
+          "count": 39
+        },
+        {
+          "word": "opinion",
+          "count": 38
+        },
+        {
+          "word": "homeowner",
+          "count": 37
+        },
+        {
+          "word": "operator",
+          "count": 37
+        },
+        {
+          "word": "problem",
+          "count": 36
+        },
+        {
+          "word": "inspection",
+          "count": 35
+        },
+        {
+          "word": "furnace",
+          "count": 32
+        },
+        {
+          "word": "equipment",
+          "count": 31
+        },
+        {
+          "word": "service",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2002-11-05-upsc-gs2-governance-transparency-accountability-egovernance.md",
       "slug": "upsc-gs2-governance-transparency-accountability-egovernance",
       "title": "UPSC GS2 Governance, Transparency, Accountability",
@@ -45629,6 +49843,124 @@
         {
           "word": "agreements",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2003-01-01-no-heat-no-ac-emergency-steps.md",
+      "slug": "no-heat-no-ac-emergency-steps",
+      "title": "No Heat or No AC: Emergency Steps",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6345,
+      "topWord": "heat",
+      "topCount": 115,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-01-01-no-heat-no-ac-emergency-steps.md",
+      "flaggedWords": [
+        {
+          "word": "heat",
+          "count": 115
+        },
+        {
+          "word": "emergency",
+          "count": 98
+        },
+        {
+          "word": "furnace",
+          "count": 62
+        },
+        {
+          "word": "gas",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "heat",
+          "count": 115
+        },
+        {
+          "word": "emergency",
+          "count": 98
+        },
+        {
+          "word": "furnace",
+          "count": 62
+        },
+        {
+          "word": "gas",
+          "count": 54
+        },
+        {
+          "word": "carbon",
+          "count": 44
+        },
+        {
+          "word": "monoxide",
+          "count": 44
+        },
+        {
+          "word": "problem",
+          "count": 42
+        },
+        {
+          "word": "air",
+          "count": 40
+        },
+        {
+          "word": "technician",
+          "count": 40
+        },
+        {
+          "word": "repair",
+          "count": 40
+        },
+        {
+          "word": "equipment",
+          "count": 38
+        },
+        {
+          "word": "breaker",
+          "count": 37
+        },
+        {
+          "word": "cold",
+          "count": 36
+        },
+        {
+          "word": "thermostat",
+          "count": 36
+        },
+        {
+          "word": "night",
+          "count": 35
+        },
+        {
+          "word": "filter",
+          "count": 35
+        },
+        {
+          "word": "safe",
+          "count": 33
+        },
+        {
+          "word": "crisis",
+          "count": 32
+        },
+        {
+          "word": "hvac",
+          "count": 31
+        },
+        {
+          "word": "safety",
+          "count": 30
         }
       ]
     },
@@ -357780,6 +362112,144 @@
       ]
     },
     {
+      "filename": "2026-02-01-article-5-and-the-ghost-of-1939.md",
+      "slug": "article-5-and-the-ghost-of-1939",
+      "title": "Article 5 and the Ghost of 1939",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7221,
+      "topWord": "guarantee",
+      "topCount": 152,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-02-01-article-5-and-the-ghost-of-1939.md",
+      "flaggedWords": [
+        {
+          "word": "guarantee",
+          "count": 152
+        },
+        {
+          "word": "poland",
+          "count": 139
+        },
+        {
+          "word": "modern",
+          "count": 94
+        },
+        {
+          "word": "forces",
+          "count": 75
+        },
+        {
+          "word": "guarantees",
+          "count": 59
+        },
+        {
+          "word": "command",
+          "count": 59
+        },
+        {
+          "word": "interwar",
+          "count": 52
+        },
+        {
+          "word": "war",
+          "count": 52
+        },
+        {
+          "word": "posture",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "guarantee",
+          "count": 152
+        },
+        {
+          "word": "poland",
+          "count": 139
+        },
+        {
+          "word": "modern",
+          "count": 94
+        },
+        {
+          "word": "forces",
+          "count": 75
+        },
+        {
+          "word": "guarantees",
+          "count": 59
+        },
+        {
+          "word": "command",
+          "count": 59
+        },
+        {
+          "word": "interwar",
+          "count": 52
+        },
+        {
+          "word": "war",
+          "count": 52
+        },
+        {
+          "word": "posture",
+          "count": 51
+        },
+        {
+          "word": "promise",
+          "count": 42
+        },
+        {
+          "word": "allied",
+          "count": 42
+        },
+        {
+          "word": "alliance",
+          "count": 40
+        },
+        {
+          "word": "attack",
+          "count": 38
+        },
+        {
+          "word": "lesson",
+          "count": 36
+        },
+        {
+          "word": "failure",
+          "count": 35
+        },
+        {
+          "word": "germany",
+          "count": 35
+        },
+        {
+          "word": "integrated",
+          "count": 34
+        },
+        {
+          "word": "present",
+          "count": 32
+        },
+        {
+          "word": "guarantor",
+          "count": 31
+        },
+        {
+          "word": "guarantors",
+          "count": 31
+        }
+      ]
+    },
+    {
       "filename": "2026-02-01-best-bollywood-spy-thriller-movies-ranked.md",
       "slug": "best-bollywood-spy-thriller-movies-ranked",
       "title": "Best Bollywood Spy Thrillers Ranked",
@@ -358904,6 +363374,144 @@
       ]
     },
     {
+      "filename": "2026-02-11-inside-polands-military-buildup.md",
+      "slug": "inside-polands-military-buildup",
+      "title": "Inside Poland's Military Buildup",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8834,
+      "topWord": "force",
+      "topCount": 146,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-02-11-inside-polands-military-buildup.md",
+      "flaggedWords": [
+        {
+          "word": "force",
+          "count": 146
+        },
+        {
+          "word": "sustainment",
+          "count": 120
+        },
+        {
+          "word": "defense",
+          "count": 95
+        },
+        {
+          "word": "poland",
+          "count": 84
+        },
+        {
+          "word": "systems",
+          "count": 78
+        },
+        {
+          "word": "platforms",
+          "count": 75
+        },
+        {
+          "word": "coherence",
+          "count": 73
+        },
+        {
+          "word": "buildup",
+          "count": 70
+        },
+        {
+          "word": "program",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "force",
+          "count": 146
+        },
+        {
+          "word": "sustainment",
+          "count": 120
+        },
+        {
+          "word": "defense",
+          "count": 95
+        },
+        {
+          "word": "poland",
+          "count": 84
+        },
+        {
+          "word": "systems",
+          "count": 78
+        },
+        {
+          "word": "platforms",
+          "count": 75
+        },
+        {
+          "word": "coherence",
+          "count": 73
+        },
+        {
+          "word": "buildup",
+          "count": 70
+        },
+        {
+          "word": "program",
+          "count": 56
+        },
+        {
+          "word": "assessment",
+          "count": 50
+        },
+        {
+          "word": "air",
+          "count": 48
+        },
+        {
+          "word": "fires",
+          "count": 47
+        },
+        {
+          "word": "question",
+          "count": 46
+        },
+        {
+          "word": "armor",
+          "count": 43
+        },
+        {
+          "word": "power",
+          "count": 42
+        },
+        {
+          "word": "integration",
+          "count": 41
+        },
+        {
+          "word": "manpower",
+          "count": 39
+        },
+        {
+          "word": "depth",
+          "count": 39
+        },
+        {
+          "word": "capability",
+          "count": 38
+        },
+        {
+          "word": "gap",
+          "count": 37
+        }
+      ]
+    },
+    {
       "filename": "2026-02-12-best-ai-tools-teachers.md",
       "slug": "best-ai-tools-teachers",
       "title": "Best AI Tools for Teachers and Educators",
@@ -359894,6 +364502,148 @@
       ]
     },
     {
+      "filename": "2026-02-21-polands-300000-strong-army-plan.md",
+      "slug": "polands-300000-strong-army-plan",
+      "title": "Poland's Plan for a 300,000-Strong Army",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7952,
+      "topWord": "force",
+      "topCount": 171,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-02-21-polands-300000-strong-army-plan.md",
+      "flaggedWords": [
+        {
+          "word": "force",
+          "count": 171
+        },
+        {
+          "word": "plan",
+          "count": 126
+        },
+        {
+          "word": "retention",
+          "count": 97
+        },
+        {
+          "word": "training",
+          "count": 84
+        },
+        {
+          "word": "trained",
+          "count": 71
+        },
+        {
+          "word": "headline",
+          "count": 69
+        },
+        {
+          "word": "manpower",
+          "count": 67
+        },
+        {
+          "word": "strength",
+          "count": 54
+        },
+        {
+          "word": "recruiting",
+          "count": 54
+        },
+        {
+          "word": "poland",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "force",
+          "count": 171
+        },
+        {
+          "word": "plan",
+          "count": 126
+        },
+        {
+          "word": "retention",
+          "count": 97
+        },
+        {
+          "word": "training",
+          "count": 84
+        },
+        {
+          "word": "trained",
+          "count": 71
+        },
+        {
+          "word": "headline",
+          "count": 69
+        },
+        {
+          "word": "manpower",
+          "count": 67
+        },
+        {
+          "word": "strength",
+          "count": 54
+        },
+        {
+          "word": "recruiting",
+          "count": 54
+        },
+        {
+          "word": "poland",
+          "count": 53
+        },
+        {
+          "word": "army",
+          "count": 50
+        },
+        {
+          "word": "target",
+          "count": 50
+        },
+        {
+          "word": "equipment",
+          "count": 50
+        },
+        {
+          "word": "soldiers",
+          "count": 46
+        },
+        {
+          "word": "size",
+          "count": 42
+        },
+        {
+          "word": "expansion",
+          "count": 42
+        },
+        {
+          "word": "territorial",
+          "count": 41
+        },
+        {
+          "word": "growth",
+          "count": 38
+        },
+        {
+          "word": "professional",
+          "count": 38
+        },
+        {
+          "word": "throughput",
+          "count": 37
+        }
+      ]
+    },
+    {
       "filename": "2026-02-22-gaokao-registration-process.md",
       "slug": "gaokao-registration-process",
       "title": "高考报名流程全攻略 - 从资格到缴费一站式指南",
@@ -360632,6 +365382,152 @@
         {
           "word": "public",
           "count": 48
+        }
+      ]
+    },
+    {
+      "filename": "2026-03-01-why-poland-bought-abrams-and-k2.md",
+      "slug": "why-poland-bought-abrams-and-k2",
+      "title": "Why Poland Bought Abrams and K2 Tanks",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7654,
+      "topWord": "armor",
+      "topCount": 134,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-03-01-why-poland-bought-abrams-and-k2.md",
+      "flaggedWords": [
+        {
+          "word": "armor",
+          "count": 134
+        },
+        {
+          "word": "poland",
+          "count": 130
+        },
+        {
+          "word": "fleet",
+          "count": 110
+        },
+        {
+          "word": "tanks",
+          "count": 84
+        },
+        {
+          "word": "force",
+          "count": 83
+        },
+        {
+          "word": "sustainment",
+          "count": 78
+        },
+        {
+          "word": "tank",
+          "count": 69
+        },
+        {
+          "word": "heavy",
+          "count": 57
+        },
+        {
+          "word": "fleets",
+          "count": 56
+        },
+        {
+          "word": "armored",
+          "count": 55
+        },
+        {
+          "word": "mass",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "armor",
+          "count": 134
+        },
+        {
+          "word": "poland",
+          "count": 130
+        },
+        {
+          "word": "fleet",
+          "count": 110
+        },
+        {
+          "word": "tanks",
+          "count": 84
+        },
+        {
+          "word": "force",
+          "count": 83
+        },
+        {
+          "word": "sustainment",
+          "count": 78
+        },
+        {
+          "word": "tank",
+          "count": 69
+        },
+        {
+          "word": "heavy",
+          "count": 57
+        },
+        {
+          "word": "fleets",
+          "count": 56
+        },
+        {
+          "word": "armored",
+          "count": 55
+        },
+        {
+          "word": "mass",
+          "count": 51
+        },
+        {
+          "word": "capability",
+          "count": 48
+        },
+        {
+          "word": "ground",
+          "count": 44
+        },
+        {
+          "word": "analysis",
+          "count": 41
+        },
+        {
+          "word": "defense",
+          "count": 39
+        },
+        {
+          "word": "decision",
+          "count": 38
+        },
+        {
+          "word": "bet",
+          "count": 36
+        },
+        {
+          "word": "cannot",
+          "count": 35
+        },
+        {
+          "word": "question",
+          "count": 34
+        },
+        {
+          "word": "twin",
+          "count": 34
         }
       ]
     },
@@ -361868,6 +366764,148 @@
       ]
     },
     {
+      "filename": "2026-03-11-polands-himars-deep-strike-power.md",
+      "slug": "polands-himars-deep-strike-power",
+      "title": "Poland's HIMARS and Deep-Strike Power",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7858,
+      "topWord": "strike",
+      "topCount": 196,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-03-11-polands-himars-deep-strike-power.md",
+      "flaggedWords": [
+        {
+          "word": "strike",
+          "count": 196
+        },
+        {
+          "word": "deep",
+          "count": 187
+        },
+        {
+          "word": "capability",
+          "count": 143
+        },
+        {
+          "word": "adversary",
+          "count": 96
+        },
+        {
+          "word": "magazine",
+          "count": 94
+        },
+        {
+          "word": "fires",
+          "count": 82
+        },
+        {
+          "word": "reach",
+          "count": 72
+        },
+        {
+          "word": "launcher",
+          "count": 65
+        },
+        {
+          "word": "precision",
+          "count": 62
+        },
+        {
+          "word": "poland",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "strike",
+          "count": 196
+        },
+        {
+          "word": "deep",
+          "count": 187
+        },
+        {
+          "word": "capability",
+          "count": 143
+        },
+        {
+          "word": "adversary",
+          "count": 96
+        },
+        {
+          "word": "magazine",
+          "count": 94
+        },
+        {
+          "word": "fires",
+          "count": 82
+        },
+        {
+          "word": "reach",
+          "count": 72
+        },
+        {
+          "word": "launcher",
+          "count": 65
+        },
+        {
+          "word": "precision",
+          "count": 62
+        },
+        {
+          "word": "poland",
+          "count": 56
+        },
+        {
+          "word": "launchers",
+          "count": 50
+        },
+        {
+          "word": "depth",
+          "count": 50
+        },
+        {
+          "word": "rear",
+          "count": 49
+        },
+        {
+          "word": "assessment",
+          "count": 45
+        },
+        {
+          "word": "targeting",
+          "count": 45
+        },
+        {
+          "word": "enablers",
+          "count": 44
+        },
+        {
+          "word": "force",
+          "count": 43
+        },
+        {
+          "word": "range",
+          "count": 40
+        },
+        {
+          "word": "polish",
+          "count": 39
+        },
+        {
+          "word": "denial",
+          "count": 38
+        }
+      ]
+    },
+    {
       "filename": "2026-03-12-dhurandhar-the-revenge-alternate-endings.md",
       "slug": "dhurandhar-the-revenge-alternate-endings",
       "title": "Exploring Alternative Endings to Dhurandhar: The Revenge",
@@ -362936,6 +367974,176 @@
         {
           "word": "franchise",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2026-03-21-can-poland-afford-defense-spending.md",
+      "slug": "can-poland-afford-defense-spending",
+      "title": "Can Poland Afford Its Defense Spending?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7606,
+      "topWord": "affordability",
+      "topCount": 124,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-03-21-can-poland-afford-defense-spending.md",
+      "flaggedWords": [
+        {
+          "word": "affordability",
+          "count": 124
+        },
+        {
+          "word": "buildup",
+          "count": 102
+        },
+        {
+          "word": "force",
+          "count": 102
+        },
+        {
+          "word": "debt",
+          "count": 99
+        },
+        {
+          "word": "sustainment",
+          "count": 92
+        },
+        {
+          "word": "tail",
+          "count": 91
+        },
+        {
+          "word": "surge",
+          "count": 69
+        },
+        {
+          "word": "spending",
+          "count": 67
+        },
+        {
+          "word": "cost",
+          "count": 67
+        },
+        {
+          "word": "acquisition",
+          "count": 67
+        },
+        {
+          "word": "budget",
+          "count": 67
+        },
+        {
+          "word": "defense",
+          "count": 61
+        },
+        {
+          "word": "question",
+          "count": 59
+        },
+        {
+          "word": "growth",
+          "count": 59
+        },
+        {
+          "word": "costs",
+          "count": 57
+        },
+        {
+          "word": "fiscal",
+          "count": 51
+        },
+        {
+          "word": "baseline",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "affordability",
+          "count": 124
+        },
+        {
+          "word": "buildup",
+          "count": 102
+        },
+        {
+          "word": "force",
+          "count": 102
+        },
+        {
+          "word": "debt",
+          "count": 99
+        },
+        {
+          "word": "sustainment",
+          "count": 92
+        },
+        {
+          "word": "tail",
+          "count": 91
+        },
+        {
+          "word": "surge",
+          "count": 69
+        },
+        {
+          "word": "spending",
+          "count": 67
+        },
+        {
+          "word": "cost",
+          "count": 67
+        },
+        {
+          "word": "acquisition",
+          "count": 67
+        },
+        {
+          "word": "budget",
+          "count": 67
+        },
+        {
+          "word": "defense",
+          "count": 61
+        },
+        {
+          "word": "question",
+          "count": 59
+        },
+        {
+          "word": "growth",
+          "count": 59
+        },
+        {
+          "word": "costs",
+          "count": 57
+        },
+        {
+          "word": "fiscal",
+          "count": 51
+        },
+        {
+          "word": "baseline",
+          "count": 51
+        },
+        {
+          "word": "service",
+          "count": 50
+        },
+        {
+          "word": "economy",
+          "count": 43
+        },
+        {
+          "word": "burden",
+          "count": 38
         }
       ]
     },
@@ -364822,6 +370030,172 @@
       ]
     },
     {
+      "filename": "2026-04-01-poland-vs-russia-military-balance.md",
+      "slug": "poland-vs-russia-military-balance",
+      "title": "Poland vs Russia: The Military Balance",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7160,
+      "topWord": "poland",
+      "topCount": 221,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-04-01-poland-vs-russia-military-balance.md",
+      "flaggedWords": [
+        {
+          "word": "poland",
+          "count": 221
+        },
+        {
+          "word": "russia",
+          "count": 148
+        },
+        {
+          "word": "force",
+          "count": 92
+        },
+        {
+          "word": "balance",
+          "count": 80
+        },
+        {
+          "word": "depth",
+          "count": 80
+        },
+        {
+          "word": "coalition",
+          "count": 75
+        },
+        {
+          "word": "war",
+          "count": 74
+        },
+        {
+          "word": "alliance",
+          "count": 63
+        },
+        {
+          "word": "air",
+          "count": 62
+        },
+        {
+          "word": "mass",
+          "count": 60
+        },
+        {
+          "word": "bilateral",
+          "count": 60
+        },
+        {
+          "word": "defender",
+          "count": 60
+        },
+        {
+          "word": "sustainment",
+          "count": 60
+        },
+        {
+          "word": "function",
+          "count": 58
+        },
+        {
+          "word": "built",
+          "count": 57
+        },
+        {
+          "word": "comparison",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "poland",
+          "count": 221
+        },
+        {
+          "word": "russia",
+          "count": 148
+        },
+        {
+          "word": "force",
+          "count": 92
+        },
+        {
+          "word": "balance",
+          "count": 80
+        },
+        {
+          "word": "depth",
+          "count": 80
+        },
+        {
+          "word": "coalition",
+          "count": 75
+        },
+        {
+          "word": "war",
+          "count": 74
+        },
+        {
+          "word": "alliance",
+          "count": 63
+        },
+        {
+          "word": "air",
+          "count": 62
+        },
+        {
+          "word": "mass",
+          "count": 60
+        },
+        {
+          "word": "bilateral",
+          "count": 60
+        },
+        {
+          "word": "defender",
+          "count": 60
+        },
+        {
+          "word": "sustainment",
+          "count": 60
+        },
+        {
+          "word": "function",
+          "count": 58
+        },
+        {
+          "word": "built",
+          "count": 57
+        },
+        {
+          "word": "comparison",
+          "count": 51
+        },
+        {
+          "word": "defense",
+          "count": 49
+        },
+        {
+          "word": "fight",
+          "count": 48
+        },
+        {
+          "word": "allied",
+          "count": 47
+        },
+        {
+          "word": "isolation",
+          "count": 44
+        }
+      ]
+    },
+    {
       "filename": "2026-04-01-sp-choudhary-aslam-character-analysis-dhurandhar.md",
       "slug": "sp-choudhary-aslam-character-analysis-dhurandhar",
       "title": "SP Choudhary Aslam Character Analysis",
@@ -366006,6 +371380,148 @@
       ]
     },
     {
+      "filename": "2026-04-11-polands-defense-spending-politics.md",
+      "slug": "polands-defense-spending-politics",
+      "title": "Poland's Defense Spending Politics",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7671,
+      "topWord": "consensus",
+      "topCount": 107,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-04-11-polands-defense-spending-politics.md",
+      "flaggedWords": [
+        {
+          "word": "consensus",
+          "count": 107
+        },
+        {
+          "word": "spending",
+          "count": 106
+        },
+        {
+          "word": "defense",
+          "count": 90
+        },
+        {
+          "word": "durability",
+          "count": 90
+        },
+        {
+          "word": "poland",
+          "count": 85
+        },
+        {
+          "word": "political",
+          "count": 81
+        },
+        {
+          "word": "threat",
+          "count": 80
+        },
+        {
+          "word": "commitment",
+          "count": 69
+        },
+        {
+          "word": "politics",
+          "count": 61
+        },
+        {
+          "word": "buildup",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "consensus",
+          "count": 107
+        },
+        {
+          "word": "spending",
+          "count": 106
+        },
+        {
+          "word": "defense",
+          "count": 90
+        },
+        {
+          "word": "durability",
+          "count": 90
+        },
+        {
+          "word": "poland",
+          "count": 85
+        },
+        {
+          "word": "political",
+          "count": 81
+        },
+        {
+          "word": "threat",
+          "count": 80
+        },
+        {
+          "word": "commitment",
+          "count": 69
+        },
+        {
+          "word": "politics",
+          "count": 61
+        },
+        {
+          "word": "buildup",
+          "count": 57
+        },
+        {
+          "word": "procurement",
+          "count": 44
+        },
+        {
+          "word": "perception",
+          "count": 44
+        },
+        {
+          "word": "economic",
+          "count": 39
+        },
+        {
+          "word": "polish",
+          "count": 39
+        },
+        {
+          "word": "question",
+          "count": 36
+        },
+        {
+          "word": "effort",
+          "count": 36
+        },
+        {
+          "word": "means",
+          "count": 35
+        },
+        {
+          "word": "government",
+          "count": 32
+        },
+        {
+          "word": "term",
+          "count": 32
+        },
+        {
+          "word": "budget",
+          "count": 31
+        }
+      ]
+    },
+    {
       "filename": "2026-04-11-yalina-jamali-sara-arjun-character-analysis.md",
       "slug": "yalina-jamali-sara-arjun-character-analysis",
       "title": "Yalina Jamali Character Analysis",
@@ -366842,6 +372358,180 @@
       ]
     },
     {
+      "filename": "2026-04-21-polands-air-defense-patriot-pilica.md",
+      "slug": "polands-air-defense-patriot-pilica",
+      "title": "Poland's Air Defense: Patriot to Pilica",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7856,
+      "topWord": "shield",
+      "topCount": 289,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-04-21-polands-air-defense-patriot-pilica.md",
+      "flaggedWords": [
+        {
+          "word": "shield",
+          "count": 289
+        },
+        {
+          "word": "defense",
+          "count": 139
+        },
+        {
+          "word": "magazine",
+          "count": 98
+        },
+        {
+          "word": "depth",
+          "count": 95
+        },
+        {
+          "word": "integration",
+          "count": 77
+        },
+        {
+          "word": "threats",
+          "count": 74
+        },
+        {
+          "word": "tier",
+          "count": 72
+        },
+        {
+          "word": "air",
+          "count": 69
+        },
+        {
+          "word": "cheap",
+          "count": 68
+        },
+        {
+          "word": "range",
+          "count": 63
+        },
+        {
+          "word": "network",
+          "count": 63
+        },
+        {
+          "word": "tiers",
+          "count": 61
+        },
+        {
+          "word": "interceptors",
+          "count": 57
+        },
+        {
+          "word": "command",
+          "count": 56
+        },
+        {
+          "word": "assessment",
+          "count": 55
+        },
+        {
+          "word": "attacker",
+          "count": 55
+        },
+        {
+          "word": "threat",
+          "count": 53
+        },
+        {
+          "word": "interceptor",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "shield",
+          "count": 289
+        },
+        {
+          "word": "defense",
+          "count": 139
+        },
+        {
+          "word": "magazine",
+          "count": 98
+        },
+        {
+          "word": "depth",
+          "count": 95
+        },
+        {
+          "word": "integration",
+          "count": 77
+        },
+        {
+          "word": "threats",
+          "count": 74
+        },
+        {
+          "word": "tier",
+          "count": 72
+        },
+        {
+          "word": "air",
+          "count": 69
+        },
+        {
+          "word": "cheap",
+          "count": 68
+        },
+        {
+          "word": "range",
+          "count": 63
+        },
+        {
+          "word": "network",
+          "count": 63
+        },
+        {
+          "word": "tiers",
+          "count": 61
+        },
+        {
+          "word": "interceptors",
+          "count": 57
+        },
+        {
+          "word": "command",
+          "count": 56
+        },
+        {
+          "word": "assessment",
+          "count": 55
+        },
+        {
+          "word": "attacker",
+          "count": 55
+        },
+        {
+          "word": "threat",
+          "count": 53
+        },
+        {
+          "word": "interceptor",
+          "count": 51
+        },
+        {
+          "word": "attack",
+          "count": 46
+        },
+        {
+          "word": "mass",
+          "count": 45
+        }
+      ]
+    },
+    {
       "filename": "2026-04-24-aditya-dhar-filmmaking-style-analysis.md",
       "slug": "aditya-dhar-filmmaking-style-analysis",
       "title": "Aditya Dhar Filmmaking Style Analyzed",
@@ -367488,6 +373178,152 @@
         {
           "word": "feel",
           "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2026-05-01-gaps-in-polands-modernization.md",
+      "slug": "gaps-in-polands-modernization",
+      "title": "The Gaps in Poland's Modernization",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7008,
+      "topWord": "force",
+      "topCount": 127,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-05-01-gaps-in-polands-modernization.md",
+      "flaggedWords": [
+        {
+          "word": "force",
+          "count": 127
+        },
+        {
+          "word": "gap",
+          "count": 118
+        },
+        {
+          "word": "gaps",
+          "count": 113
+        },
+        {
+          "word": "sustainment",
+          "count": 90
+        },
+        {
+          "word": "manpower",
+          "count": 77
+        },
+        {
+          "word": "platforms",
+          "count": 77
+        },
+        {
+          "word": "munitions",
+          "count": 75
+        },
+        {
+          "word": "buildup",
+          "count": 67
+        },
+        {
+          "word": "enablers",
+          "count": 63
+        },
+        {
+          "word": "integration",
+          "count": 58
+        },
+        {
+          "word": "enabler",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "force",
+          "count": 127
+        },
+        {
+          "word": "gap",
+          "count": 118
+        },
+        {
+          "word": "gaps",
+          "count": 113
+        },
+        {
+          "word": "sustainment",
+          "count": 90
+        },
+        {
+          "word": "manpower",
+          "count": 77
+        },
+        {
+          "word": "platforms",
+          "count": 77
+        },
+        {
+          "word": "munitions",
+          "count": 75
+        },
+        {
+          "word": "buildup",
+          "count": 67
+        },
+        {
+          "word": "enablers",
+          "count": 63
+        },
+        {
+          "word": "integration",
+          "count": 58
+        },
+        {
+          "word": "enabler",
+          "count": 55
+        },
+        {
+          "word": "parts",
+          "count": 49
+        },
+        {
+          "word": "visible",
+          "count": 48
+        },
+        {
+          "word": "depth",
+          "count": 45
+        },
+        {
+          "word": "capacity",
+          "count": 43
+        },
+        {
+          "word": "defense",
+          "count": 37
+        },
+        {
+          "word": "invisible",
+          "count": 37
+        },
+        {
+          "word": "power",
+          "count": 36
+        },
+        {
+          "word": "deterrent",
+          "count": 36
+        },
+        {
+          "word": "funding",
+          "count": 33
         }
       ]
     },
@@ -373072,6 +378908,160 @@
       ]
     },
     {
+      "filename": "2026-05-11-polands-arms-industry-ambitions.md",
+      "slug": "polands-arms-industry-ambitions",
+      "title": "Poland's Arms Industry Ambitions Assessed",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7847,
+      "topWord": "sustainment",
+      "topCount": 122,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-05-11-polands-arms-industry-ambitions.md",
+      "flaggedWords": [
+        {
+          "word": "sustainment",
+          "count": 122
+        },
+        {
+          "word": "domestic",
+          "count": 97
+        },
+        {
+          "word": "localization",
+          "count": 71
+        },
+        {
+          "word": "war",
+          "count": 69
+        },
+        {
+          "word": "production",
+          "count": 68
+        },
+        {
+          "word": "industrial",
+          "count": 65
+        },
+        {
+          "word": "dependence",
+          "count": 63
+        },
+        {
+          "word": "poland",
+          "count": 62
+        },
+        {
+          "word": "base",
+          "count": 60
+        },
+        {
+          "word": "ambition",
+          "count": 53
+        },
+        {
+          "word": "capacity",
+          "count": 52
+        },
+        {
+          "word": "categories",
+          "count": 52
+        },
+        {
+          "word": "rung",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "sustainment",
+          "count": 122
+        },
+        {
+          "word": "domestic",
+          "count": 97
+        },
+        {
+          "word": "localization",
+          "count": 71
+        },
+        {
+          "word": "war",
+          "count": 69
+        },
+        {
+          "word": "production",
+          "count": 68
+        },
+        {
+          "word": "industrial",
+          "count": 65
+        },
+        {
+          "word": "dependence",
+          "count": 63
+        },
+        {
+          "word": "poland",
+          "count": 62
+        },
+        {
+          "word": "base",
+          "count": 60
+        },
+        {
+          "word": "ambition",
+          "count": 53
+        },
+        {
+          "word": "capacity",
+          "count": 52
+        },
+        {
+          "word": "categories",
+          "count": 52
+        },
+        {
+          "word": "rung",
+          "count": 51
+        },
+        {
+          "word": "design",
+          "count": 46
+        },
+        {
+          "word": "foreign",
+          "count": 43
+        },
+        {
+          "word": "force",
+          "count": 38
+        },
+        {
+          "word": "country",
+          "count": 37
+        },
+        {
+          "word": "capability",
+          "count": 37
+        },
+        {
+          "word": "transfer",
+          "count": 36
+        },
+        {
+          "word": "cannot",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2026-05-12-lollapalooza-payment-plans.md",
       "slug": "lollapalooza-payment-plans",
       "title": "Lollapalooza Payment Plans Explained",
@@ -378122,6 +384112,160 @@
         {
           "word": "official",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2026-05-21-can-russia-rebuild-for-nato-war.md",
+      "slug": "can-russia-rebuild-for-nato-war",
+      "title": "Can Russia Rebuild for a War With NATO?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8802,
+      "topWord": "gate",
+      "topCount": 209,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-05-21-can-russia-rebuild-for-nato-war.md",
+      "flaggedWords": [
+        {
+          "word": "gate",
+          "count": 209
+        },
+        {
+          "word": "quality",
+          "count": 163
+        },
+        {
+          "word": "mass",
+          "count": 135
+        },
+        {
+          "word": "war",
+          "count": 120
+        },
+        {
+          "word": "force",
+          "count": 111
+        },
+        {
+          "word": "fight",
+          "count": 93
+        },
+        {
+          "word": "reconstitution",
+          "count": 93
+        },
+        {
+          "word": "peer",
+          "count": 77
+        },
+        {
+          "word": "russia",
+          "count": 76
+        },
+        {
+          "word": "alliance",
+          "count": 74
+        },
+        {
+          "word": "band",
+          "count": 73
+        },
+        {
+          "word": "question",
+          "count": 56
+        },
+        {
+          "word": "army",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "gate",
+          "count": 209
+        },
+        {
+          "word": "quality",
+          "count": 163
+        },
+        {
+          "word": "mass",
+          "count": 135
+        },
+        {
+          "word": "war",
+          "count": 120
+        },
+        {
+          "word": "force",
+          "count": 111
+        },
+        {
+          "word": "fight",
+          "count": 93
+        },
+        {
+          "word": "reconstitution",
+          "count": 93
+        },
+        {
+          "word": "peer",
+          "count": 77
+        },
+        {
+          "word": "russia",
+          "count": 76
+        },
+        {
+          "word": "alliance",
+          "count": 74
+        },
+        {
+          "word": "band",
+          "count": 73
+        },
+        {
+          "word": "question",
+          "count": 56
+        },
+        {
+          "word": "army",
+          "count": 56
+        },
+        {
+          "word": "russian",
+          "count": 48
+        },
+        {
+          "word": "command",
+          "count": 41
+        },
+        {
+          "word": "gated",
+          "count": 40
+        },
+        {
+          "word": "reading",
+          "count": 40
+        },
+        {
+          "word": "enablers",
+          "count": 40
+        },
+        {
+          "word": "slow",
+          "count": 38
+        },
+        {
+          "word": "sanctions",
+          "count": 38
         }
       ]
     },
@@ -384730,6 +390874,116 @@
       ]
     },
     {
+      "filename": "2026-06-01-russias-army-after-ukraine.md",
+      "slug": "russias-army-after-ukraine",
+      "title": "Russia's Army After Ukraine",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8054,
+      "topWord": "force",
+      "topCount": 184,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-01-russias-army-after-ukraine.md",
+      "flaggedWords": [
+        {
+          "word": "force",
+          "count": 184
+        },
+        {
+          "word": "war",
+          "count": 99
+        }
+      ],
+      "top20": [
+        {
+          "word": "force",
+          "count": 184
+        },
+        {
+          "word": "war",
+          "count": 99
+        },
+        {
+          "word": "ledger",
+          "count": 46
+        },
+        {
+          "word": "reading",
+          "count": 45
+        },
+        {
+          "word": "air",
+          "count": 45
+        },
+        {
+          "word": "durable",
+          "count": 44
+        },
+        {
+          "word": "adaptation",
+          "count": 37
+        },
+        {
+          "word": "manpower",
+          "count": 35
+        },
+        {
+          "word": "condition",
+          "count": 34
+        },
+        {
+          "word": "assessment",
+          "count": 33
+        },
+        {
+          "word": "fight",
+          "count": 32
+        },
+        {
+          "word": "capability",
+          "count": 32
+        },
+        {
+          "word": "defense",
+          "count": 31
+        },
+        {
+          "word": "quality",
+          "count": 31
+        },
+        {
+          "word": "offensive",
+          "count": 31
+        },
+        {
+          "word": "modern",
+          "count": 30
+        },
+        {
+          "word": "maneuver",
+          "count": 30
+        },
+        {
+          "word": "fighting",
+          "count": 29
+        },
+        {
+          "word": "enablers",
+          "count": 29
+        },
+        {
+          "word": "defensive",
+          "count": 29
+        }
+      ]
+    },
+    {
       "filename": "2026-06-02-lollapalooza-activations-freebies.md",
       "slug": "lollapalooza-activations-freebies",
       "title": "Brand Activations and Free Stuff at Lollapalooza",
@@ -390276,6 +396530,152 @@
         {
           "word": "history",
           "count": 39
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-11-how-fast-russia-reconstitutes-forces.md",
+      "slug": "how-fast-russia-reconstitutes-forces",
+      "title": "How Fast Russia Can Reconstitute Forces",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7771,
+      "topWord": "force",
+      "topCount": 151,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-11-how-fast-russia-reconstitutes-forces.md",
+      "flaggedWords": [
+        {
+          "word": "force",
+          "count": 151
+        },
+        {
+          "word": "track",
+          "count": 126
+        },
+        {
+          "word": "fast",
+          "count": 111
+        },
+        {
+          "word": "quality",
+          "count": 109
+        },
+        {
+          "word": "rebuild",
+          "count": 100
+        },
+        {
+          "word": "capability",
+          "count": 97
+        },
+        {
+          "word": "tracks",
+          "count": 83
+        },
+        {
+          "word": "reconstitution",
+          "count": 75
+        },
+        {
+          "word": "slow",
+          "count": 73
+        },
+        {
+          "word": "quantity",
+          "count": 62
+        },
+        {
+          "word": "pace",
+          "count": 60
+        }
+      ],
+      "top20": [
+        {
+          "word": "force",
+          "count": 151
+        },
+        {
+          "word": "track",
+          "count": 126
+        },
+        {
+          "word": "fast",
+          "count": 111
+        },
+        {
+          "word": "quality",
+          "count": 109
+        },
+        {
+          "word": "rebuild",
+          "count": 100
+        },
+        {
+          "word": "capability",
+          "count": 97
+        },
+        {
+          "word": "tracks",
+          "count": 83
+        },
+        {
+          "word": "reconstitution",
+          "count": 75
+        },
+        {
+          "word": "slow",
+          "count": 73
+        },
+        {
+          "word": "quantity",
+          "count": 62
+        },
+        {
+          "word": "pace",
+          "count": 60
+        },
+        {
+          "word": "experienced",
+          "count": 50
+        },
+        {
+          "word": "training",
+          "count": 50
+        },
+        {
+          "word": "manpower",
+          "count": 50
+        },
+        {
+          "word": "cadre",
+          "count": 48
+        },
+        {
+          "word": "refurbishment",
+          "count": 45
+        },
+        {
+          "word": "production",
+          "count": 44
+        },
+        {
+          "word": "numbers",
+          "count": 43
+        },
+        {
+          "word": "clock",
+          "count": 42
+        },
+        {
+          "word": "timeline",
+          "count": 41
         }
       ]
     },
@@ -406052,6 +412452,156 @@
         {
           "word": "full",
           "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-21-russias-war-economy-arms-output.md",
+      "slug": "russias-war-economy-arms-output",
+      "title": "Russia's War Economy and Arms Output",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7776,
+      "topWord": "output",
+      "topCount": 136,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-21-russias-war-economy-arms-output.md",
+      "flaggedWords": [
+        {
+          "word": "output",
+          "count": 136
+        },
+        {
+          "word": "economy",
+          "count": 131
+        },
+        {
+          "word": "war",
+          "count": 115
+        },
+        {
+          "word": "capacity",
+          "count": 75
+        },
+        {
+          "word": "borrowed",
+          "count": 71
+        },
+        {
+          "word": "production",
+          "count": 68
+        },
+        {
+          "word": "reading",
+          "count": 67
+        },
+        {
+          "word": "surge",
+          "count": 63
+        },
+        {
+          "word": "durable",
+          "count": 63
+        },
+        {
+          "word": "tier",
+          "count": 62
+        },
+        {
+          "word": "russian",
+          "count": 58
+        },
+        {
+          "word": "refurbishment",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "output",
+          "count": 136
+        },
+        {
+          "word": "economy",
+          "count": 131
+        },
+        {
+          "word": "war",
+          "count": 115
+        },
+        {
+          "word": "capacity",
+          "count": 75
+        },
+        {
+          "word": "borrowed",
+          "count": 71
+        },
+        {
+          "word": "production",
+          "count": 68
+        },
+        {
+          "word": "reading",
+          "count": 67
+        },
+        {
+          "word": "surge",
+          "count": 63
+        },
+        {
+          "word": "durable",
+          "count": 63
+        },
+        {
+          "word": "tier",
+          "count": 62
+        },
+        {
+          "word": "russian",
+          "count": 58
+        },
+        {
+          "word": "refurbishment",
+          "count": 52
+        },
+        {
+          "word": "equipment",
+          "count": 46
+        },
+        {
+          "word": "assessment",
+          "count": 45
+        },
+        {
+          "word": "tiers",
+          "count": 44
+        },
+        {
+          "word": "inheritance",
+          "count": 42
+        },
+        {
+          "word": "munitions",
+          "count": 42
+        },
+        {
+          "word": "sanctions",
+          "count": 41
+        },
+        {
+          "word": "framework",
+          "count": 40
+        },
+        {
+          "word": "russia",
+          "count": 39
         }
       ]
     },
@@ -428472,6 +435022,274 @@
       ]
     },
     {
+      "filename": "2026-07-09-france-vs-morocco-preview.md",
+      "slug": "france-vs-morocco-preview",
+      "title": "France vs Morocco: World Cup 2026 Quarterfinal Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7671,
+      "topWord": "france",
+      "topCount": 261,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-09-france-vs-morocco-preview.md",
+      "flaggedWords": [
+        {
+          "word": "france",
+          "count": 261
+        },
+        {
+          "word": "morocco",
+          "count": 250
+        },
+        {
+          "word": "tournament",
+          "count": 70
+        },
+        {
+          "word": "cup",
+          "count": 62
+        },
+        {
+          "word": "team",
+          "count": 60
+        },
+        {
+          "word": "match",
+          "count": 55
+        },
+        {
+          "word": "quarterfinal",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "france",
+          "count": 261
+        },
+        {
+          "word": "morocco",
+          "count": 250
+        },
+        {
+          "word": "tournament",
+          "count": 70
+        },
+        {
+          "word": "cup",
+          "count": 62
+        },
+        {
+          "word": "team",
+          "count": 60
+        },
+        {
+          "word": "match",
+          "count": 55
+        },
+        {
+          "word": "quarterfinal",
+          "count": 54
+        },
+        {
+          "word": "win",
+          "count": 50
+        },
+        {
+          "word": "semifinal",
+          "count": 47
+        },
+        {
+          "word": "tie",
+          "count": 41
+        },
+        {
+          "word": "mbappe",
+          "count": 38
+        },
+        {
+          "word": "second",
+          "count": 37
+        },
+        {
+          "word": "round",
+          "count": 37
+        },
+        {
+          "word": "likely",
+          "count": 34
+        },
+        {
+          "word": "boston",
+          "count": 33
+        },
+        {
+          "word": "four",
+          "count": 32
+        },
+        {
+          "word": "knockout",
+          "count": 31
+        },
+        {
+          "word": "goals",
+          "count": 30
+        },
+        {
+          "word": "game",
+          "count": 29
+        },
+        {
+          "word": "defense",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-10-france-vs-morocco-analysis.md",
+      "slug": "france-vs-morocco-analysis",
+      "title": "France vs Morocco: World Cup 2026 Result and Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7391,
+      "topWord": "france",
+      "topCount": 276,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-10-france-vs-morocco-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "france",
+          "count": 276
+        },
+        {
+          "word": "morocco",
+          "count": 194
+        },
+        {
+          "word": "mbappe",
+          "count": 105
+        },
+        {
+          "word": "final",
+          "count": 83
+        },
+        {
+          "word": "tournament",
+          "count": 74
+        },
+        {
+          "word": "cup",
+          "count": 64
+        },
+        {
+          "word": "team",
+          "count": 55
+        },
+        {
+          "word": "goal",
+          "count": 52
+        },
+        {
+          "word": "bounou",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "france",
+          "count": 276
+        },
+        {
+          "word": "morocco",
+          "count": 194
+        },
+        {
+          "word": "mbappe",
+          "count": 105
+        },
+        {
+          "word": "final",
+          "count": 83
+        },
+        {
+          "word": "tournament",
+          "count": 74
+        },
+        {
+          "word": "cup",
+          "count": 64
+        },
+        {
+          "word": "team",
+          "count": 55
+        },
+        {
+          "word": "goal",
+          "count": 52
+        },
+        {
+          "word": "bounou",
+          "count": 51
+        },
+        {
+          "word": "quarter",
+          "count": 50
+        },
+        {
+          "word": "win",
+          "count": 44
+        },
+        {
+          "word": "half",
+          "count": 43
+        },
+        {
+          "word": "dembele",
+          "count": 41
+        },
+        {
+          "word": "penalty",
+          "count": 38
+        },
+        {
+          "word": "minutes",
+          "count": 36
+        },
+        {
+          "word": "attack",
+          "count": 36
+        },
+        {
+          "word": "game",
+          "count": 35
+        },
+        {
+          "word": "match",
+          "count": 34
+        },
+        {
+          "word": "ball",
+          "count": 34
+        },
+        {
+          "word": "hour",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2026-07-11-h1b-fee-ruling-economic-stakes.md",
       "slug": "h1b-fee-ruling-economic-stakes",
       "title": "H-1B Fee Ruling: The Economic Stakes the Court Weighed",
@@ -432142,6 +438960,1982 @@
         {
           "word": "disenchantment",
           "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2026-12-28-flappers-new-woman-gatsby.md",
+      "slug": "flappers-new-woman-gatsby",
+      "title": "Flappers and the New Woman in the 1920s",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5027,
+      "topWord": "flapper",
+      "topCount": 98,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-12-28-flappers-new-woman-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "flapper",
+          "count": 98
+        },
+        {
+          "word": "freedom",
+          "count": 94
+        },
+        {
+          "word": "jordan",
+          "count": 92
+        },
+        {
+          "word": "novel",
+          "count": 87
+        },
+        {
+          "word": "fitzgerald",
+          "count": 62
+        },
+        {
+          "word": "daisy",
+          "count": 57
+        },
+        {
+          "word": "era",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "flapper",
+          "count": 98
+        },
+        {
+          "word": "freedom",
+          "count": 94
+        },
+        {
+          "word": "jordan",
+          "count": 92
+        },
+        {
+          "word": "novel",
+          "count": 87
+        },
+        {
+          "word": "fitzgerald",
+          "count": 62
+        },
+        {
+          "word": "daisy",
+          "count": 57
+        },
+        {
+          "word": "era",
+          "count": 53
+        },
+        {
+          "word": "independence",
+          "count": 38
+        },
+        {
+          "word": "context",
+          "count": 38
+        },
+        {
+          "word": "book",
+          "count": 34
+        },
+        {
+          "word": "self",
+          "count": 34
+        },
+        {
+          "word": "reading",
+          "count": 32
+        },
+        {
+          "word": "image",
+          "count": 26
+        },
+        {
+          "word": "mobility",
+          "count": 25
+        },
+        {
+          "word": "historical",
+          "count": 24
+        },
+        {
+          "word": "decade",
+          "count": 23
+        },
+        {
+          "word": "public",
+          "count": 23
+        },
+        {
+          "word": "liberation",
+          "count": 22
+        },
+        {
+          "word": "nick",
+          "count": 22
+        },
+        {
+          "word": "history",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2027-01-04-automobile-age-gatsby.md",
+      "slug": "automobile-age-gatsby",
+      "title": "The Automobile Age and The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5015,
+      "topWord": "machine",
+      "topCount": 127,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-01-04-automobile-age-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "machine",
+          "count": 127
+        },
+        {
+          "word": "novel",
+          "count": 79
+        },
+        {
+          "word": "decade",
+          "count": 59
+        }
+      ],
+      "top20": [
+        {
+          "word": "machine",
+          "count": 127
+        },
+        {
+          "word": "novel",
+          "count": 79
+        },
+        {
+          "word": "decade",
+          "count": 59
+        },
+        {
+          "word": "gatsby",
+          "count": 49
+        },
+        {
+          "word": "motor",
+          "count": 45
+        },
+        {
+          "word": "road",
+          "count": 43
+        },
+        {
+          "word": "fitzgerald",
+          "count": 41
+        },
+        {
+          "word": "driving",
+          "count": 40
+        },
+        {
+          "word": "age",
+          "count": 38
+        },
+        {
+          "word": "motoring",
+          "count": 37
+        },
+        {
+          "word": "book",
+          "count": 35
+        },
+        {
+          "word": "vehicle",
+          "count": 33
+        },
+        {
+          "word": "era",
+          "count": 33
+        },
+        {
+          "word": "freedom",
+          "count": 33
+        },
+        {
+          "word": "read",
+          "count": 28
+        },
+        {
+          "word": "history",
+          "count": 25
+        },
+        {
+          "word": "historical",
+          "count": 24
+        },
+        {
+          "word": "drive",
+          "count": 24
+        },
+        {
+          "word": "fatal",
+          "count": 24
+        },
+        {
+          "word": "reader",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2027-01-11-new-york-1920s-gatsby.md",
+      "slug": "new-york-1920s-gatsby",
+      "title": "New York City in the 1920s and Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5008,
+      "topWord": "city",
+      "topCount": 206,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-01-11-new-york-1920s-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "city",
+          "count": 206
+        },
+        {
+          "word": "metropolis",
+          "count": 103
+        },
+        {
+          "word": "novel",
+          "count": 70
+        }
+      ],
+      "top20": [
+        {
+          "word": "city",
+          "count": 206
+        },
+        {
+          "word": "metropolis",
+          "count": 103
+        },
+        {
+          "word": "novel",
+          "count": 70
+        },
+        {
+          "word": "gatsby",
+          "count": 50
+        },
+        {
+          "word": "permission",
+          "count": 46
+        },
+        {
+          "word": "reading",
+          "count": 45
+        },
+        {
+          "word": "tom",
+          "count": 43
+        },
+        {
+          "word": "apartment",
+          "count": 37
+        },
+        {
+          "word": "affair",
+          "count": 36
+        },
+        {
+          "word": "anonymity",
+          "count": 35
+        },
+        {
+          "word": "characters",
+          "count": 34
+        },
+        {
+          "word": "nick",
+          "count": 34
+        },
+        {
+          "word": "chapter",
+          "count": 34
+        },
+        {
+          "word": "york",
+          "count": 32
+        },
+        {
+          "word": "fitzgerald",
+          "count": 32
+        },
+        {
+          "word": "manhattan",
+          "count": 30
+        },
+        {
+          "word": "bridge",
+          "count": 30
+        },
+        {
+          "word": "money",
+          "count": 28
+        },
+        {
+          "word": "book",
+          "count": 26
+        },
+        {
+          "word": "suburbs",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "filename": "2027-01-18-gatsby-1919-world-series.md",
+      "slug": "gatsby-1919-world-series",
+      "title": "Organized Crime and the 1919 World Series in Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5092,
+      "topWord": "series",
+      "topCount": 78,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-01-18-gatsby-1919-world-series.md",
+      "flaggedWords": [
+        {
+          "word": "series",
+          "count": 78
+        },
+        {
+          "word": "gatsby",
+          "count": 76
+        },
+        {
+          "word": "fix",
+          "count": 76
+        },
+        {
+          "word": "novel",
+          "count": 66
+        },
+        {
+          "word": "fitzgerald",
+          "count": 59
+        }
+      ],
+      "top20": [
+        {
+          "word": "series",
+          "count": 78
+        },
+        {
+          "word": "gatsby",
+          "count": 76
+        },
+        {
+          "word": "fix",
+          "count": 76
+        },
+        {
+          "word": "novel",
+          "count": 66
+        },
+        {
+          "word": "fitzgerald",
+          "count": 59
+        },
+        {
+          "word": "wolfsheim",
+          "count": 50
+        },
+        {
+          "word": "nick",
+          "count": 47
+        },
+        {
+          "word": "corruption",
+          "count": 42
+        },
+        {
+          "word": "reader",
+          "count": 38
+        },
+        {
+          "word": "crime",
+          "count": 36
+        },
+        {
+          "word": "national",
+          "count": 32
+        },
+        {
+          "word": "fixed",
+          "count": 31
+        },
+        {
+          "word": "rothstein",
+          "count": 31
+        },
+        {
+          "word": "criminal",
+          "count": 29
+        },
+        {
+          "word": "scandal",
+          "count": 27
+        },
+        {
+          "word": "public",
+          "count": 26
+        },
+        {
+          "word": "character",
+          "count": 25
+        },
+        {
+          "word": "money",
+          "count": 25
+        },
+        {
+          "word": "event",
+          "count": 25
+        },
+        {
+          "word": "context",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2027-01-25-consumer-culture-1920s-gatsby.md",
+      "slug": "consumer-culture-1920s-gatsby",
+      "title": "Consumer Culture and Advertising in the 1920s",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5065,
+      "topWord": "decade",
+      "topCount": 82,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-01-25-consumer-culture-1920s-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "decade",
+          "count": 82
+        },
+        {
+          "word": "gatsby",
+          "count": 81
+        },
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "culture",
+          "count": 62
+        },
+        {
+          "word": "advertising",
+          "count": 62
+        },
+        {
+          "word": "self",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "decade",
+          "count": 82
+        },
+        {
+          "word": "gatsby",
+          "count": 81
+        },
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "culture",
+          "count": 62
+        },
+        {
+          "word": "advertising",
+          "count": 62
+        },
+        {
+          "word": "self",
+          "count": 52
+        },
+        {
+          "word": "consumer",
+          "count": 50
+        },
+        {
+          "word": "buying",
+          "count": 49
+        },
+        {
+          "word": "goods",
+          "count": 46
+        },
+        {
+          "word": "display",
+          "count": 40
+        },
+        {
+          "word": "identity",
+          "count": 35
+        },
+        {
+          "word": "parties",
+          "count": 29
+        },
+        {
+          "word": "read",
+          "count": 28
+        },
+        {
+          "word": "materialism",
+          "count": 28
+        },
+        {
+          "word": "car",
+          "count": 27
+        },
+        {
+          "word": "era",
+          "count": 27
+        },
+        {
+          "word": "shirts",
+          "count": 27
+        },
+        {
+          "word": "sold",
+          "count": 26
+        },
+        {
+          "word": "reading",
+          "count": 25
+        },
+        {
+          "word": "taught",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2027-02-01-gilded-elite-1920s-gatsby.md",
+      "slug": "gilded-elite-1920s-gatsby",
+      "title": "Class and the Gilded Elite of the 1920s in Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5000,
+      "topWord": "elite",
+      "topCount": 126,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-02-01-gilded-elite-1920s-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "elite",
+          "count": 126
+        },
+        {
+          "word": "gatsby",
+          "count": 96
+        },
+        {
+          "word": "gilded",
+          "count": 80
+        },
+        {
+          "word": "money",
+          "count": 77
+        },
+        {
+          "word": "class",
+          "count": 75
+        },
+        {
+          "word": "novel",
+          "count": 62
+        }
+      ],
+      "top20": [
+        {
+          "word": "elite",
+          "count": 126
+        },
+        {
+          "word": "gatsby",
+          "count": 96
+        },
+        {
+          "word": "gilded",
+          "count": 80
+        },
+        {
+          "word": "money",
+          "count": 77
+        },
+        {
+          "word": "class",
+          "count": 75
+        },
+        {
+          "word": "novel",
+          "count": 62
+        },
+        {
+          "word": "social",
+          "count": 49
+        },
+        {
+          "word": "tom",
+          "count": 41
+        },
+        {
+          "word": "families",
+          "count": 38
+        },
+        {
+          "word": "cannot",
+          "count": 32
+        },
+        {
+          "word": "wealth",
+          "count": 32
+        },
+        {
+          "word": "inherited",
+          "count": 30
+        },
+        {
+          "word": "context",
+          "count": 30
+        },
+        {
+          "word": "daisy",
+          "count": 28
+        },
+        {
+          "word": "marriage",
+          "count": 25
+        },
+        {
+          "word": "inside",
+          "count": 23
+        },
+        {
+          "word": "closed",
+          "count": 22
+        },
+        {
+          "word": "fitzgerald",
+          "count": 22
+        },
+        {
+          "word": "nick",
+          "count": 22
+        },
+        {
+          "word": "status",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2027-02-08-immigration-nativism-gatsby.md",
+      "slug": "immigration-nativism-gatsby",
+      "title": "Immigration and Nativism in Gatsby's America",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5303,
+      "topWord": "tom",
+      "topCount": 140,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-02-08-immigration-nativism-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "tom",
+          "count": 140
+        },
+        {
+          "word": "novel",
+          "count": 86
+        },
+        {
+          "word": "fear",
+          "count": 66
+        },
+        {
+          "word": "nativism",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "tom",
+          "count": 140
+        },
+        {
+          "word": "novel",
+          "count": 86
+        },
+        {
+          "word": "fear",
+          "count": 66
+        },
+        {
+          "word": "nativism",
+          "count": 51
+        },
+        {
+          "word": "reading",
+          "count": 46
+        },
+        {
+          "word": "decade",
+          "count": 45
+        },
+        {
+          "word": "race",
+          "count": 43
+        },
+        {
+          "word": "fitzgerald",
+          "count": 38
+        },
+        {
+          "word": "immigration",
+          "count": 34
+        },
+        {
+          "word": "gatsby",
+          "count": 34
+        },
+        {
+          "word": "era",
+          "count": 34
+        },
+        {
+          "word": "panic",
+          "count": 33
+        },
+        {
+          "word": "stock",
+          "count": 33
+        },
+        {
+          "word": "racial",
+          "count": 27
+        },
+        {
+          "word": "dinner",
+          "count": 25
+        },
+        {
+          "word": "context",
+          "count": 25
+        },
+        {
+          "word": "country",
+          "count": 25
+        },
+        {
+          "word": "history",
+          "count": 24
+        },
+        {
+          "word": "book",
+          "count": 24
+        },
+        {
+          "word": "european",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2027-02-15-scientific-racism-gatsby.md",
+      "slug": "scientific-racism-gatsby",
+      "title": "Scientific Racism and Tom's Books",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5285,
+      "topWord": "tom",
+      "topCount": 157,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-02-15-scientific-racism-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "tom",
+          "count": 157
+        },
+        {
+          "word": "race",
+          "count": 71
+        },
+        {
+          "word": "fitzgerald",
+          "count": 62
+        },
+        {
+          "word": "novel",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "tom",
+          "count": 157
+        },
+        {
+          "word": "race",
+          "count": 71
+        },
+        {
+          "word": "fitzgerald",
+          "count": 62
+        },
+        {
+          "word": "novel",
+          "count": 55
+        },
+        {
+          "word": "science",
+          "count": 42
+        },
+        {
+          "word": "ideology",
+          "count": 39
+        },
+        {
+          "word": "book",
+          "count": 38
+        },
+        {
+          "word": "scientific",
+          "count": 36
+        },
+        {
+          "word": "racism",
+          "count": 35
+        },
+        {
+          "word": "gatsby",
+          "count": 34
+        },
+        {
+          "word": "stoddard",
+          "count": 33
+        },
+        {
+          "word": "grant",
+          "count": 32
+        },
+        {
+          "word": "books",
+          "count": 30
+        },
+        {
+          "word": "scene",
+          "count": 30
+        },
+        {
+          "word": "civilization",
+          "count": 30
+        },
+        {
+          "word": "theory",
+          "count": 29
+        },
+        {
+          "word": "white",
+          "count": 28
+        },
+        {
+          "word": "goddard",
+          "count": 28
+        },
+        {
+          "word": "claim",
+          "count": 21
+        },
+        {
+          "word": "proved",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2027-02-22-money-bonds-1920s-gatsby.md",
+      "slug": "money-bonds-1920s-gatsby",
+      "title": "Money, Stocks, and Bonds in the 1920s",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5296,
+      "topWord": "money",
+      "topCount": 136,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-02-22-money-bonds-1920s-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "money",
+          "count": 136
+        },
+        {
+          "word": "novel",
+          "count": 89
+        },
+        {
+          "word": "finance",
+          "count": 80
+        },
+        {
+          "word": "nick",
+          "count": 70
+        },
+        {
+          "word": "gatsby",
+          "count": 66
+        },
+        {
+          "word": "wealth",
+          "count": 62
+        },
+        {
+          "word": "paper",
+          "count": 57
+        },
+        {
+          "word": "financial",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "money",
+          "count": 136
+        },
+        {
+          "word": "novel",
+          "count": 89
+        },
+        {
+          "word": "finance",
+          "count": 80
+        },
+        {
+          "word": "nick",
+          "count": 70
+        },
+        {
+          "word": "gatsby",
+          "count": 66
+        },
+        {
+          "word": "wealth",
+          "count": 62
+        },
+        {
+          "word": "paper",
+          "count": 57
+        },
+        {
+          "word": "financial",
+          "count": 53
+        },
+        {
+          "word": "bond",
+          "count": 50
+        },
+        {
+          "word": "fitzgerald",
+          "count": 49
+        },
+        {
+          "word": "bonds",
+          "count": 43
+        },
+        {
+          "word": "economy",
+          "count": 43
+        },
+        {
+          "word": "decade",
+          "count": 39
+        },
+        {
+          "word": "trade",
+          "count": 37
+        },
+        {
+          "word": "context",
+          "count": 34
+        },
+        {
+          "word": "fortunes",
+          "count": 31
+        },
+        {
+          "word": "reading",
+          "count": 27
+        },
+        {
+          "word": "speculative",
+          "count": 25
+        },
+        {
+          "word": "confidence",
+          "count": 24
+        },
+        {
+          "word": "inside",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2027-03-01-how-fitzgerald-wrote-gatsby.md",
+      "slug": "how-fitzgerald-wrote-gatsby",
+      "title": "How Fitzgerald Wrote Great Gatsby: Made by Revision",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4891,
+      "topWord": "book",
+      "topCount": 115,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-03-01-how-fitzgerald-wrote-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "book",
+          "count": 115
+        },
+        {
+          "word": "revision",
+          "count": 89
+        },
+        {
+          "word": "novel",
+          "count": 86
+        },
+        {
+          "word": "fitzgerald",
+          "count": 72
+        },
+        {
+          "word": "composition",
+          "count": 67
+        },
+        {
+          "word": "gatsby",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "book",
+          "count": 115
+        },
+        {
+          "word": "revision",
+          "count": 89
+        },
+        {
+          "word": "novel",
+          "count": 86
+        },
+        {
+          "word": "fitzgerald",
+          "count": 72
+        },
+        {
+          "word": "composition",
+          "count": 67
+        },
+        {
+          "word": "gatsby",
+          "count": 51
+        },
+        {
+          "word": "stage",
+          "count": 38
+        },
+        {
+          "word": "history",
+          "count": 38
+        },
+        {
+          "word": "draft",
+          "count": 36
+        },
+        {
+          "word": "final",
+          "count": 35
+        },
+        {
+          "word": "economy",
+          "count": 34
+        },
+        {
+          "word": "prose",
+          "count": 32
+        },
+        {
+          "word": "reader",
+          "count": 32
+        },
+        {
+          "word": "story",
+          "count": 32
+        },
+        {
+          "word": "text",
+          "count": 31
+        },
+        {
+          "word": "labor",
+          "count": 29
+        },
+        {
+          "word": "galley",
+          "count": 26
+        },
+        {
+          "word": "nick",
+          "count": 26
+        },
+        {
+          "word": "finished",
+          "count": 24
+        },
+        {
+          "word": "compression",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2027-03-08-gatsby-1925-publication.md",
+      "slug": "gatsby-1925-publication",
+      "title": "The Great Gatsby's 1925 Publication Story",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4778,
+      "topWord": "book",
+      "topCount": 177,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-03-08-gatsby-1925-publication.md",
+      "flaggedWords": [
+        {
+          "word": "book",
+          "count": 177
+        },
+        {
+          "word": "novel",
+          "count": 94
+        },
+        {
+          "word": "publication",
+          "count": 77
+        },
+        {
+          "word": "author",
+          "count": 65
+        },
+        {
+          "word": "story",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "book",
+          "count": 177
+        },
+        {
+          "word": "novel",
+          "count": 94
+        },
+        {
+          "word": "publication",
+          "count": 77
+        },
+        {
+          "word": "author",
+          "count": 65
+        },
+        {
+          "word": "story",
+          "count": 52
+        },
+        {
+          "word": "gatsby",
+          "count": 37
+        },
+        {
+          "word": "launch",
+          "count": 34
+        },
+        {
+          "word": "copies",
+          "count": 33
+        },
+        {
+          "word": "eyes",
+          "count": 29
+        },
+        {
+          "word": "printing",
+          "count": 28
+        },
+        {
+          "word": "reception",
+          "count": 27
+        },
+        {
+          "word": "jacket",
+          "count": 27
+        },
+        {
+          "word": "thousand",
+          "count": 27
+        },
+        {
+          "word": "modest",
+          "count": 25
+        },
+        {
+          "word": "second",
+          "count": 25
+        },
+        {
+          "word": "release",
+          "count": 23
+        },
+        {
+          "word": "reading",
+          "count": 22
+        },
+        {
+          "word": "scribner",
+          "count": 22
+        },
+        {
+          "word": "read",
+          "count": 22
+        },
+        {
+          "word": "moment",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2027-03-15-why-gatsby-flopped-first.md",
+      "slug": "why-gatsby-flopped-first",
+      "title": "Why The Great Gatsby Flopped at First",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4643,
+      "topWord": "book",
+      "topCount": 213,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-03-15-why-gatsby-flopped-first.md",
+      "flaggedWords": [
+        {
+          "word": "book",
+          "count": 213
+        },
+        {
+          "word": "novel",
+          "count": 96
+        },
+        {
+          "word": "readers",
+          "count": 72
+        },
+        {
+          "word": "failure",
+          "count": 57
+        },
+        {
+          "word": "gatsby",
+          "count": 54
+        },
+        {
+          "word": "fitzgerald",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "book",
+          "count": 213
+        },
+        {
+          "word": "novel",
+          "count": 96
+        },
+        {
+          "word": "readers",
+          "count": 72
+        },
+        {
+          "word": "failure",
+          "count": 57
+        },
+        {
+          "word": "gatsby",
+          "count": 54
+        },
+        {
+          "word": "fitzgerald",
+          "count": 54
+        },
+        {
+          "word": "flop",
+          "count": 49
+        },
+        {
+          "word": "moment",
+          "count": 42
+        },
+        {
+          "word": "audience",
+          "count": 40
+        },
+        {
+          "word": "sold",
+          "count": 35
+        },
+        {
+          "word": "reading",
+          "count": 35
+        },
+        {
+          "word": "verdict",
+          "count": 31
+        },
+        {
+          "word": "read",
+          "count": 23
+        },
+        {
+          "word": "reader",
+          "count": 23
+        },
+        {
+          "word": "reception",
+          "count": 22
+        },
+        {
+          "word": "sales",
+          "count": 22
+        },
+        {
+          "word": "story",
+          "count": 21
+        },
+        {
+          "word": "decade",
+          "count": 21
+        },
+        {
+          "word": "disappointment",
+          "count": 20
+        },
+        {
+          "word": "american",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2027-03-22-gatsby-revival-after-wwii (1).md",
+      "slug": "gatsby-revival-after-wwii (1)",
+      "title": "The Great Gatsby's Revival After WWII",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4978,
+      "topWord": "novel",
+      "topCount": 123,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-03-22-gatsby-revival-after-wwii (1).md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 123
+        },
+        {
+          "word": "book",
+          "count": 123
+        },
+        {
+          "word": "revival",
+          "count": 112
+        },
+        {
+          "word": "gatsby",
+          "count": 73
+        },
+        {
+          "word": "fitzgerald",
+          "count": 69
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 123
+        },
+        {
+          "word": "book",
+          "count": 123
+        },
+        {
+          "word": "revival",
+          "count": 112
+        },
+        {
+          "word": "gatsby",
+          "count": 73
+        },
+        {
+          "word": "fitzgerald",
+          "count": 69
+        },
+        {
+          "word": "american",
+          "count": 41
+        },
+        {
+          "word": "postwar",
+          "count": 36
+        },
+        {
+          "word": "critics",
+          "count": 36
+        },
+        {
+          "word": "read",
+          "count": 35
+        },
+        {
+          "word": "dream",
+          "count": 34
+        },
+        {
+          "word": "second",
+          "count": 33
+        },
+        {
+          "word": "war",
+          "count": 33
+        },
+        {
+          "word": "distribution",
+          "count": 31
+        },
+        {
+          "word": "reappraisal",
+          "count": 31
+        },
+        {
+          "word": "failure",
+          "count": 30
+        },
+        {
+          "word": "readers",
+          "count": 26
+        },
+        {
+          "word": "critical",
+          "count": 26
+        },
+        {
+          "word": "reading",
+          "count": 26
+        },
+        {
+          "word": "wartime",
+          "count": 25
+        },
+        {
+          "word": "canon",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2027-03-22-gatsby-revival-after-wwii.md",
+      "slug": "gatsby-revival-after-wwii",
+      "title": "The Great Gatsby's Revival After WWII",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4978,
+      "topWord": "novel",
+      "topCount": 123,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-03-22-gatsby-revival-after-wwii.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 123
+        },
+        {
+          "word": "book",
+          "count": 123
+        },
+        {
+          "word": "revival",
+          "count": 112
+        },
+        {
+          "word": "gatsby",
+          "count": 73
+        },
+        {
+          "word": "fitzgerald",
+          "count": 69
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 123
+        },
+        {
+          "word": "book",
+          "count": 123
+        },
+        {
+          "word": "revival",
+          "count": 112
+        },
+        {
+          "word": "gatsby",
+          "count": 73
+        },
+        {
+          "word": "fitzgerald",
+          "count": 69
+        },
+        {
+          "word": "american",
+          "count": 41
+        },
+        {
+          "word": "postwar",
+          "count": 36
+        },
+        {
+          "word": "critics",
+          "count": 36
+        },
+        {
+          "word": "read",
+          "count": 35
+        },
+        {
+          "word": "dream",
+          "count": 34
+        },
+        {
+          "word": "second",
+          "count": 33
+        },
+        {
+          "word": "war",
+          "count": 33
+        },
+        {
+          "word": "distribution",
+          "count": 31
+        },
+        {
+          "word": "reappraisal",
+          "count": 31
+        },
+        {
+          "word": "failure",
+          "count": 30
+        },
+        {
+          "word": "readers",
+          "count": 26
+        },
+        {
+          "word": "critical",
+          "count": 26
+        },
+        {
+          "word": "reading",
+          "count": 26
+        },
+        {
+          "word": "wartime",
+          "count": 25
+        },
+        {
+          "word": "canon",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2027-03-29-maxwell-perkins-editing-gatsby.md",
+      "slug": "maxwell-perkins-editing-gatsby",
+      "title": "Maxwell Perkins and the Editing of Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5342,
+      "topWord": "perkins",
+      "topCount": 147,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-03-29-maxwell-perkins-editing-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "perkins",
+          "count": 147
+        },
+        {
+          "word": "gatsby",
+          "count": 142
+        },
+        {
+          "word": "fitzgerald",
+          "count": 139
+        },
+        {
+          "word": "reader",
+          "count": 71
+        },
+        {
+          "word": "book",
+          "count": 67
+        },
+        {
+          "word": "novel",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "perkins",
+          "count": 147
+        },
+        {
+          "word": "gatsby",
+          "count": 142
+        },
+        {
+          "word": "fitzgerald",
+          "count": 139
+        },
+        {
+          "word": "reader",
+          "count": 71
+        },
+        {
+          "word": "book",
+          "count": 67
+        },
+        {
+          "word": "novel",
+          "count": 66
+        },
+        {
+          "word": "editor",
+          "count": 49
+        },
+        {
+          "word": "collaboration",
+          "count": 40
+        },
+        {
+          "word": "author",
+          "count": 38
+        },
+        {
+          "word": "editorial",
+          "count": 34
+        },
+        {
+          "word": "story",
+          "count": 31
+        },
+        {
+          "word": "manuscript",
+          "count": 31
+        },
+        {
+          "word": "mystery",
+          "count": 27
+        },
+        {
+          "word": "finished",
+          "count": 26
+        },
+        {
+          "word": "biography",
+          "count": 24
+        },
+        {
+          "word": "context",
+          "count": 24
+        },
+        {
+          "word": "editing",
+          "count": 23
+        },
+        {
+          "word": "read",
+          "count": 20
+        },
+        {
+          "word": "character",
+          "count": 20
+        },
+        {
+          "word": "writer",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2027-04-05-gatsby-alternate-titles.md",
+      "slug": "gatsby-alternate-titles",
+      "title": "The Title Fitzgerald Almost Used",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4761,
+      "topWord": "fitzgerald",
+      "topCount": 112,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-04-05-gatsby-alternate-titles.md",
+      "flaggedWords": [
+        {
+          "word": "fitzgerald",
+          "count": 112
+        },
+        {
+          "word": "gatsby",
+          "count": 105
+        },
+        {
+          "word": "novel",
+          "count": 89
+        },
+        {
+          "word": "book",
+          "count": 89
+        },
+        {
+          "word": "reader",
+          "count": 76
+        },
+        {
+          "word": "trimalchio",
+          "count": 69
+        },
+        {
+          "word": "title",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "fitzgerald",
+          "count": 112
+        },
+        {
+          "word": "gatsby",
+          "count": 105
+        },
+        {
+          "word": "novel",
+          "count": 89
+        },
+        {
+          "word": "book",
+          "count": 89
+        },
+        {
+          "word": "reader",
+          "count": 76
+        },
+        {
+          "word": "trimalchio",
+          "count": 69
+        },
+        {
+          "word": "title",
+          "count": 56
+        },
+        {
+          "word": "names",
+          "count": 49
+        },
+        {
+          "word": "egg",
+          "count": 32
+        },
+        {
+          "word": "final",
+          "count": 32
+        },
+        {
+          "word": "epigraph",
+          "count": 32
+        },
+        {
+          "word": "cover",
+          "count": 31
+        },
+        {
+          "word": "titles",
+          "count": 31
+        },
+        {
+          "word": "west",
+          "count": 29
+        },
+        {
+          "word": "gold",
+          "count": 24
+        },
+        {
+          "word": "white",
+          "count": 24
+        },
+        {
+          "word": "alternate",
+          "count": 24
+        },
+        {
+          "word": "choice",
+          "count": 23
+        },
+        {
+          "word": "red",
+          "count": 23
+        },
+        {
+          "word": "blue",
+          "count": 23
         }
       ]
     }

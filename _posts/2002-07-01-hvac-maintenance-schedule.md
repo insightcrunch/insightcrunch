@@ -9,7 +9,7 @@ excerpt: "An HVAC maintenance schedule with the filter cadence, spring and fall 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 68
 author: "robert-quinn"
-last_updated: 2002-07-01
+last_updated: 2026-07-13
 lang: en
 ---
 The most expensive heating and cooling failure is almost always the one you could have prevented for the price of a filter and two visits. A working HVAC maintenance schedule is not a luxury add-on or a way for a contractor to sell you something; it is the difference between a system that reaches the far end of its expected life and one that quits on the hottest afternoon or the first hard freeze, when every reputable technician in your area is already booked and the emergency rate applies. The single rule underneath everything that follows is simple enough to say in one breath: a right-sized filter changed on a real cadence, plus one tune-up in spring for cooling and one in fall for heating, prevents most breakdowns and keeps the manufacturer warranty intact. Skip those, and you are not saving money. You are moving the bill to the worst possible day and quietly shortening the life of the most costly appliance in your home.

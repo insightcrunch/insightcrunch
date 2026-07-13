@@ -9,7 +9,7 @@ excerpt: "How Egypt paid for the pyramids without coins: grain surplus, taxation
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2001-07-01
+last_updated: 2026-07-13
 lang: en
 ---
 The question of how Egypt paid for the pyramids sounds simple until you notice the thing that makes it hard: there was no money. No coins, no minted silver, no treasury of cash to draw down, no payroll in any sense a wage economy would recognize. The Fourth Dynasty crews who raised the great pyramids at Giza worked inside a state that had never issued currency and would not do so for more than two thousand years. And yet the largest stone monuments ever built to that point were financed, provisioned, staffed, and completed on schedule across successive reigns. Understanding how that happened means setting aside the reflex to imagine a construction budget and looking instead at how a pre-coinage kingdom converted the one resource it produced in genuine abundance, grain, into organized human effort.

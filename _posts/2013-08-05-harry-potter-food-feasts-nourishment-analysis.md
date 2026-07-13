@@ -9,7 +9,7 @@ excerpt: "Food in Harry Potter is never simply food. It is Rowling's most reliab
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 56
 author: "sarah-mitchell"
-last_updated: 2013-08-05
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Boy Who Was Always Hungry

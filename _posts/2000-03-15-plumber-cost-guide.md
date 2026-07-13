@@ -9,7 +9,7 @@ excerpt: "A plumber cost guide covering hourly rates, service fees, and common j
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
 author: "alex-cunningham"
-last_updated: 2000-03-15
+last_updated: 2026-07-13
 lang: en
 ---
 You are standing in your kitchen holding a quote, and the number on it feels either suspiciously low or flatly outrageous, and you have no idea which. That is the real problem with plumber cost, and it is the problem this guide solves. Almost nobody who searches for what a plumber charges actually wants a single dollar figure. What they want is the ability to look at the piece of paper in their hand and say, with some confidence, whether it is fair, high, or a red flag. A price with no context is just a number. A price you can judge is protection.

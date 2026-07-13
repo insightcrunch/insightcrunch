@@ -9,7 +9,7 @@ excerpt: "Repair or replace your water heater? Use the age, cost, and leaking-ta
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
 author: "nathan-cole"
-last_updated: 2000-11-01
+last_updated: 2026-07-13
 lang: en
 ---
 You are standing in the basement or the garage or the utility closet, looking at a puddle, or listening to a rumble, or holding a quote a technician just handed you, and the question is the same one thousands of people ask every cold morning: should you repair or replace your water heater, or is the person quoting the job steering you toward the more expensive answer for their own reasons? That decision is worth getting right, because the gap between a smart repair and a smart replacement is often several hundred dollars in one direction and a wasted investment in the other. The good news is that this is not a coin flip. There is a defensible rule that resolves almost every version of it, and by the end of this you will be able to apply it to the exact unit in front of you.

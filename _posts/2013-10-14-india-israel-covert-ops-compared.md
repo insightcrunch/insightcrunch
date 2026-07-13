@@ -9,7 +9,7 @@ excerpt: "Comparing India's shadow war with Mossad's targeted killings across ei
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2013-10-14
+last_updated: 2026-07-13
 lang: en
 ---
 Two democracies separated by geography, religion, and colonial history arrived at the same conclusion independently: that terrorists sheltered on foreign soil can be killed there, that the killing can be denied or semi-acknowledged depending on domestic political needs, and that the strategic benefits of eliminating enemy combatants outweigh the diplomatic and legal risks. Israel reached this conclusion after the Munich Olympics massacre of 1972, when Golda Meir authorized [Operation Wrath of God](https://insightcrunch.com/2019/01/07/mossad-operation-wrath-of-god/) to hunt Black September operatives across Europe. India reached the same conclusion decades later, after the Pahalgam massacre and the long chain of provocations stretching back to the IC-814 hijacking of 1999. Both programs target specific individuals. Both use deniable methods. Both operate on foreign soil. Yet the two doctrines diverge in ways that illuminate not just how democracies fight terrorism, but how they account for that fighting to their own citizens.

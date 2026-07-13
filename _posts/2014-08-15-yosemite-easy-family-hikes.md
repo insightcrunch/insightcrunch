@@ -9,7 +9,7 @@ excerpt: "Easy Yosemite hikes graded for families by distance, surface, and stro
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 68
 author: "nandini-sen"
-last_updated: 2014-08-15
+last_updated: 2026-07-13
 lang: en
 ---
 The question that decides a family day in Yosemite is not which trail is the most famous, it is which one your children can actually finish. Easy Yosemite hikes get oversold and the hard ones get dressed up as gentle, and the gap between the two is where a promising morning turns into a meltdown on a staircase of wet granite. A four-year-old will happily toddle a flat mile to the base of a roaring waterfall and remember it for years. That same four-year-old, hauled up six hundred slick stone steps because a guidebook called the route a must-do, will be carried back down on a parent's shoulders while everyone wishes they had stayed in the meadow.

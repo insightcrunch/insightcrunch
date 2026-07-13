@@ -9,7 +9,7 @@ excerpt: "Plumbing scams thrive on panic and paperwork you never asked for. Lear
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 68
 author: "david-thornton"
-last_updated: 2001-04-15
+last_updated: 2026-07-13
 lang: en
 ---
 Most plumbing scams do not look like scams. They look like a technician crouched under your sink, shaking his head slowly, telling you the thing you called about is nothing compared to the thing he just found. Plumbing scams work because water is frightening, plumbing is hidden inside walls and under floors, and the person delivering the bad news is the only one in the room who can supposedly fix it. A homeowner who called about a dripping faucet gets talked into a whole-house repipe. A family with a slow drain gets a nine-hundred-dollar diagnosis for a problem a snake would have cleared in twenty minutes. The pitch feels urgent, the numbers feel authoritative, and the pressure feels like concern. That is the con working exactly as designed.

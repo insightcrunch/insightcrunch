@@ -9,7 +9,7 @@ excerpt: "The Dursleys in Harry Potter embody mundane evil: a respectable family
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-07-15
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The Villains Who Never Cast a Spell

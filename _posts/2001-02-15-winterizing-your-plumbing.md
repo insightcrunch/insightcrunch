@@ -9,7 +9,7 @@ excerpt: "Learn how to winterize your plumbing with a fall routine that prevents
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 68
 author: "james-carter"
-last_updated: 2001-02-15
+last_updated: 2026-07-13
 lang: en
 ---
 The most expensive plumbing failure a house can suffer is one you can prevent in an afternoon for the cost of a few foam sleeves and a shutoff valve turn. When you winterize your plumbing before the first hard freeze, you are not chasing a leak or reacting to a flood; you are spending thirty dollars and two hours to avoid a repair that routinely runs into the thousands once a frozen line splits and water pours into a wall, a ceiling, or a finished basement. That trade, a short seasonal routine against a mid-winter emergency bill, is the whole argument of this guide, and it is the one thing the reactive world of emergency plumbers almost never teaches, because there is no service call in a burst pipe that never happened.

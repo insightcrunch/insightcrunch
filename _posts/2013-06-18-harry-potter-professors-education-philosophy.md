@@ -9,7 +9,7 @@ excerpt: "How Harry Potter makes each Hogwarts professor a theory of teaching, w
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 62
 author: "megan-clark"
-last_updated: 2013-06-18
+last_updated: 2026-07-13
 lang: en
 ---
 ## Introduction: The School That Teaches by Who Pays Attention

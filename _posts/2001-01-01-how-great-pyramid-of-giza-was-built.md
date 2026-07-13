@@ -9,7 +9,7 @@ excerpt: "How the Great Pyramid of Giza was built, from quarrying and hauling 2.
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2001-01-01
+last_updated: 2026-07-13
 lang: en
 ---
 A single question sits behind every visit to the Giza plateau and every documentary about it: how did a Bronze Age society, working with copper tools and rope, raise the Great Pyramid of Giza, a solid mountain of roughly 2.3 million stone blocks rising about 146 meters, and set its sides so square and so close to true north that modern surveyors still measure the result with respect? The honest answer is neither mysterious nor magical. It is logistics. The building of the Great Pyramid is best understood not as a lost secret but as an extraordinary feat of organization, quarrying, and transport, carried out by a state that could feed, house, and direct a very large skilled workforce for about two decades. That is the thesis this article defends, and it is worth naming plainly at the start: the pyramid is a triumph of management and muscle, not of technology the Egyptians did not possess.

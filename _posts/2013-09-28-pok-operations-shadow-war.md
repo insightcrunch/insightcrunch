@@ -9,7 +9,7 @@ excerpt: "How India's shadow war crossed the Line of Control into Pakistan-Occup
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2013-09-28
+last_updated: 2026-07-13
 lang: en
 ---
 For decades, the Line of Control dividing Kashmir functioned as a one-way valve. Militants crossed eastward from Pakistan-Occupied Kashmir into Indian territory, staged attacks that killed soldiers and civilians, and retreated to sanctuaries where no Indian response could reach them. Rawalakot served as a launching pad. Muzaffarabad hosted the United Jihad Council's headquarters. The Neelum Valley concealed training camps. Pakistan's military apparatus in PoK existed not to prevent cross-border violence but to facilitate it, providing logistical support, weapons, and passage across mountain trails that Indian forces could monitor but never fully seal. Starting in September 2023, the valve reversed. Two targeted killings inside Pakistan-Occupied Kashmir, separated by fewer than sixty days, signaled that the covert elimination campaign documented across [India's shadow war](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) had crossed the Line of Control in the opposite direction, reaching into territory that Pakistan considers its most militarily controlled region outside Punjab proper.

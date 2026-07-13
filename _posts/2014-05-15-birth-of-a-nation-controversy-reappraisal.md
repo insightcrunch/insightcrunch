@@ -9,7 +9,7 @@ excerpt: "The Birth of a Nation consolidated the grammar of narrative film while
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2014-05-15
+last_updated: 2026-07-13
 lang: en
 ---
 The Birth of a Nation arrived in 1915 as the most ambitious motion picture American audiences had ever seen, and it left a wound in the country that has never fully closed. D.W. Griffith took the assembled discoveries of a decade of short films, fused them into a three-hour narrative built to grip a mass audience, and aimed that machinery at a single end: to make a white-supremacist account of the Civil War and Reconstruction feel like remembered truth. The result was simultaneously the work that taught the world how a feature film could move a crowd and a piece of propaganda whose glorification of the Ku Klux Klan contributed to real, documented violence. The gap between what the film achieved as craft and what it did in the world is the largest in cinema history, and the only honest way to study it is to refuse to look at one without the other.

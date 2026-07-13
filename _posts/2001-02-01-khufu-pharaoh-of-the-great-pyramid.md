@@ -9,7 +9,7 @@ excerpt: "Khufu built the Great Pyramid yet left almost no personal record. Sepa
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2001-02-01
+last_updated: 2026-07-13
 lang: en
 ---
 Khufu commanded the resources to raise the largest stone structure the ancient world would ever build, and then left behind one of the emptiest personal files of any major pharaoh. That gap sits at the center of everything worth knowing about him. The king who ordered the Great Pyramid at Giza should, by rights, be the best documented ruler of the Old Kingdom. Instead he survives as a name on a monument, a scatter of inscriptions in remote quarries, a single tiny portrait carved in ivory, and a hostile legend written down more than two thousand years after he died. To understand Khufu is to learn how to read a ruler through the hole where his record should be, and to resist the temptation to fill that hole with a story someone invented long after the fact.

@@ -9,7 +9,7 @@ excerpt: "Casablanca turns Rick's sacrifice of Ilsa into an argument that commit
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2015-01-01
+last_updated: 2026-07-13
 lang: en
 ---
 A man stands on a fog-wet airstrip and gives away the one thing he has spent the whole picture trying to get back. That image, Rick Blaine handing Ilsa Lund to another man and to the plane that carries her out of his life, is the moral engine of Casablanca, and it is also the reason a wartime entertainment from Warner Bros. has outlived nearly every prestige production that surrounded it. Michael Curtiz directed a romance, but the romance is the carrier wave for an argument, and the argument is about the price of becoming someone who acts. Rick begins the film refusing to stick his neck out for anybody. He ends it by cutting his own heart out so that two strangers to his happiness can fly to safety and keep fighting. The distance between those two positions is the film's real subject, and it is an idea, not a plot turn.

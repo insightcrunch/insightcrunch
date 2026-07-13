@@ -9,7 +9,7 @@ excerpt: "Nanook of the North founded the feature documentary and its central et
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2014-05-01
+last_updated: 2026-07-13
 lang: en
 ---
 Robert Flaherty's Nanook of the North did not merely record a way of life in the Arctic. It set a form running. Before 1922 there were travel pictures, scenic shorts, newsreels, and illustrated lecture films that strung actuality footage behind a commentary, but there was no feature-length nonfiction work built around a single human being whose struggle a viewer could follow for an hour and care about the way one cares about a character in a drama. Flaherty built that, and almost every nonfiction picture made afterward carries some trace of the choice. The line of descent runs through the British documentary movement of the 1930s, the wartime propaganda units of three continents, the observational revolution of the late 1950s, the wildlife and travel programming that fills broadcast schedules, and the reality television that fills the rest. When people argue about whether a documentary is allowed to stage, reenact, or shape its material, they are arguing about a question this film asked first and answered without apology.

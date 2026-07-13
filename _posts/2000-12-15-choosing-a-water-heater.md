@@ -9,7 +9,7 @@ excerpt: "Choosing a water heater means weighing tank versus tankless, gas versu
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 61
 author: "william-knight"
-last_updated: 2000-12-15
+last_updated: 2026-07-13
 lang: en
 ---
 Choosing a water heater is one of the few home purchases where the cheapest box on the sales floor is often the most expensive machine to own, and almost nobody tells you that at the point of sale. A water heater runs quietly in a closet or a corner of the basement for a decade or more, drawing fuel every single day, and the choices you make in the first hour of shopping decide what it costs you for that entire stretch. Tank or tankless. Gas or electric. Big enough or oversized. The right call is not the one a salesperson steers you toward and it is not the one a forum thread swears by; it is the one that fits your household's actual hot water demand at the lowest total cost across the years you will run it. This guide gives you the framework to make that call yourself, so you walk in already knowing which type, which fuel, and which size suits your home, and you can spot an upsell or a mismatch the moment it appears.

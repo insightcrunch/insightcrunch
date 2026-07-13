@@ -9,7 +9,7 @@ excerpt: "How Wings (1927) filmed real aerial combat with fuselage camera rigs a
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2014-02-01
+last_updated: 2026-07-13
 lang: en
 ---
 The hardest thing about *Wings* was not the love triangle or the studio politics or the Texas weather that kept hundreds of people idle for days. The hardest thing was a question no cinematographer of 1927 had answered: how do you put an audience inside a dogfight that is happening two thousand feet up, at a hundred miles an hour, in an open cockpit, with the actor's face large enough to read and the enemy plane real enough to fear? William A. Wellman and his crew solved that problem by refusing the easy answers their colleagues abroad were taking, and the solution they built is why this First World War aviation drama remains a working document for anyone who films motion, danger, and scale. The film is studied less for what it says than for how it shows, and the how is unusually instructive because so much of it is verifiably real.

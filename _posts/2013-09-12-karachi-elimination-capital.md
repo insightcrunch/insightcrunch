@@ -9,7 +9,7 @@ excerpt: "Analyzing why Karachi hosts more targeted killings of wanted terrorist
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2013-09-12
+last_updated: 2026-07-13
 lang: en
 ---
 Karachi holds a distinction that no Pakistani official will publicly acknowledge and no Indian official will confirm or deny. Pakistan's largest metropolis, a sprawling port city of over fifteen million residents stretched across the southern Sindh coastline, has become the primary theater for the covert campaign of targeted killings that is systematically dismantling India's most-wanted militant networks on foreign soil. More designated operatives from Lashkar-e-Taiba, Jaish-e-Mohammed, and their affiliates have been gunned down in Karachi's neighborhoods than in Lahore, Rawalpindi, Bahawalpur, Sialkot, and every other Pakistani city combined. Karachi is not merely one of several operational zones in the [shadow war India has waged against terror infrastructure](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) across Pakistan. It is the campaign's undisputed capital, the single urban landscape where more India-linked operatives have met their end at the hands of [unknown gunmen on motorcycles](https://insightcrunch.com/2012/12/24/unknown-gunmen-pattern-decoded/) than anywhere else on earth. The reasons are structural, layered, and deeply revealing about both the nature of Pakistan's safe-haven system and the doctrine behind its penetration.

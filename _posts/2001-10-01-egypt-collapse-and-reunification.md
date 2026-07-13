@@ -9,7 +9,7 @@ excerpt: "The First Intermediate Period was less a dark age than a decentralizin
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2001-10-01
+last_updated: 2026-07-13
 lang: en
 ---
 For roughly five centuries the pharaoh had been the single axis on which Egypt turned. Then the axis broke. The First Intermediate Period is the name given to the century and a quarter, circa 2181 to 2055 BCE, when the unified kingdom built by the pyramid age came apart into competing power centers and then, against the odds, was pulled back together. What changed because of it was not simply who sat on a throne. The very idea of what a king was for, who could reach the afterlife, and where cultural authority lived all shifted during these years, and none of it fully reverted when the country was reunited. The reunification that closed the era did not restore the old order. It built a different one, the Middle Kingdom, on foundations laid during the breakdown itself.
