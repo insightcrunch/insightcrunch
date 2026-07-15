@@ -6,15 +6,15 @@ date: 2026-07-11
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Norway", "England", "Quarter-final", "Match Preview"]
 excerpt: "Norway vs England prediction, predicted lineups and tactical preview for the World Cup 2026 quarter-final in Miami, plus the key battles that decide it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "carlos-mendez"
 last_updated: 2026-07-11
+lang: en
 ---
-
 Two number tens will walk out at Miami Stadium on Saturday evening, and only one of them will be allowed to do his job. That is the shape of Norway vs England at World Cup 2026, a quarter-final that looks on paper like a mismatch between a pre-tournament favorite and a nation of five and a half million people playing in the last eight for the first time in its history. It is not a mismatch. It is a question about which kind of creator gets more of the ball in the right second, in conditions hot enough that the global players' union would consider calling the whole thing off.
 
-![Norway vs England World Cup 2026 quarter-final preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Norway vs England World Cup 2026 quarter-final preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 Martin Odegaard and Jude Bellingham are both listed as attacking midfielders. They do almost opposite work. Odegaard is a releasing ten: he receives with his back to pressure, turns, and puts Erling Haaland into a running lane before the opposition back line has finished retreating. Bellingham is an arriving ten: he starts behind the ball, lets England's structure drag defenders into shape, and enters the penalty area late and unmarked. The releasing ten needs one clean turn per twenty minutes. The arriving ten needs sustained control and a defense that has been pulled apart. Those two requirements sit on opposite sides of the same variable, which is how much running England can still do at ninety minutes in a heat index above forty degrees Celsius.
 

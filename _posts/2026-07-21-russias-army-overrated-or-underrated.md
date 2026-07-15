@@ -6,15 +6,15 @@ date: 2026-07-21
 categories: ["Industry"]
 tags: ["Poland Security", "Russian Military", "Military Analysis", "Russia", "European Security", "Defense Policy"]
 excerpt: "Is the Russian army overrated or underrated? A capability-by-function balance sheet scores leadership, mass, and adaptation to reach an honest verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-07-21
+lang: en
 ---
-
 Ask ten serious people whether the Russian army is overrated or underrated and you will get ten confident answers pointing in two directions. The question sits at the center of every argument about how much danger Poland and the eastern flank actually face, and it refuses to resolve cleanly because both camps are holding a real piece of the truth. One side watched a vaunted force stall on the road to Kyiv, lose armored columns to ambush, and burn through its best formations in muddy assaults, and concluded that the reputation was theater. The other side watched the same force absorb staggering losses, mobilize a wartime economy, relearn its trade under fire, and keep grinding forward, and concluded that writing it off is the oldest mistake in the book. Deciding who is right is not an academic exercise. It sets the threat picture that Polish planners, NATO commanders, and Western publics carry in their heads, and a wrong reading in either direction is expensive.
 
-![Russia's army overrated or underrated, a capability-by-function assessment of Russian military strength and weakness - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Russia's army overrated or underrated, a capability-by-function assessment of Russian military strength and weakness - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The honest way through the argument is to stop asking for a single label and start scoring the force function by function. The Russian army is not one thing that is either good or bad; it is a bundle of very different capabilities, some genuinely formidable and some genuinely broken, and the two schools each generalize from the part they find most striking. This assessment lays the two readings side by side, tests each against the durable open-source record rather than the headline of the week, and reaches an explicit verdict with the deciding factor named. The verdict is not a shrug. It is a specific claim: the force is overrated at the high end and underrated at the low end, which means any one-word summary is wrong and the only defensible judgment is capability-by-function. That claim, and the balance sheet behind it, is what this piece builds.
 

@@ -6,15 +6,15 @@ date: 2026-07-11
 categories: ["Industry"]
 tags: ["Poland Security", "Russian Military", "Military Analysis", "Russia", "Eastern Flank", "Defense Policy"]
 excerpt: "Russia's missile and drone arsenal is a two-tier standoff threat: cheap saturating drones and scarce precise missiles, dangerous combined yet bounded."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2026-07-11
+lang: en
 ---
-
 When analysts weigh what Russia could bring to bear against the alliance's eastern flank, the question that shapes the most planning is not how many soldiers Moscow can move west but what its standoff strike systems can reach without moving at all. Russia's missile and drone arsenal is the instrument that lets a continental power hold distant targets at risk from behind its own lines, and reading that arsenal correctly is the difference between sober preparation and either panic or complacency. This article is a capability assessment of that arsenal held to one discipline throughout: it describes what the systems are, what class of effect they can produce, and how production and stockpile cycles govern their weight, without ever crossing into how they would be employed.
 
-![Russia's missile and drone arsenal](/assets/images/blog/blog-01.webp)
+![Russia's missile and drone arsenal](/assets/images/blog/blog-37.webp)
 
 The single most decision-relevant question about this arsenal is deceptively simple. It is not whether Russia can strike deep, because that has been demonstrated repeatedly over the course of the war in Ukraine. It is whether Russia can strike deep, accurately, and often enough, and for long enough, to change the outcome of a flank contingency rather than merely to inflict pain. Those are separate properties, and the arsenal delivers them unevenly. Some systems reach far but exist in small numbers. Some exist in large numbers but reach shallow or land imprecisely. Some are precise and far-reaching but so costly to produce that they can only be spent on the targets that justify the expense. The whole assessment turns on understanding that no single line in the inventory defines the threat. The mix does.
 

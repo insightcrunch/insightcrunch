@@ -6,15 +6,15 @@ date: 2027-04-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "American Literature", "Literary Criticism"]
 excerpt: "Fitzgerald and the Riviera years explain where The Great Gatsby was written: on the French coast, among the wealthy expatriates whose world fed the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-04-12
+lang: en
 ---
-
 The most American novel ever written was composed on a French hillside above the Mediterranean, in a country whose money Fitzgerald could barely spend fast enough because his dollars went so far. Hold that fact in mind and the book changes shape. When a reader learns to weigh Fitzgerald and the Riviera years as composition context rather than trivia, the portrait of American wealth in the novel stops looking like reportage from inside the boom and starts looking like what it was: a picture of home drawn from a distance, sharpened by exile and by the company of people rich enough to summer on a coast that most of the country would never see. The distance is not incidental. It is part of how the book sees.
 
-![Fitzgerald and the Riviera years and where The Great Gatsby was written explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fitzgerald and the Riviera years and where The Great Gatsby was written explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 This is the article that owns the Riviera-years context for the whole series. It sits beside the account of the wider expatriate literary scene, which the piece on [Fitzgerald, Hemingway, and Paris](/2027/06/28/fitzgerald-hemingway-paris/) handles, and beside the mechanical story of drafting and revision, which the study of [how Fitzgerald wrote The Great Gatsby](/2027/03/01/how-fitzgerald-wrote-gatsby/) carries in detail. Here the frame is narrower and more specific: the place, the season, and the moneyed company that surrounded the writing, and the difference all of it makes to a reading of the finished book.
 

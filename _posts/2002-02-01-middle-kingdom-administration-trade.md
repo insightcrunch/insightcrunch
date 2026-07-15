@@ -6,15 +6,15 @@ date: 2002-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Middle Kingdom", "Ancient Egypt", "Pharaohs", "World History"]
 excerpt: "Middle Kingdom administration and trade ran on a professional bureaucracy, grain taxation, and state-managed routes reaching Nubia, Byblos, and distant Punt."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2002-02-01
+lang: en
 ---
-
 Middle Kingdom administration and trade were the machinery that turned a reunified country into a working state, and understanding that machinery is the difference between knowing that Egypt was rich and being able to explain why. The kings of the Eleventh and Twelfth Dynasties inherited a land that had just come through a long fracture, the First Intermediate Period, when central authority broke and provincial lords ran their own districts. What the Middle Kingdom built on top of that recovery was not a vague prosperity but a system: a professional bureaucracy headed by the vizier, a tax base rooted in grain and labor, granaries that stored the surplus, and long-distance networks that reached south into Nubia for gold and hard stone, north to the Levantine coast for cedar, and east across the desert and down the Red Sea for the incense and exotic goods of Punt. Follow the grain and the gold and you can reconstruct how the whole thing was funded.
 
-![Middle Kingdom administration and trade, how Egypt's state was run and funded - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Middle Kingdom administration and trade, how Egypt's state was run and funded - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The central argument of this guide is what can be called the managed-network thesis. The Middle Kingdom economy was defined less by any single resource than by state-managed long-distance networks reaching in three directions at once, run by a salaried, promotable class of officials rather than by hereditary local lords. Gold and greywacke came up the Nile and across the eastern desert from the south. Cedar came by sea from Byblos on the coast of what is now Lebanon. Frankincense, myrrh, ebony, and ivory came from Punt, somewhere on the southern Red Sea coast, carried home in ships that were built on the Nile, dragged in pieces across the desert, and reassembled at a harbor the state maintained for exactly this purpose. None of that happened by accident, and none of it was left to private merchants acting alone. The crown organized the expeditions, staffed them with named officials, and recorded the results. That combination of reach and record is the signature of the period.
 

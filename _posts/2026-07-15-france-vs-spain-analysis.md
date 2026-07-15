@@ -6,15 +6,15 @@ date: 2026-07-15
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Spain", "Semi-final", "Match Analysis"]
 excerpt: "France vs Spain result and analysis: how Spain's 2-0 World Cup 2026 semi-final win in Dallas, built on a penalty and a give-and-go, sent them to the final."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "grace-whitmore"
 last_updated: 2026-07-15
+lang: en
 ---
-
 France vs Spain at World Cup 2026 was sold for a fortnight as the final before the final, the tournament's most feared attack against the tournament's most miserly defense, and the answer arrived inside twenty-two minutes and never wavered. Spain won 2-0 at Dallas Stadium on July 14, through a Mikel Oyarzabal penalty and a Pedro Porro finish, and they did it by making the most expensive front four in world football look like a rumor. France finished the night with ten shots and 0.30 expected goals. That number, not the scoreline, is the honest measure of what happened in Arlington, Texas, and it is the number this article is built around.
 
-![France vs Spain World Cup 2026 semi-final result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![France vs Spain World Cup 2026 semi-final result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 Call it the 0.30 semi-final. Kylian Mbappe, Ousmane Dembele, Michael Olise, and Bradley Barcola had scored sixteen goals between France's attacking unit across six matches and had beaten Senegal, Iraq, Norway, Sweden, Paraguay, and Morocco without ever needing to reach for a second gear. Against Spain they generated less shot value in ninety minutes than a mid-table league side would expect from a single corner routine. All three of France's shots on target arrived after the eightieth minute, two of them in stoppage time, by which point Luis de la Fuente had already withdrawn his scorer and his creator and was managing the clock rather than the game.
 

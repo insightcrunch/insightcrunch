@@ -6,15 +6,15 @@ date: 2003-04-15
 categories: ["Industry"]
 tags: ["Home Services", "Electrical", "Cost Guide", "Hiring Guide", "Consumer Protection"]
 excerpt: "An electrician cost guide with defensible price ranges for outlets, circuits, panels, and whole-house rewires, plus the drivers and how to judge any quote."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2003-04-15
+lang: en
 ---
-
 An electrician cost sits on a wider spread than almost any other trade in the house, and that spread is exactly why homeowners get taken. The same three words, "replace my panel," can pull a fair quote and a padded one that is more than double it, and unless you know what the job actually involves, both numbers look equally plausible on the page. This guide does the ranged math the brochures dodge. It separates a quick service call from small fixed jobs like an outlet, from mid jobs like adding a circuit, from the big-ticket panel upgrade and whole-house rewire where the number moves the most. By the end you will be able to hold any electrical quote against a defensible band and know within a minute whether it is fair, high, or padded.
 
-![Electrician cost guide showing a licensed electrician working inside an open electrical panel](/assets/images/blog/blog-01.webp)
+![Electrician cost guide showing a licensed electrician working inside an open electrical panel](/assets/images/blog/blog-32.webp)
 
 The reason a homeowner cannot judge an electrical quote on instinct is that the visible part of the work is a small fraction of what is being priced. A new outlet looks like a five-minute job because the finished result is a plate on a wall, but the price reflects the wire run inside the wall, the load on the circuit, the connection at the panel, the code that governs all of it, and the license and insurance behind the person doing it. When you understand what is actually being paid for at each tier, the quote stops being a mystery and becomes a document you can read.
 

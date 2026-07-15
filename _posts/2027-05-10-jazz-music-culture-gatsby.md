@@ -6,15 +6,15 @@ date: 2027-05-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jazz Age", "1920s music", "cultural context", "F. Scott Fitzgerald", "Leisure"]
 excerpt: "Music and jazz culture in Great Gatsby scored the era and the parties. Here is the real 1920s soundscape, its songs, its orchestra, and what the jazz meant."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-05-10
+lang: en
 ---
-
 Read the party scenes in chapter three with the sound turned off and you get a costume drama: rich people in a big house, drinking. Turn the sound back on and you get the decade itself. The music and jazz culture in Great Gatsby is not a backdrop painted behind the action; it is the pulse the action moves to, the thing that tells you what year this is, what these people are running from, and why the gaiety has an edge of hysteria. Fitzgerald did not choose his era's soundtrack by accident. He named a whole decade after it. Understanding the real jazz culture of the 1920s, where the music came from, who played it, why respectable people found it thrilling and dangerous at once, changes what those famous parties are doing on the page.
 
-![Jazz musicians and dancers at a lavish 1920s party evoking the soundscape of The Great Gatsby](/assets/images/blog/blog-01.webp)
+![Jazz musicians and dancers at a lavish 1920s party evoking the soundscape of The Great Gatsby](/assets/images/blog/blog-84.webp)
 
 This article treats the jazz and the music of the period as historical context rather than as one more symbol to decode. The in-novel motif of music and songs, the way particular tunes recur and mean, has its own dedicated reading in the series. So does the Jazz Age as a broad cultural label. What this piece owns is the actual sound: the bands, the instruments, the origins, the records and the radios that carried the new music into every corner of American life, and the specific way that culture surfaces in the orchestra Gatsby hires and the songs his guests dance to. The aim is that when you finish, the parties will not read as generic revelry. They will read as a precise historical scene, scored by a music that carried its own argument about freedom, race, class, and how far a country would let itself go.
 

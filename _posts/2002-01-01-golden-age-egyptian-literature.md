@@ -6,17 +6,17 @@ date: 2002-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Middle Kingdom", "Ancient Egypt", "Historiography", "World History"]
 excerpt: "The golden age of Egyptian literature arrived in the Middle Kingdom, when scribes turned the trauma of collapse into a reflective, lasting classical canon."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2002-01-01
+lang: en
 ---
-
 The golden age of Egyptian literature was not a temple archive and it was not a stack of tax rolls. It was a body of stories, complaints, and teachings that a reader can still follow, argue with, and be moved by, produced in the Middle Kingdom that ran from circa 2055 to 1650 BCE. Measured against the writing of its own time, Middle Kingdom Egyptian literature reached a level of craft that later Egyptians never treated as a passing fashion. They treated it as the standard. For most of the pharaonic centuries that followed, a young scribe learned to write by copying these works, and the phase of the language they were composed in, Middle Egyptian, became the classical form taught in schools and carved on monuments long after ordinary speech had moved on.
 
 That distinction matters because it separates a literature from a filing system. Egypt had produced writing for more than a thousand years before the Middle Kingdom, and much of that earlier record was administrative, dedicatory, or funerary. What changed in the Twelfth Dynasty was the arrival of texts whose purpose was not to count grain or protect a dead king but to think, to entertain, to persuade, and to worry aloud about the order of the world. The central argument of this guide is what can be called the anxious-classicism thesis: Middle Kingdom writers took the memory of a recent national collapse and turned it into a reflective, morally searching canon, and later ages received that canon as the classical benchmark of good Egyptian writing.
 
-![The golden age of Egyptian literature in the Middle Kingdom, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The golden age of Egyptian literature in the Middle Kingdom, explained - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 To read these works well, a person needs three things at once: the plots and arguments of the landmark texts themselves, the conventions that shaped how they were written, and the honest limits of what survives. The plots reward attention. A courtier flees Egypt and spends a lifetime abroad before pleading to come home and be buried in his own soil. A robbed farmer argues so beautifully for justice that a high official keeps him talking on purpose. A sailor tells a shipwreck story to calm a frightened superior, and the story contains a talking serpent who has already lost everything. Around these tales sit teachings and prophecies that read the collapse of a golden past and the fragile recovery of order as their true subject. This guide walks through the canon, the craft, the transmission, and the myths, and it separates what the evidence supports from what popular retelling has added.
 

@@ -6,17 +6,17 @@ date: 2026-07-10
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Spain", "Belgium", "Quarter-final", "Match Preview"]
 excerpt: "Spain vs Belgium World Cup 2026 quarter-final preview: prediction, predicted lineups, head to head, team news and the one gap that decides Los Angeles."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-07-10
+lang: en
 ---
-
 Spain vs Belgium at World Cup 2026 poses a question that no other quarter-final on this bracket asks quite so cleanly: what happens when the most miserly defensive structure at the tournament meets the side that has scored more goals than anyone except one? Five matches into their campaign, Luis de la Fuente's Spain have not conceded a goal. Not one. Belgium, meanwhile, arrive in Los Angeles having put four past the co-hosts and having clawed back a two-goal deficit before that. One of those records breaks on Friday afternoon at Los Angeles Stadium, and the side it breaks for goes to Dallas to play France.
 
 That framing is tidy, and it is also slightly misleading. The truer question is narrower and more specific than "can Belgium score against Spain," because Belgium's ability to score was never really in doubt. The question is whether Belgium can build a midfield screen sturdy enough to hold Spain's possession game at arm's length for ninety minutes, given that the player they built that screen around will be watching from a hospital appointment rather than the bench. Amadou Onana tore the anterior cruciate ligament in his right knee against the United States and is out of the tournament. The zone he occupied is the space this preview is about, and it is the space Spain have spent five matches learning how to attack.
 
-![Spain vs Belgium World Cup 2026 quarter-final preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Spain vs Belgium World Cup 2026 quarter-final preview, prediction and predicted lineups - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 Call it the Onana Gap. It is not a metaphor. It is the roughly fifteen yards of grass in front of Belgium's back four, between the two center-halves and the base of the attacking line, where a holding midfielder is supposed to sit, read the second ball, and step across to cut the pass into the forward's feet before it arrives. Rudi Garcia has to rebuild that zone from parts, in a knockout match, against the one opponent in world football whose entire method is designed to find exactly that kind of seam and live in it. Everything else in this fixture, the head-to-head weight, the forty years since Puebla, the clean-sheet run, the Ballon d'Or holder against the creator, funnels into that patch of ground.
 

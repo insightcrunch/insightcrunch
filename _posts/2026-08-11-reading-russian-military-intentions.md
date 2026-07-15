@@ -6,17 +6,17 @@ date: 2026-08-11
 categories: ["Industry"]
 tags: ["Poland Security", "Russian Military", "Military Analysis", "Russia", "Geopolitics"]
 excerpt: "Reading Russian military intentions means inferring intent from capability, doctrine, and signaling, and understanding why that read is the hardest of all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-08-11
+lang: en
 ---
-
 Reading Russian military intentions is the analytical problem underneath every serious question about the eastern flank, and it is also the one that resists a clean answer. When a policymaker asks whether Moscow means to test NATO, whether a buildup is a threat or a bluff, or whether a given move is the opening of something larger, the honest reply is that intent is never handed over as a fact. It is inferred, always, from indirect evidence, by people who know their own inferences can be wrong. That gap between what can be seen and what must be judged is where good assessment lives and where bad assessment fails, and it is the subject of this article.
 
 The distinction that organizes everything below is the one between what an adversary can do and what an adversary intends to do. Capability is comparatively knowable: forces can be counted, systems cataloged, deployments tracked in broad terms from the open record. Intent is not knowable in the same way. It sits inside the decision-making of a closed and deliberately opaque state, it can change faster than any force posture, and it can be actively disguised. A reader who wants to weigh the intent claims that fill security coverage, rather than accept or dismiss them wholesale, needs to understand how the inference is built, where it goes wrong, and how much confidence it can honestly carry.
 
-![Reading Russian military intentions, how analysts infer intent from capability, doctrine, and signaling - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Reading Russian military intentions, how analysts infer intent from capability, doctrine, and signaling - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 This is a methodology article, not a forecast. It does not predict what Russia will do, and it deliberately avoids anything resembling collection tradecraft or operational detail. Its purpose is to make the reasoning visible: to lay out how intent is assessed from capability, doctrine, posture, and signaling; to explain why intent is the hardest and most contested variable in the whole assessment; and to show how deception on one side and the analyst's own assumptions on the other distort the picture. The payoff is a way to read intent claims critically, to know which inputs are durable and which are cheap to fake, and to treat a confident assertion about Russian intentions with the skepticism it usually deserves.
 

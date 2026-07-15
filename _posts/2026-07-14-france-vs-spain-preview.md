@@ -6,15 +6,15 @@ date: 2026-07-14
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "Spain", "Semi-final", "Match Preview"]
 excerpt: "France vs Spain World Cup 2026 semifinal preview: our prediction, both predicted lineups, head to head record, and the midfield seam that decides Dallas."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-07-14
+lang: en
 ---
-
 The France vs Spain World Cup 2026 semifinal in Dallas is not a question about Kylian Mbappe against a back four. Every preview will tell you it is, because that is the picture the tournament has been selling for a month: the most dangerous forward line in North America against the meanest defense anyone has assembled at a World Cup in a generation. That framing is comfortable, and it is close to useless, because it describes a collision that will only happen if something else happens first. Mbappe does not get to run at William Saliba's opposite numbers unless France win the ball in a position and a posture that let him run at all. And whether they do is settled thirty yards further back, in a strip of grass roughly fifteen yards wide, between Aurelien Tchouameni and Adrien Rabiot on one side and Dayot Upamecano and Saliba on the other.
 
-![France vs Spain World Cup 2026 semifinal preview at Dallas Stadium](/assets/images/blog/blog-01.webp)
+![France vs Spain World Cup 2026 semifinal preview at Dallas Stadium](/assets/images/blog/blog-74.webp)
 
 Call it the two-against-three seam. It is the single most important piece of territory on the pitch on Tuesday, and it exists because Didier Deschamps has built the tournament's best attacking side by committing four players to the front line and two to the middle, while Luis de la Fuente has built the tournament's best defensive record by committing three to the middle and asking his front three to be patient. France go into the last four ranked first in the world by FIFA, unbeaten, with six wins from six and sixteen goals. Spain go in ranked third, reigning European champions, having conceded exactly one goal in six matches. Something has to give, and the thing that gives will be found in that seam.
 

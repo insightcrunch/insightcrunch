@@ -6,15 +6,15 @@ date: 2002-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Middle Kingdom", "Ancient Egypt", "Society", "Archaeology", "Historiography"]
 excerpt: "Class and society in Middle Kingdom Egypt ran from king and officials down to farmers and servants, with scribes offering a real path to rise in rank."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2002-03-01
+lang: en
 ---
-
 Stand for a moment beside a mudbrick house in a planned Middle Kingdom town, watch a woman carry water past a scribe checking a grain tally, and you are looking at the whole social order of the age in a single street. The Middle Kingdom of Egypt, running from roughly 2055 to 1650 BCE, was not a society of pharaohs and pyramids alone. It was a pyramid of people: a king and his court at the apex, a widening band of officials and scribes below them, then the artisans who made things, the farmers who fed everyone, and at the base the servants and dependents whose labor the whole structure rested on. The question this article answers is not merely who stood where, but how that order actually felt to live inside, how much a person could move within it, and how we reconstruct any of it from tombs, statues, and texts left behind by people who never expected a historian to read them.
 
-![Class and society in Middle Kingdom Egypt, from officials and scribes to farmers and servants, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Class and society in Middle Kingdom Egypt, from officials and scribes to farmers and servants, explained - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 The temptation is to treat an ancient society as a fixed diagram, a set of boxes stacked neatly on top of one another, and then to assume that everyone born in a box died in it. That picture is half right and badly misleading. Middle Kingdom Egypt did have hard vertical distances between the man who advised the king and the man who dug the irrigation ditch, and most people did inherit their fathers' work as a matter of course. Yet the same period produced a broadening administrative middle stratum, a scribal career open to talent, and a body of writing that openly told a boy the pen would lift him above the field. The society was layered, not sealed. Reading it well means holding both truths at once: the weight of birth, and the narrow but genuine ladder that let a determined family climb.
 

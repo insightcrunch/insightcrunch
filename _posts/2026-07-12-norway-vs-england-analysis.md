@@ -6,17 +6,17 @@ date: 2026-07-12
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Norway", "England", "Quarter-final", "Match Analysis"]
 excerpt: "Norway vs England result and analysis: Bellingham's brace settled a 2-1 World Cup 2026 quarterfinal in Miami that the Three Lions never truly controlled."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-07-12
+lang: en
 ---
-
 England beat Norway 2-1 after extra time in the World Cup 2026 quarterfinal in Miami, and the honest way to describe it is that they did not out-play the Norwegians for a single sustained stretch of the 120 minutes. They out-scored them, which is a different achievement, and the man who did the out-scoring was Jude Bellingham, twice. Everything else about Saturday night at Hard Rock Stadium, the possession, the shot count, the chance quality, the territorial pressure, the set-piece threat, was close enough to be called a coin flip by anyone who did not know the scoreline.
 
 Here is the number that frames this piece and that this article will keep coming back to. Across two hours of football, Stale Solbakken's side generated 0.77 expected goals and Thomas Tuchel's side generated 0.96. That is a gap of 0.19, roughly one fifth of one goal, spread over 120 minutes in a heat index above 100 degrees Fahrenheit. Call it **the 0.19 margin**. It is the whole story of this quarterfinal, because a 0.19 edge in chance quality is not a performance gap; it is noise. What converted noise into a semifinal place was one player finishing 0.52 expected goals worth of shooting into two actual goals, and a goalkeeper at the other end failing to hold a shot he should have held.
 
-![Norway vs England World Cup 2026 quarter-final result, Bellingham brace and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Norway vs England World Cup 2026 quarter-final result, Bellingham brace and tactical analysis - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 That is not a criticism dressed as analysis. It is the reason Tuchel spent his post-match interview arguing with his own achievement while the rest of the country celebrated, and the reason Norway went home convinced that the margins had been drawn against them rather than earned by their opponents. Both positions are defensible. This article works through the 120 minutes in sequence, names the four incidents that actually decided it, rates every player who mattered with reasoning, and sets out what the result changes for a Three Lions side who now meet Argentina in Atlanta and for a Norwegian side who leave North America having gone further than any of their predecessors ever managed.
 

@@ -6,15 +6,15 @@ date: 2026-07-12
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "Switzerland", "Quarter-final", "Match Analysis"]
 excerpt: "Argentina vs Switzerland analysis: how a red card and Julian Alvarez's 112th-minute strike settled an absorbing World Cup 2026 quarter-final in Kansas City."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "aisha-rahman"
 last_updated: 2026-07-12
+lang: en
 ---
-
 Argentina beat Switzerland 3-1 after extra time in the World Cup 2026 quarter-final at Kansas City on July 11, and the single fact that explains the scoreline is that for forty-seven minutes of football the game stopped being a contest and became a siege. Before Breel Embolo was sent off in the 72nd minute, Switzerland had the ball, the territory and the momentum, and the reigning champions had not landed a shot on target since the tenth minute. After it, Argentina attempted seventeen shots to Switzerland's two, generated 1.61 expected goals to Switzerland's 0.03, and still needed until the 112th minute to break through. Any Argentina vs Switzerland analysis of this World Cup 2026 tie that leads with the 3-1 is describing a different match from the one played.
 
-![Argentina vs Switzerland World Cup 2026 quarter-final analysis](/assets/images/blog/blog-01.webp)
+![Argentina vs Switzerland World Cup 2026 quarter-final analysis](/assets/images/blog/blog-103.webp)
 
 That gap between the scoreline and the ninety minutes preceding it is the whole story. It is also the reason this fixture will be argued about long after the tournament closes, because the moment that opened the gap was not a goal, a save or a substitution. It was a video review that took a yellow card off one player and gave a second one to another, and it arrived at the precise moment Switzerland looked most likely to win.
 

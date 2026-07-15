@@ -6,15 +6,15 @@ date: 2003-06-15
 categories: ["Industry"]
 tags: ["Home Services", "Electrical", "Hiring Guide", "Consumer Protection", "Warning Signs"]
 excerpt: "Learn how to vet an electrician before hiring: confirm the license and insurance, ask the right questions, and spot the red flags that should end the call."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2003-06-15
+lang: en
 ---
-
 The fastest way to vet an electrician before hiring is to ask one question and listen closely to the answer: who pulls the permit? A legitimate operator pulls it in their own name, welcomes the inspection that follows, and treats both as normal parts of the job. An operator who tells you the work is too small to bother with a permit, or who suggests that you pull it yourself to save time, has just told you something far more important than any review ever will. That single exchange sorts most of the field, because pulling a permit means putting a real license and a real name on record with the local building department, and the operators who cannot or will not do that are exactly the ones you do not want touching the wiring behind your walls.
 
-![How to vet an electrician before hiring, a homeowner's license, insurance, and red-flag checklist - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to vet an electrician before hiring, a homeowner's license, insurance, and red-flag checklist - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 That is the whole reason vetting matters more here than almost anywhere else in the home. A bad paint job looks wrong and can be redone. A bad electrical job can hide inside a wall for a year and then start a fire at two in the morning while everyone is asleep. The stakes are not evenly distributed across the trades, and the vetting has to match the stakes. The good news is that the verifications that separate a licensed, insured, accountable electrician from a dangerous unlicensed one take only a few minutes each, and they follow a clear order. Confirm the license and its tier. Confirm the liability insurance and, where it applies, the bond. Read the reviews for pattern rather than for a number. Ask the handful of questions that expose a weak operator. Watch for the red flags that should end the conversation. Do those things in sequence and trust stops being a feeling and becomes a checklist, which is exactly what a trade this dangerous demands.
 

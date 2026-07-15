@@ -6,17 +6,17 @@ date: 2002-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Middle Kingdom", "Religion", "Ancient Egypt", "Archaeology", "Historiography"]
 excerpt: "Osiris, Abydos, and the cult of the dead explained: the resurrection myth, the great pilgrimage city, and how the Coffin Texts opened the afterlife more widely."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2002-04-01
+lang: en
 ---
-
 For most of the third millennium BCE, a full and equipped eternity belonged to one man. The king climbed to the sky, joined the circumpolar stars or sailed with the sun god, and the wealth of the whole state raised the stone machine that carried him there. Ordinary Egyptians were buried with care, but the elaborate written afterlife, the one guaranteed by ritual and spell, was a royal possession. By the Middle Kingdom that monopoly had broken open. The god at the center of the change was Osiris, a murdered ruler who became lord of the dead, and the place that became the beating heart of his cult of the dead was Abydos, a modest site in the south of Egypt that pilgrims turned into the most sacred funerary ground in the country.
 
 This article follows three strands and shows how they locked together into a working religious system: the myth of Osiris, murdered by his brother, restored by his wife, and avenged by his son; the pilgrimage to Abydos, where Egyptians believed the god was buried and where they set up cenotaphs and stelae to share in his resurrection forever; and the Coffin Texts, the body of spells painted inside Middle Kingdom coffins that carried the promise of rebirth down from the palace to anyone who could equip a burial. The through-line is a single large claim that later Egyptian religion took for granted but that was, in fact, a development rather than an original feature: the resurrection once reserved for the king was extended to every Egyptian who could become, in death, an Osiris in his own right.
 
-![The Osiris myth, the pilgrimage to Abydos, and the Coffin Texts that opened the afterlife to ordinary Egyptians - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Osiris myth, the pilgrimage to Abydos, and the Coffin Texts that opened the afterlife to ordinary Egyptians - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 Understanding the cult of the dead this way, as myth plus place plus text, is more useful than memorizing a list of gods, because it explains how belief actually moved through Egyptian society. A story gave death a shape people could act inside. A holy site gave the story an address on the map, a stage where it could be performed and a plot of ground where a family could plant its hopes. A corpus of written spells gave a private individual the words the king had once monopolized. Take away any one of the three and the system stops working. The myth without the place is folklore; the place without the text is a tomb field; the text without the myth is a set of instructions with no destination. Held together, they made Osiris the model for every hopeful dead person in Egypt for the next two thousand years.
 

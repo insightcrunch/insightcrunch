@@ -6,15 +6,15 @@ date: 2026-07-11
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "Switzerland", "Quarter-final", "Match Preview"]
 excerpt: "Argentina vs Switzerland World Cup 2026 quarterfinal preview: the width tax that decides Kansas City, predicted lineups, team news and a full prediction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-07-11
+lang: en
 ---
-
 Argentina vs Switzerland is the last of the four World Cup 2026 quarterfinals, and it poses a question neither side can dodge: can a team built to rent width survive a team built to punish the rent? Lionel Scaloni's champions arrive in Kansas City having won all five of their matches and having needed extra time or an injury-time winner to survive two of them. Murat Yakin's Switzerland arrive having not trailed for a single minute of this tournament. One of those records breaks on Saturday night at Kansas City Stadium.
 
-![Argentina vs Switzerland World Cup 2026 quarterfinal preview](/assets/images/blog/blog-01.webp)
+![Argentina vs Switzerland World Cup 2026 quarterfinal preview](/assets/images/blog/blog-12.webp)
 
 That opening framing is not a rhetorical flourish. It is the actual mechanical problem of this fixture, and it has a name that will run through this preview: the width tax. Scaloni does not pick wingers. He picks four central midfielders and asks his full-backs to buy the width that his shape refuses to include. Every yard of width Argentina purchase, they purchase on credit, and the repayment falls due in the channels behind Nahuel Molina and Nicolas Tagliafico the moment possession turns over. Switzerland have spent five matches building a side whose entire competitive proposition is collecting that debt.
 

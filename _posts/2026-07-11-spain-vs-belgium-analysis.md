@@ -6,15 +6,15 @@ date: 2026-07-11
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Spain", "Belgium", "Quarter-final", "Match Analysis"]
 excerpt: "Spain vs Belgium result and analysis: Mikel Merino's 88th-minute World Cup 2026 quarter-final winner, player ratings, stats and the France semi-final ahead."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-07-11
+lang: en
 ---
-
 Spain beat Belgium 2-1 in the World Cup 2026 quarter-final at Los Angeles Stadium on Friday, and the scoreline records almost nothing about how it happened. Both Spanish goals arrived the same way: a shot was saved, the ball did not stay saved, and a Spain player was standing where the rebound landed. Fabian Ruiz scored the first on 30 minutes from a Thibaut Courtois parry. Mikel Merino scored the second on 88 minutes from a Senne Lammens spill. In between, Charles De Ketelaere headed in the first goal Spain had conceded at this tournament, and for forty-seven minutes it looked as though the meanest defense in North America had finally been made mortal at the worst possible moment.
 
-![Spain vs Belgium World Cup 2026 result, Merino's late winner and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Spain vs Belgium World Cup 2026 result, Merino's late winner and player ratings - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 It was not mortality. It was arithmetic. Spain took seventeen shots to Belgium's five, put eight on target to Belgium's two, and generated 2.08 expected goals against 0.38. A side that produces that gap does not need a plan for scoring; it needs a plan for what happens after the goalkeeper gets a hand to it. Luis de la Fuente has one, and it has now won Spain two knockout ties in five days. That is the claim this piece defends, and we will call it the rebound rule: Spain are not winning these knockouts with their first contact, they are winning them with their second, and the manager stocks the penalty area with fresh legs precisely when the tiring defense in front of him can no longer clear the loose ball.
 
