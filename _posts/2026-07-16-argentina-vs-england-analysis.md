@@ -6,15 +6,15 @@ date: 2026-07-16
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Argentina", "England", "Semi-final", "Match Analysis"]
 excerpt: "Argentina vs England World Cup 2026 result and analysis: how two late Messi assists in the final five minutes overturned Anthony Gordon and buried England."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "yuki-mori"
 last_updated: 2026-07-16
+lang: en
 ---
-
 Argentina beat England 2-1 in the World Cup 2026 semi-final in Atlanta on July 15, and the scoreline is the least honest thing about it. For eighty-five minutes England were winning a match they had planned meticulously and were losing a match they had not planned at all. Anthony Gordon's finish in the 55th minute was the only goal either side had earned by any conventional measure of the first hour. Then Lionel Messi crossed twice from the same pocket of grass, seven minutes apart, and the World Cup final belonged to the champions.
 
-![Argentina vs England World Cup 2026 semi-final result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Argentina vs England World Cup 2026 semi-final result, player ratings and tactical analysis - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 This article makes one claim and defends it for the rest of its length. Call it the two-cross semifinal. Argentina did not out-play England into the final in any sustained sense; for long stretches of the first half they could not out-play a defensive block that was not yet even trying to be one. What Argentina did was out-deliver England twice, from an identical zone, with the same player supplying both, at the precise moment England had ceded that zone by choice. Enzo Fernandez struck from twenty yards in the 85th minute after Messi rolled him the ball from a short corner. Lautaro Martinez headed in from close range in the second minute of stoppage time after Messi hung a cross onto the far post. The two goals came from Argentina's right, England's left, in the exact minutes England had stopped contesting it. Everything else in this match is either the cause of that surrender or its consequence.
 
