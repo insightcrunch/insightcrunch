@@ -6,17 +6,17 @@ date: 2004-02-01
 categories: ["Industry"]
 tags: ["Home Services", "Electrical", "Consumer Protection", "Hiring Guide", "Warning Signs"]
 excerpt: "An electrical inspection checks grounding, bonding, the panel, and circuits at rough-in and final. Here is what the inspector looks for and how to be ready."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2004-02-01
+lang: en
 ---
-
 A competent electrical inspection looks almost boring from the outside. Someone shows up, walks to the panel, opens the cover, looks for a while, follows a few circuits back through the house, pulls a cover plate or two, writes something down, and leaves. Twenty minutes to an hour, no drama. That calm is the point. The inspector is not there to be impressed by the work or to negotiate with the person who did it. The inspector is there to compare what exists against what the adopted code requires, and to record the answer in a way that follows the property for as long as anyone cares to look it up.
 
 Almost everything people get wrong about this process comes from meeting it blind. A homeowner hires an electrician, the electrician mentions that the job needs to be inspected, and suddenly there is a stranger with a clipboard deciding whether a project the homeowner already paid for is acceptable. That feels like a hurdle, so people treat it like one: they hope it goes fast, they hope nothing gets flagged, and they never learn what the visit was actually protecting them from. That is the wrong posture. The inspection is the only step in the whole project where a third party with no financial stake in the outcome looks at the work on the homeowner's behalf. It is the cheapest quality control available, and reading it as a nuisance is how people end up paying for it twice.
 
-![What happens during an electrical inspection, a homeowner walkthrough of the rough-in and final stages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What happens during an electrical inspection, a homeowner walkthrough of the rough-in and final stages - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 This article walks the whole thing, in order, in both of the situations a homeowner is likely to meet it. The first is the code inspection tied to permitted work, which happens in two stages: once before the walls close, and once after the job is finished and energized. The second is the point-in-time safety review tied to a home purchase, an insurance requirement, or a plain desire to know what is behind the drywall of a house that has been standing for decades. They share a vocabulary and a lot of the same checks, but they exist for different reasons and produce different documents, and confusing them is the single most common source of frustration in this whole territory.
 

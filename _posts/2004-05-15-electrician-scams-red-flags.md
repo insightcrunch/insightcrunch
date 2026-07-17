@@ -6,17 +6,17 @@ date: 2004-05-15
 categories: ["Industry"]
 tags: ["Home Services", "Electrical", "Consumer Protection", "Warning Signs", "Hiring Guide", "Cost Guide"]
 excerpt: "Electrician scams follow a handful of set plays. Learn the invented hazard, the bait-and-switch quote, and the door pitch, plus the tells that expose each."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2004-05-15
+lang: en
 ---
-
 Almost every one of the electrician scams that costs a homeowner real money starts the same way: a technician comes out for something small, spends four minutes at the panel, and comes back into the kitchen wearing an expression. Then the sentence arrives. This is a fire waiting to happen. I would not sleep in this house tonight. Whoever wired this should not have a license. The sentence is designed to do one job, which is to move you from a two-hundred-dollar visit to a five-figure decision before you have had time to think, and it works because it borrows the one thing electricity genuinely has, which is the power to kill you and burn your house down. That fear is real. The pitch built on top of it very often is not.
 
 Here is what makes this trade different from every other one in the house. When a roofer tells you the decking is rotten, you can climb a ladder and look. When a plumber tells you the supply line is failing, you can put a hand on it. When an electrician tells you the wiring behind your walls is a hazard, you cannot see behind your walls, you do not own a meter, you do not know what a double tap is, and the person telling you is the only source of information in the room. The information gap is total, and a dishonest operator knows it. That gap, not greed and not incompetence, is the raw material every electrical con is built from.
 
-![Electrician scams and red flags, how to spot the invented hazard and the bait-and-switch quote - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Electrician scams and red flags, how to spot the invented hazard and the bait-and-switch quote - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 So this article does not tell you to hire someone reputable and hope. It walks the actual plays, one at a time, in the order they are run: the invented or exaggerated hazard that turns a service call into a rewire, the quote that balloons the moment the work starts, the problems that get discovered halfway through when your walls are already open, the panel upgrade you did not need, the operator who knocked on your door after the storm, and the discount that expires at the end of the visit. For each one you get the tell, the thing the con needs from you, and the move that takes it away. And because the hardest version of this is the one where the hazard is genuine, the article ends every play the same place: with the two moves that work whether the diagnosis is honest or invented, which is a written diagnosis and a second opinion.
 

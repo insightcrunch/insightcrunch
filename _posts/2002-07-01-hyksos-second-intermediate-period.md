@@ -6,17 +6,17 @@ date: 2002-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hyksos", "Second Intermediate Period", "Ancient Egypt", "Pharaohs", "Warfare"]
 excerpt: "The Hyksos ruled Egypt's Delta from Avaris while Thebes and Kush held the rest. A guide to the Second Intermediate Period and to why it made Egypt an empire."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2002-07-01
+lang: en
 ---
-
 For roughly a century, the throne of Lower Egypt was occupied by kings whose fathers had names no scribe of the Twelfth Dynasty would have recognized. The Second Intermediate Period, running circa 1650 to 1550 BCE, is the stretch of Egyptian history in which a dynasty of West Asian origin, remembered by the Egyptian phrase that gives us the word Hyksos, ruled the eastern Delta from a city called Avaris while a rival Egyptian line held the south from Thebes and an African kingdom centered on Kerma held Nubia. Egyptian tradition treated the episode as a wound. Modern scholarship treats it as the most consequential hundred years in the country's long middle, because the state that emerged from it was not the inward-facing kingdom that went into it. It was an empire.
 
 That distinction is the whole argument of this guide. A reader who leaves knowing only that foreigners once ruled the Delta and were eventually thrown out has learned the least interesting part. The interesting part is causal: a kingdom that had spent seven centuries defining itself as the world entire, bounded by deserts and defended by fortresses it built to keep the outside out, spent one century sharing the Nile with two rivals and discovered that the outside could not be kept out. The generation that ended the division did not restore the old arrangement. It went north and east and south with chariots and a standing army and built the first Egyptian empire in the sense the word properly carries. The Second Intermediate Period is where the pivot happens, and understanding the pivot means understanding what the era actually contained rather than what the propaganda of the victors said it contained.
 
-![The Hyksos and the Second Intermediate Period of Egypt, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Hyksos and the Second Intermediate Period of Egypt, explained - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The obstacle to understanding is that almost every ancient account of this period was written by people with an interest in making it look like a catastrophe. The Eighteenth Dynasty kings who expelled the Hyksos owed their legitimacy to the expulsion, so their inscriptions describe a land defiled and a restoration achieved. Manetho, the Ptolemaic-era priest whose dynastic scheme still organizes the way Egyptologists count Egyptian dynasties, wrote more than a thousand years after the events and preserved a version, transmitted to us at second hand through the Jewish historian Josephus, in which a savage race from the east descended on a defenseless country, burned the cities, and razed the temples of the gods. That story has enormous narrative appeal and very little archaeological support. The spade at Avaris has produced a trading city, not a burned one, and a dynasty that wrote its names in hieroglyphs, took Egyptian royal titles, patronized an Egyptian god, and copied Egyptian mathematical textbooks.
 

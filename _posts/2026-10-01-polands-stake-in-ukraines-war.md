@@ -6,17 +6,17 @@ date: 2026-10-01
 categories: ["Industry"]
 tags: ["Poland Security", "Ukraine", "European Security", "Defense Policy", "Geopolitics", "Eastern Flank"]
 excerpt: "Poland's stake in Ukraine's war is a security investment, not charity. A structured anatomy of the four components driving Polish policy and what shifts them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2026-10-01
+lang: en
 ---
-
 Poland's stake in Ukraine's war is routinely misread in both directions, and the misreadings matter because they lead to bad predictions about what Warsaw will do next. One reading treats Polish support as an act of solidarity, generous and admirable and therefore, by implication, revocable the moment generosity runs out. The other treats it as thin, transactional, and already fraying, a posture kept up for allied consumption while domestic friction eats away underneath. Both readings share a hidden assumption: that the stake is something Poland chose and could unchoose. The assumption is wrong. Geography chose most of it. What Warsaw has chosen is how to respond to a stake that was already there, and that distinction is the whole analytical problem.
 
 This article takes the stake apart. Not the sentiment around it, not the diplomacy of it, but the actual structure of Polish interest in the outcome of a war fought on the other side of a shared border. The claim it defends is that Poland's support for Ukraine is best understood as a security investment priced against the cost of the war it displaces, and that once the stake is scored component by component, Polish behavior stops looking like altruism or like reluctance and starts looking like what it is: a state acting on interests that are legible, durable, and largely independent of who happens to be in government.
 
-![Poland's stake in Ukraine's war, a domestic and political analysis of Polish interests - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Poland's stake in Ukraine's war, a domestic and political analysis of Polish interests - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The series pillar on what the Ukraine war reveals about Polish risk sits upstream of this piece; readers who want the bellwether judgment on what Ukraine's course says about Poland's own exposure should start with [what Ukraine tells us about Poland's risk](/2026/09/01/what-ukraine-tells-us-about-poland/) and return here for the interests layer that explains why Warsaw behaves as it does. This article does not re-argue the domino question, and it does not price the aid. It answers a narrower and more useful question: what, precisely, does Poland have riding on this outcome, and how strongly does each part of that stake drive policy?
 

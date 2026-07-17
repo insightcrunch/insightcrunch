@@ -6,15 +6,15 @@ date: 2027-05-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "1920s Fashion", "F. Scott Fitzgerald", "Context", "Close Reading", "American Literature"]
 excerpt: "Fashion and style of the Gatsby era as a class language: how 1920s dress, the bob, and Gatsby's pink suit place every character on the novel's class map."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-05-17
+lang: en
 ---
-
 Tom Buchanan needs four words to destroy a man. Standing in a hotel room at the Plaza in chapter seven, told that his wife's lover attended Oxford, he answers: "He wears a pink suit." That is the whole argument. No counter-evidence, no investigation, no appeal to the record. A garment is offered as proof, and in the world of the novel it functions as proof, because the fashion and style of the Gatsby era carried information that a certain kind of American read the way a customs officer reads a passport. Tom is not commenting on taste. He is performing a class reading, out loud, and he expects the room to follow him. Jordan pushes back once and lets it go. Nick does not contest it. The line lands because everyone present already knows the code.
 
-![The fashion and style of the Gatsby era explained through 1920s dress and class - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The fashion and style of the Gatsby era explained through 1920s dress and class - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 This is what the historical frame buys you. Read without it, the novel's clothes look like scenery, a shimmer of white and gold that critics gesture at when they want to say the book is beautiful. Read with it, the same details resolve into a working system of social intelligence, and Fitzgerald turns out to have been unusually precise about what his characters put on their bodies. He gives Tom riding boots he strains at the lacing. He gives Daisy and Jordan white dresses and then tells you exactly how those dresses behave in a breeze. He gives Myrtle three complete changes of costume inside a single afternoon and tracks how her personality reorganizes itself around each one. He gives Gatsby a wardrobe stocked twice a year by a man in England and, at the end, a suit so pink it glows under the moon. None of this is decoration. It is the novel doing sociology at the level of the fiber, and the reason it works is that the decade it describes had built, in the space of a few years, a genuinely new visual language of status, modernity, and self-invention.
 

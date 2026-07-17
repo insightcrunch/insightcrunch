@@ -6,17 +6,17 @@ date: 2026-10-21
 categories: ["Industry"]
 tags: ["Poland Security", "Ukraine", "Russia", "Eastern Flank", "Deterrence", "Geopolitics"]
 excerpt: "A Ukraine ceasefire would cut Poland's immediate spillover risk and could raise its medium-term exposure. A two-sided ledger of what a pause really moves."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2026-10-21
+lang: en
 ---
-
 A Ukraine ceasefire is the one plausible near-term event that could move Poland's risk picture sharply in either direction, and serious people who agree on almost everything else about Russia disagree about which direction it moves. That disagreement is not a failure of analysis. It is the honest product of a question where the same event pushes several risk drivers at once, some down and some up, on different clocks. A reader who has already decided the answer before working through the ledger has not reasoned; they have picked a side.
 
 The decision this article addresses is not whether a pause in the fighting is desirable in itself. That question belongs to Ukrainians, who pay for it, and to the governments negotiating on their behalf. The narrower and more tractable question is analytical: if active hostilities in Ukraine stopped, would the danger to Poland go up or down, and what would decide it? That question has a defensible answer, and the answer is not a slogan in either direction.
 
-![A Ukraine ceasefire and Poland's risk, a two-sided decision analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Ukraine ceasefire and Poland's risk, a two-sided decision analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 Two camps have formed, and both contain serious analysts. The de-escalation school holds that less war means less danger, that the most likely path to a Poland-Russia clash runs through an accident on a live front near the border, and that removing the live front removes the accident. The reconstitution-window school holds that a pause is a resource-liberating event, that it liberates resources asymmetrically in favor of the side with a mobilized war economy, and that a Russia not consuming its combat power in Ukraine is a Russia accumulating it somewhere. Both schools are reasoning correctly from real drivers. They are weighting different clocks.
 

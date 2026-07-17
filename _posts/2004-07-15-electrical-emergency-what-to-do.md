@@ -6,17 +6,17 @@ date: 2004-07-15
 categories: ["Industry"]
 tags: ["Home Services", "Electrical", "Emergency", "Warning Signs", "Consumer Protection"]
 excerpt: "In an electrical emergency, kill the power and keep your hands off the live source. Here is the exact order of moves and who to call, before it spreads."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2004-07-15
+lang: en
 ---
-
 Stop reading in a moment and go do this first: if something in your home is sparking, smoking, buzzing, burning, or shocking anyone, get every person away from it and cut the power at the breaker panel if you can reach the panel without walking through water, smoke, or the hazard itself. That is the whole opening move of an electrical emergency, and it is the one most people skip because their instinct is to look closer, to touch the thing, to pull the plug, to help the person who is being shocked. Every one of those instincts is the wrong one, and in this trade the wrong instinct is the one that kills.
 
 Electricity does not give you the warning window that a leak or a slow furnace failure gives you. A dripping pipe ruins a floor over a weekend. A failing air conditioner makes you sweat for a day. A live fault behind a wall can start a fire in the time it takes to find your phone, and a person in contact with an energized source can be locked to it, unable to let go, unable to shout, in the seconds it takes you to decide whether to grab their arm. So this article is built in the order a frightened person needs it, not in the order a textbook would use: safety first, power off, hands off, then assess, then call the right party, then protect your wallet once the danger is handled.
 
-![Electrical emergency steps, how to shut off power and get help safely - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Electrical emergency steps, how to shut off power and get help safely - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 Here is the promise. By the end of this you will know the two moves that keep people alive, where your shutoff is and how to use it, which situations mean call the utility instead of an electrician, which mean get out of the building and call the fire department, which mean call an electrician tonight at the after-hours rate, and which mean flip a breaker back on and sleep, then book a normal appointment in the morning. You will also know what to have ready before the pro arrives so the visit is short, and how not to be talked into a panic-priced job while your hands are still shaking.
 

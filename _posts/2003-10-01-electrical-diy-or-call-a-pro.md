@@ -6,15 +6,15 @@ date: 2003-10-01
 categories: ["Industry"]
 tags: ["Home Services", "Electrical", "DIY", "Warning Signs", "Consumer Protection", "Hiring Guide"]
 excerpt: "DIY electrical work has one hard line: do it only if you can fully de-energize it, it needs no permit, and it never touches the panel or the main service."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2003-10-01
+lang: en
 ---
-
 Most home trades punish a mistake with a mess. DIY electrical work punishes a mistake with a fire, and the fire may not arrive for two years. That is the whole difference, and it is why the honest line between a homeowner job and a licensed job in this trade sits in a different place than it does in plumbing, painting, or carpentry. A loose supply line under a sink announces itself within a day and ruins a cabinet. A loose connection behind a receptacle announces itself never, heats quietly through a thousand cycles, chars the box, and eventually finds something to ignite inside a wall you cannot see.
 
-![What electrical work you can safely DIY and what requires a licensed electrician - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What electrical work you can safely DIY and what requires a licensed electrician - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 That delay is what the weekend videos cannot show you. A video ends when the fixture lights up, and a fixture lighting up proves almost nothing. It proves the hot and the neutral found each other. It does not prove the connection is mechanically sound, that the box is rated for the load hanging on it, that the conductor is the right gauge for the breaker feeding it, that the ground is continuous back to the panel, or that the circuit will still be safe after a decade of thermal cycling. The test that matters is not whether it works today. The test is whether it is still safe when nobody is looking at it.
 

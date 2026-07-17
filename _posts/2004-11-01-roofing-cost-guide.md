@@ -6,17 +6,17 @@ date: 2004-11-01
 categories: ["Industry"]
 tags: ["Home Services", "Roofing", "Cost Guide", "Repair or Replace", "Consumer Protection", "Hiring Guide"]
 excerpt: "A roofing cost guide to per-square pricing, the repair and replacement ranges, the drivers behind every quote, and the rule for judging whether yours is fair."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2004-11-01
+lang: en
 ---
-
 A roofing cost quote is one of the few numbers a homeowner is asked to accept with almost no ability to check it. The work happens twenty feet up, out of sight, on a surface most people have never walked. The materials come in units nobody uses anywhere else in daily life. The person delivering the number often arrived because something already went wrong, which means the homeowner is scared, wet, or both, and scared people sign things. That combination is why roofing produces some of the widest quote spreads in home services: three companies can look at the same house and hand back numbers that differ by a factor of two or three, and the homeowner has no framework for deciding which one is honest.
 
 This guide gives you that framework. Not a fake price chart with a national average that means nothing for your house, because your house is not the average and neither is your market. Instead: the pricing model roofers actually use, the unit they price in and why it matters, the honest gap between a repair and a replacement, the split between what you pay for material and what you pay for the crew, the handful of drivers that explain nearly every dollar of variance between two quotes on the same roof, and the questions that make a padded number fall apart in about ninety seconds. When you finish, you will be able to pick up a quote, find the four things that must be on it, and place it against a defensible band you built yourself from competing bids.
 
-![Roofing cost guide showing per-square pricing for roof repair and replacement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Roofing cost guide showing per-square pricing for roof repair and replacement - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The reason this matters more in roofing than in almost any other trade is the asymmetry of the sale. A roof is not a discretionary purchase you research for six months. It becomes urgent the moment water reaches drywall, and the industry knows it. There is an entire business model built around arriving at your door after a hailstorm, walking your roof unsupervised, and coming down with a verdict that only ever points one direction, which is a full replacement paid by someone else's money. There is a second, quieter business model built around the lump-sum bid: one number on one line, no breakdown, no unit count, take it or leave it. Both models depend on you not having a way to check. The whole point of what follows is to take that dependency away.
 

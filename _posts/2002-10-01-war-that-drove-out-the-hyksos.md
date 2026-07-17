@@ -6,15 +6,15 @@ date: 2002-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hyksos", "Ancient Egypt", "Warfare", "Pharaohs", "New Kingdom"]
 excerpt: "The war that drove the Hyksos from Egypt took three Theban reigns: Seqenenre Tao died in battle, Kamose raided north, and Ahmose I finally captured Avaris."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2002-10-01
+lang: en
 ---
-
 The war that drove the Hyksos from Egypt was not won by a hero on a chariot at the head of a single charge. It was won by three kings of Thebes across roughly a generation of fighting, by a river fleet that turned the Nile into a supply line, by Nubian scouts and archers hired from the southern deserts, and above all by an Egyptian army that had spent decades learning to fight the way its enemy fought. Egypt did not expel the rulers of Avaris by out-mustering them or by rediscovering some native genius for battle. Egypt expelled them by adopting the horse, the light spoked-wheel chariot, the composite bow, the bronze scale corselet, and the curved sickle-sword, and then applying that borrowed kit with a discipline and a river-based logistics system the Hyksos could not match. That is the argument this article defends, and it is the reason the campaign matters far more than its casualty figures ever could.
 
-![The war that drove the Hyksos from Egypt, from Seqenenre Tao to Ahmose I, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The war that drove the Hyksos from Egypt, from Seqenenre Tao to Ahmose I, explained - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The stakes were not merely territorial. From roughly 1650 BCE, the Fifteenth Dynasty ruled the eastern Delta from Avaris while a rump Egyptian kingdom, the Seventeenth Dynasty, held Thebes and the south, and a third power, the Kushite kingdom centered on Kerma, held Lower Nubia and the old Egyptian border forts. Egypt was cut into three. A Theban king could not reach the Mediterranean, could not tax the Delta, could not open a trade route to Byblos without paying somebody, and could not turn his back on either frontier. The fighting that began under Seqenenre Tao and ended under Ahmose I was the process by which one of those three powers ate the other two. What emerged was not the old Middle Kingdom restored. It was a state organized around a standing professional army, a chariot corps, and a permanent forward posture in Asia and Nubia, which is another way of saying that the war of liberation was also the war that built the Egyptian empire.
 

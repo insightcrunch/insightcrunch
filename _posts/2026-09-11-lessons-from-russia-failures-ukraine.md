@@ -6,17 +6,17 @@ date: 2026-09-11
 categories: ["Industry"]
 tags: ["Poland Security", "Russian Military", "Russia", "Military Analysis", "Eastern Flank", "European Security"]
 excerpt: "Lessons from Russia's failures in Ukraine, sorted into structural, corrected, and situational, so a defender knows which weaknesses still hold and which do not."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2026-09-11
+lang: en
 ---
-
 The most consequential question about Russia's failures in Ukraine is not why they happened. That part is comparatively well covered, and the broad shape of it is established in the open record: the opening campaign of the 2022 full-scale invasion faltered on supply, on command, on intelligence, and on the coordination of arms that modern land warfare demands, and the force that had been advertised as reformed and professionalized did not perform as advertised. The harder and more decision-relevant question is the one that follows: which of those failures are still true. A defense planner does not benefit from a catalogue of an adversary's past embarrassments. A planner benefits from knowing which of those embarrassments describe a permanent property of the force and which describe a moment that has since passed.
 
 That distinction is the whole analytical problem, and it is routinely skipped. The failures of the opening campaign became, within weeks, a genre. They were narrated, mocked, and turned into a settled picture of an army that could not do the basic things. The picture was accurate about the campaign it described. It became progressively less accurate about the force as the war continued, because a force under existential pressure does not stay still. Some of what went wrong was fixed, at cost and imperfectly. Some of what went wrong was never fixable, because it grew out of how the institution is built rather than out of what it did on a given morning. And some of what went wrong belonged only to that specific campaign, with its specific assumptions, and would not recur in a different one.
 
-![Lessons from Russia's failures in Ukraine, a capability analysis of which weaknesses are structural, corrected, or situational - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lessons from Russia's failures in Ukraine, a capability analysis of which weaknesses are structural, corrected, or situational - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 This article is an adversary read, not a transfer exercise. It is about what the failures reveal regarding the force itself, held deliberately short of the question of what any of it means for a specific defender's risk. That larger read-across is owned elsewhere in the series, and the discipline of keeping the two apart matters: an assessment that leaps from "Russia bungled the drive on Kyiv" straight to "therefore a NATO frontier state faces a manageable problem" has skipped the step where the failure is dated, weighed, and checked against what the force did afterward. The step that gets skipped is the step that decides whether the conclusion is worth anything.
 

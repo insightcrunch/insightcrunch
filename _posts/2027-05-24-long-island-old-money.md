@@ -6,17 +6,17 @@ date: 2027-05-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Long Island", "East Egg", "F. Scott Fitzgerald", "Context", "American Literature", "Close Reading"]
 excerpt: "The geography of old money on Long Island gave Fitzgerald a real aristocracy to fictionalize as East Egg, and the ground under it decides Gatsby's defeat."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-05-24
+lang: en
 ---
-
 Tom Buchanan never has to explain himself, and the geography of old money on Long Island is the reason why. When Nick Carraway drives across the bay to dinner in the first chapter, he is not crossing a symbolic divide that Fitzgerald invented out of nothing. He is crossing a real one. The peninsula on the far side of that water held, in 1922, a concentration of inherited American wealth so dense and so socially organized that it had its own clubs, its own hunt, its own polo fields, its own directory of acceptable names, and its own quiet machinery for deciding who belonged. Fitzgerald did not have to dream up an aristocracy. He rented a house within sight of one and wrote down what he saw.
 
 That fact changes the novel. If East Egg is invention, then Gatsby's defeat is a fable, a moral arranged by an author who wanted a particular ending. If East Egg is reportage, lightly fictionalized, then Gatsby's defeat is a description of how a specific society on a specific coastline actually worked, and the novel becomes far harder to argue with. This article maps the real ground: the enclaves, the estates, the institutions, the money and where it came from, and the exact stretch of shoreline that Fitzgerald turned into the white palaces across the courtesy bay. By the end you will be able to name what East Egg fictionalizes, show where the fiction departs from the record, and use the geography as evidence in an argument rather than as scenery in an introduction.
 
-![The geography of old money on Long Island and the real Gold Coast behind East Egg in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The geography of old money on Long Island and the real Gold Coast behind East Egg in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 ## The Geography of Old Money on Long Island: What Was Actually There
 

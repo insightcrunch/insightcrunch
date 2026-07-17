@@ -6,17 +6,17 @@ date: 2004-03-15
 categories: ["Industry"]
 tags: ["Home Services", "Electrical", "Consumer Protection", "Hiring Guide", "Warning Signs"]
 excerpt: "Electrical permits protect you at resale and in a claim, not the city. Learn what needs a permit, who pulls it, and your recourse for unpermitted work."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2004-03-15
+lang: en
 ---
-
 When an electrician looks at your job and says he can save you a few hundred dollars by skipping the paperwork, he is not doing you a favor. He is quietly transferring risk off his shoulders and onto yours. Electrical permits are the one part of the transaction that exists purely for your benefit, and they are the first thing a corner-cutting operator suggests removing, because the permit is what forces a stranger with authority to look at his work before it disappears behind your drywall. The offer sounds like a discount. It functions like a waiver.
 
 That single misunderstanding costs homeowners more money than almost any other decision in the electrical trade. Not because the fee is large, but because of what the missing document does years later, when you sell the house and the buyer's agent asks for records, when your insurer investigates a fire and finds a circuit nobody signed off on, when the next electrician opens the panel and refuses to touch a subpanel he cannot vouch for. The savings arrive today. The bill arrives on someone else's schedule.
 
-![Electrical permits and code explained for homeowners, when a permit is required and your rights - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Electrical permits and code explained for homeowners, when a permit is required and your rights - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 This is the layer of the electrical trade that directories, lead-generation sites, and contractor marketing pages never touch, because there is nothing in it for them. Nobody sells a permit. Nobody earns a referral fee on an inspection. So the entire subject gets left to a patchwork of forum arguments, half-remembered advice, and the confident wrong answer from a guy at work who once wired a garage. What follows is the part a consumer advocate would tell you: what the rules actually protect, when they apply, who is supposed to handle them, and exactly what you can do when an operator leaves you holding work that was never authorized and never checked.
 

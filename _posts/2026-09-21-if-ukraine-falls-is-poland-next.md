@@ -6,17 +6,17 @@ date: 2026-09-21
 categories: ["Industry"]
 tags: ["Poland Security", "Ukraine War", "Russia", "NATO", "European Security", "Eastern Flank", "Geopolitics"]
 excerpt: "If Ukraine falls, is Poland next? A conditional scenario testing the domino fear against appetite, capacity, opportunity, and the NATO membership wall."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2026-09-21
+lang: en
 ---
-
 If Ukraine falls, is Poland next? The question arrives in public debate as though it answers itself. A large state loses a war on the edge of the alliance, the victor stands one border closer, and the reflex completes the sentence before the reasoning starts. That reflex is not stupid. It draws on a real intuition about how aggression behaves, and on a Polish historical memory that has earned the right to be nervous. But a reflex is not an assessment, and the distance between them is where the useful work lives. The honest version of the question is not whether a Ukrainian defeat would frighten Poland. Of course it would. The honest version is narrower and harder: what would have to be true, beyond the fact of the defeat itself, for Poland's risk to actually rise, and by how much.
 
 This article walks the domino scenario as a conditional exercise rather than a prediction. It takes the fear seriously enough to test it, which means neither validating it by assertion nor waving it away with the observation that Poland is in the alliance and Ukraine was not. Both of those moves are lazy in opposite directions. The scenario here is strategic logic only. It does not describe how a campaign would be conducted, what would be struck, or in what sequence, because that is not the question a reader needs answered and not a service this series performs. What it does describe is the chain of conditions that separates a Ukrainian collapse from a Polish crisis, where each link in that chain is strong, and where it is weaker than the confident versions on either side admit.
 
-![If Ukraine falls, is Poland next, a conditional scenario analysis of the domino question and the membership wall - Insight Crunch](/assets/images/blog/blog-01.webp)
+![If Ukraine falls, is Poland next, a conditional scenario analysis of the domino question and the membership wall - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The finding, stated up front so the reasoning can be checked against it rather than sprung at the end, is that a Ukrainian defeat changes the map but not the threshold. It moves lines, frees forces, validates a theory of victory, and shortens some distances. What it does not do is convert Poland into the kind of target Ukraine was, because the thing that made Ukraine attackable at a tolerable price was never its geography. It was its position outside the alliance's guarantee. The domino, in other words, runs into a wall that Ukraine never had. That wall is not infinitely strong, and this article spends real effort on the case that it might be tested precisely because a victorious Russia would doubt it. But the wall is the central variable, and any account of the domino question that skips it is answering a different question.
 

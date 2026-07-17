@@ -6,15 +6,15 @@ date: 2027-06-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Jazz Age", "F. Scott Fitzgerald", "Context", "American Literature", "Close Reading"]
 excerpt: "The stock market boom before the crash shadows every party in The Great Gatsby. Read the bubble economy, the paper wealth, and what 1929 does to all of it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-06-14
+lang: en
 ---
-
 You already know how it ends, and Fitzgerald did not. That asymmetry is the whole subject of this article. The stock market boom before the crash is the one piece of context that does something no other historical frame can do to The Great Gatsby: it puts information in your hands that no character possesses and that the author, writing in 1924, did not possess either. When Nick Carraway walks into a Wall Street office and shelves a dozen volumes on banking and credit, he is a young man with a career. When you read that sentence, you are watching a man take a job on a floor that is going to fall out from under him.
 
-![The stock market boom before the crash in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The stock market boom before the crash in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 That is not a small effect, and it is not a decorative one. It changes the temperature of the parties, the meaning of Gatsby's shirts, and the force of Nick's final judgment on the people who retreat back into their money. Most context articles hand you background: here is what a speakeasy was, here is what a flapper wore, here is where the Valley of Ashes stood. This one hands you a countdown. The novel opens in the summer of 1922 and was published in April 1925. The market it lives inside kept climbing for another four and a half years after that publication date, and then, over five days in late October 1929, it did not.
 

@@ -6,15 +6,15 @@ date: 2027-06-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "Literary Criticism", "American Literature"]
 excerpt: "How 1920s readers saw The Great Gatsby: the mixed 1925 reviews, the readers who missed it, the few who saw its quality, and the gap with the modern canon."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-06-21
+lang: en
 ---
-
 The novel you were assigned in school arrived in the world as a minor disappointment. Understanding how 1920s readers saw The Great Gatsby means accepting an uncomfortable fact about literary judgment: the book now taught as the finest short novel in American literature was met in April 1925 by reviewers who found it thin, by a public that bought it slowly, and by an author who concluded that almost nobody had grasped what he had written. The gap between that reception and the stature the book holds today is not a footnote. It is the single best available lesson in how a masterpiece can be invisible to the eyes that see it first.
 
-![How 1920s readers saw The Great Gatsby and the 1925 reception explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How 1920s readers saw The Great Gatsby and the 1925 reception explained - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 That lesson is easy to get wrong in two directions at once. One error turns 1925 into a story of total neglect, a lonely genius shouted down by philistines, which flatters the modern reader and falsifies the record. The reviews were not uniformly hostile. Some were admiring, a few were acute, and one or two saw almost everything. The opposite error is subtler and more common in student essays: it quietly assumes that 1920s readers were looking at the same object we look at, and simply failed to appreciate it. They were not looking at the same object. They were reading a slim book by a famous young writer of flapper stories, published without the eighty years of criticism, canonization, war-era rediscovery, and classroom repetition that now sit between us and the page. The novel they held was a different artifact.
 

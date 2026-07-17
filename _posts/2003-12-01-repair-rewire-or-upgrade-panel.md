@@ -6,17 +6,17 @@ date: 2003-12-01
 categories: ["Industry"]
 tags: ["Home Services", "Electrical", "Repair or Replace", "Buying Guide", "Consumer Protection"]
 excerpt: "An electrical panel decision has one right answer: repair, upgrade, or rewire. Use the capacity-and-safety rule to decide, and spot the unneeded upsell."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2003-12-01
+lang: en
 ---
-
 The electrical panel decision almost never arrives as a decision. It arrives as a sentence from someone standing in your basement with a flashlight, and the sentence is usually some version of "this whole thing needs to be replaced." Maybe you called about a breaker that keeps tripping. Maybe you asked what it would take to run a circuit to the garage. Maybe an inspector wrote a line on a report before closing. However you got here, you are now holding a quote for a job you did not go looking for, and you have no way to tell whether the person who wrote it is protecting you or selling you.
 
 That is the actual problem, and it is why this article exists. The question is not "is a panel upgrade good?" Of course an upgrade is good, in the same way a new roof is good. The question is whether your situation contains a real capacity limit or a real safety hazard, because those are the only two things that turn a nice-to-have into a must-do. Everything else is a preference with a price tag.
 
-![Repair, rewire or upgrade your electrical panel, a homeowner's decision framework - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Repair, rewire or upgrade your electrical panel, a homeowner's decision framework - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 There are three genuinely different jobs hiding inside the phrase "your panel needs work," and most of the confusion in this decision comes from people using them interchangeably. Repairing the box means fixing or replacing something inside it while the box itself stays. Upgrading means replacing the box and its main disconnect, usually to raise the service capacity or to retire equipment that cannot be safely maintained. Rewiring means replacing the branch circuits that run through your walls to your outlets and fixtures, which is a different job in a different part of the house entirely. These three cost differently, take different amounts of time, solve different problems, and are triggered by different evidence. A contractor who blurs them is either careless or counting on you not to notice.
 

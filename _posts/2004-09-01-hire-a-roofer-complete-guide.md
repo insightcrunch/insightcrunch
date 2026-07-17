@@ -6,17 +6,17 @@ date: 2004-09-01
 categories: ["Industry"]
 tags: ["Home Services", "Roofing", "Hiring Guide", "Consumer Protection", "Repair or Replace", "Warning Signs"]
 excerpt: "Learn how to hire a roofer with confidence: what roofers cover, why insurance and inspection decide the hire, and how the money and the job really work."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2004-09-01
+lang: en
 ---
-
 The moment you decide to hire a roofer, you are making the largest single-trade purchase most homes ever see, and you are usually making it under pressure: a stain is spreading across the ceiling, a wind event stripped shingles off the ridge, or an inspector on a home sale flagged the roof as near the end of its life. That pressure is the whole problem. Roofing is the one residential trade where the customer is most often scared, most often in a hurry, most often dealing with an insurance company at the same time, and least able to verify the work, because the product is bolted to a surface you cannot see and would not be safe standing on. Every bad outcome in this trade traces back to those four conditions stacking up at once.
 
 This guide is the hub for the whole roofing decision. It does not try to be the cost calculator, the material comparison, or the storm-scam playbook, because each of those gets its own dedicated treatment further down the cluster. What it does is hand you the working model: what a roofer actually covers, why roofing is regulated and insured differently from every other trade in your house, how the money and the process are shaped, where the real decisions sit, and what to have in your hand before the first truck pulls into the driveway. Read this once and the specialist articles stop being homework and start being lookups.
 
-![How to hire a roofer and run the whole decision, a homeowner's complete guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to hire a roofer and run the whole decision, a homeowner's complete guide - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 Here is the single idea that organizes everything below, and the one worth carrying into every conversation you have with a roofing company. Call it the insured-and-inspected rule: a legitimate roofer carries both general liability and workers-compensation coverage, and starts the relationship with a real inspection before quoting a number. A roofer who cannot produce proof of coverage, or who hands you a replacement price without getting on the roof, has already told you how the job is going to end. Those two checks take less effort than reading a review page, they cost nothing, and between them they filter out the overwhelming majority of the operators who cause homeowners real financial damage. Everything else in the hire is refinement.
 

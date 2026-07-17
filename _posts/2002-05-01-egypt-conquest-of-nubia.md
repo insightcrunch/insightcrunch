@@ -6,17 +6,17 @@ date: 2002-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Middle Kingdom", "Nubia", "Kush", "Warfare", "Ancient Egypt"]
 excerpt: "How Egypt conquered and held Nubia: the Middle Kingdom fortress chain, the Semna frontier, the gold road that paid for it, and the rival kingdom of Kush."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2002-05-01
+lang: en
 ---
-
 Egypt's conquest of Nubia was not an accident of ambition and it was not a crusade. It was a business decision enforced with axes and boats. Over roughly two centuries, the kings of the Twelfth Dynasty pushed the southern boundary of the Egyptian state from the first cataract at Aswan to a granite gorge some 250 miles upstream, and along that stretch of river they raised a chain of mudbrick fortresses so heavy, so deliberately engineered, and so expensive to garrison that nothing else the Middle Kingdom built matches them for sheer sustained investment. They did it for gold, for hard stone, for ivory and ebony and cattle and incense, and above all for control of who moved along the river and what moved with them. The pyramids of the same dynasty were smaller than their Old Kingdom ancestors and cored with mudbrick. The forts were not scaled down at all. That imbalance is the clue to the whole story.
 
 The central argument of this article is what will be called here the gold-frontier thesis: Egypt's Nubian policy was driven above all by controlling the flow of gold and trade, and the fortress line was an economic instrument at least as much as a military one. Read the forts as a border wall against invasion and almost everything about them looks strange, from their placement to their storage capacity to the paperwork their commanders generated. Read them as a customs and licensing system with battlements, and they resolve into a coherent, ruthless, and rather modern-looking piece of state design.
 
-![How Egypt conquered and held Nubia with Middle Kingdom fortresses and the Semna frontier, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Egypt conquered and held Nubia with Middle Kingdom fortresses and the Semna frontier, explained - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 What follows sets out the ground the war was fought over, the long Egyptian habit of going south that preceded the conquest, the economic logic that made the conquest worth its cost, the army that carried it out and the sharp limits on what that army could do, the campaigns in sequence from Mentuhotep II to Senusret III, the fortresses themselves and how they were engineered, the frontier at Semna and the permit regime it enforced, the daily texture of garrison life recovered from patrol reports, the licensed trade the forts existed to tax, the Nubian kingdom of Kush centered on Kerma that Egypt never conquered at all, the myths of Egyptian invincibility that the evidence dismantles, and the reversal in which the whole system was lost. The reader should finish able to explain why Egypt went south, how it held what it took, what it extracted, and why the entire apparatus collapsed inside a generation or two once Egypt itself weakened.
 

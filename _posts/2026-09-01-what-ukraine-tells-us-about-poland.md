@@ -6,15 +6,15 @@ date: 2026-09-01
 categories: ["Industry"]
 tags: ["Poland Security", "Ukraine", "Russia", "NATO", "European Security", "Military Analysis"]
 excerpt: "What Ukraine tells us about Poland's risk depends on which war lessons transfer and which mislead, and the alliance membership test decides every one of them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2026-09-01
+lang: en
 ---
-
 Almost every serious conversation about Polish security eventually reaches for the same reference point, and almost every one of them handles it badly. What Ukraine tells us about Poland's risk is the single most invoked argument in the debate and the single least disciplined, because the war is used as a template rather than as evidence. The template user stamps the shape of one conflict onto a different country and calls the result an assessment. The evidence user does something harder and more useful: treats the war as the closest available laboratory for a set of questions that cannot be tested any other way, then tests each observation against the variables that separate the two cases before carrying anything across.
 
-![What Ukraine Tells Us About Poland's Risk, a structured read-across assessment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What Ukraine Tells Us About Poland's Risk, a structured read-across assessment - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The distinction sounds academic. It is the whole argument. A template says Ukraine was invaded, Poland borders the same adversary, therefore Poland is next in line. Evidence says the war has generated an enormous amount of observable information about how Russian forces plan, move, fail, adapt, and sustain themselves, about how a defender's society behaves under fire, about how warning worked and did not work, and about how the international response actually materialized rather than how it was predicted to. Some of that information travels to the Polish case almost unchanged. Some of it travels only with heavy qualification. Some of it does not travel at all, because the variable that most distinguishes Ukraine from Poland breaks the mechanism the lesson depends on.
 

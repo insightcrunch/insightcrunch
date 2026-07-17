@@ -6,17 +6,17 @@ date: 2002-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ahmose I", "New Kingdom", "Pharaohs", "Ancient Egypt", "Warfare"]
 excerpt: "Ahmose I captured Avaris, expelled the Hyksos, and reunified Egypt to found the New Kingdom. His path to power, his campaigns, his family, and the verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2002-11-01
+lang: en
 ---
-
 Ahmose I is the king who turned a Theban war of survival into an imperial state, and that sentence contains the whole difficulty of judging him. Egyptologists have never disagreed much about what he did. The disagreement is about what kind of achievement it was. One reading makes him the last general of a long Theban insurgency, a competent finisher who cleared the Delta of a foreign dynasty his father and brother had already broken. Another makes him the deliberate architect of a new kind of Egyptian kingship, a ruler who understood that expelling an enemy and founding an empire are not the same project and who did the second one on purpose. The evidence supports a version of both, and the honest answer sits in the space between them.
 
 That space is where this article lives. What follows separates the documented reign of Ahmose I from the cult that grew around him afterward, traces the concrete acts through which a liberation war became a dynastic foundation, and states plainly where the record runs thin. The reader should finish able to date the reign in conventional terms, name the sources that carry it, explain why the Eighteenth Dynasty starts with this king rather than with his brother, and argue a defensible position on how much credit he personally deserves.
 
-![Ahmose I, founder of the New Kingdom of Egypt, his reign and reunification explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ahmose I, founder of the New Kingdom of Egypt, his reign and reunification explained - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 ## Who Ahmose I Was and Why He Sits at a Threshold
 

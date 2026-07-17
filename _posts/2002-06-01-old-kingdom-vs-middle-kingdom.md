@@ -6,17 +6,17 @@ date: 2002-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Old Kingdom", "Middle Kingdom", "Ancient Egypt", "Pharaohs", "Historiography"]
 excerpt: "Old Kingdom vs Middle Kingdom Egypt, compared across kingship, pyramids, literature, art, and religion, with a defended verdict on which age was greater."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2002-06-01
+lang: en
 ---
-
 Ask which age of ancient Egypt was the greater and most people answer before the question has finished. The Old Kingdom built Giza. Case closed. That reflex is exactly why the Old Kingdom vs Middle Kingdom question deserves a serious hearing, because the reflex measures a civilization by one criterion, the mass of quarried stone it could stack in one place, and then declares a winner. Egyptologists have never been so quick. The specialists who spend their working lives inside the sources are genuinely split, and the split has nothing to do with which pharaoh anyone finds more likable. It is a disagreement about what greatness in a civilization consists of, and it is one of the few ranking debates in Egyptology where both sides are holding real evidence.
 
 On one side stand what might be called the pyramid-age partisans. Their case is not naive. Between roughly 2600 and 2500 BCE, a state with no iron, no pulley, no wheel in construction use, and no coinage organized labor, food, quarrying, transport, and administration on a scale that would not be matched in the Mediterranean world for two thousand years. The three great pyramids at Giza are the argument. So is the fact that Egypt never built like that again, not in the Twelfth Dynasty, not under Ramesses II, not under the Ptolemies. If a civilization is measured by its ceiling, the Fourth Dynasty set Egypt's ceiling and everything afterward is a footnote to it.
 
-![Old Kingdom vs Middle Kingdom Egypt compared across kingship, monuments, literature, and religion - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Old Kingdom vs Middle Kingdom Egypt compared across kingship, monuments, literature, and religion - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 On the other side stand the classicists, and their case is quieter but harder to dismiss once you notice it. When an Egyptologist learns to read the language of ancient Egypt, they learn Middle Egyptian first, because Middle Egyptian is the classical stage that Egypt itself canonized, taught in scribal schools for a thousand years after the Twelfth Dynasty ended and still being carved on temple walls when Roman prefects governed the Nile. Every story that Egypt produced worth calling literature in the Western sense, Sinuhe, the Shipwrecked Sailor, the Eloquent Peasant, the man arguing with his own soul about whether life is worth continuing, was composed in that stage of the language or copied in it. The Middle Kingdom also broke the afterlife open beyond the royal family, held Nubia with a permanent chain of garrisons rather than raiding it, systematized art with a proportional grid that every later period inherited, and produced a royal portrait so psychologically strange that it has no parallel anywhere in the ancient world. If a civilization is measured by what it hands forward, the Middle Kingdom is the age Egypt chose to be remembered by.
 

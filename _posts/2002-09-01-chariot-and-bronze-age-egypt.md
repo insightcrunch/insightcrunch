@@ -6,17 +6,17 @@ date: 2002-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hyksos", "Bronze Age", "Ancient Egypt", "Warfare", "World History"]
 excerpt: "The chariot reached Bronze Age Egypt as a foreign import, arriving with bronze, the composite bow, and the craft skills that remade Egyptian workshops."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2002-09-01
+lang: en
 ---
-
 Somewhere in the eastern Delta, in the century or so on either side of 1600 BCE, an Egyptian carpenter learned to bend a length of imported elm into a curve, hold it there while a glue made from boiled hide set, and join six such curves into a wheel that would carry a fighting man at a gallop. That single skill, unremarkable to look at and hard beyond description to master, is the best short summary of what the chariot did to Bronze Age Egypt. It did not arrive as a finished object to be admired. It arrived as a problem set: a demand for woods Egypt did not grow, glues Egypt had not needed, joinery Egypt had never attempted, an animal Egypt had barely seen, a metal alloy Egypt used only occasionally, and a class of specialist worker Egypt did not yet employ. Solving that problem set changed Egyptian craft more thoroughly than any single monument ever did.
 
 The story is usually told the other way around, as a military anecdote. Foreigners came, they had chariots, Egypt lost, Egypt copied them, Egypt won. That version is not exactly false, but it treats a technology as a trophy rather than as a system, and it skips the part that actually explains the New Kingdom. The chariot was the visible tip of a much larger transfer: tin-bronze metallurgy at scale, the composite bow, the horse and everything the horse demanded, the vertical loom, new herds, new orchards, new instruments, and above all a habit of importing raw material and expertise from the north. What follows is that transfer taken seriously as technology and craft rather than as a battle report. The fighting that resulted, and the empire it built, are handled by the articles this one links to; the machine, the metal, and the workshop are handled here.
 
-![The chariot and Bronze Age Egypt, the technology transfer explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The chariot and Bronze Age Egypt, the technology transfer explained - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 ## The Chariot That Reached Egypt Was a Machine, Not a Cart
 

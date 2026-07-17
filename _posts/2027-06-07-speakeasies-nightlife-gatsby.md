@@ -6,15 +6,15 @@ date: 2027-06-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Speakeasies", "Prohibition", "F. Scott Fitzgerald", "Context", "American Literature"]
 excerpt: "Speakeasies and nightlife in Gatsby explain the era's illegal drinking, from Wolfshiem's cellar to the mansion's brass rail bar, and recast revelry as crime."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-06-07
+lang: en
 ---
-
 Every drink taken in The Great Gatsby is a crime. Not a metaphorical crime, not a moral lapse dressed up as one, but an actual violation of federal law in force across the entire summer the novel describes. Speakeasies and nightlife in Gatsby are not decorative background to the story of a man and a green light; they are the legal condition of almost every social scene the book contains. The cocktails floating through the garden, the whisky in the locked bureau, the gin poured for guests who never met their host, the cellar restaurant where Nick eats lunch with a gambler: all of it sits on the far side of a statute. A reader who does not know this reads the parties as excess. A reader who does know it reads them as organized defiance, glamorous precisely because it is illegal, and that shift changes what Fitzgerald's revelry means.
 
-![Speakeasies and nightlife in The Great Gatsby explained through Prohibition drinking culture - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Speakeasies and nightlife in The Great Gatsby explained through Prohibition drinking culture - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The gap between those two readings is the whole value of this article. Readers who come to the novel from a century away carry a default assumption that people at a party drink, that a bar in a mansion hall is a sign of money rather than a sign of nerve, and that a lunch appointment in a basement off Forty-second Street is just a lunch appointment. Fitzgerald's first audience carried no such assumption. They opened the book in 1925, five years into national Prohibition, and every one of those details landed as a signal. The bar meant a supply chain. The basement meant a door with a judgment on the other side of it. The gambler across the table meant the industry that filled the bar. Recovering that first reading is not antiquarian fussiness. It is the difference between watching a party and watching a system.
 
