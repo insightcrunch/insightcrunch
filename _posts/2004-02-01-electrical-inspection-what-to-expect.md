@@ -9,7 +9,7 @@ excerpt: "An electrical inspection checks grounding, bonding, the panel, and cir
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 68
 author: "benjamin-scott"
-last_updated: 2004-02-01
+last_updated: 2026-07-17
 lang: en
 ---
 A competent electrical inspection looks almost boring from the outside. Someone shows up, walks to the panel, opens the cover, looks for a while, follows a few circuits back through the house, pulls a cover plate or two, writes something down, and leaves. Twenty minutes to an hour, no drama. That calm is the point. The inspector is not there to be impressed by the work or to negotiate with the person who did it. The inspector is there to compare what exists against what the adopted code requires, and to record the answer in a way that follows the property for as long as anyone cares to look it up.

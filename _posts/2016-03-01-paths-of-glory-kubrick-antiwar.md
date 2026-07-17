@@ -9,7 +9,7 @@ excerpt: "Paths of Glory locates the atrocity of war not in the trench but in th
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2016-03-01
+last_updated: 2026-07-17
 lang: en
 ---
 Most films that set out to oppose war begin with the body. They put the camera in the mud, follow a frightened young man over the parapet, and let the audience flinch alongside him until the suffering of the soldier becomes the whole of the indictment. Paths of Glory (1957) refuses that route almost entirely. Stanley Kubrick's third feature, made when he was twenty-eight, builds its case against war not by lingering on the wound but by tracking, again and again, into the gleaming rooms where the wound is ordered. The most damning image in the film is not a corpse on the wire. It is a general lifting a glass in a marble hall, far from the front, deciding how many of his own men he can afford to lose to buy himself a promotion. The horror, in this film, lives in the chateau.

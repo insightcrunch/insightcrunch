@@ -5,11 +5,11 @@ page_title: "The Protestant Reformation Explained: Why Luther's 1517 Moment Capp
 date: 2015-08-13
 categories: ["Leisure"]
 tags: ["protestant-reformation", "martin-luther", "religious-history", "sixteenth-century", "european-history", "medieval-history"]
-excerpt: "The Protestant Reformation did not begin in 1517. It began a full century earlier with Wycliffe and Hus, and Luther was its conjuncture, not its origin."
+excerpt: "Decode the Reformation as the religious revolution that fractured Western Christianity and remade European politics."
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2015-08-13
+last_updated: 2026-07-17
 lang: en
 ---
 The Protestant Reformation was the sixteenth-century movement that split Western Christianity into Catholic and Protestant churches and reorganized the political map of Europe. It is conventionally dated to October 31, 1517, when an Augustinian friar named Martin Luther circulated ninety-five propositions attacking the sale of indulgences in the Saxon town of Wittenberg. That date is a convenience, not a cause. The argument of this article is that Luther did not start the Reformation. Luther was the moment the Reformation finally succeeded, and the difference between starting something and succeeding at it is the whole story.

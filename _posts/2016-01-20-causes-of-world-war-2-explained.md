@@ -9,7 +9,7 @@ excerpt: "WWII had multiple particular causes: Hitler's aggression, appeasement 
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2016-01-20
+last_updated: 2026-07-17
 lang: en
 ---
 World War II did not have a single cause. The deadliest conflict in human history emerged from four distinct conflict-paths that operated across the 1930s before converging into global war between September 1939 and December 1941. Hitler's ideological expansionism drove the European path. Mussolini's Mediterranean ambitions drove the Italian path. Japan's imperial expansion across East Asia drove the Pacific path. Stalin's defensive opportunism shaped the Eastern European dimension. Reducing these four paths to a single explanation, whether Versailles, Hitler, or appeasement, misses the multi-actor, multi-theater structure that produced the catastrophe.

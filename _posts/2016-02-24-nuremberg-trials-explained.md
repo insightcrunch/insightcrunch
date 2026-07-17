@@ -3,7 +3,7 @@ layout: post
 title: "The Nuremberg Trials Explained"
 page_title: "The Nuremberg Trials Explained: Why the 1945-1946 Proceedings Reshaped International Law"
 date: 2016-02-24
-last_updated: 2016-02-24
+last_updated: 2026-07-17
 author: "diana-patel"
 categories: ["Leisure"]
 tags: ["nuremberg-trials", "international-law", "war-crimes", "crimes-against-humanity", "1945-1946", "modern-history"]

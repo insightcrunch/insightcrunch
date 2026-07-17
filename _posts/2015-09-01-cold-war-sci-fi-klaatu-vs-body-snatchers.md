@@ -9,7 +9,7 @@ excerpt: "The Day the Earth Stood Still and Invasion of the Body Snatchers turne
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2015-09-01
+last_updated: 2026-07-17
 lang: en
 ---
 Put two films from the same anxious decade side by side and a hidden argument surfaces. The Day the Earth Stood Still, directed by Robert Wise in 1951, asks the people of Earth to lay down their weapons or be erased by a power they cannot resist. Invasion of the Body Snatchers, directed by Don Siegel in 1956, asks something colder and harder to answer: how would you know if the person beside you had already been replaced? One film looks up at the sky and finds a stern visitor with a sermon. The other looks across the breakfast table and finds a stranger wearing a familiar face. Set them on a single bill, as this comparison does, and the 1950s stop being a decade of cheap monsters and start being a decade dreaming its terror out loud.

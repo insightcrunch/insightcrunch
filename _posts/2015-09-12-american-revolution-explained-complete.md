@@ -5,11 +5,11 @@ page_title: "The American Revolution Explained: Why It Was a Multi-Ethnic Civil 
 date: 2015-09-12
 categories: ["Leisure"]
 tags: ["american-revolution", "declaration-of-independence", "american-founding", "colonial-america", "revolutionary-war", "medieval-history"]
-excerpt: "The American Revolution was a colonial elite's break with Britain, a popular Whig mobilization, and the strategic choices of enslaved and indigenous people."
+excerpt: "Decode the American Revolution as the colonial uprising that became the first modern republic to last."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2015-09-12
+last_updated: 2026-07-17
 lang: en
 ---
 In the summer of 1776, roughly two and a half million people lived in Britain's thirteen North American colonies, and they did not agree about very much. Some wanted independence and were willing to fight for it. Others wanted reconciliation with London and considered the independence party reckless. Five hundred thousand of those people were enslaved, and they wanted freedom on whatever terms freedom could be had, from whichever side offered it. Tens of thousands more belonged to indigenous nations who watched the quarrel between Britain and its settlers with entirely justified alarm. The American Revolution is usually told as the story of a single people throwing off tyranny. A harder and more accurate story holds that it was a civil war fought across a continent by populations whose interests rarely aligned, and grasping that version is the only way to explain both what the Revolution achieved and what it deliberately left unresolved.

@@ -9,7 +9,7 @@ excerpt: "Rebel Without a Cause located teenage despair not in poverty but in th
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2015-12-15
+last_updated: 2026-07-17
 lang: en
 ---
 ## How Rebel Without a Cause Gave Teenage Alienation Its Face

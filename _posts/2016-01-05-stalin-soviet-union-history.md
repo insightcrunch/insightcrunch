@@ -10,7 +10,7 @@ excerpt: "Stalin's 1929-1953 rule killed approximately 20-25 million via deliber
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2016-01-05
+last_updated: 2026-07-17
 lang: en
 ---
 Iosif Vissarionovich Dzhugashvili, known to posterity as Joseph Stalin, ruled the Soviet Union from 1929 to 1953 and produced approximately 20-25 million deaths through deliberate policy decisions, including the 1932-1933 Ukrainian famine, the Great Terror of 1936-1938, wartime civilian casualties attributable to his command choices, and postwar purges. His rule simultaneously transformed the Soviet Union from a predominantly agricultural state into an industrial-military superpower capable of defeating Nazi Germany and projecting global power for the remainder of the twentieth century. The post-1991 opening of Russian archives has fundamentally reshaped how scholars understand both the scale of the dictator's killing and the mechanisms by which these decisions operated within the Soviet state apparatus.

@@ -9,7 +9,7 @@ excerpt: "WWI collapsed four empires, ended European global dominance, created t
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 83
 author: "chloe-martin"
-last_updated: 2015-12-16
+last_updated: 2026-07-17
 lang: en
 ---
 The First World War did not simply end in November 1918. It restructured the planet. Four multinational empires that had ruled most of Eurasia for centuries dissolved within five years of the armistice. A continent that had organized global trade, finance, science, and politics for two centuries discovered it now owed money to a former colony across the Atlantic. The Middle Eastern state borders that diplomats and oil companies still negotiate around today were drawn on French and British staff maps between 1916 and 1923, often by officials who had never visited the territories they were dividing. Marxism leaped from a German philosopher's library into actual state power for the first time, producing a system that would dominate one third of human civilization by the late 1940s.

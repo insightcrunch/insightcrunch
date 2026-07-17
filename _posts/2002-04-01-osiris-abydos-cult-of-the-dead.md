@@ -9,7 +9,7 @@ excerpt: "Osiris, Abydos, and the cult of the dead explained: the resurrection m
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2002-04-01
+last_updated: 2026-07-17
 lang: en
 ---
 For most of the third millennium BCE, a full and equipped eternity belonged to one man. The king climbed to the sky, joined the circumpolar stars or sailed with the sun god, and the wealth of the whole state raised the stone machine that carried him there. Ordinary Egyptians were buried with care, but the elaborate written afterlife, the one guaranteed by ritual and spell, was a royal possession. By the Middle Kingdom that monopoly had broken open. The god at the center of the change was Osiris, a murdered ruler who became lord of the dead, and the place that became the beating heart of his cult of the dead was Abydos, a modest site in the south of Egypt that pilgrims turned into the most sacred funerary ground in the country.

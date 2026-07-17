@@ -9,7 +9,7 @@ excerpt: "In Gilda, Rita Hayworth built the definitive femme fatale and quietly 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2015-05-01
+last_updated: 2026-07-17
 lang: en
 ---
 ![How Rita Hayworth performed the definitive femme fatale in Gilda, a performance and character study - Insight Crunch](/assets/images/blog/blog-103.webp)

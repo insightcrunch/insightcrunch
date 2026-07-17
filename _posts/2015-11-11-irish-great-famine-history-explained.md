@@ -9,7 +9,7 @@ excerpt: "The Irish Great Famine killed roughly a million people. A potato bligh
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 75
 author: "diana-patel"
-last_updated: 2015-11-11
+last_updated: 2026-07-17
 lang: en
 ---
 The Irish Great Famine killed roughly one million people between 1845 and 1852 and drove between one and two million more across the sea, cutting a population of about 8.5 million by a quarter to a third within a single decade. A fungal disease destroyed the potato crop, and that disease was a natural event; the scale of the dying was not. Phytophthora infestans removed the food of the poorest three million people on the island, but it was the decisions taken in London, in the Treasury and in Parliament, that turned a catastrophic shortage into a demographic collapse without parallel in modern European history. This article argues a thesis that older British historiography long resisted and that recent scholarship has confirmed: the blight was the trigger, and British government policy determined the death toll.

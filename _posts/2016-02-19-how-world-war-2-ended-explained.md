@@ -9,7 +9,7 @@ excerpt: "WWII ended through progressive Axis collapse in 1945, particular Allie
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2016-02-19
+last_updated: 2026-07-17
 lang: en
 ---
 The most destructive conflict in human history did not conclude with a single dramatic moment but through a cascading sequence of military collapses, diplomatic negotiations, and political decisions across two distinct theaters between February and September 1945, and each of those decisions carried consequences that would shape international politics for the next forty-five years.

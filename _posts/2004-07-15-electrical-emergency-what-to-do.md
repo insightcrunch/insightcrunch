@@ -9,7 +9,7 @@ excerpt: "In an electrical emergency, kill the power and keep your hands off the
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 61
 author: "ian-fletcher"
-last_updated: 2004-07-15
+last_updated: 2026-07-17
 lang: en
 ---
 Stop reading in a moment and go do this first: if something in your home is sparking, smoking, buzzing, burning, or shocking anyone, get every person away from it and cut the power at the breaker panel if you can reach the panel without walking through water, smoke, or the hazard itself. That is the whole opening move of an electrical emergency, and it is the one most people skip because their instinct is to look closer, to touch the thing, to pull the plug, to help the person who is being shocked. Every one of those instincts is the wrong one, and in this trade the wrong instinct is the one that kills.

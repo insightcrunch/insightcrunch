@@ -9,7 +9,7 @@ excerpt: "Learn how to hire a roofer with confidence: what roofers cover, why in
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 78
 author: "james-carter"
-last_updated: 2004-09-01
+last_updated: 2026-07-17
 lang: en
 ---
 The moment you decide to hire a roofer, you are making the largest single-trade purchase most homes ever see, and you are usually making it under pressure: a stain is spreading across the ceiling, a wind event stripped shingles off the ridge, or an inspector on a home sale flagged the roof as near the end of its life. That pressure is the whole problem. Roofing is the one residential trade where the customer is most often scared, most often in a hurry, most often dealing with an insurance company at the same time, and least able to verify the work, because the product is bolted to a surface you cannot see and would not be safe standing on. Every bad outcome in this trade traces back to those four conditions stacking up at once.

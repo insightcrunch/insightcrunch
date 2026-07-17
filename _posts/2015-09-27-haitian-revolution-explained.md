@@ -9,7 +9,7 @@ excerpt: "The Haitian Revolution produced the only successful large-scale slave 
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2015-09-27
+last_updated: 2026-07-17
 lang: en
 ---
 The Haitian Revolution of 1791 to 1804 was the most radical revolution of its era, and it is the most undertreated in standard Western histories. It produced the only successful large-scale slave revolt in recorded history, created the first Black-led republic in the Western Hemisphere, forced the abolition of slavery in French colonial territories earlier than in British or American ones, and handed Napoleon Bonaparte one of the most humiliating military defeats of his career. The revolution's scale and consequences dwarf its reputation: approximately 500,000 enslaved people in the most profitable European colony in the Americas rose against their enslavers, defeated the armies of three imperial powers (France, Spain, and Britain), and established a sovereign nation on January 1, 1804. That this achievement remains peripheral in most world history curricula is not an accident of pedagogical preference. It is a specific historiographical failure that Michel-Rolph Trouillot named and documented in *Silencing the Past: Power and the Production of History* (1995), and naming that failure is the first step toward correcting it.

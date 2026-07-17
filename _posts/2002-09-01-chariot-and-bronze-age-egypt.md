@@ -9,7 +9,7 @@ excerpt: "The chariot reached Bronze Age Egypt as a foreign import, arriving wit
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2002-09-01
+last_updated: 2026-07-17
 lang: en
 ---
 Somewhere in the eastern Delta, in the century or so on either side of 1600 BCE, an Egyptian carpenter learned to bend a length of imported elm into a curve, hold it there while a glue made from boiled hide set, and join six such curves into a wheel that would carry a fighting man at a gallop. That single skill, unremarkable to look at and hard beyond description to master, is the best short summary of what the chariot did to Bronze Age Egypt. It did not arrive as a finished object to be admired. It arrived as a problem set: a demand for woods Egypt did not grow, glues Egypt had not needed, joinery Egypt had never attempted, an animal Egypt had barely seen, a metal alloy Egypt used only occasionally, and a class of specialist worker Egypt did not yet employ. Solving that problem set changed Egyptian craft more thoroughly than any single monument ever did.

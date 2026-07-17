@@ -9,7 +9,7 @@ excerpt: "Double Indemnity opens at the end and tells its murder backward, turni
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2015-04-15
+last_updated: 2026-07-17
 lang: en
 ---
 A man drives a coupe through downtown Los Angeles at night, slumped over the wheel, a wound under his coat. He drags himself into an empty insurance office, switches on a dictaphone, and begins to talk. "Office memorandum. Walter Neff to Barton Keyes, claims manager." Then, with the flat exhaustion of a person who has nothing left to protect, he says he killed a man named Dietrichson. Double Indemnity has been running for roughly four minutes, and it has already told you how the story ends. The narrator is finished. Whatever comes next is not a question of whether he survives, because he plainly does not. The film has handed away its outcome on purpose, and that single decision is the most instructive thing a screenwriter can study in the whole picture.

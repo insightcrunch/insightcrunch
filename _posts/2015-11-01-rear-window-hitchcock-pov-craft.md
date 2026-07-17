@@ -9,7 +9,7 @@ excerpt: "Rear Window builds a thriller from one confined point of view, using a
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2015-11-01
+last_updated: 2026-07-17
 lang: en
 ---
 A man with a broken leg sits in a wheelchair by his window and looks. That is the entire machine. Out of that single premise, a confined watcher and the things he watches, Alfred Hitchcock built one of the most efficient suspense engines in the history of the medium. Rear Window, released by Paramount in 1954, takes the most ordinary human activity, looking at other people, and turns it into a feature-length argument about what cinema is and what an audience does when it sits in the dark. The thriller is the bait. The real subject is the act of watching, and the most radical thing about the film is that it makes you complicit in that act before you have noticed it happening.

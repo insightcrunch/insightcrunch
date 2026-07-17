@@ -9,7 +9,7 @@ excerpt: "Detour (1945) turns its poverty row constraints into the purest statem
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2015-08-01
+last_updated: 2026-07-17
 lang: en
 ---
 A man sits alone in a roadside diner somewhere east of nowhere, a cup of coffee going cold in front of him, and he tells you a story about how none of it was his fault. That is the whole engine of Detour, the 1945 film noir Edgar G. Ulmer shot at a Poverty Row studio for a sum so small it became a legend, and that engine runs on a single unsettling idea: that a force outside any person can reach down and ruin a life for no reason at all. The man is Al Roberts, a New York piano player who hitchhiked west and found two corpses waiting for him along the way, and the question the film plants in you is not whether his luck was bad. The question is whether he is lying.

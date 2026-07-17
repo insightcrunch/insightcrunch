@@ -5,11 +5,11 @@ page_title: "The Industrial Revolution Explained: Why the 'Great Transformation'
 date: 2015-09-17
 categories: ["Leisure"]
 tags: ["industrial-revolution", "british-history", "economic-history", "nineteenth-century", "modernization", "medieval-history"]
-excerpt: "The Industrial Revolution was named long after it ended. What happened in Britain from 1760 to 1840 was stranger and more local than the textbooks admit."
+excerpt: "Decode the Industrial Revolution as the technological and social transformation that made everything that followed."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2015-09-17
+last_updated: 2026-07-17
 lang: en
 ---
 The Industrial Revolution was the cluster of technological, economic, and social changes that turned Britain from a farming society into the world's first industrial economy between roughly 1760 and 1840. Cotton spinning moved from cottage wheels to water-powered mills, iron output multiplied, the steam engine became a general source of power, and a population that had lived on the land for a thousand years began crowding into manufacturing towns. That much almost every account agrees on. What almost every account then does is wrap the whole process in a phrase, the "great transformation," and treat the phrase as an explanation. It is not one. Rather, it is a label, and a fairly recent label, and understanding where it came from is the first step toward seeing what actually happened.

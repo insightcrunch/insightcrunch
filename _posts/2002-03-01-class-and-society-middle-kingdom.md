@@ -9,7 +9,7 @@ excerpt: "Class and society in Middle Kingdom Egypt ran from king and officials 
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2002-03-01
+last_updated: 2026-07-17
 lang: en
 ---
 Stand for a moment beside a mudbrick house in a planned Middle Kingdom town, watch a woman carry water past a scribe checking a grain tally, and you are looking at the whole social order of the age in a single street. The Middle Kingdom of Egypt, running from roughly 2055 to 1650 BCE, was not a society of pharaohs and pyramids alone. It was a pyramid of people: a king and his court at the apex, a widening band of officials and scribes below them, then the artisans who made things, the farmers who fed everyone, and at the base the servants and dependents whose labor the whole structure rested on. The question this article answers is not merely who stood where, but how that order actually felt to live inside, how much a person could move within it, and how we reconstruct any of it from tombs, statues, and texts left behind by people who never expected a historian to read them.

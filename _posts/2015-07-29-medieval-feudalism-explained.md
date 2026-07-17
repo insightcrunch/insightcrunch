@@ -5,11 +5,11 @@ page_title: "Medieval Feudalism Explained: Why the \"Feudal Pyramid\" Is a Seven
 date: 2015-07-29
 categories: ["Leisure"]
 tags: ["medieval-feudalism", "medieval-europe", "susan-reynolds", "historiography", "medieval-society", "medieval-history"]
-excerpt: "Medieval feudalism was never one system. It is a label that seventeenth-century antiquarians pinned on inconsistent local practices, and the pyramid is wrong."
+excerpt: "Decode feudalism as the practical organization of medieval Europe, far messier than the textbook diagrams suggest."
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 73
 author: "chloe-martin"
-last_updated: 2015-07-29
+last_updated: 2026-07-17
 lang: en
 ---
 Almost everyone who has sat through a school history lesson can draw the picture. A king sits at the top. Beneath him stands a tier of great lords. Below them come the lesser knights, and at the wide base sit the peasants who work the soil. Service and loyalty travel upward, protection and land travel downward, and the whole arrangement locks into a tidy triangle that supposedly governed Europe for five centuries. That triangle has a name in most classrooms. It is called the feudal pyramid, and it is one of the most successful pieces of misinformation ever taught as settled history.

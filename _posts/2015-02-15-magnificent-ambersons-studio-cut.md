@@ -9,7 +9,7 @@ excerpt: "The Magnificent Ambersons survives only as RKO's recut of Orson Welles
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2015-02-15
+last_updated: 2026-07-17
 lang: en
 ---
 The problem at the center of The Magnificent Ambersons is not a problem of interpretation. It is a problem of evidence. When the lights come up after eighty-eight minutes, a viewer has watched a film that its director did not assemble, did not approve, and spent the rest of his life describing as a wound. Orson Welles shot the picture in 1941 and 1942, edited a version he believed surpassed Citizen Kane, and then left the country at the government's request before the cut was locked. While he was in South America, RKO Radio Pictures took the film apart. The studio removed close to an hour of footage, ordered new scenes shot by other hands, replaced the ending with a softer one, and previewed and released the result over his objections. The excised material was later destroyed. What reaches us is the studio's Magnificent Ambersons, not the director's, and that single fact changes the nature of every judgment we are able to make about it.

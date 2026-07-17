@@ -9,7 +9,7 @@ excerpt: "All About Eve turns a backstage tale into an autopsy of ambition throu
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2015-11-15
+last_updated: 2026-07-17
 lang: en
 ---
 A young woman in a plain coat reaches for a statuette, and the image stops dead. The applause hangs in the air. A sardonic voice cuts across the frozen room to tell us, with the confidence of a man who has decided the ending in advance, that we are about to learn the truth about the girl on the stage. That held frame near the start of All About Eve is one of the most quietly radical openings in studio cinema, and everything the screenplay does afterward grows out of it. Joseph L. Mankiewicz does not begin at the beginning. He begins at the verdict, freezes it, and then spends two hours assembling the case that explains how the verdict was reached, handing the telling from one witness to the next.

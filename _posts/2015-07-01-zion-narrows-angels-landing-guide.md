@@ -9,7 +9,7 @@ excerpt: "How to hike the Narrows and Angels Landing in Zion safely, covering th
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
 author: "amit-chatterjee"
-last_updated: 2015-07-01
+last_updated: 2026-07-17
 lang: en
 ---
 Two hikes carry most of Zion's reputation, and the first real decision is which one fits you, because the Narrows and Angels Landing demand opposite things from a body and reward opposite kinds of nerve. Angels Landing is a climb that ends on a knife-edge of rock with a chain bolted into it and a long fall on either side, gated now by a permit lottery that decides whether you get to finish at all. The Narrows is a walk straight up a river, cold and slow and governed by a flash-flood forecast that can shut the whole thing down before you take a step. Neither is a stroll, and neither rewards the bravado that treats one as a dare and the other as a casual splash through some water. The single rule that keeps both safe is simple to say and easy to ignore: Angels Landing is gated by a lottery, and the Narrows is gated by the forecast, and a hiker who respects both walks away with the trip of the year while a hiker who shrugs at either is how Zion's famous routes turn into rescues.

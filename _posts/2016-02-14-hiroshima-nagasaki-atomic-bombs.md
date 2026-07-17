@@ -9,7 +9,7 @@ excerpt: "The atomic bombings of Hiroshima and Nagasaki killed between 110,000 a
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2016-02-14
+last_updated: 2026-07-17
 lang: en
 ---
 The atomic bombings of Hiroshima on August 6 and Nagasaki on August 9 represent the only wartime use of nuclear weapons in human history. Between 110,000 and 210,000 people died by the end of the calendar year, and the decision to deploy these weapons remains the single most contested strategic choice of the twentieth century. What makes the controversy enduring is not merely the scale of destruction but the genuine complexity of the decision-making environment in which President Harry S. Truman, Secretary of War Henry L. Stimson, and their advisors operated during the spring and summer months of the final year of the Pacific War. The standard narrative holds that the bombings saved hundreds of thousands of American and Japanese lives by preventing a land invasion of the Japanese home islands. The revisionist counter-narrative holds that Japan was already on the verge of surrender and that the bombings served primarily as a diplomatic signal to the Soviet Union. Neither account captures the full decision-structure, and the historiographical record across eighty years of scholarship demonstrates why the simplification fails in both directions.

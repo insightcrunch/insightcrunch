@@ -9,7 +9,7 @@ excerpt: "The Big Sleep turns Raymond Chandler's tangled novel into a film whose
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2015-06-01
+last_updated: 2026-07-17
 lang: en
 ---
 The single most revealing decision in Howard Hawks's adaptation of Raymond Chandler was the decision not to fix the plot. When the writing team reached a body in a car at the bottom of a pier and could not work out who had put it there, they did not invent an answer, restructure the chain of cause and effect, or send Marlowe back to gather the missing clue. They wired the novelist, received a shrug, and kept shooting. The film that resulted runs for the better part of two hours on blackmail, gambling, pornography, and at least half a dozen corpses, and it never bothers to make all of that arithmetic add up. A film built on a mystery declines to solve itself, and it loses nothing by the refusal. That is the puzzle worth studying, and it is a puzzle about adaptation rather than about murder.

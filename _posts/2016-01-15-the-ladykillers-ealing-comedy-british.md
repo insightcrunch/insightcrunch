@@ -9,7 +9,7 @@ excerpt: "The Ladykillers turned an Ealing heist into a black comedy about a fad
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2016-01-15
+last_updated: 2026-07-17
 lang: en
 ---
 A film movement rarely announces itself, and the one that produced The Ladykillers (1955) is a clear case in point. It accumulates. A studio finds a tone that works, repeats it with variations, gathers a stable of writers and directors and faces who understand the house style without being told, and then one day the body of work is large enough and coherent enough that critics give it a name and treat it as a thing in the world. The Ealing comedies were named that way, in retrospect, after the fact, by people looking back at a run of films made at a small studio in west London across roughly a decade. By the time the label hardened, the run was nearly over. And the film that closed it, Alexander Mackendrick's The Ladykillers (1955), is the one that most fully understood what the movement had been, because it is the one that turned the movement's gentle surface inside out and showed the darkness it had always been resting on.

@@ -9,7 +9,7 @@ excerpt: "The Best Years of Our Lives turned the returning soldier into honest c
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2015-05-15
+last_updated: 2026-07-17
 lang: en
 ---
 In the autumn of 1945 the United States began the largest peacetime movement of human beings it had ever attempted: the return of more than twelve million men and women from the armed forces into a country that had reorganized itself entirely around their absence. Factories that had run on three shifts of women and older men now had to make room for the people the war had taken. Wives who had learned to manage households, money, and grief alone now had to fold a stranger back into the bed. Sons returned to fathers they barely recognized and fathers returned to sons who had grown a foot. The government had a name for the logistics of it, demobilization, and a law for the economics of it, the Servicemen's Readjustment Act that everyone called the GI Bill, but neither the word nor the law had anything to say about the part that mattered most, which was what happened in the silence of a living room when a man who had been to the war sat down in a chair that no longer fit him. That silence is the subject of William Wyler's *The Best Years of Our Lives*, released in 1946, and it remains the most honest film Hollywood ever made about the cost of coming home.

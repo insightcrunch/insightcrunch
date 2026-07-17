@@ -9,7 +9,7 @@ excerpt: "Learn how to vet an electrician before hiring: confirm the license and
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 68
 author: "ryan-walsh"
-last_updated: 2003-06-15
+last_updated: 2026-07-17
 lang: en
 ---
 The fastest way to vet an electrician before hiring is to ask one question and listen closely to the answer: who pulls the permit? A legitimate operator pulls it in their own name, welcomes the inspection that follows, and treats both as normal parts of the job. An operator who tells you the work is too small to bother with a permit, or who suggests that you pull it yourself to save time, has just told you something far more important than any review ever will. That single exchange sorts most of the field, because pulling a permit means putting a real license and a real name on record with the local building department, and the operators who cannot or will not do that are exactly the ones you do not want touching the wiring behind your walls.

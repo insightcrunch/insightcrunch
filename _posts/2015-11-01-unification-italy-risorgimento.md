@@ -9,7 +9,7 @@ excerpt: "The Risorgimento achieved Italian political unification through Cavour
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2015-11-01
+last_updated: 2026-07-17
 lang: en
 ---
 In 1861, the Kingdom of Italy was proclaimed in Turin, and a peninsula that had been fragmented into approximately nine separate governing entities since the fall of the Roman Empire suddenly became a single country. The achievement was extraordinary. Three men whose names now appear on every Italian piazza and boulevard, Camillo Benso di Cavour, Giuseppe Garibaldi, and Giuseppe Mazzini, had produced through diplomacy, guerrilla warfare, and ideological fervor what centuries of foreign domination had made seem permanently impossible. The moment carried genuine weight: a peninsula whose governmental disunity had been the defining feature of its post-Roman existence was now, formally, one country. Massimo d'Azeglio, the Piedmontese statesman who had helped lay the groundwork for the Risorgimento, reportedly offered a verdict at the moment of triumph that captured something the celebrations missed: "We have made Italy; now we must make Italians." Whether d'Azeglio actually said it remains debated, but the observation, whoever first articulated it, identified the central problem of Italian history for the next century and beyond.

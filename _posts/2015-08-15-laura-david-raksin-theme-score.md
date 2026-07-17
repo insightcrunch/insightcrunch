@@ -9,7 +9,7 @@ excerpt: "Laura (1944) makes David Raksin's haunting theme the object of a detec
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2015-08-15
+last_updated: 2026-07-17
 lang: en
 ---
 A detective falls in love with a dead woman. He never meets her, never hears her voice, never watches her cross a room. He falls for a face in a painting and for a melody that follows him from room to room, and by the time the picture turns, he is already lost. That is the engine of Laura (1944), Otto Preminger's cool and lacquered murder mystery, and the most important fact about it is that the engine runs on music. David Raksin's theme is not decoration laid over the story. It is the story's beating center, the thing the detective is actually chasing, the shape that longing takes when the person who provoked it is supposedly gone. Where most films of the period used an orchestra to underline what the images already showed, Laura did something rarer and stranger: it made a single recurring melody the object of desire, so that the audience falls for the absent woman through the same channel the detective does, through the ear.

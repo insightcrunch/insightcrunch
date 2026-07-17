@@ -9,7 +9,7 @@ excerpt: "Old Kingdom vs Middle Kingdom Egypt, compared across kingship, pyramid
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 62
 author: "amanda-ross"
-last_updated: 2002-06-01
+last_updated: 2026-07-17
 lang: en
 ---
 Ask which age of ancient Egypt was the greater and most people answer before the question has finished. The Old Kingdom built Giza. Case closed. That reflex is exactly why the Old Kingdom vs Middle Kingdom question deserves a serious hearing, because the reflex measures a civilization by one criterion, the mass of quarried stone it could stack in one place, and then declares a winner. Egyptologists have never been so quick. The specialists who spend their working lives inside the sources are genuinely split, and the split has nothing to do with which pharaoh anyone finds more likable. It is a disagreement about what greatness in a civilization consists of, and it is one of the few ranking debates in Egyptology where both sides are holding real evidence.

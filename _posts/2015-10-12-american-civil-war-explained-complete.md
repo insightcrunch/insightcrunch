@@ -9,7 +9,7 @@ excerpt: "The American Civil War was caused by slavery, the cause the seceding s
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2015-10-12
+last_updated: 2026-07-17
 lang: en
 ---
 When the men who broke the United States apart sat down to explain why, they did not write about tariffs, and they did not write about an abstract theory of constitutional sovereignty. They wrote about slavery, in plain language, at length, and without embarrassment. South Carolina led the way out of the Union on December 20, 1860, and within seven weeks six more states of the Deep South had followed. Four of those seven states issued formal public documents titled, in one phrasing or another, a declaration of the causes of secession. Read those four documents and the question that has confused American classrooms for a century and a half answers itself in the words of the people who started the rebellion.

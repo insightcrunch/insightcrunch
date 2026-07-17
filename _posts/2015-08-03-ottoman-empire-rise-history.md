@@ -9,7 +9,7 @@ excerpt: "The Ottoman rise from a small Anatolian beylik to a Mediterranean empi
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2015-08-03
+last_updated: 2026-07-17
 lang: en
 ---
 In the year 1299, on a hilly stretch of northwest Anatolia where the Byzantine frontier had grown soft and porous, a minor warlord named Osman governed a few hundred tents, a scatter of villages, and a position on the road between worlds. Around him sat a dozen other principalities of similar size, the beyliks that had splintered out of the collapsing Seljuk Sultanate of Rum. Nothing about Osman's holding marked it as the seed of an empire. The beyliks of Aydin, Karaman, Germiyan, and Menteshe were as large, as well placed, and as well led. Most of them would be footnotes within two centuries. The principality Osman founded would rule three continents.

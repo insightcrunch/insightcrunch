@@ -9,7 +9,7 @@ excerpt: "A Streetcar Named Desire shows how the Production Code reshaped Tennes
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2016-01-01
+last_updated: 2026-07-17
 lang: en
 ---
 The central decision in adapting A Streetcar Named Desire was not how to open up a stage play for the camera. It was whether the assault at the heart of the story could survive the journey from Broadway to Hollywood at all. Elia Kazan, who had directed the 1947 stage production and knew the material to the bone, faced a censorship office that wanted the scene gone. He shot it anyway. He staged it as obliquely as he could, a smashed mirror and a torrent of water on a darkened street standing in for the act, and he gambled that the Production Code Administration would rather approve a coded version than fight a studio over a prestige picture. The gamble paid off. Then a second body, the Catholic Legion of Decency, cut four more minutes without his knowledge, and the film that reached theaters in 1951 was a negotiated document, shaped as much by what 1950s America forbade as by what Tennessee Williams wrote.

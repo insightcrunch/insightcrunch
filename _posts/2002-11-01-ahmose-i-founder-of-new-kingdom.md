@@ -9,7 +9,7 @@ excerpt: "Ahmose I captured Avaris, expelled the Hyksos, and reunified Egypt to 
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 73
 author: "rachel-foster"
-last_updated: 2002-11-01
+last_updated: 2026-07-17
 lang: en
 ---
 Ahmose I is the king who turned a Theban war of survival into an imperial state, and that sentence contains the whole difficulty of judging him. Egyptologists have never disagreed much about what he did. The disagreement is about what kind of achievement it was. One reading makes him the last general of a long Theban insurgency, a competent finisher who cleared the Delta of a foreign dynasty his father and brother had already broken. Another makes him the deliberate architect of a new kind of Egyptian kingship, a ruler who understood that expelling an enemy and founding an empire are not the same project and who did the second one on purpose. The evidence supports a version of both, and the honest answer sits in the space between them.

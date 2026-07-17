@@ -5,11 +5,11 @@ page_title: "The Scientific Revolution: Why the Concept Itself Is a Twentieth-Ce
 date: 2015-08-28
 categories: ["Leisure"]
 tags: ["scientific-revolution", "copernicus", "galileo", "newton", "history-of-science", "medieval-history"]
-excerpt: "The Scientific Revolution is a twentieth-century frame. The discoveries from Copernicus to Newton were real, yet their unity as one event was imposed later."
+excerpt: "Decode the Scientific Revolution as the moment Europe traded received authority for evidence and experiment."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2015-08-28
+last_updated: 2026-07-17
 lang: en
 ---
 The Scientific Revolution is the name historians give to a cluster of changes in European natural philosophy that unfolded between the appearance of Nicolaus Copernicus's heliocentric treatise in 1543 and the publication of Isaac Newton's Principia in 1687. Across those fourteen decades the cosmos was remapped, falling bodies and orbiting planets were brought under shared mathematical laws, the controlled experiment became an accepted way of settling disputes, and the first lasting institutions devoted to organized inquiry were chartered in London and Paris. None of that is in doubt. What is in doubt is the noun in the middle of the phrase, because the idea that these scattered achievements add up to a single coherent event is itself a product of the twentieth century rather than a description handed down to us by the people who lived through the period.

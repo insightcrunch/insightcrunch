@@ -9,7 +9,7 @@ excerpt: "How Egypt conquered and held Nubia: the Middle Kingdom fortress chain,
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 73
 author: "rachel-foster"
-last_updated: 2002-05-01
+last_updated: 2026-07-17
 lang: en
 ---
 Egypt's conquest of Nubia was not an accident of ambition and it was not a crusade. It was a business decision enforced with axes and boats. Over roughly two centuries, the kings of the Twelfth Dynasty pushed the southern boundary of the Egyptian state from the first cataract at Aswan to a granite gorge some 250 miles upstream, and along that stretch of river they raised a chain of mudbrick fortresses so heavy, so deliberately engineered, and so expensive to garrison that nothing else the Middle Kingdom built matches them for sheer sustained investment. They did it for gold, for hard stone, for ivory and ebony and cattle and incense, and above all for control of who moved along the river and what moved with them. The pyramids of the same dynasty were smaller than their Old Kingdom ancestors and cored with mudbrick. The forts were not scaled down at all. That imbalance is the clue to the whole story.

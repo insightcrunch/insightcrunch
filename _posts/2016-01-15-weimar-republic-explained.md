@@ -9,7 +9,7 @@ excerpt: "Weimar survived fourteen years of substantial crises before collapsing
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2016-01-15
+last_updated: 2026-07-17
 lang: en
 ---
 The Weimar Republic was Germany's first democratic government, lasting from its revolutionary founding in November 1918 to Adolf Hitler's appointment as chancellor in January 1933. The conventional narrative frames Weimar as a democracy doomed from birth, crushed between the impossible burdens of the Versailles settlement and the rising tide of extremism. That framing is wrong. Weimar survived the Spartacist revolt, the Kapp Putsch, the French occupation of the Ruhr, a hyperinflation that destroyed the currency, the Beer Hall Putsch, multiple assassination campaigns against its leading politicians, and a global economic catastrophe. It survived these crises because its institutional arrangements, however imperfect, contained resilience that most contemporary observers underestimated. Its collapse between 1930 and 1933 was not the inevitable unfolding of 1919 conditions but the product of identifiable choices by named political actors operating within a crisis they did not have to resolve the way they did.

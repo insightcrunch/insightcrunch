@@ -9,7 +9,7 @@ excerpt: "Middle Kingdom administration and trade ran on a professional bureaucr
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2002-02-01
+last_updated: 2026-07-17
 lang: en
 ---
 Middle Kingdom administration and trade were the machinery that turned a reunified country into a working state, and understanding that machinery is the difference between knowing that Egypt was rich and being able to explain why. The kings of the Eleventh and Twelfth Dynasties inherited a land that had just come through a long fracture, the First Intermediate Period, when central authority broke and provincial lords ran their own districts. What the Middle Kingdom built on top of that recovery was not a vague prosperity but a system: a professional bureaucracy headed by the vizier, a tax base rooted in grain and labor, granaries that stored the surplus, and long-distance networks that reached south into Nubia for gold and hard stone, north to the Levantine coast for cedar, and east across the desert and down the Red Sea for the incense and exotic goods of Punt. Follow the grain and the gold and you can reconstruct how the whole thing was funded.

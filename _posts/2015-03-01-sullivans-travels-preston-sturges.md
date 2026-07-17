@@ -9,7 +9,7 @@ excerpt: "Sullivan's Travels reveals Preston Sturges as an auteur whose tonal sw
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2015-03-01
+last_updated: 2026-07-17
 lang: en
 ---
 A successful director of light entertainments decides he is tired of making people laugh and wants instead to make a serious film about human suffering. He knows nothing about suffering, so he disguises himself as a hobo and goes looking for it. By the time he finds it, the joke has turned on him, and the lesson he carries home is that the laughter he was ashamed of may be the most useful thing he ever made. That is the engine of Sullivan's Travels, the 1941 Paramount picture written and directed by Preston Sturges, and it is also a description of the directorial problem Sturges set himself: how to argue, in the body of a comedy, that comedy is worth defending, without letting the argument curdle into the very preaching it mocks.

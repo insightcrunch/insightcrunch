@@ -9,7 +9,7 @@ excerpt: "How to hire an electrician without gambling on an unlicensed operator:
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 77
 author: "nathan-cole"
-last_updated: 2003-02-15
+last_updated: 2026-07-17
 lang: en
 ---
 Most homeowners approach electrical work the same way, from a position of quiet dread. A breaker keeps tripping, an outlet has gone dead, the panel looks older than the house, and the instinct is to find the cheapest person who will make the problem go away. That instinct is exactly what gets people hurt, overcharged, or stuck with work that fails an inspection years later when they try to sell. Learning how to hire an electrician well is less about finding a name and more about understanding a single truth that shapes every decision downstream: electrical work is one of the most tightly licensed and permit-driven trades in the country, because its two failure modes are fire and electrocution. Once you understand why that gating exists, the whole hire stops feeling like a gamble and starts feeling like a process you control.

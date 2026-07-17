@@ -9,7 +9,7 @@ excerpt: "Hitler's rise to power was not inevitable. Specific conservative polit
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2015-12-21
+last_updated: 2026-07-17
 lang: en
 ---
 Hitler's rise to power was not a predictable consequence of the Treaty of Versailles, not an inevitable outcome of German national character, and not a force of nature that no political actor could have stopped. It was the specific outcome of particular decisions by named political actors within a democratic system that was under severe stress but not yet dead. Ian Kershaw's landmark two-volume biography established what scholars now call the conjuncture reading: without the economic crisis of 1929-1933, Hitler would not have come to power; with the crisis, specific conservative politicians, above all Franz von Papen and President Paul von Hindenburg, chose to bring him to power as a tool they believed they could control. The tool consumed them, and their miscalculation produced the most catastrophic regime in modern European history. Understanding how this happened requires reconstructing the specific decisions, the specific alternatives that were available at each turning point, and the specific reasons those alternatives were rejected. The retrospective flattening of Hitler's rise into structural inevitability obscures exactly what matters most: the identifiable moments where different choices by different people could have produced a fundamentally different outcome.

@@ -9,7 +9,7 @@ excerpt: "Versailles was a 1919 compromise among competing Allied interests, nei
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2015-11-26
+last_updated: 2026-07-17
 lang: en
 ---
 The Treaty of Versailles is the most familiar peace settlement in modern history and one of the most badly understood. Generations of readers have inherited a verdict on it before encountering the document itself: that the treaty was a vindictive Carthaginian peace, that it ruined Germany economically, that its harshness made the rise of Hitler inevitable, and that the Allied statesmen who drafted it were either naive (in Woodrow Wilson's case) or vengeful (in Georges Clemenceau's case) or cynically opportunistic (in David Lloyd George's case). That verdict descends almost directly from a single book, John Maynard Keynes's *The Economic Consequences of the Peace*, published five months after the treaty was signed. The verdict was politically influential, and it became the framework through which most popular treatments still describe what happened at Paris in 1919.

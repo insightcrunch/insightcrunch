@@ -9,7 +9,7 @@ excerpt: "Singin' in the Rain perfected the integrated musical by making cinema'
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2015-10-15
+last_updated: 2026-07-17
 lang: en
 ---
 The reputation arrives before the film does. Ask almost anyone to name the greatest movie musical and the answer comes back fast, and it is usually Singin' in the Rain. That reflex is worth interrogating rather than accepting, because the reflex hides the actual achievement behind a warm feeling about a man dancing through a downpour. The film earns its standing not by being the most lavish musical, the most technically advanced, or the most emotionally ambitious, but by solving a problem the form had circled for two decades and then folding the solution back on itself. It takes the most disruptive event in the history of its own industry, the conversion from silent pictures to sound, and turns that trauma into the engine of a musical comedy. The genre that exists only because sound arrived makes the arrival of sound its plot.

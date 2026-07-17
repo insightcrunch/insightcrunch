@@ -9,7 +9,7 @@ excerpt: "The Third Man turns canted angles, wet cobblestones, and the real ruin
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2015-04-01
+last_updated: 2026-07-17
 lang: en
 ---
 There is a single decision in The Third Man that explains everything else, and it is not the zither, not the famous reveal of a face in a doorway, not the speech about cuckoo clocks. It is a tilt. Carol Reed and his cinematographer Robert Krasker pitched the camera off its level so often that a city already broken in half by war seems to lean toward the viewer, threatening to slide out of the frame. The image arrives before the meaning does. You feel that something is wrong with the world of this picture a full beat before you can name what the wrongness is, and that gap, between sensation and understanding, is the engine of its dread.

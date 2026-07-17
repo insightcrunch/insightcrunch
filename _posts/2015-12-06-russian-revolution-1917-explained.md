@@ -9,7 +9,7 @@ excerpt: "Russia in 1917 had two revolutions with different participants and out
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 79
 author: "chloe-martin"
-last_updated: 2015-12-06
+last_updated: 2026-07-17
 lang: en
 ---
 The single most consequential year of the twentieth century happened in a country that used a different calendar from the one the rest of Europe was using. Russia in 1917 produced two revolutions, not one, and the difference between them is the difference between an overthrow and a seizure. The February Revolution was a substantially spontaneous uprising that toppled three hundred years of Romanov autocracy in roughly eight days. The October Revolution was a tactically planned operation by an organized minority that captured the apparatus of an already collapsing provisional government. Both events together set the structural shape of the next seven decades, structured the Cold War, produced the canonical twentieth-century model of one-party state communism, and shaped how every subsequent revolutionary movement understood its own possibilities and risks.

@@ -9,7 +9,7 @@ excerpt: "The Somme killed a million men for seven miles of depth. Both the trag
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2015-12-01
+last_updated: 2026-07-17
 lang: en
 ---
 The Battle of the Somme killed approximately one million men across all sides between July 1 and November 18, 1916, and gained roughly seven miles of depth on a narrow sector of the Western Front. That sentence captures the popular understanding of the battle: catastrophic human cost, negligible territorial result, a permanent symbol of military futility. The popular understanding is not wrong. It is incomplete. The Somme was fought under specific strategic constraints that British commanders did not choose, produced specific consequences for the German army that the casualty-focused narrative does not capture, and became the occasion for specific tactical learning that contributed to the Allied victory of 1918. Holding the tragedy and the strategic analysis together, rather than choosing one and discarding the other, is what the evidence requires.

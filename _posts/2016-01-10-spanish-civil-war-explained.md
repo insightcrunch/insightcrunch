@@ -2,7 +2,7 @@
 title: "The Spanish Civil War Explained"
 page_title: "The Spanish Civil War Explained: Why the 1936-1939 Conflict Was the 1930s Ideological Dress Rehearsal"
 date: 2016-01-10
-last_updated: 2016-01-10
+last_updated: 2026-07-17
 slug: "spanish-civil-war-explained"
 excerpt: "The Spanish Civil War was the 1930s ideological dress rehearsal for WWII, shaped by foreign intervention that turned Spanish politics into global proxy war."
 image: "/assets/images/blog/blog-35.webp"

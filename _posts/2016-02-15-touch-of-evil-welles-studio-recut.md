@@ -9,7 +9,7 @@ excerpt: "Touch of Evil shows how Universal recut Orson Welles's last noir, how 
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2016-02-15
+last_updated: 2026-07-17
 lang: en
 ---
 A movie can fail in one decade and be rescued in another, and the rescue can come from the very studio that did the damage. That double motion, harm and partial repair, is the whole story of Touch of Evil (1958), the border-town crime picture that Orson Welles wrote, directed, and acted in, and that Universal took out of his hands before it reached theaters. The work opened quietly in February 1958 on the bottom half of a double bill, was treated by its own studio as a programmer to be processed rather than a major release to be sold, and earned a reputation over the following decades that almost no one in that first release week would have predicted. It is now taught as the baroque last gasp of classic American film noir, the closing bracket on a cycle that began in the early 1940s, and the case study that film schools reach for when they want to explain what a director loses when authorship is taken away and what, against the odds, can sometimes be recovered.

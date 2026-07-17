@@ -9,7 +9,7 @@ excerpt: "German unification was not inevitable. Bismarck's three calculated war
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2015-10-27
+last_updated: 2026-07-17
 lang: en
 ---
 German unification was produced, not discovered. Otto von Bismarck fought three wars between 1864 and 1871, each calculated to close off one of the plausible alternative futures for the German-speaking lands of Central Europe. By the time the Prussian king accepted the imperial crown at Versailles in January 1871, the Greater Germany option that would have included Austria was dead, the liberal-democratic option that the Frankfurt Parliament had attempted in 1848 was buried, and the possibility that the thirty-nine separate German states might simply continue as a loose confederation had been rendered unthinkable by military force. Bismarck did not ride a wave of nationalism to its natural conclusion. He constructed the wave, steered it, and decided where it would break.

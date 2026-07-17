@@ -9,7 +9,7 @@ excerpt: "Electrical permits protect you at resale and in a claim, not the city.
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
 author: "thomas-reid"
-last_updated: 2004-03-15
+last_updated: 2026-07-17
 lang: en
 ---
 When an electrician looks at your job and says he can save you a few hundred dollars by skipping the paperwork, he is not doing you a favor. He is quietly transferring risk off his shoulders and onto yours. Electrical permits are the one part of the transaction that exists purely for your benefit, and they are the first thing a corner-cutting operator suggests removing, because the permit is what forces a stranger with authority to look at his work before it disappears behind your drywall. The offer sounds like a discount. It functions like a waiver.

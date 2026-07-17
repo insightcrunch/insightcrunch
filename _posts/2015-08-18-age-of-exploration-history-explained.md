@@ -5,11 +5,11 @@ page_title: "The Age of Exploration Explained: Why the Columbian Exchange Is the
 date: 2015-08-18
 categories: ["Leisure"]
 tags: ["age-of-exploration", "columbian-exchange", "european-colonization", "transatlantic-slave-trade", "early-modern-history", "medieval-history"]
-excerpt: "The Age of Exploration is better understood as the Columbian Exchange: epidemiological, demographic, economic, and ecological reshaping of two hemispheres."
+excerpt: "Decode the Age of Exploration as the moment Europe forced contact with the rest of the world, for better and worse."
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2015-08-18
+last_updated: 2026-07-17
 lang: en
 ---
 The Age of Exploration was the period, running roughly from 1415 to 1600, when maritime powers opened sustained sea contact between the planet's two previously separate halves. That sentence is accurate, and it is also the wrong place to begin. The voyages were a means. What they set loose was a biological, demographic, economic, and ecological reordering of two hemispheres that the historian Alfred Crosby named the Columbian Exchange, and that reordering, rather than the geography of the shipping routes, is the genuine subject of the period.

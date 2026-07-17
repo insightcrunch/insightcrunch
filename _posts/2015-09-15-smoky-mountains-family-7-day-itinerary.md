@@ -9,7 +9,7 @@ excerpt: "This Smoky Mountains family itinerary splits seven days between quiet 
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 68
 author: "nandini-sen"
-last_updated: 2015-09-15
+last_updated: 2026-07-17
 lang: en
 ---
 A good Smoky Mountains family itinerary has to solve a problem that almost no other national park trip presents. Most parks ask you to plan around one thing: the wilderness, the trails, the wildlife, the views. The Great Smoky Mountains asks you to plan around two completely different vacations stacked on top of each other. On one side of the line you have the most visited national park in the country, full of black bears, cold streams, waterfall trails a six-year-old can manage, and a wide green valley where elk graze at dusk. A few miles down the road you have Pigeon Forge and Gatlinburg, where the same family can ride roller coasters, eat dinner in a barn full of singing cowboys, and spend a rainy afternoon indoors at Dollywood. The week works when you stop treating those two worlds as rivals and start sequencing them so each one gets the family at its best.

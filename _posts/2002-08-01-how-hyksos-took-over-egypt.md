@@ -9,7 +9,7 @@ excerpt: "How the Hyksos took over Egypt: why a weakened Delta fell to a settled
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2002-08-01
+last_updated: 2026-07-17
 lang: en
 ---
 The most durable image of how the Hyksos took over Egypt is also the least supported one: a horde of chariot warriors bursting out of the eastern desert, smashing the frontier, and riding into a stunned Delta. Nothing in the ground at the sites where it should have happened looks like that. What the excavated evidence shows instead is slower, stranger, and far more interesting: a West Asian population that had been living, trading, burying its dead, and building its temples in the eastern Nile Delta for generations before any of its leaders wore a royal title, sitting inside an Egypt whose own central government was quietly coming apart. When the Fifteenth Dynasty finally took power around 1650 BCE, it did not break into Egypt. It was already there.

@@ -9,7 +9,7 @@ excerpt: "World War I was caused by the cumulative choices of decision-makers ac
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2015-11-16
+last_updated: 2026-07-17
 lang: en
 ---
 World War I was caused by specific choices made by a small number of identifiable people over a span of roughly five weeks, and almost every one of those choices had a less catastrophic alternative on the table at the moment it was made. That is the argument of this article, and it runs against the version most readers first learned. The familiar account reaches for an acronym, Militarism, Alliances, Imperialism, and Nationalism, and treats those four structural pressures as if they themselves pulled the trigger. They did not. They built the room in which the trigger could be pulled. The pulling was done by men with names, sitting at desks, signing documents, and choosing among options they understood reasonably well.

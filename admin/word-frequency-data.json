@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-13T09:35:43Z",
+  "generated": "2026-07-17T08:16:59Z",
   "threshold": 50,
-  "totalPosts": 3495,
-  "flaggedPosts": 3145,
+  "totalPosts": 3552,
+  "flaggedPosts": 3202,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 165.7,
+  "avgTopCount": 165.5,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -36101,6 +36101,152 @@
       ]
     },
     {
+      "filename": "2002-01-01-golden-age-egyptian-literature.md",
+      "slug": "golden-age-egyptian-literature",
+      "title": "The Golden Age of Egyptian Literature",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7537,
+      "topWord": "egyptian",
+      "topCount": 116,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-01-01-golden-age-egyptian-literature.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 116
+        },
+        {
+          "word": "literature",
+          "count": 109
+        },
+        {
+          "word": "middle",
+          "count": 103
+        },
+        {
+          "word": "kingdom",
+          "count": 96
+        },
+        {
+          "word": "canon",
+          "count": 80
+        },
+        {
+          "word": "age",
+          "count": 77
+        },
+        {
+          "word": "golden",
+          "count": 73
+        },
+        {
+          "word": "writing",
+          "count": 62
+        },
+        {
+          "word": "works",
+          "count": 60
+        },
+        {
+          "word": "king",
+          "count": 51
+        },
+        {
+          "word": "sinuhe",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 116
+        },
+        {
+          "word": "literature",
+          "count": 109
+        },
+        {
+          "word": "middle",
+          "count": 103
+        },
+        {
+          "word": "kingdom",
+          "count": 96
+        },
+        {
+          "word": "canon",
+          "count": 80
+        },
+        {
+          "word": "age",
+          "count": 77
+        },
+        {
+          "word": "golden",
+          "count": 73
+        },
+        {
+          "word": "writing",
+          "count": 62
+        },
+        {
+          "word": "works",
+          "count": 60
+        },
+        {
+          "word": "king",
+          "count": 51
+        },
+        {
+          "word": "sinuhe",
+          "count": 51
+        },
+        {
+          "word": "egypt",
+          "count": 48
+        },
+        {
+          "word": "texts",
+          "count": 48
+        },
+        {
+          "word": "story",
+          "count": 48
+        },
+        {
+          "word": "literary",
+          "count": 46
+        },
+        {
+          "word": "tale",
+          "count": 44
+        },
+        {
+          "word": "language",
+          "count": 40
+        },
+        {
+          "word": "classical",
+          "count": 36
+        },
+        {
+          "word": "political",
+          "count": 36
+        },
+        {
+          "word": "text",
+          "count": 34
+        }
+      ]
+    },
+    {
       "filename": "2002-01-03-upsc-psir-vs-history.md",
       "slug": "upsc-psir-vs-history",
       "title": "UPSC Optional: PSIR vs History Detailed Comparison",
@@ -37165,6 +37311,132 @@
       ]
     },
     {
+      "filename": "2002-02-01-middle-kingdom-administration-trade.md",
+      "slug": "middle-kingdom-administration-trade",
+      "title": "Administration and Trade in the Middle Kingdom",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7871,
+      "topWord": "middle",
+      "topCount": 94,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-02-01-middle-kingdom-administration-trade.md",
+      "flaggedWords": [
+        {
+          "word": "middle",
+          "count": 94
+        },
+        {
+          "word": "kingdom",
+          "count": 94
+        },
+        {
+          "word": "economy",
+          "count": 77
+        },
+        {
+          "word": "goods",
+          "count": 69
+        },
+        {
+          "word": "grain",
+          "count": 66
+        },
+        {
+          "word": "administration",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "middle",
+          "count": 94
+        },
+        {
+          "word": "kingdom",
+          "count": 94
+        },
+        {
+          "word": "economy",
+          "count": 77
+        },
+        {
+          "word": "goods",
+          "count": 69
+        },
+        {
+          "word": "grain",
+          "count": 66
+        },
+        {
+          "word": "administration",
+          "count": 65
+        },
+        {
+          "word": "crown",
+          "count": 50
+        },
+        {
+          "word": "trade",
+          "count": 46
+        },
+        {
+          "word": "egypt",
+          "count": 46
+        },
+        {
+          "word": "royal",
+          "count": 44
+        },
+        {
+          "word": "officials",
+          "count": 41
+        },
+        {
+          "word": "egyptian",
+          "count": 40
+        },
+        {
+          "word": "gold",
+          "count": 39
+        },
+        {
+          "word": "labor",
+          "count": 37
+        },
+        {
+          "word": "nile",
+          "count": 36
+        },
+        {
+          "word": "land",
+          "count": 35
+        },
+        {
+          "word": "sea",
+          "count": 34
+        },
+        {
+          "word": "desert",
+          "count": 32
+        },
+        {
+          "word": "temple",
+          "count": 32
+        },
+        {
+          "word": "tax",
+          "count": 31
+        }
+      ]
+    },
+    {
       "filename": "2002-02-03-upsc-optional-comparison-top-4.md",
       "slug": "upsc-optional-comparison-top-4",
       "title": "UPSC Optionals Compared: Geography, History, PSIR, Sociology",
@@ -37981,6 +38253,132 @@
         {
           "word": "method",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2002-03-01-class-and-society-middle-kingdom.md",
+      "slug": "class-and-society-middle-kingdom",
+      "title": "Class and Society in Middle Kingdom Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7622,
+      "topWord": "middle",
+      "topCount": 137,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-03-01-class-and-society-middle-kingdom.md",
+      "flaggedWords": [
+        {
+          "word": "middle",
+          "count": 137
+        },
+        {
+          "word": "kingdom",
+          "count": 106
+        },
+        {
+          "word": "society",
+          "count": 78
+        },
+        {
+          "word": "class",
+          "count": 69
+        },
+        {
+          "word": "labor",
+          "count": 68
+        },
+        {
+          "word": "social",
+          "count": 64
+        }
+      ],
+      "top20": [
+        {
+          "word": "middle",
+          "count": 137
+        },
+        {
+          "word": "kingdom",
+          "count": 106
+        },
+        {
+          "word": "society",
+          "count": 78
+        },
+        {
+          "word": "class",
+          "count": 69
+        },
+        {
+          "word": "labor",
+          "count": 68
+        },
+        {
+          "word": "social",
+          "count": 64
+        },
+        {
+          "word": "egypt",
+          "count": 45
+        },
+        {
+          "word": "household",
+          "count": 45
+        },
+        {
+          "word": "family",
+          "count": 39
+        },
+        {
+          "word": "office",
+          "count": 38
+        },
+        {
+          "word": "egyptian",
+          "count": 33
+        },
+        {
+          "word": "scribal",
+          "count": 31
+        },
+        {
+          "word": "official",
+          "count": 30
+        },
+        {
+          "word": "scribe",
+          "count": 29
+        },
+        {
+          "word": "ladder",
+          "count": 28
+        },
+        {
+          "word": "officials",
+          "count": 27
+        },
+        {
+          "word": "held",
+          "count": 26
+        },
+        {
+          "word": "poor",
+          "count": 26
+        },
+        {
+          "word": "stratum",
+          "count": 25
+        },
+        {
+          "word": "egyptians",
+          "count": 25
         }
       ]
     },
@@ -39021,6 +39419,164 @@
       ]
     },
     {
+      "filename": "2002-04-01-osiris-abydos-cult-of-the-dead.md",
+      "slug": "osiris-abydos-cult-of-the-dead",
+      "title": "Osiris, Abydos, and the Cult of the Dead",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7167,
+      "topWord": "osiris",
+      "topCount": 169,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-04-01-osiris-abydos-cult-of-the-dead.md",
+      "flaggedWords": [
+        {
+          "word": "osiris",
+          "count": 169
+        },
+        {
+          "word": "dead",
+          "count": 161
+        },
+        {
+          "word": "god",
+          "count": 126
+        },
+        {
+          "word": "cult",
+          "count": 110
+        },
+        {
+          "word": "kingdom",
+          "count": 87
+        },
+        {
+          "word": "texts",
+          "count": 78
+        },
+        {
+          "word": "afterlife",
+          "count": 74
+        },
+        {
+          "word": "middle",
+          "count": 64
+        },
+        {
+          "word": "coffin",
+          "count": 63
+        },
+        {
+          "word": "abydos",
+          "count": 58
+        },
+        {
+          "word": "myth",
+          "count": 57
+        },
+        {
+          "word": "egyptian",
+          "count": 55
+        },
+        {
+          "word": "death",
+          "count": 55
+        },
+        {
+          "word": "person",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "osiris",
+          "count": 169
+        },
+        {
+          "word": "dead",
+          "count": 161
+        },
+        {
+          "word": "god",
+          "count": 126
+        },
+        {
+          "word": "cult",
+          "count": 110
+        },
+        {
+          "word": "kingdom",
+          "count": 87
+        },
+        {
+          "word": "texts",
+          "count": 78
+        },
+        {
+          "word": "afterlife",
+          "count": 74
+        },
+        {
+          "word": "middle",
+          "count": 64
+        },
+        {
+          "word": "coffin",
+          "count": 63
+        },
+        {
+          "word": "abydos",
+          "count": 58
+        },
+        {
+          "word": "myth",
+          "count": 57
+        },
+        {
+          "word": "egyptian",
+          "count": 55
+        },
+        {
+          "word": "death",
+          "count": 55
+        },
+        {
+          "word": "person",
+          "count": 51
+        },
+        {
+          "word": "royal",
+          "count": 50
+        },
+        {
+          "word": "resurrection",
+          "count": 47
+        },
+        {
+          "word": "king",
+          "count": 44
+        },
+        {
+          "word": "egyptians",
+          "count": 44
+        },
+        {
+          "word": "spells",
+          "count": 40
+        },
+        {
+          "word": "egypt",
+          "count": 34
+        }
+      ]
+    },
+    {
       "filename": "2002-04-03-upsc-anthropology-optional-guide.md",
       "slug": "upsc-anthropology-optional-guide",
       "title": "UPSC Optional Anthropology Complete Guide",
@@ -40051,6 +40607,156 @@
         {
           "word": "deep",
           "count": 49
+        }
+      ]
+    },
+    {
+      "filename": "2002-05-01-egypt-conquest-of-nubia.md",
+      "slug": "egypt-conquest-of-nubia",
+      "title": "How Egypt Conquered and Held Nubia",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8374,
+      "topWord": "egypt",
+      "topCount": 153,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-05-01-egypt-conquest-of-nubia.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 153
+        },
+        {
+          "word": "egyptian",
+          "count": 145
+        },
+        {
+          "word": "frontier",
+          "count": 89
+        },
+        {
+          "word": "nubian",
+          "count": 83
+        },
+        {
+          "word": "nubia",
+          "count": 75
+        },
+        {
+          "word": "kingdom",
+          "count": 75
+        },
+        {
+          "word": "forts",
+          "count": 66
+        },
+        {
+          "word": "cataract",
+          "count": 54
+        },
+        {
+          "word": "gold",
+          "count": 54
+        },
+        {
+          "word": "senusret",
+          "count": 52
+        },
+        {
+          "word": "semna",
+          "count": 52
+        },
+        {
+          "word": "kerma",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 153
+        },
+        {
+          "word": "egyptian",
+          "count": 145
+        },
+        {
+          "word": "frontier",
+          "count": 89
+        },
+        {
+          "word": "nubian",
+          "count": 83
+        },
+        {
+          "word": "nubia",
+          "count": 75
+        },
+        {
+          "word": "kingdom",
+          "count": 75
+        },
+        {
+          "word": "forts",
+          "count": 66
+        },
+        {
+          "word": "cataract",
+          "count": 54
+        },
+        {
+          "word": "gold",
+          "count": 54
+        },
+        {
+          "word": "senusret",
+          "count": 52
+        },
+        {
+          "word": "semna",
+          "count": 52
+        },
+        {
+          "word": "kerma",
+          "count": 51
+        },
+        {
+          "word": "iii",
+          "count": 46
+        },
+        {
+          "word": "south",
+          "count": 45
+        },
+        {
+          "word": "middle",
+          "count": 41
+        },
+        {
+          "word": "dynasty",
+          "count": 39
+        },
+        {
+          "word": "river",
+          "count": 39
+        },
+        {
+          "word": "trade",
+          "count": 39
+        },
+        {
+          "word": "built",
+          "count": 36
+        },
+        {
+          "word": "evidence",
+          "count": 36
         }
       ]
     },
@@ -41295,6 +42001,140 @@
       ]
     },
     {
+      "filename": "2002-06-01-old-kingdom-vs-middle-kingdom.md",
+      "slug": "old-kingdom-vs-middle-kingdom",
+      "title": "Old Kingdom vs Middle Kingdom Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6736,
+      "topWord": "age",
+      "topCount": 105,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-01-old-kingdom-vs-middle-kingdom.md",
+      "flaggedWords": [
+        {
+          "word": "age",
+          "count": 105
+        },
+        {
+          "word": "kingdom",
+          "count": 99
+        },
+        {
+          "word": "dynasty",
+          "count": 87
+        },
+        {
+          "word": "pyramid",
+          "count": 78
+        },
+        {
+          "word": "king",
+          "count": 75
+        },
+        {
+          "word": "middle",
+          "count": 62
+        },
+        {
+          "word": "egypt",
+          "count": 61
+        },
+        {
+          "word": "twelfth",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "age",
+          "count": 105
+        },
+        {
+          "word": "kingdom",
+          "count": 99
+        },
+        {
+          "word": "dynasty",
+          "count": 87
+        },
+        {
+          "word": "pyramid",
+          "count": 78
+        },
+        {
+          "word": "king",
+          "count": 75
+        },
+        {
+          "word": "middle",
+          "count": 62
+        },
+        {
+          "word": "egypt",
+          "count": 61
+        },
+        {
+          "word": "twelfth",
+          "count": 52
+        },
+        {
+          "word": "evidence",
+          "count": 38
+        },
+        {
+          "word": "egyptian",
+          "count": 37
+        },
+        {
+          "word": "royal",
+          "count": 36
+        },
+        {
+          "word": "country",
+          "count": 30
+        },
+        {
+          "word": "provincial",
+          "count": 30
+        },
+        {
+          "word": "criterion",
+          "count": 29
+        },
+        {
+          "word": "argument",
+          "count": 27
+        },
+        {
+          "word": "built",
+          "count": 24
+        },
+        {
+          "word": "texts",
+          "count": 24
+        },
+        {
+          "word": "earlier",
+          "count": 24
+        },
+        {
+          "word": "model",
+          "count": 23
+        },
+        {
+          "word": "fourth",
+          "count": 22
+        }
+      ]
+    },
+    {
       "filename": "2002-06-05-upsc-geography-optional-paper-2.md",
       "slug": "upsc-geography-optional-paper-2",
       "title": "UPSC Geography Optional Paper 2 Human and Indian Geography",
@@ -42513,6 +43353,160 @@
         {
           "word": "keeping",
           "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-01-hyksos-second-intermediate-period.md",
+      "slug": "hyksos-second-intermediate-period",
+      "title": "The Hyksos and the Second Intermediate Age",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8575,
+      "topWord": "egyptian",
+      "topCount": 175,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-01-hyksos-second-intermediate-period.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 175
+        },
+        {
+          "word": "egypt",
+          "count": 127
+        },
+        {
+          "word": "period",
+          "count": 124
+        },
+        {
+          "word": "hyksos",
+          "count": 121
+        },
+        {
+          "word": "dynasty",
+          "count": 115
+        },
+        {
+          "word": "kingdom",
+          "count": 101
+        },
+        {
+          "word": "intermediate",
+          "count": 73
+        },
+        {
+          "word": "king",
+          "count": 73
+        },
+        {
+          "word": "second",
+          "count": 72
+        },
+        {
+          "word": "middle",
+          "count": 66
+        },
+        {
+          "word": "era",
+          "count": 58
+        },
+        {
+          "word": "theban",
+          "count": 57
+        },
+        {
+          "word": "delta",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 175
+        },
+        {
+          "word": "egypt",
+          "count": 127
+        },
+        {
+          "word": "period",
+          "count": 124
+        },
+        {
+          "word": "hyksos",
+          "count": 121
+        },
+        {
+          "word": "dynasty",
+          "count": 115
+        },
+        {
+          "word": "kingdom",
+          "count": 101
+        },
+        {
+          "word": "intermediate",
+          "count": 73
+        },
+        {
+          "word": "king",
+          "count": 73
+        },
+        {
+          "word": "second",
+          "count": 72
+        },
+        {
+          "word": "middle",
+          "count": 66
+        },
+        {
+          "word": "era",
+          "count": 58
+        },
+        {
+          "word": "theban",
+          "count": 57
+        },
+        {
+          "word": "delta",
+          "count": 55
+        },
+        {
+          "word": "avaris",
+          "count": 49
+        },
+        {
+          "word": "evidence",
+          "count": 45
+        },
+        {
+          "word": "kings",
+          "count": 43
+        },
+        {
+          "word": "levantine",
+          "count": 38
+        },
+        {
+          "word": "century",
+          "count": 37
+        },
+        {
+          "word": "thebes",
+          "count": 37
+        },
+        {
+          "word": "age",
+          "count": 34
         }
       ]
     },
@@ -43803,6 +44797,132 @@
       ]
     },
     {
+      "filename": "2002-08-01-how-hyksos-took-over-egypt.md",
+      "slug": "how-hyksos-took-over-egypt",
+      "title": "How the Hyksos Took Over Ancient Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7556,
+      "topWord": "egyptian",
+      "topCount": 182,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-08-01-how-hyksos-took-over-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 182
+        },
+        {
+          "word": "egypt",
+          "count": 124
+        },
+        {
+          "word": "hyksos",
+          "count": 116
+        },
+        {
+          "word": "delta",
+          "count": 111
+        },
+        {
+          "word": "dynasty",
+          "count": 100
+        },
+        {
+          "word": "takeover",
+          "count": 61
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 182
+        },
+        {
+          "word": "egypt",
+          "count": 124
+        },
+        {
+          "word": "hyksos",
+          "count": 116
+        },
+        {
+          "word": "delta",
+          "count": 111
+        },
+        {
+          "word": "dynasty",
+          "count": 100
+        },
+        {
+          "word": "takeover",
+          "count": 61
+        },
+        {
+          "word": "kingdom",
+          "count": 47
+        },
+        {
+          "word": "eastern",
+          "count": 46
+        },
+        {
+          "word": "avaris",
+          "count": 43
+        },
+        {
+          "word": "king",
+          "count": 42
+        },
+        {
+          "word": "evidence",
+          "count": 41
+        },
+        {
+          "word": "trade",
+          "count": 41
+        },
+        {
+          "word": "royal",
+          "count": 40
+        },
+        {
+          "word": "middle",
+          "count": 37
+        },
+        {
+          "word": "foreign",
+          "count": 37
+        },
+        {
+          "word": "second",
+          "count": 34
+        },
+        {
+          "word": "century",
+          "count": 34
+        },
+        {
+          "word": "period",
+          "count": 33
+        },
+        {
+          "word": "capital",
+          "count": 32
+        },
+        {
+          "word": "power",
+          "count": 31
+        }
+      ]
+    },
+    {
       "filename": "2002-08-02-upsc-mains-introduction-conclusion-techniques.md",
       "slug": "upsc-mains-introduction-conclusion-techniques",
       "title": "UPSC Mains Introduction and Conclusion Techniques",
@@ -45082,6 +46202,132 @@
         {
           "word": "capacity",
           "count": 60
+        }
+      ]
+    },
+    {
+      "filename": "2002-09-01-chariot-and-bronze-age-egypt.md",
+      "slug": "chariot-and-bronze-age-egypt",
+      "title": "The Chariot and Bronze Age Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7742,
+      "topWord": "egyptian",
+      "topCount": 159,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-09-01-chariot-and-bronze-age-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 159
+        },
+        {
+          "word": "egypt",
+          "count": 141
+        },
+        {
+          "word": "chariot",
+          "count": 114
+        },
+        {
+          "word": "bronze",
+          "count": 99
+        },
+        {
+          "word": "vehicle",
+          "count": 56
+        },
+        {
+          "word": "age",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 159
+        },
+        {
+          "word": "egypt",
+          "count": 141
+        },
+        {
+          "word": "chariot",
+          "count": 114
+        },
+        {
+          "word": "bronze",
+          "count": 99
+        },
+        {
+          "word": "vehicle",
+          "count": 56
+        },
+        {
+          "word": "age",
+          "count": 51
+        },
+        {
+          "word": "horse",
+          "count": 48
+        },
+        {
+          "word": "tin",
+          "count": 42
+        },
+        {
+          "word": "chariots",
+          "count": 35
+        },
+        {
+          "word": "wheel",
+          "count": 34
+        },
+        {
+          "word": "bow",
+          "count": 34
+        },
+        {
+          "word": "technology",
+          "count": 33
+        },
+        {
+          "word": "kingdom",
+          "count": 31
+        },
+        {
+          "word": "workshop",
+          "count": 29
+        },
+        {
+          "word": "hyksos",
+          "count": 29
+        },
+        {
+          "word": "horses",
+          "count": 29
+        },
+        {
+          "word": "animal",
+          "count": 28
+        },
+        {
+          "word": "built",
+          "count": 28
+        },
+        {
+          "word": "single",
+          "count": 27
+        },
+        {
+          "word": "period",
+          "count": 27
         }
       ]
     },
@@ -46517,6 +47763,144 @@
       ]
     },
     {
+      "filename": "2002-10-01-war-that-drove-out-the-hyksos.md",
+      "slug": "war-that-drove-out-the-hyksos",
+      "title": "The War That Drove the Hyksos From Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7784,
+      "topWord": "egyptian",
+      "topCount": 109,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-10-01-war-that-drove-out-the-hyksos.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 109
+        },
+        {
+          "word": "egypt",
+          "count": 99
+        },
+        {
+          "word": "avaris",
+          "count": 88
+        },
+        {
+          "word": "campaign",
+          "count": 83
+        },
+        {
+          "word": "theban",
+          "count": 80
+        },
+        {
+          "word": "war",
+          "count": 73
+        },
+        {
+          "word": "king",
+          "count": 67
+        },
+        {
+          "word": "hyksos",
+          "count": 65
+        },
+        {
+          "word": "kamose",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 109
+        },
+        {
+          "word": "egypt",
+          "count": 99
+        },
+        {
+          "word": "avaris",
+          "count": 88
+        },
+        {
+          "word": "campaign",
+          "count": 83
+        },
+        {
+          "word": "theban",
+          "count": 80
+        },
+        {
+          "word": "war",
+          "count": 73
+        },
+        {
+          "word": "king",
+          "count": 67
+        },
+        {
+          "word": "hyksos",
+          "count": 65
+        },
+        {
+          "word": "kamose",
+          "count": 56
+        },
+        {
+          "word": "thebes",
+          "count": 49
+        },
+        {
+          "word": "fighting",
+          "count": 48
+        },
+        {
+          "word": "kingdom",
+          "count": 45
+        },
+        {
+          "word": "dynasty",
+          "count": 42
+        },
+        {
+          "word": "ahmose",
+          "count": 41
+        },
+        {
+          "word": "enemy",
+          "count": 40
+        },
+        {
+          "word": "army",
+          "count": 39
+        },
+        {
+          "word": "delta",
+          "count": 39
+        },
+        {
+          "word": "fleet",
+          "count": 36
+        },
+        {
+          "word": "middle",
+          "count": 34
+        },
+        {
+          "word": "chariot",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2002-10-04-upsc-gs3-environment-biodiversity-disaster-management.md",
       "slug": "upsc-gs3-environment-biodiversity-disaster-management",
       "title": "UPSC GS3 Environment, Biodiversity and Disaster Management",
@@ -47775,6 +49159,136 @@
         {
           "word": "article",
           "count": 54
+        }
+      ]
+    },
+    {
+      "filename": "2002-11-01-ahmose-i-founder-of-new-kingdom.md",
+      "slug": "ahmose-i-founder-of-new-kingdom",
+      "title": "Ahmose I: Founder of the New Kingdom",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7655,
+      "topWord": "ahmose",
+      "topCount": 168,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-11-01-ahmose-i-founder-of-new-kingdom.md",
+      "flaggedWords": [
+        {
+          "word": "ahmose",
+          "count": 168
+        },
+        {
+          "word": "egyptian",
+          "count": 83
+        },
+        {
+          "word": "reign",
+          "count": 82
+        },
+        {
+          "word": "egypt",
+          "count": 75
+        },
+        {
+          "word": "dynasty",
+          "count": 71
+        },
+        {
+          "word": "king",
+          "count": 54
+        },
+        {
+          "word": "evidence",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "ahmose",
+          "count": 168
+        },
+        {
+          "word": "egyptian",
+          "count": 83
+        },
+        {
+          "word": "reign",
+          "count": 82
+        },
+        {
+          "word": "egypt",
+          "count": 75
+        },
+        {
+          "word": "dynasty",
+          "count": 71
+        },
+        {
+          "word": "king",
+          "count": 54
+        },
+        {
+          "word": "evidence",
+          "count": 52
+        },
+        {
+          "word": "hyksos",
+          "count": 47
+        },
+        {
+          "word": "royal",
+          "count": 45
+        },
+        {
+          "word": "war",
+          "count": 41
+        },
+        {
+          "word": "kingdom",
+          "count": 39
+        },
+        {
+          "word": "stela",
+          "count": 37
+        },
+        {
+          "word": "son",
+          "count": 34
+        },
+        {
+          "word": "theban",
+          "count": 33
+        },
+        {
+          "word": "tomb",
+          "count": 33
+        },
+        {
+          "word": "abydos",
+          "count": 32
+        },
+        {
+          "word": "delta",
+          "count": 31
+        },
+        {
+          "word": "avaris",
+          "count": 30
+        },
+        {
+          "word": "reading",
+          "count": 28
+        },
+        {
+          "word": "kings",
+          "count": 28
         }
       ]
     },
@@ -51553,6 +53067,140 @@
       ]
     },
     {
+      "filename": "2003-02-15-hire-an-electrician-complete-guide.md",
+      "slug": "hire-an-electrician-complete-guide",
+      "title": "How to Hire an Electrician: Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8051,
+      "topWord": "electrician",
+      "topCount": 175,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-02-15-hire-an-electrician-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "electrician",
+          "count": 175
+        },
+        {
+          "word": "electrical",
+          "count": 123
+        },
+        {
+          "word": "permit",
+          "count": 93
+        },
+        {
+          "word": "job",
+          "count": 77
+        },
+        {
+          "word": "panel",
+          "count": 73
+        },
+        {
+          "word": "licensed",
+          "count": 68
+        },
+        {
+          "word": "inspection",
+          "count": 66
+        },
+        {
+          "word": "circuit",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "electrician",
+          "count": 175
+        },
+        {
+          "word": "electrical",
+          "count": 123
+        },
+        {
+          "word": "permit",
+          "count": 93
+        },
+        {
+          "word": "job",
+          "count": 77
+        },
+        {
+          "word": "panel",
+          "count": 73
+        },
+        {
+          "word": "licensed",
+          "count": 68
+        },
+        {
+          "word": "inspection",
+          "count": 66
+        },
+        {
+          "word": "circuit",
+          "count": 51
+        },
+        {
+          "word": "service",
+          "count": 50
+        },
+        {
+          "word": "license",
+          "count": 46
+        },
+        {
+          "word": "project",
+          "count": 45
+        },
+        {
+          "word": "wiring",
+          "count": 43
+        },
+        {
+          "word": "contractor",
+          "count": 37
+        },
+        {
+          "word": "quote",
+          "count": 34
+        },
+        {
+          "word": "cannot",
+          "count": 31
+        },
+        {
+          "word": "scope",
+          "count": 31
+        },
+        {
+          "word": "code",
+          "count": 30
+        },
+        {
+          "word": "power",
+          "count": 30
+        },
+        {
+          "word": "hire",
+          "count": 28
+        },
+        {
+          "word": "understanding",
+          "count": 26
+        }
+      ]
+    },
+    {
       "filename": "2003-02-16-upsc-csat-quantitative-aptitude.md",
       "slug": "upsc-csat-quantitative-aptitude",
       "title": "UPSC CSAT: Quantitative Aptitude and Data Interpretation",
@@ -53655,6 +55303,156 @@
         {
           "word": "provides",
           "count": 46
+        }
+      ]
+    },
+    {
+      "filename": "2003-04-15-electrician-cost-guide.md",
+      "slug": "electrician-cost-guide",
+      "title": "Electrician Cost Guide: What to Expect",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7341,
+      "topWord": "electrician",
+      "topCount": 118,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-04-15-electrician-cost-guide.md",
+      "flaggedWords": [
+        {
+          "word": "electrician",
+          "count": 118
+        },
+        {
+          "word": "quote",
+          "count": 114
+        },
+        {
+          "word": "panel",
+          "count": 110
+        },
+        {
+          "word": "job",
+          "count": 102
+        },
+        {
+          "word": "electrical",
+          "count": 84
+        },
+        {
+          "word": "wiring",
+          "count": 62
+        },
+        {
+          "word": "labor",
+          "count": 60
+        },
+        {
+          "word": "cost",
+          "count": 58
+        },
+        {
+          "word": "code",
+          "count": 56
+        },
+        {
+          "word": "upgrade",
+          "count": 54
+        },
+        {
+          "word": "price",
+          "count": 52
+        },
+        {
+          "word": "permit",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "electrician",
+          "count": 118
+        },
+        {
+          "word": "quote",
+          "count": 114
+        },
+        {
+          "word": "panel",
+          "count": 110
+        },
+        {
+          "word": "job",
+          "count": 102
+        },
+        {
+          "word": "electrical",
+          "count": 84
+        },
+        {
+          "word": "wiring",
+          "count": 62
+        },
+        {
+          "word": "labor",
+          "count": 60
+        },
+        {
+          "word": "cost",
+          "count": 58
+        },
+        {
+          "word": "code",
+          "count": 56
+        },
+        {
+          "word": "upgrade",
+          "count": 54
+        },
+        {
+          "word": "price",
+          "count": 52
+        },
+        {
+          "word": "permit",
+          "count": 52
+        },
+        {
+          "word": "rewire",
+          "count": 45
+        },
+        {
+          "word": "circuit",
+          "count": 44
+        },
+        {
+          "word": "materials",
+          "count": 44
+        },
+        {
+          "word": "service",
+          "count": 41
+        },
+        {
+          "word": "wire",
+          "count": 41
+        },
+        {
+          "word": "outlet",
+          "count": 39
+        },
+        {
+          "word": "single",
+          "count": 37
+        },
+        {
+          "word": "older",
+          "count": 37
         }
       ]
     },
@@ -55870,6 +57668,140 @@
       ]
     },
     {
+      "filename": "2003-06-15-how-to-vet-an-electrician.md",
+      "slug": "how-to-vet-an-electrician",
+      "title": "How to Vet an Electrician Before Hiring",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6621,
+      "topWord": "operator",
+      "topCount": 175,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-06-15-how-to-vet-an-electrician.md",
+      "flaggedWords": [
+        {
+          "word": "operator",
+          "count": 175
+        },
+        {
+          "word": "permit",
+          "count": 92
+        },
+        {
+          "word": "job",
+          "count": 92
+        },
+        {
+          "word": "license",
+          "count": 87
+        },
+        {
+          "word": "vetting",
+          "count": 71
+        },
+        {
+          "word": "insurance",
+          "count": 69
+        },
+        {
+          "word": "electrician",
+          "count": 57
+        },
+        {
+          "word": "ask",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "operator",
+          "count": 175
+        },
+        {
+          "word": "permit",
+          "count": 92
+        },
+        {
+          "word": "job",
+          "count": 92
+        },
+        {
+          "word": "license",
+          "count": 87
+        },
+        {
+          "word": "vetting",
+          "count": 71
+        },
+        {
+          "word": "insurance",
+          "count": 69
+        },
+        {
+          "word": "electrician",
+          "count": 57
+        },
+        {
+          "word": "ask",
+          "count": 55
+        },
+        {
+          "word": "person",
+          "count": 46
+        },
+        {
+          "word": "confirm",
+          "count": 45
+        },
+        {
+          "word": "quote",
+          "count": 44
+        },
+        {
+          "word": "inspection",
+          "count": 42
+        },
+        {
+          "word": "electrical",
+          "count": 42
+        },
+        {
+          "word": "price",
+          "count": 32
+        },
+        {
+          "word": "scope",
+          "count": 32
+        },
+        {
+          "word": "homeowner",
+          "count": 31
+        },
+        {
+          "word": "master",
+          "count": 31
+        },
+        {
+          "word": "licensed",
+          "count": 30
+        },
+        {
+          "word": "questions",
+          "count": 29
+        },
+        {
+          "word": "checks",
+          "count": 28
+        }
+      ]
+    },
+    {
       "filename": "2003-06-18-upsc-registration-application.md",
       "slug": "upsc-registration-application",
       "title": "UPSC Registration and Application Process",
@@ -57240,6 +59172,1136 @@
         {
           "word": "current",
           "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2003-08-15-electrical-warning-signs.md",
+      "slug": "electrical-warning-signs",
+      "title": "Electrical Warning Signs of a Serious Problem",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7279,
+      "topWord": "outlet",
+      "topCount": 133,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-08-15-electrical-warning-signs.md",
+      "flaggedWords": [
+        {
+          "word": "outlet",
+          "count": 133
+        },
+        {
+          "word": "fault",
+          "count": 93
+        },
+        {
+          "word": "breaker",
+          "count": 89
+        },
+        {
+          "word": "heat",
+          "count": 78
+        },
+        {
+          "word": "connection",
+          "count": 78
+        },
+        {
+          "word": "panel",
+          "count": 77
+        },
+        {
+          "word": "circuit",
+          "count": 77
+        },
+        {
+          "word": "smell",
+          "count": 72
+        },
+        {
+          "word": "wiring",
+          "count": 64
+        },
+        {
+          "word": "signs",
+          "count": 54
+        },
+        {
+          "word": "warm",
+          "count": 54
+        },
+        {
+          "word": "electrician",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "outlet",
+          "count": 133
+        },
+        {
+          "word": "fault",
+          "count": 93
+        },
+        {
+          "word": "breaker",
+          "count": 89
+        },
+        {
+          "word": "heat",
+          "count": 78
+        },
+        {
+          "word": "connection",
+          "count": 78
+        },
+        {
+          "word": "panel",
+          "count": 77
+        },
+        {
+          "word": "circuit",
+          "count": 77
+        },
+        {
+          "word": "smell",
+          "count": 72
+        },
+        {
+          "word": "wiring",
+          "count": 64
+        },
+        {
+          "word": "signs",
+          "count": 54
+        },
+        {
+          "word": "warm",
+          "count": 54
+        },
+        {
+          "word": "electrician",
+          "count": 54
+        },
+        {
+          "word": "sign",
+          "count": 50
+        },
+        {
+          "word": "loose",
+          "count": 49
+        },
+        {
+          "word": "fixture",
+          "count": 48
+        },
+        {
+          "word": "switch",
+          "count": 47
+        },
+        {
+          "word": "current",
+          "count": 47
+        },
+        {
+          "word": "electrical",
+          "count": 46
+        },
+        {
+          "word": "appliance",
+          "count": 44
+        },
+        {
+          "word": "ground",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "filename": "2003-10-01-electrical-diy-or-call-a-pro.md",
+      "slug": "electrical-diy-or-call-a-pro",
+      "title": "Electrical Work: What You Can and Cannot DIY",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 5892,
+      "topWord": "box",
+      "topCount": 69,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-10-01-electrical-diy-or-call-a-pro.md",
+      "flaggedWords": [
+        {
+          "word": "box",
+          "count": 69
+        },
+        {
+          "word": "breaker",
+          "count": 62
+        },
+        {
+          "word": "permit",
+          "count": 58
+        },
+        {
+          "word": "circuit",
+          "count": 57
+        },
+        {
+          "word": "homeowner",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "box",
+          "count": 69
+        },
+        {
+          "word": "breaker",
+          "count": 62
+        },
+        {
+          "word": "permit",
+          "count": 58
+        },
+        {
+          "word": "circuit",
+          "count": 57
+        },
+        {
+          "word": "homeowner",
+          "count": 55
+        },
+        {
+          "word": "job",
+          "count": 50
+        },
+        {
+          "word": "panel",
+          "count": 50
+        },
+        {
+          "word": "electrical",
+          "count": 44
+        },
+        {
+          "word": "anything",
+          "count": 35
+        },
+        {
+          "word": "licensed",
+          "count": 30
+        },
+        {
+          "word": "conductors",
+          "count": 30
+        },
+        {
+          "word": "diy",
+          "count": 29
+        },
+        {
+          "word": "list",
+          "count": 28
+        },
+        {
+          "word": "fire",
+          "count": 27
+        },
+        {
+          "word": "load",
+          "count": 27
+        },
+        {
+          "word": "electrician",
+          "count": 27
+        },
+        {
+          "word": "yours",
+          "count": 25
+        },
+        {
+          "word": "fixture",
+          "count": 24
+        },
+        {
+          "word": "rated",
+          "count": 23
+        },
+        {
+          "word": "inspection",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2003-12-01-repair-rewire-or-upgrade-panel.md",
+      "slug": "repair-rewire-or-upgrade-panel",
+      "title": "Repair, Rewire or Upgrade Your Electrical Panel?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 5828,
+      "topWord": "service",
+      "topCount": 125,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-12-01-repair-rewire-or-upgrade-panel.md",
+      "flaggedWords": [
+        {
+          "word": "service",
+          "count": 125
+        },
+        {
+          "word": "equipment",
+          "count": 99
+        },
+        {
+          "word": "upgrade",
+          "count": 56
+        },
+        {
+          "word": "capacity",
+          "count": 52
+        },
+        {
+          "word": "load",
+          "count": 52
+        },
+        {
+          "word": "finding",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "service",
+          "count": 125
+        },
+        {
+          "word": "equipment",
+          "count": 99
+        },
+        {
+          "word": "upgrade",
+          "count": 56
+        },
+        {
+          "word": "capacity",
+          "count": 52
+        },
+        {
+          "word": "load",
+          "count": 52
+        },
+        {
+          "word": "finding",
+          "count": 52
+        },
+        {
+          "word": "breaker",
+          "count": 44
+        },
+        {
+          "word": "job",
+          "count": 41
+        },
+        {
+          "word": "heat",
+          "count": 40
+        },
+        {
+          "word": "quote",
+          "count": 38
+        },
+        {
+          "word": "calculation",
+          "count": 38
+        },
+        {
+          "word": "circuits",
+          "count": 35
+        },
+        {
+          "word": "electrician",
+          "count": 35
+        },
+        {
+          "word": "panel",
+          "count": 34
+        },
+        {
+          "word": "box",
+          "count": 33
+        },
+        {
+          "word": "worth",
+          "count": 33
+        },
+        {
+          "word": "problem",
+          "count": 30
+        },
+        {
+          "word": "ask",
+          "count": 30
+        },
+        {
+          "word": "rewire",
+          "count": 29
+        },
+        {
+          "word": "electrical",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2004-02-01-electrical-inspection-what-to-expect.md",
+      "slug": "electrical-inspection-what-to-expect",
+      "title": "What Happens During an Electrical Inspection",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6913,
+      "topWord": "panel",
+      "topCount": 91,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2004-02-01-electrical-inspection-what-to-expect.md",
+      "flaggedWords": [
+        {
+          "word": "panel",
+          "count": 91
+        },
+        {
+          "word": "permit",
+          "count": 88
+        },
+        {
+          "word": "inspection",
+          "count": 73
+        },
+        {
+          "word": "electrician",
+          "count": 68
+        },
+        {
+          "word": "inspector",
+          "count": 56
+        },
+        {
+          "word": "electrical",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "panel",
+          "count": 91
+        },
+        {
+          "word": "permit",
+          "count": 88
+        },
+        {
+          "word": "inspection",
+          "count": 73
+        },
+        {
+          "word": "electrician",
+          "count": 68
+        },
+        {
+          "word": "inspector",
+          "count": 56
+        },
+        {
+          "word": "electrical",
+          "count": 53
+        },
+        {
+          "word": "rough",
+          "count": 50
+        },
+        {
+          "word": "homeowner",
+          "count": 49
+        },
+        {
+          "word": "final",
+          "count": 42
+        },
+        {
+          "word": "breaker",
+          "count": 42
+        },
+        {
+          "word": "code",
+          "count": 41
+        },
+        {
+          "word": "review",
+          "count": 36
+        },
+        {
+          "word": "conductor",
+          "count": 35
+        },
+        {
+          "word": "fault",
+          "count": 35
+        },
+        {
+          "word": "devices",
+          "count": 34
+        },
+        {
+          "word": "grounding",
+          "count": 34
+        },
+        {
+          "word": "stage",
+          "count": 34
+        },
+        {
+          "word": "job",
+          "count": 33
+        },
+        {
+          "word": "project",
+          "count": 33
+        },
+        {
+          "word": "scope",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2004-03-15-electrical-permits-and-code.md",
+      "slug": "electrical-permits-and-code",
+      "title": "Electrical Permits, Code and Consumer Rights",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6730,
+      "topWord": "electrical",
+      "topCount": 73,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2004-03-15-electrical-permits-and-code.md",
+      "flaggedWords": [
+        {
+          "word": "electrical",
+          "count": 73
+        },
+        {
+          "word": "contractor",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "electrical",
+          "count": 73
+        },
+        {
+          "word": "contractor",
+          "count": 65
+        },
+        {
+          "word": "scope",
+          "count": 47
+        },
+        {
+          "word": "electrician",
+          "count": 46
+        },
+        {
+          "word": "inspection",
+          "count": 46
+        },
+        {
+          "word": "job",
+          "count": 42
+        },
+        {
+          "word": "department",
+          "count": 41
+        },
+        {
+          "word": "licensed",
+          "count": 39
+        },
+        {
+          "word": "permit",
+          "count": 38
+        },
+        {
+          "word": "standard",
+          "count": 37
+        },
+        {
+          "word": "jurisdiction",
+          "count": 36
+        },
+        {
+          "word": "building",
+          "count": 32
+        },
+        {
+          "word": "filing",
+          "count": 31
+        },
+        {
+          "word": "answer",
+          "count": 30
+        },
+        {
+          "word": "unpermitted",
+          "count": 30
+        },
+        {
+          "word": "circuit",
+          "count": 29
+        },
+        {
+          "word": "file",
+          "count": 29
+        },
+        {
+          "word": "license",
+          "count": 29
+        },
+        {
+          "word": "authorization",
+          "count": 29
+        },
+        {
+          "word": "address",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2004-05-15-electrician-scams-red-flags.md",
+      "slug": "electrician-scams-red-flags",
+      "title": "Electrician Scams and Red Flags",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6291,
+      "topWord": "panel",
+      "topCount": 80,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2004-05-15-electrician-scams-red-flags.md",
+      "flaggedWords": [
+        {
+          "word": "panel",
+          "count": 80
+        },
+        {
+          "word": "job",
+          "count": 75
+        },
+        {
+          "word": "electrician",
+          "count": 63
+        },
+        {
+          "word": "shop",
+          "count": 57
+        },
+        {
+          "word": "electrical",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "panel",
+          "count": 80
+        },
+        {
+          "word": "job",
+          "count": 75
+        },
+        {
+          "word": "electrician",
+          "count": 63
+        },
+        {
+          "word": "shop",
+          "count": 57
+        },
+        {
+          "word": "electrical",
+          "count": 54
+        },
+        {
+          "word": "cannot",
+          "count": 44
+        },
+        {
+          "word": "diagnosis",
+          "count": 44
+        },
+        {
+          "word": "honest",
+          "count": 44
+        },
+        {
+          "word": "price",
+          "count": 43
+        },
+        {
+          "word": "door",
+          "count": 41
+        },
+        {
+          "word": "play",
+          "count": 40
+        },
+        {
+          "word": "second",
+          "count": 39
+        },
+        {
+          "word": "license",
+          "count": 37
+        },
+        {
+          "word": "quote",
+          "count": 33
+        },
+        {
+          "word": "finding",
+          "count": 32
+        },
+        {
+          "word": "permit",
+          "count": 32
+        },
+        {
+          "word": "claim",
+          "count": 31
+        },
+        {
+          "word": "ask",
+          "count": 27
+        },
+        {
+          "word": "genuinely",
+          "count": 24
+        },
+        {
+          "word": "says",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2004-07-15-electrical-emergency-what-to-do.md",
+      "slug": "electrical-emergency-what-to-do",
+      "title": "Electrical Emergencies: What to Do Right Now",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 5861,
+      "topWord": "panel",
+      "topCount": 115,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2004-07-15-electrical-emergency-what-to-do.md",
+      "flaggedWords": [
+        {
+          "word": "panel",
+          "count": 115
+        },
+        {
+          "word": "emergency",
+          "count": 75
+        },
+        {
+          "word": "breaker",
+          "count": 69
+        },
+        {
+          "word": "circuit",
+          "count": 69
+        },
+        {
+          "word": "electrician",
+          "count": 55
+        },
+        {
+          "word": "fault",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "panel",
+          "count": 115
+        },
+        {
+          "word": "emergency",
+          "count": 75
+        },
+        {
+          "word": "breaker",
+          "count": 69
+        },
+        {
+          "word": "circuit",
+          "count": 69
+        },
+        {
+          "word": "electrician",
+          "count": 55
+        },
+        {
+          "word": "fault",
+          "count": 54
+        },
+        {
+          "word": "power",
+          "count": 50
+        },
+        {
+          "word": "utility",
+          "count": 45
+        },
+        {
+          "word": "fire",
+          "count": 44
+        },
+        {
+          "word": "outlet",
+          "count": 42
+        },
+        {
+          "word": "smell",
+          "count": 40
+        },
+        {
+          "word": "electrical",
+          "count": 39
+        },
+        {
+          "word": "burning",
+          "count": 34
+        },
+        {
+          "word": "problem",
+          "count": 32
+        },
+        {
+          "word": "hazard",
+          "count": 31
+        },
+        {
+          "word": "meter",
+          "count": 31
+        },
+        {
+          "word": "main",
+          "count": 28
+        },
+        {
+          "word": "cannot",
+          "count": 27
+        },
+        {
+          "word": "touch",
+          "count": 26
+        },
+        {
+          "word": "nothing",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "filename": "2004-09-01-hire-a-roofer-complete-guide.md",
+      "slug": "hire-a-roofer-complete-guide",
+      "title": "How to Hire a Roofer: The Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7946,
+      "topWord": "roof",
+      "topCount": 206,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2004-09-01-hire-a-roofer-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "roof",
+          "count": 206
+        },
+        {
+          "word": "roofing",
+          "count": 64
+        },
+        {
+          "word": "covering",
+          "count": 54
+        },
+        {
+          "word": "contractor",
+          "count": 54
+        },
+        {
+          "word": "job",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "roof",
+          "count": 206
+        },
+        {
+          "word": "roofing",
+          "count": 64
+        },
+        {
+          "word": "covering",
+          "count": 54
+        },
+        {
+          "word": "contractor",
+          "count": 54
+        },
+        {
+          "word": "job",
+          "count": 51
+        },
+        {
+          "word": "insurance",
+          "count": 49
+        },
+        {
+          "word": "roofer",
+          "count": 44
+        },
+        {
+          "word": "inspection",
+          "count": 44
+        },
+        {
+          "word": "deck",
+          "count": 44
+        },
+        {
+          "word": "flashing",
+          "count": 44
+        },
+        {
+          "word": "material",
+          "count": 42
+        },
+        {
+          "word": "trade",
+          "count": 41
+        },
+        {
+          "word": "attic",
+          "count": 38
+        },
+        {
+          "word": "homeowners",
+          "count": 36
+        },
+        {
+          "word": "crew",
+          "count": 36
+        },
+        {
+          "word": "company",
+          "count": 35
+        },
+        {
+          "word": "ventilation",
+          "count": 34
+        },
+        {
+          "word": "homeowner",
+          "count": 32
+        },
+        {
+          "word": "cannot",
+          "count": 31
+        },
+        {
+          "word": "repair",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "filename": "2004-11-01-roofing-cost-guide.md",
+      "slug": "roofing-cost-guide",
+      "title": "Roofing Cost Guide: Repair and Replacement",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6743,
+      "topWord": "roof",
+      "topCount": 143,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2004-11-01-roofing-cost-guide.md",
+      "flaggedWords": [
+        {
+          "word": "roof",
+          "count": 143
+        },
+        {
+          "word": "roofer",
+          "count": 78
+        },
+        {
+          "word": "square",
+          "count": 77
+        },
+        {
+          "word": "material",
+          "count": 68
+        },
+        {
+          "word": "roofing",
+          "count": 57
+        },
+        {
+          "word": "rate",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "roof",
+          "count": 143
+        },
+        {
+          "word": "roofer",
+          "count": 78
+        },
+        {
+          "word": "square",
+          "count": 77
+        },
+        {
+          "word": "material",
+          "count": 68
+        },
+        {
+          "word": "roofing",
+          "count": 57
+        },
+        {
+          "word": "rate",
+          "count": 52
+        },
+        {
+          "word": "tear",
+          "count": 50
+        },
+        {
+          "word": "quote",
+          "count": 47
+        },
+        {
+          "word": "cost",
+          "count": 46
+        },
+        {
+          "word": "repair",
+          "count": 46
+        },
+        {
+          "word": "job",
+          "count": 44
+        },
+        {
+          "word": "crew",
+          "count": 42
+        },
+        {
+          "word": "replacement",
+          "count": 40
+        },
+        {
+          "word": "price",
+          "count": 39
+        },
+        {
+          "word": "ask",
+          "count": 39
+        },
+        {
+          "word": "money",
+          "count": 35
+        },
+        {
+          "word": "labor",
+          "count": 33
+        },
+        {
+          "word": "scope",
+          "count": 32
+        },
+        {
+          "word": "decking",
+          "count": 31
+        },
+        {
+          "word": "quotes",
+          "count": 30
         }
       ]
     },
@@ -430064,6 +433126,160 @@
       ]
     },
     {
+      "filename": "2026-07-01-signs-russia-rebuilding-for-west.md",
+      "slug": "signs-russia-rebuilding-for-west",
+      "title": "Signs Russia Is Rebuilding for the West",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7557,
+      "topWord": "force",
+      "topCount": 130,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-01-signs-russia-rebuilding-for-west.md",
+      "flaggedWords": [
+        {
+          "word": "force",
+          "count": 130
+        },
+        {
+          "word": "orientation",
+          "count": 123
+        },
+        {
+          "word": "war",
+          "count": 112
+        },
+        {
+          "word": "reading",
+          "count": 101
+        },
+        {
+          "word": "watcher",
+          "count": 98
+        },
+        {
+          "word": "tells",
+          "count": 89
+        },
+        {
+          "word": "westward",
+          "count": 88
+        },
+        {
+          "word": "toward",
+          "count": 83
+        },
+        {
+          "word": "warning",
+          "count": 71
+        },
+        {
+          "word": "baseline",
+          "count": 69
+        },
+        {
+          "word": "rebuild",
+          "count": 59
+        },
+        {
+          "word": "shape",
+          "count": 55
+        },
+        {
+          "word": "read",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "force",
+          "count": 130
+        },
+        {
+          "word": "orientation",
+          "count": 123
+        },
+        {
+          "word": "war",
+          "count": 112
+        },
+        {
+          "word": "reading",
+          "count": 101
+        },
+        {
+          "word": "watcher",
+          "count": 98
+        },
+        {
+          "word": "tells",
+          "count": 89
+        },
+        {
+          "word": "westward",
+          "count": 88
+        },
+        {
+          "word": "toward",
+          "count": 83
+        },
+        {
+          "word": "warning",
+          "count": 71
+        },
+        {
+          "word": "baseline",
+          "count": 69
+        },
+        {
+          "word": "rebuild",
+          "count": 59
+        },
+        {
+          "word": "shape",
+          "count": 55
+        },
+        {
+          "word": "read",
+          "count": 54
+        },
+        {
+          "word": "signal",
+          "count": 49
+        },
+        {
+          "word": "drift",
+          "count": 36
+        },
+        {
+          "word": "fight",
+          "count": 35
+        },
+        {
+          "word": "design",
+          "count": 34
+        },
+        {
+          "word": "intent",
+          "count": 33
+        },
+        {
+          "word": "replacement",
+          "count": 32
+        },
+        {
+          "word": "current",
+          "count": 32
+        }
+      ]
+    },
+    {
       "filename": "2026-07-01-usa-vs-bosnia-preview.md",
       "slug": "usa-vs-bosnia-preview",
       "title": "USA vs Bosnia: World Cup 2026 Round of 32 Preview",
@@ -435290,6 +438506,274 @@
       ]
     },
     {
+      "filename": "2026-07-10-spain-vs-belgium-preview.md",
+      "slug": "spain-vs-belgium-preview",
+      "title": "Spain vs Belgium: World Cup 2026 Quarter-Final Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7348,
+      "topWord": "spain",
+      "topCount": 263,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-10-spain-vs-belgium-preview.md",
+      "flaggedWords": [
+        {
+          "word": "spain",
+          "count": 263
+        },
+        {
+          "word": "belgium",
+          "count": 256
+        },
+        {
+          "word": "match",
+          "count": 82
+        },
+        {
+          "word": "tournament",
+          "count": 76
+        },
+        {
+          "word": "final",
+          "count": 58
+        },
+        {
+          "word": "matches",
+          "count": 52
+        },
+        {
+          "word": "ball",
+          "count": 52
+        },
+        {
+          "word": "cup",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "spain",
+          "count": 263
+        },
+        {
+          "word": "belgium",
+          "count": 256
+        },
+        {
+          "word": "match",
+          "count": 82
+        },
+        {
+          "word": "tournament",
+          "count": 76
+        },
+        {
+          "word": "final",
+          "count": 58
+        },
+        {
+          "word": "matches",
+          "count": 52
+        },
+        {
+          "word": "ball",
+          "count": 52
+        },
+        {
+          "word": "cup",
+          "count": 51
+        },
+        {
+          "word": "four",
+          "count": 50
+        },
+        {
+          "word": "goals",
+          "count": 49
+        },
+        {
+          "word": "five",
+          "count": 48
+        },
+        {
+          "word": "minutes",
+          "count": 47
+        },
+        {
+          "word": "group",
+          "count": 39
+        },
+        {
+          "word": "win",
+          "count": 39
+        },
+        {
+          "word": "won",
+          "count": 37
+        },
+        {
+          "word": "bruyne",
+          "count": 37
+        },
+        {
+          "word": "quarter",
+          "count": 36
+        },
+        {
+          "word": "half",
+          "count": 36
+        },
+        {
+          "word": "goal",
+          "count": 35
+        },
+        {
+          "word": "ninety",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-11-argentina-vs-switzerland-preview.md",
+      "slug": "argentina-vs-switzerland-preview",
+      "title": "Argentina vs Switzerland World Cup 2026 Quarterfinal Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7350,
+      "topWord": "argentina",
+      "topCount": 206,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-11-argentina-vs-switzerland-preview.md",
+      "flaggedWords": [
+        {
+          "word": "argentina",
+          "count": 206
+        },
+        {
+          "word": "switzerland",
+          "count": 173
+        },
+        {
+          "word": "cup",
+          "count": 92
+        },
+        {
+          "word": "tournament",
+          "count": 71
+        },
+        {
+          "word": "match",
+          "count": 67
+        },
+        {
+          "word": "messi",
+          "count": 63
+        },
+        {
+          "word": "minutes",
+          "count": 54
+        },
+        {
+          "word": "goals",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "argentina",
+          "count": 206
+        },
+        {
+          "word": "switzerland",
+          "count": 173
+        },
+        {
+          "word": "cup",
+          "count": 92
+        },
+        {
+          "word": "tournament",
+          "count": 71
+        },
+        {
+          "word": "match",
+          "count": 67
+        },
+        {
+          "word": "messi",
+          "count": 63
+        },
+        {
+          "word": "minutes",
+          "count": 54
+        },
+        {
+          "word": "goals",
+          "count": 54
+        },
+        {
+          "word": "scored",
+          "count": 42
+        },
+        {
+          "word": "block",
+          "count": 42
+        },
+        {
+          "word": "won",
+          "count": 41
+        },
+        {
+          "word": "yakin",
+          "count": 40
+        },
+        {
+          "word": "goal",
+          "count": 40
+        },
+        {
+          "word": "four",
+          "count": 38
+        },
+        {
+          "word": "quarterfinal",
+          "count": 36
+        },
+        {
+          "word": "team",
+          "count": 35
+        },
+        {
+          "word": "matches",
+          "count": 34
+        },
+        {
+          "word": "minute",
+          "count": 34
+        },
+        {
+          "word": "egypt",
+          "count": 34
+        },
+        {
+          "word": "group",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2026-07-11-h1b-fee-ruling-economic-stakes.md",
       "slug": "h1b-fee-ruling-economic-stakes",
       "title": "H-1B Fee Ruling: The Economic Stakes the Court Weighed",
@@ -435432,6 +438916,752 @@
       ]
     },
     {
+      "filename": "2026-07-11-norway-vs-england-preview.md",
+      "slug": "norway-vs-england-preview",
+      "title": "Norway vs England: World Cup 2026 Quarter-Final Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7564,
+      "topWord": "england",
+      "topCount": 230,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-11-norway-vs-england-preview.md",
+      "flaggedWords": [
+        {
+          "word": "england",
+          "count": 230
+        },
+        {
+          "word": "norway",
+          "count": 210
+        },
+        {
+          "word": "tournament",
+          "count": 79
+        },
+        {
+          "word": "match",
+          "count": 72
+        },
+        {
+          "word": "cup",
+          "count": 60
+        },
+        {
+          "word": "brazil",
+          "count": 59
+        },
+        {
+          "word": "haaland",
+          "count": 57
+        },
+        {
+          "word": "ball",
+          "count": 54
+        },
+        {
+          "word": "four",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "england",
+          "count": 230
+        },
+        {
+          "word": "norway",
+          "count": 210
+        },
+        {
+          "word": "tournament",
+          "count": 79
+        },
+        {
+          "word": "match",
+          "count": 72
+        },
+        {
+          "word": "cup",
+          "count": 60
+        },
+        {
+          "word": "brazil",
+          "count": 59
+        },
+        {
+          "word": "haaland",
+          "count": 57
+        },
+        {
+          "word": "ball",
+          "count": 54
+        },
+        {
+          "word": "four",
+          "count": 52
+        },
+        {
+          "word": "final",
+          "count": 49
+        },
+        {
+          "word": "odegaard",
+          "count": 45
+        },
+        {
+          "word": "miami",
+          "count": 42
+        },
+        {
+          "word": "quarter",
+          "count": 40
+        },
+        {
+          "word": "won",
+          "count": 40
+        },
+        {
+          "word": "five",
+          "count": 38
+        },
+        {
+          "word": "goals",
+          "count": 37
+        },
+        {
+          "word": "ten",
+          "count": 35
+        },
+        {
+          "word": "minutes",
+          "count": 35
+        },
+        {
+          "word": "kane",
+          "count": 35
+        },
+        {
+          "word": "half",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-11-russias-missile-and-drone-arsenal.md",
+      "slug": "russias-missile-and-drone-arsenal",
+      "title": "Russia's Missile and Drone Arsenal",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8013,
+      "topWord": "tier",
+      "topCount": 217,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-11-russias-missile-and-drone-arsenal.md",
+      "flaggedWords": [
+        {
+          "word": "tier",
+          "count": 217
+        },
+        {
+          "word": "arsenal",
+          "count": 194
+        },
+        {
+          "word": "cheap",
+          "count": 163
+        },
+        {
+          "word": "scarce",
+          "count": 113
+        },
+        {
+          "word": "precision",
+          "count": 107
+        },
+        {
+          "word": "defender",
+          "count": 86
+        },
+        {
+          "word": "strike",
+          "count": 77
+        },
+        {
+          "word": "magazine",
+          "count": 68
+        },
+        {
+          "word": "assessment",
+          "count": 66
+        },
+        {
+          "word": "precise",
+          "count": 60
+        },
+        {
+          "word": "drone",
+          "count": 55
+        },
+        {
+          "word": "volume",
+          "count": 55
+        },
+        {
+          "word": "targets",
+          "count": 54
+        },
+        {
+          "word": "single",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "tier",
+          "count": 217
+        },
+        {
+          "word": "arsenal",
+          "count": 194
+        },
+        {
+          "word": "cheap",
+          "count": 163
+        },
+        {
+          "word": "scarce",
+          "count": 113
+        },
+        {
+          "word": "precision",
+          "count": 107
+        },
+        {
+          "word": "defender",
+          "count": 86
+        },
+        {
+          "word": "strike",
+          "count": 77
+        },
+        {
+          "word": "magazine",
+          "count": 68
+        },
+        {
+          "word": "assessment",
+          "count": 66
+        },
+        {
+          "word": "precise",
+          "count": 60
+        },
+        {
+          "word": "drone",
+          "count": 55
+        },
+        {
+          "word": "volume",
+          "count": 55
+        },
+        {
+          "word": "targets",
+          "count": 54
+        },
+        {
+          "word": "single",
+          "count": 53
+        },
+        {
+          "word": "production",
+          "count": 50
+        },
+        {
+          "word": "threat",
+          "count": 50
+        },
+        {
+          "word": "reading",
+          "count": 49
+        },
+        {
+          "word": "fixed",
+          "count": 48
+        },
+        {
+          "word": "mass",
+          "count": 48
+        },
+        {
+          "word": "capability",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-11-spain-vs-belgium-analysis.md",
+      "slug": "spain-vs-belgium-analysis",
+      "title": "Spain vs Belgium: World Cup 2026 Result and Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7214,
+      "topWord": "spain",
+      "topCount": 211,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-11-spain-vs-belgium-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "spain",
+          "count": 211
+        },
+        {
+          "word": "belgium",
+          "count": 191
+        },
+        {
+          "word": "minutes",
+          "count": 132
+        },
+        {
+          "word": "final",
+          "count": 85
+        },
+        {
+          "word": "cup",
+          "count": 81
+        },
+        {
+          "word": "goal",
+          "count": 70
+        },
+        {
+          "word": "minute",
+          "count": 64
+        },
+        {
+          "word": "ball",
+          "count": 57
+        },
+        {
+          "word": "half",
+          "count": 54
+        },
+        {
+          "word": "match",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "spain",
+          "count": 211
+        },
+        {
+          "word": "belgium",
+          "count": 191
+        },
+        {
+          "word": "minutes",
+          "count": 132
+        },
+        {
+          "word": "final",
+          "count": 85
+        },
+        {
+          "word": "cup",
+          "count": 81
+        },
+        {
+          "word": "goal",
+          "count": 70
+        },
+        {
+          "word": "minute",
+          "count": 64
+        },
+        {
+          "word": "ball",
+          "count": 57
+        },
+        {
+          "word": "half",
+          "count": 54
+        },
+        {
+          "word": "match",
+          "count": 53
+        },
+        {
+          "word": "five",
+          "count": 50
+        },
+        {
+          "word": "quarter",
+          "count": 48
+        },
+        {
+          "word": "merino",
+          "count": 47
+        },
+        {
+          "word": "four",
+          "count": 47
+        },
+        {
+          "word": "six",
+          "count": 46
+        },
+        {
+          "word": "tournament",
+          "count": 45
+        },
+        {
+          "word": "second",
+          "count": 44
+        },
+        {
+          "word": "courtois",
+          "count": 43
+        },
+        {
+          "word": "won",
+          "count": 41
+        },
+        {
+          "word": "scored",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-12-argentina-vs-switzerland-analysis.md",
+      "slug": "argentina-vs-switzerland-analysis",
+      "title": "Argentina vs Switzerland Analysis: World Cup 2026 QF",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7363,
+      "topWord": "argentina",
+      "topCount": 194,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-12-argentina-vs-switzerland-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "argentina",
+          "count": 194
+        },
+        {
+          "word": "switzerland",
+          "count": 169
+        },
+        {
+          "word": "cup",
+          "count": 98
+        },
+        {
+          "word": "final",
+          "count": 84
+        },
+        {
+          "word": "four",
+          "count": 74
+        },
+        {
+          "word": "match",
+          "count": 70
+        },
+        {
+          "word": "goals",
+          "count": 63
+        },
+        {
+          "word": "minutes",
+          "count": 61
+        },
+        {
+          "word": "tournament",
+          "count": 60
+        },
+        {
+          "word": "goal",
+          "count": 57
+        },
+        {
+          "word": "minute",
+          "count": 56
+        },
+        {
+          "word": "messi",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "argentina",
+          "count": 194
+        },
+        {
+          "word": "switzerland",
+          "count": 169
+        },
+        {
+          "word": "cup",
+          "count": 98
+        },
+        {
+          "word": "final",
+          "count": 84
+        },
+        {
+          "word": "four",
+          "count": 74
+        },
+        {
+          "word": "match",
+          "count": 70
+        },
+        {
+          "word": "goals",
+          "count": 63
+        },
+        {
+          "word": "minutes",
+          "count": 61
+        },
+        {
+          "word": "tournament",
+          "count": 60
+        },
+        {
+          "word": "goal",
+          "count": 57
+        },
+        {
+          "word": "minute",
+          "count": 56
+        },
+        {
+          "word": "messi",
+          "count": 52
+        },
+        {
+          "word": "embolo",
+          "count": 49
+        },
+        {
+          "word": "matches",
+          "count": 49
+        },
+        {
+          "word": "quarter",
+          "count": 48
+        },
+        {
+          "word": "team",
+          "count": 47
+        },
+        {
+          "word": "extra",
+          "count": 43
+        },
+        {
+          "word": "knockout",
+          "count": 42
+        },
+        {
+          "word": "player",
+          "count": 38
+        },
+        {
+          "word": "alvarez",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-12-norway-vs-england-analysis.md",
+      "slug": "norway-vs-england-analysis",
+      "title": "Norway vs England: World Cup 2026 Result and Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7328,
+      "topWord": "england",
+      "topCount": 165,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-12-norway-vs-england-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "england",
+          "count": 165
+        },
+        {
+          "word": "norway",
+          "count": 119
+        },
+        {
+          "word": "minutes",
+          "count": 82
+        },
+        {
+          "word": "th",
+          "count": 70
+        },
+        {
+          "word": "haaland",
+          "count": 69
+        },
+        {
+          "word": "goals",
+          "count": 68
+        },
+        {
+          "word": "goal",
+          "count": 66
+        },
+        {
+          "word": "minute",
+          "count": 66
+        },
+        {
+          "word": "ball",
+          "count": 66
+        },
+        {
+          "word": "match",
+          "count": 61
+        },
+        {
+          "word": "half",
+          "count": 61
+        },
+        {
+          "word": "cup",
+          "count": 56
+        },
+        {
+          "word": "tournament",
+          "count": 53
+        },
+        {
+          "word": "bellingham",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "england",
+          "count": 165
+        },
+        {
+          "word": "norway",
+          "count": 119
+        },
+        {
+          "word": "minutes",
+          "count": 82
+        },
+        {
+          "word": "th",
+          "count": 70
+        },
+        {
+          "word": "haaland",
+          "count": 69
+        },
+        {
+          "word": "goals",
+          "count": 68
+        },
+        {
+          "word": "goal",
+          "count": 66
+        },
+        {
+          "word": "minute",
+          "count": 66
+        },
+        {
+          "word": "ball",
+          "count": 66
+        },
+        {
+          "word": "match",
+          "count": 61
+        },
+        {
+          "word": "half",
+          "count": 61
+        },
+        {
+          "word": "cup",
+          "count": 56
+        },
+        {
+          "word": "tournament",
+          "count": 53
+        },
+        {
+          "word": "bellingham",
+          "count": 52
+        },
+        {
+          "word": "four",
+          "count": 50
+        },
+        {
+          "word": "second",
+          "count": 42
+        },
+        {
+          "word": "six",
+          "count": 41
+        },
+        {
+          "word": "scored",
+          "count": 35
+        },
+        {
+          "word": "seven",
+          "count": 35
+        },
+        {
+          "word": "quarterfinal",
+          "count": 34
+        }
+      ]
+    },
+    {
       "filename": "2026-07-13-gatsby-understatement.md",
       "slug": "gatsby-understatement",
       "title": "Understatement and Restraint in Gatsby",
@@ -435550,6 +439780,440 @@
         {
           "word": "emotion",
           "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-14-france-vs-spain-preview.md",
+      "slug": "france-vs-spain-preview",
+      "title": "France vs Spain: World Cup 2026 Semifinal Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7909,
+      "topWord": "france",
+      "topCount": 248,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-14-france-vs-spain-preview.md",
+      "flaggedWords": [
+        {
+          "word": "france",
+          "count": 248
+        },
+        {
+          "word": "spain",
+          "count": 243
+        },
+        {
+          "word": "match",
+          "count": 88
+        },
+        {
+          "word": "tournament",
+          "count": 72
+        },
+        {
+          "word": "minutes",
+          "count": 72
+        },
+        {
+          "word": "four",
+          "count": 70
+        },
+        {
+          "word": "cup",
+          "count": 64
+        },
+        {
+          "word": "goals",
+          "count": 60
+        },
+        {
+          "word": "mbappe",
+          "count": 57
+        },
+        {
+          "word": "goal",
+          "count": 57
+        },
+        {
+          "word": "ball",
+          "count": 56
+        },
+        {
+          "word": "six",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "france",
+          "count": 248
+        },
+        {
+          "word": "spain",
+          "count": 243
+        },
+        {
+          "word": "match",
+          "count": 88
+        },
+        {
+          "word": "tournament",
+          "count": 72
+        },
+        {
+          "word": "minutes",
+          "count": 72
+        },
+        {
+          "word": "four",
+          "count": 70
+        },
+        {
+          "word": "cup",
+          "count": 64
+        },
+        {
+          "word": "goals",
+          "count": 60
+        },
+        {
+          "word": "mbappe",
+          "count": 57
+        },
+        {
+          "word": "goal",
+          "count": 57
+        },
+        {
+          "word": "ball",
+          "count": 56
+        },
+        {
+          "word": "six",
+          "count": 51
+        },
+        {
+          "word": "matches",
+          "count": 50
+        },
+        {
+          "word": "scored",
+          "count": 45
+        },
+        {
+          "word": "deschamps",
+          "count": 43
+        },
+        {
+          "word": "semifinal",
+          "count": 38
+        },
+        {
+          "word": "final",
+          "count": 37
+        },
+        {
+          "word": "fuente",
+          "count": 36
+        },
+        {
+          "word": "front",
+          "count": 35
+        },
+        {
+          "word": "yamal",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-15-argentina-vs-england-preview.md",
+      "slug": "argentina-vs-england-preview",
+      "title": "Argentina vs England: World Cup 2026 Semi-Final Preview",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7464,
+      "topWord": "england",
+      "topCount": 200,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-15-argentina-vs-england-preview.md",
+      "flaggedWords": [
+        {
+          "word": "england",
+          "count": 200
+        },
+        {
+          "word": "argentina",
+          "count": 167
+        },
+        {
+          "word": "final",
+          "count": 96
+        },
+        {
+          "word": "minutes",
+          "count": 90
+        },
+        {
+          "word": "match",
+          "count": 81
+        },
+        {
+          "word": "cup",
+          "count": 75
+        },
+        {
+          "word": "tournament",
+          "count": 62
+        },
+        {
+          "word": "team",
+          "count": 58
+        },
+        {
+          "word": "messi",
+          "count": 58
+        },
+        {
+          "word": "four",
+          "count": 53
+        },
+        {
+          "word": "goal",
+          "count": 53
+        },
+        {
+          "word": "won",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "england",
+          "count": 200
+        },
+        {
+          "word": "argentina",
+          "count": 167
+        },
+        {
+          "word": "final",
+          "count": 96
+        },
+        {
+          "word": "minutes",
+          "count": 90
+        },
+        {
+          "word": "match",
+          "count": 81
+        },
+        {
+          "word": "cup",
+          "count": 75
+        },
+        {
+          "word": "tournament",
+          "count": 62
+        },
+        {
+          "word": "team",
+          "count": 58
+        },
+        {
+          "word": "messi",
+          "count": 58
+        },
+        {
+          "word": "four",
+          "count": 53
+        },
+        {
+          "word": "goal",
+          "count": 53
+        },
+        {
+          "word": "won",
+          "count": 51
+        },
+        {
+          "word": "goals",
+          "count": 45
+        },
+        {
+          "word": "semi",
+          "count": 44
+        },
+        {
+          "word": "extra",
+          "count": 43
+        },
+        {
+          "word": "atlanta",
+          "count": 42
+        },
+        {
+          "word": "tuchel",
+          "count": 41
+        },
+        {
+          "word": "knockout",
+          "count": 40
+        },
+        {
+          "word": "twenty",
+          "count": 40
+        },
+        {
+          "word": "kane",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-15-france-vs-spain-analysis.md",
+      "slug": "france-vs-spain-analysis",
+      "title": "France 0-2 Spain: World Cup 2026 Semi-Final Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7269,
+      "topWord": "france",
+      "topCount": 199,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-15-france-vs-spain-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "france",
+          "count": 199
+        },
+        {
+          "word": "spain",
+          "count": 186
+        },
+        {
+          "word": "final",
+          "count": 138
+        },
+        {
+          "word": "cup",
+          "count": 98
+        },
+        {
+          "word": "match",
+          "count": 76
+        },
+        {
+          "word": "semi",
+          "count": 66
+        },
+        {
+          "word": "tournament",
+          "count": 61
+        },
+        {
+          "word": "goals",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "france",
+          "count": 199
+        },
+        {
+          "word": "spain",
+          "count": 186
+        },
+        {
+          "word": "final",
+          "count": 138
+        },
+        {
+          "word": "cup",
+          "count": 98
+        },
+        {
+          "word": "match",
+          "count": 76
+        },
+        {
+          "word": "semi",
+          "count": 66
+        },
+        {
+          "word": "tournament",
+          "count": 61
+        },
+        {
+          "word": "goals",
+          "count": 51
+        },
+        {
+          "word": "deschamps",
+          "count": 50
+        },
+        {
+          "word": "goal",
+          "count": 46
+        },
+        {
+          "word": "matches",
+          "count": 45
+        },
+        {
+          "word": "ball",
+          "count": 45
+        },
+        {
+          "word": "yamal",
+          "count": 43
+        },
+        {
+          "word": "penalty",
+          "count": 39
+        },
+        {
+          "word": "mbappe",
+          "count": 39
+        },
+        {
+          "word": "half",
+          "count": 39
+        },
+        {
+          "word": "dallas",
+          "count": 38
+        },
+        {
+          "word": "game",
+          "count": 37
+        },
+        {
+          "word": "minute",
+          "count": 36
+        },
+        {
+          "word": "second",
+          "count": 35
         }
       ]
     },
@@ -435684,6 +440348,168 @@
         {
           "word": "filing",
           "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-16-argentina-vs-england-analysis.md",
+      "slug": "argentina-vs-england-analysis",
+      "title": "Argentina vs England: World Cup 2026 Semi-Final Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7427,
+      "topWord": "england",
+      "topCount": 267,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-16-argentina-vs-england-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "england",
+          "count": 267
+        },
+        {
+          "word": "argentina",
+          "count": 180
+        },
+        {
+          "word": "final",
+          "count": 109
+        },
+        {
+          "word": "match",
+          "count": 100
+        },
+        {
+          "word": "cup",
+          "count": 93
+        },
+        {
+          "word": "minutes",
+          "count": 93
+        },
+        {
+          "word": "messi",
+          "count": 79
+        },
+        {
+          "word": "minute",
+          "count": 75
+        },
+        {
+          "word": "half",
+          "count": 65
+        },
+        {
+          "word": "semi",
+          "count": 60
+        },
+        {
+          "word": "goals",
+          "count": 60
+        },
+        {
+          "word": "five",
+          "count": 54
+        },
+        {
+          "word": "th",
+          "count": 54
+        },
+        {
+          "word": "tournament",
+          "count": 54
+        },
+        {
+          "word": "goal",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "england",
+          "count": 267
+        },
+        {
+          "word": "argentina",
+          "count": 180
+        },
+        {
+          "word": "final",
+          "count": 109
+        },
+        {
+          "word": "match",
+          "count": 100
+        },
+        {
+          "word": "cup",
+          "count": 93
+        },
+        {
+          "word": "minutes",
+          "count": 93
+        },
+        {
+          "word": "messi",
+          "count": 79
+        },
+        {
+          "word": "minute",
+          "count": 75
+        },
+        {
+          "word": "half",
+          "count": 65
+        },
+        {
+          "word": "semi",
+          "count": 60
+        },
+        {
+          "word": "goals",
+          "count": 60
+        },
+        {
+          "word": "five",
+          "count": 54
+        },
+        {
+          "word": "th",
+          "count": 54
+        },
+        {
+          "word": "tournament",
+          "count": 54
+        },
+        {
+          "word": "goal",
+          "count": 53
+        },
+        {
+          "word": "team",
+          "count": 39
+        },
+        {
+          "word": "ball",
+          "count": 38
+        },
+        {
+          "word": "second",
+          "count": 37
+        },
+        {
+          "word": "produced",
+          "count": 37
+        },
+        {
+          "word": "player",
+          "count": 36
         }
       ]
     },
@@ -435960,6 +440786,136 @@
         {
           "word": "craft",
           "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2026-07-21-russias-army-overrated-or-underrated.md",
+      "slug": "russias-army-overrated-or-underrated",
+      "title": "Russia's Army: Overrated or Underrated?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6893,
+      "topWord": "force",
+      "topCount": 251,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-07-21-russias-army-overrated-or-underrated.md",
+      "flaggedWords": [
+        {
+          "word": "force",
+          "count": 251
+        },
+        {
+          "word": "war",
+          "count": 101
+        },
+        {
+          "word": "verdict",
+          "count": 64
+        },
+        {
+          "word": "russian",
+          "count": 61
+        },
+        {
+          "word": "function",
+          "count": 57
+        },
+        {
+          "word": "mass",
+          "count": 51
+        },
+        {
+          "word": "maneuver",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "force",
+          "count": 251
+        },
+        {
+          "word": "war",
+          "count": 101
+        },
+        {
+          "word": "verdict",
+          "count": 64
+        },
+        {
+          "word": "russian",
+          "count": 61
+        },
+        {
+          "word": "function",
+          "count": 57
+        },
+        {
+          "word": "mass",
+          "count": 51
+        },
+        {
+          "word": "maneuver",
+          "count": 51
+        },
+        {
+          "word": "overrated",
+          "count": 50
+        },
+        {
+          "word": "underrated",
+          "count": 49
+        },
+        {
+          "word": "campaign",
+          "count": 49
+        },
+        {
+          "word": "command",
+          "count": 46
+        },
+        {
+          "word": "attritional",
+          "count": 45
+        },
+        {
+          "word": "reading",
+          "count": 44
+        },
+        {
+          "word": "low",
+          "count": 44
+        },
+        {
+          "word": "fast",
+          "count": 42
+        },
+        {
+          "word": "capability",
+          "count": 41
+        },
+        {
+          "word": "paper",
+          "count": 41
+        },
+        {
+          "word": "attrition",
+          "count": 41
+        },
+        {
+          "word": "tiger",
+          "count": 40
+        },
+        {
+          "word": "genuinely",
+          "count": 38
         }
       ]
     },
@@ -436382,6 +441338,160 @@
       ]
     },
     {
+      "filename": "2026-08-01-russias-best-path-to-a-nato-war.md",
+      "slug": "russias-best-path-to-a-nato-war",
+      "title": "Russia's Best Path to a NATO War",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7372,
+      "topWord": "coalition",
+      "topCount": 216,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-08-01-russias-best-path-to-a-nato-war.md",
+      "flaggedWords": [
+        {
+          "word": "coalition",
+          "count": 216
+        },
+        {
+          "word": "approach",
+          "count": 137
+        },
+        {
+          "word": "aggressor",
+          "count": 126
+        },
+        {
+          "word": "decision",
+          "count": 77
+        },
+        {
+          "word": "threshold",
+          "count": 74
+        },
+        {
+          "word": "defender",
+          "count": 68
+        },
+        {
+          "word": "cohesion",
+          "count": 67
+        },
+        {
+          "word": "strategic",
+          "count": 66
+        },
+        {
+          "word": "speed",
+          "count": 60
+        },
+        {
+          "word": "fait",
+          "count": 55
+        },
+        {
+          "word": "accompli",
+          "count": 55
+        },
+        {
+          "word": "clock",
+          "count": 55
+        },
+        {
+          "word": "act",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "coalition",
+          "count": 216
+        },
+        {
+          "word": "approach",
+          "count": 137
+        },
+        {
+          "word": "aggressor",
+          "count": 126
+        },
+        {
+          "word": "decision",
+          "count": 77
+        },
+        {
+          "word": "threshold",
+          "count": 74
+        },
+        {
+          "word": "defender",
+          "count": 68
+        },
+        {
+          "word": "cohesion",
+          "count": 67
+        },
+        {
+          "word": "strategic",
+          "count": 66
+        },
+        {
+          "word": "speed",
+          "count": 60
+        },
+        {
+          "word": "fait",
+          "count": 55
+        },
+        {
+          "word": "accompli",
+          "count": 55
+        },
+        {
+          "word": "clock",
+          "count": 55
+        },
+        {
+          "word": "act",
+          "count": 53
+        },
+        {
+          "word": "response",
+          "count": 47
+        },
+        {
+          "word": "analysis",
+          "count": 43
+        },
+        {
+          "word": "adversary",
+          "count": 42
+        },
+        {
+          "word": "mass",
+          "count": 41
+        },
+        {
+          "word": "logic",
+          "count": 38
+        },
+        {
+          "word": "seams",
+          "count": 36
+        },
+        {
+          "word": "fast",
+          "count": 36
+        }
+      ]
+    },
+    {
       "filename": "2026-08-03-gatsby-modernist-technique.md",
       "slug": "gatsby-modernist-technique",
       "title": "Modernist Technique in The Great Gatsby",
@@ -436622,6 +441732,156 @@
       ]
     },
     {
+      "filename": "2026-08-11-reading-russian-military-intentions.md",
+      "slug": "reading-russian-military-intentions",
+      "title": "Reading Russian Military Intentions",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7572,
+      "topWord": "intent",
+      "topCount": 288,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-08-11-reading-russian-military-intentions.md",
+      "flaggedWords": [
+        {
+          "word": "intent",
+          "count": 288
+        },
+        {
+          "word": "read",
+          "count": 201
+        },
+        {
+          "word": "capability",
+          "count": 96
+        },
+        {
+          "word": "adversary",
+          "count": 89
+        },
+        {
+          "word": "assessment",
+          "count": 76
+        },
+        {
+          "word": "analyst",
+          "count": 70
+        },
+        {
+          "word": "reading",
+          "count": 66
+        },
+        {
+          "word": "doctrine",
+          "count": 65
+        },
+        {
+          "word": "signaling",
+          "count": 65
+        },
+        {
+          "word": "confidence",
+          "count": 61
+        },
+        {
+          "word": "inputs",
+          "count": 60
+        },
+        {
+          "word": "posture",
+          "count": 59
+        }
+      ],
+      "top20": [
+        {
+          "word": "intent",
+          "count": 288
+        },
+        {
+          "word": "read",
+          "count": 201
+        },
+        {
+          "word": "capability",
+          "count": 96
+        },
+        {
+          "word": "adversary",
+          "count": 89
+        },
+        {
+          "word": "assessment",
+          "count": 76
+        },
+        {
+          "word": "analyst",
+          "count": 70
+        },
+        {
+          "word": "reading",
+          "count": 66
+        },
+        {
+          "word": "doctrine",
+          "count": 65
+        },
+        {
+          "word": "signaling",
+          "count": 65
+        },
+        {
+          "word": "confidence",
+          "count": 61
+        },
+        {
+          "word": "inputs",
+          "count": 60
+        },
+        {
+          "word": "posture",
+          "count": 59
+        },
+        {
+          "word": "reader",
+          "count": 48
+        },
+        {
+          "word": "evidence",
+          "count": 46
+        },
+        {
+          "word": "input",
+          "count": 46
+        },
+        {
+          "word": "decision",
+          "count": 45
+        },
+        {
+          "word": "convergence",
+          "count": 42
+        },
+        {
+          "word": "leadership",
+          "count": 40
+        },
+        {
+          "word": "reads",
+          "count": 38
+        },
+        {
+          "word": "durable",
+          "count": 37
+        }
+      ]
+    },
+    {
       "filename": "2026-08-17-gatsby-gaps-ellipses.md",
       "slug": "gatsby-gaps-ellipses",
       "title": "Gaps, Ellipses, and the Unsaid in Gatsby",
@@ -436736,6 +441996,140 @@
         {
           "word": "cannot",
           "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2026-08-21-russian-military-recovery-in-history.md",
+      "slug": "russian-military-recovery-in-history",
+      "title": "Russian Military Recovery in History",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7005,
+      "topWord": "rebuild",
+      "topCount": 103,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-08-21-russian-military-recovery-in-history.md",
+      "flaggedWords": [
+        {
+          "word": "rebuild",
+          "count": 103
+        },
+        {
+          "word": "record",
+          "count": 93
+        },
+        {
+          "word": "war",
+          "count": 86
+        },
+        {
+          "word": "army",
+          "count": 64
+        },
+        {
+          "word": "historical",
+          "count": 63
+        },
+        {
+          "word": "russian",
+          "count": 61
+        },
+        {
+          "word": "force",
+          "count": 60
+        },
+        {
+          "word": "pattern",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "rebuild",
+          "count": 103
+        },
+        {
+          "word": "record",
+          "count": 93
+        },
+        {
+          "word": "war",
+          "count": 86
+        },
+        {
+          "word": "army",
+          "count": 64
+        },
+        {
+          "word": "historical",
+          "count": 63
+        },
+        {
+          "word": "russian",
+          "count": 61
+        },
+        {
+          "word": "force",
+          "count": 60
+        },
+        {
+          "word": "pattern",
+          "count": 55
+        },
+        {
+          "word": "industrial",
+          "count": 47
+        },
+        {
+          "word": "access",
+          "count": 42
+        },
+        {
+          "word": "enablers",
+          "count": 41
+        },
+        {
+          "word": "enabler",
+          "count": 37
+        },
+        {
+          "word": "russia",
+          "count": 36
+        },
+        {
+          "word": "military",
+          "count": 34
+        },
+        {
+          "word": "political",
+          "count": 34
+        },
+        {
+          "word": "external",
+          "count": 33
+        },
+        {
+          "word": "soviet",
+          "count": 32
+        },
+        {
+          "word": "recovery",
+          "count": 31
+        },
+        {
+          "word": "five",
+          "count": 31
+        },
+        {
+          "word": "capacity",
+          "count": 29
         }
       ]
     },
@@ -436984,6 +442378,140 @@
       ]
     },
     {
+      "filename": "2026-09-01-what-ukraine-tells-us-about-poland.md",
+      "slug": "what-ukraine-tells-us-about-poland",
+      "title": "What Ukraine Tells Us About Poland's Risk",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8233,
+      "topWord": "war",
+      "topCount": 142,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-09-01-what-ukraine-tells-us-about-poland.md",
+      "flaggedWords": [
+        {
+          "word": "war",
+          "count": 142
+        },
+        {
+          "word": "ukraine",
+          "count": 106
+        },
+        {
+          "word": "poland",
+          "count": 103
+        },
+        {
+          "word": "adversary",
+          "count": 97
+        },
+        {
+          "word": "question",
+          "count": 66
+        },
+        {
+          "word": "polish",
+          "count": 59
+        },
+        {
+          "word": "alliance",
+          "count": 56
+        },
+        {
+          "word": "ukrainian",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "war",
+          "count": 142
+        },
+        {
+          "word": "ukraine",
+          "count": 106
+        },
+        {
+          "word": "poland",
+          "count": 103
+        },
+        {
+          "word": "adversary",
+          "count": 97
+        },
+        {
+          "word": "question",
+          "count": 66
+        },
+        {
+          "word": "polish",
+          "count": 59
+        },
+        {
+          "word": "alliance",
+          "count": 56
+        },
+        {
+          "word": "ukrainian",
+          "count": 52
+        },
+        {
+          "word": "filter",
+          "count": 48
+        },
+        {
+          "word": "russia",
+          "count": 48
+        },
+        {
+          "word": "defender",
+          "count": 47
+        },
+        {
+          "word": "transfer",
+          "count": 46
+        },
+        {
+          "word": "decision",
+          "count": 44
+        },
+        {
+          "word": "argument",
+          "count": 43
+        },
+        {
+          "word": "forces",
+          "count": 43
+        },
+        {
+          "word": "read",
+          "count": 43
+        },
+        {
+          "word": "transfers",
+          "count": 42
+        },
+        {
+          "word": "lesson",
+          "count": 41
+        },
+        {
+          "word": "capability",
+          "count": 40
+        },
+        {
+          "word": "evidence",
+          "count": 39
+        }
+      ]
+    },
+    {
       "filename": "2026-09-07-gatsby-free-indirect-discourse.md",
       "slug": "gatsby-free-indirect-discourse",
       "title": "Free Indirect Discourse in The Great Gatsby",
@@ -437122,6 +442650,136 @@
         {
           "word": "feeling",
           "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2026-09-11-lessons-from-russia-failures-ukraine.md",
+      "slug": "lessons-from-russia-failures-ukraine",
+      "title": "Lessons From Russia's Failures in Ukraine",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7470,
+      "topWord": "force",
+      "topCount": 202,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-09-11-lessons-from-russia-failures-ukraine.md",
+      "flaggedWords": [
+        {
+          "word": "force",
+          "count": 202
+        },
+        {
+          "word": "failure",
+          "count": 66
+        },
+        {
+          "word": "plan",
+          "count": 66
+        },
+        {
+          "word": "structural",
+          "count": 60
+        },
+        {
+          "word": "assessment",
+          "count": 59
+        },
+        {
+          "word": "evidence",
+          "count": 57
+        },
+        {
+          "word": "war",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "force",
+          "count": 202
+        },
+        {
+          "word": "failure",
+          "count": 66
+        },
+        {
+          "word": "plan",
+          "count": 66
+        },
+        {
+          "word": "structural",
+          "count": 60
+        },
+        {
+          "word": "assessment",
+          "count": 59
+        },
+        {
+          "word": "evidence",
+          "count": 57
+        },
+        {
+          "word": "war",
+          "count": 55
+        },
+        {
+          "word": "bin",
+          "count": 43
+        },
+        {
+          "word": "institutional",
+          "count": 42
+        },
+        {
+          "word": "cannot",
+          "count": 40
+        },
+        {
+          "word": "claim",
+          "count": 38
+        },
+        {
+          "word": "record",
+          "count": 36
+        },
+        {
+          "word": "opening",
+          "count": 35
+        },
+        {
+          "word": "premise",
+          "count": 35
+        },
+        {
+          "word": "failures",
+          "count": 34
+        },
+        {
+          "word": "campaign",
+          "count": 34
+        },
+        {
+          "word": "corrected",
+          "count": 34
+        },
+        {
+          "word": "specific",
+          "count": 33
+        },
+        {
+          "word": "adversary",
+          "count": 32
+        },
+        {
+          "word": "defender",
+          "count": 31
         }
       ]
     },
@@ -437374,6 +443032,152 @@
       ]
     },
     {
+      "filename": "2026-09-21-if-ukraine-falls-is-poland-next.md",
+      "slug": "if-ukraine-falls-is-poland-next",
+      "title": "If Ukraine Falls, Is Poland Next?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6921,
+      "topWord": "alliance",
+      "topCount": 81,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-09-21-if-ukraine-falls-is-poland-next.md",
+      "flaggedWords": [
+        {
+          "word": "alliance",
+          "count": 81
+        },
+        {
+          "word": "poland",
+          "count": 75
+        },
+        {
+          "word": "defeat",
+          "count": 74
+        },
+        {
+          "word": "russia",
+          "count": 71
+        },
+        {
+          "word": "domino",
+          "count": 68
+        },
+        {
+          "word": "ukrainian",
+          "count": 67
+        },
+        {
+          "word": "outcome",
+          "count": 63
+        },
+        {
+          "word": "ukraine",
+          "count": 57
+        },
+        {
+          "word": "appetite",
+          "count": 57
+        },
+        {
+          "word": "condition",
+          "count": 55
+        },
+        {
+          "word": "capacity",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "alliance",
+          "count": 81
+        },
+        {
+          "word": "poland",
+          "count": 75
+        },
+        {
+          "word": "defeat",
+          "count": 74
+        },
+        {
+          "word": "russia",
+          "count": 71
+        },
+        {
+          "word": "domino",
+          "count": 68
+        },
+        {
+          "word": "ukrainian",
+          "count": 67
+        },
+        {
+          "word": "outcome",
+          "count": 63
+        },
+        {
+          "word": "ukraine",
+          "count": 57
+        },
+        {
+          "word": "appetite",
+          "count": 57
+        },
+        {
+          "word": "condition",
+          "count": 55
+        },
+        {
+          "word": "capacity",
+          "count": 53
+        },
+        {
+          "word": "question",
+          "count": 50
+        },
+        {
+          "word": "guarantee",
+          "count": 41
+        },
+        {
+          "word": "force",
+          "count": 39
+        },
+        {
+          "word": "war",
+          "count": 38
+        },
+        {
+          "word": "argument",
+          "count": 36
+        },
+        {
+          "word": "conditions",
+          "count": 35
+        },
+        {
+          "word": "wall",
+          "count": 35
+        },
+        {
+          "word": "russian",
+          "count": 35
+        },
+        {
+          "word": "phase",
+          "count": 34
+        }
+      ]
+    },
+    {
       "filename": "2026-09-28-gatsby-passage-of-time-craft.md",
       "slug": "gatsby-passage-of-time-craft",
       "title": "How Fitzgerald Handles the Passage of Time",
@@ -437492,6 +443296,140 @@
       ]
     },
     {
+      "filename": "2026-10-01-polands-stake-in-ukraines-war.md",
+      "slug": "polands-stake-in-ukraines-war",
+      "title": "Poland's Stake in Ukraine's War",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7402,
+      "topWord": "stake",
+      "topCount": 150,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-01-polands-stake-in-ukraines-war.md",
+      "flaggedWords": [
+        {
+          "word": "stake",
+          "count": 150
+        },
+        {
+          "word": "component",
+          "count": 136
+        },
+        {
+          "word": "poland",
+          "count": 126
+        },
+        {
+          "word": "polish",
+          "count": 117
+        },
+        {
+          "word": "ukraine",
+          "count": 97
+        },
+        {
+          "word": "support",
+          "count": 58
+        },
+        {
+          "word": "buffer",
+          "count": 57
+        },
+        {
+          "word": "war",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "stake",
+          "count": 150
+        },
+        {
+          "word": "component",
+          "count": 136
+        },
+        {
+          "word": "poland",
+          "count": 126
+        },
+        {
+          "word": "polish",
+          "count": 117
+        },
+        {
+          "word": "ukraine",
+          "count": 97
+        },
+        {
+          "word": "support",
+          "count": 58
+        },
+        {
+          "word": "buffer",
+          "count": 57
+        },
+        {
+          "word": "war",
+          "count": 52
+        },
+        {
+          "word": "question",
+          "count": 50
+        },
+        {
+          "word": "policy",
+          "count": 50
+        },
+        {
+          "word": "components",
+          "count": 48
+        },
+        {
+          "word": "political",
+          "count": 48
+        },
+        {
+          "word": "cost",
+          "count": 45
+        },
+        {
+          "word": "government",
+          "count": 38
+        },
+        {
+          "word": "argument",
+          "count": 38
+        },
+        {
+          "word": "four",
+          "count": 37
+        },
+        {
+          "word": "identity",
+          "count": 35
+        },
+        {
+          "word": "outcome",
+          "count": 34
+        },
+        {
+          "word": "public",
+          "count": 33
+        },
+        {
+          "word": "russian",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2026-10-05-gatsby-vagueness-mystery.md",
       "slug": "gatsby-vagueness-mystery",
       "title": "Vagueness and Mystery as Technique in Gatsby",
@@ -437606,6 +443544,128 @@
         {
           "word": "withholding",
           "count": 16
+        }
+      ]
+    },
+    {
+      "filename": "2026-10-11-poland-as-ukraines-lifeline.md",
+      "slug": "poland-as-ukraines-lifeline",
+      "title": "How Poland Became Ukraine's Lifeline",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6446,
+      "topWord": "poland",
+      "topCount": 121,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-11-poland-as-ukraines-lifeline.md",
+      "flaggedWords": [
+        {
+          "word": "poland",
+          "count": 121
+        },
+        {
+          "word": "conduit",
+          "count": 99
+        },
+        {
+          "word": "polish",
+          "count": 56
+        },
+        {
+          "word": "exposure",
+          "count": 56
+        },
+        {
+          "word": "role",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "poland",
+          "count": 121
+        },
+        {
+          "word": "conduit",
+          "count": 99
+        },
+        {
+          "word": "polish",
+          "count": 56
+        },
+        {
+          "word": "exposure",
+          "count": 56
+        },
+        {
+          "word": "role",
+          "count": 55
+        },
+        {
+          "word": "ukraine",
+          "count": 41
+        },
+        {
+          "word": "function",
+          "count": 40
+        },
+        {
+          "word": "cost",
+          "count": 37
+        },
+        {
+          "word": "question",
+          "count": 36
+        },
+        {
+          "word": "war",
+          "count": 35
+        },
+        {
+          "word": "planning",
+          "count": 35
+        },
+        {
+          "word": "adversary",
+          "count": 35
+        },
+        {
+          "word": "infrastructure",
+          "count": 33
+        },
+        {
+          "word": "alliance",
+          "count": 31
+        },
+        {
+          "word": "effort",
+          "count": 31
+        },
+        {
+          "word": "capacity",
+          "count": 29
+        },
+        {
+          "word": "flow",
+          "count": 29
+        },
+        {
+          "word": "planner",
+          "count": 28
+        },
+        {
+          "word": "influence",
+          "count": 28
+        },
+        {
+          "word": "pressure",
+          "count": 27
         }
       ]
     },
@@ -437862,6 +443922,128 @@
       ]
     },
     {
+      "filename": "2026-10-21-ukraine-ceasefire-safer-or-riskier.md",
+      "slug": "ukraine-ceasefire-safer-or-riskier",
+      "title": "A Ukraine Ceasefire: Safer or Riskier?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6429,
+      "topWord": "pause",
+      "topCount": 141,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-21-ukraine-ceasefire-safer-or-riskier.md",
+      "flaggedWords": [
+        {
+          "word": "pause",
+          "count": 141
+        },
+        {
+          "word": "poland",
+          "count": 123
+        },
+        {
+          "word": "ukraine",
+          "count": 57
+        },
+        {
+          "word": "flank",
+          "count": 52
+        },
+        {
+          "word": "war",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "pause",
+          "count": 141
+        },
+        {
+          "word": "poland",
+          "count": 123
+        },
+        {
+          "word": "ukraine",
+          "count": 57
+        },
+        {
+          "word": "flank",
+          "count": 52
+        },
+        {
+          "word": "war",
+          "count": 51
+        },
+        {
+          "word": "question",
+          "count": 44
+        },
+        {
+          "word": "terms",
+          "count": 44
+        },
+        {
+          "word": "arrangement",
+          "count": 42
+        },
+        {
+          "word": "ceasefire",
+          "count": 40
+        },
+        {
+          "word": "force",
+          "count": 36
+        },
+        {
+          "word": "quiet",
+          "count": 35
+        },
+        {
+          "word": "russian",
+          "count": 33
+        },
+        {
+          "word": "russia",
+          "count": 31
+        },
+        {
+          "word": "rate",
+          "count": 29
+        },
+        {
+          "word": "fighting",
+          "count": 28
+        },
+        {
+          "word": "ledger",
+          "count": 27
+        },
+        {
+          "word": "school",
+          "count": 27
+        },
+        {
+          "word": "allied",
+          "count": 27
+        },
+        {
+          "word": "reconstitution",
+          "count": 26
+        },
+        {
+          "word": "regeneration",
+          "count": 26
+        }
+      ]
+    },
+    {
       "filename": "2026-10-26-prohibition-bootlegging-gatsby.md",
       "slug": "prohibition-bootlegging-gatsby",
       "title": "Prohibition and Bootlegging in Gatsby",
@@ -437992,6 +444174,132 @@
         {
           "word": "tom",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-01-war-spillover-risks-poland-border.md",
+      "slug": "war-spillover-risks-poland-border",
+      "title": "War Spillover Risks on Poland's Border",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7429,
+      "topWord": "incident",
+      "topCount": 87,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-01-war-spillover-risks-poland-border.md",
+      "flaggedWords": [
+        {
+          "word": "incident",
+          "count": 87
+        },
+        {
+          "word": "poland",
+          "count": 70
+        },
+        {
+          "word": "accident",
+          "count": 65
+        },
+        {
+          "word": "probe",
+          "count": 63
+        },
+        {
+          "word": "spillover",
+          "count": 58
+        },
+        {
+          "word": "evidence",
+          "count": 58
+        }
+      ],
+      "top20": [
+        {
+          "word": "incident",
+          "count": 87
+        },
+        {
+          "word": "poland",
+          "count": 70
+        },
+        {
+          "word": "accident",
+          "count": 65
+        },
+        {
+          "word": "probe",
+          "count": 63
+        },
+        {
+          "word": "spillover",
+          "count": 58
+        },
+        {
+          "word": "evidence",
+          "count": 58
+        },
+        {
+          "word": "polish",
+          "count": 46
+        },
+        {
+          "word": "war",
+          "count": 46
+        },
+        {
+          "word": "incidents",
+          "count": 44
+        },
+        {
+          "word": "response",
+          "count": 42
+        },
+        {
+          "word": "mechanism",
+          "count": 41
+        },
+        {
+          "word": "border",
+          "count": 39
+        },
+        {
+          "word": "record",
+          "count": 38
+        },
+        {
+          "word": "decision",
+          "count": 37
+        },
+        {
+          "word": "adversary",
+          "count": 36
+        },
+        {
+          "word": "classification",
+          "count": 36
+        },
+        {
+          "word": "escalation",
+          "count": 33
+        },
+        {
+          "word": "assessment",
+          "count": 33
+        },
+        {
+          "word": "political",
+          "count": 31
+        },
+        {
+          "word": "indicator",
+          "count": 31
         }
       ]
     },
@@ -440936,6 +447244,1332 @@
         {
           "word": "blue",
           "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2027-04-12-fitzgerald-riviera-years.md",
+      "slug": "fitzgerald-riviera-years",
+      "title": "Fitzgerald and the Riviera Years",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4575,
+      "topWord": "novel",
+      "topCount": 113,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-04-12-fitzgerald-riviera-years.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 113
+        },
+        {
+          "word": "riviera",
+          "count": 93
+        },
+        {
+          "word": "fitzgerald",
+          "count": 89
+        },
+        {
+          "word": "coast",
+          "count": 73
+        },
+        {
+          "word": "money",
+          "count": 64
+        },
+        {
+          "word": "book",
+          "count": 60
+        },
+        {
+          "word": "american",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 113
+        },
+        {
+          "word": "riviera",
+          "count": 93
+        },
+        {
+          "word": "fitzgerald",
+          "count": 89
+        },
+        {
+          "word": "coast",
+          "count": 73
+        },
+        {
+          "word": "money",
+          "count": 64
+        },
+        {
+          "word": "book",
+          "count": 60
+        },
+        {
+          "word": "american",
+          "count": 55
+        },
+        {
+          "word": "wealth",
+          "count": 43
+        },
+        {
+          "word": "gatsby",
+          "count": 32
+        },
+        {
+          "word": "summer",
+          "count": 31
+        },
+        {
+          "word": "abroad",
+          "count": 30
+        },
+        {
+          "word": "context",
+          "count": 29
+        },
+        {
+          "word": "distance",
+          "count": 28
+        },
+        {
+          "word": "rich",
+          "count": 26
+        },
+        {
+          "word": "writer",
+          "count": 26
+        },
+        {
+          "word": "composition",
+          "count": 24
+        },
+        {
+          "word": "drafting",
+          "count": 21
+        },
+        {
+          "word": "season",
+          "count": 20
+        },
+        {
+          "word": "writing",
+          "count": 20
+        },
+        {
+          "word": "valescure",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2027-04-19-fitzgerald-other-novels.md",
+      "slug": "fitzgerald-other-novels",
+      "title": "Fitzgerald's Other Novels and Where Gatsby Fits",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4645,
+      "topWord": "gatsby",
+      "topCount": 190,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-04-19-fitzgerald-other-novels.md",
+      "flaggedWords": [
+        {
+          "word": "gatsby",
+          "count": 190
+        },
+        {
+          "word": "fitzgerald",
+          "count": 101
+        },
+        {
+          "word": "book",
+          "count": 92
+        },
+        {
+          "word": "novel",
+          "count": 73
+        },
+        {
+          "word": "novels",
+          "count": 57
+        },
+        {
+          "word": "arc",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "gatsby",
+          "count": 190
+        },
+        {
+          "word": "fitzgerald",
+          "count": 101
+        },
+        {
+          "word": "book",
+          "count": 92
+        },
+        {
+          "word": "novel",
+          "count": 73
+        },
+        {
+          "word": "novels",
+          "count": 57
+        },
+        {
+          "word": "arc",
+          "count": 56
+        },
+        {
+          "word": "night",
+          "count": 43
+        },
+        {
+          "word": "tender",
+          "count": 42
+        },
+        {
+          "word": "beautiful",
+          "count": 37
+        },
+        {
+          "word": "books",
+          "count": 35
+        },
+        {
+          "word": "ambition",
+          "count": 35
+        },
+        {
+          "word": "control",
+          "count": 34
+        },
+        {
+          "word": "damned",
+          "count": 33
+        },
+        {
+          "word": "paradise",
+          "count": 32
+        },
+        {
+          "word": "writer",
+          "count": 31
+        },
+        {
+          "word": "read",
+          "count": 29
+        },
+        {
+          "word": "tycoon",
+          "count": 24
+        },
+        {
+          "word": "five",
+          "count": 23
+        },
+        {
+          "word": "single",
+          "count": 22
+        },
+        {
+          "word": "reading",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2027-04-26-fitzgerald-short-stories-gatsby.md",
+      "slug": "fitzgerald-short-stories-gatsby",
+      "title": "Fitzgerald's Short Stories and Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5094,
+      "topWord": "novel",
+      "topCount": 214,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-04-26-fitzgerald-short-stories-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 214
+        },
+        {
+          "word": "stories",
+          "count": 132
+        },
+        {
+          "word": "fitzgerald",
+          "count": 120
+        },
+        {
+          "word": "story",
+          "count": 70
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 214
+        },
+        {
+          "word": "stories",
+          "count": 132
+        },
+        {
+          "word": "fitzgerald",
+          "count": 120
+        },
+        {
+          "word": "story",
+          "count": 70
+        },
+        {
+          "word": "short",
+          "count": 47
+        },
+        {
+          "word": "reader",
+          "count": 41
+        },
+        {
+          "word": "winter",
+          "count": 35
+        },
+        {
+          "word": "dreams",
+          "count": 35
+        },
+        {
+          "word": "boy",
+          "count": 35
+        },
+        {
+          "word": "gatsby",
+          "count": 34
+        },
+        {
+          "word": "fiction",
+          "count": 34
+        },
+        {
+          "word": "rich",
+          "count": 34
+        },
+        {
+          "word": "workshop",
+          "count": 32
+        },
+        {
+          "word": "hero",
+          "count": 31
+        },
+        {
+          "word": "magazine",
+          "count": 30
+        },
+        {
+          "word": "book",
+          "count": 30
+        },
+        {
+          "word": "longing",
+          "count": 28
+        },
+        {
+          "word": "self",
+          "count": 28
+        },
+        {
+          "word": "absolution",
+          "count": 28
+        },
+        {
+          "word": "wealth",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2027-05-03-fitzgerald-crack-up.md",
+      "slug": "fitzgerald-crack-up",
+      "title": "The Crack-Up and Fitzgerald's Decline",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4461,
+      "topWord": "fitzgerald",
+      "topCount": 110,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-05-03-fitzgerald-crack-up.md",
+      "flaggedWords": [
+        {
+          "word": "fitzgerald",
+          "count": 110
+        },
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "decline",
+          "count": 70
+        },
+        {
+          "word": "gatsby",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "fitzgerald",
+          "count": 110
+        },
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "decline",
+          "count": 70
+        },
+        {
+          "word": "gatsby",
+          "count": 51
+        },
+        {
+          "word": "essays",
+          "count": 41
+        },
+        {
+          "word": "book",
+          "count": 35
+        },
+        {
+          "word": "debt",
+          "count": 30
+        },
+        {
+          "word": "author",
+          "count": 29
+        },
+        {
+          "word": "failure",
+          "count": 29
+        },
+        {
+          "word": "read",
+          "count": 27
+        },
+        {
+          "word": "crack",
+          "count": 25
+        },
+        {
+          "word": "dream",
+          "count": 24
+        },
+        {
+          "word": "decade",
+          "count": 23
+        },
+        {
+          "word": "story",
+          "count": 23
+        },
+        {
+          "word": "died",
+          "count": 22
+        },
+        {
+          "word": "biography",
+          "count": 21
+        },
+        {
+          "word": "reading",
+          "count": 21
+        },
+        {
+          "word": "himself",
+          "count": 20
+        },
+        {
+          "word": "drinking",
+          "count": 20
+        },
+        {
+          "word": "writer",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2027-05-10-jazz-music-culture-gatsby.md",
+      "slug": "jazz-music-culture-gatsby",
+      "title": "Music and Jazz Culture in The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5405,
+      "topWord": "music",
+      "topCount": 187,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-05-10-jazz-music-culture-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "music",
+          "count": 187
+        },
+        {
+          "word": "jazz",
+          "count": 148
+        },
+        {
+          "word": "sound",
+          "count": 81
+        },
+        {
+          "word": "novel",
+          "count": 65
+        },
+        {
+          "word": "gatsby",
+          "count": 62
+        },
+        {
+          "word": "party",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "music",
+          "count": 187
+        },
+        {
+          "word": "jazz",
+          "count": 148
+        },
+        {
+          "word": "sound",
+          "count": 81
+        },
+        {
+          "word": "novel",
+          "count": 65
+        },
+        {
+          "word": "gatsby",
+          "count": 62
+        },
+        {
+          "word": "party",
+          "count": 53
+        },
+        {
+          "word": "era",
+          "count": 50
+        },
+        {
+          "word": "dance",
+          "count": 49
+        },
+        {
+          "word": "culture",
+          "count": 48
+        },
+        {
+          "word": "parties",
+          "count": 45
+        },
+        {
+          "word": "fitzgerald",
+          "count": 41
+        },
+        {
+          "word": "decade",
+          "count": 40
+        },
+        {
+          "word": "orchestra",
+          "count": 39
+        },
+        {
+          "word": "cultural",
+          "count": 34
+        },
+        {
+          "word": "history",
+          "count": 30
+        },
+        {
+          "word": "society",
+          "count": 29
+        },
+        {
+          "word": "black",
+          "count": 28
+        },
+        {
+          "word": "white",
+          "count": 28
+        },
+        {
+          "word": "hall",
+          "count": 24
+        },
+        {
+          "word": "crowd",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2027-05-17-gatsby-era-fashion.md",
+      "slug": "gatsby-era-fashion",
+      "title": "Fashion and Style of the Gatsby Era",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4938,
+      "topWord": "white",
+      "topCount": 64,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-05-17-gatsby-era-fashion.md",
+      "flaggedWords": [
+        {
+          "word": "white",
+          "count": 64
+        },
+        {
+          "word": "gatsby",
+          "count": 63
+        },
+        {
+          "word": "novel",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "white",
+          "count": 64
+        },
+        {
+          "word": "gatsby",
+          "count": 63
+        },
+        {
+          "word": "novel",
+          "count": 55
+        },
+        {
+          "word": "dress",
+          "count": 47
+        },
+        {
+          "word": "suit",
+          "count": 41
+        },
+        {
+          "word": "register",
+          "count": 40
+        },
+        {
+          "word": "tom",
+          "count": 36
+        },
+        {
+          "word": "fitzgerald",
+          "count": 35
+        },
+        {
+          "word": "chapter",
+          "count": 33
+        },
+        {
+          "word": "clothing",
+          "count": 33
+        },
+        {
+          "word": "garment",
+          "count": 30
+        },
+        {
+          "word": "class",
+          "count": 27
+        },
+        {
+          "word": "nick",
+          "count": 27
+        },
+        {
+          "word": "clothes",
+          "count": 26
+        },
+        {
+          "word": "fact",
+          "count": 25
+        },
+        {
+          "word": "pink",
+          "count": 24
+        },
+        {
+          "word": "code",
+          "count": 24
+        },
+        {
+          "word": "period",
+          "count": 24
+        },
+        {
+          "word": "decade",
+          "count": 23
+        },
+        {
+          "word": "cloth",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2027-05-24-long-island-old-money.md",
+      "slug": "long-island-old-money",
+      "title": "The Geography of Old Money on Long Island",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4820,
+      "topWord": "egg",
+      "topCount": 70,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-05-24-long-island-old-money.md",
+      "flaggedWords": [
+        {
+          "word": "egg",
+          "count": 70
+        },
+        {
+          "word": "east",
+          "count": 66
+        },
+        {
+          "word": "gatsby",
+          "count": 59
+        },
+        {
+          "word": "money",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "egg",
+          "count": 70
+        },
+        {
+          "word": "east",
+          "count": 66
+        },
+        {
+          "word": "gatsby",
+          "count": 59
+        },
+        {
+          "word": "money",
+          "count": 52
+        },
+        {
+          "word": "fitzgerald",
+          "count": 46
+        },
+        {
+          "word": "tom",
+          "count": 41
+        },
+        {
+          "word": "bay",
+          "count": 41
+        },
+        {
+          "word": "novel",
+          "count": 40
+        },
+        {
+          "word": "nick",
+          "count": 38
+        },
+        {
+          "word": "neck",
+          "count": 36
+        },
+        {
+          "word": "north",
+          "count": 34
+        },
+        {
+          "word": "polo",
+          "count": 31
+        },
+        {
+          "word": "shore",
+          "count": 30
+        },
+        {
+          "word": "island",
+          "count": 28
+        },
+        {
+          "word": "club",
+          "count": 24
+        },
+        {
+          "word": "geography",
+          "count": 23
+        },
+        {
+          "word": "ground",
+          "count": 23
+        },
+        {
+          "word": "sands",
+          "count": 22
+        },
+        {
+          "word": "social",
+          "count": 22
+        },
+        {
+          "word": "held",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2027-05-31-valley-of-ashes-corona-dump.md",
+      "slug": "valley-of-ashes-corona-dump",
+      "title": "The Valley of Ashes and Corona's Dump",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4978,
+      "topWord": "ash",
+      "topCount": 101,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-05-31-valley-of-ashes-corona-dump.md",
+      "flaggedWords": [
+        {
+          "word": "ash",
+          "count": 101
+        },
+        {
+          "word": "fitzgerald",
+          "count": 78
+        },
+        {
+          "word": "corona",
+          "count": 66
+        },
+        {
+          "word": "valley",
+          "count": 58
+        }
+      ],
+      "top20": [
+        {
+          "word": "ash",
+          "count": 101
+        },
+        {
+          "word": "fitzgerald",
+          "count": 78
+        },
+        {
+          "word": "corona",
+          "count": 66
+        },
+        {
+          "word": "valley",
+          "count": 58
+        },
+        {
+          "word": "novel",
+          "count": 47
+        },
+        {
+          "word": "flushing",
+          "count": 37
+        },
+        {
+          "word": "road",
+          "count": 36
+        },
+        {
+          "word": "dump",
+          "count": 36
+        },
+        {
+          "word": "city",
+          "count": 31
+        },
+        {
+          "word": "grey",
+          "count": 30
+        },
+        {
+          "word": "ashes",
+          "count": 29
+        },
+        {
+          "word": "queens",
+          "count": 29
+        },
+        {
+          "word": "borough",
+          "count": 29
+        },
+        {
+          "word": "meadows",
+          "count": 28
+        },
+        {
+          "word": "company",
+          "count": 28
+        },
+        {
+          "word": "reader",
+          "count": 26
+        },
+        {
+          "word": "passage",
+          "count": 25
+        },
+        {
+          "word": "reading",
+          "count": 25
+        },
+        {
+          "word": "brooklyn",
+          "count": 25
+        },
+        {
+          "word": "river",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2027-06-07-speakeasies-nightlife-gatsby.md",
+      "slug": "speakeasies-nightlife-gatsby",
+      "title": "Speakeasies and Nightlife in Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5088,
+      "topWord": "gatsby",
+      "topCount": 63,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-06-07-speakeasies-nightlife-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "gatsby",
+          "count": 63
+        },
+        {
+          "word": "novel",
+          "count": 61
+        },
+        {
+          "word": "era",
+          "count": 55
+        },
+        {
+          "word": "illegal",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "gatsby",
+          "count": 63
+        },
+        {
+          "word": "novel",
+          "count": 61
+        },
+        {
+          "word": "era",
+          "count": 55
+        },
+        {
+          "word": "illegal",
+          "count": 52
+        },
+        {
+          "word": "fitzgerald",
+          "count": 47
+        },
+        {
+          "word": "nick",
+          "count": 40
+        },
+        {
+          "word": "drinking",
+          "count": 36
+        },
+        {
+          "word": "room",
+          "count": 34
+        },
+        {
+          "word": "context",
+          "count": 34
+        },
+        {
+          "word": "nightlife",
+          "count": 32
+        },
+        {
+          "word": "liquor",
+          "count": 32
+        },
+        {
+          "word": "drink",
+          "count": 31
+        },
+        {
+          "word": "bar",
+          "count": 31
+        },
+        {
+          "word": "speakeasy",
+          "count": 29
+        },
+        {
+          "word": "tom",
+          "count": 29
+        },
+        {
+          "word": "prohibition",
+          "count": 28
+        },
+        {
+          "word": "party",
+          "count": 27
+        },
+        {
+          "word": "law",
+          "count": 26
+        },
+        {
+          "word": "cellar",
+          "count": 26
+        },
+        {
+          "word": "night",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2027-06-14-stock-boom-before-crash-gatsby.md",
+      "slug": "stock-boom-before-crash-gatsby",
+      "title": "The Stock Market Boom Before the Crash",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4801,
+      "topWord": "novel",
+      "topCount": 76,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-06-14-stock-boom-before-crash-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "money",
+          "count": 59
+        },
+        {
+          "word": "fitzgerald",
+          "count": 54
+        },
+        {
+          "word": "gatsby",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "money",
+          "count": 59
+        },
+        {
+          "word": "fitzgerald",
+          "count": 54
+        },
+        {
+          "word": "gatsby",
+          "count": 52
+        },
+        {
+          "word": "market",
+          "count": 47
+        },
+        {
+          "word": "boom",
+          "count": 43
+        },
+        {
+          "word": "book",
+          "count": 38
+        },
+        {
+          "word": "nick",
+          "count": 35
+        },
+        {
+          "word": "wealth",
+          "count": 32
+        },
+        {
+          "word": "tom",
+          "count": 32
+        },
+        {
+          "word": "reader",
+          "count": 28
+        },
+        {
+          "word": "reading",
+          "count": 27
+        },
+        {
+          "word": "counter",
+          "count": 27
+        },
+        {
+          "word": "crash",
+          "count": 26
+        },
+        {
+          "word": "paper",
+          "count": 24
+        },
+        {
+          "word": "context",
+          "count": 23
+        },
+        {
+          "word": "bubble",
+          "count": 23
+        },
+        {
+          "word": "history",
+          "count": 22
+        },
+        {
+          "word": "frame",
+          "count": 21
+        },
+        {
+          "word": "bonds",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2027-06-21-1920s-readers-gatsby.md",
+      "slug": "1920s-readers-gatsby",
+      "title": "How 1920s Readers Saw The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4659,
+      "topWord": "novel",
+      "topCount": 107,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-06-21-1920s-readers-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 107
+        },
+        {
+          "word": "book",
+          "count": 102
+        },
+        {
+          "word": "reception",
+          "count": 58
+        },
+        {
+          "word": "reader",
+          "count": 55
+        },
+        {
+          "word": "gatsby",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 107
+        },
+        {
+          "word": "book",
+          "count": 102
+        },
+        {
+          "word": "reception",
+          "count": 58
+        },
+        {
+          "word": "reader",
+          "count": 55
+        },
+        {
+          "word": "gatsby",
+          "count": 52
+        },
+        {
+          "word": "reading",
+          "count": 45
+        },
+        {
+          "word": "readers",
+          "count": 44
+        },
+        {
+          "word": "fitzgerald",
+          "count": 42
+        },
+        {
+          "word": "story",
+          "count": 27
+        },
+        {
+          "word": "reviewers",
+          "count": 26
+        },
+        {
+          "word": "light",
+          "count": 24
+        },
+        {
+          "word": "plot",
+          "count": 23
+        },
+        {
+          "word": "american",
+          "count": 22
+        },
+        {
+          "word": "modern",
+          "count": 22
+        },
+        {
+          "word": "reviews",
+          "count": 22
+        },
+        {
+          "word": "read",
+          "count": 21
+        },
+        {
+          "word": "text",
+          "count": 20
+        },
+        {
+          "word": "failure",
+          "count": 20
+        },
+        {
+          "word": "green",
+          "count": 19
+        },
+        {
+          "word": "nick",
+          "count": 19
         }
       ]
     }

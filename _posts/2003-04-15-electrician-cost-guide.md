@@ -9,7 +9,7 @@ excerpt: "An electrician cost guide with defensible price ranges for outlets, ci
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
 author: "david-thornton"
-last_updated: 2003-04-15
+last_updated: 2026-07-17
 lang: en
 ---
 An electrician cost sits on a wider spread than almost any other trade in the house, and that spread is exactly why homeowners get taken. The same three words, "replace my panel," can pull a fair quote and a padded one that is more than double it, and unless you know what the job actually involves, both numbers look equally plausible on the page. This guide does the ranged math the brochures dodge. It separates a quick service call from small fixed jobs like an outlet, from mid jobs like adding a circuit, from the big-ticket panel upgrade and whole-house rewire where the number moves the most. By the end you will be able to hold any electrical quote against a defensible band and know within a minute whether it is fair, high, or padded.

@@ -9,7 +9,7 @@ excerpt: "A roofing cost guide to per-square pricing, the repair and replacement
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 69
 author: "thomas-reid"
-last_updated: 2004-11-01
+last_updated: 2026-07-17
 lang: en
 ---
 A roofing cost quote is one of the few numbers a homeowner is asked to accept with almost no ability to check it. The work happens twenty feet up, out of sight, on a surface most people have never walked. The materials come in units nobody uses anywhere else in daily life. The person delivering the number often arrived because something already went wrong, which means the homeowner is scared, wet, or both, and scared people sign things. That combination is why roofing produces some of the widest quote spreads in home services: three companies can look at the same house and hand back numbers that differ by a factor of two or three, and the homeowner has no framework for deciding which one is honest.

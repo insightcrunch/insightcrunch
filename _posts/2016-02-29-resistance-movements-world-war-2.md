@@ -9,7 +9,7 @@ excerpt: "WWII resistance against Axis occupation built modest direct military r
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 83
 author: "amanda-ross"
-last_updated: 2016-02-29
+last_updated: 2026-07-17
 lang: en
 ---
 A young Polish courier crossed the Vistula in October 1944 carrying a written plea from the burning rubble of Warsaw to Soviet headquarters a few miles away, asking for the artillery support that would not come. A Yugoslav peasant in Bosnia hid an Allied airman in a barn while German patrols searched the village. A schoolteacher in Lyon mimeographed an underground bulletin in a back room while her husband watched the street. A Norwegian saboteur strapped explosives to a heavy-water plant in Telemark. A German aristocrat placed a briefcase under a wooden table at the Wolf's Lair and walked out, expecting to die. The word resistance has been asked to cover all of these acts and many thousands more, and the asking has not been gentle on the historical record.

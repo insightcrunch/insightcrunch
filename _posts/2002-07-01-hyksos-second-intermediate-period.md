@@ -9,7 +9,7 @@ excerpt: "The Hyksos ruled Egypt's Delta from Avaris while Thebes and Kush held 
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 77
 author: "amanda-ross"
-last_updated: 2002-07-01
+last_updated: 2026-07-17
 lang: en
 ---
 For roughly a century, the throne of Lower Egypt was occupied by kings whose fathers had names no scribe of the Twelfth Dynasty would have recognized. The Second Intermediate Period, running circa 1650 to 1550 BCE, is the stretch of Egyptian history in which a dynasty of West Asian origin, remembered by the Egyptian phrase that gives us the word Hyksos, ruled the eastern Delta from a city called Avaris while a rival Egyptian line held the south from Thebes and an African kingdom centered on Kerma held Nubia. Egyptian tradition treated the episode as a wound. Modern scholarship treats it as the most consequential hundred years in the country's long middle, because the state that emerged from it was not the inward-facing kingdom that went into it. It was an empire.

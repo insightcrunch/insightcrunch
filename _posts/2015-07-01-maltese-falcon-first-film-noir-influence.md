@@ -9,7 +9,7 @@ excerpt: "The Maltese Falcon fixed the hardboiled private eye on screen, launche
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2015-07-01
+last_updated: 2026-07-17
 lang: en
 ---
 The clearest line of influence The Maltese Falcon set running is a man: a private detective who works for money, lies as fluently as the people he is hired to outwit, and keeps exactly one rule when everyone around him has none. Before John Huston's 1941 picture, the screen sleuth was a puzzle-solver, a gentleman of superior reasoning who restored order to a world that was fundamentally sound. After it, the detective became something else entirely, a wary professional moving through a corruption so total that his private code is the only law left standing. That figure, and the whole stylistic cycle organized around him, is what this film bequeathed to the cinema, and the bequest traveled far beyond Warner Bros. and beyond the United States.

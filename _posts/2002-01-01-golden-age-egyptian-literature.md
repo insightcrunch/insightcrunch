@@ -9,7 +9,7 @@ excerpt: "The golden age of Egyptian literature arrived in the Middle Kingdom, w
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2002-01-01
+last_updated: 2026-07-17
 lang: en
 ---
 The golden age of Egyptian literature was not a temple archive and it was not a stack of tax rolls. It was a body of stories, complaints, and teachings that a reader can still follow, argue with, and be moved by, produced in the Middle Kingdom that ran from circa 2055 to 1650 BCE. Measured against the writing of its own time, Middle Kingdom Egyptian literature reached a level of craft that later Egyptians never treated as a passing fashion. They treated it as the standard. For most of the pharaonic centuries that followed, a young scribe learned to write by copying these works, and the phase of the language they were composed in, Middle Egyptian, became the classical form taught in schools and carved on monuments long after ordinary speech had moved on.

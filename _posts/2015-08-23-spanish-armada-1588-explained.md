@@ -5,11 +5,11 @@ page_title: "The Spanish Armada of 1588 Explained: Why the Spanish Lost Through 
 date: 2015-08-23
 categories: ["Leisure"]
 tags: ["spanish-armada", "elizabeth-i", "philip-ii", "1588", "naval-history", "medieval-history"]
-excerpt: "The Spanish Armada's defeat in 1588 was a failure of Philip II's own planning as much as an English victory, and most of its worst errors were preventable."
+excerpt: "Decode the Spanish Armada of 1588 as the naval gamble that quietly shifted European power for a century."
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2015-08-23
+last_updated: 2026-07-17
 lang: en
 ---
 In the stone corridors of the Escorial, the vast monastery-palace northwest of Madrid, King Philip II of Spain governed the largest empire the world had yet seen with a pen. He read dispatches by candlelight, annotated them in his cramped hand in the margins, and sent them back across distances that took weeks to cross. By 1588 those margins carried the king's instructions for the most ambitious military operation of the sixteenth century: the invasion of Protestant England. The scheme was meticulous, enormously expensive, and personally supervised by the monarch himself. It also failed completely.

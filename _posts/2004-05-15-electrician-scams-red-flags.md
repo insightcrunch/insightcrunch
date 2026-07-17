@@ -9,7 +9,7 @@ excerpt: "Electrician scams follow a handful of set plays. Learn the invented ha
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 69
 author: "james-carter"
-last_updated: 2004-05-15
+last_updated: 2026-07-17
 lang: en
 ---
 Almost every one of the electrician scams that costs a homeowner real money starts the same way: a technician comes out for something small, spends four minutes at the panel, and comes back into the kitchen wearing an expression. Then the sentence arrives. This is a fire waiting to happen. I would not sleep in this house tonight. Whoever wired this should not have a license. The sentence is designed to do one job, which is to move you from a two-hundred-dollar visit to a five-figure decision before you have had time to think, and it works because it borrows the one thing electricity genuinely has, which is the power to kill you and burn your house down. That fear is real. The pitch built on top of it very often is not.

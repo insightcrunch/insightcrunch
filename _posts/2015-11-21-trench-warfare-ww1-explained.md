@@ -9,7 +9,7 @@ excerpt: "Trench warfare on the Western Front was the specific outcome of machin
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2015-11-21
+last_updated: 2026-07-17
 lang: en
 ---
 Trench warfare is the image the First World War left behind in popular memory: a soldier in a sodden parapet, lice in his uniform, rats in the dugout, a whistle calling him over the top into machine gun fire he cannot survive. The image is accurate, but the image fails as explanation. What yielded the four years of static slaughter on the Western Front was not human stupidity or generic military incompetence. It was a specific combination of industrial technologies, none of them new in 1914, that converged on a battlefield where defenders could kill attackers faster than attackers could cross open ground.

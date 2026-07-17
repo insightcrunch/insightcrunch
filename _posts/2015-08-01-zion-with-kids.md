@@ -9,7 +9,7 @@ excerpt: "Plan Zion with kids around the cold Virgin River and the exposed cliff
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 68
 author: "rahul-banerjee"
-last_updated: 2015-08-01
+last_updated: 2026-07-17
 lang: en
 ---
 The honest way to plan Zion with kids is to build the whole trip around two hazards and let everything else fall into place behind them. The first is the Virgin River, which runs cold and fast through the canyon and tempts every child toward its edge. The second is the height of the cliffs, which turns famous routes like Angels Landing into a hard no for most young travelers. Get those two right and the rest of a Zion family trip is surprisingly easy, because the park hands you a free shuttle, a string of paved riverside walks, and a ranger program that turns a hike into a quest. Get them wrong and the same canyon that delights a five-year-old in the morning becomes the place a parent spends the afternoon white-knuckled and bargaining.

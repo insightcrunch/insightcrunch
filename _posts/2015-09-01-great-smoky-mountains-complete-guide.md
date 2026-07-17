@@ -9,7 +9,7 @@ excerpt: "Plan a Great Smoky Mountains trip the right way: the parking-tag rule,
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 77
 author: "rahul-banerjee"
-last_updated: 2015-09-01
+last_updated: 2026-07-17
 lang: en
 ---
 Two facts surprise almost everyone who plans a first trip to the Great Smoky Mountains, and getting them straight before you book is the difference between a smooth week and a frustrating one. The first is about money: there is no entrance fee to drive into the park, yet you now need a paid parking tag to leave your car anywhere inside it, which means the budget math works nothing like the western parks where one fee covers everything. The second is about lodging: there are no hotels, lodges, or motels inside the park boundary, so you do not "stay in the Smokies" the way you stay at a lodge in Yellowstone. You base in a gateway town or a rented cabin on the edge and drive in each day. Hold those two ideas and the rest of the planning falls into place quickly.

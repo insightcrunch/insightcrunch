@@ -9,7 +9,7 @@ excerpt: "The Meiji Restoration remade Japan in a single generation, and the cle
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2015-11-06
+last_updated: 2026-07-17
 lang: en
 ---
 The Meiji Restoration was the deliberate self-reconstruction of a state, carried out fast enough to keep a country from being colonized, and the clearest way to read it is as selective adoption rather than Westernization. Between the seizure of power in the name of a fifteen-year-old emperor in early 1868 and the death of that same emperor as a fifty-nine-year-old monarch in 1912, Japan dismantled a feudal order that had governed for two and a half centuries, built a conscript army, a national railway grid, a constitution, a banking system, and a school network that reached almost every village, and then defeated the Russian Empire in open war. No other society outside the Atlantic world had done anything comparable. The temptation, then and now, is to call this Westernization, as though Japan simply decided to become a European country. That description is wrong, and the wrongness matters, because it hides the actual mechanism that made the transformation work.

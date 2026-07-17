@@ -9,7 +9,7 @@ excerpt: "The end of Atlantic slavery took nearly a century and was driven by en
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2015-10-17
+last_updated: 2026-07-17
 lang: en
 ---
 The standard narrative of how slavery ended goes something like this: good people in Britain and America recognized that owning human beings was wrong, campaigned against it, and eventually prevailed. William Wilberforce spoke eloquently in Parliament. Abraham Lincoln freed the enslaved. Moral progress marched forward. That narrative is not entirely false, but it is dangerously incomplete, and its incompleteness matters because it determines which agents get recognized as producing one of the most consequential transformations in modern history. The process that dismantled Atlantic slavery between roughly 1793 and 1888 was driven by at least three forces operating simultaneously: the resistance of enslaved people themselves, whose revolts and daily acts of defiance made the system progressively more expensive and politically unstable; shifting economic structures that altered the cost-benefit calculations sustaining slave labor; and sustained humanitarian mobilization that translated moral conviction into political pressure. Any account that foregrounds one of these forces while marginalizing the others produces a distorted picture of how civilizational change actually happens.

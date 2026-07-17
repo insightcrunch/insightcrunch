@@ -9,7 +9,7 @@ slug: "battle-of-stalingrad-explained"
 author: "insight-crunch-team"
 reading_time: 70
 image: "/assets/images/blog/blog-109.webp"
-last_updated: "2016-02-09"
+last_updated: 2026-07-17
 lang: en
 ---
 Stalingrad was the Eastern Front turning point in the Second World War, and the specific decisions that produced its outcome remain among the most consequential command choices in modern military history. Between August 1942 and February 1943, the German Sixth Army under Friedrich Paulus advanced into a Soviet industrial city on the Volga River, became trapped in a Soviet encirclement operation of extraordinary operational sophistication, and was destroyed as a fighting force. Approximately 750,000 German and Axis-allied troops became casualties during the campaign, including roughly 91,000 taken prisoner at the final surrender. Of those prisoners, only approximately 5,000 ever returned to Germany. The catastrophe at Stalingrad shifted the strategic initiative on the Eastern Front permanently to the Soviet Union and established the trajectory that would carry the Red Army westward through Eastern Europe and into Berlin by April 1945.

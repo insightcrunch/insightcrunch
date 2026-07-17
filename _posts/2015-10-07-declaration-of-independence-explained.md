@@ -9,7 +9,7 @@ excerpt: "The Declaration of Independence was a legal document built to win fore
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 72
 author: "chloe-martin"
-last_updated: 2015-10-07
+last_updated: 2026-07-17
 lang: en
 ---
 The Declaration of Independence is a legal and diplomatic instrument that justified one specific act, the secession of thirteen British colonies, to audiences abroad whose recognition the new states urgently needed. That sentence is not how most readers first meet the text. They meet it through a single soaring clause about equal creation and unalienable rights, a clause that occupies roughly two hundred words near the top of a page that runs to about thirteen hundred. The famous passage is real, and its consequences have been enormous, but it is the short philosophical preface to a much longer and far more practical argument. Most of the writing is a detailed indictment of one man, King George III, assembled to prove that the colonists had a lawful grievance and had exhausted every peaceful remedy before resorting to separation.

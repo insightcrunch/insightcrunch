@@ -9,7 +9,7 @@ excerpt: "Mussolini's 1922 rise to power was never predetermined. King Victor Em
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2015-12-31
+last_updated: 2026-07-17
 lang: en
 ---
 On the night of October 27, 1922, Italian Prime Minister Luigi Facta placed a decree of martial law on the desk of King Victor Emmanuel III and asked him to sign it. The Italian Army had approximately 28,000 soldiers in Rome, better armed and better disciplined than the roughly 30,000 Fascist militia congregating outside the capital. That decree would have authorized the army to disperse the Fascist forces and arrest their leaders. Victor Emmanuel refused to sign. That refusal transformed a paramilitary threat into a constitutional appointment, and within three years, Benito Mussolini had dismantled Italian democracy and established the first fascist dictatorship in European history.

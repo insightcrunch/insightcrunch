@@ -3,9 +3,9 @@ layout: post
 title: "The French Revolution Explained"
 page_title: "The French Revolution Explained - Bastille, Terror, Napoleon, and How France Destroyed a Monarchy and Accidentally Invented Modern Politics"
 date: 2015-09-07
-last_updated: 2025-05-15
+last_updated: 2026-07-17
 author: "insight-crunch-team"
-excerpt: "The French Revolution's decisive phase permanently ended European monarchical legitimacy as the default, and its consequences far outran all intentions."
+excerpt: "Decode the French Revolution as the upheaval that turned a kingdom into a laboratory for modern politics."
 tags: ["french-revolution", "european-history", "bastille", "napoleon", "world-history"]
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 56

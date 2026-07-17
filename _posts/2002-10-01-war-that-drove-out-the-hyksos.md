@@ -9,7 +9,7 @@ excerpt: "The war that drove the Hyksos from Egypt took three Theban reigns: Seq
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2002-10-01
+last_updated: 2026-07-17
 lang: en
 ---
 The war that drove the Hyksos from Egypt was not won by a hero on a chariot at the head of a single charge. It was won by three kings of Thebes across roughly a generation of fighting, by a river fleet that turned the Nile into a supply line, by Nubian scouts and archers hired from the southern deserts, and above all by an Egyptian army that had spent decades learning to fight the way its enemy fought. Egypt did not expel the rulers of Avaris by out-mustering them or by rediscovering some native genius for battle. Egypt expelled them by adopting the horse, the light spoked-wheel chariot, the composite bow, the bronze scale corselet, and the curved sickle-sword, and then applying that borrowed kit with a discipline and a river-based logistics system the Hyksos could not match. That is the argument this article defends, and it is the reason the campaign matters far more than its casualty figures ever could.

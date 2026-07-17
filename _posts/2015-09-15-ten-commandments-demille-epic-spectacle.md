@@ -9,7 +9,7 @@ excerpt: "How The Ten Commandments turned 1950s scale into a weapon against tele
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2015-09-15
+last_updated: 2026-07-17
 lang: en
 ---
 The most useful way to understand The Ten Commandments is not as a sermon and not as a relic, but as a production solving a business problem with a hammer the size of a continent. In 1956, the American film industry was losing its audience to a small box in the living room, and Cecil B. DeMille answered that threat with a 220-minute religious epic shot in VistaVision and Technicolor, mounted at a scale no home receiver could imitate. The film was his last, the thirty-something feature of a career that began when cameras were hand-cranked, and it was a partial remake of his own 1923 silent version of the same story. Everything about its making points back to one calculation: give the public a thing the television set physically cannot deliver, and they will leave the house to see it. That calculation is the key to the whole picture, and it is why the making of this film explains the film better than any reading of its theology.

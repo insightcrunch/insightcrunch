@@ -9,7 +9,7 @@ excerpt: "DIY electrical work has one hard line: do it only if you can fully de-
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "alex-cunningham"
-last_updated: 2003-10-01
+last_updated: 2026-07-17
 lang: en
 ---
 Most home trades punish a mistake with a mess. DIY electrical work punishes a mistake with a fire, and the fire may not arrive for two years. That is the whole difference, and it is why the honest line between a homeowner job and a licensed job in this trade sits in a different place than it does in plumbing, painting, or carpentry. A loose supply line under a sink announces itself within a day and ruins a cabinet. A loose connection behind a receptacle announces itself never, heats quietly through a thousand cycles, chars the box, and eventually finds something to ignite inside a wall you cannot see.

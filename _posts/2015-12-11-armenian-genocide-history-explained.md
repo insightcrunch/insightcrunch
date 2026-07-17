@@ -9,7 +9,7 @@ excerpt: "The Armenian Genocide killed about 1.5 million people. It was the 20th
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2015-12-11
+last_updated: 2026-07-17
 lang: en
 ---
 In the spring of 1915, on the night of April 24, Ottoman gendarmes moved through the streets of Constantinople with prepared arrest lists. By morning, roughly 250 Armenian writers, clergymen, lawyers, doctors, parliamentarians, and community organizers had been seized from their homes. Most were transported into the interior and killed within weeks. The date has been observed ever since as Armenian Genocide Remembrance Day, although the killings did not begin that night and did not end for another eight years. What began that April was the first systematic government extermination of an entire people in modern history, organized by a recognizable bureaucratic regime, documented in real time by diplomats from at least three major powers, and prosecuted briefly by the Ottoman government's own postwar tribunals before being repudiated by its republican successor.

@@ -8,7 +8,7 @@ excerpt: "Pearl Harbor was tactical success and strategic catastrophe for Japan.
 slug: "pearl-harbor-attack-explained"
 author: "amanda-ross"
 image: "/assets/images/blog/blog-08.webp"
-last_updated: "auto"
+last_updated: 2026-07-17
 reading_time: 70
 lang: en
 ---

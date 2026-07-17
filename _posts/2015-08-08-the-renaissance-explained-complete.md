@@ -5,11 +5,11 @@ page_title: "The Renaissance Explained: Why Burckhardt's 1860 Frame Is Not How S
 date: 2015-08-08
 categories: ["Leisure"]
 tags: ["renaissance", "italian-renaissance", "burckhardt", "humanism", "cultural-history", "medieval-history"]
-excerpt: "The Renaissance is an 1860 Burckhardt invention. The 14th-16th century Italian reality was more continuous with medieval Europe than the frame admits."
+excerpt: "Decode the Renaissance as the moment Europe began consciously reaching back to antiquity to leap forward."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2015-08-08
+last_updated: 2026-07-17
 lang: en
 ---
 The Renaissance is the most famous turning point in European history, and it is also the most misleading. Most readers picture a sudden awakening: a dark, superstitious medieval world ending around 1400, and a brilliant culture rising in the cities of Italy to rediscover ancient Greece and Rome, invent the modern individual, and carry Europe across the threshold of the modern age. That picture did not come from the people who lived through the fourteenth and fifteenth centuries, and it did not even come mostly from the evidence. The whole synthesis was assembled by a single Swiss historian, Jacob Burckhardt, whose 1860 book gave the era its shape, its drama, and almost all of its enduring claims. The paintings, buildings, and books were real. What was placed around them, the frame itself, was an interpretation, and over the past hundred and fifty years scholarship has quietly dismantled most of it.

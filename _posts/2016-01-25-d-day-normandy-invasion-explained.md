@@ -9,7 +9,7 @@ excerpt: "D-Day succeeded through planning, deception, weather luck, and German 
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2016-01-25
+last_updated: 2026-07-17
 lang: en
 ---
 On the morning of June 6, 1944, approximately 160,000 Allied troops crossed the English Channel and landed on five beaches along a fifty-mile stretch of the Normandy coastline. The operation, codenamed Overlord, was the largest amphibious military invasion in recorded history, and its success opened the Western Front that would contribute to Nazi Germany's defeat within eleven months. Popular memory treats June 6 as the day the Allies won the war, but that framing collapses a contingent achievement into an inevitable outcome. D-Day succeeded through a convergence of factors that included years of planning, an elaborate deception campaign, a narrow weather window, specific logistical innovations, and critical German command failures. Remove any single factor, and the invasion's outcome changes substantially. The thesis that runs through this analysis is straightforward: D-Day succeeded through a specific combination of preparation, deception, weather, and German error, and that combination was contingent rather than historically guaranteed.

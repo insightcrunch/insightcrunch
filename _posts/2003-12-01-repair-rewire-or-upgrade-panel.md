@@ -9,7 +9,7 @@ excerpt: "An electrical panel decision has one right answer: repair, upgrade, or
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "william-knight"
-last_updated: 2003-12-01
+last_updated: 2026-07-17
 lang: en
 ---
 The electrical panel decision almost never arrives as a decision. It arrives as a sentence from someone standing in your basement with a flashlight, and the sentence is usually some version of "this whole thing needs to be replaced." Maybe you called about a breaker that keeps tripping. Maybe you asked what it would take to run a circuit to the garage. Maybe an inspector wrote a line on a report before closing. However you got here, you are now holding a quote for a job you did not go looking for, and you have no way to tell whether the person who wrote it is protecting you or selling you.

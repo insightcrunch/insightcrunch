@@ -9,7 +9,7 @@ excerpt: "Sunset Boulevard turned Hollywood's gaze on itself, casting real disca
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2015-07-15
+last_updated: 2026-07-17
 lang: en
 ---
 There is a particular kind of artwork that the people it describes cannot forgive, not because it lies about them but because it does not. Sunset Boulevard belongs to that category. When Billy Wilder's account of a forgotten silent star and the dead screenwriter she keeps premiered in 1950, the same film that critics and the Academy moved to honor was the film that a roomful of studio chiefs wanted run out of town. Those two reactions look opposite. They were the same reaction. Hollywood applauded and recoiled at one object because that object had told the truth about the industry using the industry's own discarded people as evidence, and there is no comfortable way to receive a verdict delivered in your own voice.

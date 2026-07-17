@@ -9,7 +9,7 @@ excerpt: "Latin American independence between 1810 and 1825 was not a single coh
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2015-10-02
+last_updated: 2026-07-17
 lang: en
 ---
 There is a map of the early nineteenth century that most schoolrooms still hang on the wall, and it is wrong in a quiet but consequential way. It shows a vast Spanish empire stretching from California to Cape Horn, and then it shows that empire dissolving, in the span of a single generation, into a constellation of new republics. The story attached to the map is heroic and tidy. Two great liberators, Simon Bolivar in the north and Jose de San Martin in the south, marched armies across mountains and plains, met in the middle, and handed a continent its freedom. The trouble is that the tidy story conceals the thing most worth understanding. What happened across Spanish and Portuguese America between 1810 and 1825 was not a single movement with a unified cause and a common shape. It was a dozen different ruptures, driven by different coalitions, triggered by different crises, and arriving at strikingly different destinations.

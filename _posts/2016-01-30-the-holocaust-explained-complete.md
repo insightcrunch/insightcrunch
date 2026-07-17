@@ -9,7 +9,7 @@ excerpt: "The Holocaust systematically murdered six million European Jews throug
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2016-01-30
+last_updated: 2026-07-17
 lang: en
 ---
 Roughly six million European Jews were murdered between 1933 and 1945 in a genocide that the perpetrators planned, documented, and executed through the administrative machinery of a modern state. These victims represented about two-thirds of the entire European Jewish population. An additional five million people perished in the same campaign of systematic killing, including Roma and Sinti, Soviet prisoners of war, disabled persons, political prisoners, Polish and Soviet civilians, homosexuals, Jehovah's Witnesses, and others targeted by the Nazi regime. In total, the Holocaust's death toll reached close to eleven million human beings, each one an individual with a name, a family, and a life destroyed by deliberate state policy. The scale of the crime resists comprehension, but the mechanisms that produced it are historically specific, documentarily established, and essential to understand.

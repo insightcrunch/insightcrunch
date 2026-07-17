@@ -9,7 +9,7 @@ excerpt: "The October 1929 Wall Street crash was an ordinary recession. Federal 
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 76
 author: "amanda-ross"
-last_updated: 2015-12-26
+last_updated: 2026-07-17
 lang: en
 ---
 The Great Depression is the case study every modern central banker and treasury official keeps within reach. U.S. unemployment peaked near roughly a quarter in 1933. United States gross domestic product fell roughly a third between 1929 and 1933. About nine thousand U.S. lenders closed their doors during those four years. Global trade collapsed by half in value between 1929 and 1932. Germany and Britain experienced declines of comparable or worse severity. The October 1929 Wall Street crash is the date the public remembers, but the crash itself was an ordinary financial shock that ordinary recessions absorb. What converted that shock into a decade of misery was not bad luck or animal spirits or speculative excess. It was a chain of identifiable policy failures whose mechanisms scholars have spent eighty years documenting.

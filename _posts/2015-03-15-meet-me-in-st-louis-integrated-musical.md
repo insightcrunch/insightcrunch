@@ -9,7 +9,7 @@ excerpt: "Meet Me in St. Louis advanced the integrated musical, where each song 
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2015-03-15
+last_updated: 2026-07-17
 lang: en
 ---
 ## What Meet Me in St. Louis Changed About the Movie Musical

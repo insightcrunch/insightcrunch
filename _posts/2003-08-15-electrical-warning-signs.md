@@ -9,7 +9,7 @@ excerpt: "Learn the electrical warning signs that mean shut off the breaker and 
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 69
 author: "william-knight"
-last_updated: 2003-08-15
+last_updated: 2026-07-17
 lang: en
 ---
 The single most important electrical warning signs a homeowner can learn to read are the ones that involve heat and smell, because those are the signs that come right before a fire. A light that flickers when the furnace kicks on is annoying. An outlet that is warm to the touch, or that gives off a faint burning or fishy odor, is a different category of problem entirely. One is a puzzle you can afford to think about over the weekend. The other means you walk to the panel, shut off that circuit, and call an electrician the same day. The difference between those two responses is the whole point of this guide, and it is the difference a search result stuffed with ads will never explain to you.
