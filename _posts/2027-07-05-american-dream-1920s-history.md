@@ -6,15 +6,15 @@ date: 2027-07-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "F. Scott Fitzgerald", "Context", "American Literature", "Themes"]
 excerpt: "The American Dream in 1920s history was a promise the decade made and broke at the same time. Here is the ideology, the reality, and what it does to Gatsby."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 55
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-07-05
+lang: en
 ---
-
 Gatsby's father pulls a ragged boy's adventure book out of his coat at the funeral and opens it to the back flyleaf. On it, in a child's hand, dated September 12, 1906, there is a schedule. Rise at six. Study electricity. "Practise elocution, poise and how to attain it." Save five dollars a week, with the five crossed out and three written in above it. To read that page without the American Dream in 1920s history is to see a touching relic of a boy who wanted things. To read it with that history is to watch an ideology caught mid-gesture, adjusting its own arithmetic downward while leaving the faith completely untouched.
 
-![The American Dream in 1920s history and The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The American Dream in 1920s history and The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 That is the difference context makes, and it is why this article exists. The novel is taught almost everywhere as the great book about the American Dream, and the phrase does more damage than help, because it arrives in the classroom already sanded smooth. It sounds permanent. It sounds like something Americans have always had and Gatsby merely wanted too much of. Underneath the phrase, though, sits a specific historical object: a set of claims that a particular decade made, in particular words, for particular reasons, to particular people, while quietly excluding others by statute. That object has dates. It can be quoted. It broke in ways that can be documented rather than merely felt.
 

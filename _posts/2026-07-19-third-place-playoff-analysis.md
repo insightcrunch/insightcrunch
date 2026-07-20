@@ -6,15 +6,15 @@ date: 2026-07-19
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "England", "Third-Place Play-Off", "Match Analysis"]
 excerpt: "France vs England analysis: England won a chaotic 6-4 World Cup 2026 third-place play-off in Miami, where Kylian Mbappe became the record World Cup scorer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "naomi-adebayo"
 last_updated: 2026-07-19
+lang: en
 ---
-
 The France vs England analysis from the World Cup 2026 third-place play-off begins with a scoreline that reads like a misprint and a first half that decided everything. England beat France 6-4 in Miami on July 18 to finish third at the World Cup 2026, and the single thing that explains a ten-goal bronze final is that Thomas Tuchel's heavily rotated side scored four times inside the opening forty-six minutes and then held on through a French storm that at one stage cut the gap to a single goal. Declan Rice, wearing the captain's armband, struck inside three minutes; Ezri Konsa headed the second; Bukayo Saka scored twice before the interval and completed a hat-trick from the penalty spot late on; and Jude Bellingham, a substitute, dribbled in the sixth. France answered through a Kylian Mbappe brace that carried him past Lionel Messi to become the all-time leading scorer in World Cup history, plus goals from Bradley Barcola and Ousmane Dembele, but the comeback fell one short in what was Didier Deschamps' last match in charge of Les Bleus.
 
-![France vs England World Cup 2026 third-place play-off analysis in Miami](/assets/images/blog/blog-01.webp)
+![France vs England World Cup 2026 third-place play-off analysis in Miami](/assets/images/blog/blog-67.webp)
 
 That is the frame we will build this France vs England analysis around, and it deserves a name, because a game billed all week as a meaningless exhibition turned into one of the most consequential dead rubbers the tournament has produced. Call it the Miami cushion: England's four-goal first-half lead was, in the end, the exact margin the Three Lions needed to survive a France revival, and the pressure-off shootout that followed still carried the tournament's biggest individual stakes. A manager said goodbye. A striker rewrote the record books. A young Englishman set a national scoring mark. And a supposedly low-stakes fixture delivered the most goals seen in a single World Cup match in more than four decades. The bronze medal was the smallest prize on the table in Miami, and yet the night mattered far more than the pre-match narrative allowed.
 

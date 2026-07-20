@@ -6,17 +6,17 @@ date: 2002-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hyksos", "Second Intermediate Period", "Ancient Egypt", "Archaeology", "Historiography", "World History"]
 excerpt: "How foreign rule under the Hyksos reshaped Egyptian identity, the real cultural blend at Avaris, and why Egypt's memory of the era hardened into hostility."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2002-12-01
+lang: en
 ---
-
 Sometime around 1650 BCE, a woman living in the eastern Delta city of Avaris buried a relative. She laid the body in a mudbrick chamber built to an Egyptian plan, set Egyptian pottery beside it for the funerary meal, and pinned the burial shroud with a bronze toggle pin of a type made in the Levant. Outside the chamber door, in a pit cut for the purpose, she or her family buried a pair of donkeys, a rite no Egyptian had ever practiced and every Canaanite would have recognized. She was, on the evidence of that single grave, neither wholly Egyptian nor wholly foreign. She was a resident of a city where foreign rule and Egyptian identity had stopped being opposites and started being neighbors. Her grave is the reason this article exists, because the standard story of the period cannot accommodate her at all.
 
 The standard story says that a horde of Asiatic invaders stormed Egypt, burned its temples, enslaved its people, and held the Nile in a grip of terror for a century until Theban liberators drove them into the sea. The standard story comes almost entirely from Egyptians and Greeks writing centuries after the fact, with reasons to say exactly that. The archaeology of Avaris says something much stranger and much more useful: that Egyptians and their foreign rulers lived alongside each other, borrowed from each other in both directions, worshipped in adjacent precincts, wrote in the same script, and produced a hybrid court culture that was neither purely Egyptian nor purely Levantine. And then the Egyptians who overthrew that arrangement spent the next four centuries telling everyone it had been an atrocity.
 
-![Foreign rule and Egyptian identity under the Hyksos, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Foreign rule and Egyptian identity under the Hyksos, explained - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 Both things are true, and the gap between them is the subject here. Foreign rule did not erase Egyptian identity. It did something more interesting: it forced Egyptians to state what that identity was. Before the Hyksos, Egyptianness was mostly an unexamined default, the condition of living in the valley under a king who kept order. After the Hyksos, Egyptianness was a claim, an argument, and eventually a program of state policy backed by an army. The thesis this article defends is that Egyptian identity sharpened precisely against the Hyksos, which means foreign rule helped define what Egyptians thought it meant to be Egyptian. Call it the identity-by-contrast thesis. It is not a comfortable finding for anyone who wants a clean story of oppression, and it is not a comfortable finding for anyone who wants a rosy story of multicultural harmony either.
 

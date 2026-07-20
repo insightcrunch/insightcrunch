@@ -6,15 +6,15 @@ date: 2026-07-18
 categories: ["Leisure"]
 tags: ["World Cup 2026", "France", "England", "Third-Place Play-Off", "Preview", "Leisure"]
 excerpt: "France vs England preview for the World Cup 2026 third-place play-off in Miami, with predicted lineups, the live Golden Boot race and a scoreline call."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sofia-marchetti"
 last_updated: 2026-07-18
+lang: en
 ---
-
 There is a familiar theory that the third-place play-off is the game nobody wants to play, a consolation prize handed to two beaten dressing rooms who would rather be somewhere else. The France vs England third-place play-off at World Cup 2026 sets out to test that theory in the sharpest way imaginable. Two of the deepest squads in the sport, both of them carrying the raw sting of a semi-final defeat, both of them still chasing something real, meet in Miami on Saturday with a bronze medal, a place in the record books and one of the tournament's biggest individual prizes all still up for grabs. Whatever the label says, this does not look like a dead rubber.
 
-![France vs England World Cup 2026 third-place play-off preview](/assets/images/blog/blog-01.webp)
+![France vs England World Cup 2026 third-place play-off preview](/assets/images/blog/blog-84.webp)
 
 The pitch for indifference falls apart the moment you look at the team sheets. Kylian Mbappe against Harry Kane. Jude Bellingham lining up opposite his Real Madrid teammate. Didier Deschamps taking charge of France one final time. Thomas Tuchel closing out a first tournament that took England within seven minutes of the final. The bronze final rarely draws this kind of star power, and it almost never arrives with a Golden Boot race genuinely undecided going into the last two matches of the competition. This preview walks through why the France vs England third-place play-off matters, how both nations arrived here, what each manager is likely to do with his lineup, the key tactical battles, the players to watch, everything at stake, the practical viewing details and a final prediction, all built from what is known before kickoff.
 

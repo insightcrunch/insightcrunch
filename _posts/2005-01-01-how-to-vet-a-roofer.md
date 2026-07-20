@@ -6,17 +6,17 @@ date: 2005-01-01
 categories: ["Industry"]
 tags: ["Home Services", "Roofing", "Hiring Guide", "Consumer Protection", "Warning Signs"]
 excerpt: "How to vet a roofing contractor: confirm the license, the liability and workers-compensation coverage, the local roots, and the warranty, plus the red flags."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2005-01-01
+lang: en
 ---
-
 There is one verification that catches more bad actors than every other check combined, and you can run it before you ever discuss price. Ask the person who wants to put a crew on your roof for two documents: proof of general liability coverage and proof of workers-compensation coverage, issued directly by their insurer rather than printed from their own laptop. A legitimate operator hands both over without flinching, because they pay for them every month and they are used to being asked. The transient crew that appeared in your neighborhood after the last hailstorm cannot produce either one, and the moment you ask, the conversation changes tone. That single request is the fastest way to vet a roofing contractor, and it works because it is the one thing a fly-by-night outfit cannot fake cheaply.
 
 Roofing is the trade most exposed to transient operators, and the reason is structural rather than moral. The work is seasonal, driven by weather events, high in dollar value, and performed somewhere the homeowner will never climb to inspect. Add an insurance check into the mix and you have a category where a person with a pickup truck, a magnetic door sign, and a stack of business cards can collect five-figure deposits across a subdivision and be three states away before the first leak appears. Vetting is not paperwork for its own sake here. It is the difference between a contract you can enforce and a phone number that stops working.
 
-![How to vet a roofing contractor, license, insurance and warranty checks for homeowners - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to vet a roofing contractor, license, insurance and warranty checks for homeowners - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 This guide gives you the verifications in the order that saves you the most time, the questions that reveal whether the person quoting your job actually knows the work, and the red flags that justify ending the call without guilt. If you want the wider picture of the whole hiring decision, our [complete guide to hiring a roofer](/2004/09/01/hire-a-roofer-complete-guide/) covers how the pieces fit together. Once a contractor clears the checks here, the [roofing cost guide](/2004/11/01/roofing-cost-guide/) is where you learn to judge the number they wrote on the proposal. The two jobs are separate, and doing them in that order matters: a cheap quote from an uninsured crew is not a bargain, it is an unfunded liability sitting on your homeowners policy.
 

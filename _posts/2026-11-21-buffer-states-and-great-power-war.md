@@ -6,17 +6,17 @@ date: 2026-11-21
 categories: ["Industry"]
 tags: ["Poland Security", "Ukraine", "Geopolitics", "Russia", "European Security", "Military Analysis"]
 excerpt: "Buffer states have stabilized, triggered, and been absorbed in great-power war. A historical typology tests where Ukraine fits and what it means for Poland."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-11-21
+lang: en
 ---
-
 The argument usually arrives in a single sentence, delivered as though it settled something. Ukraine is a buffer state, and buffer states get eaten. Or its mirror image, delivered with equal confidence: Ukraine is nothing like the old buffer states of the atlas, so the history is a distraction. Both sentences reach for the same body of evidence, the long record of small and middle states wedged between rival great powers, and both misread it. The record does not say that a state in between is doomed. It does not say it is safe. It says something more demanding and more useful: that the fate of the state in the middle turns on a specific condition, that the condition can be named, and that watching it is a better use of an analyst's attention than arguing about whether the analogy is allowed.
 
 This article takes the history seriously enough to test it. The claim it advances is narrow and, if it holds, consequential: a buffer stabilizes only while both flanking powers prefer it intact, and it becomes a flashpoint the moment one of them decides absorption is worth the price. That single condition, not geography and not weakness, explains why Switzerland survived two continental wars while Poland was partitioned three times in one generation, why Belgium's guaranteed neutrality kept the peace for seventy-five years and then helped detonate a world war, and why Korea moved from cushion to prize to colony in sixteen years. Applied to the present, it reframes the war in Ukraine as a contest over whether the buffer survives at all, with Poland standing behind it not as the next cushion but as the hardened line where the cushion logic stops.
 
-![Buffer states and great-power war, a historical typology tested against Ukraine and Poland - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Buffer states and great-power war, a historical typology tested against Ukraine and Poland - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The reason to do this carefully is that the alternative is being governed by whichever slogan is loudest. Historical analogy is not optional in strategic argument; it is how humans reason about situations they have not personally seen. The choice is not between using history and refusing to use it. The choice is between using it with discipline, testing the pattern against the case and marking where it fails, and using it as decoration for a conclusion already reached. The buffer-state pattern is one of the most heavily used analogies in the argument about the eastern flank and one of the least examined. This is the examination. It sorts the historical cases into three outcome classes with the conditions that produced each, names the rule that separates the classes, tests Ukraine against it honestly, and marks the places where the modern case genuinely differs from every case in the file.
 

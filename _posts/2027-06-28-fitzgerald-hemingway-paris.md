@@ -6,15 +6,15 @@ date: 2027-06-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Ernest Hemingway", "Context", "Literary Criticism", "American Literature"]
 excerpt: "Fitzgerald, Hemingway, and Paris: the expatriate milieu, the friendship of rivals, and what the 1920s scene can and cannot explain about The Great Gatsby."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 55
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-06-28
+lang: en
 ---
-
 The friendship started after the book was finished. That one checkable fact should govern everything a reader does with Fitzgerald, Hemingway, and Paris, and almost nobody mentions it. The Great Gatsby was published on April 10, 1925. The two men met in a Montparnasse bar in the weeks that followed, and by then the novel was printed, bound, reviewed, and already selling badly. Whatever the Paris expatriate scene did to Fitzgerald, it did not write his third novel. It arrived too late for that, and knowing exactly how late is the difference between using this context and being used by it.
 
-![Fitzgerald, Hemingway, and Paris: the 1920s expatriate milieu behind The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fitzgerald, Hemingway, and Paris: the 1920s expatriate milieu behind The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The temptation runs the other way, and it runs hard. Two of the largest names in American prose, one city, one decade, one shared publisher, one famous mutual antagonism, and a memoir by the survivor that turns the whole thing into an allegory about talent and waste. The pull toward a tidy story is enormous: Paris made them, they made each other, and Gatsby is somehow the product. Every part of that sentence is either wrong or so loose it does no analytical work. The real relationship is stranger, better documented, and considerably more useful, because it lets a reader see what a literary milieu actually does to a writer and what it does not.
 

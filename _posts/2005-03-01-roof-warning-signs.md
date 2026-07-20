@@ -6,17 +6,17 @@ date: 2005-03-01
 categories: ["Industry"]
 tags: ["Home Services", "Roofing", "Warning Signs", "Maintenance", "Repair or Replace", "Emergency"]
 excerpt: "Roof warning signs sorted by urgency: what a stain, a curled shingle, or a sag really means, which ones mean call a roofer today, and how to check safely."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2005-03-01
+lang: en
 ---
-
 Among all the roof warning signs a homeowner can notice, one carries more urgency than any other: a water stain on a ceiling that is bigger this month than it was last month. A stain that grows is not a memory of an old problem. It is a live report that water is entering the building right now, traveling somewhere it was never meant to go, and soaking materials that lose strength when they stay wet. Almost everything else on a roof can be triaged, scheduled, and budgeted. A spreading stain is the one that earns a phone call the same week you notice it, because every additional storm feeds the same path and the repair bill climbs from a flashing detail to a section of rotted decking to a ceiling that has to come down and go back up.
 
 That single distinction is the heart of this guide. A roof sends signals long before it fails outright, and the signals are readable. The trouble is that homeowners are handed two useless extremes. One extreme says every blemish is a crisis, which is exactly what a salesperson wants you to believe when there is a truck in the driveway and a contract on the clipboard. The other extreme says a roof is fine until water is dripping into a bucket, which is how a fifty dollar sealant job turns into a structural repair. Neither extreme is a diagnosis. What you need is the middle: the actual named symptoms, what each one usually indicates, and an honest sorting of which ones mean act now and which ones mean watch and document.
 
-![Roof warning signs and what each symptom means, an urgency triage for homeowners - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Roof warning signs and what each symptom means, an urgency triage for homeowners - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This guide gives you that sorting. It walks the signs you can see from inside the house, the signs visible from the ground outside, the places where leaks actually begin, and the ones that look cosmetic but are not. It gives you the safe checks you can make yourself, and it is blunt about the check you should never make, which is climbing up to look. Falls from residential roofs injure and kill homeowners every year, and the information you would gain from standing on the shingles is information a roofer can gather in ten minutes with the training and the harness to do it safely. The trade for that risk is terrible.
 

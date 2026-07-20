@@ -6,15 +6,15 @@ date: 2003-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Second Intermediate Period", "Hyksos", "Ancient Egypt", "Archaeology", "Historiography"]
 excerpt: "The Turin King List is a shattered Ramesside papyrus that became the backbone of Egyptian chronology. What it records, what it hides, and why it matters."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2003-02-01
+lang: en
 ---
-
 The Turin King List is a torn, brown, badly damaged sheet of papyrus in a museum in northern Italy, and it is the closest thing Egyptology has to a spine. Almost every date you have ever read about a pharaoh rests, somewhere down the chain of reasoning, on this document. It is not a monument. It is not gold. It was written on the back of a used tax register by a scribe in the age of Ramesses II, and by the time it reached Europe it had crumbled into scraps small enough to lose in a pocket. Yet the Turin King List does something no temple wall in Egypt does: it gives the names of kings in sequence and tells you how many years, months, and days each one held the throne. That single feature turns a list into a chronology, and a chronology into history.
 
-![What the Turin King List tells us about Egyptian chronology and the Hyksos, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What the Turin King List tells us about Egyptian chronology and the Hyksos, explained - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 To understand why a damaged papyrus outranks a wall of polished limestone, consider what the polished limestone actually gives you. The great royal rosters carved at Abydos and Saqqara are handsome, complete-looking, and almost useless for counting years. They name kings. They do not date them. They also lie by omission, dropping every ruler the reigning pharaoh's court preferred to forget. The Turin papyrus does the opposite. It is ugly, broken, and honest in the specific way that administrative documents tend to be honest: it was compiled to be used, not admired, and its compiler had no obvious reason to flatter anyone by editing the record down to a tidy line of legitimate ancestors.
 

@@ -6,15 +6,15 @@ date: 2005-04-15
 categories: ["Industry"]
 tags: ["Home Services", "Roofing", "Repair or Replace", "Cost Guide", "Consumer Protection", "Warning Signs"]
 excerpt: "Repair or replace your roof? The age, damage-extent and layer rules give you a clear verdict, settle overlay versus tear-off, and expose the scare quote."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2005-04-15
+lang: en
 ---
-
 The decision to repair or replace your roof almost never arrives calmly. It arrives as a stain spreading across a bedroom ceiling, or as a contractor standing in your driveway holding a phone full of photographs you cannot verify, saying the words "you really need a full replacement" in a tone that suggests the discussion is already over. And you stand there doing arithmetic you have no basis for, because nobody has ever told you what actually separates a roof that needs a patch from a roof that needs to come off.
 
-![Repair or replace your roof, the age, damage-extent and layer rules that decide it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Repair or replace your roof, the age, damage-extent and layer rules that decide it - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 That gap is not accidental. The roofing trade is one of the few where the person diagnosing the problem is also the person selling the solution, and where the evidence sits twenty feet above the customer's head. A homeowner cannot walk up and look. A homeowner cannot easily get a second set of eyes on the same square of shingles without scheduling another visit and another sales pitch. So the industry's default answer to almost every question drifts, gently and profitably, toward replacement.
 

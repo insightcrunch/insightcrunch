@@ -6,17 +6,17 @@ date: 2003-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hyksos", "Second Intermediate Period", "Ancient Egypt", "Archaeology", "World History"]
 excerpt: "Hyksos trade networks made Avaris a Delta emporium linking Egypt to the Levant, Cyprus, and the Aegean, so commerce, not conquest alone, funded the dynasty."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2003-01-01
+lang: en
 ---
-
 Hyksos trade built the Fifteenth Dynasty before Hyksos armies ever had to defend it. That sentence inverts the story most readers inherit, in which a horde of chariot-riding foreigners smashes into the Nile Delta, seizes a weakened Egypt by force, and holds it by terror for a century until Theban liberators throw them out. The archaeology of the eastern Delta tells a different story about where the money came from. Long before the rulers of Avaris took the titles of kings, the settlement they governed was already a port, already full of Canaanite pottery, already tied by sea and by donkey caravan to the harbors of the Levantine coast. When the Fifteenth Dynasty finally claimed a throne, it did not have to invent an economy. It had one, and that economy was built on moving goods.
 
 The question this article answers is the one an economic historian would ask first and a battle narrative never gets around to: how was the Hyksos state funded and run? Not who won which fight, but who paid for the grain, the bronze, the ships, and the officials. The answer runs through a single site in the eastern Delta, Tell el-Dab'a, ancient Avaris, and through the routes that radiated from it toward Canaan, Cyprus, the Aegean rim, and, by way of a long desert road, the Nubian kingdom of Kerma far to the south. Follow those routes and the Hyksos stop looking like an occupying army with a capital and start looking like a commercial dynasty with a hinterland.
 
-![Hyksos trade networks and the Avaris Delta emporium explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hyksos trade networks and the Avaris Delta emporium explained - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 This matters beyond antiquarian tidiness. The Second Intermediate Period is where students most often learn a bad habit: the habit of explaining political change entirely through violence. Egypt fragments, foreigners invade, Thebes reconquers, the New Kingdom begins. That chain is not wrong so much as it is hollow. It cannot explain why Avaris grew into one of the largest settlements in the eastern Mediterranean world of its day, why the material culture of the site is Canaanite while its administration writes in Egyptian, why a Fifteenth Dynasty ruler's name turns up on objects hundreds of miles from the Nile, or why the Theban king Kamose, when he wanted to describe what he was attacking, chose to inventory a harbor rather than count an army. A political explanation that ignores commerce cannot account for any of those facts. A commercial explanation accounts for all of them.
 

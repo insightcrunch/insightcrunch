@@ -6,17 +6,17 @@ date: 2027-07-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Jazz Age", "F. Scott Fitzgerald", "Context", "The American Dream", "American Literature"]
 excerpt: "Why the 1920s still explain The Great Gatsby: bootleg money, the class wall, racial panic, and the boom, and how to use the decade as real essay evidence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-07-12
+lang: en
 ---
-
 Tom Buchanan puts down his drink in the first chapter and says something most readers skim past. "Civilization's going to pieces," he announces, and then he recommends a book. A student a century later registers a rich man being unpleasant at dinner. A reader who knows the decade registers something sharper: Tom is quoting the bestseller list. Why the 1920s still explain The Great Gatsby comes down to that gap. It is not a question about background color. It is a question about whether you can hear what the sentences are doing.
 
 Tom is not inventing a private crankiness. He is repeating the most fashionable anxiety available to a man of his class in 1922, and Fitzgerald put it in his mouth early because it dates him, places him, and convicts him in a single gesture. Miss the history and the line is a boor talking. Catch it and the line is a diagnosis.
 
-![Why the 1920s still explain The Great Gatsby, historical context threads unlocked - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Why the 1920s still explain The Great Gatsby, historical context threads unlocked - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 This is the synthesis article for the whole context block of this series. Forty articles have gone before it, each taking one thread of the decade and pulling it through the book: Prohibition, the class map of Long Island, the racial pseudoscience on Tom's shelf, the speculative boom, the flappers, the automobiles, the Lost Generation, the publication story. This article does not repeat them. It gathers them. It answers the question that a reader arriving at the end of forty context pieces should be asking, which is not "what else happened in the twenties" but "why did any of that matter to the reading." The case here is that the decade is not the frame around the picture. The decade is the pigment.
 

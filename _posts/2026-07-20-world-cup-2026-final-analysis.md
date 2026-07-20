@@ -6,15 +6,15 @@ date: 2026-07-20
 categories: ["Leisure"]
 tags: ["World Cup 2026", "Spain", "Argentina", "Final", "Match Analysis"]
 excerpt: "Spain vs Argentina World Cup 2026 final result and analysis: Ferran Torres struck in extra time as La Roja beat ten-man Argentina to lift a second title."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-okoro"
 last_updated: 2026-07-20
+lang: en
 ---
-
 The Spain vs Argentina World Cup 2026 final ended the way the whole match had been trending, with Spain finding the goal their control deserved and Argentina running out of ways to stop them. Ferran Torres, a substitute, drove the only goal of the game into the roof of the net early in the second period of extra time, and La Roja beat a ten-man Argentina side one-nil at the New York New Jersey Stadium to be crowned champions of the world for the second time. It was Spain's first world title since 2010 and the perfect companion to the European crown they already held, and it denied Lionel Messi and the defending champions the back-to-back triumph that only one nation has managed in the history of the competition. The scoreline reads as tight. The performance behind it was not.
 
-![Spain vs Argentina World Cup 2026 final result, report and player ratings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Spain vs Argentina World Cup 2026 final result, report and player ratings - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 For long stretches this looked like a final that Argentina were content to survive rather than win, and for more than a hundred minutes their goalkeeper made survival look plausible. Emiliano Martinez produced one of the great goalkeeping displays a World Cup final has seen, a night of eleven saves that kept the score level while his outfield teammates offered almost nothing going forward. Spain kept coming, kept probing, kept manufacturing the better positions, and the game turned decisively in their favor when Enzo Fernandez was sent off in stoppage time at the end of normal time. From that moment the outcome felt less like a question of whether Spain would score and more like a question of when. Torres answered it in the hundred-and-sixth minute, and Luis de la Fuente's players became world champions on a night that confirmed what the previous six rounds had already suggested: this Spain team was the most complete side in the tournament, and control, not chaos, was going to decide the World Cup 2026 final.
 

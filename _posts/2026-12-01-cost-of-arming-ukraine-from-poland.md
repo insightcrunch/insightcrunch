@@ -6,19 +6,19 @@ date: 2026-12-01
 categories: ["Industry"]
 tags: ["Poland Security", "Ukraine", "Defense Policy", "Military Analysis", "Eastern Flank", "Geopolitics"]
 excerpt: "The cost of arming Ukraine from Poland set old stocks and a readiness dip against modernization, backfill, and a war kept east. A ledger and a net read."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-12-01
+lang: en
 ---
-
 ## The Cost of Arming Ukraine From Poland Is a Ledger, Not a Headline
 
 The cost of arming Ukraine from Poland is usually argued as a slogan rather than tallied as an account. One side says Poland emptied its arsenals into a neighbor's war and left itself thin. The other side says the transfers were surplus, the bill was small, and the strategic return was enormous. Both readings are answers to a question neither side has actually posed correctly. The question is not whether support was expensive or cheap. The question is what it cost, in what currencies, and what it bought back, and whether the buying-back arrived fast enough to matter.
 
 That is an accounting problem, and accounting problems have a discipline the slogans lack. A ledger has two sides. On one side sits everything support consumed: hardware that left Polish depots and did not come back, money that flowed out of a budget that had other claims on it, industrial capacity absorbed by a neighbor's requirements, and a stretch of time during which Polish formations held less equipment than their establishment tables called for. On the other side sits everything support returned: a Russian army fixed and ground down several hundred kilometers east of the Polish border, a modernization program that jumped a decade in a few years because old inventory left and new inventory had to replace it, industrial contracts that turned a domestic sector into something with a real order book, and a set of alliance relationships that support helped purchase. The honest verdict is the difference between those columns, and the difference is not obvious in either direction until you do the work.
 
-![Cost of arming Ukraine from Poland, a drawdown and backfill analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Cost of arming Ukraine from Poland, a drawdown and backfill analysis - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 This article does that work. It sets out what left, what it cost to give, what came back, and how fast. It names the variable that decides the verdict, which is not the size of the transfers but the speed of the replacement. And it holds itself to the cost question rather than drifting into the lifeline question, the motive question, or the affordability question, each of which belongs to another article in this series. The broader frame of what the Ukraine war reveals about Polish exposure is treated at length in [what the Ukraine war tells us about Poland's own risk](/2026/09/01/what-ukraine-tells-us-about-poland/), and the reasons Warsaw chose to bear the cost at all are the subject of [Poland's stake in Ukraine's war](/2026/10/01/polands-stake-in-ukraines-war/). What follows is narrower and more mercenary: the price, the offsets, and the net.
 
