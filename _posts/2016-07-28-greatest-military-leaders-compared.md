@@ -8,7 +8,7 @@ excerpt: "The greatest military leaders shared capabilities but deployed them th
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "insight-crunch-team"
-last_updated: "2016-07-28"
+last_updated: 2026-07-21
 slug: "greatest-military-leaders-compared"
 lang: en
 ---

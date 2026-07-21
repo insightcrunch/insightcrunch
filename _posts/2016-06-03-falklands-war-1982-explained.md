@@ -7,7 +7,7 @@ categories: ["Leisure"]
 tags: ["falklands-war", "1982", "argentina", "britain", "military-history", "world-history"]
 author: "chloe-martin"
 excerpt: "The Falklands War lasted 74 days and permanently reshaped both Argentina and Britain. Both governments fought for domestic political survival, not sovereignty."
-last_updated: 2016-06-03
+last_updated: 2026-07-21
 image: /assets/images/blog/blog-08.webp
 reading_time: 70
 lang: en

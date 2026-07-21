@@ -9,7 +9,7 @@ excerpt: "Planning the Pacific Coast Highway with kids? Beat carsickness with sh
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "rahul-banerjee"
-last_updated: 2016-11-01
+last_updated: 2026-07-21
 lang: en
 ---
 The question almost every parent asks before booking the Pacific Coast Highway with kids is not which viewpoint to photograph or which tasting room to skip. It is simpler and more anxious than that: will my children spend three days carsick and bored, staring at a guardrail and a wall of fog, while I white-knuckle a road that turns every quarter mile? That worry is the right place to start, because it names the single thing that decides whether a family loves this drive or endures it. The scenic guides sell the postcard. A family trip is built around the practical reality underneath the postcard, and the reality is that this is a gorgeous but relentlessly curving coastal road, and a curving road plus a kid in the back seat is the oldest recipe for a ruined afternoon there is.

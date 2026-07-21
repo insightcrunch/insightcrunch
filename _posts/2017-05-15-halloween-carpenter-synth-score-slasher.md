@@ -9,7 +9,7 @@ excerpt: "Halloween (1978) proved John Carpenter's cheap 5/4 synth refrain and p
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2017-05-15
+last_updated: 2026-07-21
 lang: en
 ---
 A handful of piano notes, repeated in a meter your body cannot settle into, played by a director who could barely afford a camera. That is the engine of dread in Halloween (1978), and it is worth pausing on how strange a fact that is. John Carpenter had almost no money, almost no time, and almost no special effects. What he had instead was a rhythm his father had tapped out on a set of bongos in 1961, a borrowed sense of where to put the camera, and a conviction that sound, not blood, is what makes an audience afraid. The result is a low-budget slasher that frightens through its ears more than its eyes, and it remains the clearest demonstration in popular cinema that terror is an acoustic effect before it is a visual one.

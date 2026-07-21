@@ -8,7 +8,7 @@ tags: ["brexit", "european-union", "british-history", "european-history", "world
 excerpt: "Brexit was not a single event but a decade of sustained crisis that transformed British governance and tested whether EU membership was truly reversible."
 image: "/assets/images/blog/blog-101.webp"
 author: "amanda-ross"
-last_updated: 2016-06-28
+last_updated: 2026-07-21
 reading_time: 70
 lang: en
 ---

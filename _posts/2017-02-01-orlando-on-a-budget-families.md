@@ -9,7 +9,7 @@ excerpt: "Orlando on a budget for families comes down to two big levers, park ti
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
 author: "rahul-banerjee"
-last_updated: 2017-02-01
+last_updated: 2026-07-21
 lang: en
 ---
 Orlando on a budget for families is not about clipping coupons or eating peanut butter sandwiches in a parking lot. It is about understanding that two decisions, made before you leave home, set roughly eighty percent of the final bill, and that almost every small tip you will read elsewhere fights over the remaining twenty. Those two decisions are the theme park tickets you buy and the kind of place you sleep in. Get those right and a household of four or five can enjoy the parks, the pool, the ice cream, and the character breakfast without the trip turning into a financial event you spend the next year recovering from. Get them wrong and no amount of skipping souvenirs will save you.

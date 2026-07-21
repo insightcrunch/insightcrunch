@@ -9,7 +9,7 @@ excerpt: "The Conversation turns sound into suspense, replaying one recorded lin
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2017-01-01
+last_updated: 2026-07-21
 lang: en
 ---
 Most thrillers locate their suspense in something you can see: a gun in a drawer, a shadow on a wall, a body that has not yet been found. The Conversation, written, produced, and directed by Francis Ford Coppola in 1974, locates its suspense in something you can only hear, and worse, in something you cannot quite hear clearly. A surveillance expert named Harry Caul, played by Gene Hackman, records a young couple walking in circles around a crowded San Francisco plaza, and spends the rest of the film replaying the tape, cleaning it, sharpening it, until a single muttered sentence rises out of the noise and refuses to hold still. The whole machine of dread in this picture runs on audio, on the act of listening, and on the terrible discovery that what you hear is never the same as what was said.

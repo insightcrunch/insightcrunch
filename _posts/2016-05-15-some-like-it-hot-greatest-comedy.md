@@ -9,7 +9,7 @@ excerpt: "Some Like It Hot is the summit of screen comedy: how Billy Wilder's di
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2016-05-15
+last_updated: 2026-07-21
 lang: en
 ---
 By 1959 the Hollywood comedy had grown cautious. The screwball cycle that once let men and women spar at full speed had thinned into polite romantic farces, the gangster picture had calcified into ritual, and the Production Code still policed every kiss, every bedroom, every hint that a body might want something the censors had not approved. Into that careful landscape Billy Wilder dropped a picture that did almost everything the rulebook forbade and got away with it because it was funny enough to make the rules look foolish. Some Like It Hot put two men in dresses for nearly its entire running time, built a love plot around a millionaire courting a man he believes is a woman, opened on a mob execution, and closed on a line that waved away the whole anxious machinery of gender it had spent two hours winding up. The film became, almost immediately and then permanently, the title people reach for when they argue about the greatest comedy ever made.

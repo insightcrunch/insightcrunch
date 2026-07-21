@@ -9,7 +9,7 @@ excerpt: "The Turin King List is a shattered Ramesside papyrus that became the b
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2003-02-01
+last_updated: 2026-07-21
 lang: en
 ---
 The Turin King List is a torn, brown, badly damaged sheet of papyrus in a museum in northern Italy, and it is the closest thing Egyptology has to a spine. Almost every date you have ever read about a pharaoh rests, somewhere down the chain of reasoning, on this document. It is not a monument. It is not gold. It was written on the back of a used tax register by a scribe in the age of Ramesses II, and by the time it reached Europe it had crumbled into scraps small enough to lose in a pocket. Yet the Turin King List does something no temple wall in Egypt does: it gives the names of kings in sequence and tells you how many years, months, and days each one held the throne. That single feature turns a list into a chronology, and a chronology into history.

@@ -9,7 +9,7 @@ excerpt: "Roof warning signs sorted by urgency: what a stain, a curled shingle, 
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 68
 author: "william-knight"
-last_updated: 2005-03-01
+last_updated: 2026-07-21
 lang: en
 ---
 Among all the roof warning signs a homeowner can notice, one carries more urgency than any other: a water stain on a ceiling that is bigger this month than it was last month. A stain that grows is not a memory of an old problem. It is a live report that water is entering the building right now, traveling somewhere it was never meant to go, and soaking materials that lose strength when they stay wet. Almost everything else on a roof can be triaged, scheduled, and budgeted. A spreading stain is the one that earns a phone call the same week you notice it, because every additional storm feeds the same path and the repair bill climbs from a flashing detail to a section of rotted decking to a ceiling that has to come down and go back up.

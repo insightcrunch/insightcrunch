@@ -9,7 +9,7 @@ excerpt: "2001: A Space Odyssey trades explanation for awe, turning the monolith
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2016-10-01
+last_updated: 2026-07-21
 lang: en
 ---
 A bone spins upward against a pale sky, flung by a creature that has just learned a club can kill. The shot cuts, and four million years vanish in a single edit as the bone becomes a slender craft drifting through orbit. No film before had compressed the whole arc of a species into one gesture, and few have dared it since. This is the engine of 2001: A Space Odyssey, the 1968 picture directed by Stanley Kubrick and co-written with the novelist Arthur C. Clarke, a work that refuses to tell you what its images mean and grows more powerful for the refusal. Most science fiction of its era explained itself. It named the monster, diagrammed the threat, and resolved the danger before the credits. Kubrick built something stranger: a contemplative epic that withholds its answers so that evolution, intelligence, and transcendence stop being plot points and become felt mysteries. That withholding is the whole argument, and understanding it is the key to everything the work attempts.

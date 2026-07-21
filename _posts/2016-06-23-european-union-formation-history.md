@@ -9,7 +9,7 @@ excerpt: "The EU formed through a crisis-driven integration cycle, turning postw
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2016-06-23
+last_updated: 2026-07-21
 lang: en
 ---
 The European Union was created to make war between European powers structurally impossible, and every subsequent stage of its development has been driven by crises that forced member states to choose between deeper integration and collapse. Six nations signed the European Coal and Steel Community Treaty in Paris on April 18, 1951, pooling the two resources most essential to waging industrial war. By 2024, the EU comprised 27 member states, a single currency used by 20 of them, a parliament with direct elections since 1979, a court whose rulings supersede national law, and a combined economy of approximately $18 trillion rivaling that of the United States. The conventional narrative presents this transformation as an inevitable march toward continental unity, a story of visionary leaders and enlightened cooperation. The actual history reveals something far more instructive: a cyclical pattern in which stability produces complacency, complacency produces crisis, and crisis produces integration that would have been politically impossible during the preceding calm. The European Union advances through crises, and understanding this pattern is essential to understanding whether the project will survive its current ones.

@@ -9,7 +9,7 @@ excerpt: "Apocalypse Now survived a typhoon, a heart attack, and a director's br
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2017-06-15
+last_updated: 2026-07-21
 lang: en
 ---
 Some movies are remembered for what reached the screen. A smaller number are remembered just as vividly for what happened behind the camera. Apocalypse Now belongs to that rarer group, and it may be the purest example cinema has ever produced. Francis Ford Coppola set out to make a Vietnam epic and instead led a cast and crew into sixteen months of jungle chaos that nearly destroyed everyone involved, including himself. A typhoon flattened the sets. The leading man suffered a near-fatal heart attack on location. The most famous star arrived overweight and unprepared, having read neither the script nor the book the story was built on. The budget tripled, the director mortgaged his home and his winery to keep going, and he later admitted he had contemplated ending his own life more than once. The shoot, in other words, descended into the same derangement the picture was about.

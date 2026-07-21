@@ -5,11 +5,11 @@ page_title: "The Complete Guide to Feluda - Who He Is, Why He Endures, the Canon
 date: 2017-01-01
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray-feluda", "pradosh-chandra-mitter", "bengali-detective", "who-is-feluda", "feluda-character"]
-excerpt: "The most comprehensive English-language primer on Feluda, Satyajit Ray's iconic Bengali detective, across 35 stories, the films, and why he endures."
+excerpt: "Decode Feluda for English readers as Ray's complete fictional world, from the stories to Topshe to Jatayu."
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 102
 author: "nandini-sen"
-last_updated: 2026-04-01
+last_updated: 2026-07-21
 lang: en
 ---
 ## Opening Hook

@@ -9,7 +9,7 @@ excerpt: "Saturday Night and Sunday Morning made Arthur Seaton the emblem of the
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2016-08-15
+last_updated: 2026-07-21
 lang: en
 ---
 A lathe operator stands at his machine in a Nottingham bicycle factory, the camera close on his hands and his face, and a young man's voice rises over the din to announce a philosophy: a good time on Saturday night, and to hell with everything the bosses and the neighbors and the whole grinding apparatus of respectable life would have him be. That voice belongs to Arthur Seaton, and the film that gave it to British screens is Saturday Night and Sunday Morning, directed by Karel Reisz in 1960. With that single sour, defiant, unapologetically working-class figure, a national cinema turned a corner. The polite drawing rooms and clipped officer-class accents that had dominated British pictures for a generation gave way to terraced streets, factory floors, and a hero who did not want to better himself so much as to be left alone to live.

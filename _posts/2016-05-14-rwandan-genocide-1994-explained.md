@@ -8,7 +8,7 @@ tags: ["rwandan-genocide", "1994", "africa", "genocide", "world-history", "human
 excerpt: "The Rwandan Genocide killed approximately 800,000 in 100 days. Its causes were colonial, ideological, and international. Prevention failed at every level."
 author: "rachel-foster"
 reading_time: 70
-last_updated: 2016-05-14
+last_updated: 2026-07-21
 image: "/assets/images/blog/blog-05.webp"
 lang: en
 ---

@@ -9,7 +9,7 @@ excerpt: "One Flew Over the Cuckoo's Nest traded Ken Kesey's inner narration for
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2017-03-01
+last_updated: 2026-07-21
 lang: en
 ---
 The single most consequential choice in adapting *One Flew Over the Cuckoo's Nest* was made before a frame was shot, and it was a choice about whose eyes we would look through. Ken Kesey wrote his 1962 novel from inside the cracked, hallucinating mind of Chief Bromden, a man the ward believes to be deaf and mute, a man who sees fog machines in the walls and a vast mechanized order he calls the Combine. Milos Forman's 1975 film abandons that interior almost entirely. It steps back, plants the camera in the room, and watches. That migration from an inner voice to an outside eye is the whole adaptation in miniature, and it explains nearly everything the film gains and everything its author felt it lost.

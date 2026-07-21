@@ -9,7 +9,7 @@ excerpt: "The Cold War was not one conflict. It was a structured bipolar system 
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 72
 author: "amanda-ross"
-last_updated: 2016-03-10
+last_updated: 2026-07-21
 lang: en
 ---
 The Cold War is the period running from approximately 1945 to 1991 during which the United States and the Soviet Union conducted a global geopolitical confrontation without ever fighting each other directly, and it is also the twentieth century's most consistently flattened historical episode. Popular treatments deliver a unitary narrative: a single confrontation that began at Yalta, ran through Berlin and Korea and Cuba and Vietnam, and concluded when the Wall came down. This unitary treatment is wrong in ways that matter. The actual Cold War was a structured bipolar international system with distinct phases, distinct theaters, and distinct mechanisms operating in parallel, and each of these dimensions requires separate analytical assessment before any honest synthesis becomes possible.

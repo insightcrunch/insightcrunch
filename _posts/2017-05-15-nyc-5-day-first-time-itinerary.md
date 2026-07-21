@@ -9,7 +9,7 @@ excerpt: "A 5-day New York City itinerary for first-timers that clusters each da
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
 author: "amit-chatterjee"
-last_updated: 2017-05-15
+last_updated: 2026-07-21
 lang: en
 ---
 This 5-day New York City itinerary is built to solve the one problem that quietly wrecks most first-time trips: the hidden cost of moving. New York rewards travelers who see a whole area before they leave it and punishes the ones who chase famous names across the map, riding the subway forty minutes north for one photo and forty minutes back for another. The plan below groups every day around a single neighborhood cluster, orders the headline sights so you are never doubling back, and tells you exactly what to drop if you have three days instead of five. It is a plan you can follow, not a wish list you have to untangle at the hotel.

@@ -4,7 +4,7 @@ title: "Mean Streets: How Scorsese Seeded Modern Crime Film"
 page_title: "Mean Streets (1973) Influence and Legacy Explained: How Scorsese's Style and Music Shaped Crime Cinema, Compared to World Cinema"
 slug: mean-streets-scorsese-influence
 date: 2017-04-01
-last_updated: 2017-04-01
+last_updated: 2026-07-21
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Mean Streets", "Martin Scorsese", "New Hollywood", "Film Analysis", "World Cinema", "Film History"]
 excerpt: "Mean Streets analysis: how Scorsese fused a handheld camera, rock needle-drops, and Catholic guilt into a template that reshaped crime cinema worldwide."

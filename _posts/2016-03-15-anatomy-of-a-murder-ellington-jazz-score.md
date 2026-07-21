@@ -9,7 +9,7 @@ excerpt: "Anatomy of a Murder put Duke Ellington's modern jazz into a Hollywood 
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2016-03-15
+last_updated: 2026-07-21
 lang: en
 ---
 A small-town Michigan lawyer walks into a roadhouse the night before the biggest trial of his career, and the room is swinging. A band plays loose, late-night jazz, the kind that lives in cigarette smoke and half-finished drinks, and the lawyer drifts toward the piano where a heavyset man in shirtsleeves works the keys with easy authority. The man at the piano is Duke Ellington. That cameo, brief and almost thrown away, is the clearest signal Otto Preminger could give about what he had done to the sound of his 1959 courtroom drama. Anatomy of a Murder does not score its tension with the swelling strings that every Hollywood trial picture of the period would have reached for by reflex. It scores that tension with a jazz band, and the choice was not decoration. It was an argument about what a Hollywood film could sound like, who could be trusted to make that sound, and how closely the music of a serious American drama could move to the music people actually played and danced to.

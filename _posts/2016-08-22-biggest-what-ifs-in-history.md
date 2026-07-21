@@ -8,7 +8,7 @@ excerpt: "Counterfactual history is not idle speculation. It reveals how histori
 tags: ["alternate-history", "what-if", "world-history", "counterfactual", "historical-analysis"]
 image: "/assets/images/blog/blog-83.webp"
 author: "insight-crunch-team"
-last_updated: "placeholder"
+last_updated: 2026-07-21
 reading_time: 70
 lang: en
 ---

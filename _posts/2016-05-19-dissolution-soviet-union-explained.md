@@ -10,7 +10,7 @@ excerpt: "The Soviet Union dissolved through structural exhaustion and reform mi
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2016-05-19
+last_updated: 2026-07-21
 lang: en
 ---
 The Soviet Union dissolved on December 25, 1991, when Mikhail Gorbachev resigned as president and the red hammer-and-sickle flag was lowered from the Kremlin for the last time. What had been the world's largest country by land area, a nuclear superpower controlling fifteen republics across eleven time zones and governing approximately 290 million people, ceased to exist through a combination of structural material exhaustion, reform miscalculations, republic-level nationalist mobilization, and a failed coup that accelerated the very collapse it attempted to prevent. The dissolution was neither inevitable nor accidental, and the two dominant popular explanations for it - that Ronald Reagan's military buildup defeated the Soviet system, or that the system was structurally doomed from birth - both obscure the actual mechanics of how and why the world's second superpower came apart.

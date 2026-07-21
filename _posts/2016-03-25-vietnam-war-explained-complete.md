@@ -7,7 +7,7 @@ categories: ["Leisure"]
 tags: ["vietnam-war", "cold-war", "american-history", "military-history", "world-history"]
 author: "rachel-foster"
 excerpt: "The Vietnam War was a thirty-year conflict, not merely its American phase. The defeat was structural, rooted in misreadings of Vietnamese nationalism."
-last_updated: 2016-03-25
+last_updated: 2026-07-21
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
 lang: en

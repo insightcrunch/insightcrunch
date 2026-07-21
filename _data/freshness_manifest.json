@@ -1052,6 +1052,9 @@
   "2002-11-27-upsc-gs1-world-history-events-shaped-modern-world.md": {
     "last_refreshed": "2026-04-15"
   },
+  "2002-12-01-foreign-rule-and-egyptian-identity.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2002-12-02-upsc-gs1-indian-history-ancient-modern-mains.md": {
     "last_refreshed": "2026-04-15"
   },
@@ -1076,6 +1079,9 @@
   "2003-01-01-no-heat-no-ac-emergency-steps.md": {
     "last_refreshed": "2026-07-13"
   },
+  "2003-01-01-trade-networks-of-hyksos-egypt.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2003-01-02-upsc-prelims-maps-geography.md": {
     "last_refreshed": "2026-04-13"
   },
@@ -1096,6 +1102,9 @@
   },
   "2003-01-29-upsc-prelims-pyq-analysis.md": {
     "last_refreshed": "2026-04-13"
+  },
+  "2003-02-01-turin-king-list-explained.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2003-02-03-upsc-prelims-time-management.md": {
     "last_refreshed": "2026-04-09"
@@ -1249,6 +1258,15 @@
   },
   "2004-11-01-roofing-cost-guide.md": {
     "last_refreshed": "2026-07-17"
+  },
+  "2005-01-01-how-to-vet-a-roofer.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2005-03-01-roof-warning-signs.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2005-04-15-repair-or-replace-your-roof.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2006-05-30-case-blue-hitler-summer-1942-caucasus.md": {
     "last_refreshed": "2026-07-05"
@@ -4487,23 +4505,203 @@
   "2016-03-01-rocky-mountain-np-best-time-to-visit.md": {
     "last_refreshed": "2026-07-17"
   },
+  "2016-03-05-winston-churchill-ww2-leadership.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-03-10-cold-war-explained-complete-guide.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-03-15-anatomy-of-a-murder-ellington-jazz-score.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-03-15-cuban-missile-crisis-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-03-15-rocky-mountain-np-hidden-gems.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2016-03-19-ibm-panel-interview.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2016-03-20-korean-war-explained-complete.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-03-25-vietnam-war-explained-complete.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-03-30-berlin-wall-history-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-01-media-demagoguery-sweet-smell-face-in-crowd.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-01-rocky-mountain-np-on-a-budget.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-04-space-race-explained-complete.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2016-04-06-ibm-technical-interview-questions.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2016-04-09-mccarthyism-red-scare-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-14-soviet-afghanistan-war-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-15-bridge-on-the-river-kwai-blacklist-production.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-15-rocky-mountain-np-best-hikes.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-19-nuclear-arms-race-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-24-proxy-wars-cold-war-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-04-29-fall-of-berlin-wall-1989-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-01-trail-ridge-road-driving-guide.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-01-vertigo-hitchcock-auteur-obsession.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-04-tiananmen-square-1989-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2016-05-06-ibm-associate-developer-interview.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2016-05-09-apartheid-south-africa-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-14-rwandan-genocide-1994-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-15-some-like-it-hot-greatest-comedy.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-15-where-to-stay-rocky-mountain-np.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-19-dissolution-soviet-union-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-24-yugoslav-wars-1990s-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-05-29-iranian-revolution-1979-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-01-ben-hur-chariot-race-craft.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-01-rocky-mountain-np-wildlife-photography.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-03-falklands-war-1982-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-08-september-11-attacks-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-13-war-on-terror-explained-complete.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-15-12-angry-men-jury-room-structure.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-15-rocky-mountain-np-with-kids.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-18-arab-spring-explained-complete.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-06-23-european-union-formation-history.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2016-06-27-ibm-interview-process.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2016-06-28-brexit-explained-complete-guide.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-01-in-the-heat-of-the-night-poitier-steiger.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-01-pacific-coast-highway-complete-guide.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-03-rise-of-china-superpower-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-08-greatest-empires-history-compared.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-13-greatest-revolutions-history-compared.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2016-07-14-azure-fundamentals-az-900-practice-exam-microsoft-certification.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2016-07-15-dr-strangelove-kubrick-cold-war-satire.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-15-pch-7-day-itinerary-sf-to-la.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-18-deadliest-wars-history-ranked.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-23-history-of-democracy-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-07-28-greatest-military-leaders-compared.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-01-pacific-coast-highway-best-stops.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-01-to-kill-a-mockingbird-harper-lee-adaptation.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-02-how-pandemics-changed-history.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2016-08-03-cut-off-for-tcs-nqt.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2016-08-07-women-who-changed-history.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-12-inventions-that-changed-the-world.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-15-california-coast-hidden-gems.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-15-saturday-night-sunday-morning-british-new-wave.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-17-history-of-human-rights-explained.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-22-biggest-what-ifs-in-history.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-08-27-lessons-history-teaches-us-today.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-09-01-bonnie-and-clyde-new-hollywood.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-09-01-pacific-coast-highway-on-a-budget.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2016-09-14-drm-application-not-starting-up-duplicate-versions.md": {
     "last_refreshed": "2026-04-01"
@@ -4519,6 +4717,12 @@
   },
   "2016-09-15-drm-error-file-does-not-exist.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2016-09-15-pacific-coast-highway-best-beaches.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-09-15-psycho-hitchcock-shower-scene-taboo.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2016-09-16-drm-batch-client-error-ora-03113-end-of-file-on-communication-channel.md": {
     "last_refreshed": "2026-04-01"
@@ -4568,6 +4772,12 @@
   "2016-09-29-drm-batch-client-refresh-current-and-previous-day-versions.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2016-10-01-2001-a-space-odyssey-meaning-kubrick.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-10-01-big-sur-complete-travel-guide.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2016-10-01-odisqlunload-and-the-possibilities.md": {
     "last_refreshed": "2026-04-01"
   },
@@ -4610,6 +4820,12 @@
   "2016-10-15-odi-trigger-essbase-maxl-dynamically-with-no-hard-coding.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2016-10-15-the-graduate-simon-garfunkel-soundtrack.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-10-15-where-to-stay-pacific-coast-highway.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2016-10-19-odi-automation-of-smart-view-manual-activities.md": {
     "last_refreshed": "2026-04-01"
   },
@@ -4622,32 +4838,173 @@
   "2016-10-24-sqoop-import-and-export-tables-from-hive-to-oracle-database.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2016-11-01-mary-poppins-vs-sound-of-music-roadshow.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-11-01-pacific-coast-highway-with-kids.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2016-11-02-managing-bi-services-using-odi.md": {
     "last_refreshed": "2026-04-01"
   },
   "2016-11-05-oracle-bi-apps-dynamic-hierarchy-filtering-in-odi-incremental-load-plan.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2016-11-15-lawrence-of-arabia-desert-epic-production.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-11-15-when-to-drive-pacific-coast-highway.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-12-01-florida-family-vacation-complete-guide.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-12-01-the-godfather-coppola-auteur-analysis.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-12-15-french-connection-crime-thriller-chase.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2016-12-15-orlando-family-7-day-itinerary.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2016-12-16-tcs-ilp-hyderabad-experience.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2017-01-01-feluda-complete-guide-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-01-01-feluda-complete-guide.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-01-01-orlando-theme-parks-best-time-to-visit.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-01-01-the-conversation-sound-design-murch.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2017-01-09-drm-data-loading-automation-using-odi.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2017-01-15-chinatown-towne-screenplay-neo-noir.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-01-15-orlando-central-florida-hidden-gems.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-01-16-feluda-character-analysis-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-01-31-topshe-character-analysis-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-02-01-orlando-on-a-budget-families.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-02-01-taxi-driver-de-niro-travis-bickle.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2017-02-10-infosys-hiring-process.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2017-02-15-best-family-resorts-orlando.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-02-15-jatayu-character-analysis-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-02-15-network-media-satire-prophecy.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-03-01-cuckoos-nest-kesey-adaptation.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-03-01-florida-best-family-beaches.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-03-02-sonar-kella-story-analysis-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-03-15-american-graffiti-film-school-generation.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-03-15-where-to-stay-orlando.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-03-16-joi-baba-felunath-story-analysis-bn.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2017-03-20-tcs-nqt-hiring-process.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2017-03-31-feluda-vs-sherlock-holmes-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-04-01-florida-with-kids.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-04-01-mean-streets-scorsese-influence.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2017-04-13-tcs-codevita-hiring-process.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2017-04-15-a-clockwork-orange-kubrick-controversy.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-04-15-avoiding-crowds-disney-universal.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-04-15-feluda-vs-byomkesh-bakshi-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-04-30-feludar-goendagiri-darjeeling-debut-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-05-01-new-york-city-complete-travel-guide.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-05-01-the-exorcist-faith-evil-horror-meaning.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-05-15-badshahi-angti-emperors-ring-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-05-15-halloween-carpenter-synth-score-slasher.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-05-15-nyc-5-day-first-time-itinerary.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2017-05-24-obiee-dashboard-export-to-excel-pdf-html-using-custom-links.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2017-05-30-kailashey-kelenkari-killer-in-kailash-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-06-01-mel-brooks-blazing-saddles-young-frankenstein.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-06-01-nyc-best-time-to-visit.md": {
+    "last_refreshed": "2026-07-21"
+  },
   "2017-06-02-tcs-digital-interview-experience-2.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2017-06-05-dhurandhar-film-complete-analysis.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-06-12-dhurandhar-characters-real-inspirations.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-06-14-samaddarer-chabi-the-key-bn.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-06-15-apocalypse-now-coppola-troubled-production.md": {
+    "last_refreshed": "2026-07-21"
+  },
+  "2017-06-15-nyc-hidden-gems.md": {
+    "last_refreshed": "2026-07-21"
   },
   "2017-07-19-tcs-interview-tips.md": {
     "last_refreshed": "2026-04-01"

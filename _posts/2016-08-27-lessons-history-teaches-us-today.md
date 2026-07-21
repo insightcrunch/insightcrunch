@@ -9,7 +9,7 @@ excerpt: "History does not repeat, but its patterns recur across eras. The most 
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2016-08-27
+last_updated: 2026-07-21
 lang: en
 ---
 Sometime in 1943, in a French prison cell waiting for a Gestapo interrogator who would eventually order his execution, the historian Marc Bloch wrote a small book called *The Historian's Craft*. Bloch had been one of the founders of the Annales school, a co-editor of the most ambitious historical journal in Europe, and a serving officer in two world wars. In his last weeks he was not writing about empires or revolutions or the catastrophe collapsing around him. He was writing about method: how a historian decides what counts as evidence, how a witness's testimony should be weighed, how a researcher distinguishes a useful comparison from a misleading one. The book was unfinished when he was shot in June 1944. It is the most important text any serious reader of history can hold in mind, because Bloch knew something the contemporary culture of inspirational quotations has forgotten. The lesson of history is not a sentence. It is a discipline.

@@ -9,7 +9,7 @@ excerpt: "How to vet a roofing contractor: confirm the license, the liability an
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 72
 author: "thomas-reid"
-last_updated: 2005-01-01
+last_updated: 2026-07-21
 lang: en
 ---
 There is one verification that catches more bad actors than every other check combined, and you can run it before you ever discuss price. Ask the person who wants to put a crew on your roof for two documents: proof of general liability coverage and proof of workers-compensation coverage, issued directly by their insurer rather than printed from their own laptop. A legitimate operator hands both over without flinching, because they pay for them every month and they are used to being asked. The transient crew that appeared in your neighborhood after the last hailstorm cannot produce either one, and the moment you ask, the conversation changes tone. That single request is the fastest way to vet a roofing contractor, and it works because it is the one thing a fly-by-night outfit cannot fake cheaply.

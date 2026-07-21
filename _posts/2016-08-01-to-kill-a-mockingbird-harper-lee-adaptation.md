@@ -9,7 +9,7 @@ excerpt: "To Kill a Mockingbird narrows Harper Lee's novel to a single trial see
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2016-08-01
+last_updated: 2026-07-21
 lang: en
 ---
 ## The central decision: narrowing a novel to a trial and a child's eye

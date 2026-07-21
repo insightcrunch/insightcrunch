@@ -9,7 +9,7 @@ excerpt: "How foreign rule under the Hyksos reshaped Egyptian identity, the real
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 73
 author: "rachel-foster"
-last_updated: 2002-12-01
+last_updated: 2026-07-21
 lang: en
 ---
 Sometime around 1650 BCE, a woman living in the eastern Delta city of Avaris buried a relative. She laid the body in a mudbrick chamber built to an Egyptian plan, set Egyptian pottery beside it for the funerary meal, and pinned the burial shroud with a bronze toggle pin of a type made in the Levant. Outside the chamber door, in a pit cut for the purpose, she or her family buried a pair of donkeys, a rite no Egyptian had ever practiced and every Canaanite would have recognized. She was, on the evidence of that single grave, neither wholly Egyptian nor wholly foreign. She was a resident of a city where foreign rule and Egyptian identity had stopped being opposites and started being neighbors. Her grave is the reason this article exists, because the standard story of the period cannot accommodate her at all.

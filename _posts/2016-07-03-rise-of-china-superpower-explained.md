@@ -9,7 +9,7 @@ excerpt: "China's rise is not the simple story of market reform. It is state cap
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2016-07-03
+last_updated: 2026-07-21
 lang: en
 ---
 China's rise to superpower status is most commonly taught through a compressed economic-miracle narrative: Deng Xiaoping opened markets in 1978, growth exploded, and by the early twenty-first century the People's Republic had become the world's second-largest economy. That narrative is partially accurate and systematically misleading.

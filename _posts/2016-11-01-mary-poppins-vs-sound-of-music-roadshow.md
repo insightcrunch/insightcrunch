@@ -9,7 +9,7 @@ excerpt: "Mary Poppins and The Sound of Music perfected the lavish roadshow musi
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2016-11-01
+last_updated: 2026-07-21
 lang: en
 ---
 ![How Mary Poppins and The Sound of Music perfected the roadshow musical, a comparative analysis - Insight Crunch](/assets/images/blog/blog-106.webp)

@@ -3,7 +3,7 @@ layout: post
 title: "The Exorcist: Faith, Doubt, and the Reality of Evil"
 page_title: "The Exorcist Explained: Faith, Doubt, and the Reality of Evil in Friedkin's Horror Landmark"
 date: 2017-05-01
-last_updated: 2017-05-01
+last_updated: 2026-07-21
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Exorcist", "William Friedkin", "Horror", "World Cinema", "Film Analysis"]
 image: "/assets/images/blog/blog-19.webp"

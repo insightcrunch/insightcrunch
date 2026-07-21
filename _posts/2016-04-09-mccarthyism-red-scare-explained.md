@@ -3,7 +3,7 @@ layout: post
 title: "McCarthyism and the Red Scare Explained"
 page_title: "McCarthyism and the Red Scare - How Fear of Communism Consumed America, Destroyed Careers, and Tested the Limits of Democracy and Free Speech"
 date: 2016-04-09
-last_updated: 2016-04-09
+last_updated: 2026-07-21
 author: "rachel-foster"
 excerpt: "McCarthyism was built on real Soviet espionage. The real espionage does not justify McCarthy's methods or the lasting damage they caused to democracy."
 image: /assets/images/blog/blog-12.webp

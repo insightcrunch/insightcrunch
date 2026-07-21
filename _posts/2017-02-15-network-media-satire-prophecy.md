@@ -9,7 +9,7 @@ excerpt: "Network (1976) foresaw outrage-driven television and ratings worship, 
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2017-02-15
+last_updated: 2026-07-21
 lang: en
 ---
 A satire earns the word prophecy only when the thing it mocked arrives intact, on schedule, wearing the costume the script drew for it. By that test, Sidney Lumet and Paddy Chayefsky's Network, released in 1976, is the rare film that won the bet. It looked at the television news of its own decade, a business still pretending to a public trust, and it described, in detail, the medium that ratings logic would eventually produce: a screen that converts grievance into viewership, that prizes the size of an audience over the truth of a broadcast, and that learns to manufacture rage because rage is the cheapest, most renewable thing a programmer can sell. The film did not predict a gadget or a platform. It predicted an incentive, and incentives do not date.

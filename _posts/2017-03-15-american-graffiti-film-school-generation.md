@@ -9,7 +9,7 @@ excerpt: "American Graffiti announced the movie brats, the film-school generatio
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2017-03-15
+last_updated: 2026-07-21
 lang: en
 ---
 A movement rarely announces itself with a single picture, but American Graffiti comes close. George Lucas made it in 1973 as his second feature, a small comedy about one night of cruising in a California town, and it turned out to be the manifesto of a generation that had grown up inside movie theaters and television rooms rather than inside the studio system. That generation came to be called the movie brats, and American Graffiti is the film where their style, their nostalgia, their pop-culture fluency, and their commercial instincts all arrived at once. To watch it now is to watch a film school graduate teach Hollywood how the next thirty years would sound.

@@ -9,7 +9,7 @@ excerpt: "A paced 7-day Orlando family itinerary that caps park days, builds in 
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 69
 author: "rahul-banerjee"
-last_updated: 2016-12-15
+last_updated: 2026-07-21
 lang: en
 ---
 A 7-day Orlando family itinerary is not a list of parks to conquer; it is a pacing problem to solve. The families who come home raving are almost never the ones who did the most. They are the ones who did the right amount, in the right order, with enough air in the schedule that a tired four-year-old did not detonate the whole afternoon. The families who come home frayed usually made one mistake, and it is always the same mistake: they treated a week in Orlando as seven chances to be at a gate when it opened, and by the fourth straight morning of alarms, sunscreen, and ten-mile days on small legs, the trip turned into a forced march that nobody was enjoying, least of all the kids it was supposedly for.

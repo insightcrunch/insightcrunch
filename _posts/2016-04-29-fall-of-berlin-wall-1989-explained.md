@@ -3,7 +3,7 @@ layout: post
 title: "The Fall of the Berlin Wall in 1989"
 page_title: "The Fall of the Berlin Wall - November 9 1989, the Night That Changed the World, and How a Bureaucratic Blunder Ended the Cold War Division of Europe"
 date: 2016-04-29
-last_updated: 2016-04-29
+last_updated: 2026-07-21
 author: "rachel-foster"
 excerpt: "The Berlin Wall fell on November 9, 1989 because a Politburo spokesman misread his notes on live television. Structural crisis met contingent trigger."
 image: "/assets/images/blog/blog-96.webp"

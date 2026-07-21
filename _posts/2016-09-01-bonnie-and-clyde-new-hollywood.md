@@ -9,7 +9,7 @@ excerpt: "Bonnie and Clyde carried French New Wave freedom into the American stu
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2016-09-01
+last_updated: 2026-07-21
 lang: en
 ---
 ## The Spark That Lit a New American Cinema

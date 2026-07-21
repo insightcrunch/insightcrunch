@@ -9,7 +9,7 @@ excerpt: "Chinatown builds a mystery whose detective is always a step behind, as
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2017-01-15
+last_updated: 2026-07-21
 lang: en
 ---
 A private detective takes a routine job: a wife thinks her husband is unfaithful, and she wants proof. He gets the proof, the photographs run in the papers, and the case appears closed. Then the real wife walks into his office with a lawyer, and the detective realizes he has been used as a tool by people he cannot yet see. That opening is the engine of Chinatown, the 1974 film directed by Roman Polanski from a screenplay by Robert Towne, and it is also the clearest statement of the movie's design. The script begins with a small, sordid, solvable problem and then reveals, layer by layer, that the small problem was never the real one. By the final scene the detective has solved nothing that mattered, and the structure of the screenplay has quietly argued a thesis the dialogue never states outright: some forms of corruption are too large to undo, and the man who chases them can only survive, not win.

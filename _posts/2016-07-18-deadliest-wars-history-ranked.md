@@ -8,7 +8,7 @@ excerpt: "The deadliest wars in history killed tens of millions through combat, 
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
 author: "insight-crunch-team"
-last_updated: "2016-07-18"
+last_updated: 2026-07-21
 lang: en
 ---
 The question most people ask about deadly wars is simple: which war killed the most people? World War II is the answer, with approximately 70 to 85 million deaths between 1939 and 1945. But that answer, while factually correct, conceals more than it reveals. The number tells you the scale. It tells you nothing about how those people died, whether they were soldiers or civilians, whether they starved or were shot, whether the state that killed them intended their deaths or simply produced conditions in which survival became impossible. The real question is not which war killed the most. Instead, it is how war kills, and why the mechanisms of killing change across centuries, technologies, and political structures in ways that simple casualty rankings flatten into meaninglessness.

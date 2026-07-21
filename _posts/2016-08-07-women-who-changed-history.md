@@ -9,7 +9,7 @@ excerpt: "Women's historical contributions were not absent. They were erased. Re
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2016-08-07
+last_updated: 2026-07-21
 lang: en
 ---
 Women changed history not occasionally but continuously, and across every field of human endeavor, from governance and military strategy to scientific discovery, literary invention, religious reform, and organized political resistance. The standard popular treatment presents these contributions through an inspirational-list framework, naming remarkable individuals without examining the structural mechanisms that erased their achievements from the historical record or the scholarly methods required to recover them. Gerda Lerner's foundational work in women's history established that women's contributions were not absent from history but were systematically removed through exclusion from record-keeping institutions, credit-redirection to male colleagues, and categorical devaluation of activities associated with the female domain. Recovery requires more than admiration. It requires specifying documented achievements alongside the structural barriers those achievements overcame, applying intersectional analysis that distinguishes the conditions faced by privileged and marginalized women, and restoring the analytical significance that generic celebration obscures.

@@ -3,7 +3,7 @@ layout: post
 title: "The Space Race Explained: US vs USSR"
 page_title: "The Space Race: Rocketry, Satellites, Moon Landing, and Technology-As-Politics"
 date: 2016-04-04
-last_updated: 2016-04-04
+last_updated: 2026-07-21
 author: "amanda-ross"
 excerpt: "The Space Race was not primarily about science. It was a political-technological contest whose outcomes shaped subsequent civilian and military capacity."
 categories: ["Leisure"]

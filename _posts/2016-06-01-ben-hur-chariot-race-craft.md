@@ -9,7 +9,7 @@ excerpt: "Ben-Hur staged its chariot race with real horses, real chariots, and n
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2016-06-01
+last_updated: 2026-07-21
 lang: en
 ---
 There is a moment in Ben-Hur, about nine minutes into the most famous action sequence of the studio era, when a chariot strikes the wreckage of another, pitches forward, and very nearly throws its driver over the front rail and under the hooves of four galloping horses. The driver clings to the frame, hauls himself back into the basket, and keeps going. That driver was a stuntman, the horses were real, the speed was real, and the danger, for one unscripted instant, was entirely real. The shot stayed in the picture. This is the heart of why the chariot race in Ben-Hur, William Wyler's 1959 retelling of the Lew Wallace novel, remains a benchmark that filmmakers measure themselves against more than half a century later. Nothing in it was faked, because in 1959 almost nothing could be.

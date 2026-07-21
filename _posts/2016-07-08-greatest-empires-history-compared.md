@@ -9,7 +9,7 @@ excerpt: "The world's greatest empires followed specific foundational patterns. 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2016-07-08
+last_updated: 2026-07-21
 lang: en
 ---
 Ask which empire was the greatest, and most people will answer with a number. The British controlled approximately 35.5 million square kilometers at their peak. The Mongols held roughly 24 million. The Russian and Soviet system claimed about 22.8 million. Ranking empires by territorial extent is the dominant framework in popular history, and it is the least useful one available. Size tells you how much land a governing entity colored on a map. It tells you almost nothing about how that entity came to exist, how it governed the people who lived inside its borders, how it extracted wealth from the periphery to sustain the core, or why it eventually crumbled. The greatest empires in history followed specific foundational patterns, and understanding those patterns matters more than memorizing acreage.

@@ -9,7 +9,7 @@ excerpt: "The Arab Spring produced radically different outcomes in each country.
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2016-06-18
+last_updated: 2026-07-21
 lang: en
 ---
 The Arab Spring was a series of anti-government uprisings that swept across the Middle East and North Africa beginning in December 2010, producing radically different outcomes in each country based on structural factors that determined what revolution could accomplish and what it could not. Tunisia alone completed a democratic transition. Egypt experienced revolution followed by authoritarian restoration more repressive than what preceded it. Libya descended into civil war and state collapse. Syria produced one of the twenty-first century's worst humanitarian catastrophes. Yemen became the world's deadliest ongoing conflict. Bahrain's uprising was crushed by foreign military intervention within weeks. The standard narrative frames the Arab Spring as a democratic wave that failed. That framing is wrong. It was a comparative revolutionary phenomenon whose variable outcomes reveal how structural conditions, not revolutionary aspirations, determine whether uprisings produce democracies, dictatorships, or wars.

@@ -3,7 +3,7 @@ layout: post
 title: "Tiananmen Square 1989 Explained"
 page_title: "Tiananmen 1989: The Protest Movement, the Military Suppression, the Ongoing Censorship"
 date: 2016-05-04
-last_updated: 2016-05-04
+last_updated: 2026-07-21
 excerpt: "Tiananmen Square 1989 was a protest movement ended by military suppression. Most deaths occurred outside the Square, a fact Chinese censorship exploits."
 categories: ["Leisure"]
 tags: ["tiananmen-square", "1989", "china", "democracy", "world-history", "human-rights"]

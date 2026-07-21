@@ -3,7 +3,7 @@ layout: post
 title: "The September 11 Attacks Explained"
 page_title: "September 11, 2001: The Attacks, Al-Qaeda's Strategy, and the Day That Reshaped the Twenty-First Century"
 date: 2016-06-08
-last_updated: 2016-06-08
+last_updated: 2026-07-21
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["september-11", "2001", "terrorism", "american-history", "world-history"]

@@ -9,7 +9,7 @@ excerpt: "New York City hidden gems sit off the tourist spine. Here are the neig
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
 author: "rahul-banerjee"
-last_updated: 2017-06-15
+last_updated: 2026-07-21
 lang: en
 ---
 Most first visits to New York City happen inside a corridor about two miles long and a few avenues wide. It runs from the theaters around Times Square down past the Empire State Building to the shops of Fifth Avenue, with a loop over to the observation decks and a subway hop to the tip of the island for the harbor boats. That corridor holds real landmarks, and a first-timer should see some of them. The problem is that the corridor is also where the crowds are thickest, the food is worst per dollar, and the version of the city on display is the one built for people who will leave in three days. The New York City hidden gems that locals actually spend their weekends on sit almost entirely off that spine, in the neighborhoods below Fourteenth Street, up in Harlem, and across the rivers in Brooklyn and Queens, where the real city keeps its markets, its parks, its skyline views, and its cheap great food.

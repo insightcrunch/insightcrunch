@@ -3,7 +3,7 @@ layout: post
 title: "The Iranian Revolution of 1979 Explained"
 page_title: "The Iranian Revolution - How the Shah Fell, Khomeini Rose, and a Secular Monarchy Became an Islamic Republic That Reshaped the Middle East"
 date: 2016-05-29
-last_updated: 2016-05-29
+last_updated: 2026-07-21
 author: "diana-patel"
 excerpt: "The Iranian Revolution was not inevitably Islamic. It became so through Khomeini's calculated post-revolutionary consolidation against rival factions."
 categories: ["Leisure"]

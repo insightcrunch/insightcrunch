@@ -9,7 +9,7 @@ excerpt: "In the Heat of the Night routes its racial reckoning through performan
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2016-07-01
+last_updated: 2026-07-21
 lang: en
 ---
 A murder in a small Southern town is a small thing for a movie to be about. A man who refuses to be made small inside that town is a large thing, and that is the real subject of In the Heat of the Night. Norman Jewison's 1967 drama hands its plot to a routine police procedure and hands its meaning to two actors standing in a cramped office, sweating, watching each other, deciding moment by moment how much respect they are willing to give and how much they are able to withhold. The film's argument is carried not by a speech but by a posture, by the angle of a held chin, by the half-second before a reply. Sidney Poitier and Rod Steiger turn a whodunit into a study of who is permitted to be a person, and they do it almost entirely through the craft of performance.

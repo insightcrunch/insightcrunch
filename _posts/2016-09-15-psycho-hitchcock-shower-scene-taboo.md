@@ -9,7 +9,7 @@ excerpt: "Psycho killed its star in a motel shower and remade horror for good. H
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2016-09-15
+last_updated: 2026-07-21
 lang: en
 ---
 A film teaches you how to watch it in its first ten minutes. It tells you who matters, whose eyes you will see through, and roughly how long the ride will last. By that unspoken agreement, the woman you follow for the opening third is the person whose story you are watching. Psycho takes that agreement, lets you settle into it, and then drives a kitchen knife through it about forty-seven minutes in. The star is dead, the money she stole becomes a footnote, and you are left in a dark theater with no one to follow and a young man with a mother problem. That rupture, more than any single image of blood, is the thing that made audiences scream in 1960 and the thing that scholars still circle today.

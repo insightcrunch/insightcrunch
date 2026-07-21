@@ -3,7 +3,7 @@ layout: post
 title: "The War on Terror Explained"
 page_title: "The War on Terror: Afghanistan, Iraq, Drone Campaigns, and Two Decades of Strategic Costs"
 date: 2016-06-13
-last_updated: 2016-06-13
+last_updated: 2026-07-21
 excerpt: "The War on Terror cost approximately eight trillion dollars and roughly 900,000 lives across multiple countries through two decades of military action."
 categories: ["Leisure"]
 tags: ["war-on-terror", "afghanistan", "iraq", "american-history", "world-history"]

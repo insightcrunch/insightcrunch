@@ -9,7 +9,7 @@ excerpt: "Apartheid was not just racial segregation. It was a comprehensive lega
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2016-05-09
+last_updated: 2026-07-21
 lang: en
 ---
 Apartheid was a comprehensive legal-economic system that governed South Africa from 1948 to 1994. It classified every person by race, assigned rights and restrictions based on that classification, and organized an entire economy around the extraction of cheap Black labor for white-owned mining, agricultural, and industrial enterprises. The standard compressed narrative reduces apartheid to racial segregation plus Nelson Mandela plus international pressure plus 1994 elections. That narrative captures the moral arc but obscures the machinery. Understanding apartheid requires examining the legal architecture that made it function, the economic foundation that made it profitable, the multiple resistance traditions that contested it, the international dimensions that isolated it, and the post-apartheid legacies that continue to shape South African society decades after the formal system ended.

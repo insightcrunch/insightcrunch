@@ -2,7 +2,7 @@
 title: "A Clockwork Orange: Controversy and the Free Will Debate"
 page_title: "A Clockwork Orange (1971) Explained: Kubrick's Controversy, the Free Will Theme, and Why He Withdrew His Own Film"
 date: 2017-04-15
-last_updated: 2017-04-15
+last_updated: 2026-07-21
 categories: ["Leisure"]
 tags: ["Cinema Classics", "A Clockwork Orange", "Stanley Kubrick", "Film Analysis", "Adaptations", "Film History"]
 image: "/assets/images/blog/blog-21.webp"

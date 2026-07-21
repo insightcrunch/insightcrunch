@@ -9,7 +9,7 @@ excerpt: "The Soviet-Afghan War was an imperial intervention accelerating Soviet
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2016-04-14
+last_updated: 2026-07-21
 lang: en
 ---
 The Soviet-Afghan War ran from December 27, 1979 to February 15, 1989, but its wide-ranging consequences continue into the present, reshaping geopolitics across Central Asia, the Middle East, and the Western world in ways that the original Soviet Politburo decision-makers could not have anticipated and would not have endorsed. The standard narrative frames this conflict as a Cold War proxy war in which American-backed mujahideen fighters bled the Soviet military until Moscow withdrew in defeat, contributing to the collapse of the Soviet Union two years later. That narrative contains elements of truth, but it systematically misrepresents the war's character, its causes, its internal dynamics, and its consequences. The Soviet-Afghan War was an imperial intervention that accelerated the Soviet system's structural exhaustion, and the American contribution to Soviet defeat was real but not decisive, while the blowback from American policy choices during and after the conflict proved severe and lasting.

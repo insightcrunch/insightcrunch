@@ -9,7 +9,7 @@ author: "chloe-martin"
 excerpt: "Democracy is neither inevitable nor permanently achieved. Its history is a discontinuous struggle against tyranny, exclusion, and structural fragility."
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
-last_updated: 2016-07-23
+last_updated: 2026-07-21
 lang: en
 ---
 The most dangerous myth about democracy is that it represents the natural endpoint of political development, a destination toward which all civilizations inevitably travel. This assumption, which has shaped political commentary and classroom instruction for decades, collapses under the weight of democracy's own history. What that history reveals instead is a pattern of discontinuity so stark that the linear-progress narrative amounts to a misreading of the record. Democratic periods have alternated with authoritarian consolidations, franchise expansions have been followed by systematic exclusions, and constitutional achievements that appeared permanent have collapsed within a generation. The actual story of democracy is not a triumphant march forward but a contested, fragile, repeatedly interrupted experiment whose continuation has never been guaranteed and whose current condition demands scrutiny rather than celebration.

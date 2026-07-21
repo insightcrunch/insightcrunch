@@ -9,7 +9,7 @@ excerpt: "Human rights were not discovered progressively. They were declared in 
 image: /assets/images/blog/blog-08.webp
 author: "diana-patel"
 reading_time: 70
-last_updated: 2016-08-17
+last_updated: 2026-07-21
 lang: en
 ---
 Human rights are declared in response to atrocities, not discovered through moral progress. Every major rights document in history, from the Magna Carta through the Universal Declaration of Human Rights, emerged from specific political crises and specific acts of violence that made the absence of codified protections impossible to ignore. The standard textbook narrative presents human rights as a gradual awakening, a slow moral climb from ancient codes to modern universalism. That narrative is partially accurate and systematically misleading. It obscures the central pattern that scholars like Lynn Hunt, Samuel Moyn, and Micheline Ishay have identified: rights are declared, enforced through political struggle, contested by those whose power the declarations threaten, and never finished.

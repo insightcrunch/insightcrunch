@@ -9,7 +9,7 @@ excerpt: "Hyksos trade networks made Avaris a Delta emporium linking Egypt to th
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2003-01-01
+last_updated: 2026-07-21
 lang: en
 ---
 Hyksos trade built the Fifteenth Dynasty before Hyksos armies ever had to defend it. That sentence inverts the story most readers inherit, in which a horde of chariot-riding foreigners smashes into the Nile Delta, seizes a weakened Egypt by force, and holds it by terror for a century until Theban liberators throw them out. The archaeology of the eastern Delta tells a different story about where the money came from. Long before the rulers of Avaris took the titles of kings, the settlement they governed was already a port, already full of Canaanite pottery, already tied by sea and by donkey caravan to the harbors of the Levantine coast. When the Fifteenth Dynasty finally claimed a throne, it did not have to invent an economy. It had one, and that economy was built on moving goods.

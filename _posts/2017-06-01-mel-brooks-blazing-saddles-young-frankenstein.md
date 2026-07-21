@@ -9,7 +9,7 @@ excerpt: "Blazing Saddles and Young Frankenstein show Mel Brooks mastering two o
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 59
 author: "sarah-mitchell"
-last_updated: 2017-06-01
+last_updated: 2026-07-21
 lang: en
 ---
 In the space of ten months in 1974, one director released two parodies of two American genres, and got both exactly right by doing the opposite thing in each. Blazing Saddles tears the Western apart from the inside, weaponizing every cliche the form ever produced until the movie literally rips through its own back wall and spills onto the studio lot next door. Young Frankenstein does the reverse: it rebuilds the 1930s horror picture so lovingly, so precisely, that it could pass for a lost Universal title until the jokes start. Mel Brooks made both. He did not soften one to balance the other. He committed completely to demolition in the first and to devotion in the second, and in doing so he demonstrated something almost no comic filmmaker has matched in a single year, that the lampoon has two separate engines and that a master can run either one at full throttle.

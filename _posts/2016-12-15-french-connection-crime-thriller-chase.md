@@ -9,7 +9,7 @@ excerpt: "The French Connection traded polished crime cinema for documentary gri
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2016-12-15
+last_updated: 2026-07-21
 lang: en
 ---
 The crime picture that audiences walked into through the 1950s and most of the 1960s was a tidy thing. The detective was a moral instrument, the city was a backdrop dressed and lit for clarity, and the line between the law and the lawless ran clean down the middle of the frame. Then in 1971 a New York narcotics thriller arrived that treated all of that as a fiction worth abandoning. The French Connection, directed by William Friedkin and built around Gene Hackman as a brutal, obsessive cop named Jimmy "Popeye" Doyle, looked less like a movie about police work than like police work caught on the run. The camera shook. The cop was a bully. The city was filthy. The hero shot the wrong man and the villain got away. And the film won the Academy Award for Best Picture, which meant the industry had just blessed a new set of rules for what a crime thriller was allowed to be.

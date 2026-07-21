@@ -9,7 +9,7 @@ excerpt: "Cold War proxy wars killed millions across the Third World while two s
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2016-04-24
+last_updated: 2026-07-21
 lang: en
 ---
 Cold War proxy wars were not a collection of separate regional conflicts that happened to occur during the same geopolitical period. They were a single structural phenomenon operating through a shared architecture of superpower involvement, client-state selection, deniability mechanisms, and escalation controls, and the populations who paid for that architecture with their lives numbered somewhere between twenty and thirty million people across four decades while the United States and the Soviet Union maintained direct peace between themselves. The ratio tells the story of the Cold War more honestly than any diplomatic history: for every American or Soviet soldier killed in Cold War conflicts, approximately two hundred to three hundred Third World civilians died in wars those superpowers funded, armed, advised, and sometimes directly fought. That ratio is not a footnote to Cold War history. It is Cold War history, and the conventional treatments that relegate it to a series of regional chapters are performing exactly the analytical evasion the superpower governments themselves preferred.

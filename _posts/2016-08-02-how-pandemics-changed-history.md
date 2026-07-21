@@ -8,7 +8,7 @@ tags: ["pandemics", "world-history", "black-death", "spanish-flu", "historical-a
 excerpt: "Pandemics are not interruptions of history. They are structural forces reshaping labor, faith, empire, and politics for generations after the last death."
 author: "rachel-foster"
 image: "/assets/images/blog/blog-89.webp"
-last_updated: 2016-08-02
+last_updated: 2026-07-21
 reading_time: 69
 lang: en
 ---

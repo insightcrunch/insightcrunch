@@ -3,7 +3,7 @@ layout: post
 title: "Vertigo: Hitchcock's Auteur Study of Obsession"
 page_title: "Vertigo (1958): Hitchcock's Auteur Vision and the Remade Woman"
 date: 2016-05-01
-last_updated: 2016-05-01
+last_updated: 2026-07-21
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Vertigo", "Alfred Hitchcock", "Film Analysis", "Directors", "World Cinema"]
 excerpt: "Vertigo (1958) is the picture where Hitchcock turned his private obsessions into the subject itself, making it the clearest case for the auteur reading."

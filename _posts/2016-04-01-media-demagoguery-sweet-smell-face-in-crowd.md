@@ -9,7 +9,7 @@ excerpt: "Sweet Smell of Success and A Face in the Crowd both diagnosed media po
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2016-04-01
+last_updated: 2026-07-21
 lang: en
 ---
 Two American pictures arrived within weeks of each other in the summer of 1957, and between them they took the measure of a country that was learning to manufacture reputation at industrial scale. One looked at the print column, the syndicated paragraph that could lift an unknown into the spotlight or bury a career under a single insinuating line. The other looked at the broadcast, the radio voice and then the television face that could turn a drifter into a force capable of bending an election. Neither film knew it was making the other's argument from the opposite end. Watched together now, Sweet Smell of Success and A Face in the Crowd read like a single diagnosis delivered in two registers, and the question they raise has only sharpened with every decade since: when a society lets a machine decide who is famous and who is finished, who actually holds the controls, and what does that machine do to the people it lifts and the people who watch?

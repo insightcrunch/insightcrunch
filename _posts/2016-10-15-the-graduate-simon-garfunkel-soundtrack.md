@@ -9,7 +9,7 @@ excerpt: "The Graduate scored its drift with Simon and Garfunkel records rather 
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2016-10-15
+last_updated: 2026-07-21
 lang: en
 ---
 A young man rides an airport walkway toward the camera, motionless while the floor carries him forward, and a folk-rock record begins to murmur over the image. He is going somewhere without taking a single step, delivered by a machine to a future he never chose, and the song that accompanies him is not a piece of original underscore commissioned to flatter the scene. It is a record that thousands of listeners already owned. That opening is the whole argument of The Graduate compressed into ninety seconds. Mike Nichols built his 1967 comedy of postgraduate paralysis on a soundtrack of existing pop recordings by Simon and Garfunkel, and in doing so he taught American cinema a lesson it has never unlearned: a movie can score itself with the records its audience already loves, and the borrowed song can carry a film's emotional through-line more truthfully than music written to order.

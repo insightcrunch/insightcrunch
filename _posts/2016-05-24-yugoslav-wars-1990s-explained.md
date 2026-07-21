@@ -8,7 +8,7 @@ tags: ["yugoslav-wars", "balkans", "bosnia", "srebrenica", "european-history", "
 author: "rachel-foster"
 excerpt: "The Yugoslav Wars were not ancient ethnic hatreds erupting. They were deliberate nationalist manipulations producing Europe's worst violence since 1945."
 image: "/assets/images/blog/blog-03.webp"
-last_updated: 2016-05-24
+last_updated: 2026-07-21
 reading_time: 70
 lang: en
 ---

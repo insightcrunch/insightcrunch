@@ -9,7 +9,7 @@ excerpt: "A day-by-day Pacific Coast Highway itinerary from San Francisco to Los
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 68
 author: "rahul-banerjee"
-last_updated: 2016-07-15
+last_updated: 2026-07-21
 lang: en
 ---
 The mistake almost everyone makes with a Pacific Coast Highway itinerary is treating it as a drive to be completed rather than a coast to be metered out. People look at a map, see San Francisco at the top and Los Angeles at the bottom, measure the gap, and conclude they can knock it out in a long day or two. The road punishes that read. This is a seven-day, six-night plan from San Francisco to Los Angeles built around overnight anchors instead of mileage, so you know where you sleep each night, how long each leg actually takes behind the wheel, and which experiences justify staying a beat longer. The single decision this plan resolves is the one the route hides: not how to get south, but where to stop, in what order, and for how long.

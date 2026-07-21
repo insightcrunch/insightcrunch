@@ -7,7 +7,7 @@ slug: "inventions-that-changed-the-world"
 excerpt: "The inventions that changed the world did not simply improve life. Each of the ten greatest restructured civilizations by transforming what was possible."
 tags: ["inventions", "world-history", "technology", "innovation", "historical-analysis"]
 author: "insight-crunch-team"
-last_updated: "2016-08-12"
+last_updated: 2026-07-21
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
 lang: en

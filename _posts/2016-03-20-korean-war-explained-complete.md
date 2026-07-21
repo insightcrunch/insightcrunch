@@ -9,7 +9,7 @@ excerpt: "The Korean War was a civil war that became an international conflict. 
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2016-03-20
+last_updated: 2026-07-21
 lang: en
 ---
 The Korean War was a civil war that became an international conflict, fought from June 1950 to armistice in July 1953, with its formal resolution still pending more than seven decades later. The standard classroom narrative presents the war through a simple aggression-and-response framework: North Korea invaded South Korea, the United Nations responded, China intervened, and a stalemate produced an armistice. That framework captures the internationalization while omitting the civil war. Scholarly reassessment, particularly Bruce Cumings's landmark two-volume study *The Origins of the Korean War* (1981, 1990), has established that the conflict had deep civil-war dimensions predating the 1950 invasion, that American occupation policies contributed to the conditions producing war, that the war's aerial bombing campaign killed around twenty percent of North Korea's population, and that the conflict remains formally unresolved with consequences shaping Northeast Asian security into the present. The revised understanding does not excuse North Korean aggression but recovers the analytical complexity that the standard narrative structurally omits.

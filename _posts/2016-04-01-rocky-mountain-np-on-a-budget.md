@@ -2,7 +2,7 @@
 layout: post
 title: "Rocky Mountain National Park on a Budget"
 date: 2016-04-01
-last_updated: 2016-04-01
+last_updated: 2026-07-21
 categories: ["Travel"]
 tags: ["USA Travel", "Rocky Mountain", "National Parks", "Budget Travel", "Outdoors"]
 excerpt: "Rocky Mountain National Park on a budget is simpler than its Denver address suggests: real ranged costs, a daily number, and the move that cuts the bill most."

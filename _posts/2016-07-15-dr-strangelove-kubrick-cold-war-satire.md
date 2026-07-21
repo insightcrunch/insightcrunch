@@ -9,7 +9,7 @@ excerpt: "Dr. Strangelove turned nuclear deterrence into farce, arguing the doct
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2016-07-15
+last_updated: 2026-07-21
 lang: en
 ---
 Stanley Kubrick set out to make a serious film about the end of the world and kept laughing at his own script. He had bought the rights to a taut British thriller, hired himself to adapt it straight, and sat down to dramatize the most frightening subject available to a filmmaker in the early 1960s: an accidental slide into thermonuclear war. The harder he worked at solemnity, the more the material resisted it. Every time he tried to write a scene of grave men deciding the fate of the species, he found himself deleting details that were true and that played as jokes. Eventually he stopped fighting. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb is the film that came out of that surrender, and its argument is hidden inside its genre. The doctrine governing the survival of the human race, Kubrick decided, was not tragic. It was a joke that could kill everyone, and the only honest way to film a joke is as a comedy.

@@ -9,7 +9,7 @@ excerpt: "Repair or replace your roof? The age, damage-extent and layer rules gi
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
 author: "benjamin-scott"
-last_updated: 2005-04-15
+last_updated: 2026-07-21
 lang: en
 ---
 The decision to repair or replace your roof almost never arrives calmly. It arrives as a stain spreading across a bedroom ceiling, or as a contractor standing in your driveway holding a phone full of photographs you cannot verify, saying the words "you really need a full replacement" in a tone that suggests the discussion is already over. And you stand there doing arithmetic you have no basis for, because nobody has ever told you what actually separates a roof that needs a patch from a roof that needs to come off.
