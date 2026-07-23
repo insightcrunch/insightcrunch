@@ -6,15 +6,15 @@ date: 2003-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hyksos", "Second Intermediate Period", "Warfare", "Ancient Egypt", "New Kingdom"]
 excerpt: "How the Hyksos changed Egyptian warfare: the chariot, composite bow, khopesh and bronze armor that turned Egypt into the ancient world's greatest empire."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2003-04-01
+lang: en
 ---
-
 Egypt's greatest age of conquest was fought with borrowed weapons. That single sentence is the reason the question of how the Hyksos changed Egyptian warfare matters more than almost any other technical question in the country's ancient record. When the Eighteenth Dynasty marched into Syria and down past the fourth cataract of Nubia, the equipment carried by its soldiers had almost nothing in common with the equipment carried by the soldiers of the pyramid age. The bow was different. The blade was different. The armor was different. The army moved at a different speed because it now moved partly on wheels, drawn by an animal Egypt had barely known a few generations earlier. Every one of those changes entered Egypt through the Second Intermediate Period, and most of them entered through contact with the Hyksos rulers of the eastern Delta.
 
-![How the Hyksos changed Egyptian warfare with the chariot and composite bow, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Hyksos changed Egyptian warfare with the chariot and composite bow, explained - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 This is the through-line the article traces: from a foreign dynasty holding Avaris in the Delta, to a technology package absorbed by the Theban kingdom that fought it, to an imperial army that projected Egyptian power further than any Egyptian force before or after. The line is real, it is traceable in objects, in language, and in the shape of the army itself, and it produces one of the sharpest ironies in ancient history. The rulers Egyptian royal texts treated as the great humiliation handed Egypt the means of its greatest expansion.
 

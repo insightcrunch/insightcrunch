@@ -6,15 +6,15 @@ date: 2020-01-15
 categories: ["Leisure"]
 tags: ["Football", "Erling Haaland", "Tactics", "Defending", "Coaching", "Scouting"]
 excerpt: "How to stop Erling Haaland with a phase-by-phase defensive plan: line height, centre-back profiles, cutback marking, and what the blueprint concedes on purpose."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-01-15
+lang: en
 ---
-
 The honest answer to how to stop Erling Haaland is not a marking instruction. It is a decision about where your last line stands, who applies pressure to the man about to pass, and which two chances you are willing to give away in order to remove the one that beats you. Almost every version of this question answered on television or in a match preview reduces to "get tight on him," and against this particular forward that instruction is not merely weak. It is the mechanism by which he scores.
 
-![How to stop Erling Haaland, a defensive counter-plan and phase-by-phase blueprint - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Erling Haaland, a defensive counter-plan and phase-by-phase blueprint - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 State the plan in one sentence before any of the detail arrives. You defend the passer rather than the runner, you hold a controlled medium line with the offside reference set by the ball rather than by the striker, you assign your calmest centre-back to the space behind and your most physically robust one to the near post, and you accept conceding possession, territory, and a high volume of harmless wide entries in exchange for removing the two actions that produce almost all of his goals: the run onto a first-time ball played into the space behind a stretched line, and the arrival at the near post ahead of a recovering defender on a cutback. Nothing in this plan drives the probability of conceding to zero. The measurable objective is the count and the quality of the reception opportunities he gets inside the penalty area, and that number moves when a team defends the right thing.
 

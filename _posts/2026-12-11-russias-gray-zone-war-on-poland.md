@@ -6,17 +6,17 @@ date: 2026-12-11
 categories: ["Industry"]
 tags: ["Poland Security", "Hybrid Warfare", "Russia", "European Security", "Eastern Flank", "Geopolitics"]
 excerpt: "Russia's gray-zone war on Poland is a deniable coercion campaign below the threshold of open war. An assessment of its aims, tools, and cumulative pressure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-12-11
+lang: en
 ---
-
 Ask whether Russia's gray-zone war on Poland is real and you will get two confident answers, both wrong. The first says yes, obviously, and points to a list: a warehouse burns, a rail line is interfered with, satellite navigation signals fail across a region, a drone crosses a border, a coordinated falsehood spreads about Ukrainian refugees, people are pushed toward a frontier by a neighboring state. The second says no, calm down, and points to the same list with a shrug: warehouses burn for many reasons, navigation signals degrade for many reasons, drones stray, lies spread, borders are messy places. Both readings share a hidden assumption, which is that the question is settled by the incidents. It is not. The incidents are the evidence. The question is what sits behind them.
 
 This is the analytical problem this piece exists to solve. A coercion campaign conducted below the threshold of open war does not announce itself, and it is not supposed to. Its whole design is to present the defender with a stream of events each of which, taken alone, is arguable. Was that arson or an electrical fault. Was that a probe or a navigation error. Was that an information operation or ordinary online noise. Each question is answerable only slowly, expensively, and often inconclusively, and while the defender litigates each one, the stream continues. The pressure is not in any single event. The pressure is in the aggregate, and the aggregate is invisible to anyone who insists on resolving the events one at a time before forming a judgment.
 
-![Russia's gray-zone war on Poland, a threat assessment of the hybrid coercion campaign below the threshold of open war - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Russia's gray-zone war on Poland, a threat assessment of the hybrid coercion campaign below the threshold of open war - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 This article is the top-line assessment of that problem for Poland, and the piece the rest of this cluster defers to. It does not catalog episodes. Cataloging is what the coverage already does, and it is precisely the habit that keeps readers from seeing the shape of the thing. Instead it maps the tools into a single coercion architecture, states what that architecture appears to be for, explains the logic that keeps it below the line, and separates honestly what is established in the open record from what is inference. The judgment it reaches is neither of the two confident answers above. It is that Poland faces a real, sustained, deniable campaign of sub-threshold pressure, that this campaign is meaningfully coordinated at the level of strategy even where individual acts are not centrally scripted, that it falls well short of open war and is designed to, and that the defender's hardest task is not proving any one case but reading the campaign in the pattern. For the top-line judgment on whether the confrontation goes further than this, see [the series assessment of whether Russia would attack Poland at all](/2025/01/01/will-russia-attack-poland-risk-assessment/), which is the parent this piece sits beneath.
 

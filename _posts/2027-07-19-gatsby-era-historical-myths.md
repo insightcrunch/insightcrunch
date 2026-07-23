@@ -6,19 +6,19 @@ date: 2027-07-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Context", "American Literature", "Close Reading", "Essay Writing"]
 excerpt: "Historical myths about the Great Gatsby era flatten the 1920s into a party. Nine misconceptions corrected against the real history and the novel's own detail."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 52
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-07-19
+lang: en
 ---
-
 ## The Decade You Think You Know Is a Costume
 
 Ask a room of readers to describe the world of The Great Gatsby and you will get a costume party: fringe, flasks, saxophones, a Charleston, confetti, money falling from the ceiling. The historical myths about the Great Gatsby era are so durable that they arrive before the book does, and they do real interpretive damage, because a reader who imports the postcard 1920s reads Fitzgerald's novel as a fond photograph of a party rather than as the autopsy it actually is. The picture is not merely incomplete. It inverts the book's argument.
 
 This is the closing article in the InsightCrunch context and biography block, and it exists to do one job that none of the preceding thirty-nine could do on their own. Each of those articles built a piece of the decade: the Jazz Age, Prohibition, the automobile, the gilded elite, the valley of ashes, the bond market, the fashion, the music. This one takes the whole assembled structure and turns it against the cartoon most readers carry in their heads. The corrections here are not trivia. Every one of them changes a sentence in the novel.
 
-![Historical myths about the Great Gatsby era corrected against 1920s history - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Historical myths about the Great Gatsby era corrected against 1920s history - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Consider how much rides on a single misconception. If you believe the 1920s were a decade of general prosperity, then the valley of ashes reads as Fitzgerald's invention, a gothic touch, a symbolic wasteland dropped between two glittering poles for contrast. If you know that a substantial share of Americans spent the decade in stagnation or outright decline, that farmers were in trouble the entire time, that coal and textiles were depressed industries, and that ash dumps like the one in Queens were an ordinary municipal fact rather than a poetic conceit, the valley stops being a symbol imported from elsewhere. It becomes reportage that happens to be symbolic. Fitzgerald did not have to invent the wasteland. He had to drive past it.
 

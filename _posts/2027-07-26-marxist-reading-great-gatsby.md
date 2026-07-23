@@ -6,17 +6,17 @@ date: 2027-07-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Themes", "Close Reading", "American Literature", "F. Scott Fitzgerald"]
 excerpt: "A Marxist reading of Great Gatsby exposes the hidden labor and capital beneath the glamour, treating the novel's fortunes as a system rather than a virtue."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-07-26
+lang: en
 ---
-
 Read The Great Gatsby without a lens and it arrives as a tragedy of feeling: a man loves a woman, the past will not hold still, and the green light goes out. A Marxist reading of Great Gatsby rearranges that furniture. The parties acquire a payroll. The mansion acquires a mortgage of crime. The valley of ashes stops being a mood and becomes a workplace. Nick's inheritance stops being background and becomes the reason he can afford to be charmed by any of it.
 
 None of that requires importing anything Fitzgerald did not write. The novel is unusually generous with economic detail for a book that is remembered as lyrical. It tells you where Tom's money came from and where Gatsby's did. It counts the servants. It names the fruiterer. It puts a price on the shirts and a wage behind the canvas. What a class-and-capital framework does is refuse to let those details stay decorative. It reads them as the load-bearing structure of a world the prose keeps describing as if it were weather.
 
-![A Marxist reading of The Great Gatsby explained through class, labor, and capital - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Marxist reading of The Great Gatsby explained through class, labor, and capital - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This is the hub article for the Marxist lens in the InsightCrunch series. It owns the method: what the framework is, what it asks, how to apply it to named passages, where it fails, and how to build an argument out of it. The focused analysis of antagonism between the contending classes belongs to the companion piece on [class conflict through a Marxist lens](/2027/08/02/gatsby-marxist-class-conflict/), and the in-novel content of the money theme belongs to the study of [wealth and class in The Great Gatsby](/2024/05/13/wealth-class-great-gatsby/). What follows is the theory as a working tool.
 

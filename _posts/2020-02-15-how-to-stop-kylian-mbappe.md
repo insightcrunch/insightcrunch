@@ -6,15 +6,15 @@ date: 2020-02-15
 categories: ["Leisure"]
 tags: ["Football", "Kylian Mbappe", "Tactics", "Defending", "Coaching", "Scouting"]
 excerpt: "How to stop Kylian Mbappe with a space-management defensive plan: line height, full-back angles, midfield cover, and what the blueprint concedes on purpose."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-02-15
+lang: en
 ---
-
 Any plan for how to stop Kylian Mbappe that starts by naming a defender has already failed. The instruction usually given, which is to put the quickest full-back available on him and tell that full-back not to dive in, is not wrong so much as radically insufficient, because it answers a structural question with a personnel answer. The duel is decided before the duel begins. By the time the ball arrives at his feet, three things have already been settled: how much grass sits between him and your last line, whether his shoulders are open to your goal or closed toward the touchline, and whether a second defender can reach the contest before he reaches full speed. A plan that manages those three variables works with an ordinary full-back. A plan that ignores them fails with a fast one.
 
-![How to stop Kylian Mbappe, a space-management defensive counter-plan - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Kylian Mbappe, a space-management defensive counter-plan - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 This blueprint therefore commits to something specific and pays for it openly. It keeps the runway short, forces the reception to happen with his body turned rather than open, and guarantees that a second defender arrives inside the first three strides. In exchange it concedes possession in front of the block, territory in the middle third, crosses from deeper and wider positions than the attacking side would like, and shots from outside the penalty area. Those are real concessions and they will produce real chances against you. They are the price of removing the one chance that beats you almost every time it occurs, which is a forward with an open body, thirty metres of grass, and a single defender to beat.
 

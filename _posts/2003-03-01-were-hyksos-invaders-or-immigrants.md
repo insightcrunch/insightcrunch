@@ -6,15 +6,15 @@ date: 2003-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hyksos", "Second Intermediate Period", "Ancient Egypt", "Historiography", "Archaeology"]
 excerpt: "Were the Hyksos invaders or immigrants? Weigh Manetho's account against the archaeology of Avaris, name the deciding evidence, and reach a defended verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2003-03-01
+lang: en
 ---
-
 Were the Hyksos invaders or immigrants? The question sounds like a quibble over wording, and it is nothing of the kind. It is the single most consequential dispute in the study of Egypt's Second Intermediate Period, and the two answers produce two incompatible histories. On one side stands a story of catastrophe: a foreign army sweeping out of the east, taking a defenseless country without a fight, burning its cities, smashing its temples, and holding the Nile Valley in a grip of terror for a century. That story has a named source, a long pedigree, and a place in more textbooks than any competing account. On the other side stands the ground itself: a Delta town excavated layer by layer over decades, showing a Canaanite population that arrived slowly, settled permanently, built houses in its own style, buried its dead in its own way, and was living in Egypt for generations before any of its descendants wore a royal cartouche.
 
-![Were the Hyksos invaders or immigrants, the evidence and the verdict explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Were the Hyksos invaders or immigrants, the evidence and the verdict explained - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The people on each side of this debate are not evenly matched, and readers deserve to know that up front. The invasion account rests overwhelmingly on Manetho, an Egyptian priest who wrote in Greek under the Ptolemies, roughly thirteen centuries after the events he narrates, and whose words survive only because later writers with agendas of their own quoted him. The immigration account rests on the excavation record of Tell el-Dab'a in the eastern Delta, on the pottery, architecture, and burial customs recovered there, on the chemical signatures locked into the teeth of the people buried in its cemeteries, and on Egyptian administrative documents that record West Semitic names in Egyptian households long before the Fifteenth Dynasty existed. One side has a vivid narrative written by a man with no access to the period. The other side has stratigraphy.
 

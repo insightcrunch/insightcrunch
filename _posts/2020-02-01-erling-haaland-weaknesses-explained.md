@@ -6,15 +6,15 @@ date: 2020-02-01
 categories: ["Leisure"]
 tags: ["Football", "Erling Haaland", "Tactics", "Attacking", "Scouting", "Coaching"]
 excerpt: "Erling Haaland's weaknesses set against a strict conditional test: the three real limitations, the folklore, and the observable evidence a viewer can check."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-02-01
+lang: en
 ---
-
 Almost everything written about Erling Haaland's weaknesses fails a test that takes five seconds to apply. Name the condition under which the limitation appears, and name the thing a viewer could watch for to confirm it appeared. Most criticism of this forward cannot do either. It asserts a ceiling without a circumstance, which is how a scouting note degrades into a talking point, and it is why a coach preparing for a side built around him usually arrives with a list of grievances rather than a plan.
 
-![Erling Haaland's weaknesses explained, the real limitations and the folklore - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Erling Haaland's weaknesses explained, the real limitations and the folklore - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 This article separates the two. Three limitations here are real, in the sense that they can be stated as a mechanism plus a condition plus an observable, and a defending side can build around them. Three of the loudest claims cannot clear that bar, and the reason they cannot is more interesting than the claims themselves. A fourth category sits between the two, where a genuine constraint has been converted into an argument it does not support. Nothing here is a verdict on the man. A limitation relative to elite peers, under named circumstances, is the only kind of limitation a serious analyst has any business asserting, and it is the only kind asserted below.
 

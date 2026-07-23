@@ -6,17 +6,17 @@ date: 2020-01-01
 categories: ["Leisure"]
 tags: ["Football", "Tactics", "Defending", "Coaching", "Scouting", "Youth Football"]
 excerpt: "Stopping elite strikers starts by classifying the threat, not the name. Four forward types, four defensive templates, and the input every plan concedes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-01-01
+lang: en
 ---
-
 Stopping elite strikers is a classification problem before it is a defending problem, and almost every plan that fails on a Saturday failed on the Thursday it was written, when somebody in the meeting said the words "keep him quiet" and everybody nodded. That instruction contains no line height, no defender profile, no screening reference, no goalkeeper start position, and no decision about what the team is willing to give up. It is a wish. The forward on the other side has spent a decade building a specific way of hurting a back four, and he does not get worse because eleven people agreed in advance to concentrate.
 
 The useful question is narrower and much harder: which of this forward's inputs can we actually remove, and what does removing it cost us somewhere else on the pitch? Every plan against a top centre-forward is a trade. A team that pushes its line to twenty-five yards from its own goal to deny a depth runner the grass behind is choosing to defend a large space with two centre-backs and a goalkeeper. A team that drops to the edge of its own box to deny that same space is choosing to defend fourteen crosses and a rebound economy. Neither choice is wrong. Making the choice by accident, in the ninth minute, because the first ball over the top frightened somebody, is wrong every time.
 
-![Stopping elite strikers, a complete defensive guide to forward threat types and counter-plans - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Stopping elite strikers, a complete defensive guide to forward threat types and counter-plans - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 This guide gives you a taxonomy and a template set. It argues that elite forwards divide into four threat types, that each type is beaten by a different combination of line height, defender profile, second-defender behaviour, midfield screen, and goalkeeper positioning, and that applying the template for one type against another type does not merely fail, it actively improves the forward you were trying to reduce. Six heavily studied modern forwards are used as worked examples throughout: Erling Haaland, Kylian Mbappe, Harry Kane, Robert Lewandowski, Victor Osimhen, and Julian Alvarez. Each of them has his own full counter blueprint elsewhere in this series, and this page routes you to the right one rather than repeating it.
 
