@@ -6,17 +6,17 @@ date: 2020-04-15
 categories: ["Leisure"]
 tags: ["Football", "Victor Osimhen", "Tactics", "Defending", "Coaching", "Scouting"]
 excerpt: "How to stop Victor Osimhen: a counter blueprint using lateral compression, a designated first-contact defender, and the full-back angle that shuts the seam."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-04-15
+lang: en
 ---
-
 The plan is lateral compression plus one named defender whose only job is to arrive at the flight of the ball already moving forward, and the price of that plan is that the opponent gets to switch the ball across your block, unopposed, for ninety minutes. That is the compressed answer to how to stop Victor Osimhen, and everything below is the argument for why the two instinctive alternatives fail. Drop the block deep and you invite the crosses that feed his best quality. Hold a high line and you hand him the running start he wants. Neither is wrong because it is timid or because it is brave. Each is wrong because it solves one half of a two-part problem and pays for the solution by worsening the other half.
 
 Most opposition meetings about a forward like this go wrong in the first two minutes, when somebody says the word pace and somebody else says the word aerial, and the room silently accepts that these are two separate problems requiring two separate answers. They are not. A centre-forward who accelerates into the space between full-back and centre-back and who also attacks a delivery with momentum is exploiting the same structural feature twice: the horizontal gap that opens when a defensive line orients toward the ball. Close that gap and both threats lose their supply. Fail to close it and no amount of individual bravery in either duel will save you, because the duel will keep arriving under conditions the forward chose.
 
-![How to stop Victor Osimhen, a defensive counter-plan for channel runs and aerial duels - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Victor Osimhen, a defensive counter-plan for channel runs and aerial duels - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 This article is the counter blueprint for that specific profile. It sets the shape and the line height, names the defender type who fits the individual assignment, defines the collective triggers, sequences the plan phase by phase, adds the transition and dead-ball layers, gives the fallbacks for when the first plan fails, states plainly what you are choosing to concede, and then rebuilds the whole thing for a side without organized, rehearsed compactness. If you want the wider category frame first, the way this forward type sits alongside the other elite nines is handled in the [complete guide to stopping elite strikers](/2020/01/01/stopping-elite-strikers-complete-guide/), which owns the general version of the question and routes down to each single-subject plan.
 

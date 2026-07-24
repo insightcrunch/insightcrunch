@@ -6,17 +6,17 @@ date: 2027-02-01
 categories: ["Industry"]
 tags: ["Poland Security", "Disinformation", "Hybrid Warfare", "Russia", "European Security", "Eastern Flank"]
 excerpt: "Russian disinformation aimed at Poland works by corrosion, not conversion. A technique-level analysis of targets, methods, attribution, and resilience."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2027-02-01
+lang: en
 ---
-
 Russian disinformation aimed at Poland is usually described as an attempt to make Poles believe things that are not true. That description is not wrong, but it is a poor guide to what the campaign is for, and following it leads defenders to fight the wrong battle. A campaign built to persuade would look different: it would be internally consistent, it would push a single coherent line, and it would be measurable by counting converts. The activity actually observed against Poland and its neighbors is none of those things. It is often self-contradictory, it frequently pushes several incompatible claims at once, and it seems indifferent to whether any individual claim survives contact with evidence. That is not a failed persuasion campaign. It is a different kind of operation with a different objective, and the objective is closer to exhaustion than to belief.
 
 The analytical move this article asks the reader to make is to shift attention from content to technique. The specific false claims circulating at any moment are the least durable and least useful thing to study. They change constantly, they are tailored to whatever grievance is live, and cataloging them tends to spread them. The technique underneath is stable, and it is what a staffer, an official, an editor, or an attentive citizen can actually learn to see. A reader who finishes this article should be able to look at a piece of manufactured content and identify what it is trying to do, which seam it is trying to widen, and which of the three standing targets it is aimed at, without needing to know whether the particular claim is true.
 
-![Russian disinformation aimed at Poland, a gray-zone technique analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Russian disinformation aimed at Poland, a gray-zone technique analysis - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 This is a companion piece within the gray-zone cluster, and it deliberately stays inside its lane. The wider architecture of below-threshold pressure against Poland, of which the information effort is one instrument among several, is treated in the cluster's pillar on [Russia's gray-zone war on Poland](/2026/12/11/russias-gray-zone-war-on-poland/). The specifically electoral and political-financing dimension of influence operations belongs to [election interference and influence operations](/2028/09/21/election-interference-influence-ops/), which is the canonical owner of that subject and where a reader should go for it. What this article owns is the information instrument itself: how it works, what it aims at, why it is hard to attribute and harder to answer, and what resilience against it actually consists of.
 

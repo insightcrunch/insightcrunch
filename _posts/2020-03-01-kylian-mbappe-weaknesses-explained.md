@@ -6,17 +6,17 @@ date: 2020-03-01
 categories: ["Leisure"]
 tags: ["Football", "Kylian Mbappe", "Tactics", "Attacking", "Defending", "Scouting"]
 excerpt: "Kylian Mbappe's weaknesses explained: space dependence, congested reception, the aerial gap, and the real price a side pays to hold the state that limits him."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-03-01
+lang: en
 ---
-
 Any honest account of Kylian Mbappe's weaknesses has to begin by admitting what the phrase means and what it does not. It does not mean that a forward of this level has holes an ordinary side can walk into. It means that his output is unusually conditional, that the conditions which reduce it are identifiable and repeatable, and that a team which knows exactly what those conditions are can decide, in advance, whether it is capable of holding them. That is the useful version of the question. The useless version is the one that circulates constantly, in which a limitation is discovered, announced as a character flaw, and then never priced.
 
 Pricing is the whole argument of this article. Every state that suppresses a space-dependent forward costs the defending side something, and usually costs it in a currency that has nothing to do with him. Compress the pitch vertically and you concede the ball in front of your block for long stretches. Double the wide channel and you concede the switch. Sit a midfielder permanently in the inside lane and you lose him as a passing option when you win possession back. So the meaningful question is never whether Mbappe can be limited. He can, and sides have done it, and the mechanisms are not mysterious. The question is whether your team can afford the state that limits him for ninety minutes, against everything else the opposition is doing at the same time.
 
-![Kylian Mbappe's weaknesses explained, the conditions that reduce a space-dependent forward and what they cost to hold - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Kylian Mbappe's weaknesses explained, the conditions that reduce a space-dependent forward and what they cost to hold - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 That framing matters more than usual with this subject because the public conversation about him has drifted a long way from mechanism. Two positions dominate. One holds that he does not defend. The other holds that he vanishes when a team sits deep. Both contain a real observation and both then convert it into something the observation does not support. This article takes each position seriously, finds the football underneath it, and reaches a verdict rather than a shrug. Where the limitation becomes a plan, the sequenced version of that plan lives in the counter blueprint on [how a defensive structure is actually built against him](/2020/02/15/how-to-stop-kylian-mbappe/), which owns the how-to-stop query; the category-level frame, meaning what makes any elite forward hard to contain, belongs to the [complete guide to stopping elite strikers](/2020/01/01/stopping-elite-strikers-complete-guide/).
 

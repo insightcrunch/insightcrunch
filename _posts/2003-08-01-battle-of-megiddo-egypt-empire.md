@@ -6,15 +6,15 @@ date: 2003-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Battle of Megiddo", "New Kingdom", "Warfare", "Ancient Egypt", "Pharaohs"]
 excerpt: "The Battle of Megiddo, circa 1457 BCE, is the first battle in history recorded in detail. Its route decision, siege, spoils, and imperial result explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2003-08-01
+lang: en
 ---
-
 The Battle of Megiddo is the earliest engagement in human history that a reader can actually follow. Not the earliest battle fought, and not the earliest one mentioned, but the earliest one for which the marching days, the route argument among the commanders, the deployment on the field, the mistake that turned a rout into a siege, and the itemized haul at the end all survive in a single connected account. That account was carved on the walls at Karnak from field records kept by an army scribe, and it describes an engagement fought around 1457 BCE by a pharaoh in his first year of independent command against a coalition of Canaanite and Syrian rulers assembled under the king of Kadesh. Egypt won on the plain in a morning, then spent seven months outside the walls learning what winning had failed to deliver.
 
-![The Battle of Megiddo, how Egypt won and built an empire, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Battle of Megiddo, how Egypt won and built an empire, explained - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 Two things make the engagement worth a full article rather than a paragraph in a reign summary. The first is what it decided. Before Megiddo, Egyptian power in Asia was a memory of earlier raids that local rulers had learned to wait out. After Megiddo, a coalition of the southern Levant's most capable cities had been broken in one day, their rulers had sworn submission, and their sons had been taken to Egypt, and no comparable alliance was ever assembled against Egypt in Canaan again. The second is what it lets us see. Military history as a documented discipline, with dates, routes, orders of battle, and verifiable consequences, effectively begins here, and understanding why that is so requires understanding exactly what kind of document the Karnak annals are and how far they can be trusted.
 

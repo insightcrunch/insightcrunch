@@ -6,17 +6,17 @@ date: 2003-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "New Kingdom", "Karnak", "Ancient Egypt", "Religion", "Archaeology"]
 excerpt: "The Temple of Karnak at Thebes grew across two thousand years into Egypt's largest sacred complex, the home of Amun-Ra and the engine of priestly power."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2003-09-01
+lang: en
 ---
-
 The Temple of Karnak was never a building. It was a construction site that stayed open for two thousand years, and that single fact explains almost everything a visitor finds confusing about it. Walk the main axis and the architecture runs backward in time: the outermost gateway is one of the latest things built, the innermost sanctuary sits closest to the oldest ground, and the further in you go the smaller, older, and stranger the stonework becomes. No pharaoh designed Karnak. Roughly thirty of them, across dynasties that never met and religious settlements that contradicted each other, each added a court, a pylon, a hall, or a pair of obelisks to a shrine that was already ancient when the New Kingdom began. What survives is not a temple so much as a stone ledger of Egyptian ambition, with every entry signed.
 
 That is the argument of this guide, and it is worth naming plainly at the start: the two-thousand-year temple thesis holds that Karnak is best understood not as one monument but as an accreted one, a place where every king with money and a claim to legitimacy bought space on the most valuable religious real estate in the ancient world. Read that way, Karnak stops being an overwhelming jumble and becomes legible. Each addition is a political statement with a date attached.
 
-![Inside the Temple of Karnak at Thebes, the accreted monument to Amun-Ra explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Inside the Temple of Karnak at Thebes, the accreted monument to Amun-Ra explained - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 ## What the Temple of Karnak Was Actually For
 

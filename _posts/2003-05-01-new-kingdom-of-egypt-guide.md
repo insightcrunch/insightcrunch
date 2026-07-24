@@ -6,15 +6,15 @@ date: 2003-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "New Kingdom", "Ancient Egypt", "Pharaohs", "Historiography", "World History"]
 excerpt: "The New Kingdom of Egypt, circa 1550 to 1069 BCE, turned a recovering kingdom into an empire of gold, tribute, and great temples reaching from Nubia to Syria."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2003-05-01
+lang: en
 ---
-
 Every civilization has a period its own descendants treat as the standard against which everything else is measured, and for the Egyptians that period was the New Kingdom of Egypt. For roughly five centuries, from about 1550 to 1069 BCE, a kingdom that had spent a century divided and partly ruled by foreigners turned itself into the wealthiest and furthest-reaching state the Nile valley ever produced. Armies marched to the Euphrates. Gold moved north from Nubian mines in quantities that made Egyptian kings the bankers of the Bronze Age Near East. Temples at Thebes grew into economic institutions with their own fleets, estates, and workforces. The question this guide answers is not how impressive the New Kingdom looked, which is easy, but how it worked: what turned a recovering regional kingdom into an empire, what that empire actually consisted of, and why the whole arrangement came apart.
 
-![The New Kingdom of Egypt explained, empire, pharaohs, and decline - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The New Kingdom of Egypt explained, empire, pharaohs, and decline - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The popular image of this era is a gallery of golden objects and colossal statues, a kind of timeless pharaonic splendor with no moving parts. That image is the first thing to discard. The New Kingdom was a system, and the system had a logic that can be stated in one sentence. Egypt projected military force outward, converted that reach into a steady inflow of tribute, taxed goods, and mined gold, and then spent the proceeds on temples, on the army that made the reach possible, and on a priesthood that grew rich enough to become a political force in its own right. Call it the empire-of-gold thesis. Conquest funded religion; religion legitimized conquest; and when the outward reach failed, the funding failed with it, and the whole structure settled into fragments. Everything else in this guide, the dynasties, the famous names, the monuments, the collapse, hangs off that loop.
 

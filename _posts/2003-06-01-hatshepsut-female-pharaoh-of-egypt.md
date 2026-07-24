@@ -6,17 +6,17 @@ date: 2003-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hatshepsut", "New Kingdom", "Pharaohs", "Ancient Egypt", "Historiography"]
 excerpt: "Hatshepsut, Egypt's great female pharaoh, ruled circa 1479 to 1458 BCE. Explore her path to power, the false beard, the Punt expedition, and her legacy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2003-06-01
+lang: en
 ---
-
 The hardest question about Hatshepsut is not whether a woman could rule Egypt. Women had held real power in the Nile valley for centuries before she took the throne circa 1479 BCE. The hard question is how a royal woman turned temporary authority into permanent, uncontested, formally recognized kingship, complete with a throne name, a coronation account, a divine paternity claim, and two decades of monuments that no later ruler could quietly ignore. Hatshepsut did not slip into power through a gap in the system. She rebuilt the system's own vocabulary around herself until the vocabulary fit.
 
 That distinction matters because almost everything popular writing says about her gets the mechanism backward. The familiar story runs that she disguised herself as a man, hid behind a false beard, seized the throne from a helpless boy, and was punished for it after her death. Every element of that story is either wrong or badly misdescribed. The false beard was ceremonial regalia worn by kings and by statues of gods, not a personal costume. Thutmose III was neither helpless nor hidden; his name appears alongside hers on her own monuments. The defacement of her images came decades after she died, and its motive is a genuine debate rather than a settled vendetta.
 
-![Hatshepsut, Egypt's great female pharaoh, her path to power and reign explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hatshepsut, Egypt's great female pharaoh, her path to power and reign explained - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 What the evidence actually supports is stranger and more interesting than the legend. Hatshepsut secured her rule not by concealing what she was but by wrapping herself so completely in the inherited iconography of Egyptian kingship that the question of her sex became procedurally irrelevant. Call this the legitimacy-through-tradition thesis: she did not invent a new kind of ruler, she performed the old kind so thoroughly and so expensively that the performance became the fact. The beard, the divine birth cycle at Deir el-Bahari, the coronation reliefs, the obelisks at Karnak, the Punt expedition presented as a divine commission, all of it points the same direction. She was not smuggling herself past tradition. She was burying herself inside it.
 

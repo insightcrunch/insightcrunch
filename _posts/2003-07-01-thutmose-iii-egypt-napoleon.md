@@ -6,15 +6,15 @@ date: 2003-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Thutmose III", "New Kingdom", "Pharaohs", "Warfare", "Ancient Egypt"]
 excerpt: "Thutmose III led some seventeen campaigns, won at Megiddo, and pushed Egypt to the Euphrates. His reign, empire, building record, and verdict explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2003-07-01
+lang: en
 ---
-
 Thutmose III ruled an Egypt that had spent a century learning how to fight, and he was the first pharaoh who worked out what to do with that lesson. His predecessors had expelled a foreign dynasty, raided into Syria, and pushed south past the third cataract, but raiding is not empire. Between roughly 1479 and 1425 BCE, and above all in the thirty-two years after he took sole power around 1458 BCE, he converted a liberation army into a permanent instrument of imperial control, ran the campaign cycle year after year until the Levant learned that Egyptian armies always came back, and left behind the largest territorial reach any Egyptian ruler ever held. The nickname that follows him, the Napoleon of Egypt, was invented three and a half thousand years after his death and it distorts as much as it clarifies. The record underneath it does not need the borrowed glory.
 
-![Thutmose III, Egypt's Napoleon and the pharaoh who built the empire, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Thutmose III, Egypt's Napoleon and the pharaoh who built the empire, explained - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 What makes his reign worth studying closely is not the length of the conquest list. Conquest lists are cheap in Egyptian royal inscription, and pharaohs who never left the Delta had themselves carved smiting foreigners. What makes it worth studying is that the machinery survives in the record. The Karnak annals preserve a year-by-year campaign account compiled from field journals. Officials' tomb biographies describe how the tribute was received and who counted it. Administrative titles show the offices invented to hold the new territories. For once in Egyptian history a reader can trace the whole chain from a battlefield decision to a supply depot to a tax register to a temple endowment, and see how a war turned into a system. That chain is the subject of this article.
 

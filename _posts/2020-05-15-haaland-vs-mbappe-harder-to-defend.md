@@ -6,17 +6,17 @@ date: 2020-05-15
 categories: ["Leisure"]
 tags: ["Football", "Erling Haaland", "Kylian Mbappe", "Tactics", "Defending", "Coaching"]
 excerpt: "Haaland or Mbappe, who is harder to defend? A four dimension verdict on defensive cost, with the deciding factor named for three different types of team."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2020-05-15
+lang: en
 ---
-
 Ask whether Haaland or Mbappe is harder to defend and almost every answer you get will be an answer to a different question, which is who is the better footballer. That question has its own evidence and its own audience, and this article is not about it. The question here is narrower, colder, and far more useful to anyone who has to prepare a team: if you had to build and deliver a defensive plan against one of these two forwards, using the players actually available to you, which plan would be harder to execute and which would be more likely to break? That version has an answer. It simply does not have the same answer for every side, and the reason it does not is the most interesting thing about the comparison.
 
 The reason the argument never settles online is that both camps are usually right about different teams. A coach with two quick centre-backs and a disciplined offside line will tell you the depth runner is the more manageable problem, because the tool that neutralises him is the tool that coach already owns. A coach with a slow, experienced back line that defends brilliantly inside its own box will tell you the opposite, because the reception in behind is the thing his side cannot survive. Both are describing their own squad, not the forwards. Once you separate the threat from the defending team, the disagreement collapses into something a coach can actually use.
 
-![Haaland or Mbappe, which forward is harder to defend, a defensive difficulty comparison - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Haaland or Mbappe, which forward is harder to defend, a defensive difficulty comparison - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 This article resolves the question on four dimensions that a defending coach can act on, produces a comparison table you can take into a meeting, and then names a verdict for three different types of side. It leans on the plans rather than restating them, so where the counter-plan detail belongs elsewhere it is linked rather than repeated. The full sequenced plan against the depth runner lives in the [counter blueprint for stopping Erling Haaland](/2020/01/15/how-to-stop-erling-haaland/), the space management plan against the acceleration forward lives in the [blueprint for stopping Kylian Mbappe](/2020/02/15/how-to-stop-kylian-mbappe/), and the taxonomy that both sit inside, the one that sorts forwards by threat type rather than by reputation, is set out in the [complete guide to stopping elite strikers](/2020/01/01/stopping-elite-strikers-complete-guide/).
 

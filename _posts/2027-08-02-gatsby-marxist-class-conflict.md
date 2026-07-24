@@ -6,15 +6,15 @@ date: 2027-08-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Marxist Criticism", "Literary Criticism", "Themes", "Close Reading", "American Literature"]
 excerpt: "Class conflict through a Marxist lens recasts Gatsby's love triangle as a struggle between fractions of capital, waged over the labor of the valley of ashes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-08-02
+lang: en
 ---
-
 Tom Buchanan does not lose his wife in the parlor of the Plaza Hotel. He wins a jurisdictional dispute. Reading class conflict through a Marxist lens changes what that afternoon is: not a husband defeating a rival for a woman's affection, but an established fortune putting down a challenge from an unestablished one, using the only weapon that settles such disputes, which is the question of where the money came from. Tom does not argue that he loves Daisy more. He produces evidence about drugstores. That is not jealousy. That is a credit check.
 
-![Class conflict through a Marxist lens in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Class conflict through a Marxist lens in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 The novel invites a personal reading because its surface is personal. Two men want the same woman, a mechanic's wife dies under a car, a mechanic kills the wrong man. Every event has a name attached to it and a motive that sounds like feeling. What a Marxist reading does is refuse to stop at the name. It asks what economic position each character occupies, what that position gives them the power to do, and whose labor holds the whole arrangement up. When those questions are put to the summer of 1922 on Long Island, the love triangle reorganizes itself into something with three sides rather than two, and the third side, the one that does the work and gets buried in the second-to-last chapter, turns out to be the side the other two have in common.
 

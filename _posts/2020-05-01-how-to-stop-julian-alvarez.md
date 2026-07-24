@@ -6,17 +6,17 @@ date: 2020-05-01
 categories: ["Leisure"]
 tags: ["Football", "Julian Alvarez", "Tactics", "Defending", "Coaching", "Scouting"]
 excerpt: "How to stop Julian Alvarez starts with ownership: name a defender for every seam he uses, hand him off by call, and concede the pass that cannot hurt you."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2020-05-01
+lang: en
 ---
-
 The plan is a communication plan, not a marking plan, and the price of it is that you will spend the whole ninety minutes talking instead of tackling. That is the compressed answer to how to stop Julian Alvarez, and it is the answer almost nobody prepares for, because the instinct in every opposition meeting is to name a defender, give him the forward, and move on to set pieces. Name a defender against this profile and you have already lost the argument, since the forward in question spends most of the contest in the places where no single defender is standing. He is not beaten in a duel. He is beaten in a conversation that happens before the duel exists.
 
 Start from the observation that makes the rest of this coherent. A forward whose threat is positional rather than physical does not create advantage by winning contests. He creates advantage by living on the boundary between two defenders' responsibilities, which is the one place on a pitch where nobody is fully accountable and everybody assumes somebody else is. The goal that follows does not come from the metre he was faster over or the shoulder he leaned through. It comes from the metre where a centre-back and a holding midfielder each glanced at each other, each read the other as the owner, and each stepped a half-second late. That is the whole problem, and it is why the counter-plan below is built out of names, zones, and trigger words rather than out of aggression.
 
-![How to stop Julian Alvarez, a defensive counter-plan for a forward who lives between the lines - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Julian Alvarez, a defensive counter-plan for a forward who lives between the lines - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The complication worth confronting immediately is the assumption that a smaller, less explosive forward is a lesser threat. Alvarez is not the tallest forward in this cluster and he is not the fastest, and a defensive staff that has just finished preparing for a forward who runs through a back line at full speed will feel a certain relief when this fixture arrives. That relief is the mistake. Physical superiority is close to irrelevant against a forward who never enters the duel on your terms, because your centre-back's advantage in a contest only pays when a contest occurs, and this profile is built to convert before a contest occurs. Meet him with a bigger, stronger defender and you have prepared for an event that will not happen while the events that do happen go unattended.
 

@@ -6,15 +6,15 @@ date: 2027-08-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Feminist Criticism", "Literary Criticism", "Themes", "Close Reading", "Essay Writing"]
 excerpt: "A feminist reading of The Great Gatsby shows how the novel frames Daisy, Jordan, and Myrtle through male desire, and how to turn that method into essays."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-08-09
+lang: en
 ---
-
 Count the sentences in which a woman in this novel is described rather than heard, and then count the sentences in which a woman describes anything at all. The ratio is the whole argument. A feminist reading of The Great Gatsby begins there, not with the observation that Tom Buchanan is a brute or that Daisy makes a selfish choice, but with the structural fact that every woman in the book arrives to the reader already processed through a man's eyes, valued in a man's ledger, and quoted only when a man has decided the line is worth repeating. A plain reading notices that the women are treated badly. The lens explains why the treatment is a system rather than a series of bad manners, and it hands you a method you can carry into any other novel you are asked to write about.
 
-![A feminist reading of The Great Gatsby explained through Daisy, Jordan, and Myrtle - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A feminist reading of The Great Gatsby explained through Daisy, Jordan, and Myrtle - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 That method is what this article is for. Applying a lens is a skill, not an opinion, and the skill is teachable: you learn the questions the school asks, you take those questions to named passages, you produce a reading the text can support, and you know in advance which objection your reading has to survive. What follows walks the whole route, from the theory in plain terms through three worked passages to the essay paragraph you could hand in.
 

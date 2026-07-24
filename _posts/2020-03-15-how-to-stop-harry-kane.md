@@ -6,19 +6,19 @@ date: 2020-03-15
 categories: ["Leisure"]
 tags: ["Football", "Harry Kane", "Tactics", "Defending", "Coaching", "Set Pieces"]
 excerpt: "How to stop Harry Kane begins with one decision: does your centre-back follow him. A full counter-plan with shapes, triggers, defender profiles, and fallbacks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-03-15
+lang: en
 ---
-
 ## The One Decision That Decides This Match
 
 Every plan for how to stop Harry Kane collapses into a single question, and a centre-back has to answer it roughly forty times in ninety minutes. When the centre-forward turns his back on the goal he is supposed to attack and walks into midfield, do you go with him or do you stay? Answer it the same way every time and a good side will punish you inside twenty minutes. Answer it differently by situation without telling anyone which answer applies, and the back line will split itself apart without an opponent touching it. The plan in this article is built on a three-part answer that changes with the height of your block and the availability of a screening midfielder, and it accepts a specific cost: you will concede possession in front of your block and you will concede shots from outside the penalty area, deliberately, because the alternative costs more.
 
 That is the whole argument in one paragraph, and the rest of this piece is the mechanism behind it, the shape that carries it, the exact hand-off language, the profile of defender who executes it, the phase-by-phase sequence, the fallbacks when the first version fails, and the version that survives on a Sunday morning pitch with a squad that trains once a week.
 
-![How to stop Harry Kane, a defensive counter-plan for coaches - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Harry Kane, a defensive counter-plan for coaches - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 Before any of it, one correction to the way this problem is usually framed. Most opposition meetings treat a centre-forward as a marking assignment. Against a forward whose principal value is generated before the ball reaches him, and often without the ball reaching him at all, a marking assignment is not a plan. It is a job description handed to one player, and it leaves the other ten with nothing to do except react to whatever that duel produces. The plan that works is a collective one, and its central actor is not the centre-back at all. It is the holding midfielder, and after him the two players who fill the gap the centre-back leaves. Get those three right and the duel at the top of the pitch becomes almost irrelevant. Get them wrong and the best centre-back you own will be beaten by a pass he never saw, made by a forward standing thirty yards from goal with his back to it.
 

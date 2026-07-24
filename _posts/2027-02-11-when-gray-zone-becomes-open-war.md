@@ -6,17 +6,17 @@ date: 2027-02-11
 categories: ["Industry"]
 tags: ["Poland Security", "Hybrid Warfare", "Eastern Flank", "NATO", "Military Analysis", "Deterrence"]
 excerpt: "Where gray-zone coercion crosses into open war against Poland, why the line stays deliberately blurred, and the indicators that mark an approach to it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2027-02-11
+lang: en
 ---
-
 The hardest question in the whole eastern-flank debate is not whether Russia would attack Poland. It is where the gray-zone campaign already running against Polish territory stops being coercion and starts being an armed attack, and who decides. That boundary carries enormous legal, political, and military weight, because it is what an alliance response turns on and what a national mobilization decision turns on. Yet no treaty text, no doctrine manual, and no body of practice sets it out with the precision a planner would want. The line exists in principle and dissolves in application, which is exactly the property a coercive actor exploits.
 
 This matters because both of the obvious readings are wrong in dangerous ways. The first reading holds that a clear automatic trigger exists somewhere, that a sufficiently severe incident flips a switch, and that everyone will know the crossing when it happens. The second reading holds that no line exists at all, that the gray zone shades continuously into open conflict, and that arguing about boundaries is a lawyer's distraction from the real business of defense. A defender who believes the first will be surprised when a serious incident produces argument rather than action. A defender who believes the second will accumulate injuries without ever deciding that enough has happened, which is the slow-boiling failure that deniable campaigns are designed to produce.
 
-![When gray-zone coercion becomes open war, a threshold and warning analysis for Poland - Insight Crunch](/assets/images/blog/blog-01.webp)
+![When gray-zone coercion becomes open war, a threshold and warning analysis for Poland - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This article treats the crossing as a warning problem rather than a definitional one. Definitions matter, and the legal architecture gets its own treatment below, but the operational question for anyone responsible for Polish or allied decisions is not what the boundary is in the abstract. It is how you recognize an approach to it early enough to act deliberately rather than reactively. That reframing is what the indicators-and-warning discipline contributes here. The tradecraft developed for reading a conventional buildup, described in detail in the series treatment of [the warning signs of a Russian move on Poland](/2025/01/21/warning-signs-russian-move-on-poland/), transfers only partly to sub-threshold pressure, and the parts that do not transfer are the ones that cause failure.
 

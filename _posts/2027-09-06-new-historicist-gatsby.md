@@ -6,15 +6,15 @@ date: 2027-09-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "New Historicism", "Literary Criticism", "Context", "Close Reading", "American Literature"]
 excerpt: "A New Historicist reading of Gatsby places the novel inside the discourses and power relations of the 1920s that it circulated, reshaped, and passed on."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 51
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-09-06
+lang: en
 ---
-
 A New Historicist reading of Gatsby begins with a refusal. It refuses to treat the novel as a sealed aesthetic object that history merely surrounds, and it refuses just as firmly to treat history as a stable backdrop the novel passively reflects. Both refusals matter, and most student essays that claim to use the lens abandon one of them within a paragraph. What replaces the two refusals is a harder and more interesting proposition: that Fitzgerald's book and the culture it came out of were made of the same material, that the anxieties circulating in American public life between 1919 and 1925 pass through the novel's sentences the way current passes through wire, and that the novel does not simply record those anxieties but participates in their circulation. This is the claim the lens exists to test, and it changes what counts as evidence.
 
-![New Historicist reading of The Great Gatsby and 1920s discourses of class race and gender - Insight Crunch](/assets/images/blog/blog-01.webp)
+![New Historicist reading of The Great Gatsby and 1920s discourses of class race and gender - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The change is easy to underestimate. A reader who has been trained on themes will ask what the valley of ashes means. A reader working the New Historicist lens will ask a different question: what did the phrase "valley of ashes" do in 1925, what vocabulary was already available for talking about industrial waste and the human beings who lived beside it, and how does the novel's version of that vocabulary line up with, or push against, the versions circulating in newspapers, political speeches, popular science, and advertising copy. The first question produces an interpretation. The second produces a map of the interpretation's conditions. The lens is worth learning because the second map explains things the first cannot.
 

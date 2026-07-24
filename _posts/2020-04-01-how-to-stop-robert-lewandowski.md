@@ -6,15 +6,15 @@ date: 2020-04-01
 categories: ["Leisure"]
 tags: ["Football", "Robert Lewandowski", "Tactics", "Defending", "Coaching", "Attacking"]
 excerpt: "How to stop Robert Lewandowski: the penalty-area plan, with starting positions, contact rules, rebound duties and goalkeeper coordination that decide it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-04-01
+lang: en
 ---
-
 Any plan for how to stop Robert Lewandowski has to begin with a concession that most defensive briefings quietly refuse to make: you are not going to keep him out of your penalty area, and a plan built on that hope collapses within twenty minutes of kick-off. He will get in there. He will get in there against a low block, against a high line, against a back three, and against a side that has spent the week rehearsing nothing else. The question a coach actually has to answer is much narrower and much more useful, which is what happens in the one second after he arrives.
 
-![How to stop Robert Lewandowski, a penalty-area defending plan and marking scheme - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Robert Lewandowski, a penalty-area defending plan and marking scheme - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 That narrowing is the whole article. Against most forwards you are building a marking plan, a set of instructions about a man and where he goes. Against a box occupier you are building a penalty-area defending plan, which is a different document with different contents: starting distances, body orientations, contact rules, second-ball responsibilities, and a goalkeeper protocol that has been agreed rather than assumed. The decisive events happen inside a twelve-yard square in less time than it takes a defender to look up, and nothing you can shout during those events will change them. Everything that matters was decided before the delivery left the crosser's foot.
 
