@@ -6,17 +6,17 @@ date: 2020-06-01
 categories: ["Leisure"]
 tags: ["Football", "Lionel Messi", "Tactics", "Attacking", "Coaching", "Scouting"]
 excerpt: "Lionel Messi tactical profile: the scanning habit, the open receiving posture, and the four half-space functions that left defenders unable to commit early."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-06-01
+lang: en
 ---
-
 Three days before a fixture, a coach opens a laptop and meets a problem with no clean answer: somewhere in the opposition front line is a small left-footed forward with no fixed position, and somebody in the coach's own team has to be made responsible for him. Any Lionel Messi tactical profile that is worth reading has to begin there, at the assignment problem, because that is the shape the question takes for anyone who has to prepare rather than applaud. "Watch him" is not an instruction. The real question is which of your players is obliged to react when he moves, and what your structure looks like in the half-second after that player reacts.
 
 Almost everything written about him answers a different question. It counts what he won, it lists the goals, it settles the argument about where he ranks. None of that helps the coach with the laptop, and none of it is teachable to a fifteen-year-old on a Tuesday evening. What follows is the other article: what the machine actually was, at the level of head movement, hip angle, first-touch distance, and the pass that happened two actions before anybody scored.
 
-![Lionel Messi tactical profile, the receiving system and half-space functions behind his threat - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lionel Messi tactical profile, the receiving system and half-space functions behind his threat - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The short version, stated up front so the rest of the article can earn it, is this: the threat was not the dribble. The dribble was an output. The threat was a receiving system, built on scanning before the ball arrived and on a body position that kept three separate actions alive at the same moment, which meant no defender could commit early without being wrong. Everything else, the goals from wide starting positions, the through balls, the free kicks, the years spent apparently strolling, follows from that.
 

@@ -6,17 +6,17 @@ date: 2020-07-15
 categories: ["Leisure"]
 tags: ["Football", "Lionel Messi", "Defending", "Tactics", "Coaching", "Scouting"]
 excerpt: "The defenders who stopped Messi best used delay rather than the tackle. The four historic methods, the duel craft they demanded, and what transfers to you."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-07-15
+lang: en
 ---
-
 Search for the defenders who stopped Messi and you will be handed a list of names, a set of highlight clips, and a story that is almost entirely wrong. The story says that a handful of hard, clever, quick centre-backs and full-backs had his number, that the duel was settled by individual courage, and that the rest of world football simply lacked the personnel. Every part of that reading collapses the moment you watch the matches with a notebook rather than a memory. The performances people remember were produced by plans. The defenders inside those plans executed a specific technical job, and some of them executed it far better than others, but the job only existed because eleven players and a coaching staff had agreed in advance what they were willing to lose.
 
 That is the useful version of the question, and it is the one this article answers. Not who was brave enough, but what four defensive structures historically produced the least damaging outcomes against a forward of that profile, what each of those structures demanded from the individual in the duel, what each one gave away in exchange, and which parts survive the journey down to a level where nobody has a video analyst or a squad of internationals. The individual craft is the part that transfers. It is smaller than the reputation suggests, it is teachable to a fourteen year old, and it has almost nothing to do with tackling.
 
-![The defenders who stopped Messi best, the four historic methods and the duel craft - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The defenders who stopped Messi best, the four historic methods and the duel craft - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The reason the heroic reading survives is that it is emotionally satisfying and requires no work. A clip of a defender standing his ground for four seconds is legible to anyone. A clip of a right-sided midfielder starting his cover run half a second before the ball is played, so that the delay technique in front of him becomes survivable, is legible to almost nobody, and it is the actual cause. Football's most-watched duel of its generation has been narrated by the camera angle that shows the least useful information, which is the tight one on two players. Widen the frame and a different discipline appears.
 

@@ -6,15 +6,15 @@ date: 2020-08-01
 categories: ["Leisure"]
 tags: ["Football", "Cristiano Ronaldo", "Tactics", "Attacking", "Player Development", "Coaching"]
 excerpt: "Cristiano Ronaldo's tactical profile explained: how a wide dribbler became a penalty-area finisher, and the role migration principle every coach can copy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-08-01
+lang: en
 ---
-
 The single question a coach eventually asks about Cristiano Ronaldo is not whether he was good, which is settled, but which of him you are actually planning against, because there were three different players inside one career and each set a different defensive problem. A Cristiano Ronaldo tactical profile that treats him as one fixed threat will get a team beaten, since the wide dribbler who terrorised full-backs, the wide-starting forward who scored central numbers, and the penalty-area finisher who lived inside eighteen yards demanded completely different answers. Understanding him means understanding a transformation, and the transformation is the most useful thing about him for anyone who coaches, plays, or studies the game.
 
-![Cristiano Ronaldo tactical profile and role migration analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Cristiano Ronaldo tactical profile and role migration analysis - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 This piece treats him the way an opposition analyst treats a problem rather than the way a highlights channel treats a legend. The goal is not to reassemble a career summary that anyone can find in twenty minutes, but to isolate the mechanisms, the movement patterns, the physical qualities each version leaned on, and the demands each version placed on the ten players around him. By the end a reader should be able to watch any clip of him and place it inside one of the three versions, name the defensive problem that version created, and explain what a team had to give up to accommodate him. That last point matters more than any praise, because it is the part a coach can act on.
 

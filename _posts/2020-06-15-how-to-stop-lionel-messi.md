@@ -6,17 +6,17 @@ date: 2020-06-15
 categories: ["Leisure"]
 tags: ["Football", "Lionel Messi", "Tactics", "Defending", "Coaching"]
 excerpt: "How to stop Lionel Messi: a zonal ownership counter-plan with a delaying first defender, a screened inside seam, and an honest list of what it concedes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-06-15
+lang: en
 ---
-
 Every coach who has ever searched for how to stop Lionel Messi wanted a name. Give me the marker, they think, and I will give him the job. That instinct is the reason so many well-drilled sides have been taken apart by a left-footed forward who never ran past anybody at full speed. The plan that has actually held, across two decades of opponents trying, is not a man and it is not a tackle. It is a zone-ownership scheme with a designated first defender whose entire job is delay, a second defender whose entire job is screening the inside pass, and two concessions written into the design before kick off: you will not have the ball, and you will not defend the far flank properly.
 
 That is the whole blueprint in one paragraph, and the rest of this article is detail hung on that frame. What follows is the shape and the line height that make it possible, the defender profile that fits the first-contact role and the profile that ruins it, the screening geometry behind, the phase-by-phase sequence from goal kick to final third, the transition and dead-ball addenda, the fallbacks when the first version fails, and an honest accounting of what the scheme costs you everywhere else on the pitch. The mechanism this plan answers is set out in full in the [complete tactical profile of his game](/2020/06/01/lionel-messi-tactical-profile/), and the plan assumes you have read it or already know it.
 
-![How to stop Lionel Messi, a zonal ownership defensive counter-plan for coaches - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Lionel Messi, a zonal ownership defensive counter-plan for coaches - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 A note on tone before the football. This is a plan against one of the two or three most complete attacking footballers the sport has produced, and the plan does not pretend otherwise. Containment here means reducing frequency and quality, not elimination. A side that executes every phase of this scheme flawlessly will still concede two or three genuine opportunities to him across ninety minutes, and will still lose some of those nights. The measure of the plan is not whether he touched the ball in dangerous areas. It is whether he touched it there facing his own goal, with the inside pass covered, with nobody within reach for him to remove.
 

@@ -6,17 +6,17 @@ date: 2020-07-01
 categories: ["Leisure"]
 tags: ["Football", "Lionel Messi", "Tactics", "Attacking", "Coaching", "Scouting"]
 excerpt: "Lionel Messi's weaknesses explained: three real limitations, one usage pattern, four myths, and what each of them actually cost the teams built around him."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-07-01
+lang: en
 ---
-
 Ask a room of coaches to name Lionel Messi's weaknesses and you will get two answers, both of them useless. The first is that he had none, which is worship rather than analysis. The second is a list of insults borrowed from social media. Neither helps a coach who has to prepare a side against a player of that profile, and neither survives contact with the evidence. The honest version is narrower and far more interesting: there were three real limitations in his profile, each one conditional, each one with an observable mechanism, and each one absorbed by the eleven around him rather than by him.
 
 That last point is the whole argument of this article, and it changes where you look. A limitation in an ordinary footballer appears as a visible failure: the header he loses, the pass he cannot make, the runner he does not track. A limitation in a footballer of this level rarely appears in his own performance at all, because his sides reorganized until it stopped appearing. It shows up one level up, in the squad, in the shape, in who could be selected next to him and who could not.
 
-![Lionel Messi's weaknesses explained, the real limitations and the myths - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lionel Messi's weaknesses explained, the real limitations and the myths - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 So this is not a takedown and it is not a defense. It is a diagnosis, written to the same standard the rest of this series applies to every subject: a limitation is a shortfall relative to elite peers under stated conditions, with a mechanism you can watch for yourself and a cost you can name. Where a popular claim meets that standard, it stands. Where it does not, it gets dismissed, and the reason gets spelled out rather than asserted. The profile that these limitations sit inside is covered in full in the [complete tactical breakdown of how his receiving system worked](/2020/06/01/lionel-messi-tactical-profile/), and the plan that turns any of this into Saturday's team meeting belongs to the [counter blueprint against him](/2020/06/15/how-to-stop-lionel-messi/). This article does one job: it establishes what was actually wrong, what was merely different, and what was never true.
 
