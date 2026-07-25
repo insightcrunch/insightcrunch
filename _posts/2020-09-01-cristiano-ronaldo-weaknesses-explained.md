@@ -6,17 +6,17 @@ date: 2020-09-01
 categories: ["Leisure"]
 tags: ["Football", "Cristiano Ronaldo", "Attacking", "Tactics", "Scouting", "Player Development"]
 excerpt: "Cristiano Ronaldo's weaknesses, diagnosed as real tactical limitations: shot selection, build-up narrowing, pressing role, and the penalties argument."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-09-01
+lang: en
 ---
-
 Cristiano Ronaldo's weaknesses are the most argued-about subject in football, and almost none of that argument is conducted with any care. A serious diagnosis begins by defining what a weakness even means for a forward of his class. It is never a character verdict and never a claim that he was not one of the finest attackers the sport has produced. A weakness here is a limitation relative to elite peers, present only under named conditions, that obliged the teams built around him to arrange themselves in a particular way. Stated like that, the question stops being a loyalty test and becomes a coaching problem, which is the only version of the question worth an hour of anyone's time.
 
 The reason this player is so hard to assess honestly is that he sat at the centre of two different kinds of noise. On one side, the highlight reel flattens everything into a series of finishes and leaping headers, and invites the reader to conclude there was nothing left to solve. On the other, a large and motivated crowd insists his output was a mirage propped up by penalties, by the sides around him, and by a role that dragged those sides down. Both readings are lazy in the same way: they replace mechanism with a slogan. This article does neither. It takes each claimed limitation, isolates the mechanism that produces it, states the exact condition under which it appears, and names the cost it imposed on the ten players around him and the compensation his sides used to absorb it.
 
-![Cristiano Ronaldo's weaknesses explained, a tactical diagnosis of his limitations and their team cost - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Cristiano Ronaldo's weaknesses explained, a tactical diagnosis of his limitations and their team cost - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 That absorbed-weakness idea is the spine of the whole piece. Every top player carries a limitation his side chooses to structure around rather than eliminate, because eliminating it would cost more than living with it does. A limitation a team quietly absorbs is a very different thing from a limitation an opponent can attack, and much of the online argument about this forward collapses the two. The task of a weakness anatomy is to keep them apart: to say which limitations were genuinely load-bearing, which were the price a side paid on purpose for a benefit elsewhere, and which are simply fan-argument artifacts that dissolve the moment you look at the pitch instead of the comment thread.
 

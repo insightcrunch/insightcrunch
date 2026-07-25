@@ -6,15 +6,15 @@ date: 2027-03-11
 categories: ["Industry"]
 tags: ["Poland Security", "Hybrid Warfare", "Deterrence", "Defense Policy", "Eastern Flank", "Military Analysis"]
 excerpt: "Building resilience to sabotage is how Poland deters deniable gray-zone coercion by denial, starving an attack of the disruption, ambiguity, and fear it seeks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2027-03-11
+lang: en
 ---
-
 A policymaker in Warsaw who wants to blunt deniable coercion faces a decision that looks, at first, like a spending problem and turns out to be a design problem. The instinct is to treat sabotage as a threat to be intercepted: find the saboteur, catch the arsonist, unmask the operative, punish whoever sent them. Building resilience to sabotage takes the opposite starting point, and while interception is not wrong, it answers the wrong half of the question. The half that decides whether a society can be coerced from below the threshold of open war is not how well it catches the next operative. It is how little a successful operation actually buys the attacker. Resilience to sabotage is the policy of making that purchase worthless, and it is the strongest answer a state has to pressure it can never fully prevent.
 
-![Building resilience to sabotage, a policy analysis of how Poland hardens against gray-zone pressure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Building resilience to sabotage, a policy analysis of how Poland hardens against gray-zone pressure - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 This is a planning article, not a threat catalog. The threat itself, the arson, the rail tampering, the severed cable, the jammed signal, the paid provocateur, is treated in depth in [Russia's gray-zone war on Poland](/2026/12/11/russias-gray-zone-war-on-poland/), the pillar this piece answers, and in the survey of [sabotage on Polish soil](/2026/12/21/sabotage-on-polish-soil/). What follows assumes the reader already accepts that the pressure is real and takes up the harder question the pillar defers here: given that a determined adversary will get through some of the time, what does a society build so that getting through stops being worth the effort? The answer is a structured program of resilience, and the argument of this article is that resilience is not a consolation prize for failing to stop attacks. It is a form of deterrence in its own right, and against deniable coercion it is the primary one.
 

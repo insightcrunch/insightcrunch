@@ -6,17 +6,17 @@ date: 2003-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "New Kingdom", "Ancient Egypt", "Pharaohs", "World History"]
 excerpt: "Gold, tribute, and trade funded the Egyptian empire of the New Kingdom, a two-part engine of Nubian mines and foreign tribute that later drained away."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2003-12-01
+lang: en
 ---
-
 The Egyptian empire of the New Kingdom, the run of pharaohs from Ahmose I around 1550 BCE to the last of the Ramesses near 1069 BCE, was the wealthiest state the eastern Mediterranean and the Near East had yet produced, and its riches rested on a foundation that can be named in three words: gold, tribute, and trade. This was not treasure hoarded for its own sake. It was a working economy with sources and destinations, an inflow of metal and goods from the south and the north and a steady outflow into temples, tombs, and armies. Understanding how that money moved is the difference between admiring a gilded coffin and explaining how a Bronze Age state paid for one.
 
 For roughly five centuries the pharaohs of the Eighteenth, Nineteenth, and Twentieth Dynasties commanded resources that no earlier Egyptian king had held. They controlled the gold-bearing deserts of Nubia and the Eastern Desert, they extracted regular payments from conquered and client states across the Levant, and they traded with partners from the Aegean to the Horn of Africa. The scale of it left an impression abroad that outlasted the empire itself: foreign kings who wrote to the pharaoh in the fourteenth century BCE described gold in Egypt as though it were as common as the dust underfoot.
 
-![Gold, Tribute, and the Egyptian Empire](/assets/images/blog/blog-01.webp)
+![Gold, Tribute, and the Egyptian Empire](/assets/images/blog/blog-75.webp)
 
 Yet the same wealth that looks bottomless in a museum case was built on a narrow and vulnerable base. The empire paid for itself by conquest and by control of the mines, and both of those could be lost. When the frontier receded and the vassals slipped away, the inflow shrank, and a state that had run on foreign gold and foreign tribute found itself unable to feed its own workmen on time. The economics of the Egyptian empire is therefore a story with an ending built into its beginning. This article traces the whole circuit, where the wealth came from, how the bureaucracy counted and moved it, where it ended up, and why the machine eventually ran down.
 

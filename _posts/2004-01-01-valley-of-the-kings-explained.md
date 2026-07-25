@@ -6,13 +6,15 @@ date: 2004-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "New Kingdom", "Ancient Egypt", "Pharaohs", "Archaeology", "Religion"]
 excerpt: "The Valley of the Kings hid New Kingdom pharaohs in rock-cut tombs to escape the robbers who emptied the pyramids, yet nearly every tomb was still looted."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-01-01
+lang: en
 ---
-
 The Valley of the Kings was a security decision before it was anything else. For roughly five centuries the kings of the Old and Middle Kingdoms had advertised their burials with the largest stone structures on earth, and for those same centuries robbers had emptied nearly every one of them. When the pharaohs of the New Kingdom chose a dry desert valley behind the cliffs of western Thebes and cut their tombs deep into the rock instead of piling stone toward the sky, they were not inventing a new kind of grandeur. They were trying to solve a problem the pyramid had failed to solve. A tomb no one could find could not be robbed. That was the wager, and the whole design of the valley follows from it: the hidden entrances, the disguised shafts, the workers sworn to secrecy in a walled village over the ridge, the mummies packed with the wealth of an empire and sealed behind rubble.
+
+![The Valley of the Kings Explained - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 The wager mostly lost. Within a few generations, and in some cases within a few years of a burial, thieves were inside the royal tombs, and by the end of the New Kingdom the plundering had become so systematic that the state ran criminal investigations and the priesthood eventually gathered up the violated royal mummies and hid them in bulk. What the valley leaves us is therefore a double lesson: a masterpiece of funerary engineering and religious art, and a demonstration that concealment could not defeat the economics of gold. Understanding the Valley of the Kings means holding both halves together, the ambition and the failure, because the failure is written into the same walls that carry some of the finest painting the ancient world produced.
 

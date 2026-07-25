@@ -6,19 +6,19 @@ date: 2020-11-01
 categories: ["Leisure"]
 tags: ["Football", "Tactics", "Defending", "Attacking", "Coaching", "Scouting"]
 excerpt: "How defenders coped with the greatest strikers, era by era: the four rule and equipment changes that altered the duel, and the four things that never did."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-11-01
+lang: en
 ---
-
 ## The Argument That Never Gets Settled
 
 Every discussion of the greatest strikers and how defenders coped with them ends in the same place, which is nowhere. One side says the forwards of earlier eras would be swallowed whole by modern athleticism, that they were slower, that the pitches were slower, that the defending was amateur. The other side says the forwards of today are protected by the laws to a degree their predecessors would find comical, that a modern number nine would be kicked into the stand inside twenty minutes of a match played under the old permissions, and that goal totals from earlier periods therefore understate what those men actually did. Both positions get repeated until everybody is tired, and nobody ever changes their mind, because the argument is conducted entirely with opinions about outcomes rather than with any attempt to isolate what changed.
 
 That is the failure this article is built to correct. The question is answerable. It is answerable because the striker duel has been altered by a small number of identifiable changes, and each of those changes did something specific and traceable to the defender's job. Four of them matter. The backpass rule, which removed the goalkeeper's hands as a safety valve. The progressive outlawing of the tackle from behind, which converted the defender's primary tool from dispossession into delay. The move away from sweeper systems and dedicated man-marking toward coordinated zonal lines, which changed the striker's problem from beating one assigned opponent to beating an organized structure. And the material improvement in pitch surfaces and ball behavior, which altered first touch, shooting technique, and the reliability of aerial delivery.
 
-![The greatest strikers and how defenders coped across eras, a tactical breakdown of rule changes and marking systems - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The greatest strikers and how defenders coped across eras, a tactical breakdown of rule changes and marking systems - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 Isolate those four and the era war becomes a set of separate questions with separate answers, some of which favor the old forwards and some of which favor the modern ones. Then, once the variables are stripped out, something more useful appears underneath: the part of the duel that has not changed at all. Separation, timing, first contact, and the geometry of the near post are the same problems for a centre-back today that they were for a centre-back marking a penalty-box specialist in the era of the sweeper. That is the reason a coach should care about any of this. Old defensive craft is not nostalgia. Large parts of it are still legal, still effective, and still coachable on Tuesday evening with fourteen players and half a pitch.
 

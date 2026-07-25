@@ -6,17 +6,17 @@ date: 2020-11-15
 categories: ["Leisure"]
 tags: ["Football", "Ronaldo Nazario", "Defending", "Tactics", "Coaching", "Attacking"]
 excerpt: "How defenders stopped Ronaldo Nazario: why engaging and jockeying both failed, and the pre-reception plan that gave a defence its one real source of leverage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-11-15
+lang: en
 ---
-
 A centre-back preparing to face Ronaldo Nazario had exactly two instincts available to him, and both of them lost. He could engage, close the distance, and try to make the duel physical before the forward built any speed. He could drop, jockey, keep three yards of cushion, and trust that delay would bring help. Every academy in the world teaches those two options as the whole of one-on-one defending, and stopping Ronaldo Nazario is the clearest case in the sport of a forward who punished both of them, on the same pitch, within the same passage of play, using the same technique. The reason is not that he was faster than the defender or more skilful than the defender. It is that his feet operated at a speed where the two options stopped being separate choices.
 
 That is the analytical problem this article exists to solve, because it is the problem almost nobody addresses. The clips are everywhere and the admiration is universal, and the admiration is where the discussion stops. What a coach actually needs is the answer to a narrower question: if the duel itself cannot be won, where does defensive value get created instead? The answer is that it gets created before the ball reaches him, in the passing lane, in the body angle of the marker at the moment of the pass, and in the position of the second defender at that same moment. Everything after the first touch is damage limitation.
 
-![How defenders stopped Ronaldo Nazario, the pre-reception counter-plan explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Ronaldo Nazario, the pre-reception counter-plan explained - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 ## Why the standard one-on-one decision collapses
 

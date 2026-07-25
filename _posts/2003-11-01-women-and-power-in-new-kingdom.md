@@ -6,17 +6,17 @@ date: 2003-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "New Kingdom", "Women in Egypt", "Ancient Egypt", "Pharaohs", "Historiography"]
 excerpt: "Women and power in New Kingdom Egypt explained: how queens, God's Wives, and ordinary wives held real legal rights while formal political rule stayed closed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2003-11-01
+lang: en
 ---
-
 Women and power in New Kingdom Egypt sit at an angle to almost everything a reader expects from the ancient world. A woman in Thebes around 1300 BCE could buy a field, sell a donkey, lend grain at interest to her neighbor, stand in a court and give testimony against a man, walk out of a marriage and take her own property with her, and write a will that cut an ungrateful son out of his inheritance. The same woman could not become a vizier, could not command a regiment, could not sit as a judge, and would have found the scribal schools that produced the administrative class effectively shut to her. Both halves of that sentence are true at once, and the whole difficulty of the subject lives in the gap between them.
 
 That gap is what this guide is built to close. The New Kingdom, running roughly from 1550 to 1069 BCE across the Eighteenth, Nineteenth, and Twentieth Dynasties, produced the most powerful royal women in Egyptian history and left the richest surviving record of ordinary women's legal and economic lives anywhere in the Bronze Age world. It also produced a political system in which a woman on the throne was so exceptional that scholars still argue about how the throne handled her. Reading the era honestly means holding those facts together rather than choosing whichever one flatters a modern preference.
 
-![Women and power in New Kingdom Egypt, from royal queens to ordinary legal rights, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Women and power in New Kingdom Egypt, from royal queens to ordinary legal rights, explained - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The popular literature on this subject swings between two errors. One presents pharaonic Egypt as a lost matriarchy where women enjoyed something close to modern equality, a claim usually built by quoting the legal evidence and ignoring the political evidence. The other presents it as an undifferentiated patriarchy where female influence was decorative, a claim built by quoting the political evidence and ignoring the legal evidence. Neither survives contact with the sources. What the sources show is a society that granted women unusual civil capacity while reserving formal public authority for men almost without exception, and that combination is stranger and more interesting than either myth.
 

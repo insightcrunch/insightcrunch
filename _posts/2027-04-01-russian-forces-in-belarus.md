@@ -6,13 +6,15 @@ date: 2027-04-01
 categories: ["Industry"]
 tags: ["Poland Security", "Belarus", "Russian Military", "Military Analysis", "Eastern Flank", "NATO"]
 excerpt: "Russian forces in Belarus are a layered presence, standing, rotational, and exercise-surge, whose real meaning lies in the trend, not in any single snapshot."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2027-04-01
+lang: en
 ---
-
 The most useful question about the Russian military footprint in Belarus is not how many soldiers stand on Belarusian soil on any given morning. It is a harder and more revealing question: how much genuine combat power does that footprint represent, how permanent is it, and how much of what an observer sees is a standing capability versus a rotational signal that comes and goes with the exercise calendar. Answer that, and the launchpad debate becomes tractable. Miss it, and every troop sighting turns into either an invasion scare or a shrug, both of them wrong.
+
+![Russian Forces in Belarus: What Is Really There - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 This is a capability read, held deliberately to what is actually there and what it enables, not to intent and not to any scenario of attack. The aim is to give a serious reader a durable way to weigh the footprint: to separate the parts that would still be there next year from the parts that appear only when a drill is running, and to rate each part honestly for the fighting power it adds and for the warning its growth would give. The subject of Russian forces in Belarus attracts more heat than light precisely because most coverage collapses these distinctions into a single number and a single mood.
 

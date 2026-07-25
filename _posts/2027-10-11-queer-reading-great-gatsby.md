@@ -6,17 +6,17 @@ date: 2027-10-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Queer Theory", "Nick Carraway", "American Literature"]
 excerpt: "A queer reading of The Great Gatsby attends to the desires and identities the novel leaves unnamed, reading its silences and opening longing beyond romance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-10-11
+lang: en
 ---
-
 A plain reading of The Great Gatsby settles quickly into a story about a man, a woman, and a green light across the water. Gatsby loves Daisy, Daisy is married to Tom, and the whole gorgeous machinery of the parties turns on that one heterosexual longing. This is not wrong. It is simply the reading the surface of the novel most wants you to take, and it leaves a surprising amount of the book unaccounted for. A queer reading of The Great Gatsby begins from everything the surface story cannot quite absorb: the charge in Nick's attachments, the strange elisions in his narration, the intensity with which men watch and want and describe other men, the way the novel keeps naming feelings it refuses to categorize. The lens does not overturn the love plot, and it does not need to. It reads underneath and around that plot, in the spaces where the text goes quiet and the official story runs out of things to say.
 
 That quiet is the point. Fitzgerald's book is famous for what it withholds. It skips scenes, breaks sentences, trails into ellipses at the moments a reader most wants filled in. A queer critical approach treats those gaps not as accidents of style but as evidence, because the history of non-normative desire is largely a history of things that could not be said outright and so had to be encoded, deferred, or left blank. When a novel from 1925 goes silent exactly where desire between men might otherwise appear, the silence is worth reading closely.
 
-![The Great Gatsby analysis illustration](/assets/images/blog/blog-01.webp)
+![The Great Gatsby analysis illustration](/assets/images/blog/blog-111.webp)
 
 ## What a queer reading of The Great Gatsby is
 

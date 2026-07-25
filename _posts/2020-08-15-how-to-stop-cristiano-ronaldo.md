@@ -6,15 +6,15 @@ date: 2020-08-15
 categories: ["Leisure"]
 tags: ["Football", "Cristiano Ronaldo", "Tactics", "Defending", "Coaching"]
 excerpt: "How to stop Cristiano Ronaldo starts with denying the delivery, not the finisher. A two-system counter-plan for the late run and the aerial header threat."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-08-15
+lang: en
 ---
-
 The plan for how to stop Cristiano Ronaldo begins with a decision that feels wrong to almost every defender who first hears it: you do not try to beat him at the two things he does best. You do not out-jump him, and you do not out-sprint his late arrival into the box. Both are contests he wins often enough that building a defensive scheme around winning them is a scheme built on a coin toss. The coherent answer sits one pass earlier, at the moment the ball is about to be delivered toward him, because a forward who scores from crosses, cutbacks and second balls is only as dangerous as the service that reaches those zones. Cut the quality of that service and both of his finishing systems lose their fuel at once.
 
-![How to stop Cristiano Ronaldo, a defensive counter-plan - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Cristiano Ronaldo, a defensive counter-plan - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This is a counter blueprint, so it commits to a plan and states plainly what the plan concedes. It is built for the coach who has to prepare a back line, for the centre-back who has to mark a late runner without a clear sight of him, for the full-back and winger who have to treat pressing the crosser as a defensive duty rather than an attacking luxury, and for the goalkeeper who has to choose a starting position before a single ball is struck. It also speaks to the analyst who has to work out, from a couple of clips, which version of this forward a side is about to face, because the answer changes which half of the plan carries the load. His tactical profile, the mechanism behind every threat described here, is set out in full at [Cristiano Ronaldo: the complete profile](/2020/08/01/cristiano-ronaldo-tactical-profile/), and the limitations this plan leans on are anatomised at [Cristiano Ronaldo's weaknesses explained](/2020/09/01/cristiano-ronaldo-weaknesses-explained/). This article owns the counter-plan.
 

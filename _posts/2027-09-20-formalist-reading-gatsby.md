@@ -6,15 +6,15 @@ date: 2027-09-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "A formalist reading of Great Gatsby treats the text as a self-sufficient design, showing how structure, imagery, and language alone carry its meaning."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-09-20
+lang: en
 ---
-
 A formalist reading of Great Gatsby asks you to do something that feels almost perverse at first. It asks you to set aside what you know about Fitzgerald's ruined marriage, his Long Island summers, the crash that waited three years past the last page, and the whole glittering apparatus of the Jazz Age, and to look instead at nothing but the words on the page and the shape they make. The claim underneath that discipline is bold: that the novel's power is built into its design, legible without any appeal to history or biography, and that if you learn to read the structure, the imagery, and the language as a single working system, the book will tell you what it means through its own construction. This is the oldest and in some ways the most demanding lens in the critical toolkit, and it remains one of the most useful for a student who has to argue a case from the text itself.
 
-![A formalist reading of The Great Gatsby explained through structure, imagery, and language - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A formalist reading of The Great Gatsby explained through structure, imagery, and language - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 Where a historicist reaches outward to the discourses of 1922 and a psychoanalytic critic reaches inward to the unconscious, the formalist stays put. The object of study is the artifact: this sequence of chapters, these recurring colors, this narrating voice, this last sentence. The wager is that everything the novel achieves it achieves through form, and that the surest way to demonstrate why the book endures is to show the machinery working. That wager is worth taking seriously, because the formalist habits it builds, patience with the sentence, attention to pattern, and a refusal to substitute a summary for the thing itself, are the habits every other lens depends on when it comes time to prove a claim.
 

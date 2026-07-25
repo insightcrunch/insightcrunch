@@ -6,17 +6,17 @@ date: 2020-10-15
 categories: ["Leisure"]
 tags: ["Football", "Coaching", "Defending", "Tactics", "Player Development", "Youth Football"]
 excerpt: "Training a team to contain a superstar: the full session week, the constraints that create real decisions, the coaching points, and the honest transfer test."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-10-15
+lang: en
 ---
-
 Training a team to contain a superstar is not a shape problem, and treating it as one is why so many carefully prepared defensive weeks collapse inside the opening quarter of an hour. The plan is written, the video is watched, the back four walks through the sliding pattern on a Thursday, and then a forward receives on the half-turn eleven yards inside his own half with his back to a full-back who was told to press, and nobody on the pitch knows whether the full-back goes or holds. The shape was rehearsed. The decision was not. A containment plan lives or dies on about nine individual decisions repeated forty times each, and none of them are made by the team. They are made by one player, alone, in less than a second, with a consequence attached.
 
 That is the behavior a containment week has to produce: the correct individual choice, made at match speed, by a tired player, when getting it wrong hurts. Everything below is built backwards from that sentence. The week described here installs a plan against any elite individual, whatever his threat type, using constraint designs that force the real decision rather than the comfortable one, coaching points that change what a player does rather than what he can recite, and an honest test at the end of it that tells a coach whether the work transferred or simply happened.
 
-![Training a team to contain a superstar, a full session week and drill design guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Training a team to contain a superstar, a full session week and drill design guide - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 This article is the training end of the counter-plans in this cluster. The analysis lives elsewhere: the threat-type vocabulary sits in the [complete guide to stopping elite strikers](/2020/01/01/stopping-elite-strikers-complete-guide/), and the two worked plans this week most often installs are the ones set out in [how to stop Lionel Messi](/2020/06/15/how-to-stop-lionel-messi/) and [how to stop Cristiano Ronaldo](/2020/08/15/how-to-stop-cristiano-ronaldo/). What follows takes any of those plans, or any plan a coach has written himself, and turns it into four sessions, a warm-up, and a matchday reminder.
 

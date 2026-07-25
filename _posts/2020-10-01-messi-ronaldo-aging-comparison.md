@@ -6,17 +6,17 @@ date: 2020-10-01
 categories: ["Leisure"]
 tags: ["Football", "Lionel Messi", "Cristiano Ronaldo", "Tactics", "Attacking", "Coaching", "Player Development"]
 excerpt: "The Messi Ronaldo aging comparison as a coaching problem: why one dropped deep, why one moved into the box, and how a defence plans against each version."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-10-01
+lang: en
 ---
-
 Every coach who has ever kept a good player past his athletic peak faces the same problem, and the Messi Ronaldo aging comparison is the clearest worked example football has of it. A forward whose value was built on producing dozens of maximal actions per match can no longer produce dozens of maximal actions per match. His technique has not gone. His reading of the game has improved. What has changed is the number of times per match he can accelerate, decelerate, change direction, and then do it again ninety seconds later. That is a real constraint, it is measurable, and it does not go away with motivation.
 
 What makes these two careers worth studying together is that they arrived at that constraint from opposite athletic bases and solved it in opposite directions, and both solutions worked. One route moved the player away from goal and turned him into an orchestrator whose contribution came from touches, angles, and final passes rather than from repeated running. The other route moved the player toward goal and compressed his game into the penalty area, where the actions are short, violent, and decisive rather than long and repeated. Neither is a fallback. Each is a deliberate reallocation of a resource that was getting smaller.
 
-![How Messi and Ronaldo aged differently, an effort budget comparison for coaches - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Messi and Ronaldo aged differently, an effort budget comparison for coaches - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 This article is not a tribute and it is not a ranking. It sets out the physiology in general terms, builds a model that explains both routes as answers to the same question, gives the artifact a coach can actually use, and then does the part that almost no competing page attempts: it works out how a defensive plan changes against each aging version, and why the older player can be harder to handle in some phases of the game and easier in others. The individual career narratives belong elsewhere in this series, and are linked rather than repeated, because this page owns the comparison and the defensive consequence.
 

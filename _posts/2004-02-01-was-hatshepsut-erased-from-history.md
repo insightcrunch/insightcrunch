@@ -6,19 +6,19 @@ date: 2004-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hatshepsut", "New Kingdom", "Pharaohs", "Historiography", "Ancient Egypt"]
 excerpt: "Was Hatshepsut erased from history? Weigh the delayed defacement, the role of Thutmose III, and whether cold succession politics or personal revenge drove it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2004-02-01
+lang: en
 ---
-
 Was Hatshepsut erased from history? For more than a century the answer seemed to write itself, and it made a good story. A woman had ruled Egypt as a full king, wearing the false beard and the royal titles that tradition reserved for men. When she died, her stepson and successor took the throne, hated the memory of the aunt who had kept him waiting, and set out to chisel her name and image from every wall he could reach. The erasure of Hatshepsut became a tale of jealousy and revenge, a king settling a personal score in stone. It is dramatic, it is memorable, and the evidence has slowly pulled it apart.
 
 The trouble is timing. The defacement of Hatshepsut's monuments was real, systematic, and widespread. Her cartouches were hacked out, her figures cut away, her obelisks walled up, and a whole chapel she built at Karnak taken down block by block. But careful study of when this happened points not to the raw grief and rage of a fresh succession, but to a decision taken roughly two decades after her death, late in the long reign of Thutmose III. A revenge that waits twenty years is a strange sort of revenge. That single fact reframes the entire question and moves the debate from the emotional to the political.
 
 This article resolves that debate with a defended verdict. It sets out the two competing readings, personal vengeance against cold dynastic calculation, and weighs the genuine evidence each rests on. It follows what was actually done to Hatshepsut's monuments, when the campaign began, and who is likely to have ordered it. It presents the erasure evidence table, which pairs each act of defacement with its timing and the motive it best supports. And it reaches a conclusion: the removal of Hatshepsut was a delayed, political act meant to stabilize the male royal succession, not a jealous king's immediate vendetta. Her reign itself, from her rise to power to her building program and her expedition to Punt, belongs to a separate study; this one is about what happened to her memory afterward, and why the popular story of erasure needs correcting.
 
-![Was Hatshepsut Erased From History?](/assets/images/blog/blog-01.webp)
+![Was Hatshepsut Erased From History?](/assets/images/blog/blog-51.webp)
 
 The stakes go beyond one ruler. How Egypt treated the memory of a female king tells us how the culture handled an event it had no comfortable category for. Kingship in Egypt was male by definition, expressed through male titles, male regalia, and a mythology of the king as the living Horus. Hatshepsut did not overturn that framework; she worked inside it, presenting herself in the full traditional image of a pharaoh. The later attack on her monuments was, in part, an attempt to smooth over the anomaly she represented, to make the record read as an unbroken line of male kings passing power from father to son. Read that way, the erasure is less a crime of passion and more a piece of statecraft, and the reader who understands the difference can argue the case rather than repeat the legend.
 

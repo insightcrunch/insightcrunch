@@ -6,15 +6,15 @@ date: 2027-03-01
 categories: ["Industry"]
 tags: ["Poland Security", "Hybrid Warfare", "Eastern Flank", "Russia", "Defense Policy", "Military Analysis"]
 excerpt: "Hybrid war vs open invasion risk to Poland compared across likelihood, aggressor cost, defender difficulty, and consequence, with a planning-weight verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2027-03-01
+lang: en
 ---
-
 The choice framed as hybrid war vs open invasion risk is not an academic exercise for the people who have to sign budgets, allocate staff officers, and decide which ministry owns which problem. It is a live allocation fight, and it is genuinely hard, because the two threats sit at opposite corners of the risk grid. One arrives continuously, cheaply, and below the level that triggers any formal response. The other has not arrived at all, would cost the aggressor enormously, and would remake Europe if it did. A planner who treats these as the same problem with different intensities will misallocate. A planner who treats them as unrelated problems will be surprised twice.
 
-![Hybrid war vs open invasion risk to Poland, a comparative threat analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hybrid war vs open invasion risk to Poland, a comparative threat analysis - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 The disagreement is real and it runs through serious institutions. One camp holds that the conventional case deserves the overwhelming share of attention, because it is the only path that produces territorial loss, mass casualties, and the collapse of the European security order, and because the sub-threshold campaign, whatever its irritations, has not cost Poland a single kilometer of ground. The other camp holds that the deniable campaign deserves the overwhelming share, because it is happening, it is producing measurable damage to infrastructure and public confidence, and no plan that waits for tanks will ever engage it. Both camps are describing something true. Neither has produced a rule for weighting the two that survives contact with a finite budget.
 

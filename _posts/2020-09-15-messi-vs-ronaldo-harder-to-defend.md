@@ -6,15 +6,15 @@ date: 2020-09-15
 categories: ["Leisure"]
 tags: ["Football", "Lionel Messi", "Cristiano Ronaldo", "Tactics", "Defending", "Coaching"]
 excerpt: "Messi or Ronaldo harder to defend becomes a settleable question once you narrow it to defensive difficulty and answer it separately by defending team profile."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-09-15
+lang: en
 ---
-
 Ask any coaching group whether Messi or Ronaldo was harder to defend and the room splits before the sentence finishes. That split is not a failure of knowledge. It is a sign that the question, as usually asked, has no fixed answer, because most people arguing it are quietly answering a different question about who was greater. Narrow the terms to defensive difficulty alone, define what that means in the language a coach actually uses on a training pitch, and the argument stops being a shouting match and becomes something a staff can settle for their own side. That is the only version of this comparison worth writing, and it is the version this article commits to for every paragraph that follows.
 
-![Messi or Ronaldo who was harder to defend, a tactical comparison of two threat types - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Messi or Ronaldo who was harder to defend, a tactical comparison of two threat types - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 Here is the promise. By the end you will have five measurable dimensions of defensive difficulty, a grid that scores both players on each, and a separate verdict for four kinds of defending team, with the deciding factor named in every case. You will not find a trophy count, a goal tally, a head-to-head record, or a sentence about which man the writer prefers. Those belong to a different argument, and importing them is exactly how this question gets ruined. What a defending coach needs is not a coronation. It is a plan, and a plan begins with knowing which of these two threats attacks the specific weakness his own team carries into Saturday.
 

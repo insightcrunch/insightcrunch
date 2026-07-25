@@ -6,17 +6,17 @@ date: 2027-09-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Deconstruction", "Nick Carraway", "Literary Criticism", "Close Reading", "American Literature"]
 excerpt: "A deconstructionist reading of Gatsby shows how the novel undoes its own certainties, from the unstable word great to Nick's self-cancelling honesty claim."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-09-27
+lang: en
 ---
-
 Ask a class what the word "great" means in the title, and the answers split before anyone finishes a sentence. Half the room hears praise; the other half hears a question, or a joke, or a wound. That split is not a failure of attention. It is the novel working exactly as it was built to work, and a deconstructionist reading of Gatsby begins by refusing to smooth the split over. Where a plain reading picks a side and moves on, this lens stops on the fault line and studies it, because the fault line is where the book keeps its meaning.
 
 A deconstructionist reading of Gatsby is not a search for a hidden message under the surface. It is the opposite gesture. It watches the surface cancel itself. It notices that the narrator who promises honesty is the same narrator who admits he suppresses things, that the book which sorts people into old money and new money keeps letting the sorting collapse, that the title word praises and mocks in one breath. None of these are bugs a careful editor should have caught. They are the load-bearing tensions of a book that refuses to settle, and once you see them, you cannot read the last page the same way again.
 
-![The Great Gatsby deconstructionist reading](/assets/images/blog/blog-01.webp)
+![The Great Gatsby deconstructionist reading](/assets/images/blog/blog-114.webp)
 
 This article owns the deconstructionist lens for the InsightCrunch Great Gatsby Authority Series. It explains the theory in plain terms, walks the lens through the novel's most famous cruxes, and builds a reusable artifact: a table pairing each apparent certainty in the book with the exact detail that undoes it. That table is the namable claim here, the five self-cancelling certainties of The Great Gatsby, and by the end you should be able to run the method on any passage yourself. The lens has a reputation for being forbidding and abstract. It is neither, once you see that the novel got there first.
 

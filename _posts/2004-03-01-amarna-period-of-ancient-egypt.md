@@ -6,17 +6,17 @@ date: 2004-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Amarna Period", "Akhenaten", "New Kingdom", "Eighteenth Dynasty", "Aten"]
 excerpt: "The Amarna Period was ancient Egypt's great anomaly, the short years when one pharaoh's religious revolution broke the eternal order that later kings buried."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-03-01
+lang: en
 ---
-
 For roughly two decades in the fourteenth century BCE, ancient Egypt did something it almost never did across three thousand years of recorded civilization: it deliberately broke its own rules. The Amarna Period is the name Egyptologists give to that break, a short and intense stretch of the Eighteenth Dynasty when a single pharaoh, Akhenaten, closed the great state temples, promoted one sun god above the crowded pantheon, built a brand-new capital on empty desert ground, and reshaped royal art into something no earlier Egyptian would have recognized. Then, almost as fast as it began, the experiment collapsed, and the kings who followed worked to scrub it from the record so thoroughly that for centuries the whole episode nearly vanished from Egypt's official memory of itself.
 
 That is the paradox worth holding onto from the first sentence. Egypt was the ancient world's great machine for continuity. Its ideology promised that the cosmic order, maat, had been fixed at the moment of creation and that the pharaoh's central job was to keep it running unchanged, generation after generation. A civilization built on that promise was not supposed to produce a revolution. Yet for one reign it did, and the reaction to that reign, the erasure, the silence, the hacked-out names, tells us as much about how Egypt understood itself as the revolution did. This is why the Amarna Period repays close study: it is the exception that exposes the rule.
 
-![The Amarna Period of Ancient Egypt](/assets/images/blog/blog-01.webp)
+![The Amarna Period of Ancient Egypt](/assets/images/blog/blog-74.webp)
 
 This guide is the hub for the whole Amarna cluster. It gives the broad orientation: what the Amarna Period was, when it ran, who ruled, where its famous city stood, what made it unlike anything before or after, how it changed Egypt, and what followed once it fell. The deep specialist questions, the character and reign of Akhenaten himself, the religion of the Aten and whether it counts as the world's first monotheism, the strange new art, the diplomatic letters found in the desert, and the campaign to erase the heretic kings, each has its own dedicated article in this series, and this page routes down to them at every turn rather than crowding their ground. Read this first to build the frame; follow the links to go deep.
 
