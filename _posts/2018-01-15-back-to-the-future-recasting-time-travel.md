@@ -9,7 +9,7 @@ excerpt: "Back to the Future was reshaped by a mid-shoot recasting and a clockwo
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 61
 author: "diana-patel"
-last_updated: 2018-01-15
+last_updated: 2026-07-25
 lang: en
 ---
 Five weeks of footage went in the bin, and that is where the real story of Back to the Future begins. Robert Zemeckis had a finished script, a studio behind him, a producer in Steven Spielberg, and a young leading man already deep into principal photography. He also had a growing certainty that the movie was not working, that the comedy at the heart of his time-travel premise was curdling into something heavier and stranger on the dailies, and that the gentlest way to fix it was the most brutal one available to a director. He would have to fire the actor playing Marty McFly and start the role again from scratch. The decision that followed is the single most instructive production crisis in 1980s American studio comedy, and it explains more about why the picture endures than any praise of its charm can.

@@ -9,7 +9,7 @@ excerpt: "How the May 10 ceasefire was negotiated through three simultaneous cha
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
 author: "ryan-walsh"
-last_updated: 2018-02-19
+last_updated: 2026-07-25
 lang: en
 ---
 On May 10, 2025, at precisely 15:35 hours Indian Standard Time, a telephone rang in the office of India's Director General of Military Operations, Lieutenant General Rajiv Ghai. The caller was his Pakistani counterpart, reaching across a hotline that had carried messages of restraint and defiance in roughly equal measure across decades of conflict. Eighty-five minutes later, at 17:00 hours, the guns fell silent across land, air, and sea, ending four days of the most dangerous military confrontation between two nuclear-armed states since the 1999 Kargil crisis. The ceasefire that emerged from that call has been claimed by Washington, disputed by New Delhi, celebrated by Islamabad, and claimed retroactively by Beijing, but its origins involve at least three simultaneous negotiation channels whose convergence produced an outcome that no single channel could have delivered alone. This reconstruction maps those channels, identifies who spoke to whom and when, and argues that the truce was neither purely bilateral nor externally imposed, but instead a convergence event in which domestic military pressure, American diplomatic urgency, and strategic exhaustion collided within a ninety-minute window to halt what analysts had begun calling the first war between nuclear powers in the twenty-first century.

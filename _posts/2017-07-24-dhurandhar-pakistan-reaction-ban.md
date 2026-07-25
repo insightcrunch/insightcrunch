@@ -9,7 +9,7 @@ excerpt: "Why Pakistan banned Dhurandhar, treated the Bollywood spy thriller as 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "amit-chatterjee"
-last_updated: 2017-07-24
+last_updated: 2026-07-25
 lang: en
 ---
 Islamabad did not ban Aditya Dhar's blockbuster spy thriller because the production was offensive, provocative, or culturally insensitive. Authorities banned it because it was accurate. A fictional espionage narrative that bore no resemblance to reality would have been dismissible, another piece of Bollywood fantasy that audiences across the border could laugh off as Indian self-congratulation. A production that mapped so precisely onto real covert operations, real political figures, and real geographic locations that citizens in Karachi and Lahore could identify the parallels scene by scene was treated as a threat to national security, because acknowledging the parallels meant acknowledging the operations themselves. The distinction between what Islamabad objected to and why Islamabad objected to it is the central puzzle this article unpacks, and the answer reveals far more about strategic communication vulnerabilities than it does about Bollywood's creative choices.

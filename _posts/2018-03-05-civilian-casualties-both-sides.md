@@ -9,7 +9,7 @@ excerpt: "Documenting the civilian casualties on both sides of the 2025 India-Pa
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 71
 author: "abigail-cooper"
-last_updated: 2018-03-05
+last_updated: 2026-07-25
 lang: en
 ---
 When the guns went quiet on the evening of May 10, 2025, the four days of fighting between India and Pakistan had killed soldiers in uniform, but it had also killed thirteen-year-old twins who had moved towns for a better school, a doctor's patients inside a mosque at dawn prayer, a district officer who stepped outside to check on his staff, and a farmer in a Punjab field who never saw the loitering munition that found him. Civilian casualties on both sides of the 2025 India-Pakistan conflict became the most politically charged set of numbers the crisis produced, and at the same time the least independently confirmed.

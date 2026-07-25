@@ -9,7 +9,7 @@ excerpt: "A deep dive into India's weaponization of the Indus Waters Treaty, the
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2018-04-02
+last_updated: 2026-07-25
 lang: en
 ---
 On April 23, 2025, one day after gunmen killed 26 tourists in the meadows of Pahalgam, the Indian government did something no prime minister had done in sixty-five years of nuclear rivalry, cross-border wars, and terrorist provocations. New Delhi suspended the Indus Waters Treaty, the 1960 water-sharing agreement that had survived three full-scale wars, the Kargil conflict, the 2001 Parliament attack standoff, the 2008 Mumbai massacre, and every diplomatic breakdown between the two nations since Partition. Within eleven days, the sluice gates of the Baglihar Dam on the Chenab River were shut. Engineers at the Kishanganga project on the Neelum were preparing similar measures. For the first time since the treaty's signing, India was not merely threatening to use water as leverage. It was doing it, visibly, physically, and with the explicit framing of punitive action against a state that had sheltered the men who planned the [Pahalgam massacre](https://insightcrunch.com/2012/06/03/pahalgam-attack-2025-explained/).

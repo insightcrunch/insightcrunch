@@ -9,7 +9,7 @@ excerpt: "Pakistan's Operation Bunyan-un-Marsoos explained in full detail, its c
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2018-02-12
+last_updated: 2026-07-25
 lang: en
 ---
 On the morning of May 10, 2025, after three days of absorbing Indian missile and drone strikes without a formal retaliatory response, the Inter-Services Public Relations directorate in Rawalpindi issued a terse announcement that would become the most contested communique of the entire India-Pakistan conflict: the armed forces of the Islamic Republic had launched a comprehensive counter-operation named Bunyan-un-Marsoos, and the results, ISPR declared, would speak for themselves.

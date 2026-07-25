@@ -9,7 +9,7 @@ excerpt: "The complete catalog of every weapon system deployed in Operation Sind
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "william-knight"
-last_updated: 2018-02-26
+last_updated: 2026-07-25
 lang: en
 ---
 Operation Sindoor was not merely a military campaign. It was the largest real-world combat audition for advanced weapons platforms since the coalition invasion of Iraq in 2003, compressed into a seventy-two-hour window between two nuclear-armed states. When Indian forces struck nine sites across Pakistan and Pakistan-administered Kashmir beginning at 1:05 AM on May 7, 2025, they simultaneously introduced the Dassault Rafale to combat, fired the SCALP cruise missile in anger for the first time from an Indian platform, launched BrahMos supersonic missiles from Sukhoi Su-30MKI fighters against hardened targets, and activated the S-400 Triumf air defense system to intercept live hostile aircraft. No military operation in the twenty-first century has stress-tested so many advanced systems against a peer adversary in such a compressed timeframe, and the performance data generated during those hours will shape defense procurement decisions across four continents for the next decade.

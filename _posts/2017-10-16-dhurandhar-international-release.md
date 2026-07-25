@@ -9,7 +9,7 @@ excerpt: "How Dhurandhar's international release carried India's shadow war narr
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2017-10-16
+last_updated: 2026-07-25
 lang: en
 ---
 Dhurandhar's international release accomplished something that decades of Indian diplomatic communiques, carefully worded United Nations speeches, and strategic foreign policy white papers never managed: it gave global audiences a visceral, emotionally coherent understanding of why India believes it has the right to kill terrorists on foreign soil. When Japanese audiences in Tokyo's Shinjuku district watched Ranveer Singh execute a motorcycle hit on a Karachi street, they did not need a background briefing on the Indus Waters Treaty or a primer on Line of Control violations. They understood. Two hours of cinema did what two decades of diplomacy could not, and the implications of that efficiency for India's global narrative projection deserve more rigorous analysis than the brief box office reports and trade headlines that have so far constituted the conversation.

@@ -9,7 +9,7 @@ excerpt: "The fourteen critical days between the Pahalgam massacre and Operation
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
 author: "abigail-cooper"
-last_updated: 2018-01-15
+last_updated: 2026-07-25
 lang: en
 ---
 Between April 22 and May 7, 2025, India executed the most calibrated escalation sequence in the history of South Asian crisis management, moving through fourteen distinct stages from diplomatic protests to cruise missile strikes with a precision that suggested nothing was improvised and everything was choreographed. The [Pahalgam massacre](https://insightcrunch.com/2018/01/08/pahalgam-attack-minute-by-minute/) killed twenty-six civilians in Baisaran Valley, and within hours of the blood drying on the meadow grass, New Delhi began a systematic campaign of pressure that touched every lever of statecraft available to a nuclear-armed democracy: treaty suspensions, border closures, visa revocations, trade embargoes, water restrictions, diplomatic downgrades, property demolitions, and military positioning, each one a signal, each one an off-ramp, and each one ignored by Islamabad. By the time Indian Rafale jets were airborne carrying SCALP cruise missiles toward nine targets in Pakistan and Pakistan-administered Kashmir, India had built a fourteen-step case for military action that no foreign ministry on earth could call impulsive.

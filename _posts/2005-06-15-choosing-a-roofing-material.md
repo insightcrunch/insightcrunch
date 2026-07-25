@@ -9,7 +9,7 @@ excerpt: "Choosing a roofing material means weighing lifespan, climate fit, and 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 62
 author: "ian-fletcher"
-last_updated: 2005-06-15
+last_updated: 2026-07-25
 lang: en
 ---
 Choosing a roofing material is the one decision in a re-roof that you cannot walk back. Everything else about the job is negotiable up to the moment the crew arrives: the price, the schedule, the payment terms, the cleanup, the flashing details, even the contractor. The covering itself is different. Once it is nailed down, you own that choice for as long as it lasts, and how long it lasts is exactly what you were choosing when you signed. A homeowner who picks the cheapest option because the quotes were confusing has not saved money. They have moved the money into the future and added a second tear-off to their life.

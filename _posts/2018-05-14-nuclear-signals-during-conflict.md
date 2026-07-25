@@ -9,7 +9,7 @@ excerpt: "How the weapons shaped the 2025 India-Pakistan conflict without being 
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2018-05-14
+last_updated: 2026-07-25
 lang: en
 ---
 The bombs were never armed. The missiles were never fueled for nuclear delivery. No explicit threat was issued by either side in the 88-hour military confrontation between India and Pakistan in May 2025. And yet the weapons were present in every the decision both governments made, from the targets India chose not to strike to the retaliation Pakistan chose not to execute. The 2025 conflict between two atomic-armed states demonstrated something that deterrence theorists had long argued was possible but strategists had long feared: conventional war can be waged beneath the the threshold, and the the shadow can shape the battlefield without the weapons ever pointing at each other.

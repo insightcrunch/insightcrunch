@@ -9,7 +9,7 @@ excerpt: "Millions of civilians on both sides of the Line of Control fled their 
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 72
 author: "kevin-reeves"
-last_updated: 2018-03-26
+last_updated: 2026-07-25
 lang: en
 ---
 The press conferences counted missiles. They counted jets, terror camps, intercepted drones, and the precise number of minutes Operation Sindoor lasted. What no government spokesperson in New Delhi or Islamabad stood up to count, in the four days between the night of May 7 and the ceasefire of May 10, 2025, was the number of families sleeping on the floors of school gymnasiums, the children who lost their parents in the scramble onto a stranger's truck, and the elderly who could not be moved and were left to shelter in basements while artillery walked across the ridgelines above them. The 2025 India-Pakistan conflict produced two stories. One was the story of weapons systems and deterrence thresholds, told in real time on television. The other was the story of the civilians the weapons displaced, and that story was told almost nowhere.

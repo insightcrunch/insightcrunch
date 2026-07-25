@@ -9,7 +9,7 @@ excerpt: "How Dhurandhar's fictional Lahore operation eerily paralleled the real
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "amit-chatterjee"
-last_updated: 2017-09-04
+last_updated: 2026-07-25
 lang: en
 ---
 When Aditya Dhar wrote the screenplay for Dhurandhar, he constructed a fictional covert operation in which an Indian intelligence operative, embedded deep inside Pakistan's criminal underworld, orchestrates a strike against a senior figure tied to Lashkar-e-Taiba's founding leadership in the city of Lahore, the cultural capital of Punjab province and a garrison town considered impenetrable by Pakistan's security establishment. The scene played out on screen with meticulous operational choreography: the target approached in a vehicle, the assailants arriving with rehearsed precision, the shooting unfolding in a populated residential area, the escape through congested Lahore traffic, and the target left critically wounded on a street that should have been the safest in Pakistan for a person of his stature. Audiences watched, absorbed, and moved on to the next scene. Then, months after Dhurandhar and its sequel completed their theatrical runs, the real world delivered a sequence so similar in its broad strokes that Indian social media erupted with side-by-side comparisons, memes, and a single recurring question: did the filmmakers know?

@@ -9,7 +9,7 @@ excerpt: "Sophie's Choice routes the Holocaust through one transformative perfor
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2018-04-01
+last_updated: 2026-07-25
 lang: en
 ---
 A great screen performance usually announces itself in motion: a gesture held a beat too long, a voice that bends a familiar line into something new, a face that lets the audience watch a thought arrive before the character speaks it. The performance at the center of Sophie's Choice does all of that, but its real achievement is structural. Meryl Streep does not play a woman with a terrible secret so much as she builds, scene by scene, the architecture of concealment itself, releasing the truth in measured increments until the final revelation lands with the force of something the viewer has been waiting two hours to understand and dreading the whole time. Alan J. Pakula's 1982 drama is often described as a showcase, a vehicle, a single overwhelming turn that swept every award in its path. That description is accurate and also insufficient. What Streep constructed is a case study in how trauma can be carried in a body rather than narrated, how an accent can do the work of exposition, and how one impossible decision can be made to hold the weight of an entire historical catastrophe.

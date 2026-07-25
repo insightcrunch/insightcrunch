@@ -9,7 +9,7 @@ excerpt: "The Terminator and RoboCop turned the 1980s cyborg into a mirror for f
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2018-01-01
+last_updated: 2026-07-25
 lang: en
 ---
 Two American pictures released within three years of each other took the same raw image, a body that is part flesh and part hardware, and pointed it in opposite directions. James Cameron's The Terminator (1984) sends an unstoppable killing machine back through time to murder a woman who has done nothing yet, and the horror lies in its refusal to feel, negotiate, or stop. Paul Verhoeven's RoboCop (1987) takes a murdered police officer and rebuilds him as company property, and the horror lies in how much of the man the corporation keeps and how little it lets him keep of himself. One film fears the machine that cannot be reasoned with. The other fears the human who has been turned into a product. Place them side by side and a single question sharpens into focus: when the decade reached for the half-machine body to name its anxieties, which version cut deeper, the relentless mechanism arriving from the future or the dead man wearing a brand?

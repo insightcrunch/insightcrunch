@@ -9,7 +9,7 @@ excerpt: "Chariots of Fire scored a 1920s Olympic drama with the Vangelis synthe
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2017-12-15
+last_updated: 2026-07-25
 lang: en
 ---
 A handful of synthesizer notes climb over a pulse, men in white run barefoot through wet sand, and a period sports picture about two runners at the 1924 Olympics becomes one of the most recognizable sounds in the history of motion pictures. That is the strange achievement of Chariots of Fire (1981), directed by Hugh Hudson and produced by David Puttnam, scored by the Greek composer Vangelis. The story is set in the early twentieth century, in a Britain of cobbled quadrangles, dress dinners, and Gilbert and Sullivan. The music that carries it is none of those things. It is electronic, contemporary to its own moment of release, and built from instruments that did not exist when Harold Abrahams and Eric Liddell were alive. By every rule of period decorum that pairing should fail. Instead it produced a theme that topped record charts, won an Academy Award, and attached itself so completely to the act of running that millions who have never seen the film can hum it on cue.

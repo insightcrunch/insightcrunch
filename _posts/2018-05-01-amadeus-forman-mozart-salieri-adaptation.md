@@ -9,7 +9,7 @@ excerpt: "How Amadeus adapts Peter Shaffer's play into a fantasia on genius and 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2018-05-01
+last_updated: 2026-07-25
 lang: en
 ---
 A dying man slashes his own throat and is carried, screaming, into an asylum, and from that cell he summons a young priest to hear a confession that is really an accusation against God. This is how Amadeus begins, and the choice tells you immediately that Milos Forman and the playwright Peter Shaffer are not making a biography of Wolfgang Amadeus Mozart. They are adapting a play about envy, narrated by the man who claims to have destroyed a genius he could not equal. Everything the film shows of Mozart reaches us secondhand, filtered through the memory and the resentment of Antonio Salieri, the court composer who outlived his rival by decades and spent those decades convinced that he had been cursed with just enough taste to recognize greatness and not one ounce of the gift to produce it. The central adaptation decision is that frame: the story is a confession, and a confession is a shaped thing, selective, self-justifying, and free to invent.

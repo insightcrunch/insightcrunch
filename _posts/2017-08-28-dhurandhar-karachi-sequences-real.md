@@ -9,7 +9,7 @@ excerpt: "Comparing Dhurandhar's Karachi sequences with real covert operations i
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2017-08-28
+last_updated: 2026-07-25
 lang: en
 ---
 Karachi is not merely the setting where Dhurandhar stages its most gripping assassination sequences. Karachi is the city where the distance between fiction and documented reality collapses entirely, where the streets reconstructed on Bollywood studio lots mirror the actual neighborhoods where motorcycle-borne gunmen have killed India's most-wanted terrorists in broad daylight. Every other city in the Dhurandhar universe borrows from reality at a comfortable distance, compressing timelines or inventing geography. In Karachi, the compression is minimal and the geography is uncomfortably close to real. The narrow lanes the film's protagonist navigates to reach his target, the congested bazaar traffic that conceals his approach, the rusted auto-rickshaws that block escape routes, the sheer density of human movement that makes surveillance simultaneously easier and harder are not generic South Asian urban atmosphere. They are Karachi-specific operational features, the same features that documented covert operators have exploited in the city where more India-linked terrorists have been killed than in every other Pakistani city combined. This convergence between reel and real is not coincidental. It is structural. The film and the shadow war draw on the same operational reality because Karachi itself dictates the parameters of violence within its borders.

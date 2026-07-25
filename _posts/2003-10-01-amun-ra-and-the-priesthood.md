@@ -9,7 +9,7 @@ excerpt: "Amun-Ra rose from a minor Theban god to king of the gods, and the Karn
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2003-10-01
+last_updated: 2026-07-25
 lang: en
 ---
 The most consequential fact about Amun-Ra is not that Egyptians called him king of the gods. It is that the institution built to serve him owned land, ships, herds, mines, granaries, workshops, and tens of thousands of dependent workers, and that no pharaoh of the New Kingdom could govern without deciding what to do about it. A god's theology is interesting. A god's balance sheet is decisive. When Egyptians in the sixteenth century BCE began pouring the profits of empire into the temple of a formerly local Theban deity, they were not only expressing piety. They were creating a corporation with a religious charter, an unbroken revenue stream, a hereditary managerial class, and a claim on the throne's legitimacy that the throne itself had authorized.

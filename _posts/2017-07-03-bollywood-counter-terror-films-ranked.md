@@ -9,7 +9,7 @@ excerpt: "Ranking every Bollywood counter-terrorism film from A Wednesday throug
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2017-07-03
+last_updated: 2026-07-25
 lang: en
 ---
 Bollywood's counter-terrorism genre did not emerge from a vacuum. It grew from national wounds, feeding on the rage left behind by hijackings, bombings, and massacres that successive Indian governments responded to with diplomatic caution and occasional fury. From Mani Ratnam's earliest explorations of insurgency in the early 1990s to Aditya Dhar's Dhurandhar turning covert assassination into a spectacle that earned over a thousand crore rupees at the box office, Hindi cinema's trajectory through the subject of terrorism mirrors a nation learning to abandon restraint. The films listed here are not merely entertainment products. They are cultural barometers, each one calibrating where India stood on the spectrum between victimhood and aggression at the exact moment of its release. Ranking them requires a framework that accounts for cinematic craft, box-office performance, real-world context, and the narrative posture each film adopted toward the idea of state violence on foreign soil.

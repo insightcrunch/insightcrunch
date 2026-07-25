@@ -9,7 +9,7 @@ excerpt: "How Ranveer Singh's preparation and restraint in Dhurandhar produced B
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2017-07-10
+last_updated: 2026-07-25
 lang: en
 ---
 Before Dhurandhar, India's covert campaign against terrorists sheltered on Pakistani soil existed in the language of news wires, intelligence assessments, and anonymous government briefings. Unknown gunmen on motorcycles. Bodies found in alleyways. No group claiming responsibility. The [shadow war](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) was real, documented, and steadily escalating, but it had no protagonist, no narrative arc, and no face that a billion people could project their complicated feelings onto. Then Ranveer Singh walked onto a set in Thailand dressed as a Karachi street operative named Hamza Ali Mazari, and everything changed. His performance in Aditya Dhar's spy thriller did not merely depict covert counter-terrorism. It gave India permission to imagine itself as a country that fights back, quietly, lethally, and without apology. The actor who built his career on kinetic energy, on bodies that never stop moving and voices that never stop projecting, delivered his most powerful work by doing the opposite of everything audiences expected from him. He went still. He went silent. He went inward. And in doing so, he produced the performance that defines how an entire generation understands the shadow war.

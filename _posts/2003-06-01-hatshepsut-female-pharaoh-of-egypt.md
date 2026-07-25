@@ -9,7 +9,7 @@ excerpt: "Hatshepsut, Egypt's great female pharaoh, ruled circa 1479 to 1458 BCE
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2003-06-01
+last_updated: 2026-07-25
 lang: en
 ---
 The hardest question about Hatshepsut is not whether a woman could rule Egypt. Women had held real power in the Nile valley for centuries before she took the throne circa 1479 BCE. The hard question is how a royal woman turned temporary authority into permanent, uncontested, formally recognized kingship, complete with a throne name, a coronation account, a divine paternity claim, and two decades of monuments that no later ruler could quietly ignore. Hatshepsut did not slip into power through a gap in the system. She rebuilt the system's own vocabulary around herself until the vocabulary fit.

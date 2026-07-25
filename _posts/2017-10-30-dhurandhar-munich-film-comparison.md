@@ -9,7 +9,7 @@ excerpt: "Comparing Dhurandhar with Spielberg's Munich reveals how India and Isr
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
 author: "amit-chatterjee"
-last_updated: 2017-10-30
+last_updated: 2026-07-25
 lang: en
 ---
 Two films separated by nearly two decades tell a remarkably similar story on paper: a democratic state, wounded by terrorism, authorizes covert assassination squads to hunt and kill those responsible on foreign soil, and a filmmaker turns that covert campaign into a major commercial release consumed by millions of citizens whose tax money funded the real operations. Spielberg's Munich, released in 2005, dramatized Israel's Operation Wrath of God following the 1972 Olympic massacre. Dhurandhar, released two decades later, dramatized India's shadow war against Pakistan-based terrorists following decades of cross-border attacks. Both films depict their nation's intelligence operatives executing targets in foreign cities. Both films were massive cultural events in their home countries. Yet the two films could not be more different in what they ask their audiences to feel about the killing, and that difference reveals something profound about how each democracy processes the moral weight of state-sanctioned violence.

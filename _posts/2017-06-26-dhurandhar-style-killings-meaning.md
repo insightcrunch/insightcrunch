@@ -9,7 +9,7 @@ excerpt: "How the phrase Dhurandhar-style killing migrated from film reviews to 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 74
 author: "rahul-banerjee"
-last_updated: 2017-06-26
+last_updated: 2026-07-25
 lang: en
 ---
 When an unknown gunman on a motorcycle pulls alongside a car in Karachi or Lahore, fires three rounds into the driver, and vanishes into afternoon traffic, Indian television anchors do not reach for the terminology of security studies or international law. They do not call it a targeted killing, an extrajudicial execution, or a covert intelligence operation. They call it a Dhurandhar-style killing. A Bollywood film released in December 2025, directed by Aditya Dhar and starring Ranveer Singh as an undercover Indian operative navigating Karachi's criminal underworld, has given an entire nation the words it uses to describe classified state violence on foreign soil. The phrase is not a metaphor. It is not a comparison. It has become the primary interpretive framework through which Indian citizens, Indian journalists, and Indian politicians process a covert campaign that nobody in government has ever officially acknowledged.

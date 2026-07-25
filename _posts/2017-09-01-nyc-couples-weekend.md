@@ -9,7 +9,7 @@ excerpt: "Plan a romantic New York City weekend that pairs the big skyline momen
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2017-09-01
+last_updated: 2026-07-25
 lang: en
 ---
 The question that decides whether a romantic New York City weekend lands or falls flat is not which famous view you photograph. It is whether you balance two very different sides of the city and give each one its own evening. The first side is the one everybody pictures: the skyline from an observation deck, the bridge at golden hour, the lights coming on across the river. The second side is quieter and easy to miss, a tangle of small West Village streets where the noise drops, the bars hold a dozen people, and a jazz set runs late. Couples who plan only the first side leave with a beautiful set of pictures and a strangely impersonal trip. Couples who find the second side leave with a weekend that felt like it belonged to the two of them.

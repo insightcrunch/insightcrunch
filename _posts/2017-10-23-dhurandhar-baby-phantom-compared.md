@@ -9,7 +9,7 @@ excerpt: "Comparing Dhurandhar, Baby, and Phantom reveals how three Bollywood fi
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2017-10-23
+last_updated: 2026-07-25
 lang: en
 ---
 Three Bollywood films released within a decade of each other told India three different stories about what its intelligence agencies do in the dark, and each story moved the national conversation one step closer to open celebration of covert killing on foreign soil.

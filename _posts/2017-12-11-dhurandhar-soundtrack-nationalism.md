@@ -9,7 +9,7 @@ excerpt: "How Dhurandhar's soundtrack transcended the film to become anthems of 
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2017-12-11
+last_updated: 2026-07-25
 lang: en
 ---
 Dhurandhar's soundtrack did something that no government communique, no diplomatic statement, and no parliamentary resolution has managed in the history of Indian counter-terrorism policy. It made millions of Indians feel the shadow war in their chests before they could think about it in their heads. The songs composed for Ranveer Singh's blockbuster did not merely accompany the [film's narrative](https://insightcrunch.com/2017/06/05/dhurandhar-film-complete-analysis/); they escaped it entirely, migrating from cinema halls to Instagram reels, from Spotify playlists to political rally loudspeakers, from WhatsApp status updates to cricket stadium chants. The music became India's emotional vocabulary for a covert campaign that the government had never officially acknowledged, giving citizens a way to celebrate what they could not formally discuss. The fact that a Bollywood film's background score now plays at BJP rallies, is remixed into celebratory videos every time a [targeted killing](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) makes the news, and serves as the ringtone on millions of phones across northern India tells us something profound about how nations process violence they cannot publicly own.

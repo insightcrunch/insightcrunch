@@ -9,7 +9,7 @@ excerpt: "The first jet-era aerial dogfight between two nuclear-armed nations du
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2018-02-05
+last_updated: 2026-07-25
 lang: en
 ---
 On the night of May 6 and 7, 2025, two nuclear-armed nations fought an aerial battle that deterrence theorists had long believed was impossible. More than 114 fighter aircraft from the Indian Air Force and Pakistan Air Force engaged in a beyond-visual-range confrontation that lasted approximately 52 minutes, creating what defense analysts would later describe as the largest air-to-air engagement since the Korean War and one of the most consequential aerial confrontations in the history of military aviation. This air battle shattered assumptions that had held for seven decades: that nuclear-armed states would never permit their air forces to fight each other, that the risk of escalation would freeze all conventional military contact between nuclear powers, and that the nuclear umbrella made aerial combat between such adversaries functionally impossible. Over the skies of the Line of Control separating Indian-administered and Pakistani-administered Kashmir, those assumptions died in a barrage of radar locks, missile launches, and electronic warfare jamming that compressed the future of aerial combat doctrine into less than an hour.

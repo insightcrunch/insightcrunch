@@ -9,7 +9,7 @@ excerpt: "How the Hyksos changed Egyptian warfare: the chariot, composite bow, k
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2003-04-01
+last_updated: 2026-07-25
 lang: en
 ---
 Egypt's greatest age of conquest was fought with borrowed weapons. That single sentence is the reason the question of how the Hyksos changed Egyptian warfare matters more than almost any other technical question in the country's ancient record. When the Eighteenth Dynasty marched into Syria and down past the fourth cataract of Nubia, the equipment carried by its soldiers had almost nothing in common with the equipment carried by the soldiers of the pyramid age. The bow was different. The blade was different. The armor was different. The army moved at a different speed because it now moved partly on wheels, drawn by an animal Egypt had barely known a few generations earlier. Every one of those changes entered Egypt through the Second Intermediate Period, and most of them entered through contact with the Hyksos rulers of the eastern Delta.

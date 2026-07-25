@@ -9,7 +9,7 @@ excerpt: "Why Pakistan promoted Army Chief Asim Munir to Field Marshal during th
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2018-05-28
+last_updated: 2026-07-25
 lang: en
 ---
 On May 20, 2025, ten days after the ceasefire that ended a four-day armed exchange between India and Pakistan, Pakistan's federal cabinet convened in Islamabad and approved a promotion that had no precedent in the country's history under a civilian government. Syed Asim Munir, Chief of Army Staff, was elevated to the rank of Field Marshal, becoming only the second person in Pakistan's seventy-eight-year existence to hold a five-star general's title. The first had been Ayub Khan, who conferred the rank upon himself in 1959 after staging a coup d'état the previous year. Six decades of democratic rhetoric, four military coups, and three elected prime ministers imprisoned by the army had intervened between these two Field Marshals, and yet the circumstances of the second promotion carried unmistakable echoes of the first: a conflict recently concluded, claims of battlefield success fiercely disputed by independent analysts, and a civilian government ratifying a rank elevation that served the army chief's institutional interests far more than it served the country's long-term constitutional health.

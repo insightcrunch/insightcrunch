@@ -9,7 +9,7 @@ excerpt: "How India and Pakistan fought a parallel information war in 2025, the 
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 72
 author: "gregory-marsh"
-last_updated: 2018-04-16
+last_updated: 2026-07-25
 lang: en
 ---
 When Indian missiles struck targets inside Pakistan in the small hours of May 7, 2025, two wars began at the same moment. One was fought with cruise missiles, artillery, drones, and air defense batteries, and it produced a contested casualty ledger that neither capital would ever fully agree on. The other was fought on X, on WhatsApp, on Instagram and YouTube, in Urdu and Hindi and English and in meme formats that need no language at all, and it produced something stranger than a casualty ledger. It produced two incompatible versions of reality, each one internally complete, each one believed absolutely by the audience it was built for. The shooting stopped after roughly four days. The contest over what the four days had meant did not stop, and in important respects it has still not stopped.

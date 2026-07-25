@@ -9,7 +9,7 @@ excerpt: "Annie Hall reinvented the romantic comedy through fractured structure,
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 62
 author: "amanda-ross"
-last_updated: 2017-08-15
+last_updated: 2026-07-25
 lang: en
 ---
 Most romantic comedies move forward. They introduce two people, place an obstacle between them, and march toward the embrace or the wedding that resolves the tension. Annie Hall (1977) does almost none of this. Woody Allen's film opens with a man standing alone against a plain background, talking to the camera, telling us at the outset that the relationship is already over. The story we are about to watch has no suspense about its ending, because the ending has been handed to us in the first two minutes. What remains is not the question of whether Alvy Singer and Annie will stay together but the far stranger question of why a man would assemble the wreckage of a love affair into a shape, turn it over, and address it directly to us. That single decision, to build a comedy out of fragments narrated by a man trying to understand a loss, is the structural move that reinvented the genre.

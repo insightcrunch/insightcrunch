@@ -9,6 +9,7 @@ image: /assets/images/blog/blog-01.webp
 author: "amanda-ross"
 reading_time: 60
 lang: en
+last_updated: 2026-07-25
 ---
 When Stanley Kubrick took possession of Stephen King's 1977 novel and carried it onto the screen in 1980, he performed an act of transformation so complete that the man who wrote the source has spent four decades disowning the result. The book is a warm tragedy. A flawed, loving father, scarred by his own father and by drink, takes a winter caretaking job at a remote mountain hotel, and the building's accumulated evil works on his weakness until it destroys him. The novelist meant it as a story of a good man broken, a portrait of addiction and inherited violence, and at its close a flicker of redemption: the father, for one instant, reclaims himself before the end. Kubrick kept the hotel, the family, the isolation, and the descent. He threw away nearly everything that gave the descent its warmth. What he built in its place was colder, stranger, more ambiguous, and, for reasons that have kept scholars and obsessives busy ever since, endlessly open to interpretation.
 

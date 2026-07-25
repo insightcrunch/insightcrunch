@@ -9,7 +9,7 @@ excerpt: "Star Wars (1977) analysis: how George Lucas fused the ancient hero's j
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2017-07-01
+last_updated: 2026-07-25
 lang: en
 ---
 The directorial problem George Lucas set himself with Star Wars (1977) was not how to film a spaceship. It was how to make a galaxy feel old. Audiences in the mid-1970s had been trained by a decade of cold, sterile science fiction to expect the future as a clean white corridor, an antiseptic space where chrome surfaces and atonal electronic music signified intelligence and distance. Lucas wanted the opposite. He wanted a far-off place that felt as worn as a Tunisian farmhouse, as lived-in as a frontier saloon, as ancient as a folk tale told by firelight. The whole project rested on a paradox that no one in his industry had solved: to make people believe in the impossible, he would make the impossible look used. That single instinct, more than any laser or any creature, is the signature Star Wars bears, and it is the reason a farm boy's adventure became the most consequential popular film of its era.

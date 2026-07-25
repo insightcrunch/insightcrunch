@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-21T08:35:27Z",
+  "generated": "2026-07-25T08:12:14Z",
   "threshold": 50,
-  "totalPosts": 3568,
-  "flaggedPosts": 3218,
+  "totalPosts": 3607,
+  "flaggedPosts": 3257,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 165.5,
+  "avgTopCount": 165.1,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -54089,6 +54089,136 @@
       ]
     },
     {
+      "filename": "2003-03-01-were-hyksos-invaders-or-immigrants.md",
+      "slug": "were-hyksos-invaders-or-immigrants",
+      "title": "Were the Hyksos Invaders or Immigrants?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7009,
+      "topWord": "egyptian",
+      "topCount": 109,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-03-01-were-hyksos-invaders-or-immigrants.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 109
+        },
+        {
+          "word": "dynasty",
+          "count": 98
+        },
+        {
+          "word": "invasion",
+          "count": 79
+        },
+        {
+          "word": "delta",
+          "count": 62
+        },
+        {
+          "word": "fifteenth",
+          "count": 59
+        },
+        {
+          "word": "evidence",
+          "count": 58
+        },
+        {
+          "word": "egypt",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 109
+        },
+        {
+          "word": "dynasty",
+          "count": 98
+        },
+        {
+          "word": "invasion",
+          "count": 79
+        },
+        {
+          "word": "delta",
+          "count": 62
+        },
+        {
+          "word": "fifteenth",
+          "count": 59
+        },
+        {
+          "word": "evidence",
+          "count": 58
+        },
+        {
+          "word": "egypt",
+          "count": 57
+        },
+        {
+          "word": "foreign",
+          "count": 49
+        },
+        {
+          "word": "levantine",
+          "count": 47
+        },
+        {
+          "word": "model",
+          "count": 44
+        },
+        {
+          "word": "immigration",
+          "count": 43
+        },
+        {
+          "word": "hyksos",
+          "count": 41
+        },
+        {
+          "word": "manetho",
+          "count": 40
+        },
+        {
+          "word": "story",
+          "count": 39
+        },
+        {
+          "word": "canaanite",
+          "count": 37
+        },
+        {
+          "word": "population",
+          "count": 37
+        },
+        {
+          "word": "avaris",
+          "count": 36
+        },
+        {
+          "word": "verdict",
+          "count": 32
+        },
+        {
+          "word": "period",
+          "count": 31
+        },
+        {
+          "word": "power",
+          "count": 31
+        }
+      ]
+    },
+    {
       "filename": "2003-03-02-upsc-prelims-current-affairs-strategy.md",
       "slug": "upsc-prelims-current-affairs-strategy",
       "title": "UPSC Prelims: Current Affairs Pattern and Coverage",
@@ -55227,6 +55357,144 @@
         {
           "word": "marks",
           "count": 50
+        }
+      ]
+    },
+    {
+      "filename": "2003-04-01-how-hyksos-changed-egyptian-warfare.md",
+      "slug": "how-hyksos-changed-egyptian-warfare",
+      "title": "How the Hyksos Changed Egyptian Warfare",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8005,
+      "topWord": "egypt",
+      "topCount": 161,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-04-01-how-hyksos-changed-egyptian-warfare.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 161
+        },
+        {
+          "word": "egyptian",
+          "count": 150
+        },
+        {
+          "word": "chariot",
+          "count": 98
+        },
+        {
+          "word": "hyksos",
+          "count": 82
+        },
+        {
+          "word": "kingdom",
+          "count": 72
+        },
+        {
+          "word": "period",
+          "count": 68
+        },
+        {
+          "word": "bronze",
+          "count": 65
+        },
+        {
+          "word": "army",
+          "count": 63
+        },
+        {
+          "word": "technology",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 161
+        },
+        {
+          "word": "egyptian",
+          "count": 150
+        },
+        {
+          "word": "chariot",
+          "count": 98
+        },
+        {
+          "word": "hyksos",
+          "count": 82
+        },
+        {
+          "word": "kingdom",
+          "count": 72
+        },
+        {
+          "word": "period",
+          "count": 68
+        },
+        {
+          "word": "bronze",
+          "count": 65
+        },
+        {
+          "word": "army",
+          "count": 63
+        },
+        {
+          "word": "technology",
+          "count": 56
+        },
+        {
+          "word": "equipment",
+          "count": 47
+        },
+        {
+          "word": "military",
+          "count": 46
+        },
+        {
+          "word": "bow",
+          "count": 45
+        },
+        {
+          "word": "levantine",
+          "count": 42
+        },
+        {
+          "word": "second",
+          "count": 41
+        },
+        {
+          "word": "arm",
+          "count": 38
+        },
+        {
+          "word": "age",
+          "count": 36
+        },
+        {
+          "word": "armor",
+          "count": 34
+        },
+        {
+          "word": "dynasty",
+          "count": 33
+        },
+        {
+          "word": "empire",
+          "count": 32
+        },
+        {
+          "word": "weapon",
+          "count": 31
         }
       ]
     },
@@ -56519,6 +56787,140 @@
       ]
     },
     {
+      "filename": "2003-05-01-new-kingdom-of-egypt-guide.md",
+      "slug": "new-kingdom-of-egypt-guide",
+      "title": "The New Kingdom of Egypt: Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9348,
+      "topWord": "egyptian",
+      "topCount": 163,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-05-01-new-kingdom-of-egypt-guide.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 163
+        },
+        {
+          "word": "kingdom",
+          "count": 142
+        },
+        {
+          "word": "egypt",
+          "count": 126
+        },
+        {
+          "word": "empire",
+          "count": 67
+        },
+        {
+          "word": "dynasty",
+          "count": 67
+        },
+        {
+          "word": "period",
+          "count": 64
+        },
+        {
+          "word": "royal",
+          "count": 54
+        },
+        {
+          "word": "temple",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 163
+        },
+        {
+          "word": "kingdom",
+          "count": 142
+        },
+        {
+          "word": "egypt",
+          "count": 126
+        },
+        {
+          "word": "empire",
+          "count": 67
+        },
+        {
+          "word": "dynasty",
+          "count": 67
+        },
+        {
+          "word": "period",
+          "count": 64
+        },
+        {
+          "word": "royal",
+          "count": 54
+        },
+        {
+          "word": "temple",
+          "count": 52
+        },
+        {
+          "word": "bce",
+          "count": 47
+        },
+        {
+          "word": "kings",
+          "count": 45
+        },
+        {
+          "word": "iii",
+          "count": 43
+        },
+        {
+          "word": "gold",
+          "count": 41
+        },
+        {
+          "word": "king",
+          "count": 40
+        },
+        {
+          "word": "ramesses",
+          "count": 37
+        },
+        {
+          "word": "imperial",
+          "count": 35
+        },
+        {
+          "word": "levantine",
+          "count": 32
+        },
+        {
+          "word": "south",
+          "count": 30
+        },
+        {
+          "word": "thutmose",
+          "count": 30
+        },
+        {
+          "word": "foreign",
+          "count": 30
+        },
+        {
+          "word": "record",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2003-05-04-upsc-notification-dates-vacancies.md",
       "slug": "upsc-notification-dates-vacancies",
       "title": "UPSC Notification 2026: Dates, Vacancies, Key Changes",
@@ -57613,6 +58015,136 @@
       ]
     },
     {
+      "filename": "2003-06-01-hatshepsut-female-pharaoh-of-egypt.md",
+      "slug": "hatshepsut-female-pharaoh-of-egypt",
+      "title": "Hatshepsut: Egypt's Great Female Pharaoh",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7779,
+      "topWord": "hatshepsut",
+      "topCount": 126,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-06-01-hatshepsut-female-pharaoh-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "hatshepsut",
+          "count": 126
+        },
+        {
+          "word": "reign",
+          "count": 99
+        },
+        {
+          "word": "king",
+          "count": 78
+        },
+        {
+          "word": "thutmose",
+          "count": 75
+        },
+        {
+          "word": "royal",
+          "count": 74
+        },
+        {
+          "word": "temple",
+          "count": 58
+        },
+        {
+          "word": "egyptian",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "hatshepsut",
+          "count": 126
+        },
+        {
+          "word": "reign",
+          "count": 99
+        },
+        {
+          "word": "king",
+          "count": 78
+        },
+        {
+          "word": "thutmose",
+          "count": 75
+        },
+        {
+          "word": "royal",
+          "count": 74
+        },
+        {
+          "word": "temple",
+          "count": 58
+        },
+        {
+          "word": "egyptian",
+          "count": 53
+        },
+        {
+          "word": "iii",
+          "count": 47
+        },
+        {
+          "word": "egypt",
+          "count": 44
+        },
+        {
+          "word": "evidence",
+          "count": 39
+        },
+        {
+          "word": "amun",
+          "count": 38
+        },
+        {
+          "word": "monuments",
+          "count": 36
+        },
+        {
+          "word": "throne",
+          "count": 31
+        },
+        {
+          "word": "dynasty",
+          "count": 31
+        },
+        {
+          "word": "kingship",
+          "count": 30
+        },
+        {
+          "word": "punt",
+          "count": 29
+        },
+        {
+          "word": "claim",
+          "count": 28
+        },
+        {
+          "word": "record",
+          "count": 27
+        },
+        {
+          "word": "ruler",
+          "count": 26
+        },
+        {
+          "word": "deir",
+          "count": 26
+        }
+      ]
+    },
+    {
       "filename": "2003-06-04-upsc-toppers-strategy.md",
       "slug": "upsc-toppers-strategy",
       "title": "UPSC Toppers Strategy: Patterns from Rank 1-100",
@@ -58646,6 +59178,136 @@
       ]
     },
     {
+      "filename": "2003-07-01-thutmose-iii-egypt-napoleon.md",
+      "slug": "thutmose-iii-egypt-napoleon",
+      "title": "Thutmose III: Egypt's Napoleon and Empire Builder",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8124,
+      "topWord": "egyptian",
+      "topCount": 153,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-07-01-thutmose-iii-egypt-napoleon.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 153
+        },
+        {
+          "word": "thutmose",
+          "count": 109
+        },
+        {
+          "word": "iii",
+          "count": 93
+        },
+        {
+          "word": "egypt",
+          "count": 76
+        },
+        {
+          "word": "reign",
+          "count": 75
+        },
+        {
+          "word": "king",
+          "count": 55
+        },
+        {
+          "word": "empire",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 153
+        },
+        {
+          "word": "thutmose",
+          "count": 109
+        },
+        {
+          "word": "iii",
+          "count": 93
+        },
+        {
+          "word": "egypt",
+          "count": 76
+        },
+        {
+          "word": "reign",
+          "count": 75
+        },
+        {
+          "word": "king",
+          "count": 55
+        },
+        {
+          "word": "empire",
+          "count": 54
+        },
+        {
+          "word": "campaign",
+          "count": 48
+        },
+        {
+          "word": "royal",
+          "count": 43
+        },
+        {
+          "word": "record",
+          "count": 42
+        },
+        {
+          "word": "campaigns",
+          "count": 40
+        },
+        {
+          "word": "annals",
+          "count": 38
+        },
+        {
+          "word": "karnak",
+          "count": 31
+        },
+        {
+          "word": "army",
+          "count": 30
+        },
+        {
+          "word": "temple",
+          "count": 30
+        },
+        {
+          "word": "euphrates",
+          "count": 30
+        },
+        {
+          "word": "whose",
+          "count": 29
+        },
+        {
+          "word": "bce",
+          "count": 28
+        },
+        {
+          "word": "hatshepsut",
+          "count": 27
+        },
+        {
+          "word": "northern",
+          "count": 26
+        }
+      ]
+    },
+    {
       "filename": "2003-07-01-upsc-study-plan-12-18-24-months.md",
       "slug": "upsc-study-plan-12-18-24-months",
       "title": "UPSC Study Plan: 12, 18 and 24 Month Timelines",
@@ -59590,6 +60252,144 @@
       ]
     },
     {
+      "filename": "2003-08-01-battle-of-megiddo-egypt-empire.md",
+      "slug": "battle-of-megiddo-egypt-empire",
+      "title": "The Battle of Megiddo: Egypt's Empire Begins",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7753,
+      "topWord": "egyptian",
+      "topCount": 154,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-08-01-battle-of-megiddo-egypt-empire.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 154
+        },
+        {
+          "word": "megiddo",
+          "count": 94
+        },
+        {
+          "word": "army",
+          "count": 81
+        },
+        {
+          "word": "annals",
+          "count": 78
+        },
+        {
+          "word": "campaign",
+          "count": 74
+        },
+        {
+          "word": "egypt",
+          "count": 66
+        },
+        {
+          "word": "battle",
+          "count": 58
+        },
+        {
+          "word": "coalition",
+          "count": 57
+        },
+        {
+          "word": "city",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 154
+        },
+        {
+          "word": "megiddo",
+          "count": 94
+        },
+        {
+          "word": "army",
+          "count": 81
+        },
+        {
+          "word": "annals",
+          "count": 78
+        },
+        {
+          "word": "campaign",
+          "count": 74
+        },
+        {
+          "word": "egypt",
+          "count": 66
+        },
+        {
+          "word": "battle",
+          "count": 58
+        },
+        {
+          "word": "coalition",
+          "count": 57
+        },
+        {
+          "word": "city",
+          "count": 52
+        },
+        {
+          "word": "king",
+          "count": 37
+        },
+        {
+          "word": "plain",
+          "count": 36
+        },
+        {
+          "word": "road",
+          "count": 33
+        },
+        {
+          "word": "force",
+          "count": 31
+        },
+        {
+          "word": "account",
+          "count": 30
+        },
+        {
+          "word": "siege",
+          "count": 29
+        },
+        {
+          "word": "engagement",
+          "count": 28
+        },
+        {
+          "word": "route",
+          "count": 28
+        },
+        {
+          "word": "region",
+          "count": 28
+        },
+        {
+          "word": "rulers",
+          "count": 27
+        },
+        {
+          "word": "enemy",
+          "count": 27
+        }
+      ]
+    },
+    {
       "filename": "2003-08-15-electrical-warning-signs.md",
       "slug": "electrical-warning-signs",
       "title": "Electrical Warning Signs of a Serious Problem",
@@ -59736,6 +60536,274 @@
         {
           "word": "ground",
           "count": 43
+        }
+      ]
+    },
+    {
+      "filename": "2003-09-01-temple-of-karnak-at-thebes.md",
+      "slug": "temple-of-karnak-at-thebes",
+      "title": "Inside the Temple of Karnak at Thebes",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8236,
+      "topWord": "karnak",
+      "topCount": 173,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-09-01-temple-of-karnak-at-thebes.md",
+      "flaggedWords": [
+        {
+          "word": "karnak",
+          "count": 173
+        },
+        {
+          "word": "temple",
+          "count": 111
+        },
+        {
+          "word": "amun",
+          "count": 66
+        },
+        {
+          "word": "god",
+          "count": 57
+        },
+        {
+          "word": "egyptian",
+          "count": 56
+        },
+        {
+          "word": "hall",
+          "count": 52
+        },
+        {
+          "word": "built",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "karnak",
+          "count": 173
+        },
+        {
+          "word": "temple",
+          "count": 111
+        },
+        {
+          "word": "amun",
+          "count": 66
+        },
+        {
+          "word": "god",
+          "count": 57
+        },
+        {
+          "word": "egyptian",
+          "count": 56
+        },
+        {
+          "word": "hall",
+          "count": 52
+        },
+        {
+          "word": "built",
+          "count": 51
+        },
+        {
+          "word": "iii",
+          "count": 46
+        },
+        {
+          "word": "precinct",
+          "count": 43
+        },
+        {
+          "word": "site",
+          "count": 40
+        },
+        {
+          "word": "king",
+          "count": 37
+        },
+        {
+          "word": "egypt",
+          "count": 37
+        },
+        {
+          "word": "pylon",
+          "count": 36
+        },
+        {
+          "word": "building",
+          "count": 34
+        },
+        {
+          "word": "pylons",
+          "count": 34
+        },
+        {
+          "word": "columns",
+          "count": 33
+        },
+        {
+          "word": "sanctuary",
+          "count": 32
+        },
+        {
+          "word": "kingdom",
+          "count": 32
+        },
+        {
+          "word": "axis",
+          "count": 31
+        },
+        {
+          "word": "stone",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "filename": "2003-10-01-amun-ra-and-the-priesthood.md",
+      "slug": "amun-ra-and-the-priesthood",
+      "title": "Amun-Ra and the Power of the Priesthood",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8555,
+      "topWord": "amun",
+      "topCount": 191,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-10-01-amun-ra-and-the-priesthood.md",
+      "flaggedWords": [
+        {
+          "word": "amun",
+          "count": 191
+        },
+        {
+          "word": "god",
+          "count": 147
+        },
+        {
+          "word": "temple",
+          "count": 117
+        },
+        {
+          "word": "egypt",
+          "count": 74
+        },
+        {
+          "word": "royal",
+          "count": 72
+        },
+        {
+          "word": "egyptian",
+          "count": 64
+        },
+        {
+          "word": "king",
+          "count": 58
+        },
+        {
+          "word": "ra",
+          "count": 57
+        },
+        {
+          "word": "dynasty",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "amun",
+          "count": 191
+        },
+        {
+          "word": "god",
+          "count": 147
+        },
+        {
+          "word": "temple",
+          "count": 117
+        },
+        {
+          "word": "egypt",
+          "count": 74
+        },
+        {
+          "word": "royal",
+          "count": 72
+        },
+        {
+          "word": "egyptian",
+          "count": 64
+        },
+        {
+          "word": "king",
+          "count": 58
+        },
+        {
+          "word": "ra",
+          "count": 57
+        },
+        {
+          "word": "dynasty",
+          "count": 51
+        },
+        {
+          "word": "institution",
+          "count": 49
+        },
+        {
+          "word": "theban",
+          "count": 49
+        },
+        {
+          "word": "kingdom",
+          "count": 48
+        },
+        {
+          "word": "priesthood",
+          "count": 47
+        },
+        {
+          "word": "kings",
+          "count": 43
+        },
+        {
+          "word": "land",
+          "count": 42
+        },
+        {
+          "word": "karnak",
+          "count": 38
+        },
+        {
+          "word": "political",
+          "count": 36
+        },
+        {
+          "word": "priests",
+          "count": 35
+        },
+        {
+          "word": "religious",
+          "count": 33
+        },
+        {
+          "word": "divine",
+          "count": 33
         }
       ]
     },
@@ -61090,6 +62158,132 @@
         {
           "word": "inspection",
           "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2005-06-15-choosing-a-roofing-material.md",
+      "slug": "choosing-a-roofing-material",
+      "title": "Choosing a Roofing Material for Your Home",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6614,
+      "topWord": "covering",
+      "topCount": 154,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2005-06-15-choosing-a-roofing-material.md",
+      "flaggedWords": [
+        {
+          "word": "covering",
+          "count": 154
+        },
+        {
+          "word": "roof",
+          "count": 148
+        },
+        {
+          "word": "metal",
+          "count": 97
+        },
+        {
+          "word": "product",
+          "count": 75
+        },
+        {
+          "word": "tile",
+          "count": 55
+        },
+        {
+          "word": "asphalt",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "covering",
+          "count": 154
+        },
+        {
+          "word": "roof",
+          "count": 148
+        },
+        {
+          "word": "metal",
+          "count": 97
+        },
+        {
+          "word": "product",
+          "count": 75
+        },
+        {
+          "word": "tile",
+          "count": 55
+        },
+        {
+          "word": "asphalt",
+          "count": 53
+        },
+        {
+          "word": "climate",
+          "count": 49
+        },
+        {
+          "word": "premium",
+          "count": 41
+        },
+        {
+          "word": "installed",
+          "count": 40
+        },
+        {
+          "word": "cost",
+          "count": 40
+        },
+        {
+          "word": "shingles",
+          "count": 38
+        },
+        {
+          "word": "slate",
+          "count": 36
+        },
+        {
+          "word": "slope",
+          "count": 34
+        },
+        {
+          "word": "roofing",
+          "count": 33
+        },
+        {
+          "word": "answer",
+          "count": 33
+        },
+        {
+          "word": "roofer",
+          "count": 33
+        },
+        {
+          "word": "snow",
+          "count": 33
+        },
+        {
+          "word": "price",
+          "count": 31
+        },
+        {
+          "word": "ask",
+          "count": 30
+        },
+        {
+          "word": "ventilation",
+          "count": 29
         }
       ]
     },
@@ -230804,6 +231998,152 @@
       ]
     },
     {
+      "filename": "2020-01-01-stopping-elite-strikers-complete-guide.md",
+      "slug": "stopping-elite-strikers-complete-guide",
+      "title": "Stopping Elite Strikers: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8010,
+      "topWord": "forward",
+      "topCount": 226,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-01-01-stopping-elite-strikers-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "forward",
+          "count": 226
+        },
+        {
+          "word": "ball",
+          "count": 156
+        },
+        {
+          "word": "defender",
+          "count": 91
+        },
+        {
+          "word": "plan",
+          "count": 90
+        },
+        {
+          "word": "second",
+          "count": 87
+        },
+        {
+          "word": "box",
+          "count": 81
+        },
+        {
+          "word": "space",
+          "count": 76
+        },
+        {
+          "word": "type",
+          "count": 60
+        },
+        {
+          "word": "goalkeeper",
+          "count": 58
+        },
+        {
+          "word": "duel",
+          "count": 57
+        },
+        {
+          "word": "centre",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "forward",
+          "count": 226
+        },
+        {
+          "word": "ball",
+          "count": 156
+        },
+        {
+          "word": "defender",
+          "count": 91
+        },
+        {
+          "word": "plan",
+          "count": 90
+        },
+        {
+          "word": "second",
+          "count": 87
+        },
+        {
+          "word": "box",
+          "count": 81
+        },
+        {
+          "word": "space",
+          "count": 76
+        },
+        {
+          "word": "type",
+          "count": 60
+        },
+        {
+          "word": "goalkeeper",
+          "count": 58
+        },
+        {
+          "word": "duel",
+          "count": 57
+        },
+        {
+          "word": "centre",
+          "count": 54
+        },
+        {
+          "word": "depth",
+          "count": 49
+        },
+        {
+          "word": "contact",
+          "count": 47
+        },
+        {
+          "word": "four",
+          "count": 45
+        },
+        {
+          "word": "team",
+          "count": 44
+        },
+        {
+          "word": "half",
+          "count": 44
+        },
+        {
+          "word": "midfielder",
+          "count": 43
+        },
+        {
+          "word": "runner",
+          "count": 42
+        },
+        {
+          "word": "template",
+          "count": 42
+        },
+        {
+          "word": "yards",
+          "count": 41
+        }
+      ]
+    },
+    {
       "filename": "2020-01-02-tcs-accommodation-hyderabad.md",
       "slug": "tcs-accommodation-hyderabad",
       "title": "TCS Accommodation Hyderabad - Complete Hostel and Housing Guide",
@@ -231246,6 +232586,132 @@
       ]
     },
     {
+      "filename": "2020-01-15-how-to-stop-erling-haaland.md",
+      "slug": "how-to-stop-erling-haaland",
+      "title": "How to Stop Erling Haaland",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6839,
+      "topWord": "ball",
+      "topCount": 145,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-01-15-how-to-stop-erling-haaland.md",
+      "flaggedWords": [
+        {
+          "word": "ball",
+          "count": 145
+        },
+        {
+          "word": "forward",
+          "count": 93
+        },
+        {
+          "word": "plan",
+          "count": 74
+        },
+        {
+          "word": "defender",
+          "count": 70
+        },
+        {
+          "word": "centre",
+          "count": 62
+        },
+        {
+          "word": "second",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "ball",
+          "count": 145
+        },
+        {
+          "word": "forward",
+          "count": 93
+        },
+        {
+          "word": "plan",
+          "count": 74
+        },
+        {
+          "word": "defender",
+          "count": 70
+        },
+        {
+          "word": "centre",
+          "count": 62
+        },
+        {
+          "word": "second",
+          "count": 52
+        },
+        {
+          "word": "pass",
+          "count": 49
+        },
+        {
+          "word": "space",
+          "count": 48
+        },
+        {
+          "word": "midfielder",
+          "count": 46
+        },
+        {
+          "word": "wide",
+          "count": 45
+        },
+        {
+          "word": "half",
+          "count": 44
+        },
+        {
+          "word": "yards",
+          "count": 42
+        },
+        {
+          "word": "player",
+          "count": 41
+        },
+        {
+          "word": "goal",
+          "count": 39
+        },
+        {
+          "word": "box",
+          "count": 38
+        },
+        {
+          "word": "full",
+          "count": 38
+        },
+        {
+          "word": "inside",
+          "count": 36
+        },
+        {
+          "word": "block",
+          "count": 36
+        },
+        {
+          "word": "area",
+          "count": 33
+        },
+        {
+          "word": "near",
+          "count": 32
+        }
+      ]
+    },
+    {
       "filename": "2020-01-15-truman-show-surveillance-reality-media.md",
       "slug": "truman-show-surveillance-reality-media",
       "title": "The Truman Show: A Life Turned Into Total Content",
@@ -231644,6 +233110,128 @@
         {
           "word": "improvement",
           "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2020-02-01-erling-haaland-weaknesses-explained.md",
+      "slug": "erling-haaland-weaknesses-explained",
+      "title": "Erling Haaland's Weaknesses Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6877,
+      "topWord": "forward",
+      "topCount": 128,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-02-01-erling-haaland-weaknesses-explained.md",
+      "flaggedWords": [
+        {
+          "word": "forward",
+          "count": 128
+        },
+        {
+          "word": "ball",
+          "count": 72
+        },
+        {
+          "word": "limitation",
+          "count": 57
+        },
+        {
+          "word": "defender",
+          "count": 55
+        },
+        {
+          "word": "condition",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "forward",
+          "count": 128
+        },
+        {
+          "word": "ball",
+          "count": 72
+        },
+        {
+          "word": "limitation",
+          "count": 57
+        },
+        {
+          "word": "defender",
+          "count": 55
+        },
+        {
+          "word": "condition",
+          "count": 54
+        },
+        {
+          "word": "haaland",
+          "count": 49
+        },
+        {
+          "word": "reception",
+          "count": 46
+        },
+        {
+          "word": "second",
+          "count": 46
+        },
+        {
+          "word": "claim",
+          "count": 45
+        },
+        {
+          "word": "space",
+          "count": 43
+        },
+        {
+          "word": "player",
+          "count": 39
+        },
+        {
+          "word": "touch",
+          "count": 38
+        },
+        {
+          "word": "mechanism",
+          "count": 37
+        },
+        {
+          "word": "defending",
+          "count": 36
+        },
+        {
+          "word": "cannot",
+          "count": 34
+        },
+        {
+          "word": "area",
+          "count": 34
+        },
+        {
+          "word": "worth",
+          "count": 32
+        },
+        {
+          "word": "goal",
+          "count": 31
+        },
+        {
+          "word": "match",
+          "count": 31
+        },
+        {
+          "word": "body",
+          "count": 30
         }
       ]
     },
@@ -232224,6 +233812,140 @@
       ]
     },
     {
+      "filename": "2020-02-15-how-to-stop-kylian-mbappe.md",
+      "slug": "how-to-stop-kylian-mbappe",
+      "title": "How to Stop Kylian Mbappe",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6914,
+      "topWord": "ball",
+      "topCount": 119,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-02-15-how-to-stop-kylian-mbappe.md",
+      "flaggedWords": [
+        {
+          "word": "ball",
+          "count": 119
+        },
+        {
+          "word": "defender",
+          "count": 100
+        },
+        {
+          "word": "plan",
+          "count": 86
+        },
+        {
+          "word": "inside",
+          "count": 75
+        },
+        {
+          "word": "forward",
+          "count": 72
+        },
+        {
+          "word": "full",
+          "count": 71
+        },
+        {
+          "word": "second",
+          "count": 64
+        },
+        {
+          "word": "metres",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "ball",
+          "count": 119
+        },
+        {
+          "word": "defender",
+          "count": 100
+        },
+        {
+          "word": "plan",
+          "count": 86
+        },
+        {
+          "word": "inside",
+          "count": 75
+        },
+        {
+          "word": "forward",
+          "count": 72
+        },
+        {
+          "word": "full",
+          "count": 71
+        },
+        {
+          "word": "second",
+          "count": 64
+        },
+        {
+          "word": "metres",
+          "count": 57
+        },
+        {
+          "word": "space",
+          "count": 50
+        },
+        {
+          "word": "body",
+          "count": 48
+        },
+        {
+          "word": "defensive",
+          "count": 45
+        },
+        {
+          "word": "lane",
+          "count": 45
+        },
+        {
+          "word": "runway",
+          "count": 43
+        },
+        {
+          "word": "midfielder",
+          "count": 43
+        },
+        {
+          "word": "player",
+          "count": 41
+        },
+        {
+          "word": "centre",
+          "count": 41
+        },
+        {
+          "word": "touchline",
+          "count": 40
+        },
+        {
+          "word": "team",
+          "count": 40
+        },
+        {
+          "word": "half",
+          "count": 40
+        },
+        {
+          "word": "wide",
+          "count": 39
+        }
+      ]
+    },
+    {
       "filename": "2020-02-17-sat-data-interpretation-reading-passages-guide.md",
       "slug": "sat-data-interpretation-reading-passages-guide",
       "title": "SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy",
@@ -232546,6 +234268,124 @@
         {
           "word": "sat",
           "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2020-03-01-kylian-mbappe-weaknesses-explained.md",
+      "slug": "kylian-mbappe-weaknesses-explained",
+      "title": "Kylian Mbappe's Weaknesses Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6923,
+      "topWord": "forward",
+      "topCount": 88,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-03-01-kylian-mbappe-weaknesses-explained.md",
+      "flaggedWords": [
+        {
+          "word": "forward",
+          "count": 88
+        },
+        {
+          "word": "ball",
+          "count": 77
+        },
+        {
+          "word": "defender",
+          "count": 68
+        },
+        {
+          "word": "match",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "forward",
+          "count": 88
+        },
+        {
+          "word": "ball",
+          "count": 77
+        },
+        {
+          "word": "defender",
+          "count": 68
+        },
+        {
+          "word": "match",
+          "count": 52
+        },
+        {
+          "word": "block",
+          "count": 49
+        },
+        {
+          "word": "plan",
+          "count": 49
+        },
+        {
+          "word": "player",
+          "count": 46
+        },
+        {
+          "word": "second",
+          "count": 43
+        },
+        {
+          "word": "wide",
+          "count": 40
+        },
+        {
+          "word": "team",
+          "count": 38
+        },
+        {
+          "word": "version",
+          "count": 38
+        },
+        {
+          "word": "reception",
+          "count": 37
+        },
+        {
+          "word": "defensive",
+          "count": 35
+        },
+        {
+          "word": "attacking",
+          "count": 34
+        },
+        {
+          "word": "space",
+          "count": 32
+        },
+        {
+          "word": "article",
+          "count": 31
+        },
+        {
+          "word": "full",
+          "count": 31
+        },
+        {
+          "word": "question",
+          "count": 30
+        },
+        {
+          "word": "output",
+          "count": 28
+        },
+        {
+          "word": "limitation",
+          "count": 28
         }
       ]
     },
@@ -233086,6 +234926,132 @@
       ]
     },
     {
+      "filename": "2020-03-15-how-to-stop-harry-kane.md",
+      "slug": "how-to-stop-harry-kane",
+      "title": "How to Stop Harry Kane",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6944,
+      "topWord": "ball",
+      "topCount": 141,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-03-15-how-to-stop-harry-kane.md",
+      "flaggedWords": [
+        {
+          "word": "ball",
+          "count": 141
+        },
+        {
+          "word": "forward",
+          "count": 135
+        },
+        {
+          "word": "centre",
+          "count": 93
+        },
+        {
+          "word": "plan",
+          "count": 76
+        },
+        {
+          "word": "defender",
+          "count": 67
+        },
+        {
+          "word": "yards",
+          "count": 67
+        }
+      ],
+      "top20": [
+        {
+          "word": "ball",
+          "count": 141
+        },
+        {
+          "word": "forward",
+          "count": 135
+        },
+        {
+          "word": "centre",
+          "count": 93
+        },
+        {
+          "word": "plan",
+          "count": 76
+        },
+        {
+          "word": "defender",
+          "count": 67
+        },
+        {
+          "word": "yards",
+          "count": 67
+        },
+        {
+          "word": "full",
+          "count": 46
+        },
+        {
+          "word": "four",
+          "count": 46
+        },
+        {
+          "word": "goal",
+          "count": 44
+        },
+        {
+          "word": "player",
+          "count": 44
+        },
+        {
+          "word": "second",
+          "count": 44
+        },
+        {
+          "word": "defensive",
+          "count": 42
+        },
+        {
+          "word": "block",
+          "count": 41
+        },
+        {
+          "word": "kane",
+          "count": 40
+        },
+        {
+          "word": "midfielder",
+          "count": 39
+        },
+        {
+          "word": "space",
+          "count": 38
+        },
+        {
+          "word": "drop",
+          "count": 38
+        },
+        {
+          "word": "pivot",
+          "count": 38
+        },
+        {
+          "word": "half",
+          "count": 37
+        },
+        {
+          "word": "players",
+          "count": 35
+        }
+      ]
+    },
+    {
       "filename": "2020-03-17-tcs-nqt-registration-last-date.md",
       "slug": "tcs-nqt-registration-last-date",
       "title": "TCS NQT Registration Deadlines Guide",
@@ -233523,6 +235489,152 @@
         },
         {
           "word": "speed",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2020-04-01-how-to-stop-robert-lewandowski.md",
+      "slug": "how-to-stop-robert-lewandowski",
+      "title": "How to Stop Robert Lewandowski",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7042,
+      "topWord": "defender",
+      "topCount": 133,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-04-01-how-to-stop-robert-lewandowski.md",
+      "flaggedWords": [
+        {
+          "word": "defender",
+          "count": 133
+        },
+        {
+          "word": "forward",
+          "count": 113
+        },
+        {
+          "word": "ball",
+          "count": 82
+        },
+        {
+          "word": "plan",
+          "count": 76
+        },
+        {
+          "word": "area",
+          "count": 76
+        },
+        {
+          "word": "contact",
+          "count": 74
+        },
+        {
+          "word": "goalkeeper",
+          "count": 67
+        },
+        {
+          "word": "second",
+          "count": 63
+        },
+        {
+          "word": "box",
+          "count": 63
+        },
+        {
+          "word": "delivery",
+          "count": 56
+        },
+        {
+          "word": "inside",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "defender",
+          "count": 133
+        },
+        {
+          "word": "forward",
+          "count": 113
+        },
+        {
+          "word": "ball",
+          "count": 82
+        },
+        {
+          "word": "plan",
+          "count": 76
+        },
+        {
+          "word": "area",
+          "count": 76
+        },
+        {
+          "word": "contact",
+          "count": 74
+        },
+        {
+          "word": "goalkeeper",
+          "count": 67
+        },
+        {
+          "word": "second",
+          "count": 63
+        },
+        {
+          "word": "box",
+          "count": 63
+        },
+        {
+          "word": "delivery",
+          "count": 56
+        },
+        {
+          "word": "inside",
+          "count": 54
+        },
+        {
+          "word": "centre",
+          "count": 49
+        },
+        {
+          "word": "near",
+          "count": 49
+        },
+        {
+          "word": "post",
+          "count": 45
+        },
+        {
+          "word": "half",
+          "count": 44
+        },
+        {
+          "word": "block",
+          "count": 41
+        },
+        {
+          "word": "goal",
+          "count": 40
+        },
+        {
+          "word": "duel",
+          "count": 37
+        },
+        {
+          "word": "defenders",
+          "count": 36
+        },
+        {
+          "word": "penalty",
           "count": 33
         }
       ]
@@ -234036,6 +236148,148 @@
       ]
     },
     {
+      "filename": "2020-04-15-how-to-stop-victor-osimhen.md",
+      "slug": "how-to-stop-victor-osimhen",
+      "title": "How to Stop Victor Osimhen",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7046,
+      "topWord": "ball",
+      "topCount": 165,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-04-15-how-to-stop-victor-osimhen.md",
+      "flaggedWords": [
+        {
+          "word": "ball",
+          "count": 165
+        },
+        {
+          "word": "forward",
+          "count": 141
+        },
+        {
+          "word": "centre",
+          "count": 100
+        },
+        {
+          "word": "plan",
+          "count": 91
+        },
+        {
+          "word": "full",
+          "count": 80
+        },
+        {
+          "word": "defender",
+          "count": 78
+        },
+        {
+          "word": "contact",
+          "count": 60
+        },
+        {
+          "word": "wide",
+          "count": 55
+        },
+        {
+          "word": "inside",
+          "count": 53
+        },
+        {
+          "word": "metres",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "ball",
+          "count": 165
+        },
+        {
+          "word": "forward",
+          "count": 141
+        },
+        {
+          "word": "centre",
+          "count": 100
+        },
+        {
+          "word": "plan",
+          "count": 91
+        },
+        {
+          "word": "full",
+          "count": 80
+        },
+        {
+          "word": "defender",
+          "count": 78
+        },
+        {
+          "word": "contact",
+          "count": 60
+        },
+        {
+          "word": "wide",
+          "count": 55
+        },
+        {
+          "word": "inside",
+          "count": 53
+        },
+        {
+          "word": "metres",
+          "count": 53
+        },
+        {
+          "word": "second",
+          "count": 50
+        },
+        {
+          "word": "corridor",
+          "count": 46
+        },
+        {
+          "word": "box",
+          "count": 42
+        },
+        {
+          "word": "position",
+          "count": 41
+        },
+        {
+          "word": "midfielder",
+          "count": 41
+        },
+        {
+          "word": "profile",
+          "count": 40
+        },
+        {
+          "word": "player",
+          "count": 40
+        },
+        {
+          "word": "half",
+          "count": 38
+        },
+        {
+          "word": "toward",
+          "count": 35
+        },
+        {
+          "word": "defensive",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2020-04-15-lost-in-translation-sofia-coppola-mood.md",
       "slug": "lost-in-translation-sofia-coppola-mood",
       "title": "Lost in Translation: How Sound Builds the Mood",
@@ -234478,6 +236732,144 @@
         {
           "word": "college",
           "count": 39
+        }
+      ]
+    },
+    {
+      "filename": "2020-05-01-how-to-stop-julian-alvarez.md",
+      "slug": "how-to-stop-julian-alvarez",
+      "title": "How to Stop Julian Alvarez",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6934,
+      "topWord": "ball",
+      "topCount": 121,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-05-01-how-to-stop-julian-alvarez.md",
+      "flaggedWords": [
+        {
+          "word": "ball",
+          "count": 121
+        },
+        {
+          "word": "forward",
+          "count": 119
+        },
+        {
+          "word": "centre",
+          "count": 99
+        },
+        {
+          "word": "second",
+          "count": 69
+        },
+        {
+          "word": "pocket",
+          "count": 59
+        },
+        {
+          "word": "plan",
+          "count": 58
+        },
+        {
+          "word": "midfielder",
+          "count": 58
+        },
+        {
+          "word": "full",
+          "count": 54
+        },
+        {
+          "word": "pass",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "ball",
+          "count": 121
+        },
+        {
+          "word": "forward",
+          "count": 119
+        },
+        {
+          "word": "centre",
+          "count": 99
+        },
+        {
+          "word": "second",
+          "count": 69
+        },
+        {
+          "word": "pocket",
+          "count": 59
+        },
+        {
+          "word": "plan",
+          "count": 58
+        },
+        {
+          "word": "midfielder",
+          "count": 58
+        },
+        {
+          "word": "full",
+          "count": 54
+        },
+        {
+          "word": "pass",
+          "count": 53
+        },
+        {
+          "word": "defender",
+          "count": 47
+        },
+        {
+          "word": "ownership",
+          "count": 42
+        },
+        {
+          "word": "owner",
+          "count": 40
+        },
+        {
+          "word": "reception",
+          "count": 38
+        },
+        {
+          "word": "corridor",
+          "count": 38
+        },
+        {
+          "word": "space",
+          "count": 37
+        },
+        {
+          "word": "player",
+          "count": 37
+        },
+        {
+          "word": "goalkeeper",
+          "count": 35
+        },
+        {
+          "word": "defenders",
+          "count": 33
+        },
+        {
+          "word": "step",
+          "count": 33
+        },
+        {
+          "word": "inside",
+          "count": 32
         }
       ]
     },
@@ -235078,6 +237470,136 @@
       ]
     },
     {
+      "filename": "2020-05-15-haaland-vs-mbappe-harder-to-defend.md",
+      "slug": "haaland-vs-mbappe-harder-to-defend",
+      "title": "Haaland or Mbappe: Who Is Harder to Defend",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6271,
+      "topWord": "forward",
+      "topCount": 127,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-05-15-haaland-vs-mbappe-harder-to-defend.md",
+      "flaggedWords": [
+        {
+          "word": "forward",
+          "count": 127
+        },
+        {
+          "word": "plan",
+          "count": 101
+        },
+        {
+          "word": "threat",
+          "count": 92
+        },
+        {
+          "word": "runner",
+          "count": 62
+        },
+        {
+          "word": "defensive",
+          "count": 57
+        },
+        {
+          "word": "depth",
+          "count": 56
+        },
+        {
+          "word": "acceleration",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "forward",
+          "count": 127
+        },
+        {
+          "word": "plan",
+          "count": 101
+        },
+        {
+          "word": "threat",
+          "count": 92
+        },
+        {
+          "word": "runner",
+          "count": 62
+        },
+        {
+          "word": "defensive",
+          "count": 57
+        },
+        {
+          "word": "depth",
+          "count": 56
+        },
+        {
+          "word": "acceleration",
+          "count": 53
+        },
+        {
+          "word": "space",
+          "count": 47
+        },
+        {
+          "word": "centre",
+          "count": 46
+        },
+        {
+          "word": "defender",
+          "count": 45
+        },
+        {
+          "word": "ball",
+          "count": 44
+        },
+        {
+          "word": "mbappe",
+          "count": 43
+        },
+        {
+          "word": "harder",
+          "count": 43
+        },
+        {
+          "word": "second",
+          "count": 43
+        },
+        {
+          "word": "haaland",
+          "count": 42
+        },
+        {
+          "word": "fixture",
+          "count": 40
+        },
+        {
+          "word": "defence",
+          "count": 36
+        },
+        {
+          "word": "box",
+          "count": 35
+        },
+        {
+          "word": "block",
+          "count": 35
+        },
+        {
+          "word": "full",
+          "count": 34
+        }
+      ]
+    },
+    {
       "filename": "2020-05-20-is-tcs-nqt-exam-free.md",
       "slug": "is-tcs-nqt-exam-free",
       "title": "Is TCS NQT Free? Exam Fees Explained",
@@ -235556,6 +238078,144 @@
       ]
     },
     {
+      "filename": "2020-06-01-lionel-messi-tactical-profile.md",
+      "slug": "lionel-messi-tactical-profile",
+      "title": "Lionel Messi: The Complete Tactical Profile",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7867,
+      "topWord": "ball",
+      "topCount": 140,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-06-01-lionel-messi-tactical-profile.md",
+      "flaggedWords": [
+        {
+          "word": "ball",
+          "count": 140
+        },
+        {
+          "word": "player",
+          "count": 98
+        },
+        {
+          "word": "defender",
+          "count": 93
+        },
+        {
+          "word": "space",
+          "count": 65
+        },
+        {
+          "word": "pass",
+          "count": 61
+        },
+        {
+          "word": "position",
+          "count": 59
+        },
+        {
+          "word": "half",
+          "count": 56
+        },
+        {
+          "word": "four",
+          "count": 53
+        },
+        {
+          "word": "centre",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "ball",
+          "count": 140
+        },
+        {
+          "word": "player",
+          "count": 98
+        },
+        {
+          "word": "defender",
+          "count": 93
+        },
+        {
+          "word": "space",
+          "count": 65
+        },
+        {
+          "word": "pass",
+          "count": 61
+        },
+        {
+          "word": "position",
+          "count": 59
+        },
+        {
+          "word": "half",
+          "count": 56
+        },
+        {
+          "word": "four",
+          "count": 53
+        },
+        {
+          "word": "centre",
+          "count": 51
+        },
+        {
+          "word": "forward",
+          "count": 50
+        },
+        {
+          "word": "inside",
+          "count": 47
+        },
+        {
+          "word": "full",
+          "count": 46
+        },
+        {
+          "word": "reception",
+          "count": 45
+        },
+        {
+          "word": "profile",
+          "count": 44
+        },
+        {
+          "word": "body",
+          "count": 44
+        },
+        {
+          "word": "second",
+          "count": 40
+        },
+        {
+          "word": "defensive",
+          "count": 40
+        },
+        {
+          "word": "free",
+          "count": 39
+        },
+        {
+          "word": "touch",
+          "count": 36
+        },
+        {
+          "word": "plan",
+          "count": 36
+        }
+      ]
+    },
+    {
       "filename": "2020-06-01-there-will-be-blood-pta-day-lewis.md",
       "slug": "there-will-be-blood-pta-day-lewis",
       "title": "There Will Be Blood: Anderson and Day-Lewis at Full Power",
@@ -235998,6 +238658,136 @@
         {
           "word": "speed",
           "count": 39
+        }
+      ]
+    },
+    {
+      "filename": "2020-06-15-how-to-stop-lionel-messi.md",
+      "slug": "how-to-stop-lionel-messi",
+      "title": "How to Stop Lionel Messi",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7070,
+      "topWord": "ball",
+      "topCount": 143,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-06-15-how-to-stop-lionel-messi.md",
+      "flaggedWords": [
+        {
+          "word": "ball",
+          "count": 143
+        },
+        {
+          "word": "defender",
+          "count": 140
+        },
+        {
+          "word": "plan",
+          "count": 93
+        },
+        {
+          "word": "second",
+          "count": 63
+        },
+        {
+          "word": "inside",
+          "count": 61
+        },
+        {
+          "word": "forward",
+          "count": 54
+        },
+        {
+          "word": "pass",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "ball",
+          "count": 143
+        },
+        {
+          "word": "defender",
+          "count": 140
+        },
+        {
+          "word": "plan",
+          "count": 93
+        },
+        {
+          "word": "second",
+          "count": 63
+        },
+        {
+          "word": "inside",
+          "count": 61
+        },
+        {
+          "word": "forward",
+          "count": 54
+        },
+        {
+          "word": "pass",
+          "count": 53
+        },
+        {
+          "word": "block",
+          "count": 46
+        },
+        {
+          "word": "centre",
+          "count": 45
+        },
+        {
+          "word": "zone",
+          "count": 42
+        },
+        {
+          "word": "goal",
+          "count": 41
+        },
+        {
+          "word": "defensive",
+          "count": 41
+        },
+        {
+          "word": "full",
+          "count": 37
+        },
+        {
+          "word": "body",
+          "count": 36
+        },
+        {
+          "word": "yards",
+          "count": 34
+        },
+        {
+          "word": "space",
+          "count": 34
+        },
+        {
+          "word": "half",
+          "count": 34
+        },
+        {
+          "word": "pivot",
+          "count": 34
+        },
+        {
+          "word": "screening",
+          "count": 33
+        },
+        {
+          "word": "box",
+          "count": 33
         }
       ]
     },
@@ -236582,6 +239372,120 @@
       ]
     },
     {
+      "filename": "2020-07-01-lionel-messi-weaknesses-explained.md",
+      "slug": "lionel-messi-weaknesses-explained",
+      "title": "Lionel Messi's Weaknesses Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7165,
+      "topWord": "player",
+      "topCount": 83,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-01-lionel-messi-weaknesses-explained.md",
+      "flaggedWords": [
+        {
+          "word": "player",
+          "count": 83
+        },
+        {
+          "word": "limitation",
+          "count": 59
+        },
+        {
+          "word": "profile",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "player",
+          "count": 83
+        },
+        {
+          "word": "limitation",
+          "count": 59
+        },
+        {
+          "word": "profile",
+          "count": 55
+        },
+        {
+          "word": "coach",
+          "count": 50
+        },
+        {
+          "word": "cost",
+          "count": 47
+        },
+        {
+          "word": "aerial",
+          "count": 47
+        },
+        {
+          "word": "sides",
+          "count": 45
+        },
+        {
+          "word": "claim",
+          "count": 44
+        },
+        {
+          "word": "volume",
+          "count": 41
+        },
+        {
+          "word": "ball",
+          "count": 39
+        },
+        {
+          "word": "phase",
+          "count": 37
+        },
+        {
+          "word": "defensive",
+          "count": 35
+        },
+        {
+          "word": "messi",
+          "count": 34
+        },
+        {
+          "word": "running",
+          "count": 34
+        },
+        {
+          "word": "limitations",
+          "count": 33
+        },
+        {
+          "word": "structure",
+          "count": 33
+        },
+        {
+          "word": "threat",
+          "count": 33
+        },
+        {
+          "word": "plan",
+          "count": 32
+        },
+        {
+          "word": "possession",
+          "count": 32
+        },
+        {
+          "word": "version",
+          "count": 31
+        }
+      ]
+    },
+    {
       "filename": "2020-07-02-sat-scores-for-merit-scholarships.md",
       "slug": "sat-scores-for-merit-scholarships",
       "title": "SAT Scores for Scholarships: How to Earn Merit-Based Financial Aid",
@@ -236926,6 +239830,132 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-13-interacting-with-enhanced-data-interpretations.md"
+    },
+    {
+      "filename": "2020-07-15-defenders-who-stopped-messi.md",
+      "slug": "defenders-who-stopped-messi",
+      "title": "The Defenders Who Stopped Messi Best",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7194,
+      "topWord": "defender",
+      "topCount": 146,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-15-defenders-who-stopped-messi.md",
+      "flaggedWords": [
+        {
+          "word": "defender",
+          "count": 146
+        },
+        {
+          "word": "ball",
+          "count": 98
+        },
+        {
+          "word": "forward",
+          "count": 84
+        },
+        {
+          "word": "second",
+          "count": 55
+        },
+        {
+          "word": "duel",
+          "count": 54
+        },
+        {
+          "word": "four",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "defender",
+          "count": 146
+        },
+        {
+          "word": "ball",
+          "count": 98
+        },
+        {
+          "word": "forward",
+          "count": 84
+        },
+        {
+          "word": "second",
+          "count": 55
+        },
+        {
+          "word": "duel",
+          "count": 54
+        },
+        {
+          "word": "four",
+          "count": 54
+        },
+        {
+          "word": "delay",
+          "count": 49
+        },
+        {
+          "word": "plan",
+          "count": 47
+        },
+        {
+          "word": "method",
+          "count": 47
+        },
+        {
+          "word": "pass",
+          "count": 45
+        },
+        {
+          "word": "individual",
+          "count": 39
+        },
+        {
+          "word": "defenders",
+          "count": 38
+        },
+        {
+          "word": "defensive",
+          "count": 38
+        },
+        {
+          "word": "carry",
+          "count": 38
+        },
+        {
+          "word": "player",
+          "count": 34
+        },
+        {
+          "word": "toward",
+          "count": 34
+        },
+        {
+          "word": "position",
+          "count": 33
+        },
+        {
+          "word": "covering",
+          "count": 33
+        },
+        {
+          "word": "players",
+          "count": 32
+        },
+        {
+          "word": "foot",
+          "count": 31
+        }
+      ]
     },
     {
       "filename": "2020-07-15-eternal-sunshine-kaufman-memory-structure.md",
@@ -237512,6 +240542,152 @@
         {
           "word": "built",
           "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2020-08-01-cristiano-ronaldo-tactical-profile.md",
+      "slug": "cristiano-ronaldo-tactical-profile",
+      "title": "Cristiano Ronaldo: The Complete Profile",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8066,
+      "topWord": "ball",
+      "topCount": 119,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-08-01-cristiano-ronaldo-tactical-profile.md",
+      "flaggedWords": [
+        {
+          "word": "ball",
+          "count": 119
+        },
+        {
+          "word": "forward",
+          "count": 105
+        },
+        {
+          "word": "wide",
+          "count": 103
+        },
+        {
+          "word": "box",
+          "count": 103
+        },
+        {
+          "word": "version",
+          "count": 83
+        },
+        {
+          "word": "role",
+          "count": 69
+        },
+        {
+          "word": "defender",
+          "count": 60
+        },
+        {
+          "word": "threat",
+          "count": 55
+        },
+        {
+          "word": "delivery",
+          "count": 53
+        },
+        {
+          "word": "central",
+          "count": 52
+        },
+        {
+          "word": "game",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "ball",
+          "count": 119
+        },
+        {
+          "word": "forward",
+          "count": 105
+        },
+        {
+          "word": "wide",
+          "count": 103
+        },
+        {
+          "word": "box",
+          "count": 103
+        },
+        {
+          "word": "version",
+          "count": 83
+        },
+        {
+          "word": "role",
+          "count": 69
+        },
+        {
+          "word": "defender",
+          "count": 60
+        },
+        {
+          "word": "threat",
+          "count": 55
+        },
+        {
+          "word": "delivery",
+          "count": 53
+        },
+        {
+          "word": "central",
+          "count": 52
+        },
+        {
+          "word": "game",
+          "count": 52
+        },
+        {
+          "word": "area",
+          "count": 50
+        },
+        {
+          "word": "inside",
+          "count": 49
+        },
+        {
+          "word": "player",
+          "count": 47
+        },
+        {
+          "word": "full",
+          "count": 46
+        },
+        {
+          "word": "defence",
+          "count": 44
+        },
+        {
+          "word": "finisher",
+          "count": 43
+        },
+        {
+          "word": "occupier",
+          "count": 43
+        },
+        {
+          "word": "space",
+          "count": 43
+        },
+        {
+          "word": "movement",
+          "count": 41
         }
       ]
     },
@@ -446806,6 +449982,120 @@
       ]
     },
     {
+      "filename": "2026-12-11-russias-gray-zone-war-on-poland.md",
+      "slug": "russias-gray-zone-war-on-poland",
+      "title": "Russia's Gray-Zone War on Poland",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7867,
+      "topWord": "campaign",
+      "topCount": 188,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-12-11-russias-gray-zone-war-on-poland.md",
+      "flaggedWords": [
+        {
+          "word": "campaign",
+          "count": 188
+        },
+        {
+          "word": "poland",
+          "count": 65
+        },
+        {
+          "word": "defender",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "campaign",
+          "count": 188
+        },
+        {
+          "word": "poland",
+          "count": 65
+        },
+        {
+          "word": "defender",
+          "count": 56
+        },
+        {
+          "word": "assessment",
+          "count": 49
+        },
+        {
+          "word": "tool",
+          "count": 48
+        },
+        {
+          "word": "war",
+          "count": 45
+        },
+        {
+          "word": "response",
+          "count": 43
+        },
+        {
+          "word": "cannot",
+          "count": 39
+        },
+        {
+          "word": "evidence",
+          "count": 38
+        },
+        {
+          "word": "political",
+          "count": 38
+        },
+        {
+          "word": "polish",
+          "count": 38
+        },
+        {
+          "word": "act",
+          "count": 38
+        },
+        {
+          "word": "pattern",
+          "count": 36
+        },
+        {
+          "word": "nothing",
+          "count": 36
+        },
+        {
+          "word": "coercer",
+          "count": 35
+        },
+        {
+          "word": "pressure",
+          "count": 34
+        },
+        {
+          "word": "acts",
+          "count": 34
+        },
+        {
+          "word": "reading",
+          "count": 33
+        },
+        {
+          "word": "cost",
+          "count": 33
+        },
+        {
+          "word": "gray",
+          "count": 31
+        }
+      ]
+    },
+    {
       "filename": "2026-12-14-wwi-shadow-great-gatsby.md",
       "slug": "wwi-shadow-great-gatsby",
       "title": "World War One's Shadow Over The Great Gatsby",
@@ -447042,6 +450332,120 @@
       ]
     },
     {
+      "filename": "2026-12-21-sabotage-on-polish-soil.md",
+      "slug": "sabotage-on-polish-soil",
+      "title": "Sabotage on Polish Soil",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7532,
+      "topWord": "campaign",
+      "topCount": 109,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-12-21-sabotage-on-polish-soil.md",
+      "flaggedWords": [
+        {
+          "word": "campaign",
+          "count": 109
+        },
+        {
+          "word": "sponsor",
+          "count": 102
+        },
+        {
+          "word": "incident",
+          "count": 59
+        }
+      ],
+      "top20": [
+        {
+          "word": "campaign",
+          "count": 109
+        },
+        {
+          "word": "sponsor",
+          "count": 102
+        },
+        {
+          "word": "incident",
+          "count": 59
+        },
+        {
+          "word": "act",
+          "count": 48
+        },
+        {
+          "word": "attribution",
+          "count": 46
+        },
+        {
+          "word": "target",
+          "count": 45
+        },
+        {
+          "word": "deniability",
+          "count": 44
+        },
+        {
+          "word": "response",
+          "count": 41
+        },
+        {
+          "word": "category",
+          "count": 41
+        },
+        {
+          "word": "cost",
+          "count": 40
+        },
+        {
+          "word": "defender",
+          "count": 39
+        },
+        {
+          "word": "produces",
+          "count": 38
+        },
+        {
+          "word": "incidents",
+          "count": 38
+        },
+        {
+          "word": "cannot",
+          "count": 37
+        },
+        {
+          "word": "sabotage",
+          "count": 32
+        },
+        {
+          "word": "evidence",
+          "count": 32
+        },
+        {
+          "word": "acts",
+          "count": 32
+        },
+        {
+          "word": "available",
+          "count": 32
+        },
+        {
+          "word": "damage",
+          "count": 31
+        },
+        {
+          "word": "aim",
+          "count": 31
+        }
+      ]
+    },
+    {
       "filename": "2026-12-28-flappers-new-woman-gatsby.md",
       "slug": "flappers-new-woman-gatsby",
       "title": "Flappers and the New Woman in the 1920s",
@@ -447172,6 +450576,136 @@
       ]
     },
     {
+      "filename": "2027-01-01-drones-over-poland-accident-or-probe.md",
+      "slug": "drones-over-poland-accident-or-probe",
+      "title": "Drones Over Poland: Accident or Probe?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7584,
+      "topWord": "event",
+      "topCount": 129,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-01-01-drones-over-poland-accident-or-probe.md",
+      "flaggedWords": [
+        {
+          "word": "event",
+          "count": 129
+        },
+        {
+          "word": "defender",
+          "count": 114
+        },
+        {
+          "word": "political",
+          "count": 71
+        },
+        {
+          "word": "adversary",
+          "count": 70
+        },
+        {
+          "word": "response",
+          "count": 66
+        },
+        {
+          "word": "assessment",
+          "count": 54
+        },
+        {
+          "word": "events",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "event",
+          "count": 129
+        },
+        {
+          "word": "defender",
+          "count": 114
+        },
+        {
+          "word": "political",
+          "count": 71
+        },
+        {
+          "word": "adversary",
+          "count": 70
+        },
+        {
+          "word": "response",
+          "count": 66
+        },
+        {
+          "word": "assessment",
+          "count": 54
+        },
+        {
+          "word": "events",
+          "count": 51
+        },
+        {
+          "word": "alliance",
+          "count": 46
+        },
+        {
+          "word": "question",
+          "count": 43
+        },
+        {
+          "word": "accident",
+          "count": 40
+        },
+        {
+          "word": "classification",
+          "count": 40
+        },
+        {
+          "word": "confidence",
+          "count": 39
+        },
+        {
+          "word": "airspace",
+          "count": 38
+        },
+        {
+          "word": "public",
+          "count": 38
+        },
+        {
+          "word": "reaction",
+          "count": 38
+        },
+        {
+          "word": "physical",
+          "count": 38
+        },
+        {
+          "word": "record",
+          "count": 36
+        },
+        {
+          "word": "evidence",
+          "count": 34
+        },
+        {
+          "word": "campaign",
+          "count": 34
+        },
+        {
+          "word": "argument",
+          "count": 32
+        }
+      ]
+    },
+    {
       "filename": "2027-01-04-automobile-age-gatsby.md",
       "slug": "automobile-age-gatsby",
       "title": "The Automobile Age and The Great Gatsby",
@@ -447282,6 +450816,124 @@
         {
           "word": "reader",
           "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2027-01-11-gps-jamming-in-the-baltic-region.md",
+      "slug": "gps-jamming-in-the-baltic-region",
+      "title": "GPS Jamming in the Baltic Region",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8051,
+      "topWord": "degradation",
+      "topCount": 63,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-01-11-gps-jamming-in-the-baltic-region.md",
+      "flaggedWords": [
+        {
+          "word": "degradation",
+          "count": 63
+        },
+        {
+          "word": "navigation",
+          "count": 61
+        },
+        {
+          "word": "response",
+          "count": 58
+        },
+        {
+          "word": "pressure",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "degradation",
+          "count": 63
+        },
+        {
+          "word": "navigation",
+          "count": 61
+        },
+        {
+          "word": "response",
+          "count": 58
+        },
+        {
+          "word": "pressure",
+          "count": 56
+        },
+        {
+          "word": "costs",
+          "count": 44
+        },
+        {
+          "word": "cost",
+          "count": 44
+        },
+        {
+          "word": "aviation",
+          "count": 41
+        },
+        {
+          "word": "systems",
+          "count": 41
+        },
+        {
+          "word": "disruption",
+          "count": 39
+        },
+        {
+          "word": "problem",
+          "count": 39
+        },
+        {
+          "word": "defender",
+          "count": 38
+        },
+        {
+          "word": "cannot",
+          "count": 35
+        },
+        {
+          "word": "requires",
+          "count": 34
+        },
+        {
+          "word": "interference",
+          "count": 32
+        },
+        {
+          "word": "pattern",
+          "count": 31
+        },
+        {
+          "word": "tool",
+          "count": 31
+        },
+        {
+          "word": "instrument",
+          "count": 31
+        },
+        {
+          "word": "assessment",
+          "count": 30
+        },
+        {
+          "word": "threshold",
+          "count": 30
+        },
+        {
+          "word": "effects",
+          "count": 30
         }
       ]
     },
@@ -447518,6 +451170,144 @@
         {
           "word": "context",
           "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2027-01-21-belarus-border-migration-weapon.md",
+      "slug": "belarus-border-migration-weapon",
+      "title": "The Belarus Border Migration Weapon",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7865,
+      "topWord": "frontier",
+      "topCount": 93,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-01-21-belarus-border-migration-weapon.md",
+      "flaggedWords": [
+        {
+          "word": "frontier",
+          "count": 93
+        },
+        {
+          "word": "pressure",
+          "count": 82
+        },
+        {
+          "word": "coercer",
+          "count": 74
+        },
+        {
+          "word": "target",
+          "count": 72
+        },
+        {
+          "word": "response",
+          "count": 60
+        },
+        {
+          "word": "political",
+          "count": 59
+        },
+        {
+          "word": "legal",
+          "count": 57
+        },
+        {
+          "word": "border",
+          "count": 55
+        },
+        {
+          "word": "migration",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "frontier",
+          "count": 93
+        },
+        {
+          "word": "pressure",
+          "count": 82
+        },
+        {
+          "word": "coercer",
+          "count": 74
+        },
+        {
+          "word": "target",
+          "count": 72
+        },
+        {
+          "word": "response",
+          "count": 60
+        },
+        {
+          "word": "political",
+          "count": 59
+        },
+        {
+          "word": "legal",
+          "count": 57
+        },
+        {
+          "word": "border",
+          "count": 55
+        },
+        {
+          "word": "migration",
+          "count": 51
+        },
+        {
+          "word": "cost",
+          "count": 49
+        },
+        {
+          "word": "tactic",
+          "count": 47
+        },
+        {
+          "word": "humanitarian",
+          "count": 35
+        },
+        {
+          "word": "instrument",
+          "count": 35
+        },
+        {
+          "word": "weapon",
+          "count": 34
+        },
+        {
+          "word": "zone",
+          "count": 33
+        },
+        {
+          "word": "states",
+          "count": 33
+        },
+        {
+          "word": "domestic",
+          "count": 30
+        },
+        {
+          "word": "argument",
+          "count": 30
+        },
+        {
+          "word": "surge",
+          "count": 29
+        },
+        {
+          "word": "tool",
+          "count": 28
         }
       ]
     },
@@ -447774,6 +451564,116 @@
       ]
     },
     {
+      "filename": "2027-02-01-russian-disinformation-aimed-at-poland.md",
+      "slug": "russian-disinformation-aimed-at-poland",
+      "title": "Russian Disinformation Aimed at Poland",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7757,
+      "topWord": "poland",
+      "topCount": 65,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-02-01-russian-disinformation-aimed-at-poland.md",
+      "flaggedWords": [
+        {
+          "word": "poland",
+          "count": 65
+        },
+        {
+          "word": "information",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "poland",
+          "count": 65
+        },
+        {
+          "word": "information",
+          "count": 51
+        },
+        {
+          "word": "operation",
+          "count": 50
+        },
+        {
+          "word": "domestic",
+          "count": 49
+        },
+        {
+          "word": "campaign",
+          "count": 48
+        },
+        {
+          "word": "political",
+          "count": 42
+        },
+        {
+          "word": "material",
+          "count": 41
+        },
+        {
+          "word": "public",
+          "count": 40
+        },
+        {
+          "word": "claim",
+          "count": 38
+        },
+        {
+          "word": "content",
+          "count": 38
+        },
+        {
+          "word": "cost",
+          "count": 36
+        },
+        {
+          "word": "cannot",
+          "count": 35
+        },
+        {
+          "word": "argument",
+          "count": 35
+        },
+        {
+          "word": "society",
+          "count": 32
+        },
+        {
+          "word": "claims",
+          "count": 31
+        },
+        {
+          "word": "instrument",
+          "count": 31
+        },
+        {
+          "word": "target",
+          "count": 30
+        },
+        {
+          "word": "trust",
+          "count": 30
+        },
+        {
+          "word": "defense",
+          "count": 30
+        },
+        {
+          "word": "genuine",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2027-02-08-immigration-nativism-gatsby.md",
       "slug": "immigration-nativism-gatsby",
       "title": "Immigration and Nativism in Gatsby's America",
@@ -447892,6 +451792,128 @@
       ]
     },
     {
+      "filename": "2027-02-11-when-gray-zone-becomes-open-war.md",
+      "slug": "when-gray-zone-becomes-open-war",
+      "title": "When Gray-Zone Becomes Open War",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7726,
+      "topWord": "defender",
+      "topCount": 95,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-02-11-when-gray-zone-becomes-open-war.md",
+      "flaggedWords": [
+        {
+          "word": "defender",
+          "count": 95
+        },
+        {
+          "word": "boundary",
+          "count": 72
+        },
+        {
+          "word": "act",
+          "count": 64
+        },
+        {
+          "word": "incident",
+          "count": 54
+        },
+        {
+          "word": "response",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "defender",
+          "count": 95
+        },
+        {
+          "word": "boundary",
+          "count": 72
+        },
+        {
+          "word": "act",
+          "count": 64
+        },
+        {
+          "word": "incident",
+          "count": 54
+        },
+        {
+          "word": "response",
+          "count": 53
+        },
+        {
+          "word": "category",
+          "count": 49
+        },
+        {
+          "word": "crossing",
+          "count": 44
+        },
+        {
+          "word": "campaign",
+          "count": 43
+        },
+        {
+          "word": "threshold",
+          "count": 43
+        },
+        {
+          "word": "warning",
+          "count": 42
+        },
+        {
+          "word": "decision",
+          "count": 40
+        },
+        {
+          "word": "pressure",
+          "count": 40
+        },
+        {
+          "word": "coercive",
+          "count": 37
+        },
+        {
+          "word": "political",
+          "count": 35
+        },
+        {
+          "word": "categories",
+          "count": 35
+        },
+        {
+          "word": "acts",
+          "count": 35
+        },
+        {
+          "word": "adversary",
+          "count": 34
+        },
+        {
+          "word": "legal",
+          "count": 32
+        },
+        {
+          "word": "question",
+          "count": 31
+        },
+        {
+          "word": "framework",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2027-02-15-scientific-racism-gatsby.md",
       "slug": "scientific-racism-gatsby",
       "title": "Scientific Racism and Tom's Books",
@@ -448006,6 +452028,136 @@
         {
           "word": "proved",
           "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2027-02-21-fighting-below-the-threshold.md",
+      "slug": "fighting-below-the-threshold",
+      "title": "How Poland Fights Below the Threshold",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8005,
+      "topWord": "attribution",
+      "topCount": 118,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-02-21-fighting-below-the-threshold.md",
+      "flaggedWords": [
+        {
+          "word": "attribution",
+          "count": 118
+        },
+        {
+          "word": "response",
+          "count": 115
+        },
+        {
+          "word": "campaign",
+          "count": 97
+        },
+        {
+          "word": "threshold",
+          "count": 84
+        },
+        {
+          "word": "instigator",
+          "count": 84
+        },
+        {
+          "word": "defender",
+          "count": 84
+        },
+        {
+          "word": "cost",
+          "count": 70
+        }
+      ],
+      "top20": [
+        {
+          "word": "attribution",
+          "count": 118
+        },
+        {
+          "word": "response",
+          "count": 115
+        },
+        {
+          "word": "campaign",
+          "count": 97
+        },
+        {
+          "word": "threshold",
+          "count": 84
+        },
+        {
+          "word": "instigator",
+          "count": 84
+        },
+        {
+          "word": "defender",
+          "count": 84
+        },
+        {
+          "word": "cost",
+          "count": 70
+        },
+        {
+          "word": "incident",
+          "count": 47
+        },
+        {
+          "word": "political",
+          "count": 47
+        },
+        {
+          "word": "act",
+          "count": 44
+        },
+        {
+          "word": "escalation",
+          "count": 44
+        },
+        {
+          "word": "resilience",
+          "count": 44
+        },
+        {
+          "word": "posture",
+          "count": 43
+        },
+        {
+          "word": "exposure",
+          "count": 40
+        },
+        {
+          "word": "public",
+          "count": 39
+        },
+        {
+          "word": "denial",
+          "count": 38
+        },
+        {
+          "word": "pressure",
+          "count": 37
+        },
+        {
+          "word": "effect",
+          "count": 36
+        },
+        {
+          "word": "deniability",
+          "count": 35
+        },
+        {
+          "word": "sub",
+          "count": 33
         }
       ]
     },
@@ -450722,6 +454874,864 @@
         {
           "word": "makes",
           "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2027-07-19-gatsby-era-historical-myths.md",
+      "slug": "gatsby-era-historical-myths",
+      "title": "Historical Myths About The Great Gatsby Era",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5496,
+      "topWord": "decade",
+      "topCount": 104,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-07-19-gatsby-era-historical-myths.md",
+      "flaggedWords": [
+        {
+          "word": "decade",
+          "count": 104
+        },
+        {
+          "word": "novel",
+          "count": 99
+        },
+        {
+          "word": "gatsby",
+          "count": 61
+        },
+        {
+          "word": "postcard",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "decade",
+          "count": 104
+        },
+        {
+          "word": "novel",
+          "count": 99
+        },
+        {
+          "word": "gatsby",
+          "count": 61
+        },
+        {
+          "word": "postcard",
+          "count": 51
+        },
+        {
+          "word": "fitzgerald",
+          "count": 47
+        },
+        {
+          "word": "era",
+          "count": 40
+        },
+        {
+          "word": "tom",
+          "count": 33
+        },
+        {
+          "word": "reading",
+          "count": 32
+        },
+        {
+          "word": "book",
+          "count": 29
+        },
+        {
+          "word": "everyone",
+          "count": 28
+        },
+        {
+          "word": "party",
+          "count": 26
+        },
+        {
+          "word": "jazz",
+          "count": 26
+        },
+        {
+          "word": "nick",
+          "count": 26
+        },
+        {
+          "word": "myth",
+          "count": 25
+        },
+        {
+          "word": "correction",
+          "count": 23
+        },
+        {
+          "word": "history",
+          "count": 22
+        },
+        {
+          "word": "parties",
+          "count": 21
+        },
+        {
+          "word": "country",
+          "count": 21
+        },
+        {
+          "word": "read",
+          "count": 20
+        },
+        {
+          "word": "national",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2027-07-26-marxist-reading-great-gatsby.md",
+      "slug": "marxist-reading-great-gatsby",
+      "title": "A Marxist Reading of The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4968,
+      "topWord": "novel",
+      "topCount": 91,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-07-26-marxist-reading-great-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 91
+        },
+        {
+          "word": "gatsby",
+          "count": 75
+        },
+        {
+          "word": "money",
+          "count": 65
+        },
+        {
+          "word": "reading",
+          "count": 60
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 91
+        },
+        {
+          "word": "gatsby",
+          "count": 75
+        },
+        {
+          "word": "money",
+          "count": 65
+        },
+        {
+          "word": "reading",
+          "count": 60
+        },
+        {
+          "word": "fitzgerald",
+          "count": 45
+        },
+        {
+          "word": "class",
+          "count": 43
+        },
+        {
+          "word": "lens",
+          "count": 40
+        },
+        {
+          "word": "tom",
+          "count": 35
+        },
+        {
+          "word": "marxist",
+          "count": 34
+        },
+        {
+          "word": "nick",
+          "count": 31
+        },
+        {
+          "word": "framework",
+          "count": 28
+        },
+        {
+          "word": "wealth",
+          "count": 25
+        },
+        {
+          "word": "daisy",
+          "count": 24
+        },
+        {
+          "word": "valley",
+          "count": 23
+        },
+        {
+          "word": "book",
+          "count": 23
+        },
+        {
+          "word": "labor",
+          "count": 22
+        },
+        {
+          "word": "position",
+          "count": 21
+        },
+        {
+          "word": "materialist",
+          "count": 20
+        },
+        {
+          "word": "wilson",
+          "count": 20
+        },
+        {
+          "word": "argument",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2027-08-02-gatsby-marxist-class-conflict.md",
+      "slug": "gatsby-marxist-class-conflict",
+      "title": "Class Conflict Through a Marxist Lens",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5163,
+      "topWord": "tom",
+      "topCount": 80,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-08-02-gatsby-marxist-class-conflict.md",
+      "flaggedWords": [
+        {
+          "word": "tom",
+          "count": 80
+        },
+        {
+          "word": "gatsby",
+          "count": 77
+        },
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "position",
+          "count": 68
+        },
+        {
+          "word": "class",
+          "count": 57
+        },
+        {
+          "word": "conflict",
+          "count": 55
+        },
+        {
+          "word": "reading",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "tom",
+          "count": 80
+        },
+        {
+          "word": "gatsby",
+          "count": 77
+        },
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "position",
+          "count": 68
+        },
+        {
+          "word": "class",
+          "count": 57
+        },
+        {
+          "word": "conflict",
+          "count": 55
+        },
+        {
+          "word": "reading",
+          "count": 52
+        },
+        {
+          "word": "wilson",
+          "count": 50
+        },
+        {
+          "word": "money",
+          "count": 41
+        },
+        {
+          "word": "nick",
+          "count": 36
+        },
+        {
+          "word": "structural",
+          "count": 31
+        },
+        {
+          "word": "personal",
+          "count": 27
+        },
+        {
+          "word": "daisy",
+          "count": 26
+        },
+        {
+          "word": "fitzgerald",
+          "count": 24
+        },
+        {
+          "word": "myrtle",
+          "count": 24
+        },
+        {
+          "word": "labor",
+          "count": 21
+        },
+        {
+          "word": "antagonism",
+          "count": 21
+        },
+        {
+          "word": "lens",
+          "count": 20
+        },
+        {
+          "word": "front",
+          "count": 20
+        },
+        {
+          "word": "marxist",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2027-08-09-feminist-reading-great-gatsby.md",
+      "slug": "feminist-reading-great-gatsby",
+      "title": "A Feminist Reading of The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4806,
+      "topWord": "novel",
+      "topCount": 80,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-08-09-feminist-reading-great-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 80
+        },
+        {
+          "word": "daisy",
+          "count": 78
+        },
+        {
+          "word": "chapter",
+          "count": 72
+        },
+        {
+          "word": "lens",
+          "count": 59
+        },
+        {
+          "word": "feminist",
+          "count": 54
+        },
+        {
+          "word": "reading",
+          "count": 54
+        },
+        {
+          "word": "gatsby",
+          "count": 54
+        },
+        {
+          "word": "nick",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 80
+        },
+        {
+          "word": "daisy",
+          "count": 78
+        },
+        {
+          "word": "chapter",
+          "count": 72
+        },
+        {
+          "word": "lens",
+          "count": 59
+        },
+        {
+          "word": "feminist",
+          "count": 54
+        },
+        {
+          "word": "reading",
+          "count": 54
+        },
+        {
+          "word": "gatsby",
+          "count": 54
+        },
+        {
+          "word": "nick",
+          "count": 52
+        },
+        {
+          "word": "tom",
+          "count": 38
+        },
+        {
+          "word": "book",
+          "count": 36
+        },
+        {
+          "word": "evidence",
+          "count": 36
+        },
+        {
+          "word": "jordan",
+          "count": 35
+        },
+        {
+          "word": "myrtle",
+          "count": 35
+        },
+        {
+          "word": "paragraph",
+          "count": 30
+        },
+        {
+          "word": "essay",
+          "count": 27
+        },
+        {
+          "word": "speech",
+          "count": 26
+        },
+        {
+          "word": "sentence",
+          "count": 26
+        },
+        {
+          "word": "argument",
+          "count": 25
+        },
+        {
+          "word": "fitzgerald",
+          "count": 25
+        },
+        {
+          "word": "narration",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2027-08-23-psychoanalytic-reading-gatsby.md",
+      "slug": "psychoanalytic-reading-gatsby",
+      "title": "A Psychoanalytic Reading of The Great Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4796,
+      "topWord": "gatsby",
+      "topCount": 116,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-08-23-psychoanalytic-reading-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "gatsby",
+          "count": 116
+        },
+        {
+          "word": "nick",
+          "count": 76
+        },
+        {
+          "word": "novel",
+          "count": 65
+        },
+        {
+          "word": "reading",
+          "count": 58
+        }
+      ],
+      "top20": [
+        {
+          "word": "gatsby",
+          "count": 116
+        },
+        {
+          "word": "nick",
+          "count": 76
+        },
+        {
+          "word": "novel",
+          "count": 65
+        },
+        {
+          "word": "reading",
+          "count": 58
+        },
+        {
+          "word": "daisy",
+          "count": 50
+        },
+        {
+          "word": "lens",
+          "count": 38
+        },
+        {
+          "word": "light",
+          "count": 27
+        },
+        {
+          "word": "five",
+          "count": 26
+        },
+        {
+          "word": "psychoanalytic",
+          "count": 26
+        },
+        {
+          "word": "cannot",
+          "count": 25
+        },
+        {
+          "word": "sentence",
+          "count": 24
+        },
+        {
+          "word": "book",
+          "count": 23
+        },
+        {
+          "word": "himself",
+          "count": 22
+        },
+        {
+          "word": "repetition",
+          "count": 22
+        },
+        {
+          "word": "past",
+          "count": 22
+        },
+        {
+          "word": "tom",
+          "count": 22
+        },
+        {
+          "word": "chapter",
+          "count": 22
+        },
+        {
+          "word": "fitzgerald",
+          "count": 21
+        },
+        {
+          "word": "reader",
+          "count": 21
+        },
+        {
+          "word": "loss",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2027-08-30-gatsby-freudian-desire.md",
+      "slug": "gatsby-freudian-desire",
+      "title": "Gatsby's Desire Through a Freudian Lens",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4901,
+      "topWord": "gatsby",
+      "topCount": 116,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-08-30-gatsby-freudian-desire.md",
+      "flaggedWords": [
+        {
+          "word": "gatsby",
+          "count": 116
+        },
+        {
+          "word": "object",
+          "count": 76
+        },
+        {
+          "word": "daisy",
+          "count": 71
+        },
+        {
+          "word": "reading",
+          "count": 54
+        },
+        {
+          "word": "nick",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "gatsby",
+          "count": 116
+        },
+        {
+          "word": "object",
+          "count": 76
+        },
+        {
+          "word": "daisy",
+          "count": 71
+        },
+        {
+          "word": "reading",
+          "count": 54
+        },
+        {
+          "word": "nick",
+          "count": 52
+        },
+        {
+          "word": "chapter",
+          "count": 47
+        },
+        {
+          "word": "five",
+          "count": 39
+        },
+        {
+          "word": "fitzgerald",
+          "count": 34
+        },
+        {
+          "word": "fantasy",
+          "count": 32
+        },
+        {
+          "word": "sentence",
+          "count": 31
+        },
+        {
+          "word": "novel",
+          "count": 31
+        },
+        {
+          "word": "wanting",
+          "count": 30
+        },
+        {
+          "word": "cannot",
+          "count": 29
+        },
+        {
+          "word": "lens",
+          "count": 29
+        },
+        {
+          "word": "light",
+          "count": 23
+        },
+        {
+          "word": "says",
+          "count": 22
+        },
+        {
+          "word": "longing",
+          "count": 22
+        },
+        {
+          "word": "structure",
+          "count": 21
+        },
+        {
+          "word": "distance",
+          "count": 21
+        },
+        {
+          "word": "essay",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2027-09-06-new-historicist-gatsby.md",
+      "slug": "new-historicist-gatsby",
+      "title": "A New Historicist Reading of Gatsby",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5431,
+      "topWord": "novel",
+      "topCount": 136,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2027-09-06-new-historicist-gatsby.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 136
+        },
+        {
+          "word": "discourse",
+          "count": 94
+        },
+        {
+          "word": "period",
+          "count": 66
+        },
+        {
+          "word": "lens",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 136
+        },
+        {
+          "word": "discourse",
+          "count": 94
+        },
+        {
+          "word": "period",
+          "count": 66
+        },
+        {
+          "word": "lens",
+          "count": 52
+        },
+        {
+          "word": "vocabulary",
+          "count": 48
+        },
+        {
+          "word": "language",
+          "count": 47
+        },
+        {
+          "word": "historicist",
+          "count": 44
+        },
+        {
+          "word": "reading",
+          "count": 42
+        },
+        {
+          "word": "tom",
+          "count": 42
+        },
+        {
+          "word": "text",
+          "count": 36
+        },
+        {
+          "word": "gatsby",
+          "count": 34
+        },
+        {
+          "word": "nick",
+          "count": 29
+        },
+        {
+          "word": "discourses",
+          "count": 28
+        },
+        {
+          "word": "racial",
+          "count": 28
+        },
+        {
+          "word": "historicism",
+          "count": 27
+        },
+        {
+          "word": "read",
+          "count": 26
+        },
+        {
+          "word": "essay",
+          "count": 26
+        },
+        {
+          "word": "self",
+          "count": 25
+        },
+        {
+          "word": "book",
+          "count": 24
+        },
+        {
+          "word": "fitzgerald",
+          "count": 23
         }
       ]
     }

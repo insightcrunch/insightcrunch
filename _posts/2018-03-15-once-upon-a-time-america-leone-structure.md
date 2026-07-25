@@ -9,7 +9,7 @@ excerpt: "How Once Upon a Time in America braids three decades into a memory lat
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 61
 author: "diana-patel"
-last_updated: 2018-03-15
+last_updated: 2026-07-25
 lang: en
 ---
 Sergio Leone spent more than a decade preparing to break the one rule every gangster saga had obeyed since the genre learned to talk: tell the story forward. **Once Upon a Time in America**, his final film and his only work set on American soil rather than the mythic American West, refuses chronology on principle. It follows a Jewish gangster named David Aaronson, called Noodles, across roughly half a century of New York life, and it scrambles that life into a deliberately fractured order so that the film moves the way memory moves, by association and guilt rather than by the calendar. A boy throws a frisbee and the cut lands decades away. A telephone rings in 1933 and keeps ringing into a future that may not have happened yet. The screenplay is built not as a timeline but as a lattice of recollection, and the whole structure is framed inside an opium den, which is the single decision that turns a crime epic into something stranger: a meditation on memory, regret, and whether any of what we watch is real.

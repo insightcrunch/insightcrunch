@@ -9,7 +9,7 @@ excerpt: "Did Trump really broker the India-Pakistan ceasefire or merely announc
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2018-04-09
+last_updated: 2026-07-25
 lang: en
 ---
 On the morning of May 10, 2025, as missiles and drones tore across the skies between two nuclear-armed nations, Donald Trump posted on Truth Social what appeared to be the single most consequential sentence of the year. He wrote that after a long night of talks mediated by the United States, he was pleased to announce that India and Pakistan had agreed to a full and immediate ceasefire. Within minutes, the post circulated across every newsroom on the planet. The fighting stopped. And the argument over who deserved credit for stopping it began immediately.

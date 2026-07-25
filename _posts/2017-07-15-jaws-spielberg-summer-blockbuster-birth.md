@@ -9,7 +9,7 @@ excerpt: "Jaws turned a malfunctioning mechanical shark into the genius of the u
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2017-07-15
+last_updated: 2026-07-25
 lang: en
 ---
 Before the summer of 1975, the warm months were where studios buried the films they did not believe in. The serious pictures arrived in the autumn for awards season, the prestige adaptations and the road-show epics came at Christmas, and June carried the reputation of a dumping ground for second-tier programmers and drive-in fodder. Then a thriller about a great white predator and the three mismatched men who set out to kill it opened wide across the country, and within a single season the whole calendar of American moviegoing turned upside down. Jaws did not merely succeed. It rewrote the rules by which success was measured, manufactured, and timed. To study it is to watch a genre picture become an industrial event, and to watch a young director turn a string of disasters into the most influential restraint in popular cinema.

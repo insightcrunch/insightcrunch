@@ -9,7 +9,7 @@ excerpt: "India says Operation Sindoor killed more than 100 militants, Pakistan 
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2018-03-12
+last_updated: 2026-07-25
 lang: en
 ---
 When Indian officials said that more than one hundred militants died in the missile strikes of May 7, 2025, they produced the single most quoted figure of the entire four-day confrontation, and also the one figure that no independent party has ever been able to confirm. The number traveled faster than any other claim from those nights. It anchored television panels, framed parliamentary exchanges, and became shorthand for whether the strikes had worked. Yet a year of commercial satellite passes, foreign press visits to the rubble, and forensic curiosity from analysts who trust neither Islamabad nor New Delhi has left the count exactly where it began: asserted by one government, denied by the other, and standing on evidence that overhead cameras are physically incapable of supplying.

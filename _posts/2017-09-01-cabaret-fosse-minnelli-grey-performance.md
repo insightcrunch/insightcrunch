@@ -9,7 +9,7 @@ excerpt: "Cabaret turns its Kit Kat Klub into a mirror, with Liza Minnelli and J
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2017-09-01
+last_updated: 2026-07-25
 lang: en
 ---
 A drumroll, a crash of cymbals, and a face swims up out of green light. The mouth is painted into a permanent grin, the cheeks are rouged, the eyes are doing something the smile does not authorize. "Willkommen," the face purrs, and this is how Cabaret begins, the 1972 film directed by Bob Fosse, with an invitation that for the length of one number feels like an ordinary entertainment, a little risque, a little dated, a souvenir of an old decade. Then the camera pulls back, the audience inside the club comes into focus, and you understand that the grin is not welcoming you. It is daring you to keep watching while the world outside the door begins to burn. That is the performance problem at the center of Cabaret, the 1972 film directed by Bob Fosse, and it is a problem that no ordinary musical had ever been built to solve. How do you act denial? How do you sing a society's refusal to look at what is coming? Two performers, Liza Minnelli and Joel Grey, found a way, and a choreographer turned director rebuilt the entire grammar of the movie musical around them so that the answer could land.

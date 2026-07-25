@@ -9,7 +9,7 @@ excerpt: "Blue Velvet planted dream logic beneath the white-picket suburb, the t
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2018-06-01
+last_updated: 2026-07-25
 lang: en
 ---
 ## The nightmare planted under the lawn

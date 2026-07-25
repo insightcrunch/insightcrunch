@@ -5752,6 +5752,12 @@ middle-kingdom-of-egypt-guide:
   category: leisure
   image: /assets/images/blog/blog-05.webp
   lang: en
+- slug: new-kingdom-of-egypt-guide
+  title: 'The New Kingdom of Egypt: Complete Guide'
+  url: /2003/05/01/new-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
 - slug: middle-kingdom-administration-trade
   title: Administration and Trade in the Middle Kingdom
   url: /2002/02/01/middle-kingdom-administration-trade/
@@ -5763,12 +5769,6 @@ middle-kingdom-of-egypt-guide:
   url: /2001/10/01/egypt-collapse-and-reunification/
   category: leisure
   image: /assets/images/blog/blog-56.webp
-  lang: en
-- slug: senusret-iii-middle-kingdom
-  title: Senusret III and the Middle Kingdom Peak
-  url: /2001/12/01/senusret-iii-middle-kingdom/
-  category: leisure
-  image: /assets/images/blog/blog-45.webp
   lang: en
 ips-ifs-irs-career-path:
 - slug: ias-ips-ifs-irs-comparison
@@ -6595,17 +6595,17 @@ golden-age-egyptian-literature:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+- slug: new-kingdom-of-egypt-guide
+  title: 'The New Kingdom of Egypt: Complete Guide'
+  url: /2003/05/01/new-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
 - slug: senusret-iii-middle-kingdom
   title: Senusret III and the Middle Kingdom Peak
   url: /2001/12/01/senusret-iii-middle-kingdom/
   category: leisure
   image: /assets/images/blog/blog-45.webp
-  lang: en
-- slug: class-and-society-middle-kingdom
-  title: Class and Society in Middle Kingdom Egypt
-  url: /2002/03/01/class-and-society-middle-kingdom/
-  category: leisure
-  image: /assets/images/blog/blog-96.webp
   lang: en
 upsc-psir-vs-history:
 - slug: upsc-philosophy-vs-anthropology
@@ -6832,11 +6832,11 @@ middle-kingdom-administration-trade:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: senusret-iii-middle-kingdom
-  title: Senusret III and the Middle Kingdom Peak
-  url: /2001/12/01/senusret-iii-middle-kingdom/
+- slug: new-kingdom-of-egypt-guide
+  title: 'The New Kingdom of Egypt: Complete Guide'
+  url: /2003/05/01/new-kingdom-of-egypt-guide/
   category: leisure
-  image: /assets/images/blog/blog-45.webp
+  image: /assets/images/blog/blog-113.webp
   lang: en
 - slug: egypt-conquest-of-nubia
   title: How Egypt Conquered and Held Nubia
@@ -7438,11 +7438,11 @@ egypt-conquest-of-nubia:
   category: leisure
   image: /assets/images/blog/blog-85.webp
   lang: en
-- slug: old-kingdom-vs-middle-kingdom
-  title: Old Kingdom vs Middle Kingdom Egypt
-  url: /2002/06/01/old-kingdom-vs-middle-kingdom/
+- slug: thutmose-iii-egypt-napoleon
+  title: 'Thutmose III: Egypt''s Napoleon and Empire Builder'
+  url: /2003/07/01/thutmose-iii-egypt-napoleon/
   category: leisure
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-103.webp
   lang: en
 upsc-psir-optional-paper-2:
 - slug: upsc-psir-optional-guide
@@ -7857,6 +7857,12 @@ hyksos-second-intermediate-period:
   category: leisure
   image: /assets/images/blog/blog-99.webp
   lang: en
+- slug: how-hyksos-changed-egyptian-warfare
+  title: How the Hyksos Changed Egyptian Warfare
+  url: /2003/04/01/how-hyksos-changed-egyptian-warfare/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: war-that-drove-out-the-hyksos
   title: The War That Drove the Hyksos From Egypt
   url: /2002/10/01/war-that-drove-out-the-hyksos/
@@ -7868,12 +7874,6 @@ hyksos-second-intermediate-period:
   url: /2003/01/01/trade-networks-of-hyksos-egypt/
   category: leisure
   image: /assets/images/blog/blog-86.webp
-  lang: en
-- slug: chariot-and-bronze-age-egypt
-  title: The Chariot and Bronze Age Egypt
-  url: /2002/09/01/chariot-and-bronze-age-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-52.webp
   lang: en
 upsc-mains-static-vs-dynamic-content-balance:
 - slug: upsc-essay-current-affairs-policy-topics
@@ -8069,23 +8069,23 @@ how-hyksos-took-over-egypt:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: were-hyksos-invaders-or-immigrants
+  title: Were the Hyksos Invaders or Immigrants?
+  url: /2003/03/01/were-hyksos-invaders-or-immigrants/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: hyksos-second-intermediate-period
   title: The Hyksos and the Second Intermediate Age
   url: /2002/07/01/hyksos-second-intermediate-period/
   category: leisure
   image: /assets/images/blog/blog-113.webp
   lang: en
-- slug: turin-king-list-explained
-  title: What the Turin King List Tells Us
-  url: /2003/02/01/turin-king-list-explained/
+- slug: how-hyksos-changed-egyptian-warfare
+  title: How the Hyksos Changed Egyptian Warfare
+  url: /2003/04/01/how-hyksos-changed-egyptian-warfare/
   category: leisure
-  image: /assets/images/blog/blog-89.webp
-  lang: en
-- slug: foreign-rule-and-egyptian-identity
-  title: Foreign Rule and Egyptian Identity
-  url: /2002/12/01/foreign-rule-and-egyptian-identity/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
 upsc-mains-introduction-conclusion-techniques:
 - slug: upsc-mains-answer-writing-formats
@@ -8312,11 +8312,11 @@ hvac-needs-by-climate:
   category: industry
   image: /assets/images/blog/blog-66.webp
   lang: en
-- slug: hvac-maintenance-schedule
-  title: HVAC Maintenance Schedule for Every Season
-  url: /2002/07/01/hvac-maintenance-schedule/
+- slug: choosing-a-roofing-material
+  title: Choosing a Roofing Material for Your Home
+  url: /2005/06/15/choosing-a-roofing-material/
   category: industry
-  image: /assets/images/blog/blog-103.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 upsc-gs4-case-study-answer-writing:
 - slug: upsc-gs4-public-administration-ethics-case-studies
@@ -8506,23 +8506,29 @@ upsc-gs3-internal-security-mains-deep-dive:
   image: /assets/images/blog/blog-76.webp
   lang: en
 war-that-drove-out-the-hyksos:
+- slug: thutmose-iii-egypt-napoleon
+  title: 'Thutmose III: Egypt''s Napoleon and Empire Builder'
+  url: /2003/07/01/thutmose-iii-egypt-napoleon/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: battle-of-megiddo-egypt-empire
+  title: 'The Battle of Megiddo: Egypt''s Empire Begins'
+  url: /2003/08/01/battle-of-megiddo-egypt-empire/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: how-hyksos-changed-egyptian-warfare
+  title: How the Hyksos Changed Egyptian Warfare
+  url: /2003/04/01/how-hyksos-changed-egyptian-warfare/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: hyksos-second-intermediate-period
   title: The Hyksos and the Second Intermediate Age
   url: /2002/07/01/hyksos-second-intermediate-period/
   category: leisure
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: ahmose-i-founder-of-new-kingdom
-  title: 'Ahmose I: Founder of the New Kingdom'
-  url: /2002/11/01/ahmose-i-founder-of-new-kingdom/
-  category: leisure
-  image: /assets/images/blog/blog-67.webp
-  lang: en
-- slug: how-hyksos-took-over-egypt
-  title: How the Hyksos Took Over Ancient Egypt
-  url: /2002/08/01/how-hyksos-took-over-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-99.webp
   lang: en
 - slug: chariot-and-bronze-age-egypt
   title: The Chariot and Bronze Age Egypt
@@ -8712,23 +8718,23 @@ ahmose-i-founder-of-new-kingdom:
   category: leisure
   image: /assets/images/blog/blog-85.webp
   lang: en
-- slug: hyksos-second-intermediate-period
-  title: The Hyksos and the Second Intermediate Age
-  url: /2002/07/01/hyksos-second-intermediate-period/
+- slug: thutmose-iii-egypt-napoleon
+  title: 'Thutmose III: Egypt''s Napoleon and Empire Builder'
+  url: /2003/07/01/thutmose-iii-egypt-napoleon/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: battle-of-megiddo-egypt-empire
+  title: 'The Battle of Megiddo: Egypt''s Empire Begins'
+  url: /2003/08/01/battle-of-megiddo-egypt-empire/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: new-kingdom-of-egypt-guide
+  title: 'The New Kingdom of Egypt: Complete Guide'
+  url: /2003/05/01/new-kingdom-of-egypt-guide/
   category: leisure
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: middle-kingdom-administration-trade
-  title: Administration and Trade in the Middle Kingdom
-  url: /2002/02/01/middle-kingdom-administration-trade/
-  category: leisure
-  image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: old-kingdom-of-egypt-complete-guide
-  title: 'The Old Kingdom of Egypt: Complete Guide'
-  url: /2000/11/01/old-kingdom-of-egypt-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-86.webp
   lang: en
 hvac-scams-to-avoid:
 - slug: hvac-cost-guide
@@ -8918,17 +8924,17 @@ foreign-rule-and-egyptian-identity:
   category: leisure
   image: /assets/images/blog/blog-89.webp
   lang: en
+- slug: were-hyksos-invaders-or-immigrants
+  title: Were the Hyksos Invaders or Immigrants?
+  url: /2003/03/01/were-hyksos-invaders-or-immigrants/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: how-hyksos-took-over-egypt
   title: How the Hyksos Took Over Ancient Egypt
   url: /2002/08/01/how-hyksos-took-over-egypt/
   category: leisure
   image: /assets/images/blog/blog-99.webp
-  lang: en
-- slug: how-we-know-about-predynastic-egypt
-  title: How We Know About Predynastic Egypt
-  url: /2000/09/01/how-we-know-about-predynastic-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-61.webp
   lang: en
 upsc-gs1-indian-history-ancient-modern-mains:
 - slug: upsc-mains-gs-paper-1-heritage-history-geography-society
@@ -9143,6 +9149,12 @@ trade-networks-of-hyksos-egypt:
   category: leisure
   image: /assets/images/blog/blog-99.webp
   lang: en
+- slug: were-hyksos-invaders-or-immigrants
+  title: Were the Hyksos Invaders or Immigrants?
+  url: /2003/03/01/were-hyksos-invaders-or-immigrants/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: foreign-rule-and-egyptian-identity
   title: Foreign Rule and Egyptian Identity
   url: /2002/12/01/foreign-rule-and-egyptian-identity/
@@ -9154,12 +9166,6 @@ trade-networks-of-hyksos-egypt:
   url: /2003/02/01/turin-king-list-explained/
   category: leisure
   image: /assets/images/blog/blog-89.webp
-  lang: en
-- slug: hyksos-second-intermediate-period
-  title: The Hyksos and the Second Intermediate Age
-  url: /2002/07/01/hyksos-second-intermediate-period/
-  category: leisure
-  image: /assets/images/blog/blog-113.webp
   lang: en
 upsc-prelims-maps-geography:
 - slug: upsc-prelims-complete-guide
@@ -9349,6 +9355,12 @@ turin-king-list-explained:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
+- slug: were-hyksos-invaders-or-immigrants
+  title: Were the Hyksos Invaders or Immigrants?
+  url: /2003/03/01/were-hyksos-invaders-or-immigrants/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: trade-networks-of-hyksos-egypt
   title: Trade Networks of the Hyksos Period
   url: /2003/01/01/trade-networks-of-hyksos-egypt/
@@ -9360,12 +9372,6 @@ turin-king-list-explained:
   url: /2002/08/01/how-hyksos-took-over-egypt/
   category: leisure
   image: /assets/images/blog/blog-99.webp
-  lang: en
-- slug: hyksos-second-intermediate-period
-  title: The Hyksos and the Second Intermediate Age
-  url: /2002/07/01/hyksos-second-intermediate-period/
-  category: leisure
-  image: /assets/images/blog/blog-113.webp
   lang: en
 upsc-prelims-time-management:
 - slug: upsc-prelims-complete-guide
@@ -9541,6 +9547,31 @@ upsc-csat-paper-2-complete-guide:
   url: /2003/02/12/upsc-csat-logical-reasoning/
   category: industry
   image: /assets/images/blog/blog-58.webp
+  lang: en
+were-hyksos-invaders-or-immigrants:
+- slug: how-hyksos-took-over-egypt
+  title: How the Hyksos Took Over Ancient Egypt
+  url: /2002/08/01/how-hyksos-took-over-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: trade-networks-of-hyksos-egypt
+  title: Trade Networks of the Hyksos Period
+  url: /2003/01/01/trade-networks-of-hyksos-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: foreign-rule-and-egyptian-identity
+  title: Foreign Rule and Egyptian Identity
+  url: /2002/12/01/foreign-rule-and-egyptian-identity/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: turin-king-list-explained
+  title: What the Turin King List Tells Us
+  url: /2003/02/01/turin-king-list-explained/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
   lang: en
 upsc-prelims-current-affairs-strategy:
 - slug: upsc-prelims-science-technology-strategy
@@ -9722,6 +9753,31 @@ upsc-prelims-topic-wise-weightage:
   url: /2003/03/06/upsc-prelims-science-technology-strategy/
   category: industry
   image: /assets/images/blog/blog-46.webp
+  lang: en
+how-hyksos-changed-egyptian-warfare:
+- slug: hyksos-second-intermediate-period
+  title: The Hyksos and the Second Intermediate Age
+  url: /2002/07/01/hyksos-second-intermediate-period/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: how-hyksos-took-over-egypt
+  title: How the Hyksos Took Over Ancient Egypt
+  url: /2002/08/01/how-hyksos-took-over-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: war-that-drove-out-the-hyksos
+  title: The War That Drove the Hyksos From Egypt
+  url: /2002/10/01/war-that-drove-out-the-hyksos/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: were-hyksos-invaders-or-immigrants
+  title: Were the Hyksos Invaders or Immigrants?
+  url: /2003/03/01/were-hyksos-invaders-or-immigrants/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
   lang: en
 upsc-prelims-complete-guide:
 - slug: upsc-csat-paper-2-complete-guide
@@ -9935,6 +9991,31 @@ upsc-result-merit-list:
   category: industry
   image: /assets/images/blog/blog-40.webp
   lang: en
+new-kingdom-of-egypt-guide:
+- slug: middle-kingdom-of-egypt-guide
+  title: 'The Middle Kingdom of Egypt: Complete Guide'
+  url: /2001/09/01/middle-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: hatshepsut-female-pharaoh-of-egypt
+  title: 'Hatshepsut: Egypt''s Great Female Pharaoh'
+  url: /2003/06/01/hatshepsut-female-pharaoh-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: middle-kingdom-administration-trade
+  title: Administration and Trade in the Middle Kingdom
+  url: /2002/02/01/middle-kingdom-administration-trade/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 upsc-notification-dates-vacancies:
 - slug: upsc-vs-gate-cat
   title: 'UPSC vs GATE vs CAT: Choosing Your Exam'
@@ -10109,6 +10190,31 @@ upsc-optional-subject-selection:
   url: /2002/02/12/upsc-agriculture-optional/
   category: industry
   image: /assets/images/blog/blog-14.webp
+  lang: en
+hatshepsut-female-pharaoh-of-egypt:
+- slug: new-kingdom-of-egypt-guide
+  title: 'The New Kingdom of Egypt: Complete Guide'
+  url: /2003/05/01/new-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: egypt-collapse-and-reunification
+  title: Egypt's First Collapse and Reunification
+  url: /2001/10/01/egypt-collapse-and-reunification/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: thutmose-iii-egypt-napoleon
+  title: 'Thutmose III: Egypt''s Napoleon and Empire Builder'
+  url: /2003/07/01/thutmose-iii-egypt-napoleon/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: why-the-old-kingdom-collapsed
+  title: Why the Old Kingdom of Egypt Collapsed
+  url: /2001/08/01/why-the-old-kingdom-collapsed/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 upsc-toppers-strategy:
 - slug: upsc-current-affairs-strategy
@@ -10285,6 +10391,31 @@ upsc-booklist:
   category: industry
   image: /assets/images/blog/blog-28.webp
   lang: en
+thutmose-iii-egypt-napoleon:
+- slug: war-that-drove-out-the-hyksos
+  title: The War That Drove the Hyksos From Egypt
+  url: /2002/10/01/war-that-drove-out-the-hyksos/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: battle-of-megiddo-egypt-empire
+  title: 'The Battle of Megiddo: Egypt''s Empire Begins'
+  url: /2003/08/01/battle-of-megiddo-egypt-empire/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: ahmose-i-founder-of-new-kingdom
+  title: 'Ahmose I: Founder of the New Kingdom'
+  url: /2002/11/01/ahmose-i-founder-of-new-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: new-kingdom-of-egypt-guide
+  title: 'The New Kingdom of Egypt: Complete Guide'
+  url: /2003/05/01/new-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
 upsc-study-plan-12-18-24-months:
 - slug: upsc-vs-mba-corporate
   title: 'UPSC vs MBA vs Corporate: Career Decision Framework'
@@ -10441,6 +10572,31 @@ upsc-civil-services-complete-guide:
   category: industry
   image: /assets/images/blog/blog-24.webp
   lang: en
+battle-of-megiddo-egypt-empire:
+- slug: thutmose-iii-egypt-napoleon
+  title: 'Thutmose III: Egypt''s Napoleon and Empire Builder'
+  url: /2003/07/01/thutmose-iii-egypt-napoleon/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: war-that-drove-out-the-hyksos
+  title: The War That Drove the Hyksos From Egypt
+  url: /2002/10/01/war-that-drove-out-the-hyksos/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: ahmose-i-founder-of-new-kingdom
+  title: 'Ahmose I: Founder of the New Kingdom'
+  url: /2002/11/01/ahmose-i-founder-of-new-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: hatshepsut-female-pharaoh-of-egypt
+  title: 'Hatshepsut: Egypt''s Great Female Pharaoh'
+  url: /2003/06/01/hatshepsut-female-pharaoh-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
+  lang: en
 electrical-warning-signs:
 - slug: electrical-emergency-what-to-do
   title: 'Electrical Emergencies: What to Do Right Now'
@@ -10464,6 +10620,56 @@ electrical-warning-signs:
   title: AC and Furnace Warning Signs to Watch For
   url: /2002/01/15/hvac-warning-signs/
   category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+temple-of-karnak-at-thebes:
+- slug: amun-ra-and-the-priesthood
+  title: Amun-Ra and the Power of the Priesthood
+  url: /2003/10/01/amun-ra-and-the-priesthood/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: osiris-abydos-cult-of-the-dead
+  title: Osiris, Abydos, and the Cult of the Dead
+  url: /2002/04/01/osiris-abydos-cult-of-the-dead/
+  category: leisure
+  image: /assets/images/blog/blog-17.webp
+  lang: en
+- slug: first-gods-of-ancient-egypt
+  title: The First Gods of Ancient Egypt
+  url: /2000/06/01/first-gods-of-ancient-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: life-of-the-pyramid-builders
+  title: The Life of the Pyramid Builders
+  url: /2001/06/01/life-of-the-pyramid-builders/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+amun-ra-and-the-priesthood:
+- slug: new-kingdom-of-egypt-guide
+  title: 'The New Kingdom of Egypt: Complete Guide'
+  url: /2003/05/01/new-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: ahmose-i-founder-of-new-kingdom
+  title: 'Ahmose I: Founder of the New Kingdom'
+  url: /2002/11/01/ahmose-i-founder-of-new-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: temple-of-karnak-at-thebes
+  title: Inside the Temple of Karnak at Thebes
+  url: /2003/09/01/temple-of-karnak-at-thebes/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: pyramids-death-and-the-afterlife
+  title: Pyramids, Death, and the Egyptian Afterlife
+  url: /2001/05/01/pyramids-death-and-the-afterlife/
+  category: leisure
   image: /assets/images/blog/blog-78.webp
   lang: en
 electrical-diy-or-call-a-pro:
@@ -10740,6 +10946,31 @@ repair-or-replace-your-roof:
   url: /2005/01/01/how-to-vet-a-roofer/
   category: industry
   image: /assets/images/blog/blog-16.webp
+  lang: en
+choosing-a-roofing-material:
+- slug: choosing-an-hvac-system
+  title: 'Choosing an HVAC System: Sizing and Types'
+  url: /2002/05/15/choosing-an-hvac-system/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: hvac-needs-by-climate
+  title: 'HVAC Needs by Climate: Hot, Cold and Humid'
+  url: /2002/09/01/hvac-needs-by-climate/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: roofing-cost-guide
+  title: 'Roofing Cost Guide: Repair and Replacement'
+  url: /2004/11/01/roofing-cost-guide/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: repair-or-replace-your-roof
+  title: 'Repair or Replace Your Roof: How to Decide'
+  url: /2005/04/15/repair-or-replace-your-roof/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
   lang: en
 case-blue-hitler-summer-1942-caucasus:
 - slug: stalingrad-hitler-no-retreat-order-november-1942
@@ -49346,6 +49577,31 @@ american-psycho-bale-yuppie-satire:
   category: leisure
   image: /assets/images/blog/blog-98.webp
   lang: en
+stopping-elite-strikers-complete-guide:
+- slug: how-to-stop-erling-haaland
+  title: How to Stop Erling Haaland
+  url: /2020/01/15/how-to-stop-erling-haaland/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: how-to-stop-julian-alvarez
+  title: How to Stop Julian Alvarez
+  url: /2020/05/01/how-to-stop-julian-alvarez/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: how-to-stop-kylian-mbappe
+  title: How to Stop Kylian Mbappe
+  url: /2020/02/15/how-to-stop-kylian-mbappe/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: how-to-stop-victor-osimhen
+  title: How to Stop Victor Osimhen
+  url: /2020/04/15/how-to-stop-victor-osimhen/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 tcs-accommodation-hyderabad:
 - slug: tcs-accommodation-kolkata
   title: TCS Accommodation Kolkata - Complete Hostel and Housing Guide
@@ -49421,6 +49677,31 @@ tcs-nqt-exam-date:
   category: industry
   image: /assets/images/blog/blog-02.webp
   lang: en
+how-to-stop-erling-haaland:
+- slug: erling-haaland-weaknesses-explained
+  title: Erling Haaland's Weaknesses Explained
+  url: /2020/02/01/erling-haaland-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-117.webp
+  lang: en
+- slug: haaland-vs-mbappe-harder-to-defend
+  title: 'Haaland or Mbappe: Who Is Harder to Defend'
+  url: /2020/05/15/haaland-vs-mbappe-harder-to-defend/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: how-to-stop-julian-alvarez
+  title: How to Stop Julian Alvarez
+  url: /2020/05/01/how-to-stop-julian-alvarez/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: how-to-stop-kylian-mbappe
+  title: How to Stop Kylian Mbappe
+  url: /2020/02/15/how-to-stop-kylian-mbappe/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
 truman-show-surveillance-reality-media:
 - slug: sullivans-travels-preston-sturges
   title: Sullivan's Travels and the Sturges Tonal Swerve
@@ -49495,6 +49776,31 @@ sat-preparation-mistakes-that-cost-100-points:
   url: /1996/12/16/sat-rw-common-mistakes/
   category: industry
   image: /assets/images/blog/blog-101.webp
+  lang: en
+erling-haaland-weaknesses-explained:
+- slug: how-to-stop-erling-haaland
+  title: How to Stop Erling Haaland
+  url: /2020/01/15/how-to-stop-erling-haaland/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: lionel-messi-weaknesses-explained
+  title: Lionel Messi's Weaknesses Explained
+  url: /2020/07/01/lionel-messi-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: lionel-messi-tactical-profile
+  title: 'Lionel Messi: The Complete Tactical Profile'
+  url: /2020/06/01/lionel-messi-tactical-profile/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: kylian-mbappe-weaknesses-explained
+  title: Kylian Mbappe's Weaknesses Explained
+  url: /2020/03/01/kylian-mbappe-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
   lang: en
 psat-to-sat-preparation-pathway-guide:
 - slug: digital-sat-vs-paper-sat-compared
@@ -49596,6 +49902,31 @@ crouching-tiger-wuxia-global-crossover:
   category: leisure
   image: /assets/images/blog/blog-78.webp
   lang: en
+how-to-stop-kylian-mbappe:
+- slug: kylian-mbappe-weaknesses-explained
+  title: Kylian Mbappe's Weaknesses Explained
+  url: /2020/03/01/kylian-mbappe-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: how-to-stop-victor-osimhen
+  title: How to Stop Victor Osimhen
+  url: /2020/04/15/how-to-stop-victor-osimhen/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: how-to-stop-erling-haaland
+  title: How to Stop Erling Haaland
+  url: /2020/01/15/how-to-stop-erling-haaland/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: haaland-vs-mbappe-harder-to-defend
+  title: 'Haaland or Mbappe: Who Is Harder to Defend'
+  url: /2020/05/15/haaland-vs-mbappe-harder-to-defend/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
 sat-data-interpretation-reading-passages-guide:
 - slug: sat-quantitative-data-passages
   title: 'SAT Reading: Tables and Graphs in Passages'
@@ -49670,6 +50001,31 @@ sat-transitions-logical-flow-questions-guide:
   url: /1997/01/25/sat-rw-hardest-question-types/
   category: industry
   image: /assets/images/blog/blog-103.webp
+  lang: en
+kylian-mbappe-weaknesses-explained:
+- slug: how-to-stop-kylian-mbappe
+  title: How to Stop Kylian Mbappe
+  url: /2020/02/15/how-to-stop-kylian-mbappe/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: lionel-messi-weaknesses-explained
+  title: Lionel Messi's Weaknesses Explained
+  url: /2020/07/01/lionel-messi-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: haaland-vs-mbappe-harder-to-defend
+  title: 'Haaland or Mbappe: Who Is Harder to Defend'
+  url: /2020/05/15/haaland-vs-mbappe-harder-to-defend/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: erling-haaland-weaknesses-explained
+  title: Erling Haaland's Weaknesses Explained
+  url: /2020/02/01/erling-haaland-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-117.webp
   lang: en
 spirited-away-miyazaki-ghibli-influence:
 - slug: beauty-and-the-beast-disney-renaissance
@@ -49771,6 +50127,31 @@ amelie-jeunet-french-global-crossover:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+how-to-stop-harry-kane:
+- slug: how-to-stop-lionel-messi
+  title: How to Stop Lionel Messi
+  url: /2020/06/15/how-to-stop-lionel-messi/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: how-to-stop-robert-lewandowski
+  title: How to Stop Robert Lewandowski
+  url: /2020/04/01/how-to-stop-robert-lewandowski/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: how-to-stop-erling-haaland
+  title: How to Stop Erling Haaland
+  url: /2020/01/15/how-to-stop-erling-haaland/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: how-to-stop-victor-osimhen
+  title: How to Stop Victor Osimhen
+  url: /2020/04/15/how-to-stop-victor-osimhen/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 tcs-nqt-registration-last-date:
 - slug: tcs-nqt-registration-guide
   title: 'TCS NQT Registration: Zero-Error Guide'
@@ -49845,6 +50226,31 @@ sat-ratios-percentages-proportions-guide:
   url: /1997/04/30/sat-math-margin-of-error-confidence/
   category: industry
   image: /assets/images/blog/blog-85.webp
+  lang: en
+how-to-stop-robert-lewandowski:
+- slug: how-to-stop-lionel-messi
+  title: How to Stop Lionel Messi
+  url: /2020/06/15/how-to-stop-lionel-messi/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: how-to-stop-harry-kane
+  title: How to Stop Harry Kane
+  url: /2020/03/15/how-to-stop-harry-kane/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: how-to-stop-kylian-mbappe
+  title: How to Stop Kylian Mbappe
+  url: /2020/02/15/how-to-stop-kylian-mbappe/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: how-to-stop-erling-haaland
+  title: How to Stop Erling Haaland
+  url: /2020/01/15/how-to-stop-erling-haaland/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
   lang: en
 no-country-for-old-men-fate-ending:
 - slug: fargo-coen-brothers-crime-comedy
@@ -49952,6 +50358,31 @@ sat-quadratic-functions-equations-complete-guide:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: en
+how-to-stop-victor-osimhen:
+- slug: how-to-stop-julian-alvarez
+  title: How to Stop Julian Alvarez
+  url: /2020/05/01/how-to-stop-julian-alvarez/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: how-to-stop-kylian-mbappe
+  title: How to Stop Kylian Mbappe
+  url: /2020/02/15/how-to-stop-kylian-mbappe/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: how-to-stop-erling-haaland
+  title: How to Stop Erling Haaland
+  url: /2020/01/15/how-to-stop-erling-haaland/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: stopping-elite-strikers-complete-guide
+  title: 'Stopping Elite Strikers: The Complete Guide'
+  url: /2020/01/01/stopping-elite-strikers-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
 lost-in-translation-sofia-coppola-mood:
 - slug: whiplash-simmons-mentor-performance
   title: 'Whiplash: J.K. Simmons Builds a Magnetic Monster'
@@ -50026,6 +50457,31 @@ sat-college-board-question-bank-strategy:
   url: /1997/05/22/sat-math-hardest-question-types/
   category: industry
   image: /assets/images/blog/blog-76.webp
+  lang: en
+how-to-stop-julian-alvarez:
+- slug: how-to-stop-victor-osimhen
+  title: How to Stop Victor Osimhen
+  url: /2020/04/15/how-to-stop-victor-osimhen/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: how-to-stop-erling-haaland
+  title: How to Stop Erling Haaland
+  url: /2020/01/15/how-to-stop-erling-haaland/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: how-to-stop-kylian-mbappe
+  title: How to Stop Kylian Mbappe
+  url: /2020/02/15/how-to-stop-kylian-mbappe/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: stopping-elite-strikers-complete-guide
+  title: 'Stopping Elite Strikers: The Complete Guide'
+  url: /2020/01/01/stopping-elite-strikers-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
   lang: en
 mystic-river-million-dollar-baby-eastwood:
 - slug: tree-of-life-malick-auteur-summit
@@ -50127,6 +50583,31 @@ gangs-of-new-york-scorsese-production:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
+haaland-vs-mbappe-harder-to-defend:
+- slug: how-to-stop-erling-haaland
+  title: How to Stop Erling Haaland
+  url: /2020/01/15/how-to-stop-erling-haaland/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: how-to-stop-kylian-mbappe
+  title: How to Stop Kylian Mbappe
+  url: /2020/02/15/how-to-stop-kylian-mbappe/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: kylian-mbappe-weaknesses-explained
+  title: Kylian Mbappe's Weaknesses Explained
+  url: /2020/03/01/kylian-mbappe-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: erling-haaland-weaknesses-explained
+  title: Erling Haaland's Weaknesses Explained
+  url: /2020/02/01/erling-haaland-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-117.webp
+  lang: en
 is-tcs-nqt-exam-free:
 - slug: tcs-nqt-registration-last-date
   title: TCS NQT Registration Deadlines Guide
@@ -50202,6 +50683,37 @@ sat-practice-test-strategy-guide:
   category: industry
   image: /assets/images/blog/blog-18.webp
   lang: en
+lionel-messi-tactical-profile:
+- slug: lionel-messi-weaknesses-explained
+  title: Lionel Messi's Weaknesses Explained
+  url: /2020/07/01/lionel-messi-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: defenders-who-stopped-messi
+  title: The Defenders Who Stopped Messi Best
+  url: /2020/07/15/defenders-who-stopped-messi/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: how-to-stop-lionel-messi
+  title: How to Stop Lionel Messi
+  url: /2020/06/15/how-to-stop-lionel-messi/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: erling-haaland-weaknesses-explained
+  title: Erling Haaland's Weaknesses Explained
+  url: /2020/02/01/erling-haaland-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-117.webp
+  lang: en
+- slug: cristiano-ronaldo-tactical-profile
+  title: 'Cristiano Ronaldo: The Complete Profile'
+  url: /2020/08/01/cristiano-ronaldo-tactical-profile/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
 there-will-be-blood-pta-day-lewis:
 - slug: boogie-nights-pta-long-take-craft
   title: 'Boogie Nights: The Long Take That Announced a Director'
@@ -50276,6 +50788,31 @@ is-tcs-nqt-easy:
   url: /2021/05/12/what-is-the-passing-marks-of-tcs-nqt/
   category: industry
   image: /assets/images/blog/blog-46.webp
+  lang: en
+how-to-stop-lionel-messi:
+- slug: defenders-who-stopped-messi
+  title: The Defenders Who Stopped Messi Best
+  url: /2020/07/15/defenders-who-stopped-messi/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: lionel-messi-weaknesses-explained
+  title: Lionel Messi's Weaknesses Explained
+  url: /2020/07/01/lionel-messi-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: lionel-messi-tactical-profile
+  title: 'Lionel Messi: The Complete Tactical Profile'
+  url: /2020/06/01/lionel-messi-tactical-profile/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: how-to-stop-victor-osimhen
+  title: How to Stop Victor Osimhen
+  url: /2020/04/15/how-to-stop-victor-osimhen/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
   lang: en
 the-departed-scorsese-crime-remake:
 - slug: heat-casino-1995-crime-epics
@@ -50389,6 +50926,31 @@ children-of-men-cuaron-long-take:
   category: leisure
   image: /assets/images/blog/blog-14.webp
   lang: en
+lionel-messi-weaknesses-explained:
+- slug: lionel-messi-tactical-profile
+  title: 'Lionel Messi: The Complete Tactical Profile'
+  url: /2020/06/01/lionel-messi-tactical-profile/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: erling-haaland-weaknesses-explained
+  title: Erling Haaland's Weaknesses Explained
+  url: /2020/02/01/erling-haaland-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-117.webp
+  lang: en
+- slug: defenders-who-stopped-messi
+  title: The Defenders Who Stopped Messi Best
+  url: /2020/07/15/defenders-who-stopped-messi/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: how-to-stop-lionel-messi
+  title: How to Stop Lionel Messi
+  url: /2020/06/15/how-to-stop-lionel-messi/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 sat-scores-for-merit-scholarships:
 - slug: sat-financial-aid-scholarships
   title: SAT Scores and Financial Aid
@@ -50463,6 +51025,31 @@ interacting-with-enhanced-data-interpretations:
   url: /2022/12/26/tableau-certified-data-analyst-salary/
   category: analytics
   image: /assets/images/blog/blog-45.webp
+  lang: en
+defenders-who-stopped-messi:
+- slug: how-to-stop-lionel-messi
+  title: How to Stop Lionel Messi
+  url: /2020/06/15/how-to-stop-lionel-messi/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: lionel-messi-weaknesses-explained
+  title: Lionel Messi's Weaknesses Explained
+  url: /2020/07/01/lionel-messi-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: lionel-messi-tactical-profile
+  title: 'Lionel Messi: The Complete Tactical Profile'
+  url: /2020/06/01/lionel-messi-tactical-profile/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: how-to-stop-kylian-mbappe
+  title: How to Stop Kylian Mbappe
+  url: /2020/02/15/how-to-stop-kylian-mbappe/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
   lang: en
 eternal-sunshine-kaufman-memory-structure:
 - slug: rashomon-kurosawa-rashomon-effect
@@ -50563,6 +51150,31 @@ capote-hoffman-performance:
   url: /2020/11/01/the-social-network-digital-age-themes/
   category: leisure
   image: /assets/images/blog/blog-104.webp
+  lang: en
+cristiano-ronaldo-tactical-profile:
+- slug: lionel-messi-tactical-profile
+  title: 'Lionel Messi: The Complete Tactical Profile'
+  url: /2020/06/01/lionel-messi-tactical-profile/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: how-to-stop-robert-lewandowski
+  title: How to Stop Robert Lewandowski
+  url: /2020/04/01/how-to-stop-robert-lewandowski/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: lionel-messi-weaknesses-explained
+  title: Lionel Messi's Weaknesses Explained
+  url: /2020/07/01/lionel-messi-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: erling-haaland-weaknesses-explained
+  title: Erling Haaland's Weaknesses Explained
+  url: /2020/02/01/erling-haaland-weaknesses-explained/
+  category: leisure
+  image: /assets/images/blog/blog-117.webp
   lang: en
 sat-guide-for-parents:
 - slug: sat-for-parents-complete-guide
@@ -53855,11 +54467,11 @@ great-gatsby-great-american-novel:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
-- slug: great-gatsby-genre-form-style
-  title: 'The Great Gatsby: Genre, Form, and Style'
-  url: /2022/03/21/great-gatsby-genre-form-style/
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-34.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 romeo-and-juliet-timeline-five-days:
 - slug: juliet-death-tomb-dagger-analysis
@@ -55379,6 +55991,12 @@ great-gatsby-ending-explained:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: gatsby-dialogue-technique
   title: Dialogue and Speech in The Great Gatsby
   url: /2026/05/04/gatsby-dialogue-technique/
@@ -55390,12 +56008,6 @@ great-gatsby-ending-explained:
   url: /2026/08/03/gatsby-modernist-technique/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: great-gatsby-genre-form-style
-  title: 'The Great Gatsby: Genre, Form, and Style'
-  url: /2022/03/21/great-gatsby-genre-form-style/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
   lang: en
 romeo-petrarchan-language-transformation:
 - slug: romeo-rosaline-infatuation-before-juliet
@@ -55710,23 +56322,23 @@ great-gatsby-misreadings-corrected:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 - slug: great-gatsby-genre-form-style
   title: 'The Great Gatsby: Genre, Form, and Style'
   url: /2022/03/21/great-gatsby-genre-form-style/
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: gatsby-east-and-west
-  title: 'Geography as Theme: East and West in Gatsby'
-  url: /2024/10/28/gatsby-east-and-west/
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-97.webp
-  lang: en
-- slug: american-dream-great-gatsby
-  title: The American Dream in The Great Gatsby
-  url: /2024/04/22/american-dream-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 romeo-final-speech-tomb-analysis:
 - slug: juliet-death-tomb-dagger-analysis
@@ -57189,6 +57801,12 @@ great-gatsby-chapter-6-analysis:
   url: /2023/01/23/great-gatsby-two-parties-compared/
   category: leisure
   image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: self-invention-great-gatsby
+  title: Self-Invention and Reinvention in Gatsby
+  url: /2024/07/15/self-invention-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
   lang: en
 friar-laurence-character-analysis:
 - slug: friar-laurence-plan-failure-analysis
@@ -59244,6 +59862,12 @@ great-gatsby-guest-list-passage:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: great-gatsby-opening-explained
   title: The Great Gatsby Opening Explained
   url: /2022/05/30/great-gatsby-opening-explained/
@@ -59255,12 +59879,6 @@ great-gatsby-guest-list-passage:
   url: /2025/02/10/gatsby-reserving-judgment/
   category: leisure
   image: /assets/images/blog/blog-27.webp
-  lang: en
-- slug: great-gatsby-ending-explained
-  title: The Great Gatsby Ending Explained
-  url: /2022/05/23/great-gatsby-ending-explained/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
   lang: en
 demystifying-tableau-certification-your-questions-answered:
 - slug: tableau-certification-exams-how-to-prepare-like-a-pro
@@ -59394,6 +60012,12 @@ great-gatsby-pool-scene-reading:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 - slug: great-gatsby-chapter-6-analysis
   title: 'Great Gatsby Chapter 6: Summary and Analysis'
   url: /2022/10/10/great-gatsby-chapter-6-analysis/
@@ -59405,12 +60029,6 @@ great-gatsby-pool-scene-reading:
   url: /2024/06/24/gatsby-repeat-the-past/
   category: leisure
   image: /assets/images/blog/blog-108.webp
-  lang: en
-- slug: dreams-cost-great-gatsby
-  title: Dreams and Their Cost in The Great Gatsby
-  url: /2025/01/27/dreams-cost-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
   lang: en
 gaokao-scoring-rubrics:
 - slug: sat-vs-gaokao-us-china-admissions
@@ -63888,17 +64506,17 @@ gatsby-and-tom-foils:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: feminist-reading-great-gatsby
+  title: A Feminist Reading of The Great Gatsby
+  url: /2027/08/09/feminist-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
 - slug: who-dies-in-great-gatsby
   title: Who Dies in The Great Gatsby and Why
   url: /2024/04/01/who-dies-in-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: gatsby-antagonist
-  title: Who Is the Antagonist in The Great Gatsby?
-  url: /2024/02/05/gatsby-antagonist/
-  category: leisure
-  image: /assets/images/blog/blog-82.webp
   lang: en
 gaokao-tongji-admission-guide:
 - slug: gaokao-nankai-admission-guide
@@ -64637,17 +65255,17 @@ gatsby-tragic-hero:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: gatsby-character-motivation
-  title: Character Motivation in The Great Gatsby
-  url: /2024/02/26/gatsby-character-motivation/
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-54.webp
+  image: /assets/images/blog/blog-45.webp
   lang: en
-- slug: gatsby-vagueness-mystery
-  title: Vagueness and Mystery as Technique in Gatsby
-  url: /2026/10/05/gatsby-vagueness-mystery/
+- slug: gatsby-freudian-desire
+  title: Gatsby's Desire Through a Freudian Lens
+  url: /2027/08/30/gatsby-freudian-desire/
   category: leisure
-  image: /assets/images/blog/blog-114.webp
+  image: /assets/images/blog/blog-31.webp
   lang: en
 securing-aks-clusters-guide:
 - slug: configure-aks-workload-identity
@@ -65792,17 +66410,17 @@ gatsby-critique-american-dream:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: great-gatsby-ending-explained
   title: The Great Gatsby Ending Explained
   url: /2022/05/23/great-gatsby-ending-explained/
   category: leisure
   image: /assets/images/blog/blog-06.webp
-  lang: en
-- slug: race-whiteness-great-gatsby
-  title: Race and Whiteness in The Great Gatsby
-  url: /2024/11/18/race-whiteness-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-11.webp
   lang: en
 gaokao-ancient-chinese-history:
 - slug: gaokao-modern-chinese-history
@@ -66298,6 +66916,12 @@ obsession-idealization-gatsby:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 - slug: great-gatsby-chapter-8-past
   title: 'Great Gatsby Chapter 8: Gatsby and Daisy''s Past'
   url: /2022/12/05/great-gatsby-chapter-8-past/
@@ -66309,12 +66933,6 @@ obsession-idealization-gatsby:
   url: /2025/10/27/gatsby-faces-smiles-imagery/
   category: leisure
   image: /assets/images/blog/blog-60.webp
-  lang: en
-- slug: great-gatsby-chapter-6-analysis
-  title: 'Great Gatsby Chapter 6: Summary and Analysis'
-  url: /2022/10/10/great-gatsby-chapter-6-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-108.webp
   lang: en
 hackwithinfy-preparation-complete-guide:
 - slug: hackwithinfy-preparation
@@ -66535,17 +67153,17 @@ gatsby-repeat-the-past:
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 - slug: great-gatsby-pool-scene-reading
   title: 'Great Gatsby: The Pool Scene Close Reading'
   url: /2023/02/13/great-gatsby-pool-scene-reading/
   category: leisure
   image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: ambition-great-gatsby
-  title: Ambition and Aspiration in The Great Gatsby
-  url: /2024/12/16/ambition-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-114.webp
   lang: en
 upsc-success-kannada:
 - slug: upsc-tayari-hege-prarambhisuvudu
@@ -66621,6 +67239,12 @@ illusion-reality-great-gatsby:
   url: /2025/03/17/gatsby-eyes-seeing-motif/
   category: leisure
   image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: gatsby-past-and-time
+  title: The Past and the Repetition of Time in Gatsby
+  url: /2024/06/17/gatsby-past-and-time/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
   lang: en
 gaokao-physics-modern:
 - slug: gaokao-physics-experiments
@@ -66804,6 +67428,12 @@ azure-idempotency-patterns:
   image: /assets/images/blog/blog-47.webp
   lang: en
 self-invention-great-gatsby:
+- slug: great-gatsby-chapter-6-analysis
+  title: 'Great Gatsby Chapter 6: Summary and Analysis'
+  url: /2022/10/10/great-gatsby-chapter-6-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
 - slug: dreams-cost-great-gatsby
   title: Dreams and Their Cost in The Great Gatsby
   url: /2025/01/27/dreams-cost-great-gatsby/
@@ -66821,12 +67451,6 @@ self-invention-great-gatsby:
   url: /2023/02/13/great-gatsby-pool-scene-reading/
   category: leisure
   image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: ambition-great-gatsby
-  title: Ambition and Aspiration in The Great Gatsby
-  url: /2024/12/16/ambition-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-114.webp
   lang: en
 upsc-success-kerala-malayalam:
 - slug: upsc-thayareduppu-engane-thudangam
@@ -67740,17 +68364,17 @@ loneliness-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: class-anxiety-great-gatsby
-  title: Class Anxiety in The Great Gatsby
-  url: /2025/02/03/class-anxiety-great-gatsby/
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-09.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
-- slug: innocence-experience-gatsby
-  title: Innocence and Experience in The Great Gatsby
-  url: /2024/12/30/innocence-experience-gatsby/
+- slug: dreams-cost-great-gatsby
+  title: Dreams and Their Cost in The Great Gatsby
+  url: /2025/01/27/dreams-cost-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-79.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
 upsc-mains-essay-hindi-guide:
 - slug: upsc-hindi-medium-success
@@ -67896,17 +68520,17 @@ honesty-dishonesty-gatsby:
   category: leisure
   image: /assets/images/blog/blog-43.webp
   lang: en
+- slug: feminist-reading-great-gatsby
+  title: A Feminist Reading of The Great Gatsby
+  url: /2027/08/09/feminist-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
 - slug: great-gatsby-study-guide-deeper
   title: 'The Great Gatsby: A Study Guide That Goes Deeper'
   url: /2022/05/02/great-gatsby-study-guide-deeper/
   category: leisure
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: gatsby-past-and-time
-  title: The Past and the Repetition of Time in Gatsby
-  url: /2024/06/17/gatsby-past-and-time/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 solo-dining-dallas:
 - slug: solo-dining-houston
@@ -67952,11 +68576,11 @@ memory-nostalgia-gatsby:
   category: leisure
   image: /assets/images/blog/blog-60.webp
   lang: en
-- slug: gatsby-repeat-the-past
-  title: Can You Repeat the Past in The Great Gatsby?
-  url: /2024/06/24/gatsby-repeat-the-past/
+- slug: feminist-reading-great-gatsby
+  title: A Feminist Reading of The Great Gatsby
+  url: /2027/08/09/feminist-reading-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-108.webp
+  image: /assets/images/blog/blog-70.webp
   lang: en
 gaokao-tianjin-guide:
 - slug: gaokao-sichuan-province-guide
@@ -68009,11 +68633,23 @@ solo-dining-san-diego:
   image: /assets/images/blog/blog-113.webp
   lang: en
 gatsby-east-and-west:
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 - slug: great-gatsby-misreadings-corrected
   title: 'The Great Gatsby: Everything Students Get Wrong'
   url: /2022/06/20/great-gatsby-misreadings-corrected/
   category: leisure
   image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: great-gatsby-ending-explained
+  title: The Great Gatsby Ending Explained
+  url: /2022/05/23/great-gatsby-ending-explained/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: great-gatsby-genre-form-style
   title: 'The Great Gatsby: Genre, Form, and Style'
@@ -68026,12 +68662,6 @@ gatsby-east-and-west:
   url: /2024/11/04/east-egg-west-egg-theme/
   category: leisure
   image: /assets/images/blog/blog-115.webp
-  lang: en
-- slug: appearance-identity-gatsby
-  title: Appearance and Identity in The Great Gatsby
-  url: /2024/07/08/appearance-identity-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-25.webp
   lang: en
 solo-dining-boston:
 - slug: solo-dining-seattle
@@ -68184,6 +68814,12 @@ solo-dining-nashville:
   image: /assets/images/blog/blog-24.webp
   lang: en
 gatsby-frontier-myth:
+- slug: american-dream-great-gatsby
+  title: The American Dream in The Great Gatsby
+  url: /2024/04/22/american-dream-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 - slug: gatsby-american-dream-corruption
   title: The Corruption of the American Dream
   url: /2024/04/29/gatsby-american-dream-corruption/
@@ -68201,12 +68837,6 @@ gatsby-frontier-myth:
   url: /2024/07/08/appearance-identity-gatsby/
   category: leisure
   image: /assets/images/blog/blog-25.webp
-  lang: en
-- slug: loneliness-great-gatsby
-  title: Loneliness and Isolation in The Great Gatsby
-  url: /2024/09/30/loneliness-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
   lang: en
 gaokao-anhui-province-guide:
 - slug: gaokao-sichuan-province-guide
@@ -68277,9 +68907,9 @@ race-whiteness-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: why-gatsby-flopped-first
-  title: Why The Great Gatsby Flopped at First
-  url: /2027/03/15/why-gatsby-flopped-first/
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-84.webp
   lang: en
@@ -68570,6 +69200,12 @@ ambition-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 - slug: great-gatsby-chapter-2-myrtle-party
   title: 'Great Gatsby Chapter 2: Myrtle''s Apartment Party'
   url: /2022/08/01/great-gatsby-chapter-2-myrtle-party/
@@ -68579,12 +69215,6 @@ ambition-great-gatsby:
 - slug: great-gatsby-pool-scene-reading
   title: 'Great Gatsby: The Pool Scene Close Reading'
   url: /2023/02/13/great-gatsby-pool-scene-reading/
-  category: leisure
-  image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: self-invention-great-gatsby
-  title: Self-Invention and Reinvention in Gatsby
-  url: /2024/07/15/self-invention-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-12.webp
   lang: en
@@ -69107,6 +69737,12 @@ dreams-cost-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 - slug: gatsby-frontier-myth
   title: 'The Frontier in The Great Gatsby: The Westering Myth'
   url: /2024/11/11/gatsby-frontier-myth/
@@ -69118,12 +69754,6 @@ dreams-cost-great-gatsby:
   url: /2023/02/13/great-gatsby-pool-scene-reading/
   category: leisure
   image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: ambition-great-gatsby
-  title: Ambition and Aspiration in The Great Gatsby
-  url: /2024/12/16/ambition-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-114.webp
   lang: en
 upsc-csat-paper-2-tamil-guide:
 - slug: upsc-prelims-gs1-tamil
@@ -72983,17 +73613,17 @@ why-kaliningrad-exists-and-matters:
   category: industry
   image: /assets/images/blog/blog-27.webp
   lang: en
+- slug: russias-gray-zone-war-on-poland
+  title: Russia's Gray-Zone War on Poland
+  url: /2026/12/11/russias-gray-zone-war-on-poland/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 - slug: kaliningrad-baltic-sea-nato-lake
   title: Kaliningrad and the Baltic Sea NATO Lake
   url: /2025/10/21/kaliningrad-baltic-sea-nato-lake/
   category: industry
   image: /assets/images/blog/blog-60.webp
-  lang: en
-- slug: if-ukraine-falls-is-poland-next
-  title: If Ukraine Falls, Is Poland Next?
-  url: /2026/09/21/if-ukraine-falls-is-poland-next/
-  category: industry
-  image: /assets/images/blog/blog-88.webp
   lang: en
 how-to-use-midjourney:
 - slug: how-to-use-dall-e
@@ -74637,6 +75267,12 @@ would-the-us-really-fight-for-poland:
   category: industry
   image: /assets/images/blog/blog-22.webp
   lang: en
+- slug: fighting-below-the-threshold
+  title: How Poland Fights Below the Threshold
+  url: /2027/02/21/fighting-below-the-threshold/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
 gatsby-pool-drain-symbol:
 - slug: gatsby-juxtaposition
   title: Juxtaposition in The Great Gatsby
@@ -75474,11 +76110,11 @@ fitzgerald-prose-style:
   category: leisure
   image: /assets/images/blog/blog-117.webp
   lang: en
-- slug: how-to-read-great-gatsby-closely
-  title: How to Read The Great Gatsby Closely
-  url: /2022/03/07/how-to-read-great-gatsby-closely/
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-85.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 top-bollywood-director-filmmaking-styles-analyzed:
 - slug: bollywood-directors-who-changed-indian-cinema
@@ -89400,11 +90036,11 @@ gatsby-modernist-technique:
   category: leisure
   image: /assets/images/blog/blog-114.webp
   lang: en
-- slug: gatsby-dialogue-technique
-  title: Dialogue and Speech in The Great Gatsby
-  url: /2026/05/04/gatsby-dialogue-technique/
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-42.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 gatsby-reader-sympathy:
 - slug: fitzgerald-life-shaped-gatsby
@@ -89513,6 +90149,12 @@ gatsby-suspense-technique:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
+- slug: gatsby-dialogue-technique
+  title: Dialogue and Speech in The Great Gatsby
+  url: /2026/05/04/gatsby-dialogue-technique/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: gatsby-beginnings-endings-craft
   title: Beginnings and Endings as Craft in Gatsby
   url: /2026/08/31/gatsby-beginnings-endings-craft/
@@ -89522,12 +90164,6 @@ gatsby-suspense-technique:
 - slug: gatsby-passage-of-time-craft
   title: How Fitzgerald Handles the Passage of Time
   url: /2026/09/28/gatsby-passage-of-time-craft/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: gatsby-modernist-technique
-  title: Modernist Technique in The Great Gatsby
-  url: /2026/08/03/gatsby-modernist-technique/
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
@@ -89556,6 +90192,12 @@ gatsby-beginnings-endings-craft:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
+- slug: new-historicist-gatsby
+  title: A New Historicist Reading of Gatsby
+  url: /2027/09/06/new-historicist-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
 what-ukraine-tells-us-about-poland:
 - slug: buffer-states-and-great-power-war
   title: Buffer States and Great-Power War
@@ -89582,6 +90224,12 @@ what-ukraine-tells-us-about-poland:
   image: /assets/images/blog/blog-88.webp
   lang: en
 gatsby-free-indirect-discourse:
+- slug: marxist-reading-great-gatsby
+  title: A Marxist Reading of The Great Gatsby
+  url: /2027/07/26/marxist-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: gatsby-allusion
   title: Allusion in The Great Gatsby
   url: /2026/06/29/gatsby-allusion/
@@ -89599,12 +90247,6 @@ gatsby-free-indirect-discourse:
   url: /2026/03/09/gatsby-metaphor-simile/
   category: leisure
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: gatsby-foreshadowing
-  title: Foreshadowing in The Great Gatsby
-  url: /2026/03/23/gatsby-foreshadowing/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 lessons-from-russia-failures-ukraine:
 - slug: russias-army-after-ukraine
@@ -89682,6 +90324,12 @@ gatsby-cinematic-technique:
   image: /assets/images/blog/blog-01.webp
   lang: en
 if-ukraine-falls-is-poland-next:
+- slug: russias-gray-zone-war-on-poland
+  title: Russia's Gray-Zone War on Poland
+  url: /2026/12/11/russias-gray-zone-war-on-poland/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 - slug: poland-as-ukraines-lifeline
   title: How Poland Became Ukraine's Lifeline
   url: /2026/10/11/poland-as-ukraines-lifeline/
@@ -89699,12 +90347,6 @@ if-ukraine-falls-is-poland-next:
   url: /2026/10/01/polands-stake-in-ukraines-war/
   category: industry
   image: /assets/images/blog/blog-39.webp
-  lang: en
-- slug: what-ukraine-tells-us-about-poland
-  title: What Ukraine Tells Us About Poland's Risk
-  url: /2026/09/01/what-ukraine-tells-us-about-poland/
-  category: industry
-  image: /assets/images/blog/blog-86.webp
   lang: en
 gatsby-passage-of-time-craft:
 - slug: gatsby-suspense-technique
@@ -89725,11 +90367,11 @@ gatsby-passage-of-time-craft:
   category: leisure
   image: /assets/images/blog/blog-114.webp
   lang: en
-- slug: gatsby-first-person-choice
-  title: Why Fitzgerald Chose a First-Person Narrator
-  url: /2026/01/19/gatsby-first-person-choice/
+- slug: how-to-read-great-gatsby-closely
+  title: How to Read The Great Gatsby Closely
+  url: /2022/03/07/how-to-read-great-gatsby-closely/
   category: leisure
-  image: /assets/images/blog/blog-102.webp
+  image: /assets/images/blog/blog-85.webp
   lang: en
 polands-stake-in-ukraines-war:
 - slug: poland-as-ukraines-lifeline
@@ -89981,17 +90623,17 @@ f-scott-fitzgerald-biography:
   category: leisure
   image: /assets/images/blog/blog-49.webp
   lang: en
+- slug: gatsby-era-historical-myths
+  title: Historical Myths About The Great Gatsby Era
+  url: /2027/07/19/gatsby-era-historical-myths/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
 - slug: stock-boom-before-crash-gatsby
   title: The Stock Market Boom Before the Crash
   url: /2027/06/14/stock-boom-before-crash-gatsby/
   category: leisure
   image: /assets/images/blog/blog-87.webp
-  lang: en
-- slug: valley-of-ashes-corona-dump
-  title: The Valley of Ashes and Corona's Dump
-  url: /2027/05/31/valley-of-ashes-corona-dump/
-  category: leisure
-  image: /assets/images/blog/blog-72.webp
   lang: en
 what-poland-learned-from-ukraine:
 - slug: cost-of-arming-ukraine-from-poland
@@ -90180,6 +90822,31 @@ real-models-for-gatsby:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+russias-gray-zone-war-on-poland:
+- slug: russian-disinformation-aimed-at-poland
+  title: Russian Disinformation Aimed at Poland
+  url: /2027/02/01/russian-disinformation-aimed-at-poland/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: belarus-border-migration-weapon
+  title: The Belarus Border Migration Weapon
+  url: /2027/01/21/belarus-border-migration-weapon/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: why-kaliningrad-exists-and-matters
+  title: Why Kaliningrad Exists and Why It Matters
+  url: /2025/09/11/why-kaliningrad-exists-and-matters/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: sabotage-on-polish-soil
+  title: Sabotage on Polish Soil
+  url: /2026/12/21/sabotage-on-polish-soil/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
 wwi-shadow-great-gatsby:
 - slug: real-models-for-gatsby
   title: The Real-Life Models for Jay Gatsby
@@ -90230,6 +90897,31 @@ lost-generation-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-84.webp
   lang: en
+sabotage-on-polish-soil:
+- slug: russian-disinformation-aimed-at-poland
+  title: Russian Disinformation Aimed at Poland
+  url: /2027/02/01/russian-disinformation-aimed-at-poland/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: russias-gray-zone-war-on-poland
+  title: Russia's Gray-Zone War on Poland
+  url: /2026/12/11/russias-gray-zone-war-on-poland/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: gps-jamming-in-the-baltic-region
+  title: GPS Jamming in the Baltic Region
+  url: /2027/01/11/gps-jamming-in-the-baltic-region/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: belarus-border-migration-weapon
+  title: The Belarus Border Migration Weapon
+  url: /2027/01/21/belarus-border-migration-weapon/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
 flappers-new-woman-gatsby:
 - slug: jordan-baker-modern-woman
   title: 'Jordan Baker: The Dishonest Modern Woman'
@@ -90261,6 +90953,31 @@ flappers-new-woman-gatsby:
   category: leisure
   image: /assets/images/blog/blog-91.webp
   lang: en
+drones-over-poland-accident-or-probe:
+- slug: when-gray-zone-becomes-open-war
+  title: When Gray-Zone Becomes Open War
+  url: /2027/02/11/when-gray-zone-becomes-open-war/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gps-jamming-in-the-baltic-region
+  title: GPS Jamming in the Baltic Region
+  url: /2027/01/11/gps-jamming-in-the-baltic-region/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: reading-russian-moves-kaliningrad
+  title: Reading Russian Moves in Kaliningrad
+  url: /2025/10/11/reading-russian-moves-kaliningrad/
+  category: industry
+  image: /assets/images/blog/blog-98.webp
+  lang: en
+- slug: what-deters-russia-attacking-poland
+  title: What Deters Russia From Attacking Poland
+  url: /2025/02/11/what-deters-russia-attacking-poland/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
 automobile-age-gatsby:
 - slug: how-fitzgerald-wrote-gatsby
   title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
@@ -90274,17 +90991,42 @@ automobile-age-gatsby:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
+- slug: gatsby-era-historical-myths
+  title: Historical Myths About The Great Gatsby Era
+  url: /2027/07/19/gatsby-era-historical-myths/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
 - slug: f-scott-fitzgerald-biography
   title: 'F. Scott Fitzgerald: A Life for Readers'
   url: /2026/11/09/f-scott-fitzgerald-biography/
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
-- slug: jazz-age-great-gatsby
-  title: The Jazz Age and The Great Gatsby
-  url: /2026/10/19/jazz-age-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
+gps-jamming-in-the-baltic-region:
+- slug: drones-over-poland-accident-or-probe
+  title: 'Drones Over Poland: Accident or Probe?'
+  url: /2027/01/01/drones-over-poland-accident-or-probe/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: russias-gray-zone-war-on-poland
+  title: Russia's Gray-Zone War on Poland
+  url: /2026/12/11/russias-gray-zone-war-on-poland/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: sabotage-on-polish-soil
+  title: Sabotage on Polish Soil
+  url: /2026/12/21/sabotage-on-polish-soil/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: signs-russia-rebuilding-for-west
+  title: Signs Russia Is Rebuilding for the West
+  url: /2026/07/01/signs-russia-rebuilding-for-west/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
   lang: en
 new-york-1920s-gatsby:
 - slug: jazz-age-great-gatsby
@@ -90336,6 +91078,31 @@ gatsby-1919-world-series:
   category: leisure
   image: /assets/images/blog/blog-105.webp
   lang: en
+belarus-border-migration-weapon:
+- slug: russias-gray-zone-war-on-poland
+  title: Russia's Gray-Zone War on Poland
+  url: /2026/12/11/russias-gray-zone-war-on-poland/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: sabotage-on-polish-soil
+  title: Sabotage on Polish Soil
+  url: /2026/12/21/sabotage-on-polish-soil/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: russian-disinformation-aimed-at-poland
+  title: Russian Disinformation Aimed at Poland
+  url: /2027/02/01/russian-disinformation-aimed-at-poland/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gps-jamming-in-the-baltic-region
+  title: GPS Jamming in the Baltic Region
+  url: /2027/01/11/gps-jamming-in-the-baltic-region/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
 consumer-culture-1920s-gatsby:
 - slug: flappers-new-woman-gatsby
   title: Flappers and the New Woman in the 1920s
@@ -90386,6 +91153,31 @@ gilded-elite-1920s-gatsby:
   category: leisure
   image: /assets/images/blog/blog-84.webp
   lang: en
+russian-disinformation-aimed-at-poland:
+- slug: russias-gray-zone-war-on-poland
+  title: Russia's Gray-Zone War on Poland
+  url: /2026/12/11/russias-gray-zone-war-on-poland/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: sabotage-on-polish-soil
+  title: Sabotage on Polish Soil
+  url: /2026/12/21/sabotage-on-polish-soil/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: gps-jamming-in-the-baltic-region
+  title: GPS Jamming in the Baltic Region
+  url: /2027/01/11/gps-jamming-in-the-baltic-region/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: drones-over-poland-accident-or-probe
+  title: 'Drones Over Poland: Accident or Probe?'
+  url: /2027/01/01/drones-over-poland-accident-or-probe/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 immigration-nativism-gatsby:
 - slug: scientific-racism-gatsby
   title: Scientific Racism and Tom's Books
@@ -90410,6 +91202,31 @@ immigration-nativism-gatsby:
   url: /2026/10/26/prohibition-bootlegging-gatsby/
   category: leisure
   image: /assets/images/blog/blog-86.webp
+  lang: en
+when-gray-zone-becomes-open-war:
+- slug: will-russia-attack-poland-risk-assessment
+  title: Will Russia Attack Poland? A Risk Assessment
+  url: /2025/01/01/will-russia-attack-poland-risk-assessment/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: drones-over-poland-accident-or-probe
+  title: 'Drones Over Poland: Accident or Probe?'
+  url: /2027/01/01/drones-over-poland-accident-or-probe/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: tripwire-forces-eastern-flank
+  title: Tripwire Forces on NATO's Eastern Flank
+  url: /2025/12/01/tripwire-forces-eastern-flank/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: nato-forward-presence-in-poland
+  title: NATO's Forward Presence in Poland
+  url: /2026/01/21/nato-forward-presence-in-poland/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
   lang: en
 scientific-racism-gatsby:
 - slug: fitzgerald-other-novels
@@ -90442,6 +91259,31 @@ scientific-racism-gatsby:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
+fighting-below-the-threshold:
+- slug: would-the-us-really-fight-for-poland
+  title: Would the US Really Fight for Poland?
+  url: /2025/12/21/would-the-us-really-fight-for-poland/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: what-article-5-really-obligates
+  title: What Article 5 Really Obligates
+  url: /2025/11/11/what-article-5-really-obligates/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: the-weak-links-in-nato-cohesion
+  title: The Weak Links in NATO Cohesion
+  url: /2026/01/01/the-weak-links-in-nato-cohesion/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: would-nato-actually-defend-poland
+  title: Would NATO Actually Defend Poland?
+  url: /2025/04/01/would-nato-actually-defend-poland/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
 money-bonds-1920s-gatsby:
 - slug: 1920s-explain-gatsby
   title: Why the 1920s Still Explain The Great Gatsby
@@ -90468,6 +91310,12 @@ money-bonds-1920s-gatsby:
   image: /assets/images/blog/blog-83.webp
   lang: en
 how-fitzgerald-wrote-gatsby:
+- slug: gatsby-era-historical-myths
+  title: Historical Myths About The Great Gatsby Era
+  url: /2027/07/19/gatsby-era-historical-myths/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
 - slug: f-scott-fitzgerald-biography
   title: 'F. Scott Fitzgerald: A Life for Readers'
   url: /2026/11/09/f-scott-fitzgerald-biography/
@@ -90485,12 +91333,6 @@ how-fitzgerald-wrote-gatsby:
   url: /2022/06/13/great-gatsby-reading-order-pacing/
   category: leisure
   image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: gatsby-era-fashion
-  title: Fashion and Style of the Gatsby Era
-  url: /2027/05/17/gatsby-era-fashion/
-  category: leisure
-  image: /assets/images/blog/blog-73.webp
   lang: en
 - slug: automobile-age-gatsby
   title: The Automobile Age and The Great Gatsby
@@ -90642,11 +91484,11 @@ gatsby-alternate-titles:
   category: leisure
   image: /assets/images/blog/blog-87.webp
   lang: en
-- slug: gatsby-era-fashion
-  title: Fashion and Style of the Gatsby Era
-  url: /2027/05/17/gatsby-era-fashion/
+- slug: gatsby-era-historical-myths
+  title: Historical Myths About The Great Gatsby Era
+  url: /2027/07/19/gatsby-era-historical-myths/
   category: leisure
-  image: /assets/images/blog/blog-73.webp
+  image: /assets/images/blog/blog-22.webp
   lang: en
 fitzgerald-riviera-years:
 - slug: fitzgerald-hemingway-paris
@@ -90692,11 +91534,11 @@ fitzgerald-other-novels:
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
-- slug: gatsby-1925-publication
-  title: The Great Gatsby's 1925 Publication Story
-  url: /2027/03/08/gatsby-1925-publication/
+- slug: why-gatsby-flopped-first
+  title: Why The Great Gatsby Flopped at First
+  url: /2027/03/15/why-gatsby-flopped-first/
   category: leisure
-  image: /assets/images/blog/blog-55.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 fitzgerald-short-stories-gatsby:
 - slug: fitzgerald-other-novels
@@ -90774,6 +91616,12 @@ jazz-music-culture-gatsby:
   image: /assets/images/blog/blog-01.webp
   lang: en
 gatsby-era-fashion:
+- slug: gatsby-era-historical-myths
+  title: Historical Myths About The Great Gatsby Era
+  url: /2027/07/19/gatsby-era-historical-myths/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
 - slug: how-fitzgerald-wrote-gatsby
   title: 'How Fitzgerald Wrote Great Gatsby: Made by Revision'
   url: /2027/03/01/how-fitzgerald-wrote-gatsby/
@@ -90791,12 +91639,6 @@ gatsby-era-fashion:
   url: /2027/04/05/gatsby-alternate-titles/
   category: leisure
   image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: stock-boom-before-crash-gatsby
-  title: The Stock Market Boom Before the Crash
-  url: /2027/06/14/stock-boom-before-crash-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-87.webp
   lang: en
 long-island-old-money:
 - slug: f-scott-fitzgerald-biography
@@ -90848,11 +91690,11 @@ valley-of-ashes-corona-dump:
   category: leisure
   image: /assets/images/blog/blog-93.webp
   lang: en
-- slug: stock-boom-before-crash-gatsby
-  title: The Stock Market Boom Before the Crash
-  url: /2027/06/14/stock-boom-before-crash-gatsby/
+- slug: gatsby-era-historical-myths
+  title: Historical Myths About The Great Gatsby Era
+  url: /2027/07/19/gatsby-era-historical-myths/
   category: leisure
-  image: /assets/images/blog/blog-87.webp
+  image: /assets/images/blog/blog-22.webp
   lang: en
 speakeasies-nightlife-gatsby:
 - slug: prohibition-bootlegging-gatsby
@@ -91009,4 +91851,179 @@ american-dream-1920s-history:
   url: /2027/06/14/stock-boom-before-crash-gatsby/
   category: leisure
   image: /assets/images/blog/blog-87.webp
+  lang: en
+gatsby-era-historical-myths:
+- slug: gatsby-era-fashion
+  title: Fashion and Style of the Gatsby Era
+  url: /2027/05/17/gatsby-era-fashion/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: gatsby-diction-word-choice
+  title: Diction and Word Choice in The Great Gatsby
+  url: /2026/02/16/gatsby-diction-word-choice/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: f-scott-fitzgerald-biography
+  title: 'F. Scott Fitzgerald: A Life for Readers'
+  url: /2026/11/09/f-scott-fitzgerald-biography/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: gatsby-alternate-titles
+  title: The Title Fitzgerald Almost Used
+  url: /2027/04/05/gatsby-alternate-titles/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+marxist-reading-great-gatsby:
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: gatsby-foreshadowing
+  title: Foreshadowing in The Great Gatsby
+  url: /2026/03/23/gatsby-foreshadowing/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-modernist-technique
+  title: Modernist Technique in The Great Gatsby
+  url: /2026/08/03/gatsby-modernist-technique/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: great-gatsby-guest-list-passage
+  title: 'Great Gatsby: Reading the Guest-List Passage'
+  url: /2023/01/30/great-gatsby-guest-list-passage/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+gatsby-marxist-class-conflict:
+- slug: gatsby-freudian-desire
+  title: Gatsby's Desire Through a Freudian Lens
+  url: /2027/08/30/gatsby-freudian-desire/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: psychoanalytic-reading-gatsby
+  title: A Psychoanalytic Reading of The Great Gatsby
+  url: /2027/08/23/psychoanalytic-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: great-gatsby-misreadings-corrected
+  title: 'The Great Gatsby: Everything Students Get Wrong'
+  url: /2022/06/20/great-gatsby-misreadings-corrected/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: great-gatsby-genre-form-style
+  title: 'The Great Gatsby: Genre, Form, and Style'
+  url: /2022/03/21/great-gatsby-genre-form-style/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+feminist-reading-great-gatsby:
+- slug: gatsby-understatement
+  title: Understatement and Restraint in Gatsby
+  url: /2026/07/13/gatsby-understatement/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: marriage-infidelity-gatsby
+  title: Marriage and Infidelity in The Great Gatsby
+  url: /2024/09/02/marriage-infidelity-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: gatsby-diction-word-choice
+  title: Diction and Word Choice in The Great Gatsby
+  url: /2026/02/16/gatsby-diction-word-choice/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: memory-nostalgia-gatsby
+  title: Memory and Nostalgia in The Great Gatsby
+  url: /2024/10/21/memory-nostalgia-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+psychoanalytic-reading-gatsby:
+- slug: great-gatsby-pool-scene-reading
+  title: 'Great Gatsby: The Pool Scene Close Reading'
+  url: /2023/02/13/great-gatsby-pool-scene-reading/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: gatsby-freudian-desire
+  title: Gatsby's Desire Through a Freudian Lens
+  url: /2027/08/30/gatsby-freudian-desire/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: great-gatsby-genre-form-style
+  title: 'The Great Gatsby: Genre, Form, and Style'
+  url: /2022/03/21/great-gatsby-genre-form-style/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: gatsby-repeat-the-past
+  title: Can You Repeat the Past in The Great Gatsby?
+  url: /2024/06/24/gatsby-repeat-the-past/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+gatsby-freudian-desire:
+- slug: gatsby-marxist-class-conflict
+  title: Class Conflict Through a Marxist Lens
+  url: /2027/08/02/gatsby-marxist-class-conflict/
+  category: leisure
+  image: /assets/images/blog/blog-98.webp
+  lang: en
+- slug: great-gatsby-misreadings-corrected
+  title: 'The Great Gatsby: Everything Students Get Wrong'
+  url: /2022/06/20/great-gatsby-misreadings-corrected/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: great-gatsby-genre-form-style
+  title: 'The Great Gatsby: Genre, Form, and Style'
+  url: /2022/03/21/great-gatsby-genre-form-style/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: great-gatsby-pool-scene-reading
+  title: 'Great Gatsby: The Pool Scene Close Reading'
+  url: /2023/02/13/great-gatsby-pool-scene-reading/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+new-historicist-gatsby:
+- slug: gatsby-beginnings-endings-craft
+  title: Beginnings and Endings as Craft in Gatsby
+  url: /2026/08/31/gatsby-beginnings-endings-craft/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-1925-publication
+  title: The Great Gatsby's 1925 Publication Story
+  url: /2027/03/08/gatsby-1925-publication/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: gatsby-lyricism
+  title: Lyricism and the Poetic Line in Gatsby
+  url: /2026/07/27/gatsby-lyricism/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
   lang: en

@@ -9,7 +9,7 @@ excerpt: "How Pakistan's largest PoK hydropower plant became a casualty of the 2
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2018-05-21
+last_updated: 2026-07-25
 lang: en
 ---
 On the night between May 6 and May 7, 2025, as Indian missiles struck nine designated locations across Pakistani territory and Pakistan-occupied Kashmir during Operation Sindoor, Pakistan's military spokesman Lt. General Ahmed Sharif Chaudhry made a claim that would add an entirely new dimension to the conflict. India, he alleged, had targeted the Noseri Dam near the Neelum-Jhelum Hydropower Project, a 969-megawatt facility that ranks as Pakistan's largest run-of-river power station in PoK and one of the most expensive infrastructure projects in the country's history. The accusation transformed the crisis from a counter-terror operation into a debate about civilian infrastructure, international law, and the expanding boundaries of warfare between nuclear-armed states.

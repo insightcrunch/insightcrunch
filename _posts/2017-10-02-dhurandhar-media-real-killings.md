@@ -9,7 +9,7 @@ excerpt: "How Indian media built a Dhurandhar feedback loop to frame real target
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2017-10-02
+last_updated: 2026-07-25
 lang: en
 ---
 Indian television news does not simply report when a wanted militant is shot dead on a street in Karachi or Lahore; it narrates the event through a template that Bollywood provided, complete with cinematic vocabulary, side-by-side scene comparisons, and a soundtrack that millions of viewers already know by heart.

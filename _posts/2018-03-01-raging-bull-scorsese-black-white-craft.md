@@ -9,7 +9,7 @@ excerpt: "Raging Bull turns a boxer's ruin into pure craft: its black-and-white 
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2018-03-01
+last_updated: 2026-07-25
 lang: en
 ---
 Most films about a boxer want you to root for him. Raging Bull spends two hours making sure you cannot. Martin Scorsese took the life of middleweight champion Jake LaMotta, a man whose jealousy and rage wrecked his career, his marriage, and his bond with his own brother, and built around it the most technically aggressive character study of its decade. The achievement that matters most is not the punch count or the period detail. It is the way the film makes a man's inner violence physically visible, frame by frame, cut by cut, so that the craft itself becomes the argument. The black-and-white photography, the choreographed single-camera fights, the warped frame rates, the animal sound design, and the surgical editing are not decoration laid over a story. They are the story, translated into technique.

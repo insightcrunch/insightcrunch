@@ -9,7 +9,7 @@ excerpt: "Blade Runner asks what divides the made from the born, finding more so
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2017-12-01
+last_updated: 2026-07-25
 lang: en
 ---
 Every great science-fiction film smuggles a philosophy lesson inside its spectacle, and few have smuggled a heavier one than Blade Runner. Ridley Scott's 1982 future-noir hands you a detective story about a man hired to retire escaped artificial people, then quietly inverts the assignment until the question stops being who will win the chase and becomes who, in this rain-soaked city, deserves to be called a person at all. The plot is a hunt. The subject is the soul. By the time the last of the fugitives dies on a rooftop in the rain, the picture has turned its premise inside out, asking the audience to wonder whether the hunted were more alive than the hunter, and whether the hunter himself is one of the things he was sent to destroy.

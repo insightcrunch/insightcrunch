@@ -3,7 +3,7 @@ title: "Raiders of the Lost Ark: The Adventure Template"
 page_title: "Raiders of the Lost Ark Explained: How Spielberg Perfected the Action-Adventure Genre, Its Set Pieces, and Influence Compared to World Cinema"
 slug: raiders-lost-ark-adventure-blockbuster
 date: 2018-02-15
-last_updated: 2018-02-15
+last_updated: 2026-07-25
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Raiders of the Lost Ark", "Steven Spielberg", "Action-Adventure", "Film History", "Directors", "World Cinema"]
 excerpt: "Raiders of the Lost Ark rebuilt the old movie serial into a precision machine of escalating set pieces that defined the modern action-adventure blockbuster."

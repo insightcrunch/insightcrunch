@@ -8,7 +8,7 @@ excerpt: "How Superman (1978) and Richard Donner founded the superhero blockbust
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2017-11-01
+last_updated: 2026-07-25
 lang: en
 ---
 The single most consequential line of influence that Superman (1978) set running is also the easiest to underrate, because the genre it founded has become so total that its origin now looks inevitable. It was not. When Richard Donner mounted a big-budget, A-list version of a comic-book character and asked a worldwide audience to take the flight, the cape, and the secret identity entirely seriously, he was doing something no major studio had attempted at that scale. The film treats a man who can fly with the prestige a studio would lavish on a literary epic, and it asks the viewer not to laugh, not to wink, but to believe. That choice, sincerity mounted at blockbuster scale, is the template that, decades after release, grew into the dominant commercial form of global cinema. The fingerprints are everywhere, and they all trace back to one promise printed on the poster: you will believe a man can fly.

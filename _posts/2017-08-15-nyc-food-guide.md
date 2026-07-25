@@ -9,7 +9,7 @@ excerpt: "A New York City food guide to what to eat and where: the slice, the ba
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 68
 author: "nandini-sen"
-last_updated: 2017-08-15
+last_updated: 2026-07-25
 lang: en
 ---
 Eating in New York City is not a restaurant problem. It is a decision about which of the city's food worlds to spend your limited meals on, and most visitors get the order wrong. They arrive with a list of trendy places pulled from a feed, burn two nights on rooms with a waitlist and a view, and leave without ever tasting the food that actually made this a food town: the corner slice, the boiled-then-baked bagel with lox, the pastrami piled on rye, the soup dumplings in a Flushing food court, the momos on a Queens sidewalk. This New York City food guide is built to fix that order. It tells you what to eat, where to find it by neighborhood, and how to spread your meals across the cheap end and the splurge end so that a three-day trip tastes like the whole city rather than one expensive slice of it.

@@ -9,7 +9,7 @@ excerpt: "How Bollywood depicted RAW and India's spy services across three phase
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 70
 author: "amit-chatterjee"
-last_updated: 2017-09-25
+last_updated: 2026-07-25
 lang: en
 ---
 For more than four decades after India established its external intelligence agency, Bollywood pretended the organization did not exist. The Research and Analysis Wing, founded by Rameshwar Nath Kao in September 1968, operated in a cinematic vacuum where Hindi films explored every conceivable national institution except the one responsible for gathering foreign intelligence and conducting covert operations abroad. That absence was not an oversight. It was a cultural decision, rooted in India's deep discomfort with acknowledging the existence of state-sanctioned clandestine activity and the moral ambiguity that accompanied it. The transformation that followed, from total invisibility through romantic spectacle to operational celebration, tracks one of the most revealing shifts in India's national self-image, and Bollywood's portrayal of RAW across this journey offers a mirror that reflects the country's changing relationship with power, violence, and sovereignty more clearly than any policy document or parliamentary debate ever could.

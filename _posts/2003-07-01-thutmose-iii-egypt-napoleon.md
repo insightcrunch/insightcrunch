@@ -9,7 +9,7 @@ excerpt: "Thutmose III led some seventeen campaigns, won at Megiddo, and pushed 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2003-07-01
+last_updated: 2026-07-25
 lang: en
 ---
 Thutmose III ruled an Egypt that had spent a century learning how to fight, and he was the first pharaoh who worked out what to do with that lesson. His predecessors had expelled a foreign dynasty, raided into Syria, and pushed south past the third cataract, but raiding is not empire. Between roughly 1479 and 1425 BCE, and above all in the thirty-two years after he took sole power around 1458 BCE, he converted a liberation army into a permanent instrument of imperial control, ran the campaign cycle year after year until the Levant learned that Egyptian armies always came back, and left behind the largest territorial reach any Egyptian ruler ever held. The nickname that follows him, the Napoleon of Egypt, was invented three and a half thousand years after his death and it distorts as much as it clarifies. The record underneath it does not need the borrowed glory.

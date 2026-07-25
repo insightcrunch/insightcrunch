@@ -9,7 +9,7 @@ excerpt: "Bollywood's terrorism genre traversed a complete arc in two decades, m
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2017-11-13
+last_updated: 2026-07-25
 lang: en
 ---
 Bollywood did not invent India's relationship with terrorism, but it did something arguably more consequential: it gave that relationship a narrative arc, a soundtrack, and a hero's journey. Between 1992 and 2025, Hindi cinema's depiction of terrorism completed a transformation so thorough that the same country whose films once showed helpless civilians weeping over bomb blasts now produces blockbusters where undercover agents execute terrorists in Pakistani mosques to standing ovations. The nation watched itself change on screen before it changed in reality. Mani Ratnam's Roja in 1992 asked audiences to feel pity. Neeraj Pandey's A Wednesday in 2008 channeled their frustration. Kabir Khan's Phantom in 2015 whispered that revenge was permissible. Aditya Dhar's Dhurandhar in 2025 declared that killing was heroic. Tracing this arc across fifteen films and three decades reveals not just a genre's evolution but a democracy's changing relationship with state violence, a shift that [India's real shadow war](https://insightcrunch.com/2013/01/07/india-shadow-war-against-terror/) has both reflected and accelerated.

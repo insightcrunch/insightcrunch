@@ -9,7 +9,7 @@ excerpt: "How Pakistan retaliated after Operation Sindoor by shelling Poonch, Ra
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2018-01-29
+last_updated: 2026-07-25
 lang: en
 ---
 At approximately 1:05 AM Indian Standard Time on May 7, 2025, Indian Rafale jets launched SCALP cruise missiles at nine Jaish-e-Mohammed and Lashkar-e-Taiba targets across Pakistan and Pakistan-occupied Kashmir under [the operation codenamed Sindoor](https://insightcrunch.com/2018/01/22/operation-sindoor-23-minutes/). Within hours, Pakistani forces answered with a barrage of artillery shells, mortar rounds, and small-arms fire directed at civilian areas across Jammu and Kashmir's border districts. Poonch, a small hill town less than eight kilometers from the Line of Control, absorbed the worst of that response. By the time a fragile ceasefire took hold on the evening of May 10, at least 21 Indian civilians lay dead, more than 59 others had been wounded, and over two hundred thousand residents of the border belt had abandoned their homes. The children, women, and government officers killed by Pakistani shells in those four days became the human cost of a retaliatory doctrine built around area-effect weapons aimed at population centers, a response so asymmetric in character that it exposed the fundamental difference between how the two nuclear-armed adversaries chose to wage their brief, devastating conflict.

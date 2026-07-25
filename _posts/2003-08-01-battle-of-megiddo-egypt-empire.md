@@ -9,7 +9,7 @@ excerpt: "The Battle of Megiddo, circa 1457 BCE, is the first battle in history 
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2003-08-01
+last_updated: 2026-07-25
 lang: en
 ---
 The Battle of Megiddo is the earliest engagement in human history that a reader can actually follow. Not the earliest battle fought, and not the earliest one mentioned, but the earliest one for which the marching days, the route argument among the commanders, the deployment on the field, the mistake that turned a rout into a siege, and the itemized haul at the end all survive in a single connected account. That account was carved on the walls at Karnak from field records kept by an army scribe, and it describes an engagement fought around 1457 BCE by a pharaoh in his first year of independent command against a coalition of Canaanite and Syrian rulers assembled under the king of Kadesh. Egypt won on the plain in a morning, then spent seven months outside the walls learning what winning had failed to deliver.

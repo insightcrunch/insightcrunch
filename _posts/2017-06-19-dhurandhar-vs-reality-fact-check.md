@@ -9,7 +9,7 @@ excerpt: "A scene-by-scene fact check of Dhurandhar against the real shadow war,
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2017-06-19
+last_updated: 2026-07-25
 lang: en
 ---
 Ranveer Singh rides a motorcycle through Karachi's congested lanes, pulls alongside a sedan carrying a LeT commander, and fires three rounds through the driver-side window before vanishing into traffic. The audience erupts. The scene feels like cinema at its most kinetic, pure adrenaline packaged as patriotic spectacle. Except it is not pure fiction. Documented cases from the [real shadow war](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) match the motorcycle approach, the close-range engagement, and the disappearance into urban chaos with troubling precision. Dhurandhar claims to be a work of imagination. This article puts that claim on trial by scoring twenty distinct scenes against the operational record, measuring where the Ranveer Singh blockbuster functions as documentary and where it retreats into comfortable fantasy.

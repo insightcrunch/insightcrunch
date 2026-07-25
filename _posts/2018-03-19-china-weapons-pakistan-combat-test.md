@@ -9,7 +9,7 @@ excerpt: "How the 2025 India-Pakistan conflict became China's most significant r
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2018-03-19
+last_updated: 2026-07-25
 lang: en
 ---
 The four days between May 7 and May 10, 2025, rewrote decades of assumptions about Chinese military technology in a burst of missile exhaust and radar returns that defense analysts from Washington to Tel Aviv are still processing. When India launched [Operation Sindoor](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/) with precision strikes against militant infrastructure inside Pakistan, the ensuing aerial confrontation became something far larger than a bilateral crisis between South Asian rivals: it became the most consequential real-world evaluation of Chinese military exports since the Korean War, pitting Beijing's fighters, missiles, and air defense platforms against French Rafales, Russian S-400 batteries, and Indo-Israeli precision munitions in an environment no simulation could replicate.

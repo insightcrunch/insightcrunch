@@ -9,7 +9,7 @@ excerpt: "A post-release timeline overlay of real targeted killings mapped again
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
 author: "amit-chatterjee"
-last_updated: 2017-11-27
+last_updated: 2026-07-25
 lang: en
 ---
 Aditya Dhar's Dhurandhar opened in Indian cinemas on December 5, 2025, and within weeks it had crossed the thousand-crore mark at the global box office, becoming the highest-grossing Hindi film of the year and one of the most commercially successful Indian productions of all time. Ranveer Singh's portrayal of an undercover operative infiltrating Karachi's criminal underworld turned the film into a cultural phenomenon that dominated conversation across Indian media, social platforms, and political discourse. What makes the film's trajectory analytically significant, however, is not its commercial performance but what happened on the ground in Pakistan in the weeks and months that followed. The real shadow war, the [covert campaign of targeted killings](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) that had been building in tempo since 2021, did not pause when a Bollywood film dramatized it for mass consumption. It accelerated. The post-release period produced more confirmed eliminations per month than any comparable stretch in the campaign's history, and the parallels between fiction and fact became so visible that Pakistani media itself began framing the real killings through the vocabulary of the film. Whether the acceleration was caused by the film, coincided with the film, or was enabled by entirely separate factors is the central analytical question this article investigates.

@@ -9,7 +9,7 @@ excerpt: "The Temple of Karnak at Thebes grew across two thousand years into Egy
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2003-09-01
+last_updated: 2026-07-25
 lang: en
 ---
 The Temple of Karnak was never a building. It was a construction site that stayed open for two thousand years, and that single fact explains almost everything a visitor finds confusing about it. Walk the main axis and the architecture runs backward in time: the outermost gateway is one of the latest things built, the innermost sanctuary sits closest to the oldest ground, and the further in you go the smaller, older, and stranger the stonework becomes. No pharaoh designed Karnak. Roughly thirty of them, across dynasties that never met and religious settlements that contradicted each other, each added a court, a pylon, a hall, or a pair of obelisks to a shrine that was already ancient when the New Kingdom began. What survives is not a temple so much as a stone ledger of Egyptian ambition, with every entry signed.

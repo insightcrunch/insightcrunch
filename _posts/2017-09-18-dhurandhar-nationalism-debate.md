@@ -9,7 +9,7 @@ excerpt: "Is Dhurandhar patriotic cinema or state propaganda? Examining the fier
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "amit-chatterjee"
-last_updated: 2017-09-18
+last_updated: 2026-07-25
 lang: en
 ---
 Every democracy that has fought a covert war has eventually confronted the same question about the entertainment it produces from that war: is this art or is this an instrument of state? The question consumed Israeli intellectuals after Operation Wrath of God produced a generation of revenge thrillers. It consumed Americans after Zero Dark Thirty turned the bin Laden raid into a two-hour argument about whether torture works. And it has consumed India since Dhurandhar turned the [shadow war against terrorism](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) into a Ranveer Singh vehicle that broke box office records and, according to its critics, broke something else: the line between patriotism and propaganda.

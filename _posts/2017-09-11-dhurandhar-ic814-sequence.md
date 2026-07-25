@@ -9,7 +9,7 @@ excerpt: "How Dhurandhar rewrote the IC-814 hijacking to replace India's most hu
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 70
 author: "amit-chatterjee"
-last_updated: 2017-09-11
+last_updated: 2026-07-25
 lang: en
 ---
 Dhurandhar does not begin with its protagonist loading a weapon or boarding a flight to Karachi. It begins in Kandahar, on a tarmac baking under Afghan winter sun, with 176 passengers trapped inside Indian Airlines Flight 814 and a nation watching its government surrender. The sequence lasts seventeen minutes of screen time, occupies the film's entire first act, and accomplishes something the real crisis never could: it gives India an ending worth remembering. Every frame of Dhurandhar's IC-814 sequence is engineered to transform December 1999 from a memory of capitulation into a prologue for vengeance, and the engineering is so effective that an entire generation of viewers now carries the film's version in their heads alongside, and sometimes instead of, the historical record. The question this article answers is not whether the sequence is accurate. The [scene-by-scene fact check](https://insightcrunch.com/2017/06/19/dhurandhar-vs-reality-fact-check/) addresses that. The question is what the film chose to show, what it chose to hide, and what those choices reveal about how India metabolizes national trauma through cinema.

@@ -9,7 +9,7 @@ excerpt: "Dhurandhar and Zero Dark Thirty reveal how India and America construct
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2017-11-06
+last_updated: 2026-07-25
 lang: en
 ---
 Kathryn Bigelow sat in a Los Angeles editing suite in late 2012, assembling footage that would force American audiences to watch their government waterboard a detainee before hunting the world's most wanted man. Seven thousand miles away and thirteen years later, Aditya Dhar crafted a Karachi underworld saga that would invite Indian audiences to cheer as their operative tore apart Pakistan's criminal-intelligence nexus from within. Both films depicted covert wars fought on foreign soil against targets designated as existential threats. Both drew from classified or semi-classified operational realities their respective governments preferred to keep quiet. Both became cultural phenomena that reshaped how their nations talked about violence conducted in their name. Yet the two films could hardly be more different in what they chose to show, what they chose to hide, and what those choices reveal about the countries that produced them. Placing Zero Dark Thirty beside Dhurandhar is not an exercise in ranking two spy thrillers. It is an exercise in reading two national psychologies through the stories they tell themselves about the darkest work their governments do.

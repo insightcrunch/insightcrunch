@@ -9,7 +9,7 @@ excerpt: "Were the Hyksos invaders or immigrants? Weigh Manetho's account agains
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 63
 author: "chloe-martin"
-last_updated: 2003-03-01
+last_updated: 2026-07-25
 lang: en
 ---
 Were the Hyksos invaders or immigrants? The question sounds like a quibble over wording, and it is nothing of the kind. It is the single most consequential dispute in the study of Egypt's Second Intermediate Period, and the two answers produce two incompatible histories. On one side stands a story of catastrophe: a foreign army sweeping out of the east, taking a defenseless country without a fight, burning its cities, smashing its temples, and holding the Nile Valley in a grip of terror for a century. That story has a named source, a long pedigree, and a place in more textbooks than any competing account. On the other side stands the ground itself: a Delta town excavated layer by layer over decades, showing a Canaanite population that arrived slowly, settled permanently, built houses in its own style, buried its dead in its own way, and was living in Egypt for generations before any of its descendants wore a royal cartouche.

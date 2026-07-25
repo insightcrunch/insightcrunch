@@ -9,7 +9,7 @@ excerpt: "How Dhurandhar broke box office records while shifting public opinion 
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2017-07-17
+last_updated: 2026-07-25
 lang: en
 ---
 Dhurandhar did not simply earn money. It conducted a national referendum that the Indian government never called, on a policy that the Indian government never acknowledged, and returned a verdict so overwhelming that no politician, no general, and no intelligence chief could pretend not to have heard it. When more than a hundred million Indians chose to buy tickets for a cinematic depiction of killing terrorists on Pakistani soil, they were not purchasing entertainment. They were purchasing endorsement. Box office receipts became political data, a rolling opinion poll measured in crores rather than percentages, and the numbers spoke with a clarity that no survey, no editorial, and no parliamentary debate had achieved. Understanding how Dhurandhar became the highest-grossing Bollywood action title in history requires understanding why India's audience was ready for it, what the numbers actually measured, and what the feedback loop between fiction and reality has meant for the country's relationship with its own covert operations. It requires examining the demographic composition of the audience, the geographic distribution of revenue, the weekly correlation between real-world events and collection trends, and the long-term consequences for India's political culture, strategic posture, and entertainment industry.

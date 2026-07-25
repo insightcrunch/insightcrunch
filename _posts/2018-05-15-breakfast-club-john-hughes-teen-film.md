@@ -9,7 +9,7 @@ excerpt: "The Breakfast Club distilled the John Hughes teen film into five arche
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2018-05-15
+last_updated: 2026-07-25
 lang: en
 ---
 For most of the studio era the American teenager existed on screen as a punchline, a nuisance, or a body count. Hollywood sold films to young audiences without ever taking the young seriously, and the gap between what adolescence felt like from inside and how the movies depicted it from outside stayed wide for decades. John Hughes closed that gap, and The Breakfast Club, released in 1985, is where he closed it most completely. Across a short, concentrated run of pictures in the middle of the 1980s he built something that had not existed before as a coherent body of work: an American teen film that treated its subjects as full people whose feelings were not a phase to be condescended to but the actual stakes of the story. This single-room drama is the purest statement of that project, the picture in which Hughes strips his own formula down to its load-bearing parts and lets them carry the entire ninety-seven minutes.

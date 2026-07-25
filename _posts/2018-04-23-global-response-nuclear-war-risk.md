@@ -9,7 +9,7 @@ excerpt: "How the world responded to the 2025 India-Pakistan conflict, from Mala
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 71
 author: "william-knight"
-last_updated: 2018-04-23
+last_updated: 2026-07-25
 lang: en
 ---
 For four days in May, the planet watched two nuclear-armed states trade missiles and wondered whether it was witnessing the opening hours of a catastrophe it could not stop. Television networks from Tokyo to London cut to maps of the Line of Control. Foreign ministries that had spent the spring absorbed by Ukraine and Gaza scrambled to draft statements. Markets in Mumbai and Karachi shuddered. Every capital that mattered said something, and almost none of them did anything that altered the trajectory of the fighting. The global reaction to the crisis that began with the Pahalgam massacre and climaxed in Operation Sindoor was loud, fast, and almost entirely rhetorical, and the gap between the volume of the words and the smallness of the actions is the most revealing fact about how the international order now handles a war between states that own atomic weapons.

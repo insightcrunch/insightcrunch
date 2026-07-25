@@ -9,7 +9,7 @@ excerpt: "The massive security crackdown in Kashmir after Pahalgam and Operation
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2018-04-30
+last_updated: 2026-07-25
 lang: en
 ---
 On April 22, 2025, three gunmen walked into the Baisaran Valley meadow near Pahalgam and killed 26 people, most of them tourists, in the deadliest attack on civilians in Indian-administered Kashmir in nearly two decades. Within hours, the Indian security establishment had begun what would become the largest crackdown in Kashmir since the abrogation of Article 370 in August 2019, a sweeping campaign of mass detentions, property demolitions, communication shutdowns, tourism closures, and expulsions that collectively transformed the valley's security landscape more dramatically than the [attack itself](https://insightcrunch.com/2018/01/08/pahalgam-attack-minute-by-minute/) ever could. The crackdown was the domestic face of the same doctrine that produced [Operation Sindoor](https://insightcrunch.com/2012/07/03/operation-sindoor-complete-guide/) abroad, and its scale raises the defining question of India's post-Pahalgam response: whether security necessity justified what human rights organizations have called collective punishment of a civilian population for the actions of three gunmen.

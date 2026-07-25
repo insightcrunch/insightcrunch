@@ -9,7 +9,7 @@ excerpt: "How India's complete trade suspension with Pakistan after Pahalgam 202
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
 author: "gregory-marsh"
-last_updated: 2018-05-07
+last_updated: 2026-07-25
 lang: en
 ---
 On April 23, 2025, less than 24 hours after five gunmen killed 26 tourists in Baisaran Valley, India formally closed the Wagah-Attari Integrated Check Post and suspended all bilateral trade with Pakistan. The announcement came in a Cabinet Committee on Security meeting at Prime Minister Narendra Modi's residence, and it was framed as a punitive measure: commerce cannot continue with a country that sponsors terrorism against Indian civilians. The framing was powerful. The economics, however, told a more complicated story. India's formal commerce with Pakistan had already collapsed to a fraction of its historical levels. The suspension of something that barely existed was, by design, asymmetric economic warfare at minimal domestic cost.

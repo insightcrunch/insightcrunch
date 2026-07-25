@@ -9,7 +9,7 @@ excerpt: "A complete minute-by-minute reconstruction of the Pahalgam tourist mas
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2018-01-08
+last_updated: 2026-07-25
 lang: en
 ---
 On April 22, 2025, between approximately 1:00 p.m. and 2:45 p.m., armed men entered the Baisaran Valley meadow near Pahalgam in southern Kashmir's Anantnag district and systematically executed twenty-six civilians, most of them Hindu tourists who had traveled to one of India's most celebrated mountain destinations for a spring holiday, separating victims by religion before firing at point-blank range with M4 carbines and AK-47 assault rifles in what became the deadliest terror attack on Indian civilians since the 2008 Mumbai massacre and the single event that made [Operation Sindoor](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/) inevitable.

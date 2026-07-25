@@ -9,7 +9,7 @@ excerpt: "Do the Right Thing turns one Brooklyn block into a study of race, heat
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2018-04-15
+last_updated: 2026-07-25
 lang: en
 ---
 There is a moment near the end of *Do the Right Thing* when the camera holds on a young man named Mookie as he stands between a grieving crowd and the pizzeria where he works, and the whole film seems to wait for him to decide what kind of story it has been. Spike Lee's 1989 drama spends most of its running time being a comedy of a Brooklyn neighborhood on the hottest day of summer, a mosaic of small frictions and warm routines, and then it turns, in a few unbearable minutes, into a film about a police killing and the fire that follows. The pivot is the point. Lee built a place worth loving so that its destruction would cost the audience something, and then he refused to tell that audience who was to blame.

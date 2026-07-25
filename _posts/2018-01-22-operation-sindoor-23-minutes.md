@@ -9,7 +9,7 @@ excerpt: "A target-by-target reconstruction of Operation Sindoor's 23-minute str
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2018-01-22
+last_updated: 2026-07-25
 lang: en
 ---
 At 0105 hours Indian Standard Time on May 7, 2025, aircraft from No. 17 Squadron of the Indian Air Force climbed from their forward staging positions into the pre-dawn darkness above Rajasthan and Punjab, armed with SCALP-EG cruise missiles and AASM Hammer precision bombs. Along the Line of Control, Indian Army artillery crews had already computed firing solutions for M982 Excalibur GPS-guided rounds, their barrels elevated and charged. SkyStriker loitering munitions sat on their launch rails, their electro-optical seekers cold against the pre-dawn air, their guidance systems loaded with coordinates that had been refined through weeks of satellite imagery analysis, signals intelligence, and human source reporting from networks operating inside Pakistan. Nine sets of coordinates had been programmed. Nine targets would be struck. In the next twenty-three minutes, the armed forces of the Republic of India would execute the most consequential military operation on the subcontinent since December 1971, reaching across international borders to destroy terrorist infrastructure in Pakistan's Punjab heartland and across Pakistan-administered Kashmir in a synchronized campaign that announced, with unmistakable clarity, that the era of strategic restraint was finished.

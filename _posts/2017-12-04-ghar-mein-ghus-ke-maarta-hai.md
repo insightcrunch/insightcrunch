@@ -9,7 +9,7 @@ excerpt: "How PM Modi's rallying cry about striking enemies inside their homes f
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2017-12-04
+last_updated: 2026-07-25
 lang: en
 ---
 Seven Hindi words changed how a nation of 1.4 billion people talks about killing. When Prime Minister Narendra Modi stood before a roaring crowd in Ahmedabad in March 2019 and declared that his India does not send dossiers but enters the enemy's house and strikes, he did not coin a new rallying cry so much as crystallize a mood that had been building for years, a mood that Bollywood would amplify, that Indian media would adopt as shorthand, and that covert operatives on motorcycles in Karachi and Lahore would turn into documented reality.

@@ -9,7 +9,7 @@ excerpt: "The New Kingdom of Egypt, circa 1550 to 1069 BCE, turned a recovering 
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 78
 author: "chloe-martin"
-last_updated: 2003-05-01
+last_updated: 2026-07-25
 lang: en
 ---
 Every civilization has a period its own descendants treat as the standard against which everything else is measured, and for the Egyptians that period was the New Kingdom of Egypt. For roughly five centuries, from about 1550 to 1069 BCE, a kingdom that had spent a century divided and partly ruled by foreigners turned itself into the wealthiest and furthest-reaching state the Nile valley ever produced. Armies marched to the Euphrates. Gold moved north from Nubian mines in quantities that made Egyptian kings the bankers of the Bronze Age Near East. Temples at Thebes grew into economic institutions with their own fleets, estates, and workforces. The question this guide answers is not how impressive the New Kingdom looked, which is easy, but how it worked: what turned a recovering regional kingdom into an empire, what that empire actually consisted of, and why the whole arrangement came apart.

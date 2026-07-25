@@ -9,7 +9,7 @@ excerpt: "How Dhurandhar's fictional intelligence handler compares to documented
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2017-08-14
+last_updated: 2026-07-25
 lang: en
 ---
 Dhurandhar gave India's shadow war a face, but it also gave the shadow war a brain. Ranveer Singh's protagonist may have pulled the trigger, but the handler character standing behind the desk in New Delhi pulled the strings, and the spymaster archetype that Dhurandhar constructed tells us as much about how India imagines its intelligence leadership as any memoir or declassified file ever could.
