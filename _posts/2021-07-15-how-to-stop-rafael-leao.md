@@ -6,15 +6,15 @@ date: 2021-07-15
 categories: ["Leisure"]
 tags: ["Football", "Rafael Leao", "Tactics", "Defending", "Coaching", "Player Development"]
 excerpt: "How to stop Rafael Leao starts with the jockeying distance every coaching course teaches wrong, plus the touch-count window that decides the wide duel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-07-15
+lang: en
 ---
-
 The plan for how to stop Rafael Leao begins with a number, and the number most defenders have been given is wrong for this opponent. Stand two metres off a carrier and jockey: that is the rule taught on coaching courses, printed in defending manuals, and drilled into full-backs from the age of ten. It is a sound rule derived from an average, and the average it is derived from does not describe the player your full-back is about to face. Against a carrier whose stride covers substantially more ground per contact than the average, two metres is not a safe distance. It is an invitation.
 
-![How to stop Rafael Leao, the stride-adjusted jockeying distance and the touch-count window - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Rafael Leao, the stride-adjusted jockeying distance and the touch-count window - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 What the plan accepts giving up is the ball. You are not going to win it cleanly in the wide areas and you should stop trying, because every attempt to win it is a commitment and every commitment is what the carrier is waiting for. What the plan refuses to give up is the acceleration lane: the strip of ground, roughly ten to fifteen metres long and angled infield, in which a long-striding carrier converts a standing duel into a running one. Once he is travelling in that lane at full stride, no defender in the world recovers the situation, and everything that happens afterwards is your goalkeeper's problem.
 

@@ -6,17 +6,17 @@ date: 2010-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Value Form", "Money", "Das Kapital", "Marxist Economics", "Karl Marx"]
 excerpt: "The value form is the section of Capital that defeats most readers. Here is the derivation of money, worked step by step, and what fiat currency does to it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-08-15
+lang: en
 ---
-
 Two kinds of reader arrive at Marx on money and almost nobody serves both. The first wants to get through the third section of the first chapter of Capital, which is where more first readings of the book end than at any other point, and which Marx himself rewrote once and supplemented with a separate exposition because his earliest readers could not follow it. The second wants to know whether a theory built around a money commodity has anything to say now that no currency is convertible into gold, that most money is bank credit, and that some of it is a database entry with no issuer at all. The specialist literature answers the first question and ignores the second. The blogs answer the second and get the first wrong.
 
 The two questions are the same question. The reason the derivation is hard is that Marx is not describing how money arose; he is arguing about what money must be, given that value cannot express itself directly. And the reason the modern question is hard is that the answer depends entirely on whether the derivation requires a produced commodity at the end of it, or merely requires something that can perform the function the derivation establishes. Anyone who tells you that fiat currency obviously refutes Marx, or that it obviously does not, has skipped the step where you find out which.
 
-![Marx on money and the value form, the four forms and the derivation explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marx on money and the value form, the four forms and the derivation explained - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 Start with the misreading that causes the most damage. The four forms of value that Marx sets out in that section are not four stages in the history of money. They are four steps in an argument, each of which exposes an inadequacy in the previous one and each of which is a logical move rather than a period. Read as history, the sequence imports the story in which barter became awkward, so people hit on a commodity everyone would accept, and coinage followed. Read as an argument, the sequence establishes something quite different: that a commodity cannot express its own value, that expressing it in one other commodity is insufficient, that expressing it in all others is unusable, and that the problem is only solved when one commodity is excluded from the ranks of the rest and made the material in which everything else is measured.
 

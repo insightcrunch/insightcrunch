@@ -6,17 +6,17 @@ date: 2010-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Das Kapital", "Karl Marx", "Marxist Economics", "Research Methods", "Philosophy"]
 excerpt: "How to read Capital Volume One and finish it: four routes through the book, the translation decision, realistic pacing, and the chapter numbering trap."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-06-15
+lang: en
 ---
-
 Most people who abandon Capital Volume One do so on page thirty, and they blame themselves. They should not. The book has an opening that is harder than anything else in it, arranged in an order chosen for the argument rather than for the reader, and almost nobody arrives having been told either of those things. What defeats readers is not difficulty in general but a specific and predictable difficulty in a specific and predictable place, encountered without warning and without a plan for getting past it.
 
 This is the guide to the plan. Knowing how to read Capital Volume One is a different problem from knowing what it argues, and the two are routinely run together to the detriment of both. The [complete guide to the book's architecture](/2010/06/01/capital-volume-one-complete-guide/) handles what it proves and in what order; this article handles the practical decisions that determine whether you ever get there. There are four of them: which route you take through the text, which translation you hold, how long you allow, and what you do about the first chapter. Make all four before opening the book and your chances of finishing rise sharply. Make none of them, which is what most readers do, and the book decides for you.
 
-![How to read Capital Volume One, four routes through the text and the translation decision - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to read Capital Volume One, four routes through the text and the translation decision - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 One further practical matter is worth flagging at the outset because it derails reading groups constantly: the German editions of this work contain seven sections and twenty-five chapters, while the standard English editions contain eight parts and thirty-three chapters, because several German chapters were split in the English arrangement. Two people can therefore be reading different chapter fourteens in perfect good faith, and a reference in older scholarship need not match the chapter of that number in a modern English edition. The section below on numbering explains what to do about it.
 

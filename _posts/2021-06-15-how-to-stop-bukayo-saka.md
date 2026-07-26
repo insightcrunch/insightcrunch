@@ -6,15 +6,15 @@ date: 2021-06-15
 categories: ["Leisure"]
 tags: ["Football", "Bukayo Saka", "Tactics", "Defending", "Coaching", "Scouting"]
 excerpt: "How to stop Bukayo Saka: a counter-plan that defends the wide pair rather than the player, with the overlap, underlap and cutback assignments all named."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-06-15
+lang: en
 ---
-
 The plan for how to stop Bukayo Saka can be stated in one sentence, and the sentence is deliberately strange: do not defend him. Defend the pair. What accepts giving up is the harmless outcome, meaning the crossed ball delivered from a position and an angle you have chosen in advance, thrown into a box you have organized to win. What it refuses to give up is the moment two attackers occupy one defender and the defender improvises, because every goal this profile produces begins in that moment and almost none of them begin in a one-versus-one.
 
-![How to stop Bukayo Saka, defending the wide pair with a fixed hierarchy of ball and space - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Bukayo Saka, defending the wide pair with a fixed hierarchy of ball and space - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 Almost every opposition report written about a wide attacker of this type is built the wrong way round. It scouts the player: his preferred direction, his shooting angles, his first touch, his cut inside, his crossing foot. All of that information is accurate and almost none of it is decisive, because the situations in which the information would help are the situations that do not occur. He rarely takes on an isolated defender in a genuine one-versus-one with no support, and when he does, the outcome is close to a coin flip that a competent full-back wins often enough to live with. The situations that hurt are the ones where a second attacker has already changed the arithmetic before the first touch, and no amount of scouting the individual will prepare a full-back for a situation in which he was always going to be wrong.
 

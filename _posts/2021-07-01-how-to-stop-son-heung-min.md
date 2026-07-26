@@ -6,15 +6,15 @@ date: 2021-07-01
 categories: ["Leisure"]
 tags: ["Football", "Son Heung-min", "Tactics", "Defending", "Coaching", "Attacking"]
 excerpt: "How to stop Son Heung-min with a rest-defense plan rather than a marking plan, plus the real answer when an attacker has no weaker foot to show him onto."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-07-01
+lang: en
 ---
-
 The plan for how to stop Son Heung-min begins while you have the ball, which is the sentence most coaches will find hardest to accept and the one everything else in this article depends on. What it accepts giving up is territory and the settled duel: he will receive the ball in decent positions, he will beat defenders occasionally, and you will not prevent that. What it refuses to give up is the transition, the four-second window between your side losing possession and your side re-establishing shape, because that window is where almost every dangerous action from this profile begins and where almost no defensive plan is actually operating.
 
-![How to stop Son Heung-min, a rest-defense counter-plan for a two-footed transition runner - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Son Heung-min, a rest-defense counter-plan for a two-footed transition runner - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 Two facts define the entire problem and both of them break the standard defensive toolkit.
 

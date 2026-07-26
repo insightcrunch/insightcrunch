@@ -6,12 +6,12 @@ date: 2028-01-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Narratology", "Narrative Theory", "Literary Theory", "Critical Lens", "Literary Analysis"]
 excerpt: "Narratology and The Great Gatsby: a systematic account of the voice, focalization, order, duration, and frequency settings inside Fitzgerald's classic."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2028-01-10
+lang: en
 ---
-
 Ask a room of readers what makes Fitzgerald's novel work and most will point at the prose. Ask them what the narration is doing and the answers get vaguer: Nick is unreliable, the story is told in flashback, we only see Gatsby from outside. Every one of those observations is correct and none of them is precise enough to build on. Narratology and The Great Gatsby is the pairing that fixes that, because narratology supplies a vocabulary in which each of those intuitions becomes a specific, checkable claim about a specific parameter of the telling.
 
 The discipline's premise is that narrative is a system with describable components, and that the components can be isolated the way a chemist isolates compounds. Who speaks is one question. Who perceives is a different question, and confusing the two produces most of the confusion in student writing about this novel. The order in which events are told is separable from the order in which they happened. The amount of page time given to an hour is separable from the amount given to a year. How many times an event is narrated is separable from how many times it occurred. Each of these is a dial, each can be set independently, and a novel's effects are produced by the settings.
@@ -20,7 +20,7 @@ Fitzgerald's settings are unusual, and the unusualness is why the book feels the
 
 This article sets narratology out as a working method rather than a glossary. It explains the system, applies it parameter by parameter to named passages, supplies a parameter table for essay use, defends a named reading, and answers the most common charge against the approach, which is that it dresses ordinary close reading in imported terminology.
 
-![Narratology and The Great Gatsby explained through voice, focalization, order, and narrative time - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Narratology and The Great Gatsby explained through voice, focalization, order, and narrative time - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 ## Narratology and The Great Gatsby: what the system adds
 

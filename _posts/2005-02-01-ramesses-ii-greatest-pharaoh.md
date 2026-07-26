@@ -6,17 +6,17 @@ date: 2005-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ramesses II", "Ramesside Egypt", "Pharaohs", "Ancient Egypt", "New Kingdom"]
 excerpt: "Ramesses II reigned circa 1279 to 1213 BCE, and this guide weighs his wars, monuments, and family against the case for calling him Egypt's greatest king."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-02-01
+lang: en
 ---
-
 Ramesses II is the pharaoh whose name a person who knows nothing else about Egypt can usually produce. He held the throne for roughly sixty-six years, put his name on more stone than any other Egyptian king, fought the most famous battle of the Bronze Age, signed the earliest surviving international treaty, fathered so many children that his sons are buried in the largest tomb in the Valley of the Kings, and lived to around ninety in a world where most people did not see forty. The label attached to him, greatest pharaoh, has been repeated so consistently for so long that it now functions as part of his name.
 
 This guide takes that label seriously enough to test it. The test is not whether Ramesses II was impressive, because he plainly was, but whether the specific things he achieved amount to greatness in the sense the word is usually meant, or whether they amount to something more interesting: an extraordinary capacity to be recorded. Those are different claims, and the evidence supports them unequally.
 
-![Ramesses II explained, the reign, wars, monuments and contested greatness of Egypt's most famous pharaoh - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ramesses II explained, the reign, wars, monuments and contested greatness of Egypt's most famous pharaoh - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The argument advanced here is the greatness-by-longevity-and-scale thesis. Ramesses II's reputation rests principally on two things that are not military or administrative achievements at all: he reigned for an exceptionally long time, and he built and inscribed at a volume no predecessor approached. Those two facts generate almost every impression the reign leaves. They explain why his monuments dominate the Egyptian landscape, why his name appears on stone he did not commission, why the historical record of his reign is fuller than that of any comparable king, and why later ages, from Greek travelers to nineteenth-century poets, fixed on him. They do not, on their own, establish that he was a better ruler than Thutmose III, Ahmose I, or Senusret III. Separating the reputation from the record is the work of this article, and the honest verdict at the end is more favorable to him than the debunking tone of that framing might suggest, though not favorable in the way the popular image assumes.
 

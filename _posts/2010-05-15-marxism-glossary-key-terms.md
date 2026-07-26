@@ -6,17 +6,17 @@ date: 2010-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Political Theory", "Marxist Economics", "Philosophy", "Sociology", "Exam Preparation"]
 excerpt: "A Marxism glossary that draws the distinctions ordinary lists collapse, defining the key terms and naming the twelve pairs behind nearly all serious misuse."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-05-15
+lang: en
 ---
-
 Almost every argument about Marxism that goes nowhere goes nowhere for the same reason: two people are using one word in two senses and neither has noticed. Somebody says communism and means a stateless society of associated producers; somebody else hears it and thinks of a twentieth-century party state. Somebody says value and means the labour embodied in a commodity; somebody else hears it and thinks of price. Somebody says ideology and means the systematic distortion of understanding by social position; somebody else hears it and thinks of any set of political beliefs, which is the ordinary English sense and which makes the claim being advanced sound either trivial or insulting.
 
 A Marxism glossary that lists these words alphabetically with a definition apiece does nothing about that, because the problem was never the absence of definitions. The problem is that the terms come in near-neighbour pairs, and the useful knowledge is not what each word means but where the boundary between it and its neighbour falls. That is what this glossary supplies. It defines around seventy terms, organised by domain rather than alphabetically so that related vocabulary sits together, and after each definition it draws the boundary against whatever the term is most often confused with.
 
-![A Marxism glossary of key terms with the twelve confusion pairs that cause most misuse - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Marxism glossary of key terms with the twelve confusion pairs that cause most misuse - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The organising claim is that nearly every misuse of Marxist vocabulary in public argument, in student writing, and in journalism is one of twelve specific collapses, and that naming which collapse is happening ends most of these arguments faster than any counter-argument does. Those twelve pairs are set out below in a single table, and the rest of the glossary works through the domains one at a time: the economic vocabulary, the vocabulary of history and method, the vocabulary of class and society, the vocabulary of ideology and culture, the vocabulary of politics and organisation, and finally the factional labels, which behave differently from everything else because most of them were coined by opponents.
 

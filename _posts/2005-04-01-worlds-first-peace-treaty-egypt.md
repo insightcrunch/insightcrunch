@@ -6,17 +6,17 @@ date: 2005-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Peace Treaty", "Ramesses II", "Ramesside Egypt", "Ancient Egypt", "World History"]
 excerpt: "The world's first peace treaty was sealed circa 1259 BCE between Egypt and the Hittites, and this guide sets out its terms and two surviving versions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-04-01
+lang: en
 ---
-
 Roughly sixteen years after two empires had thrown the largest chariot armies in history at each other on the Orontes, a messenger arrived at the Egyptian court carrying a tablet of silver. Engraved on it, in the diplomatic language of the age, was a document in which the Hittite Great King and the Egyptian pharaoh addressed one another as brothers, renounced war permanently, promised to defend each other against attack, agreed to return each other's fugitives, and called a thousand gods on each side to witness the whole arrangement. The silver tablet itself does not survive. Copies of what it said do, in two languages, from two capitals, made by two chanceries with opposing interests, and their survival is the reason this document is the earliest international agreement whose full text can be read from both sides.
 
 That is a stronger claim than the one usually made, which is that this was the world's first peace treaty. It was not, and this guide will not pretend otherwise. Agreements between states long predate it, some by a thousand years. What makes the Egyptian-Hittite treaty of circa 1259 BCE genuinely first is narrower and more interesting: it is the earliest surviving treaty concluded between two great powers as acknowledged equals, preserved in both parties' own versions, in which neither side is a subject of the other and both accept identical obligations.
 
-![The Egyptian-Hittite peace treaty explained, the world's first surviving parity agreement between two great powers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Egyptian-Hittite peace treaty explained, the world's first surviving parity agreement between two great powers - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 That is the first-parity-treaty thesis, and it is the argument this article defends. The point is not the sequence of who wrote something down first. It is the constitutional shape of the document. Ancient states routinely imposed terms on defeated enemies, and Hittite archives are full of vassal treaties in which a subject ruler swears obedience and receives protection. Those are contracts of submission. The agreement with Egypt is something else: a bilateral instrument between parties of equal standing, with reciprocal clauses, mutual guarantees, and no hierarchy expressed anywhere in it. That structure is the one that international agreements would eventually adopt as standard, and its earliest surviving complete example is this one.
 

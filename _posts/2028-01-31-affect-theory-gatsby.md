@@ -6,17 +6,17 @@ date: 2028-01-31
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Close Reading", "Themes", "Nick Carraway", "American Literature"]
 excerpt: "Affect theory and Great Gatsby criticism meet where longing and elegy circulate beyond the characters, with passage analysis, objections, and essay strategy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-01-31
+lang: en
 ---
-
 Ask a room of readers what they felt at the end of this novel and the answers converge on a word nobody can locate in the plot. Loss. Nothing has been lost that the reader owned. A man they met three hundred pages ago is dead, and he was not admirable, and his death was arranged by a stranger's mistake. Affect theory and Great Gatsby criticism meet exactly here, at the gap between what the story reports and what the prose transmits, and the lens exists to argue that the gap is not a mystery but a mechanism.
 
 The plain reading explains the ending by pointing at the characters. Gatsby is dead, Nick is sad, and the reader sympathizes. That explanation is available and insufficient, because it cannot account for the most reproducible fact about this novel, which is that its final cadence moves readers who dislike its hero, distrust its narrator, and can summarize its argument in a sentence. Something is being transmitted that does not run through sympathy for anyone.
 
-![Affect theory and The Great Gatsby explained through longing, elegy, and the intensities that circulate between the prose and the reader - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Affect theory and The Great Gatsby explained through longing, elegy, and the intensities that circulate between the prose and the reader - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 ## What Affect Theory and Great Gatsby Criticism Ask Together
 

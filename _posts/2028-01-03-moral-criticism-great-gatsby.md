@@ -6,12 +6,12 @@ date: 2028-01-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Moral Criticism", "Ethics in Literature", "Literary Theory", "Critical Lens", "Literary Analysis"]
 excerpt: "A moral criticism of The Great Gatsby examines the novel's own ethical system, its verdicts on the careless rich, and what it asks a reader to value."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2028-01-03
+lang: en
 ---
-
 Two claims sit at opposite ends of Fitzgerald's novel and refuse to be reconciled by anything in between. In the second paragraph Nick tells us he is inclined to reserve all judgements. Two hundred pages later he tells Gatsby, a man who has made a criminal fortune and spent it on a married woman, that he is worth the whole damn bunch put together. A moral criticism of The Great Gatsby begins exactly there, in the gap between a narrator who announces that he does not judge and a narrator who delivers one of the most quoted verdicts in American fiction.
 
 The lens does not exist to score the characters. It exists to ask what ethical structure a book is running: what it treats as harm, what it treats as excuse, whose suffering it registers and whose it passes over, and what standard is doing the work when a judgment finally lands. Those questions are answerable from the text. They do not require the reader to supply a personal morality, and an application that does supply one has stopped reading the novel and started grading it.
@@ -20,7 +20,7 @@ What makes Fitzgerald's book an unusually rich case is that it is not a moral no
 
 This article sets out the moral lens as a working method: where the approach came from, what it asks, how it applies to specific scenes, and what defensible reading it produces. It supplies a judgment table for essay use, defends a named claim, and takes seriously the objection that the whole enterprise is a smuggling operation for the critic's own values.
 
-![A moral criticism of The Great Gatsby explained through Nick's verdicts and the careless rich - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A moral criticism of The Great Gatsby explained through Nick's verdicts and the careless rich - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 ## What moral criticism of The Great Gatsby actually is
 

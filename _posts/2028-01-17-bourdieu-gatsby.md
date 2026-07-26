@@ -6,12 +6,12 @@ date: 2028-01-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Bourdieu", "Cultural Capital", "Class and Society", "Critical Lens", "Literary Analysis"]
 excerpt: "Class and Bourdieu's theory in Gatsby: how cultural capital, habitus, and distinction explain an exclusion that money by itself could never have caused."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2028-01-17
+lang: en
 ---
-
 Gatsby has more money than Tom Buchanan. The novel never says so outright, but the evidence is on every page: the house that a brewer built and Gatsby bought, the hydroplane, the Rolls-Royce running as an omnibus, the two motorboats, the marquee tent, the caterers from New York, the orchestra with oboes and trombones and cornets. Tom has a house, some polo ponies, and an apartment in the city. If money were the barrier, Gatsby would be inside. Class and Bourdieu's theory in Gatsby is the pairing that explains why he is not, because it supplies a vocabulary for the forms of advantage that money cannot purchase and that the novel spends two hundred pages demonstrating.
 
 Pierre Bourdieu's central insight was that societies stratify through several currencies at once, and that the least visible of them do the most work. Economic capital is the one everyone can see. Cultural capital, which is competence, taste, credentials, and the ease of someone raised among the right objects, is largely invisible to its possessors and completely opaque to those who lack it. Social capital is the network. Symbolic capital is the recognition that converts the others into legitimacy. Above and beneath all of them sits habitus, the set of dispositions laid down in a body by an upbringing, which produces the way a person walks, eats, speaks, and knows without deliberation what is done.
@@ -20,7 +20,7 @@ Applied to Fitzgerald's novel this framework does something no purely economic a
 
 This article sets out the framework as a working method, applies its concepts to specific scenes, supplies a decoder table for essay use, defends a named reading, and addresses the two objections that matter: that Bourdieu is a sociologist rather than a literary critic, and that the whole apparatus restates Marxism in a fancier vocabulary.
 
-![Class and Bourdieu's theory in Gatsby explained through cultural capital and habitus - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Class and Bourdieu's theory in Gatsby explained through cultural capital and habitus - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 ## Class and Bourdieu's theory in Gatsby: the framework explained
 

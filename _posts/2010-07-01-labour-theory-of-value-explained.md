@@ -6,17 +6,17 @@ date: 2010-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Labour Theory of Value", "Karl Marx", "Marxist Economics", "Das Kapital", "Political Theory"]
 excerpt: "The labour theory of value does not claim price equals labour time. Here is what Marx argued, what he denied, and where each of the claims sits in the text."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-07-01
+lang: en
 ---
-
 Almost every argument you will read about the labour theory of value is conducted against a proposition its author never defended. The version under attack holds that the price of a thing equals the quantity of labour poured into it, so that a badly made chair which took a week is worth more than a good one that took a day, and a mud pie nobody wants is worth whatever the mud-pie maker spent making it. That version is refutable in a sentence, which is why it is the version that circulates. It is also the version that Marx spends the third volume of Capital explicitly denying, and the version his own definition of value in the first chapter rules out before the argument has properly begun.
 
 The distinction matters more than any other single correction in this subject. A reader who takes away nothing else from this article should take away this: the theory is not a claim that prices track labour times, and every objection built on the assumption that it is has already missed. What the theory claims is narrower, stranger, and harder to dismiss. It claims that in a society where production is private and coordination happens after the fact through exchange, the labour of thousands of unconnected producers gets allocated across thousands of tasks without anybody deciding how, and that the mechanism doing the allocating is the mutual comparison of products in exchange. Value is the name for what that mechanism registers.
 
-![The labour theory of value in Marx, what it claims and what it denies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The labour theory of value in Marx, what it claims and what it denies - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The confusion is not the fault of careless readers. It has a history. The phrase "labour theory of value" is not Marx's own; he writes of the law of value, and the theory itself was economic orthodoxy for a century before he touched it. Adam Smith and David Ricardo both held versions of it, and Ricardo held a considerably more literal version than Marx did. When the finance explainers say that economists once believed goods were worth the labour in them and then discovered marginal utility, they are describing a real episode in intellectual history, but they are describing Ricardo's problem rather than Marx's, and they are describing a displacement rather than a refutation. Sorting out which claim belongs to whom is most of the work of understanding the theory at all.
 

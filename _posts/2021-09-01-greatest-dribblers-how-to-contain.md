@@ -6,17 +6,17 @@ date: 2021-09-01
 categories: ["Leisure"]
 tags: ["Football", "Defending", "Tactics", "Attacking", "Coaching", "Scouting"]
 excerpt: "The greatest dribblers and how to contain them: the five containment classes, why knowing the move barely helps, and what a defensive plan should target."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-09-01
+lang: en
 ---
-
 Every serious attempt to contain the greatest dribblers in football history has run into the same uncomfortable finding, and almost nothing written about them acknowledges it: knowing what the man is about to do helps far less than coaches assume. Defenders facing the most famous one-versus-one threats of any era have very often known exactly which move was coming, from which side, with which foot, and have been beaten by it anyway, in front of eighty thousand people who also knew.
 
 That is not a failure of preparation. It is evidence that preparation was aimed at the wrong target. The claim this article makes and defends is called the prediction gap: knowing a dribbler's intention improves a defender's outcome far less than knowing his own balance state does, which means the preparation budget should be spent on the defender's body and on the support around him rather than on scouting the repertoire.
 
-![The greatest dribblers and how to contain them, five containment classes and a defensive doctrine for the one on one threat - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The greatest dribblers and how to contain them, five containment classes and a defensive doctrine for the one on one threat - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 What follows is not a ranking and it is not a compilation. It is a classification. Great dribblers are not one problem with one answer; they are five distinct mechanisms, and each mechanism has a different defender error attached to it, a different second-defender timing, a different structural requirement, and a different concession. A coach who can classify the man he is about to face has most of his plan already. A coach who cannot has a video package and a feeling.
 

@@ -6,17 +6,17 @@ date: 2028-01-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Gatsby's Parties", "Themes", "Close Reading", "American Literature"]
 excerpt: "Commodity and spectacle theory in Gatsby reads the parties as staged display and people as things, with passage analysis, objections, and essay strategy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-01-24
+lang: en
 ---
-
 A plain reading of Gatsby's parties sees a rich man throwing money at strangers. Commodity and spectacle theory in Gatsby sees something colder and more exact: an apparatus that converts fruit into pulp, guests into scenery, and a man into an image, and then runs on the fuel of being looked at. The difference between those two readings is not a difference of mood. It is a difference in what counts as evidence. The plain reading treats the crates of oranges as color. The lens treats them as a production figure.
 
 That shift matters because Fitzgerald gives you the figures. He tells you the fruit arrives every Friday and leaves in a pyramid of rinds by Monday. He tells you a machine processes two hundred oranges in half an hour. He tells you a corps of caterers arrives with canvas and colored lights. A novel about romantic longing does not need an inventory. This novel supplies one, repeatedly, and the inventory is the strongest single argument for reading the book through the theory of commodities and the theory of display.
 
-![Commodity and spectacle theory in The Great Gatsby explained through the parties, the displays, and Gatsby's manufactured image - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Commodity and spectacle theory in The Great Gatsby explained through the parties, the displays, and Gatsby's manufactured image - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 ## What Commodity and Spectacle Theory in Gatsby Actually Claims
 

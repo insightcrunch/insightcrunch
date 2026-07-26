@@ -6,17 +6,17 @@ date: 2010-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Commodity Fetishism", "Das Kapital", "Karl Marx", "Critical Theory", "Sociology"]
 excerpt: "Commodity fetishism is not consumerism, not false consciousness, and it does not vanish once you understand it. Here is the argument Marx actually made."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-08-01
+lang: en
 ---
-
 Commodity fetishism is not a claim about shoppers. It is not a claim that people love brands too much, that advertising has enchanted the public, or that consumers mistake possessions for happiness. Every one of those propositions may be true and none of them is what Marx argued in the fourth section of the first chapter of Capital. The concept has been captured almost entirely by consumer-culture writing, where it functions as a technical-sounding synonym for materialism in the shopping sense, and the capture has been so complete that a reader who arrives at the passage after reading about it will not recognise what is there.
 
 Here is what is there. In a society where things are produced privately and coordinated only afterwards through exchange, the relations between producers take the form of relations between their products. Prices, values, and the exchangeability of goods present themselves as properties belonging to the goods, in the way that weight or hardness belongs to them, rather than as expressions of a relation between the people who made them. That appearance is not an error anybody commits. It is the form the relation actually takes in this kind of society. And it does not go away when you understand it.
 
-![Commodity fetishism in Marx, what the concept means and what it is confused with - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Commodity fetishism in Marx, what the concept means and what it is confused with - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The last point is the one that separates a serious treatment from the popular ones, and it is the reason the concept cannot be false consciousness. Marx states directly that the scientific discovery of what lies behind the appearance does not dispel the appearance. A person who has read the chapter, accepted the argument, and can explain it to others still walks into a shop and encounters prices as facts about the goods. The structure producing the appearance is the organisation of production, not the beliefs of the observer, and beliefs do not touch it. Any account that presents the concept as an illusion to be dispelled by education has misread the sentence that governs the whole passage.
 

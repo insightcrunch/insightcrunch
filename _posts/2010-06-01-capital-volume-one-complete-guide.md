@@ -6,17 +6,17 @@ date: 2010-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Das Kapital", "Karl Marx", "Marxist Economics", "Political Theory", "Philosophy"]
 excerpt: "Capital Volume One explained by its architecture: what the book proves, in what order, why it opens with the commodity, and how to spot a quotation misused."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-06-01
+lang: en
 ---
-
 Nearly everyone who opens Capital Volume One expecting an indictment of industrial misery closes it again somewhere in the second chapter, and the reason is that the book does not begin where its reputation says it begins. It begins with a commodity, examined for several pages as though it were a specimen under glass, with no factories, no owners, no poverty, and no politics. The famous material about the working day, about the children in the mills, about machinery and its effects on the people operating it, sits hundreds of pages later, and by the time a reader reaches it the argument that material is evidence for has already been built without them.
 
 That is the single fact about the book that determines whether anyone finishes it, and it is also the fact that determines whether a reader can tell when a passage from it is being quoted honestly. Capital Volume One is not a description with a theory attached. It is a proof, assembled in a fixed order, in which each stage is entitled to use only what the preceding stages have established, and the factory material enters as evidence inside that structure rather than as its subject. The architecture is the argument, and almost every summary of the book available describes the content while leaving the architecture out, which is why so many readers who have absorbed the summaries still cannot say what the book proves.
 
-![Capital Volume One explained, the argument chain from the commodity to accumulation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Capital Volume One explained, the argument chain from the commodity to accumulation - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 This guide sets out that architecture. It states what the book is trying to prove, works through the eight parts in order with the question each answers and the move each makes, explains why the opening is where it is rather than apologising for it, gives the publication and editorial history that determines which text you are actually reading, names the five misreadings the book attracts most reliably, and states the strongest objection to the whole enterprise together with the most honest reply available. A reader who finishes this article should be able to follow an argument about Capital without having read it, and should be able to tell, when someone quotes a sentence from it, whether that sentence is doing the work the quoter claims. The companion article on [how to read Capital Volume One](/2010/06/15/how-to-read-capital-volume-one/) handles the practical question of routes, translations, and pace, which this one deliberately leaves alone.
 

@@ -6,17 +6,17 @@ date: 2005-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ramesside Egypt", "New Kingdom", "Pharaohs", "Ancient Egypt", "Warfare"]
 excerpt: "Ramesside Egypt ran circa 1292 to 1069 BCE across two dynasties, and this guide dates the era, names its pharaohs, and explains its long imperial decline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-01-01
+lang: en
 ---
-
 Ramesside Egypt is the stretch of Egyptian history that most people picture when they picture pharaohs at all: colossal seated kings, chariot armies wheeling across temple walls, rock-cut facades staring out over Nubia. It is also the stretch that ends with a king in his capital unable to pay the workmen who dug his own tomb, with royal burials being stripped by organized gangs, and with a priest at Thebes writing his name in a cartouche because there was no longer anyone able to stop him. Both of those pictures are accurate. The task of this guide is to show that they belong to one continuous story rather than two.
 
 The period covers the Nineteenth and Twentieth Dynasties, circa 1292 to 1069 BCE, and it takes its name from the eleven kings called Ramesses who sat on the throne across those two dynasties. Understanding it means holding an arc in mind rather than a snapshot. The arc begins with an army officer's family inheriting a throne and rebuilding an empire, peaks in a sixty-six-year reign that plastered the Nile valley with monuments, and closes with a shrunken kingdom that had lost its Asiatic provinces, its Nubian gold, its grain price stability, and finally its unity.
 
-![Ramesside Egypt explained, the Nineteenth and Twentieth Dynasties from Ramesses II to the fall of the New Kingdom - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ramesside Egypt explained, the Nineteenth and Twentieth Dynasties from Ramesses II to the fall of the New Kingdom - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 That arc is the argument of this article, and it has a name: the imperial-sunset thesis. Ramesside Egypt should be read as a single long sunset rather than as a golden age followed by an unrelated collapse. The features that made the era brilliant at its start are the same features that made it fragile at its end. A Delta capital built for a northern war footing became a capital that could not command the south. A building program financed by empire became a temple estate that outlasted the empire and absorbed the state's land. An army rebuilt around foreign professionals became an army whose Libyan soldiers eventually settled the Delta as its new landholders. Nothing here is a mystery. The decline was manufactured by the same choices that produced the glory.
 

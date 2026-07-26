@@ -6,17 +6,17 @@ date: 2021-08-01
 categories: ["Leisure"]
 tags: ["Football", "Khvicha Kvaratskhelia", "Tactics", "Defending", "Coaching", "Scouting"]
 excerpt: "How to stop Khvicha Kvaratskhelia: why doubling up backfires against a close control dribbler, and the containment angle counter-plan that works instead."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2021-08-01
+lang: en
 ---
-
 The plan to stop Khvicha Kvaratskhelia begins by refusing the single instruction every touchline in world football shouts when a dribbler receives the ball on the left: send help. Against this profile, help is the problem. The counter-plan here is a containment-by-angle scheme in which the near defender holds a fixed distance and a fixed body angle outside the range where the attacker's close control does its damage, the second defender drops rather than closes, and the team accepts a specific and deliberate concession in exchange. What you give up is the harmless first touch, the sideways carry, and a share of possession in the left channel that will look uncomfortable on the touchline and will read as passivity to anyone watching without the plan in their head.
 
 That trade is the whole article. Most counter-plans against wide attackers are built to deny space, because most wide attackers convert space into danger. This one is built to deny proximity, because this attacker converts proximity into danger. Getting that inversion right is the difference between a defensive left side that holds and one that leaks two-versus-one situations in the final third every four minutes.
 
-![How to stop Khvicha Kvaratskhelia, a containment angle counter-plan for defending a close control dribbler - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Khvicha Kvaratskhelia, a containment angle counter-plan for defending a close control dribbler - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 ## The plan against Kvaratskhelia in one sentence
 

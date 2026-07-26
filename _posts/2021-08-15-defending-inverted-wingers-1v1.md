@@ -6,17 +6,17 @@ date: 2021-08-15
 categories: ["Leisure"]
 tags: ["Football", "Defending", "Tactics", "Coaching", "Player Development", "Youth Football"]
 excerpt: "Defending an inverted winger one on one: the five decisions that settle every wide duel, why the set matters most, and how to recover after being beaten."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-08-15
+lang: en
 ---
-
 Defending an inverted winger one on one is not decided by the moment everybody watches. It is decided roughly a second and a half before that, in a piece of the duel with no highlight value at all: whether the defender is stationary and balanced at the instant the attacker takes his settling touch. Get that right and a fast, skilful, confident wide player has a difficult problem. Get it wrong and the rest of the duel is a formality dressed up as a contest, and no amount of quick feet, bravery, or shouting from the touchline will retrieve it.
 
 That is the argument of this article and it has a name: the set is the duel. Everything a defender does afterwards, the shuffling, the angle, the delay, the eventual challenge, is executed from a platform that was either built or squandered before contact. Coaches who understand this stop coaching the moment of the beat and start coaching the approach, which is the part of the duel that is genuinely trainable and almost universally ignored.
 
-![Defending an inverted winger one on one, the wide duel craft from the approach and the set through body shape to the recovery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Defending an inverted winger one on one, the wide duel craft from the approach and the set through body shape to the recovery - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 This is a craft article rather than a plan article. It teaches a full-back, a wing-back, or a dragged-wide centre-back the mechanics of the duel itself: five decisions, each with a trigger, a correct action, a common error, a consequence, and a coaching cue that fixes it. It deliberately does not resolve whether you should show him inside or outside, because that is a genuine tactical decision that depends on your covering structure and on the attacker's profile, and it has its own dedicated treatment in [the real answer to showing him inside or outside](/2022/01/15/show-inside-or-outside-defending/). It also does not classify wide attackers by type, which belongs to the category hub, or resolve whether pace or positioning is the deciding attribute in defending, which belongs elsewhere in this series. What it does is teach the physical and decision-making craft that sits underneath every one of those choices.
 

@@ -6,17 +6,17 @@ date: 2010-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "Historical Materialism", "Exam Preparation", "Political Theory", "Sociology", "Karl Marx"]
 excerpt: "Historical materialism exam answers with real marks logic: the four-move structure, the marks ladder, quotations to learn, and the errors that cap a script."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-05-01
+lang: en
 ---
-
 An examiner reading a hundred scripts on historical materialism will see the same answer ninety times. It opens with a sentence about Marx believing that economics determines everything, moves to a paragraph on base and superstructure with the standard building metaphor, adds the five stages of history in a list, mentions that critics say the theory is too deterministic, and stops. It is not wrong, exactly. It is unmarkable above the middle band, because nothing in it demonstrates anything the candidate could not have got from a revision card, and because the two things assessments on this topic actually reward, mechanism and specification, are both missing.
 
 Mechanism means showing how the theory is supposed to work rather than restating what it claims. Anyone can write that the economic base conditions the superstructure. A marked-up script says why the conditioning happens, through what process, and what the theory predicts will occur when the process stalls. Specification means saying which version of the theory is under discussion, because historical materialism is not one claim but a family of claims of very different strength, and an evaluation that does not say which claim it is evaluating is an evaluation of nothing. Those two things separate the middle band from the top band on every assessment where this topic appears, and neither of them requires extra content. They require a different arrangement of content the candidate already has.
 
-![Historical materialism exam answers, the marks ladder and the four-move answer structure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Historical materialism exam answers, the marks ladder and the four-move answer structure - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 This guide is about the arrangement. It does not re-teach the theory; the [complete guide to historical materialism](/2010/01/15/historical-materialism-complete-guide/) does that, setting out the six separable propositions of the 1859 preface and the ladder of positions running from the strongest reading to the weakest, and this article assumes that material and shows what to do with it under a clock. What follows is the answer architecture, the marks logic behind each band, four worked skeletons narrated in prose, the four quotations short enough to be worth memorising and safe enough to be worth using, the evaluative moves that carry credit, the six errors that put a ceiling on a script no matter how much else is right, and the timing discipline that makes all of it survivable in the thirty or forty minutes you will actually have.
 

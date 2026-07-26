@@ -6,17 +6,17 @@ date: 2005-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Battle of Kadesh", "Ramesses II", "Warfare", "Ramesside Egypt", "Ancient Egypt"]
 excerpt: "The Battle of Kadesh, circa 1274 BCE, was the largest chariot battle ever fought, and this guide sets out the march, the ambush, the rally, and the outcome."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-03-01
+lang: en
 ---
-
 The Battle of Kadesh is the earliest battle in human history whose course can be reconstructed hour by hour. That is a stronger claim than it sounds. For almost every ancient engagement, historians know roughly who fought, roughly where, roughly when, and roughly who prevailed, and the tactical detail is either absent or supplied by a writer working centuries later from hearsay. For Kadesh, an army's line of march, the intelligence it acted on, the moment it was surprised, the point at which one of its divisions collapsed, and the sequence of events that stabilized the field are all recorded by participants in the campaign year, in multiple versions, with accompanying pictorial reliefs.
 
 The reason for that unique documentation is not that Egyptian record-keeping suddenly improved. It is that the battle nearly destroyed an Egyptian army with the king inside it, and the propaganda operation required to convert that near-disaster into a triumph demanded a level of narrative detail that Egyptian royal inscription had never previously attempted. The best-documented battle of the ancient world exists because it went badly.
 
-![The Battle of Kadesh explained, the ambush, the rally, and the stalemate between Egypt and the Hittites - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Battle of Kadesh explained, the ambush, the rally, and the stalemate between Egypt and the Hittites - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The claim this guide advances is the largest-chariot-battle thesis. Kadesh matters not because of who won, which is genuinely disputed and is settled in a separate article, but because it was the greatest chariot engagement of the Bronze Age and the point at which the two most powerful states of the eastern Mediterranean committed the full weight of their military systems against each other in one place. Something between four and six thousand chariots were present on the plain of the Orontes, which is a concentration of the era's most expensive and most technically demanding weapon system that has no parallel before or since. Everything historians know about how Late Bronze Age armies actually fought comes disproportionately from this single day.
 
