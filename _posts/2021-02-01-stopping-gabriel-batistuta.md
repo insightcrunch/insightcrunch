@@ -8,10 +8,10 @@ tags: ["Football", "Gabriel Batistuta", "Tactics", "Defending", "Coaching", "Att
 excerpt: "How defenders stopped Gabriel Batistuta: the shooting corridor, the closing distance, the screening partner, and the pass a low block agrees to concede."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-02-01
+lang: en
 ---
-
 A defensive block is a probability machine. It is built to push the ball into the areas where goals are least likely to come from, hold its shape while the attacking side runs out of ideas, and force the eventual entry to arrive from a bad angle with bodies already in front of it. That machine has one input it cannot control, and Gabriel Batistuta is the clearest illustration in the history of the game of what happens when that input arrives. He did not need the entry. He did not need the cutback, the near-post cross, the through ball, or the second phase. He needed a yard of space at twenty metres and a ball sitting up in front of his right foot, and the entire apparatus behind that yard became irrelevant.
 
 That is the duel this article is about, and it is a duel almost nobody trains. Coaches train pressing triggers, back-line height, cover and balance, marking schemes on set pieces, and the recovery run. Very few train the specific act of closing a striking threat outside the box while a second defender manages the pass that the closing motion creates. The result is that most sides, at every level, defend shooting range by accident: somebody goes, somebody else half goes, the goalkeeper sets late, and the outcome is decided by whether the strike was good rather than by anything the defending side chose.

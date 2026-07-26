@@ -6,15 +6,15 @@ date: 2004-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Amarna Period", "Akhenaten", "Ancient Egypt", "Pharaohs", "Historiography"]
 excerpt: "Amarna art broke a thousand-year Egyptian artistic canon with naturalism, intimacy, and strange elongated royal bodies, then died with the faith behind it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2004-09-01
+lang: en
 ---
-
 For roughly seventeen centuries before Akhenaten took the throne, Egyptian artists worked inside a visual system so stable that a relief carved in the Fourth Dynasty and a relief carved in the Eighteenth could be read by the same eye without adjustment. Then, within perhaps five years, that system broke. Amarna art abandoned the serene, athletic, ageless royal body that Egypt had used since the pyramid age and replaced it with something that still unsettles viewers: a king with a long drooping face, a narrow neck, a soft belly, heavy thighs, and hips wider than his shoulders. It put the royal family in poses no earlier pharaoh had permitted, kissing children, slumping in chairs, weeping over a corpse. It filled palace floors with birds bursting out of papyrus without a register line to contain them.
 
-![Amarna Art: A Revolution in Style](/assets/images/blog/blog-01.webp)
+![Amarna Art: A Revolution in Style](/assets/images/blog/blog-115.webp)
 
 Judged by the standards of its own moment, this was not incompetence and it was not decadence. The Amarna workshops were staffed by craftsmen trained in the traditional system, working in the same limestone, sandstone, quartzite, and painted plaster their fathers had used, and executing the new forms with technical control that ranks among the finest Egypt ever produced. The bust of Nefertiti and the extreme colossi from Karnak came out of the same artistic revolution, which tells you the range the workshops commanded. What changed was not skill but instruction. Somebody at the top of the state decided that the way Egypt had depicted its king for a thousand years no longer expressed the truth about him, and the workshops were retooled to express a different truth instead.
 

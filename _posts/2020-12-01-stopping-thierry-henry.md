@@ -6,17 +6,17 @@ date: 2020-12-01
 categories: ["Leisure"]
 tags: ["Football", "Thierry Henry", "Defending", "Tactics", "Coaching"]
 excerpt: "How defenders stopped Thierry Henry, and why his diagonal run beat back fours during the transfer of responsibility rather than inside any single duel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-12-01
+lang: en
 ---
-
 Defenders stopped Thierry Henry on the occasions they stopped him at all by solving a communication problem, not by winning a duel. That is the finding this article is built on, and it survives every attempt to talk it away. Go back through the goals he scored from a wide left starting position and count how many of them contain a moment where one defender is beaten cleanly in a one against one. The number is smaller than the reputation suggests. Count instead the goals that arrive while two defenders are momentarily looking at each other, or at the ball, or at a space neither of them has been told to own. That number is very large indeed, and it accounts for the majority of the damage.
 
 The duel that decided this fixture was never Henry against a marker. It was a back four against its own hand-off procedure, tested twice inside four seconds by a runner moving diagonally across three defensive zones at a speed that gave each defender roughly a second and a half of ownership before the responsibility moved on. A defender can be excellent and still concede in that structure, because the failure happens in the seam between two competent people rather than inside either of them.
 
-![How defenders stopped Thierry Henry, the diagonal run hand-off problem for a back four - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Thierry Henry, the diagonal run hand-off problem for a back four - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 That is an uncomfortable thing for a coach to hear, because it moves the problem out of individual quality, where it can be solved by signing a better centre-back, and into collective procedure, where it can only be solved by rehearsal. It is also good news, because procedure is coachable at every level of the sport. A youth side with modest athletes can execute a hand-off correctly. A senior side with two international centre-backs can execute it badly and concede the same goal every week.
 

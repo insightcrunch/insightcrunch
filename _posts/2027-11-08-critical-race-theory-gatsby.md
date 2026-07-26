@@ -6,17 +6,17 @@ date: 2027-11-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Race", "Themes", "Context", "American Literature"]
 excerpt: "Race and critical race theory in Gatsby: how the lens reads Tom's panic and its pseudo-science as evidence that race structures the novel's whole world."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-11-08
+lang: en
 ---
-
 Twenty pages into the novel, before a single party and before Gatsby has spoken a word, a man at a dinner table announces that civilization is going to pieces and recommends a book about the coming collapse of the white race. Most classroom discussions treat this as characterization: Tom Buchanan is a bully and a bore, and the speech proves it. Race and critical race theory in Gatsby begin from a different premise, which is that the speech is not a stray detail about one man's prejudices but the first exposed wire in a system the whole book runs on. The lens asks what happens if you assume the racial hierarchy Tom announces is not an aberration inside the novel's world but the load-bearing structure of it.
 
 The result is a reading that rearranges the furniture. Class stops being the novel's deepest category and becomes the visible surface of a deeper one. Tom's panic stops being a character flaw and becomes a symptom of something the whole elite depends on. And the book's famous silence about race for long stretches stops looking like absence and starts looking like the specific silence that surrounds anything a society treats as too obvious to say.
 
-![Race and critical race theory in Gatsby explained through Tom's Nordicism and the novel's racial hierarchy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Race and critical race theory in Gatsby explained through Tom's Nordicism and the novel's racial hierarchy - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 ## What Race and Critical Race Theory in Gatsby Bring Into View
 

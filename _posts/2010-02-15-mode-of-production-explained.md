@@ -6,17 +6,17 @@ date: 2010-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "Mode of Production", "Political Theory", "History", "Marxist Economics", "Sociology"]
 excerpt: "A mode of production is identified by how surplus labour is extracted, not by technology or markets. Learn the test, the modes, and how to apply the concept."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-02-15
+lang: en
 ---
-
 Most explanations of the mode of production give you a list. Primitive communal, ancient, feudal, capitalist, and sometimes an Asiatic entry and a socialist one, each with a paragraph describing what people did for a living. A reader finishes the list able to recite it and no better placed to answer the question that actually arrives in a seminar or an examination, which is what mode of production a given society was in and how you would know.
 
 The list is not the concept. The concept is a specification: a mode of production is identified by the way surplus labour is pumped out of the direct producers, and everything else follows from that. Once you have the criterion, the list becomes a set of worked examples rather than a thing to memorise, and you can apply the analysis to a society nobody has classified for you. That is the difference between a category and a method, and it is the difference this guide exists to install.
 
-![The mode of production explained, the surplus extraction test with forces, relations and the Asiatic mode controversy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The mode of production explained, the surplus extraction test with forces, relations and the Asiatic mode controversy - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 Call the criterion the surplus-extraction test: a mode of production is identified not by its technology and not by its politics but by how surplus labour is transferred from those who perform it to those who do not, and any classification that has not answered that question has not identified a mode at all. The test is what disqualifies the common answers. It is not the level of technology, because societies with comparable techniques have organised extraction in opposite ways. It is not the presence of markets, because markets long predate capitalism and were compatible with several modes. It is not the political system, because the same relations of production have persisted under republics, monarchies, and colonial administrations. What distinguishes a mode is the mechanism, and the mechanism is what the analysis has to name.
 

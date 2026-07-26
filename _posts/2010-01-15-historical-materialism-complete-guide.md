@@ -6,17 +6,17 @@ date: 2010-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Historical Materialism", "Political Theory", "Philosophy", "History", "Sociology"]
 excerpt: "Historical materialism is six claims of descending strength, not one thesis. Learn which rung each attack targets, what it forbids, and what would refute it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-01-15
+lang: en
 ---
-
 Ask two well-read people whether historical materialism has been refuted and you will usually get a confident yes and a confident no, followed by an exchange in which neither position moves. The reason is not stubbornness. The critic is attacking a claim that technological development determines the whole of social life with something approaching necessity, and that claim is in serious trouble. The defender is holding a claim that material conditions constrain what is historically possible and that ideas do not float free of the arrangements that sustain them, and that claim is close to something most working historians accept. Both are describing something real. Neither is describing what the other is describing.
 
 That gap is the subject of this guide. Historical materialism is not one thesis. It is a family of at least six claims of descending strength, each with a different textual warrant, a different set of defenders, a different list of things it forbids, and a different account of what would count against it. Arranged from the strongest to the weakest they form a ladder, and the single most useful thing a reader can learn about this topic is how to identify which rung any given argument is standing on. Call it the strong-weak ladder rule: nearly every refutation of historical materialism attacks the top rung while nearly every defence retreats to the bottom rung, and an argument only counts once both parties have named their rung.
 
-![The strong-weak ladder of historical materialism, the 1859 preface explained clause by clause with criticisms - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The strong-weak ladder of historical materialism, the 1859 preface explained clause by clause with criticisms - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The ladder is not a diplomatic device for splitting the difference. It is a description of what the tradition actually contains, and the evidence for it is that the disputes about which rung is correct are conducted mainly between Marxists rather than between Marxists and their critics. G. A. Cohen and Robert Brenner disagreed sharply about whether productive forces or class relations carry the explanatory weight, and both were working inside the theory. E. P. Thompson attacked the structural version with a ferocity no external critic matched. The rungs are real positions with real holders, and treating them as one position is what makes the argument about this theory so unproductive.
 

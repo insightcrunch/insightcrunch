@@ -6,17 +6,17 @@ date: 2010-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "Historical Materialism", "Hegel", "Karl Marx", "Philosophy", "Political Theory"]
 excerpt: "Historical materialism and Hegelian idealism compared properly: what Marx kept, what he rejected, and why the standing-on-its-head image explains nothing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-04-01
+lang: en
 ---
-
 Almost every account of historical materialism and Hegelian idealism ends at the same place: Hegel had the dialectic standing on its head, and Marx turned it the right way up. The image comes from Marx himself and it is not wrong. It is also not an explanation. It tells a reader that something was reversed without saying what, leaves them unable to say which parts of Hegel survived the operation, and gives an examiner nothing to reward. A student who writes it has written the sentence every other candidate wrote.
 
 The two moves that actually constitute the difference can be stated in one line each, and everything else in this comparison is a specification of them. Marx kept Hegel's account of history as a process driven by contradiction, in which conflict within a form of life generates the next form rather than merely destroying the present one. Marx rejected Hegel's self-moving subject, the account in which the process is the development of thought, spirit, or reason coming to know itself, and replaced it with the development of human productive activity and the social relations it generates. Keep the contradiction, reject the subject. That is the inheritance and the break, and any accurate statement of the difference is a specification of those two moves rather than a repetition of the inversion image.
 
-![Historical materialism compared with Hegelian idealism, what Marx kept from Hegel and what he rejected - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Historical materialism compared with Hegelian idealism, what Marx kept from Hegel and what he rejected - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 This article sets out both positions as their own defenders would state them, works through the seven points on which they genuinely differ, separates those from the differences that are only vocabulary, gives the verdict with the deciding consideration named, and deals honestly with the strongest objection to the whole distinction, which is that Marx never escaped the teleology he claimed to have abandoned. The theory on the materialist side is set out in full in the [complete guide to historical materialism](/2010/01/15/historical-materialism-complete-guide/); the method the two share and dispute belongs to the [complete guide to dialectical materialism](/2012/07/01/dialectical-materialism-complete-guide/); and the narrower comparison of the two dialectics is owned by the [comparison of Hegel's dialectic with Marx's](/2012/08/15/hegel-dialectic-vs-marx-dialectic/). This article owns the comparison of the two conceptions of history.
 

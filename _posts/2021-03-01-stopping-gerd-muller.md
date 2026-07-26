@@ -6,17 +6,17 @@ date: 2021-03-01
 categories: ["Leisure"]
 tags: ["Football", "Gerd Muller", "Tactics", "Defending", "Coaching", "Attacking"]
 excerpt: "How defenders stopped Gerd Muller: why the six-yard box removes every normal defensive tool, and the contact and rebound rules a back four needs instead."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-03-01
+lang: en
 ---
-
 Almost every defensive skill a footballer is taught assumes space. Jockeying assumes there is somewhere to retreat to. Delaying assumes the attacker needs time he does not yet have. Showing a player onto his weaker side assumes he has to travel before he can shoot. Cover and balance assume a second defender can arrive from a position that is not already occupied. Inside the six-yard box, all four assumptions are false at once, and that is the entire reason a forward like Gerd Muller was the hardest opponent many excellent back fours ever faced despite being ordinary or worse by every measure that happens outside the penalty area.
 
 This is a duel that coaching has almost completely ignored. Sides spend hours on pressing structure, on the distance between lines, on building out from the back, on set-piece marking schemes for the delivery itself, and then defend the most decisive eight metres of the pitch on instinct. The result is that the six-yard box is the last genuinely unengineered space in professional football, and it is defended today with roughly the same collection of habits and reflexes that it was defended with when the forward this article is about was scoring in it.
 
-![How defenders stopped Gerd Muller, defending the six-yard box and the rebound - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Gerd Muller, defending the six-yard box and the rebound - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The German forward built a career at Bayern Munich and won a World Cup and a European Championship with West Germany, and his game was concentrated almost entirely inside the penalty area and especially inside the six-yard box. The tools were a low centre of gravity, a turning radius in confined space that larger players could not match, balance held through contact, anticipation of where a ball would end up rather than where it currently was, and the willingness and ability to finish at close range with either foot and with the head despite not being tall. Nothing on that list is spectacular in isolation. The combination, applied in the one part of the pitch where a defender has no tools left, produced a forward that organised, sophisticated defences did not know how to plan for, and largely still do not.
 

@@ -6,17 +6,17 @@ date: 2010-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Economic Determinism", "Historical Materialism", "Friedrich Engels", "Political Theory", "Philosophy"]
 excerpt: "Economic determinism is the most abused label in Marxism. The disputed claim stated precisely, five positions on the spectrum, and the test that settles it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-03-15
+lang: en
 ---
-
 The dispute over economic determinism has run for more than a century without either side stating the proposition clearly enough to be argued about. Critics say Marxism holds that the economy determines everything, which no serious Marxist has defended since the 1890s. Defenders say the theory only claims that material conditions matter, which no serious critic has denied since Herodotus. Both statements are true about somebody and neither is about the position actually in contention, and the result is a debate in which the two sides swing at each other's shadows.
 
 Here is the proposition both sides can accept as the thing under dispute. Marxism holds that the way a society organises material production explains, in a strong sense that goes beyond mere influence, the general character of its legal, political, and intellectual arrangements and the direction of its historical change. The disagreement is about what the strong sense amounts to, whether the theory can specify it without either collapsing into a truism or making claims the historical record refutes, and what, if anything, the claim rules out.
 
-![Economic determinism in Marxism, the spectrum of positions from mechanical determination to material constraint - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Economic determinism in Marxism, the spectrum of positions from mechanical determination to material constraint - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 That last clause is where this article lands. The test that resolves the dispute, and the one neither side usually applies, is whether a given version of the claim forbids anything. A determination claim is only meaningful if it names a historical outcome it rules out. Any version of economic determination that forbids nothing has bought its safety by ceasing to be a theory, and any version that forbids too much has been refuted several times over. Call this the forbidding test. Applying it to five positions on the spectrum, from mechanical determinism to bare material constraint, produces a verdict that is neither the critic's nor the defender's, and produces it from evidence rather than from assertion.
 

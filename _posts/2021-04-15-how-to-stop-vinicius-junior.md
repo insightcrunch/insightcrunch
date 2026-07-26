@@ -6,15 +6,15 @@ date: 2021-04-15
 categories: ["Leisure"]
 tags: ["Football", "Vinicius Junior", "Tactics", "Defending", "Coaching", "Attacking"]
 excerpt: "How to stop Vinicius Junior starts three passes early: break the manufactured isolation, pre-position the second defender, and concede the far flank freely."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-04-15
+lang: en
 ---
-
 The plan to stop Vinicius Junior fits in one sentence: refuse to over-shift, put the second defender in the space before the ball gets there, and hand the far side of the pitch to the opponent without argument. That last clause is not a caveat, it is the payment, and a coach who is unwilling to make it does not have this plan, he has a wish.
 
-![How to stop Vinicius Junior, a counter blueprint against the manufactured isolation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Vinicius Junior, a counter blueprint against the manufactured isolation - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 What makes the plan work is that it attacks the wrong thing on purpose. Everybody who prepares for this player prepares for the duel: which defender, how fast, how physical, whether to show him inside or outside. The duel is real and it is close to unwinnable in isolation, and the reason it is close to unwinnable is not that the defender is inadequate. It is that by the time the duel exists, four separate decisions have already gone against the defending side, and all four of them happened while the ball was somewhere else entirely.
 

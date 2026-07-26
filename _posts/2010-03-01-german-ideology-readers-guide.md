@@ -6,17 +6,17 @@ date: 2010-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "The German Ideology", "Karl Marx", "Historical Materialism", "Philosophy", "Research Methods"]
 excerpt: "The German Ideology is not a finished book but a bundle of abandoned manuscripts. Which parts to read, which to skip, and how to cite the text safely."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-03-01
+lang: en
 ---
-
 The single most useful thing to know about The German Ideology is that the chapter everyone quotes is not a chapter. What circulates under the heading "I. Feuerbach" is an editorial assembly, built in the twentieth century out of loose, separately paginated manuscript sheets that Marx and Engels never arranged into a finished text and never saw through a press. Seven distinct pieces of surviving material are involved. No two editors have ordered them the same way. The book you can buy with that chapter printed first, running continuously, with numbered sections and a confident argumentative sequence, is a scholarly construction presented as an authorial one.
 
 That fact changes how the text should be read and how it must be cited, and almost nothing written about the work online tells you about it. The guides summarise the argument. They rarely say that the argument's most famous statement survives as fragments, that roughly two thirds of the manuscript is a line-by-line demolition of a philosopher almost nobody now reads, or that a reader who wants the materialist conception of history in its early form needs perhaps thirty pages out of a volume that runs to hundreds.
 
-![The German Ideology reader's guide, manuscript status and which parts to read - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The German Ideology reader's guide, manuscript status and which parts to read - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 This guide is written to make you able to open the book, find what matters, understand what you are looking at, and cite it in a way that would survive a supervisor or an examiner. It covers what the work was for, why it was abandoned, how it became a book, which parts repay close reading and which can be skimmed without loss, what the four or five load-bearing passages actually say, how to handle the two passages that are most often misread, which edition to buy, and what to read before and after. The theoretical content itself belongs to the [complete guide to historical materialism](/2010/01/15/historical-materialism-complete-guide/), which sets out the mature theory the manuscripts are groping towards; this article is about the text as an object you have to handle.
 

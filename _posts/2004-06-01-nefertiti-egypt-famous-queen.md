@@ -6,15 +6,15 @@ date: 2004-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "New Kingdom", "Nefertiti", "Ancient Egypt", "Biography", "Archaeology"]
 excerpt: "Nefertiti held power almost unmatched among Egypt's queens, yet her fate and her famous painted bust still hold questions the surviving record cannot answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-06-01
+lang: en
 ---
-
 Nefertiti is one of the most recognized faces from the ancient world, and one of the least understood. A painted bust in a Berlin museum has made her a byword for beauty, so that millions who could not name a single Egyptian queen know her profile at a glance. Yet the woman behind that face is far harder to reach than the sculpture suggests. She held a share of royal power almost unmatched by any queen in three thousand years of Egyptian history, she stood at the center of a religious upheaval that shook the state, and then she vanished from the record so completely that scholars still argue over how and when she died, whether she ruled as a king in her own right, and which if any surviving body is hers. The gap between the fame of the face and the mystery of the life is the puzzle this article works through.
 
-![Nefertiti, Egypt's most famous queen: the painted Berlin bust, her power at Amarna, and the mystery of her fate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nefertiti, Egypt's most famous queen: the painted Berlin bust, her power at Amarna, and the mystery of her fate - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 The central problem in writing about Nefertiti is the distance between record and icon. The record is the queen who lived in the fourteenth century BCE, the Great Royal Wife of Akhenaten, shown in the art of his reign with a prominence no earlier queen enjoyed. The icon is the celebrity of the bust, a face that has been printed on posters, copied in plaster, and turned into a shorthand for feminine beauty far removed from anything the queen herself would have recognized. The two are not the same, and much of what people think they know about Nefertiti belongs to the icon rather than the record. This article keeps them apart. It advances what can be called the queen-as-near-king thesis, the argument that Nefertiti held a portion of kingly power so large that some Egyptologists believe she briefly became a pharaoh, while insisting that the evidence for that final step stays genuinely open rather than settled. Understanding Nefertiti means understanding exactly how much power a queen could hold, exactly what the sources show and hide, and exactly why her fame outran the facts.
 

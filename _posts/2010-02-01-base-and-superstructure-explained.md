@@ -6,17 +6,17 @@ date: 2010-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Base and Superstructure", "Political Theory", "Sociology", "Philosophy", "Critical Theory"]
 excerpt: "Base and superstructure is the hardest pair of terms in Marxism to place. Learn what belongs where, why the boundary breaks, and how the model was repaired."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-02-01
+lang: en
 ---
-
 Ask a room of students to draw the base and superstructure model and almost all of them will produce a building: a solid rectangle at the bottom labelled the economy, a taller rectangle balanced on top of it labelled law, politics, religion, education, and culture, and an upward arrow. Ask them what the diagram claims and the answers become vague. Ask them whether the law that defines who owns a factory belongs in the box above or the box below, and the room divides, because that question has no comfortable answer and has generated a century of theoretical repair work.
 
 The base and superstructure model is the most drawn, most quoted, and least examined thing in Marxism. Its imagery is architectural, which invites a picture of a passive upper storey resting inertly on a foundation, and that picture is wrong on both halves. Its boundary is genuinely unstable rather than merely blurry, because the terms in which the base is ordinarily specified are terms that belong to the superstructure. And its most influential modern statements are not restatements of Marx but revisions of him, produced by people who thought the original formulation could not stand as written.
 
-![The base and superstructure model in Marxism explained, what belongs to each and the boundary problem - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The base and superstructure model in Marxism explained, what belongs to each and the boundary problem - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 This guide draws the boundary as precisely as it can be drawn, names the point at which it stops being drawable, and sets out the repairs. The central claim it advances is what can be called the circularity repair: any usable statement of base and superstructure must either define the base without legal vocabulary or abandon the claim that the base explains the superstructure, and every serious version of the model since Marx has been an attempt at one or the other. A reader who understands that dilemma understands why the diagram on the board is not a description but an unfinished argument.
 

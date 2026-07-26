@@ -6,15 +6,15 @@ date: 2027-10-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Literary Criticism", "Close Reading", "Character Analysis", "American Literature"]
 excerpt: "Is Nick Carraway queer-coded? A close reading of the McKee scene, his romantic evasions, and his charged gaze at Gatsby weighs the ambiguous textual evidence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2027-10-18
+lang: en
 ---
-
 Ask a room of readers whether Nick Carraway is queer-coded and you will get a fight, not an answer, and the reason the fight never resolves is the most interesting thing about it. The question, is Nick Carraway queer-coded, is among the most searched and least settled in all of Great Gatsby criticism, and it stays unsettled because the novel builds its narrator out of exactly the material a queer reading is trained to notice: a man who withholds his own desires, ends one scene of his story with a gap he refuses to fill, and pours a startling intensity into his descriptions of another man while staying vague about the women he is supposed to want. A plain reading skims past these features as narrative reticence or period reserve. A queer-coded reading stops on them and asks what they are doing. This article is about that specific question, the case for a queer-coded Nick, weighed passage by passage, so that you can assess the evidence rather than inherit a verdict.
 
-![Is Nick Carraway queer-coded in The Great Gatsby, the McKee scene evidence examined - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Is Nick Carraway queer-coded in The Great Gatsby, the McKee scene evidence examined - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The wider method that produces this question, the whole practice of reading the novel through the questions sexuality and desire put to a text, belongs to the [queer reading of The Great Gatsby](/2027/10/11/queer-reading-great-gatsby/) that this piece sits beside. That hub owns the approach across the whole book. What follows here narrows to one figure and one recurring search: the case that Nick himself, the man telling the story, is written with a same-sex charge the text neither confirms nor denies. The distinction matters, because the honest answer to the narrower question is not yes and not no. The honest answer is that the text sustains the reading without settling it, and learning to say that precisely, with the passages in front of you, is worth more than either a triumphant outing or a dismissive shrug.
 

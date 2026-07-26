@@ -6,15 +6,15 @@ date: 2027-12-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "George Wilson", "The Valley of Ashes", "Close Reading", "American Literature"]
 excerpt: "Disability studies and Great Gatsby criticism applied together: how Wilson's collapse and the valley's exhausted bodies expose the ability norm the elite keep."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-12-13
+lang: en
 ---
-
 Count the bodies in this novel that work properly. Tom Buchanan has one, and Fitzgerald spends a paragraph on its muscle and its leverage. Jordan Baker has one, and she is a professional athlete who declines a cocktail because she is in training. After that the list runs out. George Wilson is introduced as "spiritless" and "anaemic" and ends the book unable to stand without holding the doorposts. The men of the valley are described as already crumbling. Myrtle Wilson's body is her only asset and is destroyed on a road. Disability studies and Great Gatsby criticism have not often been put together, and the reason is that readers assume the novel contains no disabled characters. The lens does not need one. It needs a text that sorts people by bodily capacity, and this one sorts relentlessly.
 
-![Disability studies and The Great Gatsby explained through Wilson, the valley of ashes, and the ability norm - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Disability studies and The Great Gatsby explained through Wilson, the valley of ashes, and the ability norm - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The reading this article defends can be stated in a sentence. In Fitzgerald's novel, physical and mental breakdown is a class marker: the bodies that fail are the bodies of the powerless, the bodies that gleam with vigor belong to the people who can afford them, and the health of the elite is subsidized by the exhaustion of everybody downwind. That is not a metaphor the novel invents. It is a description of an industrial economy in 1922, and Fitzgerald put it on the page in the form of a valley where men shovel ash into their own lungs so that the parties on the shore can continue.
 

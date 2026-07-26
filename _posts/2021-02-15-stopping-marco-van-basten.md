@@ -6,17 +6,17 @@ date: 2021-02-15
 categories: ["Leisure"]
 tags: ["Football", "Marco van Basten", "Tactics", "Defending", "Attacking", "Coaching"]
 excerpt: "How defenders stopped Marco van Basten: why elite finishing technique breaks a back four's assumptions, and the two answers that were left once it did."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-02-15
+lang: en
 ---
-
 A back four is an argument about probability. It positions itself to deny the angles from which goals are likely and to concede the angles from which they are not, and every instruction inside it, the depth of the line, the distance between the centre-backs, the moment the full-back tucks, follows from that single judgment about which finishes are available and which are not. The defending is not the argument. The defending is what happens after the argument has been settled. This is why the duel against Marco van Basten is the most conceptually awkward one in this cluster, and why it has to be approached differently from every other article here: the problem he set was not that he beat good defending, it was that he made good defending an answer to the wrong question.
 
 Almost every counter-plan in football assumes that the defensive structure is sound and the execution is the variable. Close faster, hold the line better, communicate earlier, stay on your feet. Against a finishing technique that converts positions the structure has deliberately conceded, none of those help, because the structure conceded those positions on purpose and would concede them again for good reasons. The defenders are not underperforming. The model is wrong.
 
-![How defenders stopped Marco van Basten, finishing angles and the recalibration problem - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Marco van Basten, finishing angles and the recalibration problem - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The Dutch forward, right-footed, built his career at Ajax and Milan and won a European Championship with the Netherlands, and the technical signature across all of it was the same: control and finishing at heights and angles that ordinary technique cannot use. The volley taken from an awkward height. The half-volley struck cleanly on the move. The reception from a wide, difficult ball turned into a shot in one movement. The finish taken across the body from a position a defence had classified as harmless. He also linked play, held the ball, and combined, which mattered enormously for the sides he played in, but the thing that broke defensive plans was the conversion of dead angles into live ones.
 

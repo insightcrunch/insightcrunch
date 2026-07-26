@@ -6,15 +6,15 @@ date: 2004-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Amarna Period", "New Kingdom", "Ancient Egypt", "Archaeology", "World History"]
 excerpt: "The Amarna Letters are a clay tablet archive exposing Late Bronze Age diplomacy, Egypt's great-power rivalries, and the neglect of its Levantine vassals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2004-10-01
+lang: en
 ---
-
 Before 1887, the Late Bronze Age world beyond Egypt's borders was reconstructed almost entirely from the outside. Egyptian temple walls recorded campaigns and tribute in the triumphal register a pharaoh wanted carved, foreign states were known chiefly through what Egypt or Assyria said about them, and the internal workings of relations between the great powers of the eastern Mediterranean were a matter of inference. Then a cache of inscribed clay tablets came out of the ruins of Akhenaten's abandoned capital, and for the first time the correspondence of that world could be read in its own words. The Amarna Letters changed the picture so thoroughly that the century and a half they cover is now among the best-documented stretches of ancient Near Eastern international relations, better documented in some respects than periods a thousand years later.
 
-![The Amarna Letters and Egypt's Diplomacy](/assets/images/blog/blog-01.webp)
+![The Amarna Letters and Egypt's Diplomacy](/assets/images/blog/blog-48.webp)
 
 What makes the archive a hinge is not only its content but its kind. Egyptian royal inscriptions are official statements composed for permanence. The Amarna Letters are working documents: incoming correspondence filed in a records office, written by foreign chanceries for immediate practical purposes, complaining, bargaining, flattering, threatening, and pleading. They were never meant to be read by posterity, and they contain the things official monuments leave out. A king of Babylon grumbles that the gold Egypt sent was underweight. A ruler of Byblos writes letter after letter asking for troops that do not arrive. A king of Assyria introduces himself as a new player and the king of Babylon writes to object that he should not be treated as one. Egypt appears in these documents not as the unchallenged master of the world its own monuments describe, but as one great power among several, managing a competitive system with gifts, marriages, oaths, and messengers, and doing so with visible strain in its Levantine provinces.
 

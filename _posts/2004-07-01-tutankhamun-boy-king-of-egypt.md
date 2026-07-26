@@ -6,17 +6,17 @@ date: 2004-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Tutankhamun", "New Kingdom", "Ancient Egypt", "Pharaohs", "Amarna Period"]
 excerpt: "Tutankhamun was a boy king who inherited a religious crisis, restored the god Amun, and died at about nineteen. Here is the record behind the golden mask."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2004-07-01
+lang: en
 ---
-
 Strip away the gold and a difficult question remains: what did Tutankhamun actually do? He is the most recognized name in Egyptian history and one of its least consequential rulers by the ordinary measures of conquest, construction, and length of rule. He took the throne as a child of roughly nine, ruled for about a decade under the guidance of men who had served his predecessor, and died before he reached twenty. No Egyptian scribe of the later New Kingdom thought him worth remembering. The compilers of the Abydos king list under Seti I skipped him entirely, running straight from Amenhotep III to Horemheb as though the intervening reigns had never happened. His fame is an accident of preservation, not a verdict of history.
 
 That accident, however, has obscured a genuinely interesting reign. Tutankhamun inherited a state in the middle of the most radical religious experiment in Egyptian history, an experiment his own father had launched and that had closed the temples of Amun, redirected the revenues of the priesthoods, and moved the royal court to a purpose-built city in Middle Egypt with no history and no infrastructure. Within a few years of the boy's accession, that experiment was over. The court left the new capital, the old gods were restored, the temple economies were refunded, and the king who had been named for the sun disc took a new name honoring the god his father had suppressed. Whether the boy directed any of this or merely presided over it is the central question of his reign, and it is a question the evidence can be pushed to answer with more precision than most popular accounts attempt.
 
-![Tutankhamun the boy king of Egypt, his reign and religious restoration explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tutankhamun the boy king of Egypt, his reign and religious restoration explained - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 This article argues what can be called the restorer-not-revolutionary thesis: Tutankhamun's real historical significance lies not in his treasure but in the fact that his reign is the hinge on which Egypt turned back from the Amarna experiment to the traditional order, and that the machinery of that reversal, its personnel, its legal instruments, and its propaganda, is visible in the surviving record with unusual clarity. He was not a great king. He was the vessel through which a restoration was legitimized, and the restoration mattered enormously. Understanding him means separating four things that popular accounts routinely fuse: the historical boy, the political reign conducted in his name, the physical body recovered by modern science, and the golden celebrity manufactured after 1922.
 

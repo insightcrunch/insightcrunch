@@ -6,17 +6,17 @@ date: 2004-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Tutankhamun", "Archaeology", "Ancient Egypt", "New Kingdom", "Historiography"]
 excerpt: "Tutankhamun's tomb was found nearly intact by Howard Carter in 1922. Here is how the discovery happened, what it revealed, and why the curse is a myth."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2004-08-01
+lang: en
 ---
-
 Every royal burial in the Valley of the Kings had been entered, emptied, and in most cases systematically stripped, some within a generation of the funeral and the rest during an organized state recovery of precious metal at the close of the New Kingdom. Egyptologists knew this. It was the settled condition of the field: royal tombs supplied architecture, wall decoration, and fragments, and the objects that had filled them were understood as permanently lost. What no one had ever seen was a complete set of what a pharaoh actually took into the ground.
 
 On 4 November 1922 a workman clearing rubble beneath the entrance of the tomb of Ramesses VI uncovered a cut step in the bedrock. Sixteen steps later there was a plastered doorway carrying the seal impressions of the royal necropolis. Behind it, at the end of a rubble-filled corridor, lay four small rooms containing over five thousand objects, arranged as the funerary priests had left them roughly thirty-three centuries earlier, disturbed twice by ancient robbers who had been caught before they could finish. The occupant, a minor king whom Egyptian officialdom had deliberately struck from its own lists, became the most recognized name from the ancient world within weeks.
 
-![How Tutankhamun's tomb was discovered by Howard Carter in 1922, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Tutankhamun's tomb was discovered by Howard Carter in 1922, explained - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 This article makes what can be called the intact-tomb thesis: Tutankhamun matters to the modern world almost entirely because his was the one royal burial recovered substantially complete, and everything else about his global standing follows from that single fact of preservation rather than from anything he did. The corollary matters as much as the claim. Because the assemblage is complete, it functions as the control sample against which every fragmentary find from every other robbed royal tomb can be interpreted. Its scholarly value is not the gold. It is that we finally know what the full set looks like.
 

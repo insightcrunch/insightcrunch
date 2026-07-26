@@ -6,17 +6,17 @@ date: 2010-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Historical Materialism", "Karl Popper", "Political Theory", "Philosophy", "History"]
 excerpt: "The case against historical materialism at full strength: six named objections, the accurate Popper, and the strongest Marxist reply available to each one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-04-15
+lang: en
 ---
-
 The serious case against historical materialism is not the one most readers meet. The version in circulation is that Marx predicted revolution, revolution did not come where he said it would, and the theory is therefore dead. That argument is answerable in a paragraph, and answering it has allowed the tradition to avoid the objections that are much harder to deal with: that its central form of explanation is one philosophers of science abandoned for good reasons, that its own best historians have shown its core causal claim cannot explain the case it was built to explain, that it has no account of law that is not either circular or artificial, and that it cannot generate history anyone would recognise as history.
 
 Six objections belong in a serious case, and each has a named author who advanced it in an identifiable work. Karl Popper on the prediction record and how it was handled. Jon Elster on functional explanation without a mechanism. Robert Brenner, from inside Marxism, on the failure of productive force primacy to account for the agrarian origins of capitalism. The Weberian and institutionalist tradition on multiple causal orders and on law as constitutive rather than derivative. E. P. Thompson, also from inside, on a structural model with no room for experience and agency. And the empirical record on class identity, which lost to national and religious identity at the moments the theory said it should not.
 
-![The case against historical materialism, six named objections and the strongest reply to each - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The case against historical materialism, six named objections and the strongest reply to each - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 This article states each objection as its author stated it, says what it gets right without defensiveness, gives the best available reply, and reaches a verdict of lands, partially lands, or misses. A Marxist reader should finish better armed than they started; a critical reader should finish better informed. Both outcomes depend on one rule, which is the article's namable claim and which almost nothing written on this subject observes.
 

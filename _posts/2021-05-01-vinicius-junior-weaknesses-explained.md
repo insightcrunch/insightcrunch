@@ -6,15 +6,15 @@ date: 2021-05-01
 categories: ["Leisure"]
 tags: ["Football", "Vinicius Junior", "Tactics", "Attacking", "Scouting", "Coaching"]
 excerpt: "Vinicius Junior's weaknesses examined under a strict conditional test: which limitations are real, which are myths, and what each one costs to exploit."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2021-05-01
+lang: en
 ---
-
 Nearly every claim made about Vinicius Junior's weaknesses fails a test that takes about five seconds to apply. Name the condition under which the limitation appears, and name the thing a viewer could watch for to confirm it appeared. Most of the criticism cannot manage either. It asserts a ceiling without a circumstance, which is how a scouting observation degrades into a talking point, and it is why a coach preparing to face this player usually arrives with a list of grievances rather than something he can use on Saturday.
 
-![Vinicius Junior's weaknesses explained, the real limitations and the conditions that expose them - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Vinicius Junior's weaknesses explained, the real limitations and the conditions that expose them - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 This article applies the test properly. Some of what follows is real: statable as a mechanism, plus a condition, plus something observable. Some of it is conditional in a stronger sense, meaning it is created by the role rather than by the player, and disappears when the role changes. Some of the loudest claims cannot clear the bar at all, and the reason they cannot is more interesting than the claims themselves.
 

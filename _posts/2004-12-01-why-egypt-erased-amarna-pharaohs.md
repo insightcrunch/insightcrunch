@@ -6,15 +6,15 @@ date: 2004-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Amarna Period", "Akhenaten", "Ancient Egypt", "Archaeology", "Historiography"]
 excerpt: "Egypt tried to erase the Amarna pharaohs from history entirely. Why the erasure happened, how it was carried out, and why the attempt ultimately failed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-12-01
+lang: en
 ---
-
 When Ramesside scribes compiled lists of the kings of Egypt, they wrote Amenhotep III and then Horemheb, one name after the other, as though nothing had happened between them. Roughly three decades, four rulers, a new capital, a religious revolution, an artistic revolution, and a diplomatic crisis fell into the gap. The omission was not carelessness. It was policy, sustained across reigns and dynasties, and it was accompanied by the physical dismantling of every building the Amarna kings had raised. Egypt did not merely reject Akhenaten's reform. It attempted to remove the period that produced it from the record of the past, and for something over three thousand years the attempt broadly worked.
 
-![Why Egypt Erased the Amarna Pharaohs](/assets/images/blog/blog-01.webp)
+![Why Egypt Erased the Amarna Pharaohs](/assets/images/blog/blog-35.webp)
 
 That it did not work permanently is the more interesting half of the story, and the reason is a piece of irony that runs through the whole subject. The men who took Amarna apart did not grind its stone to rubble. They reused it. The small standardized blocks that had made Akhenaten's building program fast made excellent packing material for the interiors of later pylons and platforms, so tens of thousands of carved and painted surfaces were stacked face-inward inside new monuments, sealed away from weather, from recutting, and from the wear that erodes exposed reliefs. The city itself was abandoned rather than demolished or built over, leaving houses, workshops, offices, and cemeteries undisturbed beneath the sand. The erasure preserved what it was meant to destroy, and modern archaeology has reconstructed the period substantially from the material that the destruction created.
 

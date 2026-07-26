@@ -6,17 +6,17 @@ date: 2010-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Karl Marx", "Political Theory", "Philosophy", "Marxist Economics", "History"]
 excerpt: "Marxism is six separable components, not one doctrine. Learn what each claims, which text carries it, and the strongest objection standing against each."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-01-01
+lang: en
 ---
-
 Almost every public argument about Marxism is unwinnable, and the reason is structural rather than political. One person is attacking a theory of history. The other is defending a critique of how profit arises inside a factory. A third has in mind a set of twentieth-century governments. A fourth is thinking about a method of literary interpretation taught in a university seminar. All four are using the same word, all four are talking about something real, and none of them is talking about the same thing. The argument cannot resolve because there is no shared proposition on the table.
 
 That is the problem this guide exists to fix. What follows separates Marxism into six components that can be held, attacked, or defended independently, shows which text each rests on, states the strongest standing objection to each, and points to the article in this series that treats it in full. The claim is not that the six are unrelated. They were developed by the same two people over four decades and they lean on each other constantly. The claim is that they are separable: you can accept the theory of exploitation and reject the theory of history, and many serious economists have; you can accept the theory of ideology and reject the labour theory of value, and much of twentieth-century cultural theory did exactly that; you can find the analysis of capitalism powerful and regard the Soviet Union as a catastrophe with no bearing on the analysis at all, which was the position of a large part of the Western left for seventy years.
 
-![The six components of Marxism, a complete guide to the theory of history, political economy, class, ideology, and the state - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The six components of Marxism, a complete guide to the theory of history, political economy, class, ideology, and the state - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 Once the components are separated, the standard conversational moves stop working. The claim that Marxism has been refuted by the collapse of a state apparatus stops being an argument and becomes a question about which component that collapse bears on. The claim that Marx predicted everything correctly stops being a slogan and becomes a demand to specify which prediction, in which text, at which level of strength. The first move in any serious discussion is to ask which of the six is actually in dispute. Call it the component-confusion rule: most arguments about Marxism fail not because the participants are unreasonable but because they never establish what the argument is about.
 

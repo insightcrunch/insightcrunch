@@ -6,15 +6,15 @@ date: 2027-11-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Tom Buchanan", "Jay Gatsby", "Character Analysis", "American Literature"]
 excerpt: "Masculinity studies and Great Gatsby criticism meet here: how Tom, Gatsby, Nick, and Wilson compete over a manhood the era rigged against nearly all of them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2027-11-29
+lang: en
 ---
-
 Read the first description of Tom Buchanan again and notice what Fitzgerald refuses to tell you. You learn the shape of his mouth, the set of his eyes, the pack of muscle moving under his coat, the way his riding boots strain at the lacing. You do not learn what he thinks, wants, or fears. Masculinity studies and Great Gatsby criticism intersect exactly at that refusal, because the lens starts from the premise that manhood in this novel is something bodies and gestures and purchases assert rather than something men simply possess. Tom is introduced as a physique because his physique is his argument, and once you see that, you cannot unsee how hard every other man in the book is working to make an argument of his own.
 
-![Masculinity studies and The Great Gatsby explained through Tom, Gatsby, and Wilson - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Masculinity studies and The Great Gatsby explained through Tom, Gatsby, and Wilson - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 That is the payoff of this particular lens, and it is worth stating before the theory, because the theory can sound abstract until you watch it do work on a page. A plain reading of Fitzgerald's novel gives you a love story wrecked by class and carelessness. A masculinity reading gives you something less comfortable: a group of men measuring themselves against a standard none of them invented, and a novel that quietly tracks what the measuring costs. Tom brutalizes because brutality is the only currency he trusts. Gatsby builds an entire biography because the standard would otherwise disqualify him. George Wilson has neither the body nor the money, and the novel disposes of him accordingly. Manhood here is not a trait. It is a contest, and the contest has a scoreboard.
 

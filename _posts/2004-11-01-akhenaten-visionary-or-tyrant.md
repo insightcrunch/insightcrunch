@@ -6,15 +6,15 @@ date: 2004-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Akhenaten", "Amarna Period", "Ancient Egypt", "Pharaohs", "Historiography"]
 excerpt: "Was Akhenaten a visionary or a tyrant? The evidence for both readings weighed carefully, with a defended verdict instead of a comfortable middle shrug."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2004-11-01
+lang: en
 ---
-
 No pharaoh divides opinion like Akhenaten. He has been called the first individual in history, the first monotheist, a religious genius who anticipated ideas that would not surface again for centuries, and a ruler of rare personal sincerity in a civilization built on inherited convention. He has also been called a fanatic who closed working temples, threw thousands of people out of employment, defaced the names of gods across a country that had worshipped them for two thousand years, built a city on desert ground with conscripted labor, and let an empire slide while he composed hymns. Both descriptions come from serious writers. Both rest on real evidence. The question of which is closer to the truth is one of the genuinely open arguments in Egyptology, and it is worth taking seriously rather than resolving with a shrug about how everyone is complicated.
 
-![Was Akhenaten a Visionary or a Tyrant?](/assets/images/blog/blog-01.webp)
+![Was Akhenaten a Visionary or a Tyrant?](/assets/images/blog/blog-53.webp)
 
 The sides are not evenly matched in every respect, and it helps to know who holds which position and why. The visionary reading has deep roots in early twentieth-century scholarship and enormous reach in popular culture, where Akhenaten has been adopted by writers interested in the origins of monotheism, in individual conscience against institutional religion, and in the idea of a lone reformer crushed by reaction. The tyrant reading has gained ground steadily inside the field as more evidence has accumulated, particularly from excavation at his city and from the study of how his reform was actually enforced. That is not a neat story of an old view being replaced by a new one, because the strongest recent work does not merely flip the verdict. It argues that the categories themselves are the problem.
 

@@ -8,10 +8,10 @@ tags: ["The Great Gatsby", "Literary Criticism", "Gender", "Close Reading", "The
 excerpt: "Gender theory and The Great Gatsby: how the lens reads Daisy's helplessness and Tom's dominance as performed roles the era wrote, rather than as nature."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-11-22
+lang: en
 ---
-
 Daisy Buchanan tells a story about the moment her daughter was born. She woke from the ether, asked whether it was a girl, and turned her head away and wept, and then she says she was glad, because she hopes the child will be a fool, since "that's the best thing a girl can be in this world, a beautiful little fool." The line is quoted constantly as evidence of the novel's view of women, and it is almost always read as a statement about limitation. Gender theory and The Great Gatsby meet at the word she does not use, which is nature. Daisy is not describing what a girl is. She is describing what a girl is best advised to become, and the difference between those two sentences is the entire lens.
 
 The method's claim is that femininity and masculinity in this novel are not properties the characters possess but roles they execute, with varying skill, under conditions they did not set. Daisy's helplessness is a performance she is good at. Tom's dominance is a performance he is losing his grip on. Jordan's coolness is a performance the era had only recently made available. Once the reading shifts from what these people are to what they are doing, a novel that seems to be about a man's obsession turns into a novel about four or five people executing scripts and paying for the execution.

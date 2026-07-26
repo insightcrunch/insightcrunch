@@ -6,15 +6,15 @@ date: 2004-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Akhenaten", "Amarna Period", "New Kingdom", "Pharaohs", "Religion"]
 excerpt: "Akhenaten, the heretic pharaoh, shut Egypt's gods to raise the Aten and built a new desert capital. Meet the ruler behind the boldest religious revolution."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2004-04-01
+lang: en
 ---
-
 No pharaoh of the Eighteenth Dynasty is remembered with more discomfort than Akhenaten, the ruler his own countrymen tried to unmake. Within a generation of his death, scribes struck his name from the official king lists, workmen pulled down his temples block by block, and later records refused to call him by his name at all, referring instead to the enemy or the criminal of Akhetaten. The label the heretic pharaoh comes from that reaction: here was a king who shut the great temples of Amun, raised a single sun god above the crowded pantheon that had defined Egyptian worship for two thousand years, moved his court to a virgin plain in the desert, and had his artists show him with a body no earlier pharaoh would have permitted on a monument. The central question this article answers is not whether he was a saint or a madman, a debate that belongs to the argument over whether Akhenaten was a visionary or a tyrant, but something more basic and more useful: who was this man, what exactly did he do, and why did a wealthy, stable, imperial Egypt allow one reign to overturn its oldest certainties.
 
-![Akhenaten the heretic pharaoh of Egypt and his religious revolution, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Akhenaten the heretic pharaoh of Egypt and his religious revolution, explained - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The judgment history has reached on Akhenaten has swung wildly, and that instability is itself part of the story. To the priests and kings who followed him, he was a criminal whose memory deserved deletion. To a strand of nineteenth and twentieth century writing, he became a hero out of time, the first individual, the first monotheist, a prophet born too early for a world that could not follow him. Neither picture survives close contact with the evidence, and the aim here is to separate the documented ruler from both the vilification and the worship. Akhenaten did specific, datable things, and those acts, rather than the myths that later generations built on top of them, are what make him worth understanding. His reign sits at the heart of [the wider Amarna period of ancient Egypt](/2004/03/01/amarna-period-of-ancient-egypt/), a roughly two-decade rupture that produced a new capital, a new art, a new theology, and a diplomatic archive that opened a window onto the whole Late Bronze Age. This profile owns the man; the system of belief he imposed is treated in its own right under the question of [whether Atenism was Egypt's first monotheism](/2004/05/01/atenism-egypt-first-monotheism/).
 

@@ -6,15 +6,15 @@ date: 2021-05-15
 categories: ["Leisure"]
 tags: ["Football", "Mohamed Salah", "Tactics", "Defending", "Coaching", "Attacking"]
 excerpt: "How to stop Mohamed Salah: why knowing exactly what he will do is worthless without a third defender, and the geometry that closes both routes at once."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-05-15
+lang: en
 ---
-
 Everyone knows what Mohamed Salah is going to do. That is the most repeated observation in football and it is completely true, and it is also the reason so many sides arrive with a scouting report and leave with a defeat. Knowing the action is worth nothing on its own. The plan that works is a three-player geometry that closes the predicted route without opening the alternative, and the thing it gives away, deliberately and repeatedly, is the wide crossing position outside the full-back.
 
-![How to stop Mohamed Salah, a counter blueprint for the predictability fork - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to stop Mohamed Salah, a counter blueprint for the predictability fork - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 This blueprint is built around a single argument. The reason prediction fails here is not that the prediction is wrong; it is that a lone full-back cannot act on it. Every stance he can adopt closes one route and opens another, and both routes are genuinely live, which means the information the analyst provided cannot be converted into a defensive action by the person who most needs it. Fix that and the scouting report becomes worth something. Leave it unfixed and you have a very well-informed defeat.
 

@@ -6,17 +6,17 @@ date: 2021-03-15
 categories: ["Leisure"]
 tags: ["Football", "Tactics", "Attacking", "Coaching", "Scouting", "Player Development"]
 excerpt: "Poacher or complete forward: which is harder to defend, which to build a team around, and the service-quality threshold that decides the honest answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-03-15
+lang: en
 ---
-
 The argument about the poacher and the complete forward has been running for as long as people have written about football, and it keeps running because almost nobody involved defines the terms first. One person means a forward who does not track back. Another means a forward who scores tap-ins. A third means a specialist whose value is concentrated in the penalty area. A fourth is using the word as an insult. Four people using one word for four things will argue indefinitely and settle nothing, which is exactly what has happened.
 
 This article does something narrower and more useful. It defines both archetypes precisely, resolves the comparison on four axes that a decision-maker can actually act on, and then gives four separate verdicts, because the honest answer differs by level, by style, and by the quality of service a side can generate. A coach at an elite club and a coach running a Sunday side are asking the same question and need opposite answers, and any article that gives them one answer has failed both.
 
-![Poacher or complete forward, the archetype decision grid for coaches and scouts - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Poacher or complete forward, the archetype decision grid for coaches and scouts - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 Before anything else, a statement that the rest of the article depends on. Describing a forward as a poacher is a description of role concentration. It is not a judgment about his ability, his effort, his intelligence, or his worth, and the word is used pejoratively in ordinary football conversation in a way this article does not import. Every forward used as an illustration here is a real person and is treated as a subject of study rather than as a label.
 

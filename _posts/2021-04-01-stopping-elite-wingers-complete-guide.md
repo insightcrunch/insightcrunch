@@ -6,15 +6,15 @@ date: 2021-04-01
 categories: ["Leisure"]
 tags: ["Football", "Tactics", "Defending", "Coaching", "Attacking", "Scouting"]
 excerpt: "Stopping elite wingers starts before the duel. Four winger types, the upstream denial for each, and why the second defender decides the whole sequence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-04-01
+lang: en
 ---
-
 Watch a side concede down the flank and count how many people blame the full-back. Almost all of them. Then rewind the sequence eight seconds and count how many defensive decisions were made before the full-back was ever involved. Usually four or five, and at least two of them were wrong. Stopping elite wingers is not a duel problem that occasionally has a structural cause. It is a structural problem that occasionally ends in a duel, and the reason so many coaching plans fail against strong wide attackers is that they begin at the moment the ball arrives, which is the last moment at which anything useful can still be done.
 
-![Stopping elite wingers, a complete defensive guide to winger types and upstream denial - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Stopping elite wingers, a complete defensive guide to winger types and upstream denial - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 This guide is the hub for the wide-attacker cluster in this series, and its job is to give a coach, an analyst, or a full-back a working classification and a working principle before they ever open a single-subject plan. The classification is four types. The principle is one sentence, and it governs everything below.
 

@@ -6,17 +6,17 @@ date: 2021-01-15
 categories: ["Leisure"]
 tags: ["Football", "Andriy Shevchenko", "Defending", "Tactics", "Coaching", "Goalkeeping"]
 excerpt: "How defenders stopped Andriy Shevchenko: the blind-side scanning rhythm, the line-setting rule, and the goalkeeper depth that beat the far-shoulder run."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-01-15
+lang: en
 ---
-
 When a forward scores from a run across the back of a defense, the replay goes to the same place every time. It shows the pass, it shows the defender nearest the ball, and the commentary settles on whoever was closest to the scene. That defender is almost never the one who lost the goal. Defenders who stopped Andriy Shevchenko understood something the replay does not show, which is that the run he made started ten yards away from the ball, behind a defender who was looking in the wrong direction for entirely reasonable reasons, and that the moment it became unstoppable was a moment in which nothing visible happened at all.
 
 This is an article about the far-shoulder run and about the defensive skill that answers it, which is head movement rather than foot movement. The subject is a Ukrainian forward, effectively two-footed, whose signature threat was the run that began on the shoulder of the far centre-back and finished either across the goalkeeper into the far corner or clipped early into the near one. He made his name at Dynamo Kyiv, produced his most celebrated work at Milan, later played in England for Chelsea, and had a long international career with Ukraine. He could finish first time from a diagonal service and from a straight ball into the channel, with either foot, which removed the one instruction defenders rely on most in the final third. That combination, a run nobody can see and a finish that cannot be steered onto a weaker side, is what makes the duel worth a full article.
 
-![How defenders stopped Andriy Shevchenko, defending the far-shoulder run and the blind-side rhythm - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Andriy Shevchenko, defending the far-shoulder run and the blind-side rhythm - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 ## The geometry of the blind side
 

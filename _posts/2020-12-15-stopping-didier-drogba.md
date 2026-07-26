@@ -6,17 +6,17 @@ date: 2020-12-15
 categories: ["Leisure"]
 tags: ["Football", "Didier Drogba", "Defending", "Tactics", "Coaching", "Attacking"]
 excerpt: "How defenders stopped Didier Drogba: the delayed engagement, the body angle, the second-touch press, and the contact rules that beat the hold-up duel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-12-15
+lang: en
 ---
-
 Ask a centre-back what he was taught about a striker who receives with his back to goal and you will get the same sentence everywhere in the world: do not let him turn. It is the most confidently repeated instruction in defending, it is shouted from every touchline and every stand, and against Didier Drogba it was the fastest way to lose the sequence. Defenders who stopped Didier Drogba did the opposite of what their coaching had installed. They stayed off him, they refused the early contact, they angled their bodies to send him backwards rather than to hold him still, and they made the duel a two-man job in which the first defender's only task was to buy the second defender time to arrive. That is not a softer version of the duel. It is a harder one, because it asks a defender to override an instinct at exactly the moment his instinct is loudest.
 
 This article is about that duel and about the physics underneath it. The subject is an Ivorian centre-forward whose game was built on receiving under pressure with his back to the goal he was attacking, holding the ball against contact until his side could join him, bringing runners into play from a standing start, attacking crosses in the air, and finishing with power from positions where a lesser striker would still be controlling the ball. He played in French football before his move to England, where the central years of his career were spent at Chelsea across two spells, and he had later stops at Shanghai Shenhua, Galatasaray and Montreal, with a long international career for Ivory Coast. Those are the durable facts. The interesting part is not the career arc but the problem the profile sets, because it is a problem the modern coaching syllabus barely addresses and the modern game has quietly reintroduced.
 
-![How defenders stopped Didier Drogba, the back-to-goal duel and the delayed engagement plan - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Didier Drogba, the back-to-goal duel and the delayed engagement plan - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The problem is this. Most defensive instructions assume the attacker wants to go somewhere and the defender's job is to deny the route. Show him wide, force him backwards, deny the ball in behind, keep him facing his own goal. All of those are route-denial instructions and they work against forwards whose value is created by movement. A hold-up forward is not primarily trying to go anywhere. He is trying to survive contact for two seconds while three teammates travel forty yards. His success condition is not separation, it is possession under pressure, and the defender who applies route-denial logic to a possession-under-pressure problem is answering a question that was never asked. Worse, he is supplying the one input the forward needs. The whole craft comes down to that inversion, and once a coach sees it, half of what he shouts on a Saturday changes.
 

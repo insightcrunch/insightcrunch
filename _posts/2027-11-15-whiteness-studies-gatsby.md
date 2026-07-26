@@ -6,17 +6,17 @@ date: 2027-11-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Race", "Close Reading", "Context", "American Literature"]
 excerpt: "Whiteness studies and The Great Gatsby: how the lens reads the elite's unmarked whiteness as an invisible privilege that Tom defends and Jordan names."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-11-15
+lang: en
 ---
-
 In the overheated suite at the Plaza, after Tom has worked himself from adultery to family institutions to the prospect of intermarriage, Jordan Baker says four words under her breath: "We're all white here." She means to be dry, to puncture him, to point out that nobody present is the person he is warning about. What she actually does is name the room. Whiteness studies and The Great Gatsby meet at exactly that sentence, because the line states out loud a category the novel has been running on for two hundred pages without mentioning, and the fact that it takes an embarrassment to force the statement is the whole point of the lens.
 
 The method's central insight is counterintuitive on first hearing and obvious afterward. Race, in most writing about literature, means the racial position of marginalized characters. Whiteness studies turns the instrument around and points it at the dominant group, on the grounds that the position which never has to describe itself is the one exercising the most power. Applied to Fitzgerald, the reversal produces a novel about people whose racial position is the single most consequential fact about them and the one thing they never discuss.
 
-![Whiteness studies and The Great Gatsby explained through the unmarked norm and Tom's anxious defense - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Whiteness studies and The Great Gatsby explained through the unmarked norm and Tom's anxious defense - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 ## What Whiteness Studies and The Great Gatsby Reveal Together
 
