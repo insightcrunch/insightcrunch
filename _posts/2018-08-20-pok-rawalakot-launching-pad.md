@@ -9,7 +9,7 @@ excerpt: "Rawalakot in Pakistan-Occupied Kashmir is the Line of Control's busies
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 74
 author: "james-carter"
-last_updated: 2018-08-20
+last_updated: 2026-07-29
 lang: en
 ---
 The hill town of Rawalakot sits in a bowl of pine-covered slopes in the Poonch division of Pakistan-Occupied Kashmir, roughly fifty kilometres of switchbacking mountain road from the Line of Control, and for the better part of three decades it has held a peculiar position in the architecture of cross-frontier militancy. It is not a headquarters in the sense that Muridke is a headquarters. It runs no two-hundred-acre campus, hosts no founder, prints no recruitment magazine. What Rawalakot is, instead, is the last inhabited place a militant passes through before the frontier, the final town with electricity and a bazaar and a paved road, the staging area where men gather, receive their last briefings, draw their last rations, and then walk into the forest toward the ridgelines that separate them from Indian Kashmir. The town is a threshold. And in September 2023 it stopped being a safe one.

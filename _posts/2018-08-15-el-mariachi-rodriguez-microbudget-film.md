@@ -9,7 +9,7 @@ excerpt: "El Mariachi turned roughly seven thousand dollars and a one man crew i
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2018-08-15
+last_updated: 2026-07-29
 lang: en
 ---
 A feature film has a floor price, the number below which the received wisdom says you cannot buy a finished movie, and in 1991 a twenty-three-year-old from Texas decided to find out where that floor actually sat. El Mariachi was made for roughly seven thousand dollars, a figure so far beneath the floor that it stopped being a budget and became an argument. The argument runs like this: most of what a production spends money on is insurance against difficulty, and if you are willing to absorb the difficulty yourself, in your own labor, your own time, and your own refusal to do anything twice, the price collapses. Robert Rodriguez absorbed all of it. He wrote the picture, directed it, shot it, recorded the sound, cut it, built the effects, and did everything except step in front of the lens, because there was no one left to operate the camera if he did. What came out the other end was not a charity case that critics forgave for being cheap. It was a propulsive, kinetic action movie whose style was not despite the money but because of it, and that inversion is the whole story.

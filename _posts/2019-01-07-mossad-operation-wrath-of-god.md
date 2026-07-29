@@ -9,7 +9,7 @@ excerpt: "Inside Mossad's Operation Wrath of God, the two-decade hunt for the Mu
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 71
 author: "benjamin-scott"
-last_updated: 2019-01-07
+last_updated: 2026-07-29
 lang: en
 ---
 On a Rome evening in October 1972, a thin, scholarly Palestinian named Wael Zwaiter walked back from a quiet dinner toward his apartment building on the Piazza Annibaliano. He had spent the evening discussing literature. He translated Italian poetry into Arabic and had a gentle reputation among the writers of the city. As he stepped into the dim foyer of his building and pressed the elevator button, two men emerged from the shadows and fired twelve rounds into him at point-blank range. One bullet for each of the eleven Israeli athletes and coaches murdered five weeks earlier in Munich, and one more, by some accounts, for emphasis. The gunmen vanished into a waiting car. No agency claimed the act. No government acknowledged it. A man was simply dead in a stairwell, and the world was meant to draw its own conclusions.

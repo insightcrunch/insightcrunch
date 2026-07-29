@@ -9,7 +9,7 @@ excerpt: "Goodfellas defines Martin Scorsese as an auteur, the restless camera, 
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2018-09-01
+last_updated: 2026-07-29
 lang: en
 ---
 Martin Scorsese opens Goodfellas with a body in a trunk that will not stay dead. A car drifts down a dark road, three men hear a thumping from behind them, they pull over, they pop the trunk, and a half-wrapped corpse looks back at them still breathing. One of them stabs it; another empties a pistol into it. Then the screen freezes on the youngest man's face, the soundtrack drops to a single line of narration, and a voice tells us that as far back as he can remember he always wanted to be a gangster. In ninety seconds the picture has announced every instrument the director will play for the next two and a half hours: the camera that refuses to sit still, the freeze-frame that arrests a moment for judgment, the voiceover that confides in us, the violence rendered as casual fact, and the seductive promise that this life is the only one worth wanting. The directorial problem Scorsese set himself was not how to tell a true crime story. Henry Hill's story had already been told in print. The problem was how to make an audience feel the pull of a life it knows to be monstrous, to ride the rush until the rush turns to dread, and to walk out implicated rather than instructed. The signature this work bears is the solution to that problem, and it is the clearest statement of what makes Scorsese an author rather than a craftsman.

@@ -9,7 +9,7 @@ excerpt: "Capital Volume One explained by its architecture: what the book proves
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 76
 author: "amanda-ross"
-last_updated: 2010-06-01
+last_updated: 2026-07-29
 lang: en
 ---
 Nearly everyone who opens Capital Volume One expecting an indictment of industrial misery closes it again somewhere in the second chapter, and the reason is that the book does not begin where its reputation says it begins. It begins with a commodity, examined for several pages as though it were a specimen under glass, with no factories, no owners, no poverty, and no politics. The famous material about the working day, about the children in the mills, about machinery and its effects on the people operating it, sits hundreds of pages later, and by the time a reader reaches it the argument that material is evidence for has already been built without them.

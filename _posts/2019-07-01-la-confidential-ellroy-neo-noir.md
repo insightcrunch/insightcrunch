@@ -9,7 +9,7 @@ excerpt: "L.A. Confidential compresses James Ellroy's sprawling novel into a tig
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2019-07-01
+last_updated: 2026-07-29
 lang: en
 ---
 When Curtis Hanson and Brian Helgeland sat down to turn James Ellroy's 1990 crime novel into a feature, they faced a problem most writers would have called impossible. The book ran hundreds of pages, covered most of a decade, and braided together dozens of characters across a web of plots so dense that Ellroy himself assumed no studio would ever crack it. The central decision that produced L.A. Confidential was not how to be faithful. It was what to throw away. Hanson and Helgeland boiled an enormous narrative down to three policemen and one convergent case, and that single act of compression is the reason the picture works. The craft of the adaptation lives in the cutting, not the keeping.

@@ -9,7 +9,7 @@ excerpt: "Mapping North and South Waziristan, the most lawless tribal zones in P
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 74
 author: "nathan-cole"
-last_updated: 2018-09-03
+last_updated: 2026-07-29
 lang: en
 ---
 Two adjacent districts in the far west of Pakistan have, for more than two decades, functioned as something close to a state within a state. North Waziristan and South Waziristan press against the Afghan frontier, a folded landscape of dry mountains and narrow valleys where the writ of Islamabad has rarely reached past the walls of an army garrison. Foreign fighters who scattered after the collapse of the Taliban regime in 2001 found refuge in these valleys. A portion of al-Qaeda's surviving leadership rebuilt its operational base here. The Tehrik-i-Taliban Pakistan was assembled here in 2007. American drones circled the same ridgelines for fourteen years, and the Pakistan Army moved tens of thousands of soldiers through the area in successive campaigns without ever producing the lasting control its commanders kept promising. So when reports confirmed that Dawood Malik, a close associate of Jaish-e-Mohammed founder Masood Azhar, had been shot dead by unidentified gunmen in the northern district, the location itself carried the argument. India's shadow war had reached the one corner of Pakistan where even the Pakistani state operates as a visitor.

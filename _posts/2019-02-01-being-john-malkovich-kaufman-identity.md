@@ -9,7 +9,7 @@ excerpt: "Being John Malkovich turns a portal into the actor's mind into a searc
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2019-02-01
+last_updated: 2026-07-29
 lang: en
 ---
 A puppeteer crawls through a small wooden door behind a filing cabinet and, for fifteen minutes, looks out at the world through another man's eyes. Then the floor of that experience drops away and he lands in a ditch beside the New Jersey Turnpike. That is the engine of Being John Malkovich (1999), Spike Jonze's feature debut from a screenplay by Charlie Kaufman, and the strange thing about it is how quickly the joke turns into a question. The premise is built for a laugh: a portal into the head of a working actor, John Malkovich, sold to paying customers at two hundred dollars a trip. Yet under the gag sits one of the most patient inquiries any American comedy has made into what a person actually is. The film asks whether the self is something you own or something you borrow, and it refuses to let the reader off with an easy answer.

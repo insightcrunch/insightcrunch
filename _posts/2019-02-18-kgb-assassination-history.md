@@ -9,7 +9,7 @@ excerpt: "The history of KGB assassination operations, from Trotsky's ice axe in
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 71
 author: "andrew-price"
-last_updated: 2019-02-18
+last_updated: 2026-07-29
 lang: en
 ---
 On a quiet residential street in Coyoacan, a leafy borough of Mexico City, an exiled revolutionary sat at his desk reading a manuscript handed to him by a young man he believed was a sympathizer. The visitor stood behind him, drew a shortened mountaineering axe from beneath his raincoat, and brought it down on the back of the reader's skull. The victim screamed, fought back, and lived through the night before dying the following day. The man at the desk was Leon Trotsky, co-architect of the Bolshevik Revolution and Joseph Stalin's most hated rival. The killing of August 1940 was not a crime of passion or a private vendetta. It was a state operation, planned over years, funded from Moscow, and executed by an apparatus whose descendants would still be staging similar killings on foreign soil eight decades later.

@@ -9,7 +9,7 @@ excerpt: "The complete history of RAW, from R.N. Kao's 1968 founding vision thro
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 71
 author: "ian-fletcher"
-last_updated: 2019-03-11
+last_updated: 2026-07-29
 lang: en
 ---
 On a September morning in 1968, a slim, soft-spoken police officer named Rameshwar Nath Kao walked into a borrowed set of rooms in New Delhi with twelve hundred staff, no charter that the public would ever read, and an instruction from the Prime Minister that amounted to a single sentence: build India an external intelligence service that will never again let the country be surprised. Kao had watched two wars expose the limits of the old arrangement. He had seen the Intelligence Bureau, designed to watch India from within, fail to read the Chinese build-up before 1962 and stumble again before 1965. The new organisation he was asked to create would look outward instead, and it would carry a deliberately bland name chosen so that nobody outside government would think about it twice.

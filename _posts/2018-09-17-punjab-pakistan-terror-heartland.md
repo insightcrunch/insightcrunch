@@ -9,7 +9,7 @@ excerpt: "How Pakistani Punjab, the country's most prosperous and politically do
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 72
 author: "david-thornton"
-last_updated: 2018-09-17
+last_updated: 2026-07-29
 lang: en
 ---
 Every map of Pakistan's long campaign against India has a center of gravity, and that center is not a border, a mountain range, or a disputed valley. It is a single administrative unit. Punjab holds the headquarters of Lashkar-e-Taiba at Muridke, the operational seat of Jaish-e-Mohammed at Bahawalpur, the General Headquarters of the Pakistan Army at Rawalpindi, and the homes of the men who have ordered three decades of bloodshed on Indian soil. To understand why anti-India terrorism has the shape it has, you have to understand why so much of its machinery sits inside one province, and why that concentration was never the random accident that apologists prefer to claim.

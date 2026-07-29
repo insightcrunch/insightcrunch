@@ -9,7 +9,7 @@ excerpt: "JFK turns thousands of cuts across mixed film stocks into an argument,
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2018-10-01
+last_updated: 2026-07-29
 lang: en
 ---
 Most films build their argument in the screenplay and let the cutting room keep it intact. JFK, the 1991 political thriller directed by Oliver Stone, inverts that order. The script supplies the case, the names, the timeline, and the doubts, but the persuasion itself happens in the splices, in the rapid traffic of mismatched images that the film keeps shoving in front of you faster than disbelief can organize a reply. Watch the picture once and you may come away convinced that the assassination of President Kennedy was a coup; watch the same footage with the sound off and you can see the machinery that did the convincing. The editing is the argument. That single fact is what separates this film from the hundreds of conspiracy documentaries that share its subject and reach none of its force.

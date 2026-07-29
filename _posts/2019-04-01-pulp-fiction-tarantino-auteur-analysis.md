@@ -9,7 +9,7 @@ excerpt: "Pulp Fiction reveals Tarantino as an auteur who recombines world genre
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2019-04-01
+last_updated: 2026-07-29
 lang: en
 ---
 The problem a young director faces when he wants to be recognized as an author is that authorship is usually proven across a body of work, slowly, over decades, in the accumulation of a recognizable set of obsessions. Quentin Tarantino solved that problem in a single picture. Pulp Fiction arrived in 1994 as only his second feature, and it announced a complete, sealed, instantly legible authorial signature so distinct that the adjective "Tarantino-esque" entered the language almost overnight. The achievement was not that the picture was violent or talky or cool, though it was all of those. The achievement was that every choice in it, the shuffled chronology, the digressive talk, the eruptions of brutality inside comic banter, the surf-rock wash, the unexplained briefcase, pointed back to one governing sensibility, and that sensibility could be named and studied. This article reads Pulp Fiction as the clearest available statement of what Tarantino does as a director, and then places that statement against the world cinema he absorbed to build it.

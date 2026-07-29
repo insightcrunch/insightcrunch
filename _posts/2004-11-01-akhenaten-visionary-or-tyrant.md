@@ -9,7 +9,7 @@ excerpt: "Was Akhenaten a visionary or a tyrant? The evidence for both readings 
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2004-11-01
+last_updated: 2026-07-29
 lang: en
 ---
 No pharaoh divides opinion like Akhenaten. He has been called the first individual in history, the first monotheist, a religious genius who anticipated ideas that would not surface again for centuries, and a ruler of rare personal sincerity in a civilization built on inherited convention. He has also been called a fanatic who closed working temples, threw thousands of people out of employment, defaced the names of gods across a country that had worshipped them for two thousand years, built a city on desert ground with conscripted labor, and let an empire slide while he composed hymns. Both descriptions come from serious writers. Both rest on real evidence. The question of which is closer to the truth is one of the genuinely open arguments in Egyptology, and it is worth taking seriously rather than resolving with a shrug about how everyone is complicated.

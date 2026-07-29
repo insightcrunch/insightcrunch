@@ -9,7 +9,7 @@ excerpt: "How sex, lies, and videotape and Slacker launched the American indepen
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2018-08-01
+last_updated: 2026-07-29
 lang: en
 ---
 Two American films arrived within roughly a year of each other at the turn of the 1990s, and between them they cracked open the decade of independent cinema. sex, lies, and videotape was a quiet four-hander about confession, repression, and a man who can only feel anything through a camera lens, made for a little over a million dollars in Baton Rouge by a twenty-six-year-old who had barely directed anything. Slacker was a plotless drift through a single day in Austin, made for the price of a used car, following one talkative misfit after another with no story to speak of and no one you could call a lead. The two do not look like siblings. They share no plot logic, no budget bracket, no tone, no idea of what a movie is supposed to do. Yet hold them side by side and they become the two doors through which the American independent surge walked in: one through the festival, with a top prize at Cannes and a star turn at Sundance, and one through the margins, where a region found its own voice without asking permission from anyone.

@@ -9,7 +9,7 @@ excerpt: "A ten dimension comparison of drone strikes and close range human assa
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
 author: "marcus-hall"
-last_updated: 2019-06-24
+last_updated: 2026-07-29
 lang: en
 ---
 Two states decided, within roughly a decade of each other, that wanted men living openly on Pakistani soil could be hunted and killed by a foreign power, and that the political consequences of doing so were survivable. The United States reached that conclusion first, and it reached for a machine. India, if the allegations against it are accurate, reached the same conclusion later, and it reached for two men on a motorbike. The same strategic judgment produced two opposite tools. That divergence is the subject of this analysis, because the gap between a Hellfire missile fired from nineteen thousand feet and a pistol round fired from a meter and a half is not a gap in technology. It is a gap in doctrine.

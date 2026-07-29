@@ -9,7 +9,7 @@ excerpt: "How Muzaffarabad, the quiet administrative capital of Pakistan-Occupie
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2018-10-22
+last_updated: 2026-07-29
 lang: en
 ---
 Every armed campaign needs a capital. Not a battlefield, not a front line, but a place where the planning happens, where the commanders sleep, where the maps are drawn and the recruits are briefed and the money changes hands. For the four decades of organized cross-border militancy aimed at Indian Kashmir, that capital has been a modest town wedged into a river valley in the western Himalayas, a town most outsiders could not place on a map. Muzaffarabad is the administrative seat of the territory Pakistan calls Azad Jammu and Kashmir and India calls Pakistan-Occupied Kashmir. It is also, by any honest accounting of where the infiltration apparatus is run from, the operational seat of the war against the Line of Control.

@@ -9,7 +9,7 @@ excerpt: "How RAW armed and trained the Tamil Tigers in the 1980s, then sent the
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2019-03-25
+last_updated: 2026-07-29
 lang: en
 ---
 In the autumn of 1987, Indian soldiers who had crossed the Palk Strait expecting flowers and gratitude found themselves pinned down in the lanes of Jaffna by fighters who knew their weapons, their tactics, and their radio frequencies. The fighters knew those things because India had taught them. A few years earlier, in camps tucked into the hills of Tamil Nadu and the forests of Uttar Pradesh, instructors paid by the Indian state had drilled young Tamil men in marksmanship, demolitions, and guerrilla movement. Those same young men were now killing the soldiers of the country that had armed them. No single episode in the history of India's external intelligence service captures the danger of covert proxy warfare more completely than this one, and none has cast a longer shadow over how New Delhi thinks about secret operations abroad.

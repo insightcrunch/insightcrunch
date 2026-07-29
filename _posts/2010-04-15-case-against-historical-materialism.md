@@ -9,7 +9,7 @@ excerpt: "The case against historical materialism at full strength: six named ob
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2010-04-15
+last_updated: 2026-07-29
 lang: en
 ---
 The serious case against historical materialism is not the one most readers meet. The version in circulation is that Marx predicted revolution, revolution did not come where he said it would, and the theory is therefore dead. That argument is answerable in a paragraph, and answering it has allowed the tradition to avoid the objections that are much harder to deal with: that its central form of explanation is one philosophers of science abandoned for good reasons, that its own best historians have shown its core causal claim cannot explain the case it was built to explain, that it has no account of law that is not either circular or artificial, and that it cannot generate history anyone would recognise as history.

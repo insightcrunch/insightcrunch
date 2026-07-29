@@ -9,7 +9,7 @@ excerpt: "Beauty and the Beast led the Disney Renaissance, fusing Broadway songc
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2018-12-15
+last_updated: 2026-07-29
 lang: en
 ---
 # Beauty and the Beast and the Disney Renaissance

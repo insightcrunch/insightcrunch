@@ -9,7 +9,7 @@ excerpt: "The Blair Witch Project turned a tiny budget and a fake-true internet 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2019-03-15
+last_updated: 2026-07-29
 lang: en
 ---
 Every horror film has to solve the problem of belief, but The Blair Witch Project set itself a harder version of that problem and then built its entire production around the answer. The film does not ask you to suspend disbelief in the usual way, accepting a monster you can see while knowing it is a costume. It asks you to accept that there is no film at all, that what you are watching was never staged, that three young people carried cameras into the woods, recorded their own disappearance, and left the tapes behind for someone to assemble. The production problem was not how to frighten an audience that knows it is safe in a theater. The production problem was how to make a cheap shoot, improvised by three unknown actors over eight days in a Maryland forest, feel like recovered evidence of something that actually happened, and then how to carry that feeling out of the theater and into the wider world so that people argued about whether the missing students were real.

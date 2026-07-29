@@ -9,7 +9,7 @@ excerpt: "How Jamaat-ud-Dawa built a madrassa and charity network across rural S
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 72
 author: "gregory-marsh"
-last_updated: 2018-09-10
+last_updated: 2026-07-29
 lang: en
 ---
 Sindh does not look like a war zone, and that is precisely why it has mattered so much to the men who plan violence against India. Pakistan's second most populous province is poor across its agrarian interior, politically dominated by a single party that has governed it for most of half a century, and known to the wider world for cotton, sugarcane, and migrant labour rather than for militancy. Beneath that ordinary surface, the organisation that functions as the public face of Lashkar-e-Taiba ran an open lattice of seminaries, charity offices, ambulance services, and electoral fronts across the province for two decades, and the man who managed much of that machinery in the rural centre was shot near one of his own shops in the small town of Qazi Ahmed. His name was Sardar Hussain Arain, and his death turned a quiet province into a case study in how a terror organisation hides inside the everyday.

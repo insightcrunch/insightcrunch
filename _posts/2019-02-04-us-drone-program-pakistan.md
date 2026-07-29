@@ -9,7 +9,7 @@ excerpt: "Between 2004 and 2018 the United States flew hundreds of drone strikes
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 72
 author: "andrew-price"
-last_updated: 2019-02-04
+last_updated: 2026-07-29
 lang: en
 ---
 For fourteen years a foreign power killed people inside Pakistan almost every week, and Pakistan's government publicly objected to every single death while privately clearing many of them. The United States flew remotely piloted aircraft over the mountains of the northwest, watched suspected militants through cameras controlled from a desert base in Nevada, and fired missiles that landed in compounds, on vehicles, at funerals, and occasionally on the wrong house. By the time the last Hellfire missile struck the tribal belt, the Central Intelligence Agency had conducted more than four hundred strikes and ended somewhere between two and a half thousand and four thousand lives. The aerial campaign over the Federally Administered Tribal Areas became the most extensive program of cross-border killing any state had run in the modern era, and it unfolded on the soil of a nominal American ally.

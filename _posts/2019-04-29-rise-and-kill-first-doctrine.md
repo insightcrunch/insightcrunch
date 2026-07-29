@@ -9,7 +9,7 @@ excerpt: "Israel's Rise and Kill First doctrine systematized targeted killing, a
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 71
 author: "benjamin-scott"
-last_updated: 2019-04-29
+last_updated: 2026-07-29
 lang: en
 ---
 When Ronen Bergman published his eight-year investigation into Israel's intelligence services, he gave the practice of state assassination something it had never possessed before: a name borrowed from scripture and a documented institutional logic. The Babylonian Talmud advises that if a man comes to kill you, rise and kill him first, and Bergman took that injunction as the title for a book that traced more than two thousand seven hundred Israeli assassination operations across seven decades. The book argued that Israel had killed more people in targeted operations than any other Western state since the Second World War, and it did so not through improvisation but through a doctrine, a repeatable set of decisions that an operative could pitch to a prime minister and a prime minister could authorize within a structured framework. The question this analysis pursues is narrower and more uncomfortable than the book's sweep. If a doctrine for killing enemies on foreign soil has been written down, examined, and published, and if a second democracy has begun running an extraordinarily similar campaign in the years since, then what does placing the documented Israeli model against the undocumented Indian one reveal about how states learn to kill, and about the price each model exacts in exchange for what it delivers?

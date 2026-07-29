@@ -9,7 +9,7 @@ excerpt: "How Bahawalpur became JeM's institutional headquarters, Masood Azhar's
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2018-08-06
+last_updated: 2026-07-29
 lang: en
 ---
 Bahawalpur is not a city the world paid much attention to until the morning of May 7, 2025. Founded in 1748, a former princely state capital graced with Mughal-inspired palaces and a university older than Pakistan itself, it sits in the desert-adjacent south of Punjab at the edge of the Cholistan sands, approximately 400 kilometers from Lahore and roughly 100 kilometers from the Indian border. Its Nawabs built monuments. Its seminaries built clerics. And in January 2000, one of those clerics returned from Kandahar to the city of his birth and transformed it into the institutional capital of the most dangerous anti-India terrorist organization in the subcontinent. Masood Azhar was born in Bahawalpur. He built Jaish-e-Mohammed in Bahawalpur. He housed its headquarters in Bahawalpur. And when Indian Rafale jets launched SCALP missiles in the pre-dawn darkness on May 7, 2025, one of the nine target coordinates they carried in their targeting systems pointed directly at the Jamia Masjid Subhan Allah compound, an 18-acre facility that was simultaneously a mosque, a madrassa, a gymnasium, a stable, and the organizational nerve center of [one of the most lethal terror groups operating against India](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/).

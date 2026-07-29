@@ -9,7 +9,7 @@ excerpt: "Egypt tried to erase the Amarna pharaohs from history entirely. Why th
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2004-12-01
+last_updated: 2026-07-29
 lang: en
 ---
 When Ramesside scribes compiled lists of the kings of Egypt, they wrote Amenhotep III and then Horemheb, one name after the other, as though nothing had happened between them. Roughly three decades, four rulers, a new capital, a religious revolution, an artistic revolution, and a diplomatic crisis fell into the gap. The omission was not carelessness. It was policy, sustained across reigns and dynasties, and it was accompanied by the physical dismantling of every building the Amarna kings had raised. Egypt did not merely reject Akhenaten's reform. It attempted to remove the period that produced it from the record of the past, and for something over three thousand years the attempt broadly worked.

@@ -9,7 +9,7 @@ excerpt: "How apartheid South Africa used secret death squads to murder its oppo
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2019-05-13
+last_updated: 2026-07-29
 lang: en
 ---
 On a farm in the Skurweberg hills, roughly twenty kilometres west of Pretoria, two fires would often burn at the same time after a successful operation. One fire was for a braai, the South African barbecue that policemen lit to celebrate. The other fire was for the body of the person they had just killed. The men who worked at that farm, a property the South African Police had quietly purchased in 1979 and named after the Afrikaans word for a flat stretch of land, believed those two fires would never be connected in public. They were wrong, and the way they were proven wrong is the single most important reason this story belongs in any honest analysis of state killing.

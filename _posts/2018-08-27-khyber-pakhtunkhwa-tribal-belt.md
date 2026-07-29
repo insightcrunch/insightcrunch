@@ -9,7 +9,7 @@ excerpt: "Khyber Pakhtunkhwa is where anti-India and anti-state terror overlap, 
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 71
 author: "alex-cunningham"
-last_updated: 2018-08-27
+last_updated: 2026-07-29
 lang: en
 ---
 There is a province in Pakistan's northwest where two separate wars are fought on the same ground, and most people who follow either war never notice the other. The first war is loud and public: the Pakistani state against the Tehrik-i-Taliban Pakistan, an insurgency that has killed soldiers, bombed police lines, and contested the writ of Islamabad across a long mountain frontier. The second war is silent and deniable: an elimination drive that has reached into this same terrain to kill men wanted not by Pakistan but by India, men who belonged to Lashkar-e-Taiba rather than to the Pakistani Taliban. Khyber Pakhtunkhwa is the place where those two campaigns intersect. It is where anti-state terrorism and anti-India terrorism share streets, share seminaries, sometimes share valleys, and where a covert operation has to navigate a battlefield in which every armed actor, the state's enemies and the state's assets alike, has a reason to distrust a stranger.

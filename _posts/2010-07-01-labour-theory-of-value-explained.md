@@ -9,7 +9,7 @@ excerpt: "The labour theory of value does not claim price equals labour time. He
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2010-07-01
+last_updated: 2026-07-29
 lang: en
 ---
 Almost every argument you will read about the labour theory of value is conducted against a proposition its author never defended. The version under attack holds that the price of a thing equals the quantity of labour poured into it, so that a badly made chair which took a week is worth more than a good one that took a day, and a mud pie nobody wants is worth whatever the mud-pie maker spent making it. That version is refutable in a sentence, which is why it is the version that circulates. It is also the version that Marx spends the third volume of Capital explicitly denying, and the version his own definition of value in the first chapter rules out before the argument has properly begun.

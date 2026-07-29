@@ -9,7 +9,7 @@ excerpt: "A Marxism glossary that draws the distinctions ordinary lists collapse
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2010-05-15
+last_updated: 2026-07-29
 lang: en
 ---
 Almost every argument about Marxism that goes nowhere goes nowhere for the same reason: two people are using one word in two senses and neither has noticed. Somebody says communism and means a stateless society of associated producers; somebody else hears it and thinks of a twentieth-century party state. Somebody says value and means the labour embodied in a commodity; somebody else hears it and thinks of price. Somebody says ideology and means the systematic distortion of understanding by social position; somebody else hears it and thinks of any set of political beliefs, which is the ordinary English sense and which makes the claim being advanced sound either trivial or insulting.

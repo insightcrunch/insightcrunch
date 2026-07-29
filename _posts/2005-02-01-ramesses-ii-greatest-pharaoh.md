@@ -9,7 +9,7 @@ excerpt: "Ramesses II reigned circa 1279 to 1213 BCE, and this guide weighs his 
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2005-02-01
+last_updated: 2026-07-29
 lang: en
 ---
 Ramesses II is the pharaoh whose name a person who knows nothing else about Egypt can usually produce. He held the throne for roughly sixty-six years, put his name on more stone than any other Egyptian king, fought the most famous battle of the Bronze Age, signed the earliest surviving international treaty, fathered so many children that his sons are buried in the largest tomb in the Valley of the Kings, and lived to around ninety in a world where most people did not see forty. The label attached to him, greatest pharaoh, has been repeated so consistently for so long that it now functions as part of his name.

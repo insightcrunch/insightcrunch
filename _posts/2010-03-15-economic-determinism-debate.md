@@ -9,7 +9,7 @@ excerpt: "Economic determinism is the most abused label in Marxism. The disputed
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2010-03-15
+last_updated: 2026-07-29
 lang: en
 ---
 The dispute over economic determinism has run for more than a century without either side stating the proposition clearly enough to be argued about. Critics say Marxism holds that the economy determines everything, which no serious Marxist has defended since the 1890s. Defenders say the theory only claims that material conditions matter, which no serious critic has denied since Herodotus. Both statements are true about somebody and neither is about the position actually in contention, and the result is a debate in which the two sides swing at each other's shadows.

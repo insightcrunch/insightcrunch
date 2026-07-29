@@ -9,7 +9,7 @@ excerpt: "Was Hatshepsut erased from history? Weigh the delayed defacement, the 
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 62
 author: "rachel-foster"
-last_updated: 2004-02-01
+last_updated: 2026-07-29
 lang: en
 ---
 Was Hatshepsut erased from history? For more than a century the answer seemed to write itself, and it made a good story. A woman had ruled Egypt as a full king, wearing the false beard and the royal titles that tradition reserved for men. When she died, her stepson and successor took the throne, hated the memory of the aunt who had kept him waiting, and set out to chisel her name and image from every wall he could reach. The erasure of Hatshepsut became a tale of jealousy and revenge, a king settling a personal score in stone. It is dramatic, it is memorable, and the evidence has slowly pulled it apart.

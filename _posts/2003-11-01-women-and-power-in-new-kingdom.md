@@ -9,7 +9,7 @@ excerpt: "Women and power in New Kingdom Egypt explained: how queens, God's Wive
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2003-11-01
+last_updated: 2026-07-29
 lang: en
 ---
 Women and power in New Kingdom Egypt sit at an angle to almost everything a reader expects from the ancient world. A woman in Thebes around 1300 BCE could buy a field, sell a donkey, lend grain at interest to her neighbor, stand in a court and give testimony against a man, walk out of a marriage and take her own property with her, and write a will that cut an ungrateful son out of his inheritance. The same woman could not become a vizier, could not command a regiment, could not sit as a judge, and would have found the scribal schools that produced the administrative class effectively shut to her. Both halves of that sentence are true at once, and the whole difficulty of the subject lives in the gap between them.

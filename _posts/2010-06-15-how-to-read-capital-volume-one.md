@@ -9,7 +9,7 @@ excerpt: "How to read Capital Volume One and finish it: four routes through the 
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2010-06-15
+last_updated: 2026-07-29
 lang: en
 ---
 Most people who abandon Capital Volume One do so on page thirty, and they blame themselves. They should not. The book has an opening that is harder than anything else in it, arranged in an order chosen for the argument rather than for the reader, and almost nobody arrives having been told either of those things. What defeats readers is not difficulty in general but a specific and predictable difficulty in a specific and predictable place, encountered without warning and without a plan for getting past it.

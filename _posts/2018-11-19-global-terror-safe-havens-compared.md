@@ -9,7 +9,7 @@ excerpt: "Comparing the world's terror safe havens from Pakistan to Afghanistan,
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 74
 author: "ian-fletcher"
-last_updated: 2018-11-19
+last_updated: 2026-07-29
 lang: en
 ---
 A useful way to understand any sanctuary for terrorism is to ask one blunt question: who is responsible for the fact that wanted men sleep soundly here? The answer separates one kind of refuge from another far more cleanly than geography, religion, or the names of the groups involved. In some places the answer is a collapsed government that simply cannot reach its own hinterland. In others it is a civil war that shattered the writ of every authority at once. And in one place, the answer is an intact, functioning, nuclear-armed government that has decided, as a matter of policy, that certain killers are worth keeping.

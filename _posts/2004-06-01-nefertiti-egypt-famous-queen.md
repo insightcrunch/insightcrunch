@@ -9,7 +9,7 @@ excerpt: "Nefertiti held power almost unmatched among Egypt's queens, yet her fa
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2004-06-01
+last_updated: 2026-07-29
 lang: en
 ---
 Nefertiti is one of the most recognized faces from the ancient world, and one of the least understood. A painted bust in a Berlin museum has made her a byword for beauty, so that millions who could not name a single Egyptian queen know her profile at a glance. Yet the woman behind that face is far harder to reach than the sculpture suggests. She held a share of royal power almost unmatched by any queen in three thousand years of Egyptian history, she stood at the center of a religious upheaval that shook the state, and then she vanished from the record so completely that scholars still argue over how and when she died, whether she ruled as a king in her own right, and which if any surviving body is hers. The gap between the fame of the face and the mystery of the life is the puzzle this article works through.

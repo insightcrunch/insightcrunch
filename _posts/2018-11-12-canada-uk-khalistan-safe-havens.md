@@ -9,7 +9,7 @@ excerpt: "How Canada and the United Kingdom became shelters for Khalistan separa
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
 author: "william-knight"
-last_updated: 2018-11-12
+last_updated: 2026-07-29
 lang: en
 ---
 On a Sunday evening in June 2023, two masked men waited in the parking lot of the Guru Nanak Sikh Gurdwara in Surrey, British Columbia. Hardeep Singh Nijjar, the temple's president and a man New Delhi had branded a terrorist three years earlier, was shot in his pickup truck as he left after the day's congregation. Roughly eight thousand kilometres away, three days before, Avtar Singh Khanda had died in a Birmingham hospital. Khanda was identified by Indian agencies as the chief of the Khalistan Liberation Force, operating under an assumed name, and he had pulled the Indian flag down from the High Commission in London only weeks earlier. Two bodies, two of the world's oldest democracies, one separatist project, and a single uncomfortable question that neither Ottawa nor Westminster had ever wanted to answer directly: how had Canada and the United Kingdom become the safest places on earth to be a Khalistan militant?

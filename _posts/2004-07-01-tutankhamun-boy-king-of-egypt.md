@@ -9,7 +9,7 @@ excerpt: "Tutankhamun was a boy king who inherited a religious crisis, restored 
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2004-07-01
+last_updated: 2026-07-29
 lang: en
 ---
 Strip away the gold and a difficult question remains: what did Tutankhamun actually do? He is the most recognized name in Egyptian history and one of its least consequential rulers by the ordinary measures of conquest, construction, and length of rule. He took the throne as a child of roughly nine, ruled for about a decade under the guidance of men who had served his predecessor, and died before he reached twenty. No Egyptian scribe of the later New Kingdom thought him worth remembering. The compilers of the Abydos king list under Seti I skipped him entirely, running straight from Amenhotep III to Horemheb as though the intervening reigns had never happened. His fame is an accident of preservation, not a verdict of history.

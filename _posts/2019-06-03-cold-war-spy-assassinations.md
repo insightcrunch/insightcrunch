@@ -9,7 +9,7 @@ excerpt: "A ranked analysis of twelve Cold War spy assassinations, from Trotsky 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2019-06-03
+last_updated: 2026-07-29
 lang: en
 ---
 On an August afternoon in 1940, a man carrying a concealed mountaineering axe walked into a study in the Coyoacan district of Mexico City and brought decades of state-sponsored killing into sharp focus. His victim was Leon Trotsky, the exiled rival whom Joseph Stalin had hunted across three continents. The weapon was crude, the planning had been patient, and the message proved unmistakable. A government had decided that a single death on foreign soil justified years of effort, and the decision was vindicated within twenty-four hours. Trotsky did not invent the political murder, but his death set a template that the next half century of intelligence history would refine, repeat, and occasionally botch.

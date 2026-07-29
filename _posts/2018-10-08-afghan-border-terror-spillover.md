@@ -9,7 +9,7 @@ excerpt: "How Afghanistan's chronic instability feeds Pakistan's terror infrastr
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 72
 author: "william-knight"
-last_updated: 2018-10-08
+last_updated: 2026-07-29
 lang: en
 ---
 The frontier between Afghanistan and Pakistan runs for roughly 2,600 kilometers across some of the most broken terrain on the planet, and for the better part of half a century it has functioned less as a national boundary than as a single ungoverned theater that two states pretend to divide. The line on the map carries the name of a British colonial administrator. The reality on the ground is a continuous belt of mountains, valleys, smuggling trails, refugee corridors, and militant sanctuaries that no fence has ever fully sealed. Anyone trying to understand how violence aimed at India is produced, sustained, and refreshed has to reckon with this belt, because the threat that reaches Kashmir and the Indian heartland does not originate at the Line of Control. It originates much further west, in a zone where the writ of the Pakistani state thins out, the writ of the Afghan state has effectively dissolved into Taliban rule, and a jihadist ecosystem older than most of the men who staff it keeps regenerating itself.

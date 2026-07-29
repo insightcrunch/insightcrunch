@@ -9,7 +9,7 @@ excerpt: "Boogie Nights turns a found family in the porn trade into a saga throu
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2019-05-01
+last_updated: 2026-07-29
 lang: en
 ---
 Watch the first three minutes of Boogie Nights and you already know you are in the hands of a filmmaker who has decided that the camera will be a character. A marquee glows over a San Fernando Valley boulevard, the title card flashes, and then the lens drops down to street level and begins to move. It crosses a parking lot, slips through the doors of a nightclub called Hot Traxx, and threads its way across a crowded floor, picking up one person after another, pausing on a face long enough to make an introduction before sliding on to the next. By the time the shot finally settles, the film has handed you a porn director, his leading lady, a roller-skating ingenue, a busboy with a body, and a half-dozen hangers-on, all of them moving through the same room as if they have known each other for years. The craft is not decoration. It is the argument. Paul Thomas Anderson built the picture around a gliding camera and an orchestrated ensemble so that a debauched subculture would feel, by the end, like a family.

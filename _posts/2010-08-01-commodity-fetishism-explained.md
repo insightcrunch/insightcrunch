@@ -9,7 +9,7 @@ excerpt: "Commodity fetishism is not consumerism, not false consciousness, and i
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2010-08-01
+last_updated: 2026-07-29
 lang: en
 ---
 Commodity fetishism is not a claim about shoppers. It is not a claim that people love brands too much, that advertising has enchanted the public, or that consumers mistake possessions for happiness. Every one of those propositions may be true and none of them is what Marx argued in the fourth section of the first chapter of Capital. The concept has been captured almost entirely by consumer-culture writing, where it functions as a technical-sounding synonym for materialism in the shopping sense, and the capture has been so complete that a reader who arrives at the passage after reading about it will not recognise what is there.

@@ -9,7 +9,7 @@ excerpt: "How America's extraordinary rendition program kidnapped terror suspect
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 72
 author: "andrew-price"
-last_updated: 2019-05-06
+last_updated: 2026-07-29
 lang: en
 ---
 Khaled El-Masri was riding a bus toward Skopje on the last day of 2003 when Macedonian border guards pulled him off at the Serbian frontier and told him his passport needed checking. He was a car salesman from Ulm, a German citizen of Lebanese origin, traveling alone on a holiday meant to clear his head after an argument with his wife. The passport check turned into twenty-three days in a locked room at the Skylight Hotel in Skopje, where men in plainclothes questioned him about an Islamic centre and a name, al-Masri, that was close to the name of a genuine suspect but belonged to the wrong man. On the twenty-third day a CIA team flew in, stripped him, beat him, forced a suppository and a diaper on him, chained him to the floor of an aircraft, and flew him to a prison in Afghanistan that its inmates would later learn to call the Salt Pit.

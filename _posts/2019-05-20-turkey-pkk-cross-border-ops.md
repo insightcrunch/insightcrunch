@@ -9,7 +9,7 @@ excerpt: "How Turkey conducted decades of cross-border military operations again
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "william-knight"
-last_updated: 2019-05-20
+last_updated: 2026-07-29
 lang: en
 ---
 There is a country that has spent four decades doing, in plain daylight and with armored columns, what India is accused of doing in the dark with motorcycles. That country is Turkey, and the target of its attention is the Kurdistan Workers' Party, the militant organization that planted its headquarters in the mountains of a neighboring state and discovered, as so many armed groups before it had, that a frontier on a map is the cheapest form of body armor ever invented. Ankara responded by deciding that the frontier did not bind it. Turkish soldiers crossed into northern Iraq in 1983, before the insurgency had even formally begun, and they have been crossing ever since, building a war that runs on helicopters, hilltop garrisons, artillery, and drones, fought mostly out of sight of the cameras that obsess over more fashionable conflicts.

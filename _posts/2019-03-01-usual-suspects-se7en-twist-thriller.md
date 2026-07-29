@@ -9,7 +9,7 @@ excerpt: "The Usual Suspects and Se7en turned 1995 into the year the twist thril
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2019-03-01
+last_updated: 2026-07-29
 lang: en
 ---
 In 1995 two American thrillers arrived within months of each other, each built its entire effect on a single withheld truth, and each detonated that truth in its final minutes with a force that reset what a popular mystery could do to an audience. The Usual Suspects, directed by Bryan Singer and written by Christopher McQuarrie, hides the identity of a legendary criminal until a coffee cup hits the floor of a police office. Se7en, directed by David Fincher and written by Andrew Kevin Walker, hides the contents of a cardboard box until a detective's question turns into the most quoted line of dread in modern crime cinema. Pair them and a real choice appears: which 1995 reveal cut deeper, and which one did more to reshape the decade's thrillers?

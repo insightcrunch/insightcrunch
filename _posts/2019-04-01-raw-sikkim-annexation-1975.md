@@ -9,7 +9,7 @@ excerpt: "How RAW engineered the 1975 annexation of Sikkim, the most successful 
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "ryan-walsh"
-last_updated: 2019-04-01
+last_updated: 2026-07-29
 lang: en
 ---
 On the morning of April 16, 1975, the parliament of a small Himalayan kingdom voted itself out of existence. The elected assembly of Sikkim, sitting in Gangtok beneath the snow line of the eastern Himalayas, passed a resolution abolishing the institution of the Chogyal and asking to become the twenty-second state of the Indian Union. Two days earlier the kingdom's people had been asked the same question in a special poll, and an overwhelming majority had answered yes. Within a month the Constitution of India would be amended, the three-hundred-year-old Namgyal dynasty would be finished, and a sovereign monarchy would have vanished from the map without a single shot fired in open battle. What looked from a distance like a spontaneous democratic awakening was, in substantial part, the product of a patient and deliberate intelligence operation run by the Research and Analysis Wing.

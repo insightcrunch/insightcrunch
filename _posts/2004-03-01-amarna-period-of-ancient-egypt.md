@@ -9,7 +9,7 @@ excerpt: "The Amarna Period was ancient Egypt's great anomaly, the short years w
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 80
 author: "chloe-martin"
-last_updated: 2004-03-01
+last_updated: 2026-07-29
 lang: en
 ---
 For roughly two decades in the fourteenth century BCE, ancient Egypt did something it almost never did across three thousand years of recorded civilization: it deliberately broke its own rules. The Amarna Period is the name Egyptologists give to that break, a short and intense stretch of the Eighteenth Dynasty when a single pharaoh, Akhenaten, closed the great state temples, promoted one sun god above the crowded pantheon, built a brand-new capital on empty desert ground, and reshaped royal art into something no earlier Egyptian would have recognized. Then, almost as fast as it began, the experiment collapsed, and the kings who followed worked to scrub it from the record so thoroughly that for centuries the whole episode nearly vanished from Egypt's official memory of itself.

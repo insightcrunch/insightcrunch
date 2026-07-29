@@ -9,7 +9,7 @@ excerpt: "Marxism is six separable components, not one doctrine. Learn what each
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 76
 author: "rachel-foster"
-last_updated: 2010-01-01
+last_updated: 2026-07-29
 lang: en
 ---
 Almost every public argument about Marxism is unwinnable, and the reason is structural rather than political. One person is attacking a theory of history. The other is defending a critique of how profit arises inside a factory. A third has in mind a set of twentieth-century governments. A fourth is thinking about a method of literary interpretation taught in a university seminar. All four are using the same word, all four are talking about something real, and none of them is talking about the same thing. The argument cannot resolve because there is no shared proposition on the table.

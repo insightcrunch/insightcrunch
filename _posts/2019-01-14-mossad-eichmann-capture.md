@@ -9,7 +9,7 @@ excerpt: "How Mossad's 1960 capture of Adolf Eichmann in Buenos Aires set the te
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 72
 author: "benjamin-scott"
-last_updated: 2019-01-14
+last_updated: 2026-07-29
 lang: en
 ---
 On the evening of May 11, 1960, a tired man in a grey raincoat stepped off a public bus on Route 202 in the working-class suburb of San Fernando, north of Buenos Aires, and began the short walk toward a half-finished brick house on Garibaldi Street. He had made this walk hundreds of times. He was a foreman at a Mercedes-Benz assembly plant, a husband, a father of four, and to his neighbors an unremarkable German immigrant named Ricardo Klement who kept to himself and grew chrysanthemums. Within ninety seconds he would be lying on the floor of a parked Chevrolet with a gloved hand over his mouth and a small team of Israeli intelligence officers driving him toward a rented safe house, and the question of whether a sovereign state could reach across an ocean to seize a wanted man from the soil of another sovereign state would never again be entirely theoretical.

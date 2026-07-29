@@ -9,7 +9,7 @@ excerpt: "The complete history of ISI covert operations, from the Afghan jihad t
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 71
 author: "ian-fletcher"
-last_updated: 2019-06-10
+last_updated: 2026-07-29
 lang: en
 ---
 There was a stretch of years when the Inter-Services Intelligence Directorate ran the single largest covert war on the planet, and almost nobody outside a few rooms in Rawalpindi and Langley understood how completely one Pakistani institution had come to dominate it. Crates of Egyptian and Chinese rifles moved through the port of Karachi, up the road to depots near the Afghan frontier, and into the hands of fighters whose names the directorate kept in its own files and shared with no foreign service. American money, Saudi money, and a steady stream of weapons all passed through a single clearing house, and that clearing house was a spy agency answerable to the Pakistan Army rather than to any elected government. For roughly a decade, Pakistan's premier intelligence service held more operational leverage over the future of a neighboring country than any other actor in the region, including the superpowers funding it.

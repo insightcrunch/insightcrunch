@@ -9,7 +9,7 @@ excerpt: "How RAW's covert backing of the Mukti Bahini in 1971 became India's fi
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
 author: "william-knight"
-last_updated: 2019-03-18
+last_updated: 2026-07-29
 lang: en
 ---
 On the damp afternoon of December 16, 1971, on a polo ground in central Dhaka, Lieutenant General Amir Abdullah Khan Niazi of the Pakistan Army signed an instrument of surrender and handed roughly ninety-three thousand soldiers and officials into the custody of a joint Indian and Bengali command. It was the largest military capitulation since the Second World War, and it closed a nine-month campaign of mass killing that had pushed close to ten million refugees across the border into Indian territory. A new country stood where the eastern wing of Pakistan had stood that morning. The surrender photographs show Indian generals seated beside Bengali commanders, and the official account credits the Indian Army and the Mukti Bahini for the victory. What the photographs do not show, and what the official account was careful never to spell out, is the contribution of an organization barely three years old whose name almost no one on that polo ground would have recognized.

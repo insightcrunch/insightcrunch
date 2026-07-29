@@ -9,7 +9,7 @@ excerpt: "The Valley of the Kings hid New Kingdom pharaohs in rock-cut tombs to 
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2004-01-01
+last_updated: 2026-07-29
 lang: en
 ---
 The Valley of the Kings was a security decision before it was anything else. For roughly five centuries the kings of the Old and Middle Kingdoms had advertised their burials with the largest stone structures on earth, and for those same centuries robbers had emptied nearly every one of them. When the pharaohs of the New Kingdom chose a dry desert valley behind the cliffs of western Thebes and cut their tombs deep into the rock instead of piling stone toward the sky, they were not inventing a new kind of grandeur. They were trying to solve a problem the pyramid had failed to solve. A tomb no one could find could not be robbed. That was the wager, and the whole design of the valley follows from it: the hidden entrances, the disguised shafts, the workers sworn to secrecy in a walled village over the ridge, the mummies packed with the wealth of an empire and sealed behind rubble.

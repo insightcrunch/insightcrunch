@@ -3,7 +3,7 @@ layout: post
 title: "Sialkot JeM Operations Hub"
 page_title: "Sialkot JeM Operations Hub - How Pakistan's Border City Became JeM's Infiltration Staging Ground and Where Pathankot Mastermind Shahid Latif Was Killed"
 date: 2018-07-30
-last_updated: 2018-07-30
+last_updated: 2026-07-29
 author: "andrew-price"
 categories: ["Industry"]
 tags: ["sialkot", "jaish-e-mohammed", "shahid-latif", "pathankot", "border-city"]

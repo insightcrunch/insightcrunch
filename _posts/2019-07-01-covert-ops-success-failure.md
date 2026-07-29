@@ -9,7 +9,7 @@ excerpt: "Analyzing the global patterns of covert operation success and failure,
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2019-07-01
+last_updated: 2026-07-29
 lang: en
 ---
 Ask an intelligence historian why one secret action succeeds and another collapses, and the honest answer is that the difference is rarely luck. It is structure. A campaign of covert violence is not a single decision but a chain of them, and the chain holds or breaks at predictable joints. Bangladesh in 1971 held. The Bay of Pigs in 1961 broke within seventy-two hours. Both were planned by competent professionals who believed they understood the terrain. The question this analysis sets out to answer is therefore not whether covert action can work, since the historical record proves that it sometimes does, but rather what separates the operations that age into quiet triumphs from the ones that age into national embarrassments, criminal trials, and strategic disasters.

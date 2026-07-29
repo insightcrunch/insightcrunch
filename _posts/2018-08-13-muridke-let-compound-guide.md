@@ -9,7 +9,7 @@ excerpt: "Inside Muridke, the 200-acre Markaz-e-Taiba compound and seminary that
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 71
 author: "william-knight"
-last_updated: 2018-08-13
+last_updated: 2026-07-29
 lang: en
 ---
 Roughly thirty kilometres north of Lahore, where the Grand Trunk Road runs flat through the canal-fed farmland of Sheikhupura district, a high boundary wall encloses two hundred acres of ground that no Pakistani policeman has ever entered with a warrant. The land belongs, on paper, to a charitable trust. What sits on it tells a more complicated story: a vast mosque with a prayer hall built for thousands, a residential seminary with dormitories and classrooms, a hospital, two schools, a market, light-industrial workshops, a swimming pool, a fish farm, and acres of cultivated fields. This is Markaz-e-Taiba, the headquarters complex that Hafiz Saeed began assembling in 1988, and for more than three decades it served as the institutional heart of Lashkar-e-Taiba, the group blamed for the 2008 Mumbai siege and a generation of attacks across India. Muridke is not a training camp. It is a campus. And the fact that a campus of this size, this visibility, and this notoriety could operate untouched for thirty-seven years is the single clearest illustration of what a state-protected safe haven actually looks like.

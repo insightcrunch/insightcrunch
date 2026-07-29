@@ -9,7 +9,7 @@ excerpt: "Base and superstructure is the hardest pair of terms in Marxism to pla
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2010-02-01
+last_updated: 2026-07-29
 lang: en
 ---
 Ask a room of students to draw the base and superstructure model and almost all of them will produce a building: a solid rectangle at the bottom labelled the economy, a taller rectangle balanced on top of it labelled law, politics, religion, education, and culture, and an upward arrow. Ask them what the diagram claims and the answers become vague. Ask them whether the law that defines who owns a factory belongs in the box above or the box below, and the room divides, because that question has no comfortable answer and has generated a century of theoretical repair work.

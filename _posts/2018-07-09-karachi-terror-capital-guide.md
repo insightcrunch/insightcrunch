@@ -9,7 +9,7 @@ excerpt: "Why Karachi became Pakistan's primary elimination theater, which terro
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 70
 author: "nathan-cole"
-last_updated: 2018-07-09
+last_updated: 2026-07-29
 lang: en
 ---
 Karachi is where Pakistan's safe-haven system and India's shadow war collide at maximum density. More wanted militants have been shot dead in Karachi than in every other Pakistani city combined. More proscribed organizations maintain operational cells in Karachi than in any other urban center. The city's chaotic anonymity protects both the hunted and the hunters, making it the shadow war's primary battlefield in a country of 230 million people. Understanding Karachi is not merely understanding one city. It is understanding why the shadow war unfolds the way it does, where it does, and why neither side seems capable of changing those terms.

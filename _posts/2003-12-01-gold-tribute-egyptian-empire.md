@@ -9,7 +9,7 @@ excerpt: "Gold, tribute, and trade funded the Egyptian empire of the New Kingdom
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2003-12-01
+last_updated: 2026-07-29
 lang: en
 ---
 The Egyptian empire of the New Kingdom, the run of pharaohs from Ahmose I around 1550 BCE to the last of the Ramesses near 1069 BCE, was the wealthiest state the eastern Mediterranean and the Near East had yet produced, and its riches rested on a foundation that can be named in three words: gold, tribute, and trade. This was not treasure hoarded for its own sake. It was a working economy with sources and destinations, an inflow of metal and goods from the south and the north and a steady outflow into temples, tombs, and armies. Understanding how that money moved is the difference between admiring a gilded coffin and explaining how a Bronze Age state paid for one.

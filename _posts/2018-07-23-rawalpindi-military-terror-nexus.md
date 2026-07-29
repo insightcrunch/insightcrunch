@@ -9,7 +9,7 @@ excerpt: "How Rawalpindi hosts Pakistan's Army GHQ, ISI headquarters, and design
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2018-07-23
+last_updated: 2026-07-29
 lang: en
 ---
 Pakistan's safe haven for terrorists has a geography of embarrassment, and no city makes that embarrassment more acute than Rawalpindi. The garrison city that houses Army General Headquarters, the Joint Staff Headquarters, the Military Intelligence Directorate, the Chaklala military complex, and the sprawling residential cantonment where Pakistan's most senior generals sleep also houses the liaison office of a designated foreign terrorist organization, the safe houses where wanted militants spend their exile years, and the street corner outside a shop where Bashir Ahmad Peer, Hizbul Mujahideen's launching commander for infiltration into Kashmir, was shot dead at point-blank range on the evening of February 20, 2023. The distance between where Pakistan's Army chief works and where a designated terrorist lived is not measured in hundreds of kilometers. It is measured in neighborhoods.

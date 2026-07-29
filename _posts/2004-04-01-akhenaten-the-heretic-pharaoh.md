@@ -9,7 +9,7 @@ excerpt: "Akhenaten, the heretic pharaoh, shut Egypt's gods to raise the Aten an
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2004-04-01
+last_updated: 2026-07-29
 lang: en
 ---
 No pharaoh of the Eighteenth Dynasty is remembered with more discomfort than Akhenaten, the ruler his own countrymen tried to unmake. Within a generation of his death, scribes struck his name from the official king lists, workmen pulled down his temples block by block, and later records refused to call him by his name at all, referring instead to the enemy or the criminal of Akhetaten. The label the heretic pharaoh comes from that reaction: here was a king who shut the great temples of Amun, raised a single sun god above the crowded pantheon that had defined Egyptian worship for two thousand years, moved his court to a virgin plain in the desert, and had his artists show him with a body no earlier pharaoh would have permitted on a monument. The central question this article answers is not whether he was a saint or a madman, a debate that belongs to the argument over whether Akhenaten was a visionary or a tyrant, but something more basic and more useful: who was this man, what exactly did he do, and why did a wealthy, stable, imperial Egypt allow one reign to overturn its oldest certainties.

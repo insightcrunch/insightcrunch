@@ -9,7 +9,7 @@ excerpt: "Mapping Pakistan's terror training camp network from Muridke to Muzaff
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2018-10-01
+last_updated: 2026-07-29
 lang: en
 ---
 Pakistan's terror infrastructure is not an abstraction. It carries street addresses, satellite coordinates, construction dates, and named administrators. On the night of May 7, 2025, when Indian Rafale jets released SCALP cruise missiles across the international border, the nine sites that absorbed those missiles were not chosen in haste. Indian intelligence had catalogued each location for years, photographed the buildings from orbit, recorded which organisation ran which compound, and assigned every site a serial number. The targets were instruction facilities, and the strike that destroyed them exposed something the public rarely sees laid out in full: the physical network that converts ordinary recruits into operational fighters.

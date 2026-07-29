@@ -9,7 +9,7 @@ excerpt: "How Mossad's long campaign of assassinations and sabotage against Iran
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 71
 author: "william-knight"
-last_updated: 2019-01-21
+last_updated: 2026-07-29
 lang: en
 ---
 A little before eight in the morning on a cold January day in 2012, a green Peugeot 405 inched through the rush-hour crush near Gol Nabi Street in northern Tehran. A motorcycle slid up alongside it, the rider reached out with a gloved hand, and a magnetic device the size of a paperback book attached itself to the driver's door. Seconds later the rider was gone, threading the gridlock that no police car could follow, and the man inside the Peugeot, a thirty-two-year-old chemical engineer named Mostafa Ahmadi-Roshan, was dead. He had been a deputy director at the Natanz enrichment site. He was the fifth Iranian connected to the nuclear program to die in this exact manner in four years, and the pattern by then was no longer in dispute. Someone had built a machine for killing scientists in traffic, and it was running with industrial reliability.

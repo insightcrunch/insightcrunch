@@ -9,7 +9,7 @@ excerpt: "The Kartarpur Corridor survived the entire diplomatic crisis but fell 
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2018-06-04
+last_updated: 2026-07-29
 lang: en
 ---
 For fifteen days after the Pahalgam massacre, as India expelled Pakistani diplomats, suspended the Indus Waters Treaty, shut the Attari-Wagah border, and prepared the most ambitious military operation it had launched against Pakistan since 1971, one crossing remained open. Sikh pilgrims from Punjab's Gurdaspur district kept walking the 4.7-kilometre corridor to Gurdwara Darbar Sahib in Kartarpur, Pakistan, where Guru Nanak spent the final eighteen years of his life and died in 1539. The Kartarpur Corridor, inaugurated in November 2019 as a gesture of shared heritage between two nations that had spent seventy-two years trying to erase each other, outlasted every other diplomatic structure India and Pakistan had built in the post-Pulwama era. It was, in the language of strategic analysts, the last confidence-building measure standing.

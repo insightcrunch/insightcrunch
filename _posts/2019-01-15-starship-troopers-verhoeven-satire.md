@@ -9,7 +9,7 @@ excerpt: "Starship Troopers looked like a dumb bug movie in 1997, then earned re
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2019-01-15
+last_updated: 2026-07-29
 lang: en
 ---
 When Paul Verhoeven's Starship Troopers reached American screens in November 1997, the reviews read like a collective shrug followed by a sneer. Here was a glossy war movie about square-jawed teenagers shooting giant insects, drowning in computer-generated carnage, marching to gung-ho recruitment slogans. Critics filed it under expensive nonsense, a check-your-brain-in-the-lobby spectacle that took its own jingoism at face value. The picture limped past its enormous budget at the box office and seemed destined to fade. Two decades later the same movie sits on syllabi as one of the sharpest satires of fascism and militarism Hollywood ever smuggled past a studio. That reversal, from punchline to subversive classic, is the story this article tells: not just what the film says, but how an entire culture managed to misread a movie that was mocking them, and what it took to finally see the joke.

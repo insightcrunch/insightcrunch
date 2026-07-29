@@ -9,7 +9,7 @@ excerpt: "Historical materialism exam answers with real marks logic: the four-mo
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2010-05-01
+last_updated: 2026-07-29
 lang: en
 ---
 An examiner reading a hundred scripts on historical materialism will see the same answer ninety times. It opens with a sentence about Marx believing that economics determines everything, moves to a paragraph on base and superstructure with the standard building metaphor, adds the five stages of history in a list, mentions that critics say the theory is too deterministic, and stops. It is not wrong, exactly. It is unmarkable above the middle band, because nothing in it demonstrates anything the candidate could not have got from a revision card, and because the two things assessments on this topic actually reward, mechanism and specification, are both missing.

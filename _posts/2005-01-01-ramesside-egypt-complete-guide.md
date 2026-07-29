@@ -9,7 +9,7 @@ excerpt: "Ramesside Egypt ran circa 1292 to 1069 BCE across two dynasties, and t
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 79
 author: "amanda-ross"
-last_updated: 2005-01-01
+last_updated: 2026-07-29
 lang: en
 ---
 Ramesside Egypt is the stretch of Egyptian history that most people picture when they picture pharaohs at all: colossal seated kings, chariot armies wheeling across temple walls, rock-cut facades staring out over Nubia. It is also the stretch that ends with a king in his capital unable to pay the workmen who dug his own tomb, with royal burials being stripped by organized gangs, and with a priest at Thebes writing his name in a cartouche because there was no longer anyone able to stop him. Both of those pictures are accurate. The task of this guide is to show that they belong to one continuous story rather than two.

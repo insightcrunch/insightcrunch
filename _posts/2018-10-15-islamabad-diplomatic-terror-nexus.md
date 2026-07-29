@@ -9,7 +9,7 @@ excerpt: "How Islamabad uniquely shelters foreign embassies and the offices of U
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 72
 author: "ian-fletcher"
-last_updated: 2018-10-15
+last_updated: 2026-07-29
 lang: en
 ---
 A foreign envoy leaving the British High Commission in Sector G-5 on a working morning travels along Constitution Avenue past the Supreme Court, the Parliament building, and the Presidency, and within the same metropolitan boundary, inside the jurisdiction of a single municipal authority, sits the institutional residue of organizations that the United Nations Security Council itself has placed under global sanction. That envoy and the charity wing of a proscribed group share the same postal system, the same police force, the same airport, and the same skyline. No other planned capital on earth has been engineered so deliberately for order and legibility while tolerating, inside its own carefully drawn sectors, the administrative shadow of groups that the host government has formally declared to be terrorist.

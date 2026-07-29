@@ -9,7 +9,7 @@ excerpt: "Historical materialism and Hegelian idealism compared properly: what M
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2010-04-01
+last_updated: 2026-07-29
 lang: en
 ---
 Almost every account of historical materialism and Hegelian idealism ends at the same place: Hegel had the dialectic standing on its head, and Marx turned it the right way up. The image comes from Marx himself and it is not wrong. It is also not an explanation. It tells a reader that something was reversed without saying what, leaves them unable to say which parts of Hegel survived the operation, and gives an examiner nothing to reward. A student who writes it has written the sentence every other candidate wrote.

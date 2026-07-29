@@ -9,7 +9,7 @@ excerpt: "The Mission makes Ennio Morricone's score its moral voice, fusing sacr
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2018-07-15
+last_updated: 2026-07-29
 lang: en
 ---
 A priest climbs to the top of a waterfall, sits on a rock above a tribe that has just martyred one of his brothers, and instead of speaking he plays an oboe. The Guarani warriors who were ready to kill him stop, listen, and lower their weapons. That scene is the thesis of The Mission in a single image, and it is also the thesis of Ennio Morricone's score: that music can reach across a gulf no argument can bridge, and that when the talking fails, the melody is the only thing left that both sides can hear. The Mission, directed by Roland Joffe in 1986 from a screenplay by Robert Bolt, is a film about Jesuit missionaries and the Guarani people of eighteenth-century South America, caught between faith and the slave-trading empires of Spain and Portugal. It is also, by wide agreement, the home of one of the most revered scores ever written for cinema, a body of music so durable that it long ago outgrew the film and now lives in concert halls, weddings, funerals, and the standard repertoire of every crossover soprano alive.

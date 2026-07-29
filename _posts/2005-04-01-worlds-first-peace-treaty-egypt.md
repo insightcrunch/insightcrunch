@@ -9,7 +9,7 @@ excerpt: "The world's first peace treaty was sealed circa 1259 BCE between Egypt
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2005-04-01
+last_updated: 2026-07-29
 lang: en
 ---
 Roughly sixteen years after two empires had thrown the largest chariot armies in history at each other on the Orontes, a messenger arrived at the Egyptian court carrying a tablet of silver. Engraved on it, in the diplomatic language of the age, was a document in which the Hittite Great King and the Egyptian pharaoh addressed one another as brothers, renounced war permanently, promised to defend each other against attack, agreed to return each other's fugitives, and called a thousand gods on each side to witness the whole arrangement. The silver tablet itself does not survive. Copies of what it said do, in two languages, from two capitals, made by two chanceries with opposing interests, and their survival is the reason this document is the earliest international agreement whose full text can be read from both sides.

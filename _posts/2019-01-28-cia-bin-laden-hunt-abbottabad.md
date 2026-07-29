@@ -9,7 +9,7 @@ excerpt: "The CIA's decade-long hunt for Osama bin Laden, from the escape at Tor
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "william-knight"
-last_updated: 2019-01-28
+last_updated: 2026-07-29
 lang: en
 ---
 For months in the winter of 2010 and the spring of 2011, a small group of analysts at the Central Intelligence Agency watched a man they could not clearly photograph walk in slow circles inside a high-walled enclosure in the Pakistani city of Abbottabad. They called him the pacer. He never left the property. He never placed a telephone call or sent an email. His household burned its trash rather than setting it out for the municipal collectors who served the rest of the neighborhood. The analysts could not see his face from the angles their surveillance allowed, could not confirm his identity through any biometric channel, and could not agree among themselves on how much confidence the available evidence justified. What they could say with conviction was narrow but heavy: the compound had been designed and built to conceal someone, and the someone inside it matched, in physical stature and daily habit and the deference shown to him by the two families who shared the grounds, the profile of the most hunted fugitive alive.

@@ -9,7 +9,7 @@ excerpt: "Schindler's List carried the Holocaust into mainstream cinema through 
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2019-06-15
+last_updated: 2026-07-29
 lang: en
 ---
 In December 1993 the most popular filmmaker in the world released a black and white picture about the murder of European Jewry, and the question that had hovered over the subject for fifty years became unavoidable: can the Holocaust be dramatized at all, and if it can, what does dramatization cost? Schindler's List did not invent Holocaust cinema. Documentaries and foreign dramas had circled the catastrophe for decades. What Steven Spielberg's account of a German industrialist who saved more than a thousand Jewish workers did was carry that history into the center of mainstream culture, win the industry's highest honors, and reach an audience no essay-film or testimony record had ever touched. That reach is the cultural fact this article reads, and the debate it provoked is the political fact underneath it.

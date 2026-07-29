@@ -9,7 +9,7 @@ excerpt: "Forrest Gump works because Tom Hanks plays the everyman with complete 
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2019-06-01
+last_updated: 2026-07-29
 lang: en
 ---
 A man sits on a bench at a bus stop in Savannah, a box of chocolates on his lap, and tells his life story to whoever happens to sit beside him. His name is Forrest Gump, and he knows he is not clever. Yet over the next two hours, this guileless southerner walks straight through forty years of American upheaval, shaking hands with three presidents, teaching Elvis to dance, fighting in Vietnam, founding a shrimp company, and running back and forth across the continent for no reason he can name. The whole improbable construction holds together for one reason, and that reason is Tom Hanks. *Forrest Gump*, directed by Robert Zemeckis and released in 1994, asks its lead to play a character who could collapse into mockery, sap, or freak show at any moment, and Hanks refuses every one of those exits. He plays the man straight. He never winks. That decision, sustained shot by shot across the entire picture, is the performance, and it is the subject of this analysis.

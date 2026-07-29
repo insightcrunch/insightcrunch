@@ -9,7 +9,7 @@ excerpt: "The Battle of Kadesh, circa 1274 BCE, was the largest chariot battle e
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2005-03-01
+last_updated: 2026-07-29
 lang: en
 ---
 The Battle of Kadesh is the earliest battle in human history whose course can be reconstructed hour by hour. That is a stronger claim than it sounds. For almost every ancient engagement, historians know roughly who fought, roughly where, roughly when, and roughly who prevailed, and the tactical detail is either absent or supplied by a writer working centuries later from hearsay. For Kadesh, an army's line of march, the intelligence it acted on, the moment it was surprised, the point at which one of its divisions collapsed, and the sequence of events that stabilized the field are all recorded by participants in the campaign year, in multiple versions, with accompanying pictorial reliefs.

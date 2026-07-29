@@ -9,7 +9,7 @@ excerpt: "The global legal and ethical debate on targeted killings, what interna
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 73
 author: "abigail-cooper"
-last_updated: 2019-04-15
+last_updated: 2026-07-29
 lang: en
 ---
 When a Lashkar-e-Taiba commander is shot outside a mosque in Karachi by two men on a motorcycle, the world reaches for a vocabulary that does not quite fit. Some observers call it an assassination, a word that carries the stain of crime. Others call it a counter-terror operation, a phrase that implies the comfort of law. A few call it murder, full stop. The disagreement is not about what happened. Two men killed a third man, and the third man had a long record of organizing mass violence against civilians. The disagreement is about whether the killing was lawful, and that question has no settled answer anywhere in the body of rules that nations have written for themselves over the past century.

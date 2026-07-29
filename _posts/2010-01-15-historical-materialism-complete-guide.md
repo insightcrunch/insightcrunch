@@ -9,7 +9,7 @@ excerpt: "Historical materialism is six claims of descending strength, not one t
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 76
 author: "chloe-martin"
-last_updated: 2010-01-15
+last_updated: 2026-07-29
 lang: en
 ---
 Ask two well-read people whether historical materialism has been refuted and you will usually get a confident yes and a confident no, followed by an exchange in which neither position moves. The reason is not stubbornness. The critic is attacking a claim that technological development determines the whole of social life with something approaching necessity, and that claim is in serious trouble. The defender is holding a claim that material conditions constrain what is historically possible and that ideas do not float free of the arrangements that sustain them, and that claim is close to something most working historians accept. Both are describing something real. Neither is describing what the other is describing.

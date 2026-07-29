@@ -9,7 +9,7 @@ excerpt: "Comparing India's two military strikes on Pakistan across twelve dimen
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
 author: "ryan-walsh"
-last_updated: 2018-06-25
+last_updated: 2026-07-29
 lang: en
 ---
 Twelve jets crossed the Line of Control on February 26, 2019. Six years later, an entire tri-service apparatus launched cruise missiles from within Indian territory at nine targets spread across Pakistan's Punjab heartland and Pakistan-occupied Jammu and Kashmir. The distance between those two moments is not simply time. It is a doctrinal chasm, a weapons-system revolution, and a geopolitical irreversibility that has permanently recalibrated how nuclear-armed neighbors calculate risk and resolve. Balakot was New Delhi's first air strike inside Pakistani territory since 1971. Operation Sindoor was something qualitatively and strategically different from anything that came before it.

@@ -9,7 +9,7 @@ excerpt: "Tutankhamun's tomb was found nearly intact by Howard Carter in 1922. H
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2004-08-01
+last_updated: 2026-07-29
 lang: en
 ---
 Every royal burial in the Valley of the Kings had been entered, emptied, and in most cases systematically stripped, some within a generation of the funeral and the rest during an organized state recovery of precious metal at the close of the New Kingdom. Egyptologists knew this. It was the settled condition of the field: royal tombs supplied architecture, wall decoration, and fragments, and the objects that had filled them were understood as permanently lost. What no one had ever seen was a complete set of what a pharaoh actually took into the ground.

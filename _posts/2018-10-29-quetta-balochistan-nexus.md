@@ -9,7 +9,7 @@ excerpt: "How Quetta and the wider Balochistan region connect the Afghan Taliban
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2018-10-29
+last_updated: 2026-07-29
 lang: en
 ---
 A city that sits closer to Kandahar than to Karachi has spent two decades hosting the men who plan a war in another country. Quetta, the provincial capital of Balochistan, became internationally known not for anything that happened inside it but for a council of Afghan clerics who used it as a base. The leadership body that the world came to call the Quetta Shura gave this dusty highland town a permanent place in the vocabulary of South Asian conflict, and the name stuck long after the men it described had scattered. Yet that council was only the most visible layer of a far more tangled arrangement. Balochistan's largest urban center functions as a junction where several distinct armed projects, each aimed at a different adversary, draw on the same logistical environment: the same arms bazaars, the same smuggling corridors, the same web of safe houses and sympathetic facilitators. Anyone trying to understand why the place matters to the long campaign against India must separate those layers carefully and stay honest about which connections are direct and which are merely structural.

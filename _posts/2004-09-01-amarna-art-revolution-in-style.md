@@ -9,7 +9,7 @@ excerpt: "Amarna art broke a thousand-year Egyptian artistic canon with naturali
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2004-09-01
+last_updated: 2026-07-29
 lang: en
 ---
 For roughly seventeen centuries before Akhenaten took the throne, Egyptian artists worked inside a visual system so stable that a relief carved in the Fourth Dynasty and a relief carved in the Eighteenth could be read by the same eye without adjustment. Then, within perhaps five years, that system broke. Amarna art abandoned the serene, athletic, ageless royal body that Egypt had used since the pyramid age and replaced it with something that still unsettles viewers: a king with a long drooping face, a narrow neck, a soft belly, heavy thighs, and hips wider than his shoulders. It put the royal family in poses no earlier pharaoh had permitted, kissing children, slumping in chairs, weeping over a corpse. It filled palace floors with birds bursting out of papyrus without a register line to contain them.

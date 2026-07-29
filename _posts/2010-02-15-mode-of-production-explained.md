@@ -9,7 +9,7 @@ excerpt: "A mode of production is identified by how surplus labour is extracted,
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2010-02-15
+last_updated: 2026-07-29
 lang: en
 ---
 Most explanations of the mode of production give you a list. Primitive communal, ancient, feudal, capitalist, and sometimes an Asiatic entry and a socialist one, each with a paragraph describing what people did for a living. A reader finishes the list able to recite it and no better placed to answer the question that actually arrives in a seminar or an examination, which is what mode of production a given society was in and how you would know.

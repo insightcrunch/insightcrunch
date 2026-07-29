@@ -9,7 +9,7 @@ excerpt: "The Big Lebowski hangs a shaggy noir plot on digression and bowling, a
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2019-05-15
+last_updated: 2026-07-29
 lang: en
 ---
 The Big Lebowski opens with a tumbleweed, not a corpse. Most detective stories begin with a body, a theft, or a threat that starts a clock ticking. The Coen brothers begin their 1998 neo-noir comedy with a tumbleweed rolling out of the desert and into Los Angeles while a drawling narrator loses his own train of thought before he can tell you what the picture is about. That opening is the entire design in miniature. The film takes the convoluted machinery of the classic private-eye story and hollows it out, swapping forward momentum for digression, the urgent case for a soiled rug, and the driven investigator for a man who would rather be bowling.

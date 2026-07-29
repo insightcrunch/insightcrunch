@@ -9,7 +9,7 @@ excerpt: "Mapping the five infiltration corridors across the Line of Control, ho
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 73
 author: "william-knight"
-last_updated: 2018-09-24
+last_updated: 2026-07-29
 lang: en
 ---
 The Line of Control is 740 kilometers of fortified mountain frontier. Concertina wire runs along most of its length in a double row, twelve feet high in places, strung with motion sensors and watched by thermal cameras. Hundreds of thousands of soldiers hold the ridges and valleys on both sides, and the Indian Army has spent two decades and enormous sums turning a ceasefire line drawn in 1949 into one of the most heavily defended borders on earth. And yet, every spring, when the snow retreats from the high passes and the rivers swell with meltwater, men cross it carrying assault rifles. They cross because the terrain that makes the frontier impossible to live near also makes it impossible to seal completely, and because the men who organize the crossings have studied the gaps for thirty years.

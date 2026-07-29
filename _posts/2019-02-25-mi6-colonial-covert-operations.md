@@ -9,7 +9,7 @@ excerpt: "How Britain's secret colonial campaigns in Malaya, Kenya, and Aden for
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 71
 author: "ian-fletcher"
-last_updated: 2019-02-25
+last_updated: 2026-07-29
 lang: en
 ---
 In June 1948, three British rubber planters were shot dead at their estates near Sungai Siput, a small town in the Malayan state of Perak. Within forty-eight hours, the imperial administration in Kuala Lumpur declared a state of emergency. What followed was a twelve-year campaign that the official vocabulary refused to call a war, partly because the rubber and tin companies that dominated the peninsula could not have renewed their insurance policies against a conflict. The methods Britain refined to win that campaign, namely intelligence-led targeting, deep informant networks, the systematic separation of fighters from the civilian population, and the patient destruction of an insurgent leadership, became a template studied and copied by security services across the decolonizing world. One of those services belonged to the country Britain had ruled for ninety years and had relinquished just ten months before the Malayan guns opened fire.

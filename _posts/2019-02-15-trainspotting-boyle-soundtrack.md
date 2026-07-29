@@ -9,7 +9,7 @@ excerpt: "Trainspotting turns a borrowed pop soundtrack into a score that seduce
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2019-02-15
+last_updated: 2026-07-29
 lang: en
 ---
 Most films lean on a composer to tell the audience how to feel. Trainspotting refuses that arrangement and replaces it with a jukebox of borrowed records, and the substitution is the whole argument of Danny Boyle's 1996 adaptation of Irvine Welsh's novel. There is no orchestral cue swelling under Mark Renton's veins, no leitmotif assigned to his decline. Instead a snarl of Iggy Pop, a wash of Brian Eno, a hymn from Lou Reed, and a surge of Underworld do the scoring work, each track lifted from another decade and another purpose and pressed into service against images it was never written for. The result is a soundtrack that became as famous as the picture it accompanies, sold in vast numbers on its own, and rewired how a generation of filmmakers thought about putting pop music to film. This article reads that soundtrack as a score: not a list of cool songs, but a designed sequence of sonic decisions that seduces the viewer into the rush of heroin and then, with the same music, exposes the rush as hollow.

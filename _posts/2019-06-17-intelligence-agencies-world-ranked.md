@@ -9,7 +9,7 @@ excerpt: "Ranking the world's most powerful intelligence agencies across six dim
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2019-06-17
+last_updated: 2026-07-29
 lang: en
 ---
 Ranking the world's spy services is an exercise that almost everyone attempts and almost nobody can defend. Type the question into a search engine and a dozen confident lists appear, each crowning a different winner, each built on a different unstated assumption about what power even means in this trade. One list rewards budget. Another rewards body count. A third rewards mystique, which is the least measurable quantity in any field of human activity. The lists rarely agree because the thing they claim to measure does not sit still long enough to be measured.

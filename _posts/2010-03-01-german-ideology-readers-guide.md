@@ -9,7 +9,7 @@ excerpt: "The German Ideology is not a finished book but a bundle of abandoned m
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2010-03-01
+last_updated: 2026-07-29
 lang: en
 ---
 The single most useful thing to know about The German Ideology is that the chapter everyone quotes is not a chapter. What circulates under the heading "I. Feuerbach" is an editorial assembly, built in the twentieth century out of loose, separately paginated manuscript sheets that Marx and Engels never arranged into a finished text and never saw through a press. Seven distinct pieces of surviving material are involved. No two editors have ordered them the same way. The book you can buy with that chapter printed first, running continuously, with numbered sections and a confident argumentative sequence, is a scholarly construction presented as an authorial one.

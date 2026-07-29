@@ -9,7 +9,7 @@ excerpt: "Analyzing whether India and Pakistan will fight again, the deep fragil
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2018-06-18
+last_updated: 2026-07-29
 lang: en
 ---
 The question that every South Asian security analyst, every diplomatic desk officer, and every institutional investor with regional exposure is running through right now is the same: will the shooting start again? The May 10, 2025, ceasefire pulled India and Pakistan back from the edge of an open war that had already seen missile exchanges reaching Rawalpindi's military garrison, drone swarms over Lahore, and artillery salvos killing civilians on both sides of the Line of Control. It was the most dangerous military confrontation between two nuclear-armed states since Kargil in 1999, and it ended with a hotline call between Directors General of Military Operations and a social media post from an American president who had been working the phones through the night. The operational pause held. The structural conditions that produced the war did not change by a single variable.

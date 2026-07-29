@@ -9,7 +9,7 @@ excerpt: "Scream revived the dying slasher by letting its teens name horror's ow
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
 author: "william-knight"
-last_updated: 2019-01-01
+last_updated: 2026-07-29
 lang: en
 ---
 The clearest line of influence Scream set running is also the strangest: a horror film that talks about horror films, out loud, while the bodies fall. When Wes Craven's Scream opened in December 1996, the slasher was a corpse the industry had stopped bothering to bury. Five years later, thanks almost entirely to the door this film kicked open, the multiplex was crowded with knowing teenagers being stalked by knowing killers, and the conversation about what a scary movie was for had moved from film-studies seminars into the multiplex itself. Scream did not merely revive a genre. It changed the terms on which the genre could exist, by proving that a film could name its own rules, obey some, break others, and stay genuinely frightening through all of it.

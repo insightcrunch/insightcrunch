@@ -9,7 +9,7 @@ excerpt: "Scarface was condemned for its excess in 1983, then crowned a cultural
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2018-06-15
+last_updated: 2026-07-29
 lang: en
 ---
 Few American films have travelled a longer distance between their first verdict and their final one than Scarface. When Brian De Palma's gangster epic opened in December 1983, the cultural authorities that hand out reputations met it with suspicion bordering on disgust. It was called bloated, vulgar, and morally bankrupt, a 170-minute wallow in violence and cocaine that mistook excess for vision. Within a decade the same picture had become something its detractors could not have predicted: a permanent fixture of popular culture, a parable quoted on dorm-room posters and in rap verses, a film whose central line was printed on T-shirts and whose hero's name became shorthand for ruthless ambition. The gap between those two receptions is the real subject worth studying. It is not enough to say the movie was rediscovered. The more useful question is why the exact qualities that got it condemned were the ones that later got it crowned.

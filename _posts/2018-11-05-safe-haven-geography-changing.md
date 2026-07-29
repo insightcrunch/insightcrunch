@@ -9,7 +9,7 @@ excerpt: "How the shadow war is shrinking the geographic safety net for wanted t
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2018-11-05
+last_updated: 2026-07-29
 lang: en
 ---
 In 2021, a man wanted by India for mass murder could choose almost any address in Pakistan and sleep soundly at it. He could rent a house in a Karachi suburb, take a flat in central Lahore, settle near the garrison in Rawalpindi, or run a seminary in a Khyber Pakhtunkhwa border town. Geography itself was a form of protection. The distance from the Indian border, the density of a Pakistani city, the proximity of an army cantonment, the lawlessness of a tribal district: each of these was a defensive asset, and a wanted man could combine them to build a personal fortress out of nothing more than location. The safe haven was not a single place. It was a property of the whole map.

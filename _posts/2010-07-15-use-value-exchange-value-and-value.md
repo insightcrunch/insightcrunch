@@ -9,7 +9,7 @@ excerpt: "Use value and exchange value are not a pair. Value is the missing thir
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2010-07-15
+last_updated: 2026-07-29
 lang: en
 ---
 Open almost any revision card, lecture slide, or sociology textbook on this topic and you will find a two-way opposition: use value is what a thing is good for, exchange value is what it fetches on the market, and the tension between them is the story of capitalism. That presentation is not a simplification of Marx's distinction. It removes the term the other two are defined against, and once it is removed the first chapter of Capital becomes unreadable, because that chapter is largely about the relation between value and its form of appearance, which is exchange value.

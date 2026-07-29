@@ -9,7 +9,7 @@ excerpt: "Fargo turns a botched kidnapping in snowbound Minnesota into a crime f
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2019-04-15
+last_updated: 2026-07-29
 lang: en
 ---
 By the middle of the 1990s the American crime picture had hardened into a set of reliable poses. The genre knew how to be cool, how to be brutal, and how to be slick, and it had learned to wear violence as a kind of glamour. What it had mostly forgotten was how to be decent. Fargo arrived in March 1996 and quietly rebuilt the crime film around an idea the form had stopped trusting: that an ordinary good person, doing an ordinary job with patience and care, could be the most compelling figure on the screen, more interesting than any killer. Joel and Ethan Coen took a sordid little kidnapping scheme, set it in the frozen flatness of Minnesota, surrounded it with a regional politeness so exact it sounds invented, and anchored the whole bloody mess in the plain goodness of a pregnant police chief. The result reshaped what a crime story could sound like.

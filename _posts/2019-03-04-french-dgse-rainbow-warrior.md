@@ -9,7 +9,7 @@ excerpt: "French DGSE operations from the 1985 Rainbow Warrior bombing to Africa
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2019-03-04
+last_updated: 2026-07-29
 lang: en
 ---
 A little after midnight in Auckland Harbour, two explosions ripped through the hull of a converted trawler tied up at Marsden Wharf. The vessel was the flagship of an environmental movement, and it sank within minutes. A photographer who went back below deck to retrieve his cameras never came back up. He drowned in a flooded cabin while the boat settled into the mud of a foreign port. The men who placed the limpet mines were professional combat divers employed by a Western democracy, and they had crossed an ocean to do it. This was not a terrorist cell. It was a government.

@@ -9,7 +9,7 @@ excerpt: "The value form is the section of Capital that defeats most readers. He
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2010-08-15
+last_updated: 2026-07-29
 lang: en
 ---
 Two kinds of reader arrive at Marx on money and almost nobody serves both. The first wants to get through the third section of the first chapter of Capital, which is where more first readings of the book end than at any other point, and which Marx himself rewrote once and supplemented with a separate exposition because his earliest readers could not follow it. The second wants to know whether a theory built around a money commodity has anything to say now that no currency is convertible into gold, that most money is bank credit, and that some of it is a database entry with no issuer at all. The specialist literature answers the first question and ignores the second. The blogs answer the second and get the first wrong.

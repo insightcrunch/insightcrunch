@@ -9,7 +9,7 @@ excerpt: "Malcolm X gives Spike Lee's epic biography its spine through Denzel Wa
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2018-11-01
+last_updated: 2026-07-29
 lang: en
 ---
 A biographical epic asks one thing of its lead that almost no other kind of role demands: that a single body hold together a life so changeable it barely seems to belong to one person. Malcolm X, Spike Lee's 1992 drama, hands Denzel Washington a man who is a street hustler at twenty, a prison convert at twenty-five, a national minister at thirty, and a pilgrim revising every belief he ever preached at thirty-eight, and the picture asks him to make all four feel like the same human being seen at different hours of the same long day. The danger in any cradle-to-grave portrait is that the actor turns into a tour guide, pointing at each phase from outside it, so the audience watches a museum of haircuts and accents rather than a person becoming himself. Washington solves that problem by treating change as something that accumulates rather than something that gets announced, and the result is the spine that holds a contested history upright for more than three hours.

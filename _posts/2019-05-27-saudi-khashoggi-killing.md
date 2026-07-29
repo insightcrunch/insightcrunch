@@ -9,7 +9,7 @@ excerpt: "How Saudi Arabia's botched killing of Jamal Khashoggi inside a consula
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2019-05-27
+last_updated: 2026-07-29
 lang: en
 ---
 On the afternoon of October 2, 2018, a 59-year-old Saudi journalist walked into his country's consulate in Istanbul to collect a document he needed in order to marry. He was a familiar figure to the staff inside, a man who had once advised Saudi princes and traveled with the kingdom's ambassadors. He never walked out. Within roughly an hour he had been suffocated, his body dismembered with a bone saw carried in the diplomatic luggage of a team that had flown in that morning, his remains removed in a manner that has never been publicly established. The killing of Jamal Khashoggi was not the first time a state had reached across borders to silence a critic, and it would not be the last. What made it different was that almost everything about it went wrong, and the wreckage of that failure reshaped how the world judges every extraterritorial operation that has come since.

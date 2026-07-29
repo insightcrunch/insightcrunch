@@ -9,7 +9,7 @@ excerpt: "How Russia's Novichok attack on Sergei Skripal in Salisbury exposed th
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 71
 author: "william-knight"
-last_updated: 2019-02-11
+last_updated: 2026-07-29
 lang: en
 ---
 On a mild Sunday afternoon in March 2018, a retired Russian intelligence officer and his daughter collapsed on a wooden bench beside a shopping centre in a quiet English cathedral city, foaming at the mouth, their pupils reduced to pinpoints, their bodies seizing in front of weekend shoppers who first assumed the pair were drunk. The chemical that put them there was not a bullet, not a knife, not a staged accident on a motorway. It was a fourth-generation military nerve agent, a substance designed in Soviet laboratories for the express purpose of killing soldiers on a battlefield, smeared in gel form onto the front door handle of a suburban home. Within ten days the British government had named the Russian state as the author of the attack. Within a month, twenty-eight other countries had joined a coordinated expulsion of Russian diplomats that remains the largest in the history of the Cold War or anything that followed it. The operation killed one person, an innocent woman who had nothing to do with espionage, and it failed to kill the man it was sent to kill.

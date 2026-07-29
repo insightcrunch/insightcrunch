@@ -9,7 +9,7 @@ excerpt: "Atenism raised the Aten as Egypt's sole visible god, yet all worship r
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2004-05-01
+last_updated: 2026-07-29
 lang: en
 ---
 For about two decades in the fourteenth century BCE, one Egyptian king tried to do something no ruler of a great ancient state had attempted before: to shut down the crowded world of Egyptian gods and leave a single power standing above it. That experiment is called Atenism, the worship of the Aten, the visible disk of the sun, raised by the pharaoh Akhenaten to a height no other deity was allowed to share. The reason Atenism still starts arguments is that it looks, at a glance, like the first monotheism in recorded history, a lone god centuries before the god of Israel took his settled form. Look closer and the picture complicates fast. The Aten had exactly one prophet on earth, and that prophet was the king. Belief in the disk was real, but the road to it ran through Akhenaten and his family, and when the family fell, the road closed. Understanding Atenism means holding both of those facts at once: a genuine reach toward one god, and a cult so bound to one man that it could not outlive him.

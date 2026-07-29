@@ -9,7 +9,7 @@ excerpt: "Dances with Wolves adapts Michael Blake's novel into a subtitled, symp
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2018-12-01
+last_updated: 2026-07-29
 lang: en
 ---
 The central decision in adapting Dances with Wolves was not which scenes to keep. It was whose ear the camera would belong to. Kevin Costner's 1990 directorial debut takes a frontier story that had every reason to play as another cavalry picture and points the whole apparatus the other way, so that the Lakota who would once have been the genre's faceless threat become the people whose language fills the soundtrack and whose judgment the white outsider is anxious to earn. That single reorientation, carried out in the act of turning Michael Blake's novel into a three-hour epic, is the reason the movie still gets argued about thirty years on, and it is the proper subject of an adaptation study rather than a plot recap.

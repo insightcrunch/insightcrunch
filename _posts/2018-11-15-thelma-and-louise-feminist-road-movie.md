@@ -9,7 +9,7 @@ excerpt: "Thelma & Louise hands the road movie to two women and finds freedom wi
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2018-11-15
+last_updated: 2026-07-29
 lang: en
 ---
 By the summer of 1991 American popular culture had spent a decade quietly walking back the gains of the women's movement, and most of Hollywood was content to let it. Then two friends climbed into a green 1966 Thunderbird, shot a man in a parking lot, and refused to come home, and the argument that followed told the country more about itself than the picture ever set out to. Thelma & Louise, written by Callie Khouri and directed by Ridley Scott, did not invent a debate; it forced one that had been waiting under the surface into the open, and it did so by taking the most American of escape stories, the road movie, and handing the wheel to women who had never been allowed to drive it.
