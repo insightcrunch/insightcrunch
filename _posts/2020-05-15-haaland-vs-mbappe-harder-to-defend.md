@@ -9,7 +9,7 @@ excerpt: "Haaland or Mbappe, who is harder to defend? A four dimension verdict o
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2020-05-15
+last_updated: 2026-08-01
 lang: en
 ---
 Ask whether Haaland or Mbappe is harder to defend and almost every answer you get will be an answer to a different question, which is who is the better footballer. That question has its own evidence and its own audience, and this article is not about it. The question here is narrower, colder, and far more useful to anyone who has to prepare a team: if you had to build and deliver a defensive plan against one of these two forwards, using the players actually available to you, which plan would be harder to execute and which would be more likely to break? That version has an answer. It simply does not have the same answer for every side, and the reason it does not is the most interesting thing about the comparison.

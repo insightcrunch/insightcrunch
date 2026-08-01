@@ -9,7 +9,7 @@ excerpt: "How the Pulwama CRPF convoy bombing led to the Balakot airstrike, Indi
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 72
 author: "robert-quinn"
-last_updated: 2019-09-30
+last_updated: 2026-08-01
 lang: en
 ---
 Twelve days separated a parked car on a Kashmir highway from twelve fighter jets crossing into Pakistani airspace, and that compression of time is the entire story of the year India stopped treating the Line of Control as the edge of what it would do. On February 14, 2019, a vehicle packed with explosives tore through a Central Reserve Police Force convoy near Lethpora in Pulwama district, killing forty personnel in the deadliest single strike against Indian security forces in three decades of the Kashmir insurgency. On February 26, the Indian Air Force answered with a bombing run near Balakot in Khyber Pakhtunkhwa, the first occasion since the 1971 war that Indian combat aircraft had struck inside undisputed Pakistani territory. What happened across those twelve days, and in the aerial duel over the Rajouri sector that followed on February 27, did far more than punish a terror group. It dismantled a barrier that had held for forty-eight years, and it set a precedent of barrier-crossing that would shape every confrontation between the two states for the next six years and beyond.

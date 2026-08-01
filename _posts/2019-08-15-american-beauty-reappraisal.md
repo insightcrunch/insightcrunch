@@ -9,7 +9,7 @@ excerpt: "American Beauty swept the 1999 Oscars and then watched its standing cr
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2019-08-15
+last_updated: 2026-08-01
 lang: en
 ---
 Few films have traveled as far from where they began as American Beauty. On a March night in 2000, Sam Mendes stood on the stage of the Shrine Auditorium and accepted the Academy Award for Best Picture, the climax of a sweep that handed his first feature five Oscars and crowned it the defining American picture of its year. Two decades later the same picture turns up on lists of the most overrated movies ever made, its central fantasy treated as an embarrassment and its leading man a figure most viewers would rather not watch at all. The distance between those two positions is the subject of this article. A reputation can rise to the summit of an industry's esteem and then fall almost out of view, and the story of how that happened to one celebrated movie tells us something durable about how reputations work and how provisional our certainties about art turn out to be.

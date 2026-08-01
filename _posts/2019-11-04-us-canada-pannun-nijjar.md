@@ -9,7 +9,7 @@ excerpt: "How the US Pannun assassination plot and the Canadian Nijjar killing a
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2019-11-04
+last_updated: 2026-08-01
 lang: en
 ---
 For three years the shadow war had a comfortable arithmetic. Wanted men died on Pakistani soil, Islamabad blamed unknown gunmen, and the world recorded the pattern without acting on it. Then, within a single span of months, two governments that New Delhi counts among its most valued partners stopped recording and started accusing. One did it from the floor of its national parliament. The other did it through a federal indictment that named an Indian intelligence officer in open court. The campaign that had operated for years without measurable consequence suddenly had consequences, and they were being tallied not in Rawalpindi or Karachi but in Washington and Ottawa.

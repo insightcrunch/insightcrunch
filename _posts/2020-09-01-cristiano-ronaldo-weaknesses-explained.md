@@ -9,7 +9,7 @@ excerpt: "Cristiano Ronaldo's weaknesses, diagnosed as real tactical limitations
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2020-09-01
+last_updated: 2026-08-01
 lang: en
 ---
 Cristiano Ronaldo's weaknesses are the most argued-about subject in football, and almost none of that argument is conducted with any care. A serious diagnosis begins by defining what a weakness even means for a forward of his class. It is never a character verdict and never a claim that he was not one of the finest attackers the sport has produced. A weakness here is a limitation relative to elite peers, present only under named conditions, that obliged the teams built around him to arrange themselves in a particular way. Stated like that, the question stops being a loyalty test and becomes a coaching problem, which is the only version of the question worth an hour of anyone's time.

@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Marco van Basten: why elite finishing technique 
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2021-02-15
+last_updated: 2026-08-01
 lang: en
 ---
 A back four is an argument about probability. It positions itself to deny the angles from which goals are likely and to concede the angles from which they are not, and every instruction inside it, the depth of the line, the distance between the centre-backs, the moment the full-back tucks, follows from that single judgment about which finishes are available and which are not. The defending is not the argument. The defending is what happens after the argument has been settled. This is why the duel against Marco van Basten is the most conceptually awkward one in this cluster, and why it has to be approached differently from every other article here: the problem he set was not that he beat good defending, it was that he made good defending an answer to the wrong question.

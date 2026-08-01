@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Gabriel Batistuta: the shooting corridor, the cl
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2021-02-01
+last_updated: 2026-08-01
 lang: en
 ---
 A defensive block is a probability machine. It is built to push the ball into the areas where goals are least likely to come from, hold its shape while the attacking side runs out of ideas, and force the eventual entry to arrive from a bad angle with bodies already in front of it. That machine has one input it cannot control, and Gabriel Batistuta is the clearest illustration in the history of the game of what happens when that input arrives. He did not need the entry. He did not need the cutback, the near-post cross, the through ball, or the second phase. He needed a yard of space at twenty metres and a ball sitting up in front of his right foot, and the entire apparatus behind that yard became irrelevant.

@@ -9,7 +9,7 @@ excerpt: "The complete twenty-six-year arc from the IC-814 hijacking through 26/
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 78
 author: "amit-chatterjee"
-last_updated: 2019-12-23
+last_updated: 2026-08-01
 lang: en
 ---
 On the final day of December 1999, an Indian foreign minister walked across an airport tarmac in Kandahar, Afghanistan, escorting three freed prisoners toward a Taliban reception. On the morning of the twenty-second of April 2025, gunmen walked through a high meadow above Pahalgam asking tourists their religion before they fired into the crowd. Between those two scenes lie twenty-six years, and the central argument here is that they do not belong to twenty-six years of disconnected episodes but to one continuous story with a beginning, a long and brutal middle, and an ending that has not yet arrived. The IC-814 hijacking and the Pahalgam massacre are the opening and the near-closing chapters of a single narrative, and every assault, every act of restraint, every airstrike, and every quiet daylight shooting in between is a link in one unbroken chain.

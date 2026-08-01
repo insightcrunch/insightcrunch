@@ -9,7 +9,7 @@ excerpt: "Hereditary anchors the elevated horror movement, turning grief into dr
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2021-04-15
+last_updated: 2026-08-01
 lang: en
 ---
 A label arrived in the culture before the movement it named could agree on what it was. By the time *Hereditary* reached theaters in 2018, critics had been reaching for a phrase to describe a run of art-house frighteners that treated terror as a vehicle for grief rather than a delivery system for jolts. The phrase they settled on, elevated horror, was contested the moment it appeared, resented by directors who heard condescension in it and doubted by scholars who found nothing new in the idea that a scary picture could be serious. Yet the films kept coming, and one of them became the reference point against which the whole argument would be conducted. Ari Aster's debut feature gave the debate its anchor: a family tragedy that curdles into a full-bore nightmare, built with the patience of an art film and the willingness to wound of the genre at its most extreme.

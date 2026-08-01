@@ -9,7 +9,7 @@ excerpt: "Seven Samurai built the assemble-a-team story that Hollywood, the West
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2021-12-01
+last_updated: 2026-08-01
 lang: en
 ---
 Trace almost any modern story in which a leader walks the land gathering specialists one by one for a mission that looks unwinnable, and the trail runs back to a single source. Seven Samurai, released in 1954 and directed by Akira Kurosawa, did not invent every part of that story, but it assembled the parts into a shape so durable that filmmakers across the world have been borrowing it ever since. A poor farming village, raided each harvest by bandits, decides to fight back. Lacking weapons and skill, the farmers go to the city to hire warriors with nothing to offer but food and a roof. What follows is the recruitment, the training, the waiting, and the rain-soaked battle that gave global cinema its master template for the assembled team.

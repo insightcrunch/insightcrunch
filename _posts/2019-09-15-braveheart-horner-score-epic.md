@@ -9,6 +9,7 @@ author: "insight-crunch-team"
 tags: ["Cinema Classics", "Braveheart", "James Horner", "Film Score", "Mel Gibson", "Historical Epic", "Film Music"]
 reading_time: 59
 lang: en
+last_updated: 2026-08-01
 ---
 When the camera lifts over the Highlands in the opening minutes of Braveheart, the image of mist and mountain would be merely handsome on its own. What makes it ache is the sound. A solo pipe carries a melody that feels older than the film, a tune that seems to rise out of the land rather than land on top of it. James Horner's score is doing the heavy lifting before a single word of dialogue arrives, and it never stops. By the time William Wallace screams for freedom on the scaffold, the music has already taught the audience how to feel about every battle, every betrayal, and every loss along the way. This is a film whose emotion arrives on a wave of sound, and the wave is the work of a composer at the height of his craft.
 

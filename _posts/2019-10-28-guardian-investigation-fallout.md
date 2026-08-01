@@ -9,7 +9,7 @@ excerpt: "How The Guardian's April 2024 investigation into India's alleged role 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 71
 author: "marcus-hall"
-last_updated: 2019-10-28
+last_updated: 2026-08-01
 lang: en
 ---
 On the morning of April 4, 2024, a British newspaper did something that no Pakistani official, no Western intelligence service, and no investigative outlet had managed in three years of accumulating dead bodies across Lahore, Karachi, Rawalpindi, and Sialkot. The Guardian printed a sentence with India in the subject position and an order to kill in the predicate. The headline read that the Indian government had ordered assassinations on Pakistani soil, and beneath it sat the work of three reporters, a sheaf of documents the paper said it had reviewed, and a roster of anonymous intelligence officers from both countries who agreed, for once, on something. What had been a pattern recognized only by analysts and a grievance voiced only by Islamabad became, in a single news cycle, a claim carried on front pages from Delhi to Washington. The covert campaign had a witness with a masthead.

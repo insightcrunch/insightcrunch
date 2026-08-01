@@ -9,7 +9,7 @@ excerpt: "Mad Max: Fury Road built its feature-length chase from real vehicles a
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2020-12-15
+last_updated: 2026-08-01
 lang: en
 ---
 ## A Chase Built to Be Real: The Production Problem of Mad Max: Fury Road

@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Ronaldo Nazario: why engaging and jockeying both
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2020-11-15
+last_updated: 2026-08-01
 lang: en
 ---
 A centre-back preparing to face Ronaldo Nazario had exactly two instincts available to him, and both of them lost. He could engage, close the distance, and try to make the duel physical before the forward built any speed. He could drop, jockey, keep three yards of cushion, and trust that delay would bring help. Every academy in the world teaches those two options as the whole of one-on-one defending, and stopping Ronaldo Nazario is the clearest case in the sport of a forward who punished both of them, on the same pitch, within the same passage of play, using the same technique. The reason is not that he was faster than the defender or more skilful than the defender. It is that his feet operated at a speed where the two options stopped being separate choices.

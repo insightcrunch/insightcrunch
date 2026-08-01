@@ -9,7 +9,7 @@ excerpt: "How covert operations create unintended consequences, from the CIA's A
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 71
 author: "robert-quinn"
-last_updated: 2019-07-08
+last_updated: 2026-08-01
 lang: en
 ---
 The Central Intelligence Agency armed the Afghan mujahideen to bleed the Soviet Union, and within a decade the men it had trained, financed, and equipped had become the founding generation of al-Qaeda. Indian intelligence trained and armed the Tamil Tigers to pressure Sri Lanka, and within eight years a Tiger suicide bomber had killed a former Indian prime minister on a campaign stage in Tamil Nadu. These are not obscure footnotes. They are the two most studied cases of what intelligence professionals call blowback, the technical name for the unintended, delayed, and often catastrophic consequences that covert operations inflict on the states that launch them. The pattern they describe is not a possibility that haunts covert action from the outside. It is a structural property built into the activity itself.

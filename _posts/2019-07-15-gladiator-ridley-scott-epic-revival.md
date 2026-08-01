@@ -9,7 +9,7 @@ excerpt: "Gladiator revived the historical epic through digital crowds and a lea
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2019-07-15
+last_updated: 2026-08-01
 lang: en
 ---
 By the late 1990s the historical epic was treated in Hollywood as a relic. The big Roman pictures, the sandal-and-sword spectacles that once anchored studio prestige, had been dead for the better part of three decades, abandoned after a run of bloated, money-losing productions soured the form for a generation of executives. Then a betrayed Roman general was enslaved, thrown into the arena, and made to fight his way back toward the emperor who destroyed his family. Gladiator arrived in the spring of 2000, and within a single release it did something the industry had assumed impossible: it brought the dead genre back, proved it could earn, and handed Hollywood a working template for the historical film that the next decade would copy without quite equaling.

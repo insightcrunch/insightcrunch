@@ -9,7 +9,7 @@ excerpt: "Into the Spider-Verse broke computer animation's photoreal mold with a
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2020-10-01
+last_updated: 2026-08-01
 lang: en
 ---
 For roughly two decades, mainstream computer animation chased one goal above all others: a smoother, rounder, more believable surface, hair that moved like real hair and skin that caught light like real skin. The pursuit produced extraordinary craft, but it also produced a default, a single gleaming house style that every major studio drifted toward until their films were hard to tell apart at the level of texture. Then Spider-Man: Into the Spider-Verse (2018) walked into that race and turned the other way. It made a wide-release studio feature that looked like a printed comic book set in motion, with visible halftone dots, off-register color, hand-drawn lines laid over computer models, and sound effects spelled out across the screen. The look was so unexpected, and so clearly deliberate, that it won the Academy Award for Best Animated Feature and sent an entire field chasing style instead of realism. This is the story of how one film broke the mold, why the break mattered, and what it set running across animation worldwide.

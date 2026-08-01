@@ -9,7 +9,7 @@ excerpt: "How India declared a permanent end to engagement with Pakistan until t
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2019-12-09
+last_updated: 2026-08-01
 lang: en
 ---
 In the weeks after Operation Sindoor, India did something it had never done in the long history of its conflict with Pakistan. It did not lay out terms for resuming the relationship. New Delhi simply stopped engaging Islamabad across every channel that had ever connected the two states, and it declined to say what Pakistan could do to make that engagement restart. Prime Minister Narendra Modi distilled the new posture into a phrase in his address to the nation: terror and talks cannot run together, terror and trade cannot run together, and blood and water cannot flow together. The no-talks policy was born not as a negotiating gambit but as a doctrine, and the doctrine carried a claim that no previous government in New Delhi had made out loud, that the bilateral relationship with Pakistan was no longer paused. It was closed.

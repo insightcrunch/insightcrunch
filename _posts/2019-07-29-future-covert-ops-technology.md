@@ -9,7 +9,7 @@ excerpt: "How AI, autonomous drones, cyber warfare, and biometric tracking will 
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 72
 author: "ryan-walsh"
-last_updated: 2019-07-29
+last_updated: 2026-08-01
 lang: en
 ---
 A handgun, two riders, and a congested street outside a mosque in Rawalpindi or Karachi: that combination has done the work of an entire counter-terrorism doctrine for the better part of a decade, and it has done that work because it is cheap, deniable, and human. The question that now sits in front of every intelligence service watching this campaign is whether the next decade keeps the human in the picture at all.

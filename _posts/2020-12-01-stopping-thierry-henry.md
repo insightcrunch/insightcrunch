@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Thierry Henry, and why his diagonal run beat bac
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2020-12-01
+last_updated: 2026-08-01
 lang: en
 ---
 Defenders stopped Thierry Henry on the occasions they stopped him at all by solving a communication problem, not by winning a duel. That is the finding this article is built on, and it survives every attempt to talk it away. Go back through the goals he scored from a wide left starting position and count how many of them contain a moment where one defender is beaten cleanly in a one against one. The number is smaller than the reputation suggests. Count instead the goals that arrive while two defenders are momentarily looking at each other, or at the ball, or at a space neither of them has been told to own. That number is very large indeed, and it accounts for the majority of the damage.

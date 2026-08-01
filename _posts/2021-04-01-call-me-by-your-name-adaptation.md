@@ -9,7 +9,7 @@ excerpt: "How Call Me by Your Name adapts Andre Aciman's inward novel into a sen
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2021-04-01
+last_updated: 2026-08-01
 lang: en
 ---
 ## The Adaptation Decision at the Center of the Film

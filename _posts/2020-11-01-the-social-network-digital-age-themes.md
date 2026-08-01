@@ -9,7 +9,7 @@ excerpt: "The Social Network argues the digital age's connection machine was bui
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2020-11-01
+last_updated: 2026-08-01
 lang: en
 ---
 A young man sits across a table from the woman he is about to lose, talking faster than she can follow, and by the end of the conversation he has insulted her family, her school, and her motives, all while believing he is the smartest person in the room. The Social Network opens on this breakup because David Fincher and screenwriter Aaron Sorkin understood something about their subject that no founding myth of the digital age had yet dared to say out loud. The film argues that the world's great connection machine was built by someone who could not connect, and that the loneliness at its center is not a flaw in the story but the entire point of it. This is a movie about ambition, betrayal, and the strange hunger that drives a person to wire half the planet together while sitting alone, refreshing a page, waiting for one message that never comes.

@@ -9,7 +9,7 @@ excerpt: "The defenders who stopped Messi best used delay rather than the tackle
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2020-07-15
+last_updated: 2026-08-01
 lang: en
 ---
 Search for the defenders who stopped Messi and you will be handed a list of names, a set of highlight clips, and a story that is almost entirely wrong. The story says that a handful of hard, clever, quick centre-backs and full-backs had his number, that the duel was settled by individual courage, and that the rest of world football simply lacked the personnel. Every part of that reading collapses the moment you watch the matches with a notebook rather than a memory. The performances people remember were produced by plans. The defenders inside those plans executed a specific technical job, and some of them executed it far better than others, but the job only existed because eleven players and a coaching staff had agreed in advance what they were willing to lose.

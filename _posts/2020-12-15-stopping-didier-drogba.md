@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Didier Drogba: the delayed engagement, the body 
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2020-12-15
+last_updated: 2026-08-01
 lang: en
 ---
 Ask a centre-back what he was taught about a striker who receives with his back to goal and you will get the same sentence everywhere in the world: do not let him turn. It is the most confidently repeated instruction in defending, it is shouted from every touchline and every stand, and against Didier Drogba it was the fastest way to lose the sequence. Defenders who stopped Didier Drogba did the opposite of what their coaching had installed. They stayed off him, they refused the early contact, they angled their bodies to send him backwards rather than to hold him still, and they made the duel a two-man job in which the first defender's only task was to buy the second defender time to arrive. That is not a softer version of the duel. It is a harder one, because it asks a defender to override an instinct at exactly the moment his instinct is loudest.

@@ -9,7 +9,7 @@ excerpt: "How to stop Cristiano Ronaldo starts with denying the delivery, not th
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2020-08-15
+last_updated: 2026-08-01
 lang: en
 ---
 The plan for how to stop Cristiano Ronaldo begins with a decision that feels wrong to almost every defender who first hears it: you do not try to beat him at the two things he does best. You do not out-jump him, and you do not out-sprint his late arrival into the box. Both are contests he wins often enough that building a defensive scheme around winning them is a scheme built on a coin toss. The coherent answer sits one pass earlier, at the moment the ball is about to be delivered toward him, because a forward who scores from crosses, cutbacks and second balls is only as dangerous as the service that reaches those zones. Cut the quality of that service and both of his finishing systems lose their fuel at once.

@@ -9,7 +9,7 @@ excerpt: "How the Uri attack of 2016 and India's eleven day surgical strike resp
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2019-09-23
+last_updated: 2026-08-01
 lang: en
 ---
 Eleven days separated two events that, taken together, ended an era. On the morning of 18 September 2016, four heavily armed men crossed the Line of Control and butchered nineteen Indian soldiers as they slept in canvas tents at a brigade headquarters in Uri. On the night of 28 to 29 September 2016, teams of Indian special forces walked the other way across the same disputed frontier, struck a string of staging camps on the Pakistani side, and walked home before dawn. Between the massacre and the raid lay less than a fortnight. That compression of time was not an accident of logistics. It was the message. For two decades New Delhi had answered cross-border terrorism with diplomatic protests, dossiers handed to foreign envoys, and the long patient hope that international pressure would eventually force a change in behaviour across the frontier. The response to Uri announced that the waiting was over, and that a new rule had quietly replaced the old one: strike the Indian army, and the counter-blow will arrive before the diplomatic cables have finished printing.

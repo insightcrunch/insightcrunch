@@ -9,7 +9,7 @@ excerpt: "The Departed reworked a Hong Kong thriller into a rotting Boston crime
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2020-06-15
+last_updated: 2026-08-01
 lang: en
 ---
 By the middle of the 2000s the American crime film carried a weight of its own history. The mob saga had been canonized, the undercover thriller had hardened into formula, and the cops-and-criminals picture had been told so many times that audiences could anticipate the beats. Into that settled landscape arrived The Departed, Martin Scorsese's 2006 study of two men living inside each other's worlds, a police mole planted in the Irish mob and a mob mole planted in the police, hunting each other through a Boston of loyalty and rot. The film did not invent the genre it joined. It took a tight Hong Kong thriller, transplanted it into a richly specific American milieu, and proved that a remake could be its own landmark, an act that revitalized the crime picture and finally won its long-overlooked director his first Oscar for direction.

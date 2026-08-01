@@ -9,7 +9,7 @@ excerpt: "Erling Haaland's weaknesses set against a strict conditional test: the
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2020-02-01
+last_updated: 2026-08-01
 lang: en
 ---
 Almost everything written about Erling Haaland's weaknesses fails a test that takes five seconds to apply. Name the condition under which the limitation appears, and name the thing a viewer could watch for to confirm it appeared. Most criticism of this forward cannot do either. It asserts a ceiling without a circumstance, which is how a scouting note degrades into a talking point, and it is why a coach preparing for a side built around him usually arrives with a list of grievances rather than a plan.

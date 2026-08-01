@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Andriy Shevchenko: the blind-side scanning rhyth
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2021-01-15
+last_updated: 2026-08-01
 lang: en
 ---
 When a forward scores from a run across the back of a defense, the replay goes to the same place every time. It shows the pass, it shows the defender nearest the ball, and the commentary settles on whoever was closest to the scene. That defender is almost never the one who lost the goal. Defenders who stopped Andriy Shevchenko understood something the replay does not show, which is that the run he made started ten yards away from the ball, behind a defender who was looking in the wrong direction for entirely reasonable reasons, and that the moment it became unstoppable was a moment in which nothing visible happened at all.

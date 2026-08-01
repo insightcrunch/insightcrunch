@@ -9,7 +9,7 @@ excerpt: "How the 2001 Parliament attack pushed India and Pakistan to the nuclea
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 72
 author: "jason-mckenzie"
-last_updated: 2019-08-26
+last_updated: 2026-08-01
 lang: en
 ---
 At 11:40 in the morning on December 13, 2001, a white Ambassador car carrying forged Home Ministry and Parliament stickers rolled through Gate Number Eleven of the Indian Parliament complex in New Delhi, and within the next forty-five minutes the building that houses the world's largest democracy became a battlefield. Five gunmen carrying assault rifles, grenade launchers, and explosive vests had come to do something no terror cell had attempted before. They had come to storm the seat of the Indian state itself, at an hour when more than a hundred lawmakers were still inside the chambers and corridors. By the time the last attacker fell, nine defenders and staff were dead and the subcontinent had begun a slide toward a confrontation that would keep two nuclear-armed armies facing each other across a shared border for the next ten months. This was not a random act of violence. It was the first major detonation of a chain that began two years earlier on a windswept airfield in Kandahar, and it would push New Delhi and Islamabad closer to atomic war than they had ever stood.

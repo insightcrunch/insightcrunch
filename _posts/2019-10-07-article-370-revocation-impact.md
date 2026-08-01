@@ -9,7 +9,7 @@ excerpt: "How India's revocation of Article 370 in August 2019 hardened Pakistan
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 71
 author: "james-carter"
-last_updated: 2019-10-07
+last_updated: 2026-08-01
 lang: en
 ---
 On the morning of August 5, 2019, India's Home Minister rose in the upper house of Parliament and read out a resolution that took less than a minute to deliver. By the time he sat down, a constitutional arrangement that had governed the relationship between New Delhi and the Himalayan territory of Jammu and Kashmir for nearly seven decades had been dissolved. There was no military operation that day, no missile crossing a border, no soldiers moving under cover of darkness. There was only a parliamentary procedure, a presidential order, and the deployment of tens of thousands of additional troops into a valley that had been sealed off from the outside world hours earlier. Yet the decision reverberated far beyond the chamber where it was announced, and its aftershocks would shape every subsequent crisis in the South Asian security landscape.

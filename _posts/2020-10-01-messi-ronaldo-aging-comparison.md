@@ -9,7 +9,7 @@ excerpt: "The Messi Ronaldo aging comparison as a coaching problem: why one drop
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2020-10-01
+last_updated: 2026-08-01
 lang: en
 ---
 Every coach who has ever kept a good player past his athletic peak faces the same problem, and the Messi Ronaldo aging comparison is the clearest worked example football has of it. A forward whose value was built on producing dozens of maximal actions per match can no longer produce dozens of maximal actions per match. His technique has not gone. His reading of the game has improved. What has changed is the number of times per match he can accelerate, decelerate, change direction, and then do it again ninety seconds later. That is a real constraint, it is measurable, and it does not go away with motivation.

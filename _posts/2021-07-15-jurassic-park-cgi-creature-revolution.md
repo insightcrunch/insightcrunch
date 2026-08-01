@@ -9,7 +9,7 @@ excerpt: "Jurassic Park fused animatronics with computer animation to make dinos
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2021-07-15
+last_updated: 2026-08-01
 lang: en
 ---
 ## The Production Problem That Made the Film

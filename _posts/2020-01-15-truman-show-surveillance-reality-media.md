@@ -9,7 +9,7 @@ excerpt: "The Truman Show turned one unknowing man into a non-stop broadcast, fo
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2020-01-15
+last_updated: 2026-08-01
 lang: en
 ---
 A man wakes in a tidy coastal town, greets his neighbors with a cheerful line, drives to an office job, and goes home to a wife who smiles a little too brightly. Nothing about his day looks strange. Everything about it is staged. The streets are a set, the sky is a painted dome, the neighbors are paid performers, and several thousand hidden cameras follow his every blink for an audience of billions who have watched him since before he could speak. He does not know any of this. He believes he is simply alive. He is Truman Burbank, and this is The Truman Show.

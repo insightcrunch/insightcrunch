@@ -9,7 +9,7 @@ excerpt: "How the April 2026 motorcycle shooting of Lashkar-e-Taiba co-founder A
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2019-12-02
+last_updated: 2026-08-01
 lang: en
 ---
 On a Thursday afternoon in April 2026, two men on a motorcycle pulled alongside a white sedan moving down Peco Road in Lahore and opened fire through the windows. Inside the car sat Amir Hamza, a co-founder of Lashkar-e-Taiba, the ideological partner and deputy of Hafiz Saeed, and a man the United States Treasury had designated a global terrorist in August 2012. Hamza took rounds to the body and was rushed to a hospital where doctors listed him in critical condition. He did not die. The campaign that India is widely believed to have waged against Pakistan-sheltered terrorism since 2022 had nonetheless just reached the most senior figure it had ever touched, and it had reached him on a public road in the one city that Lashkar's founding generation had always treated as untouchable. The wounding of Hamza is the climax of a chain that opened with mid-level couriers and false-identity hijackers and has now arrived, after four years and dozens of eliminations, at the men who built the organization itself.

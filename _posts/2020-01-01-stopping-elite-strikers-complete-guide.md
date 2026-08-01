@@ -9,7 +9,7 @@ excerpt: "Stopping elite strikers starts by classifying the threat, not the name
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 77
 author: "rachel-foster"
-last_updated: 2020-01-01
+last_updated: 2026-08-01
 lang: en
 ---
 Stopping elite strikers is a classification problem before it is a defending problem, and almost every plan that fails on a Saturday failed on the Thursday it was written, when somebody in the meeting said the words "keep him quiet" and everybody nodded. That instruction contains no line height, no defender profile, no screening reference, no goalkeeper start position, and no decision about what the team is willing to give up. It is a wish. The forward on the other side has spent a decade building a specific way of hurting a back four, and he does not get worse because eleven people agreed in advance to concentrate.

@@ -9,7 +9,7 @@ excerpt: "Moonlight won Best Picture amid the Oscars envelope mix-up, but its qu
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2021-05-15
+last_updated: 2026-08-01
 lang: en
 ---
 For roughly two and a half minutes on the night of February 26, 2017, the wrong film held the Academy Award for Best Picture. La La Land had been announced, its producers were mid-speech, and the cameras were drifting across a jubilant cast when a small, hushed coming-of-age drama about a Black gay boy growing up in Miami quietly turned out to be the actual winner. Moonlight, made for about 1.5 million dollars and shot in twenty-five days, had just become the first film with an all-Black cast and the first with a gay protagonist to take the industry's highest prize, and it did so inside the most chaotic ending in the ceremony's history. The accident was instantly famous. The achievement was quieter and, in the end, more lasting.

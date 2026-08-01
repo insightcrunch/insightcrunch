@@ -9,7 +9,7 @@ excerpt: "Poacher or complete forward: which is harder to defend, which to build
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2021-03-15
+last_updated: 2026-08-01
 lang: en
 ---
 The argument about the poacher and the complete forward has been running for as long as people have written about football, and it keeps running because almost nobody involved defines the terms first. One person means a forward who does not track back. Another means a forward who scores tap-ins. A third means a specialist whose value is concentrated in the penalty area. A fourth is using the word as an insult. Four people using one word for four things will argue indefinitely and settle nothing, which is exactly what has happened.

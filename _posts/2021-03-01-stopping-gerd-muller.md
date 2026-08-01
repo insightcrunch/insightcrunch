@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Gerd Muller: why the six-yard box removes every 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2021-03-01
+last_updated: 2026-08-01
 lang: en
 ---
 Almost every defensive skill a footballer is taught assumes space. Jockeying assumes there is somewhere to retreat to. Delaying assumes the attacker needs time he does not yet have. Showing a player onto his weaker side assumes he has to travel before he can shoot. Cover and balance assume a second defender can arrive from a position that is not already occupied. Inside the six-yard box, all four assumptions are false at once, and that is the entire reason a forward like Gerd Muller was the hardest opponent many excellent back fours ever faced despite being ordinary or worse by every measure that happens outside the penalty area.

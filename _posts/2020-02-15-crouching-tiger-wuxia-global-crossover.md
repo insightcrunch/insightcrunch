@@ -9,7 +9,7 @@ excerpt: "Crouching Tiger, Hidden Dragon carried centuries-old wuxia to a global
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2020-02-15
+last_updated: 2026-08-01
 lang: en
 ---
 For a few months at the turn of the millennium, a Mandarin-language film about a stolen sword and two pairs of thwarted lovers did something no subtitled feature had managed before. It filled multiplexes in suburban America, drew patrons who had never knowingly watched an Asian film, and ended its run as the highest-grossing foreign-language release in United States history. Crouching Tiger, Hidden Dragon was not the first wuxia film, not the first martial-arts spectacle, and not even the first time fighters flew across rooftops on wires. What Ang Lee's 2000 film accomplished was a crossover: it took a Chinese popular tradition older than cinema itself and made it legible, thrilling, and prestigious to a global mainstream that had no vocabulary for the genre it was watching.

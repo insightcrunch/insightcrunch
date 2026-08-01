@@ -9,7 +9,7 @@ excerpt: "How to stop Bukayo Saka: a counter-plan that defends the wide pair rat
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2021-06-15
+last_updated: 2026-08-01
 lang: en
 ---
 The plan for how to stop Bukayo Saka can be stated in one sentence, and the sentence is deliberately strange: do not defend him. Defend the pair. What accepts giving up is the harmless outcome, meaning the crossed ball delivered from a position and an angle you have chosen in advance, thrown into a box you have organized to win. What it refuses to give up is the moment two attackers occupy one defender and the defender improvises, because every goal this profile produces begins in that moment and almost none of them begin in a one-versus-one.

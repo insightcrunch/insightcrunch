@@ -9,7 +9,7 @@ excerpt: "The Dark Knight turned a comic-book premise into a serious crime epic,
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2021-01-15
+last_updated: 2026-08-01
 lang: en
 ---
 ## How The Dark Knight Turned a Comic-Book Premise Into a Crime Epic

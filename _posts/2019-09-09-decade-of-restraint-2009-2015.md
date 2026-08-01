@@ -9,7 +9,7 @@ excerpt: "Why India chose six years of strategic restraint after the 26/11 attac
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2019-09-09
+last_updated: 2026-08-01
 lang: en
 ---
 When the last gunman fell at Nariman House on the morning of 29 November 2008, a grieving and furious country expected its government to do something dramatic. Ten attackers had held the financial capital hostage for three days. The planning trail ran through Karachi. The handlers had spoken to the killers by satellite phone from Pakistani soil. Public opinion, talk television, and a good part of the strategic commentariat wanted a military answer, and they wanted it within weeks. What followed instead was nothing visible. No airstrike. No commando raid across the Line of Control. No naval blockade. For the better part of the next six years, New Delhi absorbed the rage, declined the obvious options, and waited. To a public hungry for retribution, the silence read as cowardice. It was something far more deliberate, and understanding it is the key to understanding everything that came afterward.

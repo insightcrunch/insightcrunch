@@ -9,7 +9,7 @@ excerpt: "Vinicius Junior's weaknesses examined under a strict conditional test:
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2021-05-01
+last_updated: 2026-08-01
 lang: en
 ---
 Nearly every claim made about Vinicius Junior's weaknesses fails a test that takes about five seconds to apply. Name the condition under which the limitation appears, and name the thing a viewer could watch for to confirm it appeared. Most of the criticism cannot manage either. It asserts a ceiling without a circumstance, which is how a scouting observation degrades into a talking point, and it is why a coach preparing to face this player usually arrives with a list of grievances rather than something he can use on Saturday.

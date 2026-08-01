@@ -9,7 +9,7 @@ excerpt: "Kylian Mbappe's weaknesses explained: space dependence, congested rece
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2020-03-01
+last_updated: 2026-08-01
 lang: en
 ---
 Any honest account of Kylian Mbappe's weaknesses has to begin by admitting what the phrase means and what it does not. It does not mean that a forward of this level has holes an ordinary side can walk into. It means that his output is unusually conditional, that the conditions which reduce it are identifiable and repeatable, and that a team which knows exactly what those conditions are can decide, in advance, whether it is capable of holding them. That is the useful version of the question. The useless version is the one that circulates constantly, in which a limitation is discovered, announced as a character flaw, and then never priced.

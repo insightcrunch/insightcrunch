@@ -9,7 +9,7 @@ excerpt: "The greatest dribblers and how to contain them: the five containment c
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 77
 author: "diana-patel"
-last_updated: 2021-09-01
+last_updated: 2026-08-01
 lang: en
 ---
 Every serious attempt to contain the greatest dribblers in football history has run into the same uncomfortable finding, and almost nothing written about them acknowledges it: knowing what the man is about to do helps far less than coaches assume. Defenders facing the most famous one-versus-one threats of any era have very often known exactly which move was coming, from which side, with which foot, and have been beaten by it anyway, in front of eighty thousand people who also knew.

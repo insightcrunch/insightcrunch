@@ -9,7 +9,7 @@ excerpt: "Lionel Messi's weaknesses explained: three real limitations, one usage
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2020-07-01
+last_updated: 2026-08-01
 lang: en
 ---
 Ask a room of coaches to name Lionel Messi's weaknesses and you will get two answers, both of them useless. The first is that he had none, which is worship rather than analysis. The second is a list of insults borrowed from social media. Neither helps a coach who has to prepare a side against a player of that profile, and neither survives contact with the evidence. The honest version is narrower and far more interesting: there were three real limitations in his profile, each one conditional, each one with an observable mechanism, and each one absorbed by the eleven around him rather than by him.

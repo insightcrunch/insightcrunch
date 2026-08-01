@@ -9,7 +9,7 @@ excerpt: "Lost in Translation puts mood before plot, using a dream-pop soundtrac
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2020-04-15
+last_updated: 2026-08-01
 lang: en
 ---
 Most films tell you what to feel by telling you what happens. Lost in Translation, Sofia Coppola's 2003 study of two strangers adrift in a Tokyo hotel, does something rarer and harder. It tells you what to feel by how the air sounds. A hazy wash of guitar noise, a held silence, a pop song bent into a confession at a karaoke microphone: these are the events. The plot, such as it is, could be written on a napkin. A fading American movie star and a young woman, both sleepless and stranded, meet, talk, wander the city, and part. What carries the picture is not incident but atmosphere, and that atmosphere is built almost entirely out of music and quiet.

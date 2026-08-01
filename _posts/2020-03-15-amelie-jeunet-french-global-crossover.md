@@ -9,7 +9,7 @@ excerpt: "Amelie won global audiences with whimsy and a golden vision of Paris, 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2020-03-15
+last_updated: 2026-08-01
 lang: en
 ---
 Few movies have been loved as widely and doubted as sharply as the one Jean-Pierre Jeunet made in 2001 about a shy waitress in Montmartre. Amelie won the world with whimsy and a golden vision of the French capital, and it drew a backlash at home for sanitizing the real city, which means it arrived as two reputations bolted to a single picture. The story that follows treats that double standing as the actual subject. Reception is not a verdict handed down once and filed away; it is a process, a negotiation between what an audience wants and what a critic suspects, and Amelie is one of the clearest cases in modern cinema of how delight and distrust can travel together for decades without either one winning.

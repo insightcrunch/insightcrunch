@@ -9,7 +9,7 @@ excerpt: "How to stop Mohamed Salah: why knowing exactly what he will do is wort
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2021-05-15
+last_updated: 2026-08-01
 lang: en
 ---
 Everyone knows what Mohamed Salah is going to do. That is the most repeated observation in football and it is completely true, and it is also the reason so many sides arrive with a scouting report and leave with a defeat. Knowing the action is worth nothing on its own. The plan that works is a three-player geometry that closes the predicted route without opening the alternative, and the thing it gives away, deliberately and repeatedly, is the wide crossing position outside the full-back.

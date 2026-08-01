@@ -9,7 +9,7 @@ excerpt: "How Operation Sindoor merged India's covert shadow war with its conven
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 71
 author: "david-thornton"
-last_updated: 2019-11-18
+last_updated: 2026-08-01
 lang: en
 ---
 For most of the past two decades, India fought terrorism with two separate hands that rarely knew what the other was doing. One hand was uniformed, declared, and slow. It belonged to the conventional military, and it moved only when a crisis grew loud enough to demand a visible answer, as it did after Uri in 2016 and after Pulwama in 2019. The other hand was silent, unattributed, and patient. It belonged to the intelligence apparatus that ran the elimination programme inside Pakistan, the campaign of motorcycle-borne gunmen and mosque-gate killings that observers eventually learned to call the shadow war. These two hands operated on different clocks, answered to different chains of command, and pursued different definitions of success. Then came the night of 6 May 2025, and for the first time both hands closed at once. Operation Sindoor was the moment the two campaigns stopped being parallel and became a single instrument.

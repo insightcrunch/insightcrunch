@@ -9,7 +9,7 @@ excerpt: "Brokeback Mountain made the closet the tragedy: how Ang Lee's restrain
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2020-08-15
+last_updated: 2026-08-01
 lang: en
 ---
 Two ranch hands meet on a Wyoming mountainside in the summer of 1963, hired to watch sheep, and over the next twenty years they build a life out of the few days a year they can steal together. That is the whole architecture of Brokeback Mountain, Ang Lee's 2005 adaptation of Annie Proulx's short story, and the film's lasting power comes from a refusal that most love stories cannot afford. It withholds the future its lovers want. The closet is not a backdrop to the romance. The closet is the tragedy, the thing the film is about, the pressure that bends every glance and silence and unfinished sentence between Ennis Del Mar and Jack Twist into the shape of a grief they can never name aloud.

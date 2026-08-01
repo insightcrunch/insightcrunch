@@ -9,6 +9,7 @@ image: /assets/images/blog/blog-01.webp
 author: "chloe-martin"
 reading_time: 60
 lang: en
+last_updated: 2026-08-01
 ---
 In the summer of 2001, while the major American studios were busy proving that the future of feature cartoons belonged to the computer, a sixty-year-old artist in suburban Tokyo released a movie drawn almost entirely by hand. It told the story of a sulky ten-year-old girl who wanders into a bathhouse for gods. Within two years that picture had won the highest honor the international film world reserves for the animated form, taken the top prize at one of Europe's most prestigious festivals, and become the single most successful release in the history of Japanese cinema. More than that, it cracked open a door. Audiences in the West who had never knowingly watched a Japanese cartoon walked out of theaters wanting more, and a whole industry that had lived at the cultural margins suddenly found itself standing in the center of the room.
 

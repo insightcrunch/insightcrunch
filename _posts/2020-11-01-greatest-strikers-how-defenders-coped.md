@@ -9,7 +9,7 @@ excerpt: "How defenders coped with the greatest strikers, era by era: the four r
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 77
 author: "chloe-martin"
-last_updated: 2020-11-01
+last_updated: 2026-08-01
 lang: en
 ---
 ## The Argument That Never Gets Settled

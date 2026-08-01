@@ -9,7 +9,7 @@ excerpt: "How to stop Rafael Leao starts with the jockeying distance every coach
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2021-07-15
+last_updated: 2026-08-01
 lang: en
 ---
 The plan for how to stop Rafael Leao begins with a number, and the number most defenders have been given is wrong for this opponent. Stand two metres off a carrier and jockey: that is the rule taught on coaching courses, printed in defending manuals, and drilled into full-backs from the age of ten. It is a sound rule derived from an average, and the average it is derived from does not describe the player your full-back is about to face. Against a carrier whose stride covers substantially more ground per contact than the average, two metres is not a safe distance. It is an invitation.

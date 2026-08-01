@@ -9,7 +9,7 @@ excerpt: "La La Land revives the movie musical by letting a returning melody, ch
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2021-06-15
+last_updated: 2026-08-01
 lang: en
 ---
 ## La La Land and the Music That Does the Thinking

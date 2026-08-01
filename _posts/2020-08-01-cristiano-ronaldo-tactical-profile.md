@@ -9,7 +9,7 @@ excerpt: "Cristiano Ronaldo's tactical profile explained: how a wide dribbler be
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 77
 author: "rachel-foster"
-last_updated: 2020-08-01
+last_updated: 2026-08-01
 lang: en
 ---
 The single question a coach eventually asks about Cristiano Ronaldo is not whether he was good, which is settled, but which of him you are actually planning against, because there were three different players inside one career and each set a different defensive problem. A Cristiano Ronaldo tactical profile that treats him as one fixed threat will get a team beaten, since the wide dribbler who terrorised full-backs, the wide-starting forward who scored central numbers, and the penalty-area finisher who lived inside eighteen yards demanded completely different answers. Understanding him means understanding a transformation, and the transformation is the most useful thing about him for anyone who coaches, plays, or studies the game.

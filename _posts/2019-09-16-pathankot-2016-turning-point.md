@@ -9,7 +9,7 @@ excerpt: "How the Pathankot airbase attack of January 2016 ended India's last re
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 71
 author: "james-carter"
-last_updated: 2019-09-16
+last_updated: 2026-08-01
 lang: en
 ---
 On the last morning of 2015, Narendra Modi stepped off an aircraft in Lahore and walked into the home of a man he had every political reason to keep at arm's length. Eight days later, six armed men carrying assault rifles and grenades climbed over a perimeter wall at an Indian Air Force station in Punjab and turned the warmth of that visit into ash. The distance between those two events, measured in hours rather than years, is the reason the Pathankot raid occupies a place in this story that its casualty count alone would never have earned it. Far deadlier assaults had come before, and far deadlier ones would follow, yet none of them severed a relationship as cleanly as this one did. The airbase breach did not merely kill seven members of India's security forces. It killed the proposition, sustained by New Delhi across three prime ministers and two decades, that a terrorist atrocity could be answered with an outstretched hand rather than a clenched fist.

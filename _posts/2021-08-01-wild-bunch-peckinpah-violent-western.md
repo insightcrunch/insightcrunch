@@ -9,7 +9,7 @@ excerpt: "The Wild Bunch defined Sam Peckinpah as an auteur through slow-motion 
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2021-08-01
+last_updated: 2026-08-01
 lang: en
 ---
 ## The directorial problem Sam Peckinpah set himself

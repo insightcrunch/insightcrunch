@@ -9,7 +9,7 @@ excerpt: "The Lord of the Rings reset effects craft by fusing motion capture, cr
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2019-12-01
+last_updated: 2026-08-01
 lang: en
 ---
 When Peter Jackson set out to film The Lord of the Rings, J.R.R. Tolkien's three-volume epic about a quest to destroy a ring of power, he faced a problem that no director before him had solved at this scale. The story demanded a fully realized world, populated by beings of different sizes, defended and assaulted by armies numbering in the hundreds of thousands, and held together by a central figure that no camera could ever photograph because that figure did not exist as a physical thing. The trilogy that resulted, released across three years from 2001 to 2003, did not just adapt a beloved book. It reset what film craft could attempt, and it did so by braiding together three distinct technical breakthroughs into a single seamless illusion.

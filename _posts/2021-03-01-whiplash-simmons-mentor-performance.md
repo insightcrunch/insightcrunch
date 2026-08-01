@@ -9,7 +9,7 @@ excerpt: "Whiplash turns J.K. Simmons into a mentor whose cruelty is magnetic, p
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2021-03-01
+last_updated: 2026-08-01
 lang: en
 ---
 A great screen villain usually wants something the audience can name: money, power, revenge, a throne. Terence Fletcher wants greatness, but not his own, and that single displacement is the performance problem that Whiplash hands J.K. Simmons and the reason the part is harder than it looks. Fletcher is a conductor at a top jazz conservatory who believes that the world produces one Charlie Parker only because somebody once made the young Parker bleed for it, and his entire teaching method is an attempt to manufacture that wound on purpose. To play him as a sadist would be easy and would kill the film. The challenge Simmons solves is to make a man whose cruelty is total, premeditated, and frequently criminal, and to make him magnetic anyway, so that the audience leans toward him at the exact moment it should recoil. The whole argument of Damien Chazelle's film depends on that pull. If Fletcher is merely a monster, the movie is a warning. Because Simmons makes him a monster you want to please, the movie becomes a question with no safe answer.

@@ -9,7 +9,7 @@ excerpt: "North by Northwest codified the modern chase thriller: the wrong-man h
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2021-08-15
+last_updated: 2026-08-01
 lang: en
 ---
 Before a Madison Avenue advertising man named Roger Thornhill was bundled into a car at gunpoint in North by Northwest and accused of being a spy who did not exist, the screen chase thriller was a scattered, unsettled thing. It had pieces. It had the falsely accused man from stage melodrama, the exotic intrigue of pulp serials, the train compartments and border crossings of wartime espionage pictures, the cool menace of the foreign agent. What it did not have was a single, gleaming model that fused all of those pieces into one self-aware machine, set it in motion across a continent, and made the whole exhilarating contraption look effortless. North by Northwest, released in 1959 and directed by Alfred Hitchcock from a script by Ernest Lehman, supplied that model. It took the loose inheritance of the chase picture and codified it into a template so durable that the spy franchises and action blockbusters of the decades that followed have been drawing on it ever since, sometimes knowingly, often without realizing where the blueprint came from.

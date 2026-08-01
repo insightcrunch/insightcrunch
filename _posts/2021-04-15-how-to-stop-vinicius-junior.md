@@ -9,7 +9,7 @@ excerpt: "How to stop Vinicius Junior starts three passes early: break the manuf
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2021-04-15
+last_updated: 2026-08-01
 lang: en
 ---
 The plan to stop Vinicius Junior fits in one sentence: refuse to over-shift, put the second defender in the space before the ball gets there, and hand the far side of the pitch to the opponent without argument. That last clause is not a caveat, it is the payment, and a coach who is unwilling to make it does not have this plan, he has a wish.

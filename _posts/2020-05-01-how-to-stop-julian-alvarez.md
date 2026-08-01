@@ -9,7 +9,7 @@ excerpt: "How to stop Julian Alvarez starts with ownership: name a defender for 
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2020-05-01
+last_updated: 2026-08-01
 lang: en
 ---
 The plan is a communication plan, not a marking plan, and the price of it is that you will spend the whole ninety minutes talking instead of tackling. That is the compressed answer to how to stop Julian Alvarez, and it is the answer almost nobody prepares for, because the instinct in every opposition meeting is to name a defender, give him the forward, and move on to set pieces. Name a defender against this profile and you have already lost the argument, since the forward in question spends most of the contest in the places where no single defender is standing. He is not beaten in a duel. He is beaten in a conversation that happens before the duel exists.

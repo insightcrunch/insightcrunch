@@ -9,7 +9,7 @@ excerpt: "Easy Rider captured the 1960s counterculture and detonated New Hollywo
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2021-11-15
+last_updated: 2026-08-01
 lang: en
 ---
 Two men ride east on motorcycles, financed by a cocaine sale and chasing a freedom the country keeps refusing them. That is the whole engine of Easy Rider, the 1969 road film Dennis Hopper directed and co-wrote, that Peter Fonda produced and co-wrote, and that the two of them rode straight into the center of American film history. The picture cost almost nothing, looked like nobody in charge had supervised it, and went on to gross sums that rearranged how the studios thought about who their audience was. It arrived as the clearest possible signal that a movement had taken hold of the culture and was now reaching the screen on its own terms, and it left the industry that released it permanently changed.

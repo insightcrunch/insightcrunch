@@ -9,7 +9,7 @@ excerpt: "Night of the Living Dead and Dawn of the Dead show George Romero inven
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2021-07-01
+last_updated: 2026-08-01
 lang: en
 ---
 Two films, ten years apart, made by the same man in and around the same Pennsylvania hills, between them built a monster that had never quite existed before and then turned that monster into a weapon aimed at the audience watching it. The first arrived in 1968 in grainy black and white, a farmhouse besieged through one long night by the shambling, flesh-eating dead. The second arrived in 1978 in lurid color, the siege relocated to a suburban shopping mall where the reanimated corpses drift past store windows in a parody of the shoppers who used to walk those same floors. George Romero made both. The question this pairing raises, and the one cinephiles still argue, is which of the two did more to define the genre that followed: the lean, terrifying invention or the sprawling, satirical expansion.

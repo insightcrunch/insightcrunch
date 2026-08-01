@@ -9,7 +9,7 @@ excerpt: "Interstellar scores the cosmos as a cathedral, using Hans Zimmer's chu
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2020-11-15
+last_updated: 2026-08-01
 lang: en
 ---
 A pipe organ is the last instrument a viewer expects to hear when a spacecraft slips its mooring and drifts toward a wormhole. It belongs to stone naves and choir stalls, to weddings and funerals, to a register of human feeling that predates the cinema by centuries. Yet the sound that carries Interstellar across the gulf between a dying Earth and the far side of a black hole is exactly that: a towering church organ, recorded in a medieval London church, breathing through pipes that look, in Hans Zimmer's description, like the afterburners of a rocket. Christopher Nolan's 2014 epic gambles its emotional weight on a single, strange decision, to score the cosmos not with the brass fanfares the genre had trained audiences to expect but with the most sacred and most mechanical instrument in Western music, and to let long stretches of vacuum fall almost silent around it.

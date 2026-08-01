@@ -9,7 +9,7 @@ excerpt: "How to stop Kylian Mbappe with a space-management defensive plan: line
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2020-02-15
+last_updated: 2026-08-01
 lang: en
 ---
 Any plan for how to stop Kylian Mbappe that starts by naming a defender has already failed. The instruction usually given, which is to put the quickest full-back available on him and tell that full-back not to dive in, is not wrong so much as radically insufficient, because it answers a structural question with a personnel answer. The duel is decided before the duel begins. By the time the ball arrives at his feet, three things have already been settled: how much grass sits between him and your last line, whether his shoulders are open to your goal or closed toward the touchline, and whether a second defender can reach the contest before he reaches full speed. A plan that manages those three variables works with an ordinary full-back. A plan that ignores them fails with a fast one.

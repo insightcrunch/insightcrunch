@@ -9,6 +9,7 @@ image: /assets/images/blog/blog-01.webp
 author: "rachel-foster"
 reading_time: 60
 lang: en
+last_updated: 2026-08-01
 ---
 When Joel and Ethan Coen adapted Cormac McCarthy's 2005 novel, they built a chase thriller and then refused to end it the way a chase thriller is supposed to end. A man finds a satchel of drug money in the desert, takes it, and runs. A killer hunts him. An aging sheriff trails them both. Every rule of the form promises a final confrontation, a reckoning where pursuer and pursued meet and the hero settles the account. The picture withholds that meeting. It kills its apparent hero off screen, lets its villain limp away unpunished, and closes on an old lawman describing a dream to his wife at a kitchen table. Audiences walked out angry, certain a great build had been wasted on a non-ending. They were wrong about the ending and right about the build. The withholding is the argument.
 

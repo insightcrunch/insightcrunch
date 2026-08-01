@@ -9,7 +9,7 @@ excerpt: "The hidden history of women in intelligence operations, from the WWII 
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 73
 author: "james-carter"
-last_updated: 2019-07-15
+last_updated: 2026-08-01
 lang: en
 ---
 On a cold night in the Haute-Loire region of occupied France, a radio operator code-named Diane crouched over a wireless set, tapping out a message to London while a German direction-finding van swept the surrounding hills for the source of her signal. The Gestapo had a description of her and a name for her that they used in their internal cables. They called her the limping lady, and they considered her the single most dangerous Allied agent operating on French soil. Diane was Virginia Hall, an American from Baltimore who had lost part of her left leg in a hunting accident years before the war and who walked on a wooden prosthesis she had nicknamed Cuthbert. The men hunting her assumed, as men in their position almost always did, that the most important enemy in their sector would be a man. That assumption protected her for years, and it is the same assumption that has shaped how the history of espionage has been written ever since.

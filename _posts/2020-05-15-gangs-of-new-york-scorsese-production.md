@@ -9,6 +9,7 @@ author: "chloe-martin"
 excerpt: "Gangs of New York was a thirty-year dream Martin Scorsese finished only after a bruising studio battle over length, final cut, and a vast city built in Rome."
 reading_time: 60
 lang: en
+last_updated: 2026-08-01
 ---
 Some films arrive whole, as if the world simply handed them over. Gangs of New York arrived the hard way, dragged into being across three decades of waiting, then forced through a post-production fight so bitter that the version audiences finally saw in late 2002 still carries the marks of the struggle. Martin Scorsese had wanted to make this picture since the early 1970s. He read the book that inspired it, optioned the rights, watched the financing collapse, watched it revive, built an entire nineteenth-century city on a foreign backlot, and then spent months locked in conflict with a producer over how long the movie should run and who controlled the final cut. The film that resulted is sprawling, uneven, magnificent in stretches, compromised in others, and impossible to separate from the conditions that produced it.
 

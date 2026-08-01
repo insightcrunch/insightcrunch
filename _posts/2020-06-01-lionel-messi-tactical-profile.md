@@ -9,7 +9,7 @@ excerpt: "Lionel Messi tactical profile: the scanning habit, the open receiving 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 77
 author: "rachel-foster"
-last_updated: 2020-06-01
+last_updated: 2026-08-01
 lang: en
 ---
 Three days before a fixture, a coach opens a laptop and meets a problem with no clean answer: somewhere in the opposition front line is a small left-footed forward with no fixed position, and somebody in the coach's own team has to be made responsible for him. Any Lionel Messi tactical profile that is worth reading has to begin there, at the assignment problem, because that is the shape the question takes for anyone who has to prepare rather than applaud. "Watch him" is not an instruction. The real question is which of your players is obliged to react when he moves, and what your structure looks like in the half-second after that player reacts.

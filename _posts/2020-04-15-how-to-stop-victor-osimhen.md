@@ -9,7 +9,7 @@ excerpt: "How to stop Victor Osimhen: a counter blueprint using lateral compress
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2020-04-15
+last_updated: 2026-08-01
 lang: en
 ---
 The plan is lateral compression plus one named defender whose only job is to arrive at the flight of the ball already moving forward, and the price of that plan is that the opponent gets to switch the ball across your block, unopposed, for ninety minutes. That is the compressed answer to how to stop Victor Osimhen, and everything below is the argument for why the two instinctive alternatives fail. Drop the block deep and you invite the crosses that feed his best quality. Hold a high line and you hand him the running start he wants. Neither is wrong because it is timid or because it is brave. Each is wrong because it solves one half of a two-part problem and pays for the solution by worsening the other half.

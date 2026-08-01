@@ -9,7 +9,7 @@ excerpt: "How to stop Robert Lewandowski: the penalty-area plan, with starting p
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2020-04-01
+last_updated: 2026-08-01
 lang: en
 ---
 Any plan for how to stop Robert Lewandowski has to begin with a concession that most defensive briefings quietly refuse to make: you are not going to keep him out of your penalty area, and a plan built on that hope collapses within twenty minutes of kick-off. He will get in there. He will get in there against a low block, against a high line, against a back three, and against a side that has spent the week rehearsing nothing else. The question a coach actually has to answer is much narrower and much more useful, which is what happens in the one second after he arrives.

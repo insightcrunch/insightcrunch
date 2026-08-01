@@ -9,7 +9,7 @@ excerpt: "Black Panther turned representation into a global event, pairing Afrof
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2020-10-15
+last_updated: 2026-08-01
 lang: en
 ---
 ## When a Tentpole Carried an Argument

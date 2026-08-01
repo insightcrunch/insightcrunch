@@ -9,7 +9,7 @@ excerpt: "How to stop Erling Haaland with a phase-by-phase defensive plan: line 
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2020-01-15
+last_updated: 2026-08-01
 lang: en
 ---
 The honest answer to how to stop Erling Haaland is not a marking instruction. It is a decision about where your last line stands, who applies pressure to the man about to pass, and which two chances you are willing to give away in order to remove the one that beats you. Almost every version of this question answered on television or in a match preview reduces to "get tight on him," and against this particular forward that instruction is not merely weak. It is the mechanism by which he scores.

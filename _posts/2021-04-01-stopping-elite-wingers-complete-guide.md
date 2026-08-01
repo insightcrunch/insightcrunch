@@ -9,7 +9,7 @@ excerpt: "Stopping elite wingers starts before the duel. Four winger types, the 
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 76
 author: "chloe-martin"
-last_updated: 2021-04-01
+last_updated: 2026-08-01
 lang: en
 ---
 Watch a side concede down the flank and count how many people blame the full-back. Almost all of them. Then rewind the sequence eight seconds and count how many defensive decisions were made before the full-back was ever involved. Usually four or five, and at least two of them were wrong. Stopping elite wingers is not a duel problem that occasionally has a structural cause. It is a structural problem that occasionally ends in a duel, and the reason so many coaching plans fail against strong wide attackers is that they begin at the moment the ball arrives, which is the last moment at which anything useful can still be done.

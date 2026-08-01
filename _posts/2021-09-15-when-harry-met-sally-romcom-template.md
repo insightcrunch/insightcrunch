@@ -9,7 +9,7 @@ excerpt: "When Harry Met Sally built a friendship into love across the years, se
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2021-09-15
+last_updated: 2026-08-01
 lang: en
 ---
 The structural gamble at the center of When Harry Met Sally is easy to miss because the film wears it so lightly. Rob Reiner's 1989 romantic comedy, written by Nora Ephron, decides that the love story will not be a courtship at all. It will be a friendship, stretched across more than a decade, that keeps refusing to become the thing the audience can see it already is. Most love stories on screen run on obstacles between two people who want each other from the first reel. This screenplay runs on the opposite engine: two people who insist, for years and with great wit, that they do not want each other, while the architecture of the script quietly assembles every reason they belong together. The structure is the argument. By the time Harry sprints across Manhattan on New Year's Eve, the film has spent its whole length earning a conclusion the characters spent that same length denying.

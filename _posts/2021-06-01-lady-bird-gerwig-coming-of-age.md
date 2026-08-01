@@ -9,7 +9,7 @@ excerpt: "Lady Bird, Greta Gerwig's solo debut, argues that attention is love an
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2021-06-01
+last_updated: 2026-08-01
 lang: en
 ---
 There is a moment near the end of Lady Bird when a nun returns an admissions essay and tells the girl who wrote it that she clearly loves Sacramento. The girl is surprised. She has spent the whole film straining to leave the city, treating it as a cage, a flatness, a place that happened to her. She protests that she only pays attention to it. The nun answers with a question that turns out to be the hinge of the entire picture: is not paying attention the same thing as loving something? Greta Gerwig built her solo directorial debut around that small exchange, and everything the film argues about home, about mothers and daughters, and about the ache to leave and belong flows from it. The claim is quiet and it is enormous. Attention is love. To look closely at a person or a place is already to be bound to it, whether you admit the binding or not.

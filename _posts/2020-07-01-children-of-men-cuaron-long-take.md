@@ -9,7 +9,7 @@ excerpt: "How Children of Men uses elaborately built long takes to drop you insi
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2020-07-01
+last_updated: 2026-08-01
 lang: en
 ---
 A burning car rolls onto a country road, a mob closes in, and the camera that has been riding inside the vehicle never blinks. For more than four minutes it stays trapped in the cabin with five terrified people, swinging from face to face, lurching toward the windshield, refusing the cut that any other action film would reach for. That single sequence tells you what Children of Men is, and what Alfonso Cuaron set out to do with it: not to stage a chase but to lock you inside one, so that the collapse of a civilization is something you survive rather than something you watch. The craft is the argument. The unbroken take is the dystopia.

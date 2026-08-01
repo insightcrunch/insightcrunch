@@ -9,7 +9,7 @@ excerpt: "Boyhood filmed one cast across twelve real years so aging itself becom
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2021-02-15
+last_updated: 2026-08-01
 lang: en
 ---
 Most films build their structure out of incident. A screenwriter chooses turning points, raises stakes, plants reversals, and arranges the whole machine so that one event causes the next until a climax pays off the setup. Boyhood throws that machine away and replaces it with something no script could simply describe: the passage of real time, captured by filming the same cast across twelve actual years. Richard Linklater began shooting in 2002 with a six-year-old named Ellar Coltrane and returned to the same actors year after year until 2013, letting a child and his parents age on screen for the audience to watch directly. The structural move is the whole point. Instead of using makeup, recasting, or a time-jump title card, the film let the calendar do the work, and that decision turned aging itself into the narrative engine.

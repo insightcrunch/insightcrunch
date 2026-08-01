@@ -9,7 +9,7 @@ excerpt: "How India's decision to release Masood Azhar during the IC-814 hijacki
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 71
 author: "amit-chatterjee"
-last_updated: 2019-08-12
+last_updated: 2026-08-01
 lang: en
 ---
 On the last day of December 1999, an Indian Airlines aircraft sat on a runway in Kandahar surrounded by Taliban gunmen, and a serving Indian foreign minister stepped off a separate plane carrying three men his government had spent the previous decade trying to keep in prison. The exchange that followed lasted only minutes. Jaswant Singh handed over Maulana Masood Azhar, Ahmed Omar Saeed Sheikh, and Mushtaq Ahmed Zargar, and in return roughly one hundred and sixty hostages walked free. That transaction has been described many ways since: a humiliation, a rescue, a surrender, a tragedy with no clean alternative. What it has rarely been called is what it actually was. It was the conception date of a war that would not begin its first operation for another twenty-two years, and would still be killing men on Pakistani streets a quarter of a century later.

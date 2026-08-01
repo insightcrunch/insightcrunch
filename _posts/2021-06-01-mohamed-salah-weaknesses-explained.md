@@ -9,7 +9,7 @@ excerpt: "Mohamed Salah's weaknesses explained without derision: the foot geomet
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2021-06-01
+last_updated: 2026-08-01
 lang: en
 ---
 Ask a room of coaches to name Mohamed Salah's weaknesses and you will get four answers, three of which are not weaknesses at all. One coach says he is one-footed. Another says he goes missing when it matters. A third says he is a system player who would not function anywhere else. A fourth, usually the one who has actually prepared a team to face him, says nothing for a moment and then describes a specific spatial condition under which the threat drops by a measurable amount, and explains what his own side had to give up to create that condition. Only the fourth answer is analysis. The first three are a mixture of accurate observation and false inference, and separating those two things is the entire job of this article.

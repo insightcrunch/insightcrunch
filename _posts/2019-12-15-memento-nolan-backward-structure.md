@@ -9,7 +9,7 @@ excerpt: "Memento runs its color scenes backward so the audience shares Leonard'
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2019-12-15
+last_updated: 2026-08-01
 lang: en
 ---
 A man wakes in a motel room he does not recognize. He checks the notes in his pockets, reads the tattoos on his skin, and studies a wallet of Polaroid photographs that tell him who to trust and who to kill. He cannot form new memories. Everything that happened more than a few minutes ago has vanished, and he rebuilds his identity each morning from the evidence he has left himself. This is Leonard Shelby, and the remarkable thing about the picture built around him is that the audience knows almost exactly as little as he does at any given moment. Christopher Nolan engineered that effect by running the story backward.

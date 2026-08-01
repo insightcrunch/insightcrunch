@@ -9,7 +9,7 @@ excerpt: "Harry Potter adapted a single book saga across eight films and a decad
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2020-09-01
+last_updated: 2026-08-01
 lang: en
 ---
 No studio had ever attempted what Warner Bros. set out to do in 2001: adapt a single, still-unfinished literary saga across eight films and a full decade, releasing the chapters fast enough that the children who lined up for the first would graduate from school alongside the characters they were watching. The Harry Potter film series is the clearest case in modern cinema of adaptation treated not as a single act of translation but as a sustained, decade-long campaign, a property mined chapter by chapter while its audience aged in real time. The decision that organizes every other decision in the eight films is this one: to build a franchise that grew up.

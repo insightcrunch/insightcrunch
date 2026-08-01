@@ -9,7 +9,7 @@ excerpt: "Across 2023, roughly a dozen wanted militants were eliminated in Pakis
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 71
 author: "andrew-price"
-last_updated: 2019-10-21
+last_updated: 2026-08-01
 lang: en
 ---
 There was a moment, somewhere in the middle of 2023, when the argument changed. For two years, the killing of wanted militants on Pakistani soil had been treated as a curiosity, a string of unconnected local crimes, a coincidence that respectable analysts were reluctant to name. By the autumn of that year, the argument was no longer about whether a pattern existed. It was about what the pattern meant, who was running it, and how far it would go. The shift did not happen because anyone confessed. It happened because the arithmetic became impossible to ignore.

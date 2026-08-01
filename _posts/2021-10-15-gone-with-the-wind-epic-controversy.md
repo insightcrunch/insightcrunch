@@ -9,7 +9,7 @@ excerpt: "Gone with the Wind is a monumental epic whose seductive grandeur is in
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2021-10-15
+last_updated: 2026-08-01
 lang: en
 ---
 ## Gone with the Wind: Grandeur and Distortion

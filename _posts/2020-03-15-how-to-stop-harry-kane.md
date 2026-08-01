@@ -9,7 +9,7 @@ excerpt: "How to stop Harry Kane begins with one decision: does your centre-back
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2020-03-15
+last_updated: 2026-08-01
 lang: en
 ---
 ## The One Decision That Decides This Match

@@ -9,7 +9,7 @@ excerpt: "Predicting the next phase of India's covert shadow war in Pakistan, th
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 71
 author: "abigail-cooper"
-last_updated: 2019-12-16
+last_updated: 2026-08-01
 lang: en
 ---
 A campaign that never announced its objective also never announced an ending. India's shadow war, the program of targeted killings of wanted terrorists on Pakistani soil that began when IC-814 hijacker Zahoor Mistry was shot dead in Karachi's Akhtar Colony on March 1, 2022, has now run for the better part of four years without a single official acknowledgment from New Delhi, without a stated goal beyond each killing itself, and therefore without any criterion by which anyone in India, Pakistan, or Washington could stand up and declare the matter concluded. That absence is not an oversight. It is the defining feature of the campaign, and it is the reason this article exists, because the only question a covert attrition program structurally cannot answer for itself is the one that matters most for everyone living inside its blast radius: what comes next.

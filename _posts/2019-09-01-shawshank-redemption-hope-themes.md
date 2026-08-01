@@ -9,7 +9,7 @@ excerpt: "The Shawshank Redemption makes a long prison friendship into a parable
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2019-09-01
+last_updated: 2026-08-01
 lang: en
 ---
 When a film fails in theaters and then climbs, year after year, to the top of nearly every popular ranking of the best movies ever made, the climb itself becomes part of the meaning. The Shawshank Redemption is that film. Frank Darabont's 1994 prison drama earned barely sixteen million dollars against a twenty-five million dollar budget on its first release, drew seven Academy Award nominations, won none of them, and then began a slow ascent through video rentals and cable replays that has never really stopped. The picture that audiences ignored in the autumn of 1994 now sits at the summit of the most-voted popular lists, cherished by viewers who came to it on a small screen long after it left the big one. To understand why, you have to look past the plot, which is simple, and into the ideas the plot carries: hope held against despair, the human cost of institutionalization, and the slow accrual of small acts that, given enough patience, can carry a person out of a cell and across a wall to the sea.

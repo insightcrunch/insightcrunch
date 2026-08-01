@@ -9,6 +9,7 @@ author: "rachel-foster"
 excerpt: "Sin City turned Frank Miller's graphic novels into film almost panel for panel, a study of its digital backlot, spot color, and the limits of fidelity."
 reading_time: 60
 lang: en
+last_updated: 2026-08-01
 ---
 When a story has already been drawn, what is left for a camera to do? That question sits at the center of the 2005 neo-noir that Robert Rodriguez and Frank Miller carved out of Miller's hard-boiled comics. Most movies built from a book begin by deciding what to keep and what to throw away, how to turn paragraphs into pictures and inner thought into spoken line. Rodriguez began somewhere stranger. He had the pictures already, inked and shadowed across years of pages, and he set out to put those exact pictures on a screen. The result is one of the most literal translations of a drawn source the medium has produced, a work that treats its comic panels not as suggestions but as instructions. It is a strange and instructive object, because it forces a plain question to the surface. Is reproducing a visual source faithfully a triumph of devotion, or does it hollow out the very act of adapting?
 

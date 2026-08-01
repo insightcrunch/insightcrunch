@@ -9,7 +9,7 @@ excerpt: "Heat and Casino, two sprawling 1995 crime epics, compared: how Michael
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2019-10-01
+last_updated: 2026-08-01
 lang: en
 ---
 In 1995 two American directors at the height of their powers released sprawling crime epics within weeks of each other, and the coincidence still frames an argument worth having. Michael Mann gave audiences Heat, a cool professional duel that sets a master thief against the detective who hunts him across the avenues and storm drains of Los Angeles. Martin Scorsese gave them Casino, an operatic chronicle of a mob-run gambling empire rising and rotting in the desert light of Las Vegas. Both run close to three hours. Both put Robert De Niro at the center of a doomed enterprise. Both treat the criminal life as a vocation pursued with monastic seriousness. Yet they could hardly feel less alike, and the gap between them maps the full range of what the crime epic could do at the close of the century.

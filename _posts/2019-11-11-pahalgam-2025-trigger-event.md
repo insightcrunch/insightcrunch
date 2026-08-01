@@ -9,7 +9,7 @@ excerpt: "How the Pahalgam tourist massacre became the trigger event that finall
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2019-11-11
+last_updated: 2026-08-01
 lang: en
 ---
 A meadow does not look like a turning point. Baisaran is a bowl of green grass ringed by pine forest, reachable only on foot or by pony, the kind of place travel brochures call mini-Switzerland and families photograph for years afterward. On a warm spring afternoon, gunmen walked out of that forest and turned the meadow into the place where a twenty-six-year argument finally ended. Twenty-six civilians died in roughly seventy-five minutes. Most were holidaymakers. One was a local pony handler who tried to wrestle a rifle away from a killer. By nightfall the meadow had become something larger than a crime scene. It had become the trigger that severed New Delhi's last thread of restraint and set in motion the most dangerous military confrontation the subcontinent had seen since 1971.

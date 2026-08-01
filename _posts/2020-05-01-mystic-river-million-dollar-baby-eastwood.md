@@ -3,7 +3,7 @@ layout: post
 title: "Eastwood's Late Peak: Mystic River, Million Dollar Baby"
 page_title: "Mystic River and Million Dollar Baby: Clint Eastwood's Late Peak, Two Tragedies Compared, Explained, and Decided"
 date: 2020-05-01
-last_updated: 2020-05-01
+last_updated: 2026-08-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Mystic River", "Million Dollar Baby", "Clint Eastwood", "Film Analysis", "Directors", "Performances"]
 image: "/assets/images/blog/blog-59.webp"

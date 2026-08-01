@@ -9,7 +9,7 @@ excerpt: "Toy Story was the first fully computer-animated feature. A craft deep-
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2021-09-01
+last_updated: 2026-08-01
 lang: en
 ---
 The achievement that matters most about Toy Story is the one stated so plainly that it is easy to walk past: every frame was made inside a computer. No cel was painted. No background was airbrushed onto glass. No model was placed on a tabletop and nudged a fraction of an inch between exposures. The cowboy doll, the spaceman, the bedroom, the carpet, the slanting afternoon light through the window, all of it was described to a machine as numbers and then rendered into pictures. That had never been done across a full feature before. Pixar built the first one, and it built it while inventing the tools that would let it be built at all.

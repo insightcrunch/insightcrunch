@@ -9,7 +9,7 @@ excerpt: "How to stop Khvicha Kvaratskhelia: why doubling up backfires against a
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2021-08-01
+last_updated: 2026-08-01
 lang: en
 ---
 The plan to stop Khvicha Kvaratskhelia begins by refusing the single instruction every touchline in world football shouts when a dribbler receives the ball on the left: send help. Against this profile, help is the problem. The counter-plan here is a containment-by-angle scheme in which the near defender holds a fixed distance and a fixed body angle outside the range where the attacker's close control does its damage, the second defender drops rather than closes, and the team accepts a specific and deliberate concession in exchange. What you give up is the harmless first touch, the sideways carry, and a share of possession in the left channel that will look uncomfortable on the touchline and will read as passivity to anyone watching without the plan in their head.

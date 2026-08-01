@@ -9,7 +9,7 @@ excerpt: "Birdman hides its cuts to feel like one unbroken take, trapping its he
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2021-02-01
+last_updated: 2026-08-01
 lang: en
 ---
 Birdman opens on a man levitating in his underwear and ends on a window left open to the sky, and between those two images it never appears to cut. That apparent absence of editing is the single technical achievement that organizes everything else in Alejandro G. Inarritu's 2014 film, and it is the reason the picture rewards close study rather than a quick recommendation. The camera enters a Broadway theater, climbs its stairwells, slips through dressing-room doors, drifts onto the stage, and follows a faded movie star down a Manhattan sidewalk in his briefs, all without an obvious break in the image. The effect is a lie assembled with great care, a sequence of separate takes joined so cleanly that the seams disappear, and the lie is not a stunt laid over the story. It is the story's argument made visible. A man who cannot stop performing is trapped inside a shot that will not let him out, and the craft and the meaning turn out to be the same thing.

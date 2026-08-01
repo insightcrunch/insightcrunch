@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Ronaldinho: the low speed dribbling problem, why
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2021-09-15
+last_updated: 2026-08-01
 lang: en
 ---
 The duel that defenders lost against Ronaldinho was not the one anybody remembers. The remembered version is fast, elaborate, and technically spectacular. The version that actually cost teams goals was slow, almost still, and involved a defender standing four metres from a man who was barely moving, with nothing happening, until something did. That situation has no name in defensive coaching, no drill devoted to it, and no place in the standard curriculum, which is precisely why it worked.

@@ -9,7 +9,7 @@ excerpt: "Get Out turns horror into argument, using the Sunken Place, hypnosis, 
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2021-03-15
+last_updated: 2026-08-01
 lang: en
 ---
 When a film opens with a Black man lost on a manicured suburban street at night, narrating his unease into a phone while a white car slows behind him, it is already making an argument about who is allowed to feel safe and where. *Get Out*, written and directed by Jordan Peele in 2017, builds an entire feature out of that single inversion of comfort and threat. The film takes the most familiar of social rituals, a young man meeting his girlfriend's parents for a weekend in the country, and reveals the quiet terror folded inside the welcome. It registers a specific historical pressure: the gap between a country that had elected and twice reelected a Black president and the lived reality of race that no election could resolve. Peele turned that gap into genre, and in doing so he made horror argue.

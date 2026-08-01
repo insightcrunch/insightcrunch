@@ -9,7 +9,7 @@ excerpt: "Defending an inverted winger one on one: the five decisions that settl
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2021-08-15
+last_updated: 2026-08-01
 lang: en
 ---
 Defending an inverted winger one on one is not decided by the moment everybody watches. It is decided roughly a second and a half before that, in a piece of the duel with no highlight value at all: whether the defender is stationary and balanced at the instant the attacker takes his settling touch. Get that right and a fast, skilful, confident wide player has a difficult problem. Get it wrong and the rest of the duel is a formality dressed up as a contest, and no amount of quick feet, bravery, or shouting from the touchline will retrieve it.

@@ -9,7 +9,7 @@ excerpt: "Training a team to contain a superstar: the full session week, the con
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2020-10-15
+last_updated: 2026-08-01
 lang: en
 ---
 Training a team to contain a superstar is not a shape problem, and treating it as one is why so many carefully prepared defensive weeks collapse inside the opening quarter of an hour. The plan is written, the video is watched, the back four walks through the sliding pattern on a Thursday, and then a forward receives on the half-turn eleven yards inside his own half with his back to a full-back who was told to press, and nobody on the pitch knows whether the full-back goes or holds. The shape was rehearsed. The decision was not. A containment plan lives or dies on about nine individual decisions repeated forty times each, and none of them are made by the team. They are made by one player, alone, in less than a second, with a consequence attached.

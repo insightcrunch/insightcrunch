@@ -9,7 +9,7 @@ excerpt: "The 2008 Mumbai siege killed 166 people and rewired how India confront
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 73
 author: "abigail-cooper"
-last_updated: 2019-09-02
+last_updated: 2026-08-01
 lang: en
 ---
 For three days in late November 2008, a single coastal city held the attention of the entire planet, and when the gunfire finally stopped, the country it belonged to was no longer the same country it had been when the shooting began. Ten young men carrying assault rifles, grenades, and improvised explosive charges had crossed the Arabian Sea from Karachi, landed on the southern shore of Mumbai, and turned a railway terminus, two luxury hotels, a Jewish community centre, a hospital, and a popular cafe into killing grounds. By the time the last attacker was shot dead inside the Taj Mahal Palace hotel on the morning of November 29, one hundred and sixty-six people were dead and more than three hundred were wounded. Those numbers are staggering, but they do not capture the deeper transformation. What died in Mumbai over those sixty hours was not only the victims. What died was an entire way of thinking about national security, an entire posture toward a hostile neighbour, and an entire generation's assumption that terrorism was something to be endured rather than answered.

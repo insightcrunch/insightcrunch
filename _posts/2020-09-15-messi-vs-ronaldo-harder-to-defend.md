@@ -9,7 +9,7 @@ excerpt: "Messi or Ronaldo harder to defend becomes a settleable question once y
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2020-09-15
+last_updated: 2026-08-01
 lang: en
 ---
 Ask any coaching group whether Messi or Ronaldo was harder to defend and the room splits before the sentence finishes. That split is not a failure of knowledge. It is a sign that the question, as usually asked, has no fixed answer, because most people arguing it are quietly answering a different question about who was greater. Narrow the terms to defensive difficulty alone, define what that means in the language a coach actually uses on a training pitch, and the argument stops being a shouting match and becomes something a staff can settle for their own side. That is the only version of this comparison worth writing, and it is the version this article commits to for every paragraph that follows.

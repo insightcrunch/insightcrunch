@@ -9,7 +9,7 @@ excerpt: "American Psycho turns Christian Bale into a performance of pure surfac
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2020-01-01
+last_updated: 2026-08-01
 lang: en
 ---
 ## The performance problem: how do you play a man who is all surface?

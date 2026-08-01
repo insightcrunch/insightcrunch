@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Samuel Eto'o: the lateral pass-off, the shoulder
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2021-01-01
+last_updated: 2026-08-01
 lang: en
 ---
 A centre-back can tell you exactly what to do about a striker who runs in behind, and exactly what to do about a striker who drops into the pocket. Ask him what to do about a striker who walks sideways and you will usually get a shrug, because the movement does not look like a threat. Nobody is sprinting. Nothing is being attacked. A forward is simply strolling across the face of a back four, twelve yards in front of it, apparently going nowhere. Defenders who stopped Samuel Eto'o understood that this was the most dangerous thing he did, and that the reason it worked was not that it created separation from a marker. It was that it made two defenders occupy one piece of grass and left a hole exactly where the ball was going.

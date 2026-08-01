@@ -9,7 +9,7 @@ excerpt: "Ex Machina reframed the Turing test as manipulation and foresaw the an
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2021-05-01
+last_updated: 2026-08-01
 lang: en
 ---
 When a film about a machine arrives at the exact moment the machine becomes real, the influence runs in two directions at once. Ex Machina (2014), the directorial debut of Alex Garland, set a line running through the decade of AI cinema that followed it, and it also reached forward into a world that had not quite arrived yet, a world of language models trained on the searches of millions, of chatbots that perform feeling, of corporations that hold more data about how people think than any government ever has. Garland built a chamber piece for three actors and one android, staged it inside a glass bunker in the Norwegian mountains, and asked a question that the technology itself would force into the open within a few short years: when a machine can convince you it has a mind, does the convincing prove the mind, or only prove the machine is good at convincing you?

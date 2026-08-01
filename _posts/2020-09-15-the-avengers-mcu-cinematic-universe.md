@@ -9,7 +9,7 @@ excerpt: "The Avengers (2012) confirmed the cinematic universe model, turning st
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2020-09-15
+last_updated: 2026-08-01
 lang: en
 ---
 In the spring of 2012, a single movie did something no studio had managed before: it took six superheroes who had each carried a film of their own, or been seeded inside someone else's, and brought them into one room to fight a shared enemy. The Avengers, directed and co-written by Joss Whedon, was not the first crossover in the history of popular storytelling, and it was not even the first attempt to link movies through recurring characters. What it was, and what nothing before it had been, was proof. It demonstrated that a studio could plant a slate of standalone pictures over four years, thread them with shared characters and end-credit teases, and then pay the whole thing off in a crossover event that audiences would treat as a season finale they had waited their lives to see. The receipts settled the argument. The Avengers grossed over 1.5 billion dollars worldwide and stood as the third highest-grossing film ever made at the moment of its release. After that number, the interconnected universe stopped being a gamble and became the central business plan of Hollywood. The franchise era had its founding text.

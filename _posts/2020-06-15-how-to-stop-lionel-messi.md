@@ -9,7 +9,7 @@ excerpt: "How to stop Lionel Messi: a zonal ownership counter-plan with a delayi
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2020-06-15
+last_updated: 2026-08-01
 lang: en
 ---
 Every coach who has ever searched for how to stop Lionel Messi wanted a name. Give me the marker, they think, and I will give him the job. That instinct is the reason so many well-drilled sides have been taken apart by a left-footed forward who never ran past anybody at full speed. The plan that has actually held, across two decades of opponents trying, is not a man and it is not a tackle. It is a zone-ownership scheme with a designated first defender whose entire job is delay, a second defender whose entire job is screening the inside pass, and two concessions written into the design before kick off: you will not have the ball, and you will not defend the far flank properly.

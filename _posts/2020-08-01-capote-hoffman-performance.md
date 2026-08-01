@@ -10,6 +10,7 @@ author: "chloe-martin"
 reading_time: 59
 slug: capote-hoffman-performance
 lang: en
+last_updated: 2026-08-01
 ---
 Bennett Miller's 2005 film opens on a question of nerve. A man who looks nothing like a leading actor walks into a literary party and bends the room toward him. The voice is high and strange, the manner theatrical, the wit a sharpened tool. Within minutes you understand that this person has spent a lifetime learning how to make people give him what he wants. The film is named for that person, and the performance at its center turns the act of charming into the act of taking. Philip Seymour Hoffman built the title role out of precise mimicry, and then used that mimicry to expose a writer who befriended a condemned man for the material he needed, a writer whose gift and whose cruelty turned out to be the same instrument. That is the achievement worth studying, and it is the reason the film rewards the kind of close attention a serious viewer brings to any great screen portrait.
 
