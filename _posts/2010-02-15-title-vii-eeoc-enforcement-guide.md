@@ -6,17 +6,17 @@ date: 2010-02-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Labor Law", "Civil Rights", "Congress", "American History"]
 excerpt: "Title VII and the EEOC in practice: the charge process stage by stage, the deadlines that end claims, and why the agency could not sue anyone until 1972."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2010-02-15
+lang: en
 ---
-
 Title VII reads like a prohibition with teeth. It declares whole categories of employment conduct unlawful, binds employers, unions and employment agencies, and reaches hiring, firing, pay and the terms of work. Then Congress created an agency to administer it and withheld from that agency the power to order anyone to do anything, the power to sue anyone, and the general power to write binding rules. For its first eight years, the federal government's employment discrimination enforcement body operated by investigating, finding facts, and asking employers to fix things voluntarily.
 
 That gap between the text and the machinery is the subject of this article, and it is not a story about administrative failure. The limitation was written into the statute deliberately, at an identifiable moment, in exchange for identifiable votes. Understanding it is what makes the rest of the process intelligible: why a private plaintiff carries the case, why the deadlines are as unforgiving as they are, why a state agency gets the first look in most of the country, and why an agency finding of no cause does not end a claim.
 
-![How a Title VII charge moves from filing through EEOC conciliation to a federal lawsuit - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How a Title VII charge moves from filing through EEOC conciliation to a federal lawsuit - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 ## What Congress created and what it withheld
 

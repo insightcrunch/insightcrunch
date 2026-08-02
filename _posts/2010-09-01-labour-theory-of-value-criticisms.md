@@ -6,17 +6,17 @@ date: 2010-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Labour Theory of Value", "Karl Marx", "Marxist Economics", "Political Theory", "Philosophy"]
 excerpt: "Criticisms of the labour theory of value, sorted by their target: which two of the six objections actually land, the best reply to each, and what survives."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-09-01
+lang: en
 ---
-
 Almost every published refutation of the labour theory of value defeats one claim and then announces that it has defeated three. That is the single most useful thing to know before reading any critic or any defender, and it explains why an argument that has run for well over a century produces so little movement on either side. The theory is not one proposition. It does three separable jobs, and an objection that demolishes the first may leave the second and third untouched, while an objection that lands on the third may be irrelevant to a critic who only ever cared about the first.
 
 Sorting the criticisms of the labour theory of value by what they actually target is therefore not a debating trick to protect Marx. It is the precondition for the argument being worth having at all. The six objections surveyed here range from one that is fatal to a claim Marx did not make, through two that land squarely and permanently, to one advanced by a philosopher who accepted the political conclusion the theory was built to support and argued that the theory was not needed to reach it. That last objection, from inside the tradition's own sympathisers, is the most interesting thing anyone has said about the subject in decades, and it is almost entirely absent from the pages that answer this query.
 
-![Criticisms of the labour theory of value, the six objections and their verdicts - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Criticisms of the labour theory of value, the six objections and their verdicts - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 What follows states each objection in the terms its own proponents would use, reconstructs the argument so its premises are visible, concedes what it gets right without defensiveness, gives the best reply rather than the most convenient one, and reaches a verdict of lands, partially lands, or misses. The strongest defence of the theory is also stated at full strength, together with the price that defence charges, because the honest position is that the theory can be saved on one reading and cannot be saved on another, and the reading that saves it gives up a good deal of what the theory was historically claimed to do.
 

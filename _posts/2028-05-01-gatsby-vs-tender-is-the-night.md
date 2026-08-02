@@ -6,15 +6,15 @@ date: 2028-05-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "American Literature", "Close Reading", "Literary Criticism", "Context"]
 excerpt: "The Great Gatsby vs Tender Is the Night sets compression against reach: a tight tragedy beside the sprawling, autobiographical novel that cost nine years."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-05-01
+lang: en
 ---
-
 Setting The Great Gatsby vs Tender Is the Night side by side produces a result that neither book yields alone: it makes Fitzgerald's discipline measurable. Gatsby is a novel of roughly fifty thousand words that took about two years and reads as though every sentence had been weighed. Tender Is the Night is nearly three times as long, took nine years and several abandoned versions, and reaches for a subject Gatsby never attempts. Read together they show a writer who could do two very different things, and the second book is the reason we can name what the first one is.
 
-![The Great Gatsby compared with Tender Is the Night, Fitzgerald's masterpiece and his most ambitious later novel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby compared with Tender Is the Night, Fitzgerald's masterpiece and his most ambitious later novel - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The usual framing of this pairing is a ranking, in which the earlier book is the masterpiece and the later one the failure, and the ranking is not wrong so much as uninformative. It tells you which novel to read first and nothing about why the two differ. The more productive question is what each book bought with what it spent, because Tender Is the Night trades focus for reach and the trade is deliberate, visible, and instructive about the achievement of the shorter book.
 

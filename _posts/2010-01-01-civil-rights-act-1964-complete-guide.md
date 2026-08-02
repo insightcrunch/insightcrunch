@@ -6,17 +6,17 @@ date: 2010-01-01
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Supreme Court", "American History"]
 excerpt: "The Civil Rights Act of 1964 explained title by title: what each provision requires, who it covers, who it exempts, and how the whole statute is enforced."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2010-01-01
+lang: en
 ---
-
 Ask most people what the Civil Rights Act of 1964 did and you will get a sentence about ending segregation. Ask which of its provisions reached a restaurant, which reached a school district, which reached a payroll office, and which reached nothing at all, and the sentence runs out. That gap is the reason this guide exists. The statute is not a declaration. It is eleven separate titles, each with its own covered entities, its own exemptions, its own enforcement route, and its own constitutional footing, and the differences between them decide almost every real question a reader brings to the law.
 
 The practical consequence of that design is that two people can both be describing the act accurately and be describing entirely different machinery. A person who says the law works through private lawsuits is thinking about Title II and Title VII. A person who says it works by cutting off federal money is thinking about Title VI. A person who says the Justice Department enforces it is thinking about Titles III, IV and IX. All three are right, and none of them has the whole statute. This guide hands you the whole statute.
 
-![The Civil Rights Act of 1964 explained title by title with coverage, exemptions and enforcement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Civil Rights Act of 1964 explained title by title with coverage, exemptions and enforcement - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 ## The formal identity of the Civil Rights Act of 1964
 

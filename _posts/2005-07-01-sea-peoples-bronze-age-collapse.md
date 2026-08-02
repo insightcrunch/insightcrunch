@@ -6,17 +6,17 @@ date: 2005-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Sea Peoples", "New Kingdom", "Warfare", "World History", "Ancient Egypt"]
 excerpt: "The Sea Peoples and the Bronze Age Collapse explained: who the raiders were, what really brought the system down, and how Egypt survived it badly battered."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-07-01
+lang: en
 ---
-
 Somewhere around 1200 BCE the connected world of the eastern Mediterranean came apart. The Hittite empire, which had fought Egypt to a standstill in Syria and then signed a treaty with it, ceased to exist. The palace centers of Mycenaean Greece burned or were abandoned. Ugarit, a wealthy port city on the Syrian coast with an archive of thousands of clay tablets, was destroyed and never reoccupied. Cities across Cyprus and the Levant show destruction layers within a few decades of one another. Trade routes that had carried copper from Cyprus, tin from far to the east, and luxury goods across the whole basin stopped functioning. Writing systems fell out of use in some regions for centuries.
 
 Egypt did not fall. That is the fact around which this guide is organized, and explaining it requires first explaining what the rest of the region was falling to.
 
-![The Sea Peoples and the Late Bronze Age Collapse explained, including Ramesses III at Medinet Habu - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Sea Peoples and the Late Bronze Age Collapse explained, including Ramesses III at Medinet Habu - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The popular account assigns the blame to a single agency: a confederation of seaborne raiders whom modern scholarship calls the Sea Peoples, sweeping through the eastern Mediterranean, burning cities, and toppling states. The Egyptian record encourages this reading, because Egyptian texts describe exactly such an invasion and Egyptian reliefs depict its defeat. The reading is also inadequate, and the argument this guide defends explains why. Call it the multi-cause collapse thesis: the Sea Peoples were a symptom and an accelerant of a systems failure that had several interacting drivers, not its origin, and Egypt survived the failure in a damaged rather than an untouched condition.
 

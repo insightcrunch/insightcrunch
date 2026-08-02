@@ -6,17 +6,17 @@ date: 2010-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Judiciary", "Parliament", "UPSC"]
 excerpt: "The basic structure doctrine explained through the cases that built it, what Kesavananda held by seven to six, and why the list of features stays open."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2010-02-01
+lang: en
 ---
-
 The basic structure doctrine is the most consequential piece of Indian constitutional law that appears nowhere in the Constitution. Nothing in Article 368 says that the amending power is limited by substance. Nothing in Part III says that some rights are more fundamental than others. The words basic structure do not occur in the constitutional text at all. Yet the doctrine has invalidated constitutional amendments, restructured the relationship between Parliament and the judiciary, and become the argument of first resort whenever a government proposes a change that its opponents consider existential.
 
 That gap between text and doctrine is why the subject is argued about with such heat, and why so much of what is said about it is wrong. The single most repeated claim, that Kesavananda Bharati held fundamental rights cannot be amended, is the opposite of what the case decided. The second most repeated claim, that there is a definitive list of basic features, describes something the courts have consistently refused to produce. This article treats the doctrine as what it is in practice, a test that a court applies to a specific amendment on specific facts, and traces how that test was built decision by decision.
 
-![How the basic structure doctrine was built from Shankari Prasad through Kesavananda Bharati to Coelho - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the basic structure doctrine was built from Shankari Prasad through Kesavananda Bharati to Coelho - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The procedural mechanics of amendment, the three routes, the arithmetic of the special majority, and the ratification proviso, are set out separately in this series' guide to [how the Constitution of India is amended](/2010/01/01/constitution-amendment-process-india/), and this article assumes them. What is analysed here is the substantive limit that the courts constructed on top of that procedure, and the twenty-two years of litigation that produced it.
 

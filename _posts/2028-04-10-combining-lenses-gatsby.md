@@ -6,15 +6,15 @@ date: 2028-04-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Essay Writing", "American Literature", "Close Reading", "Themes"]
 excerpt: "Combining critical lenses on Great Gatsby essays works only when the frameworks are compatible and share a through-line question neither can answer alone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-04-10
+lang: en
 ---
-
 Combining critical lenses on Great Gatsby essays is the move that separates the papers a marker remembers from the papers a marker grades, and it is also the move that produces the worst essays in any given stack. Both outcomes come from the same source. Two frameworks generate more observations than one, and observations are cheap. What is expensive is the single argument that holds them together, and a paper that gathers the observations without building the argument reads as two half-essays stapled at the spine.
 
-![Combining critical lenses on The Great Gatsby with a coherent through-line - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Combining critical lenses on The Great Gatsby with a coherent through-line - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The claim defended here is that layering frameworks deepens a reading only when they are compatible and share a through-line. A Marxist and feminist treatment of Daisy Buchanan enriches both, because class and gender are visibly entangled in her situation and one argument can carry both threads. The same two frameworks applied to separate halves of an essay enrich nothing, because the reader receives two readings rather than one deeper one. More lenses, but one argument, is the whole discipline compressed into six words.
 

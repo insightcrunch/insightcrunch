@@ -6,17 +6,17 @@ date: 2022-01-15
 categories: ["Leisure"]
 tags: ["Football", "Defending", "Tactics", "Coaching", "Youth Football", "Player Development"]
 excerpt: "Show him inside or outside is the most common defending instruction there is. Here is the decision rule, resolved by cover, block height, flank, and level."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2022-01-15
+lang: en
 ---
-
 The instruction to show a wide opponent inside or outside is the most frequently given command in defending and the least frequently justified. It is shouted from touchlines every weekend, it is written into pre-match briefings at every level of the game, and if you ask ten coaches to explain why they chose the one they chose, you will get four answers about the opponent's weaker foot, three about what their side has always done, two about what they saw a professional team do, and one honest admission that nobody has ever asked before.
 
 That is not a criticism of coaches. It is a description of a genuine gap, because the decision is harder than it looks and the online discussion of it is close to useless. Most of the argument is people meaning different things by the same words, and the rest is absolutism: you always show a player down the line, or the idea is outdated because everyone is two-footed now. Both positions are wrong, and the reason they persist is that neither side has stated the variables that actually decide it.
 
-![Show him inside or outside, the defending decision resolved by cover travel, block height and flank - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Show him inside or outside, the defending decision resolved by cover travel, block height and flank - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This article gives a decision rule. It resolves the question separately by the height and compactness of your block, by whether your covering centre-back can travel wide, by the recovery speed available behind your full-back, by the quality and occupation of the opponent's box, and by the flank, because the geometry is not symmetrical. It gives four verdicts for four contexts, names the deciding factor in each, lists the in-match signals that tell you the choice was wrong, and ends with a one-sentence version simple enough to teach a nine-year-old.
 

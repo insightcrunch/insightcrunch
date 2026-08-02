@@ -6,17 +6,17 @@ date: 2010-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Emergency Provisions", "Fundamental Rights", "UPSC"]
 excerpt: "The 44th Amendment Act 1978 rolled back the Emergency. One safeguard it enacted was never notified and does not operate at all. Here is the full record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2010-03-01
+lang: en
 ---
-
 There is a section of the Constitution (Forty-fourth Amendment) Act, 1978 that was debated in both Houses, carried by the required special majority, ratified by more than half the state legislatures, and assented to by the President, and which has never taken effect. It sits in the official publication of the Constitution of India in an appendix reserved for provisions that have not come into force. It has been there for the entire life of every reader of this article.
 
 That section is the reason this article is worth reading rather than skimming. Everything else about the 44th Amendment is available in a hundred places: it undid the Emergency changes, it raised the threshold for proclaiming an Emergency, it took the right to property out of the fundamental rights, it restored the five-year term. All of that is true and all of it is covered below with the dates and the article numbers. But the section that never commenced teaches something the rest of the story cannot, which is that in Indian law the distance between a provision passed and a provision in force can be measured in decades, and that the gap is not an accident of drafting but a structural feature of how commencement works.
 
-![What the 44th Amendment Act 1978 restored and the one section that has never been brought into force - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What the 44th Amendment Act 1978 restored and the one section that has never been brought into force - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The argument of this article is that the standard account, which holds that the 44th Amendment made the Constitution proof against a repeat of the Emergency, is half right in a way that matters. The procedural threshold for declaring an Emergency was raised substantially and genuinely. The protection of Articles 20 and 21 against suspension is a real structural change that would have altered the most notorious judicial episode of the Emergency period. But the same instrument left preventive detention standing as a constitutional category, failed to carry several of the reversals it attempted, and enacted a detainee safeguard that the executive has simply never switched on. A reader who takes away only the triumphal version will be wrong about the current law in at least one specific and consequential respect.
 

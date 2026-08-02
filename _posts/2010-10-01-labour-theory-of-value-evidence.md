@@ -6,17 +6,17 @@ date: 2010-10-01
 categories: ["Leisure"]
 tags: ["Marxism", "Labour Theory of Value", "Marxist Economics", "Research Methods", "Contemporary Analysis", "Political Theory"]
 excerpt: "Evidence on the labour theory of value: what the input-output studies measured, why the aggregation critique bites, and what an honest verdict looks like."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-10-01
+lang: en
 ---
-
 The labour theory of value has been tested empirically, repeatedly, across many national economies, using data that governments publish and methods that anyone with the tables and a linear algebra package can replicate. That fact alone puts this article at odds with most writing on the subject, which treats the theory as either a philosophical commitment or a discredited relic and in both cases as something that evidence cannot touch.
 
 The tests exist, the results are striking, and the results are also contested on grounds that have nothing to do with any of the classical objections. The dispute is statistical: because both the price figures and the labour-value figures for each industry are scaled by how big that industry is, a large part of the observed agreement between them may be measuring nothing more than the fact that big industries are big. That objection, and the replies to it, is the whole of the serious argument, and it is essentially invisible outside the journal literature.
 
-![Evidence on the labour theory of value, the price-value correlation studies and the aggregation critique - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Evidence on the labour theory of value, the price-value correlation studies and the aggregation critique - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 What follows states the claim in a form that could be measured, describes exactly how labour values are computed from published national accounts, reports what the studies found and across which economies, states the aggregation critique at its full strength including the demonstration that arbitrary non-labour inputs can produce comparably impressive results, gives the replies, and reaches a split verdict. The strong version of the empirical claim is not established. A weaker version has some support and remains disputed. Anyone who tells you otherwise, in either direction, has not read the exchange.
 

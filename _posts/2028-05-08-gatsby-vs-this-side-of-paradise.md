@@ -6,15 +6,15 @@ date: 2028-05-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "American Literature", "Close Reading", "Context", "Literary Criticism"]
 excerpt: "The Great Gatsby vs This Side of Paradise measures five years of growth: a loose, brilliant debut beside the controlled novel that perfected its themes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-05-08
+lang: en
 ---
-
 Reading The Great Gatsby vs This Side of Paradise is the closest thing available to watching a writer acquire control in public. Five years and two books separate them. The debut appeared in March 1920, written by a twenty-three-year-old who had left Princeton without a degree, and it made him famous within weeks. The third novel appeared in April 1925 and is one of the most tightly built books in the language. The same preoccupations run through both, which is what makes the comparison useful: with the subject held constant, the difference is entirely craft, and craft is therefore measurable.
 
-![The Great Gatsby compared with This Side of Paradise, Fitzgerald's mature masterpiece and his youthful debut - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby compared with This Side of Paradise, Fitzgerald's mature masterpiece and his youthful debut - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The lazy version of this pairing dismisses the earlier book as apprentice work and moves on. That verdict is defensible on questions of construction and useless on everything else, because it conceals what the debut actually shows: that Fitzgerald arrived with his subject already fully identified and spent five years learning how to hold it. The ambition, the class anxiety, the girl who says no because of money, the sense that a generation has been handed an idiom it cannot live inside, all of it is in the 1920 book. What is not there is the ability to make any of it inevitable.
 

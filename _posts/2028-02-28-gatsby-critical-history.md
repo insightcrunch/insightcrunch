@@ -6,17 +6,17 @@ date: 2028-02-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Context", "American Literature", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "How critics have read Gatsby over time: the full critical history from the divided 1925 reviews through canonization to theory and the public domain era."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-02-28
+lang: en
 ---
-
 Fitzgerald died in December 1940 convinced that his third novel had failed. Copies from its second printing were still sitting in a Scribner's warehouse. He had spent the last years of his life writing for the movies and publishing short stories about a hack screenwriter, and the book that would eventually be assigned to more American teenagers than any other novel of its century was, at that moment, a commercial disappointment fifteen years old. Tracing how critics have read Gatsby over time means beginning with that warehouse, because everything the book later became was built on top of a period when almost nobody thought it mattered.
 
 The interpretive tradition that followed is not a straight line of increasing appreciation. It is a sequence of distinct arguments, conducted by people with different training, different politics, and different ideas about what a novel is for, each generation finding in the same two hundred pages the question its own moment most needed answered.
 
-![The critical history of The Great Gatsby from the 1925 reviews through canonization to theory - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The critical history of The Great Gatsby from the 1925 reviews through canonization to theory - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The claim this article defends can be stated in a sentence: a book reread by every generation in its own terms. The novel did not slowly reveal its qualities to an improving readership. It sat still while the readership changed around it, and each change produced a reading that its predecessors could not have produced and would often have found baffling. Understanding that pattern is worth more to a student than memorizing a list of names, because it tells you what your own reading is: not the final word, but the current entry.
 

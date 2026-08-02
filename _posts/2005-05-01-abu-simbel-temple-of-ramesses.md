@@ -6,17 +6,17 @@ date: 2005-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ramesses II", "New Kingdom", "Ancient Egypt", "Pharaohs", "Archaeology"]
 excerpt: "Abu Simbel explained: why Ramesses II cut two colossal temples into a Nubian cliff, how the solar alignment works, and how the whole complex was moved."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-05-01
+lang: en
 ---
-
 Abu Simbel was never meant to be admired. It was meant to be obeyed. Two temples cut straight back into a sandstone cliff on the west bank of the Nile in Nubia, roughly two hundred and eighty kilometers upstream of Aswan, they were positioned where every boat coming down from the south, every Nubian chieftain arriving with tribute, and every Egyptian garrison commander returning from the frontier would see them before seeing anything else. Four seated figures of a single man, each about twenty meters high, faced the river and the sunrise. The message required no translation and no literacy. Egypt was here, Egypt was permanent, and the king whose face was repeated four times across the rock was the reason.
 
 That is the argument this guide will defend, and it is worth naming so it can be tested against the evidence: call it the propaganda-in-stone thesis. Abu Simbel is not a monument that happens to be enormous. Its scale, its placement, its subject matter, and even the direction it faces were chosen as instruments of political communication aimed at a specific audience in a specific province that Egypt had spent five centuries trying to hold. Read that way, almost every feature of the complex stops being decoration and starts being an argument.
 
-![Abu Simbel temple of Ramesses II in Nubia, its purpose, solar alignment, and relocation explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Abu Simbel temple of Ramesses II in Nubia, its purpose, solar alignment, and relocation explained - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 There is a second story layered on the first, and it belongs to the twentieth century rather than the thirteenth century BCE. In the 1960s the Aswan High Dam turned a long stretch of the Nubian Nile into a reservoir, and Abu Simbel sat squarely inside the future waterline. What followed was one of the largest archaeological rescue operations ever attempted: the temples were surveyed, sawn into more than a thousand numbered blocks, lifted up the cliff face, and reassembled inside artificial mountains built above the new shoreline. The complex a visitor walks into is the original stone, in its original relationship to itself, standing about sixty-five meters higher and some two hundred meters further back from the water than Ramesses II ever intended. Understanding Abu Simbel means understanding both operations, the ancient one and the modern one, because each reveals what the people who carried it out believed the place was worth.
 

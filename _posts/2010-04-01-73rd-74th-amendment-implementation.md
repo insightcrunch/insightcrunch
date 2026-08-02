@@ -6,17 +6,17 @@ date: 2010-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Panchayati Raj", "Constitutional Amendments", "Federalism", "Constitutional Law", "UPSC"]
 excerpt: "The 73rd and 74th Amendments made local elections compulsory and local power optional, and India's devolution record follows from that drafting choice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2010-04-01
+lang: en
 ---
-
 Two constitutional amendments created roughly three million elected representatives, more than any comparable act of institutional design anywhere, and then declined to say what any of them were entitled to decide. That sentence is the whole implementation record of the 73rd and 74th Amendments, and every subsequent argument about devolution, weak mayors, ghost panchayats and unspent grants is a consequence of it. The amendments made local elections compulsory and local power optional, and the outcome was written into the text before a single panchayat was constituted.
 
 The gap is not a story about administrative incapacity, corruption or state indifference, though all three exist and all three make it worse. It is a story about two verbs. Part IX says that there shall be constituted panchayats in every state, that elections shall be held before the expiry of a five-year term, and that a State Election Commission shall be established. Those are commands. It then says that the legislature of a state may by law endow the panchayats with such powers and authority as may be necessary to enable them to function as institutions of self-government. That is a permission. A state that holds elections on time and devolves nothing is in full compliance with the Constitution, and a great many states have chosen exactly that position for decades. The purpose of this article is to show how a reader can diagnose any state's devolution record from that single asymmetry, and to be honest about what the amendments did achieve, because the reflexive verdict that they failed is as wrong as the official claim that they succeeded.
 
-![The 73rd and 74th Amendment implementation record and the gap between mandatory local elections and optional local powers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 73rd and 74th Amendment implementation record and the gap between mandatory local elections and optional local powers - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 This article is about the record, not the content. The design of Part IX and the structure of panchayati raj as the 73rd Amendment set it up are treated in [the article on the 73rd Amendment and panchayati raj](/2018/10/15/panchayati-raj-73rd-amendment-explained/), and the corresponding treatment of municipalities sits in [the article on the 74th Amendment and urban local bodies](/2018/11/01/74th-amendment-urban-local-bodies/). What follows assumes the reader knows roughly what the amendments contain and wants to know what happened afterwards.
 

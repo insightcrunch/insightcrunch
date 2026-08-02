@@ -6,17 +6,17 @@ date: 2022-01-01
 categories: ["Leisure"]
 tags: ["Football", "Luis Figo", "Defending", "Tactics", "Coaching", "Set Pieces"]
 excerpt: "How defenders stopped Luis Figo by defending the crossing angle rather than the man, and why a beaten full-back can still have defended the duel correctly."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-01-01
+lang: en
 ---
-
 Most wide defending is taught around the wrong objective, and the clearest way to see it is to study a wide player whose take-on was never the point. How defenders stopped Luis Figo is a question that produces a useless answer if it is asked in the usual way, because the usual way assumes the duel is about possession of the ball. Against a delivery specialist it is not. The full-back who prevents the take-on and concedes the cross has lost the exchange. The full-back who is beaten and forces the delivery from a position his own box has already prepared for has won it.
 
 That inversion is the whole article, and it is worth stating plainly at the start because it contradicts the instruction almost every young defender receives. He is told not to get beaten. Against this profile, not getting beaten is neither necessary nor sufficient, and a coach who measures his full-back by take-ons conceded is measuring the wrong thing and will therefore coach the wrong behaviour.
 
-![How defenders stopped Luis Figo, defending the crossing angle rather than the man in the wide duel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Luis Figo, defending the crossing angle rather than the man in the wide duel - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 ## What the Luis Figo duel actually was
 

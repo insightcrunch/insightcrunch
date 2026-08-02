@@ -6,17 +6,17 @@ date: 2010-03-01
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Supreme Court", "Congress", "American History"]
 excerpt: "Civil Rights Act Supreme Court cases in order: what Heart of Atlanta, Griggs, Wards Cove, Ledbetter and Bostock held, and which rulings Congress reversed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2010-03-01
+lang: en
 ---
-
 Congress passed a statute in 1964 that told hotels, restaurants, employers, unions and federal grant recipients what they could no longer do. It did not, and could not, tell the courts what the words meant when applied to a testing program at a power plant, a supervisor's conduct on an oil rig, a paycheck issued nineteen years after the decision that set its amount, or a firing that the employer explained by pointing at an employee's participation in a recreational softball league. The Civil Rights Act Supreme Court cases are where those questions were answered, and the answers moved in both directions. The Court upheld the act's core against constitutional attack within six months of enactment, then spent five decades expanding some provisions, narrowing others, and prompting Congress to write two of its own constructions back out of the statute.
 
 The constitutional question came first and was settled fastest. Congress rested the public accommodations title on its power to regulate interstate commerce rather than on the Fourteenth Amendment, a choice that struck many readers at the time as a lawyer's evasion of the obvious constitutional home for a civil rights statute. It was not an evasion. It was a direct response to a holding the Court had issued eighty-one years earlier, and the two decisions handed down on December 14, 1964 vindicated it completely. Everything after that is statutory construction rather than constitutional law, which is why the later cases could be, and were, reversed by ordinary legislation.
 
-![Civil Rights Act Supreme Court cases from Heart of Atlanta to Bostock explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Civil Rights Act Supreme Court cases from Heart of Atlanta to Bostock explained - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 This article walks the decisions in sequence, states each holding in one sentence before discussing what it did, and marks the ones Congress overrode. The organizing observation, and the thing that makes the sequence intelligible rather than a pile of case names, is what this series calls the three-round pattern: the meaning of the Civil Rights Act of 1964 has moved through a round of judicial expansion, a round of judicial narrowing, and a round of legislative restoration, and almost every confident public claim about what the act "means" is really a claim about which round the speaker stopped reading at. A person who stopped after Griggs v. Duke Power Co. describes a statute with a broad effects test and no damages. A person who stopped after 1989 describes a statute with a weak effects test and no damages. A person who stopped after 1991 describes a statute with a codified effects test, capped damages and jury trials. All three descriptions were accurate on the date the reader stopped, and only the third is accurate afterward.
 

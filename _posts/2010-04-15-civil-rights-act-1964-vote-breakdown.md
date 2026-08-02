@@ -6,17 +6,17 @@ date: 2010-04-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Congress", "Civil Rights", "Legislative Process", "American History"]
 excerpt: "Civil Rights Act of 1964 vote breakdown: all four roll calls by party and by region, the named opponents, and what the tallies do and do not establish."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2010-04-15
+lang: en
 ---
-
 Almost every argument conducted about the Civil Rights Act of 1964 vote breakdown is conducted with half the table. One side reports that a larger share of Republicans than Democrats voted for the bill in both chambers, which is true. The other side reports that the bill was signed by a Democratic president and managed on the Senate floor by a Democratic whip against opposition led by Democratic senators, which is also true. Both sides are reading the party columns, and the party columns are the less informative cut of this data.
 
 The regional columns are where the explanation sits. On these four roll calls, whether a member came from the eleven states of the former Confederacy predicted their vote far better than which party they belonged to. Outside the South, support was overwhelming in both parties and the partisan gap was small. Inside the South, opposition was nearly unanimous across party lines. A statistical model of these votes that uses only party performs poorly; a model that uses only region performs well; and a model using both attributes most of the explanatory power to region. That is the region-over-party finding, and it is the single fact that makes the four roll calls intelligible.
 
-![Civil Rights Act of 1964 vote breakdown by party and region across all four roll calls - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Civil Rights Act of 1964 vote breakdown by party and region across all four roll calls - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 This article reports every roll call with its date and chamber, breaks each one by party and by region, names the members whose votes are most often asked about along with the reasons they stated, and stops where the evidence stops. It does not use these numbers to argue about any later party, because the numbers do not support that argument in either direction, and the claims built on them are examined on their own terms in [the myths about the 1964 act](/2010/05/01/civil-rights-act-1964-myths/), which owns those questions.
 

@@ -6,17 +6,17 @@ date: 2021-12-15
 categories: ["Leisure"]
 tags: ["Football", "Garrincha", "Defending", "Tactics", "Scouting", "Coaching"]
 excerpt: "How defenders stopped Garrincha, why knowing his move changed almost nothing, and what that tells a modern coach about where analysis time is truly wasted."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2021-12-15
+lang: en
 ---
-
 Nobody who prepared a side to face Garrincha was short of information about him, and that is what makes the duel worth studying. Modern football has stopped asking one of the most important questions in defensive preparation, which is how much of a defender's performance actually comes from knowing his opponent in advance. The question has been quietly answered by assumption: more information is better, video preparation is an advantage, and a side that has watched its opponent is better placed than one that has not. Nobody argues with this because the counterexample is hard to construct. You cannot run a controlled trial in which half the defenders are told nothing.
 
 Except that football did run something close to that trial, for decades, without meaning to. In a period with no video preparation, limited scouting, and infrequent international meetings between sides from different continents, defenders regularly faced opponents they had never seen. And the clearest test case the era produced was a right winger whose single decisive move was universally known, was never concealed, was described in advance by everyone who had faced him, and worked anyway. How defenders stopped Garrincha is therefore a question with an unusually useful answer, because the answer is largely that advance knowledge was not the missing ingredient.
 
-![How defenders stopped Garrincha, the known move and the limits of advance information in defensive preparation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Garrincha, the known move and the limits of advance information in defensive preparation - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 That finding is not a curiosity about an old player. It is a claim a working coach can act on this week, because it says that preparation time is a budget and that a large share of it is currently being spent on a category of information with a low ceiling on its defensive value. Establishing which category, and why the ceiling exists, is what this article is for.
 

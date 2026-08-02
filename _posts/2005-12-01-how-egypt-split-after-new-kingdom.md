@@ -6,17 +6,17 @@ date: 2005-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Third Intermediate Period", "Ancient Egypt", "Pharaohs", "Religion", "Archaeology"]
 excerpt: "How Egypt split after the New Kingdom: a Delta king at Tanis and a Theban priest-ruler divided the country by negotiated agreement, not by a civil war."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-12-01
+lang: en
 ---
-
 Somewhere around 1069 BCE, Egypt stopped being one country and nobody fought a war about it. A king ruled from Tanis in the eastern Delta with the full titulary of pharaoh. Six hundred miles upriver at Thebes, the high priest of Amun governed Upper Egypt with military command, control of the temple estate, authority over the necropolis, and, on some monuments, his name written inside a cartouche. Documents in the south were dated by the regnal years of the northern king. The two families intermarried. The arrangement held for roughly a century and a quarter.
 
 That is one of the strangest political settlements in ancient history, and it is routinely described in a single sentence and passed over. It deserves better, because the mechanism by which a unitary monarchy became a two-power state without a civil war explains more about how Egypt actually worked than any account of a battle. The claim this article defends has a name: the two-Egypts thesis. The post-New-Kingdom split did not produce chaos. It produced a stable dual arrangement, a Delta king and a Theban priest-ruler sharing a fractured land by negotiation, each recognizing the other's sphere, and each unable and largely unwilling to absorb the other.
 
-![How Egypt split after the New Kingdom into Tanis and Thebes, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Egypt split after the New Kingdom into Tanis and Thebes, explained - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 What changed because of this event is easy to state and hard to overstate. Egyptian kingship, which had claimed for seventeen hundred years to be single, indivisible, and the sole legitimate mediator between the human and divine orders, was demonstrated to be separable from actual government. The temple, which had been an institution inside the state, became a government in its own right. And the political center of gravity moved permanently north, so that no Egyptian capital after this point would ever again be in Upper Egypt. The four centuries that followed, and the dynasties, foreign rulers, and eventual reunification that filled them, are covered in the article on [the Third Intermediate Period](/2005/11/01/third-intermediate-period-egypt/), which is this cluster's hub. What follows here is the split itself: how it happened, why it took the form it did, and what it cost.
 

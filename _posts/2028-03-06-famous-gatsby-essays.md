@@ -6,17 +6,17 @@ date: 2028-03-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Essay Writing", "American Literature", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "Famous critical essays on Great Gatsby scholarship: the landmark readings that shaped the novel's interpretation, and how to use them in an exam essay."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-03-06
+lang: en
 ---
-
 Type famous critical essays on Great Gatsby into a library catalog and you will get several hundred results, most of them useless to you. The problem is not scarcity. Fitzgerald's third novel has attracted more academic attention per page than almost any book in American literature, and the volume is precisely what makes the search hard. What a student actually needs is not a bibliography but a map: which pieces of scholarship changed what everyone else was allowed to say afterward, and what each of them argued.
 
 That is a much shorter list, and it is learnable in an afternoon. Roughly a dozen readings did the structural work. They established the terms, opened the disputes, and set the positions that any new argument now has to answer or extend. Knowing them is not a matter of collecting names to sprinkle into a paragraph. It is a matter of understanding the conversation your own reading is joining, which is the difference between an essay that sounds informed and an essay that is.
 
-![Landmark critical essays on The Great Gatsby and the readings that shaped the novel's interpretation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Landmark critical essays on The Great Gatsby and the readings that shaped the novel's interpretation - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The claim this article defends is that these are the readings that taught us how to read it. Nobody arrives at the green light, the reliability of the narration, or the argument about the dream by unaided observation. Those approaches were invented, by identifiable people, at identifiable moments, and they became so standard that they now look like properties of the novel rather than choices about how to look at it. Recovering the choices is the point.
 

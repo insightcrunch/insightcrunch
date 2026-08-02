@@ -6,17 +6,17 @@ date: 2005-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ramesses II", "New Kingdom", "Ancient Egypt", "Warfare", "Historiography"]
 excerpt: "Did Ramesses II lose the Battle of Kadesh? The Egyptian monuments claim triumph, but the strategic outcome and the later treaty point to a costly draw."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-10-01
+lang: en
 ---
-
 Ramesses II covered the walls of Egypt with the Battle of Kadesh. It appears at Abydos, at Karnak, at Luxor, on the Ramesseum, and at Abu Simbel, narrated in two long texts conventionally called the Poem and the Bulletin, illustrated in relief cycles showing the king alone in his chariot scattering the enemy before him. No other single event in Egyptian history received a publicity campaign remotely comparable. That fact alone should make a careful reader suspicious, because states do not usually need to say a thing five times when it is obviously true.
 
 The debate this article settles is straightforward to state and genuinely contested. One position takes the Egyptian record at something close to its own valuation: Ramesses faced an ambush that should have destroyed his army, rallied, counterattacked, and drove the Hittite force from the field, which is a battlefield victory whatever happened afterward. A second position, common in popular accounts that enjoy correcting monuments, holds that Ramesses was comprehensively beaten and covered it up, and that Kadesh was a Hittite victory. A third position, which is where mainstream Egyptology has largely settled and which this article defends, holds that the battle itself was tactically inconclusive and that its strategic result favored the Hittites.
 
-![Did Ramesses II lose the Battle of Kadesh, the debate explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Did Ramesses II lose the Battle of Kadesh, the debate explained - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The verdict argued here has a name: the propaganda-victory verdict. Kadesh was a tactical draw and a strategic setback, dressed for domestic consumption as a personal triumph of the king. Ramesses won the monuments war far more decisively than he won anything in Syria, and the proof is not a modern skeptic's hunch but the map: the city he marched on stayed in Hittite hands, the vassal territory he had gained changed sides back, and sixteen years later he signed a treaty of equals with the power he claimed to have crushed. Great kings do not sign parity treaties with defeated enemies.
 

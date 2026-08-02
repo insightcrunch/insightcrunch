@@ -6,15 +6,15 @@ date: 2028-03-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "The American Dream", "Nick Carraway", "Themes", "American Literature"]
 excerpt: "Is Gatsby a critique or a celebration? The novel does both at once, condemning the dream's corruption while exalting the dreamer's rare capacity for hope."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-03-20
+lang: en
 ---
-
 Is Gatsby a critique or a celebration? The question sounds like a multiple choice item with one correct answer hiding behind it, and generations of students have approached it that way, hunting for the evidence that will let them cross out the wrong option. That approach fails, and it fails for an instructive reason. The novel supplies overwhelming evidence for both readings, and it supplies that evidence in the same sentences, sometimes in the same clause. A reader who arrives determined to prove that Fitzgerald is condemning the world he describes will find corpses, corruption, and a narrator who calls the rich careless. A reader who arrives determined to prove that Fitzgerald is exalting that world will find the most rhapsodic prose in American fiction attached to a bootlegger's parties and a bootlegger's hope. Both readers are right about their evidence. Both are wrong about the shape of the question.
 
-![Is The Great Gatsby a critique or a celebration of the American Dream explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Is The Great Gatsby a critique or a celebration of the American Dream explained - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 What follows is a survey of the debate as a debate: what each side argues, which passages each side owns, where the two readings genuinely collide, and what resolution the text actually supports. The argument advanced here is that the novel critiques the dream's corruption while celebrating its dreamer's wonder, and that these are not two incompatible positions the reader must choose between but two operations the book performs at once on different objects. Nick Carraway's final verdict is not a fence-sitting compromise. It is the honest record of a doubleness the text sustains from its first page to its last.
 

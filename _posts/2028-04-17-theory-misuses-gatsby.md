@@ -6,15 +6,15 @@ date: 2028-04-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Close Reading", "Essay Writing", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The misuses of theory when reading Gatsby wreck good essays: imposed frameworks, jargon, cherry-picked evidence, and the corrective practice for each."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-04-17
+lang: en
 ---
-
 The misuses of theory when reading Gatsby are not exotic failures committed by careless undergraduates alone. They appear in published criticism, in classroom handouts, in the confident paragraph a strong student writes at eleven at night, and in the machine-generated summaries that now circulate faster than the criticism they imitate. A critical lens is a device for making evidence visible, and like any instrument it can be pointed at nothing, calibrated wrongly, or used to manufacture the reading it was supposed to discover. When that happens the result is not a neutral loss. It is a positive distortion: a reading that sounds more sophisticated than an honest paraphrase while telling you less about the book.
 
-![The common misuses of critical theory when reading The Great Gatsby, and the corrective practice for each error - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The common misuses of critical theory when reading The Great Gatsby, and the corrective practice for each error - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 This article is the corrective companion to the method guide. Where the practical walkthrough of [how to apply a critical lens to Gatsby](/2028/03/27/apply-critical-lens-gatsby/) teaches the procedure, this one anatomizes the ways the procedure goes wrong, names each failure precisely enough to recognize in your own draft, and pairs every error with the specific practice that repairs it. The claim it defends is blunt: theory misused is worse than no theory at all, because a bad paraphrase merely fails to illuminate the novel while a badly handled framework actively obscures it, and does so behind a vocabulary that discourages challenge.
 

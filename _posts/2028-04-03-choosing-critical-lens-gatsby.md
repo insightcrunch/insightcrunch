@@ -6,15 +6,15 @@ date: 2028-04-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "Essay Writing", "American Literature", "Close Reading", "Themes"]
 excerpt: "Choosing a critical lens for a Gatsby essay means matching framework to evidence. Test which questions your passages can answer with specific quoted words."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-04-03
+lang: en
 ---
-
 Choosing a critical lens for a Gatsby essay is the decision that determines how much work the rest of the essay will be, and most students make it backward. They pick the framework that sounded most interesting in the seminar, or the one they can define most confidently, and then discover four hundred words into a draft that the novel will not answer the questions they are asking. The fix is not to know more theory. The fix is to reverse the order of the decision: start from the passages you intend to discuss, ask which framework's questions those passages can answer with specific words, and let the evidence select the apparatus.
 
-![Choosing a critical lens for a Gatsby essay matched to topic and evidence - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Choosing a critical lens for a Gatsby essay matched to topic and evidence - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The claim this article defends is that the right framework is the one your evidence rewards. A paper about money and standing reaches for a Marxist or sociological apparatus because the novel supplies dense economic detail those questions can process. A paper about Daisy or Jordan reaches for a feminist apparatus because the narration's treatment of women's speech is a formal feature that framework is built to notice. A paper about Gatsby's relation to time reaches for a psychoanalytic apparatus because repetition and displacement are what that framework reads. Picking well is not a preliminary to the real work. It is roughly half of it, because a good match makes the analysis available and a bad one makes it impossible.
 

@@ -6,17 +6,17 @@ date: 2021-11-01
 categories: ["Leisure"]
 tags: ["Football", "Franck Ribery", "Defending", "Tactics", "Coaching"]
 excerpt: "How defenders stopped Franck Ribery: what to do when show him onto his weaker foot stops working, and the three instructions that replace that cue today."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-11-01
+lang: en
 ---
-
 There is one instruction in football that is issued more often than any other. It is given to nine-year-olds in their first defensive session and to internationals in their last team meeting, it is shouted from touchlines in every country on earth, and it is the load-bearing sentence in almost every wide defensive plan ever written: show him onto his weaker foot. Against Franck Ribery it was unavailable, and the interesting question is not why that made him difficult. It is what a defender is supposed to do instead, because the instruction is so universal that most coaching vocabularies contain no replacement for it.
 
 That gap is the subject of this article. A wide player who operated from either flank, who could turn in spaces most players cannot receive in, and who was effective enough on both sides that no defender could bank on one of them, across Marseille, Bayern Munich, Fiorentina, and Salernitana and a long international career with France, exposed something structural about how the sport teaches defending. Almost all wide defensive coaching is built on a hidden assumption of asymmetry, and when the asymmetry is absent the whole instructional apparatus goes quiet.
 
-![How defenders stopped Franck Ribery, defending a two footed wide player - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Franck Ribery, defending a two footed wide player - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The claim this article advances has a name: the manufactured weak side. When an opponent has no weaker foot, the defending side must build the asymmetry structurally, with a second body positioned to make one route expensive, because a duel with no asymmetry is a coin toss and no plan should ever be built on one. That sentence is the whole argument, and everything below is either the mechanism behind it, the cost of applying it, or the three replacement instructions it produces.
 

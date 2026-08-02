@@ -6,17 +6,17 @@ date: 2021-10-01
 categories: ["Leisure"]
 tags: ["Football", "Diego Maradona", "Defending", "Tactics", "Coaching"]
 excerpt: "How defenders stopped Diego Maradona: the man marking assignment rebuilt from its parts, why it broke down, and the two pieces still worth coaching today."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-10-01
+lang: en
 ---
-
 The team sheet named a shape, and then it named one player, and the second thing mattered more than the first. Somewhere in the tactical archive of the sport there is a version of that sheet that reads, in effect: you have Diego Maradona. Not the left channel. Not the pocket between the lines. Not a zone with a boundary you can hand off at when he crosses it. Him. Wherever he walks, for the length of the match, and if he wanders to the far touchline to take a throw-in, you are standing next to him when he takes it. That instruction has all but vanished from professional football, and because it has vanished, most coaches working today have never watched the job performed properly by someone who was trained to do it. They have inherited the conclusion, which is that man-marking failed, without ever having seen the argument.
 
 That gap is the reason this duel is worth rebuilding piece by piece rather than admiring from a distance. The man-marking assignment was not a mood or an attitude. It was a job description with measurable components: a starting distance, a goal-side reference, a rule about whether to follow across the pitch or release at a boundary, a covering player behind, and a midfield obligation to make the pass into the marked man difficult in the first place. Each of those components had a purpose, each could be executed well or badly, and each can be evaluated. When a marker was beaten, the failure usually sat in one identifiable component rather than in the concept. Knowing which component failed, and why this particular opponent made one of them collapse faster than the others, is the difference between a nostalgia piece and a coaching document.
 
-![How defenders stopped Diego Maradona, the man marking assignment reconstructed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Diego Maradona, the man marking assignment reconstructed - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The claim this article defends is narrow and it has a name. Call it the isolation failure. Man-marking did not die because marking a man is conceptually wrong; players are still marked, at corners, at free kicks, on a designated opponent in a mid-block, and in almost every youth curriculum in the world. It died because a marker without a screening midfielder in front of him is alone against the best individual in the fixture, and no defender alive wins that contest often enough to build a plan on. Modern zonal defending spends its resources on the pass rather than on the man precisely because the pass is the cheap intervention and the duel is the expensive one. Everything that follows is an elaboration of that sentence, tested against the single hardest case the method ever faced.
 

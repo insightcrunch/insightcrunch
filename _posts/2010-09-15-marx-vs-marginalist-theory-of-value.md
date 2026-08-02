@@ -6,17 +6,17 @@ date: 2010-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Labour Theory of Value", "Marginalism", "Marxist Economics", "Political Theory", "Philosophy"]
 excerpt: "Marx versus marginalism on the theory of value: what each framework sets out to explain, where the two genuinely compete, and a verdict on the overlap."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-09-15
+lang: en
 ---
-
 The most argued comparison in this entire subject is conducted almost entirely by people who have not noticed that the two frameworks are answering different questions. One side declares that the marginal revolution refuted Marx. The other declares that marginalism describes appearances while the labour theory explains essences. Neither statement can be assessed, because neither side has specified the criterion on which the comparison is being made, and until a criterion is named the contest has no scoring system.
 
 This article names the criterion, applies it across seven dimensions, identifies the narrow territory where the two frameworks genuinely compete for the same explanatory job, and delivers a verdict on that territory rather than a verdict on everything. It also disposes of a chronological error so widespread that it appears in university lecture notes: Marx did not reject marginal utility theory, because the first volume of Capital appeared in eighteen sixty-seven and the founding marginalist texts appeared four and seven years later. Whatever the labour theory of value is, it is not a response to marginalism, and the passages people cite as Marx's dismissal of subjective valuation are directed at earlier writers.
 
-![Marx versus the marginalist theory of value, the seven-dimension comparison - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marx versus the marginalist theory of value, the seven-dimension comparison - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 The reader who finishes should be able to say precisely what each framework was built to explain, name the one question both of them answer, state which does that job better and on what evidence, and recognise the third framework that neither camp mentions because it embarrasses both. That last item is the reason most comparisons of this kind are unreliable: they present a two-way contest in a field that has had at least three serious contenders since the middle of the twentieth century.
 

@@ -6,17 +6,17 @@ date: 2005-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "New Kingdom", "Ramesside Egypt", "Ancient Egypt", "Archaeology", "Pharaohs"]
 excerpt: "Tomb robbery in the late New Kingdom was an economic symptom, not simple greed, and its trial papyri record an Egyptian state that had run out of ways to pay."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-09-01
+lang: en
 ---
-
 Tomb robbery is usually told as a crime story: masked men in the dark, a hole cut through plaster, gold vanishing into the night. Read that way it explains nothing. The wave of tomb robbery that swept the Theban necropolis in the last century of the New Kingdom is better read as an accounting document. It tells you what the Egyptian treasury could no longer do, how much grain a workman could no longer buy, which officials had stopped being able to enforce anything, and how far the reach of the pharaoh's writ had contracted from the Delta to the valley and finally to the walls of a single temple compound. The plundered royal tombs of western Thebes are the most legible economic indicator the late Twentieth Dynasty left behind.
 
 That is the claim this article defends, and it has a name: the robbery-as-symptom thesis. Late New Kingdom tomb robbery was not a moral failure of a generation that had lost its reverence for the dead. It was the predictable output of a payment system that had stopped paying, a grain market that had become unpredictable, a police and judicial apparatus that had become purchasable, and a monarchy that had lost the capacity to project force into its own necropolis. Where a modern state would leave a record of inflation in price indices and arrears in payroll ledgers, Egypt left a record in confession transcripts. Both measure the same thing.
 
-![Tomb robbery and the fall of the New Kingdom in Egypt, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tomb robbery and the fall of the New Kingdom in Egypt, explained - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 The evidence base for this is unusually good, which is the second reason the subject matters. Ancient economic collapse is normally reconstructed from silences: a settlement stops being occupied, a pottery style stops being made, a temple stops being repaired. Here the Egyptian state investigated its own crisis, took depositions, cross-examined witnesses, recorded confessions, listed names and occupations, and filed the results. The documents survive. They are conventionally called the Tomb Robbery Papyri, and they include the roll now known as Papyrus Abbott, the confession text known as the Leopold II-Amherst papyrus, the Mayer papyri in Liverpool, and a cluster of British Museum rolls catalogued in the ten-thousand series. Together they give a picture of who robbed royal tombs, how, with whose help, and what happened when they were caught. Very little of the ancient economy is documented this closely.
 

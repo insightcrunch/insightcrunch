@@ -6,17 +6,17 @@ date: 2010-03-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Education Policy", "American History"]
 excerpt: "Civil Rights Act of 1964 impact assessed by domain: fast change in public accommodations and southern schools, and employment effects economists dispute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2010-03-15
+lang: en
 ---
-
 A statute can be judged against many things: the hopes of the people who marched for it, the fears of the people who opposed it, or the standard a later generation applies. The most defensible test, and the one this article uses, is the statute's own stated aims. The Civil Rights Act of 1964 impact question therefore has three separate answers rather than one, because Congress wrote three largely independent enforcement designs into a single law and they performed very differently. Public accommodations changed fast and the change is not seriously disputed. School desegregation in the South accelerated sharply and the mechanism is well documented. Employment outcomes moved, but how much of that movement the statute caused has been argued among serious economists for four decades and is not settled.
 
 That unevenness is the finding, not a complication to be smoothed over. A reader who leaves with a single verdict on whether the act worked has been given a worse answer than the evidence supports. A reader who leaves able to say which domain the claim concerns, what the best available evidence is in that domain, and how contested the causal inference remains, can evaluate almost any assertion made about this statute.
 
-![Civil Rights Act of 1964 impact on public accommodations, schools and employment explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Civil Rights Act of 1964 impact on public accommodations, schools and employment explained - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The argument this article advances, and the thing that organizes the three domains, is what it calls the money-lever finding: the act's largest and fastest measurable effects came where it attached federal funds to compliance, not where it created a right to sue. Title VI, the shortest and least discussed of the operative titles, outperformed its reputation by a wide margin. Title VII, the longest and most litigated, underperformed its own for the better part of a decade. If that ordering seems backward, it is because public attention follows litigation and litigation is a slow, expensive, individually initiated remedy, while a funding condition operates on every recipient at once and requires no plaintiff.
 

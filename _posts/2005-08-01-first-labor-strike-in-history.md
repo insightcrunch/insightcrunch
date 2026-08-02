@@ -6,17 +6,17 @@ date: 2005-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Deir el-Medina", "New Kingdom", "Ancient Egypt", "Archaeology", "World History"]
 excerpt: "The first labor strike in history took place in Egypt, when the royal tomb workers of Deir el-Medina downed tools over grain rations eighteen days overdue."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-08-01
+lang: en
 ---
-
 In the twenty-ninth year of Ramesses III, around 1157 BCE, the men who cut and painted the tombs of Egypt's kings stopped working, walked off the job, and sat down behind the walls of a royal mortuary temple. Their grain rations were roughly eighteen days late. They stayed there, moved to other temples over the following days, called out that they were hungry, and refused to return until they were paid. A village scribe named Amennakht recorded what happened, day by day, on a papyrus that survives.
 
 That document is the earliest known account of a labor strike anywhere in the world, and it is the reason this episode matters far beyond Egyptology.
 
-![The first recorded labor strike in history at Deir el-Medina under Ramesses III, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The first recorded labor strike in history at Deir el-Medina under Ramesses III, explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The claim this guide defends can be named so it can be argued with: call it the wages-as-obligation thesis. The strike happened because the workmen understood their rations not as a gift from a generous king but as a wage owed under a standing arrangement, and because they believed that a failure to deliver broke an obligation they were entitled to protest. That is a specific and testable claim about how ordinary Egyptians understood their relationship to the state, and it runs against the assumption that people in ancient societies were powerless subjects with no concept of entitlement.
 

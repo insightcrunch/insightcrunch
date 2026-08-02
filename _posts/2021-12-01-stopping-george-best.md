@@ -6,17 +6,17 @@ date: 2021-12-01
 categories: ["Leisure"]
 tags: ["Football", "George Best", "Defending", "Tactics", "Coaching", "Player Development"]
 excerpt: "How defenders stopped George Best, why permissive contact reshaped the wide duel, and what a modern coach should and should not copy from that old era."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-12-01
+lang: en
 ---
-
 A coach who wants to understand how defenders stopped George Best has to accept an uncomfortable starting point: for most of his career, the defender facing him was allowed to do things that would now produce a red card before the winger reached the byline. That single fact governs everything else. The wide duel of that period was not the wide duel of today with worse pitches and heavier balls. It was a structurally different contest, with a different set of legal tools, a different distribution of risk between attacker and defender, and therefore a different technical profile in the players who thrived in it. Any analysis that skips this and goes straight to the dribbling is analysing the wrong contest.
 
 That is why this article is not a highlights commentary. It is an attempt to answer the question a serious coach actually has when the old footage comes on: what in this duel is transferable to my full-back on Saturday, what is now illegal, and what is neither illegal nor transferable but merely obsolete, because the conditions that made it sensible no longer exist. Those three categories are not the same, and confusing them is the most common analytical error made about football of that era.
 
-![How defenders stopped George Best, the wide duel under permissive contact and what transfers to modern coaching - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped George Best, the wide duel under permissive contact and what transfers to modern coaching - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 ## What the George Best duel actually was
 

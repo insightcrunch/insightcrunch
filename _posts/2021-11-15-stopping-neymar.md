@@ -6,17 +6,17 @@ date: 2021-11-15
 categories: ["Leisure"]
 tags: ["Football", "Neymar", "Defending", "Tactics", "Coaching"]
 excerpt: "How defenders stopped Neymar: the contact-discipline protocol for a duel in which winning the ball and conceding a free kick both count as real losses."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-11-15
+lang: en
 ---
-
 In almost every duel a defender contests, he has one objective and one failure state. Win the ball, or do not. Against Neymar, and against the small group of forwards who share his combination of close control in confined areas and rapid changes of direction, that arithmetic breaks down, because the defender can lose in three separate ways and two of them do not involve the ball at all. He can be beaten. He can concede a free kick in a zone where a stationary ball is a scoring chance. And he can receive a caution that changes how he defends for the remaining hour, which converts one bad moment into a permanent reduction in his own team's defensive capacity.
 
 That is the duel this article teaches, and it is taught as a risk-management problem rather than as a contest for possession, because that is what it actually is. What a defender needs facing this profile is not a better tackling technique. It is a contact-discipline protocol: a rule for where his arms go, a rule for how close he gets, a rule about when a second body makes contact unnecessary, and a separate rule for what changes once he has been cautioned.
 
-![How defenders stopped Neymar, contact discipline against a close control dribbler - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Neymar, contact discipline against a close control dribbler - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 ## A Note on What This Article Deliberately Does Not Do
 

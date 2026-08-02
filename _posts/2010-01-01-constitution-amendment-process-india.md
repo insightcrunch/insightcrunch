@@ -6,17 +6,17 @@ date: 2010-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Federalism", "UPSC"]
 excerpt: "The constitutional amendment process in India has three routes and four gates, and this guide shows how to classify any change and what each route demands."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2010-01-01
+lang: en
 ---
-
 The constitutional amendment process in India is described almost everywhere in a single sentence about a two-thirds majority, and that sentence is wrong often enough to be useless. It is wrong because the special majority is two requirements, not one. It is wrong because a large class of changes to the Constitution does not go through Article 368 at all. It is wrong because it omits the states, which hold a veto over an identified set of federal provisions and have exercised it in effect within living memory. And it is wrong because it stops before the stage at which amendments have actually been defeated, which is not the floor of either House but the courtroom.
 
 What follows is built to be operated rather than memorised. By the end of it a reader should be able to take any change to the Constitution, proposed or enacted, and place it in the correct route within a minute, state the arithmetic that route demands, name the point at which the proposal is most likely to die, and say whether the courts have anything to work with if it passes. That is a different skill from knowing that Article 368 exists, and it is the skill that the standard account never quite delivers.
 
-![How the constitutional amendment process in India works under Article 368 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the constitutional amendment process in India works under Article 368 - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The Constitution of India has been amended more than a hundred times. That figure is usually deployed to prove one of two opposite propositions: that the document is dangerously easy to alter, or that its framers built a living instrument responsive to a changing country. Both readings treat amendment as a single undifferentiated activity, which is the root error. Some amendments require nothing more than an ordinary majority in a thin House on a quiet afternoon. Some require a negotiated coalition across party lines in both Houses and the assent of more than half the state legislatures. One of them cleared every procedural hurdle, secured ratification from sixteen state legislatures, and was still struck down. Another was passed with the correct majorities in both Houses and was later held void in substantial part because nobody had noticed that it needed the states. Amendment in India is not hard or easy. It is hard in specific, identifiable places, and this article is about locating them.
 

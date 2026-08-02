@@ -6,17 +6,17 @@ date: 2021-10-15
 categories: ["Leisure"]
 tags: ["Football", "Arjen Robben", "Defending", "Tactics", "Coaching"]
 excerpt: "How defenders stopped Arjen Robben: the geometry of a move everybody predicted, why anticipation never prevented it, and the two counters that worked."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-10-15
+lang: en
 ---
-
 Every full-back who ever lined up against Arjen Robben knew exactly what was coming. Not approximately, not as a tendency to be weighed against alternatives, but with something close to certainty: receive on the right flank, drive inside onto the left foot, strike toward the far corner. The scouting report was one sentence long and it was correct. And the move worked anyway, over a career spanning Groningen, PSV, Chelsea, Real Madrid, Bayern Munich, and a long international career with the Netherlands, against defenders who had watched hours of footage and against coaching staffs who had built entire meetings around that single sentence.
 
 That is not an anecdote about a great player. It is the most instructive problem in individual defending, and it is almost universally explained badly. The popular account treats it as a failure of execution or concentration, which is why the internet has produced a decade of clips captioned with variations on how a professional could possibly not stop something so obvious. That account is wrong, and it is wrong in a way that has real coaching consequences, because it teaches young defenders and their coaches that the answer lies in trying harder rather than in a decision that has to be made somewhere else.
 
-![How defenders stopped Arjen Robben, the geometry of a predictable move - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How defenders stopped Arjen Robben, the geometry of a predictable move - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The correct explanation is geometric and it is not complicated once it is stated plainly. The defender's counter to the inside drive requires him to set his body toward the inside. Setting his body toward the inside opens the outside route, and the outside route from that position is not an escape into harmlessness; it is a crossing position and a cutback into the most valuable delivery zone on the pitch. The defender is therefore not choosing between stopping the move and conceding it. He is choosing which of two dangerous outcomes to concede. Knowing what is coming tells him nothing he can use, because the knowledge was never the missing ingredient.
 

@@ -6,17 +6,17 @@ date: 2010-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Federalism", "UPSC"]
 excerpt: "The 42nd Amendment Act 1976 is widely treated as cancelled. Most of it still operates. What was struck down, what was repealed, and what quietly survived."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2010-02-15
+lang: en
 ---
-
 Almost everything written about the 42nd Amendment ends at the same place: it was passed during the Emergency, it was excessive, and it was undone. The first two propositions are accurate. The third is false, and the gap between the reputation and the record is the reason this article exists.
 
 The Constitution (Forty-second Amendment) Act, 1976 altered the Preamble, amended some forty articles and the Seventh Schedule, and added fourteen new articles along with two entirely new Parts. It is the largest single amendment ever made to the Indian Constitution, which is why it acquired the label mini-Constitution. It received assent on 18 December 1976. Within four years, parts of it had been repealed by a successor Parliament and other parts had been struck down by the Supreme Court. What is rarely said is how much of it neither Parliament nor the courts touched, and how consequential that residue turned out to be.
 
-![What the 42nd Amendment Act 1976 changed and which parts of it are still in force - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What the 42nd Amendment Act 1976 changed and which parts of it are still in force - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The argument this article makes is that judging the 42nd Amendment as a single object is the error that produces every confused account of it. It was not one thing. It contained an emergency layer built to entrench a government against removal, which was dismantled quickly; a federal layer that reorganised the division of legislative competence between the Union and the states, which nobody has ever reversed; and a rhetorical layer in the Preamble and the fundamental duties which has become politically untouchable in the opposite direction, defended most strongly by people who denounce the amendment that produced it. Separating the three is the only way to answer the question that actually matters, which is why a supposedly discredited amendment is still substantially operative.
 

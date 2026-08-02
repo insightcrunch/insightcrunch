@@ -6,17 +6,17 @@ date: 2010-01-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Congress", "Legislative Process", "Civil Rights", "American History"]
 excerpt: "How the Civil Rights Act of 1964 passed Congress: the six procedural gates H.R. 7152 cleared and the enforcement power it traded away for cloture votes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2010-01-15
+lang: en
 ---
-
 A bill can be popular, morally urgent, backed by a President and a majority of both chambers, and still die without ever reaching a vote. That had happened to civil rights legislation repeatedly since Reconstruction, and understanding how the Civil Rights Act of 1964 passed means understanding six specific places where H.R. 7152 could have been killed by a handful of people using ordinary parliamentary tools. None of those six chokepoints required an opponent to win a vote. Each of them allowed an opponent to prevent one.
 
 That is the shape of the story, and it is not the shape most accounts give. The familiar version runs on sentiment: outrage at Birmingham, grief after Dallas, a President from Texas insisting the time had come. All of that happened and all of it mattered. It also describes conditions that had been at least partly present in 1957, in 1960 and in 1962, when civil rights measures were either gutted or never reached the floor. What was different in 1964 was operational. A floor coalition that worked across party lines, a quorum roster that meant the bill's supporters were never caught short on a snap vote, a Majority Leader who kept the bill out of a committee that would have buried it, and above all a negotiated substitute that bought Republican votes with federal enforcement authority. This article reconstructs that operation gate by gate.
 
-![How the Civil Rights Act of 1964 passed the House Rules Committee and the Senate filibuster - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Civil Rights Act of 1964 passed the House Rules Committee and the Senate filibuster - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 ## The statute and the bill
 

@@ -6,17 +6,17 @@ date: 2010-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Das Kapital", "Karl Marx", "Exam Preparation", "Marxist Economics", "Political Theory"]
 excerpt: "Capital Volume One exam guide: the four passages that carry every answer, the distinction that earns marks, and the citation habit that survives editions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-10-15
+lang: en
 ---
-
 A candidate who has read four passages of Capital properly will outscore a candidate who has read the whole book and cites it vaguely. That is not a consolation for the unprepared; it is a statement about what assessments in this area actually reward, which is located evidence deployed against a specific question, not coverage. Markers cannot give credit for reading. They give credit for a definition stated with its qualifying clause intact, a mechanism run correctly, a passage named precisely enough that they can find it, and an evaluation that identifies what a critic was targeting.
 
 This guide sets out the four passages, the mechanism each one unlocks, the answer structures that work across the assessment formats where this material appears, the evaluative moves that lift a script into the top band, and the two errors that cap a script no matter how much else is right. It also solves a problem no revision resource addresses: chapter numbers in Capital differ between the German and the English editions, so a candidate who cites a chapter number may be pointing a marker at a different passage from the one they mean.
 
-![Capital Volume One exam guide, the four passages and the answer matrix - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Capital Volume One exam guide, the four passages and the answer matrix - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The content itself is not the business of this article. What the book argues, how the argument is built, and how to work through the text belong to [the complete guide to Capital Volume One](/2010/06/01/capital-volume-one-complete-guide/) and to [how to read Capital Volume One](/2010/06/15/how-to-read-capital-volume-one/), which own those questions. What follows is the assessment layer: how the material is examined, what an answer must contain, and how to build one under time pressure.
 

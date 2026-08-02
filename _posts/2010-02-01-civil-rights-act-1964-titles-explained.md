@@ -6,17 +6,17 @@ date: 2010-02-01
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Labor Law", "American History"]
 excerpt: "The Civil Rights Act of 1964 title by title: the covered entities, thresholds, express exemptions and defenses that decide any real coverage question."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2010-02-01
+lang: en
 ---
-
 A boarding house with four rooms for rent, a barber shop inside a hotel lobby, a private supper club that admits anyone who pays the annual fee, a company with twelve employees, a university department that takes one federal research grant while the rest of the institution takes none. Each of these is a real coverage question under the Civil Rights Act of 1964, and each is answered by specific words in the statute rather than by the general principle the act stands for. This article works through those words.
 
 The method matters as much as the answers. Almost every dispute about what the act reaches turns on one of four textual devices: how a title defines the entity it binds, what size or connection threshold that entity must clear, what the title expressly carves out, and what defense a covered party may raise once it is inside the statute. Learn to find those four in any title and most coverage questions resolve without a lawyer. Confuse a carve-out with a defense, which is the most common error in reading this statute, and the answer will be wrong in a way that is hard to detect.
 
-![The Civil Rights Act of 1964 title by title with covered entities, thresholds and exemptions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Civil Rights Act of 1964 title by title with covered entities, thresholds and exemptions - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 ## The text, and how it is numbered
 

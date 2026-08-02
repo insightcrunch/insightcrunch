@@ -6,17 +6,17 @@ date: 2010-04-01
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Supreme Court", "Labor Law"]
 excerpt: "Civil Rights Act of 1991 amendments explained, with the 1972, 1978, 1988 and 2009 statutes that rewrote the 1964 act and what the law actually requires now."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2010-04-01
+lang: en
 ---
-
 A person who reads the enrolled text of Public Law 88-352 and stops there will get eight important things wrong. They will believe the employment title covers employers with twenty-five or more employees, that it exempts state and local governments and educational institutions, that the enforcement commission cannot go to court, that a successful plaintiff recovers no damages and has no right to a jury, that pregnancy discrimination falls outside the definition of sex discrimination, that the federal funding titles reach only the specific program that received the money, that the statute stops at the water's edge, and that a pay claim expires on a clock that starts running when the employer sets the salary. Every one of those propositions was true of the act as signed. Not one of them describes the operative law. The Civil Rights Act of 1991 amendments are the largest single reason for the gap, and they are not the only reason.
 
 This is the article that answers the question people actually mean when they ask whether the 1964 act is still in effect. It is, and asking whether a statute is in force is the easy half of the question. The useful half is what form it is in force in, because Congress has rewritten this one six times, four of those in direct response to Supreme Court decisions it disagreed with.
 
-![Civil Rights Act of 1991 amendments and the statutes that rewrote the 1964 act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Civil Rights Act of 1991 amendments and the statutes that rewrote the 1964 act - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The pattern is regular enough to name, and this series calls it the override cycle: Title VII is the clearest example in American law of a statute maintained by legislative override, in which a judicial construction produces a legislative response that rewrites the text, so that the operative text cannot be read intelligently without knowing which decisions it was written against. Section 703(k) is unintelligible without Wards Cove Packing Co. v. Atonio. Section 703(m) is unintelligible without Price Waterhouse v. Hopkins. Section 1981a exists because the original statute had no damages. The definition of because of sex includes pregnancy because the Supreme Court held in 1976 that it did not. A reader who treats the codified text as a self-contained document is reading half of a conversation.
 

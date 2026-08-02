@@ -6,17 +6,17 @@ date: 2010-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The 42nd vs 44th Amendment comparison, row by row: what Parliament reversed, what the Supreme Court struck down, and which Emergency changes still stand."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2010-03-15
+lang: en
 ---
-
 Every argument about the Emergency eventually collapses into one sentence, and the sentence is almost always wrong. One side says the 42nd Amendment was undone in 1978. The other says nothing was undone at all. A serious 42nd vs 44th Amendment comparison shows that neither claim survives a line-by-line reading, because the reversal was real, partial, and carried out by two different institutions working several years apart. Parliament pulled down the Emergency machinery. The Supreme Court pulled down the clauses that had tried to place amendments beyond judicial reach. And a third category of change, the one that has shaped Indian governance most durably, was never pulled down by anybody.
 
 That third category is the reason this comparison matters outside a history seminar. When the Union and a state government argue today about who controls school curricula, or forest clearances, or the appointment of subordinate judicial officers, they are arguing inside a constitutional arrangement written in 1976 and never rewritten. The restoration project of 1977 and 1978 touched the parts of the 42nd Amendment that threatened elections and rights. It left the parts that redistributed legislative competence exactly where they were. The question this article answers is not the loose one people usually ask, which is whether the Constitution was repaired. It is the precise one: which change was reversed, by whom, when, and what is left.
 
-![The 42nd and 44th Amendment Acts compared, showing which Emergency-era changes were reversed and which survive - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 42nd and 44th Amendment Acts compared, showing which Emergency-era changes were reversed and which survive - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 ## The two Acts, stated precisely before they are compared
 

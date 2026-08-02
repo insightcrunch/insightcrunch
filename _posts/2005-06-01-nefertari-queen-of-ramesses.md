@@ -6,17 +6,17 @@ date: 2005-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Nefertari", "Ramesses II", "New Kingdom", "Biography", "Ancient Egypt"]
 excerpt: "Nefertari explained: the Great Royal Wife of Ramesses II, her titles, her own temple at Abu Simbel, the painted tomb QV66, and the record versus romance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-06-01
+lang: en
 ---
-
 Nefertari is usually introduced as a love story, and that is the least reliable thing anyone says about her. What survives of Nefertari is not a record of feeling. It is a record of expenditure: a temple carved into a Nubian cliff and dedicated in her name, a facade on which her statues stand at the same height as her husband's, a string of titles that place her at the summit of the Egyptian court, a letter she sent to a foreign queen that was archived in a foreign capital, and a painted tomb in the Valley of the Queens whose surviving color is among the finest to come out of ancient Egypt. Those things can be measured. Affection cannot.
 
 That distinction is the organizing argument of this guide, and it deserves a name so it can be tested: call it the honored-queen thesis. The case for Nefertari's importance does not rest on inferring what Ramesses II felt about her. It rests on the observable fact that he spent state resources honoring her at a level almost no other Egyptian queen received, and that the honors were public, monumental, and permanent. Resources are evidence. Sentiment is interpretation, and in this instance the interpretation has grown so much larger than the evidence that it now obscures it.
 
-![Nefertari, Great Royal Wife of Ramesses II, her temple at Abu Simbel and painted tomb QV66 explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nefertari, Great Royal Wife of Ramesses II, her temple at Abu Simbel and painted tomb QV66 explained - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 There is a second reason to be careful with her, which is that the popular account of Nefertari has absorbed a great deal of material that belongs to other people or to nobody at all. She is regularly confused with Nefertiti, who lived roughly a century earlier and belonged to an entirely different dynasty and religious world. She is credited with a documented biography that does not exist, since her parents, her birthplace, and her age at marriage are all unknown. She is described in terms of physical beauty on the basis of images that were produced according to fixed artistic conventions and were never intended as portraits. Clearing that material away leaves less than the legend promises and more than most readers expect, because what remains is a genuinely exceptional set of monuments and one of the very few pieces of surviving correspondence written in the name of an Egyptian queen.
 

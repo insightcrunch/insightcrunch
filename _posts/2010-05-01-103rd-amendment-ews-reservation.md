@@ -6,17 +6,17 @@ date: 2010-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Social Justice", "Constitutional Law", "Judiciary", "UPSC"]
 excerpt: "The 103rd Amendment and EWS reservation explained: what Articles 15(6) and 16(6) enable, and how the Supreme Court split three to two on the challenge."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2010-05-01
+lang: en
 ---
-
 Almost every public argument about the 103rd Amendment is conducted about the wrong question. One side asks whether poverty can justify reservation and treats the answer as contested. The other asks whether the fifty per cent ceiling has been breached and treats that as decisive. Neither question was the one the Supreme Court divided on, and on the first of them the five judges who heard the challenge were unanimous. The disagreement that actually split the bench, and that still divides serious constitutional lawyers, is narrower and harder: whether a category defined by economic weakness may be constructed by excluding people who are already recognised as socially disadvantaged.
 
 Stated in terms both sides would accept, the dispute is this. Parliament created an enabling power to reserve up to ten per cent of educational seats and public posts for economically weaker sections, and defined that group to exclude the Scheduled Castes, the Scheduled Tribes and the backward classes already covered by the existing reservation provisions. Supporters say this is the only way to reach poverty that the existing framework does not address, and that people already covered by a quota cannot complain of being left out of a second one. Critics say a category from which a person is barred because of the caste group they belong to is a caste-based exclusion however it is described, and that reservation in public employment exists to secure representation rather than to relieve poverty, so an income test is the wrong instrument for it. Both statements are made in good faith by people who understand the constitutional material.
 
-![The 103rd Amendment and EWS reservation, showing what Articles 15(6) and 16(6) enable and how the Supreme Court divided - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 103rd Amendment and EWS reservation, showing what Articles 15(6) and 16(6) enable and how the Supreme Court divided - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This article does not resolve that disagreement, because it is partly a disagreement about what equality requires, which no court and no article can settle. What it does is separate the questions, state each side at full strength, set out precisely what the amendment enables and what it does not, and record with accuracy who held what in the judgment that upheld it. A very large share of the published writing on this subject gets at least one of those things wrong.
 

@@ -6,17 +6,17 @@ date: 2010-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The First Amendment Act 1951 answered three lost cases at once. The passage record, the select committee dissents and what changed before it became law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2010-01-15
+lang: en
 ---
-
 Sixteen months after the Constitution came into force, the government that had written it began rewriting it. The Constitution (First Amendment) Act, 1951 was moved by Jawaharlal Nehru on 10 May 1951, reported on by a select committee within a fortnight, passed in the first days of June, and assented to by President Rajendra Prasad on 18 June 1951. It altered the free speech guarantee, the equality guarantee and the property guarantee, and it created a schedule whose entire purpose was to place certain statutes beyond the reach of fundamental rights challenge. The legislature that did all this had never faced an electorate.
 
 That combination of speed, scope and mandate is why the First Amendment is still argued about with more heat than any other constitutional change in India apart from the Emergency amendments. The argument, though, is usually conducted without the record. Most accounts present the amendment as a single decision with a single motive: either Nehru protecting land reform from reactionary courts, or Nehru curbing a press that had begun to criticise him. Neither reading survives contact with what actually happened, because the amendment was not one decision at all. It was three separate responses to three separate judicial defeats, drafted in different parts of the government for different reasons, bundled into one bill because one bill was easier to pass than three.
 
-![How three Supreme Court judgments produced the First Amendment Act 1951 and the Ninth Schedule - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How three Supreme Court judgments produced the First Amendment Act 1951 and the Ninth Schedule - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 This article traces each clause of the amendment back to the judgment that provoked it, follows the bill through the select committee and the floor, and identifies what changed between the text Nehru introduced and the text that received assent. That gap is the analytical heart of the episode, because the most consequential single word in the amended free speech provision was not in the bill as introduced in the form it finally took, and its arrival changed the character of the restriction from a political instrument into a justiciable standard. The procedure by which all of this happened is set out separately in the guide to [how the Constitution of India is amended](/2010/01/01/constitution-amendment-process-india/), and this article assumes it rather than repeating it.
 
