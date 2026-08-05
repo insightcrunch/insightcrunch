@@ -9,7 +9,7 @@ excerpt: "Azure Container Apps explained: how the serverless container platform 
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "william-knight"
-last_updated: 2022-03-14
+last_updated: 2026-08-05
 lang: en
 ---
 Azure Container Apps is the platform engineers reach for when they have a containerized workload, want Kubernetes-grade scaling and rolling traffic control, and have no appetite for operating a cluster. That sentence hides the single decision most teams get wrong. They see "containers" and "scaling" and "Kubernetes under the hood," and they provision an Azure Kubernetes Service cluster they will spend the next year patching, upgrading, and right-sizing, when the workload would have run on a managed service that bills to zero between requests and asks nothing of them operationally. The gap between using this platform well and misusing it is not a feature gap. It is a reasoning gap about what you are actually buying, what you are giving up, and which of the three Azure container hosts your workload truly needs.

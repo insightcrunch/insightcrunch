@@ -9,7 +9,7 @@ excerpt: "Romeo greets banishment to Mantua as worse than death, and his Act 3 d
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 65
 author: "chloe-martin"
-last_updated: 2022-06-17
+last_updated: 2026-08-05
 lang: en
 ---
 Romeo never speaks the word *death* with the terror he saves for another word entirely. Standing in Friar Laurence's cell at the exact midpoint of the tragedy, having killed Tybalt in the street and learned that the Prince has spared his life, the Montague heir does not sink to his knees in gratitude. He recoils. The friar arrives with what he takes for mercy, that the sentence is removal from the city rather than execution, and the young man answers that the gentler judgment is the crueler one. "Ha, banishment? Be merciful, say 'death'," he tells the priest, "For exile hath more terror in his look, / Much more than death." The line reads easily as the overstatement of a boy who has not yet learned what death actually costs. It is also, by the play's own machinery, precisely accurate. The decree that keeps the bridegroom breathing is the decree that destroys him.

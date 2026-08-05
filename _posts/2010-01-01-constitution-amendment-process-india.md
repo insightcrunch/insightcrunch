@@ -9,7 +9,7 @@ excerpt: "The constitutional amendment process in India has three routes and fou
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 77
 author: "deepika-joshi"
-last_updated: 2010-01-01
+last_updated: 2026-08-05
 lang: en
 ---
 The constitutional amendment process in India is described almost everywhere in a single sentence about a two-thirds majority, and that sentence is wrong often enough to be useless. It is wrong because the special majority is two requirements, not one. It is wrong because a large class of changes to the Constitution does not go through Article 368 at all. It is wrong because it omits the states, which hold a veto over an identified set of federal provisions and have exercised it in effect within living memory. And it is wrong because it stops before the stage at which amendments have actually been defeated, which is not the floor of either House but the courtroom.

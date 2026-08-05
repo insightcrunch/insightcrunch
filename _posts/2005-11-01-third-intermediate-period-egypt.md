@@ -9,7 +9,7 @@ excerpt: "The Third Intermediate Period of Egypt was fragmentation, not death: f
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 78
 author: "diana-patel"
-last_updated: 2005-11-01
+last_updated: 2026-08-05
 lang: en
 ---
 The Third Intermediate Period is the stretch of Egyptian history most readers skip, and skipping it makes the rest of the story unintelligible. It runs roughly four centuries, from about 1069 to 664 BCE, covering Dynasties Twenty-one through Twenty-five, and it contains the moment when Egypt stopped being one thing. A king ruled from Tanis in the Delta while a priestly government held Upper Egypt from Thebes. Libyan families who had entered Egypt as settlers and soldiers became its pharaohs. The Delta broke into a patchwork of local rulers who each claimed royal titles. A Nubian dynasty from the far south conquered the whole country and ruled it as a revivalist restoration. Assyrian armies arrived and ended the arrangement.

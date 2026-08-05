@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Garrincha, why knowing his move changed almost n
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2021-12-15
+last_updated: 2026-08-05
 lang: en
 ---
 Nobody who prepared a side to face Garrincha was short of information about him, and that is what makes the duel worth studying. Modern football has stopped asking one of the most important questions in defensive preparation, which is how much of a defender's performance actually comes from knowing his opponent in advance. The question has been quietly answered by assumption: more information is better, video preparation is an advantage, and a side that has watched its opponent is better placed than one that has not. Nobody argues with this because the counterexample is hard to construct. You cannot run a controlled trial in which half the defenders are told nothing.

@@ -9,7 +9,7 @@ excerpt: "How defenders stopped George Best, why permissive contact reshaped the
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2021-12-01
+last_updated: 2026-08-05
 lang: en
 ---
 A coach who wants to understand how defenders stopped George Best has to accept an uncomfortable starting point: for most of his career, the defender facing him was allowed to do things that would now produce a red card before the winger reached the byline. That single fact governs everything else. The wide duel of that period was not the wide duel of today with worse pitches and heavier balls. It was a structurally different contest, with a different set of legal tools, a different distribution of risk between attacker and defender, and therefore a different technical profile in the players who thrived in it. Any analysis that skips this and goes straight to the dribbling is analysing the wrong contest.

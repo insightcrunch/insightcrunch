@@ -9,7 +9,7 @@ excerpt: "Why is The Great Gatsby the Great American Novel? A defended case that
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2022-01-24
+last_updated: 2026-08-05
 lang: en
 ---
 The phrase "Great American Novel" gets pinned to The Great Gatsby so often that the label has worn smooth, repeated until it means little more than "a book everyone agrees is important." That habit is worth resisting, because the interesting claim is not that Fitzgerald's slim 1925 novel wears the title but why it deserves one, and what that title is supposed to certify in the first place. A reader who can only say "it is a classic" has absorbed a verdict without the argument behind it. This guide rebuilds the argument from the ground up, weighing the book against the phrase's own history and against its rivals, so that you finish able to defend a position rather than recite a slogan.

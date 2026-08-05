@@ -9,7 +9,7 @@ excerpt: "App Service 500.30 is an in-process startup failure that hides its rea
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 43
 author: "jason-mckenzie"
-last_updated: 2022-06-20
+last_updated: 2026-08-05
 lang: en
 ---
 An HTTP 500.30 on Azure App Service is one of the most misread responses in the whole platform, because the page it produces tells you almost nothing and the instinct it triggers is almost always wrong. The status reads "HTTP Error 500.30 - ASP.NET Core app failed to start," and that single line is the entire message most engineers ever see. It looks like a server fault, so the reflex is to restart the site, or worse, to redeploy and wait. Neither helps, because a 500.30 is not a request that went sideways. It is the application host reporting that your process never finished starting, and until you make the real startup exception visible, every restart simply reproduces the same crash a few seconds later.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet was likely written around 1595, and the clues, from a
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2022-03-11
+last_updated: 2026-08-05
 lang: en
 ---
 A garrulous old woman, trying to fix the age of a girl she nursed, reaches for the one calendar event she can never forget: the night the ground moved. "'Tis since the earthquake now eleven years," the Nurse says in the third scene of the first act, and with that throwaway line she hands four centuries of scholars a riddle she never meant to pose. If the tremor she remembers is a real one, and if we can name its year, we can count backward and pin the composition of the most performed tragedy in the language to a single season. The trouble is that no document tells us when Shakespeare set down the first line of the work, the Nurse is the least reliable witness imaginable, and the earthquake she recalls may be any of several that shook England or Italy in the preceding decades.

@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby plot twists work as slow corrections, not shock endin
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2022-05-09
+last_updated: 2026-08-05
 lang: en
 ---
 Search the phrase Great Gatsby plot twists and you will find lists that treat the novel as a thriller with a hidden trapdoor, as though Fitzgerald saved one shocking card and slammed it down in the final pages. That framing misreads the book at the level of its design. The Great Gatsby does contain genuine reversals, moments where what you believed about a character collapses and rebuilds, but they are not gimmicks sprung for surprise. They are a controlled sequence of corrections, each one timed to change how you read everything that came before it. The novel withholds, then discloses, then reframes, and the order of those moves is the engine of the whole experience.

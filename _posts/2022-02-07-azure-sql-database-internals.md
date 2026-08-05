@@ -9,7 +9,7 @@ excerpt: "Azure SQL Database internals decoded: how service tiers map to storage
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "marcus-hall"
-last_updated: 2022-02-07
+last_updated: 2026-08-05
 lang: en
 ---
 Most teams adopt Azure SQL Database the way they would order a laptop: they pick a number that sounds big enough, accept the default, and discover the consequences in production. The number turns out to govern far more than raw speed. In Azure SQL Database the service tier you choose silently selects how your data is stored, how many copies of it exist, where those copies live, how a failure is absorbed, and what latency a single committed write will cost. The gap between using the platform and understanding it is exactly this: a developer who treats the tier as a performance slider will be surprised by latency, by throttling that looks like an outage, and by a recovery story they never designed. An engineer who reads the tier as a choice of internal architecture will provision the right shape on the first attempt and reason confidently about why it behaves the way it does.

@@ -9,7 +9,7 @@ excerpt: "Azure Monitor and Log Analytics confuse most teams. Learn metrics vs l
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 59
 author: "jason-mckenzie"
-last_updated: 2022-04-11
+last_updated: 2026-08-05
 lang: en
 ---
 The reason most teams cannot answer a simple incident question, "what was this service doing at 02:14 last night," is not that Azure Monitor and Log Analytics failed to capture the signal. It is that nobody routed the signal anywhere it could be queried. The resource ran fine, emitted its telemetry into the void, and left the on-call engineer staring at an empty result set at the worst possible moment. Azure Monitor and Log Analytics are the platform that prevents that outcome, and the gap between switching them on and actually understanding them is where almost every observability failure on Azure begins.

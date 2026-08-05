@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is often called Shakespeare's first tragedy, yet Titu
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2022-04-29
+last_updated: 2026-08-05
 lang: en
 ---
 To call a thing the first of its kind is to make a claim that sounds like a fact and behaves like an argument. The label "Shakespeare's first tragedy," fixed to Romeo and Juliet on countless syllabi, blurbs, and programme notes, is exactly that sort of claim: it feels settled, and it is not. Two awkward facts sit under it. Titus Andronicus, a Roman revenge play soaked in mutilation and a baked-pie cannibal feast, almost certainly reached the stage two or three years before the Verona love story. And A.C. Bradley, whose 1904 lectures fixed the shape of tragic criticism for a century, refused Romeo and Juliet a seat at the table of the four he treated as the real thing: Hamlet, Othello, King Lear, Macbeth. To say the Verona play comes first, then, is to walk straight past one earlier tragedy and one influential verdict that the work is a tragedy of a thinner sort.

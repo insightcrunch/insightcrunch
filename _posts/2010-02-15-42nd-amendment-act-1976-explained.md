@@ -9,7 +9,7 @@ excerpt: "The 42nd Amendment Act 1976 is widely treated as cancelled. Most of it
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "anita-das"
-last_updated: 2010-02-15
+last_updated: 2026-08-05
 lang: en
 ---
 Almost everything written about the 42nd Amendment ends at the same place: it was passed during the Emergency, it was excessive, and it was undone. The first two propositions are accurate. The third is false, and the gap between the reputation and the record is the reason this article exists.

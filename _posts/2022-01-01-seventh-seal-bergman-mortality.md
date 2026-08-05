@@ -9,7 +9,7 @@ excerpt: "The Seventh Seal stages mortality as a chess game with Death and asks 
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2022-01-01
+last_updated: 2026-08-05
 lang: en
 ---
 A knight kneels at the edge of a stone beach, the sea behind him flat and grey, and a hooded figure in black tells him plainly that his hour has come. The knight asks for a reprieve, and to win it he proposes a game. This is the opening of The Seventh Seal, Ingmar Bergman's 1957 film about a crusader who returns to a plague-ravaged homeland and plays chess against the figure of mortality while begging a God who will not speak for one clear sign that he exists. The film is short, barely ninety-six minutes, and almost everything in it has hardened into the common visual language we now use whenever a story wants to picture a person standing at the threshold of the grave.

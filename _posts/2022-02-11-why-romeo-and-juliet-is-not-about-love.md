@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet sells itself as romance, but the engine that drives e
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 
 author: "diana-patel"
-last_updated: 2022-02-11
+last_updated: 2026-08-05
 lang: en
 ---
 The first blood in Verona is spilled before either of the title characters has spoken a word. Servants brawl in a public square, a kinsman draws his rapier on the word peace itself, and an old man calls for his long sword while his wife mocks him for it. By the time the lovers meet, the play has already shown an audience what kind of world they are about to fall in love inside. The popular memory of this drama keeps only the balcony, the kiss, the poison, and the tears, and it files the whole thing under romance. That filing is the mistake this article exists to correct.

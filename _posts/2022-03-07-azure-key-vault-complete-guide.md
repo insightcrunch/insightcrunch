@@ -9,7 +9,7 @@ excerpt: "Azure Key Vault stores secrets, keys, and certificates behind two auth
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "andrew-price"
-last_updated: 2022-03-07
+last_updated: 2026-08-05
 lang: en
 ---
 Almost every Azure workload eventually needs to hold something it cannot afford to leak: a database connection string, an API token, a private key, a TLS certificate. The instinct is to drop that material into an app setting, a config file, or a pipeline variable and move on. Azure Key Vault exists because that instinct produces the breaches that show up in incident reviews months later, when a leaked connection string in a committed `appsettings.json` turns into an exfiltrated database. The service is a managed store for sensitive material, but the gap between using it and understanding it is wide, and most of the pain engineers feel with it comes from one specific design fact that the quickstart pages skip past entirely.

@@ -9,7 +9,7 @@ excerpt: "Azure API Management explained: the gateway, the four-stage policy pip
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 60
 author: "ian-fletcher"
-last_updated: 2022-04-04
+last_updated: 2026-08-05
 lang: en
 ---
 The fastest way to lose a day to Azure API Management is to assume that the error your client receives came from the service behind it. A team ships an API, fronts it with a gateway, and the first 401 or 429 lands. The on-call engineer opens the upstream logs, finds nothing, and starts chasing a problem that was never there, because the response was shaped at the edge by a policy that ran before the request ever reached the application. Azure API Management is the layer where this confusion lives, and the engineers who use it well are the ones who can say, for any given response, exactly which layer produced it and at which stage of the pipeline.

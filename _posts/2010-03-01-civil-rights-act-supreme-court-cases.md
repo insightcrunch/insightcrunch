@@ -9,7 +9,7 @@ excerpt: "Civil Rights Act Supreme Court cases in order: what Heart of Atlanta, 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 68
 author: "natalie-webb"
-last_updated: 2010-03-01
+last_updated: 2026-08-05
 lang: en
 ---
 Congress passed a statute in 1964 that told hotels, restaurants, employers, unions and federal grant recipients what they could no longer do. It did not, and could not, tell the courts what the words meant when applied to a testing program at a power plant, a supervisor's conduct on an oil rig, a paycheck issued nineteen years after the decision that set its amount, or a firing that the employer explained by pointing at an employee's participation in a recreational softball league. The Civil Rights Act Supreme Court cases are where those questions were answered, and the answers moved in both directions. The Court upheld the act's core against constitutional attack within six months of enactment, then spent five decades expanding some provisions, narrowing others, and prompting Congress to write two of its own constructions back out of the statute.

@@ -9,7 +9,7 @@ excerpt: "Nefertari explained: the Great Royal Wife of Ramesses II, her titles, 
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2005-06-01
+last_updated: 2026-08-05
 lang: en
 ---
 Nefertari is usually introduced as a love story, and that is the least reliable thing anyone says about her. What survives of Nefertari is not a record of feeling. It is a record of expenditure: a temple carved into a Nubian cliff and dedicated in her name, a facade on which her statues stand at the same height as her husband's, a string of titles that place her at the summit of the Egyptian court, a letter she sent to a foreign queen that was archived in a foreign capital, and a painted tomb in the Valley of the Queens whose surviving color is among the finest to come out of ancient Egypt. Those things can be measured. Affection cannot.

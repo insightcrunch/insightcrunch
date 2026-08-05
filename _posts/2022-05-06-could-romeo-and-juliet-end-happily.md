@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet turns on a string of near misses, a quarantined lette
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-05-06
+last_updated: 2026-08-05
 lang: en
 ---
 A friar stands at a sealed door in Verona and cannot get out. The searchers of the town, hunting for plague, have nailed up the house he entered, and the one letter that would save two lives stays in his sleeve. That is the hinge of the whole catastrophe, and Shakespeare puts it almost offhandedly into a short scene late in Act 5. Friar John reports to Friar Laurence that he never reached Mantua, and Laurence answers with a cry that names the engine of the ending: "Unhappy fortune!" The plan was sound. The timing was good. A pestilence nobody could foresee shut a door, and the message died behind it.

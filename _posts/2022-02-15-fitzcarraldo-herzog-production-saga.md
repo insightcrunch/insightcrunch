@@ -9,7 +9,7 @@ excerpt: "Fitzcarraldo had Werner Herzog haul a real steamship over a mountain r
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2022-02-15
+last_updated: 2026-08-05
 lang: en
 ---
 Most films about impossible dreams settle for the illusion of difficulty. A model is built, a matte painting is hung, a green screen does the rest, and the audience agrees to believe. Fitzcarraldo (1982) refuses that bargain at the level of its own making. The story concerns a dreamer in the Peruvian Amazon who decides to drag a riverboat over a mountain that separates two rivers, all so he can fund an opera house in the jungle. Werner Herzog, writing, producing, and directing, made the same decision his protagonist makes. He found a real, full-size steamship of more than three hundred tons, found a real hill in the rainforest, and hauled the vessel over it using period engineering and the labor of hundreds of people, with the camera running. The film and the making of the film became one fact, and that single fact is the key to everything the picture means.

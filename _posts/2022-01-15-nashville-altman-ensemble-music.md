@@ -9,7 +9,7 @@ excerpt: "Nashville turns Robert Altman's self-written songs and overlapping sou
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-01-15
+last_updated: 2026-08-05
 lang: en
 ---
 The first thing you hear in Nashville is not a melody but a sales pitch. A mock advertisement barks the film's own title and its roster of stars at you like a late-night record offer, and before the picture has shown you a single face it has already told you that everything to follow will be packaged, sold, and sung. Robert Altman's 1975 panorama of the country-music capital runs close to three hours, tracks two dozen major characters across five days, and uses its songs and its layered noise not as decoration laid over the story but as the story itself. The picture argues, through sound before anything else, that an entire country can be heard talking over itself, and that the act of listening to that din is the closest thing to understanding America the screen can offer.

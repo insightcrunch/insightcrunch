@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby characters form two linked triangles, not a flat rost
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2022-02-07
+last_updated: 2026-08-05
 lang: en
 ---
 Most readers meet the Great Gatsby characters as a list to memorize: a narrator, a millionaire, a married woman, her brutal husband, a golfer, a garage owner and his wife, a gangster. Sorted that way, the cast looks like a roster waiting for a quiz. Read that way, the novel collapses into a love story with a sad ending. The truth is more interesting and far more useful to anyone who has to write about the book. Fitzgerald did not assemble a crowd; he wired a machine. Every person in the novel exists to apply pressure somewhere in a single tight structure, and once you see how the figures connect, the plot stops feeling like a sequence of parties and accidents and starts feeling like a mechanism that could only end one way.

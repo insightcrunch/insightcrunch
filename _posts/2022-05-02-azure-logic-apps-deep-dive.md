@@ -9,7 +9,7 @@ excerpt: "Azure Logic Apps explained end to end: triggers, actions, connectors, 
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "david-thornton"
-last_updated: 2022-05-02
+last_updated: 2026-08-05
 lang: en
 ---
 Most teams adopt Azure Logic Apps for the reason it markets itself: a workflow runs without anyone writing a server, a polling loop, or a connector library by hand. The first integration ships in an afternoon, the demo lands, and the platform feels solved. The trouble arrives three months later, when a workflow that was cheap at a hundred runs a day costs real money at a hundred thousand, when a trigger that fired reliably in testing silently skips a window in production, or when a connector that authorized once starts returning unauthorized and nobody can say why. The gap between using Logic Apps and understanding it is exactly this: the visual designer hides a precise execution engine, a billing model that punishes certain workflow shapes, and a hosting choice that should have been made before the first action was dragged onto the canvas. This deep dive closes that gap so you build flows that survive scale rather than ones that look finished in a screenshot.

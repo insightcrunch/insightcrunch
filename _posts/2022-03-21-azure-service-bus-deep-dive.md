@@ -9,7 +9,7 @@ excerpt: "Azure Service Bus is an enterprise message broker. Learn queues vs top
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "jason-mckenzie"
-last_updated: 2022-03-21
+last_updated: 2026-08-05
 lang: en
 ---
 Most teams reach for Azure Service Bus the day a single synchronous call between two services stops being good enough, and most of them treat it as a glorified queue with a fancier SDK. That assumption is the source of nearly every production surprise that follows: the order that gets processed twice, the message that vanishes for thirty seconds and comes back, the subqueue nobody knew existed quietly filling with thousands of records, the consumer that throws a lock-lost error under load and gets restarted in a loop. None of these are bugs in the broker. They are the broker behaving exactly as designed, surfacing through code that was written against a mental model the broker does not actually implement.

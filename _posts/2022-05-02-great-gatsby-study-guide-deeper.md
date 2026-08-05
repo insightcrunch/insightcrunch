@@ -9,7 +9,7 @@ excerpt: "This Great Gatsby study guide replaces passive rereading with an evide
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2022-05-02
+last_updated: 2026-08-05
 lang: en
 ---
 Most students who fail a question on this novel have not failed to read it. They have read it once, maybe twice, highlighted the green light and the eyes of Doctor T. J. Eckleburg, and walked into the exam able to retell the plot and almost nothing else. A real Great Gatsby study guide has to fix the thing that actually goes wrong, which is not ignorance of the story but the inability to argue about it. The gap between a reader who can summarize the summer of 1922 and a reader who can defend a thesis about why Fitzgerald shaped that summer the way he did is the whole difference between a passing answer and a strong one, and it is almost never closed by reading the book a third time.

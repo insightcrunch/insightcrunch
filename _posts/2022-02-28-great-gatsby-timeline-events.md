@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby timeline reconstructed in true order: the buried cloc
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-02-28
+last_updated: 2026-08-05
 lang: en
 ---
 Reconstructing the The Great Gatsby timeline is the moment a careful reader stops summarizing the book and starts arguing about it. Most pages online will hand you a list of what happens, march you from the dinner at the Buchanans' through the parties to the swimming pool, and call that the sequence. They have given you the order in which Fitzgerald tells the story. They have not given you the order in which the story actually occurs, and the difference between those two arrangements is one of the most important interpretive facts about the book. The events on the page do not run in a straight line. The novel feeds in years of history out of sequence, doubles back, withholds origins, and saves the deepest layer of the past for its final pages. Sorting that scrambled telling into true chronological order is not bookkeeping. It is reading.

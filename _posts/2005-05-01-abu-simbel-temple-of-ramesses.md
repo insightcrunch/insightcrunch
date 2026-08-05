@@ -9,7 +9,7 @@ excerpt: "Abu Simbel explained: why Ramesses II cut two colossal temples into a 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2005-05-01
+last_updated: 2026-08-05
 lang: en
 ---
 Abu Simbel was never meant to be admired. It was meant to be obeyed. Two temples cut straight back into a sandstone cliff on the west bank of the Nile in Nubia, roughly two hundred and eighty kilometers upstream of Aswan, they were positioned where every boat coming down from the south, every Nubian chieftain arriving with tribute, and every Egyptian garrison commander returning from the frontier would see them before seeing anything else. Four seated figures of a single man, each about twenty meters high, faced the river and the sunrise. The message required no translation and no literacy. Egypt was here, Egypt was permanent, and the king whose face was repeated four times across the rock was the reason.

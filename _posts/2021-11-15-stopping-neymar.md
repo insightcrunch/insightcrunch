@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Neymar: the contact-discipline protocol for a du
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2021-11-15
+last_updated: 2026-08-05
 lang: en
 ---
 In almost every duel a defender contests, he has one objective and one failure state. Win the ball, or do not. Against Neymar, and against the small group of forwards who share his combination of close control in confined areas and rapid changes of direction, that arithmetic breaks down, because the defender can lose in three separate ways and two of them do not involve the ball at all. He can be beaten. He can concede a free kick in a zone where a stationary ball is a scoring chance. And he can receive a caution that changes how he defends for the remaining hour, which converts one bad moment into a permanent reduction in his own team's defensive capacity.

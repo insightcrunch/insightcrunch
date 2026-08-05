@@ -9,7 +9,7 @@ excerpt: "Azure Functions not triggering usually means a broken connection or a 
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 59
 author: "ian-fletcher"
-last_updated: 2022-07-04
+last_updated: 2026-08-05
 lang: en
 ---
 When an Azure Function silently does nothing, the instinct is to open the code and start reading the handler line by line. That instinct is almost always wrong. Azure Functions not triggering is rarely a logic bug, because a logic bug requires the runtime to have invoked your code in the first place, and a dead trigger means the runtime never got that far. The platform decided not to call your function at all, and the reason for that decision lives in the plumbing between the event source and the host, not in the body you wrote. Diagnosing this well means resisting the pull toward the handler and instead asking a colder question first: did the host start, is it connected to the source the trigger listens to, and is the function even enabled?

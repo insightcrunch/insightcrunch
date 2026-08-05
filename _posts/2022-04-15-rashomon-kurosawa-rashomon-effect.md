@@ -9,7 +9,7 @@ excerpt: "Rashomon tells one killing four irreconcilable ways, withholding any v
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2022-04-15
+last_updated: 2026-08-05
 lang: en
 ---
 A man lies dead in a grove. A bandit, a woman, the dead man speaking through a medium, and a woodcutter who watched from the trees each describe how he came to die, and no two descriptions can both be correct. Rashomon, the 1950 film by Akira Kurosawa, builds its entire structure on that fracture, and the achievement is not that it leaves the killing unsolved. Plenty of stories withhold a culprit. The achievement is that it makes the withholding itself the subject, so that the question the audience carries out of the theater is not who killed the samurai but why every person who speaks reshapes the same hour into a flattering shape, and why that reshaping feels so familiar.

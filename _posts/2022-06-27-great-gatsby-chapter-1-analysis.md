@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 1 summary and analysis: how Nick's arrival, the B
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2022-06-27
+last_updated: 2026-08-05
 lang: en
 ---
 # Great Gatsby Chapter 1: Summary and Analysis

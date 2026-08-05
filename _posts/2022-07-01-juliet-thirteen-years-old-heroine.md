@@ -9,7 +9,7 @@ excerpt: "Juliet is barely thirteen, younger than in any source, and Shakespeare
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2022-07-01
+last_updated: 2026-08-05
 lang: en
 ---
 A father stands in a Verona street and tries to slow a suitor down. His daughter, he says, has not yet seen the change of fourteen years; let two more summers wither before anyone calls her ripe to be a bride. The suitor answers that girls younger than she are already happy mothers, and the father, half conceding, half resisting, mutters that those married so early are too soon marred. The whole of the tragedy that follows is compressed into that small, almost throwaway exchange in the second scene. The bride at its center is not fifteen, not sixteen, not the maturing young woman of the books Shakespeare read before he wrote. She is twelve turning thirteen, a child by any reckoning, and within four days of that street conversation she will propose marriage, arrange a secret wedding, share a bed, lose a cousin to her new husband's sword, defy her father to his enraged face, break with the woman who nursed her, swallow a drug that may be poison, and end the action with a dagger she turns on herself. That speed, set against that age, is the engine of the play. It is also the single fact the popular memory of the story works hardest to forget.

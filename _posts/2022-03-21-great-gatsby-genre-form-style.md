@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby genre explained: this guide weighs the novel as a mod
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2022-03-21
+last_updated: 2026-08-05
 lang: en
 ---
 Ask ten readers what kind of book *The Great Gatsby* is and you will get a tangle of half-answers: a love story, a sad book about a rich man, a critique of the American Dream, a period piece about the Roaring Twenties. Each of those answers catches something true and misses the larger point, which is that the question of genre is not a librarian's filing problem but the first real act of interpretation. Naming the genre of *The Great Gatsby* commits you to a way of reading it, and most readers commit by accident. This guide replaces the accidental label with a defended one. It treats classification as an argument you build from the text rather than a tag you inherit from a teacher, and it works through the four labels the novel keeps attracting, modernist work, tragedy, romance, and social satire, before showing how its form and its style hold all of them at once.

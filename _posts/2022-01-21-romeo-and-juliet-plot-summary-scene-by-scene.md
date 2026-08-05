@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet moves faster than memory suggests, and a careful scen
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2022-01-21
+last_updated: 2026-08-05
 lang: en
 ---
 The first words spoken on stage are not about love. They are a pun about coal and a threat about violence: two Capulet servants, Sampson and Gregory, swagger through the opening of Act 1 Scene 1 trading bawdy jokes about pushing maids to the wall and carrying naked weapons, and within ninety lines the joke has become a sword fight that drags in citizens, both household heads, and finally the Prince. A reader who knows the tragedy only by reputation expects an aching romance to open it. What opens it is a street riot played first as crude comedy and then as civic emergency. That gap, between what the work is remembered as and what it actually does minute by minute, is the reason a scene-by-scene walk repays the effort. The shorthand that flattens the drama into a single mood of doomed tenderness hides a built object that keeps changing its register, and the change is the whole point.

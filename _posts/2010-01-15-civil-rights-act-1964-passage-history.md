@@ -9,7 +9,7 @@ excerpt: "How the Civil Rights Act of 1964 passed Congress: the six procedural g
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 68
 author: "michael-brooks"
-last_updated: 2010-01-15
+last_updated: 2026-08-05
 lang: en
 ---
 A bill can be popular, morally urgent, backed by a President and a majority of both chambers, and still die without ever reaching a vote. That had happened to civil rights legislation repeatedly since Reconstruction, and understanding how the Civil Rights Act of 1964 passed means understanding six specific places where H.R. 7152 could have been killed by a handful of people using ordinary parliamentary tools. None of those six chokepoints required an opponent to win a vote. Each of them allowed an opponent to prevent one.

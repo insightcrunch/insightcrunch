@@ -9,7 +9,7 @@ excerpt: "Romeo loves Rosaline before he ever meets Juliet, and this unseen firs
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 
 author: "diana-patel"
-last_updated: 2022-05-20
+last_updated: 2026-08-05
 lang: en
 ---
 When the play that carries the most famous love in English literature opens, its hero is in love with the wrong person. Before the balcony, before the shared kiss, before the vow exchanged across an orchard wall, Romeo Montague spends the first act sighing over a woman the audience never sees and the culture has agreed to forget. Her name is Rosaline. She has no lines. She never walks onstage. And yet the boy who will die for Juliet enters the tragedy already heartbroken over someone else, weeping in an artificial darkness of his own making, reciting the kind of contradictory love-talk that signals, to anyone trained in the conventions of 1595, that he does not yet know what he is talking about.

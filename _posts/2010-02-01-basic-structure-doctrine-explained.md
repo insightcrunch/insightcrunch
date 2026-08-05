@@ -9,7 +9,7 @@ excerpt: "The basic structure doctrine explained through the cases that built it
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "deepika-joshi"
-last_updated: 2010-02-01
+last_updated: 2026-08-05
 lang: en
 ---
 The basic structure doctrine is the most consequential piece of Indian constitutional law that appears nowhere in the Constitution. Nothing in Article 368 says that the amending power is limited by substance. Nothing in Part III says that some rights are more fundamental than others. The words basic structure do not occur in the constitutional text at all. Yet the doctrine has invalidated constitutional amendments, restructured the relationship between Parliament and the judiciary, and become the argument of first resort whenever a government proposes a change that its opponents consider existential.

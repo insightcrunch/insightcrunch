@@ -9,7 +9,7 @@ excerpt: "The central conflict in The Great Gatsby runs deeper than the love tri
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-05-16
+last_updated: 2026-08-05
 lang: en
 ---
 Ask twenty readers to name the central conflict in The Great Gatsby and most will say the same thing: two men want the same woman, and the richer one wins. That answer is not wrong so much as shallow, and the gap between it and the truth is the gap between a reader who has absorbed the plot and a reader who can argue about the design. The rivalry between Jay Gatsby and Tom Buchanan over Daisy is real, and it is loud, and it is where the visible drama lives. But it is a surface that a careful reader learns to look through. Underneath the shouting at the Plaza Hotel sits a quieter and far more punishing struggle, and naming it correctly is the difference between summarizing the book and understanding what Fitzgerald built.

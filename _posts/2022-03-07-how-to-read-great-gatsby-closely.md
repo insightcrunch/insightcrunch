@@ -9,7 +9,7 @@ excerpt: "Learn how to read The Great Gatsby closely with a five rung method tha
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2022-03-07
+last_updated: 2026-08-05
 lang: en
 ---
 Millions of people have read *The Great Gatsby* and remember the plot. Far fewer can open the book to any page and say something true about how a single sentence works. That gap is the whole subject of this guide. To read *The Great Gatsby* closely is to stop treating the novel as a story you summarize and start treating it as a piece of made language you can take apart, sentence by sentence, and argue about with evidence. Close reading is the skill that separates a reader who has absorbed the events from a reader who can defend a claim, and it is the one transferable ability that powers every other analytical piece in this series.

@@ -9,7 +9,7 @@ excerpt: "Title VII and the EEOC in practice: the charge process stage by stage,
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 68
 author: "jessica-kim"
-last_updated: 2010-02-15
+last_updated: 2026-08-05
 lang: en
 ---
 Title VII reads like a prohibition with teeth. It declares whole categories of employment conduct unlawful, binds employers, unions and employment agencies, and reaches hiring, firing, pay and the terms of work. Then Congress created an agency to administer it and withheld from that agency the power to order anyone to do anything, the power to sue anyone, and the general power to write binding rules. For its first eight years, the federal government's employment discrimination enforcement body operated by investigating, finding facts, and asking employers to fix things voluntarily.

@@ -9,7 +9,7 @@ excerpt: "Azure Blob Storage at engineering depth: choose blob types, master SAS
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 59
 author: "james-carter"
-last_updated: 2022-05-09
+last_updated: 2026-08-05
 lang: en
 ---
 Most teams reach for Azure Blob Storage on day one, drop a few files into a container, wire up an account key, and never look back until something breaks at scale. Then a 403 appears on a blob the application could read yesterday, an overwrite silently clobbers a file two services were both editing, or throughput flatlines at a ceiling nobody knew existed. The gap between using Azure Blob Storage and understanding it is exactly the gap between an object store that quietly absorbs everything you throw at it and a production incident that nobody can explain. This guide closes that gap. By the end you should be able to choose a blob type and an access pattern by reasoning about the workload, rather than defaulting to block blobs plus account keys because that is what the first tutorial showed.

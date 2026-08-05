@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby setting makes class physical: East Egg and West Egg f
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2022-02-21
+last_updated: 2026-08-05
 lang: en
 ---
 Most readers can name where The Great Gatsby happens long before they can say why it happens there. The setting of The Great Gatsby gets filed away as background: a rich corner of Long Island, a few mansions, some parties, a stretch of road to the city. That filing is the first mistake. Fitzgerald did not drop his characters onto a neutral map and let the plot run. He built a geography in which every address is a verdict, every distance is a social fact, and the move from one place to another carries a cost the novel makes you pay. Read the locations as a moral map rather than scenery and the book stops being a story about a man and a woman and becomes a story about a country sorted by where it is allowed to stand.

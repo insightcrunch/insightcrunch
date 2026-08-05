@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet calls its lovers star-crossed, yet nearly every death
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2022-02-04
+last_updated: 2026-08-05
 lang: en
 ---
 A chorus walks out before a single character speaks and gives the ending away. The two young people at the centre of the story will die, the audience learns in the first fourteen lines, and they will die because they are "star-crossed." The word does enormous work. It tells a Renaissance crowd that the heavens themselves have arranged this ruin, that the positions of the planets at birth have set two lives on a collision they cannot avoid. And then the drama proceeds to show almost nothing of the kind. What follows the prophecy is a sequence of ordinary human decisions: a father loses his temper, a friend draws a sword, a priest gambles on a sleeping potion, a servant rides too fast with the wrong news. Strip away the cosmic packaging and the catastrophe looks less like the work of the planets than the work of people.

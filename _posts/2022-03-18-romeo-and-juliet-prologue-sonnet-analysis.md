@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet opens with a Chorus sonnet that gives away the ending
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2022-03-18
+last_updated: 2026-08-05
 lang: en
 ---
 A single voice walks out onto a bare platform stage, and before any character has spoken, before the servants have drawn their swords, before the boy from the Montague house has even been named, that voice tells the audience exactly how the story ends. The pair of lovers will die. Their deaths will be the price that finally buries the family quarrel. Fourteen lines later the speaker withdraws, the action begins, and an audience that now knows the destination is asked to watch the journey anyway. This is the most studied opening in English drama, and it is also the strangest, because a playwright who wanted to keep his audience guessing would never have written it.

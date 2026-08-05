@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby title explained: the word great reads first as a show
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-04-04
+last_updated: 2026-08-05
 lang: en
 ---
 Most readers finish *The Great Gatsby* without ever pausing on the two words printed on its cover, and that is the first close reading they skip. The Great Gatsby title is not a label stuck on the book after the fact. It is the novel's opening argument, a verdict delivered before the first sentence, and a small machine built to mean three contradictory things at once. Fitzgerald spent months unhappy with it, proposed half a dozen alternatives, and at one point begged his editor to let him change it after the type had been set. He lost that fight, and the book is better for the loss, because the phrase he kept does something none of his other choices could. It hangs a single charged adjective over a man's bare surname and dares the reader to decide what the word is doing there.

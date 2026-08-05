@@ -9,7 +9,7 @@ excerpt: "Romeo's last speech in the Capulet tomb, eyes, look your last, is his 
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2022-06-24
+last_updated: 2026-08-05
 lang: en
 ---
 A young man breaks into a sealed monument, lifts a torch over a body he believes is dead, and instead of breaking down he begins to speak in some of the steadiest verse he has produced in the entire play. That contrast is the puzzle of Act 5 Scene 3. The Montague who spent the early scenes spilling oxymorons over a woman who would not have him, who wept on the friar's floor at the word banishment, who could not finish a sentence without a paradox, arrives at the Capulet monument and delivers a farewell so measured that actors and editors have argued for four centuries about what the control means. He addresses his eyes, his arms, his lips. He notices, and refuses to understand, the colour in the cheeks of the figure on the bier. He drinks, and he dies on a rhyme.

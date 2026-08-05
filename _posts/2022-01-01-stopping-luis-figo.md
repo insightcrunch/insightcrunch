@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Luis Figo by defending the crossing angle rather
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2022-01-01
+last_updated: 2026-08-05
 lang: en
 ---
 Most wide defending is taught around the wrong objective, and the clearest way to see it is to study a wide player whose take-on was never the point. How defenders stopped Luis Figo is a question that produces a useless answer if it is asked in the usual way, because the usual way assumes the duel is about possession of the ball. Against a delivery specialist it is not. The full-back who prevents the take-on and concedes the cross has lost the exchange. The full-back who is beaten and forces the delivery from a position his own box has already prepared for has won it.

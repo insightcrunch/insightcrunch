@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby ending explained: why Gatsby dies in the pool, who sk
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2022-05-23
+last_updated: 2026-08-05
 lang: en
 ---
 The most common way to read the ending of The Great Gatsby is also the weakest one: as a sad story about a dreamer who dies before he gets the girl. That reading is not wrong so much as small. It mistakes the funeral for the point and the death for the meaning. The closing chapters of Fitzgerald's novel are not a tragedy of romance at all. They are a verdict, delivered quietly, on who survives and who does not, and on what the survival costs the people left standing. To understand the ending of The Great Gatsby is to understand that the book stops caring about whether Gatsby gets Daisy long before Gatsby does, and turns instead to a harder question: what kind of world lets a man like Gatsby die in a swimming pool while the people who killed him drive away.

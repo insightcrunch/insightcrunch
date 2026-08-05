@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet has outlived four centuries of changing taste, yet it
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 67
 author: "chloe-martin"
-last_updated: 2022-01-07
+last_updated: 2026-08-05
 lang: en
 ---
 The earliest printed text of the tragedy, the quarto of 1597, advertises on its title page that the work had already been staged often and to great applause. That single line, set in type within a year or two of the first performances, settles one question before the argument even begins: this drama was not a slow grower, not a piece that crept toward fame across the generations. It arrived popular. The Veronese story sold tickets in the 1590s, and it has gone on selling them, in one altered shape or another, ever since. The interesting puzzle is not whether the work endures. The puzzle is why, and the honest answer is stranger than the romance industry that grew up around it would like to admit.

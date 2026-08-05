@@ -9,7 +9,7 @@ excerpt: "Civil Rights Act of 1991 amendments explained, with the 1972, 1978, 19
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 68
 author: "patrick-dunn"
-last_updated: 2010-04-01
+last_updated: 2026-08-05
 lang: en
 ---
 A person who reads the enrolled text of Public Law 88-352 and stops there will get eight important things wrong. They will believe the employment title covers employers with twenty-five or more employees, that it exempts state and local governments and educational institutions, that the enforcement commission cannot go to court, that a successful plaintiff recovers no damages and has no right to a jury, that pregnancy discrimination falls outside the definition of sex discrimination, that the federal funding titles reach only the specific program that received the money, that the statute stops at the water's edge, and that a pay claim expires on a clock that starts running when the employer sets the salary. Every one of those propositions was true of the act as signed. Not one of them describes the operative law. The Civil Rights Act of 1991 amendments are the largest single reason for the gap, and they are not the only reason.

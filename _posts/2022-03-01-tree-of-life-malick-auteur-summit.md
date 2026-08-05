@@ -9,7 +9,7 @@ excerpt: "The Tree of Life reveals Terrence Malick's auteur vision through ellip
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-03-01
+last_updated: 2026-08-05
 lang: en
 ---
 ## The directorial problem only Malick set himself

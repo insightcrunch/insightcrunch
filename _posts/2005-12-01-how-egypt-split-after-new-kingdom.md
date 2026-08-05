@@ -9,7 +9,7 @@ excerpt: "How Egypt split after the New Kingdom: a Delta king at Tanis and a The
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2005-12-01
+last_updated: 2026-08-05
 lang: en
 ---
 Somewhere around 1069 BCE, Egypt stopped being one country and nobody fought a war about it. A king ruled from Tanis in the eastern Delta with the full titulary of pharaoh. Six hundred miles upriver at Thebes, the high priest of Amun governed Upper Egypt with military command, control of the temple estate, authority over the necropolis, and, on some monuments, his name written inside a cartouche. Documents in the south were dated by the regnal years of the northern king. The two families intermarried. The arrangement held for roughly a century and a quarter.

@@ -9,7 +9,7 @@ excerpt: "An Azure App Service 503 has five distinct causes, from startup crashe
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 61
 author: "kevin-reeves"
-last_updated: 2022-06-13
+last_updated: 2026-08-05
 lang: en
 ---
 An Azure App Service 503 Service Unavailable response tells you that the front end accepted your request but could not route it to a healthy worker that was willing to answer. That single fact is the most useful thing to hold in your head, because it rules out a whole class of guesses before you start. The request reached Azure. The platform front end found your site. What it could not find was a worker process in a state to serve the response, so it returned the generic 503 page instead. The error is not telling you what broke. It is telling you that something between the front end and your application code is in the way, and the entire job of diagnosis is to find which of a small number of distinct conditions is producing it on your site right now.

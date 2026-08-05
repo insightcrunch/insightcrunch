@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet gave English the phrase star-crossed lovers, and its 
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2022-03-25
+last_updated: 2026-08-05
 lang: en
 ---
 Six lines into the Prologue, before a single character has spoken, the Chorus delivers a verdict on two people the audience has not yet met: "A pair of star-cross'd lovers take their life." The phrasing is so familiar that it slips past most listeners as a synonym for unlucky, doomed, or merely sad. That reading empties the words of their actual content. The compound did not signify unlucky to the people who first heard it in the 1590s. It named a working cosmology, a serious theory of how human lives were governed, and it pointed a finger at a precise culprit. The heavens cross these two. Something above and outside them reaches down and thwarts them. The grammar is active, and the agent is celestial.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet calls its two houses alike in dignity, but the play i
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2022-04-22
+last_updated: 2026-08-05
 lang: en
 ---
 The Chorus says it in the sixth word of the play. "Two households, both alike in dignity," the Prologue announces, and most readers hear only the word that flatters the lovers: dignity. They take the line as a frame for romance, a polite throat-clearing before the real business of moonlight and balconies begins. Yet that opening clause is a precise social claim, and it is doing colder work than it looks. To say the Montagues and the Capulets are alike in dignity is to fix their rank relative to each other, not to flatter either. Verona contains a great deal more than two equal families. It contains the servingmen who load the first scene with weapons and filthy jokes, a nurse who has suckled the heroine and still answers a bell, a kinsman of the Prince who comes shopping for a wife, a civic ruler who issues three edicts and stops nothing, and, in a back street of Mantua, a starving druggist who sells a forbidden drug because hunger leaves him no other answer. The postcard version of this tragedy erases all of them. It keeps a boy, a girl, and a balcony, and discards the society that built the balcony and decides who may stand beneath it.

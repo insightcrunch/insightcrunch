@@ -9,7 +9,7 @@ excerpt: "Romeo begins speaking in borrowed Petrarchan cliches over Rosaline, th
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2022-05-27
+last_updated: 2026-08-05
 lang: en
 ---
 When the young Montague first walks onto the stage of the play that bears his name, he does not speak like a man in love. He speaks like a man who has read about love. His opening contribution to the action is a cascade of contradictions, a wall of antitheses so polished and so impersonal that it could be lifted whole from a sonnet sequence of the 1590s and dropped into any lover's mouth: brawling love, loving hate, heavy lightness, cold fire, sick health. The verse is exquisite and the feeling is borrowed. That gap, between a dazzling surface and a hollow center, is the first and most important fact about how this character talks, and tracking what happens to it across five acts is the surest way to understand who he becomes.

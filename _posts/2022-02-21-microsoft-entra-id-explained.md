@@ -9,7 +9,7 @@ excerpt: "Microsoft Entra ID explained: the tenant, identities, app registration
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 59
 author: "william-knight"
-last_updated: 2022-02-21
+last_updated: 2026-08-05
 lang: en
 ---
 Most access problems in Azure trace back to one confusion, and Microsoft Entra ID sits at the center of it. An engineer assigns someone the Global Administrator role and is baffled when that person still gets a 403 trying to read a storage blob. A developer registers an application, gets a token, and cannot understand why the API keeps rejecting it. A team treats their cloud directory like the on-premises Active Directory they have run for a decade, then discovers that none of the muscle memory transfers. Each of these is the same mistake wearing a different costume: treating identity and resource access as one thing when Azure splits them into two distinct planes. This guide builds the mental model that dissolves the confusion, so you can reason about how an application obtains a token and what a role assignment actually grants instead of guessing.

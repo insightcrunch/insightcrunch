@@ -9,7 +9,7 @@ excerpt: "The Civil Rights Act of 1964 title by title: the covered entities, thr
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 68
 author: "michael-brooks"
-last_updated: 2010-02-01
+last_updated: 2026-08-05
 lang: en
 ---
 A boarding house with four rooms for rent, a barber shop inside a hotel lobby, a private supper club that admits anyone who pays the annual fee, a company with twelve employees, a university department that takes one federal research grant while the rest of the institution takes none. Each of these is a real coverage question under the Civil Rights Act of 1964, and each is answered by specific words in the statute rather than by the general principle the act stands for. This article works through those words.

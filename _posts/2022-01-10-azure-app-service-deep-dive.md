@@ -9,7 +9,7 @@ excerpt: "Azure App Service explained at engineering depth: how the worker model
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "andrew-price"
-last_updated: 2022-01-10
+last_updated: 2026-08-05
 lang: en
 ---
 Azure App Service is the managed application host most teams reach for first, and it is the one most teams misjudge. It runs a startling share of the production web traffic on Azure, from internal line-of-business applications to public APIs serving millions of requests, and it does so by hiding the operating system, the patching, the load balancer, and the autoscaler behind a deployment that can be as simple as a single `git push`. That convenience is exactly why engineers stop reasoning about it. They pick a plan tier from a dropdown, deploy, and discover months later that the tier they chose silently caps their scale-out, forbids their deployment slot, or blocks the virtual network integration the security team now requires. The gap between using App Service and understanding it is the gap between an application that quietly outgrows its plan and a site whose plan was a deliberate decision from the first deployment.

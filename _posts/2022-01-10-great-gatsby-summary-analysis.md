@@ -9,7 +9,7 @@ excerpt: "A Great Gatsby summary that does more than recap: a chapter-by-chapter
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2022-01-10
+last_updated: 2026-08-05
 lang: en
 ---
 Most people who search for a Great Gatsby summary want one of two things: to find out what happens, or to remember what happened before an exam or a discussion. The trouble is that the standard summary gives you the events and almost nothing else. You learn that Gatsby loves Daisy, that there is a car accident, that Gatsby dies, and you close the page knowing the shape of the story without understanding a single one of its turns. That kind of recap is enough to bluff your way through a conversation for about ninety seconds. It is not enough to say anything true about the book.

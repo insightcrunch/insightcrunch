@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Franck Ribery: what to do when show him onto his
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2021-11-01
+last_updated: 2026-08-05
 lang: en
 ---
 There is one instruction in football that is issued more often than any other. It is given to nine-year-olds in their first defensive session and to internationals in their last team meeting, it is shouted from touchlines in every country on earth, and it is the load-bearing sentence in almost every wide defensive plan ever written: show him onto his weaker foot. Against Franck Ribery it was unavailable, and the interesting question is not why that made him difficult. It is what a defender is supposed to do instead, because the instruction is so universal that most coaching vocabularies contain no replacement for it.

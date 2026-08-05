@@ -9,7 +9,7 @@ excerpt: "Azure Functions hosting plans, the scaling engine, cold starts, trigge
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 61
 author: "alex-cunningham"
-last_updated: 2022-01-24
+last_updated: 2026-08-05
 lang: en
 ---
 Most teams adopt Azure Functions for a single sentence of marketing: write a small piece of code, point an event at it, and never think about servers again. That sentence is true enough to get a proof of concept running by lunch and misleading enough to produce a production incident by quarter's end. The gap between using the platform and understanding it is where the trouble lives. An engineer who treats serverless as "the platform handles everything" eventually ships a latency-sensitive endpoint onto a tier that deallocates its workers when idle, then spends a week blaming the code for a delay the hosting model guarantees. The reader who finishes this guide will instead hold a working mental model of how the platform actually decides to add capacity, why the first request after a quiet period is slow, and which three decisions govern every behavior that matters.

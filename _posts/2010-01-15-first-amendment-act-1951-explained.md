@@ -9,7 +9,7 @@ excerpt: "The First Amendment Act 1951 answered three lost cases at once. The pa
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 69
 author: "deepika-joshi"
-last_updated: 2010-01-15
+last_updated: 2026-08-05
 lang: en
 ---
 Sixteen months after the Constitution came into force, the government that had written it began rewriting it. The Constitution (First Amendment) Act, 1951 was moved by Jawaharlal Nehru on 10 May 1951, reported on by a select committee within a fortnight, passed in the first days of June, and assented to by President Rajendra Prasad on 18 June 1951. It altered the free speech guarantee, the equality guarantee and the property guarantee, and it created a schedule whose entire purpose was to place certain statutes beyond the reach of fundamental rights challenge. The legislature that did all this had never faced an electorate.

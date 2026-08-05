@@ -9,7 +9,7 @@ excerpt: "Bicycle Thieves turned non-actors and the real streets of Rome into th
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2022-03-15
+last_updated: 2026-08-05
 lang: en
 ---
 A man loses a bicycle, and somehow that small theft became the founding argument of a film movement. Vittorio De Sica built Bicycle Thieves in 1948 around a premise so plain it could fit on a pawn ticket: a poor father in postwar Rome lands a job that requires a bicycle, the bicycle is stolen on his first morning of work, and he spends a Sunday combing the city with his young son to find it. No villain twirls a mustache. No twist redeems the search. The movement that this film came to define, Italian Neorealism, asked cinema to look at exactly this kind of ordinary catastrophe and insist it was worth the screen, and Bicycle Thieves made the case more clearly than any film before or since.

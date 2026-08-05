@@ -9,7 +9,7 @@ excerpt: "Romeo is gentle and violent, fated and impulsive, a Petrarchan moper w
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
 author: "victoria-stone"
-last_updated: 2022-05-13
+last_updated: 2026-08-05
 lang: en
 ---
 The first thing Romeo does in the play is hide. His father reports a boy who locks himself away at dawn, shuts the daylight out of his room, and makes himself "an artificial night," and the cause is a woman the audience never meets and the hero forgets within an hour of seeing her rival. That opening portrait is the puzzle this article sets out to solve, because the figure the culture remembers is nothing like the figure the text introduces. Popular memory keeps a single Romeo, the swooning balcony romantic who exists to love and to die for love. The lines keep a stranger animal: a poseur who graduates into a poet, a peace-lover who commits a revenge killing in broad daylight, a fatalist who blames the stars for choices his own hands make.

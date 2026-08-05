@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby epigraph, four lines about a gold hat and bouncing hi
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2022-04-11
+last_updated: 2026-08-05
 lang: en
 ---
 Most readers turn the first page of The Great Gatsby without slowing down for the four lines that sit before chapter one. They skip the verse about a gold hat and a high-bouncing lover, treat it as decoration, and begin the story proper with Nick's father and his advice about reserving judgment. That skip is a small loss with a large interest rate. The Great Gatsby epigraph is not a frill stuck to the front of the novel for tone. It is a set of instructions, a how-to written in the imperative mood, and the whole book is the story of a man who follows those instructions to the letter and is destroyed by them. Read the verse closely and you hold the novel's method in your hand before Fitzgerald has introduced a single character.

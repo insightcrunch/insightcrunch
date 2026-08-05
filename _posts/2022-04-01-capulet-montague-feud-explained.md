@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet never explains why the Capulets and Montagues hate ea
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2022-04-01
+last_updated: 2026-08-05
 lang: en
 ---
 A pair of servants stand in a public square trading filthy jokes about which house has the bigger maidenheads to take, and before the audience has met a single named lover, two men of opposing households have their weapons out over nothing. That is how the most famous love story in the English language begins: not with love, but with a brawl that nobody in the scene can quite justify. Sampson and Gregory belong to the Capulets, Abram serves the Montagues, and the spark that sets them swinging is a thumb bitten in the street. No grievance is named. No injury is recounted. The quarrel simply exists, the way weather exists, and the men step into it as into something already prepared for them.

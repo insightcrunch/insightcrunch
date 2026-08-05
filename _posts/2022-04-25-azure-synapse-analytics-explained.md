@@ -9,7 +9,7 @@ excerpt: "Azure Synapse Analytics unifies dedicated SQL, serverless SQL, and Spa
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2022-04-25
+last_updated: 2026-08-05
 lang: en
 ---
 The single most expensive mistake teams make with Azure Synapse Analytics is treating it as one database. They provision a dedicated SQL pool, point everything at it, and then watch ad hoc exploratory queries fight production reporting for the same fixed slice of compute while the monthly bill climbs and nobody can explain why a five-row lookup waited ninety seconds in a queue. Synapse is not a database. It is a workspace that fronts several distinct compute engines over a shared data lake, and the whole point of the design is that you choose the engine that fits the query rather than running every query the same way. Once you hold that model in your head, the throttling stops looking like a fault and starts looking like the predictable result of asking the wrong engine to do the work.

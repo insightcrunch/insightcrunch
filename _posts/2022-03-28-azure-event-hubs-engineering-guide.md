@@ -9,7 +9,7 @@ excerpt: "Azure Event Hubs is a partitioned, log-based streaming ingestion servi
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "andrew-price"
-last_updated: 2022-03-28
+last_updated: 2026-08-05
 lang: en
 ---
 Most teams meet Azure Event Hubs already holding the wrong model. They arrive from a queue, from Service Bus, from RabbitMQ, or from a database table they polled, and they expect the same contract: a message goes in, one worker takes it out, the worker acknowledges it, and the message disappears. Azure Event Hubs honors almost none of that contract, and the gap between what people assume and what the platform actually does is where the production incidents come from. A consumer reads an event and the event stays put. Two consumers in the same role read the same event twice. Ordering that held in testing falls apart at scale. The fix is never a configuration toggle. The fix is replacing the queue model in your head with the log model the service is actually built on, because once the model is right, every behavior that looked like a bug turns out to be the documented design.

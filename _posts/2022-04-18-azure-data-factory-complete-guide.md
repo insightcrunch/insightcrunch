@@ -9,7 +9,7 @@ excerpt: "Azure Data Factory explained for engineers: the orchestration model, t
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 62
 author: "david-thornton"
-last_updated: 2022-04-18
+last_updated: 2026-08-05
 lang: en
 ---
 Azure Data Factory is the service most engineers reach for the moment a pipeline has to move data from one place to another on a schedule, and it is also the service most engineers misread on the first try. The misreading is predictable: people treat it as an ETL tool with a drag-and-drop canvas, copy a tutorial, watch the first run succeed against a sample blob, and then hit a wall the moment the real source sits behind a firewall, the transform needs more than a column rename, or the schedule has to honor a late-arriving file. The gap between using Azure Data Factory and understanding it is the gap between a demo that copies a CSV and a production pipeline that survives a self-hosted runtime restart, a throttled sink, and a Spark cluster that takes four minutes to spin up. This guide closes that gap by treating the service as what it actually is, an orchestration engine built from a small number of coupled parts, and showing how each part decides what your pipeline can and cannot do.

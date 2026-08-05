@@ -9,7 +9,7 @@ excerpt: "Romeo kills Tybalt at the exact midpoint of Romeo and Juliet, and that
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2022-06-03
+last_updated: 2026-08-05
 lang: en
 ---
 A man stands in a public square holding a sword he did not want to draw, having just run a kinsman of the Prince through the body, and he says four words that change the genre of the play around him: "O, I am fortune's fool." The cry comes near the close of Act 3 Scene 1, in the Arden third series numbering at line 135, and it marks the precise instant when a comedy of young desire becomes a tragedy of consequence. Everything before that square is courtship, wit, and the expectation of a wedding. Everything after it is exile, poison, and two corpses in a tomb.

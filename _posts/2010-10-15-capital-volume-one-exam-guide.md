@@ -9,7 +9,7 @@ excerpt: "Capital Volume One exam guide: the four passages that carry every answ
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2010-10-15
+last_updated: 2026-08-05
 lang: en
 ---
 A candidate who has read four passages of Capital properly will outscore a candidate who has read the whole book and cites it vaguely. That is not a consolation for the unprepared; it is a statement about what assessments in this area actually reward, which is located evidence deployed against a specific question, not coverage. Markers cannot give credit for reading. They give credit for a definition stated with its qualifying clause intact, a mechanism run correctly, a passage named precisely enough that they can find it, and an evaluation that identifies what a critic was targeting.

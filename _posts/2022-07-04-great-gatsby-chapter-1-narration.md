@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 1 narration installs Nick as narrator, and his ho
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2022-07-04
+last_updated: 2026-08-05
 lang: en
 ---
 The Great Gatsby Chapter 1 narration is the most important work the novel does before its plot ever starts, because everything a reader will later believe about Jay Gatsby, Daisy, Tom, and the summer of 1922 arrives filtered through a single voice that the first three pages quietly put on trial. Most readers race past those pages to reach the mansion, the parties, and the green light, treating the opening as throat-clearing before the real book begins. That is a mistake. Fitzgerald spends his first pages building the instrument through which the entire story will be told, and he builds it with a flaw stitched in on purpose. Nick Carraway announces a code of tolerance and then breaks it inside the same breath, calls himself honest while admitting he is about to make an exception, and positions himself as both a man inside the action and a man hovering above it. Read closely, the opening is not a neutral window onto events. It is the careful installation of a witness whose testimony the reader is invited to question from the first sentence.

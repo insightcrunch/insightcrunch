@@ -9,7 +9,7 @@ excerpt: "An Azure storage account fronts blob, file, queue, and table data unde
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 60
 author: "gregory-marsh"
-last_updated: 2022-01-31
+last_updated: 2026-08-05
 lang: en
 ---
 Most production incidents that trace back to an Azure storage account are not failures of the platform. They are decisions made by accepting a default in the create blade and never revisiting it. Someone picked geo-redundant replication for a scratch container that gets rebuilt every night, or dropped a year of audit logs into the hot access tier and watched the bill climb, or wired an application to an account key that now lives in three repositories and a Confluence page. The Azure storage account is the most heavily used resource in the cloud and the one engineers understand least precisely, because the create experience hides four independent decisions behind a single friendly form and lets you ship without ever reasoning about any of them.

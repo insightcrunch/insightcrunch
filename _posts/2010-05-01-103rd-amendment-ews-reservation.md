@@ -9,7 +9,7 @@ excerpt: "The 103rd Amendment and EWS reservation explained: what Articles 15(6)
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 68
 author: "anita-das"
-last_updated: 2010-05-01
+last_updated: 2026-08-05
 lang: en
 ---
 Almost every public argument about the 103rd Amendment is conducted about the wrong question. One side asks whether poverty can justify reservation and treats the answer as contested. The other asks whether the fifty per cent ceiling has been breached and treats that as decisive. Neither question was the one the Supreme Court divided on, and on the first of them the five judges who heard the challenge were unanimous. The disagreement that actually split the bench, and that still divides serious constitutional lawyers, is narrower and harder: whether a category defined by economic weakness may be constructed by excluding people who are already recognised as socially disadvantaged.

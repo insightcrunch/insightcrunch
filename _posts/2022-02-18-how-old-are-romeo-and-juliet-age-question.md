@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet fixes Juliet at thirteen, younger than in any source,
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2022-02-18
+last_updated: 2026-08-05
 lang: en
 ---
 A father is haggling over his daughter's marriage, and he lets slip her exact age without quite meaning to. "My child is yet a stranger in the world," old Capulet tells the suitor Paris in the play's second scene, "she hath not seen the change of fourteen years." The line is easy to skim past. Most readers do. Yet it carries one of the most deliberate and least understood decisions Shakespeare ever made about a character. The heroine of the most famous love story in the language is not a young woman. She is a child of thirteen, and the dramatist who put her there had to work against every version of the tale he inherited to do it.

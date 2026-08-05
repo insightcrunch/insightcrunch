@@ -9,7 +9,7 @@ excerpt: "The 44th Amendment Act 1978 rolled back the Emergency. One safeguard i
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
 author: "kavita-sharma"
-last_updated: 2010-03-01
+last_updated: 2026-08-05
 lang: en
 ---
 There is a section of the Constitution (Forty-fourth Amendment) Act, 1978 that was debated in both Houses, carried by the required special majority, ratified by more than half the state legislatures, and assented to by the President, and which has never taken effect. It sits in the official publication of the Constitution of India in an appendix reserved for provisions that have not come into force. It has been there for the entire life of every reader of this article.

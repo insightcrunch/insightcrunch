@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet meet, marry, and die inside a single furious week, an
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 
 author: "diana-patel"
-last_updated: 2022-01-28
+last_updated: 2026-08-05
 lang: en
 ---
 A clock is running under this play, and almost nobody who loves it can say what time it is. Ask a room of readers how long the action lasts and the answers scatter across weeks, even months, because the memory keeps the famous scenes and loses the calendar that holds them. The truth is harder and stranger. From the Sunday street fight that opens the action to the deaths in the Capulet vault before dawn, the whole catastrophe burns through in a span you could mark on the back of a hand. The lovers see each other at a feast on a Sunday night, marry on Monday afternoon, lose Tybalt and Romeo's liberty within hours of the wedding, part at the next morning's first light, and lie dead together inside the family tomb four nights after they first spoke. Everything that the wider culture files under eternal romance happens faster than a long weekend.

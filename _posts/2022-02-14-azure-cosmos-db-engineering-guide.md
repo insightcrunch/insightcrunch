@@ -9,7 +9,7 @@ excerpt: "Azure Cosmos DB lives or dies by the partition key. Learn the RU model
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 62
 author: "nathan-cole"
-last_updated: 2022-02-14
+last_updated: 2026-08-05
 lang: en
 ---
 Most teams adopt Azure Cosmos DB for the promise on the label: a globally distributed database with single-digit-millisecond reads, elastic scale, and a tunable consistency dial. Then the first production load test arrives, the application starts returning 429 responses, and someone doubles the provisioned throughput, watches the bill climb, and discovers the throttling has not moved. The gap between using Cosmos DB and understanding it is wide, and it is almost always the same gap: every behavior that matters, the scale ceiling, the cost, the throttling, the query speed, follows from two design choices made at container creation. One is the partition key. The other is the throughput model. Get those two right and the rest of the service behaves the way the label promised. Get the partition key wrong and no amount of money buys your way out.

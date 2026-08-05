@@ -9,7 +9,7 @@ excerpt: "An Azure VM boot failure is almost always a guest OS fault you can rea
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 63
 author: "thomas-reid"
-last_updated: 2022-05-23
+last_updated: 2026-08-05
 lang: en
 ---
 An Azure VM boot failure is one of the few problems on the platform that feels genuinely frightening, because the machine has gone dark and the usual tools have nothing to connect to. There is no SSH session, no RDP window, no agent heartbeat, and no obvious place to look. The instinct that follows is almost always wrong: redeploy the machine, or restore last night's backup, and accept the lost state. That instinct throws away the work since the last snapshot to solve a problem that the serial console plus a rescue VM usually fixes in a few minutes, because the cause is sitting in the guest operating system rather than anywhere you cannot reach.

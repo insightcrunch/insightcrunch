@@ -9,7 +9,7 @@ excerpt: "Marx versus marginalism on the theory of value: what each framework se
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2010-09-15
+last_updated: 2026-08-05
 lang: en
 ---
 The most argued comparison in this entire subject is conducted almost entirely by people who have not noticed that the two frameworks are answering different questions. One side declares that the marginal revolution refuted Marx. The other declares that marginalism describes appearances while the labour theory explains essences. Neither statement can be assessed, because neither side has specified the criterion on which the comparison is being made, and until a criterion is named the contest has no scoring system.

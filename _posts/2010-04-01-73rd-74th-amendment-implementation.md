@@ -9,7 +9,7 @@ excerpt: "The 73rd and 74th Amendments made local elections compulsory and local
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
 author: "deepika-joshi"
-last_updated: 2010-04-01
+last_updated: 2026-08-05
 lang: en
 ---
 Two constitutional amendments created roughly three million elected representatives, more than any comparable act of institutional design anywhere, and then declined to say what any of them were entitled to decide. That sentence is the whole implementation record of the 73rd and 74th Amendments, and every subsequent argument about devolution, weak mayors, ghost panchayats and unspent grants is a consequence of it. The amendments made local elections compulsory and local power optional, and the outcome was written into the text before a single panchayat was constituted.

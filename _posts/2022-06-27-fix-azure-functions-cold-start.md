@@ -9,7 +9,7 @@ excerpt: "Azure Functions cold start slowing the first request? Measure it, attr
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "jason-mckenzie"
-last_updated: 2022-06-27
+last_updated: 2026-08-05
 lang: en
 ---
 An Azure Functions cold start is the delay a caller experiences when a request lands on an instance that is not already running, forcing the platform to allocate a worker, load the runtime, mount the deployment, initialize your dependencies, and only then run your code. The first request after a quiet period feels sluggish, sometimes by hundreds of milliseconds and sometimes by several seconds, while every request that follows is fast. That asymmetry is the signature of the problem, and it is the single most misread behavior in the entire serverless model. People reach for a timer that pings the endpoint, blame their code, or quietly accept the latency as a tax they cannot avoid. None of those responses is the right one, because the delay is not a bug and it is not random. It is a measurable, attributable property of the hosting plan and the application, and once you can attribute it you can reduce it deliberately.

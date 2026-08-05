@@ -9,7 +9,7 @@ excerpt: "Azure Virtual Machines reduce to four coupled choices: size family, di
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 60
 author: "david-thornton"
-last_updated: 2022-01-03
+last_updated: 2026-08-05
 lang: en
 ---
 Most engineers create their first Azure Virtual Machines by accepting a portal default, and the bill, the latency, and the 3 a.m. page all arrive later as separate surprises that nobody connects back to that one click. The gap between using a VM and understanding one is the gap between copying a size name and being able to predict, before deployment, how the machine will behave under load, what it will cost when idle, and which failure will take it down first. This guide closes that gap. The claim it argues is simple to state and easy to get wrong in practice: every production VM is really four coupled choices, the size family, the disk tier, the availability construct, and the cost commitment, and getting one wrong silently caps the other three.

@@ -9,7 +9,7 @@ excerpt: "Tomb robbery in the late New Kingdom was an economic symptom, not simp
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2005-09-01
+last_updated: 2026-08-05
 lang: en
 ---
 Tomb robbery is usually told as a crime story: masked men in the dark, a hole cut through plaster, gold vanishing into the night. Read that way it explains nothing. The wave of tomb robbery that swept the Theban necropolis in the last century of the New Kingdom is better read as an accounting document. It tells you what the Egyptian treasury could no longer do, how much grain a workman could no longer buy, which officials had stopped being able to enforce anything, and how far the reach of the pharaoh's writ had contracted from the Delta to the valley and finally to the walls of a single temple compound. The plundered royal tombs of western Thebes are the most legible economic indicator the late Twentieth Dynasty left behind.

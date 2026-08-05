@@ -9,7 +9,7 @@ excerpt: "The Sea Peoples and the Bronze Age Collapse explained: who the raiders
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2005-07-01
+last_updated: 2026-08-05
 lang: en
 ---
 Somewhere around 1200 BCE the connected world of the eastern Mediterranean came apart. The Hittite empire, which had fought Egypt to a standstill in Syria and then signed a treaty with it, ceased to exist. The palace centers of Mycenaean Greece burned or were abandoned. Ugarit, a wealthy port city on the Syrian coast with an archive of thousands of clay tablets, was destroyed and never reoccupied. Cities across Cyprus and the Levant show destruction layers within a few decades of one another. Trade routes that had carried copper from Cyprus, tin from far to the east, and luxury goods across the whole basin stopped functioning. Writing systems fell out of use in some regions for centuries.

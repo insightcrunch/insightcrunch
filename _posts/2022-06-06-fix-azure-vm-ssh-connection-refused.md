@@ -9,7 +9,7 @@ excerpt: "Azure VM SSH connection refused, timed out, or denied? Read each error
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
 author: "abigail-cooper"
-last_updated: 2022-06-06
+last_updated: 2026-08-05
 lang: en
 ---
 When an Azure VM SSH connection refused message lands in your terminal at the worst possible moment, the instinct is to assume the machine is gone and start planning a rebuild. That instinct is almost always wrong, and acting on it destroys the one thing that would have told you what actually broke. The phrase your client printed is not noise. It is the single most precise diagnostic you will get for free, and the difference between "connection refused," "connection timed out," and "permission denied (publickey)" points at three completely different layers of the stack. Refused means the host answered and told you nothing is listening on port 22. Timed out means nothing answered at all. Permission denied means the network and the daemon are both fine and the problem is purely authentication. Read the message first, and you eliminate two thirds of the possible causes before you touch a single setting.

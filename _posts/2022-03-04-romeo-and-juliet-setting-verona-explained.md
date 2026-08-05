@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is set in fair Verona with exile to Mantua, a choice 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2022-03-04
+last_updated: 2026-08-05
 lang: en
 ---
 The second line the audience hears names the place before it names a single character: "In fair Verona, where we lay our scene." The Chorus has not yet introduced a lover, a feud, or a death, but it has already pinned the action to a city in the Veneto, and the adjective "fair" does a quiet, deceptive amount of work. A spectator at the Curtain or the Theatre in the mid-1590s would not have recognized Verona from any visit. Most of the audience would never cross the Channel, let alone the Alps. What they recognized instead was an idea, the literary and moral idea of northern Italy that Elizabethan England carried around in its head, and that idea was anything but fair. It was a place of vendetta, hot blood, poison, secret marriages, scheming friars, and sudden violence in the street. The opening word flatters the city in order to set up the irony that the next two hours will dismantle.

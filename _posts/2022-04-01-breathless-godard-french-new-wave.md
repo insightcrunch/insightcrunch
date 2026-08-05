@@ -9,7 +9,7 @@ excerpt: "Breathless (1960) turned jump cuts, a handheld camera, and ironic Holl
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2022-04-01
+last_updated: 2026-08-05
 lang: en
 ---
 There is a moment, a few minutes into Breathless, when Jean Seberg sits in the back of an open convertible, the wind moving her cropped hair, and she turns her head to speak. The image leaps. Her head snaps from one angle to another with nothing between the positions, the road behind her jerking forward in space and time, the continuity that every studio film of 1960 had been built to protect simply gone. The first audiences flinched. Some called it a printing error. What they were watching was the founding gesture of the French New Wave, the single technical decision that announced a new way to make movies, and the reason this 1960 debut by Jean-Luc Godard still feels quicker and more alive than films made sixty years after it.

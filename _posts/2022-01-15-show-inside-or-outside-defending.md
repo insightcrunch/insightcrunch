@@ -9,7 +9,7 @@ excerpt: "Show him inside or outside is the most common defending instruction th
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-01-15
+last_updated: 2026-08-05
 lang: en
 ---
 The instruction to show a wide opponent inside or outside is the most frequently given command in defending and the least frequently justified. It is shouted from touchlines every weekend, it is written into pre-match briefings at every level of the game, and if you ask ten coaches to explain why they chose the one they chose, you will get four answers about the opponent's weaker foot, three about what their side has always done, two about what they saw a professional team do, and one honest admission that nobody has ever asked before.

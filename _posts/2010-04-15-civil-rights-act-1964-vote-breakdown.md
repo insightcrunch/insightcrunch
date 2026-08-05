@@ -9,7 +9,7 @@ excerpt: "Civil Rights Act of 1964 vote breakdown: all four roll calls by party 
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 68
 author: "daniel-morgan"
-last_updated: 2010-04-15
+last_updated: 2026-08-05
 lang: en
 ---
 Almost every argument conducted about the Civil Rights Act of 1964 vote breakdown is conducted with half the table. One side reports that a larger share of Republicans than Democrats voted for the bill in both chambers, which is true. The other side reports that the bill was signed by a Democratic president and managed on the Senate floor by a Democratic whip against opposition led by Democratic senators, which is also true. Both sides are reading the party columns, and the party columns are the less informative cut of this data.

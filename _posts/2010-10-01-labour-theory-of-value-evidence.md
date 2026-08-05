@@ -9,7 +9,7 @@ excerpt: "Evidence on the labour theory of value: what the input-output studies 
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2010-10-01
+last_updated: 2026-08-05
 lang: en
 ---
 The labour theory of value has been tested empirically, repeatedly, across many national economies, using data that governments publish and methods that anyone with the tables and a linear algebra package can replicate. That fact alone puts this article at odds with most writing on the subject, which treats the theory as either a philosophical commitment or a discredited relic and in both cases as something that evidence cannot touch.

@@ -9,7 +9,7 @@ excerpt: "The 101st Amendment created Article 246A and the GST Council: how the 
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 77
 author: "kavita-sharma"
-last_updated: 2010-04-15
+last_updated: 2026-08-05
 lang: en
 ---
 The problem the 101st Amendment was built to solve was not economic. Economists had agreed for decades that a destination-based value added tax across the whole supply chain was better than the layered system India actually had, and nobody serious defended the alternative. The problem was constitutional, and it was severe: under the division of taxing powers as originally drafted, neither the Union nor any state was capable of levying such a tax, and no combination of ordinary legislation by both of them could produce one either. The Union could tax the manufacture of goods but not their sale within a state. The states could tax the sale of goods but not services and not manufacture. Both levied taxes at different points on the same commercial transaction without being able to give credit for the other's tax, and the Constitution gave neither the competence to fix it.

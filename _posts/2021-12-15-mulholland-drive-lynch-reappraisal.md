@@ -9,7 +9,7 @@ excerpt: "Mulholland Drive rose from a rejected ABC pilot to the film critics wo
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2021-12-15
+last_updated: 2026-08-05
 lang: en
 ---
 A network executive watched a rough cut one morning over coffee, standing up, and hated what he saw. That viewing killed a television series before it ever reached the air. The footage he rejected, reconceived and completed as a feature, became Mulholland Drive (2001), the film a poll of critics from three dozen countries would later name the finest of its century. No reception story in modern American cinema travels a stranger arc than this one. A passed-over pilot, abandoned in limbo for the better part of two years, returned as a feature so assured that within fifteen years of its release the international critical establishment had crowned it the defining work of the new millennium. The gap between how the project first landed and where it eventually stood is so wide that the journey itself has become part of the film's meaning, a real-world rhyme with the story David Lynch tells inside it, in which a hopeful arrival in Hollywood curdles into something darker and the dream of recognition collapses into its opposite.

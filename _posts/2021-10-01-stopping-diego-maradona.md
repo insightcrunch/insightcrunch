@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Diego Maradona: the man marking assignment rebui
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2021-10-01
+last_updated: 2026-08-05
 lang: en
 ---
 The team sheet named a shape, and then it named one player, and the second thing mattered more than the first. Somewhere in the tactical archive of the sport there is a version of that sheet that reads, in effect: you have Diego Maradona. Not the left channel. Not the pocket between the lines. Not a zone with a boundary you can hand off at when he crosses it. Him. Wherever he walks, for the length of the match, and if he wanders to the far touchline to take a throw-in, you are standing next to him when he takes it. That instruction has all but vanished from professional football, and because it has vanished, most coaches working today have never watched the job performed properly by someone who was trained to do it. They have inherited the conclusion, which is that man-marking failed, without ever having seen the argument.

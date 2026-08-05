@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby map, drawn from the text: West Egg, East Egg, the val
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2022-06-06
+last_updated: 2026-08-05
 lang: en
 ---
 Most readers finish The Great Gatsby able to recite the green light and the eyes on the billboard, yet unable to say how far Gatsby's lawn sits from Daisy's dock, or which patch of ground Myrtle dies on, or why the same stretch of road carries the commuters in and carries the corpse out. The geography of The Great Gatsby is usually treated as scenery, a pretty frame around a love story, but the novel is built on a precise and small piece of ground, and once you draw The Great Gatsby map you discover that the plot does not wander across it so much as circle it. The book takes place inside a tight loop of land and water, and every major event lands at a fixed point on that loop. This guide lays out the whole world of the novel as a working map: the two Eggs and the bay between them, the ash heaps on the road, the city at the end of the line, and the routes the characters wear into the ground by crossing them again and again.

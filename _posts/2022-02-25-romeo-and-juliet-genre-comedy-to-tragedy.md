@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet begins as a romantic comedy and snaps into tragedy at
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 
 author: "rachel-foster"
-last_updated: 2022-02-25
+last_updated: 2026-08-05
 lang: en
 ---
 A street brawl opens the action, but watch what kind of brawl it is. Two servants trade thumb-biting insults and bad puns about maidenheads, a swaggering bully arrives, a peacemaker fails, and the citizens of Verona spill out with clubs while an old man calls for his sword and his wife mocks him for wanting it. The scene is loud, fast, obscene, and funny. Nobody important dies. By the time Prince Escalus has scolded the households and cleared the stage, the audience has been handed the tonal furniture of a comedy: foolish elders, randy servants, a quarrel that looks more ritual than lethal. Then the same play, ninety minutes of stage time later, will lay four corpses across the boards and close on a sealed tomb. The question this article presses is the one most readers never think to ask, because the title has already answered it for them: in what genre does this drama actually begin, and at what exact instant does it change?

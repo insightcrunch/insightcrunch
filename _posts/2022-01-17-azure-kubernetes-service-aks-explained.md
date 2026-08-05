@@ -9,7 +9,7 @@ excerpt: "Azure Kubernetes Service explained: what AKS manages versus what you o
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 60
 author: "ryan-walsh"
-last_updated: 2022-01-17
+last_updated: 2026-08-05
 lang: en
 ---
 Azure Kubernetes Service sits in an awkward middle ground that trips up almost everyone who adopts it. The marketing line says it is managed Kubernetes, and engineers reasonably hear that as "Azure runs the cluster for me." Then a pod crashes, an upgrade stalls, the virtual network runs out of addresses, and the on-call engineer opens a support ticket expecting Microsoft to fix something that was never theirs to fix. The gap between using AKS and understanding AKS is precisely the gap between what the service manages and what you still operate, and that line is rarely drawn clearly anywhere. This guide draws it explicitly, because the single most useful thing you can know about the platform is which failures land on Microsoft's side and which land on yours.

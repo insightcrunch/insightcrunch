@@ -9,7 +9,7 @@ excerpt: "The first labor strike in history took place in Egypt, when the royal 
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2005-08-01
+last_updated: 2026-08-05
 lang: en
 ---
 In the twenty-ninth year of Ramesses III, around 1157 BCE, the men who cut and painted the tombs of Egypt's kings stopped working, walked off the job, and sat down behind the walls of a royal mortuary temple. Their grain rations were roughly eighteen days late. They stayed there, moved to other temples over the following days, called out that they were hungry, and refused to return until they were paid. A village scribe named Amennakht recorded what happened, day by day, on a papyrus that survives.

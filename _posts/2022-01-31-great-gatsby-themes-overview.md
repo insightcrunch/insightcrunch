@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby themes are not a checklist but a connected system. Th
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2022-01-31
+last_updated: 2026-08-05
 lang: en
 ---
 Almost every reader of *The Great Gatsby* can name what the book is supposedly about. The American Dream. Wealth. Love. The past. Yet most leave the novel holding a list rather than an understanding, able to recite five or six labels but unable to say how any of them work or why they belong in the same book. The Great Gatsby themes that get reproduced across study guides and revision notes arrive as separate bullet points, each sealed off from the others, as if Fitzgerald wrote a novel about money and then, in a different mood, a novel about time. He did not. The themes of this short, dense book are wired into a single structure, and the reader who sees the wiring can say something true about the novel that the reader holding the list cannot.

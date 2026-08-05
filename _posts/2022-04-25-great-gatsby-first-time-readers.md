@@ -9,7 +9,7 @@ excerpt: "Reading The Great Gatsby for the first time? A friendly guide to what 
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2022-04-25
+last_updated: 2026-08-05
 lang: en
 ---
 Reading The Great Gatsby for the first time is a strange experience, because the book has a reputation that arrives before the book does. You have heard the title spoken with reverence. You have seen the green light on a hundred covers. You may already know a quotation or two, the parties, the doomed romance, the sense that something sad waits at the end. So you open it expecting to be swept away, and instead you meet a narrator talking about his father's advice, a man named Tom who is unpleasant in a hard-to-place way, and a long stretch of pages before the title character even arrives. The famous book feels quieter and slipperier than its legend. That gap, between the legend and the actual first encounter, is where most newcomers get lost.

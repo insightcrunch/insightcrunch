@@ -9,7 +9,7 @@ excerpt: "Criticisms of the labour theory of value, sorted by their target: whic
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2010-09-01
+last_updated: 2026-08-05
 lang: en
 ---
 Almost every published refutation of the labour theory of value defeats one claim and then announces that it has defeated three. That is the single most useful thing to know before reading any critic or any defender, and it explains why an argument that has run for well over a century produces so little movement on either side. The theory is not one proposition. It does three separable jobs, and an objection that demolishes the first may leave the second and third untouched, while an objection that lands on the third may be irrelevant to a critic who only ever cared about the first.

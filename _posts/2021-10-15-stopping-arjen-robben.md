@@ -9,7 +9,7 @@ excerpt: "How defenders stopped Arjen Robben: the geometry of a move everybody p
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2021-10-15
+last_updated: 2026-08-05
 lang: en
 ---
 Every full-back who ever lined up against Arjen Robben knew exactly what was coming. Not approximately, not as a tendency to be weighed against alternatives, but with something close to certainty: receive on the right flank, drive inside onto the left foot, strike toward the far corner. The scouting report was one sentence long and it was correct. And the move worked anyway, over a career spanning Groningen, PSV, Chelsea, Real Madrid, Bayern Munich, and a long international career with the Netherlands, against defenders who had watched hours of footage and against coaching staffs who had built entire meetings around that single sentence.

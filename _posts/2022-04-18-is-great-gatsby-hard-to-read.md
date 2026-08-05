@@ -3,7 +3,7 @@ layout: post
 title: "Is The Great Gatsby Hard to Read? A Reader's Guide"
 page_title: "Is The Great Gatsby Hard to Read? A Reader's Guide"
 date: 2022-04-18
-last_updated: 2022-04-18
+last_updated: 2026-08-05
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Reading Difficulty", "Reading Guide", "Classic Literature", "Study Help", "First-Time Readers"]

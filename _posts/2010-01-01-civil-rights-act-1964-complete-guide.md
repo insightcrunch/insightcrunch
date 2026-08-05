@@ -9,7 +9,7 @@ excerpt: "The Civil Rights Act of 1964 explained title by title: what each provi
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 76
 author: "natalie-webb"
-last_updated: 2010-01-01
+last_updated: 2026-08-05
 lang: en
 ---
 Ask most people what the Civil Rights Act of 1964 did and you will get a sentence about ending segregation. Ask which of its provisions reached a restaurant, which reached a school district, which reached a payroll office, and which reached nothing at all, and the sentence runs out. That gap is the reason this guide exists. The statute is not a declaration. It is eleven separate titles, each with its own covered entities, its own exemptions, its own enforcement route, and its own constitutional footing, and the differences between them decide almost every real question a reader brings to the law.

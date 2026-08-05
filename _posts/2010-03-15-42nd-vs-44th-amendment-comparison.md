@@ -9,7 +9,7 @@ excerpt: "The 42nd vs 44th Amendment comparison, row by row: what Parliament rev
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "kavita-sharma"
-last_updated: 2010-03-15
+last_updated: 2026-08-05
 lang: en
 ---
 Every argument about the Emergency eventually collapses into one sentence, and the sentence is almost always wrong. One side says the 42nd Amendment was undone in 1978. The other says nothing was undone at all. A serious 42nd vs 44th Amendment comparison shows that neither claim survives a line-by-line reading, because the reversal was real, partial, and carried out by two different institutions working several years apart. Parliament pulled down the Emergency machinery. The Supreme Court pulled down the clauses that had tried to place amendments beyond judicial reach. And a third category of change, the one that has shaped Indian governance most durably, was never pulled down by anybody.

@@ -9,7 +9,7 @@ excerpt: "A complete analytical guide to The Great Gatsby, teaching a four-lane 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-01-03
+last_updated: 2026-08-05
 lang: en
 ---
 ## The Novel Everyone Has Read and Almost No One Has Analyzed

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet die through a chain of hands, the feuding parents, th
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2022-04-08
+last_updated: 2026-08-05
 lang: en
 ---
 When Prince Escalus stands over the opened tomb in the final scene and pronounces that "All are punished" (5.3.295 in the Arden third series, edited by Rene Weis), he is not naming a single criminal. He is closing a register of names. The line is plural by design. It looks across the bodies of Mercutio, Tybalt, Paris, and the two children whose corpses lie before him, and it spreads the weight of what has happened across the whole community of Verona, the surviving fathers included, the speaker himself included. A reader who arrives at this play wanting a culprit is asking a question the script has already declined to answer in those terms. The tragedy is engineered so that no one hand closes the trap.

@@ -9,7 +9,7 @@ excerpt: "A Great Gatsby chapter guide covering all nine chapters, what each one
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 59
 author: "amanda-ross"
-last_updated: 2022-03-14
+last_updated: 2026-08-05
 lang: en
 ---
 Most readers reach for a Great Gatsby chapter guide for the wrong reason and leave with the right one. They open it to remember what happens, which scene sits where, who says the thing about the past, where the green light is mentioned. That is a fine reason to arrive. It is a poor reason to stay. A guide that only tells you the sequence of events has handed you a table of contents with adjectives. This page is built to do more than that. It treats Fitzgerald's nine sections as a designed sequence, names what each one accomplishes for the book as a whole, and points you toward the close reading that unpacks any scene in depth. Keep it open beside the novel and it works as a map; read it on its own and it teaches you how the novel is put together.

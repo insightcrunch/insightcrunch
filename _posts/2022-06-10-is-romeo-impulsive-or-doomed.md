@@ -9,7 +9,7 @@ excerpt: "Romeo calls himself fortune's fool, yet nearly every disaster follows 
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2022-06-10
+last_updated: 2026-08-05
 lang: en
 ---
 Standing outside the Capulet house at the close of Act 1 Scene 4, before he has entered the party, before he has seen the Capulet daughter, before a single thing has gone wrong, the Montague heir stops his friends and reports a foreboding. His mind misgives, he says, that some consequence still hangs in the stars and will begin its bitter course from the night's revels. The Arden third series, edited by René Weis, prints the lines as a hesitation that the boy overrides in the same breath: he hands the steerage of his course to whoever directs the sail, and walks in. Within a few hours he is married in secret. Within a few days he is a killer, an exile, and a corpse. The speech is the hinge on which the whole question of his nature turns, because in nine lines he both announces that he is doomed and chooses to proceed anyway.

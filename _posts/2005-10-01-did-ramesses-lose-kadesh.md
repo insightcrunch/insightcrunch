@@ -9,7 +9,7 @@ excerpt: "Did Ramesses II lose the Battle of Kadesh? The Egyptian monuments clai
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2005-10-01
+last_updated: 2026-08-05
 lang: en
 ---
 Ramesses II covered the walls of Egypt with the Battle of Kadesh. It appears at Abydos, at Karnak, at Luxor, on the Ramesseum, and at Abu Simbel, narrated in two long texts conventionally called the Poem and the Bulletin, illustrated in relief cycles showing the king alone in his chariot scattering the enemy before him. No other single event in Egyptian history received a publicity campaign remotely comparable. That fact alone should make a careful reader suspicious, because states do not usually need to say a thing five times when it is obviously true.

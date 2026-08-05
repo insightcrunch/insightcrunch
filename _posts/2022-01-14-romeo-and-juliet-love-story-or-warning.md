@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet reads to most as pure romance, but Shakespeare inheri
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 75
 author: "amanda-ross"
-last_updated: 2022-01-14
+last_updated: 2026-08-05
 lang: en
 ---
 Before Shakespeare set down a single line, an English poet had already passed sentence on the two young people at the centre of the story. Arthur Brooke, whose 1562 poem supplied the plot the dramatist would later rebuild, opened his verse with a stern address to the reader. He described a couple who thralled themselves to unhonest desire, who set aside the counsel of their elders, who confided their gravest secrets to drunken gossips and a superstitious friar, and who abused the honourable name of marriage to cloak a stolen contract, hastening by every dishonest means toward an unhappy end. In that preface the young Veronese pair are not the casualties of fortune so much as a cautionary exhibit, a moral lesson wearing the costume of a romance.
