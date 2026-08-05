@@ -6,13 +6,15 @@ date: 2028-09-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "The American Dream", "American Literature", "Literary Criticism", "Close Reading"]
 excerpt: "Gatsby and the self-made man in literature: how Fitzgerald's hero completes the American success tradition and then breaks it, with a full comparison table."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-09-04
+lang: en
 ---
-
 Nobody in American fiction rises quite the way Jay Gatsby rises. That is the first thing to notice when you set Gatsby and the self-made man in literature side by side, because the comparison is supposed to be easy and it is not. The self-made man is the most durable figure in American writing, a character who begins with nothing, works upward through effort and appetite, and arrives at the money he was born without. Gatsby does all of that. He also invents a father for himself, buys a mansion nobody can explain, sells grain alcohol over drugstore counters, and dies in a swimming pool with three mourners at his grave. Place him in the lineage and the lineage cracks.
+
+![Gatsby and the Self-Made Man in Literature - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 That crack is the payoff of the comparison, and it is why this article exists. Reading Gatsby against the literary line of self-made figures does not simply confirm that he belongs to it. It shows where the line was already under strain by 1925, and it shows Fitzgerald pressing on exactly the joints that were weakest. The tradition had spent a century insisting that rising was a moral act, that the man who climbed deserved the climb, and that the reward at the top was real. Gatsby answers each of those propositions with a qualified no, and he does it while remaining, in Nick Carraway's final accounting, the most admirable person in the book.
 

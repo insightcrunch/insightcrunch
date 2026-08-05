@@ -6,15 +6,15 @@ date: 2028-07-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Emily Bronte", "Jay Gatsby", "Literary Criticism", "American Literature", "Close Reading"]
 excerpt: "Gatsby vs Wuthering Heights compared: Jay Gatsby and Heathcliff both love destructively across a class line, and both stories reach the reader at one remove."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-07-17
+lang: en
 ---
-
 Two men rise from nothing, acquire money nobody can account for, buy their way back into the presence of a woman who married someone richer, and destroy a good deal of the surrounding world in the attempt. One does it on a Yorkshire moor in the 1780s. The other does it on a Long Island shore in 1922. A Gatsby vs Wuthering Heights comparison is worth running at length because the resemblance is not atmospheric or vague; it is a matching set of decisions about how obsession works, what class does to love, and why a story of consuming passion is best delivered by somebody who was not consumed by it.
 
-![Gatsby vs Wuthering Heights compared through Jay Gatsby and Heathcliff and class-crossing obsession - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs Wuthering Heights compared through Jay Gatsby and Heathcliff and class-crossing obsession - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The pairing is also useful because it corrects a reading habit. Readers who arrive at Fitzgerald's novel through the film adaptations and the party imagery tend to file Jay Gatsby under romance and Heathcliff under horror, as though one were a hopeful lover and the other a monster. Read the two books against each other and that separation collapses. Both men are dangerous. Both loves are total, and totality is the problem in each case rather than the virtue. What differs is the register the two novelists chose, and the register has fooled a great many readers into thinking the substance differs too.
 

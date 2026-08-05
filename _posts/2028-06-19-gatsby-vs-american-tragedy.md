@@ -6,15 +6,15 @@ date: 2028-06-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Close Reading"]
 excerpt: "Gatsby vs An American Tragedy pairs Fitzgerald and Dreiser, two 1925 novels of a poor man's fatal climb toward money, status, and a woman he cannot keep."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-06-19
+lang: en
 ---
-
 In one calendar year, American publishing produced two long looks at the same figure: a poor young man who decides that wealth and status are obtainable, pursues them past the point of safety, and dies for it. Gatsby vs An American Tragedy is therefore not a comparison a critic invented after the fact. It is a coincidence of publication that turns out not to be a coincidence at all, since two very different writers, working in incompatible styles and with opposite theories of human character, reached for the identical subject in 1925 and reached similar conclusions about what the country does to the man who tries to climb it.
 
-![Gatsby vs An American Tragedy comparing Fitzgerald and Dreiser on class and ambition in 1925 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs An American Tragedy comparing Fitzgerald and Dreiser on class and ambition in 1925 - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 Fitzgerald's novel appeared in April 1925. Theodore Dreiser's appeared that December, running to something over eight hundred pages against Fitzgerald's slim two hundred. One is lyric, elliptical, and narrated by a participant who withholds. The other is documentary, exhaustive, and narrated by a voice that explains everything. Readers who love one often find the other unreadable. Yet the plots rhyme with a precision that should stop anyone who notices it: a young man from a religious, impoverished background changes his name or his story, attaches himself to a woman who represents a class he cannot otherwise enter, becomes entangled in a death on the water, and is destroyed while the people with money remain untouched.
 

@@ -6,17 +6,17 @@ date: 2028-05-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "The Beautiful and Damned", "Literary Criticism", "American Literature", "Close Reading"]
 excerpt: "The Great Gatsby vs The Beautiful and Damned: how Fitzgerald swapped the sprawling cynicism of his second novel for the compressed elegy of his masterpiece."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-05-15
+lang: en
 ---
-
 Set The Great Gatsby beside The Beautiful and Damned and you can watch a writer learn what to leave out. Posed as The Great Gatsby vs The Beautiful and Damned, the question is not which book wins but what changed in the method between them. Fitzgerald published his second novel in 1922 and his third in April 1925, thirty-eight months apart, and in that gap he stopped anatomizing wealth and started mourning it. The earlier book is longer, angrier, and more thorough. It follows Anthony Patch and Gloria Gilbert through years of waiting for an inheritance, and it records their decay with a documentary patience that leaves nothing out. The later book covers one summer, runs under fifty thousand words, and ends with a man dead in a swimming pool and a narrator trying to say what the dead man meant. The subject barely changed. The angle of vision changed completely.
 
 That shift is the whole payoff of this comparison. Most readers approach the earlier novel as an apprentice piece, a rehearsal for the masterpiece, and then find it long and grim and put it down. That reading wastes the book and, more importantly, wastes what it reveals. The Beautiful and Damned is not a rough draft of The Great Gatsby. It is the other way of writing the same material, the exhaustive way, and the fact that Fitzgerald could execute it fully and then abandon the method tells you exactly what he decided mattered. Read the two together and the second novel becomes a control experiment. It shows what Gatsby would have looked like if Fitzgerald had trusted accumulation instead of compression, and cynicism instead of grief.
 
-![The Great Gatsby vs The Beautiful and Damned comparison of Fitzgerald's second and third novels - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby vs The Beautiful and Damned comparison of Fitzgerald's second and third novels - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 ## What The Great Gatsby vs The Beautiful and Damned Actually Compares
 

@@ -6,15 +6,15 @@ date: 2028-07-31
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "American Literature", "Literary Criticism", "Close Reading", "F. Scott Fitzgerald"]
 excerpt: "The American Dream novel tradition placed in order: where Gatsby sits among the books that test the promise of success, and how their verdicts differ."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-07-31
+lang: en
 ---
-
 Here is a fact that reorganises the whole subject once a reader takes it in. The phrase everyone uses to describe this novel does not appear in it. Fitzgerald never wrote the words "the American dream" anywhere in the book, and he could not have taken the phrase from common currency, because it entered common currency six years after publication, when the historian James Truslow Adams popularised it in The Epic of America in 1931. The American Dream novel tradition was therefore assembled around a book whose author did not have the name for the thing he was writing about, which tells you something important about how traditions work: they are built backward, by readers, out of books that were answering the same pressure without knowing they were answering it together.
 
-![The American Dream novel tradition and where The Great Gatsby sits among the books that test the promise - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The American Dream novel tradition and where The Great Gatsby sits among the books that test the promise - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 This article does one thing: it places Fitzgerald's novel among the books that test the promise of American success and states what each of them concludes. That placement is the entire subject. It is not a survey of the theme inside the novel, which the series treats separately, and it is not a set of two-book comparisons, which the series also treats separately. It is the map, and the argument it defends is that Gatsby is the text the map is drawn around.
 

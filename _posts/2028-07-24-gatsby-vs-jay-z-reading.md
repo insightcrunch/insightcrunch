@@ -6,15 +6,15 @@ date: 2028-07-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay-Z", "Adaptations", "American Literature", "The American Dream", "Literary Criticism"]
 excerpt: "Jay-Z's reading of Gatsby, traced through the documented 2013 soundtrack: what hip-hop hears in the self-made outsider and what the reframing changes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-07-24
+lang: en
 ---
-
 In March 2013 Warner Bros announced that Shawn Carter would collaborate with Baz Luhrmann on a film of a 1925 novel about a bootlegger. Two months later the soundtrack arrived with a rap track as its opening cut and went to number one. Jay-Z's reading of Gatsby is the name this article gives to what happened next: a novel that had spent ninety years as a set text acquired a second audience, and that audience heard something in it that the classroom had been talking around. The reading is worth taking seriously not because a musician's opinion settles a literary question, but because the reception exposes a tension the novel has always contained and that most teaching of it smooths over.
 
-![Jay-Z's reading of Gatsby traced through the 2013 soundtrack and hip-hop self-made wealth - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jay-Z's reading of Gatsby traced through the 2013 soundtrack and hip-hop self-made wealth - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 A caution before anything else, because this territory attracts invention. What follows is built only on the documented public record: credits, releases, dates, and statements made on the record by the people involved. Where the record is silent, this article says so. There is a great deal of loose writing about hip-hop and this novel that attributes opinions to artists who never expressed them, and an essay that repeats such material will be marked down for it.
 

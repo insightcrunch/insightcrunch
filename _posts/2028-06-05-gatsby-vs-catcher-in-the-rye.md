@@ -6,17 +6,17 @@ date: 2028-06-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Close Reading", "Literary Criticism", "American Literature", "Character Analysis"]
 excerpt: "Gatsby vs The Catcher in the Rye: how Nick Carraway and Holden Caulfield each promise restraint, break it, and mourn an innocence that was already gone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2028-06-05
+lang: en
 ---
-
 Two American narrators tell you in their opening paragraphs that they are going to withhold something, and both spend the rest of their books failing to. That shared move is the reason Gatsby vs The Catcher in the Rye survives as a classroom pairing rather than as a coincidence of the syllabus. Nick Carraway opens by reporting his father's advice about withholding criticism and announcing that he is inclined to reserve all judgements, then judges nearly everyone he meets. Holden Caulfield opens by refusing to supply the childhood details a reader might expect and declaring the whole business of biography tiresome, then supplies three days of exhaustive and painful detail about himself. Two narrators, twenty-six years apart, both beginning with a promise of restraint and both immediately breaking it.
 
 The kinship is real and it is also routinely overstated, which is why this comparison needs care. Nick is a twenty-nine year old Yale graduate in bond sales writing from a settled position two years after the events. Holden is sixteen, has just been expelled from his fourth school, and is narrating from an institution in California within a year of the events, still inside the crisis he is describing. The stance is shared. Almost nothing else is. An essay that treats them as the same voice at different ages will produce a paragraph that sounds plausible and collapses under any pressure.
 
-![Gatsby vs The Catcher in the Rye comparing Nick Carraway and Holden Caulfield as disillusioned narrators - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs The Catcher in the Rye comparing Nick Carraway and Holden Caulfield as disillusioned narrators - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 ## What Gatsby vs The Catcher in the Rye Actually Compares
 

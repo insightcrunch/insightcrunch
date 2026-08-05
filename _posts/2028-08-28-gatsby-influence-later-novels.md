@@ -6,15 +6,15 @@ date: 2028-08-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Influence", "American Literature", "F. Scott Fitzgerald", "Literary Criticism", "Comparative Study"]
 excerpt: "Gatsby's influence on later American novels: the figure, the narrator, and the shape later writers inherited, and how to tell influence from resemblance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-08-28
+lang: en
 ---
-
 Gatsby's influence on later American novels is the easiest claim in the whole field to make and one of the hardest to make responsibly. Every reader who has met a self-invented striver, a narrator hovering at the edge of someone else's catastrophe, or a book that ends by widening from one person's failure to a national condition has felt the resemblance. Feeling a resemblance is not the same as demonstrating a debt. This article argues that the debt is real, that it runs through four specific inheritable elements rather than through a general atmosphere, and that a claim about any particular later book has to meet a standard most such claims never attempt.
 
-![Gatsby's influence on later American novels traced through figure, narration, and structure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby's influence on later American novels traced through figure, narration, and structure - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The discipline matters because loose influence claims are the weakest paragraphs in most comparative essays. A student who writes that a later novel was clearly influenced by Fitzgerald because both books feature a rich man and a party has produced an assertion no examiner can reward. The same student, equipped with a method for distinguishing inheritance from convergence, can build a paragraph that survives challenge. What follows is that method, applied.
 

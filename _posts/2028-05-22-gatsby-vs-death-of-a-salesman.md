@@ -6,17 +6,17 @@ date: 2028-05-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "The American Dream", "Literary Criticism", "American Literature", "Close Reading"]
 excerpt: "Gatsby vs Death of a Salesman: how Fitzgerald and Miller indict the same American promise at opposite ends of the class ladder, with two empty funerals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-05-22
+lang: en
 ---
-
 Two men are sold the same promise and neither survives it. That is the pairing at the center of Gatsby vs Death of a Salesman, and the reason it has been assigned in American classrooms for seventy years is that it works at two social altitudes at once. Jay Gatsby buys a mansion across the water from the woman he wants and dies in his own pool without her. Willy Loman rents a small house in Brooklyn, cannot make his territory pay, and drives into a wall so his family can collect the insurance. One man is a bootlegger with a fabricated past and a private beach. The other is a sixty-three year old salesman with a broken car and two disappointing sons. Set their stories together and the promise that destroyed them turns out to be identical.
 
 The comparison earns its place because it isolates a variable. If only Gatsby failed, the failure could be blamed on his methods: the crime, the lies, the absurdity of trying to repurchase a married woman with a light on her dock. Arthur Miller's play removes that defense. Willy Loman commits no crime worth the name, invents no Oxford year, and asks for nothing more exotic than to be well liked and to sell enough to keep the refrigerator. He fails anyway, and he fails through exactly the mechanism that destroys Gatsby: he believes a story about what personal magnetism can purchase in America, and the story is not true.
 
-![Gatsby vs Death of a Salesman comparing Jay Gatsby and Willy Loman as American dreamers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs Death of a Salesman comparing Jay Gatsby and Willy Loman as American dreamers - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 ## What Gatsby vs Death of a Salesman Actually Compares
 

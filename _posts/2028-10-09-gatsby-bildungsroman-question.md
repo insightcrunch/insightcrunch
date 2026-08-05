@@ -6,17 +6,17 @@ date: 2028-10-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Literary Criticism", "American Literature", "Character Analysis", "Themes"]
 excerpt: "Gatsby and the bildungsroman question, settled with evidence: Nick's summer is a real education, but the title figure never grows, and that split decides it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2028-10-09
+lang: en
 ---
-
 Ask an examiner whether The Great Gatsby is a coming-of-age novel and you will get a careful answer, because the honest one has two halves. Gatsby and the bildungsroman question is not a puzzle with a hidden solution; it is a genuine split in the book. One character in this novel is educated by the summer of 1922. He arrives in the East knowing very little about the people he is about to meet, and he leaves knowing more than he wants to. The other character, the one whose name is on the cover, ends the book believing exactly what he believed on the first page, and dies believing it.
 
 That split is the whole finding, and it is more interesting than either simple answer. A reader who says yes, the novel is a bildungsroman, has to explain why the title figure learns nothing. A reader who says no, it is not, has to explain what Nick Carraway is doing for nine chapters if not growing up. The productive position is that the book is a coming-of-age story wrapped around a man who cannot come of age, and that the friction between those two shapes is where its power sits.
 
-![Nick Carraway's education and the bildungsroman question in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nick Carraway's education and the bildungsroman question in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 Testing a genre claim against evidence is a different exercise from applying a label, and it is worth being clear about which one this article performs. Labels are cheap. The claim that the novel is a bildungsroman can be asserted in a sentence and defended with two quotations, and thousands of student essays do exactly that. What follows instead sets the actual features of the German form against what happens on the page, marks the fits, marks the failures, and then argues for a verdict that accounts for both.
 

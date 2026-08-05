@@ -6,15 +6,15 @@ date: 2028-08-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Modernism", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Comparative Study"]
 excerpt: "Gatsby and modernist American fiction: the company Fitzgerald keeps, the methods he shares, and why his novel carries modernism without its difficulty."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-08-21
+lang: en
 ---
-
 Gatsby and modernist American fiction have an awkward relationship in the classroom. The novel is taught as a modernist text, appears on modernism syllabuses, and shares a decade and a set of methods with the movement's central works, yet almost nobody finds it hard. Students who need three weeks and a guide to get through the era's celebrated experiments read this one over a weekend and enjoy it. That mismatch, between the movement it belongs to and the ease with which it goes down, is the placement's real subject. Resolving it produces an argument about what modernism actually required and what it merely happened to look like.
 
-![Gatsby and modernist American fiction of the 1920s and its place in the movement explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby and modernist American fiction of the 1920s and its place in the movement explained - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The stakes are not merely taxonomic. How a reader files the novel determines what they look for in it. Filed as a social novel about the 1920s, it becomes a document of Prohibition, parties, and new money, and the analysis runs toward history. Filed as a modernist work, it becomes a book about fragmented time, unreliable telling, symbolic compression, and the collapse of inherited meaning, and the analysis runs toward method. Both files contain real material. The second is the one most often skipped, because the prose is so hospitable that readers stop noticing how strange the construction underneath it is.
 

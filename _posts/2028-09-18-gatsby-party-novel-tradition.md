@@ -6,13 +6,15 @@ date: 2028-09-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gatsby's Parties", "American Literature", "Literary Criticism", "Close Reading", "Symbolism"]
 excerpt: "Gatsby and the great American party novel: the four-beat structure behind the West Egg summer, and why the parties define a form eighteen centuries old."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-09-18
+lang: en
 ---
-
 Every reader remembers the parties, and almost nobody analyzes them. That is the strange fact behind any discussion of Gatsby and the great American party novel: the third chapter is the most quoted stretch of American prose about social life, and it is routinely treated as scenery in front of the plot rather than as the instrument the plot is built from. Set the novel among the books that use a party as a stage and the scenery reorganizes itself into a machine.
+
+![Gatsby and the Great American Party Novel - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The payoff of the comparison is a change in what the parties are for. Read alone, the West Egg summer looks like a display of excess with a moral attached, the kind of thing a novel puts in to say that the rich were shallow. Read against the tradition, it looks like an instrument of investigation. The party novel has always used the gathering to do something a conversation cannot: assemble an entire social order in one room, remove the ordinary rules that keep its parts separated, and record what happens when they touch. Fitzgerald did not invent that method. He perfected it, and he perfected it by adding a variable nobody had used before.
 

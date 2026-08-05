@@ -6,13 +6,15 @@ date: 2028-09-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Daisy Buchanan", "Character Analysis", "Literary Criticism", "American Literature", "Close Reading"]
 excerpt: "Daisy and the femme fatale tradition: how Fitzgerald's most labelled character fits the pattern's surface, fails its engine, and exposes its assumptions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2028-09-11
+lang: en
 ---
-
 Type her name into any essay-help site and the label arrives within two sentences. Daisy and the femme fatale tradition have been welded together in classroom discussion for so long that the pairing now feels like a finding rather than a claim, and that is exactly the problem worth examining. A label that arrives before the analysis is not a conclusion. It is a shortcut, and this one carries assumptions about women, desire, and blame that the novel itself declines to endorse.
+
+![Daisy and the Femme Fatale Tradition - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The payoff of setting Daisy Buchanan against the alluring-destroyer figure is not a verdict of guilty or innocent. It is a diagnosis. Run the comparison carefully and you find that Daisy matches the tradition's surface almost perfectly and fails its engine almost completely. She is beautiful, she is desired, she is the reason a man dies. She does not plan, does not manipulate toward an end, does not deploy her attraction as a weapon, and is not present for any of the decisions that kill him. The type requires intent. What Daisy supplies is drift.
 

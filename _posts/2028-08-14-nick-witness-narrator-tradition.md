@@ -6,15 +6,15 @@ date: 2028-08-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Close Reading", "Literary Criticism", "American Literature", "Comparative Study"]
 excerpt: "Nick Carraway and the witness-narrator tradition: the lineage of peripheral tellers Fitzgerald inherits, what the margin buys, and how Nick refines the form."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-08-14
+lang: en
 ---
-
 Nick Carraway and the witness-narrator tradition belong together so naturally that most readers never notice a tradition is operating at all. A man rents a small house next to a large one, watches the neighbor's story unfold, survives it, and writes it down. The arrangement feels like the only way the book could have been told, which is exactly what a well-inherited form feels like from the inside. It is not the only way. It is a specific technical choice with a documented lineage behind it, a set of costs the novel pays in full, and a set of advantages no other arrangement supplies. Seeing the choice as a choice is the difference between admiring Nick's narration and being able to argue about it.
 
-![Nick Carraway and the witness-narrator tradition of peripheral observers in fiction explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nick Carraway and the witness-narrator tradition of peripheral observers in fiction explained - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 The stakes are practical. Students are routinely asked why Fitzgerald did not narrate the book in the third person, or from Gatsby's own perspective, and the standard answers are thin: Nick keeps Gatsby mysterious, Nick lets us judge, Nick is the reader's stand-in. Each of those is true and none of them explains why the arrangement produces the effects it does. The lineage explains it. Writers had been refining the peripheral teller for the better part of a century before 1925, working out what the position could carry and what it could not, and Fitzgerald arrived at the problem with the accumulated solutions available to him. What he added is visible only once the inherited part is separated out.
 

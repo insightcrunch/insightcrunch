@@ -6,17 +6,17 @@ date: 2028-10-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Literary Criticism", "American Literature", "Close Reading", "Themes"]
 excerpt: "Gatsby and Greek tragedy compared in detail: how hubris, hamartia, peripeteia, and catharsis map onto Fitzgerald's novel, and where the ancient form strains."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-10-02
+lang: en
 ---
-
 Set Gatsby and Greek tragedy side by side and the novel stops looking like a jazz-age story about a man who threw parties. It starts looking like a shape the Athenians would have recognized: a large figure with a fatal excess of belief, a reversal that arrives exactly when he seems to have won, and an ending that leaves a witness alone on stage explaining what the audience just watched. Fitzgerald never announced that he was writing to a classical pattern. He did not need to. The pattern is in the bones of the book, and once a reader sees it, every scene reorganizes around it.
 
 That reorganization is the payoff of this comparison, and it is worth naming precisely. A realist reading of the novel treats Gatsby's death as bad luck: Wilson gets the wrong information from Tom, walks to West Egg with a gun, and shoots a man floating in a pool. A tragic reading treats the same death as the necessary consequence of something Gatsby chose. The first reading makes the ending sad. The second makes it inevitable. The difference between sad and inevitable is the difference between a story and a tragedy, and it is the whole argument of this article.
 
-![Gatsby and Greek tragedy compared through hubris and catharsis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby and Greek tragedy compared through hubris and catharsis - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 The classical apparatus is not decoration here. Hubris, hamartia, peripeteia, anagnorisis, and catharsis are the working parts of a machine the Greeks built to explain why great people fall, and Fitzgerald's novel runs that machine with an American engine. Gatsby's overreaching belief that he can repeat the past functions as the hubris of Greek tragedy, leading to his reversal and fall. That single sentence is the load-bearing claim of the comparison, and everything that follows tests it, extends it, and marks the places where it does not hold.
 

@@ -6,17 +6,17 @@ date: 2028-10-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "Literary Criticism", "American Literature", "Symbolism", "Themes"]
 excerpt: "Gatsby and the American pastoral tradition: how the green new world of the closing page and the valley of ashes stage an ideal and its industrial betrayal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-10-16
+lang: en
 ---
-
 The last page of the novel does something no reader forgets and few can explain, which is to leave Long Island entirely and look at a continent. Gatsby and the American pastoral belong together because that final movement is not a flourish; it is Fitzgerald placing his book inside a tradition four centuries old, in which America is imagined first as an unspoiled green land and then mourned as a land that was spoiled. Nick, lying on the sand, imagines the island as Dutch sailors first saw it, and the phrase he reaches for is "a fresh, green breast of the new world."
 
 Set that image beside the other landscape the novel insists on, the stretch of ground between West Egg and the city where ashes take the forms of houses and chimneys and rising smoke, and the tradition snaps into focus. One is the promise. The other is what the promise produced. Everything the book says about money, class, and desire runs between those two pieces of ground.
 
-![The American pastoral tradition in The Great Gatsby from green world to ash heap - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The American pastoral tradition in The Great Gatsby from green world to ash heap - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The claim this article defends is that the novel belongs to the American pastoral tradition, which dreams of an innocent green land and mourns its loss, and that the closing green-breast vision and the valley of ashes are the pastoral ideal and its betrayal set deliberately against each other. Eden was paved into an ash heap, and Fitzgerald put both ends of that process into one short book.
 

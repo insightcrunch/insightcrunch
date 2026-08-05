@@ -6,13 +6,15 @@ date: 2028-09-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Literary Criticism", "American Literature", "Character Analysis", "Close Reading"]
 excerpt: "Gatsby and the doomed romantic hero: the four conditions of romantic doom, the lineage standing behind him, and why the novel exalts a man it condemns."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2028-09-25
+lang: en
 ---
-
 The strangest thing about this novel is that it ends by exalting a man whose plan was absurd, whose money was criminal, and whose death changed nothing. Readers absorb that exaltation without examining it, which is why placing Gatsby and the doomed romantic hero side by side is worth a full article. The tradition explains the exaltation. It is not Fitzgerald's private eccentricity or Nick's sentimentality. It is a literary convention roughly two centuries old, with rules, and Gatsby follows every one of them.
+
+![Gatsby and the Doomed Romantic Hero - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The payoff of the comparison is a change in how the ending reads. Most first-time readers experience Gatsby's death as bad luck: a distraught mechanic, a wrong assumption about a yellow car, a revolver, a swimming pool. Under that reading the novel is a tragedy of accident, and the exaltation at the end is Nick being generous about a friend. The Romantic tradition supplies a different account. In this lineage the doom is not an interruption of the passion; it is the passion's completed form. The hero is destroyed because of what he wants and how completely he wants it, and the narrative grants him nobility precisely for being destroyed. Read that way, Wilson is an occasion rather than a cause, and the exaltation is structural rather than sentimental.
 

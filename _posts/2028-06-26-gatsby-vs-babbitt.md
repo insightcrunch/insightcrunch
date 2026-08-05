@@ -6,15 +6,15 @@ date: 2028-06-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Materialism", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Close Reading"]
 excerpt: "Gatsby vs Babbitt by Sinclair Lewis pairs two 1920s novels of American materialism, one satirizing the middle class and one mourning the gilded elite."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-06-26
+lang: en
 ---
-
 Three years before Jay Gatsby threw his first party, Sinclair Lewis published a novel about a middle-aged real estate broker in a midwestern city who owns an alarm clock he is proud of. Reading Gatsby vs Babbitt by Sinclair Lewis as a pair looks unpromising at first, since one book is a lyric tragedy about a criminal millionaire on Long Island and the other is a satire about a man who joins clubs. What the pairing produces is the fullest available picture of what the 1920s did to Americans with money, because the two books attack the same money culture from opposite ends of it and in opposite modes, and neither attack is complete without the other.
 
-![Gatsby vs Babbitt by Sinclair Lewis comparing 1920s materialism and conformity in Fitzgerald and Lewis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs Babbitt by Sinclair Lewis comparing 1920s materialism and conformity in Fitzgerald and Lewis - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 Lewis published Babbitt in 1922, and it entered the language almost immediately. To call someone a Babbitt is still to accuse them of a specific American failing: prosperous conformity, opinions borrowed from the club and the trade paper, a self assembled entirely from purchased goods and civic slogans. Fitzgerald published The Great Gatsby in 1925 and gave the same decade its elegy. Between them the two novels cover the class range where the money actually sat, and they agree about what the money was doing to the people who had it. They disagree, sharply and productively, about whether the correct response is contempt or grief.
 

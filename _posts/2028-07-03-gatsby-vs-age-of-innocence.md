@@ -6,15 +6,15 @@ date: 2028-07-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Wealth and Class", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Close Reading"]
 excerpt: "Gatsby vs The Age of Innocence pairs Fitzgerald and Wharton on old money and social closure, seen from outside the elite and from deep inside its codes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-07-03
+lang: en
 ---
-
 A man wants a woman he cannot have, and the reason he cannot have her is not distance, or her indifference, or any obstacle either of them chose. The reason is a set of rules nobody wrote down and everybody enforces. That sentence describes both books in the Gatsby vs The Age of Innocence pairing, and the pairing is valuable because the two novels stand on opposite sides of the rules. Edith Wharton writes from inside old New York, where the codes are inherited along with the silver. F. Scott Fitzgerald writes from the lawn of a man who bought his way to the edge of that world and was never going to be let in.
 
-![Gatsby vs The Age of Innocence comparing Fitzgerald and Wharton on old money and social closure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs The Age of Innocence comparing Fitzgerald and Wharton on old money and social closure - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 Wharton published her novel in 1920 and took the Pulitzer Prize for it the following year, the first woman to receive it. Fitzgerald published his in 1925. The two books are separated by five years and by fifty years of setting, since Wharton looks back at the New York of the 1870s from the vantage of the postwar decade while Fitzgerald writes his own moment. What they share is a subject that outlasts both settings: an American elite that governs by unspoken rule rather than by law, that punishes without ever naming the offense, and that destroys desire more efficiently than any external force could.
 

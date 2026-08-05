@@ -6,15 +6,15 @@ date: 2028-07-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Joseph Conrad", "Nick Carraway", "Literary Criticism", "American Literature", "Close Reading"]
 excerpt: "Gatsby vs Heart of Darkness compared: how Nick and Marlow both reconstruct a doomed, magnetic man from rumor, and what Fitzgerald took from Conrad's method."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-07-10
+lang: en
 ---
-
 Set the two books beside each other and the same shape appears twice. A man of no fixed origin acquires a reputation before he acquires a face. People who have never met him trade stories about where his money came from and what he did to get it. Then a second man, decent enough to be trusted and compromised enough to be interesting, travels toward him, hears the stories, meets the man, watches him fail, and afterward tells us what happened. That shape is the reason a Gatsby vs Heart of Darkness comparison is worth running at full length rather than mentioning in passing. Joseph Conrad built it in 1899. F. Scott Fitzgerald rebuilt it in 1925 on a stretch of Long Island shoreline, and the rebuilding was deliberate.
 
-![Gatsby vs Heart of Darkness comparison of Nick Carraway and Marlow as witness-narrators - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs Heart of Darkness comparison of Nick Carraway and Marlow as witness-narrators - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 What follows is not a claim that Fitzgerald wrote an American Congo. The subjects of the two books could hardly be further apart: one is about a European extraction industry operating on another continent under a fiction of moral improvement, the other about a bootlegger buying a house across a bay from a woman he loved five years earlier. The comparison earns its keep at the level of method. Both novelists decided that the most powerful way to present a magnetic and ruined man was to refuse to enter his head, and both found the same solution: hand the book to somebody standing slightly to the side.
 

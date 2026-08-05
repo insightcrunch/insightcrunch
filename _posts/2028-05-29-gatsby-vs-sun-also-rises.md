@@ -6,17 +6,17 @@ date: 2028-05-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "The Lost Generation", "Literary Criticism", "American Literature", "Close Reading"]
 excerpt: "Gatsby vs The Sun Also Rises: how Fitzgerald and Hemingway answered the same postwar silence with opposite styles, one lyrical, one stripped to the bone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-05-29
+lang: en
 ---
-
 Two books published eighteen months apart describe the same hollow and sound nothing alike. That is the whole interest of Gatsby vs The Sun Also Rises, and it is why the pairing has survived a century of classroom use without going stale. Fitzgerald's novel appeared in April 1925 and Hemingway's in October 1926, both from Scribner's, both edited by Maxwell Perkins, both written by young Americans living partly in Europe, and both about people who came out of a war into a decade that could not tell them what to do next. Set them side by side and the shared diagnosis is unmistakable. Read a paragraph from each and you would not guess they belonged to the same generation, the same publisher, or the same argument.
 
 The temptation is to make the comparison entirely about style, and the temptation is understandable because the contrast is spectacular. Fitzgerald writes long, cadenced sentences that reach for the transcendent and frequently get there. Hemingway writes short declarative ones that refuse metaphor and let the omissions carry the weight. Anyone can hear the difference in ten seconds. The problem with stopping there is that style is the surface of the comparison rather than its content, and an essay that catalogs the difference in sentence length has described two prose styles without saying anything about what either book believes.
 
-![Gatsby vs The Sun Also Rises comparing Fitzgerald's lyricism and Hemingway's spare style in two Lost Generation novels - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs The Sun Also Rises comparing Fitzgerald's lyricism and Hemingway's spare style in two Lost Generation novels - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 ## What Gatsby vs The Sun Also Rises Actually Compares
 

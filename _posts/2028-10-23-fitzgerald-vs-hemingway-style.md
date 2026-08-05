@@ -6,17 +6,17 @@ date: 2028-10-23
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Literary Criticism", "American Literature", "Close Reading", "Essay Writing"]
 excerpt: "Fitzgerald vs Hemingway as stylists: how lyrical cadence and spare declaration became two opposite and equally valid definitions of great American prose."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-10-23
+lang: en
 ---
-
 Two American writers born three years apart, working in the same decade, drinking in the same Paris cafes, arrived at prose styles so different that a reader can identify either from a single sentence. Fitzgerald vs Hemingway as stylists is the most instructive pairing in twentieth-century American writing precisely because neither is a lesser version of the other. They are opposite solutions to the same problem, which is how sentences carry feeling, and both solutions work.
 
 The payoff of setting them side by side is a better understanding of what a sentence can do. Read only Fitzgerald and you may conclude that prose becomes moving by accumulating image and rhythm until it swells. Read only Hemingway and you may conclude the reverse, that prose becomes moving by removing everything until what remains is unavoidable. Read them together and you discover that feeling is not carried by any particular density of language; it is carried by a controlled relationship between what is said and what is felt, and that relationship can be managed from either direction.
 
-![Fitzgerald and Hemingway compared as prose stylists lyrical against spare - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fitzgerald and Hemingway compared as prose stylists lyrical against spare - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Fitzgerald writes a lyrical, cadenced prose while Hemingway writes a spare, declarative one, and the two positions are not points on a scale with a correct middle. They are competing theories about where emotion lives in writing. One holds that a sentence should perform the feeling, rising and falling with it. The other holds that a sentence should withhold the feeling and let the reader supply it from the pressure of what has been left out.
 

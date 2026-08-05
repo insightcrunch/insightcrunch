@@ -6,15 +6,15 @@ date: 2028-06-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Close Reading"]
 excerpt: "Gatsby vs The Grapes of Wrath sets Fitzgerald's gilded dreamer beside Steinbeck's dispossessed Joads and shows one broken American promise from both ends."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-06-12
+lang: en
 ---
-
 Put a man in a white suit on a lawn in West Egg beside a family loading a dying truck outside Sallisaw, Oklahoma, and the first instinct is to say these two books have nothing to do with each other. That instinct is wrong, and the reason it is wrong is the whole payoff of reading Gatsby vs The Grapes of Wrath as a single argument. Fitzgerald's 1925 novel and John Steinbeck's 1939 novel are not two unrelated American stories. They are one story about a promise, told from the top of the ladder and from underneath it, and the promise breaks in both places.
 
-![Gatsby vs The Grapes of Wrath comparison of the American Dream in Fitzgerald and Steinbeck - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby vs The Grapes of Wrath comparison of the American Dream in Fitzgerald and Steinbeck - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The pairing is unusual in classrooms because the two books look so different on the shelf. One is short, lyrical, narrated by a single fastidious observer, and set among people who own boats. The other is long, angry, structured in alternating chapters, and set among people who own a mattress and a cooking pot. Yet each novel is organized around the same national sentence: work hard, move toward what you want, and America will hand it over. Jay Gatsby believes that sentence and gets rich enough to test it. The Joads believe it and get poor enough to test it. Neither test passes. Setting the books side by side does not flatten their differences; it isolates the variable they hold constant, which is the promise itself, and then shows what the promise does to people at two social altitudes.
 
