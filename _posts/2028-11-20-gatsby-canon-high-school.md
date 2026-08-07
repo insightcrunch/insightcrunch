@@ -6,15 +6,15 @@ date: 2028-11-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Canon", "High School English", "American Literature", "Teaching Literature", "Comparative Literature"]
 excerpt: "Gatsby in the canon of high school reading: why brevity, teachability, and a book-room advantage put this novel in front of nearly every American student."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-11-20
+lang: en
 ---
-
 Most Americans who have read a novel about the 1920s have read the same one, and most of them read it because a teacher handed it to them in eleventh grade. Gatsby in the canon of high school reading is not a footnote to the book's reputation. It is the mechanism by which the reputation reproduces itself, and it means that a single short novel has done more to shape how a country understands its own founding promise than any other work of American fiction. That is a large claim about a book, and the reasons for it are less flattering to the book than most readers assume.
 
-![Gatsby in the canon of high school reading](/assets/images/blog/blog-01.webp)
+![Gatsby in the canon of high school reading](/assets/images/blog/blog-79.webp)
 
 The comfortable explanation is that the novel earned its place by being great. The uncomfortable and more accurate explanation is that greatness is one input among several, and that the others include page count, vocabulary level, symbolic density, the shape of the school year, the availability of cheap copies, and where the book sits on a chronological syllabus. A curriculum is a scheduling problem before it is an aesthetic judgment, and Gatsby happens to solve the scheduling problem better than almost anything else of comparable stature. Call the difference between a book's literary merit and its curricular fitness the teachability premium. Gatsby has the largest teachability premium in American literature, and it is the reason the book is everywhere.
 

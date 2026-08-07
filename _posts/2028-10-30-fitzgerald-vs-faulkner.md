@@ -6,15 +6,15 @@ date: 2028-10-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Fitzgerald vs Faulkner", "American Dream", "Comparative Literature", "Modernism", "Literary Analysis"]
 excerpt: "Fitzgerald vs Faulkner on the American Dream: the Eastern dreamer against the Southern historian, on a past that their self-made men can never escape."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2028-10-30
+lang: en
 ---
-
 Set The Great Gatsby beside Absalom, Absalom! and the American Dream stops being one idea. It becomes two incompatible machines for grinding people down. That is the payoff of reading Fitzgerald vs Faulkner on the American Dream: not a ranking, not a regional curiosity, but a diagnosis. Both writers watched a man build himself from nothing, and both watched the building collapse. What separates them is what they think the wreckage is made of. For Fitzgerald it is a personal history a man tried to rewind. For Faulkner it is a collective history a whole region cannot put down.
 
-![Fitzgerald vs Faulkner on the American Dream](/assets/images/blog/blog-01.webp)
+![Fitzgerald vs Faulkner on the American Dream](/assets/images/blog/blog-05.webp)
 
 The comparison is usually skipped because the two writers look nothing alike on the page. Fitzgerald wrote a novel you can finish on a train ride. Faulkner wrote sentences you can lose an afternoon in. Fitzgerald's America runs from West Egg to the Plaza Hotel. Faulkner's runs through a single invented Mississippi county he mapped and populated across a dozen books. The surface difference is so loud that the shared subject goes unheard. And the shared subject is enormous: an American who believes the future can be built by will, and an author who knows the ground under that man is already occupied by something he did not put there.
 

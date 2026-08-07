@@ -6,15 +6,15 @@ date: 2029-03-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The orgastic future is the most disputed word in The Great Gatsby, and the choice between orgastic and orgiastic changes what the novel's ending promises."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-03-26
+lang: en
 ---
-
 "Gatsby believed in the green light, the orgastic future that year by year recedes before us." The orgastic future is the strangest phrase in The Great Gatsby and the most argued over, because for a large part of the twentieth century a great many readers encountered a different word in the same slot. Editions printed "orgiastic." Teachers taught it. Students quoted it. Two words, one letter apart, sitting in the second-to-last sentence of the most studied novel in American literature, and the disagreement over which one belongs there has outlasted almost everyone involved in starting it.
 
-![The orgastic future word choice debate in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The orgastic future word choice debate in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 This article treats the dispute as a textual crux rather than as trivia. It sets out what each word means, what evidence bears on which one Fitzgerald wrote, what the sentence does under each reading, and how a student should handle the problem in an essay without either overclaiming a resolution or pretending the question does not matter. The surrounding sentences, including the closing line about boats and current, are read in detail elsewhere in the series; the concern here is one word and the argument it has generated.
 

@@ -6,15 +6,15 @@ date: 2029-03-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The foul dust quote clears Gatsby and condemns everything around him, and that split verdict on page two governs how the whole novel is finally judged."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-03-19
+lang: en
 ---
-
 "it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men." The foul dust quote closes the second page of The Great Gatsby, and it settles the novel's verdict before a single scene has been narrated. Nick Carraway has just finished explaining his habit of withholding judgment; within a few sentences he delivers one, and it is the most consequential judgment in the book. Gatsby is cleared. Everything that surrounded him is condemned. A reader who takes that sentence seriously will find that the remaining eight and a half chapters are an argument in support of a conclusion already reached.
 
-![The foul dust quote in The Great Gatsby analyzed line by line - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The foul dust quote in The Great Gatsby analyzed line by line - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The line is quoted constantly and read carelessly, usually because it is extracted from the middle of a longer sentence that begins with a flat declaration about how Gatsby turned out. Detached that way, the phrase sounds like an image of general corruption in the Jazz Age. Read whole, in its place, it is something much more specific: a legal move, a separation of defendant from circumstances, executed by a narrator who has just told the reader he does not like to convict people.
 

@@ -6,15 +6,15 @@ date: 2029-03-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "Close Reading", "Symbolism", "American Literature"]
 excerpt: "The fresh green breast of the new world passage traces Gatsby's longing back to the first sight of the continent and turns one dream into a national one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 40
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-03-12
+lang: en
 ---
-
 "a fresh, green breast of the new world." The fresh green breast passage arrives in the final pages of The Great Gatsby, after the funeral, after Nick has decided to go back west, when a man alone on a beach at night watches the houses along the shore stop looking like houses. In four sentences Fitzgerald pulls the camera back three hundred years and shows the reader what the same stretch of water looked like to men who had never seen it before. Nothing in the plot requires this. Gatsby is dead, Tom and Daisy have gone, and the novel could end without it. The passage exists to change the scale of everything the reader has just watched, and it succeeds so completely that Gatsby's private longing for a woman across a bay becomes indistinguishable from an entire continent's founding appetite.
 
-![The fresh green breast of the new world passage in The Great Gatsby analyzed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The fresh green breast of the new world passage in The Great Gatsby analyzed - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 This article treats the vision as a single unit of composition and takes it apart clause by clause. The larger arguments about frontier mythology and the pastoral tradition belong elsewhere in the series; what matters here is how these particular sentences work, what they claim, and why the passage is the reason the novel's ending feels larger than its story.
 

@@ -6,15 +6,15 @@ date: 2028-11-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Horatio Alger", "Self-Made Man", "American Dream", "Comparative Literature", "Literary Analysis"]
 excerpt: "Gatsby and the Horatio Alger Myth: how the novel invokes the rags-to-riches formula in a boyhood schedule and then quietly voids each element of that formula."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2028-11-13
+lang: en
 ---
-
 On the last flyleaf of a ragged copy of Hopalong Cassidy, a boy in North Dakota wrote out a daily schedule. He would rise at six, exercise, study electricity, work, practice elocution, save five dollars, and be better to his parents. Sixteen years later he was a bootlegger shot in a pool he had never used. Reading Gatsby and the Horatio Alger myth together is how you measure the distance between those two facts, and the measurement is the novel's central act of demolition.
 
-![Gatsby and the Horatio Alger Myth](/assets/images/blog/blog-01.webp)
+![Gatsby and the Horatio Alger Myth](/assets/images/blog/blog-78.webp)
 
 The schedule is not a charming detail. It is the novel's proof that Jay Gatsby began as the most conventional American product imaginable: a poor boy who had read the success literature and believed it. Fitzgerald could have made his protagonist a natural criminal or an aristocrat in disguise. Instead he gave him a childhood copy of the national self-improvement script, dated it, and had his father produce it at the funeral as evidence of what the boy might have become. The Alger formula is invoked with precision and then taken apart element by element, and the taking apart is not incidental to the book. It is the book.
 

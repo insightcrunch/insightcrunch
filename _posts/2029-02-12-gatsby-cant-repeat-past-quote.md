@@ -6,17 +6,17 @@ date: 2029-02-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Close Reading", "Themes", "Literary Criticism", "American Literature"]
 excerpt: "Can't repeat the past? Quote analyzed in full: what Nick warns, how Gatsby answers, and why this Chapter 6 exchange states the novel's central delusion."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-02-12
+lang: en
 ---
-
 Two men are walking on a path littered with fruit rinds and crushed flowers after a party nobody enjoyed, and one of them says something reasonable. Nick tells Gatsby not to ask too much of Daisy, and then adds the flat piece of common sense that the novel has been circling for six chapters: you cannot repeat the past. Can't repeat the past? Quote analyzed at full length, Gatsby's four-word reply is the most important thing he says in the book, and it is a question rather than a statement, which is the detail almost every discussion loses.
 
 He does not argue. He does not explain. He repeats Nick's phrase back as an incredulous question, as though the proposition were so obviously false that its statement requires checking, and then answers himself. The exchange runs to about twenty words total and contains the entire architecture of the novel: a correct warning, a refusal, and a man looking around him wildly as if the thing he wants were hiding somewhere in his own garden.
 
-![Can't repeat the past quote analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Can't repeat the past quote analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 This article works through the exchange in detail: who speaks, in what order, what each speaker means, why Fitzgerald placed it where he did, and what the passage argues that a paraphrase cannot capture. It defends a specific reading against the standard classroom one, which treats Gatsby's answer as simple foolishness and misses the fact that he is partly right. To see how the exchange sits against the pages that surround it, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which holds the full annotated text along with close-reading tools, a searchable quotation bank, and character and theme trackers, with the library expanding over time.
 

@@ -6,15 +6,15 @@ date: 2029-01-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Close Reading", "Symbolism", "Themes", "Literary Criticism", "American Literature"]
 excerpt: "Boats against the current: the final image of Gatsby unpacked word by word, how the metaphor works, and why the persistence matters as much as the futility."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2029-01-15
+lang: en
 ---
-
 "So we beat on, boats against the current, borne back ceaselessly into the past." Boats against the current: the final image of The Great Gatsby is thirteen words long, it is carved on the author's grave, and it is quoted more often than any other sentence in American fiction by people who have never read the book it ends. What follows is that image taken apart on its own terms: what the picture contains, how the metaphor is engineered, why the pronoun changes everything in the last twelve pages, and why reading it as pure defeat gets the sentence exactly half right.
 
-![Boats against the current: the final image of The Great Gatsby explained through Fitzgerald's closing metaphor - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Boats against the current: the final image of The Great Gatsby explained through Fitzgerald's closing metaphor - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The picture is simple enough that a child can see it. Small craft on moving water. Oars working. Forward effort meeting backward force, and the backward force winning. What makes the sentence extraordinary is not the picture but the arithmetic underneath it, because Fitzgerald has arranged the metaphor so that the losing and the rowing cannot be separated. You cannot extract the futility without also extracting the effort, and you cannot admire the effort without accepting that it fails. That refusal to let the reader choose is the whole achievement.
 

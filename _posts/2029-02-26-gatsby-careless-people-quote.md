@@ -6,17 +6,17 @@ date: 2029-02-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Daisy Buchanan", "Close Reading", "Themes", "Literary Criticism"]
 excerpt: "The careless people quote explained in detail: what Nick's Chapter 9 verdict on Tom and Daisy means, why it names a privilege, and how to use it well."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-02-26
+lang: en
 ---
-
 Nick meets Tom Buchanan on Fifth Avenue months after the summer has ended, and Tom, unrepentant, explains why he told George Wilson whose car killed Myrtle. Nick shakes his hand because refusing seemed silly. Then, walking away, he delivers the sentence that has functioned ever since as the novel's moral summary. The careless people quote explained properly is not a complaint about manners. It is a description of how a certain kind of wealth operates, and it is the closest Fitzgerald comes to stating a political position in a book that mostly refuses to state one.
 
 Nick calls Tom and Daisy careless people. He says they smashed up things and creatures, then retreated back into their money or their vast carelessness, or whatever it was that held them together, and left other people to clean up the mess they had made. Six clauses, one image of retreat, and a verdict that the rest of the novel has been assembling for eight chapters without ever announcing it.
 
-![The careless people quote explained in The Great Gatsby Chapter 9 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The careless people quote explained in The Great Gatsby Chapter 9 - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This article takes the verdict apart: the scene that produces it, the precise accusation it makes, the word doing the heaviest work, the moral position it commits Nick to, and the objection that the verdict is convenient for the man delivering it. To see how the passage sits against the final chapter, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which keeps the full annotated text together with close-reading tools, a searchable quotation bank, and character and theme trackers, and continues to expand.
 

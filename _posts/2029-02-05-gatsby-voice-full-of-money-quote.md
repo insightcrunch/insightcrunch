@@ -6,17 +6,17 @@ date: 2029-02-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Daisy Buchanan", "Close Reading", "Themes", "Literary Criticism", "American Literature"]
 excerpt: "Her voice is full of money explained line by line: what Gatsby's famous line about Daisy means, how it fuses love and class, and how to use it in an essay."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-02-05
+lang: en
 ---
-
 Gatsby says six words on a lawn in East Egg and the novel rearranges itself around them. Nick has been fumbling for a description of Daisy since the first chapter, and here, standing in the heat before the drive into town, he gets close and then stalls out. Gatsby finishes the sentence for him. Her voice is full of money explained more to Nick in one breath than his own months of watching had produced, and the phrase has been doing that work for readers ever since. It is the line most often pulled out to prove that Fitzgerald wrote a book about class rather than a book about love, and it is also the line that proves the distinction was never available in the first place.
 
 The line is short enough to fit on a postcard and heavy enough to carry the novel's central argument. What makes it remarkable is not that it says something cutting about a rich woman. Plenty of novels do that. What makes it remarkable is who says it, and what it costs him to say it, and the fact that the man who loves Daisy more than anything is the man who identifies the sound of her charm as the sound of her bank balance, without any apparent sense that he has just undermined his own devotion.
 
-![Her voice is full of money quote explained in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Her voice is full of money quote explained in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 This article takes the line apart: the exact words, the scene that produces them, the speaker who supplies them, the narrator who confirms them, and the imagery that follows in the next sentence and is almost always dropped when the quotation is repeated. It also argues a specific reading, which is that the line performs a fusion rather than a substitution, and that misunderstanding this is the single most common error students make when they cite it. If you want to see where the phrase sits on the page and how it lands against the paragraphs on either side, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which keeps the full annotated text, close-reading tools, a searchable quotation bank, and character and theme trackers in one place, with the library growing steadily.
 

@@ -6,15 +6,15 @@ date: 2029-01-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Close Reading", "Literary Criticism", "American Literature", "Themes"]
 excerpt: "The first line of Great Gatsby explained: what Nick's father said, why his promise of reserved judgment breaks, and how the sentence frames the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-01-08
+lang: en
 ---
-
 "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since." That is where the book starts, and every argument the novel later makes about money, class, love, and memory is already loaded into it. Here is the first line of Great Gatsby explained at the level the sentence actually rewards: not as a graceful throat-clearing before the plot arrives, but as a load-bearing structure that installs a narrator, sets a moral standard, and plants the irony the remaining nine chapters will spend themselves detonating.
 
-![The first line of The Great Gatsby explained through Nick Carraway's opening advice and the novel's moral frame - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The first line of The Great Gatsby explained through Nick Carraway's opening advice and the novel's moral frame - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 Most readers pass over the opening in about four seconds. They register a mild, well-mannered voice, a father, some advice, and they move on toward the parties. That speed is the problem. Fitzgerald spent the sentence's twenty-one words buying three things at once, and a reader who does not stop to itemize the purchase will misread Nick Carraway for the entire book. The sentence sells you a narrator who is fair. It sells you a moral vocabulary built on advantage rather than virtue. And it sells you a retrospective vantage point from which the whole story is already finished and already being judged. The novel then proceeds to break the first promise, honor the second in ways that indict everyone including Nick, and depend absolutely on the third.
 

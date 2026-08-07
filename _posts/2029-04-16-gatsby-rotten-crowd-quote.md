@@ -6,15 +6,15 @@ date: 2029-04-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Jay Gatsby", "Chapter 8", "Close Reading", "Character Analysis"]
 excerpt: "They're a rotten crowd is Nick's only compliment to Gatsby, shouted across a lawn in Chapter 8. A close reading of the verdict and exactly what it weighs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 40
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2029-04-16
+lang: en
 ---
-
 "They're a rotten crowd," Nick shouts across the lawn on the last morning of Gatsby's life. "You're worth the whole damn bunch put together." It is the only thing Nick ever says to Gatsby's face that could be called praise, he delivers it at a distance, at volume, from beside a hedge, and he immediately tells the reader that he disapproved of the man from beginning to end. The novel's clearest moral statement arrives in the form of a shout from someone leaving.
 
-![They're a rotten crowd quote analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![They're a rotten crowd quote analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 This article reads the line itself. The larger questions of whether Nick functions as the novel's moral center, and whether Gatsby is finally an idealist or a criminal, belong to the character studies that own them. What belongs here is the sentence: its adjective, its arithmetic, its volume, its placement, and the gloss Nick attaches to it one paragraph later. The claim this article defends is that the shout is not a burst of feeling but a completed judgment, an accounting in which both sides are weighed and one wins, and that its power comes precisely from the fact that Nick does not like the man he is defending.
 

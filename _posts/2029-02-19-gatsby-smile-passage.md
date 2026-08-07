@@ -6,17 +6,17 @@ date: 2029-02-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Close Reading", "Chapter 3", "Literary Criticism", "American Literature"]
 excerpt: "Gatsby's smile passage analyzed in full: how the Chapter 3 description builds his charm, why the smile vanishes, and how to use the passage in an essay."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2029-02-19
+lang: en
 ---
-
 A man at a party has been talking to Nick for several minutes about the war and a hydroplane, and Nick, who has not met his host, complains to this stranger that he has not met his host. The stranger says he is Gatsby. Then Fitzgerald stops the novel for four sentences and describes a smile.
 
 Gatsby's smile passage analyzed closely turns out to be the most concentrated piece of characterization in the book, and it is characterization delivered entirely through the effect of a face on the person looking at it. Nothing is said about Gatsby's motives, history, or personality. The reader is told what happens inside Nick when the smile arrives, and what happens inside Nick when it goes. From those two pieces of information the reader constructs an entire man, which is a technical achievement worth taking apart.
 
-![Gatsby's smile passage analyzed in The Great Gatsby Chapter 3 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby's smile passage analyzed in The Great Gatsby Chapter 3 - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 The passage is usually quoted for its warmth and almost never for its ending, which is where the argument is. Fitzgerald builds the most flattering description of a human expression in American fiction and then removes it in a single clause, leaving a man Nick calls an elegant young roughneck whose formality of speech only just avoids being ridiculous. The removal is not an afterthought. It is the point. To see how the description sits against the party chapter surrounding it, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which keeps the full annotated text, close-reading tools, a searchable quotation bank, and character and theme trackers together, with the library growing over time.
 

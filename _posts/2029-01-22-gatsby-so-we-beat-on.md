@@ -6,15 +6,15 @@ date: 2029-01-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 9", "Close Reading", "Themes", "Literary Criticism", "American Literature"]
 excerpt: "So we beat on: closing paragraph analyzed sentence by sentence, tracing how the ending widens from Gatsby's green light to a condition that includes everyone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-01-22
+lang: en
 ---
-
 "Gatsby believed in the green light, the orgastic future that year by year recedes before us." That sentence opens the passage most readers mean when they talk about how the novel ends, and it is where the book performs its final and largest move. So we beat on: closing paragraph analyzed properly means tracking a widening, because in roughly seventy words Fitzgerald takes a story about one man's specific delusion and converts it into a description of everyone alive, and he does it by changing pronouns rather than by making an argument.
 
-![So we beat on: the closing paragraph of The Great Gatsby analyzed from the green light to the boats - Insight Crunch](/assets/images/blog/blog-01.webp)
+![So we beat on: the closing paragraph of The Great Gatsby analyzed from the green light to the boats - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 Most analysis of the ending goes straight to the final sentence and stops there. That is understandable, since the boats are the most quoted thirteen words in American fiction, but it produces a distorted reading. The final sentence is a conclusion, and conclusions cannot be understood apart from what they conclude. The passage that leads into it is a controlled expansion in four stages, each with its own grammatical signature, and a reader who watches the stages will see something a reader who arrives at the last line cold cannot: the ending does not assert that Gatsby's story is universal. It performs the universalizing, in front of you, one pronoun at a time.
 

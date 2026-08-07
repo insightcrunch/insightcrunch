@@ -6,15 +6,15 @@ date: 2028-11-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Waste Land", "T. S. Eliot", "Valley of Ashes", "Modernism", "Comparative Literature"]
 excerpt: "Gatsby and T. S. Eliot's The Waste Land: two 1920s wastelands, one of them dying of drought and the other drowning in water that renews nothing at all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-11-06
+lang: en
 ---
-
 Three years separate the two most quoted American accounts of a spiritually dead modern world, and they are not two novels. One is a poem of four hundred and thirty-odd lines published in 1922. The other is a short novel published in April 1925. Reading Gatsby and T. S. Eliot's The Waste Land together is not a stunt assignment, because the connection is documented on both sides: Fitzgerald admired Eliot enough to inscribe a copy of his novel to him as the greatest living poet, and Eliot wrote back that he had read the book three times and considered it the first step American fiction had taken since Henry James. Two writers who did not share a country of residence, a form, or a temperament recognized each other immediately, and the reason is visible in the first paragraph of the novel's second chapter.
 
-![Gatsby and T. S. Eliot's The Waste Land](/assets/images/blog/blog-01.webp)
+![Gatsby and T. S. Eliot's The Waste Land](/assets/images/blog/blog-88.webp)
 
 What they share is a landscape. Both works place a ruined, sterile terrain at the center of a modern civilization and then refuse to redeem it. Eliot's is dry, stony, and thirsty. Fitzgerald's is grey, powdered, and industrial. Neither writer offers the reader a way out of it. But the two landscapes fail in opposite ways, and that opposition is where the comparison earns its keep. Eliot's world dies of drought. Fitzgerald's world is surrounded by water on every side and dies anyway, which is a bleaker proposition than the poem's, and one the novel arrives at by inversion rather than imitation.
 

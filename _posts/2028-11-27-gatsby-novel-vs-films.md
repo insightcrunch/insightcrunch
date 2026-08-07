@@ -6,15 +6,15 @@ date: 2028-11-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Film Adaptations", "Nick Carraway", "Adaptation Studies", "Comparative Literature", "Literary Analysis"]
 excerpt: "Gatsby compared to its film adaptations: spectacle gained and interiority lost, and why Nick's narration has defeated the camera for a whole century now."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2028-11-27
+lang: en
 ---
-
 Four times in a century, filmmakers have taken The Great Gatsby to the screen, and four times the same thing has happened. The parties arrive intact. The clothes, the cars, the house, the light across the bay, the crowds pouring out of Manhattan on a Saturday night: all of it films beautifully, and some of it films better than it reads. Then the camera reaches the sentences and stops. Gatsby compared to its film adaptations is not a question about fidelity, and treating it as one is why most discussions of the subject go nowhere. It is a question about what a first-person retrospective narrator does that a lens cannot do, and the answer explains something about the novel that no amount of reading it alone will reveal.
 
-![Gatsby compared to its film adaptations](/assets/images/blog/blog-01.webp)
+![Gatsby compared to its film adaptations](/assets/images/blog/blog-30.webp)
 
 Call the pattern spectacle gained, interiority lost. Every adaptation improves on the novel's surface, because the novel's surface is described and film's surface is present. Every adaptation loses the layer underneath, because that layer is made of a specific man's retrospective judgment delivered in prose, and there is no shot that contains a judgment. The trade is structural rather than a failure of any particular director, which is why the same result arrives in 1926, 1949, 1974, and 2013 under wildly different aesthetic regimes.
 

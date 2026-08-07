@@ -6,15 +6,15 @@ date: 2028-12-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Themes", "Close Reading"]
 excerpt: "Gatsby and contemporary wealth fiction share four structures: the outsider observer, the failed claimant, protected carelessness, and spectacle as status."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-12-18
+lang: en
 ---
-
 Every few years a new novel or series arrives about people with more money than anyone can account for, and every few years a reviewer reaches for the same comparison. Gatsby and contemporary wealth fiction have become a permanent pairing in the critical vocabulary, and the pairing is usually made lazily, as shorthand for parties and excess. Made carefully, it turns into one of the most useful things a reader can do with Fitzgerald's book, because it reveals which parts of his anatomy of the rich were tied to 1922 and which parts are still load-bearing a century later.
 
-![Gatsby and contemporary wealth fiction compared - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby and contemporary wealth fiction compared - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The claim this article defends is narrow and testable. Recent fiction about the ultra-rich reworks a specific set of structures Fitzgerald assembled: an observer positioned between the wealthy and the world, a self-made claimant whose money cannot buy standing, an inherited elite whose carelessness is protected by capital, and a spectacle whose function is to convert money into legitimacy. Those four structures recur so persistently across books, films, and series that the recurrence cannot be coincidence, and understanding why they recur explains what the novel actually diagnosed.
 

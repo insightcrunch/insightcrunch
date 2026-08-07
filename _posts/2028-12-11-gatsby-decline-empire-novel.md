@@ -6,15 +6,15 @@ date: 2028-12-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Themes", "Close Reading"]
 excerpt: "Gatsby and the decline-of-empire novel: how Fitzgerald reads gilded American grandeur as the symptom of a coming fall, not as ordinary 1920s prosperity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-12-11
+lang: en
 ---
-
 Set Fitzgerald's summer of 1922 beside the books that read a civilization's magnificence as the first symptom of its collapse, and a familiar story changes shape. Gatsby and the decline-of-empire novel turn out to share a single governing instinct: that the moment a society looks most triumphant is the moment its historians will later mark as the beginning of the end. Read this way, the orchestras and the motorboats and the crates of citrus stop functioning as background color for a love story and start functioning as evidence. They are what a culture at its zenith produces just before the ground gives way.
 
-![Gatsby and the decline-of-empire novel explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gatsby and the decline-of-empire novel explained - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 This is not a reading Fitzgerald announces. He never uses the word empire about America, never stages a senate scene, never sends a legion anywhere. What he does instead is build a book whose every image of abundance carries a small rot inside it, and then hand the reader a narrator who is telling the story from the far side of the events, already knowing how the summer ended. That structure, grandeur narrated retrospectively by someone who has seen the wreckage, is the structural signature of the decline tradition. Fitzgerald simply relocates it from Rome and Byzantium and the Habsburg court to a stretch of Long Island shoreline and the offices behind it.
 

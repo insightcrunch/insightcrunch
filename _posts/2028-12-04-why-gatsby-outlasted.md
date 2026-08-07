@@ -6,15 +6,15 @@ date: 2028-12-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Endurance", "1920s Literature", "American Dream", "Comparative Literature", "Literary Canon"]
 excerpt: "Why Gatsby outlasted its contemporaries: compression, myth, and portable symbols kept it alive while the decade's bestsellers and satires quietly faded."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-12-04
+lang: en
 ---
-
 In 1925 the American bestseller lists were led by a novel called Soundings, by A. Hamilton Gibbs. The Pulitzer that year went to Edna Ferber. Sinclair Lewis was the country's most discussed novelist and would take the first American Nobel Prize in Literature five years later. Booth Tarkington had two Pulitzers and a national readership. And a short book by a thirty-year-old with a reputation for writing about flappers sold about twenty thousand copies against expectations of seventy-five thousand, disappointed its author, and went quietly out of print.
 
-![Why Gatsby outlasted its contemporaries](/assets/images/blog/blog-01.webp)
+![Why Gatsby outlasted its contemporaries](/assets/images/blog/blog-44.webp)
 
 Understanding why Gatsby outlasted its contemporaries means explaining a reversal that nobody in 1925 predicted and that was not decided by sales, prizes, or critical consensus at the time. The comfortable answer is that the postwar revival rescued a neglected masterpiece, and that answer is partly right and badly incomplete. Plenty of neglected books were available for rescue. Only some got rescued, and the ones that did had properties in common. This article names those properties and argues that the endurance was built into the novel rather than conferred on it afterward.
 

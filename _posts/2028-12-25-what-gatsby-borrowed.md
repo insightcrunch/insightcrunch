@@ -6,15 +6,15 @@ date: 2028-12-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "American Literature", "Literary Criticism", "Close Reading", "Context"]
 excerpt: "What Gatsby borrowed from earlier books: Conrad's narrator, the Romantic hero, Keats's lyric line, and the success myth, each inherited then reversed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 47
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-12-25
+lang: en
 ---
-
 Ask what Gatsby borrowed from earlier books and the honest answer is almost everything except the result. The witness-narrator came from Conrad. The doomed lover with a vision too large for the world came from the Romantics. The lyric sentence, the one that suspends a moment inside its own music, came from Keats. The self-improvement schedule came from a founding father's autobiography by way of a century of dime novels. The banquet host with money and no standing came from a Roman satirist. Fitzgerald invented none of these, and the book is nevertheless unlike anything that preceded it, which is the whole problem this article exists to solve.
 
-![What Gatsby borrowed from earlier books explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What Gatsby borrowed from earlier books explained - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 This is the closing article of a long run of comparisons, and it turns the direction of inquiry around. The other pieces in this sequence set the novel against later work and asked what it produced. This one asks what produced it. The finding is that Fitzgerald's originality is not a matter of having invented his materials but of having fused materials that had never previously been put in the same book, and of having transformed each one in the process of fitting it to the others.
 

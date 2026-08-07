@@ -6,15 +6,15 @@ date: 2029-03-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "The reserving judgments quote shows Nick claiming tolerance and then confessing its limit, and that confession is what makes his later verdicts credible."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-03-05
+lang: en
 ---
-
 "In consequence, I'm inclined to reserve all judgements, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores." The reserving judgments quote arrives on the first page of The Great Gatsby, three sentences into a narrator's self-introduction, and it does more work than any other self-description in the novel. Readers who take it as a promise of neutrality are baffled by the book that follows, since Nick Carraway proceeds to rank, dismiss, admire, and condemn almost everyone he meets. Readers who take it as a lie dismiss the narrator too quickly and lose the one thing that makes his final verdict worth anything. The passage itself resolves the problem, because Fitzgerald wrote the limit into the claim.
 
-![Nick Carraway's reserving judgments quote in The Great Gatsby analyzed line by line - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nick Carraway's reserving judgments quote in The Great Gatsby analyzed line by line - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 What the opening actually stages is a narrator building a moral position in public and then immediately confessing where that position breaks. Within the same run of paragraphs, Nick moves from an inherited piece of paternal advice, to a habit of withholding verdicts, to a boast about his own tolerance, to the flat admission that the tolerance has an end point. That sequence is not an accident of drafting. It is the design that licenses everything Nick does for the next nine chapters, and it explains why a narrator who spends the book judging can still be trusted when he delivers the judgments that matter.
 

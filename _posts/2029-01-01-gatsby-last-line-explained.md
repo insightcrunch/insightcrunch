@@ -6,15 +6,15 @@ date: 2029-01-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Themes", "American Literature", "Literary Criticism"]
 excerpt: "The last line of Great Gatsby explained: what boats against the current means, why its grammar splits active and passive, and why it is not simple despair."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-01-01
+lang: en
 ---
-
 "So we beat on, boats against the current, borne back ceaselessly into the past." Fourteen words, four commas, one metaphor, and the most quoted sentence in American fiction. It appears on graduation cards, in wedding speeches, and on the walls of people who have read it as encouragement, which is a misreading the sentence invites and then quietly refuses. This is the last line of Great Gatsby explained in full: what it says, what it does, why its rhythm works, and why the optimistic reading and the despairing reading are both incomplete.
 
-![The last line of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The last line of The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The claim this article defends is that the sentence is neither hopeful nor hopeless but structurally double, holding forward effort and backward motion in the same clause so that neither cancels the other. That doubling is not a subtlety a reader has to search for. It is built into the grammar, and the grammar is the analysis.
 
