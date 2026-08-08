@@ -1,0 +1,80 @@
+name: Fix internal paths
+
+# Rewrites internal article links that use a section prefix the site does not
+# have. The permalink is /:year/:month/:day/:title/, so /blog/slug and
+# /insights/slug never resolve.
+#
+# Trigger it from the browser, no terminal needed:
+#   GitHub repo -> Actions tab -> Fix internal paths -> Run workflow
+#
+# Leave "dry run" true the first time. Nothing is committed and the log shows
+# every count. Run again with dry run false to apply.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Report only, commit nothing'
+        type: boolean
+        required: true
+        default: true
+      strip_unwritten:
+        description: 'Also drop the bad prefix from links to unwritten posts'
+        type: boolean
+        required: true
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Repair internal paths
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ "${{ inputs.strip_unwritten }}" = "true" ]; then
+            ARGS="$ARGS --strip-unwritten"
+          fi
+          python _scripts/fix_internal_paths.py $ARGS
+
+      - name: Summarise remaining prefixed links
+        if: ${{ inputs.dry_run == false }}
+        run: |
+          echo "### Internal path check" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Prefix | Links still present |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
+          for p in blog insights reportmedic; do
+            count=$(grep -rho "](/$p/[^)]*)" _posts 2>/dev/null | wc -l | tr -d ' ')
+            echo "| /$p/ | $count |" >> "$GITHUB_STEP_SUMMARY"
+          done
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "Remaining /blog/ and /insights/ links point at posts that are not written yet." >> "$GITHUB_STEP_SUMMARY"
+          echo "All /reportmedic/ links need a human decision and are never rewritten." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and push
+        if: ${{ inputs.dry_run == false }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add -A
+          git commit -m "Rewrite prefixed internal links to full dated permalinks"
+          git push
