@@ -149,7 +149,7 @@ The intelligence dimension compounded the material disparity. American cryptanal
 
 The financial dimension receives less attention in military histories but was equally significant. The United States funded its mobilization through a combination of taxation, bond sales, and monetary expansion that no Axis power could replicate. The Lend-Lease program, which had been supplying Britain and the Soviet Union before December 1941, expanded massively after the declaration. Total Lend-Lease shipments to all recipients exceeded $50 billion (approximately $700 billion in 2005 dollars), including $31 billion to Britain, $11 billion to the Soviet Union, and smaller amounts to China, France, and other allies. These shipments provided not only weapons and ammunition but trucks, locomotives, railroad equipment, food, petroleum products, and industrial machinery that sustained Allied operations across every theater. The Soviet Lend-Lease contribution is often underappreciated: the 400,000 American trucks that reached the Soviet Union provided the logistical backbone for the Red Army's deep-operation offensives of 1943-1945, enabling the rapid advances that the Soviet Union's own automotive industry, devastated by the German occupation of key industrial regions, could not have sustained independently.
 
-Readers interested in examining how logistical capacity shaped combat outcomes in the European theater can consult [ReportMedic's analysis of Allied supply-chain architecture in Western Europe](/reportmedic/allied-supply-chain-architecture-western-europe/), which traces the material pipeline from American factories to front-line units.
+Readers interested in examining how logistical capacity shaped combat outcomes in the European theater can consult [ReportMedic's analysis of Allied supply-chain architecture in Western Europe](https://reportmedic.org/tools/wwii-battlefield-medicine.html#medical-logistics), which traces the material pipeline from American factories to front-line units.
 
 ## The Command-Architecture Failure
 
@@ -195,7 +195,7 @@ The complication remains significant without rescuing the decision. Even grantin
 
 The argument that Hitler gained something by striking first, by seizing initiative and demonstrating resolve, fails the operational test entirely. Initiative matters when it produces military advantage; Hitler's declaration produced no military advantage beyond unrestricted U-boat operations that were already effectively underway in practice. The Paukenschlag submarine offensive would have been equally possible had hostilities begun through American initiative three or six months later, and the American coastal-defense weaknesses that Drumbeat exploited were time-limited regardless of who declared first.
 
-A separate [ReportMedic examination of how the December 1941 declarations reshaped casualty-treatment protocols across the Atlantic theater](/reportmedic/atlantic-theater-casualty-protocols-1941-1942/) documents the medical-logistics dimension of the expanded conflict.
+A separate [ReportMedic examination of how the December 1941 declarations reshaped casualty-treatment protocols across the Atlantic theater](https://reportmedic.org/tools/wwii-battlefield-medicine.html#medical-logistics) documents the medical-logistics dimension of the expanded conflict.
 
 ## Verdict: The Decision That Sealed Defeat
 
