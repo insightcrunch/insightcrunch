@@ -1,0 +1,75 @@
+name: Fix companion links
+
+# Runs the companion-link repair scripts and commits the result.
+#
+# Trigger it from the browser, no terminal needed:
+#   GitHub repo -> Actions tab -> Fix companion links -> Run workflow
+#
+# Leave "dry run" set to true the first time. The log shows exactly what would
+# change and nothing is committed. Run it again with dry run set to false to
+# apply the fix.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Report only, commit nothing'
+        type: boolean
+        required: true
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Repair companion domains
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python _scripts/fix_companion_domains.py --dry-run
+          else
+            python _scripts/fix_companion_domains.py
+          fi
+
+      - name: Repair companion slugs
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python _scripts/fix_companion_slugs.py --dry-run
+          else
+            python _scripts/fix_companion_slugs.py
+          fi
+
+      - name: Summarise remaining broken references
+        run: |
+          echo "### Companion link check" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Reference | Files still matching |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
+          for term in vaultbook.org reportmedic.com upsc-previous-year-question-papers; do
+            count=$(grep -rl "$term" _posts _data admin 2>/dev/null | wc -l | tr -d ' ')
+            echo "| $term | $count |" >> "$GITHUB_STEP_SUMMARY"
+          done
+
+      - name: Commit and push
+        if: ${{ inputs.dry_run == false }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add -A
+          git commit -m "Repair companion tool links across posts and data files"
+          git push
