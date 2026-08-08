@@ -6,17 +6,17 @@ date: 2006-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Third Intermediate Period", "Ancient Egypt", "Religion", "Historiography", "Pharaohs"]
 excerpt: "Egyptian temples were landholding corporations rather than mere houses of worship, and their estates ran much of the economy once royal power fragmented."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-07-01
+lang: en
 ---
-
 Egyptian temples were the largest economic institutions in the ancient Nile valley, and treating them primarily as places of worship is the single error that most obscures how Egypt was actually run. A major temple was a landholding corporation. It owned fields across multiple provinces, herds of cattle, flocks, orchards, vineyards, quarries, fishing and fowling rights, boats, workshops, and granaries. It employed farmers, herdsmen, gardeners, scribes, weavers, brewers, bakers, sculptors, metalworkers, guards, and sailors, most of whom never performed a religious rite in their lives. It kept accounts, conducted audits, ran law courts through oracle procedure, financed expeditions, stored and lent grain, and, in some periods, collected revenue from territory outside Egypt. Its senior officers were among the wealthiest and most powerful men in the country, and by the Third Intermediate Period the head of the greatest of them, the estate of Amun at Karnak, was writing his name in a cartouche.
 
 That last fact is where the economic story becomes a political one. When the New Kingdom's centralized monarchy fractured after the death of Ramesses XI, the institution that inherited the running of Upper Egypt was not a rival royal house or a provincial governorship. It was a temple. For roughly four centuries thereafter, in a country that had no single ruler, temple estates carried functions a modern reader would assign to a treasury, a land registry, a bank, an employment system, and a judiciary. Understanding how that happened, and why it was possible, is the point of this article.
 
-![Egyptian temples as economic and political power centers, land, labor, grain, and the temple estate explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egyptian temples as economic and political power centers, land, labor, grain, and the temple estate explained - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The argument advanced here is the temple-as-institution thesis: Egyptian temples were less houses of worship than vast economic corporations with religious charters, and the reason they held real political power when the monarchy fractured is that they had always held real economic power, accumulated gift by gift over a thousand years of royal endowment. The crown built its own successor. Every pharaoh who granted land to a god in return for divine favor was transferring a permanent, tax-privileged, hereditary asset out of royal control into an institution that never died, never divided its holdings among heirs, and never voluntarily gave anything back. Over centuries the arithmetic ran only one way, and by the time it mattered the temples owned enough of Egypt to govern it.
 

@@ -6,17 +6,17 @@ date: 2006-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Third Intermediate Period", "Ancient Egypt", "Archaeology", "Historiography", "Pharaohs"]
 excerpt: "Third Intermediate Period art did not die with the unified state. Workshops revived older styles, cast superb bronzes, and Kushite kings restored the canon."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2006-05-01
+lang: en
 ---
-
 Third Intermediate Period art is the strongest single argument against the idea that political fragmentation kills a civilization. Between the end of the New Kingdom and the Assyrian invasions, Egypt had no single ruling house for most of a four-century stretch. Kings at Tanis in the Delta claimed the double crown while high priests at Thebes ran the south as a theocratic principality. Libyan chiefs carved out hereditary domains at Bubastis, Leontopolis, Herakleopolis, and half a dozen smaller centers. By the eighth century BCE a traveler moving from the Mediterranean coast to the First Cataract would have crossed the territory of five or six rulers, several of whom used royal titles simultaneously. On any political measure this looks like breakdown. On the evidence of what was actually made, carved, cast, painted, and inscribed during those same centuries, it looks like something much more interesting: a civilization that responded to the loss of central authority by reaching backward into its own past and rebuilding its visual language from earlier models.
 
 That reaching backward is the phenomenon Egyptologists call archaism, and it is the defining artistic behavior of the era. Sculptors working in the ninth and eighth centuries BCE produced statues whose proportions, wig types, kilt forms, and inscription styles deliberately recall the Old Kingdom of Egypt, a thousand and more years before their own moment. Relief carvers copied Fifth Dynasty tomb scenes. Scribes revived Middle Kingdom orthography and even Middle Kingdom grammar in monumental texts. This was not incompetent imitation by craftsmen who had lost the ability to invent. It was a deliberate, technically demanding, expensive program of quotation, and the same workshops that produced it were simultaneously turning out bronze statuary of a delicacy and technical sophistication that has few rivals anywhere in the ancient world.
 
-![Third Intermediate Period art, archaism, and the Kushite revival in a fragmented Egypt explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Third Intermediate Period art, archaism, and the Kushite revival in a fragmented Egypt explained - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 This article makes an argument it will defend throughout: the look-backward-to-survive thesis. Third Intermediate artists and their patrons revived the deep Egyptian past not because they were creatively exhausted but because, in a country with no agreed center, the visual past was the one thing every claimant could point to as a source of legitimacy. Style became argument. A Libyan chief at Herakleopolis who commissioned a statue in Middle Kingdom idiom was making a claim about who he was and what he was continuing. A Kushite king from Napata who restored temple reliefs at Karnak in a scrupulously classical manner was making the same claim with more resources behind it. The art of a fragmented Egypt is best read not as the residue of a declining culture but as a sustained institutional effort to keep saying, in stone and metal, that Egypt was still Egypt.
 

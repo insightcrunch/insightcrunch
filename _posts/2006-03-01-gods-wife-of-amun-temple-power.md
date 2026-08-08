@@ -6,17 +6,17 @@ date: 2006-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Third Intermediate Period", "Religion", "Thebes", "Ancient Egypt", "Historiography"]
 excerpt: "The God's Wife of Amun became the most powerful woman in Thebes, a celibate royal priestess who governed the south for kings who ruled from the north."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-03-01
+lang: en
 ---
-
 At Medinet Habu, on the west bank at Thebes, stand a row of small chapels built for women. They are funerary monuments, decorated with offering scenes, and the women commemorated in them are shown wearing the vulture headdress, shaking sistra before the gods, receiving the embrace of Amun, and carrying their names inside cartouches. Cartouches were royal. So were several of the rituals depicted. None of these women ever held the throne of Egypt, and none of them had children. They were the God's Wives of Amun, and for roughly two centuries they were the effective governors of southern Egypt.
 
 The office is one of the strangest and most instructive institutions the ancient world produced. It solved a specific political problem with a piece of theological engineering so elegant that four successive dynasties, two of them foreign, used it without modification. Egypt after the New Kingdom had a Theban problem: the priesthood of Amun controlled the wealthiest religious establishment in the country and a hereditary High Priest could turn that wealth into a rival monarchy, which is precisely what had happened. The answer was to move supreme religious authority at Thebes into the hands of a king's daughter who was married to the god, who could never marry a man, and who therefore could never produce an heir to challenge anyone. She ruled the south. When she died, the reigning king's daughter was adopted as her successor, and the south passed peacefully to the next dynasty.
 
-![The God's Wife of Amun and the political power of the Theban temple estates explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The God's Wife of Amun and the political power of the Theban temple estates explained - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 This article sets out what the office actually was, where it came from, what its holders owned and did, how the succession by adoption worked, how much real power the evidence supports attributing to them, and how the institution let kings at Tanis, Libyan chiefs in the Delta, Kushite pharaohs from Napata, and finally the Saite dynasty at Sais each govern Thebes from a distance without ever losing it. The organizing claim is the celibate-queen-of-the-south thesis: the God's Wife of Amun let kings rule Thebes at arm's length through a powerful woman who could not found a rival dynasty, which made her the safest possible person to give enormous power to.
 

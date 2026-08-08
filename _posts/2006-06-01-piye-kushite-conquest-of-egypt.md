@@ -6,17 +6,17 @@ date: 2006-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Kush", "Third Intermediate Period", "Ancient Egypt", "Biography", "Warfare"]
 excerpt: "King Piye marched north from Nubia around 728 BCE and took a divided Egypt, then framed the whole conquest as a pious restoration ordered by the god Amun."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-06-01
+lang: en
 ---
-
 King Piye is the most thoroughly self-documented conqueror in Egyptian history and one of the least understood. Around 728 BCE, a ruler of the Kushite kingdom of Napata, well south of Egypt's traditional border, marched north with an army, broke a Delta coalition, took Memphis by storm, received the submission of every significant ruler in the Nile valley, and then went home. He left behind an inscription of extraordinary length and detail on a granite stela set up in the temple of Amun at Gebel Barkal, and that inscription is why he is a problem rather than merely a name. Most ancient conquests are known from a handful of formulaic lines. Piye's is known from a text that names cities, quotes speeches, records tactical arguments among his own officers, and dwells at length on his personal reactions, including his fury at discovering that a defeated enemy had allowed his horses to go hungry.
 
 The problem is that the same text is a work of royal self-presentation composed for a temple audience, and its relentless emphasis on piety, restraint, and religious correctness is doing political work. Piye does not present himself as an invader taking a neighboring country. He presents himself as the agent of Amun, arriving to correct the disorder of rulers who had abandoned proper conduct, and behaving throughout with the scrupulousness of a legitimate king performing his duties. Whether that framing is a description of his motives, a justification composed afterward, or something in between is the central interpretive question about him, and it will not be settled by finding a more honest source, because there is no more honest source.
 
-![King Piye and the Kushite conquest of Egypt, the Victory Stela and the campaign north explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![King Piye and the Kushite conquest of Egypt, the Victory Stela and the campaign north explained - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 This article argues for what can be called the pious-conqueror thesis: that Piye's religious framing was not a decorative afterthought but the operating logic of the entire campaign, shaping what he attacked, how he treated the defeated, where he stopped, and why he returned to Napata rather than staying to rule from Memphis. Read that way, the Victory Stela becomes intelligible as a coherent document rather than a strange mixture of military report and sermon, and Piye becomes something more interesting than either a conventional conqueror or a pious eccentric: a ruler who understood that in a fragmented Egypt, the currency of legitimate authority was religious correctness, and who spent it deliberately.
 

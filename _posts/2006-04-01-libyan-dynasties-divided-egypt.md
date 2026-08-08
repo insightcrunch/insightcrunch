@@ -6,17 +6,17 @@ date: 2006-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Third Intermediate Period", "Warfare", "Ancient Egypt", "Pharaohs", "Historiography"]
 excerpt: "Libyan warrior chiefs became pharaohs of Egypt, founding the Twenty-second Dynasty under Shoshenq I, then splintering the country into rival chiefdoms."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-04-01
+lang: en
 ---
-
 For more than two centuries, the men who ruled Egypt carried a title no Egyptian king had ever used. Alongside the traditional royal names and the cartouches and the epithets borrowed from the great pharaohs of the past, they styled themselves Great Chief of the Ma, chief of a Libyan tribal grouping their ancestors had belonged to. They built at Karnak, campaigned into the Levant, buried their dead in Egyptian style, and wrote in hieroglyphs. And they never gave up the chiefly title, because that was where their armed men came from and armed men were what kept them on the throne.
 
 That combination, pharaoh and tribal chief simultaneously, is the key to the Libyan period and to why it ended as it did. Egypt had spent the New Kingdom fighting Libyan incursions, defeating them repeatedly, and then settling the defeated in military colonies in the Delta and employing their sons as soldiers. Within a few generations the descendants of those settlers held the senior military commands. Within a few more, one of them took the throne, and his dynasty ruled Egypt for roughly two hundred years. Then the same structure that had raised them broke the country apart, because a political system built on chiefs who commanded personal followings produces more chiefs, and each of them wants a share.
 
-![How Libyan warrior chiefs became pharaohs and divided Egypt into rival chiefdoms - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Libyan warrior chiefs became pharaohs and divided Egypt into rival chiefdoms - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 This article follows the military story: where the Libyans came from, how Egypt fought them and then absorbed them, how a Meshwesh family at Bubastis took the crown, what Shoshenq I actually achieved with his Levantine campaign, how the armed structure of Libyan rule worked, and why an Egypt that began the period with one king ended it with half a dozen simultaneously. The organizing claim is the warrior-chief-to-pharaoh thesis: the Libyan dynasties turned settled foreign warlords into legitimate pharaohs, and their tribal military structure, which was the source of their strength, was also what ultimately fractured Egypt into rival chiefdoms.
 

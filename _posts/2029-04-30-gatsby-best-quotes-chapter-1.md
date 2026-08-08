@@ -6,15 +6,15 @@ date: 2029-04-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 1", "Close Reading", "Themes", "Symbolism", "American Literature"]
 excerpt: "The best quotes in Chapter 1 explained one by one, from the reserved judgments opening to the beautiful little fool wish and the first green light sighting."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-04-30
+lang: en
 ---
-
 Any reader hunting for the best quotes in Chapter 1 explained properly, rather than merely collected, is asking a structural question without knowing it. The opening movement of The Great Gatsby carries a remarkable density of quotable material for a stretch of roughly eight thousand words: a paternal maxim, a confession of method, a named exception, a racial panic at a dinner table, a mother's bitter wish for her daughter, a boast that curdles as it lands, and a man on a lawn reaching toward a light he cannot touch. Students copy these lines into revision notes and then find, at the desk, that the lines do not seem to belong to each other. They do. That is the whole point of gathering them.
 
-![The best quotes in Chapter 1 of The Great Gatsby explained with meanings and essay uses - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The best quotes in Chapter 1 of The Great Gatsby explained with meanings and essay uses - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 This piece curates the essential Chapter 1 quotations and reads each one for what it contributes, then argues for the pattern they make together. Individual lines that carry their own critical weight get fuller treatment elsewhere in this series: the opening sentence is unpacked in our reading of [the first line of The Great Gatsby](/2029/01/08/gatsby-first-line-explained/), Daisy's wish for her daughter gets its own extended analysis in [the beautiful little fool quotation](/2029/04/23/gatsby-beautiful-little-fool/), and the green light passage is treated as a discrete text in [the green light quotation analyzed](/2029/01/29/gatsby-green-light-quote/). The scene-level work belongs to our [Chapter 1 summary and analysis](/2022/06/27/great-gatsby-chapter-1-analysis/). What follows is the curated set: the lines themselves, their meanings, and the argument that they are a sequence rather than a heap.
 

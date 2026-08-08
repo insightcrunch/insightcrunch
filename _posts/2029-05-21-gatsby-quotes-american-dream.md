@@ -6,15 +6,15 @@ date: 2029-05-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The American Dream", "Close Reading", "Themes", "Symbolism", "American Literature"]
 excerpt: "Key quotes about the American Dream in The Great Gatsby, traced from the green light and the Platonic conception to the fresh green breast and the boats."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-05-21
+lang: en
 ---
-
 The key quotes about the American Dream in The Great Gatsby are not interchangeable, and treating them as though they were is the most common mistake students make with this material. A revision sheet typically offers six or seven famous lines under a single heading and leaves the impression that any of them will do for any dream-related prompt. They will not. Each of these quotations voices a different facet of the dream, and the facets arrive in an order that runs from wanting through inventing to consuming and finally to reckoning. Choose two from the same facet and a paragraph agrees with itself. Choose two from different facets and it argues.
 
-![Key quotes about the American Dream in The Great Gatsby analyzed with meanings and essay uses - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Key quotes about the American Dream in The Great Gatsby analyzed with meanings and essay uses - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 What follows curates the essential dream quotations across the whole novel and reads each for the facet it voices. The theme's full analysis lives elsewhere in this series: our account of [the American Dream in The Great Gatsby](/2024/04/22/american-dream-great-gatsby/) argues the theme, and [the corruption of the American Dream](/2024/04/29/gatsby-american-dream-corruption/) handles the decline. The green light as an object across all its appearances is traced in [the green light in The Great Gatsby](/2025/04/07/green-light-great-gatsby/), and the closing vision in [the fresh green breast of the new world](/2029/03/12/gatsby-fresh-green-breast/). Here the concern is the language: which lines, what each voices, and how they connect.
 

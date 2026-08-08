@@ -6,17 +6,17 @@ date: 2006-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Third Intermediate Period", "Kush", "Nubia", "Pharaohs", "Ancient Egypt"]
 excerpt: "The Nubian pharaohs of Kush ruled all Egypt as the Twenty-fifth Dynasty, reviving old forms and championing the god Amun until Assyria drove them out."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-01-01
+lang: en
 ---
-
 For roughly ninety years, the men who wore the double crown of Egypt were not Egyptians. They came from Kush, a kingdom on the middle Nile in what is now northern Sudan, and they marched north into a country so politically shattered that no single ruler could stop them. The Nubian pharaohs of the Twenty-fifth Dynasty took Thebes, then Memphis, then the whole Delta, and for the first time since the collapse of the New Kingdom a single crown governed the Nile from the Mediterranean to beyond the Fourth Cataract. What makes them remarkable is not simply that foreigners ruled Egypt, since foreigners had done that before and would do it repeatedly afterward. What makes them remarkable is the argument they made about themselves. They did not present their conquest as conquest. They presented it as rescue.
 
 That claim is the hinge of everything worth understanding about the Kushite century. A Libyan-descended patchwork of chiefs and petty kings had let the temples fall into disrepair, the Kushites said, and had abandoned the proper service of Amun. The kings of Napata, who had inherited the cult of Amun from centuries of Egyptian occupation in Nubia, arrived to restore what the northerners had let rot. They built in old styles, copied Old Kingdom texts, revived archaic royal titles, and made ostentatious displays of ritual purity. They out-Egypted the Egyptians, deliberately and as policy.
 
-![The Nubian pharaohs of Kush who ruled Egypt as the Twenty-fifth Dynasty, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nubian pharaohs of Kush who ruled Egypt as the Twenty-fifth Dynasty, explained - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The judgment history reached on them has swung hard in both directions. Classical writers called them Ethiopians and treated them as an exotic interruption. Nineteenth and early twentieth century Egyptology, working inside assumptions about race and civilization that no serious scholar now defends, tended to file them as a decadent late episode, or to insist that any Nubian achievement must have been derived from Egyptian teaching. More recent excavation at Napata, el-Kurru, Nuri, Kawa, and Sanam, together with far more careful reading of the Kushite royal inscriptions, has produced a different picture: a well-organized African kingdom with its own succession customs, its own royal iconography, and its own religious center, which took over Egypt and governed it with a mixture of local delegation and monumental piety. This article sets out who these kings were, how they took Egypt, how long they held it, what they built, how they understood themselves, what the modern argument about Black pharaohs actually rests on, and how Assyrian armies finally pushed them back to the south.
 

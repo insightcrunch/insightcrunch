@@ -6,17 +6,17 @@ date: 2006-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Kush", "Nubia", "Ancient Egypt", "Society", "Archaeology"]
 excerpt: "Egypt and Kush shaped each other for two thousand years through conquest, trade, religion, war, and intermarriage before Kush finally ruled Egypt outright."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-02-01
+lang: en
 ---
-
 In a cemetery in Lower Nubia, an archaeologist opens a grave and finds a body laid on its side in a contracted position, the local custom, surrounded by handmade black-topped pottery of a type produced nowhere in Egypt. Beside it lie an Egyptian scarab, a string of faience beads made in an Egyptian workshop, and a bronze mirror. The person buried there lived within a few days' sail of the Egyptian frontier, spoke a language unrelated to Egyptian, buried their dead by Nubian custom, and owned imported goods from downstream. Egypt and Kush produced graves like that for two thousand years, and they are the most honest available summary of the relationship: two distinct peoples, permanently entangled, neither absorbed by the other.
 
 The story is usually told as a one-way transmission. Egypt, the older and richer civilization, conquered Nubia, taught it writing and religion and architecture, and eventually suffered the indignity of being ruled by its own pupil. Almost every element of that summary is either wrong or badly incomplete. Nubia had its own kingdoms before Egypt conquered it, one of which was powerful enough to raid the Egyptian heartland. Egyptians took soldiers, police, gold, cattle wealth, and at least one god from the south. Nubians in Egypt served in armies, married into households, held office, and were buried in the Valley of the Kings. And Kushite civilization, after absorbing centuries of borrowing, went on to develop its own script, its own gods, and its own political forms that no Egyptian would have recognized.
 
-![Egypt and Kush, the tangled two-way history of Egypt and Nubia explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egypt and Kush, the tangled two-way history of Egypt and Nubia explained - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 This article follows the relationship as people actually lived it: the traders and expedition leaders who went south, the garrison soldiers who spent careers in Nubian forts, the Nubian archers and Medjay police who spent theirs in Egypt, the mixed households in the temple towns, the gods who crossed the border in both directions, and the material culture that shows a frontier population picking and choosing rather than surrendering its identity. The organizing argument is the two-way-influence thesis: Egypt and Kush shaped each other across two millennia, and neither is intelligible as simply the other's colony or copy.
 

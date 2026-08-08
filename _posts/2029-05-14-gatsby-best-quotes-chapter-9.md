@@ -6,15 +6,15 @@ date: 2029-05-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 9", "Close Reading", "Themes", "Symbolism", "American Literature"]
 excerpt: "The best quotes in Chapter 9 explained one by one, from the empty funeral and the careless people verdict to the closing lines about boats and the past."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-05-14
+lang: en
 ---
-
 Anyone searching for the best quotes in Chapter 9 explained properly is looking at the highest concentration of famous prose in American fiction. The closing movement of The Great Gatsby contains a funeral nobody attends, a two-word eulogy delivered by a drunk in spectacles, the harshest social verdict in the novel, and a final paragraph that has been quoted, carved, tattooed, and misused for a century. Students memorize the last sentence and one or two others and then write essays treating the chapter as a collection of endings stacked on top of each other. It is not a stack. It is one operation performed three times at three different scales.
 
-![The best quotes in Chapter 9 of The Great Gatsby explained, from the funeral to the closing meditation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The best quotes in Chapter 9 of The Great Gatsby explained, from the funeral to the closing meditation - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 This piece curates the essential quotations from the closing movement, reads each for its specific contribution, and argues for the pattern they make together. Individual lines with their own critical weight are treated separately in this series: the closing sentence gets a full reading in [the last line of The Great Gatsby explained](/2029/01/01/gatsby-last-line-explained/), the verdict on the Buchanans in [the careless people quotation explained](/2029/02/26/gatsby-careless-people-quote/). The scene-level work belongs to our readings of [the funeral](/2022/12/26/great-gatsby-chapter-9-funeral/) and [the final page](/2023/01/02/great-gatsby-chapter-9-final-page/). What follows is the curated set.
 

@@ -6,17 +6,17 @@ date: 2006-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Third Intermediate Period", "Ancient Egypt", "Historiography", "Archaeology", "World History"]
 excerpt: "The Third Intermediate Period is routinely labeled a dark age. The evidence shows a decentralized Egypt that kept its culture, crafts, and religion intact."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-08-01
+lang: en
 ---
-
 Was the Third Intermediate Period a dark age? The question is asked constantly, answered reflexively, and rarely examined, which makes it an unusually good test of how historical labels get applied and what they cost. The reflexive answer is yes: Egypt between roughly 1069 and 664 BCE had no single ruler for most of four centuries, was governed by competing dynasties of Libyan descent and then by kings from Nubia, built few great monuments, lost its empire and its foreign influence, and left behind a chronology so tangled that Egyptologists still cannot agree on the sequence of its rulers. On the standard criteria for a dark age, political fragmentation, foreign rule, monumental decline, and documentary obscurity, it appears to score on all four.
 
 The revisionist answer is no, and it is built on evidence that has accumulated steadily over the past century: the intact royal burials at Tanis with metalwork matching the best of the New Kingdom, the thousands of statues from the Karnak cachette, the finest bronze casting Egypt ever produced, a deliberate and scholarly artistic revival that reached back a thousand years and more, an intact scribal tradition capable of reviving a classical language, functioning temple institutions that continued to administer, adjudicate, and employ, and a reunification under Kushite kings that restored temples the previous rulers had let decay. On this reading the era was decentralized rather than dark, and the label reflects an old habit of measuring Egyptian civilization by the strength of its monarchy.
 
-![Was the Third Intermediate Period of Egypt a dark age, the debate and the evidence explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Was the Third Intermediate Period of Egypt a dark age, the debate and the evidence explained - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 This article takes a position and defends it: the decentralized-not-dark verdict. The period was a genuine time of division, contraction, and documentary murk, and pretending otherwise is as unhelpful as the label it corrects. But the specific claim embedded in dark age, that civilization itself declined and that the record went dark because there was less to record, does not survive the evidence. What went dark was central royal authority and the documentary apparatus attached to it. Egyptian civilization did not decline; it decentralized, and it demonstrably continued producing, thinking, building, and administering through institutions other than the crown. The label fails not because the period was good but because it names the wrong thing.
 

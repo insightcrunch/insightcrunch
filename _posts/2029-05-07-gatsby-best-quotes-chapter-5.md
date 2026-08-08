@@ -6,15 +6,15 @@ date: 2029-05-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 5", "Close Reading", "Themes", "Symbolism", "American Literature"]
 excerpt: "The best quotes in Chapter 5 explained one by one, from the stopped clock and the botched reunion to the beautiful shirts and the green light that shrinks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-05-07
+lang: en
 ---
-
 A reader looking for the best quotes in Chapter 5 explained rather than merely listed has arrived at the most emotionally crowded stretch of The Great Gatsby, and also the most frequently misread. This is the reunion. Five years of waiting resolve into an afternoon of tea in a small rented cottage, followed by a tour of a mansion nobody needed. Students come away with the sobbing over the shirts and little else, and then write essays claiming the chapter shows Gatsby getting what he wanted. It shows something stranger and more useful: a man receiving exactly what he asked for and discovering, line by line, that receiving costs him.
 
-![The best quotes in Chapter 5 of The Great Gatsby explained, covering the reunion and the shirts scene - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The best quotes in Chapter 5 of The Great Gatsby explained, covering the reunion and the shirts scene - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 What follows curates the essential quotations from this stretch and reads each for its specific contribution, then argues for the pattern they trace together. The scene-level narrative belongs elsewhere in this series: our reading of [the reunion with Daisy](/2022/09/26/great-gatsby-chapter-5-reunion/) handles the encounter as drama, and [the shirts scene](/2022/10/03/great-gatsby-chapter-5-shirts-scene/) treats that moment as an episode in its own right. The garments themselves are read as an object across the whole novel in [Gatsby's shirts as a symbol](/2025/07/28/gatsby-shirts-symbol/). Here the concern is the language: which lines matter, what each one does, and why they belong in a single set.
 
