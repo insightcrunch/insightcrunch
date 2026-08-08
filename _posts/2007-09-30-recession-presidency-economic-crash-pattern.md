@@ -115,10 +115,10 @@ The office's machinery, however expanded, cannot override the economic-political
 
 ## Cross-links
 
-[One-Term Presidents Since 1900: The Four-Part Pattern Before Every Defeat](/blog/one-term-presidents-pattern-since-1900) traces the broader regularity of which the year three-four rule is one component.
+[One-Term Presidents Since 1900: The Four-Part Pattern Before Every Defeat](/2007/10/11/one-term-presidents-pattern-since-1900/) traces the broader regularity of which the year three-four rule is one component.
 
-[Hoover and the Bonus Army: July 28, 1932](/blog/hoover-bonus-army-july-1932) shows the political collapse of an incumbent presiding over economic catastrophe in real time.
+[Hoover and the Bonus Army: July 28, 1932](/2008/06/04/hoover-bonus-army-july-1932/) shows the political collapse of an incumbent presiding over economic catastrophe in real time.
 
-[Carter's Desert One: April 1980](/blog/carter-desert-one-april-1980) places the failed Iran rescue in the stagflation context that doomed the 1980 reelection bid.
+[Carter's Desert One: April 1980](/2008/02/20/carter-desert-one-april-1980/) places the failed Iran rescue in the stagflation context that doomed the 1980 reelection bid.
 
-[Bush Sr. Raises Taxes: The 1990 Budget Deal](/blog/bush-sr-raises-taxes-1990-deal) reconstructs the policy choice that, paired with the 1990-1991 contraction, produced the 1992 defeat.
+[Bush Sr. Raises Taxes: The 1990 Budget Deal](/2008/01/24/bush-sr-raises-taxes-1990-deal/) reconstructs the policy choice that, paired with the 1990-1991 contraction, produced the 1992 defeat.
