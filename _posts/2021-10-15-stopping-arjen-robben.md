@@ -264,7 +264,7 @@ The fourth progression is the reception-denial version, which is a different ses
 
 The small-squad version drops the fourth progression entirely and runs the first three in a single channel with rotating roles. The poor-pitch version is unaffected, since every constraint is positional and none depends on a smooth surface, though the arc goal should be widened if the surface is bad enough that shooting accuracy becomes noise.
 
-For a coach who wants to hold the geometry table, the stepping rule, the far-side plan, and the session progressions in one place rather than across three notebooks, you can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), annotate the duel conditions alongside your own clips, and carry the whole match-week plan into the meeting on one screen.
+For a coach who wants to hold the geometry table, the stepping rule, the far-side plan, and the session progressions in one place rather than across three notebooks, you can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), annotate the duel conditions alongside your own clips, and carry the whole match-week plan into the meeting on one screen.
 
 ### How do you coach a defender to accept losing a duel?
 

@@ -239,7 +239,7 @@ Refuse the resolution. Essays that conclude the ending is hopeful, or that it is
 
 Pair it with the beginning. The novel opens on an unfinished clause about turning something over in the mind and closes on a sentence that stops absolutely. That contrast gives an essay a spine and lets you quote both famous passages while doing something with each.
 
-For working through the image alongside the surrounding text, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated edition, close-reading tools, searchable quotation bank, and theme and motif trackers let you follow the water imagery from Chapter One to the final page in a single pass, with a library that keeps expanding to more works and more study tools.
+For working through the image alongside the surrounding text, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated edition, close-reading tools, searchable quotation bank, and theme and motif trackers let you follow the water imagery from Chapter One to the final page in a single pass, with a library that keeps expanding to more works and more study tools.
 
 ## Closing Verdict
 

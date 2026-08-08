@@ -349,7 +349,7 @@ The fourth marker is the tempo of his carries. A space-beater accelerates. A pre
 
 The analyst's output is not a highlight reel. It is a distance recommendation, a covering depth, and a shape for the block, and it should fit on one page. The temptation with a spectacular dribbler is to build a video package showing everything he can do, which is the least useful possible product because it teaches defenders to fear him and to prepare for actions rather than for positions.
 
-The dossier that actually helps a coach contains three things: the receiving zones he uses most, the covering depth the plan requires against him, and the two triggers that convert containment into engagement. That page, plus a rehearsed session, is the whole preparation. Coaches and analysts who want to keep those dossiers organized across a season, with the clips and the notes attached to the plan rather than scattered across folders, can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), which is built for exactly this kind of match-week preparation.
+The dossier that actually helps a coach contains three things: the receiving zones he uses most, the covering depth the plan requires against him, and the two triggers that convert containment into engagement. That page, plus a rehearsed session, is the whole preparation. Coaches and analysts who want to keep those dossiers organized across a season, with the clips and the notes attached to the plan rather than scattered across folders, can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), which is built for exactly this kind of match-week preparation.
 
 ### How do you classify a dribbler in a single viewing?
 

@@ -186,7 +186,7 @@ The second is the pre-agreed hand-off boundary, which is the historic system's m
 
 A third item is worth mentioning even though it is not strictly a survivor: the zone-priced contact instruction. The historic system implicitly told markers where fouls were affordable. Modern sides should do it explicitly. A defender who knows before kickoff that a foul in the wide middle third is acceptable, a foul in the wide final third is expensive, and a foul in the central final third is close to unforgivable will defend three different ways in three different areas, which is what you want. Coaches who leave this to instinct get one instinct applied everywhere, and it is usually the wrong one.
 
-For a coach who wants to turn the reconstruction table into an actual opposition plan with assignments, boundaries, and contact pricing written down where players can see them, you can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), save the duel-condition notes alongside your session designs, and keep the whole match-week plan in one place rather than scattered across a notebook and a group chat.
+For a coach who wants to turn the reconstruction table into an actual opposition plan with assignments, boundaries, and contact pricing written down where players can see them, you can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), save the duel-condition notes alongside your session designs, and keep the whole match-week plan in one place rather than scattered across a notebook and a group chat.
 
 ## How to Practice the Duel
 

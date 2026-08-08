@@ -235,7 +235,7 @@ Anticipate the counter-reading inside the essay rather than after it. The best m
 
 Handle the prose fairly. Graders notice when a materialist essay treats the novel as a document. A sentence acknowledging that the same passage which conceals labor also produces the book's most beautiful effects, and that the concealment and the beauty are the same operation, demonstrates that the writer can hold two things at once.
 
-Gather the evidence in one pass rather than hunting through a paperback. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text, the searchable quotation bank, and the theme and motif trackers let you pull every reference to servants, wages, cars, and fortunes into a single working list before you draft. The library keeps expanding, so the same workflow carries over to whatever text the next assignment sets.
+Gather the evidence in one pass rather than hunting through a paperback. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text, the searchable quotation bank, and the theme and motif trackers let you pull every reference to servants, wages, cars, and fortunes into a single working list before you draft. The library keeps expanding, so the same workflow carries over to whatever text the next assignment sets.
 
 ### How do I write a thesis using this framework?
 

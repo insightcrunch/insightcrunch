@@ -514,7 +514,7 @@ Also free, also effective. The full-back is judged on whether the sequence ends 
 
 Even without a full shadowing instruction, a near-side midfielder who simply stands narrower than usual makes the entry pass harder. He does not need to shade a specific lane; he needs to be in the way more often than he would be by default.
 
-A coach putting the reduced version into a match-week plan can [build the opposition dossier free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), keeping the route decision, the far-post rule, and the review notes attached to the fixture so the choice can be evaluated afterward rather than argued about.
+A coach putting the reduced version into a match-week plan can [build the opposition dossier free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), keeping the route decision, the far-post rule, and the review notes attached to the fixture so the choice can be evaluated afterward rather than argued about.
 
 ## Five arguments about defending this profile, settled
 

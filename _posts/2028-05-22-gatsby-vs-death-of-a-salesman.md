@@ -201,7 +201,7 @@ Handle evidence with the asymmetry the forms require. From the novel, quote brie
 
 Close on the pairing's finding rather than on a restatement. The finding available here is unusually clean: there is no position inside the promise that survives it. Gatsby played aggressively and Willy played by the rules, and the outcome was identical, which means the game rather than the strategy is the problem.
 
-While drafting the novel half of your evidence, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html) to pull exact wording and track how the dream language recurs across chapters, which is faster than hunting quotations from memory and safer than trusting a summary site.
+While drafting the novel half of your evidence, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html) to pull exact wording and track how the dream language recurs across chapters, which is faster than hunting quotations from memory and safer than trusting a summary site.
 ## What Each Work Illuminates in the Other
 
 A pairing is worth keeping only if it changes how each text reads. This one changes both.

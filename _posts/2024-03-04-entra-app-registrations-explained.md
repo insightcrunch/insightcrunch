@@ -292,7 +292,7 @@ Define them as code so every change is reviewed and reproducible, and apply appl
 
 Auditability also means watching the right signals over time. The sign-in logs and audit logs on the service principal record who signed in, what consent was granted and by whom, and what changed on the instance, and reviewing those signals on a schedule catches the secret added out of process or the consent granted to an app nobody recognizes. Pair the code definition with the policy enforcement and the periodic review, and a registration stops being a thing that quietly accretes risk and becomes a managed identity surface you can reason about.
 
-To run, reproduce, and inspect any of this against a live tenant, [work through the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html), where you can register an app, expose an API with custom scopes, grant and consent permissions, and inspect the resulting service principal end to end, which turns the model in this article into muscle memory faster than reading alone.
+To run, reproduce, and inspect any of this against a live tenant, [work through the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html), where you can register an app, expose an API with custom scopes, grant and consent permissions, and inspect the resulting service principal end to end, which turns the model in this article into muscle memory faster than reading alone.
 
 ## How the Registration Feeds Each Authentication Flow
 

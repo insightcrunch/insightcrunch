@@ -333,7 +333,7 @@ Concede what is indefensible. The Wolfsheim portrayal cannot be defended and att
 
 Land on a passage. Whatever your verdict, it should rest on a specific piece of text you have analyzed rather than on a general impression. If your claim is that the compression is mastery, show a sentence doing three jobs. If your claim is that the ending is unearned, show what the preceding chapter did and did not establish.
 
-For assembling that evidence, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, character maps, and theme trackers let you gather the passages each side of the argument depends on and test the claims against them directly.
+For assembling that evidence, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, character maps, and theme trackers let you gather the passages each side of the argument depends on and test the claims against them directly.
 
 ## Closing Verdict
 

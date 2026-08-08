@@ -345,7 +345,7 @@ The cloture proceedings of June 10, 1964 and the roll calls are in the Record as
 
 The general method for locating these documents, moving from a popular name to a bill number to a public law number, and weighing document types against one another is covered in [finding legislative history sources](/2022/05/15/finding-legislative-history-sources/), which owns the sourcing questions for the whole series.
 
-Assembling this material for the first time is less a research problem than an organization problem: four bill versions, one committee report, months of floor debate, four recorded votes and a signing date, all of which have to be kept straight while reading. It helps to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.org/tools/legislation-study-notebook.html), where a single notebook can hold the gate-by-gate chronology, the differences between bill versions, and the citations for each claim in one annotated place that works offline.
+Assembling this material for the first time is less a research problem than an organization problem: four bill versions, one committee report, months of floor debate, four recorded votes and a signing date, all of which have to be kept straight while reading. It helps to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html), where a single notebook can hold the gate-by-gate chronology, the differences between bill versions, and the citations for each claim in one annotated place that works offline.
 
 ## What this passage story predicts about other statutes
 

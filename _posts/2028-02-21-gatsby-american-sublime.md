@@ -202,7 +202,7 @@ Pre-empt the objection in your own voice. Devote a paragraph to the reading that
 
 Close on the temporal move. The strongest available conclusion is the one about time. European versions of the aesthetic put the overwhelming object in front of the perceiver. Fitzgerald puts it three centuries behind, which converts an encounter into a bereavement, and which is why a book full of parties ends with a sentence about being carried backward against your will. That observation is specific, defensible, and unlikely to appear in the essay next to yours.
 
-For hunting the phrases yourself rather than borrowing a list, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text, the searchable quotation bank, and the motif trackers let you follow wonder, scale, and the vocabulary of enchantment through every chapter and collect your own evidence.
+For hunting the phrases yourself rather than borrowing a list, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text, the searchable quotation bank, and the motif trackers let you follow wonder, scale, and the vocabulary of enchantment through every chapter and collect your own evidence.
 
 ## Where This Lens Sits Among the Others
 

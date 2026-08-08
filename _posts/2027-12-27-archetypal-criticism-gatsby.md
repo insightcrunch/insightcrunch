@@ -245,7 +245,7 @@ The second is handling the seasonal argument through structure rather than throu
 
 The third is engaging the pattern-spotting objection inside the essay rather than hoping the reader will not raise it. A paragraph that acknowledges the method's weakness and then shows why this application avoids it converts the strongest counterargument into a demonstration of control. Examiners reward that move heavily, and the essay-strategy articles later in this series treat it as a general technique rather than a local one.
 
-For locating the passages this lens depends on, the [VaultBook annotated edition of the novel](https://vaultbook.org/tools/great-gatsby-annotated-text.html) is the fastest route, since the grail sentence, the solstice exchange, the ruined-world passage, and the closing cadence are marked in place and can be pulled with their surrounding context intact rather than as free-floating quotations. Reading the archetypal moments with the paragraphs around them is what keeps an essay from sounding like it was assembled from a quotation bank.
+For locating the passages this lens depends on, the [VaultBook annotated edition of the novel](https://vaultbook.net/tools/great-gatsby-annotated-text.html) is the fastest route, since the grail sentence, the solstice exchange, the ruined-world passage, and the closing cadence are marked in place and can be pulled with their surrounding context intact rather than as free-floating quotations. Reading the archetypal moments with the paragraphs around them is what keeps an essay from sounding like it was assembled from a quotation bank.
 
 ## Verdict
 

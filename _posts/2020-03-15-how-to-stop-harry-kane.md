@@ -84,7 +84,7 @@ Because it pre-answers the binary. In a back three the wide centre-back or the s
 
 This is the single largest structural argument for switching to a back three for a specific fixture, and it is worth taking seriously even for sides that never otherwise use one. The cost is real: a back three commits a body to defending that a back four uses to attack, and against a side that keeps its forward high you have converted a spare defender into a spectator. Against Kane, the spare defender is not a spectator. He is the answer to the article's central question, and he answers it every time without needing to think.
 
-For coaches who want to test both versions before choosing, this is a case where planning the fixture properly pays for itself, and you can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), keeping the two shape versions, the hand-off rules, and the trigger list in one place your staff can actually read on the day.
+For coaches who want to test both versions before choosing, this is a case where planning the fixture properly pays for itself, and you can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), keeping the two shape versions, the hand-off rules, and the trigger list in one place your staff can actually read on the day.
 
 ## The Follow or Pass Decision Table
 

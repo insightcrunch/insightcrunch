@@ -344,7 +344,7 @@ Check whether a historical record is being used to settle a theoretical question
 
 Check the immiseration claim if you intend to use it. The textual position is genuinely disputed between absolute and relative readings, and the defensible form of the objection concerns what the movement expected and organised for rather than what one chapter of Capital means.
 
-The reliable material sits in the primary works named in the ledger above, each of which is a book or article by an identifiable author making an identifiable argument, and in the historiographical literature on the Brenner debate, which is unusually well documented because it was conducted in a single journal over several years. Keeping a card for each objection with its author, work, target, and the standard reply attached is the practical defence against the errors above, and you can [save your notes and build a citation-linked reading list free on VaultBook](https://vaultbook.org/tools/marxism-study-notes.html) so the attribution travels with the argument.
+The reliable material sits in the primary works named in the ledger above, each of which is a book or article by an identifiable author making an identifiable argument, and in the historiographical literature on the Brenner debate, which is unusually well documented because it was conducted in a single journal over several years. Keeping a card for each objection with its author, work, target, and the standard reply attached is the practical defence against the errors above, and you can [save your notes and build a citation-linked reading list free on VaultBook](https://vaultbook.net/tools/marxism-study-notes.html) so the attribution travels with the argument.
 
 ## Writing about this in an examination
 

@@ -254,7 +254,7 @@ Add the turning constraint last, because it is the hardest. Shrink the area, req
 
 The small-squad version runs the first two progressions only, in a single channel with rotating roles and no goalkeepers, and it captures most of the value. The poor-pitch version is unaffected, since every constraint is positional. The one element that cannot be cut is the second defender's no-drift rule, because it is the only part of the session that teaches the article's central claim.
 
-For a coach who wants the asymmetry table, the single-word call, the overlap assignment, and the session progressions held together in one place rather than scattered across a notebook and a group chat, you can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), keep the duel-condition notes alongside your own clips, and carry the whole match-week plan into the meeting on one screen.
+For a coach who wants the asymmetry table, the single-word call, the overlap assignment, and the session progressions held together in one place rather than scattered across a notebook and a group chat, you can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), keep the duel-condition notes alongside your own clips, and carry the whole match-week plan into the meeting on one screen.
 
 ### How do you coach a defender with no weak side to attack?
 

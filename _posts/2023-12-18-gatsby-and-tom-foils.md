@@ -209,7 +209,7 @@ Because the hero and villain frame hides the shared flaw. Both men reduce Daisy 
 
 It reveals the novel's verdict on what America rewards. Forced to choose between Gatsby's dream and Tom's security, Daisy chooses the floor over the flight. The dreamer dies and the heir is protected, so her choice becomes the personal form of a social law, the law that old secure wealth survives and new aspiration is sacrificed when the two collide.
 
-To read the passages that build the contrast for yourself, with the introductions, the Plaza scene, and the closing judgment annotated side by side, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the close-reading tools, character maps, and searchable quotation bank let you track how Fitzgerald frames each man and where the foil tightens across the chapters. It is the natural next step for turning this reading into your own analysis of the pair.
+To read the passages that build the contrast for yourself, with the introductions, the Plaza scene, and the closing judgment annotated side by side, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the close-reading tools, character maps, and searchable quotation bank let you track how Fitzgerald frames each man and where the foil tightens across the chapters. It is the natural next step for turning this reading into your own analysis of the pair.
 
 ## Closing Verdict
 

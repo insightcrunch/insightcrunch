@@ -114,7 +114,7 @@ echo "$TOKEN" | cut -d. -f2 | tr '_-' '/+' \
 
 The habit worth building is to read the token whenever a call is rejected after a token issued, because the claims convert a vague permissions failure into a specific one: a missing `roles` entry points at an ungranted application permission, an unexpected `aud` points at a wrong scope, and an `oid` that does not match the role assignee points at a role granted to the wrong object. Each of those is a different fix, and the token names which one without a guess.
 
-The hands-on Azure command library and the searchable error reference that pairs each symptom with its causes are collected in [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html), which is the place to rerun each of these reproductions against a sandbox principal until the signal is unmistakable.
+The hands-on Azure command library and the searchable error reference that pairs each symptom with its causes are collected in [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html), which is the place to rerun each of these reproductions against a sandbox principal until the signal is unmistakable.
 
 ## How to Read the Entra ID Sign-In Logs for a Service Principal
 

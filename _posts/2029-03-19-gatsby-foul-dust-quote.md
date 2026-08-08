@@ -276,7 +276,7 @@ That paragraph runs near two hundred words, quotes two short fragments, analyzes
 
 It is the strongest evidence for questions about narrative reliability, about how the novel manages sympathy for a criminal protagonist, and about whether Gatsby is victim or agent. It supports but cannot anchor questions about the American dream, where the green light and the closing vision serve better.
 
-For students who want the sentence in front of them with the surrounding paragraphs intact, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the line sits in its place on the opening pages alongside close-reading tools, a searchable quotation bank, and character and theme trackers that make it straightforward to follow the dust motif from here to the valley of ashes. The library keeps growing, and the annotation layer is the fastest route from a famous phrase back to the paragraph that gives it meaning.
+For students who want the sentence in front of them with the surrounding paragraphs intact, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the line sits in its place on the opening pages alongside close-reading tools, a searchable quotation bank, and character and theme trackers that make it straightforward to follow the dust motif from here to the valley of ashes. The library keeps growing, and the annotation layer is the fastest route from a famous phrase back to the paragraph that gives it meaning.
 
 ## Verdict: Gatsby Cleared, His World Condemned
 

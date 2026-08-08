@@ -277,7 +277,7 @@ That paragraph runs near two hundred words, quotes one short fragment, handles t
 
 Open to the final page and read the second-to-last paragraph, the sentence beginning with what Gatsby believed in. The word sits between "the" and "future." Public-domain texts derived from the first printing and modern scholarly editions read "orgastic"; many mid-century reprints read "orgiastic."
 
-For students who want the closing paragraph in front of them with the surrounding pages intact, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the disputed phrase sits in place at the end of the final chapter alongside close-reading tools, a searchable quotation bank, and theme trackers that make it straightforward to follow the language of deferral from the dock in chapter one to the last page. The library keeps growing, and having the text in a searchable form is the quickest way to settle a question about wording without hunting through a shelf of editions.
+For students who want the closing paragraph in front of them with the surrounding pages intact, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the disputed phrase sits in place at the end of the final chapter alongside close-reading tools, a searchable quotation bank, and theme trackers that make it straightforward to follow the language of deferral from the dock in chapter one to the last page. The library keeps growing, and having the text in a searchable form is the quickest way to settle a question about wording without hunting through a shelf of editions.
 
 ## Verdict: One Word, a Lasting Controversy
 

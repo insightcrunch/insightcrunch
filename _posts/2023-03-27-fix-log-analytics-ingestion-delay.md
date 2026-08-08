@@ -171,7 +171,7 @@ Heartbeat
 | sort by MinutesSinceHeartbeat desc
 ```
 
-A host whose last heartbeat is recent in event time but whose last ingestion is also recent is healthy with normal timing. A host whose last heartbeat event time is old is going quiet, which is the no-data family rather than a delay, and the gap detector catches it early enough to act. Building these four patterns into saved queries, and rehearsing the read of each until it is automatic, is precisely the kind of repeatable diagnostic muscle the hands-on Azure [labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html) exist to develop, so that the toolkit is reflex by the time a real incident lands.
+A host whose last heartbeat is recent in event time but whose last ingestion is also recent is healthy with normal timing. A host whose last heartbeat event time is old is going quiet, which is the no-data family rather than a delay, and the gap detector catches it early enough to act. Building these four patterns into saved queries, and rehearsing the read of each until it is automatic, is precisely the kind of repeatable diagnostic muscle the hands-on Azure [labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html) exist to develop, so that the toolkit is reflex by the time a real incident lands.
 
 ## The distinct causes of a genuine ingestion delay
 
@@ -302,7 +302,7 @@ The findable artifact for this article is the InsightCrunch ingestion-latency ta
 | Connector or source lag | One data type far behind, everything else current | Per-table latency profile shows one table as the outlier | Yes, relative to its cadence. Check connector interval and upstream health; recalibrate that table's baseline |
 | Dashboard refresh inside window | Self-healing hole at the leading edge of a live chart | Widen the range or query on ingestion time and the hole disappears | No. Offset the dashboard to lag real time by the baseline window |
 
-The table is also the spine of a hands-on lab, because every row maps to a reproduction you can run. You can generate a controlled burst of telemetry and watch the volume-throttling row light up, throttle an agent host and watch the agent-batching row appear, and build a dashboard that queries inside the window and watch the self-healing hole form and fill. Running each row's reproduction until you can produce and confirm it on demand is how the diagnosis becomes muscle memory rather than a checklist you consult under stress, and the hands-on Azure [labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html) are built to let you reproduce each contributor and read its signal in a sandbox before you meet it in production.
+The table is also the spine of a hands-on lab, because every row maps to a reproduction you can run. You can generate a controlled burst of telemetry and watch the volume-throttling row light up, throttle an agent host and watch the agent-batching row appear, and build a dashboard that queries inside the window and watch the self-healing hole form and fill. Running each row's reproduction until you can produce and confirm it on demand is how the diagnosis becomes muscle memory rather than a checklist you consult under stress, and the hands-on Azure [labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html) are built to let you reproduce each contributor and read its signal in a sandbox before you meet it in production.
 
 ## How to prevent ingestion-delay false alarms and real delays
 

@@ -16,7 +16,7 @@ Reconstructing the The Great Gatsby timeline is the moment a careful reader stop
 
 ![A reconstructed chronology of The Great Gatsby, separating the 1922 summer from the 1917 backstory](/assets/images/blog/blog-67.webp)
 
-This guide rebuilds the chronology from the ground up, separates the buried history from the present action, and shows you exactly where the book discloses each piece. Along the way it makes a claim about why the order matters, and it hands you a two-track table you can keep open beside the novel. If you want to check any date against the words on the page as you go, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html) and mark each beat the moment Fitzgerald hands it over.
+This guide rebuilds the chronology from the ground up, separates the buried history from the present action, and shows you exactly where the book discloses each piece. Along the way it makes a claim about why the order matters, and it hands you a two-track table you can keep open beside the novel. If you want to check any date against the words on the page as you go, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html) and mark each beat the moment Fitzgerald hands it over.
 
 ## Why the The Great Gatsby timeline is hard to reconstruct
 

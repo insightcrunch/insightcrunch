@@ -107,7 +107,7 @@ It is worth saying plainly that this static quality is a strength, not a flaw. A
 
 ## The Passages That Define Him
 
-Three passages carry the weight of the character, and reading them closely is the surest way to test any claim about him. Anyone who wants to follow the lines in their full context can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which keeps the funeral chapter and the boyhood book a click apart for exactly this kind of cross-reference.
+Three passages carry the weight of the character, and reading them closely is the surest way to test any claim about him. Anyone who wants to follow the lines in their full context can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which keeps the funeral chapter and the boyhood book a click apart for exactly this kind of cross-reference.
 
 The first is the comparison to the railroad magnate. The father, trying to convey the size of what was lost, says that if his boy had lived he would have been a great man, a man like James J. Hill, who would have helped build up the country. The line is a marvel of compressed irony. It is sincere, grand, and entirely misdirected, because the energy the father attributes to nation-building was spent on a green light across a bay. Read the sentence one way and it is a proud father's eulogy. Read it the way the novel asks, against everything we know, and it becomes the book's sharpest statement of the distance between the dream as the dreamer's family imagines it and the dream as it actually played out.
 

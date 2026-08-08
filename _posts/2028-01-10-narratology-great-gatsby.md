@@ -292,7 +292,7 @@ Notice what the paragraph avoids. It does not define paralepsis and stop. It doe
 
 For timed conditions, one further discipline pays. Choose a single parameter and stay with it. Essays that attempt order, focalization, duration, and frequency in forty minutes produce a list, while essays that take one parameter through three passages produce a case. Depth on one dial reads as control; coverage of four reads as a glossary.
 
-For working through the passages this analysis depends on, the [VaultBook annotated edition](https://vaultbook.org/tools/great-gatsby-annotated-text.html) is the efficient route, since the frame, the rereading admission, the iterative party sequence, the Louisville analepses, and the conditional reconstruction are all marked in place with their surrounding paragraphs available. Narratological claims depend on context in a way that thematic claims do not, because a parameter setting can only be demonstrated by showing what surrounds it.
+For working through the passages this analysis depends on, the [VaultBook annotated edition](https://vaultbook.net/tools/great-gatsby-annotated-text.html) is the efficient route, since the frame, the rereading admission, the iterative party sequence, the Louisville analepses, and the conditional reconstruction are all marked in place with their surrounding paragraphs available. Narratological claims depend on context in a way that thematic claims do not, because a parameter setting can only be demonstrated by showing what surrounds it.
 
 ## Verdict
 

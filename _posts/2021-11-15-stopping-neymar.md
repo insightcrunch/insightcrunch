@@ -268,7 +268,7 @@ Finish with the cautioned-defender rehearsal, which almost nobody does and which
 
 The small-squad version runs the first two progressions only, which captures most of the value. The poor-pitch version is unaffected, since every constraint is positional and none depends on surface quality.
 
-For a coach who wants the zone map, the arm and hip rules, the second-defender assignment, and the cautioned-defender plan held together where players can see them rather than scattered across a notebook, you can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), keep the duel-condition notes alongside your own clips, and carry the whole match-week plan into the meeting on one screen.
+For a coach who wants the zone map, the arm and hip rules, the second-defender assignment, and the cautioned-defender plan held together where players can see them rather than scattered across a notebook, you can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), keep the duel-condition notes alongside your own clips, and carry the whole match-week plan into the meeting on one screen.
 
 ### How do you train defenders not to foul without making them passive?
 

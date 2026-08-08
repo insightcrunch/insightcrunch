@@ -194,7 +194,7 @@ The pool drain is the smallest symbol in The Great Gatsby and one of its most ex
 
 What the detail finally teaches is how completely the novel has wedded Gatsby's fate to the turning year. He is not killed by a stray season any more than he is killed by a stray bullet; he is killed at the moment summer ends, and the pool drain is the image that makes the timing legible. The plug pulled on summer is the plug pulled on Gatsby. That is the namable claim, and the scene is built to prove it. To read the pool-drain detail closely is to watch the novel set its clock to zero with the gentlest possible gesture, a servant offering to do his job and a doomed man asking him to wait.
 
-For readers who want to study this passage in context, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated novel, close-reading tools, a searchable quotation bank, and theme and motif trackers make it easy to gather the pool-drain passage and follow the season's turn across the final chapters, with the library growing over time.
+For readers who want to study this passage in context, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated novel, close-reading tools, a searchable quotation bank, and theme and motif trackers make it easy to gather the pool-drain passage and follow the season's turn across the final chapters, with the library growing over time.
 
 ## Frequently asked questions
 

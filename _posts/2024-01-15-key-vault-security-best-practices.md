@@ -248,7 +248,7 @@ az monitor diagnostic-settings list \
   -o table
 ```
 
-An empty result means the vault is logging nothing and fails the logging row. Run these five checks and you have verified the access, recovery, network, least-privilege, and logging controls directly against the live resource. Where you want a guided environment to practice running this verification and to see a hardened vault next to a misconfigured one, you can [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html), which keeps a tested set of Key Vault commands and templates for exactly this kind of posture check. The point of the verification pass is not to run it once but to run it on a schedule, because a vault that passes today can drift tomorrow when someone adds an assignment or relaxes a rule, and the only way to know is to ask the resource directly.
+An empty result means the vault is logging nothing and fails the logging row. Run these five checks and you have verified the access, recovery, network, least-privilege, and logging controls directly against the live resource. Where you want a guided environment to practice running this verification and to see a hardened vault next to a misconfigured one, you can [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html), which keeps a tested set of Key Vault commands and templates for exactly this kind of posture check. The point of the verification pass is not to run it once but to run it on a schedule, because a vault that passes today can drift tomorrow when someone adds an assignment or relaxes a rule, and the only way to know is to ask the resource directly.
 
 ## Making the posture auditable and repeatable
 

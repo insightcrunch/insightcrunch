@@ -264,7 +264,7 @@ After that point the novel and the reception diverge, and they diverge because t
 
 Naming the divergence precisely is what makes this a critical argument rather than a complaint. It is not that the reception got the book wrong. It is that the reception took the two thirds of the book that its own form could carry and left the third that it could not, which is what every reception in the history of literature has done and what receptions are for.
 
-Readers who want to test any of this against the novel can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which offers the full annotated text alongside close-reading and annotation tools, a searchable quotation bank, and character and theme trackers. Searching the text for every mention of money, shirts, and the word "old sport" takes a few minutes there and demonstrates the point about currency faster than any argument can.
+Readers who want to test any of this against the novel can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which offers the full annotated text alongside close-reading and annotation tools, a searchable quotation bank, and character and theme trackers. Searching the text for every mention of money, shirts, and the word "old sport" takes a few minutes there and demonstrates the point about currency faster than any argument can.
 
 ## How to Use a Cultural Reading in an Essay
 

@@ -57,7 +57,7 @@ This is the matching tool. Read it before anything else, then dive into the sect
 
 The table draws a line that the rest of this guide defends. Everything from the Lower Yosemite Fall loop down to the Tenaya Lake shore is a walk most families can do well. The Grizzly Giant route and the footbridge climb are the moderate step-ups that reward older or carried children. Beyond the footbridge, as the next sections explain, the famous Mist Trail stops being a family walk at all.
 
-For families who want to keep this table handy, build a custom shortlist, and reorder the walks to match each day of your trip, you can [plan, save, and cost out your trip free on VaultBook](https://vaultbook.org/tools/usa-trip-planner.html), then pin the trailheads and check them off as you go.
+For families who want to keep this table handy, build a custom shortlist, and reorder the walks to match each day of your trip, you can [plan, save, and cost out your trip free on VaultBook](https://vaultbook.net/tools/usa-trip-planner.html), then pin the trailheads and check them off as you go.
 
 ## The flat Valley walks any family can do
 

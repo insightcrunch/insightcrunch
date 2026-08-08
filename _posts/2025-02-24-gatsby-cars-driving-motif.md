@@ -148,7 +148,7 @@ To see the pattern whole, it helps to lay each significant driving moment beside
 | The death car does not stop | After the crash | Anonymity and evasion | Carelessness that lets others clean up |
 | Nick's verdict on careless people | The close | The motif resolved into moral charge | Carelessness named as the novel's indictment |
 
-The ledger makes the design legible. Read top to bottom, it is a single escalating argument, beginning with a clipped button and ending with a dead woman and a judgment, every row pointing toward the same idea. This is the difference a motif makes. No single car scene carries the whole meaning, but the sequence does, and the sequence is the point. Readers who want to trace these moments against the text itself can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which lets you mark each driving passage and watch the pattern build across the chapters.
+The ledger makes the design legible. Read top to bottom, it is a single escalating argument, beginning with a clipped button and ending with a dead woman and a judgment, every row pointing toward the same idea. This is the difference a motif makes. No single car scene carries the whole meaning, but the sequence does, and the sequence is the point. Readers who want to trace these moments against the text itself can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which lets you mark each driving passage and watch the pattern build across the chapters.
 
 ## Speed, motion, and the novel's sense of time
 

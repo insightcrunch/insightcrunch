@@ -20,7 +20,7 @@ The namable claim of this article is simple and, once you see it, hard to unsee.
 
 ![The Great Gatsby](/assets/images/blog/blog-25.webp)
 
-What follows traces that distance. It establishes why the crowd should be read as one character rather than many, examines how Fitzgerald frames their arrival, reads their motives from the text, names the type case in Klipspringer, builds a collective portrait you can cite, weighs their symbolic load, follows their arc through the nine chapters, and ends at the graveside where the argument completes itself. If you want the primary source open beside this reading, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the party chapters and the funeral sit a few clicks apart.
+What follows traces that distance. It establishes why the crowd should be read as one character rather than many, examines how Fitzgerald frames their arrival, reads their motives from the text, names the type case in Klipspringer, builds a collective portrait you can cite, weighs their symbolic load, follows their arc through the nine chapters, and ends at the graveside where the argument completes itself. If you want the primary source open beside this reading, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the party chapters and the funeral sit a few clicks apart.
 
 
 ## Why Gatsby's hangers-on are one character, not a list of guests

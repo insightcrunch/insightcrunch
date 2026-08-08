@@ -171,7 +171,7 @@ It feeds the symbolic divide. What this article treats as terrain, the series ar
 
 It feeds Tom and Daisy as characters, since neither of them makes sense as a psychology. Tom is not a man who happens to be arrogant; he is arrogance with an address. Daisy is not a woman who happens to be careless; she is what the fourth anchor does to a person raised behind it. It feeds Gatsby, because his strategy is only legible once you see the gate he is running at. And it feeds Nick, whose entire narrative position is a geographic one: a man on the cheap side of the water with just enough pedigree to be received and just enough sense to leave.
 
-For readers who want to trace where these places surface line by line, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text sits alongside close-reading tools, a searchable quotation bank, and character and theme trackers, so the East Egg passages can be pulled, marked, and compared in one place while the library keeps growing.
+For readers who want to trace where these places surface line by line, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text sits alongside close-reading tools, a searchable quotation bank, and character and theme trackers, so the East Egg passages can be pulled, marked, and compared in one place while the library keeps growing.
 
 ## Using the Geography as Analysis, Not Padding
 

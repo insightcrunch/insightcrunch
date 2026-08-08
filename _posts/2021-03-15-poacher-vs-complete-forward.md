@@ -267,7 +267,7 @@ The specific profile an amateur side should want is a forward who can receive a 
 
 The counterintuitive corollary is that an amateur side with a genuinely excellent penalty-area finisher should probably not play him as its lone forward. It should play him alongside or behind a retaining forward if it can, or accept that his output will be low and value him for the chances he does convert rather than expecting volume.
 
-A coach working out which side of this threshold his own team sits on can record the count of finishable deliveries alongside his match notes and session plans, and keeping that record in one place, such as the [free opposition and match planning workspace on VaultBook](https://vaultbook.org/tools/football-match-planner.html), makes the assessment a matter of evidence rather than of impression after a couple of months.
+A coach working out which side of this threshold his own team sits on can record the count of finishable deliveries alongside his match notes and session plans, and keeping that record in one place, such as the [free opposition and match planning workspace on VaultBook](https://vaultbook.net/tools/football-match-planner.html), makes the assessment a matter of evidence rather than of impression after a couple of months.
 
 ### Which forward type is harder for an amateur defence?
 

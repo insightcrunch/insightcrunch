@@ -246,7 +246,7 @@ The verdict this article defends is that those qualifications are the source of 
 
 The line is often read as the moment a reserved narrator finally commits. It is better read as the moment he completes an accounting he began on the first page, where Gatsby represented everything he scorned and was exempted from the scorn anyway. Between that exemption and this shout lies the whole book, and the shout closes the ledger.
 
-To read the line in place alongside the Chapter 1 exemption and the Chapter 9 verdict on carelessness, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, and character trackers let you hold all three passages together while you build the argument.
+To read the line in place alongside the Chapter 1 exemption and the Chapter 9 verdict on carelessness, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, and character trackers let you hold all three passages together while you build the argument.
 
 He shouted it. That is how much it cost him.
 

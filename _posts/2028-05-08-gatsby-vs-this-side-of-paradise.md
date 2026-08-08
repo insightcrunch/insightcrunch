@@ -108,7 +108,7 @@ Gatsby's prose is rationed. Its most beautiful writing is withheld until the end
 
 What separates them is not vocabulary or ear, both of which the twenty-three-year-old already had. It is judgment about placement and restraint. The debut spends its beauty as it arrives; the masterpiece saves it. That is a learnable discipline rather than a mysterious maturation, and it is the reason the comparison is genuinely useful to student writers rather than merely interesting about Fitzgerald.
 
-A reader can verify the restraint claim directly against the later text. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated novel sits alongside close-reading tools, a searchable quotation bank, and character and theme trackers, so the distribution of the book's lyrical passages can be mapped chapter by chapter rather than assumed. The library keeps growing, and the exercise worth doing with it is simple: mark every passage that reaches for beauty and note where in each chapter it falls.
+A reader can verify the restraint claim directly against the later text. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated novel sits alongside close-reading tools, a searchable quotation bank, and character and theme trackers, so the distribution of the book's lyrical passages can be mapped chapter by chapter rather than assumed. The library keeps growing, and the exercise worth doing with it is simple: mark every passage that reaches for beauty and note where in each chapter it falls.
 
 ## The Making of Each Book
 

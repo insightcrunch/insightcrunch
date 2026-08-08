@@ -383,7 +383,7 @@ A second exercise: take a topic and deliberately select the wrong framework, the
 
 For structured work against real prompts, you can [practice Great Gatsby essay questions and model answers on ReportMedic](https://reportmedic.org/tools/great-gatsby-essay-practice.html), which supplies the assessment formats where framework choice is rewarded and keeps adding material as the collection expands. Running selection against a genuine prompt, with a time limit, is the closest available rehearsal for the conditions that matter.
 
-The passages themselves are easiest to test when the full text is in front of you with the search and annotation tools attached; you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated novel sits alongside a searchable quotation bank and theme and motif trackers that let you pull every appearance of a motif into one place and test a framework against all of them at once. The library keeps expanding, so those tools grow with it.
+The passages themselves are easiest to test when the full text is in front of you with the search and annotation tools attached; you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated novel sits alongside a searchable quotation bank and theme and motif trackers that let you pull every appearance of a motif into one place and test a framework against all of them at once. The library keeps expanding, so those tools grow with it.
 
 For a supply of topics to practice on, the collection of [Great Gatsby essay topics that score well](/2030/05/13/gatsby-essay-topics/) provides prompts across the range of frameworks discussed here.
 

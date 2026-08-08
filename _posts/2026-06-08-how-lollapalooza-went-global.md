@@ -41,7 +41,7 @@ Below is the global-expansion timeline, the findable artifact for this page. It 
 | Europe | Stockholm, Sweden | 2019 | First Scandinavian edition, later paused |
 | Asia | Mumbai, India | 2023 | First Asian edition, the newest frontier |
 
-The table is worth keeping somewhere you can return to, because the dates are the spine of the whole story. You can save this global-expansion history, along with the rest of your festival planning, in [VaultBook](https://vaultbook.org/tools/lollapalooza-planner.html), which gives you one place to hold the timeline, the edition notes, and anything else you gather as you read deeper into the series. When the expansion arc lives in one organized place, the relationship between the editions becomes much easier to hold in your head.
+The table is worth keeping somewhere you can return to, because the dates are the spine of the whole story. You can save this global-expansion history, along with the rest of your festival planning, in [VaultBook](https://vaultbook.net/tools/lollapalooza-planner.html), which gives you one place to hold the timeline, the edition notes, and anything else you gather as you read deeper into the series. When the expansion arc lives in one organized place, the relationship between the editions becomes much easier to hold in your head.
 
 ## From a Chicago festival to a worldwide network
 
@@ -229,7 +229,7 @@ For the editions themselves, the series has a dedicated cluster, and this overvi
 
 What the global story ultimately means is that Lollapalooza is far larger than its most famous weekend. It is a worldwide brand, a network of editions spanning three continents, anchored by a Chicago flagship and extended by partnerships across the globe. The festival went global by exporting a model rather than a lineup, by capturing the counter-season advantage, by partnering with local promoters who knew their markets, and by riding a rising global appetite for destination festivals. The result is one of the more impressive expansions in live music, and the Chicago weekend most people picture is only the visible tip of it.
 
-You can keep the whole expansion arc, the timeline, the edition notes, and your own plans for attending an edition abroad, organized in one place with [VaultBook](https://vaultbook.org/tools/lollapalooza-planner.html). Holding the global picture in a single workspace makes it far easier to see how the editions connect and to plan a trip to any of them. The network is a lot to hold in your head at once, and having it organized turns a sprawling story into something you can actually use.
+You can keep the whole expansion arc, the timeline, the edition notes, and your own plans for attending an edition abroad, organized in one place with [VaultBook](https://vaultbook.net/tools/lollapalooza-planner.html). Holding the global picture in a single workspace makes it far easier to see how the editions connect and to plan a trip to any of them. The network is a lot to hold in your head at once, and having it organized turns a sprawling story into something you can actually use.
 
 ## What stays the same across every edition
 

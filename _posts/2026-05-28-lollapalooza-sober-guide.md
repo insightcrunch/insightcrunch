@@ -128,7 +128,7 @@ That is the complete list. Notice what is not on it: missing the music, having a
 
 ## The sober festival plan
 
-Everything above resolves into a single plannable artifact: the sober festival plan, a four-part map that takes you from mindset to execution so that a clear-headed attendee walks in with a full festival rather than a list of things to avoid. This is the findable core of the guide, the thing to screenshot and carry. The planning companion at [VaultBook](https://vaultbook.org/tools/lollapalooza-planner.html) is built to hold exactly this kind of plan: it lets you save and annotate this guide, build your set-time schedule around the rest and meal blocks below, keep the hydration and pacing notes where you can reach them on the day, and pin the meetup spots that make the social and safety pieces real, so the plan lives in your pocket instead of your memory.
+Everything above resolves into a single plannable artifact: the sober festival plan, a four-part map that takes you from mindset to execution so that a clear-headed attendee walks in with a full festival rather than a list of things to avoid. This is the findable core of the guide, the thing to screenshot and carry. The planning companion at [VaultBook](https://vaultbook.net/tools/lollapalooza-planner.html) is built to hold exactly this kind of plan: it lets you save and annotate this guide, build your set-time schedule around the rest and meal blocks below, keep the hydration and pacing notes where you can reach them on the day, and pin the meetup spots that make the social and safety pieces real, so the plan lives in your pocket instead of your memory.
 
 | Part of the plan | What it covers | The move | Why it carries the day |
 | --- | --- | --- | --- |

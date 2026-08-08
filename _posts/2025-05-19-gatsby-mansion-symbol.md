@@ -178,7 +178,7 @@ The fourth move is to handle the obvious objection inside the essay. Acknowledge
 
 A model thesis you can adapt: "Gatsby's mansion is not a backdrop but a portrait. Fitzgerald builds an imitation chateau whose borrowed grandeur, strategic spectacle, and final emptiness reproduce, in architecture, the borrowed self and hollow center of the man who built it, so that the collapse of the house is the collapse of the dream." A thesis like that names a claim, promises a structure, and points at the evidence, which is exactly what a strong opening should do.
 
-For gathering the passages this kind of essay needs, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text, close-reading tools, a searchable quotation bank, and theme and motif trackers let you collect every mansion passage in one place and keep your evidence organized as you build the argument, with the library expanding to more works and tools over time.
+For gathering the passages this kind of essay needs, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text, close-reading tools, a searchable quotation bank, and theme and motif trackers let you collect every mansion passage in one place and keep your evidence organized as you build the argument, with the library expanding to more works and tools over time.
 
 
 ## Closing Verdict

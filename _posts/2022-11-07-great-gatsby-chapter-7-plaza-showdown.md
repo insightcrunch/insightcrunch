@@ -214,7 +214,7 @@ Fitzgerald locates the climax of the novel not in the violence of the road but i
 
 A paragraph like that earns marks because it does the three things weak paragraphs omit. It names the exact moment of defeat rather than gesturing at the scene. It quotes the qualifier and reads its grammar rather than paraphrasing it. And it raises the "Tom wins by force" reading only to defeat it, demonstrating the discrimination examiners reward. The summary disappears entirely; every sentence is argument anchored to a quoted word.
 
-To read and annotate the Plaza scene against the rest of Chapter 7, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated novel, close-reading and annotation tools, a searchable quotation bank, and character and theme trackers let you mark the qualifier, follow the heat cues, and trace the money diction across the chapter; the library keeps adding works and tools over time, so it grows into the study companion a serious reader of the novel can keep returning to.
+To read and annotate the Plaza scene against the rest of Chapter 7, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated novel, close-reading and annotation tools, a searchable quotation bank, and character and theme trackers let you mark the qualifier, follow the heat cues, and trace the money diction across the chapter; the library keeps adding works and tools over time, so it grows into the study companion a serious reader of the novel can keep returning to.
 
 ## "Gatsby's Eyes Opened and Closed": Fitzgerald's Economy at the Climax
 

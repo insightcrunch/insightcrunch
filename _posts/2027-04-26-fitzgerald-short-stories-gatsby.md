@@ -201,7 +201,7 @@ Suppose an essay argues that the novel's hero is defined by longing rather than 
 
 The discipline to remember is that the novel is always the subject and the stories are always the support. An essay that drifts into a survey of the short fiction has lost its way. An essay that reaches for a single, well-chosen story at the precise moment it needs to prove that a pattern was intentional has used context exactly as it should be used. Read the novel closely first, build the argument from its text, and bring in a story only where the rehearsal makes the argument undeniable.
 
-You can read and annotate the full novel, with tools for tracking exactly these rehearsed themes as they surface across the chapters, when you [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), a growing companion that pairs the annotated text with close-reading and quote-search tools for students working through the novel and its context.
+You can read and annotate the full novel, with tools for tracking exactly these rehearsed themes as they surface across the chapters, when you [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), a growing companion that pairs the annotated text with close-reading and quote-search tools for students working through the novel and its context.
 
 ## The verdict: the workshop and the paycheck were the same pages
 

@@ -163,7 +163,7 @@ Select evidence that shows the withholding at work, and pair each quotation with
 
 Use the point-of-view distinction to demonstrate range. A paragraph that separates the structural uncertainty of Nick's vantage from the authorial vagueness aimed at Gatsby will read as more precise than anything a summary site can offer, because it shows you can hold two mechanisms apart that most readers blur together. Then close the essay by naming the risk and the payoff, the reader lost to frustration against the reader won to fascination, so your argument acknowledges its own cost and still lands the verdict.
 
-To study the withholding at the level of the sentence, and to mark exactly where the novel goes vague and where it stays sharp, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), whose annotated text, close-reading tools, quotation search, and character and theme trackers let you tag every rumor, every hedge, and every unanswered question across the chapters as the library keeps growing.
+To study the withholding at the level of the sentence, and to mark exactly where the novel goes vague and where it stays sharp, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), whose annotated text, close-reading tools, quotation search, and character and theme trackers let you tag every rumor, every hedge, and every unanswered question across the chapters as the library keeps growing.
 
 ## The Verdict: Greatness Kept Out of Focus
 

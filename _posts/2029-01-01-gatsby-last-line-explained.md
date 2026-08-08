@@ -167,7 +167,7 @@ Do not assert that Fitzgerald was pessimistic. The sentence is not evidence abou
 
 Connect it rather than isolating it. The green light, the exchange about repeating the past, and the schedule at the funeral are all restatements of the same structure, and an essay that shows the closing sentence completing a pattern is making an argument about design. The central image is treated separately in the reading of [the boats against the current](/2029/01/15/gatsby-boats-against-current/), and the surrounding paragraph in the analysis of [the closing lines beginning with the beating-on image](/2029/01/22/gatsby-so-we-beat-on/), both of which handle material this article deliberately leaves to them.
 
-Readers who want to test any of these observations against the text can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated closing passage sits alongside the quotation search, so the last sentence can be held against the green light passages and the repeat-the-past exchange in a single view.
+Readers who want to test any of these observations against the text can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated closing passage sits alongside the quotation search, so the last sentence can be held against the green light passages and the repeat-the-past exchange in a single view.
 
 ## What Kind of Boat, and Why It Matters
 

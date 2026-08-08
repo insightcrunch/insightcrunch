@@ -245,7 +245,7 @@ What she says is confirmed by the rest of the book. Three women pursue three str
 
 The cruelty in the line belongs to the world it describes, not to the woman describing it. That is the reading the passage supports, and it is why the sentence has outlived its novel.
 
-To read the wish in its full setting, with the weeping, the porch, the sophistication routine, and the smirk intact, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, and character trackers let you hold the Chapter 1 porch scene and the Chapter 7 nursery scene side by side while you build the argument.
+To read the wish in its full setting, with the weeping, the porch, the sophistication routine, and the smirk intact, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, and character trackers let you hold the Chapter 1 porch scene and the Chapter 7 nursery scene side by side while you build the argument.
 
 She wept first. Everything else is manner.
 

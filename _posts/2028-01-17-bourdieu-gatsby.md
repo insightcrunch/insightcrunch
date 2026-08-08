@@ -273,7 +273,7 @@ The second is resisting the temptation to make Gatsby pitiable. Bourdieu's frame
 
 The third is engaging the Marxist alternative directly. An essay that shows why a purely economic account cannot explain the pink suit has demonstrated the lens's distinctive yield, and this is the move examiners reward on theory questions. It also protects the essay from the charge that Bourdieu is Marx with more vocabulary, which is the standard objection and which a prepared writer can dispose of in three sentences.
 
-For working through the scenes this reading depends on, the [VaultBook annotated edition](https://vaultbook.org/tools/great-gatsby-annotated-text.html) is the efficient route, since the library scene, the Sloane visit, Daisy's reaction to the party, and the Plaza confrontation are marked in place with their surrounding paragraphs available. Class markers in this novel are carried by small details embedded in longer scenes, and pulling a quotation out of its context tends to strip exactly the information the analysis needs.
+For working through the scenes this reading depends on, the [VaultBook annotated edition](https://vaultbook.net/tools/great-gatsby-annotated-text.html) is the efficient route, since the library scene, the Sloane visit, Daisy's reaction to the party, and the Plaza confrontation are marked in place with their surrounding paragraphs available. Class markers in this novel are carried by small details embedded in longer scenes, and pulling a quotation out of its context tends to strip exactly the information the analysis needs.
 
 ## Verdict
 

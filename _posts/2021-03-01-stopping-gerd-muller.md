@@ -244,7 +244,7 @@ The safety brief matters more here than in almost any other session, and it is n
 
 The small-squad version needs five outfield players and a keeper: two defenders, one attacker, one server, and one designated rebound defender. That is enough to rehearse contact, anti-convergence, and the rebound designation, which are the three behaviours that matter. The poor-pitch version is arguably better than the good-pitch version, because an uneven surface produces more unpredictable second balls, which is exactly the condition the session exists to prepare for.
 
-The transfer test is a count taken over several matches: how many times did an opponent get the first touch on a ball that came back out inside the penalty area? That number, tracked alongside the opponent notes and the session plans in something like the [free opposition planning workspace on VaultBook](https://vaultbook.org/tools/football-match-planner.html), moves before goals conceded does and tells a coach whether the designation has installed.
+The transfer test is a count taken over several matches: how many times did an opponent get the first touch on a ball that came back out inside the penalty area? That number, tracked alongside the opponent notes and the session plans in something like the [free opposition planning workspace on VaultBook](https://vaultbook.net/tools/football-match-planner.html), moves before goals conceded does and tells a coach whether the designation has installed.
 
 ## Controlling the supply: the strategy that removed him entirely
 

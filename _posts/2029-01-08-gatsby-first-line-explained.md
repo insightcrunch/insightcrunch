@@ -219,7 +219,7 @@ Avoid the shoes paraphrase. Any sentence in your essay that turns the father's a
 
 Anchor it to the ending if you have room. The strongest short essays on this passage set the opening against the closing paragraph and argue that the book travels from a promise of suspended judgment to a final verdict, then widens past judgment entirely into the boats and the current. That arc gives a five-paragraph essay a shape, and it lets you quote two of the most famous passages in American fiction while doing something with both.
 
-For readers who want the text in front of them while working through these moves, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated edition, the close-reading tools, the searchable quotation bank, and the character and theme trackers let you follow the reserve-judgment thread from the opening paragraph to the last chapter in a single session, with a library that keeps growing as more works and tools are added.
+For readers who want the text in front of them while working through these moves, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated edition, the close-reading tools, the searchable quotation bank, and the character and theme trackers let you follow the reserve-judgment thread from the opening paragraph to the last chapter in a single session, with a library that keeps growing as more works and tools are added.
 
 ## Closing Verdict
 

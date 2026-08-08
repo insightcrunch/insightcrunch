@@ -323,7 +323,7 @@ The plan-bound capability rule is the compression of everything above: nearly ev
 
 The strategic verdict is that App Service rewards the engineer who treats the plan as a design decision and punishes the one who treats it as a dropdown. It is the right default for the common web workload precisely because it removes so much operational work, and it becomes a liability only when a team chooses it for a workload it was never shaped to host, or chooses a tier that fails a requirement they did not think to check. Reason about the plan, the swap, the sandbox, and the networking direction up front, and App Service does what the product page promises. Skip that reasoning and you will meet every one of the failure patterns above, one production incident at a time.
 
-When you want to put this into practice, [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html), where you can deploy an app, create a staging slot, run a swap with preview, and watch the warmup and rollback behavior on a real plan rather than reading about it. Reproducing the slot swap once teaches more than any description of it, and the command library carries the tested `az` and Bicep snippets for provisioning each tier.
+When you want to put this into practice, [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html), where you can deploy an app, create a staging slot, run a swap with preview, and watch the warmup and rollback behavior on a real plan rather than reading about it. Reproducing the slot swap once teaches more than any description of it, and the command library carries the tested `az` and Bicep snippets for provisioning each tier.
 
 ## Frequently Asked Questions
 

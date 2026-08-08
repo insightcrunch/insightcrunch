@@ -130,7 +130,7 @@ Read down either column and you have a complete man; read across any row and you
 
 ## The passages that define Nick and Gatsby as foils
 
-A few moments carry the contrast more than the rest, and a reader writing about Nick and Gatsby as foils should know them by heart. The full annotated text is the best place to gather them; you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the close-reading tools, the character maps, and the searchable quotation bank make it easy to track the two men side by side across the chapters and assemble the contrasts for an essay.
+A few moments carry the contrast more than the rest, and a reader writing about Nick and Gatsby as foils should know them by heart. The full annotated text is the best place to gather them; you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the close-reading tools, the character maps, and the searchable quotation bank make it easy to track the two men side by side across the chapters and assemble the contrasts for an essay.
 
 The first is the opening exemption. Nick tells the reader that Gatsby alone was exempt from his usual reserve, that there was something gorgeous about him, an extraordinary gift for hope, a romantic readiness he had never found in any other person. The passage is the foil's founding document. The reserved man names the one person who undoes his reserve, and the quality that undoes him is precisely the quality he lacks. To read this line as mere praise misses the wound in it. Nick is admiring the thing he cannot do.
 

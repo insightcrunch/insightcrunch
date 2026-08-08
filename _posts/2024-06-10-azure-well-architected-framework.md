@@ -342,7 +342,7 @@ The single idea to carry out of this guide is the pillars-trade-off rule: the fi
 
 A team that internalizes this stops asking "is our architecture good" and starts asking "does our architecture fit what this workload needs, and have we written down the trades we made to fit it." That second question is answerable, defensible, and inheritable, which is everything the first question is not. The framework's gift is not a better architecture in the abstract. It is a better way to decide, and a record of the deciding that survives the people who did it.
 
-To put the framework into practice on a real architecture, you can [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html), where you can assess a deployed workload against each of the five pillars, reproduce the trade-offs in a sandbox, and see how a configuration change moves one pillar at the expense of another before you commit it in production.
+To put the framework into practice on a real architecture, you can [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html), where you can assess a deployed workload against each of the five pillars, reproduce the trade-offs in a sandbox, and see how a configuration change moves one pillar at the expense of another before you commit it in production.
 
 ## Frequently asked questions
 

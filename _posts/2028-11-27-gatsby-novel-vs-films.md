@@ -352,7 +352,7 @@ Anchor the argument in a scene that exists in both. The shirt scene is the best 
 
 Use the voiceover problem as evidence rather than complaint. Explain why it underdelivers, redundancy against the image, tonal mismatch between retrospect and present action, and sheer quantity, and then use the eight-hour stage production that speaks the whole text as the control case. The fact that transferring Nick's voice successfully required abandoning cinematic runtime proves the constraint is structural.
 
-Close on the ending. Every film has ninety seconds of unfilmable material at the end, and every film includes it anyway. That is the sharpest available demonstration that the novel's argument lives outside the reach of the camera, and it makes a better conclusion than a summary. Readers who want to compare the page against a remembered scene can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the shirt scene, the bridge passage, and the closing paragraphs sit beside the notes and can be marked against what the films do with them.
+Close on the ending. Every film has ninety seconds of unfilmable material at the end, and every film includes it anyway. That is the sharpest available demonstration that the novel's argument lives outside the reach of the camera, and it makes a better conclusion than a summary. Readers who want to compare the page against a remembered scene can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the shirt scene, the bridge passage, and the closing paragraphs sit beside the notes and can be marked against what the films do with them.
 
 ## Three Misreadings to Retire
 

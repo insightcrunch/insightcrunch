@@ -519,7 +519,7 @@ Third, on every aerial duel, note who was moving forward at contact. Not who won
 
 Fourth, watch the goals conceded by teams who defended him well, not just the goals he scored. The instructive footage is the match where nothing happened, because that is where the successful mechanism is visible. Nobody uploads those matches, which is exactly why the analyst who watches them has an advantage.
 
-If you are building the dossier and want somewhere to keep the clips, the run-type counts, and the session plan in one place before the meeting, you can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), which is designed for exactly this: saving these breakdowns, annotating them, and assembling a match-week plan a coaching staff can actually deliver.
+If you are building the dossier and want somewhere to keep the clips, the run-type counts, and the session plan in one place before the meeting, you can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), which is designed for exactly this: saving these breakdowns, annotating them, and assembling a match-week plan a coaching staff can actually deliver.
 
 ## Judging Whether the Plan Worked
 

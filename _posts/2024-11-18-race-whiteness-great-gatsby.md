@@ -18,7 +18,7 @@ This article takes race and whiteness as a standalone theme and traces how the n
 
 ![Race and whiteness as a theme in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-11.webp)
 
-To follow the argument you will want the text close at hand, because the evidence lives in single words and brief gestures rather than long speeches. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the searchable text makes it easy to gather every appearance of the word white and every moment the racial order shows itself. With the passages in front of you, the theme stops looking marginal and starts looking structural.
+To follow the argument you will want the text close at hand, because the evidence lives in single words and brief gestures rather than long speeches. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the searchable text makes it easy to gather every appearance of the word white and every moment the racial order shows itself. With the passages in front of you, the theme stops looking marginal and starts looking structural.
 
 ## What Race and Whiteness in Great Gatsby Actually Means as a Theme
 

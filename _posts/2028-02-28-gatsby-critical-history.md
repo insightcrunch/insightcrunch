@@ -324,7 +324,7 @@ Let critical history explain a disagreement rather than settle it. Your reader d
 
 Anchor every claim in the text. Critical history is only useful in an essay if it sends you back to a passage. If you can quote the sentence that a given era treated as decisive and show what it looks like under a different question, you have written something. If you can only report what people thought, you have written a summary.
 
-For collecting those passages efficiently, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, and motif trackers let you pull together the specific lines each critical era built on and compare them side by side.
+For collecting those passages efficiently, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, and motif trackers let you pull together the specific lines each critical era built on and compare them side by side.
 
 ## Closing Verdict
 

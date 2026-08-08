@@ -18,7 +18,7 @@ That is the claim this article defends, and it is worth naming plainly at the st
 
 This is a different job from the one the broader weather motif performs, and a different job again from the single scene where the swelter peaks. The novel's weather as a whole moves across many registers: rain at the reunion, sunlight at the parties, the green light glimpsed across dark water. The hottest-day sequence is one famous scene. What this article tracks is narrower and more specific: the temperature line itself, the steady climb of warmth into swelter into the boil, treated as a single strand that you can follow from the first comfortable afternoon to the autumn chill that arrives once the worst has happened. Follow that strand and the novel reveals a piece of its engineering. The thermometer is wired to the heart.
 
-[read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html) is the most efficient way to gather these passages in one place, because the temperature strand is spread thin across the book and rewards being read as a sequence rather than stumbled on scene by scene.
+[read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html) is the most efficient way to gather these passages in one place, because the temperature strand is spread thin across the book and rewards being read as a sequence rather than stumbled on scene by scene.
 
 ## A novel that warms before it burns
 

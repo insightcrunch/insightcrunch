@@ -428,7 +428,7 @@ Ask fourth what date the source was written, because a treatise, article or opin
 
 A reader who runs those four questions will not confuse the 1964 act with the 1991 act, will not assume punitive damages were always available, will not assume the caps are indexed, and will not cite a superseded standard as current law. Those four are, in order, the most common mistakes in writing about this statute.
 
-For a reader building a working file on the amendment history, with each amending statute, the decision it answered and the code sections it touched kept in one place, you can [keep your statute notes, citations and amendment chronologies together free on VaultBook](https://vaultbook.org/tools/legislation-study-notebook.html).
+For a reader building a working file on the amendment history, with each amending statute, the decision it answered and the code sections it touched kept in one place, you can [keep your statute notes, citations and amendment chronologies together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html).
 
 ## The pairs that get confused
 

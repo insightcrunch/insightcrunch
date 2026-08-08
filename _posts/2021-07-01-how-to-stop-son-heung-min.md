@@ -241,7 +241,7 @@ Note his starting position at the moment of their recovery, over ten transitions
 
 Note the first pass. Is it played over the top, through the lines, or wide. Each has a different counter: the ball over the top is countered by the goalkeeper's starting depth, the ball through the lines by the holding midfielder's position, and the wide ball by the held full-back. Knowing which one your opponent prefers lets you weight the plan rather than spreading it evenly.
 
-Keeping those four observations in a form you can find again is the part that most often fails, because transition notes are made in a hurry and lost by Thursday. A coach who wants to keep the transition profile, the rest-defense decision, and the pressing rule together in one plan can [build the opposition dossier free on VaultBook](https://vaultbook.org/tools/football-match-planner.html) rather than rebuilding the same analysis every time the fixture comes round.
+Keeping those four observations in a form you can find again is the part that most often fails, because transition notes are made in a hurry and lost by Thursday. A coach who wants to keep the transition profile, the rest-defense decision, and the pressing rule together in one plan can [build the opposition dossier free on VaultBook](https://vaultbook.net/tools/football-match-planner.html) rather than rebuilding the same analysis every time the fixture comes round.
 
 ## The amateur version
 

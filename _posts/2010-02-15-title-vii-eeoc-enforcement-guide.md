@@ -390,7 +390,7 @@ Federal-sector appellate decisions are published and constitute a body of adjudi
 
 A note on method applies to all five. Statements about enforcement posture should be built from these documents and stated in institutional terms, and this series does not attribute motives to administrations on the basis of statistical movement, because charge volumes and resolution mixes respond to economic conditions, legal developments, staffing levels and procedural changes as well as to policy.
 
-Tracking this material across a cluster of related articles generates a lot of moving parts: statutory sections, two sets of deadlines from two different eras, agency documents that are persuasive rather than binding, and a case list where each decision changed a specific piece of the process. It helps to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.org/tools/legislation-study-notebook.html), where a single notebook can hold the charge clock, the amendment history and the case chronology together, annotated and available offline.
+Tracking this material across a cluster of related articles generates a lot of moving parts: statutory sections, two sets of deadlines from two different eras, agency documents that are persuasive rather than binding, and a case list where each decision changed a specific piece of the process. It helps to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html), where a single notebook can hold the charge clock, the amendment history and the case chronology together, annotated and available offline.
 
 ## Two agencies, one title
 

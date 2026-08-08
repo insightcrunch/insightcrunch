@@ -217,7 +217,7 @@ Use the counter-reading as a paragraph, not as a concession. Somewhere in the se
 
 Finish on the deciding factor. The conclusion should name arrival as the pivot and say what follows from it. That gives the essay a final sentence that is an argument rather than a summary, which is the single most reliable way to lift a comparative piece out of the middle band.
 
-Readers who want to work directly with the passages this argument depends on can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text, the quotation search, and the theme trackers make it straightforward to pull every ash-valley reference or every green-light reference into one place before drafting. The library keeps adding tools and works, so the same close-reading apparatus is useful well beyond a single comparative essay.
+Readers who want to work directly with the passages this argument depends on can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text, the quotation search, and the theme trackers make it straightforward to pull every ash-valley reference or every green-light reference into one place before drafting. The library keeps adding tools and works, so the same close-reading apparatus is useful well beyond a single comparative essay.
 
 ## Closing Verdict
 

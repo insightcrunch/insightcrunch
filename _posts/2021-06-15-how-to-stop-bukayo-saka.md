@@ -181,7 +181,7 @@ The report that helps looks different and takes longer to build. It describes re
 
 Those five questions are worth more than twenty on the individual, and they are answered by watching two matches with the eyes off the ball, tracking the two players as a unit. That is a different analytical discipline from player scouting and it is the discipline this profile demands.
 
-For coaches who want to keep those relationship notes in a form that survives the week and can be pulled up on a Friday night, [building the opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html) keeps the assignments, the triggers, and the concessions in one place rather than scattered across a notebook and a group chat, which is where most relationship-level scouting goes to die.
+For coaches who want to keep those relationship notes in a form that survives the week and can be pulled up on a Friday night, [building the opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html) keeps the assignments, the triggers, and the concessions in one place rather than scattered across a notebook and a group chat, which is where most relationship-level scouting goes to die.
 
 ## The set-piece addendum
 

@@ -204,7 +204,7 @@ az policy assignment list \
   --output table
 ```
 
-When that command returns the allowed-locations assignment scoped to the intermediate root and the logging baseline scoped to the landing-zones group, the inheritance is working and the workload sits on the foundation rather than beside it. The whole sequence, from empty tenant to a compliant workload subscription, is the kind of build worth running end to end before you do it for real; you can stand up the hierarchy, assign the policies, and watch inheritance take effect when you [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html), where the management group and policy steps above are reproducible against a sandbox tenant.
+When that command returns the allowed-locations assignment scoped to the intermediate root and the logging baseline scoped to the landing-zones group, the inheritance is working and the workload sits on the foundation rather than beside it. The whole sequence, from empty tenant to a compliant workload subscription, is the kind of build worth running end to end before you do it for real; you can stand up the hierarchy, assign the policies, and watch inheritance take effect when you [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html), where the management group and policy steps above are reproducible against a sandbox tenant.
 
 ## Governance applied at scale
 

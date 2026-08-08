@@ -149,7 +149,7 @@ Nick's early portrait of Gatsby's temperament may be the most direct transfer of
 
 Finally, the ending. When Nick delivers the closing meditation and the famous last line, "So we beat on, boats against the current, borne back ceaselessly into the past," he is voicing a truth the author lived to the letter. Fitzgerald spent his final years borne back toward the golden early twenties, toward the fame and love and money that had slipped away, unable to row forward into a future that kept receding. The line is the novel's verdict on Gatsby and, in retrospect, on its author.
 
-For readers who want to sit with these passages directly, mark them up, and follow the threads across chapters, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text, close-reading tools, character maps, and a searchable quotation bank let you trace exactly where the life surfaces in the language, with the library growing over time.
+For readers who want to sit with these passages directly, mark them up, and follow the threads across chapters, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text, close-reading tools, character maps, and a searchable quotation bank let you trace exactly where the life surfaces in the language, with the library growing over time.
 
 ## The Wealthy World Fitzgerald Actually Knew
 

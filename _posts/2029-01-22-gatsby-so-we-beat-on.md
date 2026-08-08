@@ -270,7 +270,7 @@ Take a position on the voice question rather than avoiding it. Say the sentence 
 
 Connect it to the opening if you have room. The novel starts on a private, unfinished reflection about one father's advice and ends on a public, absolute image containing nobody. Naming that arc gives a short essay a spine and lets you handle both famous passages while doing something with each rather than displaying them.
 
-For following the passage alongside the chapters that feed it, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated edition, close-reading tools, searchable quotation bank, and character and theme trackers let you trace the green light from its first appearance to its final redefinition in one session, with a library that keeps expanding to more works and more study tools.
+For following the passage alongside the chapters that feed it, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated edition, close-reading tools, searchable quotation bank, and character and theme trackers let you trace the green light from its first appearance to its final redefinition in one session, with a library that keeps expanding to more works and more study tools.
 
 ## Closing Verdict
 

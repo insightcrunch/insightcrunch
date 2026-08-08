@@ -274,7 +274,7 @@ The closing vision does not conclude Gatsby's story so much as reclassify it. Un
 
 That paragraph runs near two hundred words, quotes three short fragments, analyzes each rather than admiring it, and reaches a claim a marker has not read twenty times already.
 
-For students who want the closing pages in front of them with the surrounding chapter intact, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the vision sits in context alongside close-reading tools, a searchable quotation bank, and theme and motif trackers that make it straightforward to follow the color green from the dock in chapter one to the continent on the final page. The library keeps expanding, and the annotation layer is the quickest way to see how the passage connects to everything it recapitulates.
+For students who want the closing pages in front of them with the surrounding chapter intact, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the vision sits in context alongside close-reading tools, a searchable quotation bank, and theme and motif trackers that make it straightforward to follow the color green from the dock in chapter one to the continent on the final page. The library keeps expanding, and the annotation layer is the quickest way to see how the passage connects to everything it recapitulates.
 
 ## Verdict: Gatsby's Dream Traced to Its Origin
 

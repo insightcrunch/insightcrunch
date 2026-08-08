@@ -341,7 +341,7 @@ Decide what you are buying with the price. If you choose compression, you have c
 
 Decide the trigger for changing rows. The most useful triggers are his starting position after a restart, the introduction of a second fast attacker, and the scoreline. A block that changes rows on a fixed clock rather than on a trigger will change at the wrong moment.
 
-Then rehearse the state, because a defensive state that has not been rehearsed is not a state, it is a hope. The session design for that rehearsal, including the constraints that produce a compressed block under fatigue and the small-squad version for teams without a full complement, is the territory of the training article on [rehearsing a plan to contain an elite individual](/2020/10/15/training-to-contain-a-superstar/), and coaches building the week around it can save the dossier, the clips, and the session plan together with the [free opposition planning tools on VaultBook](https://vaultbook.org/tools/football-match-planner.html).
+Then rehearse the state, because a defensive state that has not been rehearsed is not a state, it is a hope. The session design for that rehearsal, including the constraints that produce a compressed block under fatigue and the small-squad version for teams without a full complement, is the territory of the training article on [rehearsing a plan to contain an elite individual](/2020/10/15/training-to-contain-a-superstar/), and coaches building the week around it can save the dossier, the clips, and the session plan together with the [free opposition planning tools on VaultBook](https://vaultbook.net/tools/football-match-planner.html).
 
 ## The observable evidence: how to check every claim in this article yourself
 

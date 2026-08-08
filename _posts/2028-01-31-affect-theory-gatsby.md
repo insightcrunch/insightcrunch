@@ -313,7 +313,7 @@ Concede the objection in the essay. Devote a paragraph to the claim that close r
 
 Name a mechanism rather than an effect. Argue that the novel relocates feeling out of characters and into cadence, deixis, atmosphere, and withheld referents, then use that claim to explain something a plot reading cannot, such as why readers who judge Gatsby harshly still find the ending devastating.
 
-Keep the theory to two sentences of definition. The commonest weakness in essays using this lens is a long preamble about affect and emotion followed by three quotations. Fifty words of definition and two thousand words inside the novel is the correct ratio. If you want the text open beside you while you mark the cadences, the distance markers, and the temperature references, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which pairs the full text with close-reading and annotation tools, theme and motif trackers, and a searchable quotation bank in a library that keeps growing.
+Keep the theory to two sentences of definition. The commonest weakness in essays using this lens is a long preamble about affect and emotion followed by three quotations. Fifty words of definition and two thousand words inside the novel is the correct ratio. If you want the text open beside you while you mark the cadences, the distance markers, and the temperature references, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which pairs the full text with close-reading and annotation tools, theme and motif trackers, and a searchable quotation bank in a library that keeps growing.
 
 ## The Verdict
 

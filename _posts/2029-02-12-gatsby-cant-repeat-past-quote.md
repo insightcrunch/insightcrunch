@@ -18,7 +18,7 @@ He does not argue. He does not explain. He repeats Nick's phrase back as an incr
 
 ![Can't repeat the past quote analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-108.webp)
 
-This article works through the exchange in detail: who speaks, in what order, what each speaker means, why Fitzgerald placed it where he did, and what the passage argues that a paraphrase cannot capture. It defends a specific reading against the standard classroom one, which treats Gatsby's answer as simple foolishness and misses the fact that he is partly right. To see how the exchange sits against the pages that surround it, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which holds the full annotated text along with close-reading tools, a searchable quotation bank, and character and theme trackers, with the library expanding over time.
+This article works through the exchange in detail: who speaks, in what order, what each speaker means, why Fitzgerald placed it where he did, and what the passage argues that a paraphrase cannot capture. It defends a specific reading against the standard classroom one, which treats Gatsby's answer as simple foolishness and misses the fact that he is partly right. To see how the exchange sits against the pages that surround it, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which holds the full annotated text along with close-reading tools, a searchable quotation bank, and character and theme trackers, with the library expanding over time.
 
 ## Can't Repeat the Past? Quote Analyzed Line by Line
 

@@ -431,7 +431,7 @@ None of this makes the scale uncertain in the ways that matter. That the event d
 
 ## Saving the scale-and-records facts
 
-Once you have the durable version of the records straight, the natural next move is to keep it somewhere you can find it again, especially if you are heading to the event and want the scale facts on hand alongside the rest of your planning. This is where [the VaultBook festival planner](https://vaultbook.org/tools/lollapalooza-planner.html) earns its place in your toolkit.
+Once you have the durable version of the records straight, the natural next move is to keep it somewhere you can find it again, especially if you are heading to the event and want the scale facts on hand alongside the rest of your planning. This is where [the VaultBook festival planner](https://vaultbook.net/tools/lollapalooza-planner.html) earns its place in your toolkit.
 
 VaultBook lets you save and annotate guides like this one, so the scale-and-records table and the hundreds-of-thousands rule stay a tap away instead of buried in a browser history. You can pin the durable facts, the magnitude, the tier placement, the growth milestones, right alongside the working parts of your trip, and add your own notes as you learn more about how the crowd actually feels on the days you attend.
 

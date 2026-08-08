@@ -274,7 +274,7 @@ Do not explain what green means. Color symbolism is the most predictable content
 
 Keep quotations short and reproduce them exactly. Fragments of six or eight words, embedded in your own clauses, will carry any argument about this passage. Name the edition you used, since pagination varies across printings of a public-domain text.
 
-For working through the passage alongside its later echoes, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated edition, close-reading tools, searchable quotation bank, and character and theme trackers let you follow the light from the end of Chapter One through the rain in Chapter Five to the final page in a single pass, with a library that keeps expanding to more works and more study tools.
+For working through the passage alongside its later echoes, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated edition, close-reading tools, searchable quotation bank, and character and theme trackers let you follow the light from the end of Chapter One through the rain in Chapter Five to the final page in a single pass, with a library that keeps expanding to more works and more study tools.
 
 ## Closing Verdict
 

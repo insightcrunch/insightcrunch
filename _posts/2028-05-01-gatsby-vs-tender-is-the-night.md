@@ -75,7 +75,7 @@ The trade is visible in what each novel can and cannot do. Gatsby cannot show a 
 
 Length follows subject. Gatsby covers one summer and one line of action, so compression intensifies it. Tender Is the Night covers a marriage over more than a decade across four countries, and a slow erosion cannot be rendered in a compressed form without becoming a summary of itself.
 
-A reader who wants to test the compression claim directly can do it with the earlier novel in front of them. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text sits alongside close-reading tools, a searchable quotation bank, and character and theme trackers, so a claim about how little of Gatsby's life is actually dramatized can be checked chapter by chapter rather than accepted. The library keeps growing, and for a comparative reading the useful exercise is to count how many scenes in the shorter novel are given in full and how many arrive as report.
+A reader who wants to test the compression claim directly can do it with the earlier novel in front of them. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text sits alongside close-reading tools, a searchable quotation bank, and character and theme trackers, so a claim about how little of Gatsby's life is actually dramatized can be checked chapter by chapter rather than accepted. The library keeps growing, and for a comparative reading the useful exercise is to count how many scenes in the shorter novel are given in full and how many arrive as report.
 
 ## Structure: Nine Chapters Against Three Books
 

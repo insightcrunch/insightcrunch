@@ -410,7 +410,7 @@ The price is the far side of the pitch. Capping your block's shift so the switch
 
 The second part of the price is a body pre-positioned in the inside channel, which subtracts a player from your own build-up on that side. Again real, again smaller than the alternative.
 
-What makes this the best value is that the payment buys the removal of the input rather than a reduction in the output. You are not defending a great player better; you are arranging for the situation he is great in to occur less often. The mechanics of that are the whole subject of [the counter blueprint for this profile](/2021/04/15/how-to-stop-vinicius-junior/), and a coach building a match-week plan around it can [save the breakdown and build the opposition dossier free on VaultBook](https://vaultbook.org/tools/football-match-planner.html) so the denial triggers, the concessions, and the review notes stay attached to the fixture.
+What makes this the best value is that the payment buys the removal of the input rather than a reduction in the output. You are not defending a great player better; you are arranging for the situation he is great in to occur less often. The mechanics of that are the whole subject of [the counter blueprint for this profile](/2021/04/15/how-to-stop-vinicius-junior/), and a coach building a match-week plan around it can [save the breakdown and build the opposition dossier free on VaultBook](https://vaultbook.net/tools/football-match-planner.html) so the denial triggers, the concessions, and the review notes stay attached to the fixture.
 
 ### The pricing summary
 

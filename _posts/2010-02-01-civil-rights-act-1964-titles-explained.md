@@ -525,7 +525,7 @@ A fourth habit completes the map: always attach a date to whatever you are descr
 
 Hold those three groupings, add the four-step exemption spine, and the statute becomes navigable. For how these provisions fit into the act's overall design and its three enforcement levers, the [complete guide to the Civil Rights Act of 1964](/2010/01/01/civil-rights-act-1964-complete-guide/) supplies the map. For how courts have construed the language quoted here, the [cases that shaped the Civil Rights Act](/2010/03/01/civil-rights-act-supreme-court-cases/) takes each holding in sequence.
 
-Working through a statute at this level of detail generates a lot of small, precise notes: section numbers, thresholds, the dates each clock runs from, and which later act changed which clause. It helps to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.org/tools/legislation-study-notebook.html), where a single notebook can hold the section-by-section annotations, the coverage table and the amendment history in one place you can annotate as you read and use offline.
+Working through a statute at this level of detail generates a lot of small, precise notes: section numbers, thresholds, the dates each clock runs from, and which later act changed which clause. It helps to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html), where a single notebook can hold the section-by-section annotations, the coverage table and the amendment history in one place you can annotate as you read and use offline.
 
 ## Frequently Asked Questions
 

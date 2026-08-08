@@ -276,7 +276,7 @@ Charge volumes at the enforcement agency are cited as evidence of both the statu
 
 Compliance survey results from the year after enactment are strong evidence for the accommodations conclusion but rest on establishment behavior at a moment, in surveyed cities, in the categories the statute covered. They do not speak to establishments outside the covered categories, to communities not surveyed, or to treatment after service was provided.
 
-The general lesson is that each of these measures was constructed for a purpose, and each is informative for that purpose and misleading outside it. A reader who wants to hold this material accurately over time will want the source, the definition and the period recorded alongside every figure, which is exactly the sort of file that decays into a folder of half-remembered numbers unless it is kept deliberately. You can [keep your statute notes, citations and study material together free on VaultBook](https://vaultbook.org/tools/legislation-study-notebook.html) and keep each figure attached to the study that produced it.
+The general lesson is that each of these measures was constructed for a purpose, and each is informative for that purpose and misleading outside it. A reader who wants to hold this material accurately over time will want the source, the definition and the period recorded alongside every figure, which is exactly the sort of file that decays into a folder of half-remembered numbers unless it is kept deliberately. You can [keep your statute notes, citations and study material together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html) and keep each figure attached to the study that produced it.
 
 ## The gap between the right and the remedy
 

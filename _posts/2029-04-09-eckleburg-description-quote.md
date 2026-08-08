@@ -229,7 +229,7 @@ The eyes of Eckleburg description is the most efficient piece of symbol-making i
 
 The verdict this article defends is that the passage's power is inseparable from its literalism. Every eerie effect the sign produces across the novel, the persistence in Chapter 2, the vigil in Chapter 7, the emergence from the dissolving night in Chapter 8, draws on physical properties installed in this one paragraph and adds nothing to them. When Wilson finally names the object as God, Michaelis corrects him and Fitzgerald lets the correction stand, because the novel's argument was never that the sign is divine. Its argument is that in a place like the valley of ashes, an abandoned advertisement is the only thing left that appears to be paying attention, and that people will make a god of whatever is looking at them.
 
-To follow the sign across all four appearances and see how little the later mentions add to the original specification, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text, searchable quotation bank, and motif trackers let you hold every instance of the billboard side by side while you build the argument.
+To follow the sign across all four appearances and see how little the later mentions add to the original specification, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text, searchable quotation bank, and motif trackers let you hold every instance of the billboard side by side while you build the argument.
 
 Nobody repainted it. That is the whole point.
 

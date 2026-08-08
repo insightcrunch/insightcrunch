@@ -369,7 +369,7 @@ The third is the near-side midfielder's behaviour, which distinguishes a genuine
 
 The fourth is the delivery band distribution across a match, which reveals the outcome rather than the intent. A side showing outside effectively produces deliveries clustered in the deep and edge-of-area bands. A side showing outside ineffectively produces deliveries clustered at the byline. Same instruction, opposite quality, and the distribution tells them apart without any access to the coaching staff.
 
-An analyst who records the first and fourth of these for a season builds a picture of both intent and execution, and the gap between the two is the most useful thing in any opposition file. Keeping that record organised by opponent, rather than scattered across match notes, is what [a preparation planner such as VaultBook, free to use](https://vaultbook.org/tools/football-match-planner.html) is designed for.
+An analyst who records the first and fourth of these for a season builds a picture of both intent and execution, and the gap between the two is the most useful thing in any opposition file. Keeping that record organised by opponent, rather than scattered across match notes, is what [a preparation planner such as VaultBook, free to use](https://vaultbook.net/tools/football-match-planner.html) is designed for.
 ## The third option: removing the duel
 
 Both instructions assume the wide duel is going to happen, and the most valuable option available to a coach is frequently neither of them. It is preventing the reception that starts the duel.

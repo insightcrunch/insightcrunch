@@ -452,7 +452,7 @@ Getting a back four to drop together on a shared cue is a rehearsal-heavy behavi
 
 Sit in a mid-block with a fixed line. Your wide midfielder on the attacker's side stands inside and behind your full-back whenever the opponent has the ball, and stays there. Your far-side wide player does not cross the centre circle when the ball is on the other flank. Your full-back retreats, does not tackle, and is judged on whether the sequence ends in the corner. Once the ball reaches the byline, one player pressures it and everyone else defends the space around the penalty spot. That is five instructions, none of them requires an exceptional athlete, and together they remove most of the value from the profile this article is about.
 
-A coach putting that into a match-week plan can [build the opposition dossier free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), keeping the five instructions, the trigger definitions, and the notes on what actually happened attached to the fixture, which is what turns a plan into a repeatable method rather than a one-off.
+A coach putting that into a match-week plan can [build the opposition dossier free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), keeping the five instructions, the trigger definitions, and the notes on what actually happened attached to the fixture, which is what turns a plan into a repeatable method rather than a one-off.
 
 ## The three clips that tell you whether the isolation is manufactured
 

@@ -18,7 +18,7 @@ Nick calls Tom and Daisy careless people. He says they smashed up things and cre
 
 ![The careless people quote explained in The Great Gatsby Chapter 9 - Insight Crunch](/assets/images/blog/blog-42.webp)
 
-This article takes the verdict apart: the scene that produces it, the precise accusation it makes, the word doing the heaviest work, the moral position it commits Nick to, and the objection that the verdict is convenient for the man delivering it. To see how the passage sits against the final chapter, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which keeps the full annotated text together with close-reading tools, a searchable quotation bank, and character and theme trackers, and continues to expand.
+This article takes the verdict apart: the scene that produces it, the precise accusation it makes, the word doing the heaviest work, the moral position it commits Nick to, and the objection that the verdict is convenient for the man delivering it. To see how the passage sits against the final chapter, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which keeps the full annotated text together with close-reading tools, a searchable quotation bank, and character and theme trackers, and continues to expand.
 
 ## The Careless People Quote Explained Line by Line
 

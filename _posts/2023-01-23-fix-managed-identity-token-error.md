@@ -80,7 +80,7 @@ TOKEN="eyJ0eXAiOiJKV1Qi..."   # the access_token value
 echo "$TOKEN" | cut -d '.' -f2 | base64 -d 2>/dev/null | python3 -m json.tool
 ```
 
-That handful of checks (the verbose chain log, the raw endpoint probe, and the decoded token claims) gathers every signal the diagnosis needs. With those facts in hand you can map the symptom to exactly one of the causes below rather than trying fixes at random. If you want a place to reproduce each of these probes against a live but disposable environment, the hands-on labs are built for exactly this kind of stepwise investigation; you can [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html) and walk a token failure end to end without risking a production identity.
+That handful of checks (the verbose chain log, the raw endpoint probe, and the decoded token claims) gathers every signal the diagnosis needs. With those facts in hand you can map the symptom to exactly one of the causes below rather than trying fixes at random. If you want a place to reproduce each of these probes against a live but disposable environment, the hands-on labs are built for exactly this kind of stepwise investigation; you can [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html) and walk a token failure end to end without risking a production identity.
 
 ## The distinct root causes and the InsightCrunch managed-identity token table
 

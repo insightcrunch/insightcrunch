@@ -327,7 +327,7 @@ Disagree properly. Disagreeing with established scholarship is expected and rewa
 
 Never cite what you have not read. Examiners notice, because a secondhand summary has a characteristic vagueness and because the same three misattributed claims circulate endlessly. If you know an argument only through a survey, say that you are drawing on the critical tradition rather than naming a person you have not opened.
 
-For assembling the passage evidence any of these arguments would need, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, character maps, and theme trackers let you gather the specific lines a critical position rests on and test it against them directly.
+For assembling the passage evidence any of these arguments would need, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, character maps, and theme trackers let you gather the specific lines a critical position rests on and test it against them directly.
 
 ## Closing Verdict
 

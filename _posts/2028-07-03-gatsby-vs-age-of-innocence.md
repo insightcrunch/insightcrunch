@@ -267,7 +267,7 @@ Devote a paragraph to the enforcers. May Welland and Tom Buchanan are the sharpe
 
 Handle the fifty-year gap explicitly and early. Markers will be watching for whether the essay notices that comparing an 1870s society with a 1920s one requires justification. State that the gap is a feature, since it lets the pairing measure a change rather than merely compare two states, and the rest of the essay is free to proceed.
 
-Anyone drafting this will want the Gatsby evidence gathered first, and it is efficient to [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text, the searchable quotation bank, and the character and theme trackers make it quick to collect every reference to exclusion, invitation, and old money in one place. The library keeps expanding, so the same apparatus serves later essays too.
+Anyone drafting this will want the Gatsby evidence gathered first, and it is efficient to [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text, the searchable quotation bank, and the character and theme trackers make it quick to collect every reference to exclusion, invitation, and old money in one place. The library keeps expanding, so the same apparatus serves later essays too.
 
 ## Closing Verdict
 

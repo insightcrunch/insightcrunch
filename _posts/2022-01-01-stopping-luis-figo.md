@@ -234,7 +234,7 @@ A third component is worth adding where the resource exists, which is the outcom
 
 The most useful thing about this measurement is that it is a coaching instrument rather than an evaluation instrument. A full-back who is shown that ten of his twelve conceded deliveries came from the byline band knows exactly what to change, and the change is a distance and an angle rather than an effort level. A full-back who is shown that he lost seven duels knows only that he should have tried harder, which is not information.
 
-For a coach keeping this record across a season and building a picture of which opponents produce which delivery bands against his side, the accumulated file is the asset rather than any individual match, and keeping it somewhere organised by opponent rather than scattered across notebooks is what [an opposition planner such as VaultBook, free to use](https://vaultbook.org/tools/football-match-planner.html) is built to do.
+For a coach keeping this record across a season and building a picture of which opponents produce which delivery bands against his side, the accumulated file is the asset rather than any individual match, and keeping it somewhere organised by opponent rather than scattered across notebooks is what [an opposition planner such as VaultBook, free to use](https://vaultbook.net/tools/football-match-planner.html) is built to do.
 ## Which defender profile suited the duel
 
 The profile that handles a delivery specialist is not the profile that handles a dribbler, and selecting the wrong one is a common and expensive error.

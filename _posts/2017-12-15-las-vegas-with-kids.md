@@ -250,7 +250,7 @@ The theory becomes a trip when you shape the day correctly, and the winning shap
 
 The discipline is doing less. The most common planning mistake families make in Vegas is treating the dense attraction map as a to-do list and trying to hit six things in a day, which in this heat and over these distances guarantees a meltdown. Two anchors a day, chosen to sit near each other, with real pool and rest time between them, produces a happier trip than four anchors scattered across four miles. Let the pool do heavy lifting, because for most kids the resort water is genuinely the highlight and it costs you nothing extra and no transit, and build the paid attractions around it rather than the reverse.
 
-For families who want to hand the sequencing off rather than build it by hand, you can [plan, save, and cost out your trip free on VaultBook](https://vaultbook.org/tools/usa-trip-planner.html), reordering the kid pockets into a day-by-day plan, saving the pool and show details, and tracking what the family attractions add up to before you commit.
+For families who want to hand the sequencing off rather than build it by hand, you can [plan, save, and cost out your trip free on VaultBook](https://vaultbook.net/tools/usa-trip-planner.html), reordering the kid pockets into a day-by-day plan, saving the pool and show details, and tracking what the family attractions add up to before you commit.
 
 ## A Family-Shaped Sample Plan: Two Days and Three Days
 

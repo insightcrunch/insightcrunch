@@ -381,7 +381,7 @@ With four players, run the stillness exercise in pairs and the delay clock in a 
 
 The load implication is worth a note. These exercises are lower-intensity than conventional duel work, since there is little sprinting and less deceleration, which makes them suitable close to a match where full duel work is not. That is a genuine practical advantage and it is one reason this content is easier to install than most defensive work.
 
-Coaches who want to keep the session designs, the classification notes, and the opposition plans together across a season rather than rebuilding them each week can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), which is set up for exactly this kind of match-week preparation.
+Coaches who want to keep the session designs, the classification notes, and the opposition plans together across a season rather than rebuilding them each week can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), which is set up for exactly this kind of match-week preparation.
 
 ### How do you train defenders to handle a walking-pace dribbler?
 

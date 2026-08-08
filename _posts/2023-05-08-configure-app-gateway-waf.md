@@ -153,7 +153,7 @@ az monitor diagnostic-settings create \
   --logs '[{"category":"ApplicationGatewayFirewallLog","enabled":true}]'
 ```
 
-With the policy created in detection mode, the managed rule set pinned, the policy associated, and logs flowing, the firewall is now watching your traffic and recording every rule match without blocking anything. This is the safe observation state, and you stay here while you do the real work of tuning. Drive representative traffic through the application, including the infrequent workflows that matter, and let the logs accumulate. The hands-on way to practice this whole sequence against a live gateway, including setting the policy, pinning the rule set, and reading the firewall log, is to [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html), where you can break and fix a WAF without breaking anything that matters.
+With the policy created in detection mode, the managed rule set pinned, the policy associated, and logs flowing, the firewall is now watching your traffic and recording every rule match without blocking anything. This is the safe observation state, and you stay here while you do the real work of tuning. Drive representative traffic through the application, including the infrequent workflows that matter, and let the logs accumulate. The hands-on way to practice this whole sequence against a live gateway, including setting the policy, pinning the rule set, and reading the firewall log, is to [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html), where you can break and fix a WAF without breaking anything that matters.
 
 ## Choosing the Managed Rule Set and Version
 

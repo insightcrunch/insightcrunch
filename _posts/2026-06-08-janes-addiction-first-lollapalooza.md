@@ -141,7 +141,7 @@ What makes the story worth telling at length is the irony at its center. A goodb
 
 Read it that way, and the inaugural edition stops being trivia and becomes what it was: the moment the template was set. The genre collision, the cultural ambition, the conviction that a single day could survey the breadth of popular music, all of it was present in the summer of 1991, carried from city to city by a band that thought it was leaving. The festival has changed almost everything about itself since then except the one thing that matters, which is the idea. And the idea was Jane's Addiction's parting gift, given in the act of saying farewell.
 
-When you are ready to go deeper into the history, save and organize these origin-story guides with the planning companion at [VaultBook](https://vaultbook.org/tools/lollapalooza-planner.html), which lets you keep the festival's history in one place, annotate the chapters that matter to you, and build a personal library of the guides as you read across the series. It is the natural next step for a reader who wants the whole story rather than a single line about how it all began.
+When you are ready to go deeper into the history, save and organize these origin-story guides with the planning companion at [VaultBook](https://vaultbook.net/tools/lollapalooza-planner.html), which lets you keep the festival's history in one place, annotate the chapters that matter to you, and build a personal library of the guides as you read across the series. It is the natural next step for a reader who wants the whole story rather than a single line about how it all began.
 
 ## The band at the center: who Jane's Addiction were
 

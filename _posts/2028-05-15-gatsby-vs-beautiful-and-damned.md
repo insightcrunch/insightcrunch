@@ -160,7 +160,7 @@ Pre-empt the obvious objection in your own voice. The objection is that comparin
 
 Finally, keep the sequence of the comparison consistent throughout. If you introduce the earlier novel as the instrument, do not let it become the subject halfway through, and do not end on it. End on Gatsby, with the reading the comparison produced. The parallel comparisons in this series, including [Gatsby set against Tender Is the Night](/2028/05/01/gatsby-vs-tender-is-the-night/) and [Gatsby set against This Side of Paradise](/2028/05/08/gatsby-vs-this-side-of-paradise/), follow the same discipline and can be used as models for the second and later drafts.
 
-If you want to work the primary text directly while drafting, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which gives you the full annotated novel alongside close-reading and quotation tools for gathering the Gatsby half of your evidence.
+If you want to work the primary text directly while drafting, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which gives you the full annotated novel alongside close-reading and quotation tools for gathering the Gatsby half of your evidence.
 
 ## Closing Verdict
 

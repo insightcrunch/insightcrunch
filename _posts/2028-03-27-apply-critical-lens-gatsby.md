@@ -66,7 +66,7 @@ Vary the type of evidence. If all six passages are descriptions of setting, you 
 
 Record the passages that give the framework trouble. This feels counterproductive and it is the single most valuable habit in theoretical reading. The passage that does not fit is where your eventual argument will have to be precise, and precision is what distinguishes a strong reading from a plausible one.
 
-For assembling this kind of evidence efficiently, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which hosts the full annotated novel alongside close-reading tools, a searchable quotation bank, and theme and motif trackers that make it straightforward to pull every appearance of a motif into one view. The library keeps growing, so the annotation and search tools expand along with it.
+For assembling this kind of evidence efficiently, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which hosts the full annotated novel alongside close-reading tools, a searchable quotation bank, and theme and motif trackers that make it straightforward to pull every appearance of a motif into one view. The library keeps growing, so the annotation and search tools expand along with it.
 
 ### How many passages does a lens reading need?
 

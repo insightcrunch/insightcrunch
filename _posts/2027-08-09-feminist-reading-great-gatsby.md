@@ -216,7 +216,7 @@ Pre-empt the realism objection explicitly, in one or two sentences, near the end
 
 Close on the endorsement question rather than a summary. The strongest final paragraph in a feminist essay on this novel takes a position on whether the book exposes or endorses, admits the evidence on both sides in a clause each, and commits. Committing is not a risk. Refusing to commit is.
 
-Gather your evidence in one pass rather than hunting for it mid-draft. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which offers the full annotated text, close-reading and annotation tools, a searchable quotation bank, and character and theme trackers, so you can pull every sentence where a woman is described and sort them by chapter before you write a word. Building the evidence list first is what turns a feminist essay from a set of impressions into an argument with a spine, and the library keeps adding tools as it grows.
+Gather your evidence in one pass rather than hunting for it mid-draft. You can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which offers the full annotated text, close-reading and annotation tools, a searchable quotation bank, and character and theme trackers, so you can pull every sentence where a woman is described and sort them by chapter before you write a word. Building the evidence list first is what turns a feminist essay from a set of impressions into an argument with a spine, and the library keeps adding tools as it grows.
 
 ## A Worked Paragraph Using the Lens
 

@@ -328,7 +328,7 @@ A romantic New York City weekend is not about finding the single most expensive 
 
 The plan is durable and forgiving. Book the handful of things that need booking, a sunset deck slot, one anchor dinner or show, a jazz table, and keep everything else loose. Base yourselves somewhere with character, time the scenic moments to the light, protect the quiet hours, and lean hard on the free intimate pleasures, the bridge, the park, the wandering, the shared dessert, because those are genuinely among the best parts. Come in fall or the holiday stretch for the romantic peaks, or spring for a milder alternative, and dress to walk. Whatever you rearrange, keep the skyline-and-village rule intact, and the weekend will land.
 
-When you are ready to turn this into a real plan, you can [plan, save, and cost out your trip free on VaultBook](https://vaultbook.org/tools/usa-trip-planner.html), which lets you save these guides, build and reorder your own day-by-day weekend itinerary, track what the trip is costing, and keep your reservations and pinned spots in one place, so the shape above becomes a concrete plan you can both follow.
+When you are ready to turn this into a real plan, you can [plan, save, and cost out your trip free on VaultBook](https://vaultbook.net/tools/usa-trip-planner.html), which lets you save these guides, build and reorder your own day-by-day weekend itinerary, track what the trip is costing, and keep your reservations and pinned spots in one place, so the shape above becomes a concrete plan you can both follow.
 
 ## Photographs Worth Keeping, Without Losing the Moment
 

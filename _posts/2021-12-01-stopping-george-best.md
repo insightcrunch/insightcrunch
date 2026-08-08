@@ -187,7 +187,7 @@ Stage four introduces a live but constrained duel, with the defender restricted 
 
 Stage five is the full duel, and it is a senior activity. The reason for the sequencing is not caution for its own sake. A player who meets contact before his trunk control is established learns to survive it by bracing and stopping, which is precisely the habit that makes him easy to defend, and the habit is durable.
 
-A coach building a match-week plan around this progression, or storing duel notes and opponent observations across a season, can [build and keep an opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), which is designed for exactly this kind of accumulated preparation work.
+A coach building a match-week plan around this progression, or storing duel notes and opponent observations across a season, can [build and keep an opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), which is designed for exactly this kind of accumulated preparation work.
 ## What the duel demanded of his own team
 
 A wide attacker who attacks his defender repeatedly is not operating in isolation, whatever the isolation of the image suggests. He imposes a set of obligations on the ten players behind and around him, and those obligations are the least analysed part of this subject.

@@ -245,7 +245,7 @@ From there the structure writes itself. Establish the visible rivalry and the co
 
 One discipline separates the strong essay from the average one: refuse to summarize. Every time you are tempted to narrate what happens, convert it into a claim about what the event does to the conflict. Do not write that Daisy admits she loved Tom; write that her admission settles the central conflict by confirming the irreversibility of the past, which is why this quiet line, not a death, is the climax. Analysis is the habit of treating every event as evidence for an argument, and the argument this guide has built, the unwinnable conflict against time, is one a smart reader can defend against any prompt the novel is likely to throw.
 
-For close reading of the decisive scenes, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text lets you work line by line through the Plaza confrontation, search the quotation bank for the language of time and the past, and track the conflict strands across the chapters with the character and theme tools. It is the natural next step for turning the argument in this guide into evidence you can cite.
+For close reading of the decisive scenes, you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text lets you work line by line through the Plaza confrontation, search the quotation bank for the language of time and the past, and track the conflict strands across the chapters with the character and theme tools. It is the natural next step for turning the argument in this guide into evidence you can cite.
 
 ## Frequently Asked Questions
 

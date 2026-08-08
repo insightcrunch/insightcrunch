@@ -392,7 +392,7 @@ Check whether the target actually holds the position. The label is applied to an
 
 Check the attribution before quoting. The claim that Marx said the economy determines everything is not supported by any passage in his published work, and the most quotable evidence on the other side, the Engels letter, says the opposite in terms. The unsafe claim in general circulation is that Engels retracted the theory in old age; he restated it and rejected a caricature of it, which is a different event.
 
-Check whether the argument needs the label at all. Naming the specific claim, that a writer treats interests as given, or that they assume institutional forms follow from ownership patterns, is more precise, more defensible, and harder to answer with a shrug. Building a set of citation cards that pairs each formulation with its source, its date, and its status as published work, letter, or draft is the practical defence against the errors above, and you can [save your notes and build a citation-linked reading list free on VaultBook](https://vaultbook.org/tools/marxism-study-notes.html) to keep them in one place.
+Check whether the argument needs the label at all. Naming the specific claim, that a writer treats interests as given, or that they assume institutional forms follow from ownership patterns, is more precise, more defensible, and harder to answer with a shrug. Building a set of citation cards that pairs each formulation with its source, its date, and its status as published work, letter, or draft is the practical defence against the errors above, and you can [save your notes and build a citation-linked reading list free on VaultBook](https://vaultbook.net/tools/marxism-study-notes.html) to keep them in one place.
 
 ## What remains open
 

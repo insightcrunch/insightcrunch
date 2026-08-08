@@ -444,7 +444,7 @@ The fifth is briefing the repertoire in detail, which produces anticipation. The
 
 The sixth is planning only for the duel and not for the supply. A significant share of the available reduction in a dribbler's influence comes from making his receptions worse, and that is a structural, coachable, rehearsable job that most sides skip entirely because it is less interesting than the duel.
 
-The corrective, stated as a planning sequence, is: identify the class, name the concession, set the receiving-zone plan, set the second-defender angle, rehearse the approach and balance, and only then show three minutes of video. Coaches and analysts who want to keep those plans, dossiers, and session notes organized across a season can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), which is designed for exactly that kind of match-week preparation.
+The corrective, stated as a planning sequence, is: identify the class, name the concession, set the receiving-zone plan, set the second-defender angle, rehearse the approach and balance, and only then show three minutes of video. Coaches and analysts who want to keep those plans, dossiers, and session notes organized across a season can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), which is designed for exactly that kind of match-week preparation.
 
 ### Where does preparation for a dribbler usually go wrong?
 

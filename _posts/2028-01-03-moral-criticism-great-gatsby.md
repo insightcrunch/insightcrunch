@@ -267,7 +267,7 @@ Notice what the paragraph does not do. It does not summarize the plot leading to
 
 One further habit is worth adopting for timed work. Keep two passages in reserve that cut against your thesis and address one of them explicitly. For a commitment-based thesis, the Plaza scene is the obvious counterweight, since it shows the valued quality producing coercion. An essay that raises its own strongest objection and answers it in three sentences reads as controlled; an essay that avoids the objection reads as unaware of it, and the difference in assessment is substantial.
 
-For locating the passages this reading depends on, the [VaultBook annotated edition](https://vaultbook.org/tools/great-gatsby-annotated-text.html) is the fastest route, since the opening frame, the cardinal-virtues admission, the Plaza confrontation, and the careless-people paragraph are marked in place with their surrounding context intact. Reading the moral verdicts alongside the scenes that qualify them is what prevents an essay from quoting Nick's judgments as though the novel had endorsed them without reservation.
+For locating the passages this reading depends on, the [VaultBook annotated edition](https://vaultbook.net/tools/great-gatsby-annotated-text.html) is the fastest route, since the opening frame, the cardinal-virtues admission, the Plaza confrontation, and the careless-people paragraph are marked in place with their surrounding context intact. Reading the moral verdicts alongside the scenes that qualify them is what prevents an essay from quoting Nick's judgments as though the novel had endorsed them without reservation.
 
 ## Verdict
 

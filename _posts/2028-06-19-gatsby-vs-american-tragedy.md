@@ -257,7 +257,7 @@ Devote one paragraph to method rather than theme. The contrast between proof by 
 
 Pre-empt the coincidence objection explicitly. Concede that the shared year proves nothing on its own, then supply the eight specific correspondences and the argument from methodological opposition. Essays that dismantle their own strongest objection score higher than essays that never raise one.
 
-Anyone drafting this comparison will want the Gatsby passages in one place before writing, and it is efficient to [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text, the searchable quotation bank, and the character and theme trackers make it quick to gather every class-and-money reference in the novel. The library keeps growing, so the same apparatus serves later essays as well.
+Anyone drafting this comparison will want the Gatsby passages in one place before writing, and it is efficient to [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text, the searchable quotation bank, and the character and theme trackers make it quick to gather every class-and-money reference in the novel. The library keeps growing, so the same apparatus serves later essays as well.
 
 ## Closing Verdict
 

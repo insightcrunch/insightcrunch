@@ -259,7 +259,7 @@ Pre-empt the prosperity objection before the examiner raises it. One clean parag
 
 Finish with the deciding factor rather than a summary. Comparative essays that end by restating the similarities read as inventories. Comparative essays that end by naming what decides the case read as arguments. For this pairing the deciding factor is the sentence-level doubling described above, and saying so gives your conclusion something to do.
 
-Readers who want to test these claims against the text itself can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated edition, the quotation search, and the theme trackers make it straightforward to trace the party passages, the Trimalchio reference, and the closing meditation side by side and see how consistently the decline pattern holds.
+Readers who want to test these claims against the text itself can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated edition, the quotation search, and the theme trackers make it straightforward to trace the party passages, the Trimalchio reference, and the closing meditation side by side and see how consistently the decline pattern holds.
 
 ## Closing Verdict
 

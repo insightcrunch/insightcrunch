@@ -196,7 +196,7 @@ resource zoneGroup 'Microsoft.Network/privateEndpoints/privateDnsZoneGroups@2023
 }
 ```
 
-Notice that the infrastructure-as-code form keeps the interface and the zone group in the same template. That co-location is not a style preference, it is the structural expression of the linchpin rule: define the NIC without the zone group and you have codified the half-built state into your pipeline, guaranteeing that every environment you deploy resolves publicly until somebody fixes DNS by hand. If you want a sandbox to create these objects, disable public access, and watch resolution change before and after, you can [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html), which lets you project a service privately and trace the name resolution end to end without touching a production tenant.
+Notice that the infrastructure-as-code form keeps the interface and the zone group in the same template. That co-location is not a style preference, it is the structural expression of the linchpin rule: define the NIC without the zone group and you have codified the half-built state into your pipeline, guaranteeing that every environment you deploy resolves publicly until somebody fixes DNS by hand. If you want a sandbox to create these objects, disable public access, and watch resolution change before and after, you can [run the hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html), which lets you project a service privately and trace the name resolution end to end without touching a production tenant.
 
 ## Failure modes and the tools that expose them
 

@@ -435,7 +435,7 @@ The second artifact worth building is a one-page duel sheet for the defender who
 
 The third is the concession statement, written as one sentence and said aloud in the team meeting: we are conceding crosses from deep and wide, we have rehearsed it, and nobody is to drop the line when the first one comes in. That sentence prevents more goals than any diagram, because the mid-match collapse of a good plan almost always begins with one player unilaterally deciding the plan is not working.
 
-This is exactly the kind of preparation that benefits from being stored rather than remembered, and if you want somewhere to build the threat-type profile, the duel sheet, and the concession statement for the forward you actually face this week, you can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html) and keep the dossier, the clips, and the session notes together in one place that grows with every match you prepare for.
+This is exactly the kind of preparation that benefits from being stored rather than remembered, and if you want somewhere to build the threat-type profile, the duel sheet, and the concession statement for the forward you actually face this week, you can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html) and keep the dossier, the clips, and the session notes together in one place that grows with every match you prepare for.
 
 For readers who want the generalized version of this method applied to a whole opposition rather than to a single forward, the synthesis article on [how a complete counter-plan is constructed against an elite team](/2032/02/01/how-to-beat-any-elite-team/) extends the same logic from one player to eleven.
 

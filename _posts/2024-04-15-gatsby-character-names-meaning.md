@@ -256,7 +256,7 @@ Most major appellations function as compressed verdicts on the people who bear t
 
 ## Where to Read the Names Against the Characters
 
-The fastest way to test any of these readings is to watch a designation land in context, in the scene where Fitzgerald first attaches it to a person. The [VaultBook annotated edition of The Great Gatsby](https://vaultbook.org/tools/great-gatsby-annotated-text.html) sets the full text beside notes that flag exactly these moments, so a reader can jump to Gatsby's rechristening in the sixth chapter, to the line about Daisy's voice, and to Jordan's first cool appearance, and weigh the appellation against the behavior on the same page. Reading the roster this way, with the annotated text open, turns a list of clever meanings into a living argument about how Fitzgerald builds character one word at a time.
+The fastest way to test any of these readings is to watch a designation land in context, in the scene where Fitzgerald first attaches it to a person. The [VaultBook annotated edition of The Great Gatsby](https://vaultbook.net/tools/great-gatsby-annotated-text.html) sets the full text beside notes that flag exactly these moments, so a reader can jump to Gatsby's rechristening in the sixth chapter, to the line about Daisy's voice, and to Jordan's first cool appearance, and weigh the appellation against the behavior on the same page. Reading the roster this way, with the annotated text open, turns a list of clever meanings into a living argument about how Fitzgerald builds character one word at a time.
 
 
 ## A Closing Verdict for Readers Who Will Write About the Novel

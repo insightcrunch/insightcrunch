@@ -305,7 +305,7 @@ The deciding factor is the direction of the transformations. If Fitzgerald had b
 
 What follows for a reader is a change in how the book should be approached. The question is not where Fitzgerald got his materials, which is answerable and mildly interesting. The question is what he did to them, which is answerable, much more interesting, and produces an argument about the book's meaning rather than a bibliography. A witness-narrator that closes a case, a Romantic hero without rank, a success program presented as a coffin plate, and a garden that arrives after the fall: those four alterations are the book, and none of them is a source.
 
-Readers who want to check every one of these claims against the text can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated edition and the quotation search make it straightforward to hold the renaming passage, the kiss, the schedule, and the closing page beside one another and watch the inherited machinery operate.
+Readers who want to check every one of these claims against the text can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated edition and the quotation search make it straightforward to hold the renaming passage, the kiss, the schedule, and the closing page beside one another and watch the inherited machinery operate.
 
 ## How to Write About Literary Debt Without Sounding Like a Source Hunt
 

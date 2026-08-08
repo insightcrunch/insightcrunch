@@ -263,7 +263,7 @@ Handle evidence with the asymmetry the texts require. Fitzgerald's wording carri
 
 Pre-empt the kinship objection in your own voice. A grader who has read forty essays on this pairing will expect you to overstate the similarity, so state its limits yourself: the shared stance is real and the shared vocabulary, vantage, age, and scope are not. Doing this early buys you credibility for the rest of the argument.
 
-While gathering the Fitzgerald half of your evidence you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which puts the full text alongside close-reading and quotation tools so Nick's exact wording is in front of you rather than reconstructed.
+While gathering the Fitzgerald half of your evidence you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which puts the full text alongside close-reading and quotation tools so Nick's exact wording is in front of you rather than reconstructed.
 ## A Note on Evidence Discipline for This Pairing
 
 Because both novels are so widely known, both are also widely misquoted, and a comparative essay is unusually exposed to the risk.

@@ -105,7 +105,7 @@ Budgeting well is not the same as spending nothing. A few upgrades earn their co
 
 ## Planning tools and a pre-trip checklist
 
-If you want help turning the ranges above into your own numbers, the [VaultBook USA trip planner](https://vaultbook.org/tools/usa-trip-planner.html) is a worksheet for laying out lodging, transport, and daily spend so you can see the lodging lever in your own figures and test a camping plan against a hotel plan.
+If you want help turning the ranges above into your own numbers, the [VaultBook USA trip planner](https://vaultbook.net/tools/usa-trip-planner.html) is a worksheet for laying out lodging, transport, and daily spend so you can see the lodging lever in your own figures and test a camping plan against a hotel plan.
 
 For the practical pre-trip side, the [ReportMedic travel checklist](https://reportmedic.org/tools/usa-travel-safety.html) collects altitude, weather, and trip-cost reminders worth running through before a high-elevation park: hydration and acclimatization at 8,000-plus feet, afternoon-thunderstorm timing, and what your existing travel or health insurance already covers. Treat it as a checklist, not a substitute for professional advice. For anything involving a real medical condition or an insurance decision, confirm with a licensed clinician or your insurer directly.
 

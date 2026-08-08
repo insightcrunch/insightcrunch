@@ -261,7 +261,7 @@ Give one full paragraph to mode. The satire-against-elegy contrast is the most s
 
 Address the class objection in the introduction or the first body paragraph. Markers will be watching to see whether the essay notices that comparing a real estate broker with a criminal millionaire raises a problem. State that the comparison tests one culture at two altitudes rather than equating two men, and the rest of the essay is free to proceed.
 
-Anyone drafting this will want the Gatsby evidence gathered before writing, and it is efficient to [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full annotated text, the searchable quotation bank, and the theme trackers make it quick to collect every reference to goods, parties, and display in one place. The library keeps expanding, so the same apparatus serves the next essay too.
+Anyone drafting this will want the Gatsby evidence gathered before writing, and it is efficient to [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full annotated text, the searchable quotation bank, and the theme trackers make it quick to collect every reference to goods, parties, and display in one place. The library keeps expanding, so the same apparatus serves the next essay too.
 
 ## Closing Verdict
 

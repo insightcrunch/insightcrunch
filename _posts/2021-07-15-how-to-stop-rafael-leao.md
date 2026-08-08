@@ -265,7 +265,7 @@ The third observation is not a measurement and it is the most useful of the thre
 
 The fourth is the change-of-direction touch, which is the engagement window the plan is built around. Watch specifically for the moment he redirects, and note how close the ball stays to his feet during it. A carrier whose redirection touch is tight has a narrow window and your defender needs to be patient. A carrier whose redirection touch drifts has a wide one and your defender should be ready to take it every time.
 
-Those four observations take one viewing and they produce a defensive plan that is specific to the opponent rather than generic. Keeping them somewhere they survive the week is the part that usually fails, since notes made on a Tuesday are rarely findable on a Friday, and a coach who wants the duel profile, the covering depth, and the engagement trigger held together in one place can [build the opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html) rather than rebuilding the same analysis every time the fixture returns.
+Those four observations take one viewing and they produce a defensive plan that is specific to the opponent rather than generic. Keeping them somewhere they survive the week is the part that usually fails, since notes made on a Tuesday are rarely findable on a Friday, and a coach who wants the duel profile, the covering depth, and the engagement trigger held together in one place can [build the opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html) rather than rebuilding the same analysis every time the fixture returns.
 
 ## The amateur and youth version
 

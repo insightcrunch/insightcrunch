@@ -335,7 +335,7 @@ echo | openssl s_client -connect app.example.com:443 -servername app.example.com
 
 That prints the issuer, the subject, and the validity window, which confirms both that the certificate is real and that it has a sane expiry that cert-manager will renew before. If you can curl the hostname over HTTPS, see a Let's Encrypt issuer, and reach your service's content, the chain is complete and verified.
 
-The fastest way to build the muscle memory for this whole sequence is to run it against a throwaway cluster a few times, breaking one link deliberately each time and watching which command surfaces the failure. The [hands-on Azure labs and command library on VaultBook](https://vaultbook.org/tools/azure-labs.html) include a routing rule and TLS sandbox where you can install the proxy, issue a certificate, and reach a service over HTTPS against a real cluster, then tear it down, which is a far cheaper way to learn the failure signatures than discovering them in production.
+The fastest way to build the muscle memory for this whole sequence is to run it against a throwaway cluster a few times, breaking one link deliberately each time and watching which command surfaces the failure. The [hands-on Azure labs and command library on VaultBook](https://vaultbook.net/tools/azure-labs.html) include a routing rule and TLS sandbox where you can install the proxy, issue a certificate, and reach a service over HTTPS against a real cluster, then tear it down, which is a far cheaper way to learn the failure signatures than discovering them in production.
 
 ## The InsightCrunch AKS ingress setup checklist
 

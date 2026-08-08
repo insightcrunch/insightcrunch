@@ -401,7 +401,7 @@ The single constraint that makes this session work is a rule that the full-back 
 
 The session design principles behind all of this, including how to build a full week of preparation around containing an elite individual and how to run it with a small squad or a single training night, belong to the [training week for containing a superstar](/2020/10/15/training-to-contain-a-superstar/), which owns session design for the series. What belongs here is the narrower point that the hand-off is rehearsable in three stages and that skipping the silent stage is why most attempts to install it fail.
 
-For a coach who wants to keep the protocol table, the trigger words and the failure signals in one place across a season, and to build the opposition dossier that tells him which opponents run this pattern, it is worth taking a few minutes to [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html), which is designed for exactly this kind of match-week preparation.
+For a coach who wants to keep the protocol table, the trigger words and the failure signals in one place across a season, and to build the opposition dossier that tells him which opponents run this pattern, it is worth taking a few minutes to [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html), which is designed for exactly this kind of match-week preparation.
 
 ### How do you coach a defensive hand-off at amateur level?
 

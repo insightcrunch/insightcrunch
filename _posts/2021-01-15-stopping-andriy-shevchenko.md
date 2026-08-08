@@ -495,7 +495,7 @@ The mistake is a midfield that presses the ball as a general habit rather than p
 
 ### The common thread
 
-Five of these six are failures of information rather than of ability, and all six can be diagnosed by watching two things from the touchline: whether the back four steps together, and where the far centre-back's head is pointing on each touch of the ball carrier. Keeping that kind of preparation organized across a match week, with the scan rhythm, the line-setting rule and the failure signals in one place, is what a planning tool is for, and a coach who wants somewhere to hold it can [build your opposition plan free on VaultBook](https://vaultbook.org/tools/football-match-planner.html) rather than trying to carry it into a Saturday from memory.
+Five of these six are failures of information rather than of ability, and all six can be diagnosed by watching two things from the touchline: whether the back four steps together, and where the far centre-back's head is pointing on each touch of the ball carrier. Keeping that kind of preparation organized across a match week, with the scan rhythm, the line-setting rule and the failure signals in one place, is what a planning tool is for, and a coach who wants somewhere to hold it can [build your opposition plan free on VaultBook](https://vaultbook.net/tools/football-match-planner.html) rather than trying to carry it into a Saturday from memory.
 ## Game state: why this run gets easier as a match goes on
 
 The conditions a far-shoulder run needs are produced most reliably not by the attacking side but by the defending side's own decisions, and almost all of those decisions are driven by the scoreboard and the clock.

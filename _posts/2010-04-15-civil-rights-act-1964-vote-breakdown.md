@@ -499,7 +499,7 @@ The bill passed both chambers with substantial bipartisan majorities on every re
 
 Everything else commonly asserted about these numbers requires evidence the roll calls do not contain. That is not a limitation of the record; it is the difference between a vote count and a historical argument, and a reader who keeps the two apart will be right more often than one who does not.
 
-For orientation across the whole statute, [the complete guide to the act](/2010/01/01/civil-rights-act-1964-complete-guide/) is the hub for this cluster, and readers who want to keep the four tallies, the regional cuts and the named votes in one place while working through the claims built on them can [keep their statute notes, vote tables and citations together free on VaultBook](https://vaultbook.org/tools/legislation-study-notebook.html).
+For orientation across the whole statute, [the complete guide to the act](/2010/01/01/civil-rights-act-1964-complete-guide/) is the hub for this cluster, and readers who want to keep the four tallies, the regional cuts and the named votes in one place while working through the claims built on them can [keep their statute notes, vote tables and citations together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html).
 ## What a reader should carry from this
 
 Four things, and they fit in a paragraph each.

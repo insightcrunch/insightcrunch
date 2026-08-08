@@ -78,7 +78,7 @@ It also helps to set a second spot. The primary meetup point covers most situati
 
 Choose a fixed, namable landmark that is easy to see from a distance and not in the worst of the crush. A distinctive sculpture, a particular tall structure, or a clear sign all work. Avoid food trucks, blankets, and the densest stage fronts, since those move, vanish, or become impossible to reach.
 
-The test for a good spot is simple: could a friend who has lost their phone, never been to the park, and is mildly overwhelmed still find it from your description alone? If yes, it is a good spot. If finding it requires a map, a pin, or a working signal, it is a weak spot, because the entire point is to work when the signal is gone. The planner is the natural place to save your chosen landmark and its fallback so the group shares one reference, and you can pin your meetup spots and the day's map in the [VaultBook planner](https://vaultbook.org/tools/lollapalooza-planner.html) so everyone is building from the same plan rather than four slightly different memories.
+The test for a good spot is simple: could a friend who has lost their phone, never been to the park, and is mildly overwhelmed still find it from your description alone? If yes, it is a good spot. If finding it requires a map, a pin, or a working signal, it is a weak spot, because the entire point is to work when the signal is gone. The planner is the natural place to save your chosen landmark and its fallback so the group shares one reference, and you can pin your meetup spots and the day's map in the [VaultBook planner](https://vaultbook.net/tools/lollapalooza-planner.html) so everyone is building from the same plan rather than four slightly different memories.
 
 ## The lost-phone backup plan
 

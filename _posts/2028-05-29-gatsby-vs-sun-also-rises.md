@@ -210,7 +210,7 @@ Handle evidence asymmetrically and honestly. Quote Fitzgerald precisely and brie
 
 Pre-empt the obvious objection, which is that comparing a novel of belief to a novel of aftermath is unfair to Hemingway. Answer it by conceding the frame and reversing it: the point is not that one book is more complete but that each is structurally incapable of the other's subject, which makes them complementary rather than competing.
 
-While assembling the Fitzgerald half of your evidence you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which gives you the full text with close-reading and quotation tools so the exact wording of the closing movement is in front of you rather than reconstructed from memory.
+While assembling the Fitzgerald half of your evidence you can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which gives you the full text with close-reading and quotation tools so the exact wording of the closing movement is in front of you rather than reconstructed from memory.
 ## The Bullfight and the Green Light
 
 Each novel contains one object that the characters treat as sacred, and setting the two objects against each other is the most efficient way to demonstrate the pairing's central claim.
