@@ -96,7 +96,7 @@ The courage principle recognises that ethical recommendations often involve pers
 
 The implementation sequencing principle requires that solutions present steps in logical sequence. The first step second step third step articulation demonstrates practical judgment about implementation order.
 
-For comprehensive practice across GS4 case study patterns, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's case study framings. Aspirants who attempt 30 to 50 GS4 PYQ case studies across the preparation cycle internalise the case study architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS4 case study patterns, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's case study framings. Aspirants who attempt 30 to 50 GS4 PYQ case studies across the preparation cycle internalise the case study architecture in ways that cold practice cannot replicate.
 
 {% include tweet.html id="1634938063976812546" %}
 

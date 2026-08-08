@@ -507,7 +507,7 @@ The study spot ecosystem around Harvard is one of the genuine pleasures of being
 
 Students who invest a little time in discovering the ecosystem beyond the default Harvard Square options - who find their way to Diesel or 1369 for a sustained session, who discover that their House library is the best study space they have access to, who learn to use the Lamont Cafe for coffee without leaving the library building - find that the quality of their study environment improves meaningfully alongside the quality of the work produced within it.
 
-The [Harvard Student Life guide](https://insightcrunch.com/2019/01/23/harvard-student-life-what-nobody-tells-you/) covers the broader daily life experience at Harvard, of which study spot culture is one component. The [Harvard Neighborhoods Guide](https://insightcrunch.com/2019/03/04/harvard-neighborhoods-guide-students/) explains the geography of Cambridge and Somerville that the study ecosystem inhabits. The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) and [CAT PYQ Explorer](https://reportmedic.org/tools/cat-previous-year-question-papers.html) provide structured analytical practice for students building the reasoning skills that Harvard's academic environment demands - both available across any device from any cafe with a wifi connection.
+The [Harvard Student Life guide](https://insightcrunch.com/2019/01/23/harvard-student-life-what-nobody-tells-you/) covers the broader daily life experience at Harvard, of which study spot culture is one component. The [Harvard Neighborhoods Guide](https://insightcrunch.com/2019/03/04/harvard-neighborhoods-guide-students/) explains the geography of Cambridge and Somerville that the study ecosystem inhabits. The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) and [CAT PYQ Explorer](https://reportmedic.org/tools/cat-previous-year-question-papers.html) provide structured analytical practice for students building the reasoning skills that Harvard's academic environment demands - both available across any device from any cafe with a wifi connection.
 
 ## The Productivity Science Behind Study Environment Choice
 
@@ -825,7 +825,7 @@ Cooking coffee at home and bringing it to the library: The most economical appro
 
 **Best value:** Lamont Library Cafe (comparable coffee to independent cafes, within the library building, no session purchase obligation).
 
-The ReportMedic [CAT PYQ Explorer](https://reportmedic.org/tools/cat-previous-year-question-papers.html) and [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provide structured analytical reasoning practice that builds the problem-solving and reading comprehension skills that Harvard's academic demands require - available to use in any study venue with wifi.
+The ReportMedic [CAT PYQ Explorer](https://reportmedic.org/tools/cat-previous-year-question-papers.html) and [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) provide structured analytical reasoning practice that builds the problem-solving and reading comprehension skills that Harvard's academic demands require - available to use in any study venue with wifi.
 
 
 ## The Wider Cambridge Culture That Makes the Study Ecosystem Work

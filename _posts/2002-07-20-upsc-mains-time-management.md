@@ -94,7 +94,7 @@ The exception to attempt-all strategy encompasses cases where particular questio
 
 The balanced approach combines attempt-all discipline with quality maintenance producing complete paper attempt with sustained quality. The disciplined time management makes balance achievable; absent time discipline forces choice between completion and quality.
 
-For systematic time management practice across diverse question types, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling timed practice that builds examination-ready time discipline.
+For systematic time management practice across diverse question types, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling timed practice that builds examination-ready time discipline.
 
 {% include tweet.html id="1634938063976812546" %}
 

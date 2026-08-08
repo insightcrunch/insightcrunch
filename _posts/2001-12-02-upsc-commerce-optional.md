@@ -68,7 +68,7 @@ Paper 2 carries the behavioural, structural, and legal dimension of the optional
 
 ### Paper Interconnection
 
-The two papers complement rather than overlap. Paper 1 builds the quantitative and financial competence, while Paper 2 builds the organisational and behavioural competence, and together they reflect the full scope of commerce as a discipline that studies both the financial mechanics and the human organisation of economic activity. The candidate who treats them as a unified field, recognising that financial decisions are made within organisations shaped by behaviour and labour relations, writes with the integrative insight that distinguishes the strongest scripts. For comprehensive practice across both papers, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic optional questions that enable paper-specific engagement and reveal the recurring framing that examiners favour.
+The two papers complement rather than overlap. Paper 1 builds the quantitative and financial competence, while Paper 2 builds the organisational and behavioural competence, and together they reflect the full scope of commerce as a discipline that studies both the financial mechanics and the human organisation of economic activity. The candidate who treats them as a unified field, recognising that financial decisions are made within organisations shaped by behaviour and labour relations, writes with the integrative insight that distinguishes the strongest scripts. For comprehensive practice across both papers, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic optional questions that enable paper-specific engagement and reveal the recurring framing that examiners favour.
 
 ## Paper 1 Part One: Financial Accounting Foundations
 
@@ -164,7 +164,7 @@ The candidate must understand the role of the securities market regulator in pro
 
 ### Banking and Financial Services
 
-The candidate must understand the structure of the banking system, the functions of commercial banks, the framework of monetary policy and its transmission, the challenges of non-performing assets and financial inclusion, and the landscape of financial services such as leasing, factoring, venture capital, and mutual funds. The candidate who explains how monetary policy transmission depends on the health of bank balance sheets, or how financial inclusion broadens the base of formal finance, writes answers that connect the financial system to development outcomes. The [previous year questions hub on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) is particularly useful for tracking how examiners frame these contemporary financial topics across years.
+The candidate must understand the structure of the banking system, the functions of commercial banks, the framework of monetary policy and its transmission, the challenges of non-performing assets and financial inclusion, and the landscape of financial services such as leasing, factoring, venture capital, and mutual funds. The candidate who explains how monetary policy transmission depends on the health of bank balance sheets, or how financial inclusion broadens the base of formal finance, writes answers that connect the financial system to development outcomes. The [previous year questions hub on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) is particularly useful for tracking how examiners frame these contemporary financial topics across years.
 
 ## Paper 2 Part One: Organisation Theory
 
@@ -308,7 +308,7 @@ The candidate must make the application move that converts knowledge into marks,
 
 ### Time and Word Discipline
 
-The candidate must build time and word discipline through sustained practice, since Paper 1 in particular pressures the candidate to solve numerical problems quickly and accurately within the time available. The candidate should practise full-length papers under timed conditions, building the speed to complete the paper while preserving accuracy, and should calibrate the length of theoretical answers to the marks on offer. This discipline is acquired only through repeated practice, which the [previous year question papers on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) support by supplying authentic material for timed simulation.
+The candidate must build time and word discipline through sustained practice, since Paper 1 in particular pressures the candidate to solve numerical problems quickly and accurately within the time available. The candidate should practise full-length papers under timed conditions, building the speed to complete the paper while preserving accuracy, and should calibrate the length of theoretical answers to the marks on offer. This discipline is acquired only through repeated practice, which the [previous year question papers on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) support by supplying authentic material for timed simulation.
 
 ## What Most Aspirants Get Wrong
 
@@ -376,7 +376,7 @@ The trend across recent years has moved steadily from pure recall toward applica
 
 ### Allocating Preparation Time by Weightage
 
-You should distribute preparation time across the syllabus in rough proportion to demonstrated weightage, investing the largest share in the high-yield accounting, costing, and finance areas of Paper 1 and the reliable theory anchors of Paper 2, a moderate share in the specialised and conceptual areas, and a deliberate share in answer writing that converts knowledge into marks. An aspirant who allocates time by weightage avoids the common trap of over-preparing minor topics while under-preparing the areas that decide the score, and the [previous year question papers on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provide the raw material for mapping weightage across multiple cycles.
+You should distribute preparation time across the syllabus in rough proportion to demonstrated weightage, investing the largest share in the high-yield accounting, costing, and finance areas of Paper 1 and the reliable theory anchors of Paper 2, a moderate share in the specialised and conceptual areas, and a deliberate share in answer writing that converts knowledge into marks. An aspirant who allocates time by weightage avoids the common trap of over-preparing minor topics while under-preparing the areas that decide the score, and the [previous year question papers on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provide the raw material for mapping weightage across multiple cycles.
 
 ## Building Numerical Speed and Accuracy
 

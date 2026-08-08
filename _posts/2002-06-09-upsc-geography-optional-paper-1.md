@@ -104,7 +104,7 @@ The glacial deposition landforms receive treatment: lateral moraine, medial mora
 
 The diagram repository for glacial geomorphology includes approximately 8 to 10 diagrams: glacier cross-section, cirque formation, U-valley cross-section, drumlin form and orientation, moraine types, esker formation, and glacial landscape composite.
 
-For comprehensive Paper 1 PYQ practice supporting physical geography preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Geography optional questions enabling section-specific practice.
+For comprehensive Paper 1 PYQ practice supporting physical geography preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Geography optional questions enabling section-specific practice.
 
 {% include tweet.html id="1634945881874255875" %}
 

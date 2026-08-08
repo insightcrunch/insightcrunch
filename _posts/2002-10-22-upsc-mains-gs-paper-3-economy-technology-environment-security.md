@@ -228,7 +228,7 @@ The international framework includes the Sendai Framework for Disaster Risk Redu
 
 The contemporary disaster management challenges include the climate-change-induced disaster frequency and intensity increases, the urbanisation-related disaster risk concentration particularly in vulnerable informal settlements, the industrial disaster risks with continuing concerns about specific hazardous facilities, the pandemic preparedness needs post-COVID-19, and the various financial and institutional capacity gaps.
 
-For comprehensive practice across GS Paper 3 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for economy technology environment and security topics. Aspirants who attempt 80 to 100 GS Paper 3 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS Paper 3 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for economy technology environment and security topics. Aspirants who attempt 80 to 100 GS Paper 3 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Subdomain 4: Internal Security
 

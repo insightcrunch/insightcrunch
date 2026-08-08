@@ -124,7 +124,7 @@ The post-day 2 recovery requires avoiding peer discussion about essay topics and
 
 The day 2 energy management comprises high intensity (approximately 85 percent of peak) given essay paper's substantial marks weight while preserving capacity for subsequent GS paper days.
 
-For comprehensive paper-specific practice across all GS papers and essay, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions supporting paper-specific practice calibration.
+For comprehensive paper-specific practice across all GS papers and essay, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions supporting paper-specific practice calibration.
 
 {% include tweet.html id="1634938063976812546" %}
 

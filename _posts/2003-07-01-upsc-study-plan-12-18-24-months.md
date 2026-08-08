@@ -260,7 +260,7 @@ Additionally, use a monthly self-assessment covering four dimensions. Knowledge 
 
 This four-dimensional assessment provides a far richer picture of your preparation health than mock test scores alone. An aspirant who is consistently meeting knowledge and practice milestones but whose mock scores have not yet improved is in a much better position than one whose mock scores fluctuated upward by luck but who missed half the planned reading. Mock scores are lagging indicators; knowledge retention, practice consistency, and speed improvement are leading indicators. Track the leading indicators, and the lagging indicators will follow.
 
-For consistent benchmarking of your knowledge against the standard of actual UPSC questions throughout all three timelines, incorporate the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) into your weekly routine. The tool covers authentic previous year questions across multiple years and subjects, runs entirely in your browser, and provides the most direct feedback loop between your preparation and the examination's actual demands.
+For consistent benchmarking of your knowledge against the standard of actual UPSC questions throughout all three timelines, incorporate the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) into your weekly routine. The tool covers authentic previous year questions across multiple years and subjects, runs entirely in your browser, and provides the most direct feedback loop between your preparation and the examination's actual demands.
 
 ## The Prelims-Mains Integration Challenge
 

@@ -122,7 +122,7 @@ Public Administration carries the longest syllabus among these three, though it 
 
 ### The Honest Reading Load Ranking
 
-Ranked purely by reading load from lightest to heaviest, the order is Philosophy, then Anthropology, then Public Administration. Ranked by retention burden, the order shifts because Anthropology's factual density pushes it upward. Ranked by ongoing maintenance, Public Administration leads because its current dimension never settles. An aspirant should choose the ranking that matters most to their own constraints: an aspirant with very little time leans toward Philosophy, an aspirant with a strong factual memory tolerates Anthropology, and an aspirant who can sustain continuous engagement with governance accepts Public Administration. To calibrate how UPSC actually frames optional questions across these subjects before committing, work through authentic past papers using the [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html), which covers optional questions across multiple years and runs in the browser without registration.
+Ranked purely by reading load from lightest to heaviest, the order is Philosophy, then Anthropology, then Public Administration. Ranked by retention burden, the order shifts because Anthropology's factual density pushes it upward. Ranked by ongoing maintenance, Public Administration leads because its current dimension never settles. An aspirant should choose the ranking that matters most to their own constraints: an aspirant with very little time leans toward Philosophy, an aspirant with a strong factual memory tolerates Anthropology, and an aspirant who can sustain continuous engagement with governance accepts Public Administration. To calibrate how UPSC actually frames optional questions across these subjects before committing, work through authentic past papers using the [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html), which covers optional questions across multiple years and runs in the browser without registration.
 
 {% include tweet.html id="1609857440824328196" %}
 
@@ -232,7 +232,7 @@ Public Administration has the most developed material ecosystem of the three, wi
 
 ### The Material Verdict
 
-Ranked by abundance of support, Public Administration leads, Anthropology sits in the middle, and Philosophy offers the leanest but most stable ecosystem. Ranked by suitability for the independent self-studier, the order reverses, because Philosophy and Anthropology reward an aspirant who can learn from a small set of sources without heavy hand-holding. An aspirant who wants institutional structure leans toward Public Administration. An aspirant comfortable with self-study and a small reading list leans toward Philosophy or Anthropology. To test any of these subjects against authentic question patterns before committing money or months, the [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) lets an aspirant work through optional questions across multiple years and judge fit directly.
+Ranked by abundance of support, Public Administration leads, Anthropology sits in the middle, and Philosophy offers the leanest but most stable ecosystem. Ranked by suitability for the independent self-studier, the order reverses, because Philosophy and Anthropology reward an aspirant who can learn from a small set of sources without heavy hand-holding. An aspirant who wants institutional structure leans toward Public Administration. An aspirant comfortable with self-study and a small reading list leans toward Philosophy or Anthropology. To test any of these subjects against authentic question patterns before committing money or months, the [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) lets an aspirant work through optional questions across multiple years and judge fit directly.
 
 ## Answer Writing Demands Compared
 
@@ -276,7 +276,7 @@ Among the subjects still standing, prefer the one whose General Studies and inte
 
 ### Step Five: Verify with Past Papers Before Committing
 
-Before final commitment, test your provisional choice against real questions. Work through several years of authentic optional questions in your chosen subject and confirm that the questions feel approachable rather than alien. The [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) makes this verification straightforward, covering optional questions across multiple years so that an aspirant can sit with the actual examination patterns and confirm fit before investing the months that a full optional preparation requires. An aspirant who completes all five steps chooses with evidence rather than reputation, and that evidence-based choice is the single strongest predictor of optional marks.
+Before final commitment, test your provisional choice against real questions. Work through several years of authentic optional questions in your chosen subject and confirm that the questions feel approachable rather than alien. The [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) makes this verification straightforward, covering optional questions across multiple years so that an aspirant can sit with the actual examination patterns and confirm fit before investing the months that a full optional preparation requires. An aspirant who completes all five steps chooses with evidence rather than reputation, and that evidence-based choice is the single strongest predictor of optional marks.
 
 ## Common Mistakes Aspirants Make When Choosing Among These Three
 
@@ -324,7 +324,7 @@ Spend three days auditing your cognitive profile and background against what you
 
 ### Days Ten to Twelve: Verify Against Past Papers
 
-Spend three days working through several years of authentic optional questions in your leading candidate subject, using the [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) so that you confront the real examination patterns rather than coaching simulations. Confirm that the questions feel approachable and that you can imagine writing them across two papers. If the questions feel alien, return to your second candidate and repeat the test.
+Spend three days working through several years of authentic optional questions in your leading candidate subject, using the [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) so that you confront the real examination patterns rather than coaching simulations. Confirm that the questions feel approachable and that you can imagine writing them across two papers. If the questions feel alien, return to your second candidate and repeat the test.
 
 ### Days Thirteen and Fourteen: Commit and Begin
 

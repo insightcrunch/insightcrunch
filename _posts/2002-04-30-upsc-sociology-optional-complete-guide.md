@@ -70,7 +70,7 @@ The Paper 2 scope engages Indian society (historical perspectives caste tribal r
 
 The Paper interconnection reveals how Paper 1 theory provides analytical tools for Paper 2 society consideration. Durkheim's solidarity concepts analyse Indian community bonds. Marx's class framework analyses Indian inequality. Weber's stratification model analyses Indian social hierarchy. The interconnection awareness supports integrated analytical treatment.
 
-For comprehensive Sociology PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic optional questions enabling paper-specific engagement.
+For comprehensive Sociology PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic optional questions enabling paper-specific engagement.
 
 {% include tweet.html id="1609857440824328196" %}
 

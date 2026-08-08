@@ -100,7 +100,7 @@ The map quality matters substantially. The neat clearly labelled map supports an
 
 The frequently practised map types include India outline map (most useful for diverse Indian questions), India political map (useful for state-level analysis), Indian Ocean region map (useful for foreign policy questions), South Asia map (useful for neighbourhood questions), and selected world region maps (useful for specific international questions). The systematic practice across these map types builds versatile map deployment capacity.
 
-For comprehensive Mains answer practice across diverse question types including visual-eligible questions, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling systematic visual element practice with PYQ engagement.
+For comprehensive Mains answer practice across diverse question types including visual-eligible questions, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling systematic visual element practice with PYQ engagement.
 
 {% include tweet.html id="1634938063976812546" %}
 

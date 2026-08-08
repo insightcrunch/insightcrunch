@@ -138,7 +138,7 @@ The Farmer Producer Organisations promotion through various schemes including th
 
 The contract farming framework through model legislation and various state implementations addresses corporate-farmer linkages. The contemporary contract farming has substantial scope across various crops including poultry sugar dairy seed production and various others though with continuing concerns about farmer position in contract negotiations.
 
-For comprehensive practice across agriculture themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for agricultural topics. Aspirants who attempt 30 to 50 agriculture-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across agriculture themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for agricultural topics. Aspirants who attempt 30 to 50 agriculture-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 UPSC questions on agricultural marketing expect engagement with MSP framework APMC reforms 2020 farm laws episode FPO promotion contract farming and contemporary developments. Practise 5 to 7 agricultural marketing answers across the preparation cycle.
 

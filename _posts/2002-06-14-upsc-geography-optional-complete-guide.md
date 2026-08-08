@@ -122,7 +122,7 @@ The map work section includes locating features identifying patterns and interpr
 
 The Paper 2 total preparation ranges approximately 215 to 265 hours including content study map work practice answer writing and revision.
 
-For comprehensive geography PYQ engagement supporting topic frequency analysis, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic optional geography questions enabling paper-specific practice.
+For comprehensive geography PYQ engagement supporting topic frequency analysis, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic optional geography questions enabling paper-specific practice.
 
 {% include tweet.html id="1634938063976812546" %}
 

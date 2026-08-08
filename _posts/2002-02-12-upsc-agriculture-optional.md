@@ -76,7 +76,7 @@ The papers are not isolated silos. A question on nutrient management in the firs
 
 ### Mapping the Syllabus to Question Frequency
 
-Not every topic carries equal weight in the actual papers. Soil science, nutrient management, plant breeding, genetics, horticulture and crop physiology appear with high frequency and deserve your deepest preparation. Agricultural economics, extension methodology and post-harvest technology appear regularly but with lighter weight. A careful study of past papers, available through the [free repository of previous year question papers on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html), reveals these patterns clearly and lets you allocate reading hours in proportion to examination value rather than spreading effort evenly across topics of unequal importance.
+Not every topic carries equal weight in the actual papers. Soil science, nutrient management, plant breeding, genetics, horticulture and crop physiology appear with high frequency and deserve your deepest preparation. Agricultural economics, extension methodology and post-harvest technology appear regularly but with lighter weight. A careful study of past papers, available through the [free repository of previous year question papers on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html), reveals these patterns clearly and lets you allocate reading hours in proportion to examination value rather than spreading effort evenly across topics of unequal importance.
 
 ## The First Paper Deep Dive
 
@@ -208,7 +208,7 @@ The mains papers demand answers under severe time pressure, which makes length d
 
 ### The Practice Protocol
 
-Establish a regular answer-writing rhythm well before the examination. Begin with individual questions, progress to sections, and finish with full timed papers in the final months. Evaluate your own scripts critically against model standards, identifying where you described rather than analysed and where a diagram would have strengthened the answer. The previous year papers, accessible through the [practice repository on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html), provide authentic material for this protocol, and writing against real questions builds the instinct that distinguishes a prepared candidate from a knowledgeable one.
+Establish a regular answer-writing rhythm well before the examination. Begin with individual questions, progress to sections, and finish with full timed papers in the final months. Evaluate your own scripts critically against model standards, identifying where you described rather than analysed and where a diagram would have strengthened the answer. The previous year papers, accessible through the [practice repository on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html), provide authentic material for this protocol, and writing against real questions builds the instinct that distinguishes a prepared candidate from a knowledgeable one.
 
 ## Common Mistakes Candidates Make
 

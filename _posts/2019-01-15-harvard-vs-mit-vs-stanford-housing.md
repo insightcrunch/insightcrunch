@@ -728,7 +728,7 @@ International students at all three institutions navigate the same US F-1 studen
 
 All three institutions have extensive international student support offices (Harvard's ISSO, MIT's equivalent, Stanford's Bechtel International Center) that provide visa compliance, cultural transition, and community support. The specific quality and range of these services is broadly comparable across institutions.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides analytical reasoning practice that builds skills applicable across all three institutions' academic environments and competitive admissions processes.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides analytical reasoning practice that builds skills applicable across all three institutions' academic environments and competitive admissions processes.
 
 ---
 

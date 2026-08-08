@@ -82,7 +82,7 @@ The world outline map preparation requires memorising significant global feature
 
 The location memorisation technique involves daily 10-minute outline map drawing practice using blank maps. The weekly complete India outline map exercise with all features confirms retention. The monthly world outline map exercise maintains global spatial awareness. The spaced repetition through regular practice produces durable location memory.
 
-For comprehensive map work and PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Geography optional questions enabling map work section practice.
+For comprehensive map work and PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Geography optional questions enabling map work section practice.
 
 {% include tweet.html id="1523864435345227777" %}
 

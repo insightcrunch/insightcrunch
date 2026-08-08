@@ -88,7 +88,7 @@ The contemporary debates on directive principles include the appropriate balance
 
 UPSC questions on directive principles expect engagement with the constitutional text, the historical evolution of judicial interpretation, the legislative operationalisation, and the contemporary debates. Practise 4 to 6 directive principles answers across the preparation cycle.
 
-For comprehensive practice across constitutional and polity themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for polity topics. Aspirants who attempt 50 to 70 polity-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across constitutional and polity themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for polity topics. Aspirants who attempt 50 to 70 polity-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Fundamental Duties
 

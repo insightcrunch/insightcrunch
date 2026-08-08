@@ -138,7 +138,7 @@ The emerging trend integration encompasses citing contemporary trends alongside 
 
 The systematic integration techniques transform static-heavy answers into balanced contemporary engagement. The aspirant who applies these techniques produces answers that combine foundational depth with contemporary relevance.
 
-For comprehensive static-dynamic integration practice through PYQ effort, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling practice of balanced content deployment across diverse question types.
+For comprehensive static-dynamic integration practice through PYQ effort, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling practice of balanced content deployment across diverse question types.
 
 {% include tweet.html id="1634938063976812546" %}
 

@@ -138,7 +138,7 @@ The contemporary cybersecurity debates include the appropriate framework for cri
 
 The intersection with broader digital governance includes the Digital Personal Data Protection Act 2023 implementation through forthcoming rules the Digital India Act under preparation expected to address various contemporary digital governance dimensions including cybersecurity and various others.
 
-For comprehensive practice across GS3 internal security themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for internal security topics. Aspirants who attempt 30 to 50 internal security PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS3 internal security themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for internal security topics. Aspirants who attempt 30 to 50 internal security PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 UPSC questions on cybersecurity expect engagement with institutional framework legal framework threat landscape specific incidents policy framework and contemporary debates. Practise 4 to 5 cybersecurity answers across the preparation cycle.
 

@@ -537,7 +537,7 @@ Harvard has multiple resources for students who experience financial difficulty 
 
 **Dean of Students office:** For serious financial difficulties that affect housing or the ability to continue enrolment, the Dean of Students office is the appropriate contact. The office can help navigate a range of institutional resources and, in extreme cases, help manage a leave of absence and re-enrolment process.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) is a useful analytical reasoning resource for Harvard students building quantitative skills alongside their coursework. The [Harvard Off-Campus Housing Guide](https://insightcrunch.com/2019/03/28/harvard-off-campus-housing-guide/) provides detailed guidance for graduate students navigating the Cambridge private rental market.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) is a useful analytical reasoning resource for Harvard students building quantitative skills alongside their coursework. The [Harvard Off-Campus Housing Guide](https://insightcrunch.com/2019/03/28/harvard-off-campus-housing-guide/) provides detailed guidance for graduate students navigating the Cambridge private rental market.
 
 ---
 
@@ -886,7 +886,7 @@ Graduate financial aid processes vary significantly by school and programme. The
 
 **Harvard University Housing:** Apply for HUH housing through the online portal as soon as the application opens for your incoming cohort. Housing is separate from academic financial aid and requires a separate application process.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) offers valuable analytical practice for students preparing for competitive admissions processes, with extensive reasoning and comprehension questions that build the skills assessors look for. For context on the Harvard residential system and the experiences these costs support, the [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/) covers the full picture of Harvard's housing and community infrastructure.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) offers valuable analytical practice for students preparing for competitive admissions processes, with extensive reasoning and comprehension questions that build the skills assessors look for. For context on the Harvard residential system and the experiences these costs support, the [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/) covers the full picture of Harvard's housing and community infrastructure.
 
 
 ## Comparing Harvard's Value Proposition Across Income Levels

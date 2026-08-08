@@ -122,7 +122,7 @@ The deployment contexts for Gandhi include integrity questions (means-ends integ
 
 The deployment example for integrity question: "Gandhi's insistence on means-ends integration provides powerful framework for administrative integrity arguing that ethical outcomes require ethical processes. When officer faces pressure to bypass environmental clearance procedures for project with substantial developmental benefit the Gandhian framework argues that the procedural bypass itself constitutes ethical violation regardless of beneficial outcome. The officer's integrity requires maintaining ethical means alongside pursuing ethical ends."
 
-For comprehensive practice across GS4 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for thinker deployment. Aspirants who attempt 30 to 50 GS4 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS4 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for thinker deployment. Aspirants who attempt 30 to 50 GS4 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Dr B R Ambedkar: Social Justice and Constitutional Framework
 

@@ -86,7 +86,7 @@ The contemporary analytical dimensions include debates about appropriate Indian 
 
 UPSC questions on India-Pakistan relations expect engagement with the historical context the various bilateral agreements the contemporary state of relations the specific strategic challenges and the policy analysis. Practise 5 to 7 India-Pakistan answers across the preparation cycle.
 
-For comprehensive practice across IR themes with authentic UPSC framings, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides questions across multiple years that allow you to internalise UPSC's specific question architecture for international relations topics. Aspirants who attempt 50 to 70 IR-specific PYQ questions across the preparation cycle internalise the question framing conventions in ways that cold practice cannot replicate, including the question types that repeatedly appear across cycles on bilateral relations multilateral engagements and broader strategic analysis.
+For comprehensive practice across IR themes with authentic UPSC framings, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides questions across multiple years that allow you to internalise UPSC's specific question architecture for international relations topics. Aspirants who attempt 50 to 70 IR-specific PYQ questions across the preparation cycle internalise the question framing conventions in ways that cold practice cannot replicate, including the question types that repeatedly appear across cycles on bilateral relations multilateral engagements and broader strategic analysis.
 
 ## India-China Relations: The Strategic Competition
 

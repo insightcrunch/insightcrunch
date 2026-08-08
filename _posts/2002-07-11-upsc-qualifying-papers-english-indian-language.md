@@ -138,7 +138,7 @@ The Indian language grammar component tests grammar of the chosen language. The 
 
 The Indian language precis component requires condensation similar to English precis but in the chosen Indian language.
 
-For authentic qualifying paper practice through past paper engagement, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides PYQ collections enabling qualifying paper format familiarisation.
+For authentic qualifying paper practice through past paper engagement, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides PYQ collections enabling qualifying paper format familiarisation.
 
 {% include tweet.html id="1634938063976812546" %}
 

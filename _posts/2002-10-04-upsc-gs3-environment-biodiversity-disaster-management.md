@@ -110,7 +110,7 @@ The contemporary biodiversity issues include the various species-specific concer
 
 UPSC questions on biodiversity expect engagement with conservation framework specific programmes Indian biodiversity wealth international frameworks and contemporary developments. Practise 4 to 6 biodiversity answers across the preparation cycle.
 
-For comprehensive practice across GS3 environment themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for environment topics. Aspirants who attempt 30 to 50 environment-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS3 environment themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for environment topics. Aspirants who attempt 30 to 50 environment-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Pollution Management: Air Water Solid Waste
 

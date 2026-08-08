@@ -108,7 +108,7 @@ The contemporary debates around the anti-corruption institutional framework incl
 
 UPSC questions on the anti-corruption framework expect engagement with the institutional architecture, the legislative framework, the implementation experience, and the contemporary debates. Practise 4 to 6 anti-corruption answers across the preparation cycle.
 
-For comprehensive practice across governance themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for governance topics. Aspirants who attempt 50 to 70 governance-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across governance themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for governance topics. Aspirants who attempt 50 to 70 governance-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Whistleblower Protection and Other Transparency Mechanisms
 

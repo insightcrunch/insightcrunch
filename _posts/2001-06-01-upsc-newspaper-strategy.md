@@ -114,7 +114,7 @@ The third category is reports, indices, and data. When an official committee sub
 
 The discipline that ties these together is selectivity. The national pages carry far more than you should capture, and an aspirant who tries to note everything drowns. Train yourself to ask, for each item, whether it touches the syllabus and whether it has a governance, policy, or institutional dimension. If it does, capture it crisply. If it does not, move on without guilt. The goal is a focused harvest, not an exhaustive transcription, and the reader who masters this selectivity reads faster and retains more.
 
-For aspirants who want to test how these daily developments translate into actual question patterns, the [previous year question papers compiled on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) offer a useful way to see how current affairs themes have historically been framed into examination questions, which sharpens the eye for what to extract from each day's reading.
+For aspirants who want to test how these daily developments translate into actual question patterns, the [previous year question papers compiled on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) offer a useful way to see how current affairs themes have historically been framed into examination questions, which sharpens the eye for what to extract from each day's reading.
 
 ## The Economy Pages and Business Coverage
 

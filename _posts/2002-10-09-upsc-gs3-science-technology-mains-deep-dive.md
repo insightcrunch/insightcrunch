@@ -146,7 +146,7 @@ The strategic nuclear programme has distinctive dimensions. India conducted nucl
 
 The contemporary nuclear developments include the various international cooperation frameworks the continuing capacity expansion the emerging technology considerations including SMRs and the broader nuclear policy framework evolution.
 
-For comprehensive practice across GS3 science and technology themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for science and technology topics. Aspirants who attempt 30 to 50 science and technology PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS3 science and technology themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for science and technology topics. Aspirants who attempt 30 to 50 science and technology PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 The specific UPSC-relevant questions on nuclear technology include the civilian nuclear power framework and expansion the three-stage nuclear programme the international cooperation agreements the strategic nuclear doctrine and the contemporary developments including SMRs and various others. Practise 2 to 3 nuclear technology answers across the preparation cycle.
 

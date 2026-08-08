@@ -142,7 +142,7 @@ The contemporary external sector issues include the global trade frictions and p
 
 UPSC questions on external sector expect engagement with trade patterns investment flows foreign exchange management and contemporary issues. Practise 3 to 4 external sector answers across the preparation cycle.
 
-For comprehensive practice across GS3 economy themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for economy topics. Aspirants who attempt 50 to 70 economy-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS3 economy themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for economy topics. Aspirants who attempt 50 to 70 economy-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Banking and Financial Sector Reform
 

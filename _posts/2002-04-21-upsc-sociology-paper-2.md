@@ -42,7 +42,7 @@ The challenges section covers population dynamics, poverty and deprivation, viol
 
 The social policy section covers labour and social legislation, education policies, women and child welfare, and social movements and social change. The policy section connects sociological understanding with governance response.
 
-For comprehensive Paper 2 PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic questions enabling section-specific engagement.
+For comprehensive Paper 2 PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic questions enabling section-specific engagement.
 
 {% include tweet.html id="1881999136091988356" %}
 

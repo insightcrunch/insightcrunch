@@ -510,7 +510,7 @@ If HUH is not available, use Harvard's official off-campus housing service exclu
 
 Connect through department channels with students who have recently navigated the same process and can provide current market intelligence and landlord recommendations.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) offers structured analytical practice for students building reasoning skills. The [Harvard Graduate Housing Guide](https://insightcrunch.com/2019/03/20/harvard-graduate-housing-guide/) covers the on-campus graduate housing options in detail as a complement to this off-campus guide.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) offers structured analytical practice for students building reasoning skills. The [Harvard Graduate Housing Guide](https://insightcrunch.com/2019/03/20/harvard-graduate-housing-guide/) covers the on-campus graduate housing options in detail as a complement to this off-campus guide.
 
 ---
 

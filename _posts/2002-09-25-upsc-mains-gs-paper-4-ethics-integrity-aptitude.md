@@ -102,7 +102,7 @@ The deployment principles include using thinker references when their specific i
 
 The recommended preparation approach builds substantive understanding of 5 to 7 versatile thinkers (Aristotle Kant Mill Gandhi Ambedkar plus 2 or 3 others) rather than superficial familiarity with extensive list. The depth across these thinkers enables substantive deployment across substantial range of GS4 question contexts.
 
-For comprehensive practice across GS4 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for ethics topics. Aspirants who attempt 30 to 50 GS4 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS4 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for ethics topics. Aspirants who attempt 30 to 50 GS4 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 {% include tweet.html id="1634938063976812546" %}
 

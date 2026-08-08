@@ -118,7 +118,7 @@ The topics that had examination prominence in earlier years but have lost promin
 
 The topics primarily involving factual recall rather than analytical work warrant surface coverage. The factual topics receive limited examination attention in recent cycles emphasising analytical framing.
 
-For comprehensive topic coverage supporting smart preparation across all topics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling topic frequency recognition supporting depth allocation decisions.
+For comprehensive topic coverage supporting smart preparation across all topics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling topic frequency recognition supporting depth allocation decisions.
 
 {% include tweet.html id="1634938063976812546" %}
 

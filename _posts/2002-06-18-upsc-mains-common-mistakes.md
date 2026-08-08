@@ -146,7 +146,7 @@ The elimination requires conscious presentation discipline including legible han
 
 The practice method involves presentation-focused practice where aspirant writes answers with explicit attention to presentation quality. The 20 to 30 presentation-focused practice answers develop automatic presentation discipline.
 
-For comprehensive practice throughout all question types supporting mistake elimination, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling targeted mistake-aware practice.
+For comprehensive practice throughout all question types supporting mistake elimination, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling targeted mistake-aware practice.
 
 {% include tweet.html id="1634938063976812546" %}
 

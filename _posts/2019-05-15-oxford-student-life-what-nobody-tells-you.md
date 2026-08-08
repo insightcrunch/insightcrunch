@@ -498,7 +498,7 @@ Beyond the official academic content of any Oxford degree, the experience teache
 
 **The tolerance for intellectual discomfort.** Oxford is specifically designed to put students in situations where they do not know the answer, where the argument has not resolved, where the reading raises more questions than it answers. Students who survive the Oxford experience develop a tolerance for this kind of productive discomfort - an ability to sit with unresolved questions and continue thinking - that is one of the hallmarks of genuine intellectual development.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) is a useful resource for students developing structured reasoning and analytical reading skills, capacities that Oxford's tutorial system builds and that remain valuable across many contexts.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) is a useful resource for students developing structured reasoning and analytical reading skills, capacities that Oxford's tutorial system builds and that remain valuable across many contexts.
 
 ---
 

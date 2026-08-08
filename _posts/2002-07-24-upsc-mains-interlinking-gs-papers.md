@@ -124,7 +124,7 @@ The technique step 5 involves cross-paper revision through topic consolidation. 
 
 The cumulative cross-paper revision within the preparation cycle produces topic-integrated knowledge base supporting multi-dimensional answer writing with substantial preparation efficiency.
 
-For comprehensive cross-paper question pattern analysis, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling identification of cross-paper question patterns and multi-dimensional question types supporting cross-paper integration practice.
+For comprehensive cross-paper question pattern analysis, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling identification of cross-paper question patterns and multi-dimensional question types supporting cross-paper integration practice.
 
 {% include tweet.html id="1634938063976812546" %}
 

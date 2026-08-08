@@ -50,7 +50,7 @@ The stratification section covers concepts (equality inequality hierarchy exclus
 
 The applied sections cover works of thinkers (detailed engagement with specific works), political and economic sociology (power state economy development), and religion kinship family. These sections generate 2 to 4 questions collectively.
 
-For comprehensive Paper 1 PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic questions enabling thinker-specific and section-specific engagement.
+For comprehensive Paper 1 PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic questions enabling thinker-specific and section-specific engagement.
 
 {% include tweet.html id="1964954406341730381" %}
 

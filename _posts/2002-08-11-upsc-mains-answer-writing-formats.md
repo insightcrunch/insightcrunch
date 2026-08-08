@@ -80,7 +80,7 @@ The conclusion for 200-word format involves brief synthesis (15 to 20 words). Ex
 
 The complete 200-word answer (199 words) demonstrates integrated technique. The format-specific architecture produces moderately developed treatment within disciplined word management.
 
-For comprehensive answer writing practice across diverse question types, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years enabling format-specific practice with PYQ engagement.
+For comprehensive answer writing practice across diverse question types, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years enabling format-specific practice with PYQ engagement.
 
 ## The 250-Word Format Mastery
 

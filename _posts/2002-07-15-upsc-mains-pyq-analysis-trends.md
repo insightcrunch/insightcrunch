@@ -198,7 +198,7 @@ The moderate-frequency topics warranting solid preparation include digital techn
 
 The emerging GS3 themes gaining prominence include climate-resilient development, green energy transition, AI and emerging technologies, and contemporary economic transformation through industrial policy.
 
-For comprehensive PYQ involvement supporting trend-aware preparation across all four GS papers, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling individual question study and pattern recognition development.
+For comprehensive PYQ involvement supporting trend-aware preparation across all four GS papers, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling individual question study and pattern recognition development.
 
 {% include tweet.html id="1634938063976812546" %}
 

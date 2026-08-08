@@ -58,7 +58,7 @@ The global diffusion of industrialisation followed distinctive patterns across d
 
 The impact of the Industrial Revolution on India was structurally devastating in ways UPSC questions repeatedly invite analysis of. The colonial relationship transformed India from a major exporter of textiles and other manufactured goods (the pre-industrial Indian textile sector accounted for a substantial share of global production) into a supplier of raw materials and a market for British manufactured goods. The deindustrialisation of Indian textile production through colonial trade policies produced the destruction of traditional artisan livelihoods. The agrarian commercialisation under colonial revenue policies disrupted traditional village economies. The construction of colonial infrastructure (railways, telegraph, ports) was designed primarily to serve the extraction of raw materials and the distribution of British manufactured goods, with limited internal economic integration.
 
-For comprehensive practice on the Industrial Revolution and other world history themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise the analytical framings UPSC consistently uses for world history.
+For comprehensive practice on the Industrial Revolution and other world history themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise the analytical framings UPSC consistently uses for world history.
 
 ## The Age of Revolutions: American, French, 1848
 
@@ -268,7 +268,7 @@ The directional shifts in recent UPSC papers reveal evolving emphases. World his
 
 The recurrence rate within these categories is high enough that aspirants can prepare 10 to 12 thematic note sets covering the recurring themes and have substantial coverage of any given paper. The aspirants who treat each year as a fresh unpredictable exam consistently underprepare; the aspirants who internalise the thematic architecture consistently overperform on world history questions.
 
-For comprehensive world history practice across all themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to test your preparation against the actual question framings UPSC has used for world history.
+For comprehensive world history practice across all themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to test your preparation against the actual question framings UPSC has used for world history.
 
 ## Common Mistakes Aspirants Make in World History
 

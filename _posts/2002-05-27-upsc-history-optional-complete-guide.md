@@ -106,7 +106,7 @@ The Mughal Empire section addresses political history (Babur through Aurangzeb),
 
 The eighteenth-century section covers Mughal decline theories (Jagirdari crisis, Satish Chandra's analysis), regional successor states (Hyderabad Bengal Awadh Maratha Sikh), and European penetration. The section typically generates 1 to 2 questions bridging Paper 1 and Paper 2.
 
-For comprehensive History PYQ engagement supporting period-wise preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic optional history questions enabling paper-specific practice.
+For comprehensive History PYQ engagement supporting period-wise preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic optional history questions enabling paper-specific practice.
 
 {% include tweet.html id="1687784854770032640" %}
 

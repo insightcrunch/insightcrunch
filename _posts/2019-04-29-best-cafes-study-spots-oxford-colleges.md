@@ -373,7 +373,7 @@ Many Oxford students develop the habit of a punting session when the essay is do
 
 The River Thames walks along the Isis provide a similar cognitive rest in a less structured format - a cycle or walk along the Thames Path from central Oxford toward Iffley, or north toward Wolvercote, provides the kind of movement-while-thinking environment that many academics find productive for working through complex problems at a subconscious level.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) is a useful tool for structured reasoning practice that works well in a focused cafe or library session, providing the kind of timed analytical challenge that builds the reasoning skills that Oxford's tutorial system rewards.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) is a useful tool for structured reasoning practice that works well in a focused cafe or library session, providing the kind of timed analytical challenge that builds the reasoning skills that Oxford's tutorial system rewards.
 
 ---
 

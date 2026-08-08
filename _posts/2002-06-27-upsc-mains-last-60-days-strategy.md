@@ -142,7 +142,7 @@ The mock test pattern recognition across multiple mocks reveals performance tren
 
 The mock test calibration adjustment involves using mock feedback for preparation calibration. The adjustment generates progressive improvement over subsequent mocks.
 
-For comprehensive answer writing practice through PYQ engagement during final phase, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling diverse practice throughout topics and question types.
+For comprehensive answer writing practice through PYQ engagement during final phase, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling diverse practice throughout topics and question types.
 
 {% include tweet.html id="1634938063976812546" %}
 

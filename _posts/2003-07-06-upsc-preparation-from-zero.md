@@ -374,7 +374,7 @@ There is also a deeper truth about UPSC preparation that becomes apparent only a
 
 For a comprehensive look at how the examination structures each stage and how marks translate into ranks, refer to the [complete UPSC exam pattern guide](/2003/07/15/upsc-exam-pattern-2026/). For Prelims-specific preparation strategy, mock test planning, and the last 30 to 90 day intensive approach, the [Prelims complete strategy guide](/2003/04/02/upsc-prelims-complete-guide/) provides the detailed game plan.
 
-To regularly benchmark your readiness against the standard of actual UPSC questions, make the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) a part of your weekly routine. Authentic PYQ practice, done consistently over months, builds the pattern recognition and question-reading skill that no amount of passive reading can replace.
+To regularly benchmark your readiness against the standard of actual UPSC questions, make the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) a part of your weekly routine. Authentic PYQ practice, done consistently over months, builds the pattern recognition and question-reading skill that no amount of passive reading can replace.
 
 Your journey starts with one page of one NCERT. Begin today.
 

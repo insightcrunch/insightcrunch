@@ -62,7 +62,7 @@ The foreign accounts include Greek (Megasthenes Indica on Mauryan India), Chines
 
 The historiographical schools relevant to Paper 1 include Orientalist approach (colonial scholars constructing Indian history through western categories often emphasising decline and stagnation), Nationalist approach (Indian historians emphasising indigenous civilizational achievements and continuity), Marxist approach (emphasising economic determinism class investigation mode of production and social formation), Cambridge School (emphasising patron-client networks locality-based political analysis), Subaltern Studies (emphasising history from below recovering agency of non-elite groups), and Post-Colonial approach (challenging colonial knowledge production and categories).
 
-For comprehensive Paper 1 PYQ practice supporting period-specific preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic History optional questions enabling section-wise engagement.
+For comprehensive Paper 1 PYQ practice supporting period-specific preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic History optional questions enabling section-wise engagement.
 
 {% include tweet.html id="1703349971452584406" %}
 

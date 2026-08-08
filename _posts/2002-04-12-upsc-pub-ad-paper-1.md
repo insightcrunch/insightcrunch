@@ -54,7 +54,7 @@ The comparative section examines Riggs' prismatic model, Heady's comparative ana
 
 The development and NPM sections examine development administration, new public management, and governance paradigms. These sections provide contemporary governance theory.
 
-For comprehensive Paper 1 PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic questions enabling thinker-specific and section-specific engagement.
+For comprehensive Paper 1 PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic questions enabling thinker-specific and section-specific engagement.
 
 {% include tweet.html id="2033539857700860019" %}
 

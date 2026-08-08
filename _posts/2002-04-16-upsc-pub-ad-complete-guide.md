@@ -70,7 +70,7 @@ The Paper 2 scope covers evolution of Indian administration (Kautilya to contemp
 
 The Paper interconnection reveals how Paper 1 theory provides analytical tools for Paper 2 institutional analysis. Weber's bureaucracy ideal type evaluates Indian civil service. NPM principles assess Indian governance reforms. Good Governance framework evaluates Indian administrative effectiveness. The interconnection awareness supports integrated analytical capability.
 
-For comprehensive Public Administration PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic optional questions enabling paper-specific engagement.
+For comprehensive Public Administration PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic optional questions enabling paper-specific engagement.
 
 {% include tweet.html id="1631841419517374465" %}
 

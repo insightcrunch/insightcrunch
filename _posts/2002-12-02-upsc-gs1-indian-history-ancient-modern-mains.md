@@ -68,7 +68,7 @@ The South Indian dynasties theme covers the Cholas, Pallavas, Pandyas, Cheras, a
 
 The post-Gupta and early medieval transition theme covers the period from approximately 600 to 1000 CE, including Harshavardhana's empire, the rise of Rajput dynasties, the development of regional kingdoms, and the changing economic and social order that historians have variously characterised as Indian feudalism, the rise of agrarian elites, or the continuity of earlier patterns. UPSC questions in this area test your ability to engage with historiographical debates about Indian feudalism and the structural transformations of the early medieval period.
 
-For comprehensive practice across ancient history themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) compiles authentic Mains questions across multiple years, allowing you to internalise the directive-verb patterns and the analytical depth UPSC consistently demands across ancient history subtopics.
+For comprehensive practice across ancient history themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) compiles authentic Mains questions across multiple years, allowing you to internalise the directive-verb patterns and the analytical depth UPSC consistently demands across ancient history subtopics.
 
 ## Medieval Indian History: Themes That Recur
 
@@ -296,7 +296,7 @@ The directional shifts in recent UPSC papers reveal evolving emphases. Modern In
 
 The recurrence rate within these categories is high enough that aspirants can prepare 35 to 45 thematic note sets covering the recurring themes and have substantial coverage of any given paper. The aspirants who treat each year as a fresh unpredictable exam consistently underprepare; the aspirants who internalise the thematic architecture consistently overperform.
 
-For comprehensive PYQ practice across all history subdomains, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years, allowing you to test your preparation against the actual question framings UPSC has used. Aspirants who attempt 50 to 80 PYQ history questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive PYQ practice across all history subdomains, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years, allowing you to test your preparation against the actual question framings UPSC has used. Aspirants who attempt 50 to 80 PYQ history questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Linking History to Current Affairs and Contemporary Debates
 

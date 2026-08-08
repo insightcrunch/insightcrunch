@@ -138,7 +138,7 @@ The contemporary EI debates include the appropriate framework for EI assessment 
 
 The deployment of EI framework in theoretical answers requires applied demonstration through specific administrative scenarios rather than definitional treatment. The successful deployment illustrates how each EI component applies in specific administrative situations producing concrete demonstrations. The unsuccessful deployment provides definitional descriptions of components without applied dimensions.
 
-For comprehensive practice across GS4 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for ethics topics. Aspirants who attempt 30 to 50 GS4 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS4 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for ethics topics. Aspirants who attempt 30 to 50 GS4 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 UPSC questions on emotional intelligence expect engagement with conceptual framework specific component analysis administrative applications with concrete examples and contemporary relevance. Practise 3 to 4 EI answers across the preparation cycle.
 

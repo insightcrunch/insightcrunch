@@ -234,7 +234,7 @@ For students, writers, and teachers who want to work through Memento's design wi
 
 For deeper comparative work, the ReportMedic film studies reference helps you set Memento beside its international relatives and its noir ancestors in an organized way. It lets you record structural notes, track the recurring questions a film provokes, and keep your sources for unreliable-narration and reverse-chronology cinema in one place, so a single analysis can grow into a working library on how filmmakers worldwide break time and doubt their narrators. Used together, the notebook and the reference let you move from understanding one film's structure to seeing the whole tradition it belongs to, which is exactly the kind of study Memento rewards.
 
-You can reach the VaultBook film study notebook at https://vaultbook.net/tools/film-study-notebook.html and the ReportMedic film studies reference at https://reportmedic.org/tools/film-studies-reference.html. Both are built to support the slow, mapping-driven reading that a structure like this one demands, and both turn the work of taking a film apart into something you can keep and return to.
+You can reach the VaultBook film study notebook at https://vaultbook.net/tools/film-study-notebook.html and the ReportMedic film studies reference at <https://reportmedic.org/tools/film-studies-reference.html>. Both are built to support the slow, mapping-driven reading that a structure like this one demands, and both turn the work of taking a film apart into something you can keep and return to.
 
 
 ## The opening as a thesis stated in a single image

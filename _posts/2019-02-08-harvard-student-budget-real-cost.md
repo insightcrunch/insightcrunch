@@ -1222,7 +1222,7 @@ The money is real, the costs are real, and the constraints for many students are
 
 These three actions together can save $5,000-$12,000 per year for a graduate student - a sum that substantially changes the stipend-to-expense ratio and makes the difference between a financially sustainable and a financially stressful Harvard experience.
 
-The [Harvard Accommodation Costs Breakdown](https://insightcrunch.com/2019/04/05/harvard-accommodation-costs-breakdown/) provides detailed housing cost information. The [Harvard Graduate Housing Guide](https://insightcrunch.com/2019/03/20/harvard-graduate-housing-guide/) covers the HUH application process. The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides analytical reasoning practice for students across competitive academic programmes.
+The [Harvard Accommodation Costs Breakdown](https://insightcrunch.com/2019/04/05/harvard-accommodation-costs-breakdown/) provides detailed housing cost information. The [Harvard Graduate Housing Guide](https://insightcrunch.com/2019/03/20/harvard-graduate-housing-guide/) covers the HUH application process. The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides analytical reasoning practice for students across competitive academic programmes.
 
 
 ## Conclusion: Planning Makes Harvard Affordable

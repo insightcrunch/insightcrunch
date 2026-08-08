@@ -328,7 +328,7 @@ The core discipline is to read with the future answer in mind, constantly asking
 
 ### Benchmarking Against Real Questions
 
-Extraction sharpens dramatically when you test your material against the actual questions the examination has asked, because this reveals whether your harvested ideas would genuinely help under examination conditions. Working through authentic previous year questions after reading a document shows you immediately where your extracted material fits and where gaps remain. The [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) organises authentic previous year questions across multiple years and subjects, runs entirely in your browser, and requires no registration, which makes it a natural companion to report reading when you want to confirm that what you extracted is what the examination actually rewards.
+Extraction sharpens dramatically when you test your material against the actual questions the examination has asked, because this reveals whether your harvested ideas would genuinely help under examination conditions. Working through authentic previous year questions after reading a document shows you immediately where your extracted material fits and where gaps remain. The [free UPSC previous year questions and practice on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) organises authentic previous year questions across multiple years and subjects, runs entirely in your browser, and requires no registration, which makes it a natural companion to report reading when you want to confirm that what you extracted is what the examination actually rewards.
 
 ### Condensing Ruthlessly
 

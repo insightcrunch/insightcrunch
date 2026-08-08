@@ -58,7 +58,7 @@ The local government engages 73rd and 74th Amendments Panchayati Raj urban local
 
 The remaining sections cover financial administration (budget CAG parliamentary control) and significant contemporary governance issues (e-governance corruption disaster management citizen-centric governance).
 
-For comprehensive Paper 2 PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic questions enabling section-specific engagement.
+For comprehensive Paper 2 PYQ practice, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic questions enabling section-specific engagement.
 
 {% include tweet.html id="1867603846249279773" %}
 

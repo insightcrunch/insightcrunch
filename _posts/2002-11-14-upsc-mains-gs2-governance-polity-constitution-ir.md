@@ -98,7 +98,7 @@ The recent developments include the various contemporary controversies around in
 
 UPSC questions on separation of powers and dispute redressal expect engagement with the constitutional foundations, the contemporary applications and tensions, the major Supreme Court judgments, and the policy implications. Practise 4 to 6 separation-of-powers answers across the preparation cycle.
 
-For comprehensive practice across GS Paper 2 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for polity and governance topics. Aspirants who attempt 60 to 80 GS Paper 2 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across GS Paper 2 themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for polity and governance topics. Aspirants who attempt 60 to 80 GS Paper 2 PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Parliament and State Legislatures
 

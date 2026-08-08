@@ -248,7 +248,7 @@ For anatomy, the standard regional textbooks used in undergraduate training serv
 
 ### The Previous Year Question Compass
 
-Beyond textbooks, the most important resource is the bank of previous year question papers of this optional, because they reveal exactly which regions, mechanisms and topics recur and at what depth. Mapping your revision to demonstrated examination demand prevents the open-ended over-reading that consumes a doctor's limited time. Practising authentic past questions is also a habit worth building early, and the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provide a browser-based way to drill examination-style retrieval across multiple years and subjects without any registration.
+Beyond textbooks, the most important resource is the bank of previous year question papers of this optional, because they reveal exactly which regions, mechanisms and topics recur and at what depth. Mapping your revision to demonstrated examination demand prevents the open-ended over-reading that consumes a doctor's limited time. Practising authentic past questions is also a habit worth building early, and the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provide a browser-based way to drill examination-style retrieval across multiple years and subjects without any registration.
 
 ### Notes Over Textbooks in the Final Phase
 
@@ -786,7 +786,7 @@ Treat them as quiet scoring opportunities precisely because many candidates negl
 
 **Q19: What is the single best way to practise for this optional?**
 
-Sustained, evaluated answer writing against previous year questions is the single highest-value practice, because it simultaneously drills content retrieval, answer structure, diagram deployment and time discipline. Begin with one full-format answer daily and build toward several per day, always reviewing each against the question's exact demand rather than merely completing it. Drilling authentic past questions matters because it reveals the recurring topics and the expected depth, and the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) offer a no-registration, browser-based way to practise that retrieval across multiple years and subjects alongside your written answer work.
+Sustained, evaluated answer writing against previous year questions is the single highest-value practice, because it simultaneously drills content retrieval, answer structure, diagram deployment and time discipline. Begin with one full-format answer daily and build toward several per day, always reviewing each against the question's exact demand rather than merely completing it. Drilling authentic past questions matters because it reveals the recurring topics and the expected depth, and the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) offer a no-registration, browser-based way to practise that retrieval across multiple years and subjects alongside your written answer work.
 
 **Q20: Can I combine a demanding clinical job with serious preparation for this optional?**
 

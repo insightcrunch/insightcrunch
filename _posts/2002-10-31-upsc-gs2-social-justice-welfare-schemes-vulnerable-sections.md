@@ -104,7 +104,7 @@ The implementation experience of ST welfare has documented progress alongside co
 
 The contemporary debates on ST welfare include the implementation of PESA and FRA with continuing concerns about substantive realisation, the appropriate balance between conservation and tribal rights particularly in protected areas, the impact of mining and infrastructure development on tribal communities and the rehabilitation framework, the specific concerns of urban tribal populations who often fall outside traditional welfare frameworks, the contemporary controversies around specific tribal communities and policy responses, and the broader debates about appropriate strategy for tribal development.
 
-For comprehensive practice across social justice themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for social justice topics. Aspirants who attempt 50 to 70 social justice-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across social justice themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for social justice topics. Aspirants who attempt 50 to 70 social justice-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Other Backward Classes Welfare and the Reservation Framework
 

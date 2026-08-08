@@ -717,7 +717,7 @@ The Allston campus environment changes significantly with the seasons, and under
 
 **Harvard Law School Legal Aid Bureau:** Free lease review and landlord-tenant legal advice for all Harvard community members. Useful for HBS students signing private leases for the first time in the Massachusetts rental market.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides analytical reasoning practice for students across competitive academic and professional programmes. The full series of Harvard accommodation guides - the [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/), the [Harvard Off-Campus Housing Guide](https://insightcrunch.com/2019/03/28/harvard-off-campus-housing-guide/), and the [Harvard Accommodation Costs Breakdown](https://insightcrunch.com/2019/04/05/harvard-accommodation-costs-breakdown/) - provide the complete context for housing decisions across all Harvard programmes.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides analytical reasoning practice for students across competitive academic and professional programmes. The full series of Harvard accommodation guides - the [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/), the [Harvard Off-Campus Housing Guide](https://insightcrunch.com/2019/03/28/harvard-off-campus-housing-guide/), and the [Harvard Accommodation Costs Breakdown](https://insightcrunch.com/2019/04/05/harvard-accommodation-costs-breakdown/) - provide the complete context for housing decisions across all Harvard programmes.
 
 
 ## What HBS Graduates Say About Housing in Retrospect

@@ -791,7 +791,7 @@ Month 0: Application submitted. Accommodation application submitted.
 
 Post-admission: Visa application. Financial arrangements. Departure preparation.
 
-The ReportMedic [CAT PYQ Explorer](https://reportmedic.org/tools/cat-previous-year-question-papers.html) provides rigorous quantitative and verbal reasoning practice for the GMAT and GRE preparation phase. The [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) builds analytical reasoning for the essay and interview phases. Both are available across any device and compatible with the fragmented study time that a demanding TCS workload creates.
+The ReportMedic [CAT PYQ Explorer](https://reportmedic.org/tools/cat-previous-year-question-papers.html) provides rigorous quantitative and verbal reasoning practice for the GMAT and GRE preparation phase. The [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) builds analytical reasoning for the essay and interview phases. Both are available across any device and compatible with the fragmented study time that a demanding TCS workload creates.
 
 
 ## The Returning TCS Alumni Perspective

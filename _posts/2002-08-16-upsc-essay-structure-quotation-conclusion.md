@@ -96,7 +96,7 @@ The action point conclusion application example for "Digital India" topic demons
 
 The action point conclusion avoids common conclusion pitfalls. The summary conclusion that merely repeats body paragraph points fails to add analytical value. The vague conclusion ("In conclusion much work remains to be done") provides no substantive contribution. The new-argument conclusion that introduces fresh content disrupts essay coherence. The action point structure systematically prevents these pitfalls through its synthesis-forward-look-impression architecture.
 
-For comprehensive engagement with essay topics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains essay topics across multiple years enabling systematic practice across diverse topic types. The structural techniques described in this guide apply consistently across both Section A philosophical topics and Section B current affairs topics.
+For comprehensive engagement with essay topics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains essay topics across multiple years enabling systematic practice across diverse topic types. The structural techniques described in this guide apply consistently across both Section A philosophical topics and Section B current affairs topics.
 
 {% include tweet.html id="1634938063976812546" %}
 

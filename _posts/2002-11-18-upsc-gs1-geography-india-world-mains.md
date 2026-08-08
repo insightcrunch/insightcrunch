@@ -76,7 +76,7 @@ Oceanography covers ocean processes and their terrestrial implications. Build no
 
 The integration of physical geography with human and economic dimensions elevates answers. The physical features shape agricultural potential, industrial location logic, population distribution, transportation networks, and broader developmental patterns. UPSC questions that ask about industrial location or agricultural distribution implicitly test your ability to connect physical geographical foundations with human geographical outcomes.
 
-For comprehensive geography practice across all themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for geography topics. Aspirants who attempt 30 to 50 geography-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive geography practice across all themes, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for geography topics. Aspirants who attempt 30 to 50 geography-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Geophysical Phenomena: Earthquakes, Tsunamis, Volcanoes, Cyclones
 
@@ -394,7 +394,7 @@ Agricultural current affairs include the cropping pattern shifts, the agricultur
 
 The recommended approach is to allocate 15 to 20 minutes per day to geography-relevant current affairs within the broader newspaper reading discipline. Build a current-geography notebook with dated entries that capture contemporary developments with geographical dimensions. The notebook becomes a rich source of examples and evidence for Mains answers across the preparation cycle.
 
-The comprehensive PYQ practice for geography that ties together current affairs with foundational preparation is supported by the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html), where aspirants can attempt authentic Mains questions across multiple years and internalise how UPSC has integrated contemporary dimensions with foundational geography themes across cycles.
+The comprehensive PYQ practice for geography that ties together current affairs with foundational preparation is supported by the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html), where aspirants can attempt authentic Mains questions across multiple years and internalise how UPSC has integrated contemporary dimensions with foundational geography themes across cycles.
 
 ## Conclusion: Geography Mastery Is Spatial Analytical Capital
 

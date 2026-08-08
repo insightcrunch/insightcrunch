@@ -114,7 +114,7 @@ The political dimensions include the response to global governance regimes where
 
 UPSC questions on globalisation's effects can be approached through the framework of identifying the specific dimension (economic, cultural, technological, political) relevant to the question, articulating both the positive and negative effects in that dimension with specific evidence, addressing the differential effects across social groups (rural versus urban, elite versus non-elite, men versus women, different castes and religions, different regions), and arriving at a balanced judgement about the overall direction and the way forward.
 
-For comprehensive practice across society themes including globalisation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for society topics. Aspirants who attempt 40 to 60 society-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
+For comprehensive practice across society themes including globalisation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to internalise UPSC's question framings for society topics. Aspirants who attempt 40 to 60 society-specific PYQ questions across the preparation cycle internalise the question architecture in ways that cold practice cannot replicate.
 
 ## Population and Demographic Issues
 
@@ -220,7 +220,7 @@ The directional shifts in recent UPSC papers reveal evolving emphases. Women's i
 
 The recurrence rate within these categories is high enough that aspirants can prepare 20 to 25 thematic note sets covering the recurring themes and have substantial coverage of any given paper. The aspirants who treat each year as a fresh unpredictable exam consistently underprepare; the aspirants who internalise the thematic architecture consistently overperform on society questions.
 
-For comprehensive society practice across all subtopics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions across multiple years that allow you to test your preparation against the actual question framings UPSC has used for society topics.
+For comprehensive society practice across all subtopics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions across multiple years that allow you to test your preparation against the actual question framings UPSC has used for society topics.
 
 ## Answer Writing for GS1 Society Questions
 

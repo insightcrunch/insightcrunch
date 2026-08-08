@@ -196,7 +196,7 @@ The deployment suits assessment questions where balance between achievement reco
 
 The 10 styles provide comprehensive deployment repertoire supporting examination conclusion craftsmanship during diverse question types. The aspirant builds familiarity with all 10 styles selecting appropriate style based on specific question requirements and body content trajectory.
 
-For comprehensive answer writing practice throughout diverse question types where introduction and conclusion techniques can be deployed, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling systematic introduction-conclusion technique practice with PYQ engagement.
+For comprehensive answer writing practice throughout diverse question types where introduction and conclusion techniques can be deployed, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling systematic introduction-conclusion technique practice with PYQ engagement.
 
 {% include tweet.html id="1634938063976812546" %}
 

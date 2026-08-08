@@ -126,7 +126,7 @@ The 150 plus scoring target requires approximately 75 per essay (60 percent). Th
 
 The scoring optimisation strategies include ensuring every body paragraph makes explicit connection to thesis (preventing tangential wandering), including at least one specific Indian context paragraph per essay (demonstrating grounded analysis), using one thoughtful quotation per essay (demonstrating breadth without name-dropping), concluding with forward-looking synthesis (demonstrating analytical maturity), and maintaining word count within 1100 to 1200 range (demonstrating disciplined composition).
 
-For comprehensive practice across essay topics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains essay topics across multiple years enabling systematic engagement with UPSC's essay topic patterns and evolution. Aspirants who analyse PYQ essay topics across multiple years identify recurring thematic patterns informing preparation focus.
+For comprehensive practice across essay topics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains essay topics across multiple years enabling systematic engagement with UPSC's essay topic patterns and evolution. Aspirants who analyse PYQ essay topics across multiple years identify recurring thematic patterns informing preparation focus.
 
 ## How Topper-Level Essays Differ from Average Essays
 

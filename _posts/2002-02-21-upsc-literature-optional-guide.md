@@ -46,7 +46,7 @@ The remaining canons on the list, including Bodo, Dogri, Kashmiri, Konkani, Mait
 
 One practical clarification prevents a common confusion. Offering a literary canon as your elective is a separate decision from the medium in which you write the rest of your Mains papers. A candidate may write the General Studies papers and the Essay in English or in a permitted regional medium, and may simultaneously offer the literary canon of a different tongue as the elective. The two choices interact in ways covered later in this guide, but they are not the same choice, and treating them as one is a frequent early error.
 
-For systematic practice against authentic past papers across every elective, including the literary ones, the [free UPSC previous year question papers on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) let you study exactly how questions on each canon have been framed over many cycles, which is the most reliable way to calibrate the real demands of a subject before you commit to it.
+For systematic practice against authentic past papers across every elective, including the literary ones, the [free UPSC previous year question papers on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) let you study exactly how questions on each canon have been framed over many cycles, which is the most reliable way to calibrate the real demands of a subject before you commit to it.
 
 ## The Shared Architecture of the Indian Language Papers
 
@@ -138,7 +138,7 @@ The fourth phase converts knowledge into marks through relentless answer practic
 
 The final phase is integrated revision, in which you cycle through the whole field, historical scaffolding and prescribed compositions together, on a tightening schedule as the examination approaches. Build a revision rhythm that returns you to every major author, period and prescribed work at regular intervals, so that nothing fades, and keep writing practice answers throughout so that the hand and the critical voice stay sharp. A candidate who has front-loaded reading, built the scaffolding, deepened analysis, drilled answers and revised systematically arrives in the hall with a finite, mastered field and the trained ability to write about it, which is exactly the position from which strong optional totals are won.
 
-For authentic past papers to anchor every phase of this plan, especially the answer-practice and revision phases, the [ReportMedic previous year question paper collection](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) lets you work directly with the real questions the Commission has set on each canon, turning your preparation from guesswork into targeted, evidence-led practice.
+For authentic past papers to anchor every phase of this plan, especially the answer-practice and revision phases, the [ReportMedic previous year question paper collection](https://reportmedic.org/tools/upsc-pyq-explorer.html) lets you work directly with the real questions the Commission has set on each canon, turning your preparation from guesswork into targeted, evidence-led practice.
 
 ## Answer Craft: What Evaluators Reward in a Literary Script
 

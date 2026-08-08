@@ -541,7 +541,7 @@ Accept the first-year private market situation as temporary and manageable rathe
 **Is graduate student housing at Harvard better than at comparable universities?**
 Harvard's below-market HUH rents and the range of properties available through university housing are competitive with graduate housing at other leading US universities. However, the Cambridge rental market is among the most expensive in the country, which means even HUH rents can represent a significant proportion of a doctoral stipend. Comparable university housing at less expensive university cities (Chicago, New Haven, Philadelphia) may leave more residual income on a similar stipend, but the specific academic and professional opportunities of Harvard are not replicated elsewhere.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) offers extensive analytical reasoning practice useful for graduate students across many disciplines. The [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/) and the [Harvard Off-Campus Housing Guide](https://insightcrunch.com/2019/03/28/harvard-off-campus-housing-guide/) together cover the full housing landscape for every Harvard student category.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) offers extensive analytical reasoning practice useful for graduate students across many disciplines. The [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/) and the [Harvard Off-Campus Housing Guide](https://insightcrunch.com/2019/03/28/harvard-off-campus-housing-guide/) together cover the full housing landscape for every Harvard student category.
 
 ## The Graduate Housing Transition: First Year Realities
 
@@ -668,7 +668,7 @@ Harvard alumni maintain some access to university resources after graduation, th
 5. Be prepared to accept a HUH offer quickly - offers have short acceptance windows.
 6. Treat housing as a first-priority task alongside academic preparation, not an afterthought.
 
-The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) is a useful reasoning practice resource for graduate students across disciplines. The [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/) covers the full Harvard housing landscape for all student populations.
+The ReportMedic [UPSC PYQ Explorer](https://reportmedic.org/tools/upsc-pyq-explorer.html) is a useful reasoning practice resource for graduate students across disciplines. The [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/) covers the full Harvard housing landscape for all student populations.
 
 
 ## Harvard Graduate Housing and the Doctoral Journey

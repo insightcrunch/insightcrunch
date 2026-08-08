@@ -56,7 +56,7 @@ The administrative impact analysis addresses colonial bureaucratic state (replac
 
 The social impact review engages new social categories (colonial census creating rigid communal religious caste categories), urban transformation (colonial port cities Calcutta Bombay Madras), new intelligentsia formation (English-educated Indians mediating between colonial and indigenous worlds), women's condition (colonial intervention in sati widow remarriage alongside reinforcing patriarchal structures), and tribal disruption (colonial forest policy land acquisition displacement).
 
-For comprehensive Paper 2 PYQ practice supporting modern India and world history preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic History optional questions enabling domain-specific engagement.
+For comprehensive Paper 2 PYQ practice supporting modern India and world history preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic History optional questions enabling domain-specific engagement.
 
 {% include tweet.html id="1878712145371910412" %}
 

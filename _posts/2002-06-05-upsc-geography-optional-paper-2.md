@@ -78,7 +78,7 @@ The Losch demand cone model extends location theory by incorporating market area
 
 The Perroux Growth Pole Theory receives analysis covering propulsive industry concept concentrated growth hypothesis and diffusion mechanism. The Myrdal Cumulative Causation Model receives analysis covering backwash effects (negative impacts on peripheral regions) and spread effects (positive impacts diffusing outward) with cumulative divergence tendency. The Hirschman Unbalanced Growth Theory receives analysis covering forward and backward linkage effects. The Friedmann Core-Periphery Model receives analysis covering four-stage development from pre-industrial to post-industrial spatial organisation. The comparative analysis across models reveals complementary insights into regional development dynamics.
 
-For comprehensive Paper 2 PYQ practice supporting model and Indian geography preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Geography optional questions enabling Paper 2-specific practice.
+For comprehensive Paper 2 PYQ practice supporting model and Indian geography preparation, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Geography optional questions enabling Paper 2-specific practice.
 
 {% include tweet.html id="1780167050054275116" %}
 

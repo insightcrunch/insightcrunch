@@ -80,7 +80,7 @@ The thesis-antithesis-synthesis can structure the entire essay (introduction as 
 
 The application to specific topic illustrates the approach. Topic: "Is morality a luxury we cannot afford?" Thesis: Morality is not luxury but foundation because societies that abandon moral frameworks consistently produce worse outcomes than societies that maintain them. Antithesis: Genuine situations exist where moral idealism conflicts with practical necessity (wartime decisions crisis resource allocation development trade-offs) creating legitimate tension. Synthesis: Morality is non-negotiable foundation but its application requires practical wisdom that navigates genuine tensions between ideal and practical without abandoning moral commitment or ignoring practical constraints.
 
-For comprehensive engagement with UPSC essay topics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains essay topics across multiple years enabling systematic engagement with UPSC's evolving essay topic patterns. The analysis of PYQ essay topics reveals consistent philosophical topic patterns informing targeted preparation.
+For comprehensive engagement with UPSC essay topics, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains essay topics across multiple years enabling systematic engagement with UPSC's evolving essay topic patterns. The analysis of PYQ essay topics reveals consistent philosophical topic patterns informing targeted preparation.
 
 {% include tweet.html id="1634938063976812546" %}
 

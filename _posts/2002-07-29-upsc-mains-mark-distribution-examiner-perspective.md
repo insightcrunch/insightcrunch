@@ -110,7 +110,7 @@ The structural calibration comprises visible paragraph structure with clear para
 
 The point separator calibration involves using visible markers (numbered points where appropriate clear topic sentences explicit transitions) that demonstrate analytical organization. The visible analytical structure supports quick content assessment.
 
-For comprehensive examiner-perspective practice through analyzing PYQ answer evaluation patterns, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-previous-year-question-papers.html) provides authentic Mains questions enabling methodical analysis of question-evaluator alignment patterns supporting examiner-aware answer writing development.
+For comprehensive examiner-perspective practice through analyzing PYQ answer evaluation patterns, the [free UPSC previous year questions on ReportMedic](https://reportmedic.org/tools/upsc-pyq-explorer.html) provides authentic Mains questions enabling methodical analysis of question-evaluator alignment patterns supporting examiner-aware answer writing development.
 
 {% include tweet.html id="1634938063976812546" %}
 
