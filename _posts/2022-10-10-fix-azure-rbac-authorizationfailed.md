@@ -9,7 +9,7 @@ excerpt: "Fix Azure RBAC AuthorizationFailed errors by reading the exact action 
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "alex-cunningham"
-last_updated: 2022-10-10
+last_updated: 2026-08-09
 lang: en
 ---
 An AuthorizationFailed response from Azure is one of the most misread errors on the platform, because the obvious reaction is the wrong one. The message looks like a wall, so people reach for the biggest key they have, assign the Owner role, and move on. Sometimes that papers over the symptom. Often it does nothing, because the failing call was a data-plane operation that no management role grants, or because a deny assignment outranks every role, or because the assignment simply has not propagated yet. The AuthorizationFailed error is not a vague "you lack permission" signal. It is a precise statement that names the exact action the caller tried and the exact scope it tried it on, and the fix is almost always the smallest role that grants that one action at that one scope. This article treats the error the way it deserves to be treated: as a diagnostic readout, not a wall.

@@ -9,7 +9,7 @@ excerpt: "Dryden said Shakespeare killed Mercutio to stop Mercutio from killing 
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2022-09-09
+last_updated: 2026-08-09
 lang: en
 ---
 A poet who had been dead for nearly sixty years left behind a single sentence about a single character, and that sentence has shaped how generations read the death scene at the center of the Verona tragedy. The poet was John Dryden, writing in 1672, and the sentence reports something Shakespeare supposedly said about the swordsman, jester, and dreamer who dies halfway through the third act. According to Dryden, Shakespeare confessed that he was forced to kill the character early because, if he had not, the character would have killed him. The remark is witty, memorable, and almost certainly the most quoted thing ever written about Mercutio. It is also a claim with a hidden argument inside it, and that argument is worth dragging into the light.

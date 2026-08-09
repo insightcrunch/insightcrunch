@@ -9,7 +9,7 @@ excerpt: "Libyan warrior chiefs became pharaohs of Egypt, founding the Twenty-se
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2006-04-01
+last_updated: 2026-08-09
 lang: en
 ---
 For more than two centuries, the men who ruled Egypt carried a title no Egyptian king had ever used. Alongside the traditional royal names and the cartouches and the epithets borrowed from the great pharaohs of the past, they styled themselves Great Chief of the Ma, chief of a Libyan tribal grouping their ancestors had belonged to. They built at Karnak, campaigned into the Levant, buried their dead in Egyptian style, and wrote in hieroglyphs. And they never gave up the chiefly title, because that was where their armed men came from and armed men were what kept them on the throne.

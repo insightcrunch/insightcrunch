@@ -9,7 +9,7 @@ excerpt: "AKS workload identity lets pods get Entra tokens without secrets. Set 
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 62
 author: "ryan-walsh"
-last_updated: 2023-05-29
+last_updated: 2026-08-09
 lang: en
 ---
 A pod running in Azure Kubernetes Service needs to read a secret from Key Vault, write a blob to Storage, or call a database, and it needs to prove who it is to do any of that. For years the answer involved a connection string stuffed into an environment variable, a client secret baked into a Kubernetes Secret object, or the brittle and now deprecated AAD Pod Identity that intercepted the instance metadata endpoint. AKS workload identity replaces all of that with a federation model: a Kubernetes service account is federated to a Microsoft Entra identity through the cluster OIDC issuer, and a pod that uses that service account receives short-lived Entra tokens with no stored credential anywhere. Configure it correctly and your workloads authenticate to Azure resources the same way a managed identity on a virtual machine does, except the trust flows through Kubernetes rather than through the host. Configure it wrong and the symptom is almost always the same: the pod starts, the SDK tries to acquire a token, and the call fails with an authorization or federation error that sends engineers chasing code bugs that do not exist.

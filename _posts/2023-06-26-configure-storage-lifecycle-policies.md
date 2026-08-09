@@ -9,7 +9,7 @@ excerpt: "Storage lifecycle management lets you tier and auto-delete blobs by ag
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 61
 author: "marcus-hall"
-last_updated: 2023-06-26
+last_updated: 2026-08-09
 lang: en
 ---
 A storage account that grows without a plan turns into a slow, expensive liability, and the fix is rarely a one-time cleanup. The durable fix is storage lifecycle management: a set of rules that tier and delete blobs by age automatically, so the bill falls on its own and stays down without anyone running a manual purge every quarter. Configure it well and an account quiets itself, moving cold data to cheaper tiers and expiring what nobody reads anymore. Configure it badly and the same feature deletes a compliance archive at three in the morning, or buries a hot dataset in archive where every read now costs hours of waiting and a rehydration fee.

@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 4: Jordan's flashback delivers the Louisville rom
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 48
 author: "diana-patel"
-last_updated: 2022-09-12
+last_updated: 2026-08-09
 lang: en
 ---
 The single most important fact about the love story at the center of *The Great Gatsby* is that you never get it from the lovers. You get it from a professional golfer over tea. **Great Gatsby Chapter 4: Jordan's flashback** is the passage where the novel finally hands the reader the romance it has been circling for three chapters, and it does so through the least romantic, most calculating witness available. Jordan Baker, sitting with Nick at the Plaza on a hot afternoon, recounts what she saw in Louisville in 1917, what she half guessed, and what she has reconstructed in the years since. The reader who treats this scene as straight backstory misses the more unsettling design: the foundational love affair of the book arrives at one remove, filtered through a narrator who admits she is filling gaps, and Nick passes it to us at a further remove still. The romance is real, but its delivery is engineered to feel partial, secondhand, and faintly unreliable.

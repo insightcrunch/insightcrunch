@@ -9,7 +9,7 @@ excerpt: "Azure SQL failover groups survive a regional outage only when apps con
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 61
 author: "marcus-hall"
-last_updated: 2023-06-12
+last_updated: 2026-08-09
 lang: en
 ---
 A correctly configured Azure SQL failover group is the difference between a regional outage that your application rides out in seconds and one that pages your on-call engineer at three in the morning with a database that has vanished from the only endpoint the code knows about. The feature itself is not hard to switch on. The portal walks you through it, the CLI does it in two commands, and the result looks finished the moment the secondary finishes seeding. The trap is that the visible part of the setup, the part the wizard finishes for you, is the part that almost never goes wrong. What goes wrong is the connection string, the promotion policy that nobody tuned, and the drill that nobody ran. This guide treats the group not as a checkbox but as a contract between your database tier and your application tier, and it spends most of its length on the half of that contract the documentation tends to skip.

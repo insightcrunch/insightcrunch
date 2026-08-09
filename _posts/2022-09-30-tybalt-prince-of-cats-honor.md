@@ -9,7 +9,7 @@ excerpt: "Tybalt lives by an honor code that reads every slight as a duel, and M
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 65
 author: "rachel-foster"
-last_updated: 2022-09-30
+last_updated: 2026-08-09
 lang: en
 ---
 "What, drawn, and talk of peace? I hate the word, / As I hate hell, all Montagues, and thee." Tybalt arrives in the play already at the boil. Benvolio has just pleaded for calm in the opening street fight, sword raised only to beat down the servants' weapons, and the Capulet kinsman answers the offer of peace as if it were itself a blow. The first thing the audience learns about this young man is that he treats the very word for the absence of violence as an insult that requires a drawn rapier. The line is at 1.1.66 to 67 in the Arden third series edited by Rene Weis, and it is the most economical character sketch in the tragedy. Eleven syllables establish a man who cannot tell the difference between a courtesy and a challenge.

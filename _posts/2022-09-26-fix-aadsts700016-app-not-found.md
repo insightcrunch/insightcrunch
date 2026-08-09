@@ -9,7 +9,7 @@ excerpt: "AADSTS700016 means Entra cannot find your app by its client ID. Diagno
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
 author: "ryan-walsh"
-last_updated: 2022-09-26
+last_updated: 2026-08-09
 lang: en
 ---
 AADSTS700016 is the error Microsoft Entra ID returns when the application identified by the client ID in your sign-in or token request was not found in the directory the request was sent to. The full message usually reads something close to "Application with identifier 'GUID' was not found in the directory 'tenant'," and it stops authentication before any password, secret, or consent ever comes into play. The error is not about a wrong password, a missing permission, or an expired certificate. It is about identity resolution: Entra looked for an application registered under that client ID in the tenant your request named, and the lookup came back empty.

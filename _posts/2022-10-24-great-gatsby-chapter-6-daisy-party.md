@@ -9,7 +9,7 @@ excerpt: "Daisy at the party in Chapter 6 is the night Gatsby's dream first fail
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2022-10-24
+last_updated: 2026-08-09
 lang: en
 ---
 Gatsby built the whole apparatus for one spectator. The orchestra, the imported fruit, the cars stacked five deep in the drive, the strangers who arrived uninvited and left without thanking him: every Saturday of that summer was a signal flare fired across the bay toward a single house, in the hope that one woman would see the light and come. In Chapter 6 she finally comes. **Daisy at the party** is the moment the entire strategy is tested, and it is the moment the strategy fails. The night Gatsby designed to win Daisy Buchanan is the first thing about him that repels her, and a careful reader watches his dream begin to fail not because anyone attacks it, but because it finally meets the person it was built for.

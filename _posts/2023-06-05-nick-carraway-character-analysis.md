@@ -9,7 +9,7 @@ excerpt: "Nick Carraway character analysis: the involved bystander who claims to
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 47
 author: "megan-clark"
-last_updated: 2023-06-05
+last_updated: 2026-08-09
 lang: en
 ---
 Every Nick Carraway character analysis has to settle one question before it can say anything else: is Nick a transparent window onto the lives of richer, louder people, or is he a full character with a stake in what he records? The reader meets him as a voice rather than a body, a careful Midwesterner who promises fairness and delivers a confession. He spends the summer of 1922 telling other people's secrets, yet the secret the book keeps circling back to is his own: that the man who insists he merely watched was the one who unlocked the door, drove the car of the plot forward, and judged everyone in it before he left for home.

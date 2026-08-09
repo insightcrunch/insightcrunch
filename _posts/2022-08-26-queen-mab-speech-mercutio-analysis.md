@@ -9,7 +9,7 @@ excerpt: "Mercutio's Queen Mab speech opens as a charming fairy fancy and spiral
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2022-08-26
+last_updated: 2026-08-09
 lang: en
 ---
 A man begins to describe a fairy no bigger than the stone in an alderman's ring, and forty lines later he is talking about horses with matted manes, women pressed in their sleep, and dreams that mean nothing at all. The passage that runs through the middle of Act 1 Scene 4 is the longest single stretch of poetry given to anyone in the play before the lovers meet, and the strangest. It belongs to a character who is not in love, not a Capulet, not a Montague, and not, by the logic of the romance plot, necessary at all. The standard account treats the Queen Mab speech as a charming digression, a bit of fairy whimsy to be cut for time or staged as a party piece. That account misses the design. The lines do not wander. They descend, by deliberate degrees, from delight into filth and from filth into a flat denial that any of it carries weight, and the descent is the point.

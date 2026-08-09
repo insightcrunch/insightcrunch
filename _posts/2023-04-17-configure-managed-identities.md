@@ -9,7 +9,7 @@ excerpt: "Set up managed identities in Azure the right way: choose the type, ass
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 63
 author: "benjamin-scott"
-last_updated: 2023-04-17
+last_updated: 2026-08-09
 lang: en
 ---
 A managed identity that exists but cannot read a single secret is the most common outcome of the first attempt, and it looks like success right up until the application throws a 403. The portal shows the toggle flipped to On, the principal has an object ID, and yet the call to Key Vault or Storage fails. This is the gap this guide closes. To set up managed identities the right way you complete two distinct actions, not one: you assign the credential to the resource, and then you grant that principal a specific role on the target it needs to reach. Skip the second action and the first looks done while nothing works. Get both right and your application authenticates to Azure without storing, rotating, or ever seeing a secret.

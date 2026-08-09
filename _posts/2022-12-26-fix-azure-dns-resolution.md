@@ -9,7 +9,7 @@ excerpt: "Azure DNS resolution failures almost always live in one broken hop: th
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
 author: "marcus-hall"
-last_updated: 2022-12-26
+last_updated: 2026-08-09
 lang: en
 ---
 An Azure DNS resolution failure is rarely the dramatic outage it feels like at three in the morning. A name that worked yesterday returns nothing, an application throws a host-not-found exception, and a deployment that depended on a private endpoint suddenly cannot reach storage. The instinct is to treat the whole thing as broken and start guessing. That instinct is what turns a five minute fix into a two hour incident. Azure DNS resolution is not a single component you can declare healthy or unhealthy. It is a path, a short ordered chain of hops, and a query either traverses that chain cleanly or stalls at one specific hop. The skill that separates a calm engineer from a frantic one is the ability to find the hop that broke and repair only that, rather than rebuilding the whole chain and hoping the symptom disappears.

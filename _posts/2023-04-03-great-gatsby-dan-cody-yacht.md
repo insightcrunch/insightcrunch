@@ -9,7 +9,7 @@ excerpt: "The Dan Cody yacht passage in Chapter 6 is where James Gatz becomes Ga
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 47
 author: "claire-bennett"
-last_updated: 2023-04-03
+last_updated: 2026-08-09
 lang: en
 ---
 The Dan Cody yacht passage in Chapter 6 is the single most important backstory in The Great Gatsby, because it is the place where a poor North Dakota farm boy named James Gatz stops existing and Jay Gatsby walks onto the deck of a millionaire's boat fully formed. Readers tend to skim it as a flashback, a few paragraphs of origin trivia tucked between the rumors of Chapter 5 and the confrontation of Chapter 7. That habit costs them the key to the whole novel. This passage is not a detour from the story of Gatsby's ambition. It is the engine room of it. Everything Gatsby later builds at West Egg, the parties, the manner, the imported shirts, the conviction that money can buy back a lost summer, has its prototype on board the Tuolomee.

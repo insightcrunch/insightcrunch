@@ -9,7 +9,7 @@ excerpt: "Set up AKS ingress with NGINX and TLS: install the controller, bind th
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 63
 author: "marcus-hall"
-last_updated: 2023-05-22
+last_updated: 2026-08-09
 lang: en
 ---
 A working AKS ingress setup is the difference between a cluster that quietly serves production traffic over HTTPS and one that returns a default backend page, a certificate warning, or nothing at all. The phrase AKS ingress sounds like a single switch you flip, and that framing is exactly why so many setups break. Ingress on Azure Kubernetes Service is not one object. It is a chain of three independent pieces that must agree with each other: a controller that actually moves the packets, a class that tells that controller which rules it owns, and a certificate issuer that supplies the keys for TLS. When all three line up, external clients reach your services by hostname over an encrypted connection and the certificate renews itself without a human touching it. When any single link is missing or mismatched, the symptom you see rarely points at the link that failed, which is what turns a thirty-minute task into a two-day investigation.

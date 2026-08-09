@@ -9,7 +9,7 @@ excerpt: "Gatsby's backstory in Chapter 4 hands Nick a medal and an Oxford photo
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 47
 author: "elena-wright"
-last_updated: 2022-09-05
+last_updated: 2026-08-09
 lang: en
 ---
 A man you barely know picks you up for lunch, drives you through a wasteland and across a bridge, and somewhere on that ride decides to hand you his entire life. That is the strange transaction at the heart of Gatsby's backstory in Chapter 4 of The Great Gatsby, the moment when Jay Gatsby raises his right hand, swears to tell the truth, and recites a history of wealthy parents, an Oxford education, a war fought as a decorated major, and years spent wandering Europe like a prince. He even produces physical evidence: a medal from Montenegro and a photograph from Trinity Quad. The scene asks the reader to do something a plot summary never does, which is to weigh a confession against its own proof and decide whether the proof helps or hurts the man offering it.

@@ -3,7 +3,7 @@ layout: post
 title: "Great Gatsby Chapter 7: The Plaza Hotel Showdown"
 page_title: "Plaza Hotel Showdown in The Great Gatsby Chapter 7: A Close Reading of the Novel's True Climax"
 date: 2022-11-07
-last_updated: 2022-11-07
+last_updated: 2026-08-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter 7", "Plaza Hotel Scene", "Close Reading", "Climax", "Daisy Buchanan"]
 excerpt: "The Plaza Hotel showdown is the real climax of The Great Gatsby Chapter 7. A close reading of how Daisy's honest qualifier, not Tom's force, breaks Gatsby."

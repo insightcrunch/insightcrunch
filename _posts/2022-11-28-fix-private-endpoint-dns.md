@@ -9,7 +9,7 @@ excerpt: "A private endpoint resolving to a public IP means one link in its DNS 
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 62
 author: "marcus-hall"
-last_updated: 2022-11-28
+last_updated: 2026-08-09
 lang: en
 ---
 You created a private endpoint for your storage account, your SQL server, or your Key Vault, you disabled public network access, and now your application cannot reach the service at all, or worse, it reaches it over the internet path you thought you had closed. You run a name lookup from inside the virtual network and the answer comes back as a public IP address in the service's shared range rather than the endpoint IP you provisioned. This is the single most common failure with Private Link, and it is almost never a problem with the private endpoint itself. A private endpoint not resolving is a DNS problem: the network interface and the endpoint IP were created correctly, but nothing is telling clients to use that private IP instead of the service's public address. The endpoint is a parked car with no road sign pointing to it.

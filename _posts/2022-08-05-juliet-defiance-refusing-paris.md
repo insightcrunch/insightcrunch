@@ -9,7 +9,7 @@ excerpt: "Juliet's refusal to marry Paris triggers her father's fury and her mot
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2022-08-05
+last_updated: 2026-08-09
 lang: en
 ---
 "Hang thee, young baggage, disobedient wretch!" A father says this to his thirteen-year-old daughter, in his own house, in front of her mother and her nurse, because she has declined to marry the man he has chosen. The line lands midway through Act 3, Scene 5, and it is one of the ugliest moments in the play. It is also one of the most revealing, because the daughter who provokes it does not flinch into compliance. She kneels, she petitions, she is refused, and then she falls silent, and the silence is not surrender. It is the moment a girl who has so far hidden her resolve inside private soliloquy turns that resolve outward and lets it harden into open resistance against everyone with authority over her.

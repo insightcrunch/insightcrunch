@@ -9,7 +9,7 @@ excerpt: "An ExpressRoute circuit down is rarely one failure. Localize it to the
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2023-01-02
+last_updated: 2026-08-09
 lang: en
 ---
 You open the portal expecting a healthy private path into Azure, and instead the graphs go flat. Applications that depend on on-premises systems begin timing out, a database replication job stalls partway through, and someone on the network team announces that the ExpressRoute circuit is down. That sentence is carrying far more weight than it sounds, because an ExpressRoute circuit down can describe at least six distinct situations, and each one lives at a different layer of the stack and belongs to a different owner. Some of those layers are yours to fix in the next ten minutes from a terminal. One of them is not yours at all, and the only correct action is to open a ticket with the carrier who runs the physical segment. The fastest engineers in an incident like this are not the ones who know the most commands. They are the ones who localize the failure to a single layer first, because the layer tells them whether to reach for the keyboard or the phone.

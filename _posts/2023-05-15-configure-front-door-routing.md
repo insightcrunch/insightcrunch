@@ -9,7 +9,7 @@ excerpt: "Configure Azure Front Door routing rules end to end: origin groups, he
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 62
 author: "nathan-cole"
-last_updated: 2023-05-15
+last_updated: 2026-08-09
 lang: en
 ---
 Correct Front Door routing buys you one thing that nothing else in your stack can: a single global entry point that sends each request to a healthy backend, over the protocol you intended, with the caching and security behavior you chose. When the configuration is right, a user in Singapore and a user in Dublin both land on the closest edge, the edge forwards to an upstream that is actually serving traffic, and the response comes back transformed exactly as the route specifies. When the configuration is wrong, the same setup returns a 502 to every visitor while the portal shows a green checkmark and a route that looks perfectly valid. The gap between those two outcomes is rarely the route itself. It is almost always the origin contract sitting behind the route, and that contract is the part most setup guides skip.

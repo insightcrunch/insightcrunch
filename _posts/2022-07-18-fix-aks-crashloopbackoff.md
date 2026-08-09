@@ -9,7 +9,7 @@ excerpt: "Fix AKS CrashLoopBackOff by reading the previous container logs and th
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 59
 author: "abigail-cooper"
-last_updated: 2022-07-18
+last_updated: 2026-08-09
 lang: en
 ---
 A pod on your Azure Kubernetes Service cluster shows the status CrashLoopBackOff, and every time you look it has restarted again, with the restart count climbing into the dozens. The status is alarming because it sounds like a single fault, but it is not. CrashLoopBackOff is AKS telling you that a container inside the pod started, ran for a moment, exited, and that Kubernetes has restarted it, found it exit again, and is now waiting a little longer before each retry. The status is a symptom shared by at least six unrelated faults, and the instinct that wastes the most engineer-hours is to react to the symptom by deleting the pod, scaling the deployment, or rolling the workload, none of which touches the reason the container keeps dying. This guide gives you the one habit that replaces all of that guesswork: read the crashed container's own output and the pod's last recorded state, let the exit code name the fault, and apply the fix that matches it.

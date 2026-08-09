@@ -9,7 +9,7 @@ excerpt: "NSG blocking traffic in Azure almost always traces to one rule. Read t
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "alex-cunningham"
-last_updated: 2022-11-21
+last_updated: 2026-08-09
 lang: en
 ---
 An NSG blocking traffic is one of the most common and most misdiagnosed connectivity failures in Azure, and the reason it feels mysterious is almost never that the platform is behaving strangely. A network security group is a deterministic packet filter. Given a flow, it evaluates an ordered set of rules and returns exactly one verdict, allow or deny, and it tells you which rule produced that verdict if you ask it the right way. When a connection that should work does not, the platform already knows why; the engineer simply has not yet read the decision. The afternoon you lose to a blocked port is the afternoon you spent guessing at rules instead of asking Azure which rule actually matched.

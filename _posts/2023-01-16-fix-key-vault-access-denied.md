@@ -9,7 +9,7 @@ excerpt: "Key Vault access denied or Forbidden usually means the wrong access mo
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "nathan-cole"
-last_updated: 2023-01-16
+last_updated: 2026-08-09
 lang: en
 ---
 A call to Azure Key Vault that returns Forbidden is one of the most disorienting failures in the platform, because everything around it looks correct. You can see the vault in the portal, you can see the secret listed, the application has an identity, and someone on the team swears they granted access last week. Yet the request comes back with a 403 and a message that the caller does not have permission to read the secret. The reason the failure feels contradictory is almost always the same: the permission you granted exists, but it exists in a place the vault is not looking. **Key Vault access denied** is rarely a case of no access being configured at all. It is a case of access being configured against the wrong authorization model, at the wrong scope, for the wrong identity, or behind a network boundary that rejects the caller before authorization is even evaluated.

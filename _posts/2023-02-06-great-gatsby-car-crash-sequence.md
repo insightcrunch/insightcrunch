@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby car crash sequence in Chapter 7, read step by step: w
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2023-02-06
+last_updated: 2026-08-09
 lang: en
 ---
 The car crash sequence in The Great Gatsby is the moment the novel stops threatening violence and delivers it. For six and a half chapters Fitzgerald has been stacking pressure, the affairs, the heat, the rivalry between old money and new, and in the back half of Chapter 7 all of it collapses into a single stretch of road outside Wilson's garage. Myrtle Wilson runs into the path of a yellow car, the car does not stop, and within a day two more people are dead because of it. Read carelessly, the scene looks like bad luck, a woman in the wrong place at the wrong moment. Read closely, it is something colder and more deliberate: a chain of choices, each one careless, each one made by someone who could have chosen otherwise, locking together until the outcome is no longer avoidable.

@@ -9,7 +9,7 @@ excerpt: "Key Vault references let App Service and Functions read secrets at run
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 63
 author: "william-knight"
-last_updated: 2023-04-24
+last_updated: 2026-08-09
 lang: en
 ---
 A Key Vault reference is the feature that lets an App Service or Functions app read a secret from Azure Key Vault at runtime without that secret ever appearing in the application's configuration, in source control, or in a deployment pipeline. You put a small reference string in an app setting, and at runtime the platform swaps that string for the live secret value before your code reads it. Done correctly, your connection strings and API keys live in one audited store, your application sees plain environment variables exactly as it always did, and a secret rotation never requires a redeploy. Done incorrectly, the pointer shows as unresolved, your application reads the literal reference string instead of the secret, and you spend an afternoon convinced you have a syntax typo when the real problem is that the application's principal was never granted access to the store.

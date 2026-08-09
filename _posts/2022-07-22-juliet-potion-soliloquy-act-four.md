@@ -9,7 +9,7 @@ excerpt: "Juliet's potion soliloquy turns a brave choice into raw terror, as she
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2022-07-22
+last_updated: 2026-08-09
 lang: en
 ---
 A girl of thirteen stands alone in her bedroom at night, holding a vial of something that will stop her heart for hours and counterfeit her death. She has dismissed her mother. She has sent away the woman who nursed her and raised her. She has a wedding she does not want set for the morning and a husband she has already married in secret who is now a banished killer in another city. And before she drinks, she talks. For roughly forty lines she runs through every catastrophe the drug might bring, naming each one, weighing it, picturing it in detail so vivid that the audience watches a brave young woman frighten herself half to madness, and then drink anyway.

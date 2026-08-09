@@ -9,7 +9,7 @@ excerpt: "Azure Functions bindings let a function read and write its sources dec
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
 author: "ian-fletcher"
-last_updated: 2023-06-05
+last_updated: 2026-08-09
 lang: en
 ---
 Correct configuration is the difference between a function that reads its queue and writes its table with no glue code, and a function that throws an obscure startup error because one app setting is misspelled. Azure Functions bindings are the declarative input and output model that lets a function connect to its sources without you writing a single line of SDK plumbing. When the configuration is right, a single attribute or a few lines of `function.json` wire a Service Bus queue to your function parameter and a Cosmos DB container to its return value. When the configuration is wrong, the function host fails to load the binding, the trigger never fires, or an output silently writes nowhere, and the error message points at the symptom rather than the cause.

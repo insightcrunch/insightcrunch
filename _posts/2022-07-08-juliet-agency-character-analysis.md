@@ -9,7 +9,7 @@ excerpt: "Juliet, not Romeo, proposes marriage, takes the potion, and chooses de
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 63
 author: "diana-patel"
-last_updated: 2022-07-08
+last_updated: 2026-08-09
 lang: en
 ---
 Watch who acts. At the Capulet ball a young man crosses a crowded hall to touch a stranger's hand, and the meeting that follows gets filed forever under his name first. Yet the moment the verse settles into the orchard at Act 2 Scene 2, it is the girl on the balcony, not the boy in the dark below, who names the obstacle, sets the terms, fixes the schedule, and tells him to send word by a messenger she will procure. The Capulet daughter does not wait to be courted into a decision. She makes the decision and assigns the man his task. From that point the action of the tragedy runs on choices she initiates: the secret betrothal, the management of the go-between, the refusal to be married off to a county's son, the swallowing of a drug whose dose she cannot verify, and the final stroke at the monument when she wakes alone and declines every safer option offered to her. Strip the cliche of passive girlhood away and a different figure stands at the center of the design, the youngest major character in the script and also its most decisive will.

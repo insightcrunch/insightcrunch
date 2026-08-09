@@ -9,7 +9,7 @@ excerpt: "Azure VM auto-shutdown saves money only when it deallocates in the rig
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "robert-quinn"
-last_updated: 2023-04-10
+last_updated: 2026-08-09
 lang: en
 ---
 A correctly configured Azure VM auto-shutdown schedule is one of the cheapest, highest-return settings in the entire platform, and a misconfigured one is a quiet disappointment that looks like savings and delivers none. The toggle sits in the portal under Operations, takes about ninety seconds to enable, and promises to power off your virtual machine every evening so you stop paying for compute you are not using. The trouble is that two of its most important behaviors are easy to get wrong without any error message to warn you. The schedule fires in a time zone you set separately and that defaults to coordinated universal time, so an engineer in Chicago who picks 19:00 and never touches the time zone gets a machine that powers off at 13:00 local. And the saving only materializes if the machine deallocates, which is exactly what this feature does, but which is also the precise thing that a stop issued from inside the guest operating system does not do. Get either of these wrong and you have a schedule that runs faithfully every day while saving you nothing or interrupting your work at lunchtime.

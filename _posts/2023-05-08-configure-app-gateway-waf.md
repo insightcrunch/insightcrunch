@@ -9,7 +9,7 @@ excerpt: "Configure Application Gateway WAF the safe way: start in detection mod
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 62
 author: "ryan-walsh"
-last_updated: 2023-05-08
+last_updated: 2026-08-09
 lang: en
 ---
 A web application firewall that blocks your own customers is worse than no firewall at all, because it fails loudly and unpredictably while still leaving you convinced you are protected. The fastest way to reach that state is to enable an Application Gateway WAF in prevention mode on day one, point production traffic at it, and wait for the support tickets. The slower and far better way is the one this guide walks through end to end: stand the policy up in detection mode, watch what it would have blocked, carve out the legitimate traffic that trips the managed rules, layer in the custom rules your app actually needs, and only then flip the switch to prevention. Get that sequence right and the firewall protects the application without anyone noticing it exists. Get it wrong and you spend a week explaining why uploads, API calls, and search queries started failing for no reason a developer can see in the application logs.

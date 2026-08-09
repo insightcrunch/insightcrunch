@@ -9,7 +9,7 @@ excerpt: "An unauthorized ACR pull is a missing attach or AcrPull role on the pu
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 61
 author: "gregory-marsh"
-last_updated: 2023-02-06
+last_updated: 2026-08-09
 lang: en
 ---
 A deployment that worked yesterday stops working today, and the only signal you get is a terse line in the event stream saying the image pull was unauthorized. The node tried to fetch a container image from your Azure Container Registry, the registry refused it with a 401, and now your pod sits in a back-off loop while the rest of the rollout waits. An unauthorized pull from ACR is one of the most common reasons a working container platform suddenly refuses to start a workload, and it is also one of the most misdiagnosed, because the fastest looking fix is almost never the right one. The pull is unauthorized because the thing doing the pulling cannot prove it is allowed to read the registry, and the durable repair is to give that identity the permission it needs, not to weaken the registry until anyone can read it.

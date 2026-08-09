@@ -9,7 +9,7 @@ excerpt: "The Buchanan dinner in Great Gatsby Chapter 1 exposes Tom's cruelty, D
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2022-07-11
+last_updated: 2026-08-09
 lang: en
 ---
 The Buchanan dinner is the first time The Great Gatsby lets a reader sit at a table with the people the rest of the novel will revolve around, and Fitzgerald uses one meal to do what a lesser writer would spread across fifty pages. Nick Carraway drives across the bay to East Egg, eats with his cousin Daisy, her husband Tom, and a golfer named Jordan Baker, and by the time the plates are cleared he has watched a marriage perform its own happiness and then crack open in front of him. The scene looks like polite social comedy. It is a controlled exposure of cruelty, boredom, fear, and rot, staged so quietly that a careless reader walks away thinking nothing much happened. Reading the Buchanan dinner closely is the difference between knowing that Tom and Daisy are unhappy and being able to point to the exact lines where the novel proves it.

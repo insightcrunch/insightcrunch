@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 8 retells Gatsby and Daisy's 1917 Louisville past
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 49
 author: "diana-patel"
-last_updated: 2022-12-05
+last_updated: 2026-08-09
 lang: en
 ---
 The Great Gatsby Chapter 8 does something the first seven chapters carefully withhold: it lets Gatsby speak, at length and without performance, about the Louisville past that started everything. On the last night of his life, with the confrontation at the Plaza already lost and Myrtle already dead, Gatsby sits with Nick in the dim house and tells the real story of how he met and loved Daisy Fay in 1917. This article reads Gatsby and Daisy's past as Chapter 8 finally recounts it, the version told now without the legend, so that the emotional history beneath the myth becomes visible. The recollection is the chapter's quiet center, and it reframes everything the reader thought the novel was building toward.

@@ -9,7 +9,7 @@ excerpt: "Fix a self-hosted integration runtime offline by checking the node ser
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2023-03-13
+last_updated: 2026-08-09
 lang: en
 ---
 A pipeline that ran cleanly yesterday refuses to start today, and the run history shows a single blunt reason: the activity could not find an available node because the self-hosted integration runtime offline status has taken every node out of rotation. The monitoring blade paints the runtime red, the word "Unavailable" sits where "Running" used to be, and the copy activity that pulls from an on-premises SQL Server now fails before it moves a single row. This is one of the most common operational stalls in Azure data integration, and it is also one of the most misdiagnosed. The reflex, under deadline pressure, is to delete the runtime and build a new one. That reflex is almost always wrong, and acting on it can turn a ten minute restart into a half day rebuild that touches every linked service and every pipeline binding.

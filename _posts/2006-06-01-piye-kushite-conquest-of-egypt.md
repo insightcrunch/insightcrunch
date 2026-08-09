@@ -9,7 +9,7 @@ excerpt: "King Piye marched north from Nubia around 728 BCE and took a divided E
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2006-06-01
+last_updated: 2026-08-09
 lang: en
 ---
 King Piye is the most thoroughly self-documented conqueror in Egyptian history and one of the least understood. Around 728 BCE, a ruler of the Kushite kingdom of Napata, well south of Egypt's traditional border, marched north with an army, broke a Delta coalition, took Memphis by storm, received the submission of every significant ruler in the Nile valley, and then went home. He left behind an inscription of extraordinary length and detail on a granite stela set up in the temple of Amun at Gebel Barkal, and that inscription is why he is a problem rather than merely a name. Most ancient conquests are known from a handful of formulaic lines. Piye's is known from a text that names cities, quotes speeches, records tactical arguments among his own officers, and dwells at length on his personal reactions, including his fury at discovering that a defeated enemy had allowed his horses to go hungry.

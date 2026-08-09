@@ -9,7 +9,7 @@ excerpt: "The Third Intermediate Period is routinely labeled a dark age. The evi
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 63
 author: "chloe-martin"
-last_updated: 2006-08-01
+last_updated: 2026-08-09
 lang: en
 ---
 Was the Third Intermediate Period a dark age? The question is asked constantly, answered reflexively, and rarely examined, which makes it an unusually good test of how historical labels get applied and what they cost. The reflexive answer is yes: Egypt between roughly 1069 and 664 BCE had no single ruler for most of four centuries, was governed by competing dynasties of Libyan descent and then by kings from Nubia, built few great monuments, lost its empire and its foreign influence, and left behind a chronology so tangled that Egyptologists still cannot agree on the sequence of its rulers. On the standard criteria for a dark age, political fragmentation, foreign rule, monumental decline, and documentary obscurity, it appears to score on all four.

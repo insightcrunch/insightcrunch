@@ -9,7 +9,7 @@ excerpt: "Jay Gatsby: romantic idealist or criminal? A defended verdict weighing
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 47
 author: "megan-clark"
-last_updated: 2023-05-22
+last_updated: 2026-08-09
 lang: en
 ---
 Ask the question plainly and most readers flinch toward one answer or the other. Jay Gatsby: romantic idealist or criminal? Pick the romance and you have to look away from the drugstore alcohol, the man who fixed a World Series, the lies stacked under the name. Pick the crime and you have to discount the single-minded devotion, the gift for hope that Nick Carraway calls the rarest thing he ever met, the wonder that survives every sordid fact attached to it. The novel will not let you keep both labels comfortably, and it will not let you drop either. That refusal is not a flaw in the book or a gap in your reading. It is the engineering of the character.

@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 2 summary and analysis: the descent into the vall
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 48
 author: "rachel-foster"
-last_updated: 2022-07-18
+last_updated: 2026-08-09
 lang: en
 ---
 # Great Gatsby Chapter 2: Summary and Analysis

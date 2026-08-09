@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 8 analysis: Gatsby's last vigil, the real Louisvi
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2022-11-28
+last_updated: 2026-08-09
 lang: en
 ---
 Great Gatsby Chapter 8 is the chapter most readers skim on the way to the funeral, and that is exactly the mistake the chapter is built to expose. The loud work of the novel is already finished. The confrontation that decides everything happened the afternoon before, in a hot suite at the Plaza, and Myrtle Wilson is already dead on the road. What remains is a man waiting by a telephone that will not ring, a story told too late to a listener who cannot use it, and a death that arrives almost as an afterthought. The chapter reads as a long exhale, and the reader who treats it as filler between the climax and the burial misses the most important interpretive fact the novel offers: Fitzgerald kills Gatsby only after the dream that animated him is already gone, so the murder is not the tragedy but its echo.

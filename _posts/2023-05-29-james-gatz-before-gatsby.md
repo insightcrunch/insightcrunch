@@ -9,7 +9,7 @@ excerpt: "James Gatz, who Gatsby was before, is the poor North Dakota farm boy w
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2023-05-29
+last_updated: 2026-08-09
 lang: en
 ---
 Strip away the mansion, the hydroplane, the pink suit, and the swirl of rumors, and a different person stands at the center of Fitzgerald's novel: a poor farm boy from the northern plains who decided, at seventeen, to stop being himself. James Gatz, who Gatsby was before, is the most consequential character most readers forget the instant they close the book. We remember the green light, the parties, the line about boats against the current. We rarely remember that the man chasing all of it began as somebody else entirely, somebody the novel buries so thoroughly that his name surfaces only once at full length, deep in the sixth chapter, and then almost vanishes again.

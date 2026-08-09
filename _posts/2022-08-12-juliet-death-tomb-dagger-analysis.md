@@ -9,7 +9,7 @@ excerpt: "Juliet wakes to find Romeo dead and chooses the dagger over the Friar'
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 63
 author: "rachel-foster"
-last_updated: 2022-08-12
+last_updated: 2026-08-09
 lang: en
 ---
 Two words carry the whole weight of the ending: "happy dagger." A girl of thirteen, awake for less than fifty lines in a vault stacked with the recent dead, looks at a blade and calls it happy. The adjective is wrong in every ordinary sense and exactly right in the strange logic the scene has built. It is the last thing the Capulet daughter chooses to say about an object before she drives it home, and the choice of that word, rather than a cry or a curse or a prayer, tells a reader almost everything about how Shakespeare wants this death to land. The standard account remembers the kiss and the poison and the tomb, and it folds the bride's end into a single soft image of lovers reunited in death. That image misses the violence of the verb and the clarity of the mind behind it. The girl does not faint into death. She reasons her way to it, rejects an offered escape, tests one method, finds it failed, and reaches for a second with a speed that leaves no room for doubt. This article reads the closing movement of Act 5 Scene 1 line by line, weighs the long tradition that has tried to soften it, and argues that the youngest figure in the tragedy is given its most decisive single act, and that the play is built so that the reader cannot mistake the decisiveness for accident.

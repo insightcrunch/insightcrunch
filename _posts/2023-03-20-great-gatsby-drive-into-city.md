@@ -9,7 +9,7 @@ excerpt: "The drive into the city in Chapter 7 looks like travel, but it quietly
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2023-03-20
+last_updated: 2026-08-09
 lang: en
 ---
 The drive into the city in Chapter 7 of The Great Gatsby is the passage most readers skim on the way to something louder. It sits between the strained lunch at the Buchanan house and the explosion at the Plaza Hotel, and because nothing seems to detonate during the journey itself, it gets filed under transition. That filing is the mistake. Read closely, the trip from East Egg to Manhattan is where Fitzgerald arranges every element of the disaster to come: it puts the wrong driver in the yellow car, seals Daisy and Gatsby together in a single coupé, and rattles Tom Buchanan at a gas pump until he realizes he may be losing two women at once. The day does not stumble into tragedy. The drive sets the table for it.

@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 6 summary and analysis: the James Gatz reveal, th
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2022-10-10
+last_updated: 2026-08-09
 lang: en
 ---
 Most readers race through Great Gatsby Chapter 6 because, after the reunion fireworks of Chapter 5, it looks like a lull: a little backstory, an awkward visit, a party nobody enjoys. That impression is exactly backward. Chapter 6 is the hinge of the entire novel, the chapter where Fitzgerald finally tells us who Jay Gatsby is, lets Gatsby say his governing belief out loud, and then arranges the first scene in which the dream meets resistance and loses. If Chapter 5 is the high point of Gatsby's hope, Chapter 6 is where the book quietly begins to take that hope apart.

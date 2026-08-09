@@ -9,7 +9,7 @@ excerpt: "The two party scenes compared in Gatsby show how a single spectacle in
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2023-01-23
+last_updated: 2026-08-09
 lang: en
 ---
 Fitzgerald stages two enormous nights at Gatsby's mansion, and with the two party scenes compared side by side, the novel quietly performs one of its sharpest tricks: it shows you the same glittering machine twice and lets it mean opposite things. The first gathering, in Chapter 3, arrives as wonder. The second, in Chapter 6, arrives as something curdled and sad. Nothing about the orchestras, the imported oranges, the floating cocktails, or the host who hovers at the edge of his own celebration has fundamentally changed. What has changed is who is watching, and that single difference is the whole point. The two party scenes are not a repetition. They are a measurement of how far Gatsby's dream has traveled between hope and its failure.

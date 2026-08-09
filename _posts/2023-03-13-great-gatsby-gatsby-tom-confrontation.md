@@ -9,7 +9,7 @@ excerpt: "The Gatsby-Tom confrontation in Chapter 7 reads old money against new.
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 48
 author: "diana-patel"
-last_updated: 2023-03-13
+last_updated: 2026-08-09
 lang: en
 ---
 Two rich men stand in a hot hotel suite arguing over a woman, and the novel decides who America protects. The Gatsby-Tom confrontation in Chapter 7 of *The Great Gatsby* is usually filed under romance, a love triangle reaching its boiling point on the hottest afternoon of the summer. Read that way, it is a quarrel about Daisy. Read more closely, it is a contest between two kinds of wealth, and the winner is settled before a word is spoken. Tom Buchanan does not defeat Jay Gatsby by loving Daisy more or by arguing better. He defeats him by holding the older, sturdier form of money, the kind that gets to decide who counts as a person and who counts as an intruder. This article reads the confrontation as a clash of social types rather than a clash of personalities, and it argues that the scene is the novel's verdict on a question larger than any marriage.

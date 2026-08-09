@@ -9,7 +9,7 @@ excerpt: "Azure SQL DTU throttling at 100 percent rarely needs a bigger tier. Co
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
 author: "ryan-walsh"
-last_updated: 2022-08-29
+last_updated: 2026-08-09
 lang: en
 ---
 Your dashboard shows DTU consumption flat against the ceiling, queries that used to return in milliseconds now hang for seconds, and somewhere a client logs error 40501 with the message that the service is busy. The reflex is almost universal: open the portal, slide the tier up a notch, watch the alert clear, and move on. That reflex is the single most expensive habit in Azure SQL operations, because Azure SQL DTU throttling at 100 percent is a governed behavior, not an outage, and the governor is telling you that one specific resource ran out. Until you know which resource, a bigger tier is a guess you pay for monthly.

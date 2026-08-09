@@ -9,7 +9,7 @@ excerpt: "Friar Laurence's plan to reunite the lovers hangs on a single letter a
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2022-10-21
+last_updated: 2026-08-09
 lang: en
 ---
 A friar arrives breathless at a cell in Verona with an undelivered letter in his hand, and a tragedy that the audience has been told to expect since the Prologue swings shut on its final hinge. The man is Friar John, sent days earlier to Mantua with a message of life-or-death weight, and his report is almost comically mundane: he went looking for a brother of his order to walk with him, the pair were suspected of carrying infection, the town authorities sealed the doors of the house where they stood, and so the journey to Mantua never happened. The letter that would have told Romeo that Juliet only sleeps comes back unopened. Friar Laurence hears this at Act 5 Scene 2 and grasps at once what it means. The single thread on which his entire rescue depends has snapped, and he has roughly three hours before the girl in the tomb wakes to a vault no rescuer knows to enter.

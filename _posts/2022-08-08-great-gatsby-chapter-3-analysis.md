@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 3 summary and analysis: how the first party, the 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2022-08-08
+last_updated: 2026-08-09
 lang: en
 ---
 Great Gatsby Chapter 3 is where the novel stops telling you about Gatsby and starts performing him. For two chapters Nick has gestured at his neighbor as a name, a light, a sound carrying across the lawn at night. Now Fitzgerald opens the doors, floods the house with strangers, and lets the legend assemble itself in front of you out of music, gossip, and gold. Then, with a quiet precision that is easy to miss on a first read, he takes the legend apart. The man at the center of all this glamour turns out to be sober, watchful, and oddly alone, a host who barely hosts. That movement, the inflation of a myth and its immediate puncture, is the chapter's design, and learning to see it is the difference between recapping the party and understanding why Fitzgerald staged it.

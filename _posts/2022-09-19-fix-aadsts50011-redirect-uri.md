@@ -9,7 +9,7 @@ excerpt: "AADSTS50011 means the redirect URI in the request does not match your 
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "james-carter"
-last_updated: 2022-09-19
+last_updated: 2026-08-09
 lang: en
 ---
 When a sign-in dies with **AADSTS50011**, the screen tells you almost everything you need, and almost everyone reads past it. The error means one precise thing: the redirect URI your application sent in the authorization request does not match any redirect URI registered on the Microsoft Entra ID app registration. It is not a consent failure. It is not a bad client secret. It is not a token-lifetime problem. Entra received a return address, compared it character by character against the list you configured, found no match, and refused to send the authorization response anywhere it was not told to send it. The whole repair lives in that comparison, and the error names the exact address it rejected.

@@ -9,7 +9,7 @@ excerpt: "An AKS pod stuck in Pending means the scheduler found no node to place
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 59
 author: "kevin-reeves"
-last_updated: 2022-07-25
+last_updated: 2026-08-09
 lang: en
 ---
 A pod that reports `Pending` in Azure Kubernetes Service has not crashed, has not failed to pull an image, and has not been rejected by your application code. It is waiting. The Kubernetes scheduler looked at every worker in the cluster, weighed what the workload asked for against what each machine could offer, and concluded that no eligible host exists right now. When an AKS pod is stuck in Pending, the cluster is telling you, with more precision than most engineers stop to read, exactly why placement failed. The single most common mistake during this incident is to treat Pending as a generic stall and start restarting deployments, scaling replicas, or recreating the namespace, none of which addresses the constraint the scheduler already named for you.

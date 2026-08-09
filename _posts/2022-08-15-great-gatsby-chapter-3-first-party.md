@@ -9,7 +9,7 @@ excerpt: "Gatsby's first party in Chapter 3 looks like aimless Jazz Age excess, 
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2022-08-15
+last_updated: 2026-08-09
 lang: en
 ---
 Gatsby's first party in Chapter 3 is the moment the novel stops describing a man and starts staging him. Until now the title character has been a rumor and a silhouette across the water, a name attached to a green light and to Nick's curiosity. The third chapter throws open the doors of the mansion and lets the reader walk in, and what the reader finds is not a celebration so much as a vast, lit, carefully fueled machine. The scene rewards a close reading because almost nothing in it is what it first appears to be. The crowd looks spontaneous and is not. The host looks generous and is not, at least not in the ordinary sense. The whole shining evening looks aimless, and it is the most precisely aimed thing in the book.

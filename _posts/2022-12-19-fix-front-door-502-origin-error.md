@@ -9,7 +9,7 @@ excerpt: "A Front Door 502 origin error almost always means the backend rejected
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 59
 author: "ryan-walsh"
-last_updated: 2022-12-19
+last_updated: 2026-08-09
 lang: en
 ---
 A Front Door 502 is one of the most misread errors in Azure, because the page that surfaces it sits at the edge while the actual fault almost always lives at the upstream server behind it. When Azure Front Door returns a 502, it is telling you that it reached out to your configured origin, tried to get a valid response, and could not. The edge did its job: it accepted the client request, matched a route, selected a backend from the group, and forwarded the request. What it could not do was complete a usable round trip to the server you pointed it at. That gap, between a healthy edge and an upstream server that will not answer the way Front Door expects, is the entire subject of this article, and learning to localize the 502 to the origin contract is the difference between an afternoon of guessing and a five-minute fix.

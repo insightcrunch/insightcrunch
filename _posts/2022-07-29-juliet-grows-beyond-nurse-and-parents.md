@@ -9,7 +9,7 @@ excerpt: "Juliet outgrows the Nurse and her parents within a single act, and her
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2022-07-29
+last_updated: 2026-08-09
 lang: en
 ---
 Two words end a childhood. After the Nurse has counselled her young charge to forget the banished husband and marry the County Paris instead, the Capulet daughter waits until the old woman has shuffled offstage and then turns her back on the only adult who has ever truly stood beside her: "Ancient damnation! O most wicked fiend!" The line lands at Act 3, Scene 5, line 235 in Rene Weis's Arden third series text, and it is the hinge of the whole play. Before it, the thirteen-year-old has a household, a confidante, a structure of care around her. After it, she has nothing but a friar's desperate scheme and her own resolve. The cliche remembers her as a girl on a balcony, a sweetheart, a daughter. The play remembers something harder. Within a single act she loses her father, her mother, and her foster mother in turn, and what is left standing when the supports fall away is not a child at all but an adult who must now act alone.

@@ -9,7 +9,7 @@ excerpt: "Azure 429 throttling hits Cosmos, storage, Event Hubs, and Resource Ma
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 64
 author: "william-knight"
-last_updated: 2023-04-03
+last_updated: 2026-08-09
 lang: en
 ---
 An HTTP 429 response, the status line that reads Too Many Requests, is the platform telling you that a caller has exceeded a rate limit and that the offending request was rejected without being processed. Azure 429 throttling shows up everywhere a quota exists, which is to say almost everywhere: a Cosmos DB container that runs out of request units, a storage account that crosses its scalability target, an Event Hubs namespace past its throughput units, a Resource Manager subscription whose control-plane calls have piled up, and a long tail of resource providers that each defend themselves the same way. The status code is identical in every case. What differs is which budget you blew through, which header tells you how long to wait, and whether the fix is to slow down or to provision more capacity.

@@ -9,7 +9,7 @@ excerpt: "Mercutio dominates every scene he is in with wit and danger, so vivid 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 65
 author: "amanda-ross"
-last_updated: 2022-08-19
+last_updated: 2026-08-09
 lang: en
 ---
 He has roughly three hundred lines, dies at the structural midpoint of a five-act play, and never once appears in the same room as the title heroine. By any accounting of stage time he is a supporting part. Yet ask a roomful of readers which figure in this tragedy crackles hardest, talks fastest, and lingers longest after the curtain, and a surprising number will name the man who is dead by the end of Act 3. Mercutio is the friend who steals the play, and the theft is so complete that the playwright seems to have understood the danger and acted on it.

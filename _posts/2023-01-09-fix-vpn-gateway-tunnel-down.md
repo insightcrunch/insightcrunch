@@ -9,7 +9,7 @@ excerpt: "An Azure VPN gateway tunnel that drops or never connects is almost alw
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
 author: "benjamin-scott"
-last_updated: 2023-01-09
+last_updated: 2026-08-09
 lang: en
 ---
 A site-to-site connection that sits at Connecting forever, a tunnel that comes up and then drops every few hours, a link that carries traffic to one subnet but blackholes another: these are the three faces of the same incident, and an Azure VPN gateway tunnel that will not stay up is one of the most common connectivity failures an engineer inherits. The symptom looks like an Azure problem, so the reflex is to delete the gateway and build a fresh one. That reflex is almost always wrong, and it wastes the better part of an hour because gateway provisioning is slow. The tunnel is not a thing Azure owns. It is a negotiation between two devices, the Azure gateway on one end and your on-premises firewall or router on the other, and a negotiation fails when the two parties cannot agree on terms. The fix is to find the term they disagree on and make them agree, not to replace one of the negotiators.

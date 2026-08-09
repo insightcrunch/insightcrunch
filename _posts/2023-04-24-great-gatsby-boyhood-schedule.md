@@ -9,7 +9,7 @@ excerpt: "Gatsby's boyhood schedule, the daily plan young James Gatz penciled in
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2023-04-24
+last_updated: 2026-08-09
 lang: en
 ---
 Gatsby's boyhood schedule is the smallest document in the novel and the one that explains the most. It arrives late, in Chapter 9, when a grieving father named Henry Gatz opens a worn copy of a Western adventure book and points to a daily plan his son penciled into the back of it as a boy. For most of the novel the reader has watched Jay Gatsby as a finished surface: the mansion, the parties, the pink suits, the rumors. The schedule shows the surface being drafted. It is the only place in the book where we see the self-made man before he made himself, and it turns the whole performance we have just witnessed into the keeping of a childhood promise. A reader who skims past it as a quaint detail misses the single passage that makes Gatsby tragic rather than absurd.

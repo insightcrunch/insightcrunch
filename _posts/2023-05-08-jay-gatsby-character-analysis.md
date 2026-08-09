@@ -9,7 +9,7 @@ excerpt: "Jay Gatsby character analysis: who Gatsby really is, what he wants mos
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 47
 author: "emily-reed"
-last_updated: 2023-05-08
+last_updated: 2026-08-09
 lang: en
 ---
 Ask who Jay Gatsby is and most readers answer with a costume: the pink suit, the mansion, the parties, the mysterious smile. A Jay Gatsby character analysis that stops at the costume has missed the man, because Gatsby is not finally a set of traits you can list. He is a direction. He is a person organized entirely around something he is reaching for, and the central question this study answers is not what Gatsby has or what Gatsby looks like but what Gatsby wants, why he cannot stop wanting it, and what that single orientation does to him across nine chapters. The answer is the difference between reading the novel for plot and reading it for argument.

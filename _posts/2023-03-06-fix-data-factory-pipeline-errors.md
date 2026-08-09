@@ -9,7 +9,7 @@ excerpt: "Azure Data Factory pipeline failures trace to one failed activity, not
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "kevin-reeves"
-last_updated: 2023-03-06
+last_updated: 2026-08-09
 lang: en
 ---
 A red dot on a pipeline run and a single line that reads `Operation on target Copy_Customers failed` is where most engineers begin, and far too many of them respond by clicking rerun and walking away to get coffee. The rerun completes, the same red dot appears, and the cycle repeats until somebody senior wanders over and asks the only question that matters: which activity failed, and what did its error actually say? Azure Data Factory pipeline failures are almost never about the pipeline. The pipeline status is a roll-up, a summary verdict that inherits the worst outcome of any step inside it, and the actionable truth lives one level down, in the specific activity that broke and the structured error it recorded. Learn to read that one error and you stop guessing. You will know whether a linked service lost its credential, a copy activity hit a throttling wall against its sink, a mapping data flow could not start its Spark cluster, a source path or schema shifted underneath you, or the integration runtime that runs everything went dark. Each of those leaves a different signature, each has a confirming check you can run in under a minute, and each has a tested fix that is not "rerun and hope."

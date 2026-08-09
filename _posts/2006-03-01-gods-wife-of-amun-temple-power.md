@@ -9,7 +9,7 @@ excerpt: "The God's Wife of Amun became the most powerful woman in Thebes, a cel
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2006-03-01
+last_updated: 2026-08-09
 lang: en
 ---
 At Medinet Habu, on the west bank at Thebes, stand a row of small chapels built for women. They are funerary monuments, decorated with offering scenes, and the women commemorated in them are shown wearing the vulture headdress, shaking sistra before the gods, receiving the embrace of Amun, and carrying their names inside cartouches. Cartouches were royal. So were several of the rituals depicted. None of these women ever held the throne of Egypt, and none of them had children. They were the God's Wives of Amun, and for roughly two centuries they were the effective governors of southern Egypt.

@@ -9,7 +9,7 @@ excerpt: "A Container Apps revision failed and refuses traffic? Read the revisio
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 59
 author: "jason-mckenzie"
-last_updated: 2023-02-13
+last_updated: 2026-08-09
 lang: en
 ---
 You push a new image to your container app, the deployment reports success, and then nothing changes. The old version keeps serving traffic, or the endpoint starts returning errors, and the portal shows your newest revision sitting in a failed or unhealthy state instead of taking over. When a Container Apps revision failed to become active, the platform is telling you something precise even when the message on screen looks generic: a revision only receives traffic after it provisions its replicas and those replicas pass health, so a revision that never activates is stuck at one of a small set of gates. The image would not pull, a probe never reported ready, the container does not listen on the target port you configured, a secret or environment variable is missing and the process crashes on start, or the resource and scale settings cannot place a replica. Each of those gates leaves a distinct fingerprint in the revision status and the logs, and the difference between a frustrating afternoon and a five minute fix is knowing which fingerprint is yours.

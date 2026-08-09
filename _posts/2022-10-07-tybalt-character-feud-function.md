@@ -9,7 +9,7 @@ excerpt: "Tybalt exists to keep the feud burning, and tracing his function shows
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2022-10-07
+last_updated: 2026-08-09
 lang: en
 ---
 A young man walks into a public square where servants have been trading insults, and with three words he turns a scuffle into a riot. "I hate the word," he says of peace, and the line lands like a struck match. Within seconds the stage fills with drawn steel, the heads of two great houses are calling for their longswords, and the Prince of Verona is forced into the street to threaten death on anyone who breaks the quiet again. The man who lit the fire has perhaps a dozen lines in the whole scene. He will be dead before the play is half over. And yet without him the tragedy does not happen, because the figure who steps into that square is not really a character with a grievance. He is the family hatred given a body, a sword, and a temper, and his single purpose across the entire drama is to keep that hatred alive at the precise moments when it might otherwise cool.

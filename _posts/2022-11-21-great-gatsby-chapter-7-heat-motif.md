@@ -9,7 +9,7 @@ excerpt: "The hottest day motif in Great Gatsby Chapter 7 turns rising temperatu
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2022-11-21
+last_updated: 2026-08-09
 lang: en
 ---
 Read Great Gatsby Chapter 7 with a thermometer in hand and the structure of the novel suddenly becomes visible. The hottest day motif is not decoration laid over the action; it is the action's pressure gauge. Fitzgerald sets the longest and most violent chapter of the book on the single most uncomfortable afternoon of the summer, and he keeps the temperature in front of you, line after line, until the moment the catastrophe arrives. The argument of this close reading is simple to state and worth defending in detail: in Chapter 7 the warmth functions as the thermostat of the plot, climbing with the conflict and breaking with the violence, so the air narrates the tension before any character will admit to feeling it. Track the rising mercury and you have tracked the rising danger.

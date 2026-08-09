@@ -9,7 +9,7 @@ excerpt: "Nick Carraway: reliable or unreliable narrator? A close reading weighi
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 47
 author: "lauren-hayes"
-last_updated: 2023-06-12
+last_updated: 2026-08-09
 lang: en
 ---
 Every word you know about Jay Gatsby reaches you through one man, and that man tells you on the first page that he reserves judgment and that he is honest, then spends the next two hundred pages judging almost everyone and shaping a partial account of the one person he refuses to judge. So the real question of the book is not only what happened on Long Island in the summer of 1922. It is whether you can trust the voice telling you. **Nick Carraway: reliable or unreliable narrator?** is the question that decides how you read every scene, because Nick is not a window onto the story. He is a person standing inside it, with stakes, with blind spots, and with a confessed fondness for the man at the center.

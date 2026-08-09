@@ -9,7 +9,7 @@ excerpt: "Service principal authentication errors in Azure split into credential
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 59
 author: "thomas-reid"
-last_updated: 2023-01-30
+last_updated: 2026-08-09
 lang: en
 ---
 A pipeline that deployed cleanly on Friday returns `invalid_client` on Monday, and the message buried in the response reads AADSTS7000215 or AADSTS7000222. A nightly job that has run for a year suddenly cannot reach a storage account. A new automation account works in development and gets rejected in production with a tenant it does not recognize. Every one of these is a service principal authentication error, and almost every one of them is one of a small set of distinct causes wearing slightly different clothes. The reason these incidents feel mysterious is that two completely different kinds of failure print into the same logs and get treated as the same problem. One kind means the identity could not prove who it is. The other means it proved who it is and then was told it is not allowed to do the thing it asked for. Knowing which of those two you are looking at, before you touch anything, is the difference between a thirty second fix and an afternoon of regenerating credentials that were never the problem.

@@ -9,7 +9,7 @@ excerpt: "A Cosmos DB 429 Too Many Requests means a request outran available RU.
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "alex-cunningham"
-last_updated: 2022-09-05
+last_updated: 2026-08-09
 lang: en
 ---
 A Cosmos DB 429 is the response code that says your request asked for more than the database was willing to serve in that instant. The status line reads `429 Too Many Requests`, the older SDKs surfaced it as `RequestRateTooLarge`, and the substatus that pins it to rate limiting is `3200`. Engineers meet it the moment a workload crosses from a demo into real traffic, and the reflex is almost always the same: open the throughput blade and slide the number up. Sometimes that works. Often it does nothing, the 429s keep coming, the monthly bill climbs, and the team is left staring at a graph that refuses to flatten. The reason is that a 429 has more than one cause, and only one of those causes is cured by buying more capacity.

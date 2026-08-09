@@ -9,7 +9,7 @@ excerpt: "Set up an Azure private endpoint end to end: create the endpoint, link
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 63
 author: "marcus-hall"
-last_updated: 2023-05-01
+last_updated: 2026-08-09
 lang: en
 ---
 A correctly configured Azure private endpoint moves traffic to a managed service off the public internet and onto your virtual network, where it rides a private IP address that only your network can reach. When the setup is right, an application in a subnet calls its storage account, its SQL database, or its Key Vault using the same hostname it always used, and that name now resolves to a private address inside your address space. Nothing about the connection string changes. The packets simply stop leaving the network. When the setup is wrong, and it is wrong far more often than teams expect, the endpoint exists, the portal shows it as approved and healthy, and the application still talks to the service over the public internet because the one piece almost everyone underestimates was skipped. That missing piece is the DNS chain, and getting it right is the whole job.

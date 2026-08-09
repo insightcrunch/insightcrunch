@@ -9,7 +9,7 @@ excerpt: "Cosmos DB RU throttling on a single hot partition is rarely a true cap
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2022-09-12
+last_updated: 2026-08-09
 lang: en
 ---
 You raised the provisioned throughput on the container, the bill went up, and the 429 responses kept coming. That is the moment most engineers realize that Cosmos DB RU throttling is not always a story about buying more capacity. When a single physical partition saturates while the rest of the container sits nearly idle, no amount of extra request units fixes the symptom, because the extra capacity lands on partitions that were never the problem. The throttle you are watching is almost always a hot spot, and a hot spot is a key design problem wearing the costume of a capacity shortage.

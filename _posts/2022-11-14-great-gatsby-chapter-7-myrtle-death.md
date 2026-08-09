@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 7: Myrtle's death, decoded. Who drove the yellow 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 48
 author: "rachel-foster"
-last_updated: 2022-11-14
+last_updated: 2026-08-09
 lang: en
 ---
 Everyone remembers that someone dies on the road home from the Plaza, and almost everyone remembers it wrong. Great Gatsby Chapter 7: Myrtle's death is the moment the novel converts a long, sweltering argument about love into a body in the dust, and the way Fitzgerald stages it makes misremembering almost inevitable. Ask a roomful of readers who was driving the car that killed Myrtle Wilson and a confident majority will say Gatsby. The text says otherwise, and the gap between what the chapter records and what readers carry away is itself one of the novel's sharpest instruments. This is the scene where carelessness stops being a personality trait and starts producing corpses.

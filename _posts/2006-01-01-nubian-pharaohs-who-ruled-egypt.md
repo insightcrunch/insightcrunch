@@ -9,7 +9,7 @@ excerpt: "The Nubian pharaohs of Kush ruled all Egypt as the Twenty-fifth Dynast
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2006-01-01
+last_updated: 2026-08-09
 lang: en
 ---
 For roughly ninety years, the men who wore the double crown of Egypt were not Egyptians. They came from Kush, a kingdom on the middle Nile in what is now northern Sudan, and they marched north into a country so politically shattered that no single ruler could stop them. The Nubian pharaohs of the Twenty-fifth Dynasty took Thebes, then Memphis, then the whole Delta, and for the first time since the collapse of the New Kingdom a single crown governed the Nile from the Mediterranean to beyond the Fourth Cataract. What makes them remarkable is not simply that foreigners ruled Egypt, since foreigners had done that before and would do it repeatedly afterward. What makes them remarkable is the argument they made about themselves. They did not present their conquest as conquest. They presented it as rescue.

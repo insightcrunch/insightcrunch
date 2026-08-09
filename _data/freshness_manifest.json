@@ -1373,8 +1373,26 @@
   "2005-12-01-how-egypt-split-after-new-kingdom.md": {
     "last_refreshed": "2026-08-05"
   },
+  "2006-01-01-nubian-pharaohs-who-ruled-egypt.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2006-02-01-egypt-and-kush-history.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2006-03-01-gods-wife-of-amun-temple-power.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2006-04-01-libyan-dynasties-divided-egypt.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2006-05-01-art-revival-fragmented-egypt.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2006-05-30-case-blue-hitler-summer-1942-caucasus.md": {
     "last_refreshed": "2026-07-05"
+  },
+  "2006-06-01-piye-kushite-conquest-of-egypt.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2006-06-05-fall-of-tobruk-june-1942.md": {
     "last_refreshed": "2026-07-05"
@@ -1390,6 +1408,9 @@
   },
   "2006-06-27-wannsee-conference-january-1942-holocaust.md": {
     "last_refreshed": "2026-07-05"
+  },
+  "2006-07-01-temples-as-power-centers-egypt.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2006-07-02-arcadia-conference-december-1941.md": {
     "last_refreshed": "2026-07-05"
@@ -1408,6 +1429,9 @@
   },
   "2006-07-30-lend-lease-act-fdr-march-1941.md": {
     "last_refreshed": "2026-07-05"
+  },
+  "2006-08-01-third-intermediate-a-dark-age.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2006-08-04-mussolini-invades-greece-october-1940.md": {
     "last_refreshed": "2026-07-05"
@@ -7100,14 +7124,95 @@
   "2022-07-04-great-gatsby-chapter-1-narration.md": {
     "last_refreshed": "2026-08-05"
   },
+  "2022-07-08-juliet-agency-character-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-07-11-fix-aks-imagepullbackoff.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-07-11-great-gatsby-chapter-1-buchanan-dinner.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-07-15-juliet-gallop-apace-soliloquy-desire.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-07-18-fix-aks-crashloopbackoff.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-07-18-great-gatsby-chapter-2-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-07-19-the-virtual-web3-paradise.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2022-07-22-juliet-potion-soliloquy-act-four.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-07-25-fix-aks-pods-pending.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-07-25-great-gatsby-chapter-2-valley-of-ashes.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-07-29-juliet-grows-beyond-nurse-and-parents.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-01-fix-storage-403-authorization-error.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-01-great-gatsby-chapter-2-myrtle-party.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-05-juliet-defiance-refusing-paris.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-08-fix-storage-409-conflict-error.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-08-great-gatsby-chapter-3-analysis.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2022-08-08-tcs-hiring-guide.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-08-12-juliet-death-tomb-dagger-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-08-13-facebook-interview-process-core-values-and-interview-questions.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2022-08-15-fix-azure-sql-40613-unavailable.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-15-great-gatsby-chapter-3-first-party.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-19-mercutio-character-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-22-fix-azure-sql-login-failed-18456.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-22-great-gatsby-chapter-3-meeting-gatsby.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-26-queen-mab-speech-mercutio-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-29-fix-azure-sql-dtu-throttling.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-08-29-great-gatsby-chapter-4-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-02-plague-on-both-your-houses-mercutio.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-05-fix-cosmos-db-429-rate-limit.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-05-great-gatsby-chapter-4-backstory.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2022-09-06-kyndryl-stock-price.md": {
     "last_refreshed": "2026-04-02"
@@ -7115,8 +7220,29 @@
   "2022-09-09-tableau-certification.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-09-09-why-shakespeare-killed-mercutio.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-12-fix-cosmos-db-ru-throttling.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-12-great-gatsby-chapter-4-jordan-flashback.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-16-mercutio-bawdy-wit-wordplay.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-19-fix-aadsts50011-redirect-uri.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-19-great-gatsby-chapter-5-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-09-22-killers-of-the-flower-moon.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2022-09-23-mercutio-queer-reading-romeo.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2022-09-23-wipro-salary-hike-fy22-for-employees-and-freshers.md": {
     "last_refreshed": "2026-04-02"
@@ -7130,11 +7256,53 @@
   "2022-09-25-black-panther-wakanda-forever.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-09-26-fix-aadsts700016-app-not-found.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-26-great-gatsby-chapter-5-reunion.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-09-30-tybalt-prince-of-cats-honor.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-03-fix-aadsts65001-consent-required.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-03-great-gatsby-chapter-5-shirts-scene.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-07-tybalt-character-feud-function.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-10-fix-azure-rbac-authorizationfailed.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-10-great-gatsby-chapter-6-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-14-friar-laurence-character-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-17-fix-azure-deployment-conflict.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-17-great-gatsby-chapter-6-james-gatz.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-10-19-amazon-workforce.md": {
     "last_refreshed": "2026-04-02"
   },
   "2022-10-21-amazon-work-from-home-reviews.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2022-10-21-friar-laurence-plan-failure-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-24-fix-arm-template-deployment-errors.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-24-great-gatsby-chapter-6-daisy-party.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2022-10-28-amazon-warehouse-jobs.md": {
     "last_refreshed": "2026-04-02"
@@ -7148,6 +7316,12 @@
   "2022-10-30-which-job-is-best-in-amazon.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-10-31-fix-bicep-deployment-errors.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-10-31-great-gatsby-chapter-7-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-11-02-amazon-warehouse-near-me.md": {
     "last_refreshed": "2026-04-02"
   },
@@ -7157,6 +7331,12 @@
   "2022-11-06-amazon-jobs-work-from-home.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-11-07-fix-azure-quota-exceeded.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-11-07-great-gatsby-chapter-7-plaza-showdown.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-11-08-will-amazon-hire-with-no-work-experience.md": {
     "last_refreshed": "2026-04-02"
   },
@@ -7165,6 +7345,12 @@
   },
   "2022-11-12-tableau-certified-data-analyst-prep.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2022-11-14-fix-vnet-peering-failures.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-11-14-great-gatsby-chapter-7-myrtle-death.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2022-11-14-tableau-data-analyst-certification-questions.md": {
     "last_refreshed": "2026-04-02"
@@ -7178,6 +7364,12 @@
   "2022-11-20-how-much-does-amazon-pay-for-work-from-home.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-11-21-fix-nsg-blocking-traffic.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-11-21-great-gatsby-chapter-7-heat-motif.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-11-22-amazon-jobs-login-with-pin.md": {
     "last_refreshed": "2026-04-02"
   },
@@ -7186,6 +7378,12 @@
   },
   "2022-11-26-amazon-online-jobs-work-from-home-no-experience.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2022-11-28-fix-private-endpoint-dns.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-11-28-great-gatsby-chapter-8-analysis.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2022-11-28-how-do-freshers-get-jobs-at-amazon.md": {
     "last_refreshed": "2026-04-02"
@@ -7199,6 +7397,12 @@
   "2022-12-04-amazon-work-from-home-data-entry-jobs.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-12-05-fix-load-balancer-probe-failure.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-12-05-great-gatsby-chapter-8-past.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-12-06-amazon-force-jobs.md": {
     "last_refreshed": "2026-04-02"
   },
@@ -7211,8 +7415,14 @@
   "2022-12-12-amazon-job-fair-today.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-12-12-fix-application-gateway-502.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-12-12-gaokao-post-exam-score-preference.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2022-12-12-great-gatsby-chapter-8-gatsby-death.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2022-12-14-are-tableau-certification-worth-it.md": {
     "last_refreshed": "2026-04-02"
@@ -7222,6 +7432,12 @@
   },
   "2022-12-18-how-do-i-log-into-my-amazon-employee-account.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2022-12-19-fix-front-door-502-origin-error.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-12-19-great-gatsby-chapter-9-analysis.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2022-12-20-amazon-work-from-home-30-an-hour.md": {
     "last_refreshed": "2026-04-02"
@@ -7235,6 +7451,12 @@
   "2022-12-24-meta-layoffs-and-hiring-freeze.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2022-12-26-fix-azure-dns-resolution.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2022-12-26-great-gatsby-chapter-9-funeral.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2022-12-26-tableau-certified-data-analyst-salary.md": {
     "last_refreshed": "2026-04-02"
   },
@@ -7247,11 +7469,23 @@
   "2022-12-30-which-tableau-certification-is-best.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2023-01-02-fix-expressroute-circuit-down.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-01-02-great-gatsby-chapter-9-final-page.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-01-02-tableau-certification-a-step-by-step-path-to-success.md": {
     "last_refreshed": "2026-04-02"
   },
   "2023-01-05-gaokao-100-day-countdown.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2023-01-09-fix-vpn-gateway-tunnel-down.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-01-09-great-gatsby-first-last-chapters.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-01-09-top-resources-for-tableau-certification-preparation.md": {
     "last_refreshed": "2026-04-02"
@@ -7262,17 +7496,47 @@
   "2023-01-16-cracking-the-code-strategies-for-passing-tableau-certification.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2023-01-16-fix-key-vault-access-denied.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-01-16-great-gatsby-nine-chapter-design.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-01-21-gaokao-life-changing-stories.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2023-01-23-fix-managed-identity-token-error.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-01-23-great-gatsby-two-parties-compared.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-01-29-gaokao-to-civil-service.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2023-01-30-fix-service-principal-auth-error.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-01-30-great-gatsby-guest-list-passage.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-02-02-demystifying-tableau-certification-your-questions-answered.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2023-02-06-fix-acr-pull-unauthorized.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-02-06-gaokao-preference-form-mistakes.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2023-02-06-great-gatsby-car-crash-sequence.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-02-13-fix-container-apps-revision-failed.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-02-13-great-gatsby-pool-scene-reading.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-02-14-gaokao-scoring-rubrics.md": {
     "last_refreshed": "2026-04-01"
@@ -7280,8 +7544,20 @@
   "2023-02-16-from-novice-to-certified-pro-your-tableau-journey.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2023-02-20-fix-app-service-deployment-failed.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-02-20-great-gatsby-nick-thirtieth-birthday.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-02-22-gaokao-exam-answering-techniques.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2023-02-27-fix-website-run-from-package.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-02-27-great-gatsby-telephone-calls.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-03-02-gaokao-mock-exam-strategy.md": {
     "last_refreshed": "2026-04-01"
@@ -7289,8 +7565,20 @@
   "2023-03-02-mastering-tableau-tips-and-tricks-for-certification-success.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-03-06-fix-data-factory-pipeline-errors.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-03-06-great-gatsby-owl-eyes-library.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-03-10-gaokao-error-notebook.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2023-03-13-fix-integration-runtime-offline.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-03-13-great-gatsby-gatsby-tom-confrontation.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-03-16-tableau-certification-your-ticket-to-career-advancement.md": {
     "last_refreshed": "2026-03-30"
@@ -7298,17 +7586,41 @@
   "2023-03-18-gaokao-online-resources.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2023-03-20-fix-azure-monitor-missing-logs.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-03-20-great-gatsby-drive-into-city.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-03-26-gaokao-japanese-instead-english.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2023-03-27-fix-log-analytics-ingestion-delay.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-03-27-great-gatsby-wilson-garage-scenes.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-04-02-tableau-certification-exams-how-to-prepare-like-a-pro.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-04-03-fix-azure-429-throttling-guide.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-04-03-gaokao-ethnic-minority-policy.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2023-04-03-great-gatsby-dan-cody-yacht.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-04-05-tcs-vs-infosys-wipro-cognizant.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-04-10-configure-azure-vm-autoshutdown.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-04-10-great-gatsby-last-conversation.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-04-11-gaokao-military-academy-guide.md": {
     "last_refreshed": "2026-04-01"
@@ -7319,11 +7631,23 @@
   "2023-04-16-how-to-ace-tableau-certification-expert-insights.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-04-17-configure-managed-identities.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-04-17-great-gatsby-henry-gatz-visit.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-04-19-gaokao-sports-student-guide.md": {
     "last_refreshed": "2026-04-01"
   },
   "2023-04-21-tcs-smart-hiring.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-04-24-configure-key-vault-references.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-04-24-great-gatsby-boyhood-schedule.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-04-27-gaokao-art-student-guide.md": {
     "last_refreshed": "2026-04-01"
@@ -7331,17 +7655,35 @@
   "2023-04-30-tcs-smart-aptitude.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-05-01-configure-private-endpoints.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-05-01-great-gatsby-chapter-endings.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-05-02-unlocking-your-potential-benefits-of-tableau-certification.md": {
     "last_refreshed": "2026-03-30"
   },
   "2023-05-05-gaokao-failure-recovery.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2023-05-08-configure-app-gateway-waf.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-05-08-jay-gatsby-character-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-05-09-tcs-salary.md": {
     "last_refreshed": "2026-03-30"
   },
   "2023-05-13-gaokao-top-scorer-methods.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2023-05-15-configure-front-door-routing.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-05-15-jay-gatsby-self-made-man.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-05-16-tableau-certification-boost-your-data-visualization-skills.md": {
     "last_refreshed": "2026-03-30"
@@ -7352,11 +7694,23 @@
   "2023-05-21-gaokao-strong-foundation-plan.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2023-05-22-configure-aks-ingress-tls.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-05-22-jay-gatsby-idealist-or-criminal.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-05-26-tcs-python-coding.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-05-29-configure-aks-workload-identity.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-05-29-gaokao-overseas-application.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2023-05-29-james-gatz-before-gatsby.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-06-02-choosing-the-right-tableau-certification-path-for-your-career.md": {
     "last_refreshed": "2026-03-30"
@@ -7364,8 +7718,20 @@
   "2023-06-03-tcs-prime.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-06-05-configure-azure-functions-bindings.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-06-05-nick-carraway-character-analysis.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-06-06-gaokao-vocational-education.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2023-06-12-configure-azure-sql-failover-groups.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-06-12-nick-carraway-reliable-narrator.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-06-12-tcs-placement-papers-analysis.md": {
     "last_refreshed": "2026-03-30"
@@ -7376,11 +7742,23 @@
   "2023-06-16-the-road-to-tableau-certification-setting-goals-and-achieving-them.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-06-19-configure-cosmos-db-partition-keys.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-06-19-nick-carraway-moral-center.md": {
+    "last_refreshed": "2026-08-09"
+  },
   "2023-06-20-tcs-nqt-syllabus-exam-pattern.md": {
     "last_refreshed": "2026-03-30"
   },
   "2023-06-22-gaokao-hukou-cross-province.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2023-06-26-configure-storage-lifecycle-policies.md": {
+    "last_refreshed": "2026-08-09"
+  },
+  "2023-06-26-daisy-buchanan-character-analysis.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-06-29-tcs-nqt-strategy.md": {
     "last_refreshed": "2026-03-30"
@@ -7390,6 +7768,9 @@
   },
   "2023-07-01-embracing-joy-30-simple-pleasures-that-bring-happiness.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-07-03-configure-azure-vm-backup.md": {
+    "last_refreshed": "2026-08-09"
   },
   "2023-07-08-gaokao-post-exam-summer.md": {
     "last_refreshed": "2026-03-31"

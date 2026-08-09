@@ -9,7 +9,7 @@ excerpt: "Azure SQL error 40613 means the database is temporarily unavailable. L
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 63
 author: "thomas-reid"
-last_updated: 2022-08-15
+last_updated: 2026-08-09
 lang: en
 ---
 When an application throws Azure SQL error 40613, the message reads "Database '%.*ls' on server '%.*ls' is not currently available. Please retry the connection later." That single line panics teams because it looks like the database vanished. It almost never has. This code sits squarely on the transient-fault list, which means the platform is telling you the database is momentarily out of reach, not gone. The right response is rarely a frantic investigation and almost always a measured retry with backoff. The engineers who keep getting paged for 40613 are usually the ones whose code treats a five second blip as a permanent failure and surfaces it to the user.

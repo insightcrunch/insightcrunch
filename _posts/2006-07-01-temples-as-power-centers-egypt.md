@@ -9,7 +9,7 @@ excerpt: "Egyptian temples were landholding corporations rather than mere houses
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2006-07-01
+last_updated: 2026-08-09
 lang: en
 ---
 Egyptian temples were the largest economic institutions in the ancient Nile valley, and treating them primarily as places of worship is the single error that most obscures how Egypt was actually run. A major temple was a landholding corporation. It owned fields across multiple provinces, herds of cattle, flocks, orchards, vineyards, quarries, fishing and fowling rights, boats, workshops, and granaries. It employed farmers, herdsmen, gardeners, scribes, weavers, brewers, bakers, sculptors, metalworkers, guards, and sailors, most of whom never performed a religious rite in their lives. It kept accounts, conducted audits, ran law courts through oracle procedure, financed expeditions, stored and lent grain, and, in some periods, collected revenue from territory outside Egypt. Its senior officers were among the wealthiest and most powerful men in the country, and by the Third Intermediate Period the head of the greatest of them, the estate of Amun at Karnak, was writing his name in a cartouche.

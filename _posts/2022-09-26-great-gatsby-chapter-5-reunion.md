@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby Chapter 5 reunion brings Gatsby and Daisy together at
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2022-09-26
+last_updated: 2026-08-09
 lang: en
 ---
 The Great Gatsby Chapter 5 reunion is the scene the first four chapters have been quietly engineering, and it is also the moment Fitzgerald chooses to make almost unbearable to watch. For four chapters Gatsby has been a rumor, a light, a host who does not drink, a name spoken across a lawn. Everything the reader has gathered about his longing points to one event: the afternoon he finally stands in a room with Daisy Buchanan again. When that afternoon arrives, Fitzgerald does not stage a triumphant embrace. He stages a man so frightened he nearly flees, a clock that almost shatters, a downpour, and a silence so heavy that the narrator wants to crawl out of his own skin. The reunion is the structural heart of the novel, but it earns that title not by delivering the dream and ending the story; it earns it by showing, in the space of one rainy afternoon, the precise instant when the dream is touched and begins to shrink.

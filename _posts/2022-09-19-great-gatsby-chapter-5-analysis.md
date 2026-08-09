@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 5 summary and analysis of the Gatsby and Daisy re
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2022-09-19
+last_updated: 2026-08-09
 lang: en
 ---
 Everything the first half of the novel promises arrives in Great Gatsby Chapter 5, and the cost of that arrival is the chapter's real subject. For four chapters Jay Gatsby has been a rumor, a host who does not drink, a man who stretches his arms toward a green light he cannot reach. Here he finally stands in a room with Daisy Buchanan, and the structural heart of the book turns on a paradox that most first readings miss: the moment the dream is touched is the moment it begins to shrink. This is the canonical close reading of the chapter, written so that you leave able to argue why the reunion is not a climax of joy but the quiet beginning of the novel's decline.

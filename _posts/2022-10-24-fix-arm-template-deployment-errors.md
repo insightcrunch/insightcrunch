@@ -9,7 +9,7 @@ excerpt: "ARM template deployment errors hide the real cause inside a nested mes
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 61
 author: "alex-cunningham"
-last_updated: 2022-10-24
+last_updated: 2026-08-09
 lang: en
 ---
 An ARM template deployment that fails almost never tells you the truth in its first line. The top of the error reads `InvalidTemplate` or `DeploymentFailed`, and both are generic envelopes that say something went wrong without saying what. ARM template deployment errors are layered: a broad outer status that the portal and the CLI surface first, and a nested resource-provider message buried one or two levels down that actually names the failing resource and the reason. The engineer who fixes the deployment fast is the one who stops reading the outer line, drills to the nested operation, and reads the provider's own words. The engineer who burns an afternoon is the one who sees `DeploymentFailed`, assumes a syntax problem, and starts rewriting template JSON when the real cause was a missing role assignment or an exhausted quota that the template never touched.

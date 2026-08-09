@@ -9,7 +9,7 @@ excerpt: "Configure Cosmos DB partition keys the right way with high cardinality
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 61
 author: "marcus-hall"
-last_updated: 2023-06-19
+last_updated: 2026-08-09
 lang: en
 ---
 A correctly chosen partition key is the single configuration decision that decides whether an Azure Cosmos DB container scales smoothly to terabytes and millions of requests per second, or quietly collapses into throttling under load that the provisioned throughput should have absorbed easily. When you configure Cosmos DB partition keys well, the database spreads storage and request units evenly across its backing infrastructure, common queries touch one place instead of fanning out, and the cost stays proportional to the work. When you choose badly, a single value soaks up a disproportionate share of traffic, requests pile up behind one busy worker, and you pay for capacity the platform cannot actually use because it sits idle on the partitions that nobody is touching.

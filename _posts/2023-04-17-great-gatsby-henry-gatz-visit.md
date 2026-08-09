@@ -9,7 +9,7 @@ excerpt: "The Henry Gatz visit in Chapter 9 brings Gatsby's grieving father to t
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2023-04-17
+last_updated: 2026-08-09
 lang: en
 ---
 For eight and a half chapters, Jay Gatsby has no parents worth the name. He tells Nick he is the son of wealthy people in the Middle West, all dead now, and the lie is so smooth that the reader half forgets to ask where a man actually comes from. Then Gatsby dies, and three days later a telegram arrives signed Henry C. Gatz, and a stooped old man steps off a train from a small Minnesota town and walks into the marble hall of his son's enormous house. The Henry Gatz visit is the moment the invented orphan acquires a real, grieving, proud, living father, and that single arrival quietly rewrites everything the novel has told you about the man in the pink suit. This is the scene where the self-made man is revealed to have been made by someone after all.

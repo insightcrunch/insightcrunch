@@ -9,7 +9,7 @@ excerpt: "Bicep deployment errors split into compile-time and deploy-time stages
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "marcus-hall"
-last_updated: 2022-10-31
+last_updated: 2026-08-09
 lang: en
 ---
 When a Bicep deployment fails, the single most useful thing you can do before touching a line of code is decide which of two worlds the failure lives in. Bicep deployment errors fall into exactly two stages, and they look deceptively similar in a terminal scrollback. A compile-time error is the Bicep toolchain refusing to turn your `.bicep` file into a valid ARM template: a linter complaint, a type mismatch, a required property you left out, a module path that does not resolve, or a `targetScope` that does not match the command you ran. A deploy-time error is something else entirely. By that point the compile has already succeeded, an ARM template exists, and Azure Resource Manager is rejecting the request the same way it would reject any ARM deployment: an `AuthorizationFailed` because the deploying identity lacks a role, a `QuotaExceeded` because the region is out of vCPUs, a `Conflict` because another operation holds the resource. Mistaking one stage for the other is the most common reason engineers spend an afternoon rewriting syntax that was never wrong.

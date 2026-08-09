@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby Chapter 5 shirts scene read closely: why Gatsby throw
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2022-10-03
+last_updated: 2026-08-09
 lang: en
 ---
 ## The Scene Everyone Remembers and Almost No One Explains

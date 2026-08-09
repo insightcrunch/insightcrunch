@@ -9,7 +9,7 @@ excerpt: "A close reading of the Wilson garage scenes in The Great Gatsby, the t
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2023-03-27
+last_updated: 2026-08-09
 lang: en
 ---
 The Wilson garage scenes are the parts of The Great Gatsby that readers tend to drive past on their way to the parties, the green light, and the Plaza. That habit is a mistake. The repair shop George Wilson keeps on the edge of the valley of ashes is not a piece of scenery the plot happens to pass through. It is a recurring stage, returned to four distinct times across the novel, and each return raises the stakes of what happens there. Read together, the Wilson garage scenes form one of Fitzgerald's most controlled experiments in setting, the place where the book stages class, surveillance, and grief in a single dim room beneath a billboard that has begun to look like the face of God.

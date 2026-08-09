@@ -9,7 +9,7 @@ excerpt: "The valley of ashes scene opens Great Gatsby Chapter 2 with a descent 
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 48
 author: "amanda-ross"
-last_updated: 2022-07-25
+last_updated: 2026-08-09
 lang: en
 ---
 Most readers meet the valley of ashes in *The Great Gatsby* the way Nick meets it, by accident, on the way to somewhere else, and that is exactly how Fitzgerald wants the encounter to feel. Chapter 2 opens by pulling the novel off its glittering rails and dropping it into a gray waste between West Egg and Manhattan, and the few pages that describe this place do more quiet work than any party scene that follows. The valley of ashes is not background. It is the moral floor of the book, laid early so everything bright that comes later has something to fall onto. Read the descent slowly and you find Fitzgerald building, in three measured movements, the image the whole novel will keep returning to: human squalor below, and a blank watching gaze above.

@@ -9,7 +9,7 @@ excerpt: "A close reading of Myrtle's apartment party in Great Gatsby Chapter 2,
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 49
 author: "amanda-ross"
-last_updated: 2022-08-01
+last_updated: 2026-08-09
 lang: en
 ---
 The apartment party in Great Gatsby Chapter 2 looks, on a first read, like a drunken afternoon that goes nowhere. Tom Buchanan drags Nick to a flat he keeps in the city, a crowd assembles, the liquor flows, and the scene ends with a slap and a bloody towel. Read quickly, it is comic mess. Read closely, it is one of the most precisely engineered social scenes in American fiction, a study of a woman rehearsing a life she has been told she may borrow but never keep. Myrtle Wilson's apartment party is where Fitzgerald lets the reader watch class aspiration perform itself, and where the world that grants Myrtle the costume reaches over and breaks her nose for forgetting it was only a costume.

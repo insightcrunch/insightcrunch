@@ -9,7 +9,7 @@ excerpt: "Mercutio's relentless bawdy puns set a coarse, physical view of sex ag
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2022-09-16
+last_updated: 2026-08-09
 lang: en
 ---
 Stand in the dark orchard at the start of the second act and listen to what Mercutio actually shouts over the wall. Romeo has just leapt the Capulet boundary to find the girl he met at the feast, and his friend, not knowing the object has changed from Rosaline to Juliet, tries to flush him out with a mock spell. The spell is filthy. It conjures Romeo by a woman's thigh and by what lies above it, jokes about raising and laying a spirit in a woman's body, and ends on a wish so coarse that editors spent three centuries refusing to print it plainly. Most readers remember the orchard for the balcony that follows, for the sun and the moon and the exchanged vows. Almost nobody remembers that the scene opens with a comedian standing in the same garden making the crudest sexual jokes in the play.

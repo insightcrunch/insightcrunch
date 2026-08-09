@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 7 summary and analysis: how the hottest day runs 
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2022-10-31
+last_updated: 2026-08-09
 lang: en
 ---
 Most readers come to a Great Gatsby Chapter 7 summary and analysis looking for the body count: who dies, who was driving, what the newspapers got wrong. That instinct is understandable, because Chapter 7 ends with a woman dead on a dark road and a man marked for murder he has not yet suffered. Yet the death on the road is not where the chapter turns. The decisive blow lands hours earlier, in a stifling hotel suite, when Daisy is asked to say one sentence and finds she cannot say it. Everything after that, including the killing, is consequence. Read the longest and hottest chapter in the novel around that single failed sentence rather than around its many spectacular events, and the whole architecture of the book snaps into focus.

@@ -9,7 +9,7 @@ excerpt: "WEBSITE_RUN_FROM_PACKAGE mounts your App Service app read-only, so a r
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
 author: "ryan-walsh"
-last_updated: 2023-02-27
+last_updated: 2026-08-09
 lang: en
 ---
 You ship a deployment to Azure App Service, the pipeline reports success, and then the app falls over with a line you have seen before and never quite trusted: the file system is read-only. Sometimes the message is blunter, a flat refusal when the runtime tries to write a log or a cache file beside its own binaries. Sometimes the symptom is quieter and stranger, a deployment that finished cleanly yet serves the old code, or a remote bundle that simply never appears. In nearly every one of these cases the cause traces back to a single application setting that changed how your code is mounted, and that setting is WEBSITE_RUN_FROM_PACKAGE. When this value is present, App Service stops treating your site directory as an ordinary writable folder and instead mounts your deployed zip as an immutable file system, which is exactly the behavior that breaks any code expecting to write next to its files.

@@ -9,7 +9,7 @@ excerpt: "Third Intermediate Period art did not die with the unified state. Work
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2006-05-01
+last_updated: 2026-08-09
 lang: en
 ---
 Third Intermediate Period art is the strongest single argument against the idea that political fragmentation kills a civilization. Between the end of the New Kingdom and the Assyrian invasions, Egypt had no single ruling house for most of a four-century stretch. Kings at Tanis in the Delta claimed the double crown while high priests at Thebes ran the south as a theocratic principality. Libyan chiefs carved out hereditary domains at Bubastis, Leontopolis, Herakleopolis, and half a dozen smaller centers. By the eighth century BCE a traveler moving from the Mediterranean coast to the First Cataract would have crossed the territory of five or six rulers, several of whom used royal titles simultaneously. On any political measure this looks like breakdown. On the evidence of what was actually made, carved, cast, painted, and inscribed during those same centuries, it looks like something much more interesting: a civilization that responded to the loss of central authority by reaching backward into its own past and rebuilding its visual language from earlier models.

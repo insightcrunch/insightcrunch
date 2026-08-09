@@ -9,7 +9,7 @@ excerpt: "Mercutio dies cursing both Capulet and Montague, and his thrice repeat
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2022-09-02
+last_updated: 2026-08-09
 lang: en
 ---
 A man is bleeding to death on a Verona street, and the last thing he does is land a joke. "Ask for me tomorrow," he tells the friends crouched over him, "and you shall find me a grave man." Then, between the wit and the wound, three times over, he spends what breath he has left on a curse: a plague o' both your houses. The line is among the most quoted in the play, and it is almost always remembered wrong. People recall it as an insult flung at an enemy, the dying man spitting at whoever killed him. It is the opposite. The wound came from Tybalt, a Capulet, but Romeo, a Montague, was the one whose well-meaning arm got in the way of the blade. So the man on the ground does not curse the Capulets alone, and he does not curse the Montagues alone. He curses both. He refuses to take a side, because in his judgment there is no side worth taking. Both families built the street he is dying on, and both will answer for it.

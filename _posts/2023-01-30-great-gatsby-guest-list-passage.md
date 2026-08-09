@@ -9,7 +9,7 @@ excerpt: "The guest-list passage in The Great Gatsby reads like a comic party ro
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2023-01-30
+last_updated: 2026-08-09
 lang: en
 ---
 Most readers skim it. The guest-list passage in The Great Gatsby, the long roll call of party names that opens Chapter 4, looks at first like a comic interlude, a stretch of invented surnames a reader can glide over on the way back to the plot. That instinct to skim is exactly what Fitzgerald is counting on, and it is exactly what a strong reading refuses. Slow the page down and the catalogue stops being filler. It becomes a compressed portrait of an entire social world, sorted by geography, ranked by money, and quietly seeded with disaster. The names are funny. The fates attached to several of them are not.

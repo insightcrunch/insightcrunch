@@ -9,7 +9,7 @@ excerpt: "AADSTS65001 means no one has yet approved the requested permission. Le
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
 author: "david-thornton"
-last_updated: 2022-10-03
+last_updated: 2026-08-09
 lang: en
 ---
 When a sign-in or a token request fails with AADSTS65001, Microsoft Entra ID is telling you something precise: nobody has approved this application to use the permission it just asked for. The full text reads that the user or administrator has not consented to use the application with the given ID, and that an interactive authorization request should be sent for this user and resource. That message looks like a wall, and the instinct is to retry the sign-in or to recreate the app registration. Both instincts are usually wrong. The error is not a transient fault and not a broken registration. It is a missing grant, and the fix is to record the right grant, by the right person, in the right tenant.

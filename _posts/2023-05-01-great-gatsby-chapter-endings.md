@@ -9,7 +9,7 @@ excerpt: "How each chapter of The Great Gatsby ends reveals a designed pattern o
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2023-05-01
+last_updated: 2026-08-09
 lang: en
 ---
 Ask a class what happens at the end of any chapter in The Great Gatsby and the answers tend to dissolve into plot: a party breaks up, a drive ends, a man dies. Look at the actual final lines and a different fact emerges. Almost none of the nine chapters closes on an event. They close on an image. A reading of how each chapter ends, the heart of this great gatsby chapter analysis, shows Fitzgerald shutting each door not with a bang of plot but with a held picture, a charged line that lands a feeling and lets it ring before the next chapter resets the room. The endings are the novel's pulse, and once you can hear them you can hear the whole book breathing.

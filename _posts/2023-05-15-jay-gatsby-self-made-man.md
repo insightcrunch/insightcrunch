@@ -9,7 +9,7 @@ excerpt: "Jay Gatsby: the self-made man reconsidered. How James Gatz invented a 
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 47
 author: "victoria-stone"
-last_updated: 2023-05-15
+last_updated: 2026-08-09
 lang: en
 ---
 Every self-made man in American fiction asks the reader to admire the climb and ignore the ground it stands on. Jay Gatsby asks both questions at once and refuses to settle either. This is Jay Gatsby: the self-made man reconsidered, not as a success story with a sad ending but as the most exacting case the novel can build of what self-creation costs and what it cannot buy. A poor farm boy from North Dakota named James Gatz wills a millionaire into existence, names him, dresses him, funds him, gives him a past, and rides that invention straight to the bottom of his own swimming pool. The achievement is real. The hollowness underneath it is also real. The argument of this study is that the two are the same fact seen from two sides, and that any reading which keeps only one of them has stopped reading too soon.

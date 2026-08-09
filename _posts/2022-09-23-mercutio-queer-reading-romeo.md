@@ -9,7 +9,7 @@ excerpt: "Some critics read Mercutio's intensity toward Romeo as desire, and the
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 67
 author: "rachel-foster"
-last_updated: 2022-09-23
+last_updated: 2026-08-09
 lang: en
 ---
 Picture the moment that starts the question. Romeo has slipped over the Capulet wall, drawn by a face he glimpsed for the length of a dance, and his two companions are left in the lane outside, calling for a man who will not answer. Benvolio wants to go home. Mercutio refuses to leave it there. He decides instead to raise his friend the way a magician raises a spirit, and the spell he chooses is a catalogue of a woman's body, mounting from the bright eyes and the high forehead down through the fine foot and the straight leg and the quivering thigh to the parts that lie adjacent. The conjuration is filthy, funny, and strangely tender, and it ends with a wish so specific that editors have argued about its spelling for two centuries. A reader who has been told that this play is a clean account of young love meeting parental hate will not know quite what to do with the scene, because the scene is not about Juliet at all. It is about a man who cannot bear to lose his friend to a woman, and who tries to win him back with the only instrument he trusts, which is his own extraordinary mouth.

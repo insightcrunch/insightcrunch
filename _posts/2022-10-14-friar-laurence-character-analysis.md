@@ -9,7 +9,7 @@ excerpt: "Friar Laurence marries the lovers, brews the potion, and devises the p
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 63
 author: "rachel-foster"
-last_updated: 2022-10-14
+last_updated: 2026-08-09
 lang: en
 ---
 A Franciscan kneels in a garden before dawn, basket in hand, gathering weeds and flowers while the rest of Verona sleeps. He is talking to himself about poison. "Within the infant rind of this weak flower," he observes, "Poison hath residence, and medicine power" (2.3.23-24, Arden second series, ed. Brian Gibbons). The lines arrive as botany and end as moral philosophy: the same plant that heals can kill, and the difference lies not in the herb but in the hand that uses it. Forty minutes of stage time later, that same hand will mix a draught that mimics death, hide a thirteen-year-old in a tomb, and stake two lives on a letter that never gets delivered.

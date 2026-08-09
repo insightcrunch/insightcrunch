@@ -3890,17 +3890,17 @@ narmer-menes-first-king-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
 - slug: predynastic-vs-early-dynastic-egypt
   title: Predynastic vs Early Dynastic Egypt
   url: /2000/10/01/predynastic-vs-early-dynastic-egypt/
   category: leisure
   image: /assets/images/blog/blog-56.webp
-  lang: en
-- slug: abydos-first-royal-tombs-of-egypt
-  title: Abydos and Egypt's First Royal Tombs
-  url: /2000/07/01/abydos-first-royal-tombs-of-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-64.webp
   lang: en
 plumber-cost-guide:
 - slug: plumbing-scams-how-to-avoid
@@ -6838,12 +6838,6 @@ middle-kingdom-administration-trade:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: egypt-conquest-of-nubia
-  title: How Egypt Conquered and Held Nubia
-  url: /2002/05/01/egypt-conquest-of-nubia/
-  category: leisure
-  image: /assets/images/blog/blog-73.webp
-  lang: en
 upsc-optional-comparison-top-4:
 - slug: upsc-psir-vs-history
   title: 'UPSC Optional: PSIR vs History Detailed Comparison'
@@ -7420,29 +7414,29 @@ upsc-sociology-optional-complete-guide:
   image: /assets/images/blog/blog-64.webp
   lang: en
 egypt-conquest-of-nubia:
+- slug: nubian-pharaohs-who-ruled-egypt
+  title: The Nubian Pharaohs Who Ruled Egypt
+  url: /2006/01/01/nubian-pharaohs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: egypt-and-kush-history
+  title: 'Egypt and Kush: A Tangled History'
+  url: /2006/02/01/egypt-and-kush-history/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: piye-kushite-conquest-of-egypt
+  title: King Piye and the Kushite Conquest
+  url: /2006/06/01/piye-kushite-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
 - slug: middle-kingdom-administration-trade
   title: Administration and Trade in the Middle Kingdom
   url: /2002/02/01/middle-kingdom-administration-trade/
   category: leisure
   image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: middle-kingdom-of-egypt-guide
-  title: 'The Middle Kingdom of Egypt: Complete Guide'
-  url: /2001/09/01/middle-kingdom-of-egypt-guide/
-  category: leisure
-  image: /assets/images/blog/blog-115.webp
-  lang: en
-- slug: war-that-drove-out-the-hyksos
-  title: The War That Drove the Hyksos From Egypt
-  url: /2002/10/01/war-that-drove-out-the-hyksos/
-  category: leisure
-  image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: thutmose-iii-egypt-napoleon
-  title: 'Thutmose III: Egypt''s Napoleon and Empire Builder'
-  url: /2003/07/01/thutmose-iii-egypt-napoleon/
-  category: leisure
-  image: /assets/images/blog/blog-103.webp
   lang: en
 upsc-psir-optional-paper-2:
 - slug: upsc-psir-optional-guide
@@ -10710,11 +10704,11 @@ women-and-power-in-new-kingdom:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
-- slug: old-kingdom-vs-middle-kingdom
-  title: Old Kingdom vs Middle Kingdom Egypt
-  url: /2002/06/01/old-kingdom-vs-middle-kingdom/
+- slug: middle-kingdom-of-egypt-guide
+  title: 'The Middle Kingdom of Egypt: Complete Guide'
+  url: /2001/09/01/middle-kingdom-of-egypt-guide/
   category: leisure
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-115.webp
   lang: en
 gold-tribute-egyptian-empire:
 - slug: new-kingdom-of-egypt-guide
@@ -11091,11 +11085,11 @@ amarna-art-revolution-in-style:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: tutankhamun-boy-king-of-egypt
-  title: 'Tutankhamun: The Boy King of Egypt'
-  url: /2004/07/01/tutankhamun-boy-king-of-egypt/
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
   category: leisure
-  image: /assets/images/blog/blog-51.webp
+  image: /assets/images/blog/blog-48.webp
   lang: en
 hire-a-roofer-complete-guide:
 - slug: repair-or-replace-your-roof
@@ -11216,11 +11210,11 @@ why-egypt-erased-amarna-pharaohs:
   category: leisure
   image: /assets/images/blog/blog-48.webp
   lang: en
-- slug: how-we-know-about-predynastic-egypt
-  title: How We Know About Predynastic Egypt
-  url: /2000/09/01/how-we-know-about-predynastic-egypt/
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
   category: leisure
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-48.webp
   lang: en
 how-to-vet-a-roofer:
 - slug: how-to-vet-an-hvac-contractor
@@ -11573,29 +11567,29 @@ did-ramesses-lose-kadesh:
   image: /assets/images/blog/blog-14.webp
   lang: en
 third-intermediate-period-egypt:
+- slug: third-intermediate-a-dark-age
+  title: Was the Third Intermediate Period a Dark Age?
+  url: /2006/08/01/third-intermediate-a-dark-age/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
 - slug: how-egypt-split-after-new-kingdom
   title: How Egypt Split After the New Kingdom
   url: /2005/12/01/how-egypt-split-after-new-kingdom/
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: trade-networks-of-hyksos-egypt
-  title: Trade Networks of the Hyksos Period
-  url: /2003/01/01/trade-networks-of-hyksos-egypt/
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
   category: leisure
-  image: /assets/images/blog/blog-86.webp
+  image: /assets/images/blog/blog-48.webp
   lang: en
-- slug: predynastic-egypt-complete-guide
-  title: 'Predynastic Egypt: The Complete Guide'
-  url: /2000/01/01/predynastic-egypt-complete-guide/
+- slug: nubian-pharaohs-who-ruled-egypt
+  title: The Nubian Pharaohs Who Ruled Egypt
+  url: /2006/01/01/nubian-pharaohs-who-ruled-egypt/
   category: leisure
-  image: /assets/images/blog/blog-07.webp
-  lang: en
-- slug: unification-of-ancient-egypt
-  title: The Unification of Egypt Explained
-  url: /2000/02/01/unification-of-ancient-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-113.webp
+  image: /assets/images/blog/blog-36.webp
   lang: en
 how-egypt-split-after-new-kingdom:
 - slug: third-intermediate-period-egypt
@@ -11604,23 +11598,148 @@ how-egypt-split-after-new-kingdom:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: temples-as-power-centers-egypt
+  title: Temples as Power Centers in Late Egypt
+  url: /2006/07/01/temples-as-power-centers-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 - slug: first-gods-of-ancient-egypt
   title: The First Gods of Ancient Egypt
   url: /2000/06/01/first-gods-of-ancient-egypt/
   category: leisure
   image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: valley-of-the-kings-explained
-  title: The Valley of the Kings Explained
-  url: /2004/01/01/valley-of-the-kings-explained/
+nubian-pharaohs-who-ruled-egypt:
+- slug: third-intermediate-period-egypt
+  title: The Third Intermediate Period of Egypt
+  url: /2005/11/01/third-intermediate-period-egypt/
   category: leisure
-  image: /assets/images/blog/blog-109.webp
+  image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: why-the-old-kingdom-collapsed
-  title: Why the Old Kingdom of Egypt Collapsed
-  url: /2001/08/01/why-the-old-kingdom-collapsed/
+- slug: how-egypt-split-after-new-kingdom
+  title: How Egypt Split After the New Kingdom
+  url: /2005/12/01/how-egypt-split-after-new-kingdom/
   category: leisure
-  image: /assets/images/blog/blog-56.webp
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: libyan-dynasties-divided-egypt
+  title: Libyan Dynasties and a Divided Egypt
+  url: /2006/04/01/libyan-dynasties-divided-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+egypt-and-kush-history:
+- slug: daily-life-in-predynastic-egypt
+  title: Daily Life in Predynastic Egypt
+  url: /2000/04/01/daily-life-in-predynastic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: egypt-conquest-of-nubia
+  title: How Egypt Conquered and Held Nubia
+  url: /2002/05/01/egypt-conquest-of-nubia/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: class-and-society-middle-kingdom
+  title: Class and Society in Middle Kingdom Egypt
+  url: /2002/03/01/class-and-society-middle-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: nubian-pharaohs-who-ruled-egypt
+  title: The Nubian Pharaohs Who Ruled Egypt
+  url: /2006/01/01/nubian-pharaohs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+gods-wife-of-amun-temple-power:
+- slug: temples-as-power-centers-egypt
+  title: Temples as Power Centers in Late Egypt
+  url: /2006/07/01/temples-as-power-centers-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: libyan-dynasties-divided-egypt
+  title: Libyan Dynasties and a Divided Egypt
+  url: /2006/04/01/libyan-dynasties-divided-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: how-egypt-split-after-new-kingdom
+  title: How Egypt Split After the New Kingdom
+  url: /2005/12/01/how-egypt-split-after-new-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: third-intermediate-a-dark-age
+  title: Was the Third Intermediate Period a Dark Age?
+  url: /2006/08/01/third-intermediate-a-dark-age/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+libyan-dynasties-divided-egypt:
+- slug: temples-as-power-centers-egypt
+  title: Temples as Power Centers in Late Egypt
+  url: /2006/07/01/temples-as-power-centers-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: third-intermediate-period-egypt
+  title: The Third Intermediate Period of Egypt
+  url: /2005/11/01/third-intermediate-period-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: nubian-pharaohs-who-ruled-egypt
+  title: The Nubian Pharaohs Who Ruled Egypt
+  url: /2006/01/01/nubian-pharaohs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+art-revival-fragmented-egypt:
+- slug: third-intermediate-period-egypt
+  title: The Third Intermediate Period of Egypt
+  url: /2005/11/01/third-intermediate-period-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: how-egypt-split-after-new-kingdom
+  title: How Egypt Split After the New Kingdom
+  url: /2005/12/01/how-egypt-split-after-new-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: third-intermediate-a-dark-age
+  title: Was the Third Intermediate Period a Dark Age?
+  url: /2006/08/01/third-intermediate-a-dark-age/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: libyan-dynasties-divided-egypt
+  title: Libyan Dynasties and a Divided Egypt
+  url: /2006/04/01/libyan-dynasties-divided-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
   lang: en
 case-blue-hitler-summer-1942-caucasus:
 - slug: stalingrad-hitler-no-retreat-order-november-1942
@@ -11646,6 +11765,31 @@ case-blue-hitler-summer-1942-caucasus:
   url: /2006/09/23/hitler-invades-poland-september-1-1939/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+piye-kushite-conquest-of-egypt:
+- slug: nubian-pharaohs-who-ruled-egypt
+  title: The Nubian Pharaohs Who Ruled Egypt
+  url: /2006/01/01/nubian-pharaohs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: libyan-dynasties-divided-egypt
+  title: Libyan Dynasties and a Divided Egypt
+  url: /2006/04/01/libyan-dynasties-divided-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: egypt-conquest-of-nubia
+  title: How Egypt Conquered and Held Nubia
+  url: /2002/05/01/egypt-conquest-of-nubia/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: mentuhotep-ii-reunited-egypt
+  title: 'Mentuhotep II: The King Who Reunited Egypt'
+  url: /2001/11/01/mentuhotep-ii-reunited-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
   lang: en
 fall-of-tobruk-june-1942:
 - slug: stalingrad-hitler-no-retreat-order-november-1942
@@ -11771,6 +11915,31 @@ wannsee-conference-january-1942-holocaust:
   url: /2006/06/05/fall-of-tobruk-june-1942/
   category: leisure
   image: /assets/images/blog/blog-03.webp
+  lang: en
+temples-as-power-centers-egypt:
+- slug: libyan-dynasties-divided-egypt
+  title: Libyan Dynasties and a Divided Egypt
+  url: /2006/04/01/libyan-dynasties-divided-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: how-egypt-split-after-new-kingdom
+  title: How Egypt Split After the New Kingdom
+  url: /2005/12/01/how-egypt-split-after-new-kingdom/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: gods-wife-of-amun-temple-power
+  title: The God's Wife of Amun and Temple Power
+  url: /2006/03/01/gods-wife-of-amun-temple-power/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 arcadia-conference-december-1941:
 - slug: atlantic-charter-august-1941
@@ -11921,6 +12090,31 @@ lend-lease-act-fdr-march-1941:
   url: /2006/11/17/barbarossa-hitler-june-22-1941-invasion/
   category: leisure
   image: /assets/images/blog/blog-03.webp
+  lang: en
+third-intermediate-a-dark-age:
+- slug: third-intermediate-period-egypt
+  title: The Third Intermediate Period of Egypt
+  url: /2005/11/01/third-intermediate-period-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: art-revival-fragmented-egypt
+  title: Art and Revival in a Fragmented Egypt
+  url: /2006/05/01/art-revival-fragmented-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: how-we-know-about-predynastic-egypt
+  title: How We Know About Predynastic Egypt
+  url: /2000/09/01/how-we-know-about-predynastic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: foreign-rule-and-egyptian-identity
+  title: Foreign Rule and Egyptian Identity
+  url: /2002/12/01/foreign-rule-and-egyptian-identity/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
   lang: en
 mussolini-invades-greece-october-1940:
 - slug: norway-invasion-hitler-april-1940
@@ -31543,12 +31737,6 @@ nick-carraway-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: nick-and-jordan-romance
-  title: 'Nick and Jordan: The Subplot Romance'
-  url: /2023/12/11/nick-and-jordan-romance/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
-  lang: en
 meta-interview-experience:
 - slug: what-is-the-meta-interview-process
   title: What is the Meta interview process?
@@ -35904,17 +36092,17 @@ alexander-the-great-life-conquests:
   category: leisure
   image: /assets/images/blog/blog-52.webp
   lang: en
+- slug: piye-kushite-conquest-of-egypt
+  title: King Piye and the Kushite Conquest
+  url: /2006/06/01/piye-kushite-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
 - slug: nefertiti-egypt-famous-queen
   title: 'Nefertiti: Egypt''s Most Famous Queen'
   url: /2004/06/01/nefertiti-egypt-famous-queen/
   category: leisure
   image: /assets/images/blog/blog-17.webp
-  lang: en
-- slug: mentuhotep-ii-reunited-egypt
-  title: 'Mentuhotep II: The King Who Reunited Egypt'
-  url: /2001/11/01/mentuhotep-ii-reunited-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
   lang: en
 julius-caesar-life-assassination:
 - slug: alexander-the-great-life-conquests
@@ -57022,17 +57210,17 @@ great-gatsby-themes-overview:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: gatsby-quotes-american-dream
+  title: Key Quotes About the American Dream
+  url: /2029/05/21/gatsby-quotes-american-dream/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
 - slug: gatsby-american-dream-corruption
   title: The Corruption of the American Dream
   url: /2024/04/29/gatsby-american-dream-corruption/
   category: leisure
   image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: gatsby-metaphor-simile
-  title: Metaphor and Simile in The Great Gatsby
-  url: /2026/03/09/gatsby-metaphor-simile/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
   lang: en
 godfather-part-ii-sequel-debate:
 - slug: the-godfather-coppola-auteur-analysis
@@ -58302,17 +58490,17 @@ great-gatsby-plot-twists-reveals:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+- slug: gatsby-foul-dust-quote
+  title: The Foul Dust Quote Analyzed
+  url: /2029/03/19/gatsby-foul-dust-quote/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 - slug: gatsby-repeat-the-past
   title: Can You Repeat the Past in The Great Gatsby?
   url: /2024/06/24/gatsby-repeat-the-past/
   category: leisure
   image: /assets/images/blog/blog-108.webp
-  lang: en
-- slug: great-gatsby-chapter-5-shirts-scene
-  title: 'Great Gatsby Chapter 5: The Shirts Scene'
-  url: /2022/10/03/great-gatsby-chapter-5-shirts-scene/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
   lang: en
 romeo-character-analysis-contradictions:
 - slug: romeo-rosaline-infatuation-before-juliet
@@ -58471,6 +58659,12 @@ fix-azure-vm-boot-failure:
   image: /assets/images/blog/blog-66.webp
   lang: en
 great-gatsby-ending-explained:
+- slug: gatsby-last-line-explained
+  title: The Last Line of The Great Gatsby Explained
+  url: /2029/01/01/gatsby-last-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
 - slug: great-gatsby-opening-explained
   title: The Great Gatsby Opening Explained
   url: /2022/05/30/great-gatsby-opening-explained/
@@ -58488,12 +58682,6 @@ great-gatsby-ending-explained:
   url: /2026/05/04/gatsby-dialogue-technique/
   category: leisure
   image: /assets/images/blog/blog-42.webp
-  lang: en
-- slug: gatsby-modernist-technique
-  title: Modernist Technique in The Great Gatsby
-  url: /2026/08/03/gatsby-modernist-technique/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 romeo-petrarchan-language-transformation:
 - slug: romeo-rosaline-infatuation-before-juliet
@@ -58552,6 +58740,12 @@ great-gatsby-opening-explained:
   category: leisure
   image: /assets/images/blog/blog-27.webp
   lang: en
+- slug: gatsby-first-line-explained
+  title: The First Line of The Great Gatsby Explained
+  url: /2029/01/08/gatsby-first-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 - slug: great-gatsby-ending-explained
   title: The Great Gatsby Ending Explained
   url: /2022/05/23/great-gatsby-ending-explained/
@@ -58563,12 +58757,6 @@ great-gatsby-opening-explained:
   url: /2022/07/04/great-gatsby-chapter-1-narration/
   category: leisure
   image: /assets/images/blog/blog-64.webp
-  lang: en
-- slug: great-gatsby-complete-analytical-guide
-  title: 'The Great Gatsby: The Complete Analytical Guide'
-  url: /2022/01/03/great-gatsby-complete-analytical-guide/
-  category: leisure
-  image: /assets/images/blog/blog-14.webp
   lang: en
 - slug: gatsby-alienation-city
   title: Alienation in the Modern City in The Great Gatsby
@@ -59513,11 +59701,11 @@ great-gatsby-chapter-3-first-party:
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
-- slug: great-gatsby-chapter-3-meeting-gatsby
-  title: 'Great Gatsby Chapter 3: Meeting Gatsby'
-  url: /2022/08/22/great-gatsby-chapter-3-meeting-gatsby/
+- slug: gatsby-smile-passage
+  title: Gatsby's Smile Passage Analyzed
+  url: /2029/02/19/gatsby-smile-passage/
   category: leisure
-  image: /assets/images/blog/blog-47.webp
+  image: /assets/images/blog/blog-43.webp
   lang: en
 mercutio-character-analysis:
 - slug: why-shakespeare-killed-mercutio
@@ -60505,6 +60693,12 @@ great-gatsby-chapter-6-daisy-party:
   url: /2024/07/29/carelessness-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-beautiful-little-fool
+  title: Beautiful Little Fool Quote Analyzed
+  url: /2029/04/23/gatsby-beautiful-little-fool/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
   lang: en
 amazon-warehouse-jobs:
 - slug: amazon-warehouse-jobs-part-time
@@ -62466,11 +62660,11 @@ great-gatsby-car-crash-sequence:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: great-gatsby-chapter-7-myrtle-death
-  title: 'Great Gatsby Chapter 7: Myrtle''s Death'
-  url: /2022/11/14/great-gatsby-chapter-7-myrtle-death/
+- slug: great-gatsby-complete-analytical-guide
+  title: 'The Great Gatsby: The Complete Analytical Guide'
+  url: /2022/01/03/great-gatsby-complete-analytical-guide/
   category: leisure
-  image: /assets/images/blog/blog-103.webp
+  image: /assets/images/blog/blog-14.webp
   lang: en
 fix-container-apps-revision-failed:
 - slug: fix-data-factory-pipeline-errors
@@ -62610,17 +62804,17 @@ great-gatsby-nick-thirtieth-birthday:
   category: leisure
   image: /assets/images/blog/blog-27.webp
   lang: en
+- slug: gatsby-first-line-explained
+  title: The First Line of The Great Gatsby Explained
+  url: /2029/01/08/gatsby-first-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 - slug: affect-theory-gatsby
   title: Affect Theory and The Great Gatsby
   url: /2028/01/31/affect-theory-gatsby/
   category: leisure
   image: /assets/images/blog/blog-108.webp
-  lang: en
-- slug: friendship-loyalty-gatsby
-  title: Friendship and Loyalty in The Great Gatsby
-  url: /2024/10/07/friendship-loyalty-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-95.webp
   lang: en
 gaokao-exam-answering-techniques:
 - slug: gaokao-100-day-countdown
@@ -63222,6 +63416,12 @@ configure-azure-vm-autoshutdown:
   image: /assets/images/blog/blog-113.webp
   lang: en
 great-gatsby-last-conversation:
+- slug: gatsby-rotten-crowd-quote
+  title: 'They''re a Rotten Crowd: Nick''s Last Words'
+  url: /2029/04/16/gatsby-rotten-crowd-quote/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: nick-and-gatsby-foils
   title: 'Nick and Gatsby as Foils: The Watcher and the Leaper'
   url: /2023/12/25/nick-and-gatsby-foils/
@@ -63239,12 +63439,6 @@ great-gatsby-last-conversation:
   url: /2023/06/05/nick-carraway-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: great-gatsby-chapter-8-past
-  title: 'Great Gatsby Chapter 8: Gatsby and Daisy''s Past'
-  url: /2022/12/05/great-gatsby-chapter-8-past/
-  category: leisure
-  image: /assets/images/blog/blog-04.webp
   lang: en
 gaokao-military-academy-guide:
 - slug: gaokao-results-checking-guide
@@ -66469,17 +66663,17 @@ gatsby-and-nick-friendship:
   category: leisure
   image: /assets/images/blog/blog-102.webp
   lang: en
+- slug: gatsby-novel-vs-films
+  title: Gatsby Compared to Its Film Adaptations
+  url: /2028/11/27/gatsby-novel-vs-films/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: great-gatsby-last-conversation
   title: 'Great Gatsby: Nick and Gatsby''s Last Conversation'
   url: /2023/04/10/great-gatsby-last-conversation/
   category: leisure
   image: /assets/images/blog/blog-108.webp
-  lang: en
-- slug: nick-and-gatsby-foils
-  title: 'Nick and Gatsby as Foils: The Watcher and the Leaper'
-  url: /2023/12/25/nick-and-gatsby-foils/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 tcs-interview-experiences:
 - slug: tcs-digital-interview-experience-2
@@ -66668,17 +66862,17 @@ tom-and-daisy-marriage:
   category: leisure
   image: /assets/images/blog/blog-54.webp
   lang: en
+- slug: gatsby-careless-people-quote
+  title: The Careless People Quote Explained
+  url: /2029/02/26/gatsby-careless-people-quote/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: gatsby-and-daisy-obsession
   title: 'Gatsby and Daisy: Anatomy of an Obsession'
   url: /2023/11/20/gatsby-and-daisy-obsession/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: carelessness-great-gatsby
-  title: Carelessness and Consequence in Gatsby
-  url: /2024/07/29/carelessness-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-15.webp
   lang: en
 gaokao-tju-admission-guide:
 - slug: gaokao-hust-admission-guide
@@ -67747,11 +67941,11 @@ gatsby-tragic-hero:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: gatsby-and-greek-tragedy
-  title: Gatsby and Greek Tragedy
-  url: /2028/10/02/gatsby-and-greek-tragedy/
+- slug: gatsby-foul-dust-quote
+  title: The Foul Dust Quote Analyzed
+  url: /2029/03/19/gatsby-foul-dust-quote/
   category: leisure
-  image: /assets/images/blog/blog-108.webp
+  image: /assets/images/blog/blog-39.webp
   lang: en
 securing-aks-clusters-guide:
 - slug: configure-aks-workload-identity
@@ -68840,6 +69034,12 @@ gatsby-american-dream-corruption:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: gatsby-quotes-american-dream
+  title: Key Quotes About the American Dream
+  url: /2029/05/21/gatsby-quotes-american-dream/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
 - slug: gatsby-american-sublime
   title: The Great Gatsby and the American Sublime
   url: /2028/02/21/gatsby-american-sublime/
@@ -68851,12 +69051,6 @@ gatsby-american-dream-corruption:
   url: /2022/01/31/great-gatsby-themes-overview/
   category: leisure
   image: /assets/images/blog/blog-52.webp
-  lang: en
-- slug: gatsby-american-pastoral
-  title: Gatsby and the American Pastoral
-  url: /2028/10/16/gatsby-american-pastoral/
-  category: leisure
-  image: /assets/images/blog/blog-62.webp
   lang: en
 azure-serverless-architecture:
 - slug: azure-functions-serverless-deep-dive
@@ -69633,17 +69827,17 @@ gatsby-repeat-the-past:
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
+- slug: gatsby-cant-repeat-past-quote
+  title: Can't Repeat the Past? Quote Analyzed
+  url: /2029/02/12/gatsby-cant-repeat-past-quote/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
 - slug: psychoanalytic-reading-gatsby
   title: A Psychoanalytic Reading of The Great Gatsby
   url: /2027/08/23/psychoanalytic-reading-gatsby/
   category: leisure
   image: /assets/images/blog/blog-45.webp
-  lang: en
-- slug: postmodern-reading-gatsby
-  title: Postmodern Readings of The Great Gatsby
-  url: /2028/02/14/postmodern-reading-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
   lang: en
 upsc-success-kannada:
 - slug: upsc-tayari-hege-prarambhisuvudu
@@ -71911,6 +72105,12 @@ gatsby-alienation-city:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+- slug: gatsby-first-line-explained
+  title: The First Line of The Great Gatsby Explained
+  url: /2029/01/08/gatsby-first-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 - slug: great-gatsby-nick-thirtieth-birthday
   title: 'Great Gatsby: Nick''s Thirtieth Birthday Moment'
   url: /2023/02/20/great-gatsby-nick-thirtieth-birthday/
@@ -71922,12 +72122,6 @@ gatsby-alienation-city:
   url: /2025/02/10/gatsby-reserving-judgment/
   category: leisure
   image: /assets/images/blog/blog-27.webp
-  lang: en
-- slug: friendship-loyalty-gatsby
-  title: Friendship and Loyalty in The Great Gatsby
-  url: /2024/10/07/friendship-loyalty-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-95.webp
   lang: en
 solo-dining-la:
 - slug: solo-dining-nyc
@@ -73683,17 +73877,17 @@ eckleburg-eyes-as-god:
   category: leisure
   image: /assets/images/blog/blog-75.webp
   lang: en
+- slug: eckleburg-description-quote
+  title: The Eyes of Eckleburg Description Analyzed
+  url: /2029/04/09/eckleburg-description-quote/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
 - slug: great-gatsby-owl-eyes-library
   title: 'Great Gatsby: Reading the Owl Eyes Library Scene'
   url: /2023/03/06/great-gatsby-owl-eyes-library/
   category: leisure
   image: /assets/images/blog/blog-96.webp
-  lang: en
-- slug: gatsby-eyes-seeing-motif
-  title: The Motif of Eyes and Seeing in The Great Gatsby
-  url: /2025/03/17/gatsby-eyes-seeing-motif/
-  category: leisure
-  image: /assets/images/blog/blog-110.webp
   lang: en
 complete-college-application-guide:
 - slug: sat-common-app-scores
@@ -74095,17 +74289,17 @@ gatsby-mansion-symbol:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+- slug: gatsby-green-light-quote
+  title: The Green Light Quote Analyzed
+  url: /2029/01/29/gatsby-green-light-quote/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: gatsby-shirts-symbol
   title: Gatsby's Shirts as a Symbol
   url: /2025/07/28/gatsby-shirts-symbol/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: color-blue-great-gatsby
-  title: The Color Blue in The Great Gatsby
-  url: /2025/06/23/color-blue-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
   lang: en
 can-nato-hold-the-suwalki-gap:
 - slug: suwalki-gap-nato-weakest-point
@@ -74332,17 +74526,17 @@ color-green-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-12.webp
   lang: en
-- slug: gatsby-symbolism-technique
-  title: Symbolism as a Technique in The Great Gatsby
-  url: /2026/03/16/gatsby-symbolism-technique/
+- slug: gatsby-single-green-light
+  title: 'A Single Green Light: Imagery Unpacked'
+  url: /2029/04/02/gatsby-single-green-light/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-61.webp
   lang: en
-- slug: color-blue-great-gatsby
-  title: The Color Blue in The Great Gatsby
-  url: /2025/06/23/color-blue-great-gatsby/
+- slug: gatsby-fresh-green-breast
+  title: The Fresh Green Breast of the New World
+  url: /2029/03/12/gatsby-fresh-green-breast/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-94.webp
   lang: en
 gaokao-past-papers-practice-strategy:
 - slug: gaokao-mock-exam-strategy
@@ -75419,11 +75613,11 @@ gatsby-telephone-symbol:
   category: leisure
   image: /assets/images/blog/blog-106.webp
   lang: en
-- slug: gatsby-american-dream-corruption
-  title: The Corruption of the American Dream
-  url: /2024/04/29/gatsby-american-dream-corruption/
+- slug: gatsby-best-quotes-chapter-1
+  title: The Best Quotes in Chapter 1 Explained
+  url: /2029/04/30/gatsby-best-quotes-chapter-1/
   category: leisure
-  image: /assets/images/blog/blog-15.webp
+  image: /assets/images/blog/blog-76.webp
   lang: en
 how-to-use-jasper-ai:
 - slug: best-ai-writing-tools
@@ -76705,17 +76899,17 @@ owl-eyes-glasses-symbol:
   category: leisure
   image: /assets/images/blog/blog-57.webp
   lang: en
+- slug: gatsby-boats-against-current
+  title: 'Boats Against the Current: The Final Image'
+  url: /2029/01/15/gatsby-boats-against-current/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: gatsby-imagery-technique
   title: Imagery and Sensory Detail in Gatsby
   url: /2026/03/02/gatsby-imagery-technique/
   category: leisure
   image: /assets/images/blog/blog-105.webp
-  lang: en
-- slug: ecocritical-reading-gatsby
-  title: An Ecocritical Reading of Great Gatsby
-  url: /2027/10/25/ecocritical-reading-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-78.webp
   lang: en
 kaliningrad-baltic-sea-nato-lake:
 - slug: the-kaliningrad-blockade-question
@@ -77055,6 +77249,12 @@ gatsby-billboard-imagery:
   category: leisure
   image: /assets/images/blog/blog-99.webp
   lang: en
+- slug: gatsby-eyes-seeing-motif
+  title: The Motif of Eyes and Seeing in The Great Gatsby
+  url: /2025/03/17/gatsby-eyes-seeing-motif/
+  category: leisure
+  image: /assets/images/blog/blog-110.webp
+  lang: en
 - slug: great-gatsby-symbols-complete-guide
   title: 'The Great Gatsby Symbols: The Complete Guide'
   url: /2022/02/14/great-gatsby-symbols-complete-guide/
@@ -77066,12 +77266,6 @@ gatsby-billboard-imagery:
   url: /2025/08/18/water-rain-imagery-gatsby/
   category: leisure
   image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: gatsby-symbolism-technique
-  title: Symbolism as a Technique in The Great Gatsby
-  url: /2026/03/16/gatsby-symbolism-technique/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 the-honest-problems-with-every-popular-note-taking-app:
 - slug: free-tools-for-small-business-owners
@@ -77611,6 +77805,12 @@ how-to-run-python-on-chromebook-without-installing-anything:
   image: /assets/images/blog/blog-64.webp
   lang: en
 gatsby-dog-leash-symbol:
+- slug: gatsby-fresh-green-breast
+  title: The Fresh Green Breast of the New World
+  url: /2029/03/12/gatsby-fresh-green-breast/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
 - slug: great-gatsby-chapter-2-myrtle-party
   title: 'Great Gatsby Chapter 2: Myrtle''s Apartment Party'
   url: /2022/08/01/great-gatsby-chapter-2-myrtle-party/
@@ -77628,12 +77828,6 @@ gatsby-dog-leash-symbol:
   url: /2025/08/18/water-rain-imagery-gatsby/
   category: leisure
   image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: dust-ash-imagery-gatsby
-  title: Dust and Ash Imagery in The Great Gatsby
-  url: /2025/10/06/dust-ash-imagery-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-99.webp
   lang: en
 best-ai-customer-service-tools:
 - slug: best-ai-tools-data-analysis
@@ -78734,17 +78928,17 @@ gatsby-diction-word-choice:
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
+- slug: gatsby-orgastic-future-quote
+  title: 'An Orgastic Future: The Word Choice Debate'
+  url: /2029/03/26/gatsby-orgastic-future-quote/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
+  lang: en
 - slug: how-to-read-great-gatsby-closely
   title: How to Read The Great Gatsby Closely
   url: /2022/03/07/how-to-read-great-gatsby-closely/
   category: leisure
   image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: gatsby-dialogue-technique
-  title: Dialogue and Speech in The Great Gatsby
-  url: /2026/05/04/gatsby-dialogue-technique/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
   lang: en
 how-to-prepare-for-sat-exam-complete-guide:
 - slug: how-to-prepare-for-upsc-civil-services-complete-guide
@@ -92460,17 +92654,17 @@ gatsby-lyricism:
   category: leisure
   image: /assets/images/blog/blog-58.webp
   lang: en
+- slug: gatsby-last-line-explained
+  title: The Last Line of The Great Gatsby Explained
+  url: /2029/01/01/gatsby-last-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
 - slug: how-to-read-great-gatsby-closely
   title: How to Read The Great Gatsby Closely
   url: /2022/03/07/how-to-read-great-gatsby-closely/
   category: leisure
   image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: gatsby-metaphor-simile
-  title: Metaphor and Simile in The Great Gatsby
-  url: /2026/03/09/gatsby-metaphor-simile/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
   lang: en
 russias-best-path-to-a-nato-war:
 - slug: can-russia-rebuild-for-nato-war
@@ -94145,6 +94339,12 @@ fitzgerald-other-novels:
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
+- slug: what-gatsby-borrowed
+  title: What Gatsby Borrowed From Earlier Books
+  url: /2028/12/25/what-gatsby-borrowed/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
 fitzgerald-short-stories-gatsby:
 - slug: fitzgerald-other-novels
   title: Fitzgerald's Other Novels and Where Gatsby Fits
@@ -94707,23 +94907,17 @@ deconstruction-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
-- slug: gatsby-unreliable-narrator
-  title: The Unreliable Narrator in The Great Gatsby
-  url: /2026/01/26/gatsby-unreliable-narrator/
+- slug: gatsby-first-line-explained
+  title: The First Line of The Great Gatsby Explained
+  url: /2029/01/08/gatsby-first-line-explained/
   category: leisure
-  image: /assets/images/blog/blog-100.webp
+  image: /assets/images/blog/blog-19.webp
   lang: en
-- slug: gatsby-frame-narrative
-  title: Frame Narrative and Retrospection in Gatsby
-  url: /2026/02/02/gatsby-frame-narrative/
+- slug: gatsby-reserving-judgments-quote
+  title: Reserving Judgments Quote Analyzed
+  url: /2029/03/05/gatsby-reserving-judgments-quote/
   category: leisure
-  image: /assets/images/blog/blog-95.webp
-  lang: en
-- slug: queer-reading-great-gatsby
-  title: A Queer Reading of The Great Gatsby
-  url: /2027/10/11/queer-reading-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-111.webp
+  image: /assets/images/blog/blog-89.webp
   lang: en
 postcolonial-reading-gatsby:
 - slug: why-gatsby-flopped-first
@@ -94975,12 +95169,6 @@ trauma-theory-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-26.webp
   lang: en
-- slug: new-historicist-gatsby
-  title: A New Historicist Reading of Gatsby
-  url: /2027/09/06/new-historicist-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-92.webp
-  lang: en
 disability-studies-gatsby:
 - slug: ecocritical-reading-gatsby
   title: An Ecocritical Reading of Great Gatsby
@@ -95000,11 +95188,11 @@ disability-studies-gatsby:
   category: leisure
   image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: trauma-theory-great-gatsby
-  title: Trauma Theory and The Great Gatsby
-  url: /2027/12/06/trauma-theory-great-gatsby/
+- slug: gatsby-dialogue-technique
+  title: Dialogue and Speech in The Great Gatsby
+  url: /2026/05/04/gatsby-dialogue-technique/
   category: leisure
-  image: /assets/images/blog/blog-55.webp
+  image: /assets/images/blog/blog-42.webp
   lang: en
 biographical-criticism-gatsby:
 - slug: gatsby-1925-publication
@@ -95050,11 +95238,11 @@ archetypal-criticism-gatsby:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
-- slug: gatsby-and-nick-friendship
-  title: 'Gatsby and Nick: The Central Friendship'
-  url: /2023/11/13/gatsby-and-nick-friendship/
+- slug: gatsby-and-horatio-alger
+  title: Gatsby and the Horatio Alger Myth
+  url: /2028/11/13/gatsby-and-horatio-alger/
   category: leisure
-  image: /assets/images/blog/blog-25.webp
+  image: /assets/images/blog/blog-78.webp
   lang: en
 moral-criticism-great-gatsby:
 - slug: narratology-great-gatsby
@@ -95163,6 +95351,12 @@ affect-theory-gatsby:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: gatsby-first-line-explained
+  title: The First Line of The Great Gatsby Explained
+  url: /2029/01/08/gatsby-first-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 - slug: postmodern-reading-gatsby
   title: Postmodern Readings of The Great Gatsby
   url: /2028/02/14/postmodern-reading-gatsby/
@@ -95174,12 +95368,6 @@ affect-theory-gatsby:
   url: /2027/09/27/deconstruction-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-114.webp
-  lang: en
-- slug: gatsby-unreliable-narrator
-  title: The Unreliable Narrator in The Great Gatsby
-  url: /2026/01/26/gatsby-unreliable-narrator/
-  category: leisure
-  image: /assets/images/blog/blog-100.webp
   lang: en
 space-place-theory-gatsby:
 - slug: trauma-theory-great-gatsby
@@ -95481,12 +95669,6 @@ most-defensible-gatsby-reading:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
-- slug: gatsby-vs-jay-z-reading
-  title: Gatsby vs Jay-Z's Reading of Gatsby
-  url: /2028/07/24/gatsby-vs-jay-z-reading/
-  category: leisure
-  image: /assets/images/blog/blog-74.webp
-  lang: en
 gatsby-vs-tender-is-the-night:
 - slug: gatsby-vs-this-side-of-paradise
   title: The Great Gatsby vs This Side of Paradise
@@ -95575,17 +95757,17 @@ gatsby-vs-death-of-a-salesman:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+- slug: trauma-theory-great-gatsby
+  title: Trauma Theory and The Great Gatsby
+  url: /2027/12/06/trauma-theory-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
 - slug: gatsby-freudian-desire
   title: Gatsby's Desire Through a Freudian Lens
   url: /2027/08/30/gatsby-freudian-desire/
   category: leisure
   image: /assets/images/blog/blog-31.webp
-  lang: en
-- slug: gatsby-vs-american-tragedy
-  title: Gatsby vs An American Tragedy
-  url: /2028/06/19/gatsby-vs-american-tragedy/
-  category: leisure
-  image: /assets/images/blog/blog-37.webp
   lang: en
 gatsby-vs-sun-also-rises:
 - slug: gatsby-vs-grapes-of-wrath
@@ -95613,6 +95795,12 @@ gatsby-vs-sun-also-rises:
   image: /assets/images/blog/blog-81.webp
   lang: en
 gatsby-vs-catcher-in-the-rye:
+- slug: gatsby-reserving-judgments-quote
+  title: Reserving Judgments Quote Analyzed
+  url: /2029/03/05/gatsby-reserving-judgments-quote/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
 - slug: nick-carraway-moral-center
   title: 'Nick Carraway: The Moral Center Question'
   url: /2023/06/19/nick-carraway-moral-center/
@@ -95630,12 +95818,6 @@ gatsby-vs-catcher-in-the-rye:
   url: /2027/10/18/is-nick-carraway-queer-coded/
   category: leisure
   image: /assets/images/blog/blog-45.webp
-  lang: en
-- slug: gatsby-unreliable-narrator
-  title: The Unreliable Narrator in The Great Gatsby
-  url: /2026/01/26/gatsby-unreliable-narrator/
-  category: leisure
-  image: /assets/images/blog/blog-100.webp
   lang: en
 - slug: gatsby-vs-heart-of-darkness
   title: 'Gatsby vs Heart of Darkness: Two Witnesses'
@@ -95656,17 +95838,17 @@ gatsby-vs-grapes-of-wrath:
   category: leisure
   image: /assets/images/blog/blog-37.webp
   lang: en
+- slug: gatsby-decline-empire-novel
+  title: Gatsby and the Decline-of-Empire Novel
+  url: /2028/12/11/gatsby-decline-empire-novel/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 - slug: gatsby-vs-babbitt
   title: Gatsby vs Babbitt by Sinclair Lewis
   url: /2028/06/26/gatsby-vs-babbitt/
   category: leisure
   image: /assets/images/blog/blog-36.webp
-  lang: en
-- slug: most-defensible-gatsby-reading
-  title: The Most Defensible Reading of Gatsby
-  url: /2028/04/24/most-defensible-gatsby-reading/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
   lang: en
 gatsby-vs-american-tragedy:
 - slug: gatsby-american-dream-novels
@@ -95700,6 +95882,12 @@ gatsby-vs-babbitt:
   category: leisure
   image: /assets/images/blog/blog-50.webp
   lang: en
+- slug: gatsby-contemporary-wealth-fiction
+  title: Gatsby and Contemporary Wealth Fiction
+  url: /2028/12/18/gatsby-contemporary-wealth-fiction/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
 - slug: gatsby-vs-grapes-of-wrath
   title: Gatsby vs The Grapes of Wrath
   url: /2028/06/12/gatsby-vs-grapes-of-wrath/
@@ -95711,12 +95899,6 @@ gatsby-vs-babbitt:
   url: /2028/06/19/gatsby-vs-american-tragedy/
   category: leisure
   image: /assets/images/blog/blog-37.webp
-  lang: en
-- slug: gatsby-lyricism
-  title: Lyricism and the Poetic Line in Gatsby
-  url: /2026/07/27/gatsby-lyricism/
-  category: leisure
-  image: /assets/images/blog/blog-81.webp
   lang: en
 gatsby-vs-age-of-innocence:
 - slug: gatsby-beginnings-endings-craft
@@ -95850,6 +96032,12 @@ gatsby-tragic-hero-tradition:
   category: leisure
   image: /assets/images/blog/blog-37.webp
   lang: en
+- slug: gatsby-foul-dust-quote
+  title: The Foul Dust Quote Analyzed
+  url: /2029/03/19/gatsby-foul-dust-quote/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 - slug: gatsby-and-greek-tragedy
   title: Gatsby and Greek Tragedy
   url: /2028/10/02/gatsby-and-greek-tragedy/
@@ -95862,18 +96050,18 @@ gatsby-tragic-hero-tradition:
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: gatsby-modernist-fiction
-  title: Gatsby and Modernist American Fiction
-  url: /2028/08/21/gatsby-modernist-fiction/
-  category: leisure
-  image: /assets/images/blog/blog-39.webp
-  lang: en
 nick-witness-narrator-tradition:
 - slug: is-nick-carraway-queer-coded
   title: Is Nick Carraway Queer-Coded? The Textual Case
   url: /2027/10/18/is-nick-carraway-queer-coded/
   category: leisure
   image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: gatsby-reserving-judgments-quote
+  title: Reserving Judgments Quote Analyzed
+  url: /2029/03/05/gatsby-reserving-judgments-quote/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
   lang: en
 - slug: gatsby-unreliable-narrator
   title: The Unreliable Narrator in The Great Gatsby
@@ -95886,12 +96074,6 @@ nick-witness-narrator-tradition:
   url: /2026/01/19/gatsby-first-person-choice/
   category: leisure
   image: /assets/images/blog/blog-102.webp
-  lang: en
-- slug: nick-carraway-reliable-narrator
-  title: 'Nick Carraway: Reliable or Unreliable Narrator?'
-  url: /2023/06/12/nick-carraway-reliable-narrator/
-  category: leisure
-  image: /assets/images/blog/blog-110.webp
   lang: en
 gatsby-modernist-fiction:
 - slug: gatsby-modernist-technique
@@ -95993,11 +96175,11 @@ daisy-femme-fatale-tradition:
   category: leisure
   image: /assets/images/blog/blog-37.webp
   lang: en
-- slug: gatsby-misunderstood-characters
-  title: The Most Misunderstood Gatsby Characters
-  url: /2024/04/08/gatsby-misunderstood-characters/
+- slug: gatsby-voice-full-of-money-quote
+  title: Her Voice Is Full of Money Explained
+  url: /2029/02/05/gatsby-voice-full-of-money-quote/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-65.webp
   lang: en
 gatsby-party-novel-tradition:
 - slug: ecocritical-reading-gatsby
@@ -96005,6 +96187,12 @@ gatsby-party-novel-tradition:
   url: /2027/10/25/ecocritical-reading-gatsby/
   category: leisure
   image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: gatsby-metaphor-simile
+  title: Metaphor and Simile in The Great Gatsby
+  url: /2026/03/09/gatsby-metaphor-simile/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
   lang: en
 - slug: spectacle-theory-gatsby
   title: Commodity and Spectacle Theory in Gatsby
@@ -96017,12 +96205,6 @@ gatsby-party-novel-tradition:
   url: /2025/05/26/gatsby-parties-symbol/
   category: leisure
   image: /assets/images/blog/blog-92.webp
-  lang: en
-- slug: gatsby-imagery-technique
-  title: Imagery and Sensory Detail in Gatsby
-  url: /2026/03/02/gatsby-imagery-technique/
-  category: leisure
-  image: /assets/images/blog/blog-105.webp
   lang: en
 gatsby-doomed-romantic-hero:
 - slug: jay-gatsby-idealist-or-criminal
@@ -96062,6 +96244,12 @@ gatsby-and-greek-tragedy:
   category: leisure
   image: /assets/images/blog/blog-49.webp
   lang: en
+- slug: gatsby-smile-passage
+  title: Gatsby's Smile Passage Analyzed
+  url: /2029/02/19/gatsby-smile-passage/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
+  lang: en
 - slug: gatsby-self-made-man-literature
   title: Gatsby and the Self-Made Man in Literature
   url: /2028/09/04/gatsby-self-made-man-literature/
@@ -96073,12 +96261,6 @@ gatsby-and-greek-tragedy:
   url: /2022/06/20/great-gatsby-misreadings-corrected/
   category: leisure
   image: /assets/images/blog/blog-50.webp
-  lang: en
-- slug: spectacle-theory-gatsby
-  title: Commodity and Spectacle Theory in Gatsby
-  url: /2028/01/24/spectacle-theory-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-32.webp
   lang: en
 gatsby-bildungsroman-question:
 - slug: nick-carraway-moral-center
@@ -96124,11 +96306,11 @@ gatsby-american-pastoral:
   category: leisure
   image: /assets/images/blog/blog-15.webp
   lang: en
-- slug: great-gatsby-themes-overview
-  title: 'The Great Gatsby Themes: The Complete Overview'
-  url: /2022/01/31/great-gatsby-themes-overview/
+- slug: gatsby-boats-against-current
+  title: 'Boats Against the Current: The Final Image'
+  url: /2029/01/15/gatsby-boats-against-current/
   category: leisure
-  image: /assets/images/blog/blog-52.webp
+  image: /assets/images/blog/blog-30.webp
   lang: en
 fitzgerald-vs-hemingway-style:
 - slug: gatsby-hyperbole-excess
@@ -96143,15 +96325,765 @@ fitzgerald-vs-hemingway-style:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: gatsby-orgastic-future-quote
+  title: 'An Orgastic Future: The Word Choice Debate'
+  url: /2029/03/26/gatsby-orgastic-future-quote/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
+  lang: en
 - slug: gatsby-beginnings-endings-craft
   title: Beginnings and Endings as Craft in Gatsby
   url: /2026/08/31/gatsby-beginnings-endings-craft/
   category: leisure
   image: /assets/images/blog/blog-50.webp
   lang: en
+fitzgerald-vs-faulkner:
+- slug: gatsby-and-horatio-alger
+  title: Gatsby and the Horatio Alger Myth
+  url: /2028/11/13/gatsby-and-horatio-alger/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: why-gatsby-outlasted
+  title: Why Gatsby Outlasted Its Contemporaries
+  url: /2028/12/04/why-gatsby-outlasted/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: gatsby-and-the-waste-land
+  title: Gatsby and T. S. Eliot's The Waste Land
+  url: /2028/11/06/gatsby-and-the-waste-land/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: gatsby-novel-vs-films
+  title: Gatsby Compared to Its Film Adaptations
+  url: /2028/11/27/gatsby-novel-vs-films/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+gatsby-and-the-waste-land:
+- slug: fitzgerald-vs-faulkner
+  title: Fitzgerald vs Faulkner on the American Dream
+  url: /2028/10/30/fitzgerald-vs-faulkner/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: gatsby-canon-high-school
+  title: Gatsby in the Canon of High School Reading
+  url: /2028/11/20/gatsby-canon-high-school/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: why-gatsby-outlasted
+  title: Why Gatsby Outlasted Its Contemporaries
+  url: /2028/12/04/why-gatsby-outlasted/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: gatsby-modernist-fiction
+  title: Gatsby and Modernist American Fiction
+  url: /2028/08/21/gatsby-modernist-fiction/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+gatsby-and-horatio-alger:
+- slug: fitzgerald-vs-faulkner
+  title: Fitzgerald vs Faulkner on the American Dream
+  url: /2028/10/30/fitzgerald-vs-faulkner/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: why-gatsby-outlasted
+  title: Why Gatsby Outlasted Its Contemporaries
+  url: /2028/12/04/why-gatsby-outlasted/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: self-made-man-myth-gatsby
+  title: The Self-Made Man Myth in The Great Gatsby
+  url: /2025/01/13/self-made-man-myth-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-novel-vs-films
+  title: Gatsby Compared to Its Film Adaptations
+  url: /2028/11/27/gatsby-novel-vs-films/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+gatsby-canon-high-school:
+- slug: why-gatsby-outlasted
+  title: Why Gatsby Outlasted Its Contemporaries
+  url: /2028/12/04/why-gatsby-outlasted/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: deconstruction-great-gatsby
+  title: A Deconstructionist Reading of Gatsby
+  url: /2027/09/27/deconstruction-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: new-historicist-gatsby
+  title: A New Historicist Reading of Gatsby
+  url: /2027/09/06/new-historicist-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: queer-reading-great-gatsby
+  title: A Queer Reading of The Great Gatsby
+  url: /2027/10/11/queer-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+gatsby-novel-vs-films:
+- slug: gatsby-cast-of-liars
+  title: The Great Gatsby's Cast of Liars
+  url: /2024/03/18/gatsby-cast-of-liars/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: gatsby-and-nick-friendship
+  title: 'Gatsby and Nick: The Central Friendship'
+  url: /2023/11/13/gatsby-and-nick-friendship/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: gatsby-and-horatio-alger
+  title: Gatsby and the Horatio Alger Myth
+  url: /2028/11/13/gatsby-and-horatio-alger/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: fitzgerald-vs-faulkner
+  title: Fitzgerald vs Faulkner on the American Dream
+  url: /2028/10/30/fitzgerald-vs-faulkner/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+why-gatsby-outlasted:
+- slug: gatsby-canon-high-school
+  title: Gatsby in the Canon of High School Reading
+  url: /2028/11/20/gatsby-canon-high-school/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: gatsby-and-horatio-alger
+  title: Gatsby and the Horatio Alger Myth
+  url: /2028/11/13/gatsby-and-horatio-alger/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: fitzgerald-vs-faulkner
+  title: Fitzgerald vs Faulkner on the American Dream
+  url: /2028/10/30/fitzgerald-vs-faulkner/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: gatsby-vs-jay-z-reading
+  title: Gatsby vs Jay-Z's Reading of Gatsby
+  url: /2028/07/24/gatsby-vs-jay-z-reading/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+gatsby-decline-empire-novel:
+- slug: gatsby-irony
+  title: 'Irony in The Great Gatsby: The Novel''s Basic Mode'
+  url: /2026/03/30/gatsby-irony/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: gatsby-vs-grapes-of-wrath
+  title: Gatsby vs The Grapes of Wrath
+  url: /2028/06/12/gatsby-vs-grapes-of-wrath/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: gatsby-beginnings-endings-craft
+  title: Beginnings and Endings as Craft in Gatsby
+  url: /2026/08/31/gatsby-beginnings-endings-craft/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-contemporary-wealth-fiction
+  title: Gatsby and Contemporary Wealth Fiction
+  url: /2028/12/18/gatsby-contemporary-wealth-fiction/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+gatsby-contemporary-wealth-fiction:
 - slug: gatsby-lyricism
   title: Lyricism and the Poetic Line in Gatsby
   url: /2026/07/27/gatsby-lyricism/
   category: leisure
   image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: gatsby-beginnings-endings-craft
+  title: Beginnings and Endings as Craft in Gatsby
+  url: /2026/08/31/gatsby-beginnings-endings-craft/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-critical-history
+  title: How Critics Have Read Gatsby Over Time
+  url: /2028/02/28/gatsby-critical-history/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: gatsby-gaps-ellipses
+  title: Gaps, Ellipses, and the Unsaid in Gatsby
+  url: /2026/08/17/gatsby-gaps-ellipses/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+what-gatsby-borrowed:
+- slug: gatsby-critical-history
+  title: How Critics Have Read Gatsby Over Time
+  url: /2028/02/28/gatsby-critical-history/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: gatsby-lyricism
+  title: Lyricism and the Poetic Line in Gatsby
+  url: /2026/07/27/gatsby-lyricism/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: gatsby-modernist-technique
+  title: Modernist Technique in The Great Gatsby
+  url: /2026/08/03/gatsby-modernist-technique/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-last-line-explained:
+- slug: gatsby-first-line-explained
+  title: The First Line of The Great Gatsby Explained
+  url: /2029/01/08/gatsby-first-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-boats-against-current
+  title: 'Boats Against the Current: The Final Image'
+  url: /2029/01/15/gatsby-boats-against-current/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: gatsby-lyricism
+  title: Lyricism and the Poetic Line in Gatsby
+  url: /2026/07/27/gatsby-lyricism/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: great-gatsby-genre-form-style
+  title: 'The Great Gatsby: Genre, Form, and Style'
+  url: /2022/03/21/great-gatsby-genre-form-style/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+gatsby-first-line-explained:
+- slug: gatsby-last-line-explained
+  title: The Last Line of The Great Gatsby Explained
+  url: /2029/01/01/gatsby-last-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-unreliable-narrator
+  title: The Unreliable Narrator in The Great Gatsby
+  url: /2026/01/26/gatsby-unreliable-narrator/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: great-gatsby-nick-thirtieth-birthday
+  title: 'Great Gatsby: Nick''s Thirtieth Birthday Moment'
+  url: /2023/02/20/great-gatsby-nick-thirtieth-birthday/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: structuralist-reading-gatsby
+  title: A Structuralist Reading of The Great Gatsby
+  url: /2027/11/01/structuralist-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+gatsby-boats-against-current:
+- slug: gatsby-last-line-explained
+  title: The Last Line of The Great Gatsby Explained
+  url: /2029/01/01/gatsby-last-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-best-quotes-chapter-9
+  title: The Best Quotes in Chapter 9 Explained
+  url: /2029/05/14/gatsby-best-quotes-chapter-9/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: gatsby-so-we-beat-on
+  title: 'So We Beat On: Closing Paragraph Analyzed'
+  url: /2029/01/22/gatsby-so-we-beat-on/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: gatsby-party-novel-tradition
+  title: Gatsby and the Great American Party Novel
+  url: /2028/09/18/gatsby-party-novel-tradition/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+gatsby-so-we-beat-on:
+- slug: gatsby-cant-repeat-past-quote
+  title: Can't Repeat the Past? Quote Analyzed
+  url: /2029/02/12/gatsby-cant-repeat-past-quote/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: great-gatsby-misreadings-corrected
+  title: 'The Great Gatsby: Everything Students Get Wrong'
+  url: /2022/06/20/great-gatsby-misreadings-corrected/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-and-greek-tragedy
+  title: Gatsby and Greek Tragedy
+  url: /2028/10/02/gatsby-and-greek-tragedy/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: gatsby-boats-against-current
+  title: 'Boats Against the Current: The Final Image'
+  url: /2029/01/15/gatsby-boats-against-current/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+gatsby-green-light-quote:
+- slug: gatsby-single-green-light
+  title: 'A Single Green Light: Imagery Unpacked'
+  url: /2029/04/02/gatsby-single-green-light/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: great-gatsby-chapter-5-analysis
+  title: 'Great Gatsby Chapter 5: Summary and Analysis'
+  url: /2022/09/19/great-gatsby-chapter-5-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: color-green-great-gatsby
+  title: The Color Green in The Great Gatsby
+  url: /2025/06/02/color-green-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: great-gatsby-chapter-3-first-party
+  title: 'Great Gatsby Chapter 3: Gatsby''s First Party'
+  url: /2022/08/15/great-gatsby-chapter-3-first-party/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+gatsby-voice-full-of-money-quote:
+- slug: gatsby-careless-people-quote
+  title: The Careless People Quote Explained
+  url: /2029/02/26/gatsby-careless-people-quote/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: gatsby-first-line-explained
+  title: The First Line of The Great Gatsby Explained
+  url: /2029/01/08/gatsby-first-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-last-line-explained
+  title: The Last Line of The Great Gatsby Explained
+  url: /2029/01/01/gatsby-last-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-cant-repeat-past-quote
+  title: Can't Repeat the Past? Quote Analyzed
+  url: /2029/02/12/gatsby-cant-repeat-past-quote/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+gatsby-cant-repeat-past-quote:
+- slug: gatsby-foul-dust-quote
+  title: The Foul Dust Quote Analyzed
+  url: /2029/03/19/gatsby-foul-dust-quote/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: gatsby-repeat-the-past
+  title: Can You Repeat the Past in The Great Gatsby?
+  url: /2024/06/24/gatsby-repeat-the-past/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: gatsby-smile-passage
+  title: Gatsby's Smile Passage Analyzed
+  url: /2029/02/19/gatsby-smile-passage/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: gatsby-freudian-desire
+  title: Gatsby's Desire Through a Freudian Lens
+  url: /2027/08/30/gatsby-freudian-desire/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+gatsby-smile-passage:
+- slug: gatsby-foul-dust-quote
+  title: The Foul Dust Quote Analyzed
+  url: /2029/03/19/gatsby-foul-dust-quote/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: gatsby-cant-repeat-past-quote
+  title: Can't Repeat the Past? Quote Analyzed
+  url: /2029/02/12/gatsby-cant-repeat-past-quote/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: gatsby-and-greek-tragedy
+  title: Gatsby and Greek Tragedy
+  url: /2028/10/02/gatsby-and-greek-tragedy/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: gatsby-vagueness-mystery
+  title: Vagueness and Mystery as Technique in Gatsby
+  url: /2026/10/05/gatsby-vagueness-mystery/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+gatsby-careless-people-quote:
+- slug: gatsby-voice-full-of-money-quote
+  title: Her Voice Is Full of Money Explained
+  url: /2029/02/05/gatsby-voice-full-of-money-quote/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: carelessness-great-gatsby
+  title: Carelessness and Consequence in Gatsby
+  url: /2024/07/29/carelessness-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-flowers-daisy-symbol
+  title: Flowers and the Name Daisy in The Great Gatsby
+  url: /2025/09/01/gatsby-flowers-daisy-symbol/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: gatsby-cant-repeat-past-quote
+  title: Can't Repeat the Past? Quote Analyzed
+  url: /2029/02/12/gatsby-cant-repeat-past-quote/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+gatsby-reserving-judgments-quote:
+- slug: gatsby-foul-dust-quote
+  title: The Foul Dust Quote Analyzed
+  url: /2029/03/19/gatsby-foul-dust-quote/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: gatsby-unreliable-narrator
+  title: The Unreliable Narrator in The Great Gatsby
+  url: /2026/01/26/gatsby-unreliable-narrator/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: gatsby-first-line-explained
+  title: The First Line of The Great Gatsby Explained
+  url: /2029/01/08/gatsby-first-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-vs-catcher-in-the-rye
+  title: Gatsby vs The Catcher in the Rye
+  url: /2028/06/05/gatsby-vs-catcher-in-the-rye/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+gatsby-fresh-green-breast:
+- slug: color-green-great-gatsby
+  title: The Color Green in The Great Gatsby
+  url: /2025/06/02/color-green-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-american-dream-corruption
+  title: The Corruption of the American Dream
+  url: /2024/04/29/gatsby-american-dream-corruption/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-quotes-american-dream
+  title: Key Quotes About the American Dream
+  url: /2029/05/21/gatsby-quotes-american-dream/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: color-blue-great-gatsby
+  title: The Color Blue in The Great Gatsby
+  url: /2025/06/23/color-blue-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+gatsby-foul-dust-quote:
+- slug: gatsby-cant-repeat-past-quote
+  title: Can't Repeat the Past? Quote Analyzed
+  url: /2029/02/12/gatsby-cant-repeat-past-quote/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: gatsby-smile-passage
+  title: Gatsby's Smile Passage Analyzed
+  url: /2029/02/19/gatsby-smile-passage/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: gatsby-reserving-judgments-quote
+  title: Reserving Judgments Quote Analyzed
+  url: /2029/03/05/gatsby-reserving-judgments-quote/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: reader-response-gatsby
+  title: A Reader-Response Reading of Gatsby
+  url: /2027/09/13/reader-response-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+gatsby-orgastic-future-quote:
+- slug: gatsby-diction-word-choice
+  title: Diction and Word Choice in The Great Gatsby
+  url: /2026/02/16/gatsby-diction-word-choice/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: gatsby-repetition-technique
+  title: Repetition and Refrain in The Great Gatsby
+  url: /2026/06/01/gatsby-repetition-technique/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: gatsby-last-line-explained
+  title: The Last Line of The Great Gatsby Explained
+  url: /2029/01/01/gatsby-last-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-modernist-technique
+  title: Modernist Technique in The Great Gatsby
+  url: /2026/08/03/gatsby-modernist-technique/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-single-green-light:
+- slug: gatsby-green-light-quote
+  title: The Green Light Quote Analyzed
+  url: /2029/01/29/gatsby-green-light-quote/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: color-green-great-gatsby
+  title: The Color Green in The Great Gatsby
+  url: /2025/06/02/color-green-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-best-quotes-chapter-1
+  title: The Best Quotes in Chapter 1 Explained
+  url: /2029/04/30/gatsby-best-quotes-chapter-1/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: gatsby-symbolism-technique
+  title: Symbolism as a Technique in The Great Gatsby
+  url: /2026/03/16/gatsby-symbolism-technique/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+eckleburg-description-quote:
+- slug: great-gatsby-chapter-2-analysis
+  title: 'Great Gatsby Chapter 2: Summary and Analysis'
+  url: /2022/07/18/great-gatsby-chapter-2-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: great-gatsby-chapter-2-valley-of-ashes
+  title: 'Great Gatsby Chapter 2: The Valley of Ashes Scene'
+  url: /2022/07/25/great-gatsby-chapter-2-valley-of-ashes/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: eyes-of-tj-eckleburg
+  title: The Eyes of Doctor T. J. Eckleburg
+  url: /2025/04/21/eyes-of-tj-eckleburg/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: gatsby-fresh-green-breast
+  title: The Fresh Green Breast of the New World
+  url: /2029/03/12/gatsby-fresh-green-breast/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+gatsby-rotten-crowd-quote:
+- slug: great-gatsby-last-conversation
+  title: 'Great Gatsby: Nick and Gatsby''s Last Conversation'
+  url: /2023/04/10/great-gatsby-last-conversation/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: nick-and-gatsby-foils
+  title: 'Nick and Gatsby as Foils: The Watcher and the Leaper'
+  url: /2023/12/25/nick-and-gatsby-foils/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-character-arcs
+  title: Character Arcs Across The Great Gatsby
+  url: /2024/03/11/gatsby-character-arcs/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: nick-and-jordan-romance
+  title: 'Nick and Jordan: The Subplot Romance'
+  url: /2023/12/11/nick-and-jordan-romance/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+gatsby-beautiful-little-fool:
+- slug: great-gatsby-chapter-6-daisy-party
+  title: 'Great Gatsby Chapter 6: Daisy at the Party'
+  url: /2022/10/24/great-gatsby-chapter-6-daisy-party/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: carelessness-great-gatsby
+  title: Carelessness and Consequence in Gatsby
+  url: /2024/07/29/carelessness-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-voice-full-of-money-quote
+  title: Her Voice Is Full of Money Explained
+  url: /2029/02/05/gatsby-voice-full-of-money-quote/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: gatsby-best-quotes-chapter-1
+  title: The Best Quotes in Chapter 1 Explained
+  url: /2029/04/30/gatsby-best-quotes-chapter-1/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+gatsby-best-quotes-chapter-1:
+- slug: gatsby-best-quotes-chapter-5
+  title: The Best Quotes in Chapter 5 Explained
+  url: /2029/05/07/gatsby-best-quotes-chapter-5/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: gatsby-best-quotes-chapter-9
+  title: The Best Quotes in Chapter 9 Explained
+  url: /2029/05/14/gatsby-best-quotes-chapter-9/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: gatsby-quotes-american-dream
+  title: Key Quotes About the American Dream
+  url: /2029/05/21/gatsby-quotes-american-dream/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: great-gatsby-motifs-inventory
+  title: 'The Great Gatsby Motifs: The Complete Inventory'
+  url: /2022/03/28/great-gatsby-motifs-inventory/
+  category: leisure
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+gatsby-best-quotes-chapter-5:
+- slug: gatsby-best-quotes-chapter-1
+  title: The Best Quotes in Chapter 1 Explained
+  url: /2029/04/30/gatsby-best-quotes-chapter-1/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: gatsby-best-quotes-chapter-9
+  title: The Best Quotes in Chapter 9 Explained
+  url: /2029/05/14/gatsby-best-quotes-chapter-9/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: gatsby-quotes-american-dream
+  title: Key Quotes About the American Dream
+  url: /2029/05/21/gatsby-quotes-american-dream/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: great-gatsby-motifs-inventory
+  title: 'The Great Gatsby Motifs: The Complete Inventory'
+  url: /2022/03/28/great-gatsby-motifs-inventory/
+  category: leisure
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+gatsby-best-quotes-chapter-9:
+- slug: gatsby-best-quotes-chapter-5
+  title: The Best Quotes in Chapter 5 Explained
+  url: /2029/05/07/gatsby-best-quotes-chapter-5/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: gatsby-best-quotes-chapter-1
+  title: The Best Quotes in Chapter 1 Explained
+  url: /2029/04/30/gatsby-best-quotes-chapter-1/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: gatsby-quotes-american-dream
+  title: Key Quotes About the American Dream
+  url: /2029/05/21/gatsby-quotes-american-dream/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: great-gatsby-chapter-9-final-page
+  title: 'Great Gatsby Chapter 9: The Final Page Analyzed'
+  url: /2023/01/02/great-gatsby-chapter-9-final-page/
+  category: leisure
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+gatsby-quotes-american-dream:
+- slug: gatsby-american-dream-corruption
+  title: The Corruption of the American Dream
+  url: /2024/04/29/gatsby-american-dream-corruption/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-best-quotes-chapter-9
+  title: The Best Quotes in Chapter 9 Explained
+  url: /2029/05/14/gatsby-best-quotes-chapter-9/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: great-gatsby-themes-overview
+  title: 'The Great Gatsby Themes: The Complete Overview'
+  url: /2022/01/31/great-gatsby-themes-overview/
+  category: leisure
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: gatsby-best-quotes-chapter-1
+  title: The Best Quotes in Chapter 1 Explained
+  url: /2029/04/30/gatsby-best-quotes-chapter-1/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
   lang: en

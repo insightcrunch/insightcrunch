@@ -9,7 +9,7 @@ excerpt: "The pool scene in The Great Gatsby stages the novel's quietest death. 
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 48
 author: "diana-patel"
-last_updated: 2023-02-13
+last_updated: 2026-08-09
 lang: en
 ---
 The pool scene in The Great Gatsby is the quietest death in American fiction, and that quiet is the whole point. Gatsby owns a swimming pool he has not entered once all summer, and he chooses to use it for the first time on the morning he is killed. Nothing about the moment announces itself as a climax. There is no struggle on the page, no last words, barely a ripple. A man floats on an inflatable mattress in still water while the season turns toward autumn around him, and the violence, when it arrives, is reported almost as an afterthought. Reading this passage closely, rather than skating over it as the setting where the plot disposes of its hero, is where the novel rewards a patient eye.

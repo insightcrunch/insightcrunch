@@ -9,7 +9,7 @@ excerpt: "Nick and Gatsby's last conversation in Chapter 8 ends on a single shou
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
 author: "emily-reed"
-last_updated: 2023-04-10
+last_updated: 2026-08-09
 lang: en
 ---
 Nick and Gatsby's last conversation is the quietest scene in a loud book, and it carries more moral weight than any party, confrontation, or car crash that precedes it. It happens in the grey hour after the worst night of the summer, when Myrtle Wilson is already dead, Daisy has already retreated behind Tom, and the dream Gatsby built his life around has already failed without his quite admitting it. Two men sit in a vast, ransacked house, and one of them tells the other the truth at last. Then the visitor leaves for work, turns on the lawn, and shouts a single sentence that the narrator will spend the rest of his life being glad he said. That sentence is the only compliment Nick Carraway ever pays the man he watched all summer, and it is also their final exchange, because Gatsby is shot dead in his pool before the afternoon is out. Read closely, this short morning scene is where the novel hands down its verdict.

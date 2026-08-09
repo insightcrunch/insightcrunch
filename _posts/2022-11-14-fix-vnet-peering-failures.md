@@ -9,7 +9,7 @@ excerpt: "Fix Azure VNet peering failures by root cause: Disconnected state, add
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
 author: "alex-cunningham"
-last_updated: 2022-11-14
+last_updated: 2026-08-09
 lang: en
 ---
 A VNet peering that will not connect, or that connects and still passes no traffic, is one of the most misread failures in Azure networking, because the symptom and the cause almost never live in the same place. You create the link, the portal shows **Disconnected**, and the instinct is to delete the whole thing and start over. Or the two virtual networks show **Connected** on both sides, every blade looks green, and yet a virtual machine in one network cannot reach a virtual machine in the other. The reader who treats either of these as a single bug burns an afternoon recreating resources that were never broken. The reader who knows the four behaviors that actually produce a peering failure finds the cause in minutes and changes exactly one setting.

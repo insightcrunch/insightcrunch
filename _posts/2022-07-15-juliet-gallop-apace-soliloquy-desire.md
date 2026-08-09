@@ -9,7 +9,7 @@ excerpt: "Juliet's gallop apace soliloquy is a frank epithalamium in which a thi
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2022-07-15
+last_updated: 2026-08-09
 lang: en
 ---
 A girl stands alone on a stage and orders the universe to hurry. "Gallop apace, you fiery-footed steeds," she begins, and the command is addressed not to a servant or a horse but to the horses of the sun, the team that drags daylight across the sky. She wants them gone. She wants the light whipped down below the western horizon so that darkness can arrive and bring her husband with it. Within thirty-one lines she has invoked a reckless charioteer out of Greek myth, reversed the entire moral weather of the play by making blackness her ally and the sun her enemy, and named, without flinching, what she is waiting for: her wedding night. The speech that opens the second scene of the third act is the most sexually candid passage Shakespeare ever wrote for a young woman, and for three centuries the theatre cut it, the editors fretted over it, and the popular imagination simply pretended it was not there.

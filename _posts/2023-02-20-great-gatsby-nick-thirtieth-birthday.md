@@ -9,7 +9,7 @@ excerpt: "Nick's thirtieth birthday slips past almost unnoticed in Chapter 7 of 
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 49
 author: "diana-patel"
-last_updated: 2023-02-20
+last_updated: 2026-08-09
 lang: en
 ---
 There is a line in the seventh chapter of The Great Gatsby that most readers pass over without a second thought, and Nick's thirtieth birthday is the quietest catastrophe in a chapter full of louder ones. It arrives in a single sentence, spoken aloud in a hot car on the drive back from the Plaza Hotel, and Fitzgerald gives it no fanfare, no chapter break, no white space to mark its weight. The reader who is tracking the affair, the confrontation, and the coming wreck almost never registers that the narrator has just crossed a threshold of his own. That near invisibility is the point. The birthday is buried on purpose, and learning to read why is one of the cleanest demonstrations of how this novel rewards attention to the line rather than the plot.

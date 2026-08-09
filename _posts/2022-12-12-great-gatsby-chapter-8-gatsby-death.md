@@ -9,7 +9,7 @@ excerpt: "Gatsby's death in Chapter 8 is a quiet killing in his own pool. A clos
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 49
 author: "rachel-foster"
-last_updated: 2022-12-12
+last_updated: 2026-08-09
 lang: en
 ---
 Gatsby's death in Chapter 8 of *The Great Gatsby* is the strangest kind of climax, because by the time it happens the thing it should resolve has already been lost. The man is shot in his own swimming pool on the first morning he has ever bothered to use it, while waiting for a telephone call that the reader already suspects will never come. Fitzgerald does not stage the killing as a thunderclap. He stages it as a slow settling, a body drifting on a mattress while leaves trace a thin red circle in the water, and only afterward does the gardener find a second corpse in the grass. Reading this chapter well means resisting the urge to treat the murder as the high point of the book, because Fitzgerald has deliberately drained it of suspense. The dream died in the heat of the Plaza suite one chapter earlier. What dies in the pool is only the dreamer, and the gap between those two deaths is where the meaning of the scene lives.

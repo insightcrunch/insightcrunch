@@ -9,7 +9,7 @@ excerpt: "An Azure deployment conflict error means another operation already own
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 60
 author: "alex-cunningham"
-last_updated: 2022-10-17
+last_updated: 2026-08-09
 lang: en
 ---
 An Azure deployment conflict error is the platform telling you that the change you just submitted cannot proceed because something else already owns the resource you are touching. The wording varies. You might see a bare `409 Conflict` returned from the Azure Resource Manager API, a deployment that fails with the message that another operation is in progress, a write that is rejected because a lock forbids it, or a create that fails because the name is already taken or the resource sits in a transitioning state. Whatever the surface text, the underlying meaning is consistent: the control plane has decided that your operation and the current state of the resource cannot both be true at the same moment, so it refuses yours rather than corrupting the resource.

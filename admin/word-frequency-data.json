@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-05T08:42:12Z",
+  "generated": "2026-08-09T07:02:21Z",
   "threshold": 50,
-  "totalPosts": 3769,
-  "flaggedPosts": 3419,
+  "totalPosts": 3807,
+  "flaggedPosts": 3457,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 164.1,
+  "avgTopCount": 163.7,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -65800,6 +65800,688 @@
       ]
     },
     {
+      "filename": "2006-01-01-nubian-pharaohs-who-ruled-egypt.md",
+      "slug": "nubian-pharaohs-who-ruled-egypt",
+      "title": "The Nubian Pharaohs Who Ruled Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8331,
+      "topWord": "kushite",
+      "topCount": 196,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-01-01-nubian-pharaohs-who-ruled-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "kushite",
+          "count": 196
+        },
+        {
+          "word": "egypt",
+          "count": 188
+        },
+        {
+          "word": "egyptian",
+          "count": 162
+        },
+        {
+          "word": "dynasty",
+          "count": 104
+        },
+        {
+          "word": "royal",
+          "count": 79
+        },
+        {
+          "word": "kings",
+          "count": 74
+        },
+        {
+          "word": "bce",
+          "count": 72
+        },
+        {
+          "word": "assyrian",
+          "count": 71
+        },
+        {
+          "word": "twenty",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "kushite",
+          "count": 196
+        },
+        {
+          "word": "egypt",
+          "count": 188
+        },
+        {
+          "word": "egyptian",
+          "count": 162
+        },
+        {
+          "word": "dynasty",
+          "count": 104
+        },
+        {
+          "word": "royal",
+          "count": 79
+        },
+        {
+          "word": "kings",
+          "count": 74
+        },
+        {
+          "word": "bce",
+          "count": 72
+        },
+        {
+          "word": "assyrian",
+          "count": 71
+        },
+        {
+          "word": "twenty",
+          "count": 54
+        },
+        {
+          "word": "fifth",
+          "count": 46
+        },
+        {
+          "word": "kushites",
+          "count": 46
+        },
+        {
+          "word": "kingdom",
+          "count": 44
+        },
+        {
+          "word": "king",
+          "count": 44
+        },
+        {
+          "word": "amun",
+          "count": 42
+        },
+        {
+          "word": "nubian",
+          "count": 38
+        },
+        {
+          "word": "period",
+          "count": 38
+        },
+        {
+          "word": "century",
+          "count": 37
+        },
+        {
+          "word": "piye",
+          "count": 37
+        },
+        {
+          "word": "taharqa",
+          "count": 37
+        },
+        {
+          "word": "thebes",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2006-02-01-egypt-and-kush-history.md",
+      "slug": "egypt-and-kush-history",
+      "title": "Egypt and Kush: A Tangled History",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8794,
+      "topWord": "egyptian",
+      "topCount": 313,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-02-01-egypt-and-kush-history.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 313
+        },
+        {
+          "word": "nubian",
+          "count": 201
+        },
+        {
+          "word": "egypt",
+          "count": 171
+        },
+        {
+          "word": "nubia",
+          "count": 107
+        },
+        {
+          "word": "kingdom",
+          "count": 86
+        },
+        {
+          "word": "royal",
+          "count": 58
+        },
+        {
+          "word": "kush",
+          "count": 57
+        },
+        {
+          "word": "kushite",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 313
+        },
+        {
+          "word": "nubian",
+          "count": 201
+        },
+        {
+          "word": "egypt",
+          "count": 171
+        },
+        {
+          "word": "nubia",
+          "count": 107
+        },
+        {
+          "word": "kingdom",
+          "count": 86
+        },
+        {
+          "word": "royal",
+          "count": 58
+        },
+        {
+          "word": "kush",
+          "count": 57
+        },
+        {
+          "word": "kushite",
+          "count": 51
+        },
+        {
+          "word": "kerma",
+          "count": 45
+        },
+        {
+          "word": "nubians",
+          "count": 38
+        },
+        {
+          "word": "temple",
+          "count": 38
+        },
+        {
+          "word": "kings",
+          "count": 36
+        },
+        {
+          "word": "evidence",
+          "count": 36
+        },
+        {
+          "word": "lower",
+          "count": 35
+        },
+        {
+          "word": "south",
+          "count": 35
+        },
+        {
+          "word": "frontier",
+          "count": 34
+        },
+        {
+          "word": "relationship",
+          "count": 34
+        },
+        {
+          "word": "period",
+          "count": 34
+        },
+        {
+          "word": "goods",
+          "count": 33
+        },
+        {
+          "word": "region",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2006-03-01-gods-wife-of-amun-temple-power.md",
+      "slug": "gods-wife-of-amun-temple-power",
+      "title": "The God's Wife of Amun and Temple Power",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8018,
+      "topWord": "office",
+      "topCount": 203,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-01-gods-wife-of-amun-temple-power.md",
+      "flaggedWords": [
+        {
+          "word": "office",
+          "count": 203
+        },
+        {
+          "word": "god",
+          "count": 169
+        },
+        {
+          "word": "wife",
+          "count": 121
+        },
+        {
+          "word": "egypt",
+          "count": 88
+        },
+        {
+          "word": "royal",
+          "count": 78
+        },
+        {
+          "word": "amun",
+          "count": 76
+        },
+        {
+          "word": "thebes",
+          "count": 68
+        },
+        {
+          "word": "king",
+          "count": 64
+        },
+        {
+          "word": "held",
+          "count": 59
+        },
+        {
+          "word": "kushite",
+          "count": 51
+        },
+        {
+          "word": "temple",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "office",
+          "count": 203
+        },
+        {
+          "word": "god",
+          "count": 169
+        },
+        {
+          "word": "wife",
+          "count": 121
+        },
+        {
+          "word": "egypt",
+          "count": 88
+        },
+        {
+          "word": "royal",
+          "count": 78
+        },
+        {
+          "word": "amun",
+          "count": 76
+        },
+        {
+          "word": "thebes",
+          "count": 68
+        },
+        {
+          "word": "king",
+          "count": 64
+        },
+        {
+          "word": "held",
+          "count": 59
+        },
+        {
+          "word": "kushite",
+          "count": 51
+        },
+        {
+          "word": "temple",
+          "count": 51
+        },
+        {
+          "word": "authority",
+          "count": 50
+        },
+        {
+          "word": "daughter",
+          "count": 50
+        },
+        {
+          "word": "theban",
+          "count": 48
+        },
+        {
+          "word": "political",
+          "count": 45
+        },
+        {
+          "word": "power",
+          "count": 44
+        },
+        {
+          "word": "egyptian",
+          "count": 43
+        },
+        {
+          "word": "period",
+          "count": 42
+        },
+        {
+          "word": "dynasty",
+          "count": 40
+        },
+        {
+          "word": "institution",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "filename": "2006-04-01-libyan-dynasties-divided-egypt.md",
+      "slug": "libyan-dynasties-divided-egypt",
+      "title": "Libyan Dynasties and a Divided Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8312,
+      "topWord": "libyan",
+      "topCount": 202,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-01-libyan-dynasties-divided-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "libyan",
+          "count": 202
+        },
+        {
+          "word": "egyptian",
+          "count": 166
+        },
+        {
+          "word": "period",
+          "count": 114
+        },
+        {
+          "word": "egypt",
+          "count": 111
+        },
+        {
+          "word": "royal",
+          "count": 94
+        },
+        {
+          "word": "delta",
+          "count": 82
+        },
+        {
+          "word": "military",
+          "count": 61
+        },
+        {
+          "word": "kings",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "libyan",
+          "count": 202
+        },
+        {
+          "word": "egyptian",
+          "count": 166
+        },
+        {
+          "word": "period",
+          "count": 114
+        },
+        {
+          "word": "egypt",
+          "count": 111
+        },
+        {
+          "word": "royal",
+          "count": 94
+        },
+        {
+          "word": "delta",
+          "count": 82
+        },
+        {
+          "word": "military",
+          "count": 61
+        },
+        {
+          "word": "kings",
+          "count": 53
+        },
+        {
+          "word": "king",
+          "count": 50
+        },
+        {
+          "word": "twenty",
+          "count": 49
+        },
+        {
+          "word": "dynasty",
+          "count": 45
+        },
+        {
+          "word": "political",
+          "count": 43
+        },
+        {
+          "word": "rulers",
+          "count": 42
+        },
+        {
+          "word": "chief",
+          "count": 39
+        },
+        {
+          "word": "shoshenq",
+          "count": 39
+        },
+        {
+          "word": "dynasties",
+          "count": 39
+        },
+        {
+          "word": "held",
+          "count": 38
+        },
+        {
+          "word": "authority",
+          "count": 38
+        },
+        {
+          "word": "thebes",
+          "count": 36
+        },
+        {
+          "word": "power",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2006-05-01-art-revival-fragmented-egypt.md",
+      "slug": "art-revival-fragmented-egypt",
+      "title": "Art and Revival in a Fragmented Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8639,
+      "topWord": "egyptian",
+      "topCount": 95,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-01-art-revival-fragmented-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 95
+        },
+        {
+          "word": "period",
+          "count": 88
+        },
+        {
+          "word": "royal",
+          "count": 81
+        },
+        {
+          "word": "kushite",
+          "count": 70
+        },
+        {
+          "word": "kingdom",
+          "count": 69
+        },
+        {
+          "word": "temple",
+          "count": 64
+        },
+        {
+          "word": "egypt",
+          "count": 58
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 95
+        },
+        {
+          "word": "period",
+          "count": 88
+        },
+        {
+          "word": "royal",
+          "count": 81
+        },
+        {
+          "word": "kushite",
+          "count": 70
+        },
+        {
+          "word": "kingdom",
+          "count": 69
+        },
+        {
+          "word": "temple",
+          "count": 64
+        },
+        {
+          "word": "egypt",
+          "count": 58
+        },
+        {
+          "word": "era",
+          "count": 45
+        },
+        {
+          "word": "art",
+          "count": 43
+        },
+        {
+          "word": "theban",
+          "count": 37
+        },
+        {
+          "word": "intermediate",
+          "count": 36
+        },
+        {
+          "word": "third",
+          "count": 35
+        },
+        {
+          "word": "statue",
+          "count": 33
+        },
+        {
+          "word": "archaism",
+          "count": 32
+        },
+        {
+          "word": "kings",
+          "count": 31
+        },
+        {
+          "word": "produced",
+          "count": 31
+        },
+        {
+          "word": "bronze",
+          "count": 31
+        },
+        {
+          "word": "sculpture",
+          "count": 31
+        },
+        {
+          "word": "archaizing",
+          "count": 31
+        },
+        {
+          "word": "dynasty",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2006-05-30-case-blue-hitler-summer-1942-caucasus.md",
       "slug": "case-blue-hitler-summer-1942-caucasus",
       "title": "Case Blue: Hitler's Summer 1942 Caucasus",
@@ -65930,6 +66612,140 @@
         {
           "word": "july",
           "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2006-06-01-piye-kushite-conquest-of-egypt.md",
+      "slug": "piye-kushite-conquest-of-egypt",
+      "title": "King Piye and the Kushite Conquest",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8280,
+      "topWord": "piye",
+      "topCount": 216,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-01-piye-kushite-conquest-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "piye",
+          "count": 216
+        },
+        {
+          "word": "egypt",
+          "count": 125
+        },
+        {
+          "word": "egyptian",
+          "count": 115
+        },
+        {
+          "word": "kushite",
+          "count": 112
+        },
+        {
+          "word": "campaign",
+          "count": 103
+        },
+        {
+          "word": "royal",
+          "count": 80
+        },
+        {
+          "word": "stela",
+          "count": 68
+        },
+        {
+          "word": "religious",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "piye",
+          "count": 216
+        },
+        {
+          "word": "egypt",
+          "count": 125
+        },
+        {
+          "word": "egyptian",
+          "count": 115
+        },
+        {
+          "word": "kushite",
+          "count": 112
+        },
+        {
+          "word": "campaign",
+          "count": 103
+        },
+        {
+          "word": "royal",
+          "count": 80
+        },
+        {
+          "word": "stela",
+          "count": 68
+        },
+        {
+          "word": "religious",
+          "count": 66
+        },
+        {
+          "word": "amun",
+          "count": 41
+        },
+        {
+          "word": "rulers",
+          "count": 41
+        },
+        {
+          "word": "tefnakht",
+          "count": 41
+        },
+        {
+          "word": "napata",
+          "count": 39
+        },
+        {
+          "word": "kingdom",
+          "count": 37
+        },
+        {
+          "word": "evidence",
+          "count": 36
+        },
+        {
+          "word": "king",
+          "count": 35
+        },
+        {
+          "word": "memphis",
+          "count": 35
+        },
+        {
+          "word": "nimlot",
+          "count": 35
+        },
+        {
+          "word": "dynasty",
+          "count": 35
+        },
+        {
+          "word": "horses",
+          "count": 34
+        },
+        {
+          "word": "siege",
+          "count": 33
         }
       ]
     },
@@ -66552,6 +67368,136 @@
         {
           "word": "occupied",
           "count": 25
+        }
+      ]
+    },
+    {
+      "filename": "2006-07-01-temples-as-power-centers-egypt.md",
+      "slug": "temples-as-power-centers-egypt",
+      "title": "Temples as Power Centers in Late Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8464,
+      "topWord": "temple",
+      "topCount": 225,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-01-temples-as-power-centers-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "temple",
+          "count": 225
+        },
+        {
+          "word": "royal",
+          "count": 84
+        },
+        {
+          "word": "temples",
+          "count": 74
+        },
+        {
+          "word": "land",
+          "count": 70
+        },
+        {
+          "word": "egyptian",
+          "count": 63
+        },
+        {
+          "word": "institution",
+          "count": 58
+        },
+        {
+          "word": "egypt",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "temple",
+          "count": 225
+        },
+        {
+          "word": "royal",
+          "count": 84
+        },
+        {
+          "word": "temples",
+          "count": 74
+        },
+        {
+          "word": "land",
+          "count": 70
+        },
+        {
+          "word": "egyptian",
+          "count": 63
+        },
+        {
+          "word": "institution",
+          "count": 58
+        },
+        {
+          "word": "egypt",
+          "count": 54
+        },
+        {
+          "word": "estate",
+          "count": 50
+        },
+        {
+          "word": "period",
+          "count": 49
+        },
+        {
+          "word": "held",
+          "count": 47
+        },
+        {
+          "word": "god",
+          "count": 37
+        },
+        {
+          "word": "authority",
+          "count": 37
+        },
+        {
+          "word": "amun",
+          "count": 36
+        },
+        {
+          "word": "economic",
+          "count": 35
+        },
+        {
+          "word": "grain",
+          "count": 35
+        },
+        {
+          "word": "sector",
+          "count": 35
+        },
+        {
+          "word": "institutions",
+          "count": 34
+        },
+        {
+          "word": "political",
+          "count": 33
+        },
+        {
+          "word": "kingdom",
+          "count": 33
+        },
+        {
+          "word": "record",
+          "count": 33
         }
       ]
     },
@@ -67312,6 +68258,140 @@
         {
           "word": "itself",
           "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2006-08-01-third-intermediate-a-dark-age.md",
+      "slug": "third-intermediate-a-dark-age",
+      "title": "Was the Third Intermediate Period a Dark Age?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7711,
+      "topWord": "period",
+      "topCount": 137,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-01-third-intermediate-a-dark-age.md",
+      "flaggedWords": [
+        {
+          "word": "period",
+          "count": 137
+        },
+        {
+          "word": "egypt",
+          "count": 75
+        },
+        {
+          "word": "egyptian",
+          "count": 67
+        },
+        {
+          "word": "royal",
+          "count": 63
+        },
+        {
+          "word": "evidence",
+          "count": 60
+        },
+        {
+          "word": "intermediate",
+          "count": 59
+        },
+        {
+          "word": "dark",
+          "count": 54
+        },
+        {
+          "word": "kingdom",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "period",
+          "count": 137
+        },
+        {
+          "word": "egypt",
+          "count": 75
+        },
+        {
+          "word": "egyptian",
+          "count": 67
+        },
+        {
+          "word": "royal",
+          "count": 63
+        },
+        {
+          "word": "evidence",
+          "count": 60
+        },
+        {
+          "word": "intermediate",
+          "count": 59
+        },
+        {
+          "word": "dark",
+          "count": 54
+        },
+        {
+          "word": "kingdom",
+          "count": 52
+        },
+        {
+          "word": "third",
+          "count": 45
+        },
+        {
+          "word": "material",
+          "count": 44
+        },
+        {
+          "word": "age",
+          "count": 40
+        },
+        {
+          "word": "temple",
+          "count": 39
+        },
+        {
+          "word": "label",
+          "count": 37
+        },
+        {
+          "word": "verdict",
+          "count": 34
+        },
+        {
+          "word": "record",
+          "count": 33
+        },
+        {
+          "word": "texts",
+          "count": 29
+        },
+        {
+          "word": "political",
+          "count": 28
+        },
+        {
+          "word": "kushite",
+          "count": 28
+        },
+        {
+          "word": "decline",
+          "count": 27
+        },
+        {
+          "word": "claim",
+          "count": 26
         }
       ]
     },
@@ -477000,6 +478080,3466 @@
         {
           "word": "vocabulary",
           "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2028-10-30-fitzgerald-vs-faulkner.md",
+      "slug": "fitzgerald-vs-faulkner",
+      "title": "Fitzgerald vs Faulkner on the American Dream",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5094,
+      "topWord": "faulkner",
+      "topCount": 161,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-10-30-fitzgerald-vs-faulkner.md",
+      "flaggedWords": [
+        {
+          "word": "faulkner",
+          "count": 161
+        },
+        {
+          "word": "fitzgerald",
+          "count": 136
+        },
+        {
+          "word": "gatsby",
+          "count": 91
+        }
+      ],
+      "top20": [
+        {
+          "word": "faulkner",
+          "count": 161
+        },
+        {
+          "word": "fitzgerald",
+          "count": 136
+        },
+        {
+          "word": "gatsby",
+          "count": 91
+        },
+        {
+          "word": "writers",
+          "count": 38
+        },
+        {
+          "word": "american",
+          "count": 35
+        },
+        {
+          "word": "history",
+          "count": 34
+        },
+        {
+          "word": "personal",
+          "count": 32
+        },
+        {
+          "word": "novel",
+          "count": 31
+        },
+        {
+          "word": "sutpen",
+          "count": 31
+        },
+        {
+          "word": "clock",
+          "count": 29
+        },
+        {
+          "word": "past",
+          "count": 27
+        },
+        {
+          "word": "comparison",
+          "count": 26
+        },
+        {
+          "word": "difference",
+          "count": 24
+        },
+        {
+          "word": "collective",
+          "count": 23
+        },
+        {
+          "word": "design",
+          "count": 23
+        },
+        {
+          "word": "absalom",
+          "count": 22
+        },
+        {
+          "word": "nick",
+          "count": 22
+        },
+        {
+          "word": "dream",
+          "count": 21
+        },
+        {
+          "word": "self",
+          "count": 21
+        },
+        {
+          "word": "page",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2028-11-06-gatsby-and-the-waste-land.md",
+      "slug": "gatsby-and-the-waste-land",
+      "title": "Gatsby and T. S. Eliot's The Waste Land",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5004,
+      "topWord": "fitzgerald",
+      "topCount": 122,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-11-06-gatsby-and-the-waste-land.md",
+      "flaggedWords": [
+        {
+          "word": "fitzgerald",
+          "count": 122
+        },
+        {
+          "word": "eliot",
+          "count": 112
+        },
+        {
+          "word": "poem",
+          "count": 100
+        },
+        {
+          "word": "novel",
+          "count": 76
+        }
+      ],
+      "top20": [
+        {
+          "word": "fitzgerald",
+          "count": 122
+        },
+        {
+          "word": "eliot",
+          "count": 112
+        },
+        {
+          "word": "poem",
+          "count": 100
+        },
+        {
+          "word": "novel",
+          "count": 76
+        },
+        {
+          "word": "gatsby",
+          "count": 37
+        },
+        {
+          "word": "chapter",
+          "count": 31
+        },
+        {
+          "word": "city",
+          "count": 29
+        },
+        {
+          "word": "waste",
+          "count": 28
+        },
+        {
+          "word": "ash",
+          "count": 28
+        },
+        {
+          "word": "wasteland",
+          "count": 28
+        },
+        {
+          "word": "valley",
+          "count": 26
+        },
+        {
+          "word": "land",
+          "count": 23
+        },
+        {
+          "word": "works",
+          "count": 23
+        },
+        {
+          "word": "reader",
+          "count": 22
+        },
+        {
+          "word": "nothing",
+          "count": 21
+        },
+        {
+          "word": "essay",
+          "count": 18
+        },
+        {
+          "word": "nick",
+          "count": 18
+        },
+        {
+          "word": "four",
+          "count": 17
+        },
+        {
+          "word": "book",
+          "count": 17
+        },
+        {
+          "word": "comparison",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2028-11-13-gatsby-and-horatio-alger.md",
+      "slug": "gatsby-and-horatio-alger",
+      "title": "Gatsby and the Horatio Alger Myth",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4976,
+      "topWord": "alger",
+      "topCount": 119,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-11-13-gatsby-and-horatio-alger.md",
+      "flaggedWords": [
+        {
+          "word": "alger",
+          "count": 119
+        },
+        {
+          "word": "gatsby",
+          "count": 82
+        },
+        {
+          "word": "formula",
+          "count": 77
+        },
+        {
+          "word": "novel",
+          "count": 69
+        },
+        {
+          "word": "fitzgerald",
+          "count": 69
+        },
+        {
+          "word": "boy",
+          "count": 68
+        }
+      ],
+      "top20": [
+        {
+          "word": "alger",
+          "count": 119
+        },
+        {
+          "word": "gatsby",
+          "count": 82
+        },
+        {
+          "word": "formula",
+          "count": 77
+        },
+        {
+          "word": "novel",
+          "count": 69
+        },
+        {
+          "word": "fitzgerald",
+          "count": 69
+        },
+        {
+          "word": "boy",
+          "count": 68
+        },
+        {
+          "word": "schedule",
+          "count": 37
+        },
+        {
+          "word": "patron",
+          "count": 37
+        },
+        {
+          "word": "self",
+          "count": 31
+        },
+        {
+          "word": "myth",
+          "count": 30
+        },
+        {
+          "word": "five",
+          "count": 27
+        },
+        {
+          "word": "money",
+          "count": 27
+        },
+        {
+          "word": "nick",
+          "count": 24
+        },
+        {
+          "word": "book",
+          "count": 23
+        },
+        {
+          "word": "reading",
+          "count": 22
+        },
+        {
+          "word": "books",
+          "count": 21
+        },
+        {
+          "word": "read",
+          "count": 19
+        },
+        {
+          "word": "character",
+          "count": 19
+        },
+        {
+          "word": "security",
+          "count": 18
+        },
+        {
+          "word": "gatz",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2028-11-20-gatsby-canon-high-school.md",
+      "slug": "gatsby-canon-high-school",
+      "title": "Gatsby in the Canon of High School Reading",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5217,
+      "topWord": "novel",
+      "topCount": 123,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-11-20-gatsby-canon-high-school.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 123
+        },
+        {
+          "word": "book",
+          "count": 111
+        },
+        {
+          "word": "gatsby",
+          "count": 70
+        },
+        {
+          "word": "american",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 123
+        },
+        {
+          "word": "book",
+          "count": 111
+        },
+        {
+          "word": "gatsby",
+          "count": 70
+        },
+        {
+          "word": "american",
+          "count": 57
+        },
+        {
+          "word": "merit",
+          "count": 28
+        },
+        {
+          "word": "text",
+          "count": 27
+        },
+        {
+          "word": "read",
+          "count": 26
+        },
+        {
+          "word": "reading",
+          "count": 26
+        },
+        {
+          "word": "student",
+          "count": 24
+        },
+        {
+          "word": "argument",
+          "count": 24
+        },
+        {
+          "word": "students",
+          "count": 24
+        },
+        {
+          "word": "curricular",
+          "count": 23
+        },
+        {
+          "word": "position",
+          "count": 23
+        },
+        {
+          "word": "classroom",
+          "count": 23
+        },
+        {
+          "word": "standing",
+          "count": 21
+        },
+        {
+          "word": "unit",
+          "count": 21
+        },
+        {
+          "word": "prose",
+          "count": 21
+        },
+        {
+          "word": "slot",
+          "count": 20
+        },
+        {
+          "word": "curriculum",
+          "count": 19
+        },
+        {
+          "word": "assigned",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2028-11-27-gatsby-novel-vs-films.md",
+      "slug": "gatsby-novel-vs-films",
+      "title": "Gatsby Compared to Its Film Adaptations",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4930,
+      "topWord": "novel",
+      "topCount": 107,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-11-27-gatsby-novel-vs-films.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 107
+        },
+        {
+          "word": "film",
+          "count": 84
+        },
+        {
+          "word": "gatsby",
+          "count": 58
+        },
+        {
+          "word": "version",
+          "count": 56
+        },
+        {
+          "word": "nick",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 107
+        },
+        {
+          "word": "film",
+          "count": 84
+        },
+        {
+          "word": "gatsby",
+          "count": 58
+        },
+        {
+          "word": "version",
+          "count": 56
+        },
+        {
+          "word": "nick",
+          "count": 52
+        },
+        {
+          "word": "screen",
+          "count": 36
+        },
+        {
+          "word": "films",
+          "count": 36
+        },
+        {
+          "word": "prose",
+          "count": 30
+        },
+        {
+          "word": "book",
+          "count": 30
+        },
+        {
+          "word": "narration",
+          "count": 28
+        },
+        {
+          "word": "cannot",
+          "count": 27
+        },
+        {
+          "word": "fitzgerald",
+          "count": 27
+        },
+        {
+          "word": "four",
+          "count": 24
+        },
+        {
+          "word": "adaptation",
+          "count": 24
+        },
+        {
+          "word": "problem",
+          "count": 24
+        },
+        {
+          "word": "camera",
+          "count": 23
+        },
+        {
+          "word": "frame",
+          "count": 22
+        },
+        {
+          "word": "argument",
+          "count": 21
+        },
+        {
+          "word": "daisy",
+          "count": 21
+        },
+        {
+          "word": "scene",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2028-12-04-why-gatsby-outlasted.md",
+      "slug": "why-gatsby-outlasted",
+      "title": "Why Gatsby Outlasted Its Contemporaries",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5037,
+      "topWord": "novel",
+      "topCount": 105,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-12-04-why-gatsby-outlasted.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 105
+        },
+        {
+          "word": "book",
+          "count": 87
+        },
+        {
+          "word": "gatsby",
+          "count": 59
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 105
+        },
+        {
+          "word": "book",
+          "count": 87
+        },
+        {
+          "word": "gatsby",
+          "count": 59
+        },
+        {
+          "word": "fitzgerald",
+          "count": 36
+        },
+        {
+          "word": "compression",
+          "count": 32
+        },
+        {
+          "word": "properties",
+          "count": 29
+        },
+        {
+          "word": "american",
+          "count": 28
+        },
+        {
+          "word": "argument",
+          "count": 28
+        },
+        {
+          "word": "subject",
+          "count": 27
+        },
+        {
+          "word": "decade",
+          "count": 25
+        },
+        {
+          "word": "read",
+          "count": 25
+        },
+        {
+          "word": "readers",
+          "count": 25
+        },
+        {
+          "word": "myth",
+          "count": 24
+        },
+        {
+          "word": "second",
+          "count": 24
+        },
+        {
+          "word": "reader",
+          "count": 24
+        },
+        {
+          "word": "novels",
+          "count": 23
+        },
+        {
+          "word": "thousand",
+          "count": 22
+        },
+        {
+          "word": "endurance",
+          "count": 22
+        },
+        {
+          "word": "triad",
+          "count": 22
+        },
+        {
+          "word": "critical",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2028-12-11-gatsby-decline-empire-novel.md",
+      "slug": "gatsby-decline-empire-novel",
+      "title": "Gatsby and the Decline-of-Empire Novel",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5124,
+      "topWord": "decline",
+      "topCount": 80,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-12-11-gatsby-decline-empire-novel.md",
+      "flaggedWords": [
+        {
+          "word": "decline",
+          "count": 80
+        },
+        {
+          "word": "fitzgerald",
+          "count": 77
+        },
+        {
+          "word": "book",
+          "count": 61
+        },
+        {
+          "word": "gatsby",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "decline",
+          "count": 80
+        },
+        {
+          "word": "fitzgerald",
+          "count": 77
+        },
+        {
+          "word": "book",
+          "count": 61
+        },
+        {
+          "word": "gatsby",
+          "count": 57
+        },
+        {
+          "word": "argument",
+          "count": 31
+        },
+        {
+          "word": "reading",
+          "count": 29
+        },
+        {
+          "word": "tradition",
+          "count": 29
+        },
+        {
+          "word": "reader",
+          "count": 28
+        },
+        {
+          "word": "novel",
+          "count": 27
+        },
+        {
+          "word": "nick",
+          "count": 26
+        },
+        {
+          "word": "imperial",
+          "count": 23
+        },
+        {
+          "word": "trimalchio",
+          "count": 22
+        },
+        {
+          "word": "summer",
+          "count": 20
+        },
+        {
+          "word": "party",
+          "count": 20
+        },
+        {
+          "word": "society",
+          "count": 19
+        },
+        {
+          "word": "tom",
+          "count": 19
+        },
+        {
+          "word": "becomes",
+          "count": 19
+        },
+        {
+          "word": "collapse",
+          "count": 18
+        },
+        {
+          "word": "empire",
+          "count": 18
+        },
+        {
+          "word": "whose",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "filename": "2028-12-18-gatsby-contemporary-wealth-fiction.md",
+      "slug": "gatsby-contemporary-wealth-fiction",
+      "title": "Gatsby and Contemporary Wealth Fiction",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5156,
+      "topWord": "fitzgerald",
+      "topCount": 86,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-12-18-gatsby-contemporary-wealth-fiction.md",
+      "flaggedWords": [
+        {
+          "word": "fitzgerald",
+          "count": 86
+        }
+      ],
+      "top20": [
+        {
+          "word": "fitzgerald",
+          "count": 86
+        },
+        {
+          "word": "wealth",
+          "count": 46
+        },
+        {
+          "word": "gatsby",
+          "count": 43
+        },
+        {
+          "word": "contemporary",
+          "count": 43
+        },
+        {
+          "word": "fiction",
+          "count": 41
+        },
+        {
+          "word": "novel",
+          "count": 38
+        },
+        {
+          "word": "money",
+          "count": 36
+        },
+        {
+          "word": "structure",
+          "count": 32
+        },
+        {
+          "word": "recent",
+          "count": 30
+        },
+        {
+          "word": "comparison",
+          "count": 29
+        },
+        {
+          "word": "rich",
+          "count": 29
+        },
+        {
+          "word": "essay",
+          "count": 28
+        },
+        {
+          "word": "book",
+          "count": 27
+        },
+        {
+          "word": "position",
+          "count": 26
+        },
+        {
+          "word": "century",
+          "count": 22
+        },
+        {
+          "word": "observer",
+          "count": 20
+        },
+        {
+          "word": "four",
+          "count": 20
+        },
+        {
+          "word": "succession",
+          "count": 20
+        },
+        {
+          "word": "argument",
+          "count": 20
+        },
+        {
+          "word": "inside",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2028-12-25-what-gatsby-borrowed.md",
+      "slug": "what-gatsby-borrowed",
+      "title": "What Gatsby Borrowed From Earlier Books",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 5091,
+      "topWord": "fitzgerald",
+      "topCount": 97,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2028-12-25-what-gatsby-borrowed.md",
+      "flaggedWords": [
+        {
+          "word": "fitzgerald",
+          "count": 97
+        },
+        {
+          "word": "book",
+          "count": 67
+        }
+      ],
+      "top20": [
+        {
+          "word": "fitzgerald",
+          "count": 97
+        },
+        {
+          "word": "book",
+          "count": 67
+        },
+        {
+          "word": "gatsby",
+          "count": 45
+        },
+        {
+          "word": "reader",
+          "count": 37
+        },
+        {
+          "word": "inheritance",
+          "count": 31
+        },
+        {
+          "word": "hero",
+          "count": 30
+        },
+        {
+          "word": "source",
+          "count": 26
+        },
+        {
+          "word": "narrator",
+          "count": 25
+        },
+        {
+          "word": "inherited",
+          "count": 25
+        },
+        {
+          "word": "romantic",
+          "count": 25
+        },
+        {
+          "word": "conradian",
+          "count": 23
+        },
+        {
+          "word": "schedule",
+          "count": 22
+        },
+        {
+          "word": "novel",
+          "count": 22
+        },
+        {
+          "word": "argument",
+          "count": 22
+        },
+        {
+          "word": "nick",
+          "count": 22
+        },
+        {
+          "word": "conrad",
+          "count": 21
+        },
+        {
+          "word": "material",
+          "count": 21
+        },
+        {
+          "word": "sentence",
+          "count": 20
+        },
+        {
+          "word": "debt",
+          "count": 18
+        },
+        {
+          "word": "self",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2029-01-01-gatsby-last-line-explained.md",
+      "slug": "gatsby-last-line-explained",
+      "title": "The Last Line of The Great Gatsby Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3897,
+      "topWord": "sentence",
+      "topCount": 151,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-01-01-gatsby-last-line-explained.md",
+      "flaggedWords": [
+        {
+          "word": "sentence",
+          "count": 151
+        }
+      ],
+      "top20": [
+        {
+          "word": "sentence",
+          "count": 151
+        },
+        {
+          "word": "current",
+          "count": 43
+        },
+        {
+          "word": "paragraph",
+          "count": 39
+        },
+        {
+          "word": "past",
+          "count": 33
+        },
+        {
+          "word": "reading",
+          "count": 31
+        },
+        {
+          "word": "final",
+          "count": 31
+        },
+        {
+          "word": "closing",
+          "count": 31
+        },
+        {
+          "word": "reader",
+          "count": 30
+        },
+        {
+          "word": "fitzgerald",
+          "count": 29
+        },
+        {
+          "word": "gatsby",
+          "count": 28
+        },
+        {
+          "word": "effort",
+          "count": 26
+        },
+        {
+          "word": "book",
+          "count": 25
+        },
+        {
+          "word": "beat",
+          "count": 24
+        },
+        {
+          "word": "four",
+          "count": 23
+        },
+        {
+          "word": "nick",
+          "count": 23
+        },
+        {
+          "word": "boats",
+          "count": 21
+        },
+        {
+          "word": "clause",
+          "count": 21
+        },
+        {
+          "word": "ending",
+          "count": 20
+        },
+        {
+          "word": "essay",
+          "count": 20
+        },
+        {
+          "word": "read",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2029-01-08-gatsby-first-line-explained.md",
+      "slug": "gatsby-first-line-explained",
+      "title": "The First Line of The Great Gatsby Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3906,
+      "topWord": "nick",
+      "topCount": 92,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-01-08-gatsby-first-line-explained.md",
+      "flaggedWords": [
+        {
+          "word": "nick",
+          "count": 92
+        },
+        {
+          "word": "sentence",
+          "count": 75
+        },
+        {
+          "word": "novel",
+          "count": 66
+        },
+        {
+          "word": "opening",
+          "count": 61
+        }
+      ],
+      "top20": [
+        {
+          "word": "nick",
+          "count": 92
+        },
+        {
+          "word": "sentence",
+          "count": 75
+        },
+        {
+          "word": "novel",
+          "count": 66
+        },
+        {
+          "word": "opening",
+          "count": 61
+        },
+        {
+          "word": "father",
+          "count": 46
+        },
+        {
+          "word": "book",
+          "count": 42
+        },
+        {
+          "word": "narrator",
+          "count": 39
+        },
+        {
+          "word": "gatsby",
+          "count": 36
+        },
+        {
+          "word": "reader",
+          "count": 33
+        },
+        {
+          "word": "judgment",
+          "count": 32
+        },
+        {
+          "word": "advice",
+          "count": 28
+        },
+        {
+          "word": "reading",
+          "count": 25
+        },
+        {
+          "word": "fitzgerald",
+          "count": 21
+        },
+        {
+          "word": "promise",
+          "count": 19
+        },
+        {
+          "word": "makes",
+          "count": 18
+        },
+        {
+          "word": "paragraph",
+          "count": 18
+        },
+        {
+          "word": "class",
+          "count": 17
+        },
+        {
+          "word": "passage",
+          "count": 17
+        },
+        {
+          "word": "tom",
+          "count": 17
+        },
+        {
+          "word": "past",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2029-01-15-gatsby-boats-against-current.md",
+      "slug": "gatsby-boats-against-current",
+      "title": "Boats Against the Current: The Final Image",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3931,
+      "topWord": "sentence",
+      "topCount": 107,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-01-15-gatsby-boats-against-current.md",
+      "flaggedWords": [
+        {
+          "word": "sentence",
+          "count": 107
+        },
+        {
+          "word": "boats",
+          "count": 76
+        },
+        {
+          "word": "image",
+          "count": 74
+        }
+      ],
+      "top20": [
+        {
+          "word": "sentence",
+          "count": 107
+        },
+        {
+          "word": "boats",
+          "count": 76
+        },
+        {
+          "word": "image",
+          "count": 74
+        },
+        {
+          "word": "gatsby",
+          "count": 47
+        },
+        {
+          "word": "novel",
+          "count": 47
+        },
+        {
+          "word": "fitzgerald",
+          "count": 40
+        },
+        {
+          "word": "current",
+          "count": 39
+        },
+        {
+          "word": "reader",
+          "count": 39
+        },
+        {
+          "word": "past",
+          "count": 36
+        },
+        {
+          "word": "effort",
+          "count": 28
+        },
+        {
+          "word": "rowing",
+          "count": 26
+        },
+        {
+          "word": "argument",
+          "count": 25
+        },
+        {
+          "word": "final",
+          "count": 24
+        },
+        {
+          "word": "picture",
+          "count": 23
+        },
+        {
+          "word": "toward",
+          "count": 22
+        },
+        {
+          "word": "book",
+          "count": 21
+        },
+        {
+          "word": "cannot",
+          "count": 21
+        },
+        {
+          "word": "closing",
+          "count": 21
+        },
+        {
+          "word": "paragraph",
+          "count": 20
+        },
+        {
+          "word": "everyone",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2029-01-22-gatsby-so-we-beat-on.md",
+      "slug": "gatsby-so-we-beat-on",
+      "title": "So We Beat On: Closing Paragraph Analyzed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3943,
+      "topWord": "passage",
+      "topCount": 89,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-01-22-gatsby-so-we-beat-on.md",
+      "flaggedWords": [
+        {
+          "word": "passage",
+          "count": 89
+        },
+        {
+          "word": "paragraph",
+          "count": 67
+        },
+        {
+          "word": "sentence",
+          "count": 63
+        }
+      ],
+      "top20": [
+        {
+          "word": "passage",
+          "count": 89
+        },
+        {
+          "word": "paragraph",
+          "count": 67
+        },
+        {
+          "word": "sentence",
+          "count": 63
+        },
+        {
+          "word": "reader",
+          "count": 50
+        },
+        {
+          "word": "closing",
+          "count": 49
+        },
+        {
+          "word": "gatsby",
+          "count": 47
+        },
+        {
+          "word": "ending",
+          "count": 45
+        },
+        {
+          "word": "future",
+          "count": 40
+        },
+        {
+          "word": "boats",
+          "count": 32
+        },
+        {
+          "word": "novel",
+          "count": 31
+        },
+        {
+          "word": "person",
+          "count": 30
+        },
+        {
+          "word": "clause",
+          "count": 28
+        },
+        {
+          "word": "final",
+          "count": 25
+        },
+        {
+          "word": "fitzgerald",
+          "count": 24
+        },
+        {
+          "word": "plural",
+          "count": 24
+        },
+        {
+          "word": "light",
+          "count": 23
+        },
+        {
+          "word": "readers",
+          "count": 22
+        },
+        {
+          "word": "reading",
+          "count": 22
+        },
+        {
+          "word": "image",
+          "count": 22
+        },
+        {
+          "word": "third",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "filename": "2029-01-29-gatsby-green-light-quote.md",
+      "slug": "gatsby-green-light-quote",
+      "title": "The Green Light Quote Analyzed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3887,
+      "topWord": "light",
+      "topCount": 132,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-01-29-gatsby-green-light-quote.md",
+      "flaggedWords": [
+        {
+          "word": "light",
+          "count": 132
+        },
+        {
+          "word": "gatsby",
+          "count": 73
+        },
+        {
+          "word": "nick",
+          "count": 73
+        },
+        {
+          "word": "passage",
+          "count": 67
+        },
+        {
+          "word": "chapter",
+          "count": 61
+        },
+        {
+          "word": "reader",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "light",
+          "count": 132
+        },
+        {
+          "word": "gatsby",
+          "count": 73
+        },
+        {
+          "word": "nick",
+          "count": 73
+        },
+        {
+          "word": "passage",
+          "count": 67
+        },
+        {
+          "word": "chapter",
+          "count": 61
+        },
+        {
+          "word": "reader",
+          "count": 52
+        },
+        {
+          "word": "novel",
+          "count": 50
+        },
+        {
+          "word": "symbol",
+          "count": 44
+        },
+        {
+          "word": "scene",
+          "count": 40
+        },
+        {
+          "word": "green",
+          "count": 38
+        },
+        {
+          "word": "gesture",
+          "count": 37
+        },
+        {
+          "word": "toward",
+          "count": 35
+        },
+        {
+          "word": "object",
+          "count": 30
+        },
+        {
+          "word": "reach",
+          "count": 29
+        },
+        {
+          "word": "distance",
+          "count": 29
+        },
+        {
+          "word": "fitzgerald",
+          "count": 26
+        },
+        {
+          "word": "five",
+          "count": 25
+        },
+        {
+          "word": "dock",
+          "count": 24
+        },
+        {
+          "word": "daisy",
+          "count": 22
+        },
+        {
+          "word": "reading",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2029-02-05-gatsby-voice-full-of-money-quote.md",
+      "slug": "gatsby-voice-full-of-money-quote",
+      "title": "Her Voice Is Full of Money Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3830,
+      "topWord": "gatsby",
+      "topCount": 92,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-02-05-gatsby-voice-full-of-money-quote.md",
+      "flaggedWords": [
+        {
+          "word": "gatsby",
+          "count": 92
+        },
+        {
+          "word": "daisy",
+          "count": 64
+        },
+        {
+          "word": "nick",
+          "count": 63
+        },
+        {
+          "word": "voice",
+          "count": 62
+        }
+      ],
+      "top20": [
+        {
+          "word": "gatsby",
+          "count": 92
+        },
+        {
+          "word": "daisy",
+          "count": 64
+        },
+        {
+          "word": "nick",
+          "count": 63
+        },
+        {
+          "word": "voice",
+          "count": 62
+        },
+        {
+          "word": "money",
+          "count": 47
+        },
+        {
+          "word": "novel",
+          "count": 44
+        },
+        {
+          "word": "sentence",
+          "count": 36
+        },
+        {
+          "word": "sound",
+          "count": 32
+        },
+        {
+          "word": "class",
+          "count": 31
+        },
+        {
+          "word": "reader",
+          "count": 27
+        },
+        {
+          "word": "tom",
+          "count": 26
+        },
+        {
+          "word": "wealth",
+          "count": 24
+        },
+        {
+          "word": "fitzgerald",
+          "count": 23
+        },
+        {
+          "word": "full",
+          "count": 21
+        },
+        {
+          "word": "reading",
+          "count": 21
+        },
+        {
+          "word": "says",
+          "count": 20
+        },
+        {
+          "word": "charm",
+          "count": 20
+        },
+        {
+          "word": "cannot",
+          "count": 20
+        },
+        {
+          "word": "passage",
+          "count": 20
+        },
+        {
+          "word": "makes",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "filename": "2029-02-12-gatsby-cant-repeat-past-quote.md",
+      "slug": "gatsby-cant-repeat-past-quote",
+      "title": "Can't Repeat the Past? Quote Analyzed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3814,
+      "topWord": "gatsby",
+      "topCount": 138,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-02-12-gatsby-cant-repeat-past-quote.md",
+      "flaggedWords": [
+        {
+          "word": "gatsby",
+          "count": 138
+        },
+        {
+          "word": "nick",
+          "count": 70
+        },
+        {
+          "word": "novel",
+          "count": 62
+        },
+        {
+          "word": "past",
+          "count": 58
+        },
+        {
+          "word": "exchange",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "gatsby",
+          "count": 138
+        },
+        {
+          "word": "nick",
+          "count": 70
+        },
+        {
+          "word": "novel",
+          "count": 62
+        },
+        {
+          "word": "past",
+          "count": 58
+        },
+        {
+          "word": "exchange",
+          "count": 57
+        },
+        {
+          "word": "daisy",
+          "count": 41
+        },
+        {
+          "word": "passage",
+          "count": 28
+        },
+        {
+          "word": "reader",
+          "count": 28
+        },
+        {
+          "word": "cannot",
+          "count": 23
+        },
+        {
+          "word": "book",
+          "count": 23
+        },
+        {
+          "word": "fitzgerald",
+          "count": 23
+        },
+        {
+          "word": "claim",
+          "count": 23
+        },
+        {
+          "word": "chapter",
+          "count": 22
+        },
+        {
+          "word": "position",
+          "count": 20
+        },
+        {
+          "word": "question",
+          "count": 19
+        },
+        {
+          "word": "error",
+          "count": 18
+        },
+        {
+          "word": "reading",
+          "count": 17
+        },
+        {
+          "word": "four",
+          "count": 14
+        },
+        {
+          "word": "himself",
+          "count": 14
+        },
+        {
+          "word": "specific",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "filename": "2029-02-19-gatsby-smile-passage.md",
+      "slug": "gatsby-smile-passage",
+      "title": "Gatsby's Smile Passage Analyzed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4025,
+      "topWord": "passage",
+      "topCount": 88,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-02-19-gatsby-smile-passage.md",
+      "flaggedWords": [
+        {
+          "word": "passage",
+          "count": 88
+        },
+        {
+          "word": "smile",
+          "count": 83
+        },
+        {
+          "word": "gatsby",
+          "count": 81
+        },
+        {
+          "word": "nick",
+          "count": 58
+        },
+        {
+          "word": "fitzgerald",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "passage",
+          "count": 88
+        },
+        {
+          "word": "smile",
+          "count": 83
+        },
+        {
+          "word": "gatsby",
+          "count": 81
+        },
+        {
+          "word": "nick",
+          "count": 58
+        },
+        {
+          "word": "fitzgerald",
+          "count": 53
+        },
+        {
+          "word": "description",
+          "count": 50
+        },
+        {
+          "word": "reader",
+          "count": 49
+        },
+        {
+          "word": "novel",
+          "count": 37
+        },
+        {
+          "word": "chapter",
+          "count": 36
+        },
+        {
+          "word": "person",
+          "count": 28
+        },
+        {
+          "word": "four",
+          "count": 26
+        },
+        {
+          "word": "reading",
+          "count": 23
+        },
+        {
+          "word": "effect",
+          "count": 21
+        },
+        {
+          "word": "precisely",
+          "count": 19
+        },
+        {
+          "word": "single",
+          "count": 17
+        },
+        {
+          "word": "clause",
+          "count": 17
+        },
+        {
+          "word": "paragraph",
+          "count": 17
+        },
+        {
+          "word": "sentences",
+          "count": 16
+        },
+        {
+          "word": "nothing",
+          "count": 16
+        },
+        {
+          "word": "expression",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "filename": "2029-02-26-gatsby-careless-people-quote.md",
+      "slug": "gatsby-careless-people-quote",
+      "title": "The Careless People Quote Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3826,
+      "topWord": "nick",
+      "topCount": 82,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-02-26-gatsby-careless-people-quote.md",
+      "flaggedWords": [
+        {
+          "word": "nick",
+          "count": 82
+        },
+        {
+          "word": "verdict",
+          "count": 75
+        },
+        {
+          "word": "sentence",
+          "count": 67
+        },
+        {
+          "word": "tom",
+          "count": 59
+        },
+        {
+          "word": "novel",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "nick",
+          "count": 82
+        },
+        {
+          "word": "verdict",
+          "count": 75
+        },
+        {
+          "word": "sentence",
+          "count": 67
+        },
+        {
+          "word": "tom",
+          "count": 59
+        },
+        {
+          "word": "novel",
+          "count": 53
+        },
+        {
+          "word": "fitzgerald",
+          "count": 38
+        },
+        {
+          "word": "daisy",
+          "count": 38
+        },
+        {
+          "word": "gatsby",
+          "count": 31
+        },
+        {
+          "word": "careless",
+          "count": 26
+        },
+        {
+          "word": "position",
+          "count": 26
+        },
+        {
+          "word": "passage",
+          "count": 26
+        },
+        {
+          "word": "carelessness",
+          "count": 23
+        },
+        {
+          "word": "money",
+          "count": 22
+        },
+        {
+          "word": "retreat",
+          "count": 21
+        },
+        {
+          "word": "chapter",
+          "count": 21
+        },
+        {
+          "word": "moral",
+          "count": 20
+        },
+        {
+          "word": "names",
+          "count": 19
+        },
+        {
+          "word": "shelter",
+          "count": 19
+        },
+        {
+          "word": "reader",
+          "count": 19
+        },
+        {
+          "word": "book",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "filename": "2029-03-05-gatsby-reserving-judgments-quote.md",
+      "slug": "gatsby-reserving-judgments-quote",
+      "title": "Reserving Judgments Quote Analyzed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4091,
+      "topWord": "nick",
+      "topCount": 131,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-03-05-gatsby-reserving-judgments-quote.md",
+      "flaggedWords": [
+        {
+          "word": "nick",
+          "count": 131
+        },
+        {
+          "word": "passage",
+          "count": 63
+        }
+      ],
+      "top20": [
+        {
+          "word": "nick",
+          "count": 131
+        },
+        {
+          "word": "passage",
+          "count": 63
+        },
+        {
+          "word": "limit",
+          "count": 43
+        },
+        {
+          "word": "narrator",
+          "count": 42
+        },
+        {
+          "word": "reserve",
+          "count": 41
+        },
+        {
+          "word": "novel",
+          "count": 41
+        },
+        {
+          "word": "claim",
+          "count": 34
+        },
+        {
+          "word": "tolerance",
+          "count": 33
+        },
+        {
+          "word": "opening",
+          "count": 31
+        },
+        {
+          "word": "hope",
+          "count": 31
+        },
+        {
+          "word": "reader",
+          "count": 30
+        },
+        {
+          "word": "gatsby",
+          "count": 26
+        },
+        {
+          "word": "self",
+          "count": 26
+        },
+        {
+          "word": "moral",
+          "count": 25
+        },
+        {
+          "word": "reading",
+          "count": 24
+        },
+        {
+          "word": "sentence",
+          "count": 22
+        },
+        {
+          "word": "judgment",
+          "count": 22
+        },
+        {
+          "word": "verdicts",
+          "count": 21
+        },
+        {
+          "word": "habit",
+          "count": 20
+        },
+        {
+          "word": "reserving",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "filename": "2029-03-12-gatsby-fresh-green-breast.md",
+      "slug": "gatsby-fresh-green-breast",
+      "title": "The Fresh Green Breast of the New World",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4048,
+      "topWord": "passage",
+      "topCount": 93,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-03-12-gatsby-fresh-green-breast.md",
+      "flaggedWords": [
+        {
+          "word": "passage",
+          "count": 93
+        },
+        {
+          "word": "gatsby",
+          "count": 68
+        },
+        {
+          "word": "green",
+          "count": 66
+        },
+        {
+          "word": "fitzgerald",
+          "count": 55
+        },
+        {
+          "word": "novel",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "passage",
+          "count": 93
+        },
+        {
+          "word": "gatsby",
+          "count": 68
+        },
+        {
+          "word": "green",
+          "count": 66
+        },
+        {
+          "word": "fitzgerald",
+          "count": 55
+        },
+        {
+          "word": "novel",
+          "count": 54
+        },
+        {
+          "word": "vision",
+          "count": 50
+        },
+        {
+          "word": "continent",
+          "count": 40
+        },
+        {
+          "word": "light",
+          "count": 34
+        },
+        {
+          "word": "object",
+          "count": 34
+        },
+        {
+          "word": "wonder",
+          "count": 34
+        },
+        {
+          "word": "dream",
+          "count": 32
+        },
+        {
+          "word": "nick",
+          "count": 31
+        },
+        {
+          "word": "sentence",
+          "count": 29
+        },
+        {
+          "word": "sailors",
+          "count": 27
+        },
+        {
+          "word": "breast",
+          "count": 26
+        },
+        {
+          "word": "trees",
+          "count": 26
+        },
+        {
+          "word": "island",
+          "count": 21
+        },
+        {
+          "word": "reader",
+          "count": 18
+        },
+        {
+          "word": "chapter",
+          "count": 18
+        },
+        {
+          "word": "human",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "filename": "2029-03-19-gatsby-foul-dust-quote.md",
+      "slug": "gatsby-foul-dust-quote",
+      "title": "The Foul Dust Quote Analyzed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4025,
+      "topWord": "gatsby",
+      "topCount": 127,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-03-19-gatsby-foul-dust-quote.md",
+      "flaggedWords": [
+        {
+          "word": "gatsby",
+          "count": 127
+        },
+        {
+          "word": "dust",
+          "count": 95
+        },
+        {
+          "word": "sentence",
+          "count": 69
+        },
+        {
+          "word": "nick",
+          "count": 67
+        },
+        {
+          "word": "novel",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "gatsby",
+          "count": 127
+        },
+        {
+          "word": "dust",
+          "count": 95
+        },
+        {
+          "word": "sentence",
+          "count": 69
+        },
+        {
+          "word": "nick",
+          "count": 67
+        },
+        {
+          "word": "novel",
+          "count": 57
+        },
+        {
+          "word": "reader",
+          "count": 45
+        },
+        {
+          "word": "foul",
+          "count": 40
+        },
+        {
+          "word": "wake",
+          "count": 37
+        },
+        {
+          "word": "verdict",
+          "count": 30
+        },
+        {
+          "word": "corruption",
+          "count": 27
+        },
+        {
+          "word": "opening",
+          "count": 27
+        },
+        {
+          "word": "fitzgerald",
+          "count": 25
+        },
+        {
+          "word": "book",
+          "count": 20
+        },
+        {
+          "word": "argument",
+          "count": 20
+        },
+        {
+          "word": "reading",
+          "count": 20
+        },
+        {
+          "word": "image",
+          "count": 18
+        },
+        {
+          "word": "position",
+          "count": 18
+        },
+        {
+          "word": "evidence",
+          "count": 17
+        },
+        {
+          "word": "tom",
+          "count": 17
+        },
+        {
+          "word": "preyed",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "filename": "2029-03-26-gatsby-orgastic-future-quote.md",
+      "slug": "gatsby-orgastic-future-quote",
+      "title": "An Orgastic Future: The Word Choice Debate",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3951,
+      "topWord": "novel",
+      "topCount": 55,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-03-26-gatsby-orgastic-future-quote.md",
+      "flaggedWords": [
+        {
+          "word": "novel",
+          "count": 55
+        },
+        {
+          "word": "reading",
+          "count": 54
+        },
+        {
+          "word": "sentence",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "novel",
+          "count": 55
+        },
+        {
+          "word": "reading",
+          "count": 54
+        },
+        {
+          "word": "sentence",
+          "count": 53
+        },
+        {
+          "word": "future",
+          "count": 46
+        },
+        {
+          "word": "paragraph",
+          "count": 42
+        },
+        {
+          "word": "fitzgerald",
+          "count": 41
+        },
+        {
+          "word": "gatsby",
+          "count": 40
+        },
+        {
+          "word": "orgastic",
+          "count": 39
+        },
+        {
+          "word": "adjective",
+          "count": 36
+        },
+        {
+          "word": "edition",
+          "count": 36
+        },
+        {
+          "word": "light",
+          "count": 35
+        },
+        {
+          "word": "disputed",
+          "count": 25
+        },
+        {
+          "word": "text",
+          "count": 25
+        },
+        {
+          "word": "textual",
+          "count": 23
+        },
+        {
+          "word": "structure",
+          "count": 22
+        },
+        {
+          "word": "editorial",
+          "count": 22
+        },
+        {
+          "word": "readers",
+          "count": 21
+        },
+        {
+          "word": "orgiastic",
+          "count": 21
+        },
+        {
+          "word": "names",
+          "count": 21
+        },
+        {
+          "word": "makes",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2029-04-02-gatsby-single-green-light.md",
+      "slug": "gatsby-single-green-light",
+      "title": "A Single Green Light: Imagery Unpacked",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4071,
+      "topWord": "light",
+      "topCount": 149,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-04-02-gatsby-single-green-light.md",
+      "flaggedWords": [
+        {
+          "word": "light",
+          "count": 149
+        },
+        {
+          "word": "gatsby",
+          "count": 73
+        },
+        {
+          "word": "green",
+          "count": 56
+        },
+        {
+          "word": "object",
+          "count": 55
+        },
+        {
+          "word": "dock",
+          "count": 54
+        },
+        {
+          "word": "nick",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "light",
+          "count": 149
+        },
+        {
+          "word": "gatsby",
+          "count": 73
+        },
+        {
+          "word": "green",
+          "count": 56
+        },
+        {
+          "word": "object",
+          "count": 55
+        },
+        {
+          "word": "dock",
+          "count": 54
+        },
+        {
+          "word": "nick",
+          "count": 51
+        },
+        {
+          "word": "fitzgerald",
+          "count": 41
+        },
+        {
+          "word": "novel",
+          "count": 37
+        },
+        {
+          "word": "description",
+          "count": 35
+        },
+        {
+          "word": "distance",
+          "count": 35
+        },
+        {
+          "word": "image",
+          "count": 32
+        },
+        {
+          "word": "sentence",
+          "count": 32
+        },
+        {
+          "word": "chapter",
+          "count": 30
+        },
+        {
+          "word": "reading",
+          "count": 28
+        },
+        {
+          "word": "reader",
+          "count": 27
+        },
+        {
+          "word": "size",
+          "count": 27
+        },
+        {
+          "word": "single",
+          "count": 26
+        },
+        {
+          "word": "paragraph",
+          "count": 25
+        },
+        {
+          "word": "minute",
+          "count": 24
+        },
+        {
+          "word": "nothing",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2029-04-09-eckleburg-description-quote.md",
+      "slug": "eckleburg-description-quote",
+      "title": "The Eyes of Eckleburg Description Analyzed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4159,
+      "topWord": "sign",
+      "topCount": 82,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-04-09-eckleburg-description-quote.md",
+      "flaggedWords": [
+        {
+          "word": "sign",
+          "count": 82
+        },
+        {
+          "word": "passage",
+          "count": 60
+        },
+        {
+          "word": "eyes",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "sign",
+          "count": 82
+        },
+        {
+          "word": "passage",
+          "count": 60
+        },
+        {
+          "word": "eyes",
+          "count": 56
+        },
+        {
+          "word": "fitzgerald",
+          "count": 49
+        },
+        {
+          "word": "reader",
+          "count": 40
+        },
+        {
+          "word": "chapter",
+          "count": 36
+        },
+        {
+          "word": "description",
+          "count": 35
+        },
+        {
+          "word": "object",
+          "count": 35
+        },
+        {
+          "word": "novel",
+          "count": 34
+        },
+        {
+          "word": "sentence",
+          "count": 31
+        },
+        {
+          "word": "god",
+          "count": 29
+        },
+        {
+          "word": "billboard",
+          "count": 25
+        },
+        {
+          "word": "four",
+          "count": 23
+        },
+        {
+          "word": "face",
+          "count": 23
+        },
+        {
+          "word": "eckleburg",
+          "count": 20
+        },
+        {
+          "word": "paragraph",
+          "count": 20
+        },
+        {
+          "word": "valley",
+          "count": 20
+        },
+        {
+          "word": "makes",
+          "count": 20
+        },
+        {
+          "word": "watching",
+          "count": 19
+        },
+        {
+          "word": "nose",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2029-04-16-gatsby-rotten-crowd-quote.md",
+      "slug": "gatsby-rotten-crowd-quote",
+      "title": "They're a Rotten Crowd: Nick's Last Words",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3771,
+      "topWord": "nick",
+      "topCount": 130,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-04-16-gatsby-rotten-crowd-quote.md",
+      "flaggedWords": [
+        {
+          "word": "nick",
+          "count": 130
+        },
+        {
+          "word": "gatsby",
+          "count": 93
+        }
+      ],
+      "top20": [
+        {
+          "word": "nick",
+          "count": 130
+        },
+        {
+          "word": "gatsby",
+          "count": 93
+        },
+        {
+          "word": "shout",
+          "count": 44
+        },
+        {
+          "word": "chapter",
+          "count": 42
+        },
+        {
+          "word": "verdict",
+          "count": 39
+        },
+        {
+          "word": "crowd",
+          "count": 38
+        },
+        {
+          "word": "novel",
+          "count": 37
+        },
+        {
+          "word": "compliment",
+          "count": 30
+        },
+        {
+          "word": "worth",
+          "count": 29
+        },
+        {
+          "word": "judgment",
+          "count": 26
+        },
+        {
+          "word": "rotten",
+          "count": 25
+        },
+        {
+          "word": "nothing",
+          "count": 23
+        },
+        {
+          "word": "tom",
+          "count": 21
+        },
+        {
+          "word": "daisy",
+          "count": 20
+        },
+        {
+          "word": "reading",
+          "count": 20
+        },
+        {
+          "word": "together",
+          "count": 19
+        },
+        {
+          "word": "reader",
+          "count": 18
+        },
+        {
+          "word": "paragraph",
+          "count": 18
+        },
+        {
+          "word": "lawn",
+          "count": 17
+        },
+        {
+          "word": "everything",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2029-04-23-gatsby-beautiful-little-fool.md",
+      "slug": "gatsby-beautiful-little-fool",
+      "title": "Beautiful Little Fool Quote Analyzed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3692,
+      "topWord": "daisy",
+      "topCount": 113,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-04-23-gatsby-beautiful-little-fool.md",
+      "flaggedWords": [
+        {
+          "word": "daisy",
+          "count": 113
+        }
+      ],
+      "top20": [
+        {
+          "word": "daisy",
+          "count": 113
+        },
+        {
+          "word": "child",
+          "count": 46
+        },
+        {
+          "word": "wish",
+          "count": 45
+        },
+        {
+          "word": "daughter",
+          "count": 44
+        },
+        {
+          "word": "nick",
+          "count": 42
+        },
+        {
+          "word": "novel",
+          "count": 41
+        },
+        {
+          "word": "fool",
+          "count": 37
+        },
+        {
+          "word": "girl",
+          "count": 35
+        },
+        {
+          "word": "sentence",
+          "count": 28
+        },
+        {
+          "word": "clause",
+          "count": 24
+        },
+        {
+          "word": "reading",
+          "count": 24
+        },
+        {
+          "word": "claim",
+          "count": 23
+        },
+        {
+          "word": "little",
+          "count": 21
+        },
+        {
+          "word": "fitzgerald",
+          "count": 20
+        },
+        {
+          "word": "porch",
+          "count": 17
+        },
+        {
+          "word": "makes",
+          "count": 17
+        },
+        {
+          "word": "tom",
+          "count": 17
+        },
+        {
+          "word": "beautiful",
+          "count": 16
+        },
+        {
+          "word": "says",
+          "count": 16
+        },
+        {
+          "word": "argument",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "filename": "2029-04-30-gatsby-best-quotes-chapter-1.md",
+      "slug": "gatsby-best-quotes-chapter-1",
+      "title": "The Best Quotes in Chapter 1 Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4193,
+      "topWord": "nick",
+      "topCount": 66,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-04-30-gatsby-best-quotes-chapter-1.md",
+      "flaggedWords": [
+        {
+          "word": "nick",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "nick",
+          "count": 66
+        },
+        {
+          "word": "lines",
+          "count": 47
+        },
+        {
+          "word": "gatsby",
+          "count": 43
+        },
+        {
+          "word": "opening",
+          "count": 42
+        },
+        {
+          "word": "claim",
+          "count": 38
+        },
+        {
+          "word": "chapter",
+          "count": 36
+        },
+        {
+          "word": "light",
+          "count": 34
+        },
+        {
+          "word": "daisy",
+          "count": 33
+        },
+        {
+          "word": "novel",
+          "count": 33
+        },
+        {
+          "word": "reader",
+          "count": 32
+        },
+        {
+          "word": "wish",
+          "count": 32
+        },
+        {
+          "word": "movement",
+          "count": 30
+        },
+        {
+          "word": "book",
+          "count": 30
+        },
+        {
+          "word": "tom",
+          "count": 27
+        },
+        {
+          "word": "quotation",
+          "count": 24
+        },
+        {
+          "word": "father",
+          "count": 24
+        },
+        {
+          "word": "verdict",
+          "count": 24
+        },
+        {
+          "word": "hope",
+          "count": 23
+        },
+        {
+          "word": "narrator",
+          "count": 22
+        },
+        {
+          "word": "judgments",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2029-05-07-gatsby-best-quotes-chapter-5.md",
+      "slug": "gatsby-best-quotes-chapter-5",
+      "title": "The Best Quotes in Chapter 5 Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4021,
+      "topWord": "gatsby",
+      "topCount": 71,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-05-07-gatsby-best-quotes-chapter-5.md",
+      "flaggedWords": [
+        {
+          "word": "gatsby",
+          "count": 71
+        },
+        {
+          "word": "daisy",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "gatsby",
+          "count": 71
+        },
+        {
+          "word": "daisy",
+          "count": 54
+        },
+        {
+          "word": "nick",
+          "count": 49
+        },
+        {
+          "word": "light",
+          "count": 43
+        },
+        {
+          "word": "chapter",
+          "count": 39
+        },
+        {
+          "word": "movement",
+          "count": 36
+        },
+        {
+          "word": "novel",
+          "count": 32
+        },
+        {
+          "word": "shirts",
+          "count": 26
+        },
+        {
+          "word": "words",
+          "count": 24
+        },
+        {
+          "word": "green",
+          "count": 24
+        },
+        {
+          "word": "reading",
+          "count": 23
+        },
+        {
+          "word": "clock",
+          "count": 23
+        },
+        {
+          "word": "reunion",
+          "count": 21
+        },
+        {
+          "word": "weeping",
+          "count": 21
+        },
+        {
+          "word": "enchanted",
+          "count": 19
+        },
+        {
+          "word": "objects",
+          "count": 19
+        },
+        {
+          "word": "narration",
+          "count": 19
+        },
+        {
+          "word": "lines",
+          "count": 18
+        },
+        {
+          "word": "sentence",
+          "count": 18
+        },
+        {
+          "word": "voice",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2029-05-14-gatsby-best-quotes-chapter-9.md",
+      "slug": "gatsby-best-quotes-chapter-9",
+      "title": "The Best Quotes in Chapter 9 Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 3974,
+      "topWord": "nick",
+      "topCount": 63,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-05-14-gatsby-best-quotes-chapter-9.md",
+      "flaggedWords": [
+        {
+          "word": "nick",
+          "count": 63
+        }
+      ],
+      "top20": [
+        {
+          "word": "nick",
+          "count": 63
+        },
+        {
+          "word": "verdict",
+          "count": 44
+        },
+        {
+          "word": "novel",
+          "count": 39
+        },
+        {
+          "word": "closing",
+          "count": 38
+        },
+        {
+          "word": "movement",
+          "count": 35
+        },
+        {
+          "word": "gatsby",
+          "count": 34
+        },
+        {
+          "word": "sentence",
+          "count": 30
+        },
+        {
+          "word": "chapter",
+          "count": 29
+        },
+        {
+          "word": "final",
+          "count": 27
+        },
+        {
+          "word": "paragraph",
+          "count": 25
+        },
+        {
+          "word": "careless",
+          "count": 23
+        },
+        {
+          "word": "eyes",
+          "count": 23
+        },
+        {
+          "word": "owl",
+          "count": 22
+        },
+        {
+          "word": "west",
+          "count": 19
+        },
+        {
+          "word": "tom",
+          "count": 19
+        },
+        {
+          "word": "nobody",
+          "count": 18
+        },
+        {
+          "word": "words",
+          "count": 18
+        },
+        {
+          "word": "mechanism",
+          "count": 17
+        },
+        {
+          "word": "fitzgerald",
+          "count": 17
+        },
+        {
+          "word": "argument",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2029-05-21-gatsby-quotes-american-dream.md",
+      "slug": "gatsby-quotes-american-dream",
+      "title": "Key Quotes About the American Dream",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 4084,
+      "topWord": "dream",
+      "topCount": 96,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2029-05-21-gatsby-quotes-american-dream.md",
+      "flaggedWords": [
+        {
+          "word": "dream",
+          "count": 96
+        }
+      ],
+      "top20": [
+        {
+          "word": "dream",
+          "count": 96
+        },
+        {
+          "word": "novel",
+          "count": 45
+        },
+        {
+          "word": "object",
+          "count": 44
+        },
+        {
+          "word": "gatsby",
+          "count": 43
+        },
+        {
+          "word": "sentence",
+          "count": 34
+        },
+        {
+          "word": "theme",
+          "count": 32
+        },
+        {
+          "word": "nick",
+          "count": 29
+        },
+        {
+          "word": "argument",
+          "count": 29
+        },
+        {
+          "word": "facet",
+          "count": 28
+        },
+        {
+          "word": "closing",
+          "count": 28
+        },
+        {
+          "word": "conception",
+          "count": 27
+        },
+        {
+          "word": "lines",
+          "count": 24
+        },
+        {
+          "word": "paragraph",
+          "count": 24
+        },
+        {
+          "word": "quotations",
+          "count": 23
+        },
+        {
+          "word": "meretricious",
+          "count": 23
+        },
+        {
+          "word": "american",
+          "count": 21
+        },
+        {
+          "word": "green",
+          "count": 21
+        },
+        {
+          "word": "wanting",
+          "count": 20
+        },
+        {
+          "word": "beauty",
+          "count": 20
+        },
+        {
+          "word": "single",
+          "count": 19
         }
       ]
     }

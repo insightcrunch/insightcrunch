@@ -9,7 +9,7 @@ excerpt: "Azure Storage 409 conflict errors split into four types: existence, le
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "nathan-cole"
-last_updated: 2022-08-08
+last_updated: 2026-08-09
 lang: en
 ---
 A 409 from Azure Storage almost never means what the first guess assumes. The status line reads `409 Conflict`, the application logs a stack trace, and the reflex is to wrap the call in a retry loop and move on. That reflex is exactly what turns a five-minute fix into a recurring incident. An Azure Storage 409 conflict error is the service telling you that the request you sent disagrees with the current state of the target resource, and there are at least four structurally different reasons a resource can be in a state your request did not expect. One of them clears on its own in a second. One of them will never clear no matter how many times you retry, because the retry itself is the thing holding the conflict open. Reading the 409 correctly means deciding which of those four you are looking at before you write a single line of handling code.

@@ -9,7 +9,7 @@ excerpt: "An Application Gateway 502 means no pool member is healthy, so read th
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 61
 author: "nathan-cole"
-last_updated: 2022-12-12
+last_updated: 2026-08-09
 lang: en
 ---
 An Application Gateway 502 is one of the most misread errors in Azure networking, because the page the browser shows says almost nothing about where the failure actually lives. The visitor sees "502 Bad Gateway" with a small "Microsoft-Azure-Application-Gateway/v2" line beneath it, and the instinct is to assume the gateway itself broke. It almost never did. A 502 from Application Gateway means the gateway accepted the client request, tried to forward it to a member of the backend pool, and could not get a valid response back. The gateway is reporting a problem with the upstream, not with itself, and the single most reliable way to find which target host problem you have is to open the Backend health view before you change anything else.

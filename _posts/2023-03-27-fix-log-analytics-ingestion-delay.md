@@ -9,7 +9,7 @@ excerpt: "Log Analytics ingestion delay is usually expected latency, not lost da
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 59
 author: "gregory-marsh"
-last_updated: 2023-03-27
+last_updated: 2026-08-09
 lang: en
 ---
 A Log Analytics ingestion delay is the gap between the moment an event happens on your resource and the moment a query in that workspace can return the row. It feels like a fault because you know the event occurred, you can see the activity on the resource, and yet the table comes back empty when you run the search. The reflex that follows is almost always wrong: engineers conclude data is being lost, open a support case, rebuild the diagnostic pipeline, reinstall the agent, or recreate the workspace, when in the overwhelming majority of cases nothing is broken at all. The data is in flight. It has not finished its journey from the source, through collection and batching, across the ingestion pipeline, into the indexed store where queries read from. That journey has an inherent, bounded latency, and treating that latency as loss is the single most common and most expensive mistake in Azure Monitor operations.

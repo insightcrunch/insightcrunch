@@ -9,7 +9,7 @@ excerpt: "ImagePullBackOff in AKS means the kubelet could not pull your image. R
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 65
 author: "alex-cunningham"
-last_updated: 2022-07-11
+last_updated: 2026-08-09
 lang: en
 ---
 A pod sits in `ImagePullBackOff`, the deployment never reaches ready, and the temptation is immediate: rotate the registry credentials, recreate the secret, redeploy, and hope. That guess is wrong far more often than it is right, because `ImagePullBackOff` is not a single fault. It is a status the kubelet shows after it tried to pull a container image, failed, and decided to wait before trying again. The word that matters sits one line lower, under Events, where the kubelet records exactly why the last attempt failed. An unauthorized pull, a tag that does not exist, a registry that is rate limiting, and a host name that will not resolve all surface as the same yellow status in `kubectl get pods`, and all four have different fixes. Reading the events line first is the difference between a five-minute correction and an afternoon of rotating secrets that were never the problem.

@@ -9,7 +9,7 @@ excerpt: "Great Gatsby Chapter 4 stacks three accounts of Gatsby, his own tale, 
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2022-08-29
+last_updated: 2026-08-09
 lang: en
 ---
 Great Gatsby Chapter 4 is the chapter where the novel stops showing you Jay Gatsby and starts asking you to evaluate him. The first three chapters build a spectacle: the green light, the parties, the rumors, the man who throws champagne at the whole of West Egg and stands apart from it. Chapter 4 turns the spectacle into a problem of evidence. Across a single afternoon, the reader receives three separate accounts of who Gatsby is, each from a different source, each pulling in a different direction, and the chapter refuses to tell you which one to trust. Read carelessly, it is a chapter of plot machinery, a car ride, a lunch, a piece of gossip over tea. Read closely, it is the moment Fitzgerald hands the reader the job he has been preparing them for since the first page: deciding what to believe about a man who is mostly made of other people's reports.

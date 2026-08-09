@@ -9,7 +9,7 @@ excerpt: "Egypt and Kush shaped each other for two thousand years through conque
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2006-02-01
+last_updated: 2026-08-09
 lang: en
 ---
 In a cemetery in Lower Nubia, an archaeologist opens a grave and finds a body laid on its side in a contracted position, the local custom, surrounded by handmade black-topped pottery of a type produced nowhere in Egypt. Beside it lie an Egyptian scarab, a string of faience beads made in an Egyptian workshop, and a bronze mirror. The person buried there lived within a few days' sail of the Egyptian frontier, spoke a language unrelated to Egyptian, buried their dead by Nubian custom, and owned imported goods from downstream. Egypt and Kush produced graves like that for two thousand years, and they are the most honest available summary of the relationship: two distinct peoples, permanently entangled, neither absorbed by the other.

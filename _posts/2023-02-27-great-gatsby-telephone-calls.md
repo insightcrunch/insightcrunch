@@ -9,7 +9,7 @@ excerpt: "The telephone calls in The Great Gatsby form a thread of intrusion and
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2023-02-27
+last_updated: 2026-08-09
 lang: en
 ---
 A device built to join people together runs through The Great Gatsby doing the opposite. The telephone calls that punctuate the novel, from the ringing that breaks apart the Buchanan dinner in the first chapter to the message Gatsby is said to be awaiting on the last morning of his life, form one of Fitzgerald's quietest and most deliberate threads. Read them in sequence and a pattern surfaces that no single scene declares on its own: every time a phone rings in this book, it carries intrusion, evasion, or absence rather than contact. The instrument promises connection and delivers its failure. Tracing the telephone calls across the nine chapters is not a hunt for trivia. It is a way of watching Fitzgerald measure the distance between his characters with a single recurring object, and of seeing how a comic interruption in the opening pages hardens, by the end, into the silence of a phone that never rings.

@@ -9,7 +9,7 @@ excerpt: "Azure Monitor missing logs usually means a broken pipe, not a broken q
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 59
 author: "thomas-reid"
-last_updated: 2023-03-20
+last_updated: 2026-08-09
 lang: en
 ---
 You open a dashboard expecting to see the last hour of telemetry, and the chart is empty. You run the query you have run a hundred times, and it returns nothing. The resource is running, traffic is flowing, the application is serving requests, and yet Azure Monitor missing logs is the problem staring back at you. The instinct, almost universal, is to blame the query. Engineers spend the next twenty minutes rewriting Kusto, widening the time range, changing the table name, and second-guessing a filter that was correct all along. The query was never the issue. In the overwhelming majority of these incidents, the telemetry never reached the place you are querying, because nothing was routing it there.

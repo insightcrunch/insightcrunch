@@ -9,7 +9,7 @@ excerpt: "Is Nick Carraway the moral center of The Great Gatsby? A close reading
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 48
 author: "elena-wright"
-last_updated: 2023-06-19
+last_updated: 2026-08-09
 lang: en
 ---
 Ask a class who keeps the conscience of The Great Gatsby and the answer comes back fast: Nick Carraway, the moral center, the one decent man in a book full of liars. The reader trusts him because he tells us, on the first page, that his father taught him to reserve judgment, and because by the last page he is the only person willing to stand at Gatsby's grave. The verdict feels settled before the argument begins. Yet the moment you hold the claim up to the text, it starts to wobble. The narrator who promises to withhold judgment spends nine chapters delivering verdicts on nearly everyone he meets. The man who calls himself honest helps conceal an affair, drifts into a relationship he ends by deciding the woman is a liar, and watches a marriage drive toward catastrophe without lifting a hand. So the moral center question is not a soft one. It asks whether Nick Carraway earns the role the novel seems to hand him, or whether his authority is something more compromised and more interesting than a clean conscience.
