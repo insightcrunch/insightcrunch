@@ -1,0 +1,44 @@
+name: Final companion link repair
+
+on:
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: "Write the changes. Leave false for a dry run."
+        required: true
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dry run
+        run: python3 _scripts/fix_remaining_companion_links.py
+
+      - name: Apply
+        if: ${{ inputs.apply == 'true' }}
+        run: python3 _scripts/fix_remaining_companion_links.py --apply
+
+      - name: Commit
+        if: ${{ inputs.apply == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add -A _posts
+          git commit -m "Repoint remaining broken companion links to live pages"
+          git push
