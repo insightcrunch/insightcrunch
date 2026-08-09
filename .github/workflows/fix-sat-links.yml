@@ -1,0 +1,74 @@
+name: Fix SAT links
+
+# Repoints the three secondary SAT companion slugs at the single canonical page.
+#
+# Only sat-practice-test-questions.html was ever built. The other three slugs
+# were never created and never will be, because the prompt files were
+# consolidated to one canonical SAT target. Each is rewritten to the canonical
+# page with a hash that opens the right section.
+#
+# Trigger it from the browser, no terminal needed:
+#   GitHub repo -> Actions tab -> Fix SAT links -> Run workflow
+#
+# Leave "dry run" true the first time. Nothing is committed and the log lists
+# every file and count. Run again with dry run false to apply.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Report only, commit nothing'
+        type: boolean
+        required: true
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Repoint SAT links
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python _scripts/fix_sat_links.py --dry-run
+          else
+            python _scripts/fix_sat_links.py
+          fi
+
+      - name: Summarise remaining references
+        if: ${{ inputs.dry_run == false }}
+        run: |
+          echo "### SAT link check" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Reference | Links remaining |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
+          for term in 'tools/sat-math-practice-questions' 'tools/sat-reading-writing-practice' 'tools/sat-preparation-guide'; do
+            count=$(grep -rho "$term" _posts 2>/dev/null | wc -l | tr -d ' ')
+            echo "| ${term#tools/} | $count |" >> "$GITHUB_STEP_SUMMARY"
+          done
+          canon=$(grep -rho "sat-practice-test-questions.html" _posts 2>/dev/null | wc -l | tr -d ' ')
+          echo "| sat-practice-test-questions (canonical) | $canon |" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and push
+        if: ${{ inputs.dry_run == false }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add -A
+          git commit -m "Repoint secondary SAT slugs at the canonical practice page"
+          git push
