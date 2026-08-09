@@ -367,7 +367,9 @@ This requires: Maximum matrix, Allocated matrix, Need = Maximum - Allocated, Ava
 **Calculation example:**
 With 3 frames and reference string: 1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5:
 Under FIFO: Count page faults by tracing frame state after each access.
+```
 Frame state: [1], [1,2], [1,2,3], [2,3,4](fault), [3,4,1](fault), [4,1,2](fault), [1,2,5](fault), [1,2,5](hit), [1,2,5](hit), [2,5,3](fault), [5,3,4](fault), [3,4,5](hit) = 9 page faults.
+```
 
 ### Linux Commands at Digital Level
 

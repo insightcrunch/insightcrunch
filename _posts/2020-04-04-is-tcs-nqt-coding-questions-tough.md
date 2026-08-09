@@ -4817,7 +4817,7 @@ EMI = loanAmount * monthlyInterestRate / ( 1 – 1 / (1 + monthlyInterestRate)^(
 
 **Constraints:**
 
-- 1 <= P <= [1000000](tel:1000000)
+- 1 <= P <= 1000000
 
 - 1 <=T <= 50
 
