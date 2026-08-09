@@ -43,7 +43,7 @@ BASE = 'https://reportmedic.org/tools/sat-practice-test-questions.html'
 REWRITES = {
     'sat-math-practice-questions.html': 'math',
     'sat-reading-writing-practice.html': 'reading-writing',
-    'sat-preparation-guide.html': 'timing',
+    'sat-preparation-guide.html': 'reading-writing',
 }
 
 # Matches the tools URL for any of the three slugs, with or without a trailing
@@ -81,7 +81,10 @@ def process(path, dry_run):
         return f'{BASE}#{REWRITES[slug]}'
 
     updated = PATTERN.sub(replace, original)
-
+    updated, hp_fix = re.subn(r'(sat-practice-test-questions\.html)#timing', r'\1#reading-writing', updated)
+    if hp_fix:
+        counts['already-rewritten'] = hp_fix
+            
     if counts and not dry_run:
         with open(path, 'w', encoding='utf-8') as handle:
             handle.write(updated)
@@ -126,7 +129,7 @@ def main():
     verb = 'Would repoint' if args.dry_run else 'Repointed'
     print(f"{verb} {sum(totals.values())} link(s) across {changed} file(s):")
     for slug in sorted(totals):
-        print(f"  {totals[slug]:>5}  {slug} -> #{REWRITES[slug]}")
+        print(f"  {totals[slug]:>5}  {slug} -> #{REWRITES.get(slug, 'reading-writing')}")
 
     if args.dry_run:
         print('\nDry run, no files written.')
