@@ -507,7 +507,7 @@ This is the whole article compressed into the order you should actually run it. 
 
 Run it in that order because it is sorted by how much each check costs you and how much it saves. The coverage checks take one email and eliminate the worst outcomes. The reference calls take an afternoon and improve an already acceptable decision. Spend your time accordingly.
 
-When you are ready to run this against real contractors, [compare quotes and run the hiring checklist on ReportMedic](https://reportmedic.org/tools/home-service-cost-tools.html). It is the natural place to work through the verifications one at a time and hold the license and insurance confirmations you collect next to each proposal, so that by the time you are choosing, you are comparing companies you have already cleared rather than trying to remember which one sent the certificate.
+When you are ready to run this against real contractors, [compare quotes and run the hiring checklist on VaultBook](https://vaultbook.net/tools/home-project-planner.html). It is the natural place to work through the verifications one at a time and hold the license and insurance confirmations you collect next to each proposal, so that by the time you are choosing, you are comparing companies you have already cleared rather than trying to remember which one sent the certificate.
 
 ## Putting the Coverage-and-Roots Test to Work
 
