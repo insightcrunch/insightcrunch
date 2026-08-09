@@ -215,7 +215,7 @@ Elimination on inference items is not a fallback for when you are stuck; it is a
 
 The exam occasionally inverts the task with an except prompt, asking which conclusion is not supported or which the text does not license. The procedure flips cleanly: now you are hunting for the single overreach among options that are otherwise all forced. Three options will pass the must-be-true screen, and the one that fails it, the one that adds a cause or widens a quantifier, is your answer. Students stumble on these because the familiar instinct, pick the supported one, is exactly wrong here. Read the prompt's logic carefully, confirm whether you are selecting the forced conclusion or the unforced one, and then apply the identical screen, simply choosing the opposite survivor. The underlying skill never changes; only the direction of the final selection does.
 
-Rehearse this calibration on real item sets at [ReportMedic's SAT Reading and Writing practice tool](https://reportmedic.org/tools/sat-reading-writing-practice.html), where you can run inference items in volume with full worked solutions and immediate feedback, the fastest way to convert this reading into the reflex of pointing at the load-bearing word before you commit.
+Rehearse this calibration on real item sets at [ReportMedic's SAT Reading and Writing practice tool](https://reportmedic.org/tools/sat-practice-test-questions.html#reading-writing), where you can run inference items in volume with full worked solutions and immediate feedback, the fastest way to convert this reading into the reflex of pointing at the load-bearing word before you commit.
 
 ## The hard end: edge cases that separate a good score from a complete one
 
