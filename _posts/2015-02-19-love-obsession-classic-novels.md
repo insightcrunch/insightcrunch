@@ -174,7 +174,7 @@ Philosophical scholarship confirms what the novels demonstrate. De Rougemont sho
 
 Literature does not illustrate philosophy. Literature generates the cases that philosophy subsequently formalizes, and the priority of the literary over the philosophical is part of what makes reading these novels carefully - with the structural markers visible - a more powerful education in the distinction between love and obsession than any theoretical framework applied from outside.
 
-The [ReportMedic Literary Analysis Library](https://reportmedic.org/literary-analysis-library/) provides tools for readers who want to apply the four-marker framework to relationships beyond the six couples examined here, and teachers who want their students to practice structural analysis rather than romantic identification will find the [ReportMedic interactive literary comparison tools](https://reportmedic.org/literary-comparison-tools/) useful for building the kind of evidence-based reading the framework requires.
+The [ReportMedic Literary Analysis Library](https://reportmedic.org/tools/classic-literature-study-guide.html) provides tools for readers who want to apply the four-marker framework to relationships beyond the six couples examined here, and teachers who want their students to practice structural analysis rather than romantic identification will find the [ReportMedic interactive literary comparison tools](https://reportmedic.org/tools/victorian-novel-comparison-toolkit.html) useful for building the kind of evidence-based reading the framework requires.
 
 ## Frequently Asked Questions
 
