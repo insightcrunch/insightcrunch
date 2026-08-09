@@ -1,0 +1,47 @@
+name: Fix permalinks (one-time)
+
+on:
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: "Write changes? false = dry run only"
+        required: true
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run fix_permalinks.py
+        run: |
+          if [ "${{ github.event.inputs.apply }}" = "true" ]; then
+            python3 _scripts/fix_permalinks.py --apply
+          else
+            python3 _scripts/fix_permalinks.py
+          fi
+
+      - name: Commit
+        if: ${{ github.event.inputs.apply == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain _posts)" ]; then
+            git add _posts
+            git commit -m "Rewrite 696 legacy internal links to the dated permalink [skip ci]"
+            git push
+          else
+            echo "Nothing to commit."
+          fi
