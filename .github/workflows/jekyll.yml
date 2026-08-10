@@ -95,9 +95,6 @@ jobs:
         if: github.event_name == 'push'
         run: python _scripts/add_lang_field.py
 
-      - name: Fix companion domains
-        run: python _scripts/fix_companion_domains.py
-
       - name: Fix internal paths
         run: python _scripts/fix_internal_paths.py
 
