@@ -95,9 +95,6 @@ jobs:
         if: github.event_name == 'push'
         run: python _scripts/add_lang_field.py
 
-      - name: Fix internal paths
-        run: python _scripts/fix_internal_paths.py
-
       # ── Schedule/manual only: regenerate related posts ──
       # Runs before the commit step so _data/related_posts.yml gets
       # committed back to the repo and stays in sync with _posts/.
