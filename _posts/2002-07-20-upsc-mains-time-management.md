@@ -511,7 +511,7 @@ The PYQ analysis through time pattern recognition requires studying past papers 
 
 ## Cross-Examination Insights
 
-The time management preparation principles share similarities with other examination traditions where time discipline determines paper completion. The [A-Levels examination time management technique](/a-levels/examination-time-management-technique/) on InsightCrunch's A-Levels series describes time discipline preparation principles that translate to UPSC Mains.
+The time management preparation principles share similarities with other examination traditions where time discipline determines paper completion. The A-Levels examination time management technique on InsightCrunch's A-Levels series describes time discipline preparation principles that translate to UPSC Mains.
 
 ## The 90-Day Time Discipline Mastery Plan
 

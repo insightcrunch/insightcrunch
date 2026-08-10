@@ -484,7 +484,7 @@ The economy question patterns in recent cycles show consistent emphasis. The mac
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC economy share structural similarities with other examination traditions. The [A-Levels economics analytical approach](/a-levels/economics-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC economy answers particularly the discipline of integrating policy analysis with empirical evidence. The American policy school economics examinations and various civil service economics examinations test similar analytical skills.
+The preparation principles for UPSC economy share structural similarities with other examination traditions. The A-Levels economics analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC economy answers particularly the discipline of integrating policy analysis with empirical evidence. The American policy school economics examinations and various civil service economics examinations test similar analytical skills.
 
 ## The 90-Day Intensive Economy Plan
 

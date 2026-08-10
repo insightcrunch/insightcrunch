@@ -995,7 +995,7 @@ The PYQ final review involves systematic review of PYQ patterns reinforcing patt
 
 ## Cross-Examination Insights
 
-The final phase preparation principles share similarities with other examination traditions where cumulative preparation requires final phase consolidation. The [A-Levels final phase revision strategy](/a-levels/final-phase-revision-strategy/) on InsightCrunch's A-Levels series describes analogous final phase approach.
+The final phase preparation principles share similarities with other examination traditions where cumulative preparation requires final phase consolidation. The A-Levels final phase revision strategy on InsightCrunch's A-Levels series describes analogous final phase approach.
 
 ## The 60-Day Implementation Plan Summary
 

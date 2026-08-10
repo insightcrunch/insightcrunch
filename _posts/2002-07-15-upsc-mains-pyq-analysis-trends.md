@@ -605,7 +605,7 @@ The layered source approach includes UPSC official PYQ collections (most authori
 
 ## Cross-Examination Insights
 
-The PYQ analysis preparation principles share similarities with other examination traditions where past pattern analysis supports preparation calibration. The [A-Levels past paper analysis technique](/a-levels/past-paper-analysis-technique/) on InsightCrunch's A-Levels series describes pattern analysis principles that translate to UPSC Mains PYQ analysis.
+The PYQ analysis preparation principles share similarities with other examination traditions where past pattern analysis supports preparation calibration. The A-Levels past paper analysis technique on InsightCrunch's A-Levels series describes pattern analysis principles that translate to UPSC Mains PYQ analysis.
 
 ## The 60-Day PYQ Analysis Plan
 

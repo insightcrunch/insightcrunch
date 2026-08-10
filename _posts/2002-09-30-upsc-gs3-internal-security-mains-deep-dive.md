@@ -446,7 +446,7 @@ The internal security question patterns in recent cycles show consistent emphasi
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC internal security share structural similarities with other examination traditions testing applied security policy analysis. The [A-Levels politics analytical approach](/a-levels/politics-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC internal security answers particularly the discipline of integrating policy analysis with empirical evidence and balanced analytical perspective.
+The preparation principles for UPSC internal security share structural similarities with other examination traditions testing applied security policy analysis. The A-Levels politics analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC internal security answers particularly the discipline of integrating policy analysis with empirical evidence and balanced analytical perspective.
 
 ## The 90-Day Intensive Internal Security Plan
 

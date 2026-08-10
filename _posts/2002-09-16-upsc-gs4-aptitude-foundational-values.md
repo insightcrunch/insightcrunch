@@ -398,7 +398,7 @@ The foundational values question patterns in recent GS4 cycles show consistent e
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC GS4 foundational values share structural similarities with other examination traditions testing applied professional ethics. The [A-Levels professional ethics analytical approach](/a-levels/professional-ethics-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 foundational values answers particularly the discipline of integrating value frameworks with applied scenarios.
+The preparation principles for UPSC GS4 foundational values share structural similarities with other examination traditions testing applied professional ethics. The A-Levels professional ethics analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 foundational values answers particularly the discipline of integrating value frameworks with applied scenarios.
 
 ## The 60-Day Intensive Foundational Values Plan
 

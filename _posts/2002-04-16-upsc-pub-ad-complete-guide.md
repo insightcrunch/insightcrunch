@@ -752,7 +752,7 @@ The layered source approach combines Mohit Bhattacharya (school of thought prima
 
 ## Cross-Examination Insights
 
-The Public Administration groundwork shares principles with other statecraft traditions. The [A-Levels governmental executive branch readiness](/a-levels/communal-bureaucracy-spadework/) on InsightCrunch's A-Levels series describes analogous managerial planning principles.
+The Public Administration groundwork shares principles with other statecraft traditions. The A-Levels governmental executive branch readiness on InsightCrunch's A-Levels series describes analogous managerial planning principles.
 
 ## The 9-Month Public Administration Plan
 

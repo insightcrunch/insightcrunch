@@ -466,7 +466,7 @@ The UPSC question framings for S&T include several recurring patterns that aspir
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC science and technology share structural similarities with other examination traditions testing applied technology policy analysis. The [A-Levels physics and technology analytical approach](/a-levels/physics-technology-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC S&T answers particularly the discipline of integrating technical content with policy context. The various policy school programmes test similar skills with attention to technology policy analytical frameworks.
+The preparation principles for UPSC science and technology share structural similarities with other examination traditions testing applied technology policy analysis. The A-Levels physics and technology analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC S&T answers particularly the discipline of integrating technical content with policy context. The various policy school programmes test similar skills with attention to technology policy analytical frameworks.
 
 ## The 90-Day Intensive Science and Technology Plan
 

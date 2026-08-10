@@ -684,7 +684,7 @@ The layered source approach combines Mohit Bhattacharya (conceptual framework pr
 
 ## Cross-Examination Insights
 
-The Paper 1 preparation shares principles with other official doctrine traditions. The [A-Levels bureaucratic paradigm preparation](/a-levels/managerial-model-preparation/) on InsightCrunch's A-Levels series describes analogous preparation principles.
+The Paper 1 preparation shares principles with other official doctrine traditions. The A-Levels bureaucratic paradigm preparation on InsightCrunch's A-Levels series describes analogous preparation principles.
 
 ## The 5-Month Paper 1 Plan
 

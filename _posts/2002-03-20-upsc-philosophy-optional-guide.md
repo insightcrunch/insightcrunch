@@ -244,7 +244,7 @@ A civil servant is constantly required to reason through competing consideration
 
 The reflective temperament the subject cultivates also sustains an officer across a long career of difficult decisions, since the habit of examining one's own reasoning guards against the complacency and rigidity that erode judgement over time. An aspirant who chooses this optional is therefore not only preparing for two papers but cultivating a cast of mind that supports decades of considered public service, which is a return that extends far beyond the marks. The broader connection between optional study and administrative capability is drawn out in the optional subject selection guide.
 
-The preparation principles here also resonate with how reflective subjects are taught in other rigorous examination traditions. The [A-Levels philosophy preparation](/a-levels/philosophy-preparation/) on the InsightCrunch A-Levels series describes analogous argument-construction principles, and an aspirant curious about how the same reasoning discipline is cultivated elsewhere will find the parallel instructive.
+The preparation principles here also resonate with how reflective subjects are taught in other rigorous examination traditions. The A-Levels philosophy preparation on the InsightCrunch A-Levels series describes analogous argument-construction principles, and an aspirant curious about how the same reasoning discipline is cultivated elsewhere will find the parallel instructive.
 
 ## Deep Dive Into The Western Thinkers
 

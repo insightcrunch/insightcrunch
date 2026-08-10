@@ -626,7 +626,7 @@ The PYQ analysis through examiner perspective covers studying past papers recogn
 
 ## Cross-Examination Insights
 
-The examiner perspective preparation principles share similarities with other examination traditions where evaluator processing constraints affect optimal answer design. The [A-Levels examiner perspective answer technique](/a-levels/examiner-perspective-answer-technique/) on InsightCrunch's A-Levels series describes evaluator-perspective preparation principles that translate to UPSC Mains.
+The examiner perspective preparation principles share similarities with other examination traditions where evaluator processing constraints affect optimal answer design. The A-Levels examiner perspective answer technique on InsightCrunch's A-Levels series describes evaluator-perspective preparation principles that translate to UPSC Mains.
 
 ## The 60-Day Examiner Perspective Integration Plan
 

@@ -450,7 +450,7 @@ The philosophical topic patterns in recent cycles show consistent emphasis acros
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC philosophical essays share structural similarities with other examination traditions testing philosophical composition. The [A-Levels philosophy essay analytical approach](/a-levels/philosophy-essay-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC philosophical essay writing.
+The preparation principles for UPSC philosophical essays share structural similarities with other examination traditions testing philosophical composition. The A-Levels philosophy essay analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC philosophical essay writing.
 
 ## The 30-Day Intensive Philosophical Essay Plan
 

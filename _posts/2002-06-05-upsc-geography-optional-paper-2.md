@@ -708,7 +708,7 @@ The layered source approach combines Majid Husain human geography (primary for m
 
 ## Cross-Examination Insights
 
-The Paper 2 preparation shares principles with other examination human geography traditions. The [A-Levels human geography preparation](/a-levels/human-geography-preparation/) on InsightCrunch's A-Levels series describes analogous human geography principles.
+The Paper 2 preparation shares principles with other examination human geography traditions. The A-Levels human geography preparation on InsightCrunch's A-Levels series describes analogous human geography principles.
 
 ## The 6-Month Paper 2 Preparation Plan
 

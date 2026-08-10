@@ -690,7 +690,7 @@ The layered source approach combines NCERT textbooks (foundational), Bipan Chand
 
 ## Cross-Examination Insights
 
-The Paper 2 preparation shares principles with other assessment modern and world history traditions. The [A-Levels modern world history preparation](/a-levels/modern-world-history-preparation/) on InsightCrunch's A-Levels series describes analogous historical preparation principles.
+The Paper 2 preparation shares principles with other assessment modern and world history traditions. The A-Levels modern world history preparation on InsightCrunch's A-Levels series describes analogous historical preparation principles.
 
 ## The 7-Month Paper 2 Plan
 

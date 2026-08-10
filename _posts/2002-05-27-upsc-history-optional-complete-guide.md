@@ -704,7 +704,7 @@ The layered source approach combines NCERT textbooks (foundational), R.S. Sharma
 
 ## Cross-Examination Insights
 
-The History optional preparation shares principles with other examination history traditions. The [A-Levels history optional preparation](/a-levels/history-optional-preparation/) on InsightCrunch's A-Levels series describes analogous history preparation principles.
+The History optional preparation shares principles with other examination history traditions. The A-Levels history optional preparation on InsightCrunch's A-Levels series describes analogous history preparation principles.
 
 ## The 14-Month History Optional Plan
 

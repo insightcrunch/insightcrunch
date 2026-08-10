@@ -472,7 +472,7 @@ The current affairs topic patterns in recent cycles show consistent emphasis acr
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC current affairs essays share structural similarities with other examination traditions testing policy analytical writing. The [A-Levels policy analysis essay approach](/a-levels/policy-analysis-essay-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC current affairs essay writing particularly the discipline of evidence-based policy analysis with balanced treatment.
+The preparation principles for UPSC current affairs essays share structural similarities with other examination traditions testing policy analytical writing. The A-Levels policy analysis essay approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC current affairs essay writing particularly the discipline of evidence-based policy analysis with balanced treatment.
 
 ## The 30-Day Intensive Current Affairs Essay Plan
 

@@ -884,7 +884,7 @@ The layered source approach combines personal mistake audit from practice answer
 
 ## Cross-Examination Insights
 
-The mistake elimination preparation shares principles with other examination traditions where execution errors independently cost marks. The [A-Levels common examination mistakes guide](/a-levels/common-examination-mistakes/) on InsightCrunch's A-Levels series describes analogous mistake patterns.
+The mistake elimination preparation shares principles with other examination traditions where execution errors independently cost marks. The A-Levels common examination mistakes guide on InsightCrunch's A-Levels series describes analogous mistake patterns.
 
 ## The 30-Day Mistake Elimination Plan
 

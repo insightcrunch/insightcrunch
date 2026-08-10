@@ -280,7 +280,7 @@ The walkthrough demonstrates CASE framework deployment within 250-word constrain
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC GS4 case study answer writing share structural similarities with other examination traditions testing applied ethical analysis. The [A-Levels applied ethics case analysis approach](/a-levels/applied-ethics-case-analysis/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 case study answer writing particularly the discipline of structured framework deployment with specific scenario engagement.
+The preparation principles for UPSC GS4 case study answer writing share structural similarities with other examination traditions testing applied ethical analysis. The A-Levels applied ethics case analysis approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 case study answer writing particularly the discipline of structured framework deployment with specific scenario engagement.
 
 ## Deep Dive: Five More Practice Cases with Model Outlines
 

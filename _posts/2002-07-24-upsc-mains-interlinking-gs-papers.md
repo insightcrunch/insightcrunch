@@ -529,7 +529,7 @@ The PYQ analysis for cross-paper patterns reveals consistent emphasis on cross-p
 
 ## Cross-Examination Insights
 
-The cross-paper integration preparation principles share similarities with other examination traditions where cross-disciplinary integration produces analytical advantage. The [A-Levels cross-disciplinary integration technique](/a-levels/cross-disciplinary-integration-technique/) on InsightCrunch's A-Levels series describes integration preparation principles that translate to UPSC Mains cross-paper integration.
+The cross-paper integration preparation principles share similarities with other examination traditions where cross-disciplinary integration produces analytical advantage. The A-Levels cross-disciplinary integration technique on InsightCrunch's A-Levels series describes integration preparation principles that translate to UPSC Mains cross-paper integration.
 
 ## The 90-Day Cross-Paper Integration Plan
 

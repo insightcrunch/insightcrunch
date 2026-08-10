@@ -498,7 +498,7 @@ The agriculture question patterns in recent cycles show consistent emphasis. The
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC agriculture share structural similarities with other examination traditions testing applied agricultural policy analysis. The [A-Levels economics analytical approach](/a-levels/economics-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC agricultural answers particularly the discipline of integrating policy analysis with empirical evidence and balanced perspective.
+The preparation principles for UPSC agriculture share structural similarities with other examination traditions testing applied agricultural policy analysis. The A-Levels economics analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC agricultural answers particularly the discipline of integrating policy analysis with empirical evidence and balanced perspective.
 
 ## The 90-Day Intensive Agriculture Plan
 

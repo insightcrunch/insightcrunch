@@ -576,7 +576,7 @@ The layered source approach for qualifying paper preparation combines UPSC PYQ q
 
 ## Cross-Examination Insights
 
-The qualifying paper preparation shares principles with other examination traditions where qualifying thresholds create pass/fail gates. The [A-Levels qualifying language requirements](/a-levels/qualifying-language-requirements/) on InsightCrunch's A-Levels series describes analogous language proficiency requirements that translate to UPSC qualifying paper strategy.
+The qualifying paper preparation shares principles with other examination traditions where qualifying thresholds create pass/fail gates. The A-Levels qualifying language requirements on InsightCrunch's A-Levels series describes analogous language proficiency requirements that translate to UPSC qualifying paper strategy.
 
 ## The 30-Day Qualifying Paper Preparation Plan
 

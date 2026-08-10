@@ -508,7 +508,7 @@ The format distribution across recent GS papers shows consistent pattern. The 10
 
 ## Cross-Examination Insights
 
-The format discipline preparation principles share similarities with other examination traditions testing word-constrained writing. The [A-Levels word-constrained essay technique](/a-levels/word-constrained-essay-technique/) on InsightCrunch's A-Levels series describes format-specific preparation principles that translate to UPSC Mains answer writing.
+The format discipline preparation principles share similarities with other examination traditions testing word-constrained writing. The A-Levels word-constrained essay technique on InsightCrunch's A-Levels series describes format-specific preparation principles that translate to UPSC Mains answer writing.
 
 ## The 90-Day Intensive Format Mastery Plan
 

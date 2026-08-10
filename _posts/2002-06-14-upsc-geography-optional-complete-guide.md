@@ -730,7 +730,7 @@ The layered source approach combines Savindra Singh comprehensive texts (primary
 
 ## Cross-Examination Insights
 
-The Geography optional preparation shares principles with other examination geography traditions. The [A-Levels geography optional preparation](/a-levels/geography-optional-preparation/) on InsightCrunch's A-Levels series describes analogous geography preparation principles.
+The Geography optional preparation shares principles with other examination geography traditions. The A-Levels geography optional preparation on InsightCrunch's A-Levels series describes analogous geography preparation principles.
 
 ## The 12-Month Geography Optional Plan
 

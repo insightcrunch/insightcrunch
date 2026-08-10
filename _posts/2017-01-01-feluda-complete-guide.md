@@ -412,7 +412,7 @@ If you have read this far, you have given us the patience this introduction requ
 
 Bengal refuses to forget Feluda. We hope, after sixty years of his existence and 150 articles of our attention, that you will not forget him either.
 
-For broader context on how regional Indian literary characters relate to national Indian cultural reach, the [Bollywood Authority Series treatment of the geographic limits of Bengali cinema's Hindi crossover](/bollywood-cinema-authority/bengali-cinema-national-reach/) explores why Feluda has remained regional even as other Bengali literary properties have crossed over, and why that regional rootedness is a source of strength rather than weakness.
+For broader context on how regional Indian literary characters relate to national Indian cultural reach, the Bollywood Authority Series treatment of the geographic limits of Bengali cinema's Hindi crossover explores why Feluda has remained regional even as other Bengali literary properties have crossed over, and why that regional rootedness is a source of strength rather than weakness.
 
 ## Frequently Asked Questions
 

@@ -430,7 +430,7 @@ The directional shifts include increasing emphasis on digital economy and digita
 
 ## Cross-Examination Insights: GS Paper 3 Across Traditions
 
-The preparation principles for UPSC GS Paper 3 share structural similarities with other major examination traditions testing applied policy analysis. The British civil service examinations and various policy school examinations test similar analytical skills with attention to policy frameworks and contemporary developments. The [A-Levels economics analytical approach](/a-levels/economics-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS Paper 3 economy answers.
+The preparation principles for UPSC GS Paper 3 share structural similarities with other major examination traditions testing applied policy analysis. The British civil service examinations and various policy school examinations test similar analytical skills with attention to policy frameworks and contemporary developments. The A-Levels economics analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS Paper 3 economy answers.
 
 The differences from UPSC GS Paper 3 are instructive. UPSC is uniquely demanding in integration of economy technology environment and security within single paper the expectation of current affairs integration with foundational understanding and the attention to specifically Indian contexts with distinctive institutional features.
 

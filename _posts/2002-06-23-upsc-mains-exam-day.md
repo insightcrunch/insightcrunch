@@ -952,7 +952,7 @@ The layered source approach for examination day strategy combines personal exami
 
 ## Cross-Examination Insights
 
-The examination day approach shares principles with other examination traditions requiring multi-session sustained performance. The [A-Levels examination day approach](/a-levels/examination-day-approach/) on InsightCrunch's A-Levels series describes analogous examination execution principles.
+The examination day approach shares principles with other examination traditions requiring multi-session sustained performance. The A-Levels examination day approach on InsightCrunch's A-Levels series describes analogous examination execution principles.
 
 ## Day-by-Day Summary Plan
 

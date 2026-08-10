@@ -672,7 +672,7 @@ The layered source approach combines Laxmikanth (constitutional governmental han
 
 ## Cross-Examination Insights
 
-The Paper 2 preparation shares principles with other Indian stewardship traditions. The [A-Levels Indian statecraft preparation](/a-levels/indian-governance-preparation/) on InsightCrunch's A-Levels series describes analogous communal direction preparation principles.
+The Paper 2 preparation shares principles with other Indian stewardship traditions. The A-Levels Indian statecraft preparation on InsightCrunch's A-Levels series describes analogous communal direction preparation principles.
 
 ## The 5-Month Paper 2 Plan
 

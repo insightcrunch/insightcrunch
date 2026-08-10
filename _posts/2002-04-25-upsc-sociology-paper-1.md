@@ -631,7 +631,7 @@ The layered source approach combines Haralambos and Holborn (theory primary), IG
 
 ## Cross-Examination Insights
 
-The Paper 1 preparation shares principles with other sociological theory traditions. The [A-Levels sociological theory preparation](/a-levels/sociological-theory-preparation/) on InsightCrunch's A-Levels series describes analogous sociological preparation principles.
+The Paper 1 preparation shares principles with other sociological theory traditions. The A-Levels sociological theory preparation on InsightCrunch's A-Levels series describes analogous sociological preparation principles.
 
 ## The 5-Month Paper 1 Plan
 

@@ -697,7 +697,7 @@ The layered source approach combines NCERT Sociology (foundational), IGNOU mater
 
 ## Cross-Examination Insights
 
-The Paper 2 preparation shares principles with other Indian society traditions. The [A-Levels Indian society preparation](/a-levels/indian-society-preparation/) on InsightCrunch's A-Levels series describes analogous sociological preparation principles.
+The Paper 2 preparation shares principles with other Indian society traditions. The A-Levels Indian society preparation on InsightCrunch's A-Levels series describes analogous sociological preparation principles.
 
 ## The 5-Month Paper 2 Plan
 

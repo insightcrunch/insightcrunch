@@ -482,7 +482,7 @@ The systematic mapping enables productive deployment across foundational values 
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC GS4 thinkers share structural similarities with other examination traditions testing philosophical deployment. The [A-Levels philosophy thinkers deployment approach](/a-levels/philosophy-thinkers-deployment/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 thinker deployment.
+The preparation principles for UPSC GS4 thinkers share structural similarities with other examination traditions testing philosophical deployment. The A-Levels philosophy thinkers deployment approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 thinker deployment.
 
 ## The 30-Day Intensive Thinker Plan
 

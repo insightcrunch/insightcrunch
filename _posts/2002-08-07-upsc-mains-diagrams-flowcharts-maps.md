@@ -670,7 +670,7 @@ The visual element distribution across recent GS papers shows certain question t
 
 ## Cross-Examination Insights
 
-The visual element preparation principles share similarities with other examination traditions testing visual analytical capability. The [A-Levels visual element examination technique](/a-levels/visual-element-examination-technique/) on InsightCrunch's A-Levels series describes visual preparation principles that translate to UPSC Mains visual element deployment.
+The visual element preparation principles share similarities with other examination traditions testing visual analytical capability. The A-Levels visual element examination technique on InsightCrunch's A-Levels series describes visual preparation principles that translate to UPSC Mains visual element deployment.
 
 ## The 60-Day Intensive Visual Element Mastery Plan
 

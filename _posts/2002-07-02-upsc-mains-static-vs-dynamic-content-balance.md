@@ -809,7 +809,7 @@ The PYQ analysis for static-dynamic patterns reveals examination content prefere
 
 ## Cross-Examination Insights
 
-The static-dynamic balance preparation principles share similarities with other examination traditions requiring foundational knowledge with contemporary integration. The [A-Levels content balance strategy](/a-levels/content-balance-strategy/) on InsightCrunch's A-Levels series describes similar balance principles applicable to UPSC Mains.
+The static-dynamic balance preparation principles share similarities with other examination traditions requiring foundational knowledge with contemporary integration. The A-Levels content balance strategy on InsightCrunch's A-Levels series describes similar balance principles applicable to UPSC Mains.
 
 ## The 60-Day Balance Implementation Plan
 

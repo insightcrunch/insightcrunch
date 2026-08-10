@@ -392,7 +392,7 @@ The public administration ethics question patterns in recent GS4 cycles show con
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC GS4 public administration ethics share structural similarities with other examination traditions testing applied governance analysis. The [A-Levels public policy analysis approach](/a-levels/public-policy-analysis-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 public administration ethics answers particularly the discipline of integrating governance frameworks with applied scenarios.
+The preparation principles for UPSC GS4 public administration ethics share structural similarities with other examination traditions testing applied governance analysis. The A-Levels public policy analysis approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 public administration ethics answers particularly the discipline of integrating governance frameworks with applied scenarios.
 
 ## The 60-Day Intensive Public Administration Ethics Plan
 

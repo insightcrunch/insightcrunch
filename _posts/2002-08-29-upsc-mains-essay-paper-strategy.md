@@ -548,7 +548,7 @@ The integrated daily-weekly-monthly-quarterly engagement produces comprehensive 
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC Mains essay share structural similarities with other examination traditions testing extended composition. The [A-Levels extended essay analytical approach](/a-levels/extended-essay-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC essay writing particularly the discipline of structured multi-dimensional analytical composition.
+The preparation principles for UPSC Mains essay share structural similarities with other examination traditions testing extended composition. The A-Levels extended essay analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC essay writing particularly the discipline of structured multi-dimensional analytical composition.
 
 ## The 60-Day Intensive Essay Plan
 

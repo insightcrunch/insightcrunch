@@ -486,7 +486,7 @@ The environment question patterns in recent cycles show consistent emphasis with
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC environment share structural similarities with other examination traditions testing applied environmental policy analysis. The [A-Levels environmental science analytical approach](/a-levels/environmental-science-analytical-approach/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC environment answers particularly the discipline of integrating scientific content with policy framework and balanced analytical perspective.
+The preparation principles for UPSC environment share structural similarities with other examination traditions testing applied environmental policy analysis. The A-Levels environmental science analytical approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC environment answers particularly the discipline of integrating scientific content with policy framework and balanced analytical perspective.
 
 ## The 90-Day Intensive Environment Plan
 

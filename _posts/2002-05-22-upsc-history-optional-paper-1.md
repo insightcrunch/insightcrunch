@@ -692,7 +692,7 @@ The layered source approach combines NCERT textbooks (foundational), R.S. Sharma
 
 ## Cross-Examination Insights
 
-The Paper 1 preparation shares principles with other examination ancient and medieval history traditions. The [A-Levels ancient medieval history preparation](/a-levels/ancient-medieval-history-preparation/) on InsightCrunch's A-Levels series describes analogous historical preparation principles.
+The Paper 1 preparation shares principles with other examination ancient and medieval history traditions. The A-Levels ancient medieval history preparation on InsightCrunch's A-Levels series describes analogous historical preparation principles.
 
 ## The 7-Month Paper 1 Plan
 

@@ -380,7 +380,7 @@ The GS4 question patterns in recent cycles show consistent emphasis. The Section
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC GS4 share structural similarities with other examination traditions testing applied ethical reasoning. The [A-Levels philosophy applied ethics approach](/a-levels/philosophy-applied-ethics/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 answers particularly the discipline of integrating ethical theory with applied scenarios.
+The preparation principles for UPSC GS4 share structural similarities with other examination traditions testing applied ethical reasoning. The A-Levels philosophy applied ethics approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 answers particularly the discipline of integrating ethical theory with applied scenarios.
 
 ## The 90-Day Intensive GS4 Plan
 

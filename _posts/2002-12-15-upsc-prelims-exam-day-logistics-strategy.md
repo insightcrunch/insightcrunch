@@ -100,7 +100,7 @@ For aspirants travelling from outside the exam city, do not arrive on Saturday n
 
 Carry minimal cash, a debit card, and a small printed map of the centre area in case your phone battery dies. Note the contact numbers of two family members or friends in the contacts section of your wallet, on paper. A dead phone in an unfamiliar neighbourhood at 8 am on Sunday is a scenario you can plan for in 30 seconds today.
 
-For a parallel approach to standardised test logistics, the planning principles outlined in the [SAT exam day strategy and timing approach](/sat/exam-day-strategy/) on InsightCrunch's SAT series translate well to the UPSC context, especially around buffer time and the night-before protocol, even though the cognitive demands of the two exams differ significantly.
+For a parallel approach to standardised test logistics, the planning principles outlined in the SAT exam day strategy and timing approach on InsightCrunch's SAT series translate well to the UPSC context, especially around buffer time and the night-before protocol, even though the cognitive demands of the two exams differ significantly.
 
 ## Inside the Examination Hall: The First 15 Minutes
 
@@ -338,7 +338,7 @@ The full-fidelity rehearsal accomplishes three things. First, it reveals weaknes
 
 Aspirants who skip the full-fidelity rehearsal because it feels excessive consistently report higher exam-day anxiety than aspirants who do it. The 10-hour investment in two rehearsal Sundays pays off in 5 to 10 marks of improved exam-day performance, which often translates directly into selection.
 
-The framework of full-fidelity rehearsal is widely used in elite educational contexts globally. The [A-Levels exam preparation and full mock protocol](/a-levels/exam-preparation-strategy/) on InsightCrunch's A-Levels series describes a similar rehearsal philosophy for British curriculum aspirants, and the underlying principles transfer directly to UPSC. The practice of treating the exam day as a performance and the preparation period as rehearsal is one of the highest-leverage shifts an aspirant can make.
+The framework of full-fidelity rehearsal is widely used in elite educational contexts globally. The A-Levels exam preparation and full mock protocol on InsightCrunch's A-Levels series describes a similar rehearsal philosophy for British curriculum aspirants, and the underlying principles transfer directly to UPSC. The practice of treating the exam day as a performance and the preparation period as rehearsal is one of the highest-leverage shifts an aspirant can make.
 
 The relationship between exam day execution and overall preparation is bidirectional. The [UPSC complete guide and master roadmap](/2003/07/24/upsc-civil-services-complete-guide/) lays out the multi-year preparation arc within which exam day is the culmination, and understanding where exam day fits in the broader journey reduces its psychological weight. Exam day is not the end of preparation. Exam day is one stage in a multi-stage selection process, and even if Prelims goes poorly, the cycle repeats next year and the lessons accumulate.
 

@@ -70,7 +70,7 @@ James McPherson, in Battle Cry of Freedom, treats this transformation as the gov
 
 A closer look at Lincoln's cabinet selections reinforces the reading. Seward, the establishment Republican who had assumed he would receive the 1860 nomination, became the indispensable senior partner. Chase, who continued to plot for the 1864 nomination from inside the cabinet, ran Treasury through the most expansive financial innovations any peacetime or wartime newcomer had attempted. Stanton, who entered as a Democrat and former Buchanan attorney general, became the architect of the wartime War Department. The cabinet was an establishment cabinet, even though the man leading it was the challenger. Lincoln's instinct to govern through the established figures rather than to displace them was the central operational decision of the early presidency. The decision is recognizable as the third assimilation sign, personnel migration toward establishment figures.
 
-This tendency of wartime acceleration is treated more directly in [the audit of every wartime president and the power they retained](/articles/wartime-presidents-power-expansion-phenomenon), where the broader claim that emergency authority never reverses is tested across eight cases.
+This tendency of wartime acceleration is treated more directly in the audit of every wartime president and the power they retained, where the broader claim that emergency authority never reverses is tested across eight cases.
 
 ## Woodrow Wilson and the Progressive Administrative State, 1913 to 1915
 

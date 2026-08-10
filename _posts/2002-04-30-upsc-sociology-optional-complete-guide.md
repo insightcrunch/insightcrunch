@@ -794,7 +794,7 @@ The layered source approach combines Haralambos and Holborn (theory primary), NC
 
 ## Cross-Examination Insights
 
-The Sociology preparation shares principles with other examination sociology traditions. The [A-Levels sociology preparation](/a-levels/sociology-preparation/) on InsightCrunch's A-Levels series describes analogous sociological preparation principles.
+The Sociology preparation shares principles with other examination sociology traditions. The A-Levels sociology preparation on InsightCrunch's A-Levels series describes analogous sociological preparation principles.
 
 ## The 9-Month Sociology Plan
 

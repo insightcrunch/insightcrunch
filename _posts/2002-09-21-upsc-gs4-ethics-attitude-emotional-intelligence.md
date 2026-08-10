@@ -374,7 +374,7 @@ The theoretical question patterns in recent GS4 cycles show consistent emphasis.
 
 ## Cross-Examination Insights
 
-The preparation principles for UPSC GS4 theoretical questions share structural similarities with other examination traditions testing applied conceptual analysis. The [A-Levels psychology applied analysis approach](/a-levels/psychology-applied-analysis/) on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 theoretical answers particularly the discipline of integrating theoretical concepts with applied scenarios.
+The preparation principles for UPSC GS4 theoretical questions share structural similarities with other examination traditions testing applied conceptual analysis. The A-Levels psychology applied analysis approach on InsightCrunch's A-Levels series describes preparation principles that translate to UPSC GS4 theoretical answers particularly the discipline of integrating theoretical concepts with applied scenarios.
 
 ## The 90-Day Intensive Theoretical Question Plan
 

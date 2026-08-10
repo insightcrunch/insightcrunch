@@ -846,7 +846,7 @@ The layered source approach combines Savindra Singh comprehensive physical geogr
 
 ## Cross-Examination Insights
 
-The Paper 1 preparation shares principles with other examination physical geography traditions. The [A-Levels physical geography preparation](/a-levels/physical-geography-preparation/) on InsightCrunch's A-Levels series describes analogous physical geography preparation principles.
+The Paper 1 preparation shares principles with other examination physical geography traditions. The A-Levels physical geography preparation on InsightCrunch's A-Levels series describes analogous physical geography preparation principles.
 
 ## The 6-Month Paper 1 Preparation Plan
 

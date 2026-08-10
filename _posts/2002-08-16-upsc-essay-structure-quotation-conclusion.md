@@ -530,7 +530,7 @@ The PYQ analysis through structural lens reveals consistent patterns across rece
 
 ## Cross-Examination Insights
 
-The structural techniques described here share principles with other examination traditions testing extended composition. The [A-Levels essay structural craftsmanship approach](/a-levels/essay-structural-craftsmanship/) on InsightCrunch's A-Levels series describes structural preparation principles that translate to UPSC essay writing.
+The structural techniques described here share principles with other examination traditions testing extended composition. The A-Levels essay structural craftsmanship approach on InsightCrunch's A-Levels series describes structural preparation principles that translate to UPSC essay writing.
 
 ## The 30-Day Intensive Structural Mastery Plan
 

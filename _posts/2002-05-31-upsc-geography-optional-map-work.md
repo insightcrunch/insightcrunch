@@ -850,7 +850,7 @@ The layered source approach combines Oxford Student Atlas or Orient Blackswan At
 
 ## Cross-Examination Insights
 
-The map work and scoring preparation shares principles with other examination geography traditions requiring visual spatial competence. The [A-Levels geography map work strategy](/a-levels/geography-map-work-strategy/) on InsightCrunch's A-Levels series describes analogous map work preparation principles.
+The map work and scoring preparation shares principles with other examination geography traditions requiring visual spatial competence. The A-Levels geography map work strategy on InsightCrunch's A-Levels series describes analogous map work preparation principles.
 
 ## The 12-Month Map Work and Diagram Plan
 

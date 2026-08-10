@@ -572,7 +572,7 @@ The PYQ analysis through introduction-conclusion lens reveals consistent pattern
 
 ## Cross-Examination Insights
 
-The introduction-conclusion craftsmanship principles share similarities with other examination traditions testing extended composition. The [A-Levels introduction-conclusion craftsmanship technique](/a-levels/introduction-conclusion-craftsmanship/) on InsightCrunch's A-Levels series describes opening-closing preparation principles that translate to UPSC Mains answer writing.
+The introduction-conclusion craftsmanship principles share similarities with other examination traditions testing extended composition. The A-Levels introduction-conclusion craftsmanship technique on InsightCrunch's A-Levels series describes opening-closing preparation principles that translate to UPSC Mains answer writing.
 
 ## The 60-Day Intensive Technique Mastery Plan
 

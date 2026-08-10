@@ -791,7 +791,7 @@ The PYQ analysis integration identifies vital topics warranting deep coverage. T
 
 ## Cross-Examination Insights
 
-The smart coverage preparation principles share similarities with other examination traditions where comprehensive syllabus challenges require strategic depth allocation. The [A-Levels smart revision strategy](/a-levels/smart-revision-strategy/) on InsightCrunch's A-Levels series describes strategic preparation principles that translate to UPSC Mains.
+The smart coverage preparation principles share similarities with other examination traditions where comprehensive syllabus challenges require strategic depth allocation. The A-Levels smart revision strategy on InsightCrunch's A-Levels series describes strategic preparation principles that translate to UPSC Mains.
 
 ## The 90-Day Smart Coverage Implementation Plan
 
