@@ -9,7 +9,7 @@ excerpt: "Managed identity vs service principal in Azure comes down to secrets: 
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 60
 author: "abigail-cooper"
-last_updated: 2024-01-08
+last_updated: 2026-08-13
 lang: en
 ---
 Every Azure workload that calls another Azure service has to prove who it is, and the choice of how it proves that is where most credential leaks begin. The managed identity vs service principal decision looks like a small implementation detail, a line in a deployment script, until a secret scanner flags a client secret hardcoded in a pipeline variable or a six-month-old certificate expires at two in the morning and takes a production integration down with it. The two options answer the same question, namely how a non-human caller authenticates to Microsoft Entra ID, but they answer it with opposite assumptions about who holds the credential and who is responsible when it leaks or lapses. One asks you to create, store, protect, and rotate a secret forever. The other hands the entire credential problem to the platform and gives you nothing to leak.

@@ -9,7 +9,7 @@ excerpt: "Azure RBAC vs ABAC explained: how role assignments, scope, custom role
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
 author: "ian-fletcher"
-last_updated: 2024-01-01
+last_updated: 2026-08-13
 lang: en
 ---
 Every over-permissioned subscription starts with a reasonable-sounding shortcut. Someone needs an application to read a storage account, the clock is ticking, and the fastest path is to grant Contributor at the subscription. The application works, the ticket closes, and a standing grant now reaches every resource under that subscription for as long as nobody audits it. The exposure is not theoretical. A leaked token for that identity, a compromised pipeline that runs as it, or a misconfigured app that gets tricked into acting on an attacker's behalf now inherits the blast radius of the broadest role at the widest scope. The whole point of authorization in Azure is to make that blast radius a deliberate choice rather than an accident, and the two mechanisms that let you choose it are Azure RBAC and ABAC.

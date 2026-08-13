@@ -10,6 +10,7 @@ author: "emily-reed"
 tags: ["The Great Gatsby", "Myrtle Wilson", "George Wilson", "Character Analysis", "Death and Mortality", "American Literature"]
 reading_time: 49
 lang: en
+last_updated: 2026-08-13
 ---
 ## The question this article answers
 

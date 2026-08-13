@@ -9,7 +9,7 @@ excerpt: "Daisy and Jordan as contrasting women: how Fitzgerald sets the depende
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 47
 author: "elena-wright"
-last_updated: 2024-01-08
+last_updated: 2026-08-13
 lang: en
 ---
 Most readers meet Daisy Buchanan and Jordan Baker in the same room, lifted onto the same enormous couch, dressed in the same rippling white, and they file the two women away as a matched set: the lovely rich girls who decorate the East Egg world Nick Carraway has wandered into. That first impression is a trap the novel sets on purpose. Daisy and Jordan as contrasting women is the more accurate frame, because once the white dresses settle, the two pull in opposite directions, and the distance between them becomes one of the sharpest measures Fitzgerald gives us of what the 1920s allowed a woman to be. Daisy is the married, dependent wife whose security runs entirely through a husband and his money. Jordan is the unmarried professional golfer who answers to no one and pays her own way. Set the two side by side and you stop reading either as a type and start reading both as choices, two different answers to the same narrow set of questions.

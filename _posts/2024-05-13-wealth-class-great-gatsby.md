@@ -9,7 +9,7 @@ excerpt: "Wealth and class in The Great Gatsby decide who survives the novel, so
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 47
 author: "megan-clark"
-last_updated: 2024-05-13
+last_updated: 2026-08-13
 lang: en
 ---
 Wealth and class in The Great Gatsby are not background scenery against which a love story plays out; they are the machinery that decides which characters live, which die, and which walk away unscathed. Fitzgerald wrote a novel that looks like a romance and works like a sorting engine. Money enters every room before the people do, and by the final page it has quietly assigned each of them a fate that matches their bank balance and their breeding. The book's deepest claim is not that the rich are cruel, though some of them are. It is that money is destiny, and that the American promise of self-invention shatters against a class line the characters can see but never cross.

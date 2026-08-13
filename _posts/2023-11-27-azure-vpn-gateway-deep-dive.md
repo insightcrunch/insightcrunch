@@ -9,7 +9,7 @@ excerpt: "Azure VPN gateway deep dive: route-based versus policy-based, the SKUs
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
 author: "nathan-cole"
-last_updated: 2023-11-27
+last_updated: 2026-08-13
 lang: en
 ---
 The first time an engineer wires an Azure VPN gateway to an on-premises firewall, the tunnel often comes up, passes a ping, and then quietly refuses to carry a second subnet, drop a route the team expected, or survive a maintenance event on the Azure side. The confusion is rarely about the encryption. IPsec is mature, and the cryptographic handshake either completes or it does not. The confusion is about what kind of gateway was built, what that gateway type is structurally capable of, and how Azure decides which traffic enters the tunnel at all. An Azure VPN gateway is not a single product with a few knobs. It is a family of gateway types, sizes, and connection modes whose every visible behavior follows from two early decisions that are easy to make by accident and expensive to reverse.

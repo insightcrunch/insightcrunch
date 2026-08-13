@@ -9,7 +9,7 @@ excerpt: "Violence in The Great Gatsby flows downward and unpunished: the secure
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2024-09-16
+last_updated: 2026-08-13
 lang: en
 ---
 Violence in The Great Gatsby is the part of the novel that gets noticed and then misread. Readers register the broken nose, the death car, and the gunshots in the garden as shocks along the way to the ending, isolated jolts in a story that is mostly about parties and a green light. The argument this analysis defends is harder and more useful: the bloodshed in Fitzgerald's novel is not scattered, and it is not even-handed. It runs in a single direction. Tom Buchanan strikes a working woman across the face and pours himself another drink. A machine owned by the new-money world kills that same woman, and the wife driving it is shielded by the family's money. A grieving mechanic shoots the man the secure rich have set up to take the blame, then shoots himself. Across every one of these acts a pattern holds: the people who commit harm and keep their lives are the established rich, and the people who absorb harm with their bodies are the poor and the outsiders. Call it the downward-and-unpunished rule, the through-line that organizes violence in The Great Gatsby into an argument about class rather than a sequence of accidents.

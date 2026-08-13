@@ -8,6 +8,7 @@ slug: michaelis-character-analysis
 excerpt: "Michaelis is the witness who stays in The Great Gatsby, the coffee-shop owner whose all-night vigil with Wilson exposes the careless retreat of the rich."
 reading_time: 48
 lang: en
+last_updated: 2026-08-13
 ---
 When the worst thing in The Great Gatsby finally happens, who is standing closest to it, and why does the novel choose him? The answer is Michaelis, the quiet coffee-shop owner of the valley of ashes, and the choice is anything but accidental. The central question this study asks is simple to state and surprisingly deep to answer: what is Michaelis for? He has no fortune, no party, no dream, and barely a paragraph of backstory. Yet Fitzgerald hands him the most morally weighted hours in the book, the long night beside a broken George Wilson, and trusts him to carry what the rich characters will not stay to see.
 

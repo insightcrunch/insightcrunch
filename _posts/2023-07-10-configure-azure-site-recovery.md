@@ -9,7 +9,7 @@ excerpt: "Azure Site Recovery setup means more than enabling replication. Build 
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 61
 author: "ryan-walsh"
-last_updated: 2023-07-10
+last_updated: 2026-08-13
 lang: en
 ---
 A green replication health icon is the most dangerous thing in your disaster recovery posture, because it looks like readiness and is not. Azure Site Recovery setup tends to stop at the moment the portal reports that a virtual machine is protected and the recovery points are flowing, and the team marks the workload as covered. Then the primary region has a bad afternoon, someone opens the recovery plan that was never built, and the failover that was supposed to be a button press becomes an improvised scramble across a dozen machines that come up in the wrong order with no network to land in. The gap between replication being healthy and a region loss being survivable is the entire subject of this article, and closing it is the difference between disaster recovery on paper and disaster recovery you can actually run.

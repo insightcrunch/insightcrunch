@@ -9,7 +9,7 @@ excerpt: "Secure AKS cluster hardening across the API server, network policy, th
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 60
 author: "william-knight"
-last_updated: 2024-02-12
+last_updated: 2026-08-13
 lang: en
 ---
 A managed control plane does not mean a managed security posture. When you provision an Azure Kubernetes Service cluster with the portal defaults or a quickstart command, you get a working cluster in minutes, and almost every control that would keep an attacker out is either off, wide open, or pointed at a public endpoint. To secure an AKS cluster you have to understand that the defaults optimize for "it runs," not "it is safe," and the gap between those two states is where most real incidents live. This guide walks the full attack surface of a cluster and the concrete control that closes each opening, in the order an engineer should apply them.

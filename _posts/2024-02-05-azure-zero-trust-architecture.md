@@ -9,7 +9,7 @@ excerpt: "Azure Zero Trust architecture moves the perimeter from network to iden
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "nathan-cole"
-last_updated: 2024-02-05
+last_updated: 2026-08-13
 lang: en
 ---
 Most security incidents in the cloud do not begin with a breached firewall. They begin with a valid credential used by the wrong party, a service account with far more access than its job requires, or a workload that was implicitly trusted because it happened to sit inside the right virtual network. Azure Zero Trust architecture exists to close that gap. It is not a product you purchase, a license you activate, or a network project you complete once and forget. It is a security model that withdraws the assumption of trust from network location and forces every request, from a user, a device, a service, or a workload, to prove itself against current evidence before any access is granted.

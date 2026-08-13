@@ -9,7 +9,7 @@ excerpt: "Appearance and identity in Great Gatsby is the theme where surface sto
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2024-07-08
+last_updated: 2026-08-13
 lang: en
 ---
 The argument Fitzgerald makes about appearance and identity in Great Gatsby is sharper than the usual classroom summary admits. The novel does not simply say that people put on a front, or that the rich hide behind their money. It says something colder: that for these characters appearance has stopped expressing who they are and started standing in for who they are. The surface is not a mask laid over a face. It has become the face. A reader who treats this as a lesson about vanity will miss the structural claim underneath, which is that the self in this book is something the characters perform into existence and then cannot find again when the performance fails.

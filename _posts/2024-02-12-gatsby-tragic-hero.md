@@ -3,7 +3,7 @@ title: "Gatsby as a Tragic Hero: The Classical Case Tested"
 page_title: "Gatsby as a Tragic Hero: A Great Gatsby Character Analysis of Greatness, Flaw, Reversal, and the Recognition That Never Comes"
 slug: gatsby-tragic-hero
 date: 2024-02-12
-last_updated: 2024-02-12
+last_updated: 2026-08-13
 excerpt: "Gatsby as a tragic hero: a label most assert and few test. This character analysis weighs greatness, flaw, reversal, and the recognition he never reaches."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]

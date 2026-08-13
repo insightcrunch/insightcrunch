@@ -9,7 +9,7 @@ excerpt: "Hub-spoke vs Virtual WAN comes down to one axis: control or managed sc
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 61
 author: "david-thornton"
-last_updated: 2024-06-17
+last_updated: 2026-08-13
 lang: en
 ---
 A network architect sketching out a multi-region Azure estate reaches the same fork every time. On one side sits the hand-built hub-spoke: a hub virtual network carrying shared services, spoke VNets peered into it, route tables steering traffic through a central firewall. On the other side sits Azure Virtual WAN: a managed service where Microsoft owns the hub, the routing engine, and most of the transit plumbing, and the team connects spokes and branches without wiring the mesh by hand. Both deliver hub-and-spoke connectivity. Both centralize egress through a firewall. Both can span regions. So the question that stalls the design review is rarely "which one connects VNets" and almost always "which one will this team still want to operate when the estate has thirty spokes across five regions and a dozen branch offices."

@@ -9,7 +9,7 @@ excerpt: "The frontier in The Great Gatsby inverts the westering myth: its Weste
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2024-11-11
+last_updated: 2026-08-13
 lang: en
 ---
 The frontier in The Great Gatsby is the one piece of the novel's machinery that most readers never notice is running. They feel the green light, they argue about the American Dream, they quote the last line about boats against the current, and they miss that all three sit on top of a buried national story: the story of moving West to make a new self on new land. Fitzgerald does not lecture you about the frontier. He inverts it, quietly, by sending every major character in the wrong direction and then closing the book with the only westward gaze in it, a gaze pointed not at the future but four centuries into the past. Read the novel with the frontier in view and its geography stops being scenery and becomes argument.

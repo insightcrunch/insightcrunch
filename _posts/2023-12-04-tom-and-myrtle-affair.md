@@ -9,7 +9,7 @@ excerpt: "The Tom and Myrtle affair in The Great Gatsby inverts the Gatsby and D
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 47
 author: "claire-bennett"
-last_updated: 2023-12-04
+last_updated: 2026-08-13
 lang: en
 ---
 Ask most readers what the central romance of The Great Gatsby is, and they will name Gatsby reaching across the bay for Daisy. Ask them about the Tom and Myrtle affair, and they will call it a subplot, a piece of sordid color from the second chapter, the thing that happens before the real story gets going. That answer mistakes a structural mirror for a footnote. The liaison between Tom Buchanan and Myrtle Wilson is the novel's second love story, and it is built as a deliberate inversion of the first. Where Gatsby reaches up across the class line for a woman above him, Tom reaches down across the same line for a woman beneath him. Set the two side by side and the book hands you its hardest verdict about America: the line that separates old money from everyone else wounds anyone who crosses it in either direction, but it punishes the one reaching up with a completeness it never visits on the one reaching down.

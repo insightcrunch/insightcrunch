@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby's cast of liars makes deception the rule: who lies, t
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 47
 author: "emily-reed"
-last_updated: 2024-03-18
+last_updated: 2026-08-13
 lang: en
 ---
 ## The novel where almost no one tells the truth

@@ -9,7 +9,7 @@ excerpt: "Self-invention and reinvention in Gatsby remake James Gatz into Jay Ga
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2024-07-15
+last_updated: 2026-08-13
 lang: en
 ---
 Jay Gatsby is not a man so much as a project. The dazzling host of West Egg, the owner of the blue gardens and the yellow car, the figure who reaches toward a green light across the water, did not arrive in the world fully formed. He was made, deliberately and against the grain of his origins, by a boy named James Gatz who decided that the life he was born into would not be the life he kept. To study self-invention and reinvention in Gatsby is to study that decision and everything it costs, because the novel's most famous character is also its clearest argument about whether a person can author a wholly new self and survive the writing.

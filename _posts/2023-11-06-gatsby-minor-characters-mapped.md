@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby's minor characters mapped by function: each supportin
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 47
 author: "claire-bennett"
-last_updated: 2023-11-06
+last_updated: 2026-08-13
 lang: en
 ---
 Ask most readers to name the people in The Great Gatsby and you get six names, maybe seven. Gatsby. Daisy. Nick. Tom. Jordan. Myrtle and her husband. Then the list runs dry, and the rest of the novel's population fades into a blur of party guests and passing faces. Yet the supporting cast is where Fitzgerald does some of his most precise work, and a careful map of the great gatsby's minor characters mapped against their functions shows a book engineered far more tightly than its dreamy surface suggests. Every figure who steps into the frame, the drunk in the library, the boarder at the piano, the Greek who runs the all-night cafe, the proud father who arrives by train, was placed there to do a specific job. Nothing in this novel is filler. The crowd that seems random is a system.

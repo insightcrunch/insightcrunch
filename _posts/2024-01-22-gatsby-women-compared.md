@@ -9,7 +9,7 @@ excerpt: "The women of Great Gatsby compared: how Daisy, Jordan, and Myrtle map 
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 47
 author: "elena-wright"
-last_updated: 2024-01-22
+last_updated: 2026-08-13
 lang: en
 ---
 ![The women of The Great Gatsby compared, Daisy, Jordan, and Myrtle as a spectrum of female options - Insight Crunch](/assets/images/blog/blog-11.webp)

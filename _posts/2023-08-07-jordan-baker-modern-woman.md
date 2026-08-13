@@ -9,7 +9,7 @@ excerpt: "Jordan Baker: the dishonest modern woman of The Great Gatsby is the er
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 47
 author: "sarah-mitchell"
-last_updated: 2023-08-07
+last_updated: 2026-08-13
 lang: en
 ---
 There is a question most readers skip when they meet Jordan Baker, and it is the question that unlocks her: is she a woman the novel admires, a woman the novel warns against, or a woman the novel cannot make up its mind about? Treat Jordan Baker: the dishonest modern woman as a minor love interest and you lose the most concentrated portrait of female modernity Fitzgerald gives us. She is the book's clearest specimen of the 1920s new woman, the independent, athletic, financially self-supporting, sexually free figure who frightened and fascinated her decade in equal measure, and the way the novel handles her freedom tells us exactly how far its sympathies for that freedom go.

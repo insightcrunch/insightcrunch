@@ -8,6 +8,7 @@ slug: gatsby-real-protagonist
 excerpt: "The real protagonist of The Great Gatsby is contested because Gatsby is the one the story watches while Nick is the one it changes, so the definition decides."
 reading_time: 48
 lang: en
+last_updated: 2026-08-13
 ---
 Ask a classroom who the real protagonist of The Great Gatsby is and almost every hand goes up for the same answer: Gatsby, obviously, because his name is on the cover. The title looks like a verdict. Yet the question is harder than the cover makes it appear, and the reason it stays alive in essays, exam halls, and seminar rooms is that the novel quietly splits the job of protagonist between two men. One of them is the figure everyone watches. The other is the figure the events actually change. Settle which of those two definitions you mean, and you have settled the debate; refuse to settle it, and you will argue in circles forever.
 

@@ -9,7 +9,7 @@ excerpt: "Azure Private DNS zones resolve only for linked VNets. Learn VNet link
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 62
 author: "kevin-reeves"
-last_updated: 2023-09-18
+last_updated: 2026-08-13
 lang: en
 ---
 A name that resolves perfectly from one virtual machine and returns nothing from the machine beside it is the single most common Azure DNS puzzle engineers carry into a support ticket. The record exists. The spelling is right. The application is healthy. Yet `nslookup app1.contoso.internal` answers on the VM in `vnet-prod` and times out on the VM in `vnet-dev`, and the team starts deleting and recreating records that were never broken. The fault is almost never the record. It is the link. An Azure Private DNS zone resolves only for the virtual networks it is explicitly linked to, and the moment you internalize that one rule, most private name resolution mysteries collapse into a five second check.

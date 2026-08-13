@@ -9,7 +9,7 @@ excerpt: "Old money vs new money in The Great Gatsby explained: why Gatsby's ear
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2024-05-20
+last_updated: 2026-08-13
 lang: en
 ---
 The sharpest wound in Fitzgerald's novel is not poverty. It is the discovery that a man can own a mansion, throw the loudest parties on the shore, and still be turned away at the one door he wants opened. That is the engine behind old money vs new money in great gatsby: the book argues that wealth and belonging are two different currencies, and that the second cannot be bought with the first. Jay Gatsby earns a fortune large enough to rival anyone in the established families across the bay, yet he never crosses into their world. The gap that defeats him is not the size of his bank account. It is the line between money that was inherited and money that was made, a line the novel treats as one of its most serious and unforgiving boundaries.

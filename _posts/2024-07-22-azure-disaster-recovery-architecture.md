@@ -9,7 +9,7 @@ excerpt: "Disaster recovery on Azure starts with RPO and RTO, then weighs backup
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 61
 author: "nathan-cole"
-last_updated: 2024-07-22
+last_updated: 2026-08-13
 lang: en
 ---
 A regional outage does not ask whether your disaster recovery plan is finished. It arrives, and the only question that matters is how much data you lost and how long the business was dark. Disaster recovery Azure design fails most often not because the engineering was hard, but because the plan was written backward: someone picked a tool, wired up replication or backup, drew a diagram, and never once stated how much data loss the business could tolerate or how fast it needed to be running again. When the real event came, the team discovered that the plan was a document, not a capability, because nobody had ever run the failover and watched it work.

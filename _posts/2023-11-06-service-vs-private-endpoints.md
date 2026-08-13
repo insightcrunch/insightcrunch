@@ -9,7 +9,7 @@ excerpt: "Service endpoints versus private endpoints in Azure differ on private 
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 64
 author: "jason-mckenzie"
-last_updated: 2023-11-06
+last_updated: 2026-08-13
 lang: en
 ---
 Two features in Azure share a goal, securing traffic to a platform service so it no longer rides the open internet, and engineers conflate them constantly. The choice between a service endpoint and a private endpoint looks like a naming quirk until a storage account refuses a connection from an on-premises server, or a firewall rule that worked yesterday starts dropping requests after a subnet change. The confusion is understandable. Both keep traffic off the public path. Both attach to a virtual network. Both get described in the portal with overlapping language about securing access to a resource. Yet they solve different problems with different mechanics, and treating them as interchangeable is the single most common reason a connectivity design fails review or breaks in production.

@@ -9,7 +9,7 @@ excerpt: "Conditional Access patterns give you a proven baseline of admin MFA, b
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "david-thornton"
-last_updated: 2024-04-08
+last_updated: 2026-08-13
 lang: en
 ---
 A tenant with no Conditional Access is a building with the doors propped open. Every account that knows a password can walk in from anywhere, on any device, through any protocol, and the only thing standing between an attacker and your data is whether someone guessed, phished, or sprayed the right credential. Conditional Access patterns are how you close those doors without locking out the people who belong inside. They are the proven, repeatable policy shapes that an identity team assembles into a baseline: require multifactor authentication for administrators, block legacy authentication that bypasses MFA entirely, require a compliant device for sensitive applications, step up authentication when a sign-in looks risky, and govern where and by whom access happens. Each one addresses a specific threat, and together they form a posture that an attacker has to defeat layer by layer rather than slip past in a single move.

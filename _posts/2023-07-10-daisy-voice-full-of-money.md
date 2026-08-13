@@ -9,7 +9,7 @@ excerpt: "Daisy Buchanan and the voice full of money: how one phrase fuses her a
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 47
 author: "sophia-turner"
-last_updated: 2023-07-10
+last_updated: 2026-08-13
 lang: en
 ---
 Of all the ways Fitzgerald could have told us who Daisy Buchanan is, he chose her sound. Not her hair, not her dress, not her history, but the thing the ear catches before the eye settles. When the question of Daisy Buchanan and the voice full of money comes up, most readers reach for the famous five words and stop there, as if the line were a clever epigram Fitzgerald dropped in and moved past. It is not. The phrase is the hinge of her whole character. Strip away the parties and the green light and the long Sunday afternoons, and what remains of Daisy in the reader's memory is a quality of sound, a low and thrilling music that pulls listeners toward her and promises something it will never quite deliver. The line about money does not interrupt that music. It explains it.

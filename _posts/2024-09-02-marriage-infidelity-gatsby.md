@@ -9,7 +9,7 @@ excerpt: "Marriage and infidelity in Great Gatsby reveal a transaction that surv
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2024-09-02
+last_updated: 2026-08-13
 lang: en
 ---
 The novel's most quietly devastating fact is not that Gatsby dies. It is that Tom and Daisy Buchanan stay married. To understand marriage and infidelity in Great Gatsby is to confront a book in which every romantic ideal collapses while one cold, betrayed, loveless union survives everything thrown at it. Fitzgerald does not present the Buchanan marriage as a tragic exception to an otherwise hopeful world. He presents it as the rule the world runs on. The affairs, the broken promises, the night in the Plaza when two men fight over one woman, all of it ends with the married couple intact and the dreamers dead or discarded. That outcome is the theme's true argument.

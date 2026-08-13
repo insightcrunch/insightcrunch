@@ -9,7 +9,7 @@ excerpt: "Azure ExpressRoute deep dive: the circuit, peering, and gateway model 
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 61
 author: "ian-fletcher"
-last_updated: 2023-11-20
+last_updated: 2026-08-13
 lang: en
 ---
 Azure ExpressRoute promises something that feels almost too good when you first read the marketing: a private connection from your datacenter into Azure that never touches the public internet. Teams hear that sentence, provision a circuit, attach a gateway, and then watch their throughput sit stubbornly at a fraction of what the circuit can carry. They blame the provider, open a support case, and wait. The circuit is fine. The gateway is the bottleneck, and nobody told them the gateway has its own ceiling that has nothing to do with the bandwidth they bought from the carrier. This is the most common and most expensive misunderstanding in the entire product, and it comes from treating ExpressRoute as a single thing rather than as three cooperating parts.

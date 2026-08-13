@@ -9,7 +9,7 @@ excerpt: "Memory and nostalgia in Great Gatsby act as a falsifying force, editin
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2024-10-21
+last_updated: 2026-08-13
 lang: en
 ---
 The single most useful claim a reader can carry into a study of memory and nostalgia in great gatsby is this: in Fitzgerald's novel, looking backward is not a passive ache but an active force that rewrites what it touches. Memory here does not preserve the past. It edits the past, polishing a rough and ordinary history into a gleaming ideal that never quite existed, and then it asks the present to live up to that invented standard. Nostalgia, in this book, is the engine of delusion, and the man it drives, Jay Gatsby, dies in the service of a yesterday his own mind manufactured.

@@ -1,7 +1,7 @@
 ---
 title: "Nick and Gatsby as Foils: The Watcher and the Leaper"
 date: 2023-12-25
-last_updated: 2023-12-25
+last_updated: 2026-08-13
 categories: ["Leisure"]
 author: "lauren-hayes"
 image: /assets/images/blog/blog-01.webp

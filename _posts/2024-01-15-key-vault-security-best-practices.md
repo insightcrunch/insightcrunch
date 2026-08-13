@@ -9,7 +9,7 @@ excerpt: "Azure Key Vault security best practices to harden a vault with RBAC, n
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "david-thornton"
-last_updated: 2024-01-15
+last_updated: 2026-08-13
 lang: en
 ---
 A key vault holds the material that protects everything else: the connection strings that reach your databases, the certificates that terminate your TLS, the keys that encrypt your storage accounts. When the vault is hardened, a stolen application credential buys an attacker very little, because the vault still gates what that credential can read. When the vault is left on defaults, the same vault becomes the single richest target in the subscription, and one over-broad role assignment or one open network path turns it into a master key for the estate. Azure Key Vault security best practices exist to close that gap on purpose rather than by accident.

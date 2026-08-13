@@ -9,7 +9,7 @@ excerpt: "Pammy Buchanan is the child nobody sees in The Great Gatsby. This char
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 47
 author: "emily-reed"
-last_updated: 2023-10-16
+last_updated: 2026-08-13
 lang: en
 ---
 How much can a novel say through a character it almost refuses to show? Pammy Buchanan, the small daughter of Tom and Daisy, speaks a handful of lines, occupies a single page in person, and then disappears from a book that follows its hero all the way to a near-empty funeral and a final meditation on the whole American experiment. A hurried reader files her under furniture. This study argues the reverse: that Pammy Buchanan is one of the quietly devastating presences in The Great Gatsby precisely because the world she is born into cannot be troubled to keep her in view. Her near-invisibility is not an oversight. It is the point Fitzgerald is making.

@@ -9,7 +9,7 @@ excerpt: "Character arcs across great Gatsby reveal who changes and who stays st
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2024-03-11
+last_updated: 2026-08-13
 lang: en
 ---
 Ask which figures actually grow in this novel and the answer sorts the whole cast into two unequal camps. The character arcs across great Gatsby are not evenly handed out. A small number of people move from one understanding of the world to another, paying for that movement in disillusion or in death, while a larger and more comfortable group ends the summer exactly where it began, untouched by everything that happened around them. Fitzgerald builds that imbalance on purpose. Who is permitted to develop, and who is held in place, turns out to be one of the sharpest arguments the book makes about money, safety, and the cost of wanting more than your station allows.

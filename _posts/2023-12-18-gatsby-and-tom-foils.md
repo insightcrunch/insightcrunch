@@ -8,6 +8,7 @@ slug: gatsby-and-tom-foils
 excerpt: "Gatsby and Tom as foils: the dreamer without security and the brute with it, two men who define each other and reveal the novel's cold verdict on America."
 reading_time: 47
 lang: en
+last_updated: 2026-08-13
 ---
 Ask why Daisy stays with the man who humiliates her rather than the man who worships her, and you have already started reading Gatsby and Tom as foils. The whole novel arranges itself around that single choice, and the choice only makes sense once you see that these two men are not rivals who happen to want the same woman. They are opposite answers to the same question, built by Fitzgerald to measure each other. Jay Gatsby is the dream with no ground under it. Tom Buchanan is the ground with no dream on top of it. Daisy stands between them as the place where the contrast becomes a decision, and her decision is the book's coldest sentence about what America actually rewards.
 

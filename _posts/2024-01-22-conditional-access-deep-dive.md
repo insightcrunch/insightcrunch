@@ -9,7 +9,7 @@ excerpt: "Conditional Access deep dive: how Azure weighs signals and risk, appli
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "james-carter"
-last_updated: 2024-01-22
+last_updated: 2026-08-13
 lang: en
 ---
 A tenant can carry a dozen Conditional Access policies, a clean secure score, and a confident architecture diagram, and still hand an attacker a working session through a path nobody mapped. The exposure is rarely a missing rule. It is a rule that looks complete in the portal but never fires against the request that matters, because the request arrived over a protocol the policy was never asked to evaluate, or because two policies that each seemed sensible combined into a verdict neither author intended. Conditional Access is the gate that stands between a valid credential and a granted session, and the difference between a gate that protects and a gate that decorates comes down to whether the person who built it understood what the engine actually inspects before it decides.

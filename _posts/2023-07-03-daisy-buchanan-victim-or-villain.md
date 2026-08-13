@@ -9,7 +9,7 @@ excerpt: "Is Daisy Buchanan a victim, a villain, or both? A scene-by-scene verdi
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 47
 author: "victoria-stone"
-last_updated: 2023-07-03
+last_updated: 2026-08-13
 lang: en
 ---
 Ask a room of readers whether Daisy Buchanan is a victim, villain, or both, and the room splits before the argument even starts. One side sees a woman trapped in a marriage she cannot leave, handed to her by an era that gave women of her class almost no exit, voicing her own captivity in the line about wishing her daughter will grow up a fool. The other side sees the driver who killed Myrtle Wilson, said nothing, let Gatsby carry the blame, and walked back into her money without a backward glance. Both sides are reading the same novel. Both sides are pointing at real evidence. That is exactly why the question of whether Daisy Buchanan is victim, villain, or both refuses to settle, and why answering it well requires more than picking a team.

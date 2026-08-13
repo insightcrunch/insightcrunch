@@ -9,7 +9,7 @@ excerpt: "Azure Front Door vs CDN vs Application Gateway compared by global vers
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
 author: "james-carter"
-last_updated: 2023-10-09
+last_updated: 2026-08-13
 lang: en
 ---
 Three services in Azure sit in front of an application and speak HTTP, and engineers reach for whichever name they heard first. Azure Front Door versus CDN versus Application Gateway is the comparison that decides whether a request crosses the planet to the nearest edge or terminates inside a single region, whether a response comes from a cache or from your servers, and where a web application firewall inspects the traffic. Treating the three as interchangeable produces the two failures this comparison exists to prevent: putting a regional gateway where a worldwide entry point belongs, and standing up three products that compete when the right design layers them.

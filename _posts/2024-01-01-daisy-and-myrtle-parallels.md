@@ -2,7 +2,7 @@
 title: "Daisy and Myrtle as Parallel Women"
 page_title: "Daisy and Myrtle as Parallel Women: A Great Gatsby Character Analysis of Class, Desire, and Fate"
 date: 2024-01-01
-last_updated: 2024-01-01
+last_updated: 2026-08-13
 categories: ["Leisure"]
 author: "emily-reed"
 image: /assets/images/blog/blog-01.webp

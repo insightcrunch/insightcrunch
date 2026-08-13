@@ -9,7 +9,7 @@ excerpt: "A microservices on AKS reference architecture: ingress, service mesh, 
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 61
 author: "thomas-reid"
-last_updated: 2024-04-29
+last_updated: 2026-08-13
 lang: en
 ---
 A microservices on AKS deployment usually starts well and then quietly turns into something worse than the monolith it replaced. The teams split the codebase along domain lines, package each piece as a container, and schedule it all onto Azure Kubernetes Service. For a few months the architecture diagram looks clean. Then one deploy of the orders component forces a coordinated release of three other components, a single slow downstream call takes the whole checkout path down, and nobody can answer why a request took four seconds because the trace stops at the first hop. The pieces are separate. The system is not.

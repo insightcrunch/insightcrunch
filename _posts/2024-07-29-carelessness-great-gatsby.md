@@ -9,7 +9,7 @@ excerpt: "Carelessness and consequence in Gatsby is the moral core of the book: 
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2024-07-29
+last_updated: 2026-08-13
 lang: en
 ---
 The Great Gatsby ends with an accusation, not a sigh. After the funerals are over and the cars have stopped arriving, Nick Carraway delivers a verdict that reframes everything the reader has watched: the rich did not merely fail at love or chase the wrong dream, they wrecked lives and walked away clean. Carelessness and consequence in Gatsby is the spine of that verdict, the moral mechanism by which Fitzgerald turns a glittering party novel into an indictment. The theme is not about people being absent-minded. It is about a structure in which some people break things and other people are left holding the pieces, and about how money makes that arrangement feel natural to the ones it protects.

@@ -9,7 +9,7 @@ excerpt: "Nick and Jordan: the subplot romance is the mirror the novel holds to 
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2023-12-11
+last_updated: 2026-08-13
 lang: en
 ---
 The romance between Nick and Jordan is the quietest thing in the book, and that is exactly why it matters. While the Gatsby and Daisy story burns at the center of the novel and the Tom and Myrtle affair throws off its sparks of violence, the courtship between the narrator and the golf champion runs along the margin, easy to skim past, easy to file under minor business. Treat it that way and you miss the one relationship the narrator is fully inside, the one place where the man who reserves judgment on everyone is himself available to be judged. The Nick and Jordan romance is not a diversion from the main plot. It is the novel quietly turning its instrument back on the person holding it.

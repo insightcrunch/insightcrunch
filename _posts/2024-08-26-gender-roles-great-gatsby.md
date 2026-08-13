@@ -9,7 +9,7 @@ excerpt: "Gender roles in The Great Gatsby trap both sexes, yet the women get fa
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2024-08-26
+last_updated: 2026-08-13
 lang: en
 ---
 Ask what gender roles in The Great Gatsby actually do, and the easy answer is that the men hold power and the women suffer it. That answer is half right, which is what makes it dangerous. Fitzgerald did build a world that punishes its women, but he also built one that squeezes its men into shapes nearly as rigid, and a reading that sees only the female victims misses the architecture of the whole thing. The novel does not simply show oppression. It maps a system of expectation that closes around everyone in the book, sorting each character by sex into a set of permitted moves, and then it watches what happens when a person tries a move the system forbids. The verdict the book reaches is bleak and precise: the social world of 1922 is a cage for men and women alike, but the women's cage is smaller, and the bars are closer to the skin.

@@ -3,7 +3,7 @@ title: "Naming in The Great Gatsby: What Names Mean"
 page_title: "Naming in The Great Gatsby: What Names Mean Explained, a Character Study of Fitzgerald's Names and Their Symbolism"
 slug: gatsby-character-names-meaning
 date: 2024-04-15
-last_updated: 2024-04-15
+last_updated: 2026-08-13
 excerpt: "Naming in The Great Gatsby turns the cast list into characterization: see how Gatsby, Daisy, Jordan, and the rest carry compressed verdicts in their names."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]

@@ -9,7 +9,7 @@ excerpt: "An Azure security baseline is run as a loop: define the benchmark, enf
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 61
 author: "ryan-walsh"
-last_updated: 2024-04-15
+last_updated: 2026-08-13
 lang: en
 ---
 An Azure security baseline is the standard you have decided your environment must meet, written down as enforceable controls rather than a slide deck of good intentions. The gap between teams that have one and teams that only think they do shows up at the worst possible moment: an auditor asks for evidence that storage accounts deny public network access, and someone opens the portal to check account by account. By then the answer is whatever the last person who touched each resource decided, not what the organization agreed. A baseline that lives in a wiki page is a wish. A baseline wired into Azure Policy and watched by Microsoft Defender for Cloud is a control that holds even when nobody is looking.

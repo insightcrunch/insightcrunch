@@ -9,7 +9,7 @@ excerpt: "The friendship between Gatsby and Nick starts as a transaction yet bec
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 47
 author: "claire-bennett"
-last_updated: 2023-11-13
+last_updated: 2026-08-13
 lang: en
 ---
 Of all the bonds in The Great Gatsby, only one survives the wreckage with any dignity, and it belongs to the two men who, on the surface, have the least reason to care about each other. The friendship between Gatsby and Nick begins as a piece of pure usefulness. A rich stranger needs the cousin of the woman he loves, and the cousin happens to have rented the small house next door. From that flat transaction grows the single human attachment the novel treats as real. By the last chapter, when the parties have emptied and the telephone has gone silent, Nick Carraway is the only person left standing on Gatsby's side, and the loyalty he shows then is the closest thing the book offers to redemption.

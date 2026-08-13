@@ -9,7 +9,7 @@ excerpt: "Tom and Daisy's marriage is the loveless union that outlasts every sin
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 48
 author: "claire-bennett"
-last_updated: 2023-11-27
+last_updated: 2026-08-13
 lang: en
 ---
 Most readers finish The Great Gatsby grieving for Jay Gatsby and despising the couple who let him die, and then they close the book without noticing the strangest fact in it. Tom and Daisy's marriage, the loveless and unfaithful union that betrays everyone who comes near it, is the one relationship left standing when the lights go out over the bay. Gatsby's devotion ends in a swimming pool. Myrtle Wilson's hope ends on a road in the valley of ashes. George Wilson's grief ends with a pistol. The Buchanans end the summer packing their bags, untouched, already gone before the funeral. The careless match survives the sincere passions it destroys, and that survival is the verdict the novel most wants its readers to register.

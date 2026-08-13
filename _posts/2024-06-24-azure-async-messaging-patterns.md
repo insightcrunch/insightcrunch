@@ -9,7 +9,7 @@ excerpt: "Async messaging patterns on Azure ride on at-least-once delivery, so e
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 61
 author: "abigail-cooper"
-last_updated: 2024-06-24
+last_updated: 2026-08-13
 lang: en
 ---
 A team ships an order-processing service backed by a queue. It works in the demo. Then production traffic arrives, one consumer cannot keep up, and they add three more receivers to drain the backlog. Throughput recovers, and a week later finance reports that several hundred customers were charged twice. The team had reached for a scaling technique without noticing that it changed the delivery contract underneath them, and the queue that had quietly guaranteed order to a single reader now interleaved work across four readers with no order at all. Nothing in the code was wrong in isolation. The design drifted because the underlying guarantee was never made explicit.

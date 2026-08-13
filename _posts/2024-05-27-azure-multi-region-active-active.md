@@ -9,7 +9,7 @@ excerpt: "Multi-region active-active on Azure pairs global routing with cross-re
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "kevin-reeves"
-last_updated: 2024-05-27
+last_updated: 2026-08-13
 lang: en
 ---
 A full Azure region does not fail often, but when it does, the failure is total and it does not negotiate. Compute stops answering, managed databases stop accepting writes, the storage accounts pinned to that geography return errors, and every service you assumed was independent turns out to have shared a single fate. Teams that planned for a single virtual machine crashing, or a single availability zone losing power, discover that their resilience story had a hidden ceiling, and the ceiling was the region boundary. The natural response is to run in two regions at once, both live, both serving production traffic, so that the loss of one is absorbed rather than felt. That design is multi-region active-active on Azure, and it is the most demanding resilience pattern the platform asks you to reason about, because the moment two regions both accept writes, you have signed up for a distributed-systems problem that no amount of routing cleverness can hide.

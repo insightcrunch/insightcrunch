@@ -9,7 +9,7 @@ excerpt: "Friendship and loyalty in The Great Gatsby form a near-vacuum: hundred
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2024-10-07
+last_updated: 2026-08-13
 lang: en
 ---
 Ask most readers what holds the people in The Great Gatsby together and they will reach for the parties, the wealth, the romance. Almost no one names loyalty, and that absence is the point. Friendship and loyalty in The Great Gatsby are not a warm subplot running underneath the tragedy; they are a near-vacuum the novel keeps drawing attention to, a virtue so scarce that when a single example of it finally appears it stands out like a light in an empty room. Fitzgerald builds a world stuffed with company and starved of fidelity, and the gap between the two is one of his sharpest indictments of the era. The crowds are enormous. The friends are almost nonexistent.

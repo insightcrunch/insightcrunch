@@ -9,7 +9,7 @@ excerpt: "Set up Azure Policy for governance by choosing the right effect, group
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 62
 author: "abigail-cooper"
-last_updated: 2023-07-24
+last_updated: 2026-08-13
 lang: en
 ---
 Most teams that say they have governance in place have a folder of policy assignments that audit and a compliance dashboard full of red. Nothing is prevented, nothing is fixed, and the dashboard is a record of drift rather than a control on it. The reason is almost never the rule that was written. It is the effect that rule carries. Azure Policy enforces standards only as strongly as the effect each definition declares, and choosing that effect is the real governance decision, not the resource type or the condition you match on.

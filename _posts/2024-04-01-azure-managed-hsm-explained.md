@@ -2,7 +2,7 @@
 title: "Azure Managed HSM and Encryption Keys"
 page_title: "Azure Managed HSM Explained: Single-Tenant FIPS 140-3 Key Store vs Standard Key Vault, BYOK, and Local RBAC"
 date: 2024-04-01
-last_updated: 2024-04-01
+last_updated: 2026-08-13
 categories: ["Technology"]
 tags: ["Azure", "Managed HSM", "Key Vault", "Encryption", "Security", "Compliance", "FIPS 140-3"]
 image: /assets/images/blog/blog-13.webp

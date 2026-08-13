@@ -9,7 +9,7 @@ excerpt: "Event-driven architecture on Azure: pick Event Grid, Event Hubs, or Se
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "nathan-cole"
-last_updated: 2024-04-22
+last_updated: 2026-08-13
 lang: en
 ---
 When a system grows past a handful of services, the wiring between them quietly becomes the hardest part of the design. Order processing calls inventory, inventory calls notifications, notifications call the audit log, and every one of those calls is a synchronous request that has to succeed right now or the whole chain stalls. Add a sixth service and the call graph turns into a web that no single engineer can hold in their head. Event-driven architecture on Azure is the answer to that sprawl: instead of services calling each other directly, a service announces that something happened and walks away, and any number of other services react to that announcement on their own schedule. This guide is about designing such a system deliberately, choosing the right messaging backbone for each kind of event, and building consumers that survive the delivery guarantees Azure actually offers rather than the ones engineers wish it offered.

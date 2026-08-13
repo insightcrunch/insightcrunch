@@ -9,7 +9,7 @@ excerpt: "Moral decay in Great Gatsby is the foundation of its glittering world,
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2024-07-22
+last_updated: 2026-08-13
 lang: en
 ---
 The argument this article defends is blunt: moral decay in Great Gatsby is not a flaw in an otherwise glittering world but the foundation that world is built on. Fitzgerald does not show a beautiful Jazz Age that a few bad actors happen to spoil. He shows a surface of wealth and music and silk shirts whose brilliance is generated, at its source, by rot. The parties are funded by crime. The ease of the rich is purchased by other people's ruin. The dream at the center of the book floats on what the narrator calls foul dust. Read this way, the novel is less a tragedy of one man's love than a moral diagnosis of an entire social order, and the diagnosis is delivered through image and structure rather than through any sermon.

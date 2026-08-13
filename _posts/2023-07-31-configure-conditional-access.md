@@ -9,7 +9,7 @@ excerpt: "Configure Conditional Access policies in Entra ID with report-only mod
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 61
 author: "benjamin-scott"
-last_updated: 2023-07-31
+last_updated: 2026-08-13
 lang: en
 ---
 A Conditional Access policy in Microsoft Entra ID is the gate that decides whether a sign-in proceeds, proceeds with an extra requirement, or stops. Configure that gate correctly and you raise the security floor for an entire tenant in an afternoon: you require multifactor authentication where it matters, you shut the door on the legacy authentication protocols that quietly skip every modern control, and you do all of it without surprising a single legitimate user. Configure the same gate carelessly, and you can lock every administrator out of the tenant in the time it takes to click Enable.

@@ -9,7 +9,7 @@ excerpt: "Azure Private Link projects a service into your VNet as a private endp
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 62
 author: "alex-cunningham"
-last_updated: 2023-09-11
+last_updated: 2026-08-13
 lang: en
 ---
 # Azure Private Link and Private Endpoints

@@ -9,7 +9,7 @@ excerpt: "Azure secrets management done right removes secrets from code with man
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 62
 author: "james-carter"
-last_updated: 2024-03-25
+last_updated: 2026-08-13
 lang: en
 ---
 Most credential breaches in the cloud do not begin with a clever attacker. They begin with a connection string pasted into an `appsettings.json` file, a personal access token committed to a feature branch at midnight, or a storage key copied into a pipeline variable so a deployment would finally go green. Azure secrets management is the discipline of making sure none of those moments can end with an attacker holding a working key to your data. The threat is concrete: a single leaked credential with broad scope hands an outsider the same access your application has, and because that credential was static, it keeps working long after the person who leaked it has forgotten it exists. The exposure a misconfiguration creates is not theoretical either. Public code search engines index newly pushed repositories within minutes, automated scrapers harvest tokens continuously, and a connection string that grants account-level access to a storage account is worth real money to whoever finds it first.

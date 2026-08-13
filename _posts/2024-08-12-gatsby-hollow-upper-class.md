@@ -9,7 +9,7 @@ excerpt: "The hollowness of the upper class is the verdict The Great Gatsby pass
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2024-08-12
+last_updated: 2026-08-13
 lang: en
 ---
 Readers who finish The Great Gatsby tend to remember the dreamer and forget the verdict the novel passes on the people he wanted to join. The hollowness of the upper class is the charge Fitzgerald lays most quietly and most damningly: the established rich in this book have arrived at the destination everyone else is killing themselves to reach, and they are bored. They are aimless. They have money, manners, houses on the right side of the bay, and nothing inside the rooms. The poor boy from North Dakota burns with purpose. The Buchanans, who already own everything purpose is supposed to buy, drift through their afternoons with the restless emptiness of people who cannot think of a single thing worth wanting. That contrast is not incidental. It is the engine of the book's argument, and reading it carelessly is the difference between thinking Gatsby is a story about a crook and understanding that it is a story about a culture that mistook a vacuum for a summit.

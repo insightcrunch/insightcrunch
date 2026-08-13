@@ -9,7 +9,7 @@ excerpt: "CQRS and event sourcing on Azure separate read and write models and st
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 63
 author: "james-carter"
-last_updated: 2024-06-03
+last_updated: 2026-08-13
 lang: en
 ---
 Most teams reach for CQRS and event sourcing after a single database has stopped being able to do two jobs at once. The write side wants strict invariants, transactional integrity, and a normalized shape that protects the truth. The read side wants denormalized documents, wide fan-out, and query shapes that have nothing to do with how the data was written. For a while you serve both from one model, and the model slowly turns into a compromise that serves neither well. CQRS, Command Query Responsibility Segregation, is the decision to stop compromising and split the two. Event sourcing is the decision to stop storing the current state at all and instead store the ordered sequence of facts that produced it. The two patterns travel together often enough that people conflate them, but they are separate choices with separate costs, and the central argument of this guide is that you should adopt each one only when the domain earns it.

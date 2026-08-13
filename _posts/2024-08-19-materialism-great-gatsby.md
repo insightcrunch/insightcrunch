@@ -9,7 +9,7 @@ excerpt: "Materialism and consumer culture in Gatsby turn possessions into a sub
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2024-08-19
+last_updated: 2026-08-13
 lang: en
 ---
 The precise argument The Great Gatsby makes about materialism and consumer culture in Gatsby is not that wealthy people are greedy. It is something stranger and sadder: that an entire society has begun to buy objects in the place where meaning used to be, so that a shirt, a car, a guest list, and a string of pearls all do the work that feeling, faith, and belonging once did. Fitzgerald sets his characters loose in a world thick with goods, and then he watches what they reach for when they are frightened, lonely, or in love. They reach for things. The novel's quiet horror is that the things never answer, and the characters keep reaching anyway.

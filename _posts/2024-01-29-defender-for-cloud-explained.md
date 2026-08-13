@@ -9,7 +9,7 @@ excerpt: "Microsoft Defender for Cloud pairs CSPM posture with CWPP protection, 
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "alex-cunningham"
-last_updated: 2024-01-29
+last_updated: 2026-08-13
 lang: en
 ---
 A subscription that has never had Microsoft Defender for Cloud opened is not a subscription without security problems. It is a subscription whose security problems have never been counted. The threat that Defender for Cloud addresses is the slow accumulation of misconfiguration: a storage account that allows public blob access, a SQL server with its firewall open to every address, a virtual machine missing endpoint protection, a key vault without purge protection, a management port reachable from the internet. None of these is an attack. Each is an opening. The exposure that a misconfiguration creates is not theoretical, because attackers scan for exactly these openings continuously, and the gap between a resource being created and a resource being hardened is the window they work in. Defender for Cloud exists to make that window visible, to quantify how wide it is, and to drive it closed.

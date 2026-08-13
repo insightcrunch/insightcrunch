@@ -9,7 +9,7 @@ excerpt: "Power and control in The Great Gatsby reveal that real authority is st
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2024-09-09
+last_updated: 2026-08-13
 lang: en
 ---
 The strongest figure in The Great Gatsby never throws a punch in front of the reader, never raises his voice past a sneer, and never has to ask for anything twice. That is the first thing to understand about power and control in The Great Gatsby: the novel's deepest authority belongs to the people who never need to exert it. Tom Buchanan does break a woman's nose, and that act matters, but his real grip on the world shows in the quieter scenes, the ones where he simply assumes the room is his and the room agrees. Fitzgerald builds a whole social order out of that assumption, and the book's argument about who rules and who is ruled is sharper, and more political, than the love story laid on top of it.

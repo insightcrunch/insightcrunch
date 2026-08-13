@@ -9,7 +9,7 @@ excerpt: "Azure landing zones give a governed, multi-subscription cloud foundati
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 61
 author: "kevin-reeves"
-last_updated: 2024-05-20
+last_updated: 2026-08-13
 lang: en
 ---
 A cloud environment rarely fails all at once. It erodes. Someone spins up a subscription for a proof of concept, a second team copies the pattern, a third inherits an account from an acquisition, and within a year the tenant holds forty subscriptions that share no naming convention, no common policy, no agreed network model, and no clear owner. Azure landing zones exist to stop that erosion before it starts, by giving an organization a deliberate structure for its subscriptions, its governance, its connectivity, and its identity instead of letting all four accrete by accident. The pattern is not a single resource you deploy and forget. It is the set of platform services, management group placements, policy assignments, and access controls that form the operational floor every workload stands on.

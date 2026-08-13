@@ -9,7 +9,7 @@ excerpt: "George Wilson, the forgotten tragic figure of The Great Gatsby, loses 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 47
 author: "sarah-mitchell"
-last_updated: 2023-09-04
+last_updated: 2026-08-13
 lang: en
 ---
 Most readers of The Great Gatsby can tell you who killed Jay Gatsby. Far fewer can tell you who George Wilson was before that final act, what he wanted, what he lost, or why his suffering barely registers on anyone inside the book. That gap is the subject here. **George Wilson: The Forgotten Tragic Figure** is the character the novel pushes to its margins even as it hands him the gun that ends its hero. He is the working man whose grief the rich step over, the husband whose devotion the story treats as an embarrassment, and the mourner no one mourns. To read him as merely the killer is to repeat, as a reader, the exact carelessness the novel is quietly accusing its wealthy characters of committing.

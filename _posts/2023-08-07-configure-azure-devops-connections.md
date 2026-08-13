@@ -9,7 +9,7 @@ excerpt: "An Azure DevOps service connection is your pipeline's credential to Az
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 62
 author: "gregory-marsh"
-last_updated: 2023-08-07
+last_updated: 2026-08-13
 lang: en
 ---
 When a pipeline deploys to Azure, something has to vouch for it. The Azure DevOps service connection is that something: it is the stored credential and trust relationship a pipeline uses to authenticate to your subscription and act on your resources. Get it right and your deployments run unattended, prove who they are without a password sitting in a variable, and touch only the resources they were meant to touch. Get it wrong and you have a long-lived secret that leaks in a log, expires on a Friday afternoon, or hands a compromised pipeline the keys to an entire subscription. The credential choice is not a checkbox at the end of setup. It is the single most consequential security decision you make when you wire delivery to the cloud, and most teams make it by accident.

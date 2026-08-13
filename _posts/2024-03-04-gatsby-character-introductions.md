@@ -9,7 +9,7 @@ excerpt: "How Fitzgerald introduces each character in The Great Gatsby turns eve
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 47
 author: "emily-reed"
-last_updated: 2024-03-04
+last_updated: 2026-08-13
 lang: en
 ---
 Studying how Fitzgerald introduces each character is the fastest way to learn how characterization actually works in The Great Gatsby, because every major figure walks onto the page inside a single engineered image that decides what you believe about them before they have done anything. Fitzgerald does not let his cast accumulate slowly through scattered detail. He stages an entrance for each one, fixes a first impression in a few sentences, and then spends the rest of the book either confirming that impression or quietly demolishing it. Read the introductions closely and you stop seeing description and start seeing strategy.

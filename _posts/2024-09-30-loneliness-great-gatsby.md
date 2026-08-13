@@ -9,7 +9,7 @@ excerpt: "Loneliness and isolation in The Great Gatsby run beneath the glamour: 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2024-09-30
+last_updated: 2026-08-13
 lang: en
 ---
 The loudest loneliness in The Great Gatsby happens in the most crowded rooms. Loneliness and isolation in The Great Gatsby are not a quiet undertone the novel saves for a few melancholy passages; they are the condition the parties are built to hide, the truth the spectacle is staged to drown out. Fitzgerald fills his pages with orchestras, motorcars, hundreds of guests, and a man whose mansion blazes with light all summer, and then he arranges every scene so that the more people gather, the more alone his characters become. Read the novel for its loneliness and the glamour stops being glamour. It becomes a sound made to cover a silence.

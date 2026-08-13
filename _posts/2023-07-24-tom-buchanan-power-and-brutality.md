@@ -9,7 +9,7 @@ excerpt: "Tom Buchanan turns power, race, and brutality into one machine in The 
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2023-07-24
+last_updated: 2026-08-13
 lang: en
 ---
 The question that decides how you read Tom Buchanan is whether his cruelty is a temper or a creed. Treat it as temper and he shrinks to a stock bully, a rich man with a short fuse and heavy hands. Read it as creed and a far more disturbing figure comes into focus, because Tom Buchanan: Power, Race, and Brutality are not three separate facts about the man but one connected machine. His racism, his physical violence, and his command over everyone in his orbit run on the same fuel, and that fuel is the conviction that the world is a hierarchy he sits on top of and is entitled to defend by any means. The broken nose he gives Myrtle and the white-supremacist book he recites at his own dinner table are the same gesture aimed at different targets.

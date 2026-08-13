@@ -9,7 +9,7 @@ excerpt: "Azure network security best practices for defense in depth: layer segm
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 63
 author: "kevin-reeves"
-last_updated: 2024-03-18
+last_updated: 2026-08-13
 lang: en
 ---
 Most network breaches in Azure do not start with a clever exploit. They start with a single control asked to do a job it was never built for. A team attaches a network security group to a subnet, allows the ports the application needs, and calls the workload secured. Then an attacker who lands inside that subnet moves laterally without resistance, exfiltrates data to an arbitrary internet host because nothing inspects outbound traffic, reaches a storage account over its public endpoint because no private path was ever configured, and rides out a volumetric flood that saturates the public IP because no perimeter protection was in place. Each of those failures is a different exposure, and no single rule on a single device closes more than one of them. Azure network security best practices exist precisely because the platform gives you distinct controls for distinct exposures, and a defensible posture comes from layering them rather than over-trusting one.

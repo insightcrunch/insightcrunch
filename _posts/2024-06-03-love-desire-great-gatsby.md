@@ -9,7 +9,7 @@ excerpt: "Love and desire in The Great Gatsby rarely mean love at all. A close r
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2024-06-03
+last_updated: 2026-08-13
 lang: en
 ---
 The Great Gatsby is read at school as a romance and remembered as one, and that is the first mistake. Look closely at love and desire in Great Gatsby and the warmth drains out of the picture almost at once. The novel is crowded with longing, with people reaching for other people, but the reaching almost never lands on a real person. It lands on an image, an appetite, a piece of status, a convenience. The book everyone calls a love story turns out to be a study of wanting, and of how easily a culture trained to want confuses that hunger with love. That confusion is the quiet subject of the whole novel.

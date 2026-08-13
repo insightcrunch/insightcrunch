@@ -9,7 +9,7 @@ excerpt: "The Azure hub-spoke topology breaks when peered spokes cannot reach ea
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 61
 author: "gregory-marsh"
-last_updated: 2023-10-16
+last_updated: 2026-08-13
 lang: en
 ---
 Two virtual networks peered to the same central network do not talk to each other, and that single sentence is where most engineers first misread the hub-spoke topology. They build a clean diagram, draw a hub in the middle, draw three workload networks around it, connect every workload to the center, and assume the picture means full connectivity. Then a virtual machine in one workload network tries to reach a database in another, the packet leaves and never returns, and the diagram that looked correct turns out to describe a network that was never built to behave the way it was drawn. The gap is not a bug. It is the defining property of the design, and understanding why it exists is the difference between a hub-spoke network that scales to fifty workloads and one that quietly breaks the first time two workloads need to reach each other.

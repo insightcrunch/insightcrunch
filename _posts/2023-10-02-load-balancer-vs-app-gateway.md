@@ -9,7 +9,7 @@ excerpt: "Load Balancer versus Application Gateway comes down to layer 4 versus 
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 63
 author: "thomas-reid"
-last_updated: 2023-10-02
+last_updated: 2026-08-13
 lang: en
 ---
 Choosing between Load Balancer versus Application Gateway is the moment most Azure networking decisions either click into place or quietly go wrong. An engineer needs to spread traffic across a set of backend machines, opens the portal, and finds two services that both promise to do exactly that. Load Balancer sounds general and cheap. Application Gateway sounds powerful and modern. So the temptation is to read a marketing page, pick whichever one was mentioned in the last tutorial, and move on. That guess works often enough to feel safe, which is precisely why it is dangerous: the day a path-based routing requirement or a security-team mandate for a web firewall lands, the wrong choice forces a redesign that touches DNS, certificates, health probes, and every downstream dependency.

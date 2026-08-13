@@ -9,7 +9,7 @@ excerpt: "VNet peering vs VPN vs ExpressRoute: pick Azure connectivity by what y
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 65
 author: "james-carter"
-last_updated: 2023-09-04
+last_updated: 2026-08-13
 lang: en
 ---
 Three Azure connectivity options sit in front of every engineer who needs to join two networks, and the choice between VNet peering, a VPN gateway, and ExpressRoute is where a surprising number of designs go wrong before a single packet moves. The mistake is rarely a misconfigured route. It is reaching for the wrong primitive at the start, because all three promise to connect things and the marketing language blurs what each one is actually for. One links virtual networks inside Azure at near wire speed. One builds an encrypted tunnel across the public internet to reach an office or another cloud. One leases a private circuit through a connectivity provider so your traffic never touches the internet at all. Treat them as interchangeable and you end up paying for a private circuit when a peering link would have done, or pushing production database replication through an internet tunnel that throttles under load.

@@ -9,7 +9,7 @@ excerpt: "Privileged Identity Management turns standing Azure admin rights into 
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "gregory-marsh"
-last_updated: 2024-03-11
+last_updated: 2026-08-13
 lang: en
 ---
 A subscription Owner who can delete every resource group at 3 a.m. on a Sunday, with no approval, no justification, and no expiry, is the single most common privileged-access problem in an Azure tenant. Privileged Identity Management is the control that removes it. The account is not malicious and the engineer behind it is not careless. The role was assigned during a project two years ago, the project ended, and the assignment never did. That gap between when privilege was needed and how long it persisted is exactly the exposure that standing access creates, and it is the exposure Privileged Identity Management was built to close.

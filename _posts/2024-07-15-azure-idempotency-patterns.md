@@ -9,7 +9,7 @@ excerpt: "Idempotency on Azure turns at-least-once delivery into safe, effective
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 61
 author: "david-thornton"
-last_updated: 2024-07-15
+last_updated: 2026-08-13
 lang: en
 ---
 A payment service charged a customer twice on a Friday afternoon. Nothing crashed, no exception was logged, and the code passed every unit test. The message that triggered the charge was delivered to the handler two times, the handler ran cleanly both times, and the customer saw two line items on a statement. This is the failure that idempotency on Azure exists to prevent, and it is the most common production surprise for teams who assume the messaging platform delivers each event once. It does not. Azure messaging is built on at-least-once delivery, which means a consumer can and will see the same message more than once, and the responsibility for making that safe sits in the consumer, not in the broker.

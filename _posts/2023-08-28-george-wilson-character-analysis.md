@@ -9,7 +9,7 @@ excerpt: "George Wilson is far more than the man who kills Gatsby. This characte
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
 author: "elena-wright"
-last_updated: 2023-08-28
+last_updated: 2026-08-13
 lang: en
 ---
 Most readers meet George Wilson twice and remember him once. He appears in the gray middle of the novel as a tired man wiping his hands on a rag, and he returns at the end as the hand that fires the gun. Between those two moments the question that decides everything is whether the novel wants you to see a murderer or a victim, and a George Wilson character analysis that takes the book seriously has to answer that question with the text rather than with a reflex. The reflex is easy. Wilson kills the most magnetic figure in American fiction, so the reflex files him under villain and moves on. The text resists that filing at every turn. It frames Wilson as the one character with no power to spare, the one person who is poorer than the people he serves and weaker than the grief that finally moves through him, and it arranges his whole arc so that his single act of violence is something done to him before it is something he does.

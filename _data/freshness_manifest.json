@@ -7772,11 +7772,20 @@
   "2023-07-03-configure-azure-vm-backup.md": {
     "last_refreshed": "2026-08-09"
   },
+  "2023-07-03-daisy-buchanan-victim-or-villain.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-07-08-gaokao-post-exam-summer.md": {
     "last_refreshed": "2026-03-31"
   },
   "2023-07-08-tcs-nqt-salary.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-07-10-configure-azure-site-recovery.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-07-10-daisy-voice-full-of-money.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-07-16-gaokao-parent-accompaniment.md": {
     "last_refreshed": "2026-03-31"
@@ -7784,14 +7793,32 @@
   "2023-07-16-tableau-certification-vs-self-learning-pros-and-cons.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-07-17-configure-diagnostic-settings.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-07-17-tcs-nqt-registration-guide.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-07-17-tom-buchanan-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-07-24-configure-azure-policy-governance.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-07-24-gaokao-sleep-schedule.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2023-07-24-tom-buchanan-power-and-brutality.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-07-25-tcs-nqt-mock-strategy.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-07-31-configure-conditional-access.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-07-31-jordan-baker-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-08-01-gaokao-nutrition-diet-guide.md": {
     "last_refreshed": "2026-03-31"
@@ -7801,6 +7828,12 @@
   },
   "2023-08-04-the-ultimate-guide-to-tableau-certification-everything-you-need-to-know.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-08-07-configure-azure-devops-connections.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-08-07-jordan-baker-modern-woman.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-08-09-gaokao-chinese-language-application.md": {
     "last_refreshed": "2026-03-31"
@@ -7823,6 +7856,12 @@
   "2023-08-13-ink-imagination-a-journey-through-the-writers-haven.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-08-14-configure-github-actions-oidc.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-08-14-myrtle-wilson-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-08-15-finding-peace-in-the-chaos-unveiling-the-secrets-to-inner-serenity.md": {
     "last_refreshed": "2026-03-30"
   },
@@ -7838,11 +7877,23 @@
   "2023-08-19-tcs-nqt-advanced-coding-guide.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-08-21-configure-azure-bastion.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-08-21-myrtle-wilson-class-and-desire.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-08-24-unveiling-the-enigma-the-historical-odyssey-of-the-name-rahul.md": {
     "last_refreshed": "2026-03-30"
   },
   "2023-08-25-gaokao-chinese-classical-quotes.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2023-08-28-azure-networking-fundamentals.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-08-28-george-wilson-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-08-28-tcs-ninja-vs-digital-vs-prime.md": {
     "last_refreshed": "2026-03-30"
@@ -7853,14 +7904,32 @@
   "2023-09-02-gaokao-chinese-modern-reading.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2023-09-04-george-wilson-tragic-figure.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-09-04-vnet-peering-vpn-expressroute.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-09-05-tcs-ninja-hiring.md": {
     "last_refreshed": "2026-03-30"
   },
   "2023-09-10-gaokao-chinese-poetry-appreciation.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2023-09-11-azure-private-link-deep-dive.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-09-11-meyer-wolfsheim-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-09-13-tcs-ninja-guide.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-09-18-azure-dns-private-zones-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-09-18-dan-cody-gatsby-mentor.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-09-18-gaokao-english-vocabulary-3500.md": {
     "last_refreshed": "2026-03-31"
@@ -7868,14 +7937,29 @@
   "2023-09-22-tcs-ninja-coding.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-09-25-azure-nsg-deep-dive.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-09-25-owl-eyes-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-09-26-gaokao-english-writing-high-score.md": {
     "last_refreshed": "2026-03-31"
   },
   "2023-10-01-tcs-ninja-aptitude.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-10-02-load-balancer-vs-app-gateway.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-10-04-gaokao-english-grammar-fillin.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2023-10-09-front-door-vs-cdn-vs-gateway.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-10-09-henry-gatz-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-10-10-tcs-java-coding.md": {
     "last_refreshed": "2026-03-30"
@@ -7883,11 +7967,23 @@
   "2023-10-12-gaokao-english-cloze-test.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2023-10-16-hub-spoke-topology-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-10-16-pammy-buchanan-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-10-18-tcs-itp-guide.md": {
     "last_refreshed": "2026-03-30"
   },
   "2023-10-20-gaokao-english-reading-comprehension.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2023-10-23-azure-virtual-wan-deep-dive.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-10-23-michaelis-character-analysis.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-10-26-tcs-ion-ccqt.md": {
     "last_refreshed": "2026-03-30"
@@ -7895,17 +7991,41 @@
   "2023-10-28-gaokao-csu-admission-guide.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-10-30-azure-firewall-vs-nva-vs-nsg.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-10-30-gatsby-hangers-on.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-11-04-tcs-interview-questions.md": {
     "last_refreshed": "2026-03-30"
   },
   "2023-11-05-gaokao-scu-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2023-11-06-gatsby-minor-characters-mapped.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-11-06-service-vs-private-endpoints.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-11-13-azure-outbound-snat-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-11-13-gaokao-hit-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2023-11-13-gatsby-and-nick-friendship.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-11-13-tcs-interview-experiences.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-11-20-azure-expressroute-deep-dive.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-11-20-gatsby-and-daisy-obsession.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-11-21-gaokao-xjtu-admission-guide.md": {
     "last_refreshed": "2026-04-02"
@@ -7913,11 +8033,23 @@
   "2023-11-21-tcs-ilp-java.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-11-27-azure-vpn-gateway-deep-dive.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-11-27-tom-and-daisy-marriage.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-11-29-gaokao-tju-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
   "2023-11-30-tcs-ilp-guide.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-12-04-azure-network-watcher-guide.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-12-04-tom-and-myrtle-affair.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-12-07-gaokao-nankai-admission-guide.md": {
     "last_refreshed": "2026-04-02"
@@ -7925,11 +8057,23 @@
   "2023-12-08-tcs-fresher-life.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-12-11-azure-route-tables-udr-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-12-11-nick-and-jordan-romance.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-12-15-gaokao-seu-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
   "2023-12-16-tcs-email-writing.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2023-12-18-entra-id-authentication-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-12-18-gatsby-and-tom-foils.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2023-12-23-gaokao-tongji-admission-guide.md": {
     "last_refreshed": "2026-04-02"
@@ -7937,17 +8081,41 @@
   "2023-12-24-tcs-eligibility.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2023-12-25-azure-oauth-oidc-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2023-12-25-nick-and-gatsby-foils.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2023-12-31-gaokao-buaa-admission-guide.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2024-01-01-azure-rbac-vs-abac-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-01-01-daisy-and-myrtle-parallels.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-01-01-tcs-digital-interview.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2024-01-08-daisy-and-jordan-contrast.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-01-08-gaokao-ruc-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2024-01-08-managed-identity-vs-service-principal.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-01-09-tcs-digital-guide.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2024-01-15-gatsby-men-compared.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-01-15-key-vault-security-best-practices.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-01-16-gaokao-sysu-admission-guide.md": {
     "last_refreshed": "2026-04-02"
@@ -7955,11 +8123,23 @@
   "2024-01-17-tcs-digital-coding.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2024-01-22-conditional-access-deep-dive.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-01-22-gatsby-women-compared.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-01-24-gaokao-hust-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
   "2024-01-25-tcs-digital-coding-solutions.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2024-01-29-defender-for-cloud-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-01-29-gatsby-real-protagonist.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-02-01-gaokao-whu-admission-guide.md": {
     "last_refreshed": "2026-04-02"
@@ -7967,14 +8147,32 @@
   "2024-02-03-tcs-digital-advanced-aptitude.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2024-02-05-azure-zero-trust-architecture.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-02-05-gatsby-antagonist.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-02-09-gaokao-ustc-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
   "2024-02-11-tcs-coding-questions-guide.md": {
     "last_refreshed": "2026-03-30"
   },
+  "2024-02-12-gatsby-tragic-hero.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-02-12-securing-aks-clusters-guide.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-02-17-gaokao-nju-admission-guide.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2024-02-19-azure-storage-security-encryption.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-02-19-nick-confidant-witness.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-02-19-tcs-codevita.md": {
     "last_refreshed": "2026-03-30"
@@ -7982,14 +8180,32 @@
   "2024-02-25-gaokao-zju-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2024-02-26-azure-sql-security-guide.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-02-26-gatsby-character-motivation.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-02-27-tcs-c-cpp-coding.md": {
     "last_refreshed": "2026-03-30"
+  },
+  "2024-03-04-entra-app-registrations-explained.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-03-04-gaokao-sjtu-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2024-03-04-gatsby-character-introductions.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-03-06-tcs-bps-syllabus-salary-career.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-03-11-azure-pim-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-03-11-gatsby-character-arcs.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-03-12-gaokao-fudan-admission-guide.md": {
     "last_refreshed": "2026-04-02"
@@ -7997,11 +8213,23 @@
   "2024-03-14-tcs-bps-guide.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-03-18-azure-network-security-best-practices.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-03-18-gatsby-cast-of-liars.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-03-20-gaokao-peking-admission-guide.md": {
     "last_refreshed": "2026-04-02"
   },
   "2024-03-23-tcs-bps-aptitude.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-03-25-azure-secrets-management-guide.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-03-25-gatsby-old-vs-new-money-characters.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-03-28-gaokao-tsinghua-admission-guide.md": {
     "last_refreshed": "2026-04-02"
@@ -8009,14 +8237,32 @@
   "2024-03-31-tcs-aspire.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-04-01-azure-managed-hsm-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-04-01-who-dies-in-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-04-05-gaokao-politics-philosophy-economics.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2024-04-08-entra-conditional-access-patterns.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-04-08-gatsby-misunderstood-characters.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-04-08-tcs-aptitude-mastery-guide.md": {
     "last_refreshed": "2026-03-31"
   },
   "2024-04-13-gaokao-physical-geography.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2024-04-15-azure-security-baselines.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-04-15-gatsby-character-names-meaning.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-04-16-infosys-hiring-process-complete-guide.md": {
     "last_refreshed": "2026-03-31"
@@ -8027,11 +8273,29 @@
   "2024-04-21-gaokao-world-history.md": {
     "last_refreshed": "2026-04-02"
   },
+  "2024-04-22-american-dream-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-04-22-azure-event-driven-architecture.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-04-28-infytq-preparation-complete-guide.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-04-29-aks-microservices-architecture.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-04-29-gaokao-modern-chinese-history.md": {
     "last_refreshed": "2026-04-02"
+  },
+  "2024-04-29-gatsby-american-dream-corruption.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-05-06-azure-serverless-architecture.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-05-06-gatsby-critique-american-dream.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-05-07-gaokao-ancient-chinese-history.md": {
     "last_refreshed": "2026-04-02"
@@ -8039,11 +8303,23 @@
   "2024-05-07-infosys-power-programmer-dse-complete-guide.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-05-13-azure-retry-circuit-breaker.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-05-13-wealth-class-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-05-15-gaokao-biology-experiments.md": {
     "last_refreshed": "2026-04-02"
   },
   "2024-05-16-infosys-mysore-training-complete-guide.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-05-20-azure-landing-zones-explained.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-05-20-old-money-new-money-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-05-23-gaokao-biology-cell.md": {
     "last_refreshed": "2026-04-01"
@@ -8051,11 +8327,23 @@
   "2024-05-23-infosys-career-growth-promotion-guide.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-05-27-azure-multi-region-active-active.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-05-27-social-mobility-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-05-29-infosys-vs-tcs-wipro-hcl-cognizant-comparison.md": {
     "last_refreshed": "2026-03-31"
   },
   "2024-05-31-gaokao-biology-genetics.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2024-06-03-azure-cqrs-event-sourcing.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-06-03-love-desire-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-06-04-infosys-work-culture-onsite-bench-exit-guide.md": {
     "last_refreshed": "2026-03-31"
@@ -8063,11 +8351,23 @@
   "2024-06-08-gaokao-chemistry-experiments.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2024-06-10-azure-well-architected-framework.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-06-10-obsession-idealization-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-06-12-hackwithinfy-preparation-complete-guide.md": {
     "last_refreshed": "2026-03-31"
   },
   "2024-06-16-gaokao-chemistry-organic.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2024-06-17-gatsby-past-and-time.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-06-17-hub-spoke-vs-virtual-wan.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-06-18-infosys-to-product-company-gcc-switch-guide.md": {
     "last_refreshed": "2026-03-31"
@@ -8075,11 +8375,23 @@
   "2024-06-23-upsc-success-urdu.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-06-24-azure-async-messaging-patterns.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-06-24-gaokao-chemistry-reaction-principles.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2024-06-24-gatsby-repeat-the-past.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-06-29-upsc-success-kannada.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-07-01-azure-strangler-fig-pattern.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-07-01-illusion-reality-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-07-02-gaokao-physics-modern.md": {
     "last_refreshed": "2026-04-01"
@@ -8087,17 +8399,35 @@
   "2024-07-02-upsc-success-tamil.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-07-08-appearance-identity-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-07-08-azure-redis-caching-patterns.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-07-08-upsc-success-telugu.md": {
     "last_refreshed": "2026-03-31"
   },
   "2024-07-10-gaokao-physics-experiments.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2024-07-15-azure-idempotency-patterns.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-07-15-self-invention-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-07-15-upsc-success-kerala-malayalam.md": {
     "last_refreshed": "2026-03-31"
   },
   "2024-07-18-gaokao-physics-electromagnetism.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2024-07-22-azure-disaster-recovery-architecture.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-07-22-moral-decay-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-07-22-upsc-hindi-medium-success.md": {
     "last_refreshed": "2026-03-31"
@@ -8108,11 +8438,20 @@
   "2024-07-28-upsc-prelims-gs1-urdu.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-07-29-azure-vm-performance-tuning.md": {
+    "last_refreshed": "2026-08-13"
+  },
+  "2024-07-29-carelessness-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-08-02-upsc-prelims-gs1-kannada.md": {
     "last_refreshed": "2026-03-31"
   },
   "2024-08-03-gaokao-math-mc-fillin-techniques.md": {
     "last_refreshed": "2026-04-01"
+  },
+  "2024-08-05-hope-disillusionment-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-08-09-upsc-prelims-gs1-tamil.md": {
     "last_refreshed": "2026-03-31"
@@ -8120,14 +8459,23 @@
   "2024-08-11-gaokao-math-grand-finale.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2024-08-12-gatsby-hollow-upper-class.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-08-15-upsc-prelims-gs1-telugu.md": {
     "last_refreshed": "2026-03-31"
   },
   "2024-08-19-gaokao-math-sets-logic.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2024-08-19-materialism-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-08-22-upsc-prelims-gs1-malayalam.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-08-26-gender-roles-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-08-27-gaokao-math-permutations-combinations.md": {
     "last_refreshed": "2026-04-01"
@@ -8135,17 +8483,26 @@
   "2024-08-29-upsc-prelims-gs1-hindi-guide.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-09-02-marriage-infidelity-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-09-04-gaokao-math-vectors.md": {
     "last_refreshed": "2026-04-01"
   },
   "2024-09-06-upsc-essay-urdu.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-09-09-power-control-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-09-12-gaokao-math-derivatives.md": {
     "last_refreshed": "2026-04-01"
   },
   "2024-09-12-upsc-essay-kannada.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-09-16-violence-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-09-17-upsc-essay-tamil.md": {
     "last_refreshed": "2026-03-31"
@@ -8156,11 +8513,17 @@
   "2024-09-22-upsc-essay-telugu.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-09-23-death-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-09-28-gaokao-math-trigonometry.md": {
     "last_refreshed": "2026-04-01"
   },
   "2024-09-28-upsc-essay-malayalam.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-09-30-loneliness-great-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-10-05-upsc-mains-essay-hindi-guide.md": {
     "last_refreshed": "2026-03-31"
@@ -8168,20 +8531,32 @@
   "2024-10-06-gaokao-math-sequences-series.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2024-10-07-friendship-loyalty-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-10-12-solo-dining-portland.md": {
     "last_refreshed": "2026-03-31"
   },
   "2024-10-14-gaokao-math-functions-guide.md": {
     "last_refreshed": "2026-04-01"
   },
+  "2024-10-14-honesty-dishonesty-gatsby.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-10-17-solo-dining-dallas.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-10-21-memory-nostalgia-gatsby.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-10-22-gaokao-tianjin-guide.md": {
     "last_refreshed": "2026-04-01"
   },
   "2024-10-22-solo-dining-san-diego.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-10-28-gatsby-east-and-west.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-10-28-solo-dining-boston.md": {
     "last_refreshed": "2026-03-31"
@@ -8192,11 +8567,17 @@
   "2024-11-02-solo-dining-denver.md": {
     "last_refreshed": "2026-03-31"
   },
+  "2024-11-04-east-egg-west-egg-theme.md": {
+    "last_refreshed": "2026-08-13"
+  },
   "2024-11-07-gaokao-fujian-province-guide.md": {
     "last_refreshed": "2026-04-01"
   },
   "2024-11-10-solo-dining-nashville.md": {
     "last_refreshed": "2026-03-31"
+  },
+  "2024-11-11-gatsby-frontier-myth.md": {
+    "last_refreshed": "2026-08-13"
   },
   "2024-11-15-gaokao-anhui-province-guide.md": {
     "last_refreshed": "2026-04-01"

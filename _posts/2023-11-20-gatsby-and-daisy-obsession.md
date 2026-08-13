@@ -10,6 +10,7 @@ slug: gatsby-and-daisy-obsession
 excerpt: "Gatsby and Daisy: anatomy of an obsession reads their famous romance as Gatsby's fixation on an invented image, not real love for the woman he idealized."
 reading_time: 47
 lang: en
+last_updated: 2026-08-13
 ---
 Gatsby and Daisy: anatomy of an obsession begins with a question most readers skip past, because the novel trains us to feel the pull of the romance before we ever weigh it. Is the famous relationship at the heart of this Great Gatsby character analysis a love story at all? Jay Gatsby spends five years and an illegal fortune reaching for a woman he met for a few weeks in 1917, and the reaching is so total, so beautifully described, that we are tempted to call it the purest love in American fiction. The argument of this study is that it is not love in any ordinary sense. It is fixation. Gatsby is in thrall to an image of Daisy Buchanan that he assembled and polished across half a decade of absence, and the tragedy of the book is not that Tom Buchanan stands in the way but that no living person could ever match the version Gatsby carries in his mind.
 

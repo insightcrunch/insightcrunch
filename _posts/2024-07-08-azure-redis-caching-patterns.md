@@ -9,7 +9,7 @@ excerpt: "Caching patterns with Azure Cache for Redis explained: cache-aside, in
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
 author: "gregory-marsh"
-last_updated: 2024-07-08
+last_updated: 2026-08-13
 lang: en
 ---
 A cache is the fastest way to make a slow system feel fast, and the fastest way to make a correct system serve wrong answers. Both happen for the same reason: the cache holds a copy of data that lives somewhere else, and a copy is only as good as the discipline that keeps it honest. Most teams reach for caching patterns with Azure Cache for Redis the moment a database starts groaning under read load, drop a few `GET` and `SET` calls into the hot path, watch latency fall, and ship. Weeks later a customer sees a price that changed an hour ago, a feature flag that was turned off still reads as on, or a deleted record reappears, and the bug is almost impossible to reproduce because it depends on what happens to be sitting in memory at that instant.

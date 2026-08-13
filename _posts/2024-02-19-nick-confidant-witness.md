@@ -9,7 +9,7 @@ excerpt: "Nick Carraway as confidant and witness is the engine of the novel: he 
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 47
 author: "elena-wright"
-last_updated: 2024-02-19
+last_updated: 2026-08-13
 lang: en
 ---
 Ask why The Great Gatsby can be narrated at all and you arrive at one quiet man standing slightly apart from every party, every quarrel, and every confession. Nick Carraway as confidant and witness is not a minor descriptive fact about him; it is the condition that makes the book possible. Strip away his gift for drawing out the secrets of others and his habit of lingering at the rim of each scene, and there is no story to tell, because no one would have told it to anyone. The novel we read exists only because Nick is the man people talk to and the man who happens to be watching when it matters.

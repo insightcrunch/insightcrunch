@@ -9,7 +9,7 @@ excerpt: "Dan Cody is Gatsby's forgotten mentor, the rich adventurer who shaped 
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2023-09-18
+last_updated: 2026-08-13
 lang: en
 ---
 The single most important relationship in Jay Gatsby's life is not with Daisy. It is with a dead man whose portrait hangs in Gatsby's bedroom and whose name most readers forget the moment they close the book. **Dan Cody** is the wealthy yachtsman who plucked a poor seventeen-year-old off the Minnesota shore, renamed his world, and handed him the only working model he would ever have of what a rich man looks like, moves like, and wants. Without this older man there is no Jay Gatsby, only James Gatz. The mansion, the parties, the careful clothes, the whole performance of effortless wealth: the blueprint for all of it came from five years aboard a yacht owned by a debauched silver and copper millionaire who drank himself toward death while a watchful boy learned everything by looking.

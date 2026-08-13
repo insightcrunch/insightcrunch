@@ -9,7 +9,7 @@ excerpt: "Obsession and idealization in The Great Gatsby: how Gatsby loves an im
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2024-06-10
+last_updated: 2026-08-13
 lang: en
 ---
 The strongest claim this article defends is simple to state and hard to accept: obsession and idealization in The Great Gatsby is not a love story gone wrong but a love story that was never aimed at a real person in the first place. Gatsby does not lose Daisy because Tom is richer or because the timing is cruel. He loses her because the woman he wants has been built in his own head over five years of longing, polished past the point where any living person could match her. The theme that runs under the novel's romance is the human habit of worshipping an image and then blaming reality for failing to be that image. Read this way, the book stops being sad about a broken couple and becomes precise about a psychological trap that catches more than one character.

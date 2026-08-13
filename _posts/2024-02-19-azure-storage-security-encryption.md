@@ -9,7 +9,7 @@ excerpt: "Azure Storage security rests on identity over keys: encrypt with custo
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 63
 author: "james-carter"
-last_updated: 2024-02-19
+last_updated: 2026-08-13
 lang: en
 ---
 A storage account holds the data that matters: the customer uploads, the backups, the diagnostic logs, the firmware images, the export drops that three teams pull from on a schedule. Azure Storage security is the discipline of protecting that data, and the first surprise is that an account is also one of the most quietly over-exposed resources in a typical Azure subscription, where the reason is almost never a missing encryption setting. The reason is that the account ships with two long-lived keys that grant total control over every byte, those keys end up pasted into connection strings and shared in chat threads, and the network is left open to the whole internet because nobody got around to changing the default. Closing that gap on purpose is the whole job, and the work has a clear shape once you see the pieces: encryption at rest that you actually control, data access that flows through identity instead of keys, a network path that is private rather than public, and delegated access that is short-lived and scoped rather than a key handed out under a different name.

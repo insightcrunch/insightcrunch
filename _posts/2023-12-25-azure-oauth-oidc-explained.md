@@ -9,7 +9,7 @@ excerpt: "OAuth 2.0 and OIDC in Azure decide how apps prove identity and obtain 
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 62
 author: "ian-fletcher"
-last_updated: 2023-12-25
+last_updated: 2026-08-13
 lang: en
 ---
 The single most expensive identity mistake in Azure is copying an OAuth flow from a sample without knowing which flow you copied. OAuth 2.0 and OIDC are not interchangeable libraries you bolt on at the end. They are the contract that decides how every app, script, and service in Microsoft Entra ID proves who it is and what it is allowed to touch. Pick the wrong grant flow and you do not get an error at design time. You get a token that works in the demo, leaks in production, and fails the security review six months later when an auditor asks why a single-page app is holding a long-lived secret it was never supposed to have.

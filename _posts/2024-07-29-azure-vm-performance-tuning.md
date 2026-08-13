@@ -9,7 +9,7 @@ excerpt: "Azure VM performance tuning begins by finding the real bottleneck acro
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 62
 author: "gregory-marsh"
-last_updated: 2024-07-29
+last_updated: 2026-08-13
 lang: en
 ---
 A virtual machine that feels slow is almost never slow for the reason the first guess assumes. Azure VM performance tuning fails most often because the engineer reaches for the resize button, moves from a Standard_D4s_v5 to a Standard_D8s_v5, watches the bill double, and finds the workload no faster than before. The capacity went up. The thing that was actually gating the work did not move at all. That gap, between the size of the machine and the limit that constrains it, is where most wasted spend and most wasted afternoons live.

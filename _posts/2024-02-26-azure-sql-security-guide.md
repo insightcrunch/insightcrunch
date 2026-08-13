@@ -9,7 +9,7 @@ excerpt: "Azure SQL security means closing five surfaces together: Entra authent
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 61
 author: "benjamin-scott"
-last_updated: 2024-02-26
+last_updated: 2026-08-13
 lang: en
 ---
 A database that holds customer records, financial transactions, or anything subject to a compliance regime is the asset an attacker wants most, and Azure SQL security is the discipline that decides whether reaching that asset takes one stolen password or a coordinated breach of several independent controls. The gap between a database that ships with defaults and one that has been hardened is not a single setting. It is the difference between an attack surface that any leaked connection string can cross and one where authentication, network path, encryption, monitoring, and authorization each have to fail before data leaves the building.

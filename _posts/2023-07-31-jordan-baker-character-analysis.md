@@ -9,7 +9,7 @@ excerpt: "A complete Jordan Baker character analysis: the golf champion, the car
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 47
 author: "emily-reed"
-last_updated: 2023-07-31
+last_updated: 2026-08-13
 lang: en
 ---
 The fastest way to misread *The Great Gatsby* is to file Jordan Baker under "minor characters" and move on. This Jordan Baker character analysis starts from the opposite assumption: that the cool, bored golf champion lounging on the Buchanans' couch is one of the most precisely engineered figures Fitzgerald built, and that the novel hands her a job no other character can do. She is the witness who knows the secret, the romantic interest who tells Nick the truth about himself, and the one person in the book who never pretends to be better than she is. Read her closely and a strange thing happens. The character the plot treats as a side dish turns out to be the clearest pair of eyes in the room.

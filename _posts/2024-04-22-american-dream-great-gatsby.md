@@ -3,7 +3,7 @@ title: "The American Dream in The Great Gatsby"
 page_title: "The American Dream in The Great Gatsby: Theme, Meaning, and Analysis"
 slug: american-dream-great-gatsby
 date: 2024-04-22
-last_updated: 2024-04-22
+last_updated: 2026-08-13
 excerpt: "The American Dream in The Great Gatsby is engine and lie at once: a defended reading of how the promise lifts Gatsby and ruins him in the same gesture."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]

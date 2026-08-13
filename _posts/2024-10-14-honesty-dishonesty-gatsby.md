@@ -9,7 +9,7 @@ excerpt: "Honesty and dishonesty in The Great Gatsby reach every character, so t
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2024-10-14
+last_updated: 2026-08-13
 lang: en
 ---
 Almost every promise made in this novel is a lie, almost every account of the past is edited, and the one narrator who swears he tells the truth turns out to be the hardest case of all. To read honesty and dishonesty in The Great Gatsby is to watch a whole society run on deception so completely that truth stops being a moral choice and becomes a kind of endangered species, sighted rarely and never safe for long. Fitzgerald does not write a book about a few liars surrounded by honest people. He writes a book in which dishonesty is the weather, the medium everyone breathes, and the question the novel finally forces is not who lies but whether anyone can afford not to.

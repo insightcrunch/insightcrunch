@@ -9,7 +9,7 @@ excerpt: "Is The Great Gatsby a critique of the Dream, an elegy for it, or both?
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2024-05-06
+last_updated: 2026-08-13
 lang: en
 ---
 Ask whether The Great Gatsby is a critique of the Dream and most readers answer too fast. They have decided in advance that Fitzgerald wrote an attack on hollow American ambition, and the green light, the careless rich, and the dead body in the pool all confirm it. The trouble is that the same novel closes not with a sneer but with one of the most tender meditations on hope in American letters, a final page that mourns the very ideal the plot has just demolished. A book that only despised the national promise would not grieve so openly for it. So the question is not whether the verdict is harsh or kind. The question is how a single novel can deliver both at once, and what a reader is supposed to do with a work that indicts and laments in the same breath.

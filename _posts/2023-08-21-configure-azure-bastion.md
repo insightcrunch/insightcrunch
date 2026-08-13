@@ -9,7 +9,7 @@ excerpt: "Set up Azure Bastion for secure browser RDP and SSH access, with the c
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 63
 author: "kevin-reeves"
-last_updated: 2023-08-21
+last_updated: 2026-08-13
 lang: en
 ---
 Most teams that deploy Azure Bastion think the job is done the moment the resource shows a green checkmark in the portal. It is not. A Bastion that sits next to virtual machines still wearing public IP addresses, with port 3389 and port 22 open to the internet, has changed nothing about the attack surface it was bought to shrink. You have added a managed jump host and paid for it, while the doors it was meant to lock are still propped open. The setup is finished only when the public IPs are gone and the management ports face nothing but your own network.

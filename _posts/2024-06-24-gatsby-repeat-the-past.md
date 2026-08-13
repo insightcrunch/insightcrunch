@@ -9,7 +9,7 @@ excerpt: "Can you repeat the past in The Great Gatsby? Gatsby insists yes and Ni
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2024-06-24
+last_updated: 2026-08-13
 lang: en
 ---
 Ask whether you can repeat the past in The Great Gatsby and you have already touched the nerve of the whole book. Fitzgerald builds his entire novel around a single confident answer and a single quiet denial, and the gap between them is where the tragedy lives. In Chapter 6, Nick warns his neighbor that what is gone cannot be brought back, and Gatsby refuses the warning with an incredulous certainty that the past is not gone at all, merely mislaid, waiting somewhere just out of reach to be picked up and lived again. That short exchange is not a passing remark. It is the hypothesis the rest of the book exists to test.

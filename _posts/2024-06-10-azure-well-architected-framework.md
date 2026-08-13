@@ -9,7 +9,7 @@ excerpt: "The Azure Well-Architected Framework turns architecture into deliberat
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 61
 author: "ian-fletcher"
-last_updated: 2024-06-10
+last_updated: 2026-08-13
 lang: en
 ---
 Most production incidents do not begin with a single bad decision. They begin with a design that quietly maximized one quality at the silent expense of another, and nobody wrote down the trade. A team buys triple redundancy for a batch job that could tolerate an hour of downtime, then runs out of budget for the monitoring that would have caught the real problem. Another team ships fast and cheap, skips the failover region, and discovers during a zonal outage that "cheap" had a price after all. The Azure Well-Architected Framework exists because these failures are not random. They are the predictable result of judging architecture by intuition instead of by a structured set of qualities that are known to pull against each other.

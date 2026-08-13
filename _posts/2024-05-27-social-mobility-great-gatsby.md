@@ -9,7 +9,7 @@ excerpt: "Social mobility in The Great Gatsby is a half-promise: the strivers ea
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2024-05-27
+last_updated: 2026-08-13
 lang: en
 ---
 The most American promise the novel makes is that a person can rise, and the cruelest thing the novel does is keep that promise only halfway. Social mobility in The Great Gatsby is real at the level of money and a fraud at the level of belonging: the strivers earn the fortune and never the standing it was supposed to buy. Fitzgerald lets Gatsby and Myrtle Wilson climb until their hands are full of the proof of arrival, and then he shows that the door they were climbing toward was never going to open. That gap, between the rise the book allows and the arrival it forbids, is the whole subject of this analysis, and it is the precise argument the novel advances about whether anyone can truly move up in America.

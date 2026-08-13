@@ -9,7 +9,7 @@ excerpt: "A character study of Gatsby's hangers-on, the uninvited party crowd wh
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 48
 author: "elena-wright"
-last_updated: 2023-10-30
+last_updated: 2026-08-13
 lang: en
 ---
 The most damning portrait in The Great Gatsby is not a person at all. It is a crowd. Gatsby's hangers-on, the hundreds who pour through his gates every summer Saturday and drink his liquor and repeat invented stories about him, are the novel's quiet verdict on what money can and cannot buy. They are everywhere when the lights are on. They are nowhere when the coffin is open. To read them as a single character, rather than as a string of comic walk-ons, is to see Fitzgerald's sharpest argument about transactional society laid bare: the popularity that wealth purchases is as hollow as the parties that produce it.

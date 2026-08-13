@@ -9,7 +9,7 @@ excerpt: "The corruption of the American Dream in The Great Gatsby rots the mean
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2024-04-29
+last_updated: 2026-08-13
 lang: en
 ---
 The Great Gatsby does not argue that the American Dream is a lie. It argues something more unsettling: that the corruption of the American Dream begins the moment a pure hope is forced through an impure machine. Jay Gatsby wants one clean thing, the chance to remake himself and win back a life he believes was stolen from him. To get it, he has to become a bootlegger, buy a mansion he cannot fill with real company, and throw his name into a social world that will use him and discard him. The hope stays beautiful. The means rot. That gap, between the shining wish and the soiled methods the wish demands, is where Fitzgerald locates the novel's deepest theme.

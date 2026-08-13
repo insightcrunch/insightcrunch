@@ -9,7 +9,7 @@ excerpt: "Meyer Wolfsheim character analysis: the gambler who fixed the World Se
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 47
 author: "sophia-turner"
-last_updated: 2023-09-11
+last_updated: 2026-08-13
 lang: en
 ---
 A reader who wants an honest Meyer Wolfsheim character analysis has to do two jobs at once, and most study guides only do one. The first job is to read what Wolfsheim does inside the plot: he is the gambler who fixed the World Series, the underworld patron who set Gatsby up in business, and the one man close to Gatsby who will not come to his funeral. The second job is to read how Fitzgerald draws him, because that portrait leans hard on antisemitic caricature, and a reading that skips the prejudice is no more complete than a reading that lets the prejudice cancel the function. This article holds both at the same time, because the figure cannot be understood any other way.

@@ -9,7 +9,7 @@ excerpt: "Myrtle Wilson character analysis: Tom's vivid mistress, her hunger to 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 48
 author: "claire-bennett"
-last_updated: 2023-08-14
+last_updated: 2026-08-13
 lang: en
 ---
 Strip away the label that nearly every reader hangs on her, and one question stays alive on the page: is Myrtle Wilson the only person in this book who actually tries to change her fate? A full Myrtle Wilson character analysis has to begin there, because the novel hands us a woman who is easy to file under a single word, mistress, and then quietly dares us to notice that she is the one figure who reaches with her whole body for a life above the one she was handed. Tom Buchanan inherits his power. Daisy is born inside it. Jordan glides along its surface. Myrtle, alone, claws upward from the grey floor of the valley of ashes, and Fitzgerald kills her for the effort while the people who never lift a finger walk away clean.

@@ -9,7 +9,7 @@ excerpt: "The old money vs new money characters in The Great Gatsby split the ca
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2024-03-25
+last_updated: 2026-08-13
 lang: en
 ---
 Readers of The Great Gatsby tend to flatten the novel's social world into a single word: rich. Everyone with a mansion, a motorcar, and a closet full of silk shirts gets sorted into one undifferentiated pile of privilege, and the book's most precise argument disappears into that blur. The study of old money vs new money characters corrects that blur. Fitzgerald does not write one wealthy class; he writes two, and the line between them is the sharpest social boundary in the book. On one side stand the families whose fortunes arrived before they did, the inheritors who never had to earn a dollar and never let you forget it. On the other stand the strivers who made their fortunes in a single furious decade and discovered that a bank balance buys a house but not a welcome. Sort the cast along that one axis and the whole machinery of the plot snaps into focus.

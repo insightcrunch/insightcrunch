@@ -9,7 +9,7 @@ excerpt: "East Egg vs West Egg as a theme turns the novel's Long Island geograph
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2024-11-04
+last_updated: 2026-08-13
 lang: en
 ---
 Read East Egg vs West Egg as a theme rather than a backdrop and the whole novel sharpens, because Fitzgerald has done something a casual reader walks straight past. He has drawn a class line you can see from your own lawn. Two peninsulas of identical shape jut into the same water, separated by a thin stretch of bay, and that small gap of salt water carries the entire weight of the book's argument about money, belonging, and the impossibility of crossing from one kind of wealth into another. The land is the same; the people are not. That single arrangement, the matched twins divided by a courtesy bay, is the class theme rendered as geography, and it is the most efficient move in the novel's design.

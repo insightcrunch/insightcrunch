@@ -9,7 +9,7 @@ excerpt: "Azure route tables and user-defined routes decide where packets go. Le
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "jason-mckenzie"
-last_updated: 2023-12-11
+last_updated: 2026-08-13
 lang: en
 ---
 A packet leaves a virtual machine bound for the public internet, and instead of arriving it vanishes. No security rule denied it. No firewall logged a drop. The application simply times out, and the engineer staring at the screen burns an afternoon blaming the network security group when the real culprit is a single Azure route table entry pointing the traffic at a next hop that no longer answers. This is the most common way Azure routing goes wrong, and it is invisible to anyone who has never learned how the platform actually forwards a packet. Azure route tables and the user-defined routes inside them are the steering wheel of a virtual network, and the difference between an engineer who can drive deliberately and one who guesses is the difference between a five-minute fix and a multi-hour incident.

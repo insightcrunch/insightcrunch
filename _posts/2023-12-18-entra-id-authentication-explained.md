@@ -9,7 +9,7 @@ excerpt: "Entra ID authentication explained: the sign-in pipeline, OAuth and OID
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 61
 author: "marcus-hall"
-last_updated: 2023-12-18
+last_updated: 2026-08-13
 lang: en
 ---
 Almost every Azure incident that reaches a security review eventually traces back to a sentence that begins "the app was authenticated, so we assumed." A user signed in, a token was present, a call went through, and somewhere along that path a decision was made on the strength of the wrong proof. An ID token was forwarded to an API as though it were a key. An access token was inspected for the user's name and trusted as evidence of who was on the other end. A refresh token sat in a log file long enough for someone to find it. None of these are exotic attacks. They are the ordinary result of treating authentication as a single binary event rather than as a pipeline that produces several different artifacts, each meant for a single purpose.

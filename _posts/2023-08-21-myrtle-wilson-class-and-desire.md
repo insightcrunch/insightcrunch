@@ -9,7 +9,7 @@ excerpt: "Myrtle Wilson: class, desire, and death form a single argument in The 
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 47
 author: "victoria-stone"
-last_updated: 2023-08-21
+last_updated: 2026-08-13
 lang: en
 ---
 Myrtle Wilson wants exactly what the rich already have, and the novel destroys her for the wanting. That is the hard center of her story, and it is why a study of Myrtle Wilson: class, desire, and death cannot treat those three words as three separate facts about her. They are one continuous motion. The desire is a class desire, a hunger for the dress and the flat and the small dog that the people across the social line own without thinking. The death is what that desire earns when a body from the bottom of the order pushes against the boundary above it. Read her this way and Myrtle stops being Tom's mistress or a plot device that clears the road for the ending. She becomes the clearest demonstration the book offers that the line between the classes is not merely unfair but lethal to anyone who tries to cross it from below.

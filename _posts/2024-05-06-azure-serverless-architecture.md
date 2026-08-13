@@ -9,7 +9,7 @@ excerpt: "Serverless architecture on Azure pairs event-driven Functions with Dur
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
 author: "abigail-cooper"
-last_updated: 2024-05-06
+last_updated: 2026-08-13
 lang: en
 ---
 A serverless architecture on Azure is easy to start and easy to misjudge. Anyone can write an Azure Function in an afternoon, wire it to an HTTP route, and watch it return a response. The gap that costs teams money and sleep is the distance between writing one function and designing a system out of many. A single handler is a snippet. An architecture is a set of decisions about what triggers work, how state survives between invocations, how a multi-step process stays correct when any step can fail, what happens when traffic spikes, and what the bill looks like at the end of the month. Those decisions are where the model rewards you or quietly turns against you.

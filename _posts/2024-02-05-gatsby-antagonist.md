@@ -9,7 +9,7 @@ excerpt: "Who is the antagonist in The Great Gatsby? Tom seems the obvious villa
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 47
 author: "emily-reed"
-last_updated: 2024-02-05
+last_updated: 2026-08-13
 lang: en
 ---
 Ask a classroom who the antagonist in The Great Gatsby is, and the hands go up fast: Tom Buchanan. He is rich, cruel, unfaithful, and he is the man who finally breaks Gatsby. The answer feels obvious, which is exactly why it is worth distrusting. Naming Tom and stopping there treats a layered novel as if it were a melodrama with a mustache-twirling villain, and Fitzgerald built something stranger and sadder than that. The real question is not which character we dislike most. It is which force in the book actually opposes Gatsby's deepest want and proves stronger than him. Once you frame it that way, the obvious answer starts to wobble, and a better one comes into view.

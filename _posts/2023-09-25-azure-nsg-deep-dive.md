@@ -9,7 +9,7 @@ excerpt: "A Network Security Group decides every flow by priority order across b
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 61
 author: "james-carter"
-last_updated: 2023-09-25
+last_updated: 2026-08-13
 lang: en
 ---
 An engineer stares at a Network Security Group, sees an entry that plainly allows TCP 443 from the internet, and cannot understand why the connection still times out. The clause is right there, green and explicit, and the connection still dies. This is the single most common confusion in Azure filtering, and it comes from treating a security group as a checklist where any matching allow wins. It is not a checklist. A Network Security Group is an ordered decision engine, and the only allow that matters for a given packet is the first matching entry by priority, evaluated separately for the subnet and for the network interface, with a silent default deny waiting at the bottom of each list. Once you hold that model, the timeout stops being a mystery and becomes a prediction you can make before you ever open the portal.

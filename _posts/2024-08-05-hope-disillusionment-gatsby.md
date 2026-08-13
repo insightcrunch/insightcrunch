@@ -9,7 +9,7 @@ excerpt: "Hope and disillusionment in The Great Gatsby drive its emotional arc: 
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2024-08-05
+last_updated: 2026-08-13
 lang: en
 ---
 Most readers finish The Great Gatsby with a single image lodged behind the eyes: a man on a dark lawn, arms stretched toward a small green light he will never reach. That image is why the theme of hope and disillusionment in The Great Gatsby refuses to settle into anything simple. The novel is, on its surface, the record of a hope so large it bends a whole life around itself, and of the disenchantment that closes over the people who watched that hope fail. Yet Fitzgerald does something stranger and harder than chart a rise and a fall. He lets the hope collapse completely, and then he refuses to sneer at it.

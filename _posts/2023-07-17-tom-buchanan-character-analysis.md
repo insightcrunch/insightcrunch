@@ -9,7 +9,7 @@ excerpt: "This Tom Buchanan character analysis reads Fitzgerald's old-money anta
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 47
 author: "sarah-mitchell"
-last_updated: 2023-07-17
+last_updated: 2026-08-13
 lang: en
 ---
 Most readers finish The Great Gatsby hating Tom Buchanan and stop there, as if contempt were the same thing as understanding. A serious Tom Buchanan character analysis has to start somewhere harder. The central question is not whether Tom is awful, which the novel settles within a few pages, but why Fitzgerald built the cast's least likable man as its most secure, and what it means that the one character who never grows is also the one the world never punishes. Tom is the husband Daisy will not leave, the man who keeps a mistress in plain sight, the voice that turns a dinner party into a lecture on race, and, at the end, the figure who points a grieving man toward Gatsby's house and then drives off into a long untroubled life. To read him well is to see a deliberate construction, not a cartoon brute.

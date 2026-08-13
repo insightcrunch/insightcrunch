@@ -9,7 +9,7 @@ excerpt: "Retry and circuit breaker patterns on Azure stop transient faults from
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
 author: "kevin-reeves"
-last_updated: 2024-05-13
+last_updated: 2026-08-13
 lang: en
 ---
 A distributed system on Azure fails in small ways constantly. A connection resets mid-request, a dependency returns a 503 for two seconds while it scales, a database node fails over and rejects writes for a heartbeat. Most of these faults are transient: they clear on their own within milliseconds or seconds, and a second attempt would succeed. The retry and circuit breaker patterns exist to turn those brief stumbles into invisible recoveries rather than user-facing errors, and to stop a genuinely sick dependency from dragging the rest of the system down with it. Engineers who skip them ship code that works in the demo and pages someone at 3 a.m. when a regional blip ripples into a full outage.

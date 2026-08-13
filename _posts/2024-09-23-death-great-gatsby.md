@@ -9,7 +9,7 @@ excerpt: "Death and mortality in Great Gatsby shape every page of the novel: tra
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 49
 author: "chloe-martin"
-last_updated: 2024-09-23
+last_updated: 2026-08-13
 lang: en
 ---
 Most readers finish The Great Gatsby remembering it as a love story that ends badly, and they are not wrong, only incomplete. The subject that actually organizes the book is death and mortality in Great Gatsby, a pressure that begins on the first page and never lifts. Fitzgerald wrote a novel in which a man is shot in a swimming pool, a woman is torn open on a roadside, and a second man kills himself in a yard of ashes, yet the most important death in the book is one with no body at all. The hope that drives Gatsby dies hours before the bullet finds him, and once you see that the novel kills the dream first and the dreamer second, the whole design rearranges itself around endings. This is the argument the book stages: that the real casualty is possibility, and that the three literal corpses are the grim proof of a loss that was never physical to begin with.

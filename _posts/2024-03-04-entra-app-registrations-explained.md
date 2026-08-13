@@ -9,7 +9,7 @@ excerpt: "Microsoft Entra app registrations explained: the application object ve
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 61
 author: "alex-cunningham"
-last_updated: 2024-03-04
+last_updated: 2026-08-13
 lang: en
 ---
 A team registers an application in Microsoft Entra ID, grants it a permission, edits a value in the manifest, and watches the change have no effect on the thing they expected to control. Another team rotates a client secret in one place and the sign-in keeps failing somewhere else. A third team grants an application permission and the app still returns an authorization error until an administrator clicks a button nobody told them about. These are not separate problems. They are the same problem wearing different clothes, and the problem is that Microsoft Entra app registrations are two objects pretending to be one, and almost every piece of registration confusion comes from treating the two as a single thing.

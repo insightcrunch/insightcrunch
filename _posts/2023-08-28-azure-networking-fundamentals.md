@@ -9,7 +9,7 @@ excerpt: "Azure networking fundamentals explained: how routing chooses the path 
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 62
 author: "william-knight"
-last_updated: 2023-08-28
+last_updated: 2026-08-13
 lang: en
 ---
 A request leaves a client, crosses a virtual network, passes through a security boundary, resolves a name, and arrives at a service. When it works, nobody thinks about the path. When it fails, an engineer stares at a timeout and starts guessing, and the guessing is where hours disappear. The reason the guessing happens is almost always the same: two distinct decisions, made at two distinct layers, get treated as one. Routing decides where a packet goes. Filtering decides whether it is allowed to go there. Name resolution decides what address the packet aims at in the first place. These are three separate questions answered by three separate mechanisms, and an engineer who keeps them separate can place any connectivity problem on a map within a minute, while an engineer who blends them widens a security rule to fix a routing fault, or rewrites a route table to fix a name that never resolved.

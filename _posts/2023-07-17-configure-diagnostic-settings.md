@@ -9,7 +9,7 @@ excerpt: "Configure diagnostic settings across Azure so each service routes logs
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "abigail-cooper"
-last_updated: 2023-07-17
+last_updated: 2026-08-13
 lang: en
 ---
 A component in Azure produces telemetry whether or not anyone is listening. The platform meters it, generates platform metrics, and writes audit records to the activity log automatically. The detailed signal, the per-request logs, the firewall verdicts, the gateway access entries, the database query statistics, stays inside the resource and is discarded unless you have told the platform where to send it. That instruction is the diagnostic setting. When you configure diagnostic settings correctly, every asset forwards its logs and metrics to a destination you control, and the data is there the day an incident starts. When you skip the configuration, the service looks healthy in the portal blade right up to the moment you open a Log Analytics query during an outage and discover the table is empty for the window you most need.

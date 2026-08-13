@@ -9,7 +9,7 @@ excerpt: "Azure Firewall vs NSG vs NVA confuses many teams. Learn how statefulne
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 59
 author: "nathan-cole"
-last_updated: 2023-10-30
+last_updated: 2026-08-13
 lang: en
 ---
 A surprising number of Azure designs treat the network security group, Azure Firewall, and a third-party network virtual appliance as three names for the same job. They are not. The recurring confusion behind every Azure Firewall vs NSG argument, and behind every debate over whether a network virtual appliance belongs in the picture, is the assumption that these three controls compete for one slot in the design. They do not compete. They sit at different layers, hold different scopes, and answer different questions, and the moment you see that clearly the choice stops being a coin flip and becomes a short chain of reasoning.

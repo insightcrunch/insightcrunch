@@ -9,7 +9,7 @@ excerpt: "The Strangler Fig pattern migrates an Azure monolith one capability at
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
 author: "marcus-hall"
-last_updated: 2024-07-01
+last_updated: 2026-08-13
 lang: en
 ---
 The Strangler Fig pattern is how you migrate a monolith on Azure without betting the business on one weekend cutover, and the easiest way to see why it matters is to picture the alternative first. A team inherits a monolith that has run the business for nine years. It works, it pays the bills, and nobody fully understands it anymore. Leadership wants microservices, the cloud, and faster releases, so somebody proposes the obvious plan: freeze new features, rewrite the whole thing on Azure, and switch over on a weekend. Eighteen months later the rewrite is two thirds done, the frozen feature backlog has become a competitive liability, and the cutover weekend keeps slipping because nobody can prove the new system matches the old one on every edge case the monolith quietly handles. This is the big-bang rewrite, and it fails the same way almost every time.

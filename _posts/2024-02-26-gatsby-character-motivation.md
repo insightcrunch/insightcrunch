@@ -9,7 +9,7 @@ excerpt: "Character motivation in The Great Gatsby is a clockwork of incompatibl
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 48
 author: "victoria-stone"
-last_updated: 2024-02-26
+last_updated: 2026-08-13
 lang: en
 ---
 Ask most readers why the people in The Great Gatsby do what they do, and the answers arrive as labels. Gatsby is the romantic. Daisy is the prize. Tom is the brute. Nick is the watcher. Myrtle is the mistress. George is the victim. The labels are not wrong, exactly, but they are inert. They tell you what a character is rather than what a character is reaching for, and a label cannot collide with anything. Character motivation in The Great Gatsby only becomes interesting when you stop sorting the cast into types and start asking, scene by scene, what each person is actually trying to get, and what they will sacrifice to get it.

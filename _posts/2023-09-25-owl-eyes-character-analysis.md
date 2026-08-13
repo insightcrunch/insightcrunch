@@ -9,7 +9,7 @@ excerpt: "Owl Eyes, the mysterious library guest in The Great Gatsby, appears th
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 49
 author: "elena-wright"
-last_updated: 2023-09-25
+last_updated: 2026-08-13
 lang: en
 ---
 Why does a drunk stranger in oversized spectacles, a man who speaks fewer than a hundred words in the entire novel, end up being the only party guest who understands Jay Gatsby and the only one of those hundreds who bothers to return for the funeral? Owl Eyes, the mysterious library guest, is the figure Fitzgerald hands the novel's clearest pair of eyes, and the joke of the book is that he hands them to a man too drunk to drive home. He arrives uninvited, sits among unread books, vanishes into a ditch, and reappears in the rain over an open grave. Three brief scenes, no name, no backstory, and yet a thread of genuine sight runs through all three. This study follows that thread.

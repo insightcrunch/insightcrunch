@@ -9,7 +9,7 @@ excerpt: "GitHub Actions OIDC for Azure removes stored secrets entirely. Configu
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 62
 author: "gregory-marsh"
-last_updated: 2023-08-14
+last_updated: 2026-08-13
 lang: en
 ---
 Most teams wire a GitHub workflow to Azure the way they always have: they create a service principal, generate a client secret, paste that secret into a repository secret named `AZURE_CREDENTIALS`, and move on. The pipeline deploys, the dashboard turns green, and a long-lived credential now sits in a repository setting where it will quietly expire eighteen months later in the middle of a release, or leak through a fork, a log, or a compromised action. GitHub Actions OIDC for Azure exists to delete that credential entirely. Instead of storing a secret, the workflow asks GitHub for a short-lived token at run time, presents it to Microsoft Entra ID, and receives an Azure access token in exchange. Nothing is stored, nothing expires on a calendar you forgot about, and nothing can leak from a place a secret never lived.

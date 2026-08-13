@@ -8,6 +8,7 @@ reading_time: 60
 tags: ["Azure", "Networking", "SNAT", "NAT Gateway", "Cloud Computing"]
 author: "insight-crunch-team"
 lang: en
+last_updated: 2026-08-13
 ---
 A web service runs cleanly for weeks. Then a marketing push triples the traffic for an afternoon, and the application starts failing in a way that makes no sense to the people staring at the dashboards. Inbound requests still arrive. The virtual machines report healthy. The database answers. Yet calls the application makes to an external payment API begin timing out, then a downstream weather feed stops responding, then a third-party logging endpoint goes quiet. The network team checks the route table, the security rules, and the public address, and finds nothing wrong. By the time anyone thinks to correlate the failures, the traffic has dropped back to normal and the symptoms have vanished, leaving a mystery that recurs at every load spike.
 

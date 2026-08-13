@@ -10,6 +10,7 @@ author: "diana-patel"
 tags: ["The Great Gatsby", "Themes", "Time and the Past", "Close Reading", "Essay Writing", "F. Scott Fitzgerald"]
 reading_time: 47
 lang: en
+last_updated: 2026-08-13
 ---
 The most quoted sentence in American fiction is a sentence about going backward. When Nick Carraway closes his narration with the image of boats beating against a current that carries them relentlessly rearward, he is not decorating the book with a pretty line. He is naming its engine. The past and the repetition of time is the deepest theme in The Great Gatsby, the one from which every other concern in the novel grows, and a reader who grasps it stops seeing a love story or a class study and starts seeing a single, devastating argument about the human refusal to let a vanished moment stay vanished. This guide treats the past and the repetition of time as the root theme of Fitzgerald's novel, the buried spring that drives the green light, the parties, the ruined marriage, and the death at the end of the dock.
 
