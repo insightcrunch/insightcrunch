@@ -6,17 +6,17 @@ date: 2007-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Late Period", "Greeks in Egypt", "Ancient Egypt", "Archaeology", "World History"]
 excerpt: "Greeks in Egypt arrived as soldiers and traders long before Alexander, and this guide reconstructs how they lived, worked, and changed the Nile country."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2007-01-01
+lang: en
 ---
-
 The story usually starts in 332 BCE with a Macedonian army marching down the coast road into the Delta, and it starts far too late. Greeks in Egypt were not a consequence of Alexander's conquest. They were a fact of Egyptian life for roughly three centuries before he was born, embedded in the army, the ports, the workshops, and the cemeteries of the Nile country. When Alexander arrived, he did not open a closed kingdom to Hellenic settlement. He took command of a kingdom that already contained Hellenic garrison towns, Hellenic sanctuaries, Hellenic merchants with legal standing, and men whose fathers and grandfathers had been born on the Nile speaking a language from the Aegean.
 
 That is the correction this article exists to make, and it is not a pedantic one. If the Greek presence begins with the conquest, then Ptolemaic Egypt looks like a colonial imposition dropped on an unprepared population. If the presence begins in the seventh century BCE, Ptolemaic Egypt looks like something else entirely: the political culmination of a long, uneven, negotiated coexistence that Egyptian kings themselves engineered for their own purposes. The Ptolemies did not invent the arrangement. They inherited it, expanded it, and gave it a crown.
 
-![Greeks in Egypt before Alexander, mercenaries and traders of the Late Period explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Greeks in Egypt before Alexander, mercenaries and traders of the Late Period explained - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Reconstructing that earlier community is genuinely difficult, and the difficulty is part of the subject. These were not people who built monumental archives about themselves. They were soldiers on campaign pay, shippers with cargo manifests written on perishable material, and craftsmen whose names survive only because they scratched them into stone or because someone buried them under a carved marker. What we have is fragmentary and skewed: names cut into a colossus in Nubia, funerary stelae from a Memphis cemetery, imported pottery in rubbish layers, a handful of dedications, and a set of Greek literary accounts written down long after the events and shaped by the storytelling conventions of their own tradition. Working out how these people actually lived means reading that scatter carefully and admitting where it runs out.
 

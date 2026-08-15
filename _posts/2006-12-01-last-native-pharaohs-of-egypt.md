@@ -8,10 +8,10 @@ tags: ["Egyptian History", "Nectanebo", "Late Period", "Ancient Egypt", "Pharaoh
 excerpt: "The last native pharaohs of Egypt, Nectanebo I and Nectanebo II, ruled a flourishing and well defended state until Persia ended native rule in 343 BCE."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 67
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-12-01
+lang: en
 ---
-
 Native rule in Egypt did not fade out. It was cut off at a high point, and that is the single most misunderstood fact about the last native pharaohs. The standard picture has a tired civilization drifting toward its inevitable end, its last kings presiding over decay until Persia finally put it out of its misery. The evidence describes something else entirely: sixty years of restored independence in which Egyptian kings repelled full Persian invasions twice, ran an aggressive diplomatic operation across the Aegean, and financed a temple building program that stands comparison with the New Kingdom. Nectanebo II, the last of them, was still building when he lost his kingdom.
 
 That contrast is what this article is about, and it supports what this series calls the last-flourish thesis: the final native dynasties mounted a genuine cultural and military revival, and the end came from an external force overwhelming a functioning state rather than from internal exhaustion. Getting that right matters for more than fairness to some fourth-century kings. It changes what the end of pharaonic Egypt means. A civilization that collapses under its own weight and a civilization that is conquered while still producing are different stories, and only one of them is what happened.

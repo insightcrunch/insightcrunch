@@ -6,17 +6,17 @@ date: 2006-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Late Period", "Ancient Egypt", "Pharaohs", "Historiography", "World History"]
 excerpt: "The Late Period of ancient Egypt, circa 664 to 332 BCE, paired a deliberate cultural revival with Persian conquest and the end of native pharaonic rule."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-09-01
+lang: en
 ---
-
 The Late Period of ancient Egypt is the era most readers meet twice and understand once. They meet it first as a list of foreign conquerors, Assyrians and Persians and finally Macedonians, and conclude that Egypt was simply running out of history. They meet it again in a museum, standing in front of a Saite statue whose polish and precision rival anything the Old Kingdom produced, and cannot square the two impressions. Both impressions are correct. Between roughly 664 and 332 BCE, Egypt mounted one of the most deliberate cultural revivals the ancient world ever staged and simultaneously lost, regained, and permanently lost its political independence. That contradiction is not a flaw in the record. It is the era's defining structure, and any account that resolves it by picking one side has stopped explaining Egypt at exactly the point where Egypt becomes hardest to explain.
 
 This guide is the hub for that whole last native age. It sets the chronology, maps Dynasties 26 through 31, explains the mechanics that let a country under repeated occupation produce a golden age of art and scholarship, and routes you down to the specialist accounts of the Saite revival, the Persian conquest, and the final native pharaohs. The argument running through it is what this series calls the revival-under-siege thesis: the Late Period's brilliance and its conquests were not two separate stories running in parallel, but one story with a single engine. The same pressures that made Egypt a target also made Egyptians reach backward for a usable past, and the reaching produced the art, the scholarship, and the religious intensity that make the era remarkable.
 
-![The Late Period of ancient Egypt explained, Dynasties 26 to 31 and the end of native rule - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Late Period of ancient Egypt explained, Dynasties 26 to 31 and the end of native rule - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 ## What the Late Period Was and When It Ran
 

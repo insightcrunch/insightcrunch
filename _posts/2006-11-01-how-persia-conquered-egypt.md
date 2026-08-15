@@ -6,17 +6,17 @@ date: 2006-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Persian Conquest", "Late Period", "Ancient Egypt", "Warfare", "Historiography"]
 excerpt: "Persia conquered Egypt at Pelusium in 525 BCE under Cambyses II, and the evidence shows a competent campaign whose famous madness legend was invented later."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 67
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-11-01
+lang: en
 ---
-
 Persia conquered Egypt in a single campaigning season in 525 BCE, and then lost the argument about it for the next two and a half thousand years. That double outcome is what makes this campaign worth studying carefully rather than summarizing. The military story is a clean, well-executed operation that solved the hardest logistical problem in ancient Near Eastern warfare and won the decisive battle at the one point where Egypt could be beaten. The reputational story is the opposite: a conqueror who by the Egyptian documentary evidence behaved like a reasonably conventional new pharaoh became, in the Greek tradition, a temple-desecrating lunatic who stabbed a sacred bull and lost an army in the desert, and that version is the one nearly everyone knows.
 
 This article covers both, because separating them is the actual intellectual work. The claim it advances is what this series calls the conquest-and-slander thesis: Persia won the war and lost the propaganda, and the Cambyses-the-madman story is substantially a later hostile construction that Egyptian and Persian documents contradict at several specific points. That is not a rehabilitation of Persian rule, which generated real grievance for real reasons, and this article names those reasons. It is an argument about how to weigh a vivid narrative source against dull administrative ones, which is the central methodological problem of the whole Late Period.
 
-![How Persia conquered ancient Egypt at Pelusium in 525 BCE under Cambyses II - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Persia conquered ancient Egypt at Pelusium in 525 BCE under Cambyses II - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The conquest sits inside the era mapped in [the guide to the Late Period of ancient Egypt](/2006/09/01/late-period-of-ancient-egypt/), and it ended the revival covered in [the account of the Saite Renaissance](/2006/10/01/saite-renaissance-of-egypt/). What it did not settle is whether Egyptians were better governed by Persians or by their own kings, which is a separate question with its own verdict in [the comparison of Persian and native rule in late Egypt](/2007/06/01/persian-vs-native-rule-in-egypt/).
 

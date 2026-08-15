@@ -6,17 +6,17 @@ date: 2007-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Hellenistic Egypt", "Ancient Egypt", "Alexandria", "World History"]
 excerpt: "Ptolemaic Egypt was a Greek kingdom wearing a pharaonic crown, and this complete guide explains how that double identity first built it and then broke it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2007-07-01
+lang: en
 ---
-
 The single most common error in reading Ptolemaic Egypt is to file it under ancient Egypt and move on. The temples look Egyptian, the rulers wore the double crown, the gods carry Egyptian names, and the last of the line is the most famous Egyptian monarch who ever lived. Everything about the surface invites the assumption that this was the pharaonic state continuing under new management.
 
 It was not. Ptolemaic Egypt was a Hellenistic kingdom, founded by a Macedonian general, ruled by a Greek-speaking dynasty from a Greek city on the Mediterranean coast, administered in Greek, defended by a settler army of Greek and Macedonian soldiers holding land grants, and integrated into a Greek-speaking world that stretched from the Adriatic to Central Asia. Its kings were simultaneously Greek monarchs abroad and Egyptian pharaohs at home, and they were entirely deliberate about being both. That double identity is the organizing fact of the whole period, and it is the thesis this guide argues: the Greek-crown-on-a-pharaonic-throne thesis, that the Ptolemies governed as Hellenistic kings toward one audience and as pharaohs toward another, and that the arrangement was both the source of their extraordinary success and the fault line along which the kingdom eventually broke.
 
-![Ptolemaic Egypt explained, the Greek dynasty that ruled from Alexandria - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ptolemaic Egypt explained, the Greek dynasty that ruled from Alexandria - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 Getting this right changes how everything else reads. It explains why the best-preserved Egyptian temples anywhere were built by Greek kings. It explains why an Egyptian priesthood issued decrees in three scripts honoring a monarch who could probably not read one of them. It explains why the richest kingdom in the Mediterranean world could not raise an army from its own enormous population without consequences it did not anticipate. And it explains why Rome, when it finally took Egypt, absorbed a state that had been functioning as a Roman client for over a century.
 

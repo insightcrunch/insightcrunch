@@ -6,17 +6,17 @@ date: 2007-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Late Period", "Persian Egypt", "Ancient Egypt", "Historiography", "World History"]
 excerpt: "Persian rule in Egypt is remembered as cruel and native rule as benign, but the evidence is far messier, and this guide reaches a defended verdict on both."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2007-06-01
+lang: en
 ---
-
 Ask almost anyone who has read a general account of the Late Period whether Egypt was better off under Persian or native rule and the answer comes back instantly, with confidence, and without much evidence behind it. Persian rule was foreign, extractive, and impious. Native rule was legitimate, pious, and Egyptian. The Persians desecrated temples and taxed the country dry; the native pharaohs built, restored, and defended. The story is clean, emotionally satisfying, and repeated in a great deal of writing that ought to know better.
 
 The evidence does not support it in that form. It supports something more interesting and considerably harder to summarize, which is the argument this article makes and defends. Call it the propaganda-inflated-hatred verdict: Persian rule in Egypt was more mixed than the hostile tradition suggests, native rule was less harmonious than the same tradition implies, and the enormous gap between the two in reputation is substantially wider than the gap between them in administrative practice. The grievance was real, but it was concentrated in one specific structural defect rather than distributed across everything the Persians did, and the loudest voices telling us how much Egyptians hated Persia had reasons of their own for saying so.
 
-![Persian versus native rule in Late Period Egypt compared, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Persian versus native rule in Late Period Egypt compared, explained - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 That structural defect has a name in this article, and it is the second contribution here: the absentee pharaoh problem. Egyptian kingship was not merely a political office. It was a ritual function that required a king physically present in Egypt performing the rites that kept the cosmic order intact. A Persian Great King ruling from Susa or Persepolis through a satrap could deliver competent administration, legal codification, canal engineering, and even temple construction, and still fail at the one thing Egyptian ideology considered non-negotiable. That is where the real difference sits, and once you see it, both the genuine Egyptian grievance and the exaggeration layered on top of it become intelligible.
 

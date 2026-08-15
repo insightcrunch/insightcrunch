@@ -6,17 +6,17 @@ date: 2008-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Alexandria", "Ancient Egypt", "Historiography", "World History"]
 excerpt: "Ancient Alexandria produced Euclid, Eratosthenes, and the first human anatomy, because its Musaeum was the world's first state-funded research institute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-02-01
+lang: en
 ---
-
 Between roughly 300 and 150 BCE, one city produced the geometry textbook that would be used for two thousand years, the first reasonably accurate measurement of the size of the planet, the first systematic description of the human nervous system, the first proposal that the Earth orbits the Sun, and the foundations of trigonometry, geography, and mechanics. That concentration is not a coincidence and it is not simply the result of unusually gifted individuals happening to be born in the same place at the same time. It is the result of an institution.
 
 The argument this article makes is the first-research-institute thesis: the Musaeum of Alexandria was the earliest state-funded research institution in recorded history, and the clustering of ancient scientific breakthroughs in this one city over this one period is the direct consequence of what that institution did. It paid people to think full time, it gave them a collection that made previous work retrievable, it put them close enough to each other to argue, and it operated in a legal and cultural setting that permitted work forbidden elsewhere. Those four conditions had never been assembled together before, and when they came apart the golden age ended.
 
-![Science and learning in ancient Alexandria, Euclid, Eratosthenes, and the Musaeum - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Science and learning in ancient Alexandria, Euclid, Eratosthenes, and the Musaeum - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 That framing corrects the picture most readers carry, in which ancient science is a scattering of brilliant amateurs pursuing private curiosity: a philosopher in a bath, a geometer in the sand, a lone genius with a lever. Some of that existed. What happened in Alexandria was different in kind. It was organized, funded, cumulative, and institutionally continuous across generations, with successors correcting predecessors and a physical collection making the correction possible.
 

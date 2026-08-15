@@ -6,17 +6,17 @@ date: 2007-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Herodotus", "Late Period", "Historiography", "Ancient Egypt", "World History"]
 excerpt: "Herodotus on Egypt is our earliest full outsider account, mixing sharp observation with error and legend, and this guide shows exactly when to trust him."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2007-05-01
+lang: en
 ---
-
 Every serious reader of Egyptian history meets Herodotus early and then spends years learning how to handle him. Book Two of his Histories is the longest sustained description of Egypt written by any outsider before the Roman period, and for a great deal of Late Period life it is the only narrative source that survives at all. It is also, in places, wrong in ways that would embarrass a modern undergraduate. He inverts the order of dynasties by nearly two thousand years. He records a story about the builder of the Great Pyramid that no Egyptian document supports. He repeats tales about winged snakes and a self-renewing bird with the same reporting formula he uses for the sacred bulls he almost certainly saw with his own eyes.
 
 The temptation is to resolve this discomfort by picking a side. One camp treats him as the Father of History and quotes him as though a fifth-century BCE Greek visitor were a neutral camera. The other camp treats him as a fabulist who padded a travelogue with hearsay and possibly never went south of the Delta at all. Both positions are lazy, and both throw away the thing that makes him valuable. The argument of this article is what can be called the flawed-but-priceless thesis: Herodotus is unreliable in detail and indispensable in aggregate, so the real skill is not deciding whether to believe him but knowing, passage by passage, which kind of claim you are looking at and what test it has to pass.
 
-![Herodotus and his account of ancient Egypt in Book Two, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Herodotus and his account of ancient Egypt in Book Two, explained - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 That skill is learnable, and it is the actual deliverable here. By the end of this guide you should be able to open any passage of Book Two and place it into one of a small number of categories, each with a known reliability profile, and then say out loud what evidence would confirm or break it. That is what a professional ancient historian does, and it is a great deal more useful than memorizing a list of his errors. It is also the transferable part. The same procedure works on Diodorus Siculus, on Strabo, on Manetho as transmitted through later excerptors, and on every medieval chronicler you will ever meet.
 

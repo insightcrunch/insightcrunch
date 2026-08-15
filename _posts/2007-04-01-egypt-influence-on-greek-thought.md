@@ -6,17 +6,17 @@ date: 2007-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Late Period", "Historiography", "Ancient Egypt", "World History", "Archaeology"]
 excerpt: "Egypt's influence on Greek thought is real but often inflated, and this guide weighs the evidence in mathematics, medicine, art, religion and sculpture."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2007-04-01
+lang: en
 ---
-
 Egypt's influence on Greek thought is one of the few questions in ancient history where getting the answer right requires resisting two opposite pressures at once. On one side sits a long scholarly habit of treating Greek achievement as essentially self-generated, a miracle of the Aegean owing little to the older civilizations around it. On the other sits a maximalist counter-tradition holding that Greek philosophy, mathematics, and religion were substantially taken from Egypt and then concealed. Both positions have adherents, both can cite evidence, and both are wrong in ways this article will specify.
 
 The accurate answer is narrower than the maximalist claim and far larger than the minimalist one, and it is not the same across domains. In sculpture the transmission is demonstrable and dramatic. In the calendar it is documented and precise. In practical mathematics it is real but limited, and Greeks added something Egypt did not have. In medicine there is genuine borrowing alongside a genuinely Greek departure. In religion the most famous ancient claim about transmission is simply false, while a different and later transmission is undeniable. In philosophy proper the case is weakest, and it is exactly where the strongest claims are usually made.
 
-![Egypt's influence on Greek thought, weighing mathematics, medicine, art, and religion - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egypt's influence on Greek thought, weighing mathematics, medicine, art, and religion - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 Sorting this out matters beyond the specific question, because it is a case study in how intellectual debts get claimed, denied, exaggerated, and eventually measured. The Greeks themselves inflated what they owed Egypt, for reasons that had nothing to do with accuracy. Later European scholarship deflated it, for reasons that had a great deal to do with racial ideology. A modern counter-movement re-inflated it, partly in reaction to that ideology. Underneath all three lies a body of evidence that can actually be examined, and the examination produces a defensible verdict.
 

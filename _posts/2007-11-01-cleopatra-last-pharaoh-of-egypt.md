@@ -6,17 +6,17 @@ date: 2007-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Cleopatra", "Ancient Egypt", "Pharaohs", "Biography", "World History"]
 excerpt: "Cleopatra VII was a Greek-Macedonian scholar-queen who held Egypt for twenty-one years, and the seductress of legend hides what she actually achieved."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2007-11-01
+lang: en
 ---
-
 No ruler of Egypt is better known and less accurately known than Cleopatra VII. She is the only pharaoh most people can name after Tutankhamun, and almost everything the general reader believes about her comes from a tradition assembled by her enemies and then embellished for two thousand years by writers who found the enemies' version more entertaining than the record. Strip that away and the person underneath is not the figure of legend at all. She is a working monarch who inherited a bankrupt, Roman-dominated kingdom at seventeen or eighteen, lost her throne, took it back, held it for twenty-one years through the most violent political convulsion in Mediterranean history, and governed a country whose language none of her ancestors had bothered to learn.
 
 The argument this article makes is what can be called the scholar-queen thesis: her real instruments of power were education, languages, fiscal control, and religious positioning, and the seduction the legend emphasizes is the one instrument for which the evidence is weakest and the sourcing worst. She survived as long as she did because she was better at reading political situations than any Ptolemaic ruler in five generations, not because she was better at charming men. That distinction is not a modern rehabilitation project. It is what the documentary evidence, as opposed to the Roman literary tradition, actually shows.
 
-![Cleopatra VII, the last pharaoh of Egypt, her reign and her death explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Cleopatra VII, the last pharaoh of Egypt, her reign and her death explained - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 This article is her ruler profile, and it keeps to that scope deliberately. Her political partnerships with Julius Caesar and then Mark Antony are treated in the article on [Cleopatra, Caesar, and Mark Antony](/2007/12/01/cleopatra-caesar-and-antony/), which handles them as the strategic alliances they were. The long afterlife of the legend, the beauty question as a cultural phenomenon, and how Shakespeare and the film tradition reshaped her, belong to the article on [the real Cleopatra versus the legend](/2008/03/01/real-cleopatra-vs-the-legend/). The Roman annexation that followed her death is covered in the article on [how Egypt fell to the Roman Empire](/2008/04/01/how-egypt-fell-to-rome/). What is answered here is the set of questions about the woman herself: who she was, where she came from, how she took and kept power, how she governed, what she built, what languages she spoke, what became of her children, and how she died.
 

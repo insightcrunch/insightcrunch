@@ -6,17 +6,17 @@ date: 2007-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Alexander the Great", "Late Period", "Ancient Egypt", "Alexandria", "World History"]
 excerpt: "Alexander the Great took Egypt in 332 BCE without a battle, and this guide explains why Egyptians welcomed him and what his brief stay actually changed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2007-08-01
+lang: en
 ---
-
 The most consequential conquest in Egyptian history involved no battle. Alexander the Great entered Egypt in the autumn of 332 BCE, received the surrender of the Persian governor, sailed up the Nile to Memphis, sacrificed to the Egyptian gods, and became master of the country without an army of Egyptians raising a weapon against him. He stayed roughly six months, founded a city, walked into the western desert to consult an oracle, reorganized the administration, and left. He never returned.
 
 Those six months rearranged the next thousand years. They ended Persian rule in Egypt permanently, established the city that would be the intellectual capital of the Mediterranean world for centuries, created the precedent by which a foreign king could be a legitimate pharaoh in Greek hands, and set up the succession crisis that placed one of Alexander's officers on the Egyptian throne and kept his family there for three hundred years.
 
-![How Alexander the Great conquered Egypt in 332 BCE, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Alexander the Great conquered Egypt in 332 BCE, explained - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The argument of this article is the welcomed-conqueror thesis: Alexander took Egypt as a liberator rather than an invader, and the absence of a fight is not a footnote to the story but the reason the conquest mattered so much. A country taken by storm is a country garrisoned against its population. A country handed over is a country whose institutions can be inherited intact, whose priesthood can be courted rather than suppressed, and whose new ruler can present himself as a restorer rather than an occupier. Everything the Ptolemies later built rested on the fact that Greek rule in Egypt began without a massacre.
 

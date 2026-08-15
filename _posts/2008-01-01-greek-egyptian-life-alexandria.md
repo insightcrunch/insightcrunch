@@ -6,17 +6,17 @@ date: 2008-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Alexandria", "Ancient Egypt", "Archaeology", "World History"]
 excerpt: "Ancient Alexandria's Greeks, Egyptians, and Jews shared one city under unequal law, and that mixture produced both its intellectual brilliance and its riots."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-01-01
+lang: en
 ---
-
 Alexandria is routinely described as the first cosmopolitan city, a place where Greeks, Egyptians, and Jews lived together and produced the most creative culture of the ancient Mediterranean. That description is accurate about the creativity and misleading about the living together, and the gap between the two is the subject of this article. The communities did share a city. They did not share a legal status, a language, a tax obligation, a set of civic rights, or, for much of the time, a neighborhood. What they shared was proximity, and proximity under unequal law produces friction as reliably as it produces exchange.
 
 The argument advanced here is the brilliant-and-divided thesis: Alexandria's diversity was the engine of both its intellectual achievement and its recurring violence, and the two outcomes came from the same source rather than being an achievement spoiled by an unfortunate flaw. A city that assembles several literate traditions in one place will produce translation, comparison, and new ideas. A city that assembles them under a hierarchy in which one group holds citizenship and tax exemption while the majority holds neither will produce riots. Both happened, repeatedly, and any account that presents Alexandria as a harmonious melting pot has removed half the evidence.
 
-![Greek, Egyptian, and Jewish life in ancient Alexandria, how three communities shared one city - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Greek, Egyptian, and Jewish life in ancient Alexandria, how three communities shared one city - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 This article is the society and daily life treatment for the Ptolemaic city and the early phase of the Roman one. The institutions of learning that the city is most famous for are covered in the article on [science and learning in ancient Alexandria](/2008/02/01/science-learning-in-alexandria/), and the buildings themselves in the article on [the Library and Lighthouse of Alexandria](/2007/10/01/library-lighthouse-of-alexandria/). Daily life in the Egyptian countryside under Roman rule, which is a different society with a much richer documentary record, belongs to the article on [daily life in Roman Egypt](/2008/07/01/daily-life-in-roman-egypt/). What is answered here is who lived in Alexandria, under what terms, doing what, eating what, speaking what, and why they periodically killed each other.
 

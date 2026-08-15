@@ -6,17 +6,17 @@ date: 2007-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Cleopatra", "Ancient Egypt", "Pharaohs", "Warfare", "World History"]
 excerpt: "Cleopatra's ties to Julius Caesar and Mark Antony were strategic alliances before they were romances, and they decided whether Egypt survived as a kingdom."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2007-12-01
+lang: en
 ---
-
 Two relationships between an Egyptian queen and two Roman commanders are the most retold story in ancient history, and the retelling has almost entirely obscured what was actually at stake. The standard version presents a woman who seduced the two most powerful men in the world and destroyed them both, which is a story about character. What the evidence describes is a sequence of political transactions in which each party wanted something specific, negotiated for it, got some of it, and eventually lost everything to a third party who understood the propaganda value of the first version.
 
 The argument this article makes is the alliances-not-just-romances thesis. Cleopatra's partnerships with Julius Caesar and then Mark Antony were strategic bids to secure Egyptian independence through the personal position of whichever Roman held real power, because no other route to independence existed. Each partnership was entered for reasons that can be stated in territorial and fiscal terms, each produced measurable gains for Egypt, and each was structured the way client-king relationships across the Roman east were structured. That personal bonds also existed, particularly in the second case, is not in doubt and is not the point. The point is that treating these as love affairs that happened to have political consequences reverses the causation. They were political arrangements that happened to involve intimacy, and the arrangements are what changed the map.
 
-![Cleopatra, Julius Caesar, and Mark Antony, the alliances that decided Egypt's fate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Cleopatra, Julius Caesar, and Mark Antony, the alliances that decided Egypt's fate - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 This article is the event-and-turning-point treatment of those alliances, and it keeps to that scope. The queen herself, her ancestry, her administration, her Egyptian religious policy, and her death are covered in the profile of [Cleopatra VII, the last pharaoh of Egypt](/2007/11/01/cleopatra-last-pharaoh-of-egypt/). The beauty legend and its two-thousand-year afterlife belong to the article on [the real Cleopatra versus the legend](/2008/03/01/real-cleopatra-vs-the-legend/). The annexation itself, the conversion of a kingdom into an imperial possession, is the subject of the article on [how Egypt fell to the Roman Empire](/2008/04/01/how-egypt-fell-to-rome/). What is answered here is how Egypt became a piece on the board of a Roman civil war, and why the game ended the way it did.
 

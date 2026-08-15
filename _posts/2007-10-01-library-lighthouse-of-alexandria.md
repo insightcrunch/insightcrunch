@@ -6,17 +6,17 @@ date: 2007-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Alexandria", "Ancient Egypt", "Archaeology", "Historiography", "World History"]
 excerpt: "The Library of Alexandria was not destroyed in one legendary fire and the Lighthouse fell slowly to earthquakes, so here is what the evidence really shows."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2007-10-01
+lang: en
 ---
-
 Two buildings made Alexandria famous across the ancient world, and both are usually described in ways that get the important part wrong. The Library of Alexandria is remembered as a universal collection of human knowledge annihilated in a single catastrophic blaze, an event so often invoked as a symbol of lost civilization that the actual sequence of its decline has almost disappeared behind the image. The Lighthouse, the Pharos, is remembered as a marvel of impossible height with a mirror that could burn enemy fleets, a description that turns a solvable engineering problem into a fantasy and obscures what the structure was genuinely for.
 
 The argument this article makes and defends is what can be called the no-single-fire thesis. The great collection was not destroyed in one event by one villain. It was diminished across roughly seven centuries by a sequence of blows, at least four of which are historically identifiable, and by a slower, less dramatic process that mattered more than any of them: the collapse of the royal funding that a research library of that kind cannot survive without. The famous burning, whichever candidate a reader has in mind, is a simplification that has replaced the harder and more instructive history.
 
-![The Library and Lighthouse of Alexandria, what they were and how both were lost - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Library and Lighthouse of Alexandria, what they were and how both were lost - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The two structures belong together in one article for a reason that goes beyond the coincidence of the same city. Both were instruments of the same policy, built by the same dynasty within a few decades of each other, and both were answers to the same problem. A Greek-speaking royal house governing an Egyptian country needed to make its new capital indispensable, to Greek intellectual opinion on one hand and to Mediterranean commerce on the other. One building captured the texts and the scholars; the other captured the shipping. The dynastic strategy behind them is set out in the profile of [Ptolemy I and the founding of a dynasty](/2007/09/01/ptolemy-i-founding-of-dynasty/), and both projects begin in his reign and mature under his son.
 

@@ -6,17 +6,17 @@ date: 2007-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Late Period", "Naucratis", "Ancient Egypt", "Archaeology", "World History"]
 excerpt: "Naucratis was Egypt's single licensed Greek port, and this guide explains how one Delta town channeled, taxed, and controlled all trade with the Aegean."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2007-02-01
+lang: en
 ---
-
 Naucratis was not a colony, and treating it as one is the fastest way to misunderstand what Egypt was doing. Aegean cities in the seventh and sixth centuries BCE planted colonies all around the Mediterranean and Black Sea, seizing land, farming it, and governing themselves as independent states. That is not what happened in the western Delta. What happened there was that an Egyptian king designated one location where foreign merchants were permitted to trade, made it very difficult to trade anywhere else, taxed everything that moved through it, and assigned the revenue where he wanted it to go. The town was a licensed concession operating on Egyptian soil under Egyptian rules, and the rules were the point.
 
 That distinction drives everything else. A colony is a loss of territory. A licensed emporion is an instrument of fiscal policy. Egypt in this period wanted precisely three things from the Aegean world: silver, which the country did not produce and desperately needed as a store of value; wine and oil, which its own agriculture supplied inadequately; and professional soldiers, whose recruitment and payment ran through the same commercial channels. It wanted all three without surrendering control of its ports, its river, or its grain. One designated town on one river branch solved the entire problem at once.
 
-![Naucratis and Egyptian trade with Greece, the Delta emporion and its goods explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Naucratis and Egyptian trade with Greece, the Delta emporion and its goods explained - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The result is one of the more sophisticated pieces of commercial regulation surviving from the ancient world, and it is documented well enough to be reconstructed in real detail. There is a literary account of the arrangement, there is an excavated site with a century of archaeology behind it, there is a tax decree carved in stone that names an actual rate, and there is a second decree found underwater at the coastal port that handled the customs. Few economic institutions from the sixth century BCE anywhere can be examined with that combination of evidence.
 

@@ -6,17 +6,17 @@ date: 2007-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Ptolemy I", "Ancient Egypt", "Pharaohs", "Biography", "World History"]
 excerpt: "Ptolemy I seized Egypt after Alexander died, then manufactured the legitimacy a foreign dynasty needed with a stolen body, a new god, and a great library."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2007-09-01
+lang: en
 ---
-
 When Alexander of Macedon died in Babylon in June 323 BCE, his generals divided an empire that stretched from the Adriatic to the Punjab, and almost every one of them chose the richest, most prestigious province they could argue for. Ptolemy I chose Egypt, which was neither the largest share nor the one closest to the imperial center, and within twenty years he was the only one of that first generation still holding the territory he had taken. Every other major claimant either lost his province, lost his life, or lost both. The question this article answers is not the easy one of what he achieved, which any reference page can list. It is the harder one: why did the Egyptian settlement hold when the others failed, and what exactly did the man do that his rivals did not?
 
 The answer is not military genius. He was a competent commander who lost at least one major battle badly and avoided several others he could not be sure of winning. It is not superior resources, since Seleucus eventually commanded far more territory and far more manpower. The argument this article makes and defends is what can be called the legitimacy-engineer thesis: the founder of the Ptolemaic house understood earlier and more clearly than his peers that a foreign ruler in Egypt could not simply hold the country by force, because Egypt had already spent two centuries proving that force alone produced revolt after revolt, and so he set out to manufacture legitimacy deliberately, expensively, and in several currencies at once.
 
-![Ptolemy I Soter and the founding of the Ptolemaic dynasty in Egypt, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ptolemy I Soter and the founding of the Ptolemaic dynasty in Egypt, explained - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 That word, manufacture, is chosen carefully and is not an insult. Legitimacy in the ancient Mediterranean was not a mystical property that a ruler either possessed or lacked. It was assembled out of visible, expensive, repeatable acts: a body in a tomb, a god in a temple, a scholar in a hall, a grain receipt in a village archive. The founder of the dynasty assembled his out of four such acts, and this article names them together as the four-currency model of manufactured legitimacy. He paid in relic, in deity, in institution, and in continuity. Each currency bought a different constituency, and the combination is what made the purchase stick when the Persian purchase, backed by a far larger army, had failed twice within living memory.
 

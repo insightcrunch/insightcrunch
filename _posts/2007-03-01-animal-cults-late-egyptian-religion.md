@@ -6,17 +6,17 @@ date: 2007-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Late Period", "Religion", "Ancient Egypt", "Archaeology", "World History"]
 excerpt: "Animal cults dominated Late Period Egypt, and this guide explains the theology behind the sacred bulls, the sacred cats, and millions of votive mummies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2007-03-01
+lang: en
 ---
-
 Somewhere under the desert at Saqqara lie the wrapped remains of several million ibises, stacked in pottery jars in galleries cut through the limestone, deposited over centuries by ordinary people who paid for the privilege. Animal cults on this scale are the single most misunderstood feature of Late Period Egyptian religion, and the misunderstanding is old. Greek and Roman writers built a comic tradition on it. Later observers inherited the comedy without the context. The result is that a religious practice involving enormous investment, coherent theology, and the participation of an entire society gets summarized in four words: they worshipped the animals.
 
 They did not. The distinction the Egyptians themselves drew is sharp, consistently maintained in their own texts, and it changes the entire picture once it is understood. A god was not a bull. A god could be present in a bull. The creature was a vessel, a temporary and living residence for a divine power that existed independently of it, and reverence directed at the animal was directed through the animal at what inhabited it. Miss that and the whole practice looks absurd. Grasp it and it becomes one of the more interesting religious developments in the ancient world, and one that answers a question about Late Period Egypt that nothing else answers as well: how does a population participate in a religion whose temples are closed to it?
 
-![Animal cults in late Egyptian religion, the Apis bull and votive mummies explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Animal cults in late Egyptian religion, the Apis bull and votive mummies explained - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 That question is the key to the whole subject. Egyptian temples were not congregational buildings. The inner sanctuary was accessible only to the king and to a purified priesthood, the daily ritual was performed out of public sight, and the ordinary Egyptian's relationship with the great state gods was mediated at several removes. The institutional structure of that system, and the enormous power the priesthoods derived from it, is set out in the account of [Amun-Ra and the power of the priesthood](/2003/10/01/amun-ra-and-the-priesthood/). What the sacred creature cults offered was a way around that wall. A living bull could be seen. An oracle could be asked. A wrapped ibis could be bought and deposited, and the transaction placed a petitioner's name in the presence of a god without any priest needing to admit him anywhere.
 
