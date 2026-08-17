@@ -14,7 +14,16 @@ from datetime import datetime, timezone
 POSTS_DIR = os.path.join(os.path.dirname(__file__), '..', '_posts')
 OUT_FILE  = os.path.join(os.path.dirname(__file__), '..', 'admin', 'word-frequency-data.json')
 
-DEFAULT_THRESHOLD = 50
+# House Rules Section 5.2: no content word may exceed 2 percent of article length.
+# Converted from a flat 50 on 2026-08-17.
+FREQUENCY_PCT = 0.02
+MIN_THRESHOLD = 20          # floor so very short posts are not flagged on noise
+DEFAULT_THRESHOLD = 50      # retained only for backward compatibility with old snapshots
+
+
+def threshold_for(word_count):
+    """Return the 2 percent ceiling for a post of this length."""
+    return max(MIN_THRESHOLD, int(word_count * FREQUENCY_PCT))
 
 # ── Stop words by language ───────────────────────────────────────
 STOP_EN = {
@@ -200,7 +209,8 @@ def main():
         total_top_counts.append(top_count)
 
         # Determine flagged words (above threshold)
-        flagged_words = [(w, c) for w, c in top20 if c > DEFAULT_THRESHOLD]
+        threshold = threshold_for(word_count)
+        flagged_words = [(w, c) for w, c in top20 if c > threshold]
         wf_ok_raw = fm.get('wf_ok', False)
         wf_word = fm.get('wf_word', '')
         wf_count = fm.get('wf_count', 0)
