@@ -9,7 +9,7 @@ excerpt: "Reading Russian moves in Kaliningrad means sorting routine drills and 
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 68
 author: "david-thornton"
-last_updated: 2025-10-11
+last_updated: 2026-08-17
 lang: en
 ---
 Reading Russian moves in Kaliningrad is one of the hardest and most consequential interpretive tasks on the eastern flank, because the exclave generates a constant stream of military activity and almost none of it, taken on its own, tells you what you want to know. A convoy moves. An air-defense unit changes location. A missile brigade exercises. A naval detachment sorties into the Baltic. A state broadcaster runs footage of hardware. Each of these events can be reported as alarming, and each can also be entirely routine. The analyst's problem is not a shortage of observable activity in the exclave. It is a flood of it, most of which is background, some of which is theater staged precisely to be seen, and a small residue of which would be a real warning if you could pick it out from the rest.

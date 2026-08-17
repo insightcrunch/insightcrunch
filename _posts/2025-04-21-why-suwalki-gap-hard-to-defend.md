@@ -9,7 +9,7 @@ excerpt: "Why the Suwalki Gap is so hard to defend comes down to geometry: a sho
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 69
 author: "kevin-reeves"
-last_updated: 2025-04-21
+last_updated: 2026-08-17
 lang: en
 ---
 The reason the Suwalki Gap is so hard to defend has almost nothing to do with how many soldiers stand on it and almost everything to do with the shape of the ground itself. Before a single battalion is counted, before anyone weighs alliance resolve or reads Russian intent, the map has already dealt the defender a difficult hand. This narrow strip of the Polish-Lithuanian frontier sits pinched between two potentially hostile areas, carries the only overland link between the Baltic states and the rest of the alliance, and offers a defender a problem that is set by geography first and by force second. The purpose of this analysis is to walk that ground honestly, to separate what the terrain actually imposes from the alarm that surrounds it, and to leave a reader able to judge for themselves why this particular piece of land keeps planners awake.

@@ -9,7 +9,7 @@ excerpt: "Could Russia defeat Poland militarily? A rigorous force analysis of th
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 68
 author: "marcus-hall"
-last_updated: 2025-02-01
+last_updated: 2026-08-17
 lang: en
 ---
 Could Russia defeat Poland militarily? The question sounds like it should have a clean answer, a winner and a loser settled by counting tanks and troops. It does not, and the reason it does not is the whole point of a serious force analysis. Setting aside for a moment whether Moscow would ever choose to attack a treaty ally, and setting aside the alliance that would answer such an attack, the narrow question of raw feasibility still resists the tidy verdict most headlines want. Whether Russia could prevail against Poland's armed forces depends entirely on the assumptions you feed the problem: how long the fight runs, whether either side can replace what it loses, how much punishment each can absorb before its political will breaks, and what "defeat" is even taken to mean. Change those assumptions and the answer flips.

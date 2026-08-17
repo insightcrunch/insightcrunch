@@ -9,6 +9,7 @@ excerpt: "Heat and temperature imagery in Gatsby works as a pressure gauge, the 
 reading_time: 39
 tags: ["The Great Gatsby", "Symbolism", "Imagery", "Close Reading", "Chapter 7", "American Literature"]
 lang: en
+last_updated: 2026-08-17
 ---
 The most violent hour in Fitzgerald's novel arrives wrapped in weather. Before a single accusation is thrown in the Plaza Hotel, before Tom and Gatsby square off over Daisy, the book tells us the temperature. "The next day was broiling, almost the last, certainly the warmest, of the summer," Nick reports, and that sentence is doing far more than fixing a date on the calendar. It is setting a gauge. By the time the characters reach that stifling sitting room, the air has been climbing toward this exact reading for chapters, and the reader who has been watching the mercury knows that something is about to give.
 

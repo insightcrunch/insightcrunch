@@ -9,7 +9,7 @@ excerpt: "Article 5 invocation over Poland is a sequence of decisions, not an in
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 69
 author: "kevin-reeves"
-last_updated: 2025-11-21
+last_updated: 2026-08-17
 lang: en
 ---
 Article 5 invocation is the single most misunderstood step in the whole architecture of Poland's defense. The popular image is a switch: an attack lands, the treaty fires, and the alliance is instantly at war as one body. That image is wrong in a way that matters, because it hides the part of the process where the outcome is actually decided. What would unfold the day the collective-defense clause is invoked over Poland is not a switch but a sequence, a chain of political and procedural decisions running from the moment of attack through consultation, through the search for consensus, and out into thirty-two separate national choices about what each member will contribute. Understanding that sequence, and knowing where in it the friction, the speed, and the pressure actually live, is the difference between a citizen who fears an abstraction and a reader who can judge how the guarantee would really behave under load.

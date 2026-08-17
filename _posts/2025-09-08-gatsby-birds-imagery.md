@@ -9,7 +9,7 @@ excerpt: "Birds and wings imagery in Gatsby links flight to rising above one's o
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 40
 author: "chloe-martin"
-last_updated: 2025-09-08
+last_updated: 2026-08-17
 lang: en
 ---
 The first wings in The Great Gatsby do not belong to a bird at all. They belong to two women in white. When Nick Carraway steps into the Buchanan drawing room in Chapter One, Daisy and Jordan are "buoyed up as though upon an anchored balloon," their dresses "blown back in after a short flight around the house," before the curtains settle and the two of them "ballooned slowly to the floor." Birds and wings imagery in Gatsby begins here, in a moment of weightless lift that lasts exactly until a husband shuts a window and gravity returns the room to the ground. The image promises flight. The next breath takes it back. That small motion, up then down, is the whole avian strand of the novel in miniature.

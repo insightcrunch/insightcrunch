@@ -9,7 +9,7 @@ excerpt: "Cleopatra's ties to Julius Caesar and Mark Antony were strategic allia
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2007-12-01
+last_updated: 2026-08-17
 lang: en
 ---
 Two relationships between an Egyptian queen and two Roman commanders are the most retold story in ancient history, and the retelling has almost entirely obscured what was actually at stake. The standard version presents a woman who seduced the two most powerful men in the world and destroyed them both, which is a story about character. What the evidence describes is a sequence of political transactions in which each party wanted something specific, negotiated for it, got some of it, and eventually lost everything to a third party who understood the propaganda value of the first version.

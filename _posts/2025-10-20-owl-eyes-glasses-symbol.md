@@ -9,7 +9,7 @@ excerpt: "The owl-eyed man's glasses are Gatsby's sharpest small symbol: enormou
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 39
 author: "chloe-martin"
-last_updated: 2025-10-20
+last_updated: 2026-08-17
 lang: en
 ---
 There is a moment at Gatsby's first party when two wandering guests push open a door and find a stout, middle-aged stranger sitting drunk in the library, marvelling at the shelves. He wears enormous owl-eyed spectacles, and he has just made a discovery that no one else at the party has bothered to make. The books are real. The owl-eyed man's glasses are the smallest symbol in The Great Gatsby and one of the sharpest, because the object that sits on this minor character's nose is the novel's image for the thing almost nobody else in the book possesses: the capacity to actually see. In a story crowded with people who look without perceiving, who stare at surfaces and believe them, the comic spectacles on a forgotten guest become the lens through which Fitzgerald measures everyone's blindness.

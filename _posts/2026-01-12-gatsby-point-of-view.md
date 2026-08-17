@@ -9,7 +9,7 @@ excerpt: "The narrative point of view in The Great Gatsby is Fitzgerald's centra
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2026-01-12
+last_updated: 2026-08-17
 lang: en
 ---
 Most readers can name the narrator of The Great Gatsby within a sentence and then stop, as if naming were the same as understanding. The narrative point of view in The Great Gatsby is not a label to memorize and move past; it is the single decision from which almost every other effect in the novel descends. Fitzgerald chose to tell a story about a man named Gatsby without ever letting us inside that man, routing the whole account through a bystander who watches, half understands, and reconstructs. The result is a book whose famous mystery is not an accident of mood but a product of engineering. Treat the perspective as the machine that builds the novel, and the green light, the parties, the silences, and the elegiac last page all begin to make a different kind of sense.

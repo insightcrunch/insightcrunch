@@ -9,7 +9,7 @@ excerpt: "What Article 5 obligates is narrower than most assume. A precise readi
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 71
 author: "nathan-cole"
-last_updated: 2025-11-11
+last_updated: 2026-08-17
 lang: en
 ---
 Ask a well-informed person what would happen if Russia attacked Poland, and the answer comes back fast and confident: Article 5, the whole alliance goes to war, automatically. That answer is wrong in a specific and consequential way, and the gap between what Article 5 actually obligates and what most people believe it obligates is not a pedantic footnote. It is the single most misunderstood mechanism in European security, and the misunderstanding runs in both directions. One camp treats the clause as an automatic war trigger that removes all choice from the moment an attack lands. The other, hearing that it is not automatic, concludes it is therefore a hollow promise that means nothing. Both are reading the treaty through a slogan rather than through its text, and both draw the wrong lesson for Poland.

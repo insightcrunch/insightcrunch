@@ -9,7 +9,7 @@ excerpt: "The motif of weather and heat in The Great Gatsby tracks feeling acros
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 48
 author: "rachel-foster"
-last_updated: 2025-03-03
+last_updated: 2026-08-17
 lang: en
 ---
 The Great Gatsby keeps one eye on the sky. The motif of weather and heat runs through the whole novel, and before a single character admits what they feel, the weather has already said it. Rain falls on the day Gatsby dreads most and clears the instant his dread lifts. The hottest afternoon of the summer arrives precisely when the novel's buried jealousy boils over into open accusation. Summer ends, leaves yellow, and the man who staked everything on an endless green season dies in the first chill of autumn. None of this is decoration. Fitzgerald times the weather to the emotional and dramatic arc so exactly that the sky functions as a narrator in its own right, telling the reader the temperature of a scene before the people inside it find the words.

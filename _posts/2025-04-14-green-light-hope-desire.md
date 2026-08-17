@@ -9,7 +9,7 @@ excerpt: "The green light: hope, distance, desire in The Great Gatsby, and why t
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2025-04-14
+last_updated: 2026-08-17
 lang: en
 ---
 A man stands at the end of his own lawn in the dark, arms held out toward the water, reaching for something a reader cannot yet see. That posture, fixed in the closing lines of the first chapter, is the whole novel in miniature, and the object of the reach is the green light: hope, distance, desire braided into one point of color across the bay. Before Gatsby has a name to us, before we know what he wants or why, Fitzgerald shows us the wanting itself. The light gives the longing a body. This article reads that single image for the psychological structure it carries, so that the most quoted symbol in American fiction stops being a one-line answer and becomes a way of understanding why human beings are moved by what stays just out of reach.

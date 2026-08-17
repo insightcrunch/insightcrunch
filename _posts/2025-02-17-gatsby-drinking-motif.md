@@ -9,6 +9,7 @@ author: "amanda-ross"
 reading_time: 47
 tags: ["The Great Gatsby", "Themes", "Close Reading", "Prohibition", "F. Scott Fitzgerald", "American Literature"]
 lang: en
+last_updated: 2026-08-17
 ---
 Pour out every glass in The Great Gatsby and the novel changes shape. The motif of drinking and drunkenness is not decoration laid over a Jazz Age party scene; it is the mechanism by which Fitzgerald gets his characters to tell the truth. Sober, they perform. They reserve judgment, manage their faces, keep their secrets folded inside good manners. Drunk, they spill. A loosened tongue says what a careful one would never risk, and the novel keeps arranging for tongues to loosen. Set that pattern against the fact that the book takes place during Prohibition, when every one of these drinks is a crime, and the motif sharpens into something with an edge. The liquor that frees these mouths is illegal, and the people pouring it are the same respectable Americans who voted the law into being. The drinking, in other words, does two jobs at once. It strips performance away, and it quietly convicts the world that depends on the stripping never being noticed.
 

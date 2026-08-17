@@ -9,7 +9,7 @@ excerpt: "Daisy's white dress and clothing imagery turn garments into a coded la
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2025-08-11
+last_updated: 2026-08-17
 lang: en
 ---
 The first thing Nick Carraway sees inside the Buchanan house is not a person but a fabric in motion. Two women lie on an enormous couch, and their dresses lift and settle as though the wind itself were dressing them. From that opening image onward, Daisy's white dress and clothing imagery do quiet, relentless work in the novel, turning every garment into a piece of evidence about who a character is and who that character is pretending to be. Fitzgerald rarely tells us a person's class or moral state outright. He shows us what they wear, and he trusts the reader to read the cloth.

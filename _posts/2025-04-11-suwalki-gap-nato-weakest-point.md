@@ -9,7 +9,7 @@ excerpt: "The Suwalki Gap is called NATO's weakest point, but a sober assessment
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 77
 author: "andrew-price"
-last_updated: 2025-04-11
+last_updated: 2026-08-17
 lang: en
 ---
 Ask a room of security analysts to name the single most consequential piece of ground on the eastern flank of the alliance, and a large share will point to the same narrow strip of farmland, forest, and lakes straddling the Polish-Lithuanian border. The Suwalki Gap has become shorthand for the alliance's structural anxiety, the place where a map seems to hand an aggressor an obvious opportunity and the defender an obvious problem. The label attached to it is stark: NATO's weakest point. That label is worth taking seriously, and it is worth interrogating, because a reputation this loud tends to carry both a real insight and a distortion, and the two are not easy to separate by reading headlines.

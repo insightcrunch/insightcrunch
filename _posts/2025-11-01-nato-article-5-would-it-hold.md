@@ -9,7 +9,7 @@ excerpt: "A structured assessment of whether NATO Article 5 would actually hold 
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 77
 author: "gregory-marsh"
-last_updated: 2025-11-01
+last_updated: 2026-08-17
 lang: en
 ---
 Every serious estimate of Russian risk to Poland eventually reaches one question, and it is not the question most coverage spends its time on. The interesting problem is not whether Russia has forces near the border, or whether Kaliningrad bristles with standoff weapons, or whether the Suwalki corridor is narrow. Those are inputs. The question that decides what all of them mean is whether NATO Article 5, the collective-defense promise at the center of the alliance, would actually function if Poland were attacked. If the guarantee holds, an attack on Poland is an attack on the strongest military coalition in history, and the calculation that faces any adversary is transformed. If the guarantee is soft, everything downstream of it is softer too. This article treats that question as what it is: the credibility judgment at the front of an alliance estimate, not a treaty explainer and not a slogan.

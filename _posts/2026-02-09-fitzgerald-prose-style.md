@@ -9,6 +9,7 @@ author: "amanda-ross"
 reading_time: 60
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 lang: en
+last_updated: 2026-08-17
 ---
 Most readers finish The Great Gatsby remembering two things: a man staring at a green light, and a last sentence they cannot quite paraphrase but cannot forget. That second memory is the subject of this guide. Fitzgerald's prose style in The Great Gatsby is the reason the book survives a hundred plot summaries and still feels unread until you read it slowly. The novel is short, the events are few, and the moral can be stated in a sentence. None of that explains why the language keeps being quoted, taught, memorized, and tattooed on forearms. The explanation is the writing itself, and the writing is a craft problem with a solvable structure, not a vague aura of beauty.
 

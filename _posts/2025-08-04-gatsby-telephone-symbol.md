@@ -9,7 +9,7 @@ excerpt: "The telephone as a symbol in Gatsby names a device wired for contact y
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-08-04
+last_updated: 2026-08-17
 lang: en
 ---
 A bell rings inside the Buchanan house, and a dinner party freezes. Tom leaves the table, Daisy follows, Jordan leans toward Nick, and the evening that had been pretending to be civilized cracks open along a single thread of wire. Nobody on the porch has touched the instrument, yet it has already rearranged the room. That small interruption is where the telephone as a symbol in Gatsby announces itself, and once you start tracking the device through the novel you find it doing the same work everywhere: promising to join people and instead carrying betrayal, secrecy, and silence into the spaces where intimacy should be.

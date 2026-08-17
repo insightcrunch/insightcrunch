@@ -9,7 +9,7 @@ excerpt: "Religion and the sacred in Great Gatsby, explained: how Fitzgerald emp
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2024-11-25
+last_updated: 2026-08-17
 lang: en
 ---
 The argument the novel makes about religion and the sacred in Great Gatsby is colder than most readers expect. Fitzgerald does not write a book that doubts God or wrestles with belief. He writes a book in which God has simply gone, leaving the shape of worship behind without its object. Every gesture that once belonged to faith still happens in this world. People kneel, they yearn, they pledge themselves to something larger, they wait for a sign across the water. What has changed is the destination. The longing that a believer would carry toward heaven now travels toward money, toward a green light, toward a woman's voice, toward a face on an advertising hoarding. To read religion and the sacred in The Great Gatsby properly is to watch a spiritual machinery keep running after the spirit has been drained out of it.

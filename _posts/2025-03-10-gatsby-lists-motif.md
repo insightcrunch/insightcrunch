@@ -3,7 +3,7 @@ title: "The Motif of Lists and Cataloguing in Gatsby"
 page_title: "The Motif of Lists and Cataloguing in The Great Gatsby: Excess, Emptiness, and Accumulation Explained"
 slug: gatsby-lists-motif
 date: 2025-03-10
-last_updated: 2025-03-10
+last_updated: 2026-08-17
 excerpt: "The motif of lists and cataloguing in The Great Gatsby heaps up names and goods to perform excess without substance, accumulation standing in for meaning."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]

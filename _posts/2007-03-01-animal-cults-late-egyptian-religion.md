@@ -9,7 +9,7 @@ excerpt: "Animal cults dominated Late Period Egypt, and this guide explains the 
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2007-03-01
+last_updated: 2026-08-17
 lang: en
 ---
 Somewhere under the desert at Saqqara lie the wrapped remains of several million ibises, stacked in pottery jars in galleries cut through the limestone, deposited over centuries by ordinary people who paid for the privilege. Animal cults on this scale are the single most misunderstood feature of Late Period Egyptian religion, and the misunderstanding is old. Greek and Roman writers built a comic tradition on it. Later observers inherited the comedy without the context. The result is that a religious practice involving enormous investment, coherent theology, and the participation of an entire society gets summarized in four words: they worshipped the animals.

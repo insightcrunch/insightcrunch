@@ -9,6 +9,7 @@ image: /assets/images/blog/blog-01.webp
 excerpt: "Gatsby's mansion as a symbol is a facade of borrowed grandeur: an imitation chateau, magnificent and empty, that is finally a portrait of the man who built it."
 reading_time: 38
 lang: en
+last_updated: 2026-08-17
 ---
 Before Nick Carraway has met the man whose name the novel carries, he has met the man's house. In the opening chapter, standing on his rented strip of West Egg, Nick looks at the place next door and registers it as a thing too large to ignore. The building is a copy of a European original, fresh and raw, ringed by lawn and water, and it announces a fortune before it announces a person. Fitzgerald introduces Gatsby through real estate. We see the walls long before we see the face, and that order of seeing is the first clue to what the mansion means.
 

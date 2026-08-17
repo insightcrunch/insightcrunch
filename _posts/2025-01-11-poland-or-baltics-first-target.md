@@ -9,7 +9,7 @@ excerpt: "Poland or the Baltics as Russia's first target: a disciplined comparis
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2025-01-11
+last_updated: 2026-08-17
 lang: en
 ---
 If a serious planner had to bet on where Russia would move first against the alliance, the honest starting point is that Poland or the Baltics is not a coin flip. The two theaters look superficially similar, a shared border region with Russia and its Belarusian partner, a nervous eastern flank, a set of NATO guarantees that have never been tested by a direct attack. Underneath that surface the two present an aggressor with very different problems, and the difference is decisive enough to produce a ranking rather than a shrug. This article works that comparison to a verdict: which theater a rational aggressor would strike sooner, why, and what the answer changes about how the alliance should think about its own posture.

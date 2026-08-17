@@ -9,7 +9,7 @@ excerpt: "Deterrence by denial versus punishment, compared on credibility, cost,
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "robert-quinn"
-last_updated: 2025-12-11
+last_updated: 2026-08-17
 lang: en
 ---
 Every argument about whether Poland is safe eventually collapses into a single unspoken choice, and most people making the argument never notice they are making it. The choice is between two ways of stopping an aggressor: convince it that an attack cannot succeed, or convince it that an attack, even if it succeeds on the ground, will cost more than any prize is worth. That is the whole of **deterrence by denial vs punishment**, the pair of ideas that sits underneath every claim about tripwires, Article 5, forward presence, and nuclear guarantees. A minister who says "we are protected because NATO would retaliate" and a planner who says "we are protected because an attack would be stopped at the border" are not agreeing with each other. They are betting on different mechanisms, and the difference decides what forces to buy, where to put them, and what a crisis would actually look like.

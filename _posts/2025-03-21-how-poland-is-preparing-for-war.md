@@ -9,7 +9,7 @@ excerpt: "How Poland is preparing for war, audited across five domains: force st
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 69
 author: "kevin-reeves"
-last_updated: 2025-03-21
+last_updated: 2026-08-17
 lang: en
 ---
 The question of how Poland is preparing for war is usually answered with a shopping list. New tanks from two continents, new aircraft, a bigger army, a fortified frontier, a revived civil-defense apparatus that had been left to rust since the Cold War ended. The list is real, and most of it is accurate. What the list does not do, and what a decision-maker actually needs, is tell you whether the effort adds up to a coherent whole, where it is thin, and whether the money and the political will behind it can last the decade that a serious rearmament takes to mature. A country does not prepare for war by buying equipment. It prepares by fielding a force that can be manned, supplied, reinforced, protected, and paid for, and by hardening the society that stands behind that force. Equipment is the easiest of those things to buy and the least of what decides an outcome.

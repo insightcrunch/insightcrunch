@@ -9,7 +9,7 @@ excerpt: "How NATO reinforces the eastern flank decides whether the guarantee to
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 61
 author: "ryan-walsh"
-last_updated: 2026-01-11
+last_updated: 2026-08-17
 lang: en
 ---
 The promise at the center of European security is short and absolute: an attack on one member is treated as an attack on all. The hard part is not the promise. The hard part is arrival. A guarantee that cannot put decisive force where it is needed, before the moment for decisive force has passed, is a guarantee in name only. So the real question underneath the treaty language is a planning question, and it is the question this article works through: how NATO reinforces the eastern flank in practice, moving from the light forces standing on the ground in peacetime to the mass that would be needed if a crisis turned into a war, and whether that movement could happen fast enough to matter.

@@ -9,7 +9,7 @@ excerpt: "Why Poland fears Russia is a question of memory more than maps: partit
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
 author: "ian-fletcher"
-last_updated: 2025-03-11
+last_updated: 2026-08-17
 lang: en
 ---
 Ask why Poland fears Russia and you will get two kinds of answer. One points at the map and at the news: a large revisionist power to the east, a grinding war in neighboring Ukraine, an exclave on the Baltic coast packed with long-range systems. The other answer is older, quieter, and harder to see on any map. It points at memory. Poland behaves the way it does, spends what it spends, and reaches for the alliances it reaches for because a particular sequence of experiences taught it, in blood, what happens to a Polish state that is weak, isolated, or dependent on the goodwill of larger neighbors. This piece works the second answer, because the first is covered everywhere and the second is what actually explains the behavior a reader keeps noticing and struggling to account for.

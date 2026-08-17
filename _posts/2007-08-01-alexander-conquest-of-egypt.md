@@ -9,7 +9,7 @@ excerpt: "Alexander the Great took Egypt in 332 BCE without a battle, and this g
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2007-08-01
+last_updated: 2026-08-17
 lang: en
 ---
 The most consequential conquest in Egyptian history involved no battle. Alexander the Great entered Egypt in the autumn of 332 BCE, received the surrender of the Persian governor, sailed up the Nile to Memphis, sacrificed to the Egyptian gods, and became master of the country without an army of Egyptians raising a weapon against him. He stayed roughly six months, founded a city, walked into the western desert to consult an oracle, reorganized the administration, and left. He never returned.

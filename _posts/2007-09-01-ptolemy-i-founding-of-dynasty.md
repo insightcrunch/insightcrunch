@@ -9,7 +9,7 @@ excerpt: "Ptolemy I seized Egypt after Alexander died, then manufactured the leg
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2007-09-01
+last_updated: 2026-08-17
 lang: en
 ---
 When Alexander of Macedon died in Babylon in June 323 BCE, his generals divided an empire that stretched from the Adriatic to the Punjab, and almost every one of them chose the richest, most prestigious province they could argue for. Ptolemy I chose Egypt, which was neither the largest share nor the one closest to the imperial center, and within twenty years he was the only one of that first generation still holding the territory he had taken. Every other major claimant either lost his province, lost his life, or lost both. The question this article answers is not the easy one of what he achieved, which any reference page can list. It is the harder one: why did the Egyptian settlement hold when the others failed, and what exactly did the man do that his rivals did not?

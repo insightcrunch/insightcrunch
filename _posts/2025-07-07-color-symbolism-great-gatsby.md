@@ -9,7 +9,7 @@ excerpt: "Color symbolism in The Great Gatsby works as a system: green, white, y
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2025-07-07
+last_updated: 2026-08-17
 lang: en
 ---
 The first image the novel hands you is a color. Nick watches Gatsby stretch his arms toward the dark water, and across the bay he can make out "a single green light, minute and far away," a point of brightness with no obvious meaning attached. By the final page that same light has become the figure for every hope a person carries forward against the current. The color came first; the meaning accumulated around it. That is how the whole book works, and it is why color symbolism in The Great Gatsby rewards a system reading rather than a glossary. Fitzgerald did not scatter pretty tints across his pages. He built a palette, and the palette keeps a moral account.

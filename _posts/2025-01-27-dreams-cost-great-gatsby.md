@@ -9,7 +9,7 @@ excerpt: "Dreams and their cost in The Great Gatsby decide who lives and dies. T
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2025-01-27
+last_updated: 2026-08-17
 lang: en
 ---
 Most readings of dreams and their cost in The Great Gatsby get the accounting backward. They treat the novel as a story about a dream that fails, as though the tragedy were simple disappointment, a man who reached for something and missed. That reading is too gentle. Fitzgerald did not write a book about aspiration falling short. He wrote a book about aspiration being charged for, line by line, until the bill comes due in full. The dream does not merely fail the people who hold it. It bills them. And the two characters who dream hardest, Gatsby and Myrtle Wilson, both end the novel dead, while the people who never dream of anything beyond their own comfort walk away unscathed. That pattern is not an accident of plot. It is the theme stated in the only language a novel has, which is the language of who lives and who dies.

@@ -9,6 +9,7 @@ author: "amanda-ross"
 reading_time: 48
 tags: ["The Great Gatsby", "Spectatorship", "Theme Analysis", "F. Scott Fitzgerald", "Watching and the Gaze", "American Literature"]
 lang: en
+last_updated: 2026-08-17
 ---
 Spectatorship and watching in Gatsby is one of those structural features that hides in plain sight, so familiar that most readers walk straight past it on the way to the green light and the parties. Yet once you start counting the acts of looking in F. Scott Fitzgerald's novel, the pattern becomes impossible to unsee. Someone is almost always observing someone else. A narrator studies a host. A host studies a dock. A billboard studies a road. Guests study a stranger they have come to gawk at. The whole book is organized around eyes that look and bodies that get looked at, and that arrangement is not decoration. It is the architecture of the moral world Fitzgerald builds.
 

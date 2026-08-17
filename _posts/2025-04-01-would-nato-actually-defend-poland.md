@@ -9,7 +9,7 @@ excerpt: "Would NATO defend Poland if Russia attacked? A sober look at Article 5
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 68
 author: "william-knight"
-last_updated: 2025-04-01
+last_updated: 2026-08-17
 lang: en
 ---
 Would NATO actually defend Poland if Russia struck? That single question sits underneath every other calculation on the eastern flank, because a threat assessment, a force comparison, and a deterrence estimate all resolve into one variable in the end: whether the promise of collective defense would be honored when it was tested rather than merely recited when it was cheap. Poland has bet its national security on the answer being yes. An aggressor weighing a move against Poland is betting, in effect, on the answer being softer than it looks, on hesitation somewhere in the chain, on a seam that opens under pressure. The honest analytical task is to hold both readings up to the light and judge which one the evidence supports, without the false comfort of assuming the guarantee is automatic and without the cynical shrug that treats it as hollow.

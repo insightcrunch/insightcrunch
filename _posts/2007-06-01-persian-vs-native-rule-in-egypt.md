@@ -9,7 +9,7 @@ excerpt: "Persian rule in Egypt is remembered as cruel and native rule as benign
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2007-06-01
+last_updated: 2026-08-17
 lang: en
 ---
 Ask almost anyone who has read a general account of the Late Period whether Egypt was better off under Persian or native rule and the answer comes back instantly, with confidence, and without much evidence behind it. Persian rule was foreign, extractive, and impious. Native rule was legitimate, pious, and Egyptian. The Persians desecrated temples and taxed the country dry; the native pharaohs built, restored, and defended. The story is clean, emotionally satisfying, and repeated in a great deal of writing that ought to know better.

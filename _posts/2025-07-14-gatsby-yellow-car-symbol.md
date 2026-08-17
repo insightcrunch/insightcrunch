@@ -9,7 +9,7 @@ excerpt: "Gatsby's yellow car as a symbol fuses glamour with catastrophe: the go
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2025-07-14
+last_updated: 2026-08-17
 lang: en
 ---
 ## The car everyone had seen

@@ -9,6 +9,7 @@ image: /assets/images/blog/blog-01.webp
 excerpt: "Gatsby's shirts look like luxury, but the pile he throws before Daisy fuses wealth, love, and loss, and her tears fall on the years no fortune can buy back."
 reading_time: 39
 lang: en
+last_updated: 2026-08-17
 ---
 A man stands in his bedroom and empties a cabinet of imported shirts onto a table while the woman he has loved for five years watches. He does it without explanation, almost without pause, pulling out armful after armful until the colors mound up in front of her. Then she lowers her face into the soft heap and sobs that she has never seen anything so beautiful. Nothing is bought, nothing is given, nothing changes hands. And yet this is one of the most quietly devastating moments in American fiction, because the shirts on that table are not shirts. They are the visible shape of everything a man manufactured to win back a single person, and the tears falling into them measure the one thing all that manufacturing could not reach.
 

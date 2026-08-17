@@ -9,7 +9,7 @@ excerpt: "The dog leash Myrtle buys is a tiny object that distills her whole doo
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2025-12-15
+last_updated: 2026-08-17
 lang: en
 ---
 Halfway through a reckless city afternoon, the taxi stops short, and a purchase that changes nothing in the plot changes everything in how a careful reader sees Myrtle Wilson. She leans out the window, points, and demands a puppy from a street vendor, and a few chapters later the dog leash Myrtle buys turns up wrapped in tissue paper as the one keepsake of her brief, borrowed taste of wealth. Most students skim past this scene on the way to the apartment party. They should not. The animal and its braided strap make up one of the most quietly devastating object symbols in the novel, a small splurge that holds Myrtle's ambition and its hollowness in a single image.

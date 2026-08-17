@@ -9,7 +9,7 @@ excerpt: "Reinforcing the Suwalki gap under fire is a race settled in peacetime 
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
 author: "david-thornton"
-last_updated: 2025-07-01
+last_updated: 2026-08-17
 lang: en
 ---
 Reinforcing the Suwalki gap under fire is the planning problem that quietly decides whether the alliance's eastern edge holds together or comes apart, and it is not the problem most readers think it is. The instinct is to picture columns of tanks racing north while artillery from two directions tries to cut the road, a cinematic image of relief arriving in the nick of time. The real problem is duller and more consequential. Whether help arrives before a severance attempt hardens into an accomplished fact is decided long before any column moves, in decisions about prepositioning, mobility agreements, host-nation reception, and command authority that are either made in peacetime or not made at all. This article treats the corridor's reinforcement not as a movement schedule to be executed under pressure but as a planning problem for decision-makers, the kind of problem where the outcome is baked in by choices taken years earlier and merely revealed on the day.

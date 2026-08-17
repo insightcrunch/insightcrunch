@@ -9,7 +9,7 @@ excerpt: "Naucratis was Egypt's single licensed Greek port, and this guide expla
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2007-02-01
+last_updated: 2026-08-17
 lang: en
 ---
 Naucratis was not a colony, and treating it as one is the fastest way to misunderstand what Egypt was doing. Aegean cities in the seventh and sixth centuries BCE planted colonies all around the Mediterranean and Black Sea, seizing land, farming it, and governing themselves as independent states. That is not what happened in the western Delta. What happened there was that an Egyptian king designated one location where foreign merchants were permitted to trade, made it very difficult to trade anywhere else, taxed everything that moved through it, and assigned the revenue where he wanted it to go. The town was a licensed concession operating on Egyptian soil under Egyptian rules, and the rules were the point.

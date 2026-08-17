@@ -9,7 +9,7 @@ excerpt: "The color blue in The Great Gatsby tints whatever Gatsby dreams rather
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-06-23
+last_updated: 2026-08-17
 lang: en
 ---
 On the first warm nights of the summer, before Nick Carraway has met his neighbour, he watches the spectacle next door and gives it a color. The color blue in The Great Gatsby arrives at exactly this moment, attached to the parties that define Gatsby before the man himself appears. "In his blue gardens men and girls came and went like moths" among the whisperings and the champagne and the stars, Nick reports, and the phrase fixes a strange thing in the reader's mind. Gardens are not blue. Grass is green, hedges are green, the lawns of West Egg are green. Yet Fitzgerald reaches past the literal and tints the whole scene with a cooler, dreamier shade, and once a reader notices that choice, the color begins to appear everywhere the novel turns toward longing.

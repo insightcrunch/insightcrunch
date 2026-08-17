@@ -8,6 +8,7 @@ image: /assets/images/blog/blog-01.webp
 excerpt: "The billboard and advertising imagery in The Great Gatsby turns the whole land into salesmanship, with the Eckleburg sign crowning a world put up for sale."
 reading_time: 39
 lang: en
+last_updated: 2026-08-17
 ---
 There is a moment, early in The Great Gatsby, when the bleakest patch of ground in the whole novel is presided over not by a god, not by a person, and not by nature, but by a sales pitch. Above the valley of ashes hang the painted eyes of a vanished eye doctor, an old hoarding left to weather over a wasteland. A reader who slows down here notices something strange. The one thing watching over this ruined place is leftover salesmanship. That detail is the doorway into a wider pattern that runs through the book, a pattern of painted signs, printed pages, brand names, and sales pitches that quietly turn the world of the novel into a place for sale.
 

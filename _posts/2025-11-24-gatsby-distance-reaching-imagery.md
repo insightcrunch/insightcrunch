@@ -9,7 +9,7 @@ excerpt: "Maps, distance, and reaching in Gatsby turn longing into geography, wh
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2025-11-24
+last_updated: 2026-08-17
 lang: en
 ---
 The first thing Jay Gatsby does in the novel, before he speaks a line, is reach. Nick watches him standing alone on his lawn at night, and the gesture is unmistakable: "he stretched out his arms toward the dark water in a curious way." Across the bay, at the limit of his sight, burns a single green light. The man strains toward something he cannot touch, and the space between his outstretched hands and that distant glow is the novel's opening argument in miniature. Maps, distance, and reaching in Gatsby are not decorative scenery. They are the geometry of wanting, the way Fitzgerald builds the abstract gap between desire and its object out of water, lawns, docks, and the trembling reach of a body that cannot cover the ground.

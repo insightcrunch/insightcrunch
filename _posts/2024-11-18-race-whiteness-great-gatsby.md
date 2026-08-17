@@ -9,7 +9,7 @@ excerpt: "Race and whiteness in Great Gatsby is the novel's unspoken floor of be
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2024-11-18
+last_updated: 2026-08-17
 lang: en
 ---
 Most students read The Great Gatsby as a story about money, and they are not wrong. Yet the question of race and whiteness in great gatsby sits one layer beneath the class drama, quietly organizing who is allowed to belong and who is permanently shut out. The novel almost never names race outright. It does not have to. Its world is built on an assumption so total that it functions like the floor under a house: invisible until someone starts kicking at it, which is exactly what Tom Buchanan does within minutes of the book's first dinner party. When Tom panics about civilization, when Daisy wraps her girlhood in the word white, when Nick laughs at a passing car, the novel is registering a racial order it treats as the natural shape of the world. Learning to see that order is the difference between reading the surface of Fitzgerald's book and reading its argument.

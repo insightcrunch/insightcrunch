@@ -9,7 +9,7 @@ excerpt: "Alienation in the modern city in The Great Gatsby: how the crowded, an
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2025-01-06
+last_updated: 2026-08-17
 lang: en
 ---
 The Great Gatsby makes a sharp and specific argument about modern life: the more people a place gathers, the lonelier it can become. Alienation in the modern city is not a mood the book stumbles into but a claim it presses through scene after scene, where dense crowds, impersonal commutes, and rootless arrivals leave its characters passing one another without ever connecting. Fitzgerald sets his summer of 1922 in and around a New York that promises everything and delivers solitude, and he watches a handful of Midwesterners try and fail to find a footing in it. The result is one of American literature's most exact portraits of urban estrangement.

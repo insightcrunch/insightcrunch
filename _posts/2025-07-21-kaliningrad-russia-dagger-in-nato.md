@@ -9,7 +9,7 @@ excerpt: "A strategic assessment of Kaliningrad, the militarized Russian exclave
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 77
 author: "david-thornton"
-last_updated: 2025-07-21
+last_updated: 2026-08-17
 lang: en
 ---
 Kaliningrad is the piece of the eastern flank that almost everyone points to and few weigh honestly. A slab of Russian territory wedged between Poland and Lithuania, severed from the rest of Russia by a broad belt of alliance ground, it carries a reputation out of all proportion to its size. The dagger held against the alliance's ribs. The fortress that could slam the door on reinforcement. The loaded pistol laid across the Suwalki corridor. The metaphor does real analytical work, and it also does real analytical damage, because it answers the question before the question has been properly asked. A dagger is a weapon in a hand. It implies intent, initiative, and a wielder who chooses the moment. Whether that is the right picture of this territory, or whether the exclave is better read as something closer to an exposed wrist that the same crisis leaves dangerously extended, is the whole argument, and it is the argument this assessment is built to settle rather than assume.

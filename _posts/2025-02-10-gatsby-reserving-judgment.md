@@ -9,7 +9,7 @@ excerpt: "Judgment and the reserving of judgment in The Great Gatsby: why Nick's
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2025-02-10
+last_updated: 2026-08-17
 lang: en
 ---
 The Great Gatsby is a novel about judging that pretends not to judge. It opens with a narrator who vows to hold his verdicts back and then spends nine chapters delivering them, so the real subject of judgment and the reserving of judgment is the gap between the promise and the practice. Nick Carraway tells us on the first page that he keeps his opinions to himself, and almost everything that follows is an opinion. He measures Tom's cruelty, files Jordan's dishonesty, weighs Daisy's voice, condemns a careless world, and crowns Gatsby worth more than all of them. The reservation is announced once. The judging never stops.

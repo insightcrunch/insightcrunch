@@ -9,7 +9,7 @@ excerpt: "Why Kaliningrad exists comes down to one fact of geography and history
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 68
 author: "alex-cunningham"
-last_updated: 2025-09-11
+last_updated: 2026-08-17
 lang: en
 ---
 Why Kaliningrad exists is not a trivia question. It is the key that unlocks almost everything the exclave does, threatens, and fears. A wedge of territory smaller than many European regions sits on the Baltic coast between Poland and Lithuania, separated from the rest of Russia by two foreign states that both belong to the Atlantic alliance. It holds a major naval base, layered missile and air-defense systems, and a population of roughly a million people, and it answers to Moscow even though no Russian soil touches its borders. That arrangement looks strange until the history and the geography are laid out together, and once they are, the strangeness resolves into a hard logic that has governed the place for the better part of a century.

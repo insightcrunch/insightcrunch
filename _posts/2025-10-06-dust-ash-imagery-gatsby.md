@@ -9,7 +9,7 @@ excerpt: "Dust and ash imagery in Great Gatsby traces the foul dust in the dream
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-10-06
+last_updated: 2026-08-17
 lang: en
 ---
 The first thing the novel tells you about its hero is not what he dreamed but what his dream left behind. Before Gatsby throws a single party, before the green light glows across the water, Nick Carraway names the leftover: "what foul dust floated in the wake of his dreams." That grey picture, planted in the opening pages, quietly governs the whole book. Dust and ash imagery in Great Gatsby is not decoration and not merely backdrop. It is the novel's recurring portrait of aftermath, the powder and cinders that settle once a bright thing has burned down to nothing.

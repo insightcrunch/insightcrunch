@@ -9,7 +9,7 @@ excerpt: "The eyes of Eckleburg as God is the novel's most debated reading. See 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-04-28
+last_updated: 2026-08-17
 lang: en
 ---
 A grieving man stands at his window before dawn, looks at a faded advertising billboard, and tells it that it cannot be fooled because it is God. That single moment is where the reading of the eyes of Eckleburg as God begins, and it is also where the reading quietly comes apart. The text never says the eyes are God. A broken husband says it, once, to a billboard, the morning after his wife is killed. Everything that makes this the novel's most haunting religious image depends on who is speaking and what he needs to be true.

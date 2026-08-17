@@ -9,7 +9,7 @@ excerpt: "Innocence and experience in Great Gatsby is the novel's hidden spine, 
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2024-12-30
+last_updated: 2026-08-17
 lang: en
 ---
 ## The Disenchantment at the Heart of the Novel

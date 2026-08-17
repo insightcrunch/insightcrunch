@@ -9,7 +9,7 @@ excerpt: "Persia conquered Egypt at Pelusium in 525 BCE under Cambyses II, and t
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 67
 author: "diana-patel"
-last_updated: 2006-11-01
+last_updated: 2026-08-17
 lang: en
 ---
 Persia conquered Egypt in a single campaigning season in 525 BCE, and then lost the argument about it for the next two and a half thousand years. That double outcome is what makes this campaign worth studying carefully rather than summarizing. The military story is a clean, well-executed operation that solved the hardest logistical problem in ancient Near Eastern warfare and won the decisive battle at the one point where Egypt could be beaten. The reputational story is the opposite: a conqueror who by the Egyptian documentary evidence behaved like a reasonably conventional new pharaoh became, in the Greek tradition, a temple-desecrating lunatic who stabbed a sacred bull and lost an army in the desert, and that version is the one nearly everyone knows.

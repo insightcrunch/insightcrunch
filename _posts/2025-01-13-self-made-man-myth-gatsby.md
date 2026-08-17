@@ -9,6 +9,7 @@ author: "rachel-foster"
 reading_time: 49
 tags: ["The Great Gatsby", "Self-Made Man", "American Dream", "F. Scott Fitzgerald", "Jay Gatsby", "Theme Analysis", "Social Class"]
 lang: en
+last_updated: 2026-08-17
 ---
 The self-made man myth in Great Gatsby is the novel's quietest and most ruthless target. Long before Jay Gatsby buys a mansion across the bay from Daisy, he is a boy named James Gatz who believes, with the full faith of his country, that a person can build himself out of nothing through discipline and will. That belief is the self-made man myth: the American conviction that origin is not destiny, that effort converts a poor boy into a great one, and that the ladder upward is open to anyone willing to climb it. Fitzgerald does not mock this faith from the outside. He lets it run its full course inside one life, and then he shows what the country never says aloud about the cost.
 

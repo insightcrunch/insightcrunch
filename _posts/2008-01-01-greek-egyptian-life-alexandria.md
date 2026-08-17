@@ -9,7 +9,7 @@ excerpt: "Ancient Alexandria's Greeks, Egyptians, and Jews shared one city under
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2008-01-01
+last_updated: 2026-08-17
 lang: en
 ---
 Alexandria is routinely described as the first cosmopolitan city, a place where Greeks, Egyptians, and Jews lived together and produced the most creative culture of the ancient Mediterranean. That description is accurate about the creativity and misleading about the living together, and the gap between the two is the subject of this article. The communities did share a city. They did not share a legal status, a language, a tax obligation, a set of civic rights, or, for much of the time, a neighborhood. What they shared was proximity, and proximity under unequal law produces friction as reliably as it produces exchange.

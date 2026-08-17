@@ -9,7 +9,7 @@ excerpt: "The Kaliningrad blockade question pits a tempting supply lever against
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2025-10-01
+last_updated: 2026-08-17
 lang: en
 ---
 The Kaliningrad blockade question is the point where logistics stops being a housekeeping detail and becomes the sharpest strategic variable on the Baltic map. The security debate about the exclave usually runs on firepower: the missiles, the air defenses, the naval assets packed into a sliver of Russian territory wedged between Poland and Lithuania. Underneath all of it sits a plainer fact that decides more than the hardware does. Kaliningrad cannot feed, fuel, or reinforce itself. Every ton of what keeps the territory functioning arrives across land that belongs to the alliance or across a sea the alliance increasingly commands. That dependence is the real lever, and the argument over whether either side could or would pull it is the argument this assessment takes apart.

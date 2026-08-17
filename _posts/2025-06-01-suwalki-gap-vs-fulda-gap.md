@@ -9,7 +9,7 @@ excerpt: "The Suwalki Gap is often called the new Fulda Gap, yet the Cold War an
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
 author: "andrew-price"
-last_updated: 2025-06-01
+last_updated: 2026-08-17
 lang: en
 ---
 Reach for a single phrase to explain why the Suwalki Gap keeps analysts awake and you will almost always land on the same one: it is the new Fulda Gap. The comparison is intuitive, it sounds authoritative, and it does real work in a briefing, because it borrows an image every defense professional already carries. The trouble is that a borrowed image can smuggle in a borrowed model, and the model that made the Fulda Gap the defining problem of the central front does not map cleanly onto the corridor that now binds the Baltic states to the rest of the alliance. The analogy is not wrong so much as half right, and the half that is wrong is the half that matters most for judgment.

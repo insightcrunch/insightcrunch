@@ -9,7 +9,7 @@ excerpt: "Would the US fight for Poland? A sober assessment of American resolve,
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
 author: "david-thornton"
-last_updated: 2025-12-21
+last_updated: 2026-08-17
 lang: en
 ---
 Whether the US would fight for Poland is, in the end, the question every other question in the eastern-flank debate leans on. A reader can settle the geography of the Suwalki corridor, count the battlegroups on the map, and rehearse the treaty text word for word, and still be left with the single doubt that decides the rest: if the moment came, would Washington actually send Americans into a war to defend a country a third of the way around the world. Every deterrence calculation, every reinforcement timeline, every judgment about whether Article 5 holds ultimately rests on an assessment of American will. Get that assessment wrong in either direction and the rest of the analysis collapses.

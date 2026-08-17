@@ -9,7 +9,7 @@ excerpt: "Assessing the odds of a Russian attack on Poland means learning how an
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
 author: "jason-mckenzie"
-last_updated: 2025-03-01
+last_updated: 2026-08-17
 lang: en
 ---
 Ask ten informed people about the odds of a Russian attack on Poland and you will get ten answers, most of them delivered with a confidence the evidence does not support. Some will say it is inevitable. Some will say it is unthinkable because both sides sit inside the nuclear shadow. Both camps are reaching for a single feeling and calling it an assessment. The gap between those two reflexes is the space this article works in, because the difference between a worry and a judgment is method, and method is learnable. What professionals do when they estimate the likelihood of a rare, high-consequence event is not guess louder than everyone else. They decompose the question, anchor it against history, express the answer in a disciplined vocabulary of probability and confidence, and then hold that answer open to revision as the picture changes.

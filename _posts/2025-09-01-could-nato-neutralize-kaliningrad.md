@@ -9,7 +9,7 @@ excerpt: "Could NATO neutralize Kaliningrad? A deterrence assessment of what neu
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 68
 author: "abigail-cooper"
-last_updated: 2025-09-01
+last_updated: 2026-08-17
 lang: en
 ---
 Ask whether the alliance could neutralize Kaliningrad and you will get two confident answers, both wrong. The hawkish answer says the exclave is a fat, encircled target that modern airpower and precision fires could reduce at will, so the only question is whether anyone has the nerve. The fatalist answer says the place is a fortress bristling with layered air defenses and long-range missiles, so nothing meaningful can be done about it short of a general war no one wants. Each answer treats the problem as a matter of military capability, a question of whether the alliance has enough of the right tools. That framing is the mistake. The hard part of neutralizing Kaliningrad has never been the capability. The hard part is the cost, and the cost is not measured in sorties or interceptors. It is measured in escalation, up to and including the nuclear threshold, and it rises far faster than the military difficulty does.

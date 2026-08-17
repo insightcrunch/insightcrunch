@@ -9,7 +9,7 @@ excerpt: "Faces and smiles in The Great Gatsby form a symbol of the performed su
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 41
 author: "amanda-ross"
-last_updated: 2025-10-27
+last_updated: 2026-08-17
 lang: en
 ---
 A reader meets Jay Gatsby properly not through his mansion, his money, or his rumored past, but through a single expression that lasts a sentence and then disappears. Nick has been talking to a stranger at a party without knowing it is the host, and when the man finally smiles at him, the whole novel briefly reorganizes itself around that look. Faces and smiles in The Great Gatsby are not decoration; they are the surfaces on which the book stages its central transaction, the moment when one person offers another exactly the understanding that person most wants, and asks for trust in return. The smile Gatsby gives Nick is the most famous expression in American fiction, and it is famous precisely because it is doing something almost no real smile does. It promises total comprehension, and it is also, the same sentence reveals, a performance with a stranger's face waiting underneath.

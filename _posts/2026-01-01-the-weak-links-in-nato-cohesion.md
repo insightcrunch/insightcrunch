@@ -9,7 +9,7 @@ excerpt: "NATO cohesion is the hidden variable behind the Article 5 guarantee. A
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 68
 author: "gregory-marsh"
-last_updated: 2026-01-01
+last_updated: 2026-08-17
 lang: en
 ---
 The guarantee that a Russian attack on Poland would be met by the whole of the alliance is not a mechanism that runs on its own. It runs on NATO cohesion, on thirty-two governments deciding together and quickly that an attack on one is an attack on all, and choosing to act on that judgment when the moment is expensive and dangerous. That is the part most coverage skips. It treats the collective-defense promise as a switch that flips automatically the instant a border is crossed, when in truth the promise is a political outcome that has to be produced under pressure, by allies who do not share the same geography, the same threat perception, the same dependencies, or the same domestic politics. An adversary who understands this does not plan to defeat the alliance in the field before he has tried something cheaper first: making a single member hesitate long enough that the collective judgment stalls, and doubt does the work that force would otherwise have to do.

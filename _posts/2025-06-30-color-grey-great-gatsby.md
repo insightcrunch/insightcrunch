@@ -9,7 +9,7 @@ excerpt: "The color grey in The Great Gatsby is the shade that hope and gold dra
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 39
 author: "chloe-martin"
-last_updated: 2025-06-30
+last_updated: 2026-08-17
 lang: en
 ---
 Most readers finish The Great Gatsby remembering two colors. They remember the green light at the end of Daisy's dock, and they remember the gold and yellow that glitters across Gatsby's parties. The color grey in The Great Gatsby is the one almost nobody names, and that silence is itself a clue to how the shade works. It does not announce itself the way green or gold does. It settles. It coats. It is the color Fitzgerald reaches for when the dream has burned down to its residue, when the bright pigments of hope and money have been spent and only the ash is left. To read this color closely is to read the novel's accounting of what the dream costs, paid in the only currency that never glitters.

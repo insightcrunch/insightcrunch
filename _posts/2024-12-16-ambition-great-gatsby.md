@@ -9,7 +9,7 @@ excerpt: "Ambition and aspiration in The Great Gatsby drive the whole novel: Fit
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2024-12-16
+last_updated: 2026-08-17
 lang: en
 ---
 The Great Gatsby is often read as a love story or a portrait of the rich, but its sharpest subject is the will to rise. The theme of ambition and aspiration in The Great Gatsby runs deeper than any single romance, because the novel watches what happens to people who refuse to stay where they were born. Fitzgerald gives his strivers grandeur and then destroys them, and he leaves the people who already arrived untouched. That doubled outcome is the argument the book makes about wanting more: ambition is the most admirable and the most dangerous force in its world, and the novel crowns it in the same gesture that kills it.

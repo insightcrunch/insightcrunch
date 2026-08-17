@@ -9,7 +9,7 @@ excerpt: "How Russia could seize the Suwalki Gap, analyzed as strategy: the aim,
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 68
 author: "benjamin-scott"
-last_updated: 2025-05-01
+last_updated: 2026-08-17
 lang: en
 ---
 The question of how Russia could seize the Suwalki Gap is asked far more often than it is answered well. Most treatments reach for a map, draw an arrow across the eighty-odd kilometers of Polish and Lithuanian ground that separate the Russian exclave of Kaliningrad from Belarus, and declare the deed essentially done, as if the corridor were a ribbon to be cut with a single motion. That image is vivid, it is memorable, and it is analytically almost useless. It answers the wrong question. The useful question is not whether a line on a map can be drawn but whether the strategic effect an aggressor would be reaching for could actually be achieved and, having been achieved, held long enough to matter. Those are different problems, and the difference is the whole story.

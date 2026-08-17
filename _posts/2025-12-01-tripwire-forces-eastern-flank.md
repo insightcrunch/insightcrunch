@@ -9,7 +9,7 @@ excerpt: "A tripwire force deters not by winning the local fight but by entangli
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 69
 author: "benjamin-scott"
-last_updated: 2025-12-01
+last_updated: 2026-08-17
 lang: en
 ---
 The most common mistake made about a tripwire force is to judge it by whether it could win the battle it is standing in. It could not, and it was never meant to. A multinational tripwire force on NATO's eastern flank is a comparatively small body of troops positioned in a forward state so that any attack against that state necessarily kills, captures, or engages soldiers from many allied nations at once. Its purpose is not to defeat an incursion on its own but to make a limited, containable local war impossible for the aggressor to imagine, because the first shots fired would land on the alliance as a whole rather than on one exposed member. The deterrent value lives in that guarantee of collective involvement, not in the combat mass on the ground.

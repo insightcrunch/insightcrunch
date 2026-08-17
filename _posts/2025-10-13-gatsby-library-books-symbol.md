@@ -9,7 +9,7 @@ excerpt: "The books in Gatsby's library are real but their pages stay uncut, a s
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 40
 author: "rachel-foster"
-last_updated: 2025-10-13
+last_updated: 2026-08-17
 lang: en
 ---
 A drunk stranger in enormous spectacles sits in a darkened room at one of Gatsby's parties, pulls a volume off the shelf, and announces that the books in Gatsby's library are not cardboard props but genuine printed matter. Then he delivers the detail that turns a party joke into one of the sharpest images in the novel: the owner who bought every real volume never bothered to cut a single page. The books are authentic. No one has read them. That gap, between a thing that is fully real and a thing that has never once been used, is the whole portrait of Jay Gatsby compressed into a bookcase.

@@ -9,7 +9,7 @@ excerpt: "Light and darkness imagery in Gatsby works as a contrast system, not j
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2025-09-15
+last_updated: 2026-08-17
 lang: en
 ---
 The first thing Nick Carraway ever sees Gatsby do is reach across water toward a far point of brightness in the dark. He has come out onto his lawn at night, and when he looks for his neighbor again the man has vanished, leaving only a faint gleam at the edge of the bay. That single image, a small light burning against a wide darkness, is the seed of one of the novel's deepest patterns. The light and darkness imagery in Gatsby is not one symbol but a contrast system, a running tension between illumination and shadow that the book sustains from its first page to its last. To read that system well, a student has to see past the famous green light and notice the larger play of brightness and gloom organizing nearly every important scene.

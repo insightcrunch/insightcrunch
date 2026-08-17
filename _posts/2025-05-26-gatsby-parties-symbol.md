@@ -9,7 +9,7 @@ excerpt: "Gatsby's parties as symbol and spectacle fuse Jazz Age excess with a l
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-05-26
+last_updated: 2026-08-17
 lang: en
 ---
 "There was music from my neighbour's house through the summer nights." Nick Carraway opens the third chapter of the novel on that line, and with it Fitzgerald lifts the curtain on the most famous social scene in American fiction. Gatsby's parties as symbol and spectacle arrive as sound before they arrive as sight, a spill of light and orchestra across the lawn that the narrator can hear from his own small rented house next door. The image is seductive on first reading, and most readers stop at the seduction. The harder and more rewarding work is to see why the spectacle is staged at all. Read closely, Gatsby's parties as symbol and spectacle are not a celebration of the Jazz Age so much as a portrait of one man's loneliness dressed in the costume of an era's excess, a glittering machine built and run for an audience of one.

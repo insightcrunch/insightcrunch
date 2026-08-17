@@ -9,7 +9,7 @@ excerpt: "How the symbols cluster by place in The Great Gatsby: a map of West Eg
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-12-29
+last_updated: 2026-08-17
 lang: en
 ---
 Stand at the end of Nick Carraway's lawn on the first night of the novel and look across the water. A man stretches his arms toward a "single green light," "minute and far away," and the reach of that gesture tells you something the plot has not yet said: in The Great Gatsby the meaning of a symbol is fixed to the ground it stands on. The green light is not loose in the air. It hangs on a dock in East Egg, seen from a dock in West Egg, and the whole ache of the image lives in the distance between those two specific places. To understand how the symbols cluster by place is to read the novel's geography as the filing system of its meaning, where every location holds the emblems that belong to it and gives them the sense they carry.

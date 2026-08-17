@@ -9,7 +9,7 @@ excerpt: "Ptolemaic Egypt was a Greek kingdom wearing a pharaonic crown, and thi
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2007-07-01
+last_updated: 2026-08-17
 lang: en
 ---
 The single most common error in reading Ptolemaic Egypt is to file it under ancient Egypt and move on. The temples look Egyptian, the rulers wore the double crown, the gods carry Egyptian names, and the last of the line is the most famous Egyptian monarch who ever lived. Everything about the surface invites the assumption that this was the pharaonic state continuing under new management.

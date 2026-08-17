@@ -9,7 +9,7 @@ excerpt: "Article 5 is often measured against the hollow 1939 guarantees. This a
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 68
 author: "kevin-reeves"
-last_updated: 2026-02-01
+last_updated: 2026-08-17
 lang: en
 ---
 Whenever a Pole reads a Western pledge of protection, one date sits behind the words like a watermark: 1939. That is the year the guarantees Poland held from the strongest powers in the West were tested, and the year they failed. So the natural question, the one that surfaces in Warsaw and in every serious discussion of Poland's security, is whether Article 5 is any different, or whether it is the same paper promise wearing a newer suit. The comparison is not paranoia. It is the memory of a country that once counted on foreign signatures, watched two armies cross its borders within weeks of each other, and was erased from the map while its allies looked on. Article 5, the collective-defense clause at the heart of the North Atlantic Treaty, is the promise on which Poland's modern safety rests, and the ghost of 1939 is the doubt that shadows it.

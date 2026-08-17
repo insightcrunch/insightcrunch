@@ -3,7 +3,7 @@ title: "How Gatsby's Themes Connect to Each Other"
 page_title: "How Gatsby's Themes Connect to Each Other: The Great Gatsby Theme Web Analysis Explained"
 slug: gatsby-themes-connections
 date: 2025-03-31
-last_updated: 2025-03-31
+last_updated: 2026-08-17
 excerpt: "How Gatsby's themes connect to each other shows one connected web, not a list: the Dream, class, love, and time all grow from the wish to repeat the past."
 reading_time: 48
 image: /assets/images/blog/blog-01.webp

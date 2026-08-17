@@ -9,7 +9,7 @@ excerpt: "How a Kaliningrad crisis could escalate from a minor incident to open 
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 68
 author: "andrew-price"
-last_updated: 2025-08-21
+last_updated: 2026-08-17
 lang: en
 ---
 A Kaliningrad crisis rarely begins as a war and almost never begins as a decision to fight. It begins as something smaller and more ordinary: a train stopped at a checkpoint, a fishing vessel escorted out of contested water, an air-defense radar that locks onto an allied aircraft near the exclave's edge, a transit shipment delayed and then a second one delayed and then a public accusation that the delay was deliberate. The danger is not that any one of these events is catastrophic on its own. The danger is that the exclave sits on a structure of dependence so tight that a small friction over its lifeline can be read on the Russian side as an existential squeeze, and once a move is read that way, the pressure to respond hard arrives before anyone has chosen to climb toward conflict. This article walks through how that climb could happen, rung by rung, and it does so to make the logic legible rather than to predict any particular sequence.

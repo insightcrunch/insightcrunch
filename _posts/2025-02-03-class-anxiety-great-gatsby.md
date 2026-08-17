@@ -9,7 +9,7 @@ excerpt: "Class anxiety in The Great Gatsby reaches every social level, from anx
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2025-02-03
+last_updated: 2026-08-17
 lang: en
 ---
 The Great Gatsby is often read as a book about money, but its sharper subject is the feeling money produces. The novel argues that class is never settled and never safe. Everyone in its world is watching the rung above and the rung below, and the watching never stops. Class anxiety in The Great Gatsby is not a mood that visits a few unlucky strivers; it is the permanent weather of the whole social order, felt by the man clawing upward, the woman terrified of slipping back, and the heir who already has everything and still cannot sleep. Read the book this way and a famous love story reveals its harder engine: dread of where you stand.

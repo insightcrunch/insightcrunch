@@ -9,7 +9,7 @@ excerpt: "The last native pharaohs of Egypt, Nectanebo I and Nectanebo II, ruled
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 67
 author: "chloe-martin"
-last_updated: 2006-12-01
+last_updated: 2026-08-17
 lang: en
 ---
 Native rule in Egypt did not fade out. It was cut off at a high point, and that is the single most misunderstood fact about the last native pharaohs. The standard picture has a tired civilization drifting toward its inevitable end, its last kings presiding over decay until Persia finally put it out of its misery. The evidence describes something else entirely: sixty years of restored independence in which Egyptian kings repelled full Persian invasions twice, ran an aggressive diplomatic operation across the Aegean, and financed a temple building program that stands comparison with the New Kingdom. Nectanebo II, the last of them, was still building when he lost his kingdom.

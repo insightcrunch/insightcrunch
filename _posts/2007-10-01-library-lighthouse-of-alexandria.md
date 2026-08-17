@@ -9,7 +9,7 @@ excerpt: "The Library of Alexandria was not destroyed in one legendary fire and 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2007-10-01
+last_updated: 2026-08-17
 lang: en
 ---
 Two buildings made Alexandria famous across the ancient world, and both are usually described in ways that get the important part wrong. The Library of Alexandria is remembered as a universal collection of human knowledge annihilated in a single catastrophic blaze, an event so often invoked as a symbol of lost civilization that the actual sequence of its decline has almost disappeared behind the image. The Lighthouse, the Pharos, is remembered as a marvel of impossible height with a mirror that could burn enemy fleets, a description that turns a solvable engineering problem into a fantasy and obscures what the structure was genuinely for.

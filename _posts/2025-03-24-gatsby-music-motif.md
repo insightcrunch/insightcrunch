@@ -9,7 +9,7 @@ excerpt: "The motif of music and songs in The Great Gatsby scores the era's gaie
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2025-03-24
+last_updated: 2026-08-17
 lang: en
 ---
 There is a moment in Chapter 3 when the band at one of Gatsby's parties strikes up a composition called "Vladmir Tostoff's Jazz History of the World," and Nick admits the piece slipped past him entirely because his eyes had drifted to Gatsby, standing alone and sober on the marble steps while everyone else dissolved into noise. That small failure to listen is the key to the whole novel's sound. The motif of music and songs in The Great Gatsby is not background decoration but argument: across the book, orchestras and named tunes score a world's frantic gaiety while their lyrics and timing quietly contradict the celebration, so that the very music meant to fill the silence keeps pointing at what the silence hides.

@@ -9,7 +9,7 @@ excerpt: "Animals and beast imagery in Gatsby strips the civilized veneer from t
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-12-08
+last_updated: 2026-08-17
 lang: en
 ---
 When Nick Carraway first lays eyes on Tom Buchanan, he does not describe a man so much as a force of nature barely held inside a suit. Animals and beast imagery in Gatsby begins right there, on the lawn at East Egg, where the most powerful figure in the novel is rendered as a body before he is rendered as a person. Fitzgerald reaches for the language of muscle, appetite, and dominance, and that language never quite leaves the powerful afterward. This article owns the bestial strand running through the book: the comparisons that strip the civilized veneer from the polished and reveal the brute working underneath.

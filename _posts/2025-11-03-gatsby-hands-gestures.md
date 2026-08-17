@@ -9,7 +9,7 @@ excerpt: "Hands and gestures in Great Gatsby turn desire into motion: a guide to
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2025-11-03
+last_updated: 2026-08-17
 lang: en
 ---
 The first time Nick sees the man whose name the book carries, Gatsby is not speaking, dancing, or hosting. He is reaching. Standing alone on his lawn at the edge of the bay, he "stretched out his arms toward the dark water in a curious way," and from across the grass Nick "could have sworn he was trembling." That single motion, arms extended toward something Nick cannot yet identify, is the most important piece of body language in the novel, and it is where any honest study of hands and gestures in Great Gatsby has to begin. Before we know what Gatsby wants, we watch him want it with his whole body.

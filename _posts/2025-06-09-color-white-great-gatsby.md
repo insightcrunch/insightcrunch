@@ -9,7 +9,7 @@ excerpt: "The color white in The Great Gatsby looks like purity but quietly hide
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-06-09
+last_updated: 2026-08-17
 lang: en
 ---
 The first thing Nick Carraway sees inside the Buchanan house is not a person. It is a color. Two young women lie on an enormous couch by the open windows, and they are dressed alike: "They were both in white, and their dresses were rippling and fluttering as if they had just been blown back in after a short flight around the house." Daisy and Jordan float there like something weightless and clean, and a first-time reader files the image where the novel wants it filed, under innocence, under freshness, under the unspoiled. That filing is the trap. By the last page you will have learned that the woman in white let another woman die for her and said nothing, and the color you trusted will have curdled into something you cannot unsee.

@@ -9,7 +9,7 @@ excerpt: "Water and rain imagery in Great Gatsby works in two registers: rain ma
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2025-08-18
+last_updated: 2026-08-17
 lang: en
 ---
 The first time the bay appears, it is barely a sentence: Nick watches his neighbor stretch his arms toward a single green light across the dark sound, and between the two men lies a stretch of black water that neither the reaching nor the longing can shorten. That gap of liquid is easy to read past. It looks like setting. It is, in fact, the first move in a pattern that runs the length of the book, and water and rain imagery in The Great Gatsby turns out to be one of the most reliable guides Fitzgerald gives us to where feeling rises and where the dream meets its limit.

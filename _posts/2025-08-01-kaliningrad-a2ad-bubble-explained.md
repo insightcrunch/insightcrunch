@@ -9,7 +9,7 @@ excerpt: "The Kaliningrad A2/AD bubble is a cost-imposition tool, not an impenet
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 69
 author: "abigail-cooper"
-last_updated: 2025-08-01
+last_updated: 2026-08-17
 lang: en
 ---
 ![The A2/AD bubble over Kaliningrad, a capability analysis of Russia's anti-access denial complex - Insight Crunch](/assets/images/blog/blog-69.webp)

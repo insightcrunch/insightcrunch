@@ -9,7 +9,7 @@ excerpt: "Herodotus on Egypt is our earliest full outsider account, mixing sharp
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2007-05-01
+last_updated: 2026-08-17
 lang: en
 ---
 Every serious reader of Egyptian history meets Herodotus early and then spends years learning how to handle him. Book Two of his Histories is the longest sustained description of Egypt written by any outsider before the Roman period, and for a great deal of Late Period life it is the only narrative source that survives at all. It is also, in places, wrong in ways that would embarrass a modern undergraduate. He inverts the order of dynasties by nearly two thousand years. He records a story about the builder of the Great Pyramid that no Egyptian document supports. He repeats tales about winged snakes and a self-renewing bird with the same reporting formula he uses for the sacred bulls he almost certainly saw with his own eyes.

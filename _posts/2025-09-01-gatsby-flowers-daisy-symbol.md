@@ -9,7 +9,7 @@ excerpt: "Flowers and the name Daisy form one symbol in The Great Gatsby: white 
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2025-09-01
+last_updated: 2026-08-17
 lang: en
 ---
 Most readers meet Daisy Buchanan as a voice, a white dress, and a careless laugh, and they file the blooms around her under decoration. That filing is the first mistake. Flowers and the name Daisy are not background in The Great Gatsby; they are the most compressed character sketch Fitzgerald ever wrote, a whole portrait folded into a single bloom. The novel hands you the key on the title page of her name and then scatters petals through every scene she enters, and if you read those petals as ornament you miss the one honest statement the book makes about her. A daisy is white at the edge and gold at the heart. So is she.

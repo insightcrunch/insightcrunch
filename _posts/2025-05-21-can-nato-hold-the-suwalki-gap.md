@@ -9,7 +9,7 @@ excerpt: "Can NATO hold the Suwalki Gap? A deterrence assessment of the conditio
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 68
 author: "nathan-cole"
-last_updated: 2025-05-21
+last_updated: 2026-08-17
 lang: en
 ---
 Ask a serious question of the eastern flank and you get a serious complication back. Can NATO hold the Suwalki Gap? The honest reply is not a confident yes and not a resigned no. It is a set of conditions, and the quality of the answer depends entirely on getting those conditions right rather than on the reflex to reassure or the reflex to despair. The Suwalki Gap, that roughly sixty-mile stretch of Polish and Lithuanian ground pinned between Russian Kaliningrad to the west and Belarus to the east, is the single piece of terrain where the alliance's promise to the Baltic states meets the geometry that could make that promise hard to keep. Whether it holds is one of the defining posture questions of European defense, and it deserves a defining answer rather than a slogan.

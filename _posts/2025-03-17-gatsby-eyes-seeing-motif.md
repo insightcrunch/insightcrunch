@@ -9,7 +9,7 @@ excerpt: "The motif of eyes and seeing fills The Great Gatsby with looking yet s
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2025-03-17
+last_updated: 2026-08-17
 lang: en
 ---
 The motif of eyes and seeing runs through The Great Gatsby like a current the reader feels before naming it. Characters look, stare, glance, peer, and watch on nearly every page, and a giant pair of painted eyes presides over the wasteland at the novel's middle. Yet for all this looking, almost no one in the book actually sees. That gap is the argument the motif makes: Fitzgerald saturates his world with vision while starving it of insight, so that the abundance of watching stands against a scarcity of true understanding, and the blind billboard eyes hang over the whole arrangement like a verdict no one reads.

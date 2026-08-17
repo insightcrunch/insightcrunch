@@ -9,7 +9,7 @@ excerpt: "The color yellow and gold in Gatsby splits the warm spectrum: gold car
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 41
 author: "amanda-ross"
-last_updated: 2025-06-16
+last_updated: 2026-08-17
 lang: en
 ---
 Everybody had seen Gatsby's car, and everybody remembered it wrong. To read the color yellow and gold in Gatsby is to begin with that car, because it carries the novel's whole warm palette in a single object. When Nick finally rides in it, he describes it with reverence: it was "a rich cream colour," bright with nickel, swollen along its "monstrous length" with hatboxes and supper-boxes, terraced with a labyrinth of windshields that mirrored a dozen suns. That is the car at the height of its glamour, a gilded machine that catches and multiplies the light. Yet when the same car kills Myrtle Wilson and tears on into the dark, the witnesses do not call it cream. A pale, well-dressed man tells the policeman it was "a yellow car," a big yellow car, new. The machine that gleamed like a piece of jewelry has become, in the language of the people who watched it kill, merely yellow.

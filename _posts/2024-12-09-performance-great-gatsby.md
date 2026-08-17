@@ -9,6 +9,7 @@ author: "amanda-ross"
 tags: ["The Great Gatsby", "Themes", "Performance", "Theatricality", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 reading_time: 50
 lang: en
+last_updated: 2026-08-17
 ---
 Every major figure in this novel is acting for someone, and the book knows it. Gatsby builds a mansion, a manner, and a name; Myrtle rehearses a gentility she was never handed; Daisy plays at a warmth she can switch off; and Nick, who insists he only watches, arranges the whole story so that we watch it through him. To study performance and theatricality in Gatsby is to notice that Fitzgerald treats identity and society as theater, with each character cast in a role and each scene blocked for effect. The claim this article defends is blunt: in this world everyone is always on stage, and the cost of that staging is that an honest, unperformed self becomes nearly impossible to reach.
 

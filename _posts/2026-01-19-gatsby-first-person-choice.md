@@ -9,7 +9,7 @@ excerpt: "Why Fitzgerald chose a first-person narrator in The Great Gatsby: how 
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 41
 author: "chloe-martin"
-last_updated: 2026-01-19
+last_updated: 2026-08-17
 lang: en
 ---
 Ask why Fitzgerald chose a first-person narrator and you are really asking why the most famous man in American fiction stays partly out of reach. We never get inside Jay Gatsby. We watch him, we hear about him, we are told the rumors and shown the parties, but the door to his mind stays shut. That shut door is not an accident or a limitation Fitzgerald failed to overcome. It is the point. The whole strange magnetism of the book depends on the fact that the person telling the story cannot fully know the person the story is about. Understanding why Fitzgerald chose a first-person narrator means understanding that choice as a trade, a deliberate exchange of one kind of power for another, with consequences that reach into every scene.

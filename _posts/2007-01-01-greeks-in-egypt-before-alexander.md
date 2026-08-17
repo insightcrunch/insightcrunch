@@ -9,7 +9,7 @@ excerpt: "Greeks in Egypt arrived as soldiers and traders long before Alexander,
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2007-01-01
+last_updated: 2026-08-17
 lang: en
 ---
 The story usually starts in 332 BCE with a Macedonian army marching down the coast road into the Delta, and it starts far too late. Greeks in Egypt were not a consequence of Alexander's conquest. They were a fact of Egyptian life for roughly three centuries before he was born, embedded in the army, the ports, the workshops, and the cemeteries of the Nile country. When Alexander arrived, he did not open a closed kingdom to Hellenic settlement. He took command of a kingdom that already contained Hellenic garrison towns, Hellenic sanctuaries, Hellenic merchants with legal standing, and men whose fathers and grandfathers had been born on the Nile speaking a language from the Aegean.

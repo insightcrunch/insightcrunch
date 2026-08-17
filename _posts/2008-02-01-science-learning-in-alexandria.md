@@ -9,7 +9,7 @@ excerpt: "Ancient Alexandria produced Euclid, Eratosthenes, and the first human 
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2008-02-01
+last_updated: 2026-08-17
 lang: en
 ---
 Between roughly 300 and 150 BCE, one city produced the geometry textbook that would be used for two thousand years, the first reasonably accurate measurement of the size of the planet, the first systematic description of the human nervous system, the first proposal that the Earth orbits the Sun, and the foundations of trigonometry, geography, and mechanics. That concentration is not a coincidence and it is not simply the result of unusually gifted individuals happening to be born in the same place at the same time. It is the result of an institution.

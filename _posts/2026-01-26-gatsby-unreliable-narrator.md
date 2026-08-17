@@ -9,7 +9,7 @@ excerpt: "The unreliable narrator in The Great Gatsby is engineered, not acciden
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2026-01-26
+last_updated: 2026-08-17
 lang: en
 ---
 The unreliable narrator in The Great Gatsby is one of the most misunderstood machines in American fiction, and the misunderstanding costs students grades and costs general readers the deeper book. Most people who talk about Nick Carraway treat his unreliability as a verdict to be reached, a courtroom question with a yes or a no at the end: did Nick lie, is Nick a hypocrite, can we trust him. That is a question about Nick the person, and it is a fine question, but it is not the craft question, and confusing the two is where almost every essay on this topic goes wrong. The craft question is different and more interesting. It asks how Fitzgerald builds and signals the unreliability, what tools he uses to make a reader doubt the very voice telling the story, and what effect that engineered doubt produces on the page. Unreliability in this novel is not a flaw the author failed to iron out. It is a designed instrument, tuned with care, and learning to hear how it works changes the whole experience of reading.

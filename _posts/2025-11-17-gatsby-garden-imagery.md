@@ -9,7 +9,7 @@ excerpt: "The garden and party imagery in Gatsby figures a paradise on hire, lus
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 39
 author: "sophia-turner"
-last_updated: 2025-11-17
+last_updated: 2026-08-17
 lang: en
 ---
 There is a single sentence in the third chapter of The Great Gatsby that does almost all of the work people credit to the parties. Before a guest arrives, before the orchestra tunes, before Nick crosses the lawn, Fitzgerald writes that "in his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars." The garden and party imagery in Gatsby begins right there, in that phrase "blue gardens," and once you notice it you cannot stop noticing it. The grounds are not green and they are not merely decorated. They are blue, lit, and alive for one night, and the choice of word turns a piece of real estate into a symbol. This article is about that symbol: the lush, floral, manufactured paradise that Gatsby raises every weekend and lets fall to ruin by Monday.

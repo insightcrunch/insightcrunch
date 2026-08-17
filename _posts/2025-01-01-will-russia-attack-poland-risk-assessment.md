@@ -9,7 +9,7 @@ excerpt: "Will Russia attack Poland? A sober four-factor assessment of capabilit
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 76
 author: "abigail-cooper"
-last_updated: 2025-01-01
+last_updated: 2026-08-17
 lang: en
 ---
 Will Russia attack Poland? The honest answer is not a yes or a no but a probability held at a stated level of confidence, and the difference between those two kinds of answer is the whole point of this assessment. A headline can tell you that the eastern flank is dangerous and that Polish officials speak of preparing for the worst. What a headline cannot give you is a way to judge how heavily that danger should weigh on a decision, how a reasonable analyst would band it, and which specific things would push the judgment up or down. That is the work this article does. It treats the top-line question the way the front page of a national estimate would treat it: as a reasoned judgment built from parts, each part examined on its own, then combined into a verdict you can carry into a debate, a briefing, or your own thinking and revise as conditions change.

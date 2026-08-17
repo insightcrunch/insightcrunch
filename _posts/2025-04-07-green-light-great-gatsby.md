@@ -9,7 +9,7 @@ excerpt: "The green light in Great Gatsby blazes when Gatsby is far from Daisy a
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2025-04-07
+last_updated: 2026-08-17
 lang: en
 ---
 On the first night Nick Carraway sees his neighbor, he sees him reaching. Gatsby stands alone on his lawn at the edge of West Egg, stretches his arms toward the dark water, and trembles. Nick follows the gesture out across the Sound and finds nothing there except a single far-off point of brightness that might mark the end of a dock. That point is the green light in Great Gatsby, the most famous image in the novel, and the whole book folds into the distance between the man and the glow he cannot touch. Fitzgerald gives the reader the symbol before he gives the reader the story, and the gesture of reaching arrives before any explanation of what is being reached for.

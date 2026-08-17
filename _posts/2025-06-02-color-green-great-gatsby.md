@@ -9,6 +9,7 @@ image: /assets/images/blog/blog-01.webp
 excerpt: "The color green in The Great Gatsby fuses hope and money: trace the hue from the dock light to the fresh green breast of the new world, chapter by chapter."
 reading_time: 39
 lang: en
+last_updated: 2026-08-17
 ---
 Most readers meet the hue before they meet the man. Long before Jay Gatsby speaks a word, Nick Carraway watches him stretch his arms toward the dark water and pick out "a single green light, minute and far away, that might have been the end of a dock." That light has become the most quoted image in American fiction, and it has done something strange to the rest of the novel. It has trained generations of readers to see one green object and stop looking. Yet the hue does not stop at that dock. It runs through the whole book, surfacing on car seats and shirt fabric, in a gangster's slang for cash, on the stagnant water of the Sound, and at last on the unspoiled continent that Dutch sailors once saw rising out of the sea. Read the hue rather than the lamp, and a richer pattern appears: green is the novel's most loaded hue because it carries two meanings that the story refuses to separate, the green of hope and the green of money.
 

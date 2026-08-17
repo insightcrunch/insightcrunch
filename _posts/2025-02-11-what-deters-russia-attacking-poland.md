@@ -9,7 +9,7 @@ excerpt: "What deters Russia from attacking Poland is a layered structure of den
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
 author: "ian-fletcher"
-last_updated: 2025-02-11
+last_updated: 2026-08-17
 lang: en
 ---
 What deters Russia from attacking Poland is not a single wall but a stack of overlapping discouragements, each doing a different job, each with its own strength and its own seam. Ask most readers why Moscow has not moved against a NATO member and the answer comes back as one word, membership, as if the treaty itself were a force field. It is not. The restraint that keeps Polish territory outside the reach of Russian planning is built from several distinct mechanisms working in series: forces positioned to make a quick win unlikely, a tripwire that converts a local strike into an alliance-wide war, the threat of punishment far beyond the value of any gain, a nuclear backstop that caps how far escalation can be pushed, and, underneath all of it, the aggressor's belief that the defender would actually follow through. This article takes that stack apart layer by layer and rates each one honestly, because the interesting question is never whether a deterrent exists. It is which layer is thinnest, and whether the whole holds together when the adversary looks at it cold.

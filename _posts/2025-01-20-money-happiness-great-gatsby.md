@@ -9,7 +9,7 @@ excerpt: "Money cannot buy happiness in Gatsby, yet the novel argues something s
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2025-01-20
+last_updated: 2026-08-17
 lang: en
 ---
 The phrase money cannot buy happiness in Gatsby gets used as if it settled the matter, as if F. Scott Fitzgerald wrote a long, glittering book to prove a slogan most readers already accepted before they opened it. That reading is comfortable and wrong. The novel does not argue that money is worthless or that the rich are sad in some vague, moralizing way. It argues something more exact and more unsettling: money in this book buys a great deal, houses and cars and shirts and parties and the appearance of arrival, and it buys none of the one thing each character actually wants. Wealth purchases the wrong things with perfect reliability. The right thing stays out of reach no matter how large the fortune behind the reach.

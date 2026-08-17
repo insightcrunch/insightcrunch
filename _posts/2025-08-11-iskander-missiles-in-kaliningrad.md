@@ -9,7 +9,7 @@ excerpt: "Iskander missiles in Kaliningrad weigh more as a signal than as tonnag
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 68
 author: "abigail-cooper"
-last_updated: 2025-08-11
+last_updated: 2026-08-17
 lang: en
 ---
 The most decision-relevant question about Iskander missiles in Kaliningrad is not how far they fly. It is what a road-mobile, dual-capable strike system, based in a small piece of Russian territory wedged between two alliance members, actually does to the way a crisis on the eastern flank would be reasoned about. That is a different question from range, and it produces a different answer. Range tells you which cities and bases sit inside a circle on a map. It does not tell you whether the weapon changes the balance, whether its presence is a genuine shift in the military problem or a familiar piece of signaling, or how much of the recurring alarm around it is proportionate to what the system can really do. Those are the questions a minister's staffer, an analyst building a flank assessment, or an informed reader trying to separate the serious from the theatrical actually needs answered, and they are the questions this profile is built to answer.

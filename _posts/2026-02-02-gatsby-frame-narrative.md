@@ -9,7 +9,7 @@ excerpt: "Frame narrative and retrospection in Gatsby explained: how Nick narrat
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 42
 author: "chloe-martin"
-last_updated: 2026-02-02
+last_updated: 2026-08-17
 lang: en
 ---
 ## Why the Frame Narrative Quietly Runs the Whole Book

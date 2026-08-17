@@ -9,7 +9,7 @@ excerpt: "The Late Period of ancient Egypt, circa 664 to 332 BCE, paired a delib
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 76
 author: "chloe-martin"
-last_updated: 2006-09-01
+last_updated: 2026-08-17
 lang: en
 ---
 The Late Period of ancient Egypt is the era most readers meet twice and understand once. They meet it first as a list of foreign conquerors, Assyrians and Persians and finally Macedonians, and conclude that Egypt was simply running out of history. They meet it again in a museum, standing in front of a Saite statue whose polish and precision rival anything the Old Kingdom produced, and cannot square the two impressions. Both impressions are correct. Between roughly 664 and 332 BCE, Egypt mounted one of the most deliberate cultural revivals the ancient world ever staged and simultaneously lost, regained, and permanently lost its political independence. That contradiction is not a flaw in the record. It is the era's defining structure, and any account that resolves it by picking one side has stopped explaining Egypt at exactly the point where Egypt becomes hardest to explain.

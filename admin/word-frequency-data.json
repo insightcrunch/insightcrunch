@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-13T07:40:13Z",
+  "generated": "2026-08-17T07:03:01Z",
   "threshold": 50,
-  "totalPosts": 3807,
-  "flaggedPosts": 3457,
+  "totalPosts": 3825,
+  "flaggedPosts": 3475,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 163.7,
+  "avgTopCount": 163.6,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -69070,6 +69070,152 @@
       ]
     },
     {
+      "filename": "2006-09-01-late-period-of-ancient-egypt.md",
+      "slug": "late-period-of-ancient-egypt",
+      "title": "The Late Period of Ancient Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9276,
+      "topWord": "egyptian",
+      "topCount": 185,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-01-late-period-of-ancient-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 185
+        },
+        {
+          "word": "egypt",
+          "count": 177
+        },
+        {
+          "word": "period",
+          "count": 155
+        },
+        {
+          "word": "persian",
+          "count": 119
+        },
+        {
+          "word": "late",
+          "count": 117
+        },
+        {
+          "word": "bce",
+          "count": 103
+        },
+        {
+          "word": "greek",
+          "count": 93
+        },
+        {
+          "word": "era",
+          "count": 86
+        },
+        {
+          "word": "circa",
+          "count": 71
+        },
+        {
+          "word": "dynasty",
+          "count": 65
+        },
+        {
+          "word": "temple",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 185
+        },
+        {
+          "word": "egypt",
+          "count": 177
+        },
+        {
+          "word": "period",
+          "count": 155
+        },
+        {
+          "word": "persian",
+          "count": 119
+        },
+        {
+          "word": "late",
+          "count": 117
+        },
+        {
+          "word": "bce",
+          "count": 103
+        },
+        {
+          "word": "greek",
+          "count": 93
+        },
+        {
+          "word": "era",
+          "count": 86
+        },
+        {
+          "word": "circa",
+          "count": 71
+        },
+        {
+          "word": "dynasty",
+          "count": 65
+        },
+        {
+          "word": "temple",
+          "count": 51
+        },
+        {
+          "word": "rule",
+          "count": 50
+        },
+        {
+          "word": "native",
+          "count": 44
+        },
+        {
+          "word": "delta",
+          "count": 42
+        },
+        {
+          "word": "foreign",
+          "count": 39
+        },
+        {
+          "word": "ii",
+          "count": 39
+        },
+        {
+          "word": "kings",
+          "count": 38
+        },
+        {
+          "word": "saite",
+          "count": 37
+        },
+        {
+          "word": "kingdom",
+          "count": 36
+        },
+        {
+          "word": "history",
+          "count": 29
+        }
+      ]
+    },
+    {
       "filename": "2006-09-01-norway-invasion-hitler-april-1940.md",
       "slug": "norway-invasion-hitler-april-1940",
       "title": "Norway Invasion: Hitler's April 1940 Gambit",
@@ -69886,6 +70032,128 @@
         {
           "word": "agreement",
           "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2006-10-01-saite-renaissance-of-egypt.md",
+      "slug": "saite-renaissance-of-egypt",
+      "title": "The Saite Renaissance of Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8224,
+      "topWord": "egypt",
+      "topCount": 116,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-01-saite-renaissance-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 116
+        },
+        {
+          "word": "saite",
+          "count": 110
+        },
+        {
+          "word": "egyptian",
+          "count": 100
+        },
+        {
+          "word": "dynasty",
+          "count": 76
+        },
+        {
+          "word": "bce",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 116
+        },
+        {
+          "word": "saite",
+          "count": 110
+        },
+        {
+          "word": "egyptian",
+          "count": 100
+        },
+        {
+          "word": "dynasty",
+          "count": 76
+        },
+        {
+          "word": "bce",
+          "count": 65
+        },
+        {
+          "word": "delta",
+          "count": 49
+        },
+        {
+          "word": "greek",
+          "count": 49
+        },
+        {
+          "word": "circa",
+          "count": 46
+        },
+        {
+          "word": "kingdom",
+          "count": 45
+        },
+        {
+          "word": "period",
+          "count": 44
+        },
+        {
+          "word": "psamtik",
+          "count": 41
+        },
+        {
+          "word": "renaissance",
+          "count": 40
+        },
+        {
+          "word": "revival",
+          "count": 36
+        },
+        {
+          "word": "era",
+          "count": 34
+        },
+        {
+          "word": "religious",
+          "count": 33
+        },
+        {
+          "word": "temple",
+          "count": 33
+        },
+        {
+          "word": "royal",
+          "count": 30
+        },
+        {
+          "word": "texts",
+          "count": 28
+        },
+        {
+          "word": "political",
+          "count": 27
+        },
+        {
+          "word": "persian",
+          "count": 26
         }
       ]
     },
@@ -71414,6 +71682,136 @@
       ]
     },
     {
+      "filename": "2006-11-01-how-persia-conquered-egypt.md",
+      "slug": "how-persia-conquered-egypt",
+      "title": "How Persia Conquered Ancient Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8040,
+      "topWord": "egyptian",
+      "topCount": 232,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-01-how-persia-conquered-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 232
+        },
+        {
+          "word": "egypt",
+          "count": 156
+        },
+        {
+          "word": "persian",
+          "count": 137
+        },
+        {
+          "word": "bce",
+          "count": 85
+        },
+        {
+          "word": "cambyses",
+          "count": 67
+        },
+        {
+          "word": "persia",
+          "count": 51
+        },
+        {
+          "word": "conquest",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 232
+        },
+        {
+          "word": "egypt",
+          "count": 156
+        },
+        {
+          "word": "persian",
+          "count": 137
+        },
+        {
+          "word": "bce",
+          "count": 85
+        },
+        {
+          "word": "cambyses",
+          "count": 67
+        },
+        {
+          "word": "persia",
+          "count": 51
+        },
+        {
+          "word": "conquest",
+          "count": 51
+        },
+        {
+          "word": "greek",
+          "count": 50
+        },
+        {
+          "word": "temple",
+          "count": 44
+        },
+        {
+          "word": "army",
+          "count": 41
+        },
+        {
+          "word": "darius",
+          "count": 39
+        },
+        {
+          "word": "rule",
+          "count": 38
+        },
+        {
+          "word": "empire",
+          "count": 36
+        },
+        {
+          "word": "pelusium",
+          "count": 34
+        },
+        {
+          "word": "circa",
+          "count": 34
+        },
+        {
+          "word": "king",
+          "count": 31
+        },
+        {
+          "word": "battle",
+          "count": 28
+        },
+        {
+          "word": "memphis",
+          "count": 28
+        },
+        {
+          "word": "royal",
+          "count": 28
+        },
+        {
+          "word": "herodotus",
+          "count": 27
+        }
+      ]
+    },
+    {
       "filename": "2006-11-04-lincoln-vs-fdr-civil-liberties.md",
       "slug": "lincoln-vs-fdr-civil-liberties",
       "title": "Lincoln vs FDR on Civil Liberties: Who Was Worse",
@@ -72726,6 +73124,152 @@
       ]
     },
     {
+      "filename": "2006-12-01-last-native-pharaohs-of-egypt.md",
+      "slug": "last-native-pharaohs-of-egypt",
+      "title": "The Last Native Pharaohs of Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7869,
+      "topWord": "egyptian",
+      "topCount": 137,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-01-last-native-pharaohs-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 137
+        },
+        {
+          "word": "nectanebo",
+          "count": 117
+        },
+        {
+          "word": "egypt",
+          "count": 116
+        },
+        {
+          "word": "bce",
+          "count": 109
+        },
+        {
+          "word": "persian",
+          "count": 97
+        },
+        {
+          "word": "ii",
+          "count": 95
+        },
+        {
+          "word": "dynasty",
+          "count": 71
+        },
+        {
+          "word": "period",
+          "count": 69
+        },
+        {
+          "word": "greek",
+          "count": 68
+        },
+        {
+          "word": "native",
+          "count": 65
+        },
+        {
+          "word": "temple",
+          "count": 63
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 137
+        },
+        {
+          "word": "nectanebo",
+          "count": 117
+        },
+        {
+          "word": "egypt",
+          "count": 116
+        },
+        {
+          "word": "bce",
+          "count": 109
+        },
+        {
+          "word": "persian",
+          "count": 97
+        },
+        {
+          "word": "ii",
+          "count": 95
+        },
+        {
+          "word": "dynasty",
+          "count": 71
+        },
+        {
+          "word": "period",
+          "count": 69
+        },
+        {
+          "word": "greek",
+          "count": 68
+        },
+        {
+          "word": "native",
+          "count": 65
+        },
+        {
+          "word": "temple",
+          "count": 63
+        },
+        {
+          "word": "circa",
+          "count": 45
+        },
+        {
+          "word": "delta",
+          "count": 44
+        },
+        {
+          "word": "building",
+          "count": 43
+        },
+        {
+          "word": "king",
+          "count": 43
+        },
+        {
+          "word": "persia",
+          "count": 40
+        },
+        {
+          "word": "rule",
+          "count": 38
+        },
+        {
+          "word": "kings",
+          "count": 35
+        },
+        {
+          "word": "thirtieth",
+          "count": 32
+        },
+        {
+          "word": "teos",
+          "count": 32
+        }
+      ]
+    },
+    {
       "filename": "2006-12-02-veto-message-weapon-jackson-modern.md",
       "slug": "veto-message-weapon-jackson-modern",
       "title": "The Veto Message: From Jackson's Bank to Modern Use",
@@ -73498,6 +74042,128 @@
       ]
     },
     {
+      "filename": "2007-01-01-greeks-in-egypt-before-alexander.md",
+      "slug": "greeks-in-egypt-before-alexander",
+      "title": "Greeks in Egypt Before Alexander",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7935,
+      "topWord": "egyptian",
+      "topCount": 253,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-01-greeks-in-egypt-before-alexander.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 253
+        },
+        {
+          "word": "foreign",
+          "count": 89
+        },
+        {
+          "word": "egypt",
+          "count": 88
+        },
+        {
+          "word": "community",
+          "count": 61
+        },
+        {
+          "word": "aegean",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 253
+        },
+        {
+          "word": "foreign",
+          "count": 89
+        },
+        {
+          "word": "egypt",
+          "count": 88
+        },
+        {
+          "word": "community",
+          "count": 61
+        },
+        {
+          "word": "aegean",
+          "count": 53
+        },
+        {
+          "word": "evidence",
+          "count": 43
+        },
+        {
+          "word": "bce",
+          "count": 42
+        },
+        {
+          "word": "settlement",
+          "count": 42
+        },
+        {
+          "word": "population",
+          "count": 41
+        },
+        {
+          "word": "greek",
+          "count": 38
+        },
+        {
+          "word": "period",
+          "count": 37
+        },
+        {
+          "word": "memphis",
+          "count": 33
+        },
+        {
+          "word": "soldiers",
+          "count": 32
+        },
+        {
+          "word": "names",
+          "count": 32
+        },
+        {
+          "word": "carian",
+          "count": 32
+        },
+        {
+          "word": "delta",
+          "count": 31
+        },
+        {
+          "word": "century",
+          "count": 31
+        },
+        {
+          "word": "king",
+          "count": 31
+        },
+        {
+          "word": "garrison",
+          "count": 29
+        },
+        {
+          "word": "presence",
+          "count": 29
+        }
+      ]
+    },
+    {
       "filename": "2007-01-04-reagan-brandenburg-tear-down-wall.md",
       "slug": "reagan-brandenburg-tear-down-wall",
       "title": "Reagan at Brandenburg: The Line They Tried to Cut",
@@ -74266,6 +74932,128 @@
       ]
     },
     {
+      "filename": "2007-02-01-naucratis-egypt-greece-trade.md",
+      "slug": "naucratis-egypt-greece-trade",
+      "title": "Naucratis and Egyptian Trade With Greece",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7970,
+      "topWord": "egyptian",
+      "topCount": 134,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-02-01-naucratis-egypt-greece-trade.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 134
+        },
+        {
+          "word": "egypt",
+          "count": 125
+        },
+        {
+          "word": "aegean",
+          "count": 92
+        },
+        {
+          "word": "trade",
+          "count": 85
+        },
+        {
+          "word": "town",
+          "count": 70
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 134
+        },
+        {
+          "word": "egypt",
+          "count": 125
+        },
+        {
+          "word": "aegean",
+          "count": 92
+        },
+        {
+          "word": "trade",
+          "count": 85
+        },
+        {
+          "word": "town",
+          "count": 70
+        },
+        {
+          "word": "foreign",
+          "count": 50
+        },
+        {
+          "word": "greek",
+          "count": 50
+        },
+        {
+          "word": "grain",
+          "count": 48
+        },
+        {
+          "word": "goods",
+          "count": 44
+        },
+        {
+          "word": "ancient",
+          "count": 41
+        },
+        {
+          "word": "arrangement",
+          "count": 38
+        },
+        {
+          "word": "customs",
+          "count": 38
+        },
+        {
+          "word": "mediterranean",
+          "count": 37
+        },
+        {
+          "word": "river",
+          "count": 37
+        },
+        {
+          "word": "market",
+          "count": 36
+        },
+        {
+          "word": "period",
+          "count": 35
+        },
+        {
+          "word": "silver",
+          "count": 35
+        },
+        {
+          "word": "century",
+          "count": 34
+        },
+        {
+          "word": "evidence",
+          "count": 34
+        },
+        {
+          "word": "merchants",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2007-02-06-wilson-fourteen-points-january-1918.md",
       "slug": "wilson-fourteen-points-january-1918",
       "title": "Wilson's 14 Points: The January 1918 Template",
@@ -74876,6 +75664,140 @@
         {
           "word": "transfer",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2007-03-01-animal-cults-late-egyptian-religion.md",
+      "slug": "animal-cults-late-egyptian-religion",
+      "title": "Animal Cults in Late Egyptian Religion",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7936,
+      "topWord": "egyptian",
+      "topCount": 91,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-01-animal-cults-late-egyptian-religion.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 91
+        },
+        {
+          "word": "animal",
+          "count": 90
+        },
+        {
+          "word": "god",
+          "count": 75
+        },
+        {
+          "word": "sacred",
+          "count": 69
+        },
+        {
+          "word": "cults",
+          "count": 61
+        },
+        {
+          "word": "practice",
+          "count": 55
+        },
+        {
+          "word": "bull",
+          "count": 52
+        },
+        {
+          "word": "temple",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 91
+        },
+        {
+          "word": "animal",
+          "count": 90
+        },
+        {
+          "word": "god",
+          "count": 75
+        },
+        {
+          "word": "sacred",
+          "count": 69
+        },
+        {
+          "word": "cults",
+          "count": 61
+        },
+        {
+          "word": "practice",
+          "count": 55
+        },
+        {
+          "word": "bull",
+          "count": 52
+        },
+        {
+          "word": "temple",
+          "count": 51
+        },
+        {
+          "word": "egypt",
+          "count": 50
+        },
+        {
+          "word": "religious",
+          "count": 45
+        },
+        {
+          "word": "creature",
+          "count": 45
+        },
+        {
+          "word": "animals",
+          "count": 43
+        },
+        {
+          "word": "cult",
+          "count": 41
+        },
+        {
+          "word": "apis",
+          "count": 39
+        },
+        {
+          "word": "divine",
+          "count": 36
+        },
+        {
+          "word": "votive",
+          "count": 36
+        },
+        {
+          "word": "theology",
+          "count": 35
+        },
+        {
+          "word": "religion",
+          "count": 32
+        },
+        {
+          "word": "period",
+          "count": 28
+        },
+        {
+          "word": "ordinary",
+          "count": 27
         }
       ]
     },
@@ -75562,6 +76484,128 @@
         {
           "word": "free",
           "count": 38
+        }
+      ]
+    },
+    {
+      "filename": "2007-04-01-egypt-influence-on-greek-thought.md",
+      "slug": "egypt-influence-on-greek-thought",
+      "title": "Egypt's Influence on Greek Thought",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8055,
+      "topWord": "egyptian",
+      "topCount": 230,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-01-egypt-influence-on-greek-thought.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 230
+        },
+        {
+          "word": "greek",
+          "count": 221
+        },
+        {
+          "word": "egypt",
+          "count": 139
+        },
+        {
+          "word": "evidence",
+          "count": 61
+        },
+        {
+          "word": "tradition",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 230
+        },
+        {
+          "word": "greek",
+          "count": 221
+        },
+        {
+          "word": "egypt",
+          "count": 139
+        },
+        {
+          "word": "evidence",
+          "count": 61
+        },
+        {
+          "word": "tradition",
+          "count": 56
+        },
+        {
+          "word": "transmission",
+          "count": 49
+        },
+        {
+          "word": "claims",
+          "count": 41
+        },
+        {
+          "word": "claim",
+          "count": 40
+        },
+        {
+          "word": "ancient",
+          "count": 39
+        },
+        {
+          "word": "specific",
+          "count": 39
+        },
+        {
+          "word": "influence",
+          "count": 37
+        },
+        {
+          "word": "greeks",
+          "count": 35
+        },
+        {
+          "word": "intellectual",
+          "count": 31
+        },
+        {
+          "word": "bce",
+          "count": 29
+        },
+        {
+          "word": "century",
+          "count": 27
+        },
+        {
+          "word": "practical",
+          "count": 26
+        },
+        {
+          "word": "modern",
+          "count": 26
+        },
+        {
+          "word": "aegean",
+          "count": 25
+        },
+        {
+          "word": "medicine",
+          "count": 25
+        },
+        {
+          "word": "period",
+          "count": 25
         }
       ]
     },
@@ -76342,6 +77386,128 @@
       ]
     },
     {
+      "filename": "2007-05-01-herodotus-account-of-egypt.md",
+      "slug": "herodotus-account-of-egypt",
+      "title": "Herodotus and His Account of Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7600,
+      "topWord": "egyptian",
+      "topCount": 129,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-01-herodotus-account-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 129
+        },
+        {
+          "word": "herodotus",
+          "count": 110
+        },
+        {
+          "word": "greek",
+          "count": 97
+        },
+        {
+          "word": "egypt",
+          "count": 79
+        },
+        {
+          "word": "book",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 129
+        },
+        {
+          "word": "herodotus",
+          "count": 110
+        },
+        {
+          "word": "greek",
+          "count": 97
+        },
+        {
+          "word": "egypt",
+          "count": 79
+        },
+        {
+          "word": "book",
+          "count": 51
+        },
+        {
+          "word": "evidence",
+          "count": 47
+        },
+        {
+          "word": "source",
+          "count": 35
+        },
+        {
+          "word": "bce",
+          "count": 35
+        },
+        {
+          "word": "century",
+          "count": 34
+        },
+        {
+          "word": "persian",
+          "count": 32
+        },
+        {
+          "word": "period",
+          "count": 31
+        },
+        {
+          "word": "tradition",
+          "count": 30
+        },
+        {
+          "word": "passage",
+          "count": 29
+        },
+        {
+          "word": "claim",
+          "count": 26
+        },
+        {
+          "word": "account",
+          "count": 26
+        },
+        {
+          "word": "history",
+          "count": 25
+        },
+        {
+          "word": "modern",
+          "count": 25
+        },
+        {
+          "word": "thousand",
+          "count": 24
+        },
+        {
+          "word": "fifth",
+          "count": 24
+        },
+        {
+          "word": "king",
+          "count": 24
+        }
+      ]
+    },
+    {
       "filename": "2007-05-05-washington-wooden-teeth-real-materials.md",
       "slug": "washington-wooden-teeth-real-materials",
       "title": "Washington's Wooden Teeth: The Real Materials",
@@ -76972,6 +78138,136 @@
         {
           "word": "reputation",
           "count": 25
+        }
+      ]
+    },
+    {
+      "filename": "2007-06-01-persian-vs-native-rule-in-egypt.md",
+      "slug": "persian-vs-native-rule-in-egypt",
+      "title": "Persian vs Native Rule in Late Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7327,
+      "topWord": "egyptian",
+      "topCount": 186,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-06-01-persian-vs-native-rule-in-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 186
+        },
+        {
+          "word": "persian",
+          "count": 157
+        },
+        {
+          "word": "rule",
+          "count": 112
+        },
+        {
+          "word": "egypt",
+          "count": 109
+        },
+        {
+          "word": "native",
+          "count": 80
+        },
+        {
+          "word": "temple",
+          "count": 67
+        },
+        {
+          "word": "imperial",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 186
+        },
+        {
+          "word": "persian",
+          "count": 157
+        },
+        {
+          "word": "rule",
+          "count": 112
+        },
+        {
+          "word": "egypt",
+          "count": 109
+        },
+        {
+          "word": "native",
+          "count": 80
+        },
+        {
+          "word": "temple",
+          "count": 67
+        },
+        {
+          "word": "imperial",
+          "count": 51
+        },
+        {
+          "word": "king",
+          "count": 49
+        },
+        {
+          "word": "evidence",
+          "count": 46
+        },
+        {
+          "word": "greek",
+          "count": 40
+        },
+        {
+          "word": "darius",
+          "count": 36
+        },
+        {
+          "word": "administration",
+          "count": 32
+        },
+        {
+          "word": "tradition",
+          "count": 31
+        },
+        {
+          "word": "egyptians",
+          "count": 31
+        },
+        {
+          "word": "period",
+          "count": 30
+        },
+        {
+          "word": "cambyses",
+          "count": 30
+        },
+        {
+          "word": "record",
+          "count": 30
+        },
+        {
+          "word": "legal",
+          "count": 28
+        },
+        {
+          "word": "comparison",
+          "count": 27
+        },
+        {
+          "word": "revolt",
+          "count": 27
         }
       ]
     },
@@ -77684,6 +78980,144 @@
       ]
     },
     {
+      "filename": "2007-07-01-ptolemaic-egypt-complete-guide.md",
+      "slug": "ptolemaic-egypt-complete-guide",
+      "title": "Ptolemaic Egypt: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9498,
+      "topWord": "greek",
+      "topCount": 171,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-07-01-ptolemaic-egypt-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "greek",
+          "count": 171
+        },
+        {
+          "word": "egyptian",
+          "count": 170
+        },
+        {
+          "word": "egypt",
+          "count": 139
+        },
+        {
+          "word": "ptolemaic",
+          "count": 128
+        },
+        {
+          "word": "kingdom",
+          "count": 63
+        },
+        {
+          "word": "royal",
+          "count": 58
+        },
+        {
+          "word": "dynasty",
+          "count": 57
+        },
+        {
+          "word": "roman",
+          "count": 55
+        },
+        {
+          "word": "bce",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "greek",
+          "count": 171
+        },
+        {
+          "word": "egyptian",
+          "count": 170
+        },
+        {
+          "word": "egypt",
+          "count": 139
+        },
+        {
+          "word": "ptolemaic",
+          "count": 128
+        },
+        {
+          "word": "kingdom",
+          "count": 63
+        },
+        {
+          "word": "royal",
+          "count": 58
+        },
+        {
+          "word": "dynasty",
+          "count": 57
+        },
+        {
+          "word": "roman",
+          "count": 55
+        },
+        {
+          "word": "bce",
+          "count": 53
+        },
+        {
+          "word": "land",
+          "count": 44
+        },
+        {
+          "word": "alexandria",
+          "count": 44
+        },
+        {
+          "word": "hellenistic",
+          "count": 41
+        },
+        {
+          "word": "period",
+          "count": 41
+        },
+        {
+          "word": "century",
+          "count": 41
+        },
+        {
+          "word": "temples",
+          "count": 37
+        },
+        {
+          "word": "egyptians",
+          "count": 37
+        },
+        {
+          "word": "ptolemy",
+          "count": 35
+        },
+        {
+          "word": "temple",
+          "count": 35
+        },
+        {
+          "word": "administrative",
+          "count": 33
+        },
+        {
+          "word": "population",
+          "count": 29
+        }
+      ]
+    },
+    {
       "filename": "2007-07-04-wilson-segregationist-reputation-fall.md",
       "slug": "wilson-segregationist-reputation-fall",
       "title": "Wilson Falls Hard: The Segregationist Record That Tanked",
@@ -78294,6 +79728,132 @@
         {
           "word": "greenstein",
           "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2007-08-01-alexander-conquest-of-egypt.md",
+      "slug": "alexander-conquest-of-egypt",
+      "title": "Alexander the Great's Conquest of Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7636,
+      "topWord": "egypt",
+      "topCount": 208,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-08-01-alexander-conquest-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 208
+        },
+        {
+          "word": "alexander",
+          "count": 182
+        },
+        {
+          "word": "egyptian",
+          "count": 163
+        },
+        {
+          "word": "persian",
+          "count": 84
+        },
+        {
+          "word": "greek",
+          "count": 83
+        },
+        {
+          "word": "bce",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 208
+        },
+        {
+          "word": "alexander",
+          "count": 182
+        },
+        {
+          "word": "egyptian",
+          "count": 163
+        },
+        {
+          "word": "persian",
+          "count": 84
+        },
+        {
+          "word": "greek",
+          "count": 83
+        },
+        {
+          "word": "bce",
+          "count": 66
+        },
+        {
+          "word": "rule",
+          "count": 41
+        },
+        {
+          "word": "memphis",
+          "count": 40
+        },
+        {
+          "word": "country",
+          "count": 36
+        },
+        {
+          "word": "egyptians",
+          "count": 34
+        },
+        {
+          "word": "siwa",
+          "count": 32
+        },
+        {
+          "word": "city",
+          "count": 30
+        },
+        {
+          "word": "king",
+          "count": 30
+        },
+        {
+          "word": "conquest",
+          "count": 29
+        },
+        {
+          "word": "centuries",
+          "count": 28
+        },
+        {
+          "word": "macedonian",
+          "count": 28
+        },
+        {
+          "word": "native",
+          "count": 27
+        },
+        {
+          "word": "tradition",
+          "count": 27
+        },
+        {
+          "word": "mediterranean",
+          "count": 26
+        },
+        {
+          "word": "alexandria",
+          "count": 26
         }
       ]
     },
@@ -79218,6 +80778,136 @@
       ]
     },
     {
+      "filename": "2007-09-01-ptolemy-i-founding-of-dynasty.md",
+      "slug": "ptolemy-i-founding-of-dynasty",
+      "title": "Ptolemy I and the Founding of a Dynasty",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7632,
+      "topWord": "egypt",
+      "topCount": 107,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-09-01-ptolemy-i-founding-of-dynasty.md",
+      "flaggedWords": [
+        {
+          "word": "egypt",
+          "count": 107
+        },
+        {
+          "word": "egyptian",
+          "count": 105
+        },
+        {
+          "word": "greek",
+          "count": 89
+        },
+        {
+          "word": "bce",
+          "count": 82
+        },
+        {
+          "word": "alexander",
+          "count": 72
+        },
+        {
+          "word": "founder",
+          "count": 57
+        },
+        {
+          "word": "royal",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "egypt",
+          "count": 107
+        },
+        {
+          "word": "egyptian",
+          "count": 105
+        },
+        {
+          "word": "greek",
+          "count": 89
+        },
+        {
+          "word": "bce",
+          "count": 82
+        },
+        {
+          "word": "alexander",
+          "count": 72
+        },
+        {
+          "word": "founder",
+          "count": 57
+        },
+        {
+          "word": "royal",
+          "count": 57
+        },
+        {
+          "word": "dynasty",
+          "count": 48
+        },
+        {
+          "word": "ptolemy",
+          "count": 45
+        },
+        {
+          "word": "son",
+          "count": 42
+        },
+        {
+          "word": "king",
+          "count": 35
+        },
+        {
+          "word": "cult",
+          "count": 34
+        },
+        {
+          "word": "reign",
+          "count": 33
+        },
+        {
+          "word": "ruler",
+          "count": 31
+        },
+        {
+          "word": "ptolemaic",
+          "count": 30
+        },
+        {
+          "word": "whose",
+          "count": 29
+        },
+        {
+          "word": "macedonian",
+          "count": 29
+        },
+        {
+          "word": "alexandria",
+          "count": 29
+        },
+        {
+          "word": "article",
+          "count": 28
+        },
+        {
+          "word": "priesthood",
+          "count": 28
+        }
+      ]
+    },
+    {
       "filename": "2007-09-03-foreign-policy-doctrines-outlive-presidents.md",
       "slug": "foreign-policy-doctrines-outlive-presidents",
       "title": "Foreign Policy Doctrines Outlive Every President",
@@ -79856,6 +81546,124 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-09-30-recession-presidency-economic-crash-pattern.md"
     },
     {
+      "filename": "2007-10-01-library-lighthouse-of-alexandria.md",
+      "slug": "library-lighthouse-of-alexandria",
+      "title": "The Library and Lighthouse of Alexandria",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7725,
+      "topWord": "alexandria",
+      "topCount": 76,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-10-01-library-lighthouse-of-alexandria.md",
+      "flaggedWords": [
+        {
+          "word": "alexandria",
+          "count": 76
+        },
+        {
+          "word": "ancient",
+          "count": 73
+        },
+        {
+          "word": "collection",
+          "count": 73
+        },
+        {
+          "word": "library",
+          "count": 60
+        }
+      ],
+      "top20": [
+        {
+          "word": "alexandria",
+          "count": 76
+        },
+        {
+          "word": "ancient",
+          "count": 73
+        },
+        {
+          "word": "collection",
+          "count": 73
+        },
+        {
+          "word": "library",
+          "count": 60
+        },
+        {
+          "word": "greek",
+          "count": 47
+        },
+        {
+          "word": "century",
+          "count": 47
+        },
+        {
+          "word": "fire",
+          "count": 44
+        },
+        {
+          "word": "institution",
+          "count": 43
+        },
+        {
+          "word": "second",
+          "count": 37
+        },
+        {
+          "word": "centuries",
+          "count": 36
+        },
+        {
+          "word": "harbor",
+          "count": 35
+        },
+        {
+          "word": "royal",
+          "count": 34
+        },
+        {
+          "word": "built",
+          "count": 34
+        },
+        {
+          "word": "bce",
+          "count": 34
+        },
+        {
+          "word": "rolls",
+          "count": 33
+        },
+        {
+          "word": "single",
+          "count": 32
+        },
+        {
+          "word": "city",
+          "count": 32
+        },
+        {
+          "word": "third",
+          "count": 31
+        },
+        {
+          "word": "books",
+          "count": 30
+        },
+        {
+          "word": "structure",
+          "count": 29
+        }
+      ]
+    },
+    {
       "filename": "2007-10-06-vp-inherited-mid-crisis-audit.md",
       "slug": "vp-inherited-mid-crisis-audit",
       "title": "VPs Who Inherited Mid-Crisis: The 200-Year Audit",
@@ -80462,6 +82270,136 @@
         {
           "word": "mexico",
           "count": 51
+        }
+      ]
+    },
+    {
+      "filename": "2007-11-01-cleopatra-last-pharaoh-of-egypt.md",
+      "slug": "cleopatra-last-pharaoh-of-egypt",
+      "title": "Cleopatra VII: The Last Pharaoh of Egypt",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7686,
+      "topWord": "egyptian",
+      "topCount": 120,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-11-01-cleopatra-last-pharaoh-of-egypt.md",
+      "flaggedWords": [
+        {
+          "word": "egyptian",
+          "count": 120
+        },
+        {
+          "word": "bce",
+          "count": 102
+        },
+        {
+          "word": "roman",
+          "count": 100
+        },
+        {
+          "word": "egypt",
+          "count": 65
+        },
+        {
+          "word": "ptolemaic",
+          "count": 63
+        },
+        {
+          "word": "cleopatra",
+          "count": 56
+        },
+        {
+          "word": "ptolemy",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "egyptian",
+          "count": 120
+        },
+        {
+          "word": "bce",
+          "count": 102
+        },
+        {
+          "word": "roman",
+          "count": 100
+        },
+        {
+          "word": "egypt",
+          "count": 65
+        },
+        {
+          "word": "ptolemaic",
+          "count": 63
+        },
+        {
+          "word": "cleopatra",
+          "count": 56
+        },
+        {
+          "word": "ptolemy",
+          "count": 53
+        },
+        {
+          "word": "ruler",
+          "count": 50
+        },
+        {
+          "word": "royal",
+          "count": 49
+        },
+        {
+          "word": "greek",
+          "count": 47
+        },
+        {
+          "word": "evidence",
+          "count": 46
+        },
+        {
+          "word": "reign",
+          "count": 44
+        },
+        {
+          "word": "rome",
+          "count": 40
+        },
+        {
+          "word": "alexandria",
+          "count": 39
+        },
+        {
+          "word": "antony",
+          "count": 36
+        },
+        {
+          "word": "temple",
+          "count": 33
+        },
+        {
+          "word": "queen",
+          "count": 32
+        },
+        {
+          "word": "death",
+          "count": 30
+        },
+        {
+          "word": "power",
+          "count": 29
+        },
+        {
+          "word": "dynasty",
+          "count": 29
         }
       ]
     },
@@ -81366,6 +83304,144 @@
       ]
     },
     {
+      "filename": "2007-12-01-cleopatra-caesar-and-antony.md",
+      "slug": "cleopatra-caesar-and-antony",
+      "title": "Cleopatra, Caesar, and Mark Antony",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7681,
+      "topWord": "roman",
+      "topCount": 153,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-12-01-cleopatra-caesar-and-antony.md",
+      "flaggedWords": [
+        {
+          "word": "roman",
+          "count": 153
+        },
+        {
+          "word": "bce",
+          "count": 125
+        },
+        {
+          "word": "antony",
+          "count": 112
+        },
+        {
+          "word": "caesar",
+          "count": 104
+        },
+        {
+          "word": "egypt",
+          "count": 91
+        },
+        {
+          "word": "egyptian",
+          "count": 79
+        },
+        {
+          "word": "octavian",
+          "count": 61
+        },
+        {
+          "word": "war",
+          "count": 54
+        },
+        {
+          "word": "rome",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "roman",
+          "count": 153
+        },
+        {
+          "word": "bce",
+          "count": 125
+        },
+        {
+          "word": "antony",
+          "count": 112
+        },
+        {
+          "word": "caesar",
+          "count": 104
+        },
+        {
+          "word": "egypt",
+          "count": 91
+        },
+        {
+          "word": "egyptian",
+          "count": 79
+        },
+        {
+          "word": "octavian",
+          "count": 61
+        },
+        {
+          "word": "war",
+          "count": 54
+        },
+        {
+          "word": "rome",
+          "count": 51
+        },
+        {
+          "word": "fleet",
+          "count": 40
+        },
+        {
+          "word": "queen",
+          "count": 37
+        },
+        {
+          "word": "cleopatra",
+          "count": 36
+        },
+        {
+          "word": "client",
+          "count": 36
+        },
+        {
+          "word": "eastern",
+          "count": 36
+        },
+        {
+          "word": "alexandria",
+          "count": 36
+        },
+        {
+          "word": "alliance",
+          "count": 35
+        },
+        {
+          "word": "political",
+          "count": 31
+        },
+        {
+          "word": "army",
+          "count": 31
+        },
+        {
+          "word": "claim",
+          "count": 31
+        },
+        {
+          "word": "money",
+          "count": 29
+        }
+      ]
+    },
+    {
       "filename": "2007-12-05-if-ford-won-1976-counterfactual.md",
       "slug": "if-ford-won-1976-counterfactual",
       "title": "If Ford Won in 1976: The Carter Era That Never Was",
@@ -81964,6 +84040,148 @@
         {
           "word": "campaign",
           "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2008-01-01-greek-egyptian-life-alexandria.md",
+      "slug": "greek-egyptian-life-alexandria",
+      "title": "Greek and Egyptian Life in Alexandria",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8188,
+      "topWord": "greek",
+      "topCount": 166,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2008-01-01-greek-egyptian-life-alexandria.md",
+      "flaggedWords": [
+        {
+          "word": "greek",
+          "count": 166
+        },
+        {
+          "word": "city",
+          "count": 138
+        },
+        {
+          "word": "egyptian",
+          "count": 123
+        },
+        {
+          "word": "alexandria",
+          "count": 80
+        },
+        {
+          "word": "community",
+          "count": 67
+        },
+        {
+          "word": "egypt",
+          "count": 60
+        },
+        {
+          "word": "ancient",
+          "count": 58
+        },
+        {
+          "word": "population",
+          "count": 57
+        },
+        {
+          "word": "roman",
+          "count": 53
+        },
+        {
+          "word": "legal",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "greek",
+          "count": 166
+        },
+        {
+          "word": "city",
+          "count": 138
+        },
+        {
+          "word": "egyptian",
+          "count": 123
+        },
+        {
+          "word": "alexandria",
+          "count": 80
+        },
+        {
+          "word": "community",
+          "count": 67
+        },
+        {
+          "word": "egypt",
+          "count": 60
+        },
+        {
+          "word": "ancient",
+          "count": 58
+        },
+        {
+          "word": "population",
+          "count": 57
+        },
+        {
+          "word": "roman",
+          "count": 53
+        },
+        {
+          "word": "legal",
+          "count": 52
+        },
+        {
+          "word": "alexandrian",
+          "count": 49
+        },
+        {
+          "word": "status",
+          "count": 45
+        },
+        {
+          "word": "jewish",
+          "count": 44
+        },
+        {
+          "word": "civic",
+          "count": 41
+        },
+        {
+          "word": "record",
+          "count": 39
+        },
+        {
+          "word": "language",
+          "count": 34
+        },
+        {
+          "word": "society",
+          "count": 33
+        },
+        {
+          "word": "law",
+          "count": 30
+        },
+        {
+          "word": "produced",
+          "count": 29
+        },
+        {
+          "word": "tax",
+          "count": 29
         }
       ]
     },
@@ -82680,6 +84898,124 @@
         {
           "word": "regime",
           "count": 45
+        }
+      ]
+    },
+    {
+      "filename": "2008-02-01-science-learning-in-alexandria.md",
+      "slug": "science-learning-in-alexandria",
+      "title": "Science and Learning in Ancient Alexandria",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7829,
+      "topWord": "alexandria",
+      "topCount": 80,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2008-02-01-science-learning-in-alexandria.md",
+      "flaggedWords": [
+        {
+          "word": "alexandria",
+          "count": 80
+        },
+        {
+          "word": "alexandrian",
+          "count": 69
+        },
+        {
+          "word": "greek",
+          "count": 58
+        },
+        {
+          "word": "century",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "alexandria",
+          "count": 80
+        },
+        {
+          "word": "alexandrian",
+          "count": 69
+        },
+        {
+          "word": "greek",
+          "count": 58
+        },
+        {
+          "word": "century",
+          "count": 52
+        },
+        {
+          "word": "produced",
+          "count": 45
+        },
+        {
+          "word": "ancient",
+          "count": 44
+        },
+        {
+          "word": "science",
+          "count": 43
+        },
+        {
+          "word": "centuries",
+          "count": 42
+        },
+        {
+          "word": "bce",
+          "count": 39
+        },
+        {
+          "word": "earth",
+          "count": 38
+        },
+        {
+          "word": "ptolemy",
+          "count": 35
+        },
+        {
+          "word": "mathematics",
+          "count": 32
+        },
+        {
+          "word": "results",
+          "count": 30
+        },
+        {
+          "word": "egyptian",
+          "count": 29
+        },
+        {
+          "word": "second",
+          "count": 28
+        },
+        {
+          "word": "tradition",
+          "count": 28
+        },
+        {
+          "word": "geometry",
+          "count": 27
+        },
+        {
+          "word": "institution",
+          "count": 27
+        },
+        {
+          "word": "model",
+          "count": 27
+        },
+        {
+          "word": "human",
+          "count": 26
         }
       ]
     },

@@ -9,7 +9,7 @@ excerpt: "Fate and free will in Great Gatsby pull hard against each other: the n
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2024-12-23
+last_updated: 2026-08-17
 lang: en
 ---
 Few novels are read as widely and argued about as carelessly as this one, and nowhere is the carelessness clearer than in the debate over whether its hero was ever free. The question of fate and free will in great gatsby is usually settled in a sentence: Gatsby was doomed, the reader says, and moves on. That verdict is too quick. Fitzgerald built a book in which the ending feels foreordained from the first page and yet every important turn arrives through a decision someone actually makes. The novel holds both truths at once, and the reader who grabs only one of them has the wrong book in hand.

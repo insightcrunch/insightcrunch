@@ -9,7 +9,7 @@ excerpt: "The moon and stars in The Great Gatsby lend Gatsby's longing a romanti
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2025-09-22
+last_updated: 2026-08-17
 lang: en
 ---
 The first time Nick Carraway sees his neighbor alone, the man is looking up. Gatsby stands on his own lawn with his hands in his pockets, "regarding the silver pepper of the stars," and that small gesture sets the terms for everything the moon and stars in The Great Gatsby will come to mean. A man who has built a mansion, bought a fortune, and staged a city's worth of parties is, in his single unguarded moment, gazing at something he cannot buy and cannot reach. The celestial imagery enters the novel not as decoration but as the measure of a longing too large for the world that holds it.

@@ -9,7 +9,7 @@ excerpt: "The swimming pool as a symbol in The Great Gatsby fuses deferral and d
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 38
 author: "rachel-foster"
-last_updated: 2025-08-25
+last_updated: 2026-08-17
 lang: en
 ---
 For an entire summer the most expensive item on Gatsby's property goes untouched. The marble pool sits behind the imitation chateau, fed and filtered and ready, and the man who built the whole spectacle never once gets into it. He tells Nick this almost in passing, on the last morning of his life, with a small note of apology in his voice: "I've never used that pool all summer." A few hours later he is floating on it, dead. No object in the novel carries that arc so cleanly, from saved to fatal, from a luxury kept for some better day to the surface a body comes to rest on. The swimming pool as a symbol gathers the book's deepest pattern into one piece of architecture: the dream postponed until the postponement is what kills you.

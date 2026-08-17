@@ -9,7 +9,7 @@ excerpt: "Egypt's influence on Greek thought is real but often inflated, and thi
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2007-04-01
+last_updated: 2026-08-17
 lang: en
 ---
 Egypt's influence on Greek thought is one of the few questions in ancient history where getting the answer right requires resisting two opposite pressures at once. On one side sits a long scholarly habit of treating Greek achievement as essentially self-generated, a miracle of the Aegean owing little to the older civilizations around it. On the other sits a maximalist counter-tradition holding that Greek philosophy, mathematics, and religion were substantially taken from Egypt and then concealed. Both positions have adherents, both can cite evidence, and both are wrong in ways this article will specify.

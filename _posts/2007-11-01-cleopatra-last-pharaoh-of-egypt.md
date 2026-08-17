@@ -9,7 +9,7 @@ excerpt: "Cleopatra VII was a Greek-Macedonian scholar-queen who held Egypt for 
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2007-11-01
+last_updated: 2026-08-17
 lang: en
 ---
 No ruler of Egypt is better known and less accurately known than Cleopatra VII. She is the only pharaoh most people can name after Tutankhamun, and almost everything the general reader believes about her comes from a tradition assembled by her enemies and then embellished for two thousand years by writers who found the enemies' version more entertaining than the record. Strip that away and the person underneath is not the figure of legend at all. She is a working monarch who inherited a bankrupt, Roman-dominated kingdom at seventeen or eighteen, lost her throne, took it back, held it for twenty-one years through the most violent political convulsion in Mediterranean history, and governed a country whose language none of her ancestors had bothered to learn.

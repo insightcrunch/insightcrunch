@@ -10,6 +10,7 @@ author: "chloe-martin"
 reading_time: 47
 tags: ["The Great Gatsby", "Cars and Driving", "Carelessness", "Themes", "Symbolism", "Close Reading", "F. Scott Fitzgerald"]
 lang: en
+last_updated: 2026-08-17
 ---
 The Great Gatsby is a novel in which almost no one knows how to handle a car, and that is not an accident of plot. Fitzgerald builds a sustained pattern out of automobiles and the people steering them, and the pattern carries an argument: the way a character drives is the way that character lives. Hands that grip a wheel loosely grip lives loosely. The book turns the road into a moral test, and one by one its bright, moneyed people fail it.
 
