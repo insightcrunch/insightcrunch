@@ -6,17 +6,17 @@ date: 2029-06-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Close Reading", "Character Analysis", "Literary Criticism", "American Literature"]
 excerpt: "Key quotes said by Nick Carraway, from the reserved opening to the closing meditation, plus what every single line reveals about the man telling the story."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2029-06-25
+lang: en
 ---
-
 The key quotes said by Nick Carraway start with a sentence he did not write. His father handed him an instruction about criticizing other people, and Nick has been turning it over ever since. He repeats it, endorses it, and builds a self-description on top of it: he is inclined, he says, to "reserve all judgements." Within two pages he has called a man's body cruel, mocked a party guest, and pronounced a verdict on the entire eastern seaboard. The gap between what Nick says about himself and what his sentences actually do is not a flaw in the novel. It is the novel's engine, and the lines gathered here are where you can watch it run.
 
 Most quote collections treat Nick as a delivery system. He is the voice that hands you Gatsby's famous sentences, the green light, the boats, the careless people. That framing gets the mechanics backwards. Nick does not report those sentences; he composes them. Every famous line in the book except a handful of spoken ones passes through a retrospective narrator who is arranging his material two years after the fact, in a mood he describes as wanting the world to stand at moral attention. Reading his lines as a set, rather than harvesting them one at a time for essays about Gatsby, changes what you can say about the book.
 
-![Key quotes said by Nick Carraway analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Key quotes said by Nick Carraway analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 This article gathers the lines that define Nick, sorts them by what kind of speech act each one performs, and shows how they assemble a narrator who is at once the book's conscience and its shaping instrument. The character analysis lives elsewhere: the reliability question is argued in full at [the reliable or unreliable narrator debate](/2023/06/12/nick-carraway-reliable-narrator/), the moral question at [Nick Carraway as the novel's moral center](/2023/06/19/nick-carraway-moral-center/), and the specific distortions his telling introduces at [the quotes that reveal Nick's bias](/2029/08/13/gatsby-quotes-nick-bias/). What you get here is the language itself, line by line, with what each one is doing.
 

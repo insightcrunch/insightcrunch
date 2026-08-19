@@ -6,17 +6,17 @@ date: 2029-06-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Past", "Themes", "Close Reading", "Essay Writing", "American Literature"]
 excerpt: "The key quotes about time and the past in The Great Gatsby, gathered and analyzed: from Gatsby's certainty to the closing image of boats borne backward."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2029-06-18
+lang: en
 ---
-
 ## Why the Key Quotes About Time and the Past Trace a Single Arc
 
 The key quotes about time and the past in *The Great Gatsby* differ from every other quotation set in the novel in one respect: they are sequential. The wealth material can be sorted by mechanism in any order. The character material can be arranged by speaker. The time material has a direction. It begins with a man asserting that the past is recoverable, moves through a series of passages in which recovery is attempted and shown to be structurally impossible, and ends with a sentence that generalizes the failure to everyone. Reading the fragments in order is reading an argument being lost.
 
-![Key quotes about time and the past in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Key quotes about time and the past in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 This article gathers that sequence and reads it. The aim is curation with analysis attached rather than a fresh theme essay. The full thematic treatment belongs to the analysis of [the past and the repetition of time](/2024/06/17/gatsby-past-and-time/), and the specific interpretive question belongs to the piece asking whether [you can repeat the past in The Great Gatsby](/2024/06/24/gatsby-repeat-the-past/). What follows is the evidence base those arguments run on, set in scene, attributed to speaker, and arranged so the arc becomes visible.
 

@@ -6,17 +6,17 @@ date: 2029-06-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Wealth and Class", "Themes", "Close Reading", "Essay Writing", "American Literature"]
 excerpt: "The key quotes about wealth and class in The Great Gatsby, gathered and analyzed: money, status, and the careless rich in the novel's own sharp language."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-06-11
+lang: en
 ---
-
 ## Why the Key Quotes About Wealth and Class Carry the Argument
 
 The key quotes about wealth and class in *The Great Gatsby* do something the plot cannot do on its own: they say the quiet part. The story shows a poor man getting rich and failing to buy his way into a marriage, which is a shape a reader could describe without noticing that a class system is operating. The dialogue and narration are where the system becomes audible. A voice is identified as money. A married couple is described as retreating into their fortune. A man from nowhere is named as nobody. The novel's economic argument lives in these sentences rather than in its events.
 
-![Key quotes about wealth and class in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Key quotes about wealth and class in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 This article gathers that language and reads it. The aim is curation with analysis attached rather than a fresh theme essay. The full thematic treatment belongs to the analysis of [wealth and class in The Great Gatsby](/2024/05/13/wealth-class-great-gatsby/), and the geographic and generational split belongs to the piece on [old money against new money](/2024/05/20/old-money-new-money-gatsby/). What follows is the evidence base those arguments run on, set in scene, attributed to speaker, and read for the specific facet of class each one exposes.
 

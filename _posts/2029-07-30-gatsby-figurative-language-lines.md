@@ -6,17 +6,17 @@ date: 2029-07-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Figurative Language", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Figurative language in Gatsby's best lines does the thinking, and a figure table pairs each famous quote with its device and the meaning that device carries."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2029-07-30
+lang: en
 ---
-
 "Her voice is full of money." Six words, one grammatical error of category, and an entire theory of class delivered without a single abstract noun. A voice cannot be full of money. Fitzgerald knew that, and so does Gatsby, who says the line. The impossibility is the argument: what Gatsby hears when Daisy speaks is not charm, not warmth, not even beauty, but the audible residue of never having wanted anything. The figure does the thinking. Remove it and you are left with a sociological proposition that would take a paragraph to state and would convince nobody.
 
 That is the pattern across the novel's most famous lines, and it is the reason they survive detached from their scenes. Fitzgerald's celebrated sentences are not well-written observations decorated with imagery. They are arguments conducted through figure, in which the comparison carries a claim the sentence never makes directly. Learning to read the figures is therefore not an ornamental skill for readers who enjoy that sort of thing. It is the only way to find out what the famous lines actually say.
 
-![Figurative language in The Great Gatsby's best lines explained device by device - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Figurative language in The Great Gatsby's best lines explained device by device - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 ## Figurative Language in Gatsby's Best Lines: The Figure Table
 

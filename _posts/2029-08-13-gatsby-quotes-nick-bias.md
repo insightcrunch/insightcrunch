@@ -6,17 +6,17 @@ date: 2029-08-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Close Reading", "Narration", "American Literature"]
 excerpt: "Quotes that reveal Nick's bias expose a partial narrator, with a bias table pairing every line to the slant it shows toward Gatsby or against the Buchanans."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-08-13
+lang: en
 ---
-
 "I'm inclined to reserve all judgements." That is the fourth sentence a reader encounters in The Great Gatsby, and it is false. Within two pages the same narrator has described a man he has not yet introduced as possessing an extraordinary gift for hope, has condemned an unnamed force as foul dust, and has announced that one person among his acquaintances was exempt from a scorn he applied to everyone else. Three judgments, delivered before the story starts, by a man who has just told us he does not make them.
 
 That gap is not a flaw in the book. It is the book's method. Fitzgerald gives his narrator a stated policy of restraint and then has him violate it continuously, so that every verdict Nick delivers arrives with a small counter-signal attached. Reading him well means holding both: the judgment and the fact that a self-declared non-judger made it. The lines that expose the slant are not hidden. They are the most confident sentences in the novel.
 
-![Quotes that reveal Nick Carraway's bias as narrator of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Quotes that reveal Nick Carraway's bias as narrator of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 What follows gathers those lines, names the specific partiality each one exposes, and argues that Nick's bias is traceable and directional rather than general. He is not unreliable in the sense of inventing events. He is partial in a mapped way: warm toward Gatsby, cold toward the Buchanans, indulgent toward himself, and inattentive toward everyone whose story does not bear on those three.
 

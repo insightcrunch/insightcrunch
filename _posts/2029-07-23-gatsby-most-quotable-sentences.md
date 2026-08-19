@@ -6,17 +6,17 @@ date: 2029-07-23
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Famous Quotes", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The most quotable sentences in Gatsby endure through rhythm, image, and compressed insight, with a highlight table naming what makes each great line last."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-07-23
+lang: en
 ---
-
 "So we beat on, boats against the current, borne back ceaselessly into the past." Eleven words, one metaphor, and a final clause that reverses the direction of the whole sentence. A novel that spends nine chapters describing parties, adulteries, and a shooting ends on a rowing image, and that image is why a modest book about a bootlegger's failed courtship became a permanent fixture of the English language. People who have never opened the novel can complete that line. People who have opened it once can quote three or four others. The sentences travel further than the plot does.
 
 That gap between the reach of the plot and the reach of the sentences is the subject of this article. Fitzgerald wrote a short book, under fifty thousand words, and inside it he built perhaps two dozen sentences that behave like independent objects. They get engraved on things. They get set as epigraphs to other people's books. They surface in eulogies and commencement addresses and album liner notes, usually detached from anyone named Gatsby. A sentence that can be lifted whole and still work is doing something structural that most good prose does not attempt.
 
-![The most quotable sentences in The Great Gatsby analyzed line by line - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The most quotable sentences in The Great Gatsby analyzed line by line - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 What follows is a curated set of the novel's finest sentences with a specific account of what makes each one endure. This is not a list of quotations arranged by theme, and it is not a study aid that treats every memorable phrase as interchangeable evidence for the American dream. It is a sentence-level argument. The claim is that quotability in this novel is not accidental, not merely a function of how often a line gets reprinted, and not a reward for saying something profound. It is the product of three specific technical qualities working together, and the lines that carry all three are the lines that leave the book.
 

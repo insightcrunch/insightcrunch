@@ -6,17 +6,17 @@ date: 2029-07-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Quotations", "Close Reading", "Essay Writing", "Literary Criticism", "American Literature"]
 excerpt: "How to analyze a quote from The Great Gatsby using a four-pass method, worked line by line, so that close reading becomes a procedure and not a knack."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-07-16
+lang: en
 ---
-
 Learning how to analyze a quote from The Great Gatsby is a procedure, not a talent. The students who produce good commentary are not hearing something the rest of the class cannot hear. They are running a sequence of checks in a fixed order, and the sequence can be written down, taught, and practiced until it runs without effort.
 
 Here is the sequence in one sentence: place the line, name what it does, read its words, connect it upward. Four passes, in that order, each one answering a question the previous pass leaves open. Everything else in this article is an expansion of those four moves and a demonstration of them on real sentences from the novel.
 
-![How to analyze a quote from The Great Gatsby using a four-pass method - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to analyze a quote from The Great Gatsby using a four-pass method - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The reason to insist on an order is that the common failure of quote analysis is not ignorance but sequence. Students who start with theme produce a paragraph that gestures at the American Dream and never touches a word. Students who start with devices produce a list of techniques with no argument attached. Starting with context and ending with theme keeps the analysis anchored to the page for as long as possible, which is exactly where the marks are.
 

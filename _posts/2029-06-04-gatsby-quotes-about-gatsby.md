@@ -6,17 +6,17 @@ date: 2029-06-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Jay Gatsby", "Close Reading", "Character Analysis", "Essay Writing", "American Literature"]
 excerpt: "The key quotes about Jay Gatsby, gathered and analyzed: the smile, the refusal to give up the past, and the lines that build a magnificent doomed dreamer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2029-06-04
+lang: en
 ---
-
 ## Why the Key Quotes About Jay Gatsby Carry the Whole Novel
 
 The key quotes about Jay Gatsby have an unusual property: several of the most famous ones are not spoken by him, and several of the ones he does speak are short enough to fit on a coin. His most quoted utterance runs four words. His most quoted description runs a paragraph and belongs to Nick. Between those two poles sits a character who has become a permanent fixture of American reading, and the fixture is built almost entirely from language rather than from action. Gatsby throws parties, buys a house, and drives a car. What makes him unforgettable is what gets said.
 
-![Key quotes about Jay Gatsby in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Key quotes about Jay Gatsby in The Great Gatsby explained - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 This article gathers the load-bearing material and reads it. The aim is curation with analysis attached rather than a fresh character study. The psychological and biographical treatment belongs to the piece on [Jay Gatsby as a self-made man](/2023/05/15/jay-gatsby-self-made-man/), and the moral question belongs to the analysis of whether [Gatsby is a romantic idealist or a criminal](/2023/05/22/jay-gatsby-idealist-or-criminal/). What follows is the evidence base those arguments run on, assembled in one place, with each fragment set in its scene, attributed to its actual speaker, and read for what it does.
 

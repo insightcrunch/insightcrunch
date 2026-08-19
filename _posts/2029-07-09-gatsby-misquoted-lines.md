@@ -6,17 +6,17 @@ date: 2029-07-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Quotations", "Close Reading", "Essay Writing", "Literary Criticism", "American Literature"]
 excerpt: "The most misquoted lines from The Great Gatsby, corrected against the actual text, plus the exact meaning that each popular error quietly throws away."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-07-09
+lang: en
 ---
-
 The most misquoted lines from The Great Gatsby include the one you are most certain you know. The novel's final sentence is printed on posters, tattooed on forearms, and quoted in wedding speeches, and a large share of those versions read "borne ceaselessly back into the past." Fitzgerald wrote "borne back ceaselessly into the past." Two words have swapped places, the sentence still scans, and something specific has gone missing.
 
 That is the pattern this article corrects. Misquotation of this novel is rarely wild invention. It is small: a word moved, a conjunction added, a clause dropped from the middle, a speaker reassigned. The errors survive precisely because they sound right, and they sound right because the ear smooths Fitzgerald's odd choices into ordinary ones. Every correction below restores something the smoothing removed.
 
-![The most misquoted lines from The Great Gatsby corrected - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The most misquoted lines from The Great Gatsby corrected - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Accuracy here is not pedantry. A quotation is evidence, and evidence that has been altered cannot support the claim built on it. An essay that analyzes the rhythm of a sentence Fitzgerald did not write is analyzing nothing, and an examiner who knows the text will see the error before reading the argument. The broader family of interpretive mistakes readers make about the novel is treated at [everything students get wrong about the novel](/2022/06/20/great-gatsby-misreadings-corrected/); what follows is narrower and more checkable, dealing only with wording.
 

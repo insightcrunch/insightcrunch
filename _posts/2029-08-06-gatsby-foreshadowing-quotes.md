@@ -6,17 +6,17 @@ date: 2029-08-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Foreshadowing", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "Quotes that foreshadow Gatsby's death plant the ending from page one, with a table pairing every line to the event it anticipates and its effect on rereading."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-08-06
+lang: en
 ---
-
 Before the reader has met Gatsby, before the parties, before Daisy has spoken a word, Nick has already told us how the story ends. "what preyed on Gatsby, what foul dust floated in the wake of his dreams" is a sentence in the past tense about a man who has not yet appeared, and the verb "preyed" is not a metaphor a narrator uses about someone still alive. Four pages into the novel, the death has been announced. The rest of the book is a long explanation of a fact already delivered.
 
 That structure is unusual and it is the source of the novel's peculiar atmosphere. Most tragedies build dread through accumulation. This one begins at the end, states its outcome in coded language, and then spends nine chapters letting a reader forget what they were told. The forgetting is deliberate; Fitzgerald buries the announcement inside a paragraph about tolerance and family advice, where it reads as figurative colour. Only on a second reading does the sentence stand up and identify itself as a report.
 
-![Quotes that foreshadow Gatsby's death traced from the opening pages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Quotes that foreshadow Gatsby's death traced from the opening pages - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 What follows gathers the lines that plant the ending, pairs each with the event it anticipates, and describes what happens to it on a second reading. The organizing argument is that the foreshadowing in this novel operates in three distinct registers, and confusing them is why readers so often describe the effect as atmospheric when it is in fact structural.
 

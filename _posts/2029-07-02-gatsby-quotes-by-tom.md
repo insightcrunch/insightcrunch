@@ -6,17 +6,17 @@ date: 2029-07-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Tom Buchanan", "Close Reading", "Character Analysis", "Literary Criticism", "American Literature"]
 excerpt: "Key quotes said by Tom Buchanan, from his racial panic to his final self-defense, plus what every single line exposes about the entitlement behind it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2029-07-02
+lang: en
 ---
-
 The key quotes said by Tom Buchanan begin with a complaint about the state of the world. Six pages into the novel, over dinner, with no provocation beyond a remark about crops, he announces that "Civilization's going to pieces" and recommends a book that has taught him the white race will "be utterly submerged." Nick has known him for years and is still startled. The reader has been in Tom's house for ten minutes and already has everything needed to convict him.
 
 That speed is the point. Fitzgerald does not build Tom's brutality gradually or reveal it in a late twist. He hands Tom a mouth in chapter one and lets it work. Across nine chapters Tom talks himself into an indictment more complete than anything Nick could have narrated about him, and the finished portrait is assembled almost entirely from things Tom volunteers.
 
-![Key quotes said by Tom Buchanan analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Key quotes said by Tom Buchanan analyzed in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 This article curates the Tom quote set and reads it as a sequence rather than a scatter. The full character analysis, his arc, his function, and the case for and against reading him as a stock villain, is argued at [Tom Buchanan on power, race, and brutality](/2023/07/24/tom-buchanan-power-and-brutality/). What you get here is the language: which words he chooses, how his sentences are built, and what the construction reveals that the content alone does not.
 
