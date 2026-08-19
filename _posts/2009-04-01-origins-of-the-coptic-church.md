@@ -6,17 +6,17 @@ date: 2009-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Religion", "Medieval Egypt", "Historiography", "World History"]
 excerpt: "The Coptic Church holds one of the oldest apostolic claims in all of Christianity and an independence forged by a fifth-century split it never reversed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2009-04-01
+lang: en
 ---
-
 There is a church whose head bears the title Pope, whose patriarchal line claims descent from an apostle, whose liturgy is celebrated in a language descended from that of the pharaohs, and whose calendar counts its years from a Roman persecution. It is not in communion with Rome, not in communion with Constantinople, and it has held that position for more than fifteen hundred years without either abandoning it or being absorbed.
 
 The argument this article makes is the apostolic-and-independent thesis: the Coptic Orthodox Church combines one of the oldest apostolic claims in Christianity with an independence created by a single fifth-century decision it never reversed, and those two facts together explain almost everything distinctive about it. It is ancient in the way the great sees of Rome, Antioch, and Alexandria are ancient, and it is separate in a way none of them is, and the combination has no exact parallel.
 
-![The origins of the Coptic Orthodox Church of Alexandria - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The origins of the Coptic Orthodox Church of Alexandria - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 This article covers what the church is, where its claims come from, what it actually believes, how it is organized, and where it sits among the Christian communions. The society it emerged from is set out in the [complete guide to Coptic Egypt](/2009/03/01/coptic-egypt-complete-guide/), the arrival of Christianity in the country in the article on [how Christianity came to Egypt](/2008/08/01/how-christianity-came-to-egypt/), and the council that produced the separation in the article on [the Council of Chalcedon and the Egyptian church split](/2009/06/01/chalcedon-and-egypt-church-split/). What follows assumes those and concentrates on the institution itself.
 

@@ -6,17 +6,17 @@ date: 2008-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Archaeology", "Historiography", "Religion", "World History"]
 excerpt: "In Roman Egypt a person's legal category set their tax, and their tax set their life, which is why social status there was measured in poll-tax brackets."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2008-07-01
+lang: en
 ---
-
 A man in a village in the Fayum in the second century CE could tell you exactly what he was worth to the Roman state, because it was written down. He knew his legal category, he knew the annual poll tax attached to it, he knew what documents his family had lodged to prove that category, and he knew that his sons would inherit it. That knowledge structured almost everything else about his life: whether his children could attend the gymnasium, which court would hear his disputes, whether he could hold office, how much of his harvest he kept, and whom he could marry without losing what he had.
 
 The argument this article makes is the tax-defined-society thesis: in Roman Egypt legal category determined tax, tax determined opportunity, and status was therefore measured in poll-tax brackets rather than in the looser terms of wealth or ancestry that operated elsewhere. This was not a simple division between Roman rulers and Egyptian subjects. It was a graded ladder with several rungs between those extremes, each with its own rate, its own proofs, and its own advantages, and the space between the rungs is where most of the interesting social history of the province happens.
 
-![Daily life in Roman Egypt, class, work, family, and food reconstructed from the papyri - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Daily life in Roman Egypt, class, work, family, and food reconstructed from the papyri - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 This article can be written at all only because of an accident of climate. Papyrus survives in dry conditions, Egyptians wrote almost everything down, and the result is that this one province can be described at the level of individual households, wage rates, marriage contracts, school exercises, and family quarrels. That evidence base and its limits are the subject of the article on [what papyri reveal about Roman Egypt](/2008/12/01/papyri-of-roman-egypt/). The provincial structure within which all this operated is covered in the [complete guide to Roman Egypt](/2008/05/01/roman-egypt-complete-guide/), and the grain system that shaped rural obligation in the article on [Egypt as the breadbasket of Rome](/2008/06/01/egypt-breadbasket-of-rome/).
 

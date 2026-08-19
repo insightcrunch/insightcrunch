@@ -6,17 +6,17 @@ date: 2009-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Ancient Egypt", "Historiography", "World History"]
 excerpt: "The Ptolemies lived in Egypt and spent its surplus there, while Rome ruled from abroad and shipped the surplus out, and that difference shaped all others."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2009-02-01
+lang: en
 ---
-
 Egypt spent nine centuries under foreign rule between the arrival of Alexander and the arrival of the Arab armies, and for the whole of that period the people governing it came from somewhere else. That fact makes it easy to treat the Ptolemaic and Roman periods as a single condition of subjection, differing only in the accents of the men at the top. They were not the same condition, and the difference is sharper and more consequential than almost any other comparison this series makes.
 
 The verdict defended here is the resident-versus-absentee conclusion: the decisive difference between the two systems was physical presence. The Ptolemies lived in Egypt, were crowned in Egypt, died in Egypt, and spent Egypt's surplus in Egypt, because they had nowhere else to spend it. Rome governed through a removable official answering to a man two thousand kilometres away, and shipped the surplus out. Almost every other difference between the two systems, in taxation, in status, in religion, in building, and in autonomy, follows from that single structural fact.
 
-![Roman versus Ptolemaic rule in Egypt compared across taxation, status, and religion - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Roman versus Ptolemaic rule in Egypt compared across taxation, status, and religion - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 This article compares rather than describes, and it assumes the two systems are known in outline. Readers who want either set out in full will find them in the [complete guide to Ptolemaic Egypt](/2007/07/01/ptolemaic-egypt-complete-guide/) and the [complete guide to Roman Egypt](/2008/05/01/roman-egypt-complete-guide/). The transition between them is covered in the article on [how Egypt fell to the Roman Empire](/2008/04/01/how-egypt-fell-to-rome/), and the extraction that defined the later period in the article on [Egypt as the breadbasket of Rome](/2008/06/01/egypt-breadbasket-of-rome/).
 

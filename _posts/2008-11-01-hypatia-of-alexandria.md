@@ -6,17 +6,17 @@ date: 2008-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Alexandria", "Biography", "Religion", "Historiography"]
 excerpt: "Hypatia was killed in 415 as a casualty of a factional power struggle in Alexandria, and the tidy science-versus-religion story came centuries afterward."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-11-01
+lang: en
 ---
-
 In March 415 CE a woman in her fifties or sixties, the most respected teacher of philosophy in Alexandria and an adviser to the city's senior Roman official, was pulled from her carriage in the street by a crowd, dragged into a church, and killed. Nothing she wrote survives. Almost everything the modern world believes about her was invented between the eighteenth century and the twentieth, and much of it is demonstrably false.
 
 The argument this article makes is the politics-not-just-faith thesis: Hypatia was killed as a casualty of a factional power struggle between the imperial prefect and the bishop of Alexandria, in a city with a long history of mob violence, and the familiar story of a martyr for science murdered by religion is a later construction that misdescribes both the killing and its consequences. That is not a defence of anyone. It is a claim about causation, and it matters because the popular version has replaced a documented political crisis with a morality tale.
 
-![Hypatia of Alexandria, the philosopher, her murder in 415, and the legend that followed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hypatia of Alexandria, the philosopher, her murder in 415, and the legend that followed - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 Two clarifications belong at the start. The first is that the murder was appalling by the standards of its own time and was recognized as such: the closest surviving source, a Christian writer, says plainly that the deed brought great disgrace on Cyril and on the church of Alexandria. Nothing in this article softens that. The second is that the historical Hypatia is recoverable in outline and not in detail, and the gap between what can be established and what is confidently asserted about her is enormous.
 

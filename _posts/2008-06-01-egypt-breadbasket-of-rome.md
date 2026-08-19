@@ -6,17 +6,17 @@ date: 2008-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Alexandria", "Archaeology", "Historiography", "World History"]
 excerpt: "Egyptian grain was not a commodity that Rome bought but a tax that Rome collected, and whoever controlled the shipments held a lever on the capital itself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2008-06-01
+lang: en
 ---
-
 Every year, for six centuries, an enormous quantity of wheat grown by Egyptian peasants on land flooded by a river rising in the Ethiopian highlands was assessed by Greek-speaking scribes, collected by villagers who were personally liable for any shortfall, carried by donkey to a river harbour, shipped down the Nile under seal, transferred at Alexandria into the largest merchant vessels the ancient world built, and sailed across the Mediterranean to feed a city that the men who grew it would never see. That operation is what the phrase breadbasket of Rome describes, and it was not a trade relationship.
 
 The argument this article makes is the grain-is-power thesis: Egyptian grain was a tax rather than an export, and its function was political before it was economic. It fed a population at Rome whose bread was an entitlement rather than a purchase, which meant that any interruption broke a promise between the emperor and the city. Whoever controlled the shipments therefore held a lever on the stability of the imperial capital, and every peculiar feature of Egypt's government, examined in the [complete guide to Roman Egypt](/2008/05/01/roman-egypt-complete-guide/), was built around denying that lever to anyone but the emperor himself.
 
-![The grain economy of Roman Egypt, from the Nile harvest to the warehouses of Rome - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The grain economy of Roman Egypt, from the Nile harvest to the warehouses of Rome - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 This article follows the grain from the field to the warehouse and states honestly what can and cannot be quantified. The wider provincial structure belongs to the guide linked above. The conquest that created the arrangement is covered in the article on [how Egypt fell to the Roman Empire](/2008/04/01/how-egypt-fell-to-rome/), and the population that carried the burden is the subject of the article on [daily life in Roman Egypt](/2008/07/01/daily-life-in-roman-egypt/). The much older Egyptian tradition of imperial extraction, from a period when Egypt collected tribute rather than paying it, is treated in the article on [gold, tribute, and the Egyptian empire](/2003/12/01/gold-tribute-egyptian-empire/).
 

@@ -6,17 +6,17 @@ date: 2008-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Archaeology", "Historiography", "World History"]
 excerpt: "Egypt's discarded paperwork, thrown on rubbish mounds and preserved by dryness, is the richest surviving record of ordinary life in the ancient world."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-12-01
+lang: en
 ---
-
 Almost everything known about the ancient world comes from two kinds of source: monuments, which record what powerful people wanted remembered, and literature, which records what a tiny educated minority thought worth writing down and what later generations chose to keep copying. Both are severe filters. The result is a picture of antiquity in which emperors, generals, philosophers, and architects are visible and the overwhelming majority of human beings who actually lived are not.
 
 Egypt is the exception, and the reason is rubbish. The argument this article makes is the rubbish-heap-archive thesis: the discarded paperwork of Roman Egypt, thrown onto village mounds, stuffed into mummy casings, and abandoned in collapsing houses, and preserved by nothing more than dryness, constitutes the richest surviving record of ordinary ancient life anywhere in the Roman world. It survived because nobody valued it, and it tells us things no monument was ever going to record.
 
-![Papyri of Roman Egypt, the documents recovered from ancient rubbish mounds - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Papyri of Roman Egypt, the documents recovered from ancient rubbish mounds - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This article covers the material, the finds, the discipline that reads them, and the limits of the whole body of evidence. The province they document is set out in the [complete guide to Roman Egypt](/2008/05/01/roman-egypt-complete-guide/), and what they show about ordinary lives in the article on [daily life in Roman Egypt](/2008/07/01/daily-life-in-roman-egypt/). The wider question of how any period without written sources can be known at all is treated in the article on [how we know about predynastic Egypt](/2000/09/01/how-we-know-about-predynastic-egypt/), which is the same problem approached from the opposite end.
 

@@ -8,10 +8,10 @@ tags: ["Egyptian History", "Ancient Egypt", "Religion", "Alexandria", "Historiog
 excerpt: "Christianity reached Egypt early and left almost no first-century trace, then persecution forged a church that defined itself by its martyrs for good."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-08-01
+lang: en
 ---
-
 Somewhere in the first century of the common era, Christianity arrived in Egypt. Within three hundred years the country had gone from a place where a Christian was an oddity to one where Christians were the majority, where the desert had filled with monks, and where the bishop of Alexandria was among the most powerful men in the Roman world. That transformation is one of the fastest and most complete religious changes in recorded history, and the strangest thing about it is how little evidence survives from its first two centuries.
 
 The argument this article makes is the martyr-forged-church thesis: Egyptian Christianity was shaped decisively by persecution, and the church that emerged defined itself around its martyrs to a degree unmatched anywhere else in the Christian world. That identity outlasted the empire that produced it. It is written into the Egyptian church's own calendar, which begins its era not from the birth of Christ but from the accession of the emperor whose persecution was the worst Egypt endured, and it survived Chalcedon, the Arab conquest, and everything that followed.

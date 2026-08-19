@@ -6,17 +6,17 @@ date: 2009-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Religion", "Archaeology", "Historiography", "World History"]
 excerpt: "Coptic Egypt is where the ancient country survived its own ending, carrying its language and identity forward after the temples and hieroglyphs had gone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2009-03-01
+lang: en
 ---
-
 The standard account of Egyptian history has an ending. The pharaohs stop, the temples close, the hieroglyphs fall silent, and the country becomes a province of somebody else's empire until the Arab conquest opens a different story. That account is wrong in a specific and important way, and correcting it is the purpose of this guide.
 
 The argument advanced here is the unbroken-thread thesis: the Copts are the living continuation of ancient Egypt, and they carried its language and its identity forward through Christianity at precisely the moment when everything else that had defined pharaonic civilization was disappearing. The Coptic language is not a language related to ancient Egyptian; it is ancient Egyptian, in its final written stage, using a different alphabet. The word Copt does not mean Christian; it means Egyptian, and it travelled from Greek into Arabic and back into European usage while keeping that meaning throughout.
 
-![Coptic Egypt explained, the Christian centuries between the pharaohs and the Arab conquest - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Coptic Egypt explained, the Christian centuries between the pharaohs and the Arab conquest - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 This article is the hub for the Coptic cluster and it handles orientation. The church's institutional history belongs to the article on [the origins of the Coptic church](/2009/04/01/origins-of-the-coptic-church/), the language to the article on [the Coptic language and its history](/2009/07/01/coptic-language-and-its-history/), the doctrinal split to the article on [the Council of Chalcedon and Egypt](/2009/06/01/chalcedon-and-egypt-church-split/), and the monastic movement to the article on [the rise of Egyptian monasticism](/2009/01/01/rise-of-egyptian-monasticism/). The imperial context that preceded it is set out in the [complete guide to Roman Egypt](/2008/05/01/roman-egypt-complete-guide/) and the conquest that closed it in the [complete guide to the Arab conquest of Egypt](/2010/01/01/arab-conquest-of-egypt/).
 

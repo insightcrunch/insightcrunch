@@ -6,17 +6,17 @@ date: 2008-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Warfare", "Religion", "Historiography", "World History"]
 excerpt: "Roman Egypt was never the quiet province of the textbooks, and the pressure that produced its many risings was the same extraction that fed the capital."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2008-09-01
+lang: en
 ---
-
 The standard picture of Roman Egypt is a province that produced grain and paperwork and made no trouble. It is wrong. Across six centuries the country saw a revolt in the far south within the first year of the annexation, communal massacres in its greatest city, a Jewish rising so destructive that it effectively erased one of the largest Jewish communities in the world, a rebellion of Delta herdsmen that defeated Roman troops and threatened Alexandria, a governor who declared himself emperor, an occupation by a foreign power, and two imperial sieges of the provincial capital that wrecked its ancient centre.
 
 The argument this article makes is the taxed-to-revolt thesis, stated carefully: the extraction that made Egypt Rome's granary was the standing condition that turned local grievances into risings, and the province's unrest is unintelligible without it. That thesis has to be qualified rather than asserted, because the single largest rebellion of the period had a religious and communal cause rather than a fiscal one, and an honest treatment says so. What the fiscal pressure supplied was the background: a population with no margin, a class of local men personally liable for other people's taxes, and a state whose only reliable response to shortfall was force.
 
-![The revolts of Roman Egypt, from the Diaspora Revolt to the Palmyrene occupation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The revolts of Roman Egypt, from the Diaspora Revolt to the Palmyrene occupation - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 This article covers the risings themselves. The provincial structure that generated the pressure is set out in the [complete guide to Roman Egypt](/2008/05/01/roman-egypt-complete-guide/), the extraction system in the article on [Egypt as the breadbasket of Rome](/2008/06/01/egypt-breadbasket-of-rome/), and the burdened population in the article on [daily life in Roman Egypt](/2008/07/01/daily-life-in-roman-egypt/). What is answered here is what happened, who rose, why, how Rome responded, and why none of it ever produced an independent Egypt.
 

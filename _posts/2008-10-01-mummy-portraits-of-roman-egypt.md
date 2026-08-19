@@ -6,17 +6,17 @@ date: 2008-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Archaeology", "Historiography", "Religion", "World History"]
 excerpt: "The Fayum mummy portraits set a naturalistic Greco-Roman painted face onto a fully Egyptian mummified body, which is Roman Egypt made visible in one object."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2008-10-01
+lang: en
 ---
-
 A woman looks out from a thin wooden panel with dark eyes, gold earrings, and a slight asymmetry in her mouth. She was painted in Egypt sometime in the second century of the common era, in coloured wax, by an artist working in a Greek tradition of naturalistic portraiture. The panel was then cut to shape and bound into the wrappings of her mummified body, prepared by embalmers using methods that had been in use along the Nile for three thousand years. Her face is Roman. Her body is pharaonic. She is the same person.
 
 That combination is the subject of this article and it is the argument. The claim defended here is the two-worlds-in-one-face thesis: the Fayum portraits are not Egyptian art with Roman influence, nor Roman art in an Egyptian setting, but the precise point at which two entirely different systems of dealing with death met and were made to work together. Each panel is a small piece of evidence about a fused society, and the fusion is not a stylistic flourish. It is structural, and it runs from the wood of the panel to the theology behind the burial.
 
-![Fayum mummy portraits of Roman Egypt, painted panels on mummified bodies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fayum mummy portraits of Roman Egypt, painted panels on mummified bodies - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The society these people lived in is set out in the [complete guide to Roman Egypt](/2008/05/01/roman-egypt-complete-guide/), and the ordinary lives behind the faces in the article on [daily life in Roman Egypt](/2008/07/01/daily-life-in-roman-egypt/). The funerary tradition the portraits belong to, running back to the pyramid age, is the subject of the article on [pyramids, death, and the Egyptian afterlife](/2001/05/01/pyramids-death-and-the-afterlife/). What follows is the portraits themselves: how they were made, who is in them, when, where, and what they can and cannot tell us.
 

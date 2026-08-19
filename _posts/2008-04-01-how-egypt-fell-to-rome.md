@@ -6,17 +6,17 @@ date: 2008-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Ancient Egypt", "Pharaohs", "Warfare", "World History"]
 excerpt: "Egypt fell to Rome in 30 BCE not because a queen died but because Octavian needed its grain and its treasure, and three thousand years of pharaohs ended."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2008-04-01
+lang: en
 ---
-
 On the first of August in 30 BCE, a Roman army entered Alexandria without a serious fight, because the fleet and cavalry that were supposed to defend it changed sides that morning. Within two weeks Mark Antony was dead, Cleopatra VII was dead, her eldest son had been hunted down and killed, and Egypt had stopped being a kingdom. Three thousand years of pharaonic rule, running from the unification of the Two Lands through thirty-odd dynasties, two Persian occupations, and three centuries of Macedonian kings, ended in a fortnight.
 
 The argument this article makes is the end-of-the-pharaohs thesis: 30 BCE is a genuine historical ending rather than a change of management, and the reason is not that a queen died but that Rome converted a sovereign state into an administrative unit whose surplus was shipped elsewhere. Egypt had been conquered before and had absorbed its conquerors. This time the institution of independent Egyptian kingship was not absorbed but dissolved, and the country spent the following six centuries as a province supplying grain to a city on the Tiber.
 
-![How Egypt fell to the Roman Empire in 30 BCE, from Actium to annexation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Egypt fell to the Roman Empire in 30 BCE, from Actium to annexation - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The popular account concentrates almost entirely on the last two weeks and on the manner of one woman's death, which is exactly the wrong emphasis. The decisive events were a naval blockade in Greece the previous year, a two-pronged invasion executed with unhurried competence, and a constitutional decision taken afterward in Rome about who would control the richest territory in the Mediterranean. This article covers those. The alliances that led here, including the campaign and battle at Actium, belong to the article on [Cleopatra, Caesar, and Mark Antony](/2007/12/01/cleopatra-caesar-and-antony/). The queen herself is the subject of the profile of [Cleopatra VII, the last pharaoh of Egypt](/2007/11/01/cleopatra-last-pharaoh-of-egypt/), and the legend that has displaced the politics is dismantled in the article on [the real Cleopatra versus the legend](/2008/03/01/real-cleopatra-vs-the-legend/). What follows is the fall itself and what it produced.
 

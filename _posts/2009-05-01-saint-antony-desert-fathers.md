@@ -6,17 +6,17 @@ date: 2009-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Religion", "Biography", "Historiography", "World History"]
 excerpt: "Antony did not invent the hermit life, and he became its model because a bishop wrote a book about him that the whole Latin world then read and copied."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2009-05-01
+lang: en
 ---
-
 Around the year 270 CE, a young man in a village in Middle Egypt walked into a church, heard a passage of the gospel read aloud, and understood it as an instruction addressed personally to him. He sold the land he had inherited, arranged for his sister, and went to live at the edge of the settlement under the guidance of an old ascetic. Nothing about that decision was unprecedented. Within a century it had produced an institution that still exists on every continent.
 
 The argument this article makes is the father-of-monks thesis: Antony turned a private religious choice into a movement, not primarily by innovating but by going further, staying longer, and becoming the example that a bishop's biography then carried across the Roman world. His importance is real and it is not the importance usually attributed to him, and separating the two is the work this article does.
 
-![Saint Antony and the Desert Fathers, the hermits of Nitria, Kellia, and Scetis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Saint Antony and the Desert Fathers, the hermits of Nitria, Kellia, and Scetis - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The wider movement, its three forms, its economics, and its transmission to Europe are covered in the article on [the rise of Egyptian monasticism](/2009/01/01/rise-of-egyptian-monasticism/). The Christian society it belonged to is set out in the [complete guide to Coptic Egypt](/2009/03/01/coptic-egypt-complete-guide/), and the buildings that grew from these settlements in the article on [Egypt's ancient monasteries](/2009/08/01/egypt-ancient-monasteries/). This article handles the man, the text that made him, the fathers and mothers of the desert settlements, and the body of counsel they left behind.
 

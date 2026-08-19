@@ -6,17 +6,17 @@ date: 2008-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ancient Egypt", "Alexandria", "Religion", "Historiography", "World History"]
 excerpt: "Roman Egypt was governed unlike any other province in the empire because whoever held its grain could starve Rome, so the emperor kept it on a short leash."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2008-05-01
+lang: en
 ---
-
 Rome ruled Egypt for longer than the pharaohs of the New Kingdom ruled it, longer than the Ptolemies ruled it, and longer than any single Islamic dynasty would rule it afterward. From the annexation in 30 BCE to the completion of the Arab conquest in the early 640s CE is roughly six hundred and seventy years, and for most of that time Egypt was the wealthiest and most tightly controlled possession the Roman state held. Yet the period is routinely skipped, treated as a long grey corridor between Cleopatra and the pyramids of the tourist imagination on one side and Islamic Cairo on the other.
 
 The argument this guide makes is the emperor's-private-granary thesis: Rome governed Egypt with a tightness applied nowhere else in the empire because whoever controlled Egyptian grain could starve the city of Rome, and the entire constitutional apparatus of the province, from the rank of its governor to the legal exclusion of the senatorial class, was designed around that single vulnerability. Egypt was not administered as a province in the ordinary sense. It was held.
 
-![Roman Egypt explained, the prefect, the grain, the tax classes, and Alexandria - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Roman Egypt explained, the prefect, the grain, the tax classes, and Alexandria - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 This article is the hub for the Roman period and it deliberately handles orientation rather than detail. The grain economy that defined the province is the subject of the article on [Egypt as the breadbasket of Rome](/2008/06/01/egypt-breadbasket-of-rome/). Ordinary life is covered in the article on [daily life in Roman Egypt](/2008/07/01/daily-life-in-roman-egypt/). The arrival and spread of Christianity belong to the article on [how Christianity came to Egypt](/2008/08/01/how-christianity-came-to-egypt/), and the province's rebellions to the article on [the revolts of Roman Egypt](/2008/09/01/revolts-of-roman-egypt/). The conquest that began it all is treated in the article on [how Egypt fell to the Roman Empire](/2008/04/01/how-egypt-fell-to-rome/), and the Christian society that emerged from it in the [complete guide to Coptic Egypt](/2009/03/01/coptic-egypt-complete-guide/). What follows is the frame those articles hang on: when Roman Egypt existed, how it was governed, who held power, how society was sorted, and how the whole arrangement ended.
 

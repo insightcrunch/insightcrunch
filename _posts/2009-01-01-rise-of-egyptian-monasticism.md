@@ -8,10 +8,10 @@ tags: ["Egyptian History", "Ancient Egypt", "Religion", "Biography", "Historiogr
 excerpt: "Christian monasticism was invented in the Egyptian desert between 270 and 348, and the monasteries of medieval Europe descend directly from what began there."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2009-01-01
+lang: en
 ---
-
 Every monastery in Europe, every rule governing communal religious life, every hermit's cell in Ireland or Greece or Russia, and every tradition of organized withdrawal from the world in Christian history descends from a set of experiments conducted in the deserts of Egypt between roughly 270 and 350 CE. That is not a poetic overstatement. The chain of transmission can be traced text by text and person by person, and it runs from a Coptic-speaking peasant in Middle Egypt to the abbeys that organized medieval European agriculture, learning, and worship for a thousand years.
 
 The argument this article makes is the desert-invented-the-monastery thesis: Egypt produced both principal forms of Christian monastic life, the solitary hermit and the organized community, within a single generation, and everything later is elaboration or adaptation of those two inventions. The counter-assumption, that monasticism is a medieval European institution, gets the direction of influence exactly backwards.

@@ -6,17 +6,17 @@ date: 2009-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Religion", "Medieval Egypt", "Historiography", "World History"]
 excerpt: "A dispute over how to describe Christ in 451 separated Egypt from the imperial church and shaped the whole country for the two centuries that followed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2009-06-01
+lang: en
 ---
-
 In October 451 several hundred bishops assembled in a church across the water from Constantinople and spent three weeks arguing about a preposition. The question was whether Christ should be described as existing in two natures or from two natures, and to almost every reader since it has looked like the kind of dispute that only professionals could care about. The Egyptian church cared enough to refuse the answer, and it has not accepted it in the fifteen centuries since.
 
 The argument this article makes is the schism-that-shaped-Egypt thesis: the Council of Chalcedon did far more than divide a church. It produced an institution commanding the loyalty of most Egyptians and standing permanently outside the imperial state, it committed the Byzantine government to two centuries of coercion that failed, and it left a country that had been the empire's most valuable province estranged from the government that held it. That estrangement is a genuine historical force, and its consequences ran to the arrival of Arab armies in 639.
 
-![The Council of Chalcedon in 451 and the split of the Egyptian church - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Council of Chalcedon in 451 and the split of the Egyptian church - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 This article covers the council, the doctrinal question, the Egyptian refusal, the two centuries of attempted reunion, and the political consequences. The church that emerged is described in the article on [the origins of the Coptic church](/2009/04/01/origins-of-the-coptic-church/), the society it belonged to in the [complete guide to Coptic Egypt](/2009/03/01/coptic-egypt-complete-guide/), and the conquest that ended Byzantine rule in the [complete guide to the Arab conquest of Egypt](/2010/01/01/arab-conquest-of-egypt/).
 

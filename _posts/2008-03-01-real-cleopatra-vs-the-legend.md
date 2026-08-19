@@ -6,17 +6,17 @@ date: 2008-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ptolemaic Egypt", "Cleopatra", "Ancient Egypt", "Historiography", "World History"]
 excerpt: "The seductress Cleopatra is largely a creation of Roman propaganda and later entertainment, and the surviving record describes a shrewd ruler instead."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2008-03-01
+lang: en
 ---
-
 Almost everything the average person believes about Cleopatra VII can be traced to people who wanted her destroyed or to people who wanted to sell tickets. That is not a rhetorical opening; it is a statement about sourcing that this article defends with named evidence. The seductive beauty who ruined two Roman generals and died of a snakebite in a fit of theatrical passion is a construction, assembled first by the propaganda apparatus of the man who defeated her, elaborated by a moralizing biographer a century and a half later, dramatized on the English stage in the seventeenth century, and finally industrialized by twentieth-century cinema.
 
 The verdict this article defends is the propaganda-made-the-myth conclusion: the seductress Cleopatra is largely a creation of Roman political messaging and later entertainment, and it has obscured a capable administrator who held a bankrupt, Roman-dominated kingdom together for twenty-one years. That verdict is not a modern rehabilitation project driven by present-day sympathies. It follows from putting the documentary evidence produced during her reign next to the literary evidence produced after her defeat and noticing that they describe different people.
 
-![The real Cleopatra versus the legend, separating the record from Roman propaganda - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The real Cleopatra versus the legend, separating the record from Roman propaganda - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This article is the debate treatment and it deliberately does not re-tell her life. The historical queen, her ancestry, her accession, her administration, her coinage reforms, her Egyptian religious policy, her children, and her death are covered in the profile of [Cleopatra VII, the last pharaoh of Egypt](/2007/11/01/cleopatra-last-pharaoh-of-egypt/). Her partnerships with Julius Caesar and Mark Antony, treated as the strategic alliances they were, belong to the article on [Cleopatra, Caesar, and Mark Antony](/2007/12/01/cleopatra-caesar-and-antony/). What is answered here is a different set of questions: where the legend came from, why it stuck, what the evidence actually supports about her appearance, how the modern debates about her ancestry and portrayal should be handled, and why she is more famous than any other ruler of Egypt except Tutankhamun.
 
