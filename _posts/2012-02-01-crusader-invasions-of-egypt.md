@@ -6,17 +6,17 @@ date: 2012-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Crusades", "Warfare", "Ayyubid", "World History"]
 excerpt: "Three times the crusaders landed in the Delta, took the same port and advanced up the same river, and three times the flood and the ground destroyed them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2012-02-01
+lang: en
 ---
-
 In 1219 a crusader army held the port of Damietta at the mouth of the eastern branch of the Nile, and the sultan of Egypt offered to hand over Jerusalem, the True Cross and a long truce in exchange for its return. The offer was refused. Two years later the same army was trapped between rising water and a Muslim force, and surrendered the city it had spent eighteen months taking, having achieved nothing.
 
 The claim this article defends is the Egypt is the key thesis: that crusader strategists understood Egypt to be the strategic key to the Holy Land, that they acted on that understanding repeatedly, and that the fate of the crusading movement was therefore decided on the Nile as much as in Palestine.
 
-![The crusader invasions of Egypt explained, covering the sieges of Damietta, the defeat at Mansurah and the capture of Louis the Ninth - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The crusader invasions of Egypt explained, covering the sieges of Damietta, the defeat at Mansurah and the capture of Louis the Ninth - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The assumption this corrects is that the crusades were fought in Palestine. Two of the seven numbered expeditions were directed at Egypt from the outset, the earlier attacks of the 1160s were as well, and the greatest single crusader disaster of the whole movement happened in the Delta rather than anywhere near Jerusalem.
 

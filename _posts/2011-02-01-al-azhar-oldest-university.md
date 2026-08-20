@@ -6,17 +6,17 @@ date: 2011-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Education", "Monuments", "Historiography", "World History"]
 excerpt: "Founded around 970 as a Shia mosque for a rival caliphate, al-Azhar became the foremost school of the Sunni world, reversing its own founding purpose."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-02-01
+lang: en
 ---
-
 An institution founded to propagate a doctrine became, within two centuries, the world's leading centre for teaching the opposite of that doctrine. It has continued in that second role for eight hundred years, considerably longer than it held the first, and almost nobody who encounters it now is aware of the reversal.
 
 That inversion is the subject of this article, and the claim it defends is the mosque that became a university thesis: that al-Azhar's history runs against its own founding purpose, that this reversal is the most interesting thing about it, and that understanding why an institution can be captured and repurposed explains more than any account of its continuity.
 
-![Al-Azhar explained, from its founding around 970 as a Fatimid Shia mosque to its role as the foremost school of the Sunni world - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Al-Azhar explained, from its founding around 970 as a Fatimid Shia mosque to its role as the foremost school of the Sunni world - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The popular framing gets in the way. Al-Azhar is routinely introduced as the oldest university in the world, a claim that is contested on several grounds and that flattens the institution into a record holder. The record is arguable; the reversal is not, and it is the better story.
 

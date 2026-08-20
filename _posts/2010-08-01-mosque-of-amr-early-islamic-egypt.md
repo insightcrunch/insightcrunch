@@ -6,17 +6,17 @@ date: 2010-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Architecture", "Monuments", "Historiography", "World History"]
 excerpt: "The first mosque in Egypt and Africa has been rebuilt so often that almost nothing original survives, yet its significance rests on that unbroken lineage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-08-01
+lang: en
 ---
-
 A visitor standing in the great courtyard of the Mosque of Amr is standing in the place where the first mosque in Egypt was built, and is looking at almost nothing that was there. The columns came from Roman and Byzantine buildings. The arcades were laid out in the ninth century. Most of the fabric visible is nineteenth century work. The original structure, a modest hall of mud brick and palm trunks smaller than a suburban house, was demolished within a generation of its founder's death.
 
 That gap between the site's importance and the building's age is the subject of this article, and the claim it defends is the first mosque many times thesis: that the Mosque of Amr matters as a continuously used sacred site rather than as an original building, and that its significance is its lineage rather than its stones.
 
-![The Mosque of Amr explained, from its founding around 641 to its many rebuildings as Egypt's first mosque - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Mosque of Amr explained, from its founding around 641 to its many rebuildings as Egypt's first mosque - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 This is a harder idea than it sounds, because the instinct of most visitors and many guidebooks is to treat age as residing in fabric. A building is old if its stones are old. By that measure the Mosque of Amr is a nineteenth century structure with earlier elements, and calling it the first mosque in Egypt is close to a fiction.
 

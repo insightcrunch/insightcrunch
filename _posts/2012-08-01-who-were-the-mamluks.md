@@ -6,17 +6,17 @@ date: 2012-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Mamluk", "Society", "Slavery", "World History"]
 excerpt: "Boys bought from the steppe and the Caucasus became the ruling caste of Egypt, and the system deliberately prevented any of them from passing it to a son."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2012-08-01
+lang: en
 ---
-
 A boy of perhaps ten or twelve was bought in a market north of the Black Sea, shipped to Egypt, converted to Islam, taught Arabic, given a decade of training in horsemanship and archery, freed by the man who had purchased him, and enrolled in the cavalry that ruled the richest state in the Islamic world. If he was able and lucky he might command an army or become sultan. His own son, born free and Muslim in Cairo, was barred from the caste entirely and would have to find something else to do.
 
 The claim this article defends is the renewed from the market thesis: that the Mamluks were an elite deliberately constructed so that it could not become a hereditary nobility, and that the whole system therefore had to rebuild itself from imported slaves in every generation.
 
-![Who the Mamluks were, showing the recruitment, conversion, barracks training and manumission that produced Egypt's ruling caste - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Who the Mamluks were, showing the recruitment, conversion, barracks training and manumission that produced Egypt's ruling caste - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The assumption this corrects is that they were a normal aristocracy. They were not. A hereditary nobility passes land, rank and standing to its children, and this one passed none of the three, which is the single most unusual feature of the arrangement and the thing that makes it worth an article of its own.
 

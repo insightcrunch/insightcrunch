@@ -6,17 +6,17 @@ date: 2012-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Mamluk", "Biography", "Warfare", "World History"]
 excerpt: "The Mamluk sultanate began in 1250, and the ruler who actually made it work arrived a decade later by murdering the man who had won its greatest victory."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-10-01
+lang: en
 ---
-
 Six weeks after the Mamluk army stopped the Mongol advance in Galilee, the sultan who had commanded it was killed on a hunting expedition by the officer who had led his vanguard. That officer took the sultanate, held it for seventeen years, and turned a regime that had murdered its way through five rulers in a decade into a state that lasted two and a half centuries.
 
 The claim this article defends is the real founder thesis: that although the Mamluk sultanate is conventionally dated from 1250, the ruler who converted a military coup into a functioning state was Baybars, and the institutions, the frontiers and the administrative machinery of the whole period are substantially his.
 
-![Sultan Baybars explained, showing his rise after Ayn Jalut, his campaigns against Mongols and crusaders and the institutions he built - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sultan Baybars explained, showing his rise after Ayn Jalut, his campaigns against Mongols and crusaders and the institutions he built - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The reduction this corrects is treating him as the hero of one battle. The article on [the Battle of Ayn Jalut](/2012/09/01/battle-of-ayn-jalut-mongols/) owns that engagement, and this article's argument is that what he did in the seventeen years afterward matters considerably more than what he did on one afternoon in 1260.
 

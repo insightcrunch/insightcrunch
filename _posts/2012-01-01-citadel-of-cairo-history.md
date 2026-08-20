@@ -6,17 +6,17 @@ date: 2012-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Architecture", "Ayyubid", "Mamluk", "World History"]
 excerpt: "Begun around 1176 on the hills east of Cairo, the Citadel housed the government of Egypt for roughly seven centuries and holds the whole span in its walls."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2012-01-01
+lang: en
 ---
-
 A visitor standing on the western terrace of the Citadel of Cairo is looking at the city from the exact spot where every Egyptian government stood for roughly seven hundred years. Ayyubid sultans, Mamluk amirs, Ottoman governors and a nineteenth century ruler who remade the country all conducted the business of Egypt from this rock, and every one of them rebuilt part of it.
 
 The claim this article defends is the seven century seat thesis: that the Citadel matters not as a single building but as the fortified centre of Egyptian power across seven centuries, which means its walls contain the entire span of medieval and early modern Egypt rather than one moment of it.
 
-![The Citadel of Cairo explained, showing the fortress begun around 1176 on the Muqattam hills that housed Egypt's government for seven centuries - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Citadel of Cairo explained, showing the fortress begun around 1176 on the Muqattam hills that housed Egypt's government for seven centuries - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The error this corrects is treating it as a monument of one era. Guidebooks tend to attribute it to its founder, photographs tend to show the great nineteenth century mosque that dominates the skyline, and both descriptions capture a fraction of a complex that was continuously demolished, extended and reordered for six hundred and fifty years.
 

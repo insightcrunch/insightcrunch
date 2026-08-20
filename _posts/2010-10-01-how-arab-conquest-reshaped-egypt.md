@@ -6,17 +6,17 @@ date: 2010-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Legacy", "Historiography", "Society", "World History"]
 excerpt: "The conquest gave Egypt a new religion, a new language and a new capital, while the river, the fields and the working year continued exactly as before."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-10-01
+lang: en
 ---
-
 A farmer in Upper Egypt in the year 900 spoke a different language from his great great grandfather, was more likely to follow a different religion, paid his taxes to a government in a city that had not existed three centuries earlier, and belonged to a world whose centre of gravity lay east rather than north. He also planted after the same flood, in the same fields, on the same schedule, using the same tools, and measured his year by the same river.
 
 That combination is the subject of this article, and the claim it defends is the new world same river thesis: that the conquest transformed Egypt's religion, language, capital and place in the world while leaving the physical and economic foundations of Egyptian life essentially untouched, so the transformation was profound without being total.
 
-![How the Arab conquest reshaped Egypt, showing what changed in religion, language and capital and what the river kept the same - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Arab conquest reshaped Egypt, showing what changed in religion, language and capital and what the river kept the same - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 Two opposite errors are common and this article rejects both. The first holds that the conquest erased ancient Egypt, replacing a civilization with a foreign one. The second holds that little really changed, that a new set of rulers arrived and life carried on. Neither survives contact with the evidence, and the interesting work lies in specifying exactly which layers moved and which did not.
 

@@ -6,17 +6,17 @@ date: 2012-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Comparison", "Historiography", "Crusades", "World History"]
 excerpt: "Two traditions romanticized him and both had reasons, so the honest verdict finds a genuine core of magnanimity underneath several centuries of polish."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2012-05-01
+lang: en
 ---
-
 In the same week of July 1187 the same man gave a cup of iced water to a captured king, told him he had nothing to fear, and then personally executed the lord standing beside him. Both acts are recorded by the same sources, both were witnessed, and any account that reports one without the other is not describing what happened.
 
 The claim this article defends is the genuinely noble but mythologized verdict: that he really was unusually magnanimous by the standards of his own century, that both Muslim and European traditions then polished that genuine core for their own reasons, and that the legend therefore rests on something true rather than on nothing.
 
-![Saladin hero or conqueror, weighing the legend of chivalry against the record of executions and campaigns - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Saladin hero or conqueror, weighing the legend of chivalry against the record of executions and campaigns - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The two positions this article steers between are both common and both lazy. The flawless hero requires ignoring the executions after Hattin, the enslavement of those who could not pay at Jerusalem and a decade of campaigning against fellow Muslims. The cynical debunking requires ignoring that his enemies wrote the most favourable testimony available, which is the strongest kind of evidence a reputation can have.
 

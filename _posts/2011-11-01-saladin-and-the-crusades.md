@@ -6,17 +6,17 @@ date: 2011-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Crusades", "Warfare", "Ayyubid", "World History"]
 excerpt: "One battle in 1187 destroyed a kingdom, and the surrender terms that followed shocked an enemy who had taken the same city by storm eighty eight years before."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-11-01
+lang: en
 ---
-
 On a hot July day in 1187 a crusader army marched away from its water supply toward a village on a ridge, and by evening the kingdom of Jerusalem had effectively ceased to exist. Three months later the city itself surrendered, and its Christian population was allowed to leave on payment of a ransom, which is not what had happened when the crusaders took it in 1099.
 
 The claim this article defends is the victory with restraint thesis: that the military achievement and the conduct that followed it are separate things, that both are documented, that neither is flawless, and that the combination is the actual root of a reputation which has survived in two hostile traditions for eight centuries.
 
-![Saladin and the crusades explained, covering Hattin in 1187, the surrender of Jerusalem and the Third Crusade against Richard the Lionheart - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Saladin and the crusades explained, covering Hattin in 1187, the surrender of Jerusalem and the Third Crusade against Richard the Lionheart - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The two errors this article steers between are both common. The first presents flawless chivalry, which requires ignoring the executions at Hattin and the conduct of several sieges. The second dismisses the restraint as propaganda, which requires ignoring that the men reporting it were the enemy.
 

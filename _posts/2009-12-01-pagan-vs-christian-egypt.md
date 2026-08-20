@@ -6,17 +6,17 @@ date: 2009-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Coptic Egypt", "Ancient Egypt", "Religion", "Historiography", "World History"]
 excerpt: "Egypt's shift from pagan to Christian was both a real rupture and a quiet continuity, and the evidence supports neither total destruction nor smooth succession."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2009-12-01
+lang: en
 ---
-
 Two stories are told about what happened when Egypt stopped being pagan and became Christian, and they are almost perfect opposites. In the first, a violent new religion arrived, smashed the statues, chiselled the faces off the temple walls, burned the books, murdered the philosophers and extinguished three thousand years of civilization in a few decades of fanaticism. In the second, nothing much was lost at all, because the old religion simply put on new clothes: Isis became the Virgin, Horus became Saint George, the ankh became the cross, the festivals kept their dates, and Egyptian religion carried on underneath a Christian surface. Both stories are popular, both are told with confidence, and both are wrong in ways that can be demonstrated from the evidence.
 
 This article takes the debate seriously enough to settle it, and the verdict it defends has a name: the rupture and continuity verdict, that Christianization in Egypt was genuinely both, that it destroyed things which have never been recovered while absorbing a great deal of practice and imagery almost unchanged, and that the reason the two rival stories persist is that each of them describes a real half of what happened. Getting to that verdict requires saying precisely which half applies to what, because a verdict of both is worthless unless it specifies the terms.
 
-![Pagan versus Christian Egypt, the debate over destruction and continuity explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pagan versus Christian Egypt, the debate over destruction and continuity explained - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The subject invites bad history from several directions at once. There is a devotional register that treats the change as pure gain, a nostalgic register that treats it as pure loss, a polemical register that uses fourth century Alexandria to argue about modern religion, and an ecumenical register that smooths every conflict into a story of gentle synthesis. All four are avoidable, and avoiding them requires the same discipline this series has applied throughout: separate what the evidence shows from what has been inferred, and say which is which.
 

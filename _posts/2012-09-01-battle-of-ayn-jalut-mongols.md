@@ -6,17 +6,17 @@ date: 2012-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Mamluk", "Warfare", "Mongols", "World History"]
 excerpt: "In September 1260 a Mamluk army from Egypt met the Mongols in Galilee and beat them, ending the advance of a force that had destroyed everything in its path."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2012-09-01
+lang: en
 ---
-
 Two years before this battle the Mongols had taken Baghdad, killed the Abbasid caliph and ended an institution that had existed for five centuries. In the six decades before that they had destroyed the states of Central Asia, Persia and northern China in sequence. Nothing in the experience of anyone alive suggested that they could be beaten in the field.
 
 The claim this article defends is the Mongols stopped here thesis: that Ayn Jalut broke the presumption of Mongol invincibility, that a defeat inflicted by a regime less than a decade old changed what was thinkable across the Islamic world, and that the battle deserves its reputation even though several of the things usually said about it are wrong.
 
-![The Battle of Ayn Jalut in 1260, where a Mamluk army from Egypt defeated the Mongols in Galilee - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Battle of Ayn Jalut in 1260, where a Mamluk army from Egypt defeated the Mongols in Galilee - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The two errors this article steers between are both common. The heroic version presents an invincible horde annihilated by superior courage, which requires ignoring that the main Mongol army was hundreds of kilometres away. The deflating version presents a minor skirmish inflated by later propaganda, which requires ignoring what contemporaries across two continents actually thought had happened.
 

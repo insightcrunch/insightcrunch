@@ -6,17 +6,17 @@ date: 2011-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Society", "Historiography", "World History"]
 excerpt: "A storeroom of discarded paper preserved the letters and contracts of ordinary people, making Fatimid Cairo the best documented city of the medieval world."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-05-01
+lang: en
 ---
-
 A woman writes to her brother about a household dispute. A merchant instructs an agent about a shipment and complains about the price of flax. A father lists what his daughter is bringing to her marriage, item by item, down to the cooking pots. A schoolboy practises his letters on a scrap. None of these people expected to be read by anyone but their correspondent, and all of them are readable.
 
 That is not how the medieval world usually reaches us. The claim this article defends is the storeroom lit city thesis: that Fatimid Cairo is among the best documented cities anywhere before the modern period, and that the reason is an accident of religious scruple rather than any decision to record it.
 
-![Life in Fatimid Cairo, reconstructed from the discarded documents of a synagogue storeroom - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Life in Fatimid Cairo, reconstructed from the discarded documents of a synagogue storeroom - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The mechanism is worth stating at the outset because everything else depends on it. A synagogue in the older city maintained a storeroom into which written material was placed rather than destroyed, because writing might carry a sacred name and destroying it was forbidden. The rule was applied broadly, so the accumulation includes documents with no religious content at all.
 

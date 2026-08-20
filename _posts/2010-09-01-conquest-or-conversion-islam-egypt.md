@@ -6,17 +6,17 @@ date: 2010-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Religion", "Historiography", "Comparison", "World History"]
 excerpt: "Egypt was conquered in three years but converted across many centuries, so the military campaign and the religious change must never be treated as one event."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-09-01
+lang: en
 ---
-
 Two things happened to Egypt in the seventh century and they are constantly mistaken for each other. An Arab army took the country in about three years. The Egyptian population became predominantly Muslim over a period that most estimates put somewhere between four and seven centuries. The first is an event with dates. The second is a process with no clear beginning, no announced end and no contemporary who realized it was happening.
 
 The claim this article defends is the conquered fast, converted slow verdict: that the military conquest and the religious transformation were separate processes operating on entirely different timescales through entirely different mechanisms, and that almost every popular error about Islamic Egypt comes from collapsing them into one.
 
-![Conquest or conversion, comparing the three year Arab conquest of Egypt with the centuries long process of Islamization - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Conquest or conversion, comparing the three year Arab conquest of Egypt with the centuries long process of Islamization - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The confusion is easy to explain and hard to dislodge. A conquest is dramatic, dateable and narratable, so it dominates the account. A conversion process operating across dozens of generations through household decisions has no battles and no protagonists, so it gets compressed into a sentence or omitted entirely, and the reader is left with the impression that the arrival of an army and the arrival of a religion were the same arrival.
 

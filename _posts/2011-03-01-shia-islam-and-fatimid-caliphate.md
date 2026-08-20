@@ -6,17 +6,17 @@ date: 2011-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Religion", "Medieval Egypt", "Historiography", "World History"]
 excerpt: "An Ismaili Shia dynasty ruled a Sunni majority country for two centuries without forcing conversion, and Egypt was Sunni again within a year of its fall."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-03-01
+lang: en
 ---
-
 In 1171 the last Fatimid caliph died, the name in the Friday sermon was changed to the Abbasid caliph in Baghdad, and Egypt reverted to Sunni observance. No rising followed. No community defended the doctrine that had been the state creed for two centuries. Within a generation the organized Ismaili presence in Egypt had essentially disappeared.
 
 That outcome is the strongest single piece of evidence about what Fatimid religious policy actually was, and the claim this article defends follows from it: the Shia rulers and Sunni subjects thesis, that the Fatimids governed a Sunni majority as an Ismaili dynasty largely through accommodation rather than coercion, which is precisely why Egypt remained Sunni throughout and why the restoration cost nothing.
 
-![Shia Islam and the Fatimid caliphate explained, from Ismaili doctrine to the Sunni restoration of 1171 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Shia Islam and the Fatimid caliphate explained, from Ismaili doctrine to the Sunni restoration of 1171 - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The expectation most readers bring is the opposite. A state with a sectarian identity ruling a population of a different sect is assumed to have imposed itself, and the assumption is so natural that the evidence against it tends to be read as an exception rather than as the pattern.
 

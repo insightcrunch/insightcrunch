@@ -6,17 +6,17 @@ date: 2011-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Art", "Architecture", "Medieval Egypt", "World History"]
 excerpt: "The dynasty is remembered as much for rock crystal the size of a fist as for its mosques, because a court that traded in luxury also learned to make it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-07-01
+lang: en
 ---
-
 A vessel carved from a single block of quartz, its walls thinned until light passes through, decorated with animals in low relief and inscribed with a caliph's name, is among the most demanding objects any pre modern craftsman attempted. Roughly a hundred and eighty of them survive. Most are in European church treasuries, where they were kept as reliquaries by people who had no idea who made them.
 
 That combination of extreme technical accomplishment and improbable survival is the subject of this article, and the claim it defends is the crafted caliphate thesis: that the Fatimids fused monumental building with luxury craft of the highest order, so the dynasty is remembered for what it could make as much as for what it built.
 
-![Fatimid art and architecture explained, from the mosques and gates of Cairo to rock crystal and lustre ceramics - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fatimid art and architecture explained, from the mosques and gates of Cairo to rock crystal and lustre ceramics - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The framing matters because the two halves are usually treated separately. Architectural histories describe the mosques and the gates; museum catalogues describe the objects; and the connection between a state that commanded the luxury trade of three seas and a workshop tradition that produced luxury of its own is rarely made explicit.
 

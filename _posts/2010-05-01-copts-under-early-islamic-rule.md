@@ -6,17 +6,17 @@ date: 2010-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Religion", "Historiography", "World History"]
 excerpt: "Copts under early Islamic rule were genuinely protected and steadily pressured, keeping their churches and offices while taxation slowly eroded the majority."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-05-01
+lang: en
 ---
-
 Two accounts of the Christian population of Egypt under Muslim rule circulate widely and both are false in the same way. In the first, a persecuted community endures centuries of oppression, forced conversion and systematic humiliation. In the second, a tolerated minority lives untroubled under a benign order, protected by law and free to worship. Neither survives contact with the evidence, and the reason both persist is that each describes a real feature of the arrangement while omitting the other.
 
 The claim this article defends is the protected but pressured thesis: that the legal framework granted genuine protection which was genuinely honoured across most of this period, and that the same framework imposed a fiscal and social disadvantage which operated continuously and eroded the Christian majority over centuries without anyone ever being marched to a font. Protection and pressure were not alternating phases. They were simultaneous features of a single system, and understanding how they worked together is the whole subject.
 
-![Copts under early Islamic rule explained, from protected status to the slow erosion of a majority - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Copts under early Islamic rule explained, from protected status to the slow erosion of a majority - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The evidence for this is unusually good. Egypt preserves tax documents, petitions, contracts and correspondence from the centuries in question, and the Christian community produced its own extensive historical record, so the situation can be examined from the administration's side, from the community's side and from the perspective of ordinary people conducting business. Where those three disagree, the disagreement is itself informative.
 

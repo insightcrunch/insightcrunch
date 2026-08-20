@@ -6,17 +6,17 @@ date: 2010-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Warfare", "Historiography", "World History"]
 excerpt: "The Arab conquest of Egypt took just three years, from 639 to 642, and it succeeded so quickly because Byzantine rule had few defenders left in Egypt."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-01-01
+lang: en
 ---
-
 In the winter of 639 a force of somewhere between three and four thousand men crossed into Egypt from the east. Egypt at that moment was the richest province of the Byzantine empire, the source of grain that fed a capital of hundreds of thousands, defended by fortifications, garrisons and a fleet, held by a state that had just won a twenty six year war against Persia. Within three years the province had changed hands permanently, and it has never returned to the empire that lost it. Explaining how that happened is the task of this article, and the explanation that fits the evidence is not primarily a military one.
 
 The claim defended here has a name: the unloved Byzantium thesis, that the conquest succeeded as fast as it did because imperial rule in Egypt had spent two centuries alienating the Christian majority over doctrine and had exhausted the province through war, occupation and taxation, so that when the invasion came there was very little will to defend the existing arrangement. That is not the same as saying Egyptians welcomed the invaders, a claim examined and rejected below. It is the weaker and better supported proposition that a state which has forfeited the loyalty of its subjects can hold a province only for as long as its army holds the field, and that the Byzantine army in Egypt was in no condition to hold anything.
 
-![The Arab conquest of Egypt explained, from the siege of Babylon to the fall of Alexandria - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Arab conquest of Egypt explained, from the siege of Babylon to the fall of Alexandria - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 This article is the hub for everything that follows in the series. It carries the orientation: the dates, the campaign, the causes, the terms, and what the conquest did and did not change. The commander who led it has his own article, on [Amr ibn al-As and the fall of Egypt](/2010/02/01/amr-ibn-al-as-conquest-of-egypt/). The city he founded is treated in the article on [the founding of Fustat](/2010/03/01/founding-of-fustat/). The long argument about how Egypt became Muslim is owned by the comparison article on [conquest or conversion](/2010/09/01/conquest-or-conversion-islam-egypt/), and the language shift by the article on [how Egypt became Arabic speaking](/2010/04/01/how-egypt-became-arabic-speaking/). Each of those questions is deliberately left to its owner here, and this article links rather than repeating.
 

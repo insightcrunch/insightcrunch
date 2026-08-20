@@ -6,17 +6,17 @@ date: 2011-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Comparison", "Historiography", "Politics", "World History"]
 excerpt: "Two caliphs claimed to lead the Islamic world at once, and the tenth century split them cleanly: Cairo held the wealth and power, Baghdad kept the prestige."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-08-01
+lang: en
 ---
-
 In the year 1000 there were three men calling themselves caliph, each claiming to be the rightful leader of all Muslims, sitting in Baghdad, Cairo and Córdoba. The one in Baghdad had the recognition of most of the Islamic world and could not leave his palace without permission from the Iranian dynasty controlling him. The one in Cairo had an army, a fleet, a treasury, the richest province in the region and almost no recognition outside it.
 
 That split is the subject of this article, and the claim it defends is the two caliphates verdict: that in this period power and prestige came apart, that the Fatimids held the first and the Abbasids the second, and that neither could convert what it had into what it lacked.
 
-![Fatimid Cairo compared with Abbasid Baghdad, showing how power and prestige split between two rival caliphates - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fatimid Cairo compared with Abbasid Baghdad, showing how power and prestige split between two rival caliphates - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The assumption this corrects is the tidiest one in the whole subject, which is that the Islamic world had a caliph in the way Christendom had a pope. It did not, and for a substantial period it had three, which is a fact most summaries omit because it complicates every sentence that follows.
 

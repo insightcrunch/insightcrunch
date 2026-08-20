@@ -6,17 +6,17 @@ date: 2012-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Economy", "Ayyubid", "Trade", "World History"]
 excerpt: "Egypt sat astride the only practical route carrying eastern spices to Europe, and taxing that traffic paid for the armies that fought the crusader states."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2012-03-01
+lang: en
 ---
-
 A merchant in Venice paying for pepper in the year 1200 was, without knowing it, contributing to the wages of a soldier standing on a wall in Syria. The pepper had crossed the Indian Ocean, come up the Red Sea, been carried by camel across a desert, floated down the Nile and been sold at Alexandria, and at several points along that journey an Egyptian official had taken a share.
 
 The claim this article defends is the spice gateway thesis: that Ayyubid Egypt monetized geography rather than production, taxing the only practical route by which eastern goods reached Europe, and that control of that transit trade is what underwrote the military power the period is remembered for.
 
-![The Ayyubid economy explained, showing how Egypt taxed the spice route from the Indian Ocean to Europe and funded its wars - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Ayyubid economy explained, showing how Egypt taxed the spice route from the Indian Ocean to Europe and funded its wars - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The assumption this corrects is that Egyptian wealth was agricultural and local. It was substantially agricultural, as it had been since the pharaohs, and the transit trade added a second revenue stream that arrived independently of the flood, in cash rather than in grain, and from a source no Egyptian farmer produced anything for.
 

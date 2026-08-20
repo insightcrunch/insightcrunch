@@ -6,17 +6,17 @@ date: 2011-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Biography", "Historiography", "World History"]
 excerpt: "Eleven caliphs ruled Egypt from Cairo claiming a doubled authority no other Islamic ruler asserted, and six of them came to the throne as young children."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-01-01
+lang: en
 ---
-
 In 1160 a boy of about nine years old became, in the doctrine of his own state, the divinely designated and infallible guide of the Muslim community, protected from error in matters of faith, the rightful leader of every believer on earth. He was also a figurehead installed by a vizier who had murdered his predecessor's family and who would be killed himself within a decade. Both descriptions are accurate and holding them together is the problem this article addresses.
 
 The claim it defends is the caliph and imam thesis: that Fatimid rulers held a doubled authority no other Islamic sovereign asserted, combining political rule with an infallible religious guidance, and that this made their office uniquely total in theory and uniquely fragile in practice.
 
-![The Fatimid caliphs of Egypt explained, from al-Muizz in 969 to al-Adid in 1171 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Fatimid caliphs of Egypt explained, from al-Muizz in 969 to al-Adid in 1171 - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The fragility follows directly from the totality. An office that concentrates everything in one designated person has no mechanism for continuing when that person is a child, an incompetent or a prisoner of his own ministers, because the doctrine that makes him irreplaceable also makes him unreplaceable. The Abbasid caliph in Baghdad could be reduced to a name in the sermon without theological difficulty. A Fatimid caliph reduced to the same position was a doctrinal problem as well as a political one.
 

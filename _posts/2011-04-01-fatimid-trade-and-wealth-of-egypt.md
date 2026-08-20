@@ -6,17 +6,17 @@ date: 2011-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Trade", "Economy", "Historiography", "World History"]
 excerpt: "Fatimid Egypt sat astride the routes linking the Mediterranean, the Red Sea and the Indian Ocean, and geography plus policy turned Cairo into a world market."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-04-01
+lang: en
 ---
-
 Egypt has been described as the gift of the Nile for so long that its other geographical advantage tends to disappear. The country is also the only land bridge between the Mediterranean and the Indian Ocean, a strip of territory perhaps a hundred and fifty kilometres wide at the narrowest point, through which anything travelling between Europe and Asia by the southern route had to pass.
 
 For roughly two centuries under the Fatimids, Egypt exploited that position more effectively than any regime before or after, and the claim this article defends is the crossroads of the world thesis: that Fatimid wealth came from commanding the junction of three seas, that geography supplied the opportunity and policy supplied the exploitation, and that the resulting commercial economy was as important to the state as the grain fields were.
 
-![Fatimid trade explained, showing how Egypt commanded the routes between the Mediterranean, the Red Sea and the Indian Ocean - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fatimid trade explained, showing how Egypt commanded the routes between the Mediterranean, the Red Sea and the Indian Ocean - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The assumption this corrects is that Egyptian wealth was agricultural. It was, and the article on [Egypt as Rome's breadbasket](/2008/06/01/egypt-breadbasket-of-rome/) sets out how that worked for an earlier empire, but a regime whose revenue came only from the land would have been a rich province. A regime taking a share of the traffic between Europe, Africa and Asia was something else.
 

@@ -6,17 +6,17 @@ date: 2011-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Biography", "Ayyubid", "Historiography", "World History"]
 excerpt: "A Kurdish officer in an Arab and Turkish world rose through service to rule Egypt and Syria, and his outsider origin makes the ascent more remarkable still."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-10-01
+lang: en
 ---
-
 A man who ruled Egypt, Syria, Yemen and parts of Mesopotamia died in 1193 owning, according to those who settled his affairs, not enough to pay for his own burial. Whether the figure is exactly right or a pious simplification, the fact that his own household officials reported it and that nobody at the time contradicted them is the single most useful thing to know about him.
 
 This article treats the man rather than his wars, and the claim it defends is the outsider who united the centre thesis: that a Kurdish officer in a world governed by Turks and populated by Arabs rose to rule its wealthiest territories through service, competence and a specific set of political instincts, and that the outsider origin makes the ascent considerably more remarkable than the conventional heroic account allows.
 
-![Saladin explained, tracing the rise of a Kurdish officer to the sultanate of Egypt and Syria between 1137 and 1193 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Saladin explained, tracing the rise of a Kurdish officer to the sultanate of Egypt and Syria between 1137 and 1193 - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The article deliberately does not do two things. It does not narrate the campaigns against the crusader states, which belong to the article on [Saladin and the crusades](/2011/11/01/saladin-and-the-crusades/). And it does not resolve the question of whether he deserves his reputation, which belongs to the article on [Saladin as hero or conqueror](/2012/05/01/saladin-hero-or-conqueror/).
 

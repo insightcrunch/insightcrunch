@@ -6,17 +6,17 @@ date: 2010-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Historiography", "Society", "World History"]
 excerpt: "Egypt became Arabic speaking over roughly a thousand years, through administration, employment and daily life rather than by any decree of the conquerors."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-04-01
+lang: en
 ---
-
 An army arrived in Egypt in 639 speaking Arabic. A thousand years later the country spoke Arabic. Almost everyone assumes those two facts are connected in the simplest possible way, and the assumption is wrong in a manner that makes the whole process unintelligible. The conquerors numbered a few thousand in a country of millions, they made no attempt to impose their language on anyone, and for two full generations after the conquest the government of Egypt was conducted in Greek by Egyptian officials. The tongue changed, and it changed for reasons that have very little to do with an army.
 
 The claim this article defends is the tongue changed slowly thesis: that Egypt's language shift ran over roughly a millennium, driven by administration, employment, religion and the ordinary decisions parents make about their children's futures, and that treating it as a consequence of the conquest confuses a three year military event with a process that outlasted it by four hundred times its duration.
 
-![How Egypt became Arabic speaking, from the administrative switch to the decline of Coptic - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Egypt became Arabic speaking, from the administrative switch to the decline of Coptic - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 Getting this right matters beyond Egypt, because language shift is one of the least well understood processes in history and one of the most consequential. Populations do not change languages because they are told to. They change because a generation of parents concludes that a different tongue will serve their children better, and that conclusion accumulates household by household until a threshold is crossed and the older language becomes a heritage rather than a medium. Egypt documents that process better than almost anywhere else, because Egypt preserves the paperwork.
 

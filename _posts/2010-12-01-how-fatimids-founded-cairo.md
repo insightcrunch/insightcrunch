@@ -6,17 +6,17 @@ date: 2010-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Cairo", "Monuments", "Historiography", "World History"]
 excerpt: "Cairo began in 969 not as a market town but as a walled royal enclosure built for a caliph and his army, closed to the ordinary population for a century."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-12-01
+lang: en
 ---
-
 In the summer of 969 a general acting for a caliph who was still a thousand miles away marked out a rectangle of ground north of Egypt's existing capital and began building a wall around it. Inside that wall went a palace, then a second palace facing it across an open square, then quarters for the regiments of the army, then a great mosque. Outside it, and expressly excluded from it, lay the largest and richest commercial city in Egypt and everybody who lived there.
 
 That enclosure is the origin of Cairo, and the claim this article defends is the palace city thesis: that the city began as a closed royal and military compound rather than as a market town, that it was shut to the general population for roughly a century, and that almost everything distinctive about its later shape follows from that beginning.
 
-![How the Fatimids founded Cairo in 969 as a walled palace city beside the older commercial capital - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Fatimids founded Cairo in 969 as a walled palace city beside the older commercial capital - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The assumption this corrects is a natural one. A visitor to the medieval quarter encounters dense commercial streets, markets that have operated for centuries and one of the most crowded urban landscapes anywhere, and infers a city that grew organically from trade. The opposite is true. It was designed as an exclusion zone, and the commerce arrived later, from outside, after the wall stopped being enforced.
 

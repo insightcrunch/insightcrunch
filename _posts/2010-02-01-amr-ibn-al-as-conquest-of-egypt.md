@@ -6,17 +6,17 @@ date: 2010-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Biography", "Historiography", "World History"]
 excerpt: "Amr ibn al-As conquered Egypt in three years and then governed it, founding its first Islamic capital and shaping the province in peace as well as war."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-02-01
+lang: en
 ---
-
 The man who took Egypt from the Byzantine empire is remembered almost everywhere as a general, and the description is accurate and incomplete in a way that misses what actually mattered about him. His campaign lasted three years. His involvement with Egypt lasted a quarter of a century, across two separate terms as governor, and in that time he founded the city that became the country's capital, built its first mosque, reopened a canal that redirected the province's grain, negotiated the settlement with the Christian majority, and kept the inherited administration running so smoothly that the tax receipts barely changed format. The conquest is what he is famous for. The governing is what shaped Egypt.
 
 That is the claim this article defends, and it deserves a name: the soldier statesman thesis, that Amr ibn al-As matters to Egyptian history at least as much for what he built and administered as for what he captured, and that reducing him to a conqueror produces an account in which the following centuries make no sense. A province taken by force and then misgoverned looks very different at the end of a generation from one taken by force and then administered pragmatically, and Egypt got the second.
 
-![Amr ibn al-As explained, the general who conquered Egypt and then governed it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Amr ibn al-As explained, the general who conquered Egypt and then governed it - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 He is also a figure around whom a great deal of legend has accumulated, some of it flattering and some of it hostile, and separating the documented from the traditional is most of the analytical work here. Stories attach to founders. The tent and the dove that supposedly named his city, the sealed letter he declined to open until he was safely across the frontier, the burned library, the celebrated feat of cunning at the arbitration: each of these is repeated constantly and each requires assessment rather than transmission. This article treats them individually and says in each case what the evidence supports.
 

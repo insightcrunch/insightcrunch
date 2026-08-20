@@ -6,17 +6,17 @@ date: 2012-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Mamluk", "Warfare", "Historiography", "World History"]
 excerpt: "A caste of bought and trained slave soldiers ruled Egypt from 1250 to 1517, beat the Mongols, finished the crusader states and made Cairo the greatest city."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2012-07-01
+lang: en
 ---
-
 For two hundred and sixty seven years the richest state in the Islamic world was ruled by men who had been bought as children. Not by their descendants, which would be an ordinary story of a founding conqueror, but by fresh purchases in every generation, since a Mamluk sultan's own sons were disqualified from the caste their father had risen through.
 
 The claim this article defends is the slaves who became sultans thesis: that the Mamluk system converted bought slave boys into the ruling caste of a great state, that it renewed itself from the slave market rather than through inheritance, and that this arrangement produced the longest lasting and most formidable regime in medieval Egyptian history.
 
-![The Mamluk Sultanate explained, showing how bought and trained slave soldiers ruled Egypt from 1250 to 1517 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Mamluk Sultanate explained, showing how bought and trained slave soldiers ruled Egypt from 1250 to 1517 - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The assumption this corrects is that rule by slaves implies weakness or instability. This regime stopped the Mongol advance that had destroyed every state in its path from China to Baghdad, eliminated the crusader states that four centuries of Muslim powers had failed to remove, and governed Egypt for longer than the Fatimids, the Ayyubids and the Tulunids combined.
 

@@ -6,17 +6,17 @@ date: 2012-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Religion", "Ayyubid", "Society", "World History"]
 excerpt: "A regime that funded Sunni colleges across two countries also kept a Jewish physician at court, and both facts describe one religious policy rather than two."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2012-04-01
+lang: en
 ---
-
 The sultan of Egypt who recovered Jerusalem from the crusaders employed as one of his physicians a Jewish scholar from Spain who was, at the same time, the head of the Egyptian Jewish community and the most consequential Jewish philosopher of the medieval world. That arrangement was unremarkable to everyone involved, and it sits alongside a state programme of endowing Sunni colleges across Egypt and Syria on a scale nobody had attempted before.
 
 The claim this article defends is the orthodoxy with tolerance thesis: that the Ayyubids promoted Sunni orthodoxy aggressively and tolerated their non Muslim minorities substantially, that these were not opposing tendencies in tension, and that both follow from the same underlying logic about what the regime needed.
 
-![Religion in Ayyubid Egypt explained, covering the Sunni college programme, the position of Copts and Jews and the growth of Sufism - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Religion in Ayyubid Egypt explained, covering the Sunni college programme, the position of Copts and Jews and the growth of Sufism - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The two errors this steers between are both common. The first presents a harsh intolerance that the record does not support, in which a regime founded on holy war persecuted everyone who was not a Sunni Muslim. The second presents a harmonious coexistence that the record supports no better, in which differences did not matter.
 

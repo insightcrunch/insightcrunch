@@ -6,17 +6,17 @@ date: 2011-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Fatimid", "Ayyubid", "Historiography", "World History"]
 excerpt: "A caliphate two and a half centuries old ended in 1171 when a single name in the Friday sermon was replaced by another, and nobody in Egypt raised a hand."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-12-01
+lang: en
 ---
-
 On a Friday in September 1171 the preachers in the mosques of Cairo named the Abbasid caliph in Baghdad instead of the Fatimid caliph living a few hundred metres away. That was the whole of it. A dynasty proclaimed in North Africa in 909, established in Egypt in 969, claiming infallible religious authority over the entire Muslim community, ended in the time it takes to read a sentence aloud.
 
 The claim this article defends is the vizier who took the throne thesis: that the Fatimid caliphate was dismantled from inside its own government by the man appointed to run it, that the process took two years and was largely administrative, and that the absence of resistance is the most informative fact about the whole episode.
 
-![How Saladin ended the Fatimid caliphate, showing the vizierate of 1169 and the change in the Friday sermon of 1171 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Saladin ended the Fatimid caliphate, showing the vizierate of 1169 and the change in the Friday sermon of 1171 - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The assumption this corrects is that dynasties fall in battle. This one did not. There was no siege of Cairo, no decisive engagement, no deposition ceremony and no execution of a caliph, and an event that a reader might expect to occupy a chapter of military history occupies a paragraph of administrative history instead.
 

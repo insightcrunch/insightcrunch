@@ -6,17 +6,17 @@ date: 2012-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Legacy", "Ayyubid", "Historiography", "World History"]
 excerpt: "A sultan who died in 1193 became a modern emblem of unity and resistance, and the route from his life to that role runs partly through European romance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2012-06-01
+lang: en
 ---
-
 In 1898 a German emperor visited Damascus, laid a wreath at the tomb of a man who had been dead for seven hundred years, paid for the mausoleum's restoration and presented a new marble sarcophagus to stand beside the original wooden one. He was making a gesture toward the Muslim world for reasons entirely of his own century, and the effect was to monumentalize a figure whose grave had been quietly maintained without much ceremony for a very long time.
 
 The claim this article defends is the symbol bigger than the man thesis: that the modern standing of Saladin as an icon of Arab unity, Islamic resistance and Kurdish identity has grown far beyond his historical role, that the growth is documented and datable, and that he is now invoked for causes he could not have understood.
 
-![The legacy of Saladin explained, tracing how a twelfth century sultan became a modern symbol of unity and resistance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The legacy of Saladin explained, tracing how a twelfth century sultan became a modern symbol of unity and resistance - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The assumption this corrects is that modern symbolism reflects historical importance directly. It does not. Reputations are made and remade by the needs of later periods, and this one was reshaped decisively in the nineteenth and twentieth centuries by people with purposes the twelfth century had no equivalent for.
 

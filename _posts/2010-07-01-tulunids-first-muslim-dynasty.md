@@ -6,17 +6,17 @@ date: 2010-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Biography", "Historiography", "World History"]
 excerpt: "Ahmad ibn Tulun turned an Abbasid governorship into a hereditary dynasty, making Egypt a self ruling power for the first time since the Arab conquest."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-07-01
+lang: en
 ---
-
 In 868 a Turkic officer in his thirties arrived at Egypt's capital as a deputy governor, sent by a stepfather who had been granted the province and had no intention of visiting it. He held no independent authority, controlled neither the finances nor the troops he would need, and was the fourth or fifth such appointee in a decade. Within four years he controlled the province's revenue. Within a decade he had his own army, his own fleet, his own capital quarter and a second province in Syria. Within sixteen years he had passed all of it to his son. Egypt, ruled from elsewhere for more than eight hundred years, had a government of its own.
 
 The claim this article defends is the governor turned king thesis: that Ahmad ibn Tulun converted an administrative appointment into a hereditary dynasty by a specific and repeatable method, and that his success marks the point at which Egypt's wealth stopped funding somebody else's empire and started funding Egypt.
 
-![The Tulunids explained, from Ahmad ibn Tulun's governorship to Egypt's first independent Muslim dynasty - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Tulunids explained, from Ahmad ibn Tulun's governorship to Egypt's first independent Muslim dynasty - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The dynasty lasted thirty seven years and is easy to underestimate on that basis. Its significance is not its duration but its demonstration. It established that a governor who controlled the revenue, raised his own troops and cultivated local support could hold Egypt against the centre, and every subsequent regime in the country followed some version of that pattern. The Tulunids are the template.
 

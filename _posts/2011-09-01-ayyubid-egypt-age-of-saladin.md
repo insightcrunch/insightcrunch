@@ -6,17 +6,17 @@ date: 2011-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Ayyubid", "Crusades", "Historiography", "World History"]
 excerpt: "Egypt from 1171 to 1250 was the wealthy unified base from which a Kurdish family turned the tide against the crusader states and ruled from Cairo to Yemen."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-09-01
+lang: en
 ---
-
 The crusader states had held the Syrian coast for seventy years when a Kurdish officer became vizier of Egypt. Within two decades he had abolished the caliphate he served, taken the country, joined it to Syria, defeated the crusader field army and recovered Jerusalem. Nothing about that sequence was predictable in 1169, and the thing that made it possible was not generalship but geography combined with revenue.
 
 The claim this article defends is the base of a counterattack thesis: that Egypt's wealth and unity were the engine of the Muslim recovery against the crusader states, that the Ayyubid achievement was to convert a fragmented Syrian frontier and a rich Egyptian rear into a single system, and that the man usually credited with the whole thing was one member of a family enterprise.
 
-![Ayyubid Egypt explained, showing how a Kurdish family ruled from Cairo between 1171 and 1250 and made Egypt the base of a counteroffensive - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ayyubid Egypt explained, showing how a Kurdish family ruled from Cairo between 1171 and 1250 and made Egypt the base of a counteroffensive - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The correction this article makes is to the second half of that claim. Ayyubid Egypt is routinely reduced to one man, which produces a story about a great individual and obscures a dynasty that outlasted him by fifty seven years, governed an empire through a confederation of relatives, transformed Egyptian religious institutions, rebuilt the capital and ran a commercial economy of the first rank.
 

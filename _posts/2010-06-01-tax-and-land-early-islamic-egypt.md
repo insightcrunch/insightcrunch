@@ -6,17 +6,17 @@ date: 2010-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Historiography", "Society", "World History"]
 excerpt: "Taxation was the engine of change in early Islamic Egypt, since the poll tax rewarded conversion while the land tax funded a state built on Egyptian grain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-06-01
+lang: en
 ---
-
 Most accounts of early Islamic Egypt are about armies, governors, doctrines and cities. The thing that actually shaped the province, that determined how ordinary people lived, that caused every rebellion of the period, and that quietly transformed the religion of the population over centuries, was the tax system. It is not a glamorous subject and it is the correct place to look, because Egypt was acquired for its revenue, administered for its revenue, and reshaped by the arrangements made to extract it.
 
 The claim this article defends is the tax drove change thesis: that fiscal policy was the principal engine of transformation in early Islamic Egypt, since one tax made conversion financially attractive while the other funded a state that depended on Egyptian grain, and the interaction of the two produced consequences nobody designed and everybody lived with.
 
-![Taxation and land in early Islamic Egypt explained, from the poll tax to the land tax and the flood assessment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Taxation and land in early Islamic Egypt explained, from the poll tax to the land tax and the flood assessment - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The evidence for this is exceptionally good, because tax administration generates paperwork and Egypt preserves paperwork. Assessments, receipts, demands, registers, complaints about collectors, orders to pursue absconders and correspondence between officials survive in quantity from the first Islamic centuries, and they allow the system to be described at the level of the individual village and the individual payment. Very few pre modern fiscal systems anywhere can be studied at this resolution.
 

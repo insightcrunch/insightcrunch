@@ -6,17 +6,17 @@ date: 2009-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Coptic Egypt", "Ancient Egypt", "Religion", "Historiography", "World History"]
 excerpt: "Egypt's conversion to Christianity was slow, uneven and generational, with the old gods and the new faith sharing the same villages for many centuries."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2009-09-01
+lang: en
 ---
-
 The story usually told about Egypt becoming Christian has a shape borrowed from politics: an old order, a decisive break, a new order. Temples close, gods fall silent, a population changes its mind. Almost nothing about that shape survives contact with the evidence. What the documents show instead is a transformation that took something close to four hundred years, moved at different speeds in different places, produced households where a Christian son buried a pagan father, left temple cults functioning generations after the state had formally banned them, and carried a great deal of the older religious practice straight across the divide in a lightly altered form. That is the argument this article defends, and it deserves a name: the slow and uneven thesis, that Egypt's Christianization was a generational process rather than an event, and that treating it as an event makes almost every particular fact about it unintelligible.
 
 The correction matters for more than accuracy. If conversion was sudden, then the interesting questions are about who forced it and when. If it was gradual, the interesting questions become entirely different: what made one village change faster than the next, what happened to the professional class whose livelihood was the old cult, what a family did during the decades when the household was divided, what the practical difference was between a person who called themselves Christian and one who did not, and which parts of a three thousand year old ritual system turned out to be portable and which did not. Those are questions about ordinary life, and they can be answered because Egypt preserves the documents of ordinary life better than anywhere else in the ancient world.
 
-![How Egyptians became Christian, the slow and uneven conversion explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Egyptians became Christian, the slow and uneven conversion explained - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 This article is about the social process. How Christianity first arrived in Egypt, who brought it, and what the earliest communities looked like belongs to the article on [how Christianity came to Egypt](/2008/08/01/how-christianity-came-to-egypt/), and the broader argument about what was gained and lost in the transformation belongs to the comparison article on [pagan versus Christian Egypt](/2009/12/01/pagan-vs-christian-egypt/). What follows takes the arrival as given and asks how a whole population, most of it rural, most of it illiterate, most of it living exactly as its grandparents had, ended up on the other side of a religious frontier without anyone recording the moment of crossing.
 

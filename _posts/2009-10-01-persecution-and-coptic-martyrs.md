@@ -6,17 +6,17 @@ date: 2009-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Coptic Egypt", "Ancient Egypt", "Religion", "Historiography", "World History"]
 excerpt: "The Coptic martyrs of Egypt were so central to the church that its calendar still counts its years from the Era of Martyrs rather than any imperial year."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2009-10-01
+lang: en
 ---
-
 Every church that has been persecuted remembers it. Almost none of them builds the memory into the way it counts time. The Egyptian church does, and that single fact is the most compact statement of what this article argues. Its calendar reckons its years not from the founding of a city, not from the reign of an emperor, not from the birth of Christ, but from the accession of the ruler under whom its worst suffering occurred, and it calls the resulting era the Era of Martyrs. A liturgical year, a birth certificate, a farmer's almanac and a monastery's account book in Egypt all carry a number derived from a persecution. That is not a memorial. That is a system of reckoning in which the suffering is the origin point of everything measured afterward.
 
 The claim this article defends follows from it: the identity forged in persecution thesis, that Egyptian Christians did not merely endure their persecutions and move on but built the memory of them into calendar, liturgy, literature, architecture and self-understanding, converting a catastrophe into the organizing principle of a communal identity that has now outlasted every regime that produced it. Persecution is usually studied as something done to a community. In Egypt it is more useful to study what the community did with it afterward, because that is where the durable consequences lie.
 
-![Persecution and the Coptic martyrs of Egypt explained, from Diocletian to the Era of Martyrs - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Persecution and the Coptic martyrs of Egypt explained, from Diocletian to the Era of Martyrs - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 Getting the history right requires separating several things that popular accounts run together. There were multiple persecutions, spread over more than a century, differing sharply in scope, method and severity. There was a later and quite different period of pressure applied by a Christian empire on Egyptian Christians who disagreed with it about doctrine, and that episode shaped Egyptian memory at least as powerfully as the earlier ones. There is a body of martyr literature composed centuries after the events it describes, which is culturally central and historically unreliable, and which has to be read as what it is rather than as reportage. And there is a small quantity of genuinely documentary evidence, including certificates issued by Roman officials that survive in the sand, which allows some claims to be checked against something other than a tradition.
 

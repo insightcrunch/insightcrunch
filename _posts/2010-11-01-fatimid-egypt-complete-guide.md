@@ -6,17 +6,17 @@ date: 2010-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Historiography", "Religion", "World History"]
 excerpt: "For two centuries Egypt was not a province of an empire but the seat of one, ruling from Cairo and claiming the leadership of the entire Islamic world."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-11-01
+lang: en
 ---
-
 In 969 an army arrived in Egypt from the west, took the country with almost no fighting, and immediately began building a walled city north of the existing capital. That city was not a garrison quarter or an administrative annexe. It was a palace complex designed to house a caliph, and the man it was built for already claimed to be the rightful leader of every Muslim on earth.
 
 The claim this article defends is the rival caliphate thesis: that the Fatimids were not one more regional dynasty that happened to hold Egypt, but a bid to lead the entire Islamic world from Cairo, and that everything distinctive about their two centuries, the new capital, the great mosque that became a university, the missionary apparatus, the commercial reach and the conflict with Baghdad, follows from that ambition.
 
-![Fatimid Egypt explained, from the conquest of 969 and the founding of Cairo to the end of the caliphate in 1171 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fatimid Egypt explained, from the conquest of 969 and the founding of Cairo to the end of the caliphate in 1171 - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The distinction matters because it changes what the period was. The article on [the Tulunids](/2010/07/01/tulunids-first-muslim-dynasty/) described a governor who made Egypt independent while never renouncing the caliph in Baghdad, and that pattern of formal deference with substantive autonomy was the Egyptian norm. The Fatimids broke it completely. They did not seek recognition from a caliph; they were a caliph, and Egypt for the first time since the pharaohs was the centre of an empire rather than a possession of one.
 

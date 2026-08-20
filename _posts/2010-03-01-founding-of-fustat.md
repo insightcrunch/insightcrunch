@@ -6,17 +6,17 @@ date: 2010-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Medieval Egypt", "Archaeology", "Historiography", "World History"]
 excerpt: "Fustat began as an army camp beside a captured Byzantine fortress and grew into Egypt's capital, the settlement from which Cairo eventually developed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-03-01
+lang: en
 ---
-
 In 641 an army of a few thousand men pitched camp beside a captured fortress at the point where the Nile valley opens into the Delta. They had just taken the strongest inland position in Egypt and had not yet obtained Alexandria, which was still under negotiation. The camp was a practical arrangement for a force that needed somewhere to sit while the campaign finished. Within a century it was one of the largest cities in the Islamic world, and within four centuries it had become the southern quarter of a capital that has never since ceased to be Egypt's capital. That trajectory, from tents to a metropolis, is the subject of this article, and it deserves a name: the garrison that became a capital thesis, that Egypt's great capital began as an army encampment and that every decision shaping it followed from that origin.
 
 The most important thing to establish at the outset is that it was a choice. The conquerors had Alexandria available: a functioning capital with palaces, a harbour, an administration, water supply and everything a governing power might want. They did not use it. Understanding why explains not only the founding of one city but the reorientation of an entire country, since the decision to govern from inland turned Egypt away from the Mediterranean it had faced for a thousand years and toward the east, permanently.
 
-![The founding of Fustat explained, from army camp beside the Babylon fortress to Egypt's capital - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The founding of Fustat explained, from army camp beside the Babylon fortress to Egypt's capital - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 This article owns the city: its site, its name, its layout, its growth, its economy, what excavation has revealed about it, what happened to it, and how it relates to the Cairo that eventually absorbed it. The conquest that produced it belongs to the article on [the Arab conquest of Egypt](/2010/01/01/arab-conquest-of-egypt/), the man who founded it to the article on [Amr ibn al-As](/2010/02/01/amr-ibn-al-as-conquest-of-egypt/), the great mosque at its centre to the article on [the Mosque of Amr and early Islamic Egypt](/2010/08/01/mosque-of-amr-early-islamic-egypt/), and the later foundation that became the modern capital to the article on [how the Fatimids founded Cairo](/2010/12/01/how-fatimids-founded-cairo/).
 

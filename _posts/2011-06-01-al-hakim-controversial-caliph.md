@@ -6,17 +6,17 @@ date: 2011-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Islamic Egypt", "Biography", "Religion", "Historiography", "World History"]
 excerpt: "The Fatimid caliph who ruled Egypt from 996 to 1021 is remembered as a mad tyrant, and the record shows something stranger and considerably harder to judge."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-06-01
+lang: en
 ---
-
 A ruler who orders the destruction of the holiest church in Christendom and then permits its rebuilding, who persecutes a religious minority and then reverses the persecution and invites the converted to return to their old faith, who bans a vegetable and then unbans it, who founds a research institution and then dismantles it, who walks out into the hills one night at the age of thirty six and is never seen again, presents a problem for anyone trying to write about him.
 
 The problem is that he is easy to summarize and hard to explain, and the claim this article defends is the maligned or mad thesis: that the reputation as a lunatic tyrant is partly earned and partly the construction of hostile sources, that neither the caricature nor the full rehabilitation survives the evidence, and that the honest verdict sits uncomfortably between them.
 
-![Al-Hakim explained, weighing the mad caliph reputation of the Fatimid ruler of 996 to 1021 against the surviving record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Al-Hakim explained, weighing the mad caliph reputation of the Fatimid ruler of 996 to 1021 against the surviving record - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 The reason this matters beyond one reign is methodological. Al-Hakim is the best available case in this series for a specific problem: what to do when a historical figure's reputation is dominated by sources written by people who hated him, and how much of a personality can be recovered when the record is entirely secondhand.
 
