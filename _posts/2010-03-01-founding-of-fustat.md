@@ -9,7 +9,7 @@ excerpt: "Fustat began as an army camp beside a captured Byzantine fortress and 
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2010-03-01
+last_updated: 2026-08-21
 lang: en
 ---
 In 641 an army of a few thousand men pitched camp beside a captured fortress at the point where the Nile valley opens into the Delta. They had just taken the strongest inland position in Egypt and had not yet obtained Alexandria, which was still under negotiation. The camp was a practical arrangement for a force that needed somewhere to sit while the campaign finished. Within a century it was one of the largest cities in the Islamic world, and within four centuries it had become the southern quarter of a capital that has never since ceased to be Egypt's capital. That trajectory, from tents to a metropolis, is the subject of this article, and it deserves a name: the garrison that became a capital thesis, that Egypt's great capital began as an army encampment and that every decision shaping it followed from that origin.

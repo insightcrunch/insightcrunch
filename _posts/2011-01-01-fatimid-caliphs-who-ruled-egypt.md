@@ -9,7 +9,7 @@ excerpt: "Eleven caliphs ruled Egypt from Cairo claiming a doubled authority no 
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2011-01-01
+last_updated: 2026-08-21
 lang: en
 ---
 In 1160 a boy of about nine years old became, in the doctrine of his own state, the divinely designated and infallible guide of the Muslim community, protected from error in matters of faith, the rightful leader of every believer on earth. He was also a figurehead installed by a vizier who had murdered his predecessor's family and who would be killed himself within a decade. Both descriptions are accurate and holding them together is the problem this article addresses.

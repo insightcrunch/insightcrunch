@@ -9,7 +9,7 @@ excerpt: "A caste of bought and trained slave soldiers ruled Egypt from 1250 to 
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2012-07-01
+last_updated: 2026-08-21
 lang: en
 ---
 For two hundred and sixty seven years the richest state in the Islamic world was ruled by men who had been bought as children. Not by their descendants, which would be an ordinary story of a founding conqueror, but by fresh purchases in every generation, since a Mamluk sultan's own sons were disqualified from the caste their father had risen through.

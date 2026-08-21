@@ -9,7 +9,7 @@ excerpt: "The Coptic martyrs of Egypt were so central to the church that its cal
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2009-10-01
+last_updated: 2026-08-21
 lang: en
 ---
 Every church that has been persecuted remembers it. Almost none of them builds the memory into the way it counts time. The Egyptian church does, and that single fact is the most compact statement of what this article argues. Its calendar reckons its years not from the founding of a city, not from the reign of an emperor, not from the birth of Christ, but from the accession of the ruler under whom its worst suffering occurred, and it calls the resulting era the Era of Martyrs. A liturgical year, a birth certificate, a farmer's almanac and a monastery's account book in Egypt all carry a number derived from a persecution. That is not a memorial. That is a system of reckoning in which the suffering is the origin point of everything measured afterward.

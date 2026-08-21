@@ -9,7 +9,7 @@ excerpt: "The Lollapalooza stages map, decoded: each stage by its size, genre le
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-05-08
+last_updated: 2026-08-21
 lang: en
 ---
 The first time you stand inside Grant Park with a printed grid of Lollapalooza stages in your hand, the names tell you almost nothing. You see eight labels scattered across a map of paths and fields, and not one of them announces which stage closes the night with a headliner, which one is a wall of bass that runs until the gates shut, and which one is half-empty at two in the afternoon precisely because that is where the band you will be bragging about next year is playing. The stage list looks like trivia. It is actually the single most useful planning lever you have, because the size, the genre lean, and the position of each Lollapalooza stage decide your crowd, your sound, your walk, and your whole day before a single act takes the microphone.

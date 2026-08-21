@@ -9,7 +9,7 @@ excerpt: "Egypt's conversion to Christianity was slow, uneven and generational, 
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2009-09-01
+last_updated: 2026-08-21
 lang: en
 ---
 The story usually told about Egypt becoming Christian has a shape borrowed from politics: an old order, a decisive break, a new order. Temples close, gods fall silent, a population changes its mind. Almost nothing about that shape survives contact with the evidence. What the documents show instead is a transformation that took something close to four hundred years, moved at different speeds in different places, produced households where a Christian son buried a pagan father, left temple cults functioning generations after the state had formally banned them, and carried a great deal of the older religious practice straight across the divide in a lightly altered form. That is the argument this article defends, and it deserves a name: the slow and uneven thesis, that Egypt's Christianization was a generational process rather than an event, and that treating it as an event makes almost every particular fact about it unintelligible.

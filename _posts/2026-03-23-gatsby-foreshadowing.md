@@ -9,6 +9,7 @@ author: "chloe-martin"
 reading_time: 60
 tags: ["The Great Gatsby", "Foreshadowing", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 lang: en
+last_updated: 2026-08-21
 ---
 Most readers meet foreshadowing in The Great Gatsby as a scavenger hunt. They are told to circle the green light, underline the eyes on the billboard, flag the careless driving, and tally the omens like coupons clipped from the text. That habit produces a list, and a list is not an argument. It treats Fitzgerald's planted signs as decoration, as little Easter eggs scattered for the attentive, when in fact the signs are load bearing. They hold the ending up. The difference between noticing a hint and understanding the technique is the difference between summary and analysis, and it is the whole subject of this guide.
 

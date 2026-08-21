@@ -9,7 +9,7 @@ excerpt: "The Mamluk sultanate began in 1250, and the ruler who actually made it
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2012-10-01
+last_updated: 2026-08-21
 lang: en
 ---
 Six weeks after the Mamluk army stopped the Mongol advance in Galilee, the sultan who had commanded it was killed on a hunting expedition by the officer who had led his vanguard. That officer took the sultanate, held it for seventeen years, and turned a regime that had murdered its way through five rulers in a decade into a state that lasted two and a half centuries.

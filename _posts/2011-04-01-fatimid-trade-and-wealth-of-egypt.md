@@ -9,7 +9,7 @@ excerpt: "Fatimid Egypt sat astride the routes linking the Mediterranean, the Re
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2011-04-01
+last_updated: 2026-08-21
 lang: en
 ---
 Egypt has been described as the gift of the Nile for so long that its other geographical advantage tends to disappear. The country is also the only land bridge between the Mediterranean and the Indian Ocean, a strip of territory perhaps a hundred and fifty kilometres wide at the narrowest point, through which anything travelling between Europe and Asia by the southern route had to pass.

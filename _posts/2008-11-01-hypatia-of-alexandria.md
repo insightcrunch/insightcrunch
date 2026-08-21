@@ -9,7 +9,7 @@ excerpt: "Hypatia was killed in 415 as a casualty of a factional power struggle 
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2008-11-01
+last_updated: 2026-08-21
 lang: en
 ---
 In March 415 CE a woman in her fifties or sixties, the most respected teacher of philosophy in Alexandria and an adviser to the city's senior Roman official, was pulled from her carriage in the street by a crowd, dragged into a church, and killed. Nothing she wrote survives. Almost everything the modern world believes about her was invented between the eighteenth century and the twentieth, and much of it is demonstrably false.

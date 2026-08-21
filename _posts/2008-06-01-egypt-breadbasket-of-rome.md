@@ -9,7 +9,7 @@ excerpt: "Egyptian grain was not a commodity that Rome bought but a tax that Rom
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2008-06-01
+last_updated: 2026-08-21
 lang: en
 ---
 Every year, for six centuries, an enormous quantity of wheat grown by Egyptian peasants on land flooded by a river rising in the Ethiopian highlands was assessed by Greek-speaking scribes, collected by villagers who were personally liable for any shortfall, carried by donkey to a river harbour, shipped down the Nile under seal, transferred at Alexandria into the largest merchant vessels the ancient world built, and sailed across the Mediterranean to feed a city that the men who grew it would never see. That operation is what the phrase breadbasket of Rome describes, and it was not a trade relationship.

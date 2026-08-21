@@ -9,7 +9,7 @@ excerpt: "A regime that funded Sunni colleges across two countries also kept a J
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2012-04-01
+last_updated: 2026-08-21
 lang: en
 ---
 The sultan of Egypt who recovered Jerusalem from the crusaders employed as one of his physicians a Jewish scholar from Spain who was, at the same time, the head of the Egyptian Jewish community and the most consequential Jewish philosopher of the medieval world. That arrangement was unremarkable to everyone involved, and it sits alongside a state programme of endowing Sunni colleges across Egypt and Syria on a scale nobody had attempted before.

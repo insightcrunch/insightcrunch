@@ -9,7 +9,7 @@ excerpt: "In Roman Egypt a person's legal category set their tax, and their tax 
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2008-07-01
+last_updated: 2026-08-21
 lang: en
 ---
 A man in a village in the Fayum in the second century CE could tell you exactly what he was worth to the Roman state, because it was written down. He knew his legal category, he knew the annual poll tax attached to it, he knew what documents his family had lodged to prove that category, and he knew that his sons would inherit it. That knowledge structured almost everything else about his life: whether his children could attend the gymnasium, which court would hear his disputes, whether he could hold office, how much of his harvest he kept, and whom he could marry without losing what he had.

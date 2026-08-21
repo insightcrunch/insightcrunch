@@ -9,7 +9,7 @@ excerpt: "The best undercard acts at Lollapalooza play the small stages and earl
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-06
+last_updated: 2026-08-21
 lang: en
 ---
 The fans who walk out of Grant Park talking about the single best set they saw rarely name the artist who closed the night. They name the undercard act they almost skipped, the band on the small stage at two in the afternoon, the name printed in tiny type near the bottom of the poster that turned out to be the reason the whole weekend was worth the ticket. That gap between what the poster sells and what the festival actually delivers is the subject of this guide, because the undercard is where the real Lollapalooza lives, and almost every page written about the lineup ignores it completely.

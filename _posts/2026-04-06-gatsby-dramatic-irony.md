@@ -8,6 +8,7 @@ excerpt: "Dramatic irony in The Great Gatsby lets the reader watch the catastrop
 reading_time: 41
 tags: ["The Great Gatsby", "Dramatic Irony", "F. Scott Fitzgerald", "Close Reading", "Themes", "American Literature"]
 lang: en
+last_updated: 2026-08-21
 ---
 There is a moment near the end of the novel when a grieving man loads a revolver, walks across half of Long Island, and shoots the wrong person. George Wilson believes he is killing his wife's lover and the driver who ran her down. He is wrong on both counts, and every reader who has reached that page knows he is wrong. That gap, between what we know and what Wilson does not, is the engine this essay takes apart. Dramatic irony in The Great Gatsby is not a decorative flourish or a clever wink. It is the device that converts a sordid chain of accidents into something close to tragedy, because Fitzgerald arranges for the reader to carry knowledge the characters never receive, and then makes us watch them act in the dark.
 

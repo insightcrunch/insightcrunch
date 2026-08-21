@@ -9,7 +9,7 @@ excerpt: "The Arab conquest of Egypt took just three years, from 639 to 642, and
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 76
 author: "chloe-martin"
-last_updated: 2010-01-01
+last_updated: 2026-08-21
 lang: en
 ---
 In the winter of 639 a force of somewhere between three and four thousand men crossed into Egypt from the east. Egypt at that moment was the richest province of the Byzantine empire, the source of grain that fed a capital of hundreds of thousands, defended by fortifications, garrisons and a fleet, held by a state that had just won a twenty six year war against Persia. Within three years the province had changed hands permanently, and it has never returned to the empire that lost it. Explaining how that happened is the task of this article, and the explanation that fits the evidence is not primarily a military one.

@@ -9,7 +9,7 @@ excerpt: "Pacing and time compression in Gatsby explained: how Fitzgerald slows 
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 41
 author: "rachel-foster"
-last_updated: 2026-04-20
+last_updated: 2026-08-21
 lang: en
 ---
 A novel that covers a whole summer and runs to fewer than fifty thousand words has to make brutal decisions about where to linger and where to hurry, and pacing and time compression in Gatsby are the names for how Fitzgerald makes those decisions. Most readers feel the result before they can describe it: the party chapters drift and shimmer, the months between visits vanish in a sentence, and then the afternoon at the Plaza seems to last forever while the drive home that kills Myrtle Wilson is over almost before you register it. That uneven rhythm is not a flaw or an accident. It is a deliberate instrument. Fitzgerald slows the clock when intensity peaks and speeds it up when nothing is at stake, so the reader's sense of duration becomes a tension dial the author controls from the first page to the last.

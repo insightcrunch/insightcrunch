@@ -9,7 +9,7 @@ excerpt: "Who is Lollapalooza for? An honest read on the crowd, age range, solo 
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-05-03
+last_updated: 2026-08-21
 lang: en
 ---
 The question that brings most people to this page is not really about the festival. It is about themselves. Who is Lollapalooza for, and is that person anything like me? You have seen the photos of a sea of twenty-year-olds with their hands up, and you have done the quiet math: I am thirty-eight, or I am going alone, or I would rather hear a band I have never heard of from the back of a half-full field than get crushed at a rail, and you have started to suspect the answer is no. That suspicion is almost always wrong, and the reason it is wrong is the single most useful thing this guide can give you. The festival contains many festivals at once, and you get to pick which one you attend.

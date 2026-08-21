@@ -9,7 +9,7 @@ excerpt: "Boys bought from the steppe and the Caucasus became the ruling caste o
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2012-08-01
+last_updated: 2026-08-21
 lang: en
 ---
 A boy of perhaps ten or twelve was bought in a market north of the Black Sea, shipped to Egypt, converted to Islam, taught Arabic, given a decade of training in horsemanship and archery, freed by the man who had purchased him, and enrolled in the cavalry that ruled the richest state in the Islamic world. If he was able and lucky he might command an army or become sultan. His own son, born free and Muslim in Cairo, was barred from the caste entirely and would have to find something else to do.

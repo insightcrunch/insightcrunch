@@ -9,7 +9,7 @@ excerpt: "Cairo began in 969 not as a market town but as a walled royal enclosur
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2010-12-01
+last_updated: 2026-08-21
 lang: en
 ---
 In the summer of 969 a general acting for a caliph who was still a thousand miles away marked out a rectangle of ground north of Egypt's existing capital and began building a wall around it. Inside that wall went a palace, then a second palace facing it across an open square, then quarters for the regiments of the army, then a great mosque. Outside it, and expressly excluded from it, lay the largest and richest commercial city in Egypt and everybody who lived there.

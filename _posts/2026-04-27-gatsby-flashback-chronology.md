@@ -3,7 +3,7 @@ title: "Flashback and Chronology in The Great Gatsby"
 page_title: "Flashback and Chronology in The Great Gatsby: How Fitzgerald Reorders Gatsby's History to Build Suspense, with a Timeline Map and Essay Guide (Fitzgerald Literary Techniques)"
 excerpt: "Flashback and chronology in The Great Gatsby reorder Gatsby's history out of sequence, turning a broken timeline into Fitzgerald's quiet engine of suspense."
 date: 2026-04-27
-last_updated: 2026-04-27
+last_updated: 2026-08-21
 categories: ["Leisure"]
 author: "diana-patel"
 image: /assets/images/blog/blog-01.webp

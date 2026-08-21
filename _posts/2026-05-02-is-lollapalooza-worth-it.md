@@ -9,7 +9,7 @@ excerpt: "Is Lollapalooza worth it? An honest verdict on the cost, the crowds, a
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2026-05-02
+last_updated: 2026-08-21
 lang: en
 ---
 You have seen the poster, you have a rough sense of what a pass runs, and you are stuck on the one question no amount of scrolling seems to settle: is Lollapalooza worth it? Not whether it is famous, not whether the headliners are good, but whether the money, the crowds, the heat, and the days on your feet add up to something you will be glad you paid for. That question splits people into two camps before they ever reach Grant Park. One camp treats a four-day festival in downtown Chicago as an obvious yes and buys on impulse the hour passes go live. The other camp has read the forum threads, seen the words "overpriced" and "overcrowded" repeated a hundred times, and cannot tell whether those complaints describe a genuine problem or just the loudest voices in a room full of people who had a fine time and never posted about it.

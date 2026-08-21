@@ -9,7 +9,7 @@ excerpt: "See two headliners in one night at Lollapalooza with a deliberate spli
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-10
+last_updated: 2026-08-21
 lang: en
 ---
 The night the schedule breaks your heart is the night two artists you love close at the same hour on opposite ends of Grant Park, and you have to decide whether to see two headliners in one night or surrender one of them before the music even starts. This is the dream-scenario clash, the one people search for in a low-grade panic the week the times come out, and most of what they find either tells them it is impossible or pretends it is easy. Neither answer helps. The truth sits in between, and it is workable: you cannot fully watch both, but you can build a deliberate split that hands you the peaks of two great sets instead of the whole arc of one, and you can do it without spending the night sprinting blind through a quarter million people.

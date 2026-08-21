@@ -9,7 +9,7 @@ excerpt: "The seductress Cleopatra is largely a creation of Roman propaganda and
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2008-03-01
+last_updated: 2026-08-21
 lang: en
 ---
 Almost everything the average person believes about Cleopatra VII can be traced to people who wanted her destroyed or to people who wanted to sell tickets. That is not a rhetorical opening; it is a statement about sourcing that this article defends with named evidence. The seductive beauty who ruined two Roman generals and died of a snakebite in a fit of theatrical passion is a construction, assembled first by the propaganda apparatus of the man who defeated her, elaborated by a moralizing biographer a century and a half later, dramatized on the English stage in the seventeenth century, and finally industrialized by twentieth-century cinema.

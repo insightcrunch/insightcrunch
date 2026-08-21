@@ -9,7 +9,7 @@ excerpt: "Poland's air defense is a layered shield from Patriot to Pilica, and i
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 69
 author: "abigail-cooper"
-last_updated: 2026-04-21
+last_updated: 2026-08-21
 lang: en
 ---
 Ask a single question about Poland's air defense and you learn more than any system catalog can teach: not which interceptor flies farthest, but whether the shield can keep intercepting when the sky fills with threats faster than the launchers can answer. That is the decision-relevant question, and it is the one most coverage skips. The public conversation fixates on the marquee interceptor, the long-range missile with the impressive reach, as though buying it settles the matter. It does not. A modern air and missile threat arrives mixed and arrives in volume, and a shield is judged by what its layers achieve together under that pressure, not by the specification sheet of its best component.

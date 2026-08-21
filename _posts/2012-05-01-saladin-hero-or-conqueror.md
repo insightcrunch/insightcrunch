@@ -9,7 +9,7 @@ excerpt: "Two traditions romanticized him and both had reasons, so the honest ve
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2012-05-01
+last_updated: 2026-08-21
 lang: en
 ---
 In the same week of July 1187 the same man gave a cup of iced water to a captured king, told him he had nothing to fear, and then personally executed the lord standing beside him. Both acts are recorded by the same sources, both were witnessed, and any account that reports one without the other is not describing what happened.

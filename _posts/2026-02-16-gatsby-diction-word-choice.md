@@ -9,7 +9,7 @@ excerpt: "Diction and word choice in The Great Gatsby make single words load-bea
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 45
 author: "diana-patel"
-last_updated: 2026-02-16
+last_updated: 2026-08-21
 lang: en
 ---
 Most readers finish The Great Gatsby remembering scenes, the parties, the pool, the green light across the bay, and forget that none of it would survive a single careless substitution. The novel is short enough to read in an afternoon, yet its sentences have outlasted thousands of longer books, and the reason sits below the level of plot or theme. It sits in the vocabulary. A study of diction and word choice in The Great Gatsby is a study of how Fitzgerald makes one carefully selected term do the work that a weaker writer would need a paragraph to attempt. This is the most overlooked of all Fitzgerald literary techniques, because it hides in plain sight: the prose looks simple, so students assume the simplicity is accidental rather than engineered.

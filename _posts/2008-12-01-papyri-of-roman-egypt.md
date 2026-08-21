@@ -9,7 +9,7 @@ excerpt: "Egypt's discarded paperwork, thrown on rubbish mounds and preserved by
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2008-12-01
+last_updated: 2026-08-21
 lang: en
 ---
 Almost everything known about the ancient world comes from two kinds of source: monuments, which record what powerful people wanted remembered, and literature, which records what a tiny educated minority thought worth writing down and what later generations chose to keep copying. Both are severe filters. The result is a picture of antiquity in which emperors, generals, philosophers, and architects are visible and the overwhelming majority of human beings who actually lived are not.

@@ -9,7 +9,7 @@ excerpt: "In September 1260 a Mamluk army from Egypt met the Mongols in Galilee 
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2012-09-01
+last_updated: 2026-08-21
 lang: en
 ---
 Two years before this battle the Mongols had taken Baghdad, killed the Abbasid caliph and ended an institution that had existed for five centuries. In the six decades before that they had destroyed the states of Central Asia, Persia and northern China in sequence. Nothing in the experience of anyone alive suggested that they could be beaten in the field.

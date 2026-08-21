@@ -9,7 +9,7 @@ excerpt: "A Kurdish officer in an Arab and Turkish world rose through service to
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2011-10-01
+last_updated: 2026-08-21
 lang: en
 ---
 A man who ruled Egypt, Syria, Yemen and parts of Mesopotamia died in 1193 owning, according to those who settled his affairs, not enough to pay for his own burial. Whether the figure is exactly right or a pious simplification, the fact that his own household officials reported it and that nobody at the time contradicted them is the single most useful thing to know about him.

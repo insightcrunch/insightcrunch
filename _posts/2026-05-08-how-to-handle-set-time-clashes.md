@@ -9,7 +9,7 @@ excerpt: "Set time clashes are the hardest call at Lollapalooza. Use the split-o
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-05-08
+last_updated: 2026-08-21
 lang: en
 ---
 Every serious Lollapalooza plan dies at the same moment: two acts you have been waiting months to see are playing at the same time, on stages a long walk apart, and there is no version of the afternoon where you catch both in full. Set time clashes are the single most agonized-over problem at the festival, and they are the one problem most guides refuse to solve. They tell you the lineup. They tell you the stages. Then they hand you a grid where four of your must-sees overlap and wish you luck. This guide does the part everyone skips. It gives you a repeatable method for resolving any set time clash at Lollapalooza, a decision tree you can run in seconds, and the walk-time and crowd-flow math that turns an impossible double-booking into a clean call you will not regret at midnight.

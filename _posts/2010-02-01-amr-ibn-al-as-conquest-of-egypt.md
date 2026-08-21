@@ -9,7 +9,7 @@ excerpt: "Amr ibn al-As conquered Egypt in three years and then governed it, fou
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2010-02-01
+last_updated: 2026-08-21
 lang: en
 ---
 The man who took Egypt from the Byzantine empire is remembered almost everywhere as a general, and the description is accurate and incomplete in a way that misses what actually mattered about him. His campaign lasted three years. His involvement with Egypt lasted a quarter of a century, across two separate terms as governor, and in that time he founded the city that became the country's capital, built its first mosque, reopened a canal that redirected the province's grain, negotiated the settlement with the Christian majority, and kept the inherited administration running so smoothly that the tax receipts barely changed format. The conquest is what he is famous for. The governing is what shaped Egypt.

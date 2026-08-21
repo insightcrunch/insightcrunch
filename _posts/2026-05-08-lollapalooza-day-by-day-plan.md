@@ -9,7 +9,7 @@ excerpt: "A Lollapalooza day-by-day plan that shapes all four days as one arc, s
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-08
+last_updated: 2026-08-21
 lang: en
 ---
 The hardest scheduling problem at a multi-day festival is not which act to catch at four in the afternoon. It is what to do with the fourth stretch when your legs are gone, your ears are tired, and the part of you that felt invincible on the first afternoon has quietly left the building. A good Lollapalooza multi-day plan solves that problem before it starts. It treats the four days in Grant Park not as four separate marathons stacked end to end, but as a single arc with a shape: a place to push hard, a place to wander, a place to ease off on purpose, and a place to spend everything you have left. Most planning advice stops at the single day. The set-time grid, the clash, the walk between stages, the gate to use. That advice matters, and this series covers it in depth, but it answers a smaller question than the one a multi-day pass actually poses. The real question is how the days fit together, because the choice you make on the first afternoon determines whether the last night is a triumph or a slow shuffle toward the exit.

@@ -9,7 +9,7 @@ excerpt: "The conquest gave Egypt a new religion, a new language and a new capit
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2010-10-01
+last_updated: 2026-08-21
 lang: en
 ---
 A farmer in Upper Egypt in the year 900 spoke a different language from his great great grandfather, was more likely to follow a different religion, paid his taxes to a government in a city that had not existed three centuries earlier, and belonged to a world whose centre of gravity lay east rather than north. He also planted after the same flood, in the same fields, on the same schedule, using the same tools, and measured his year by the same river.

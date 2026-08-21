@@ -9,7 +9,7 @@ excerpt: "Syntax and sentence rhythm in Gatsby explained: how Fitzgerald shapes 
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2026-02-23
+last_updated: 2026-08-21
 lang: en
 ---
 Read the last line of the novel aloud and something happens that no summary can reproduce: the sentence slows, gathers, and lifts, so that the meaning arrives as a feeling before you have finished parsing the grammar. That effect is the subject of this article. Syntax and sentence rhythm in Gatsby are not a decorative surface laid over the story; they are the instrument Fitzgerald plays to control how fast a reader's pulse moves through a scene, when the reader is allowed to breathe, and when a sentence swells until its shape becomes indistinguishable from its sorrow. Most readers feel this and never name it. The aim here is to make the machinery audible, so that you can hear why a Fitzgerald sentence sounds the way it does and can say something exact about it in an essay.

@@ -9,7 +9,7 @@ excerpt: "The Ptolemies lived in Egypt and spent its surplus there, while Rome r
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2009-02-01
+last_updated: 2026-08-21
 lang: en
 ---
 Egypt spent nine centuries under foreign rule between the arrival of Alexander and the arrival of the Arab armies, and for the whole of that period the people governing it came from somewhere else. That fact makes it easy to treat the Ptolemaic and Roman periods as a single condition of subjection, differing only in the accents of the men at the top. They were not the same condition, and the difference is sharper and more consequential than almost any other comparison this series makes.

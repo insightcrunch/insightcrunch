@@ -9,7 +9,7 @@ excerpt: "A sultan who died in 1193 became a modern emblem of unity and resistan
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2012-06-01
+last_updated: 2026-08-21
 lang: en
 ---
 In 1898 a German emperor visited Damascus, laid a wreath at the tomb of a man who had been dead for seven hundred years, paid for the mausoleum's restoration and presented a new marble sarcophagus to stand beside the original wooden one. He was making a gesture toward the Muslim world for reasons entirely of his own century, and the effect was to monumentalize a figure whose grave had been quietly maintained without much ceremony for a very long time.

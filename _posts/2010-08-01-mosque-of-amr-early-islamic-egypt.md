@@ -9,7 +9,7 @@ excerpt: "The first mosque in Egypt and Africa has been rebuilt so often that al
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2010-08-01
+last_updated: 2026-08-21
 lang: en
 ---
 A visitor standing in the great courtyard of the Mosque of Amr is standing in the place where the first mosque in Egypt was built, and is looking at almost nothing that was there. The columns came from Roman and Byzantine buildings. The arcades were laid out in the ninth century. Most of the fabric visible is nineteenth century work. The original structure, a modest hall of mud brick and palm trunks smaller than a suburban house, was demolished within a generation of its founder's death.

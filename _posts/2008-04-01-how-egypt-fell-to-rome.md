@@ -9,7 +9,7 @@ excerpt: "Egypt fell to Rome in 30 BCE not because a queen died but because Octa
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2008-04-01
+last_updated: 2026-08-21
 lang: en
 ---
 On the first of August in 30 BCE, a Roman army entered Alexandria without a serious fight, because the fleet and cavalry that were supposed to defend it changed sides that morning. Within two weeks Mark Antony was dead, Cleopatra VII was dead, her eldest son had been hunted down and killed, and Egypt had stopped being a kingdom. Three thousand years of pharaonic rule, running from the unification of the Two Lands through thirty-odd dynasties, two Persian occupations, and three centuries of Macedonian kings, ended in a fortnight.

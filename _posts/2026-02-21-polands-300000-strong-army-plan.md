@@ -9,7 +9,7 @@ excerpt: "Poland's plan for a 300,000-strong army is a manpower test of whether 
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 72
 author: "andrew-price"
-last_updated: 2026-02-21
+last_updated: 2026-08-21
 lang: en
 ---
 Poland's plan for a 300,000-strong army is usually reported as a procurement story or a spending story, and it is neither. It is a manpower story, and manpower is the variable that decides whether every tank, launcher, and radar in the modernization has crews to fight it. A headline end-strength figure is easy to announce and hard to reach, because a force is not a number on a slide but a standing population of trained people who have to be recruited faster than they leave, trained to a usable standard before they deploy, and kept in uniform long enough to be worth the training. The single most decision-relevant question about the plan is not whether Poland wants a larger army. It plainly does, and the strategic logic is clear enough. The question is whether the manpower system underneath the target can actually deliver a fielded force at that size and hold it there, or whether the number describes an ambition that outruns the throughput of the recruiting depots, the training pipeline, and the retention curve.

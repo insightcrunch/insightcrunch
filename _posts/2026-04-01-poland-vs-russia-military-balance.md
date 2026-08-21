@@ -9,7 +9,7 @@ excerpt: "Poland vs Russia military balance, weighed function by function across
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 60
 author: "nathan-cole"
-last_updated: 2026-04-01
+last_updated: 2026-08-21
 lang: en
 ---
 The Poland vs Russia military balance is one of those comparisons that sounds simple and is not. Ask whether Poland could stand up to Russia one-on-one and you get two confident answers from serious people, pulling in opposite directions. One camp points to a Polish force that has bought heavy armor by the brigade, deep-strike rocket artillery, layered air defense, and a manpower expansion program, and concludes that Warsaw is turning itself into the strongest conventional land army in Europe west of the war. The other camp points to Russia's sheer mass, its missile inventory, its nuclear backstop, and a war economy running hot, and concludes that any bilateral contest ends one way. Both readings contain real facts. Both, taken alone, mislead.

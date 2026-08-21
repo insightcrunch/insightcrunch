@@ -9,7 +9,7 @@ excerpt: "For two centuries Egypt was not a province of an empire but the seat o
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 76
 author: "chloe-martin"
-last_updated: 2010-11-01
+last_updated: 2026-08-21
 lang: en
 ---
 In 969 an army arrived in Egypt from the west, took the country with almost no fighting, and immediately began building a walled city north of the existing capital. That city was not a garrison quarter or an administrative annexe. It was a palace complex designed to house a caliph, and the man it was built for already claimed to be the rightful leader of every Muslim on earth.

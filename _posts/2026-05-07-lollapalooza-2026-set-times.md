@@ -9,7 +9,7 @@ excerpt: "The Lollapalooza 2026 set times drop in the final week, so build your 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-05-07
+last_updated: 2026-08-21
 lang: en
 ---
 The Lollapalooza 2026 set times are the last big piece of information you get and the one you have the least time to act on. The full grid of who plays which stage, at what hour, on each of the four days lands in the final stretch before the festival, usually inside the last week, long after you have bought the pass, booked the room, and built the rest of the trip. That timing creates the single hardest scheduling problem of the whole weekend: the most decision-critical data shows up when you have the least runway, and the people who treat it as a final-week scramble lose hours of the festival to indecision while the prepared ones convert the grid into a day plan in a single sitting. Lollapalooza Chicago 2026 runs Thursday July 30 through Sunday August 2, 2026, in Grant Park, and this guide is built around one move that separates a smooth weekend from a frantic one.

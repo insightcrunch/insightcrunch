@@ -9,7 +9,7 @@ excerpt: "Egypt sat astride the only practical route carrying eastern spices to 
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2012-03-01
+last_updated: 2026-08-21
 lang: en
 ---
 A merchant in Venice paying for pepper in the year 1200 was, without knowing it, contributing to the wages of a soldier standing on a wall in Syria. The pepper had crossed the Indian Ocean, come up the Red Sea, been carried by camel across a desert, floated down the Nile and been sold at Alexandria, and at several points along that journey an Egyptian official had taken a share.

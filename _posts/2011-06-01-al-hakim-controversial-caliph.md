@@ -9,7 +9,7 @@ excerpt: "The Fatimid caliph who ruled Egypt from 996 to 1021 is remembered as a
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2011-06-01
+last_updated: 2026-08-21
 lang: en
 ---
 A ruler who orders the destruction of the holiest church in Christendom and then permits its rebuilding, who persecutes a religious minority and then reverses the persecution and invites the converted to return to their old faith, who bans a vegetable and then unbans it, who founds a research institution and then dismantles it, who walks out into the hills one night at the age of thirty six and is never seen again, presents a problem for anyone trying to write about him.

@@ -9,7 +9,7 @@ excerpt: "Single-day vs four-day Lollapalooza passes, settled with honest per-da
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2026-05-03
+last_updated: 2026-08-21
 lang: en
 ---
 You are on the buying screen, the lineup is announced, and the only real question left is the one that quietly shapes the entire trip: do you buy a single-day Lollapalooza pass or the four-day pass? Everything downstream hangs on it. The flight you book, the nights you reserve at a hotel, the budget you draw up, the friends you try to sync with, even how hard you chase a clashing set on a Saturday night, all of it bends around how many days you committed to at checkout. Most pages dodge this. They tell you the four-day is "the better value" in a single line and move on, which is true on a spreadsheet and useless the moment your actual constraints enter the room. The single-day versus four-day Lollapalooza decision deserves real math, an honest accounting of what each path costs you in money and flexibility, and a verdict that changes depending on who you are. That is what this page gives you.

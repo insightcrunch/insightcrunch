@@ -9,7 +9,7 @@ excerpt: "The Coptic Church holds one of the oldest apostolic claims in all of C
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2009-04-01
+last_updated: 2026-08-21
 lang: en
 ---
 There is a church whose head bears the title Pope, whose patriarchal line claims descent from an apostle, whose liturgy is celebrated in a language descended from that of the pharaohs, and whose calendar counts its years from a Roman persecution. It is not in communion with Rome, not in communion with Constantinople, and it has held that position for more than fifteen hundred years without either abandoning it or being absorbed.

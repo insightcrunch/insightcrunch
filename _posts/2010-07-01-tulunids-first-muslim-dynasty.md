@@ -9,7 +9,7 @@ excerpt: "Ahmad ibn Tulun turned an Abbasid governorship into a hereditary dynas
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2010-07-01
+last_updated: 2026-08-21
 lang: en
 ---
 In 868 a Turkic officer in his thirties arrived at Egypt's capital as a deputy governor, sent by a stepfather who had been granted the province and had no intention of visiting it. He held no independent authority, controlled neither the finances nor the troops he would need, and was the fourth or fifth such appointee in a decade. Within four years he controlled the province's revenue. Within a decade he had his own army, his own fleet, his own capital quarter and a second province in Syria. Within sixteen years he had passed all of it to his son. Egypt, ruled from elsewhere for more than eight hundred years, had a government of its own.

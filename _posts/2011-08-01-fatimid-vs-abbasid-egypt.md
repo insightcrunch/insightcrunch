@@ -9,7 +9,7 @@ excerpt: "Two caliphs claimed to lead the Islamic world at once, and the tenth c
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2011-08-01
+last_updated: 2026-08-21
 lang: en
 ---
 In the year 1000 there were three men calling themselves caliph, each claiming to be the rightful leader of all Muslims, sitting in Baghdad, Cairo and Córdoba. The one in Baghdad had the recognition of most of the Islamic world and could not leave his palace without permission from the Iranian dynasty controlling him. The one in Cairo had an army, a fleet, a treasury, the richest province in the region and almost no recognition outside it.

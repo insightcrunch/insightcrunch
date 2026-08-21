@@ -9,7 +9,7 @@ excerpt: "Lollapalooza first-timer mistakes cluster into a small, preventable se
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-03
+last_updated: 2026-08-21
 lang: en
 ---
 The most useful thing to know about Lollapalooza first-timer mistakes is that they are not random. Scroll any festival forum in the weeks after the gates close in Grant Park and the regret posts read like the same story told by different people: showed up at three in the afternoon and burned an hour in the entry line, planted at one stage and missed the act everyone raved about, ran a half-mile across the park for a clashing set and caught neither, hit a wall on the final afternoon and went home early, packed a bag that got turned away at security, lost the group when the phones died. Different names, same handful of errors. That pattern is the good news, because a small and predictable set of failures is a set you can solve before you ever board the train downtown.

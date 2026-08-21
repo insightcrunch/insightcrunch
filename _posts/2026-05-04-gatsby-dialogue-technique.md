@@ -9,7 +9,7 @@ excerpt: "Dialogue and speech in The Great Gatsby reveal class, character, and s
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 38
 author: "diana-patel"
-last_updated: 2026-05-04
+last_updated: 2026-08-21
 lang: en
 ---
 Read most study guides and you will find the conversations in The Great Gatsby treated as plumbing: lines that move characters from the lawn to the Plaza, deliver a plot point, and get out of the way. That reading wastes the richest layer of the book. Dialogue and speech in The Great Gatsby are not a delivery system for information; they are a second narration running underneath Nick's, one that reports on class, character, and motive even as the speakers try to manage what they reveal. When Gatsby calls a near stranger old sport, when Daisy lets her voice climb and fall over a sentence about nothing, when Tom turns a casual remark into a verdict on civilization, the talk is doing analytical work. It exposes the very things the speaker is trying to hide.

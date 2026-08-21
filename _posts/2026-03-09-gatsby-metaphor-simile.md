@@ -9,7 +9,7 @@ excerpt: "Metaphor and simile in The Great Gatsby do real thinking, fusing a con
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 40
 author: "amanda-ross"
-last_updated: 2026-03-09
+last_updated: 2026-08-21
 lang: en
 ---
 A reader can finish The Great Gatsby, admire the prose, and never notice that the book has been reasoning with them the whole time. The reasoning happens inside the comparisons. Metaphor and simile in The Great Gatsby are the places where Fitzgerald stops telling you what a thing is and shows you what it is like, and in that small swerve from statement to likeness he smuggles his whole argument about money, longing, and the cost of a dream. The danger is to treat these figures as ornament, as the pretty surface you skate across on the way to plot and theme. That misreads the engine for the paint. The famous comparisons are not decoration laid over an idea; they are the idea, compressed into an image you can hold.

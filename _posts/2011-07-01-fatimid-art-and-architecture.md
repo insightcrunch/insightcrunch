@@ -9,7 +9,7 @@ excerpt: "The dynasty is remembered as much for rock crystal the size of a fist 
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2011-07-01
+last_updated: 2026-08-21
 lang: en
 ---
 A vessel carved from a single block of quartz, its walls thinned until light passes through, decorated with animals in low relief and inscribed with a caliph's name, is among the most demanding objects any pre modern craftsman attempted. Roughly a hundred and eighty of them survive. Most are in European church treasuries, where they were kept as reliquaries by people who had no idea who made them.

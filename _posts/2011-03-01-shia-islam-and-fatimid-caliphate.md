@@ -9,7 +9,7 @@ excerpt: "An Ismaili Shia dynasty ruled a Sunni majority country for two centuri
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2011-03-01
+last_updated: 2026-08-21
 lang: en
 ---
 In 1171 the last Fatimid caliph died, the name in the Friday sermon was changed to the Abbasid caliph in Baghdad, and Egypt reverted to Sunni observance. No rising followed. No community defended the doctrine that had been the state creed for two centuries. Within a generation the organized Ismaili presence in Egypt had essentially disappeared.

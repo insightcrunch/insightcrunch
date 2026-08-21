@@ -9,7 +9,7 @@ excerpt: "A Lollapalooza first-timer survival system for four days: what to pack
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-05-01
+last_updated: 2026-08-21
 lang: en
 ---
 A first Lollapalooza punishes the unprepared in ways the lineup poster never warns you about. The set of skills that gets you through a Lollapalooza survival weekend has almost nothing to do with which acts you love and almost everything to do with how you handle eleven hours on your feet in downtown Chicago heat, a bag policy that turns away gear at the gate, a cell network that dies the second the crowd arrives, and a body that is being asked to do this four days running. Most of the advice floating around for newcomers reduces to two phrases repeated forever: stay hydrated and wear comfortable shoes. That advice is correct and almost useless, because it tells you the goal without telling you the system. This guide is the system. It treats getting through the weekend as a solvable engineering problem with a small number of failure points, and it walks you through each one in the order it will actually threaten your trip.

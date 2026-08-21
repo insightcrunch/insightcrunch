@@ -9,7 +9,7 @@ excerpt: "Learn to read a festival lineup poster like a planner: decode the font
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-05-05
+last_updated: 2026-08-21
 lang: en
 ---
 The moment a festival lineup poster drops, two kinds of people look at it. The first kind reads the top three names, feels something, and starts arguing about whether the bill is stacked or weak this year. The second kind reads the whole thing, top to bottom and left to right, and walks away already knowing which acts are getting long sets on the big stages, which midday names are worth showing up early for, and roughly how the four days will shake out before a single set time has been published. This guide turns you into the second kind of reader. Knowing how to read a festival lineup poster is a durable skill, not a one-time trivia win, because the conventions hold across nearly every major festival on earth and across every future edition of the one you care about most.

@@ -9,7 +9,7 @@ excerpt: "The lasting legacy of Coptic Egypt is continuity itself, a living comm
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2009-11-01
+last_updated: 2026-08-21
 lang: en
 ---
 Most legacies of the ancient world are things left behind. A ruin, a manuscript in a library, a technique that passed into other hands, a word that survived in a later language. They are studied because the people who made them are gone. The legacy of Coptic Egypt is not like that, and the difference is the entire point of this article. The community that produced it did not end. It has a hierarchy that traces its succession without a break, a liturgy performed in the descendant of the language of the pharaohs, a calendar counting from the third century, monasteries occupied continuously since late antiquity, and a population in the millions. Whatever else can be said about the Coptic inheritance, the first and largest item on the list is that there is somebody to inherit it.

@@ -9,7 +9,7 @@ excerpt: "Egypt's shift from pagan to Christian was both a real rupture and a qu
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 59
 author: "diana-patel"
-last_updated: 2009-12-01
+last_updated: 2026-08-21
 lang: en
 ---
 Two stories are told about what happened when Egypt stopped being pagan and became Christian, and they are almost perfect opposites. In the first, a violent new religion arrived, smashed the statues, chiselled the faces off the temple walls, burned the books, murdered the philosophers and extinguished three thousand years of civilization in a few decades of fanaticism. In the second, nothing much was lost at all, because the old religion simply put on new clothes: Isis became the Virgin, Horus became Saint George, the ankh became the cross, the festivals kept their dates, and Egyptian religion carried on underneath a Christian surface. Both stories are popular, both are told with confidence, and both are wrong in ways that can be demonstrated from the evidence.

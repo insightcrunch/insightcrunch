@@ -9,7 +9,7 @@ excerpt: "Poland's arms industry ambitions assessed: what co-production and tech
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 68
 author: "andrew-price"
-last_updated: 2026-05-11
+last_updated: 2026-08-21
 lang: en
 ---
 Poland's arms industry ambitions sit underneath the security question that the buildup usually gets discussed through, and they deserve to be assessed on their own terms rather than folded into a story about tanks and jets. The country has spent heavily on foreign platforms and has paired those buys with a stated intention to convert purchases into domestic capacity, so the material question is not only what Poland is acquiring but what its own factories, workforce, and design houses will be able to make, maintain, and replenish once the delivery trucks stop coming. That is a different question from how many brigades the army fields, and it is the one this assessment holds to. The honest answer separates what co-production and technology transfer can realistically deliver from what the marketing language around offset deals promises, and it names the rung of industrial maturity where the ambition runs into limits that money alone does not clear.

@@ -9,7 +9,7 @@ excerpt: "Copts under early Islamic rule were genuinely protected and steadily p
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2010-05-01
+last_updated: 2026-08-21
 lang: en
 ---
 Two accounts of the Christian population of Egypt under Muslim rule circulate widely and both are false in the same way. In the first, a persecuted community endures centuries of oppression, forced conversion and systematic humiliation. In the second, a tolerated minority lives untroubled under a benign order, protected by law and free to worship. Neither survives contact with the evidence, and the reason both persist is that each describes a real feature of the arrangement while omitting the other.

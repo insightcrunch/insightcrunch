@@ -9,7 +9,7 @@ excerpt: "Can Poland afford its defense spending? A fiscal analysis of the stick
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 69
 author: "jason-mckenzie"
-last_updated: 2026-03-21
+last_updated: 2026-08-21
 lang: en
 ---
 The question of whether Poland can afford its defense spending is usually answered with the wrong number. Analysts reach for the headline share of national output devoted to the military, or the eye-catching total of signed procurement contracts, and treat that figure as the verdict. It is not the verdict. It is the down payment. Poland's defense spending commits the country to a stream of obligations that stretch across the working life of every system it buys, and affordability is settled not at the moment of signature but years later, when the bills for fuel, spare parts, ammunition, trained crews, and the facilities to house them all come due at once and every year thereafter. A country can sign contracts it cannot ultimately keep. The affordability question is really a question about whether the whole flow can be maintained, not whether the first payment can be made.

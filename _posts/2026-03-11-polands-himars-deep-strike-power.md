@@ -9,7 +9,7 @@ excerpt: "Poland's HIMARS and deep-strike power extend deterrence into an advers
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
 author: "abigail-cooper"
-last_updated: 2026-03-11
+last_updated: 2026-08-21
 lang: en
 ---
 The most decision-relevant question about Poland's HIMARS and deep-strike power is not how far the rockets fly. It is what holding an adversary's rear at risk actually contributes to keeping the peace, and how far that contribution extends before it runs into a wall the launcher cannot climb. Poland's HIMARS acquisition, alongside a much larger buy of South Korean precision rocket artillery, has become one of the visible centerpieces of the country's post-invasion rearmament, and it is routinely described in headlines as a capability that lets Warsaw threaten targets deep inside hostile territory. That description is accurate as far as it goes. The trouble is that it does not go very far, because reach is the easiest part of the capability to state and the least important part to understand. A launcher on a truck with a long-range rocket is a fact. A capability that changes an adversary's calculations is a system, and a system includes the sensors that find something worth striking, the command arrangements that decide whether to strike it, the stockpile that determines how many times the launcher can fire before it falls silent, and the survivability that keeps it firing at all. This analysis holds the reach question to that harder standard, treating deep-strike as a contribution to deterrence by denial rather than as a number on a range chart.

@@ -9,7 +9,7 @@ excerpt: "Egypt from 1171 to 1250 was the wealthy unified base from which a Kurd
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 77
 author: "diana-patel"
-last_updated: 2011-09-01
+last_updated: 2026-08-21
 lang: en
 ---
 The crusader states had held the Syrian coast for seventy years when a Kurdish officer became vizier of Egypt. Within two decades he had abolished the caliphate he served, taken the country, joined it to Syria, defeated the crusader field army and recovered Jerusalem. Nothing about that sequence was predictable in 1169, and the thing that made it possible was not generalship but geography combined with revenue.

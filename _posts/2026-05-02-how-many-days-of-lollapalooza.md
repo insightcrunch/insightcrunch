@@ -9,7 +9,7 @@ excerpt: "How many days of Lollapalooza should you do? An honest breakdown of on
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-02
+last_updated: 2026-08-21
 lang: en
 ---
 The decision that quietly shapes a Lollapalooza trip more than any headliner is also the one most people make on autopilot: how many days of Lollapalooza should you actually do? The festival runs four days across the lakefront half of Grant Park, the four-day pass is marketed as the obvious buy, and the default answer most guides give is "all of them, you paid for it, go." That answer ignores the thing that decides whether a weekend feels transcendent or just long: your body and your budget can only sustain so much festival at full quality, and a fourth day spent sunburned, footsore, and running on three hours of sleep returns almost nothing compared to the cost of getting there. This article resolves the day-count question on its merits, separating how much festival you should take on from the pass-purchase math, and then helps you pick which day to attend if the answer is not all four.

@@ -9,7 +9,7 @@ excerpt: "The Fayum mummy portraits set a naturalistic Greco-Roman painted face 
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2008-10-01
+last_updated: 2026-08-21
 lang: en
 ---
 A woman looks out from a thin wooden panel with dark eyes, gold earrings, and a slight asymmetry in her mouth. She was painted in Egypt sometime in the second century of the common era, in coloured wax, by an artist working in a Greek tradition of naturalistic portraiture. The panel was then cut to shape and bound into the wrappings of her mummified body, prepared by embalmers using methods that had been in use along the Nile for three thousand years. Her face is Roman. Her body is pharaonic. She is the same person.

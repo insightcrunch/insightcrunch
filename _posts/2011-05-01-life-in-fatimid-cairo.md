@@ -9,7 +9,7 @@ excerpt: "A storeroom of discarded paper preserved the letters and contracts of 
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2011-05-01
+last_updated: 2026-08-21
 lang: en
 ---
 A woman writes to her brother about a household dispute. A merchant instructs an agent about a shipment and complains about the price of flax. A father lists what his daughter is bringing to her marriage, item by item, down to the cooking pots. A schoolboy practises his letters on a scrap. None of these people expected to be read by anyone but their correspondent, and all of them are readable.

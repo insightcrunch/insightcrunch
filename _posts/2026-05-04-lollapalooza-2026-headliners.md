@@ -10,7 +10,7 @@ excerpt: "The Lollapalooza 2026 headliners ranked on live reputation, catalog, a
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-04
+last_updated: 2026-08-21
 lang: en
 ---
 The Lollapalooza 2026 headliners are not a list to scroll past on the way to buying a ticket. They are eight decisions, two of them forced on you every night, and the whole shape of your festival depends on how you make them. Charli XCX, Tate McRae, Lorde, Olivia Dean, John Summit, JENNIE, The Smashing Pumpkins, and The xx close the two largest stages across the four days in Grant Park, and because those two stages sit at opposite ends of the park and their headline sets run at the same hour, you cannot see both. Every night you pick one rail or the other, and the picking is the planning. This page exists to help you choose, not just to admire the poster.

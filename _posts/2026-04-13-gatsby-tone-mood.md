@@ -9,7 +9,7 @@ excerpt: "Tone and mood in The Great Gatsby pull against each other: one elegiac
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 38
 author: "chloe-martin"
-last_updated: 2026-04-13
+last_updated: 2026-08-21
 lang: en
 ---
 Ask a classroom what the tone and mood in The Great Gatsby are, and the answers blur together into a single fog: sad, dreamy, glamorous, tragic, nostalgic. The words pile up, none of them wrong, none of them precise, and the confusion hides a craft distinction that the novel is built on. Tone is the narrator's attitude, the settled stance Nick takes toward the story he is telling. Mood is the atmosphere of a given scene, the feeling the prose stirs in the reader as the party roars or the heat presses down or the pool goes still. Mix the two and the book flattens into a vague sadness. Keep them apart and you can see the engine: one steady attitude riding over a surface of constantly changing weather.

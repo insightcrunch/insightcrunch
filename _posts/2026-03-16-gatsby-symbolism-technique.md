@@ -9,6 +9,7 @@ author: "diana-patel"
 reading_time: 60
 tags: ["The Great Gatsby", "Symbolism", "The Green Light", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 lang: en
+last_updated: 2026-08-21
 ---
 Most readers meet the symbols of The Great Gatsby the way a tourist meets a famous painting: they learn the caption, nod, and move on. The green light equals hope. The eyes on the billboard equal God. The valley of ashes equals moral decay. These captions are not wrong, exactly, but they treat the novel as a code to be cracked rather than a piece of craft to be watched in motion, and they miss the thing that actually makes the book extraordinary. Symbolism as a technique in Gatsby is not a list of objects with fixed definitions attached. It is a method, a way of working that Fitzgerald repeats across the whole novel, and once you can see the method you can read any image in the book without waiting for someone to hand you its meaning.
 

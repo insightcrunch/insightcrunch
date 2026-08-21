@@ -9,7 +9,7 @@ excerpt: "Why Poland bought Abrams and K2 tanks: what heavy armor buys on open t
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
 author: "alex-cunningham"
-last_updated: 2026-03-01
+last_updated: 2026-08-21
 lang: en
 ---
 The question that matters about Poland's tanks is not how many the army will own or how their armor rates against a spec sheet. It is why a mid-sized European land force decided to field two separate heavy main battle tank fleets at once, one American and one South Korean, on top of the Western and post-Soviet types it already ran, and what that choice reveals about how Poland expects the eastern flank to be fought. A procurement decision is a bet. The Abrams and K2 purchase is a bet that armored mass still decides a fight on open ground, that the speed of getting steel into service was worth accepting a harder sustainment problem, and that spreading the order across two suppliers bought leverage and delivery pace that a single source could not. Read that way, the tanks stop being a shopping list and become a statement about the concept of defense they are meant to serve.

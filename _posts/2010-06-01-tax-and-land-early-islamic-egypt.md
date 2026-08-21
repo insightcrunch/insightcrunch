@@ -9,7 +9,7 @@ excerpt: "Taxation was the engine of change in early Islamic Egypt, since the po
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2010-06-01
+last_updated: 2026-08-21
 lang: en
 ---
 Most accounts of early Islamic Egypt are about armies, governors, doctrines and cities. The thing that actually shaped the province, that determined how ordinary people lived, that caused every rebellion of the period, and that quietly transformed the religion of the population over centuries, was the tax system. It is not a glamorous subject and it is the correct place to look, because Egypt was acquired for its revenue, administered for its revenue, and reshaped by the arrangements made to extract it.

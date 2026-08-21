@@ -9,7 +9,7 @@ excerpt: "Begun around 1176 on the hills east of Cairo, the Citadel housed the g
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2012-01-01
+last_updated: 2026-08-21
 lang: en
 ---
 A visitor standing on the western terrace of the Citadel of Cairo is looking at the city from the exact spot where every Egyptian government stood for roughly seven hundred years. Ayyubid sultans, Mamluk amirs, Ottoman governors and a nineteenth century ruler who remade the country all conducted the business of Egypt from this rock, and every one of them rebuilt part of it.

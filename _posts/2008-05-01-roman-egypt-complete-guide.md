@@ -9,7 +9,7 @@ excerpt: "Roman Egypt was governed unlike any other province in the empire becau
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 76
 author: "amanda-ross"
-last_updated: 2008-05-01
+last_updated: 2026-08-21
 lang: en
 ---
 Rome ruled Egypt for longer than the pharaohs of the New Kingdom ruled it, longer than the Ptolemies ruled it, and longer than any single Islamic dynasty would rule it afterward. From the annexation in 30 BCE to the completion of the Arab conquest in the early 640s CE is roughly six hundred and seventy years, and for most of that time Egypt was the wealthiest and most tightly controlled possession the Roman state held. Yet the period is routinely skipped, treated as a long grey corridor between Cleopatra and the pyramids of the tourist imagination on one side and Islamic Cairo on the other.

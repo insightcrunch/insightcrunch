@@ -9,7 +9,7 @@ excerpt: "Three times the crusaders landed in the Delta, took the same port and 
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2012-02-01
+last_updated: 2026-08-21
 lang: en
 ---
 In 1219 a crusader army held the port of Damietta at the mouth of the eastern branch of the Nile, and the sultan of Egypt offered to hand over Jerusalem, the True Cross and a long truce in exchange for its return. The offer was refused. Two years later the same army was trapped between rising water and a Muslim force, and surrendered the city it had spent eighteen months taking, having achieved nothing.

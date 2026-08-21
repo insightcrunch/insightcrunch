@@ -4090,17 +4090,17 @@ how-the-nile-built-egyptian-state:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: origins-of-egyptian-hieroglyphs
   title: The Origins of Egyptian Hieroglyphs
   url: /2000/05/01/origins-of-egyptian-hieroglyphs/
   category: leisure
   image: /assets/images/blog/blog-89.webp
-  lang: en
-- slug: greek-egyptian-life-alexandria
-  title: Greek and Egyptian Life in Alexandria
-  url: /2008/01/01/greek-egyptian-life-alexandria/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
   lang: en
 how-we-know-about-predynastic-egypt:
 - slug: predynastic-egypt-complete-guide
@@ -4109,23 +4109,23 @@ how-we-know-about-predynastic-egypt:
   category: leisure
   image: /assets/images/blog/blog-07.webp
   lang: en
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
 - slug: unification-of-ancient-egypt
   title: The Unification of Egypt Explained
   url: /2000/02/01/unification-of-ancient-egypt/
   category: leisure
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: predynastic-vs-early-dynastic-egypt
-  title: Predynastic vs Early Dynastic Egypt
-  url: /2000/10/01/predynastic-vs-early-dynastic-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
-- slug: daily-life-in-predynastic-egypt
-  title: Daily Life in Predynastic Egypt
-  url: /2000/04/01/daily-life-in-predynastic-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-74.webp
   lang: en
 plumbing-diy-or-call-a-pro:
 - slug: hire-a-plumber-complete-guide
@@ -6595,17 +6595,17 @@ golden-age-egyptian-literature:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: new-kingdom-of-egypt-guide
   title: 'The New Kingdom of Egypt: Complete Guide'
   url: /2003/05/01/new-kingdom-of-egypt-guide/
   category: leisure
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: senusret-iii-middle-kingdom
-  title: Senusret III and the Middle Kingdom Peak
-  url: /2001/12/01/senusret-iii-middle-kingdom/
-  category: leisure
-  image: /assets/images/blog/blog-45.webp
   lang: en
 upsc-psir-vs-history:
 - slug: upsc-philosophy-vs-anthropology
@@ -7220,23 +7220,23 @@ osiris-abydos-cult-of-the-dead:
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
-- slug: golden-age-egyptian-literature
-  title: The Golden Age of Egyptian Literature
-  url: /2002/01/01/golden-age-egyptian-literature/
+- slug: daily-life-in-roman-egypt
+  title: Daily Life in Roman Egypt
+  url: /2008/07/01/daily-life-in-roman-egypt/
   category: leisure
-  image: /assets/images/blog/blog-24.webp
+  image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: atenism-egypt-first-monotheism
-  title: 'Atenism: Egypt''s First Monotheism?'
-  url: /2004/05/01/atenism-egypt-first-monotheism/
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
-- slug: middle-kingdom-of-egypt-guide
-  title: 'The Middle Kingdom of Egypt: Complete Guide'
-  url: /2001/09/01/middle-kingdom-of-egypt-guide/
+- slug: mummy-portraits-of-roman-egypt
+  title: The Mummy Portraits of Roman Egypt
+  url: /2008/10/01/mummy-portraits-of-roman-egypt/
   category: leisure
-  image: /assets/images/blog/blog-115.webp
+  image: /assets/images/blog/blog-91.webp
   lang: en
 upsc-anthropology-optional-guide:
 - slug: upsc-statistics-optional
@@ -8269,6 +8269,12 @@ chariot-and-bronze-age-egypt:
   category: leisure
   image: /assets/images/blog/blog-102.webp
   lang: en
+- slug: revolts-of-roman-egypt
+  title: The Revolts of Roman Egypt
+  url: /2008/09/01/revolts-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 - slug: war-that-drove-out-the-hyksos
   title: The War That Drove the Hyksos From Egypt
   url: /2002/10/01/war-that-drove-out-the-hyksos/
@@ -8280,12 +8286,6 @@ chariot-and-bronze-age-egypt:
   url: /2002/07/01/hyksos-second-intermediate-period/
   category: leisure
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: how-hyksos-took-over-egypt
-  title: How the Hyksos Took Over Ancient Egypt
-  url: /2002/08/01/how-hyksos-took-over-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-99.webp
   lang: en
 hvac-needs-by-climate:
 - slug: choosing-an-hvac-system
@@ -8918,11 +8918,11 @@ foreign-rule-and-egyptian-identity:
   category: leisure
   image: /assets/images/blog/blog-10.webp
   lang: en
-- slug: how-hyksos-took-over-egypt
-  title: How the Hyksos Took Over Ancient Egypt
-  url: /2002/08/01/how-hyksos-took-over-egypt/
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
   category: leisure
-  image: /assets/images/blog/blog-99.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 upsc-gs1-indian-history-ancient-modern-mains:
 - slug: upsc-mains-gs-paper-1-heritage-history-geography-society
@@ -10729,11 +10729,11 @@ gold-tribute-egyptian-empire:
   category: leisure
   image: /assets/images/blog/blog-103.webp
   lang: en
-- slug: sea-peoples-bronze-age-collapse
-  title: The Sea Peoples and the Bronze Age Collapse
-  url: /2005/07/01/sea-peoples-bronze-age-collapse/
+- slug: how-egypt-fell-to-rome
+  title: How Egypt Fell to the Roman Empire
+  url: /2008/04/01/how-egypt-fell-to-rome/
   category: leisure
-  image: /assets/images/blog/blog-102.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 repair-rewire-or-upgrade-panel:
 - slug: hvac-cost-guide
@@ -10929,17 +10929,17 @@ atenism-egypt-first-monotheism:
   category: leisure
   image: /assets/images/blog/blog-113.webp
   lang: en
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 - slug: hatshepsut-female-pharaoh-of-egypt
   title: 'Hatshepsut: Egypt''s Great Female Pharaoh'
   url: /2003/06/01/hatshepsut-female-pharaoh-of-egypt/
   category: leisure
   image: /assets/images/blog/blog-100.webp
-  lang: en
-- slug: women-and-power-in-new-kingdom
-  title: Women and Power in New Kingdom Egypt
-  url: /2003/11/01/women-and-power-in-new-kingdom/
-  category: leisure
-  image: /assets/images/blog/blog-65.webp
   lang: en
 electrician-scams-red-flags:
 - slug: how-to-vet-an-electrician
@@ -11054,17 +11054,17 @@ discovery-of-tutankhamun-tomb:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: valley-of-the-kings-explained
   title: The Valley of the Kings Explained
   url: /2004/01/01/valley-of-the-kings-explained/
   category: leisure
   image: /assets/images/blog/blog-109.webp
-  lang: en
-- slug: new-kingdom-of-egypt-guide
-  title: 'The New Kingdom of Egypt: Complete Guide'
-  url: /2003/05/01/new-kingdom-of-egypt-guide/
-  category: leisure
-  image: /assets/images/blog/blog-113.webp
   lang: en
 amarna-art-revolution-in-style:
 - slug: why-egypt-erased-amarna-pharaohs
@@ -11123,6 +11123,12 @@ amarna-letters-egypt-diplomacy:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: why-egypt-erased-amarna-pharaohs
   title: Why Egypt Erased the Amarna Pharaohs
   url: /2004/12/01/why-egypt-erased-amarna-pharaohs/
@@ -11134,12 +11140,6 @@ amarna-letters-egypt-diplomacy:
   url: /2003/12/01/gold-tribute-egyptian-empire/
   category: leisure
   image: /assets/images/blog/blog-75.webp
-  lang: en
-- slug: predynastic-egypt-complete-guide
-  title: 'Predynastic Egypt: The Complete Guide'
-  url: /2000/01/01/predynastic-egypt-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-07.webp
   lang: en
 akhenaten-visionary-or-tyrant:
 - slug: amarna-art-revolution-in-style
@@ -11210,11 +11210,11 @@ why-egypt-erased-amarna-pharaohs:
   category: leisure
   image: /assets/images/blog/blog-48.webp
   lang: en
-- slug: egypt-influence-on-greek-thought
-  title: Egypt's Influence on Greek Thought
-  url: /2007/04/01/egypt-influence-on-greek-thought/
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
   category: leisure
-  image: /assets/images/blog/blog-73.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 how-to-vet-a-roofer:
 - slug: how-to-vet-an-hvac-contractor
@@ -11354,17 +11354,17 @@ worlds-first-peace-treaty-egypt:
   category: leisure
   image: /assets/images/blog/blog-23.webp
   lang: en
-- slug: golden-age-egyptian-literature
-  title: The Golden Age of Egyptian Literature
-  url: /2002/01/01/golden-age-egyptian-literature/
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
   category: leisure
-  image: /assets/images/blog/blog-24.webp
+  image: /assets/images/blog/blog-79.webp
   lang: en
-- slug: gold-tribute-egyptian-empire
-  title: Gold, Tribute, and the Egyptian Empire
-  url: /2003/12/01/gold-tribute-egyptian-empire/
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
   category: leisure
-  image: /assets/images/blog/blog-75.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 repair-or-replace-your-roof:
 - slug: hire-a-roofer-complete-guide
@@ -11504,17 +11504,17 @@ first-labor-strike-in-history:
   category: leisure
   image: /assets/images/blog/blog-75.webp
   lang: en
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: new-kingdom-of-egypt-guide
   title: 'The New Kingdom of Egypt: Complete Guide'
   url: /2003/05/01/new-kingdom-of-egypt-guide/
   category: leisure
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: valley-of-the-kings-explained
-  title: The Valley of the Kings Explained
-  url: /2004/01/01/valley-of-the-kings-explained/
-  category: leisure
-  image: /assets/images/blog/blog-109.webp
   lang: en
 tomb-robbery-fall-of-new-kingdom:
 - slug: ramesside-egypt-complete-guide
@@ -12104,17 +12104,17 @@ third-intermediate-a-dark-age:
   category: leisure
   image: /assets/images/blog/blog-48.webp
   lang: en
+- slug: papyri-of-roman-egypt
+  title: What Papyri Reveal About Roman Egypt
+  url: /2008/12/01/papyri-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: egypt-influence-on-greek-thought
   title: Egypt's Influence on Greek Thought
   url: /2007/04/01/egypt-influence-on-greek-thought/
   category: leisure
   image: /assets/images/blog/blog-73.webp
-  lang: en
-- slug: how-we-know-about-predynastic-egypt
-  title: How We Know About Predynastic Egypt
-  url: /2000/09/01/how-we-know-about-predynastic-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-61.webp
   lang: en
 mussolini-invades-greece-october-1940:
 - slug: norway-invasion-hitler-april-1940
@@ -12248,6 +12248,12 @@ late-period-of-ancient-egypt:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: middle-kingdom-of-egypt-guide
+  title: 'The Middle Kingdom of Egypt: Complete Guide'
+  url: /2001/09/01/middle-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
 - slug: herodotus-account-of-egypt
   title: Herodotus and His Account of Egypt
   url: /2007/05/01/herodotus-account-of-egypt/
@@ -12259,12 +12265,6 @@ late-period-of-ancient-egypt:
   url: /2007/04/01/egypt-influence-on-greek-thought/
   category: leisure
   image: /assets/images/blog/blog-73.webp
-  lang: en
-- slug: saite-renaissance-of-egypt
-  title: The Saite Renaissance of Egypt
-  url: /2006/10/01/saite-renaissance-of-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-71.webp
   lang: en
 - slug: how-persia-conquered-egypt
   title: How Persia Conquered Ancient Egypt
@@ -12435,17 +12435,17 @@ saite-renaissance-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
+- slug: new-kingdom-of-egypt-guide
+  title: 'The New Kingdom of Egypt: Complete Guide'
+  url: /2003/05/01/new-kingdom-of-egypt-guide/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
 - slug: art-revival-fragmented-egypt
   title: Art and Revival in a Fragmented Egypt
   url: /2006/05/01/art-revival-fragmented-egypt/
   category: leisure
   image: /assets/images/blog/blog-48.webp
-  lang: en
-- slug: persian-vs-native-rule-in-egypt
-  title: Persian vs Native Rule in Late Egypt
-  url: /2007/06/01/persian-vs-native-rule-in-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-11.webp
   lang: en
 copperheads-northern-democrats-1864:
 - slug: lincoln-vs-fdr-civil-liberties
@@ -13553,11 +13553,11 @@ animal-cults-late-egyptian-religion:
   category: leisure
   image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: persian-vs-native-rule-in-egypt
-  title: Persian vs Native Rule in Late Egypt
-  url: /2007/06/01/persian-vs-native-rule-in-egypt/
+- slug: mummy-portraits-of-roman-egypt
+  title: The Mummy Portraits of Roman Egypt
+  url: /2008/10/01/mummy-portraits-of-roman-egypt/
   category: leisure
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-91.webp
   lang: en
 washington-farewell-address-hamilton-edits:
 - slug: washington-refuses-third-term-1796
@@ -13703,17 +13703,17 @@ egypt-influence-on-greek-thought:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
 - slug: persian-vs-native-rule-in-egypt
   title: Persian vs Native Rule in Late Egypt
   url: /2007/06/01/persian-vs-native-rule-in-egypt/
   category: leisure
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: greeks-in-egypt-before-alexander
-  title: Greeks in Egypt Before Alexander
-  url: /2007/01/01/greeks-in-egypt-before-alexander/
-  category: leisure
-  image: /assets/images/blog/blog-33.webp
   lang: en
 curse-of-tippecanoe-myth-graded:
 - slug: washington-wooden-teeth-real-materials
@@ -13884,11 +13884,11 @@ herodotus-account-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
-- slug: greeks-in-egypt-before-alexander
-  title: Greeks in Egypt Before Alexander
-  url: /2007/01/01/greeks-in-egypt-before-alexander/
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
   category: leisure
-  image: /assets/images/blog/blog-33.webp
+  image: /assets/images/blog/blog-79.webp
   lang: en
 washington-wooden-teeth-real-materials:
 - slug: washington-cherry-tree-myth-debunked
@@ -14034,11 +14034,11 @@ persian-vs-native-rule-in-egypt:
   category: leisure
   image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: last-native-pharaohs-of-egypt
-  title: The Last Native Pharaohs of Egypt
-  url: /2006/12/01/last-native-pharaohs-of-egypt/
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-79.webp
   lang: en
 reagan-partisan-gap-scholars-public:
 - slug: eisenhower-reappraisal-golfer-to-genius
@@ -14197,6 +14197,12 @@ ptolemaic-egypt-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
 - slug: science-learning-in-alexandria
   title: Science and Learning in Ancient Alexandria
   url: /2008/02/01/science-learning-in-alexandria/
@@ -14208,12 +14214,6 @@ ptolemaic-egypt-complete-guide:
   url: /2007/10/01/library-lighthouse-of-alexandria/
   category: leisure
   image: /assets/images/blog/blog-04.webp
-  lang: en
-- slug: alexander-conquest-of-egypt
-  title: Alexander the Great's Conquest of Egypt
-  url: /2007/08/01/alexander-conquest-of-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-95.webp
   lang: en
 wilson-segregationist-reputation-fall:
 - slug: fdr-recent-critiques-decline
@@ -14353,17 +14353,17 @@ alexander-conquest-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
 - slug: persian-vs-native-rule-in-egypt
   title: Persian vs Native Rule in Late Egypt
   url: /2007/06/01/persian-vs-native-rule-in-egypt/
   category: leisure
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: late-period-of-ancient-egypt
-  title: The Late Period of Ancient Egypt
-  url: /2006/09/01/late-period-of-ancient-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
   lang: en
 war-hero-to-president-pipeline-pattern:
 - slug: executive-orders-count-per-president
@@ -14522,23 +14522,23 @@ ptolemy-i-founding-of-dynasty:
   category: leisure
   image: /assets/images/blog/blog-41.webp
   lang: en
+- slug: how-egypt-fell-to-rome
+  title: How Egypt Fell to the Roman Empire
+  url: /2008/04/01/how-egypt-fell-to-rome/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 - slug: cleopatra-caesar-and-antony
   title: Cleopatra, Caesar, and Mark Antony
   url: /2007/12/01/cleopatra-caesar-and-antony/
   category: leisure
   image: /assets/images/blog/blog-111.webp
   lang: en
-- slug: middle-kingdom-administration-trade
-  title: Administration and Trade in the Middle Kingdom
-  url: /2002/02/01/middle-kingdom-administration-trade/
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
   category: leisure
-  image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: science-learning-in-alexandria
-  title: Science and Learning in Ancient Alexandria
-  url: /2008/02/01/science-learning-in-alexandria/
-  category: leisure
-  image: /assets/images/blog/blog-88.webp
+  image: /assets/images/blog/blog-79.webp
   lang: en
 foreign-policy-doctrines-outlive-presidents:
 - slug: executive-orders-count-per-president
@@ -14715,17 +14715,17 @@ library-lighthouse-of-alexandria:
   category: leisure
   image: /assets/images/blog/blog-88.webp
   lang: en
-- slug: ptolemaic-egypt-complete-guide
-  title: 'Ptolemaic Egypt: The Complete Guide'
-  url: /2007/07/01/ptolemaic-egypt-complete-guide/
+- slug: egypt-breadbasket-of-rome
+  title: 'Egypt: The Breadbasket of Rome'
+  url: /2008/06/01/egypt-breadbasket-of-rome/
   category: leisure
-  image: /assets/images/blog/blog-35.webp
+  image: /assets/images/blog/blog-91.webp
   lang: en
-- slug: how-we-know-about-predynastic-egypt
-  title: How We Know About Predynastic Egypt
-  url: /2000/09/01/how-we-know-about-predynastic-egypt/
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
   category: leisure
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-79.webp
   lang: en
 vp-inherited-mid-crisis-audit:
 - slug: scandal-clock-two-term-year-six-pattern
@@ -14865,17 +14865,17 @@ cleopatra-last-pharaoh-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-38.webp
   lang: en
-- slug: ptolemaic-egypt-complete-guide
-  title: 'Ptolemaic Egypt: The Complete Guide'
-  url: /2007/07/01/ptolemaic-egypt-complete-guide/
+- slug: real-cleopatra-vs-the-legend
+  title: The Real Cleopatra Versus the Legend
+  url: /2008/03/01/real-cleopatra-vs-the-legend/
   category: leisure
-  image: /assets/images/blog/blog-35.webp
+  image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: middle-kingdom-administration-trade
-  title: Administration and Trade in the Middle Kingdom
-  url: /2002/02/01/middle-kingdom-administration-trade/
+- slug: how-egypt-fell-to-rome
+  title: How Egypt Fell to the Roman Empire
+  url: /2008/04/01/how-egypt-fell-to-rome/
   category: leisure
-  image: /assets/images/blog/blog-19.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 if-washington-accepted-crown-counterfactual:
 - slug: washington-farewell-address-hamilton-edits
@@ -15034,23 +15034,23 @@ cleopatra-caesar-and-antony:
   category: leisure
   image: /assets/images/blog/blog-41.webp
   lang: en
+- slug: how-egypt-fell-to-rome
+  title: How Egypt Fell to the Roman Empire
+  url: /2008/04/01/how-egypt-fell-to-rome/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: real-cleopatra-vs-the-legend
+  title: The Real Cleopatra Versus the Legend
+  url: /2008/03/01/real-cleopatra-vs-the-legend/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
 - slug: ptolemy-i-founding-of-dynasty
   title: Ptolemy I and the Founding of a Dynasty
   url: /2007/09/01/ptolemy-i-founding-of-dynasty/
   category: leisure
   image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: middle-kingdom-administration-trade
-  title: Administration and Trade in the Middle Kingdom
-  url: /2002/02/01/middle-kingdom-administration-trade/
-  category: leisure
-  image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: late-period-of-ancient-egypt
-  title: The Late Period of Ancient Egypt
-  url: /2006/09/01/late-period-of-ancient-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
   lang: en
 if-ford-won-1976-counterfactual:
 - slug: if-hinckley-killed-reagan-counterfactual
@@ -15196,11 +15196,11 @@ greek-egyptian-life-alexandria:
   category: leisure
   image: /assets/images/blog/blog-35.webp
   lang: en
-- slug: how-the-nile-built-egyptian-state
-  title: How the Nile Built the Egyptian State
-  url: /2000/08/01/how-the-nile-built-egyptian-state/
+- slug: egypt-breadbasket-of-rome
+  title: 'Egypt: The Breadbasket of Rome'
+  url: /2008/06/01/egypt-breadbasket-of-rome/
   category: leisure
-  image: /assets/images/blog/blog-87.webp
+  image: /assets/images/blog/blog-91.webp
   lang: en
 if-kennedy-lived-vietnam-counterfactual:
 - slug: if-oswald-missed-lbj-counterfactual
@@ -15365,17 +15365,17 @@ science-learning-in-alexandria:
   category: leisure
   image: /assets/images/blog/blog-04.webp
   lang: en
-- slug: ptolemaic-egypt-complete-guide
-  title: 'Ptolemaic Egypt: The Complete Guide'
-  url: /2007/07/01/ptolemaic-egypt-complete-guide/
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
   category: leisure
-  image: /assets/images/blog/blog-35.webp
+  image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: golden-age-egyptian-literature
-  title: The Golden Age of Egyptian Literature
-  url: /2002/01/01/golden-age-egyptian-literature/
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
   category: leisure
-  image: /assets/images/blog/blog-24.webp
+  image: /assets/images/blog/blog-79.webp
   lang: en
 reagan-reykjavik-walkout-1986:
 - slug: reagan-sdi-star-wars-1983
@@ -15501,6 +15501,31 @@ ford-pardons-nixon-september-1974:
   url: /2008/07/02/taft-ballinger-pinchot-break-1910/
   category: leisure
   image: /assets/images/blog/blog-30.webp
+  lang: en
+real-cleopatra-vs-the-legend:
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: cleopatra-last-pharaoh-of-egypt
+  title: 'Cleopatra VII: The Last Pharaoh of Egypt'
+  url: /2007/11/01/cleopatra-last-pharaoh-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: science-learning-in-alexandria
+  title: Science and Learning in Ancient Alexandria
+  url: /2008/02/01/science-learning-in-alexandria/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: cleopatra-caesar-and-antony
+  title: Cleopatra, Caesar, and Mark Antony
+  url: /2007/12/01/cleopatra-caesar-and-antony/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
   lang: en
 nixon-resigns-august-1974:
 - slug: august-8-1974-nixon-decides-to-resign
@@ -15652,6 +15677,31 @@ lbj-civil-rights-act-cloture-1964:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
+how-egypt-fell-to-rome:
+- slug: cleopatra-caesar-and-antony
+  title: Cleopatra, Caesar, and Mark Antony
+  url: /2007/12/01/cleopatra-caesar-and-antony/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: cleopatra-last-pharaoh-of-egypt
+  title: 'Cleopatra VII: The Last Pharaoh of Egypt'
+  url: /2007/11/01/cleopatra-last-pharaoh-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: roman-vs-ptolemaic-egypt
+  title: Roman vs Ptolemaic Rule in Egypt
+  url: /2009/02/01/roman-vs-ptolemaic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: ptolemy-i-founding-of-dynasty
+  title: Ptolemy I and the Founding of a Dynasty
+  url: /2007/09/01/ptolemy-i-founding-of-dynasty/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
 lbj-gulf-of-tonkin-1964:
 - slug: lbj-vietnam-escalation-july-1965
   title: 'LBJ Escalates in Vietnam: The July 1965 Commitment'
@@ -15776,6 +15826,31 @@ eisenhower-little-rock-1957:
   url: /2008/12/09/grant-presidential-ranking-rehabilitation/
   category: leisure
   image: /assets/images/blog/blog-55.webp
+  lang: en
+roman-egypt-complete-guide:
+- slug: revolts-of-roman-egypt
+  title: The Revolts of Roman Egypt
+  url: /2008/09/01/revolts-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: mummy-portraits-of-roman-egypt
+  title: The Mummy Portraits of Roman Egypt
+  url: /2008/10/01/mummy-portraits-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: daily-life-in-roman-egypt
+  title: Daily Life in Roman Egypt
+  url: /2008/07/01/daily-life-in-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
   lang: en
 truman-fires-macarthur-1951:
 - slug: if-macarthur-crossed-yalu-counterfactual
@@ -15927,6 +16002,31 @@ fdr-hundred-days-fifteen-bills:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
+egypt-breadbasket-of-rome:
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: how-we-know-about-predynastic-egypt
+  title: How We Know About Predynastic Egypt
+  url: /2000/09/01/how-we-know-about-predynastic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 hoover-bonus-army-july-1932:
 - slug: hoover-rehabilitation-keeps-failing
   title: 'Hoover''s Rehabilitation: Why It Keeps Failing'
@@ -16051,6 +16151,31 @@ wilson-enters-wwi-march-1917:
   url: /2008/08/20/lincoln-emancipation-proclamation-timing-1862/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+daily-life-in-roman-egypt:
+- slug: mummy-portraits-of-roman-egypt
+  title: The Mummy Portraits of Roman Egypt
+  url: /2008/10/01/mummy-portraits-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: revolts-of-roman-egypt
+  title: The Revolts of Roman Egypt
+  url: /2008/09/01/revolts-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
   lang: en
 taft-ballinger-pinchot-break-1910:
 - slug: tr-new-nationalism-1910
@@ -16208,6 +16333,31 @@ hayes-ends-reconstruction-1877:
   category: leisure
   image: /assets/images/blog/blog-91.webp
   lang: en
+how-christianity-came-to-egypt:
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: revolts-of-roman-egypt
+  title: The Revolts of Roman Egypt
+  url: /2008/09/01/revolts-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: mummy-portraits-of-roman-egypt
+  title: The Mummy Portraits of Roman Egypt
+  url: /2008/10/01/mummy-portraits-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
 grant-enforcement-acts-reconstruction:
 - slug: grant-presidential-ranking-rehabilitation
   title: 'Grant''s Rise: From 28th to 17th in Historian Rankings'
@@ -16358,6 +16508,31 @@ pierce-kansas-nebraska-1854:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
+revolts-of-roman-egypt:
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: mummy-portraits-of-roman-egypt
+  title: The Mummy Portraits of Roman Egypt
+  url: /2008/10/01/mummy-portraits-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: daily-life-in-roman-egypt
+  title: Daily Life in Roman Egypt
+  url: /2008/07/01/daily-life-in-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
 fillmore-1850-compromise-fugitive-slave:
 - slug: hayes-ends-reconstruction-1877
   title: 'Hayes Ends Reconstruction: The 1877 Compromise'
@@ -16482,6 +16657,31 @@ jackson-bank-veto-1832:
   url: /2007/04/07/jackson-duel-record-wife-defense/
   category: leisure
   image: /assets/images/blog/blog-47.webp
+  lang: en
+mummy-portraits-of-roman-egypt:
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: daily-life-in-roman-egypt
+  title: Daily Life in Roman Egypt
+  url: /2008/07/01/daily-life-in-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: revolts-of-roman-egypt
+  title: The Revolts of Roman Egypt
+  url: /2008/09/01/revolts-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
   lang: en
 monroe-doctrine-1823-british-enforcement:
 - slug: monroe-doctrine-seven-paragraphs
@@ -16682,6 +16882,31 @@ how-many-ap-classes-ivy-league:
   url: /2008/10/25/ap-vs-ib-vs-dual-enrollment/
   category: industry
   image: /assets/images/blog/blog-58.webp
+  lang: en
+hypatia-of-alexandria:
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: saint-antony-desert-fathers
+  title: Saint Antony and the Desert Fathers
+  url: /2009/05/01/saint-antony-desert-fathers/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: rise-of-egyptian-monasticism
+  title: The Rise of Egyptian Monasticism
+  url: /2009/01/01/rise-of-egyptian-monasticism/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
   lang: en
 washington-refuses-third-term-1796:
 - slug: washington-neutrality-proclamation-1793
@@ -16932,6 +17157,31 @@ wartime-executive-power-never-returned-pattern:
   url: /2007/10/17/second-term-presidential-curse-pattern/
   category: leisure
   image: /assets/images/blog/blog-45.webp
+  lang: en
+papyri-of-roman-egypt:
+- slug: daily-life-in-roman-egypt
+  title: Daily Life in Roman Egypt
+  url: /2008/07/01/daily-life-in-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: mummy-portraits-of-roman-egypt
+  title: The Mummy Portraits of Roman Egypt
+  url: /2008/10/01/mummy-portraits-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: how-we-know-about-predynastic-egypt
+  title: How We Know About Predynastic Egypt
+  url: /2000/09/01/how-we-know-about-predynastic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
   lang: en
 mockery-of-indias-security:
 - slug: does-computer-science-research-really-help-the-industry-in-india
@@ -17270,6 +17520,31 @@ truman-six-options-atomic-bomb-july-1945:
   category: leisure
   image: /assets/images/blog/blog-101.webp
   lang: en
+rise-of-egyptian-monasticism:
+- slug: saint-antony-desert-fathers
+  title: Saint Antony and the Desert Fathers
+  url: /2009/05/01/saint-antony-desert-fathers/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: mummy-portraits-of-roman-egypt
+  title: The Mummy Portraits of Roman Egypt
+  url: /2008/10/01/mummy-portraits-of-roman-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: lasting-legacy-of-coptic-egypt
+  title: 'The Lasting Legacy of Coptic Egypt: A Continuous Thread'
+  url: /2009/11/01/lasting-legacy-of-coptic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
 why-do-one-blog:
 - slug: good-looks-pay-off-in-the-outsourcing-world
   title: Good looks pay off in the outsourcing world?
@@ -17494,6 +17769,31 @@ lets-try-to-make-it-straight:
   url: /2009/02/26/education-system-eeeow/
   category: leisure
   image: /assets/images/blog/blog-67.webp
+  lang: en
+roman-vs-ptolemaic-egypt:
+- slug: real-cleopatra-vs-the-legend
+  title: The Real Cleopatra Versus the Legend
+  url: /2008/03/01/real-cleopatra-vs-the-legend/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: science-learning-in-alexandria
+  title: Science and Learning in Ancient Alexandria
+  url: /2008/02/01/science-learning-in-alexandria/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: ptolemaic-egypt-complete-guide
+  title: 'Ptolemaic Egypt: The Complete Guide'
+  url: /2007/07/01/ptolemaic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
   lang: en
 infosys-offer-letter-2009-batch:
 - slug: mahindra-satyam-freshers-doubtful
@@ -17795,6 +18095,31 @@ music-in-anakhronos-2009:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
+coptic-egypt-complete-guide:
+- slug: persecution-and-coptic-martyrs
+  title: Persecution and the Coptic Martyrs of Egypt Explained
+  url: /2009/10/01/persecution-and-coptic-martyrs/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: lasting-legacy-of-coptic-egypt
+  title: 'The Lasting Legacy of Coptic Egypt: A Continuous Thread'
+  url: /2009/11/01/lasting-legacy-of-coptic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: roman-egypt-complete-guide
+  title: 'Roman Egypt: The Complete Guide'
+  url: /2008/05/01/roman-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: how-we-know-about-predynastic-egypt
+  title: How We Know About Predynastic Egypt
+  url: /2000/09/01/how-we-know-about-predynastic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 email-by-sms-from-now-d:
 - slug: firefox-toolbar-kewll-now-with-twitter-bing-real-time-search
   title: 'Firefox Toolbar: Kewll, now with Twitter, Bing, and search'
@@ -18001,6 +18326,31 @@ the-devils-advocate-unmatched-and-unparalleled:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
+origins-of-the-coptic-church:
+- slug: chalcedon-and-egypt-church-split
+  title: The Council of Chalcedon and Egypt
+  url: /2009/06/01/chalcedon-and-egypt-church-split/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: copts-under-early-islamic-rule
+  title: 'Copts Under Early Islamic Rule: Protected and Pressured'
+  url: /2010/05/01/copts-under-early-islamic-rule/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
 sourav-ganguly-interview:
 - slug: twitter-to-begin-wrapping-up-links-officially-with-t-co-link-shortener
   title: Twitter to begin wrapping up links officially with t.co link shortener
@@ -18100,6 +18450,37 @@ next-world:
   url: /2009/01/18/suchitra-sen-the-unveiling/
   category: leisure
   image: /assets/images/blog/blog-55.webp
+  lang: en
+saint-antony-desert-fathers:
+- slug: rise-of-egyptian-monasticism
+  title: The Rise of Egyptian Monasticism
+  url: /2009/01/01/rise-of-egyptian-monasticism/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: hypatia-of-alexandria
+  title: Hypatia of Alexandria and Her Death
+  url: /2008/11/01/hypatia-of-alexandria/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: how-egyptians-became-christian
+  title: 'How Egyptians Became Christian: A Conversion in Stages'
+  url: /2009/09/01/how-egyptians-became-christian/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: al-hakim-controversial-caliph
+  title: 'Al-Hakim: The Strangest Caliph Between Legend and Record'
+  url: /2011/06/01/al-hakim-controversial-caliph/
+  category: leisure
+  image: /assets/images/blog/blog-17.webp
   lang: en
 experience-during-gate-2009-examination:
 - slug: microsoft-internship-experience
@@ -18363,6 +18744,31 @@ bing-toolbar-and-search-box-for-blog:
   category: leisure
   image: /assets/images/blog/blog-38.webp
   lang: en
+chalcedon-and-egypt-church-split:
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: origins-of-the-coptic-church
+  title: The Origins of the Coptic Church
+  url: /2009/04/01/origins-of-the-coptic-church/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: copts-under-early-islamic-rule
+  title: 'Copts Under Early Islamic Rule: Protected and Pressured'
+  url: /2010/05/01/copts-under-early-islamic-rule/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
 my-life-without-google:
 - slug: google-docs-now-try-the-best-online-tool-without-a-google-account
   title: 'Google Docs: Now try the best online tool without a Google Account'
@@ -18537,6 +18943,31 @@ michael-jackson-no-more-an-era-comes-to-an-end:
   url: /2009/08/06/why-bing-would-be-an-eternal-threat-to-google/
   category: leisure
   image: /assets/images/blog/blog-56.webp
+  lang: en
+coptic-language-and-its-history:
+- slug: pagan-vs-christian-egypt
+  title: 'Pagan vs Christian Egypt: The Rupture and the Continuity'
+  url: /2009/12/01/pagan-vs-christian-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: lasting-legacy-of-coptic-egypt
+  title: 'The Lasting Legacy of Coptic Egypt: A Continuous Thread'
+  url: /2009/11/01/lasting-legacy-of-coptic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: persecution-and-coptic-martyrs
+  title: Persecution and the Coptic Martyrs of Egypt Explained
+  url: /2009/10/01/persecution-and-coptic-martyrs/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
   lang: en
 project-natal-breakthrough-in-home-entertainment-by-microsoft:
 - slug: vodafone-zoozoo-star-attraction-of-ipl-2009-some-cool-zoo-zoo-ads
@@ -18868,6 +19299,31 @@ infosys-joining-date:
   url: /2010/09/04/tcs-2010-batch-joining-dates/
   category: industry
   image: /assets/images/blog/blog-85.webp
+  lang: en
+egypt-ancient-monasteries:
+- slug: persecution-and-coptic-martyrs
+  title: Persecution and the Coptic Martyrs of Egypt Explained
+  url: /2009/10/01/persecution-and-coptic-martyrs/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: coptic-egypt-complete-guide
+  title: 'Coptic Egypt: The Complete Guide'
+  url: /2009/03/01/coptic-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: lasting-legacy-of-coptic-egypt
+  title: 'The Lasting Legacy of Coptic Egypt: A Continuous Thread'
+  url: /2009/11/01/lasting-legacy-of-coptic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: pagan-vs-christian-egypt
+  title: 'Pagan vs Christian Egypt: The Rupture and the Continuity'
+  url: /2009/12/01/pagan-vs-christian-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
   lang: en
 how-google-should-add-real-time-search-results-of-twitter-and-other-sites:
 - slug: twitters-uniqueness-could-be-its-greatest-disadvantage
@@ -19218,6 +19674,31 @@ flickr-addiction-how-not-to-get-rid-of-it:
   url: /2008/12/19/pak-tour-rightfully-called-off/
   category: leisure
   image: /assets/images/blog/blog-112.webp
+  lang: en
+how-egyptians-became-christian:
+- slug: pagan-vs-christian-egypt
+  title: 'Pagan vs Christian Egypt: The Rupture and the Continuity'
+  url: /2009/12/01/pagan-vs-christian-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: coptic-language-and-its-history
+  title: 'The Coptic Language: History, Alphabet, and Survival'
+  url: /2009/07/01/coptic-language-and-its-history/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: lasting-legacy-of-coptic-egypt
+  title: 'The Lasting Legacy of Coptic Egypt: A Continuous Thread'
+  url: /2009/11/01/lasting-legacy-of-coptic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
   lang: en
 twitters-uniqueness-could-be-its-greatest-disadvantage:
 - slug: how-google-should-add-real-time-search-results-of-twitter-and-other-sites
@@ -19619,6 +20100,37 @@ why-iphone-is-so-much-popular-on-flickr:
   category: leisure
   image: /assets/images/blog/blog-94.webp
   lang: en
+persecution-and-coptic-martyrs:
+- slug: lasting-legacy-of-coptic-egypt
+  title: 'The Lasting Legacy of Coptic Egypt: A Continuous Thread'
+  url: /2009/11/01/lasting-legacy-of-coptic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: coptic-language-and-its-history
+  title: 'The Coptic Language: History, Alphabet, and Survival'
+  url: /2009/07/01/coptic-language-and-its-history/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: pagan-vs-christian-egypt
+  title: 'Pagan vs Christian Egypt: The Rupture and the Continuity'
+  url: /2009/12/01/pagan-vs-christian-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: how-christianity-came-to-egypt
+  title: How Christianity Came to Egypt
+  url: /2008/08/01/how-christianity-came-to-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: egypt-ancient-monasteries
+  title: 'Egypt''s Ancient Monasteries: Desert Fortresses Explained'
+  url: /2009/08/01/egypt-ancient-monasteries/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 what-is-the-best-contrast-sharpness-saturation-and-iso-settings-for-your-camera:
 - slug: memories-forever-college-days
   title: Memories Forever, College Days
@@ -19669,6 +20181,31 @@ proofread-contents-for-insight-crunch:
   category: leisure
   image: /assets/images/blog/blog-116.webp
   lang: en
+lasting-legacy-of-coptic-egypt:
+- slug: persecution-and-coptic-martyrs
+  title: Persecution and the Coptic Martyrs of Egypt Explained
+  url: /2009/10/01/persecution-and-coptic-martyrs/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: coptic-language-and-its-history
+  title: 'The Coptic Language: History, Alphabet, and Survival'
+  url: /2009/07/01/coptic-language-and-its-history/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: pagan-vs-christian-egypt
+  title: 'Pagan vs Christian Egypt: The Rupture and the Continuity'
+  url: /2009/12/01/pagan-vs-christian-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: how-egyptians-became-christian
+  title: 'How Egyptians Became Christian: A Conversion in Stages'
+  url: /2009/09/01/how-egyptians-became-christian/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
 google-wave-aimed-at-a-revolution:
 - slug: google-reinvents-email-docs-with-google-wave
   title: Google Reinvents Email, Docs with 'Google Wave'
@@ -19718,6 +20255,31 @@ tcs-2010-batch-campusing:
   url: /2010/06/22/tcs-off-campus-placement-guide/
   category: industry
   image: /assets/images/blog/blog-42.webp
+  lang: en
+pagan-vs-christian-egypt:
+- slug: how-egyptians-became-christian
+  title: 'How Egyptians Became Christian: A Conversion in Stages'
+  url: /2009/09/01/how-egyptians-became-christian/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: coptic-language-and-its-history
+  title: 'The Coptic Language: History, Alphabet, and Survival'
+  url: /2009/07/01/coptic-language-and-its-history/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: persecution-and-coptic-martyrs
+  title: Persecution and the Coptic Martyrs of Egypt Explained
+  url: /2009/10/01/persecution-and-coptic-martyrs/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: lasting-legacy-of-coptic-egypt
+  title: 'The Lasting Legacy of Coptic Egypt: A Continuous Thread'
+  url: /2009/11/01/lasting-legacy-of-coptic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
   lang: en
 opera-mini-most-popular-mobile-browser:
 - slug: why-iphone-is-so-much-popular-on-flickr
@@ -19824,6 +20386,31 @@ e-book-readers-battle-like-never-before:
   url: /2009/06/20/laptop-review-price-feature-durability-ergonomics/
   category: leisure
   image: /assets/images/blog/blog-101.webp
+  lang: en
+arab-conquest-of-egypt:
+- slug: tulunids-first-muslim-dynasty
+  title: 'The Tulunids: Egypt''s First Independent Muslim Dynasty'
+  url: /2010/07/01/tulunids-first-muslim-dynasty/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: amr-ibn-al-as-conquest-of-egypt
+  title: 'Amr ibn al-As and the Fall of Egypt: Soldier and Statesman'
+  url: /2010/02/01/amr-ibn-al-as-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: founding-of-fustat
+  title: 'The Founding of Fustat: From Army Camp to Capital City'
+  url: /2010/03/01/founding-of-fustat/
+  category: leisure
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: mamluk-sultanate-of-egypt
+  title: 'The Mamluk Sultanate of Egypt: When Slaves Became Sultans'
+  url: /2012/07/01/mamluk-sultanate-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
   lang: en
 citizen-kane-complete-analytical-guide:
 - slug: citizen-kane-flashback-structure
@@ -20092,6 +20679,31 @@ jyoti-basu-dies-at-95-an-era-comes-to-an-end:
   url: /2009/05/10/experience-during-gate-2009-examination/
   category: leisure
   image: /assets/images/blog/blog-104.webp
+  lang: en
+amr-ibn-al-as-conquest-of-egypt:
+- slug: tulunids-first-muslim-dynasty
+  title: 'The Tulunids: Egypt''s First Independent Muslim Dynasty'
+  url: /2010/07/01/tulunids-first-muslim-dynasty/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: arab-conquest-of-egypt
+  title: 'The Arab Conquest of Egypt: How a Province Changed Hands'
+  url: /2010/01/01/arab-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: how-egypt-became-arabic-speaking
+  title: 'How Egypt Became Arabic Speaking: A Thousand Year Shift'
+  url: /2010/04/01/how-egypt-became-arabic-speaking/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
   lang: en
 base-and-superstructure-explained:
 - slug: historical-materialism-complete-guide
@@ -20399,6 +21011,31 @@ civil-rights-act-supreme-court-cases:
   category: industry
   image: /assets/images/blog/blog-59.webp
   lang: en
+founding-of-fustat:
+- slug: arab-conquest-of-egypt
+  title: 'The Arab Conquest of Egypt: How a Province Changed Hands'
+  url: /2010/01/01/arab-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: tulunids-first-muslim-dynasty
+  title: 'The Tulunids: Egypt''s First Independent Muslim Dynasty'
+  url: /2010/07/01/tulunids-first-muslim-dynasty/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: amr-ibn-al-as-conquest-of-egypt
+  title: 'Amr ibn al-As and the Fall of Egypt: Soldier and Statesman'
+  url: /2010/02/01/amr-ibn-al-as-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-54.webp
+  lang: en
 german-ideology-readers-guide:
 - slug: historical-materialism-vs-idealism
   title: Historical Materialism vs Hegelian Idealism
@@ -20655,6 +21292,31 @@ historical-materialism-vs-idealism:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
+how-egypt-became-arabic-speaking:
+- slug: how-arab-conquest-reshaped-egypt
+  title: How the Arab Conquest Reshaped Egypt for a Thousand Years
+  url: /2010/10/01/how-arab-conquest-reshaped-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: tax-and-land-early-islamic-egypt
+  title: 'Tax and Land in Early Islamic Egypt: The Engine of Change'
+  url: /2010/06/01/tax-and-land-early-islamic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: amr-ibn-al-as-conquest-of-egypt
+  title: 'Amr ibn al-As and the Fall of Egypt: Soldier and Statesman'
+  url: /2010/02/01/amr-ibn-al-as-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
 101st-amendment-gst-council-explained:
 - slug: 42nd-amendment-act-1976-explained
   title: 'The 42nd Amendment Act 1976: The Emergency Charter'
@@ -20830,6 +21492,31 @@ citizen-kane-timeline-life-order:
   category: leisure
   image: /assets/images/blog/blog-05.webp
   lang: en
+copts-under-early-islamic-rule:
+- slug: tax-and-land-early-islamic-egypt
+  title: 'Tax and Land in Early Islamic Egypt: The Engine of Change'
+  url: /2010/06/01/tax-and-land-early-islamic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: chalcedon-and-egypt-church-split
+  title: The Council of Chalcedon and Egypt
+  url: /2009/06/01/chalcedon-and-egypt-church-split/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
 historical-materialism-exam-answers:
 - slug: historical-materialism-vs-idealism
   title: Historical Materialism vs Hegelian Idealism
@@ -21004,6 +21691,31 @@ google-chrome-aiming-to-be-the-best-browser-with-the-coolest-extensions:
   url: /2010/08/27/google-docs-ready-to-take-on-microsoft-office-2010/
   category: leisure
   image: /assets/images/blog/blog-79.webp
+  lang: en
+tax-and-land-early-islamic-egypt:
+- slug: copts-under-early-islamic-rule
+  title: 'Copts Under Early Islamic Rule: Protected and Pressured'
+  url: /2010/05/01/copts-under-early-islamic-rule/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: life-in-fatimid-cairo
+  title: 'Life in Fatimid Cairo: What a Discarded Archive Reveals'
+  url: /2011/05/01/life-in-fatimid-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: how-egypt-became-arabic-speaking
+  title: 'How Egypt Became Arabic Speaking: A Thousand Year Shift'
+  url: /2010/04/01/how-egypt-became-arabic-speaking/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: how-arab-conquest-reshaped-egypt
+  title: How the Arab Conquest Reshaped Egypt for a Thousand Years
+  url: /2010/10/01/how-arab-conquest-reshaped-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
   lang: en
 secret-powers-of-time:
 - slug: hitler-echoes-bengalis-sentiments-on-paschimbanga
@@ -21422,6 +22134,31 @@ labour-theory-of-value-explained:
   url: /2010/10/01/labour-theory-of-value-evidence/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+tulunids-first-muslim-dynasty:
+- slug: amr-ibn-al-as-conquest-of-egypt
+  title: 'Amr ibn al-As and the Fall of Egypt: Soldier and Statesman'
+  url: /2010/02/01/amr-ibn-al-as-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: arab-conquest-of-egypt
+  title: 'The Arab Conquest of Egypt: How a Province Changed Hands'
+  url: /2010/01/01/arab-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: fatimid-caliphs-who-ruled-egypt
+  title: 'The Fatimid Caliphs: Rulers Who Were Also Living Imams'
+  url: /2011/01/01/fatimid-caliphs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
   lang: en
 yahoo-wants-huffington-post-badly:
 - slug: yahoo-taking-a-dive-into-social-networking
@@ -21847,6 +22584,31 @@ commodity-fetishism-explained:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
+mosque-of-amr-early-islamic-egypt:
+- slug: al-azhar-oldest-university
+  title: 'Al-Azhar: The Shia Mosque That Became a Sunni University'
+  url: /2011/02/01/al-azhar-oldest-university/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: how-fatimids-founded-cairo
+  title: How the Fatimids Founded Cairo as a Closed Palace City
+  url: /2010/12/01/how-fatimids-founded-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: amr-ibn-al-as-conquest-of-egypt
+  title: 'Amr ibn al-As and the Fall of Egypt: Soldier and Statesman'
+  url: /2010/02/01/amr-ibn-al-as-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: tulunids-first-muslim-dynasty
+  title: 'The Tulunids: Egypt''s First Independent Muslim Dynasty'
+  url: /2010/07/01/tulunids-first-muslim-dynasty/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
 twitter-spammers-sending-out-malware-via-random-replies:
 - slug: twitter-to-begin-wrapping-up-links-officially-with-t-co-link-shortener
   title: Twitter to begin wrapping up links officially with t.co link shortener
@@ -22195,6 +22957,31 @@ wordpress-3-0-is-here-to-delight-bloggers:
   url: /2022/12/10/download-and-convert-audible-aax-files-to-mp3/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+conquest-or-conversion-islam-egypt:
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: copts-under-early-islamic-rule
+  title: 'Copts Under Early Islamic Rule: Protected and Pressured'
+  url: /2010/05/01/copts-under-early-islamic-rule/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: fatimid-vs-abbasid-egypt
+  title: 'Fatimid Cairo and Abbasid Baghdad: Two Rival Caliphates'
+  url: /2011/08/01/fatimid-vs-abbasid-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: saladin-hero-or-conqueror
+  title: 'Saladin: Hero or Conqueror, and What the Evidence Supports'
+  url: /2012/05/01/saladin-hero-or-conqueror/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
   lang: en
 is-citizen-kane-hard-to-watch:
 - slug: how-to-watch-citizen-kane-closely
@@ -22902,6 +23689,31 @@ citizen-kane-study-guide-deeper:
   category: leisure
   image: /assets/images/blog/blog-97.webp
   lang: en
+how-arab-conquest-reshaped-egypt:
+- slug: how-egypt-became-arabic-speaking
+  title: 'How Egypt Became Arabic Speaking: A Thousand Year Shift'
+  url: /2010/04/01/how-egypt-became-arabic-speaking/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: tax-and-land-early-islamic-egypt
+  title: 'Tax and Land in Early Islamic Egypt: The Engine of Change'
+  url: /2010/06/01/tax-and-land-early-islamic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: legacy-of-saladin-in-egypt
+  title: 'The Afterlife of Saladin: From Sultan to Modern Symbol'
+  url: /2012/06/01/legacy-of-saladin-in-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: life-in-fatimid-cairo
+  title: 'Life in Fatimid Cairo: What a Discarded Archive Reveals'
+  url: /2011/05/01/life-in-fatimid-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 labour-theory-of-value-evidence:
 - slug: labour-theory-of-value-criticisms
   title: Criticisms of the Labour Theory of Value
@@ -23408,6 +24220,31 @@ citizen-kane-xanadu-prologue:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
+fatimid-egypt-complete-guide:
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: chalcedon-and-egypt-church-split
+  title: The Council of Chalcedon and Egypt
+  url: /2009/06/01/chalcedon-and-egypt-church-split/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: fatimid-caliphs-who-ruled-egypt
+  title: 'The Fatimid Caliphs: Rulers Who Were Also Living Imams'
+  url: /2011/01/01/fatimid-caliphs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: conquest-or-conversion-islam-egypt
+  title: 'Conquest or Conversion: How Egypt Actually Became Muslim'
+  url: /2010/09/01/conquest-or-conversion-islam-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 a-story-between-tcs-and-infosys:
 - slug: tcs-vs-accenture-comparison-at-granular-level
   title: TCS vs Accenture - Detailed Comparison
@@ -23813,6 +24650,31 @@ citizen-kane-news-on-the-march:
   url: /2010/06/15/citizen-kane-genre-form-style/
   category: leisure
   image: /assets/images/blog/blog-97.webp
+  lang: en
+how-fatimids-founded-cairo:
+- slug: al-azhar-oldest-university
+  title: 'Al-Azhar: The Shia Mosque That Became a Sunni University'
+  url: /2011/02/01/al-azhar-oldest-university/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: mosque-of-amr-early-islamic-egypt
+  title: 'The Mosque of Amr: Egypt''s First Mosque, Rebuilt Many Times'
+  url: /2010/08/01/mosque-of-amr-early-islamic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: fatimid-vs-abbasid-egypt
+  title: 'Fatimid Cairo and Abbasid Baghdad: Two Rival Caliphates'
+  url: /2011/08/01/fatimid-vs-abbasid-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
   lang: en
 banquo-character-analysis:
 - slug: malcolm-character-analysis
@@ -24220,6 +25082,31 @@ citizen-kane-el-rancho-nightclub:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
+fatimid-caliphs-who-ruled-egypt:
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: fatimid-egypt-complete-guide
+  title: 'Fatimid Egypt: The Complete Guide to a Rival Caliphate'
+  url: /2010/11/01/fatimid-egypt-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: tulunids-first-muslim-dynasty
+  title: 'The Tulunids: Egypt''s First Independent Muslim Dynasty'
+  url: /2010/07/01/tulunids-first-muslim-dynasty/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: life-in-fatimid-cairo
+  title: 'Life in Fatimid Cairo: What a Discarded Archive Reveals'
+  url: /2011/05/01/life-in-fatimid-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 othello-character-analysis-deep-dive:
 - slug: desdemona-othello-character-analysis
   title: Desdemona Character Analysis in Shakespeare's Othello
@@ -24595,6 +25482,31 @@ brabantio-othello-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+al-azhar-oldest-university:
+- slug: mosque-of-amr-early-islamic-egypt
+  title: 'The Mosque of Amr: Egypt''s First Mosque, Rebuilt Many Times'
+  url: /2010/08/01/mosque-of-amr-early-islamic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: how-fatimids-founded-cairo
+  title: How the Fatimids Founded Cairo as a Closed Palace City
+  url: /2010/12/01/how-fatimids-founded-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: mamluk-sultanate-of-egypt
+  title: 'The Mamluk Sultanate of Egypt: When Slaves Became Sultans'
+  url: /2012/07/01/mamluk-sultanate-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: conquest-or-conversion-islam-egypt
+  title: 'Conquest or Conversion: How Egypt Actually Became Muslim'
+  url: /2010/09/01/conquest-or-conversion-islam-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 citizen-kane-boyhood-sledding-scene:
 - slug: citizen-kane-techniques-complete-guide
   title: 'Citizen Kane Techniques: The Complete Guide'
@@ -24845,6 +25757,31 @@ citizen-kane-takes-over-inquirer:
   category: leisure
   image: /assets/images/blog/blog-04.webp
   lang: en
+shia-islam-and-fatimid-caliphate:
+- slug: fatimid-caliphs-who-ruled-egypt
+  title: 'The Fatimid Caliphs: Rulers Who Were Also Living Imams'
+  url: /2011/01/01/fatimid-caliphs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: copts-under-early-islamic-rule
+  title: 'Copts Under Early Islamic Rule: Protected and Pressured'
+  url: /2010/05/01/copts-under-early-islamic-rule/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: chalcedon-and-egypt-church-split
+  title: The Council of Chalcedon and Egypt
+  url: /2009/06/01/chalcedon-and-egypt-church-split/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: life-in-fatimid-cairo
+  title: 'Life in Fatimid Cairo: What a Discarded Archive Reveals'
+  url: /2011/05/01/life-in-fatimid-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 edgar-king-lear-character-analysis:
 - slug: edmund-king-lear-character-analysis
   title: Edmund Character Analysis - The Bastard Son in King Lear
@@ -25051,6 +25988,31 @@ citizen-kane-inquirer-party-scene:
   category: leisure
   image: /assets/images/blog/blog-76.webp
   lang: en
+fatimid-trade-and-wealth-of-egypt:
+- slug: ayyubid-economy-spice-trade
+  title: 'The Spice Gateway: How Ayyubid Egypt Monetized Geography'
+  url: /2012/03/01/ayyubid-economy-spice-trade/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: mamluk-sultanate-of-egypt
+  title: 'The Mamluk Sultanate of Egypt: When Slaves Became Sultans'
+  url: /2012/07/01/mamluk-sultanate-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 kent-king-lear-character-analysis:
 - slug: fool-king-lear-character-analysis
   title: The Fool Character Analysis - Truth-Teller in King Lear
@@ -25176,6 +26138,31 @@ citizen-kane-meets-susan-alexander:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+life-in-fatimid-cairo:
+- slug: tax-and-land-early-islamic-egypt
+  title: 'Tax and Land in Early Islamic Egypt: The Engine of Change'
+  url: /2010/06/01/tax-and-land-early-islamic-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: fatimid-caliphs-who-ruled-egypt
+  title: 'The Fatimid Caliphs: Rulers Who Were Also Living Imams'
+  url: /2011/01/01/fatimid-caliphs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: how-egypt-became-arabic-speaking
+  title: 'How Egypt Became Arabic Speaking: A Thousand Year Shift'
+  url: /2010/04/01/how-egypt-became-arabic-speaking/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
 citizen-kane-campaign-speech-scene:
 - slug: citizen-kane-opening-explained
   title: Citizen Kane Opening Explained
@@ -25231,6 +26218,31 @@ amazon-job-application:
   url: /2022/11/30/amazon-application-login/
   category: industry
   image: /assets/images/blog/blog-81.webp
+  lang: en
+al-hakim-controversial-caliph:
+- slug: saint-antony-desert-fathers
+  title: Saint Antony and the Desert Fathers
+  url: /2009/05/01/saint-antony-desert-fathers/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: fatimid-caliphs-who-ruled-egypt
+  title: 'The Fatimid Caliphs: Rulers Who Were Also Living Imams'
+  url: /2011/01/01/fatimid-caliphs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: conquest-or-conversion-islam-egypt
+  title: 'Conquest or Conversion: How Egypt Actually Became Muslim'
+  url: /2010/09/01/conquest-or-conversion-islam-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: saladin-sultan-of-egypt
+  title: 'Saladin: The Kurdish Outsider Who United Egypt and Syria'
+  url: /2011/10/01/saladin-sultan-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
   lang: en
 citizen-kane-confrontation-susan-flat:
 - slug: citizen-kane-meets-susan-alexander
@@ -25394,6 +26406,31 @@ citizen-kane-leland-kane-fallout:
   category: leisure
   image: /assets/images/blog/blog-26.webp
   lang: en
+fatimid-art-and-architecture:
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: life-in-fatimid-cairo
+  title: 'Life in Fatimid Cairo: What a Discarded Archive Reveals'
+  url: /2011/05/01/life-in-fatimid-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: citadel-of-cairo-history
+  title: 'The Citadel of Cairo: Seven Centuries of Egyptian Power'
+  url: /2012/01/01/citadel-of-cairo-history/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: fatimid-caliphs-who-ruled-egypt
+  title: 'The Fatimid Caliphs: Rulers Who Were Also Living Imams'
+  url: /2011/01/01/fatimid-caliphs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
 citizen-kane-susan-opera-debut:
 - slug: citizen-kane-el-rancho-nightclub
   title: 'Citizen Kane: The El Rancho Nightclub Scene Explained'
@@ -25493,6 +26530,31 @@ citizen-kane-leland-drunken-review:
   url: /2011/05/01/citizen-kane-meets-susan-alexander/
   category: leisure
   image: /assets/images/blog/blog-26.webp
+  lang: en
+fatimid-vs-abbasid-egypt:
+- slug: saladin-hero-or-conqueror
+  title: 'Saladin: Hero or Conqueror, and What the Evidence Supports'
+  url: /2012/05/01/saladin-hero-or-conqueror/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: conquest-or-conversion-islam-egypt
+  title: 'Conquest or Conversion: How Egypt Actually Became Muslim'
+  url: /2010/09/01/conquest-or-conversion-islam-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: life-in-fatimid-cairo
+  title: 'Life in Fatimid Cairo: What a Discarded Archive Reveals'
+  url: /2011/05/01/life-in-fatimid-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: how-fatimids-founded-cairo
+  title: How the Fatimids Founded Cairo as a Closed Palace City
+  url: /2010/12/01/how-fatimids-founded-cairo/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
   lang: en
 it-and-itis-head-on-comparison:
 - slug: tcs-itis-pra-questions-and-answers
@@ -25719,6 +26781,31 @@ users-now-realizing-facebooks-wary-of-competitor-google-plus:
   category: leisure
   image: /assets/images/blog/blog-87.webp
   lang: en
+ayyubid-egypt-age-of-saladin:
+- slug: saladin-sultan-of-egypt
+  title: 'Saladin: The Kurdish Outsider Who United Egypt and Syria'
+  url: /2011/10/01/saladin-sultan-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: crusader-invasions-of-egypt
+  title: 'Crusader Invasions of Egypt: Damietta, Mansurah and Defeat'
+  url: /2012/02/01/crusader-invasions-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: saladin-and-the-crusades
+  title: 'Saladin and the Crusades: Victory, Jerusalem and Restraint'
+  url: /2011/11/01/saladin-and-the-crusades/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: how-saladin-ended-fatimids
+  title: How Saladin Ended the Fatimid Caliphate From the Inside
+  url: /2011/12/01/how-saladin-ended-fatimids/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
 tcs-vs-accenture-comparison-at-granular-level:
 - slug: accenture-vs-tcs
   title: Accenture vs TCS - Employee Perspective
@@ -25843,6 +26930,31 @@ mckinsey-vs-boston-consulting-group-analysis:
   url: /1997/01/21/sat-cross-text-connections/
   category: industry
   image: /assets/images/blog/blog-59.webp
+  lang: en
+saladin-sultan-of-egypt:
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: legacy-of-saladin-in-egypt
+  title: 'The Afterlife of Saladin: From Sultan to Modern Symbol'
+  url: /2012/06/01/legacy-of-saladin-in-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: how-saladin-ended-fatimids
+  title: How Saladin Ended the Fatimid Caliphate From the Inside
+  url: /2011/12/01/how-saladin-ended-fatimids/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: amr-ibn-al-as-conquest-of-egypt
+  title: 'Amr ibn al-As and the Fall of Egypt: Soldier and Statesman'
+  url: /2010/02/01/amr-ibn-al-as-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-54.webp
   lang: en
 engineering-years-the-ideal-approach:
 - slug: does-computer-science-research-really-help-the-industry-in-india
@@ -25969,6 +27081,31 @@ facebook-smileys-you-wished-to-have-forever:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
+saladin-and-the-crusades:
+- slug: crusader-invasions-of-egypt
+  title: 'Crusader Invasions of Egypt: Damietta, Mansurah and Defeat'
+  url: /2012/02/01/crusader-invasions-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: saladin-hero-or-conqueror
+  title: 'Saladin: Hero or Conqueror, and What the Evidence Supports'
+  url: /2012/05/01/saladin-hero-or-conqueror/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: how-saladin-ended-fatimids
+  title: How Saladin Ended the Fatimid Caliphate From the Inside
+  url: /2011/12/01/how-saladin-ended-fatimids/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
 what-do-you-need-to-get-hired-at-amazon:
 - slug: is-it-hard-to-get-hired-on-at-amazon
   title: Is it hard to get hired on at Amazon?
@@ -25994,6 +27131,31 @@ what-do-you-need-to-get-hired-at-amazon:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+how-saladin-ended-fatimids:
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: legacy-of-saladin-in-egypt
+  title: 'The Afterlife of Saladin: From Sultan to Modern Symbol'
+  url: /2012/06/01/legacy-of-saladin-in-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: saladin-sultan-of-egypt
+  title: 'Saladin: The Kurdish Outsider Who United Egypt and Syria'
+  url: /2011/10/01/saladin-sultan-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: shia-islam-and-fatimid-caliphate
+  title: Shia Islam and the Fatimid Caliphate That Ruled Sunnis
+  url: /2011/03/01/shia-islam-and-fatimid-caliphate/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
 is-it-hard-to-apply-at-amazon:
 - slug: is-it-hard-to-get-hired-at-amazon
   title: Is it hard to get hired at Amazon?
@@ -26018,6 +27180,31 @@ is-it-hard-to-apply-at-amazon:
   url: /2013/09/19/is-amazon-hard-to-get-hired/
   category: industry
   image: /assets/images/blog/blog-50.webp
+  lang: en
+citadel-of-cairo-history:
+- slug: legacy-of-saladin-in-egypt
+  title: 'The Afterlife of Saladin: From Sultan to Modern Symbol'
+  url: /2012/06/01/legacy-of-saladin-in-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: mamluk-sultanate-of-egypt
+  title: 'The Mamluk Sultanate of Egypt: When Slaves Became Sultans'
+  url: /2012/07/01/mamluk-sultanate-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: fatimid-art-and-architecture
+  title: 'Fatimid Art and Architecture: Monuments and Luxury Craft'
+  url: /2011/07/01/fatimid-art-and-architecture/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: ayyubid-economy-spice-trade
+  title: 'The Spice Gateway: How Ayyubid Egypt Monetized Geography'
+  url: /2012/03/01/ayyubid-economy-spice-trade/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
   lang: en
 hafiz-saeed-complete-profile:
 - slug: lashkar-e-taiba-complete-guide
@@ -26312,6 +27499,31 @@ zaki-ur-rehman-lakhvi-profile:
   category: industry
   image: /assets/images/blog/blog-40.webp
   lang: en
+crusader-invasions-of-egypt:
+- slug: saladin-and-the-crusades
+  title: 'Saladin and the Crusades: Victory, Jerusalem and Restraint'
+  url: /2011/11/01/saladin-and-the-crusades/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: baybars-greatest-mamluk-sultan
+  title: 'Baybars of Egypt: The Real Founder of the Mamluk State'
+  url: /2012/10/01/baybars-greatest-mamluk-sultan/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: religion-tolerance-ayyubid-egypt
+  title: 'Religion in Ayyubid Egypt: Orthodoxy Alongside Tolerance'
+  url: /2012/04/01/religion-tolerance-ayyubid-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
 lashkar-e-taiba-complete-guide:
 - slug: hafiz-saeed-complete-profile
   title: Hafiz Saeed Complete Profile
@@ -26493,6 +27705,31 @@ resistance-front-trf-explained:
   category: industry
   image: /assets/images/blog/blog-62.webp
   lang: en
+ayyubid-economy-spice-trade:
+- slug: fatimid-trade-and-wealth-of-egypt
+  title: How Fatimid Egypt Grew Rich as the Crossroads of Three Seas
+  url: /2011/04/01/fatimid-trade-and-wealth-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: religion-tolerance-ayyubid-egypt
+  title: 'Religion in Ayyubid Egypt: Orthodoxy Alongside Tolerance'
+  url: /2012/04/01/religion-tolerance-ayyubid-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: saladin-sultan-of-egypt
+  title: 'Saladin: The Kurdish Outsider Who United Egypt and Syria'
+  url: /2011/10/01/saladin-sultan-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
 amazon-warehouse-jobs-near-me:
 - slug: amazon-warehouse-near-me
   title: Amazon warehouse near me
@@ -26642,6 +27879,31 @@ pakistan-terror-safe-haven-network:
   url: /2018/07/23/rawalpindi-military-terror-nexus/
   category: industry
   image: /assets/images/blog/blog-64.webp
+  lang: en
+religion-tolerance-ayyubid-egypt:
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: ayyubid-economy-spice-trade
+  title: 'The Spice Gateway: How Ayyubid Egypt Monetized Geography'
+  url: /2012/03/01/ayyubid-economy-spice-trade/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: saladin-sultan-of-egypt
+  title: 'Saladin: The Kurdish Outsider Who United Egypt and Syria'
+  url: /2011/10/01/saladin-sultan-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: crusader-invasions-of-egypt
+  title: 'Crusader Invasions of Egypt: Damietta, Mansurah and Defeat'
+  url: /2012/02/01/crusader-invasions-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
   lang: en
 terror-financing-pakistan-explained:
 - slug: parliament-attack-2001-explained
@@ -26798,6 +28060,31 @@ terror-leaders-still-at-large:
   url: /2013/04/06/let-leadership-under-fire-compared/
   category: industry
   image: /assets/images/blog/blog-24.webp
+  lang: en
+saladin-hero-or-conqueror:
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: fatimid-vs-abbasid-egypt
+  title: 'Fatimid Cairo and Abbasid Baghdad: Two Rival Caliphates'
+  url: /2011/08/01/fatimid-vs-abbasid-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: conquest-or-conversion-islam-egypt
+  title: 'Conquest or Conversion: How Egypt Actually Became Muslim'
+  url: /2010/09/01/conquest-or-conversion-islam-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: legacy-of-saladin-in-egypt
+  title: 'The Afterlife of Saladin: From Sultan to Modern Symbol'
+  url: /2012/06/01/legacy-of-saladin-in-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
   lang: en
 26-11-mumbai-attack-complete-guide:
 - slug: hafiz-saeed-complete-profile
@@ -26960,6 +28247,31 @@ pulwama-attack-2019-explained:
   url: /2012/06/27/deadliest-terror-attacks-india-ranked/
   category: industry
   image: /assets/images/blog/blog-63.webp
+  lang: en
+legacy-of-saladin-in-egypt:
+- slug: saladin-sultan-of-egypt
+  title: 'Saladin: The Kurdish Outsider Who United Egypt and Syria'
+  url: /2011/10/01/saladin-sultan-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: how-saladin-ended-fatimids
+  title: How Saladin Ended the Fatimid Caliphate From the Inside
+  url: /2011/12/01/how-saladin-ended-fatimids/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: ayyubid-egypt-age-of-saladin
+  title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
+  url: /2011/09/01/ayyubid-egypt-age-of-saladin/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: how-arab-conquest-reshaped-egypt
+  title: How the Arab Conquest Reshaped Egypt for a Thousand Years
+  url: /2010/10/01/how-arab-conquest-reshaped-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
   lang: en
 pahalgam-attack-2025-explained:
 - slug: pahalgam-attack-minute-by-minute
@@ -27191,6 +28503,37 @@ deadliest-terror-attacks-india-ranked:
   url: /2020/09/12/sat-preparation-guide-for-indian-students/
   category: industry
   image: /assets/images/blog/blog-66.webp
+  lang: en
+mamluk-sultanate-of-egypt:
+- slug: baybars-greatest-mamluk-sultan
+  title: 'Baybars of Egypt: The Real Founder of the Mamluk State'
+  url: /2012/10/01/baybars-greatest-mamluk-sultan/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: arab-conquest-of-egypt
+  title: 'The Arab Conquest of Egypt: How a Province Changed Hands'
+  url: /2010/01/01/arab-conquest-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: battle-of-ayn-jalut-mongols
+  title: 'The Battle of Ayn Jalut: Where the Mongol Advance Stopped'
+  url: /2012/09/01/battle-of-ayn-jalut-mongols/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: conquest-or-conversion-islam-egypt
+  title: 'Conquest or Conversion: How Egypt Actually Became Muslim'
+  url: /2010/09/01/conquest-or-conversion-islam-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: who-were-the-mamluks
+  title: Who Were the Mamluks? The Caste Rebuilt Every Generation
+  url: /2012/08/01/who-were-the-mamluks/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
   lang: en
 voldemort-tom-riddle-complete-character-analysis:
 - slug: harry-potter-vs-voldemort-character-comparison
@@ -27478,6 +28821,31 @@ india-pakistan-2025-conflict-timeline:
   url: /2018/06/18/will-india-pakistan-fight-again/
   category: industry
   image: /assets/images/blog/blog-100.webp
+  lang: en
+who-were-the-mamluks:
+- slug: mamluk-sultanate-of-egypt
+  title: 'The Mamluk Sultanate of Egypt: When Slaves Became Sultans'
+  url: /2012/07/01/mamluk-sultanate-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: religion-tolerance-ayyubid-egypt
+  title: 'Religion in Ayyubid Egypt: Orthodoxy Alongside Tolerance'
+  url: /2012/04/01/religion-tolerance-ayyubid-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: baybars-greatest-mamluk-sultan
+  title: 'Baybars of Egypt: The Real Founder of the Mamluk State'
+  url: /2012/10/01/baybars-greatest-mamluk-sultan/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: how-arab-conquest-reshaped-egypt
+  title: How the Arab Conquest Reshaped Egypt for a Thousand Years
+  url: /2010/10/01/how-arab-conquest-reshaped-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
   lang: en
 neville-longbottom-complete-character-analysis:
 - slug: neville-vs-harry-potter-chosen-one-comparison
@@ -27803,6 +29171,31 @@ bellatrix-lestrange-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
+battle-of-ayn-jalut-mongols:
+- slug: baybars-greatest-mamluk-sultan
+  title: 'Baybars of Egypt: The Real Founder of the Mamluk State'
+  url: /2012/10/01/baybars-greatest-mamluk-sultan/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: mamluk-sultanate-of-egypt
+  title: 'The Mamluk Sultanate of Egypt: When Slaves Became Sultans'
+  url: /2012/07/01/mamluk-sultanate-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: crusader-invasions-of-egypt
+  title: 'Crusader Invasions of Egypt: Damietta, Mansurah and Defeat'
+  url: /2012/02/01/crusader-invasions-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: citadel-of-cairo-history
+  title: 'The Citadel of Cairo: Seven Centuries of Egyptian Power'
+  url: /2012/01/01/citadel-of-cairo-history/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 dolores-umbridge-complete-character-analysis:
 - slug: kingsley-shacklebolt-complete-character-analysis
   title: 'Kingsley Shacklebolt Analysis: Quiet Authority'
@@ -28027,6 +29420,31 @@ isi-vs-raw-intelligence-war:
   url: /2012/03/23/isi-terror-nexus-explained/
   category: industry
   image: /assets/images/blog/blog-18.webp
+  lang: en
+baybars-greatest-mamluk-sultan:
+- slug: mamluk-sultanate-of-egypt
+  title: 'The Mamluk Sultanate of Egypt: When Slaves Became Sultans'
+  url: /2012/07/01/mamluk-sultanate-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: battle-of-ayn-jalut-mongols
+  title: 'The Battle of Ayn Jalut: Where the Mongol Advance Stopped'
+  url: /2012/09/01/battle-of-ayn-jalut-mongols/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: fatimid-caliphs-who-ruled-egypt
+  title: 'The Fatimid Caliphs: Rulers Who Were Also Living Imams'
+  url: /2011/01/01/fatimid-caliphs-who-ruled-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: crusader-invasions-of-egypt
+  title: 'Crusader Invasions of Egypt: Damietta, Mansurah and Defeat'
+  url: /2012/02/01/crusader-invasions-of-egypt/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
   lang: en
 dobby-complete-character-analysis:
 - slug: lily-potter-complete-character-analysis
@@ -32169,6 +33587,12 @@ yellowstone-family-7-day-itinerary:
   image: /assets/images/blog/blog-64.webp
   lang: en
 nick-carraway-character-analysis:
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: is-nick-carraway-queer-coded
   title: Is Nick Carraway Queer-Coded? The Textual Case
   url: /2027/10/18/is-nick-carraway-queer-coded/
@@ -32187,11 +33611,11 @@ nick-carraway-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-92.webp
   lang: en
-- slug: nick-and-gatsby-foils
-  title: 'Nick and Gatsby as Foils: The Watcher and the Leaper'
-  url: /2023/12/25/nick-and-gatsby-foils/
+- slug: nick-and-jordan-romance
+  title: 'Nick and Jordan: The Subplot Romance'
+  url: /2023/12/11/nick-and-jordan-romance/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-22.webp
   lang: en
 meta-interview-experience:
 - slug: what-is-the-meta-interview-process
@@ -32350,6 +33774,12 @@ tom-buchanan-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
+- slug: gatsby-quotes-by-tom
+  title: Key Quotes Said by Tom Buchanan
+  url: /2029/07/02/gatsby-quotes-by-tom/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 - slug: great-gatsby-chapter-1-buchanan-dinner
   title: 'Great Gatsby Chapter 1: The Buchanan Dinner Scene'
   url: /2022/07/11/great-gatsby-chapter-1-buchanan-dinner/
@@ -32361,12 +33791,6 @@ tom-buchanan-character-analysis:
   url: /2023/06/05/nick-carraway-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: gatsby-character-introductions
-  title: How Fitzgerald Introduces Each Character
-  url: /2024/03/04/gatsby-character-introductions/
-  category: leisure
-  image: /assets/images/blog/blog-91.webp
   lang: en
 complete-analysis-to-kill-a-mockingbird:
 - slug: racial-injustice-to-kill-a-mockingbird
@@ -36648,17 +38072,17 @@ cleopatra-last-pharaoh-egypt:
   category: leisure
   image: /assets/images/blog/blog-10.webp
   lang: en
+- slug: real-cleopatra-vs-the-legend
+  title: The Real Cleopatra Versus the Legend
+  url: /2008/03/01/real-cleopatra-vs-the-legend/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
 - slug: ancient-egyptian-civilization-explained
   title: Ancient Egyptian Civilization Explained
   url: /2015/04/30/ancient-egyptian-civilization-explained/
   category: leisure
   image: /assets/images/blog/blog-27.webp
-  lang: en
-- slug: cleopatra-caesar-and-antony
-  title: Cleopatra, Caesar, and Mark Antony
-  url: /2007/12/01/cleopatra-caesar-and-antony/
-  category: leisure
-  image: /assets/images/blog/blog-111.webp
   lang: en
 zion-kolob-hidden-gems:
 - slug: zion-national-park-complete-guide
@@ -37117,6 +38541,12 @@ byzantine-empire-history-explained:
   image: /assets/images/blog/blog-108.webp
   lang: en
 the-crusades-explained-complete-guide:
+- slug: saladin-and-the-crusades
+  title: 'Saladin and the Crusades: Victory, Jerusalem and Restraint'
+  url: /2011/11/01/saladin-and-the-crusades/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
 - slug: byzantine-empire-history-explained
   title: The Byzantine Empire Explained
   url: /2015/07/04/byzantine-empire-history-explained/
@@ -37129,17 +38559,11 @@ the-crusades-explained-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: haitian-revolution-explained
-  title: The Haitian Revolution Explained
-  url: /2015/09/27/haitian-revolution-explained/
+- slug: crusader-invasions-of-egypt
+  title: 'Crusader Invasions of Egypt: Damietta, Mansurah and Defeat'
+  url: /2012/02/01/crusader-invasions-of-egypt/
   category: leisure
-  image: /assets/images/blog/blog-70.webp
-  lang: en
-- slug: mughal-empire-india-history
-  title: The Mughal Empire in India Explained
-  url: /2015/09/02/mughal-empire-india-history/
-  category: leisure
-  image: /assets/images/blog/blog-07.webp
+  image: /assets/images/blog/blog-19.webp
   lang: en
 is-meta-in-a-hiring-freeze:
 - slug: meta-hiring-freeze
@@ -37304,23 +38728,23 @@ medieval-feudalism-explained:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+- slug: how-egypt-became-arabic-speaking
+  title: 'How Egypt Became Arabic Speaking: A Thousand Year Shift'
+  url: /2010/04/01/how-egypt-became-arabic-speaking/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
 - slug: the-renaissance-explained-complete
   title: 'The Renaissance Explained: Complete Guide'
   url: /2015/08/08/the-renaissance-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: class-and-society-middle-kingdom
-  title: Class and Society in Middle Kingdom Egypt
-  url: /2002/03/01/class-and-society-middle-kingdom/
+- slug: tax-and-land-early-islamic-egypt
+  title: 'Tax and Land in Early Islamic Egypt: The Engine of Change'
+  url: /2010/06/01/tax-and-land-early-islamic-egypt/
   category: leisure
-  image: /assets/images/blog/blog-96.webp
-  lang: en
-- slug: industrial-revolution-explained
-  title: The Industrial Revolution Explained
-  url: /2015/09/17/industrial-revolution-explained/
-  category: leisure
-  image: /assets/images/blog/blog-89.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
 detour-noir-fatalism-unreliable-narrator:
 - slug: double-indemnity-noir-screenplay-structure
@@ -38147,11 +39571,11 @@ unification-germany-bismarck:
   category: leisure
   image: /assets/images/blog/blog-106.webp
   lang: en
-- slug: latin-american-independence-explained
-  title: Latin American Independence Explained
-  url: /2015/10/02/latin-american-independence-explained/
+- slug: industrial-revolution-explained
+  title: The Industrial Revolution Explained
+  url: /2015/09/17/industrial-revolution-explained/
   category: leisure
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-89.webp
   lang: en
 rear-window-hitchcock-pov-craft:
 - slug: vertigo-hitchcock-auteur-obsession
@@ -40340,11 +41764,11 @@ arab-spring-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-79.webp
   lang: en
-- slug: unification-of-ancient-egypt
-  title: The Unification of Egypt Explained
-  url: /2000/02/01/unification-of-ancient-egypt/
+- slug: arab-conquest-of-egypt
+  title: 'The Arab Conquest of Egypt: How a Province Changed Hands'
+  url: /2010/01/01/arab-conquest-of-egypt/
   category: leisure
-  image: /assets/images/blog/blog-113.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
 european-union-formation-history:
 - slug: brexit-explained-complete-guide
@@ -59545,11 +60969,11 @@ great-gatsby-chapter-1-analysis:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: nick-carraway-character-analysis
-  title: 'Nick Carraway: A Complete Character Analysis'
-  url: /2023/06/05/nick-carraway-character-analysis/
+- slug: gatsby-quotes-nick-bias
+  title: Quotes That Reveal Nick's Bias
+  url: /2029/08/13/gatsby-quotes-nick-bias/
   category: leisure
-  image: /assets/images/blog/blog-90.webp
+  image: /assets/images/blog/blog-67.webp
   lang: en
 juliet-thirteen-years-old-heroine:
 - slug: juliet-grows-beyond-nurse-and-parents
@@ -59695,11 +61119,11 @@ great-gatsby-chapter-1-buchanan-dinner:
   category: leisure
   image: /assets/images/blog/blog-15.webp
   lang: en
-- slug: gatsby-misunderstood-characters
-  title: The Most Misunderstood Gatsby Characters
-  url: /2024/04/08/gatsby-misunderstood-characters/
+- slug: gatsby-quotes-by-tom
+  title: Key Quotes Said by Tom Buchanan
+  url: /2029/07/02/gatsby-quotes-by-tom/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-41.webp
   lang: en
 juliet-gallop-apace-soliloquy-desire:
 - slug: juliet-potion-soliloquy-act-four
@@ -64408,17 +65832,17 @@ jay-gatsby-self-made-man:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+- slug: gatsby-quotes-about-gatsby
+  title: Key Quotes About Jay Gatsby
+  url: /2029/06/04/gatsby-quotes-about-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
 - slug: jay-gatsby-idealist-or-criminal
   title: 'Jay Gatsby: Romantic Idealist or Criminal?'
   url: /2023/05/22/jay-gatsby-idealist-or-criminal/
   category: leisure
   image: /assets/images/blog/blog-68.webp
-  lang: en
-- slug: great-gatsby-characters-complete-map
-  title: 'The Great Gatsby Characters: The Complete Map'
-  url: /2022/02/07/great-gatsby-characters-complete-map/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
   lang: en
 tableau-certification-boost-your-data-visualization-skills:
 - slug: tableau-certification-your-ticket-to-career-advancement
@@ -64539,11 +65963,11 @@ jay-gatsby-idealist-or-criminal:
   category: leisure
   image: /assets/images/blog/blog-107.webp
   lang: en
-- slug: is-nick-carraway-queer-coded
-  title: Is Nick Carraway Queer-Coded? The Textual Case
-  url: /2027/10/18/is-nick-carraway-queer-coded/
+- slug: gatsby-quotes-about-gatsby
+  title: Key Quotes About Jay Gatsby
+  url: /2029/06/04/gatsby-quotes-about-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-45.webp
+  image: /assets/images/blog/blog-14.webp
   lang: en
 tcs-python-coding:
 - slug: is-tcs-nqt-coding-questions-tough
@@ -64902,6 +66326,12 @@ nick-carraway-moral-center:
   category: leisure
   image: /assets/images/blog/blog-45.webp
   lang: en
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: nick-carraway-reliable-narrator
   title: 'Nick Carraway: Reliable or Unreliable Narrator?'
   url: /2023/06/12/nick-carraway-reliable-narrator/
@@ -64913,12 +66343,6 @@ nick-carraway-moral-center:
   url: /2028/10/09/gatsby-bildungsroman-question/
   category: leisure
   image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: nick-carraway-character-analysis
-  title: 'Nick Carraway: A Complete Character Analysis'
-  url: /2023/06/05/nick-carraway-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-90.webp
   lang: en
 tcs-nqt-syllabus-exam-pattern:
 - slug: what-is-the-syllabus-of-tcs-nqt
@@ -65120,11 +66544,11 @@ daisy-buchanan-victim-or-villain:
   category: leisure
   image: /assets/images/blog/blog-110.webp
   lang: en
-- slug: daisy-voice-full-of-money
-  title: Daisy Buchanan and the Voice Full of Money
-  url: /2023/07/10/daisy-voice-full-of-money/
+- slug: gatsby-quotes-about-daisy
+  title: Key Quotes About Daisy Buchanan
+  url: /2029/05/28/gatsby-quotes-about-daisy/
   category: leisure
-  image: /assets/images/blog/blog-88.webp
+  image: /assets/images/blog/blog-71.webp
   lang: en
 gaokao-post-exam-summer:
 - slug: gaokao-provincial-inequality
@@ -65177,6 +66601,12 @@ configure-azure-site-recovery:
   image: /assets/images/blog/blog-113.webp
   lang: en
 daisy-voice-full-of-money:
+- slug: gatsby-quotes-about-daisy
+  title: Key Quotes About Daisy Buchanan
+  url: /2029/05/28/gatsby-quotes-about-daisy/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: daisy-white-dress-imagery
   title: Daisy's White Dress and Clothing Imagery
   url: /2025/08/11/daisy-white-dress-imagery/
@@ -65192,12 +66622,6 @@ daisy-voice-full-of-money:
 - slug: gatsby-misunderstood-characters
   title: The Most Misunderstood Gatsby Characters
   url: /2024/04/08/gatsby-misunderstood-characters/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: gatsby-and-daisy-obsession
-  title: 'Gatsby and Daisy: Anatomy of an Obsession'
-  url: /2023/11/20/gatsby-and-daisy-obsession/
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
@@ -65358,6 +66782,12 @@ tom-buchanan-power-and-brutality:
   category: leisure
   image: /assets/images/blog/blog-76.webp
   lang: en
+- slug: gatsby-quotes-by-tom
+  title: Key Quotes Said by Tom Buchanan
+  url: /2029/07/02/gatsby-quotes-by-tom/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 - slug: scientific-racism-gatsby
   title: Scientific Racism and Tom's Books
   url: /2027/02/15/scientific-racism-gatsby/
@@ -65369,12 +66799,6 @@ tom-buchanan-power-and-brutality:
   url: /2023/11/27/tom-and-daisy-marriage/
   category: leisure
   image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: critical-race-theory-gatsby
-  title: Race and Critical Race Theory in Gatsby
-  url: /2027/11/08/critical-race-theory-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-78.webp
   lang: en
 tcs-nqt-mock-strategy:
 - slug: tcs-nqt-mock-test
@@ -67430,17 +68854,17 @@ tom-and-myrtle-affair:
   category: leisure
   image: /assets/images/blog/blog-52.webp
   lang: en
+- slug: gatsby-quotes-by-tom
+  title: Key Quotes Said by Tom Buchanan
+  url: /2029/07/02/gatsby-quotes-by-tom/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 - slug: great-gatsby-chapter-1-buchanan-dinner
   title: 'Great Gatsby Chapter 1: The Buchanan Dinner Scene'
   url: /2022/07/11/great-gatsby-chapter-1-buchanan-dinner/
   category: leisure
   image: /assets/images/blog/blog-14.webp
-  lang: en
-- slug: gatsby-dog-leash-symbol
-  title: The Dog Leash Myrtle Buys
-  url: /2025/12/15/gatsby-dog-leash-symbol/
-  category: leisure
-  image: /assets/images/blog/blog-91.webp
   lang: en
 gaokao-nankai-admission-guide:
 - slug: gaokao-buaa-admission-guide
@@ -67548,11 +68972,11 @@ nick-and-jordan-romance:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: gatsby-character-arcs
-  title: Character Arcs Across The Great Gatsby
-  url: /2024/03/11/gatsby-character-arcs/
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
   category: leisure
-  image: /assets/images/blog/blog-38.webp
+  image: /assets/images/blog/blog-10.webp
   lang: en
 gaokao-seu-admission-guide:
 - slug: gaokao-nankai-admission-guide
@@ -69277,11 +70701,11 @@ gatsby-character-names-meaning:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: gatsby-faces-smiles-imagery
-  title: Faces and Smiles in The Great Gatsby
-  url: /2025/10/27/gatsby-faces-smiles-imagery/
+- slug: great-gatsby-characters-complete-map
+  title: 'The Great Gatsby Characters: The Complete Map'
+  url: /2022/02/07/great-gatsby-characters-complete-map/
   category: leisure
-  image: /assets/images/blog/blog-60.webp
+  image: /assets/images/blog/blog-42.webp
   lang: en
 infosys-hiring-process-complete-guide:
 - slug: infosys-lateral-hiring-guide
@@ -69652,11 +71076,11 @@ wealth-class-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-107.webp
   lang: en
-- slug: gatsby-themes-connections
-  title: How Gatsby's Themes Connect to Each Other
-  url: /2025/03/31/gatsby-themes-connections/
+- slug: gatsby-quotes-wealth-class
+  title: Key Quotes About Wealth and Class
+  url: /2029/06/11/gatsby-quotes-wealth-class/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-88.webp
   lang: en
 gaokao-biology-experiments:
 - slug: gaokao-biology-cell
@@ -70115,6 +71539,12 @@ gaokao-chemistry-organic:
   image: /assets/images/blog/blog-106.webp
   lang: zh
 gatsby-past-and-time:
+- slug: gatsby-quotes-time-past
+  title: Key Quotes About Time and the Past
+  url: /2029/06/18/gatsby-quotes-time-past/
+  category: leisure
+  image: /assets/images/blog/blog-101.webp
+  lang: en
 - slug: illusion-reality-great-gatsby
   title: Illusion vs Reality in The Great Gatsby
   url: /2024/07/01/illusion-reality-great-gatsby/
@@ -70132,12 +71562,6 @@ gatsby-past-and-time:
   url: /2025/03/17/gatsby-eyes-seeing-motif/
   category: leisure
   image: /assets/images/blog/blog-110.webp
-  lang: en
-- slug: memory-nostalgia-gatsby
-  title: Memory and Nostalgia in The Great Gatsby
-  url: /2024/10/21/memory-nostalgia-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
   lang: en
 hub-spoke-vs-virtual-wan:
 - slug: azure-virtual-wan-deep-dive
@@ -70369,12 +71793,6 @@ illusion-reality-great-gatsby:
   url: /2025/03/17/gatsby-eyes-seeing-motif/
   category: leisure
   image: /assets/images/blog/blog-110.webp
-  lang: en
-- slug: gatsby-past-and-time
-  title: The Past and the Repetition of Time in Gatsby
-  url: /2024/06/17/gatsby-past-and-time/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 gaokao-physics-modern:
 - slug: gaokao-physics-experiments
@@ -70945,6 +72363,12 @@ gatsby-hollow-upper-class:
   category: leisure
   image: /assets/images/blog/blog-09.webp
   lang: en
+- slug: gatsby-quotes-wealth-class
+  title: Key Quotes About Wealth and Class
+  url: /2029/06/11/gatsby-quotes-wealth-class/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
 - slug: money-happiness-great-gatsby
   title: Money Cannot Buy Happiness in Gatsby
   url: /2025/01/20/money-happiness-great-gatsby/
@@ -70956,12 +72380,6 @@ gatsby-hollow-upper-class:
   url: /2024/07/08/appearance-identity-gatsby/
   category: leisure
   image: /assets/images/blog/blog-25.webp
-  lang: en
-- slug: loneliness-great-gatsby
-  title: Loneliness and Isolation in The Great Gatsby
-  url: /2024/09/30/loneliness-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
   lang: en
 upsc-prelims-gs1-telugu:
 - slug: upsc-success-telugu
@@ -71175,11 +72593,11 @@ marriage-infidelity-gatsby:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: apply-critical-lens-gatsby
-  title: How to Apply a Critical Lens to Gatsby
-  url: /2028/03/27/apply-critical-lens-gatsby/
+- slug: gatsby-quotes-time-past
+  title: Key Quotes About Time and the Past
+  url: /2029/06/18/gatsby-quotes-time-past/
   category: leisure
-  image: /assets/images/blog/blog-10.webp
+  image: /assets/images/blog/blog-101.webp
   lang: en
 gaokao-math-vectors:
 - slug: gaokao-math-permutations-combinations
@@ -71430,6 +72848,12 @@ death-great-gatsby:
   url: /2022/05/23/great-gatsby-ending-explained/
   category: leisure
   image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: hope-disillusionment-gatsby
+  title: Hope and Disillusionment in The Great Gatsby
+  url: /2024/08/05/hope-disillusionment-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
   lang: en
 gaokao-math-trigonometry:
 - slug: gaokao-math-functions-guide
@@ -72199,6 +73623,12 @@ spectatorship-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
+- slug: gatsby-foreshadowing-quotes
+  title: Quotes That Foreshadow Gatsby's Death
+  url: /2029/08/06/gatsby-foreshadowing-quotes/
+  category: leisure
+  image: /assets/images/blog/blog-52.webp
+  lang: en
 - slug: zelda-fitzgerald-gatsby
   title: Zelda Fitzgerald and The Great Gatsby
   url: /2026/11/16/zelda-fitzgerald-gatsby/
@@ -72210,12 +73640,6 @@ spectatorship-great-gatsby:
   url: /2022/06/13/great-gatsby-reading-order-pacing/
   category: leisure
   image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: hope-disillusionment-gatsby
-  title: Hope and Disillusionment in The Great Gatsby
-  url: /2024/08/05/hope-disillusionment-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-55.webp
   lang: en
 solo-dining-vegas:
 - slug: solo-dining-sf
@@ -72967,17 +74391,17 @@ class-anxiety-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-95.webp
   lang: en
+- slug: gatsby-quotes-wealth-class
+  title: Key Quotes About Wealth and Class
+  url: /2029/06/11/gatsby-quotes-wealth-class/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
 - slug: loneliness-great-gatsby
   title: Loneliness and Isolation in The Great Gatsby
   url: /2024/09/30/loneliness-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: appearance-identity-gatsby
-  title: Appearance and Identity in The Great Gatsby
-  url: /2024/07/08/appearance-identity-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-25.webp
   lang: en
 gaokao-shandong-province-guide:
 - slug: gaokao-guangdong-province-guide
@@ -75857,17 +77281,17 @@ gatsby-broken-clock-symbol:
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
+- slug: gatsby-faces-smiles-imagery
+  title: Faces and Smiles in The Great Gatsby
+  url: /2025/10/27/gatsby-faces-smiles-imagery/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 - slug: green-light-hope-desire
   title: 'The Green Light: Hope, Distance, Desire'
   url: /2025/04/14/green-light-hope-desire/
   category: leisure
   image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: great-gatsby-motifs-inventory
-  title: 'The Great Gatsby Motifs: The Complete Inventory'
-  url: /2022/03/28/great-gatsby-motifs-inventory/
-  category: leisure
-  image: /assets/images/blog/blog-97.webp
   lang: en
 kaliningrad-russia-dagger-in-nato (1):
 - slug: kaliningrad-russia-dagger-in-nato
@@ -78686,6 +80110,12 @@ gatsby-point-of-view:
   category: leisure
   image: /assets/images/blog/blog-91.webp
   lang: en
+- slug: gatsby-first-person-choice
+  title: Why Fitzgerald Chose a First-Person Narrator
+  url: /2026/01/19/gatsby-first-person-choice/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
 gaokao-chemistry-preparation-guide:
 - slug: gaokao-geography-preparation-guide
   title: 高考地理备考完全指南 - 自然与人文地理全面突破
@@ -81356,6 +82786,12 @@ gatsby-dialogue-technique:
   url: /2026/09/07/gatsby-free-indirect-discourse/
   category: leisure
   image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: gatsby-figurative-language-lines
+  title: Figurative Language in Gatsby's Best Lines
+  url: /2029/07/30/gatsby-figurative-language-lines/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
   lang: en
 lollapalooza-2026-headliners:
 - slug: lollapalooza-2026-lineup-breakdown
@@ -95438,6 +96874,12 @@ is-nick-carraway-queer-coded:
   category: leisure
   image: /assets/images/blog/blog-110.webp
   lang: en
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: nick-carraway-character-analysis
   title: 'Nick Carraway: A Complete Character Analysis'
   url: /2023/06/05/nick-carraway-character-analysis/
@@ -96019,11 +97461,11 @@ apply-critical-lens-gatsby:
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: theory-misuses-gatsby
-  title: Misuses of Theory When Reading Gatsby
-  url: /2028/04/17/theory-misuses-gatsby/
+- slug: how-to-analyze-gatsby-quote
+  title: How to Analyze a Quote From The Great Gatsby
+  url: /2029/07/16/how-to-analyze-gatsby-quote/
   category: leisure
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-25.webp
   lang: en
 choosing-critical-lens-gatsby:
 - slug: apply-critical-lens-gatsby
@@ -96069,11 +97511,11 @@ combining-lenses-gatsby:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: great-gatsby-misreadings-corrected
-  title: 'The Great Gatsby: Everything Students Get Wrong'
-  url: /2022/06/20/great-gatsby-misreadings-corrected/
+- slug: how-to-analyze-gatsby-quote
+  title: How to Analyze a Quote From The Great Gatsby
+  url: /2029/07/16/how-to-analyze-gatsby-quote/
   category: leisure
-  image: /assets/images/blog/blog-50.webp
+  image: /assets/images/blog/blog-25.webp
   lang: en
 theory-misuses-gatsby:
 - slug: most-defensible-gatsby-reading
@@ -96251,6 +97693,12 @@ gatsby-vs-sun-also-rises:
   image: /assets/images/blog/blog-81.webp
   lang: en
 gatsby-vs-catcher-in-the-rye:
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: gatsby-reserving-judgments-quote
   title: Reserving Judgments Quote Analyzed
   url: /2029/03/05/gatsby-reserving-judgments-quote/
@@ -96268,12 +97716,6 @@ gatsby-vs-catcher-in-the-rye:
   url: /2023/12/25/nick-and-gatsby-foils/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: is-nick-carraway-queer-coded
-  title: Is Nick Carraway Queer-Coded? The Textual Case
-  url: /2027/10/18/is-nick-carraway-queer-coded/
-  category: leisure
-  image: /assets/images/blog/blog-45.webp
   lang: en
 - slug: gatsby-vs-heart-of-darkness
   title: 'Gatsby vs Heart of Darkness: Two Witnesses'
@@ -96519,17 +97961,17 @@ nick-witness-narrator-tradition:
   category: leisure
   image: /assets/images/blog/blog-89.webp
   lang: en
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: gatsby-unreliable-narrator
   title: The Unreliable Narrator in The Great Gatsby
   url: /2026/01/26/gatsby-unreliable-narrator/
   category: leisure
   image: /assets/images/blog/blog-100.webp
-  lang: en
-- slug: gatsby-first-person-choice
-  title: Why Fitzgerald Chose a First-Person Narrator
-  url: /2026/01/19/gatsby-first-person-choice/
-  category: leisure
-  image: /assets/images/blog/blog-102.webp
   lang: en
 gatsby-modernist-fiction:
 - slug: gatsby-modernist-technique
@@ -96625,17 +98067,17 @@ daisy-femme-fatale-tradition:
   category: leisure
   image: /assets/images/blog/blog-88.webp
   lang: en
+- slug: gatsby-quotes-about-daisy
+  title: Key Quotes About Daisy Buchanan
+  url: /2029/05/28/gatsby-quotes-about-daisy/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: gatsby-doomed-romantic-hero
   title: Gatsby and the Doomed Romantic Hero
   url: /2028/09/25/gatsby-doomed-romantic-hero/
   category: leisure
   image: /assets/images/blog/blog-37.webp
-  lang: en
-- slug: gatsby-voice-full-of-money-quote
-  title: Her Voice Is Full of Money Explained
-  url: /2029/02/05/gatsby-voice-full-of-money-quote/
-  category: leisure
-  image: /assets/images/blog/blog-65.webp
   lang: en
 gatsby-party-novel-tradition:
 - slug: ecocritical-reading-gatsby
@@ -96731,15 +98173,15 @@ gatsby-bildungsroman-question:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
+- slug: is-nick-carraway-queer-coded
+  title: Is Nick Carraway Queer-Coded? The Textual Case
+  url: /2027/10/18/is-nick-carraway-queer-coded/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 - slug: affect-theory-gatsby
   title: Affect Theory and The Great Gatsby
   url: /2028/01/31/affect-theory-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-108.webp
-  lang: en
-- slug: gatsby-vs-catcher-in-the-rye
-  title: Gatsby vs The Catcher in the Rye
-  url: /2028/06/05/gatsby-vs-catcher-in-the-rye/
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
@@ -97250,6 +98692,12 @@ gatsby-reserving-judgments-quote:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: gatsby-unreliable-narrator
   title: The Unreliable Narrator in The Great Gatsby
   url: /2026/01/26/gatsby-unreliable-narrator/
@@ -97261,12 +98709,6 @@ gatsby-reserving-judgments-quote:
   url: /2029/01/08/gatsby-first-line-explained/
   category: leisure
   image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: gatsby-vs-catcher-in-the-rye
-  title: Gatsby vs The Catcher in the Rye
-  url: /2028/06/05/gatsby-vs-catcher-in-the-rye/
-  category: leisure
-  image: /assets/images/blog/blog-108.webp
   lang: en
 gatsby-fresh-green-breast:
 - slug: color-green-great-gatsby
@@ -97292,6 +98734,12 @@ gatsby-fresh-green-breast:
   url: /2025/06/23/color-blue-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: gatsby-dog-leash-symbol
+  title: The Dog Leash Myrtle Buys
+  url: /2025/12/15/gatsby-dog-leash-symbol/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
   lang: en
 gatsby-foul-dust-quote:
 - slug: gatsby-cant-repeat-past-quote
@@ -97412,11 +98860,11 @@ gatsby-rotten-crowd-quote:
   category: leisure
   image: /assets/images/blog/blog-38.webp
   lang: en
-- slug: nick-and-jordan-romance
-  title: 'Nick and Jordan: The Subplot Romance'
-  url: /2023/12/11/nick-and-jordan-romance/
+- slug: nick-carraway-character-analysis
+  title: 'Nick Carraway: A Complete Character Analysis'
+  url: /2023/06/05/nick-carraway-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-90.webp
   lang: en
 gatsby-beautiful-little-fool:
 - slug: great-gatsby-chapter-6-daisy-party
@@ -97542,4 +98990,310 @@ gatsby-quotes-american-dream:
   url: /2029/04/30/gatsby-best-quotes-chapter-1/
   category: leisure
   image: /assets/images/blog/blog-76.webp
+  lang: en
+gatsby-quotes-about-daisy:
+- slug: gatsby-quotes-about-gatsby
+  title: Key Quotes About Jay Gatsby
+  url: /2029/06/04/gatsby-quotes-about-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: daisy-voice-full-of-money
+  title: Daisy Buchanan and the Voice Full of Money
+  url: /2023/07/10/daisy-voice-full-of-money/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: daisy-femme-fatale-tradition
+  title: Daisy and the Femme Fatale Tradition
+  url: /2028/09/11/daisy-femme-fatale-tradition/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-misunderstood-characters
+  title: The Most Misunderstood Gatsby Characters
+  url: /2024/04/08/gatsby-misunderstood-characters/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-quotes-about-gatsby:
+- slug: gatsby-quotes-about-daisy
+  title: Key Quotes About Daisy Buchanan
+  url: /2029/05/28/gatsby-quotes-about-daisy/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: jay-gatsby-self-made-man
+  title: 'Jay Gatsby: The Self-Made Man Reconsidered'
+  url: /2023/05/15/jay-gatsby-self-made-man/
+  category: leisure
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: jay-gatsby-idealist-or-criminal
+  title: 'Jay Gatsby: Romantic Idealist or Criminal?'
+  url: /2023/05/22/jay-gatsby-idealist-or-criminal/
+  category: leisure
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: nick-and-gatsby-foils
+  title: 'Nick and Gatsby as Foils: The Watcher and the Leaper'
+  url: /2023/12/25/nick-and-gatsby-foils/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-quotes-wealth-class:
+- slug: gatsby-quotes-time-past
+  title: Key Quotes About Time and the Past
+  url: /2029/06/18/gatsby-quotes-time-past/
+  category: leisure
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: gatsby-hollow-upper-class
+  title: The Hollowness of the Upper Class
+  url: /2024/08/12/gatsby-hollow-upper-class/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: class-anxiety-great-gatsby
+  title: Class Anxiety in The Great Gatsby
+  url: /2025/02/03/class-anxiety-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: money-happiness-great-gatsby
+  title: Money Cannot Buy Happiness in Gatsby
+  url: /2025/01/20/money-happiness-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+gatsby-quotes-time-past:
+- slug: gatsby-quotes-wealth-class
+  title: Key Quotes About Wealth and Class
+  url: /2029/06/11/gatsby-quotes-wealth-class/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: gatsby-repeat-the-past
+  title: Can You Repeat the Past in The Great Gatsby?
+  url: /2024/06/24/gatsby-repeat-the-past/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: choosing-critical-lens-gatsby
+  title: Choosing a Critical Lens for a Gatsby Essay
+  url: /2028/04/03/choosing-critical-lens-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: combining-lenses-gatsby
+  title: Combining Critical Lenses on The Great Gatsby
+  url: /2028/04/10/combining-lenses-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: gatsby-past-and-time
+  title: The Past and the Repetition of Time in Gatsby
+  url: /2024/06/17/gatsby-past-and-time/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-quotes-by-nick:
+- slug: nick-carraway-character-analysis
+  title: 'Nick Carraway: A Complete Character Analysis'
+  url: /2023/06/05/nick-carraway-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: nick-carraway-moral-center
+  title: 'Nick Carraway: The Moral Center Question'
+  url: /2023/06/19/nick-carraway-moral-center/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: gatsby-quotes-by-tom
+  title: Key Quotes Said by Tom Buchanan
+  url: /2029/07/02/gatsby-quotes-by-tom/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: is-nick-carraway-queer-coded
+  title: Is Nick Carraway Queer-Coded? The Textual Case
+  url: /2027/10/18/is-nick-carraway-queer-coded/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+gatsby-quotes-by-tom:
+- slug: tom-buchanan-character-analysis
+  title: 'Tom Buchanan: A Complete Character Analysis'
+  url: /2023/07/17/tom-buchanan-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: tom-and-myrtle-affair
+  title: 'Tom and Myrtle: The Affair Analyzed'
+  url: /2023/12/04/tom-and-myrtle-affair/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-antagonist
+  title: Who Is the Antagonist in The Great Gatsby?
+  url: /2024/02/05/gatsby-antagonist/
+  category: leisure
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+gatsby-misquoted-lines:
+- slug: how-to-analyze-gatsby-quote
+  title: How to Analyze a Quote From The Great Gatsby
+  url: /2029/07/16/how-to-analyze-gatsby-quote/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: gatsby-diction-word-choice
+  title: Diction and Word Choice in The Great Gatsby
+  url: /2026/02/16/gatsby-diction-word-choice/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: combining-lenses-gatsby
+  title: Combining Critical Lenses on The Great Gatsby
+  url: /2028/04/10/combining-lenses-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: famous-gatsby-essays
+  title: Famous Critical Essays on The Great Gatsby
+  url: /2028/03/06/famous-gatsby-essays/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+how-to-analyze-gatsby-quote:
+- slug: gatsby-misquoted-lines
+  title: Most Misquoted Lines From The Great Gatsby
+  url: /2029/07/09/gatsby-misquoted-lines/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: combining-lenses-gatsby
+  title: Combining Critical Lenses on The Great Gatsby
+  url: /2028/04/10/combining-lenses-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: choosing-critical-lens-gatsby
+  title: Choosing a Critical Lens for a Gatsby Essay
+  url: /2028/04/03/choosing-critical-lens-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: gatsby-diction-word-choice
+  title: Diction and Word Choice in The Great Gatsby
+  url: /2026/02/16/gatsby-diction-word-choice/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+gatsby-most-quotable-sentences:
+- slug: gatsby-foreshadowing-quotes
+  title: Quotes That Foreshadow Gatsby's Death
+  url: /2029/08/06/gatsby-foreshadowing-quotes/
+  category: leisure
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: great-gatsby-reading-order-pacing
+  title: The Great Gatsby Reading Order and Pacing
+  url: /2022/06/13/great-gatsby-reading-order-pacing/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-gaps-ellipses
+  title: Gaps, Ellipses, and the Unsaid in Gatsby
+  url: /2026/08/17/gatsby-gaps-ellipses/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: great-gatsby-chapter-7-analysis
+  title: 'Great Gatsby Chapter 7: Summary and Analysis'
+  url: /2022/10/31/great-gatsby-chapter-7-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+gatsby-figurative-language-lines:
+- slug: gatsby-gaps-ellipses
+  title: Gaps, Ellipses, and the Unsaid in Gatsby
+  url: /2026/08/17/gatsby-gaps-ellipses/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: gatsby-foreshadowing-quotes
+  title: Quotes That Foreshadow Gatsby's Death
+  url: /2029/08/06/gatsby-foreshadowing-quotes/
+  category: leisure
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: gatsby-most-quotable-sentences
+  title: The Most Quotable Sentences in Gatsby
+  url: /2029/07/23/gatsby-most-quotable-sentences/
+  category: leisure
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: great-gatsby-reading-order-pacing
+  title: The Great Gatsby Reading Order and Pacing
+  url: /2022/06/13/great-gatsby-reading-order-pacing/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+gatsby-foreshadowing-quotes:
+- slug: gatsby-foreshadowing
+  title: Foreshadowing in The Great Gatsby
+  url: /2026/03/23/gatsby-foreshadowing/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-most-quotable-sentences
+  title: The Most Quotable Sentences in Gatsby
+  url: /2029/07/23/gatsby-most-quotable-sentences/
+  category: leisure
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: great-gatsby-reading-order-pacing
+  title: The Great Gatsby Reading Order and Pacing
+  url: /2022/06/13/great-gatsby-reading-order-pacing/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: great-gatsby-first-time-readers
+  title: The Great Gatsby for First-Time Readers
+  url: /2022/04/25/great-gatsby-first-time-readers/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+gatsby-quotes-nick-bias:
+- slug: gatsby-reserving-judgments-quote
+  title: Reserving Judgments Quote Analyzed
+  url: /2029/03/05/gatsby-reserving-judgments-quote/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: great-gatsby-chapter-1-analysis
+  title: 'Great Gatsby Chapter 1: Summary and Analysis'
+  url: /2022/06/27/great-gatsby-chapter-1-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: great-gatsby-chapter-1-narration
+  title: 'Great Gatsby Chapter 1: Nick''s Narration Begins'
+  url: /2022/07/04/great-gatsby-chapter-1-narration/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
   lang: en

@@ -9,7 +9,7 @@ excerpt: "Roman Egypt was never the quiet province of the textbooks, and the pre
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2008-09-01
+last_updated: 2026-08-21
 lang: en
 ---
 The standard picture of Roman Egypt is a province that produced grain and paperwork and made no trouble. It is wrong. Across six centuries the country saw a revolt in the far south within the first year of the annexation, communal massacres in its greatest city, a Jewish rising so destructive that it effectively erased one of the largest Jewish communities in the world, a rebellion of Delta herdsmen that defeated Roman troops and threatened Alexandria, a governor who declared himself emperor, an occupation by a foreign power, and two imperial sieges of the provincial capital that wrecked its ancient centre.

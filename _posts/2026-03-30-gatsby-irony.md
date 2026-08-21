@@ -9,7 +9,7 @@ excerpt: "Irony in The Great Gatsby is the book's basic mode: verbal, situationa
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2026-03-30
+last_updated: 2026-08-21
 lang: en
 ---
 Most readers meet irony in The Great Gatsby as a handful of clever moments: a sharp line from Nick, a funeral nobody attends, a green light that turns out to be a porch lamp on a neighbor's dock. Treated that way, irony looks like seasoning, a wit Fitzgerald sprinkles over an otherwise straight story. That reading sells the novel short. Irony is not a garnish in this book. It is the climate. Every level of the narrative, from the choice of a single adverb to the shape of the whole plot, runs on the gap between what is expected and what arrives. Learn to read that gap and you stop summarizing the novel and start analyzing it, because irony is the engine that drives almost every effect Fitzgerald wants.

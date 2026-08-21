@@ -9,7 +9,7 @@ excerpt: "Christianity reached Egypt early and left almost no first-century trac
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2008-08-01
+last_updated: 2026-08-21
 lang: en
 ---
 Somewhere in the first century of the common era, Christianity arrived in Egypt. Within three hundred years the country had gone from a place where a Christian was an oddity to one where Christians were the majority, where the desert had filled with monks, and where the bishop of Alexandria was among the most powerful men in the Roman world. That transformation is one of the fastest and most complete religious changes in recorded history, and the strangest thing about it is how little evidence survives from its first two centuries.

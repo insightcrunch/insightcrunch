@@ -9,7 +9,7 @@ excerpt: "One battle in 1187 destroyed a kingdom, and the surrender terms that f
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2011-11-01
+last_updated: 2026-08-21
 lang: en
 ---
 On a hot July day in 1187 a crusader army marched away from its water supply toward a village on a ridge, and by evening the kingdom of Jerusalem had effectively ceased to exist. Three months later the city itself surrendered, and its Christian population was allowed to leave on payment of a ransom, which is not what had happened when the crusaders took it in 1099.

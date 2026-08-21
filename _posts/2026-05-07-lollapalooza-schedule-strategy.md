@@ -9,7 +9,7 @@ excerpt: "A Lollapalooza schedule strategy that turns the dense set-time grid in
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-07
+last_updated: 2026-08-21
 lang: en
 ---
 The hardest scheduling problem at Lollapalooza is not which act to see. It is what to do when the eight-stage grid lands in your hands a few days before the gates open and you have to convert a wall of overlapping set times into something you can actually live by for four days in a row. Most people fail this in one of two predictable ways. They either freeze the whole weekend into a minute-by-minute itinerary that collapses the first time a security line runs twenty minutes long, or they decide planning is for amateurs, walk in with a vague sense of who they like, and lose two or three hours a day to wandering, missed sets, and standing at the wrong end of Grant Park when the act they cared about most starts at the other. A real Lollapalooza schedule strategy sits between those two errors, and learning it is the difference between a weekend that feels full and one that feels frantic.

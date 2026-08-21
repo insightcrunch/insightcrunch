@@ -9,7 +9,7 @@ excerpt: "How Lollapalooza books its headliners comes down to budgets, agents, r
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-06
+last_updated: 2026-08-21
 lang: en
 ---
 When you stand in front of a festival poster and scan the names stacked from the giant type at the top to the tiny print at the bottom, you are looking at the output of a year of negotiation, and understanding how Lollapalooza books its headliners changes how you read every line of it. The poster is not a popularity ranking and it is not a wish list that came true. It is a negotiated settlement between money, calendars, contracts, and relationships, and once you can see the machine behind it you stop asking the wrong question (why is my favorite act not on here?) and start asking the right one (what would it have taken to get them, and what did the festival trade to land the names it did?).

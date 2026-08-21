@@ -9,7 +9,7 @@ excerpt: "The gaps in Poland's modernization sit in manpower, munitions, sustain
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "abigail-cooper"
-last_updated: 2026-05-01
+last_updated: 2026-08-21
 lang: en
 ---
 The decision a Polish defense planner faces is not whether to buy more hardware. That decision has largely been made, and the tanks, launchers, fighters, and air defense batteries are arriving. The harder decision is what to do with the money and attention that remain once the marquee purchases are booked, because the gaps in Poland's modernization do not live in the equipment catalog. They live in the manpower needed to crew and sustain the force, in the munitions stockpiles that decide how long the force can fight, in the maintenance and spare-parts pipeline that keeps platforms running, in the burden of integrating fleets bought from several suppliers at once, and in the unglamorous enablers that turn a shopping list into fielded combat power. A planner who reads only the procurement announcements will conclude the job is nearly finished. A planner who reads the whole force will see where it is thin, and will understand that the thin places, not the impressive ones, set the real ceiling on what the buildup deters.

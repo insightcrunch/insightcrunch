@@ -9,7 +9,7 @@ excerpt: "Coptic Egypt is where the ancient country survived its own ending, car
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2009-03-01
+last_updated: 2026-08-21
 lang: en
 ---
 The standard account of Egyptian history has an ending. The pharaohs stop, the temples close, the hieroglyphs fall silent, and the country becomes a province of somebody else's empire until the Arab conquest opens a different story. That account is wrong in a specific and important way, and correcting it is the purpose of this guide.

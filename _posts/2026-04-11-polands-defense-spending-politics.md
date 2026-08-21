@@ -9,7 +9,7 @@ excerpt: "Poland's defense spending politics decides whether rearmament outlasts
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
 author: "david-thornton"
-last_updated: 2026-04-11
+last_updated: 2026-08-21
 lang: en
 ---
 A rearmament program is only as strong as the political settlement that pays for it, and Poland's defense spending politics is the variable that decides whether the country's historic military buildup survives the next change of government, the next economic squeeze, and the next procurement fight. The hardware gets the headlines: the tanks, the fighters, the missile batteries, the plan for a much larger army. What gets far less scrutiny, and matters at least as much, is the internal question underneath all of it. Can a democracy sustain spending at wartime peacetime levels, year after year, across electoral cycles that hand power back and forth between rival camps, without the effort unraveling the moment the coalition that began it leaves office? That is a political question, not a fiscal one, and it is the question this assessment is built to answer.

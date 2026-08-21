@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 84
 author: "james-carter"
 lang: en
+last_updated: 2026-08-21
 ---
 ## The May 20 Announcement That Changed Everything
 

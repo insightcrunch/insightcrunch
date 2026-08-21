@@ -9,7 +9,7 @@ excerpt: "A caliphate two and a half centuries old ended in 1171 when a single n
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2011-12-01
+last_updated: 2026-08-21
 lang: en
 ---
 On a Friday in September 1171 the preachers in the mosques of Cairo named the Abbasid caliph in Baghdad instead of the Fatimid caliph living a few hundred metres away. That was the whole of it. A dynasty proclaimed in North Africa in 909, established in Egypt in 969, claiming infallible religious authority over the entire Muslim community, ended in the time it takes to read a sentence aloud.

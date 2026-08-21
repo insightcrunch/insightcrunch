@@ -9,7 +9,7 @@ excerpt: "The Coptic language is ancient Egyptian in its final written stage, ca
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2009-07-01
+last_updated: 2026-08-21
 lang: en
 ---
 There is a common assumption that the Egyptian language died when the last hieroglyphic inscription was carved, that a civilization which had spoken and written for three and a half thousand years simply stopped mid sentence and left behind nothing but signs no one could read. That assumption is wrong in a way that matters, and the Coptic language is the proof. Coptic is not a successor to Egyptian, not a cousin of Egyptian, and not a language influenced by Egyptian. It is Egyptian, the same tongue that was spoken in the shadow of the pyramids, carried forward through Old Egyptian, Middle Egyptian, Late Egyptian and Demotic, and written at last in an alphabet borrowed from the Greeks. When a deacon chants in a church in Cairo or Sohag, the sounds coming out of his mouth are the final stage of the language of the pharaohs. That is the argument this article defends, and it is the claim worth carrying away from it: the last voice of the pharaohs thesis, that Egyptian never died as a language, only changed its clothes, its readership, and eventually its role.

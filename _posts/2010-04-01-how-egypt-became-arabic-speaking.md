@@ -9,7 +9,7 @@ excerpt: "Egypt became Arabic speaking over roughly a thousand years, through ad
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2010-04-01
+last_updated: 2026-08-21
 lang: en
 ---
 An army arrived in Egypt in 639 speaking Arabic. A thousand years later the country spoke Arabic. Almost everyone assumes those two facts are connected in the simplest possible way, and the assumption is wrong in a manner that makes the whole process unintelligible. The conquerors numbered a few thousand in a country of millions, they made no attempt to impose their language on anyone, and for two full generations after the conquest the government of Egypt was conducted in Greek by Egyptian officials. The tongue changed, and it changed for reasons that have very little to do with an army.

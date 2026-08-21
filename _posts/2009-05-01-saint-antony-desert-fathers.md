@@ -9,7 +9,7 @@ excerpt: "Antony did not invent the hermit life, and he became its model because
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2009-05-01
+last_updated: 2026-08-21
 lang: en
 ---
 Around the year 270 CE, a young man in a village in Middle Egypt walked into a church, heard a passage of the gospel read aloud, and understood it as an instruction addressed personally to him. He sold the land he had inherited, arranged for his sister, and went to live at the edge of the settlement under the guidance of an old ascetic. Nothing about that decision was unprecedented. Within a century it had produced an institution that still exists on every continent.

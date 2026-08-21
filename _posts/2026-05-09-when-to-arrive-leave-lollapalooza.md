@@ -9,7 +9,7 @@ excerpt: "The smartest time to arrive and leave Lollapalooza each day, from whet
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-05-09
+last_updated: 2026-08-21
 lang: en
 ---
 The two moments that quietly decide whether your day at Lollapalooza feels generous or grinding are the moment you walk in and the moment you walk out. Almost nobody plans them. People obsess over the middle of the day, the clash between two acts at eight o'clock, the walk from one end of Grant Park to the other, and then they sleepwalk through the bookends, drifting in whenever they happen to wake up and shuffling out in a slow river of several hundred thousand people all aimed at the same trains and the same streets at the same minute. That is the expensive part. The start and the end of a Lollapalooza day cost the most time for the least music, and the fans who treat arrival and departure as a decision rather than a default walk away with more festival in their pockets than the fans who spent the whole afternoon optimizing set times.

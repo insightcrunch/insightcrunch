@@ -9,7 +9,7 @@ excerpt: "A dispute over how to describe Christ in 451 separated Egypt from the 
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2009-06-01
+last_updated: 2026-08-21
 lang: en
 ---
 In October 451 several hundred bishops assembled in a church across the water from Constantinople and spent three weeks arguing about a preposition. The question was whether Christ should be described as existing in two natures or from two natures, and to almost every reader since it has looked like the kind of dispute that only professionals could care about. The Egyptian church cared enough to refuse the answer, and it has not accepted it in the fifteen centuries since.

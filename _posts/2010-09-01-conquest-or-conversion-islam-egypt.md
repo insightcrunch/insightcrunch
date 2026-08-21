@@ -9,7 +9,7 @@ excerpt: "Egypt was conquered in three years but converted across many centuries
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2010-09-01
+last_updated: 2026-08-21
 lang: en
 ---
 Two things happened to Egypt in the seventh century and they are constantly mistaken for each other. An Arab army took the country in about three years. The Egyptian population became predominantly Muslim over a period that most estimates put somewhere between four and seven centuries. The first is an event with dates. The second is a process with no clear beginning, no announced end and no contemporary who realized it was happening.

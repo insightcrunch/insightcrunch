@@ -3,10 +3,10 @@ layout: post
 title: "Oracle Layoffs 2026 Every Question Answered"
 page_title: "Oracle Layoffs 2026: The Definitive Guide to Every Question Being Asked Right Now"
 date: 2026-04-03
-last_updated: 2026-04-03
+last_updated: 2026-08-21
 categories: ["Industry"]
 tags: ["oracle layoffs", "oracle layoffs 2026", "oracle layoffs reddit", "oracle layoffs blind", "oracle severance", "oracle h1b layoffs", "oracle india layoffs", "oracle netsuite layoffs", "tech layoffs 2026", "oracle job cuts", "larry ellison", "oracle ai", "oracle cloud layoffs", "oracle warn act"]
-excerpt: "Hundreds of the most-asked questions about Oracle's March 2026 mass layoffs answered in full, sourced directly from Reddit threads, Blind posts, LinkedIn reactions, and X discussions. Severance, visa status, India cuts, stock outlook, and what comes next."
+excerpt: "Decode every question about the Oracle 2026 layoffs with answers covering scope, severance, and next steps."
 image: "/assets/images/blog/blog-32.webp"
 read_time: 58
 author: "ian-fletcher"
