@@ -9,7 +9,7 @@ excerpt: "Biking and walking to Lollapalooza beats the surge and the train crush
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-05-14
+last_updated: 2026-08-25
 lang: en
 ---
 Most people approaching Lollapalooza arrive having already decided that getting in means a train platform packed shoulder to shoulder or a rideshare fare that triples the moment the headliner ends. They reach for those two options because the festival is large and the crowd is enormous, and the camping-festival instinct says a big event must sit far from where you sleep, reachable only by some motorized shuttle through a parking field. That instinct is wrong for this particular festival, and the cost of believing it is paid in surge fares, in twenty-minute waits at a rideshare pin, and in the slow grind of a sold-out platform after the last note. Biking and walking to Lollapalooza is not a fallback for people who cannot afford a car. For anyone staying downtown, self-powered arrival is frequently the single fastest, cheapest, and least stressful way both in and out, and the reason is geography: the festival sits inside Grant Park, on the Chicago lakefront, wrapped by one of the most walkable downtown cores in the country and threaded by a continuous lakefront path that bikes can ride almost to the gates.

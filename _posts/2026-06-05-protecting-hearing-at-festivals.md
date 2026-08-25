@@ -9,7 +9,7 @@ excerpt: "Hearing protection at Lollapalooza keeps the music clear while guardin
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-06-05
+last_updated: 2026-08-25
 lang: en
 ---
 Hearing protection is the one piece of festival planning almost nobody does, and it is the one that protects the very sense you came to use. You spend weeks choosing sets, mapping the grounds, and packing the bag, all so you can stand in a field and let the music hit you. Then the music hits you for nine hours a day across a long weekend, at volumes built to carry across a park, and the part of you that absorbs all of it gets no plan at all. That gap is the reason this page exists. Loud stages are not a small inconvenience to power through. The sound levels at a major festival can climb high enough to cause real, lasting harm to the ears over a full day, and the harm builds quietly, without the sharp warning that a burn or a sprain gives you. By the time you notice it, the part that is gone is gone for good.

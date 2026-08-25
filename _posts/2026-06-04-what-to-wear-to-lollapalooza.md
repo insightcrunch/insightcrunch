@@ -9,7 +9,7 @@ excerpt: "What to wear to Lollapalooza comes down to broken-in shoes, breathable
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-06-04
+last_updated: 2026-08-25
 lang: en
 ---
 The single fastest way to ruin a Lollapalooza day is to get dressed for the wrong festival. Most of what you read about what to wear to Lollapalooza is styling advice dressed up as planning: a mood board of fringe and bucket hats, a paragraph about expressing yourself, and almost nothing about the eleven hours your body actually spends standing, walking, sweating, and shuffling across packed grass in the middle of a Chicago summer. That gap is exactly where comfort goes to die. You can look like the photo you saw on a fan account and still spend the back half of Saturday limping toward the medical tent with two blisters and a sunburn, because the outfit was built for a camera and not for a body that has to last from late-morning gates to a ten o'clock headliner.

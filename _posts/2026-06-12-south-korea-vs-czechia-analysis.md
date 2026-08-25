@@ -9,7 +9,7 @@ excerpt: "South Korea vs Czechia result and analysis: how Oh Hyeon-gyu's late wi
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
 author: "bruno-carvalho"
-last_updated: 2026-06-12
+last_updated: 2026-08-25
 lang: en
 ---
 South Korea began their World Cup 2026 campaign the way the better team usually wants to, by winning, but they did it the hard way, falling behind to a set-piece they had been warned about and then rebuilding the game from their bench. The 2-1 result against Czechia in the second match of the tournament reads like a straightforward comeback, and in one sense it was: Ladislav Krejci headed Czechia in front in the 59th minute, Hwang In-beom equalized eight minutes later, and substitute Oh Hyeon-gyu turned in the winner with ten minutes left in Guadalajara. But the scoreline hides the thing that actually decided it. South Korea controlled the night without scoring for an hour, conceded against the run of play to the one route Czechia were always going to try, and then found the answer not in their starting plan but in the players Hong Myung-bo introduced to change the shape of the contest. The single most useful sentence to carry away from this match is that the bench, not the first eleven, supplied the goal that won it.

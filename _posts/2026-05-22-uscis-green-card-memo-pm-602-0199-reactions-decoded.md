@@ -3,7 +3,7 @@ layout: post
 title: "USCIS Green Card Memo PM-602-0199: Reactions Decoded"
 page_title: "USCIS Green Card Memo PM-602-0199: Every Voice Responding to the Adjustment of Status Reset"
 date: 2026-05-22
-last_updated: 2026-05-22
+last_updated: 2026-08-25
 categories: ["Industry"]
 tags: ["uscis", "adjustment of status", "pm-602-0199", "green card memo", "trump immigration", "david bier", "doug rand", "aila", "h1b green card", "consular processing", "may 22 memo", "i-485", "immigration policy 2026", "legal immigration"]
 excerpt: "Every voice responding to the May 22 USCIS adjustment of status memo PM-602-0199: Bier, Rand, AILA, attorneys, founders, and the loud Big Tech silences."
@@ -12,7 +12,6 @@ author: "kevin-reeves"
 reading_time: 128
 lang: en
 ---
-
 There is a particular kind of policy document that does not change a single word of statute and yet changes everything about how the statute will be applied. The six-page memorandum that the United States Citizenship and Immigration Services issued on May 21, 2026, under the designation PM-602-0199, and publicly announced on Friday, May 22, is exactly that kind of document. It does not amend the Immigration and Nationality Act. It does not eliminate any visa category. It does not even, on its face, prohibit the filing of any application. Yet within hours of its release, immigration attorneys were calling clients to warn them not to leave the country, startup founders were posting on X about scientists and engineers who would now face impossible choices, the Cato Institute was publishing analysis describing the directive as the most consequential restriction on legal immigration in the modern era, and the comments section under every news article about the move was filling with the specific kind of fury that arrives when people who have followed every rule discover that the rules have been reinterpreted against them.
 
 This article is not primarily a legal analysis of the memorandum itself. The technical dimensions of PM-602-0199, what it cites, what it changes about discretionary review, how it interacts with the dual-intent doctrine and the statutory exemptions under section 245 of the Immigration and Nationality Act, have been covered in detail by immigration law firms across the country in the hours since the document went public. This article is about something different. This is the record of how America responded to the directive. Every major voice that spoke. Every attorney who issued an emergency advisory to clients. Every immigration policy scholar who warned of consequences. Every startup founder, every Reddit thread, every Blind post, every former government official, every think tank publication, every elected representative who said something publicly and every one whose silence said something too.

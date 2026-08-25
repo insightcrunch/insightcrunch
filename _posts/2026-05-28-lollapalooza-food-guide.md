@@ -9,7 +9,7 @@ excerpt: "Your Lollapalooza food guide to Chow Town: what is available, how cash
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-28
+last_updated: 2026-08-25
 lang: en
 ---
 Most people walk into Lollapalooza food planning blind, treating Chow Town as a wall of overpriced stands to be endured between sets, and they pay for that assumption twice: once at the register and once in the forty-minute line they joined at the exact moment a hundred thousand other people decided to eat. The truth that turns a frustrating slog into one of the better parts of the weekend is that the food at this festival is not generic festival fare. Chow Town is a curated district of real Chicago restaurants, assembled to put the city's range on a plate inside Grant Park, and the moment you treat eating here as a system to plan rather than a queue to suffer, the whole experience improves. This guide is the food-cluster hub for the series, the page that makes the eating side legible end to end, and it routes you to the specialist articles when you want the deep version of any one question.

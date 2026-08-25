@@ -9,7 +9,7 @@ excerpt: "What to pack for kids at Lollapalooza, from ear protection and sun gea
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-05-23
+last_updated: 2026-08-25
 lang: en
 ---
 The hardest part of bringing a child to Lollapalooza is not the ticket, the crowd, or even the heat. It is the bag you carry through the gate, because that single bag has to solve a day that runs from late-morning sun to a chilly lakefront night, and it has to do it for a small body that overheats faster, tires sooner, and cannot tell you what is wrong until it is already a problem. Knowing what to pack for kids at Lollapalooza is the difference between a family that lasts until the early-evening set they came for and one that leaves at two in the afternoon with a sunburned, overstimulated child who never wants to hear the word festival again. Most packing guides treat a child as a smaller adult who also needs snacks. A child is not a smaller adult. The kit is genuinely different, and this is the page that builds it from the ground up.

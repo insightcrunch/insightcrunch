@@ -9,7 +9,7 @@ excerpt: "A group Lollapalooza budget drops per head when you split the fixed co
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-21
+last_updated: 2026-08-25
 lang: en
 ---
 The single biggest lever on a group Lollapalooza budget is one most friends never deliberately pull: deciding, before anyone books anything, which costs get split across the whole party and which stay on each person's own card. Get that split right and four or six or eight people can each pay noticeably less than a solo traveler would for the same weekend in Grant Park, because the largest line on the trip, the roof over everyone's head, divides cleanly by the number of bodies sleeping under it. Get it wrong, or never think about it at all, and a group ends up paying close to solo rates each while also fighting over who owes whom for the late-night food run. This page is about pulling the lever on purpose. It lays out which costs shrink per head, how much they shrink, and how to handle the shared money so the math stays friendly all weekend.

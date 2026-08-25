@@ -9,7 +9,7 @@ excerpt: "The history of Lollapalooza, from a farewell tour to the touring era, 
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 76
 author: "rachel-foster"
-last_updated: 2026-06-06
+last_updated: 2026-08-25
 lang: en
 ---
 Ask ten fans where the history of Lollapalooza begins and most will point at Grant Park, the lakefront, the four-day weekend at the end of a Chicago summer. That answer is wrong, or at least it is only the third act of a much longer story. The festival that fills the South Loop with hundreds of thousands of people across four days did not start in Chicago, did not start as an annual event, and did not start as a fixed destination at all. It started on the road, as a goodbye, and it has died and come back to life since. Understanding that arc is the difference between knowing a festival and knowing the one event in American music that reinvented itself enough times to outlast nearly everything it once shared a stage with.

@@ -9,7 +9,7 @@ excerpt: "Kidzapalooza is the kids' festival inside Lollapalooza. Here is what h
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-22
+last_updated: 2026-08-25
 lang: en
 ---
 Kidzapalooza is the part of Lollapalooza that decides whether a family weekend in Grant Park works or falls apart by two in the afternoon. Most guides give it a single sentence, a passing mention that there is a kids' area somewhere on the grounds, and then move on as though that settles the matter. It does not settle anything. A parent standing at the gate with a seven-year-old and a stroller needs to know what that area actually contains, whether a child can spend real hours there, what it costs, when it runs, and how to build a day around it rather than treating it as a place to park a bored kid for twenty minutes. This page answers all of that. It treats Kidzapalooza as what it is, a programmed children's festival folded inside the adult one, and it gives you the working knowledge to use it instead of stumbling onto it.

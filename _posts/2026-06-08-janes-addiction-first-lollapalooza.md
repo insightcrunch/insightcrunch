@@ -9,7 +9,7 @@ excerpt: "The first Lollapalooza began as a Jane's Addiction farewell tour that 
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-08
+last_updated: 2026-08-25
 lang: en
 ---
 Before there was a four-day gathering on the Chicago lakefront, before the global network of editions, before the word itself became shorthand for a certain kind of summer, there was a single stage in the Arizona desert and a band that thought it was saying goodbye. The story of the first Lollapalooza is the story of a farewell that refused to stay a farewell. It is the origin event of everything the name now carries, and it began not as a festival empire but as the parting gesture of Jane's Addiction, the alternative-rock band whose singer dreamed up the whole traveling spectacle as a way to end his group on its own terms.

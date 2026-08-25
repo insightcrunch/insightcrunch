@@ -9,7 +9,7 @@ excerpt: "Lollapalooza's evolution of sound runs from alternative rock roots to 
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2026-06-09
+last_updated: 2026-08-25
 lang: en
 ---
 If you want to understand what Lollapalooza is, look at what it sounds like, and then look at how that sound changed. Lollapalooza's evolution of sound is the festival's real biography, a single arc that runs from a noisy alternative-rock farewell tour built around one band to a four-day Grant Park destination that now spans nearly every popular genre a listener could name. Most pages that try to explain the festival hand you a lineup and a map. This one traces the sound itself, because the music is where the festival's identity actually lives, and the way that music broadened over three decades is the clearest story anyone can tell about how the whole thing grew up.

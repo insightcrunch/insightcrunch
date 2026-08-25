@@ -9,7 +9,7 @@ excerpt: "Mexico vs South Africa World Cup 2026 preview: prediction, predicted l
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-11
+last_updated: 2026-08-25
 lang: en
 ---
 Mexico vs South Africa at World Cup 2026 is the match that opens the largest tournament football has ever staged, and the question it poses is narrow and heavy at the same time: can a host nation finally win a World Cup opening match it has never won before, in front of its own people, in a stadium that has now seen more World Cup history than any other on the planet? El Tri walk out at the Estadio Azteca in Mexico City as overwhelming favorites against a Bafana Bafana side back at the finals for the first time since 2010, and yet the weight on the home team is real, because the record says Mexico do not win these games. That is the tension that frames everything about this Group A curtain-raiser, and it is the reason a fixture between the 16th-ranked co-host and a side outside the world's top 50 carries far more intrigue than the gap on paper suggests.

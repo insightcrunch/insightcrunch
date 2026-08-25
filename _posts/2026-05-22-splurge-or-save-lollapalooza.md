@@ -9,7 +9,7 @@ excerpt: "Where to splurge or save at Lollapalooza, settled category by category
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2026-05-22
+last_updated: 2026-08-25
 lang: en
 ---
 Every Lollapalooza budget, no matter how big or how tight, eventually forces the same question: where should you splurge, and where should you save? You only have so much to spend on a four-day festival in Grant Park, and the choice is not really whether to spend it. The choice is which categories deserve the extra money and which ones quietly drain it for nothing you will remember by Monday. Most pages dodge this. They either preach blanket frugality, telling you to cut everything until the weekend feels like a chore, or they wave the question away with "treat yourself, you only live once," which is how people come home having spent twice what they planned and enjoyed it less than the friend who spent half as much. This page settles the splurge-versus-save call the honest way, one category at a time, because that is the only way the answer is ever true.

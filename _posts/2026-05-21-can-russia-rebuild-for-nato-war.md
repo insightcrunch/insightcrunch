@@ -9,7 +9,7 @@ excerpt: "Can Russia rebuild for a war with NATO? A gated assessment weighing ma
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 77
 author: "ian-fletcher"
-last_updated: 2026-05-21
+last_updated: 2026-08-25
 lang: en
 ---
 Can Russia rebuild for a war with NATO? That single question sits underneath most of the anxiety about the eastern flank, and it is almost always answered too fast. One camp looks at the scale of Russian losses in Ukraine and concludes the army is finished as a threat to the alliance for a generation. Another camp looks at surging munitions output and swelling headline troop numbers and concludes a high-end fight against NATO is only a few years away. Both answers are confident, both are widely repeated, and both are wrong in the same way. They read a single metric as if it settled a question that is actually gated, conditional, and made of several moving parts that recover at very different speeds.

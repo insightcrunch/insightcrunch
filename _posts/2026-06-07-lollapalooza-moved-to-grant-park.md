@@ -9,7 +9,7 @@ excerpt: "Why Lollapalooza moved to Grant Park is the decision that built the mo
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-06-07
+last_updated: 2026-08-25
 lang: en
 ---
 Ask most fans when the modern festival began and they will point to a lineup, a headliner, or the first weekend they attended. The truer answer is a real estate decision. When Lollapalooza moved to Grant Park, a traveling show with no fixed address became a downtown Chicago institution with a skyline for a backdrop and a lakefront for a floor, and that single change did more to shape what the festival is now than any act ever booked to play it. The story of why Lollapalooza moved to Grant Park is the story of how a rootless idea found a home and, in finding it, became something it had never been before: a place you travel to rather than a tour that comes to you.

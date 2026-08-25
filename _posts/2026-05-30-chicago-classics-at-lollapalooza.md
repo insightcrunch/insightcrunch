@@ -9,7 +9,7 @@ excerpt: "Eat the real Chicago classics on your Lollapalooza trip: the deep dish
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-30
+last_updated: 2026-08-25
 lang: en
 ---
 You came to Grant Park for the music, and the music is the reason the trip exists. But you are also standing in the middle of one of the great food cities on the planet, and the festival sits a few hundred yards from the downtown counters and pizzerias that made that reputation. The mistake most planning pages make is to treat festival eating as a generic problem, a question of where the nearest stand is and how long the line runs, when the real question on a Chicago trip is sharper and more rewarding: which of the city's signature dishes are you going to eat while you are here, and where do you get the honest versions rather than the airport-souvenir imitations? Chicago classics at Lollapalooza is not a niche concern for food obsessives. It is the difference between a weekend where you ate to keep moving and one where the food became part of the trip you remember.

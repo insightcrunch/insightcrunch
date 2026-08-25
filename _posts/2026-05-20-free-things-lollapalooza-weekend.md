@@ -9,7 +9,7 @@ excerpt: "Free things to do on Lollapalooza weekend in Chicago, from free city m
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-05-20
+last_updated: 2026-08-25
 lang: en
 ---
 A four-day pass, a downtown hotel, food inside the gates, and rideshares home is the version of this weekend that empties a bank account in a hurry, and it is the only version most guides bother to describe. The free things to do on Lollapalooza weekend are a different trip entirely, and they are the ones almost nobody maps. The festival itself sits behind a fence in Grant Park and asks for a ticket at every gate, but the weekend it creates spills across the whole downtown lakefront, and that spillover is open to anyone with a transit card and a pair of shoes. A budget traveler, a ticketless friend tagging along, a student who spent the ticket money on the flight, or a local who would rather keep the cash can build a full, satisfying Lollapalooza-weekend experience for close to nothing, as long as they understand exactly where the free part begins and where the gated part ends.

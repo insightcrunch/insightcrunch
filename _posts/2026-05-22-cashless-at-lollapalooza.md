@@ -9,7 +9,7 @@ excerpt: "Cashless at Lollapalooza trips up first-timers. Here is how the wristb
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-05-22
+last_updated: 2026-08-25
 lang: en
 ---
 The first time you reach a food stall in Grant Park and the worker waves your wrist over a small glowing pad instead of taking a bill, the whole payment question answers itself in about two seconds. Going cashless at Lollapalooza is not a glitch or an upsell. It is the default, the only way most of the festival takes your money, and the single mechanic that trips up more first-timers than the heat, the crowds, or the set-time clashes combined, because nobody explains it before they arrive holding a fold of twenties that almost nothing inside the gates wants.

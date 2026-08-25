@@ -9,7 +9,7 @@ excerpt: "A Lollapalooza student budget built from real levers: the single day, 
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-05-21
+last_updated: 2026-08-25
 lang: en
 ---
 A Lollapalooza student budget is not built from a discount that does not exist. It is built from four choices, and once you make them in the right order, a downtown summer festival that looks impossible on a student wallet becomes a weekend you can actually fund. The students who pull this off are not the ones who found a secret student rate, because there generally is not one. They are the ones who picked the single day instead of the four, split a room or a hostel bunk instead of paying for a bed alone, locked the price early on a payment plan instead of fronting the whole pass in one hit, and ate around the gates instead of inside them. That is the entire trick, and the rest of this page is the math, the order, and the honest cautions that turn it into a plan you can carry into a booking screen.

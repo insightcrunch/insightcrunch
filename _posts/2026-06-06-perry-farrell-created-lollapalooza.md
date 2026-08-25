@@ -9,7 +9,7 @@ excerpt: "How Perry Farrell created Lollapalooza, who he is, why he started it, 
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-06
+last_updated: 2026-08-25
 lang: en
 ---
 Every fan who falls for Lollapalooza eventually asks the same question, and most pages answer it in a single sentence before rushing back to lineups and logistics. The question is simple: who made this, and what were they thinking? The honest answer is a person, not a brand, and that person is Perry Farrell. Understanding how Perry Farrell created Lollapalooza is the closest thing the festival has to reading its source code, because the event you walk into today still runs on the operating logic he wrote at the start. The genre-mixing bills, the art tucked between stages, the activist booths, the sense that a festival could be a cultural statement rather than a concert with extra steps: all of it traces back to one restless musician with an outsized idea about what a tour could be.

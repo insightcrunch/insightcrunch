@@ -9,7 +9,7 @@ excerpt: "The student's guide to Lollapalooza maps the budget, the age line, the
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2026-05-25
+last_updated: 2026-08-25
 lang: en
 ---
 The student's guide to Lollapalooza exists because the question college students actually ask is rarely the one the glossy roundups answer. Those pages tell a student what the festival is, name the headliners, and walk away. What a student needs is the part that decides the weekend: whether the money works on a student wallet, what changes at the age line, how to keep a group of friends moving as one organism through a downtown park, and how to pace four days so the body and the budget both survive to Sunday night. This page is the student-cluster hub. It orients you end to end, hands you a decision map built from your own situation, and then points you to the specialist articles that go deep on the student budget, the under-21 reality, the group trip, and going solo. The guiding idea is simple and it runs through everything below: for a student, the question is not whether to go to Lollapalooza, it is how to do it on a student budget and a student schedule.

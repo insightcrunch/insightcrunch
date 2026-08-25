@@ -9,7 +9,7 @@ excerpt: "When do Lollapalooza tickets sell out, and how much runway do you real
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-05-12
+last_updated: 2026-08-25
 lang: en
 ---
 The question of when Lollapalooza tickets sell out is the one timing decision that quietly shapes the entire trip, and most pages answer it with a shrug and a "buy early" platitude that helps nobody plan. The honest answer has structure to it. Four-day passes go first and they often go well before the gates ever open, the lineup announcement is the single biggest accelerant on the clock, and single days move at wildly different speeds depending on which night carries the marquee name. A reader who understands that pattern can time the purchase instead of gambling on it, and that is the whole point of this page: to replace the vague warning with a realistic picture of how the inventory actually drains, so you know how much runway you have and when waiting stops being patience and starts being a mistake.

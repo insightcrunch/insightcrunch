@@ -9,7 +9,7 @@ excerpt: "Doing Lollapalooza with friends works when you plan the group trip aro
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-05-26
+last_updated: 2026-08-25
 lang: en
 ---
 A friend group does not fall apart at Lollapalooza because anyone fights. It falls apart because eleven people try to move as one body through a crowd of several hundred thousand, the phones die by mid-afternoon, two of you wander off to grab water and never find the others again, and by the time the headliner starts you are scattered across Grant Park, each convinced the others have the better spot. Doing Lollapalooza with friends is a coordination problem before it is anything else, and the groups who treat it that way have the best weekend by a wide margin. This guide is about the part almost every other page skips: the shared plan, the meetup protocol, the right group size, and the single rule that saves more friendships than any other, which is that you do not have to stay together every minute to have a great time together.

@@ -9,7 +9,7 @@ excerpt: "Lollapalooza grew from two days to four across its Grant Park era. Her
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2026-06-08
+last_updated: 2026-08-25
 lang: en
 ---
 Ask a longtime fan how long Lollapalooza runs and the answer comes back fast: four days, Thursday through Sunday, every summer in Grant Park. Ask that same fan how long it has always run, and the certainty wobbles. Plenty of people assume the long weekend is the natural shape of Lollapalooza, the form it arrived in and never changed. The real story is more interesting, and it is one of the few concrete pieces of Lollapalooza history that almost no page bothers to trace. The festival did not begin its Chicago life at four days. It grew there, one added installment at a time, across a stretch of years that maps the rise of the whole enterprise.

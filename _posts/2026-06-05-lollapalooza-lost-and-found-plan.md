@@ -9,7 +9,7 @@ excerpt: "Lollapalooza lost and found, meetup spots, and a lost-phone backup for
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-06-05
+last_updated: 2026-08-25
 lang: en
 ---
 The moment a Lollapalooza crowd swallows your group is the moment you learn whether you had a plan or only a phone. Somebody stops to buy water, somebody else drifts toward the rail, the set ends and a wall of people pours out of the field in every direction, and the friend who was beside you a second ago is gone. You pull out your phone to text, and the message sits there with a spinning wheel because two hundred thousand other people are doing the same thing on the same overloaded towers. This is the lost-and-separated problem at the heart of every big festival, and the Lollapalooza lost and found, the meetup spot, and the backup for a dead phone are the three tools that turn that sinking feeling into a quick, calm reunion. Most guides give the whole subject a single line. This page gives it the plan it deserves.

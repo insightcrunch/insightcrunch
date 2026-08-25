@@ -9,7 +9,7 @@ excerpt: "Repetition and refrain in Great Gatsby is a craft technique, not paddi
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2026-06-01
+last_updated: 2026-08-25
 lang: en
 ---
 Say a word once and it carries a fact. Say it a fourth time, at the right distance, and it carries a history. That gap between the first utterance and the fourth is where repetition and refrain in The Great Gatsby does its work, and it is the single technique most often mistaken for a flaw. Readers trained to prize variety notice that Jay Gatsby says the same two words to almost everyone, that the same green light keeps surfacing, that the closing sentences fall into a cadence the novel has been rehearsing for pages, and they file all of it under redundancy. This article argues the reverse. Fitzgerald repeats words, images, and sentence shapes not because he lacks alternatives but because recurrence is the only device that lets meaning accumulate, and the book you remember is built almost entirely out of things you have heard before.

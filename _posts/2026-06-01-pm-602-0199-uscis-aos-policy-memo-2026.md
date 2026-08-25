@@ -9,7 +9,7 @@ excerpt: "USCIS Policy Memorandum PM-602-0199, issued May 21 2026, reframes Form
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 82
 author: "benjamin-scott"
-last_updated: 2026-06-01
+last_updated: 2026-08-25
 lang: en
 ---
 On May 21, 2026, U.S. Citizenship and Immigration Services issued [Policy Memorandum PM-602-0199](https://www.uscis.gov/sites/default/files/document/memos/PM-602-0199-AdjustmentOfStatusAndDiscretion-20260521.pdf), titled "Adjustment of Status is a Matter of Discretion and Administrative Grace, and an Extraordinary Relief that Permits Applicants to Dispense with the Ordinary Consular Visa Process." The memo did not amend the [Immigration and Nationality Act section 245](https://www.law.cornell.edu/uscode/text/8/1255). It did not promulgate a regulation under [8 CFR Part 245](https://www.law.cornell.edu/cfr/text/8/part-245). It issued no new Form I-485 edition. What it did was reframe the conceptual character of in-country adjustment of status for foreign nationals present in the United States on a nonimmigrant visa, recasting the in-country pathway as a discretionary act of administrative grace that USCIS officers are now told to weigh against the ordinary consular visa process abroad. Twenty-four hours later, USCIS Spokesman Zach Kahler told reporters at a Washington press briefing that foreign nationals temporarily in the United States who seek lawful permanent residence will generally be expected to return to their home countries to apply. The doctrinal shift is interpretive. The operational shock is real.

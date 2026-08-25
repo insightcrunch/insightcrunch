@@ -9,7 +9,7 @@ excerpt: "Russia's army after Ukraine came out both degraded and adapted at the 
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
 author: "ian-fletcher"
-last_updated: 2026-06-01
+last_updated: 2026-08-25
 lang: en
 ---
 The most decision-relevant question about Russia's army after Ukraine is not whether it is bigger or smaller than it was, and not whether it won or lost a particular battle. It is this: what condition is the force actually in as a fighting instrument, and how does that condition differ from the pre-war service that crossed the border in February 2022? A reader who wants to reason honestly about the eastern flank has to answer that before anything else, because every downstream judgment, how fast the force can be rebuilt, whether it could turn toward the alliance, what it would take to deter it, rests on a clear read of the starting point. Get the starting condition wrong and every estimate built on top of it inherits the error.

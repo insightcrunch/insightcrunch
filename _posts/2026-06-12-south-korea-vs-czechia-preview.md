@@ -9,7 +9,7 @@ excerpt: "South Korea vs Czechia World Cup 2026 preview: prediction, predicted l
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "aisha-rahman"
-last_updated: 2026-06-12
+last_updated: 2026-08-25
 lang: en
 ---
 South Korea vs Czechia at World Cup 2026 is, on the surface, a meeting of the 25th and 40th sides in the world rankings in a Group A opener at Estadio Akron in Guadalajara. Underneath that, it is a single, sharply defined question: can a South Korea team built around the most decorated forward in its history finally start a World Cup the way it keeps promising to, and can it do so against the one kind of opponent that has repeatedly undone fancied sides, the organized, physical, set-piece-driven European outfit that asks you to beat eleven men behind the ball rather than ten men chasing it. Son Heung-min has waited his whole career for a tournament on this stage and at this point in his life, and the side around him has the talent to make a statement. Czechia, back at a World Cup after a 20-year absence, would like nothing better than to spoil the script in the first ninety minutes.

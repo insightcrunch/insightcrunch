@@ -9,7 +9,7 @@ excerpt: "A working phone at Lollapalooza needs a charger, battery-saving habits
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2026-05-27
+last_updated: 2026-08-25
 lang: en
 ---
 The single piece of gear most likely to fail you at Lollapalooza is not your shoes or your sunscreen. It is your phone. A dead handset or a dropped signal turns a great festival day into a lost one, because the phone at Lollapalooza is not a luxury. It is your ticket scan, your tap-to-pay wallet, your map, your set-time schedule, your camera, and the only line you have to the friends you came with. Charging it, protecting it, and keeping it reachable across an eleven-hour day in Grant Park is a planning problem, and most festival guides give it a single throwaway line about bringing a battery pack.

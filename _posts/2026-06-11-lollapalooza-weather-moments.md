@@ -9,7 +9,7 @@ excerpt: "Lollapalooza weather moments are festival lore: the storms, the green 
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-06-11
+last_updated: 2026-08-25
 lang: en
 ---
 Ask a longtime fan about the most dramatic Lollapalooza weather moments and you will not hear about a sunny afternoon. You will hear about the sky going green over the lake, about a voice on the speakers asking everyone to leave the park in an orderly line, about thousands of people streaming up Michigan Avenue under a wall of rain, and then, a few hours later, about music starting again as if the storm had only been an intermission. The weather story is the part of the festival's history that fans tell each other long after the lineup has faded from memory, and it is the part that most pages skip entirely. Search for weather and the festival, and you get a wall of present-tense advice about ponchos and sunscreen. That advice matters, and it has its own home in this series, but it is not the story. The story is what happened when the worst weather actually arrived, how the festival answered it, and why those moments became part of the character of the place rather than a stain on it.

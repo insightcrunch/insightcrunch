@@ -9,7 +9,7 @@ excerpt: "Rock at Lollapalooza is no longer the headline sound, yet it stays wov
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-13
+last_updated: 2026-08-25
 lang: en
 ---
 If you came to Lollapalooza for guitars, the question is not whether rock at Lollapalooza exists, because it does. The question is where it sits, how much of the bill it claims, and how to find the sets that will reward anyone who still wants the loud, the live, and the four-piece on a big stage. That is a navigation problem, not a nostalgia problem, and it is the one this page solves. The poster no longer leads with the genre that gave the event its name and its early identity, so someone who plans the old way, by scanning the top line for the biggest guitar act and building outward, will walk away thinking the music they love has been pushed off the grounds. It has not. It has moved. Learn where it moved and the weekend opens back up.

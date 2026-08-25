@@ -9,7 +9,7 @@ excerpt: "Lollapalooza street closures reshape every drive, drop-off, and pickup
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-15
+last_updated: 2026-08-25
 lang: en
 ---
 The single thing that wrecks a car-based trip to Grant Park is not traffic, parking prices, or surge rates. It is the set of Lollapalooza street closures that quietly remove whole roads from the map for days at a time, so the route your phone draws on a normal Tuesday dead-ends at a steel barricade the week of the festival. Drivers and rideshare riders who never think about the closures end up circling a sealed perimeter, watching a meter climb, or standing on a curb where no car can legally stop. The people who plan around the closures glide in, get dropped where the closures actually allow it, and skip the part of the day everyone else complains about online.

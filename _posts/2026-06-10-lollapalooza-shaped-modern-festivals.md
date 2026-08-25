@@ -9,7 +9,7 @@ excerpt: "How Lollapalooza shaped modern festivals: the multi-genre format, the 
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-10
+last_updated: 2026-08-25
 lang: en
 ---
 Ask a casual fan why a summer festival looks the way it does, with a downtown skyline behind the main stage, a poster stacked with rap, rock, pop, and dance acts, and a midway of art and food between sets, and the honest answer reaches further back than most people expect. The story of how Lollapalooza shaped modern festivals is the story of a few stubborn ideas that felt strange when they arrived and feel inevitable now. This is the one page that makes the case rather than asserting it, walking through what the festival pioneered, how the industry followed, and why it earns a real place in festival history rather than a footnote. The aim throughout is to demonstrate the influence with specifics rather than to flatter a famous name, so every claim below is built to survive a skeptic who would rather call the festival ordinary.

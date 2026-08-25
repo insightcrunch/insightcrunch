@@ -9,7 +9,7 @@ excerpt: "Eating cheap at Lollapalooza is a planning problem: eat a real meal ou
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-05-20
+last_updated: 2026-08-25
 lang: en
 ---
 Eating cheap at Lollapalooza is not about willpower or skipping meals on a hot day in Grant Park. It is about deciding, before you ever scan your wristband, where each meal is going to happen and what it is going to cost. The festival sells a strong spread of food once you are inside the gates, but it sells it at the prices a captive crowd of several hundred thousand people will pay, and a fan who eats every bite of the day from in-park vendors can watch the food line of their budget swell past the ticket itself across four days. The fan who plans the food line treats the park as a place to catch one good meal or a snack and saves the heavy eating for the streets just outside, where a real dinner costs a fraction of the same calories sold inside the fence.

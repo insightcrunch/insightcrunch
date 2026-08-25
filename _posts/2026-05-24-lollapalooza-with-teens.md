@@ -9,7 +9,7 @@ excerpt: "Lollapalooza with teens means swapping constant supervision for a chec
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2026-05-24
+last_updated: 2026-08-25
 lang: en
 ---
 Doing Lollapalooza with teens is a different job than doing it with small children, and the parents who struggle most are the ones who never notice the difference. A seven-year-old needs a hand to hold and a stroller and a nap. A fifteen-year-old needs a ticket, a charged phone, a meetup point, and the quiet confidence that you trust them to walk to the dance stage with their friends and turn up where they said they would. The hardest part of taking a teenager to Grant Park is not the heat or the crowd or the cost. It is the calibration: how much rope to give, when to hold it, and what to put in place so that giving rope feels safe rather than reckless. This guide is built around that single calibration, because once you get it right, the rest of the weekend mostly takes care of itself.

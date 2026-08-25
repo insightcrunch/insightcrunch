@@ -9,7 +9,7 @@ excerpt: "The hidden Lollapalooza costs that wreck a budget, from service fees a
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-05-21
+last_updated: 2026-08-25
 lang: en
 ---
 Almost nobody blows their Lollapalooza budget on the part they planned. The four-day pass and the hotel are the two numbers a fan stares at for weeks, locks in, and feels good about. The wreckage comes from the lines that never made it onto the spreadsheet: the service fee bolted onto the ticket at checkout, the way a tap-to-pay wristband turns ten dollars into forty without a single moment of decision, the rideshare quote that triples when forty thousand people leave Grant Park at the same minute, the locker you rent because your phone is dying and your charger is at the hotel. The hidden Lollapalooza costs are not exotic. They are small, ordinary, and relentless, and together they are the difference between a weekend that lands near your plan and one that lands three hundred dollars past it.

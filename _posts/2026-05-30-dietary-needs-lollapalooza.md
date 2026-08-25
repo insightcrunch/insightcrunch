@@ -9,7 +9,7 @@ excerpt: "Dietary needs at Lollapalooza are manageable with a plan: find gluten-
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-05-30
+last_updated: 2026-08-25
 lang: en
 ---
 If you eat around a restriction, the hardest part of a festival is not the music or the heat. It is the food. Dietary needs at Lollapalooza turn an ordinary lunch break into a small risk assessment, because Grant Park does not work like a kitchen you control. You are buying from a row of independent stands, each running its own recipes, each handling its own ingredients, each making its own choices about what shares a fryer and what does not. Most guides to eating at the festival stop at "there are vegan options" and move on, which leaves a celiac, a person with a tree-nut allergy, or a parent feeding a dairy-free seven-year-old with no real method for the day. This page exists to give you that method, and it treats your restriction as the genuine health matter it is rather than a preference to be reassured away.

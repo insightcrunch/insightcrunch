@@ -9,7 +9,7 @@ excerpt: "Doing Lollapalooza on a budget is a system, not just a tip list. Here 
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-05-19
+last_updated: 2026-08-25
 lang: en
 ---
 Doing Lollapalooza on a budget is not about willpower at the snack stand. It is about understanding where the money actually goes and pulling the two or three levers that move the total, instead of agonizing over the ones that barely register. A weekend at the four-day Grant Park festival can run a careful solo traveler a few hundred dollars beyond the pass, or it can run a less deliberate one well past two thousand, and the gap between those two outcomes has almost nothing to do with how many bottles of water you bought inside the gates. It comes down to the pass tier you chose, the neighborhood you slept in, and how many nights you booked a bed in downtown Chicago during one of the busiest tourism weekends of the city's summer.

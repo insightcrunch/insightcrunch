@@ -9,7 +9,7 @@ excerpt: "Keeping kids safe at Lollapalooza takes a real system: a heat and hydr
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-05-23
+last_updated: 2026-08-25
 lang: en
 ---
 A child standing in a packed crowd at Grant Park is the single image that keeps parents awake the week before they go, and keeping kids safe at Lollapalooza is the question that sits underneath every other family decision about the festival. Most pages answer it with a shrug and a reassurance: bring sunscreen, hold their hand, you will be fine. That is not a plan. It is a wish. A four-day festival that draws hundreds of thousands of people to a downtown park in the heat of a Chicago summer is a genuinely different safety environment than a playground or a zoo, and a child who is comfortable and supervised in those settings can be overwhelmed, overheated, or separated here in minutes. The good news is that the dangers are predictable, which means they are plannable, and a parent who walks in with a real system rather than a hopeful attitude has already removed most of the risk.

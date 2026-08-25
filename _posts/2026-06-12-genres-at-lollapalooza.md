@@ -9,7 +9,7 @@ excerpt: "Lollapalooza genres span rock, hip-hop, EDM, pop, indie, and global so
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-12
+last_updated: 2026-08-25
 lang: en
 ---
 ![How to read the genres at Lollapalooza and navigate the all-genre lineup - Insight Crunch](/assets/images/blog/blog-64.webp)

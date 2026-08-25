@@ -9,7 +9,7 @@ excerpt: "Should you bring kids to Lollapalooza or get a sitter? An honest verdi
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2026-05-25
+last_updated: 2026-08-25
 lang: en
 ---
 Every parent of a young child who buys into Lollapalooza eventually hits the same fork, and it is rarely the one the planning guides prepare you for. You have the pass, you have the dates blocked, and then the real question lands at the kitchen table: do you bring the kids to Lollapalooza, or do you line up a sitter and go as adults? It feels like a parenting referendum, loaded with guilt on one side and resentment on the other, and almost every page you find online picks a team and cheers. The bring-them crowd treats childcare as a small betrayal. The leave-them crowd treats a stroller in Grant Park as proof you have lost the plot. Neither tribe is being honest with you, because the honest answer is not a side. It is a decision that turns on a few specific factors you can actually weigh, and once you see them laid out, the call gets a great deal clearer than the comment-section shouting suggests.

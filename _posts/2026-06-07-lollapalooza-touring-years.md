@@ -9,7 +9,7 @@ excerpt: "Lollapalooza's touring years began as a traveling festival that crosse
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-06-07
+last_updated: 2026-08-25
 lang: en
 ---
 Most people who walk into Grant Park today picture Lollapalooza as a Chicago institution, a fixed point on the summer calendar with a skyline behind the main stages and a lakefront breeze coming off the water. That picture is accurate for the festival as it exists now, and it is also why the most interesting chapter of the Lollapalooza story gets skipped almost every time the history is told. Before the festival had a home, it had a route. Lollapalooza's touring years were the era when the whole thing lived on the road, packed up after each show, and rolled into the next city, and that traveling model is not a footnote to the festival's origin. It is the origin. The road came first, the park came much later, and the gap between those two facts is where most casual histories go quiet.

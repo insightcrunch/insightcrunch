@@ -9,7 +9,7 @@ excerpt: "Lollapalooza heat is the weekend's real health risk. Here is how to pr
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-04
+last_updated: 2026-08-25
 lang: en
 ---
 Of every hazard a festivalgoer faces across four days in Grant Park, Lollapalooza heat is the one most likely to put someone in the medical tent, and it is also the one most people prepare for the least. Tickets get studied for weeks. Set times get color-coded. The weather, by contrast, gets a single glance at a forecast and a shrug. Then the gates open on a late-July morning, the sun climbs over the open lakefront field, and an attendee who planned everything else discovers that the thing they planned for least is the thing trying hardest to end their day early. This guide treats the warmth and the overhead sun the way they deserve to be treated: not as a line in a packing list but as the central health problem of the weekend, with a plan you can actually run.

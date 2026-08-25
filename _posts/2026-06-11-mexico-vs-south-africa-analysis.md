@@ -9,7 +9,7 @@ excerpt: "Mexico vs South Africa result and analysis: Quinones and Jimenez seale
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
 author: "naomi-adebayo"
-last_updated: 2026-06-11
+last_updated: 2026-08-25
 lang: en
 ---
 Mexico beat South Africa 2-0 to open World Cup 2026, and the cleanest way to understand the night is this: the result was settled by a discipline gap, not by a wave of attacking dominance. The co-hosts scored early through Julian Quinones, doubled the lead through an emotional Raul Jimenez header, and then watched a feisty Group A opener at the Estadio Azteca collapse into a procession of dismissals, two for South Africa and, in stoppage time, one for Mexico. The final scoreline reads like control. The match itself was looser, scrappier, and more revealing than 2-0 suggests, and the story of how El Tri finally buried a decades-old opening-match curse is told as much through Sphephelo Sithole's miscontrol and his later sending-off as through anything Mexico built in open play.

@@ -9,7 +9,7 @@ excerpt: "Lollapalooza aftershows are a separate ticketed late-night club scene 
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2026-06-01
+last_updated: 2026-08-25
 lang: en
 ---
 When the last main-stage chord rings out over Grant Park and the crowd starts shuffling toward the gates, a second festival is just getting warm a few miles north and west. Lollapalooza aftershows are the late-night club concerts that pick up where the park leaves off, scattered across Chicago's best small and mid-size rooms, featuring acts who played the festival that day, friends of those acts, and rising names whose festival slot was too early in the afternoon to do them justice. Most planning guides treat them as a rumor or a footnote. They are neither. They are a plannable, ticketed, frequently sold-out parallel event that runs every night of the festival weekend, and the fans who know how the circuit works see some of the best shows of their entire trip in rooms that hold a few hundred people instead of a hundred thousand.

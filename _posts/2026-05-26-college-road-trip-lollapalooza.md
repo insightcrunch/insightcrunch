@@ -9,7 +9,7 @@ excerpt: "A college road trip to Lollapalooza works when you park once downtown 
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-26
+last_updated: 2026-08-25
 lang: en
 ---
 A college road trip to Lollapalooza is one of those plans that sounds simple in the group chat and turns complicated the moment you actually think about where the car goes. Four or five of you pile into one vehicle, split the gas, blast a playlist for a few hours across the Midwest, and roll into Chicago feeling like you have cracked the cheapest way into a major festival. That part is real, and for a carful of students it often is the cheapest and most flexible way in. The complication is not the drive. It is the city at the other end of it. Grant Park sits in the middle of downtown Chicago on the lakefront, there is no festival parking lot, the streets around the park close during the festival, and a car that made perfect sense on the interstate becomes a liability the instant you try to use it like a festival shuttle.

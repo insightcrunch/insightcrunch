@@ -9,7 +9,7 @@ excerpt: "A complete Lollapalooza survival guide to lasting all four days in Gra
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-03
+last_updated: 2026-08-25
 lang: en
 ---
 Most guides treat surviving Lollapalooza as a packing list. This Lollapalooza survival guide treats it as a system, because that is what an eleven-hour day in late-July Chicago heat actually demands. The festival runs four days across Grant Park, gates open in the late morning and music pushes deep into the night, the bag policy is strict at every entrance, summer storms arrive without much warning, and the crowds get dense fast around the big stages. None of those facts is hard to handle on its own. The trouble is that they all land on the same person, on the same feet, on the same four-day stretch, and the attendee who plans for one of them and improvises the rest is the one limping out before the final headliner.

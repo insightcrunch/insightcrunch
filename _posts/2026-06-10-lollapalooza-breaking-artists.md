@@ -15,6 +15,7 @@ image: /assets/images/blog/blog-01.webp
 author: "diana-patel"
 date: 2026-06-10
 lang: en
+last_updated: 2026-08-25
 ---
 # Lollapalooza's Role in Breaking Artists
 

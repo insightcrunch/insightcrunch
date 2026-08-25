@@ -9,7 +9,7 @@ excerpt: "CTA vs rideshare vs driving to Lollapalooza, finally settled. Compare 
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2026-05-15
+last_updated: 2026-08-25
 lang: en
 ---
 Three people stand on the same corner in the Loop at half past ten at night, all of them trying to get away from Grant Park after a headliner, and all three made a different bet hours earlier on how they would arrive and leave. One tapped a transit card and walked to a train. One opened an app and watched a fare number climb. One is trying to remember which garage swallowed the car and how to reach it through streets that are still barricaded. The CTA vs rideshare vs driving to Lollapalooza decision is the single most argued logistics question in every festival forum thread, and the arguments rarely resolve because each side is describing a different traveler without saying so. This page settles it with a verdict, not a list, because the answer genuinely differs by who you are, what you are carrying, who you are traveling with, and how much you will pay to skip a crowded platform.

@@ -3,7 +3,7 @@ title: "Should You Eat Inside Lollapalooza or Outside?"
 page_title: "Eat Inside or Outside Lollapalooza: The Cost, Time, and Re-Entry Verdict for Every Attendee"
 slug: "eat-inside-or-outside-lollapalooza"
 date: "2026-05-31"
-last_updated: "2026-05-31"
+last_updated: 2026-08-25
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Planning", "Music Festivals", "Chicago Travel", "Budget Travel"]
 image: "/assets/images/blog/blog-90.webp"

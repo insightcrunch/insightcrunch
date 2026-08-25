@@ -9,7 +9,7 @@ excerpt: "Lollapalooza rideshare costs triple at the gate after the headliner. L
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2026-05-14
+last_updated: 2026-08-25
 lang: en
 ---
 The single most expensive thing you can do at Lollapalooza has nothing to do with tickets, drinks, or merch. It is opening a rideshare app at the gate the moment the headliner finishes and tapping request along with everyone else. Lollapalooza rideshare and taxi logistics get treated as an afterthought on most planning pages, a single line that says "Ubers are available," and that single line is exactly how thousands of people end up paying three or four times what the ride should cost, standing in a packed pickup zone for forty minutes while the price climbs. The whole problem is geography and timing, and once you understand both, the ride home becomes the easy part of your day instead of the part that ruins the budget.

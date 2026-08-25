@@ -9,7 +9,7 @@ excerpt: "Old Lollapalooza versus today: see what changed across scale, sound, a
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2026-06-09
+last_updated: 2026-08-25
 lang: en
 ---
 Ask a room full of music fans whether old Lollapalooza was better than today, and you will start an argument that never quite ends. One person remembers a scrappy traveling show that felt like a movement, a tour that rolled into a parking lot or an amphitheater and made the alternative underground feel like the center of the world for a single sweaty afternoon. Another person points to the four-day giant that fills Grant Park each summer, a destination that draws a few hundred thousand people across every genre worth naming, and asks how anyone could call the smaller version superior. The old Lollapalooza versus the modern one is one of the most persistent debates in festival culture, and most pages that touch it pick a side and stop thinking. This is the page that refuses to do that. The honest answer is not that one era beat the other. The honest answer is that the festival traded specific things for specific things, and you cannot weigh the trade fairly until you can name what sat on each side of the scale.

@@ -9,7 +9,7 @@ excerpt: "Getting from the airport to Lollapalooza is simpler than the cab line 
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-05-15
+last_updated: 2026-08-25
 lang: en
 ---
 The flight is booked, the pass is in your account, and now there is one logistics problem left that out-of-town fans consistently get wrong: getting from the airport to Lollapalooza. Most pages that claim to answer this give you a shrug and a sentence about grabbing a cab, which is the single most expensive and least predictable way to make the trip during a festival weekend. The truth is simpler and cheaper. Both of Chicago's airports connect to downtown by one train line for one fare, the Grant Park gates sit a short hop from where those trains drop you, and the only decision that genuinely shapes your arrival is which airport you book in the first place. This guide solves that decision and then walks the transfer from each airport, O'Hare and Midway, by train, by time, and by cost.

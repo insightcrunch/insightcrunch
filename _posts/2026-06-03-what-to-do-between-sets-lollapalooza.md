@@ -9,7 +9,7 @@ excerpt: "Knowing what to do between sets at Lollapalooza turns idle gaps into d
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-06-03
+last_updated: 2026-08-25
 lang: en
 ---
 Most planning advice for the festival stops the moment the headliner walks off. Knowing what to do between sets at Lollapalooza is the part almost nobody prepares for, and it quietly decides whether your weekend feels rich or whether it feels like a series of long waits punctuated by music. The gaps are real, they are frequent, and across four days in Grant Park they add up to many hours. A reader who treats those hours as dead time spends them standing in the same spot, scrolling a dying phone, and growing more tired than the music itself ever made them. A reader who plans them turns the same hours into the most surprising part of the trip.

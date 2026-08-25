@@ -9,7 +9,7 @@ excerpt: "The Lollapalooza aftershow or rest call, settled: a verdict by which n
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2026-06-03
+last_updated: 2026-08-25
 lang: en
 ---
 ## The late-night call every multi-day attendee has to make

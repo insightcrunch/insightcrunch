@@ -3,7 +3,7 @@ title: "Coffee Before Lollapalooza: Morning Fuel Guide"
 page_title: "Coffee Before Lollapalooza: The Best Morning Fuel and Breakfast Near Grant Park Before Gates Open"
 slug: coffee-before-lollapalooza
 date: 2026-05-31
-last_updated: 2026-05-31
+last_updated: 2026-08-25
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Survival", "Chicago Travel", "Festival Planning", "Grant Park", "Music Festivals"]
 image: "/assets/images/blog/blog-50.webp"

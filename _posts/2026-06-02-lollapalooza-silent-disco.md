@@ -3,7 +3,7 @@ title: "The Lollapalooza Silent Disco and Late-Night Sets"
 page_title: "Lollapalooza Silent Disco and Late-Night Sets: How the Headphone Party Works, When It Starts, and What to Expect On-Site"
 slug: "lollapalooza-silent-disco"
 date: 2026-06-02
-last_updated: 2026-06-02
+last_updated: 2026-08-25
 categories: ["Leisure"]
 tags: ["Lollapalooza", "Festival Survival", "Music Festivals", "Festival Planning", "Grant Park", "Chicago Travel"]
 image: "/assets/images/blog/blog-09.webp"

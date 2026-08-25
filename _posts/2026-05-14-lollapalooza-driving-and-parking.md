@@ -9,7 +9,7 @@ excerpt: "Driving and parking for Lollapalooza trips up out-of-towners: there is
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-05-14
+last_updated: 2026-08-25
 lang: en
 ---
 Driving and parking for Lollapalooza is the one arrival choice most out-of-town visitors get wrong before they ever reach Chicago, because they assume a festival of this size must have a lot the way a suburban amphitheater or a stadium does. It does not. There is no Lollapalooza parking lot, no field of attendant-waved rows beside the gates, no shuttle from a satellite lot on the edge of town. The festival lives inside Grant Park, in the middle of downtown Chicago, ringed by the Loop on one side and Lake Michigan on the other, and the only place to leave a car is a commercial parking garage built for office workers and shoppers, charged at downtown rates, reached through a maze of streets that close for the festival. That single fact reshapes the entire driving decision, and this guide is built to walk you through it: where you can actually park, what it costs in honest ranges, how to lock in a spot before you arrive, and the narrow set of circumstances under which pointing a car at Grant Park is the right call rather than the expensive mistake.

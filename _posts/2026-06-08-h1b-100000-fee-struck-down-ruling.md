@@ -9,7 +9,7 @@ excerpt: "H-1B $100,000 fee struck down: a federal judge ruled it an unlawful ta
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "marcus-hall"
-last_updated: 2026-06-08
+last_updated: 2026-08-25
 lang: en
 ---
 On June 8, 2026, a federal judge in Boston erased one of the most expensive immigration policies the country had ever seen. U.S. District Judge Leo T. Sorokin of the District of Massachusetts ruled that the Trump administration's $100,000 charge on new H-1B visa petitions was not a fee at all but a tax, and that the President had no power to impose a tax that Congress never authorized. In a 42-page decision, Sorokin vacated the policy nationwide, holding that it violated both the Administrative Procedure Act and the constitutional rule that places the taxing power in the hands of Congress. The H-1B $100,000 fee, in other words, was struck down not on the politics of immigration but on a far older question about who in the federal government is allowed to reach into a person's pocket.

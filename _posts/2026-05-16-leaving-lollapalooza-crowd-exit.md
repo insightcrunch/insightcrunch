@@ -9,7 +9,7 @@ excerpt: "Leaving Lollapalooza after the headliner means a crush at one gate. Th
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-05-16
+last_updated: 2026-08-25
 lang: en
 ---
 Leaving Lollapalooza is the part of the day almost nobody plans for, and it is the part that ruins more nights than any set-time clash. The music ends, the lights come up over Grant Park, and several hundred thousand people who spent the day spread across the lakefront all decide to go home in the same ten minutes, toward the same handful of gates, the same trains, and the same rideshare zones. The result is a slow, shoulder-to-shoulder press toward the nearest exit, a dead phone with no signal, a forty-minute wait for a car that costs triple, and a group that got separated somewhere between the closing song and the gate. That ending is not bad luck. It is the predictable outcome of having no plan for the one moment the festival manages worst. A planned departure turns the same night into a calm walk to a calm train, and the gap between those two endings is almost entirely about where you aim and when you move.

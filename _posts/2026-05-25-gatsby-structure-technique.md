@@ -9,7 +9,7 @@ excerpt: "The structure and the nine-chapter arc of The Great Gatsby rise to the
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2026-05-25
+last_updated: 2026-08-25
 lang: en
 ---
 Read the last page of The Great Gatsby and you feel a door closing that the first page quietly opened. That sensation is not luck. It is engineering. The structure and the nine-chapter arc of the novel are built so that the shape of the book performs the meaning of the book, and a reader who feels the ending as inevitable is responding to a design laid down chapter by chapter with unusual care. Fitzgerald wrote a short novel, and he wrote it in nine movements that rise toward a single reunion near the center and then fall away from it toward a death, so the architecture itself carries the tragedy rather than merely reporting it.

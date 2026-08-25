@@ -9,7 +9,7 @@ excerpt: "A clear analysis of the H-1B fee ruling: what the federal court held w
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 59
 author: "william-knight"
-last_updated: 2026-06-10
+last_updated: 2026-08-25
 lang: en
 ---
 The question at the center of the H-1B fee ruling is narrower, and stranger, than most of the coverage lets on. It is not whether the United States should make skilled-worker visas more expensive, and it is not whether the H-1B program serves the country well or badly. It is a question about authority: who, under the Constitution, may reach into a private party's accounts and demand a six-figure payment as the price of doing something the law otherwise permits. The President acting alone through a proclamation, or Congress acting through a statute? On June 8, 2026, a federal court in Boston gave an answer, and the answer was Congress.

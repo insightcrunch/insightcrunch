@@ -9,7 +9,7 @@ excerpt: "Canada vs Bosnia ended 1-1 as Cyle Larin's late strike earned the co-h
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 62
 author: "carlos-mendez"
-last_updated: 2026-06-13
+last_updated: 2026-08-25
 lang: en
 ---
 Canada vs Bosnia at World Cup 2026 will be remembered for one substitute, one finish, and a number that had eluded a nation for forty years. The co-hosts drew 1-1 with Bosnia and Herzegovina at Toronto Stadium on June 12, and in doing so claimed the first point in the history of Canadian men's World Cup football. The headline is the comeback. The truer story is the hour that preceded it, when Jesse Marsch's side built a commanding platform, missed the chances that should have buried the game, and came within a set-piece and a missed sitter of throwing away a contest they had largely controlled. Cyle Larin needed two minutes off the bench to rewrite the night. The forty years of waiting needed every one of the seventy-eight that came before.

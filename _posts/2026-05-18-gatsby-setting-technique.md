@@ -9,7 +9,7 @@ excerpt: "Setting as technique in The Great Gatsby shows how Fitzgerald makes pl
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 39
 author: "chloe-martin"
-last_updated: 2026-05-18
+last_updated: 2026-08-25
 lang: en
 ---
 Most readers meet the geography of The Great Gatsby as scenery and move on, which is why so many essays about the book treat its locations as a stage that happens to hold the action. The study of setting as technique in The Great Gatsby corrects that habit. It asks a sharper question than where the novel happens. It asks what each place does, what argument a piece of land or a furnished room is making while the characters talk across it. Fitzgerald did not inherit Long Island and the road to the city as ready facts to be reported. He built them, shaped them, and weighted them so that the ground itself carries the book's meaning. Place in this novel is never neutral. It is one of the clearest of Fitzgerald's literary techniques, and learning to read it is the difference between describing a scene and analyzing one.

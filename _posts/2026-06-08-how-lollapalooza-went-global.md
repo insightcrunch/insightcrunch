@@ -9,7 +9,7 @@ excerpt: "How Lollapalooza went global: the worldwide rollout from Chicago to So
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-08
+last_updated: 2026-08-25
 lang: en
 ---
 If you have ever wondered how Lollapalooza went global, the answer is one of the most underappreciated stories in modern live music. Most people picture a single four-day weekend in Grant Park, a Chicago festival with a skyline backdrop, and they assume that is the whole of it. The fuller reality is that the brand they know from Chicago now runs on three continents, in cities thousands of miles apart, under the same name and the same restless spirit. The question this history answers is simple to ask and surprisingly rich to follow: how did a festival rooted in one American city become a worldwide network, which countries host it now, when the first edition outside the United States actually launched, and why the expansion happened at all.

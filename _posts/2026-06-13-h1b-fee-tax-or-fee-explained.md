@@ -9,7 +9,7 @@ excerpt: "The H-1B fee was struck down as an unlawful tax, not a fee. Here is th
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2026-06-13
+last_updated: 2026-08-25
 lang: en
 ---
 The H-1B fee at the center of the Massachusetts ruling was never struck down because a judge disliked the immigration policy behind it. It was struck down because of what it was, structurally, as a matter of constitutional classification: a tax, imposed by the executive, that the Constitution permits only Congress to levy. That single classification did all the work. Once the court concluded that the $100,000 charge on certain new petitions functioned as a tax rather than as a regulatory fee, the outcome followed almost mechanically, because the power to tax sits with the legislature and a president cannot manufacture it by proclamation. Understanding precisely why a payment can be a tax even when the government insists it is a fee, and the test that decides the question, is the difference between reading the headline and understanding the law.

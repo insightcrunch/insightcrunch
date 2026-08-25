@@ -9,7 +9,7 @@ excerpt: "The Lollapalooza revival is the hinge of the whole story: how a dead t
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-07
+last_updated: 2026-08-25
 lang: en
 ---
 Almost every short history of the festival skips the part that matters most. The Lollapalooza revival is the pivot on which the entire story turns, the moment a celebrated traveling event went quiet, nearly stayed gone for good, and then returned in a form so changed that calling it a simple comeback misses what actually happened. Fans who know the founding and fans who know the modern Grant Park weekend often have no idea there was a gap between them, a stretch of years when the franchise had no tour, no home, and no obvious future. That gap, and the way it closed, is the subject of this page.

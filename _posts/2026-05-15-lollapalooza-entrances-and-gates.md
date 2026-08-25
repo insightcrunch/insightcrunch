@@ -9,7 +9,7 @@ excerpt: "Lollapalooza entrances ring Grant Park, and the right gate is the one 
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-15
+last_updated: 2026-08-25
 lang: en
 ---
 The first real decision of your festival day is not which set to open with. It is which of the Lollapalooza entrances you walk toward, and most people get it wrong by treating the choice as an afterthought. They follow the densest stream of wristbanded strangers, assume that the crowd knows something they do not, and end up baking in a switchback security line at the busiest gate on the perimeter while a quieter entrance two blocks away processes its trickle of arrivals in a fraction of the time. Grant Park is ringed with gates, not served by a single front door, and the gap between the smartest entrance for your approach and the default one can cost you forty-five minutes and a half-mile of unnecessary walking before you have heard a single note.

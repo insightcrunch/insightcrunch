@@ -9,7 +9,7 @@ excerpt: "Canada vs Bosnia World Cup 2026 preview and prediction: team news, Alp
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-13
+last_updated: 2026-08-25
 lang: en
 ---
 The single question that defines Canada vs Bosnia at World Cup 2026 is not who is the better team on paper, because the co-hosts settle that comfortably, but whether Canada can solve a problem they have never once solved on this stage: how do you break down a side that has built its entire identity around refusing to be broken down? Bosnia and Herzegovina arrive in Toronto as a team engineered to absorb, to stay compact, to wait, and to punish a single lapse from a dead ball or a transition. Canada arrive as a host nation carrying the weight of a country that has waited a generation for this afternoon, with a pressing machine designed to overwhelm and a goal record across previous World Cups that reads, plainly, as a row of defeats. The opener at BMO Field is the place where one of those two truths gives way.

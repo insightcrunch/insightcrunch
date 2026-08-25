@@ -9,7 +9,7 @@ excerpt: "Choosing between a walkable Lollapalooza hotel and a cheaper suburb st
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2026-05-19
+last_updated: 2026-08-25
 lang: en
 ---
 You have two browser tabs open and they are pulling you in opposite directions. One holds a downtown room you can walk to the Grant Park gates from in fifteen minutes, and the price makes you wince. The other holds a room twenty-odd miles out, on a train line, for a fraction of the nightly figure, and the saving looks like found money. This is the single most argued lodging question for Lollapalooza, and almost everyone settles it the same lazy way: they compare the two nightly rates, see the gap, and book the cheaper room. That instinct is where the trip starts to leak time and money you never budgeted for.

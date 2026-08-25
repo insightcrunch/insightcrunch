@@ -9,7 +9,7 @@ excerpt: "Russian force reconstitution is a question of pace, not a single fixed
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
 author: "thomas-reid"
-last_updated: 2026-06-11
+last_updated: 2026-08-25
 lang: en
 ---
 The most useful question about the Russian army is not whether it can rebuild after the war in Ukraine. It clearly can, and it has begun. The question that actually shapes planning is how fast. Russian force reconstitution is a timeline problem before it is anything else, and the honest answer is a reasoned range rather than a single alarming date on a calendar. A serious reader wants to know how quickly Moscow can replace what it has lost, rebuild the formations that were ground down, and stand up an army capable of a different kind of war than the one it is fighting now. That is a question about tempo, and tempo has more than one clock.

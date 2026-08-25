@@ -8,7 +8,7 @@ excerpt: "Choosing a Lollapalooza single-day ticket comes down to lineup fit and
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-05-12
+last_updated: 2026-08-25
 date: 2026-05-12
 lang: en
 ---

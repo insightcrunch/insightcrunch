@@ -9,7 +9,7 @@ excerpt: "Getting to Lollapalooza is one decision, not a pile of options: weigh 
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-05-13
+last_updated: 2026-08-25
 lang: en
 ---
 The first real choice of your Lollapalooza weekend is not which headliner to catch or which pass tier to buy. It is how you will physically reach Grant Park each day and how you will get home each night, because every other plan rides on top of that one. Getting to Lollapalooza looks, on the surface, like a long menu of options: train, rideshare, taxi, your own car, a rented car, a bike, your own two feet, a flight into one of two airports. Most pages hand you that menu and walk away. The useful version treats arrival as a single decision with a clear default, then tells you the narrow situations where a different mode wins. That is what this guide does for the four-day Grant Park festival in downtown Chicago.

@@ -9,7 +9,7 @@ excerpt: "Rain at Lollapalooza rarely cancels the show. Here is what happens in 
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-06-04
+last_updated: 2026-08-25
 lang: en
 ---
 The thing nobody tells you about rain at Lollapalooza is that the festival almost never simply stops for it. A morning of steady drizzle does not close the gates. An afternoon shower does not refund your pass. Even a fast-moving thunderstorm that pushes everyone out of Grant Park for an hour tends to end with the same crowd streaming back in to catch the headliners, soaked and grinning, while the stage crew squeegees water off the decks. The festival is built to bend around weather, not to surrender to it, and the people who have a miserable wet day are almost always the ones who arrived planning for sunshine and nothing else.

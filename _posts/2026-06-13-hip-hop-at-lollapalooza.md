@@ -9,7 +9,7 @@ excerpt: "Hip-hop at Lollapalooza is a load-bearing pillar of the lineup, regula
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-13
+last_updated: 2026-08-25
 lang: en
 ---
 Hip-hop at Lollapalooza is not a side attraction or a token slot tucked into an afternoon. It is one of the load-bearing pillars of the bill, the genre that closes nights on the largest stages, pulls the densest crowds in Grant Park, and shapes how a huge share of the audience builds its weekend. If you came up on rap and you are scanning the poster wondering whether this festival is for you, the short answer is that a rap fan walks out of Grant Park with a full festival, not a handful of consolation sets squeezed between guitar bands. The longer answer, the one that actually helps you plan, is about where rap sits on the bill, which slots it fills, how the crowds behave, and how to turn a poster crowded with names into a personal route through four days.

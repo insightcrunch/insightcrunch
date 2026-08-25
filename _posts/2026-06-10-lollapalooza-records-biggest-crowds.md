@@ -9,7 +9,7 @@ excerpt: "Lollapalooza records and biggest crowds, explained in honest ranged te
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-10
+last_updated: 2026-08-25
 lang: en
 ---
 The search that brings most people here is short and blunt. They want the Lollapalooza records and the biggest crowds, the single number that says how enormous this thing has become, the figure they can drop into an argument or a school report. They open page after page and get a shrug: a vague "tens of thousands," a stray statistic with no source, a claim that contradicts the claim three results above it. The honest answer is both simpler and more useful than a disputed headline figure, and it is the answer this page is built to give.

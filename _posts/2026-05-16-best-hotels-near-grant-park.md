@@ -9,7 +9,7 @@ excerpt: "The best hotels near Grant Park put you minutes from the Lollapalooza 
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-16
+last_updated: 2026-08-25
 lang: en
 ---
 The single biggest comfort decision of your festival weekend is not which pass tier you buy or which headliner you prioritize. It is how far you have to walk at the end of the night. The best hotels near Grant Park collapse the gap between the music and your bed to a few quiet blocks, and that gap, more than the thread count or the lobby, is what separates a weekend you recover from each morning from one that grinds you down by Saturday. The closest-hotel search is one of the highest-intent questions a Lollapalooza planner types, and most of the pages that answer it hand you a generic list of downtown properties with no sense of which gate they sit near, how long the actual walk takes once the crowd thickens, or how quickly the genuinely close rooms vanish for festival weekend. This guide fixes that. It ranks the walkable stays by the only metric that matters at midnight, which is walk time to a gate, and it tells you what the proximity premium really buys, when it is worth paying, and when the closest room is the wrong call for your specific trip.

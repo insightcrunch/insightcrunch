@@ -9,7 +9,7 @@ excerpt: "Riding the CTA to Lollapalooza made simple: the right line, the closes
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-05-13
+last_updated: 2026-08-25
 lang: en
 ---
 The single smartest way into Lollapalooza for most people is the CTA, and the reason is geography. Grant Park sits on the downtown lakefront beside Lake Michigan, hard against the Loop, with the Art Institute on its northwest shoulder and Millennium Park tucked into its top edge. The festival footprint runs the length of that park, north to south, and the same Loop that borders it on the west is threaded with subway tunnels and elevated tracks that the city has been running for more than a century. That means the train does not just go near the festival. The train goes to the festival, dropping you within a few blocks of a gate for the price of a single fare, which is why riding Lollapalooza by CTA is the default arrival for the largest share of the crowd and the one this guide is built to make foolproof.

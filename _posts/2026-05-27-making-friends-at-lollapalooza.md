@@ -9,7 +9,7 @@ excerpt: "Making friends at Lollapalooza is easier than going solo feels. Learn 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-05-27
+last_updated: 2026-08-25
 lang: en
 ---
 Going to Lollapalooza alone is one of those decisions that feels much larger before you do it than after. The worry is almost never about the music. It is about the spaces between the sets, the long walk across the park, the slow afternoon when everyone around you seems to have shown up in a pack of six with matching bracelets and an inside joke already running. Making friends at Lollapalooza is the skill that turns that worry into one of the best weekends you will have, and the reassuring part is that it is a learnable skill rather than a personality trait you either possess or lack. Grant Park in late summer is, by the strange social physics of a four-day music festival, one of the easiest places anywhere to fall in with new company, and this guide is about why that holds and exactly how to use it.

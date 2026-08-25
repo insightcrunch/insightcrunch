@@ -9,7 +9,7 @@ excerpt: "Lollapalooza hydration and fueling, solved: the refill-and-graze plan 
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-05-29
+last_updated: 2026-08-25
 lang: en
 ---
 The thing that ends most Lollapalooza days early is not a bad headliner or a sold-out merch booth. It is the slow, invisible drain of an eleven-hour day in the summer sun with too little water and too little food, until somewhere around the late afternoon a person who was fine an hour ago is suddenly pale, dizzy, and done. Lollapalooza hydration and fueling is the planning problem almost no guide treats as a real one. They give it a single line, "drink water and eat something," and move on to the lineup. That single line is the gap this article closes, because the difference between making it to the midnight headliner and tapping out at four in the afternoon is a system you can run without thinking, not a vague intention to grab a bottle when you remember.

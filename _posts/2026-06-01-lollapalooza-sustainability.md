@@ -9,7 +9,7 @@ excerpt: "Lollapalooza sustainability is a fan activity, not a slogan: Rock and 
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-06-01
+last_updated: 2026-08-25
 lang: en
 ---
 Lollapalooza sustainability is the part of the weekend most people walk straight past, and that is exactly why it is worth understanding before you go. A few hundred thousand people moving through the lakefront half of Grant Park over four hot days produce a staggering volume of cups, cans, food trays, and packaging, and the festival has spent a long time building programs to keep as much of that as possible out of a landfill. The headline program, Rock and Recycle, does something most green initiatives never manage: it turns recycling into a thing you actively do for a reward, rather than a guilt-tinged afterthought. The question this guide answers is not whether the event cares about the planet in the abstract. It is what the green programs actually are, how they work on the ground, and how a single attendee can take part and come away having lowered their own footprint while picking up something tangible in return.

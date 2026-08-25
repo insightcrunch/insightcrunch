@@ -9,7 +9,7 @@ excerpt: "Lollapalooza controversies and turning points, told straight: the comm
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-06-11
+last_updated: 2026-08-25
 lang: en
 ---
 Most pages about this festival only throw confetti. They list the iconic sets, the surprise guests, the record crowds, and the reinvention story, and they stop there. The honest account of Lollapalooza controversies includes the parts that do not fit on a highlight reel: the debates over whether it sold out, the crowd and safety scares, the friction with the city whose park it borrows, and the pivotal moments that forced it to change or fold. A festival does not last this long without facing hard questions, and the hard questions are where the real story lives. This page is the one balanced account of the debates and the turning points, the criticism and the course corrections, told without celebrating past every uncomfortable fact and without sliding into the cynicism that says it is all ruined now.

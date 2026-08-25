@@ -9,7 +9,7 @@ excerpt: "Color as a literary device in Gatsby is a coded craft tool: Fitzgerald
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 40
 author: "chloe-martin"
-last_updated: 2026-06-08
+last_updated: 2026-08-25
 lang: en
 ---
 Read the first page of Fitzgerald's novel with a pencil and you will notice something before you can name it: the prose keeps handing you paint. A lawn is described by its color before its size, a dress by its shade before its cut, a light across the bay by its single quality of greenness before anything else about it. By the last page you have absorbed a whole spectrum without being told you were learning one. That quiet training is the subject here. Color as a literary device in Gatsby is not decoration and not a scavenger hunt of hidden meanings; it is a method, a way of building an argument out of hues so that the palette does analytical work the sentences never openly claim to do.
