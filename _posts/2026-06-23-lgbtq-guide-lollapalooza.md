@@ -9,7 +9,7 @@ excerpt: "The LGBTQ guide to Lollapalooza: how the crowd welcomes queer fans, wh
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2026-06-23
+last_updated: 2026-08-29
 lang: en
 ---
 If you are an LGBTQ fan weighing whether to spend a summer weekend in Grant Park, the question underneath every other question is simple: will you be comfortable, and will you be safe. This LGBTQ guide to Lollapalooza answers that first, because most festival coverage never does. It reviews packing lists and set times and stage maps, and it quietly assumes everyone reading feels equally at ease in a crowd of a hundred thousand strangers. Queer travelers know that assumption does not hold everywhere, so they arrive at planning pages looking for a signal that someone thought about them, and they usually leave without one.

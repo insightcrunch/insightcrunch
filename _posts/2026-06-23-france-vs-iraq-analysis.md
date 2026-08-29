@@ -9,7 +9,7 @@ excerpt: "France vs Iraq analysis from World Cup 2026: a Mbappe brace and Dembel
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 68
 author: "naomi-adebayo"
-last_updated: 2026-06-23
+last_updated: 2026-08-29
 lang: en
 ---
 The France vs Iraq analysis from World Cup 2026 starts with a number that flatters one side and a performance that did not flatter either. France beat Iraq 3-0 at Lincoln Financial Field in Philadelphia to reach the Round of 32 with a game to spare, and the scoreline reads like a stroll. The ninety minutes around it told a more honest story. France were better in every department that matters, carved Iraq open whenever they chose to raise the tempo, and still spent long stretches in second gear, content to manage a stubborn opponent and a freak summer storm rather than chase the kind of statement win their forward line is capable of producing. That is the single idea this piece is built around, the claim that frames everything below: France eased through Group I on individual quality, not on a complete team performance, and the gap between those two things is the most interesting thing about the night.

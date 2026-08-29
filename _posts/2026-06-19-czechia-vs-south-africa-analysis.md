@@ -9,7 +9,7 @@ excerpt: "Czechia vs South Africa result and analysis: Teboho Mokoena's late pen
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "grace-whitmore"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 Czechia and South Africa met in Atlanta needing a winner and produced the opposite: a 1-1 draw that keeps both World Cup 2026 campaigns breathing without giving either side anything close to the control it came for. Michal Sadilek struck inside six minutes, the earliest goal of the tournament to that point, and for seventy-seven minutes that lead looked like it might be enough. Then a substitute's shot found Pavel Sulc's arm in the box, Teboho Mokoena stepped up in the 83rd minute, and the equalizer that arrived was the kind that rearranges a group without resolving it. The single fact that explains this match is not the penalty. It is the seventy minutes between the goals, when Czechia stopped playing and South Africa slowly remembered how to.

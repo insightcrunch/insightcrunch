@@ -9,7 +9,7 @@ excerpt: "Jordan vs Algeria is a World Cup 2026 Group J must-win after both lost
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 There is one question that hangs over Jordan vs Algeria at World Cup 2026, and it is the bluntest kind a group game can pose: which of these two nations gets to keep dreaming, and which one effectively goes home a week early? Both walked off the field in their opening fixtures with nothing. Both arrive in Santa Clara on June 22 needing not just a performance but a result, because the math of Group J has already turned a second-round group match into something that behaves far more like a knockout tie. This is the night the pointless meet, and only one of them can leave with a pulse.

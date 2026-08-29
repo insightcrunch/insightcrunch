@@ -8,7 +8,7 @@ excerpt: "Belgium vs Egypt prediction, predicted lineups, head-to-head record an
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-15
+last_updated: 2026-08-29
 lang: en
 ---
 Belgium walk into their World Cup 2026 opener as the ninth-ranked side on the planet and the clear favorites of Group G, and they walk straight into the one country that keeps refusing to read the script. Egypt have met Belgium four times in senior football and won three of them, a record that sits oddly against the gulf in squad value, league pedigree, and tournament expectation. That single fact frames the whole evening at Lumen Field in Seattle: this is not a procession, and the team in red knows it. The question that decides Belgium vs Egypt is not whether Rudi Garcia's side can dominate the ball, because they will. It is whether Egypt can survive the territory, ride the pressure, and make the one transition that turns a long defensive shift into a result.

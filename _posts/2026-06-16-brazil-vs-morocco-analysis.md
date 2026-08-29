@@ -9,7 +9,7 @@ excerpt: "Brazil vs Morocco result and analysis: Vinicius Junior rescued a 1-1 d
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 61
 author: "aisha-rahman"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 For an hour at MetLife Stadium, the most-watched fixture of the opening round in World Cup 2026 looked less like a coronation and more like an ambush. Brazil vs Morocco was sold as the first heavyweight collision of the tournament, the only group-stage tie between two sides ranked inside the FIFA top ten, and it delivered a 1-1 draw whose scoreline hides the truer story: Morocco controlled the early stages, took a deserved lead through Ismael Saibari, and were only pulled back by a single moment of stardust from Vinicius Junior. The five-time champions left New Jersey with a point and a long list of questions; the African champions left with a performance that confirmed every word written about their dark-horse credentials.

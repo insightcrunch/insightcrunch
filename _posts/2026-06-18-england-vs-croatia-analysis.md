@@ -9,7 +9,7 @@ excerpt: "England vs Croatia at World Cup 2026 ended 4-2 as a Harry Kane brace a
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 68
 author: "naomi-adebayo"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 England vs Croatia at World Cup 2026 was supposed to be a measured reintroduction to a familiar foe. It was nothing of the sort. England beat Croatia 4-2 at AT&T Stadium in Arlington, Texas, in a Group L opener that swung four times before half time and then tilted decisively in the ten minutes after the restart. Harry Kane scored twice, Jude Bellingham and Marcus Rashford added the others, and Croatia replied through Martin Baturina and Petar Musa before England's second-half intensity put the game beyond them. The single thing that explains this result is not the scoreline, eye-catching as it is. It is what Thomas Tuchel's side did in the first twelve minutes of the second half: they raised the tempo to a level Croatia could not match, and the game broke under the pressure.

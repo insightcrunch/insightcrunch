@@ -9,7 +9,7 @@ excerpt: "Portugal vs Uzbekistan prediction, predicted lineups and Group K scena
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 69
 author: "grace-whitmore"
-last_updated: 2026-06-23
+last_updated: 2026-08-29
 lang: en
 ---
 Can Portugal solve the low-block riddle that cost them two points on opening night, and can they do it against a defense built by a World Cup-winning captain? That is the single question hanging over Portugal vs Uzbekistan at World Cup 2026, the Group K matchday-two fixture in Houston that asks Cristiano Ronaldo's side to turn territory into goals and a stalled campaign into a winning one. Portugal arrived in North America as one of the favorites for the whole tournament and left their opener with a draw they did not expect. Uzbekistan arrived as debutants, lost their first game, and still walked away having written their name into the record books. Now the two meet for the first time in their histories, with very different problems to fix and very different things to prove.

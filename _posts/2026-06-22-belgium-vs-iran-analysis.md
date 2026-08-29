@@ -9,7 +9,7 @@ excerpt: "Belgium vs Iran analysis: Iran's organization and Beiranvand's seven s
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "bruno-carvalho"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 The single question that defined Belgium vs Iran at World Cup 2026 was not whether a talented Belgium would score, but how long Iran could hold the line before they did. The answer, in the end, was the full ninety-plus minutes. Belgium piled up twenty-three shots and roughly 1.8 expected goals across a sweltering afternoon at SoFi Stadium in the Los Angeles area, played for the final twenty-five minutes with ten men, and still could not beat Alireza Beiranvand. Iran left Inglewood with a goalless draw, a second successive clean sheet they had no business keeping on the run of territorial play, and a place in the conversation for the Round of 32 that almost nobody outside their own dressing room had predicted before kickoff. This was a 0-0 that told two opposite stories at once: Belgian frustration mounting toward something close to alarm, and Iranian resilience hardening into genuine belief.

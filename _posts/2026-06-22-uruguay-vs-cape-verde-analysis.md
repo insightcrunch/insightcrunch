@@ -9,7 +9,7 @@ excerpt: "Uruguay vs Cape Verde result and analysis: how debutants Cape Verde re
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 59
 author: "carlos-mendez"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 Uruguay needed a goalkeeper and a back four that could be trusted for ninety minutes, and on a humid night in Miami at World Cup 2026 they had neither when it counted. The Uruguay vs Cape Verde result finished 2-2, and the single sentence that explains it is this: Uruguay spent the night in control of the ball, scored twice from their only two shots on target, and then handed the equalizer to the smallest nation in the group with a back-pass so loose that it pulled Fernando Muslera clean out of his goal. Cape Verde, the World Cup debutants who had already held Spain, refused to fold when they fell behind and took a second point from two games that no one outside their islands had forecast.

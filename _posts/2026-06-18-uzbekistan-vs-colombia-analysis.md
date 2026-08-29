@@ -9,7 +9,7 @@ excerpt: "Uzbekistan vs Colombia result and analysis: Colombia won 3-1 at World 
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 59
 author: "yuki-mori"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 Colombia beat Uzbekistan 3-1 at World Cup 2026, and the cleanest way to read the night is to hold two numbers next to each other and refuse to let either one lie. The scoreboard at the Estadio Azteca in Mexico City said 3-1, a comfortable margin, a seasoned CONMEBOL side seeing off tournament debutants without alarm. The expected-goals figure said 1.61 to 1.14, a contest decided by a handful of moments rather than by suffocation. Both are true. The story of Uzbekistan vs Colombia lives in the gap between them, and that gap is where Nestor Lorenzo's team won a game they controlled for territory but never put to bed until the ninth minute of stoppage time.

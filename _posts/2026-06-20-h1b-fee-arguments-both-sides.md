@@ -9,7 +9,7 @@ excerpt: "The H-1B fee ruling set the administration's entry-power case against 
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "alex-cunningham"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 When Judge Leo T. Sorokin vacated the H-1B fee on June 8, 2026, the headline wrote itself: a six-figure charge on skilled-worker petitions, gone. What the headline obscured is that the case was never a contest between a serious legal position and a frivolous one. Both the federal government and the coalition of states that sued advanced real arguments, anchored in real statutes and real precedent, and a different judge in Washington had already accepted the government's version of those arguments months earlier. To understand why the Massachusetts court came out the other way, and why the appeal is far from a formality, you have to read each side at its strongest rather than at its most quotable.

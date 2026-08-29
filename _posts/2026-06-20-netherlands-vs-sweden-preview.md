@@ -9,7 +9,7 @@ excerpt: "Netherlands vs Sweden World Cup 2026 preview with predicted lineups, h
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "aisha-rahman"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 The question that defines Netherlands vs Sweden at World Cup 2026 is not which side has the better players, because almost everyone who studies the two squads arrives at the same answer there, and arrives at it quickly. The question is sharper and more uncomfortable for Ronald Koeman: can a Dutch team that controlled large stretches of its opening match and still walked away with a single point find the cutting edge to break down a Sweden side that has discovered, almost overnight, that it can score for fun. One team owns the reputation. The other owns the early momentum. They meet on Saturday at NRG Stadium in Houston with the shape of Group F hanging on the result, and the gap between what the Netherlands are supposed to be and what they have so far produced is the tension that runs through the entire ninety minutes.

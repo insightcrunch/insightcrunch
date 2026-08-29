@@ -9,7 +9,7 @@ excerpt: "Sweden vs Tunisia result and analysis from World Cup 2026: a clinical 
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 59
 author: "naomi-adebayo"
-last_updated: 2026-06-15
+last_updated: 2026-08-29
 lang: en
 ---
 Sweden vs Tunisia at World Cup 2026 ended 4-1, and the scoreline does not tell you the most important thing about it. Possession was close, the chance count was closer than four goals to one suggests, and for a stretch either side of the interval the Eagles of Carthage looked like a team that might drag the night somewhere awkward. What separated the two countries in Monterrey was not control of the ball or territory. It was the quality of the finishing. Graham Potter's side took the openings that came and buried them; the North Africans created less and converted almost none of it. That gap, the difference between manufacturing chances and putting them away, is the whole story of this Group F opener, and it is the spine of everything that follows.

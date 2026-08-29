@@ -9,7 +9,7 @@ excerpt: "Belgium vs Egypt result and analysis from World Cup 2026: how a Romelu
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 59
 author: "naomi-adebayo"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 For roughly forty-seven minutes inside a sun-warmed Lumen Field, Egypt were not the perennial World Cup also-rans of their own history. They were a team leading a tournament heavyweight, playing with the discipline and bite that their record had always promised and rarely delivered, and they were one clearance, one block, one whistle away from a result the nation had waited almost a century to record. Then a substitute walked on, the ball was worked to the left, and twenty-two seconds later it was in the back of the Egyptian net off an Egyptian boot. Belgium vs Egypt at World Cup 2026 finished 1-1, and the single sentence that explains the scoreline is this: Romelu Lukaku changed nothing about Belgium's quality and everything about Belgium's threat, and his cameo, not their hour of possession, rescued the point.

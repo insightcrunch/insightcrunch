@@ -9,7 +9,7 @@ excerpt: "How Lollapalooza balances its genres is a curation choice, not luck, w
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-06-15
+last_updated: 2026-08-29
 lang: en
 ---
 How Lollapalooza balances its genres is the question most lineup posters never answer, and it is the one worth asking before you ever study a set time or pick a stage. The poster shows you the result, a four-day bill that runs from guitar bands to rap headliners to dance acts to pop stars to sounds carried in from around the world, but it hides the reasoning. The reasoning is the interesting part. A festival that tries to hold a sprawling, cross-generational crowd on the same lawns for four days does not assemble that bill by accident. It builds the mix on purpose, weighing what each act draws against what each act adds to the range, and the shape you see on the page is the visible edge of a deliberate plan.

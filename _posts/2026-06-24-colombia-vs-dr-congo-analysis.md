@@ -9,7 +9,7 @@ excerpt: "Colombia vs DR Congo analysis: Daniel Munoz's deflected 76th-minute st
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
 author: "sebastian-vogt"
-last_updated: 2026-06-24
+last_updated: 2026-08-29
 lang: en
 ---
 For seventy-five minutes in Guadalajara, the Colombia vs DR Congo World Cup 2026 Group K meeting looked like the kind of night that swallows a favorite whole. Colombia battered the door, Lionel Mpasi kept slamming it shut, and the scoreboard sat stubbornly on 0-0 while the rain came down at Estadio Akron. Then Daniel Munoz arrived at the near post in the 76th minute, took Juan Quintero's pass first time, and watched it deflect past the goalkeeper who had spent the evening saving everything else. One goal. That was the whole margin. It was also, on any honest reading of the contest, an understatement of the gulf between the two sides.

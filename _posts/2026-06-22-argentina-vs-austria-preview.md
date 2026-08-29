@@ -9,7 +9,7 @@ excerpt: "Argentina vs Austria preview for World Cup 2026: predicted lineups, th
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 There is one number hanging over Argentina vs Austria at World Cup 2026, and it sits at sixteen. Sixteen is the figure Lionel Messi carried out of Kansas City after his hat trick against Algeria, sixteen is the figure Miroslav Klose retired with as the all-time leading scorer in men's World Cup history, and sixteen is the figure that turns a routine-looking Group J second-round fixture in Dallas into something a global audience will stop to watch. Argentina arrive as reigning champions chasing qualification for the Round of 32. Austria arrive off a first World Cup win in a generation, pressing, physical, and convinced they can make the holders uncomfortable. The match poses a single, simple question with an enormous answer attached: can the defending champions tidy up their group business while their captain takes the one goal that would leave him alone at the summit of the sport's oldest scoring chart?

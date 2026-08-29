@@ -9,7 +9,7 @@ excerpt: "Brazil vs Haiti result and analysis: a Matheus Cunha brace and a Vinic
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 68
 author: "sofia-marchetti"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 Brazil won this match in twenty-two first-half minutes, and everything that came after was management rather than performance. That is the single truth that explains Brazil 3-0 Haiti at World Cup 2026, a Group C result that arrived through a Matheus Cunha brace and a Vinicius Junior finish before the interval, then settled into a controlled coast that flattered Haiti's resistance without ever putting the outcome in doubt. The scoreline reads like a comfortable afternoon for the five-time champions in Philadelphia, and in the columns that matter it was. The deeper story is narrower and more interesting: a recalled forward who repaid a selection gamble inside half an hour, a star winger thriving in the space a frightened opponent surrendered, and a coach who needed exactly this and got it without the complete display he keeps asking for.

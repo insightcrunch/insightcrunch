@@ -9,7 +9,7 @@ excerpt: "Turkiye vs Paraguay prediction, predicted lineups and Group D scenario
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 61
 author: "bruno-carvalho"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 Turkiye took thirty shots and did not score. Paraguay conceded three goals before half-time and only stopped the bleeding when the game was already gone. Both walked away from the opening round of World Cup 2026 with nothing, and now they walk into each other at Levi's Stadium in Santa Clara on June 19 knowing that the loser is, in all likelihood, finished. That is the blunt frame for Turkiye vs Paraguay, the Group D fixture that has quietly become the most consequential match on the Friday card. The question it poses is not which side has the better players, because that argument is already settled in Turkiye's favor. The question is whether Vincenzo Montella's side can do the one thing they could not do against Australia: turn territory and possession into goals against a team built to deny exactly that.

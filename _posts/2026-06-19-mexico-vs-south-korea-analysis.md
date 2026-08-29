@@ -9,7 +9,7 @@ excerpt: "Mexico vs South Korea World Cup 2026 ended 1-0 as Luis Romo pounced an
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 Two goalkeepers decided Mexico vs South Korea at World Cup 2026, and they decided it in opposite directions. The co-hosts won 1-0 in Guadalajara on June 18, a result built almost entirely on a single error in one penalty area and a single act of brilliance in the other. Kim Seung-gyu spilled a ball he should have claimed, Luis Romo punished it, and three minutes from time Raul Rangel produced the double save that kept the lead intact and made Mexico the first nation to reach the knockout rounds of this tournament. For long stretches the match looked like a stalemate two careful teams were content to share. It was not the football that decided it. It was the goalkeeping.

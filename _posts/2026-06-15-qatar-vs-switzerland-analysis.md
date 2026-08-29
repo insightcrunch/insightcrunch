@@ -9,7 +9,7 @@ excerpt: "Qatar vs Switzerland result and analysis: how 26 Swiss shots produced 
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 60
 author: "grace-whitmore"
-last_updated: 2026-06-15
+last_updated: 2026-08-29
 lang: en
 ---
 Qatar 1-1 Switzerland will not be remembered for the goal that decided it, because no single goal decided it. The match that opened Group B at World Cup 2026, played at Levi's Stadium in Santa Clara on June 13, was settled instead by the strikes that never arrived: twenty-six Switzerland efforts, exactly one of them converted, and a stoppage-time header from Qatar captain Boualem Khoukhi that turned a comfortable Swiss afternoon into the first genuine shock of the tournament. Murat Yakin's side did almost everything a favorite is supposed to do except the only thing that matters at this level, which is to put the ball in the net more than once when twenty-six invitations present themselves.

@@ -9,7 +9,7 @@ excerpt: "Iraq vs Norway result and analysis: Erling Haaland's brace on his Worl
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 60
 author: "aisha-rahman"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 Iraq vs Norway at World Cup 2026 finished 1-4, and the scoreline flatters neither the winners nor the losers so much as it simplifies them. Norway won because they had Erling Haaland to convert the half-chances and, more importantly, because they had a supply line built to keep feeding him and the men around him. Iraq lost not because they were overrun for ninety minutes, which they were not, but because the two or three moments that demanded a clean defensive head went the wrong way, and a side returning to the global stage after forty years discovered how unforgiving this level is when the margins close. The headline belongs to Haaland, who scored twice on his long-delayed World Cup debut. The deeper story belongs to the channels and the crosses and the corner that produced the goals, and that is the story this analysis is built around.

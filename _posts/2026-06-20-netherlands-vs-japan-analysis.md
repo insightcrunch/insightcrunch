@@ -9,7 +9,7 @@ excerpt: "Netherlands vs Japan result and analysis from World Cup 2026: Japan ca
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "carlos-mendez"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 Netherlands vs Japan at World Cup 2026 ended 2-2, and the truest measure of the night was not either of the two goals the Dutch scored but the third goal they never found. Twice Ronald Koeman's side led at AT&T Stadium in Arlington, through a Virgil van Dijk header and a Crysencio Summerville curler, and twice Japan refused to accept it, leveling first through Keito Nakamura and then through a Daichi Kamada header deep in the closing stages. A favorite that talks about winning the tournament walked away with one point from a game it controlled, and a side billed as a dark horse walked away validated. That gap between control and conviction is the whole story of this opener.

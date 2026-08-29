@@ -9,7 +9,7 @@ excerpt: "Spain vs Cape Verde result and analysis: how 27 shots yielded nothing,
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 Spain had twenty-seven shots and could not score one of them. That single sentence holds the whole of a Group H opener that will be replayed in Cape Verde for a generation, because on the afternoon of June 15 at Mercedes-Benz Stadium in Atlanta, the World Cup 2026 produced a result that the form book, the world ranking, and the betting market all said was close to impossible. Spain, the reigning European champions and one of the two or three sides most expected to lift the trophy in New York in July, were held to a 0-0 draw by Cape Verde, a nation of roughly half a million people playing the first World Cup match in its history. The favorites monopolized the ball, ringed the Cape Verde box for ninety minutes, and went home with a point they will regard as two lost. The debutants defended as if their lives depended on it, rode their luck where they had to, and walked off to celebrations that belonged to a final, not a first group game.

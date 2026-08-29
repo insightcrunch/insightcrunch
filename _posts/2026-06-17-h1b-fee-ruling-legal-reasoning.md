@@ -9,7 +9,7 @@ excerpt: "The H-1B fee ruling rested on two independent grounds, an unauthorized
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 59
 author: "hannah-moore"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 The H-1B fee ruling that came out of the federal district court in Boston on June 8, 2026 is easy to summarize and easy to misread. The one-line version, that a judge struck down the $100,000 charge imposed on certain new H-1B petitions, tells you the result and almost nothing about why the result is hard to undo. The reasoning is the part that matters, because the reasoning is what a court of appeals must dismantle, and the decision was built so that dismantling it in one place is not enough. Judge Leo T. Sorokin did not write an opinion that turns on a single pivot. He wrote one that travels a chain, from how the charge is characterized, through whose power it required, through the process it skipped, to the remedy that followed, and he set the chain up so that two of its links are each independently load bearing. Understanding that structure is the difference between knowing that the levy fell and knowing why it will be hard to put back.

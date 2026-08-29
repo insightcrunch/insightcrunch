@@ -9,7 +9,7 @@ excerpt: "Haiti vs Scotland result and analysis: John McGinn's deflected strike 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 For 28 years Scotland had not scored a goal at a World Cup, and for 36 years they had not won a match at one. Both droughts ended on the same humid night in Foxborough, and the man who ended them was the one everyone in dark blue had hoped would. The Haiti vs Scotland World Cup 2026 result reads as a narrow 1-0, a single deflected strike from John McGinn in the 28th minute settling a Group C opener that Haiti, on the balance of chances and territory, did at least as much to win. That gap between what the scoreboard says and what the ninety minutes felt like is the whole story of this match, and it is where any honest analysis has to begin. Scotland did not control this game. They controlled the only moment that decided it.

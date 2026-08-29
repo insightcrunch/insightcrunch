@@ -9,7 +9,7 @@ excerpt: "Latin music at Lollapalooza grew from a niche into a real presence, an
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-06-14
+last_updated: 2026-08-29
 lang: en
 ---
 If you came to this page because you scanned a Lollapalooza poster looking for the names that sound like home, the artists who sing in Spanish, the reggaeton beat you can feel in your chest before you can name the track, then you are asking the right question of the right festival at the right moment. Latin music at Lollapalooza is no longer a footnote or a single afternoon slot tucked between two rock bands. It has become a current that runs through the whole four-day bill, and learning to read that current is the difference between catching the sets that will define your weekend and finding out about them from someone else's phone the next morning. This guide is built to make the Latin half of the lineup legible, so you walk into Grant Park already knowing where your music lives.

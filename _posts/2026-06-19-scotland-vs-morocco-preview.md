@@ -9,7 +9,7 @@ excerpt: "Scotland vs Morocco World Cup 2026 preview: prediction, predicted line
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 Scotland vs Morocco at World Cup 2026 poses one clean question, and the whole evening in Foxborough turns on it: can a disciplined, hard-working Scotland side that has waited twenty-eight years for this stage take a point or three off a Morocco team carrying more pure talent and far heavier tournament pedigree? That is the fixture in a sentence. Scotland arrive on top of Group C, a place almost nobody outside the Tartan Army expected them to occupy after one round. Morocco arrive a point back, semi-finalists from 2022, the highest-ranked African nation in the field, and clear favourites despite the table. The gap in quality is real. The gap in the standings runs the other way. That tension, pedigree against position, is what makes this one of the most interesting matchday-two fixtures of the group phase.

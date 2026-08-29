@@ -9,7 +9,7 @@ excerpt: "Which Lollapalooza edition to travel for depends on season, region, cr
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 There is one decision every fan runs into once they realize Lollapalooza is no longer a single event in a single city, and it is the decision this page exists to settle: which Lollapalooza edition to travel for. The festival now runs on multiple continents, spread across two hemispheres, in cities that could not feel more different from one another, and the instinct almost everyone reaches for first is the wrong one. That instinct says go to the biggest one, or go to the original, and be done with it. It sounds decisive. It also ignores the four things that actually make one edition worth your money and your calendar and leave another a poor fit, no matter how large its lineup looks on paper.

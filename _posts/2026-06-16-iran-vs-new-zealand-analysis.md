@@ -9,7 +9,7 @@ excerpt: "Iran vs New Zealand result and analysis from World Cup 2026: how a 2-2
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 Iran and New Zealand traded the lead twice and finished honors even, and the truth of the night at World Cup 2026 is that no system won this game. Four goals went in, two at each end, and every one of them was authored by a moment of individual quality rather than by a team grinding the other into submission. That is the lens this analysis takes, because it is the only honest way to explain a 2-2 draw in which neither manager could point to ninety minutes of control and claim the result was earned through structure. New Zealand led, then led again, through the breakout double of Elijah Just. Iran answered both times, the first leveller struck by the night's true protagonist Ramin Rezaeian himself and the second headed home by Mohammad Mohebbi from a Rezaeian cross, the full-back walking off having both scored and created a goal in the same fixture and rewritten a small piece of his country's tournament history.

@@ -9,7 +9,7 @@ excerpt: "Ecuador vs Curacao result: Eloy Room's record 15 saves earned debutant
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 61
 author: "naomi-adebayo"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 The Ecuador vs Curacao result at World Cup 2026 reads as the flattest line in any record book, a goalless draw, and tells you almost nothing about the ninety minutes that produced it. Ecuador battered the door for the whole match and never got it open. Curacao, the smallest nation by population ever to reach a World Cup, walked out of Kansas City with the first point in their history. The number that explains the 0-0 is not in the scoreline at all. It sits in the goalkeeping column, where Eloy Room was credited with fifteen saves, the most by any goalkeeper inside the ninety minutes of a World Cup match since saves became an official statistic in 1966. That single column is the story of the night, and it is the spine of this analysis: a point was earned in Kansas City not by a defensive masterclass alone, but by one man standing between the posts who simply would not be beaten.

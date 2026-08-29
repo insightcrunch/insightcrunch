@@ -9,7 +9,7 @@ excerpt: "USA vs Australia World Cup 2026 preview: prediction, predicted lineups
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 The single question the USA vs Australia World Cup 2026 meeting poses is not which side is better. Both walked out of their opening fixtures with three points and a clean idea of who they are, so the question is sharper: can a United States team that wants the ball for ninety minutes break down a Socceroos block that has already shown it will surrender the ball and the territory and still win? That is the tension that defines this Group D second-round match in Seattle, and it is the reason the game is worth a closer look than the bare phrase "host nation against underdog" suggests.

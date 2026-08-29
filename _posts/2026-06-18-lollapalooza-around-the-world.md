@@ -9,7 +9,7 @@ excerpt: "Lollapalooza around the world is a global network of editions on four 
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 Ask most people where Lollapalooza happens and they will name one place: Chicago, Grant Park, the lakefront. That answer was complete once, but it stopped being complete a long time ago. Lollapalooza around the world is no longer a single festival with one address. It is a network of editions spread across four continents, each one planted in a different city, tuned to a different season, and shaped by a different crowd, yet all sharing the same brand, the same broad format, and the same festival DNA. If you have ever searched for how many Lollapaloozas there are, where else in the world they run, or whether the one in your reach is the same event people mean when they say the word, this is the page that maps the whole thing and then hands you the door to each individual edition.

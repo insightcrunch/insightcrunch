@@ -9,7 +9,7 @@ excerpt: "Argentina vs Algeria prediction, predicted lineups, head to head and G
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 A title defense rarely begins against a side that has just beaten one of the tournament favorites, yet that is exactly the puzzle waiting for Argentina in Kansas City. When the reigning champions open their World Cup 2026 campaign against Algeria in their Group J opener, they do so as the world's top-ranked nation, with the greatest player of his generation chasing the one major scoring record still beyond him, and with the uncomfortable memory of four years ago lodged somewhere in the back of the mind. Algeria, back on the biggest stage for the first time in over a decade, arrive with a freshly minted reputation as the tournament's most intriguing unknown after a warm-up that turned heads across Europe.

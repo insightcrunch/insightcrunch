@@ -9,7 +9,7 @@ excerpt: "Netherlands vs Japan prediction, lineups and head-to-head for this Wor
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 59
 author: "liam-ferris"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 There is one question that hangs over Netherlands vs Japan at World Cup 2026, and it is not whether Ronald Koeman's side has the better players. It does, on paper, by a clear margin. The question is whether the Netherlands can hold their shape in the five seconds after they lose the ball, because that is the window where Japan have built a reputation for ambushing teams who outrank them. This Group F opener at AT&T Stadium in Arlington, just outside Dallas, frames a familiar World Cup tension: a heavyweight with a deeper squad and a longer history against a quicker, braver opponent who has spent four years collecting the scalps of giants. Both teams arrive at the 2026 World Cup reshaped by injuries that landed in the final days before kickoff, and both know that the side which wins the transition battle will likely win the group's first meaningful exchange.

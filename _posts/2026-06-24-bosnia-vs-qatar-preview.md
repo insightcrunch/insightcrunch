@@ -9,7 +9,7 @@ excerpt: "Bosnia vs Qatar World Cup 2026 preview: predicted lineups, the set-pie
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-24
+last_updated: 2026-08-29
 lang: en
 ---
 One question swallows everything else when Bosnia and Herzegovina meet Qatar in Seattle on the final day of Group B at World Cup 2026: who can find the goal that keeps a campaign alive? Both teams arrive at Seattle Stadium with a single point, both have been beaten heavily once, and both know that the other final-round game in the group cannot save them. This Bosnia vs Qatar World Cup 2026 fixture is a knockout in everything but name. Win and the survivor jumps to four points and steps to the front of the queue for one of the eight best third-placed places. Draw, and the maths quietly buries them both. Lose, and the tournament ends that afternoon.

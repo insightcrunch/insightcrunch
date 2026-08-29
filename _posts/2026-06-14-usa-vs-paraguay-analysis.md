@@ -9,7 +9,7 @@ excerpt: "The USA vs Paraguay result at World Cup 2026 was a 4-1 statement, with
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 68
 author: "naomi-adebayo"
-last_updated: 2026-06-14
+last_updated: 2026-08-29
 lang: en
 ---
 The single number that explains USA vs Paraguay at World Cup 2026 is not the four on the home side of the scoreline. It is the seven, the minute on the clock when Damian Bobadilla turned a United States cross into his own net and handed the hosts a lead they would never relinquish. The final read of 4-1 looks like a procession, and in many ways it was, but the match was settled in the opening quarter of an hour by a level of intensity Paraguay had no answer for and never recovered from. The United States did not grind Gustavo Alfaro's side down over ninety minutes. They overwhelmed it inside fifteen, and everything that followed, the Folarin Balogun brace, the Christian Pulisic masterclass, the late Gio Reyna flourish, was the consequence of a start so ferocious that the game's competitive phase barely lasted a single sip of a beer in the SoFi Stadium concourse.

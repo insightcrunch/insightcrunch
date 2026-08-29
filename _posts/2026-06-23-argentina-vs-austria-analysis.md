@@ -9,7 +9,7 @@ excerpt: "Argentina vs Austria World Cup 2026 analysis: a Messi brace broke the 
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "sofia-marchetti"
-last_updated: 2026-06-23
+last_updated: 2026-08-29
 lang: en
 ---
 Argentina beat Austria 2-0 in their World Cup 2026 Group J fixture in Dallas, and the cleanest way to read the game is this: the result was decided less by the two finishes that won it than by the quarter of an hour in between, when a missed penalty could have pulled the champions apart and instead found them at their most composed. Lionel Messi scored in the 38th minute and again deep in stoppage time at 90+5, and those two strikes carried him past Miroslav Klose to stand alone as the all-time leading scorer in men's World Cup history. The headline writes itself. The match underneath the headline is more interesting, because for long stretches this was not the champions in full flow but the champions in management mode, grinding a stubborn, well-drilled Austria side down while their captain chased a number that would not come until the very end of the first half.

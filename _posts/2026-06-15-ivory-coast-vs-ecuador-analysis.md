@@ -9,7 +9,7 @@ excerpt: "Ivory Coast vs Ecuador result, ratings and tactical analysis: how Amad
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 59
 author: "bruno-carvalho"
-last_updated: 2026-06-15
+last_updated: 2026-08-29
 lang: en
 ---
 For eighty-nine minutes in Philadelphia, the Ivory Coast vs Ecuador World Cup 2026 opener looked like a match nobody would win. Ecuador had struck the frame of the goal twice, missed their cleanest sights of goal, and squeezed the reigning African champions into a corner of the pitch they did not want to occupy. Then a substitute who had spent the first hour watching from the bench took two touches and decided everything. Amad Diallo, on for Bazoumana Toure since the 56th minute, met a low cross from a galloping Wilfried Singo and steered the ball past Hernan Galindez in the 90th minute. Final score: Ivory Coast 1, Ecuador 0. The headline is the goal. The story is the bench.

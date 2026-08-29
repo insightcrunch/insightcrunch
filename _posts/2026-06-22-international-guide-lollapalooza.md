@@ -9,7 +9,7 @@ excerpt: "The international visitor's guide to Lollapalooza: the entry documents
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 If you are flying in from another country to stand in Grant Park for four days of music, you are planning a different trip than the person driving in from the suburbs, and almost every guide online is written for that suburban driver. An international visitor to Lollapalooza carries an extra layer of planning that a domestic fan never thinks about: the passport and entry authorization that let you into the United States in the first place, the payment methods that actually work at a festival that takes no cash, the phone that has to keep working on a foreign network, and the insurance that covers you if the summer heat or a long day on your feet lands you at a medical tent. This is the one page written for you, the overseas fan, and it treats the international layer as the real subject rather than an afterthought bolted onto a domestic itinerary.

@@ -9,7 +9,7 @@ excerpt: "Canada vs Qatar World Cup 2026 prediction, predicted lineups, team new
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 Can Canada finally win a match at a World Cup, and can they do it at home, on the night it matters most? That is the single question Canada vs Qatar at World Cup 2026 puts on the table in Vancouver, and everything about the fixture flows from it. Canada arrive at BC Place with one point from their opener and a forty-year wait for a first World Cup victory still unbroken. Qatar arrive as the surprise of Group B, having taken a point off Switzerland when almost nobody expected it. The co-hosts are favoured, heavily, and a win would all but settle their place in the Round of 32. But a tournament debut is full of nights when the favoured side cannot find the one pass that breaks a packed defence, and Qatar are built precisely to make that night happen.

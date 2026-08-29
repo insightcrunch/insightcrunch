@@ -9,7 +9,7 @@ excerpt: "France vs Iraq World Cup 2026 preview: predicted lineups, the Group I 
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 When two of the most decorated forwards on the planet share a tournament with a nation returning from a forty-year absence, the question a fixture poses is rarely about whether a result is likely. France vs Iraq at World Cup 2026 carries a different sort of tension, and it is worth naming plainly before kickoff at Lincoln Financial Field in Philadelphia. The question is not really who wins. It is whether France can convert their obvious superiority into the points and goal difference that seal a knockout place a full matchday early, and whether Iraq can take the structure that briefly held against Norway and stretch it across ninety minutes against a far more varied attack. That is the contest hiding inside a scoreline most neutrals have already pencilled in.

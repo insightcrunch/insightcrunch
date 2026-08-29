@@ -9,7 +9,7 @@ excerpt: "Germany vs Curacao result and analysis: how the four-time champions tu
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "naomi-adebayo"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 The Germany vs Curacao result at World Cup 2026 read 7-1 to the four-time champions, and the temptation is to file it under the heading of an inevitable mismatch and move on. That would miss the one thing that actually explains the night. For twenty-one minutes in Houston, the smallest nation ever to reach a World Cup did not merely survive against Die Mannschaft; it equalised, and for a few delirious seconds inside NRG Stadium the scoreboard told a story nobody on the German bench had scripted. What turned that flicker of jeopardy into a procession was not a single moment of magic but a compressed burst of ruthless quality straddling half-time, three goals in roughly nine minutes of playing time that ended the contest as a contest and converted the rest of the evening into a finishing exercise. The final margin was emphatic. The lesson underneath it was narrower and more interesting than the scoreline suggests.

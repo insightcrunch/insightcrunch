@@ -9,7 +9,7 @@ excerpt: "France beat Senegal 3-1 at World Cup 2026 as Mbappe's second-half brac
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 68
 author: "carlos-mendez"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 France beat Senegal 3-1 in their World Cup 2026 Group I opener at New York/New Jersey Stadium, and the scoreline flatters a contest that, for an hour, refused to obey the form guide. The single thing that explains this France vs Senegal World Cup 2026 result is not a tactic, a formation, or a substitution in isolation. It is the gap between what each side could summon in the final third when the game finally opened. Two strong teams cancelled each other out for the better part of an hour. Then Kylian Mbappe scored twice, Bradley Barcola scored seconds after walking on, and the difference that had been invisible since kickoff became the only thing on the scoreboard. This was not a demolition. It was a demonstration of how the best individual quality on the pitch decides tight games when the structure around it holds firm.

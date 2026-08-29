@@ -9,7 +9,7 @@ excerpt: "New Zealand vs Egypt preview for World Cup 2026: two winless nations c
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 60
 author: "aisha-rahman"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 Two nations who have never won a World Cup match arrive in Vancouver with the same hunger and the same fear, and the New Zealand vs Egypt World Cup 2026 Group G meeting reduces to one blunt question: which of them finally breaks the duck, and which of them is left to chase qualification the hard way? Both opened the tournament with a draw, both led and then surrendered that lead, and both now understand that a point will probably not be enough. New Zealand twice went in front against Iran and were twice pulled back. Egypt held the advantage over Belgium for the better part of an hour before an own goal erased it. Neither side got the result its performance arguably deserved, and that shared sense of a missed opening is what gives this second-round fixture its edge. The team that learns the quicker lesson from matchday one is the team that walks out of British Columbia with three points and, very likely, a path into the Round of 32.

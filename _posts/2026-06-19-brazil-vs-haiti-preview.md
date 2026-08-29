@@ -9,7 +9,7 @@ excerpt: "Brazil vs Haiti prediction, predicted lineups and Group C scenarios fo
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
 author: "sofia-marchetti"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 The single question hanging over Brazil vs Haiti at World Cup 2026 is not whether the five-time champions are good enough to win. It is whether they will finally turn first-half control into goals after a flat, unconvincing opener left Carlo Ancelotti openly worried. Brazil arrive at Lincoln Financial Field in Philadelphia on Friday, June 19 carrying one point from their Group C opener and a list of questions about a forward line that created chances against Morocco yet only scored once. Haiti, ranked among the lowest-placed nations in the tournament and back at the finals for the first time since 1974, arrive with nothing to lose and a defensive plan built to make Brazil uncomfortable for as long as possible. That tension, a heavyweight under pressure to be ruthless against a disciplined underdog with a point to prove, is the spine of this fixture.

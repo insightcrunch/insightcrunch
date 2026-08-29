@@ -9,7 +9,7 @@ excerpt: "Germany vs Ivory Coast World Cup 2026 preview: prediction, likely line
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 Two winners, one ticket already half-punched, and a single question hanging over Toronto: can a side that has just scored seven do the simple, ruthless thing and finish the job? Germany vs Ivory Coast at World Cup 2026 is the matchday-two collision Group E was always pointed toward, the four-time champions against the Africa Cup of Nations holders, both fresh from opening wins, both knowing that the next ninety minutes can settle qualification and very likely the group itself. Germany arrived at this tournament under the radar and left their first match looking like contenders again. Ivory Coast arrived as one of the most athletic, fearless teams in the field and proved it with a winner in the last minute of their opener. Now they meet with the table already taking shape and the stakes sharpened to a point.

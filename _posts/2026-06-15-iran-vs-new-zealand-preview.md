@@ -9,7 +9,7 @@ excerpt: "Iran vs New Zealand World Cup 2026 preview: prediction, lineups, head 
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 60
 author: "grace-whitmore"
-last_updated: 2026-06-15
+last_updated: 2026-08-29
 lang: en
 ---
 The single question that hangs over Iran vs New Zealand at World Cup 2026 is whether two nations who have spent decades in the same waiting room, each undefeated against the other and each still chasing the same elusive prize, can finally turn a survivable group into something more. Both arrive in Group G having never reached a World Cup knockout round. Both look at Belgium and see the favorite, look at Egypt and see a coin flip, and look at each other and see the fixture that very likely decides which of them spends the tournament dreaming and which spends it doing arithmetic. This is the opener that frames everything else, and the side that wins the small margins inside it gives itself a runway the other will struggle to find later.

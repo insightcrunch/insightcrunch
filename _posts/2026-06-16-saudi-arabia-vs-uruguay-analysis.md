@@ -9,7 +9,7 @@ excerpt: "Saudi Arabia vs Uruguay result: a 1-1 World Cup 2026 draw in Miami, wi
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 60
 author: "liam-ferris"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 Saudi Arabia vs Uruguay ended 1-1 at the World Cup 2026, and the single fact that explains the night is this: a two-time world champion produced twenty-seven shots in Miami and still walked off with one point, because Mohammed Al-Owais kept the one save the scoreline needed and Uruguay never found the one finish that would have settled it. That is the spine of this analysis, and the phrase to remember is the one-save margin. La Celeste did not lose a point because they were poor across ninety minutes. They lost two because, on a sweltering evening at the Hard Rock Stadium, the Green Falcons defended deeper, struck first through a centre-back's instinct, and then hid behind a goalkeeper who refused to be beaten more than once. Saudi Arabia did not so much protect a lead as rent it back one intervention at a time, and the rent came due only in the eightieth minute.

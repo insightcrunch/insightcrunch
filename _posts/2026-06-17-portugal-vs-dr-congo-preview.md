@@ -9,7 +9,7 @@ excerpt: "Portugal vs DR Congo World Cup 2026 preview: prediction, predicted lin
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 Portugal vs DR Congo at World Cup 2026 poses one clean question, and the whole afternoon in Houston turns on the answer: can a Portugal side that arrives ranked among the favorites, captained by Cristiano Ronaldo at his sixth and final World Cup, pull apart a disciplined, athletic DR Congo team that has built its entire identity on staying compact and refusing to be pulled apart? This is the Group K opener, a fixture between the sixth-ranked nation in the world and one returning to football's biggest stage after a fifty-two-year absence, and the gap on paper could hardly be wider. The gap on the pitch is a different calculation, because the way DR Congo defend is the way underdogs survive, and the way Portugal attack is not always the way you break a wall.

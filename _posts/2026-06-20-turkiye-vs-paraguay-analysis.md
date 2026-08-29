@@ -9,7 +9,7 @@ excerpt: "Turkiye vs Paraguay World Cup 2026 analysis: how ten-man Paraguay edge
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
 author: "sebastian-vogt"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 There is a version of this match where Turkiye walk off the pitch in Santa Clara with three points, a revived campaign, and a feature reel of attacking football to set against the disappointment of their opener. They had thirty-two attempts at goal. They had two-thirds of the ball. They had a man advantage for the entire second half. And in the Turkiye vs Paraguay World Cup 2026 Group D meeting they lost, one to nil, because none of those numbers is the same thing as a goal, and because Paraguay decided in the sixty-fourth second that one would be enough and then spent the rest of the night proving it. That is the whole story, and it is also the most instructive result of the group stage so far.

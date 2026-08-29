@@ -9,7 +9,7 @@ excerpt: "Lollapalooza Chile is the festival's first international edition, held
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 Lollapalooza Chile is the moment the festival stopped being an American story and became a global one. It was the first edition planted outside the United States, and everything that came after it, the European weekends and the other South American editions, followed the path Santiago opened. That single fact is why the Chilean edition matters to anyone trying to understand the festival as a worldwide network rather than a Chicago institution, and it is also why the Chile edition is worth planning as its own trip rather than treating it as a smaller copy of the flagship. The version you find in Santiago is not a scaled-down Grant Park. It runs in a different season, in front of a different crowd, in a city that folds the festival into a South American autumn weekend, and it carries the quiet distinction of having proved the whole model could travel.

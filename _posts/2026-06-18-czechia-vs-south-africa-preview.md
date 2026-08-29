@@ -9,7 +9,7 @@ excerpt: "Czechia vs South Africa World Cup 2026 preview: prediction, predicted 
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
 author: "bruno-carvalho"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 Two teams walked off the pitch on the opening weekend of World Cup 2026 carrying the same problem, and on Thursday afternoon in Atlanta they hand it to each other. Czechia vs South Africa is the second Group A fixture for both nations, and it arrives with a single question hanging over every minute: which of these sides can drag a stalled tournament back to life before it is too late. Czechia lost their opener to South Korea. South Africa lost theirs to Mexico, and finished with nine men. Both sit on zero points, both need a result, and only one of them can leave Mercedes-Benz Stadium with the win that keeps a clean knockout path open. This is not a match either manager wanted to find himself in. It is the match that now defines their summers.

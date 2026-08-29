@@ -9,7 +9,7 @@ excerpt: "USA vs Australia result and analysis: how the co-hosts won 2-0 in Seat
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 The United States booked their place in the World Cup 2026 knockout round before the half-time whistle, and that timing is the whole story of USA vs Australia. The co-hosts beat the Socceroos 2-0 in Seattle on June 19, and they did it without their captain, without a moment of late panic, and without ever letting the game become the open, transition-heavy contest Australia had built their tournament around. Both goals arrived in the first half. The second forty-five minutes was a controlled defense of a lead that was never seriously threatened. The headline is the scoreline and the qualification, but the lesson is the manner: the United States won this game through early control, not late flair, and the early control is what made the rest of the night a formality.

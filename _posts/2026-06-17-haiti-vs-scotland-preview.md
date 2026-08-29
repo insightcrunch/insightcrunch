@@ -9,7 +9,7 @@ excerpt: "Haiti vs Scotland World Cup 2026 preview: prediction, predicted lineup
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
 author: "grace-whitmore"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 The single question that decides Haiti vs Scotland at World Cup 2026 is not who has the better players, because that argument is settled before anyone steps onto the grass in Foxborough. It is whether Scotland can solve the problem that Haiti have spent two years learning to pose: a deep, narrow, stubborn defensive block that asks an opponent to be patient, precise, and clinical for ninety minutes, and punishes any side that is only two of those three. Steve Clarke's team arrive at their first World Cup in 28 years as clear favorites against a Caribbean nation playing in the tournament for the first time since 1974, and the gap in pedigree, squad value, and recent tournament football is real. The gap in the thing that actually wins this kind of match, the ability to break a low block without losing the game on the counter, is much smaller and far more interesting.

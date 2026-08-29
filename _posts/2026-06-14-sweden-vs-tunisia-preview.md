@@ -9,7 +9,7 @@ excerpt: "Sweden vs Tunisia World Cup 2026 preview: prediction, predicted lineup
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 59
 author: "aisha-rahman"
-last_updated: 2026-06-14
+last_updated: 2026-08-29
 lang: en
 ---
 The single question that hangs over Sweden vs Tunisia at World Cup 2026 is simple to ask and hard to answer: can a Swedish side rebuilt for speed and direct attacking force find a way through a Tunisian team that crossed an entire qualifying campaign without conceding a goal? This Group F opener in Monterrey sets a clear identity against a clear identity. On one bench sits Graham Potter, the English coach who dragged Sweden back to the global stage through the play-offs and built his plan around the running power of Alexander Isak and Viktor Gyokeres. On the other sits Sabri Lamouchi, whose Tunisia treat defensive structure as the whole point, not a phase to be tolerated before the real work begins. The match is a contest of philosophies as much as of players, and the team that imposes its identity first will most likely take the points.

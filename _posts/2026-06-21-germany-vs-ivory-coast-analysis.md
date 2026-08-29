@@ -9,7 +9,7 @@ excerpt: "Germany vs Ivory Coast finished 2-1 as substitute Deniz Undav struck t
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
 author: "aisha-rahman"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 Germany vs Ivory Coast at World Cup 2026 was supposed to be the night a four-time champion strolled into the knockout rounds. Instead it became a study in how a tournament side wins when its plan fails. For an hour at Toronto Stadium, Julian Nagelsmann's Germany were second best to an Ivory Coast team that defended a one-goal lead with discipline and threatened to add to it on the counter. Then the bench changed everything. Deniz Undav, on as part of a triple substitution just before the hour, equalized with a controlled volley and then drilled home a 94th-minute winner to settle a 2-1 result that sent Germany through with a match to spare and left the Elephants to do their qualifying maths all over again.

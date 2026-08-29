@@ -9,7 +9,7 @@ excerpt: "Uruguay vs Cape Verde prediction, predicted lineups, head to head and 
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 The single question Uruguay vs Cape Verde poses at World Cup 2026 is not whether the South American side is better. Everyone in the building at Hard Rock Stadium on Sunday already knows that. The question is whether Uruguay can do the one thing Spain could not manage four days earlier: find a way through a Cape Verde block that defends as though the result is the only thing that exists in the world. La Celeste arrive in Miami as heavy favorites and arrive frustrated, having needed a late goal to escape their opener with a point. Cape Verde arrive as World Cup debutants who have already authored one of the great upsets in the tournament's history and have nothing left to fear.

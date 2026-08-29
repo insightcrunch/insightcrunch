@@ -9,7 +9,7 @@ excerpt: "Colombia vs DR Congo World Cup 2026 preview with prediction, predicted
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 61
 author: "daniel-okoro"
-last_updated: 2026-06-23
+last_updated: 2026-08-29
 lang: en
 ---
 ![Colombia vs DR Congo World Cup 2026 preview and prediction - Insight Crunch](/assets/images/blog/blog-68.webp)

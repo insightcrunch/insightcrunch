@@ -9,7 +9,7 @@ excerpt: "Spain vs Saudi Arabia World Cup 2026 preview: prediction, lineups, the
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 Spain vs Saudi Arabia at World Cup 2026 is not the routine win the rankings suggest, and that is the whole story of this Group H second-round meeting in Atlanta. Spain arrived in North America as European champions and one of the two or three sides everyone fancied to lift the trophy, then spent ninety minutes against Cape Verde unable to score from twenty-seven shots. Saudi Arabia, written off in most previews of the group, instead led Uruguay for forty minutes and came away with a point. The favourites need a win to steady a campaign that wobbled on day one. The question that defines the fixture is not whether Spain are better, because they plainly are, but whether they can solve the specific problem that left them frustrated against a deep, disciplined defense the first time out.

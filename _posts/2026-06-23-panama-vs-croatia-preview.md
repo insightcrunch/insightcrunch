@@ -9,7 +9,7 @@ excerpt: "Panama vs Croatia World Cup 2026 preview: prediction, predicted lineup
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-23
+last_updated: 2026-08-29
 lang: en
 ---
 Two sides walked into the 2026 World Cup with very different reputations and walked out of their opening games carrying the same number: zero. Panama vs Croatia, a World Cup 2026 fixture in Toronto on June 23, is the match where that shared figure stops being a coincidence and starts being a verdict. Croatia, the side that reached the 2018 final and finished third in 2022, arrived among the more respected names in Group L and were beaten by England. Panama, a nation at only its second World Cup, were the better team for long stretches of their opener and lost it in the final seconds. Both now sit on no points, and the table does not care which badge is more famous. This is the recovery checkpoint: the game that decides whether a tournament is salvaged or quietly lost.

@@ -9,7 +9,7 @@ excerpt: "Canada vs Qatar World Cup 2026 analysis: Jonathan David's hat trick dr
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 68
 author: "bruno-carvalho"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 Canada came to Vancouver chasing a first men's World Cup win in their history, and they did not merely find it: they buried Qatar under it. The Canada vs Qatar World Cup 2026 result was 6-0, a scoreline that reads like a mismatch and, for long stretches, looked like one, with Jonathan David scoring a hat trick that ended his goal drought and rewrote the page that Canadian men's football had been waiting forty years to write. Yet the night carried a darker thread too, a sickening leg injury to Ismael Kone that drained the celebration of some of its joy and turned a coronation into something more complicated. This is the story of how the co-hosts turned a milestone into a rout, and why the final margin tells only part of the truth.

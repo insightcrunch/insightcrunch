@@ -9,7 +9,7 @@ excerpt: "Ghana vs Panama result and analysis: how Caleb Yirenkyi's dramatic 95t
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
 author: "liam-ferris"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 Ghana won this game in the last act of a match they had barely controlled, and that gap between deserving and winning is the whole story of Ghana vs Panama at World Cup 2026. For ninety-four minutes Panama were the better-organized side, the calmer side on the ball, and the side that looked likelier to claim the point that would have been the first they have ever earned at a World Cup. Then, in the fifth minute of second-half stoppage time at a rain-soaked BMO Field in Toronto, Caleb Yirenkyi turned in a low cross from Brandon Thomas-Asante, the bench emptied, the corner flags shook, and a contest that had been heading nowhere suddenly delivered a 1-0 result and a brawl. The Black Stars did not master Panama. They outlasted them.

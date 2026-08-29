@@ -9,7 +9,7 @@ excerpt: "Austria vs Jordan World Cup 2026 preview: prediction, predicted lineup
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "liam-ferris"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 The single question that hangs over Austria vs Jordan at World Cup 2026 is not whether the higher-ranked side can win, but whether a debutant nation arriving with nothing to lose can drag a cautious, pressing European team into the kind of open, transitional game that has undone bigger names than Ralf Rangnick's Austria. This is a Group J opener that looks one-sided on the ranking sheet and is anything but simple in practice. Austria are back at the World Cup for the first time since 1998, carrying the weight of a generation that was supposed to arrive here years ago. Jordan walk out for the first match in their history, free of expectation and armed with a counter-attacking plan built to punish exactly the high line Rangnick demands. The gap in pedigree is wide. The gap in motivation is not, and that is where this fixture gets interesting.

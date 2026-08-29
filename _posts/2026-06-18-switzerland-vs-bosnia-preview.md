@@ -9,7 +9,7 @@ excerpt: "Switzerland vs Bosnia World Cup 2026 preview: predicted lineups, the h
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "sebastian-vogt"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 The question Switzerland vs Bosnia poses at World Cup 2026 is not who is the better side, because that is settled before a ball is kicked, but whether the better side can finally finish what it starts. Switzerland created a small mountain of chances against Qatar and walked away with one point. Bosnia and Herzegovina created almost nothing against Canada and walked away with the same point. Two opposite stories, identical scoreboards, and now a meeting at SoFi Stadium in Inglewood on June 18 where the team that converts pressure into goals takes a long stride toward the knockout rounds and the team that does not stays trapped in the tightest group at the tournament. Group B went into matchday two with all four nations level on a single point, and this fixture is the first real lever any of them can pull.

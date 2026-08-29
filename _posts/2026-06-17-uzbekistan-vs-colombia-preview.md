@@ -9,7 +9,7 @@ excerpt: "Uzbekistan vs Colombia prediction, predicted lineups, head to head and
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "bruno-carvalho"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 A debutant nation walks into one of football's oldest cathedrals to start a World Cup, and the fixture asks a single sharp question: can Uzbekistan's discipline survive ninety minutes against Colombia's quality in the seconds after a turnover? Uzbekistan vs Colombia at World Cup 2026 is the kind of opener that looks lopsided on paper and turns delicate in the thin air of Mexico City. The White Wolves arrive at their first finals carrying the weight of a nation that waited thirty-four years to be here. Colombia arrive as Copa America finalists, packed with players who spent the season in the Premier League, the Bundesliga, Serie A, and the Primeira Liga, fancied by neutrals to go a long way. The gap in pedigree is real. The gap on the pitch, at 2,240 meters above sea level with a deep block and a clear plan, can be smaller than the gap in reputation, and that is exactly where this game lives.

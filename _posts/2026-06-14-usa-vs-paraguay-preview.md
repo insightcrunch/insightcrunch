@@ -9,7 +9,7 @@ excerpt: "USA vs Paraguay prediction, lineups, head to head and key battles for 
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "sebastian-vogt"
-last_updated: 2026-06-14
+last_updated: 2026-08-29
 lang: en
 ---
 The question that defines USA vs Paraguay at World Cup 2026 is not whether the co-hosts have the better players, because they do, and not whether a packed house in Los Angeles will lift them, because it will. The question is sharper than that: can a young, attack-heavy United States side, carrying the weight of a home tournament and a thin midfield, break down the single most disciplined defensive structure in this group before that structure breaks them on the counter? Paraguay did not travel to SoFi Stadium to admire the occasion. Gustavo Alfaro built this team to frustrate, to absorb, and to punish exactly the kind of front-foot, possession-leaning opponent the United States wants to be. This Group D opener is a clean tactical collision: a host nation that needs goals against a visitor engineered to deny them, with the early shape of the entire group riding on ninety minutes in Inglewood.

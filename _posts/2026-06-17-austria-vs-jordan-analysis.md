@@ -9,7 +9,7 @@ excerpt: "Austria vs Jordan result and analysis: how Rangnick's side came from b
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "grace-whitmore"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 ![Austria vs Jordan World Cup 2026 result and analysis with player ratings - Insight Crunch](/assets/images/blog/blog-11.webp)

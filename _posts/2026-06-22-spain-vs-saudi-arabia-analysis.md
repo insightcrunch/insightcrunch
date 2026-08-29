@@ -9,7 +9,7 @@ excerpt: "Spain vs Saudi Arabia World Cup 2026 analysis: a 4-0 win, Oyarzabal's 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 69
 author: "naomi-adebayo"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 Spain did not solve the problem that drew them with Cape Verde by tearing up the plan. They solved it in the space of fourteen first-half minutes against Saudi Arabia, and the Spain vs Saudi Arabia World Cup 2026 result, a 4-0 win in Atlanta, was less a reinvention than a correction. The shots that died at the goalkeeper or sailed wide in their opener went in this time, and the moment the conversion arrived, the entire group changed shape around it. Mikel Oyarzabal, the man who had been singled out after the goalless draw, answered with two goals and an assist before half-time. Lamine Yamal, on his first World Cup start, scored his first World Cup goal inside ten minutes. By the interval it was 3-0, the contest was over, and the only argument left was about how much of this had been waiting to happen all along.

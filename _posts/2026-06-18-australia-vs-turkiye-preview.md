@@ -9,7 +9,7 @@ excerpt: "Australia vs Turkiye prediction, lineups and tactics for this World Cu
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 Group D opens with a question that most neutrals think they have already answered, and that is exactly why Australia vs Turkiye at World Cup 2026 is more interesting than the bare names suggest. On paper this is a fancied, ball-playing Turkiye side, back at a World Cup for the first time since 2002 and carrying two of European football's most coveted young talents, against an Australia team that few outside its own dressing room expect to top a group containing co-hosts the United States. The honest tactical question, though, is not whether Turkiye have more individual quality. They do. It is whether they can convert that quality into clean, repeatable chances against a Socceroos team built, almost from the ground up, to deny exactly the kind of football Turkiye want to play, and to punish the spaces a possession side leaves behind. Get that one trade-off right and you have the match. Get it wrong and you have the upset that reshapes the group.

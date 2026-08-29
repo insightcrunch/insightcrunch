@@ -9,7 +9,7 @@ excerpt: "Chicago vs the global Lollapaloozas compared on scale, format, season,
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 Every serious Lollapalooza fan eventually runs into the same argument, usually late in a group chat or three replies deep in a forum thread. Someone has just come back from a weekend in Grant Park convinced there is nothing else like it on earth, and someone else has just come back from a weekend in South America convinced the crowd there sang louder, hit harder, and cared more than any downtown Chicago audience ever could. Both people are describing something real, and neither of them is settling the question, because the question they are actually fighting about is not which weekend was better. It is whether the Chicago flagship, the one that started all of this, still deserves to be treated as the definitive Lollapalooza now that a whole network of editions has grown up around it across two hemispheres. That is the comparison this article exists to make, honestly and in full, so you can stop guessing and read the tradeoff off the page.

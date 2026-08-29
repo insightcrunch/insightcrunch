@@ -9,7 +9,7 @@ excerpt: "Belgium vs Iran prediction, predicted lineups and the key Group G scen
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "naomi-adebayo"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 Belgium vs Iran at World Cup 2026 sets one of the cleanest stylistic questions of the entire group stage: a side built around individual creation against a side built around collective shape. Belgium arrive in Los Angeles with Kevin De Bruyne pulling the strings, Jeremy Doku running at full-backs, and Romelu Lukaku waiting to punish a half-chance. Iran arrive with a back line drilled to hold its lines, a midfield that screens the space in front of it, and Mehdi Taremi dropping off the front to give them an out-ball. The fixture is not a mismatch of talent dressed up as a contest. It is a genuine tactical problem, and the team that solves it first takes a long stride toward the knockout rounds.

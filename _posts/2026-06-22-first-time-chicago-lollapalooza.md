@@ -9,7 +9,7 @@ excerpt: "Your first time in Chicago for Lollapalooza, made simple: how the city
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 If this is your first time in Chicago for Lollapalooza, the festival is only half of what you are actually planning. The other half is a city you have never navigated, and that unfamiliarity is what quietly wrecks a first weekend. You booked the tickets, you built a rough set-time wish list, and then the real questions arrived: how does this city even work, will I get lost, which parts of town matter, and is it safe to walk back to where I am staying after the headliner. Most Lollapalooza pages assume you already know Chicago. This one does not. It assumes you are arriving from somewhere else, possibly for the first time in your life, and it treats learning the city as the planning problem it really is.

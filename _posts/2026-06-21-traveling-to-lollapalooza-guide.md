@@ -9,7 +9,7 @@ excerpt: "Traveling to Lollapalooza is a downtown Chicago city trip, so plan the
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 Traveling to Lollapalooza feels, from a distance, like a logistical mountain. You picture shuttle buses down a dirt road, a campground far from anything, a phone with no signal, and a scramble for water that runs out by noon. That picture belongs to a different kind of festival. Lollapalooza sits in Grant Park, in the middle of downtown Chicago, a few blocks from the lake, ringed by hotels, train lines, and an entire working city that does not shut down for the weekend. The trip you are planning is a city trip that happens to have a festival at the center of it, and once you see it that way, almost every decision gets simpler.

@@ -9,7 +9,7 @@ excerpt: "Argentina vs Algeria result and full analysis: Lionel Messi scored a h
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 68
 author: "sofia-marchetti"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 Argentina beat Algeria 3-0 in their World Cup 2026 opener in Kansas City, and the scoreline tells you almost nothing about how the night actually felt. The headline is simple and historic: Lionel Messi scored the first World Cup hat trick of his career, and in doing so he drew level with Miroslav Klose on 16 goals, the most any man has scored at the tournament. The deeper story is stranger. For long stretches Algeria held more of the ball, pressed with intent, and looked like a side capable of frustrating the holders. They lost by three goals anyway, because one player kept finding the half-second of space that turns a balanced contest into a rout. This Argentina vs Algeria analysis is built around that contradiction, and around the single claim that explains the night.

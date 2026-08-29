@@ -9,7 +9,7 @@ excerpt: "Jordan vs Algeria result: Algeria won 2-1 from two second-half corners
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 61
 author: "naomi-adebayo"
-last_updated: 2026-06-23
+last_updated: 2026-08-29
 lang: en
 ---
 A corner kick decided Jordan vs Algeria at World Cup 2026, and then a second corner kick decided it again. Algeria came from behind to beat debutant Jordan 2-1 in Group J at the San Francisco Bay Area Stadium in Santa Clara, turning a night that had threatened to bury their tournament into the night that revived it. Jordan had led through a first-half strike that nobody in green saw coming and that few in the stands could quite believe. Algeria answered with the most unglamorous weapon in the modern game, the set piece, scoring twice from the corner flag in the second half through substitute Nadhir Benbouali and then Amine Gouiri to leave the World Cup newcomers eliminated with a match still to play.

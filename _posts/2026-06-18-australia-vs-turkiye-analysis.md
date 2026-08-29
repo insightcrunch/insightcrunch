@@ -9,7 +9,7 @@ excerpt: "Australia vs Turkiye World Cup 2026 result and analysis: how Tony Popo
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "bruno-carvalho"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 The upset of the opening round at World Cup 2026 did not arrive by accident, and it did not arrive on a lucky bounce. Australia beat Turkiye 2-0 at BC Place in Vancouver because Tony Popovic walked into a Group D fixture nobody expected him to win, picked a team half the watching world did not recognize, and built a plan precise enough to turn Turkiye's biggest strengths into the very channels through which the Socceroos struck. Nestory Irankunda finished a counter in the 27th minute. Connor Metcalfe drove in the second from outside the box in the 75th. In between, a Turkiye side stacked with Arda Guler, Hakan Calhanoglu and Kenan Yildiz had most of the ball, most of the territory, and none of the answers. This was not a smash-and-grab. It was a blueprint, executed.

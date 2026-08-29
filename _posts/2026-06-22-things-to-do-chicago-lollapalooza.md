@@ -9,7 +9,7 @@ excerpt: "The best things to do in Chicago around Lollapalooza, from Millennium 
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 Most people plan a Lollapalooza trip as though the festival is the whole reason to be here, and then they leave one of the best things to do in Chicago sitting untouched a few hundred steps from the gate. The honest reality is simpler and more useful: a Lollapalooza trip is also a Chicago trip, whether you plan it that way or not. You are flying into or driving toward one of the great American cities, staying inside walking distance of its most concentrated cluster of parks, museums, architecture, and lakefront, and spending four days in a festival that sits directly on top of all of it. The gate closes on the music each night and opens again the next afternoon, which leaves mornings, rest days, and the hours before you feel like fighting a crowd wide open. The question is not whether Chicago is worth seeing while you are here. The question is how much of it you can fold into a festival weekend without wearing yourself out, and which pieces are worth the effort when your legs already ache and your feet already know what a long day feels like.

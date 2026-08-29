@@ -9,7 +9,7 @@ excerpt: "Lollapalooza Berlin brings the festival's stages and dance culture to 
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 Most pages that carry the Lollapalooza name are really about one park in one American city, and they leave a traveler standing in a European capital with a ticket in hand and no map for the day ahead. Lollapalooza Berlin is the German edition of the festival, and it is not a smaller copy of the Chicago original stitched onto a foreign address. It is the same brand of festival poured into a different city, a different season, a different crowd, and a different set of instincts about how a weekend of live music should feel. That difference is the whole point of the trip, and it is the reason this guide treats the Berlin edition as a plannable journey rather than a line item on a list of places the festival happens to visit.

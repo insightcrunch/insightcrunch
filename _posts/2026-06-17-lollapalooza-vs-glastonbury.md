@@ -9,7 +9,7 @@ excerpt: "Lollapalooza vs Glastonbury sets a downtown American festival against 
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-06-17
+last_updated: 2026-08-29
 lang: en
 ---
 Somewhere right now a music fan is staring at two browser tabs and cannot close either one. One tab shows a compact American festival packed into a lakeside park in the middle of a major city, four days of stages within walking distance of hotels, trains, and restaurants. The other shows a sprawling English institution spread across a working dairy farm, a temporary city of tents that swells to the size of a small town and carries decades of counterculture mythology in its bones. The fan has the budget and the vacation days for one big trip, not two, and the choice will not resolve itself. This is the Lollapalooza vs Glastonbury decision, and it is one of the hardest calls in the festival world because the two events are not competing versions of the same thing. They are different species.

@@ -10,7 +10,7 @@ excerpt: "Iraq vs Norway World Cup 2026 preview: prediction, predicted lineups, 
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 Iraq vs Norway at World Cup 2026 reduces, at its core, to a single question of supply. Norway carry the most lethal center-forward on the planet into a Group I opener at Gillette Stadium, and the only meaningful debate before kickoff is not whether Erling Haaland can hurt a debutant defense but whether that defense can keep the ball away from him long enough to matter. Iraq arrive at their first World Cup in forty years with one clear plan: compress the space, dig in, and turn the contest into the kind of low-scoring slog that has defined their recent results. Norway arrive with the opposite intention, a front line built to stretch and break a packed block, and a delivery system designed to feed a striker who punishes a single yard of room. The match is the meeting of those two philosophies, and the side that wins the supply question wins the night.

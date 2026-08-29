@@ -4,7 +4,7 @@ title: "Tunisia vs Japan: 4-0 World Cup 2026 Analysis"
 page_title: "Tunisia vs Japan Analysis: Japan's Record 4-0 Win, World Cup 2026 Group F"
 slug: tunisia-vs-japan-analysis
 date: 2026-06-21
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 categories: ["Leisure"]
 author: "sebastian-vogt"
 tags: ["World Cup 2026", "Japan", "Tunisia", "Group Stage", "Match Analysis", "Asian Football"]

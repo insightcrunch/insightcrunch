@@ -9,7 +9,7 @@ excerpt: "Portugal vs DR Congo result, player ratings and analysis: how DR Congo
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 68
 author: "bruno-carvalho"
-last_updated: 2026-06-18
+last_updated: 2026-08-29
 lang: en
 ---
 The Portugal vs DR Congo World Cup 2026 opener finished 1-1, and the scoreline is the smallest part of the story. Portugal had the ball for roughly three-quarters of the afternoon, passed it more than five hundred times, and walked off NRG Stadium in Houston with one point and a long list of questions. DR Congo, back at a World Cup for the first time in fifty-two years, walked off with their first goal in tournament history, their first point, and a performance that will be studied across the group. This was not a heavyweight stumbling into a soft draw. This was a debutant-era side executing a plan, and the plan worked.

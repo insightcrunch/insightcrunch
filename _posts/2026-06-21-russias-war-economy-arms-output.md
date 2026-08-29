@@ -9,7 +9,7 @@ excerpt: "Russia's war economy has surged arms output, but how much of it is bor
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "ryan-walsh"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 Underneath every question about whether the Russian army can menace the eastern flank sits a plainer, more material one: what can the factories actually build, and for how long. Russia's war economy is the machine that feeds the force, and reading the flank risk without reading that machine is like judging a boxer by his reach while ignoring whether he can still throw a punch in the twelfth round. Since the full-scale invasion of Ukraine, the Kremlin has pushed the country onto a war-economy footing, lifting the output of shells, drones, and refurbished vehicles to levels that alarmed observers who had written off Russian industry as sclerotic. The alarm is warranted in part and misplaced in part, and telling those two parts apart is the whole task of a serious assessment.

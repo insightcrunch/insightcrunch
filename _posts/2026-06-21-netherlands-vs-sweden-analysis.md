@@ -9,7 +9,7 @@ excerpt: "Netherlands vs Sweden analysis: how a Brobbey and Gakpo double drove a
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 68
 author: "liam-ferris"
-last_updated: 2026-06-21
+last_updated: 2026-08-29
 lang: en
 ---
 The Netherlands beat Sweden 5-1 in Houston, and the scoreline says control while the ninety minutes told a more interesting story. This Netherlands vs Sweden World Cup 2026 result was a finishing exhibition more than a smothering, a night when the Dutch turned a handful of well-built chances into goals and Sweden turned a larger pile of openings into almost nothing. Brian Brobbey scored twice inside the opening seventeen minutes, Cody Gakpo struck twice early in the second half, and Crysencio Summerville added a fifth from the bench, with Anthony Elanga claiming a consolation that flattered no one but at least put Sweden on the board. The gap between the teams on the night was not possession and it was not territory. It was the quality of the final pass and the calm of the finish.

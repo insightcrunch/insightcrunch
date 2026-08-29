@@ -9,7 +9,7 @@ excerpt: "Which genre owns Lollapalooza now? An honest verdict: hip-hop and pop 
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2026-06-15
+last_updated: 2026-08-29
 lang: en
 ---
 ## The argument that never gets settled

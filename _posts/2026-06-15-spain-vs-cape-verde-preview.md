@@ -8,6 +8,7 @@ reading_time: 68
 tags: [World Cup 2026, Spain, Cape Verde, Group H, Preview]
 author: "yuki-mori"
 lang: en
+last_updated: 2026-08-29
 ---
 ## Spain Begin Their Quest Against Football's Newest Story
 

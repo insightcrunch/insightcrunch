@@ -9,7 +9,7 @@ excerpt: "Indie music at Lollapalooza lives on the smaller stages and daytime sl
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2026-06-14
+last_updated: 2026-08-29
 lang: en
 ---
 Indie music at Lollapalooza is not where most people look, which is exactly why most people miss it. The poster sells the festival on its headliners, the names in the biggest font across the top of the bill, and a casual reader scans those names, decides the festival has gone fully mainstream, and never thinks about the rest of the page. The discovery-minded fan reads the same poster differently. That fan knows the underground layer is still there, that it lives lower on the bill and earlier in the day, and that the work of finding it is the difference between a weekend spent watching what everyone already knows and a weekend spent watching what people will know in a year. This page is about that work: where the smaller acts play, how the festival still books them, and how a fan who came for the discovery builds a day around it instead of around the closers.

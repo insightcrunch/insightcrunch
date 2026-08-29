@@ -9,7 +9,7 @@ excerpt: "Switzerland vs Bosnia ended 4-1, but the data tells another story: a g
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "aisha-rahman"
-last_updated: 2026-06-19
+last_updated: 2026-08-29
 lang: en
 ---
 For seventy-three minutes at SoFi Stadium, Switzerland vs Bosnia looked like the most forgettable fixture of World Cup 2026, a tense, low-scoring stalemate that asked a single question and refused to answer it: could a controlled, technical Switzerland finally turn territory into goals? Then, in the space of twenty-three minutes, the game gave four answers at once. Switzerland beat Bosnia and Herzegovina 4-1 in Los Angeles, a scoreline that flatters the balance of the contest and hides how close Bosnia came to walking away with a goalless draw. The result was not built on Swiss first-half dominance. It was built on a bench. Murat Yakin sent on Johan Manzambi and Ruben Vargas, watched the game tilt within minutes, and saw Bosnia's resistance collapse the moment Tarik Muharemovic was sent off. This is the analysis of how a 0-0 became a 4-1, why the margin lies about the match, and what the night changed in Group B.

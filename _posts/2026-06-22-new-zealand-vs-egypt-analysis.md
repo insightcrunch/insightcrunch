@@ -9,7 +9,7 @@ excerpt: "New Zealand vs Egypt result and analysis: Mohamed Salah led a 3-1 come
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 60
 author: "daniel-okoro"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 For ninety-two years Egypt had carried the same unwanted footnote: a proud African football nation that had reached the World Cup, played in it, and never once won a match. New Zealand vs Egypt at World Cup 2026 in Vancouver was supposed to be the game that finally changed that, and for forty-five minutes it looked like the opposite story was being written. The All Whites led at the interval through Finn Surman, defended with the discipline that had frustrated Iran, and carried the belief of a side that genuinely fancied a first World Cup win of its own. Then Egypt came out for the second half a different team, and Mohamed Salah turned a tense, edgy contest into a piece of history. The Pharaohs won 3-1, and the long wait was over.

@@ -9,7 +9,7 @@ excerpt: "Scotland 0-1 Morocco: how Ismael Saibari's 71-second strike at World C
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 61
 author: "naomi-adebayo"
-last_updated: 2026-06-20
+last_updated: 2026-08-29
 lang: en
 ---
 Scotland lost this match before the Tartan Army in Boston had finished their first song. Seventy-one seconds into a Group C fixture they needed to win, Ismael Saibari collected a Brahim Diaz pass over the top, opened his body, and lashed the ball into the roof of Angus Gunn's net. Morocco 1-0 Scotland at World Cup 2026, a scoreline that never changed across the following eighty-nine minutes and never looked like changing. The Atlas Lions did not so much beat Scotland as remove the contest from the board at the first opportunity and then spend the rest of the evening making sure it stayed removed.

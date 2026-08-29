@@ -9,7 +9,7 @@ excerpt: "France vs Senegal World Cup 2026 preview: prediction, predicted lineup
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-06-16
+last_updated: 2026-08-29
 lang: en
 ---
 There is one question that hangs over France vs Senegal at World Cup 2026, and it is not whether the favourites can win. It is whether the favourites can stay patient long enough to win the way they want to, against a Senegal side built specifically to make patience expensive. Les Bleus arrive in New Jersey as one of the two or three most likely teams to lift the trophy, carrying the deepest attacking roster in the tournament and a captain chasing his country's all-time scoring record. Senegal arrive as the team nobody in Group I wants to play first: organized, fast, physically imposing, and carrying a history with this exact opponent that turns a routine opener into something heavier. The fixture is a test of whether quality alone settles a match against a side that has spent two years learning how to deny it.

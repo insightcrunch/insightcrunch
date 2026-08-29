@@ -9,7 +9,7 @@ excerpt: "Norway vs Senegal preview for World Cup 2026: Haaland and the Group I 
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 60
 author: "daniel-okoro"
-last_updated: 2026-06-22
+last_updated: 2026-08-29
 lang: en
 ---
 Can a Senegal side built for speed and power find a way to slow Erling Haaland before he decides another night, or will Norway's first World Cup in a generation turn into a procession through Group I? That is the question Norway vs Senegal poses at World Cup 2026, a Group I meeting at New York/New Jersey Stadium in East Rutherford on June 22 that pits the group's early pacesetters against a wounded heavyweight who cannot afford a second defeat. Norway arrive on a high after dismantling Iraq. Senegal arrive stung by a late collapse against France. Both know that the next ninety minutes could shape the entire group.
