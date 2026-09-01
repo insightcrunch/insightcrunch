@@ -9,7 +9,7 @@ excerpt: "Argentina vs Egypt VAR controversy explained: the disallowed goal, Egy
 image: /assets/images/blog/blog-01.webp
 reading_time: 68
 author: "carlos-mendez"
-last_updated: 2026-07-08
+last_updated: 2026-09-01
 lang: en
 ---
 Some World Cup matches are remembered for a goal. This one will be remembered for a decision. Argentina beat Egypt 3-2 in the Round of 16 in Atlanta on July 7, 2026, and the reigning champions are through to the quarterfinals, yet the enduring story of the afternoon is not the comeback but the controversy that framed it. A disallowed Egyptian goal, a waved away penalty appeal, a cascade of yellow cards, an anguished manager, a "rigged" accusation from a goalscorer, an official complaint lodged with FIFA, and a swirl of political questions have turned a sporting result into one of the most argued about episodes of the entire tournament.

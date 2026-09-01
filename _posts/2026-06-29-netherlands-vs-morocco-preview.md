@@ -9,7 +9,7 @@ excerpt: "Netherlands vs Morocco prediction, lineups and tactical preview for th
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 68
 author: "liam-ferris"
-last_updated: 2026-06-29
+last_updated: 2026-09-01
 lang: en
 ---
 One question frames Netherlands vs Morocco in the World Cup 2026 Round of 32: can Ronald Koeman's structured, defensively imperious Oranje impose control on a Morocco side that presses in packs, defends for its life, and carries the belief of a nation that reached a World Cup semi-final only four years ago? This is a knockout tie, win or go home, and it sets the seventh-ranked team in the world against the eighth, a European heavyweight against the continent's proudest modern overachiever. There is no second leg, no group table to lean on, and no margin for a slow start. Ninety minutes, or a hundred and twenty, or penalties, decide which of these two genuine contenders walks on and which flies home.

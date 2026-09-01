@@ -9,7 +9,7 @@ excerpt: "Building a fanbase before a festival slot rewards trajectory over a ma
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 Building a fanbase before a festival slot is the work almost no aspiring artist plans for and almost every booked artist has already done. If you are a musician staring at a lineup poster and wondering how the acts three rows from the bottom got there, this is the page that connects the two things nobody puts on the same page: the following you grow at home and the festival access it eventually unlocks. The draw is what gets an act booked. A room that fills because your name is on the flyer, a streaming count that keeps climbing, a comment section that argues about your next release, a local crowd that shows up in the rain: these are not vanity metrics that happen to sit next to your career. They are the career, read from the outside by the people who decide who plays.

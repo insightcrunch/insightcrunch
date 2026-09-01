@@ -9,7 +9,7 @@ excerpt: "Tunisia vs Netherlands result and analysis: the Netherlands won 1-3 to
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 69
 author: "grace-whitmore"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 The Tunisia vs Netherlands result at World Cup 2026 read 1-3 to the Dutch, and the simplest way to understand it is this: the Netherlands won the game in the first seven minutes, then spent eighty-three more proving that they only play at full intensity when the scoreline asks them to. Ronald Koeman's side topped Group F at a rain-soaked Kansas City Stadium on 25 June, took the seeding they came for, and walked out of the group stage with ten goals from three matches and a Round of 32 date with Morocco. They also walked out without a clean sheet, conceding for the sixth game running, and that contradiction, ruthless when stirred and passive when comfortable, is the single thread that runs through everything that happened here. This is the formality that still flashed a warning light, and it is worth reading closely, because the knockout rounds will punish a team that needs an external prompt to find its level.

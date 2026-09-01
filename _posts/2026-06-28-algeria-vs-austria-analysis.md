@@ -9,7 +9,7 @@ excerpt: "Algeria vs Austria result and analysis: a dramatic 3-3 World Cup 2026 
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "daniel-okoro"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 Algeria vs Austria at World Cup 2026 turned on roughly ninety seconds of stoppage time, and when those ninety seconds were done the scoreboard at GEHA Field at Arrowhead Stadium read 3-3, both nations had qualified, and Iran were out. That is the headline, and it does not begin to capture the swing. Riyad Mahrez looked to have won it for Algeria in the 93rd minute with a finish that, for a few delirious seconds, sent the Fennecs through as Group J runners-up and condemned Austria to elimination. Then Sasa Kalajdzic, on the pitch for barely a minute, headed home in the 96th to flip the entire equation back the other way. One goal sent Algeria second and Austria home; the answer sent Austria second and Algeria into the knockouts as a best third-placed side anyway. The single thing that explains this match is that its meaning changed twice inside the final two minutes, and both teams survived the chaos.

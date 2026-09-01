@@ -9,7 +9,7 @@ excerpt: "The H-1B fee ruling vacated the charge nationwide yet left the refund 
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 60
 author: "david-thornton"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 A reader who wants a single sentence on the H-1B fee ruling can have one: the Massachusetts court struck down the $100,000 charge on covered petitions and removed it across the country. The harder and more useful question is the one the headline cannot answer. What did that decision actually close, and what did it leave open for the next round? A charge can be defeated in the form it took and still return in another. A nationwide remedy can be granted and then narrowed on review. Money already collected can sit unaddressed while the rule that demanded it is gone. The decision of June 8, 2026 did all three of those things at once, which is why the most accurate description of the moment is not victory or defeat but a precise map of settled ground and open ground.

@@ -9,7 +9,7 @@ excerpt: "Lollapalooza photography rewards craft over gear: master stage light, 
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 Lollapalooza photography is not a gear problem, and the fans who come home with frames they are proud of almost never own the most expensive body on the field. They understand two things the thin guides skip: how stage light behaves when it is dim, colored, and changing faster than your eye can track, and what camera the festival will let through the gate. Master those two, and a modest kit outshoots a bag of glass carried by someone who never learned to read a wash of magenta against a silhouette. Get either one wrong, and the best sensor in Grant Park either produces a blurred smear or gets turned away at the checkpoint before it ever meets the light.

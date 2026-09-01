@@ -9,7 +9,7 @@ excerpt: "DR Congo vs Uzbekistan World Cup 2026 analysis: Yoane Wissa's brace se
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "daniel-okoro"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 The DR Congo vs Uzbekistan World Cup 2026 result will be remembered in Kinshasa long after the tournament ends. On a humid night inside Atlanta Stadium, DR Congo fell behind to an Eldor Shomurodov goal, lost a first-half equalizer to a video review, and looked for an hour like a side whose campaign was slipping away. Then the game turned. Yoane Wissa converted a penalty, substitute Fiston Mayele forced his side ahead, and Wissa struck again in stoppage time to complete a 3-1 comeback that carried DR Congo into the knockout phase of a World Cup for the first time in their history. Uzbekistan, debutants who had led and looked the likelier winners at the break, went home with nothing.

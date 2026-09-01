@@ -9,7 +9,7 @@ excerpt: "Panama vs England result and analysis: Bellingham and Harry Kane seale
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
 author: "naomi-adebayo"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 England spent an hour searching for a way through, then found it where they had been finding answers all season: from a corner. The Panama vs England result at World Cup 2026 reads as a clean 2-0 to Thomas Tuchel's side, and the scoreline does its job of sending England to the top of Group L. What the number hides is the resistance that came before the breakthrough, and the single passage of play that turned a frustrating evening in New Jersey into a record-setting one. Jude Bellingham forced the opening on 62 minutes and created the second for Harry Kane five minutes later, and with that header Kane moved clear of Gary Lineker as England's all-time leading scorer at the World Cup. The defining idea of this match is simple to name and harder to deliver: against a side built only to deny, England needed quality from a dead ball and a moment from an individual, and both arrived in the same five minutes. That is the timely step up this analysis is built around.

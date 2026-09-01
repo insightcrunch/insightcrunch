@@ -9,7 +9,7 @@ excerpt: "Algeria vs Austria World Cup 2026 preview: prediction, lineups, head t
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 61
 author: "carlos-mendez"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 Two sides arrive in Kansas City on level points, one place in the Round of 32 between them, and a single question hanging over the whole evening: who finishes second in Group J behind a champion who has already finished first. Algeria vs Austria at World Cup 2026 is the kind of final-round group fixture the new 48-team format was built to produce, a straight contest for survival where a draw might be enough for one and a defeat could still leave a door ajar for the other. Argentina have taken care of the top of the group. Everything still to be decided sits in this match at Arrowhead Stadium and in the simultaneous game in Dallas, and the math that governs it is the spine of this preview.

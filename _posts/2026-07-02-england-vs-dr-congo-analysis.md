@@ -9,7 +9,7 @@ excerpt: "England vs DR Congo result and analysis: Harry Kane's late brace turns
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-07-02
+last_updated: 2026-09-01
 lang: en
 ---
 For seventy-four minutes at the Mercedes-Benz Stadium, the England vs DR Congo result at World Cup 2026 read like the opening line of an obituary for a tournament favorite. England trailed a nation playing its first knockout match in history, and the longer the afternoon wore on the heavier the silence around Atlanta grew. Then Harry Kane happened, twice inside eleven minutes, and a 2-1 win turned dread into deliverance and sent England into the Round of 16 to meet co-hosts Mexico. This analysis takes the game apart: how DR Congo led, why England could not break the wall until so late, and what the escape says about Thomas Tuchel's side going deeper into the bracket.

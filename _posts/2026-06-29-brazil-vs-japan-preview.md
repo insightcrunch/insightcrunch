@@ -9,7 +9,7 @@ excerpt: "Brazil vs Japan World Cup 2026 Round of 32 preview: prediction, lineup
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 69
 author: "naomi-adebayo"
-last_updated: 2026-06-29
+last_updated: 2026-09-01
 lang: en
 ---
 Brazil vs Japan at World Cup 2026 poses one question above all others: can the most decorated nation in the sport's history survive the one opponent that has just learned how to beat them? This Round of 32 tie in Houston is not a group game with a safety net. It is single elimination, win or go home, and it pits the five-time champions against a Japan side that arrives unbeaten, hungry, and carrying the memory of a night in Tokyo eight months ago when they came from two goals down to defeat this same Selecao for the first time in their history. The gap in pedigree is enormous. The gap in current belief is not.

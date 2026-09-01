@@ -9,7 +9,7 @@ excerpt: "Scotland vs Brazil result and analysis: a sharp Vinicius Junior brace 
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
 author: "sofia-marchetti"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 Brazil beat Scotland 3-0 in Miami to win Group C at World Cup 2026, and the single fact that explains the scoreline is not Brazilian brilliance but Scottish generosity. All three goals were born in Scotland's own half, from passes that never reached their target, and the man who punished each lapse was Vinicius Junior. The Real Madrid forward scored inside seven minutes, had a second ruled out by the video assistant referee, then headed home in first-half stoppage time, and Matheus Cunha applied the finish on the hour. The numbers underline the gap, an expected-goals reading of 4.46 to 1.13, yet the story of the night is narrower and harsher for Steve Clarke's side: Scotland did not lose this game so much as hand it over, and the margin they conceded may decide whether their tournament continues.

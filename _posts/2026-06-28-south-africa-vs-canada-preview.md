@@ -9,7 +9,7 @@ excerpt: "South Africa vs Canada prediction, predicted lineups, team news and he
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "daniel-okoro"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 Two nations who have never stood in this exact spot will share a pitch in Los Angeles, and only one of them walks out still alive. South Africa vs Canada is the very first knockout fixture of World Cup 2026, the match that opens the brand new Round of 32, and it carries a weight that neither country has felt before at this stage of a global finals. Bafana Bafana have reached the knockout phase of a World Cup for the first time in their history. Canada, the co-hosts, have done the same. One of them will reach the last 16 by Sunday evening, and the other will fly home with a campaign that already rewrote the record books but stopped one round short of the next prize.

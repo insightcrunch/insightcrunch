@@ -9,7 +9,7 @@ excerpt: "New Zealand vs Belgium is the Group G decider in Vancouver, where Rudi
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 New Zealand against Belgium at BC Place in Vancouver is the kind of fixture the expanded World Cup 2026 group stage was built to produce: a pre-tournament outsider that has refused to lie down, set against a fancied European side that has yet to play anywhere near its level, with knockout qualification riding on ninety minutes. On paper the gap is enormous. Belgium arrived in North America ranked ninth in the world, carrying Kevin De Bruyne, Romelu Lukaku, Jeremy Doku and Leandro Trossard, while New Zealand came as winners of the Oceania qualifying path and one of the lighter squads in the field. Yet two matchdays into Group G the table tells a different story, and the final round in Vancouver matters far more to Rudi Garcia's Red Devils than anyone expected when the draw was made.

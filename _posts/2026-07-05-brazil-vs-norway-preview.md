@@ -9,7 +9,7 @@ excerpt: "Brazil vs Norway headlines the World Cup 2026 Round of 16 as five-time
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 69
 author: "sebastian-vogt"
-last_updated: 2026-07-05
+last_updated: 2026-09-01
 lang: en
 ---
 There is a number that follows Brazil into this Round of 16 tie, and it has nothing to do with their five World Cup titles. It is zero. That is how many times the most decorated nation in the sport's history has beaten Norway on a football pitch. When Brazil vs Norway kicks off at MetLife Stadium in East Rutherford on Sunday, July 5, the five-time champions will try to end that peculiar drought at the worst possible moment to fail, because a place in the World Cup 2026 quarterfinals rides on the result. Win, and Carlo Ancelotti's side march on toward a record-extending sixth title. Lose, and one of the tournament's grandest campaigns ends against a Scandinavian team that has spent three decades being nobody's idea of a superpower and now arrives with the most feared striker in the world leading its line.

@@ -9,7 +9,7 @@ excerpt: "Playing an early festival slot rewards momentum over crowd size, so a 
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 Almost every act that ends up on a festival poster started lower on it, in a small font, in the part of the day when the gates have only just opened and the lawn is more grass than people. Playing an early festival slot is the entry point to the whole system, and it is the part almost no one writes about honestly. The headliner coverage is everywhere. The opening-act reality, where most careers actually begin, gets skipped, dismissed, or quietly pitied. This page is for the act staring at a set time that lands hours before the crowd arrives, wondering whether it is a break or a booby prize, and it argues something specific: an early slot is worth a great deal, but only to the act that understands what it is actually worth and plays accordingly.

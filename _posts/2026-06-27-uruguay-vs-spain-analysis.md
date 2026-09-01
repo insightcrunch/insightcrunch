@@ -2,7 +2,7 @@
 title: "Uruguay vs Spain: World Cup 2026 Result and Analysis"
 page_title: "Uruguay vs Spain Result, Player Ratings and Group H Analysis: How Spain Won the Group and Sent Uruguay Out of World Cup 2026"
 date: 2026-06-27
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 slug: uruguay-vs-spain-analysis
 excerpt: "Uruguay vs Spain result and analysis: Alex Baena struck as Spain won Group H at World Cup 2026 and dumped two-time champions Uruguay out of the finals."
 image: /assets/images/blog/blog-01.webp

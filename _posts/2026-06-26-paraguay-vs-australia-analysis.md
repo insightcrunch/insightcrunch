@@ -9,7 +9,7 @@ excerpt: "Paraguay vs Australia result and analysis: how a goalless World Cup 20
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "daniel-okoro"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 Paraguay vs Australia at World Cup 2026 finished where the math always suggested it might, with both sides looking at the scoreboard before they looked at the goal. The 0-0 draw at San Francisco Bay Area Stadium on June 25 was not the open shootout the Group D table seemed to invite. It was a controlled, cagey, nervous night that handed Australia second place on goal difference, left Paraguay third and waiting on the best third-placed rankings, and confirmed the single most important truth of this fixture: caution and fine margins, not goals, settled qualification. That is the spine of this analysis, and every passage of the game pointed back to it.

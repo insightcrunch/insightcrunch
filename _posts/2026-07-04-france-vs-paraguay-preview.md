@@ -9,7 +9,7 @@ excerpt: "France vs Paraguay in the World Cup 2026 Round of 16: Mbappe and Les B
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
 author: "daniel-okoro"
-last_updated: 2026-07-04
+last_updated: 2026-09-01
 lang: en
 ---
 Can a defensive masterclass and a hot goalkeeper drag the tournament's most watertight underdog past its most ruthless attack, or does class simply tell in the end? That is the single question hanging over France vs Paraguay in the World Cup 2026 Round of 16, a Philadelphia knockout tie that pits the sharpest finishing team in the competition against the side that has become the story of the summer by refusing to lose. France arrive as tournament favorites, unbeaten, rampant, and led by a captain closing on history. Paraguay arrive with a national holiday still fresh in the memory, having knocked out four-time winners Germany on penalties, and with a plan that has already toppled one European giant. One of these two roads ends on Saturday night, and the other stretches on toward the quarterfinals.

@@ -9,7 +9,7 @@ excerpt: "Curacao vs Ivory Coast preview: prediction, predicted lineups, key bat
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "carlos-mendez"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 One question hangs over Curacao vs Ivory Coast at World Cup 2026, and it is sharper than the gap between the two nations suggests. Ivory Coast arrive in Philadelphia knowing a single point will almost certainly carry them into the knockout phase for the first time in their history. Curacao arrive as the smallest country ever to reach the tournament, with nothing left to protect and a fairytale still flickering. The puzzle that defines this Group E finale is whether a result that looks already half-won can be calmly collected, or whether the very comfort of needing so little becomes the trapdoor that an unburdened debutant prises open.

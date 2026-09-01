@@ -9,7 +9,7 @@ excerpt: "Senegal vs Iraq World Cup 2026 preview: the Teranga Lions need a big w
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 61
 author: "sofia-marchetti"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 Senegal vs Iraq at World Cup 2026 reduces to one cold-eyed question: can a side that has lost twice still win by enough to save itself? Both teams arrive at BMO Field in Toronto on Friday with zero points from two games, which turns the Group I finale into a straight knockout dressed up as a group match. The losers go home that night. The winner keeps breathing. For Senegal, the third consecutive World Cup of a generation built around Sadio Mane, the stakes are sharper still, because beating Iraq is necessary but might not be sufficient. To stay alive through the best third-placed route they have to win, and they almost certainly have to win big.

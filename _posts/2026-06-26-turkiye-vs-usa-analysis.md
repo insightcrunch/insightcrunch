@@ -9,7 +9,7 @@ excerpt: "Turkiye vs USA result and full World Cup 2026 analysis: Kaan Ayhan's 9
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 68
 author: "daniel-okoro"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 The Turkiye vs USA result at World Cup 2026 read 3-2 to the visitors, and the single fact that explains it sat on the team sheet long before Kaan Ayhan scrambled the ball over the line in the eighth minute of second-half stoppage time. Mauricio Pochettino had already won Group D. He changed nine of the eleven players who beat Australia, handed the night to his fringe, and asked them to compete with the group already secured and nothing on the scoreboard to gain. They competed. They led twice in the sense that they scored first and then drew level after falling behind, they matched a more talented Turkiye for long stretches, and they still lost in the final kick because a second-string defense, a man down on the bench, and one motivated opponent with genuine quality is a combination that eventually tells. That is the story of this game, and it is a more interesting story than the scoreline suggests.

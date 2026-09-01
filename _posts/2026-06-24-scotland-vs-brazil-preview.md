@@ -9,7 +9,7 @@ excerpt: "Scotland vs Brazil World Cup 2026 preview with team news, predicted li
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 69
 author: "carlos-mendez"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 Scotland arrive in Miami on the final night of Group C with a question they have never once answered in their history, and Brazil are the side standing between them and the answer. This is the fixture that defines Scotland's World Cup 2026, a Group C decider at the Hard Rock Stadium where one result keeps the Tartan Army alive and another sends them home as they have always gone home, at the group stage. Brazil have a different question on their minds, the simple matter of whether they finish top of the group or settle for second, but the gap in stakes does not narrow the gap in quality. Steve Clarke's side need something from ninety minutes against a Brazil team that has won the last three World Cup meetings between these nations and has never lost to Scotland in ten attempts across half a century. The pre-match maths is brutal in its clarity, and so is the pre-match history.

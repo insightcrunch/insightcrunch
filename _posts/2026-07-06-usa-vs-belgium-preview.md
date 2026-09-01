@@ -3,7 +3,7 @@ title: "USA vs Belgium: World Cup 2026 Round of 16 Preview"
 page_title: "USA vs Belgium Preview: World Cup 2026 Round of 16 in Seattle"
 slug: usa-vs-belgium-preview
 date: 2026-07-06
-last_updated: 2026-07-06
+last_updated: 2026-09-01
 excerpt: "USA vs Belgium in the World Cup 2026 Round of 16: co-hosts the United States meet Belgium in Seattle with a quarterfinal place and old history on the line."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]

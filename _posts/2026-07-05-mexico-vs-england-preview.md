@@ -9,7 +9,7 @@ excerpt: "Mexico vs England preview for the World Cup 2026 Round of 16: form, th
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
 author: "liam-ferris"
-last_updated: 2026-07-05
+last_updated: 2026-09-01
 lang: en
 ---
 There is one question that towers over this Mexico vs England World Cup 2026 Round of 16 tie, and it has almost nothing to do with form guides or reputations. Can a heavyweight England side, ranked among the tournament favourites and unbeaten on their route through, arrive at the Estadio Azteca on barely two days of preparation and find the oxygen, the composure, and the ruthlessness to knock out the co-hosts on the one patch of grass where Mexico almost never lose? Everything else about this game hangs off that single tension: a team built to control matches at sea level walking into a stadium sitting seven thousand feet up, packed with more than eighty thousand supporters who have watched their team win four out of four without conceding a goal. This is knockout football stripped to its cleanest form, one match, no second leg, no away goals, a quarterfinal place for the winner and the plane home for the loser.

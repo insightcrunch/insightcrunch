@@ -9,7 +9,7 @@ excerpt: "South Africa vs South Korea is the World Cup 2026 Group A decider: Baf
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "daniel-okoro"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 ## South Africa vs South Korea: the World Cup 2026 Group A decider

@@ -9,7 +9,7 @@ excerpt: "Switzerland vs Algeria result and analysis: Embolo and Ndoye send the 
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "carlos-mendez"
-last_updated: 2026-07-03
+last_updated: 2026-09-01
 lang: en
 ---
 Switzerland won the Switzerland vs Algeria World Cup 2026 Round of 32 tie 2-0 at BC Place in Vancouver, and the single thing that explains it is that they never needed the ball to win the game. Algeria had more of it, moved it more, and looked the livelier side for the opening ten minutes. Then Switzerland scored against the run of play, settled into a low, patient shape, and hit the second on the counter forty-six seconds after half time. From that point the outcome was rarely in doubt. Breel Embolo finished the first, Dan Ndoye drilled the second, and the twenty-year-old Johan Manzambi supplied the spark for both phases of a night that carried the Swiss into the last sixteen for the first knockout victory their country has recorded since 1938.

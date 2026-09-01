@@ -9,7 +9,7 @@ excerpt: "Mexico vs Ecuador analysis: two first-half goals from Quinones and Jim
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 69
 author: "daniel-okoro"
-last_updated: 2026-07-01
+last_updated: 2026-09-01
 lang: en
 ---
 The Mexico vs Ecuador result at World Cup 2026 finished 2-0 to the co-hosts, and the sentence that explains the night is short: Mexico took the two clear openings a knockout tie tends to allow, and Ecuador took none. Julian Quinones drove in the first on twenty-two minutes and set up Raul Jimenez for the second on thirty-one, and inside that half-hour burst a forty-year weight lifted off a nation. This was Mexico's first victory in a World Cup knockout match since 1986, delivered at the Estadio Azteca, the same ground where the last one happened, in front of a crowd north of eighty thousand that turned a rain-delayed evening into a coronation.

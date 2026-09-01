@@ -9,7 +9,7 @@ excerpt: "Argentina vs Cape Verde prediction and preview for the World Cup 2026 
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
 author: "liam-ferris"
-last_updated: 2026-07-03
+last_updated: 2026-09-01
 lang: en
 ---
 There is a kind of World Cup night that the expanded format was built to produce, and Argentina vs Cape Verde is exactly that night. On one touchline stand the reigning world champions, a five-time finalist and the most decorated attacking group in the tournament, carrying Lionel Messi into what may be the last great knockout run of his career. On the other stand the smallest nation ever to reach a World Cup knockout round, an archipelago of roughly half a million people that arrived at the 2026 finals for the first time and refused to be pushed back out. This Argentina vs Cape Verde preview looks hard at both sides of that gap, because the numbers say one thing and the group stage kept whispering another, and a single-elimination tie in Miami is the place where those two voices finally get to argue it out.

@@ -9,7 +9,7 @@ excerpt: "California v. Trump is the H-1B fee lawsuit where twenty states beat t
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 60
 author: "william-knight"
-last_updated: 2026-07-01
+last_updated: 2026-09-01
 lang: en
 ---
 A single proclamation in September 2025 put a $100,000 charge on most new H-1B petitions filed from abroad, and within three months the H-1B fee lawsuit that would undo it was on a federal docket in Boston. That suit is California v. Trump, brought by a coalition of twenty states and decided on June 8, 2026, when Judge Leo T. Sorokin of the U.S. District Court for the District of Massachusetts vacated the charge as an unlawful tax imposed without the consent of Congress. Most accounts of that outcome jump straight to the holding and stop there. What they leave out is the case itself: who assembled the coalition, why these particular plaintiffs had the standing and the motive to sue, where they chose to file and why that choice mattered, how a complaint filed in December produced a final judgment by the following summer, and how this single action fits among the several parallel challenges that were moving through other courts at the same time. That procedural story is the subject of this analysis, and it is worth getting right, because the way the case was built shaped the result as much as the law that decided it.

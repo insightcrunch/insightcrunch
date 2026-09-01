@@ -9,7 +9,7 @@ excerpt: "South Africa vs Canada result and analysis: Stephen Eustaquio's 92nd-m
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-29
+last_updated: 2026-09-01
 lang: en
 ---
 For ninety minutes the South Africa vs Canada Round of 32 tie at World Cup 2026 looked like a match designed to die quietly, a tight, low-scoring stalemate dragging toward extra time and the lottery of penalties. Then, in the second minute of second-half stoppage time, Stephen Eustaquio chested down a half-cleared ball at the edge of the box, let it drop, and drove it into the bottom corner past Ronwen Williams. One swing of a tired leg settled everything. Canada beat South Africa 1-0 to become the first nation into the last 16 of this tournament, and the co-hosts reached a World Cup knockout round of 16 for the first time in their history. The single thing that explains the result is patience under pressure: South Africa built their entire afternoon around frustrating Canada, and the plan held until the precise moment it could not.

@@ -9,7 +9,7 @@ excerpt: "Colombia vs Portugal at World Cup 2026 is a Group K top-spot decider b
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "naomi-adebayo"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 Two teams already through, one place at the top of the group still open, and a question that decides far more than a line in a table: do you spend your last group game chasing first, or do you protect the players who will have to win you knockout ties? That is the tension that defines Colombia vs Portugal at World Cup 2026, the Group K finale in Miami where Nestor Lorenzo's side and Roberto Martinez's side meet with qualification secured and seeding on the line. Neither manager needs the points. Both want the position. The match that follows is a study in controlled ambition, two strong squads weighing the value of finishing first against the cost of getting there.

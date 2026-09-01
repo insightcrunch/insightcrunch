@@ -9,7 +9,7 @@ excerpt: "France vs Sweden World Cup 2026 result and ratings: a Kylian Mbappe br
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "daniel-okoro"
-last_updated: 2026-07-01
+last_updated: 2026-09-01
 lang: en
 ---
 France beat Sweden 3-0 in the World Cup 2026 Round of 32, and the scoreline tells only the gentle half of the story. Kylian Mbappe scored either side of half-time, Bradley Barcola drove home the second, and Michael Olise conducted the whole thing from the right half-space in a display that turned a knockout tie into an exhibition. The one thing that explains this result is not Mbappe's finishing, elite as it was; it is the gap in class between the two front lines, and specifically the axis between Olise and Mbappe that Sweden had no answer for. Graham Potter set his side up to survive, and for roughly forty minutes they did. Then the dam broke, and once it did, the only real question left was how many France would score before Didier Deschamps started thinking about Paraguay.

@@ -9,7 +9,7 @@ excerpt: "Argentina vs Cape Verde result and analysis: how the World Cup 2026 ho
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 69
 author: "bruno-carvalho"
-last_updated: 2026-07-04
+last_updated: 2026-09-01
 lang: en
 ---
 The Argentina vs Cape Verde result at World Cup 2026 reads 3-2 to the reigning champions, and the scoreline alone hides almost everything that made the night remarkable. Argentina reached the Round of 16 in Miami, but they got there in the 111th minute of a knockout tie the bookmakers had already filed as a formality, off a corner that a header turned into an own goal, after the smallest nation ever to reach this stage had twice pulled level and once stood a single deflection away from a penalty shootout. The single thing that explains the match is this: Cape Verde did not defend for a draw and hope, they attacked the holders with a plan, and for long stretches that plan worked. Argentina were better, deeper, and more decorated, and Argentina still needed extra time, a goalkeeper of their own making late saves, and a slice of fortune to avoid the greatest upset the competition has seen.

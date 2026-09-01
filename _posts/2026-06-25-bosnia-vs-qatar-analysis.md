@@ -9,7 +9,7 @@ excerpt: "Bosnia vs Qatar World Cup 2026 finished 3-1 as a teenage stunner and v
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 61
 author: "carlos-mendez"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 Bosnia and Herzegovina beat Qatar 3-1 in their final Group B game at World Cup 2026, and the single image that explains the night is an 18-year-old leaning back on the edge of the box and bending a shot into the far corner. Kerim Alajbegovic, the youngest player his country has ever sent to a World Cup, settled a do-or-die fixture in Seattle with a goal that would not have looked out of place in a final, and around that flash of youth the older heads in Sergej Barbarez's side did the unglamorous work that carried them third in the group and on toward the Round of 32. Qatar, the 2022 hosts, went home from a second straight World Cup without a win.

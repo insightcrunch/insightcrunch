@@ -9,7 +9,7 @@ excerpt: "Portugal vs Croatia World Cup 2026 Round of 32 preview: Ronaldo faces 
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-07-02
+last_updated: 2026-09-01
 lang: en
 ---
 One question hangs over Toronto before Portugal vs Croatia in the World Cup 2026 Round of 32: which set of veterans still has one more knockout night left in them. This is the tie the bracket delivered when a proud, unfulfilled Portugal finished second in Group K and an experienced, stubborn Croatia finished second in Group L, and it pairs Cristiano Ronaldo against Luka Modric one more time on the biggest stage the sport offers. It is single elimination, so it is win or fly home, and everything either side has built across two decades narrows to ninety minutes and, if needed, thirty more.

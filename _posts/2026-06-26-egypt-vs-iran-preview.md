@@ -9,7 +9,7 @@ excerpt: "Egypt vs Iran World Cup 2026 preview: prediction, likely lineups, head
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 61
 author: "yuki-mori"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 Group G arrives at its final ninety minutes with one fixture carrying a contradiction at its core, and that contradiction is the most useful thing to understand about Egypt vs Iran at World Cup 2026. Egypt need only a point in Seattle to reach the knockout stage of a World Cup for the first time in the group-stage era, which means Hossam Hassan can build his plan around control, patience, and the counter-attack Mohamed Salah was made for. Iran, level on points with Belgium but yet to win a game, need three points to be certain of anything, and Amir Ghalenoei has spent two matches building a back five designed above all not to lose. A team set up to avoid defeat now has to chase a victory. That tension, between the shape Iran trust and the result Iran require, is the fault line this match will be decided along.

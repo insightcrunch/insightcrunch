@@ -9,7 +9,7 @@ excerpt: "Cape Verde vs Saudi Arabia World Cup 2026 analysis: a goalless draw in
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "liam-ferris"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 Cape Verde 0-0 Saudi Arabia did not produce a goal, and that is the whole point of this Cape Verde vs Saudi Arabia World Cup 2026 analysis: the smallest nation ever to reach the knockout phase of a men's World Cup got there without scoring a single time in their final group game, and without conceding either. On a humid night at Houston Stadium the islanders held the line they have held all tournament, soaked up the only spell of genuine Saudi pressure, created the better chances themselves, and walked off with the point that turned a debut appearance into a place in the Round of 32. The one thing that explains the result is not a moment of attacking inspiration but a goalkeeper: Vozinha, forty years old, kept his second clean sheet of the tournament and smothered the one Saudi effort that could have changed history in stoppage time. Saudi Arabia needed to win and could not, and their World Cup ended bottom of Group H.

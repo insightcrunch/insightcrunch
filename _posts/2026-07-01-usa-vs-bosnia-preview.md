@@ -9,7 +9,7 @@ excerpt: "USA vs Bosnia World Cup 2026 Round of 32 preview: prediction, predicte
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
 author: "aisha-rahman"
-last_updated: 2026-07-01
+last_updated: 2026-09-01
 lang: en
 ---
 The USA vs Bosnia World Cup 2026 Round of 32 tie poses one blunt question, and it has nothing to do with which side owns the better players on paper. It asks whether the United States, the highest-ranked team in their group and roared on by a home crowd in Santa Clara, can impose a tempo game on a Bosnia and Herzegovina side built to slow everything down, win the air, and drag ninety minutes into the kind of low-event, physical grind where a single set-piece decides a knockout. Get that answer right and the co-hosts stride into the last 16. Get it wrong and the tournament ends on the first Wednesday of July, in front of the very supporters who came to watch a run. That is the whole tie in one sentence, and everything below unpacks it.

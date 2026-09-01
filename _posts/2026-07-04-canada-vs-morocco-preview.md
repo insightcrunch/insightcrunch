@@ -9,7 +9,7 @@ excerpt: "Canada vs Morocco World Cup 2026 Round of 16 preview: the co-hosts cha
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
 author: "daniel-okoro"
-last_updated: 2026-07-04
+last_updated: 2026-09-01
 lang: en
 ---
 Can a co-host with no knockout history at the World Cup outlast one of the most street-smart tournament teams on the planet? That is the question Canada vs Morocco poses in the Round of 16 of World Cup 2026, and it is the question that will define a Saturday afternoon in Houston. Canada have never reached the last eight of a World Cup, never even reached the last sixteen until this summer. Morocco stood in a World Cup semifinal four years ago and have spent the years since insisting it was no accident. One of those stories bends further this weekend. The other ends.

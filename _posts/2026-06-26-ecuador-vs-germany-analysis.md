@@ -9,7 +9,7 @@ excerpt: "Ecuador vs Germany finished 2-1 as Ecuador stunned the Group E winners
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 Ecuador needed a win and got one, and the manner of it reframed their World Cup 2026. Ecuador vs Germany was billed as a dead rubber for the side already through and a final reckoning for the side staring at the exit, and across ninety minutes at MetLife Stadium the supposed formality became the upset of the group stage. Ecuador beat Germany 2-1, recovering from a goal down inside two minutes to win the duels, win the second half, and win a place in the round of 32. The single thing that explains the result is the one Germany could not solve: every time the game settled into a contest of first contacts and loose balls in midfield, Ecuador won it, and twice they turned that small advantage into a goal.

@@ -9,7 +9,7 @@ excerpt: "Jordan vs Argentina analysis: Messi came off the bench for a World Cup
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "sofia-marchetti"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 Argentina finished the World Cup 2026 group stage exactly the way the reigning champions wanted to, and the Jordan vs Argentina analysis from a warm night under the closed roof in Arlington reads as a study in control rather than drama. The holders won 3-1, took nine points from nine, and topped Group J without ever looking troubled, yet the lasting image came in the eightieth minute, when a 39-year-old substitute curled a free kick into the bottom corner and became the first footballer to score in seven consecutive World Cup matches. Giovani Lo Celso and a Lautaro Martinez penalty had already done the structural work; Lionel Messi arrived to write the headline. Mousa Al-Tamari's reply gave Jordan a moment to keep from their first World Cup, but the result was settled long before the substitutes changed its complexion.

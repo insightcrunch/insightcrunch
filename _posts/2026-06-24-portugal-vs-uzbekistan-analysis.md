@@ -9,7 +9,7 @@ excerpt: "Portugal vs Uzbekistan result and analysis: Ronaldo's record brace pow
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 68
 author: "aisha-rahman"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 Five days of questions answered in six minutes. Portugal vs Uzbekistan at World Cup 2026 had been framed as a referendum on whether a 41-year-old captain still belonged in the starting eleven, and Cristiano Ronaldo settled the argument before the Houston crowd had finished finding its seats. His opener after six minutes was the first beat of a 5-0 rout, and by the time he had added a second and rewritten a stack of tournament records, the only debate left was how far this Portugal side can go. The number that defines this match is not the five goals. It is the six minutes it took Portugal to turn a week of doubt into a statement.

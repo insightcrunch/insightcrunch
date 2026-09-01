@@ -9,7 +9,7 @@ excerpt: "Lollapalooza by the numbers: a handful of stages, well over a hundred 
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-06-29
+last_updated: 2026-09-01
 lang: en
 ---
 Search for Lollapalooza by the numbers and you will find a wall of confident figures, each one slightly different from the last, none of them showing its work. One page swears the festival has a precise stage count. Another quotes an attendance figure down to the last person. A third gives an act total that a fourth flatly contradicts. The reader who wanted a clear sense of scale walks away with four numbers and no way to tell which, if any, is right. That is the trap this page refuses to set. The honest way to quantify a festival this large is not to invent precision the organizers themselves do not publish; it is to give durable, ranged figures that hold from one edition to the next and let a reader grasp the real magnitude without being lied to about the decimal places.

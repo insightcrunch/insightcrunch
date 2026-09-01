@@ -9,7 +9,7 @@ excerpt: "South Africa vs South Korea result and analysis: Maseko's strike sent 
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 South Africa beat South Korea 1-0 in Monterrey to reach the knockout stage of a World Cup for the first time in their history, and the single thing that explains the result at World Cup 2026 is a decision South Korea made before a ball was kicked. Hong Myung-bo left his captain, Son Heung-min, on the bench for a winner-takes-second-place Group A decider, asked his side to control the game without their one reliable source of a goal, and watched them dominate possession to no end while Thapelo Maseko punished the one moment Bafana Bafana needed. The night turned on that call, and so did the qualification race behind group winners Mexico. This analysis works through how a low-event match was won and lost, why the gamble failed, who decided it, and what it leaves for both nations.

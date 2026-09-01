@@ -9,7 +9,7 @@ excerpt: "Brazil vs Norway analysis: Erling Haaland's second-half brace toppled 
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-07-06
+last_updated: 2026-09-01
 lang: en
 ---
 Brazil lost a World Cup knockout tie they should have settled before the interval, and the scoreline that will follow them out of the tournament reads Brazil 1-2 Norway. This Brazil vs Norway analysis from the World Cup 2026 Round of 16 begins where the match turned, not where it ended, because the decisive act happened in the thirty-eighth minute rather than the seventy-ninth. Orjan Nyland dived low and pushed away Bruno Guimaraes' penalty, and from that save Norway drew the belief that a Haaland brace would later convert into the biggest result their football has ever produced. At the New York New Jersey Stadium in East Rutherford, the five-time champions dominated the ball, missed their moments, and were punished by a side built to wait.

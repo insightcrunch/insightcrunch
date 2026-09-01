@@ -9,7 +9,7 @@ excerpt: "Japan vs Sweden preview for the World Cup 2026 Group F decider: our pr
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "carlos-mendez"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 The single question that frames Japan vs Sweden at World Cup 2026 is whether a Sweden attack built around two elite center-forwards can force the one result Japan are determined not to concede. This is the Group F decider in Arlington, the final round of fixtures that sorts the section behind a Netherlands side that has set the early pace. Japan arrive on four points and in control of their own qualification. Sweden arrive on three points, behind on the table, and carrying the unforgiving knowledge that anything other than a win leaves their World Cup hanging on results elsewhere and on the cruel arithmetic of the best third-placed places.

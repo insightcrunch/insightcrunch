@@ -9,7 +9,7 @@ excerpt: "USA vs Bosnia World Cup 2026 analysis: how the ten-man USMNT beat Bosn
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 68
 author: "carlos-mendez"
-last_updated: 2026-07-02
+last_updated: 2026-09-01
 lang: en
 ---
 The story of USA vs Bosnia at World Cup 2026 is that the co-hosts won the match twice: once with eleven players and a clear tactical plan, and then again with ten and nothing but nerve. The United States beat Bosnia and Herzegovina 2-0 in the Round of 32 at San Francisco Bay Area Stadium in Santa Clara on July 1, 2026, and on the scoreboard it reads like the comfortable evening everyone forecast. Watch it back and the single thing that explains the night is not the finishing but the response to adversity: Folarin Balogun opened the scoring on the stroke of half-time, was then sent off just past the hour, and a side reduced to ten men held its shape for half an hour before Malik Tillman curled a free kick over the wall to settle it. A win that looked routine at the interval turned into a test of character, and the Americans passed it.

@@ -9,7 +9,7 @@ excerpt: "Australia vs Egypt in the World Cup 2026 Round of 32 is a knockout tie
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 61
 author: "bruno-carvalho"
-last_updated: 2026-07-03
+last_updated: 2026-09-01
 lang: en
 ---
 Someone walks off the field in Arlington on Friday having made history, and someone walks off knowing their World Cup is over. That is the whole shape of Australia vs Egypt in the World Cup 2026 Round of 32. There is no group table to fall back on, no third game to fix a bad afternoon, no calculation about goal difference that keeps a losing side alive. The Socceroos have reached the knockout phase of a World Cup for the third time and have never won a match once they got there. Egypt have reached this stage for the first time in the modern era, having never before survived a group at the tournament. Both records end the moment the final whistle blows at Dallas Stadium. One of these nations advances to the Round of 16; the other flies home.

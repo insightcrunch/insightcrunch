@@ -9,7 +9,7 @@ excerpt: "A festival slot buys reach with new strangers; a headline tour buys de
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 An artist gets two offers in the same week. One is a festival slot at Lollapalooza, a short set on a shared bill in front of a crowd that came for the poster, not for them. The other is a headline tour, a run of rooms the artist fills on their own name, playing a full set to people who bought a ticket to see exactly them. Both feel like the right answer, and most advice picks a side and defends it. The choice between a festival slot and a headline tour is not a matter of taste or nerve. It is a career decision with a structure, and that structure is what this page lays out.

@@ -9,7 +9,7 @@ excerpt: "Spain vs Austria in the World Cup 2026 Round of 32: the reigning Europ
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-07-02
+last_updated: 2026-09-01
 lang: en
 ---
 Spain vs Austria is the World Cup 2026 Round of 32 tie that asks a very old football question in a very modern setting: what happens when a team built to keep the ball meets a team built to hunt it. Spain arrive in Los Angeles as the reigning European champions and one of the three sides the bookmakers still rank above the rest, a possession machine that conceded nothing across a group stage it won without ever quite catching fire. Austria arrive as survivors, a Ralf Rangnick pressing side that reached this single-elimination round by the width of a stoppage-time header and now has one afternoon to turn energy into an upset. Everything about this fixture lives in the tension between those two identities, and that is what makes it the most instructive first-round knockout on the schedule.

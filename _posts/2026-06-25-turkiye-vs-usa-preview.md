@@ -9,7 +9,7 @@ excerpt: "Turkiye vs USA prediction and preview for the World Cup 2026 Group D f
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 What does a team play for once it has already won its group? That single question hangs over Turkiye vs USA at World Cup 2026, the Group D finale at SoFi Stadium in Los Angeles on June 25, and it is the reason this fixture is more interesting than a glance at the table suggests. The United States arrive having sealed top spot with a game to spare, their place in the Round of 32 confirmed, their seeding settled. Turkiye arrive at the opposite end of the same group, two defeats into a tournament return that took twenty-four years to arrange, chasing a first win and the pride of leaving a major stage on their own terms rather than someone else's scoreline. The mismatch in standings is real, yet the contest underneath it is not a dead rubber. It is an audition.

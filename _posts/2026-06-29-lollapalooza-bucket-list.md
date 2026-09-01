@@ -9,7 +9,7 @@ excerpt: "A Lollapalooza bucket list built from the festival's signature experie
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-29
+last_updated: 2026-09-01
 lang: en
 ---
 A Lollapalooza bucket list is the shortlist of things you would regret leaving Grant Park without doing, and most versions of it are thin because they copy a lineup poster and call it a plan. This one does the opposite. It starts from what the festival reliably delivers no matter who is booked, then names the experiences that earn a place on the list, orders them by payoff, and shows how to actually check them off across four crowded days. The reader this serves is the fan who wants a real answer to what not to miss, not a headliner recap that expires the moment the next roster drops.

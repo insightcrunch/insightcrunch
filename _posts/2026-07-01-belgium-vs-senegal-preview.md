@@ -9,7 +9,7 @@ excerpt: "Belgium vs Senegal prediction, predicted lineups and key battles for t
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 68
 author: "bruno-carvalho"
-last_updated: 2026-07-01
+last_updated: 2026-09-01
 lang: en
 ---
 The single question that hangs over Belgium vs Senegal in the World Cup 2026 Round of 32 is simple to ask and hard to answer: can a Belgian golden generation that has spent a decade being called talented but soft finally win the knockout tie it is supposed to win, or do Senegal's speed and belief drag the Red Devils into exactly the kind of chaotic, transition-heavy afternoon that has undone them before? This is a first-ever meeting between the two nations, staged at Lumen Field in Seattle on July 1, and it carries the full weight of single-elimination football. There is no second leg, no group-stage safety net, no chance to lose and regroup. One side walks into the last sixteen of the World Cup 2026. The other flies home.

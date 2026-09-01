@@ -9,7 +9,7 @@ excerpt: "Morocco beat Haiti 4-2 at World Cup 2026 to reach the Round of 32 as G
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "carlos-mendez"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 Morocco are through to the Round of 32, and they got there the hard way. The Atlas Lions beat Haiti 4-2 in their final Group C match of World Cup 2026 at Atlanta's Mercedes-Benz Stadium, but the scoreline flatters a night on which they twice trailed an eliminated side that had not scored a single goal in 52 years of waiting. The one thing that explains this result is the gap between Morocco's process and Morocco's personnel. By the underlying numbers this was a thrashing waiting to happen, with the Atlas Lions piling up chances and territory against opponents with nothing left to qualify for. By the run of play it was chaos, a game Morocco kept handing back through soft concessions before two substitutes, Soufiane Rahimi and Gessime Yassine, finally settled it inside the last quarter of an hour. Morocco won, sealed second place, and advanced. They also showed any future opponent exactly where to push.

@@ -8,6 +8,7 @@ reading_time: 60
 tags: [world-cup-2026, round-of-32, switzerland, algeria, knockout]
 author: "insight-crunch-team"
 lang: en
+last_updated: 2026-09-01
 ---
 Switzerland vs Algeria is the Round of 32 tie that fuses cold Swiss efficiency with the raw, unpredictable belief of a North African side that refused to go quietly. When these two nations walk out at BC Place in Vancouver, the group stage will already be a closed book, and the maths that governed six weeks of qualification will collapse into a single, brutal truth. One team advances to the Round of 16. The other flies home. There is no draw to fall back on, no second leg to repair a bad night, no table to hide inside. This is knockout football at its most concentrated, and both sides arrive knowing it.
 

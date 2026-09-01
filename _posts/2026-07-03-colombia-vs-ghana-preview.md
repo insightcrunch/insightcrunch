@@ -9,7 +9,7 @@ excerpt: "Colombia vs Ghana World Cup 2026 preview: prediction, predicted lineup
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-07-03
+last_updated: 2026-09-01
 lang: en
 ---
 One question hangs over the Colombia vs Ghana World Cup 2026 Round of 32 tie in Kansas City, and it is not about talent, because the gap there is plain. It is about patience. Colombia arrive as Group K winners, unbeaten, coached by a man who has spent two years teaching them to control games rather than chase them. Ghana arrive through the back door as a best third-placed side, coached by a survivor who has made a long career out of frustrating better teams. The tie is a straight knockout, win or go home, and the whole ninety minutes reduces to a single contest: can Ghana's low block hold long enough to steal a night that the run of play says belongs to Colombia? That is the control-versus-counter question that defines this fixture, and everything below is built around it.

@@ -9,7 +9,7 @@ excerpt: "Canada vs Morocco result and analysis: Morocco win 3-0 in the World Cu
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 68
 author: "carlos-mendez"
-last_updated: 2026-07-05
+last_updated: 2026-09-01
 lang: en
 ---
 Canada vs Morocco was meant to be the night the co-hosts announced themselves, and for forty-five minutes inside a roaring Houston Stadium it looked like exactly that. Then the World Cup 2026 Round of 16 turned on its clinical axis. Morocco, unhurried and untroubled by a first half they largely lost, scored three times after the interval to win 3-0, book a second straight quarterfinal, and send Canada out as the first co-host eliminated from the tournament. The result reads like a rout. The ninety-eight minutes that produced it did not, and the gap between the two truths is the whole story of this game.

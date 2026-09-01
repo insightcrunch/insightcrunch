@@ -9,7 +9,7 @@ excerpt: "Egypt vs Iran finished 1-1 at World Cup 2026, a saved penalty and a st
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 61
 author: "sebastian-vogt"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 Egypt advanced from Group G at World Cup 2026 without playing their best football, and the Egypt vs Iran analysis has to begin there, because the truth of the night in Seattle is that the better side over ninety minutes went home. Egypt drew 1-1 with Iran at Lumen Field on June 26, clung to a point they had targeted from kickoff, and finished second in the group on goal difference. Iran created the clearer chances, won a penalty, hit the woodwork, and had what looked like a stoppage-time winner chalked off for offside by the video review. The margin between qualification and elimination was not a goal. It was two frames: a goalkeeper diving the right way in the twelfth minute, and an assistant referee's flag in the ninety-third. Name that margin and you have named the match.

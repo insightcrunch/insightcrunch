@@ -9,7 +9,7 @@ excerpt: "The H-1B fee ruling belongs to a line of decisions demanding clear aut
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 60
 author: "marcus-hall"
-last_updated: 2026-07-08
+last_updated: 2026-09-01
 lang: en
 ---
 In the spring of 1952, with steelworkers set to strike and a war running in Korea, President Truman ordered the federal government to seize the nation's steel mills and keep them running. He did not point to a statute that let him do it; he pointed to the emergency and to the office. The Supreme Court told him no. Seizing private mills was lawmaking, the Court held in Youngstown Sheet and Tube Company v. Sawyer, and lawmaking belongs to Congress, however urgent the moment looked from the Oval Office. Seventy-four years later, a different president reached for a different instrument, a $100,000 charge on certain new H-1B petitions imposed by proclamation, and a federal court in Massachusetts answered in the same register. The H-1B fee ruling is, on its surface, an immigration decision. Read against the longer record, it is one more entry in a line of cases insisting that when the executive claims a power of vast economic reach, the authority has to be granted plainly, not assumed.

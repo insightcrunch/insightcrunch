@@ -9,7 +9,7 @@ excerpt: "Switzerland vs Colombia is the World Cup 2026 Round of 16's tightest t
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-07-07
+last_updated: 2026-09-01
 lang: en
 ---
 Two teams have arrived at the World Cup 2026 Round of 16 by refusing to lose, and only one of them can carry that habit into the quarterfinals. Switzerland vs Colombia in Vancouver on July 7 is the tie that the bracket-watchers circled the moment the last sixteen was set, not because it promises goals but because it promises the opposite: a chess match between two of the most organized sides left in the tournament, decided by whichever one blinks first. Switzerland come in unbeaten, top of their group, fresh from a clean and controlled win in the Round of 32. Colombia come in unbeaten too, having conceded almost nothing across a month of football, carrying a spine that has learned how to win tight games and a front line good enough to punish a single lapse.

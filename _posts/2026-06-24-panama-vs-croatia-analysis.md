@@ -9,7 +9,7 @@ excerpt: "Panama vs Croatia result and analysis: Ante Budimir's 54th-minute Worl
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 Croatia beat Panama 1-0 in Toronto, and the single thing that explains the result is the bench. For an hour at the FIFA World Cup 2026 the 2018 finalists looked like a side carrying the weight of an opening defeat, controlling the ball without threatening the goal, until Zlatko Dalic gambled at half-time and Ante Budimir, on for nine minutes, finished a Josip Stanisic cross to settle the most consequential 1-0 of Group L so far. The Panama vs Croatia result kept Croatia alive and sent Panama out of the World Cup 2026, and it did so on a night when the better chances, not the better hour, decided everything.

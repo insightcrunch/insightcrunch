@@ -9,7 +9,7 @@ excerpt: "Lollapalooza trivia and fun facts that hold up: the farewell-tour orig
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 The best Lollapalooza trivia is the kind you can say out loud in a food line and watch someone stop chewing. Not a number nobody can verify, not a record with no source, but a true and surprising fact about how this festival came to exist. Lollapalooza trivia works because the real story is stranger than the invented one: a farewell tour that refused to end, a name pulled out of a forgotten slang dictionary, a traveling road show that died twice before it found a permanent home on a Chicago lakefront. This page collects the fun facts worth sharing, the little-known history that holds up when someone asks "wait, is that real," and the surprising origins that most festival pages give a single sentence and move past.

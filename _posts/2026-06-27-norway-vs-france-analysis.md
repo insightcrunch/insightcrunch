@@ -9,7 +9,7 @@ excerpt: "Norway vs France finished 1-4 at World Cup 2026 as Ousmane Dembele sco
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
 author: "daniel-okoro"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 The single fact that explains Norway vs France at World Cup 2026 is the one each coach made before kickoff. France named close to their strongest side. Norway named almost none of theirs. From that asymmetry came a 1-4 result in Foxborough that handed France the top of Group I, sent Ousmane Dembele off the field with the match ball and a first-half hat trick, and pointed the two nations down very different corridors of the Round of 32 bracket. The scoreline reads like a mismatch. The truth is more interesting: this was two squads spending their depth in opposite ways, and the team that could afford to keep its stars on the pitch turned a settled group into a seeding statement.

@@ -9,7 +9,7 @@ excerpt: "Jordan vs Argentina World Cup 2026 preview: Group J is already won, so
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 How do you ask Lionel Messi to sit down? That is the strange question hanging over Jordan vs Argentina at World Cup 2026, the final Group J fixture in Dallas on June 27, and it tells you almost everything about the night. The reigning champions have already won the group and locked their place in the Round of 32. The debutants have already been eliminated. Neither table position can change here. What remains is a holders' side deciding how hard to push a perfect record against a first-time nation determined to leave its maiden tournament with something to remember, and a manager weighing the temptation of one more Messi cameo against eleven fresh days before the knockouts.

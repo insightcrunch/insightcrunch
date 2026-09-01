@@ -9,7 +9,7 @@ excerpt: "Belgium vs Senegal World Cup 2026 result and analysis: how Tielemans's
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 68
 author: "liam-ferris"
-last_updated: 2026-07-02
+last_updated: 2026-09-01
 lang: en
 ---
 Belgium were beaten for eighty-five minutes and one moment saved them. In the World Cup 2026 Round of 32 at Lumen Field in Seattle, Senegal built the game they wanted, led it 2-0 with the clock running down, and lost it 3-2 after extra time to a penalty converted deep into the second additional period. Youri Tielemans scored the last two Belgium goals of the night, a header to force extra time and a spot-kick timed at 124 minutes and 44 seconds to finish it, the latest goal ever recorded at a men's World Cup. The single thing that explains this result is not a system or a substitution pattern, though both matter to the story. It is that one side kept its composure through a seven-minute delay while the other lost the thread of a match it had controlled almost from the first whistle.

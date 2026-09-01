@@ -9,7 +9,7 @@ excerpt: "Paraguay vs Australia World Cup 2026 preview: prediction, team news wi
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "carlos-mendez"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 Two nations arrive in the San Francisco Bay Area on the same number of points, with the same two-game record, chasing the same single prize, and only one obvious difference between them: a two-goal cushion that sits entirely on Australia's side of the ledger. That is the question Paraguay vs Australia poses on the final night of Group D at World Cup 2026. Both have beaten Turkiye, both have lost to the host United States, and both will finish in the top three of a group the Americans have already won. Yet the math does not treat them equally. Australia can walk into the knockout rounds with a draw because their goal difference is better. Paraguay, sitting on minus two and missing the one player who unlocks defenses, almost certainly have to win. Everything about how these two managers set up flows from that asymmetry.

@@ -9,7 +9,7 @@ excerpt: "Croatia vs Ghana analysis from World Cup 2026: how Petar Sucic and a l
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 Croatia beat Ghana 2-1 in Philadelphia, and the single line that explains the World Cup 2026 Group L finale is that quality, not control, settled second place. Ghana built the better cumulative chances and forced the game level after the break, yet Croatia took the two moments that mattered. Petar Sucic struck from distance in the first half, Derrick Luckassen levelled for Ghana just past the hour, and Nikola Vlasic headed the winner with seven minutes left to lift Zlatko Dalic's side above the Black Stars and into the runner-up berth behind England. This Croatia vs Ghana analysis works through how that happened, why the result fell the way it did, and what it set up in the knockout bracket.

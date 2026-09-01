@@ -9,7 +9,7 @@ excerpt: "Colombia vs Portugal result and analysis from World Cup 2026: a goalle
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 68
 author: "liam-ferris"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 Colombia vs Portugal at World Cup 2026 ended goalless, and the scoreline is the least interesting thing about it. The 0-0 draw at Hard Rock Stadium in Miami sent Colombia to the top of Group K and left Portugal as runners-up, exactly the order most of the pre-match math pointed toward, yet the ninety minutes that produced it were anything but the cautious dead rubber that two already-qualified sides might have served up. Colombia created the better and more numerous chances, hit the woodwork of their own profligacy again and again, and had a stoppage-time winner ruled out by a toe. Portugal survived through Diogo Costa's gloves and Cristiano Ronaldo's quietest night of the group stage. Both teams advanced. Only one of them controlled where they were going.

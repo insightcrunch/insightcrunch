@@ -9,7 +9,7 @@ excerpt: "Australia vs Egypt result and analysis: Egypt win the World Cup 2026 R
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "grace-whitmore"
-last_updated: 2026-07-04
+last_updated: 2026-09-01
 lang: en
 ---
 The result of the Australia vs Egypt World Cup 2026 Round of 32 tie was decided by the coolest of heads on the most nerve-shredding of nights, and it explains everything about how Egypt reached a first knockout round in their history. The ninety minutes finished level, extra time settled nothing, and a contest that had swung on a single moment in each half went the distance to a penalty shootout in Dallas. There, with the pressure at its most unforgiving, Egypt held their nerve from twelve yards while Australia blinked. The Pharaohs converted four spot kicks without a stumble, the Socceroos missed two, and a 1-1 draw became a 4-2 shootout victory that carried Egypt into the last sixteen and sent Australia home. The nerve from the spot, not the run of play across two hours of football, is the thing that separated these teams.

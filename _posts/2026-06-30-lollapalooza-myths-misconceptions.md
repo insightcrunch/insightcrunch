@@ -9,7 +9,7 @@ excerpt: "Lollapalooza myths about camping, re-entry, bags, and origin wreck pla
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-30
+last_updated: 2026-09-01
 lang: en
 ---
 The most expensive Lollapalooza myths and misconceptions do not fail because of bad luck. They fail because a fan believed something about the festival that was never true, and acted on it. A first-timer packs a comfortable backpack because a friend swore bags were fine, then stands at the gate watching security turn the bag away. A group books a campsite an hour out because someone read that this was a camping festival, then discovers there is nowhere on site to pitch a tent and no shuttle built for campers. A planner assumes they can duck out for a proper lunch and return refreshed, then learns at the exit that the wristband does not work that way. Every one of these gate-day surprises traces back to a Lollapalooza myth that spread faster than the fact that would have corrected it.

@@ -9,7 +9,7 @@ excerpt: "Senegal vs Iraq result and analysis: how a 5-0 World Cup 2026 rout in 
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 59
 author: "naomi-adebayo"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 Senegal needed goals, not just a win, and at the Toronto Stadium they produced a flood of them. The Senegal vs Iraq result at World Cup 2026 read 5-0, a scoreline that flattered no one and rewrote a small slice of the record books, as the Lions of Teranga became the first African nation to put five past an opponent in a single match at a World Cup finals. The margin was exactly what their qualification arithmetic demanded, and it arrived because a stodgy, frustrating opening hour finally cracked open into a second-half avalanche. One decision, more than any single piece of brilliance, set the platform: a 13th-minute red card that handed Senegal a man advantage they would eventually punish without mercy.

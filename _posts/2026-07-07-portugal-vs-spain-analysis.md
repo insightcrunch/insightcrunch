@@ -9,7 +9,7 @@ excerpt: "Portugal vs Spain analysis: Mikel Merino's stoppage-time winner sent S
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-07-07
+last_updated: 2026-09-01
 lang: en
 ---
 For eighty-nine minutes this Portugal vs Spain World Cup 2026 Round of 16 tie in Dallas looked destined to be settled by the smallest of margins or by no margin at all, a chess match between two Iberian neighbors who know each other far too well to be surprised by anything. Then Luis de la Fuente's bench decided it. Ferran Torres, on as a substitute, slid a pass into the six-yard box, and Mikel Merino, another substitute, met it with a cool left-footed finish in the first minute of second-half stoppage time. Spain won 1-0, reached the quarterfinals, and sent Cristiano Ronaldo out of his final World Cup in tears at the AT&T Stadium.

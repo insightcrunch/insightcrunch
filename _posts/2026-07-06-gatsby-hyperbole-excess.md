@@ -9,7 +9,7 @@ excerpt: "Hyperbole and excess in Fitzgerald's style turn overstatement into met
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2026-07-06
+last_updated: 2026-09-01
 lang: en
 ---
 Read the party scenes in Chapter 3 out loud and something happens to your breathing. The sentences swell. Caterers arrive with several hundred feet of canvas, oranges turn into pulpless halves by the crate, an orchestra becomes a whole pit of instruments, and the prose keeps adding when a plainer writer would have stopped. Hyperbole and excess in Fitzgerald's style are not accidents of an excited young author who could not edit himself. They are a controlled technique, an overstatement calibrated to match a world built on overstatement, and the central argument of this article is that the excess in the writing is a diagnosis of the excess in the life. The prose does not merely describe Gatsby's extravagance; it performs it, and it swells on purpose so that the collapse, when it comes, can be measured against the height from which everything falls.

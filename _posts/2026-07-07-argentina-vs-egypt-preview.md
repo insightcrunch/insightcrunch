@@ -9,7 +9,7 @@ excerpt: "Argentina vs Egypt World Cup 2026 Round of 16 preview: Messi and the c
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-07-07
+last_updated: 2026-09-01
 lang: en
 ---
 Argentina vs Egypt in the World Cup 2026 Round of 16 asks one blunt question before a ball is kicked in Atlanta: can a side that has never before survived a World Cup group stage stand in a knockout tie for ninety minutes, and if necessary through extra time and penalties, against the reigning champions and the highest scorer the competition has ever produced? That is the frame for this Round of 16 preview. On one touchline stands Lionel Scaloni, whose Argentina arrive as holders chasing a second successive title. On the other stands Hossam Hassan, whose Egypt have already rewritten their own history simply by reaching this stage. The prize on July 7 is a place in the quarterfinals, and only one of these nations will keep walking.

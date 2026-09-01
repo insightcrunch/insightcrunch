@@ -9,7 +9,7 @@ excerpt: "The H-1B fee ruling split two federal judges who read the same $100,00
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 60
 author: "gregory-marsh"
-last_updated: 2026-07-04
+last_updated: 2026-09-01
 lang: en
 ---
 Two federal judges looked at the identical $100,000 charge on new H-1B petitions, applied recognizably similar tools of statutory reading, and walked out with directly opposite results. One upheld it as a lawful condition on entry. The other struck it down as a tax that only Congress can impose. The H-1B fee ruling that drew national attention in June 2026 was not the first word a court had spoken on the subject; it was the second, and it contradicted the first. Understanding why the two decisions diverged is more useful than reading either one alone, because the divergence exposes the single hinge on which the entire legal question turns.

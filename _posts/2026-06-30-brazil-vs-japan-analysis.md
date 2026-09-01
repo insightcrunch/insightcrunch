@@ -9,7 +9,7 @@ excerpt: "Brazil vs Japan result and analysis: Gabriel Martinelli's stoppage-tim
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 68
 author: "daniel-okoro"
-last_updated: 2026-06-30
+last_updated: 2026-09-01
 lang: en
 ---
 The Brazil vs Japan result at World Cup 2026 reads as a routine line in the record books, Brazil 2-1, five-time champions through to the Round of 16. The ninety-plus minutes that produced it were anything but routine. For an hour in Houston, Japan were the better team, ahead through Kaishu Sano and organized enough to make the Selecao look old, slow, and short of ideas. Brazil did not win this last-32 tie by controlling it. They won it because their bench carried more match-winning quality than Japan's, because Casemiro made amends for his own error, and because a substitute, Gabriel Martinelli, arrived in the fifth minute of stoppage time to spare a great footballing nation its earliest exit in a generation. That is the story this analysis tells, and it is a more honest one than the scoreline suggests.

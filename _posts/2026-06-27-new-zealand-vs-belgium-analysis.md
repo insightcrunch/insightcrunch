@@ -9,7 +9,7 @@ excerpt: "New Zealand vs Belgium analysis from World Cup 2026: how a Trossard br
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "sofia-marchetti"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 For two matches Belgium looked like a name without a team, a roster of reputations that could not score, and then in the space of one night at BC Place they remembered who they were. This New Zealand vs Belgium analysis from World Cup 2026 begins with the number that flipped the entire mood of a tournament for the Red Devils: 5-1, the first win of their campaign, the heaviest scoreline Group G produced, and the result that carried Rudi Garcia's side from third place to first. New Zealand, the lowest ranked nation in the field and the bravest of underdogs across two matches, met a side that had finally found its finishing, and the gap that had been hidden for a week opened up in front of a sold-out Vancouver crowd.

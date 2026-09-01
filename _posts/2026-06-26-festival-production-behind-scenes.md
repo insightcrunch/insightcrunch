@@ -9,7 +9,7 @@ excerpt: "Lollapalooza production turns a public park into a temporary festival 
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 Lollapalooza production is the part of the festival that almost no attendee ever watches, and it is the part that makes everything else possible. Before a single fan taps through the gates, before the first act sound-checks, before the food stalls fire up their grills, a temporary city has already been engineered onto the lakefront half of Grant Park in downtown Chicago. That city has stages tall enough to be seen from Michigan Avenue, miles of cable, its own power backbone, its own water and sanitation, its own security perimeter, and its own supply chain feeding hundreds of vendors. Then, days after the last headliner walks off, all of it disappears and the park becomes a park again. This article is the one page about how that happens: how the festival is produced, what goes on out of sight, how long the build takes, and how many people it takes to pull off.

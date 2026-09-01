@@ -10,7 +10,7 @@ tags: ["World Cup 2026", "Argentina", "Egypt", "Round of 16", "Lionel Messi", "M
 image: /assets/images/blog/blog-01.webp
 image_alt: "Argentina vs Egypt World Cup 2026 result and comeback analysis - Insight Crunch"
 reading_time: 73
-last_updated: 2026-07-08
+last_updated: 2026-09-01
 lang: en
 ---
 For seventy eight minutes at Atlanta Stadium, the story of this World Cup Round of 16 tie was written in the language of an upset. Egypt led the defending champions by two clear goals, their supporters were dreaming of a first quarterfinal in their history, and Lionel Messi had already suffered the indignity of a saved penalty in front of a stadium that had come to watch him extend his legend. Then, inside the space of thirteen breathless minutes, that story was torn up and rewritten. Cristian Romero headed in, Messi equalized with a milestone strike, and Enzo Fernandez settled the tie deep into stoppage time. Argentina 3, Egypt 2. The holders had looked beaten, and instead they marched on toward the last eight while a brave African side left the tournament with its head high and a sharp sense of what might have been.

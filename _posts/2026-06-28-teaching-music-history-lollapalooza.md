@@ -9,7 +9,7 @@ excerpt: "Teaching music history through Lollapalooza turns a single festival in
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 lang: en
 ---
 Teaching music history through Lollapalooza gives an educator something most textbooks never supply: a single, vivid story that carries the whole arc of modern popular music. One festival, born as a farewell tour and grown into a four-day event in a downtown park, holds the alternative movement, the widening of genre, the rise of the live-music economy, and the shift in how a generation discovers sound. A teacher who wants a cultural hook that students already half-recognize can open that story in a class period and keep pulling threads from it for a whole unit. This page is written for that teacher. It is not another history of the festival, and it does not try to be the archive; it is the lesson map that shows what the festival can teach, in what order, and where the documented material lives so a lesson stands on solid ground.

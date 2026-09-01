@@ -9,7 +9,7 @@ excerpt: "Portugal vs Croatia result and analysis: a Ronaldo penalty and a Gonca
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
 author: "carlos-mendez"
-last_updated: 2026-07-03
+last_updated: 2026-09-01
 lang: en
 ---
 Portugal vs Croatia at World Cup 2026 needed two moments of composure and one contested pixel of technology to separate the sides in the Round of 32, and Portugal found all three. Portugal beat Croatia 2-1 in Toronto on a night that swung from grinding stalemate to open drama and finally to the cruelest of endings for a Croatia side that thought it had forced extra time deep into stoppage. A Cristiano Ronaldo penalty cancelled out Ivan Perisic's second-half opener, and substitute Goncalo Ramos rose in the fourth minute of added time to head Portugal in front, before Josko Gvardiol's would-be equalizer was ruled out for an offside so fine it needed a sensor inside the ball to settle it. The result carries Portugal into the last 16 against Spain, and it ends a Croatia campaign, and perhaps a Croatia generation, with a decision the losing side will argue about for years.

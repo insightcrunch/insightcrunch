@@ -9,7 +9,7 @@ excerpt: "What booking agents look for is a proven draw, an act that reliably br
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 Every aspiring musician who dreams of a slot at Lollapalooza eventually runs into the same locked door, and almost nobody explains what is on the other side of it. What booking agents look for is the single most important thing an artist can understand about the live music business, because the agent and the festival talent buyer are the gatekeepers who decide which acts play the big stages and which ones keep circling the small ones. The lineup poster you see each year is not a list of the most talented musicians on earth. It is a list of the acts that a handful of agents represented well and a handful of talent buyers agreed to take a financial bet on. This article is for the artist, the manager, the band member, and the curious fan who wants to know how that bet gets made, what makes an act attractive to the people who fill festival stages, and how an artist earns the representation that opens those doors in the first place.

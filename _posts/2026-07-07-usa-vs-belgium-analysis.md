@@ -9,7 +9,7 @@ excerpt: "USA vs Belgium finished 1-4 as De Ketelaere's brace and two costly err
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
 author: "carlos-mendez"
-last_updated: 2026-07-07
+last_updated: 2026-09-01
 lang: en
 ---
 USA vs Belgium at the World Cup 2026 was billed as the night the co-hosts might finally reach a quarterfinal on home soil, and for a little more than half an hour it looked live. Then the game told a harder truth. Belgium won 1-4 in Seattle on July 6, and the score was not a freak of one bad moment. It was the sum of a quality gap Belgium had always carried and two defensive errors the United States could not afford against a side this efficient. Charles De Ketelaere scored twice inside the opening 33 minutes, Malik Tillman briefly leveled from a free kick, and after the break a goalkeeping mistake and a stoppage-time giveaway let Hans Vanaken and Romelu Lukaku turn a contest into a rout.

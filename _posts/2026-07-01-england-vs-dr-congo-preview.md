@@ -9,7 +9,7 @@ excerpt: "England vs DR Congo preview for the World Cup 2026 Round of 32: our pr
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
 author: "aisha-rahman"
-last_updated: 2026-07-01
+last_updated: 2026-09-01
 lang: en
 ---
 England vs DR Congo in the World Cup 2026 Round of 32 asks England a single, uncomfortable question: can a side ranked among the tournament favorites finally produce a clear, fluent performance when the safety net of the group stage is gone and one flat afternoon ends the whole campaign? Thomas Tuchel's team arrive in Atlanta as Group L winners with seven points and a growing sense that the results have been better than the football. DR Congo arrive as the story of the group stage, a side that had never won a World Cup match before June 27 and now finds itself ninety minutes, or more, from the last sixteen. This is knockout football at its starkest. Win and the pathway opens toward Mexico and the Estadio Azteca. Lose and the plane home leaves the next morning.

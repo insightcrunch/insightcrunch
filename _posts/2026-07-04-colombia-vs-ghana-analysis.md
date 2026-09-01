@@ -9,7 +9,7 @@ excerpt: "Colombia vs Ghana World Cup 2026 analysis: Jhon Arias struck early as 
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-07-04
+last_updated: 2026-09-01
 lang: en
 ---
 Colombia beat Ghana 1-0 in their World Cup 2026 Round of 32 tie at Kansas City Stadium, and the single thing that explains the result is that they scored their goal after fourteen minutes and never once let Ghana believe a second act was coming. Jhon Arias swept in a first-time finish at the back post, Los Cafeteros settled into the controlled, low-event rhythm that has defined their tournament, and the Black Stars spent the rest of a sweltering evening chasing a game they could not reach. The scoreline reads narrow. The performance behind it was anything but.

@@ -9,7 +9,7 @@ excerpt: "Ivory Coast vs Norway is a World Cup 2026 Round of 32 knockout: AFCON 
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-30
+last_updated: 2026-09-01
 lang: en
 ---
 Every knockout tie reduces to a single question, and Ivory Coast vs Norway in the World Cup 2026 Round of 32 poses one of the sharpest in the whole bracket: can a compact, transition-hungry side of African champions survive ninety minutes against a team built to funnel service toward the most lethal center forward on the planet? This is not a group game where a draw keeps hope alive. It is win or go home, one match in Dallas to decide who carries on and who flies back across the Atlantic with the tournament over. Emerse Fae's Ivory Coast arrive as the reigning kings of Africa. Stale Solbakken's Norway arrive with Erling Haaland leading the line and Martin Odegaard pulling the strings. The gap between the two is not one of quality so much as one of type, and the tie is a study in how you close that gap when there is no second leg to correct a mistake.

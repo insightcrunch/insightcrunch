@@ -9,7 +9,7 @@ excerpt: "The H-1B fee was vacated nationwide, not just enjoined. Vacatur erases
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 When Judge Leo T. Sorokin set aside the H-1B fee on June 8, 2026, the operative word in the order was not "wrong" but "vacated," and the operative phrase was not "for the plaintiff states" but "nationwide." That pairing is the whole story of how a single district court in Massachusetts erased a six-figure charge for every employer in the country, not only for the twenty states that sued. A reader who absorbs the difference between vacating a rule and enjoining its enforcement understands both why the relief reached a technology firm in Texas that filed nothing and a hospital in Florida that joined no coalition, and why that same reach is the single most appealable feature of the decision. The label sounds technical. The consequences are not.

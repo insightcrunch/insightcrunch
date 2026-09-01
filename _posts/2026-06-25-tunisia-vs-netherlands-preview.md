@@ -9,7 +9,7 @@ excerpt: "Tunisia vs Netherlands prediction, lineups and Group F scenarios for W
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
 author: "bruno-carvalho"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 One question frames Tunisia vs Netherlands at World Cup 2026: can a confident Dutch side, level on points with Japan at the summit of Group F, finish the job by the margin that keeps first place in their own hands? This is the final round of Group F, played at Kansas City Stadium, and it pairs a Netherlands team chasing top spot against a Tunisia side already eliminated and playing for nothing but pride and a measure of redemption. The maths is unusually clean and unusually cruel: the Dutch control their destiny, but only if they take care of their own result and keep an eye on the scoreboard in Texas, where Japan face Sweden at the same time. For Tunisia, the tournament is already over, and the question is whether the Eagles of Carthage can leave North America with a performance that reframes a difficult fortnight.

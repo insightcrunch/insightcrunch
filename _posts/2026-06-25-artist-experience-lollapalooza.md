@@ -9,7 +9,7 @@ excerpt: "The artist experience at Lollapalooza runs from the slot and soundchec
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 The artist experience at Lollapalooza is the part of the festival that most fans never see, and it is the part that aspiring performers most want to understand. From the field, the show reads as a single act on a stage, a crowd, and a set of songs. From behind the barricade, that same set is the visible tip of a professional festival operation built to move dozens of acts on and off many stages across four days without a gap. This article is written for two readers at once: the fan who has stood in Grant Park and wondered what the day looks like from the performer's side, and the working or rising artist trying to picture what a festival slot would actually feel like before chasing one.

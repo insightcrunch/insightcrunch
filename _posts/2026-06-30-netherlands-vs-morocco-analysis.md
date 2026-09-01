@@ -9,7 +9,7 @@ excerpt: "Netherlands vs Morocco result and analysis: Morocco win the World Cup 
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
 author: "sofia-marchetti"
-last_updated: 2026-06-30
+last_updated: 2026-09-01
 lang: en
 ---
 Morocco knocked the Netherlands out of the World Cup 2026 Round of 32 in Monterrey, winning 3-2 on penalties after a 1-1 draw that stretched through extra time, and the story of the night is contained in one decision and one header. The decision was Ronald Koeman's, to protect a Cody Gakpo goal with a five-man defensive block rather than press for a second. The header was Issa Diop's, glanced past Bart Verbruggen in the first minute of stoppage time to drag a game the Dutch had all but won back to level, and then to the spot, where the Atlas Lions held their nerve and the Oranje did not. Morocco advanced to face co-hosts Canada in the Round of 16. The Netherlands went home earlier than they have ever gone home from a World Cup they qualified for, undone once more from twelve yards.

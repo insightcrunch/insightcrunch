@@ -9,7 +9,7 @@ excerpt: "Ecuador vs Germany at MetLife decides Group E: a desperate Ecuador mus
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 69
 author: "sebastian-vogt"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 Group E saved its strangest test for last. One side has nothing left to win and every reason to protect itself. The other has everything still to play for and nothing yet to show for it. That is the contradiction at the heart of Ecuador vs Germany at World Cup 2026, the Group E finale at MetLife Stadium in East Rutherford on June 25. Germany are already through as group winners. Ecuador, with a single point and not one goal across two matches, must beat the best team in the section to keep their tournament alive. A draw sends them home. The arithmetic is brutal in its simplicity, and the night turns on whether a side that has created chances by the dozen can finally take one.

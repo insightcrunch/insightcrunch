@@ -9,7 +9,7 @@ excerpt: "How artists get booked at Lollapalooza runs through industry relations
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 The question of how artists get booked at Lollapalooza almost always arrives with a hidden assumption tucked inside it. Someone finishes a strong set at a packed club, watches the lineup announcement land, and thinks: there must be a way to send my music in and get on that stage. The hope is understandable, and it is the wrong shape. A festival lineup that size is not filled by an inbox. It is assembled by people whose full-time job is knowing which acts can hold a stage, draw a crowd, and fit a slot, and those people work almost entirely through the music industry's existing web of agents, managers, and relationships. Understanding that one fact changes the entire question from "where do I submit" to "how do I become the kind of act a talent buyer already wants."

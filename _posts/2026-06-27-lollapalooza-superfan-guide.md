@@ -9,7 +9,7 @@ excerpt: "A Lollapalooza superfan is built on mastery, not attendance count. Thi
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 Ask a room of festivalgoers who the real Lollapalooza superfan is, and someone will point to the person who has been the most times. That answer is comfortable, it is easy to measure, and it is wrong. A Lollapalooza superfan is not defined by a ticket stub count. The superfan is the person who knows how the grounds breathe across a day, who can read a lineup poster like a map, who understands why the festival sits where it sits and what it took to get there, and who moves through the weekend with a plan that looks effortless because the work happened months before the gates opened. Mastery, not mileage, is the thing that separates a superfan from a crowd of people who happen to hold the same wristband.

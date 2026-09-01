@@ -9,7 +9,7 @@ excerpt: "Uruguay vs Spain at World Cup 2026 decides Group H in Guadalajara, wit
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 slug: "uruguay-vs-spain-preview"
 lang: en
 ---

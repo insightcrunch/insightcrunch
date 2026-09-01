@@ -9,7 +9,7 @@ excerpt: "Switzerland vs Canada result and analysis: the Swiss won Group B 2-1 a
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "yuki-mori"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 Switzerland beat Canada 2-1 at BC Place in Vancouver to win Group B at World Cup 2026, and the whole afternoon turned on an eleven-minute window early in the second half. Both teams arrived already on course for the Round of 32, so this was never a fight for survival. It was a fight for first place, for seeding, and for the right shape of knockout draw, and Switzerland won all three. Ruben Vargas struck within a minute of the restart, Johan Manzambi doubled the lead soon after, and although Promise David pulled one back with his first touch off the Canada bench, the co-hosts could not find the equalizer their second-half pressure deserved. The single thing that explains this result is the speed and the timing of the Swiss punch: two goals in eleven minutes, against the run of much of the play, that flipped the entire group on its head.

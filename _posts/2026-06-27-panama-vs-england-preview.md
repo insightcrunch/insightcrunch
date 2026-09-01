@@ -9,7 +9,7 @@ excerpt: "Panama vs England World Cup 2026 preview: prediction, predicted lineup
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
 author: "bruno-carvalho"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 The Panama vs England World Cup 2026 Group L finale asks a narrow, awkward question of a side that arrived in North America among the favorites: where did the fluency go, and can it be switched back on against opponents who cannot hurt them? England open the final round on top of Group L, four points banked and the best goal difference in the section, needing very little and wanting a great deal more. They beat Croatia in a four-goal opener that looked like the tournament their backers had imagined, then ground out a goalless draw with Ghana that looked like a different team entirely. Panama, eliminated and playing for pride and a first goal of this World Cup, will sit deep, frustrate, and counter. The match that should be routine on paper is, for Thomas Tuchel, a referendum on rhythm.

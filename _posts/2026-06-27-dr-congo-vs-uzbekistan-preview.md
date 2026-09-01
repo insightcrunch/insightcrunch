@@ -9,7 +9,7 @@ excerpt: "DR Congo vs Uzbekistan is the World Cup 2026 Group K finale where the 
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 59
 author: "carlos-mendez"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 One question hangs over the DR Congo vs Uzbekistan World Cup 2026 preview, and it is unusually blunt for a group game: can DR Congo win the match they have to win? The Leopards arrive in Atlanta on June 27 with a single point from two outings, a goal difference of minus one, and a path to the Round of 32 that has narrowed to one outcome. Beat Uzbekistan and they have a strong claim on a best third-placed berth. Fail to beat them and their first World Cup since 1974 ends in the group stage. Uzbekistan, the tournament debutants across the halfway line, carry a heavier mathematical burden and a lighter emotional one. With no points and a goal difference of minus seven, the White Wolves are close to gone, which paradoxically frees them to swing. This is the rare three-team-table fixture that behaves like a knockout tie for one side and a free hit for the other.

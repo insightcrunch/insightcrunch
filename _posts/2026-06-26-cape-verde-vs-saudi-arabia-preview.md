@@ -9,7 +9,7 @@ excerpt: "Cape Verde vs Saudi Arabia World Cup 2026 preview: predicted lineups, 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
 author: "daniel-okoro"
-last_updated: 2026-06-26
+last_updated: 2026-09-01
 lang: en
 ---
 How does the smallest nation at the tournament walk into its final group game knowing a single point may rewrite its entire football history? That is the question Cape Verde vs Saudi Arabia poses at World Cup 2026, and it is the reason a fixture that looked, on paper, like the quietest game in Group H has become one of the most loaded ninety minutes of the matchday. Cape Verde arrive in Houston on two points, unbeaten, having stunned reigning European champions Spain and matched two-time world champions Uruguay. Saudi Arabia arrive needing a win and nothing less, their knockout hopes hanging by a thread after a chastening second matchday. The gap between what each side needs is the whole story of this preview, and it has a name.

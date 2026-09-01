@@ -9,7 +9,7 @@ excerpt: "Fly or road trip to Lollapalooza? The distance-and-group rule settles 
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 Every plan to fly or road trip to Lollapalooza runs into the same fork, and most travelers stall there for a week before booking anything. You want to be in Grant Park for the four-day Chicago weekend, that part is settled, but the way you get there quietly shapes the budget, the schedule, and the mood of the whole trip. Fly and you trade money for speed and simplicity, then land in a downtown that gives you nowhere to park a car you did not bring. Drive and you buy flexibility and a shared cost, then own every mile of the road and the problem of where to leave the vehicle once you arrive. The honest answer is not a slogan. It is a rule, and the rule turns on two things you already know about your own trip.

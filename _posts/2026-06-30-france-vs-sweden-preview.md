@@ -3,7 +3,7 @@ title: "France vs Sweden Preview: World Cup 2026 Round of 32"
 page_title: "France vs Sweden: World Cup 2026 Round of 32 Preview and Prediction"
 slug: france-vs-sweden-preview
 date: 2026-06-30
-last_updated: 2026-06-30
+last_updated: 2026-09-01
 excerpt: "France vs Sweden headlines the World Cup 2026 Round of 32, as favorites Les Bleus meet Graham Potter's Sweden in a win or go home knockout tie in New Jersey."
 image: /assets/images/blog/blog-01.webp
 categories: ["Leisure"]

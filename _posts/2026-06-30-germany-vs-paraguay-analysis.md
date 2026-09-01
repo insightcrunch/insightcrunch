@@ -9,7 +9,7 @@ excerpt: "Germany vs Paraguay World Cup 2026 result and analysis as Paraguay stu
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
 author: "naomi-adebayo"
-last_updated: 2026-06-30
+last_updated: 2026-09-01
 lang: en
 ---
 Germany came to Foxborough with 75 percent of the ball and left the World Cup 2026 with nothing, and the Germany vs Paraguay Round of 32 tie will be remembered as the night a four-time world champion drowned in its own possession. The final score read 1-1 after 120 minutes, and Paraguay won the penalty shootout 4-3 to reach the last 16, but the numbers underneath that scoreline tell the real story: a side that dominated the ball for two hours and could not find a way through a back four and a bank of midfielders that simply refused to break. This was not a smash-and-grab in the classic sense. It was a controlled, deliberate suffocation, and the one thing that explains it is the shape Gustavo Alfaro built and Germany never solved.

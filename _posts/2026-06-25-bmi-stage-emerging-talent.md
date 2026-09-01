@@ -9,7 +9,7 @@ excerpt: "The BMI stage is Lollapalooza's showcase for emerging talent, the real
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 Every lineup poster sorts its acts by size. The names printed largest headline the biggest platforms, and the names printed smallest, the ones a casual fan scrolls past on the way to the marquee, fill the smaller platforms scattered through the park. The BMI stage sits in that second group, and treating it as a footnote is the mistake this page exists to correct. The BMI stage is Lollapalooza's showcase for emerging talent, the platform where rising acts perform at a major festival before they are large enough for the marquee, and it is the single most useful part of the grounds to understand if you are a musician working your way up or a listener who wants to hear tomorrow's headliners a few summers early.

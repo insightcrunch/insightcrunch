@@ -9,7 +9,7 @@ excerpt: "The Balogun red card controversy dragged Trump, FIFA and UEFA into a W
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 68
 author: "bruno-carvalho"
-last_updated: 2026-07-08
+last_updated: 2026-09-01
 lang: en
 ---
 For a few days at the World Cup 2026, the loudest story was not a goal, a save, or a piece of skill. It was a red card, a phone call, and a single clause buried deep in FIFA's disciplinary code. Folarin Balogun, the United States striker who had scored in every match he played at the tournament, was sent off in the round of 32 win over Bosnia and Herzegovina and hit with the automatic one-game ban that any red card brings. Under the plain wording of the rules, he should have missed the round of 16 tie against Belgium. Instead, FIFA suspended the ban, Balogun played, and world football spent the better part of a week arguing about whether the sport's governing body had bent its own laws under pressure from the President of the United States.

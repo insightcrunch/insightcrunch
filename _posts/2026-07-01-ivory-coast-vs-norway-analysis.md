@@ -9,7 +9,7 @@ excerpt: "Ivory Coast vs Norway analysis: Erling Haaland's 86th-minute winner sa
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 60
 author: "grace-whitmore"
-last_updated: 2026-07-01
+last_updated: 2026-09-01
 lang: en
 ---
 For eighty-six minutes at Dallas Stadium, this Ivory Coast vs Norway World Cup 2026 Round of 32 tie belonged to the side that lost it. The Elephants pinned Norway back, forced fourteen corners, worked Orjan Nyland into save after save, and built a scoreboard-defying pile of chances that the expected-goals model reads as roughly two goals wasted. Then Erling Haaland touched the ball for what felt like the third meaningful time all afternoon and settled everything. His side-footed finish in the eighty-sixth minute completed a 2-1 win, sent Norway into the last sixteen for the first time in twenty-eight years, and left a dominant Ivory Coast to walk off wondering how a game they controlled had slipped away in the final ten minutes.

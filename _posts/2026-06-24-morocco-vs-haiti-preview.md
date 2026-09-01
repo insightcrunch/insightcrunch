@@ -9,7 +9,7 @@ excerpt: "Morocco vs Haiti World Cup 2026 preview: predicted lineups, Group C qu
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "liam-ferris"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 When Morocco walk out at Mercedes-Benz Stadium for their final Group C game of World Cup 2026, the question is not whether they will go through. It is where they will finish, and what that finishing position will cost or save them in the bracket that follows. That is the lens through which to read Morocco vs Haiti: a settled, top-ten side managing the difference between first and second against a Haiti team that has already been eliminated and now plays purely for pride. The margin Morocco win by, and what Brazil are doing two thousand miles away in Miami at the same moment, will decide their knockout path more than anything Haiti can do to stop them.

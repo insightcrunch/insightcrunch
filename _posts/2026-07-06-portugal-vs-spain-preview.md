@@ -9,7 +9,7 @@ excerpt: "Portugal vs Spain World Cup 2026 Round of 16 preview: prediction, pred
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-07-06
+last_updated: 2026-09-01
 lang: en
 ---
 Can Spain's unbroken back line survive ninety minutes of Cristiano Ronaldo's last stand, or does the reigning European champion simply have too much control for Portugal to live with? That is the question Portugal vs Spain poses in the World Cup 2026 Round of 16, an Iberian derby dropped into the knockout bracket far earlier than either nation wanted, with a quarterfinal place waiting for the winner and a tournament ending for the loser. When the two neighbors meet in Dallas on Monday, July 6, there is no group table to soften the result, no second leg to correct a bad afternoon. One of these heavyweights goes home by nightfall.

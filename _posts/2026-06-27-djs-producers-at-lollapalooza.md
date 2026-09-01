@@ -9,7 +9,7 @@ excerpt: "DJs and producers at Lollapalooza reach the stage by the same draw-and
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-06-27
+last_updated: 2026-09-01
 lang: en
 ---
 Ask an aspiring electronic artist how someone gets to play a major festival and you will hear a theory that sounds nothing like the theory a guitar band would give you. DJs and producers at Lollapalooza, the thinking goes, live in a separate world with a separate door, booked off a viral clip or a label push or a friend who knows the right promoter, on a track that has little to do with the slow climb a rock act makes from bars to theaters to the poster. That theory is comforting because it turns a career into a lottery, and it is wrong in the way that keeps people stuck. The electronic artist who believes there is a hidden shortcut spends years hunting for the shortcut instead of building the one thing that actually opens the door.

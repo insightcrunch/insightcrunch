@@ -9,7 +9,7 @@ excerpt: "Czechia vs Mexico analysis: Mexico won Group A with a 3-0 win at the A
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "carlos-mendez"
-last_updated: 2026-06-25
+last_updated: 2026-09-01
 lang: en
 ---
 The Czechia vs Mexico analysis from this World Cup 2026 Group A finale starts with a number that tells you almost everything: zero. Not the zero on Czechia's side of the scoreboard, though that matters, but the zero in the goals-against column of Mexico's entire group stage. Javier Aguirre took a rotated team to the Estadio Azteca needing nothing, played a side that had already booked its place in the Round of 32, and still kept a third straight clean sheet on the way to a 3-0 win that finished the job in command rather than in jeopardy. Goals from Mateo Chavez, Julian Quinones and Alvaro Fidalgo carried the co-hosts to a perfect nine points, the first time in their history Mexico have won all three group matches, and the same result sent Czechia home bottom of the group.

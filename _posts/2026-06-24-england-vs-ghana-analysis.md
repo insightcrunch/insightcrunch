@@ -9,7 +9,7 @@ excerpt: "England vs Ghana finished 0-0 at World Cup 2026 as Carlos Queiroz's bl
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 69
 author: "naomi-adebayo"
-last_updated: 2026-06-24
+last_updated: 2026-09-01
 lang: en
 ---
 England vs Ghana at World Cup 2026 ended goalless in Boston, and the single fact that explains the night is not that England wasted chances but that Ghana almost never let England build a clear one. Four days after Thomas Tuchel's team had thrilled in a 4-2 win over Croatia, the Three Lions ran into a defensive machine built by a 73-year-old coach who has spent four decades teaching teams how to make games small. Carlos Queiroz did it again. Ghana sat deep, stayed compact, and turned a fixture every projection had marked as a procession into a grind that England never solved. The 0-0 draw was earned by a plan, not handed over by accident.

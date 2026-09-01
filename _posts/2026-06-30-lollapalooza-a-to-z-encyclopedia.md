@@ -9,7 +9,7 @@ excerpt: "The Lollapalooza encyclopedia defines every term, stage, policy, and w
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 77
 author: "chloe-martin"
-last_updated: 2026-06-30
+last_updated: 2026-09-01
 lang: en
 ---
 Somewhere between buying a wristband and standing in Grant Park for the first time, most people hit a wall of vocabulary. A friend says to meet at Perry's, a forum thread argues about GA+ versus Platinum, a packing post warns about the bag policy, and a veteran mentions Chow Town as if everyone already knows what that is. The Lollapalooza encyclopedia exists to end that confusion. It is the single alphabetical place to look up any Lollapalooza word, from the name of a stage to the meaning of a ticket tier to a piece of Grant Park geography, with a plain definition for each and a pointer to the guide that covers it in full. This is the reference capstone of the whole series, the page you keep open when a term stops you cold.
