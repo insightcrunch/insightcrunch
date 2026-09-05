@@ -9,7 +9,7 @@ excerpt: "Spain vs Argentina World Cup 2026 final preview: the tournament's mean
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-07-19
+last_updated: 2026-09-05
 lang: en
 ---
 Thirty-nine days and one hundred and three matches have narrowed forty-eight teams to two, and the Spain vs Argentina World Cup 2026 final poses a single, clean question: can the most miserly defense the tournament has produced be broken by the most decorated attacking talisman the game has ever seen. Spain arrive at MetLife Stadium in East Rutherford, New Jersey, having conceded one goal in seven matches. Argentina arrive as reigning world champions, carrying Lionel Messi in what is widely assumed to be his last act on this stage, chasing a repeat no nation has managed in sixty-four years. One side is built on control and a back line that has barely been troubled; the other on the knack of finding a way even when the game seems to have slipped away. Sunday settles which of those identities is the more durable when a trophy sits at the end of it.

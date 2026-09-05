@@ -9,7 +9,7 @@ excerpt: "Spain vs Argentina World Cup 2026 final result and analysis: Ferran To
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
 author: "daniel-okoro"
-last_updated: 2026-07-20
+last_updated: 2026-09-05
 lang: en
 ---
 The Spain vs Argentina World Cup 2026 final ended the way the whole match had been trending, with Spain finding the goal their control deserved and Argentina running out of ways to stop them. Ferran Torres, a substitute, drove the only goal of the game into the roof of the net early in the second period of extra time, and La Roja beat a ten-man Argentina side one-nil at the New York New Jersey Stadium to be crowned champions of the world for the second time. It was Spain's first world title since 2010 and the perfect companion to the European crown they already held, and it denied Lionel Messi and the defending champions the back-to-back triumph that only one nation has managed in the history of the competition. The scoreline reads as tight. The performance behind it was not.

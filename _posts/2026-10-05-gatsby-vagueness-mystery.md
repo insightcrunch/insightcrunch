@@ -9,7 +9,7 @@ excerpt: "Vagueness and mystery as technique is how Fitzgerald keeps Gatsby indi
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2026-10-05
+last_updated: 2026-09-05
 lang: en
 ---
 Ask a room of readers what Gatsby did for a living, and the honest answer is that nobody in the novel knows for certain, and neither do we. That uncertainty is not a hole in the book; it is the engine. Reading vagueness and mystery as technique means seeing that Fitzgerald engineered the blur on purpose, that he chose at every turn to withhold, to contradict, and to leave a fact half-lit rather than resolved. The effect this produces is the one every reader feels before naming it: Gatsby seems larger, stranger, and more magnetic than any fully explained man could be. The haze is the point. Strip it away, hand the reader a clean dossier of Gatsby's parentage, income, and war record, and the character shrinks to the size of the facts.

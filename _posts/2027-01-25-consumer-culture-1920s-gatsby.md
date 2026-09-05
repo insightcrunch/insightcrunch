@@ -9,7 +9,7 @@ excerpt: "Consumer culture and advertising in the 1920s built the buying world b
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-01-25
+last_updated: 2026-09-05
 lang: en
 ---
 Read Gatsby's parties as excess and you have read half a page. Read them as the visible surface of consumer culture and advertising in the 1920s, and the whole novel tilts into focus: a book about people who were taught, by the richest advertising machine the country had ever built, to assemble a self out of the things they could buy. The materialism everyone notices in The Great Gatsby is not a timeless flaw of the human heart. It is a specific lesson, delivered by a specific decade, to a nation learning for the first time that identity could be ordered from a catalogue and displayed on a lawn. This article recovers that lesson. It sets out the real economic world of the 1920s, the goods and the sell that surrounded Fitzgerald as he wrote, and it shows how that world presses on almost every scene where a character reaches for a possession to say something about who they are.

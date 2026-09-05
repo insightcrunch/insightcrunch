@@ -9,7 +9,7 @@ excerpt: "The Belarus border migration weapon explained: how engineered migratio
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 69
 author: "gregory-marsh"
-last_updated: 2027-01-21
+last_updated: 2026-09-05
 lang: en
 ---
 ## The Border Problem That Refuses to Stay a Border Problem

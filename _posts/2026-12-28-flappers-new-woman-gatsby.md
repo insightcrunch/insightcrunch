@@ -9,7 +9,7 @@ excerpt: "Flappers and the New Woman in the 1920s reshaped what women could do a
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2026-12-28
+last_updated: 2026-09-05
 lang: en
 ---
 Read The Great Gatsby without the history of flappers and the New Woman in the 1920s, and its women flatten into stock parts: the golden girl and her cool, cynical friend. Read the book with that history held steadily in view, and Jordan Baker and Daisy Buchanan become two different answers to the same pressure the decade placed on every young woman of their class, which was how far the new freedoms would actually carry her and what they would cost once she took them. The flapper was not a decoration painted onto the era. She marked a genuine break in what a woman could wear, earn, drive, drink, and decide for herself, and Fitzgerald built two of his central figures directly on the fault line that break opened.

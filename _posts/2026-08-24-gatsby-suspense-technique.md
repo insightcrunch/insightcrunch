@@ -9,7 +9,7 @@ excerpt: "How Fitzgerald builds suspense in Gatsby: the withheld identity, a del
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2026-08-24
+last_updated: 2026-09-05
 lang: en
 ---
 Everyone who reads *The Great Gatsby* knows roughly where it is going before it gets there. The narrator opens the book already changed by the events he is about to describe, already grieving, already sure that Gatsby "turned out all right at the end." So the puzzle of how Fitzgerald builds suspense in a novel that quietly announces its own outcome is one of the most instructive problems in the book. Suspense usually depends on not knowing what will happen. Here the reader senses catastrophe from the first pages, yet the pull forward never slackens. The tension is engineered from a different source, and learning to see that engine is one of the sharpest lessons the novel offers about narrative method.

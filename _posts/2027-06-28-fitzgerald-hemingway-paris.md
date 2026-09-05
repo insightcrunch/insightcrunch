@@ -9,7 +9,7 @@ excerpt: "Fitzgerald, Hemingway, and Paris: the expatriate milieu, the friendshi
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 55
 author: "chloe-martin"
-last_updated: 2027-06-28
+last_updated: 2026-09-05
 lang: en
 ---
 The friendship started after the book was finished. That one checkable fact should govern everything a reader does with Fitzgerald, Hemingway, and Paris, and almost nobody mentions it. The Great Gatsby was published on April 10, 1925. The two men met in a Montparnasse bar in the weeks that followed, and by then the novel was printed, bound, reviewed, and already selling badly. Whatever the Paris expatriate scene did to Fitzgerald, it did not write his third novel. It arrived too late for that, and knowing exactly how late is the difference between using this context and being used by it.

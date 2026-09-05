@@ -9,7 +9,7 @@ excerpt: "Drones over Poland raise a classification problem before a defense one
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2027-01-01
+last_updated: 2026-09-05
 lang: en
 ---
 Drones over Poland do not present a defense problem first. They present an interpretation problem first, and the defense problem only follows from how the interpretation goes. An object crosses into Polish airspace, is tracked for some period, and either departs, falls, or is brought down. Within hours the political system, the alliance, the press, and the public all demand the same thing from the same thin evidence: a label. Was that an accident, a probe, or a provocation? The label determines everything downstream, because a stray airframe blown off course by weather is a safety matter, a deliberate reconnaissance run is an intelligence matter, and a calculated act of pressure is a political matter that runs upward toward the alliance. The same radar track can support all three readings, and that is not an unfortunate coincidence of modern air defense. For an adversary operating below the threshold of open war, it is the entire point.

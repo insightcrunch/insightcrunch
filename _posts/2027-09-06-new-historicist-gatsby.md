@@ -9,7 +9,7 @@ excerpt: "A New Historicist reading of Gatsby places the novel inside the discou
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 51
 author: "rachel-foster"
-last_updated: 2027-09-06
+last_updated: 2026-09-05
 lang: en
 ---
 A New Historicist reading of Gatsby begins with a refusal. It refuses to treat the novel as a sealed aesthetic object that history merely surrounds, and it refuses just as firmly to treat history as a stable backdrop the novel passively reflects. Both refusals matter, and most student essays that claim to use the lens abandon one of them within a paragraph. What replaces the two refusals is a harder and more interesting proposition: that Fitzgerald's book and the culture it came out of were made of the same material, that the anxieties circulating in American public life between 1919 and 1925 pass through the novel's sentences the way current passes through wire, and that the novel does not simply record those anxieties but participates in their circulation. This is the claim the lens exists to test, and it changes what counts as evidence.

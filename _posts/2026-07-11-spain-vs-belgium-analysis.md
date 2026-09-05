@@ -9,7 +9,7 @@ excerpt: "Spain vs Belgium result and analysis: Mikel Merino's 88th-minute World
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 68
 author: "sofia-marchetti"
-last_updated: 2026-07-11
+last_updated: 2026-09-05
 lang: en
 ---
 Spain beat Belgium 2-1 in the World Cup 2026 quarter-final at Los Angeles Stadium on Friday, and the scoreline records almost nothing about how it happened. Both Spanish goals arrived the same way: a shot was saved, the ball did not stay saved, and a Spain player was standing where the rebound landed. Fabian Ruiz scored the first on 30 minutes from a Thibaut Courtois parry. Mikel Merino scored the second on 88 minutes from a Senne Lammens spill. In between, Charles De Ketelaere headed in the first goal Spain had conceded at this tournament, and for forty-seven minutes it looked as though the meanest defense in North America had finally been made mortal at the worst possible moment.

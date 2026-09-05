@@ -9,7 +9,7 @@ excerpt: "Class conflict through a Marxist lens recasts Gatsby's love triangle a
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 50
 author: "amanda-ross"
-last_updated: 2027-08-02
+last_updated: 2026-09-05
 lang: en
 ---
 Tom Buchanan does not lose his wife in the parlor of the Plaza Hotel. He wins a jurisdictional dispute. Reading class conflict through a Marxist lens changes what that afternoon is: not a husband defeating a rival for a woman's affection, but an established fortune putting down a challenge from an unestablished one, using the only weapon that settles such disputes, which is the question of where the money came from. Tom does not argue that he loves Daisy more. He produces evidence about drugstores. That is not jealousy. That is a credit check.

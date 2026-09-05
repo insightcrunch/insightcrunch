@@ -9,7 +9,7 @@ excerpt: "France vs England preview for the World Cup 2026 third-place play-off 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
 author: "sofia-marchetti"
-last_updated: 2026-07-18
+last_updated: 2026-09-05
 lang: en
 ---
 There is a familiar theory that the third-place play-off is the game nobody wants to play, a consolation prize handed to two beaten dressing rooms who would rather be somewhere else. The France vs England third-place play-off at World Cup 2026 sets out to test that theory in the sharpest way imaginable. Two of the deepest squads in the sport, both of them carrying the raw sting of a semi-final defeat, both of them still chasing something real, meet in Miami on Saturday with a bronze medal, a place in the record books and one of the tournament's biggest individual prizes all still up for grabs. Whatever the label says, this does not look like a dead rubber.

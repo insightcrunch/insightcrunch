@@ -9,7 +9,7 @@ excerpt: "Fashion and style of the Gatsby era as a class language: how 1920s dre
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-05-17
+last_updated: 2026-09-05
 lang: en
 ---
 Tom Buchanan needs four words to destroy a man. Standing in a hotel room at the Plaza in chapter seven, told that his wife's lover attended Oxford, he answers: "He wears a pink suit." That is the whole argument. No counter-evidence, no investigation, no appeal to the record. A garment is offered as proof, and in the world of the novel it functions as proof, because the fashion and style of the Gatsby era carried information that a certain kind of American read the way a customs officer reads a passport. Tom is not commenting on taste. He is performing a class reading, out loud, and he expects the room to follow him. Jordan pushes back once and lets it go. Nick does not contest it. The line lands because everyone present already knows the code.

@@ -9,7 +9,7 @@ excerpt: "Argentina vs England World Cup 2026 result and analysis: how two late 
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
 author: "yuki-mori"
-last_updated: 2026-07-16
+last_updated: 2026-09-05
 lang: en
 ---
 Argentina beat England 2-1 in the World Cup 2026 semi-final in Atlanta on July 15, and the scoreline is the least honest thing about it. For eighty-five minutes England were winning a match they had planned meticulously and were losing a match they had not planned at all. Anthony Gordon's finish in the 55th minute was the only goal either side had earned by any conventional measure of the first hour. Then Lionel Messi crossed twice from the same pocket of grass, seven minutes apart, and the World Cup final belonged to the champions.

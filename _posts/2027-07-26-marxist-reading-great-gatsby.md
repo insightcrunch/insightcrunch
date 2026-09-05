@@ -9,7 +9,7 @@ excerpt: "A Marxist reading of Great Gatsby exposes the hidden labor and capital
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2027-07-26
+last_updated: 2026-09-05
 lang: en
 ---
 Read The Great Gatsby without a lens and it arrives as a tragedy of feeling: a man loves a woman, the past will not hold still, and the green light goes out. A Marxist reading of Great Gatsby rearranges that furniture. The parties acquire a payroll. The mansion acquires a mortgage of crime. The valley of ashes stops being a mood and becomes a workplace. Nick's inheritance stops being background and becomes the reason he can afford to be charmed by any of it.

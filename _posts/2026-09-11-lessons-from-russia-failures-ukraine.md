@@ -9,7 +9,7 @@ excerpt: "Lessons from Russia's failures in Ukraine, sorted into structural, cor
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2026-09-11
+last_updated: 2026-09-05
 lang: en
 ---
 The most consequential question about Russia's failures in Ukraine is not why they happened. That part is comparatively well covered, and the broad shape of it is established in the open record: the opening campaign of the 2022 full-scale invasion faltered on supply, on command, on intelligence, and on the coordination of arms that modern land warfare demands, and the force that had been advertised as reformed and professionalized did not perform as advertised. The harder and more decision-relevant question is the one that follows: which of those failures are still true. A defense planner does not benefit from a catalogue of an adversary's past embarrassments. A planner benefits from knowing which of those embarrassments describe a permanent property of the force and which describe a moment that has since passed.

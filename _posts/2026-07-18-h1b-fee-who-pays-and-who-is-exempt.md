@@ -9,7 +9,7 @@ excerpt: "The H-1B $100,000 fee falls on the employer, yet coverage turns on whe
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2026-07-18
+last_updated: 2026-09-05
 lang: en
 ---
 A hiring manager who reads only the headline walks away with a single number and a wrong conclusion. The number is right: the H-1B $100,000 fee is real, and for a covered petition it is exactly that, a six-figure charge per worker sitting on top of filing costs that for most private employers ran under four thousand dollars before. The wrong conclusion is that the charge applies to every H-1B hire, or that a small company is spared because it is small, or that a university escapes because it is cap-exempt. None of that is how the rule actually works. Coverage does not turn on who the employer is. It turns on a single fact about the worker: where that person is standing, and what kind of petition is being filed, at the moment the case goes in.

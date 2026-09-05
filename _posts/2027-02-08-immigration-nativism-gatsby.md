@@ -9,7 +9,7 @@ excerpt: "Immigration and nativism in Gatsby's America explain Tom's racial fear
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2027-02-08
+last_updated: 2026-09-05
 lang: en
 ---
 When Tom Buchanan leans across his dinner table in the first chapter and announces that civilization is going to pieces, most first readers file the moment away as one rich man's rudeness. It is easy to read his outburst as a personal tic, the bullying of a spoiled athlete who has run out of games to win. That reading misses almost everything that matters, because immigration and nativism in Gatsby's America were not private obsessions. They were the loudest public argument of the decade, and Tom is not inventing his fear at the table. He is repeating it. Reading the 1920s panic over who counted as American changes the novel from a story about one brute into a portrait of an entire class defending its position by racializing the people it feared.

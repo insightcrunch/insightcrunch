@@ -9,7 +9,7 @@ excerpt: "Free indirect discourse in The Great Gatsby lets Nick's narration quie
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2026-09-07
+last_updated: 2026-09-05
 lang: en
 ---
 Read the sentence "His count of enchanted objects had diminished by one" and ask a simple question: whose thought is that? Nick Carraway is the one writing it, yet no ordinary man keeps a private inventory of enchanted objects. The phrase belongs to Gatsby, to the part of him that once counted a green light across the water as a holy thing. Free indirect discourse in The Great Gatsby is the name for exactly this effect, the moment when the telling stops being a plain report about a character and starts sounding like the character himself, without quotation marks, without a "he thought," without any visible seam. The narration wears another man's idiom the way an actor wears a costume, and for a few lines a reader stands inside a mind the first-person frame should keep firmly outside. Fitzgerald does this so quietly that most students finish the novel having felt the effect without ever naming its cause. This guide names it, tracks it through the specific passages where it operates, and shows why a short novel narrated by one limited man can nonetheless open a window into other people's inner weather.

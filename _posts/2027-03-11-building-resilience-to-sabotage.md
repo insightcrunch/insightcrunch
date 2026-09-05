@@ -9,7 +9,7 @@ excerpt: "Building resilience to sabotage is how Poland deters deniable gray-zon
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "thomas-reid"
-last_updated: 2027-03-11
+last_updated: 2026-09-05
 lang: en
 ---
 A policymaker in Warsaw who wants to blunt deniable coercion faces a decision that looks, at first, like a spending problem and turns out to be a design problem. The instinct is to treat sabotage as a threat to be intercepted: find the saboteur, catch the arsonist, unmask the operative, punish whoever sent them. Building resilience to sabotage takes the opposite starting point, and while interception is not wrong, it answers the wrong half of the question. The half that decides whether a society can be coerced from below the threshold of open war is not how well it catches the next operative. It is how little a successful operation actually buys the attacker. Resilience to sabotage is the policy of making that purchase worthless, and it is the strongest answer a state has to pressure it can never fully prevent.

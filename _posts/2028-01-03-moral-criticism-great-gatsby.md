@@ -9,7 +9,7 @@ excerpt: "A moral criticism of The Great Gatsby examines the novel's own ethical
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 47
 author: "elena-wright"
-last_updated: 2028-01-03
+last_updated: 2026-09-05
 lang: en
 ---
 Two claims sit at opposite ends of Fitzgerald's novel and refuse to be reconciled by anything in between. In the second paragraph Nick tells us he is inclined to reserve all judgements. Two hundred pages later he tells Gatsby, a man who has made a criminal fortune and spent it on a married woman, that he is worth the whole damn bunch put together. A moral criticism of The Great Gatsby begins exactly there, in the gap between a narrator who announces that he does not judge and a narrator who delivers one of the most quoted verdicts in American fiction.

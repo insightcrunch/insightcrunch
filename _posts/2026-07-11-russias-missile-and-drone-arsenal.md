@@ -9,7 +9,7 @@ excerpt: "Russia's missile and drone arsenal is a two-tier standoff threat: chea
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 69
 author: "marcus-hall"
-last_updated: 2026-07-11
+last_updated: 2026-09-05
 lang: en
 ---
 When analysts weigh what Russia could bring to bear against the alliance's eastern flank, the question that shapes the most planning is not how many soldiers Moscow can move west but what its standoff strike systems can reach without moving at all. Russia's missile and drone arsenal is the instrument that lets a continental power hold distant targets at risk from behind its own lines, and reading that arsenal correctly is the difference between sober preparation and either panic or complacency. This article is a capability assessment of that arsenal held to one discipline throughout: it describes what the systems are, what class of effect they can produce, and how production and stockpile cycles govern their weight, without ever crossing into how they would be employed.

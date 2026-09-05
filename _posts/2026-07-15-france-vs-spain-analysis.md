@@ -9,7 +9,7 @@ excerpt: "France vs Spain result and analysis: how Spain's 2-0 World Cup 2026 se
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 68
 author: "grace-whitmore"
-last_updated: 2026-07-15
+last_updated: 2026-09-05
 lang: en
 ---
 France vs Spain at World Cup 2026 was sold for a fortnight as the final before the final, the tournament's most feared attack against the tournament's most miserly defense, and the answer arrived inside twenty-two minutes and never wavered. Spain won 2-0 at Dallas Stadium on July 14, through a Mikel Oyarzabal penalty and a Pedro Porro finish, and they did it by making the most expensive front four in world football look like a rumor. France finished the night with ten shots and 0.30 expected goals. That number, not the scoreline, is the honest measure of what happened in Arlington, Texas, and it is the number this article is built around.

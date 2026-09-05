@@ -9,7 +9,7 @@ excerpt: "Trauma theory and Great Gatsby criticism combined: how war, loss, and 
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2027-12-06
+last_updated: 2026-09-05
 lang: en
 ---
 Two of the three men at the center of this novel fought in the First World War, and the book spends fewer than two hundred words on it. Trauma theory and Great Gatsby criticism meet at that ratio. A plain reading treats the war as biography, a line on a resume that explains how Nick learned to be restless and how Gatsby acquired a medal from Montenegro. A trauma reading treats the silence itself as evidence, on the principle that the most consequential wound in a text is often the one the text cannot bring itself to describe. The novel does not narrate what happened in the Argonne. It narrates a man who cannot stop trying to get back to 1917, a narrator who cannot tell the story in order, and a summer that ends with three corpses. The lens proposes that these are the same fact.

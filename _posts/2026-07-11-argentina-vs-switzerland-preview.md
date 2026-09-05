@@ -9,7 +9,7 @@ excerpt: "Argentina vs Switzerland World Cup 2026 quarterfinal preview: the widt
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 69
 author: "sofia-marchetti"
-last_updated: 2026-07-11
+last_updated: 2026-09-05
 lang: en
 ---
 Argentina vs Switzerland is the last of the four World Cup 2026 quarterfinals, and it poses a question neither side can dodge: can a team built to rent width survive a team built to punish the rent? Lionel Scaloni's champions arrive in Kansas City having won all five of their matches and having needed extra time or an injury-time winner to survive two of them. Murat Yakin's Switzerland arrive having not trailed for a single minute of this tournament. One of those records breaks on Saturday night at Kansas City Stadium.

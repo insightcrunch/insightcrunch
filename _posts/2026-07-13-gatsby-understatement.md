@@ -9,7 +9,7 @@ excerpt: "Understatement and restraint in Gatsby show how Fitzgerald underplays 
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2026-07-13
+last_updated: 2026-09-05
 lang: en
 ---
 The most violent moments in Fitzgerald's novel are also its quietest. A woman is struck down on a dusty road, a man is shot in his own swimming pool, and the prose that reports these things barely raises its voice. Understatement and restraint in Gatsby are not a failure of feeling but a deliberate calibration of it: the writer pulls back exactly where a lesser book would push forward, and the withholding does the wounding. This is one of the defining Fitzgerald literary techniques, and it is the counterweight that keeps the novel's famous lyric excess from collapsing into mere decoration. Where the parties shimmer and the sentences soar, the catastrophes arrive flat, plain, and almost offhand, and that flatness is where the grief lives.

@@ -9,7 +9,7 @@ excerpt: "The catalogue technique in The Great Gatsby turns Nick's guest list in
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2026-07-20
+last_updated: 2026-09-05
 lang: en
 ---
 Read the opening of chapter four aloud and something happens to your breath. The sentences stop arguing and start accumulating. Name after name arrives, each dragging a small clause of scandal or drowning or divorce behind it, and by the time you reach the flat little sentence that closes the passage you have not been told the party was crowded and hollow. You have been made to feel crowded and hollow. That effect, produced by pure enumeration, is what this article is about. The catalogue technique in The Great Gatsby is Fitzgerald's use of the long, formal list, above all the roll of party guests, as a working craft device rather than as decorative filler, and once you see how the device performs its meaning you cannot unsee it anywhere in the book.

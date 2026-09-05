@@ -9,7 +9,7 @@ excerpt: "How 1920s readers saw The Great Gatsby: the mixed 1925 reviews, the re
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-06-21
+last_updated: 2026-09-05
 lang: en
 ---
 The novel you were assigned in school arrived in the world as a minor disappointment. Understanding how 1920s readers saw The Great Gatsby means accepting an uncomfortable fact about literary judgment: the book now taught as the finest short novel in American literature was met in April 1925 by reviewers who found it thin, by a public that bought it slowly, and by an author who concluded that almost nobody had grasped what he had written. The gap between that reception and the stature the book holds today is not a footnote. It is the single best available lesson in how a masterpiece can be invisible to the eyes that see it first.

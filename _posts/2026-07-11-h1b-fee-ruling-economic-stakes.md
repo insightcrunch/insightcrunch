@@ -9,7 +9,7 @@ excerpt: "How the H-1B fee ruling weighed economic harm: the chilling effect, th
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 60
 author: "william-knight"
-last_updated: 2026-07-11
+last_updated: 2026-09-05
 lang: en
 ---
 When a court records that only 85 payments of a $100,000 charge had been logged months after the charge took effect, that single number does more analytical work than any amount of argument about hardship. The H-1B fee ruling that came out of the District of Massachusetts on June 8, 2026 did not turn on economic harm in the abstract. It turned on a record in which the economic evidence and the legal characterization of the charge converged on the same conclusion, because the very feature that made the payment behave like a tax, its capacity to raise revenue far past the cost of processing a petition, was also the feature the challenging states pointed to when they said the levy had priced public hospitals, universities, and school districts out of hiring the workers they depend on.

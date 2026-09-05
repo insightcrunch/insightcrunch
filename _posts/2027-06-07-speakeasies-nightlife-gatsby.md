@@ -9,7 +9,7 @@ excerpt: "Speakeasies and nightlife in Gatsby explain the era's illegal drinking
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 48
 author: "amanda-ross"
-last_updated: 2027-06-07
+last_updated: 2026-09-05
 lang: en
 ---
 Every drink taken in The Great Gatsby is a crime. Not a metaphorical crime, not a moral lapse dressed up as one, but an actual violation of federal law in force across the entire summer the novel describes. Speakeasies and nightlife in Gatsby are not decorative background to the story of a man and a green light; they are the legal condition of almost every social scene the book contains. The cocktails floating through the garden, the whisky in the locked bureau, the gin poured for guests who never met their host, the cellar restaurant where Nick eats lunch with a gambler: all of it sits on the far side of a statute. A reader who does not know this reads the parties as excess. A reader who does know it reads them as organized defiance, glamorous precisely because it is illegal, and that shift changes what Fitzgerald's revelry means.

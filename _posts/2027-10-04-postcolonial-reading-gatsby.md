@@ -9,7 +9,7 @@ excerpt: "A postcolonial reading of The Great Gatsby exposes the American Dream 
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2027-10-04
+last_updated: 2026-09-05
 lang: en
 ---
 A postcolonial reading of The Great Gatsby begins with a question that a plain reading of the novel rarely thinks to ask: whose land is the dream standing on? Read for plot and character, Fitzgerald's book is a story about love, money, and the impossibility of repeating the past. Read for its own final image, it becomes something stranger and older. The last paragraphs pull back from Long Island to the whole continent and to the first Europeans who ever looked at it, and in that pullback the private tragedy of one man reaching for a green light widens into a national story about arrival, ownership, and the ground that ownership rests on. The postcolonial lens is the tool that keeps the reader's eye on that ground.

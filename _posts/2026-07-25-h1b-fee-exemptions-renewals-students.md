@@ -9,7 +9,7 @@ excerpt: "H-1B fee exemptions, explained: how renewals, extensions, prior filing
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 61
 author: "marcus-hall"
-last_updated: 2026-07-25
+last_updated: 2026-09-05
 lang: en
 ---
 The first decision an employer, a worker, or an international student had to make about the H-1B $100,000 fee was not how to pay it. It was whether the charge reached them at all. That question sounds simple and was not, because the headline number traveled faster and farther than the fine print that defined who owed it. A trillion-dollar surcharge on a skilled-worker program is the kind of figure that fills a room with anxiety, and in the first days after Proclamation 10973 took effect, the anxiety was close to universal: every sponsor assumed exposure, every visa holder abroad feared a locked door, and every graduating student on a campus assumed the dream had just been priced out of reach. The reality was narrower, and the gap between the fear and the rule is the subject of this analysis. The carve-outs were not footnotes. They were the structural feature that decided how far the policy actually reached, and understanding them is the difference between planning from panic and planning from the rule.

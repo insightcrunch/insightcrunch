@@ -9,7 +9,7 @@ excerpt: "World War One's shadow over The Great Gatsby shapes its plot, mood, an
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2026-12-14
+last_updated: 2026-09-05
 lang: en
 ---
 World War One's shadow over The Great Gatsby is the easiest thing in the novel to walk straight past. Read the book once for the parties, the pink suit, and the green light, and the recent conflict that shaped every adult in it can vanish behind the champagne. Yet the war is there on almost every page that matters. It made Gatsby an officer and then a stranger to his own name. It emptied out Nick until the Middle West felt like the ragged edge of the universe. It opened the gap of years that let Daisy marry another man. To read the summer of 1922 without the war behind it is to hear the music and miss the grave the dancers are standing on.

@@ -9,7 +9,7 @@ excerpt: "If Ukraine falls, is Poland next? A conditional scenario testing the d
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2026-09-21
+last_updated: 2026-09-05
 lang: en
 ---
 If Ukraine falls, is Poland next? The question arrives in public debate as though it answers itself. A large state loses a war on the edge of the alliance, the victor stands one border closer, and the reflex completes the sentence before the reasoning starts. That reflex is not stupid. It draws on a real intuition about how aggression behaves, and on a Polish historical memory that has earned the right to be nervous. But a reflex is not an assessment, and the distance between them is where the useful work lives. The honest version of the question is not whether a Ukrainian defeat would frighten Poland. Of course it would. The honest version is narrower and harder: what would have to be true, beyond the fact of the defeat itself, for Poland's risk to actually rise, and by how much.

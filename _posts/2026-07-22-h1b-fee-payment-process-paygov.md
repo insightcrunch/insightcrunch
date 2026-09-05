@@ -9,7 +9,7 @@ excerpt: "The H-1B fee payment ran through pay.gov before filing, with proof req
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 59
 author: "nathan-cole"
-last_updated: 2026-07-22
+last_updated: 2026-09-05
 lang: en
 ---
 The single operational fact that reshaped H-1B filing under the new H-1B fee was deceptively simple: a covered petition could not move forward until a six-figure sum had already cleared a federal collection portal and a receipt sat inside the filing package. Everything an employer or an attorney needed to do flowed from that one ordering rule. The money came first, the paperwork came second, and a submission that reversed the sequence was not a late filing to be cured later but a defective one that an adjudicator would set aside. For the people who actually assembled these packages, the legal arguments about whether the charge was a tax or a lawful condition mattered far less, in the moment, than the mechanical question of how the transaction ran, when it had to happen, what evidence had to accompany the case, and what became of a petition that arrived without it.

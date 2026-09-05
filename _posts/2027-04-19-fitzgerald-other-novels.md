@@ -9,7 +9,7 @@ excerpt: "Fitzgerald's other novels place The Great Gatsby in his career arc, sh
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2027-04-19
+last_updated: 2026-09-05
 lang: en
 ---
 Most readers meet Fitzgerald's other novels the way you meet the cousins of a famous person: as background, as names that orbit the one book everyone has read. That order of discovery is understandable, and it quietly distorts the thing it means to honor. Read The Great Gatsby with no sense of the four books that surround it, and you tend to read it as a lucky accident or a permanent condition, a writer who simply wrote like that. Read it inside the shape of Fitzgerald's other novels, the early triumph, the second novel that overreached, the late book he labored over for nine years, and the last one he did not live to finish, and Gatsby stops looking like a given and starts looking like an achievement, a single point of balance in a career that was rarely balanced at all.

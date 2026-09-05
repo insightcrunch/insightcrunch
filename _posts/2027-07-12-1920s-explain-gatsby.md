@@ -9,7 +9,7 @@ excerpt: "Why the 1920s still explain The Great Gatsby: bootleg money, the class
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2027-07-12
+last_updated: 2026-09-05
 lang: en
 ---
 Tom Buchanan puts down his drink in the first chapter and says something most readers skim past. "Civilization's going to pieces," he announces, and then he recommends a book. A student a century later registers a rich man being unpleasant at dinner. A reader who knows the decade registers something sharper: Tom is quoting the bestseller list. Why the 1920s still explain The Great Gatsby comes down to that gap. It is not a question about background color. It is a question about whether you can hear what the sentences are doing.

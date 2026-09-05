@@ -9,7 +9,7 @@ excerpt: "Gaps, ellipses, and the unsaid in Gatsby show how Fitzgerald withholds
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2026-08-17
+last_updated: 2026-09-05
 lang: en
 ---
 Some of the most important facts in The Great Gatsby are the ones Fitzgerald never states. Readers never watch Gatsby earn his fortune, never sit in on the deal that built the mansion, never hear the private words that pass between him and Daisy at the emotional center of their affair. The novel's method of gaps, ellipses, and the unsaid in Gatsby turns these absences into instruments, so that what the prose withholds performs as much narrative work as what it reports. This is the craft of omission, and every important gap in the book is placed on purpose.

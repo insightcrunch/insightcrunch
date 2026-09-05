@@ -9,7 +9,7 @@ excerpt: "Archetypal and myth criticism of Gatsby reads the book as a grail ques
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 47
 author: "lauren-hayes"
-last_updated: 2027-12-27
+last_updated: 2026-09-05
 lang: en
 ---
 A reader who finishes *The Great Gatsby* for the first time often reports a strange disproportion. The plot is small. A rich man buys a house across a bay from a woman he loved five years ago, wins her back for a few weeks, loses her, and is shot in a pool by a grieving husband who has the wrong man. Told that way it is a magazine story, yet the book lands with a weight magazine stories never carry. Archetypal and myth criticism of Gatsby exists to explain that disproportion. The lens proposes that the novel feels larger than its plot because its plot is a modern arrangement of very old material, and that the reader who is moved by Gatsby is being moved, partly, by structures that predate Fitzgerald by several thousand years.

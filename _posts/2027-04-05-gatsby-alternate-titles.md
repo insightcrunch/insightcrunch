@@ -9,7 +9,7 @@ excerpt: "The title Fitzgerald almost used was Trimalchio in West Egg, and the d
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2027-04-05
+last_updated: 2026-09-05
 lang: en
 ---
 The title Fitzgerald almost used was not The Great Gatsby at all, and for most of the two years he spent making the novel he expected the cover to read Trimalchio in West Egg. That fact changes how you read the book. A title is the first argument a novel makes about itself, the frame it hands the reader before a single sentence of story arrives, and Fitzgerald tried on at least half a dozen frames before he settled on the three plain words we now treat as inevitable. Recovering the names he discarded is not literary trivia. It is a way of seeing the choice behind the choice, because each rejected option would have told the reader something different about what kind of book this is and what kind of man Jay Gatsby is meant to be.

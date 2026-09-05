@@ -9,7 +9,7 @@ excerpt: "Gatsby's desire through a Freudian lens: how longing fixed on an ideal
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 48
 author: "amanda-ross"
-last_updated: 2027-08-30
+last_updated: 2026-09-05
 lang: en
 ---
 A plain reading of The Great Gatsby says that Jay Gatsby loves Daisy Buchanan and cannot have her. That sentence is true, and it explains almost nothing, because it cannot account for the strangest event in the book: Gatsby does have her, for a season, and the having is what breaks him. Reading Gatsby's desire through a Freudian lens is the fastest way to make that paradox legible, because psychoanalysis is the one critical tradition built specifically to explain wanting that intensifies when it is fed and collapses when it is satisfied. The lens does not soften Gatsby into a romantic. It shows that what he wants was never a woman standing in a room in East Egg, and that the object he actually pursued had to stay out of reach in order to remain worth pursuing.

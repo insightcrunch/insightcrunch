@@ -9,7 +9,7 @@ excerpt: "Historical myths about the Great Gatsby era flatten the 1920s into a p
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 52
 author: "rachel-foster"
-last_updated: 2027-07-19
+last_updated: 2026-09-05
 lang: en
 ---
 ## The Decade You Think You Know Is a Costume

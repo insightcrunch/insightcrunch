@@ -9,7 +9,7 @@ excerpt: "Russia's best path to a NATO war, framed for defenders: the three broa
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 68
 author: "james-carter"
-last_updated: 2026-08-01
+last_updated: 2026-09-05
 lang: en
 ---
 The phrase invites the wrong reading, so it is worth being blunt at the outset about what Russia's best path to a NATO war means here and what it does not. It does not mean a route anyone should take, a sequence anyone should follow, or a design anyone should build. It means the opposite: if you want to defend a coalition, you have to understand the logic an aggressor would reason from, because the places that logic points are exactly the places a defender must reinforce first. An assessment of which broad strategic approaches would best serve an aggressor against the alliance is, properly done, a map of the alliance's own soft seams drawn from the attacker's side of the table. The value is defensive. The framing is defensive. Everything that follows is analysis of strategic aims and constraints, held deliberately at the level where it illuminates where the alliance is testable, and kept away from anything that would tell a real attacker how to act.

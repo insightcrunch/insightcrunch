@@ -9,7 +9,7 @@ excerpt: "Maxwell Perkins and the editing of Gatsby explained: how Fitzgerald's 
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2027-03-29
+last_updated: 2026-09-05
 lang: en
 ---
 # Maxwell Perkins and the Editing of Gatsby

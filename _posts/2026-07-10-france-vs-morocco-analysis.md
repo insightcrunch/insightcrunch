@@ -9,7 +9,7 @@ excerpt: "France vs Morocco result and analysis: Mbappe and Dembele sink Morocco
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
 author: "carlos-mendez"
-last_updated: 2026-07-10
+last_updated: 2026-09-05
 lang: en
 ---
 The France vs Morocco World Cup 2026 quarter-final finished 2-0 in Boston, and the scoreline is the least honest thing about the night. France did not edge Morocco. France buried them under seventeen shots to two and an expected-goals count of 3.04 to 0.14, then walked off with the modest margin only because Yassine Bounou had the game of his tournament and Kylian Mbappe missed a first-half penalty that would have turned a control job into a rout. Goals from Mbappe on the hour and Ousmane Dembele six minutes later carried Didier Deschamps' side into a third straight World Cup semifinal, where they will meet the winner of Spain against Belgium. This analysis works from that gap between the numbers and the result, because the gap is the story.

@@ -9,7 +9,7 @@ excerpt: "The Belarus launchpad against Poland assessed: what its territory adds
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 77
 author: "andrew-price"
-last_updated: 2027-03-21
+last_updated: 2026-09-05
 lang: en
 ---
 Ask whether Belarus is a threat to Poland and you get two confident answers that cannot both be right. One says the Belarus launchpad is a loaded gun aimed at Warsaw, a forward base from which Russia can strike on short notice. The other says a broke, isolated client state adds nothing, that its army is a rounding error and its usefulness a fiction. Both answers skip the analytical step that actually matters, which is to separate what Belarusian territory contributes from what the Belarusian state contributes, and to weigh the geographic value of the ground against the political reliability of the man who controls it. This article is the assessment those two camps leave out. It treats Belarus not as a country to be profiled but as a variable in Poland's northern security equation, and it asks the only question that yields a usable judgment: how much does Belarus multiply Russian options against Poland, and how dependable is that multiplier.

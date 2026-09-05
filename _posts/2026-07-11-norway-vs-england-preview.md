@@ -9,7 +9,7 @@ excerpt: "Norway vs England prediction, predicted lineups and tactical preview f
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 69
 author: "carlos-mendez"
-last_updated: 2026-07-11
+last_updated: 2026-09-05
 lang: en
 ---
 Two number tens will walk out at Miami Stadium on Saturday evening, and only one of them will be allowed to do his job. That is the shape of Norway vs England at World Cup 2026, a quarter-final that looks on paper like a mismatch between a pre-tournament favorite and a nation of five and a half million people playing in the last eight for the first time in its history. It is not a mismatch. It is a question about which kind of creator gets more of the ball in the right second, in conditions hot enough that the global players' union would consider calling the whole thing off.

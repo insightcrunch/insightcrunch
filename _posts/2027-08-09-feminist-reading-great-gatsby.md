@@ -9,7 +9,7 @@ excerpt: "A feminist reading of The Great Gatsby shows how the novel frames Dais
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2027-08-09
+last_updated: 2026-09-05
 lang: en
 ---
 Count the sentences in which a woman in this novel is described rather than heard, and then count the sentences in which a woman describes anything at all. The ratio is the whole argument. A feminist reading of The Great Gatsby begins there, not with the observation that Tom Buchanan is a brute or that Daisy makes a selfish choice, but with the structural fact that every woman in the book arrives to the reader already processed through a man's eyes, valued in a man's ledger, and quoted only when a man has decided the line is worth repeating. A plain reading notices that the women are treated badly. The lens explains why the treatment is a system rather than a series of bad manners, and it hands you a method you can carry into any other novel you are asked to write about.

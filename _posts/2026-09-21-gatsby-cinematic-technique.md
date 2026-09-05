@@ -9,7 +9,7 @@ excerpt: "The camera eye and cinematic technique in The Great Gatsby: how Fitzge
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2026-09-21
+last_updated: 2026-09-05
 lang: en
 ---
 Read the third chapter of Fitzgerald's novel aloud and something odd happens to the eye. You do not so much follow a report of a party as watch one arrive. The lights come up, the bar fills, the orchestra begins, faces swim into view and dissolve out of it, and the whole sequence moves the way footage moves. This is the camera eye and cinematic technique at work, a set of visual habits in the writing that frame, cut, and hold on their subjects the way a film does, and once a reader notices the pattern it becomes hard to unsee. The prose does not describe the party so much as project it.

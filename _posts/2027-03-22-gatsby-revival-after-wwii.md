@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby's revival after WWII turned a commercial failure into
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 48
 author: "amanda-ross"
-last_updated: 2027-03-22
+last_updated: 2026-09-05
 lang: en
 ---
 The Great Gatsby's revival after WWII is the strangest and most instructive fact in the novel's whole life, because the book you were assigned in school is not the book Fitzgerald published. When he died in 1940, The Great Gatsby was a commercial disappointment sliding toward the remainder table, and its author believed he had failed. A little more than a decade later it was on its way to becoming the Great American Novel. Nothing about the text changed in those years. What changed was the world that read it, and that gap between the book and its reputation is the single most important piece of great gatsby context a serious reader can carry.

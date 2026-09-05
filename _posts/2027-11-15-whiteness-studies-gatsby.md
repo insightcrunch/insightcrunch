@@ -9,7 +9,7 @@ excerpt: "Whiteness studies and The Great Gatsby: how the lens reads the elite's
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-11-15
+last_updated: 2026-09-05
 lang: en
 ---
 In the overheated suite at the Plaza, after Tom has worked himself from adultery to family institutions to the prospect of intermarriage, Jordan Baker says four words under her breath: "We're all white here." She means to be dry, to puncture him, to point out that nobody present is the person he is warning about. What she actually does is name the room. Whiteness studies and The Great Gatsby meet at exactly that sentence, because the line states out loud a category the novel has been running on for two hundred pages without mentioning, and the fact that it takes an embarrassment to force the statement is the whole point of the lens.

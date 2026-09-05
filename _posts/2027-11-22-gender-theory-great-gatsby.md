@@ -9,7 +9,7 @@ excerpt: "Gender theory and The Great Gatsby: how the lens reads Daisy's helples
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-11-22
+last_updated: 2026-09-05
 lang: en
 ---
 Daisy Buchanan tells a story about the moment her daughter was born. She woke from the ether, asked whether it was a girl, and turned her head away and wept, and then she says she was glad, because she hopes the child will be a fool, since "that's the best thing a girl can be in this world, a beautiful little fool." The line is quoted constantly as evidence of the novel's view of women, and it is almost always read as a statement about limitation. Gender theory and The Great Gatsby meet at the word she does not use, which is nature. Daisy is not describing what a girl is. She is describing what a girl is best advised to become, and the difference between those two sentences is the entire lens.

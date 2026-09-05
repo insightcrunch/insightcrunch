@@ -9,7 +9,7 @@ excerpt: "Norway vs England result and analysis: Bellingham's brace settled a 2-
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 71
 author: "sofia-marchetti"
-last_updated: 2026-07-12
+last_updated: 2026-09-05
 lang: en
 ---
 England beat Norway 2-1 after extra time in the World Cup 2026 quarterfinal in Miami, and the honest way to describe it is that they did not out-play the Norwegians for a single sustained stretch of the 120 minutes. They out-scored them, which is a different achievement, and the man who did the out-scoring was Jude Bellingham, twice. Everything else about Saturday night at Hard Rock Stadium, the possession, the shot count, the chance quality, the territorial pressure, the set-piece threat, was close enough to be called a coin flip by anyone who did not know the scoreline.

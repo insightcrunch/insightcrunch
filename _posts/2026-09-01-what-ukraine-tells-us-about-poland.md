@@ -9,7 +9,7 @@ excerpt: "What Ukraine tells us about Poland's risk depends on which war lessons
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 77
 author: "james-carter"
-last_updated: 2026-09-01
+last_updated: 2026-09-05
 lang: en
 ---
 Almost every serious conversation about Polish security eventually reaches for the same reference point, and almost every one of them handles it badly. What Ukraine tells us about Poland's risk is the single most invoked argument in the debate and the single least disciplined, because the war is used as a template rather than as evidence. The template user stamps the shape of one conflict onto a different country and calls the result an assessment. The evidence user does something harder and more useful: treats the war as the closest available laboratory for a set of questions that cannot be tested any other way, then tests each observation against the variables that separate the two cases before carrying anything across.

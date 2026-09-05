@@ -9,7 +9,7 @@ excerpt: "An attack on Poland through Belarus works as a lever for corridor pres
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 68
 author: "nathan-cole"
-last_updated: 2027-04-11
+last_updated: 2026-09-05
 lang: en
 ---
 An attack on Poland through Belarus is the scenario most readers imagine when they picture a war on the eastern flank, and it is also the scenario most often imagined wrongly. The mental picture is a column of armor rolling west out of Belarusian territory, crossing the frontier, and driving into Polish depth toward Warsaw. That picture is dramatic, familiar, and analytically almost useless, because it answers a question no serious planner on either side would actually be asking. The real question is not whether armor could cross a border. It is what a move from the north would be for, what strategic effect it would seek, and what would constrain it. This article walks through the northern axis as a scenario of aims and consequences rather than a plan of action, and it reaches a judgment that cuts against the invasion image: the value of the Belarusian approach lies in the pressure it puts on a single narrow connection, not in any realistic prospect of conquest.

@@ -2,7 +2,7 @@
 title: "Modernist Technique in The Great Gatsby"
 page_title: "Modernist Technique in The Great Gatsby: Fragmentation, Unreliable Narration, and Symbolic Compression | Fitzgerald's Literary Techniques Explained"
 date: 2026-08-03
-last_updated: 2026-08-03
+last_updated: 2026-09-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Modernism", "Close Reading", "Literary Criticism", "American Literature"]
 image: /assets/images/blog/blog-01.webp

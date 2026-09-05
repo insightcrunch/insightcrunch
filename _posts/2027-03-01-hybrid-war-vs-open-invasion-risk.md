@@ -9,7 +9,7 @@ excerpt: "Hybrid war vs open invasion risk to Poland compared across likelihood,
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
 author: "ian-fletcher"
-last_updated: 2027-03-01
+last_updated: 2026-09-05
 lang: en
 ---
 The choice framed as hybrid war vs open invasion risk is not an academic exercise for the people who have to sign budgets, allocate staff officers, and decide which ministry owns which problem. It is a live allocation fight, and it is genuinely hard, because the two threats sit at opposite corners of the risk grid. One arrives continuously, cheaply, and below the level that triggers any formal response. The other has not arrived at all, would cost the aggressor enormously, and would remake Europe if it did. A planner who treats these as the same problem with different intensities will misallocate. A planner who treats them as unrelated problems will be surprised twice.

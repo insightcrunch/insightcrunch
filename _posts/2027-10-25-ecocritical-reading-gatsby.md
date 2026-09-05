@@ -9,7 +9,7 @@ excerpt: "An ecocritical reading of Great Gatsby treats the valley of ashes as i
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2027-10-25
+last_updated: 2026-09-05
 lang: en
 ---
 Most readers meet the valley of ashes as a moral symbol, a gray patch of despair set between the glitter of the Eggs and the noise of the city, and they move on. An ecocritical reading of Great Gatsby stops there and asks a different question: not what the ashes mean about the soul of the age, but what they are, physically, and where they came from. The answer reorganizes the novel. The ashes are industrial waste. They are the literal byproduct of the economy that builds Gatsby's mansion and fills Tom's stable, dumped on the borough of Queens and screened from the people whose parties the dumping pays for. Read the book with attention to environment, waste, and the natural world, and the valley stops being a mood and becomes a landfill, the physical cost of the dream made visible in a place the gilded world would rather not see.

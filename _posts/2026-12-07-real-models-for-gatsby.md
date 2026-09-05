@@ -9,7 +9,7 @@ excerpt: "The real-life models for Jay Gatsby were never one person. See the boo
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 48
 author: "claire-bennett"
-last_updated: 2026-12-07
+last_updated: 2026-09-05
 lang: en
 ---
 Readers reach for a single name because a single name feels like an answer. Who was he? Point to one man, and the mystery at the center of the book seems solved. The real-life models for Jay Gatsby resist that tidy solution, and the resistance is the point. Fitzgerald did not copy a person and rename him. He gathered a type the age was producing in quantity, the poor boy who arrived from nowhere with a new fortune and a new face, and he assembled a character out of several such figures he had watched, met, or read about. Learning who fed into Gatsby changes how you read every scene, because it shows you a portrait built by design rather than transcribed from life.

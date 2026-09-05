@@ -9,7 +9,7 @@ excerpt: "Class and Bourdieu's theory in Gatsby: how cultural capital, habitus, 
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 47
 author: "claire-bennett"
-last_updated: 2028-01-17
+last_updated: 2026-09-05
 lang: en
 ---
 Gatsby has more money than Tom Buchanan. The novel never says so outright, but the evidence is on every page: the house that a brewer built and Gatsby bought, the hydroplane, the Rolls-Royce running as an omnibus, the two motorboats, the marquee tent, the caterers from New York, the orchestra with oboes and trombones and cornets. Tom has a house, some polo ponies, and an apartment in the city. If money were the barrier, Gatsby would be inside. Class and Bourdieu's theory in Gatsby is the pairing that explains why he is not, because it supplies a vocabulary for the forms of advantage that money cannot purchase and that the novel spends two hundred pages demonstrating.

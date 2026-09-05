@@ -9,7 +9,7 @@ excerpt: "Is the Russian army overrated or underrated? A capability-by-function 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "jason-mckenzie"
-last_updated: 2026-07-21
+last_updated: 2026-09-05
 lang: en
 ---
 Ask ten serious people whether the Russian army is overrated or underrated and you will get ten confident answers pointing in two directions. The question sits at the center of every argument about how much danger Poland and the eastern flank actually face, and it refuses to resolve cleanly because both camps are holding a real piece of the truth. One side watched a vaunted force stall on the road to Kyiv, lose armored columns to ambush, and burn through its best formations in muddy assaults, and concluded that the reputation was theater. The other side watched the same force absorb staggering losses, mobilize a wartime economy, relearn its trade under fire, and keep grinding forward, and concluded that writing it off is the oldest mistake in the book. Deciding who is right is not an academic exercise. It sets the threat picture that Polish planners, NATO commanders, and Western publics carry in their heads, and a wrong reading in either direction is expensive.

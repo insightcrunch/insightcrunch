@@ -9,7 +9,7 @@ excerpt: "Money, stocks, and bonds in the 1920s form the economic world behind T
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2027-02-22
+last_updated: 2026-09-05
 lang: en
 ---
 Money, stocks, and bonds in the 1920s are usually treated as background scenery in The Great Gatsby, a bit of period color behind the parties and the doomed romance. That habit throws away one of the sharpest tools a reader has. The financial economy of the decade is not scenery. It is the machinery that produces the fortunes the novel is about, the reason its narrator has a job at all, and the quiet source of the dread that gathers under the glamour. Read the finance with care and the book stops being a love story dressed in wealth and becomes a study of a country learning to make money out of paper faster than it could make anything real.

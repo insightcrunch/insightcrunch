@@ -9,7 +9,7 @@ excerpt: "A psychoanalytic reading of The Great Gatsby: desire, repression, repe
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2027-08-23
+last_updated: 2026-09-05
 lang: en
 ---
 The romantic account of the novel says a man loved a woman for five years and died trying to reach her. A psychoanalytic reading of The Great Gatsby says something colder and more interesting: the man was not trying to reach a woman. He was trying to return to a moment, and the woman was the address he had assigned to it. That distinction turns the whole book inside out, because it converts the dream from a hope into a symptom, and a symptom is something with a cause, a structure, and a predictable failure mode.

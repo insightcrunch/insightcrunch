@@ -3,7 +3,7 @@ title: "The Jazz Age and The Great Gatsby"
 page_title: "The Jazz Age and The Great Gatsby: Era, Context, Meaning"
 slug: jazz-age-great-gatsby
 date: 2026-10-19
-last_updated: 2026-10-19
+last_updated: 2026-09-05
 categories: ["Leisure"]
 author: "diana-patel"
 image: /assets/images/blog/blog-01.webp

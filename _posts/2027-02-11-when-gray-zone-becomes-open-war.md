@@ -9,7 +9,7 @@ excerpt: "Where gray-zone coercion crosses into open war against Poland, why the
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
 author: "ian-fletcher"
-last_updated: 2027-02-11
+last_updated: 2026-09-05
 lang: en
 ---
 The hardest question in the whole eastern-flank debate is not whether Russia would attack Poland. It is where the gray-zone campaign already running against Polish territory stops being coercion and starts being an armed attack, and who decides. That boundary carries enormous legal, political, and military weight, because it is what an alliance response turns on and what a national mobilization decision turns on. Yet no treaty text, no doctrine manual, and no body of practice sets it out with the precision a planner would want. The line exists in principle and dissolves in application, which is exactly the property a coercive actor exploits.

@@ -9,7 +9,7 @@ excerpt: "How Poland fights below the threshold: the deterrence toolkit against 
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 68
 author: "alex-cunningham"
-last_updated: 2027-02-21
+last_updated: 2026-09-05
 lang: en
 ---
 The hardest deterrence problem Poland faces is not the one that gets the headlines. It is the problem of fighting below the threshold: how a state answers a campaign of sabotage, jamming, border pressure, and information manipulation that is designed from the outset to stay under the line at which an alliance would treat it as armed attack. Deterring an invasion is conceptually simple, whatever its practical difficulty, because the act would be unmistakable and the alliance response is written down. Deterring deniable coercion is different in kind. The instigator has arranged matters so that no single act clears the bar, so that each incident can be shrugged off as a criminal matter or an accident or somebody else's doing, and so that the defender is left choosing between a response that looks disproportionate and a response that looks like nothing at all.

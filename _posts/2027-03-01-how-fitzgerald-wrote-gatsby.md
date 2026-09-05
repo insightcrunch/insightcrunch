@@ -9,7 +9,7 @@ excerpt: "How Fitzgerald wrote Great Gatsby on the Riviera in 1924, then rebuilt
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-03-01
+last_updated: 2026-09-05
 lang: en
 ---
 The compression that readers praise as effortless was the hardest thing in the book to achieve. Understanding how Fitzgerald wrote Great Gatsby corrects the most flattering myth a masterpiece can attract: that it arrived whole, dictated by a gift, poured out in a single inspired rush. The truth is slower and far more useful to a student. The novel was made. It was built on the French Riviera across the summer and autumn of 1924, then torn open and rebuilt again while it was already set in type, and the celebrated economy of its final form, the sense that not a sentence is wasted, was the product of labor rather than luck.

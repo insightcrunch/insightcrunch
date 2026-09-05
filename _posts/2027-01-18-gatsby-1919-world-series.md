@@ -9,7 +9,7 @@ excerpt: "Organized crime and the 1919 World Series stand behind Wolfsheim in Ga
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-01-18
+last_updated: 2026-09-05
 lang: en
 ---
 Organized crime and the 1919 World Series enter The Great Gatsby through a single sentence at lunch, and most readers slide past it. Gatsby leans toward Nick and names the small man across the table as the person who rigged baseball's championship. Nick is staggered, the scene moves on, and the reader who does not know the real history behind that line treats it as color. It is not color. Fitzgerald reached for the one American scandal that had shocked a whole country and pinned it to a minor character, and knowing what actually happened in the autumn of 1919 changes how you read the moral world of the novel. This article recovers that history and shows what the book does with it.

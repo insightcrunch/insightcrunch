@@ -9,7 +9,7 @@ excerpt: "GPS jamming in the Baltic region is the near-ideal gray-zone tool: che
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 69
 author: "david-thornton"
-last_updated: 2027-01-11
+last_updated: 2026-09-05
 lang: en
 ---
 ## The Quiet Pressure That Never Quite Becomes an Attack

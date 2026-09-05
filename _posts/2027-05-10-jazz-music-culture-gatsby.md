@@ -9,7 +9,7 @@ excerpt: "Music and jazz culture in Great Gatsby scored the era and the parties.
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2027-05-10
+last_updated: 2026-09-05
 lang: en
 ---
 Read the party scenes in chapter three with the sound turned off and you get a costume drama: rich people in a big house, drinking. Turn the sound back on and you get the decade itself. The music and jazz culture in Great Gatsby is not a backdrop painted behind the action; it is the pulse the action moves to, the thing that tells you what year this is, what these people are running from, and why the gaiety has an edge of hysteria. Fitzgerald did not choose his era's soundtrack by accident. He named a whole decade after it. Understanding the real jazz culture of the 1920s, where the music came from, who played it, why respectable people found it thrilling and dangerous at once, changes what those famous parties are doing on the page.

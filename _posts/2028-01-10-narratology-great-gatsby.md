@@ -9,7 +9,7 @@ excerpt: "Narratology and The Great Gatsby: a systematic account of the voice, f
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 47
 author: "elena-wright"
-last_updated: 2028-01-10
+last_updated: 2026-09-05
 lang: en
 ---
 Ask a room of readers what makes Fitzgerald's novel work and most will point at the prose. Ask them what the narration is doing and the answers get vaguer: Nick is unreliable, the story is told in flashback, we only see Gatsby from outside. Every one of those observations is correct and none of them is precise enough to build on. Narratology and The Great Gatsby is the pairing that fixes that, because narratology supplies a vocabulary in which each of those intuitions becomes a specific, checkable claim about a specific parameter of the telling.

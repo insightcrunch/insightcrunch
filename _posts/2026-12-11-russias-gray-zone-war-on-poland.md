@@ -9,7 +9,7 @@ excerpt: "Russia's gray-zone war on Poland is a deniable coercion campaign below
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 77
 author: "gregory-marsh"
-last_updated: 2026-12-11
+last_updated: 2026-09-05
 lang: en
 ---
 Ask whether Russia's gray-zone war on Poland is real and you will get two confident answers, both wrong. The first says yes, obviously, and points to a list: a warehouse burns, a rail line is interfered with, satellite navigation signals fail across a region, a drone crosses a border, a coordinated falsehood spreads about Ukrainian refugees, people are pushed toward a frontier by a neighboring state. The second says no, calm down, and points to the same list with a shrug: warehouses burn for many reasons, navigation signals degrade for many reasons, drones stray, lies spread, borders are messy places. Both readings share a hidden assumption, which is that the question is settled by the incidents. It is not. The incidents are the evidence. The question is what sits behind them.

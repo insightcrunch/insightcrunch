@@ -9,7 +9,7 @@ excerpt: "The Crack-Up and Fitzgerald's decline trace the 1930s fall into debt, 
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2027-05-03
+last_updated: 2026-09-05
 lang: en
 ---
 The man who wrote the sentence about boats borne back ceaselessly into the past spent his last decade being carried backward by a current he could name but not resist. To read The Crack-Up and Fitzgerald's decline is to watch the author of the twentieth century's most durable novel about the gap between a dream and its wreckage fall into that gap himself, in slow motion, in public, and with an unnerving clarity about what was happening to him. He did not fade quietly. He wrote the collapse down. In three essays published in 1936 he anatomized his own breaking with the same instruments he had once turned on Jay Gatsby, and four years later he died at forty-four in a rented Hollywood apartment, convinced that his work had been forgotten and that he had failed at the one thing he most wanted to be good at.

@@ -2,7 +2,7 @@
 title: "The Lost Generation and The Great Gatsby"
 page_title: "The Lost Generation and The Great Gatsby: How the Post-War Generation Shaped Fitzgerald's Novel (Context and Analysis)"
 date: 2026-12-21
-last_updated: 2026-12-21
+last_updated: 2026-09-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "The Lost Generation", "F. Scott Fitzgerald", "Context", "American Literature"]
 image: /assets/images/blog/blog-01.webp

@@ -9,7 +9,7 @@ excerpt: "Prohibition and bootlegging in Gatsby explain how a poor boy grew rich
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2026-10-26
+last_updated: 2026-09-05
 lang: en
 ---
 Read the summer of 1922 as pure romance and you will miss the machinery under the floorboards. The parties, the shirts, the mansion, the yellow car, and the man himself all rest on a single historical fact that most first readings treat as scenery. That fact is Prohibition. Understanding Prohibition and bootlegging in Gatsby is not a decorative footnote for the curious; it is the difference between reading a love story with a rich backdrop and reading a book about how a banned trade manufactured a fortune, a persona, and a doomed dream in the space of a few years. The law did not sit behind the plot. The law made the plot possible.

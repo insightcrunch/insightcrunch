@@ -2,7 +2,7 @@
 title: "How Fitzgerald Handles the Passage of Time"
 page_title: "How Fitzgerald Handles the Passage of Time in The Great Gatsby: Compression, Seasons, and the Long View as Craft"
 date: 2026-09-28
-last_updated: 2026-09-28
+last_updated: 2026-09-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "American Literature"]
 image: /assets/images/blog/blog-01.webp

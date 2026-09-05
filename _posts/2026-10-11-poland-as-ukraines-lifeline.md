@@ -9,7 +9,7 @@ excerpt: "Poland's Ukraine lifeline moves materiel, hosts logistics, and enables
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
 author: "jason-mckenzie"
-last_updated: 2026-10-11
+last_updated: 2026-09-05
 lang: en
 ---
 The decision in front of a Polish planner is not whether Poland should be Ukraine's lifeline. Geography settled that before anyone in Warsaw had a vote. Poland shares a long land border with Ukraine, sits between Ukraine and the industrial and political core of the alliance, holds the rail and road connections that carry the weight of Western support eastward, and offers the ports, airfields, and warehouse capacity that a war of this scale consumes. The conduit exists because the map made it the cheapest and fastest one available. The real decision is narrower and harder: given that the flow runs through Polish territory, what should Poland and its allies actually do about the concentration that fact creates.

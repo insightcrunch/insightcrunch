@@ -9,7 +9,7 @@ excerpt: "Reading Russian military intentions means inferring intent from capabi
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 69
 author: "robert-quinn"
-last_updated: 2026-08-11
+last_updated: 2026-09-05
 lang: en
 ---
 Reading Russian military intentions is the analytical problem underneath every serious question about the eastern flank, and it is also the one that resists a clean answer. When a policymaker asks whether Moscow means to test NATO, whether a buildup is a threat or a bluff, or whether a given move is the opening of something larger, the honest reply is that intent is never handed over as a fact. It is inferred, always, from indirect evidence, by people who know their own inferences can be wrong. That gap between what can be seen and what must be judged is where good assessment lives and where bad assessment fails, and it is the subject of this article.

@@ -9,7 +9,7 @@ excerpt: "The valley of ashes and Corona's dump were one landscape. Here is the 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 48
 author: "diana-patel"
-last_updated: 2027-05-31
+last_updated: 2026-09-05
 lang: en
 ---
 Nick Carraway describes a grey waste on the road to the city, and most readers file it under symbolism and move on. That filing costs them the passage. The valley of ashes and Corona's dump are one landscape seen twice, once by a novelist and once by a sanitation contractor, and the second view is what makes the first one land. Fitzgerald did not invent a wasteland to sit between wealth and the city because the novel's design required one. He put a wasteland there because a wasteland was there, ninety feet of it in places, smoking, rat-ridden, and impossible to miss from the train window he sat at twice a week.

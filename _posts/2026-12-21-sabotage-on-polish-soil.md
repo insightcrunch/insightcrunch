@@ -9,7 +9,7 @@ excerpt: "Sabotage on Polish soil is measured wrongly by damage. The real proble
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 69
 author: "nathan-cole"
-last_updated: 2026-12-21
+last_updated: 2026-09-05
 lang: en
 ---
 A warehouse fire that investigators cannot immediately explain. A severed cable on a rail line. A blaze at a facility connected, however loosely, to the movement of goods eastward. Any one of these is a police matter, handled by prosecutors and insurers and forgotten within a news cycle. Read together, and read against the question of who benefits, sabotage on Polish soil becomes a different object entirely: not a series of crimes but a campaign, conducted below the threshold that would trigger a military response, and designed from the outset to be difficult to prove.

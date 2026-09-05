@@ -9,7 +9,7 @@ excerpt: "F. Scott Fitzgerald: A Life for Readers of The Great Gatsby, tracing h
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2026-11-09
+last_updated: 2026-09-05
 lang: en
 ---
 Open the novel and the first thing you meet is not Gatsby but a voice, a young Midwesterner named Nick who has come east and cannot decide whether he admires or pities the man he is about to describe. That double feeling, the pull toward glamour and the recoil from it, was not invented at a desk. It belonged to the man holding the pen. This is F. Scott Fitzgerald: A Life for Readers of the book, the essential biography behind the story, offered not as trivia but as a working tool for understanding why the novel aches the way it does. Fitzgerald was a Midwesterner who chased money and an unattainable woman and always felt himself an outsider to the settled rich, which is the exact shape of Jay Gatsby's longing.

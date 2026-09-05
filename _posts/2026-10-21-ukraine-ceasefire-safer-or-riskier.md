@@ -9,7 +9,7 @@ excerpt: "A Ukraine ceasefire would cut Poland's immediate spillover risk and co
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
 author: "andrew-price"
-last_updated: 2026-10-21
+last_updated: 2026-09-05
 lang: en
 ---
 A Ukraine ceasefire is the one plausible near-term event that could move Poland's risk picture sharply in either direction, and serious people who agree on almost everything else about Russia disagree about which direction it moves. That disagreement is not a failure of analysis. It is the honest product of a question where the same event pushes several risk drivers at once, some down and some up, on different clocks. A reader who has already decided the answer before working through the ledger has not reasoned; they have picked a side.

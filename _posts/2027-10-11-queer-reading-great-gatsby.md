@@ -9,7 +9,7 @@ excerpt: "A queer reading of The Great Gatsby attends to the desires and identit
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2027-10-11
+last_updated: 2026-09-05
 lang: en
 ---
 A plain reading of The Great Gatsby settles quickly into a story about a man, a woman, and a green light across the water. Gatsby loves Daisy, Daisy is married to Tom, and the whole gorgeous machinery of the parties turns on that one heterosexual longing. This is not wrong. It is simply the reading the surface of the novel most wants you to take, and it leaves a surprising amount of the book unaccounted for. A queer reading of The Great Gatsby begins from everything the surface story cannot quite absorb: the charge in Nick's attachments, the strange elisions in his narration, the intensity with which men watch and want and describe other men, the way the novel keeps naming feelings it refuses to categorize. The lens does not overturn the love plot, and it does not need to. It reads underneath and around that plot, in the spaces where the text goes quiet and the official story runs out of things to say.

@@ -9,7 +9,7 @@ excerpt: "A Reader-Response reading of Gatsby shows how the novel's gaps and cue
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 51
 author: "diana-patel"
-last_updated: 2027-09-13
+last_updated: 2026-09-05
 lang: en
 ---
 Ask two careful students what Jay Gatsby is like and you will often get two different men. One describes a romantic idealist wrecked by a careless world. The other describes a criminal fantasist who mistook a woman for a destination. Both can cite chapter and page. Both have read the same nine chapters in the same order. A Reader-Response reading of Gatsby starts exactly there, not by asking which student is right, but by asking what the novel does to produce two answers from one book, and why that disagreement looks designed rather than accidental.

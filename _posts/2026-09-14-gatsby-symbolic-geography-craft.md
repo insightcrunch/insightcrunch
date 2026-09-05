@@ -9,7 +9,7 @@ excerpt: "Symbolic geography as craft in Gatsby: how Fitzgerald engineers the ma
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2026-09-14
+last_updated: 2026-09-05
 lang: en
 ---
 Most readers meet the map of *The Great Gatsby* as scenery and move on. Two wealthy points of land, a gray stretch of dumping ground, a bright city, a green light glinting across dark water: these read as the places a story happens to occupy rather than as a designed argument. That surrender to the surface is the mistake this article corrects. Symbolic geography as craft in Gatsby is not decoration and not accident. Fitzgerald builds his locations, sets their distances, and routes his characters between them so that position itself carries the class and moral weight the novel wants to press. The map is not found. It is engineered, and reading it as engineering is the difference between admiring the setting and understanding the design.

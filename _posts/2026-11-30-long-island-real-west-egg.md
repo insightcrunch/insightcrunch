@@ -9,7 +9,7 @@ excerpt: "Long Island and the real West Egg reveal the Great Neck peninsula Fitz
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2026-11-30
+last_updated: 2026-09-05
 lang: en
 ---
 The map at the center of the novel is not a fantasy sketched from nothing. To read Long Island and the real West Egg together is to see that Fitzgerald built his moral geography on a peninsula he could walk, a shoreline he could see from a rented porch, and a social divide he lived inside for eighteen months. Nick Carraway opens his account as a man measuring distances, and the first distance he measures is the width of a bay between two spits of land that a reader can still find on any map of the region. Understanding the actual ground beneath the fiction changes how the whole book reads, because it turns the setting from a convenient invention into a deliberate act of translation.

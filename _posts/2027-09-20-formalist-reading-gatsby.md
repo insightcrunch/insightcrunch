@@ -9,7 +9,7 @@ excerpt: "A formalist reading of Great Gatsby treats the text as a self-sufficie
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 48
 author: "amanda-ross"
-last_updated: 2027-09-20
+last_updated: 2026-09-05
 lang: en
 ---
 A formalist reading of Great Gatsby asks you to do something that feels almost perverse at first. It asks you to set aside what you know about Fitzgerald's ruined marriage, his Long Island summers, the crash that waited three years past the last page, and the whole glittering apparatus of the Jazz Age, and to look instead at nothing but the words on the page and the shape they make. The claim underneath that discipline is bold: that the novel's power is built into its design, legible without any appeal to history or biography, and that if you learn to read the structure, the imagery, and the language as a single working system, the book will tell you what it means through its own construction. This is the oldest and in some ways the most demanding lens in the critical toolkit, and it remains one of the most useful for a student who has to argue a case from the text itself.

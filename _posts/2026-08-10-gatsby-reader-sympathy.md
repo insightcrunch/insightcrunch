@@ -11,6 +11,7 @@ excerpt: "How Fitzgerald controls reader sympathy is the novel's quiet trick: he
 keywords: "how fitzgerald controls reader sympathy, great gatsby how fitzgerald controls reader sympathy, fitzgerald literary techniques"
 reading_time: 40
 lang: en
+last_updated: 2026-09-05
 ---
 There is a con at the heart of this book, and most readers never notice it while it is being run on them. By the last page a great many people close the novel convinced that Jay Gatsby, a criminal who made his fortune in illegal alcohol and traded in stolen bonds, is the finest figure in it, and that Tom and Daisy Buchanan, who break no laws worth naming, are the ones who deserve contempt. Understanding how Fitzgerald controls reader sympathy means understanding that this verdict is not something the facts hand you. It is something the storytelling builds, plank by plank, before you have the facts at all. The novel arranges its disclosures so that admiration for a bootlegger and disdain for the law-abiding rich feel like conclusions you reached on your own, when in truth they were engineered for you by a narrator who decided what you would learn and, more importantly, when.
 

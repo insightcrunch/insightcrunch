@@ -9,7 +9,7 @@ excerpt: "What Poland learned from Ukraine's fight, and which lessons it has fun
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 69
 author: "robert-quinn"
-last_updated: 2026-11-11
+last_updated: 2026-09-05
 lang: en
 ---
 ## The capability question Ukraine actually poses for Poland

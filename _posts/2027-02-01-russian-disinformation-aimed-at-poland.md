@@ -9,7 +9,7 @@ excerpt: "Russian disinformation aimed at Poland works by corrosion, not convers
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 69
 author: "ian-fletcher"
-last_updated: 2027-02-01
+last_updated: 2026-09-05
 lang: en
 ---
 Russian disinformation aimed at Poland is usually described as an attempt to make Poles believe things that are not true. That description is not wrong, but it is a poor guide to what the campaign is for, and following it leads defenders to fight the wrong battle. A campaign built to persuade would look different: it would be internally consistent, it would push a single coherent line, and it would be measurable by counting converts. The activity actually observed against Poland and its neighbors is none of those things. It is often self-contradictory, it frequently pushes several incompatible claims at once, and it seems indifferent to whether any individual claim survives contact with evidence. That is not a failed persuasion campaign. It is a different kind of operation with a different objective, and the objective is closer to exhaustion than to belief.

@@ -9,7 +9,7 @@ excerpt: "Buffer states have stabilized, triggered, and been absorbed in great-p
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 71
 author: "robert-quinn"
-last_updated: 2026-11-21
+last_updated: 2026-09-05
 lang: en
 ---
 The argument usually arrives in a single sentence, delivered as though it settled something. Ukraine is a buffer state, and buffer states get eaten. Or its mirror image, delivered with equal confidence: Ukraine is nothing like the old buffer states of the atlas, so the history is a distraction. Both sentences reach for the same body of evidence, the long record of small and middle states wedged between rival great powers, and both misread it. The record does not say that a state in between is doomed. It does not say it is safe. It says something more demanding and more useful: that the fate of the state in the middle turns on a specific condition, that the condition can be named, and that watching it is a better use of an analyst's attention than arguing about whether the analogy is allowed.

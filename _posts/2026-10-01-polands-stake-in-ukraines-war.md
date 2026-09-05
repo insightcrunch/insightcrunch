@@ -9,7 +9,7 @@ excerpt: "Poland's stake in Ukraine's war is a security investment, not charity.
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 69
 author: "marcus-hall"
-last_updated: 2026-10-01
+last_updated: 2026-09-05
 lang: en
 ---
 Poland's stake in Ukraine's war is routinely misread in both directions, and the misreadings matter because they lead to bad predictions about what Warsaw will do next. One reading treats Polish support as an act of solidarity, generous and admirable and therefore, by implication, revocable the moment generosity runs out. The other treats it as thin, transactional, and already fraying, a posture kept up for allied consumption while domestic friction eats away underneath. Both readings share a hidden assumption: that the stake is something Poland chose and could unchoose. The assumption is wrong. Geography chose most of it. What Warsaw has chosen is how to respond to a stake that was already there, and that distinction is the whole analytical problem.

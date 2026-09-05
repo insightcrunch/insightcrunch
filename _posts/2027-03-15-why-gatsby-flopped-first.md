@@ -9,7 +9,7 @@ excerpt: "Why The Great Gatsby flopped at first: the modest sales, the mixed rev
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2027-03-15
+last_updated: 2026-09-05
 lang: en
 ---
 The book that now sits on nearly every American syllabus was, in its author's lifetime, a commercial disappointment and a critical puzzle. Understanding why The Great Gatsby flopped at first is not a footnote to the novel; it changes how you read the whole thing. A reader who assumes the book arrived to acclaim will treat its greatness as obvious and its meaning as settled. A reader who knows the truth, that it sold modestly, drew divided reviews, and left F. Scott Fitzgerald convinced he had failed, has to ask a sharper question: how can a book be a masterpiece and a flop at the same time? The answer is not that the first readers were stupid or that the novel was flawed. The answer is that the book and its moment did not fit, and reading the failure as a mismatch rather than a verdict is the whole point of taking its early reception seriously.

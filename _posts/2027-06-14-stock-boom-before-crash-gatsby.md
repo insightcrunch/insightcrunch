@@ -9,7 +9,7 @@ excerpt: "The stock market boom before the crash shadows every party in The Grea
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 48
 author: "rachel-foster"
-last_updated: 2027-06-14
+last_updated: 2026-09-05
 lang: en
 ---
 You already know how it ends, and Fitzgerald did not. That asymmetry is the whole subject of this article. The stock market boom before the crash is the one piece of context that does something no other historical frame can do to The Great Gatsby: it puts information in your hands that no character possesses and that the author, writing in 1924, did not possess either. When Nick Carraway walks into a Wall Street office and shelves a dozen volumes on banking and credit, he is a young man with a career. When you read that sentence, you are watching a man take a job on a floor that is going to fall out from under him.

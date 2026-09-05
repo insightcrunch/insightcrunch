@@ -9,7 +9,7 @@ excerpt: "The geography of old money on Long Island gave Fitzgerald a real arist
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2027-05-24
+last_updated: 2026-09-05
 lang: en
 ---
 Tom Buchanan never has to explain himself, and the geography of old money on Long Island is the reason why. When Nick Carraway drives across the bay to dinner in the first chapter, he is not crossing a symbolic divide that Fitzgerald invented out of nothing. He is crossing a real one. The peninsula on the far side of that water held, in 1922, a concentration of inherited American wealth so dense and so socially organized that it had its own clubs, its own hunt, its own polo fields, its own directory of acceptable names, and its own quiet machinery for deciding who belonged. Fitzgerald did not have to dream up an aristocracy. He rented a house within sight of one and wrote down what he saw.

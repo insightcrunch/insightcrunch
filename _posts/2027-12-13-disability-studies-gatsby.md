@@ -9,7 +9,7 @@ excerpt: "Disability studies and Great Gatsby criticism applied together: how Wi
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2027-12-13
+last_updated: 2026-09-05
 lang: en
 ---
 Count the bodies in this novel that work properly. Tom Buchanan has one, and Fitzgerald spends a paragraph on its muscle and its leverage. Jordan Baker has one, and she is a professional athlete who declines a cocktail because she is in training. After that the list runs out. George Wilson is introduced as "spiritless" and "anaemic" and ends the book unable to stand without holding the doorposts. The men of the valley are described as already crumbling. Myrtle Wilson's body is her only asset and is destroyed on a road. Disability studies and Great Gatsby criticism have not often been put together, and the reason is that readers assume the novel contains no disabled characters. The lens does not need one. It needs a text that sorts people by bodily capacity, and this one sorts relentlessly.

@@ -9,7 +9,7 @@ excerpt: "Spain vs Belgium World Cup 2026 quarter-final preview: prediction, pre
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 69
 author: "sofia-marchetti"
-last_updated: 2026-07-10
+last_updated: 2026-09-05
 lang: en
 ---
 Spain vs Belgium at World Cup 2026 poses a question that no other quarter-final on this bracket asks quite so cleanly: what happens when the most miserly defensive structure at the tournament meets the side that has scored more goals than anyone except one? Five matches into their campaign, Luis de la Fuente's Spain have not conceded a goal. Not one. Belgium, meanwhile, arrive in Los Angeles having put four past the co-hosts and having clawed back a two-goal deficit before that. One of those records breaks on Friday afternoon at Los Angeles Stadium, and the side it breaks for goes to Dallas to play France.

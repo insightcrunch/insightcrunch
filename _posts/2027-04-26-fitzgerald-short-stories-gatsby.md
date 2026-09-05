@@ -9,7 +9,7 @@ excerpt: "Fitzgerald's short stories and Gatsby share one workshop: tales like W
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2027-04-26
+last_updated: 2026-09-05
 lang: en
 ---
 The most useful thing to know about the writer who produced the finest American novel of the century is that he spent most of his working hours producing something else. Between 1920 and 1937, F. Scott Fitzgerald wrote and sold roughly a hundred and sixty short stories to magazines, and those stories, not his novels, paid for the houses, the travel, the hotel bills, and the two lives he and his wife could never quite afford. The relationship between Fitzgerald's short stories and Gatsby is therefore not a footnote to his career. It is the engine room of it. The magazine fiction was the paycheck that bought him the time to write a serious book, and, less obviously, it was the workshop where the themes of that book were tested, sharpened, and in some cases fully drafted before the novel existed at all. Read the stories and you stop seeing Gatsby as a bolt of inspiration and start seeing it as the perfection of an obsession Fitzgerald had been rehearsing for years.

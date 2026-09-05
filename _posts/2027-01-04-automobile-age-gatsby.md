@@ -9,7 +9,7 @@ excerpt: "The automobile age and The Great Gatsby meet on the road, where 1920s 
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2027-01-04
+last_updated: 2026-09-05
 lang: en
 ---
 ## Why the Automobile Age Rewrites How You Read Gatsby

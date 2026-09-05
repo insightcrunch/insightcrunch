@@ -9,7 +9,7 @@ excerpt: "France vs Morocco headlines the World Cup 2026 quarterfinals in Boston
 image: /assets/images/blog/blog-01.webp
 reading_time: 68
 author: "sebastian-vogt"
-last_updated: 2026-07-09
+last_updated: 2026-09-05
 lang: en
 ---
 France vs Morocco is the fixture the World Cup 2026 draw always seemed to be pointing toward, and now it arrives with the whole tournament watching. The first quarterfinal of the last eight brings Didier Deschamps and his unbeaten France side to Boston to face the African champions, and it does so as a straight rerun of the 2022 semifinal in Qatar, the night Morocco's dream run met the eventual finalists and fell one step short. Four years later the two nations meet again at the same knockout altitude, except this time the stage is North America, the winner walks into a World Cup 2026 semifinal, and the loser goes home for good. There is no away leg, no second chance, no aggregate to fall back on. Ninety minutes, extra time if needed, and penalties if it comes to that will decide who survives.

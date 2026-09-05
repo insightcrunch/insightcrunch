@@ -9,7 +9,7 @@ excerpt: "Beginnings and endings as craft in Gatsby: how Fitzgerald builds the o
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 38
 author: "chloe-martin"
-last_updated: 2026-08-31
+last_updated: 2026-09-05
 lang: en
 ---
 A novel can win a reader on its first page and lose the memory of that page by its last. Fitzgerald refuses that fate. The book you finish is the book you started, folded back on itself, and the sensation of return you feel at the final sentence is not an accident of mood but the payoff of an engineered design. Reading beginnings and endings as craft in Gatsby means treating the opening paragraph and the closing paragraph as a single built object, two walls of one room, each shaped so the reader who reaches the end recognizes the place they entered. The frame is the achievement. The first page reserves judgment and promises hope; the last page delivers the verdict and turns hope into elegy; and the distance between those two positions is the whole novel measured in feeling.

@@ -9,7 +9,7 @@ excerpt: "Lyricism and the poetic line in Gatsby is a craft study of where Fitzg
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 40
 author: "diana-patel"
-last_updated: 2026-07-27
+last_updated: 2026-09-05
 lang: en
 ---
 Read the last sentence of the novel aloud and something happens that does not happen with ordinary prose. The line lifts, gathers, and settles into a beat you can feel in the chest, and long after the plot has faded a reader can still hum the shape of it. That effect, prose that behaves like a poem, is the subject here. Lyricism and the poetic line in Gatsby names the register Fitzgerald reaches for at the book's emotional peaks, the moments when his sentences abandon the flat report of events and take on the rhythm, image density, and sound of verse. This is a craft study of that register: where it appears, how it is built, why Fitzgerald turns to it, and what a reader gains by hearing it as a deliberate technique rather than as vague literary prettiness.

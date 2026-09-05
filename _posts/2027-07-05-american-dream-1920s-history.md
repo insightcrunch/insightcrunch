@@ -9,7 +9,7 @@ excerpt: "The American Dream in 1920s history was a promise the decade made and 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 55
 author: "chloe-martin"
-last_updated: 2027-07-05
+last_updated: 2026-09-05
 lang: en
 ---
 Gatsby's father pulls a ragged boy's adventure book out of his coat at the funeral and opens it to the back flyleaf. On it, in a child's hand, dated September 12, 1906, there is a schedule. Rise at six. Study electricity. "Practise elocution, poise and how to attain it." Save five dollars a week, with the five crossed out and three written in above it. To read that page without the American Dream in 1920s history is to see a touching relic of a boy who wanted things. To read it with that history is to watch an ideology caught mid-gesture, adjusting its own arithmetic downward while leaving the faith completely untouched.

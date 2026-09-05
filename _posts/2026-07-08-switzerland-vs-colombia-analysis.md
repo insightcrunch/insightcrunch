@@ -4,7 +4,7 @@ page_title: "Switzerland vs Colombia Analysis: World Cup 2026 Round of 16"
 excerpt: "Switzerland vs Colombia ended 0-0 before the Swiss won 4-3 on penalties in Vancouver, reaching the World Cup 2026 quarterfinals against Messi's Argentina."
 slug: switzerland-vs-colombia-analysis
 date: 2026-07-08
-last_updated: 2026-07-08
+last_updated: 2026-09-05
 categories: ["Leisure"]
 author: "carlos-mendez"
 tags: ["World Cup 2026", "Switzerland", "Colombia", "Round of 16", "Penalty Shootout", "Knockout Stage"]

@@ -9,7 +9,7 @@ excerpt: "Russian forces in Belarus are a layered presence, standing, rotational
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 69
 author: "david-thornton"
-last_updated: 2027-04-01
+last_updated: 2026-09-05
 lang: en
 ---
 The most useful question about the Russian military footprint in Belarus is not how many soldiers stand on Belarusian soil on any given morning. It is a harder and more revealing question: how much genuine combat power does that footprint represent, how permanent is it, and how much of what an observer sees is a standing capability versus a rotational signal that comes and goes with the exercise calendar. Answer that, and the launchpad debate becomes tractable. Miss it, and every troop sighting turns into either an invasion scare or a shrug, both of them wrong.

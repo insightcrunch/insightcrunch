@@ -9,7 +9,7 @@ excerpt: "France vs England analysis: England won a chaotic 6-4 World Cup 2026 t
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
 author: "naomi-adebayo"
-last_updated: 2026-07-19
+last_updated: 2026-09-05
 lang: en
 ---
 The France vs England analysis from the World Cup 2026 third-place play-off begins with a scoreline that reads like a misprint and a first half that decided everything. England beat France 6-4 in Miami on July 18 to finish third at the World Cup 2026, and the single thing that explains a ten-goal bronze final is that Thomas Tuchel's heavily rotated side scored four times inside the opening forty-six minutes and then held on through a French storm that at one stage cut the gap to a single goal. Declan Rice, wearing the captain's armband, struck inside three minutes; Ezri Konsa headed the second; Bukayo Saka scored twice before the interval and completed a hat-trick from the penalty spot late on; and Jude Bellingham, a substitute, dribbled in the sixth. France answered through a Kylian Mbappe brace that carried him past Lionel Messi to become the all-time leading scorer in World Cup history, plus goals from Bradley Barcola and Ousmane Dembele, but the comeback fell one short in what was Didier Deschamps' last match in charge of Les Bleus.

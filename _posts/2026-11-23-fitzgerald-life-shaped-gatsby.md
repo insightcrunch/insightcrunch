@@ -9,7 +9,7 @@ excerpt: "How Fitzgerald's life shaped The Great Gatsby is a story of distillati
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2026-11-23
+last_updated: 2026-09-05
 lang: en
 ---
 Ask where a novel comes from and you usually get one of two bad answers. Either the book fell fully formed from a writer's imagination, owing nothing to the man who held the pen, or the book is a coded diary, its characters real people wearing thin disguises. Understanding how Fitzgerald's life shaped The Great Gatsby means refusing both answers. Fitzgerald did not invent his novel out of nothing, and he did not transcribe his life onto the page. He did something harder and more interesting. He took the raw material of his own experience, the class envy of an outsider, the courtship that nearly failed for want of money, the wealthy people he watched from the edge of their world, and he refined that material into fiction until it stopped being a record and became a shape. The life is present in every chapter. It is present the way a landscape is present in a painting, changed by the act of being rendered.

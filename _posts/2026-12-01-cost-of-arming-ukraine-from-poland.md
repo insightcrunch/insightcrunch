@@ -9,7 +9,7 @@ excerpt: "The cost of arming Ukraine from Poland set old stocks and a readiness 
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
 author: "robert-quinn"
-last_updated: 2026-12-01
+last_updated: 2026-09-05
 lang: en
 ---
 ## The Cost of Arming Ukraine From Poland Is a Ledger, Not a Headline

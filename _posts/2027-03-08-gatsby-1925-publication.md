@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby's 1925 publication story reveals how Scribner's launc
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-03-08
+last_updated: 2026-09-05
 lang: en
 ---
 A book that would one day be called the finest American novel arrived in the spring of 1925 to almost no applause, and that quiet is the first fact of its life. The Great Gatsby's 1925 publication story is not a footnote to the reading; it is the frame that tells you what kind of object you are holding. Scribner's released a masterpiece on a Friday, wrapped it in one of the most famous covers in publishing, priced it at two dollars, and watched the world barely turn its head. Understanding how the novel first met its readers changes how you read every sentence inside it, because the gap between the book's quality and its reception opened on day one and never closed while its author lived.

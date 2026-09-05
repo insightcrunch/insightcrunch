@@ -9,7 +9,7 @@ excerpt: "New York City in the 1920s and Gatsby meet in the Manhattan scenes, wh
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2027-01-11
+last_updated: 2026-09-05
 lang: en
 ---
 ## The Stakes: Why the City Changes How You Read the Novel

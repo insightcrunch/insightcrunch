@@ -9,7 +9,7 @@ excerpt: "A deconstructionist reading of Gatsby shows how the novel undoes its o
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2027-09-27
+last_updated: 2026-09-05
 lang: en
 ---
 Ask a class what the word "great" means in the title, and the answers split before anyone finishes a sentence. Half the room hears praise; the other half hears a question, or a joke, or a wound. That split is not a failure of attention. It is the novel working exactly as it was built to work, and a deconstructionist reading of Gatsby begins by refusing to smooth the split over. Where a plain reading picks a side and moves on, this lens stops on the fault line and studies it, because the fault line is where the book keeps its meaning.

@@ -9,7 +9,7 @@ excerpt: "Scientific racism and Tom's books in Gatsby trace to real 1920s pseudo
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2027-02-15
+last_updated: 2026-09-05
 lang: en
 ---
 Ten pages into The Great Gatsby, before Gatsby himself has said a word, a wealthy man at a dinner table leans forward and announces that the white race is about to be submerged. This is where scientific racism and Tom's books enter the novel. Tom Buchanan is not raving. He is citing a book. He believes he is passing along settled knowledge, the kind that has been "proved," and he expects the table to be grateful for the education. The moment is easy to skim past as one more sign that Tom is a boor. Read it that way and you miss the point Fitzgerald built into it. The pseudo-science behind Tom's dinner-table lecture is not a throwaway character note. It is the novel pausing to show you a real ideology that gripped respectable America in the 1920s, an ideology that borrowed the prestige of the laboratory to make bigotry sound like fact, and it matters enormously to how you read Tom, the Buchanans, and the world of privilege the whole book anatomizes.

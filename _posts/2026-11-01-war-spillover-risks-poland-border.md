@@ -9,7 +9,7 @@ excerpt: "War spillover on Poland's border is a classification problem, not a pa
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 69
 author: "benjamin-scott"
-last_updated: 2026-11-01
+last_updated: 2026-09-05
 lang: en
 ---
 The hardest question on Poland's eastern frontier is not whether Russia will decide to attack. It is what a Polish duty officer, a NATO air-policing controller, and eventually a prime minister should conclude at three in the morning when something has just come down in a field near the border and nobody yet knows what it was, who fired it, or whether it was aimed. War spillover risks on Poland's border belong to that category of problem where the analytical failure and the political failure are the same failure: the wrong label, applied fast, under pressure, on thin evidence. Timing is the crux because the decision clock and the evidence clock run at different speeds, and the gap between them is where escalation lives.
