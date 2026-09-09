@@ -9,7 +9,7 @@ excerpt: "Can't repeat the past? Quote analyzed in full: what Nick warns, how Ga
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 38
 author: "amanda-ross"
-last_updated: 2029-02-12
+last_updated: 2026-09-09
 lang: en
 ---
 Two men are walking on a path littered with fruit rinds and crushed flowers after a party nobody enjoyed, and one of them says something reasonable. Nick tells Gatsby not to ask too much of Daisy, and then adds the flat piece of common sense that the novel has been circling for six chapters: you cannot repeat the past. Can't repeat the past? Quote analyzed at full length, Gatsby's four-word reply is the most important thing he says in the book, and it is a question rather than a statement, which is the detail almost every discussion loses.

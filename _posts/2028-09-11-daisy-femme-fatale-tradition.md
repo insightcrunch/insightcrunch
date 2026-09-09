@@ -9,7 +9,7 @@ excerpt: "Daisy and the femme fatale tradition: how Fitzgerald's most labelled c
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 47
 author: "claire-bennett"
-last_updated: 2028-09-11
+last_updated: 2026-09-09
 lang: en
 ---
 Type her name into any essay-help site and the label arrives within two sentences. Daisy and the femme fatale tradition have been welded together in classroom discussion for so long that the pairing now feels like a finding rather than a claim, and that is exactly the problem worth examining. A label that arrives before the analysis is not a conclusion. It is a shortcut, and this one carries assumptions about women, desire, and blame that the novel itself declines to endorse.

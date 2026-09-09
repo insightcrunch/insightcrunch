@@ -9,7 +9,7 @@ excerpt: "Her voice is full of money explained line by line: what Gatsby's famou
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 38
 author: "rachel-foster"
-last_updated: 2029-02-05
+last_updated: 2026-09-09
 lang: en
 ---
 Gatsby says six words on a lawn in East Egg and the novel rearranges itself around them. Nick has been fumbling for a description of Daisy since the first chapter, and here, standing in the heat before the drive into town, he gets close and then stalls out. Gatsby finishes the sentence for him. Her voice is full of money explained more to Nick in one breath than his own months of watching had produced, and the phrase has been doing that work for readers ever since. It is the line most often pulled out to prove that Fitzgerald wrote a book about class rather than a book about love, and it is also the line that proves the distinction was never available in the first place.

@@ -4,11 +4,11 @@ title: "Life in an alternate universe"
 date: 2023-08-10
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2023", "Thoughts"]
-excerpt: "Imagine a life shaped by completely different choices. A thoughtful exploration of alternate paths, missed chances, and the versions of us that could..."
+excerpt: "In an alternate universe, the contours of my life have been molded by divergent choices, unforeseen events, and the intricate interplay of chance."
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 3
 author: "diana-patel"
-last_updated: 2026-03-30
+last_updated: 2026-09-09
 lang: en
 ---
 In an alternate universe, the contours of my life have been molded by divergent choices, unforeseen events, and the intricate interplay of chance. Stepping into this alternate reality unveils a tapestry of experiences and a version of myself that I might never have imagined.

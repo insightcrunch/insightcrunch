@@ -9,7 +9,7 @@ excerpt: "Boats against the current: the final image of Gatsby unpacked word by 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2029-01-15
+last_updated: 2026-09-09
 lang: en
 ---
 "So we beat on, boats against the current, borne back ceaselessly into the past." Boats against the current: the final image of The Great Gatsby is thirteen words long, it is carved on the author's grave, and it is quoted more often than any other sentence in American fiction by people who have never read the book it ends. What follows is that image taken apart on its own terms: what the picture contains, how the metaphor is engineered, why the pronoun changes everything in the last twelve pages, and why reading it as pure defeat gets the sentence exactly half right.

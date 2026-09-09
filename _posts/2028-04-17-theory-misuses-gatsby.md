@@ -9,7 +9,7 @@ excerpt: "The misuses of theory when reading Gatsby wreck good essays: imposed f
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-04-17
+last_updated: 2026-09-09
 lang: en
 ---
 The misuses of theory when reading Gatsby are not exotic failures committed by careless undergraduates alone. They appear in published criticism, in classroom handouts, in the confident paragraph a strong student writes at eleven at night, and in the machine-generated summaries that now circulate faster than the criticism they imitate. A critical lens is a device for making evidence visible, and like any instrument it can be pointed at nothing, calibrated wrongly, or used to manufacture the reading it was supposed to discover. When that happens the result is not a neutral loss. It is a positive distortion: a reading that sounds more sophisticated than an honest paraphrase while telling you less about the book.

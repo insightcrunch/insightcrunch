@@ -9,7 +9,7 @@ excerpt: "Nick Carraway and the witness-narrator tradition: the lineage of perip
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2028-08-14
+last_updated: 2026-09-09
 lang: en
 ---
 Nick Carraway and the witness-narrator tradition belong together so naturally that most readers never notice a tradition is operating at all. A man rents a small house next to a large one, watches the neighbor's story unfold, survives it, and writes it down. The arrangement feels like the only way the book could have been told, which is exactly what a well-inherited form feels like from the inside. It is not the only way. It is a specific technical choice with a documented lineage behind it, a set of costs the novel pays in full, and a set of advantages no other arrangement supplies. Seeing the choice as a choice is the difference between admiring Nick's narration and being able to argue about it.

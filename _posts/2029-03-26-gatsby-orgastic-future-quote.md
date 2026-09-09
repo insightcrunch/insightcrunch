@@ -9,7 +9,7 @@ excerpt: "The orgastic future is the most disputed word in The Great Gatsby, and
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2029-03-26
+last_updated: 2026-09-09
 lang: en
 ---
 "Gatsby believed in the green light, the orgastic future that year by year recedes before us." The orgastic future is the strangest phrase in The Great Gatsby and the most argued over, because for a large part of the twentieth century a great many readers encountered a different word in the same slot. Editions printed "orgiastic." Teachers taught it. Students quoted it. Two words, one letter apart, sitting in the second-to-last sentence of the most studied novel in American literature, and the disagreement over which one belongs there has outlasted almost everyone involved in starting it.

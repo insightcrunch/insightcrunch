@@ -9,7 +9,7 @@ excerpt: "Gatsby and modernist American fiction: the company Fitzgerald keeps, t
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-08-21
+last_updated: 2026-09-09
 lang: en
 ---
 Gatsby and modernist American fiction have an awkward relationship in the classroom. The novel is taught as a modernist text, appears on modernism syllabuses, and shares a decade and a set of methods with the movement's central works, yet almost nobody finds it hard. Students who need three weeks and a guide to get through the era's celebrated experiments read this one over a weekend and enjoy it. That mismatch, between the movement it belongs to and the ease with which it goes down, is the placement's real subject. Resolving it produces an argument about what modernism actually required and what it merely happened to look like.

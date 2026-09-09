@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby vs The Beautiful and Damned: how Fitzgerald swapped t
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-05-15
+last_updated: 2026-09-09
 lang: en
 ---
 Set The Great Gatsby beside The Beautiful and Damned and you can watch a writer learn what to leave out. Posed as The Great Gatsby vs The Beautiful and Damned, the question is not which book wins but what changed in the method between them. Fitzgerald published his second novel in 1922 and his third in April 1925, thirty-eight months apart, and in that gap he stopped anatomizing wealth and started mourning it. The earlier book is longer, angrier, and more thorough. It follows Anthony Patch and Gloria Gilbert through years of waiting for an inheritance, and it records their decay with a documentary patience that leaves nothing out. The later book covers one summer, runs under fifty thousand words, and ends with a man dead in a swimming pool and a narrator trying to say what the dead man meant. The subject barely changed. The angle of vision changed completely.

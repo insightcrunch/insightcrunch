@@ -9,7 +9,7 @@ excerpt: "The key quotes about time and the past in The Great Gatsby, gathered a
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2029-06-18
+last_updated: 2026-09-09
 lang: en
 ---
 ## Why the Key Quotes About Time and the Past Trace a Single Arc

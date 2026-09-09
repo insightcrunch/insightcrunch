@@ -9,7 +9,7 @@ excerpt: "Gatsby vs Wuthering Heights compared: Jay Gatsby and Heathcliff both l
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-07-17
+last_updated: 2026-09-09
 lang: en
 ---
 Two men rise from nothing, acquire money nobody can account for, buy their way back into the presence of a woman who married someone richer, and destroy a good deal of the surrounding world in the attempt. One does it on a Yorkshire moor in the 1780s. The other does it on a Long Island shore in 1922. A Gatsby vs Wuthering Heights comparison is worth running at length because the resemblance is not atmospheric or vague; it is a matching set of decisions about how obsession works, what class does to love, and why a story of consuming passion is best delivered by somebody who was not consumed by it.

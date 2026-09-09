@@ -9,7 +9,7 @@ excerpt: "Gatsby and the tragic hero tradition: how Fitzgerald's dreamer fits th
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-08-07
+last_updated: 2026-09-09
 lang: en
 ---
 Set Jay Gatsby beside Oedipus, Macbeth, and Willy Loman and something clarifies that no single reading of the novel can produce on its own. Gatsby and the tragic hero tradition fit together at an angle: close enough that the ancient pattern of greatness, flaw, and fall keeps snapping into place over Fitzgerald's dreamer, and far enough apart that every time it snaps, something sticks out and will not go in. That overhang is the useful part. A reader who only asks whether Gatsby qualifies as a tragic hero gets a yes-or-no answer worth about one sentence. A reader who asks what the ancient form has to give up in order to hold him gets an argument about what happened to tragedy when it crossed the Atlantic and stopped needing kings.

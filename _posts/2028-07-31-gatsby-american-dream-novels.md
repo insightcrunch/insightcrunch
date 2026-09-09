@@ -9,7 +9,7 @@ excerpt: "The American Dream novel tradition placed in order: where Gatsby sits 
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-07-31
+last_updated: 2026-09-09
 lang: en
 ---
 Here is a fact that reorganises the whole subject once a reader takes it in. The phrase everyone uses to describe this novel does not appear in it. Fitzgerald never wrote the words "the American dream" anywhere in the book, and he could not have taken the phrase from common currency, because it entered common currency six years after publication, when the historian James Truslow Adams popularised it in The Epic of America in 1931. The American Dream novel tradition was therefore assembled around a book whose author did not have the name for the thing he was writing about, which tells you something important about how traditions work: they are built backward, by readers, out of books that were answering the same pressure without knowing they were answering it together.

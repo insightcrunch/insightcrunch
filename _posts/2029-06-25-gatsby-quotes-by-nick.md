@@ -9,7 +9,7 @@ excerpt: "Key quotes said by Nick Carraway, from the reserved opening to the clo
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 39
 author: "claire-bennett"
-last_updated: 2029-06-25
+last_updated: 2026-09-09
 lang: en
 ---
 The key quotes said by Nick Carraway start with a sentence he did not write. His father handed him an instruction about criticizing other people, and Nick has been turning it over ever since. He repeats it, endorses it, and builds a self-description on top of it: he is inclined, he says, to "reserve all judgements." Within two pages he has called a man's body cruel, mocked a party guest, and pronounced a verdict on the entire eastern seaboard. The gap between what Nick says about himself and what his sentences actually do is not a flaw in the novel. It is the novel's engine, and the lines gathered here are where you can watch it run.

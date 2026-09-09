@@ -9,7 +9,7 @@ excerpt: "Gatsby vs Death of a Salesman: how Fitzgerald and Miller indict the sa
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-05-22
+last_updated: 2026-09-09
 lang: en
 ---
 Two men are sold the same promise and neither survives it. That is the pairing at the center of Gatsby vs Death of a Salesman, and the reason it has been assigned in American classrooms for seventy years is that it works at two social altitudes at once. Jay Gatsby buys a mansion across the water from the woman he wants and dies in his own pool without her. Willy Loman rents a small house in Brooklyn, cannot make his territory pay, and drives into a wall so his family can collect the insurance. One man is a bootlegger with a fabricated past and a private beach. The other is a sixty-three year old salesman with a broken car and two disappointing sons. Set their stories together and the promise that destroyed them turns out to be identical.

@@ -9,7 +9,7 @@ excerpt: "The first line of Great Gatsby explained: what Nick's father said, why
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2029-01-08
+last_updated: 2026-09-09
 lang: en
 ---
 "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since." That is where the book starts, and every argument the novel later makes about money, class, love, and memory is already loaded into it. Here is the first line of Great Gatsby explained at the level the sentence actually rewards: not as a graceful throat-clearing before the plot arrives, but as a load-bearing structure that installs a narrator, sets a moral standard, and plants the irony the remaining nine chapters will spend themselves detonating.

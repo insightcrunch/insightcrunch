@@ -9,7 +9,7 @@ excerpt: "How critics have read Gatsby over time: the full critical history from
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-02-28
+last_updated: 2026-09-09
 lang: en
 ---
 Fitzgerald died in December 1940 convinced that his third novel had failed. Copies from its second printing were still sitting in a Scribner's warehouse. He had spent the last years of his life writing for the movies and publishing short stories about a hack screenwriter, and the book that would eventually be assigned to more American teenagers than any other novel of its century was, at that moment, a commercial disappointment fifteen years old. Tracing how critics have read Gatsby over time means beginning with that warehouse, because everything the book later became was built on top of a period when almost nobody thought it mattered.

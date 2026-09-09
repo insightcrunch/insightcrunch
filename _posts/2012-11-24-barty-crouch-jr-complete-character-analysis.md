@@ -5,11 +5,11 @@ page_title: "Barty Crouch Jr Complete Character Analysis - Fanaticism, Paternal 
 date: 2012-11-24
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Death Eaters", "Goblet of Fire", "Villain Psychology", "Impersonation"]
-excerpt: "Deep literary analysis of Barty Crouch Jr in Harry Potter - fanaticism as inheritance, paternal failure, the Moody impersonation, and a year of disguise."
+excerpt: "Barty Crouch Jr fully analyzed: the loyal servant, the disguised teacher, and the son shaped by his father's failure."
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 73
 author: "lauren-hayes"
-last_updated: 2012-11-24
+last_updated: 2026-09-09
 lang: en
 ---
 ## Introduction: The Son Who Became His Father's Enemy

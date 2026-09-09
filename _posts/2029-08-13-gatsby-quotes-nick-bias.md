@@ -9,7 +9,7 @@ excerpt: "Quotes that reveal Nick's bias expose a partial narrator, with a bias 
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 38
 author: "rachel-foster"
-last_updated: 2029-08-13
+last_updated: 2026-09-09
 lang: en
 ---
 "I'm inclined to reserve all judgements." That is the fourth sentence a reader encounters in The Great Gatsby, and it is false. Within two pages the same narrator has described a man he has not yet introduced as possessing an extraordinary gift for hope, has condemned an unnamed force as foul dust, and has announced that one person among his acquaintances was exempt from a scorn he applied to everyone else. Three judgments, delivered before the story starts, by a man who has just told us he does not make them.

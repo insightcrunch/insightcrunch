@@ -9,7 +9,7 @@ excerpt: "Gatsby and T. S. Eliot's The Waste Land: two 1920s wastelands, one of 
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2028-11-06
+last_updated: 2026-09-09
 lang: en
 ---
 Three years separate the two most quoted American accounts of a spiritually dead modern world, and they are not two novels. One is a poem of four hundred and thirty-odd lines published in 1922. The other is a short novel published in April 1925. Reading Gatsby and T. S. Eliot's The Waste Land together is not a stunt assignment, because the connection is documented on both sides: Fitzgerald admired Eliot enough to inscribe a copy of his novel to him as the greatest living poet, and Eliot wrote back that he had read the book three times and considered it the first step American fiction had taken since Henry James. Two writers who did not share a country of residence, a form, or a temperament recognized each other immediately, and the reason is visible in the first paragraph of the novel's second chapter.

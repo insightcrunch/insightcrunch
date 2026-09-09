@@ -9,7 +9,7 @@ excerpt: "Famous critical essays on Great Gatsby scholarship: the landmark readi
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2028-03-06
+last_updated: 2026-09-09
 lang: en
 ---
 Type famous critical essays on Great Gatsby into a library catalog and you will get several hundred results, most of them useless to you. The problem is not scarcity. Fitzgerald's third novel has attracted more academic attention per page than almost any book in American literature, and the volume is precisely what makes the search hard. What a student actually needs is not a bibliography but a map: which pieces of scholarship changed what everyone else was allowed to say afterward, and what each of them argued.

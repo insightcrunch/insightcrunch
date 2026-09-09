@@ -9,7 +9,7 @@ excerpt: "Gatsby vs The Catcher in the Rye: how Nick Carraway and Holden Caulfie
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2028-06-05
+last_updated: 2026-09-09
 lang: en
 ---
 Two American narrators tell you in their opening paragraphs that they are going to withhold something, and both spend the rest of their books failing to. That shared move is the reason Gatsby vs The Catcher in the Rye survives as a classroom pairing rather than as a coincidence of the syllabus. Nick Carraway opens by reporting his father's advice about withholding criticism and announcing that he is inclined to reserve all judgements, then judges nearly everyone he meets. Holden Caulfield opens by refusing to supply the childhood details a reader might expect and declaring the whole business of biography tiresome, then supplies three days of exhaustive and painful detail about himself. Two narrators, twenty-six years apart, both beginning with a promise of restraint and both immediately breaking it.

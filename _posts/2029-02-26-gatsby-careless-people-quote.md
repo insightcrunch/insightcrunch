@@ -9,7 +9,7 @@ excerpt: "The careless people quote explained in detail: what Nick's Chapter 9 v
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 38
 author: "amanda-ross"
-last_updated: 2029-02-26
+last_updated: 2026-09-09
 lang: en
 ---
 Nick meets Tom Buchanan on Fifth Avenue months after the summer has ended, and Tom, unrepentant, explains why he told George Wilson whose car killed Myrtle. Nick shakes his hand because refusing seemed silly. Then, walking away, he delivers the sentence that has functioned ever since as the novel's moral summary. The careless people quote explained properly is not a complaint about manners. It is a description of how a certain kind of wealth operates, and it is the closest Fitzgerald comes to stating a political position in a book that mostly refuses to state one.

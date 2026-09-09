@@ -9,7 +9,7 @@ excerpt: "The best quotes in Chapter 5 explained one by one, from the stopped cl
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 39
 author: "chloe-martin"
-last_updated: 2029-05-07
+last_updated: 2026-09-09
 lang: en
 ---
 A reader looking for the best quotes in Chapter 5 explained rather than merely listed has arrived at the most emotionally crowded stretch of The Great Gatsby, and also the most frequently misread. This is the reunion. Five years of waiting resolve into an afternoon of tea in a small rented cottage, followed by a tour of a mansion nobody needed. Students come away with the sobbing over the shirts and little else, and then write essays claiming the chapter shows Gatsby getting what he wanted. It shows something stranger and more useful: a man receiving exactly what he asked for and discovering, line by line, that receiving costs him.

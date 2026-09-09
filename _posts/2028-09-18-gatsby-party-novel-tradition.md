@@ -9,7 +9,7 @@ excerpt: "Gatsby and the great American party novel: the four-beat structure beh
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2028-09-18
+last_updated: 2026-09-09
 lang: en
 ---
 Every reader remembers the parties, and almost nobody analyzes them. That is the strange fact behind any discussion of Gatsby and the great American party novel: the third chapter is the most quoted stretch of American prose about social life, and it is routinely treated as scenery in front of the plot rather than as the instrument the plot is built from. Set the novel among the books that use a party as a stage and the scenery reorganizes itself into a machine.

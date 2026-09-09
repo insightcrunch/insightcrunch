@@ -9,7 +9,7 @@ excerpt: "So we beat on: closing paragraph analyzed sentence by sentence, tracin
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 38
 author: "rachel-foster"
-last_updated: 2029-01-22
+last_updated: 2026-09-09
 lang: en
 ---
 "Gatsby believed in the green light, the orgastic future that year by year recedes before us." That sentence opens the passage most readers mean when they talk about how the novel ends, and it is where the book performs its final and largest move. So we beat on: closing paragraph analyzed properly means tracking a widening, because in roughly seventy words Fitzgerald takes a story about one man's specific delusion and converts it into a description of everyone alive, and he does it by changing pronouns rather than by making an argument.

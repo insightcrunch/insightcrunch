@@ -9,7 +9,7 @@ excerpt: "Gatsby and the bildungsroman question, settled with evidence: Nick's s
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2028-10-09
+last_updated: 2026-09-09
 lang: en
 ---
 Ask an examiner whether The Great Gatsby is a coming-of-age novel and you will get a careful answer, because the honest one has two halves. Gatsby and the bildungsroman question is not a puzzle with a hidden solution; it is a genuine split in the book. One character in this novel is educated by the summer of 1922. He arrives in the East knowing very little about the people he is about to meet, and he leaves knowing more than he wants to. The other character, the one whose name is on the cover, ends the book believing exactly what he believed on the first page, and dies believing it.

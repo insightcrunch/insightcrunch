@@ -9,7 +9,7 @@ excerpt: "The last line of Great Gatsby explained: what boats against the curren
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2029-01-01
+last_updated: 2026-09-09
 lang: en
 ---
 "So we beat on, boats against the current, borne back ceaselessly into the past." Fourteen words, four commas, one metaphor, and the most quoted sentence in American fiction. It appears on graduation cards, in wedding speeches, and on the walls of people who have read it as encouragement, which is a misreading the sentence invites and then quietly refuses. This is the last line of Great Gatsby explained in full: what it says, what it does, why its rhythm works, and why the optimistic reading and the despairing reading are both incomplete.

@@ -9,7 +9,7 @@ excerpt: "Gatsby and the self-made man in literature: how Fitzgerald's hero comp
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-09-04
+last_updated: 2026-09-09
 lang: en
 ---
 Nobody in American fiction rises quite the way Jay Gatsby rises. That is the first thing to notice when you set Gatsby and the self-made man in literature side by side, because the comparison is supposed to be easy and it is not. The self-made man is the most durable figure in American writing, a character who begins with nothing, works upward through effort and appetite, and arrives at the money he was born without. Gatsby does all of that. He also invents a father for himself, buys a mansion nobody can explain, sells grain alcohol over drugstore counters, and dies in a swimming pool with three mourners at his grave. Place him in the lineage and the lineage cracks.

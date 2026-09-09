@@ -9,7 +9,7 @@ excerpt: "The fresh green breast of the new world passage traces Gatsby's longin
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 40
 author: "chloe-martin"
-last_updated: 2029-03-12
+last_updated: 2026-09-09
 lang: en
 ---
 "a fresh, green breast of the new world." The fresh green breast passage arrives in the final pages of The Great Gatsby, after the funeral, after Nick has decided to go back west, when a man alone on a beach at night watches the houses along the shore stop looking like houses. In four sentences Fitzgerald pulls the camera back three hundred years and shows the reader what the same stretch of water looked like to men who had never seen it before. Nothing in the plot requires this. Gatsby is dead, Tom and Daisy have gone, and the novel could end without it. The passage exists to change the scale of everything the reader has just watched, and it succeeds so completely that Gatsby's private longing for a woman across a bay becomes indistinguishable from an entire continent's founding appetite.

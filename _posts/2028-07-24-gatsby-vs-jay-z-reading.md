@@ -9,7 +9,7 @@ excerpt: "Jay-Z's reading of Gatsby, traced through the documented 2013 soundtra
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-07-24
+last_updated: 2026-09-09
 lang: en
 ---
 In March 2013 Warner Bros announced that Shawn Carter would collaborate with Baz Luhrmann on a film of a 1925 novel about a bootlegger. Two months later the soundtrack arrived with a rap track as its opening cut and went to number one. Jay-Z's reading of Gatsby is the name this article gives to what happened next: a novel that had spent ninety years as a set text acquired a second audience, and that audience heard something in it that the classroom had been talking around. The reading is worth taking seriously not because a musician's opinion settles a literary question, but because the reception exposes a tension the novel has always contained and that most teaching of it smooths over.

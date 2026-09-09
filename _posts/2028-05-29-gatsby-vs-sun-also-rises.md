@@ -9,7 +9,7 @@ excerpt: "Gatsby vs The Sun Also Rises: how Fitzgerald and Hemingway answered th
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2028-05-29
+last_updated: 2026-09-09
 lang: en
 ---
 Two books published eighteen months apart describe the same hollow and sound nothing alike. That is the whole interest of Gatsby vs The Sun Also Rises, and it is why the pairing has survived a century of classroom use without going stale. Fitzgerald's novel appeared in April 1925 and Hemingway's in October 1926, both from Scribner's, both edited by Maxwell Perkins, both written by young Americans living partly in Europe, and both about people who came out of a war into a decade that could not tell them what to do next. Set them side by side and the shared diagnosis is unmistakable. Read a paragraph from each and you would not guess they belonged to the same generation, the same publisher, or the same argument.

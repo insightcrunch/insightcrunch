@@ -9,7 +9,7 @@ excerpt: "The green light quote analyzed line by line: the reach across dark wat
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2029-01-29
+last_updated: 2026-09-09
 lang: en
 ---
 Fitzgerald ends the first chapter of The Great Gatsby on a man alone on a lawn who "stretched out his arms toward the dark water in a curious way," and that clause is the moment the novel's central symbol arrives already in motion. The green light quote analyzed at the level it deserves is not a discussion of what green means; it is an examination of a staged sighting in which a man is watched reaching toward something he cannot reach, by a narrator who chooses not to speak, at a distance that makes the whole scene unverifiable. Everything the symbol will later carry is present in that arrangement, and almost none of it is present in the color.

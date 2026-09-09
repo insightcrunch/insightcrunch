@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby vs This Side of Paradise measures five years of growt
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2028-05-08
+last_updated: 2026-09-09
 lang: en
 ---
 Reading The Great Gatsby vs This Side of Paradise is the closest thing available to watching a writer acquire control in public. Five years and two books separate them. The debut appeared in March 1920, written by a twenty-three-year-old who had left Princeton without a degree, and it made him famous within weeks. The third novel appeared in April 1925 and is one of the most tightly built books in the language. The same preoccupations run through both, which is what makes the comparison useful: with the subject held constant, the difference is entirely craft, and craft is therefore measurable.

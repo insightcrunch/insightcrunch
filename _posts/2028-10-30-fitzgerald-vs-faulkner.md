@@ -9,7 +9,7 @@ excerpt: "Fitzgerald vs Faulkner on the American Dream: the Eastern dreamer agai
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 47
 author: "sophia-turner"
-last_updated: 2028-10-30
+last_updated: 2026-09-09
 lang: en
 ---
 Set The Great Gatsby beside Absalom, Absalom! and the American Dream stops being one idea. It becomes two incompatible machines for grinding people down. That is the payoff of reading Fitzgerald vs Faulkner on the American Dream: not a ranking, not a regional curiosity, but a diagnosis. Both writers watched a man build himself from nothing, and both watched the building collapse. What separates them is what they think the wreckage is made of. For Fitzgerald it is a personal history a man tried to rewind. For Faulkner it is a collective history a whole region cannot put down.

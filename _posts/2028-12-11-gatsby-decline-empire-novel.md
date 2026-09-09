@@ -9,7 +9,7 @@ excerpt: "Gatsby and the decline-of-empire novel: how Fitzgerald reads gilded Am
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2028-12-11
+last_updated: 2026-09-09
 lang: en
 ---
 Set Fitzgerald's summer of 1922 beside the books that read a civilization's magnificence as the first symptom of its collapse, and a familiar story changes shape. Gatsby and the decline-of-empire novel turn out to share a single governing instinct: that the moment a society looks most triumphant is the moment its historians will later mark as the beginning of the end. Read this way, the orchestras and the motorboats and the crates of citrus stop functioning as background color for a love story and start functioning as evidence. They are what a culture at its zenith produces just before the ground gives way.

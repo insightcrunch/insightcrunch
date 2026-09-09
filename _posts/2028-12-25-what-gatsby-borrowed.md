@@ -9,7 +9,7 @@ excerpt: "What Gatsby borrowed from earlier books: Conrad's narrator, the Romant
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2028-12-25
+last_updated: 2026-09-09
 lang: en
 ---
 Ask what Gatsby borrowed from earlier books and the honest answer is almost everything except the result. The witness-narrator came from Conrad. The doomed lover with a vision too large for the world came from the Romantics. The lyric sentence, the one that suspends a moment inside its own music, came from Keats. The self-improvement schedule came from a founding father's autobiography by way of a century of dime novels. The banquet host with money and no standing came from a Roman satirist. Fitzgerald invented none of these, and the book is nevertheless unlike anything that preceded it, which is the whole problem this article exists to solve.

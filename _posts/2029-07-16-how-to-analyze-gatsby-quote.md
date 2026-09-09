@@ -9,7 +9,7 @@ excerpt: "How to analyze a quote from The Great Gatsby using a four-pass method,
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 39
 author: "rachel-foster"
-last_updated: 2029-07-16
+last_updated: 2026-09-09
 lang: en
 ---
 Learning how to analyze a quote from The Great Gatsby is a procedure, not a talent. The students who produce good commentary are not hearing something the rest of the class cannot hear. They are running a sequence of checks in a fixed order, and the sequence can be written down, taught, and practiced until it runs without effort.

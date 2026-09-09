@@ -9,7 +9,7 @@ excerpt: "The best quotes in Chapter 9 explained one by one, from the empty fune
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2029-05-14
+last_updated: 2026-09-09
 lang: en
 ---
 Anyone searching for the best quotes in Chapter 9 explained properly is looking at the highest concentration of famous prose in American fiction. The closing movement of The Great Gatsby contains a funeral nobody attends, a two-word eulogy delivered by a drunk in spectacles, the harshest social verdict in the novel, and a final paragraph that has been quoted, carved, tattooed, and misused for a century. Students memorize the last sentence and one or two others and then write essays treating the chapter as a collection of endings stacked on top of each other. It is not a stack. It is one operation performed three times at three different scales.

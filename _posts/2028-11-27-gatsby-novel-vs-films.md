@@ -9,7 +9,7 @@ excerpt: "Gatsby compared to its film adaptations: spectacle gained and interior
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 47
 author: "sarah-mitchell"
-last_updated: 2028-11-27
+last_updated: 2026-09-09
 lang: en
 ---
 Four times in a century, filmmakers have taken The Great Gatsby to the screen, and four times the same thing has happened. The parties arrive intact. The clothes, the cars, the house, the light across the bay, the crowds pouring out of Manhattan on a Saturday night: all of it films beautifully, and some of it films better than it reads. Then the camera reaches the sentences and stops. Gatsby compared to its film adaptations is not a question about fidelity, and treating it as one is why most discussions of the subject go nowhere. It is a question about what a first-person retrospective narrator does that a lens cannot do, and the answer explains something about the novel that no amount of reading it alone will reveal.

@@ -9,7 +9,7 @@ excerpt: "How to apply a critical lens to Gatsby in four ordered stages: select 
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-03-27
+last_updated: 2026-09-09
 lang: en
 ---
 Most students who ask how to apply a critical lens to Gatsby have already read a description of Marxist or feminist criticism, understood it well enough to summarize it, and then found themselves unable to do anything with it. The gap is not a knowledge gap. It is a procedural gap. Knowing what a school of theory claims is like knowing what a wrench is for; it does not tell you where to put your hands. This article closes that gap by treating theoretical reading as a sequence of operations that can be learned, practiced, and checked, rather than as an intuition that some readers have and others do not.

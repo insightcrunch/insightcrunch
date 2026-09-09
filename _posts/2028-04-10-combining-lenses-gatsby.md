@@ -9,7 +9,7 @@ excerpt: "Combining critical lenses on Great Gatsby essays works only when the f
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-04-10
+last_updated: 2026-09-09
 lang: en
 ---
 Combining critical lenses on Great Gatsby essays is the move that separates the papers a marker remembers from the papers a marker grades, and it is also the move that produces the worst essays in any given stack. Both outcomes come from the same source. Two frameworks generate more observations than one, and observations are cheap. What is expensive is the single argument that holds them together, and a paper that gathers the observations without building the argument reads as two half-essays stapled at the spine.

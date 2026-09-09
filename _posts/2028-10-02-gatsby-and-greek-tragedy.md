@@ -9,7 +9,7 @@ excerpt: "Gatsby and Greek tragedy compared in detail: how hubris, hamartia, per
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-10-02
+last_updated: 2026-09-09
 lang: en
 ---
 Set Gatsby and Greek tragedy side by side and the novel stops looking like a jazz-age story about a man who threw parties. It starts looking like a shape the Athenians would have recognized: a large figure with a fatal excess of belief, a reversal that arrives exactly when he seems to have won, and an ending that leaves a witness alone on stage explaining what the audience just watched. Fitzgerald never announced that he was writing to a classical pattern. He did not need to. The pattern is in the bones of the book, and once a reader sees it, every scene reorganizes around it.

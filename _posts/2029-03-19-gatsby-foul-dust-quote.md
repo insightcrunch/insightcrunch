@@ -9,7 +9,7 @@ excerpt: "The foul dust quote clears Gatsby and condemns everything around him, 
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2029-03-19
+last_updated: 2026-09-09
 lang: en
 ---
 "it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men." The foul dust quote closes the second page of The Great Gatsby, and it settles the novel's verdict before a single scene has been narrated. Nick Carraway has just finished explaining his habit of withholding judgment; within a few sentences he delivers one, and it is the most consequential judgment in the book. Gatsby is cleared. Everything that surrounded him is condemned. A reader who takes that sentence seriously will find that the remaining eight and a half chapters are an argument in support of a conclusion already reached.

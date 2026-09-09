@@ -9,7 +9,7 @@ excerpt: "Gatsby and the American pastoral tradition: how the green new world of
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-10-16
+last_updated: 2026-09-09
 lang: en
 ---
 The last page of the novel does something no reader forgets and few can explain, which is to leave Long Island entirely and look at a continent. Gatsby and the American pastoral belong together because that final movement is not a flourish; it is Fitzgerald placing his book inside a tradition four centuries old, in which America is imagined first as an unspoiled green land and then mourned as a land that was spoiled. Nick, lying on the sand, imagines the island as Dutch sailors first saw it, and the phrase he reaches for is "a fresh, green breast of the new world."

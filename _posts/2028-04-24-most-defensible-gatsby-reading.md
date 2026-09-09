@@ -9,7 +9,7 @@ excerpt: "The most defensible reading of Gatsby integrates class, the dream's co
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-04-24
+last_updated: 2026-09-09
 lang: en
 ---
 Forty articles of critical theory produce an obvious question, and this one is the capstone that answers it: after the Marxist reading and the feminist reading, the psychoanalytic and the historicist and the queer and the reader-response, what is the most defensible reading of Gatsby, the interpretation the evidence actually rewards? The question sounds naive and is not. Every lens applied honestly produces something true, which invites the comfortable conclusion that all readings are equal and interpretation is a matter of preference. That conclusion is false, and demonstrating why it is false is the work of this article.

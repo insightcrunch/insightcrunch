@@ -9,7 +9,7 @@ excerpt: "Figurative language in Gatsby's best lines does the thinking, and a fi
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 38
 author: "diana-patel"
-last_updated: 2029-07-30
+last_updated: 2026-09-09
 lang: en
 ---
 "Her voice is full of money." Six words, one grammatical error of category, and an entire theory of class delivered without a single abstract noun. A voice cannot be full of money. Fitzgerald knew that, and so does Gatsby, who says the line. The impossibility is the argument: what Gatsby hears when Daisy speaks is not charm, not warmth, not even beauty, but the audible residue of never having wanted anything. The figure does the thinking. Remove it and you are left with a sociological proposition that would take a paragraph to state and would convince nobody.

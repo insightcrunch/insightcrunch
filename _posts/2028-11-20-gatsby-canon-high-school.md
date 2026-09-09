@@ -9,7 +9,7 @@ excerpt: "Gatsby in the canon of high school reading: why brevity, teachability,
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-11-20
+last_updated: 2026-09-09
 lang: en
 ---
 Most Americans who have read a novel about the 1920s have read the same one, and most of them read it because a teacher handed it to them in eleventh grade. Gatsby in the canon of high school reading is not a footnote to the book's reputation. It is the mechanism by which the reputation reproduces itself, and it means that a single short novel has done more to shape how a country understands its own founding promise than any other work of American fiction. That is a large claim about a book, and the reasons for it are less flattering to the book than most readers assume.

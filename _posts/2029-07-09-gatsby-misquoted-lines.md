@@ -9,7 +9,7 @@ excerpt: "The most misquoted lines from The Great Gatsby, corrected against the 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2029-07-09
+last_updated: 2026-09-09
 lang: en
 ---
 The most misquoted lines from The Great Gatsby include the one you are most certain you know. The novel's final sentence is printed on posters, tattooed on forearms, and quoted in wedding speeches, and a large share of those versions read "borne ceaselessly back into the past." Fitzgerald wrote "borne back ceaselessly into the past." Two words have swapped places, the sentence still scans, and something specific has gone missing.

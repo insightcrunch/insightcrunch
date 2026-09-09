@@ -9,7 +9,7 @@ excerpt: "They're a rotten crowd is Nick's only compliment to Gatsby, shouted ac
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 40
 author: "elena-wright"
-last_updated: 2029-04-16
+last_updated: 2026-09-09
 lang: en
 ---
 "They're a rotten crowd," Nick shouts across the lawn on the last morning of Gatsby's life. "You're worth the whole damn bunch put together." It is the only thing Nick ever says to Gatsby's face that could be called praise, he delivers it at a distance, at volume, from beside a hedge, and he immediately tells the reader that he disapproved of the man from beginning to end. The novel's clearest moral statement arrives in the form of a shout from someone leaving.

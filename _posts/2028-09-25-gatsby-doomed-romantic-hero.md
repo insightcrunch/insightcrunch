@@ -9,7 +9,7 @@ excerpt: "Gatsby and the doomed romantic hero: the four conditions of romantic d
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2028-09-25
+last_updated: 2026-09-09
 lang: en
 ---
 The strangest thing about this novel is that it ends by exalting a man whose plan was absurd, whose money was criminal, and whose death changed nothing. Readers absorb that exaltation without examining it, which is why placing Gatsby and the doomed romantic hero side by side is worth a full article. The tradition explains the exaltation. It is not Fitzgerald's private eccentricity or Nick's sentimentality. It is a literary convention roughly two centuries old, with rules, and Gatsby follows every one of them.

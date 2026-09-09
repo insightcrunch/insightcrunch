@@ -9,7 +9,7 @@ excerpt: "Postmodern readings of Great Gatsby treat the hero as a simulation wit
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-02-14
+last_updated: 2026-09-09
 lang: en
 ---
 Postmodern readings of Great Gatsby criticism begin from a question the novel keeps refusing to answer: what is underneath the man. Strip away the shirts, the mansion, the accent, the Oxford photograph, the war medal, and the phrase old sport, and a reader expects to find James Gatz. What the text supplies instead is another construction, a seventeen-year-old's design brief, and behind that a set of parents whose son's imagination "had never really accepted them as his parents at all."

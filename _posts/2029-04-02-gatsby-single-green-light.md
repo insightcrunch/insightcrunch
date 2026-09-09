@@ -9,7 +9,7 @@ excerpt: "A single green light, minute and far away, closes Chapter 1 of The Gre
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 39
 author: "chloe-martin"
-last_updated: 2029-04-02
+last_updated: 2026-09-09
 lang: en
 ---
 Chapter 1 of *The Great Gatsby* ends with a man alone on a lawn and, across the water, "a single green light, minute and far away, that might have been the end of a dock." Almost every reader can tell you what that light means. Far fewer can tell you what it looks like. The distinction matters more than it sounds, because the meaning readers recite so confidently is manufactured entirely by three visual facts: the light is one, it is tiny, and it is out of reach. Strip those away and you have a navigation aid. Keep them and you have the most quoted image in American fiction.

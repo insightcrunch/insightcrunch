@@ -9,7 +9,7 @@ excerpt: "Debates over Gatsby's greatness: the case for and against the novel's 
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2028-03-13
+last_updated: 2026-09-09
 lang: en
 ---
 A book that everyone is required to read acquires a strange kind of authority. Nobody argues about whether it is any good, because the argument appears to have been settled by the syllabus. The debates over Gatsby's greatness are worth recovering precisely because that settlement is an illusion: serious readers have doubted this novel from 1925 onward, several of them from inside the academy that canonized it, and the doubts have never been answered so much as outvoted.

@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby vs Tender Is the Night sets compression against reach
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-05-01
+last_updated: 2026-09-09
 lang: en
 ---
 Setting The Great Gatsby vs Tender Is the Night side by side produces a result that neither book yields alone: it makes Fitzgerald's discipline measurable. Gatsby is a novel of roughly fifty thousand words that took about two years and reads as though every sentence had been weighed. Tender Is the Night is nearly three times as long, took nine years and several abandoned versions, and reaches for a subject Gatsby never attempts. Read together they show a writer who could do two very different things, and the second book is the reason we can name what the first one is.

@@ -9,7 +9,7 @@ excerpt: "Quotes that foreshadow Gatsby's death plant the ending from page one, 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2029-08-06
+last_updated: 2026-09-09
 lang: en
 ---
 Before the reader has met Gatsby, before the parties, before Daisy has spoken a word, Nick has already told us how the story ends. "what preyed on Gatsby, what foul dust floated in the wake of his dreams" is a sentence in the past tense about a man who has not yet appeared, and the verb "preyed" is not a metaphor a narrator uses about someone still alive. Four pages into the novel, the death has been announced. The rest of the book is a long explanation of a fact already delivered.

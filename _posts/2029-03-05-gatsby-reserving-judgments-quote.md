@@ -9,7 +9,7 @@ excerpt: "The reserving judgments quote shows Nick claiming tolerance and then c
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2029-03-05
+last_updated: 2026-09-09
 lang: en
 ---
 "In consequence, I'm inclined to reserve all judgements, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores." The reserving judgments quote arrives on the first page of The Great Gatsby, three sentences into a narrator's self-introduction, and it does more work than any other self-description in the novel. Readers who take it as a promise of neutrality are baffled by the book that follows, since Nick Carraway proceeds to rank, dismiss, admire, and condemn almost everyone he meets. Readers who take it as a lie dismiss the narrator too quickly and lose the one thing that makes his final verdict worth anything. The passage itself resolves the problem, because Fitzgerald wrote the limit into the claim.

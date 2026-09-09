@@ -9,7 +9,7 @@ excerpt: "Gatsby vs An American Tragedy pairs Fitzgerald and Dreiser, two 1925 n
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 48
 author: "rachel-foster"
-last_updated: 2028-06-19
+last_updated: 2026-09-09
 lang: en
 ---
 In one calendar year, American publishing produced two long looks at the same figure: a poor young man who decides that wealth and status are obtainable, pursues them past the point of safety, and dies for it. Gatsby vs An American Tragedy is therefore not a comparison a critic invented after the fact. It is a coincidence of publication that turns out not to be a coincidence at all, since two very different writers, working in incompatible styles and with opposite theories of human character, reached for the identical subject in 1925 and reached similar conclusions about what the country does to the man who tries to climb it.

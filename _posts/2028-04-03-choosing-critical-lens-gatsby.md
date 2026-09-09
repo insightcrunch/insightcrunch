@@ -9,7 +9,7 @@ excerpt: "Choosing a critical lens for a Gatsby essay means matching framework t
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 47
 author: "rachel-foster"
-last_updated: 2028-04-03
+last_updated: 2026-09-09
 lang: en
 ---
 Choosing a critical lens for a Gatsby essay is the decision that determines how much work the rest of the essay will be, and most students make it backward. They pick the framework that sounded most interesting in the seminar, or the one they can define most confidently, and then discover four hundred words into a draft that the novel will not answer the questions they are asking. The fix is not to know more theory. The fix is to reverse the order of the decision: start from the passages you intend to discuss, ask which framework's questions those passages can answer with specific words, and let the evidence select the apparatus.

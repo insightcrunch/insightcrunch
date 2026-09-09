@@ -9,7 +9,7 @@ excerpt: "Gatsby vs The Grapes of Wrath sets Fitzgerald's gilded dreamer beside 
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 48
 author: "diana-patel"
-last_updated: 2028-06-12
+last_updated: 2026-09-09
 lang: en
 ---
 Put a man in a white suit on a lawn in West Egg beside a family loading a dying truck outside Sallisaw, Oklahoma, and the first instinct is to say these two books have nothing to do with each other. That instinct is wrong, and the reason it is wrong is the whole payoff of reading Gatsby vs The Grapes of Wrath as a single argument. Fitzgerald's 1925 novel and John Steinbeck's 1939 novel are not two unrelated American stories. They are one story about a promise, told from the top of the ladder and from underneath it, and the promise breaks in both places.

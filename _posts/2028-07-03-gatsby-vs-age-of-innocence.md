@@ -9,7 +9,7 @@ excerpt: "Gatsby vs The Age of Innocence pairs Fitzgerald and Wharton on old mon
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-07-03
+last_updated: 2026-09-09
 lang: en
 ---
 A man wants a woman he cannot have, and the reason he cannot have her is not distance, or her indifference, or any obstacle either of them chose. The reason is a set of rules nobody wrote down and everybody enforces. That sentence describes both books in the Gatsby vs The Age of Innocence pairing, and the pairing is valuable because the two novels stand on opposite sides of the rules. Edith Wharton writes from inside old New York, where the codes are inherited along with the silver. F. Scott Fitzgerald writes from the lawn of a man who bought his way to the edge of that world and was never going to be let in.

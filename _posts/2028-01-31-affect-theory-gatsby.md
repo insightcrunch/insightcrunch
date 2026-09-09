@@ -9,7 +9,7 @@ excerpt: "Affect theory and Great Gatsby criticism meet where longing and elegy 
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-01-31
+last_updated: 2026-09-09
 lang: en
 ---
 Ask a room of readers what they felt at the end of this novel and the answers converge on a word nobody can locate in the plot. Loss. Nothing has been lost that the reader owned. A man they met three hundred pages ago is dead, and he was not admirable, and his death was arranged by a stranger's mistake. Affect theory and Great Gatsby criticism meet exactly here, at the gap between what the story reports and what the prose transmits, and the lens exists to argue that the gap is not a mystery but a mechanism.

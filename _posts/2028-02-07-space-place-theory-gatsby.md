@@ -9,7 +9,7 @@ excerpt: "Space and place theory in Great Gatsby criticism reads the Eggs, valle
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-02-07
+last_updated: 2026-09-09
 lang: en
 ---
 Most readings of this novel treat its geography as a stage that the action happens on. Space and place theory in Great Gatsby criticism starts by refusing that arrangement, and the refusal is the whole method: a place is not a container that receives events, it is an outcome that somebody produced, and the producing left fingerprints you can read.

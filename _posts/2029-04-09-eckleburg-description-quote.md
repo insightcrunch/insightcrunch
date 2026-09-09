@@ -9,7 +9,7 @@ excerpt: "The eyes of Eckleburg description in Chapter 2 turns a faded billboard
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 40
 author: "diana-patel"
-last_updated: 2029-04-09
+last_updated: 2026-09-09
 lang: en
 ---
 The eyes of Eckleburg description occupies four sentences near the opening of Chapter 2, and in that space Fitzgerald manufactures the eeriest object in American fiction out of an unpaid advertising bill. The eyes are "blue and gigantic." Their retinas are "one yard high." They "look out of no face," and they sit above a stretch of ground where ash falls like weather. Nothing supernatural is claimed. Nothing is compared to a god. A commercial sign is described accurately, and by the fourth sentence the reader has been handed something that will not stop watching for the rest of the book.

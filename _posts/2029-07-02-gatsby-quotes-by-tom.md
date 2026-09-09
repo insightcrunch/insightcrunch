@@ -9,7 +9,7 @@ excerpt: "Key quotes said by Tom Buchanan, from his racial panic to his final se
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 38
 author: "claire-bennett"
-last_updated: 2029-07-02
+last_updated: 2026-09-09
 lang: en
 ---
 The key quotes said by Tom Buchanan begin with a complaint about the state of the world. Six pages into the novel, over dinner, with no provocation beyond a remark about crops, he announces that "Civilization's going to pieces" and recommends a book that has taught him the white race will "be utterly submerged." Nick has known him for years and is still startled. The reader has been in Tom's house for ten minutes and already has everything needed to convict him.

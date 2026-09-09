@@ -5,11 +5,11 @@ page_title: "TCS NQT Complete Guide - Syllabus, Pattern, Preparation Strategy, C
 date: 2023-08-11
 categories: ["Industry"]
 tags: ["TCS NQT", "TCS", "placement preparation", "campus hiring", "NQT exam pattern"]
-excerpt: "Master the TCS National Qualifier Test with this exhaustive guide covering syllabus, exam pattern, preparation strategy, and selection process."
+excerpt: "Decode the TCS National Qualifier Test with the complete syllabus, pattern, and prep guidance."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 63
 author: "sneha-reddy"
-last_updated: 2026-03-30
+last_updated: 2026-09-09
 lang: en
 ---
 Every year, Tata Consultancy Services receives millions of applications from engineering and science graduates across India. The company processes this enormous candidate pool through a single standardised gateway called the TCS National Qualifier Test, or NQT - a high-stakes aptitude and coding examination that determines who advances toward one of the most sought-after entry-level technology jobs in the country. For the vast majority of candidates, clearing the NQT is the difference between a TCS offer letter and starting the job hunt all over again.

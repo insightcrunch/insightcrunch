@@ -9,7 +9,7 @@ excerpt: "Fitzgerald vs Hemingway as stylists: how lyrical cadence and spare dec
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 47
 author: "amanda-ross"
-last_updated: 2028-10-23
+last_updated: 2026-09-09
 lang: en
 ---
 Two American writers born three years apart, working in the same decade, drinking in the same Paris cafes, arrived at prose styles so different that a reader can identify either from a single sentence. Fitzgerald vs Hemingway as stylists is the most instructive pairing in twentieth-century American writing precisely because neither is a lesser version of the other. They are opposite solutions to the same problem, which is how sentences carry feeling, and both solutions work.

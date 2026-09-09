@@ -9,7 +9,7 @@ excerpt: "Gatsby vs Babbitt by Sinclair Lewis pairs two 1920s novels of American
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-06-26
+last_updated: 2026-09-09
 lang: en
 ---
 Three years before Jay Gatsby threw his first party, Sinclair Lewis published a novel about a middle-aged real estate broker in a midwestern city who owns an alarm clock he is proud of. Reading Gatsby vs Babbitt by Sinclair Lewis as a pair looks unpromising at first, since one book is a lyric tragedy about a criminal millionaire on Long Island and the other is a satire about a man who joins clubs. What the pairing produces is the fullest available picture of what the 1920s did to Americans with money, because the two books attack the same money culture from opposite ends of it and in opposite modes, and neither attack is complete without the other.

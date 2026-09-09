@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby and the American sublime explained: how Fitzgerald bu
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 47
 author: "chloe-martin"
-last_updated: 2028-02-21
+last_updated: 2026-09-09
 lang: en
 ---
 Read the last page of Fitzgerald's novel out loud and something happens to your breathing. The sentences lengthen, the horizon widens, and a story about a bootlegger who wanted a married woman back suddenly opens onto a continent. Most readers register that shift as beauty and move on. The study of The Great Gatsby and the American sublime begins by refusing to move on. It asks what specific aesthetic operation produces that widening, why it arrives exactly where it does, and what argument the novel is making by placing it there rather than anywhere else.

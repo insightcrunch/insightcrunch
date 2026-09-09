@@ -9,7 +9,7 @@ excerpt: "Gatsby's smile passage analyzed in full: how the Chapter 3 description
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2029-02-19
+last_updated: 2026-09-09
 lang: en
 ---
 A man at a party has been talking to Nick for several minutes about the war and a hydroplane, and Nick, who has not met his host, complains to this stranger that he has not met his host. The stranger says he is Gatsby. Then Fitzgerald stops the novel for four sentences and describes a smile.

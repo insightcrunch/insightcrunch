@@ -9,7 +9,7 @@ excerpt: "Gatsby's influence on later American novels: the figure, the narrator,
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-08-28
+last_updated: 2026-09-09
 lang: en
 ---
 Gatsby's influence on later American novels is the easiest claim in the whole field to make and one of the hardest to make responsibly. Every reader who has met a self-invented striver, a narrator hovering at the edge of someone else's catastrophe, or a book that ends by widening from one person's failure to a national condition has felt the resemblance. Feeling a resemblance is not the same as demonstrating a debt. This article argues that the debt is real, that it runs through four specific inheritable elements rather than through a general atmosphere, and that a claim about any particular later book has to meet a standard most such claims never attempt.

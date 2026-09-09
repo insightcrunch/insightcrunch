@@ -9,7 +9,7 @@ excerpt: "The key quotes about wealth and class in The Great Gatsby, gathered an
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 38
 author: "rachel-foster"
-last_updated: 2029-06-11
+last_updated: 2026-09-09
 lang: en
 ---
 ## Why the Key Quotes About Wealth and Class Carry the Argument

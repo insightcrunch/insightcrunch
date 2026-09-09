@@ -9,7 +9,7 @@ excerpt: "Key quotes about the American Dream in The Great Gatsby, traced from t
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 38
 author: "chloe-martin"
-last_updated: 2029-05-21
+last_updated: 2026-09-09
 lang: en
 ---
 The key quotes about the American Dream in The Great Gatsby are not interchangeable, and treating them as though they were is the most common mistake students make with this material. A revision sheet typically offers six or seven famous lines under a single heading and leaves the impression that any of them will do for any dream-related prompt. They will not. Each of these quotations voices a different facet of the dream, and the facets arrive in an order that runs from wanting through inventing to consuming and finally to reckoning. Choose two from the same facet and a paragraph agrees with itself. Choose two from different facets and it argues.

@@ -9,7 +9,7 @@ excerpt: "The most quotable sentences in Gatsby endure through rhythm, image, an
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 38
 author: "chloe-martin"
-last_updated: 2029-07-23
+last_updated: 2026-09-09
 lang: en
 ---
 "So we beat on, boats against the current, borne back ceaselessly into the past." Eleven words, one metaphor, and a final clause that reverses the direction of the whole sentence. A novel that spends nine chapters describing parties, adulteries, and a shooting ends on a rowing image, and that image is why a modest book about a bootlegger's failed courtship became a permanent fixture of the English language. People who have never opened the novel can complete that line. People who have opened it once can quote three or four others. The sentences travel further than the plot does.

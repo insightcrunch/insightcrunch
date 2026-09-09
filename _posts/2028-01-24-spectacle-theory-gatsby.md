@@ -9,7 +9,7 @@ excerpt: "Commodity and spectacle theory in Gatsby reads the parties as staged d
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 48
 author: "chloe-martin"
-last_updated: 2028-01-24
+last_updated: 2026-09-09
 lang: en
 ---
 A plain reading of Gatsby's parties sees a rich man throwing money at strangers. Commodity and spectacle theory in Gatsby sees something colder and more exact: an apparatus that converts fruit into pulp, guests into scenery, and a man into an image, and then runs on the fuel of being looked at. The difference between those two readings is not a difference of mood. It is a difference in what counts as evidence. The plain reading treats the crates of oranges as color. The lens treats them as a production figure.

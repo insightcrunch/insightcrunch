@@ -9,7 +9,7 @@ excerpt: "Gatsby and the Horatio Alger Myth: how the novel invokes the rags-to-r
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 47
 author: "olivia-grant"
-last_updated: 2028-11-13
+last_updated: 2026-09-09
 lang: en
 ---
 On the last flyleaf of a ragged copy of Hopalong Cassidy, a boy in North Dakota wrote out a daily schedule. He would rise at six, exercise, study electricity, work, practice elocution, save five dollars, and be better to his parents. Sixteen years later he was a bootlegger shot in a pool he had never used. Reading Gatsby and the Horatio Alger myth together is how you measure the distance between those two facts, and the measurement is the novel's central act of demolition.

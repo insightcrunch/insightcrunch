@@ -9,7 +9,7 @@ excerpt: "Why Gatsby outlasted its contemporaries: compression, myth, and portab
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 47
 author: "diana-patel"
-last_updated: 2028-12-04
+last_updated: 2026-09-09
 lang: en
 ---
 In 1925 the American bestseller lists were led by a novel called Soundings, by A. Hamilton Gibbs. The Pulitzer that year went to Edna Ferber. Sinclair Lewis was the country's most discussed novelist and would take the first American Nobel Prize in Literature five years later. Booth Tarkington had two Pulitzers and a national readership. And a short book by a thirty-year-old with a reputation for writing about flappers sold about twenty thousand copies against expectations of seventy-five thousand, disappointed its author, and went quietly out of print.

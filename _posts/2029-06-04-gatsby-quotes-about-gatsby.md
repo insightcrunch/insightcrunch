@@ -9,7 +9,7 @@ excerpt: "The key quotes about Jay Gatsby, gathered and analyzed: the smile, the
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 38
 author: "megan-clark"
-last_updated: 2029-06-04
+last_updated: 2026-09-09
 lang: en
 ---
 ## Why the Key Quotes About Jay Gatsby Carry the Whole Novel
