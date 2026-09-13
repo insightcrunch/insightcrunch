@@ -5,11 +5,11 @@ page_title: "Napoleon in Animal Farm - From Comrade to Dictator, How Orwell's Pi
 date: 2014-05-30
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "napoleon", "character-analysis", "literary-analysis", "political-allegory"]
-excerpt: "Napoleon in Animal Farm is specifically Stalin, not just a generic tyrant. Orwell's allegory traces precise 1917-1943 Soviet events chapter by chapter."
+excerpt: "Decode Napoleon the pig in Animal Farm as Stalin in clearer outline, with every betrayal traceable to history."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 author: "sophia-turner"
-last_updated: 2014-05-30
+last_updated: 2026-09-13
 lang: en
 ---
 Napoleon is the pig who becomes dictator of Animal Farm, and he is specifically Joseph Stalin. That identification is not a loose analogy or a classroom shorthand; it is the allegorical architecture of the entire novel, traceable chapter by chapter from the 1917 October Revolution through the 1943 Tehran Conference. George Orwell (1903-1950) built every major Napoleon episode to correspond to a documented Stalin-era event, and treating Napoleon as a generic symbol of tyranny dilutes the precise historical argument Orwell was making. The pig is not charismatic, not brilliant, not even particularly brave. He is the animal who understands that controlling the dogs and controlling Squealer is all any dictator actually needs.

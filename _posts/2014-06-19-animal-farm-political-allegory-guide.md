@@ -5,11 +5,11 @@ page_title: "Animal Farm as Political Allegory Explained: Chapter-by-Chapter Cor
 date: 2014-06-19
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "political-allegory", "russian-revolution", "soviet-history", "classic-literature"]
-excerpt: "Animal Farm's political allegory maps chapter by chapter onto 1917-1943 Soviet history, and the specific correspondences still reward careful tracing."
+excerpt: "Decode Animal Farm character by character against the Russian Revolution timeline that Orwell maps faithfully."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 98
 author: "sophia-turner"
-last_updated: 2014-06-19
+last_updated: 2026-09-13
 lang: en
 ---
 George Orwell drafted Animal Farm during the Second World War with a specific historical referent in view. The manuscript he produced under London Blitz conditions between November of one wartime year and the following February was an effort to render the Soviet betrayal of 1917 in a form that could be read by anyone who could read a fable. The 1945 preface he composed for the Ukrainian edition (and the longer preface intended for the British edition, suppressed at the time and finally published in 1972) makes the intention explicit. Orwell was not writing a general parable about how power corrupts. He was writing a specific report on how the Bolshevik project had transformed itself into a mass-murdering bureaucracy that, by the end of the European war, had become hard to distinguish from its capitalist opponents.

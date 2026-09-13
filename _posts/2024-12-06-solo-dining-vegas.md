@@ -4,11 +4,11 @@ title: "Best Restaurants for Solo Dining in Las Vegas"
 date: 2024-12-06
 categories: ["Leisure"]
 tags: ["solo-dining", "las-vegas", "restaurants", "vegas-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "chinatown", "the-strip", "off-strip"]
-excerpt: "From Strip steakhouse bars to Chinatown ramen counters, the complete guide to eating alone in Vegas."
+excerpt: "Best restaurants for solo dining in Las Vegas: Strip steakhouse bars, Chinatown ramen counters, and off-Strip spots where eating alone beats the buffet."
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 45
 author: "patrick-dunn"
-last_updated: 2026-03-31
+last_updated: 2026-09-13
 lang: en
 ---
 Las Vegas is the most misunderstood solo dining city in America. Most visitors think of Vegas as a group destination: bachelor parties, conventions, girls' trips, buddy weekends. The restaurants on the Strip seem designed for tables of four or eight, with bottle service and Champagne presentations and air horns blasting every time someone orders a tomahawk steak. But underneath that spectacle lies one of the most rewarding solo dining cities in the country, with a depth and diversity that would surprise anyone who thinks Vegas food begins and ends with the buffet.

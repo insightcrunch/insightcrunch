@@ -5,11 +5,11 @@ page_title: "Lavender Brown Character Analysis: The Misjudged Girl of Gryffindor
 date: 2012-12-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Gryffindor", "Female Characters", "Adolescent Romance"]
-excerpt: "Complete literary analysis of Lavender Brown in Harry Potter - the girl dismissed as silly, her quiet loyalty, and her brutal fate at the Battle of Hogwarts."
+excerpt: "Lavender Brown fully decoded: the giggly girl who fought at Hogwarts and paid in blood for her courage."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 72
 author: "megan-clark"
-last_updated: 2012-12-23
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Girl Who Came Back

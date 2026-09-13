@@ -5,11 +5,11 @@ page_title: "Rufus Scrimgeour Complete Character Analysis: The Lion-Faced Minist
 date: 2012-12-12
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Rufus Scrimgeour", "Ministry of Magic", "Wartime Leadership"]
-excerpt: "Rufus Scrimgeour in Harry Potter is Rowling's study of wartime authority without wisdom: the lion-faced Minister who refused cowardice and partnership both."
+excerpt: "Scrimgeour fully decoded: the strongman minister whose final word was no, and the price he paid for it."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2012-12-12
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Lion Who Came Too Late

@@ -5,11 +5,11 @@ page_title: "Lily Potter Complete Character Analysis: Love as the Deepest Magic 
 date: 2013-01-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Lily Potter", "Sacrifice", "Motherhood"]
-excerpt: "Lily Potter in Harry Potter is the mother whose chosen death becomes the protective mechanism, the friend Snape lost, and the moral floor of seven books."
+excerpt: "Lily Potter fully analyzed: the absent mother whose love built the magical protection at the heart of the series."
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-01-13
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Mother Who Speaks Only Through Absence

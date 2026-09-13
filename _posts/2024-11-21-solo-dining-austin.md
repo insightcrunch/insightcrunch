@@ -4,11 +4,11 @@ title: "Best Restaurants for Solo Dining in Austin"
 date: 2024-11-21
 categories: ["Leisure"]
 tags: ["solo-dining", "austin", "restaurants", "austin-food", "eating-alone", "counter-dining", "bar-seating", "barbecue", "tacos", "food-trucks", "south-congress", "east-austin"]
-excerpt: "From Franklin BBQ to SoCo wine bars, tacos to omakase, the complete guide to eating alone in Austin."
+excerpt: "Best restaurants for solo dining in Austin: BBQ counters, SoCo bars, taco joints, and omakase spots where eating alone feels natural and welcome."
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 45
 author: "daniel-morgan"
-last_updated: 2026-03-31
+last_updated: 2026-09-13
 lang: en
 ---
 Austin is a city that was built for doing things your own way. It is the city of "Keep Austin Weird," of musicians playing to rooms of three, of food trucks parked on empty lots that serve better brisket than most restaurants in New York. It is a city where independence is not just tolerated but celebrated, where the solo diner at a picnic table with a plate of barbecue and a cold Lone Star is not a person eating alone but a person eating exactly the way they want to.

@@ -5,11 +5,11 @@ page_title: "Regulus Black Character Analysis: The Brother Who Turned (Complete 
 date: 2013-01-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Regulus Black", "Slytherin", "Death Eaters", "Sacrifice"]
-excerpt: "Complete literary analysis of Regulus Black in Harry Potter - the Horcrux destroyer, the R.A.B. note, the brother contrast, and a martyrdom hidden in a cave."
+excerpt: "Regulus Black fully decoded: the brother who chose right at the cost of his life, told only through what he left."
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 57
 author: "olivia-grant"
-last_updated: 2013-01-07
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Boy Who Died Without Witnesses

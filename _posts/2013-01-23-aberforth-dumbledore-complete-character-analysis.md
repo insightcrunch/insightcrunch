@@ -5,11 +5,11 @@ page_title: "Aberforth Dumbledore Character Analysis: The Forgotten Brother of t
 date: 2013-01-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Aberforth Dumbledore", "Albus Dumbledore", "Hog's Head", "Order of the Phoenix"]
-excerpt: "Aberforth Dumbledore in Harry Potter as the proximate-care rebuke to Albus, traced through goats, mirror shards, and the resistance run from a shabby pub."
+excerpt: "Aberforth Dumbledore fully analyzed: the goat-loving brother whose grief and grit save the series at the end."
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2013-01-23
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Brother Behind the Bar

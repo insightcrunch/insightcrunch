@@ -5,11 +5,11 @@ page_title: "Piggy in Lord of the Flies - Intelligence Without Power, Reason Wit
 date: 2014-05-10
 categories: ["Leisure"]
 tags: ["lord-of-the-flies", "william-golding", "piggy", "character-analysis", "literary-analysis", "classic-literature"]
-excerpt: "Piggy embodies the novel's argument that working-class intellect is systematically devalued in class-coded hierarchies, even when demonstrably competent."
+excerpt: "Decode Piggy in Lord of the Flies as the mind that cannot survive the body, and the conscience the island silences."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "sophia-turner"
-last_updated: 2014-05-10
+last_updated: 2026-09-13
 lang: en
 ---
 William Golding gave his most analytically gifted character the cruelest name in the novel, and that cruelty is the point. Piggy never receives a real name in the text. He is introduced by a nickname he despises, a nickname rooted in the physical body the other boys mock, and he spends the entire narrative trying to be heard by people who have already decided, based on his glasses, his weight, his asthma, and his accent, that he is not worth hearing. His tragedy is not simply that he dies. His tragedy is that he is right about nearly everything and it saves him from nothing, because the hierarchies the boys import to the island do not reward analytical competence when it arrives in the wrong body speaking in the wrong voice.

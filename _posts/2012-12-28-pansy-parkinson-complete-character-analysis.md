@@ -5,11 +5,11 @@ page_title: "Pansy Parkinson Character Analysis: Cruelty Without Ideology and th
 date: 2012-12-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Pansy Parkinson", "Slytherin", "Draco Malfoy", "Bullying"]
-excerpt: "Deep literary analysis of Pansy Parkinson across Harry Potter books - cruelty without ideology, conformity as cowardice, and Slytherin's most chilling moment."
+excerpt: "Pansy Parkinson fully decoded: the girl who would hand Harry over to save herself and what that reveals."
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 61
 author: "olivia-grant"
-last_updated: 2012-12-28
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Bully Without a Cause

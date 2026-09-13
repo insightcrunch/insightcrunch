@@ -5,11 +5,11 @@ page_title: "TCS BPS Aptitude and Data Interpretation - Complete Preparation Gui
 date: 2024-03-23
 categories: ["Industry"]
 tags: ["TCS BPS aptitude", "TCS BPS data interpretation", "TCS BPS quants", "TCS BPS preparation"]
-excerpt: "TCS BPS aptitude and DI prep designed for non-engineering candidates. Build from basics to exam-ready with a focused 2-week plan."
+excerpt: "Decode TCS BPS aptitude for non-engineering candidates with section-wise prep and a 2-week timeline."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "nikhil-tiwari"
-last_updated: 2026-03-31
+last_updated: 2026-09-13
 lang: en
 ---
 If mathematics was not your favourite subject in school - and for many arts and commerce students it was not - the TCS BPS aptitude section may look intimidating at first glance. It should not. The quantitative portion of the BPS test has only five questions, and they test practical business arithmetic at a level far below what engineering-stream aptitude tests demand. Data Interpretation, which carries the most questions (eleven), is entirely about reading charts carefully and doing simple calculations - skills that commerce and business students use constantly in their academic work. This guide builds the foundation from scratch, uses real-world analogies from business and daily life, and gives you the exact tools to score well in the aptitude and DI sections of the TCS BPS test - regardless of how long it has been since your last maths class.

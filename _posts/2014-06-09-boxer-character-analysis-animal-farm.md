@@ -6,8 +6,8 @@ date: 2014-06-09
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "boxer", "character-analysis", "literary-analysis", "classic-literature"]
 author: "sarah-mitchell"
-excerpt: "Boxer is Animal Farm's allegorical Soviet worker whose labor and loyalty are extracted by the ruling pigs until his usefulness ends and he is sold for glue."
-last_updated: 2014-06-09
+excerpt: "Decode Boxer in Animal Farm as the loyal worker whose two slogans are both used against him in the end."
+last_updated: 2026-09-13
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 lang: en

@@ -5,10 +5,10 @@ page_title: "Every Theme and Allegory in Animal Farm Explained - Power, Propagan
 date: 2014-06-14
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "allegory", "literary-themes", "political-fable", "classic-literature"]
-excerpt: "The allegorical form of Animal Farm is not decorative packaging. It is the argument itself, and separating themes from allegory misreads the entire novel."
+excerpt: "Decode every theme in Animal Farm and the historical events Orwell encodes inside his deceptively simple fable."
 author: "olivia-grant"
 reading_time: 70
-last_updated: 2014-06-14
+last_updated: 2026-09-13
 image: "/assets/images/blog/blog-61.webp"
 lang: en
 ---

@@ -5,11 +5,11 @@ page_title: "HackWithInfy Preparation: How to Reach the Finals and Win the Power
 date: 2024-06-12
 categories: ["Industry"]
 tags: ["HackWithInfy", "HackWithInfy Preparation", "HackWithInfy Questions", "HackWithInfy Rounds", "HackWithInfy Prizes", "Infosys HackWithInfy", "Infosys Power Programmer", "Coding Competition India"]
-excerpt: "Master every round of HackWithInfy with this complete preparation guide covering problems, scoring, and prize tiers."
+excerpt: "HackWithInfy preparation: round-by-round strategy, past question patterns, scoring logic, prize tiers, and how winners get fast-tracked to Infosys roles."
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 45
 author: "pooja-gupta"
-last_updated: 2026-03-31
+last_updated: 2026-09-13
 lang: en
 ---
 HackWithInfy is among the most consequential coding competitions available to Indian engineering students - not because of the prize money, though that is real, but because the top tier of performance unlocks a direct path to the Infosys Power Programmer designation with a starting CTC that is nearly three times the standard fresher package. Unlike placements where communication, aptitude, and luck all factor in, HackWithInfy has a simple and brutal meritocracy: the code either works and passes the test cases within the time limit, or it does not. Every finalist earned their position by outthinking thousands of peers across three rounds of progressively harder algorithmic problems.

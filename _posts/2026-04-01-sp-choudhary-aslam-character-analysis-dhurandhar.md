@@ -5,9 +5,9 @@ page_title: "SP Choudhary Aslam Character Analysis - Sanjay Dutt's Morally Compl
 date: 2026-04-01
 categories: ["Leisure"]
 tags: ["dhurandhar", "sp-choudhary-aslam", "sanjay-dutt", "character-analysis", "bollywood", "spy-thriller"]
-excerpt: "Deep analysis of SP Choudhary Aslam - Sanjay Dutt's authoritative, conflicted officer in Dhurandhar."
+excerpt: "Decode SP Choudhary Aslam across both Dhurandhar films with role, motivation, and moral weight."
 reading_time: 60
-last_updated: 2026-03-30
+last_updated: 2026-09-13
 image: "/assets/images/blog/blog-54.webp"
 author: "rahul-banerjee"
 lang: en

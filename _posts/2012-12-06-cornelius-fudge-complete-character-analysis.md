@@ -5,11 +5,11 @@ page_title: "Cornelius Fudge Character Analysis: The Minister Who Chose Comfort 
 date: 2012-12-06
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cornelius Fudge", "Ministry of Magic", "Political Failure", "Institutional Denial"]
-excerpt: "Deep literary analysis of Cornelius Fudge across all Harry Potter books - denial, political failure, bureaucratic cowardice, and institutional collapse."
+excerpt: "Cornelius Fudge fully analyzed: the minister who chose denial and gave Voldemort an extra year to prepare."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 57
 author: "olivia-grant"
-last_updated: 2012-12-06
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Man in the Bowler Hat

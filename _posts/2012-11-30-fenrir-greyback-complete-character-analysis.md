@@ -5,11 +5,11 @@ page_title: "Fenrir Greyback Character Analysis: The Predator Without Politics i
 date: 2012-11-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Death Eaters", "Werewolves", "Dark Magic"]
-excerpt: "A literary analysis of Fenrir Greyback in Harry Potter - the werewolf without ideology, predator of children, and the series' portrait of pure appetite."
+excerpt: "Fenrir Greyback fully decoded: the werewolf who preyed on children and the face of feral Death Eater terror."
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 59
 author: "sophia-turner"
-last_updated: 2012-11-30
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Monster Who Will Not Explain Himself

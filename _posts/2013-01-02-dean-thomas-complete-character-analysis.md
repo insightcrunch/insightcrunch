@@ -5,11 +5,11 @@ page_title: "Dean Thomas: The Unsung Gryffindor and the Parallel Protagonist Row
 date: 2013-01-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dean Thomas", "Gryffindor", "Minor Characters", "Hidden Heritage"]
-excerpt: "Complete literary analysis of Dean Thomas in Harry Potter - the Muggle-raised Gryffindor, hidden heritage, art, race, and the protagonist Rowling never wrote."
+excerpt: "Dean Thomas fully analyzed: the muggle-born artist, DA fighter, and the protagonist Harry could have been."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 57
 author: "sophia-turner"
-last_updated: 2013-01-02
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Boy Whose Father Was Killed by Death Eaters

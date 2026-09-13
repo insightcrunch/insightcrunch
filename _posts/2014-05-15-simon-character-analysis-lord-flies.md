@@ -6,9 +6,9 @@ date: 2014-05-15
 categories: ["Leisure"]
 tags: ["lord-of-the-flies", "william-golding", "simon-character", "character-analysis", "christ-figure", "classic-literature"]
 author: "lauren-hayes"
-excerpt: "Simon is the only character who understands what the beast actually is. His death is the novel's killing of the one person who could name the problem."
+excerpt: "Decode Simon in Lord of the Flies as the saint figure whose truth nobody is willing to hear before they kill him."
 image: "/assets/images/blog/blog-14.webp"
-last_updated: 2014-05-15
+last_updated: 2026-09-13
 reading_time: 70
 lang: en
 ---

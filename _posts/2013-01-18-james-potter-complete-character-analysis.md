@@ -5,11 +5,11 @@ page_title: "James Potter Character Analysis in Harry Potter: The Flawed Father,
 date: 2013-01-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "James Potter", "Marauders", "Fatherhood"]
-excerpt: "Complete literary analysis of James Potter in Harry Potter - the bullying, the maturation, the wandless death, and the father Harry had to learn to read."
+excerpt: "James Potter fully decoded: hero, bully, husband, and the father Harry has to learn to see clearly."
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 66
 author: "emily-reed"
-last_updated: 2013-01-18
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Father Built from Absence

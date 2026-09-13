@@ -5,11 +5,11 @@ page_title: "Fleur Delacour: Beauty, Loyalty, and the Substance Beneath the Surf
 date: 2013-01-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fleur Delacour", "Triwizard Tournament", "Beauxbatons"]
-excerpt: "Fleur Delacour in Harry Potter is the underestimated Triwizard champion whose loyalty to a scarred Bill proves beauty and depth are independent of one another."
+excerpt: "Fleur Delacour fully decoded: the part-Veela champion whose devotion to Bill silences every critic."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2013-01-28
+last_updated: 2026-09-13
 lang: en
 ---
 ## Introduction: The Woman the Room Cannot See

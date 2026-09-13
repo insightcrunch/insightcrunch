@@ -4,11 +4,11 @@ title: "Best Restaurants for Solo Dining in Los Angeles - Where to Eat Alone"
 date: 2025-01-06
 categories: ["Leisure"]
 tags: ["solo-dining", "los-angeles", "restaurants", "la-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "ramen", "koreatown", "taco-stands"]
-excerpt: "The definitive guide to eating alone in Los Angeles."
+excerpt: "Best restaurants for solo dining in Los Angeles: taco trucks, Little Tokyo ramen, Silver Lake wine bars, and counter seats across LA for eating alone."
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 45
 author: "daniel-morgan"
-last_updated: 2026-03-31
+last_updated: 2026-09-13
 lang: en
 ---
 Los Angeles is a city built for the individual. You drive alone. You hike alone. You sit in traffic alone. And yet, for decades, the idea of eating alone at a restaurant in LA carried a strange stigma, as if the act of pulling into a parking lot without a passenger somehow signaled failure. That era is over. Solo dining in Los Angeles has become one of the city's defining pleasures, powered by a restaurant culture that rewards counter seating, celebrates street food, and offers a depth of global cuisine that no other American city can match.
