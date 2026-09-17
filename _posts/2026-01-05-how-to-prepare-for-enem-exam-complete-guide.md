@@ -5,11 +5,11 @@ page_title: 'O Guia Definitivo para Conquistar o ENEM: Um Plano Estratégico do 
 date: 2026-01-05
 categories: ['Analytics']
 tags: ['ENEM', 'Vestibular', 'Preparação', 'Universidade']
-excerpt: 'Um guia autoritativo, estratégico e profundamente prático para a preparação do ENEM — cobrindo a arquitetura do exame, a Teoria de Resposta ao Item...'
+excerpt: 'Guia completo de preparacao para o ENEM: estrategia por area, cronograma de estudos, TRI explicada, e os erros que custam pontos na redacao e nas provas.'
 image: '/assets/images/blog/blog-92.webp'
 reading_time: 35
 author: "juliana-costa"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: pt
 ---
 ## **1. Introdução**

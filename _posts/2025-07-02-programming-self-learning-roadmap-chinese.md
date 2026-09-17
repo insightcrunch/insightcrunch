@@ -4,11 +4,11 @@ title: "程序员自学编程完全路线图：Python、Java、前端开发从�
 date: 2025-07-02
 categories: ["Technology"]
 tags: ["自学编程", "Python学习", "Java学习", "前端开发", "编程入门", "程序员路线图", "免费编程资源"]
-excerpt: "本文详细梳理Python、Java、前端开发三条主流编程路线从零基础到找到第一份工作的完整学习计划，推荐经过验证的免费学习资源，分析每个阶段的常见误区，帮助自学者少走弯路、高效入行。"
+excerpt: "零基础自学编程完整路线图：Python、Java、前端开发三条主流方向从入门到找到第一份工作的详细学习计划，附免费资源和常见误区。"
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 38
 author: "ryan-walsh"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: zh
 ---
 ## 目录

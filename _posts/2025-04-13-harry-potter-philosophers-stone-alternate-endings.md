@@ -5,11 +5,11 @@ page_title: "What If It Ended Differently? Alternate Endings for Harry Potter an
 date: 2025-04-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Alternate Endings", "Classic Stories", "Philosopher's Stone", "Book Analysis"]
-excerpt: "What if Quirrell had won? What if Hermione had solved the chess puzzle alone? What if the Mirror of Erised showed Harry something entirely different?"
+excerpt: "Harry Potter alternate endings: what if Quirrell won, Hermione solved the chess puzzle alone, or the Mirror of Erised showed Harry something unexpected?"
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 ## Introduction: The Book That Started Everything

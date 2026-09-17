@@ -4,11 +4,11 @@ title: "TCS IRA1 and IRA2 - Questions, Pattern, Pass Marks, and How to Clear"
 date: 2025-10-22
 categories: ["Industry"]
 tags: ["TCS", "ILP", "IRA", "TCS IRA1", "TCS IRA2", "Aspire", "Fresher"]
-excerpt: "The Initial Readiness Assessments are the first real tests you face at TCS ILP, and they set the tone for everything that follows. IRA1 failure can get..."
+excerpt: "TCS IRA1 and IRA2 questions, pattern, and pass marks. Topic-wise breakdown, difficulty comparison, and the preparation strategy that clears both tests."
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 25
 author: "karthik-menon"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 The Initial Readiness Assessments are the first real tests you face at TCS ILP, and they set the tone for everything that follows. IRA1 failure can get your training rescheduled to a later batch, costing you weeks or months of career time. IRA2 feeds directly into your cumulative ILP rating. Yet most freshers walk into these assessments with nothing more than a casual skim of Aspire modules and a vague hope that the questions will be easy.

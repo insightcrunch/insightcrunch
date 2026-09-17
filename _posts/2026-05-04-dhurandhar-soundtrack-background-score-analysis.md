@@ -5,11 +5,11 @@ page_title: "Dhurandhar Soundtrack and Background Score Complete Analysis - Shas
 date: 2026-05-04
 categories: ["Leisure"]
 tags: ["dhurandhar", "soundtrack", "shashwat-sachdev", "bollywood-music", "background-score", "film-music"]
-excerpt: "How Shashwat Sachdev's Dhurandhar score works like a character voicing Hamza's hidden self, plus every song, the Doja Cat gamble, and the sound design."
+excerpt: "Decode Dhurandhar music across soundtrack and background score with analysis of every major track."
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 71
 author: "amit-chatterjee"
-last_updated: 2026-05-04
+last_updated: 2026-09-17
 lang: en
 ---
 Every spy thriller asks the audience to believe that a man can hide his true self for years. Dhurandhar asks something stranger. It asks us to hear the self he hides. Across both installments of Aditya Dhar's espionage saga, Shashwat Sachdev composed a body of work that refuses to sit beneath the images as polite accompaniment. It speaks. It confesses. It grieves. In a story where Jaskirat Singh Rangi must bury his name, his faith, his family, and his own face under the borrowed identity of Hamza Ali Mazari, the orchestration becomes the only presence in the room that never lies.

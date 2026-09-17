@@ -4,11 +4,11 @@ title: "AI-Powered Note Search vs Traditional Folders - Why Semantic Wins"
 date: 2025-11-02
 categories: ["Technology"]
 tags: ["VaultBook", "Note-Taking", "AI", "Semantic Search", "Productivity"]
-excerpt: "Traditional folders worked fine when we had fifty files. But now, with thousands of notes across every domain of life and work, the folder paradigm has..."
+excerpt: "AI-powered semantic search vs folder-based note organization. Why keyword search fails at scale and how VaultBook's AI approach finds notes by meaning."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 25
 author: "gregory-marsh"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 Traditional folders worked fine when we had fifty files. But now, with thousands of notes across every domain of life and work, the folder paradigm has become a bottleneck. The promise of the digital age was instant retrieval of information, yet most of us still spend an embarrassing portion of our day hunting through nested directories, trying to remember whether we saved something under "Projects," "Meetings," or "Ideas."

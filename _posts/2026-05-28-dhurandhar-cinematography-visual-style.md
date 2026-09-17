@@ -3,12 +3,12 @@ title: "Dhurandhar Cinematography and Visual Style"
 page_title: "Dhurandhar Cinematography and Visual Style Analyzed - Camera Work, Color Palette, Lighting Choices, and How Every Frame Serves the Story of Espionage"
 slug: dhurandhar-cinematography-visual-style
 date: 2026-05-28
-last_updated: 2026-05-28
+last_updated: 2026-09-17
 categories: ["Leisure"]
 tags: ["dhurandhar", "cinematography", "visual-style", "bollywood", "filmmaking", "production-design"]
 image: /assets/images/blog/blog-07.webp
 author: "amit-chatterjee"
-excerpt: "Inside Dhurandhar visual style: how color grading, camera movement, lighting, and framing form a second screenplay telling the story the dialogue cannot."
+excerpt: "Decode Dhurandhar cinematography across framing, lighting, color, and the visual style across both films."
 reading_time: 70
 lang: en
 ---

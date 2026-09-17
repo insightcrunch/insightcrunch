@@ -4,11 +4,11 @@ title: "TCS NQT to ILP - Complete Journey From Registration to Training Day"
 date: 2025-07-25
 categories: ["Industry"]
 tags: ["TCS", "NQT", "ILP", "TCS Hiring", "NextStep Portal", "Xplore", "Aspire", "TCS Joining", "TCS Freshers", "NQT Exam", "Offer Letter", "Fresher"]
-excerpt: "The journey from registering for the TCS National Qualifier Test to walking through the doors of an ILP center on your first day of training is long..."
+excerpt: "TCS NQT to ILP journey explained: registration, exam, offer letter, medical test, document verification, and what Day 1 at the training center looks like."
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 30
 author: "sneha-reddy"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 The journey from registering for the TCS National Qualifier Test to walking through the doors of an ILP center on your first day of training is long, multi-staged, and often confusing. At each step, candidates encounter new portals, new processes, new requirements, and new waiting periods. The total timeline can stretch from a few months to over a year depending on batch timing, hiring cycles, and individual circumstances.

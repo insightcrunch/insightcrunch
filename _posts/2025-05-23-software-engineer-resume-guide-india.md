@@ -5,11 +5,11 @@ page_title: "Software Engineer Resume Guide for India: ATS-Friendly Templates, P
 date: 2025-05-23
 categories: ["Industry"]
 tags: ["software engineer resume", "ATS resume", "Naukri profile", "LinkedIn optimization", "resume for freshers", "resume keywords", "tech resume India", "resume writing tips", "job search India", "cover letter"]
-excerpt: "The complete software engineer resume guide for the Indian job market: ATS-friendly formatting, impact-driven bullet writing, keyword strategy, project..."
+excerpt: "Software engineer resume for India: ATS-friendly templates, impact-driven bullet points, Naukri and LinkedIn optimization, and project description..."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 52
 author: "gregory-marsh"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 ## Table of Contents

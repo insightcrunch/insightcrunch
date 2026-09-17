@@ -5,11 +5,11 @@ page_title: "Every Record the Dhurandhar Franchise Has Broken - Fastest to 500 C
 date: 2026-05-21
 categories: ["Leisure"]
 tags: ["dhurandhar", "box-office-records", "bollywood", "franchise", "ranveer-singh", "indian-cinema"]
-excerpt: "How a song-free, adults-only Hindi thriller outgrossed every masala blockbuster and shattered the box office records Bollywood had long believed unbreakable."
+excerpt: "Decode the Dhurandhar franchise records across box office, opening day, and cultural milestones."
 image: /assets/images/blog/blog-01.webp
 reading_time: 72
 author: "amit-chatterjee"
-last_updated: 2026-05-21
+last_updated: 2026-09-17
 lang: en
 ---
 There is a comfortable story Bollywood likes to tell about why its films succeed. The hero must be loved before he is feared. The runtime must respect the bladder. The interval must land on a high. There must be a song the wedding DJs can lean on, a comic sidekick to cut the tension, and a third act that sends everyone home reassured. For thirty years this template held, and the movies that broke earnings barriers were almost always the pictures that obeyed it most faithfully. Then a three-and-a-half-hour, adults-only spy picture with no item number, no comedy track, and a protagonist who spends most of the story lying to people he has come to love walked into theatres in December and proceeded to dismantle the entire ledger. The numbers it posted are astonishing on their own. What they actually represent is the collapse of an assumption that had governed Bollywood since the multiplex era began.

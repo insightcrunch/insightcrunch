@@ -4,11 +4,11 @@ title: "TCS ILP Salary, Accommodation, and Deductions - Complete Breakdown"
 date: 2025-09-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Salary", "TCS Salary", "Fresher", "IT Career", "Accommodation"]
-excerpt: "How much will you actually take home during ILP? What gets deducted and why? Is hostel accommodation mandatory? When does the first salary arrive? These..."
+excerpt: "TCS ILP salary breakdown: monthly in-hand pay after deductions, hostel accommodation costs, food expenses, first paycheck timeline, and PF contribution."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 25
 author: "karthik-menon"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 How much will you actually take home during ILP? What gets deducted and why? Is hostel accommodation mandatory? When does the first salary arrive? Can you survive on the ILP salary without dipping into savings?

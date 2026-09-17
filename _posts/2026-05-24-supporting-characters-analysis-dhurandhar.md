@@ -5,11 +5,11 @@ page_title: "Every Major Supporting Character in Dhurandhar Analyzed - Jameel Ja
 date: 2026-05-24
 categories: ["Leisure"]
 tags: ["dhurandhar", "supporting-characters", "character-analysis", "rakesh-bedi", "bollywood", "ensemble-cast"]
-excerpt: "A deep analysis of Dhurandhar's supporting cast, from Jameel Jamali and Uzair Baloch to Ulfat and the institutional voices that quietly hold it together."
+excerpt: "Decode the Dhurandhar supporting cast with the characters whose smaller arcs do quiet narrative work."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2026-05-24
+last_updated: 2026-09-17
 lang: en
 ---
 There is a moment roughly an hour into the first film when Hamza, deep inside a city that wants him dead, sits down to eat at a roadside stall run by a fussy, talkative man who complains about the price of onions. Nothing about the exchange advances the plot. No secret is passed, no threat is made, no clue is planted. And yet most people who walk out of the theater remember that man, Jameel Jamali, as vividly as they remember the gunfights. That is not an accident. It is the clearest evidence of what makes this franchise different from almost everything else Bollywood has produced in the action register: Aditya Dhar treats the people standing at the edges of the frame as if they matter, and because he does, the audience does too.

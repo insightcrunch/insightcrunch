@@ -5,11 +5,11 @@ page_title: "Complete DSA Interview Preparation Guide: Topic-Wise Strategy, 150 
 date: 2025-06-09
 categories: ["Industry"]
 tags: ["DSA interview questions", "DSA preparation", "LeetCode patterns", "coding interview", "data structures and algorithms", "product based company interview", "FAANG interview prep", "competitive programming", "system design", "coding interview patterns"]
-excerpt: "The most complete DSA interview preparation guide for software engineers: topic-wise strategy, 150 curated must-solve problems, pattern recognition..."
+excerpt: "DSA interview prep: 150 must-solve problems organized by topic, pattern recognition techniques, LeetCode strategy, and a 12-week preparation timeline."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 55
 author: "david-thornton"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 ## Table of Contents

@@ -5,11 +5,11 @@ page_title: "AI for Writers - Tools and Techniques for Fiction, Non-Fiction, and
 date: 2025-04-30
 categories: ["Technology"]
 tags: ["ai writers", "ai authors", "creative writing", "ai novel writing", "writing tools"]
-excerpt: "How writers and authors use AI as a creative partner - brainstorming, drafting, and editing."
+excerpt: "Decode AI for writers across drafting, editing, research, and the publication workflow."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 62
 author: "andrew-price"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 Writers occupy a uniquely complicated relationship with AI. The tools now available can generate prose, brainstorm plot structures, develop characters, research historical settings, help break through writer's block, and dramatically accelerate the drafting process. They can also produce flat, generic text that sounds like nothing in particular - the literary equivalent of beige paint. The question for serious writers is not whether to use AI but how to use it in ways that amplify their creative vision rather than replace it. The writers who have found genuine productive relationships with AI use it almost exactly as they use other creative tools - for specific jobs where the tool's capabilities serve the work, not for outsourcing the creative consciousness that makes writing worth reading. This guide covers the full landscape of AI tools for writers and authors: fiction writing techniques, non-fiction research and drafting, poetry and creative forms, the editing and revision process, publishing and business tasks, and the specific AI workflows that working writers have developed for different stages of the writing process.

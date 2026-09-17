@@ -5,11 +5,11 @@ page_title: "Dhurandhar vs Every Major Bollywood Spy Thriller - Pathaan, War, Ti
 date: 2026-05-01
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "spy-thriller", "movie-comparison", "pathaan", "war", "ek-tha-tiger"]
-excerpt: "Dhurandhar refuses the Bollywood spy template. Here is how it stacks up against Pathaan, War, Tiger, Baby, and Raazi, and why it owes far more to le Carre."
+excerpt: "Decode Dhurandhar against the wider Bollywood spy thriller landscape with comparisons across the genre."
 image: "/assets/images/blog/blog-75.webp"
 reading_time: "71 min read"
 author: "nandini-sen"
-last_updated: 2026-05-01
+last_updated: 2026-09-17
 lang: en
 ---
 The question worth asking about Dhurandhar is not whether it is a better spy thriller than Pathaan. That comparison flatters both and clarifies nothing. The sharper question is whether Dhurandhar is an espionage thriller at all in the sense that Bollywood has spent the last decade teaching audiences to expect. Because if an espionage thriller is a movie where a charismatic agent absorbs bullets, leaps between moving vehicles, and rescues the nation before the interval, then Dhurandhar belongs to a different family of cinema entirely. It wears the costume of the genre. It uses the vocabulary of handlers and cover stories and dead drops. And then it spends nearly three hours dismantling the very thing that makes the Bollywood spy movie pleasurable: the fantasy that a man can give his life to deception and walk away whole.

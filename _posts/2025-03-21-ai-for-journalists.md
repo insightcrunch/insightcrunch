@@ -5,11 +5,11 @@ page_title: "AI for Journalists - Research, Fact-Checking, Writing, and Newsroom
 date: 2025-03-21
 categories: ["Technology"]
 tags: ["ai journalism", "ai news", "fact checking", "newsroom tools", "ai writing"]
-excerpt: "AI tools for journalists - source discovery, fact-checking, transcription, and news writing."
+excerpt: "Decode AI for journalists across research, transcription, fact-checking, and the modern newsroom workflow."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
 author: "abigail-cooper"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 Journalism has always been a race against time and a craft built on verification. Both of those pressures have intensified in an era of constant information flow, reduced newsroom resources, and audiences that can access raw information without traditional gatekeepers. AI has arrived at this moment with capabilities that are genuinely useful to journalists - compressing research time, transcribing interviews, monitoring sources, analyzing documents, and automating the production of data-rich routine stories - alongside capabilities that are potentially hazardous, such as generating plausible-sounding but false claims, creating realistic fake quotes, and producing audio and visual disinformation. Journalists who understand both what AI can legitimately accelerate and what risks it introduces are positioned to use it responsibly. This guide covers the full spectrum: the specific AI tools working journalists are using for research, investigation, transcription, document analysis, and production, alongside the professional standards, ethical frameworks, and verification practices that must govern AI use in journalism.

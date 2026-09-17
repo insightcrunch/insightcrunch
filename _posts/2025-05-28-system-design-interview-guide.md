@@ -5,11 +5,11 @@ page_title: "Complete System Design Interview Guide: Step-by-Step Approach, Real
 date: 2025-05-28
 categories: ["Industry"]
 tags: ["system design interview", "system design preparation", "scalability", "distributed systems", "SDE-2 interview", "senior engineer interview", "high level design", "low level design", "database design", "microservices"]
-excerpt: "The most complete system design interview guide for SDE-2 and senior engineer roles: a structured step-by-step interview framework, twelve real-world..."
+excerpt: "System design interview guide: step-by-step framework, 12 real architecture problems, scalability patterns, and the approach SDE-2 and senior roles demand."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 55
 author: "james-carter"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 ## Table of Contents

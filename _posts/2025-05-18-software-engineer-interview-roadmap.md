@@ -5,11 +5,11 @@ page_title: "Complete Software Engineer Interview Roadmap: Company-Wise Preparat
 date: 2025-05-18
 categories: ["Industry"]
 tags: ["Google interview preparation", "Amazon SDE interview", "Flipkart interview", "TCS NQT", "Infosys interview questions", "coding round", "software engineer interview", "interview preparation India", "product company interview", "FAANG interview"]
-excerpt: "The most complete company-wise interview preparation guide for Indian software engineers: round-by-round breakdowns for Google, Amazon, Microsoft..."
+excerpt: "Software engineer interview prep: company-wise strategy for Google, Amazon, Microsoft, Flipkart, and TCS with round-by-round breakdown and question types."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 55
 author: "pooja-gupta"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 ## Table of Contents

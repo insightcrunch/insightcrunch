@@ -4,11 +4,11 @@ title: "TCS ILP Complete Guide - Everything You Need to Know Before Joining"
 date: 2025-10-27
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP", "Fresher", "IT Career", "Training"]
-excerpt: "The TCS Initial Learning Program is the bridge between your campus life and your corporate career. This is the most comprehensive guide to TCS ILP ever..."
+excerpt: "The most comprehensive TCS ILP guide: training structure, assessments, streams, ratings, salary, accommodation, documents, and career impact in one place."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 25
 author: "nikhil-tiwari"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 The TCS Initial Learning Program is the bridge between your campus life and your corporate career. Every year, tens of thousands of freshers walk into ILP centers across India with a joining letter in hand and a head full of questions. What will the training look like? How hard are the assessments? What happens if I fail? Will my ILP rating affect my project allocation?

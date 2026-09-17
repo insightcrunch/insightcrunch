@@ -5,11 +5,11 @@ page_title: "How to Use Runway ML - The Complete Guide to AI Video Generation an
 date: 2025-06-25
 categories: ["Technology"]
 tags: ["runway ml", "ai video", "video generation", "runway tutorial", "ai editing"]
-excerpt: "Master Runway ML for AI video - Gen-2, motion brush, inpainting, and production workflows."
+excerpt: "Decode Runway ML across video generation, editing, and the creative AI video workflow."
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 61
 author: "gregory-marsh"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 Runway ML has established itself as the professional-grade AI video platform of choice for filmmakers, creative directors, and video producers who need AI-powered video generation and editing tools that meet production standards. While consumer-facing AI video tools generate novelty clips for social media, Runway has built tools that integrate into actual production pipelines - used by Oscar-winning VFX artists, major advertising agencies, music video directors, and independent filmmakers producing theatrical releases. The platform's suite includes text-to-video and image-to-video generation (Gen-2 and Gen-3 Alpha), a comprehensive AI video editing toolset with capabilities like inpainting, outpainting, motion estimation, and background removal, and a growing set of creative AI tools that extend what is possible in video production. Understanding Runway means understanding a platform designed for serious creative work, with the depth and quality requirements that come with professional use. This guide covers the complete Runway feature set with the specific workflows that video professionals have developed for production-grade results.

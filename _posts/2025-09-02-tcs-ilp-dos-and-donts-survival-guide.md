@@ -4,11 +4,11 @@ title: "TCS ILP Dos and Don'ts - The Survival Guide Every Fresher Needs"
 date: 2025-09-02
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Tips", "Dos and Donts", "Fresher", "IT Career", "Survival Guide"]
-excerpt: "The difference between freshers who thrive at TCS ILP and those who struggle comes down to a set of habits, behaviors, and decisions that are entirely..."
+excerpt: "TCS ILP survival guide: the habits, mistakes, and daily decisions that separate freshers who thrive from those who struggle through training."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 25
 author: "nikhil-tiwari"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 The difference between freshers who thrive at TCS ILP and those who struggle comes down to a set of habits, behaviors, and decisions that are entirely within your control. The curriculum is the same for everyone. The assessments are the same. The hostel is the same. The faculty is the same. What varies is how each fresher approaches the experience.

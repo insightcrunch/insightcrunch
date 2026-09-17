@@ -5,11 +5,11 @@ page_title: "Sarkari Naukri Complete Guide: Government Job Categories, Eligibili
 date: 2025-06-23
 categories: ["Industry"]
 tags: ["sarkari naukri", "government job", "SSC", "UPSC", "railway exam", "sarkari result", "government salary", "IBPS", "state PSC", "defence jobs"]
-excerpt: "The most comprehensive guide to Sarkari Naukri in India: every major government exam category explained with eligibility, selection process, salary..."
+excerpt: "Sarkari Naukri complete guide: every government exam category, eligibility rules, selection process, salary structures, and preparation strategy for SSC..."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 48
 author: "kavita-sharma"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 ## Table of Contents

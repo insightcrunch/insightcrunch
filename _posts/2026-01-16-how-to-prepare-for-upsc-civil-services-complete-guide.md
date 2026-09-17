@@ -5,11 +5,11 @@ page_title: 'The Definitive Guide to Cracking UPSC Civil Services: A Strategic B
 date: 2026-01-16
 categories: ['Analytics']
 tags: ['UPSC', 'IAS', 'Civil Services', 'Preparation']
-excerpt: 'An authoritative, strategic, and deeply practical guide to preparing for the UPSC Civil Services Examination — covering the three-stage architecture...'
+excerpt: 'UPSC Civil Services preparation from scratch: three-stage exam architecture, subject-wise strategy, booklist, optional selection, and a month-wise study...'
 image: '/assets/images/blog/blog-15.webp'
 reading_time: 35
 author: "deepika-joshi"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: en
 ---
 ## **1. Introduction**

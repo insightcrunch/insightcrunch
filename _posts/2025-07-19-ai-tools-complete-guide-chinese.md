@@ -4,11 +4,11 @@ title: "AI工具完全指南：DeepSeek、ChatGPT、文心一言等20款免费AI
 date: 2025-07-19
 categories: ["Technology"]
 tags: ["DeepSeek", "ChatGPT"]
-excerpt: "本文深入评测DeepSeek、ChatGPT、文心一言等20款主流AI工具，涵盖功能对比、使用教程、实战技巧及适用场景，帮助你找到最适合自己的AI助手，大幅提升学习与工作效率。"
+excerpt: "20款主流免费AI工具深度评测：DeepSeek、ChatGPT、文心一言等功能横向对比、使用教程、实战技巧和不同场景下的最佳选择推荐。"
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 35
 author: "andrew-price"
-last_updated: 2026-03-31
+last_updated: 2026-09-17
 lang: zh
 ---
 ## 目录
