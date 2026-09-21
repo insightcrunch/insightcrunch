@@ -4,11 +4,11 @@ title: "Wordpress becoming unreliable"
 date: 2010-07-16
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "With a fairly reliable track record over the years, Wordpress.com faced a big hiccup last month which affected more than 10+ million blogs, and then again..."
+excerpt: "WordPress.com reliability concerns: major outages affecting 10 million blogs. Is the platform becoming too big to maintain consistent uptime?"
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 1
 author: "diana-patel"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 With a fairly reliable track record over the years, Wordpress.com faced a big hiccup last month which affected more than 10+ million blogs, and then again on June 10th, 2010. Most of the blogs including TechCrunch and some of CNN’s blogs which are hosted on tha platform went down. The only message available was *“WordPress.com will be back in a minute!”*

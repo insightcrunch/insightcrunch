@@ -4,11 +4,11 @@ title: "Music in Anakhronos 2009"
 date: 2009-02-26
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Anakhronos 2009 college fest music performances: capturing the energy and nostalgia of the last fest before graduation for an entire batch."
+excerpt: "The final college fest before graduating. Anakhronos 2009 music highlights and the bittersweet feeling of a last celebration with friends."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 1
 author: "chloe-martin"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 This is the fest in our college, the last and final one before we pass out. I couldn’t go because of some engagements, but didn’t forget to catch up with these videos from one of my close friends and his live detailed feedback. Jewelled by some stunning performances by the Anjan Dutta, who took out some of the very best songs from his bag which has made him almost immortal in Bengali music.

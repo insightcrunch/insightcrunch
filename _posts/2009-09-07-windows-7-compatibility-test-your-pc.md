@@ -4,11 +4,11 @@ title: "Windows 7 Compatibility: Test your PC"
 date: 2009-09-07
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "If you have Java installed, you can check out right now if your computer meets requirements of the resource hungry Windows 7 OS. Practically if Vista was..."
+excerpt: "Check if your PC can run Windows 7: a quick compatibility test using Java that tells you whether your hardware meets the OS requirements."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 2
 author: "amanda-ross"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 If you have Java installed, you can check out right now if your computer meets requirements of the resource hungry Windows 7 OS. Practically if Vista was making your PC sweat up everything it has  got, Windows7 will make it cry for mercy. So in the tool below just submit your hardware specification and get your result. This will just give you a overview and is by no means an official confirmation as many PCs may well run Windows 7 with weak hardware specs while some with higher specs might find it difficult based on applications and programs used.

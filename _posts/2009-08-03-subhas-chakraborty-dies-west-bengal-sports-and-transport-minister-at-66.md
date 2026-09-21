@@ -5,11 +5,11 @@ page_title: "Subhas Chakraborty dies, West Bengal Sports and Transport Minister,
 date: 2009-08-03
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "West Bengal Sports and Transport Minister and senior Communist Party of India-Marxist CPI(M) leader Shubhas Chakroborty, who was under treatment at AMRI..."
+excerpt: "Subhas Chakraborty, West Bengal Sports and Transport Minister, passes away at 66. A tribute to the senior CPI(M) leader and his political legacy."
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 1
 author: "diana-patel"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 West Bengal Sports and Transport Minister and senior Communist Party of India-Marxist CPI(M) leader Shubhas Chakroborty, who was under treatment at AMRI hospital in Kolkata, died this morning at 11:35 AM (IST) at the age of 66. His health was critical, and he was on ventilator over the past few days. The condition deteriorated this morning further. This came as a shock to everyone, including his fellow party members.

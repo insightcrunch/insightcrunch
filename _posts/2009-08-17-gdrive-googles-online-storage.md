@@ -4,11 +4,11 @@ title: "GDrive : Google’s online storage"
 date: 2009-08-17
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "Amidst lots of rumors, Google’s new online storage platform is all set to launch soon, maybe within an year. No official launch date has been announced as..."
+excerpt: "Google GDrive: the rumored online storage platform set to launch. Expected features, storage capacity, and how it could change cloud file management."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 1
 author: "marcus-hall"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 Amidst lots of rumors, Google’s new online storage platform is all set to launch soon, maybe within an year. No official launch date has been announced as yet. The specialty of this system with respect to others is in the fact it will let you backup your entire hard disk and will provide some synching techniques of some sort between your desktop and your GDrive files.

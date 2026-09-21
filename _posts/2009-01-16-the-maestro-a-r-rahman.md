@@ -4,11 +4,11 @@ title: "The Maestro - A.R. Rahman"
 date: 2009-01-16
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "I have always been an ardent fan of this amazingly talented musician..just hope its time for him to bag a few Oscars after this Golden Globe award. His..."
+excerpt: "A.R. Rahman's Golden Globe win and the road to the Oscars. Why his music stands apart with a rare blend of melody, soul, and innovation."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 1
 author: "amanda-ross"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 I have always been an ardent fan of this amazingly talented musician..just hope its time for him to bag a few Oscars after this Golden Globe award. His songs simply stand apart from the lot, filled with extreme passion and emotion..a trademark of his own.

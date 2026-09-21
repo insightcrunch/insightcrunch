@@ -4,11 +4,11 @@ title: "Google Reinvents Email, Docs with 'Google Wave'"
 date: 2009-05-28
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Google Wave preview: real-time collaborative communication that reimagines email and document editing. What it does and why it matters."
+excerpt: "What if email were invented today? Google Wave's ambitious attempt to merge real-time messaging, document editing, and collaboration in one tool."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 1
 author: "robert-quinn"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 What would e-mail look like if it were invented today, rather than several years ago? Here comes Google Wave, a preview application shown off at the Google I/O conference. Below is the video which would give the users a cool idea of what this is about.

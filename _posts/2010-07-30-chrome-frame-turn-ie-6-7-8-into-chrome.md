@@ -4,11 +4,11 @@ title: "Chrome Frame: Turn IE 6/7/8 into Chrome"
 date: 2010-07-30
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done..."
+excerpt: "Chrome Frame: turn Internet Explorer 6, 7, or 8 into Chrome. Google's plugin renders pages with Chrome's engine inside Microsoft's browser shell."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 1
 author: "rachel-foster"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done is, it renders everything on IE as it would appear on Chrome.

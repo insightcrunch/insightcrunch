@@ -5,11 +5,11 @@ page_title: "Pedestrian follows Google Maps, gets run over and sues Google for $
 date: 2010-06-29
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "Hugh Pickens writes 'The Toronto Star reports that a Utah woman is suing Google for more than $100,000 in damages, claiming its maps function gave her...'"
+excerpt: "Woman follows Google Maps walking directions, gets hit by a car, and sues Google for $100,000. The legal case that questions map liability."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 1
 author: "james-carter"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 Hugh Pickens writes "The Toronto Star reports that a Utah woman is suing Google for more than $100,000 in damages, [claiming its maps function gave her walking directions that led her onto a major highway](http://www.thestar.com/entertainment/article/816724--woman-who-walked-onto-highway-sues-google-maps), where she was struck by a car. Lauren Rosenberg sought directions between two addresses in Utah about 3 kilometers apart and the top result suggested that Rosenberg follow a busy rural highway for several hundred meters.

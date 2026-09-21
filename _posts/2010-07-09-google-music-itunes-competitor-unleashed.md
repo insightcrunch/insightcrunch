@@ -4,11 +4,11 @@ title: "Google Music: iTunes competitor unleashed?"
 date: 2010-07-09
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "We might soon be able to search a song or music in the market and click the download button to save it in our Android devices. The idea is pretty..."
+excerpt: "Google Music rumors: a cloud-based music store for Android that could compete with iTunes. Streaming, downloads, and the Android music ecosystem."
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 1
 author: "marcus-hall"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 We might soon be able to search a song or music in the market and click the download button to save it in our Android devices. The idea is pretty compelling of Google Music, if that is what it is going to be called in the end. Google teased the audience a few weeks ago about this which would be a new segment in the Android market.

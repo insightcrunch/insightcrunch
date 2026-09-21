@@ -4,11 +4,11 @@ title: "Google News finally responds to News Pubs"
 date: 2010-01-06
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "As most of the news agencies have been crying out of Google’s supposedly thieving ways of indexing news where users can simply search in Google News and..."
+excerpt: "Google News responds to publishers: the battle over content indexing, fair use, and whether Google is helping or hurting news organizations."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 1
 author: "nathan-cole"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 As most of the news agencies have been crying out of Google’s supposedly thieving ways of indexing news where users can simply search in Google News and read an article from leading newspapers by a click for free, they haven’t yet taken any stern step as most of these news sites earn a lot of their revenue from visitors arriving from such search results only. In fact, it’s hard to believe how well a news site would thrive without getting any visitor from a search engine as good as Google.

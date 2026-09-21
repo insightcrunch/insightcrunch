@@ -4,11 +4,11 @@ title: "Never to forget those days"
 date: 2009-05-10
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "College memories captured in a short, emotional piece: the days, the friendships, and everything that made those years impossible to forget."
+excerpt: "A small but priceless piece about college days. The emotions, the friendships, and the nostalgia of a time that shaped everything that followed."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "chloe-martin"
-last_updated: 2026-04-01
+last_updated: 2026-09-21
 lang: en
 ---
 A small but priceless piece of work by me ... to cherish all those lovely days spent together. It's as emotional as it could get.
