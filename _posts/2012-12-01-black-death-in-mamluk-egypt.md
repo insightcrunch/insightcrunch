@@ -6,17 +6,17 @@ date: 2012-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Mamluks", "Medieval Egypt", "Islamic Egypt", "Black Death", "World History"]
 excerpt: "The Black Death in Mamluk Egypt from 1347, the mortality it caused, the waves that followed for generations, and how disease hollowed out a strong state."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-12-01
+lang: en
 ---
-
 The strongest state in the eastern Mediterranean was destroyed by something no army could fight and no sultan could tax. When plague reached Egypt in the autumn of 1347, the Mamluk sultanate had defeated the Mongols, cleared the last Crusader holdings from the Syrian coast, and built a commercial position that made its rulers among the wealthiest in the world. Within two years a large share of the people who paid for all of it were dead, and within a century and a half the state itself had ceased to exist.
 
 The connection between those two facts is the subject of this article, and the claim it defends is what we can call the plague-sapped-the-sultanate thesis: the damage was not done by the catastrophe of 1347 to 1349 but by the pattern of recurrence that followed it, wave after wave across the fourteenth and fifteenth centuries, each one striking a population that had not finished recovering from the last. A single demographic shock, however severe, is something a functioning state absorbs and grows out of. A repeated shock, arriving every decade or so for a hundred and fifty years, prevents recovery from ever completing, and a population that never recovers cannot maintain the irrigation, the cultivation, or the revenue that the state was built on.
 
-![The Black Death in Mamluk Egypt and its long-term cost - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Black Death in Mamluk Egypt and its long-term cost - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 That framing corrects the most common misunderstanding about this subject. The Black Death is usually taught as an event with a date, the way a battle or a coronation has a date, and readers come away picturing a terrible two years followed by a long recovery. In Egypt the recovery did not come. The chronicles record major outbreaks with grim regularity for the remainder of the Mamluk period, and the demographic evidence, thin as it is, points to a population that was still well below its pre-plague level when the Ottomans arrived in 1517. Treating the Black Death as a single event misses the mechanism entirely, and the mechanism is where the historical interest lies.
 

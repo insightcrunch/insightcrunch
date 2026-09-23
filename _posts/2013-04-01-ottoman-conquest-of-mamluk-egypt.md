@@ -6,17 +6,17 @@ date: 2013-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Mamluks", "Ottoman Egypt", "Medieval Egypt", "Warfare", "World History"]
 excerpt: "How the Ottomans conquered Mamluk Egypt across 1516 and 1517, why gunpowder beat the finest heavy cavalry of its age, and what really changed afterward."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-04-01
+lang: en
 ---
-
 In the space of roughly six months, a state that had governed Egypt and Syria for two hundred and sixty-seven years, that had halted the Mongols and expelled the Crusaders, and that commanded the most admired heavy cavalry in the world, ceased to exist. Two battles decided it. The first was fought in northern Syria in the late summer of 1516 and the second outside Cairo in January 1517, and between them lay a march across Sinai that most observers thought impossible for an army of the size that made it.
 
 The claim defended here is what we can call the gunpowder-decided-it thesis: the conquest of Egypt was above all the victory of the gun over the horse, and any account that explains it primarily by numbers, treachery, or Mamluk decadence is reaching for secondary factors while the primary one is standing in plain view. The Ottoman army brought field artillery and disciplined firearm infantry fighting behind prepared obstacles, and against that combination the Mamluk method had no opening move. Everything else that went wrong for the defenders, and a great deal did, operated on top of a tactical problem they could not have solved on the day.
 
-![How the Ottomans conquered Mamluk Egypt in 1516 and 1517 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Ottomans conquered Mamluk Egypt in 1516 and 1517 - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 That thesis has to survive an obvious objection, and it is worth naming immediately. The Ottoman army was larger, better supplied, and commanded by a state with an expanding revenue base, and defection within the Mamluk command played a real part in the outcome. All of that is true. What none of it explains is why a cavalry force of acknowledged excellence, fighting on ground of its own choosing outside its own capital, with a fortified position prepared in advance, was destroyed in a matter of hours. Numbers do not produce that result against troops of this quality. A weapons system that removes the enemy's ability to fight the only way he knows how does.
 

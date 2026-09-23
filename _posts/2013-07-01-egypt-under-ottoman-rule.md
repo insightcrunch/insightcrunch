@@ -6,18 +6,17 @@ date: 2013-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Islamic Egypt", "Mamluks", "Society", "World History"]
 excerpt: "How Ottoman Egypt was actually governed by three competing powers, what the annual tribute really cost, and what daily life was like for ordinary people."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2013-07-01
-
+lang: en
 ---
-
 Ask who ruled Ottoman Egypt and the textbook answer is the pasha in the citadel, appointed by the sultan in Istanbul. Ask an Egyptian merchant in 1700 who he needed to keep happy, and the answer would have been longer and would have started with somebody else.
 
 The claim this article defends is what we can call the three-way-power thesis: Ottoman Egypt was governed by an unstable balance between the pasha sent from Istanbul, the Mamluk bey households that had survived the conquest and grown back, and the garrison regiments that had arrived as imperial troops and become an Egyptian interest group. No one of the three ever fully controlled the province, each could obstruct the others, and the arrangement between them shifted decade by decade without ever resolving into a single authority.
 
-![How Egypt was governed under the Ottomans, the pasha, the beys and the regiments - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Egypt was governed under the Ottomans, the pasha, the beys and the regiments - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 That structure matters because it explains almost everything about the period that otherwise looks like dysfunction. It explains why governors were deposed by their own subordinates. It explains why the tribute to Istanbul arrived late and negotiated rather than assessed and delivered. It explains why an Egyptian with a grievance had several doors to knock on and no guarantee that any of them commanded the others. And it explains why the province was simultaneously stable and turbulent for three hundred years, since a balance of three armed interests produces constant friction and rarely produces collapse.
 

@@ -6,18 +6,17 @@ date: 2013-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Islamic Egypt", "World History", "Trade", "Historiography"]
 excerpt: "How Ottoman Egypt lost its spice monopoly, gained a coffee century, and whether the province genuinely became poorer or simply shifted its whole economy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2013-08-01
-
+lang: en
 ---
-
 The standard account of Egypt's economy after 1517 is a straight line downward. European ships had found a route around Africa, the spice trade that made Egypt rich went with them, the Ottomans drained what remained, and three centuries of poverty followed until a European army arrived. It is a tidy story and it does not survive contact with the evidence.
 
 The claim this article defends is what we can call the bypassed-but-not-broke thesis: the Cape route cost Egypt its monopoly on the eastern trade and did not cost it the trade itself for a very long time, and the commerce that eventually replaced spices in Egyptian hands was large enough to fund one of the great commercial booms in the country's history. The economy shifted. Whether it declined is a genuinely different question with a genuinely contested answer.
 
-![Trade and decline in Ottoman Egypt, from spices to coffee - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Trade and decline in Ottoman Egypt, from spices to coffee - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 Two distinctions do most of the analytical work here and they are worth stating before anything else. The first is between a monopoly and a trade: losing the exclusive right to carry eastern goods to Europe is not the same as losing the goods, and Egypt lost the first while keeping much of the second for a century and a half. The second is between the province's economy and the province's status: Egypt could remain a wealthy, productive, commercially active territory while ceasing to be the centre of anything, and the confusion of those two things is the source of most of the bad writing on the subject.
 

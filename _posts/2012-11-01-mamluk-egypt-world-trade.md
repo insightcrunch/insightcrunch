@@ -6,17 +6,17 @@ date: 2012-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Mamluks", "Medieval Egypt", "Islamic Egypt", "Spice Trade", "World History"]
 excerpt: "How Mamluk Egypt controlled world trade as the spice chokepoint between the Indian Ocean and Europe, and how the Portuguese sea route around Africa broke it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2012-11-01
+lang: en
 ---
-
 For roughly two and a half centuries, a state with no navy worth the name, no colonies, no merchant fleet of its own in the Indian Ocean, and no manufacturing advantage over its neighbors took a cut of nearly every peppercorn eaten in Europe. Mamluk Egypt controlled world trade not by producing the goods the world wanted, and not by carrying them, but by sitting on the one stretch of land they had to cross. That position was worth more than any province. It funded an army of imported cavalry, paid for the mosques and mausoleums that still define the skyline of Cairo, and gave the sultans in the Citadel a bargaining position against Venice, Genoa, Barcelona, and Ragusa that no amount of European naval strength could dislodge for as long as the geography held.
 
 Then the geography stopped holding. In 1498 a Portuguese squadron rounded the southern tip of Africa and reached the Malabar coast of India, and within twenty years the arithmetic that had made Egypt rich was working against it. That is the story this article tells, and the claim it defends is what we can call the chokepoint-and-its-collapse thesis: Mamluk wealth did not rest on Egyptian production, Egyptian shipping, or Egyptian military reach, but on the accident of being the only practical corridor between the Indian Ocean and the Mediterranean, so when an alternative corridor opened, the foundation of that wealth failed faster than the state could adapt.
 
-![How Mamluk Egypt controlled world trade through the spice chokepoint - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Mamluk Egypt controlled world trade through the spice chokepoint - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 That thesis cuts against a comfortable assumption. Readers meeting Mamluk Egypt for the first time usually meet it as a formidable state: the power that stopped the Mongols, the power that finished the Crusader presence on the Syrian coast, the power whose cavalry was the standard against which other cavalry was measured. The natural inference is that such a state was securely wealthy, and that its later troubles were a matter of bad sultans, factional violence, or military conservatism. The trade record says something less flattering and more interesting. The wealth was real, but it was rented. It came from a position rather than from a capacity, and a position can be taken away by somebody else's ship.
 

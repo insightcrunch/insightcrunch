@@ -6,17 +6,17 @@ date: 2013-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Mamluks", "Medieval Egypt", "Islamic Egypt", "Warfare", "World History"]
 excerpt: "The Mamluk war machine explained: how furusiyya training produced the finest heavy cavalry of its age, and why that very strength became its own undoing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2013-02-01
+lang: en
 ---
-
 For roughly two and a half centuries the Mamluk war machine was the standard against which soldiers in the eastern Mediterranean were measured. It stopped the Mongol advance at a moment when no other army had managed it. It removed the last Crusader holdings from the Syrian coast. It held Egypt and Syria as a single military space against threats from three directions, and it did so with a force that was small by the standards of the empires around it and better trained than any of them. Contemporaries who fought against Mamluk cavalry, and contemporaries who merely wrote about it, agree on the quality in a way that historical sources rarely agree on anything.
 
 Then, in two engagements less than a year apart in 1516 and 1517, it was destroyed. The claim this article defends is what we can call the perfect-cavalry-wrong-century thesis: the Mamluks built the finest heavy cavalry of their age through a training system that took a boy and produced, over ten or more years, a horseman who could shoot, lance, and fight with a sword at a standard no conscript army could approach, and the completeness of that achievement is exactly what made adaptation impossible. A system optimized this hard for one form of war has no slack in it for another.
 
-![The Mamluk war machine, training, tactics and the coming of gunpowder - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Mamluk war machine, training, tactics and the coming of gunpowder - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 That framing corrects the usual account, which treats the collapse as evidence that the Mamluks had gone soft. They had not. The men who lost in 1516 were trained the same way as the men who won in 1260, they were individually formidable, and the sources on the Ottoman side say so. What had changed was that the thing they were superb at had stopped being the thing that decided battles, and the reasons they could not change with it are partly cultural, substantially institutional, and more fiscal than any account focused on stubbornness allows.
 

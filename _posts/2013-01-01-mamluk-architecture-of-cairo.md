@@ -6,17 +6,17 @@ date: 2013-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Mamluks", "Medieval Egypt", "Islamic Egypt", "Cairo", "Architecture"]
 excerpt: "Mamluk architecture gave Cairo its skyline: the great complexes, the carved stone domes, the striped ablaq walls, and why the sultans built on such a scale."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-01-01
+lang: en
 ---
-
 Walk any street in the old core of Cairo and the buildings that stop you are almost all from a single period of roughly two hundred and fifty years. Mamluk architecture is the reason the city looks the way it does: the striped walls in alternating courses of pale and dark stone, the minarets rising in three diminishing tiers to a finial, the ribbed and arabesqued stone domes that exist in this form almost nowhere else on earth, and the enormous portals recessed under honeycombed vaults that swallow the light. No other Islamic capital carries a comparable density of monumental building from one era, and the nickname the city acquired, the city of a thousand minarets, is a description of what the Mamluk sultans and their officers left behind rather than a poetic exaggeration.
 
 The claim this article defends is what we can call the city-of-a-thousand-minarets thesis: the Mamluk elite built at a density no other medieval ruling class matched, in a style distinctive enough to be recognized at a glance, and the reasons they did so were not simply piety or wealth but a set of political and legal incentives peculiar to how their state worked. Understanding those incentives explains the architecture better than any account of taste, and it explains something that looks paradoxical from the outside: the greatest building activity came during the centuries when the country underneath was getting poorer.
 
-![Mamluk architecture and the monumental golden age of Cairo - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mamluk architecture and the monumental golden age of Cairo - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 This also corrects an assumption that flattens the whole subject. Readers arrive expecting Islamic architecture to be a single thing, a generic vocabulary of domes, arches, and geometric ornament that varies only in quality. It is not. A Mamluk facade in Cairo, an Ilkhanid one in Iran, a Nasrid interior in Granada, and an Ottoman mosque in Istanbul are as different from one another as a Gothic cathedral is from a Baroque church, and they are different in ways that can be learned quickly and then used to date and place a building on sight. Mamluk work in particular has a set of signatures that make it among the most identifiable regional styles in the Islamic world.
 

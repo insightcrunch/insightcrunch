@@ -6,18 +6,17 @@ date: 2013-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Islamic Egypt", "Mamluks", "World History", "Historiography"]
 excerpt: "Ottoman Egypt explained: how a province governed from Istanbul came to be run by the Mamluk beys it had displaced, and why the decline story is contested."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-05-01
-
+lang: en
 ---
-
 For nearly three centuries Egypt was a province. It had been the seat of its own empire for most of recorded history, and from 1517 until the beginning of the nineteenth century it was administered as one territory among many in a state governed from Istanbul, with a governor appointed elsewhere, a garrison sent from outside, and an annual remittance of surplus revenue flowing north.
 
 That is the formal picture and it is only half the story. The claim this article defends, and the one that organizes the whole Ottoman cluster in this series, is what we can call the province-with-a-shadow-elite thesis: Ottoman Egypt was constitutionally a province of Istanbul and was increasingly run in practice by the very Mamluk households the conquest had supposedly displaced. The forms of imperial authority persisted while the substance of power drifted steadily back to a local military elite that recruited itself, paid itself, and eventually appointed and deposed the governors sent to rule it.
 
-![Ottoman Egypt explained, three centuries as a province of Istanbul - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ottoman Egypt explained, three centuries as a province of Istanbul - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Holding that double picture in view is what makes the period intelligible. A reader who sees only the formal structure will be baffled by the eighteenth century, when Egyptian forces marched into Syria and the Hijaz without instruction from Istanbul. A reader who sees only the local elite will miss why Egyptian revenue kept arriving in the imperial treasury, why the pilgrimage caravan kept departing, and why nobody in Cairo ever declared independence. Both things were true at once, and the balance between them shifted decade by decade.
 

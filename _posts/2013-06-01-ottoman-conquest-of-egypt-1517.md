@@ -6,18 +6,17 @@ date: 2013-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Mamluks", "Islamic Egypt", "World History", "Historiography"]
 excerpt: "How Selim I took Egypt across 1516 and 1517, why the Ottomans wanted it so badly, and how Cairo fell from the capital of an empire to a provincial city."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2013-06-01
-
+lang: en
 ---
-
 Most accounts of 1517 measure it in battles, and the more revealing measurement is in status. Before the Ottoman conquest, Cairo was the capital of an independent sultanate that governed Egypt and Syria, protected Mecca and Medina, hosted the caliph, conducted its own foreign policy, and answered to nobody. After it, Cairo was a provincial city in somebody else's empire, its governor appointed two thousand miles away, its surplus revenue remitted outward, and its decisions made in Istanbul.
 
 The claim this article defends is what we can call the capital-to-province thesis: 1517 was as much a demotion as a defeat, and the demotion did more lasting damage to Egypt's standing than the loss of the two battles that produced it. Armies are rebuilt within a generation. A country that stops being the centre of its own political world does not get that position back by winning the next war, because there is no next war to win.
 
-![How the Ottomans took Egypt in 1517 and demoted Cairo - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Ottomans took Egypt in 1517 and demoted Cairo - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 That framing corrects the most common way of reading the year, which treats it as a change of rulers. Egypt had changed rulers many times, and in most cases the new rulers had governed from Cairo and had made Egypt the centre of whatever they built. The Fatimids arrived from the west and made Cairo their capital. Saladin arrived from Syria and made Cairo the seat of his sultanate. The Mamluks seized power from within and ruled from the citadel. In 1517 the men who took Egypt kept their capital where it was, and for the first time in more than five hundred years the country was governed from outside.
 

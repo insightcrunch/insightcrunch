@@ -6,17 +6,17 @@ date: 2013-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Mamluks", "Medieval Egypt", "Islamic Egypt", "Historiography", "World History"]
 excerpt: "How a slave army ruled Egypt for over two centuries, why power never became hereditary, and whether the Mamluk system ran on merit, faction, or force."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2013-03-01
+lang: en
 ---
-
 For more than two and a half centuries the richest state in the eastern Mediterranean was governed by men who had arrived in it as purchased children. They were bought abroad, shipped to Egypt, trained, freed, and enrolled in the households of the men who had bought them, and from that starting point some of them rose to command armies, hold provinces, and take the throne. Their sons could not inherit their position. Each generation of rulers was therefore bought fresh from outside, and the system ran on that basis until an Ottoman army ended it in 1517.
 
 The question this article answers is how such an arrangement could work, and it is a genuine puzzle rather than a rhetorical one. Every intuition about how pre-modern states hold together points the other way. Hereditary succession exists because it settles who rules without a fight. A ruling class that recruits from within its own families has an interest in the dynasty's survival. A regime staffed by foreigners with no local roots ought to be brittle. The Mamluk system violated all three principles and outlasted the Ayyubids, the Crusader states, the Ilkhanate, and every Turkmen principality on its borders.
 
-![How a slave army ruled Egypt and why the Mamluk system lasted - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How a slave army ruled Egypt and why the Mamluk system lasted - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 The verdict defended here is what we can call the stable-because-unstable verdict: the Mamluk system endured not despite its refusal of heredity and its chronic factional violence but partly because of them. A regime that cannot pass office to sons must keep importing and training capable outsiders, which prevents the decay that hereditary systems reliably produce by the third generation. A regime whose disputes are settled by force among a small armed elite resolves them quickly and locally, without civil wars that consume the country. The instability was real, it cost lives, and it was also the mechanism of renewal.
 
