@@ -6,15 +6,15 @@ date: 2013-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Mamluks", "Islamic Egypt", "World History", "Historiography"]
 excerpt: "How the Mamluk beys survived the Ottoman conquest, seized control of the tax farms, reduced the pasha to a figurehead, and ruled Egypt in all but name."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-09-01
+lang: en
 ---
-
 In January 1517 an Ottoman army broke the last Mamluk field force outside Cairo, and a few weeks later the final Mamluk sultan, Tuman Bay, was hanged at the Bab Zuwayla gate in front of the city he had failed to hold. Every textbook treats that execution as an ending. The Mamluk Sultanate had ruled Egypt and Syria for two and a half centuries; a gunpowder empire arrived, the cavalry state lost, and Egypt became an Ottoman province. Two hundred and fifty years later, a European traveler arriving in Cairo would have found the Ottoman governor confined to the Citadel with a ceremonial escort and no army worth the name, while the real decisions about taxation, appointments, the grain supply, the pilgrimage caravan, and war and peace were taken by a council of Mamluk commanders who bought boys in the Caucasus, trained them as cavalry, and fought each other for the right to speak for Egypt. The elite that lost in 1517 was running the country again.
 
-![The Mamluk beys of Ottoman Egypt and how they took back power - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Mamluk beys of Ottoman Egypt and how they took back power - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 That is the fact this article exists to explain, and it is the fact most accounts of [Ottoman Egypt](/2013/05/01/ottoman-egypt-complete-guide/) skate over, because it is genuinely awkward. A defeat is supposed to remove a ruling class. This one did not. What it removed was a dynasty and a title. The men who held the sultanate died or fled; the system that produced them, the household that bought and trained slave cavalry and converted military service into landed income, was left standing, because the conquerors found it useful and because dismantling it would have cost more than it was worth. Within a century that system had regrown inside the Ottoman framework. Within two it had hollowed the framework out.
 

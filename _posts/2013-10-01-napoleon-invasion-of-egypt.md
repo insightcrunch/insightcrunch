@@ -6,15 +6,15 @@ date: 2013-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Napoleon", "Warfare", "World History", "Modern Egypt"]
 excerpt: "Why Napoleon invaded Egypt, how he crushed the Mamluk cavalry, why the loss of his fleet doomed the campaign, and what the brief occupation changed anyway."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-10-01
+lang: en
 ---
-
 A French army of roughly thirty six thousand men landed on the Egyptian coast west of Alexandria on 1 July 1798, took the city the next morning, destroyed the country's ruling military elite three weeks later within sight of the pyramids, and occupied Cairo. Thirty eight months afterward the survivors of that army were loaded onto British transports and shipped home, having lost the country, lost their fleet, lost their commander, lost their second commander to an assassin, and lost somewhere between a third and a half of their number to battle, disease, and the desert. Measured against its own objectives, the Egyptian campaign is one of the most complete strategic failures of the revolutionary wars.
 
-![Napoleon's invasion of Egypt in 1798 and why the campaign failed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Napoleon's invasion of Egypt in 1798 and why the campaign failed - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 It is also the single most consequential three years in Egyptian history between the Ottoman conquest and the building of the Suez Canal. The invasion destroyed the political order that had run the country for two and a half centuries, exposed to everyone including the Ottomans that Egypt could be taken by a European power in a fortnight, opened the country to European commercial and diplomatic penetration that never afterward receded, produced the scholarly enterprise that would decipher hieroglyphs and invent an academic discipline, and created the exact power vacuum that an Albanian officer in the Ottoman expeditionary force stepped into four years later.
 

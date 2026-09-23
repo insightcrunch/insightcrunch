@@ -6,15 +6,15 @@ date: 2013-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Napoleon", "Archaeology", "Historiography", "World History"]
 excerpt: "How the scholars who sailed with Napoleon measured the monuments, founded the Institut, compiled the Description, and launched the science of Egyptology."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2013-12-01
+lang: en
 ---
-
 Somewhere between one hundred and fifty and one hundred and seventy civilians sailed from Toulon in May 1798 with an army that did not want them, in a convoy whose destination they were not told, to conduct a survey nobody had commissioned in detail of a country almost none of them had seen. They were mathematicians, chemists, engineers, naturalists, surveyors, architects, draftsmen, physicians, printers, an orientalist or two, and one middle-aged artist with a talent for getting himself attached to whichever column was going somewhere interesting. The soldiers called them the donkeys, because the order to form square placed the baggage animals and the scholars in the same protected middle.
 
-![Napoleon's scholars and how the savants rediscovered ancient Egypt - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Napoleon's scholars and how the savants rediscovered ancient Egypt - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The military expedition they accompanied failed comprehensively, as set out in the article on [Napoleon's invasion of Egypt](/2013/10/01/napoleon-invasion-of-egypt/). The scholarly one did not. Over three years these people measured, drew, excavated, dissected, catalogued, surveyed, and described more of Egypt than the whole of European travel literature had managed in the preceding two centuries, and the publication that resulted, issued over two decades after they came home, created a field of study, established the visual image of ancient Egypt that Europe carried for the next two hundred years, and set off a wave of enthusiasm for all things Egyptian that reached furniture, architecture, opera, and clock cases.
 
