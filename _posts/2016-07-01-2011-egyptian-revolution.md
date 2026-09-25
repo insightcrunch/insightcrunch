@@ -6,17 +6,17 @@ date: 2016-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Egyptian Revolution", "Tahrir Square", "Arab Spring", "Hosni Mubarak", "Modern Egypt"]
 excerpt: "Eighteen days of protest in Tahrir Square ended thirty years of rule. This revolution's story runs from its grievances to its climax and contested aftermath."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-07-01
+lang: en
 ---
-
 ## Eighteen Days That Shook Egypt
 
 On the morning of 25 January 2011, a date the Egyptian state had designated National Police Day, tens of thousands of Egyptians began streaming toward Tahrir Square in the center of Cairo, in the opening hours of the revolution that would end thirty years of rule. They came from the working-class districts of Shubra and Imbaba, from the universities of Ain Shams and Cairo, from the commuter trains that carried them in from Giza and beyond. Many carried the Egyptian flag. Some carried banners calling for bread, freedom, and social justice. The police, whose holiday it was, met them with tear gas and batons. By nightfall, clashes had spread to Alexandria, Suez, Ismailia, and Mansoura. What began as a called day of protest against police brutality did not end when the day ended. Eighteen days later, on 11 February 2011, Hosni Mubarak, who had governed Egypt for nearly thirty years, resigned the presidency. The revolution, as it was called by its participants and by much of the world, had toppled a ruler many Egyptians had assumed would die in office, and it had done so in less than three weeks.
 
-![Protesters filling Tahrir Square during the 2011 Egyptian revolution - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Protesters filling Tahrir Square during the 2011 Egyptian revolution - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 That speed is the first thing any honest account must confront, and it is this article's central claim: the 2011 Egyptian uprising was an eighteen-days-that-shook-Egypt event, a mass mobilization so rapid that it compressed decades of accumulated grievance into a fortnight and a half of street action, and understanding it requires holding together both the astonishing velocity of Mubarak's fall and the long, unfinished aftermath that followed it. The swiftness was real. A regime that had survived assassination attempts, regional wars, economic shocks, and three decades of opposition was brought down not by a coup or an invasion but by people standing in squares, and it happened so fast that most Egyptians, most observers, and even most of the protesters themselves were still absorbing the fact weeks later. But the aftermath was equally real, and it complicates any simple story of triumph. The Supreme Council of the Armed Forces took power, elections followed, a Muslim Brotherhood president was elected and then overthrown by the military within a year, and Egypt entered a new period of authoritarian rule under Abdel Fattah el-Sisi. Historians, political scientists, and Egyptians themselves continue to argue over what 2011 actually was: a revolution, a revolt, a coup-enabled uprising, or something in between. This article does not settle that argument by fiat. It presents the event at its strongest, examines the competing interpretations, and leaves the reader with the evidence to judge.
 

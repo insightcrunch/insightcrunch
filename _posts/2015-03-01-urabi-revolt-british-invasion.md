@@ -6,17 +6,17 @@ date: 2015-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Urabi Revolt", "British Occupation", "Egyptian Nationalism", "Ahmed Urabi", "Middle East History"]
 excerpt: "Ahmed Urabi led Egypt's first nationalist uprising. This weighs the hero and mutineer cases, the road to Tel el-Kebir, and the occupation his defeat provoked."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-03-01
+lang: en
 ---
-
 ## A Colonel Defies an Empire: Why the Urabi Revolt Still Divides Opinion
 
 On the morning of September 9, 1881, Ahmed Urabi rode toward Abdin Palace in Cairo at the head of four thousand Egyptian soldiers, with infantry, cavalry, and artillery drawn up in the square before the Khedive's residence. Mohammed Tawfiq, who had ruled Egypt for just over two years, came down to face him, flanked by the British and French consuls general. Tawfiq reminded the colonel that he governed by the Sultan's firman and demanded obedience. Urabi answered that God had created Egyptians as free men, not as inherited property to pass from father to son, and that the army had come to demand the dismissal of a ministry that served foreigners rather than the country. The troops roared their approval, and Tawfiq, pale and shaken by every contemporary account, granted everything: a new ministry, an elected chamber, and an army restored to its proper strength.
 
-![Ahmed Urabi, the Egyptian colonel whose 1879 to 1882 revolt became the first modern nationalist uprising - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ahmed Urabi, the Egyptian colonel whose 1879 to 1882 revolt became the first modern nationalist uprising - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 That confrontation is the founding tableau of modern Egyptian politics, and it is remembered in two irreconcilable ways. In Egyptian memory, Urabi is the first nationalist: a fellah's son who looked a Khedive in the face and declared that Egyptians were not slaves, the man who gave the country its first organized political movement and paid for it with nearly twenty years of exile in Ceylon. Streets and statues bear his name, and generations of schoolchildren have learned his defiance at Abdin as the moment Egypt first spoke for itself. In the British memory that dominated Western histories for a century, he was something else entirely: a mutinous colonel who terrorized a legitimate ruler at the head of an armed mob, a military dictator in the making whose anarchy threatened the Suez Canal, the savings of the bondholders, and the lives of Europeans in Alexandria. Gladstone's ministers told Parliament that Britain had acted to restore order, not to conquer; Urabi's supporters told the world that Egypt had been strangled for demanding a constitution.
 

@@ -6,15 +6,15 @@ date: 2015-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "British occupation", "colonial rule", "Lord Cromer", "nationalism", "cotton economy"]
 excerpt: "British rule gave Egypt order, irrigation, and solvency while denying sovereignty and development. Weigh the benefits against the harms and reach a verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-10-01
+lang: en
 ---
-
 In September 1882, the instrument of British rule arrived in Cairo not on horseback but by railway carriage. The guns at Tel el-Kebir had silenced Ahmed Orabi's nationalist revolt, the streets of Alexandria lay in ashes after the July bombardment, and a British army of occupation settled in as if it meant to stay a season. Evelyn Baring, who would become Lord Cromer, came instead to stay twenty-four years, armed less with rifles than with ledgers. Egypt was bankrupt, its treasury pledged to European bondholders through the Caisse de la Dette, its peasants crushed under taxes that paid for a khedival court of palaces and yachts. Cromer looked at the ruin and saw a problem of arithmetic. Order the accounts, he told London, and order would follow the money. For the next quarter century, Egypt would be governed as the world's most ambitious experiment in honest colonial bookkeeping, and the question that has never quite gone quiet began with those ledgers: was this good for Egypt, or was it a subtler form of ruin?
 
-![British officials and troops in Cairo during the occupation, the ledgers of British rule - Insight Crunch](/assets/images/blog/blog-01.webp)
+![British officials and troops in Cairo during the occupation, the ledgers of British rule - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The question outlived the ledgers. Cromer retired to write his memoirs, the British Residency became an embassy, the last soldiers quit the Canal Zone, and still the argument burns in Egyptian classrooms and British seminar rooms alike. On one side, the imperial nostalgists point to the railways, the barrages, the balanced budgets, and ask what Egypt would have been without them. On the other, the nationalists point to Dinshaway, to the martyrs of 1919, to seventy years of Egyptians governed as strangers in their own ministries, and call the whole enterprise a theft dressed as administration. Both stories feel true because both contain truths, and both mislead because each was written to serve the politics of a later age. To judge British rule honestly, the two narratives must be set aside and the occupation tried on evidence: what it actually did, what it actually cost, and what it actually left behind. The [British occupation of Egypt](/2015/01/01/british-occupation-of-egypt/) is surveyed as its own era in this series; this article takes up the debate it left behind.
 

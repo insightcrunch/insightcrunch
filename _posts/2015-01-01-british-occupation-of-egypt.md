@@ -6,15 +6,15 @@ date: 2015-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "British Empire", "Suez Canal", "Egyptian Nationalism", "Colonialism", "Middle East History"]
 excerpt: "The British occupation of Egypt was an empire disguised as advice. An era pillar on the veiled protectorate, the resistance it bred, and the road out."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-01-01
+lang: en
 ---
-
 The British occupation of Egypt is the strangest empire of the modern age. From 1882 until the middle of the twentieth century, Egypt was ruled by Britain. British officials drew up its budgets, commanded its army, censored its press, and decided which ministers could hold office and which had to go. And for most of those seventy years, Britain officially insisted that none of this was happening. The occupation was described in London as a temporary mission, a kind of friendly tutelage that would end the moment Egypt could stand on its own. The advisers in Cairo were merely advising, or so the story ran, even when the advice arrived with a gunboat attached. Egyptians who lived under this arrangement had a sharper word for it. They called it rule, and they were right.
 
-![British troops and officials in occupied Egypt, the veiled empire that ruled while denying it ruled - Insight Crunch](/assets/images/blog/blog-01.webp)
+![British troops and officials in occupied Egypt, the veiled empire that ruled while denying it ruled - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 This article is built around a single claim, and it is best stated plainly at the outset. Britain ruled Egypt for decades while insisting it was not ruling it at all: an empire disguised as advice, a conquest presented as a rescue mission, a permanent presence wrapped in the language of the temporary. Historians have given this condition a name. They call it the veiled protectorate, after the phrase coined by the most powerful Briton in Egypt, Lord Cromer himself, who boasted that British power in the country worked best when it was concealed. The veil was the point. A formal declaration of ownership would have provoked France, alarmed the Ottoman sultan, outraged Egyptian opinion beyond repair, and raised awkward questions in a British Parliament that prided itself on liberal principles. So Britain ruled without declaring, annexed without annexing, and governed through men who held no title that admitted what they were. The result was an arrangement that confused foreign diplomats, humiliated Egyptian patriots, and worked, from the British point of view, remarkably well for nearly forty years.
 

@@ -6,15 +6,15 @@ date: 2016-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Gamal Abdel Nasser", "Arab Nationalism", "Pan-Arabism", "Cold War", "Biography"]
 excerpt: "Gamal Abdel Nasser rose from an Alexandria childhood to become the voice of Arab dignity, ruling Egypt for nearly two decades of triumph, war, and grief."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-01-01
+lang: en
 ---
-
 ## The Man and the Paradox
 
-![Gamal Abdel Nasser addressing a crowd, the Egyptian president who became the voice of the Arab world - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gamal Abdel Nasser addressing a crowd, the Egyptian president who became the voice of the Arab world - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 Gamal Abdel Nasser was the most famous Arab of his age, and the least like the kings and presidents who shared it. He came from nowhere that mattered in the Egypt of the old order: no great family, no fortune, no foreign education, no patron in the palace. What he carried instead was a conviction, formed early and never abandoned, that Egypt's shame was not poverty or backwardness but subjection, and that subjection could be answered with dignity spoken aloud until millions believed it. The claim at the heart of his story is this: Nasser's power rested on becoming the symbolic voice of Arab dignity and independence; his authority was as much emotional and pan-Arab as it was Egyptian. He did not inherit a nation. He gave a scattered people a voice, and in return they gave him a power no constitution had granted.
 

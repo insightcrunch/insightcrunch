@@ -6,17 +6,17 @@ date: 2015-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Egyptian Nationalism", "Pharaonism", "Arab Nationalism", "Middle East History"]
 excerpt: "Egyptian nationalism under British rule asked whether Egyptians were Egyptian, Arab, or Muslim first. This traces that contest from press wars to Pharaonism."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-07-01
+lang: en
 ---
-
 ## Egypt's Longest Argument: Nationalism and the Making of Egyptian Identity
 
 What did it mean to be Egyptian when Egypt was not ruled by Egyptians? After 1882 the country's treasury, its army, its railways, and its village headmen all answered, directly or at arm's length, to British authority, while Egyptians remained the people doing the farming, the fighting, and the paying. Into that dissonance flowed the most sustained debate in the country's modern history: not merely how to end foreign rule, but what the Egypt that deserved independence actually was. This is where modern **Egyptian nationalism** stops being one idea and becomes a contest between Egyptian, Arab, and Islamic identities, a debate that asking what Egyptians were opens rather than settles. The pages that follow trace how that debate was born under occupation, in newspapers and party halls, in village punishments and lawyer's offices, before it split into rival visions of the nation.
 
-![Egyptian nationalists debating identity under British occupation, from Pharaonism to Arab and Islamic visions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egyptian nationalists debating identity under British occupation, from Pharaonism to Arab and Islamic visions - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 ## What Did It Mean to Be Egyptian Under Occupation?
 

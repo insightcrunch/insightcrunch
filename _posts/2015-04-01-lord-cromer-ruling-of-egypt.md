@@ -6,17 +6,17 @@ date: 2015-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Lord Cromer", "British Occupation", "Colonial Egypt", "Middle East History"]
 excerpt: "Lord Cromer ruled Egypt for twenty-four years, fixing its finances while starving its schools and politics. This biography weighs achievement against neglect."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-04-01
+lang: en
 ---
-
 For twenty-four years the most powerful man in Egypt held no Egyptian office at all. Lord Cromer ruled the Nile valley from 1883 to 1907 as British Agent and Consul-General, a diplomatic title that concealed what was in substance a proconsulate. An army of occupation kept his writ, ministers governed in the Khedive's name but answered to him, and no law, tax, or appointment of consequence survived his objection. He was never king and never viceroy, yet nothing of importance moved in Cairo without his leave. Cromer governed Egypt as a balance sheet, fixing the finances and the irrigation while starving the schools and the political life of the nation. That sentence is the whole of his record in miniature, and it must be stated at the outset, because both halves of it are true and neither half excuses the other. He took a bankrupt country from the hands of its creditors and returned it solvent, and he did it by methods that left Egyptians no share in their own government. Admirers called him the greatest administrator Britain ever sent abroad; his enemies, and they were not few, called him the jailer of a nation. Both verdicts have survived him, and a fair account has to hold them together.
 
 The man himself gave little away. Those who served under him remembered a cold, tireless, dryly witty Englishman who read every dispatch, trusted almost no one, and worked days of fourteen hours in the heat of Cairo. He despised what he called the slipshod habits of the East with a frankness that embarrasses even his admirers, and he made no secret of his belief that Egyptians were unfit, for the present, to govern themselves. The country he left behind in 1907, when failing health forced his resignation, was solvent, orderly, and quietly furious. The debt that had swallowed the revenues was cut down to manageable size, the budget showed a surplus instead of a deficit, the canals ran full, and a generation of young Egyptians had drawn the lesson that British rule meant efficient administration and no country of their own. Marsot argues that his regime froze the political development of the country for a quarter of a century; Tignor holds that the financial recovery was genuine and bought the Nile valley time. Both judgments stand. Cromer died in 1917, ten years after he sailed home, and lived long enough to watch the nationalist storm his methods had helped to summon.
 
-![Lord Cromer, the British Consul-General who effectively ruled Egypt from 1883 to 1907 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lord Cromer, the British Consul-General who effectively ruled Egypt from 1883 to 1907 - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 ## Evelyn Baring's Road to Egypt
 

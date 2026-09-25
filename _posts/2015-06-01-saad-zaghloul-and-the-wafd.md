@@ -6,17 +6,17 @@ date: 2015-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Saad Zaghloul", "Wafd Party", "Egyptian Nationalism", "British Occupation", "Egyptian Independence"]
 excerpt: "From a Delta village to the Wafd's founding, Saad Zaghloul's exiles made him Egypt's national voice. This is the story of the leader Britain tried to silence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-06-01
+lang: en
 ---
-
 ## The Village Boy the Empire Could Not Contain
 
 Saad Zaghloul entered Egyptian public life the way so many village boys entered the modern world in the second half of the nineteenth century: through religion, through words, and through the law. By the time Britain banished him to Malta in 1919, he had already been a minister, a judge, a journalist, and the vice-president of Egypt's first real elected assembly. He was, in other words, a working politician, competent and ambitious, operating inside the system that ruled Egypt. The exile changed everything. It turned a man who had spent thirty years learning how power worked in Cairo into a symbol that no longer needed to operate at all. That is the central paradox of his life: Britain tried to silence Zaghloul, and in doing so made him immortal. The deportation order that was meant to remove him from Egyptian politics instead removed him from the ordinary limits of politics altogether, transforming a skilled insider into the voice of a nation.
 
-![Saad Zaghloul, founder of the Wafd and leader of the 1919 revolution - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Saad Zaghloul, founder of the Wafd and leader of the 1919 revolution - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 He was born in 1859 in Ibyana, a village in the Delta where the rhythm of life was set by the Nile's flood and the tax collector's visit. His family were fellahin, peasants of modest standing, not the great landed households that produced most of Egypt's political class. What they gave him was not wealth but the one thing that could substitute for it in nineteenth-century Egypt: an education. He was sent to al-Azhar, the great mosque-university of Cairo, at a time when the institution was still the single most important gateway for a talented boy from the provinces. At al-Azhar he studied the traditional curriculum of Islamic jurisprudence and theology, and he studied under the reformist currents that were beginning to stir the place, most importantly the circle gathered around Muhammad Abduh. Abduh taught that Islam and modern learning were not enemies, that the Quran commanded reason rather than forbidding it, and that Egypt's decline was a failure of Muslims to use their minds, not a verdict of fate. For a village boy with a sharp intellect and a restless ambition, this was intoxicating. It gave him a way to be modern without abandoning who he was, and it placed him in a network of reformers who would shape Egyptian public life for the next half century.
 

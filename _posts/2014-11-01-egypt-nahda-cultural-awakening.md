@@ -6,17 +6,17 @@ date: 2014-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Nahda", "Arab Renaissance", "Arabic Literature", "Muhammad Abduh", "Rifaa al-Tahtawi"]
 excerpt: "Egypt's Cultural Awakening: the complete guide to the Nahda, the 19th-century Arab renaissance that modernized Arabic literature, print, and reformist thought."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 74
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2014-11-01
+lang: en
 ---
-
 The Nahda, the cultural awakening that remade Egypt in the nineteenth century, begins in a landscape of scarcity. Around the year 1800, what educated Egyptians knew and made in the cultural domain was considerable by the standards of classical Islamic learning but narrow by the standards of a printing age. Arabic books circulated chiefly as manuscripts, copied by hand in the libraries of al-Azhar and in the households of scholars. A student who wished to read a treatise on grammar, astronomy, or law depended on the copyist's accuracy and the patron's generosity. No Arabic newspaper existed in Egypt. No sustained periodical press carried opinion from Cairo to Alexandria, let alone from Cairo to Beirut or Baghdad. Maps, medical manuals, and technical treatises from the European world reached Arabic readers rarely and indirectly, filtered through a handful of intermediaries who had studied abroad or picked up a foreign tongue. The scholarly culture was real, deep, and continuous with centuries of tradition, but its instruments for multiplying and spreading knowledge were thin.
 
 Into this thin world came the press, and with it the slow, uneven, and at times state directed opening of Arabic letters to new forms. Muhammad Ali, who ruled Egypt from 1805 to 1848, wanted engineers, physicians, and officers, and he wanted the manuals to train them. The Bulaq press, established in 1821, became the instrument of that ambition: the first government printing establishment in the country, turning out translations of European military, medical, and scientific works alongside Arabic grammars and geographies. Around the same machinery grew a new class of men who could write for print rather than for the manuscript copyist. Rifaa al-Tahtawi, born in 1801 and destined to live until 1873, whose Paris years are also treated in the article on [Muhammad Ali Pasha](/2014/04/01/muhammad-ali-pasha-of-egypt/), traveled with the student mission that Muhammad Ali sent to France in 1826, returned to Egypt in 1831 after five years in Paris, and founded the School of Languages in 1835 to train translators. His account of Paris gave Arabic readers something they had lacked: a sustained, firsthand, printed description of a modern European society, written not as a traveler's marvels but as material for reflection about what Egypt might become.
 
-![Egypt's Cultural Awakening: the Nahda and the rebirth of Arabic print - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egypt's Cultural Awakening: the Nahda and the rebirth of Arabic print - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 What followed, across the rest of the century and into the next, was not a single event but an awakening with institutions, generations, and arguments. Schools multiplied, translations poured out of Bulaq and later private presses, newspapers and journals argued over religion and reason, and reformist thinkers tried to rebuild Islamic thought for an age of telegraphs and steam. Historians conventionally date the Nahda, the Arabic term meaning "awakening" or "renaissance," to the nineteenth century running into the early twentieth, with Egypt at its center and Beirut, Damascus, and later Baghdad in supporting but essential roles. That is the story this article follows: how a culture of manuscripts became, within a few generations, a culture of print, and what that transformation did to the Arabic language, to literature, and to the way Egyptians thought about themselves.
 

@@ -6,16 +6,17 @@ date: 2016-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Aswan Dam", "Gamal Abdel Nasser", "Arab Socialism", "Nile River", "Economic History"]
 excerpt: "The Aswan Dam and Arab socialism defined Nasser's domestic project, delivering power and land reform at a heavy price in Nubia, ecology, and efficiency."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-03-01
+lang: en
 ---
 In the summer of 1960, at a bend of the Nile a few miles south of the old city of Aswan, bulldozers and dredges went to work on the largest construction undertaking in [Egypt's modern history](/2015/11/01/modern-egypt-since-1952/). The Aswan Dam was to be a wall of compacted rock and earth thrown across the river, more than a hundred meters high and nearly four kilometers from bank to bank, with an impermeable clay core at its heart and a lake behind it so vast it would reach deep into the Sudan. The embankment would be built not of concrete but of dumped rock and gravel, compacted in layers around its clay heart, a design chosen for speed and for the abundance of local stone. Its purpose was stark and total: to end the annual flood that had governed Egyptian life for some seven thousand years, to generate electricity on a scale the country had never known, and to push farmland out past the narrow ribbon of the valley. For [Gamal Abdel Nasser](/2016/01/01/gamal-abdel-nasser-of-egypt/), the army officer who had come to power with the 1952 revolution and taken the presidency in 1956, the dam was the signature project of his rule, the single work by which he meant his revolution to be judged. No other project of his reign would consume so much money, so much labor, or so much political capital.
 
 The scale of the labor matched the scale of the claim. At the peak of construction, tens of thousands of Egyptian workers, many of them peasants recruited from the villages of Upper Egypt, labored alongside thousands of Soviet engineers and technicians in the fierce heat of the southern desert, pouring rockfill by the millions of cubic meters and driving the diversion tunnels that would turn the Nile aside from its ancient bed. The work went on around the clock in three shifts, lit at night by floodlights visible for miles, and the toll in dead and injured, which Egyptian accounts put in the hundreds, testified to the human cost of speed. In 1964 the river was duly sent through its new channel behind cofferdams, and the embankment began to rise in earnest across the old course. State newspapers took to calling the rising wall a fourth pyramid for the twentieth century, and the comparison was not idle flattery: like the pyramids, the dam was meant to declare that Egypt could still do great things, and that the men who ruled it spoke for the whole nation's future.
 
-![The Aswan High Dam and the landscape of Nasser's Egypt - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Aswan High Dam and the landscape of Nasser's Egypt - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The promise was not only concrete and water. By the early 1960s Nasser's Egypt had committed itself to Arab socialism: land reform that broke the great estates, nationalization that put banks and factories under state control, and a public sector meant to industrialize a poor country by command. The dam was the physical anchor of that program. Stored water would let farmers plant two crops a year instead of one, and in favored districts three; cheap hydroelectric power would feed the steel mill rising at Helwan and the aluminum works planned for Upper Egypt; new desert lands, fed by canals from the reservoir, would give a crowded peasantry room to grow. Where the old Egypt had waited on the river's moods, the new Egypt would command the river, and through it, its own destiny. Nasser spoke of the dam in his speeches as the difference between an Egypt that begged the river and an Egypt that ruled it, and the phrase found its way onto posters, postage stamps, and schoolbooks.
 

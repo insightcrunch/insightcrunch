@@ -6,15 +6,15 @@ date: 2016-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Suez Crisis", "Gamal Abdel Nasser", "British Empire", "Cold War", "Egyptian Nationalism"]
 excerpt: "Nasser nationalized the Suez Canal, sparking the Suez Crisis as Britain, France, and Israel invaded. This is how Egypt lost the battle but won the crisis."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-02-01
+lang: en
 ---
-
 On the night of July 26, 1956, in Manshiya Square in Alexandria, Gamal Abdel Nasser stood before a crowd estimated at between 200,000 and 250,000 Egyptians and pronounced a sentence that detonated the Suez Crisis. As his voice rose, he read from a decree that seized the Universal Suez Canal Company and placed its assets, its payroll, and its revenues under Egyptian ownership. The crowd heard him roll out the code word "de Lesseps," the name of the French builder of the waterway, repeated to signal the seizure teams waiting at company offices, and they answered with a roar that rolled off the Mediterranean and into history. Ships in Port Said still flew foreign flags that night, but the channel they sailed belonged, from that hour forward, to Egypt.
 
-![British ships gathering off the Egyptian coast before the 1956 invasion of the Suez Canal zone - Insight Crunch](/assets/images/blog/blog-01.webp)
+![British ships gathering off the Egyptian coast before the 1956 invasion of the Suez Canal zone - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 What happened next belongs to one of history's strangest paradoxes, the won by losing thesis that gives this story its shape. Egypt would lose the battle that followed. British and French paratroopers and warships would smash Egyptian forces, occupy Port Said, and bomb airfields from Cairo to the Delta. Yet Egypt would win the crisis itself. Superpower pressure, American fury and Soviet menace acting in rare alignment, would turn a successful invasion into a humiliating retreat for the attackers and the end of European empire as a going concern. The confrontation that began in Alexandria that night became Nasser's greatest victory, and it did not have to be fought that way.
 

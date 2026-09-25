@@ -6,14 +6,15 @@ date: 2015-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Free Officers", "Gamal Abdel Nasser", "Muhammad Naguib", "King Farouk", "Arab Nationalism"]
 excerpt: "How a secret army movement toppled Egypt's king in one night: the Free Officers' revolution, from the coup plan and Farouk's fall to the republic's birth."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-12-01
+lang: en
 ---
 On 23 July 1952, a secret movement of junior army officers seized Cairo before dawn and toppled a king by nightfall. The revolution they set in motion began as a bloodless military coup, yet it abolished the monarchy, broke the great landed estates, and ended the British-backed order, cutting deep enough into Egyptian life to earn the harder name.
 
-![Egyptian soldiers and crowds in Cairo during the 1952 Revolution, the night the Free Officers seized power - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egyptian soldiers and crowds in Cairo during the 1952 Revolution, the night the Free Officers seized power - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 ## Egypt at the End of an Era
 

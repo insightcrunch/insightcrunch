@@ -6,17 +6,17 @@ date: 2015-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "King Farouk", "World War II", "El Alamein", "British Occupation", "Middle East History"]
 excerpt: "King Farouk led Egypt through World War II, from El Alamein to the Abdeen Palace humiliation. Here is how the war exposed his monarchy and doomed his throne."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-09-01
+lang: en
 ---
-
 ## The War Arrives at the Western Wire
 
 The war reached Egypt before Egypt had chosen it. On June 10, 1940, as news of Mussolini's declaration of war spread across Cairo, the young King Farouk faced a dilemma that would define his reign: Egypt was bound to Britain by treaty yet officially at peace, while an enemy army stood massed a few hundred yards across the frontier wire at Sollum. Within two years that ambiguity would collapse in the most public humiliation imaginable, when British tanks ringed Abdeen Palace and forced the king's hand at gunpoint. The historian P. J. Vatikiotis and others have treated that February night in 1942 as the moment the monarchy died in the eyes of its own people, and it is the claim at the heart of this account: the war that Britain said would safeguard Egypt instead exposed its king as a puppet of London, and from that exposure the throne never recovered.
 
-![British tanks in the Egyptian desert during World War II, the war that humiliated King Farouk - Insight Crunch](/assets/images/blog/blog-01.webp)
+![British tanks in the Egyptian desert during World War II, the war that humiliated King Farouk - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 To understand why Egypt mattered enough to be fought over, and occupied, and humiliated, one must begin with geography rather than sentiment. Egypt sat astride the shortest sea route between Britain and India, the artery of an empire that still spanned the globe in 1939. The Suez Canal carried the oil of Persia and Iraq, the troops of Australia and New Zealand, the cotton and wheat on which British factories and tables depended. Whoever held the canal held the hinge between the Mediterranean and the Indian Ocean, and [the canal's strategic stakes](/2015/08/01/suez-canal-british-power-egypt/) explain why London treated Egypt as a fortress long after granting it a measure of independence. Alexandria sheltered the Mediterranean Fleet. The Canal Zone bristled with garrisons at Ismailia, Suez, and Port Said. RAF squadrons flew from Heliopolis and Almaza. In British war planning, Egypt was not a sideshow but the cork in the bottle: lose Egypt and the Mediterranean became an Axis lake, the Middle East's oil fields lay open, and the road to India ran through hostile ports.
 

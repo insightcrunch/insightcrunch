@@ -6,17 +6,17 @@ date: 2015-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Egyptian Revolution", "Saad Zaghloul", "British Occupation", "Egyptian Nationalism", "Middle East History"]
 excerpt: "Zaghloul's exile ignited a revolution of peasants, workers, Copts, Muslims, and women against the occupation, forcing Britain to concede nominal independence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-05-01
+lang: en
 ---
-
 ## Cairo, March 1919
 
 On the morning of 9 March 1919, the tramcars of Cairo stood silent in their depots, and the revolution began. Students from al-Azhar poured out of the old mosque's gates in long dark lines, their white turbans and black cloaks moving through streets where shop shutters had already been pulled down. Women who had never before appeared unveiled in public walks to demand a hearing appeared that day in carriages, lifting the curtains of their carriages aside so that the crowds could see them. Railway porters, clerks, lawyers in tarboushes, fellahin who had walked in from the villages of the Delta, Coptic priests beside Muslim sheikhs: all of them were shouting the same words, and the words were not for wages or for bread. The revolution had begun, and it belonged to everyone.
 
-![Egyptians demonstrating in Cairo during the 1919 Revolution, the nationwide uprising against the British occupation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egyptians demonstrating in Cairo during the 1919 Revolution, the nationwide uprising against the British occupation - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 What made this uprising different from everything Egypt had seen before it, different from the Urabi revolt of 1882 and the Dinshaway outrage of 1906, was its wholeness. Earlier movements had been movements of the army, or of the countryside, or of a single class pressed beyond endurance. In 1919, for the first time, the protest was genuinely national: rich and poor, Muslim and Copt, men and women, the cities and the villages, all moving together against the British occupation. That unity was not an ornament of the revolution. It was the revolution's engine, and it explains both why the British were caught so completely off guard and why, after the guns fell silent, the old order could never be put back together.
 

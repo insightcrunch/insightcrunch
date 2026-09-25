@@ -6,16 +6,17 @@ date: 2015-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Modern Egypt", "Nasser", "Sadat", "Mubarak", "Arab Republic"]
 excerpt: "Modern Egypt was born with the republic and shaped by Nasser, Sadat, and Mubarak. This hub maps the republican era and its dialogue with the ancient past."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-11-01
+lang: en
 ---
 ## A Kingdom on Borrowed Time
 
 In the middle of the twentieth century, the land along the Nile was a kingdom only in name and a republic only in waiting, on the edge of the transformation that would create modern Egypt. Cairo in 1946 was the most cosmopolitan capital in Africa and the Middle East, a city of grand boulevards laid out in the nineteenth century, of coffeehouses where effendis debated politics deep into the night, of a foreign colony large enough that much of the city's commerce ran in French, Greek, Italian, and English as well as Arabic. Yet the kingdom of Egypt was sovereign in the most qualified sense. British soldiers still walked the streets. British officials still advised, and sometimes dictated to, ministers. The British Army still held the great base complex around the Suez Canal, and British warships still exercised a standing claim to intervene in the country's affairs whenever London judged its interests threatened. Independence had been declared in 1922, a constitution written, parliaments elected, and still the reality felt provisional, as though the country were living on borrowed time.
 
-![Modern Cairo with the pyramids of Giza on the horizon, the republic in the shadow of the pharaohs - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Modern Cairo with the pyramids of Giza on the horizon, the republic in the shadow of the pharaohs - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The man at the center of this arrangement, [King Farouk I](/2015/09/01/egypt-king-farouk-world-war-two/), had come to the throne in 1936 as a boy of sixteen amid genuine popular affection. By the end of the Second World War that affection had curdled. The war years discredited him in the eyes of much of the political class and the officer corps. In February 1942, in the episode known as the Abdeen Palace incident, the British ambassador surrounded the palace with armored cars and presented Farouk with an ultimatum: appoint the Wafd leader Mustafa al-Nahhas as prime minister or abdicate. The king yielded. For nationalists the lesson was searing. Their monarch, the symbol of independence, had been humiliated by the occupying power and had complied. Whatever constitutional legitimacy the throne retained, its moral authority bled away that night.
 

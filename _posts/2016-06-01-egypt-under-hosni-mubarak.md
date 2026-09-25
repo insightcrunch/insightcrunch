@@ -6,17 +6,17 @@ date: 2016-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Hosni Mubarak", "Modern Egypt", "Middle East Politics", "Egyptian Society", "Arab History"]
 excerpt: "Mubarak gave Egypt three decades of stability that hardened into repression and cronyism. Explore daily life, power, and the grievances that ended his rule."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-06-01
+lang: en
 ---
-
 When Hosni Mubarak stepped down on February 11, 2011, eighteen days of street protests had ended a presidency that had lasted nearly thirty years. Egyptians who had never known another president watched the announcement on state television, and foreign governments that had treated Cairo as a fixed point in a volatile region scrambled to adjust. The scenes in Tahrir Square were the visible end of a longer story. Mubarak had delivered decades of steadiness to a country exhausted by war, revolution, and sudden rupture, and that steadiness slowly hardened into stagnation, repression, and corruption. The very calm that defined his rule bred the anger that ended it.
 
 To understand how Egypt arrived at that February day, it helps to begin with the man who came to power by an accident of violence. Mubarak was not a charismatic founder like Nasser, nor a flamboyant gambler like Sadat. He was a career air force officer, methodical and risk averse, whose virtues in uniform, discipline, caution, and loyalty to the chain of command, became both the strengths and the limits of his presidency. For a country worn out by drama, his plainness first looked like a promise. Abroad, diplomats and journalists learned to describe Egypt as the stable center of an unstable region, a phrase repeated so often it became a reflex. The description was not wrong in the narrow sense: the government paid its debts, kept its treaty, and contained its crises. It was wrong in the deeper sense that mattered. Over time the plainness became something else: an administration that treated every problem as something to be managed and contained rather than solved, until the problems accumulated into a crisis that management could not contain.
 
-![Crowded Cairo street under Hosni Mubarak - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Crowded Cairo street under Hosni Mubarak - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 What follows is the first half of that record: the officer, the unexpected succession, and the first decade of consolidation, the years in which the habits of the long rule were formed. They are worth examining closely, because the Mubarak era did not begin with the sclerosis of its final years. It began with a plausible bargain: an unglamorous president, a recovered peninsula, a war debt forgiven, an insurgency defeated. The bargain held for a long time. Understanding why it eventually failed starts with understanding why it first worked.
 

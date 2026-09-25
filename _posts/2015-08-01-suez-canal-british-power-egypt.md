@@ -6,19 +6,19 @@ date: 2015-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Suez Canal", "British Empire", "British Occupation", "Imperial Strategy", "Modern Egypt"]
 excerpt: "Britain occupied Egypt for the Suez Canal, the imperial lifeline to India. This account traces the shares, the company, the garrison, and the strategic prize."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-08-01
+lang: en
 ---
-
 ## The Throat of an Empire
 
 Every great empire has a throat, a narrow passage through which its power must flow or choke. For Britain in the late nineteenth century, that passage was a ditch of water one hundred and one miles long cut through Egyptian sand. The Suez Canal was the shortest route to India, and India was the crown of the British Empire, the source of its wealth, its armies, and its claim to global mastery. Whoever controlled the canal controlled the movement of troops, mail, and trade between London and the jewel of the empire. In the autumn of 1882, British soldiers occupied Egypt. The occupation lasted more than seventy years. The canal was the reason.
 
 This article argues a single thesis: the Suez Canal was the prize, and Egypt was the frame around it. Britain occupied Egypt chiefly to control the Suez Canal. Cotton mattered. Debt mattered. Prestige mattered. But when British policymakers weighed Egypt, they weighed the canal first and everything else second. The story of British power in Egypt is the story of a waterway, the shares that gave Britain a stake in it, the company that ran it, and the garrison that guarded it. Remove the canal, and the occupation is almost unthinkable. Keep the canal, and the occupation becomes almost inevitable.
 
-![British warships and troop transports passing through the Suez Canal, the imperial waterway to India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![British warships and troop transports passing through the Suez Canal, the imperial waterway to India - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The argument is not that Britain said this openly at every moment. Empires speak in the language of duty, of civilization, of bondholders and reforms. But the pattern of British decisions, from the purchase of the khedival shares in 1875 to the refusal to evacuate the Canal Zone long after Egypt was declared independent, tells a consistent story. The canal was the fixed point around which British policy in Egypt turned for eight decades.
 

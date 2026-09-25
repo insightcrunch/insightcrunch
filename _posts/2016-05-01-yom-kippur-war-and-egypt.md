@@ -6,17 +6,17 @@ date: 2016-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Yom Kippur War", "October War", "Suez Canal", "Arab-Israeli Wars", "Middle East History"]
 excerpt: "The Yom Kippur War restored Egyptian pride after a crushing defeat, as the surprise Suez crossing shattered six years of stalemate and opened the road to peace."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-05-01
+lang: en
 ---
-
 At about 2:05 on the afternoon of 6 October 1973, while Israel stood almost silent on Yom Kippur, the holiest day of the Jewish calendar, the east bank of the Suez Canal erupted. More than two thousand Egyptian guns opened a barrage of a weight no Arab army had ever delivered, and shells fell along the whole length of the Bar-Lev Line, the chain of Israeli strongpoints dug into the sand on the far shore. The first Egyptian infantrymen were already in their rubber boats, paddling across the canal under the falling shells toward fortifications Israel had held unchallenged for six years. What followed across the next three weeks would cost both nations thousands of lives, and it would end with armies still facing each other on both banks of the canal, neither capital able to claim the total victory its newspapers promised. Yet the war mattered less for that inconclusive battlefield result than for what it repaired in Egypt after the disaster of 1967. The crossing itself was the message: Egypt could plan in secret, Egypt could strike with discipline, and Egypt would no longer accept the terms of its own humiliation. The true victory of October 1973 was psychological and diplomatic, won not in the tally of captured ground but in the recovery of Egyptian and Arab pride and the forced reopening of negotiations that had been frozen for years.
 
 The surprise was nearly total. Israeli intelligence had watched Egyptian exercises on the canal for months and judged them drills, and most of Israel's standing army was on leave for the fast. Within hours, Egyptian engineers were turning high pressure water cannon on the great sand ramparts the Israelis had raised along the east bank, melting walls of packed sand into the canal while infantry secured footholds on the far side. The operation, code named Badr for the Prophet Muhammad's first military victory, committed five Egyptian infantry divisions to the initial assault. In synagogues and homes across Israel, reservists abandoned the fast and reported to their units as the sirens sounded, many reaching the front only to find Egyptian infantry already dug in on the east bank. From the Egyptian point of view, this was the reversal of everything 1967 had taught the Arab world to expect. From the Israeli point of view, it was a shock that would shake the government, the military establishment, and national self confidence for a generation. To understand why Anwar Sadat ordered his armies across that water, and why he believed a war he could not fully win was worth fighting at all, one has to go back to the defeat that made the crossing necessary.
 
-![Egyptian troops crossing the Suez Canal during the October War - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Egyptian troops crossing the Suez Canal during the October War - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 ## Six Years of Humiliation: What 1967 Took from Egypt
 

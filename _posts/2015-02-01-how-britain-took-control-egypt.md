@@ -6,17 +6,17 @@ date: 2015-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "British Empire", "Suez Canal", "Imperialism", "19th Century", "Military History"]
 excerpt: "Britain shelled Alexandria promising a short stay, then remained for seventy years. This is how debt, revolt, and invasion put Egypt into British hands."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-02-01
+lang: en
 ---
-
 ## The Invasion Britain Said It Never Wanted
 
 At first light on 11 July 1882, the British Mediterranean fleet lay in battle order off Alexandria, and Admiral Sir Beauchamp Seymour's flagship gave the signal to open fire. All through the morning and into the afternoon, British ironclads pounded the harbour forts at close range while Egyptian gunners served their pieces as long as they could stand to them. By evening the forts were silent, parts of the city were burning, and a foreign squadron had imposed its will on one of Egypt's great ports. The bombardment had followed a British ultimatum delivered the day before, demanding that the Egyptians stop strengthening the fortifications and hand over the forts guarding the harbour entrance. British officials claimed the work on the guns continued past the deadline and that the fleet could not safely remain anchored under their muzzles. Egyptian officers maintained that they were doing no more than any sovereign state might do, improving the defenses of its own coastline on its own soil.
 
-![British warships bombarding Alexandria in 1882, the opening blow of the takeover - Insight Crunch](/assets/images/blog/blog-01.webp)
+![British warships bombarding Alexandria in 1882, the opening blow of the takeover - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 What came next was supposed to be temporary. The British government announced that its forces had landed only to restore order and would withdraw as soon as the Khedive's authority stood on its own feet, and over the following decades it repeated that promise in new forms while the troops stayed where they were. That is the thread that runs through the whole story and the claim this article makes: Britain occupied Egypt insisting it would leave soon, and stayed for more than seventy years. The occupation's defining feature was a promise it never kept. The complication deserves honesty as well. This was not a conquest planned for decades by ministers who always meant to keep Egypt. The government in London that ordered the guns to fire did not want an empire on the Nile. A temporary pretext, seized in a crisis, hardened into a permanent stay, and the hardening happened gradually enough that no single decision ever quite felt like the moment Egypt was lost.
 
