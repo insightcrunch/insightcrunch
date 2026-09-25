@@ -6,15 +6,15 @@ date: 2014-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Modern Egypt", "Ottoman Egypt", "World History", "Historiography"]
 excerpt: "How an Albanian Ottoman officer seized Egypt, built a modern army, economy and state from nothing, and founded a dynasty that ruled for a century and a half."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 77
-author: "amanda-ross"
+author: "Insight Crunch Team"
 last_updated: 2014-03-01
-lang: en
 ---
+
 In 1801 a man in his early thirties landed at Aboukir as second in command of an Albanian contingent in an Ottoman expeditionary force sent to expel the French from Egypt. He had been a tobacco merchant in a Macedonian port town, he spoke Turkish and Albanian and no Arabic, he had no family connection to Egypt, no Ottoman court patronage, and by most accounts he could not yet read. Within four years he governed the province. Within ten he had exterminated the elite that had run it for five centuries. Within thirty his conscript army had taken Syria, destroyed an Ottoman field army in Anatolia, and come close enough to Istanbul that the great powers of Europe intervened to save the sultan from his own governor.
 
-![Muhammad Ali and the birth of modern Egypt, the founding of the dynasty - Insight Crunch](/assets/images/blog/blog-49.webp)
+![Muhammad Ali and the birth of modern Egypt, the founding of the dynasty - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 The dynasty he founded ruled Egypt for a hundred and forty seven years, until a group of army officers deposed his descendant in 1952. The state he built, its conscript army, its central treasury, its export agriculture, its technical schools, its printing press, and its translation bureau, is the institutional foundation on which every subsequent Egyptian regime has stood, whatever it called itself.
 

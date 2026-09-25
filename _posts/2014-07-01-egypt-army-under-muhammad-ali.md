@@ -6,17 +6,17 @@ date: 2014-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Modern Egypt", "Warfare", "Ottoman Empire", "Biography", "World History"]
 excerpt: "How Muhammad Ali turned Egyptian peasants into a European-style army that took Sudan, Arabia, and Syria, and why the European powers cut it back down."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 72
-author: "amanda-ross"
+author: "Insight Crunch Team"
 last_updated: 2014-07-01
-lang: en
 ---
+
 How did an Ottoman provincial governor build the strongest military machine in the Middle East out of peasant farmers? Muhammad Ali's army is the answer, and it is one of the most remarkable military creations of the nineteenth century. Between 1822 and 1840 the ruler of Egypt conscripted tens of thousands of fellahin, drilled them in European tactics under French officers, armed them with cannon cast in Egyptian foundries, and launched them on campaigns that conquered Sudan, Arabia, and Syria and twice shattered the armies of the Ottoman sultan himself. Then, at the peak of his power, the great European navies intervened, and the force that had humbled an empire was cut down to 18,000 men.
 
 This article explains how Egypt fought under Muhammad Ali, what decided its battles, and why the army that made him great was also the reason Europe united to stop him. It traces the failure of the old mercenary system, the coercive machinery of peasant conscription, the French training that turned farmers into soldiers, the arsenals and the fleet at Alexandria, the campaigns in sequence, and the 1840 settlement that amputated the force in exchange for a hereditary dynasty. Readers coming from the broader story of [Muhammad Ali and the birth of modern Egypt](/2014/03/01/muhammad-ali-and-modern-egypt/) will find here the military engine behind that transformation, examined with the evidence stated plainly and the legends corrected.
 
-![Muhammad Ali's army of peasant conscripts explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Muhammad Ali's army of peasant conscripts explained - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 ## Why the Old Army Had to Die: Mercenaries, Mutiny, and the Lesson of 1815
 

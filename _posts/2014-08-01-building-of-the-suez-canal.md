@@ -6,17 +6,17 @@ date: 2014-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Suez Canal", "Modern Egypt", "Ismail Pasha", "Ferdinand de Lesseps", "World History", "Historiography"]
 excerpt: "How the Suez Canal was dug across the Egyptian desert at a grim human cost in forced labour, who built it, and why it rewired the trade of the whole world."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 73
-author: "amanda-ross"
+author: "Insight Crunch Team"
 last_updated: 2014-08-01
-lang: en
 ---
+
 The Suez Canal is the hinge on which modern globalization first turned. Before 1869, every ship sailing between Europe and Asia had to round the Cape of Good Hope, a detour that added thousands of miles and weeks of exposure to storms, disease, and delay. The canal compressed that voyage into roughly a hundred miles of dredged water across the Egyptian desert, a channel later widened and extended to about a hundred and twenty, and it arrived at the precise moment when steamships, submarine telegraph cables, and industrial empires were binding the continents into a single market for the first time. For Britain, the power with the most at stake, the canal shrank the distance to India from a season to a schedule: troops, mail, cotton, and capital could move between London and Bombay in a fraction of the old time. Ports from Port Said to Aden to Singapore felt the shift within a decade, and the Mediterranean, a quiet backwater since the age of sail, became a highway of empire again. Control of a narrow ditch in the desert thus became one of the great strategic prizes of the nineteenth century, and the struggle over it would shape diplomacy, war, and decolonization for more than a hundred years.
 
 The canal was also dug by hand. For the first years of construction, tens of thousands of Egyptian fellahin were pressed into the work by corvée, the system of forced labor that Egypt's viceroys could still command, and they moved the earth of the isthmus with baskets, picks, and shovels under the desert sun. Disease, bad water, and exhaustion stalked the labor camps, and the number of workers who died remains one of the canal's unresolved questions: estimates run from the tens of thousands upward, and no reliable register of the dead survives to fix the count. When the canal opened on 17 November 1869, the celebration was staged for emperors, financiers, and engineers, not for the men who had dug it. That imbalance is the thesis of this article. The Suez Canal was a triumph of surveying, finance, and organization that rewired world trade, and it was built by coerced labor at a grim human cost, and neither claim can be understood without the other. The shortcut and the suffering are inseparable; to tell the story of the one is to tell the story of the other.
 
-![The building of the Suez Canal, 1859 to 1869, explained - Insight Crunch](/assets/images/blog/blog-87.webp)
+![The building of the Suez Canal, 1859 to 1869, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 ## Egypt Before the Canal: The Isthmus, the Pharaohs, and the Dream
 

@@ -6,17 +6,17 @@ date: 2014-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ismail Pasha", "Modern Egypt", "Biography", "World History"]
 excerpt: "How Khedive Ismail rebuilt Cairo, opened the canal, and borrowed on terms that handed Egyptian revenue to European creditors and ended in his deposition."
-image: "/assets/images/blog/blog-109.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 79
-author: "rachel-foster"
+author: "Insight Crunch Team"
 last_updated: 2014-09-01
-lang: en
 ---
+
 ## Ismail Pasha: The Khedive Who Bankrupted Egypt
 
 The reign of Ismail Pasha, who ruled Egypt from 1863 to 1879, poses one of the sharpest questions in modern Middle Eastern history: how did a ruler who set out to make his country European end up mortgaging it to European banks and forfeiting its independence? When Ismail took power, Egypt looked like the most dynamic state in the Ottoman world. His grandfather Muhammad Ali had built a modern army, factories, schools, and irrigation works that made Egypt the most formidable regional power of the early nineteenth century. Ismail inherited that machinery of state and a swelling revenue from a cotton boom, and he spent both with a ambition that seemed, at first, entirely in keeping with the family tradition. He enlarged the bureaucracy, built railways, roads, and telegraph lines, extended irrigation across the Delta, financed the French-led excavation of the Suez Canal, opened schools, founded an opera house, rebuilt Cairo in a European idiom, and pursued wars of conquest deep into Sudan and the Horn of Africa. Within fifteen years he had turned a prosperous, semi-autonomous province into one of the largest sovereign debtors on earth, and within six years of his fall European powers controlled Egypt's finances outright. The verdict that modern scholarship has reached is blunt. Ismail modernized Egypt into bankruptcy. His drive to transform the country on a European model required sums that no domestic revenue could supply, so he borrowed abroad on ruinous terms, and the resulting debt gave Britain and France the pretext and the machinery to strip Egypt of its independence. The British occupation of 1882, which inaugurated more than half a century of foreign control, was the direct consequence of the fiscal trap his reign created.
 
-![Ismail Pasha and Egypt's road to debt, explained - Insight Crunch](/assets/images/blog/blog-109.webp)
+![Ismail Pasha and Egypt's road to debt, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 That judgment is the dominant one, but it is not the only one, and a serious account has to reckon with its limits. Ismail was not simply a spendthrift who squandered a fortune on palaces and operas, although he spent lavishly on both. He was a modernizer who believed, correctly by the standards of his age, that Egypt's survival depended on closing the gap between it and Europe. Every program he funded had a rationale grounded in the experience of the nineteenth century. Railways and irrigation were the infrastructure of agricultural export; schools and academies were the foundation of a modern administration; the conquest of Sudan was the pursuit of the Nile's full course and the Red Sea ports that would make Egypt a maritime power. His timing, however, was catastrophic. He launched this vast program just as the American Civil War cotton boom collapsed, as European interest rates climbed, and as the credit available to semi-colonial rulers came bundled with terms that shifted the risk entirely onto the borrower. The debt trap was real, and it was structural. European banks lent at discounts that meant Egypt received a fraction of what it nominally owed, short-term loans were rolled over at compounding cost, and every failed harvest or military campaign pushed the state further into the creditors' hands. Ismail's guilt is not that he borrowed, since some borrowing was probably unavoidable, but that he borrowed too much, on too unfavorable terms, for too many projects at once, and without the institutional discipline to husband what remained. The honest reading is that he was both a genuine modernizer and a reckless financier, and that the second failing destroyed the first. His legacy is the physical infrastructure and institutions that endured, and the loss of sovereignty that accompanied them.
 

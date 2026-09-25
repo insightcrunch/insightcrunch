@@ -6,17 +6,17 @@ date: 2014-12-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Ottoman Egypt", "Egyptian Modernization", "Middle East History"]
 excerpt: "Muhammad Ali built modern Egypt by conscription and monopoly; the peasants paid the price. This weighs the reformer and tyrant cases and defends a hard verdict."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
-author: "diana-patel"
+author: "Insight Crunch Team"
 last_updated: 2014-12-01
-lang: en
 ---
+
 ## The Reformer and the Tyrant: Why Muhammad Ali Divides Historians
 
 Say the name Muhammad Ali and most people picture the boxer. Historians of the Middle East picture someone else entirely: an Albanian Ottoman officer who landed in Egypt in 1801 with the expeditionary force sent to expel the French, and who by 1805 had clawed his way to the governorship of the province, a position he would hold until 1848, dying in 1849 after transforming the country beyond recognition. The question of what to make of him has never been settled. Was he the founder of modern Egypt, the visionary who dragged a decaying Ottoman province into the nineteenth century, or was he a ruthless adventurer who rebuilt the state on the conscripted bodies of Egyptian peasants? The dispute is one of the sharpest in the historiography of the modern Middle East, and it remains instructive precisely because both sides can point to genuine evidence.
 
-![Muhammad Ali, the Ottoman governor who remade Egypt, at the center of the reformer-or-tyrant debate - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Muhammad Ali, the Ottoman governor who remade Egypt, at the center of the reformer-or-tyrant debate - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 On one side stands the celebratory school, which has cast Muhammad Ali as a heroic modernizer. Henry Dodwell's 1931 biography, "The Founder of Modern Egypt: A Study of Muhammad Ali," gave this interpretation its classic English-language form, presenting the Pasha as a statesman of rare ambition whose achievements ranked with those of the great nation builders of Europe. Afaf Lutfi al-Sayyid Marsot carried the argument forward in "Egypt in the Reign of Muhammad Ali" (1984), contending that his reign laid the institutional foundations of the modern Egyptian state: the centralized administration, the standing army, the schools, the factories, the land survey, the beginnings of an educational mission to Europe that would produce Egypt's first modern intellectuals. In this telling, Muhammad Ali rescued Egypt from the chaos left by the French occupation and the Mamluk beys, imposed order, and set the country on the path that would eventually lead to sovereignty. His failures, the celebratory historians concede, were failures of timing and circumstance: a second-class start in a poor country, the hostility of the Ottoman sultan, and finally the intervention of the European powers, which crushed his army in Syria and forced him back within Egypt's borders by the treaties of 1840 and 1841.
 
