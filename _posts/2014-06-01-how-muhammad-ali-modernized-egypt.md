@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Muhammad Ali Modernized Egypt: State as Entrepreneur"
-page_title: "How Muhammad Ali Modernized Egypt: Monopolies, Cotton, Factories, and Schools"
+page_title: "How Muhammad Ali Modernized Egypt: The Abolition of Tax Farming, the State Monopoly on Crops and Trade, Long-Staple Cotton, the Factories, the Irrigation Programme, and the Schools and Student Missions to Europe"
 date: 2014-06-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Modern Egypt", "Economy", "Ottoman Egypt", "World History"]
@@ -810,3 +810,11 @@ The programme cut new summer canals and deepened existing ones across the Delta,
 ### Q: What was the medical school at Qasr al-Aini?
 
 The centre of the medical programme, founded at Abu Zaabal in the later 1820s under the direction of a French physician who took the name Clot Bey and moved to Qasr al-Aini in Cairo in the following decade. It taught anatomy, surgery, and clinical practice through interpreters to students drawn substantially from al-Azhar, and resistance to dissection had to be negotiated rather than overridden. Its origin was military, since an army of a hundred thousand conscripts needed surgeons and epidemic disease in the camps was killing more men than any enemy, and its effects went well beyond that. A school for midwives followed, training women to practise where male physicians could not attend, and a vaccination programme and port quarantine arrangements grew out of the same effort.
+
+### Q: How did the reforms affect the peasantry?
+
+Heavily and in four ways at once. Conscription took the men, for terms effectively indefinite and with severe mortality on campaign and from disease. Corvée took the labour, unpaid, for weeks or months on the canals and public works. The monopoly took the crop, since the cultivator lost the decision about what to plant and received an administered price with deductions for seed advanced and arrears. And direct assessment took the rest, more effectively than tax farming had. A household could lose its men to the recruiters, its labour to the works, and its harvest to the collection point in the same year. Flight, concealment, and self-mutilation were widespread enough that the administration treated them as routine problems.
+
+### Q: Were the reforms copied from Europe?
+
+The techniques were, the economic model was not. European instructors trained the army, European physicians built the medical school, European engineers designed the works, European machinery filled the factories, and European textbooks were translated to teach all of it. But Britain and France in those decades were moving toward commercial liberalization and private enterprise, while Muhammad Ali built a state monopoly, and the British spent two decades objecting to it before abolishing it by treaty. The model owed more to Ottoman state practice, where provisioning monopolies and state arsenals were familiar instruments, and to improvisation, since a ruler with an army to fund and no banking system has limited options. The accurate description is selective acquisition rather than westernization.

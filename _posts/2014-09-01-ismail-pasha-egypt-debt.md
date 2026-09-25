@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ismail Pasha: How Egypt Was Modernized into Bankruptcy"
-page_title: "Ismail Pasha and Egypt's Debt Crisis: Modernization That Ended in Bankruptcy, 1863-1879"
+page_title: "Ismail Pasha: How Egypt's Khedive Modernized the Country into Bankruptcy, 1863-1879"
 date: 2014-09-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ismail Pasha", "Modern Egypt", "Biography", "World History"]
@@ -321,3 +321,11 @@ Because it moved him out of the ordinary category of Ottoman provincial governor
 ### Q: What was the Ethiopian war of his reign?
 
 A short and disastrous attempt to extend Egyptian power into the Ethiopian highlands in the mid 1870s, at exactly the moment the treasury could least afford it. Egyptian columns invaded in late 1875 and were destroyed at Gundet in November of that year, and a much larger force assembled at great expense was beaten at Gura in March 1876. The defeats cost money, munitions, and prestige, and they came in the same months as the sale of the canal shares and the imposition of the Debt Commission. The war matters to the debt story because it disproves the idea that Ismail was merely a builder: he was also pursuing an imperial project in the Sudan and beyond it, and the projects competed for the same borrowed money.
+
+### Q: Who replaced Ismail on the throne?
+
+His son Tawfiq, installed in 1879 when the sultan deposed Ismail at European insistence. The succession itself was a demonstration of how far matters had gone, since the ruler of Egypt was removed not by his own subjects or by his nominal sovereign acting alone but by an imperial order procured by the creditor powers. Tawfiq inherited a state whose finances were supervised by foreign controllers and whose debt service took precedence over domestic spending, which left him little room to govern and less to satisfy the Egyptian officers and notables who resented both the debt and the foreigners administering it. The resentment produced the Urabi movement within two years and the British occupation within three.
+
+### Q: What were the Mixed Courts?
+
+Tribunals established in 1875 to hear cases involving foreigners, replacing the patchwork of consular courts through which each European power had judged its own nationals in Egypt. They were a genuine reform and a genuine concession at the same time. Reform, because the consular system had made ordinary commercial litigation almost impossible where parties of different nationalities were involved, and a single jurisdiction applying codified law was a considerable improvement. Concession, because the courts operated with substantial European participation and confirmed that foreigners in Egypt would not simply be subject to Egyptian justice. They are a fair emblem of the whole reign: an institution worth having, adopted for sound reasons, that also deepened the European presence in Egyptian government.

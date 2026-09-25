@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Muhammad Ali and the Birth of Modern Egypt Explained"
-page_title: "Muhammad Ali and Modern Egypt: How an Ottoman Officer Built a State, 1805-1848"
+page_title: "Muhammad Ali and the Birth of Modern Egypt: How an Albanian Ottoman Officer Seized the Province in 1805, Built an Army, an Economy and a Bureaucracy From Nothing, and Founded a Dynasty That Ruled Until 1952"
 date: 2014-03-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Modern Egypt", "Ottoman Egypt", "World History", "Historiography"]
@@ -324,7 +324,7 @@ No. Egypt stayed a tribute-paying Ottoman province and he held a governor's titl
 
 The identity question is not pedantry, because the answer determines how the whole period should be read.
 
-He was born around 1769 in Kavala, a port in Ottoman Macedonia in what is now Greece, into a family of Albanian origin. His first languages were Albanian and Turkish. He did not speak Arabic when he arrived in Egypt and by most accounts never became fluent in it. He learned to read, according to the familiar story, only in middle age. He never travelled to Istanbul and never visited most of the empire he served.
+He was born around 1769 in Kavala, a port in Ottoman Macedonia in what is now Greece, into a family of Albanian origin. His first languages were Albanian and Turkish. He did not speak Arabic when he arrived in Egypt and by most accounts never became fluent in it. He learned to read, according to the familiar story, only in middle age. He visited Istanbul only once, late in life, on a reconciliation journey in 1846, and never saw most of the empire he served.
 
 His family and his court operated in Turkish. The senior administration of the new state was staffed substantially by Turkish-speakers, Ottoman officers, Armenians, Circassians, and Europeans, with Egyptians entering the middle and lower levels through the new schools and only gradually rising. The dynasty he founded continued to use Turkish at court for generations and its members frequently married within Ottoman elite circles.
 
@@ -785,3 +785,11 @@ Because the balance of power in the eastern Mediterranean mattered more to them 
 ### Q: What language did the ruling family speak?
 
 Turkish, and this is more than a curiosity. Muhammad Ali's first languages were Albanian and Turkish, he did not speak Arabic when he arrived in Egypt in 1801, and by most accounts he never became fluent. His court and his senior administration operated in Turkish, staffed by Ottoman officers, Circassians, Armenians, and members of his own household, with Europeans in technical roles. The dynasty continued using Turkish at court for generations and its members frequently married within Ottoman elite circles. Arabic-speaking Egyptians entered the state through the new schools and the conscript army and filled the middle and lower levels while the senior commands stayed closed, which became the grievance behind the Urabi movement of 1881 and 1882 and the slogan Egypt for the Egyptians.
+
+### Q: What period does the Muhammad Ali era cover?
+
+In the narrow sense, his own rule from 1805 to 1848. In the sense this series uses for the cluster, the era runs from his appointment through the reigns of his immediate successors and the Khedivate to the British occupation of 1882, since the whole of that stretch is governed by the state he built, the export economy he created, and the dynasty he founded. That broader period takes in the abolition of tax farming, the conscript army, the technical schools, the cotton transformation, the Suez Canal, Ismail's building and borrowing, the debt crisis, and the Urabi revolt. What follows it, the British occupation and the road to independence, is treated as the next era in the series and has its own pillar article.
+
+### Q: Did Egypt remain part of the Ottoman Empire?
+
+Formally yes, for more than a century after Muhammad Ali took power, and the connection thinned steadily. Egypt paid tribute, its rulers held Ottoman titles and required imperial confirmation, the sultan's name appeared in the Friday prayer and on the coinage, and the 1841 grant of hereditary rule was an imperial decree. Successive rulers pushed at the constraints and obtained concessions, notably the title khedive in 1867 and wider rights in borrowing and treaty-making. British occupation from 1882 made the Ottoman link a legal fiction, since Egypt was administered in practice by a British consul-general while remaining nominally an Ottoman province. The fiction ended in 1914, when Britain declared a protectorate at the outbreak of war with the Ottoman Empire.

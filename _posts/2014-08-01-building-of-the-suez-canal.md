@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Building of the Suez Canal: Shortcut and Human Cost"
-page_title: "Building the Suez Canal, 1859-1869: de Lesseps, Forced Labor, and World Trade"
+page_title: "The Building of the Suez Canal (1859-1869): How de Lesseps Dug It, the Human Cost, and Why It Changed World Trade"
 date: 2014-08-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Suez Canal", "Modern Egypt", "Ismail Pasha", "Ferdinand de Lesseps", "World History", "Historiography"]
@@ -339,3 +339,11 @@ In the mid 1860s, under pressure that came from several directions at once. Brit
 ### Q: Why did Britain oppose the canal?
 
 Because the country with most to gain commercially had most to lose strategically, and Lord Palmerston understood the difference. He argued publicly that the scheme was impracticable and would never pay, and privately that its real purpose was to plant French influence in Egypt, undermine British maritime supremacy, and hand Paris a lever against London in any future war. Britain used its influence at Constantinople to block the sultan's formal approval of the concession, leaving the company operating for years under a cloud of disputed legality. British capital duly subscribed almost nothing, an absence that was political rather than financial. Within six years of the opening, Britain had bought the Egyptian shareholding and within thirteen it had occupied the country.
+
+### Q: What is Port Said?
+
+The city that did not exist before the canal. The northern end of the route met the Mediterranean at an empty stretch of beach, so the company founded a town there in 1859 to serve as the Mediterranean terminus, work camp, and supply port. It grew with the excavation and then with the traffic, becoming a coaling station and a point of entry to the canal for every ship using it, and it remains one of the two gates of the waterway with Suez at the far end. Its founding is a small illustration of the project's character: the canal did not merely cross the isthmus but created the settlements, water supplies, and administrative apparatus that made the crossing possible.
+
+### Q: Was Aida written for the canal opening?
+
+No, and the belief that it was is the most persistent misconception about the ceremonies. Ismail did commission Giuseppe Verdi to write an opera on an Egyptian theme, and the Khedivial Opera House opened in Cairo in 1869 to house exactly that kind of European high culture, but Aida was not finished in time. The house opened with a different work, and Aida had its premiere in Cairo in December 1871, two years after the flotilla passed through the channel. The confusion is understandable, since the commission, the opera house, and the canal festivities were all parts of the same programme of display, and all three were paid for with money Egypt was borrowing.

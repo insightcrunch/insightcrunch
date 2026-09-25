@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Muhammad Ali Seized Power: Backed, Then Purged"
-page_title: "How Muhammad Ali Seized Power in Egypt: 1801-1811, From Vacuum to Citadel Massacre"
+page_title: "How Muhammad Ali Seized Power in Egypt: The Vacuum After the French Withdrawal, the Cairo Uprising That Made Him Governor, the Ottoman Confirmation, and the Citadel Massacre That Destroyed the Mamluk Beys"
 date: 2014-05-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Mamluks", "Modern Egypt", "Ottoman Egypt", "World History"]
@@ -789,3 +789,11 @@ He was exiled in 1809 and never recovered. The issue was the taxation of land he
 ### Q: Were the Mamluks still a threat by then?
 
 Not militarily. By 1810 they could not have taken Cairo and knew it: the field army was gone since 1798, the tax farms confiscated, the capital that had been carried on the persons of men who died at Embabeh lost, the Caucasus recruitment route disrupted by war and Russian expansion, and both dominant leaders dead within months of each other in 1806 and 1807. What made them intolerable was different. They remained a body with legitimacy, cavalry, and territory in Upper Egypt that any foreign power or disaffected faction could rally around, and Muhammad Ali was about to send his army out of the country to Arabia.
+
+### Q: What was the pretext for the Citadel ceremony?
+
+The investiture of his son Tusun as commander of the expedition to Arabia, which the sultan had requested against the Wahhabi movement that had taken the holy cities and disrupted the pilgrimage. An event of that kind required the attendance of the province's notables, which is precisely why it worked as a trap: refusing a ceremonial summons from the governor was itself a declaration of hostility the beys were not strong enough to make. They had also been treated with conspicuous courtesy for months and had reason to believe an accommodation was being negotiated, so attending looked like the visible acceptance of a settlement rather than a risk. The same logic had trapped elites in the Ottoman world before.
+
+### Q: Why did the scholars turn against the governor?
+
+Because his unpaid troops were plundering the city and his solution was to tax the people they were plundering. Khurshid Pasha inherited contingents in arrears and a province whose revenue system had been dismantled, and his attempt to raise money by fresh exactions on the population and the merchants was the immediate trigger. Behind it lay something the French occupation had taught: the religious establishment had served on the French divan, been held responsible for keeping order, and discovered it was the only institution with standing among the population and could therefore withhold the cooperation that made administration possible. A governor the ulama refused to work with could not govern, and in 1805 they refused.

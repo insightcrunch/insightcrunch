@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Egyptian Cotton Transformed Egypt: One Crop, One Fate"
-page_title: "How Cotton Transformed Egypt: Civil War Boom, Cash Crop, Debt, and Dependence"
+page_title: "Egyptian Cotton: How the Cash Crop Transformed Egypt, From the Civil War Boom to Debt and Dependence"
 date: 2014-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Egyptian Cotton", "19th Century Egypt", "Economy", "Society"]
@@ -288,3 +288,11 @@ Profoundly, and in the direction of concentration. Cotton needed capital that th
 ### Q: What happened to prices when the war ended?
 
 They fell, and the fall was as sharp as the rise had been. The artificial scarcity that had made Egyptian cotton worth a fortune depended on the Union blockade of Confederate ports, and when the American South returned to the market after 1865 the premium collapsed. Egypt did not retreat from cotton, because the acreage had been converted, the irrigation built, the debts contracted, and the habits formed. So the country was left growing more of a crop worth considerably less, with a state that had expanded its commitments on boom-year revenue and a peasantry that had borrowed against boom-year expectations. That gap between the income assumed and the income received is the mechanism of the debt crisis that followed.
+
+### Q: Did cotton cause the British occupation?
+
+Not directly, and it built the road that led there. The chain runs through finance rather than agriculture: cotton revenue underwrote the borrowing, the borrowing outran the revenue once prices fell, the creditors imposed the Debt Commission and then the Dual Control, the foreign supervision of Egyptian finances fed the resentment that produced the Urabi movement, and the threat to European interests brought a British fleet and then a British army. Cotton did not pull the trigger in 1882, but it loaded the chambers. A country whose entire export income rested on one commodity whose price was set abroad had no reserve to absorb a shock, and the shock duly came.
+
+### Q: Why is monoculture dangerous for a country?
+
+Because it converts a price movement in a distant market into a national emergency. A diversified economy that loses income in one sector absorbs it elsewhere; an economy where a single crop supplies the export earnings, the tax base, the credit security, and much of the rural employment has nowhere to absorb it. Egypt's position was worse than most, because the price was set on exchanges in Liverpool, the shipping and insurance were foreign, the credit was foreign, and the state had pledged future receipts against loans already spent. The lesson generalizes well beyond the nineteenth century and beyond cotton: a country that ties its fate to one commodity buys prosperity at the price of control over its own circumstances.

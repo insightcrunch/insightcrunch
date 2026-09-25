@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Muhammad Ali Pasha: The Making of a Self-Made Ruler"
-page_title: "Muhammad Ali Pasha Biography: Origins, Character, Rule, and Death in 1849"
+page_title: "Muhammad Ali Pasha of Egypt: His Albanian Family and Kavala Origins, His Arrival With an Ottoman Force, His Character and Working Habits, His Late Literacy, His Death in 1849, and How He Is Remembered"
 date: 2014-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Biography", "Modern Egypt", "Ottoman Egypt", "World History"]
@@ -766,3 +766,11 @@ Close, functional, and not simple, and the record is fullest for Ibrahim. Ibrahi
 ### Q: Was he really called the Napoleon of the East?
 
 The comparison was made constantly in his lifetime and he is reported to have enjoyed it, noting that they shared a birth year. The surface parallels are real: both born around 1769 on the periphery of the polities they came to dominate, both outsiders by birth and language, both rising through military opportunity during institutional collapse, both building states around armies, both checked by European coalitions. The differences matter more. Napoleon was formally educated, wrote voluminously, and left a legal code that outlasted him by two centuries; Muhammad Ali could not read until middle age and left no writing of his own. Napoleon made himself sovereign; Muhammad Ali never repudiated his sultan. The label is a useful hook and poor analysis.
+
+### Q: What did he look like?
+
+Medium height, powerfully built in his prime and heavier in old age, with a full beard that went white and eyes that every observer seems to have found unsettling in their directness. He appears in most audience descriptions with a pipe, which given the tobacco apprenticeship is unsurprising. He sat for European painters in his later years and the resulting portraits, reproduced widely as engravings, fixed the image that has circulated since: an old man in a tarbush and a plain dark robe, seated, watchful rather than dignified. There are no reliable images of him young, and the vigorous commander occasionally reproduced is a later imagining. The Alexandria equestrian statue is a dynastic commission rather than a likeness.
+
+### Q: Did he ever return to his birthplace?
+
+No, and what he did instead says more than a visit would have. During his years of power he endowed a substantial charitable and educational complex in Kavala, funded from Egyptian revenue, comprising a religious school, accommodation, and supporting facilities, which operated long afterward. The endowment deed made Egyptian property responsible for maintaining an institution in a Rumelian port town. The gesture is characteristic of Ottoman elite practice, in which a man who rose from a provincial town endowed it, and it reads as a claim about who he thought he was: not a native ruler of Egypt but a man of Kavala who had done well. The family house survives there as a museum.

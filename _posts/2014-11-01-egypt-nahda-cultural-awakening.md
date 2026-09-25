@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Egypt's Cultural Awakening: The Nahda and the Printed Word"
-page_title: "Egypt's Nahda Explained: Print Culture, Arabic Revival, and the 19th-Century Awakening"
+page_title: "Egypt's Cultural Awakening: the Nahda and the 19th-Century Rebirth of Arabic Print Culture"
 date: 2014-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Nahda", "Arab Renaissance", "Arabic Literature", "Muhammad Abduh", "Rifaa al-Tahtawi"]
@@ -324,3 +324,11 @@ The newspaper that became Egypt's paper of record, founded in Alexandria in 1875
 ### Q: Who was Ali Mubarak?
 
 An Egyptian engineer, administrator, and writer who represents the Nahda's second generation and its practical face. Born in 1823 and educated in the state schools and then in France, he spent his career building things and running the institutions that trained others to build them: public works, schools, and the administrative apparatus of education. His great written monument is a vast topographical and historical survey of Egypt, compiled from records and observation, which remains a source historians use. He matters to this story because he demonstrates what the schools and missions actually produced. The first generation translated and explained; the second staffed a state, wrote in Arabic for Egyptians, and treated the new learning as an Egyptian possession rather than a foreign import.
+
+### Q: What part did Syrian emigres play?
+
+A disproportionate one, particularly in the press. Christians from Greater Syria, many educated in the mission schools of Beirut, emigrated to Egypt in numbers through the later nineteenth century and founded or staffed a substantial share of the newspapers and journals that carried the Nahda. Al-Ahram was founded by Syrian brothers, and the scientific and literary monthly al-Muqtataf was founded in Beirut in 1876 and moved to Cairo in 1885, where it published for decades. The reasons for the movement were partly political, since Egypt under the khedives was a more permissive publishing environment than Ottoman Syria, and partly commercial. The result is that the Nahda cannot be described as a purely Egyptian achievement even though Cairo was its centre.
+
+### Q: Did the Nahda spread beyond Egypt?
+
+It was never confined to Egypt, and the traffic ran in both directions. Beirut was a second centre with its own presses, schools, and literary societies, and journals founded there moved to Cairo when conditions favoured it. Printed Arabic circulated wherever the language was read, so books and periodicals produced in Cairo reached Damascus, Baghdad, Tunis, and beyond, and the arguments they carried about reform, reason, language, and the relationship with Europe were argued over across the Arabic-reading world. The political vocabularies of Arab nationalism and of Egyptian nationalism alike were formed in that circulation. Egypt's centrality came from its presses, its schools, and its market rather than from any claim to originate the movement alone.

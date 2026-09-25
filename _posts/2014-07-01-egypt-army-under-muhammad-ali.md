@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Muhammad Ali's Army: Peasants, Drill, and a European Check"
-page_title: "Muhammad Ali's Army Explained: Conscription, Nizam al-Jadid, and the 1840 Check"
+page_title: "Muhammad Ali's Army: How Peasant Conscripts Built Egypt's Modern Military and Why Europe Stopped It"
 date: 2014-07-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Modern Egypt", "Warfare", "Ottoman Empire", "Biography", "World History"]
@@ -307,3 +307,11 @@ By every means available to people with no political voice. Men fled to the town
 ### Q: What happened at the Battle of Konya?
 
 Ibrahim Pasha destroyed an Ottoman field army in central Anatolia in December 1832 and captured the grand vizier commanding it. The engagement was less a battle than a demolition: Egyptian infantry drilled in European tactics stood and delivered disciplined volleys, Egyptian artillery broke up Ottoman formations before they could close, and once the first Ottoman line gave way the rest followed. The road to Istanbul lay open afterward and Ibrahim did not take it, because his father held him back, wanting concessions from the sultan rather than the destruction of the empire and knowing that a march on the capital would bring the European powers down on him. The settlement that followed, the Convention of Kutahya in 1833, granted him Syria and Adana.
+
+### Q: Why did the Ottoman fleet sail to Alexandria?
+
+Because the Ottoman state collapsed in the summer of 1839 and its grand admiral concluded that the winning side was in Egypt. Within days of Ibrahim's victory at Nezib in June, Sultan Mahmud II died and left the throne to a sixteen-year-old son, the regency in Istanbul was paralysed, and the empire's last field army had been destroyed. Rather than fight for a government that appeared finished, the admiral sailed the fleet to Alexandria and handed it to Muhammad Ali. The defection gave the Egyptian ruler the strongest navy as well as the strongest army in the eastern Mediterranean, and it is the single event that most alarmed the European chanceries, because it removed the last force capable of restraining him.
+
+### Q: How big was the army allowed to be after the settlement?
+
+Eighteen thousand men, the figure fixed by the European powers in the settlement of 1841 and the coldest verdict on everything Muhammad Ali had built. It was the number judged sufficient to keep order inside Egypt and insufficient to threaten anything beyond it. The navy was restricted in parallel and the great fleet reduced, the Syrian, Arabian, and Cretan garrisons were withdrawn, and the peasant regiments that had marched to Konya and Nezib were disbanded in droves and their men returned to the villages they had been taken from. In exchange his family received hereditary rule of Egypt, which was the prize he had sought for three decades and which his descendants held for over a century.

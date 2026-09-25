@@ -6,15 +6,15 @@ date: 2013-11-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Mamluks", "Warfare", "Napoleon", "World History"]
 excerpt: "What happened at the Battle of the Pyramids, how French squares and cannon destroyed the Mamluk cavalry, and why the fighting happened nowhere near Giza."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
-author: "rachel-foster"
+author: "Insight Crunch Team"
 last_updated: 2013-11-01
-lang: en
 ---
+
 On the afternoon of 21 July 1798, on flat cultivated ground beside the Nile some distance north of Giza, several thousand of the finest heavy cavalry in the world charged five formations of French infantry and were destroyed in under two hours. The French lost somewhere in the region of thirty dead. The victors named the engagement after monuments that were visible on the southern horizon but played no part in it, and the name stuck, which is why the Battle of the Pyramids is remembered as a clash beneath the tombs of the pharaohs rather than as what it was: a fight for a fortified village called Embabeh, decided by drill, discipline, and canister shot.
 
-![The Battle of the Pyramids in 1798 and how French squares broke the Mamluk cavalry - Insight Crunch](/assets/images/blog/blog-42.webp)
+![The Battle of the Pyramids in 1798 and how French squares broke the Mamluk cavalry - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 The engagement deserves close attention for two reasons that pull in opposite directions. It is the most famous battle fought on Egyptian soil in the modern era, and it is militarily one of the least surprising. Nothing about the outcome would have puzzled a European staff officer of the 1790s, because the tactical question it posed, whether cavalry without artillery support can break steady infantry in square, had been answered in the negative for at least a century of European warfare. What made it extraordinary was that one side did not know the answer, and the price of not knowing was the end of a political order that had governed Egypt since 1517.
 
