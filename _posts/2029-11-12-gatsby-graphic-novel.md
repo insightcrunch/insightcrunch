@@ -6,17 +6,17 @@ date: 2029-11-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Adaptations", "Symbolism", "Themes", "Literary Criticism", "American Literature"]
 excerpt: "The Great Gatsby graphic novel versions turn Fitzgerald's prose into sequential art, keeping Nick's voice in captions and his symbols vivid in drawn panels."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-11-12
+lang: en
 ---
-
 What does a picture know that a camera does not? Every screen version of Fitzgerald's novel wrestles with the same obstacle, which is not the costumes or the parties or the period detail but Nick Carraway's voice, the retrospective and judging and lyrical first-person narration that drives the book from its first page. The Great Gatsby graphic novel answers that difficulty in a different register, not by photographing the Jazz Age but by drawing it, and the result amounts to a claim about what adaptation can be. The stakes are plain: if the comics page can carry Nick's voice where the camera tends to drop it, then the graphic novel is not a shortcut to the real book but an interpretation with authority of its own.
 
 That is the interpretive question this article follows through three published comics versions of the novel. Each one translates prose into sequential art, and each one solves the problems of that translation differently. Reading them side by side shows what the comics form understands about Fitzgerald's book that other media miss, what it necessarily gives up, and what its choices reveal about the source. The pattern that emerges is the one adaptation theory keeps rediscovering: a strong adaptation is a reading, and its departures from the source are evidence about the source itself.
 
-![A comic artist's rendering of Jay Gatsby's mansion party in Art Deco style, capturing the graphic novel adaptation angle - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A comic artist's rendering of Jay Gatsby's mansion party in Art Deco style, capturing the graphic novel adaptation angle - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The claim at the center of this article can be stated in one line before the evidence arrives. Narration as caption, symbol as panel: the graphic-novel versions handle Nick's voice through caption boxes and the green light through drawn image, so the comics form solves the interiority problem differently from film, with the caption preserving the narrating voice that the camera tends to lose. Everything that follows tests that sentence against the actual books, the mechanics of the medium, and the places where the translation strains. The method is comparative throughout: each version against the novel, each version against the others, and the comics form against film, the rival visual medium that has dominated Gatsby adaptation for a century. The goal is not to crown a winner among the three books but to understand what the form knows. A reader who finishes this article should be able to open any of the three versions and see the decisions being made on every page, and should be able to return to Fitzgerald's prose with fresh attention to the voice, the symbols, and the scenes the adapters found most drawable and most resistant.
 

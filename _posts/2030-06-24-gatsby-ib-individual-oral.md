@@ -6,12 +6,12 @@ date: 2030-06-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "IB English", "Individual Oral", "Global Issue", "Exam Strategy", "Study Guide"]
 excerpt: "Gatsby for the IB individual oral succeeds when the passage serves the global issue: select an extract that genuinely illuminates it and connect every line."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-06-24
+lang: en
 ---
-
 The IB individual oral is a strange examination. For ten minutes a student speaks about a global issue through extracts from two studied works, and then the examiner questions the speaker for five minutes more. The individual oral explores a global issue through extracts, and a Gatsby passage must serve a clear global issue. That sentence is the whole task in miniature, and most preparation fails because it ignores half of it. Students prepare the passage and hope the issue will attach itself somewhere during the talk, as if proximity were the same as argument.
 
 The namable claim of this guide is that the oral is won or lost before the speaking begins, in the choice of the extract and in the explicit connection between that extract and the global issue. A passage in service of a global issue is the unit the task assesses. Not the best scene, not the most quotable forty lines, not the passage the student loved most in class, but the passage whose details, once analyzed, make the global issue more visible than it was before the extract was read. Everything that follows is a method for producing that kind of passage work: selecting an extract that carries an arguable claim about the question, and connecting every quotation to that claim so the listener hears one argument, not two topics standing side by side.
@@ -20,7 +20,7 @@ The complication deserves an honest statement, because it is the failure examine
 
 Turning an exam task into a usable method is the standard this series holds itself to, and the method here has five parts. First, which Gatsby passages survive the global-issue test, with the issues each one can genuinely support. Second, how a favorite scene becomes a working extract, with boundaries drawn and defended. Third, what illumination looks like at the sentence level, with floating and connected examples of the same passage side by side. Fourth, how the two extracts converse, how quotations work aloud, how to survive the five-minute questions, and which selection traps to avoid. Fifth, a week of drills that builds the two key skills directly. For the broader map of Gatsby across IB assessment, [the IB hub](/2030/06/17/gatsby-ib-english/) routes to this guide for the oral task itself; what follows stays inside the oral's own demands and does not repeat the general coverage there.
 
-![A student selecting a Gatsby passage to serve a global issue for the IB individual oral - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student selecting a Gatsby passage to serve a global issue for the IB individual oral - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 ### Which Gatsby Scenes Survive the Global-Issue Test?
 

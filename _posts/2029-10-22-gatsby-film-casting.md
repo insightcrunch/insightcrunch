@@ -6,17 +6,17 @@ date: 2029-10-22
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Adaptations", "Character Analysis", "Jay Gatsby", "Literary Criticism", "American Literature"]
 excerpt: "Casting Gatsby: how each film cast the roles, from Warner Baxter to Leonardo DiCaprio, and what every single choice argues about Fitzgerald's characters."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2029-10-22
+lang: en
 ---
-
 ## The Argument a Face Makes
 
 Casting Gatsby is the first act of interpretation any film version performs, and it happens before a single line of Fitzgerald's dialogue is spoken. How each film cast the roles determines what the audience believes about these people from the moment they appear, because a face carries a set of assumptions with it: age, class, hardness, sincerity, whether this person is someone things happen to or someone who makes things happen. Five screen versions across nearly a century have made five distinct sets of choices, and read side by side those choices form a record of how each era decided to understand the novel.
 
-![Casting Gatsby: how each film cast the roles across five screen adaptations - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Casting Gatsby: how each film cast the roles across five screen adaptations - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The usual way of discussing this is to score the performances, which produces opinions rather than arguments. A more useful method treats each casting decision as a proposition about the character and asks whether the novel supports it. Fitzgerald gives unusually precise physical and vocal descriptions of almost everyone in this book, and he gives them for a reason. Tom's arrogance is written into his shoulders. Daisy's power is located in her voice rather than her face. Gatsby's charm is specified as a smile with a mechanism attached. When a film casts against those specifications, it is not making a mistake so much as advancing a counter-reading, and the counter-reading can be evaluated.
 

@@ -6,17 +6,17 @@ date: 2029-11-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Adaptations", "American Literature", "Literary Criticism", "Context", "Close Reading"]
 excerpt: "The Great Gatsby public domain shift freed the novel from copyright. Learn the legal mechanism, the works it permits, and why the status varies by country."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-11-19
+lang: en
 ---
-
 What does it mean for a novel to stop belonging to its legal owners and start belonging to everyone at once? The Great Gatsby public domain transition answers that question with unusual clarity, because the date on which the answer changed is exact, the mechanism behind it is a matter of federal statute, and the consequences have reshaped how the book circulates. On January 1, 2021, the novel's US copyright expired, and a text that had spent nearly a century under exclusive control became raw material for anyone with a printing press, a camera, or a keyboard. The stakes of that sentence are larger than they look. Before that morning, adapting the novel, reprinting it in a new edition, or building a sequel on its characters required permission and usually payment. After that morning, none of those things did, at least inside the United States.
 
 That single legal fact reorganized the novel's afterlife. Publishers who had never been allowed to issue their own editions of Fitzgerald's book could suddenly do so. Playwrights, filmmakers, translators, and illustrators could work with the characters and the plot without negotiating a license. Teachers could distribute the full text without worrying about permissions, and digital archives could offer it free to every reader with an internet connection. None of this altered a word Fitzgerald wrote. It altered who was allowed to do things with those words, which is a different and in some ways larger kind of change.
 
-![A reader holding an open classic novel with light falling across the pages, representing the Great Gatsby public domain transition - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reader holding an open classic novel with light falling across the pages, representing the Great Gatsby public domain transition - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The distinction matters because public domain status is widely misunderstood. It is not a prize awarded to famous books, and it is not the same in every country. It is the ordinary endpoint of a copyright term, arriving on a schedule fixed by legislation, and it stops at national borders. The novel entered the public domain in Britain a full decade before it did so in America, because British law measures the term from the author's death rather than from the date of publication. In Mexico, the same novel remained under copyright long after the American date, because Mexican law grants the longest term in the world. Anyone who assumes that a book is either protected everywhere or free everywhere will misread the map, and the map is the whole point of this article.
 

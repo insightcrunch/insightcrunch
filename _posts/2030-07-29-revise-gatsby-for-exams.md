@@ -6,15 +6,15 @@ date: 2030-07-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Exam Strategy", "Study Guide", "Revision Skills", "Essay Writing", "Literary Analysis"]
 excerpt: "How to revise The Great Gatsby for exams: trade rereading for recall drills and practice essays that turn themes, quotes, and context into exam-ready argument."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2030-07-29
+lang: en
 ---
-
 Learning how to revise The Great Gatsby for exams begins with a decision that most students never consciously make. The decision is what the revision is for. Two students can spend the same three hours with the same novel and arrive at the exam in completely different conditions, because one spent the hours filling a head with facts and the other spent them training the ability to argue under pressure. This guide is written for the second student. Its central claim is simple enough to state in one sentence and demanding enough to organize a whole revision campaign around: revision that builds an arguing mind, not a memorized one. Everything that follows is the method for building that mind with F. Scott Fitzgerald's novel as the material.
 
-![A student revising The Great Gatsby with notes and a structured plan - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student revising The Great Gatsby with notes and a structured plan - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The distinction matters because exams do not reward what most revision produces. A student can reread the novel twice, highlight thirty quotations, and summarize all nine chapters, and still write an essay that earns a middling mark, because the mark scheme credits argument, evidence, and explanation rather than recognition. The examiner is not asking whether the student remembers the plot. The plot is the given. The examiner is asking what the student can do with it: whether they can take a question, form a position, select the passages that prove it, and explain how the writing does its work. That is a performance skill, closer to playing an instrument than to reciting a speech, and it is trained the way performance skills are trained, through repeated, deliberate attempts at the performance itself. Passive review prepares a student to recognize the novel. Active revision prepares a student to write about it.
 

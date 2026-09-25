@@ -6,17 +6,17 @@ date: 2030-04-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Essay Writing", "Thesis Statements", "Study Skills", "AP Literature", "Literary Analysis"]
 excerpt: "How to write a Gatsby introduction: frame the question, cut filler and biographical padding, and land the thesis fast, with worked sample openings for study."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2030-04-29
+lang: en
 ---
-
 ## How to Write a Gatsby Introduction That Earns Attention
 
 Learning how to write a Gatsby introduction is learning to do two jobs in one paragraph. The opening must frame the essay question so the reader knows exactly what is being argued about, and it must land the thesis so the reader knows exactly what is being argued. Every strong opening in the student essay tradition does both of these things, and almost every weak opening fails at one or both of them. The namable claim of this guide is the opening that earns attention: a strong introduction frames the question and lands the thesis quickly, so the work of the introduction is focus, cutting the filler and biographical padding to arrive fast at an arguable claim the rest of the essay will defend. Keep this sentence in mind as the standard against which every draft opening gets measured: a strong introduction frames the question and lands the thesis without filler or biographical padding.
 
-![A student drafting a focused Great Gatsby essay introduction with a clear thesis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student drafting a focused Great Gatsby essay introduction with a clear thesis - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 That standard sounds simple, and the simplicity is the point. The introduction is not a stage for showing how much background knowledge the writer has. It is not a place to rehearse the plot of The Great Gatsby, and it is not a place to demonstrate familiarity with the life of F. Scott Fitzgerald. The introduction is a focusing device. It takes the wide field of everything that could be said about the novel and narrows it, sentence by sentence, to the one arguable claim the essay will defend. Readers who grasp this treat the opening paragraph as the most argued-over real estate in the essay, and teachers who grade hundreds of papers reward the openings that waste none of it. The reason is visible in the examiner's actual reading routine. Faced with a stack of scripts, the examiner reads the first paragraph asking two silent questions: does this writer know what the question is, and does this writer have something to say about it? An opening that frames and lands answers both in seconds, and the examiner relaxes into the body, reading for proof of a known claim. An opening that drifts answers neither, and the examiner reads the body on guard, hunting for the argument the first paragraph failed to provide. The same body paragraphs can receive different marks depending on which opening preceded them, because the opening sets the reader's posture. That is not unfairness. It is how reading works.
 

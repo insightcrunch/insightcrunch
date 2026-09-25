@@ -6,15 +6,15 @@ date: 2030-01-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "pop culture", "F. Scott Fitzgerald", "film adaptations", "literary references", "Jazz Age"]
 excerpt: "Great Gatsby pop culture fills film, music, and speech with green lights and parties. A guide to the symbols, aesthetic, and the gap between fame and the book."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-01-14
+lang: en
 ---
-
 Great Gatsby pop culture is one of the strangest phenomena in American letters: a slim novel of roughly 47,000 words, first published on April 10, 1925, to modest sales of about 20,000 copies in its first year, that went on to become a universal shorthand. Its images circulate among people who have never opened it, its phrases drop into conversation among people who could not name its narrator, and its mood decorates products its author never imagined. The book failed commercially in F. Scott Fitzgerald's lifetime, and Fitzgerald died in 1940 believing his finest work had been forgotten. What happened afterward was not merely a revival. It was a transformation of a novel into a cultural utility, a set of symbols and surfaces that the wider culture uses for its own purposes.
 
-![A couple in 1920s evening dress beneath strings of lights at a lavish outdoor party, evoking the glamour associated with the novel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A couple in 1920s evening dress beneath strings of lights at a lavish outdoor party, evoking the glamour associated with the novel - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The namable claim of this article is direct. A novel that became a shorthand: Gatsby saturates pop culture as an aesthetic of glamour and excess, a set of familiar symbols, and phrases in everyday speech, so its cultural ubiquity exceeds its readership, the green light and the parties recognizable even to those who have never read the book. That sentence carries the whole argument. The saturation is real, it operates through distinct channels, and it has outgrown the audience of the book itself. A reader who has never met Nick Carraway knows the green light. A viewer who has never read a word of Fitzgerald can picture the parties. A shopper who has never heard of West Egg recognizes the visual grammar of beaded dresses, champagne towers, and art deco geometry. The novel's afterlife is larger than the novel.
 

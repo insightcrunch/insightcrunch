@@ -6,17 +6,17 @@ date: 2030-04-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Essay Writing", "Exam Strategy", "Literary Analysis", "Study Guides"]
 excerpt: "How to structure a Great Gatsby essay: ordered point-evidence-analysis paragraphs make the argument visible. Covers parts, order, and revision checks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2030-04-15
+lang: en
 ---
-
 ## How to Structure a Great Gatsby Essay: Argument as Architecture
 
 Learning how to structure a Great Gatsby essay changes the writing process from a search for words into the construction of a building. A thesis is the foundation. Each body paragraph is a load-bearing wall, raised in an order that holds up the floors above it. The evidence is the material, and the analysis is the joinery that fastens material to frame. When any one of these parts is misplaced, the reader feels the sag even when no single sentence is wrong. When every part sits where the argument needs it, the essay stands on its own, and the examiner walks through it without stumbling.
 
-![Essay structure diagram for The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Essay structure diagram for The Great Gatsby - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The central claim of this guide is simple enough to test: argument as architecture. A strong Gatsby essay arranges its paragraphs so that each one makes a point, supports that point with evidence, and analyzes the evidence in service of a thesis. Structure is not a template laid over the argument afterward. Structure is the logic of the argument made visible, and the order of the paragraphs is itself an argument about what matters most in the reading. This article belongs to the essay-strategy cluster of the series, where the [whole-process guide to writing the essay](/2030/04/01/how-to-write-gatsby-essay/) places this structure stage inside the larger method, from reading the prompt to revising the draft.
 

@@ -6,15 +6,15 @@ date: 2029-09-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Adaptations", "Literary Criticism", "F. Scott Fitzgerald", "American Literature", "Close Reading"]
 excerpt: "Every Great Gatsby film adaptation ranked, from the lost 1926 silent to the 2013 spectacle, judged on fidelity, performance, visuals, and critical reception."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2029-09-03
+lang: en
 ---
-
 Four times in a century, a studio has decided that Fitzgerald's novel would make a film, and four times the result has divided its audience. Every Great Gatsby film adaptation ranked here confronts the same obstacle, and the obstacle is not the parties or the period or the tragedy. It is that the novel's power lives in a retrospective narrating voice, and cameras do not have one. This article ranks the versions, states the criteria openly, and argues that the ranking is a map of how four eras handled a single unsolved problem.
 
-![Every Great Gatsby Film Adaptation Ranked](/assets/images/blog/blog-01.webp)
+![Every Great Gatsby Film Adaptation Ranked](/assets/images/blog/blog-102.webp)
 
 The framework this article uses is what we call the narration test. Every other criterion, period detail, casting, visual invention, box office, sits downstream of one question: what does the film do about the fact that the book is Nick telling you something afterward, from a position of moral confusion, with hindsight he did not have at the time? Rank the adaptations by how directly they confront that question and the order becomes clear, and more interestingly, so does the reason each one fails in its own way.
 

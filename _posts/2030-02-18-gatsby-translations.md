@@ -6,17 +6,17 @@ date: 2030-02-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Translation", "Adaptations", "American Literature", "F. Scott Fitzgerald", "World Literature"]
 excerpt: "How translations handle Great Gatsby is a record of hard choices: the lyricism, idiom, and title test every translator, and each language builds its own Gatsby."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-02-18
+lang: en
 ---
-
 ## How Translations Handle The Great Gatsby
 
 How translations handle Great Gatsby is the story of a lyricism that tests every translator. When Victor Llona, a Peruvian-born writer living in Paris, finished his French version of the novel in the autumn of 1925, he was attempting something nobody had tried before: moving F. Scott Fitzgerald's prose out of English less than eighteen months after the American publication. Llona began the work in the fall of 1925, while American reviewers were still deciding what the book was, and he produced the first translation of any Fitzgerald novel into a foreign language. The claim this article makes is direct and should be stated before the evidence: rendering The Great Gatsby in another language means recreating prose whose power is rhythm and idiom, so the novel's translation history is a series of difficult choices, with each language finding its own way to carry the lyricism and the symbols that English readers take for granted.
 
-![A translator's desk with marked-up pages of The Great Gatsby beside French, German, and Italian editions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A translator's desk with marked-up pages of The Great Gatsby beside French, German, and Italian editions - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The stakes of the question are larger than one book. The translation scholar Mary Wardle, surveying the Italian case, counts at least forty-two languages into which the novel has been rendered, and within many of those languages more than one translation exists, so the Gatsby that most of the world's readers meet is not Fitzgerald's English text but a chain of decisions made by named translators working under real constraints of language, era, and market. Each of those decisions answers the same underlying problem differently: what do you do with a book whose meaning lives in the music of its sentences, in the untranslatable slang of its decade, in a two-word title whose adjective carries half the novel's ambition, and in symbols whose colors mean different things on different continents. This article owns the translation analysis; the worldwide audience itself, who reads the novel and why, is a separate inquiry.
 

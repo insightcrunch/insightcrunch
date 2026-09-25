@@ -6,17 +6,17 @@ date: 2030-03-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Gatsby Adaptations", "American Dream", "Literary Reception", "Classic Novels"]
 excerpt: "Why each generation rediscovers Gatsby: aspiration, inequality, and longing keep Fitzgerald's novel perpetually current, renewed by every era's anxieties."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-03-18
+lang: en
 ---
-
 ## Why Each Generation Rediscovers The Great Gatsby
 
 The question of why each generation rediscovers Gatsby has an answer that is easy to state and hard to earn: the novel keeps being reread because it keeps being re-needed. A book published in April 1925, set in the summer of 1922, about a bootlegger's parties on Long Island, has been taken up by the soldiers of the Second World War, the affluent classrooms of the postwar decades, the restless readers of the 1960s, the filmgoers of 1974, the strivers of the 1980s, the culture warriors of the 1990s, the economists of the 2010s, and the remixers of the public-domain 2020s, and each of these readerships found something in the book that felt addressed to it. The claim this article defends is direct: every generation rediscovers Gatsby because its themes of aspiration, inequality, and longing keep finding new contemporary forms, so the novel's currency is renewable. The same book is read freshly each time the dream and its discontents take a new shape.
 
-![Readers across the decades returning to The Great Gatsby, from wartime paperbacks to the public-domain wave - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Readers across the decades returning to The Great Gatsby, from wartime paperbacks to the public-domain wave - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 That claim needs defending against a tempting shortcut. It would be simpler to say the novel survives because schools assign it, publishers market it, and Hollywood films it: a machinery of canon maintenance that keeps the book in circulation the way a museum keeps a painting on the wall. The machinery exists, and this article will not pretend otherwise. But machinery explains circulation, not hunger. Millions of assigned books are read dutifully and forgotten; Gatsby is read, argued over, filmed, quoted, memed, retold from new points of view, and returned to in middle age by readers who first met it at seventeen and thought they had finished with it. Something in the text invites the return. The argument here is that the invitation is structural: Fitzgerald built the novel out of materials that every era regenerates on its own, the gap between what a society promises and what it delivers, the spectacle of wealth as both lure and indictment, and a narrator who watches the whole performance with a divided heart. Each generation has found its own concerns, the dream, inequality, longing, in the novel, keeping it perpetually current.
 

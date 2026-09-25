@@ -6,15 +6,15 @@ date: 2030-08-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Essay Writing", "Historical Context", "Exam Strategy", "Literary Analysis", "Study Skills"]
 excerpt: "How to embed context in a Gatsby essay: weave history into literary analysis with sentence-level methods, worked examples, and timed practice routines."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2030-08-12
+lang: en
 ---
-
 Learning how to embed context in a Gatsby essay is the skill that separates the competent answer from the distinguished one. Most students know the history. They can recite Prohibition, the Jazz Age, the flapper, the boom before the crash. What they cannot do is make that knowledge work inside an argument about the novel, so the history sits in the essay the way a brochure sits in a waiting room: present, glossy, and entirely separate from the business at hand. The claim this guide defends is simple enough to state and demanding enough to practice. Strong essays weave context into the analysis to deepen textual points, never bolting it on as a separate paragraph. Context is part of the argument, not a preface to it.
 
-![A student weaving 1920s historical context into Great Gatsby essay analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student weaving 1920s historical context into Great Gatsby essay analysis - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The difference matters because of how literature examinations are built. Mark schemes in essay-based qualifications reward the integration of contextual understanding with textual analysis; they do not reward two parallel essays, one about the novel and one about the 1920s, stapled together by proximity. An examiner reading a paragraph that opens with three sentences of potted history and then pivots with a phrase like "this is shown in the novel when" sees a writer who has not connected the two halves. The same examiner reading a paragraph where a single clause of historical fact sharpens the reading of a quotation sees a writer thinking with the context rather than around it. The first performance demonstrates knowledge. The second demonstrates understanding, and understanding is what the higher bands describe.
 

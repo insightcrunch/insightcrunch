@@ -6,19 +6,19 @@ date: 2030-10-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "essay writing", "sentence starters", "exam strategy", "study guides"]
 excerpt: "Sentence starters for Gatsby essays work when they prompt analysis, not padding. Flexible frames for evidence, technique, and argument, with worked examples."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-10-07
+lang: en
 ---
-
 Frames that prompt thinking, not filler: that is the standard against which every sentence starter in this article must be judged, and it is stated here at the start so the rest of the article can be measured against it. Effective sentence starters for Gatsby essays cue the analytical moves a paragraph needs, introducing evidence, analyzing technique, signaling argument, and integrating context, and they fail the moment they become padding, repeated phrases that dress up sentences with no new thinking inside them. The distinction matters because students are often taught starters as decorations, a stock of impressive-sounding phrases to paste at the front of paragraphs, and decoration is exactly what an examiner discounts. A starter that prompts analysis earns its place by forcing the writer's hand: once the sentence opens with "The contrast between X and Y exposes," the writer must supply a contrast and expose something, or the sentence collapses. That forcing function is the entire value of the resource. A starter that can be attached to any sentence without changing what the sentence says is not a frame. It is filler wearing a frame's clothes.
 
 The danger is formulaic overuse, and this article treats that danger as central rather than as a footnote. Starters are scaffolds, not formulas. A scaffold holds up a structure while it is being built and is removed once the structure stands; a formula is repeated because repetition is easy, and every repetition makes the writing more mechanical and the thinking less visible. When the same three frames appear in every paragraph, an examiner stops hearing analysis and starts hearing a template, and the template tells the examiner that the writer stopped thinking and started assembling. This article owns the sentence-starters resource for the series, and owning it means saying plainly that the frames below are meant to be used flexibly, adapted, recombined, and eventually outgrown, not memorized and repeated. The worked sentences throughout are examples of the moves, not scripts for them. Learn the move, then change the words.
 
 The rest of the article is organized around the four analytical moves a strong starter must prompt. First, the frame itself, what makes a frame analytical rather than decorative and why the frame matters more than any particular phrase. Second, the four move banks: frames that introduce evidence, frames that analyze technique, frames that signal argument, and frames that integrate context, with the starter table pairing each purpose with its frame. Third, the failure mode: what formulaic overuse looks like, how to diagnose it in your own drafts, and how to repair a paragraph that has gone mechanical. Fourth, the flexible-use method: the paired rewrites that show the same move in different sentences, so the reader can see how a frame bends without breaking. Then the applied sections: a worked five-sentence sequence showing the moves combining, frames for essay openings and closings, the trajectory from frames to voice, eight worked frames for the most set topics, a three-pass revision protocol, a gallery of repaired paragraphs, the examiner's view of framed writing at each band, and the grammar underneath the frames. The close is a verdict that takes a position on the role of starters, a study section with the companion tools, and twenty answers to the questions students actually ask.
 
-![A Gatsby essay draft with analytical sentence frames in the margins, showing evidence introduction and technique analysis working together](/assets/images/blog/blog-01.webp)
+![A Gatsby essay draft with analytical sentence frames in the margins, showing evidence introduction and technique analysis working together](/assets/images/blog/blog-40.webp)
 
 ## What a Frame Actually Does
 

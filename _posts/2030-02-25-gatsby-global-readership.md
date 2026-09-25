@@ -6,17 +6,17 @@ date: 2030-02-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "World Literature", "American Literature", "Adaptations", "Reading", "F. Scott Fitzgerald"]
 excerpt: "Great Gatsby's global readership proves an American story can belong to the world: readers in dozens of countries find their dream in Gatsby's rise and fall."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-02-25
+lang: en
 ---
-
 ## The Great Gatsby's Global Readership: An American Story the World Made Its Own
 
 When Haruki Murakami sat down to translate The Great Gatsby into Japanese, he was not discovering the novel. He was returning to it. The translation appeared in 2006, more than eighty years after Charles Scribner's Sons published Fitzgerald's book in April 1925, and Murakami, already one of the world's most translated novelists, had chosen the assignment himself, out of admiration rather than obligation. He later described Fitzgerald's prose as something he wanted to inhabit from the inside, sentence by sentence, the way a musician learns another composer's score by playing it. That image is the right place to begin an account of the great Gatsby's global readership, because it captures what this article claims and what it will keep proving: the novel's worldwide life is not an accident of marketing or a byproduct of American cultural power. It is the record of readers in other languages finding their own version of the dream inside Fitzgerald's story, and finding it worth the labor of translation, teaching, and rereading.
 
-![Readers around the world holding translated editions of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Readers around the world holding translated editions of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The claim needs stating plainly before the evidence arrives. The Great Gatsby's global readership is an American story the world made its own. The themes of aspiration, class, and the gap between dream and reality resonate far beyond America, and each culture finds its own version of the dream in the novel's pages. That is the namable claim this article owns, and it differs deliberately from the neighboring analysis of translation. The article on how translations handle the novel studies linguistic transfer, the hard choices translators make with lyricism, idiom, title, and symbol, and readers who want that mechanism should follow [the account of the translator's trial](/2030/02/18/gatsby-translations/). This article studies the audience: who reads the novel around the world, what they recognize in it, and what shifts when a story about Long Island in 1922 lands in a classroom in Mumbai, a bookshop in Tokyo, or a lecture hall in Paris.
 

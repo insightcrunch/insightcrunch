@@ -6,15 +6,15 @@ date: 2029-09-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Adaptations", "Literary Criticism", "F. Scott Fitzgerald", "American Literature", "Close Reading"]
 excerpt: "The 2013 Baz Luhrmann Gatsby analyzed as interpretation: why the spectacle, the modern soundtrack, and the sanatorium frame divided critics so sharply."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-09-10
+lang: en
 ---
-
 A film about a man who throws overwhelming parties to conceal an emptiness was made by a director whose signature is overwhelming parties. That coincidence is either the best argument for the film or the case against it, and which one you think it is determines everything else. The 2013 Baz Luhrmann Gatsby analyzed properly is not a question of whether the excess is too much. It is a question of what the excess is arguing, because it is arguing something, and the critics who split over this film mostly split over whether they were willing to hear it as an argument at all.
 
-![The 2013 Baz Luhrmann Gatsby Analyzed](/assets/images/blog/blog-01.webp)
+![The 2013 Baz Luhrmann Gatsby Analyzed](/assets/images/blog/blog-32.webp)
 
 This article takes the position that Luhrmann's choices constitute a reading of the novel rather than a decoration applied to it, that the reading is defensible and partly wrong, and that the objections most often raised against the film are aimed at the wrong target. The counter-case is given a full hearing rather than a sentence, because the counter-case is strong.
 

@@ -6,15 +6,15 @@ date: 2030-08-19
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Essay Writing", "Themes", "Exam Strategy", "Study Guide"]
 excerpt: "How to write about Gatsby's themes: turn each theme into an arguable claim, bind it to quoted evidence and technique, and keep every paragraph contestable."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-08-19
+lang: en
 ---
-
 Most essays on The Great Gatsby fail in the same quiet way. They name the American Dream, they name money, they name the past, and then they stop. The writer believes the naming is the work. It is not. A list of subjects the novel touches is worth almost nothing, because an examiner can see the novel touches them too. What the examiner cannot see, until the essay supplies it, is what the writer believes those subjects mean and why the novel handles them the way it does. That missing element, the argued position, is the entire difference between a thematic essay and a theme-spotting exercise, and this article exists to teach the move that crosses the gap.
 
-![Thematic essay writing for The Great Gatsby: turning named themes into argued claims - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Thematic essay writing for The Great Gatsby: turning named themes into argued claims - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 ## The Question Behind Every Strong Thematic Essay
 

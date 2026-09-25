@@ -6,15 +6,15 @@ date: 2030-05-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Essay Questions", "Exam Strategy", "Thesis Building", "American Dream", "Literary Analysis"]
 excerpt: "Great Gatsby essay questions answered: unpack prompts on the dream, character, symbols, and narration into arguable theses that answer instead of describe."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2030-05-20
+lang: en
 ---
-
 Two essays answer the same question. The question reads: "Discuss the significance of the green light in The Great Gatsby." The first essay opens with a paragraph of plot: the light sits at the end of Daisy's dock, Gatsby stretches his arm toward it in the first chapter, and Nick returns to it in the closing pages. The second essay opens with a claim: the green light organizes the novel's argument about wanting, because it is the one image that stays out of reach while everything else in Gatsby's world can be bought, borrowed, or staged. Both essays are about the green light. Only one of them answers the question, because "discuss the significance of" is not an invitation to describe where the light appears; it is an instruction to argue why those appearances matter to the novel's meaning. The gap between describing and answering is where answers succeed or fail, and that gap is the entire subject of this article.
 
-![A student unpacking a Great Gatsby essay question into a working thesis before writing - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student unpacking a Great Gatsby essay question into a working thesis before writing - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 The claim here is plain enough to name: answering, not describing. Common Great Gatsby essay questions reward the writer who unpacks the question into an arguable thesis before writing a single body paragraph, which means the decisive skill is reading the question precisely. A strong answer and a weak answer can draw on the same chapters, the same quotations, and the same knowledge of the novel; the difference is whether the essay argues the specific claim the question demands. Everything that follows is a method for making sure it does: how to sort the question into its family, how to find the command inside the wording, how to turn that command into a thesis, and how to keep the essay on the question's side of the line for the whole of a timed answer.
 

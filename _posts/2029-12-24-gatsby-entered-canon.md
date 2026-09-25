@@ -6,17 +6,17 @@ date: 2029-12-24
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Canon", "Literary History", "American Literature", "F. Scott Fitzgerald", "Literary Criticism"]
 excerpt: "How Great Gatsby entered the canon is a story of wartime paperbacks, advocacy, and classroom adoption that made a classic the reception never predicted."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-12-24
+lang: en
 ---
-
 ## How Great Gatsby Entered the Canon
 
 How Great Gatsby entered the canon is one of the strangest stories in American literary history, because the novel that anchors high school syllabi and tops lists of the greatest American books began as a commercial disappointment that its own author outlived by only fifteen years, dying in 1940 convinced that his work would be forgotten. The stakes of the question reach beyond one book. If a novel can move from remaindered obscurity to canonical centrality within a single generation, then canonicity is not a quality that books possess the way they possess page counts; it is something done to books by institutions, accidents, and advocates. The reader who understands how The Great Gatsby entered the canon understands the machinery that makes classics, and that machinery is the subject of this article.
 
-![A worn wartime paperback copy of The Great Gatsby among soldiers' books - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A worn wartime paperback copy of The Great Gatsby among soldiers' books - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 The claim this article makes is direct, and it should be stated before the evidence: canonized by a wartime accident and a critical campaign, the novel entered the canon through the lucky reach of wartime paperbacks to soldiers and the deliberate advocacy of postwar critics, so its canonization was made, not given. It was a combination of distribution and persuasion that secured a place the 1925 reception never predicted. The wartime paperback distribution put roughly 150,000 copies of The Great Gatsby into the hands of American servicemen in 1945 through the Armed Services Editions program, an accident of military logistics that gave a neglected novel the largest readership it had ever known. The postwar critical campaign then did the deliberate work: Edmund Wilson kept Fitzgerald's name before the public by editing his unfinished and uncollected work, Lionel Trilling supplied the interpretive frame that made the novel teachable by declaring that Gatsby stood for America itself, Arthur Mizener's 1951 biography certified the classic status in print, and Malcolm Cowley's 1953 edition stabilized the text for classroom use. Curricular adoption finished the job, turning a critically certified novel into a book that millions of students would be assigned, which is the final lock on any canon. None of these forces alone would have sufficed. Together they form the complete mechanics of a canonization that looked inevitable only after it happened.
 

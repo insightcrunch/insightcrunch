@@ -6,17 +6,17 @@ date: 2029-10-29
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Adaptations", "F. Scott Fitzgerald", "Literary Criticism", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby on stage: the 1926 Broadway play, Gatz, immersive theater, and the musicals, and how each one solves Nick's narration and the parties."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-10-29
+lang: en
 ---
-
 ## The Problem a Stage Has to Solve
 
 The Great Gatsby on stage is nearly as old as the novel itself. A Broadway adaptation opened in February 1926, thirteen months after publication, and theatrical versions have appeared in every subsequent generation, culminating in an unusually crowded present in which immersive productions, full-length recitations, and competing musicals have all found audiences. That persistence is worth explaining, because the novel presents theater with a harder problem than it presents cinema.
 
-![The Great Gatsby on stage: Broadway, immersive theater, and stage adaptations of Fitzgerald's novel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby on stage: Broadway, immersive theater, and stage adaptations of Fitzgerald's novel - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The problem is that this book is a voice. Nick Carraway is not a camera; he is a man reconstructing a summer from a distance, editing as he goes, and the novel's meaning lives in the gap between what he claims and what he reveals. He opens by reporting his father's advice and announcing that he is inclined to reserve all judgements, and he tells us within two pages that only Gatsby, the man who gives his name to this book, was exempt from my reaction. A film can put that in voiceover and lose the irony, because a voice speaking directly into your ear registers as sincere. Theater has fewer places to hide and, as it turns out, more places to put a narrator.
 

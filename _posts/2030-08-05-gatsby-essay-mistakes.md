@@ -6,12 +6,12 @@ date: 2030-08-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "essay writing", "exam strategy", "essay mistakes", "study skills", "literary analysis"]
 excerpt: "Four mistakes cap Gatsby essay grades: plot summary, dropped quotations, unargued theses, and ignored context, each with its cost and a concrete correction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2030-08-05
+lang: en
 ---
-
 ## The Errors That Quietly Cap a Grade
 
 Most Gatsby essays do not fail because the writer misunderstood the novel. They fail because the writer made one of four structural errors that quietly cap the grade, and the cap is quiet because the essay can read smoothly while committing it. A fluent paragraph that retells the plot sounds like writing. A paragraph that drops in a famous line sounds like evidence. An introduction that announces a topic sounds like a thesis. A reading of the novel that never leaves the summer of 1922 sounds complete. Each of these habits feels like the work of essay writing, and each of them stops the essay from earning the marks it was aiming at. The claim of this guide is direct: the commonest errors are plot summary, dropped quotations, an unargued thesis, and ignored context, and each one is correctable, because each one is a habit rather than a gap in intelligence. Nothing in this article asks you to read more criticism or to become a different kind of thinker. It asks you to replace four habits with four practices, and it shows the replacement happening in before and after examples taken from real passages of the novel.
@@ -20,7 +20,7 @@ Name the four plainly so the rest of the guide has its map. Plot summary is the 
 
 These four are not random. They are the four failures that appear in marked essays with the greatest regularity, which is why the series treats them as the common-mistakes corrective, the article that owns error-correction and routes the student back to the stage articles where each skill is taught in full. The guide to avoiding plot summary owns the summary problem at its root. The guide to using quotations owns the evidence stage. The guide to the thesis statement owns the claim. The study of corrected misreadings owns the interpretive errors that ignored context produces. This article does not repeat those guides. It stands at the junction of all four and answers the question the others leave open: what does each mistake look like in a real paragraph, what does it cost in marks, and what exactly replaces it. Think of the stage articles as the instruction manuals and this article as the repair shop, the place you come when the draft is written and something in it is quietly wrong.
 
-![A marked student essay showing corrected Gatsby mistakes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A marked student essay showing corrected Gatsby mistakes - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The honest complication has to be faced before the corrections begin, because it changes how seriously the mistakes are taken. These are structural grade-cappers, not minor style issues. A style issue is a misplaced comma or a repeated word, and it costs a mark at the margin. A structural error changes what the essay is: a summary is a different genre from an argument, an announced topic is a different kind of introduction from a thesis, and an essay without context is a different depth of reading from one that has it. That is why the mistakes cap the grade rather than merely lowering it. An examiner can reward a flawed argument that reaches for interpretation, but an examiner cannot reward analysis that is not there, and each of the four mistakes is, at bottom, a way of not being there, of writing around the novel instead of into it. The good news follows from the same diagnosis. Because the mistakes are structural habits, they are correctable by structural routines, and the routines are learnable. You do not need a new brain. You need a new checklist, and this guide supplies it, with the corrections demonstrated rather than merely described.
 

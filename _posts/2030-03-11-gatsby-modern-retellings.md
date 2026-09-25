@@ -6,17 +6,17 @@ date: 2030-03-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nghi Vo", "Literary Retellings", "Adaptations", "Jordan Baker", "American Literature", "Feminist Reading"]
 excerpt: "The Chol Hong Nguyen retelling and others recover the silenced: Nghi Vo's Jordan-centered reimagining shows how the best retellings illuminate their source."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-03-11
+lang: en
 ---
-
 ## The Retelling Test
 
 The Great Gatsby entered the public domain in the United States on the first day of 2021, and the months that followed brought a rush of new versions, some licensed and many not, some reverent and some gleefully irreverent. The cluster filed in this series under the keyword the chol hong nguyen retelling and others is the subject of this article: the modern retellings that take Fitzgerald's story apart and rebuild it around the people the original pushed to its edges. The claim this article makes is direct and should be stated before the evidence. The most acclaimed modern retelling of the novel, Nghi Vo's The Chosen and the Beautiful, recasts the story through a queer Vietnamese-American Jordan Baker, and in doing so it recovers the perspectives the original left silent. That recovery is the test every retelling in this cluster must face. A retelling earns its place not by dressing an old plot in new clothes but by showing the reader something the source kept hidden, and the strongest of these new versions pass that test with room to spare.
 
-![Jordan Baker dealing paper cards that turn into living birds at a glittering Jazz Age party - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jordan Baker dealing paper cards that turn into living birds at a glittering Jazz Age party - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The distinction matters because the culture produces Gatsby versions the way it produces weather, and not all of them are retellings in the sense this article uses the word. A film that moves the plot faithfully from page to screen is an adaptation. A novel that continues the story past Fitzgerald's last page, inventing new fates for Nick or Daisy or the children they might have had, is a sequel or a prequel, and those belong to a different inquiry. A retelling keeps the known story, the summer of 1922, the parties, the green light, the death on the road to New York, and tells it again from a different center of gravity, so that the familiar events arrive carrying unfamiliar weight. The difference is not a matter of fidelity but of geometry. The adaptation asks how close it can stand to the original. The retelling asks what the original looks like from somewhere the original never stood.
 

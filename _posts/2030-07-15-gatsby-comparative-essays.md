@@ -6,17 +6,17 @@ date: 2030-07-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Comparative Essays", "Essay Writing", "Exam Strategy", "Study Guide", "Literary Analysis"]
 excerpt: "Comparative essays using Great Gatsby work when both texts share one frame. This guide teaches integrated points, smart pairings, and strong thesis design."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2030-07-15
+lang: en
 ---
-
 Comparative essays using Great Gatsby fail in a pattern so consistent that examiners can spot it from the first paragraph. A student writes three paragraphs about Fitzgerald's novel, then three about the other text, then a closing paragraph that gestures at a similarity and calls the job done. The result is not a comparison at all. It is two essays stapled together, and the missing element is not effort or intelligence but a method. The namable claim of this guide is that a strong comparative essay integrates both texts under a shared frame rather than describing them side by side, and that this integration is a teachable move rather than a talent. Every section that follows exists to make the move concrete: what a shared frame looks like inside a thesis, how to choose a pairing that rewards comparison, how to build paragraphs that keep both texts in play, and how to repair an essay that has split into two halves.
 
 The claim needs stating plainly because the dominant habit works directly against it. Most writers learn analysis as a single-text skill. They learn to find evidence in one novel, attach it to a point, and develop the point. When a prompt asks for two texts, they simply run the single-text skill twice, once per text, and paste the results together. The error feels natural because each half, read alone, can look competent. The Gatsby half can be full of accurate observations about the green light, the valley of ashes, the parties. The other half can be equally careful. But competence in each half does not add up to comparison, because comparison lives in the relationship between the texts, and two isolated descriptions contain no relationship at all. The examiner is not grading two analyses. The examiner is grading one argument that holds two texts inside it, and an essay that never puts them in the same room cannot make that argument.
 
-![Comparative essays using Great Gatsby: integrating both texts under a shared frame - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Comparative essays using Great Gatsby: integrating both texts under a shared frame - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Addressing the complication honestly means naming why side-by-side description is so seductive. It is easier, first of all, because the writer only has to manage one text at a time, and single-text thinking is what every prior assignment has rewarded. It is also structurally comforting: the block arrangement, all of Gatsby first, then all of the other text, feels orderly on the page, and order can be mistaken for argument. Finally, it protects the writer from the hardest moment in comparative work, which is the moment when the two texts have to touch, when a point about Daisy must be developed in the same breath as a point about the other text's equivalent figure, and the differences between them must be handled rather than dodged. Touching the texts together is where comparison happens, and it is exactly the step that side-by-side structure postpones forever. This guide argues that the step should come first in planning and remain present in every paragraph, because a comparison that never integrates is a comparison in name only.
 

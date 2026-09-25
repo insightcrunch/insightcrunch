@@ -6,19 +6,19 @@ date: "2030-04-22"
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "essay writing", "essay evidence", "quote analysis", "exam strategy", "literary analysis"]
 excerpt: "Mastering how to use quotes in a Gatsby essay turns citations into argument: select apt, brief lines, embed them smoothly, and analyze each line for full marks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: "2030-04-22"
+lang: en
 ---
-
 ## The Quote Is Only Half the Mark
 
 Learning how to use quotes in a Gatsby essay is the difference between an essay that reports the novel and an essay that argues about it. Most students gather quotations the way collectors gather stamps, pasting in the famous lines they half remember and trusting the words of F. Scott Fitzgerald to do the arguing for them. The result is predictable: a paragraph that states an opinion, drops in a long passage, and moves on, with the quotation standing apart from the sentence like a framed picture leaning against a wall. The claim of this guide is blunt. The quote is only half the mark. Using quotes well means selecting apt, brief evidence, embedding it smoothly into your own sentences, and analyzing it, because the analysis after the quotation is where the marks live, and a dropped or unanalyzed quotation wastes the very evidence it offers.
 
 Consider the anatomy of a strong paragraph. It opens with a point, a sentence that advances the argument. It introduces a brief fragment of Fitzgerald's prose inside a sentence of its own. It then unpacks the fragment, word by word if needed, showing what the diction, the image, or the contradiction reveals about the character or theme under discussion. That pattern, select, embed, analyze, is the entire method, and everything in this guide is a variation on it. The habit matters more than the talent. Students who quote sparingly and analyze deeply outperform students who quote lavishly and analyze thinly, essay after essay, board after board.
 
-![A student essay page showing embedded quotations from The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student essay page showing embedded quotations from The Great Gatsby - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 Why does quotation deserve its own article when the series already covers the [quote bank](/2029/08/27/gatsby-quote-bank-essays/) where the material lives and the [close-analysis method](/2029/07/16/how-to-analyze-gatsby-quote/) where the interpretive moves are taught? Because those are the supply lines, and this article owns the deployment. The bank tells you which lines are worth having. The analysis guide tells you how to read them. This guide tells you what happens between finding a line and writing the paragraph that carries it: how to choose the right fragment, how to make it grammatical inside your sentence, how to pace quotations across a paragraph, and how to turn each one into marks through analysis. Think of it as the evidence stage of the essay workflow taught by the [essay-writing hub](/2030/04/01/how-to-write-gatsby-essay/), the point at which gathered material becomes deployed argument, and the [essay-structure guide](/2030/04/15/gatsby-essay-structure/) decides where each deployed fragment lands.
 

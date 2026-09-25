@@ -6,17 +6,17 @@ date: 2030-01-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Fashion History", "Film Costumes", "Cultural Influence", "Style Revivals", "Adaptation"]
 excerpt: "How Great Gatsby shaped fashion across a century: Fitzgerald's novel, films, and designer collaborations turned a stylized Jazz Age look into lasting dress."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-01-28
+lang: en
 ---
-
 ## How Great Gatsby Shaped Fashion: From the Page to the Wardrobe
 
 Few novels have dressed as many strangers as The Great Gatsby. The book itself contains only a handful of famous garments, Daisy's white dresses, the avalanche of Gatsby's shirts, the pink suit that arrives like a social error, yet those few garments have generated a century of hemlines, headpieces, and three-piece suits. The mechanism is the subject of this article: how Great Gatsby shaped fashion not in 1925, when the clothes it described were simply the clothes of its moment, but across the decades after, whenever the novel resurfaced and designers, editors, and retailers reached for it as a pattern book. A book that keeps redressing the culture is the claim this analysis defends, and the evidence runs from the page through the screen into what people actually wear.
 
-![Flapper dresses and sharp suits in the stylized Gatsby look shaped by the novel and its film adaptations - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Flapper dresses and sharp suits in the stylized Gatsby look shaped by the novel and its film adaptations - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The pattern repeats with unusual regularity. A Gatsby adaptation appears, most consequentially the 1974 film and the 2013 film, and within a season the silhouette of the 1920s returns to runways, magazine spreads, and department-store racks. The return is never a faithful restoration. What comes back is the Gatsby look, a stylized composite of beaded dresses, feathered headbands, long ropes of pearls, and aggressively tailored suits that owes as much to Hollywood costume departments as to anything worn on Fifth Avenue in 1925. Keeping those two things apart, the historical 1920s wardrobe and the Gatsby-inflected revival, is the central discipline of this article, because the most common error in discussing the novel's fashion influence is to treat the revival as history. It is not history. It is reception, and reception is a creative act: each generation remakes the 1920s in the image of its own desires and calls the result Gatsby.
 

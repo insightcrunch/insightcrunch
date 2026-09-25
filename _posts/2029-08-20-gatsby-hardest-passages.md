@@ -6,15 +6,15 @@ date: 2029-08-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Literary Criticism", "Essay Writing", "American Literature"]
 excerpt: "The hardest passages in Gatsby to read, gathered and unpacked line by line, with a difficulty audit and reading strategies for every stubborn sentence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-08-20
+lang: en
 ---
-
 "So we beat on, boats against the current, borne back ceaselessly into the past." Most readers meet that sentence, feel something, and could not say what it means if asked. The hardest passages in Gatsby to read are rarely the ones with the longest words. They are the ones where Fitzgerald compresses an abstraction, a physical image, and a shift of grammatical subject into a single clause and then moves on before the reader has caught up. This article gathers those passages, names precisely what makes each one difficult, and supplies a strategy for walking through it.
 
-![The Hardest Passages in Gatsby to Read](/assets/images/blog/blog-01.webp)
+![The Hardest Passages in Gatsby to Read](/assets/images/blog/blog-115.webp)
 
 The premise here is not that Fitzgerald wrote badly or obscurely. It is that a certain kind of sentence asks for a second pass, and that most readers have never been told which sentences those are or what to do when they arrive. A student who knows in advance that the closing paragraph will require slow parsing reads it differently from a student who hits it at midnight and concludes the book has defeated them. Naming the obstacle converts it from a wall into a step.
 

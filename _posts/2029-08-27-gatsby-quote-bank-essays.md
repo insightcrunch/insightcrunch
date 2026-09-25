@@ -6,15 +6,15 @@ date: 2029-08-27
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Essay Writing", "Close Reading", "Themes", "American Literature"]
 excerpt: "Quote banks for Gatsby essays, organized by theme and character, with a deployment method that turns stored quotations into marks rather than decoration."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 38
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-08-27
+lang: en
 ---
-
 "Gatsby believed in the green light, the orgastic future that year by year recedes before us." That single sentence will serve an essay on the American dream, an essay on time, an essay on Gatsby's psychology, and an essay on the novel's structure. Most students learn it and then use it once. Quote banks for Gatsby essays exist to fix that waste: to store a small number of lines that each do several jobs, sorted so the right one surfaces under exam pressure. This article builds the bank and then teaches the harder skill, which is deploying what it holds.
 
-![Quote Banks for Gatsby Essays](/assets/images/blog/blog-01.webp)
+![Quote Banks for Gatsby Essays](/assets/images/blog/blog-30.webp)
 
 This is the closing article of our quotation and language sequence, and it gathers that work into a usable resource. The individual quotation studies elsewhere in the series go deep on single lines. This one goes wide, and it accepts a trade: less analysis per quotation, more coverage, and an organizing principle that makes retrieval fast.
 

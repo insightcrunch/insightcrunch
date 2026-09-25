@@ -6,15 +6,15 @@ date: 2030-02-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Advertising", "Branding", "Adaptations", "American Literature", "Pop Culture"]
 excerpt: "The Great Gatsby in advertising and brands: brands borrow the glamour to sell luxury, ignoring its warning on excess, taking the shine and leaving the judgment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-02-04
+lang: en
 ---
-
 The question that opens this article is the advertiser's question, and it belongs to the reader too: why would anyone sell luxury with a novel about the emptiness of luxury? The Great Gatsby in advertising and brands is one of the strangest chapters in the book's long afterlife. The name that Fitzgerald gave to a bootlegger's doomed fantasy now decorates champagne bottles, clothing lines, hotels, property developments, and parties staged by people who have never read past the cover. The borrowing works because the novel supplies what no invented slogan can supply: a century of accumulated glamour, instantly legible, carrying the whole Jazz Age in two syllables. And the borrowing carries a built-in contradiction, because the thing being sold is the surface of a book whose entire argument is that the surface is empty.
 
-![Art Deco advertisement imagery evoking The Great Gatsby in advertising and brands - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Art Deco advertisement imagery evoking The Great Gatsby in advertising and brands - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 Picture the advertisement, because it is always the same advertisement. A black background, gold Art Deco lettering, a coupe glass of champagne catching the light, a woman in a beaded dress laughing over her shoulder. The word GATSBY sits above it all, and the word does the selling. Nothing in the frame refers to the book as a book. No ashes, no watching eyes, no green light with its ache intact. The ad is selling an evening, and the evening it sells is the one the novel stages in Chapter 3 and then spends six chapters dismantling. The viewer is not expected to know this. The viewer is expected to feel the gold, and the gold is enough, because the culture did the rest of the work in advance.
 

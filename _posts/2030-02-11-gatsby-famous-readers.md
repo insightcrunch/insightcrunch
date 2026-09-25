@@ -6,17 +6,17 @@ date: 2030-02-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "famous readers", "literary fans", "writers on Fitzgerald", "book advocacy", "literary canon"]
 excerpt: "Famous readers and fans of Great Gatsby range from T. S. Eliot to novelists who named it their favorite; documented praise is separated from invented claims."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-02-11
+lang: en
 ---
-
 ## Famous readers and fans of The Great Gatsby
 
 The famous readers and fans of Great Gatsby form a roster that reads like a directory of the people who matter to books. The book that won over the people who matter to books is the claim this article defends, and the evidence is a chain of documented admiration running from the year of publication to the twenty-first century. T. S. Eliot wrote to Fitzgerald in December 1925 that the novel seemed to him the first step American fiction had taken since Henry James. Edith Wharton wrote to Fitzgerald in June 1925 praising the novel while offering candid criticism. Gertrude Stein's admiration is documented in the correspondence and memoir literature of the Paris years. Ernest Hemingway recorded his admiration in A Moveable Feast (1964). John O'Hara repeatedly named the novel the greatest American novel. J. D. Salinger's biographers record that he named the novel his favorite. Haruki Murakami carried it into a new language with his Japanese translation. None of this is invented, and none of it needs to be, because the documented record is stronger than any fabrication. This article exists to separate the documented from the fabricated, to show how the documented chain worked, and to explain why the famous readership of the novel is not decoration on its reputation but part of the machinery that made it.
 
-![Famous readers of The Great Gatsby, the writers and public figures whose documented admiration shaped the novel's stature - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Famous readers of The Great Gatsby, the writers and public figures whose documented admiration shaped the novel's stature - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The stakes of this separation are higher than they look. The novel's reputation attracts false claims the way a famous name attracts false friends. A casual reader can find, with no more effort than a search, confident assertions that this or that celebrity adored the book, that some beloved writer called it the greatest novel ever written, that the endorsements are thicker than they are. Some of those claims are true and some are not, and the reader has no way to tell which is which unless somebody does the documentary work. This article does that work for the famous readers and fans of Great Gatsby. It names only figures whose admiration can be documented, it states the documented relationship in each case rather than a slogan, and it treats the temptation to invent or exaggerate as the complication it is. The result is a smaller roster than a less careful article would print, and a stronger one.
 

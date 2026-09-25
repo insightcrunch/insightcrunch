@@ -6,15 +6,15 @@ date: 2029-12-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "critical reception", "book reviews", "literary reputation", "classic novels", "F. Scott Fitzgerald"]
 excerpt: "Great Gatsby critical reception ran from mixed early reviews and modest sales to a secure classic verdict; this history traces the dramatic reversal in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-12-17
+lang: en
 ---
-
 The Great Gatsby critical reception is one of the strangest verdicts in American letters, because the judgment almost completely reversed itself. In 1925 the novel met mixed reviews and modest sales, a reception that left its author, F. Scott Fitzgerald, disappointed and the book drifting toward obscurity. Over the following decades, and with particular force in the mid-century years, critics returned to the book, reread it, argued over it, and gradually elevated it until it held a secure standing as a classic. A reader who knows only the secure modern stature misses the drama: the book the critics underrated in its moment became the one they most revere. That is the claim this reception history argues, and the evidence runs through every phase of the verdict, from the first puzzled notices to the confident canonization. The stakes are larger than one novel, because the arc shows how literary judgment works in time, how a verdict formed in haste can be undone by patient rereading, and how contingent the making of a classic really is. Consider what hangs on the question. If the rise was steady and inevitable, then the lesson is patience: good books will be recognized, and the critic's job is to wait. If the rise was dramatic and contingent, then the lesson is responsibility: good books are recognized only when someone does the recognizing, and the machinery of recognition, advocacy, editions, teaching, is a human artifact that can be built, neglected, or dismantled. The two lessons point in opposite directions, and only one of them fits the evidence. This article argues for the second, and argues it from the record rather than from theory.
 
-![First edition dust jacket of The Great Gatsby, the book whose mixed 1925 reception later reversed into classic status - Insight Crunch](/assets/images/blog/blog-01.webp)
+![First edition dust jacket of The Great Gatsby, the book whose mixed 1925 reception later reversed into classic status - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 To understand the reversal, it helps to hold the whole arc in view at once. The 1925 reviews praised the prose and doubted the substance. Sales disappointed. Fitzgerald died in 1940 with the book still in print but far from celebrated. Then came the mid-century turn: wartime readers, a landmark 1945 reassessment, a rehabilitating biography in 1951, and a generation of critics who found in the novel the very qualities the first reviewers had missed. From there the verdict hardened into consensus, carried by classrooms, scholarly editions, and a public that made the title shorthand for an entire era.
 

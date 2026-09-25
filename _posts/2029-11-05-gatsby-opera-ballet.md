@@ -6,17 +6,17 @@ date: 2029-11-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Adaptations", "F. Scott Fitzgerald", "Literary Criticism", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby as opera and ballet: Harbison's Metropolitan Opera commission, the narrative ballets, and exactly what survives once the prose is gone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-11-05
+lang: en
 ---
-
 ## The Hardest Adaptation Question
 
 The Great Gatsby as opera and ballet represents the outer limit of the adaptation problem, and that is exactly why these works are worth studying rather than filing under curiosities. A film can keep Fitzgerald's dialogue. A stage play can keep his narration. An opera keeps neither in recognizable form, because sung text moves at a fraction of the speed of spoken text, and a ballet keeps no words at all. These adaptations therefore test the sharpest version of the question every other version asks: how much of this novel survives when the prose is taken away entirely?
 
-![The Great Gatsby as opera and ballet: musical and dance adaptations of Fitzgerald's novel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby as opera and ballet: musical and dance adaptations of Fitzgerald's novel - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The usual reaction is that the answer must be very little, and that a novel this dependent on its sentences cannot survive translation into music and movement. That reaction is understandable and it is wrong in an instructive way. What the opera and the ballets demonstrate is that a substantial portion of the novel is not verbal at all. Gatsby standing on his lawn with his arms stretched toward the dark water is a posture. Daisy weeping into a heap of shirts is an action. Tom leaning aggressively forward is a physical fact. The reunion, the confrontation, the parties, and the drowned mattress are all events that a body or an orchestra can carry.
 

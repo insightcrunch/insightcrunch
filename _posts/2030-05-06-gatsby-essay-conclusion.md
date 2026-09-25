@@ -6,19 +6,19 @@ date: 2030-05-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Essay Writing", "Study Skills", "AP Literature", "Literary Analysis", "Exam Strategy"]
 excerpt: "How to write a Gatsby conclusion: consolidate the argument, answer so-what, and reach for significance without summary or new evidence, with worked closings."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2030-05-06
+lang: en
 ---
-
 ## How to Write a Gatsby Conclusion That Answers So-What
 
 The last paragraph of a Great Gatsby essay is where the argument either lands or leaks away. A reader who has followed four body paragraphs of careful evidence about Daisy Buchanan, the green light, or Nick Carraway arrives at the final paragraph with one question, whether the reader says it aloud or not: why did this argument matter? The conclusion is the only paragraph whose job is to answer that question directly. Everything before it proves the claim. The conclusion tells the reader what the proof was for. Writers who understand this write closings that feel like resolution. Writers who do not write closings that feel like the essay ran out of pages.
 
 The namable claim of this guide is the close that answers so-what: a strong Gatsby conclusion consolidates the argument and reaches to its significance, so its work is not summary but resolution, leaving the reader with why the argument mattered rather than a restatement of what was already said. Keep this standard in mind as the measure for every draft closing: a strong conclusion consolidates the argument and reaches to significance without merely summarizing or adding new evidence. Every sentence of the final paragraph should be testable against that sentence. If a sentence restates what the body already said in the same terms, it is summary. If a sentence introduces a passage, character, or idea the body never discussed, it is new evidence. If a sentence does neither of those things and instead gathers the argument and states its significance, it is doing the conclusion's work.
 
-![A student writing a strong Great Gatsby essay conclusion that consolidates the argument - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student writing a strong Great Gatsby essay conclusion that consolidates the argument - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 That standard needs unpacking, because two of its key terms get misread. Consolidation is not repetition with different words. A conclusion that says "As shown, Daisy is careless, as shown by the car accident and the Plaza scene, and as shown by Nick's judgment" has not consolidated anything. It has listed the body paragraphs in shorter form, and the reader learns nothing from the final paragraph that the third body paragraph did not already teach. Consolidation means restating the argument at a higher level of generality than any single body paragraph reached: the thesis, which the introduction stated as a promise, returns here as a result, changed by the evidence it has passed through. The reader should feel the claim coming back heavier, carrying the weight of the proof behind it.
 

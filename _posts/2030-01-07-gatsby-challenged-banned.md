@@ -6,15 +6,15 @@ date: 2030-01-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "book challenges", "censorship history", "school reading lists", "literary controversy", "classroom debates"]
 excerpt: "why Great Gatsby challenged banned draws searches; this neutral account sets out the language, sexual-reference, and adult-theme objections and the defenses."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-01-07
+lang: en
 ---
-
 A parent sits at a kitchen table the night before a school board meeting, a copy of the assigned novel open beside a printed complaint form, trying to decide whether the book her teenager is reading belongs in a classroom at all. A teacher across town stays late drafting a written rationale for the same book, anticipating the same meeting, preparing to explain why a story of adultery and murder has held its place in the curriculum for generations. A student between them types why Great Gatsby challenged banned into a search box, hoping for a straight answer instead of a slogan. The stakes in that small triangle are real: the parent's sense of responsibility, the teacher's professional judgment, and the student's curiosity all deserve better than a shouting match. What they need is a record, stated plainly, of what the objections have actually been, where they have arisen, and how they have been answered.
 
-![A school board meeting room with rows of empty chairs facing a long table, evoking the formal settings where book challenges are heard - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A school board meeting room with rows of empty chairs facing a long table, evoking the formal settings where book challenges are heard - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The namable claim of this article is direct. A classic occasionally contested: the novel has drawn occasional challenges over its language, sexual references, and adult themes, so its censorship history, though minor next to its canonical status, is worth understanding factually, the objections and the defenses both part of the record a fair account presents. That sentence governs everything that follows. The novel has occasionally been challenged over language, sexual references, and adult content, though it remains a standard text. The challenges are occasional, not systematic, and nothing in this article will inflate them into a persecution narrative or deflate them into a joke. The objections were stated by real people in real meetings, the defenses were stated by real people in real meetings, and a fair account presents both without endorsing either.
 

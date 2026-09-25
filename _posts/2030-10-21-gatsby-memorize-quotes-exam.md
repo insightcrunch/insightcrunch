@@ -6,15 +6,15 @@ date: 2030-10-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "exam strategy", "memorization", "quotations", "study guides"]
 excerpt: "Memorizing Gatsby quotes for closed-book exams rewards curation: a few short, versatile quotations retained through active recall, each ready to earn its place."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-10-21
+lang: en
 ---
-
 Memorizing Gatsby quotes for closed-book exams is not a storage problem. It is a selection problem wearing a memory costume. Walk into any study hall in the weeks before a literature examination and the scene repeats: a student bent over a list of forty quotations, highlighter in hand, rereading the same page of notes for the third hour, convinced that more lines remembered means more marks earned. The examiners who set the paper see the other side of that bargain. They mark answers, not inventories. The essay that drops in eleven quotations and analyzes none of them scores lower than the essay that deploys four and reads every one. The difference is not talent. It is method, and the method has a name worth carrying into revision: a few versatile quotes beat a long forgotten list.
 
-![A student organizing a small set of Gatsby quotation cards for closed-book exam revision, arranging short versatile lines into themed groups](/assets/images/blog/blog-01.webp)
+![A student organizing a small set of Gatsby quotation cards for closed-book exam revision, arranging short versatile lines into themed groups](/assets/images/blog/blog-92.webp)
 
 That sentence is the whole argument of this guide, and it will be tested against every complication the topic throws up. The claim is that efficient memorization selects a small, versatile set of short quotes and retains them through active recall, which makes the skill curation as much as memory. A small set can be known properly: each line can be attached to several themes, each theme can be reached by several lines, and the whole network can be kept alive with short, regular retrieval sessions. A long list can only be half-known, and half-known quotations are the most expensive items a student can carry into an examination hall. They cost study hours to acquire, they cost retrieval effort to locate under pressure, and they pay back little, because a line you cannot place, date, and read will sit in your paragraph like a borrowed ornament rather than a working tool.
 

@@ -6,12 +6,12 @@ date: 2030-06-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "IB English", "Essay Strategy", "Global Issues", "Symbolism", "Literary Concepts"]
 excerpt: "Great Gatsby for IB English works when students treat the novel as a global-issues text. This guide maps its symbols, narration, and themes to each assessment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-06-17
+lang: en
 ---
-
 Most students arrive at the International Baccalaureate with a reflex built by years of school essays: find the theme, find three quotes, arrange them into introduction, body, and conclusion, and trust that clean writing will carry the grade. The Diploma Programme rewards something else. Its English courses ask students to read literature through global issues and conceptual lenses, to connect a text to the world beyond its pages, and to show that connection working inside several different kinds of assessment. A student can write a fluent, well-structured essay about The Great Gatsby and still miss what the programme measures, because fluency was never the main thing being measured.
 
 The claim at the center of this guide can be stated in one line: a global-issues novel for a global programme. The novel suits IB English for its symbols, global themes, and narration, and works across the IB assessments. Its symbols compress large claims into small, quotable images. Its themes, wealth, class, gender, identity, belong to issues that cross borders. Its narrator gives students a second analytical object inside the first, a perspective to argue with rather than a story to retell. And the book is short enough, dense enough, and layered enough to serve the comparative essay, the Higher Level essay, the individual oral's global-issue discussion, and close-reading practice at the same time.
@@ -24,7 +24,7 @@ This is also why the choice of text matters less than what the student does with
 
 This guide follows the series' practical standard: turning exam preparation into a usable guide, with worked examples on the novel rather than advice floating above it. Readers who want the general essay craft behind this strategy will find it in [the series' essay-writing hub](/2030/04/01/how-to-write-gatsby-essay/), which covers thesis, structure, and evidence at length. What follows here is IB-specific: how the novel's machinery fits the programme's demands, how to frame it through global issues and concepts, how each assessment component uses the same book differently, and what study routines convert a reread into assessment-ready material.
 
-![A student annotating a copy of The Great Gatsby with notes on symbols and global issues, representing IB English exam preparation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student annotating a copy of The Great Gatsby with notes on symbols and global issues, representing IB English exam preparation - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ### What makes Fitzgerald's symbols portable across IB tasks?
 

@@ -6,17 +6,17 @@ date: 2030-04-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Essay Strategy", "Thesis Statements", "Exam Technique", "Literary Analysis", "Study Skills"]
 excerpt: "How to write a Gatsby thesis statement that earns marks: the arguable, specific, defensible standard, worked before-and-after examples, and exam tactics."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2030-04-08
+lang: en
 ---
-
 ## How to Write a Gatsby Thesis Statement
 
 Every Gatsby essay is won or lost in a single sentence. Before the introduction has finished, before the first quotation has been placed on the page, the reader of the essay knows whether the writer has something to argue or only something to describe. That knowledge comes from the thesis statement, the one sentence that says what the essay will defend. Students who learn how to write a Gatsby thesis statement well gain the single highest-leverage skill in the whole essay process, because every later decision, which passages to use, which paragraphs to write, which objections to answer, is made easier or harder by the quality of that sentence. The claim this article defends is compact enough to state at once: a strong Gatsby thesis is arguable, specific, and defensible, and the difference between a paper that argues and a paper that merely describes comes down to whether the claim makes a claim worth defending.
 
-![Student writing a thesis statement for a Great Gatsby essay - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Student writing a thesis statement for a Great Gatsby essay - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 That claim sounds simple, and simple is exactly what makes it dangerous to underestimate. Most weak Gatsby essays do not fail because the writer misunderstood the novel. They fail because the writer never made a claim at all. The essay announces a topic, Gatsby and the American Dream, or records an observation, the green light appears at the end of chapter one, and then spends a thousand words circling that topic or observation without ever saying anything a thoughtful reader could disagree with. A reader who cannot disagree has nothing to be persuaded of, and an essay with nothing to persuade is a summary wearing an introduction. The claim is the mechanism that prevents this. It converts a subject into an argument by committing the writer to a position that could be wrong, and the possibility of being wrong is what gives the essay its energy. An arguable thesis creates work for the essay to do: it must be supported, it must survive objections, it must earn its conclusion. A topic creates no such work, which is why essays built on topics drift.
 

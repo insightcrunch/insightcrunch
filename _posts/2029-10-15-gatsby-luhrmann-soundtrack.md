@@ -6,17 +6,17 @@ date: 2029-10-15
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Adaptations", "F. Scott Fitzgerald", "Literary Criticism", "Close Reading", "American Literature"]
 excerpt: "How Luhrmann's soundtrack reframes Gatsby: why the 2013 film's anachronistic hip-hop works as a deliberate translation of Fitzgerald's music, not a gimmick."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-10-15
+lang: en
 ---
-
 ## The Question a Song Cue Asks
 
 The most argued-about decision in Baz Luhrmann's 2013 film is not a plot change, a cut character, or a framing device. It is a sound. Understanding how Luhrmann's soundtrack reframes Gatsby means confronting the fact that a movie set in the summer of 1922 plays contemporary hip-hop and pop over its parties, its car rides, and its central romance, and that this was not an accident of production but the organizing interpretive choice of the whole picture. Every other liberty the film takes follows from it.
 
-![How Luhrmann's soundtrack reframes The Great Gatsby through anachronistic music - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Luhrmann's soundtrack reframes The Great Gatsby through anachronistic music - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 That choice divides viewers more sharply than any other element of the film, and the division tends to be unproductive. One camp calls it a gimmick, a music-video reflex applied to a novel that deserved period fidelity. The other camp calls it bold and stops there, as though boldness were itself an argument. Both responses skip the interesting question, which is whether the anachronism does interpretive work on the book. It does. The claim this article defends is that the 2013 soundtrack is a translation rather than an error: it takes a quality of the novel that period-accurate music can no longer deliver to a modern listener, the quality of shock, and re-creates that shock by other means.
 

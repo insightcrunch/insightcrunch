@@ -6,15 +6,15 @@ date: 2030-09-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Essay Writing", "Literary Analysis", "Study Guide", "Exam Strategy", "Writing Tips"]
 excerpt: "Learning how to write about Fitzgerald's methods turns technique-spotting into analysis: name each device, show its effect, and explain the choice behind it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2030-09-09
+lang: en
 ---
-
 Learning how to write about Fitzgerald's methods is the single skill that separates a competent Gatsby essay from a strong one. Most students can spot a technique. They can point at the green light, name the retrospective narration, and label a long sentence as cumulative syntax. The essay then stalls, because spotting is not arguing. The namable claim of this guide is simple and load-bearing: a method is a choice with an effect, and the essay names both. Every technique Fitzgerald uses was a decision, and every decision does work on the reader. The writer's job is to connect the two, showing how a particular device produces a particular meaning, and then explaining why that connection matters to the argument of the essay. Do that consistently, and the essay stops reading as a list of features and starts reading as analysis.
 
-![A student annotating The Great Gatsby for narrative method and technique - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student annotating The Great Gatsby for narrative method and technique - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The distinction matters because examiners do not reward the number of devices a writer can name. They reward the quality of the thinking done with each device. A paragraph that identifies three techniques and explains none of them scores lower than a paragraph that takes one technique and traces its effect through a passage, a character, and an idea. This guide teaches the second kind of writing. It stays deliberately on the essay skill itself: how to frame a technique as a deliberate authorial choice, how to move from device to effect in a single controlled sentence, how to keep methods writing tethered to the thesis, and how to revise weak technique writing into strong effect analysis. The technique content itself, the full account of how Fitzgerald's prose, narration, and symbolism work, lives in the craft articles of this series, and this guide links to those where the detail belongs. What lives here is the portable skill of writing about methods at examination standard.
 

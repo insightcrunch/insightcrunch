@@ -6,12 +6,12 @@ date: 2030-09-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "essay writing", "model paragraphs", "exam strategy", "study guides"]
 excerpt: "Model paragraphs for Gatsby essays turn advice into craft: annotated examples show how point, embedded evidence, and analysis combine to reach the top band."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-09-16
+lang: en
 ---
-
 Strong writing is shown, not just described. That is the claim this article tests, and it states it at the start so every paragraph that follows can be measured against it: a set of model paragraphs for Gatsby essays, each sentence annotated to name the move it makes, teaches more about analytical writing than any catalogue of rules. Rules name the parts. Models show the parts working. When a reader watches a point get made, then sees evidence folded into the sentence that carries it, then watches that evidence get read closely for what its language does, the abstract advice about analysis stops being a slogan and becomes a visible sequence. That sequence is what the annotated examples below make concrete, sentence by sentence, so that the components the stage articles describe can be seen combining on the page.
 
 The stage articles exist to teach the components separately, and this article is built to keep a clean boundary with them. One teaches how to frame a thesis, another how to order an argument, another how to choose and place quotations, others how to open and close an essay. This article owns the model-paragraphs resource alone. It does not re-teach the thesis, because the thesis article owns that ground. It does not rehearse the essay skeleton, because the structure article owns that ground. What it owns is the finished paragraph as a unit: the moment where claim, quotation, and commentary stop being three items on a checklist and become one continuous piece of thinking. That ownership matters, because it is the difference between knowing the vocabulary of analysis and being able to hear the music of it in a paragraph that holds together.
@@ -42,7 +42,7 @@ The analysis strand is where the paragraph earns its mark, and it is the strand 
 
 The braid image also explains why the models resist being reduced to formulas. A formula assigns each sentence a fixed job: sentence one makes the point, sentence two gives the quotation, sentence three analyzes. The models show sentences doing double duty constantly: the tension sentence also introduces the evidence, the embedding sentence also begins the analysis, the development sentence also returns to the claim. That doubling is what makes the paragraphs feel like thinking rather than assembly, and it is why the annotation sometimes names more than one effect for a single sentence. Writers learning from the set should aim for that doubling deliberately. A sentence that only does one job is not wrong, but a sentence that does two is stronger, and the strongest paragraphs in the set are the ones where every sentence carries more than its label. Unity, in the end, is not the absence of parts but the density of their overlap.
 
-![A student studying annotated model paragraphs for Gatsby essays, with quotations and margin notes showing point, evidence, and analysis working together](/assets/images/blog/blog-01.webp)
+![A student studying annotated model paragraphs for Gatsby essays, with quotations and margin notes showing point, evidence, and analysis working together](/assets/images/blog/blog-72.webp)
 
 ### What makes a point arguable rather than factual?
 

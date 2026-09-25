@@ -6,15 +6,15 @@ date: 2029-10-08
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "2013 Film", "Adaptations", "Close Reading", "Literary Criticism", "American Literature"]
 excerpt: "Book vs movie: the 2013 Gatsby compared scene by scene, mapping every major change, cut, and addition in Luhrmann's adaptation against Fitzgerald's novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 39
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-10-08
+lang: en
 ---
-
 Book vs movie: the 2013 Gatsby compared against its source produces a result that surprises most people who expect one answer or the other. Baz Luhrmann's adaptation has a reputation for taking liberties, and the reputation is half right. The liberties are real, but they are concentrated in a small number of places, and the plot itself survives with a fidelity that would satisfy a checklist. What changes is not what happens. What changes is who is telling it, why, and how it reaches you.
 
-![Book vs movie: the 2013 Gatsby compared](/assets/images/blog/blog-01.webp)
+![Book vs movie: the 2013 Gatsby compared](/assets/images/blog/blog-75.webp)
 
 That distribution is the finding, and it is worth stating before any detail. A viewer arriving from the novel will recognize almost every event in sequence. The same viewer will find the experience of the story transformed, because Luhrmann and his co-writer Craig Pearce added a frame that reassigns the narration a motive, converted the novel's symbols from described images into visible objects, and staged the parties as an assault on the senses. Each of those is a decision about interpretation rather than about plot, and together they add up to a different reading of the same events.
 

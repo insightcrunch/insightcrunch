@@ -6,15 +6,15 @@ date: 2029-10-01
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "1926 Film", "Adaptations", "Context", "Literary Criticism", "American Literature"]
 excerpt: "The lost 1926 Gatsby silent film explained: Herbert Brenon's vanished first adaptation, the one surviving trailer, and what its loss teaches about the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 40
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-10-01
+lang: en
 ---
-
 The lost 1926 Gatsby silent film is the only screen version of Fitzgerald's novel that its author saw, and it is the only one nobody alive has watched. Roughly a minute of promotional footage survives. Everything else is gone: no print in any archive, no negative, no reliable rumor that has ever produced a reel. What remains is a trailer, a set of production stills, a body of contemporary reviewing, a studio ledger, and one blunt sentence from Zelda Fitzgerald recording that the couple walked out.
 
-![The lost 1926 Gatsby silent film](/assets/images/blog/blog-01.webp)
+![The lost 1926 Gatsby silent film](/assets/images/blog/blog-66.webp)
 
 A missing object seems like a poor subject for analysis, and most surveys treat it as a footnote before moving on to versions that can be watched. That is a mistake on two counts. First, the absence is itself a fact worth reading: it belongs to a pattern of loss that removed the majority of American silent cinema, and understanding that pattern changes how anyone thinks about film history's completeness. Second, and more useful for a reader of the book, this adaptation was made at a moment when The Great Gatsby had no reputation to protect. Every later version is negotiating with a monument. This one was negotiating with a recent novel that had disappointed commercially, and the negotiation it produced tells you what the story looked like before anybody decided it was important.
 

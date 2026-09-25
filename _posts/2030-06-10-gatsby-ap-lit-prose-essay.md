@@ -6,12 +6,12 @@ date: 2030-06-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "AP Literature", "prose essay", "close reading", "timed writing", "Fitzgerald"]
 excerpt: "Writing the AP Lit prose essay on Gatsby rewards close reading against the clock: annotate fast, form a thesis early, and connect technique to meaning."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-06-10
+lang: en
 ---
-
 Close reading against the clock. That phrase names the entire discipline behind the prose-analysis essay, and it is the standard this guide holds every paragraph of student writing to. The AP Lit prose-analysis essay asks students to analyze a given passage's techniques and meaning, and a Gatsby excerpt rewards close attention to its prose. Most students arrive at this task with two habits that fight each other: they either read the passage the way they would read for pleasure, drifting through the language without marking anything, or they panic and start hunting for literary terms like a scavenger hunt, circling metaphors and symbols without asking what any of it proves. Both habits fail the task. The method below replaces them with a timed routine: read with a pencil, mark what the language is doing, commit to a thesis before drafting, and make every paragraph argue that the technique you spotted produces the meaning you claim. A Gatsby passage is the ideal training ground because Fitzgerald's sentences carry so much craft per line that a careful reader never runs out of material, and a careless reader reveals every gap in their method within minutes.
 
 The reason this essay rewards a method rather than inspiration is that the prompt never rewards what students wish it rewarded. It does not ask for a summary of the passage, it does not ask for a general essay about the novel, and it does not ask for a list of every device the student can name. It asks for an analysis of how the author's techniques create the passage's meaning, produced under real time pressure, and graded on how convincingly the argument holds together. Students who practice with random passages and vague feedback stay vague. Students who practice with a repeatable method get sharper every week. For the broader AP Literature picture, including how the three essays divide the exam's writing work, [the AP hub](/2030/05/27/gatsby-ap-literature/) maps the full exam terrain this guide assumes. What follows stays inside one task: the prose-analysis essay, practiced on Gatsby, built to survive the clock.
@@ -30,7 +30,7 @@ The structure of the method is straightforward, and straightforward is what surv
 
 The complication this guide argues against, directly and repeatedly, is the habit of listing literary devices without arguing meaning. A paragraph that names a metaphor, a simile, and a symbol, then moves on, has described the passage's inventory without analyzing it. Graders read that paragraph and learn that the student owns a vocabulary list; they learn nothing about what the passage means. The fix is not to learn fewer terms but to change what follows each term: a device name must be followed by a because-clause, a so-that clause, a sentence that says what the device does to the reader's understanding of the passage. "Fitzgerald uses a simile" is a label. "Fitzgerald's simile makes Gatsby's guests look like insects drawn to light, which turns the party's glamour into something mindless and consumable" is an argument. The whole method trains that second sentence.
 
-![AP Lit prose essay study setup with annotated Gatsby passages](/assets/images/blog/blog-01.webp)
+![AP Lit prose essay study setup with annotated Gatsby passages](/assets/images/blog/blog-72.webp)
 
 ### What does the prose-analysis essay actually ask a student to do?
 

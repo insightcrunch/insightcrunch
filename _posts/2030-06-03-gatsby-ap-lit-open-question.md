@@ -6,15 +6,15 @@ date: 2030-06-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "AP Literature", "AP Exam Strategy", "Essay Writing", "Question 3", "Study Guide"]
 excerpt: "Gatsby on the AP Lit open-ended question rewards matching over reciting: pair its symbols, characters, and themes with each prompt and build a timed argument."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2030-06-03
+lang: en
 ---
-
 Gatsby on the AP Lit open-ended question is a pairing problem, not a memory test. The open-ended essay asks students to select a work of literary merit and argue a stated prompt through it, and the students who score well are not the ones who know the novel best in the abstract. They are the ones who, under the clock, choose the few Gatsby elements that answer this particular prompt and then argue something with them. The namable claim of this guide is that the novel matched to the prompt, not recited, is what earns the score: Gatsby's symbols, characters, and themes must be selected to fit the question asked, and the skill that matters is selection plus argument, the two moves the task explicitly rewards and the plot summary it explicitly penalizes being the commonest way students waste the novel.
 
-![A student matching Gatsby's symbols and themes to an exam prompt - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student matching Gatsby's symbols and themes to an exam prompt - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 That claim runs against the instinct most students bring to the exam room. The instinct says that knowing the book thoroughly is the preparation, that the essay is a display of everything retained across nine chapters of F. Scott Fitzgerald's 1925 novel, and that the grader will be impressed by completeness. The exam does not reward completeness. Each free-response essay is scored on a six-point scale that credits a defensible thesis, evidence selected and explained in service of that thesis, and a degree of sophistication in the reading. Nowhere in that scheme is there a point for covering the whole novel, and there is a quiet penalty, visible in thousands of middling scores, for essays that retell the story where they should be making a case. The student who writes forty minutes of accurate plot has demonstrated reading, not thinking, and the score reflects the difference.
 

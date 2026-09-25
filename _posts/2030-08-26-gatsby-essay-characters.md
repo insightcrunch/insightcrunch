@@ -6,16 +6,17 @@ date: 2030-08-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gatsby essay writing", "character interpretation method", "essay technique", "exam strategy", "close reading skills"]
 excerpt: "Learn how to write about Gatsby's characters in an essay: argue an interpretation of each figure as built by technique, with evidence carrying the claim."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-08-26
+lang: en
 ---
 Learning how to write about Gatsby's characters in an essay changes the moment you accept one claim: a character is a construction to interpret, not a person to describe. Jay Gatsby, Daisy Buchanan, Nick Carraway, Tom Buchanan, Jordan Baker, Myrtle Wilson, George Wilson, and Meyer Wolfsheim do not exist. They are effects produced by sentences, scenes, images, dialogue, and narrative decisions, and an essay earns its marks by arguing what those decisions build, not by narrating what the figure does. The weak character essay reads like a biography of someone who never lived. The strong one reads like a case for a reading, grounded in how the text constructs the figure, and it wins because every paragraph advances an interpretation rather than retelling a plot.
 
 Most students arrive at the character essay with the wrong reflex. They summarize. They write that Gatsby throws parties to attract Daisy, that Daisy chooses Tom, that Myrtle dies in the road, as though the examiner had not read the book. They treat Nick as a friend whose reliability they are judging, Daisy as a woman whose morals they are grading, and Tom as a bully they are condemning. This is narrating, and it is the complication this article exists to defeat. Narrating describes; arguing interprets. The examiner rewards the student who can say not only what a figure does but what the figure is made of on the page, and why that making matters to the novel's meaning.
 
-![Student annotating a character essay plan for The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Student annotating a character essay plan for The Great Gatsby - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 This article owns one skill and one skill only: writing about characters in essays. It does not rehearse who the figures are, what their arcs contain, or how the cast maps together. That content belongs to the series' [complete map of the novel's characters](/2022/02/07/great-gatsby-characters-complete-map/), and this article routes you there whenever character content is needed, keeping the two territories clean. Here you learn the method: how to argue an interpretation of a character, how to read a figure as constructed by technique, and how to let textual evidence carry your claim while plot stays in the background where it belongs.
 

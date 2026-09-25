@@ -6,15 +6,15 @@ date: 2030-10-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "exam marking", "mark scheme", "essay strategy", "study guides", "exam technique"]
 excerpt: "How examiners mark Gatsby essays: write to the published criteria, argue from embedded evidence, and let close analysis carry every paragraph to its band."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-10-14
+lang: en
 ---
-
 Most students write their Gatsby essay for the reader they imagine, and the reader they imagine is generous. That imaginary reader admires the effort, forgives the drift, notices the hours of revision behind the work, and finds something kind to say about every page. Understanding how examiners mark Gatsby essays begins by replacing that fantasy with the reality of the marking table. The real reader is a trained assessor working through a long stack of scripts in limited time, measuring each one against published criteria that name exactly what scores: argument, analysis, evidence, and context. The mindset of that reader decides the mark long before the final paragraph has been read, and it rewards a narrower set of things than most students expect.
 
-![An examiner reading a student Gatsby essay at a desk, with the published mark scheme and annotated script pages showing how argument and analysis are rewarded](/assets/images/blog/blog-01.webp)
+![An examiner reading a student Gatsby essay at a desk, with the published mark scheme and annotated script pages showing how argument and analysis are rewarded](/assets/images/blog/blog-08.webp)
 
 The claim of this article is simple enough to state in one sentence and consequential enough to change how a student writes: writing to the mark scheme, not against it, is the single most reliable way to move an essay across a grade boundary. Everything else in these pages serves that claim. The gap between what feels impressive to a writer and what scores with a marker is the whole subject here, and the gap is wider than it looks. Effort is real and admirable, and the mark scheme does not pay for it. Length is visible and reassuring, and the criteria do not count words. A beautifully decorated paragraph that never argues will lose to a plain paragraph that argues cleanly, because the examiner is not judging the essay as a performance of diligence. The examiner is judging it as an answer to a question, weighed against a published standard that the student was always allowed to read.
 
