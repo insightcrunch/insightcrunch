@@ -6,17 +6,17 @@ date: 2005-02-06
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "german-society", "nazi-regime", "ordinary-germans", "collaboration-resistance"]
 excerpt: "Popular memory sorts Germans into good and Nazi groups. The good Germans Nazi Germans myth hides a spectrum of complicity, dissent, and opposition in between."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-02-06
+lang: en
 ---
-
 ## The Verdict
 
 Popular memory divides the German population of the Third Reich into two neat boxes. The first box holds the Nazis: committed Party members, SS men, Gestapo officers, and camp guards. The second box holds the good Germans: resisters, quiet conservatives, and people who insist they were forced to comply. The good Germans Nazi Germans myth treats these boxes as stable, cleanly separated, and morally complete: one group committed the crimes, the other opposed them or had nothing to do with them. This sorting flattered the postwar conscience, and it also misdescribes how the dictatorship functioned.
 
-![Wehrmacht troops and civilian onlookers in an occupied town, illustrating the overlap between perpetrator and bystander categories - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Wehrmacht troops and civilian onlookers in an occupied town, illustrating the overlap between perpetrator and bystander categories - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The verdict: the binary fails as description even though it succeeds as comfort. Between committed perpetrators and committed resisters stood a broad middle of participation, from ideological support without operational crimes to passive benefit, opportunism, conformity without conviction, and private dissent that changed nothing. The categories shifted over time, sometimes within a single biography. Wehrmacht personnel records, Einsatzgruppen operational records, denazification files, and the diaries of ordinary people document soldiers who never joined the Party yet took part in anti-partisan killings, civilians who welcomed the movement in 1933 without endorsing murder yet staffed the war economy, and resisters who had earlier served the state's institutions. The evidence supports a spectrum of complicity, not a sorting line.
 

@@ -6,12 +6,12 @@ date: 2005-01-20
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "churchill-speech", "post-dunkirk", "defiance-rhetoric"]
 excerpt: "The Churchill fight on the beaches speech turned Dunkirk into a vow. Its anaphora moved from France to the hills, and its ending summoned Empire and New World."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-01-20
+lang: en
 ---
-
 ## The Verdict
 
 The Churchill fight on the beaches speech, delivered in the House of Commons on the afternoon of June 4 1940, is the most analyzed thirty-five minutes in the history of British parliamentary oratory, and the analysis is justified. The address had to perform an almost impossible set of tasks in a single sitting: to report the near-miraculous rescue of the British Expeditionary Force from Dunkirk, to admit the catastrophic loss of its equipment, to describe the collapsing French position without false comfort, to warn of invasion, to refuse any negotiation, to summon the Empire, and to appeal to the United States, all while keeping a divided War Cabinet and a frightened nation behind a single policy of continued war. It accomplished all of this inside a structure that moved from factual accounting to moral vow, and it closed with the most famous anaphoric sequence in modern political rhetoric: we shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.
@@ -20,7 +20,7 @@ The central judgment of this close read is that the speech worked because its fo
 
 This close read walks through the entire address, the moment that produced it, the audiences it served, the political crisis it closed, and the historiographical arguments it continues to generate. It treats the speech as an instrument of democratic rhetoric under extreme pressure: committee architecture at work, a prime minister accountable to a parliament, addressing a mass public through the press and the radio, building an alliance across an ocean, and foreclosing a peace negotiation with a single public vow.
 
-![Churchill delivering the fight on the beaches speech in the House of Commons on June 4 1940 - Insight Crunch](/assets/images/blog/blog-24.webp)
+![Churchill delivering the fight on the beaches speech in the House of Commons on June 4 1940 - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 ### What did Churchill say in the fight on the beaches speech?
 

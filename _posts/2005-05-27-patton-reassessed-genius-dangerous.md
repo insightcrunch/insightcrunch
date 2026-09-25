@@ -6,13 +6,13 @@ date: 2005-05-27
 categories: ["Leisure"]
 tags: ["World War 2", "consensus-flip", "patton-assessment", "third-army", "operational-brilliance", "personal-controversies"]
 excerpt: "Patton drove the Third Army across France at speed, struck shell-shocked soldiers, and shamed his uniform with bigotry. Genius and menace wore one command."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-05-27
+lang: en
 ---
-
-![General George S. Patton in the European theater](/assets/images/blog/blog-03.webp)
+![General George S. Patton in the European theater](/assets/images/blog/blog-112.webp)
 
 ## The Verdict
 

@@ -6,12 +6,12 @@ date: 2004-11-10
 categories: ["Leisure"]
 tags: ["World War 2", "institutional-biography", "combined-chiefs-of-staff", "anglo-american-coalition", "arcadia-conference"]
 excerpt: "The Anglo-American Combined Chiefs of Staff invented coalition warfare: Marshall and Brooke, Dill's bridge, and every Allied campaign steered together as one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2004-11-10
+lang: en
 ---
-
 ## The Verdict
 
 The Anglo-American Combined Chiefs of Staff was the most consequential military institution built by any coalition in the Second World War, and it remains the ancestor of every standing allied command the democratic powers have operated since. Founded at the Arcadia Conference in December 1941 and January 1942, it fused the American Joint Chiefs of Staff with the British Joint Staff Mission in Washington into a single working body that met some two hundred times, coordinated every major Anglo-American operation from Torch to the final Pacific campaigns, and absorbed frictions that would have broken a lesser institution. Its achievement was not that it eliminated disagreement between allies. Its achievement was that it made disagreement survivable, productive, and subordinate to shared decisions.
@@ -20,7 +20,7 @@ This institutional biography argues three things. First, the Combined Chiefs of 
 
 The complication is stated plainly because the record demands it. The CCS was an Anglo-American institution in a war that required Anglo-American-Soviet victory, and its architecture reflected that asymmetry. The Soviet absence was not an oversight but a structural fact: Stalin's regime preferred state-level summit and military-mission coordination to staff-level integration with Western generals, and neither Washington nor London pressed hard to change that preference. What resulted was a bifurcated coalition system, superb staff integration in the West alongside diplomatically mediated coordination with Moscow, and the postwar world was shaped by that bifurcation as much as by any battlefield outcome. The CCS deserves its reputation as the institution that was the coalition, but the coalition it was, was two-thirds of the whole.
 
-![Senior Allied military leaders conferring on wartime coalition strategy during the Second World War - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Senior Allied military leaders conferring on wartime coalition strategy during the Second World War - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The judgment of the historical record is that no Axis institution approached the CCS in sustained coordinating power. Germany and Japan never built a combined chiefs equivalent; the Tripartite Pact supplied a signature without machinery. Italy received briefings rather than partnership. Even within Germany, the competing command structures of OKW and OKH, compounded by Hitler's habit of ruling through division, prevented the kind of integrated staff work that CCS made routine. The Axis fought as three separate wars sharing enemies. The Anglo-Americans, through CCS, fought increasingly as one war with two national staffs, and that difference compounded over four years into the logistical and operational superiority that decided the conflict in the West and Pacific alike.
 

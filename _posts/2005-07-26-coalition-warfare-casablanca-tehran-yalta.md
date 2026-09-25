@@ -6,19 +6,19 @@ date: 2005-07-26
 categories: ["Leisure"]
 tags: ["World War 2", "pattern-analysis", "coalition-warfare", "big-three-summits", "combined-chiefs", "allied-coordination"]
 excerpt: "Roosevelt and Churchill met eleven times; the Big Three met at Tehran, Yalta, and Potsdam. This is the pattern of coalition warfare that decided the war."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-07-26
+lang: en
 ---
-
 ## The Verdict
 
 The coalition warfare pattern of the Second World War is the conflict's most important institutional fact, and it is the least dramatic to describe. The war's histories center on battles and commanders, and the imagination fastens on the landing craft, the tank column, and the bomber stream. But the Allied victory was organized before it was fought, and the organizing took the form of an institutional innovation without precedent: a system of summit meetings among the Allied heads of government, sustained across more than four years, that produced strategic decisions at the highest level and transmitted them to a permanent combined military staff for operational implementation. The pattern is visible in the count. Roosevelt and Churchill met eleven times during the war. The Big Three met as three at Tehran, at Yalta, and at Potsdam. The Combined Chiefs of Staff met continuously from early 1942 through 1945, providing the permanent institutional machinery between the summits. No coalition in history had coordinated at this scale, at this tempo, and at this level of seniority. The Axis, by contrast, never held a three-power summit at all. The structural contrast is the pattern, and the pattern supports the house thesis at maximum intensity.
 
 The scale of the innovation becomes clear when the summit system is placed against the full span of coalition warfare before 1945. Earlier coalitions had coordinated through ambassadors, through occasional ministerial conferences, and through the exchange of military missions. None had created anything resembling the Allied architecture: periodic meetings of heads of government with their full military staffs present, producing written directives that a standing combined staff then converted into operational plans, with the combined staff's unresolved questions returning upward to the next summit for decision. The Arcadia Conference of December 1941 and January 1942 established the template within weeks of American entry into the war. Casablanca in January 1943 proved the template could handle multiple simultaneous strategic decisions. Tehran in late 1943 proved the template could absorb the Soviet Union. Yalta in February 1945 proved the template could produce a comprehensive postwar framework. Potsdam in the summer of 1945 proved the template could survive the deaths and electoral defeats of the leaders who had built it. Each summit extended the architecture, and the architecture compounded its own effectiveness with every extension.
 
-![Roosevelt, Churchill, and Stalin seated together at the Livadia Palace during the Yalta Conference in February 1945, the visible expression of a summit system without historical precedent - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Roosevelt, Churchill, and Stalin seated together at the Livadia Palace during the Yalta Conference in February 1945, the visible expression of a summit system without historical precedent - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The house thesis holds at maximum intensity for this pattern, and the statement of the thesis must be as precise as the pattern is strong. The claim is not that the summit system produced optimal decisions in every case. It did not. The Yalta Conference produced Polish arrangements that were subsequently contested and that became one of the Cold War's originating grievances. The Casablanca Conference produced the unconditional surrender announcement, which critics have argued prolonged the war by foreclosing negotiated exits. The Tehran Conference produced informal understandings about Eastern Europe whose costs became visible only later. The claim is the probabilistic one the series has maintained throughout: committee architecture produces better decisions on average across many decisions than command architecture produces, because it processes more information, corrects more errors, and distributes commitment more broadly. The summit system was committee architecture's peak institutional expression, and the Axis command-architecture coalition produced no equivalent. The contrast is structural, and structure decided the outcome.
 

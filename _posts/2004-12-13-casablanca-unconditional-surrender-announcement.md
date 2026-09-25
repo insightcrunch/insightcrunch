@@ -6,12 +6,12 @@ date: 2004-12-13
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "casablanca-conference", "unconditional-surrender", "allied-war-aims"]
 excerpt: "FDR's Casablanca press conference made unconditional surrender the Allied war aim. It bound the coalition and arguably lengthened the war. The debate endures."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-12-13
+lang: en
 ---
-
 ## The Verdict
 
 The phrase Casablanca unconditional surrender entered the Allied war lexicon on January 24, 1943, when Franklin Roosevelt closed the ten-day Casablanca Conference with a press-conference declaration that fixed the Allied war aim for the rest of the Second World War. Speaking in the garden of his villa at the Anfa Hotel outside Casablanca, before some fifty correspondents and with Winston Churchill standing beside him, the American president stated that the elimination of German, Japanese, and Italian war power meant the unconditional surrender of Germany, Italy, and Japan. A short speech, delivered in a conversational tone, became the defining political commitment of the wartime coalition.
@@ -24,7 +24,7 @@ What the close read ultimately illuminates is an iconic wartime political-strate
 
 The text also survives as an artifact with its own small textual history, which the close reader should note. Multiple transcriptions of Roosevelt's remarks circulated in the press, varying in punctuation and in minor wording, and the official communique offered its own paraphrase, describing the sessions as the "unconditional surrender" conference. These variations do not affect the substance, on which all versions agree, but they remind the reader that the announcement entered history through journalism before it entered the archives, and that its canonical form is a reconstruction from reporters' notes rather than a prepared text. The informality that made the doctrine powerful also made its exact wording a matter of record-keeping rather than drafting.
 
-![FDR and Churchill at the Casablanca press conference, January 1943](/assets/images/blog/blog-04.webp)
+![FDR and Churchill at the Casablanca press conference, January 1943](/assets/images/blog/blog-87.webp)
 
 ## Direct Answers
 

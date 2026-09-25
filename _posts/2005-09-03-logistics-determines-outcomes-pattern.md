@@ -6,15 +6,15 @@ date: 2005-09-03
 categories: ["Leisure"]
 tags: ["World War 2", "pattern-analysis", "logistics", "supply-lines", "industrial-capacity", "operational-reach"]
 excerpt: "Rommel's brilliance could not conjure fuel in the desert. The Allies won the supply war across the Atlantic and Pacific, and logistics decided the outcome."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-09-03
+lang: en
 ---
-
 Napoleon Bonaparte is reported to have said that amateurs study tactics while professionals study logistics, and World War II supplied the most expensive classroom in history for that lesson. The war's decisive variable was rarely who fought better in the first hours of a battle. The decisive variable was who could keep fighting in the second month, the second year, and across the second front. Logistics, the movement and sustainment of armed forces at distance, bounded what tactics could achieve in every theater of the war, and the side that mastered supply at industrial scale won.
 
-![American supply trucks and landing craft sustaining the Allied advance across Normandy - Insight Crunch](/assets/images/blog/blog-02.webp)
+![American supply trucks and landing craft sustaining the Allied advance across Normandy - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The pattern repeats with unusual consistency. Erwin Rommel's tactical brilliance in North Africa repeatedly defeated larger Allied forces and then stalled, always, at the end of a supply line that could not sustain him. The German invasion of the Soviet Union achieved the largest encirclements in military history and then collapsed at the end of a 600 to 1000 mile supply line that ran on the wrong railway gauge. The Japanese Pacific perimeter was designed to be held cheaply and starved instead, with roughly 60 percent of Japanese military deaths coming from non-combat causes rooted in supply failure. Operation Market Garden asked armor to cover 64 miles in two to three days up a single road and failed when supply vehicles could not share that road with the tanks they were supposed to fuel. Meanwhile the Allies built institutions whose entire purpose was supply: the United States Navy's Logistics Service moving roughly 5 million tons monthly by 1944, the Red Ball Express trucking 12,500 tons daily across France, the convoy system that held the Atlantic open by mid-1943. The argument of this article is that logistics substantially determined the outcomes of World War II, with the honest qualification that substantial is not the same as total.
 

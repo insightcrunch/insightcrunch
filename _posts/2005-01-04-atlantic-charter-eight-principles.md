@@ -6,12 +6,12 @@ date: 2005-01-04
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "atlantic-charter", "eight-principles", "placentia-bay"]
 excerpt: "The Atlantic Charter's principles framed the Allied cause before America entered the war. This close read analyzes each principle from Placentia Bay onward."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-01-04
+lang: en
 ---
-
 ## The Verdict
 
 The Atlantic Charter eight principles constitute the most consequential few hundred words of the entire Second World War that were not a speech, a battle order, or a surrender document. Issued on August 14 1941 after the first wartime meeting of Franklin Roosevelt and Winston Churchill at Placentia Bay, Newfoundland, the Charter compressed the Allied war aims into a preamble and eight numbered principles totaling roughly three hundred and seventy five words, and that compression was the point. The document said what the alliance was fighting for before the United States had formally entered the fight, and it said it in language universal enough that anti-colonial movements in Asia and Africa could later quote it back to its authors, which they did with great effect.
@@ -40,7 +40,7 @@ The Charter supplied the ideological vocabulary that the Declaration by United N
 
 The August 1941 release was a joint press statement, not a signed treaty, and no signed original exists. Later ceremonial signatures did not change the document's legal status. The ambiguity appears deliberate, preserving flexibility for both leaders while maximizing public impact. The Charter's authority derived from public issuance, not parchment ritual.
 
-![Atlantic Charter drafting at Placentia Bay, August 1941](/assets/images/blog/blog-03.webp)
+![Atlantic Charter drafting at Placentia Bay, August 1941](/assets/images/blog/blog-89.webp)
 
 ## The Placentia Bay Moment
 
@@ -350,5 +350,4 @@ The Charter matters because it combined five qualities no subsequent declaration
 ### What did the fourth and fifth principles promise on economics?
 
 The fourth principle promises equal access for all states to trade and raw materials, while the fifth calls for the fullest economic collaboration to secure improved labor standards, economic advancement, and social security worldwide. Together they translate the New Deal's domestic program into a global war aim and encode the State Department's open-door commercial philosophy into the alliance's founding document. The fourth principle was aimed directly at discriminatory blocs like Britain's Ottawa system of imperial preference, though the qualifier "with due respect for their existing obligations" preserved that system intact. The fifth principle's invocation of labor standards and social security was Roosevelt's language, imported from American domestic politics into international commitment. Their subsequent influence was substantial: the fourth principle's logic shaped the postwar trading system built through the General Agreement on Tariffs and Trade, and the fifth principle's language anticipated the International Monetary Fund, the World Bank, and the postwar welfare-state consensus. Like the Charter's political principles, the economic ones were stated universally and implemented partially, with the Cold War dividing the very economic field the fifth principle called to unite.
-
 

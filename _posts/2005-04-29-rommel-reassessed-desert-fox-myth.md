@@ -6,13 +6,13 @@ date: 2005-04-29
 categories: ["Leisure"]
 tags: ["World War 2", "consensus-flip", "rommel-assessment", "desert-fox-myth", "wehrmacht-reputation", "nazi-collaboration"]
 excerpt: "Tobruk made him the Desert Fox, but Nazi patronage and a forced suicide after the July plot reveal a legend built as much by propaganda as by victory."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-04-29
+lang: en
 ---
-
-![Field Marshal Erwin Rommel in North Africa, the subject of a reassessment weighing the Desert Fox myth against tactical brilliance and Nazi integration - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Field Marshal Erwin Rommel in North Africa, the subject of a reassessment weighing the Desert Fox myth against tactical brilliance and Nazi integration - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 ## The Verdict
 

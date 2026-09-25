@@ -6,13 +6,13 @@ date: 2005-03-27
 categories: ["Leisure"]
 tags: ["World War 2", "Myth-Busting", "Strategic Bombing", "Civilian Casualties", "Dresden", "War Crime Myth"]
 excerpt: "The Dresden war crime myth inflates a genuine catastrophe into a singular Allied crime. Archival work cuts the death toll far below the propaganda figures."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-03-27
+lang: en
 ---
-
-![Dresden after the February 1945 bombing, with firestorm damage across the old city - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dresden after the February 1945 bombing, with firestorm damage across the old city - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 ## The Verdict
 

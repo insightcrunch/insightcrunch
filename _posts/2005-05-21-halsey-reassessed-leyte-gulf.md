@@ -6,13 +6,15 @@ date: 2005-05-21
 categories: ["Leisure"]
 tags: ["World War 2", "consensus-flip", "halsey-assessment", "leyte-gulf", "pacific-command", "third-fleet"]
 excerpt: "Bull Halsey built a wartime legend with aggressive Pacific command. His decoy pursuit at Leyte Gulf and two typhoon disasters demand a careful reassessment."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-05-21
+lang: en
 ---
-
 ## The Verdict
+
+![Halsey Reassessed: Bulldog Aggression and Leyte Gulf - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 William Frederick Halsey Jr. remains the most theatrically celebrated American fleet commander of the Second World War, and the Halsey reassessed across three decades of naval scholarship is also the most operationally questioned. The wartime legend was a bulldog: the admiral who promised to ride Tojo's white horse, who exhorted his sailors with profane fighting slogans, who personified American offensive spirit in the Pacific. The reassessed figure is more complicated. The same aggressive instincts that made Halsey the right commander for the desperate South Pacific of 1942 made him the wrong commander for the trap-laden waters of Leyte Gulf in October 1944, when he pursued a Japanese decoy carrier force north and left San Bernardino Strait unguarded. The same impatience with caution that thrilled the press corps produced two typhoon disasters, the second of which cost nearly eight hundred sailors their lives in December 1944 and drew a formal Board of Inquiry. The reassessment does not erase the achievements. It weighs them against the failures on the same scale, and finds a genuinely contested commander: brilliant at inspiring offensive action, deficient at the staff work and risk management that fleet command at the highest level demanded.
 

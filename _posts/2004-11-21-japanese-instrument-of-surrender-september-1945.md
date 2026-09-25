@@ -6,12 +6,12 @@ date: 2004-11-21
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "japanese-surrender-document", "uss-missouri", "pacific-war-end"]
 excerpt: "Nine nations ended the Second World War with signatures on a battleship in Tokyo Bay. The two page Japanese Instrument of Surrender repays close reading."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2004-11-21
+lang: en
 ---
-
 ## The Verdict
 
 The Japanese Instrument of Surrender, signed aboard the battleship USS Missouri in Tokyo Bay at 9:04 AM on September 2 1945, is the shortest foundational document of the Second World War and the most crowded. Two pages, five paragraphs, and twelve signatures closed a conflict that had consumed four years of American effort and more than a decade of Japanese imperial expansion. The document is brief because its job was narrow: to record that Japan accepted the terms of the Potsdam Declaration, that its armed forces surrendered unconditionally wherever they stood, and that the Emperor and the Japanese government would henceforth exercise authority subject to the Supreme Commander for the Allied Powers. Nothing in it settles reparations, nothing in it draws borders, and nothing in it pronounces judgment. It is an instrument, in the legal sense, a tool for transferring the fact of defeat into the machinery of occupation.
@@ -20,7 +20,7 @@ The judgment of this close read is that the Instrument matters precisely because
 
 The ceremony that surrounded the signing matters too, and it matters in ways that reward attention to staging. General Douglas MacArthur, Supreme Commander for the Allied Powers, conducted a twenty three minute ceremony that combined military display, five Allied admirals of the line on deck, four hundred aircraft overhead, with language of reconciliation so deliberate that it startled observers who had expected a theater of vengeance. The Japanese delegation, Foreign Minister Mamoru Shigemitsu in formal morning coat and General Yoshijiro Umezu in field uniform, signed for the Emperor, the government, and the Imperial General Headquarters in that order, and the sequence of signatures carried constitutional meaning. Representatives of nine nations signed for the Allied Powers, and one of them, the Canadian representative, signed on the wrong line, an error that Japanese officials corrected by hand and that has since become the document's most human footnote. A close read of the text, the signing, and the ceremony shows how a committee-architecture coalition staged the formal end of the largest war in history: through procedure, through precision, and through a carefully chosen vocabulary of restoration rather than revenge.
 
-![Japanese delegation signing the Instrument of Surrender aboard the USS Missouri in Tokyo Bay on September 2 1945 - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Japanese delegation signing the Instrument of Surrender aboard the USS Missouri in Tokyo Bay on September 2 1945 - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 ### What is the Japanese Instrument of Surrender?
 

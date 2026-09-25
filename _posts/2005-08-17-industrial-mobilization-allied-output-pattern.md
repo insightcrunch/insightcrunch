@@ -6,15 +6,15 @@ date: 2005-08-17
 categories: ["Leisure"]
 tags: ["World War 2", "pattern-analysis", "industrial-mobilization", "war-production", "economic-history", "arsenal-of-democracy"]
 excerpt: "Allied factories outproduced the Axis roughly two to one in aircraft, four to one in tanks, and twenty to one in shipping. Industrial output won the war."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-08-17
+lang: en
 ---
-
 World War II was decided in the factories before it was decided on the battlefields, and the industrial mobilization pattern is the material foundation beneath every campaign the series has examined. The Allied coalition produced approximately 633,000 aircraft against approximately 277,000 for the Axis powers. It produced roughly four tanks for every Axis tank, roughly twenty merchant ships for every Axis vessel, and roughly three artillery pieces for every Axis gun. The United States alone built approximately 303,000 aircraft, 86,000 tanks, 2.4 million trucks, and 51.4 million tons of merchant shipping, while Soviet industry, relocated east of the Urals under fire, produced approximately 91,000 tanks between 1942 and 1945. These ratios were not accidents of geography. They were products of institutional architecture: the Allied committee system coordinated production across a coalition economy, while the Axis powers, operating as three separate economies with almost no production coordination, never combined their smaller industrial bases at all.
 
-![Allied war production lines turning out aircraft and tanks in massive numbers - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Allied war production lines turning out aircraft and tanks in massive numbers - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 The pattern deserves its reputation as the strongest single empirical claim in the economic history of the war, and this article tests it with the same rigor the series applies to every pattern. The complication the brief requires must be honored from the outset, because it is real. Axis command architecture produced specific technical achievements of genuine world-leading quality: the German Me 262 jet fighter, the V-1 flying bomb and V-2 ballistic missile, the Tiger and Panther tanks, the Japanese Zero fighter and the carrier doctrine that employed it with devastating effect through 1942. No honest account of the war's industrial history can deny these innovations. The pattern survives because specific innovation and sustained production are different dimensions of industrial power. The Axis excelled at concentrated technical development and failed at industrial scale. The Allied committee architecture excelled at sustained production at scale, coordinating government, business, and labor across a coalition that shared raw materials, allocated shipping, and converted entire economies to war production. That distinction, between what command architecture could invent and what committee architecture could produce, is the actual pattern of the war.
 

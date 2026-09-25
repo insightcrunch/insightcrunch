@@ -6,15 +6,15 @@ date: 2005-07-10
 categories: ["Leisure"]
 tags: ["World War 2", "pattern-analysis", "strategic-bombing", "douhet-doctrine", "bombing-effectiveness", "civilian-casualties"]
 excerpt: "Air prophets promised victory by bombing alone. The German campaign and the Pacific firebombing tested that promise, with results both mixed and morally costly."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-07-10
+lang: en
 ---
-
 Strategic bombing was the twentieth century's first great military theory of the air age, and the Second World War was its laboratory. In the 1920s, prophets of air power promised that fleets of bombers could win wars by themselves, striking at the enemy's industry and morale without the slaughter of ground armies. By 1945, the Allies had dropped millions of tons of bombs on Germany and Japan, killed hundreds of thousands of civilians, and consumed a staggering share of their war production to do it. The theory had been tested at the largest possible scale, and the results did not match the promise in any simple way.
 
-![American heavy bombers flying in combat formation over Europe during the Combined Bomber Offensive, the largest sustained air campaign in history - Insight Crunch](/assets/images/blog/blog-02.webp)
+![American heavy bombers flying in combat formation over Europe during the Combined Bomber Offensive, the largest sustained air campaign in history - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 This article walks through the pattern of expectation against result across the war's great bombing campaigns: the doctrine the prophets wrote, the Blitz that tested German terror theory against Britain, the Combined Bomber Offensive that tested Allied theory against Germany, the firebombing that tested it against Japan, and the postwar survey that tried to measure what the bombs had actually bought. The pattern matters because it illuminates something larger than aviation. The Allied decision to pour roughly a quarter of British war production and nearly a third of American aircraft production into strategic bombing was one of the great institutional commitments of the war, made through committee processes that the Axis could not replicate. The results were substantial, contested, and morally fraught in ways the prophets never imagined.
 

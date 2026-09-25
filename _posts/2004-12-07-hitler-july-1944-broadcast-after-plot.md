@@ -6,12 +6,12 @@ date: 2004-12-07
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "hitler-speech", "providence-rhetoric", "post-assassination"]
 excerpt: "Hitler broadcast in the small hours after the bomb failed to kill him. Providence, he said, had spared him. The retribution he promised on the air then began."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2004-12-07
+lang: en
 ---
-
 ## The Verdict
 
 The Hitler July 1944 broadcast, recorded at the Wolf's Lair in the small hours of July 20-21 and transmitted across Germany at approximately one in the morning, is one of the shortest and most consequential speeches Adolf Hitler ever gave. It lasted roughly eight minutes. It confirmed that he had survived the bomb placed under his conference table that afternoon by Claus von Stauffenberg. It attributed his survival to Providence. It promised that the conspirators would be exterminated without mercy. And it issued a direct order that no military officer, no leader, no Reich minister was to take orders from anyone but Hitler himself. The broadcast was the audible form of regime self-preservation.
@@ -22,7 +22,7 @@ The broadcast also represents the endpoint of a trajectory this series has trace
 
 The close read that follows proceeds in the order the crisis unfolded. It covers the moment of the bombing and the survival, the collapse of the Valkyrie coup in Berlin, the decision to record a broadcast rather than release a communique, the text of the address in full, the opening passage and its three stated purposes, the Providence claim and its theological-political work, the crime-characterization rhetoric and its function, the retribution commitment and its scale, the closing directive and its institutional effect, the eight-minute economy of the address, the Bendlerblock executions of that same night, the People's Court trials under Roland Freisler, the Sippenhaft family-punishment practice, the forced suicide of Erwin Rommel on October 14 1944, the regime-preservation consequences through the war's end, the historians who have defined the debate, and the house-thesis application. It closes with the broadcast's afterlife and its place in the record of how command architectures respond when the commander nearly dies.
 
-![Hitler broadcasting from the Wolf's Lair after the July 1944 assassination attempt - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Hitler broadcasting from the Wolf's Lair after the July 1944 assassination attempt - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 ### Why did Hitler broadcast within hours of the assassination attempt?
 

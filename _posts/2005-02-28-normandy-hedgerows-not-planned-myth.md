@@ -6,17 +6,17 @@ date: 2005-02-28
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "normandy-campaign", "bocage-terrain", "hedgerow-combat", "tactical-planning"]
 excerpt: "Normandy hedgerows were not missed by Allied planners. COSSAC identified the bocage, but its defensive power was underestimated until battle forced adaptation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-02-28
+lang: en
 ---
-
 ## The Verdict
 
 The popular story of the Normandy hedgerows is simple, dramatic, and wrong in the way it assigns blame. Allied planners, the story goes, never noticed the Norman bocage, the dense hedgerow country behind the invasion beaches, and American and British troops paid for that blindness in blood through June and July 1944. The documents tell a different story. COSSAC, the Anglo-American planning staff that designed the invasion under Lieutenant General Frederick Morgan, identified the bocage in its terrain appreciations during 1943 and early 1944. Aerial photography, French Resistance reporting, geological surveys, and even prewar tourist guidebooks all fed a planning picture that included the hedgerows as a known defensive feature. The planning staffs of 21st Army Group and the US First Army discussed bocage characteristics in their pre-invasion materials. The hedgerows were seen. What was not seen was their full defensive significance.
 
-![Norman bocage hedgerow country, the terrain at the center of the planning myth, showing the earthen banks and dense vegetation that shaped the Normandy campaign - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Norman bocage hedgerow country, the terrain at the center of the planning myth, showing the earthen banks and dense vegetation that shaped the Normandy campaign - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The actual failure was interpretive and tactical rather than perceptual. Allied planners looked at the bocage and concluded that combined-arms tactics, coordinated infantry, armor, and artillery, would overcome it in short order. They assumed German forces would be displaced rapidly enough that the fighting would escape the hedgerow belt into more open country beyond. They underestimated German defensive skill in adapting to the terrain, undertrained their own troops for hedgerow combat, and built armor doctrine around a rapid advance that the bocage made impossible. The result was seven weeks of grinding, field-by-field combat at one to two miles per day, with substantial infantry casualties, followed by the invention of new tactics in the field, the famous Rhinoceros hedgerow cutter designed by Sergeant Curtis Culin, and the Operation Cobra breakout of July 25 to 31 that finally carried the Allies into open country. The myth says nobody planned for the hedgerows. The record says they were planned for, misunderstood, and then mastered through adaptation. That is a different failure mode, and it carries a different lesson about how military institutions learn.
 

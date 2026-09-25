@@ -6,12 +6,12 @@ date: 2005-04-07
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "ultra-contribution", "bletchley-park", "signals-intelligence", "enigma-overstated"]
 excerpt: "Popular memory says Allied codebreaking won the war. Records show Ultra was substantial but bounded, and decisive only when paired with operational force."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-04-07
+lang: en
 ---
-
 ## The Verdict
 
 Ultra's real contribution to Allied victory was substantial, bounded, and insufficient on its own. The documents support a measured judgment: British and American codebreaking organizations, centered on Bletchley Park with its approximately ten thousand personnel at peak strength, read large volumes of German military communications for much of the war, and that reading repeatedly improved Allied operational decisions. The same documents refuse the popular elevation of this achievement into the claim that Enigma-breaking won the war. Intelligence is not the same as power, and the war was won by the integration of intelligence with industrial capacity, manpower, coalition architecture, and operational adaptation. Ultra shortened the war in places, saved lives in convoys, and sharpened Allied blows in North Africa, the Mediterranean, and Normandy. It did not substitute for any of the other elements that made Allied victory possible.
@@ -198,7 +198,7 @@ The medical history of the war, including the treatment of casualties from the c
 
 This dimension also supplies a moral corrective to the myth's bloodless celebration of cleverness. The popular image of Bletchley Park as a place where the war was won without suffering obscures the suffering of those who executed the intelligence-derived operations. The merchant seamen in the North Atlantic, the bomber crews over the Mediterranean, the infantry in the bocage, paid the costs that intelligence alone could not pay. Honoring Ultra means honoring the whole system, not extracting the codebreakers for separate celebration.
 
-![Cryptanalysts and service personnel at work in a Bletchley Park hut, with Bombe machines visible in the background](/assets/images/blog/blog-03.webp)
+![Cryptanalysts and service personnel at work in a Bletchley Park hut, with Bombe machines visible in the background](/assets/images/blog/blog-64.webp)
 
 ## The USSBS Assessment: Substantial, Not Decisive
 

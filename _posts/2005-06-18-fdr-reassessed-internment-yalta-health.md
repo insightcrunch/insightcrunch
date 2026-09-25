@@ -6,12 +6,12 @@ date: 2005-06-18
 categories: ["Leisure"]
 tags: ["World War 2", "consensus-flip", "fdr-assessment", "japanese-internment", "yalta-concessions"]
 excerpt: "FDR won four elections and led America through depression and world war. He also ordered Japanese-American internment and hid his failing health from voters."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-06-18
+lang: en
 ---
-
 ## The Verdict
 
 FDR reassessed is the story of a genuinely great wartime president whose record contains failures that greatness does not erase. Franklin Roosevelt won four presidential elections, built the domestic program that defined twentieth century American government, and led the United States through the largest war in history. He also signed the order that imprisoned approximately 120,000 people of Japanese ancestry, accepted arrangements at Yalta that ratified Soviet domination of Eastern Europe, concealed a failing heart from the electorate through a fourth campaign, attempted to pack the Supreme Court, and broke the two-term tradition that had constrained every predecessor since Washington. None of these facts is new. What is new, in the consensus-flip sense this series has been developing, is the disciplined way scholars now hold both ledgers at once: the achievements do not cancel the failures, and the failures do not cancel the achievements. The reassessment that survives critical scholarship is neither hagiography nor demolition. It is an accounting.
@@ -174,7 +174,7 @@ The named disagreement among historians concerns, above all, Yalta and health. T
 
 If internment is the darkest entry in the wartime ledger, Lend-Lease is among the brightest, and the reassessment must give it the same specificity it gives the charges. The Lend-Lease Act of March 1941 authorized the president to transfer war material to any nation whose defense he deemed vital to the defense of the United States, and Roosevelt used the authority at a scale that transformed the Allied war effort. Britain received the destroyers, aircraft, tanks, food, and raw materials that sustained it through the years of greatest danger. The Soviet Union, after June 1941, received the trucks, locomotives, aviation fuel, food, and communications equipment without which its vast armies could not have moved and fed themselves; Soviet leaders from Stalin down acknowledged the material's importance even as postwar propaganda minimized it. China received supplies flown over the Himalayas at enormous cost. The program's totals ran into the tens of billions of dollars, a sum without precedent in the history of statecraft.
 
-![Franklin Roosevelt conferring with Allied leaders during the wartime summit conferences](/assets/images/blog/blog-02.webp)
+![Franklin Roosevelt conferring with Allied leaders during the wartime summit conferences](/assets/images/blog/blog-33.webp)
 
 The political achievement behind the material one deserves emphasis. In 1940 and 1941 the American public was deeply divided over intervention, and Congress contained a substantial isolationist bloc. Roosevelt moved that public and that Congress step by step: the destroyers-for-bases agreement, the Selective Service Act, Lend-Lease itself, each presented as a defensive measure short of war, each expanding the president's freedom of action. The method involved indirection that critics then and since have called deceptive: Roosevelt assured the public of his devotion to peace while taking steps he knew pointed toward belligerency. The reassessment can acknowledge the indirection without condemning the direction. The Axis threat was real, the British and Soviet need was desperate, and the alternative to Roosevelt's incrementalism was not a cleaner policy but a later and weaker American entry into a war that would have been harder to win.
 

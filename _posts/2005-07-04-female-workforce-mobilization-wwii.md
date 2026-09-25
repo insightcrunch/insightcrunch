@@ -8,10 +8,10 @@ tags: ["World War 2", "pattern-analysis", "female-workforce", "women-at-war", "h
 excerpt: "Soviet women flew bombers while German women stayed home by ideology; American Rosies built planes then left. The peak faded, but women's trajectories changed."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-07-04
+lang: en
 ---
-
 ## The Verdict
 
 The female workforce mobilization of the Second World War was one of the largest labor reallocations in human history, and it was also one of the most uneven. American female labor force participation rose from approximately 26 percent in 1940 to approximately 36 percent in 1945, with some six million additional women entering paid work. Britain conscripted women into war service in December 1941, the first female conscription in the nation's history, and put roughly seven million women into war production and military auxiliary roles. The Soviet Union placed between 800,000 and one million women directly into the Red Army, with some 250,000 in combat roles, an achievement no other belligerent approached. Germany, by contrast, added approximately three million women to its workforce from a relatively high prewar baseline but deliberately restrained female mobilization on ideological grounds, substituting millions of forced laborers for the voluntary female workforce it refused to recruit. Japan mobilized some 14 million women by 1944 but kept most in traditional occupations, and Italy mobilized women least of all, constrained more by its limited industrial base than by gender policy.

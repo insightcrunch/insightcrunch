@@ -6,12 +6,12 @@ date: 2005-04-13
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "dunkirk-evacuation", "operation-dynamo", "british-national-myth", "royal-navy-rescue"]
 excerpt: "National memory says yachts saved the army at Dunkirk. Records show Royal Navy destroyers did the heavy lifting. The little ships were smaller than myth."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-04-13
+lang: en
 ---
-
 ## The Verdict
 
 The little ships myth of Dunkirk is a genuine national memory built on a real foundation and a distorted proportion. The myth says civilian yachts and fishing boats crossed the English Channel in their hundreds to rescue the British Expeditionary Force from the beaches of Dunkirk. The truth is more complicated and more interesting. Civilian vessels did participate in Operation Dynamo, about 850 of them, and their contribution was real, substantial, and in some cases heroic. But the little ships did not rescue most of the troops, they did not do most of their work on the beaches, and they did not do the heavy lifting of the evacuation. The heavy lifting was done by the Royal Navy. About 240,000 of the approximately 338,226 men rescued came out of Dunkirk harbor itself, mostly from the East Mole, a concrete breakwater that functioned as an improvised pier. Royal Navy destroyers alone carried about 100,000 men to safety. British and French warships together accounted for roughly 125,000. Merchant marine vessels carried roughly 50,000. The little ships, the civilian-owned craft at the center of the myth, carried somewhere between about 26,500 and 80,000 men depending on how the counting is done, with the higher figures including every non-military vessel rather than the smallest craft alone. That is a genuine contribution, and it should be honored as such. It is also a minority contribution to an operation dominated by professional naval power organized by Admiral Bertram Ramsay at Dover.
@@ -232,7 +232,7 @@ Readers seeking the clinical and organizational background of Second World War b
 
 The medical dimension also underscores the harbor-versus-beach point. Stretcher cases could be loaded efficiently at the mole, where ships lay alongside and the transfer was direct. From the beaches, the wounded had to be carried through the surf and lifted into small boats, a slower and more dangerous process. The harbor's dominance in the rescue totals was even more pronounced for the wounded than for the able-bodied. The little ships did carry wounded men, and their crews handled them with care. But the bulk of the medical evacuation, like the bulk of everything else, went over the East Mole.
 
-![Small civilian vessels ferrying troops from the Dunkirk beaches to larger ships waiting offshore during Operation Dynamo](/assets/images/blog/blog-03.webp)
+![Small civilian vessels ferrying troops from the Dunkirk beaches to larger ships waiting offshore during Operation Dynamo](/assets/images/blog/blog-11.webp)
 
 ## What the Myth-Bust Illuminates
 

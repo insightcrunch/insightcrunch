@@ -6,15 +6,15 @@ date: 2005-09-19
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "european-theater", "italy-neutral-counterfactual", "italy", "mediterranean"]
 excerpt: "Had Mussolini kept Italy neutral in that June, the Mediterranean war would never have begun. This counterfactual traces the consequences of that silence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-09-19
+lang: en
 ---
-
 On June 10, 1940, Benito Mussolini walked to the balcony of the Palazzo Venezia in Rome and declared war on France and Britain. The counterfactual at the center of this article asks what would have followed if he had not. The question turns on a documented decision point: through the spring of 1940, Italy remained officially non-belligerent, its army chief Marshal Pietro Badoglio argued openly that the country was unready for a major European war, King Victor Emmanuel III was cautious about commitment, and the Pact of Steel with Germany imposed no immediate legal obligation to enter. Mussolini chose war anyway, gambling that a share in France's collapse would purchase Italy a seat at the victors' table.
 
-![Mussolini announcing the June 1940 war declaration from Rome - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mussolini announcing the June 1940 war declaration from Rome - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 ## The Verdict
 

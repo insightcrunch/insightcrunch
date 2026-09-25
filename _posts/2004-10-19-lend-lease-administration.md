@@ -6,12 +6,12 @@ date: 2004-10-19
 categories: ["Leisure"]
 tags: ["World War 2", "institutional-biography", "lend-lease-administration", "edward-stettinius", "allied-economic-coordination", "material-aid"]
 excerpt: "The Lend-Lease Administration moved fifty billion wartime dollars of weapons, food, and industry to dozens of Allied nations, forging the economic coalition."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2004-10-19
+lang: en
 ---
-
 ## The Verdict
 
 The Lend-Lease administration 1941 1945 was the largest international material aid program ever attempted, and the institution that ran it deserves the same historical stature as the armies and air forces its trucks, aircraft, and food kept moving. Between the signing of the Lend-Lease Act in March 1941 and the abrupt termination of the program in August 1945, the Office of Lend-Lease Administration and its successor machinery moved roughly fifty billion wartime dollars of weapons, industrial material, food, and technical equipment to thirty eight Allied nations. Britain received the largest share, the Soviet Union the second largest, and France, China, and a long roster of smaller recipients the rest. Nothing on this scale had been attempted before, and no regime on the Axis side built anything resembling it.
@@ -22,7 +22,7 @@ The complication is that the institution's ending was as disruptive as its warti
 
 The judgment of the record is that Lend-Lease represented committee architecture operating at peak economic scale. No Axis equivalent existed, because command architecture regimes proved incapable of the sustained multinational economic coordination the program required. The institution moved aid across sovereign boundaries through negotiation, staff work, and political management rather than command, and its success compounded the Allied material advantage year by year until it became a structural fact of the war. The Soviet trucks that carried the Red Army westward in 1944 and 1945, the British aircraft that defended the island and struck back at Germany, the food that fed armies and civilians alike, all flowed through channels this institution built and maintained.
 
-![Lend-Lease supply convoys and Allied war material coordination during the Second World War - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lend-Lease supply convoys and Allied war material coordination during the Second World War - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 ## Direct Answers
 

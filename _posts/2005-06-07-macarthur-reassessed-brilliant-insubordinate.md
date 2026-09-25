@@ -6,13 +6,13 @@ date: 2005-06-07
 categories: ["Leisure"]
 tags: ["World War 2", "consensus-flip", "macarthur-assessment", "pacific-command", "philippines-1942", "korean-war-precursor"]
 excerpt: "A genius at grand strategy and a disaster in the Philippines, MacArthur recovered at Inchon and fell at the Yalu. No commander's reputation is more contested."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-06-07
+lang: en
 ---
-
-![Douglas MacArthur in the Southwest Pacific theater](/assets/images/blog/blog-02.webp)
+![Douglas MacArthur in the Southwest Pacific theater](/assets/images/blog/blog-50.webp)
 
 ## The Verdict
 

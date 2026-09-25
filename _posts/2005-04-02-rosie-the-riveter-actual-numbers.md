@@ -6,12 +6,12 @@ date: 2005-04-02
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "rosie-the-riveter", "female-workforce", "american-home-front", "wartime-mobilization"]
 excerpt: "The poster promised a revolution of women in factories. The numbers show real mobilization, segregated work, and lasting change that arrived later and slower."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-04-02
+lang: en
 ---
-
 ## The Verdict
 
 The Rosie the Riveter image is one of the most recognizable artifacts of the American Second World War, and it is also one of the most misleading. The poster promises a revolution: women flooding into heavy industry, transforming the workforce, and permanently rewriting the relationship between American women and paid labor. The actual numbers tell a different story, and it is a story worth telling carefully, because the myth contains real substance that a crude dismissal would destroy. Approximately six million additional American women entered paid work between 1940 and 1945. Aircraft plants that employed about 143,000 women in December 1941 employed roughly 475,000 at the wartime peak. About 350,000 women served in the military services. These are not trivial figures, and the women behind them were not trivial actors. The myth-bust is not that nothing happened. It is that the transformation narrative misstates what happened.
@@ -68,7 +68,7 @@ The transformation of Rosie from wartime ephemera into national icon was accompl
 
 This historical construction served legitimate purposes. It recovered real women from historical obscurity, honored real contributions, and supplied arguments for contemporary workplace equality with genuine historical precedent. Maureen Honey's research on wartime media showed how the propaganda image of the female worker had been deliberately constructed during the war, and the feminist recovery extended that construction into a fuller historical account. The myth-bust does not require condemning this project. It requires distinguishing between the project's political and cultural purposes and its historical accuracy. The feminist rediscovery needed a revolution; the evidence supplies a substantial but bounded mobilization, heavily segregated by gender and race, substantially reversed after the war. The gap between the need and the evidence is where the myth lives.
 
-![Women at work on an aircraft assembly line during the wartime mobilization](/assets/images/blog/blog-01.webp)
+![Women at work on an aircraft assembly line during the wartime mobilization](/assets/images/blog/blog-110.webp)
 
 ## Kernel of Truth: Six Million Enter the Workforce
 

@@ -6,12 +6,12 @@ date: 2004-11-15
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "nuremberg-indictment", "international-military-tribunal", "war-crimes-law", "four-counts"]
 excerpt: "The Nuremberg Indictment charged twenty-four Nazi leaders on four counts. This close read examines the document that built later international criminal law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2004-11-15
+lang: en
 ---
-
 ## The Verdict
 
 The Nuremberg Indictment October 1945 is the most consequential charging document ever filed. On October 18 1945, the four chief prosecutors of the Allied powers lodged an indictment of approximately sixty-five pages against twenty-four surviving leaders of the German Reich, charging them on four counts that had never before been assembled in a single criminal proceeding: common plan or conspiracy, crimes against peace, war crimes, and crimes against humanity. The document did not merely accuse. It created, in the act of accusing, the legal vocabulary through which the twentieth century would subsequently name state crime. Every later tribunal, from Tokyo to The Hague, works in language the Nuremberg Indictment first put on paper.
@@ -22,7 +22,7 @@ The document must also be read against its complications, and this close read do
 
 What the close read establishes, finally, is the committee-architecture character of the achievement. The Indictment was negotiated among four legal systems, drafted by prosecutors answerable to four governments, and filed under a charter that required the agreement of all four powers. No command architecture produced, or could have produced, an equivalent document. The Axis approach to law was the Führerprinzip, the commander's will as the source of legality. The Indictment's approach was the opposite: legality as a common construction, built by negotiation among victors who disagreed about almost everything except that the defeated leadership should face judgment rather than summary execution. That construction, with all its flaws, is the foundation on which later international criminal law stands.
 
-![The Nuremberg courtroom during the trial of the major war criminals - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nuremberg courtroom during the trial of the major war criminals - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 ### What was the Nuremberg Indictment and when was it filed?
 

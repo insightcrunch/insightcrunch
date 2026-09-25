@@ -6,17 +6,17 @@ date: 2004-10-30
 categories: ["Leisure"]
 tags: ["World War 2", "institutional-biography", "office-of-strategic-services", "william-donovan", "covert-operations"]
 excerpt: "The OSS American intelligence born of war built a clandestine service from nothing in three years, then dissolved, leaving its methods and people to the CIA."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-10-30
+lang: en
 ---
-
 ## The Verdict
 
 The OSS American intelligence born of war is the strangest institutional story of the Second World War. In June of 1942, the United States possessed no centralized intelligence service and no covert operations capability at all. The Army had its G-2, the Navy had its Office of Naval Intelligence, the State Department had its diplomats, and the Federal Bureau of Investigation guarded the Western Hemisphere, but no American institution combined espionage, sabotage, counterintelligence, analysis, and psychological warfare under one roof. Three years later, the United States possessed the Office of Strategic Services, an organization of roughly thirteen thousand people operating on every major front, running agents behind German lines, organizing guerrilla armies in Burma, producing thousands of scholarly intelligence studies, broadcasting black propaganda across Europe, and negotiating with the German resistance from a villa on the Herrengasse in Bern. The institution had been conjured out of memoranda, charm, and presidential indulgence. Then, barely a month after the Japanese surrender, it was dissolved by executive order, its functions scattered across the State and War Departments. The dissolution did not stick. Within eighteen months, the Central Intelligence Group had reassembled much of the apparatus, and in 1947 the National Security Act created the Central Intelligence Agency, which absorbed the OSS personnel, files, tradecraft, and institutional memory more or less intact. The modern American intelligence community is, in a meaningful sense, the OSS continuing by other names.
 
-![The OSS headquarters and its founder William Donovan - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The OSS headquarters and its founder William Donovan - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The institution's founder, William Joseph Donovan, remains the hinge on which the whole story turns. A Wall Street lawyer, a Republican, a decorated combat commander from the First World War, and an intimate of President Franklin Roosevelt, Donovan was the only figure in American public life who could plausibly have built the OSS and the only figure who could plausibly have led it. He sold Roosevelt on the idea with a ten-page memorandum in the summer of 1941, secured his appointment as Coordinator of Information that July, survived the bureaucratic strangling of his first agency, and emerged in June of 1942 as the director of something genuinely new. Donovan's recruiting philosophy, his famous "glorious amateurs," produced an organization that mixed Ivy League scholars, European exiles, Hollywood adventurers, socialites, soldiers, and future Nobel laureates with a casual disregard for conventional hiring that no peacetime government would have tolerated. The result was uneven by design. The OSS produced some of the finest intelligence analysis and some of the most effective unconventional warfare of the war, and it also produced compromised networks, amateurish disasters, and jurisdictional brawls that embarrassed its friends. The verdict on the institution has to hold both at once: a remarkable creation that did serious harm to the Axis and a flawed organization whose failures were the price of its speed.
 

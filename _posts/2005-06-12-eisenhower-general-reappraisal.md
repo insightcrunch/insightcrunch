@@ -6,12 +6,12 @@ date: 2005-06-12
 categories: ["Leisure"]
 tags: ["World War 2", "consensus-flip", "eisenhower-assessment", "supreme-command", "coalition-management", "wartime-generalship"]
 excerpt: "No Patton in tactics, no Montgomery in battle: Eisenhower led the largest coalition in history to victory, and revision has confirmed the traditional verdict."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-06-12
+lang: en
 ---
-
 ## The Verdict
 
 Eisenhower's traditional reputation as the supreme commander who held the Western coalition together through three years of multi-national war has substantially survived every critical revision attempted against it. The critics have made real points. Eisenhower was not the equal of his best subordinates in tactical-operational art: Patton understood armored exploitation better, Montgomery understood set-piece battle better, Bradley understood infantry operations better. Specific decisions under Eisenhower's authority carry genuine blemishes. The approval of Operation Market Garden in September 1944 committed Allied resources to a plan with substantial operational-intelligence concerns, and the failure that followed was one of the Western Allies' most conspicuous disappointments. The German Ardennes offensive of December 1944 achieved operational surprise on Eisenhower's watch, and the intelligence failure that permitted it was distributed across SHAEF, the army groups, and the intelligence agencies in proportions that include the supreme commander himself. The Falaise Gap closed more slowly than it might have, and approximately 40,000 German troops escaped an encirclement that a faster coordination of American and British-Canadian forces might have sealed.
@@ -46,7 +46,7 @@ Sustained multi-national coalition management across three years of war: integra
 
 No. The major biographies through 2005, Ambrose's foundational two-volume work, D'Este's 2002 biography with its critical passages on specific operational decisions, and Korda's accessible study, converge on a substantially positive assessment with nuance. Jean Edward Smith's 2012 biography is noted here only under the series' research-apparatus convention as post-publication scholarship.
 
-![General Dwight D. Eisenhower in his Supreme Headquarters Allied Expeditionary Force office, the coalition commander whose traditional reputation for multi-national leadership has substantially survived critical revision - Insight Crunch](/assets/images/blog/blog-02.webp)
+![General Dwight D. Eisenhower in his Supreme Headquarters Allied Expeditionary Force office, the coalition commander whose traditional reputation for multi-national leadership has substantially survived critical revision - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 ## The Traditional Reputation: Supreme Commander, 1942 to 1945
 

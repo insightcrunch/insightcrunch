@@ -6,15 +6,15 @@ date: 2005-03-11
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "kamikaze-effectiveness", "pacific-theater", "japanese-last-stand", "naval-casualties"]
 excerpt: "The kamikaze effectiveness myth claims suicide pilots nearly sank the Allied Pacific Fleet. American ship-loss records and sortie totals tell another story."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-03-11
+lang: en
 ---
-
 The kamikaze effectiveness myth is one of the most visually indelible stories of the Pacific War: Japanese pilots deliberately crashing aircraft into Allied ships, a tactic said to have nearly overwhelmed the Pacific Fleet, and, in the myth's strongest form, a weapon that might have prevented American victory if only it had been introduced earlier or employed in greater numbers. The image is unforgettable. The arithmetic behind the story does not survive contact with the records.
 
-![Japanese kamikaze attack aircraft diving on Allied ships at Okinawa - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Japanese kamikaze attack aircraft diving on Allied ships at Okinawa - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 This article applies the series' five-stage myth-bust method to the suicide-attack campaign of October 1944 to August 1945. First, the near-decisive-weapon story is stated in its strongest form, without caricature. Second, the kernels of truth that sustain the myth are identified and honored in full, because durable myths rarely survive on pure fabrication. Third, the ship-loss, sortie, and damage records are laid against the claim. Fourth, the revised understanding is articulated. Fifth, the persistence of the myth is explained as data about narrative appetite and political need rather than about the past. The conclusion is not that the suicide attacks were trivial. Nearly four thousand Japanese pilots died in the sorties; about three dozen Allied ships sank; hundreds more were damaged; some seven thousand Allied sailors were killed. Those are not trivial facts. The conclusion is that the tactic, for all its horror and all its cost, did not come close to deciding the war, and the reasons it failed illuminate the structural mismatch between the Japanese command architecture that produced it and the Allied institutional learning system that defeated it.
 

@@ -6,12 +6,12 @@ date: 2005-01-09
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "fdr-speech", "four-freedoms", "state-of-union", "pre-pearl-harbor-ideology"]
 excerpt: "FDR's Four Freedoms speech framed what America would fight for before war came. This close read traces its rhetorical architecture and its long afterlife."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-01-09
+lang: en
 ---
-
 ## The Verdict
 
 The FDR Four Freedoms address of January 6, 1941, stands as the single most consequential ideological statement of American wartime leadership before the United States entered the conflict. Delivered as the Annual Message to Congress, the formal State of the Union, it did something no previous American president had attempted: it translated an American constitutional vocabulary into a universal claim about how the entire world should be ordered, and it did so eleven months before Pearl Harbor forced the country into a war it had not yet declared. The speech deserves a close read because its most famous two minutes, the Four Freedoms peroration, were not decoration. They were the point. Every section of the address built toward them, and every section after them drew authority from them.
@@ -122,7 +122,7 @@ The connection served a political purpose as well. By rooting the Four Freedoms 
 
 The closing of the speech is worth noting for what it does not do. It does not declare war. It does not announce an alliance. It does not promise that American troops will fight. It declares what American power is for, and it leaves the question of how and when that power will be used for a later day. Eleven months later, that day would arrive, and the framework Roosevelt built in January would be waiting.
 
-![FDR delivering the Four Freedoms address to Congress - Insight Crunch](/assets/images/blog/blog-01.webp)
+![FDR delivering the Four Freedoms address to Congress - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 ## The Four Freedoms Passage: Text and Form
 

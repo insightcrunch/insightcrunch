@@ -6,15 +6,15 @@ date: 2005-08-01
 categories: ["Leisure"]
 tags: ["World War 2", "pattern-analysis", "naval-warfare", "aircraft-carriers", "battleships", "submarine-warfare"]
 excerpt: "Carrier aircraft sank the battleships at Pearl Harbor and Midway. Submarines starved Japan's economy. The 1939 battle fleet was unrecognizable by 1945."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-08-01
+lang: en
 ---
-
 Naval power entered World War II wearing the armor of an earlier age and exited the war transformed beyond recognition. In 1939 every major navy organized its fleet around the battleship, the armored gun platform that had dominated naval thinking since the dreadnought era, and the question of which navy owned the most and heaviest battleships was the question of who ruled the seas. By 1945 the battleship survived as a useful support vessel while the aircraft carrier commanded the fleet, the submarine had become a strategically decisive weapon on two oceans, and amphibious doctrine had matured into a science of projecting power ashore under the protection of air power at sea. No other transformation in the war was so complete, so visible, and so directly connected to the industrial and institutional capacity that separated the victors from the defeated. The pattern of this article is the passage from battleship to carrier, and the argument is that the transformation rewarded the side that could sustain doctrinal and technological adaptation at scale.
 
-![Aircraft carriers and support ships of the Pacific fleet at sea in 1944 - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Aircraft carriers and support ships of the Pacific fleet at sea in 1944 - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The pattern did not follow a straight line. Japanese naval aviation was the finest in the world in 1941, and Japanese carrier doctrine at Pearl Harbor exceeded anything the Americans could have attempted. German submarines nearly severed Britain's Atlantic lifeline in 1942, and the wolf pack campaign came closer to defeating Britain than any other German weapon. These were genuine achievements, and the honest pattern gives them their due. What decided the war at sea was not the first achievement but the sustained one. The United States built approximately 28 Essex-class fleet carriers between 1941 and 1945 and trained the pilot pool to man them, integrated escort carriers and anti-submarine hunter-killer groups into the Atlantic campaign until the U-boat force broke in May 1943, and deployed a submarine fleet that sank approximately 5 million tons of Japanese merchant shipping and strangled the Japanese economy. Japan, which began the war with the better carrier doctrine, lost four fleet carriers at Midway and never replaced the pilots, the carriers, or the doctrine in time. The naval war therefore exemplifies the house thesis at maximum intensity: command-architecture produced genuine initial naval innovation, and committee-architecture sustained adaptation and scaled production prevailed.
 

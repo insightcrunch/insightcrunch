@@ -6,17 +6,17 @@ date: 2005-02-17
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "pearl-harbor-attack", "kimmel-short", "intelligence-failure"]
 excerpt: "The Pearl Harbor asleep at the switch tale is wrong. Radar detected the raid. Warnings aimed at Southeast Asia. Divided commands failed, and two men took blame."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-02-17
+lang: en
 ---
-
 ## The Verdict
 
 The Pearl Harbor asleep at the switch myth is wrong in the way it assigns blame, right in the way it describes the outcome, and illuminating in the way it persists. The radar at Opana Point did detect the incoming Japanese strike force at approximately 7:02 on the morning of December 7, 1941. The warnings that reached Hawaii's commanders in the weeks before the attack pointed at the Philippines, Malaya, Thailand, and Borneo, not at Oahu. The two commanders who lost their commands in the aftermath, Admiral Husband E. Kimmel of the Pacific Fleet and Lieutenant General Walter C. Short of the Army's Hawaiian Department, made genuine errors of judgment inside a system that denied them the information, the coordination, and the alert procedures that might have made better judgment possible. The attack was a distributed institutional failure, and the individual-blame story that replaced it served wartime political needs more faithfully than it served the historical record.
 
-![Pearl Harbor radar station and Opana Point detection site on December 7 1941 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pearl Harbor radar station and Opana Point detection site on December 7 1941 - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The myth-bust method used across this series applies here in full. First, the myth is stated plainly: popular accounts of December 7, 1941, emphasize the negligence of two specific commanders allegedly caught unprepared despite warnings, and extreme versions suggest that President Roosevelt or senior officials deliberately allowed the attack to secure American entry into the war. Second, the kernels of truth are honored: the surprise was real, the casualties were heavy at approximately 2,403 killed, the defensive dispositions were inadequate against the actual attack, and Kimmel and Short were relieved of command within weeks and condemned by the Roberts Commission in 1942. Third, the evidence is presented: the ambiguous warnings, the radar detection and its dismissal, the Magic intelligence that never flowed to Hawaii, the Army-Navy coordination failures, and the successive investigations that substantially revised the initial blame. Fourth, the revised understanding is stated: the attack succeeded because multiple institutional systems failed at once, not because two men slept at their posts. Fifth, the persistence of the myth is explained, because the reasons the story survives reveal how societies prefer to remember disasters.
 

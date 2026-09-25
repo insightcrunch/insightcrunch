@@ -6,13 +6,13 @@ date: 2005-03-16
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "stalin-leadership-crisis", "barbarossa-response", "soviet-command", "leadership-myth"]
 excerpt: "The frozen-fear legend says Stalin vanished for a week when Barbarossa struck. The logs and committee records show a shorter crisis and continuous command."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-03-16
+lang: en
 ---
-
-![Joseph Stalin during the Second World War, the subject of a myth-bust examining the frozen-fear narrative of the June 1941 leadership crisis - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Joseph Stalin during the Second World War, the subject of a myth-bust examining the frozen-fear narrative of the June 1941 leadership crisis - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 ## The Verdict
 

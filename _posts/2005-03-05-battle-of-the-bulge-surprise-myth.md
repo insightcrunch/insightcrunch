@@ -6,13 +6,13 @@ date: 2005-03-05
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "battle-of-the-bulge", "intelligence-failure", "ardennes-offensive"]
 excerpt: "The Bulge surprise myth claims Allied intelligence missed the Ardennes buildup entirely. The warning existed but was misread as defensive preparation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-03-05
+lang: en
 ---
-
-![Allied intelligence officers studying the Ardennes sector map before the German offensive - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Allied intelligence officers studying the Ardennes sector map before the German offensive - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ## The Verdict
 

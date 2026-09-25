@@ -6,12 +6,12 @@ date: 2004-12-24
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "hitler-speech", "declaration-of-war", "axis-coalition"]
 excerpt: "Hitler declared war on America in an eighty-eight-minute Reichstag address. This close read traces how ideology masked a discretionary strategic blunder."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-12-24
+lang: en
 ---
-
 ## The Verdict
 
 The Hitler Reichstag speech December 1941, delivered in the Kroll Opera House before the German Reichstag on the afternoon of December 11 1941, is one of the most consequential miscalculations ever formalized in a parliamentary chamber. In approximately eighty-eight minutes, Adolf Hitler declared war on the United States, a step the Tripartite Pact did not require and American political conditions did not demand. The speech's central achievement was to convert a discretionary strategic choice into an ideological necessity, wrapping a decision that would bring the full industrial and military weight of the United States against Germany in an extended argument about history, race, conspiracy, and personal grievance. The declaration was effective immediately. The consequences were permanent.
@@ -22,7 +22,7 @@ The retrospective assessment is unusually unified among historians who agree on 
 
 The close read that follows proceeds through the text in the order Hitler gave it. It covers the moment, the decision that preceded the speech, the treaty's actual terms, the rubber-stamp chamber that heard it, the speech's five-part structure, the anti-American historical review, the personal attack on Roosevelt, the formal declaration passage, the ideological framework in which that passage was embedded, the factual claims the speech advanced and their accuracy, the strategic calculation problem, German-Italian coordination, the Japanese non-reciprocity, the immediate consequences, German public reception, and the historical assessment. It closes by setting the address against Franklin Roosevelt's speech to Congress of December 8 1941, because the comparison is the point: two declarations of war, three days apart, one produced by a command architecture in which one man decided, the other by a committee architecture in which institutions deliberated. The speeches are mirror images in function and opposite in form.
 
-![Hitler addressing the Reichstag in December 1941 - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Hitler addressing the Reichstag in December 1941 - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 ### What did Hitler actually say in the formal declaration of war?
 

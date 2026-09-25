@@ -6,13 +6,13 @@ date: 2005-05-16
 categories: ["Leisure"]
 tags: ["World War 2", "consensus-flip", "stalin-assessment", "soviet-leadership", "red-army-purges", "wartime-command"]
 excerpt: "Stalin purged the Red Army, signed a pact with Hitler, dismissed the invasion warnings, then moved the factories east and learned to let his generals fight. The reassessment refuses both hagiography and pure indictment."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-05-16
+lang: en
 ---
-
-![Joseph Stalin during the Second World War, the subject of a wartime leadership reassessment](/assets/images/blog/blog-02.webp)
+![Joseph Stalin during the Second World War, the subject of a wartime leadership reassessment](/assets/images/blog/blog-112.webp)
 
 ## The Verdict
 

@@ -6,13 +6,13 @@ date: 2005-05-10
 categories: ["Leisure"]
 tags: ["World War 2", "consensus-flip", "mussolini-assessment", "italian-fascism", "wartime-leadership", "axis-coalition"]
 excerpt: "Mussolini invented fascism and ruled Italy for decades, then led it into a war it could not fight. The buffoon caricature obscures a more instructive figure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-05-10
+lang: en
 ---
-
-![Benito Mussolini addressing a Fascist rally, the subject of a competence reassessment weighing political consolidation against wartime failure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Benito Mussolini addressing a Fascist rally, the subject of a competence reassessment weighing political consolidation against wartime failure - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 ## The Verdict
 

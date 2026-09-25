@@ -6,12 +6,12 @@ date: 2005-09-14
 categories: ["Leisure"]
 tags: ["World War 2", "pattern-analysis", "alliance-dynamics", "decision-architecture", "coalition-warfare", "house-thesis-synthesis"]
 excerpt: "Patton feuded with Montgomery. Churchill argued with Roosevelt. Stalin distrusted both. Yet the Allies won while Hitler, Mussolini, and Tojo never once met."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-09-14
+lang: en
 ---
-
 George Patton feuded with Bernard Montgomery, openly and at length, from the race to Messina through the Normandy breakout. Winston Churchill and Franklin Roosevelt argued for years over whether the decisive campaign belonged in the Mediterranean or across the Channel, and Stalin suspected both Western leaders of scheming to bleed the Soviet Union while they bargained over the postwar order. The Allied coalition of the Second World War was a theater of persistent, documented, and frequently public disagreement, and the committee architecture behind it won the war. Meanwhile Adolf Hitler, Benito Mussolini, and the Japanese leadership maintained an alliance of remarkable surface calm. Hitler, Mussolini, and Tojo never once sat down together in a three-power conference during the entire war. They never established combined chiefs of staff. They never produced a coordinated operational plan. Their unity was real in the sense that nobody argued. It was empty in the sense that nobody coordinated either.
 
 The pattern at the center of this article is the house thesis of this series in its most direct form. The committee architecture of the Allied coalition structurally required disagreement to be surfaced, argued, and processed, and the visible frictions were the byproduct of that machinery working as designed. The command architecture of the Axis coalition suppressed disagreement without resolving it, and the apparent unity was the byproduct of an institutional inability to surface and process disagreement rather than of genuine consensus. The result was that Allied decisions incorporated distributed expertise, tested alternatives, and corrected errors, while Axis decisions reflected single-leader judgment without institutional correction. Across the war's major strategic decisions the cumulative effect favored the Allies substantially. The pattern is probabilistic rather than deterministic. Committee architecture produces better decisions on average while remaining imperfect, and command architecture produces worse decisions on average while occasionally generating brilliant individual performances. Both qualifications are honored in what follows.
@@ -26,7 +26,7 @@ The verdict is therefore a qualified one, and the qualification is load-bearing 
 
 The historiographical stakes are significant. Traditional coalition analysis often treats unity as strength and friction as weakness, which would predict that the apparent Axis unity should have produced strategic advantages. The actual outcome contradicts that prediction. The corrective framework is that unity of appearance can reflect the suppression of corrective processes rather than substantive agreement, and that visible friction can be the signal of an institution doing the work of error correction. The scholarly consensus, led by the work of historians treated in the study section below, has substantially converged on the interpretation that Allied committee frictions were structural features rather than coalition weaknesses. The pattern documented across the cases below is not a collection of isolated incidents but a structural feature of how the two coalitions were built to decide.
 
-![Allied leaders conferring at a wartime summit, the committee machinery that turned disagreement into decisions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Allied leaders conferring at a wartime summit, the committee machinery that turned disagreement into decisions - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 ## The Study
 

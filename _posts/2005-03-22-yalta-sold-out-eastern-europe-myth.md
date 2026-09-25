@@ -6,13 +6,13 @@ date: 2005-03-22
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "yalta-conference", "eastern-europe", "cold-war-origins", "fdr-diplomacy"]
 excerpt: "The victorious Red Army held Eastern Europe when Yalta opened. No Western force could displace it. The sellout myth ignores how armies settle diplomacy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-03-22
+lang: en
 ---
-
-![The Yalta Conference at Livadia Palace, February 1945, where the myth claims Eastern Europe was sold out to Stalin - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Yalta Conference at Livadia Palace, February 1945, where the myth claims Eastern Europe was sold out to Stalin - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 ## The Verdict
 

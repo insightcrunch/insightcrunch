@@ -8,10 +8,10 @@ tags: ["World War 2", "close-read", "yalta-protocol", "postwar-arrangements", "b
 excerpt: "Close reading of the fourteen-section Yalta Protocol: United Nations machinery, Polish frontiers, German reparations, and the Soviet pledge for the Pacific."
 image: /assets/images/blog/blog-03.webp
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-12-02
+lang: en
 ---
-
 ## The Verdict
 
 The Yalta Protocol February 1945 stands among the most ambitious committee-drafted documents of the Second World War. Signed on February 11, 1945, at the close of the Crimea Conference, the Protocol of the Proceedings recorded in fourteen numbered sections the full inventory of what the American, British, and Soviet leaderships had agreed, deferred, or deliberately left ambiguous during eight days of negotiation at Yalta. Drafted in working sessions by the three foreign ministers, Edward R. Stettinius Jr. of the United States, Vyacheslav Molotov of the Soviet Union, and Anthony Eden of Britain, and approved by President Franklin D. Roosevelt, Prime Minister Winston Churchill, and Generalissimo Joseph Stalin, the document then disappeared from public view. A general communique went to the press on February 12; the Protocol itself, with its most sensitive provisions intact, remained in government files until the United States Department of State released the complete text on March 24, 1947.
@@ -58,7 +58,7 @@ The conference narrative itself, the personalities, the setting at Livadia Palac
 
 Secrecy surrounded the Protocol from the start. At Soviet request, provisions judged sensitive were withheld from any publication, and the existence of the full text was not acknowledged. The foreign ministers signed the Protocol on February 11, 1945, and then the delegations dispersed with the document effectively sealed. For more than two years the public knew the communique's generalities but not the Protocol's specifics. The gap between the two created an information asymmetry that later complicated every debate about what had been agreed: critics attacked the communique's promises without access to the Protocol's qualifications, and defenders could not cite the qualifications without revealing the text.
 
-![The Allied leadership at Yalta, where the Protocol of Proceedings was negotiated and signed](/assets/images/blog/blog-03.webp)
+![The Allied leadership at Yalta, where the Protocol of Proceedings was negotiated and signed](/assets/images/blog/blog-62.webp)
 
 The drafting architecture deserves emphasis because it is the foundation of the article's central claim. Three national delegations, each with its own foreign ministry traditions, legal vocabulary, and political constraints, produced in eight days a single text of fourteen sections covering four continents. The achievement required standing institutions: foreign ministries capable of generating position papers, interpreter corps capable of consecutive translation at speed, and a shared procedural grammar of plenaries, committees, and drafting sessions. None of this was improvised at Yalta. It was the product of years of wartime cooperation, from the Moscow conferences through Tehran, and it represented the most elaborate committee-diplomacy machinery assembled to that point in the war.
 

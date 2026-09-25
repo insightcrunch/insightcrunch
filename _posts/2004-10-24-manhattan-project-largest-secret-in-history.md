@@ -6,17 +6,17 @@ date: 2004-10-24
 categories: ["Leisure"]
 tags: ["World War 2", "institutional-biography", "manhattan-project", "atomic-bomb-development", "leslie-groves", "oppenheimer-los-alamos"]
 excerpt: "The Manhattan Project largest secret in history fused Army command, academic science, and industrial might to forge the atomic bomb behind a wall of secrecy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2004-10-24
+lang: en
 ---
-
 ## The Verdict
 
 The Manhattan Project largest secret in history was also the largest scientific and industrial undertaking of the Second World War. Between the summer of 1942 and the summer of 1945, the United States Army, the American scientific establishment, and the great industrial corporations of the country built an institution that employed some 130,000 people, spent roughly two billion dollars, constructed entire cities in Tennessee and Washington state, and produced the first atomic weapons, all while keeping the purpose of the enterprise hidden from the American public, from Congress, and even from the Vice President of the United States. No comparable secret had ever been kept at such a scale, and none has been kept since. The institution succeeded so completely in its concealment that most of the workers who built it never knew what they were building, and the men who authorized its budget in Congress never knew what they were funding.
 
-![The Manhattan Engineer District and the vast secret cities of the atomic bomb program - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Manhattan Engineer District and the vast secret cities of the atomic bomb program - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The formal name of the institution was the Manhattan Engineer District, and the familiar name came from the Army Corps of Engineers district office in New York that first administered it. The District was established on August 13, 1942, with a single mission: to develop atomic weapons before the Axis could. What followed was an exercise in institutional invention without precedent. A brigadier general of engineers who had just finished building the Pentagon was given nearly unlimited money and told to produce a weapon that the scientists were not certain would work. A theoretical physicist with no administrative experience, no Nobel Prize, and a Federal Bureau of Investigation file full of left-wing associations was put in charge of the laboratory that had to design the weapon. Around those two men, the Army assembled a structure that joined military command, university science, and corporate industry into a single working machine, spread across some thirty sites in the United States and Canada, governed by a Military Policy Committee at the top, and sealed from the outside world by a system of compartmentalization so thorough that it sometimes impeded the work it was meant to protect.
 

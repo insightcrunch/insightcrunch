@@ -6,12 +6,12 @@ date: 2004-12-29
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "fdr-speech", "day-of-infamy", "pearl-harbor-response"]
 excerpt: "Franklin Roosevelt needed six and a half minutes to take America to war. The FDR Day of Infamy address compressed rage, facts, and resolve into one speech."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2004-12-29
+lang: en
 ---
-
 ## The Verdict
 
 The FDR Day of Infamy address, delivered to a joint session of Congress at half past noon on December 8 1941, is the most consequential short speech in the history of the American presidency. Franklin Roosevelt had roughly six and a half minutes of speaking time to accomplish what two and a half years of neutrality legislation, lend-lease debates, Atlantic Charter conferences, and fireside chats had not accomplished: the formal, lawful, nearly unanimous entry of the United States into the Second World War. He did it with a text of barely five hundred words, a single devastating edit, and a rhetorical compression so complete that the speech became, within days, the template through which an entire generation understood what had happened at Pearl Harbor and why America would fight.
@@ -20,7 +20,7 @@ The central judgment of this close read is that the speech worked because it ref
 
 The one word that carried the speech into permanent memory was not in the staff draft. The original sentence described December 7 as a date that would live on in world history. Roosevelt crossed that out and wrote infamy. That single substitution changed the sentence from a historian's observation into a moral verdict, from a prediction about remembrance into a judgment about guilt, and it is no exaggeration to say that American popular memory of the war was permanently shaped by one man's editorial choice, made overnight, in pencil, on the draft of a war message. The pages that follow take the message apart sentence by sentence, trace its drafting and its delivery, follow its consequences through Congress and across the world, and set it against the command-architecture alternative that Berlin would offer three days later.
 
-![Franklin Roosevelt delivering the Day of Infamy war message to a joint session of Congress on December 8 1941 - Insight Crunch](/assets/images/blog/blog-25.webp)
+![Franklin Roosevelt delivering the Day of Infamy war message to a joint session of Congress on December 8 1941 - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 ### How long was the Day of Infamy speech?
 

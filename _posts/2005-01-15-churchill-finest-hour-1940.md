@@ -6,17 +6,17 @@ date: 2005-01-15
 categories: ["Leisure"]
 tags: ["World War 2", "close-read", "churchill-speech", "france-falls-context", "finest-hour-rhetoric"]
 excerpt: "A close read of Churchill's finest hour peroration: the Battle of Britain coinage, Christian civilisation, perverted science, and the thousand-year summons."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-01-15
+lang: en
 ---
-
 ## The Verdict
 
 The Churchill finest hour speech, delivered in the House of Commons on the afternoon of June 18 1940, is the most ambitious act of political naming in modern British history, and its ambition succeeded. France was falling as Churchill spoke; Marshal Pétain had formed a government at Bordeaux on June 16, had asked for armistice terms on June 17, and would sign the capitulation at Compiègne on June 22. Britain stood exposed to invasion for the first time since the Napoleonic Wars, its army stripped of its heavy equipment at Dunkirk, its principal continental ally collapsing, its air force about to face the Luftwaffe over the Channel and the south of England. Churchill's address, which ran to roughly thirty minutes, did not flinch from that inventory. What it did, in its closing peroration, was something larger than reassurance: it redefined the moment itself, converting the prospect of solitary national defeat into the prospect of a thousand-year historical significance, and in the same breath it coined the name by which the coming air campaign would be remembered forever.
 
-![Churchill delivers the finest hour speech in the House of Commons in June 1940 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Churchill delivers the finest hour speech in the House of Commons in June 1940 - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The central judgment of this close read is that the June 18 speech completed, in three movements across five weeks, the rhetorical construction of Churchill's wartime leadership. The May 13 address had offered blood, toil, tears and sweat as the currency of honesty; the June 4 address had converted the Dunkirk evacuation into a vow of refusal, we shall never surrender; the June 18 address supplied the third and grandest element, the temporal and civilizational frame that gave suffering a meaning. "This was their finest hour" operates through a construction historians of rhetoric call prolepsis, or future retrospection: the present difficulty is viewed through the eyes of men a thousand years hence, and thereby transformed from potential disgrace into guaranteed significance. The move is audacious precisely because it does not depend on victory being certain. Churchill does not promise that Britain will win; he promises that Britain's bearing, whether in victory or defeat, will be remembered as its finest hour. That conditional confidence is what makes the peroration intellectually honest even as it is emotionally overwhelming.
 

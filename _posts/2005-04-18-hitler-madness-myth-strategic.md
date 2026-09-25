@@ -6,13 +6,13 @@ date: 2005-04-18
 categories: ["Leisure"]
 tags: ["World War 2", "myth-bust", "hitler-strategic-rationality", "nazi-ideology", "historical-caricature", "explanation-rejected"]
 excerpt: "Hitler the lunatic is a myth. The record shows an ideologically consistent leader, rational inside catastrophic goals, ruined by war. Madness explains nothing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-04-18
+lang: en
 ---
-
-![Adolf Hitler at a wartime military briefing, subject of a myth-bust examining whether the madness thesis explains his decisions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Adolf Hitler at a wartime military briefing, subject of a myth-bust examining whether the madness thesis explains his decisions - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 ## The Verdict
 

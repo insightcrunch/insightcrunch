@@ -6,19 +6,19 @@ date: 2004-10-02
 categories: ["Leisure"]
 tags: ["World War 2", "institutional-biography", "shaef", "eisenhower-command", "integrated-allied-command"]
 excerpt: "SHAEF Supreme Headquarters Allied Expeditionary Force fused Allied armies under Eisenhower. Founding, friction, victory, and orderly dissolution told here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2004-10-02
+lang: en
 ---
-
 ## The Verdict
 
 The SHAEF Supreme Headquarters Allied Expeditionary Force was the most institutionally integrated multinational command of the Second World War, and its record is the clearest proof that a committee-architecture system can run a coalition war without dissolving into national bickering. Designated in December of 1943, activated in January of 1944, and dissolved on July 14 of 1945, SHAEF existed for only eighteen months. In that span it directed the largest amphibious assault in history, coordinated five national armies and a dozen smaller contingents across eleven months of continuous campaigning in Northwest Europe, absorbed the worst operational failures of the Western campaign without breaking apart, and then handed its responsibilities to the occupation authorities and quietly ceased to exist. No Axis headquarters ever achieved anything comparable. The German and Japanese command systems, for all their tactical virtuosity, never built a mechanism that could fuse the armies of separate sovereign states under a single operational authority, because their political structures could not tolerate the negotiation, compromise, and shared authority that such a mechanism requires. SHAEF could, and did, and the fact that it did is the institutional achievement this biography examines.
 
 The headquarters was Dwight D. Eisenhower's instrument, but it was not Eisenhower's personal empire, and that distinction matters. A Supreme Commander in a command-architecture system rules by prerogative; Eisenhower ruled by committee management. His deputy was a British airman, Air Chief Marshal Sir Arthur Tedder. His chief of staff was an American, Lieutenant General Walter Bedell Smith. His ground forces commander was, until September of 1944, a British field marshal, Bernard Montgomery. His naval commander was British, Admiral Sir Bertram Ramsay, and his air commander was British, Air Chief Marshal Sir Trafford Leigh-Mallory. The national arithmetic of the staff was deliberately balanced: American officers filled many of the key planning billets, British officers filled many of the operational ones, and Canadians, Frenchmen, Poles, and others occupied staff positions proportionate to their national contributions. The arrangement was designed so that no single nation could be accused of running the war, and it was designed so that every nation had a stake in the headquarters' success. The miracle, if that is the right word, is that it worked as well as it did while accommodating personalities as formidable as Montgomery, George Patton, and Charles de Gaulle.
 
-![Dwight Eisenhower with SHAEF command staff planning the Normandy campaign - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dwight Eisenhower with SHAEF command staff planning the Normandy campaign - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 What SHAEF inherited from its predecessor, the COSSAC staff under Lieutenant General Frederick Morgan, was a plan; what it had to build for itself was an institution. COSSAC, the Chief of Staff to the Supreme Allied Commander (designate), had been established in April of 1943 to do the detailed Overlord planning before a Supreme Commander was named. Morgan and his mixed British-American staff produced the initial assault concept, the three-division frontage later expanded to five, the logistics framework, and the deception architecture that Operation Fortitude would refine. When Eisenhower arrived in January of 1944, he absorbed COSSAC wholesale, keeping Morgan as deputy chief of staff and retaining the planning products that eighteen months of staff work had generated. The transition was seamless precisely because COSSAC had been designed as SHAEF's embryo. The institutional lesson is worth stating plainly: SHAEF did not begin from nothing, and its smooth activation owed everything to the foresight of the Combined Chiefs of Staff, who had created a planning headquarters a full nine months before naming the commander who would use it.
 
