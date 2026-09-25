@@ -6,15 +6,15 @@ date: 2014-02-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Ottoman Egypt", "Historiography", "Islamic Egypt", "World History", "Mamluks"]
 excerpt: "Whether Ottoman rule really caused Egypt to decline, what revisionist evidence shows, and how colonial and nationalist framing built the decline story."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-02-01
+lang: en
 ---
-
 The standard account of the three centuries between the Ottoman conquest of 1517 and the arrival of Muhammad Ali runs in a straight line downward. Egypt stopped being the seat of an empire and became a province. The spice traffic that had made it rich went round the Cape. Istanbul taxed it and neglected it. A revived Mamluk elite fought itself in the streets and bled the countryside. Canals silted, plague returned every decade, learning ossified, and the whole exhausted structure fell to a French expeditionary force in three weeks, which is taken as the proof of everything that came before.
 
-![Did Ottoman rule cause Egypt to decline, and what the evidence actually shows - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Did Ottoman rule cause Egypt to decline, and what the evidence actually shows - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 That account is not fabricated. Every element in it corresponds to something real. It is also, as a description of what happened to Egypt between 1517 and 1800, substantially misleading, and a considerable body of scholarship over the past several decades has been dismantling it piece by piece.
 

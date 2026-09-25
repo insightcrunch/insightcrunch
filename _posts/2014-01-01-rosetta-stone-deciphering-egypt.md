@@ -6,15 +6,15 @@ date: 2014-01-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Archaeology", "Historiography", "Ptolemaic Egypt", "World History", "Ottoman Egypt"]
 excerpt: "What the Rosetta Stone actually says, how its three scripts unlocked the hieroglyphs, who deciphered them, and why its place in London remains disputed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2014-01-01
+lang: en
 ---
-
 A broken slab of dark grey granodiorite, about a metre high and weighing something over three quarters of a tonne, carries on one face a tax-and-temple decree issued by a committee of priests in 196 BCE on behalf of a thirteen year old king. The text is administrative, formulaic, and in substance rather dull: a list of honours voted to the monarch, a schedule of concessions he had granted, and an instruction that copies be set up in temples across the country. Several hundred similar decrees were issued in Egypt over the Ptolemaic centuries and almost none of them attract any attention at all.
 
-![The Rosetta Stone and how the hieroglyphs of ancient Egypt were deciphered - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Rosetta Stone and how the hieroglyphs of ancient Egypt were deciphered - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 This one reopened three thousand years of Egyptian writing. The reason has nothing to do with what it says and everything to do with how it says it: the same text appears three times, in hieroglyphic, in a cursive Egyptian script called Demotic, and in Greek, and Greek was a language European scholars had never stopped being able to read. Somewhere in the relationship between those three panels lay the possibility of working backward from a known language to an unknown one, and in 1822 a French scholar who had never set foot in Egypt did exactly that.
 
