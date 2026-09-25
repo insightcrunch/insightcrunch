@@ -6,12 +6,12 @@ date: 2005-11-13
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "eastern-front", "stalin-barbarossa-warnings-counterfactual", "soviet-union"]
 excerpt: "Stalin received more than eighty warnings of the German invasion and dismissed them all. This counterfactual measures what changed if he had believed them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-11-13
+lang: en
 ---
-
 If Stalin had heeded the Barbarossa warnings, the largest land invasion in history would have struck an army that expected it. The counterfactual examined here turns on one of the most consequential refusals in modern history: the refusal of the Soviet leadership, in the spring of 1941, to believe the evidence its own intelligence services were delivering. Richard Sorge reported from Tokyo with the approximate date of the attack, the third week of June. British diplomats delivered warnings derived from decrypted German signals showing the Wehrmacht's eastward redeployment in unmistakable detail. German deserters crossed the frontier in late May and early June with unit-level timetables, one of them, Alfred Liskov, swimming the Bug River on the night of June 21 with news of an attack only hours away. The NKVD's own agents in Germany filed convergent reports on rail movements, supply stockpiles, and Luftwaffe forward deployments. Soviet military attaches in European capitals added their observations from their diplomatic posts. The total ran past eighty separate warnings, arriving through channels independent of one another, which meant their convergence could not be dismissed as a single source's error or a single enemy's deception. Stalin dismissed them anyway as Anglo-American disinformation, and on June 22, 1941, approximately three million German soldiers attacked a Red Army that had been forbidden to prepare. The price of that refusal is measured in the millions: Soviet military deaths in 1941 approached two million by year's end, and the war's total Soviet dead would reach approximately 27 million, the most appalling demographic catastrophe of the Second World War.
 
 The human cost of that refusal is the moral center of this account. Soviet military deaths in 1941 approached two million by year's end, and total Soviet war dead would reach approximately 27 million, the most appalling demographic catastrophe of the Second World War. The counterfactual examined here asks how many of those dead might have lived if the warnings had been believed: the defensible estimate is millions, though the war's ultimate outcome would not have changed. Germany's only path to victory was the short campaign, and an alerted Soviet Union denied the scale of encirclement on which that strategy depended.
@@ -20,7 +20,7 @@ The exercise that follows changes one variable and traces the consequences throu
 
 The question is not whether Germany would still have attacked. It would have. The question is whether an alerted Soviet Union could have blunted the invasion's opening phase, reduced the catastrophic losses of 1941, and changed the arithmetic of the war that followed.
 
-![Soviet soldiers manning a prepared defensive position with anti-tank guns in 1941, representing the counterfactual of a Red Army that had been warned and mobilized before the German invasion - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Soviet soldiers manning a prepared defensive position with anti-tank guns in 1941, representing the counterfactual of a Red Army that had been warned and mobilized before the German invasion - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 ## The Warnings: Eighty Channels, One Deaf Ear
 

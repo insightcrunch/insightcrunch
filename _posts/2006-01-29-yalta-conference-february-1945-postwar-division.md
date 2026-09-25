@@ -6,19 +6,19 @@ date: 2006-01-29
 categories: ["Leisure"]
 tags: ["World War 2", "yalta-conference", "franklin-roosevelt", "decision-reconstruction", "european-theater", "cold-war-origins"]
 excerpt: "Three leaders met in Crimea to build the peace. They created the United Nations and divided Germany, but Poland became the fracture splitting the alliance."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-01-29
+lang: en
 ---
-
 By the first week of February 1945, the map of Europe was being redrawn in ink that would not dry for another two generations. On the fourth of the month, three men sat down in the Livadia Palace at Yalta, on the Crimean coast of the Soviet Union, to settle the political shape of the postwar world. One was dying. One was exhausted by six years of war and a failing empire. One was at the absolute peak of his power, with eleven million soldiers under his command and his armies sixty miles from Berlin. They talked for eight days. What they agreed upon became the foundation of the United Nations, the partition of Germany, and the borders of Poland. What they could not agree upon, and what they papered over with ambiguous language, became the Iron Curtain.
 
 The Yalta Conference is the most controversial summit of the Second World War, and the most misunderstood. Critics have charged for decades that Franklin Roosevelt and Winston Churchill [sold out Eastern Europe](/2005/03/22/yalta-sold-out-eastern-europe-myth/), handing millions of people to Soviet domination for nothing. Defenders have answered that Yalta merely ratified a military reality that no conference could have changed. Both claims contain truth and both obscure it. This article reconstructs the decision sequence that led the three leaders to Crimea, the eight days of negotiation, and the agreements that followed, from the specific records of the plenary sessions, the translators' notes, and the participants' accounts.
 
 The namable claim: Yalta was the Allied committee system at maximum intensity, a three-leader summit supported by roughly seven hundred staff, producing institutional frameworks that outlived the war itself. It was simultaneously the committee's greatest achievement and its sharpest limitation, because no committee, however well staffed, could negotiate away an army that was already standing on the ground.
 
-![Roosevelt, Churchill, and Stalin at the Yalta Conference in Crimea - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Roosevelt, Churchill, and Stalin at the Yalta Conference in Crimea - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 ## The Military Map as February 1945 Opened
 

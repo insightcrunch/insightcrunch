@@ -6,19 +6,19 @@ date: 2005-11-24
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "pacific-theater", "pearl-harbor-counterfactual", "japan", "united-states"]
 excerpt: "Japan could have seized the Indies oil without striking the Pacific Fleet. This counterfactual traces the delayed American war entry that might have followed."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-11-24
+lang: en
 ---
-
 On the morning of December 7, 1941, the aircraft carriers of the Imperial Japanese Navy launched 353 aircraft against the American Pacific Fleet at anchor in Pearl Harbor, Hawaii. The attack destroyed or damaged nineteen American warships, killed 2,403 Americans, and, by the following afternoon, had placed the United States Congress in a position where a declaration of war against Japan passed with a single dissenting vote. The actual decision that produced that morning belongs to a different account in this series. This article asks a different question, one that Japanese planners debated and rejected in the summer and autumn of 1941: what if Japan had struck south against the European colonies of Southeast Asia, the Dutch East Indies and British Malaya, and had left the American Pacific Fleet untouched?
 
 The Pearl Harbor operation was, by the judgment of the scholars who have studied the Japanese records most closely, a contingent choice rather than a structural necessity. The Imperial Japanese Navy proposed it; the Army was skeptical; the imperial conference system required the services to agree; and the mechanism that carried the day was the personal authority of Admiral Isoroku Yamamoto, who made the strike a condition of his remaining in command. Had the decision gone the other way, the United States would have faced a war it had not chosen, in defense of colonies it did not own, against an enemy that had not attacked it. The path from that situation to American belligerency was not automatic. It ran through congressional politics, isolationist sentiment, and the friction of undeclared naval war. Tracing it shows how much of the actual war's shape depended on single command-architecture decisions, and how much of the Allied committee architecture required specific shocks to assemble.
 
 Everything in this article that describes events before December 1941 is actual history, drawn from the documented record. Everything that describes events after the morning of December 7, 1941, is counterfactual reasoning, anchored at each step in documented decision points, actual forces, and the known positions of the historical actors. The two registers are kept separate throughout, and the article marks the boundary wherever it matters.
 
-![Japanese aircraft carriers of the Kido Butai strike force at sea in late 1941, the fleet whose redeployment away from Hawaii anchors this counterfactual - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Japanese aircraft carriers of the Kido Butai strike force at sea in late 1941, the fleet whose redeployment away from Hawaii anchors this counterfactual - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 ## The Verdict
 

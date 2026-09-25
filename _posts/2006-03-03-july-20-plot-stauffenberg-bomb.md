@@ -6,17 +6,17 @@ date: 2006-03-03
 categories: ["Leisure"]
 tags: ["World War 2", "claus-von-stauffenberg", "decision-reconstruction", "european-theater", "july-20-plot", "germany"]
 excerpt: "Stauffenberg slid the briefcase under the table. An officer moved it behind an oak support. Hitler lived, and the plotters faced a firing squad by midnight."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-03-03
+lang: en
 ---
-
 The July 20 plot came down to a heavy oak table support. Colonel Claus von Stauffenberg set a briefcase holding an armed two-pound charge under the conference table in the briefing hut at the Wolfsschanze at roughly half past noon on July 20, 1944. Colonel Heinz Brandt, reaching for the situation maps, moved the briefcase to the far side of one of the table's massive supports. At 12:42 p.m. the charge detonated. The support absorbed the blast. Adolf Hitler walked out with burst eardrums, minor burns, and a tremor in his right arm that never left him. Four other men were killed.
 
 What followed demonstrated why the coup could not work. Stauffenberg flew to Berlin convinced Hitler was dead, and the conspirators triggered Operation Valkyrie at roughly 3:00 p.m. By evening the telephone had undone them: Goebbels confirmed the Fuehrer lived, and Hitler personally ordered Major Otto Ernst Remer to crush the uprising. Before midnight, General Friedrich Fromm ordered Stauffenberg and three fellow officers shot in the Bendlerstrasse courtyard. By dawn the rising was over.
 
-![Colonel Stauffenberg and the July 20 1944 bomb plot at Wolfsschanze - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Colonel Stauffenberg and the July 20 1944 bomb plot at Wolfsschanze - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 This article reconstructs the decision sequence behind the July 20 plot, the most significant internal German attempt to kill Hitler and overthrow the Nazi regime: the resistance from 1938, the failed bombings of 1943, Stauffenberg's rise to lethal access, the minute-by-minute execution, the hours-long Valkyrie uprising, and the Gestapo revenge. The namable claim: German command architecture left assassination as the only corrective mechanism, and the plot's failure showed that even assassination could not overcome that architecture. The house thesis runs in inverse here.
 

@@ -6,15 +6,15 @@ date: 2006-03-14
 categories: ["Leisure"]
 tags: ["World War 2", "dwight-eisenhower", "decision-reconstruction", "european-theater", "overlord-planning", "united-states"]
 excerpt: "Morgan's COSSAC staff planned Overlord with no supreme commander named. SHAEF, Fortitude, and Mulberry harbors built history's largest amphibious operation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2006-03-14
+lang: en
 ---
-
 In April 1943, Lieutenant General Frederick Morgan received an assignment no general had ever held: Chief of Staff to a Supreme Allied Commander who did not exist. His COSSAC staff at Norfolk House in London was ordered to produce the detailed Overlord plan for the largest amphibious invasion in history, the cross-Channel assault on Nazi-occupied France, without knowing who would command it, when it would launch, or how many divisions the Combined Chiefs would ultimately authorize. Morgan's answer, delivered that July, proposed three divisions ashore in Normandy. By the time the operation executed the following June, the plan had grown to five assault divisions, 150,000 men on the first day, some 7,000 vessels, 12,000 aircraft, two artificial harbors, a fictitious army group, and a deception apparatus that fooled German intelligence for weeks after the landings. Overlord planning was the most ambitious staff enterprise of the Second World War, and this article reconstructs how it was decided, from Morgan's staff without a chief to Eisenhower's SHAEF. The claim is direct: the planning succeeded because Allied committee architecture turned fourteen months of argument into a single executable design, but its one serious failure was optimism, because the same committee machinery that engineered the invasion also talked itself into believing the breakout would come faster than it did.
 
-![Lieutenant General Frederick Morgan's COSSAC staff planning the Normandy invasion at Norfolk House - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lieutenant General Frederick Morgan's COSSAC staff planning the Normandy invasion at Norfolk House - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 ## The Decision Nobody Owned: Casablanca to COSSAC
 

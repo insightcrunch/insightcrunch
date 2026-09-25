@@ -6,15 +6,15 @@ date: 2006-04-22
 categories: ["Leisure"]
 tags: ["World War 2", "guy-gibson", "decision-reconstruction", "european-theater", "operation-chastise", "united-kingdom"]
 excerpt: "Operation Chastise sent nineteen Lancasters skimming German reservoirs at sixty feet. Wallis's bouncing bomb breached two dams, costing fifty-three aircrew."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-04-22
+lang: en
 ---
-
 Eleven minutes before one in the morning on May 17 1943, Operation Chastise reached its violent climax above the Möhne reservoir in the German Ruhr valley. Five cylindrical mines had skipped across the black water of the lake like thrown stones, each released from an aircraft flying sixty feet above the surface at two hundred thirty miles per hour. The fifth mine sank against the dam's inner face and detonated thirty feet down, where the weight of the water itself drove the blast into the masonry. The wall cracked, then split, then collapsed in a cascade of stone and water. The raid had breached its first dam. Nineteen Lancasters of the Royal Air Force's newly formed 617 Squadron had flown into Germany to do something no bomber force had ever attempted: to destroy a dam not by dropping explosives on it, but by bouncing a weapon across a reservoir, sinking it against the wall, and letting hydrostatic pressure do the work. The night would cost the squadron eight of those nineteen aircraft and fifty-three of the one hundred thirty-three aircrew who took off. It would kill roughly sixteen hundred Germans, most of them forced laborers, and it would change almost nothing about the course of the industrial war in the Ruhr. This article reconstructs the decisions that produced the raid, from a lone designer's skimming-stone insight in 1938 to the four months of compressed development that carried it from Air Ministry approval to the lakes of Germany, and it judges what the raid actually bought.
 
-![Avro Lancasters of 617 Squadron on the Dams Raid with the Upkeep bouncing bomb - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Avro Lancasters of 617 Squadron on the Dams Raid with the Upkeep bouncing bomb - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The central claim is that Operation Chastise was a triumph of Allied committee architecture and a warning about it at the same time. A scientist with a strange idea, an aircraft company willing to build to his specifications, a service chief willing to overrule his own staff's skepticism, and a squadron of handpicked crews trained in six weeks: that chain turned a 1938 thought experiment into a breached dam in 1943. No fragmentary, personality-driven system could have produced that sequence. Yet the same architecture that made the operation possible also produced the operation's greatest defect. The damage assessments that justified the raid, and that celebrated it afterward, were wrong about the strategic effect. German industry absorbed the blow in months, the casualties fell disproportionately on enslaved workers rather than on the German war machine, and the raid's true product was propaganda and precedent rather than the crippling of Ruhr industry. The decision to launch Chastise was brave, brilliant, and substantially mispriced. To understand why requires walking the full sequence, decision by decision, from the drawing board to the flood.
 

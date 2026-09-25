@@ -6,15 +6,15 @@ date: 2005-11-02
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "north-african-campaign", "rommel-egypt-counterfactual", "germany", "desert-war"]
 excerpt: "If Rommel had taken Egypt in that summer, Suez and the Middle Eastern oil fields would have fallen under Axis shadow. This is the counterfactual examined."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-11-02
+lang: en
 ---
-
 On July 1, 1942, the Panzerarmee Afrika reached the El Alamein line, roughly sixty miles from Alexandria and about a hundred and fifty from Cairo. Erwin Rommel had captured Tobruk ten days earlier, had driven his columns some 380 miles across Cyrenaica and the Western Desert in a fortnight, and stood with a force reduced to approximately fifty-five operational tanks. The question this account examines is what would have happened if Rommel had taken Egypt: if that last sixty miles had been crossed, if Cairo had fallen in the summer of 1942, if the Suez Canal had passed into Axis hands. The counterfactual diverges from actual history at the El Alamein position in early July 1942, where General Claude Auchinleck's hastily assembled defenses held the line, and it asks what an Axis Egypt would have meant for the shipping lanes, the oil fields, the Soviet southern flank, and the Anglo-American strategy for the remainder of the war.
 
-![German tanks advancing across the Western Desert toward Egypt with supply columns stretching behind them - Insight Crunch](/assets/images/blog/blog-01.webp)
+![German tanks advancing across the Western Desert toward Egypt with supply columns stretching behind them - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 Counterfactual history only works when the rules are stated in advance. This account applies the series conventions: a genuine divergence point with minimal change, a confidence gradient from near-term certainty to long-term humility, an architecture test of what each step reveals about command versus committee decision-making, and an honest statement of where evidence ends and judgment begins.
 

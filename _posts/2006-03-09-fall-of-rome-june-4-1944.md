@@ -6,17 +6,17 @@ date: 2006-03-09
 categories: ["Leisure"]
 tags: ["World War 2", "mark-clark", "decision-reconstruction", "mediterranean-theater", "fall-of-rome", "united-states"]
 excerpt: "Defying Alexander, Clark raced to Rome instead of trapping the German Tenth Army. The Fall of Rome came first, but the escaped Germans still fought on."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-03-09
+lang: en
 ---
-
 ## The Order That Changed the Campaign
 
 On May 26, 1944, Lieutenant General Mark Clark, commanding the American Fifth Army in Italy, issued the order that set up the Fall of Rome and altered the shape of the Mediterranean war. For three days, the American VI Corps under Major General Lucian Truscott had been driving east from the Anzio beachhead toward Valmontone, a road junction on Highway 6 where the retreating German Tenth Army could be intercepted and destroyed. The Allied theater commander, General Harold Alexander, had directed this maneuver in written orders dated May 5. Clark's new instruction reversed it. Truscott was to turn the main weight of his corps northwest, toward Rome, and leave the Valmontone effort to whatever forces could be spared. The German Tenth Army, the principal fighting formation the Allies had sought to annihilate, slipped through the gap and marched north substantially intact.
 
-![American infantry advancing toward Rome in June 1944, the capital's outskirts visible ahead - Insight Crunch](/assets/images/blog/blog-01.webp)
+![American infantry advancing toward Rome in June 1944, the capital's outskirts visible ahead - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The stakes of that decision were measured in the months that followed. The Fall of Rome came on June 4, the first Axis capital to be taken by Allied forces, and Clark entered it in triumph with newsreel cameras rolling. Forty-eight hours later, the Normandy landings began, and the fall of Rome vanished from the front pages almost overnight. Meanwhile, the escaped German Tenth Army took up positions along the Pisa-Rimini Line in the northern Apennines, the Gothic Line, where it held Allied armies through the winter and into the spring of 1945. The Italian campaign, which might have been substantially shortened by the destruction of a German field army in May 1944, became instead a grinding secondary theater that consumed Allied strength for another year.
 

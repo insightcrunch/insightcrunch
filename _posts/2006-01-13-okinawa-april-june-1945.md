@@ -6,17 +6,17 @@ date: 2006-01-13
 categories: ["Leisure"]
 tags: ["World War 2", "simon-buckner", "decision-reconstruction", "pacific-theater", "okinawa-campaign", "united-states"]
 excerpt: "Buckner landed on Okinawa April 1 and spent 82 days paying for Japanese home soil. The casualties forced planners to project invasion costs in the millions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-01-13
+lang: en
 ---
-
 On the morning of June 18, 1945, Lieutenant General Simon Bolivar Buckner Jr. stood on the observation bridge of his forward command post on Okinawa, watching American artillery fall on Japanese positions less than two miles away. He had commanded the Tenth Army through eleven weeks of the costliest ground battle of the Pacific war, and organized Japanese resistance was four days from collapse. A Japanese shell struck a coral outcrop near the bridge. Fragments tore through his chest, and he died within the hour, the highest-ranking American officer killed by enemy action in the Second World War. He never learned what his battle would do to American strategy.
 
 The Okinawa campaign was the largest amphibious operation of the Pacific war and the battle whose cost became the unit of measurement for the invasion of Japan that never happened. Some 183,000 combat troops went ashore in the initial assault, backed by about 1,300 ships and 1,800 aircraft, against a Japanese 32nd Army of roughly 100,000 men dug into fortifications that ran 60 miles through coral ridge and cave. Eighty-two days later the Americans held the island at a price of about 14,000 killed and 36,000 wounded, the Japanese garrison was annihilated, and roughly 150,000 Okinawan civilians, half the island's prewar population, were dead. In Washington and on Guam, planners studying those figures were already doing the arithmetic that would lead, through July and August, to the decision to use the atomic bomb.
 
-![Okinawa landings with amphibious assault ships off the Hagushi beaches and American troops advancing inland - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Okinawa landings with amphibious assault ships off the Hagushi beaches and American troops advancing inland - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 Okinawa was the largest amphibious operation of the Pacific war, the bloodiest single battle fought by American ground forces in the Pacific, and the campaign whose cost became the unit of measurement for the invasion of Japan that never happened. Approximately 183,000 combat troops went ashore in the initial assault, backed by some 1,300 ships and 1,800 aircraft. Against them stood the Japanese 32nd Army under Lieutenant General Mitsuru Ushijima, roughly 100,000 troops dug into southern Okinawa behind fortifications that ran some 60 miles through coral ridge, cave, and tunnel. The Americans won, after 82 days, at a price of about 14,000 killed, 36,000 wounded, and 26,000 evacuated with combat fatigue or other non-battle injuries. The Japanese garrison was nearly annihilated. And roughly 150,000 Okinawan civilians, half the island's prewar population of about 300,000, died in a catastrophe that ranks among the worst civilian disasters of the war.
 

@@ -6,17 +6,17 @@ date: 2006-04-27
 categories: ["Leisure"]
 tags: ["World War 2", "mordechai-anielewicz", "decision-reconstruction", "european-theater", "warsaw-ghetto-uprising", "poland"]
 excerpt: "On Passover morning the Warsaw Ghetto Uprising began, as poorly armed fighters repelled Stroop's assault. Twenty-eight days of burning destroyed the ghetto."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2006-04-27
+lang: en
 ---
-
 ## The Warsaw Ghetto Uprising: A Decision Made Without Hope of Victory
 
 At 3:00 a.m. on April 19, the first day of Passover, German forces entered the Warsaw Ghetto to begin its final liquidation. SS and Police Leader Jurgen Stroop expected a three-day action. His force of approximately 2,090 men included Waffen SS troops, German order police, Ukrainian Trawniki auxiliaries, and Latvian police auxiliaries. Against them stood roughly 370 Jewish fighters of the Jewish Combat Organization and the Jewish Military Union, armed with approximately ten rifles, some seventy-five pistols, a small stock of grenades, Molotov cocktails, and homemade explosives. The clash should have lasted hours. It became the Warsaw Ghetto Uprising, and it lasted twenty-eight days.
 
-![Warsaw Ghetto fighters in fortified bunkers resisting Stroop's assault during the April 1943 uprising - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Warsaw Ghetto fighters in fortified bunkers resisting Stroop's assault during the April 1943 uprising - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 The decision to fight under those conditions is the subject of this decision reconstruction. The Warsaw Ghetto Uprising of April 19 through May 16 was the largest Jewish armed resistance to the Holocaust and one of the first urban uprisings in German-occupied Europe. It ended in the destruction of the ghetto as a physical space and the death or deportation of nearly everyone who remained in it. The fighters knew this outcome was certain before they fired their first shots. The question is not whether the decision to resist was strategically sound, because no strategy could have produced victory. The question is what the decision meant, how it was organized, and why it became the central event of Jewish armed resistance during the Holocaust rather than a footnote to the liquidation.
 

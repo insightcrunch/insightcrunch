@@ -6,17 +6,17 @@ date: 2006-01-02
 categories: ["Leisure"]
 tags: ["World War 2", "adolf-hitler", "decision-reconstruction", "european-theater", "hitler-suicide", "germany"]
 excerpt: "Hitler went underground in January and died there by his own hand on April 30. His marriage, testaments, and the garden cremation ended the Reich in ten days."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-01-02
+lang: en
 ---
-
 Shortly before 3:30 in the afternoon of April 30, 1945, Adolf Hitler summoned the dozen or so people who remained in the Führerbunker beneath the Reich Chancellery and said his goodbyes. The building above him was burning. Soviet artillery had been falling on Berlin for days, Soviet infantry were fighting two kilometers from the Chancellery, and the garden where shell craters pocked the lawn stood within sight of the Russian guns. Hitler shook hands with the men and women who had served him to the end, thanked them in a voice the witnesses described as quiet and composed, and withdrew with Eva Hitler, the woman he had married some thirty-eight hours earlier, into his private study. A single pistol shot followed. When the staff entered, Hitler lay dead on the sofa, a pistol beside him, Eva beside him with the bitter almond smell of cyanide in the air. Both bodies were carried to the garden, laid in a shell crater, soaked with gasoline, and burned as Soviet shells continued to fall.
 
 The Third Reich outlived its founder by eight days. No order, no testament, no minister, and no army could keep it alive without him, because the regime had been constructed around a single human authority and no other. This is a reconstruction of the decision sequence that compressed the collapse of the largest land empire in European history into the ten days between April 22, when Hitler announced that he would die in Berlin, and April 30, when he kept the promise: the commands issued to armies that did not exist, the succession crisis, the betrayals answered with executions, the marriage and testaments of the final night, and the forensic record.
 
-![Hitler's Führerbunker beneath the Reich Chancellery during the final days of the Battle of Berlin - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hitler's Führerbunker beneath the Reich Chancellery during the final days of the Battle of Berlin - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The ten days in the bunker were the endpoint of a process that had begun much earlier. Hitler had moved his headquarters underground on January 16, 1945, retreating from the Western Front offensive that had collapsed in the Ardennes into a concrete shelter roughly 28 feet beneath the Reich Chancellery garden. Above him, over the next hundred days, the Reich disintegrated in both directions at once. Soviet armies drove 300 miles from the Vistula to the Oder and then breached the capital's defenses. American and British forces crossed the Rhine, encircled 325,000 men in the Ruhr Pocket, and advanced across central Germany with almost no coherent resistance in front of them. Inside the bunker, the machinery of command continued to produce situation conferences, operation orders, and promotions at the same tempo as always, except that the map no longer corresponded to the ground. Orders went out to armies that existed only on paper. Relief attacks were scheduled for divisions that had been destroyed weeks before. The personnel of the regime, watching the disconnection grow, began to plan for what came next, and Hitler, who noticed everything except the war he was losing, began to execute them for it.
 

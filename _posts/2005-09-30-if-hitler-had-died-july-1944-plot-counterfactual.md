@@ -6,15 +6,15 @@ date: 2005-09-30
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "claus-von-stauffenberg", "july-20-plot", "valkyrie-coup", "germany", "european-theater"]
 excerpt: "If Stauffenberg's bomb had killed Hitler, the Valkyrie coup might have seized Berlin and ended the war months early, halting the Holocaust in its final year."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2005-09-30
+lang: en
 ---
-
 The most consequential inches of the Second World War measured the distance between a briefcase and an oak table support, and the counterfactual of what would have followed if Hitler had died in the July 1944 plot begins from those inches. On the afternoon of July 20, 1944, Colonel Claus von Stauffenberg placed a briefcase containing an armed explosive charge under the conference table in the wooden briefing hut at Hitler's Wolfsschanze headquarters in East Prussia. Colonel Heinz Brandt, reaching for the situation maps spread across the table, moved the briefcase to the far side of one of the table's massive oak supports. At 12:42 p.m. the charge detonated. The support absorbed the blast directed at Hitler's seat. Adolf Hitler walked out of the wreckage with burst eardrums, burns, and a tremor that never left his right arm. Four other men died. The war continued for nearly ten more months.
 
-![Claus von Stauffenberg and the July plot counterfactual, the briefcase bomb that nearly killed Hitler - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Claus von Stauffenberg and the July plot counterfactual, the briefcase bomb that nearly killed Hitler - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The question of what would have followed if Hitler had died in the July 1944 plot is the most extensively debated counterfactual of the German war effort, and it is the one this article examines in full. The actual events of July 20, 1944, the bomb, the failed Valkyrie uprising in Berlin, and the Gestapo revenge that followed, are reconstructed in the series' dedicated account of the attempt. This article takes the divergence point seriously: the bomb kills Hitler, the telephone calls that saved the regime never happen, and Operation Valkyrie proceeds in Berlin under the conspirators' direction. From that single changed fact, the analysis traces the provisional government the plotters intended, the Wehrmacht's divided loyalties, the Allied response, the war's likely early termination, and the millions of lives that an earlier end might have preserved. The house thesis applies here at maximum intensity. The Nazi command system concentrated all authority in one person and provided no legitimate corrective mechanism, which meant that only assassination could attempt regime change. The counterfactual asks what that architecture's single-point vulnerability implied for everyone the war was still killing.
 

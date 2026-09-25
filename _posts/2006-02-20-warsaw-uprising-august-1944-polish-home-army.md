@@ -6,15 +6,15 @@ date: 2006-02-20
 categories: ["Leisure"]
 tags: ["World War 2", "tadeusz-bor-komorowski", "decision-reconstruction", "european-theater", "warsaw-uprising", "poland"]
 excerpt: "The Warsaw Uprising began August 1 as the Home Army rose to free Warsaw. Stalin halted across the Vistula. Sixty-three days then sealed Poland's fate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-02-20
+lang: en
 ---
-
 At five in the afternoon on August 1, 1944, thousands of young Poles stepped out of apartments and basements across Warsaw wearing red-and-white armbands, seized German soldiers in the streets, and opened fire on an occupation that had ruled the city for five years. Within hours the Polish flag flew from the tallest buildings in the city center. Within two months Warsaw was a ruin, its resistance crushed, its population decimated, its liberation achieved not by its own fighters but by the Soviet armies waiting across the river. The order that launched those sixty-three days was given by General Tadeusz Bór-Komorowski on information that proved partly wrong, in pursuit of a political objective that proved unreachable. This is a decision reconstruction of the July-to-October 1944 sequence: the Home Army's rising, the Soviet halt that doomed it, and the German destruction that completed it.
 
-![Warsaw Uprising fighters and the destroyed city, August to October 1944 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Warsaw Uprising fighters and the destroyed city, August to October 1944 - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 A disambiguation is necessary before the story begins, because the name misleads. The Warsaw Uprising of August 1944 was a city-wide rising by the Polish Home Army against the German occupation, and it is an entirely different event from the Warsaw Ghetto Uprising of April 1943, which was a separate Jewish resistance action confined to the ghetto and fought by the ZOB and ZZW. The two uprisings shared a city and little else: different fighters, different political frameworks, different German responses, different years. The earlier ghetto rising, a separate and earlier event confined to the ghetto in 1943, has its own account [elsewhere in this series](/2006/04/27/warsaw-ghetto-uprising-april-1943/), and readers seeking it should look there. What follows concerns August 1944 alone, and the Polish underground army that tried to free a capital.
 

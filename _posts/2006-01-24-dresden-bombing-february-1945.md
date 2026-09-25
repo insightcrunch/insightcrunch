@@ -6,15 +6,15 @@ date: 2006-01-24
 categories: ["Leisure"]
 tags: ["World War 2", "arthur-harris", "decision-reconstruction", "european-theater", "dresden-bombing", "united-kingdom"]
 excerpt: "Dresden escaped bombing until the final winter. Harris's area doctrine, a Soviet request at Yalta, and routine machinery combined to produce the firestorm."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-01-24
+lang: en
 ---
-
 At 10:14 on the night of February 13, 1945, the first British Pathfinder markers fell over Dresden, and the city that had been spared nearly four years of strategic bombing began to burn. Two hundred and forty-four Lancaster bombers of RAF No. 5 Group released their loads of high explosives and incendiaries onto a Baroque city crowded with refugees fleeing the Soviet advance, with railway yards jammed with troop traffic, with hospitals and factories and Wehrmacht offices, and with fire services utterly unprepared for what was coming. Fires started in dozens of places at once, merged into a single conflagration, and generated the self-sustaining updraft that aircrews called a firestorm. Seven hours later a second British force arrived to bomb the fires. Then the Americans came by daylight. In roughly thirty-eight hours, Allied bombers dropped some 3,900 tons of bombs on one city, killed approximately 25,000 people, destroyed roughly 90 percent of the historic center, and created the most argued-over moral case in the Allied bombing war. The controversy has rarely been honest. Defenders have hidden behind military euphemisms, critics have inflated the death toll tenfold, and both sides have used the dead for purposes the dead never chose. What follows reconstructs the decision as it actually happened: the doctrine that made it routine, the diplomacy that triggered it, the technique that made it lethal, and the accounting, factual and moral, that six decades of argument have finally made possible.
 
-![Dresden in flames during the February 1945 Allied bombing raids - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dresden in flames during the February 1945 Allied bombing raids - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The bombing of Dresden is worth reconstructing as a decision because the decision sequence is unusually well documented, unusually routine, and unusually revealing. No single dramatic order sent the bombers to Dresden in a moment of crisis. Instead, a doctrine built over three years, a command system designed to run large operations without daily political review, a Soviet request registered at the Yalta Conference, and a specific set of military facts about railway junctions and troop movements converged to produce an operation that everyone in the chain regarded at the time as normal. The moral earthquake came afterward. This article walks through that sequence, weighs the evidence about why Dresden was chosen, how many died, what the raids accomplished, and whether the operation belongs in the category of legitimate warfare or something darker. It takes a position on each. The position is that the Dresden raids were operationally routine within a morally questionable doctrine, strategically marginal in their effect, and symbolically inflated afterward by propaganda and bad scholarship into something they were not. That conclusion disappoints both the apologists and the accusers, which is usually a sign that the evidence has been given its due.
 

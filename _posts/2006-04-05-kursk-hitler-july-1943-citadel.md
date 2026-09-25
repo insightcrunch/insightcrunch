@@ -6,17 +6,17 @@ date: "2006-04-05"
 categories: ["Leisure"]
 tags: ["World War 2", "adolf-hitler", "decision-reconstruction", "eastern-front", "battle-of-kursk", "germany"]
 excerpt: "Hitler's wait for Tiger and Panther tanks doomed Operation Citadel. Soviet engineers used the delay to dig deep defenses, and the attack broke in eight days."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: "2006-04-05"
+lang: en
 ---
-
 ## The Proclamation Before the Storm
 
 On the afternoon of July 4, 1943, Adolf Hitler's headquarters distributed a proclamation to the German soldiers massed for Operation Citadel on the shoulders of the Kursk salient. The text told them that the whole future of the war might depend on the offensive they were about to launch, that the German people had given them the best weapons available, and that the blow they were to strike would shake the Soviet Union to its foundations. At approximately five in the morning on July 5, the artillery of two German army groups opened fire along a front stretching hundreds of miles, and Operation Citadel began. Eight days later Hitler ordered the offensive stopped. The future of the war had indeed been decided at Kursk, but in the opposite direction from the one the proclamation promised. The decision reconstruction that follows traces the March to July 1943 sequence through which the offensive was designed, debated, repeatedly postponed, and finally launched into the most elaborate defensive system ever built, and it argues a namable claim: the four-month delay for Tiger and Panther tanks was the mechanism of Germany's defeat, because each postponement converted a narrow German advantage in armor quality into a widening Soviet advantage in prepared ground, and because the delay itself was the product of a command architecture in which one man's judgment overrode every professional objection raised against it.
 
-![German armor advancing across the steppe at the Battle of Kursk during Operation Citadel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![German armor advancing across the steppe at the Battle of Kursk during Operation Citadel - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 ## The Summer Germany Felt Compelled to Attack
 

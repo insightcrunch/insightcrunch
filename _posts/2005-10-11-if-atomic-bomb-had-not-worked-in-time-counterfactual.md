@@ -6,17 +6,17 @@ date: 2005-10-11
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "pacific-theater", "atomic-bomb-delay-counterfactual", "united-states", "japan"]
 excerpt: "If the Trinity test had failed, no atomic bomb would have been ready that August. Operation Olympic was scheduled for November 1 against fortified Kyushu."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-10-11
+lang: en
 ---
-
 On July 16, 1945, in the desert of New Mexico, the first atomic bomb detonated with unexpected force. The Trinity test produced a yield of approximately 21 kilotons, above the expected range of five to 20. That single engineering success, achieved after three years and roughly two billion dollars of concentrated scientific effort, is what made the atomic bombings of August 1945 possible. What follows asks what would have happened if it had not worked. The passages describing events through July 1945 are actual history, drawn from the documented record. The passages after the point of divergence are counterfactual reasoning, anchored in documented decision points, actual forces, and the known positions of the historical actors. The two registers are kept separate throughout, because a counterfactual that blurs what happened with what might have happened teaches nothing.
 
 The divergence is narrow. Suppose the Trinity test had failed, or the Manhattan Project had slipped by six to nine months through hazards its own managers rated as live risks in the spring of 1945. Then no atomic weapon would have been available for August 1945, and the invasion of Japan, already planned and scheduled, would have proceeded. Operation Olympic, the Kyushu assault set for November 1, would have gone ahead with some 766,700 Allied ground troops against defenses reinforced every week. The house thesis of this series, that Allied committee architecture and Axis command architecture produced systematically different decision quality, applies here with maximum intensity, because the atomic bomb was the supreme product of committee architecture, and this counterfactual asks what the coalition would have had to do without it.
 
-![The Trinity test fireball rising over the New Mexico desert in July 1945, the engineering success whose failure anchors this counterfactual - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Trinity test fireball rising over the New Mexico desert in July 1945, the engineering success whose failure anchors this counterfactual - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 ## The Verdict
 

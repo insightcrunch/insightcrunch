@@ -6,17 +6,17 @@ date: 2005-10-28
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "eastern-front", "moscow-counterfactual", "germany", "david-glantz"]
 excerpt: "Moscow falls to the Wehrmacht: would the USSR have collapsed with its capital, or continued resisting from Kuibyshev? The full evidence is weighed here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-10-28
+lang: en
 ---
-
 German spearheads reached the Moscow suburbs in the first week of December 1941. Patrols probed the outskirts near Khimki, roughly twenty miles from the Kremlin. The government had already evacuated to Kuibyshev on the Volga, and three quarters of the central apparatus were gone by the end of October. Only Stalin's decision to remain in Moscow held the line of political symbolism. The German offensive exhausted itself, Zhukov's counteroffensive began on December 5, and Moscow did not fall. This counterfactual examines the alternative in which the last German push succeeded, Moscow fell in the second week of December 1941, and the USSR had to fight on without its capital.
 
 The question matters because it tests the central claim of this series. This series has argued, across dozens of actual and counterfactual cases, that committee-style institutional architecture produces more resilient strategic outcomes than command architecture concentrated in a single leader. The USSR in 1941 presents the hardest test of that claim, because Soviet architecture was itself heavily centralized under Stalin's personal authority. If a the system with strong command elements could absorb the loss of its capital and continue fighting, the house thesis stands at its strongest. If the USSR would have collapsed with Moscow, the thesis needs qualification.
 
-![German infantry advancing through snow toward the capital in December 1941, with the Soviet capital's fate hanging on the winter battle - Insight Crunch](/assets/images/blog/blog-01.webp)
+![German infantry advancing through snow toward the capital in December 1941, with the Soviet capital's fate hanging on the winter battle - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The brief for this counterfactual defines the divergence with deliberate care. It assumes German forces capture Moscow between approximately December 5 and December 15, 1941. It assumes Stalin evacuates before the fall rather than remaining to be captured or killed. It assumes the government continues operations from Kuibyshev, where contingency preparations were already substantially advanced. Everything that follows tests whether those assumptions hold, what they would have cost, and where the war would have gone afterward.
 

@@ -6,15 +6,15 @@ date: 2006-04-11
 categories: ["Leisure"]
 tags: ["World War 2", "benito-mussolini", "decision-reconstruction", "mediterranean-theater", "fall-of-mussolini", "italy"]
 excerpt: "The Fall of Mussolini began when the Grand Council voted 19 to 7 against the Duce and the King arrested him the next day, opening Italy's armistice gamble."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-04-11
+lang: en
 ---
-
 The Fall of Mussolini began at twenty minutes to three on the morning of July 25, 1943, after a session of nearly ten hours inside the Palazzo Venezia in Rome, when the highest body of Italian Fascism did something no comparable institution in any other Axis regime had ever attempted. The Grand Council of Fascism voted nineteen to seven, with a single abstention, for a resolution that restored to King Victor Emmanuel III the constitutional powers Benito Mussolini had spent two decades absorbing into his own person. The men who cast those nineteen votes were not conspirators from the resistance or generals staging a pronunciamiento. They were the Duce's own hierarchs: his son-in-law, his former foreign minister, his former minister of education, one of the four original quadrumvirs of the March on Rome. When the vote was read, the dictator who had ruled Italy for almost twenty-one years sat in silence, then left the palace believing he could still manage the situation. He was wrong. The Fall of Mussolini had begun not with an Allied landing or a German betrayal but with a committee vote inside the regime itself, followed the next afternoon by the King's decision to dismiss and arrest the most famous dictator in Europe.
 
-![The Grand Council of Fascism voting against Mussolini in Rome, July 1943 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Grand Council of Fascism voting against Mussolini in Rome, July 1943 - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 This article reconstructs the decision sequence of July 1943 at the granularity the evidence permits: the ruin of the parallel war that made the regime's survival doubtful, the revival of a council that had not met in regular session since December 1939, the drafting of Dino Grandi's resolution, the night-long debate of July 24 to 25, the King's audience at the Villa Savoia on the afternoon of July 25, Marshal Pietro Badoglio's transitional government and its double game, the German answer in Operation Achse and the hunt for the fallen dictator, the Gran Sasso rescue of September 12, the Salo Republic, and the final road to Lake Como and Giulino di Mezzegra in April 1945. The organizing claim is deliberately uncomfortable for this series' house thesis. The Fall of Mussolini is the clearest case in the Second World War of an Axis regime producing a committee-architecture decision that overthrew its single leader. Italian Fascism retained residual committee structures, the Grand Council, the Crown, the senior party leadership, that German National Socialism had methodically destroyed. The strong version of the house thesis, that Axis coalitions fought by command while Allied coalitions fought by committee, holds at the inter-Axis level, where Berlin, Rome, and Tokyo barely coordinated at all. At the intra-Axis level, inside Italy, it fails, and the article honors that complexity rather than smoothing it away.
 

@@ -6,12 +6,12 @@ date: 2005-10-22
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "pacific-theater", "hokushin-ron-counterfactual", "japan", "soviet-union"]
 excerpt: "In August 1941 Japan chose the southern advance and road to Pearl Harbor. This counterfactual traces the northern road not taken against the Soviet Far East."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-10-22
+lang: en
 ---
-
 In the summer of 1941, Japan's leaders faced the strategic choice that would shape the rest of the Second World War: the southern advance toward Pearl Harbor, or the northern strike against the Soviet Union that the Imperial Japanese Army had championed for a decade. On August 6, 1941, an imperial conference in Tokyo confirmed the southern advance, Nanshin-ron, committing Japan to seizing the oil of the Dutch East Indies and British Malaya. What follows examines the road not taken: what if Japan had struck north instead, unleashing the Kwantung Army across the Manchurian border against the Soviet Far East while German columns drove on Moscow, and thereby held in place the Siberian divisions whose westward movement saved the Soviet capital?
 
 The northern advance, Hokushin-ron, was the preferred doctrine of the Imperial Japanese Army throughout the 1930s, and the summer of 1941 saw Tokyo's planners draw up serious contingency plans for intervention against the Soviet Union under the cover name Kantokuen. The choice between north and south was a live dispute inside the Japanese state, settled by institutions whose character is the central subject of this series. A northern choice would have recast the Eastern Front, the Moscow battle of December 1941, the Pacific war, and the Axis coalition that never managed to coordinate.
@@ -26,7 +26,7 @@ What follows the headline, however, must be qualified. The Japanese Kwantung Arm
 
 The verdict's confidence rests on the asymmetry the article has documented between the scenario's military modesty and its strategic weight. The reader is asked to accept only three propositions, each grounded in the record. First, that the August 1941 imperial conference could have decided for the north, because the institutional machinery for such a decision existed and the army's case was actually argued. Second, that a Japanese offensive, however limited, would have pinned Soviet forces in the east, because no responsible Soviet command could have stripped the frontier in the face of an actual attack. Third, that the Moscow defense without the Siberian divisions would have been substantially weaker, because those divisions were the fresh mass that broke Typhoon. Each proposition is supported by documented forces, documented decisions, and documented institutional behaviors. The rest is weighting, and the article has marked its weights.
 
-![Japanese Kwantung Army infantry advancing during winter maneuvers in Manchuria, the army whose redeployment northward anchors this counterfactual - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Japanese Kwantung Army infantry advancing during winter maneuvers in Manchuria, the army whose redeployment northward anchors this counterfactual - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 ## What the Record Shows: The Strategic Debate, 1931 to 1941
 

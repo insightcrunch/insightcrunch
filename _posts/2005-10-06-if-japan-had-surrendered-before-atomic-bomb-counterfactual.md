@@ -6,17 +6,17 @@ date: 2005-10-06
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "pacific-theater", "japan-early-surrender-counterfactual", "japan"]
 excerpt: "Japanese feelers reached Moscow in June. Stalin stalled, and Potsdam terms stood firm. What if Washington had engaged, and surrender had come before the bombs?"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-10-06
+lang: en
 ---
-
 In the first week of June 1945, a ciphered cable left the Japanese Foreign Ministry in Tokyo for the embassy in Moscow, instructing Ambassador Naotake Sato to sound out the Soviet government about mediating an end to the Pacific war. The cable was read in Washington almost as quickly as it was read in Moscow. American cryptanalysts had broken Japan's diplomatic codes, and the so-called Magic intercepts gave President Harry Truman a remarkably clear window into Tokyo's intentions: a government searching for a way out of the war, clinging to one non-negotiable condition, the preservation of the emperor and the imperial institution. Six decades later the question still divides historians. If the United States had answered those feelers, if the Potsdam Declaration had contained explicit language preserving the emperor, could Japan have surrendered in late July 1945, before the atomic bombs were dropped on Hiroshima and Nagasaki? This article walks the counterfactual with discipline, keeping what actually happened separate from what might have happened, and measuring the distance between the two.
 
 ---
 
-![Japanese surrender counterfactual illustration](/assets/images/blog/blog-01.webp)
+![Japanese surrender counterfactual illustration](/assets/images/blog/blog-37.webp)
 
 ## The Question and Why It Matters
 

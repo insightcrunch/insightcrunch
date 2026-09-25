@@ -6,17 +6,17 @@ date: 2005-12-27
 categories: ["Leisure"]
 tags: ["World War 2", "karl-donitz", "decision-reconstruction", "european-theater", "german-surrender", "germany"]
 excerpt: "Dönitz sought a Western-only surrender to spare Germans Soviet captivity. Eisenhower demanded all fronts at once. Jodl signed at Reims; Keitel signed in Berlin."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2005-12-27
+lang: en
 ---
-
 On the evening of May 1, 1945, Grand Admiral Karl Dönitz stood before his staff at Plön, in the far north of Germany, and announced that he had become head of the German state, the man who would have to negotiate Germany's surrender. Adolf Hitler had shot himself in the Führerbunker the previous afternoon, an event reconstructed in this series' account of [Hitler's suicide on April 30](/2006/01/02/hitler-suicide-april-30-1945-fuhrerbunker/), and Hitler's final testament had named Dönitz, a naval officer with no party leadership experience, as Reich president and supreme commander of the armed forces. The territory Dönitz claimed to govern was a shrinking scatter of pockets: Norway, Denmark, the Netherlands, parts of Czechoslovakia and Austria, and fragments of Germany itself. Some five million Germans were still in uniform, though most were disorganized and many were simply trying to walk westward. Every Allied front was advancing, and no German resistance remained that could be called organized. Dönitz had inherited a catastrophe, and his first decision as head of state was to ask whether he could bargain his way out of a portion of it.
 
 The German surrender that followed over the next seven days was the most compressed high-stakes negotiation of the European war, and it tested the Allied coalition at the moment of its greatest temptation to divide. The decisions made between May 1 and May 8 would determine not only how the fighting stopped but on what terms the victors would govern the peace, and every party to the negotiation understood that the form of the surrender would shape the postwar order as decisively as any battle.
 
-![Allied troops and German prisoners during the final surrenders in Germany, May 1945, with Reims and Berlin signing ceremonies ending the European war - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Allied troops and German prisoners during the final surrenders in Germany, May 1945, with Reims and Berlin signing ceremonies ending the European war - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The question that consumed the first week of May 1945 was whether Germany could surrender to some of its enemies while continuing to fight the others. Dönitz wanted exactly that: a surrender to the Western Allies that would let German soldiers and civilians flee westward while a rear guard held off the Red Army. It was a rational plan from the perspective of the men and women it was meant to save, and it was completely unacceptable to the coalition Germany had been fighting. Eisenhower, backed by an unconditional surrender policy that the Allies had maintained since Casablanca, insisted on surrender on all fronts simultaneously, and he threatened to close the Western Front to German refugees if Dönitz refused. What followed was a partial surrender to Montgomery on May 4, the refusal of a separate peace at Reims, the signing of unconditional surrender at 2:41 in the morning on May 7, a Soviet demand for a second ceremony, and a final signing in Berlin at 11:45 p.m. on May 8, three quarters of an hour after the ceasefire had taken effect.
 

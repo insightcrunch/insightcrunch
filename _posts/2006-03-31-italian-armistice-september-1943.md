@@ -6,17 +6,17 @@ date: 2006-03-31
 categories: ["Leisure"]
 tags: ["World War 2", "pietro-badoglio", "decision-reconstruction", "mediterranean-theater", "italian-armistice", "italy"]
 excerpt: "How Badoglio's secret Italian armistice ended Italy's Axis alliance, triggered Germany's Operation Achse, and split the country into two warring states."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2006-03-31
+lang: en
 ---
-
 The Italian armistice was announced at approximately 6:30 in the evening on September 8, 1943, when Marshal Pietro Badoglio's voice came over Italian radio. The announcement was not his idea, and its timing was not his choice. Hours earlier, General Dwight Eisenhower had already told the world on Allied radio that Italy had surrendered unconditionally. Badoglio was reading a script forced on him by an ally he had courted in secret for six weeks, and the gap between the two broadcasts, a matter of hours, would decide the fate of hundreds of thousands of Italian soldiers. By the next morning, German forces across Italy and the Balkans were executing Operation Achse, the plan Hitler had ordered in late July for exactly this contingency, and the Italian armed forces, left without orders on whether to resist or submit, began to dissolve.
 
 The Italian Armistice of September 1943 is a decision that succeeded strategically and failed operationally in the same week, and the failure was not an accident. A committee, the Badoglio government of the King, the Marshal, General Giuseppe Castellano, and the senior military chiefs, negotiated Italy out of the Axis with skill and achieved the political objective. The same committee could not manage the announcement, the one act on which every soldier's orders depended, because the timing belonged to two other parties, the Allies and the Germans, whose interests were irreconcilable with Italy's. The house thesis applies here in its most complex form: committee architecture produced the strategic decision that command architecture could never have generated, Italian institutions voting and negotiating their way out of a war that Hitler's command system had locked Germany into, and then that same committee architecture failed at the operational task that the German command architecture executed with brutal efficiency. The cost of the failure was approximately 650,000 Italian soldiers captured and deported as military internees, approximately 50,000 of whom died in German captivity, and a divided Italy that would fight the rest of the war on both sides.
 
-![Italian soldiers surrendering their weapons to German troops after the September 1943 armistice - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Italian soldiers surrendering their weapons to German troops after the September 1943 armistice - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 ## The Government That Wanted Out
 

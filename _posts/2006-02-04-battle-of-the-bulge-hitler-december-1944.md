@@ -6,19 +6,19 @@ date: 2006-02-04
 categories: ["Leisure"]
 tags: ["World War 2", "adolf-hitler", "decision-reconstruction", "european-theater", "battle-of-the-bulge", "germany"]
 excerpt: "German radio silence blinded Ultra and fog grounded Allied air power. Twenty-five divisions struck the weakest sector as Hitler gambled Germany's last reserves."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-02-04
+lang: en
 ---
-
 At 5:30 on the morning of December 16, 1944, along an eighty-mile stretch of the Ardennes forest that Allied commanders had dismissed as a quiet sector, the heaviest German artillery preparation of the war in the West shattered the winter darkness. The Battle of the Bulge began as a thunderclap. More than two thousand German guns opened fire against American positions held by four understrength divisions of the VIII Corps, troops told that nothing significant could happen in the Ardennes. Behind the artillery came infantry, and behind the infantry came the panzers, more than fourteen hundred armored fighting vehicles committed to an offensive that Adolf Hitler had conceived in September, planned in defiance of his own generals, and launched in the conviction that one more great stroke could reverse a war that every professional soldier in Germany knew was lost.
 
 The Battle of the Bulge was Hitler's last strategic offensive of the Second World War and the purest expression of his command architecture ever put into operation. No committee approved Wacht am Rhein. No general staff endorsed its strategic objective. Rundstedt and Model, the two senior commanders in the West, argued against its ambition and lost. Planning was conducted by the OKW staff under Hitler's direct supervision, in secrecy so extreme that normal staff work was bypassed. Radio silence was imposed, orders moved by hand-delivered messenger, and the offensive achieved the rarest prize in modern warfare: complete strategic surprise against the most sophisticated intelligence apparatus in history.
 
 The chapters that follow reconstruct the decision from conception through planning, surprise, response, and final accounting. The question is not whether the offensive was bold. It is what the decision reveals about the two command systems that produced the war's outcome, and why the system capable of the bolder stroke lost the war.
 
-![German artillery and armored columns massing in the winter Ardennes before the December 16 offensive](/assets/images/blog/blog-01.webp)
+![German artillery and armored columns massing in the winter Ardennes before the December 16 offensive](/assets/images/blog/blog-74.webp)
 
 ## The Autumn of Attrition: The Setting for a Desperate Decision
 

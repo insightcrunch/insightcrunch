@@ -6,15 +6,15 @@ date: 2006-02-09
 categories: ["Leisure"]
 tags: ["World War 2", "william-halsey", "decision-reconstruction", "pacific-theater", "leyte-gulf", "united-states"]
 excerpt: "Leyte Gulf was decided when Halsey chased empty carriers north. Kurita's battleships slipped through San Bernardino Strait, and Taffy 3 faced Yamato off Samar."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-02-09
+lang: en
 ---
-
 At approximately 9:25 on the morning of October 25, 1944, Vice Admiral Takeo Kurita did the inexplicable. His Center Force had survived American submarines in Palawan Passage, survived a full day of carrier air strikes in the Sibuyan Sea that sank the super-battleship Musashi, and had passed through San Bernardino Strait during the night unopposed. His battleships and cruisers had spent two and a half hours pounding a small American task unit off Samar. The American escort carriers were in flight, their destroyer screen largely destroyed, and the road to the Leyte transports lay open. Kurita had paid an enormous price to get there, and the prize the Sho-Go plan had promised him was within reach. He ordered his force to reverse course and withdraw.
 
-![Battle of Leyte Gulf with American escort carriers and destroyers engaging Japanese battleships off Samar - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Battle of Leyte Gulf with American escort carriers and destroyers engaging Japanese battleships off Samar - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The Battle of Leyte Gulf is the largest naval battle in history by displacement, and its decision sequence is one of the most operationally tangled of the entire Pacific war. Four engagements unfolded across some 100,000 square miles of Philippine waters between October 23 and October 26, and the decisive question was never about gunnery or air power. It was about command architecture: who was responsible for guarding San Bernardino Strait, who decided it did not need guarding, and what happened when the Japanese sailed through it. This article reconstructs that decision sequence, and it takes a position. The near-disaster off Samar was produced by a specific, identifiable gap in Allied command architecture, a gap that Admiral William Halsey's October 24 decision widened into a chasm. The Japanese, meanwhile, produced a plan that was brilliant in conception and self-defeating in execution, because their own command architecture could not coordinate the forces it sent into the fight.
 

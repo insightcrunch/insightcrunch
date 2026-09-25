@@ -6,17 +6,17 @@ date: 2005-12-22
 categories: ["Leisure"]
 tags: ["World War 2", "harry-truman", "joseph-stalin", "decision-reconstruction", "atlantic-theater", "potsdam-conference", "winston-churchill"]
 excerpt: "The Potsdam Conference divided occupied Germany, fixed Poland's western border, and issued Japan's surrender terms while Britain changed leaders mid-summit."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2005-12-22
+lang: en
 ---
-
 On the morning of July 16, 1945, in the desert near Alamogordo, New Mexico, a tower holding a plutonium device roughly six meters tall vanished in a fireball that witnesses described as a second sunrise. The Trinity test worked. Its yield, estimated at roughly twenty-one kilotons, exceeded the expectations of the scientists who had built it. The next morning, Harry Truman boarded his aircraft for the flight to the Potsdam Conference, carrying a secret that no wartime leader had ever carried to a negotiating table: the certain knowledge that his country possessed a weapon capable of destroying a city in a single blow. The conference, which opened on July 17 in the Cecilienhof Palace on the outskirts of ruined Berlin, was therefore the first summit in history conducted under the shadow of the atomic age, and the last summit of the wartime Big Three.
 
 The conference that followed ran for seventeen days, consumed thirteen plenary sessions, and employed some four thousand support personnel. It produced the administrative architecture of occupied Germany, the Oder-Neisse line that became Poland's western border, the Council of Foreign Ministers, the charter framework for the Nuremberg trials, and the Potsdam Declaration that set the terms for Japan's surrender. It also witnessed something no summit had ever witnessed: the British delegation changed prime ministers in the middle of the proceedings, when Winston Churchill lost the general election and Clement Attlee arrived to take his seat. The namable claim: Potsdam was the Allied committee system operating at maximum institutional intensity, absorbing two leadership transitions in a single fortnight without breaking stride, and proving that the coalition's machinery had become larger than any of the men who sat at its head.
 
-![Truman, Churchill, and Stalin seated together at the Potsdam Conference in Cecilienhof Palace - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Truman, Churchill, and Stalin seated together at the Potsdam Conference in Cecilienhof Palace - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 ## The World That Waited in the Ruin of Berlin
 

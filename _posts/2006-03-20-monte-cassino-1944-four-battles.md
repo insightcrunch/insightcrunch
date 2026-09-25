@@ -6,15 +6,15 @@ date: 2006-03-20
 categories: ["Leisure"]
 tags: ["World War 2", "harold-alexander", "decision-reconstruction", "mediterranean-theater", "monte-cassino", "united-kingdom"]
 excerpt: "The abbey had stood since the sixth century when Allied bombs destroyed it. Monte Cassino anchored the Gustav Line, and its ruins fell to Polish troops in May."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-03-20
+lang: en
 ---
-
 On the morning of February 15, 1944, two hundred and thirty Allied bombers flew toward a 1,706-foot mountain in central Italy and dropped nearly five hundred tons of bombs on a monastery founded by Saint Benedict in the year 529. The abbey of Monte Cassino, one of the oldest religious houses in Christendom, was reduced to rubble in hours. The Allied commanders who ordered the bombing believed German artillery observers were directing fire from inside. The postwar record shows the Germans had not occupied the building at all. About two hundred and thirty Italian civilian refugees were sheltering in the abbey when the bombs fell, and a substantial share of them died. Three months later, German paratroopers fought from the ruins of the abbey with an effectiveness that suggested the bombing had created a fortress out of a monument.
 
-![Polish soldiers raising their flag over the ruins of the Monte Cassino abbey - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Polish soldiers raising their flag over the ruins of the Monte Cassino abbey - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The four battles fought around Monte Cassino between January 17 and May 18, 1944, consumed some fifty-five thousand Allied casualties against roughly twenty thousand German losses, and they produced the most morally contested Allied decision of the Italian campaign. The abbey bombing was committee-produced: Bernard Freyberg requested the strike on intelligence he trusted, Harold Alexander approved it with evident reluctance, and Mark Clark's opposition was overruled. The verdict this article reaches is that the bombing was an understandable but wrong decision, and that the committee system failed where it was supposed to be strongest: the intelligence was thin, the objections inside the system never reached the authority that could stop the attack, and the later Diadem offensive showed the same system working as designed.
 

@@ -6,17 +6,17 @@ date: 2006-02-15
 categories: ["Leisure"]
 tags: ["World War 2", "bernard-montgomery", "decision-reconstruction", "european-theater", "operation-market-garden", "united-kingdom"]
 excerpt: "Montgomery dropped three airborne divisions to seize nine Dutch bridges in a single corridor. Ignored warnings of SS armor at Arnhem doomed the bold plan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-02-15
+lang: en
 ---
-
 On September 10, 1944, Lieutenant General Frederick Browning, the British commander who would serve as Bernard Montgomery's deputy for Operation Market Garden, sat across from Montgomery and voiced the doubt that would give the entire campaign its name. The plan under discussion called for three Allied airborne divisions to drop behind German lines across a 64-mile corridor through the Netherlands, seize nine bridges over rivers and canals, and hold them until an armored column fought its way north along a single highway to link up. Browning looked at the timetable, at the forces assigned to the farthest objective, and said the operation might be a bridge too far. Montgomery proceeded anyway. Seven days later the largest airborne operation in history began, and nine days after that the 1st British Airborne Division, tasked with the most distant prize, was being evacuated across the Rhine having lost the overwhelming majority of the men it had dropped.
 
 Operation Market Garden is the decision-reconstruction case study in which the Allied committee system, the institutional machinery that had produced Overlord and held the coalition together through the summer campaigns, failed catastrophically at the operational level. Every element that the house thesis identifies as the Allied committee architecture's strength was present in September 1944: Eisenhower's Supreme Headquarters coordinating British, American, and Polish forces; Ultra decrypts flowing to the planning staff; a Dutch Resistance network feeding reports from the objective area; and a unified command structure from Eisenhower through Montgomery to the corps commanders. The machinery did not break down through absence. It broke down through commitment to a predetermined conclusion. The warnings about German armor at Arnhem were collected, read, discounted, and set aside, not because the system failed to detect them but because its senior members had already decided what the evidence had to mean.
 
-![Paratroopers descending over the Netherlands during the Market Garden airborne assault, September 1944](/assets/images/blog/blog-01.webp)
+![Paratroopers descending over the Netherlands during the Market Garden airborne assault, September 1944](/assets/images/blog/blog-106.webp)
 
 ## The Strategic Moment: Paris, the Supply Crisis, and the Thrust Debate
 

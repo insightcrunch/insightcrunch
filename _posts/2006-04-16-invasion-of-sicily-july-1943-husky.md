@@ -6,15 +6,15 @@ date: 2006-04-16
 categories: ["Leisure"]
 tags: ["World War 2", "dwight-eisenhower", "decision-reconstruction", "mediterranean-theater", "operation-husky", "united-states"]
 excerpt: "The invasion of Sicily landed 160,000 Allied troops in one night. A reconstruction of the planning, the race to Messina, and the evacuation that marred victory."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2006-04-16
+lang: en
 ---
-
 At 2:45 in the morning of July 10, 1943, in weather that had been judged too rough for an amphibious landing the evening before, the first Allied assault waves of the invasion of Sicily began climbing ashore on the southern beaches of the island. Dwight Eisenhower had committed roughly 160,000 men from more than 3,000 ships and landing craft to a single night's operation, the largest amphibious assault attempted anywhere in the war to that date. Thirty-eight days later the island was in Allied hands, Benito Mussolini had fallen from power in Rome, and George Patton's Seventh Army stood in Messina about two hours ahead of Bernard Montgomery's Eighth Army. Yet in those same thirty-eight days, Axis staff officers ferried approximately 100,000 German troops and some 75,000 Italian troops across the Strait of Messina to the Italian mainland, almost untouched by Allied air and sea power. The decision to invade Sicily produced both the Allies' most ambitious combined operation so far and their most instructive operational failure, and the two outcomes cannot be understood apart from each other.
 
-![Allied landing craft approaching the Sicilian coast during Operation Husky, July 1943](/assets/images/blog/blog-01.webp)
+![Allied landing craft approaching the Sicilian coast during Operation Husky, July 1943](/assets/images/blog/blog-62.webp)
 
 This article reconstructs the decision sequence that produced Operation Husky, from the strategic settlement at Casablanca in January 1943 through the Tunisia surrender, the committee planning of the assault, the scattered airborne drops and the landings of July 9 to July 10, the divided campaign that followed, the Axis evacuation, the command feud between Patton and Montgomery, and the strategic consequences that ran through the fall of Mussolini and into the planning of the Normandy invasion. The claim it advances is this: Husky demonstrates the Allied committee architecture operating at its strongest in the planning and execution of a multinational amphibious campaign, and the same architecture failing at its most exposed point, the doctrinal gap that left the Messina Strait open and let a trapped enemy army escape. Victory and flaw were both committee products.
 

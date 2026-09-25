@@ -6,17 +6,17 @@ date: 2005-11-19
 categories: ["Leisure"]
 tags: ["World War 2", "counterfactual", "eastern-front", "barbarossa-may-counterfactual", "germany", "david-glantz"]
 excerpt: "Five extra weeks of summer campaign in Russia: would a May Barbarossa have taken Moscow before winter stopped the German advance? The evidence weighed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2005-11-19
+lang: en
 ---
-
 Operation Barbarossa began on June 22, 1941, but it had been planned to begin in mid-May. The five to six weeks between the planned date and the actual one were consumed by a German campaign in the Balkans that should never have been necessary, a campaign made necessary by an Italian invasion of Greece that should never have been launched. The chain of causation is the spine of this account: a unilateral decision in Rome produced a catastrophe in the Pindus mountains, the catastrophe forced a rescue operation from Berlin, and the rescue operation stole the opening weeks of the summer campaigning season from the largest invasion in military history. The question this counterfactual examines is whether those weeks would have changed the outcome in Russia.
 
 The exercise requires strict discipline. Counterfactual history is not fiction; it is a controlled experiment in which exactly one variable is changed and every consequence is traced through documented realities. The changed variable here is the Barbarossa launch date, moved from June 22 to approximately May 15. Everything else stays as the records show: the same German army with the same logistical constraints, the same Soviet army with the same weaknesses and strengths, the same weather on the same calendar dates, the same commanders making decisions under the same institutional pressures. Where the counterfactual must diverge from the record, the divergence will be marked. Where the evidence cannot settle the question, the uncertainty will be stated rather than smoothed over.
 
-![German panzer columns advancing into the Soviet Union in the summer of 1941, with the question of whether an earlier May launch could have changed the campaign - Insight Crunch](/assets/images/blog/blog-01.webp)
+![German panzer columns advancing into the Soviet Union in the summer of 1941, with the question of whether an earlier May launch could have changed the campaign - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 The house thesis applies to this counterfactual at maximum intensity, and the maximum is earned. The Barbarossa delay was not an accident of weather or a stroke of enemy action. It was the product of the Axis coalition's structural inability to coordinate its members' strategies, a failure built into the command architecture that the Axis powers carried into the war. Mussolini launched his Greek invasion without German consultation and against the professional advice of his own chief of staff. Hitler launched the Balkan rescue without any coalition-wide strategic review. Japan coordinated with neither. An Allied-style committee architecture, subjecting unilateral initiatives to collective review, would almost certainly have prevented the Greek disaster from occurring at all. Whether the missing weeks would have delivered Moscow to the Germans is genuinely contested among specialists, and this account will honor that contest. But the institutional failure that produced the delay is not contested, and it is visible regardless of which operational outcome the counterfactual is judged to favor.
 
