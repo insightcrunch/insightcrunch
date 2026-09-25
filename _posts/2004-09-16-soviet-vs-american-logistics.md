@@ -6,19 +6,19 @@ date: 2004-09-16
 categories: ["Leisure"]
 tags: ["World War 2", "comparative-analysis", "soviet-american-logistics", "industrial-mobilization", "allied-logistics", "production-supply"]
 excerpt: "A soviet american logistics comparison: secure-base and under-invasion mobilization weighed through tank, aircraft and artillery output of both Allied systems."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2004-09-16
+lang: en
 ---
-
 ## The Verdict
 
 The soviet american logistics comparison of the Second World War poses one of the sharpest puzzles in economic history. Two societies mobilized industrial capacity on a scale without precedent, delivered armies that defeated the Axis, and did so under conditions so different that they barely appear to belong to the same category of achievement. The American system operated from a continental base that no enemy bomber ever struck and no enemy army ever entered. The Soviet system was attacked in the summer of 1941 by the largest invasion force ever assembled, lost ground containing roughly two fifths of its pre-war industrial capacity, moved its factories east on freight cars while the guns sounded, and then out-produced the invader in the weapons that decided the Eastern Front. Both mobilizations were real. Both were enormous. Neither is fully legible without the other.
 
 Measured in absolute output, the American achievement was larger. American factories built about 88,410 tanks, 324,750 military aircraft, 257,390 artillery pieces, some 14 million small arms, and a fleet of naval vessels that dwarfed every other navy on earth. The Soviet system built about 105,251 tanks, 157,261 aircraft, 516,648 artillery pieces counting small calibers, some 12 million small arms, and a comparatively modest navy. Measured as a share of national resources committed under conditions of direct attack, however, the Soviet mobilization was the more extreme exertion. The American system devoted a fraction of a much larger and untouched economy. The Soviet system consumed itself to the bone and kept fighting. The comparison therefore cannot be reduced to a scorecard. It is a study in how institutional architecture adapts to circumstance.
 
-![Soviet and American logistics comparison of wartime factory output, rail transport and Lend Lease supply convoys](/assets/images/blog/blog-01.webp)
+![Soviet and American logistics comparison of wartime factory output, rail transport and Lend Lease supply convoys](/assets/images/blog/blog-30.webp)
 
 The American achievement rested on a secure continental base and on institutions built to coordinate a market economy at war: the War Production Board, the Office of Price Administration, and later the Office of War Mobilization, working through industry-government coordination committees that blended state direction with private production engineering. The Soviet achievement rested on the State Defense Committee, known as GKO, and the State Planning Commission, Gosplan, which relocated industry eastward and allocated scarce resources by administrative command. Here the analytical discipline of this study matters. The Soviet system was substantially command-architecture in its political framework, and no honest account can pretend otherwise. Yet within that framework sat institutional coordination mechanisms, the GKO-Gosplan nexus and the ministerial networks that executed the evacuation, which functioned with committee-architecture-like properties: deliberation across technical experts, adjustment by feedback from the front, and negotiated allocation among competing claimants. This study applies the house thesis in its strong form while honoring that complication explicitly rather than flattening the Soviet system into a caricature of pure command.
 

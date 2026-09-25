@@ -6,17 +6,17 @@ date: 2004-09-05
 categories: ["Leisure"]
 tags: ["World War 2", "moment-in-time", "d-day-chronology", "operation-overlord-execution", "invasion-hour-by-hour", "normandy-beach-landing-analysis"]
 excerpt: "A D-Day chronicle hour by hour: midnight airborne drops, naval bombardment, five beach assaults and evening consolidation, weighing triumph against cost."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2004-09-05
+lang: en
 ---
-
 ## The Verdict
 
 The longest day of the Second World War rewards a moment-in-time reading, and that is what this account offers: D-Day June 6 1944 hour by hour, from the first parachute jumps after midnight through the consolidation of five beachheads under darkness. No other single day in the war compressed so much violence, confusion, and coordinated multinational effort into twenty-four hours. Roughly 156,000 Allied troops landed or dropped into Normandy; approximately 10,000 became casualties, among them 4,414 confirmed dead. By midnight the Allies held a beachhead roughly fifty miles wide and in places eleven miles deep, while the German high command was still arguing over who had authority to send the tanks that might have thrown the invasion back into the sea. The verdict of the chronological record is two-sided. The invasion succeeded operationally on every measure that mattered, establishing the foothold from which the liberation of Western Europe proceeded. It also produced the war's worst single-beach disaster at Omaha, failed its one hard strategic objective on the day, the capture of Caen, and burned through men and machines at a rate that revealed the limits of even the most meticulous Allied planning. Both halves of that judgment are earned by the hour-by-hour evidence.
 
-![Paratroopers descending over Normandy in the darkness before D-Day landings, opening the longest day - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Paratroopers descending over Normandy in the darkness before D-Day landings, opening the longest day - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The day cannot be understood apart from the night that preceded it, when the decision to launch was taken and the planning that made the launch conceivable was tested. The weather gamble and the command decision of June 5 that sent the armada across the Channel are reconstructed at length in the account of [Eisenhower's go-decision of June 5](/2006/11/28/d-day-eisenhower-june-5-1944-go-decision/), and the eighteen months of planning from the COSSAC embryo through the five-division assault concept, the deception architecture, and the assembly of the fleet belong to the [history of Operation Overlord's planning](/2006/03/14/operation-overlord-planning-1943-1944/). Neither narrative is repeated here; the moment-in-time analysis starts where they stop, at midnight, when the plans met the night sky over Normandy and the German sentries on the coast. What follows is execution, not preparation.
 
