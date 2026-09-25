@@ -9,7 +9,7 @@ excerpt: "Bletchley Park read German Enigma traffic for years while American sta
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2005-07-15
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

@@ -9,7 +9,7 @@ excerpt: "The Stalin radio address of July opened with brothers and sisters, not
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2004-12-18
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

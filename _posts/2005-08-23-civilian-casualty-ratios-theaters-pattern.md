@@ -9,7 +9,7 @@ excerpt: "Soviet civilians died by the millions, American civilians by the thous
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-08-23
+last_updated: 2026-09-25
 lang: en
 ---
 The civilian casualty pattern of the Second World War is the conflict's most important moral fact, and it is the least intuitively understood. Military histories recount battles, campaigns, and command decisions, and the imagination of the war centers on soldiers: the landing craft, the tank column, the bomber stream. Yet when historians compiled the war's death toll in the six decades after 1945, the soldiers were outnumbered by the noncombatants. Total deaths from the war fall in a range of approximately 70 to 85 million, depending on methodology and on how the contested cases are counted. Of that total, civilians account for approximately 38 to 55 million, substantially exceeding the military dead, who number approximately 21 to 25 million. The civilian to military ratio reflected the war's total war character, including the deliberate targeting of civilian populations as a matter of policy. This article walks through the pattern of civilian casualty distribution across the war's theaters and belligerents, documenting enormous variation that reflected specific theater dynamics, occupation patterns, and belligerent policies, and asking what produced the most unevenly distributed suffering in the history of warfare.

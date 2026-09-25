@@ -9,7 +9,7 @@ excerpt: "The OSS American intelligence born of war built a clandestine service 
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2004-10-30
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

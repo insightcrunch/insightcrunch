@@ -9,7 +9,7 @@ excerpt: "Operation Bagration destroyed Army Group Center in six weeks. Four Sov
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2006-02-26
+last_updated: 2026-09-25
 lang: en
 ---
 At dawn on June 22, 1944, exactly three years after German armies had poured across the Soviet frontier in Operation Barbarossa, the Red Army answered with Operation Bagration. Along a seven-hundred-mile front in Belorussia, more than twenty thousand artillery pieces and mortars opened fire in a bombardment so dense that German survivors described the earth itself shaking apart. Within hours, four Soviet fronts were moving. Within a week, the German Army Group Center, the largest single German formation in the east, had ceased to exist as a coherent fighting force. Twenty-eight German divisions were destroyed or rendered combat ineffective. Roughly four hundred thousand German soldiers were killed, wounded, or captured. On July 17, fifty-seven thousand of the prisoners were marched through the streets of Moscow in a parade the Soviets called the Grand Waltz, a deliberate humiliation staged for domestic and international audiences. The operation was named Bagration, after a tsarist general who had fought Napoleon at Borodino in 1812, and it was the single most destructive offensive the Eastern Front ever produced. What follows reconstructs how the Stavka planned that annihilation across the spring of 1944, how Soviet maskirovka blinded German intelligence so completely that reserves were moved to the wrong theater, and why the German command architecture converted a severe but survivable defeat into an extinction from which the Eastern Front never recovered.

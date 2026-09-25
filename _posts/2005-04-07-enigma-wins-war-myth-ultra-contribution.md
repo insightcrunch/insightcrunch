@@ -9,7 +9,7 @@ excerpt: "Popular memory says Allied codebreaking won the war. Records show Ultr
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-04-07
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

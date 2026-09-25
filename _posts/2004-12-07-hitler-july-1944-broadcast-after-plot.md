@@ -9,7 +9,7 @@ excerpt: "Hitler broadcast in the small hours after the bomb failed to kill him.
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2004-12-07
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

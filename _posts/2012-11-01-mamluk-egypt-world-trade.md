@@ -9,7 +9,7 @@ excerpt: "How Mamluk Egypt controlled world trade as the spice chokepoint betwee
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2012-11-01
+last_updated: 2026-09-25
 lang: en
 ---
 For roughly two and a half centuries, a state with no navy worth the name, no colonies, no merchant fleet of its own in the Indian Ocean, and no manufacturing advantage over its neighbors took a cut of nearly every peppercorn eaten in Europe. Mamluk Egypt controlled world trade not by producing the goods the world wanted, and not by carrying them, but by sitting on the one stretch of land they had to cross. That position was worth more than any province. It funded an army of imported cavalry, paid for the mosques and mausoleums that still define the skyline of Cairo, and gave the sultans in the Citadel a bargaining position against Venice, Genoa, Barcelona, and Ragusa that no amount of European naval strength could dislodge for as long as the geography held.

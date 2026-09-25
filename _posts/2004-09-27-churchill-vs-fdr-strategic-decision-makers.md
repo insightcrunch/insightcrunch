@@ -9,7 +9,7 @@ excerpt: "Two leaders, two systems, two styles: comparing churchill fdr strategi
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2004-09-27
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

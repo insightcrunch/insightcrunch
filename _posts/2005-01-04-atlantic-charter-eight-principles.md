@@ -9,7 +9,7 @@ excerpt: "The Atlantic Charter's principles framed the Allied cause before Ameri
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-01-04
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

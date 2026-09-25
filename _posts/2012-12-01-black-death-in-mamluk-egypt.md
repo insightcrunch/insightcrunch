@@ -9,7 +9,7 @@ excerpt: "The Black Death in Mamluk Egypt from 1347, the mortality it caused, th
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2012-12-01
+last_updated: 2026-09-25
 lang: en
 ---
 The strongest state in the eastern Mediterranean was destroyed by something no army could fight and no sultan could tax. When plague reached Egypt in the autumn of 1347, the Mamluk sultanate had defeated the Mongols, cleared the last Crusader holdings from the Syrian coast, and built a commercial position that made its rulers among the wealthiest in the world. Within two years a large share of the people who paid for all of it were dead, and within a century and a half the state itself had ceased to exist.

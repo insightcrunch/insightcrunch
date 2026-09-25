@@ -9,7 +9,7 @@ excerpt: "Mamluk architecture gave Cairo its skyline: the great complexes, the c
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2013-01-01
+last_updated: 2026-09-25
 lang: en
 ---
 Walk any street in the old core of Cairo and the buildings that stop you are almost all from a single period of roughly two hundred and fifty years. Mamluk architecture is the reason the city looks the way it does: the striped walls in alternating courses of pale and dark stone, the minarets rising in three diminishing tiers to a finial, the ribbed and arabesqued stone domes that exist in this form almost nowhere else on earth, and the enormous portals recessed under honeycombed vaults that swallow the light. No other Islamic capital carries a comparable density of monumental building from one era, and the nickname the city acquired, the city of a thousand minarets, is a description of what the Mamluk sultans and their officers left behind rather than a poetic exaggeration.

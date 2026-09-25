@@ -9,7 +9,7 @@ excerpt: "The Warsaw Uprising began August 1 as the Home Army rose to free Warsa
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2006-02-20
+last_updated: 2026-09-25
 lang: en
 ---
 At five in the afternoon on August 1, 1944, thousands of young Poles stepped out of apartments and basements across Warsaw wearing red-and-white armbands, seized German soldiers in the streets, and opened fire on an occupation that had ruled the city for five years. Within hours the Polish flag flew from the tallest buildings in the city center. Within two months Warsaw was a ruin, its resistance crushed, its population decimated, its liberation achieved not by its own fighters but by the Soviet armies waiting across the river. The order that launched those sixty-three days was given by General Tadeusz Bór-Komorowski on information that proved partly wrong, in pursuit of a political objective that proved unreachable. This is a decision reconstruction of the July-to-October 1944 sequence: the Home Army's rising, the Soviet halt that doomed it, and the German destruction that completed it.

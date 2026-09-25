@@ -9,7 +9,7 @@ excerpt: "The Dieppe Raid cost 3,623 Allied casualties in one morning, most of t
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: "2006-05-25"
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Morning the Raid Died

@@ -9,7 +9,7 @@ excerpt: "A D-Day chronicle hour by hour: midnight airborne drops, naval bombard
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2004-09-05
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

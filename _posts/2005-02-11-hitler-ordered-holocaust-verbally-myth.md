@@ -9,7 +9,7 @@ excerpt: "No signed Hitler order for the Holocaust exists, and deniers exploit t
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2005-02-11
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

@@ -9,7 +9,7 @@ excerpt: "Resistance movements across occupied Europe fought, spied, and died. T
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-08-12
+last_updated: 2026-09-25
 lang: en
 ---
 Every occupied country in Europe produced resistance movements. In France, the maquis ambushed convoys and blew railway lines. In Poland, the Home Army ran one of the war's finest intelligence services while preparing for a national uprising. In Yugoslavia, Tito's Partisans grew into an army of hundreds of thousands that liberated its own country. In the Soviet Union, partisans coordinated with the Red Army's greatest offensives. In Italy, the partigiani fought a civil war alongside the campaign up the peninsula. In Greece, mountain bands destroyed the Gorgopotamos viaduct in one of the war's most famous sabotage actions. In Norway, Denmark, the Netherlands, and Belgium, smaller networks hid refugees, forged papers, and gathered intelligence. The scale of the phenomenon is beyond dispute, and so is its moral weight: millions of people risked torture and death to defy occupation, and their courage shaped the memory of the war in every liberated nation.

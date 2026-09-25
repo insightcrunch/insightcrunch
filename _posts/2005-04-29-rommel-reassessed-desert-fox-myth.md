@@ -9,7 +9,7 @@ excerpt: "Tobruk made him the Desert Fox, but Nazi patronage and a forced suicid
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2005-04-29
+last_updated: 2026-09-25
 lang: en
 ---
 ![Field Marshal Erwin Rommel in North Africa, the subject of a reassessment weighing the Desert Fox myth against tactical brilliance and Nazi integration - Insight Crunch](/assets/images/blog/blog-43.webp)

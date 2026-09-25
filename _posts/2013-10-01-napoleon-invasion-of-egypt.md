@@ -9,7 +9,7 @@ excerpt: "Why Napoleon invaded Egypt, how he crushed the Mamluk cavalry, why the
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2013-10-01
+last_updated: 2026-09-25
 lang: en
 ---
 A French army of roughly thirty six thousand men landed on the Egyptian coast west of Alexandria on 1 July 1798, took the city the next morning, destroyed the country's ruling military elite three weeks later within sight of the pyramids, and occupied Cairo. Thirty eight months afterward the survivors of that army were loaded onto British transports and shipped home, having lost the country, lost their fleet, lost their commander, lost their second commander to an assassin, and lost somewhere between a third and a half of their number to battle, disease, and the desert. Measured against its own objectives, the Egyptian campaign is one of the most complete strategic failures of the revolutionary wars.

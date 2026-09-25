@@ -9,7 +9,7 @@ excerpt: "The german japanese military cultures comparison sets Prussian staff t
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 74
 author: "chloe-martin"
-last_updated: 2004-09-21
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

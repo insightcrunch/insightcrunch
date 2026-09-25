@@ -9,7 +9,7 @@ excerpt: "Germany could not surrender until Hitler died. Japan needed the empero
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2005-06-29
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

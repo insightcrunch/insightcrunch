@@ -9,7 +9,7 @@ excerpt: "The Chamberlain peace for our time promise was waved on a signed paper
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-01-31
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

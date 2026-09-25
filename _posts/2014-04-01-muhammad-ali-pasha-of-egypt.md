@@ -9,7 +9,7 @@ excerpt: "Who Muhammad Ali Pasha actually was: his Albanian origins, his arrival
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2014-04-01
+last_updated: 2026-09-25
 lang: en
 ---
 A boy was born in a small Ottoman port on the Macedonian coast around 1769, into an Albanian family of no particular standing. His father held a minor local command and died while the boy was young. He grew up under the protection of relatives and of the town's governor, went into the tobacco trade, married a woman connected to that governor's household, and by his early thirties was an officer in a provincial militia of a few hundred men. Nothing in that biography predicts anything.

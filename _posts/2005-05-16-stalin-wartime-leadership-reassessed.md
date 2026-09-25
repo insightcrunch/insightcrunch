@@ -9,7 +9,7 @@ excerpt: "Stalin purged the Red Army, signed a pact with Hitler, dismissed the i
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2005-05-16
+last_updated: 2026-09-25
 lang: en
 ---
 ![Joseph Stalin during the Second World War, the subject of a wartime leadership reassessment](/assets/images/blog/blog-112.webp)

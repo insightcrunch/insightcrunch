@@ -9,7 +9,7 @@ excerpt: "Leyte Gulf was decided when Halsey chased empty carriers north. Kurita
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2006-02-09
+last_updated: 2026-09-25
 lang: en
 ---
 At approximately 9:25 on the morning of October 25, 1944, Vice Admiral Takeo Kurita did the inexplicable. His Center Force had survived American submarines in Palawan Passage, survived a full day of carrier air strikes in the Sibuyan Sea that sank the super-battleship Musashi, and had passed through San Bernardino Strait during the night unopposed. His battleships and cruisers had spent two and a half hours pounding a small American task unit off Samar. The American escort carriers were in flight, their destroyer screen largely destroyed, and the road to the Leyte transports lay open. Kurita had paid an enormous price to get there, and the prize the Sho-Go plan had promised him was within reach. He ordered his force to reverse course and withdraw.

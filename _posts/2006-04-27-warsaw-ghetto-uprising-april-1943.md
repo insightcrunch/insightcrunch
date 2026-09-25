@@ -9,7 +9,7 @@ excerpt: "On Passover morning the Warsaw Ghetto Uprising began, as poorly armed 
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2006-04-27
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Warsaw Ghetto Uprising: A Decision Made Without Hope of Victory

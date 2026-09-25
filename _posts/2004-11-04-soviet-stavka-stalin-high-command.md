@@ -9,7 +9,7 @@ excerpt: "The Soviet Stavka Stalin high command failed under Stalin meddling, th
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 74
 author: "diana-patel"
-last_updated: 2004-11-04
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

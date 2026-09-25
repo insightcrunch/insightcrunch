@@ -9,7 +9,7 @@ excerpt: "What happened at the Battle of the Pyramids, how French squares and ca
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2013-11-01
+last_updated: 2026-09-25
 lang: en
 ---
 On the afternoon of 21 July 1798, on flat cultivated ground beside the Nile some distance north of Giza, several thousand of the finest heavy cavalry in the world charged five formations of French infantry and were destroyed in under two hours. The French lost somewhere in the region of thirty dead. The victors named the engagement after monuments that were visible on the southern horizon but played no part in it, and the name stuck, which is why the Battle of the Pyramids is remembered as a clash beneath the tombs of the pharaohs rather than as what it was: a fight for a fortified village called Embabeh, decided by drill, discipline, and canister shot.

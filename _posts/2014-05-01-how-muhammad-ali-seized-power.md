@@ -9,7 +9,7 @@ excerpt: "How Muhammad Ali exploited the vacuum left by the French, won the back
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2014-05-01
+last_updated: 2026-09-25
 lang: en
 ---
 The usual one-line account of how Muhammad Ali took Egypt is that he seized it by force, which is wrong in a specific and interesting way. He took it by being handed it. On 12 May 1805 the religious scholars and notables of Cairo, at the head of a population that had shut the city down in protest, deposed the Ottoman governor and proclaimed an Albanian officer in his place, invested him with the robe of office, and presented the empire with a decision it had not made. The sultan confirmed it two months later because there was nothing else he could usefully do.

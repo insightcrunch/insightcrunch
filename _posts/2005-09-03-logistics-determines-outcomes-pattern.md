@@ -9,7 +9,7 @@ excerpt: "Rommel's brilliance could not conjure fuel in the desert. The Allies w
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2005-09-03
+last_updated: 2026-09-25
 lang: en
 ---
 Napoleon Bonaparte is reported to have said that amateurs study tactics while professionals study logistics, and World War II supplied the most expensive classroom in history for that lesson. The war's decisive variable was rarely who fought better in the first hours of a battle. The decisive variable was who could keep fighting in the second month, the second year, and across the second front. Logistics, the movement and sustainment of armed forces at distance, bounded what tactics could achieve in every theater of the war, and the side that mastered supply at industrial scale won.

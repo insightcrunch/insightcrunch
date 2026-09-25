@@ -9,7 +9,7 @@ excerpt: "Hitler owed America no declaration; the Tripartite Pact covered defens
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-11-30
+last_updated: 2026-09-25
 lang: en
 ---
 At 3:00 on the afternoon of December 11, 1941, Adolf Hitler stood before the Reichstag and declared that Germany was at war with the United States. Four days had passed since Japanese aircraft struck Pearl Harbor, and three days since Congress had answered Franklin Roosevelt's request with a declaration of war against Japan. No treaty compelled Hitler's act. The Tripartite Pact of September 1940 bound Germany, Italy, and Japan to mutual assistance only when one of them was attacked; Japan had attacked, and so the pact's obligations did not extend to Pearl Harbor. Hitler declared war anyway, converting a Pacific conflict Japan had started into a global war Germany chose to join. The question this account pursues is what would have followed had he refused.

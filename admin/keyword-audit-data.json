@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-21T12:24:52Z",
-  "total_posts": 3894,
-  "flagged_posts": 155,
-  "clean_posts": 3739,
+  "generated": "2026-09-25T11:30:05Z",
+  "total_posts": 4056,
+  "flagged_posts": 156,
+  "clean_posts": 3900,
   "posts": [
     {
       "filename": "2013-08-27-harry-potter-snape-vs-sirius-comparison.md",
@@ -213,6 +213,30 @@
           "in_title": true,
           "in_page_title": false,
           "body_mentions": 9
+        }
+      ],
+      "critical_count": 1,
+      "warning_count": 0
+    },
+    {
+      "filename": "2005-12-27-german-surrender-may-1945-reims-berlin.md",
+      "slug": "german-surrender-may-1945-reims-berlin",
+      "url": "/2005/12/27/german-surrender-may-1945-reims-berlin/",
+      "title": "German Surrender: Dönitz, Reims, and the Berlin Signing",
+      "page_title": "German Surrender: Karl Dönitz's Reims Negotiations, Eisenhower's Refusal of a Separate Peace, and the Dual Signing Ceremonies That Ended the European War",
+      "has_page_title": true,
+      "date": "2005-12-27",
+      "word_count": 16066,
+      "issues": [
+        {
+          "keyword": "berlin",
+          "type": "MISSING_FROM_PAGE_TITLE",
+          "severity": "critical",
+          "detail": "\"berlin\" is in the title but absent from page_title",
+          "in_slug": true,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 54
         }
       ],
       "critical_count": 1,

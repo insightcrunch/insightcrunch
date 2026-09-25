@@ -9,7 +9,7 @@ excerpt: "Churchill's finest hour was real, yet Gallipoli, Bengal and Dresden de
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-06-23
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

@@ -9,7 +9,7 @@ excerpt: "In August 1941 Japan chose the southern advance and road to Pearl Harb
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2005-10-22
+last_updated: 2026-09-25
 lang: en
 ---
 In the summer of 1941, Japan's leaders faced the strategic choice that would shape the rest of the Second World War: the southern advance toward Pearl Harbor, or the northern strike against the Soviet Union that the Imperial Japanese Army had championed for a decade. On August 6, 1941, an imperial conference in Tokyo confirmed the southern advance, Nanshin-ron, committing Japan to seizing the oil of the Dutch East Indies and British Malaya. What follows examines the road not taken: what if Japan had struck north instead, unleashing the Kwantung Army across the Manchurian border against the Soviet Far East while German columns drove on Moscow, and thereby held in place the Siberian divisions whose westward movement saved the Soviet capital?

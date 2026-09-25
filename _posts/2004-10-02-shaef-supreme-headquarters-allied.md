@@ -9,7 +9,7 @@ excerpt: "SHAEF Supreme Headquarters Allied Expeditionary Force fused Allied arm
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2004-10-02
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

@@ -9,7 +9,7 @@ excerpt: "The Fall of Mussolini began when the Grand Council voted 19 to 7 again
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2006-04-11
+last_updated: 2026-09-25
 lang: en
 ---
 The Fall of Mussolini began at twenty minutes to three on the morning of July 25, 1943, after a session of nearly ten hours inside the Palazzo Venezia in Rome, when the highest body of Italian Fascism did something no comparable institution in any other Axis regime had ever attempted. The Grand Council of Fascism voted nineteen to seven, with a single abstention, for a resolution that restored to King Victor Emmanuel III the constitutional powers Benito Mussolini had spent two decades absorbing into his own person. The men who cast those nineteen votes were not conspirators from the resistance or generals staging a pronunciamiento. They were the Duce's own hierarchs: his son-in-law, his former foreign minister, his former minister of education, one of the four original quadrumvirs of the March on Rome. When the vote was read, the dictator who had ruled Italy for almost twenty-one years sat in silence, then left the palace believing he could still manage the situation. He was wrong. The Fall of Mussolini had begun not with an Allied landing or a German betrayal but with a committee vote inside the regime itself, followed the next afternoon by the King's decision to dismiss and arrest the most famous dictator in Europe.

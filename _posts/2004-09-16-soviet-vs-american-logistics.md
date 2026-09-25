@@ -9,7 +9,7 @@ excerpt: "A soviet american logistics comparison: secure-base and under-invasion
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2004-09-16
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

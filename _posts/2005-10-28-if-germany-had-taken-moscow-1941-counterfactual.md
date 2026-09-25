@@ -9,7 +9,7 @@ excerpt: "Moscow falls to the Wehrmacht: would the USSR have collapsed with its 
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2005-10-28
+last_updated: 2026-09-25
 lang: en
 ---
 German spearheads reached the Moscow suburbs in the first week of December 1941. Patrols probed the outskirts near Khimki, roughly twenty miles from the Kremlin. The government had already evacuated to Kuibyshev on the Volga, and three quarters of the central apparatus were gone by the end of October. Only Stalin's decision to remain in Moscow held the line of political symbolism. The German offensive exhausted itself, Zhukov's counteroffensive began on December 5, and Moscow did not fall. This counterfactual examines the alternative in which the last German push succeeded, Moscow fell in the second week of December 1941, and the USSR had to fight on without its capital.

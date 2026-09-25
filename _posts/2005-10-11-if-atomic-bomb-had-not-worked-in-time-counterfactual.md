@@ -9,7 +9,7 @@ excerpt: "If the Trinity test had failed, no atomic bomb would have been ready t
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-10-11
+last_updated: 2026-09-25
 lang: en
 ---
 On July 16, 1945, in the desert of New Mexico, the first atomic bomb detonated with unexpected force. The Trinity test produced a yield of approximately 21 kilotons, above the expected range of five to 20. That single engineering success, achieved after three years and roughly two billion dollars of concentrated scientific effort, is what made the atomic bombings of August 1945 possible. What follows asks what would have happened if it had not worked. The passages describing events through July 1945 are actual history, drawn from the documented record. The passages after the point of divergence are counterfactual reasoning, anchored in documented decision points, actual forces, and the known positions of the historical actors. The two registers are kept separate throughout, because a counterfactual that blurs what happened with what might have happened teaches nothing.

@@ -9,7 +9,7 @@ excerpt: "Had Halifax, not Churchill, taken the premiership in the May crisis, B
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2005-11-08
+last_updated: 2026-09-25
 lang: en
 ---
 On the afternoon of May 9, 1940, four men sat together in 10 Downing Street: the outgoing prime minister Neville Chamberlain, the foreign secretary Lord Halifax, the first lord of the Admiralty Winston Churchill, and the chief whip David Margesson. Chamberlain's government had been mortally wounded the previous evening in the Norway debate, his majority collapsing to eighty-one. Labour had refused to serve under Chamberlain. Two men could take his place. Halifax was preferred by Chamberlain, by the King, and by the Conservative establishment. Churchill commanded the public's imagination but not the establishment's trust. Chamberlain asked the direct question. Halifax said almost nothing. Chamberlain read the silence as refusal. Churchill became prime minister the next morning.

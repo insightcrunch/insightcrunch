@@ -9,7 +9,7 @@ excerpt: "How Muhammad Ali abolished tax farming, monopolized the crops, built f
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2014-06-01
+last_updated: 2026-09-25
 lang: en
 ---
 The word modernization carries an assumption that does not survive contact with what actually happened in Egypt between 1805 and 1848. The assumption is that modernizing means opening: freeing trade, creating markets, allowing private enterprise, and letting a commercial class accumulate capital. Muhammad Ali did the opposite of all four. He closed the economy, abolished the intermediaries who had run it, took the crop off the cultivator at a price he set, and made the government the only substantial buyer, seller, manufacturer, employer, and investor in the country.

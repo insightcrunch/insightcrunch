@@ -9,7 +9,7 @@ excerpt: "Stalin ignored Barbarossa warnings, the Allies missed the Bulge, Germa
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-09-08
+last_updated: 2026-09-25
 lang: en
 ---
 The intelligence failures of the Second World War form a pattern that cuts across every belligerent. Stalin received dozens of warnings about the German invasion and dismissed them all. The Allies possessed evidence of the German buildup before the Ardennes offensive and read it as defensive. German intelligence knew an invasion was coming in the summer of 1944 and held its strongest army at the wrong beach. Japanese planners understood American industrial capacity in the abstract and fatally misjudged its political meaning. No major power in the war escaped catastrophic intelligence failure. The record shows that victory did not go to the side with flawless intelligence, because no such side existed. Victory went to the side whose institutions could absorb failure, correct course, and prevent one bad assessment from becoming a terminal one. That difference was structural.

@@ -9,7 +9,7 @@ excerpt: "Buckner landed on Okinawa April 1 and spent 82 days paying for Japanes
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2006-01-13
+last_updated: 2026-09-25
 lang: en
 ---
 On the morning of June 18, 1945, Lieutenant General Simon Bolivar Buckner Jr. stood on the observation bridge of his forward command post on Okinawa, watching American artillery fall on Japanese positions less than two miles away. He had commanded the Tenth Army through eleven weeks of the costliest ground battle of the Pacific war, and organized Japanese resistance was four days from collapse. A Japanese shell struck a coral outcrop near the bridge. Fragments tore through his chest, and he died within the hour, the highest-ranking American officer killed by enemy action in the Second World War. He never learned what his battle would do to American strategy.

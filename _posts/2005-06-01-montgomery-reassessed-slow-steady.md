@@ -9,7 +9,7 @@ excerpt: "Undefeated from Alamein to the German surrender, yet judged slow by Am
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 67
 author: "chloe-martin"
-last_updated: 2005-06-01
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

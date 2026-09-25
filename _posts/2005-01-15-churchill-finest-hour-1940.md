@@ -9,7 +9,7 @@ excerpt: "A close read of Churchill's finest hour peroration: the Battle of Brit
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2005-01-15
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

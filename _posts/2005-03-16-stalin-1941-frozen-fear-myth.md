@@ -9,7 +9,7 @@ excerpt: "The frozen-fear legend says Stalin vanished for a week when Barbarossa
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-03-16
+last_updated: 2026-09-25
 lang: en
 ---
 ![Joseph Stalin during the Second World War, the subject of a myth-bust examining the frozen-fear narrative of the June 1941 leadership crisis - Insight Crunch](/assets/images/blog/blog-09.webp)

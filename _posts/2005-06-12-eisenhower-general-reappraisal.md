@@ -9,7 +9,7 @@ excerpt: "No Patton in tactics, no Montgomery in battle: Eisenhower led the larg
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2005-06-12
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

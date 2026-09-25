@@ -9,7 +9,7 @@ excerpt: "FDR's Casablanca press conference made unconditional surrender the All
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2004-12-13
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

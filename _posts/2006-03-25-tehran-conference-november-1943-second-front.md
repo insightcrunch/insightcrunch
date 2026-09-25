@@ -9,7 +9,7 @@ excerpt: "At Tehran, three leaders met and fixed the war's endgame: a dated Over
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2006-03-25
+last_updated: 2026-09-25
 lang: en
 ---
 The Tehran Conference opened with a piece of stagecraft that told the whole story. Franklin Roosevelt, the President of the United States, abandoned the American legation and moved into the Soviet embassy compound, sleeping under the protection of Soviet guards while Soviet microphones listened through the walls. He did it for security, his staff said, because Tehran in late November 1943 was full of rumored Axis assassins. He also did it because Joseph Stalin had made it a condition of his attendance, and Roosevelt wanted Stalin's goodwill more than he wanted privacy. In that small transaction, the price of privacy for the price of coalition, the entire Tehran Conference was contained. Three men who commanded the three most powerful war machines on earth met face to face for the first time, and over four days they fixed the shape of the war's ending: a cross-Channel invasion with a date, a southern France landing to accompany it, a Soviet summer offensive timed to coincide, a Soviet promise to enter the Pacific war, and an informal understanding about Poland's borders that the Poles themselves were never asked to approve. No Axis conference ever resembled it. Hitler, Mussolini, and the Japanese leadership never sat at one table in the entire war. Tehran was the documentary apex of Allied committee architecture, and its decisions governed the last eighteen months of the conflict.

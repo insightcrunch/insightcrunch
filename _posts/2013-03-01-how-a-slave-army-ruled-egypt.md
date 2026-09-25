@@ -9,7 +9,7 @@ excerpt: "How a slave army ruled Egypt for over two centuries, why power never b
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
 author: "rachel-foster"
-last_updated: 2013-03-01
+last_updated: 2026-09-25
 lang: en
 ---
 For more than two and a half centuries the richest state in the eastern Mediterranean was governed by men who had arrived in it as purchased children. They were bought abroad, shipped to Egypt, trained, freed, and enrolled in the households of the men who had bought them, and from that starting point some of them rose to command armies, hold provinces, and take the throne. Their sons could not inherit their position. Each generation of rulers was therefore bought fresh from outside, and the system ran on that basis until an Ottoman army ended it in 1517.

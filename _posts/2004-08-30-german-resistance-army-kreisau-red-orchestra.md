@@ -9,7 +9,7 @@ excerpt: "The German resistance army Kreisau Red Orchestra networks show why com
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 82
 author: "chloe-martin"
-last_updated: 2004-08-30
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

@@ -9,7 +9,7 @@ excerpt: "Whether Ottoman rule really caused Egypt to decline, what revisionist 
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2014-02-01
+last_updated: 2026-09-25
 lang: en
 ---
 The standard account of the three centuries between the Ottoman conquest of 1517 and the arrival of Muhammad Ali runs in a straight line downward. Egypt stopped being the seat of an empire and became a province. The spice traffic that had made it rich went round the Cape. Istanbul taxed it and neglected it. A revived Mamluk elite fought itself in the streets and bled the countryside. Canals silted, plague returned every decade, learning ossified, and the whole exhausted structure fell to a French expeditionary force in three weeks, which is taken as the proof of everything that came before.

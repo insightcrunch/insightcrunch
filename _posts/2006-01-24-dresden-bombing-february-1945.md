@@ -9,7 +9,7 @@ excerpt: "Dresden escaped bombing until the final winter. Harris's area doctrine
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2006-01-24
+last_updated: 2026-09-25
 lang: en
 ---
 At 10:14 on the night of February 13, 1945, the first British Pathfinder markers fell over Dresden, and the city that had been spared nearly four years of strategic bombing began to burn. Two hundred and forty-four Lancaster bombers of RAF No. 5 Group released their loads of high explosives and incendiaries onto a Baroque city crowded with refugees fleeing the Soviet advance, with railway yards jammed with troop traffic, with hospitals and factories and Wehrmacht offices, and with fire services utterly unprepared for what was coming. Fires started in dozens of places at once, merged into a single conflagration, and generated the self-sustaining updraft that aircrews called a firestorm. Seven hours later a second British force arrived to bomb the fires. Then the Americans came by daylight. In roughly thirty-eight hours, Allied bombers dropped some 3,900 tons of bombs on one city, killed approximately 25,000 people, destroyed roughly 90 percent of the historic center, and created the most argued-over moral case in the Allied bombing war. The controversy has rarely been honest. Defenders have hidden behind military euphemisms, critics have inflated the death toll tenfold, and both sides have used the dead for purposes the dead never chose. What follows reconstructs the decision as it actually happened: the doctrine that made it routine, the diplomacy that triggered it, the technique that made it lethal, and the accounting, factual and moral, that six decades of argument have finally made possible.

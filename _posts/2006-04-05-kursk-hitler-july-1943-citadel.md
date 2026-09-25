@@ -9,7 +9,7 @@ excerpt: "Hitler's wait for Tiger and Panther tanks doomed Operation Citadel. So
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: "2006-04-05"
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Proclamation Before the Storm

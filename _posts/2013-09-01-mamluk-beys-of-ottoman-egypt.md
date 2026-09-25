@@ -9,7 +9,7 @@ excerpt: "How the Mamluk beys survived the Ottoman conquest, seized control of t
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2013-09-01
+last_updated: 2026-09-25
 lang: en
 ---
 In January 1517 an Ottoman army broke the last Mamluk field force outside Cairo, and a few weeks later the final Mamluk sultan, Tuman Bay, was hanged at the Bab Zuwayla gate in front of the city he had failed to hold. Every textbook treats that execution as an ending. The Mamluk Sultanate had ruled Egypt and Syria for two and a half centuries; a gunpowder empire arrived, the cavalry state lost, and Egypt became an Ottoman province. Two hundred and fifty years later, a European traveler arriving in Cairo would have found the Ottoman governor confined to the Citadel with a ceremonial escort and no army worth the name, while the real decisions about taxation, appointments, the grain supply, the pilgrimage caravan, and war and peace were taken by a council of Mamluk commanders who bought boys in the Caucasus, trained them as cavalry, and fought each other for the right to speak for Egypt. The elite that lost in 1517 was running the country again.

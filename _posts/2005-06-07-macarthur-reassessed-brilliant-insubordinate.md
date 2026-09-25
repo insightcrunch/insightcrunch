@@ -9,7 +9,7 @@ excerpt: "A genius at grand strategy and a disaster in the Philippines, MacArthu
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2005-06-07
+last_updated: 2026-09-25
 lang: en
 ---
 ![Douglas MacArthur in the Southwest Pacific theater](/assets/images/blog/blog-50.webp)

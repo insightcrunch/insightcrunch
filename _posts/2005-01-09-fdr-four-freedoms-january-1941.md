@@ -9,7 +9,7 @@ excerpt: "FDR's Four Freedoms speech framed what America would fight for before 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-01-09
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

@@ -9,7 +9,7 @@ excerpt: "Franklin Roosevelt needed six and a half minutes to take America to wa
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2004-12-29
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

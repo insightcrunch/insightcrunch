@@ -9,7 +9,7 @@ excerpt: "The Bulge surprise myth claims Allied intelligence missed the Ardennes
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-03-05
+last_updated: 2026-09-25
 lang: en
 ---
 ![Allied intelligence officers studying the Ardennes sector map before the German offensive - Insight Crunch](/assets/images/blog/blog-81.webp)

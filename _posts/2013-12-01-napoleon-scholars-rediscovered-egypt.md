@@ -9,7 +9,7 @@ excerpt: "How the scholars who sailed with Napoleon measured the monuments, foun
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2013-12-01
+last_updated: 2026-09-25
 lang: en
 ---
 Somewhere between one hundred and fifty and one hundred and seventy civilians sailed from Toulon in May 1798 with an army that did not want them, in a convoy whose destination they were not told, to conduct a survey nobody had commissioned in detail of a country almost none of them had seen. They were mathematicians, chemists, engineers, naturalists, surveyors, architects, draftsmen, physicians, printers, an orientalist or two, and one middle-aged artist with a talent for getting himself attached to whichever column was going somewhere interesting. The soldiers called them the donkeys, because the order to form square placed the baggage animals and the scholars in the same protected middle.

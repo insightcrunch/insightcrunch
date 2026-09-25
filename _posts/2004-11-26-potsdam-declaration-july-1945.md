@@ -9,7 +9,7 @@ excerpt: "The Potsdam Declaration offered Japan a final chance to end the war on
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2004-11-26
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

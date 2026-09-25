@@ -9,7 +9,7 @@ excerpt: "The invasion of Sicily landed 160,000 Allied troops in one night. A re
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2006-04-16
+last_updated: 2026-09-25
 lang: en
 ---
 At 2:45 in the morning of July 10, 1943, in weather that had been judged too rough for an amphibious landing the evening before, the first Allied assault waves of the invasion of Sicily began climbing ashore on the southern beaches of the island. Dwight Eisenhower had committed roughly 160,000 men from more than 3,000 ships and landing craft to a single night's operation, the largest amphibious assault attempted anywhere in the war to that date. Thirty-eight days later the island was in Allied hands, Benito Mussolini had fallen from power in Rome, and George Patton's Seventh Army stood in Messina about two hours ahead of Bernard Montgomery's Eighth Army. Yet in those same thirty-eight days, Axis staff officers ferried approximately 100,000 German troops and some 75,000 Italian troops across the Strait of Messina to the Italian mainland, almost untouched by Allied air and sea power. The decision to invade Sicily produced both the Allies' most ambitious combined operation so far and their most instructive operational failure, and the two outcomes cannot be understood apart from each other.

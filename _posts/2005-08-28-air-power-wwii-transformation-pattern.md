@@ -9,7 +9,7 @@ excerpt: "Aircraft began as support tools and ended the war delivering atomic we
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 67
 author: "rachel-foster"
-last_updated: 2005-08-28
+last_updated: 2026-09-25
 lang: en
 ---
 In September 1939, aircraft were theater support tools. By August 1945, aircraft delivered atomic weapons that ended a world war. No weapon system in the history of warfare evolved as fast, or as far, in as short a time as air power did between 1939 and 1945. The airplane of 1939 spotted for artillery, harassed columns, and bombed cities with medium bombers carrying modest loads over short ranges. The airplane of 1945 ranged over oceans, struck targets thousands of miles from its base, flew faster than any pursuit aircraft of the war's beginning, and carried within a single bomb bay the firepower of thousands of tons of conventional ordnance. This article walks through that transformation as a pattern: a multi-case comparison across fighter defense, strategic bombing, carrier operations, tactical air support, and the atomic missions, asking what drove the evolution and what the evolution reveals about the institutions that produced it.

@@ -9,7 +9,7 @@ excerpt: "An allied axis intelligence capabilities comparison across signals, hu
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2004-09-10
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

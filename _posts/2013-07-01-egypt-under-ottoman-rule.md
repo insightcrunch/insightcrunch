@@ -9,7 +9,7 @@ excerpt: "How Ottoman Egypt was actually governed by three competing powers, wha
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2013-07-01
+last_updated: 2026-09-25
 lang: en
 ---
 Ask who ruled Ottoman Egypt and the textbook answer is the pasha in the citadel, appointed by the sultan in Istanbul. Ask an Egyptian merchant in 1700 who he needed to keep happy, and the answer would have been longer and would have started with somebody else.

@@ -9,7 +9,7 @@ excerpt: "Popular memory sorts Germans into good and Nazi groups. The good Germa
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2005-02-06
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

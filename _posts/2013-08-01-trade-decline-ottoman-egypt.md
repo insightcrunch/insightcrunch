@@ -9,7 +9,7 @@ excerpt: "How Ottoman Egypt lost its spice monopoly, gained a coffee century, an
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2013-08-01
+last_updated: 2026-09-25
 lang: en
 ---
 The standard account of Egypt's economy after 1517 is a straight line downward. European ships had found a route around Africa, the spice trade that made Egypt rich went with them, the Ottomans drained what remained, and three centuries of poverty followed until a European army arrived. It is a tidy story and it does not survive contact with the evidence.

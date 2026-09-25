@@ -9,7 +9,7 @@ excerpt: "Hirohito broke the cabinet deadlock; rebels tried to seize the surrend
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2005-12-11
+last_updated: 2026-09-25
 lang: en
 ---
 The Japanese surrender was decided at approximately two in the morning on August 10, 1945, in a bomb shelter beneath the Imperial Palace in Tokyo, when the Emperor of Japan did something no modern Japanese monarch had ever done. He made a political decision. The Supreme Council for the Direction of the War, the six men who governed Japan's war, had spent the night arguing over whether to accept the Allied surrender terms, and they had deadlocked exactly as they had deadlocked all afternoon. Three favored acceptance with a single condition preserving the emperor's position. Three demanded four conditions that would have gutted the Allied terms. Prime Minister Kantaro Suzuki, who had held the chair through hours of circular argument, turned to the silent figure at the head of the room and asked for an imperial opinion. Hirohito answered that he agreed with Foreign Minister Shigenori Togo, that the war must end, and that the cabinet should accept the Potsdam Declaration with only the emperor's preservation reserved. The most consequential decision in the nation's modern history was born in that moment, and it was born outside every procedure the Japanese constitution recognized, in a shelter built to survive the American bombing that had made the decision unavoidable.

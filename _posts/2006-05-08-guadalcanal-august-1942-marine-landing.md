@@ -9,7 +9,7 @@ excerpt: "Guadalcanal began America's Pacific offensive. Vandegrift's Marines he
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: "2006-05-08"
+last_updated: 2026-09-25
 lang: en
 ---
 On June 25, 1942, the American Joint Chiefs of Staff approved an operation that the nation's declared strategy said should not happen. The Arcadia Conference had committed the United States to defeating Germany first, and the Pacific theater was supposed to hold the line with minimum means. Yet on that June day, with the smoke of Midway barely cleared, the chiefs ordered an amphibious offensive against a jungle island in the southern Solomons that most Americans could not have found on a map. The island was Guadalcanal. The decision to seize it, and the six-month campaign of attrition that followed, ended Japan's capacity to mount strategic offensives in the Pacific. That is the namable claim of this reconstruction: the Guadalcanal commitment of June through August 1942 was the decision that broke Japanese offensive power.

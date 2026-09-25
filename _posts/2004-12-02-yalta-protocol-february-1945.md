@@ -9,7 +9,7 @@ excerpt: "Close reading of the fourteen-section Yalta Protocol: United Nations m
 image: /assets/images/blog/blog-03.webp
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2004-12-02
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

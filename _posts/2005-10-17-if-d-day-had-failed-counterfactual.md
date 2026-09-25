@@ -9,7 +9,7 @@ excerpt: "Eisenhower kept a failure note in his pocket before the Normandy landi
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2005-10-17
+last_updated: 2026-09-25
 lang: en
 ---
 On the evening of June 5, 1944, Dwight Eisenhower made the most consequential decision any Allied commander would make in the European war, and then he wrote a second document for the case that his decision proved wrong. The order sent the greatest amphibious invasion in history toward the Normandy coast. The other document, drafted in pencil and kept in his wallet, accepted full responsibility if the invasion failed. It read in part: "If any blame or fault attaches to the attempt it is mine alone." The note was never released because the landings succeeded, but the success was not guaranteed by the fourteen months of planning that preceded it. Omaha Beach came close enough to disaster that the outcome hung in genuine doubt through the morning of June 6. This counterfactual asks what would have happened if D-Day had failed, and it answers by tracing one plausible failure mechanism through its full strategic, political, and territorial consequences.

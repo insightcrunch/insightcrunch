@@ -9,7 +9,7 @@ excerpt: "How Selim I took Egypt across 1516 and 1517, why the Ottomans wanted i
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2013-06-01
+last_updated: 2026-09-25
 lang: en
 ---
 Most accounts of 1517 measure it in battles, and the more revealing measurement is in status. Before the Ottoman conquest, Cairo was the capital of an independent sultanate that governed Egypt and Syria, protected Mecca and Medina, hosted the caliph, conducted its own foreign policy, and answered to nobody. After it, Cairo was a provincial city in somebody else's empire, its governor appointed two thousand miles away, its surplus revenue remitted outward, and its decisions made in Istanbul.

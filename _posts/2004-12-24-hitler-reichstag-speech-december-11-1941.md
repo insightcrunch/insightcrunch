@@ -9,7 +9,7 @@ excerpt: "Hitler declared war on America in an eighty-eight-minute Reichstag add
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2004-12-24
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

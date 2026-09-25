@@ -9,7 +9,7 @@ excerpt: "Soviet women flew bombers while German women stayed home by ideology; 
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2005-07-04
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

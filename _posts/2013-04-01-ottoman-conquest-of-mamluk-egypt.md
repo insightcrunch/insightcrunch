@@ -9,7 +9,7 @@ excerpt: "How the Ottomans conquered Mamluk Egypt across 1516 and 1517, why gunp
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2013-04-01
+last_updated: 2026-09-25
 lang: en
 ---
 In the space of roughly six months, a state that had governed Egypt and Syria for two hundred and sixty-seven years, that had halted the Mongols and expelled the Crusaders, and that commanded the most admired heavy cavalry in the world, ceased to exist. Two battles decided it. The first was fought in northern Syria in the late summer of 1516 and the second outside Cairo in January 1517, and between them lay a march across Sinai that most observers thought impossible for an army of the size that made it.

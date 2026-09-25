@@ -9,7 +9,7 @@ excerpt: "The Pearl Harbor asleep at the switch tale is wrong. Radar detected th
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2005-02-17
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

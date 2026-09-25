@@ -9,7 +9,7 @@ excerpt: "What the Rosetta Stone actually says, how its three scripts unlocked t
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2014-01-01
+last_updated: 2026-09-25
 lang: en
 ---
 A broken slab of dark grey granodiorite, about a metre high and weighing something over three quarters of a tonne, carries on one face a tax-and-temple decree issued by a committee of priests in 196 BCE on behalf of a thirteen year old king. The text is administrative, formulaic, and in substance rather dull: a list of honours voted to the monarch, a schedule of concessions he had granted, and an instruction that copies be set up in temples across the country. Several hundred similar decrees were issued in Egypt over the Ptolemaic centuries and almost none of them attract any attention at all.

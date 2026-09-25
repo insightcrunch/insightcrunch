@@ -9,7 +9,7 @@ excerpt: "How an Albanian Ottoman officer seized Egypt, built a modern army, eco
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 77
 author: "amanda-ross"
-last_updated: 2014-03-01
+last_updated: 2026-09-25
 lang: en
 ---
 In 1801 a man in his early thirties landed at Aboukir as second in command of an Albanian contingent in an Ottoman expeditionary force sent to expel the French from Egypt. He had been a tobacco merchant in a Macedonian port town, he spoke Turkish and Albanian and no Arabic, he had no family connection to Egypt, no Ottoman court patronage, and by most accounts he could not yet read. Within four years he governed the province. Within ten he had exterminated the elite that had run it for five centuries. Within thirty his conscript army had taken Syria, destroyed an Ottoman field army in Anatolia, and come close enough to Istanbul that the great powers of Europe intervened to save the sultan from his own governor.

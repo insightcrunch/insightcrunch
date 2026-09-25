@@ -9,7 +9,7 @@ excerpt: "The kamikaze effectiveness myth claims suicide pilots nearly sank the 
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2005-03-11
+last_updated: 2026-09-25
 lang: en
 ---
 The kamikaze effectiveness myth is one of the most visually indelible stories of the Pacific War: Japanese pilots deliberately crashing aircraft into Allied ships, a tactic said to have nearly overwhelmed the Pacific Fleet, and, in the myth's strongest form, a weapon that might have prevented American victory if only it had been introduced earlier or employed in greater numbers. The image is unforgettable. The arithmetic behind the story does not survive contact with the records.

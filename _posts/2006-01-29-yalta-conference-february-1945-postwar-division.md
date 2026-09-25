@@ -9,7 +9,7 @@ excerpt: "Three leaders met in Crimea to build the peace. They created the Unite
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2006-01-29
+last_updated: 2026-09-25
 lang: en
 ---
 By the first week of February 1945, the map of Europe was being redrawn in ink that would not dry for another two generations. On the fourth of the month, three men sat down in the Livadia Palace at Yalta, on the Crimean coast of the Soviet Union, to settle the political shape of the postwar world. One was dying. One was exhausted by six years of war and a failing empire. One was at the absolute peak of his power, with eleven million soldiers under his command and his armies sixty miles from Berlin. They talked for eight days. What they agreed upon became the foundation of the United Nations, the partition of Germany, and the borders of Poland. What they could not agree upon, and what they papered over with ambiguous language, became the Iron Curtain.

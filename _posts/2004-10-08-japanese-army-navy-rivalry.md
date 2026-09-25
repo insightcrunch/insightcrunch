@@ -9,7 +9,7 @@ excerpt: "The Japanese Army Navy rivalry was written into the Meiji Constitution
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2004-10-08
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

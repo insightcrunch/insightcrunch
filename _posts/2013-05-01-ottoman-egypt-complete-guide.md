@@ -9,7 +9,7 @@ excerpt: "Ottoman Egypt explained: how a province governed from Istanbul came to
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2013-05-01
+last_updated: 2026-09-25
 lang: en
 ---
 For nearly three centuries Egypt was a province. It had been the seat of its own empire for most of recorded history, and from 1517 until the beginning of the nineteenth century it was administered as one territory among many in a state governed from Istanbul, with a governor appointed elsewhere, a garrison sent from outside, and an annual remittance of surplus revenue flowing north.

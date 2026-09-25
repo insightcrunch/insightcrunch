@@ -9,7 +9,7 @@ excerpt: "National memory says yachts saved the army at Dunkirk. Records show Ro
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2005-04-13
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

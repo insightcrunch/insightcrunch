@@ -9,7 +9,7 @@ excerpt: "Dönitz sought a Western-only surrender to spare Germans Soviet captiv
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2005-12-27
+last_updated: 2026-09-25
 lang: en
 ---
 On the evening of May 1, 1945, Grand Admiral Karl Dönitz stood before his staff at Plön, in the far north of Germany, and announced that he had become head of the German state, the man who would have to negotiate Germany's surrender. Adolf Hitler had shot himself in the Führerbunker the previous afternoon, an event reconstructed in this series' account of [Hitler's suicide on April 30](/2006/01/02/hitler-suicide-april-30-1945-fuhrerbunker/), and Hitler's final testament had named Dönitz, a naval officer with no party leadership experience, as Reich president and supreme commander of the armed forces. The territory Dönitz claimed to govern was a shrinking scatter of pockets: Norway, Denmark, the Netherlands, parts of Czechoslovakia and Austria, and fragments of Germany itself. Some five million Germans were still in uniform, though most were disorganized and many were simply trying to walk westward. Every Allied front was advancing, and no German resistance remained that could be called organized. Dönitz had inherited a catastrophe, and his first decision as head of state was to ask whether he could bargain his way out of a portion of it.

@@ -9,7 +9,7 @@ excerpt: "The Mamluk war machine explained: how furusiyya training produced the 
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2013-02-01
+last_updated: 2026-09-25
 lang: en
 ---
 For roughly two and a half centuries the Mamluk war machine was the standard against which soldiers in the eastern Mediterranean were measured. It stopped the Mongol advance at a moment when no other army had managed it. It removed the last Crusader holdings from the Syrian coast. It held Egypt and Syria as a single military space against threats from three directions, and it did so with a force that was small by the standards of the empires around it and better trained than any of them. Contemporaries who fought against Mamluk cavalry, and contemporaries who merely wrote about it, agree on the quality in a way that historical sources rarely agree on anything.

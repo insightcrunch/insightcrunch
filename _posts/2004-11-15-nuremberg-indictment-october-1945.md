@@ -9,7 +9,7 @@ excerpt: "The Nuremberg Indictment charged twenty-four Nazi leaders on four coun
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2004-11-15
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

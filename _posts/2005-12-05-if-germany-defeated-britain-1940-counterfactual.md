@@ -9,7 +9,7 @@ excerpt: "What if Germany had defeated Britain by negotiation? A war without Bri
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2005-12-05
+last_updated: 2026-09-25
 lang: en
 ---
 The five days from May 25 to May 28, 1940, contain the closest Britain came to the outcome this counterfactual examines: Germany defeated Britain not by invasion but by negotiation, removing the island from the war before the war had properly begun. With the British Expeditionary Force compressed into the Dunkirk pocket and the French army collapsing, Lord Halifax, the Foreign Secretary, argued inside the War Cabinet that Britain should explore Italian mediation with Germany before the army was destroyed and the bargaining position vanished entirely. Winston Churchill, Prime Minister for barely two weeks, answered that any approach to Mussolini would become a negotiation with Hitler and that the terms would cost Britain its independence. Neville Chamberlain, the deposed premier still in the room, sided with Churchill, and the War Cabinet chose to fight on. The decision was close enough, and the alternative concrete enough, that the counterfactual in which Germany defeated Britain in 1940 deserves serious analysis rather than dismissal as parlor speculation.

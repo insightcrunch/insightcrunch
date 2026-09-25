@@ -9,7 +9,7 @@ excerpt: "Patton drove the Third Army across France at speed, struck shell-shock
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2005-05-27
+last_updated: 2026-09-25
 lang: en
 ---
 ![General George S. Patton in the European theater](/assets/images/blog/blog-112.webp)

@@ -9,7 +9,7 @@ excerpt: "Defying Alexander, Clark raced to Rome instead of trapping the German 
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2006-03-09
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Order That Changed the Campaign

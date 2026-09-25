@@ -9,7 +9,7 @@ excerpt: "If Stauffenberg's bomb had killed Hitler, the Valkyrie coup might have
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2005-09-30
+last_updated: 2026-09-25
 lang: en
 ---
 The most consequential inches of the Second World War measured the distance between a briefcase and an oak table support, and the counterfactual of what would have followed if Hitler had died in the July 1944 plot begins from those inches. On the afternoon of July 20, 1944, Colonel Claus von Stauffenberg placed a briefcase containing an armed explosive charge under the conference table in the wooden briefing hut at Hitler's Wolfsschanze headquarters in East Prussia. Colonel Heinz Brandt, reaching for the situation maps spread across the table, moved the briefcase to the far side of one of the table's massive oak supports. At 12:42 p.m. the charge detonated. The support absorbed the blast directed at Hitler's seat. Adolf Hitler walked out of the wreckage with burst eardrums, burns, and a tremor that never left his right arm. Four other men died. The war continued for nearly ten more months.

@@ -9,7 +9,7 @@ excerpt: "Officer selection shaped how armies fought: the Generalstab, Marshall'
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-07-21
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

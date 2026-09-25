@@ -9,7 +9,7 @@ excerpt: "The SS Wehrmacht rivalry Nazi state pattern split German arms into riv
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2004-10-13
+last_updated: 2026-09-25
 lang: en
 ---
 The SS Wehrmacht rivalry Nazi state pattern was not a feud between personalities; it was a structural condition of the regime. Adolf Hitler governed a Germany that maintained two separate military establishments: the Wehrmacht, the regular armed forces formally unified in April 1935 from the Reichsheer, the Reichsmarine, and the newly proclaimed Luftwaffe; and the armed formations of the Schutzstaffel, the SS, which grew from a 1925 protection detail into a parallel empire of police, intelligence, security, and field divisions commanded by Heinrich Himmler. These two institutions competed for recruits, weapons, transport, intelligence jurisdiction, and the favor of the dictator who stood above them. Their contest shaped German strategy from the reoccupation of the Rhineland to the fall of Berlin, and it consumed resources that a unified command might have spent on the war itself.

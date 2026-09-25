@@ -9,7 +9,7 @@ excerpt: "Mussolini invented fascism and ruled Italy for decades, then led it in
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2005-05-10
+last_updated: 2026-09-25
 lang: en
 ---
 ![Benito Mussolini addressing a Fascist rally, the subject of a competence reassessment weighing political consolidation against wartime failure - Insight Crunch](/assets/images/blog/blog-18.webp)

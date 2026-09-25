@@ -9,7 +9,7 @@ excerpt: "Allied factories outproduced the Axis roughly two to one in aircraft, 
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-08-17
+last_updated: 2026-09-25
 lang: en
 ---
 World War II was decided in the factories before it was decided on the battlefields, and the industrial mobilization pattern is the material foundation beneath every campaign the series has examined. The Allied coalition produced approximately 633,000 aircraft against approximately 277,000 for the Axis powers. It produced roughly four tanks for every Axis tank, roughly twenty merchant ships for every Axis vessel, and roughly three artillery pieces for every Axis gun. The United States alone built approximately 303,000 aircraft, 86,000 tanks, 2.4 million trucks, and 51.4 million tons of merchant shipping, while Soviet industry, relocated east of the Urals under fire, produced approximately 91,000 tanks between 1942 and 1945. These ratios were not accidents of geography. They were products of institutional architecture: the Allied committee system coordinated production across a coalition economy, while the Axis powers, operating as three separate economies with almost no production coordination, never combined their smaller industrial bases at all.

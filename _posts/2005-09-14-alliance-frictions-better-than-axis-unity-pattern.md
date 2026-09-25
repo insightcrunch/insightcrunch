@@ -9,7 +9,7 @@ excerpt: "Patton feuded with Montgomery. Churchill argued with Roosevelt. Stalin
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-09-14
+last_updated: 2026-09-25
 lang: en
 ---
 George Patton feuded with Bernard Montgomery, openly and at length, from the race to Messina through the Normandy breakout. Winston Churchill and Franklin Roosevelt argued for years over whether the decisive campaign belonged in the Mediterranean or across the Channel, and Stalin suspected both Western leaders of scheming to bleed the Soviet Union while they bargained over the postwar order. The Allied coalition of the Second World War was a theater of persistent, documented, and frequently public disagreement, and the committee architecture behind it won the war. Meanwhile Adolf Hitler, Benito Mussolini, and the Japanese leadership maintained an alliance of remarkable surface calm. Hitler, Mussolini, and Tojo never once sat down together in a three-power conference during the entire war. They never established combined chiefs of staff. They never produced a coordinated operational plan. Their unity was real in the sense that nobody argued. It was empty in the sense that nobody coordinated either.

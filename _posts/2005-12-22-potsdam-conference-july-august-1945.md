@@ -9,7 +9,7 @@ excerpt: "The Potsdam Conference divided occupied Germany, fixed Poland's wester
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2005-12-22
+last_updated: 2026-09-25
 lang: en
 ---
 On the morning of July 16, 1945, in the desert near Alamogordo, New Mexico, a tower holding a plutonium device roughly six meters tall vanished in a fireball that witnesses described as a second sunrise. The Trinity test worked. Its yield, estimated at roughly twenty-one kilotons, exceeded the expectations of the scientists who had built it. The next morning, Harry Truman boarded his aircraft for the flight to the Potsdam Conference, carrying a secret that no wartime leader had ever carried to a negotiating table: the certain knowledge that his country possessed a weapon capable of destroying a city in a single blow. The conference, which opened on July 17 in the Cecilienhof Palace on the outskirts of ruined Berlin, was therefore the first summit in history conducted under the shadow of the atomic age, and the last summit of the wartime Big Three.

@@ -9,7 +9,7 @@ excerpt: "Carrier aircraft sank the battleships at Pearl Harbor and Midway. Subm
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-08-01
+last_updated: 2026-09-25
 lang: en
 ---
 Naval power entered World War II wearing the armor of an earlier age and exited the war transformed beyond recognition. In 1939 every major navy organized its fleet around the battleship, the armored gun platform that had dominated naval thinking since the dreadnought era, and the question of which navy owned the most and heaviest battleships was the question of who ruled the seas. By 1945 the battleship survived as a useful support vessel while the aircraft carrier commanded the fleet, the submarine had become a strategically decisive weapon on two oceans, and amphibious doctrine had matured into a science of projecting power ashore under the protection of air power at sea. No other transformation in the war was so complete, so visible, and so directly connected to the industrial and institutional capacity that separated the victors from the defeated. The pattern of this article is the passage from battleship to carrier, and the argument is that the transformation rewarded the side that could sustain doctrinal and technological adaptation at scale.

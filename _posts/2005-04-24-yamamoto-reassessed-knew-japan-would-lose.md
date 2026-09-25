@@ -9,7 +9,7 @@ excerpt: "Yamamoto warned leaders he could run wild for six months, then defeat 
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 76
 author: "diana-patel"
-last_updated: 2005-04-24
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

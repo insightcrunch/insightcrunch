@@ -9,7 +9,7 @@ excerpt: "Nine nations ended the Second World War with signatures on a battleshi
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2004-11-21
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

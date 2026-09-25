@@ -9,7 +9,7 @@ excerpt: "Nazi messaging ran through Goebbels alone; the BBC reported facts sele
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-08-06
+last_updated: 2026-09-25
 lang: en
 ---
 The propaganda machinery of World War II is among the hardest phenomena to measure and among the most important to understand. Every major belligerent built a machinery for shaping what its people believed, and every machinery left a documentary record of impressive scale: ministries with thousands of employees, film studios, radio networks, poster campaigns, press directives numbering in the tens of thousands. Joseph Goebbels ran the most centralized system of them all, a Reich Ministry for Public Enlightenment and Propaganda that controlled film, radio, press, and culture across Germany from 1933 onward. Britain ran one of the most decentralized, a Political Warfare Executive and a Ministry of Information that never quite tamed the BBC and never tried to deify Winston Churchill. Both systems claimed to sustain morale. The German one was believed longer than it should have been and then collapsed into cynicism. The British one was doubted from the start and kept working to the end.

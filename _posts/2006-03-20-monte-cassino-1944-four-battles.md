@@ -9,7 +9,7 @@ excerpt: "The abbey had stood since the sixth century when Allied bombs destroye
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2006-03-20
+last_updated: 2026-09-25
 lang: en
 ---
 On the morning of February 15, 1944, two hundred and thirty Allied bombers flew toward a 1,706-foot mountain in central Italy and dropped nearly five hundred tons of bombs on a monastery founded by Saint Benedict in the year 529. The abbey of Monte Cassino, one of the oldest religious houses in Christendom, was reduced to rubble in hours. The Allied commanders who ordered the bombing believed German artillery observers were directing fire from inside. The postwar record shows the Germans had not occupied the building at all. About two hundred and thirty Italian civilian refugees were sheltering in the abbey when the bombs fell, and a substantial share of them died. Three months later, German paratroopers fought from the ruins of the abbey with an effectiveness that suggested the bombing had created a fortress out of a monument.

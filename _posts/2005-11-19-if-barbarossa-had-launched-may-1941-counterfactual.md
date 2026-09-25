@@ -9,7 +9,7 @@ excerpt: "Five extra weeks of summer campaign in Russia: would a May Barbarossa 
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-11-19
+last_updated: 2026-09-25
 lang: en
 ---
 Operation Barbarossa began on June 22, 1941, but it had been planned to begin in mid-May. The five to six weeks between the planned date and the actual one were consumed by a German campaign in the Balkans that should never have been necessary, a campaign made necessary by an Italian invasion of Greece that should never have been launched. The chain of causation is the spine of this account: a unilateral decision in Rome produced a catastrophe in the Pindus mountains, the catastrophe forced a rescue operation from Berlin, and the rescue operation stole the opening weeks of the summer campaigning season from the largest invasion in military history. The question this counterfactual examines is whether those weeks would have changed the outcome in Russia.

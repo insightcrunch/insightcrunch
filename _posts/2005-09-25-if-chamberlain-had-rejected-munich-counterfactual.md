@@ -9,7 +9,7 @@ excerpt: "Had Chamberlain refused at Munich, war over Czechoslovakia would have 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2005-09-25
+last_updated: 2026-09-25
 lang: en
 ---
 On September 29, 1938, Neville Chamberlain flew to Munich and signed away the Sudeten borderlands of Czechoslovakia without a Czechoslovak at the table. The counterfactual at the center of this article asks what if Chamberlain had rejected Munich, refused Hitler's demands, and let the crisis run to war over Czechoslovakia in the autumn of 1938. The question is not idle speculation. The documented record shows a genuine decision point: a strong Czechoslovak army of approximately thirty-five divisions, German armed forces substantially weaker in 1938 than a year later, a French treaty obligation, a Soviet offer of assistance, and a German military leadership in which the Army Chief of Staff had already resigned over Hitler's aggressive policy.

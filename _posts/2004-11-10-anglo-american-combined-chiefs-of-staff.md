@@ -9,7 +9,7 @@ excerpt: "The Anglo-American Combined Chiefs of Staff invented coalition warfare
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2004-11-10
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

@@ -9,7 +9,7 @@ excerpt: "FDR won four elections and led America through depression and world wa
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2005-06-18
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

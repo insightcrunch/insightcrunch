@@ -9,7 +9,7 @@ excerpt: "German radio silence blinded Ultra and fog grounded Allied air power. 
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2006-02-04
+last_updated: 2026-09-25
 lang: en
 ---
 At 5:30 on the morning of December 16, 1944, along an eighty-mile stretch of the Ardennes forest that Allied commanders had dismissed as a quiet sector, the heaviest German artillery preparation of the war in the West shattered the winter darkness. The Battle of the Bulge began as a thunderclap. More than two thousand German guns opened fire against American positions held by four understrength divisions of the VIII Corps, troops told that nothing significant could happen in the Ardennes. Behind the artillery came infantry, and behind the infantry came the panzers, more than fourteen hundred armored fighting vehicles committed to an offensive that Adolf Hitler had conceived in September, planned in defiance of his own generals, and launched in the conviction that one more great stroke could reverse a war that every professional soldier in Germany knew was lost.

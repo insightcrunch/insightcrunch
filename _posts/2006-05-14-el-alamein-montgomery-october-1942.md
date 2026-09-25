@@ -9,7 +9,7 @@ excerpt: "El Alamein turned the desert war: Montgomery's buildup, Ultra intellig
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2006-05-14
+last_updated: 2026-09-25
 lang: en
 ---
 At 9:40 on the night of October 23, 1942, approximately 882 Allied guns opened fire along a forty-mile line of desert between the Mediterranean Sea and the Qattara Depression. The barrage that announced the Second Battle of El Alamein was the heaviest British artillery concentration since 1918, and it was the product of a decision rather than a reflex. Ten weeks earlier the Eighth Army had been a defeated force, driven from the Libyan frontier to the gates of Alexandria, its commander dismissed, its confidence broken. The guns of October 23 announced that the army had been rebuilt: 195,000 men, more than a thousand tanks, over two thousand guns, directed by a new commander who had spent two months refusing to fight until he was ready.

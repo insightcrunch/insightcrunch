@@ -9,7 +9,7 @@ excerpt: "Postwar narrative cast Hirohito as a figurehead manipulated by militar
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 69
 author: "insight-crunch-team"
-last_updated: 2005-05-05
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

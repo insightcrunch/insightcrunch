@@ -9,7 +9,7 @@ excerpt: "The atomic bomb missions turned target lists into two sorties from Tin
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-12-16
+last_updated: 2026-09-25
 lang: en
 ---
 At 2:45 on the morning of August 6, 1945, a silver B-29 lifted off the crushed coral runway at North Field, Tinian, carrying a single bomb so heavy that its pilot held the aircraft on the ground until nearly the last usable feet of pavement. In the bomb bay rode a uranium weapon that had never been tested, assembled by men who understood its physics better than its effects. The atomic bomb missions that unfolded over the next three days compressed months of committee planning, years of secret engineering, and one of the most consequential targeting debates of the Second World War into two combat sorties. The decision to use the weapon belongs to a different account in this series; this one reconstructs only what happened next, the machinery and the men that carried the decision out, and the consequences that followed before the week ended.

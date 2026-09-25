@@ -9,7 +9,7 @@ excerpt: "Churchill's first address as Prime Minister offered no comfort, only b
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-01-26
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

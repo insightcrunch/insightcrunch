@@ -9,7 +9,7 @@ excerpt: "Hitler went underground in January and died there by his own hand on A
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2006-01-02
+last_updated: 2026-09-25
 lang: en
 ---
 Shortly before 3:30 in the afternoon of April 30, 1945, Adolf Hitler summoned the dozen or so people who remained in the Führerbunker beneath the Reich Chancellery and said his goodbyes. The building above him was burning. Soviet artillery had been falling on Berlin for days, Soviet infantry were fighting two kilometers from the Chancellery, and the garden where shell craters pocked the lawn stood within sight of the Russian guns. Hitler shook hands with the men and women who had served him to the end, thanked them in a voice the witnesses described as quiet and composed, and withdrew with Eva Hitler, the woman he had married some thirty-eight hours earlier, into his private study. A single pistol shot followed. When the staff entered, Hitler lay dead on the sofa, a pistol beside him, Eva beside him with the bitter almond smell of cyanide in the air. Both bodies were carried to the garden, laid in a shell crater, soaked with gasoline, and burned as Soviet shells continued to fall.

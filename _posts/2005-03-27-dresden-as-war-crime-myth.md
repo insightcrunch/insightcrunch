@@ -9,7 +9,7 @@ excerpt: "The Dresden war crime myth inflates a genuine catastrophe into a singu
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2005-03-27
+last_updated: 2026-09-25
 lang: en
 ---
 ![Dresden after the February 1945 bombing, with firestorm damage across the old city - Insight Crunch](/assets/images/blog/blog-67.webp)

@@ -9,7 +9,7 @@ excerpt: "The Manhattan Project largest secret in history fused Army command, ac
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2004-10-24
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

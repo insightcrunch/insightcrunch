@@ -9,7 +9,7 @@ excerpt: "Bull Halsey built a wartime legend with aggressive Pacific command. Hi
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2005-05-21
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

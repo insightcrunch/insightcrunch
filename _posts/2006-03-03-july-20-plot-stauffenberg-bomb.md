@@ -9,7 +9,7 @@ excerpt: "Stauffenberg slid the briefcase under the table. An officer moved it b
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2006-03-03
+last_updated: 2026-09-25
 lang: en
 ---
 The July 20 plot came down to a heavy oak table support. Colonel Claus von Stauffenberg set a briefcase holding an armed two-pound charge under the conference table in the briefing hut at the Wolfsschanze at roughly half past noon on July 20, 1944. Colonel Heinz Brandt, reaching for the situation maps, moved the briefcase to the far side of one of the table's massive supports. At 12:42 p.m. the charge detonated. The support absorbed the blast. Adolf Hitler walked out with burst eardrums, minor burns, and a tremor in his right arm that never left him. Four other men were killed.

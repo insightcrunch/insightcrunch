@@ -9,7 +9,7 @@ excerpt: "Normandy hedgerows were not missed by Allied planners. COSSAC identifi
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2005-02-28
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

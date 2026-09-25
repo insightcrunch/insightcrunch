@@ -9,7 +9,7 @@ excerpt: "Roosevelt and Churchill met eleven times; the Big Three met at Tehran,
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2005-07-26
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

@@ -9,7 +9,7 @@ excerpt: "Air prophets promised victory by bombing alone. The German campaign an
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2005-07-10
+last_updated: 2026-09-25
 lang: en
 ---
 Strategic bombing was the twentieth century's first great military theory of the air age, and the Second World War was its laboratory. In the 1920s, prophets of air power promised that fleets of bombers could win wars by themselves, striking at the enemy's industry and morale without the slaughter of ground armies. By 1945, the Allies had dropped millions of tons of bombs on Germany and Japan, killed hundreds of thousands of civilians, and consumed a staggering share of their war production to do it. The theory had been tested at the largest possible scale, and the results did not match the promise in any simple way.

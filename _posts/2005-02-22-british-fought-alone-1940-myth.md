@@ -9,7 +9,7 @@ excerpt: "The legend says Britain stood alone. Records show Canadians, Australia
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2005-02-22
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

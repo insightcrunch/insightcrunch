@@ -9,7 +9,7 @@ excerpt: "Casablanca Conference that set unconditional surrender as the Allied a
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2006-05-03
+last_updated: 2026-09-25
 lang: en
 ---
 On the afternoon of January 24, 1943, Franklin Delano Roosevelt faced a crowded press conference in the courtyard of the Anfa Hotel in Casablanca and announced that the Allied war aim was the unconditional surrender of Germany, Italy, and Japan. The words were unscripted in their timing though not in their preparation, and they committed the two great Western Allies, in public and without qualification, to a war of total victory. Winston Churchill, seated beside Roosevelt, endorsed the statement on the spot. The Casablanca Conference thus closed with a political act that would define the ending of the Second World War and generate a scholarly argument that has run for more than six decades without a definitive resolution.

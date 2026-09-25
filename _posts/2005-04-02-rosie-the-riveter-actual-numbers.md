@@ -9,7 +9,7 @@ excerpt: "The poster promised a revolution of women in factories. The numbers sh
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2005-04-02
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

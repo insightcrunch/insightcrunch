@@ -9,7 +9,7 @@ excerpt: "Kuribayashi skipped beach defense for eleven miles of tunnels. Marines
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2006-01-18
+last_updated: 2026-09-25
 lang: en
 ---
 At approximately 10:00 on the morning of February 19, 1945, the men of the 4th and 5th Marine Divisions on Iwo Jima had a problem that should not have existed. The preliminary bombardment had been the heaviest of the Pacific war to that date, and the landing itself had gone almost eerily well. Japanese guns that should have shredded the first waves had stayed silent. By mid-morning, Marines were ashore in strength on the southeast beaches, moving inland across the black volcanic sand with what seemed like manageable resistance. Then the island woke up. Coordinated fire opened from Mount Suribachi to the south, from the Motoyama Plateau in the center, and from the northern ridges, all of it arriving at once, all of it aimed at men caught in the open between the beach and the high ground. The Japanese had not been absent from the waterline. They had chosen to let the Americans come ashore first.

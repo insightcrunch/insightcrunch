@@ -9,7 +9,7 @@ excerpt: "The victorious Red Army held Eastern Europe when Yalta opened. No West
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2005-03-22
+last_updated: 2026-09-25
 lang: en
 ---
 ![The Yalta Conference at Livadia Palace, February 1945, where the myth claims Eastern Europe was sold out to Stalin - Insight Crunch](/assets/images/blog/blog-10.webp)

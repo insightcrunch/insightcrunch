@@ -9,7 +9,7 @@ excerpt: "Operation Chastise sent nineteen Lancasters skimming German reservoirs
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2006-04-22
+last_updated: 2026-09-25
 lang: en
 ---
 Eleven minutes before one in the morning on May 17 1943, Operation Chastise reached its violent climax above the Möhne reservoir in the German Ruhr valley. Five cylindrical mines had skipped across the black water of the lake like thrown stones, each released from an aircraft flying sixty feet above the surface at two hundred thirty miles per hour. The fifth mine sank against the dam's inner face and detonated thirty feet down, where the weight of the water itself drove the blast into the masonry. The wall cracked, then split, then collapsed in a cascade of stone and water. The raid had breached its first dam. Nineteen Lancasters of the Royal Air Force's newly formed 617 Squadron had flown into Germany to do something no bomber force had ever attempted: to destroy a dam not by dropping explosives on it, but by bouncing a weapon across a reservoir, sinking it against the wall, and letting hydrostatic pressure do the work. The night would cost the squadron eight of those nineteen aircraft and fifty-three of the one hundred thirty-three aircrew who took off. It would kill roughly sixteen hundred Germans, most of them forced laborers, and it would change almost nothing about the course of the industrial war in the Ruhr. This article reconstructs the decisions that produced the raid, from a lone designer's skimming-stone insight in 1938 to the four months of compressed development that carried it from Air Ministry approval to the lakes of Germany, and it judges what the raid actually bought.

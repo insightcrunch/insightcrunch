@@ -9,7 +9,7 @@ excerpt: "Hitler the lunatic is a myth. The record shows an ideologically consis
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2005-04-18
+last_updated: 2026-09-25
 lang: en
 ---
 ![Adolf Hitler at a wartime military briefing, subject of a myth-bust examining whether the madness thesis explains his decisions - Insight Crunch](/assets/images/blog/blog-72.webp)

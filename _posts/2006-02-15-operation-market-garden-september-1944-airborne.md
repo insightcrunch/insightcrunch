@@ -9,7 +9,7 @@ excerpt: "Montgomery dropped three airborne divisions to seize nine Dutch bridge
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2006-02-15
+last_updated: 2026-09-25
 lang: en
 ---
 On September 10, 1944, Lieutenant General Frederick Browning, the British commander who would serve as Bernard Montgomery's deputy for Operation Market Garden, sat across from Montgomery and voiced the doubt that would give the entire campaign its name. The plan under discussion called for three Allied airborne divisions to drop behind German lines across a 64-mile corridor through the Netherlands, seize nine bridges over rivers and canals, and hold them until an armored column fought its way north along a single highway to link up. Browning looked at the timetable, at the forces assigned to the farthest objective, and said the operation might be a bridge too far. Montgomery proceeded anyway. Seven days later the largest airborne operation in history began, and nine days after that the 1st British Airborne Division, tasked with the most distant prize, was being evacuated across the Rhine having lost the overwhelming majority of the men it had dropped.

@@ -9,7 +9,7 @@ excerpt: "The Churchill fight on the beaches speech turned Dunkirk into a vow. I
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2005-01-20
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict

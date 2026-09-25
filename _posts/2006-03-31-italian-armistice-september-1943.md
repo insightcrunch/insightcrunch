@@ -9,7 +9,7 @@ excerpt: "How Badoglio's secret Italian armistice ended Italy's Axis alliance, t
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2006-03-31
+last_updated: 2026-09-25
 lang: en
 ---
 The Italian armistice was announced at approximately 6:30 in the evening on September 8, 1943, when Marshal Pietro Badoglio's voice came over Italian radio. The announcement was not his idea, and its timing was not his choice. Hours earlier, General Dwight Eisenhower had already told the world on Allied radio that Italy had surrendered unconditionally. Badoglio was reading a script forced on him by an ally he had courted in secret for six weeks, and the gap between the two broadcasts, a matter of hours, would decide the fate of hundreds of thousands of Italian soldiers. By the next morning, German forces across Italy and the Balkans were executing Operation Achse, the plan Hitler had ordered in late July for exactly this contingency, and the Italian armed forces, left without orders on whether to resist or submit, began to dissolve.

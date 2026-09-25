@@ -9,7 +9,7 @@ excerpt: "The Lend-Lease Administration moved fifty billion wartime dollars of w
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2004-10-19
+last_updated: 2026-09-25
 lang: en
 ---
 ## The Verdict
