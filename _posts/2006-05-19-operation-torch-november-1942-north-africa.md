@@ -6,15 +6,15 @@ date: 2006-05-19
 categories: ["Leisure"]
 tags: ["World War 2", "dwight-eisenhower", "decision-reconstruction", "north-african-campaign", "operation-torch", "united-states"]
 excerpt: "Operation Torch landed 107,000 Allied troops in French North Africa, testing Eisenhower's first supreme command from the July decision to the Darlan Deal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-05-19
+lang: en
 ---
-
 At approximately 1:00 a.m. local time on November 8, 1942, Operation Torch began: American landing craft ran onto the beaches outside Casablanca, Oran, and Algiers across eight hundred miles of Vichy French North Africa. The operation committed approximately 107,000 Anglo-American troops to the first major joint amphibious undertaking of the Second World War and the operational debut of Dwight D. Eisenhower as supreme commander of a multinational force. The decision that produced those landings had been taken four months earlier, in July 1942, when Franklin D. Roosevelt sided with Winston Churchill against the judgment of his own chiefs of staff and ordered a North African landing as the American action for 1942. Operation Torch was the founding decision of the Allied committee architecture: the undertaking that converted the Combined Chiefs of Staff from a planning forum into a war-winning command system. The landings succeeded, the Darlan arrangement that ended French resistance cost the Allies political capital they never fully recovered, and the Tunisian campaign that followed proved that committee command could learn from battlefield failure. This article reconstructs the July through November decision sequence, the three landings, the Darlan Deal, and the Tunisian sequel, and defends the verdict that Torch was the right decision for 1942, executed by the right commander, at a price the Allies had to pay.
 
-![American troops coming ashore at Fedala near Casablanca in the first wave of the Operation Torch landings, November 8, 1942](/assets/images/blog/blog-01.webp)
+![American troops coming ashore at Fedala near Casablanca in the first wave of the Operation Torch landings, November 8, 1942](/assets/images/blog/blog-09.webp)
 
 ## The July Decision
 

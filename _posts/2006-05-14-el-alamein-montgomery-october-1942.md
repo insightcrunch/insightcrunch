@@ -6,15 +6,15 @@ date: 2006-05-14
 categories: ["Leisure"]
 tags: ["World War 2", "bernard-montgomery", "decision-reconstruction", "north-african-campaign", "second-el-alamein", "united-kingdom"]
 excerpt: "El Alamein turned the desert war: Montgomery's buildup, Ultra intelligence, and a methodical assault broke the Panzerarmee and opened the pursuit to Tunisia."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-05-14
+lang: en
 ---
-
 At 9:40 on the night of October 23, 1942, approximately 882 Allied guns opened fire along a forty-mile line of desert between the Mediterranean Sea and the Qattara Depression. The barrage that announced the Second Battle of El Alamein was the heaviest British artillery concentration since 1918, and it was the product of a decision rather than a reflex. Ten weeks earlier the Eighth Army had been a defeated force, driven from the Libyan frontier to the gates of Alexandria, its commander dismissed, its confidence broken. The guns of October 23 announced that the army had been rebuilt: 195,000 men, more than a thousand tanks, over two thousand guns, directed by a new commander who had spent two months refusing to fight until he was ready.
 
-![Eighth Army troops advancing through open desert at El Alamein during the October offensive](/assets/images/blog/blog-01.webp)
+![Eighth Army troops advancing through open desert at El Alamein during the October offensive](/assets/images/blog/blog-65.webp)
 
 The stakes extended beyond the Egyptian desert. An Anglo-American landing in French North Africa was scheduled for early November, and London and Washington needed a British victory in Egypt first. Churchill had staked his authority on an autumn offensive; Roosevelt had diverted hundreds of Shermans to make it possible. If Montgomery attacked too early and failed, the disaster would poison the Anglo-American partnership on the eve of its first combined operation. The claim this reconstruction defends is precise: El Alamein was won in August and September, not in October. The victory belonged to Montgomery's refusal to be hurried, the reorganization of the army for a set-piece assault, the integration of Ultra intelligence, and the accumulation of American armor. The battle itself was the mechanism by which these decisions collided with an Axis sequence of strangulation, absence, and command failure.
 

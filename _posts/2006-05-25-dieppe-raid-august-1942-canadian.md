@@ -6,17 +6,17 @@ date: "2006-05-25"
 categories: ["Leisure"]
 tags: ["World War 2", "louis-mountbatten", "decision-reconstruction", "european-theater", "dieppe-raid", "canada"]
 excerpt: "The Dieppe Raid cost 3,623 Allied casualties in one morning, most of them Canadian. Was it a necessary lesson or an avoidable failure of Allied command."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: "2006-05-25"
+lang: en
 ---
-
 ## The Morning the Raid Died
 
 At approximately 10:50 on the morning of August 19, 1942, Major General John Hamilton Roberts, watching the battle from a headquarters ship anchored offshore, ordered the withdrawal of the force he had sent against Dieppe five hours earlier. The Dieppe Raid, Operation Jubilee, had been conceived as proof that the Allies could strike the defended coast of France and withdraw in good order. By early afternoon it had become the bloodiest single day of the war for the Canadian Army. Of the 6,086 men committed, 3,623 were killed, wounded, or captured, a casualty rate of approximately 59 percent. The Churchill tanks meant to support the infantry sat broken and burning on the shingle. The surprise on which the entire plan depended had been lost hours before the first landing craft reached the shore.
 
-![Canadian infantry assaulting the beaches during the Dieppe Raid, the nine-hour operation that cost 3,623 Allied casualties](/assets/images/blog/blog-01.webp)
+![Canadian infantry assaulting the beaches during the Dieppe Raid, the nine-hour operation that cost 3,623 Allied casualties](/assets/images/blog/blog-23.webp)
 
 The question that has shadowed the raid ever since is whether those nine hours purchased anything worth their price. Mountbatten's Combined Operations Headquarters answered yes: the operation taught lessons that shaped the Normandy landings two years later. A generation of revisionist historians answered no: the cancelled operation had been relaunched without proper authorization, and whatever was learned could have been learned more cheaply. A still later thesis argued that the raid concealed a covert objective, the seizure of German naval cipher materials by a dedicated intelligence unit. This article reconstructs the decision from March through August 1942 within the decision-reconstruction framework, and it defends a single namable claim: Dieppe was not the price of learning. It was the product of an Allied committee system that approved a flawed plan without ever seriously asking whether the price was necessary.
 

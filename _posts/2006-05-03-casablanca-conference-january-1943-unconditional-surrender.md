@@ -6,15 +6,15 @@ date: 2006-05-03
 categories: ["Leisure"]
 tags: ["World War 2", "franklin-roosevelt", "decision-reconstruction", "atlantic-theater", "casablanca-conference", "united-states"]
 excerpt: "Casablanca Conference that set unconditional surrender as the Allied aim. A reconstruction of the strategy, the French reconciliation, and the debate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2006-05-03
+lang: en
 ---
-
 On the afternoon of January 24, 1943, Franklin Delano Roosevelt faced a crowded press conference in the courtyard of the Anfa Hotel in Casablanca and announced that the Allied war aim was the unconditional surrender of Germany, Italy, and Japan. The words were unscripted in their timing though not in their preparation, and they committed the two great Western Allies, in public and without qualification, to a war of total victory. Winston Churchill, seated beside Roosevelt, endorsed the statement on the spot. The Casablanca Conference thus closed with a political act that would define the ending of the Second World War and generate a scholarly argument that has run for more than six decades without a definitive resolution.
 
-![Roosevelt and Churchill at the Casablanca Conference, where the unconditional surrender decision was announced - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Roosevelt and Churchill at the Casablanca Conference, where the unconditional surrender decision was announced - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The ten days at Casablanca, from January 14 through January 24, 1943, produced far more than the famous phrase. The Combined Chiefs of Staff, the Anglo-American military directorate created a year earlier, met in sustained session and settled the Allied strategic program for the coming year. The Mediterranean would take priority over a cross-Channel invasion in 1943. Sicily would be invaded next, the operation that became Husky. The strategic bombing offensive against Germany would be escalated under a directive that matured into Pointblank. Pacific operations under Chester Nimitz and Douglas MacArthur would be coordinated rather than allowed to compete. The war against the U-boat would receive the highest priority of all, because nothing else in the Allied program could proceed while Atlantic shipping losses ran at catastrophic levels. Alongside these military decisions, the conference staged the most photographed political reconciliation of the war, the handshake between Charles de Gaulle and Henri Giraud, an image of French unity that concealed a rivalry as bitter as any on the Allied side.
 

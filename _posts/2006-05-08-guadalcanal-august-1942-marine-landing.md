@@ -6,15 +6,15 @@ date: "2006-05-08"
 categories: ["Leisure"]
 tags: ["World War 2", "alexander-vandegrift", "decision-reconstruction", "pacific-theater", "guadalcanal-campaign", "united-states"]
 excerpt: "Guadalcanal began America's Pacific offensive. Vandegrift's Marines held Henderson Field six months after the fleet withdrew, breaking Japanese offensive power."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: "2006-05-08"
+lang: en
 ---
-
 On June 25, 1942, the American Joint Chiefs of Staff approved an operation that the nation's declared strategy said should not happen. The Arcadia Conference had committed the United States to defeating Germany first, and the Pacific theater was supposed to hold the line with minimum means. Yet on that June day, with the smoke of Midway barely cleared, the chiefs ordered an amphibious offensive against a jungle island in the southern Solomons that most Americans could not have found on a map. The island was Guadalcanal. The decision to seize it, and the six-month campaign of attrition that followed, ended Japan's capacity to mount strategic offensives in the Pacific. That is the namable claim of this reconstruction: the Guadalcanal commitment of June through August 1942 was the decision that broke Japanese offensive power.
 
-![United States Marines wading ashore on Guadalcanal in August 1942, the landing analyzed here through decision reconstruction](/assets/images/blog/blog-01.webp)
+![United States Marines wading ashore on Guadalcanal in August 1942, the landing analyzed here through decision reconstruction](/assets/images/blog/blog-75.webp)
 
 The framework is decision reconstruction: the choices in sequence, the information available to the choosers, the alternatives discarded, and the consequences that compounded. The August 7 landing was not a single decision but the tip of a chain: Admiral Ernest King's demand for an early Pacific offensive, the Joint Chiefs' June 25 approval, Vice Admiral Robert Ghormley's theater planning, Rear Admiral Richmond Kelly Turner's amphibious execution, Vice Admiral Frank Jack Fletcher's carrier support and withdrawal, and Major General Alexander Vandegrift's six-month defense of a half-built airfield. On the Japanese side the chain ran from Imperial General Headquarters through the Combined Fleet to the 17th Army. The campaign consumed approximately 7,100 American dead and approximately 28,000 Japanese dead, dozens of warships, and 615 American and 683 Japanese aircraft.
 

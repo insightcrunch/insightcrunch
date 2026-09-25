@@ -6,17 +6,17 @@ date: 2014-10-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Egyptian Cotton", "19th Century Egypt", "Economy", "Society"]
 excerpt: "How Egyptian cotton transformed Egypt: from Muhammad Ali's long-staple monopoly and the Civil War boom to monoculture, bust, and the debt crisis that followed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-10-01
+lang: en
 ---
-
 The fields of a Delta village did not change overnight, and that was part of the cruelty of it. A fellah family woke before dawn as it always had, the father and his sons taking hoes to soil that was being converted, season by season, to Egyptian cotton, while the women drew water and prepared the thin flatbread that carried them through the morning. The buffalo lowed in the same mud-brick stable, the children played the same games in the same dust, and yet the purpose of the labor had quietly shifted. The wheat and beans that once filled the family granary were being crowded out, ordered down to a narrow strip at the field's edge, while the rest of the earth was given over to a single demanding crop the family could neither eat nor wear. What had been a household economy, imperfect but legible, was becoming a cog in a machine whose wheels turned in Manchester and Rouen, and the family was among the last to understand it.
 
 The transformation was not announced with any fanfare that a peasant family could have recognized. No edict arrived explaining that the world market had found a new appetite; instead the sheikh of the village passed along word that the pasha's agents would pay for cotton, that cotton was wanted in quantity, and that the tax on the land would be assessed accordingly. The family learned the crop the way peasants have always learned crops, through repetition and through error, and the errors were expensive. Cotton drank water at a rate that wheat never had, and it demanded that water at precise moments in its growing cycle, which meant that someone, usually the oldest son or the father himself, spent long nights watching the irrigation channels by lantern light so the neighbors' share did not drain the family's portion. The women learned to pick the bolls without staining the fiber, working down the rows with their fingertips until their hands were raw, and the children, small enough to move between the rows without trampling the plants, learned that the harvest season meant no rest.
 
-![How cotton transformed Egypt, from Muhammad Ali's fields to the debt crisis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How cotton transformed Egypt, from Muhammad Ali's fields to the debt crisis - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 Consider the arithmetic of that household, because the arithmetic is what made Egyptian cotton a social revolution disguised as an agricultural one. Under the old rotation, the family had grown enough grain to eat, enough fodder for the buffalo, and a little surplus to sell or store against a bad year. Under the new dispensation, much of the land produced something the family could neither eat nor use: raw cotton fiber, destined for ginning sheds and river barges and eventually for ships bound for Europe. The family had to sell the cotton, and then buy back its bread at market prices, which meant it now stood exposed to two markets at once, the market for its crop and the market for its food, over neither of which it had any control. The father could work harder, and did, but harder work did not change the price in Liverpool. This was the texture of the change: not a dramatic scene of dispossession, but a slow tightening, a season-by-season narrowing of choices, until the family's labor belonged more to the market than to itself.
 

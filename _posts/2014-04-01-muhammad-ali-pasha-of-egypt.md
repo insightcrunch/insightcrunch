@@ -6,15 +6,15 @@ date: 2014-04-01
 categories: ["Leisure"]
 tags: ["Egyptian History", "Muhammad Ali", "Biography", "Modern Egypt", "Ottoman Egypt", "World History"]
 excerpt: "Who Muhammad Ali Pasha actually was: his Albanian origins, his arrival in Egypt, his character and his habits, his final years, and how he is remembered."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-04-01
+lang: en
 ---
-
 A boy was born in a small Ottoman port on the Macedonian coast around 1769, into an Albanian family of no particular standing. His father held a minor local command and died while the boy was young. He grew up under the protection of relatives and of the town's governor, went into the tobacco trade, married a woman connected to that governor's household, and by his early thirties was an officer in a provincial militia of a few hundred men. Nothing in that biography predicts anything.
 
-![Muhammad Ali Pasha, the Albanian officer who founded Egypt's last dynasty - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Muhammad Ali Pasha, the Albanian officer who founded Egypt's last dynasty - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 He died forty eight years later as the founder of a dynasty, having ruled Egypt for four decades, conquered Arabia, the Sudan, and Syria, destroyed two Ottoman armies, and been stopped only by the combined naval intervention of four European powers. The state he built is the subject of the article on [Muhammad Ali and the birth of modern Egypt](/2014/03/01/muhammad-ali-and-modern-egypt/). This article is about the man.
 
