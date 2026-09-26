@@ -6,12 +6,12 @@ date: 2031-04-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "textual scholarship", "galley proofs", "F. Scott Fitzgerald", "revision history", "proof revisions"]
 excerpt: "Fitzgerald's revisions in the galley proofs reshaped the novel late: Gatsby's biography and the middle chapters were heavily rewritten on the proof sheets."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-04-07
+lang: en
 ---
-
 Most books cross the proof stage on tiptoe. By the time galleys are pulled, the composition is supposed to be finished, and the writer's job is to catch the errors the typesetters introduced: a dropped letter, a misspelled name, a paragraph out of order. Fitzgerald treated the galley proofs of The Great Gatsby as a composition surface instead. The revisions he made on the proofs were substantial. They were not corrections. They were decisions, and they included the reworking of Gatsby's biography and the reshaping of the middle chapters of the novel, the sixth and the seventh, where the book's architecture bends and then holds.
 
 That claim needs a little unpacking, because it sounds like a story about heroics. It is really a story about evidence. The surviving galley record, together with the pre-proof text and the apparatus of the scholarly editions that collate them, shows Fitzgerald still rewriting in the printing house. James L. W. West III's 2019 Cambridge variorum edition makes the proof record legible in a way earlier editions could not, and the 2000 Cambridge edition of Trimalchio preserves the text as it stood before the galley-stage rewriting began. Between those two documents sits the proof record: the changes Fitzgerald wrote onto the sheets, the passages he recast, the biography he rethought, the chapters he rearranged. This article is a complete account of that record.
@@ -82,7 +82,7 @@ Consider the problem from the novel's side. The Great Gatsby is narrated by a ma
 
 The placement question deserves particular attention, because it is the kind of decision that only the proof stage could make in this production. The biography could have been told earlier, later, or in pieces, and the novel's effect changes with each choice. By the time the proofs arrived, the surrounding chapters were set, and the question of placement had to be answered within the set text. Fitzgerald's answer, written on the sheets, was to give chapter six the concentrated telling the published novel carries, positioned where the mystery of Gatsby has become the novel's central question. The placement is a proof-stage decision, and it is one of the most consequential in the book, because it determines when the reader learns what Nick learned and therefore how the rest of the novel is read.
 
-![Galley proof sheets of The Great Gatsby with Fitzgerald's handwritten revisions, showing the late-stage reworking of Gatsby's biography and the middle chapters - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Galley proof sheets of The Great Gatsby with Fitzgerald's handwritten revisions, showing the late-stage reworking of Gatsby's biography and the middle chapters - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 ### How did the proofs transform the telling of Gatsby's past?
 

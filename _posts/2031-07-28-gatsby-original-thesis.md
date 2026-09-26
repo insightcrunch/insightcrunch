@@ -6,17 +6,17 @@ date: 2031-07-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Research Methods", "Academic Research", "Thesis Writing", "Literary Scholarship", "Original Argument"]
 excerpt: "Building an original thesis about Gatsby means mastering the scholarship, finding a genuine gap, and framing a contestable claim the evidence supports."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-07-28
+lang: en
 ---
-
 ## The Whole Series in Service of One New Sentence
 
 Building an original thesis about Gatsby is the destination toward which this entire series has been walking, and the walk is the reason the destination is reachable. The series opened with first encounters and close reading, moved through character, theme, symbol, craft, context, critical lenses, comparison, quotation, adaptation, and reception, then taught essay strategy, and finally assembled the research block: the survey of the scholarship, the literature review, the research questions, the open problems. Every one of those movements was preparation for a single act, and this article names that act and teaches it: the production of one new sentence about The Great Gatsby that the scholarship does not already contain, stated in a form the evidence of the novel and the field can test.
 
-![A scholar's desk with the annotated text of The Great Gatsby and notes for building an original thesis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A scholar's desk with the annotated text of The Great Gatsby and notes for building an original thesis - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 That sentence is the whole wager of original work. Not a fresh topic, not a clever angle, not a phrase nobody has used before, but a claim: something asserted about the novel that could be wrong, that the existing criticism has not said, and that the text can be made to answer for. The distinction matters because most thesis failures are failures at this exact point, and they take two familiar forms. One writer announces a topic and calls it a thesis, saying the project will be "about" Nick's narration or "about" the green light, which promises nothing and therefore proves nothing. Another writer announces something unfalsifiable, a claim so broad or so hedged that no passage could ever dislodge it, which also proves nothing. The original thesis is neither of these. It is a sentence with edges, a sentence that takes a position inside a conversation the writer can name, and the conversation is nameable only because the writer has read it.
 

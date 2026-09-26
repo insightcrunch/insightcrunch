@@ -6,19 +6,19 @@ date: 2030-11-18
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "essay writing", "exam strategy", "close reading", "study guides", "American literature"]
 excerpt: "Master how to avoid plot summary in gatsby essays: touch each event only to make a point, assume the reader knows the story, and turn narration into analysis."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-11-18
+lang: en
 ---
-
 ## How to Avoid Plot Summary in Gatsby Essays, One Paragraph at a Time
 
 The single habit that separates a middling Gatsby essay from a strong one is not knowledge of the novel, and it is not elegance of expression. It is the discipline of reference rather than recount: touching an event only to make a point about it, never retelling the story for its own sake. Learning how to avoid plot summary in gatsby essays is therefore less a matter of learning new facts than of converting an old habit, the habit of narration, into a sharper one, the habit of analysis. The strong essay assumes the reader knows the plot. It uses the green light, the Plaza confrontation, the car on the road to Queens, and the thinly attended funeral as evidence, not as material to be described. The weak essay does the opposite. It walks the examiner through scenes the examiner already knows, spending its word budget on events and leaving nothing for meaning.
 
 This distinction is worth stating with precision, because it is the entire subject of this guide. Plot summary retells the story. Analysis references events to make a point. The work of the essay writer is to convert one into the other, sentence by sentence, until the conversion becomes a habit of mind rather than a repair job done after drafting. That is the namable claim this article defends: reference, do not recount. Every technique that follows is a way of making that claim operational, in timed conditions, under word limits, and against the pull of a story that is unusually easy to retell.
 
-![A student revising a Gatsby essay draft, crossing out narrated plot and rewriting it as analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student revising a Gatsby essay draft, crossing out narrated plot and rewriting it as analysis - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 The pull deserves honest attention before the technique does, because students do not summarize from laziness. They summarize because the novel's plot is vivid, because narration feels productive, and because the boundary between describing an event and interpreting it is genuinely thin in the moment of writing. A sentence like "Gatsby reaches toward the green light at the end of the first chapter" sits exactly on that boundary. It reports an event, but it also selects an event, and selection feels like judgment. The trouble is that examiners do not award marks for selection alone. They award marks for what the writer does with the selected event, and a paragraph that only selects and reports has done nothing with it yet.
 

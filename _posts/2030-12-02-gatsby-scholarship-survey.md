@@ -6,15 +6,15 @@ date: 2030-12-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gatsby scholarship", "literary criticism", "research guide", "landmark studies", "critical schools"]
 excerpt: "A survey of great gatsby scholarship mapping the six major schools, their landmark studies, and live debates, so researchers orient before the deep dive."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-12-02
+lang: en
 ---
-
 A survey of great gatsby scholarship works best when imagined as a map drawn before a journey. The researcher who opens the novel without one steps into a field carrying more than a century of accumulated argument, where every confident claim about the book has already been made, answered, and remade by someone else. The map does not settle those arguments. It shows where they sit, which routes connect them, and which territories remain thinly charted, so that the journey that follows begins with orientation rather than wandering. That is the whole of the namable claim behind this article: lay out the major schools and their landmark studies first, and the deep work that follows becomes deliberate instead of accidental.
 
-![Scholarly map of Great Gatsby criticism schools and landmark studies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Scholarly map of Great Gatsby criticism schools and landmark studies - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The complication that gives this map its urgency is the temptation to treat the scholarship as a settled consensus, a body of findings a researcher can simply absorb and cite. The field refuses that treatment. Formalist, historicist, feminist, Marxist, race, and textual approaches do not converge on a single approved reading of the novel; they dispute its most basic premises, from whether Gatsby embodies the American dream or exposes it, to whether Daisy Buchanan is victim or agent, to whether the text Fitzgerald's readers quote is even the text he meant to stabilize. A survey that presented these positions as resolved would mislead its reader at the exact moment it promised to orient them. The honest survey presents them as live, names the debate on each side, and lets the researcher see that the ground under every landmark study is contested.
 

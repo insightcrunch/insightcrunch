@@ -6,15 +6,15 @@ date: 2030-12-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Trimalchio", "Textual Scholarship", "Draft Analysis", "Revision Studies"]
 excerpt: "Trimalchio: the early draft of Gatsby shows Fitzgerald turning a strong novel into a masterpiece, and the version differences map his decisive revision choices."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-12-16
+lang: en
 ---
-
 Most masterpieces hide their scaffolding. Trimalchio: the early draft of Gatsby preserves it. In 1924 F. Scott Fitzgerald finished a complete novel under the working title Trimalchio and submitted it to his editor, Maxwell Perkins at Scribner's. Perkins had the typescript set in type. Fitzgerald then read the galley proofs in France and rewrote the book so heavily that what emerged was, in effect, a new novel. The earlier version survived because the galleys were preserved, and in 2000 it appeared in print as Trimalchio: An Early Version of The Great Gatsby, edited by the Fitzgerald scholar James L. W. West III for the Cambridge Edition of the Works of F. Scott Fitzgerald. The book is not a pile of fragments or a set of variant readings. It is a complete, readable, and strong novel that happens to be a different novel from the one the world came to know. That is precisely what makes it valuable.
 
-![Trimalchio early draft manuscript comparison showing revision marks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Trimalchio early draft manuscript comparison showing revision marks - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 The central claim of this study is straightforward. Trimalchio documents the decisive revisions. The differences between the two versions are not random touch-ups or the usual tightening that every manuscript undergoes before publication. They are deliberate, structural, and artistic choices that transformed a good book into the book that became the book Fitzgerald's readers recognize. When the chapter that reveals Gatsby's past is read in Trimalchio and then read in the published text, the improvement is not a matter of polish. It is a matter of architecture. The draft reveals a secret late in a confessional scene; the published novel distributes the secret in hints, delays it, frames it, and makes the withholding itself part of the meaning. Studying the draft therefore shows the reader exactly what the revision accomplished, scene by scene, decision by decision. Treating Trimalchio as a curiosity misses the point. It is the record of the making.
 

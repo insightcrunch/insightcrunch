@@ -6,17 +6,17 @@ date: 2031-05-26
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Authorial Intention", "Intentional Fallacy", "Literary Theory", "F. Scott Fitzgerald", "Academic Deep Dive"]
 excerpt: "The authorial intention debate in Gatsby asks if Fitzgerald's letters settle its meaning or only inform it, mapping each position without taking a side."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2031-05-26
+lang: en
 ---
-
 The authorial intention debate in Gatsby asks one of the sharpest questions a reader can put to a novel. When the author's own letters describe what he meant, and his drafts show him changing his mind, do those records govern what the book means, or do they sit outside the meaning entirely? Fitzgerald left an unusually rich paper trail around The Great Gatsby. His correspondence with his editor discusses the title, the structure, and the revision of the proofs; his manuscripts and galleys record passages added, cut, and rewritten before publication in 1925. That documented record sharpens a disagreement that literary theory has carried for a century: whether authorial intention settles meaning, informs it, or has no claim on it at all.
 
 This article maps that disagreement evenhandedly, position by position, so that the reader can see what each side claims and how each side handles the same documented evidence. The letters and the final page revisions are the evidence at issue here, not the subject of fresh coverage; they are catalogued in the companion articles, and this article treats them as the shared record on which the competing positions operate. What follows is a debate map, not a verdict. Each position is presented at its strongest, the handling of the Gatsby evidence is stated plainly, and the article declines to declare a winner, because the debate remains genuinely live.
 
-![Debate map of the authorial intention positions argued over The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Debate map of the authorial intention positions argued over The Great Gatsby - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 ## The Authorial Intention Debate in Gatsby: The Question That Divides the Field
 

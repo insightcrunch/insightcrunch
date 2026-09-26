@@ -6,17 +6,17 @@ date: 2031-06-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gatsby scholarship", "scholarship misconceptions", "academic deep dive", "critical history", "reception history", "research guide"]
 excerpt: "Common misconceptions in Gatsby scholarship reach the seminar. Each error in composition, reception, and criticism is listed with its documented correction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2031-06-09
+lang: en
 ---
-
 ## Common Misconceptions in Gatsby Scholarship: The Errors That Survive Into the Seminar
 
 Common misconceptions in Gatsby scholarship are not beginner mistakes that wash out with a little study. They are errors that survive into the seminar, repeated by readers who know the novel well, cite the criticism fluently, and would never confuse Daisy with Jordan. This article catalogues those research-level errors, the false claims about the novel's composition, its 1925 reception, its biographical sources, and its critical history, and corrects each one against the documented record. The claim is direct: even advanced discourse carries misconceptions about the novel's composition, reception, and criticism, and correcting them is not remedial work but the field's rigor standard.
 
-![Annotated pages showing how common misconceptions in Gatsby scholarship are corrected against the documented record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Annotated pages showing how common misconceptions in Gatsby scholarship are corrected against the documented record - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 A misconception earns the label scholarly when it circulates among informed readers rather than first-time ones. A student error says that Gatsby is a love story with a happy subtext or that Nick is a neutral camera; a scholarly error says that the 1925 reviews were uniformly hostile, that Fitzgerald hardly revised, or that one 1945 essay single-handedly rescued the novel from oblivion. The two kinds of error differ in dress, not in structure. Both substitute a vivid story for a documented one, and both spread because the vivid version is easier to repeat than the accurate one. The difference that matters is where each kind lives: student errors live in the first reading, while scholarly errors live in the seminar, the footnote, and the inherited lecture note, which makes them harder to dislodge precisely because they sound informed. Readers who want the basic errors corrected alongside these will find them handled separately in the series' master guide to student misreadings, which owns that territory ([Great Gatsby misreadings corrected](/2022/06/20/great-gatsby-misreadings-corrected/)); this article stays inside the research-level set.
 

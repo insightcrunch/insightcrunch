@@ -6,15 +6,15 @@ date: 2031-07-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Gatsby studies", "research frontiers", "literary scholarship", "digital humanities", "research methods"]
 excerpt: "Open research problems in Gatsby studies mark where the work still waits: a map of the unresolved textual, theoretical, reception, and digital frontiers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-07-21
+lang: en
 ---
-
 A century of scholarship has not finished The Great Gatsby. That is the first thing to say, because the standing assumption about a novel published in 1925 is that every serious question about it has been asked, answered, and filed away. The assumption feels reasonable. The novel is short, the criticism fills shelves, and the classroom repeats the same themes until they sound exhausted. But the open research problems in Gatsby studies are not the leftovers of a picked-over field. They are the questions that the century of scholarship, by its own progress, has brought into view: textual puzzles that only matter once the text is stable, theoretical inquiries that only arise once the standard lenses have done their work, reception gaps that only become visible once the canon is mapped, and digital frontiers that only became askable when the methods matured. Where the work still waits is the claim this article defends, and the map below makes the claim checkable, problem by problem, across four strands of study.
 
-![Mapping the open research problems in Gatsby studies across textual, theoretical, reception, and digital frontiers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mapping the open research problems in Gatsby studies across textual, theoretical, reception, and digital frontiers - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The complication deserves a direct answer, because it is the objection every researcher hears. If the novel is short, the scholarship vast, and the themes familiar, what could possibly remain? The answer has two parts. First, scholarship does not only answer questions; it manufactures them. Every settled reading of the green light created the conditions for the next question, which was no longer what the light means but how its meaning moves between chapters, which in turn created the question of how translation carries that movement across languages, which in turn created the question of how digitized corpora might track it. Answered questions are the soil in which open problems grow. Second, the field keeps acquiring new evidence and new instruments. Manuscripts are digitized, letters are published, review archives are scanned, and computational methods are invented, and each arrival reopens matters that looked closed. The novel did not change. The conditions of studying it did, and they keep changing.
 

@@ -6,19 +6,19 @@ date: 2031-03-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "race scholarship", "literary criticism", "whiteness studies", "American literature", "research guides"]
 excerpt: "Race scholarship on Great Gatsby maps how scholars read Tom's racism, the novel's whiteness, and its racial subtext, plus the arguments, evidence, and debates."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-03-10
+lang: en
 ---
-
 Race scholarship on Great Gatsby criticism is the strand that refuses to let Tom Buchanan's dinner-table racism be a throwaway character detail. In the first chapter of Fitzgerald's novel, Tom interrupts a conversation to hold forth about a book he has been reading, a pseudo-scientific tract about the rise of colored empires and the need for the white race to stay alert, and Nick Carraway watches him with a mixture of fascination and embarrassment. Generations of readers treated that scene as mere characterization, proof that Tom is a brute. The scholars this article maps did something different. They asked what it means that a novel so often read as a story about class, money, and the American Dream opens its racial politics in the very first chapter, and they followed the question through whiteness, nativism, stereotype, and subtext until race became one of the novel's serious scholarly subjects. This article maps that strand: its arguments, its evidence, its internal debates, and where a researcher goes next.
 
 The namable claim is straightforward. Race scholarship on The Great Gatsby maps how critics have read Tom's racism, the construction of whiteness, and the racial anxieties beneath the surface, and that map shows a developed, debated strand rather than a marginal footnote or a settled consensus. That claim matters because the two most common misreadings of this strand pull in opposite directions. One misreading treats race as marginal to the novel, as though Tom's speech were a local blemish on a story really about something else. The other treats race as settled, as though the scholarship had reached a consensus and nothing remained to argue about. Both misreadings are wrong, and this article shows why, position by position, so that a reader understands not only what scholars have said but how the strand earned its standing and where its debates sit.
 
 The distinction this article owns is worth stating up front, because the series treats it as load-bearing. This article maps the race-scholarship strand: the accumulated arguments, evidence, and disagreements that critics have built about race in the novel. It does not apply a critical lens of its own, and it does not re-argue whiteness as a standalone theory. Those jobs belong to the companion articles. Readers who want the critical-race-theory lens on the novel can follow the link where it belongs in the body, and readers who want the whiteness-studies lens will find it in the same place. What follows here is the map of what scholars of race in the novel have argued, how they have argued it, and what they still dispute.
 
-![Race scholarship on The Great Gatsby mapping arguments evidence and debates - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Race scholarship on The Great Gatsby mapping arguments evidence and debates - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 ## Race Scholarship on the Great Gatsby: The Strand in One View
 

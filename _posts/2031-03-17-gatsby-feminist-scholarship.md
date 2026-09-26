@@ -6,19 +6,19 @@ date: 2031-03-17
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "feminist scholarship", "literary criticism", "gender studies", "American literature", "research guides"]
 excerpt: "Feminist scholarship on Great Gatsby maps how critics read Daisy, Jordan, and Myrtle, the narration's male gaze, and the women's confinement, with its debates."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2031-03-17
+lang: en
 ---
-
 Feminist scholarship on The Great Gatsby is the strand that took the novel's women seriously when almost nobody else did. For decades the critical conversation treated Daisy Buchanan as a symbol to decode, Jordan Baker as a sporting accessory to the plot, and Myrtle Wilson as a device who had to die on schedule. Nick Carraway's narration supplied the verdicts, and readers accepted them: the women were careless, or hollow, or vulgar, and the novel's moral weight belonged to the men who judged them. The scholars this article maps refused that arrangement. They asked what happens when a reader stops identifying with Nick, when Daisy's silences are heard as speech, when Jordan's dishonesty is read as strategy, and when Myrtle's death is treated as an event with a politics rather than a twist with a function. That refusal, worked out across decades of argument, made gender one of the central scholarly questions about the novel, and this article maps how it happened.
 
 The namable claim is direct. Feminist scholarship on Gatsby maps how critics have read Daisy, Jordan, and Myrtle, the male gaze of Nick's narration, and the confinement of the novel's women, and that map reveals a strand built from internal debate rather than a single uniform position. This matters because the most common misreading of the strand treats it as one thesis with many footnotes, as though feminist critics all agreed that Daisy is a victim, that Nick is a villain, and that the novel is a feminist tract misunderstood by earlier readers. The scholarship contains no such consensus. It contains a landmark intervention that changed the evidentiary rules, a set of rival readings of each woman, a sustained argument about the narrator's authority, and a continuing dispute about whether the novel indicts its world's gender order or merely displays it. A reader who understands the debates understands the strand; a reader who knows only the slogans does not.
 
 The distinction this article owns is worth stating before the map begins, because the series treats the division of labor as load-bearing. This article maps the feminist-scholarship strand: the accumulated arguments, evidence, and disagreements that critics have built about gender in the novel. It does not apply a feminist method of its own, and it does not re-argue the women's readings as standalone criticism. Those jobs belong elsewhere in the series. The map below shows what scholars of gender in Gatsby have argued, how they have argued it, where they disagree, and where a researcher goes next.
 
-![Women, narration, and gender politics in The Great Gatsby: a map of the feminist scholarship - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Women, narration, and gender politics in The Great Gatsby: a map of the feminist scholarship - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 ## Feminist Scholarship on the Great Gatsby: The Strand in One View
 

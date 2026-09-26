@@ -6,19 +6,19 @@ date: 2031-04-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Literary Criticism", "New Criticism", "Close Reading", "American Literature", "F. Scott Fitzgerald"]
 excerpt: "The New Critics and Great Gatsby reveals how mid-century close reading found unity, symbol, and structure in Fitzgerald's novel and taught it into the canon."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-04-28
+lang: en
 ---
-
 ## The New Critics and Great Gatsby
 
 The New Critics read The Great Gatsby into the canon. That is the claim this article makes, stated at the outset so that every section can test it: the mid-century movement that taught readers to attend to the words on the page, to prize unity, and to read symbols as the load-bearing structure of a work, found in Fitzgerald's novel exactly the kind of object it was trained to admire, and its attention helped secure the novel's stature. The method treated a text as a self-contained whole, and The Great Gatsby repaid the treatment. Its symbols recur and revise their meaning, its chapters echo one another, its ending gathers its beginnings, and a generation of teachers trained in close reading could point students at all of it, line by line. The novel became, in the middle decades of the century, the exemplary American text for the method, and the method made the novel teachable, which is one of the quiet engines of canonization.
 
 Consider the puzzle that makes the claim worth testing. When Charles Scribner's Sons published The Great Gatsby in April 1925, the book sold modestly, the reviews were mixed, and Fitzgerald died in 1940 believing his best work lay behind him. Fifteen to twenty years later, the novel stood near the center of the American classroom canon, assigned to students by the millions and treated as a modern classic. Many forces contributed to that reversal, and the full mechanics belong to the canonization account. But one of the decisive forces was critical: a movement of readers developed a way of reading that fit this novel with unusual precision, and that fit changed what teachers could do with the book. Before the New Criticism, a novel like Gatsby invited biographical gossip about its author or moralizing judgment of its characters. After it, the novel invited something else: patient attention to pattern, image, and design, a form of attention that turned the book from a period story about rich people into a crafted object that rewarded study.
 
-![A student annotating a mid-century edition of The Great Gatsby for close reading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student annotating a mid-century edition of The Great Gatsby for close reading - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 This article owns the account of that movement: who the New Critics were, what their method asked readers to do, how the method read the novel's symbols and structure, how the movement's teaching power helped make the book a classic, and where the method's limits lie. It is a critical-movement study, not a how-to guide. Readers who want the method applied passage by passage will find that work elsewhere in this series, and readers who want the full machinery of the novel's rise, the wartime paperbacks, the postwar advocacy, the classroom adoption, belong with the canonization history. What this article argues is narrower and, if the evidence holds, consequential: that a particular school of reading supplied the interpretive frame that made the novel teachable, and that teachability was one of the things that made the novel a classic.
 

@@ -6,12 +6,12 @@ date: 2030-12-09
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "manuscript history", "textual scholarship", "F. Scott Fitzgerald", "archival research", "drafts and revisions"]
 excerpt: "The manuscript history of Great Gatsby runs from plans to corrected galleys, and the Princeton papers record each stage of how Fitzgerald built the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-12-09
+lang: en
 ---
-
 The manuscript history of Great Gatsby begins with an archive, not a book. Before the slim 1925 novel existed, there were years of planning notes, a mostly handwritten draft, at least one full typescript, two sets of galley proofs, and stray leaves that never belonged to any clean version. Most of those materials survived. They sit in the F. Scott Fitzgerald Papers at Princeton University Library, where they turn the story of the novel's composition from biography into evidence. Readers who know Gatsby only as a finished text are reading the last page of a much longer process. The paper trail of a masterpiece is recoverable in unusual completeness, and it lets scholars watch a writer conceive, draft, cut, rearrange, and polish one of the most compressed novels in American literature. That record is what this account maps, document by document.
 
 Manuscript history is a discipline with its own methods, and Gatsby is one of its model cases. Textual scholars distinguish between the history of a text, the sequence of states a work passed through, and the history of its documents, the physical objects that carry those states. For most novels of the 1920s, the two histories diverge early: drafts are lost, typescripts vanish, and scholars reconstruct the sequence from letters and inference. Gatsby is unusual because the documents survive in unusual density, which means the two histories can be checked against each other at nearly every stage. That density is what elevates this article from biography to evidence. Every stage named below corresponds to a physical object a researcher can still consult, and every claim about Fitzgerald's process can be tested against the pages.
@@ -20,7 +20,7 @@ The scholarly lineage behind this record deserves naming, because the archive di
 
 The inventory, stated compactly, runs as follows. The earliest planning belongs to 1922, when the novel was first imagined in a different setting and period; almost none of its pages survive. The holograph manuscript, the long autograph draft written chiefly in pencil, carries the central labor of composition through 1924. The typescript submitted to Perkins in October 1924 froze the book as the author then considered it finished. The Trimalchio galleys, set from that typescript, preserve the submitted novel under its working title. The corrected Gatsby galleys carry the sweeping proof-stage rewrite of early 1925, the most consequential documented revision in the book's history. Two stray early leaves, the urtext fragments, sit outside the main sequence. Around these documents cluster the letters that explain them, the conservation records that preserved them, and the editions that made them public. Each of the sections below takes up one part of this inventory, and the artifact table at the end pairs every surviving document with what it reveals.
 
-![Handwritten manuscript pages and galley proofs from the Gatsby archive, the core of the manuscript history of Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Handwritten manuscript pages and galley proofs from the Gatsby archive, the core of the manuscript history of Great Gatsby - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 Every claim below rests on the physical record. Fitzgerald's papers were donated to Princeton in 1950 by his daughter Scottie Fitzgerald Lanahan, and they now form one of the most consulted literary archives in the country: more than a hundred boxes of manuscripts, working drafts, corrected galleys, correspondence, photographs, and related materials, all administered within the Department of Rare Books and Special Collections. The autograph manuscript and the corrected galleys of The Great Gatsby were digitized in 2013 and placed in the Princeton University Digital Library, which means the central evidence is no longer restricted to scholars with travel budgets. A facsimile edition of the handwritten manuscript was later issued in a limited run, putting high-resolution reproductions on the desks of researchers and collectors. The point of this history is not to romanticize old paper. It is to show that the textual record of Gatsby's making is unusually rich, that each surviving document answers different questions, and that treating the published novel as the only object of study discards the very evidence that explains how the book became itself.
 

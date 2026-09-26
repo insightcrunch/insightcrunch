@@ -6,12 +6,12 @@ date: 2031-05-12
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "archival research", "manuscript history", "literary archives", "research methods"]
 excerpt: "Archival sources for Gatsby research begin at Princeton's Firestone Library. This guide maps the repositories, their holdings, and the honest terms of access."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-05-12
+lang: en
 ---
-
 The primary record of The Great Gatsby has an address. It sits in the Manuscripts Division of Princeton University Library, inside Firestone Library, where the F. Scott Fitzgerald Papers preserve the manuscripts, working drafts, corrected galleys, correspondence, scrapbooks, and photographs that document how the novel was written, revised, and published. Every serious claim about the making of the book, from the order of its drafts to the wording of its proofs, can in principle be checked against these materials. That is the central fact of this guide: the archival sources for Gatsby research hold the manuscripts, letters, and papers that ground original work, so knowing the repositories is the first step in primary research. The archive does not decorate scholarship. It disciplines it, offering evidence that no secondary source can replace.
 
 A widespread assumption misleads students and general readers alike, namely that everything worth consulting has been digitized and sits a search away. The truth is more demanding and more interesting. A portion of the central evidence, the autograph manuscript and the corrected galleys, was digitized in 2013 and placed in the Princeton University Digital Library, where any careful reader can examine the images. The far larger remainder, the correspondence, the notebooks, the scrapbooks, the business papers, the publisher's files, remains available chiefly in reading rooms, under conditions that protect fragile originals and honor the terms on which they were given. Archival work therefore has distinct value and distinct terms. It rewards patience, planning, and physical presence, and it answers questions that no scan can settle.
@@ -20,7 +20,7 @@ This guide maps the terrain as honestly as the evidence allows. It names the rep
 
 One commitment governs everything that follows: the guide states what the documents show, what they suggest, and where they go silent. The papers are remarkably complete for the central compositional sequence, yet the earliest planning of 1922 survives in almost no pages, some letters live only in private hands, and pencil layers do not always surrender their dates. Those boundaries are not defects of the research but facts of the record, and a guide that hid them would teach researchers to claim more than the archive allows. Honesty about limits is what makes the rest of the guidance trustworthy.
 
-![Archival boxes and manuscript folders in a special collections reading room, representing the archival sources for Gatsby research - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Archival boxes and manuscript folders in a special collections reading room, representing the archival sources for Gatsby research - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 ### Why does Princeton's Firestone Library anchor Gatsby research?
 

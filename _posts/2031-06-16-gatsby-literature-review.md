@@ -6,16 +6,17 @@ date: 2031-06-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "literary research methods", "academic writing", "literature review", "Gatsby scholarship", "research skills", "thesis writing"]
 excerpt: "Learning how to write a literature review on Gatsby means synthesizing the scholarship into a critical map of debates and gaps, not a pile of summaries."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-06-16
+lang: en
 ---
 Most students who search for how to write a literature review on gatsby begin by reading a stack of scholarly essays and then writing down what each one says, in order, one paragraph per critic. The result reads like a receiving line at a formal event. Each scholar steps forward, bows, and is introduced, and then the next steps forward. Nothing touches anything else. The reader learns that Marius Bewley wrote about the novel in 1954 and that Judith Fetterley wrote about it in 1978 and that the materialist readings came later, but learns nothing about whether those writers agree, what they disagree about, or why any of it matters to the project the review is supposed to introduce. This is the complication this guide confronts head on. The string of summaries feels like diligence and is in fact evasion. It reports the existence of scholarship without entering the conversation the scholarship constitutes, and a literature review that does not enter the conversation is not a literature review at all.
 
 The claim this guide defends is simple to state and demanding to practice. A literature review synthesizes the scholarship into a critical map that identifies gaps and positions a contribution, beyond summarizing sources. The map metaphor does real work here. A map does not list every building in a city. It selects the features that let a traveler orient, it draws the relationships between them, and it marks the uncharted territory. A Gatsby literature review does the same for a century of criticism. It shows which critics belong to which debates, where the debates stand, what evidence each side leans on, and where the map goes blank. That blank space is the point. The review exists so that the writer's own project can be positioned inside it: here is what the field has settled, here is what remains contested, and here is the opening where the new argument fits.
 
-![A researcher mapping Great Gatsby scholarship into a critical literature review - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A researcher mapping Great Gatsby scholarship into a critical literature review - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 ## How to Write a Literature Review on Gatsby: The Synthesis Method
 

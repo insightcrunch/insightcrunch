@@ -6,17 +6,17 @@ date: 2030-12-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "citation and edition choice", "scholarly editions", "textual criticism", "public domain editions", "research methods", "authority and apparatus"]
 excerpt: "Which edition of Great Gatsby to cite depends on purpose: scholarship needs the critical edition, general writing suits reprints, and citations name it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-12-30
+lang: en
 ---
-
 ## Which edition of Great Gatsby to cite: why the choice shapes your argument
 
 Cite the edition your purpose requires. That single rule answers the question of which edition of Great Gatsby to cite more reliably than any fixed ranking of volumes, because edition choice is not a matter of finding the one best printing and using it for everything. It is a matter of matching authority to need. Scholarly work favors the authoritative edition, the one built on a documented editorial method with a full textual apparatus, while a general essay may use an accessible classroom or trade printing without apology. Whatever you choose, the citation must specify which volume supplied the words and the page numbers, because The Great Gatsby has been printed in so many forms that a bare title plus page number no longer points a reader anywhere.
 
-![Side-by-side comparison of Great Gatsby editions for citation guidance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Side-by-side comparison of Great Gatsby editions for citation guidance - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 The stakes become clear the moment two readers open two different printings. One reader's page 21 is another reader's page 17, and in rare cases a sentence in one printing reads differently in another. A citation that names only Fitzgerald and a page number asks the reader to guess which of dozens of printings the writer held open on the desk. Naming the edition removes the guess. It tells the reader exactly where to look, and it signals how much textual authority stands behind the quoted words. Turning this small discipline into a standing habit is what separates research-grade writing from casual reference, and it is the standard this article holds every section to: no claim about the novel's words without an identified volume behind them.
 

@@ -6,12 +6,12 @@ date: 2031-06-23
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Digital Humanities", "Stylometry", "Research Methods", "Literary Analysis", "Academic"]
 excerpt: "Quantitative and digital humanities on Gatsby: stylometry, word frequency, and network analysis read the novel by counting, revealing patterns within limits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2031-06-23
+lang: en
 ---
-
 ## Reading the Novel by Counting: Quantitative and Digital Humanities on Gatsby
 
 Quantitative and digital humanities on Gatsby means reading the novel by counting. It means treating the text as data without ceasing to treat it as literature, and asking what happens when stylometry, word-frequency analysis, and network analysis are set loose on Fitzgerald's prose. The claim of this article is plain: these computational methods open a genuine new angle on the novel, surfacing patterns of style and structure that unaided close reading can miss, while running into limits that no amount of processing power can cross. The quantitative does not replace interpretation. It disciplines it, checks it, and sometimes surprises it.
@@ -20,7 +20,7 @@ The misunderstanding that shadows this field takes two opposite forms, and both 
 
 Digital humanities is a broad label for scholarship that uses computation to ask humanistic questions. When applied to a single novel, it usually takes four forms. Stylometry compares word-choice patterns between texts or passages, asking whether two stretches of writing share the same verbal fingerprint. Word-frequency analysis counts how often words and phrases occur, asking which terms dominate the novel's vocabulary and which are conspicuously rare. Network analysis maps relationships, usually among characters, by recording who appears with whom, and then studies the resulting structure. Text mining is the umbrella term for the automated extraction of patterns from large amounts of text, including techniques such as topic modeling, which sorts vocabulary into clusters of co-occurring words. Each of these is a real method with real procedures, real assumptions, and real boundaries. None of them reads the novel for you.
 
-![Word frequency patterns visualized across the chapters of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Word frequency patterns visualized across the chapters of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 Why should a reader of Gatsby care? The novel is short, roughly fifty thousand words, and it has been read closely for a century. One might assume there is nothing left that counting could add. But close reading has its own blind spots. A reader notices what the prose makes noticeable: the famous images, the striking sentences, the scenes engineered for emphasis. What a reader cannot reliably notice is the background texture of the book, the thousand small habits of diction and syntax that operate below the threshold of attention. Does the narration lean on certain abstract nouns? Does one character's dialogue carry a different rhythm of short words than another's? Does the vocabulary of money cluster in particular chapters? These are questions a careful reader can guess at and a computer can test, provided the test is designed with enough care to mean something.
 

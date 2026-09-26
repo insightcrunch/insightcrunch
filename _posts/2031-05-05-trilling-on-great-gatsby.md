@@ -6,12 +6,12 @@ date: 2031-05-05
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Lionel Trilling", "Literary Criticism", "American Novel", "Reception History", "Canon Formation", "Essay Practice"]
 excerpt: "Lionel Trilling and Great Gatsby: how one critic's documented reading framed Gatsby as America and secured the novel's stature for generations of readers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-05-05
+lang: en
 ---
-
 ### Why did Trilling's 1945 essay arrive at a decisive moment for Fitzgerald's reputation?
 
 Trilling's 1945 essay on Fitzgerald landed when the novelist's reputation was unsettled, five years after his death, and it gave The Great Gatsby a national thesis when the culture was prepared to re-read it. That timing is this article's core claim: the critic who made Gatsby stand for America acted when advocacy could still change the outcome.
@@ -75,7 +75,7 @@ The mechanism is worth spelling out, because it shows how criticism moves from t
 
 The effects compounded across decades. A student who wrote a paper on Gatsby as America in a college course carried that frame into graduate school, into a dissertation, into a classroom of her own, where she taught it to the next cohort. Anthologies and critical editions reinforced the cycle by reprinting the essay or summarizing its positions, so that even students who never read Trilling directly absorbed his reading secondhand through textbooks and lectures. The reading became infrastructure: invisible, load-bearing, and almost impossible to teach around. To assign the novel without addressing the national thesis came to feel like an omission, which is the surest sign that a critical position has become canonical.
 
-![A student examining an annotated edition of The Great Gatsby in a library, connecting Trilling's national reading to the novel's symbols - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student examining an annotated edition of The Great Gatsby in a library, connecting Trilling's national reading to the novel's symbols - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 Concrete classroom practices show the reading at work. Consider a first assignment built directly on Trilling's positions: students trace every claim Gatsby makes about his own past, from the invented family to the Oxford terms to the war record, and set each claim beside Nick's later corrections and the testimony of other characters. The task then asks which version of Gatsby the national reading requires. If Gatsby stands for America, does the reading need the fraud to be real or only the dreaming. Students discover that the documented criticism has an answer, paraphrased: the literal credibility of the biography matters less than the larger significance of the will. The exercise teaches both the novel and the critical move at once, which is why teachers kept assigning versions of it.
 

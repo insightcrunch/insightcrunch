@@ -6,15 +6,15 @@ date: 2030-12-23
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "textual scholarship", "editorial cruxes", "edition studies", "research methods", "F. Scott Fitzgerald"]
 excerpt: "Textual variants in Great Gatsby differ by edition, from the orgastic reading to misprints. This guide maps the variants, the reasoning, and citation practice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-12-23
+lang: en
 ---
-
 Most students open a copy of The Great Gatsby and assume the words on the page are simply the words Fitzgerald wrote. The textual variants in Great Gatsby destroy that comfort in a productive way: the novel that scholars cite is not quite one text, because editions differ in particular readings, and some of those readings sit at famous, load-bearing passages. The final meditation contains a single word that was misprinted for decades, early printings carry misprints that later editors silently corrected, and the critical editions that researchers trust most were assembled from a patchwork of witnesses, including the manuscript, the revised galley proofs, the 1925 first edition, and Fitzgerald's own annotated copy. This means that a quotation checked against one edition can fail against another, an argument built on a word can rest on a compositor's error rather than an author's choice, and careful work has to name the text it analyzes. This guide maps the significant variants and the editorial cruxes, explains the reasoning behind each editorial choice, and shows how a researcher handles the fact that the novel arrives in more than one form.
 
-![Annotated pages showing textual variants in Great Gatsby across editions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Annotated pages showing textual variants in Great Gatsby across editions - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The claim underneath everything here is the namable one: the text is not quite one text. That does not mean the novel is unstable in any grand sense. No variant turns the plot around, no crux invents a chapter, and anyone who reads the book twice from two different editions will recognize the same novel on both occasions. The instability is finer than that, and finer does not mean trivial. When a single adjective on the last page changes the temperature of the closing paragraph, when a first-issue misprint quietly becomes the reading countless students memorized, and when editorial judgment has to decide between a witness that may be wrong and a correction that may be overzealous, the text that gets cited is partly an editorial construction. The honest response is not anxiety about the novel's authenticity. It is a set of working habits: know which edition you are holding, know what its editor did and why, and say so in your citations.
 

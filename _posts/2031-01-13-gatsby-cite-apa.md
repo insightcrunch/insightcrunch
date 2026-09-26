@@ -6,15 +6,15 @@ date: 2031-01-13
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "APA Style", "Citation Guide", "Academic Writing", "Reference List", "In-Text Citations"]
 excerpt: "Learn how to cite The Great Gatsby in APA with the correct original and reprint dates, in-text forms, and reference entries for the novel and related sources."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-01-13
+lang: en
 ---
-
 How to cite The Great Gatsby in APA turns on a single claim. Citing the novel right in APA: APA's author-date style needs care with a 1925 novel read in a modern edition, so the original-and-reprint date convention matters, the correct handling of the publication years being where APA citations of Gatsby most often go wrong. That single sentence carries the whole article. Every other detail below is machinery for getting that one decision right across the reference list, the in-text citation, and the source types that orbit a student essay: the novel itself, an edition or reprint, a journal article, a book chapter, and a digital text. How to cite The Great Gatsby in APA is a question with a short answer and a long explanation, and this guide gives both, with the short answer first and the long explanation worked through example by example until no plausible student situation is left uncovered.
 
-![Student writing an APA reference entry for The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Student writing an APA reference entry for The Great Gatsby - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The short answer is the worked reference entry. In APA seventh edition, the edition of the novel that sits on the student's desk is cited by the year of that edition, and the novel's first publication is recorded in a parenthetical note at the end of the entry:
 

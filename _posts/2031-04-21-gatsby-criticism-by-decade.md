@@ -6,10 +6,11 @@ date: 2031-04-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "literary criticism", "critical history", "American literature", "scholarship", "reception studies"]
 excerpt: "How Gatsby criticism changed by decade: from mixed reviews through revival and theory to identity and textual study, one novel answering each era's concerns."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-04-21
+lang: en
 ---
 The question of how Gatsby criticism changed by decade has a clean answer and a complicated one, and this article insists on both. The clean answer is the sequence everyone in the field can recite: contemporary reviews, mid-century revival and New Criticism, the theory decades, the identity-focused and textual turns. The complicated answer is the claim this account defends from its first sentence to its last: each era of that sequence asked different questions rather than better ones, and the novel kept answering because the questions kept changing, not because the criticism kept improving. A scholarly conversation that ran for more than a century did not converge on the book. It circled the book, approaching from whichever side each generation cared about most, and the circling is the story. Review asked whether the novel was good. Revival asked whether it was serious. New Criticism asked how it was made. Theory asked what it concealed. Identity criticism asked whom it served and whom it harmed. Textual scholarship asked which words were really Fitzgerald's. The trajectory shows something rarer than progress. It shows a book capacious enough to be reread every time the methods of literary study were reinvented, the same novel generating new questions whenever the discipline found new ones to ask, the same sentences yielding new evidence to readers trained to look for different things.
 
@@ -34,7 +35,7 @@ The stakes of this history are practical, not antiquarian. A reader who knows ho
 | 2000s | What do the archives and the history change about the reading? | Archival research; new editions; new historicism's mature harvest |
 | 2010s and 2020s | Which text are we reading, and whose story is it? | Textual scholarship and variorum editing; digital methods; the continuing identity turn |
 
-![A scholar's desk with stacked books, journals, and annotated editions representing a century of Gatsby criticism](/assets/images/blog/blog-01.webp)
+![A scholar's desk with stacked books, journals, and annotated editions representing a century of Gatsby criticism](/assets/images/blog/blog-15.webp)
 
 ### What did the 1920s reviews establish?
 

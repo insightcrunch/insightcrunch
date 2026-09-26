@@ -6,15 +6,15 @@ date: 2031-01-20
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "annotated bibliography", "research skills", "source evaluation", "MLA style", "study guide"]
 excerpt: "Building a Gatsby annotated bibliography is a learnable skill: pick good sources, summarize faithfully, evaluate honestly, and tie each entry to your question."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2031-01-20
+lang: en
 ---
-
 Building a Gatsby annotated bibliography is the difference between a stack of citations and a research instrument you can actually use. A bibliography that thinks: a Gatsby annotated bibliography summarizes, evaluates, and situates each source, so it is a research instrument, the annotation turning a list of citations into a working map of the sources' value and relevance to a project. Most writers treat the annotated bibliography as paperwork that sits between research and writing. The stronger approach treats it as the research itself, the place where you decide which sources earn space in your project and why they deserve it.
 
-![Research desk with books, notebooks, and printed articles for building a Gatsby annotated bibliography - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Research desk with books, notebooks, and printed articles for building a Gatsby annotated bibliography - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 An annotation summarizes, evaluates, and states the relevance of a source, beyond a plain citation. That three-part job is the entire standard. The summary tells a reader what the source argues. The evaluation judges how well the source argues it. The relevance statement explains what the source does for your particular project. A plain citation gives a reader a map reference. An annotation tells the reader what the terrain looks like, whether the ground is solid, and which path through it matters for the journey you are planning. When any of the three parts goes missing, the entry stops working as an instrument and becomes decoration.
 

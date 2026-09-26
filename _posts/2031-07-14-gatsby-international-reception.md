@@ -6,12 +6,12 @@ date: 2031-07-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "International Reception", "Gatsby Scholarship", "Comparative Criticism", "Translation Studies", "World Literature"]
 excerpt: "The reception of Gatsby outside the United States varies by nation: British, French, German, and Japanese scholars each bring their own emphases to the novel."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-07-14
+lang: en
 ---
-
 ## A National Novel Read by Other Nations' Scholars
 
 The reception of Gatsby outside the United States is the record of how a book written about one country's Jazz Age became the property of many countries' scholarship. Inside the United States, the novel's criticism grew up alongside its canonization: Lionel Trilling's influential reading placed it at the center of American literature, the New Critics treated it as a self-contained verbal artifact, and decade after decade American critics argued over the American dream, class, and the narration. Outside the United States, the novel entered a different set of rooms. It arrived as a foreign book, carrying its American particulars into scholarly cultures that already had their own questions, their own methods, and their own reasons for reading. What happened next was not the export of American criticism. It was the multiplication of readings.
@@ -41,7 +41,7 @@ The findable artifact of this article is a reception table. Each row pairs a nat
 
 The table's last row deserves a note, because it names a tradition that is not a nation. Alongside the national receptions there has grown a comparative, world-literature reception that treats the novel as a traveling classic, read beside other modernisms rather than inside American studies. This tradition is less a place than a method, and it is the one that has most deliberately asked what the novel becomes when the American frame is lifted. The sections below take the traditions one at a time, beginning with the two that encountered the novel earliest and have written about it most: the British and the French.
 
-![Scholarly traditions around the world and their readings of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Scholarly traditions around the world and their readings of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 What follows is organized around four direct questions, each of which opens one of the major receptions, and then two wider movements: one on the smaller and later traditions, and one on translation as the mechanism that makes national readings possible and shapes them. Each section states the tradition's characteristic reading first, so that the claim is never in doubt, and then works through the evidence, the examples, and the limits of the generalization.
 

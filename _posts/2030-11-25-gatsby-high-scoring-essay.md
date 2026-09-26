@@ -6,17 +6,17 @@ date: 2030-11-25
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "essay strategy", "model essay", "exam technique", "study guides", "block capstone"]
 excerpt: "This sample high-scoring Gatsby essay breakdown presents a fully annotated top-band essay, with margin notes naming every mark-earning move plus study guidance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-11-25
+lang: en
 ---
-
 This sample high-scoring Gatsby essay breakdown makes a single promise and keeps it: the whole essay block, visible in one piece of writing. Every principle the block has taught by instruction, the contestable thesis, the developing structure, the embedded evidence, the close analysis of language, the conclusion that genuinely concludes, appears here inside a complete worked essay, with margin notes naming each move and the marks it earns. The claim of this article is that seeing those principles combine on the page teaches what no amount of separate instruction can quite deliver. A stage article can describe a thesis. Only a finished essay can show a thesis working, under the pressure of a real question, with evidence and analysis doing their jobs around it. That is the synthesis this capstone offers: not new rules, but the rules made visible in action.
 
 The need for it is practical. Students who have studied each stage in isolation often produce essays that read like a checklist being ticked: a thesis here, a quotation there, a paragraph of context bolted on at the end. The parts are present and the whole never forms, because the student has never watched the parts form a whole. Reading this worked example is the missing rehearsal. The annotated essay below answers one specific question about the novel, and every margin note explains what the marked passage does and why an examiner credits it. Read straight through first, the way an examiner reads, to feel the argument gather force. Then read it a second time through the margin notes, to see the machinery. Then, and only then, turn to the later sections, which show how to extract the moves and carry them to a different question, because the point of a worked example is not the example. The point is what travels.
 
-![A student's marked-up Gatsby essay with margin annotations naming each mark-earning move, showing thesis, structure, evidence, and analysis working together - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student's marked-up Gatsby essay with margin annotations naming each mark-earning move, showing thesis, structure, evidence, and analysis working together - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The question the worked essay answers was chosen because it sits at the center of the novel and resists a simple answer: to what extent is Gatsby's dream admirable? It is the kind of prompt examiners favor, an evaluative question with a sliding scale built in, "to what extent," that punishes one-sided answers and rewards judgment. The essay takes a position, defends it through four body paragraphs, concedes the strongest objection, and returns to the question in its final lines. Nothing in it is decoration. Every sentence either advances the argument, reads the text closely, or connects one part of the case to another, which is why the margin notes can name a mark-earning move for every part. The density is the lesson. A high-scoring essay is not a longer essay with better vocabulary. It is an essay in which every part works, and the annotation makes the work visible.
 

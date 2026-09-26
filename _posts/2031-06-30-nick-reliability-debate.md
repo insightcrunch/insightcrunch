@@ -6,12 +6,12 @@ date: 2031-06-30
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "Unreliable Narrator", "Literary Criticism", "Scholarly Debate", "Narrative Theory"]
 excerpt: "The reliability debate around Nick Carraway: can the narrator be trusted? This map sets out the three positions, the evidence cited, and the critical lineage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-06-30
+lang: en
 ---
-
 ## The Reliability Debate Around Nick Carraway: A Map of a Live Disagreement
 
 The reliability debate around Nick Carraway is the argument scholarship cannot finish about the narrator it cannot do without. Every reading of The Great Gatsby passes through Nick. He selects the scenes, reports the dialogue, judges the characters, and closes the book with the judgments the reader carries away. The question is whether that mediation can be trusted, and the scholarship has sustained three competing answers for generations: that Nick is a reliable moral center whose retrospective narration corrects its own early errors; that Nick is self-deceived, sincerely misreading himself even as he judges others with precision; and that Nick is selectively unreliable, trustworthy on fact and chronology but distorting wherever his loyalties, interests, or self-image are engaged. The claim of this article is plain, and it is the claim the whole map exists to defend. The narrator scholars cannot agree to trust. The disagreement is not a failure of criticism. It is the shape of the evidence.
@@ -24,7 +24,7 @@ A single judgment shows why the trust question changes everything it touches. Ne
 
 This article proceeds in a fixed order. The next section lays out the findable artifact, a single table pairing each position with its central claim, its key evidence, and its critical lineage. Three long sections then give each position its full case, at the strength its best defenders would recognize, with worked passages that show how the evidence is actually used. A fourth section takes three passages that all three positions claim and shows how the same words serve opposite cases, which is the heart of the debate's persistence. A fifth section traces the debate's history from mid-century consensus to the present map. A sixth section shows how to use the map in research and essay writing without choosing a winner, including where this article's territory ends and the sibling articles begin. The verdict takes a position on the discipline of mapping without adjudicating the debate. The study section points to where the cited passages can be examined and where the scholarship can be found. Twenty questions and answers close the article, followed by the ledger stems.
 
-![Nick Carraway narrating, with the three scholarly positions on his reliability mapped around him - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nick Carraway narrating, with the three scholarly positions on his reliability mapped around him - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 One clarification of scope belongs at the start, because three neighboring questions are easy to confuse with this one. The character question, whether Nick is in fact reliable, belongs to the article that defends a verdict on him. The craft question, how Fitzgerald constructed an unreliable narrator and what the technique does, belongs to the article on unreliable narration as a device. The sexuality question, what the scholarship has made of Nick's desires and reticences, belongs to its own debate article and is a separate inquiry from whether his narration can be trusted. This article maps the reliability debate itself: the positions, the evidence, the lineage. It does not re-argue the character verdict, re-teach the narrative technique, or reopen the sexuality question. The boundaries are drawn in the section on using the map, with links to each sibling.
 

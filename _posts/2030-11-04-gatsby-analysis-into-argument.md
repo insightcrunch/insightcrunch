@@ -6,15 +6,15 @@ date: 2030-11-04
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "essay strategy", "argumentation", "close reading", "exam technique"]
 excerpt: "Turning analysis into argument on Gatsby means converting sharp observations into contestable claims. Close reading becomes evidence for a defended position."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-11-04
+lang: en
 ---
-
 Turning analysis into argument on Gatsby essays is the single skill that separates the students who describe the novel from the students who say something about it. Most essays on The Great Gatsby fail in exactly the same place, and it is not a lack of knowledge. The failing essay knows the green light, knows Daisy's voice, knows Nick's narration, knows the Valley of Ashes, and still earns a middling mark, because knowing those things is analysis, and analysis is not argument. The namable claim of this guide, the sentence worth carrying into every essay you write on this novel, is this: analysis is the evidence; argument is the case. Turning Gatsby analysis into argument means making a contestable claim that the analysis then supports, and the move is from accurate observation to defended position. The essay that only analyzes describes brilliantly while saying nothing; the essay that argues uses the same analysis to prove a point. Everything that follows is the working out of that sentence: how to tell the two apart, how to perform the conversion, how to practice it until it is automatic, and how to keep the distinction alive through a whole essay under pressure.
 
-![A student converting Gatsby analysis notes into a structured argument outline with claim statements - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student converting Gatsby analysis notes into a structured argument outline with claim statements - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The distinction needs a concrete picture before it needs a definition, because most students believe they already understand it and are wrong. Picture two essays answering the same question, an essay on Nick Carraway as narrator. The first essay observes that Nick opens by claiming he reserves judgment, then shows him judging Tom, Daisy, Jordan, and Gatsby across the chapters, then notes the contradiction, then closes by saying Nick is a complex and interesting narrator. Every observation is accurate. Every sentence is well written. The essay says nothing, because nothing in it could be disagreed with. No reader could respond, no, Nick does not judge people, because he obviously does. The second essay takes the same observations and opens with a claim: Nick's judgments are not failures of his stated method but the method itself, a performance of moral authority that lets him condemn the Buchanans while protecting Gatsby, which means his unreliability is strategic rather than accidental. That sentence can be argued against. A reader could counter that Nick's judgments are inconsistent rather than strategic, or that his protection of Gatsby is emotional rather than calculated. The disagreement is the proof that an argument exists. Both essays performed analysis. Only the second turned it into argument, and the difference in marks between them is the difference between the middle band and the top.
 

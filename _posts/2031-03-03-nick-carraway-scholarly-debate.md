@@ -6,17 +6,17 @@ date: 2031-03-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Nick Carraway", "queer reading", "scholarly debate", "literary criticism", "character analysis"]
 excerpt: "Is Nick gay? The scholarly argument over Nick Carraway's sexuality maps the McKee scene, the wiped lather, and male portraits. Six readings at full strength."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2031-03-03
+lang: en
 ---
-
 Is Nick gay? The scholarly argument over that question has run for decades without producing a winner, and the absence of a winner is the claim this article defends. Nick Carraway narrates The Great Gatsby without ever naming his own desire, and a long line of critics has treated that silence as evidence: evidence of coding, evidence of reticence, evidence of a deliberate gap the novel refuses to close. What follows is a map of that argument, position by position, with the textual moments each side cites and the interpretations each side draws from them, presented evenhandedly and without adjudication. The complications are real, the stakes for how we read are genuine, and declaring the question settled in either direction is the one move every honest reader of the debate should refuse.
 
 The namable claim is simple enough to state and difficult enough to honor. The text leaves Nick Carraway's sexuality open, scholars keep arguing about it, and the debate maps competing readings of the same textual moments rather than competing bodies of evidence. That makes this a rare kind of critical dispute: both sides read the same pages, quote the same sentences, and arrive at incompatible conclusions, because the novel supplies ambiguity and withholds the one sentence that would resolve it. This article owns that map. It does not decide the question, and it does not pretend that refusing to decide is a dodge; the refusal is the position the evidence supports.
 
-![Debate map of the scholarly argument over Nick Carraway's sexuality in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Debate map of the scholarly argument over Nick Carraway's sexuality in The Great Gatsby - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 A word on method before the moments themselves. This article names scholars only where the attribution can be verified: Leslie Fiedler's 1948 essay on homoerotic bonding in American fiction, Eve Kosofsky Sedgwick's 1985 account of male homosocial desire, Judith Fetterley's 1978 resistant feminist reading of the American canon, and George Chauncey's historical scholarship on the gay male world of Jazz Age New York. Where a position circulates in the criticism without a single verifiable author, the article uses generic attribution, and that is the honest choice. No scholar appears on both sides of the map. No invented critic, no invented quotation, and no invented endorsement enters these pages. The textual evidence comes from the novel's own sentences, cited by chapter, and every reading of those sentences is presented as a reading, not a fact.
 

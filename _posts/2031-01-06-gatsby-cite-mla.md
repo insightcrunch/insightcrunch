@@ -6,15 +6,15 @@ date: 2031-01-06
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "MLA citation", "works cited", "in-text citation", "research writing", "F. Scott Fitzgerald"]
 excerpt: "Learn how to cite The Great Gatsby in MLA style with works-cited entries, in-text citation forms, and examples for print, digital, and scholarly editions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2031-01-06
+lang: en
 ---
-
 Citing the novel right in MLA: MLA style has specific works-cited and in-text forms for The Great Gatsby and its sources, so getting them exact matters, the correct edition, page references, and entry format being the difference between a credible apparatus and a flawed one. An essay can argue brilliantly about the green light, the ash valley, and the hollow hospitality of the Buchanan house, yet lose authority the moment its documentation slips, a misplaced period or a fabricated publisher making the reader doubt every page reference that follows. Documentation is the machinery under the argument, and MLA, now in its ninth edition, gives that machinery a fixed shape: one entry pattern for the novel, one pattern for a scholarly edition with an editor, one pattern for a journal article, one pattern for a book chapter, and one pattern for a digital text. Learn those five shapes and the whole essay holds together; guess at them and the apparatus creaks. The sections that follow build each shape from its first principles, so that by the end the writer can produce any of the five from memory and recognize any of them on sight.
 
-![How to cite The Great Gatsby in MLA style, works-cited entry and in-text citation examples for the novel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to cite The Great Gatsby in MLA style, works-cited entry and in-text citation examples for the novel - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The reason a dedicated guide matters is that The Great Gatsby is not cited the way a generic book is cited in every practical detail, even though it follows the generic book pattern at the structural level. The novel first appeared in 1925, and students meet it in many different physical forms: a paperback bought for class, a school edition with an introduction, a scholarly text with editorial notes, a library e-book, and a public-domain digital file. Each of those forms changes exactly one or two slots in the works-cited entry, and the temptation is to treat every copy as the same source. It is not the same source for documentation purposes, because the edition determines the publisher, the year, the editor when one exists, and the container when the text arrives through a database or e-book platform. The in-text citation, by contrast, barely changes at all: the author's name and a page number carry almost the entire load. That asymmetry, a stable in-text form paired with an edition-sensitive entry, is the single most useful thing to understand before touching the keyboard.
 

@@ -6,17 +6,17 @@ date: 2030-11-11
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "essay writing", "university essays", "undergraduate study", "literary criticism", "essay strategy"]
 excerpt: "How to write a university essay on Gatsby that joins the scholarly conversation: engage criticism, defend an original thesis, and master scholarly conventions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-11-11
+lang: en
 ---
-
 Learning how to write a university essay on Gatsby begins with a single honest recognition: the audience has changed, and the change reaches every sentence. A school essay answers a question set by a teacher who already knows where the argument can go, and the task is to show that you can build an argument worth following. A university essay enters a field where the question has been argued for generations, and the task is to show that your argument earns a place among those arguments. The novel is the same, the green light is the same, the parties and the ash and the eyes of T. J. Eckleburg are the same, but the reader is different. Your seminar tutor or your marker has read dozens of Gatsby essays and hundreds of pages of published criticism, which means a competent reading of the text that would have scored highly at school arrives at university as the starting line rather than the finish. This article makes one claim and keeps it in view throughout: the step up to the scholarly conversation is the whole of the difference, so the undergraduate essay no longer just analyzes the novel but positions a claim against what critics have argued, and everything else, the secondary sources, the conventions, the tone, the structure, follows from that repositioning.
 
 That claim needs unpacking, because it is easy to misread it as a demand for jargon or for name-dropping critics. Joining the scholarly conversation does not mean performing scholarship; it means behaving as a participant rather than an observer. A participant states a position, acknowledges the positions already on the table, explains where her position differs and why the difference matters, and supports every move with evidence that others can check. The school essay and the university essay share the novel as their object, but they differ in the social situation of the writing. At school, the essay is a demonstration of competence addressed to someone who is assessing your competence. At university, the essay is a contribution addressed to someone who is assessing your capacity to contribute. Once you feel that shift, the raised demands stop looking like arbitrary extra hurdles and start looking like the natural equipment of the new task: engagement with criticism because you cannot contribute to a conversation you have not listened to, an original argument because a contribution that repeats what has been said is not a contribution, and scholarly conventions because participants in a shared conversation need shared protocols for evidence, attribution, and tone.
 
-![Undergraduate essay writing on The Great Gatsby and the scholarly conversation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Undergraduate essay writing on The Great Gatsby and the scholarly conversation - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 ## What Changes When the Essay Joins a Conversation
 

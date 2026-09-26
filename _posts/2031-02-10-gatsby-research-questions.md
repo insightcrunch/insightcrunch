@@ -6,15 +6,15 @@ date: 2031-02-10
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "research questions", "academic research", "literary scholarship", "study planning", "American literature"]
 excerpt: "Research questions worth asking about Gatsby share three marks: specificity, evidence, and openness. Learn to frame strong questions and revise weak ones here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-02-10
+lang: en
 ---
-
 A good question is half the research. The research questions worth asking about Gatsby are not the ones that sound impressive in a seminar; they are the ones that point at evidence, admit more than one defensible answer, and narrow the field of inquiry to something a real investigation can actually settle. Most stalled projects in literary study fail at this first step. The researcher chooses a topic, mistakes the topic for an inquiry, and then discovers months later that there is nothing to argue, because the inquiry was never shaped to produce an argument in the first place. Framing the inquiry well does not guarantee a good project, but framing it badly guarantees a shapeless one.
 
-![Research question planning for The Great Gatsby with annotated passages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Research question planning for The Great Gatsby with annotated passages - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The difference between a topic and a formulation is the difference between a field and a path through it. "The American Dream in Gatsby" is a field; thousands of pages have been written inside it, and a researcher who starts there will wander. "How does the sequence of revelations about Gatsby's wealth in chapters 4, 6, and 7 shape the reader's judgment of his legitimacy?" is a path; it names the evidence, names the mechanism, and implies a procedure for answering. This article is a working guide to finding such paths: what makes an inquiry researchable, which question areas the novel actually supports, how to tell a topic from an inquiry, and how to revise the weak questions that every researcher drafts first into strong ones that can carry a project.
 
