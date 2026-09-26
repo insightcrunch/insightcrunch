@@ -6,15 +6,15 @@ date: "2010-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Voting Rights Act", "Supreme Court", "Congress", "Legislative Process"]
 excerpt: "Civil Rights Act vs Voting Rights Act: the 1964 act remedied discrimination after the fact, while the 1965 act stopped voting changes before they took effect."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2010-05-15"
+lang: en
 ---
-
 Ask any five people in a classroom, a newsroom, or a committee staff office to state the difference between the Civil Rights Act of 1964 and the Voting Rights Act of 1965, and watch the confidence drain from the room. The Civil Rights Act vs Voting Rights Act question is the most assigned, most searched, and most consistently fumbled comparison in American statutory law. Students meet it the night before a term paper is due, when two similar names blur into one. Journalists meet it on deadline, when a clean sentence is needed and a wrong one will survive into print. Teachers meet it while building units that must compress a decade of struggle into a week of lessons. Exam candidates meet it as a designed trap, two adjacent statutes with adjacent names, waiting to punish anyone who memorized dates without mechanisms. Congressional staffers meet it when a member asks for a one-page brief, and the brief has to get the machinery right because the member will quote it on the record.
 
-![The Civil Rights Act of 1964 and the Voting Rights Act of 1965 compared by statute, date, and enforcement design - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Civil Rights Act of 1964 and the Voting Rights Act of 1965 compared by statute, date, and enforcement design - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The confusion is not a sign of carelessness. It is the natural result of how the two laws sit in memory. The titles are near twins, differing by a single word that does real work once you learn to hear it. The dates are thirteen months apart, close enough to fuse in a survey course and far enough apart to demand separate explanations. The same president, Lyndon Johnson, signed both, which invites the lazy summary that they were one continuous gesture. Both laws grew out of the same movement, answered the same centuries of exclusion, and drew on overlapping coalitions in successive Congresses. Worst of all for clarity, the 1964 statute contains a voting provision, its Title I, which gives even careful readers a plausible reason to credit the earlier law with what the later one actually accomplished. Add employment rules to the 1964 act and voting machinery to the 1965 act, and the pair becomes a sorting problem that most summaries never quite solve.
 

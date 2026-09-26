@@ -6,15 +6,15 @@ date: "2010-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights Act", "Section 5 Preclearance", "Civil Rights History", "Congressional History", "Election Law"]
 excerpt: "Voting Rights Act reauthorization explained: how Congress extended the temporary provisions, rewrote Sections 2 and 5, and built a core that never expires."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: "2010-08-01"
+lang: en
 ---
-
 The Voting Rights Act of 1965 became law as a temporary answer to a permanent wound, and every Voting Rights Act reauthorization since then has reopened the same question: whether the emergency is over, whether the medicine is still working, or whether the country has simply learned to live with the treatment. By the date of this article, August 1, 2010, the Act had been extended five times, the renewals growing longer and more confident across the decades, yet each one carrying the same original bargain. The permanent parts of the law applied everywhere and asked for nothing but compliance. The temporary parts reached into named states and counties, suspended their ordinary powers over voting, and demanded proof of good behavior before they could be released. That split was not an accident of drafting. It was the architecture of the whole enterprise.
 
-![Voting Rights Act reauthorizations from 1970 to 2006, every extension explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Voting Rights Act reauthorizations from 1970 to 2006, every extension explained - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 Understanding the reauthorizations means first understanding the original shape.
 

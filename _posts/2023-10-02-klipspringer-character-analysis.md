@@ -6,12 +6,12 @@ date: 2023-10-02
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Character Analysis", "Klipspringer", "Minor Characters", "American Literature"]
 excerpt: "Klipspringer: the boarder who stayed plays piano in Chapter 5, skips the funeral, and phones about his tennis shoes, the portrait of the parasitic guest."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2023-10-02
+lang: en
 ---
-
 Every reader of The Great Gatsby remembers the green light and the shirts and the ash-grey men of the valley. Fewer remember the man at the piano. He appears twice in the whole novel, once at a keyboard and once on a telephone, and both times he is an interruption. Gatsby has to go and fetch him. Nick has to hang up on him. This study makes one claim about him and keeps it in view from the first paragraph to the last: Klipspringer is the guest who wanted his shoes back. Everything else Fitzgerald tells us about him, the piano playing, the residence that is not quite a residence, the missed funeral, is evidence for that sentence, and the sentence is the coldest joke in the book.
 
 The complication is that criticism has mostly treated him as a throwaway, a bit of comic business to fill the gloom of the reunion scene and then to sharpen the pathos of the funeral chapter. That reading mistakes the joke for decoration. Fitzgerald does not waste minor figures. The man who will not come to a funeral but will telephone about footwear is not local color. He is the parasitic crowd of the parties condensed into a single body, given a name, a pair of shell-rimmed glasses, and a permanent address that is not his own. Where the crowd is a blur of faces, Klipspringer is one face, and one face can be indicted.
@@ -30,7 +30,7 @@ What happens next is a small masterpiece of social awkwardness. Gatsby has fetch
 
 The song Gatsby orders is "Ain't We Got Fun," and the lyrics, as Nick transcribes them, do a kind of work no other song in the scene could do. "In the morning, in the evening, ain't we got fun." Then the second verse, the one that bites: "One thing's sure and nothing's surer, the rich get richer and the poor get children. In the meantime, in between time." Consider the situation. A man who owns nothing is singing, to a man who owns everything, a jaunty vaudeville number about the rich getting richer. The poor in the song get children. Klipspringer, who is poor in everything except appetite, gets room and board. The irony is not delicate, and Fitzgerald does not need it to be, because the scene is already doing something more painful: while the boarder plunks out a tune about fun, Gatsby and Daisy are having the most serious ten minutes of their lives a few feet away in the gloom, and neither of them is listening to him. He is the soundtrack to a reunion that has no use for him. Nick, understanding this before anyone else does, goes over to say goodbye and walks out into the rain, leaving them there together.
 
-![Ewing Klipspringer at the piano in Gatsby's music room during the Chapter 5 reunion, the boarder summoned to play while Gatsby and Daisy embrace in the gloom - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ewing Klipspringer at the piano in Gatsby's music room during the Chapter 5 reunion, the boarder summoned to play while Gatsby and Daisy embrace in the gloom - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The worked reading of this passage has to linger on one more detail, because it is the detail that makes the scene a character study rather than a set piece. Klipspringer protests that he is out of practice, and he is telling the truth. His playing is mediocre. Fitzgerald could have given Gatsby a brilliant amateur, a real musician among the hangers on, and the scene would have been prettier. Instead he gives us a man whose one marketable skill is exercised badly, on demand, in a room where nobody is listening. That is the whole of Klipspringer in one image: a man consuming the hospitality of a house whose emotional life happens entirely without him. He is present at the central scene of the novel's love story the way furniture is present. The difference between him and the furniture is that the furniture does not complain about being out of practice.
 

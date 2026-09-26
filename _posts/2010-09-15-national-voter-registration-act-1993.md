@@ -6,18 +6,18 @@ date: "2010-09-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Voter Registration", "Motor Voter", "Election Law", "List Maintenance"]
 excerpt: "The National Voter Registration Act made motor vehicle offices, mail forms, and public agencies offer registration while limiting how states purge their rolls."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: "2010-09-15"
+lang: en
 ---
-
 ## What the National Voter Registration Act Changed
 
 The National Voter Registration Act of 1993 is the most consequential federal statute ever written about how American citizens get onto the voter rolls. Signed by President Bill Clinton on May 20, 1993, designated Public Law 103-31, and effective for most states on January 1, 1995, it created the first national procedures for federal-election enrollment in the nation's history: every covered state had to offer sign-up at motor vehicle offices, by mail on a federal form, and at public assistance and disability-service agencies, while observing new federal limits on striking names from the lists. No earlier federal law had imposed uniform enrollment machinery on the states, and the struggle that produced this one ran through two Congresses, one presidential veto, and a Senate filibuster.
 
 The act mattered because it shifted the burden of enrollment from the citizen to the state. Before it took effect, joining the rolls in most states meant finding the right office, during the right hours, with the right paperwork, before a deadline that varied by county; afterward, the opportunity arrived at counters people already visited for licenses, benefits, or mail. Supporters promised that this convenience would draw millions of unregistered Americans, above all the poor, the young, and people of color, into the electorate; opponents warned that convenience purchased with federal mandates would corrupt the lists without raising participation. A handful of states sat outside the scheme entirely, either because they required no enrollment or because they let voters sign up on election day, a carve-out the passage fight produced and a later section examines.
-![Voter registration form being completed at a motor vehicle office under the National Voter Registration Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Voter registration form being completed at a motor vehicle office under the National Voter Registration Act - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 As a statute, the act reads as four mechanisms and a shield. Section 5 ties enrollment to driver's license transactions, Section 6 creates the federal mail form, Section 7 turns public assistance and disability agencies into sign-up sites, and Section 8 builds the federal floor under list maintenance, the rules governing removal. A [guide to reading federal statutes](/2022/05/01/how-to-read-a-federal-statute/) explains how the act's numbered sections map onto the United States Code. The story of how Congress assembled those pieces explains the shape of each one, and it begins a decade before the signing ceremony.
 

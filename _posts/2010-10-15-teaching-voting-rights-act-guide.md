@@ -6,19 +6,19 @@ date: "2010-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights Act", "Teaching Guide", "Fifteenth Amendment", "Preclearance", "Reauthorization"]
 excerpt: "Teaching the Voting Rights Act starts with the century of evasion, then preclearance mechanics, the reauthorizations, primary documents, and exam strategy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: "78"
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: "2010-10-15"
+lang: en
 ---
-
 ## Teaching the Voting Rights Act: Why Students Get It Wrong
 
 Anyone teaching Voting Rights Act history meets three stubborn misconceptions in the first week of the unit. The first misdates the statute to 1964, folding it into the Civil Rights Act of that year. The second claims the law granted Black citizens the right to vote. The third imagines the Supreme Court of the United States repealed it outright. Each error reveals the same gap in understanding: students picture 1965 as a beginning, when it was a turning point in a struggle already a century old.
 
 Take the 1964 confusion first. The Civil Rights Act of 1964 was the landmark that outlawed segregation in public accommodations and discrimination in employment, and its Title I did address voter registration. But the voting statute arrived separately, a year later, signed in August 1965 after a legislative fight of its own. Teachers can make the distinction concrete by assigning the two statutes side by side and asking the class which enforcement tools appear in one and not the other. The contrast teaches a durable lesson about how Congress works: a single year can hold two landmarks, and collapsing them into one erases the strategy behind each.
 
-![Students studying the Voting Rights Act in a classroom](/assets/images/blog/blog-01.webp)
+![Students studying the Voting Rights Act in a classroom](/assets/images/blog/blog-33.webp)
 
 The "granted the right to vote" error is more instructive still. The right itself had been constitutional law since the Fifteenth Amendment of 1870. What the Voting Rights Act of 1965 changed was enforcement: who registered voters, who reviewed election rules before they took effect, and how quickly the national government could respond to evasion. The distinction between a right and its enforcement is the spine of this entire unit, and every lesson that follows should return to it. A student who can explain the difference between possessing a right on paper and exercising it at the registrar's desk has grasped the central problem of the whole century.
 

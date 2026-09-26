@@ -6,15 +6,15 @@ date: "2010-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Social Security Act", "Medicaid", "Health Policy", "Title XVIII"]
 excerpt: "Medicare is Title XVIII of the Social Security Amendments of 1965: payroll-tax hospital insurance and voluntary medical insurance, with Medicaid as Title XIX."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: "79"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2010-11-01"
+lang: en
 ---
-
 Medicare arrived not as a standalone creation but as a division of one statute, and that division shapes everything that follows in this article. The federal health insurance program for Americans over 65, the one that would eventually insure tens of millions of elderly Americans, entered the law as Title XVIII of a much longer bill, the Social Security Amendments of 1965. Its sibling title, Medicaid, entered the same bill as Title XIX. They share a birthday, a public law number, and a signing ceremony, yet they operate on financing, eligibility, administration, and litigation principles so different that treating them as one program misleads every argument that touches them. This article walks through the pillar that became Medicare, beginning with the statute that built it and ending with the claims that still contest what it means.
 
-![How the Social Security Amendments of 1965 created Medicare and Medicaid as two titles - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Social Security Amendments of 1965 created Medicare and Medicaid as two titles - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 ## The Statutory Identity of Medicare
 

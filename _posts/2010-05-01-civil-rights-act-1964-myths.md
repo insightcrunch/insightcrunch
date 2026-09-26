@@ -6,17 +6,17 @@ date: "2010-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Congress", "Supreme Court", "Legislative Process", "American History"]
 excerpt: "Do the Civil Rights Act of 1964 myths hold up? We test the filibuster, quota, wrecking-amendment, and court-gutting claims against the text, votes, and dates."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2010-05-01"
+lang: en
 ---
-
 ## Why Myths About the Civil Rights Act of 1964 Outrun the Text
 
 Few federal statutes are quoted as confidently, and as wrongly, as the Civil Rights Act of 1964. Ask a room of educated adults what the act did and you will hear that it created affirmative action, that it forces employers to hire by racial quota, that a segregationist slipped the word sex into the bill as a joke, and that the Supreme Court later gutted whatever remained. Each of those sentences is wrong, or wrong in the way that matters, and each survives because it feels like it ought to be true. The statute that people argue about is rarely the statute Congress passed. The statute at issue is the Civil Rights Act of 1964 (Public Law 88-352, enacted July 2, 1964).
 
-![A reader testing popular claims about the Civil Rights Act of 1964 against the enacted text and the roll-call record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reader testing popular claims about the Civil Rights Act of 1964 against the enacted text and the roll-call record - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 The most consequential misunderstanding is the one about affirmative action and quotas, and it deserves the opening position because it does the most work in public argument. The confusion has a specific birth date. One year after the statute became law, President Lyndon Johnson signed Executive Order 11246, which required federal contractors to take affirmative action in employment. The order arrived twelve months after the statute, used overlapping language about nondiscrimination, and governed many of the same workplaces. Within a few years the two sources had fused in public memory into a single story: the 1964 act created affirmative action. It did not. The words that built contractor affirmative action appear in the executive order, not in the statute, and the distinction matters because it decides who can change the policy and how. An executive order can be revised or revoked by a later president; a statute can be changed only by Congress. Misattributing the policy to the act therefore misstates not just history but the allocation of power under the Constitution.
 

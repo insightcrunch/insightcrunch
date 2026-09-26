@@ -6,17 +6,17 @@ date: "2010-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights", "Civil Rights", "Congress", "Supreme Court", "American History"]
 excerpt: "Section 5 preclearance made covered jurisdictions win federal approval before changing voting rules. A plain guide to the formula, review routes, and test."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2010-07-01"
+lang: en
 ---
-
 ## 1. How Section 5 preclearance works in practice
 
 Section 5 preclearance reverses the ordinary order of lawmaking. In most of American government, a legislature or a local board adopts a rule and the rule takes effect unless a court later strikes it down. In the jurisdictions covered by Section 5 of the Voting Rights Act, the sequence runs the other way: before any new voting rule can be enforced, the jurisdiction must first obtain federal permission.
 
-![Section 5 preclearance under the Voting Rights Act explained step by step - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Section 5 preclearance under the Voting Rights Act explained step by step - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The practical meaning of that reversal shows up in the routine decisions of local government. A county commission votes to move a polling place from a school gymnasium to a fire station across town. A city council redraws its council districts to reflect new census figures. A state legislature shortens the registration window or rewrites the qualifications for candidates. Outside the preclearance regime, each of these changes takes effect on its own schedule and remains in force until someone mounts a successful challenge. Inside a covered jurisdiction, none of them may be enforced until the jurisdiction has submitted the change and received clearance. The duty runs in one direction only: the jurisdiction must come forward, and the proposed rule waits in legal limbo while federal reviewers examine it. The broader statute in which this mechanism sits is surveyed in [the complete guide to the Voting Rights Act of 1965](/2010/06/01/voting-rights-act-1965-complete-guide/), which places preclearance alongside the Act's other enforcement tools.
 

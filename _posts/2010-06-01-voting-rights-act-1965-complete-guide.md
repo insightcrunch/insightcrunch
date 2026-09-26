@@ -6,19 +6,19 @@ date: "2010-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights", "Voting Rights", "Fifteenth Amendment", "Supreme Court", "Congress"]
 excerpt: "The Voting Rights Act of 1965 replaced slow lawsuits with a burden-shift: covered jurisdictions had to prove voting changes clean before they took effect."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2010-06-01"
+lang: en
 ---
-
 ## Why the Voting Rights Act of 1965 Replaced Lawsuits with a Formula
 
 The Voting Rights Act of 1965 answers a question that a constitutional amendment had left unanswered for ninety-five years. If the officials who administer elections are the same officials who deny citizens the right to vote, how does the law make the right real? The Fifteenth Amendment, ratified in 1870, barred the denial of the vote on account of race. Yet across the South, registrars, county clerks, and local boards continued to do exactly that, through literacy tests, poll taxes, white-only primaries, and, after each device was struck down, some new device invented in its place. Congress had tried the conventional route: pass a prohibition, let the Department of Justice sue violators, and let the courts order compliance. By the early 1960s that approach had produced a record of failure detailed enough to fill a legislative history. Lawsuits took years. Each case covered one county at a time. The Justice Department spent enormous sums of money and attorney time to desegregate registration in a handful of parishes, and the moment one test fell, a new qualification materialized to take its place. A registration case filed in one county gave no relief to the excluded citizens of the next.
 
 The contrast with the Civil Rights Act of 1964 sharpened the point. Title I of the 1964 Act carried voting provisions, and President Lyndon Johnson had signed it as the great breakthrough of his administration. Yet its voting machinery worked through the same case-by-case enforcement model, and in the covered states it moved Black registration numbers very little. The Attorney General had to prove, jurisdiction by jurisdiction, that discrimination was occurring, and the local officials who were doing the discriminating controlled the evidence, the records, and the timetable. A famous illustration of the difficulty came from the litigation over county registration records, where officials stonewalled federal lawyers for years. Congress could see that the problem was not the absence of a legal right. The right had existed since 1870. The problem was procedure: who had to prove what, and before or after the exclusion took effect.
 
-![How the Voting Rights Act of 1965 replaced case-by-case litigation with a coverage formula - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Voting Rights Act of 1965 replaced case-by-case litigation with a coverage formula - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 The regulatory insight behind the statute was therefore not prohibitory but procedural. Congress did not simply declare discrimination unlawful one more time. It changed the order of operations. Instead of waiting for a violation, filing suit, and asking a court to fix it after citizens had been turned away from the polls, the law identified the places where discrimination was most entrenched and shifted the burden onto the jurisdictions themselves. That is THE BURDEN-SHIFT DESIGN, stated plainly: the Act's innovation was not what it prohibited but who had to prove what and when, moving the burden onto covered jurisdictions before a change took effect, [the definitive account of how preclearance worked as a procedure](/2010/07/01/voting-rights-act-section-5-preclearance/) so that a state or county planning any change to its voting practices had to demonstrate in advance that the change was not discriminatory. The federal government no longer had to discover the new device, sue, and win. The jurisdiction had to clear the device first.
 

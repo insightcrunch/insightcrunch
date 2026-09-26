@@ -6,17 +6,17 @@ date: "2010-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights", "Civil Rights", "Senate Procedure", "Legislative History", "Lyndon Johnson"]
 excerpt: "Selma to signature in five months: the Voting Rights Act of 1965 passage through filibuster, Rules blockade, and compromise, from S. 1564 to Public Law 89-110."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2010-06-15"
+lang: en
 ---
-
 The central puzzle of the Voting Rights Act of 1965 passage was procedural before it was political. Everyone involved knew that a voting bill faced two separate deaths, and that surviving one without surviving the other was no survival at all. The Senate, where any major civil rights measure had to run the gauntlet of a southern filibuster, was the first graveyard. The South itself, where registrars and county machines had absorbed a decade of federal voting law without changing their habits, was the second. A bill that could not break cloture would never reach the President's desk, and a bill that reached the desk but depended on the same enforcement machinery as its predecessors would be celebrated, signed, and then quietly starved by the arithmetic of southern resistance. The history of how this particular statute moved from impasse to enactment is the history of a draft designed, for the first time, against both dangers at once.
 
 This is a story that is often told as though it began on a bridge in Alabama, and there is a reason for that telling, because the bridge matters enormously. But it is not the whole of how the measure came to exist, and the part that came before the bridge explains why the bridge could do the work it did. By the winter of 1964 to 1965, the voting question had already defeated three federal statutes in practice, and the people writing the new bill knew exactly why each had failed.
 
-![A photographic view of the Edmund Pettus Bridge in Selma where marchers crossed in the Voting Rights Act of 1965 passage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A photographic view of the Edmund Pettus Bridge in Selma where marchers crossed in the Voting Rights Act of 1965 passage - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 ## The 89th Congress
 

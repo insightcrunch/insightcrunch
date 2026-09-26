@@ -6,15 +6,15 @@ date: "2010-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights Act", "Shelby County", "Section 5 Preclearance", "Fifteenth Amendment", "Constitutional Law"]
 excerpt: "Shelby County sued in April 2010 to void the Voting Rights Act coverage formula and preclearance. Both sides of the pending challenge, and what is at stake."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2010-07-15"
+lang: en
 ---
-
 A county in Alabama asked a federal court to strike federal law off the books, and the Shelby County Voting Rights Act challenge is best understood by starting with the scale of that request. The county did not ask the court for an exception from its own obligations under the Voting Rights Act of 1965. It asked the court to declare that two of the statute's central provisions, the coverage formula of Section 4(b) and the preclearance requirement of Section 5, were unconstitutional on their face and could not be enforced against anyone. Students meeting the case in a classroom, journalists assigned to follow the docket, and staffers asked to brief it all confront the same starting point: a single county suing the United States, a federal statute binding every covered jurisdiction, and a complaint seeking invalidation of the provisions for every covered jurisdiction at once.
 
-![Shelby County's 2010 challenge to the Voting Rights Act coverage formula and preclearance, explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Shelby County's 2010 challenge to the Voting Rights Act coverage formula and preclearance, explained - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 The constitutional question behind the filing is direct. Congress enacted [the Voting Rights Act of 1965](/2010/06/01/voting-rights-act-1965-complete-guide/) under the enforcement clauses of the Fourteenth and Fifteenth Amendments, and the Supreme Court upheld the statute's core provisions against constitutional attack in South Carolina v. Katzenbach, 383 U.S. 301 (1966). The county's suit asked whether those provisions, as Congress had extended and reauthorized them in 2006, remained within the enforcement power the Constitution grants to Congress rather than the courts. That framing explains why the case drew attention from constitutional scholars as well as voting rights specialists: it presented a clash between a familiar federal statute and the argument that the factual predicates Congress relied upon in 1965 no longer justified the same extraordinary remedies more than four decades later.
 

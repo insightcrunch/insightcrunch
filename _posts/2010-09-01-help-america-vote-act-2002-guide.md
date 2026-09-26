@@ -6,17 +6,17 @@ date: "2010-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Help America Vote Act", "Election Administration", "Voting Rights", "Election Reform"]
 excerpt: "The Help America Vote Act set floors for voting equipment, provisional ballots, statewide registration lists, and disability access in federal elections."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: "70"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2010-09-01"
+lang: en
 ---
-
 ## The 2000 Crisis That Produced a Federal Election Law
 
 On the night of November 7, 2000, the American presidential election did not end. It stalled. Television networks first awarded Florida, and with it the presidency, to Vice President Al Gore, then withdrew the call, then awarded the state to Governor George W. Bush, then withdrew that call too. By morning, the presidency depended on a few hundred votes in a single state, and the machinery for deciding which candidate had actually won them turned out to be a patchwork of county offices using different equipment, different ballot designs, and different rules for judging voter intent. The certified margin in Florida was 537 votes. The recount that followed lasted thirty-six days, consumed the attention of the nation, and ended only when the Supreme Court decided Bush v. Gore on December 12, 2000, halting a statewide manual recount and leaving the presidency settled by judicial order rather than by a completed count.
 
-![Election officials and observers examining punch-card ballots during the Florida recount that followed the disputed 2000 presidential election](/assets/images/blog/blog-01.webp)
+![Election officials and observers examining punch-card ballots during the Florida recount that followed the disputed 2000 presidential election](/assets/images/blog/blog-37.webp)
 
 What the country saw during those thirty-six days was not only a close election but an uneven one. In Palm Beach County, a confusing butterfly ballot design led about nineteen thousand voters to punch two holes, spoiling their ballots as overvotes in a state decided by hundreds. Across Florida, punch-card machines left hanging chads, dimpled chads, and pregnant chads, fragments of paper that county canvassing boards had to interpret by eye, with no uniform statewide standard for what counted as a vote. The Caltech and MIT Voting Technology Project, in a study released the following year, estimated that between four and six million votes had been lost nationwide in the 2000 election because of faulty equipment, confusing ballots, and registration problems. The failures were not confined to Florida. They were visible there because Florida was close. The same equipment and the same administrative weaknesses existed in precincts across the country, in places where the margin was wide enough that nobody looked.
 

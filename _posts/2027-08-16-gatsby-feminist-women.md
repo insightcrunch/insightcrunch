@@ -6,12 +6,12 @@ date: 2027-08-16
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Feminist Criticism", "Daisy Buchanan", "Jordan Baker", "Myrtle Wilson", "Character Analysis", "Literary Lenses"]
 excerpt: "The women of Gatsby through a feminist lens are neither weak nor villainous: Daisy, Jordan, and Myrtle live in a cage built from wealth, reputation, and class."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2027-08-16
+lang: en
 ---
-
 Three women, three cages. That is the claim a feminist lens makes about The Great Gatsby, and it reorganizes the novel more thoroughly than any ranking of likable and unlikable characters. Daisy Buchanan, Jordan Baker, and Myrtle Wilson are not weak women, and they are not villains either. Each one possesses real agency, each one faces a constraint she did not choose, and each one's cage is built from different materials: wealth for Daisy, reputation for Jordan, class for Myrtle. The lens does not ask the reader to excuse what the women do. It asks the reader to notice what the novel allows them to do, and what it forbids, and how the difference between those two lists explains almost every choice that looks like a moral failure on a first reading.
 
 Read the women of Gatsby through a feminist lens and the plot stops being a story about a rich girl who picks the wrong man. It becomes a study of three different traps, each baited with something the woman wants and each locked by rules she never wrote. Daisy wants love and safety and gets money that smothers both. Jordan wants freedom and gets a public self she must police without rest. Myrtle wants a larger life and gets a lover who pays for the apartment and breaks her nose. The cage metaphor matters because a cage has a builder, and the feminist lens keeps asking who built each one and who holds the key. The answer is never the woman herself. That is what makes the reading feminist rather than merely sympathetic: it locates the constraint in the arrangement of the world, not in the character of the woman.
@@ -20,7 +20,7 @@ The complication sits at the center of the reading and must not be smoothed away
 
 The sections that follow work the claim through each woman in turn, then through the men who hold the keys, the narrator who filters them, and the history that built the locks. The artifact table compresses the whole argument into a single view for reference. The before and after readings show the lens repairing weak interpretations passage by passage. The practice section turns the method into assigned work, and the mistakes section names the errors the lens prevents. Read straight through, or enter at the section that addresses your question. Either way, keep the claim active: three women, three cages, and a set of keys held almost entirely by men.
 
-![Three women in 1920s dress representing Daisy, Jordan, and Myrtle read through a feminist lens - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Three women in 1920s dress representing Daisy, Jordan, and Myrtle read through a feminist lens - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 ## The Lens Sees Cages, Not Verdicts
 
