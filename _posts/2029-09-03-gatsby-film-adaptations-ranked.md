@@ -285,7 +285,7 @@ There is a third lesson about the parties. All four films devote substantial res
 
 Finally, the adaptations expose which parts of the book are plot and which parts are argument. Anything all four films kept is plot. Anything all four films dropped or fumbled is argument. Run that filter and the residue is remarkably consistent: Nick's opening frame, the enchanted objects passage, the retrospective judgments, and the closing paragraphs. Those are the parts that make it a great novel, and they are exactly the parts no camera has managed to hold.
 
-Readers who want to test any of this against the text can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the complete annotated novel sits alongside close-reading tools, a searchable quotation bank, character maps, and theme trackers. Comparing a scene as filmed with the same scene as written is the fastest way to see which of the book's effects depend on the prose, and the library keeps expanding to further works and study tools.
+Readers who want to test any of this against the text can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the complete annotated novel sits alongside close-reading tools, a searchable quotation bank, character maps, and theme trackers. Comparing a scene as filmed with the same scene as written is the fastest way to see which of the book's effects depend on the prose, and the library keeps expanding to further works and study tools.
 
 ## Closing Verdict
 

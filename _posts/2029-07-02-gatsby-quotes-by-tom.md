@@ -233,7 +233,7 @@ Pair a Tom line with a Tom action. The distance between what he says and what he
 
 Use Nick's attributions as evidence. Impassioned gibberish, the transition from libertine to prig, and the temptation to laugh whenever Tom opened his mouth are all narratorial judgments, not neutral tags, and quoting them lets you argue about how the novel positions Tom rather than only about what Tom believes.
 
-Check the wording before you submit. Tom's lines are frequently paraphrased into something blunter than Fitzgerald wrote, and the loss is usually the qualifier that makes the sentence characteristic. You can verify any line against the full text and track a single speaker across all nine chapters when you [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which pairs the annotated novel with a searchable quotation bank and character trackers built for exactly this kind of speaker-by-speaker work.
+Check the wording before you submit. Tom's lines are frequently paraphrased into something blunter than Fitzgerald wrote, and the loss is usually the qualifier that makes the sentence characteristic. You can verify any line against the full text and track a single speaker across all nine chapters when you [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which pairs the annotated novel with a searchable quotation bank and character trackers built for exactly this kind of speaker-by-speaker work.
 
 ## Which Tom Lines Should Be Handled With Care
 

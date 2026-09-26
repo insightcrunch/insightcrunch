@@ -249,7 +249,7 @@ It does, for a specific reason. Fitzgerald composed with strong attention to cad
 
 A sixth step is optional and worth the effort for the passages that matter most: paraphrase the sentence in plain words, then compare the paraphrase to the original and ask what was lost. What is lost is what the difficulty was buying. In the closing paragraph, the paraphrase loses the rowing image, and the rowing image is what makes the claim physical rather than sentimental. This exercise turns difficulty from an obstacle into evidence, which is what an essay needs.
 
-Readers who want to work through these passages against the full text can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the complete annotated novel sits alongside close-reading tools, a searchable quotation bank, character maps, and theme trackers. Seeing a hard passage in its surrounding paragraphs, with annotation tools available, removes a good deal of the difficulty that comes from encountering a fragment out of context, and the library keeps adding works and tools over time.
+Readers who want to work through these passages against the full text can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the complete annotated novel sits alongside close-reading tools, a searchable quotation bank, character maps, and theme trackers. Seeing a hard passage in its surrounding paragraphs, with annotation tools available, removes a good deal of the difficulty that comes from encountering a fragment out of context, and the library keeps adding works and tools over time.
 
 ## Is the Difficulty a Flaw?
 

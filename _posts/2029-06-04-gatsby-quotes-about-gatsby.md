@@ -309,7 +309,7 @@ The four-word refusal, quoted as "can't repeat the past" with the answering "Why
 
 The second safest is "You're worth the whole damn bunch put together," because it supplies the novel's verdict in Gatsby's favor while remaining comparative enough to complicate. Between the two, a student has coverage for most examinable prompts.
 
-Readers who want these fragments in their surrounding pages rather than in a table can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full text sits alongside close-reading and annotation tools, a searchable quotation bank, and character and theme trackers, in a library that keeps expanding. Seeing the deflating clause arrive immediately after the elevation is the fastest way to understand why the character resists a verdict.
+Readers who want these fragments in their surrounding pages rather than in a table can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full text sits alongside close-reading and annotation tools, a searchable quotation bank, and character and theme trackers, in a library that keeps expanding. Seeing the deflating clause arrive immediately after the elevation is the fastest way to understand why the character resists a verdict.
 
 ### A short checklist before submitting
 

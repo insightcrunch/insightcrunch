@@ -240,7 +240,7 @@ The third discipline is resisting the inspirational misuse. The refusal to accep
 
 The fourth is choosing quotations by strength rather than by fame. The foul dust sentence, the crumbling men, and the laden mattress are the three strongest plants in the book and none of them is among its famous lines. An essay built on them will look considerably more attentive than one built on the same three quotations every other essay uses.
 
-Readers who want to trace an image from its first appearance to its payoff, comparing every occurrence in context, can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), whose annotated edition, searchable quotation bank, close-reading tools, and motif trackers make it practical to follow a word like "ashen" across the whole novel rather than relying on memory. The library keeps expanding to further works and tools.
+Readers who want to trace an image from its first appearance to its payoff, comparing every occurrence in context, can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), whose annotated edition, searchable quotation bank, close-reading tools, and motif trackers make it practical to follow a word like "ashen" across the whole novel rather than relying on memory. The library keeps expanding to further works and tools.
 
 ## Why the Concealment Works
 

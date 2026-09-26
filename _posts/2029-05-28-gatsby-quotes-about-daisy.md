@@ -265,7 +265,7 @@ The fool wish, at "the best thing a girl can be in this world, a beautiful littl
 
 The second safest is "Oh, you want too much," because it is four words long past the interjection, unmistakably hers, and unlocks the relationship question directly. Between the two, a student has coverage for the large majority of examinable prompts on this character.
 
-Readers who want to see these sentences in their surrounding pages rather than in a table can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full text sits alongside close-reading and annotation tools, a searchable quotation bank, and character and theme trackers, in a library that keeps expanding. Working with a fragment in its paragraph is the fastest way to see how much of Daisy's reputation rests on Nick's sentences rather than her own.
+Readers who want to see these sentences in their surrounding pages rather than in a table can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full text sits alongside close-reading and annotation tools, a searchable quotation bank, and character and theme trackers, in a library that keeps expanding. Working with a fragment in its paragraph is the fastest way to see how much of Daisy's reputation rests on Nick's sentences rather than her own.
 
 ### A short checklist before submitting
 

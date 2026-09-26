@@ -313,7 +313,7 @@ So here is the verdict the series has been building toward across two hundred ar
 
 ## Study and Revision: The Continuous Civilization
 
-To test your grasp of the whole arc, save the living-legacy table and your notes in [VaultBook's Egypt history notes](https://vaultbook.net/tools/egypt-history-notes.html), then check your command of the five-thousand-year sequence with [ReportMedic's modern Egypt timeline self-test](https://reportmedic.org/tools/modern-egypt-timeline-self-test.html).
+To test your grasp of the whole arc, save the living-legacy table and your notes in [VaultBook's Egypt history notes](https://vaultbook.net/tools/egypt-history-notes.html), then check your command of the five-thousand-year sequence with [ReportMedic's modern Egypt timeline self-test](https://reportmedic.org/tools/egypt-history-study.html).
 
 ## Frequently Asked Questions
 

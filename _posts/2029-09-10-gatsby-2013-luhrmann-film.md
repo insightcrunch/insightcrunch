@@ -303,7 +303,7 @@ The green light translates poorly, and the reason is equally structural. On the 
 
 This is not a failure specific to this adaptation. Every version has the same problem, and it is the clearest available demonstration of what prose can do that cameras cannot: track the changing significance of a stable object across time, in the mind of an observer, with the observer's revisions visible.
 
-Readers who want to test any of these claims against the source can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the complete annotated novel sits alongside close-reading tools, a searchable quotation bank, character maps, and theme trackers. Reading the party chapters immediately after watching the film's party sequences is the fastest way to see which effects the adaptation reproduced and which it replaced, and the library continues to expand with further works and study resources.
+Readers who want to test any of these claims against the source can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the complete annotated novel sits alongside close-reading tools, a searchable quotation bank, character maps, and theme trackers. Reading the party chapters immediately after watching the film's party sequences is the fastest way to see which effects the adaptation reproduced and which it replaced, and the library continues to expand with further works and study resources.
 
 ## Closing Verdict
 

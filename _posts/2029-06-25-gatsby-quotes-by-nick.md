@@ -228,7 +228,7 @@ Name the register in your sentence. Writing that Nick "shouts" or "records" or "
 
 Use the gap, not the statement. The reusable move in this article is comparative: put a Nick claim next to a Nick action or a Nick adjective and read the distance between them. Reserve against bores. Honesty against the letters signed with a word he did not mean. Disapproval from beginning to end against the compliment he is glad he paid. Every one of those pairs is a thesis.
 
-Attribute by chapter and check the wording. The Nick lines are among the most frequently mangled in the book, particularly the opening and the two shouted sentences. You can read and annotate the full text and check any wording against it when you [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), which also carries a searchable quotation bank and close-reading tools that let you track a speaker's lines across all nine chapters in one pass.
+Attribute by chapter and check the wording. The Nick lines are among the most frequently mangled in the book, particularly the opening and the two shouted sentences. You can read and annotate the full text and check any wording against it when you [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), which also carries a searchable quotation bank and close-reading tools that let you track a speaker's lines across all nine chapters in one pass.
 
 ## Where the Quotation Set Ends and the Character Study Begins
 

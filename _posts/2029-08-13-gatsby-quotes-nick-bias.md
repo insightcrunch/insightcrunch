@@ -247,7 +247,7 @@ Applied together these habits produce readings that are specific rather than ges
 
 A fifth habit follows from the four above and is worth adding for anyone rereading the novel rather than studying it. Keep a running note of every adjective Nick attaches to a person, and sort the notes by name at the end. The exercise takes an hour and it produces the argument of this article without any theoretical apparatus at all, because the vocabularies do not overlap. Gatsby's column fills with terms of wonder, Tom's with terms of mass and cruelty, Jordan's with terms of hardness and limitation, and the Wilsons' column stays nearly empty. A narrator's partiality is rarely visible in any single sentence. It is almost always visible in a list.
 
-Readers who want to check a line's exact wording or trace how often a term recurs across the whole novel can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), whose annotated edition, searchable quotation bank, close-reading tools, and character and theme trackers make it practical to compare Nick's language about one person with his language about another. The library keeps expanding to more works and more tools over time.
+Readers who want to check a line's exact wording or trace how often a term recurs across the whole novel can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), whose annotated edition, searchable quotation bank, close-reading tools, and character and theme trackers make it practical to compare Nick's language about one person with his language about another. The library keeps expanding to more works and more tools over time.
 
 ## Using the Bias Quotes in an Essay
 

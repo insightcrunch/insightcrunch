@@ -207,7 +207,7 @@ The second step is separating the two halves of the figure and asking what the v
 
 Three further rules follow. Quote only as much of the line as the figure requires, since surplus words dilute the point. Attend to the grammatical position of the figure, because a comparison in a subordinate clause is doing different work from one in a main clause. And resist the temptation to convert every figure into a thematic statement; a figure that carries a claim about class does not thereby become evidence for the American dream, and the flattening of specific figures into general themes is the commonest weakness in student writing about this book.
 
-Readers who want to trace a device through the whole text, comparing every appearance of ash or light or water in context, can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), whose annotated edition, searchable quotation bank, close-reading tools, and motif trackers make it practical to follow a vehicle across nine chapters rather than sampling it. The library keeps growing, so the same tracking apparatus becomes available for more works over time.
+Readers who want to trace a device through the whole text, comparing every appearance of ash or light or water in context, can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), whose annotated edition, searchable quotation bank, close-reading tools, and motif trackers make it practical to follow a vehicle across nine chapters rather than sampling it. The library keeps growing, so the same tracking apparatus becomes available for more works over time.
 
 ## Figure and Character: Who Gets Which Vehicle
 

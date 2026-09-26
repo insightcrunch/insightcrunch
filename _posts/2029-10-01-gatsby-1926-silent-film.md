@@ -287,7 +287,7 @@ Third, use the New York Times complaint as a critical instrument. A reviewer in 
 
 Fourth, treat the loss as a caution about evidence. Arguments built on surviving materials are arguments built on what happened to endure, and endurance is not merit. That caution transfers directly to literary study, where the texts available to you are also a survival sample, shaped by publication economics, taste, and accident.
 
-Working these exercises against the full text is straightforward with the passages to hand. Readers can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated novel, quotation search, and character and theme trackers make it quick to pull the Plaza confrontation, the party descriptions, and the closing pages side by side, and the library keeps adding tools and works over time.
+Working these exercises against the full text is straightforward with the passages to hand. Readers can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated novel, quotation search, and character and theme trackers make it quick to pull the Plaza confrontation, the party descriptions, and the closing pages side by side, and the library keeps adding tools and works over time.
 
 ### How do you source claims about missing footage?
 

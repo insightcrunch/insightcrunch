@@ -305,7 +305,7 @@ The careless people verdict, quoted as "They were careless people, Tom and Daisy
 
 The second safest is "Her voice is full of money," provided the writer attributes it to Gatsby rather than to Nick or to Fitzgerald. Five words, and it links the class theme to the central relationship without any additional evidence.
 
-Readers who want these fragments in their surrounding pages rather than in a table can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full text sits alongside close-reading and annotation tools, a searchable quotation bank, and theme and motif trackers, in a library that keeps expanding. Tracking a single word like "money" across the novel is the fastest way to see how unevenly it is distributed between description and dialogue.
+Readers who want these fragments in their surrounding pages rather than in a table can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full text sits alongside close-reading and annotation tools, a searchable quotation bank, and theme and motif trackers, in a library that keeps expanding. Tracking a single word like "money" across the novel is the fastest way to see how unevenly it is distributed between description and dialogue.
 
 ### A short checklist before submitting
 

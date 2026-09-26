@@ -334,7 +334,7 @@ Applied to the frame, that produces something like this. The picture assigns Nic
 
 Applied to the green light, it produces a different shape. The picture makes the symbol continuously visible, which implies a reading in which it is a constant object of longing. Test it: the novel makes the enchantment diminish once Daisy is present, which requires the light to be intermittent, so the picture's handling contradicts a specific textual movement. That is a departure that fails its own test, and saying so is stronger criticism than any general complaint about excess.
 
-Three of these worked examples make an essay. Quote the novel in every one, because a comparative essay that never quotes the source is an essay about a movie. Readers can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, and character and theme trackers make it fast to pull the exact wording for any scene the picture stages, and the library keeps adding tools and works over time.
+Three of these worked examples make an essay. Quote the novel in every one, because a comparative essay that never quotes the source is an essay about a movie. Readers can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the annotated text, quotation search, and character and theme trackers make it fast to pull the exact wording for any scene the picture stages, and the library keeps adding tools and works over time.
 
 ### Is watching enough for an assignment?
 

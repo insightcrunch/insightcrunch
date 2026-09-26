@@ -408,7 +408,7 @@ Where does that leave the reader? This article sits at the center of the modern 
 
 ## Study and Revision: Modern Egypt
 
-To lock in what this article covers, copy the modern Egypt table into your notes and quiz yourself on the chain of eras: the republic's birth, the Nasser years, Sadat's opening, Mubarak's long rule, and the upheavals of 2011. Then argue the continuity question both ways until you can hold the verdict honestly. Save the table and your study notes in [VaultBook](https://vaultbook.net/tools/egypt-history-notes.html), where you can track the key dates and both sides of the debate side by side. When you are ready, test yourself on the full arc with the [Modern Egypt Timeline Self-Test](https://reportmedic.org/tools/modern-egypt-timeline-self-test.html).
+To lock in what this article covers, copy the modern Egypt table into your notes and quiz yourself on the chain of eras: the republic's birth, the Nasser years, Sadat's opening, Mubarak's long rule, and the upheavals of 2011. Then argue the continuity question both ways until you can hold the verdict honestly. Save the table and your study notes in [VaultBook](https://vaultbook.net/tools/egypt-history-notes.html), where you can track the key dates and both sides of the debate side by side. When you are ready, test yourself on the full arc with the [Modern Egypt Timeline Self-Test](https://reportmedic.org/tools/egypt-history-study.html).
 
 ## Frequently Asked Questions
 

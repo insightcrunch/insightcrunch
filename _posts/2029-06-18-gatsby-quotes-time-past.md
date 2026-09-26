@@ -310,7 +310,7 @@ The four-word refusal, quoted as "can't repeat the past?" with the answer "Why o
 
 The second safest is "borne back ceaselessly into the past," which supplies the resolution of the arc in six words and carries the geometric argument on its own. Between the two, a student has the beginning and the end of the sequence, which is enough to build a structured essay without further memorization.
 
-Readers who want these fragments in their surrounding pages rather than in a table can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.org/tools/great-gatsby-annotated-text.html), where the full text sits alongside close-reading and annotation tools, a searchable quotation bank, and theme and motif trackers, in a library that keeps expanding. Reading the final paragraph with the broken sentence intact is the fastest way to see why the closing line lands as it does.
+Readers who want these fragments in their surrounding pages rather than in a table can [read and annotate The Great Gatsby free on VaultBook](https://vaultbook.net/tools/great-gatsby-annotated-text.html), where the full text sits alongside close-reading and annotation tools, a searchable quotation bank, and theme and motif trackers, in a library that keeps expanding. Reading the final paragraph with the broken sentence intact is the fastest way to see why the closing line lands as it does.
 
 ### A short checklist before submitting
 
