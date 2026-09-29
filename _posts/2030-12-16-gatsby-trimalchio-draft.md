@@ -9,7 +9,7 @@ excerpt: "Trimalchio: the early draft of Gatsby shows Fitzgerald turning a stron
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2030-12-16
+last_updated: 2026-09-29
 lang: en
 ---
 Most masterpieces hide their scaffolding. Trimalchio: the early draft of Gatsby preserves it. In 1924 F. Scott Fitzgerald finished a complete novel under the working title Trimalchio and submitted it to his editor, Maxwell Perkins at Scribner's. Perkins had the typescript set in type. Fitzgerald then read the galley proofs in France and rewrote the book so heavily that what emerged was, in effect, a new novel. The earlier version survived because the galleys were preserved, and in 2000 it appeared in print as Trimalchio: An Early Version of The Great Gatsby, edited by the Fitzgerald scholar James L. W. West III for the Cambridge Edition of the Works of F. Scott Fitzgerald. The book is not a pile of fragments or a set of variant readings. It is a complete, readable, and strong novel that happens to be a different novel from the one the world came to know. That is precisely what makes it valuable.

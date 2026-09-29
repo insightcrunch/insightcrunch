@@ -9,7 +9,7 @@ excerpt: "How the Suez Canal was dug across the Egyptian desert at a grim human 
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 73
 author: "amanda-ross"
-last_updated: 2014-08-01
+last_updated: 2026-09-29
 lang: en
 ---
 The Suez Canal is the hinge on which modern globalization first turned. Before 1869, every ship sailing between Europe and Asia had to round the Cape of Good Hope, a detour that added thousands of miles and weeks of exposure to storms, disease, and delay. The canal compressed that voyage into roughly a hundred miles of dredged water across the Egyptian desert, a channel later widened and extended to about a hundred and twenty, and it arrived at the precise moment when steamships, submarine telegraph cables, and industrial empires were binding the continents into a single market for the first time. For Britain, the power with the most at stake, the canal shrank the distance to India from a season to a schedule: troops, mail, cotton, and capital could move between London and Bombay in a fraction of the old time. Ports from Port Said to Aden to Singapore felt the shift within a decade, and the Mediterranean, a quiet backwater since the age of sail, became a highway of empire again. Control of a narrow ditch in the desert thus became one of the great strategic prizes of the nineteenth century, and the struggle over it would shape diplomacy, war, and decolonization for more than a hundred years.

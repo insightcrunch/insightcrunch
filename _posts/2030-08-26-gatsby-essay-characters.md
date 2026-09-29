@@ -9,7 +9,7 @@ excerpt: "Learn how to write about Gatsby's characters in an essay: argue an int
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2030-08-26
+last_updated: 2026-09-29
 lang: en
 ---
 Learning how to write about Gatsby's characters in an essay changes the moment you accept one claim: a character is a construction to interpret, not a person to describe. Jay Gatsby, Daisy Buchanan, Nick Carraway, Tom Buchanan, Jordan Baker, Myrtle Wilson, George Wilson, and Meyer Wolfsheim do not exist. They are effects produced by sentences, scenes, images, dialogue, and narrative decisions, and an essay earns its marks by arguing what those decisions build, not by narrating what the figure does. The weak character essay reads like a biography of someone who never lived. The strong one reads like a case for a reading, grounded in how the text constructs the figure, and it wins because every paragraph advances an interpretation rather than retelling a plot.

@@ -9,7 +9,7 @@ excerpt: "The Voting Rights Act of 1965 replaced slow lawsuits with a burden-shi
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 78
 author: "samantha-lee"
-last_updated: "2010-06-01"
+last_updated: 2026-09-29
 lang: en
 ---
 ## Why the Voting Rights Act of 1965 Replaced Lawsuits with a Formula

@@ -9,7 +9,7 @@ excerpt: "Why each generation rediscovers Gatsby: aspiration, inequality, and lo
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2030-03-18
+last_updated: 2026-09-29
 lang: en
 ---
 ## Why Each Generation Rediscovers The Great Gatsby

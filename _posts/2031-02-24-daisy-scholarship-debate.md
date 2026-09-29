@@ -9,7 +9,7 @@ excerpt: "The daisy debate in gatsby scholarship maps four readings of Daisy Buc
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2031-02-24
+last_updated: 2026-09-29
 lang: en
 ---
 The daisy debate in gatsby scholarship is the liveliest sustained disagreement about any single figure in Fitzgerald's novel, and Daisy Buchanan may be the most contested woman in the scholarship on any American novel of the twentieth century. Ask a room of specialists what she means and the answers divide into four camps that cannot be reconciled: she is read as a victim of the patriarchal world that made her, as a careless villain whose wealth lets her destroy people and retreat, as a deliberately hollow cipher built to carry Gatsby's dream rather than a person, and as Fitzgerald's own critique of the ideal itself, a figure whose inadequacy exposes the corruption of American desire. Each of these readings is anchored in the text. Each has a critical lineage behind it, running from mid-century essays through feminist reassessments to later American Studies work. Each can point to specific passages and say, this is where the novel proves my case. And each has to contend with the others doing exactly the same thing with exactly the same passages. That is why the debate has stayed open for generations, and why this article maps it instead of settling it.

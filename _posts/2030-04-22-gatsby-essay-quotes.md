@@ -9,7 +9,7 @@ excerpt: "Mastering how to use quotes in a Gatsby essay turns citations into arg
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 68
 author: "elena-wright"
-last_updated: "2030-04-22"
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Quote Is Only Half the Mark

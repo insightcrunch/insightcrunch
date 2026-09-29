@@ -9,7 +9,7 @@ excerpt: "The New Critics and Great Gatsby reveals how mid-century close reading
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-04-28
+last_updated: 2026-09-29
 lang: en
 ---
 ## The New Critics and Great Gatsby

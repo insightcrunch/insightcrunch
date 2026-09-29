@@ -9,7 +9,7 @@ excerpt: "Do the Civil Rights Act of 1964 myths hold up? We test the filibuster,
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: "2010-05-01"
+last_updated: 2026-09-29
 lang: en
 ---
 ## Why Myths About the Civil Rights Act of 1964 Outrun the Text

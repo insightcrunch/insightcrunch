@@ -9,7 +9,7 @@ excerpt: "How examiners mark Gatsby essays: write to the published criteria, arg
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2030-10-14
+last_updated: 2026-09-29
 lang: en
 ---
 Most students write their Gatsby essay for the reader they imagine, and the reader they imagine is generous. That imaginary reader admires the effort, forgives the drift, notices the hours of revision behind the work, and finds something kind to say about every page. Understanding how examiners mark Gatsby essays begins by replacing that fantasy with the reality of the marking table. The real reader is a trained assessor working through a long stack of scripts in limited time, measuring each one against published criteria that name exactly what scores: argument, analysis, evidence, and context. The mindset of that reader decides the mark long before the final paragraph has been read, and it rewards a narrower set of things than most students expect.

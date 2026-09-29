@@ -9,7 +9,7 @@ excerpt: "The lost 1926 Gatsby silent film explained: Herbert Brenon's vanished 
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 40
 author: "rachel-foster"
-last_updated: 2029-10-01
+last_updated: 2026-09-29
 lang: en
 ---
 The lost 1926 Gatsby silent film is the only screen version of Fitzgerald's novel that its author saw, and it is the only one nobody alive has watched. Roughly a minute of promotional footage survives. Everything else is gone: no print in any archive, no negative, no reliable rumor that has ever produced a reel. What remains is a trailer, a set of production stills, a body of contemporary reviewing, a studio ledger, and one blunt sentence from Zelda Fitzgerald recording that the couple walked out.

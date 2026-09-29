@@ -9,7 +9,7 @@ excerpt: "Famous readers and fans of Great Gatsby range from T. S. Eliot to nove
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 72
 author: "rachel-foster"
-last_updated: 2030-02-11
+last_updated: 2026-09-29
 lang: en
 ---
 ## Famous readers and fans of The Great Gatsby

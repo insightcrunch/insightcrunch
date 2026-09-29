@@ -9,7 +9,7 @@ excerpt: "The Aswan Dam and Arab socialism defined Nasser's domestic project, de
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2016-03-01
+last_updated: 2026-09-29
 lang: en
 ---
 In the summer of 1960, at a bend of the Nile a few miles south of the old city of Aswan, bulldozers and dredges went to work on the largest construction undertaking in [Egypt's modern history](/2015/11/01/modern-egypt-since-1952/). The Aswan Dam was to be a wall of compacted rock and earth thrown across the river, more than a hundred meters high and nearly four kilometers from bank to bank, with an impermeable clay core at its heart and a lake behind it so vast it would reach deep into the Sudan. The embankment would be built not of concrete but of dumped rock and gravel, compacted in layers around its clay heart, a design chosen for speed and for the abundance of local stone. Its purpose was stark and total: to end the annual flood that had governed Egyptian life for some seven thousand years, to generate electricity on a scale the country had never known, and to push farmland out past the narrow ribbon of the valley. For [Gamal Abdel Nasser](/2016/01/01/gamal-abdel-nasser-of-egypt/), the army officer who had come to power with the 1952 revolution and taken the presidency in 1956, the dam was the signature project of his rule, the single work by which he meant his revolution to be judged. No other project of his reign would consume so much money, so much labor, or so much political capital.

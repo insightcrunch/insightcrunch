@@ -9,7 +9,7 @@ excerpt: "Section 5 preclearance made covered jurisdictions win federal approval
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 73
 author: "jessica-kim"
-last_updated: "2010-07-01"
+last_updated: 2026-09-29
 lang: en
 ---
 ## 1. How Section 5 preclearance works in practice

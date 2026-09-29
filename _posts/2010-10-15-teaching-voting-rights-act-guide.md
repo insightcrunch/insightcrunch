@@ -9,7 +9,7 @@ excerpt: "Teaching the Voting Rights Act starts with the century of evasion, the
 image: "/assets/images/blog/blog-33.webp"
 reading_time: "78"
 author: "katherine-blake"
-last_updated: "2010-10-15"
+last_updated: 2026-09-29
 lang: en
 ---
 ## Teaching the Voting Rights Act: Why Students Get It Wrong

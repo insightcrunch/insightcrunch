@@ -9,7 +9,7 @@ excerpt: "Learning how to write about Fitzgerald's methods turns technique-spott
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
 author: "elena-wright"
-last_updated: 2030-09-09
+last_updated: 2026-09-29
 lang: en
 ---
 Learning how to write about Fitzgerald's methods is the single skill that separates a competent Gatsby essay from a strong one. Most students can spot a technique. They can point at the green light, name the retrospective narration, and label a long sentence as cumulative syntax. The essay then stalls, because spotting is not arguing. The namable claim of this guide is simple and load-bearing: a method is a choice with an effect, and the essay names both. Every technique Fitzgerald uses was a decision, and every decision does work on the reader. The writer's job is to connect the two, showing how a particular device produces a particular meaning, and then explaining why that connection matters to the argument of the essay. Do that consistently, and the essay stops reading as a list of features and starts reading as analysis.

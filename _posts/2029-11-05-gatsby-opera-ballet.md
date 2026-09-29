@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby as opera and ballet: Harbison's Metropolitan Opera co
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 39
 author: "chloe-martin"
-last_updated: 2029-11-05
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Hardest Adaptation Question

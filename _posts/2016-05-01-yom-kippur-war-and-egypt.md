@@ -9,7 +9,7 @@ excerpt: "The Yom Kippur War restored Egyptian pride after a crushing defeat, as
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 83
 author: "rachel-foster"
-last_updated: 2016-05-01
+last_updated: 2026-09-29
 lang: en
 ---
 At about 2:05 on the afternoon of 6 October 1973, while Israel stood almost silent on Yom Kippur, the holiest day of the Jewish calendar, the east bank of the Suez Canal erupted. More than two thousand Egyptian guns opened a barrage of a weight no Arab army had ever delivered, and shells fell along the whole length of the Bar-Lev Line, the chain of Israeli strongpoints dug into the sand on the far shore. The first Egyptian infantrymen were already in their rubber boats, paddling across the canal under the falling shells toward fortifications Israel had held unchallenged for six years. What followed across the next three weeks would cost both nations thousands of lives, and it would end with armies still facing each other on both banks of the canal, neither capital able to claim the total victory its newspapers promised. Yet the war mattered less for that inconclusive battlefield result than for what it repaired in Egypt after the disaster of 1967. The crossing itself was the message: Egypt could plan in secret, Egypt could strike with discipline, and Egypt would no longer accept the terms of its own humiliation. The true victory of October 1973 was psychological and diplomatic, won not in the tally of captured ground but in the recovery of Egyptian and Arab pride and the forced reopening of negotiations that had been frozen for years.

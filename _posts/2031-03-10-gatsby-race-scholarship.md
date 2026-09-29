@@ -9,7 +9,7 @@ excerpt: "Race scholarship on Great Gatsby maps how scholars read Tom's racism, 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2031-03-10
+last_updated: 2026-09-29
 lang: en
 ---
 Race scholarship on Great Gatsby criticism is the strand that refuses to let Tom Buchanan's dinner-table racism be a throwaway character detail. In the first chapter of Fitzgerald's novel, Tom interrupts a conversation to hold forth about a book he has been reading, a pseudo-scientific tract about the rise of colored empires and the need for the white race to stay alert, and Nick Carraway watches him with a mixture of fascination and embarrassment. Generations of readers treated that scene as mere characterization, proof that Tom is a brute. The scholars this article maps did something different. They asked what it means that a novel so often read as a story about class, money, and the American Dream opens its racial politics in the very first chapter, and they followed the question through whiteness, nativism, stereotype, and subtext until race became one of the novel's serious scholarly subjects. This article maps that strand: its arguments, its evidence, its internal debates, and where a researcher goes next.

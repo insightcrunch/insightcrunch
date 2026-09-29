@@ -9,7 +9,7 @@ excerpt: "From a Delta village to the Wafd's founding, Saad Zaghloul's exiles ma
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2015-06-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Village Boy the Empire Could Not Contain

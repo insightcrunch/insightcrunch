@@ -9,7 +9,7 @@ excerpt: "Casting Gatsby: how each film cast the roles, from Warner Baxter to Le
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 39
 author: "emily-reed"
-last_updated: 2029-10-22
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Argument a Face Makes

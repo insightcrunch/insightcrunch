@@ -9,7 +9,7 @@ excerpt: "Shelby County sued in April 2010 to void the Voting Rights Act coverag
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 77
 author: "maria-santos"
-last_updated: "2010-07-15"
+last_updated: 2026-09-29
 lang: en
 ---
 A county in Alabama asked a federal court to strike federal law off the books, and the Shelby County Voting Rights Act challenge is best understood by starting with the scale of that request. The county did not ask the court for an exception from its own obligations under the Voting Rights Act of 1965. It asked the court to declare that two of the statute's central provisions, the coverage formula of Section 4(b) and the preclearance requirement of Section 5, were unconstitutional on their face and could not be enforced against anyone. Students meeting the case in a classroom, journalists assigned to follow the docket, and staffers asked to brief it all confront the same starting point: a single county suing the United States, a federal statute binding every covered jurisdiction, and a complaint seeking invalidation of the provisions for every covered jurisdiction at once.

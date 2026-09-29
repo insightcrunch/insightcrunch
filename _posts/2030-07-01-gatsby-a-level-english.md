@@ -9,7 +9,7 @@ excerpt: "Great Gatsby for A-Level English: how the novel serves every assessmen
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 68
 author: "eva-lindstrom"
-last_updated: 2030-07-01
+last_updated: 2026-09-29
 lang: en
 ---
 The Great Gatsby is an assessment-objective workhorse, and the label describes fit rather than fame. A-Level English Literature rewards five capacities: informed personal response expressed with precision, analysis of how meanings are shaped, understanding of contexts, connections across texts, and engagement with different interpretations. The novel suits A-Level for its analytical richness, contextual depth, and comparative potential, meeting the assessment objectives. That is the claim this guide defends, and the defense is mechanical. The book happens to be constructed from exactly the material the objectives pay for, so a student who understands the mechanism can convert preparation into marks with unusual efficiency.

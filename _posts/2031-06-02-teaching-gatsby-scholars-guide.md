@@ -9,7 +9,7 @@ excerpt: "Teaching Great Gatsby: A Scholar's Guide shows how to teach the novel 
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2031-06-02
+last_updated: 2026-09-29
 lang: en
 ---
 ## Teaching Great Gatsby: A Scholar's Guide to Depth Beyond the Set Text

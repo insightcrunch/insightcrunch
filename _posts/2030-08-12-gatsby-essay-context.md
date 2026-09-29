@@ -9,7 +9,7 @@ excerpt: "How to embed context in a Gatsby essay: weave history into literary an
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 69
 author: "elena-wright"
-last_updated: 2030-08-12
+last_updated: 2026-09-29
 lang: en
 ---
 Learning how to embed context in a Gatsby essay is the skill that separates the competent answer from the distinguished one. Most students know the history. They can recite Prohibition, the Jazz Age, the flapper, the boom before the crash. What they cannot do is make that knowledge work inside an argument about the novel, so the history sits in the essay the way a brochure sits in a waiting room: present, glossy, and entirely separate from the business at hand. The claim this guide defends is simple enough to state and demanding enough to practice. Strong essays weave context into the analysis to deepen textual points, never bolting it on as a separate paragraph. Context is part of the argument, not a preface to it.

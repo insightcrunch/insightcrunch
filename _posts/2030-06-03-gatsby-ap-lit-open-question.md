@@ -9,7 +9,7 @@ excerpt: "Gatsby on the AP Lit open-ended question rewards matching over recitin
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 68
 author: "patrick-dunn"
-last_updated: 2030-06-03
+last_updated: 2026-09-29
 lang: en
 ---
 Gatsby on the AP Lit open-ended question is a pairing problem, not a memory test. The open-ended essay asks students to select a work of literary merit and argue a stated prompt through it, and the students who score well are not the ones who know the novel best in the abstract. They are the ones who, under the clock, choose the few Gatsby elements that answer this particular prompt and then argue something with them. The namable claim of this guide is that the novel matched to the prompt, not recited, is what earns the score: Gatsby's symbols, characters, and themes must be selected to fit the question asked, and the skill that matters is selection plus argument, the two moves the task explicitly rewards and the plot summary it explicitly penalizes being the commonest way students waste the novel.

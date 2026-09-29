@@ -9,7 +9,7 @@ excerpt: "How Khedive Ismail rebuilt Cairo, opened the canal, and borrowed on te
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 79
 author: "rachel-foster"
-last_updated: 2014-09-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## Ismail Pasha: The Khedive Who Bankrupted Egypt

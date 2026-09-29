@@ -9,7 +9,7 @@ excerpt: "Muhammad Ali built modern Egypt by conscription and monopoly; the peas
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2014-12-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Reformer and the Tyrant: Why Muhammad Ali Divides Historians

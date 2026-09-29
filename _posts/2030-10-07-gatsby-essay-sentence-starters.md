@@ -9,7 +9,7 @@ excerpt: "Sentence starters for Gatsby essays work when they prompt analysis, no
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2030-10-07
+last_updated: 2026-09-29
 lang: en
 ---
 Frames that prompt thinking, not filler: that is the standard against which every sentence starter in this article must be judged, and it is stated here at the start so the rest of the article can be measured against it. Effective sentence starters for Gatsby essays cue the analytical moves a paragraph needs, introducing evidence, analyzing technique, signaling argument, and integrating context, and they fail the moment they become padding, repeated phrases that dress up sentences with no new thinking inside them. The distinction matters because students are often taught starters as decorations, a stock of impressive-sounding phrases to paste at the front of paragraphs, and decoration is exactly what an examiner discounts. A starter that prompts analysis earns its place by forcing the writer's hand: once the sentence opens with "The contrast between X and Y exposes," the writer must supply a contrast and expose something, or the sentence collapses. That forcing function is the entire value of the resource. A starter that can be attached to any sentence without changing what the sentence says is not a frame. It is filler wearing a frame's clothes.

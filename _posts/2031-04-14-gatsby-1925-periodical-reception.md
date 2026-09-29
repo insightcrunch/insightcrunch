@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby's periodical reception was mixed: reviewers praised t
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2031-04-14
+last_updated: 2026-09-29
 lang: en
 ---
 When The Great Gatsby reached bookstores on April 10, 1925, the first people to tell the public what to make of it were the daily and weekly reviewers, and their verdicts form one of the strangest records in American literary history. The reviews were mixed, not hostile. Reviewers praised the prose with real warmth and then, in the same columns, declared the book slight, the characters unworthy of attention, the story a negligible anecdote. The pattern repeats across newspapers and magazines with an almost rhythmic regularity: admiration for the writing, dismissal of the substance. That is the namable claim this account defends. The 1925 periodical reception misjudged a masterpiece, but it did so in a specific, instructive way. The reviewers were not blind. They saw the craftsmanship and said so. What they missed was the architecture beneath the craft: the moral seriousness of the design, the symbolic density of the prose they were complimenting, the way the novel's narrowness was a choice rather than a failure. The detailed reviews show exactly how that underestimation happened, sentence by sentence, verdict by verdict, and that detail is what makes the contemporary record worth a complete account rather than a summary.

@@ -9,7 +9,7 @@ excerpt: "Book vs movie: the 2013 Gatsby compared scene by scene, mapping every 
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 39
 author: "chloe-martin"
-last_updated: 2029-10-08
+last_updated: 2026-09-29
 lang: en
 ---
 Book vs movie: the 2013 Gatsby compared against its source produces a result that surprises most people who expect one answer or the other. Baz Luhrmann's adaptation has a reputation for taking liberties, and the reputation is half right. The liberties are real, but they are concentrated in a small number of places, and the plot itself survives with a fidelity that would satisfy a checklist. What changes is not what happens. What changes is who is telling it, why, and how it reaches you.

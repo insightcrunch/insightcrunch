@@ -9,7 +9,7 @@ excerpt: "Memorizing Gatsby quotes for closed-book exams rewards curation: a few
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2030-10-21
+last_updated: 2026-09-29
 lang: en
 ---
 Memorizing Gatsby quotes for closed-book exams is not a storage problem. It is a selection problem wearing a memory costume. Walk into any study hall in the weeks before a literature examination and the scene repeats: a student bent over a list of forty quotations, highlighter in hand, rereading the same page of notes for the third hour, convinced that more lines remembered means more marks earned. The examiners who set the paper see the other side of that bargain. They mark answers, not inventories. The essay that drops in eleven quotations and analyzes none of them scores lower than the essay that deploys four and reads every one. The difference is not talent. It is method, and the method has a name worth carrying into revision: a few versatile quotes beat a long forgotten list.

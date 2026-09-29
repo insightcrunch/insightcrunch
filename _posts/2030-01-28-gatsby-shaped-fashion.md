@@ -9,7 +9,7 @@ excerpt: "How Great Gatsby shaped fashion across a century: Fitzgerald's novel, 
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2030-01-28
+last_updated: 2026-09-29
 lang: en
 ---
 ## How Great Gatsby Shaped Fashion: From the Page to the Wardrobe

@@ -9,7 +9,7 @@ excerpt: "Gamal Abdel Nasser rose from an Alexandria childhood to become the voi
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2016-01-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Man and the Paradox

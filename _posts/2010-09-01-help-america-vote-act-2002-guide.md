@@ -9,7 +9,7 @@ excerpt: "The Help America Vote Act set floors for voting equipment, provisional
 image: "/assets/images/blog/blog-37.webp"
 reading_time: "70"
 author: "maria-santos"
-last_updated: "2010-09-01"
+last_updated: 2026-09-29
 lang: en
 ---
 ## The 2000 Crisis That Produced a Federal Election Law

@@ -9,7 +9,7 @@ excerpt: "How translations handle Great Gatsby is a record of hard choices: the 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2030-02-18
+last_updated: 2026-09-29
 lang: en
 ---
 ## How Translations Handle The Great Gatsby

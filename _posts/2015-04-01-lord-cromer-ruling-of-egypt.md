@@ -9,7 +9,7 @@ excerpt: "Lord Cromer ruled Egypt for twenty-four years, fixing its finances whi
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2015-04-01
+last_updated: 2026-09-29
 lang: en
 ---
 For twenty-four years the most powerful man in Egypt held no Egyptian office at all. Lord Cromer ruled the Nile valley from 1883 to 1907 as British Agent and Consul-General, a diplomatic title that concealed what was in substance a proconsulate. An army of occupation kept his writ, ministers governed in the Khedive's name but answered to him, and no law, tax, or appointment of consequence survived his objection. He was never king and never viceroy, yet nothing of importance moved in Cairo without his leave. Cromer governed Egypt as a balance sheet, fixing the finances and the irrigation while starving the schools and the political life of the nation. That sentence is the whole of his record in miniature, and it must be stated at the outset, because both halves of it are true and neither half excuses the other. He took a bankrupt country from the hands of its creditors and returned it solvent, and he did it by methods that left Egyptians no share in their own government. Admirers called him the greatest administrator Britain ever sent abroad; his enemies, and they were not few, called him the jailer of a nation. Both verdicts have survived him, and a fair account has to hold them together.

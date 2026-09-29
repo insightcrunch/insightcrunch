@@ -9,7 +9,7 @@ excerpt: "Civil Rights Act vs Voting Rights Act: the 1964 act remedied discrimin
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "hannah-moore"
-last_updated: "2010-05-15"
+last_updated: 2026-09-29
 lang: en
 ---
 Ask any five people in a classroom, a newsroom, or a committee staff office to state the difference between the Civil Rights Act of 1964 and the Voting Rights Act of 1965, and watch the confidence drain from the room. The Civil Rights Act vs Voting Rights Act question is the most assigned, most searched, and most consistently fumbled comparison in American statutory law. Students meet it the night before a term paper is due, when two similar names blur into one. Journalists meet it on deadline, when a clean sentence is needed and a wrong one will survive into print. Teachers meet it while building units that must compress a decade of struggle into a week of lessons. Exam candidates meet it as a designed trap, two adjacent statutes with adjacent names, waiting to punish anyone who memorized dates without mechanisms. Congressional staffers meet it when a member asks for a one-page brief, and the brief has to get the machinery right because the member will quote it on the record.

@@ -9,7 +9,7 @@ excerpt: "The manuscript history of Great Gatsby runs from plans to corrected ga
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2030-12-09
+last_updated: 2026-09-29
 lang: en
 ---
 The manuscript history of Great Gatsby begins with an archive, not a book. Before the slim 1925 novel existed, there were years of planning notes, a mostly handwritten draft, at least one full typescript, two sets of galley proofs, and stray leaves that never belonged to any clean version. Most of those materials survived. They sit in the F. Scott Fitzgerald Papers at Princeton University Library, where they turn the story of the novel's composition from biography into evidence. Readers who know Gatsby only as a finished text are reading the last page of a much longer process. The paper trail of a masterpiece is recoverable in unusual completeness, and it lets scholars watch a writer conceive, draft, cut, rearrange, and polish one of the most compressed novels in American literature. That record is what this account maps, document by document.

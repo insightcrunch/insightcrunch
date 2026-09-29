@@ -9,7 +9,7 @@ excerpt: "How to write a Gatsby conclusion: consolidate the argument, answer so-
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 69
 author: "lauren-hayes"
-last_updated: 2030-05-06
+last_updated: 2026-09-29
 lang: en
 ---
 ## How to Write a Gatsby Conclusion That Answers So-What

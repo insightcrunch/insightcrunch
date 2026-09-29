@@ -9,7 +9,7 @@ excerpt: "King Farouk led Egypt through World War II, from El Alamein to the Abd
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 72
 author: "rachel-foster"
-last_updated: 2015-09-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## The War Arrives at the Western Wire

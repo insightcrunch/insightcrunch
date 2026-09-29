@@ -9,7 +9,7 @@ excerpt: "Ahmed Urabi led Egypt's first nationalist uprising. This weighs the he
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2015-03-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## A Colonel Defies an Empire: Why the Urabi Revolt Still Divides Opinion

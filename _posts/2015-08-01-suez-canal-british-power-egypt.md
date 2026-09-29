@@ -9,7 +9,7 @@ excerpt: "Britain occupied Egypt for the Suez Canal, the imperial lifeline to In
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2015-08-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Throat of an Empire

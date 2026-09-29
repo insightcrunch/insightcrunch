@@ -9,7 +9,7 @@ excerpt: "Model paragraphs for Gatsby essays turn advice into craft: annotated e
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2030-09-16
+last_updated: 2026-09-29
 lang: en
 ---
 Strong writing is shown, not just described. That is the claim this article tests, and it states it at the start so every paragraph that follows can be measured against it: a set of model paragraphs for Gatsby essays, each sentence annotated to name the move it makes, teaches more about analytical writing than any catalogue of rules. Rules name the parts. Models show the parts working. When a reader watches a point get made, then sees evidence folded into the sentence that carries it, then watches that evidence get read closely for what its language does, the abstract advice about analysis stops being a slogan and becomes a visible sequence. That sequence is what the annotated examples below make concrete, sentence by sentence, so that the components the stage articles describe can be seen combining on the page.

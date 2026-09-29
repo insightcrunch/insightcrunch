@@ -9,7 +9,7 @@ excerpt: "Zaghloul's exile ignited a revolution of peasants, workers, Copts, Mus
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 82
 author: "amanda-ross"
-last_updated: 2015-05-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## Cairo, March 1919

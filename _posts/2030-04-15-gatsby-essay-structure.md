@@ -9,7 +9,7 @@ excerpt: "How to structure a Great Gatsby essay: ordered point-evidence-analysis
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 68
 author: "sarah-mitchell"
-last_updated: 2030-04-15
+last_updated: 2026-09-29
 lang: en
 ---
 ## How to Structure a Great Gatsby Essay: Argument as Architecture

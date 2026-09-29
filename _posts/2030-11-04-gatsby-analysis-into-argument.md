@@ -9,7 +9,7 @@ excerpt: "Turning analysis into argument on Gatsby means converting sharp observ
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2030-11-04
+last_updated: 2026-09-29
 lang: en
 ---
 Turning analysis into argument on Gatsby essays is the single skill that separates the students who describe the novel from the students who say something about it. Most essays on The Great Gatsby fail in exactly the same place, and it is not a lack of knowledge. The failing essay knows the green light, knows Daisy's voice, knows Nick's narration, knows the Valley of Ashes, and still earns a middling mark, because knowing those things is analysis, and analysis is not argument. The namable claim of this guide, the sentence worth carrying into every essay you write on this novel, is this: analysis is the evidence; argument is the case. Turning Gatsby analysis into argument means making a contestable claim that the analysis then supports, and the move is from accurate observation to defended position. The essay that only analyzes describes brilliantly while saying nothing; the essay that argues uses the same analysis to prove a point. Everything that follows is the working out of that sentence: how to tell the two apart, how to perform the conversion, how to practice it until it is automatic, and how to keep the distinction alive through a whole essay under pressure.

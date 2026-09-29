@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby for AP Literature: symbols, themes, and narration tha
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 69
 author: "sarah-mitchell"
-last_updated: 2030-05-27
+last_updated: 2026-09-29
 lang: en
 ---
 The Great Gatsby is the AP Literature workhorse, and the label is a judgment about fit, not a compliment about popularity. The exam rewards analysis of complex literary meaning, evidence joined to commentary, and a kind of sophistication that goes beyond correct answers, and F. Scott Fitzgerald's novel supplies all three in a compact, fully knowable package. Its symbols are dense but legible, its themes arrive in arguable form rather than as slogans, and its narrator gives every writer a built-in second layer to analyze. That combination makes the novel a reliable choice for the open-ended essay and a strong training text for the exam's other writing tasks, which is the claim this guide defends and then turns into usable strategy.

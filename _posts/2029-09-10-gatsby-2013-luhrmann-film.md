@@ -9,7 +9,7 @@ excerpt: "The 2013 Baz Luhrmann Gatsby analyzed as interpretation: why the spect
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2029-09-10
+last_updated: 2026-09-29
 lang: en
 ---
 A film about a man who throws overwhelming parties to conceal an emptiness was made by a director whose signature is overwhelming parties. That coincidence is either the best argument for the film or the case against it, and which one you think it is determines everything else. The 2013 Baz Luhrmann Gatsby analyzed properly is not a question of whether the excess is too much. It is a question of what the excess is arguing, because it is arguing something, and the critics who split over this film mostly split over whether they were willing to hear it as an argument at all.

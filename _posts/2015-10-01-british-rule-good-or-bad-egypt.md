@@ -9,7 +9,7 @@ excerpt: "British rule gave Egypt order, irrigation, and solvency while denying 
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2015-10-01
+last_updated: 2026-09-29
 lang: en
 ---
 In September 1882, the instrument of British rule arrived in Cairo not on horseback but by railway carriage. The guns at Tel el-Kebir had silenced Ahmed Orabi's nationalist revolt, the streets of Alexandria lay in ashes after the July bombardment, and a British army of occupation settled in as if it meant to stay a season. Evelyn Baring, who would become Lord Cromer, came instead to stay twenty-four years, armed less with rifles than with ledgers. Egypt was bankrupt, its treasury pledged to European bondholders through the Caisse de la Dette, its peasants crushed under taxes that paid for a khedival court of palaces and yachts. Cromer looked at the ruin and saw a problem of arithmetic. Order the accounts, he told London, and order would follow the money. For the next quarter century, Egypt would be governed as the world's most ambitious experiment in honest colonial bookkeeping, and the question that has never quite gone quiet began with those ledgers: was this good for Egypt, or was it a subtler form of ruin?

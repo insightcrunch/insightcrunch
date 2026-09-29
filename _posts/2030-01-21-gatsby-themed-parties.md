@@ -9,7 +9,7 @@ excerpt: "The Gatsby-themed parties aesthetic recreates Jazz Age glamour the nov
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2030-01-21
+last_updated: 2026-09-29
 lang: en
 ---
 ## Celebrating the party the novel mourns

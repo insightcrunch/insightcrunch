@@ -9,7 +9,7 @@ excerpt: "Dissertation topics on Great Gatsby work need originality, scope, and 
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2031-02-03
+last_updated: 2026-09-29
 lang: en
 ---
 Topics with room to dig: dissertation-level Gatsby topics need originality, scope, and a source base, so choosing well means finding a genuine gap, the viable project being one that contributes something the existing scholarship has not yet said rather than restating an essay at length. That single test separates the hundreds of plausible seminar ideas floating around Fitzgerald's 1925 novel from the small handful that can carry a researcher through three to five years of sustained work. A dissertation topics on Great Gatsby search usually returns lists of prompts that belong in an undergraduate essay mill, and the gap between those lists and what a doctoral committee will approve is the subject of this article. What follows is a curated set of dissertation-scale projects across four areas where real archival and textual groundwork remains to be done, together with practical guidance on how each one could be scoped, sourced, and shaped into chapters.

@@ -9,7 +9,7 @@ excerpt: "Gatsby adaptations after copyright flooded shelves with editions, preq
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2029-11-26
+last_updated: 2026-09-29
 lang: en
 ---
 ## What Happens When a Century-Old Novel Belongs to Everyone?

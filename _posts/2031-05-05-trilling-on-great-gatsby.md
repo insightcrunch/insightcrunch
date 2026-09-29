@@ -9,7 +9,7 @@ excerpt: "Lionel Trilling and Great Gatsby: how one critic's documented reading 
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2031-05-05
+last_updated: 2026-09-29
 lang: en
 ---
 ### Why did Trilling's 1945 essay arrive at a decisive moment for Fitzgerald's reputation?

@@ -9,7 +9,7 @@ excerpt: "The Chol Hong Nguyen retelling and others recover the silenced: Nghi V
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2030-03-11
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Retelling Test

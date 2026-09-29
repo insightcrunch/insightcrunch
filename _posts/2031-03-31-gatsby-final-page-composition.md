@@ -9,7 +9,7 @@ excerpt: "The composition history of the final page of The Great Gatsby shows ho
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2031-03-31
+last_updated: 2026-09-29
 lang: en
 ---
 The composition history of the final page of The Great Gatsby is the record of how the most celebrated closing in American fiction came to exist, and the record quietly contradicts the romance that surrounds it. The romance holds that the ending arrived whole, that Fitzgerald wrote the closing meditation in a single inspired pass and that the last page of the novel never needed anything more than transcription. The textual record tells a less romantic and more useful story. Across the surviving stages of the novel's making, from the early drafts through the intermediate typescript that Cambridge published in 2000 under the title Trimalchio to the galley proofs, the ending was drafted, revised, repositioned, and adjusted. Material was relocated into the closing from elsewhere in the narrative. The placement of the closing meditation was settled through revision rather than fixed from the first attempt. The famous close that readers memorize was assembled, not found.

@@ -9,7 +9,7 @@ excerpt: "The hardest passages in Gatsby to read, gathered and unpacked line by 
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 38
 author: "amanda-ross"
-last_updated: 2029-08-20
+last_updated: 2026-09-29
 lang: en
 ---
 "So we beat on, boats against the current, borne back ceaselessly into the past." Most readers meet that sentence, feel something, and could not say what it means if asked. The hardest passages in Gatsby to read are rarely the ones with the longest words. They are the ones where Fitzgerald compresses an abstraction, a physical image, and a shift of grammatical subject into a single clause and then moves on before the reader has caught up. This article gathers those passages, names precisely what makes each one difficult, and supplies a strategy for walking through it.

@@ -9,7 +9,7 @@ excerpt: "How to revise The Great Gatsby for exams: trade rereading for recall d
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 68
 author: "sarah-mitchell"
-last_updated: 2030-07-29
+last_updated: 2026-09-29
 lang: en
 ---
 Learning how to revise The Great Gatsby for exams begins with a decision that most students never consciously make. The decision is what the revision is for. Two students can spend the same three hours with the same novel and arrive at the exam in completely different conditions, because one spent the hours filling a head with facts and the other spent them training the ability to argue under pressure. This guide is written for the second student. Its central claim is simple enough to state in one sentence and demanding enough to organize a whole revision campaign around: revision that builds an arguing mind, not a memorized one. Everything that follows is the method for building that mind with F. Scott Fitzgerald's novel as the material.

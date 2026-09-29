@@ -9,7 +9,7 @@ excerpt: "Marxist scholarship on Great Gatsby maps how critics read class divisi
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2031-03-24
+last_updated: 2026-09-29
 lang: en
 ---
 Marxist scholarship on Great Gatsby criticism is the strand that reads the novel's parties, its shirts, its cars, and its killings as evidence about class. Where generations of readers saw a romance about a self-made man and a careless rich couple, the scholars this article maps saw something more systematic: a social order divided into those who own and those who work, a culture in which things acquire a power over people that economists call commodity fetishism, and a narrative that both exposes and participates in the logic of capital. Their arguments did not arrive as a single thesis. They accumulated across decades, from early readings of the novel's class structure to the full Marxist studies of the nineteen eighties and after, and they continue to be argued over. This article maps that accumulation: its arguments, its evidence, its major studies, and the internal debates that keep it alive.

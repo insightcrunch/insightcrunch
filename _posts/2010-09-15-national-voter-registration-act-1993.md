@@ -9,7 +9,7 @@ excerpt: "The National Voter Registration Act made motor vehicle offices, mail f
 image: "/assets/images/blog/blog-107.webp"
 reading_time: "68"
 author: "simon-hartley"
-last_updated: "2010-09-15"
+last_updated: 2026-09-29
 lang: en
 ---
 ## What the National Voter Registration Act Changed

@@ -9,7 +9,7 @@ excerpt: "Quantitative and digital humanities on Gatsby: stylometry, word freque
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 68
 author: "claire-bennett"
-last_updated: 2031-06-23
+last_updated: 2026-09-29
 lang: en
 ---
 ## Reading the Novel by Counting: Quantitative and Digital Humanities on Gatsby

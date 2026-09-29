@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby graphic novel versions turn Fitzgerald's prose into s
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2029-11-12
+last_updated: 2026-09-29
 lang: en
 ---
 What does a picture know that a camera does not? Every screen version of Fitzgerald's novel wrestles with the same obstacle, which is not the costumes or the parties or the period detail but Nick Carraway's voice, the retrospective and judging and lyrical first-person narration that drives the book from its first page. The Great Gatsby graphic novel answers that difficulty in a different register, not by photographing the Jazz Age but by drawing it, and the result amounts to a claim about what adaptation can be. The stakes are plain: if the comics page can carry Nick's voice where the camera tends to drop it, then the graphic novel is not a shortcut to the real book but an interpretation with authority of its own.

@@ -9,7 +9,7 @@ excerpt: "The authorial intention debate in Gatsby asks if Fitzgerald's letters 
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2031-05-26
+last_updated: 2026-09-29
 lang: en
 ---
 The authorial intention debate in Gatsby asks one of the sharpest questions a reader can put to a novel. When the author's own letters describe what he meant, and his drafts show him changing his mind, do those records govern what the book means, or do they sit outside the meaning entirely? Fitzgerald left an unusually rich paper trail around The Great Gatsby. His correspondence with his editor discusses the title, the structure, and the revision of the proofs; his manuscripts and galleys record passages added, cut, and rewritten before publication in 1925. That documented record sharpens a disagreement that literary theory has carried for a century: whether authorial intention settles meaning, informs it, or has no claim on it at all.

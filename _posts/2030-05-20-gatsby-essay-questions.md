@@ -9,7 +9,7 @@ excerpt: "Great Gatsby essay questions answered: unpack prompts on the dream, ch
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 68
 author: "claire-bennett"
-last_updated: 2030-05-20
+last_updated: 2026-09-29
 lang: en
 ---
 Two essays answer the same question. The question reads: "Discuss the significance of the green light in The Great Gatsby." The first essay opens with a paragraph of plot: the light sits at the end of Daisy's dock, Gatsby stretches his arm toward it in the first chapter, and Nick returns to it in the closing pages. The second essay opens with a claim: the green light organizes the novel's argument about wanting, because it is the one image that stays out of reach while everything else in Gatsby's world can be bought, borrowed, or staged. Both essays are about the green light. Only one of them answers the question, because "discuss the significance of" is not an invitation to describe where the light appears; it is an instruction to argue why those appearances matter to the novel's meaning. The gap between describing and answering is where answers succeed or fail, and that gap is the entire subject of this article.

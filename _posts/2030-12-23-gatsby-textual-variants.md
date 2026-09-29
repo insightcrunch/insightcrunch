@@ -9,7 +9,7 @@ excerpt: "Textual variants in Great Gatsby differ by edition, from the orgastic 
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2030-12-23
+last_updated: 2026-09-29
 lang: en
 ---
 Most students open a copy of The Great Gatsby and assume the words on the page are simply the words Fitzgerald wrote. The textual variants in Great Gatsby destroy that comfort in a productive way: the novel that scholars cite is not quite one text, because editions differ in particular readings, and some of those readings sit at famous, load-bearing passages. The final meditation contains a single word that was misprinted for decades, early printings carry misprints that later editors silently corrected, and the critical editions that researchers trust most were assembled from a patchwork of witnesses, including the manuscript, the revised galley proofs, the 1925 first edition, and Fitzgerald's own annotated copy. This means that a quotation checked against one edition can fail against another, an argument built on a word can rest on a compositor's error rather than an author's choice, and careful work has to name the text it analyzes. This guide maps the significant variants and the editorial cruxes, explains the reasoning behind each editorial choice, and shows how a researcher handles the fact that the novel arrives in more than one form.

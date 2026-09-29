@@ -9,7 +9,7 @@ excerpt: "How to write a Gatsby introduction: frame the question, cut filler and
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 68
 author: "megan-clark"
-last_updated: 2030-04-29
+last_updated: 2026-09-29
 lang: en
 ---
 ## How to Write a Gatsby Introduction That Earns Attention

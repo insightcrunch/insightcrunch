@@ -9,7 +9,7 @@ excerpt: "Modern Egypt was born with the republic and shaped by Nasser, Sadat, a
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 89
 author: "amanda-ross"
-last_updated: 2015-11-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## A Kingdom on Borrowed Time

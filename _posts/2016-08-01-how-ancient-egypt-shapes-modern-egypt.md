@@ -9,7 +9,7 @@ excerpt: "This capstone shows how ancient Egypt remains a living civilization wh
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 84
 author: "diana-patel"
-last_updated: "2016-08-01"
+last_updated: 2026-09-29
 lang: en
 ---
 Egypt is not an ancient ruin but a living civilization whose deep past still shapes its economy, identity, and place in the world. That sentence is easy to print on a poster and harder to prove, so this final article of the series proposes to prove it. Consider the monuments of ancient Egypt as they stood in the years leading up to 2016. The pyramids of Giza rose a short drive from the traffic of Cairo. The temples of Luxor and Karnak anchored whole cities, and the painted tombs of the Valley of the Kings admitted a steady procession of visitors whose spending supported guides, drivers, hotel keepers, and entire towns. The faces of kings dead three thousand years looked out from the banknotes in every market stall. Schoolchildren from Alexandria to Aswan learned the names of those kings before they learned the names of most modern presidents. A past that employs people, prints the money, and teaches the children is not a ruin. It is a working part of the national machinery, and the story of how modern Egypt built that machinery is the subject of what follows.

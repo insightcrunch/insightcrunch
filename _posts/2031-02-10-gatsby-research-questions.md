@@ -9,7 +9,7 @@ excerpt: "Research questions worth asking about Gatsby share three marks: specif
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2031-02-10
+last_updated: 2026-09-29
 lang: en
 ---
 A good question is half the research. The research questions worth asking about Gatsby are not the ones that sound impressive in a seminar; they are the ones that point at evidence, admit more than one defensible answer, and narrow the field of inquiry to something a real investigation can actually settle. Most stalled projects in literary study fail at this first step. The researcher chooses a topic, mistakes the topic for an inquiry, and then discovers months later that there is nothing to argue, because the inquiry was never shaped to produce an argument in the first place. Framing the inquiry well does not guarantee a good project, but framing it badly guarantees a shapeless one.

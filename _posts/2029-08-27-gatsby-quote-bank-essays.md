@@ -9,7 +9,7 @@ excerpt: "Quote banks for Gatsby essays, organized by theme and character, with 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 38
 author: "amanda-ross"
-last_updated: 2029-08-27
+last_updated: 2026-09-29
 lang: en
 ---
 "Gatsby believed in the green light, the orgastic future that year by year recedes before us." That single sentence will serve an essay on the American dream, an essay on time, an essay on Gatsby's psychology, and an essay on the novel's structure. Most students learn it and then use it once. Quote banks for Gatsby essays exist to fix that waste: to store a small number of lines that each do several jobs, sorted so the right one surfaces under exam pressure. This article builds the bank and then teaches the harder skill, which is deploying what it holds.

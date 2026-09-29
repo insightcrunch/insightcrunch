@@ -9,7 +9,7 @@ excerpt: "Anwar Sadat traded war for peace and Sinai for recognition, winning th
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 74
 author: "chloe-martin"
-last_updated: 2016-04-01
+last_updated: 2026-09-29
 lang: en
 ---
 On the morning of 6 October 1981, Anwar Sadat sat in a reviewing stand in Cairo, watching his army parade past in celebration of the war he had launched eight years earlier, and within minutes he was dead. Bullets fired by soldiers in his own armed forces cut him down before the horrified eyes of foreign dignitaries and television cameras, and Egypt lost the most consequential president it had known since the monarchy fell. The man who shared the Nobel Peace Prize in 1978 for making peace with Israel was gunned down by men who saw him as a traitor to the Arab cause, a sequence of events that still startles anyone who first meets it cold. Sadat traded war for peace and the Sinai for recognition, a gamble that made him a global statesman and a target at home; the same act won him the Nobel and cost him his life. How a village boy climbed from the barracks to the presidency, how he outlasted the giants around him, and why the peace he made proved fatal to him, is the story this article tells in full.

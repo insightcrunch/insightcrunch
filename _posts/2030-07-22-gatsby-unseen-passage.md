@@ -9,7 +9,7 @@ excerpt: "Analyze an unseen Gatsby passage cold, fast, and well: annotate the ex
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2030-07-22
+last_updated: 2026-09-29
 lang: en
 ---
 The unseen task asks for analysis of an unfamiliar passage, building a reading from the text and supporting it with broader knowledge. That sentence, kept exact, is the whole method in one line, and this guide turns it into a learnable skill. The claim this article defends has a name: reading cold, fast, and well. A student who can do that owns the most feared moment in a literature examination, the page she has never seen before, and she owns it not through talent but through a disciplined routine of annotation, thesis building, and timed practice. The routine is learnable, the practice is repeatable, and the marks are available to anyone willing to train the skill the way a sprinter trains a start: slowly at first, then at full speed.

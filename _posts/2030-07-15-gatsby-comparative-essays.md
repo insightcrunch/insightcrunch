@@ -9,7 +9,7 @@ excerpt: "Comparative essays using Great Gatsby work when both texts share one f
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 69
 author: "elena-wright"
-last_updated: 2030-07-15
+last_updated: 2026-09-29
 lang: en
 ---
 Comparative essays using Great Gatsby fail in a pattern so consistent that examiners can spot it from the first paragraph. A student writes three paragraphs about Fitzgerald's novel, then three about the other text, then a closing paragraph that gestures at a similarity and calls the job done. The result is not a comparison at all. It is two essays stapled together, and the missing element is not effort or intelligence but a method. The namable claim of this guide is that a strong comparative essay integrates both texts under a shared frame rather than describing them side by side, and that this integration is a teachable move rather than a talent. Every section that follows exists to make the move concrete: what a shared frame looks like inside a thesis, how to choose a pairing that rewards comparison, how to build paragraphs that keep both texts in play, and how to repair an essay that has split into two halves.

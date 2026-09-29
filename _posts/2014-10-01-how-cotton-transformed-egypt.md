@@ -9,7 +9,7 @@ excerpt: "How Egyptian cotton transformed Egypt: from Muhammad Ali's long-staple
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 76
 author: "chloe-martin"
-last_updated: 2014-10-01
+last_updated: 2026-09-29
 lang: en
 ---
 The fields of a Delta village did not change overnight, and that was part of the cruelty of it. A fellah family woke before dawn as it always had, the father and his sons taking hoes to soil that was being converted, season by season, to Egyptian cotton, while the women drew water and prepared the thin flatbread that carried them through the morning. The buffalo lowed in the same mud-brick stable, the children played the same games in the same dust, and yet the purpose of the labor had quietly shifted. The wheat and beans that once filled the family granary were being crowded out, ordered down to a narrow strip at the field's edge, while the rest of the earth was given over to a single demanding crop the family could neither eat nor wear. What had been a household economy, imperfect but legible, was becoming a cog in a machine whose wheels turned in Manchester and Rouen, and the family was among the last to understand it.

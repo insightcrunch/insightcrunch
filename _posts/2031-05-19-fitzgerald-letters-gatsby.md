@@ -9,7 +9,7 @@ excerpt: "Reading fitzgerald's letters about gatsby reveals how the novel was ma
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2031-05-19
+last_updated: 2026-09-29
 lang: en
 ---
 F. Scott Fitzgerald wrote about The Great Gatsby in his letters the way a craftsman writes about a workshop he cannot leave: with pride in the joinery, anxiety about the design, and a running argument with himself about whether the thing would hold. The surviving correspondence documents a writer reporting on a book while the book was still wet, telling his editor what he meant to do, telling friends what he feared had gone wrong, and revising his own account of the work as the drafts accumulated and the proofs came back. That is the namable claim this guide defends. Fitzgerald's letters about Gatsby reveal his intentions, his doubts, and his revisions, and they do so in his own documented words, which makes the correspondence a key primary source for the novel's making. But the same letters require the care any authorial statement demands about intention and hindsight, because a writer's report on his book is evidence to weigh, not a verdict that settles meaning. Hold both halves of that claim together and the letters become one of the most usable instruments in Gatsby scholarship. Let go of either half and they mislead, either by being worshipped as final authority or dismissed as unreliable chatter.

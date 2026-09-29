@@ -9,7 +9,7 @@ excerpt: "How to write a university essay on Gatsby that joins the scholarly con
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2030-11-11
+last_updated: 2026-09-29
 lang: en
 ---
 Learning how to write a university essay on Gatsby begins with a single honest recognition: the audience has changed, and the change reaches every sentence. A school essay answers a question set by a teacher who already knows where the argument can go, and the task is to show that you can build an argument worth following. A university essay enters a field where the question has been argued for generations, and the task is to show that your argument earns a place among those arguments. The novel is the same, the green light is the same, the parties and the ash and the eyes of T. J. Eckleburg are the same, but the reader is different. Your seminar tutor or your marker has read dozens of Gatsby essays and hundreds of pages of published criticism, which means a competent reading of the text that would have scored highly at school arrives at university as the starting line rather than the finish. This article makes one claim and keeps it in view throughout: the step up to the scholarly conversation is the whole of the difference, so the undergraduate essay no longer just analyzes the novel but positions a claim against what critics have argued, and everything else, the secondary sources, the conventions, the tone, the structure, follows from that repositioning.

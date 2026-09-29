@@ -9,7 +9,7 @@ excerpt: "Fitzgerald's revisions in the galley proofs reshaped the novel late: G
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2031-04-07
+last_updated: 2026-09-29
 lang: en
 ---
 Most books cross the proof stage on tiptoe. By the time galleys are pulled, the composition is supposed to be finished, and the writer's job is to catch the errors the typesetters introduced: a dropped letter, a misspelled name, a paragraph out of order. Fitzgerald treated the galley proofs of The Great Gatsby as a composition surface instead. The revisions he made on the proofs were substantial. They were not corrections. They were decisions, and they included the reworking of Gatsby's biography and the reshaping of the middle chapters of the novel, the sixth and the seventh, where the book's architecture bends and then holds.

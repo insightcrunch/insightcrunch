@@ -9,7 +9,7 @@ excerpt: "How Great Gatsby entered the canon is a story of wartime paperbacks, a
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2029-12-24
+last_updated: 2026-09-29
 lang: en
 ---
 ## How Great Gatsby Entered the Canon

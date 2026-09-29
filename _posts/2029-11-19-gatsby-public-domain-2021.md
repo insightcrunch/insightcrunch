@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby public domain shift freed the novel from copyright. L
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 59
 author: "chloe-martin"
-last_updated: 2029-11-19
+last_updated: 2026-09-29
 lang: en
 ---
 What does it mean for a novel to stop belonging to its legal owners and start belonging to everyone at once? The Great Gatsby public domain transition answers that question with unusual clarity, because the date on which the answer changed is exact, the mechanism behind it is a matter of federal statute, and the consequences have reshaped how the book circulates. On January 1, 2021, the novel's US copyright expired, and a text that had spent nearly a century under exclusive control became raw material for anyone with a printing press, a camera, or a keyboard. The stakes of that sentence are larger than they look. Before that morning, adapting the novel, reprinting it in a new edition, or building a sequel on its characters required permission and usually payment. After that morning, none of those things did, at least inside the United States.

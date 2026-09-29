@@ -9,7 +9,7 @@ excerpt: "Egypt's Cultural Awakening: the complete guide to the Nahda, the 19th-
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 74
 author: "rachel-foster"
-last_updated: 2014-11-01
+last_updated: 2026-09-29
 lang: en
 ---
 The Nahda, the cultural awakening that remade Egypt in the nineteenth century, begins in a landscape of scarcity. Around the year 1800, what educated Egyptians knew and made in the cultural domain was considerable by the standards of classical Islamic learning but narrow by the standards of a printing age. Arabic books circulated chiefly as manuscripts, copied by hand in the libraries of al-Azhar and in the households of scholars. A student who wished to read a treatise on grammar, astronomy, or law depended on the copyist's accuracy and the patron's generosity. No Arabic newspaper existed in Egypt. No sustained periodical press carried opinion from Cairo to Alexandria, let alone from Cairo to Beirut or Baghdad. Maps, medical manuals, and technical treatises from the European world reached Arabic readers rarely and indirectly, filtered through a handful of intermediaries who had studied abroad or picked up a foreign tongue. The scholarly culture was real, deep, and continuous with centuries of tradition, but its instruments for multiplying and spreading knowledge were thin.

@@ -9,7 +9,7 @@ excerpt: "Great Gatsby's global readership proves an American story can belong t
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2030-02-25
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Great Gatsby's Global Readership: An American Story the World Made Its Own

@@ -9,7 +9,7 @@ excerpt: "Four mistakes cap Gatsby essay grades: plot summary, dropped quotation
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 68
 author: "sophia-turner"
-last_updated: 2030-08-05
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Errors That Quietly Cap a Grade

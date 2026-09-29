@@ -23392,6 +23392,12 @@ civil-rights-act-1964-complete-guide:
   category: industry
   image: /assets/images/blog/blog-95.webp
   lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 - slug: civil-rights-act-1964-vote-breakdown
   title: Who Voted for the Civil Rights Act of 1964
   url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
@@ -23403,12 +23409,6 @@ civil-rights-act-1964-complete-guide:
   url: /2010/01/15/civil-rights-act-1964-passage-history/
   category: industry
   image: /assets/images/blog/blog-88.webp
-  lang: en
-- slug: civil-rights-act-supreme-court-cases
-  title: The Cases That Shaped the Civil Rights Act
-  url: /2010/03/01/civil-rights-act-supreme-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-69.webp
   lang: en
 constitution-amendment-process-india:
 - slug: 42nd-amendment-act-1976-explained
@@ -23523,17 +23523,17 @@ civil-rights-act-1964-passage-history:
   category: industry
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 - slug: civil-rights-act-1964-titles-explained
   title: The Civil Rights Act of 1964 Title by Title
   url: /2010/02/01/civil-rights-act-1964-titles-explained/
   category: industry
   image: /assets/images/blog/blog-95.webp
-  lang: en
-- slug: civil-rights-act-1964-impact
-  title: What the Civil Rights Act Actually Changed
-  url: /2010/03/15/civil-rights-act-1964-impact/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 first-amendment-act-1951-explained:
 - slug: 42nd-amendment-act-1976-explained
@@ -23929,6 +23929,12 @@ civil-rights-act-supreme-court-cases:
   category: industry
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 - slug: civil-rights-act-1964-titles-explained
   title: The Civil Rights Act of 1964 Title by Title
   url: /2010/02/01/civil-rights-act-1964-titles-explained/
@@ -23940,12 +23946,6 @@ civil-rights-act-supreme-court-cases:
   url: /2010/04/01/civil-rights-act-1991-amendments/
   category: industry
   image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: civil-rights-act-1964-impact
-  title: What the Civil Rights Act Actually Changed
-  url: /2010/03/15/civil-rights-act-1964-impact/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 founding-of-fustat:
 - slug: how-a-slave-army-ruled-egypt
@@ -24071,6 +24071,12 @@ civil-rights-act-1964-impact:
   url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
   category: industry
   image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
   lang: en
 economic-determinism-debate:
 - slug: historical-materialism-complete-guide
@@ -24341,17 +24347,17 @@ civil-rights-act-1964-vote-breakdown:
   category: industry
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 - slug: civil-rights-act-1964-titles-explained
   title: The Civil Rights Act of 1964 Title by Title
   url: /2010/02/01/civil-rights-act-1964-titles-explained/
   category: industry
   image: /assets/images/blog/blog-95.webp
-  lang: en
-- slug: civil-rights-act-1964-impact
-  title: What the Civil Rights Act Actually Changed
-  url: /2010/03/15/civil-rights-act-1964-impact/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 cricket-will-win:
 - slug: facebook-responds-to-open-letter-from-advocacy-groups
@@ -24428,6 +24434,31 @@ citizen-kane-timeline-life-order:
   category: leisure
   image: /assets/images/blog/blog-05.webp
   lang: en
+civil-rights-act-1964-myths:
+- slug: civil-rights-act-1964-complete-guide
+  title: 'The Civil Rights Act of 1964: Complete Guide'
+  url: /2010/01/01/civil-rights-act-1964-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: civil-rights-act-1964-vote-breakdown
+  title: Who Voted for the Civil Rights Act of 1964
+  url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: civil-rights-act-1964-passage-history
+  title: How the Civil Rights Act of 1964 Passed
+  url: /2010/01/15/civil-rights-act-1964-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: civil-rights-act-supreme-court-cases
+  title: The Cases That Shaped the Civil Rights Act
+  url: /2010/03/01/civil-rights-act-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 copts-under-early-islamic-rule:
 - slug: tax-and-land-early-islamic-egypt
   title: 'Tax and Land in Early Islamic Egypt: The Engine of Change'
@@ -24502,6 +24533,31 @@ amazon-online-jobs:
   url: /2022/10/30/which-job-is-best-in-amazon/
   category: industry
   image: /assets/images/blog/blog-68.webp
+  lang: en
+civil-rights-act-vs-voting-rights-act:
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: civil-rights-act-1964-complete-guide
+  title: 'The Civil Rights Act of 1964: Complete Guide'
+  url: /2010/01/01/civil-rights-act-1964-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: civil-rights-act-1964-passage-history
+  title: How the Civil Rights Act of 1964 Passed
+  url: /2010/01/15/civil-rights-act-1964-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
   lang: en
 how-to-watch-citizen-kane-closely:
 - slug: citizen-kane-techniques-complete-guide
@@ -24653,6 +24709,31 @@ tax-and-land-early-islamic-egypt:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
+voting-rights-act-1965-complete-guide:
+- slug: voting-rights-act-section-5-preclearance
+  title: Voting Rights Act Section 5 Preclearance Explained Fully
+  url: /2010/07/01/voting-rights-act-section-5-preclearance/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: civil-rights-act-vs-voting-rights-act
+  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
+  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: civil-rights-act-1964-complete-guide
+  title: 'The Civil Rights Act of 1964: Complete Guide'
+  url: /2010/01/01/civil-rights-act-1964-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 secret-powers-of-time:
 - slug: hitler-echoes-bengalis-sentiments-on-paschimbanga
   title: Hitler echoes Bengali’s sentiments on Paschimbanga
@@ -24802,6 +24883,31 @@ more-high-resolution-satellite-images-on-bing:
   url: /2009/05/28/google-reinvents-email-docs-with-google-wave/
   category: leisure
   image: /assets/images/blog/blog-07.webp
+  lang: en
+voting-rights-act-1965-passage-history:
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: voting-rights-act-section-5-preclearance
+  title: Voting Rights Act Section 5 Preclearance Explained Fully
+  url: /2010/07/01/voting-rights-act-section-5-preclearance/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: voting-rights-act-registration-impact
+  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
+  url: /2010/08/15/voting-rights-act-registration-impact/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: civil-rights-act-vs-voting-rights-act
+  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
+  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
   lang: en
 twitter-has-doubled-in-staff-in-past-6-months:
 - slug: twitter-to-begin-wrapping-up-links-officially-with-t-co-link-shortener
@@ -25096,6 +25202,31 @@ tulunids-first-muslim-dynasty:
   category: leisure
   image: /assets/images/blog/blog-23.webp
   lang: en
+voting-rights-act-section-5-preclearance:
+- slug: civil-rights-act-1964-complete-guide
+  title: 'The Civil Rights Act of 1964: Complete Guide'
+  url: /2010/01/01/civil-rights-act-1964-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: civil-rights-act-supreme-court-cases
+  title: The Cases That Shaped the Civil Rights Act
+  url: /2010/03/01/civil-rights-act-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 yahoo-wants-huffington-post-badly:
 - slug: yahoo-taking-a-dive-into-social-networking
   title: Yahoo! taking a dive into social networking
@@ -25226,6 +25357,31 @@ citizen-kane-flashback-structure:
   url: /2010/10/01/citizen-kane-study-guide-deeper/
   category: leisure
   image: /assets/images/blog/blog-105.webp
+  lang: en
+shelby-county-voting-rights-act-case:
+- slug: teaching-voting-rights-act-guide
+  title: 'Teaching the Voting Rights Act: A Complete Classroom Guide'
+  url: /2010/10/15/teaching-voting-rights-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: voting-rights-act-reauthorizations
+  title: 'Voting Rights Act Reauthorization: Every Extension Explained'
+  url: /2010/08/01/voting-rights-act-reauthorizations/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: voting-rights-act-registration-impact
+  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
+  url: /2010/08/15/voting-rights-act-registration-impact/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: voting-rights-act-vote-coalitions
+  title: 'Voting Rights Act Votes: Every Roll Call in Congress'
+  url: /2010/10/01/voting-rights-act-vote-coalitions/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
   lang: en
 use-value-exchange-value-and-value:
 - slug: marx-on-money-and-the-value-form
@@ -25545,6 +25701,31 @@ mosque-of-amr-early-islamic-egypt:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
+voting-rights-act-reauthorizations:
+- slug: voting-rights-act-registration-impact
+  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
+  url: /2010/08/15/voting-rights-act-registration-impact/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: shelby-county-voting-rights-act-case
+  title: Shelby County Voting Rights Act Challenge Explained
+  url: /2010/07/15/shelby-county-voting-rights-act-case/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: civil-rights-act-vs-voting-rights-act
+  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
+  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
 twitter-spammers-sending-out-malware-via-random-replies:
 - slug: twitter-to-begin-wrapping-up-links-officially-with-t-co-link-shortener
   title: Twitter to begin wrapping up links officially with t.co link shortener
@@ -25738,6 +25919,37 @@ marx-on-money-and-the-value-form:
   category: leisure
   image: /assets/images/blog/blog-68.webp
   lang: en
+voting-rights-act-registration-impact:
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: voting-rights-act-reauthorizations
+  title: 'Voting Rights Act Reauthorization: Every Extension Explained'
+  url: /2010/08/01/voting-rights-act-reauthorizations/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: teaching-voting-rights-act-guide
+  title: 'Teaching the Voting Rights Act: A Complete Classroom Guide'
+  url: /2010/10/15/teaching-voting-rights-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: voting-rights-act-vote-coalitions
+  title: 'Voting Rights Act Votes: Every Roll Call in Congress'
+  url: /2010/10/01/voting-rights-act-vote-coalitions/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: national-voter-registration-act-1993
+  title: 'National Voter Registration Act: The Motor Voter Law'
+  url: /2010/09/15/national-voter-registration-act-1993/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
 android-team-determined-to-bring-new-user-friendly-features-in-its-next-release:
 - slug: google-docs-now-try-the-best-online-tool-without-a-google-account
   title: 'Google Docs: Now try the best online tool without a Google Account'
@@ -25918,6 +26130,31 @@ conquest-or-conversion-islam-egypt:
   url: /2012/05/01/saladin-hero-or-conqueror/
   category: leisure
   image: /assets/images/blog/blog-25.webp
+  lang: en
+help-america-vote-act-2002-guide:
+- slug: voting-rights-act-section-5-preclearance
+  title: Voting Rights Act Section 5 Preclearance Explained Fully
+  url: /2010/07/01/voting-rights-act-section-5-preclearance/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: voting-rights-act-1965-passage-history
+  title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
+  url: /2010/06/15/voting-rights-act-1965-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: voting-rights-act-registration-impact
+  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
+  url: /2010/08/15/voting-rights-act-registration-impact/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
   lang: en
 is-citizen-kane-hard-to-watch:
 - slug: how-to-watch-citizen-kane-closely
@@ -26199,6 +26436,31 @@ marx-vs-marginalist-theory-of-value:
   url: /2010/05/15/marxism-glossary-key-terms/
   category: leisure
   image: /assets/images/blog/blog-62.webp
+  lang: en
+national-voter-registration-act-1993:
+- slug: voting-rights-act-registration-impact
+  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
+  url: /2010/08/15/voting-rights-act-registration-impact/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: voting-rights-act-reauthorizations
+  title: 'Voting Rights Act Reauthorization: Every Extension Explained'
+  url: /2010/08/01/voting-rights-act-reauthorizations/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: help-america-vote-act-2002-guide
+  title: 'Help America Vote Act of 2002: What It Required States to Do'
+  url: /2010/09/01/help-america-vote-act-2002-guide/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
   lang: en
 tcs-ilp-at-infocity-gandhinagar:
 - slug: tcs-ilp-hyderabad
@@ -26675,6 +26937,31 @@ labour-theory-of-value-evidence:
   category: leisure
   image: /assets/images/blog/blog-21.webp
   lang: en
+voting-rights-act-vote-coalitions:
+- slug: teaching-voting-rights-act-guide
+  title: 'Teaching the Voting Rights Act: A Complete Classroom Guide'
+  url: /2010/10/15/teaching-voting-rights-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: voting-rights-act-registration-impact
+  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
+  url: /2010/08/15/voting-rights-act-registration-impact/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: shelby-county-voting-rights-act-case
+  title: Shelby County Voting Rights Act Challenge Explained
+  url: /2010/07/15/shelby-county-voting-rights-act-case/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
 hamlet-character-analysis-deep-dive:
 - slug: gertrude-hamlet-character-analysis
   title: Gertrude Character Analysis in Hamlet
@@ -26855,6 +27142,31 @@ tcs-split-wide-open-guest-post:
   url: /2023/09/13/tcs-ninja-guide/
   category: industry
   image: /assets/images/blog/blog-06.webp
+  lang: en
+teaching-voting-rights-act-guide:
+- slug: shelby-county-voting-rights-act-case
+  title: Shelby County Voting Rights Act Challenge Explained
+  url: /2010/07/15/shelby-county-voting-rights-act-case/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: voting-rights-act-vote-coalitions
+  title: 'Voting Rights Act Votes: Every Roll Call in Congress'
+  url: /2010/10/01/voting-rights-act-vote-coalitions/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: voting-rights-act-registration-impact
+  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
+  url: /2010/08/15/voting-rights-act-registration-impact/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
   lang: en
 tcs-2010-q2-results:
 - slug: tcs-q1-results-tata-consultancy-services-fy-freshers-rejoice
@@ -27180,6 +27492,31 @@ fatimid-egypt-complete-guide:
   url: /2010/09/01/conquest-or-conversion-islam-egypt/
   category: leisure
   image: /assets/images/blog/blog-81.webp
+  lang: en
+social-security-amendments-1965-medicare:
+- slug: civil-rights-act-1964-impact
+  title: What the Civil Rights Act Actually Changed
+  url: /2010/03/15/civil-rights-act-1964-impact/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: voting-rights-act-1965-passage-history
+  title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
+  url: /2010/06/15/voting-rights-act-1965-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: voting-rights-act-reauthorizations
+  title: 'Voting Rights Act Reauthorization: Every Extension Explained'
+  url: /2010/08/01/voting-rights-act-reauthorizations/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
   lang: en
 a-story-between-tcs-and-infosys:
 - slug: tcs-vs-accenture-comparison-at-granular-level
@@ -63656,6 +63993,12 @@ how-to-read-great-gatsby-closely:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: gatsby-hardest-passages
+  title: The Hardest Passages in Gatsby to Read
+  url: /2029/08/20/gatsby-hardest-passages/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
 - slug: gatsby-catalogue-technique
   title: The Catalogue Technique in The Great Gatsby
   url: /2026/07/20/gatsby-catalogue-technique/
@@ -63667,12 +64010,6 @@ how-to-read-great-gatsby-closely:
   url: /2027/09/20/formalist-reading-gatsby/
   category: leisure
   image: /assets/images/blog/blog-32.webp
-  lang: en
-- slug: gatsby-point-of-view
-  title: Narrative Point of View in The Great Gatsby
-  url: /2026/01/12/gatsby-point-of-view/
-  category: leisure
-  image: /assets/images/blog/blog-21.webp
   lang: en
 when-did-shakespeare-write-romeo-and-juliet:
 - slug: romeo-and-juliet-shakespeare-first-tragedy
@@ -64224,11 +64561,11 @@ is-great-gatsby-hard-to-read:
   category: leisure
   image: /assets/images/blog/blog-85.webp
   lang: en
-- slug: fitzgerald-prose-style
-  title: Fitzgerald's Prose Style in The Great Gatsby
-  url: /2026/02/09/fitzgerald-prose-style/
+- slug: gatsby-global-readership
+  title: 'Great Gatsby''s Global Readership: A World of Readers'
+  url: /2030/02/25/gatsby-global-readership/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-56.webp
   lang: en
 meta-hiring-freeze:
 - slug: is-meta-in-a-hiring-freeze
@@ -64393,6 +64730,12 @@ great-gatsby-study-guide-deeper:
   category: leisure
   image: /assets/images/blog/blog-43.webp
   lang: en
+- slug: gatsby-quote-bank-essays
+  title: Quote Banks for Gatsby Essays
+  url: /2029/08/27/gatsby-quote-bank-essays/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: combining-lenses-gatsby
   title: Combining Critical Lenses on The Great Gatsby
   url: /2028/04/10/combining-lenses-gatsby/
@@ -64404,12 +64747,6 @@ great-gatsby-study-guide-deeper:
   url: /2028/03/27/apply-critical-lens-gatsby/
   category: leisure
   image: /assets/images/blog/blog-10.webp
-  lang: en
-- slug: choosing-critical-lens-gatsby
-  title: Choosing a Critical Lens for a Gatsby Essay
-  url: /2028/04/03/choosing-critical-lens-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
   lang: en
 could-romeo-and-juliet-end-happily:
 - slug: who-is-to-blame-romeo-and-juliet-deaths
@@ -72072,6 +72409,37 @@ tcs-ninja-aptitude:
   category: industry
   image: /assets/images/blog/blog-22.webp
   lang: en
+klipspringer-character-analysis:
+- slug: jordan-baker-character-analysis
+  title: 'Jordan Baker: A Complete Character Analysis'
+  url: /2023/07/31/jordan-baker-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: daisy-buchanan-character-analysis
+  title: 'Daisy Buchanan: A Complete Character Analysis'
+  url: /2023/06/26/daisy-buchanan-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: gatsby-minor-characters-mapped
+  title: The Great Gatsby's Minor Characters Mapped
+  url: /2023/11/06/gatsby-minor-characters-mapped/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: gatsby-character-introductions
+  title: How Fitzgerald Introduces Each Character
+  url: /2024/03/04/gatsby-character-introductions/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: gatsby-hangers-on
+  title: Ewing Klipspringer and Gatsby's Hangers-On
+  url: /2023/10/30/gatsby-hangers-on/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
 load-balancer-vs-app-gateway:
 - slug: front-door-vs-cdn-vs-gateway
   title: Azure Front Door vs CDN vs Application Gateway
@@ -72460,6 +72828,12 @@ azure-firewall-vs-nva-vs-nsg:
   image: /assets/images/blog/blog-84.webp
   lang: en
 gatsby-hangers-on:
+- slug: klipspringer-character-analysis
+  title: 'Klipspringer: The Boarder Who Stayed to Play the Piano'
+  url: /2023/10/02/klipspringer-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 - slug: gatsby-characterization-technique
   title: Characterization Techniques in Gatsby
   url: /2026/05/11/gatsby-characterization-technique/
@@ -72477,12 +72851,6 @@ gatsby-hangers-on:
   url: /2023/11/06/gatsby-minor-characters-mapped/
   category: leisure
   image: /assets/images/blog/blog-56.webp
-  lang: en
-- slug: real-models-for-gatsby
-  title: The Real-Life Models for Jay Gatsby
-  url: /2026/12/07/real-models-for-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-106.webp
   lang: en
 tcs-interview-questions:
 - slug: tcs-interview-tips
@@ -72541,6 +72909,12 @@ gatsby-minor-characters-mapped:
   category: leisure
   image: /assets/images/blog/blog-23.webp
   lang: en
+- slug: klipspringer-character-analysis
+  title: 'Klipspringer: The Boarder Who Stayed to Play the Piano'
+  url: /2023/10/02/klipspringer-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 - slug: great-gatsby-characters-complete-map
   title: 'The Great Gatsby Characters: The Complete Map'
   url: /2022/02/07/great-gatsby-characters-complete-map/
@@ -72550,12 +72924,6 @@ gatsby-minor-characters-mapped:
 - slug: gatsby-character-names-meaning
   title: 'Naming in The Great Gatsby: What Names Mean'
   url: /2024/04/15/gatsby-character-names-meaning/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: gatsby-characterization-technique
-  title: Characterization Techniques in Gatsby
-  url: /2026/05/11/gatsby-characterization-technique/
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
@@ -73389,6 +73757,12 @@ daisy-and-jordan-contrast:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: gatsby-feminist-women
+  title: 'The Women of Gatsby Through a Feminist Lens: Three Cages'
+  url: /2027/08/16/gatsby-feminist-women/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 - slug: daisy-and-myrtle-parallels
   title: Daisy and Myrtle as Parallel Women
   url: /2024/01/01/daisy-and-myrtle-parallels/
@@ -73400,12 +73774,6 @@ daisy-and-jordan-contrast:
   url: /2023/07/31/jordan-baker-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: daisy-buchanan-character-analysis
-  title: 'Daisy Buchanan: A Complete Character Analysis'
-  url: /2023/06/26/daisy-buchanan-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-76.webp
   lang: en
 gaokao-ruc-admission-guide:
 - slug: gaokao-tju-admission-guide
@@ -73620,6 +73988,12 @@ gatsby-women-compared:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: gatsby-feminist-women
+  title: 'The Women of Gatsby Through a Feminist Lens: Three Cages'
+  url: /2027/08/16/gatsby-feminist-women/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 - slug: gender-roles-great-gatsby
   title: Gender Roles in The Great Gatsby
   url: /2024/08/26/gender-roles-great-gatsby/
@@ -73631,18 +74005,6 @@ gatsby-women-compared:
   url: /2023/07/31/jordan-baker-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: daisy-buchanan-character-analysis
-  title: 'Daisy Buchanan: A Complete Character Analysis'
-  url: /2023/06/26/daisy-buchanan-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-76.webp
-  lang: en
-- slug: daisy-and-jordan-contrast
-  title: Daisy and Jordan as Contrasting Women
-  url: /2024/01/08/daisy-and-jordan-contrast/
-  category: leisure
-  image: /assets/images/blog/blog-116.webp
   lang: en
 gaokao-hust-admission-guide:
 - slug: gaokao-sysu-admission-guide
@@ -75643,6 +76005,12 @@ gaokao-chemistry-organic:
   image: /assets/images/blog/blog-106.webp
   lang: zh
 gatsby-past-and-time:
+- slug: gatsby-quote-bank-essays
+  title: Quote Banks for Gatsby Essays
+  url: /2029/08/27/gatsby-quote-bank-essays/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: gatsby-quotes-time-past
   title: Key Quotes About Time and the Past
   url: /2029/06/18/gatsby-quotes-time-past/
@@ -75660,12 +76028,6 @@ gatsby-past-and-time:
   url: /2026/07/13/gatsby-understatement/
   category: leisure
   image: /assets/images/blog/blog-94.webp
-  lang: en
-- slug: gatsby-eyes-seeing-motif
-  title: The Motif of Eyes and Seeing in The Great Gatsby
-  url: /2025/03/17/gatsby-eyes-seeing-motif/
-  category: leisure
-  image: /assets/images/blog/blog-110.webp
   lang: en
 hub-spoke-vs-virtual-wan:
 - slug: azure-virtual-wan-deep-dive
@@ -76691,17 +77053,17 @@ marriage-infidelity-gatsby:
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
+- slug: gatsby-quote-bank-essays
+  title: Quote Banks for Gatsby Essays
+  url: /2029/08/27/gatsby-quote-bank-essays/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: choosing-critical-lens-gatsby
   title: Choosing a Critical Lens for a Gatsby Essay
   url: /2028/04/03/choosing-critical-lens-gatsby/
   category: leisure
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: gatsby-quotes-time-past
-  title: Key Quotes About Time and the Past
-  url: /2029/06/18/gatsby-quotes-time-past/
-  category: leisure
-  image: /assets/images/blog/blog-101.webp
   lang: en
 gaokao-math-vectors:
 - slug: gaokao-math-permutations-combinations
@@ -79742,6 +80104,12 @@ eyes-of-tj-eckleburg:
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
+- slug: eckleburg-critical-debate
+  title: 'The Eckleburg Eyes: A Critical Debate Mapped for Readers'
+  url: /2031/02/17/eckleburg-critical-debate/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
 why-suwalki-gap-hard-to-defend:
 - slug: suwalki-gap-nato-weakest-point
   title: 'The Suwalki Gap: NATO''s Weakest Point'
@@ -80415,6 +80783,12 @@ gatsby-parties-symbol:
   url: /2025/05/19/gatsby-mansion-symbol/
   category: leisure
   image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-themed-parties
+  title: 'Gatsby-Themed Parties Aesthetic: Glamour the Novel Mourns'
+  url: /2030/01/21/gatsby-themed-parties/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
   lang: en
 system-design-interview-guide:
 - slug: dsa-interview-preparation-guide
@@ -83345,11 +83719,11 @@ gatsby-garden-imagery:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: gatsby-parties-symbol
-  title: Gatsby's Parties as Symbol and Spectacle
-  url: /2025/05/26/gatsby-parties-symbol/
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
   category: leisure
-  image: /assets/images/blog/blog-92.webp
+  image: /assets/images/blog/blog-71.webp
   lang: en
 free-tools-for-small-business-owners:
 - slug: 50-free-browser-tools-every-chromebook-user-needs
@@ -83539,17 +83913,17 @@ gatsby-mirrors-reflection:
   category: leisure
   image: /assets/images/blog/blog-60.webp
   lang: en
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: heat-imagery-great-gatsby
   title: Heat and Temperature Imagery in Gatsby
   url: /2025/09/29/heat-imagery-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: water-rain-imagery-gatsby
-  title: Water and Rain Imagery in The Great Gatsby
-  url: /2025/08/18/water-rain-imagery-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-85.webp
   lang: en
 tripwire-forces-eastern-flank:
 - slug: how-nato-reinforces-eastern-flank
@@ -85062,6 +85436,12 @@ gatsby-syntax-rhythm:
   category: leisure
   image: /assets/images/blog/blog-81.webp
   lang: en
+- slug: gatsby-hardest-passages
+  title: The Hardest Passages in Gatsby to Read
+  url: /2029/08/20/gatsby-hardest-passages/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
 - slug: gatsby-catalogue-technique
   title: The Catalogue Technique in The Great Gatsby
   url: /2026/07/20/gatsby-catalogue-technique/
@@ -85073,12 +85453,6 @@ gatsby-syntax-rhythm:
   url: /2022/03/07/how-to-read-great-gatsby-closely/
   category: leisure
   image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: fitzgerald-prose-style
-  title: Fitzgerald's Prose Style in The Great Gatsby
-  url: /2026/02/09/fitzgerald-prose-style/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 bollywood-patriotic-films-that-defined-generation:
 - slug: why-dhurandhar-changed-bollywood-forever
@@ -86873,6 +87247,12 @@ gatsby-dialogue-technique:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
 - slug: how-to-read-great-gatsby-closely
   title: How to Read The Great Gatsby Closely
   url: /2022/03/07/how-to-read-great-gatsby-closely/
@@ -86884,12 +87264,6 @@ gatsby-dialogue-technique:
   url: /2028/05/01/gatsby-vs-tender-is-the-night/
   category: leisure
   image: /assets/images/blog/blog-88.webp
-  lang: en
-- slug: gatsby-free-indirect-discourse
-  title: Free Indirect Discourse in The Great Gatsby
-  url: /2026/09/07/gatsby-free-indirect-discourse/
-  category: leisure
-  image: /assets/images/blog/blog-03.webp
   lang: en
 - slug: gatsby-figurative-language-lines
   title: Figurative Language in Gatsby's Best Lines
@@ -87508,12 +87882,6 @@ gatsby-characterization-technique:
   url: /2026/07/13/gatsby-understatement/
   category: leisure
   image: /assets/images/blog/blog-94.webp
-  lang: en
-- slug: gatsby-hangers-on
-  title: Ewing Klipspringer and Gatsby's Hangers-On
-  url: /2023/10/30/gatsby-hangers-on/
-  category: leisure
-  image: /assets/images/blog/blog-25.webp
   lang: en
 how-to-buy-lollapalooza-tickets:
 - slug: lollapalooza-tickets-complete-guide
@@ -88976,11 +89344,11 @@ gatsby-structure-technique:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: gatsby-lyricism
-  title: Lyricism and the Poetic Line in Gatsby
-  url: /2026/07/27/gatsby-lyricism/
+- slug: fitzgerald-prose-style
+  title: Fitzgerald's Prose Style in The Great Gatsby
+  url: /2026/02/09/fitzgerald-prose-style/
   category: leisure
-  image: /assets/images/blog/blog-81.webp
+  image: /assets/images/blog/blog-01.webp
   lang: en
 lollapalooza-kids-or-sitter:
 - slug: best-ages-for-kids-lollapalooza
@@ -89644,6 +90012,12 @@ gatsby-repetition-technique:
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
+- slug: fitzgerald-prose-style
+  title: Fitzgerald's Prose Style in The Great Gatsby
+  url: /2026/02/09/fitzgerald-prose-style/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 - slug: gatsby-flashback-chronology
   title: Flashback and Chronology in The Great Gatsby
   url: /2026/04/27/gatsby-flashback-chronology/
@@ -89655,12 +90029,6 @@ gatsby-repetition-technique:
   url: /2026/07/20/gatsby-catalogue-technique/
   category: leisure
   image: /assets/images/blog/blog-58.webp
-  lang: en
-- slug: gatsby-foreshadowing
-  title: Foreshadowing in The Great Gatsby
-  url: /2026/03/23/gatsby-foreshadowing/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 lollapalooza-aftershows-guide:
 - slug: lollapalooza-around-the-world
@@ -96526,17 +96894,17 @@ gatsby-allusion:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
-- slug: gatsby-catalogue-technique
-  title: The Catalogue Technique in The Great Gatsby
-  url: /2026/07/20/gatsby-catalogue-technique/
+- slug: gatsby-point-of-view
+  title: Narrative Point of View in The Great Gatsby
+  url: /2026/01/12/gatsby-point-of-view/
   category: leisure
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-21.webp
   lang: en
-- slug: gatsby-vs-tender-is-the-night
-  title: The Great Gatsby vs Tender Is the Night
-  url: /2028/05/01/gatsby-vs-tender-is-the-night/
+- slug: gatsby-free-indirect-discourse
+  title: Free Indirect Discourse in The Great Gatsby
+  url: /2026/09/07/gatsby-free-indirect-discourse/
   category: leisure
-  image: /assets/images/blog/blog-88.webp
+  image: /assets/images/blog/blog-03.webp
   lang: en
 germany-vs-paraguay-preview:
 - slug: germany-vs-paraguay-analysis
@@ -98644,6 +99012,12 @@ gatsby-lyricism:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
+- slug: gatsby-hardest-passages
+  title: The Hardest Passages in Gatsby to Read
+  url: /2029/08/20/gatsby-hardest-passages/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
 - slug: gatsby-catalogue-technique
   title: The Catalogue Technique in The Great Gatsby
   url: /2026/07/20/gatsby-catalogue-technique/
@@ -98655,12 +99029,6 @@ gatsby-lyricism:
   url: /2029/01/01/gatsby-last-line-explained/
   category: leisure
   image: /assets/images/blog/blog-37.webp
-  lang: en
-- slug: how-to-read-great-gatsby-closely
-  title: How to Read The Great Gatsby Closely
-  url: /2022/03/07/how-to-read-great-gatsby-closely/
-  category: leisure
-  image: /assets/images/blog/blog-85.webp
   lang: en
 russias-best-path-to-a-nato-war:
 - slug: can-russia-rebuild-for-nato-war
@@ -98775,17 +99143,17 @@ gatsby-gaps-ellipses:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 - slug: gatsby-irony
   title: 'Irony in The Great Gatsby: The Novel''s Basic Mode'
   url: /2026/03/30/gatsby-irony/
   category: leisure
   image: /assets/images/blog/blog-115.webp
-  lang: en
-- slug: gatsby-brevity-craft
-  title: How The Great Gatsby Achieves Its Brevity
-  url: /2026/10/12/gatsby-brevity-craft/
-  category: leisure
-  image: /assets/images/blog/blog-91.webp
   lang: en
 russian-military-recovery-in-history:
 - slug: reading-russian-military-intentions
@@ -99069,6 +99437,12 @@ gatsby-vagueness-mystery:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+- slug: gatsby-catalogue-technique
+  title: The Catalogue Technique in The Great Gatsby
+  url: /2026/07/20/gatsby-catalogue-technique/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 - slug: gatsby-beginnings-endings-craft
   title: Beginnings and Endings as Craft in Gatsby
   url: /2026/08/31/gatsby-beginnings-endings-craft/
@@ -99080,12 +99454,6 @@ gatsby-vagueness-mystery:
   url: /2026/08/17/gatsby-gaps-ellipses/
   category: leisure
   image: /assets/images/blog/blog-25.webp
-  lang: en
-- slug: gatsby-lyricism
-  title: Lyricism and the Poetic Line in Gatsby
-  url: /2026/07/27/gatsby-lyricism/
-  category: leisure
-  image: /assets/images/blog/blog-81.webp
   lang: en
 poland-as-ukraines-lifeline:
 - slug: polands-stake-in-ukraines-war
@@ -99161,12 +99529,6 @@ jazz-age-great-gatsby:
   url: /2026/11/16/zelda-fitzgerald-gatsby/
   category: leisure
   image: /assets/images/blog/blog-34.webp
-  lang: en
-- slug: jazz-music-culture-gatsby
-  title: Music and Jazz Culture in The Great Gatsby
-  url: /2027/05/10/jazz-music-culture-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-84.webp
   lang: en
 ukraine-ceasefire-safer-or-riskier:
 - slug: war-spillover-risks-poland-border
@@ -100410,11 +100772,11 @@ jazz-music-culture-gatsby:
   category: leisure
   image: /assets/images/blog/blog-92.webp
   lang: en
-- slug: lost-generation-great-gatsby
-  title: The Lost Generation and The Great Gatsby
-  url: /2026/12/21/lost-generation-great-gatsby/
+- slug: gatsby-in-pop-culture
+  title: 'Great Gatsby pop culture: known by people who never read it'
+  url: /2030/01/14/gatsby-in-pop-culture/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-85.webp
   lang: en
 gatsby-era-fashion:
 - slug: gatsby-era-historical-myths
@@ -100541,11 +100903,11 @@ stock-boom-before-crash-gatsby:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: 1920s-explain-gatsby
-  title: Why the 1920s Still Explain The Great Gatsby
-  url: /2027/07/12/1920s-explain-gatsby/
+- slug: gatsby-vs-tender-is-the-night
+  title: The Great Gatsby vs Tender Is the Night
+  url: /2028/05/01/gatsby-vs-tender-is-the-night/
   category: leisure
-  image: /assets/images/blog/blog-92.webp
+  image: /assets/images/blog/blog-88.webp
   lang: en
 1920s-readers-gatsby:
 - slug: gatsby-1925-publication
@@ -100691,17 +101053,17 @@ marxist-reading-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
+- slug: new-critics-great-gatsby
+  title: 'The New Critics and Great Gatsby: Close Reading Canonized'
+  url: /2031/04/28/new-critics-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 - slug: gatsby-foreshadowing
   title: Foreshadowing in The Great Gatsby
   url: /2026/03/23/gatsby-foreshadowing/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: gatsby-dialogue-technique
-  title: Dialogue and Speech in The Great Gatsby
-  url: /2026/05/04/gatsby-dialogue-technique/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
   lang: en
 gatsby-marxist-class-conflict:
 - slug: gatsby-freudian-desire
@@ -100753,6 +101115,31 @@ feminist-reading-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-45.webp
   lang: en
+gatsby-feminist-women:
+- slug: gatsby-women-compared
+  title: The Women of The Great Gatsby Compared
+  url: /2024/01/22/gatsby-women-compared/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: daisy-and-jordan-contrast
+  title: Daisy and Jordan as Contrasting Women
+  url: /2024/01/08/daisy-and-jordan-contrast/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: daisy-and-myrtle-parallels
+  title: Daisy and Myrtle as Parallel Women
+  url: /2024/01/01/daisy-and-myrtle-parallels/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: tom-and-myrtle-affair
+  title: 'Tom and Myrtle: The Affair Analyzed'
+  url: /2023/12/04/tom-and-myrtle-affair/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
 psychoanalytic-reading-gatsby:
 - slug: structuralist-reading-gatsby
   title: A Structuralist Reading of The Great Gatsby
@@ -100777,6 +101164,12 @@ psychoanalytic-reading-gatsby:
   url: /2028/02/14/postmodern-reading-gatsby/
   category: leisure
   image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: gatsby-challenged-banned
+  title: 'why Great Gatsby challenged banned: a factual history'
+  url: /2030/01/07/gatsby-challenged-banned/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
   lang: en
 gatsby-freudian-desire:
 - slug: psychoanalytic-reading-gatsby
@@ -100828,11 +101221,11 @@ new-historicist-gatsby:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
-- slug: space-place-theory-gatsby
-  title: Space and Place Theory in The Great Gatsby
-  url: /2028/02/07/space-place-theory-gatsby/
+- slug: gatsby-public-domain-2021
+  title: 'Great Gatsby Public Domain: How the Novel Became Everyone''s'
+  url: /2029/11/19/gatsby-public-domain-2021/
   category: leisure
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-71.webp
   lang: en
 reader-response-gatsby:
 - slug: deconstruction-great-gatsby
@@ -100866,6 +101259,12 @@ formalist-reading-gatsby:
   category: leisure
   image: /assets/images/blog/blog-84.webp
   lang: en
+- slug: new-critics-great-gatsby
+  title: 'The New Critics and Great Gatsby: Close Reading Canonized'
+  url: /2031/04/28/new-critics-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 - slug: gatsby-allusion
   title: Allusion in The Great Gatsby
   url: /2026/06/29/gatsby-allusion/
@@ -100877,12 +101276,6 @@ formalist-reading-gatsby:
   url: /2022/03/07/how-to-read-great-gatsby-closely/
   category: leisure
   image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: gatsby-vs-beautiful-and-damned
-  title: The Great Gatsby vs The Beautiful and Damned
-  url: /2028/05/15/gatsby-vs-beautiful-and-damned/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
   lang: en
 - slug: gatsby-vs-sun-also-rises
   title: Gatsby vs The Sun Also Rises
@@ -100990,12 +101383,6 @@ is-nick-carraway-queer-coded:
   category: leisure
   image: /assets/images/blog/blog-90.webp
   lang: en
-- slug: nick-witness-narrator-tradition
-  title: Nick Carraway and the Witness-Narrator Tradition
-  url: /2028/08/14/nick-witness-narrator-tradition/
-  category: leisure
-  image: /assets/images/blog/blog-116.webp
-  lang: en
 ecocritical-reading-gatsby:
 - slug: color-grey-great-gatsby
   title: The Color Grey in The Great Gatsby
@@ -101047,6 +101434,12 @@ structuralist-reading-gatsby:
   image: /assets/images/blog/blog-01.webp
   lang: en
 critical-race-theory-gatsby:
+- slug: gatsby-adaptation-wave-2021
+  title: 'Gatsby Adaptations After Copyright: What the New Wave Means'
+  url: /2029/11/26/gatsby-adaptation-wave-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: whiteness-studies-gatsby
   title: Whiteness Studies and The Great Gatsby
   url: /2027/11/15/whiteness-studies-gatsby/
@@ -101064,12 +101457,6 @@ critical-race-theory-gatsby:
   url: /2027/03/08/gatsby-1925-publication/
   category: leisure
   image: /assets/images/blog/blog-55.webp
-  lang: en
-- slug: maxwell-perkins-editing-gatsby
-  title: Maxwell Perkins and the Editing of Gatsby
-  url: /2027/03/29/maxwell-perkins-editing-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-112.webp
   lang: en
 whiteness-studies-gatsby:
 - slug: trauma-theory-great-gatsby
@@ -101090,11 +101477,11 @@ whiteness-studies-gatsby:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
-- slug: critical-race-theory-gatsby
-  title: Race and Critical Race Theory in Gatsby
-  url: /2027/11/08/critical-race-theory-gatsby/
+- slug: gatsby-public-domain-2021
+  title: 'Great Gatsby Public Domain: How the Novel Became Everyone''s'
+  url: /2029/11/19/gatsby-public-domain-2021/
   category: leisure
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-71.webp
   lang: en
 gender-theory-great-gatsby:
 - slug: affect-theory-gatsby
@@ -101134,17 +101521,17 @@ masculinity-studies-gatsby:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+- slug: gatsby-film-casting
+  title: 'Casting Gatsby: How Each Film Cast the Roles'
+  url: /2029/10/22/gatsby-film-casting/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
 - slug: gatsby-doomed-romantic-hero
   title: Gatsby and the Doomed Romantic Hero
   url: /2028/09/25/gatsby-doomed-romantic-hero/
   category: leisure
   image: /assets/images/blog/blog-37.webp
-  lang: en
-- slug: jay-gatsby-idealist-or-criminal
-  title: 'Jay Gatsby: Romantic Idealist or Criminal?'
-  url: /2023/05/22/jay-gatsby-idealist-or-criminal/
-  category: leisure
-  image: /assets/images/blog/blog-68.webp
   lang: en
 trauma-theory-great-gatsby:
 - slug: space-place-theory-gatsby
@@ -101472,6 +101859,12 @@ gatsby-critical-history:
   image: /assets/images/blog/blog-63.webp
   lang: en
 famous-gatsby-essays:
+- slug: how-to-read-great-gatsby-closely
+  title: How to Read The Great Gatsby Closely
+  url: /2022/03/07/how-to-read-great-gatsby-closely/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
 - slug: combining-lenses-gatsby
   title: Combining Critical Lenses on The Great Gatsby
   url: /2028/04/10/combining-lenses-gatsby/
@@ -101489,12 +101882,6 @@ famous-gatsby-essays:
   url: /2028/03/13/debates-over-gatsby-greatness/
   category: leisure
   image: /assets/images/blog/blog-45.webp
-  lang: en
-- slug: gatsby-modernist-technique
-  title: Modernist Technique in The Great Gatsby
-  url: /2026/08/03/gatsby-modernist-technique/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 debates-over-gatsby-greatness:
 - slug: famous-gatsby-essays
@@ -101671,6 +102058,12 @@ most-defensible-gatsby-reading:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+- slug: gatsby-vs-jay-z-reading
+  title: Gatsby vs Jay-Z's Reading of Gatsby
+  url: /2028/07/24/gatsby-vs-jay-z-reading/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
 gatsby-vs-tender-is-the-night:
 - slug: gatsby-vs-this-side-of-paradise
   title: The Great Gatsby vs This Side of Paradise
@@ -101678,23 +102071,23 @@ gatsby-vs-tender-is-the-night:
   category: leisure
   image: /assets/images/blog/blog-26.webp
   lang: en
+- slug: gatsby-dialogue-technique
+  title: Dialogue and Speech in The Great Gatsby
+  url: /2026/05/04/gatsby-dialogue-technique/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: gatsby-1925-publication
   title: The Great Gatsby's 1925 Publication Story
   url: /2027/03/08/gatsby-1925-publication/
   category: leisure
   image: /assets/images/blog/blog-55.webp
   lang: en
-- slug: trauma-theory-great-gatsby
-  title: Trauma Theory and The Great Gatsby
-  url: /2027/12/06/trauma-theory-great-gatsby/
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
   category: leisure
-  image: /assets/images/blog/blog-55.webp
-  lang: en
-- slug: gatsby-modernist-technique
-  title: Modernist Technique in The Great Gatsby
-  url: /2026/08/03/gatsby-modernist-technique/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-50.webp
   lang: en
 gatsby-vs-this-side-of-paradise:
 - slug: gatsby-1925-publication
@@ -101709,17 +102102,17 @@ gatsby-vs-this-side-of-paradise:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
 - slug: gatsby-foreshadowing
   title: Foreshadowing in The Great Gatsby
   url: /2026/03/23/gatsby-foreshadowing/
   category: leisure
   image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: trauma-theory-great-gatsby
-  title: Trauma Theory and The Great Gatsby
-  url: /2027/12/06/trauma-theory-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-55.webp
   lang: en
 gatsby-vs-beautiful-and-damned:
 - slug: gatsby-gaps-ellipses
@@ -101734,17 +102127,17 @@ gatsby-vs-beautiful-and-damned:
   category: leisure
   image: /assets/images/blog/blog-26.webp
   lang: en
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
 - slug: gatsby-brevity-craft
   title: How The Great Gatsby Achieves Its Brevity
   url: /2026/10/12/gatsby-brevity-craft/
   category: leisure
   image: /assets/images/blog/blog-91.webp
-  lang: en
-- slug: gatsby-foreshadowing
-  title: Foreshadowing in The Great Gatsby
-  url: /2026/03/23/gatsby-foreshadowing/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 gatsby-vs-death-of-a-salesman:
 - slug: gatsby-self-made-man-literature
@@ -101971,11 +102364,11 @@ gatsby-vs-wuthering-heights:
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: gatsby-doomed-romantic-hero
-  title: Gatsby and the Doomed Romantic Hero
-  url: /2028/09/25/gatsby-doomed-romantic-hero/
+- slug: trauma-theory-great-gatsby
+  title: Trauma Theory and The Great Gatsby
+  url: /2027/12/06/trauma-theory-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-37.webp
+  image: /assets/images/blog/blog-55.webp
   lang: en
 gatsby-vs-jay-z-reading:
 - slug: most-defensible-gatsby-reading
@@ -101996,11 +102389,11 @@ gatsby-vs-jay-z-reading:
   category: leisure
   image: /assets/images/blog/blog-110.webp
   lang: en
-- slug: gatsby-self-made-man-literature
-  title: Gatsby and the Self-Made Man in Literature
-  url: /2028/09/04/gatsby-self-made-man-literature/
+- slug: gatsby-film-casting
+  title: 'Casting Gatsby: How Each Film Cast the Roles'
+  url: /2029/10/22/gatsby-film-casting/
   category: leisure
-  image: /assets/images/blog/blog-104.webp
+  image: /assets/images/blog/blog-05.webp
   lang: en
 gatsby-american-dream-novels:
 - slug: great-gatsby-great-american-novel
@@ -102196,17 +102589,17 @@ gatsby-party-novel-tradition:
   category: leisure
   image: /assets/images/blog/blog-59.webp
   lang: en
+- slug: why-gatsby-resists-adaptation
+  title: 'Why Great Gatsby Resists Adaptation: The Unfilmable Novel'
+  url: /2029/12/10/why-gatsby-resists-adaptation/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: spectacle-theory-gatsby
   title: Commodity and Spectacle Theory in Gatsby
   url: /2028/01/24/spectacle-theory-gatsby/
   category: leisure
   image: /assets/images/blog/blog-32.webp
-  lang: en
-- slug: gatsby-parties-symbol
-  title: Gatsby's Parties as Symbol and Spectacle
-  url: /2025/05/26/gatsby-parties-symbol/
-  category: leisure
-  image: /assets/images/blog/blog-92.webp
   lang: en
 gatsby-doomed-romantic-hero:
 - slug: jay-gatsby-idealist-or-criminal
@@ -102227,11 +102620,11 @@ gatsby-doomed-romantic-hero:
   category: leisure
   image: /assets/images/blog/blog-104.webp
   lang: en
-- slug: gatsby-and-greek-tragedy
-  title: Gatsby and Greek Tragedy
-  url: /2028/10/02/gatsby-and-greek-tragedy/
+- slug: trauma-theory-great-gatsby
+  title: Trauma Theory and The Great Gatsby
+  url: /2027/12/06/trauma-theory-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-108.webp
+  image: /assets/images/blog/blog-55.webp
   lang: en
 - slug: gatsby-tragic-hero-tradition
   title: Gatsby and the Tragic Hero Tradition
@@ -102296,23 +102689,23 @@ gatsby-american-pastoral:
   category: leisure
   image: /assets/images/blog/blog-117.webp
   lang: en
+- slug: gatsby-graphic-novel
+  title: 'The Great Gatsby graphic novel: How Comics Read Fitzgerald'
+  url: /2029/11/12/gatsby-graphic-novel/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-games-parody
+  title: 'Great Gatsby Video Game: Parody, Play, and the Green Light'
+  url: /2029/12/03/gatsby-games-parody/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
 - slug: gatsby-critique-or-celebration
   title: Is Gatsby a Critique or a Celebration?
   url: /2028/03/20/gatsby-critique-or-celebration/
   category: leisure
   image: /assets/images/blog/blog-64.webp
-  lang: en
-- slug: gatsby-american-dream-corruption
-  title: The Corruption of the American Dream
-  url: /2024/04/29/gatsby-american-dream-corruption/
-  category: leisure
-  image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: gatsby-boats-against-current
-  title: 'Boats Against the Current: The Final Image'
-  url: /2029/01/15/gatsby-boats-against-current/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
   lang: en
 fitzgerald-vs-hemingway-style:
 - slug: gatsby-hyperbole-excess
@@ -102333,11 +102726,11 @@ fitzgerald-vs-hemingway-style:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: gatsby-beginnings-endings-craft
-  title: Beginnings and Endings as Craft in Gatsby
-  url: /2026/08/31/gatsby-beginnings-endings-craft/
+- slug: gatsby-hardest-passages
+  title: The Hardest Passages in Gatsby to Read
+  url: /2029/08/20/gatsby-hardest-passages/
   category: leisure
-  image: /assets/images/blog/blog-50.webp
+  image: /assets/images/blog/blog-115.webp
   lang: en
 fitzgerald-vs-faulkner:
 - slug: gatsby-and-horatio-alger
@@ -102408,13 +102801,19 @@ gatsby-and-horatio-alger:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: gatsby-novel-vs-films
-  title: Gatsby Compared to Its Film Adaptations
-  url: /2028/11/27/gatsby-novel-vs-films/
+- slug: gatsby-essay-questions
+  title: 'Great Gatsby Essay Questions Answered: A Model Approach'
+  url: /2030/05/20/gatsby-essay-questions/
   category: leisure
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-110.webp
   lang: en
 gatsby-canon-high-school:
+- slug: gatsby-entered-canon
+  title: 'How Great Gatsby Entered the Canon: Made, Not Given'
+  url: /2029/12/24/gatsby-entered-canon/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 - slug: why-gatsby-outlasted
   title: Why Gatsby Outlasted Its Contemporaries
   url: /2028/12/04/why-gatsby-outlasted/
@@ -102433,13 +102832,19 @@ gatsby-canon-high-school:
   category: leisure
   image: /assets/images/blog/blog-92.webp
   lang: en
-- slug: queer-reading-great-gatsby
-  title: A Queer Reading of The Great Gatsby
-  url: /2027/10/11/queer-reading-great-gatsby/
+- slug: gatsby-school-set-text
+  title: 'Great Gatsby School Set Text: Inside Its Classroom Life'
+  url: /2029/12/31/gatsby-school-set-text/
   category: leisure
-  image: /assets/images/blog/blog-111.webp
+  image: /assets/images/blog/blog-109.webp
   lang: en
 gatsby-novel-vs-films:
+- slug: adaptations-get-wrong-gatsby
+  title: 'What Adaptations Get Wrong About Gatsby: A Correction'
+  url: /2030/03/25/adaptations-get-wrong-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-97.webp
+  lang: en
 - slug: gatsby-cast-of-liars
   title: The Great Gatsby's Cast of Liars
   url: /2024/03/18/gatsby-cast-of-liars/
@@ -102458,11 +102863,11 @@ gatsby-novel-vs-films:
   category: leisure
   image: /assets/images/blog/blog-78.webp
   lang: en
-- slug: fitzgerald-vs-faulkner
-  title: Fitzgerald vs Faulkner on the American Dream
-  url: /2028/10/30/fitzgerald-vs-faulkner/
+- slug: gatsby-shaped-fashion
+  title: 'How Great Gatsby Shaped Fashion: Film Eras and Revivals'
+  url: /2030/01/28/gatsby-shaped-fashion/
   category: leisure
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-75.webp
   lang: en
 why-gatsby-outlasted:
 - slug: gatsby-canon-high-school
@@ -102483,11 +102888,11 @@ why-gatsby-outlasted:
   category: leisure
   image: /assets/images/blog/blog-05.webp
   lang: en
-- slug: gatsby-vs-jay-z-reading
-  title: Gatsby vs Jay-Z's Reading of Gatsby
-  url: /2028/07/24/gatsby-vs-jay-z-reading/
+- slug: gatsby-entered-canon
+  title: 'How Great Gatsby Entered the Canon: Made, Not Given'
+  url: /2029/12/24/gatsby-entered-canon/
   category: leisure
-  image: /assets/images/blog/blog-74.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
 gatsby-decline-empire-novel:
 - slug: gatsby-irony
@@ -102552,17 +102957,17 @@ what-gatsby-borrowed:
   category: leisure
   image: /assets/images/blog/blog-112.webp
   lang: en
+- slug: gatsby-beginnings-endings-craft
+  title: Beginnings and Endings as Craft in Gatsby
+  url: /2026/08/31/gatsby-beginnings-endings-craft/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
 - slug: gatsby-lyricism
   title: Lyricism and the Poetic Line in Gatsby
   url: /2026/07/27/gatsby-lyricism/
   category: leisure
   image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: gatsby-modernist-technique
-  title: Modernist Technique in The Great Gatsby
-  url: /2026/08/03/gatsby-modernist-technique/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 gatsby-last-line-explained:
 - slug: gatsby-first-line-explained
@@ -102583,11 +102988,11 @@ gatsby-last-line-explained:
   category: leisure
   image: /assets/images/blog/blog-81.webp
   lang: en
-- slug: great-gatsby-genre-form-style
-  title: 'The Great Gatsby: Genre, Form, and Style'
-  url: /2022/03/21/great-gatsby-genre-form-style/
+- slug: gatsby-hardest-passages
+  title: The Hardest Passages in Gatsby to Read
+  url: /2029/08/20/gatsby-hardest-passages/
   category: leisure
-  image: /assets/images/blog/blog-34.webp
+  image: /assets/images/blog/blog-115.webp
   lang: en
 gatsby-first-line-explained:
 - slug: gatsby-last-line-explained
@@ -103183,23 +103588,17 @@ gatsby-quotes-time-past:
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
+- slug: gatsby-quote-bank-essays
+  title: Quote Banks for Gatsby Essays
+  url: /2029/08/27/gatsby-quote-bank-essays/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: choosing-critical-lens-gatsby
   title: Choosing a Critical Lens for a Gatsby Essay
   url: /2028/04/03/choosing-critical-lens-gatsby/
   category: leisure
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: combining-lenses-gatsby
-  title: Combining Critical Lenses on The Great Gatsby
-  url: /2028/04/10/combining-lenses-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-03.webp
-  lang: en
-- slug: gatsby-past-and-time
-  title: The Past and the Repetition of Time in Gatsby
-  url: /2024/06/17/gatsby-past-and-time/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 gatsby-quotes-by-nick:
 - slug: nick-carraway-character-analysis
@@ -103258,6 +103657,12 @@ gatsby-misquoted-lines:
   category: leisure
   image: /assets/images/blog/blog-25.webp
   lang: en
+- slug: gatsby-hardest-passages
+  title: The Hardest Passages in Gatsby to Read
+  url: /2029/08/20/gatsby-hardest-passages/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
 - slug: gatsby-diction-word-choice
   title: Diction and Word Choice in The Great Gatsby
   url: /2026/02/16/gatsby-diction-word-choice/
@@ -103269,12 +103674,6 @@ gatsby-misquoted-lines:
   url: /2028/04/10/combining-lenses-gatsby/
   category: leisure
   image: /assets/images/blog/blog-03.webp
-  lang: en
-- slug: famous-gatsby-essays
-  title: Famous Critical Essays on The Great Gatsby
-  url: /2028/03/06/famous-gatsby-essays/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
   lang: en
 how-to-analyze-gatsby-quote:
 - slug: gatsby-misquoted-lines
@@ -103308,6 +103707,12 @@ gatsby-most-quotable-sentences:
   category: leisure
   image: /assets/images/blog/blog-52.webp
   lang: en
+- slug: gatsby-lyricism
+  title: Lyricism and the Poetic Line in Gatsby
+  url: /2026/07/27/gatsby-lyricism/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 - slug: great-gatsby-reading-order-pacing
   title: The Great Gatsby Reading Order and Pacing
   url: /2022/06/13/great-gatsby-reading-order-pacing/
@@ -103320,13 +103725,13 @@ gatsby-most-quotable-sentences:
   category: leisure
   image: /assets/images/blog/blog-25.webp
   lang: en
+gatsby-figurative-language-lines:
 - slug: great-gatsby-chapter-7-analysis
   title: 'Great Gatsby Chapter 7: Summary and Analysis'
   url: /2022/10/31/great-gatsby-chapter-7-analysis/
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-gatsby-figurative-language-lines:
 - slug: gatsby-gaps-ellipses
   title: Gaps, Ellipses, and the Unsaid in Gatsby
   url: /2026/08/17/gatsby-gaps-ellipses/
@@ -103345,12 +103750,6 @@ gatsby-figurative-language-lines:
   category: leisure
   image: /assets/images/blog/blog-95.webp
   lang: en
-- slug: great-gatsby-reading-order-pacing
-  title: The Great Gatsby Reading Order and Pacing
-  url: /2022/06/13/great-gatsby-reading-order-pacing/
-  category: leisure
-  image: /assets/images/blog/blog-15.webp
-  lang: en
 gatsby-foreshadowing-quotes:
 - slug: gatsby-foreshadowing
   title: Foreshadowing in The Great Gatsby
@@ -103364,17 +103763,17 @@ gatsby-foreshadowing-quotes:
   category: leisure
   image: /assets/images/blog/blog-95.webp
   lang: en
+- slug: gatsby-lyricism
+  title: Lyricism and the Poetic Line in Gatsby
+  url: /2026/07/27/gatsby-lyricism/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 - slug: great-gatsby-reading-order-pacing
   title: The Great Gatsby Reading Order and Pacing
   url: /2022/06/13/great-gatsby-reading-order-pacing/
   category: leisure
   image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: great-gatsby-first-time-readers
-  title: The Great Gatsby for First-Time Readers
-  url: /2022/04/25/great-gatsby-first-time-readers/
-  category: leisure
-  image: /assets/images/blog/blog-112.webp
   lang: en
 gatsby-quotes-nick-bias:
 - slug: gatsby-reserving-judgments-quote
@@ -103400,4 +103799,2632 @@ gatsby-quotes-nick-bias:
   url: /2022/07/04/great-gatsby-chapter-1-narration/
   category: leisure
   image: /assets/images/blog/blog-64.webp
+  lang: en
+gatsby-hardest-passages:
+- slug: gatsby-syntax-rhythm
+  title: Syntax and Sentence Rhythm in Gatsby
+  url: /2026/02/23/gatsby-syntax-rhythm/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-last-line-explained
+  title: The Last Line of The Great Gatsby Explained
+  url: /2029/01/01/gatsby-last-line-explained/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-misquoted-lines
+  title: Most Misquoted Lines From The Great Gatsby
+  url: /2029/07/09/gatsby-misquoted-lines/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: gatsby-diction-word-choice
+  title: Diction and Word Choice in The Great Gatsby
+  url: /2026/02/16/gatsby-diction-word-choice/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+gatsby-quote-bank-essays:
+- slug: famous-gatsby-essays
+  title: Famous Critical Essays on The Great Gatsby
+  url: /2028/03/06/famous-gatsby-essays/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: gatsby-diction-word-choice
+  title: Diction and Word Choice in The Great Gatsby
+  url: /2026/02/16/gatsby-diction-word-choice/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: gatsby-hardest-passages
+  title: The Hardest Passages in Gatsby to Read
+  url: /2029/08/20/gatsby-hardest-passages/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+- slug: debates-over-gatsby-greatness
+  title: Debates Over Gatsby's Greatness
+  url: /2028/03/13/debates-over-gatsby-greatness/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: gatsby-past-and-time
+  title: The Past and the Repetition of Time in Gatsby
+  url: /2024/06/17/gatsby-past-and-time/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-film-adaptations-ranked:
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: gatsby-modernist-technique
+  title: Modernist Technique in The Great Gatsby
+  url: /2026/08/03/gatsby-modernist-technique/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-foreshadowing
+  title: Foreshadowing in The Great Gatsby
+  url: /2026/03/23/gatsby-foreshadowing/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-2013-luhrmann-film:
+- slug: gatsby-luhrmann-soundtrack
+  title: How Luhrmann's Soundtrack Reframes Gatsby
+  url: /2029/10/15/gatsby-luhrmann-soundtrack/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: gatsby-book-vs-2013-movie
+  title: 'Book vs Movie: The 2013 Gatsby Compared'
+  url: /2029/10/08/gatsby-book-vs-2013-movie/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+gatsby-1974-film:
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-2013-luhrmann-film
+  title: The 2013 Baz Luhrmann Gatsby Analyzed
+  url: /2029/09/10/gatsby-2013-luhrmann-film/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+gatsby-1949-film:
+- slug: gatsby-1926-silent-film
+  title: The Lost 1926 Gatsby Silent Film
+  url: /2029/10/01/gatsby-1926-silent-film/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: gatsby-public-domain-2021
+  title: 'Great Gatsby Public Domain: How the Novel Became Everyone''s'
+  url: /2029/11/19/gatsby-public-domain-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-adaptation-wave-2021
+  title: 'Gatsby Adaptations After Copyright: What the New Wave Means'
+  url: /2029/11/26/gatsby-adaptation-wave-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-1974-film
+  title: The 1974 Great Gatsby Film Analyzed
+  url: /2029/09/17/gatsby-1974-film/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+gatsby-1926-silent-film:
+- slug: gatsby-1949-film
+  title: The 1949 Great Gatsby Film Analyzed
+  url: /2029/09/24/gatsby-1949-film/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: gatsby-adaptation-wave-2021
+  title: 'Gatsby Adaptations After Copyright: What the New Wave Means'
+  url: /2029/11/26/gatsby-adaptation-wave-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-public-domain-2021
+  title: 'Great Gatsby Public Domain: How the Novel Became Everyone''s'
+  url: /2029/11/19/gatsby-public-domain-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+gatsby-book-vs-2013-movie:
+- slug: gatsby-2013-luhrmann-film
+  title: The 2013 Baz Luhrmann Gatsby Analyzed
+  url: /2029/09/10/gatsby-2013-luhrmann-film/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: gatsby-1974-film
+  title: The 1974 Great Gatsby Film Analyzed
+  url: /2029/09/17/gatsby-1974-film/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: gatsby-luhrmann-soundtrack
+  title: How Luhrmann's Soundtrack Reframes Gatsby
+  url: /2029/10/15/gatsby-luhrmann-soundtrack/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+gatsby-luhrmann-soundtrack:
+- slug: gatsby-2013-luhrmann-film
+  title: The 2013 Baz Luhrmann Gatsby Analyzed
+  url: /2029/09/10/gatsby-2013-luhrmann-film/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+gatsby-film-casting:
+- slug: masculinity-studies-gatsby
+  title: Masculinity Studies and The Great Gatsby
+  url: /2027/11/29/masculinity-studies-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: gatsby-doomed-romantic-hero
+  title: Gatsby and the Doomed Romantic Hero
+  url: /2028/09/25/gatsby-doomed-romantic-hero/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-antagonist
+  title: Who Is the Antagonist in The Great Gatsby?
+  url: /2024/02/05/gatsby-antagonist/
+  category: leisure
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: jay-gatsby-idealist-or-criminal
+  title: 'Jay Gatsby: Romantic Idealist or Criminal?'
+  url: /2023/05/22/jay-gatsby-idealist-or-criminal/
+  category: leisure
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+gatsby-on-stage:
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: gatsby-foreshadowing
+  title: Foreshadowing in The Great Gatsby
+  url: /2026/03/23/gatsby-foreshadowing/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-vs-this-side-of-paradise
+  title: The Great Gatsby vs This Side of Paradise
+  url: /2028/05/08/gatsby-vs-this-side-of-paradise/
+  category: leisure
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+gatsby-opera-ballet:
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: new-critics-great-gatsby
+  title: 'The New Critics and Great Gatsby: Close Reading Canonized'
+  url: /2031/04/28/new-critics-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-metaphor-simile
+  title: Metaphor and Simile in The Great Gatsby
+  url: /2026/03/09/gatsby-metaphor-simile/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+gatsby-graphic-novel:
+- slug: gatsby-games-parody
+  title: 'Great Gatsby Video Game: Parody, Play, and the Green Light'
+  url: /2029/12/03/gatsby-games-parody/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: gatsby-american-pastoral
+  title: Gatsby and the American Pastoral
+  url: /2028/10/16/gatsby-american-pastoral/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: gatsby-adaptation-wave-2021
+  title: 'Gatsby Adaptations After Copyright: What the New Wave Means'
+  url: /2029/11/26/gatsby-adaptation-wave-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: why-gatsby-resists-adaptation
+  title: 'Why Great Gatsby Resists Adaptation: The Unfilmable Novel'
+  url: /2029/12/10/why-gatsby-resists-adaptation/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+gatsby-public-domain-2021:
+- slug: gatsby-on-stage
+  title: The Great Gatsby on Stage
+  url: /2029/10/29/gatsby-on-stage/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: gatsby-adaptation-wave-2021
+  title: 'Gatsby Adaptations After Copyright: What the New Wave Means'
+  url: /2029/11/26/gatsby-adaptation-wave-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: whiteness-studies-gatsby
+  title: Whiteness Studies and The Great Gatsby
+  url: /2027/11/15/whiteness-studies-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+gatsby-adaptation-wave-2021:
+- slug: gatsby-public-domain-2021
+  title: 'Great Gatsby Public Domain: How the Novel Became Everyone''s'
+  url: /2029/11/19/gatsby-public-domain-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: critical-race-theory-gatsby
+  title: Race and Critical Race Theory in Gatsby
+  url: /2027/11/08/critical-race-theory-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: gatsby-graphic-novel
+  title: 'The Great Gatsby graphic novel: How Comics Read Fitzgerald'
+  url: /2029/11/12/gatsby-graphic-novel/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-games-parody
+  title: 'Great Gatsby Video Game: Parody, Play, and the Green Light'
+  url: /2029/12/03/gatsby-games-parody/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+gatsby-games-parody:
+- slug: gatsby-graphic-novel
+  title: 'The Great Gatsby graphic novel: How Comics Read Fitzgerald'
+  url: /2029/11/12/gatsby-graphic-novel/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-american-pastoral
+  title: Gatsby and the American Pastoral
+  url: /2028/10/16/gatsby-american-pastoral/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: gatsby-adaptation-wave-2021
+  title: 'Gatsby Adaptations After Copyright: What the New Wave Means'
+  url: /2029/11/26/gatsby-adaptation-wave-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-boats-against-current
+  title: 'Boats Against the Current: The Final Image'
+  url: /2029/01/15/gatsby-boats-against-current/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+why-gatsby-resists-adaptation:
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: gatsby-party-novel-tradition
+  title: Gatsby and the Great American Party Novel
+  url: /2028/09/18/gatsby-party-novel-tradition/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: gatsby-graphic-novel
+  title: 'The Great Gatsby graphic novel: How Comics Read Fitzgerald'
+  url: /2029/11/12/gatsby-graphic-novel/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+gatsby-critical-reception:
+- slug: gatsby-1925-periodical-reception
+  title: 'The Great Gatsby''s Periodical Reception in 1925: Review'
+  url: /2031/04/14/gatsby-1925-periodical-reception/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: gatsby-each-generation
+  title: Why Each Generation Rediscovers Gatsby and Makes It New
+  url: /2030/03/18/gatsby-each-generation/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: famous-gatsby-essays
+  title: Famous Critical Essays on The Great Gatsby
+  url: /2028/03/06/famous-gatsby-essays/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: gatsby-in-pop-culture
+  title: 'Great Gatsby pop culture: known by people who never read it'
+  url: /2030/01/14/gatsby-in-pop-culture/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+gatsby-entered-canon:
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: gatsby-gaps-ellipses
+  title: Gaps, Ellipses, and the Unsaid in Gatsby
+  url: /2026/08/17/gatsby-gaps-ellipses/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: gatsby-critical-history
+  title: How Critics Have Read Gatsby Over Time
+  url: /2028/02/28/gatsby-critical-history/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: fitzgerald-riviera-years
+  title: Fitzgerald and the Riviera Years
+  url: /2027/04/12/fitzgerald-riviera-years/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: gatsby-famous-readers
+  title: 'Famous Readers and Fans of Great Gatsby: The Record'
+  url: /2030/02/11/gatsby-famous-readers/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: trilling-on-great-gatsby
+  title: 'Lionel Trilling and Great Gatsby: The Critic Who Made Gatsby'
+  url: /2031/05/05/trilling-on-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+gatsby-school-set-text:
+- slug: gatsby-canon-high-school
+  title: Gatsby in the Canon of High School Reading
+  url: /2028/11/20/gatsby-canon-high-school/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: teaching-gatsby-scholars-guide
+  title: 'Teaching Great Gatsby: A Scholar''s Guide to Deep Instruction'
+  url: /2031/06/02/teaching-gatsby-scholars-guide/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: lost-generation-great-gatsby
+  title: The Lost Generation and The Great Gatsby
+  url: /2026/12/21/lost-generation-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: postcolonial-reading-gatsby
+  title: A Postcolonial Reading of The Great Gatsby
+  url: /2027/10/04/postcolonial-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+gatsby-challenged-banned:
+- slug: gatsby-global-readership
+  title: 'Great Gatsby''s Global Readership: A World of Readers'
+  url: /2030/02/25/gatsby-global-readership/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: queer-reading-great-gatsby
+  title: A Queer Reading of The Great Gatsby
+  url: /2027/10/11/queer-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: gender-theory-great-gatsby
+  title: Gender Theory and The Great Gatsby
+  url: /2027/11/22/gender-theory-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: great-gatsby-misreadings-corrected
+  title: 'The Great Gatsby: Everything Students Get Wrong'
+  url: /2022/06/20/great-gatsby-misreadings-corrected/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+gatsby-in-pop-culture:
+- slug: jazz-music-culture-gatsby
+  title: Music and Jazz Culture in The Great Gatsby
+  url: /2027/05/10/jazz-music-culture-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: jazz-age-great-gatsby
+  title: The Jazz Age and The Great Gatsby
+  url: /2026/10/19/jazz-age-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-translations
+  title: 'How Translations Handle Great Gatsby: The Translator''s Trial'
+  url: /2030/02/18/gatsby-translations/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-in-advertising
+  title: The Great Gatsby in Advertising and Brands Explained
+  url: /2030/02/04/gatsby-in-advertising/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+gatsby-themed-parties:
+- slug: gatsby-parties-symbol
+  title: Gatsby's Parties as Symbol and Spectacle
+  url: /2025/05/26/gatsby-parties-symbol/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: gatsby-in-pop-culture
+  title: 'Great Gatsby pop culture: known by people who never read it'
+  url: /2030/01/14/gatsby-in-pop-culture/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: jazz-music-culture-gatsby
+  title: Music and Jazz Culture in The Great Gatsby
+  url: /2027/05/10/jazz-music-culture-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: new-york-1920s-gatsby
+  title: New York City in the 1920s and Gatsby
+  url: /2027/01/11/new-york-1920s-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+gatsby-shaped-fashion:
+- slug: gatsby-novel-vs-films
+  title: Gatsby Compared to Its Film Adaptations
+  url: /2028/11/27/gatsby-novel-vs-films/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: gatsby-1949-film
+  title: The 1949 Great Gatsby Film Analyzed
+  url: /2029/09/24/gatsby-1949-film/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: gatsby-1974-film
+  title: The 1974 Great Gatsby Film Analyzed
+  url: /2029/09/17/gatsby-1974-film/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+gatsby-in-advertising:
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: gatsby-1949-film
+  title: The 1949 Great Gatsby Film Analyzed
+  url: /2029/09/24/gatsby-1949-film/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: gatsby-public-domain-2021
+  title: 'Great Gatsby Public Domain: How the Novel Became Everyone''s'
+  url: /2029/11/19/gatsby-public-domain-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+gatsby-famous-readers:
+- slug: gatsby-entered-canon
+  title: 'How Great Gatsby Entered the Canon: Made, Not Given'
+  url: /2029/12/24/gatsby-entered-canon/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: why-gatsby-outlasted
+  title: Why Gatsby Outlasted Its Contemporaries
+  url: /2028/12/04/why-gatsby-outlasted/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: gatsby-canon-high-school
+  title: Gatsby in the Canon of High School Reading
+  url: /2028/11/20/gatsby-canon-high-school/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: famous-gatsby-essays
+  title: Famous Critical Essays on The Great Gatsby
+  url: /2028/03/06/famous-gatsby-essays/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+gatsby-translations:
+- slug: gatsby-global-readership
+  title: 'Great Gatsby''s Global Readership: A World of Readers'
+  url: /2030/02/25/gatsby-global-readership/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: gatsby-opera-ballet
+  title: The Great Gatsby as Opera and Ballet
+  url: /2029/11/05/gatsby-opera-ballet/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: gatsby-luhrmann-soundtrack
+  title: How Luhrmann's Soundtrack Reframes Gatsby
+  url: /2029/10/15/gatsby-luhrmann-soundtrack/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+gatsby-global-readership:
+- slug: gatsby-translations
+  title: 'How Translations Handle Great Gatsby: The Translator''s Trial'
+  url: /2030/02/18/gatsby-translations/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-film-adaptations-ranked
+  title: Every Great Gatsby Film Adaptation Ranked
+  url: /2029/09/03/gatsby-film-adaptations-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: gatsby-2013-luhrmann-film
+  title: The 2013 Baz Luhrmann Gatsby Analyzed
+  url: /2029/09/10/gatsby-2013-luhrmann-film/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: great-gatsby-reading-order-pacing
+  title: The Great Gatsby Reading Order and Pacing
+  url: /2022/06/13/great-gatsby-reading-order-pacing/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+gatsby-sequels-retellings:
+- slug: gatsby-modern-retellings
+  title: 'Gatsby Retold: The Chol Hong Nguyen Retelling and Others'
+  url: /2030/03/11/gatsby-modern-retellings/
+  category: leisure
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: gatsby-graphic-novel
+  title: 'The Great Gatsby graphic novel: How Comics Read Fitzgerald'
+  url: /2029/11/12/gatsby-graphic-novel/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-translations
+  title: 'How Translations Handle Great Gatsby: The Translator''s Trial'
+  url: /2030/02/18/gatsby-translations/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-adaptation-wave-2021
+  title: 'Gatsby Adaptations After Copyright: What the New Wave Means'
+  url: /2029/11/26/gatsby-adaptation-wave-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+gatsby-modern-retellings:
+- slug: gatsby-global-readership
+  title: 'Great Gatsby''s Global Readership: A World of Readers'
+  url: /2030/02/25/gatsby-global-readership/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: gatsby-adaptation-wave-2021
+  title: 'Gatsby Adaptations After Copyright: What the New Wave Means'
+  url: /2029/11/26/gatsby-adaptation-wave-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-public-domain-2021
+  title: 'Great Gatsby Public Domain: How the Novel Became Everyone''s'
+  url: /2029/11/19/gatsby-public-domain-2021/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-film-casting
+  title: 'Casting Gatsby: How Each Film Cast the Roles'
+  url: /2029/10/22/gatsby-film-casting/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: gatsby-sequels-retellings
+  title: Gatsby Sequels Prequels Retellings That Keep the Story Alive
+  url: /2030/03/04/gatsby-sequels-retellings/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+gatsby-each-generation:
+- slug: gatsby-critical-reception
+  title: 'Great Gatsby Critical Reception: How the Verdict Reversed'
+  url: /2029/12/17/gatsby-critical-reception/
+  category: leisure
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: gatsby-1925-periodical-reception
+  title: 'The Great Gatsby''s Periodical Reception in 1925: Review'
+  url: /2031/04/14/gatsby-1925-periodical-reception/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: green-light-great-gatsby
+  title: The Green Light in The Great Gatsby
+  url: /2025/04/07/green-light-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: gatsby-themes-connections
+  title: How Gatsby's Themes Connect to Each Other
+  url: /2025/03/31/gatsby-themes-connections/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+adaptations-get-wrong-gatsby:
+- slug: gatsby-reserving-judgments-quote
+  title: Reserving Judgments Quote Analyzed
+  url: /2029/03/05/gatsby-reserving-judgments-quote/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: gatsby-1974-film
+  title: The 1974 Great Gatsby Film Analyzed
+  url: /2029/09/17/gatsby-1974-film/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: deconstruction-great-gatsby
+  title: A Deconstructionist Reading of Gatsby
+  url: /2027/09/27/deconstruction-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: reader-response-gatsby
+  title: A Reader-Response Reading of Gatsby
+  url: /2027/09/13/reader-response-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+how-to-write-gatsby-essay:
+- slug: gatsby-essay-methods
+  title: 'How to Write About Fitzgerald''s Methods: Essay Guide'
+  url: /2030/09/09/gatsby-essay-methods/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: revise-gatsby-for-exams
+  title: 'How to Revise The Great Gatsby for Exams: A Complete Method'
+  url: /2030/07/29/revise-gatsby-for-exams/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-comparative-essays
+  title: 'Comparative Essays Using Great Gatsby: Integration Method'
+  url: /2030/07/15/gatsby-comparative-essays/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+gatsby-thesis-statement:
+- slug: gatsby-essay-introduction
+  title: 'How to Write a Gatsby Introduction: Framing the Thesis'
+  url: /2030/04/29/gatsby-essay-introduction/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: gatsby-essay-topics
+  title: 'Great Gatsby Essay Topics That Score Well: A Choice Guide'
+  url: /2030/05/13/gatsby-essay-topics/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-analysis-into-argument
+  title: 'Turning Analysis into Argument on Gatsby: The Essay Method'
+  url: /2030/11/04/gatsby-analysis-into-argument/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+gatsby-essay-structure:
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: revise-gatsby-for-exams
+  title: 'How to Revise The Great Gatsby for Exams: A Complete Method'
+  url: /2030/07/29/revise-gatsby-for-exams/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-comparative-essays
+  title: 'Comparative Essays Using Great Gatsby: Integration Method'
+  url: /2030/07/15/gatsby-comparative-essays/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+gatsby-essay-quotes:
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: gatsby-essay-mistakes
+  title: 'Common Gatsby Essay Mistakes to Avoid: The Grade Guide'
+  url: /2030/08/05/gatsby-essay-mistakes/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+gatsby-essay-introduction:
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-thesis-statement
+  title: How to Write a Gatsby Thesis Statement That Earns Marks
+  url: /2030/04/08/gatsby-thesis-statement/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: gatsby-essay-mistakes
+  title: 'Common Gatsby Essay Mistakes to Avoid: The Grade Guide'
+  url: /2030/08/05/gatsby-essay-mistakes/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: gatsby-essay-context
+  title: How to Embed Context in a Gatsby Essay Examiners Reward
+  url: /2030/08/12/gatsby-essay-context/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+gatsby-essay-conclusion:
+- slug: gatsby-essay-introduction
+  title: 'How to Write a Gatsby Introduction: Framing the Thesis'
+  url: /2030/04/29/gatsby-essay-introduction/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: gatsby-essay-mistakes
+  title: 'Common Gatsby Essay Mistakes to Avoid: The Grade Guide'
+  url: /2030/08/05/gatsby-essay-mistakes/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: gatsby-essay-context
+  title: How to Embed Context in a Gatsby Essay Examiners Reward
+  url: /2030/08/12/gatsby-essay-context/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: gatsby-ap-literature
+  title: 'The Great Gatsby for AP Literature: Exam Workhorse Guide'
+  url: /2030/05/27/gatsby-ap-literature/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+gatsby-essay-topics:
+- slug: gatsby-thesis-statement
+  title: How to Write a Gatsby Thesis Statement That Earns Marks
+  url: /2030/04/08/gatsby-thesis-statement/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: gatsby-analysis-into-argument
+  title: 'Turning Analysis into Argument on Gatsby: The Essay Method'
+  url: /2030/11/04/gatsby-analysis-into-argument/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-high-scoring-essay
+  title: 'Sample High-Scoring Gatsby Essay Breakdown: Annotated'
+  url: /2030/11/25/gatsby-high-scoring-essay/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-examiner-marking
+  title: 'How Examiners Mark Gatsby Essays: What Scores Marks'
+  url: /2030/10/14/gatsby-examiner-marking/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+gatsby-essay-questions:
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-top-band-essay
+  title: 'How to Hit Top Band on a Gatsby Essay: The Full Guide'
+  url: /2030/09/30/gatsby-top-band-essay/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+gatsby-ap-literature:
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: gatsby-ap-lit-prose-essay
+  title: 'Writing the AP Lit Prose Essay on Gatsby: Method Guide'
+  url: /2030/06/10/gatsby-ap-lit-prose-essay/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+gatsby-ap-lit-open-question:
+- slug: gatsby-essay-themes
+  title: 'How to Write About Gatsby''s Themes: Argue, Don''t List'
+  url: /2030/08/19/gatsby-essay-themes/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-ap-literature
+  title: 'The Great Gatsby for AP Literature: Exam Workhorse Guide'
+  url: /2030/05/27/gatsby-ap-literature/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+gatsby-ap-lit-prose-essay:
+- slug: gatsby-ap-literature
+  title: 'The Great Gatsby for AP Literature: Exam Workhorse Guide'
+  url: /2030/05/27/gatsby-ap-literature/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-understatement
+  title: Understatement and Restraint in Gatsby
+  url: /2026/07/13/gatsby-understatement/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: gatsby-quote-bank-essays
+  title: Quote Banks for Gatsby Essays
+  url: /2029/08/27/gatsby-quote-bank-essays/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: debates-over-gatsby-greatness
+  title: Debates Over Gatsby's Greatness
+  url: /2028/03/13/debates-over-gatsby-greatness/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+gatsby-ib-english:
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-ib-individual-oral
+  title: 'Gatsby for the IB Individual Oral: A Passage-to-Issue Method'
+  url: /2030/06/24/gatsby-ib-individual-oral/
+  category: leisure
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: gatsby-ap-literature
+  title: 'The Great Gatsby for AP Literature: Exam Workhorse Guide'
+  url: /2030/05/27/gatsby-ap-literature/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: religion-great-gatsby
+  title: Religion and the Sacred in The Great Gatsby
+  url: /2024/11/25/religion-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+gatsby-ib-individual-oral:
+- slug: revise-gatsby-for-exams
+  title: 'How to Revise The Great Gatsby for Exams: A Complete Method'
+  url: /2030/07/29/revise-gatsby-for-exams/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-essay-themes
+  title: 'How to Write About Gatsby''s Themes: Argue, Don''t List'
+  url: /2030/08/19/gatsby-essay-themes/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: gatsby-comparative-essays
+  title: 'Comparative Essays Using Great Gatsby: Integration Method'
+  url: /2030/07/15/gatsby-comparative-essays/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-gcse-english
+  title: 'The Great Gatsby for GCSE English: A Practical Study Guide'
+  url: /2030/07/08/gatsby-gcse-english/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+gatsby-a-level-english:
+- slug: gatsby-gcse-english
+  title: 'The Great Gatsby for GCSE English: A Practical Study Guide'
+  url: /2030/07/08/gatsby-gcse-english/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: gatsby-ib-english
+  title: 'Great Gatsby for IB English: A Complete Exam Guide'
+  url: /2030/06/17/gatsby-ib-english/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: gatsby-influence-later-novels
+  title: Gatsby's Influence on Later American Novels
+  url: /2028/08/28/gatsby-influence-later-novels/
+  category: leisure
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: jazz-age-great-gatsby
+  title: The Jazz Age and The Great Gatsby
+  url: /2026/10/19/jazz-age-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-gcse-english:
+- slug: revise-gatsby-for-exams
+  title: 'How to Revise The Great Gatsby for Exams: A Complete Method'
+  url: /2030/07/29/revise-gatsby-for-exams/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: gatsby-comparative-essays
+  title: 'Comparative Essays Using Great Gatsby: Integration Method'
+  url: /2030/07/15/gatsby-comparative-essays/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-a-level-english
+  title: 'Great Gatsby for A-Level English: An AO Study Guide'
+  url: /2030/07/01/gatsby-a-level-english/
+  category: leisure
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+gatsby-comparative-essays:
+- slug: revise-gatsby-for-exams
+  title: 'How to Revise The Great Gatsby for Exams: A Complete Method'
+  url: /2030/07/29/revise-gatsby-for-exams/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: gatsby-essay-methods
+  title: 'How to Write About Fitzgerald''s Methods: Essay Guide'
+  url: /2030/09/09/gatsby-essay-methods/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+gatsby-unseen-passage:
+- slug: gatsby-avoid-plot-summary
+  title: 'How to Avoid Plot Summary in Gatsby Essays: A Working Plan'
+  url: /2030/11/18/gatsby-avoid-plot-summary/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: gatsby-essay-characters
+  title: 'How to Write About Gatsby''s Characters: Essay Method'
+  url: /2030/08/26/gatsby-essay-characters/
+  category: leisure
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: gatsby-analysis-into-argument
+  title: 'Turning Analysis into Argument on Gatsby: The Essay Method'
+  url: /2030/11/04/gatsby-analysis-into-argument/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: how-to-analyze-gatsby-quote
+  title: How to Analyze a Quote From The Great Gatsby
+  url: /2029/07/16/how-to-analyze-gatsby-quote/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+revise-gatsby-for-exams:
+- slug: gatsby-comparative-essays
+  title: 'Comparative Essays Using Great Gatsby: Integration Method'
+  url: /2030/07/15/gatsby-comparative-essays/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-essay-methods
+  title: 'How to Write About Fitzgerald''s Methods: Essay Guide'
+  url: /2030/09/09/gatsby-essay-methods/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+gatsby-essay-mistakes:
+- slug: gatsby-essay-context
+  title: How to Embed Context in a Gatsby Essay Examiners Reward
+  url: /2030/08/12/gatsby-essay-context/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-essay-planning
+  title: 'Plan a Gatsby Essay in Ten Minutes: A Fast Exam Method'
+  url: /2030/09/23/gatsby-essay-planning/
+  category: leisure
+  image: /assets/images/blog/blog-17.webp
+  lang: en
+gatsby-essay-context:
+- slug: gatsby-essay-mistakes
+  title: 'Common Gatsby Essay Mistakes to Avoid: The Grade Guide'
+  url: /2030/08/05/gatsby-essay-mistakes/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+gatsby-essay-themes:
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: gatsby-essay-methods
+  title: 'How to Write About Fitzgerald''s Methods: Essay Guide'
+  url: /2030/09/09/gatsby-essay-methods/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-comparative-essays
+  title: 'Comparative Essays Using Great Gatsby: Integration Method'
+  url: /2030/07/15/gatsby-comparative-essays/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: great-gatsby-study-guide-deeper
+  title: 'The Great Gatsby: A Study Guide That Goes Deeper'
+  url: /2022/05/02/great-gatsby-study-guide-deeper/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: gatsby-ap-lit-open-question
+  title: 'Gatsby on the AP Lit Open-Ended Question: A Full Strategy'
+  url: /2030/06/03/gatsby-ap-lit-open-question/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: gatsby-annotated-bibliography
+  title: 'Building a Gatsby Annotated Bibliography: A Complete Guide'
+  url: /2031/01/20/gatsby-annotated-bibliography/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+gatsby-essay-characters:
+- slug: gatsby-essay-symbols
+  title: How to Write About Gatsby's Symbols in an Essay Well
+  url: /2030/09/02/gatsby-essay-symbols/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gatsby-essay-structure
+  title: 'How to Structure a Great Gatsby Essay: The Complete Method'
+  url: /2030/04/15/gatsby-essay-structure/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-avoid-plot-summary
+  title: 'How to Avoid Plot Summary in Gatsby Essays: A Working Plan'
+  url: /2030/11/18/gatsby-avoid-plot-summary/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+gatsby-essay-symbols:
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: gatsby-essay-methods
+  title: 'How to Write About Fitzgerald''s Methods: Essay Guide'
+  url: /2030/09/09/gatsby-essay-methods/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-essay-quotes
+  title: 'How to Use Quotes in a Gatsby Essay: A Proven Method'
+  url: /2030/04/22/gatsby-essay-quotes/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-university-essay
+  title: How to Write a University Essay on Gatsby That Scores Highly
+  url: /2030/11/11/gatsby-university-essay/
+  category: leisure
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+gatsby-essay-methods:
+- slug: how-to-write-gatsby-essay
+  title: 'How to Write a Great Gatsby Essay: Full Workflow Guide'
+  url: /2030/04/01/how-to-write-gatsby-essay/
+  category: leisure
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: revise-gatsby-for-exams
+  title: 'How to Revise The Great Gatsby for Exams: A Complete Method'
+  url: /2030/07/29/revise-gatsby-for-exams/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-comparative-essays
+  title: 'Comparative Essays Using Great Gatsby: Integration Method'
+  url: /2030/07/15/gatsby-comparative-essays/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: gatsby-essay-themes
+  title: 'How to Write About Gatsby''s Themes: Argue, Don''t List'
+  url: /2030/08/19/gatsby-essay-themes/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+gatsby-model-paragraphs:
+- slug: gatsby-essay-sentence-starters
+  title: Gatsby Essay Sentence Starters That Prompt Analysis
+  url: /2030/10/07/gatsby-essay-sentence-starters/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: gatsby-revision-timetable
+  title: How to Build a Gatsby Revision Timetable That Works
+  url: /2030/10/28/gatsby-revision-timetable/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: gatsby-avoid-plot-summary
+  title: 'How to Avoid Plot Summary in Gatsby Essays: A Working Plan'
+  url: /2030/11/18/gatsby-avoid-plot-summary/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: gatsby-essay-themes
+  title: 'How to Write About Gatsby''s Themes: Argue, Don''t List'
+  url: /2030/08/19/gatsby-essay-themes/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+gatsby-essay-planning:
+- slug: gatsby-essay-mistakes
+  title: 'Common Gatsby Essay Mistakes to Avoid: The Grade Guide'
+  url: /2030/08/05/gatsby-essay-mistakes/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: gatsby-top-band-essay
+  title: 'How to Hit Top Band on a Gatsby Essay: The Full Guide'
+  url: /2030/09/30/gatsby-top-band-essay/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: gatsby-essay-context
+  title: How to Embed Context in a Gatsby Essay Examiners Reward
+  url: /2030/08/12/gatsby-essay-context/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: gatsby-essay-conclusion
+  title: 'How to Write a Gatsby Conclusion: Consolidate and Reach'
+  url: /2030/05/06/gatsby-essay-conclusion/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+gatsby-top-band-essay:
+- slug: gatsby-essay-quotes
+  title: 'How to Use Quotes in a Gatsby Essay: A Proven Method'
+  url: /2030/04/22/gatsby-essay-quotes/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: gatsby-essay-context
+  title: How to Embed Context in a Gatsby Essay Examiners Reward
+  url: /2030/08/12/gatsby-essay-context/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: gatsby-essay-mistakes
+  title: 'Common Gatsby Essay Mistakes to Avoid: The Grade Guide'
+  url: /2030/08/05/gatsby-essay-mistakes/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: gatsby-ap-literature
+  title: 'The Great Gatsby for AP Literature: Exam Workhorse Guide'
+  url: /2030/05/27/gatsby-ap-literature/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+gatsby-essay-sentence-starters:
+- slug: gatsby-model-paragraphs
+  title: Annotated Model Paragraphs for Gatsby Essays at Top Band
+  url: /2030/09/16/gatsby-model-paragraphs/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: gatsby-revision-timetable
+  title: How to Build a Gatsby Revision Timetable That Works
+  url: /2030/10/28/gatsby-revision-timetable/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: gatsby-avoid-plot-summary
+  title: 'How to Avoid Plot Summary in Gatsby Essays: A Working Plan'
+  url: /2030/11/18/gatsby-avoid-plot-summary/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: gatsby-essay-themes
+  title: 'How to Write About Gatsby''s Themes: Argue, Don''t List'
+  url: /2030/08/19/gatsby-essay-themes/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+gatsby-examiner-marking:
+- slug: gatsby-high-scoring-essay
+  title: 'Sample High-Scoring Gatsby Essay Breakdown: Annotated'
+  url: /2030/11/25/gatsby-high-scoring-essay/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: gatsby-analysis-into-argument
+  title: 'Turning Analysis into Argument on Gatsby: The Essay Method'
+  url: /2030/11/04/gatsby-analysis-into-argument/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-thesis-statement
+  title: How to Write a Gatsby Thesis Statement That Earns Marks
+  url: /2030/04/08/gatsby-thesis-statement/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: gatsby-essay-topics
+  title: 'Great Gatsby Essay Topics That Score Well: A Choice Guide'
+  url: /2030/05/13/gatsby-essay-topics/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+gatsby-memorize-quotes-exam:
+- slug: gatsby-revision-timetable
+  title: How to Build a Gatsby Revision Timetable That Works
+  url: /2030/10/28/gatsby-revision-timetable/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: gatsby-model-paragraphs
+  title: Annotated Model Paragraphs for Gatsby Essays at Top Band
+  url: /2030/09/16/gatsby-model-paragraphs/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: gatsby-essay-sentence-starters
+  title: Gatsby Essay Sentence Starters That Prompt Analysis
+  url: /2030/10/07/gatsby-essay-sentence-starters/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: gatsby-avoid-plot-summary
+  title: 'How to Avoid Plot Summary in Gatsby Essays: A Working Plan'
+  url: /2030/11/18/gatsby-avoid-plot-summary/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+gatsby-revision-timetable:
+- slug: gatsby-essay-sentence-starters
+  title: Gatsby Essay Sentence Starters That Prompt Analysis
+  url: /2030/10/07/gatsby-essay-sentence-starters/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: gatsby-model-paragraphs
+  title: Annotated Model Paragraphs for Gatsby Essays at Top Band
+  url: /2030/09/16/gatsby-model-paragraphs/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: gatsby-avoid-plot-summary
+  title: 'How to Avoid Plot Summary in Gatsby Essays: A Working Plan'
+  url: /2030/11/18/gatsby-avoid-plot-summary/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: gatsby-essay-themes
+  title: 'How to Write About Gatsby''s Themes: Argue, Don''t List'
+  url: /2030/08/19/gatsby-essay-themes/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: gatsby-memorize-quotes-exam
+  title: Memorizing Gatsby Quotes for Closed-Book Exam Success
+  url: /2030/10/21/gatsby-memorize-quotes-exam/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+gatsby-analysis-into-argument:
+- slug: gatsby-thesis-statement
+  title: How to Write a Gatsby Thesis Statement That Earns Marks
+  url: /2030/04/08/gatsby-thesis-statement/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: gatsby-examiner-marking
+  title: 'How Examiners Mark Gatsby Essays: What Scores Marks'
+  url: /2030/10/14/gatsby-examiner-marking/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: gatsby-essay-topics
+  title: 'Great Gatsby Essay Topics That Score Well: A Choice Guide'
+  url: /2030/05/13/gatsby-essay-topics/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: gatsby-high-scoring-essay
+  title: 'Sample High-Scoring Gatsby Essay Breakdown: Annotated'
+  url: /2030/11/25/gatsby-high-scoring-essay/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+gatsby-university-essay:
+- slug: feminist-reading-great-gatsby
+  title: A Feminist Reading of The Great Gatsby
+  url: /2027/08/09/feminist-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: gatsby-understatement
+  title: Understatement and Restraint in Gatsby
+  url: /2026/07/13/gatsby-understatement/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: choosing-critical-lens-gatsby
+  title: Choosing a Critical Lens for a Gatsby Essay
+  url: /2028/04/03/choosing-critical-lens-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: biographical-criticism-gatsby
+  title: A Biographical Criticism of The Great Gatsby
+  url: /2027/12/20/biographical-criticism-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+gatsby-avoid-plot-summary:
+- slug: gatsby-model-paragraphs
+  title: Annotated Model Paragraphs for Gatsby Essays at Top Band
+  url: /2030/09/16/gatsby-model-paragraphs/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: great-gatsby-study-guide-deeper
+  title: 'The Great Gatsby: A Study Guide That Goes Deeper'
+  url: /2022/05/02/great-gatsby-study-guide-deeper/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: gatsby-revision-timetable
+  title: How to Build a Gatsby Revision Timetable That Works
+  url: /2030/10/28/gatsby-revision-timetable/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: gatsby-quote-bank-essays
+  title: Quote Banks for Gatsby Essays
+  url: /2029/08/27/gatsby-quote-bank-essays/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: gatsby-unseen-passage
+  title: 'How to Analyze an Unseen Gatsby Passage: Cold Reading, Well'
+  url: /2030/07/22/gatsby-unseen-passage/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+gatsby-high-scoring-essay:
+- slug: gatsby-examiner-marking
+  title: 'How Examiners Mark Gatsby Essays: What Scores Marks'
+  url: /2030/10/14/gatsby-examiner-marking/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: gatsby-analysis-into-argument
+  title: 'Turning Analysis into Argument on Gatsby: The Essay Method'
+  url: /2030/11/04/gatsby-analysis-into-argument/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: gatsby-essay-topics
+  title: 'Great Gatsby Essay Topics That Score Well: A Choice Guide'
+  url: /2030/05/13/gatsby-essay-topics/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: gatsby-thesis-statement
+  title: How to Write a Gatsby Thesis Statement That Earns Marks
+  url: /2030/04/08/gatsby-thesis-statement/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+gatsby-scholarship-survey:
+- slug: gatsby-symbolism-scholarship
+  title: 'Symbolism Scholarship on Great Gatsby: A Complete Map'
+  url: /2031/07/07/gatsby-symbolism-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: gatsby-feminist-scholarship
+  title: 'Feminist Scholarship on Great Gatsby: The Strand Map'
+  url: /2031/03/17/gatsby-feminist-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: gatsby-race-scholarship
+  title: 'Race Scholarship on Great Gatsby: The Full Strand Map'
+  url: /2031/03/10/gatsby-race-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: gatsby-scholarship-misconceptions
+  title: Common Misconceptions in Gatsby Scholarship, Corrected
+  url: /2031/06/09/gatsby-scholarship-misconceptions/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+gatsby-manuscript-history:
+- slug: gatsby-archival-sources
+  title: A Complete Guide to Archival Sources for Gatsby Research
+  url: /2031/05/12/gatsby-archival-sources/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: gatsby-trimalchio-draft
+  title: 'Trimalchio: The Early Draft of Gatsby, Fully Explained'
+  url: /2030/12/16/gatsby-trimalchio-draft/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: gatsby-textual-variants
+  title: 'Textual Variants in Great Gatsby: The Scholar''s Guide'
+  url: /2030/12/23/gatsby-textual-variants/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: gatsby-galley-proof-revisions
+  title: 'Fitzgerald''s Revisions in the Galley Proofs: The Late Text'
+  url: /2031/04/07/gatsby-galley-proof-revisions/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+gatsby-trimalchio-draft:
+- slug: gatsby-manuscript-history
+  title: The Manuscript History of Great Gatsby, Fully Mapped
+  url: /2030/12/09/gatsby-manuscript-history/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: gatsby-galley-proof-revisions
+  title: 'Fitzgerald''s Revisions in the Galley Proofs: The Late Text'
+  url: /2031/04/07/gatsby-galley-proof-revisions/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: gatsby-textual-variants
+  title: 'Textual Variants in Great Gatsby: The Scholar''s Guide'
+  url: /2030/12/23/gatsby-textual-variants/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: maxwell-perkins-editing-gatsby
+  title: Maxwell Perkins and the Editing of Gatsby
+  url: /2027/03/29/maxwell-perkins-editing-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+gatsby-textual-variants:
+- slug: gatsby-manuscript-history
+  title: The Manuscript History of Great Gatsby, Fully Mapped
+  url: /2030/12/09/gatsby-manuscript-history/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: gatsby-final-page-composition
+  title: Gatsby and the composition history of the final page
+  url: /2031/03/31/gatsby-final-page-composition/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: gatsby-trimalchio-draft
+  title: 'Trimalchio: The Early Draft of Gatsby, Fully Explained'
+  url: /2030/12/16/gatsby-trimalchio-draft/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: gatsby-archival-sources
+  title: A Complete Guide to Archival Sources for Gatsby Research
+  url: /2031/05/12/gatsby-archival-sources/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+gatsby-which-edition-to-cite:
+- slug: gatsby-textual-variants
+  title: 'Textual Variants in Great Gatsby: The Scholar''s Guide'
+  url: /2030/12/23/gatsby-textual-variants/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: gatsby-cite-mla
+  title: 'How to Cite The Great Gatsby in MLA: A Complete Guide'
+  url: /2031/01/06/gatsby-cite-mla/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: gatsby-cite-apa
+  title: 'How to Cite The Great Gatsby in APA: The Complete Guide'
+  url: /2031/01/13/gatsby-cite-apa/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: gatsby-peer-reviewed-sources
+  title: 'Finding Peer-Reviewed Gatsby Sources: A Research Guide'
+  url: /2031/01/27/gatsby-peer-reviewed-sources/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+gatsby-cite-mla:
+- slug: gatsby-cite-apa
+  title: 'How to Cite The Great Gatsby in APA: The Complete Guide'
+  url: /2031/01/13/gatsby-cite-apa/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: illusion-reality-great-gatsby
+  title: Illusion vs Reality in The Great Gatsby
+  url: /2024/07/01/illusion-reality-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: gatsby-symbol-vs-motif
+  title: Symbol Versus Motif in The Great Gatsby
+  url: /2026/06/15/gatsby-symbol-vs-motif/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: great-gatsby-chapter-3-meeting-gatsby
+  title: 'Great Gatsby Chapter 3: Meeting Gatsby'
+  url: /2022/08/22/great-gatsby-chapter-3-meeting-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+gatsby-cite-apa:
+- slug: gatsby-cite-mla
+  title: 'How to Cite The Great Gatsby in MLA: A Complete Guide'
+  url: /2031/01/06/gatsby-cite-mla/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: gatsby-symbolism-scholarship
+  title: 'Symbolism Scholarship on Great Gatsby: A Complete Map'
+  url: /2031/07/07/gatsby-symbolism-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: gatsby-which-edition-to-cite
+  title: 'Which Edition of Great Gatsby to Cite: A Scholar''s Guide'
+  url: /2030/12/30/gatsby-which-edition-to-cite/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: revise-gatsby-for-exams
+  title: 'How to Revise The Great Gatsby for Exams: A Complete Method'
+  url: /2030/07/29/revise-gatsby-for-exams/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+gatsby-annotated-bibliography:
+- slug: gatsby-essay-themes
+  title: 'How to Write About Gatsby''s Themes: Argue, Don''t List'
+  url: /2030/08/19/gatsby-essay-themes/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: gatsby-gcse-english
+  title: 'The Great Gatsby for GCSE English: A Practical Study Guide'
+  url: /2030/07/08/gatsby-gcse-english/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: gatsby-peer-reviewed-sources
+  title: 'Finding Peer-Reviewed Gatsby Sources: A Research Guide'
+  url: /2031/01/27/gatsby-peer-reviewed-sources/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: gatsby-model-paragraphs
+  title: Annotated Model Paragraphs for Gatsby Essays at Top Band
+  url: /2030/09/16/gatsby-model-paragraphs/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+gatsby-peer-reviewed-sources:
+- slug: gatsby-archival-sources
+  title: A Complete Guide to Archival Sources for Gatsby Research
+  url: /2031/05/12/gatsby-archival-sources/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: gatsby-digital-humanities
+  title: 'Quantitative and Digital Humanities on Gatsby: A Guide'
+  url: /2031/06/23/gatsby-digital-humanities/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: gatsby-open-research-problems
+  title: 'Open Research Problems in Gatsby Studies: Where Work Waits'
+  url: /2031/07/21/gatsby-open-research-problems/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: gatsby-original-thesis
+  title: 'Building an Original Thesis About Gatsby: A Complete Guide'
+  url: /2031/07/28/gatsby-original-thesis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+gatsby-dissertation-topics:
+- slug: gatsby-research-questions
+  title: 'Research Questions Worth Asking About Gatsby: A Guide'
+  url: /2031/02/10/gatsby-research-questions/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: daisy-scholarship-debate
+  title: 'The Daisy Debate in Gatsby Scholarship: Four Readings Mapped'
+  url: /2031/02/24/daisy-scholarship-debate/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: fitzgerald-letters-gatsby
+  title: 'Reading Fitzgerald''s Letters About Gatsby: A Scholar''s Guide'
+  url: /2031/05/19/fitzgerald-letters-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: gatsby-marxist-scholarship
+  title: 'Marxist Scholarship on Great Gatsby: The Full Strand Map'
+  url: /2031/03/24/gatsby-marxist-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+gatsby-research-questions:
+- slug: gatsby-dissertation-topics
+  title: 'Dissertation Topics on the Great Gatsby: A Working Guide'
+  url: /2031/02/03/gatsby-dissertation-topics/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: gatsby-original-thesis
+  title: 'Building an Original Thesis About Gatsby: A Complete Guide'
+  url: /2031/07/28/gatsby-original-thesis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: gatsby-criticism-by-decade
+  title: 'How Gatsby Criticism Changed by Decade: A Scholarly History'
+  url: /2031/04/21/gatsby-criticism-by-decade/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: daisy-scholarship-debate
+  title: 'The Daisy Debate in Gatsby Scholarship: Four Readings Mapped'
+  url: /2031/02/24/daisy-scholarship-debate/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+eckleburg-critical-debate:
+- slug: eyes-of-tj-eckleburg
+  title: The Eyes of Doctor T. J. Eckleburg
+  url: /2025/04/21/eyes-of-tj-eckleburg/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: eckleburg-description-quote
+  title: The Eyes of Eckleburg Description Analyzed
+  url: /2029/04/09/eckleburg-description-quote/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: daisy-scholarship-debate
+  title: 'The Daisy Debate in Gatsby Scholarship: Four Readings Mapped'
+  url: /2031/02/24/daisy-scholarship-debate/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: gatsby-final-page-composition
+  title: Gatsby and the composition history of the final page
+  url: /2031/03/31/gatsby-final-page-composition/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+daisy-scholarship-debate:
+- slug: daisy-buchanan-victim-or-villain
+  title: 'Daisy Buchanan: Victim, Villain, or Both?'
+  url: /2023/07/03/daisy-buchanan-victim-or-villain/
+  category: leisure
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: daisy-buchanan-character-analysis
+  title: 'Daisy Buchanan: A Complete Character Analysis'
+  url: /2023/06/26/daisy-buchanan-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: daisy-femme-fatale-tradition
+  title: Daisy and the Femme Fatale Tradition
+  url: /2028/09/11/daisy-femme-fatale-tradition/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-misunderstood-characters
+  title: The Most Misunderstood Gatsby Characters
+  url: /2024/04/08/gatsby-misunderstood-characters/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+nick-carraway-scholarly-debate:
+- slug: nick-carraway-moral-center
+  title: 'Nick Carraway: The Moral Center Question'
+  url: /2023/06/19/nick-carraway-moral-center/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: gatsby-quotes-by-nick
+  title: Key Quotes Said by Nick Carraway
+  url: /2029/06/25/gatsby-quotes-by-nick/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: gatsby-vs-catcher-in-the-rye
+  title: Gatsby vs The Catcher in the Rye
+  url: /2028/06/05/gatsby-vs-catcher-in-the-rye/
+  category: leisure
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: nick-reliability-debate
+  title: The Reliability Debate Around Nick Carraway, Mapped
+  url: /2031/06/30/nick-reliability-debate/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+gatsby-race-scholarship:
+- slug: gatsby-feminist-scholarship
+  title: 'Feminist Scholarship on Great Gatsby: The Strand Map'
+  url: /2031/03/17/gatsby-feminist-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: gatsby-marxist-scholarship
+  title: 'Marxist Scholarship on Great Gatsby: The Full Strand Map'
+  url: /2031/03/24/gatsby-marxist-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: critical-race-theory-gatsby
+  title: Race and Critical Race Theory in Gatsby
+  url: /2027/11/08/critical-race-theory-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: race-whiteness-great-gatsby
+  title: Race and Whiteness in The Great Gatsby
+  url: /2024/11/18/race-whiteness-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+gatsby-feminist-scholarship:
+- slug: gatsby-race-scholarship
+  title: 'Race Scholarship on Great Gatsby: The Full Strand Map'
+  url: /2031/03/10/gatsby-race-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: gatsby-marxist-scholarship
+  title: 'Marxist Scholarship on Great Gatsby: The Full Strand Map'
+  url: /2031/03/24/gatsby-marxist-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: gender-theory-great-gatsby
+  title: Gender Theory and The Great Gatsby
+  url: /2027/11/22/gender-theory-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-criticism-by-decade
+  title: 'How Gatsby Criticism Changed by Decade: A Scholarly History'
+  url: /2031/04/21/gatsby-criticism-by-decade/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+gatsby-marxist-scholarship:
+- slug: gatsby-race-scholarship
+  title: 'Race Scholarship on Great Gatsby: The Full Strand Map'
+  url: /2031/03/10/gatsby-race-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: gatsby-feminist-scholarship
+  title: 'Feminist Scholarship on Great Gatsby: The Strand Map'
+  url: /2031/03/17/gatsby-feminist-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: queer-reading-great-gatsby
+  title: A Queer Reading of The Great Gatsby
+  url: /2027/10/11/queer-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: gatsby-symbolism-scholarship
+  title: 'Symbolism Scholarship on Great Gatsby: A Complete Map'
+  url: /2031/07/07/gatsby-symbolism-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+gatsby-final-page-composition:
+- slug: gatsby-textual-variants
+  title: 'Textual Variants in Great Gatsby: The Scholar''s Guide'
+  url: /2030/12/23/gatsby-textual-variants/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: fitzgerald-letters-gatsby
+  title: 'Reading Fitzgerald''s Letters About Gatsby: A Scholar''s Guide'
+  url: /2031/05/19/fitzgerald-letters-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: gatsby-criticism-by-decade
+  title: 'How Gatsby Criticism Changed by Decade: A Scholarly History'
+  url: /2031/04/21/gatsby-criticism-by-decade/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: great-gatsby-chapter-9-final-page
+  title: 'Great Gatsby Chapter 9: The Final Page Analyzed'
+  url: /2023/01/02/great-gatsby-chapter-9-final-page/
+  category: leisure
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+gatsby-galley-proof-revisions:
+- slug: gatsby-manuscript-history
+  title: The Manuscript History of Great Gatsby, Fully Mapped
+  url: /2030/12/09/gatsby-manuscript-history/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: gatsby-trimalchio-draft
+  title: 'Trimalchio: The Early Draft of Gatsby, Fully Explained'
+  url: /2030/12/16/gatsby-trimalchio-draft/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: gatsby-textual-variants
+  title: 'Textual Variants in Great Gatsby: The Scholar''s Guide'
+  url: /2030/12/23/gatsby-textual-variants/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: gatsby-passage-of-time-craft
+  title: How Fitzgerald Handles the Passage of Time
+  url: /2026/09/28/gatsby-passage-of-time-craft/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+gatsby-1925-periodical-reception:
+- slug: gatsby-critical-reception
+  title: 'Great Gatsby Critical Reception: How the Verdict Reversed'
+  url: /2029/12/17/gatsby-critical-reception/
+  category: leisure
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: gatsby-entered-canon
+  title: 'How Great Gatsby Entered the Canon: Made, Not Given'
+  url: /2029/12/24/gatsby-entered-canon/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: lost-generation-great-gatsby
+  title: The Lost Generation and The Great Gatsby
+  url: /2026/12/21/lost-generation-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-translations
+  title: 'How Translations Handle Great Gatsby: The Translator''s Trial'
+  url: /2030/02/18/gatsby-translations/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+gatsby-criticism-by-decade:
+- slug: gatsby-race-scholarship
+  title: 'Race Scholarship on Great Gatsby: The Full Strand Map'
+  url: /2031/03/10/gatsby-race-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: gatsby-feminist-scholarship
+  title: 'Feminist Scholarship on Great Gatsby: The Strand Map'
+  url: /2031/03/17/gatsby-feminist-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: gatsby-marxist-scholarship
+  title: 'Marxist Scholarship on Great Gatsby: The Full Strand Map'
+  url: /2031/03/24/gatsby-marxist-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: gatsby-orgastic-future-quote
+  title: 'An Orgastic Future: The Word Choice Debate'
+  url: /2029/03/26/gatsby-orgastic-future-quote/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: gatsby-international-reception
+  title: Scholarly Reception of Gatsby Outside the United States
+  url: /2031/07/14/gatsby-international-reception/
+  category: leisure
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+new-critics-great-gatsby:
+- slug: gatsby-gaps-ellipses
+  title: Gaps, Ellipses, and the Unsaid in Gatsby
+  url: /2026/08/17/gatsby-gaps-ellipses/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: gatsby-critical-history
+  title: How Critics Have Read Gatsby Over Time
+  url: /2028/02/28/gatsby-critical-history/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: gatsby-brevity-craft
+  title: How The Great Gatsby Achieves Its Brevity
+  url: /2026/10/12/gatsby-brevity-craft/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: gatsby-irony
+  title: 'Irony in The Great Gatsby: The Novel''s Basic Mode'
+  url: /2026/03/30/gatsby-irony/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+trilling-on-great-gatsby:
+- slug: gatsby-entered-canon
+  title: 'How Great Gatsby Entered the Canon: Made, Not Given'
+  url: /2029/12/24/gatsby-entered-canon/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: biographical-criticism-gatsby
+  title: A Biographical Criticism of The Great Gatsby
+  url: /2027/12/20/biographical-criticism-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: gatsby-misquoted-lines
+  title: Most Misquoted Lines From The Great Gatsby
+  url: /2029/07/09/gatsby-misquoted-lines/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: space-place-theory-gatsby
+  title: Space and Place Theory in The Great Gatsby
+  url: /2028/02/07/space-place-theory-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+gatsby-archival-sources:
+- slug: gatsby-manuscript-history
+  title: The Manuscript History of Great Gatsby, Fully Mapped
+  url: /2030/12/09/gatsby-manuscript-history/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: gatsby-textual-variants
+  title: 'Textual Variants in Great Gatsby: The Scholar''s Guide'
+  url: /2030/12/23/gatsby-textual-variants/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: gatsby-peer-reviewed-sources
+  title: 'Finding Peer-Reviewed Gatsby Sources: A Research Guide'
+  url: /2031/01/27/gatsby-peer-reviewed-sources/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: gatsby-authorial-intention
+  title: 'The Authorial Intention Debate in Gatsby: A Complete Map'
+  url: /2031/05/26/gatsby-authorial-intention/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+fitzgerald-letters-gatsby:
+- slug: fitzgerald-short-stories-gatsby
+  title: Fitzgerald's Short Stories and Gatsby
+  url: /2027/04/26/fitzgerald-short-stories-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: postcolonial-reading-gatsby
+  title: A Postcolonial Reading of The Great Gatsby
+  url: /2027/10/04/postcolonial-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: f-scott-fitzgerald-biography
+  title: 'F. Scott Fitzgerald: A Life for Readers'
+  url: /2026/11/09/f-scott-fitzgerald-biography/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: fitzgerald-riviera-years
+  title: Fitzgerald and the Riviera Years
+  url: /2027/04/12/fitzgerald-riviera-years/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+gatsby-authorial-intention:
+- slug: gatsby-archival-sources
+  title: A Complete Guide to Archival Sources for Gatsby Research
+  url: /2031/05/12/gatsby-archival-sources/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: great-gatsby-plot-structure-map
+  title: 'The Great Gatsby: Full Plot and Structure Map'
+  url: /2022/01/17/great-gatsby-plot-structure-map/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: gatsby-characterization-technique
+  title: Characterization Techniques in Gatsby
+  url: /2026/05/11/gatsby-characterization-technique/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: gatsby-understatement
+  title: Understatement and Restraint in Gatsby
+  url: /2026/07/13/gatsby-understatement/
+  category: leisure
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+teaching-gatsby-scholars-guide:
+- slug: gatsby-symbolism-scholarship
+  title: 'Symbolism Scholarship on Great Gatsby: A Complete Map'
+  url: /2031/07/07/gatsby-symbolism-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: gatsby-frontier-myth
+  title: 'The Frontier in The Great Gatsby: The Westering Myth'
+  url: /2024/11/11/gatsby-frontier-myth/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: new-critics-great-gatsby
+  title: 'The New Critics and Great Gatsby: Close Reading Canonized'
+  url: /2031/04/28/new-critics-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-flowers-daisy-symbol
+  title: Flowers and the Name Daisy in The Great Gatsby
+  url: /2025/09/01/gatsby-flowers-daisy-symbol/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+gatsby-scholarship-misconceptions:
+- slug: gatsby-scholarship-survey
+  title: 'A Survey of Great Gatsby Scholarship: Mapping the Field'
+  url: /2030/12/02/gatsby-scholarship-survey/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-criticism-by-decade
+  title: 'How Gatsby Criticism Changed by Decade: A Scholarly History'
+  url: /2031/04/21/gatsby-criticism-by-decade/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-symbolism-scholarship
+  title: 'Symbolism Scholarship on Great Gatsby: A Complete Map'
+  url: /2031/07/07/gatsby-symbolism-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: gatsby-authorial-intention
+  title: 'The Authorial Intention Debate in Gatsby: A Complete Map'
+  url: /2031/05/26/gatsby-authorial-intention/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+gatsby-literature-review:
+- slug: gatsby-original-thesis
+  title: 'Building an Original Thesis About Gatsby: A Complete Guide'
+  url: /2031/07/28/gatsby-original-thesis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: gatsby-digital-humanities
+  title: 'Quantitative and Digital Humanities on Gatsby: A Guide'
+  url: /2031/06/23/gatsby-digital-humanities/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: gatsby-essay-introduction
+  title: 'How to Write a Gatsby Introduction: Framing the Thesis'
+  url: /2030/04/29/gatsby-essay-introduction/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: gatsby-symbolism-scholarship
+  title: 'Symbolism Scholarship on Great Gatsby: A Complete Map'
+  url: /2031/07/07/gatsby-symbolism-scholarship/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+gatsby-digital-humanities:
+- slug: gatsby-open-research-problems
+  title: 'Open Research Problems in Gatsby Studies: Where Work Waits'
+  url: /2031/07/21/gatsby-open-research-problems/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: gatsby-original-thesis
+  title: 'Building an Original Thesis About Gatsby: A Complete Guide'
+  url: /2031/07/28/gatsby-original-thesis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: gatsby-peer-reviewed-sources
+  title: 'Finding Peer-Reviewed Gatsby Sources: A Research Guide'
+  url: /2031/01/27/gatsby-peer-reviewed-sources/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: narratology-great-gatsby
+  title: Narratology and The Great Gatsby
+  url: /2028/01/10/narratology-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-115.webp
+  lang: en
+nick-reliability-debate:
+- slug: nick-carraway-scholarly-debate
+  title: Is Nick Gay? The Scholarly Argument in Gatsby Criticism
+  url: /2031/03/03/nick-carraway-scholarly-debate/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: gatsby-reserving-judgments-quote
+  title: Reserving Judgments Quote Analyzed
+  url: /2029/03/05/gatsby-reserving-judgments-quote/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: queer-reading-great-gatsby
+  title: A Queer Reading of The Great Gatsby
+  url: /2027/10/11/queer-reading-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: nick-witness-narrator-tradition
+  title: Nick Carraway and the Witness-Narrator Tradition
+  url: /2028/08/14/nick-witness-narrator-tradition/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+gatsby-symbolism-scholarship:
+- slug: gatsby-color-device
+  title: Color as a Literary Device in Gatsby
+  url: /2026/06/08/gatsby-color-device/
+  category: leisure
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: gatsby-symbol-vs-motif
+  title: Symbol Versus Motif in The Great Gatsby
+  url: /2026/06/15/gatsby-symbol-vs-motif/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: gatsby-party-novel-tradition
+  title: Gatsby and the Great American Party Novel
+  url: /2028/09/18/gatsby-party-novel-tradition/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: ecocritical-reading-gatsby
+  title: An Ecocritical Reading of Great Gatsby
+  url: /2027/10/25/ecocritical-reading-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+gatsby-international-reception:
+- slug: gatsby-criticism-by-decade
+  title: 'How Gatsby Criticism Changed by Decade: A Scholarly History'
+  url: /2031/04/21/gatsby-criticism-by-decade/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: gatsby-scholarship-survey
+  title: 'A Survey of Great Gatsby Scholarship: Mapping the Field'
+  url: /2030/12/02/gatsby-scholarship-survey/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: gatsby-translations
+  title: 'How Translations Handle Great Gatsby: The Translator''s Trial'
+  url: /2030/02/18/gatsby-translations/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: gatsby-global-readership
+  title: 'Great Gatsby''s Global Readership: A World of Readers'
+  url: /2030/02/25/gatsby-global-readership/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+gatsby-open-research-problems:
+- slug: gatsby-digital-humanities
+  title: 'Quantitative and Digital Humanities on Gatsby: A Guide'
+  url: /2031/06/23/gatsby-digital-humanities/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: gatsby-original-thesis
+  title: 'Building an Original Thesis About Gatsby: A Complete Guide'
+  url: /2031/07/28/gatsby-original-thesis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: gatsby-research-questions
+  title: 'Research Questions Worth Asking About Gatsby: A Guide'
+  url: /2031/02/10/gatsby-research-questions/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: gatsby-archival-sources
+  title: A Complete Guide to Archival Sources for Gatsby Research
+  url: /2031/05/12/gatsby-archival-sources/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+gatsby-original-thesis:
+- slug: gatsby-open-research-problems
+  title: 'Open Research Problems in Gatsby Studies: Where Work Waits'
+  url: /2031/07/21/gatsby-open-research-problems/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: gatsby-research-questions
+  title: 'Research Questions Worth Asking About Gatsby: A Guide'
+  url: /2031/02/10/gatsby-research-questions/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: gatsby-literature-review
+  title: 'How to Write a Literature Review on Gatsby: A Complete Guide'
+  url: /2031/06/16/gatsby-literature-review/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: gatsby-digital-humanities
+  title: 'Quantitative and Digital Humanities on Gatsby: A Guide'
+  url: /2031/06/23/gatsby-digital-humanities/
+  category: leisure
+  image: /assets/images/blog/blog-113.webp
   lang: en

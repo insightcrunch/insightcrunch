@@ -9,7 +9,7 @@ excerpt: "Great Gatsby pop culture fills film, music, and speech with green ligh
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2030-01-14
+last_updated: 2026-09-29
 lang: en
 ---
 Great Gatsby pop culture is one of the strangest phenomena in American letters: a slim novel of roughly 47,000 words, first published on April 10, 1925, to modest sales of about 20,000 copies in its first year, that went on to become a universal shorthand. Its images circulate among people who have never opened it, its phrases drop into conversation among people who could not name its narrator, and its mood decorates products its author never imagined. The book failed commercially in F. Scott Fitzgerald's lifetime, and Fitzgerald died in 1940 believing his finest work had been forgotten. What happened afterward was not merely a revival. It was a transformation of a novel into a cultural utility, a set of symbols and surfaces that the wider culture uses for its own purposes.

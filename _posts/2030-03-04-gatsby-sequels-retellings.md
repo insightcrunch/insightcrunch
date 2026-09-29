@@ -9,7 +9,7 @@ excerpt: "Gatsby sequels prequels retellings each answer questions the novel lef
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2030-03-04
+last_updated: 2026-09-29
 lang: en
 ---
 ## Why Gatsby Sequels Prequels Retellings Keep Coming

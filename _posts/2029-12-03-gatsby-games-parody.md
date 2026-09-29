@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby video game turns the parties and the green light into
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2029-12-03
+last_updated: 2026-09-29
 lang: en
 ---
 ## Why does the Great Gatsby video game tradition matter to readers?

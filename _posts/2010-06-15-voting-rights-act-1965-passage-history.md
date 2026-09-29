@@ -9,7 +9,7 @@ excerpt: "Selma to signature in five months: the Voting Rights Act of 1965 passa
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 70
 author: "michael-brooks"
-last_updated: "2010-06-15"
+last_updated: 2026-09-29
 lang: en
 ---
 The central puzzle of the Voting Rights Act of 1965 passage was procedural before it was political. Everyone involved knew that a voting bill faced two separate deaths, and that surviving one without surviving the other was no survival at all. The Senate, where any major civil rights measure had to run the gauntlet of a southern filibuster, was the first graveyard. The South itself, where registrars and county machines had absorbed a decade of federal voting law without changing their habits, was the second. A bill that could not break cloture would never reach the President's desk, and a bill that reached the desk but depended on the same enforcement machinery as its predecessors would be celebrated, signed, and then quietly starved by the arithmetic of southern resistance. The history of how this particular statute moved from impasse to enactment is the history of a draft designed, for the first time, against both dangers at once.

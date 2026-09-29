@@ -9,7 +9,7 @@ excerpt: "Writing the AP Lit prose essay on Gatsby rewards close reading against
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2030-06-10
+last_updated: 2026-09-29
 lang: en
 ---
 Close reading against the clock. That phrase names the entire discipline behind the prose-analysis essay, and it is the standard this guide holds every paragraph of student writing to. The AP Lit prose-analysis essay asks students to analyze a given passage's techniques and meaning, and a Gatsby excerpt rewards close attention to its prose. Most students arrive at this task with two habits that fight each other: they either read the passage the way they would read for pleasure, drifting through the language without marking anything, or they panic and start hunting for literary terms like a scavenger hunt, circling metaphors and symbols without asking what any of it proves. Both habits fail the task. The method below replaces them with a timed routine: read with a pencil, mark what the language is doing, commit to a thesis before drafting, and make every paragraph argue that the technique you spotted produces the meaning you claim. A Gatsby passage is the ideal training ground because Fitzgerald's sentences carry so much craft per line that a careful reader never runs out of material, and a careless reader reveals every gap in their method within minutes.

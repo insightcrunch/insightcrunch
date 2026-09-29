@@ -9,7 +9,7 @@ excerpt: "How to build a Gatsby revision timetable: backward-plan from the exam 
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2030-10-28
+last_updated: 2026-09-29
 lang: en
 ---
 Most students who ask how to build a Gatsby revision timetable are really asking how to stop dreading one. The dread has a recognizable shape: an examination date that is both near and vague, a novel that has been read and half-remembered, a pile of notes that grows with every lesson, and a plan that consists of a single intention, to revise. That intention, left unconverted, does nothing. It cannot be executed on any particular evening, it cannot be checked against any particular standard, and it collapses the moment a busy week arrives. The method of this guide converts it. A Gatsby revision timetable backward-plans from the exam date, spacing themes, quotations, and practice essays across specific, dated sessions, so nothing is left to cram and nothing depends on willpower arriving conveniently on the day. The schedule itself converts a vague intention to revise into specific, spaced sessions that actually consolidate. That is the namable claim of this article, and everything that follows is the machinery for making it true: a plan that turns dread into sessions.

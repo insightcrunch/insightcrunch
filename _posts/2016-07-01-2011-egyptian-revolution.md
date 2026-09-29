@@ -9,7 +9,7 @@ excerpt: "Eighteen days of protest in Tahrir Square ended thirty years of rule. 
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2016-07-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## Eighteen Days That Shook Egypt

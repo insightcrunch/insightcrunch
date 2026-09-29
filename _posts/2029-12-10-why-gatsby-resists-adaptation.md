@@ -9,7 +9,7 @@ excerpt: "Why Great Gatsby resists adaptation is a question of prose: Nick's int
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
 author: "olivia-grant"
-last_updated: 2029-12-10
+last_updated: 2026-09-29
 lang: en
 ---
 ## Why Great Gatsby Resists Adaptation

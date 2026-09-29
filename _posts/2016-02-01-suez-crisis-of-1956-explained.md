@@ -9,7 +9,7 @@ excerpt: "Nasser nationalized the Suez Canal, sparking the Suez Crisis as Britai
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2016-02-01
+last_updated: 2026-09-29
 lang: en
 ---
 On the night of July 26, 1956, in Manshiya Square in Alexandria, Gamal Abdel Nasser stood before a crowd estimated at between 200,000 and 250,000 Egyptians and pronounced a sentence that detonated the Suez Crisis. As his voice rose, he read from a decree that seized the Universal Suez Canal Company and placed its assets, its payroll, and its revenues under Egyptian ownership. The crowd heard him roll out the code word "de Lesseps," the name of the French builder of the waterway, repeated to signal the seizure teams waiting at company offices, and they answered with a roar that rolled off the Mediterranean and into history. Ships in Port Said still flew foreign flags that night, but the channel they sailed belonged, from that hour forward, to Egypt.

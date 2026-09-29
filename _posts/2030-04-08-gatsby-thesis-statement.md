@@ -9,7 +9,7 @@ excerpt: "How to write a Gatsby thesis statement that earns marks: the arguable,
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 68
 author: "megan-clark"
-last_updated: 2030-04-08
+last_updated: 2026-09-29
 lang: en
 ---
 ## How to Write a Gatsby Thesis Statement

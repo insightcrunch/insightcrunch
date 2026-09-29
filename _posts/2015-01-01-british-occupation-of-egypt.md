@@ -9,7 +9,7 @@ excerpt: "The British occupation of Egypt was an empire disguised as advice. An 
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 81
 author: "chloe-martin"
-last_updated: 2015-01-01
+last_updated: 2026-09-29
 lang: en
 ---
 The British occupation of Egypt is the strangest empire of the modern age. From 1882 until the middle of the twentieth century, Egypt was ruled by Britain. British officials drew up its budgets, commanded its army, censored its press, and decided which ministers could hold office and which had to go. And for most of those seventy years, Britain officially insisted that none of this was happening. The occupation was described in London as a temporary mission, a kind of friendly tutelage that would end the moment Egypt could stand on its own. The advisers in Cairo were merely advising, or so the story ran, even when the advice arrived with a gunboat attached. Egyptians who lived under this arrangement had a sharper word for it. They called it rule, and they were right.

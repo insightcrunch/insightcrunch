@@ -9,7 +9,7 @@ excerpt: "Which edition of Great Gatsby to cite depends on purpose: scholarship 
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2030-12-30
+last_updated: 2026-09-29
 lang: en
 ---
 ## Which edition of Great Gatsby to cite: why the choice shapes your argument

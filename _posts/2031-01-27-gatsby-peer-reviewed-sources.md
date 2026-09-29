@@ -9,7 +9,7 @@ excerpt: "Finding peer-reviewed gatsby sources means learning the databases and 
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2031-01-27
+last_updated: 2026-09-29
 lang: en
 ---
 A student who types a question about The Great Gatsby into a web search meets a flood of answers: plot summaries, chapter notes, quote collections, video explainers, and, buried somewhere past the first page, the scholarship. The flood looks uniform, but it is not. Knowing scholarship from filler: finding peer-reviewed Gatsby sources means using academic databases and recognizing the marks of reviewed work, so the skill is discrimination, distinguishing the genuine scholarship a credible project rests on from the study guides and unreviewed pages that cannot bear that weight. That single distinction decides whether a project stands on evidence or on borrowed summaries, and it is a skill anyone can learn.

@@ -9,7 +9,7 @@ excerpt: "Great Gatsby essay topics that score well are arguable and evidence-ri
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 68
 author: "diana-patel"
-last_updated: 2030-05-13
+last_updated: 2026-09-29
 lang: en
 ---
 ## Great Gatsby Essay Topics That Score Well: The Central Claim

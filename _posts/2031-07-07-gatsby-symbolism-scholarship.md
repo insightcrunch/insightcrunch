@@ -9,7 +9,7 @@ excerpt: "Symbolism scholarship on Great Gatsby maps the green light, eyes, vall
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2031-07-07
+last_updated: 2026-09-29
 lang: en
 ---
 ## Symbolism Scholarship on Great Gatsby: Reading the Symbols as Scholars Have

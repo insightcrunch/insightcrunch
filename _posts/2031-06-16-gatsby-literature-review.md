@@ -9,7 +9,7 @@ excerpt: "Learning how to write a literature review on Gatsby means synthesizing
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2031-06-16
+last_updated: 2026-09-29
 lang: en
 ---
 Most students who search for how to write a literature review on gatsby begin by reading a stack of scholarly essays and then writing down what each one says, in order, one paragraph per critic. The result reads like a receiving line at a formal event. Each scholar steps forward, bows, and is introduced, and then the next steps forward. Nothing touches anything else. The reader learns that Marius Bewley wrote about the novel in 1954 and that Judith Fetterley wrote about it in 1978 and that the materialist readings came later, but learns nothing about whether those writers agree, what they disagree about, or why any of it matters to the project the review is supposed to introduce. This is the complication this guide confronts head on. The string of summaries feels like diligence and is in fact evasion. It reports the existence of scholarship without entering the conversation the scholarship constitutes, and a literature review that does not enter the conversation is not a literature review at all.

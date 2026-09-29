@@ -9,7 +9,7 @@ excerpt: "Egyptian nationalism under British rule asked whether Egyptians were E
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2015-07-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## Egypt's Longest Argument: Nationalism and the Making of Egyptian Identity

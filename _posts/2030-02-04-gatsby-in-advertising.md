@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby in advertising and brands: brands borrow the glamour 
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2030-02-04
+last_updated: 2026-09-29
 lang: en
 ---
 The question that opens this article is the advertiser's question, and it belongs to the reader too: why would anyone sell luxury with a novel about the emptiness of luxury? The Great Gatsby in advertising and brands is one of the strangest chapters in the book's long afterlife. The name that Fitzgerald gave to a bootlegger's doomed fantasy now decorates champagne bottles, clothing lines, hotels, property developments, and parties staged by people who have never read past the cover. The borrowing works because the novel supplies what no invented slogan can supply: a century of accumulated glamour, instantly legible, carrying the whole Jazz Age in two syllables. And the borrowing carries a built-in contradiction, because the thing being sold is the surface of a book whose entire argument is that the surface is empty.

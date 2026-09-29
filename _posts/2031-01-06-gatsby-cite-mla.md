@@ -9,7 +9,7 @@ excerpt: "Learn how to cite The Great Gatsby in MLA style with works-cited entri
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2031-01-06
+last_updated: 2026-09-29
 lang: en
 ---
 Citing the novel right in MLA: MLA style has specific works-cited and in-text forms for The Great Gatsby and its sources, so getting them exact matters, the correct edition, page references, and entry format being the difference between a credible apparatus and a flawed one. An essay can argue brilliantly about the green light, the ash valley, and the hollow hospitality of the Buchanan house, yet lose authority the moment its documentation slips, a misplaced period or a fabricated publisher making the reader doubt every page reference that follows. Documentation is the machinery under the argument, and MLA, now in its ninth edition, gives that machinery a fixed shape: one entry pattern for the novel, one pattern for a scholarly edition with an editor, one pattern for a journal article, one pattern for a book chapter, and one pattern for a digital text. Learn those five shapes and the whole essay holds together; guess at them and the apparatus creaks. The sections that follow build each shape from its first principles, so that by the end the writer can produce any of the five from memory and recognize any of them on sight.

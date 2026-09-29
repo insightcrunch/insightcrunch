@@ -9,7 +9,7 @@ excerpt: "Mubarak gave Egypt three decades of stability that hardened into repre
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 76
 author: "rachel-foster"
-last_updated: 2016-06-01
+last_updated: 2026-09-29
 lang: en
 ---
 When Hosni Mubarak stepped down on February 11, 2011, eighteen days of street protests had ended a presidency that had lasted nearly thirty years. Egyptians who had never known another president watched the announcement on state television, and foreign governments that had treated Cairo as a fixed point in a volatile region scrambled to adjust. The scenes in Tahrir Square were the visible end of a longer story. Mubarak had delivered decades of steadiness to a country exhausted by war, revolution, and sudden rupture, and that steadiness slowly hardened into stagnation, repression, and corruption. The very calm that defined his rule bred the anger that ended it.

@@ -9,7 +9,7 @@ excerpt: "The Eckleburg eyes: a critical debate mapped across the divine, absent
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2031-02-17
+last_updated: 2026-09-29
 lang: en
 ---
 This is the eckleburg eyes: a critical debate mapped, position by position, with the evidence each reading rests on and the line of argument its proponents use, so that a reader can see the whole disagreement at once instead of meeting it one confident claim at a time. The pair of giant bespectacled eyes on a billboard above the valley of ashes has drawn more scholarly disagreement than any other image in The Great Gatsby, and the disagreement has a shape worth learning before anyone picks up a side. Some critics read the eyes as God, a moral witness brooding over a corrupt landscape. Others read them as the death of God, a faded sign of a faith that has withdrawn. Others read them as commerce, an advertisement that has replaced worship with trade. Others read them as a void, paint that means nothing and therefore exposes the hunger for meaning itself. A fifth line of argument treats the eyes as the reader, the act of watching staged inside the novel. Each position has textual ground to stand on, each has a serious weakness its opponents press, and the text keeps all of them alive at once. That is the namable claim of this article: one symbol, many scholarly verdicts, and the openness of the image is exactly what generates the debate rather than an accident the debate should fix.

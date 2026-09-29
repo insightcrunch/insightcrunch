@@ -9,7 +9,7 @@ excerpt: "Common misconceptions in Gatsby scholarship reach the seminar. Each er
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2031-06-09
+last_updated: 2026-09-29
 lang: en
 ---
 ## Common Misconceptions in Gatsby Scholarship: The Errors That Survive Into the Seminar

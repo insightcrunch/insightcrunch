@@ -9,7 +9,7 @@ excerpt: "How Muhammad Ali turned Egyptian peasants into a European-style army t
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 72
 author: "amanda-ross"
-last_updated: 2014-07-01
+last_updated: 2026-09-29
 lang: en
 ---
 How did an Ottoman provincial governor build the strongest military machine in the Middle East out of peasant farmers? Muhammad Ali's army is the answer, and it is one of the most remarkable military creations of the nineteenth century. Between 1822 and 1840 the ruler of Egypt conscripted tens of thousands of fellahin, drilled them in European tactics under French officers, armed them with cannon cast in Egyptian foundries, and launched them on campaigns that conquered Sudan, Arabia, and Syria and twice shattered the armies of the Ottoman sultan himself. Then, at the peak of his power, the great European navies intervened, and the force that had humbled an empire was cut down to 18,000 men.

@@ -9,7 +9,7 @@ excerpt: "How Luhrmann's soundtrack reframes Gatsby: why the 2013 film's anachro
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 39
 author: "amanda-ross"
-last_updated: 2029-10-15
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Question a Song Cue Asks

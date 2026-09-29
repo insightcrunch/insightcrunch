@@ -9,7 +9,7 @@ excerpt: "Gatsby for the IB individual oral succeeds when the passage serves the
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2030-06-24
+last_updated: 2026-09-29
 lang: en
 ---
 The IB individual oral is a strange examination. For ten minutes a student speaks about a global issue through extracts from two studied works, and then the examiner questions the speaker for five minutes more. The individual oral explores a global issue through extracts, and a Gatsby passage must serve a clear global issue. That sentence is the whole task in miniature, and most preparation fails because it ignores half of it. Students prepare the passage and hope the issue will attach itself somewhere during the talk, as if proximity were the same as argument.

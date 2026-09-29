@@ -9,7 +9,7 @@ excerpt: "What adaptations get wrong about Gatsby: film versions romanticize the
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2030-03-25
+last_updated: 2026-09-29
 lang: en
 ---
 ## What Adaptations Get Wrong About Gatsby

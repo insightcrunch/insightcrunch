@@ -9,7 +9,7 @@ excerpt: "Feminist scholarship on Great Gatsby maps how critics read Daisy, Jord
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2031-03-17
+last_updated: 2026-09-29
 lang: en
 ---
 Feminist scholarship on The Great Gatsby is the strand that took the novel's women seriously when almost nobody else did. For decades the critical conversation treated Daisy Buchanan as a symbol to decode, Jordan Baker as a sporting accessory to the plot, and Myrtle Wilson as a device who had to die on schedule. Nick Carraway's narration supplied the verdicts, and readers accepted them: the women were careless, or hollow, or vulgar, and the novel's moral weight belonged to the men who judged them. The scholars this article maps refused that arrangement. They asked what happens when a reader stops identifying with Nick, when Daisy's silences are heard as speech, when Jordan's dishonesty is read as strategy, and when Myrtle's death is treated as an event with a politics rather than a twist with a function. That refusal, worked out across decades of argument, made gender one of the central scholarly questions about the novel, and this article maps how it happened.

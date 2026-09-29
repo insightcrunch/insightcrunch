@@ -9,7 +9,7 @@ excerpt: "Great Gatsby for IB English works when students treat the novel as a g
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2030-06-17
+last_updated: 2026-09-29
 lang: en
 ---
 Most students arrive at the International Baccalaureate with a reflex built by years of school essays: find the theme, find three quotes, arrange them into introduction, body, and conclusion, and trust that clean writing will carry the grade. The Diploma Programme rewards something else. Its English courses ask students to read literature through global issues and conceptual lenses, to connect a text to the world beyond its pages, and to show that connection working inside several different kinds of assessment. A student can write a fluent, well-structured essay about The Great Gatsby and still miss what the programme measures, because fluency was never the main thing being measured.

@@ -9,7 +9,7 @@ excerpt: "Every Great Gatsby film adaptation ranked, from the lost 1926 silent t
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 39
 author: "diana-patel"
-last_updated: 2029-09-03
+last_updated: 2026-09-29
 lang: en
 ---
 Four times in a century, a studio has decided that Fitzgerald's novel would make a film, and four times the result has divided its audience. Every Great Gatsby film adaptation ranked here confronts the same obstacle, and the obstacle is not the parties or the period or the tragedy. It is that the novel's power lives in a retrospective narrating voice, and cameras do not have one. This article ranks the versions, states the criteria openly, and argues that the ranking is a map of how four eras handled a single unsolved problem.

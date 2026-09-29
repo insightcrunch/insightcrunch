@@ -9,7 +9,7 @@ excerpt: "Voting Rights Act votes built the coalition roll call by roll call: a 
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 69
 author: "natalie-webb"
-last_updated: "2010-10-01"
+last_updated: 2026-09-29
 lang: en
 ---
 The Voting Rights Act votes of May 1965 tell a sharper story than the one told at signing ceremonies. The familiar history runs through Selma: the marches, the violence on the Edmund Pettus Bridge, President Johnson's address to a joint session of Congress on March 15, and the signing of the act on August 6. None of that is wrong, but it places the drama in the streets and the White House while the decisive contest happened on the Senate floor, and it was a contest about procedure. The opponents of the bill never needed to defeat it on the merits. They needed only to prevent a vote from happening. Once the Senate voted, the outcome was never in doubt. The entire battle, therefore, was about whether the Senate would be permitted to vote at all.

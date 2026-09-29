@@ -9,7 +9,7 @@ excerpt: "The women of Gatsby through a feminist lens are neither weak nor villa
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
 author: "emily-reed"
-last_updated: 2027-08-16
+last_updated: 2026-09-29
 lang: en
 ---
 Three women, three cages. That is the claim a feminist lens makes about The Great Gatsby, and it reorganizes the novel more thoroughly than any ranking of likable and unlikable characters. Daisy Buchanan, Jordan Baker, and Myrtle Wilson are not weak women, and they are not villains either. Each one possesses real agency, each one faces a constraint she did not choose, and each one's cage is built from different materials: wealth for Daisy, reputation for Jordan, class for Myrtle. The lens does not ask the reader to excuse what the women do. It asks the reader to notice what the novel allows them to do, and what it forbids, and how the difference between those two lists explains almost every choice that looks like a moral failure on a first reading.

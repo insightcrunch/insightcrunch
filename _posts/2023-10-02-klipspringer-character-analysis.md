@@ -9,7 +9,7 @@ excerpt: "Klipspringer: the boarder who stayed plays piano in Chapter 5, skips t
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 69
 author: "olivia-grant"
-last_updated: 2023-10-02
+last_updated: 2026-09-29
 lang: en
 ---
 Every reader of The Great Gatsby remembers the green light and the shirts and the ash-grey men of the valley. Fewer remember the man at the piano. He appears twice in the whole novel, once at a keyboard and once on a telephone, and both times he is an interruption. Gatsby has to go and fetch him. Nick has to hang up on him. This study makes one claim about him and keeps it in view from the first paragraph to the last: Klipspringer is the guest who wanted his shoes back. Everything else Fitzgerald tells us about him, the piano playing, the residence that is not quite a residence, the missed funeral, is evidence for that sentence, and the sentence is the coldest joke in the book.

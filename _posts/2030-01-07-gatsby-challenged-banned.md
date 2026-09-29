@@ -9,7 +9,7 @@ excerpt: "why Great Gatsby challenged banned draws searches; this neutral accoun
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2030-01-07
+last_updated: 2026-09-29
 lang: en
 ---
 A parent sits at a kitchen table the night before a school board meeting, a copy of the assigned novel open beside a printed complaint form, trying to decide whether the book her teenager is reading belongs in a classroom at all. A teacher across town stays late drafting a written rationale for the same book, anticipating the same meeting, preparing to explain why a story of adultery and murder has held its place in the curriculum for generations. A student between them types why Great Gatsby challenged banned into a search box, hoping for a straight answer instead of a slogan. The stakes in that small triangle are real: the parent's sense of responsibility, the teacher's professional judgment, and the student's curiosity all deserve better than a shouting match. What they need is a record, stated plainly, of what the objections have actually been, where they have arisen, and how they have been answered.

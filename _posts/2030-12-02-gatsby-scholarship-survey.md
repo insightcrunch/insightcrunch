@@ -9,7 +9,7 @@ excerpt: "A survey of great gatsby scholarship mapping the six major schools, th
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2030-12-02
+last_updated: 2026-09-29
 lang: en
 ---
 A survey of great gatsby scholarship works best when imagined as a map drawn before a journey. The researcher who opens the novel without one steps into a field carrying more than a century of accumulated argument, where every confident claim about the book has already been made, answered, and remade by someone else. The map does not settle those arguments. It shows where they sit, which routes connect them, and which territories remain thinly charted, so that the journey that follows begins with orientation rather than wandering. That is the whole of the namable claim behind this article: lay out the major schools and their landmark studies first, and the deep work that follows becomes deliberate instead of accidental.

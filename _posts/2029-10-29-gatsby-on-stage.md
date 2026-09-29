@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby on stage: the 1926 Broadway play, Gatz, immersive the
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 39
 author: "chloe-martin"
-last_updated: 2029-10-29
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Problem a Stage Has to Solve

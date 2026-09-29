@@ -9,7 +9,7 @@ excerpt: "The reliability debate around Nick Carraway: can the narrator be trust
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2031-06-30
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Reliability Debate Around Nick Carraway: A Map of a Live Disagreement

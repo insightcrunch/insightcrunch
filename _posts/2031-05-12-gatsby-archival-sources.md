@@ -9,7 +9,7 @@ excerpt: "Archival sources for Gatsby research begin at Princeton's Firestone Li
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 68
 author: "chloe-martin"
-last_updated: 2031-05-12
+last_updated: 2026-09-29
 lang: en
 ---
 The primary record of The Great Gatsby has an address. It sits in the Manuscripts Division of Princeton University Library, inside Firestone Library, where the F. Scott Fitzgerald Papers preserve the manuscripts, working drafts, corrected galleys, correspondence, scrapbooks, and photographs that document how the novel was written, revised, and published. Every serious claim about the making of the book, from the order of its drafts to the wording of its proofs, can in principle be checked against these materials. That is the central fact of this guide: the archival sources for Gatsby research hold the manuscripts, letters, and papers that ground original work, so knowing the repositories is the first step in primary research. The archive does not decorate scholarship. It disciplines it, offering evidence that no secondary source can replace.

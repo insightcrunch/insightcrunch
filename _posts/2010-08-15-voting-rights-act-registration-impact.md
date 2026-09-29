@@ -9,7 +9,7 @@ excerpt: "The Voting Rights Act impact was swift: Black registration tripled in 
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 69
 author: "hannah-moore"
-last_updated: "2010-08-15"
+last_updated: 2026-09-29
 lang: en
 ---
 Any assessment of the Voting Rights Act impact has to start where Congress started, with the statute's own statement of the problem it meant to solve. Signed by President Lyndon B. Johnson on August 6, 1965, as Public Law 89-110, the Act announced its purpose in the constitutional language it was written to enforce, the Fifteenth Amendment, and it identified two obstacles standing between that amendment's promise and the registration books of the South. The first was the machinery of exclusion: literacy tests, understanding tests, character tests, and voucher requirements that registrars used to keep Black citizens from registering while white applicants moved through. The second was the machinery of enforcement, or rather its failure: a decade of federal lawsuits under the Civil Rights Acts of 1957, 1960, and 1964 that had barely moved the registration figures. For the full machinery of the statute, section by section, see our [complete guide to the 1965 Act](/2010/06/01/voting-rights-act-1965-complete-guide/).

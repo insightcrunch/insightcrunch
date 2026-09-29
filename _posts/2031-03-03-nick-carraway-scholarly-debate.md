@@ -9,7 +9,7 @@ excerpt: "Is Nick gay? The scholarly argument over Nick Carraway's sexuality map
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 68
 author: "sophia-turner"
-last_updated: 2031-03-03
+last_updated: 2026-09-29
 lang: en
 ---
 Is Nick gay? The scholarly argument over that question has run for decades without producing a winner, and the absence of a winner is the claim this article defends. Nick Carraway narrates The Great Gatsby without ever naming his own desire, and a long line of critics has treated that silence as evidence: evidence of coding, evidence of reticence, evidence of a deliberate gap the novel refuses to close. What follows is a map of that argument, position by position, with the textual moments each side cites and the interpretations each side draws from them, presented evenhandedly and without adjudication. The complications are real, the stakes for how we read are genuine, and declaring the question settled in either direction is the one move every honest reader of the debate should refuse.

@@ -9,7 +9,7 @@ excerpt: "The Great Gatsby school set text appears on syllabi worldwide. This an
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2029-12-31
+last_updated: 2026-09-29
 lang: en
 ---
 Few books occupy the schoolroom the way The Great Gatsby does. In classrooms from Chicago to Chennai, from London to Lagos, Fitzgerald's 1925 novel of Long Island ambition and West Egg parties is handed out at the start of term with the quiet confidence of a text that has already survived thousands of identical handings-out. The Great Gatsby school set text is not merely a book students read; it is a book schools rely on, a fixture of the secondary literature syllabus whose presence teachers defend, students remember, and examination boards keep reaffirming.

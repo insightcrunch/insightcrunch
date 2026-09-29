@@ -9,7 +9,7 @@ excerpt: "Top band Gatsby essays reward thinking over coverage. Conceptual argum
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 72
 author: "yang-bo"
-last_updated: 2030-09-30
+last_updated: 2026-09-29
 lang: en
 ---
 Two students answer the same top band Gatsby essay question. The first writes a thorough, accurate, well organized account of the novel: the plot, the main themes, the key symbols, a quotation for every point, context about the Jazz Age folded in neatly. The second writes a shorter piece that argues a single conceptual case about how the novel works, weaves quotation into the argument sentence by sentence, and shows awareness that the novel's meaning is contested. The second essay earns the higher mark, often by a wide margin, and that outcome surprises students because it reverses everything school writing seems to reward: completeness, length, and the safe accumulation of correct points.

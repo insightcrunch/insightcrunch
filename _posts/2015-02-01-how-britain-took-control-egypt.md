@@ -9,7 +9,7 @@ excerpt: "Britain shelled Alexandria promising a short stay, then remained for s
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2015-02-01
+last_updated: 2026-09-29
 lang: en
 ---
 ## The Invasion Britain Said It Never Wanted
