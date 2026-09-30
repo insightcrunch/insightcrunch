@@ -6,15 +6,15 @@ date: "2012-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Retirement Policy", "Pension Law", "Defined Contribution", "Employee Benefits", "Labor Law"]
 excerpt: "A history of how Congress moved retirement risk from employers to workers: the pension statute that priced the promise and the rule that created the account."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: "65"
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: "2012-10-15"
+lang: en
 ---
-
 Every month, the same blunt question gets typed into search boxes hundreds of thousands of times, phrased a dozen different ways: pension vs 401(k), which one is better, and why did the better one vanish? The person typing it is often a mid-career worker holding two different promises from two different employers, one a guaranteed monthly check and the other an account balance that rises and falls with the market. Sometimes the searcher is a student writing a paper on economic inequality, or a journalist looking for a clean explanation of a transformation that played out over four decades. All of them want a verdict. Before any verdict is defensible, though, the two models have to be described as machines, because pensions and 401(k) plans do not merely pay different amounts. They assign investment risk, longevity risk, and legal obligation to different parties, and Congress spent half a century rewriting those assignments one statute at a time.
 
-![Pension plan documents contrasted with a 401(k) account statement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pension plan documents contrasted with a 401(k) account statement - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The rest of this account follows the sequence: first the two machines, then the laws that changed their relative cost, then the precise transfer of risk, and finally the competing explanations that the second half of this article weighs against each other.
 

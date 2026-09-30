@@ -6,19 +6,19 @@ date: "2012-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Water Act", "Environmental Law", "Congress", "Supreme Court", "Water Policy"]
 excerpt: "The Clean Water Act explained: the discharge ban, the permit system, the four definitions that decide cases, and the fight over which waters it reaches."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: "70"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2012-02-15"
+lang: en
 ---
-
 ## The Question the Clean Water Act Answers
 
 Most Americans carry a simple picture of the Clean Water Act in their heads: a federal law that regulates water pollution. The picture is wrong, and the ways it is wrong explain almost everything about how the statute actually works. Congress did not write a law that regulates water pollution in general. Congress wrote a law that answers a narrower question: under what conditions may someone put a pollutant into certain waters through a discrete conveyance, and who decides. The Clean Water Act begins from a prohibition, builds its coverage out of four defined terms, and leaves whole categories of pollution outside its reach by design rather than by accident. A reader who understands that structure understands the statute. A reader who assumes the law does what its nickname implies will misread every dispute the law has produced.
 
 The common misunderstanding has practical consequences. People are surprised to learn that the statute which cleaned up industrial discharges into rivers has almost nothing direct to say about the farm runoff that fouls those same rivers. They are surprised that a law with "clean water" in its name does not govern the water coming out of their tap. They assume that because the Environmental Protection Agency enforces the act, its jurisdiction must cover every wet patch of ground in the country, and then they are surprised again when a case about a backyard lot reaches the Supreme Court. None of these surprises are the statute's fault. Each of them follows from the same mistake: treating the act as a law about water rather than a law about discharges.
 
-![Alt text describing a river or industrial discharge scene - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Alt text describing a river or industrial discharge scene - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The confusion is understandable because the statute's history is dramatic and its results were visible. In the decades after the Second World War, American rivers absorbed the waste of American industry with almost no federal restraint, and the consequences became impossible to ignore. A river in Ohio caught fire in 1969, and the image of burning water traveled through the national press as a symbol of the problem. Scientists and journalists described Lake Erie, one of the largest freshwater lakes on the planet, as dying or dead. The law Congress wrote in response did the serious work of stopping direct industrial and municipal discharges, and the improvement in many rivers was real and measurable. But the statute did its work through a mechanism that was specific rather than comprehensive: it made the discharge of pollutants from point sources unlawful unless a permit allowed it, and it left everything else to other laws, to state programs, to grant money, or to nothing at all. The drama of the burning river suggested a general crusade against pollution. The statute Congress actually passed was a permit system built on definitions.
 

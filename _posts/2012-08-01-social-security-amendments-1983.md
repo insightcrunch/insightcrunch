@@ -6,17 +6,17 @@ date: "2012-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Social Security", "Greenspan Commission", "Legislative History", "Bipartisan Deals", "Entitlement Reform"]
 excerpt: "The Social Security Amendments rescue is credited to a commission that deadlocked. This legislative history follows the secret backchannel deal Congress passed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: "70"
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: "2012-08-01"
+lang: en
 ---
-
 ## Why the 1983 rescue is the template every divided government reaches for
 
 The 1983 Social Security rescue is the case study every divided government reaches for when someone asks whether a durable bargain on entitlements is still possible. In a single legislative season, a Republican president and a Democratic House, operating against an imminent shortfall in the old-age trust fund, enacted a law that cut future benefits and raised taxes at the same time, and each side then claimed a share of the credit. The story is retold constantly in Washington, and it is almost always retold wrong. The standard version says a blue ribbon commission studied the problem, agreed on a plan, and Congress adopted it. That version confuses the cover story with the mechanism. The commission formally deadlocked. The deal was cut somewhere else, by a smaller group, working away from the cameras, and handed back to the commission to bless.
 
-![The 1983 Social Security rescue negotiations in Congress - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1983 Social Security rescue negotiations in Congress - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This article follows the passage of the rescue as a legislative history, and it has a single test. A reader who finishes it can explain how a divided government facing an imminent trust fund shortfall enacted benefit reductions and tax increases within months, can name the commission that is universally credited, can describe the small backchannel group that actually cut the deal after the commission deadlocked, and can understand why every subsequent reform attempt has failed to reproduce the result. Encyclopedic entries describe the 1983 amendments as an event with a date and a significance, then move on. This article treats the event as a procedure, and the procedure is what readers searching for a bipartisan template actually need.
 

@@ -6,15 +6,15 @@ date: "2012-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Water Act", "Section 404", "Wetlands Permits", "Army Corps of Engineers", "Environmental Law"]
 excerpt: "Section 404 wetlands permits govern dredge and fill under the Clean Water Act. This guide explains permit types, the mitigation ladder and certification rules."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2012-05-15"
+lang: en
 ---
-
 Few federal programs touch more ordinary land transactions than the Section 404 wetlands permit program, and few are as widely misunderstood. The program governs the discharge of dredged or fill material into covered waters of the United States, which means that a farmer reshaping a low corner of a field, a developer grading a subdivision pad, a pipeline company boring beneath a stream, and a county widening a rural road all pass through the same regulatory doorway. The doorway is Section 404 of the Clean Water Act, codified at 33 U.S.C. 1344, and it is unusual in almost every respect: the permit is issued by a military engineering agency, the substantive standards are written by an environmental agency, that environmental agency can veto the permit after it is issued, and the question of whether the program reaches a given parcel at all is frequently the entire dispute.
 
-![Wetlands and the Section 404 permit program under the Clean Water Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Wetlands and the Section 404 permit program under the Clean Water Act - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The first misunderstanding to clear away is that this is a permit to pollute. The Clean Water Act's discharge permits under its better known section 402 program authorize the release of pollutants from pipes into rivers under technology based limits, which is the system the [complete guide to the Clean Water Act](/2012/02/15/clean-water-act-1972-complete-guide/) explains as that statute's definitional foundation. Section 404 does something different. It authorizes the placement of material itself: rock, sand, soil, and the spoil from dredging, placed into wetlands, streams, and other covered waters. The distinction matters because the regulatory question is not how clean the discharge is but whether the fill should go there at all, and if so, under what conditions and with what compensation for the aquatic resources destroyed in the process. That difference in the question produces a difference in the entire machinery.
 

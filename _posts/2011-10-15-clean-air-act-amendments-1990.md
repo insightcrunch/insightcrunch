@@ -6,12 +6,12 @@ date: "2011-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Environmental Law", "EPA", "Air Quality", "Acid Rain Program"]
 excerpt: "The 1990 Clean Air Act amendments rewrote US air law with graded ozone deadlines, cleaner fuels, rebuilt toxics rules, acid rain trading, and operating permits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2011-10-15"
+lang: en
 ---
-
 The 1990 Clean Air Act amendments were the most ambitious environmental statute the federal government had ever enacted, and no one present at the signing doubted it. President George H. W. Bush affixed his signature on November 15, 1990, closing a legislative campaign that had consumed the first half of his presidency and broken a stalemate that had frozen federal air policy for most of the 1980s. The measure ran to hundreds of pages and reached into nearly every corner of American industrial life. It created a national market in sulfur dioxide allowances to attack acid rain. It rebuilt from the foundation the failed federal program for toxic air chemicals. It sorted the country's smoggiest metropolitan areas into ranked categories, each carrying its own escalating set of obligations. It imposed a comprehensive operating permit system on major sources of contamination and armed regulators with enforcement penalties that finally had teeth. Congress had not merely adjusted the machinery of the 1970 law. It had redesigned the machine while it was running.
 
 Yet the statute that left the White House that November and the statute that actually governed American industry were never quite the same instrument. Between the enrolled bill and the operating program lay a long corridor of agency rulemaking, judicial review, state planning documents, and corporate compliance strategies, each of which bent the law's commands without ever changing its text. Some provisions emerged from that corridor stronger than their authors had dared to hope. The sulfur dioxide trading program, the first large scale experiment in market based environmental regulation, cut releases faster and more cheaply than the models had predicted and became the signature achievement of the entire enterprise. Others emerged diminished. The toxics program that Congress rebuilt in 1990 took years to produce its promised schedule of technology standards, and the deadlines kept slipping. Ozone nonattainment areas, given a fresh set of ranked deadlines in 1990, missed several of them, replaying a drama that had already played out twice before. The operating permit system, meant to gather every applicable requirement into a single enforceable document, took most of the decade to stand up in the states.
@@ -28,7 +28,7 @@ The congressional gauntlet that followed was long and bruising, and its shape ex
 
 The signing on November 15, 1990, closed the legislative drama and opened the longer, messier drama of implementation. The new law's wager was that plural instruments could succeed where single instruments had failed: markets for sulfur dioxide, technology standards for toxics, ranked deadlines for ozone, permits to tie the system together, and penalties with enough force to make the rest credible. It was the largest bet the federal government had ever placed on its ability to manage the atmosphere, and like every large bet, its outcome would be decided not at the signing table but in the years of rulemaking, litigation, and compliance that followed. The sections that follow trace how that bet was constructed, provision by provision, and how each provision fared once it left the statute books and entered the world.
 
-![The 1990 Clean Air Act amendments - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1990 Clean Air Act amendments - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 ## THE ORIGINAL SHAPE
 

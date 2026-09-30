@@ -7,15 +7,16 @@ last_updated: "2011-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Congressional Roll Calls", "Health Care Law", "Senate Votes", "House Votes"]
 excerpt: "The Affordable Care Act passed with zero minority-party votes in either chamber and survived repeal by one vote. Every roll call in both sequences, broken down."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "katherine-blake"
+lang: en
 ---
 The roll call record of the Affordable Care Act holds one fact that the familiar story of its passage tends to blur, and the blur is worth correcting before anything else. Among the major social insurance statutes of the modern era, this is the one that became law without a single vote from the minority party in either chamber of Congress. The enacted law, meaning the Senate-passed text together with the budget reconciliation measure that repaired it, drew zero Republican votes in the House and zero in the Senate. The only Republican vote cast anywhere in the long enacting sequence went to an earlier House bill that never became law. That figure, zero, is what the roll calls show and what the storytelling around the statute most often misses, and it is the thread this analysis follows through every vote that built the law. Counting that zero requires the precision the article applies throughout. The count is of minority-party yes votes on the two laws that were enacted, in either chamber, at any stage from committee to final concurrence. By that count the zero holds: no Republican voted for H.R. 3590 or H.R. 4872 anywhere in the sequence. The two Republican yes votes that do appear in the record, Snowe's in the Finance Committee and Cao's on the House floor, went to texts that never became law, the committee bill that the full Senate never voted on and the House bill that the Senate never took up. The distinction between a vote for a version and a vote for the statute is the difference between the familiar story and the roll-call record, and the article keeps the two separate at every step.
 
 The tallies themselves resist the shorthand of a party-line steamroller. The House first passed its own version by five votes. The Senate needed every one of its sixty caucus members for a chain of supermajority votes, a margin with no room for a single absence or defection. The House then accepted the Senate's text by seven votes, with thirty-four members of the majority voting no, and the reconciliation fix cleared the Senate with fifty-six votes only after a parliamentary review stripped pieces out of the House's handiwork. These were not the margins of a coalition that could afford to lose anyone. They were the margins of a coalition that could not afford to lose anyone, held together by a whip operation and a set of purchased compromises that the roll calls record in unusual detail.
 
-![Roll call analysis of the Affordable Care Act's passage votes in Congress - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Roll call analysis of the Affordable Care Act's passage votes in Congress - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The statute's formal identity is worth stating once, so that every tally below attaches to the right text. The Patient Protection and Affordable Care Act, Public Law 111-148, was signed on March 23, 2010. The Health Care and Education Reconciliation Act of 2010, Public Law 111-152, followed on March 30, 2010. Together they form the enacted Affordable Care Act, codified across the United States Code principally in Title 42. Every roll call in the enacting sequence belongs to one of those two laws, and the distinction matters because the two laws passed by different rules, with different margins, and for different reasons.
 

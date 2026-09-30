@@ -6,17 +6,17 @@ date: "2012-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Social Security", "Social Security Act", "OASDI", "Amendments", "Flemming v. Nestor"]
 excerpt: "The full history of Social Security amendments: coverage expansion, disability insurance, automatic adjustments, the great financing rescue, and later reforms."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: "77"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2012-07-01"
+lang: en
 ---
-
 ## The question the Social Security amendments answer
 
 The Social Security amendments enacted between 1950 and 1972 rebuilt the American welfare state twice over, and they did it without ever changing the name on the statute they were rebuilding. Ask how a program that began as a modest supplement to state welfare became the largest single item in the federal budget, and the honest answer is not a single decision made in a single year. It is a sequence of amendments, each one passed to repair a specific failure of the program as it stood, each one enlarging the population that depended on the program, until the program's scale became a fact no later Congress could undo. This article traces that sequence from the forgotten pivot of 1950 through the great expansion of 1972, amendment by amendment, so the arc is visible whole.
 
-![Social Security amendments history - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Social Security amendments history - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The problem Congress was legislating against never changed its shape, only its address. In 1935 it was old-age poverty as a mass condition in a country where the states ran the welfare programs and ran them badly. State old-age assistance was uneven from one capital to the next, underfunded nearly everywhere, and stingy by design, because the legislatures that funded it feared that generous relief would draw the poor across state lines. The federal answer in 1935 was deliberately small: a contributory insurance program for a slice of the workforce, paired with federal grants to prop up the state welfare programs. The insurance slice was too narrow and its benefits too low to displace the welfare programs it was meant to supplement. For the first fifteen years of the program's life, the means-tested track carried more of the country's elderly than the insurance track did.
 

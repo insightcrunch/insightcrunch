@@ -6,17 +6,17 @@ date: "2012-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Social Security", "Disability Benefits", "Administrative Law", "SSA", "Judicial Review"]
 excerpt: "Social Security disability benefits are defined by statute but delivered through a vast administrative pipeline, from state examiners to federal court review."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: "2012-10-01"
+lang: en
 ---
-
 ## The Agency Behind the Benefit: From Statute to Decision
 
 Social Security disability benefits are defined by statute but delivered by administration. Under Titles II and XVI of the Social Security Act, the Social Security Administration, an independent agency since March 31, 1995, when the independence provisions of the Social Security Independence and Program Improvements Act of 1994 (Public Law 103-296), signed August 15, 1994, took effect, decides who meets the statutory definition of disability and who does not. Its disability evaluation regulations appear at 20 C.F.R. parts 404 and 416, and claimants who disagree with the agency may seek judicial review under 42 U.S.C. 405(g). Between the statute's promise and the claimant's mailbox stands a multi-level adjudicative pipeline that, at the start of the 2010s, processed roughly three million disability applications a year and held more administrative hearings than any comparable system in American government.
 
-![How Social Security disability benefit claims move from application through the administrative pipeline - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Social Security disability benefit claims move from application through the administrative pipeline - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 That independence date deserves precision, because the statute supplies two of them. Congress passed the Social Security Independence and Program Improvements Act of 1994 as Public Law 103-296, and it was signed on August 15, 1994. But section 101, the provision that established the agency as independent, took effect on March 31, 1995. A history that says independence came in 1994 is dating the statute; a history that says it came in 1995 is dating the change. For benefit administration, the distinction matters because the Commissioner's direct authority over the agency's legal output begins with independence. The disability evaluation regulations at 20 C.F.R. parts 404 and 416 are promulgated under that authority, and Social Security Rulings are published in the Federal Register under the authority of the Commissioner, as 20 C.F.R. 402.35(b)(1) states. The document hierarchy this article describes in its fourth section, with regulations binding adjudicators, rulings binding the agency, and manuals guiding staff, is the working consequence of placing one accountable official at the top of the system.
 

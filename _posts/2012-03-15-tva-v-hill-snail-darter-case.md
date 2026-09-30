@@ -6,15 +6,15 @@ date: "2012-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "TVA v. Hill", "Endangered Species Act", "Snail Darter", "Tellico Dam", "Supreme Court"]
 excerpt: "TVA v. Hill held the Endangered Species Act barred Tellico Dam whatever the cost. Congress built the God Squad, which denied exemption, and a rider finished it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2012-03-15"
+lang: en
 ---
-
 ## The Story Everyone Knows, and the Detail It Leaves Out
 
-![The Tellico Dam on the Little Tennessee River and the snail darter at the center of TVA v. Hill - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Tellico Dam on the Little Tennessee River and the snail darter at the center of TVA v. Hill - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 Every American who has heard of the snail darter knows the story, and the story goes like this. In the 1970s the Tennessee Valley Authority was finishing a great dam on the Little Tennessee River, a project authorized by Congress, funded year after year, and nearly complete. Then scientists discovered a tiny fish in the river the reservoir would flood, a three inch darter that lived nowhere else on earth. Environmentalists sued under the brand new Endangered Species Act. The case went to the Supreme Court as TVA v. Hill, and the Court, reading the statute's absolute language, halted the dam to save the fish. The country gasped at the absurdity of it: a minnow had stopped a hundred million dollar public works project. Congress, acting with common sense, overruled the whole business and let the dam be finished. The fish became a punchline, the dam became a reservoir, and the moral was drawn. This is the version that appears in textbooks, in op eds, in political speeches, and in the memories of everyone who lived through it. It is vivid, it is satisfying, and it is wrong in the one particular that matters most.
 

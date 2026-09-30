@@ -5,16 +5,16 @@ page_title: "CMS Medicare Rules Explained: How the Centers for Medicare and Medi
 date: "2011-02-15"
 categories: "US Legislation"
 excerpt: "CMS Medicare rules turn statutes into payment rates and coverage decisions. This guide traces rulemaking, coverage determinations, guidance, and appeals ladder."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: "78"
-author: "Sydney"
+author: "insight-crunch-team"
 last_updated: "2011-02-15"
 tags: ["US Legislation", "CMS", "Medicare", "Rulemaking", "Administrative Law", "Coverage Determinations", "Appeals"]
+lang: en
 ---
-
 CMS Medicare rules are the machinery that turns the broad promises of Title XVIII of the Social Security Act into the concrete numbers on a hospital's remittance advice and the coverage decisions that determine whether a particular service is paid. Congress wrote the statute, but it left the payment formulas, the coverage policies, and the daily claims machinery to the agency renamed the Centers for Medicare and Medicaid Services in 2001. This guide traces that machinery end to end: how proposed and final rules set annual payment rates, how national and local coverage determinations decide which services count as reasonable and necessary, how manuals and guidance instruct the contractors that process claims, how the five-stage appeals ladder reviews denials, and how the statute's rulemaking provision, 42 U.S.C. 1395hh, decides which of these documents are law and which are merely instruction.
 
-![Medicare rulemaking: from statute to payment rule](/assets/images/blog/blog-01.webp)
+![Medicare rulemaking: from statute to payment rule](/assets/images/blog/blog-106.webp)
 
 ## The statute is only the beginning
 

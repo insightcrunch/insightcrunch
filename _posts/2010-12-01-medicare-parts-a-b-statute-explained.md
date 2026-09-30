@@ -6,17 +6,17 @@ date: "2010-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Title XVIII", "Health Policy", "Statutory Interpretation"]
 excerpt: "Medicare Parts A and B are two statutory programs: hospital insurance earned through work history, and voluntary medical insurance bought by enrollment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: "2010-12-01"
+lang: en
 ---
-
 Medicare Parts A and B are the two original components of the federal health insurance program for the aged and disabled, and this article is a reference to their operative text rather than a summary of their marketing. Brochures, fact sheets, and plan-comparison tools all flatten the program into slogans about hospital coverage and doctor coverage, and those slogans fail at exactly the moments when precision matters: when a hospital stay is coded as observation rather than inpatient, when a skilled nursing facility demands payment after a discharge, when a home health episode is denied as not medically reasonable. In each of those disputes the deciding document is not the brochure. It is Title XVIII of the Social Security Act, codified at 42 U.S.C. 1395 and the sections that follow, and the specific subsections that grant, limit, and condition each benefit.
 
 That commitment to the statutory text is the thesis of this article. Medicare Parts A and B are best understood as two distinct statutory programs that happen to share a title of the Social Security Act, each with its own entitlement rules, its own benefit definitions, and its own financing mechanism. Treating them as two halves of one insurance product invites exactly the errors that cost beneficiaries money: assuming that enrollment in one automatically means enrollment in the other, assuming that a hospital billing department's description of a stay controls coverage, or assuming that medical necessity alone entitles anyone to payment. The statute answers each of these questions, and it answers them in language that rewards close reading.
 
-![Medicare Parts A and B statutory structure showing hospital insurance and medical insurance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Medicare Parts A and B statutory structure showing hospital insurance and medical insurance - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 This section establishes the statutory identity shared by both parts and then carries out the full Part A deep dive. Part A, the hospital insurance program, is where the entitlement machinery is most mechanical and most misunderstood, because entitlement arises from a person's Social Security insured status rather than from any application the person files. Later sections of this article carry the same discipline into Part B, the supplementary medical insurance program, with its voluntary enrollment structure and its general-revenue financing. Reading the two programs side by side, with the statutory sections in front of you, is the only reliable way to see where the brochure version ends and the enforceable version begins.
 

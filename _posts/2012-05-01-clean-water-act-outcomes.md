@@ -6,19 +6,19 @@ date: "2012-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Water Act", "water quality", "EPA", "environmental economics", "impact and outcomes"]
 excerpt: "A Clean Water Act outcomes assessment: pollution cuts downstream of grant-funded plants, missed deadlines, and the measurement gap behind benefit-cost ratios."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2012-05-01"
+lang: en
 ---
-
 ## What the Clean Water Act Promised
 
 The Clean Water Act promised something no American pollution law had promised before: not a reduction, not a compromise, but an end. When Congress rewrote federal water law in 1972, it wrote two goals into the statute's opening section and dated them both. The interim aim called for water quality sufficient to protect and propagate fish, shellfish, and wildlife and to provide for recreation in and on the water, the standard everyone soon shortened to fishable and swimmable, to be achieved by July 1, 1983, wherever attainable. The national aim was blunter and carried no qualifier at all: the discharge of pollutants into the navigable waters of the United States would be eliminated by 1985. A law that set out to end pollution on a deadline is the law this article measures, and the only fair way to measure it is against the yardstick it chose for itself.
 
 Read plainly, the two dates did different work. The 1983 target was operational: it named a condition, fishable and swimmable, that administrators, states, and courts could recognize in the field, and it softened the demand with the phrase "wherever attainable," an acknowledgment that some waters might not get there. The 1985 target was directional: zero discharge stated where the country was supposed to be headed even if few in the Senate chamber believed every pipe would run clean within thirteen years. Together they expressed a theory of regulation with no precedent in federal water law. Earlier statutes had asked polluters to show restraint and asked states to set standards at their own pace. The 1972 law told polluters to stop and set the clock running.
 
-![Clean Water Act outcomes in rivers downstream of grant funded plants - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Clean Water Act outcomes in rivers downstream of grant funded plants - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The law under examination here is the Federal Water Pollution Control Act Amendments of 1972, Public Law 92-500, enacted in October 1972 over President Richard Nixon's veto, together with its principal later amendments, including the Clean Water Act of 1977, Public Law 95-217, and the Water Quality Act of 1987, Public Law 100-4. The federal money at the center of the story flowed through the construction grants program that paid the bulk of the cost of building and upgrading municipal sewage treatment plants, later converted by the 1987 amendments into the state revolving funds that finance treatment infrastructure through low-interest loans. Those two channels, first the grants and then the revolving funds, constitute the principal federal spending the record can tie to results. The evaluation that follows takes the statute's two great levers as given, the [permit system that capped what factories and sewage plants could release](/2012/02/15/clean-water-act-1972-complete-guide/) and the subsidized treatment plants that made compliance possible, and asks only what they achieved in the rivers, lakes, and estuaries of the country.
 

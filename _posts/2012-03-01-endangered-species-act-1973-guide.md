@@ -6,15 +6,15 @@ date: "2012-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Endangered Species Act", "Environmental Law", "Supreme Court", "Congress", "Wildlife Conservation"]
 excerpt: "The Endangered Species Act is America's strongest wildlife law. This guide explains listing, take prohibition, critical habitat, section 7, and enforcement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2012-03-01"
+lang: en
 ---
-
 The question Congress confronted in 1973 was deceptively simple to state and brutally hard to answer: when a species is sliding toward extinction, whose plans must give way? The Endangered Species Act answers that question with a command rather than a suggestion, placing the continued existence of listed animals and plants ahead of private development, ahead of federal construction projects, and in some respects ahead of the states themselves. That answer, and the enforcement machinery that made it stick, is what turned an obscure corner of wildlife policy into one of the most consequential federal statutes of the twentieth century.
 
-![Species protected under the Endangered Species Act in their habitat - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Species protected under the Endangered Species Act in their habitat - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The problem Congress was legislating against was not poaching alone, though the trade in rare animals and the products made from them formed part of the background. The deeper problem was the quiet, legal destruction of habitat by projects that nobody had specifically aimed at any living thing: highways, dams, reservoirs, housing subdivisions, and timber operations that simply happened to occupy the places a rare animal or plant needed to survive. Earlier federal law could punish a hunter who shot a protected animal and could punish a dealer who sold its hide, but it had little to say to a federal agency whose dam would drown the last spawning grounds of a fish it had never heard of. The 1973 statute closed that gap by reaching the agencies themselves, the private landowners whose ground listed organisms lived on, and the foreign trade that moved rare organisms and their parts across borders. Its ambition was not to punish extinction after the fact but to intercept the human activities that produced it, one listing determination at a time.
 

@@ -7,18 +7,18 @@ last_updated: "2011-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Environmental Law", "EPA Rulemaking", "Administrative Law", "State Implementation Plans", "Vehicle Emission Standards"]
 excerpt: "How the Clean Air Act becomes enforceable law: EPA rulemaking under 307(d), state plans, sanctions clocks, permits, and the courtroom rules at every link."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: "74"
-author: "Insight Crunch Team"
+author: "christopher-wells"
+lang: en
 ---
-
 ## From Statute to Smokestack: The Machinery Between Authorization and Obligation
 
 Consider the sentence Congress placed at section 111(b)(1)(B) of the Clean Air Act, 42 U.S.C. 7411(b)(1)(B): the Administrator of the Environmental Protection Agency "shall" establish standards of performance for new stationary sources. It reads like a command with immediate force. It carries none. No plant manager in 2011 could read that sentence and learn, in tons per year or in pounds per million Btu, what the law demanded of a particular boiler on a particular date. The sentence assigns a task. Converting the task into an obligation requires machinery the statute prescribes in unusual detail, and every link in that machinery can stall, thin out, or fail.
 
 The chain runs through Federal Register notices, a public docket, an opportunity for oral presentation, written comments that can number in the hundreds of thousands, a written response to the serious criticisms, a final rule with an administrative record a court can test, and then an entirely second machine: each state writes an implementation plan translating national decisions into enforceable local limits, permits carry those limits onto individual facilities, inspections test compliance, and enforcement backs the whole structure. A missed statutory deadline, a record that cannot support the final choice, a disapproved state plan, or a permit issued without a required limit each opens the same gap this series keeps returning to: the distance between what a statute authorizes and what actually gets done. The gap is not an abstraction. It is measurable in years of delay and in tons of pollution released while procedure runs its course.
 
-![Diagram of the Clean Air Act rule-to-facility pipeline, from statute through EPA rulemaking to state plans, permits, inspections, and enforcement](/assets/images/blog/blog-01.webp)
+![Diagram of the Clean Air Act rule-to-facility pipeline, from statute through EPA rulemaking to state plans, permits, inspections, and enforcement](/assets/images/blog/blog-52.webp)
 
 The Clean Air Act is the sharpest illustration of the series thesis because Congress refused to leave the bridging machinery to the spare default of the Administrative Procedure Act. It wrote a bespoke rulemaking procedure into the statute itself at section 307(d), 42 U.S.C. 7607(d), with a docket, an oral hearing opportunity, and a written answer to every major criticism. It built a separate state-plan approval machine at sections 110 and 179, 42 U.S.C. 7410 and 7509, with conditional approvals, disapprovals, sanctions clocks, and a federal backstop plan. The statute took its modern shape in [the 1990 amendments](/2011/10/15/clean-air-act-amendments-1990/), which layered enforceable deadlines, planning duties, and permit programs onto a structure first erected in 1970. To see how a sentence becomes a stack-level obligation, follow the two mechanisms in the order the law walks them.
 

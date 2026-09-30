@@ -6,17 +6,17 @@ date: "2012-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "SECURE Act", "Retirement Law", "Required Minimum Distributions", "401k Plans", "IRA Rules"]
 excerpt: "The SECURE Act and its sequel rewrote retirement law, moving distribution ages by birth cohort, ending the stretch IRA, and adding auto-enrollment in new plans."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2012-11-01"
+lang: en
 ---
-
 ## Two Acts, One December Vehicle: The Statute That Rewrote American Retirement
 
 The SECURE Act changed how Americans draw down retirement savings and how those savings pass to heirs. The first act, signed December 20, 2019, pushed the age for required minimum distributions from seventy and a half to seventy-two, repealed the age limit on traditional individual retirement account contributions, and replaced the inherited account stretch with a ten-year rule for most non-spouse beneficiaries. Its sequel, signed December 29, 2022, moved the required distribution age again, to seventy-three with a further increase to seventy-five scheduled, added an automatic enrollment mandate for new plans, created Roth catch-up rules for higher earners, and matched employer contributions to student loan payments. Both measures arrived not as freestanding retirement bills but as divisions inside year-end appropriations packages, and that vehicle shaped everything from the drafting compression to the years of technical corrections that followed each enactment.
 
-![image](/assets/images/blog/blog-01.webp)
+![image](/assets/images/blog/blog-45.webp)
 
 The statutory identity is exact and worth stating once, cleanly, because the popular names conceal it. The first measure is the Setting Every Community Up for Retirement Enhancement Act of 2019, enacted as Division O of the Further Consolidated Appropriations Act, 2020, Public Law 116-94, signed December 20, 2019. The second is the set of retirement provisions enacted as Division T of the Consolidated Appropriations Act, 2023, Public Law 117-328, signed December 29, 2022, universally called SECURE 2.0. Neither statute ever stood alone on a calendar of its own. Both rode omnibus spending bills that had to pass before the fiscal year-end shutdown deadline, which meant the retirement text was negotiated in leadership offices, folded into a package of hundreds of unrelated provisions, and passed on the procedural momentum of a must-pass vehicle. Anyone who tracks how retirement policy is actually made must understand this first, because the December vehicle explains why the first act contained drafting ambiguities that took Treasury years to resolve through guidance, and why the second act, with its roughly ninety discrete provisions and staggered effective dates, arrived as the longest and most intricate retirement measure ever enacted in that form.
 

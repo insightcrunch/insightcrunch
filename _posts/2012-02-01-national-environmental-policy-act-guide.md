@@ -6,19 +6,19 @@ date: "2012-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "National Environmental Policy Act", "NEPA", "Environmental Law", "Federal Agencies", "Study Guide"]
 excerpt: "The National Environmental Policy Act requires agencies to study effects before acting. This guide covers NEPA tiers, section 102(2)(C), and key decisions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: "88"
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2012-02-01"
+lang: en
 ---
-
 ## The Paradox at the Center of American Environmental Law
 
 The National Environmental Policy Act is the rare statute whose power grows in exact proportion to what it refuses to do. Read it end to end and you will find no number limiting what anyone may put into the air, the water, or the ground. There is no emissions ceiling, no water quality floor, no acreage set aside for any species, no technology any builder must install. The statute that has delayed or derailed more dams, highways, pipelines, timber sales, and military installations than any other federal environmental law commands only this: before a federal agency acts, it must study what the action will do to the environment, consider alternatives to the action, and write the whole thing down where the public can read it. If you cannot state that command from memory and explain why it has generated fifty years of litigation, you do not yet understand the National Environmental Policy Act, and supplying that understanding is the single test this article is built to pass.
 
 The test itself is best asked as a question with a counterintuitive answer. Suppose a federal agency spends four years preparing an environmental impact statement for a new highway. The statement runs to two thousand pages. It documents, in painful detail, that the agency's preferred route will destroy a wetland complex, fragment a migratory corridor, and increase downstream flooding for a town that already floods. The agency considers four alternative routes, finds each one worse on some dimension, discloses every one of those findings, takes public comment, answers the comments, and then approves the destructive preferred route anyway. Did the agency violate the law? Under the National Environmental Policy Act, the answer is no. The agency obeyed the statute's only real command. It looked hard, it disclosed honestly, and then it did what it wanted. Now change one fact. Suppose the same agency reaches the same conclusion, but its statement never analyzes a fifth route that commenters proposed, a route that would have avoided the wetland at modest additional cost. Nothing about the physical project has changed. The bulldozers would cut the same path through the same marsh. But now the agency has violated the law, and a court will stop the project cold. The difference between a lawful approval and an unlawful one is not the damage. The difference is the paperwork.
 
-![The National Environmental Policy Act signing ceremony and the statute's procedural framework - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The National Environmental Policy Act signing ceremony and the statute's procedural framework - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 That is the procedural paradox, and everything else in this article follows from it. Congress wrote a statute that sets no environmental standard at all, and that statute became the most frequently invoked environmental weapon in American courts. Opponents of a project almost never sue under the National Environmental Policy Act because the project is illegal. They sue because the study of the project is incomplete. Courts almost never decide whether a dam should be built. They decide whether the agency's description of the dam's consequences considered the right alternatives, disclosed the right effects, and answered the public's objections with enough care. The litigation is about homework, not about wisdom, and because the homework runs to thousands of pages, there is always another paragraph to challenge.
 

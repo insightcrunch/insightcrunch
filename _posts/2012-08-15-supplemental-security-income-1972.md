@@ -6,17 +6,17 @@ date: "2012-08-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Supplemental Security Income", "Title XVI", "Social Security Act", "Disability Benefits", "Means-Tested Programs"]
 excerpt: "Supplemental Security Income is a cash floor for the aged, blind, and disabled, born of failed guaranteed income and distinct from Social Security in financing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2012-08-15"
+lang: en
 ---
-
 ## The Surviving Fragment: How a Failed Guaranteed Income Produced Supplemental Security Income
 
 Supplemental Security Income begins as a story about a law that did not pass. The program's shape, its national uniformity, and the categories of people it covers can all be read as the residue of a larger proposal that died in the Senate, and this residue explains more about the statute than any account of its own drafting alone. To understand why the United States has a single federal cash assistance program with identical rules in every state for the aged, the blind, and people with disabilities, while families with children have never had a comparable national floor, one has to start with the guaranteed income plan that Congress rejected.
 
-![Supplemental Security Income explained in the 1972 statute profile - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Supplemental Security Income explained in the 1972 statute profile - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The backdrop was the welfare crisis of the 1960s. Aid to Families with Dependent Children, the federal-state program that provided cash to households with children and little or no income, had grown rapidly in both enrollment and cost, and the growth alarmed politicians across the spectrum. Governors complained about unpredictable budgets. Conservatives warned about dependency and work disincentives. Liberals pointed out that benefit levels varied wildly from state to state and that many poor families were excluded by restrictive state eligibility rules. The War on Poverty had poured new attention on deprivation, and the civil rights movement had made the racial skew of state welfare administration a national controversy. Something, most political actors agreed, had to be done about the system. What that something should be divided them.
 

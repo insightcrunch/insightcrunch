@@ -6,19 +6,19 @@ date: "2011-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Supreme Court", "Health Care Law", "Taxing Power", "Religious Liberty"]
 excerpt: "Seven Supreme Court cases tested the Affordable Care Act in turn. Each holding is stated from the opinions, with the three-theory pattern mapped throughout."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2011-06-01"
+lang: en
 ---
-
 ## Seven Cases, One Statute: How the Affordable Care Act Reached the Supreme Court
 
 The Affordable Care Act has stood before the Supreme Court more often than any other federal statute of its generation. Between 2012 and 2021 the justices decided seven cases arising from the act, and each one tested a different part of the law through a different kind of legal argument. The first case asked whether Congress possessed the constitutional power to require individuals to carry health insurance. The second asked whether a federal religious-liberty statute shielded closely held corporations from the contraceptive coverage requirement. The third asked what four words in the tax-credit provision really meant. Then came a remand that decided nothing, a government-contracts dispute over promised payments, a fight about agency exemptions, and finally a challenge that collapsed because no plaintiff had standing to bring it.
 
 This article walks the full sequence in chronological order. For each case it states the holding as the opinions state it, gives the majority and the dissent their own terms, and explains what the decision changed about the operative law. The pattern that emerges is the article's central claim: challengers attacked the act first on enumerated powers, then on statutory text, then on standing, and each defeat pushed the next challenge toward a different kind of argument rather than ending the litigation. A reader who works through the whole guide will be able to list every case in order, state each holding accurately, and explain why a single statute generated a decade of litigation covering the taxing power, religious exemptions, textual interpretation, and government contract obligations.
 
-![Seven Supreme Court decisions testing the Affordable Care Act from NFIB to California v. Texas - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Seven Supreme Court decisions testing the Affordable Care Act from NFIB to California v. Texas - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The account keeps the majorities and dissents in their own terms. The 2014 religious-liberty decision was a statutory holding under the Religious Freedom Restoration Act rather than a constitutional one, and the article preserves that distinction because it determines what Congress could change afterward. The 2021 standing decision answered none of the constitutional questions it was asked, and the article leaves those questions marked as open rather than filling them in. Every development is dated as it appears, so the reader always knows which turn in the sequence produced which result.
 

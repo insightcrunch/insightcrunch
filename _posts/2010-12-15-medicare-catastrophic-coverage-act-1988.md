@@ -6,17 +6,17 @@ date: "2010-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Medicaid", "Health Policy", "Reagan Administration", "Tax Policy"]
 excerpt: "The Medicare Catastrophic Coverage Act expanded Medicare, then was repealed over its beneficiary surtax. What it did, why seniors revolted, and what survived."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2010-12-15"
+lang: en
 ---
-
 Congress has expanded entitlements many times. It has trimmed them, slowed their growth, and shifted their costs from one group to another. But only once in modern American history has Congress enacted a major new entitlement and then, within eighteen months, repealed it outright. The Medicare Catastrophic Coverage Act of 1988 passed the House 328 to 72 and the Senate 86 to 11, with the support of a Republican president and the most powerful seniors' organizations in the country. Seventeen months after enactment, Congress voted to strike the whole law from the statute books. The prescription drug benefit it contained, the first outpatient drug coverage in Medicare's history, died with it.
 
 That reversal is the strangest episode in the story of American health insurance. President Ronald Reagan signed the law as the capstone of his second-term domestic agenda, calling it protection for the elderly against the financial ruin that a single terrible illness could bring. A little more than a year later, Representative Dan Rostenkowski, the chairman of the House Ways and Means Committee and the law's most prominent Democratic sponsor, was booed by angry seniors at a town hall in his own Chicago district, surrounded at his car, and forced to flee on foot while a television camera recorded the scene. The National Committee to Preserve Social Security and Medicare, which had lobbied hard for the law, received such a torrent of member mail against it that its leadership reversed course and demanded repeal. The people the law was written to protect became the people who killed it.
 
-![The Medicare Catastrophic Coverage Act of 1988, from enactment to repeal in seventeen months - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Medicare Catastrophic Coverage Act of 1988, from enactment to repeal in seventeen months - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The strangeness of the episode is hard to overstate. Congress does not repeal entitlements. It trims them at the edges, slows their growth, or lets inflation do the cutting quietly. A full legislative erasure of a program that had commanded veto-proof majorities stood without parallel in the history of American social policy. Nor did repeal arrive after a long experiment had run its course. The law's signature benefits were still phasing in. The prescription drug coverage was not scheduled to begin until 1991, and most seniors had already paid the first round of new premiums for protections they had barely begun to receive. Congress dismantled a program its intended beneficiaries had financed, at the demand of those same beneficiaries, before the benefits had fully arrived.
 

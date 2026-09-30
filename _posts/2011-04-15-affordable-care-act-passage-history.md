@@ -5,14 +5,14 @@ page_title: "How the Affordable Care Act Passed Congress: The Senate Shell Bill,
 date: "2011-04-15"
 categories: "US Legislation"
 excerpt: "How did the Affordable Care Act pass? A history of the shell bill, the lost sixtieth vote, and the two-bill maneuver that carried the Senate draft into law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: "72"
-author: "Sydney"
+author: "simon-hartley"
 last_updated: "2011-04-15"
 tags: ["US Legislation", "Affordable Care Act", "Legislative History", "Senate Procedure", "Reconciliation", "Health Care Reform"]
+lang: en
 ---
-
-![The Affordable Care Act passage history](/assets/images/blog/blog-01.webp)
+![The Affordable Care Act passage history](/assets/images/blog/blog-70.webp)
 
 ## The Starting Position
 

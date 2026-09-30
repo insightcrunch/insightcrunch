@@ -7,9 +7,10 @@ last_updated: "2011-09-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Environmental Law", "Congressional History", "Edmund Muskie", "Richard Nixon"]
 excerpt: "Clean Air Act passage history: how a rivalry for ownership pushed the bill toward stringency and produced a statute stronger than either side first proposed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: "72"
-author: "Insight Crunch Team"
+author: "michael-brooks"
+lang: en
 ---
 ## The Question Before Congress
 
@@ -17,7 +18,7 @@ The Clean Air Act of 1970 was written to answer a question that a full decade of
 
 The problem the legislators faced was not a shortage of concern. Smog had become a visible, choking, daily fact of urban life. Los Angeles lived under a brown haze that stung the eyes and shortened the breath of anyone who exercised outdoors. In November 1966 a temperature inversion trapped a blanket of sulfur-laden fumes over New York City for four days, and the hospitals filled. The episode had a precedent that federal officials still cited: in October 1948, an inversion over Donora, Pennsylvania, a mill town in a river valley, killed a number of residents and sickened many more, and it was Donora that first forced the national government to treat air pollution as something more than a local nuisance. The science was beginning to catch up with the anecdotes. Through the 1960s, researchers at the Department of Health, Education, and Welfare and at universities were assembling the evidence that would become the technical foundation of the 1970 law. Sulfur oxides and fine particulates were linked to chronic bronchitis and aggravated lung disease. Carbon monoxide, the odorless component of vehicle exhaust, was shown to bind with hemoglobin and reduce the blood's capacity to carry oxygen, a particular threat to people with heart conditions. Photochemical oxidants, formed when hydrocarbons and nitrogen oxides baked together in sunlight, irritated eyes and throats and damaged crops. The department's scientists were organizing this knowledge into criteria documents, formal assessments of what each pollutant did to human health, and those documents would become the factual predicate for everything Congress did in 1970.
 
-![How the Clean Air Act of 1970 passed Congress through political competition - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Clean Air Act of 1970 passed Congress through political competition - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The economic case accumulated alongside the medical one. Agronomists measured reduced yields in fields downwind of industrial centers. Engineers calculated the cost of corrosion to buildings, bridges, and public statuary. Municipal officials added up the hospital admissions during inversion episodes. None of these figures settled anything by itself, and the industries that produced the pollution disputed many of them, but together they established that dirty air was not merely unpleasant. It was expensive, and the expense was borne by people who had no part in producing it.
 

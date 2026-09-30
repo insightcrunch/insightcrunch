@@ -6,17 +6,17 @@ date: "2012-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "ERISA", "Pensions", "Health Coverage", "Preemption", "Fiduciary Duties"]
 excerpt: "ERISA began as pension reform and became the law of employer health coverage. This guide covers fiduciary duties, preemption, remedy limits, and insurance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: "72"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2012-07-15"
+lang: en
 ---
-
 ## How ERISA Became America's Health Coverage Law
 
 In 1974, Congress passed a pension statute that refused to stay a pension statute. The Employee Retirement Income Security Act, ERISA, was drafted to answer a pension crisis: underfunded plans, broken vesting promises, and fiduciaries who treated workers' retirement money as a corporate convenience. Within a generation, the same law had become the controlling legal framework for employer sponsored health coverage across the United States, the source of the fiduciary rules governing trillions of dollars in retirement assets, and the reason state insurance reforms stop at the doors of large employer health plans. Its subject was pensions. Its most important effect was not its subject.
 
-![ERISA 1974 pension statute profile - Insight Crunch](/assets/images/blog/blog-01.webp)
+![ERISA 1974 pension statute profile - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The accidental health statute: ERISA is the most consequential health insurance law in the United States that was not written about health insurance, and the self-insured exemption it created through the deemer clause explains why state health reform stops at the employer plan door.
 

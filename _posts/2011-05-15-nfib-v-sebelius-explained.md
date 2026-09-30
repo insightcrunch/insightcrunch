@@ -6,17 +6,17 @@ date: "2011-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "NFIB v. Sebelius", "Constitutional Law", "Health Law", "Federal Courts"]
 excerpt: "NFIB v. Sebelius was undecided in the spring, with district courts split and appeals pending. This guide maps the suits, the four questions, and the arguments."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: "70"
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2011-05-15"
+lang: en
 ---
-
 On this article's date, May 15, 2011, the Supreme Court had not decided National Federation of Independent Business v. Sebelius. That is the first thing a reader must understand, because everything else in this article is shaped by it. The 2012 Supreme Court decision in that case falls outside the scope of this article: it is not described here, its holdings are not discussed, the votes of the justices are not reported, and no justice's reasoning is examined. The case simply had not been decided. What this article covers instead is the live constitutional challenge as it stood in the spring of 2011, while the litigation was still working its way through the lower courts. The posture was a crowded one: multiple lawsuits filed across the country challenging the [Patient Protection and Affordable Care Act of 2010](/2011/04/01/affordable-care-act-complete-guide/), a split among the federal district courts that had ruled on the merits, and appeals pending in the federal courts of appeals with no appellate ruling yet issued.
 
 The heart of the dispute was [the act's minimum essential coverage requirement](/2011/05/01/affordable-care-act-key-provisions/), codified at 26 U.S.C. 5000A. The provision required most Americans to maintain qualifying health insurance coverage or pay an amount that the statute styled as a penalty and that the law's defenders described as a shared responsibility payment. Whether Congress had the constitutional authority to impose that requirement was the central legal question of the litigation. It was not the only one. The states that joined the principal multi-state suit also challenged the act's expansion of Medicaid, which conditioned continued federal Medicaid funding on the states' agreement to expand eligibility. And hovering over the merits in every case was a threshold jurisdictional question: whether the Anti-Injunction Act, a federal statute that generally bars lawsuits to restrain the assessment or collection of taxes, prevented the courts from deciding the challenges before the coverage requirement's payment had actually been assessed against anyone.
 
-![Federal courthouse columns representing the pending constitutional challenge to the Affordable Care Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federal courthouse columns representing the pending constitutional challenge to the Affordable Care Act - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The federal appellate courts had not yet ruled on any of the merits decisions, and the Supreme Court had taken no action on any of the cases. Four questions had therefore emerged as the framework of the litigation, and in May 2011 each of them reached the courtroom as an open question rather than an answered one. First, whether the Anti-Injunction Act deprived the courts of jurisdiction until the shared responsibility payment was collected. Second, whether the coverage requirement fell within Congress's power under the Commerce Clause of Article I. Third, whether the requirement could be sustained under Congress's power to lay and collect taxes. Fourth, whether the Medicaid expansion's conditions on federal funding unconstitutionally coerced the states. The government's defense and the challengers' attacks met on each of these questions with arguments that each side described as dictated by settled doctrine and that the other side described as going beyond anything the courts had previously allowed Congress to do.
 

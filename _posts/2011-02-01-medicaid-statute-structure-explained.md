@@ -6,17 +6,17 @@ date: "2011-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Medicaid", "Title XIX", "Health Policy", "Social Security Act", "state plans", "FMAP"]
 excerpt: "The Medicaid statute turns federal money into state-run health coverage. This guide maps Title XIX state plans, FMAP rates, eligibility, benefits, and waivers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2011-02-01"
+lang: en
 ---
-
 ## Why the Medicaid Statute Is a Bargain, Not a Benefit Card
 
 Most explanations of Medicaid begin with the wrong picture. They describe a program, as though a single national health plan called Medicaid covers a defined population with a defined benefit package, and as though the details vary only at the margins from state to state. The statute tells a different story. Title XIX of the Social Security Act does not create a program in that sense at all. It creates a federal offer, written into law, extended to every state on identical statutory terms, and accepted in practice by every state through a distinct state plan. What a person experiences as Medicaid is therefore not the federal statute alone. It is the statute as a particular state has agreed to administer it, with the particular populations that state has chosen to cover, the particular benefits that state has chosen to furnish, and the particular payment methods that state has negotiated, all of it framed by federal requirements and federal money.
 
-![Medicaid statute guide: a state plan document annotated with federal matching rules - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Medicaid statute guide: a state plan document annotated with federal matching rules - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 This distinction matters because it controls nearly every serious argument about the program. When a legislature debates whether to expand or contract coverage, the question is not what Medicaid covers in the abstract. There is no such answer. When a provider complains that reimbursement is too low, the relevant answer lives in a state plan amendment approved by the Secretary of Health and Human Services, not in the federal statute standing alone. And when reformers propose national changes, they must reckon with the fact that the federal government does not operate the program. It pays for a share of it, sets the conditions on which it will pay, and approves the documents in which states promise to meet those conditions. The rest is administration by more than fifty sovereign partners.
 

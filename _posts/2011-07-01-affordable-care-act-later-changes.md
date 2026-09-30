@@ -6,17 +6,17 @@ date: "2011-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Health Law", "Tax Law", "Statutory Amendments", "Congress"]
 excerpt: "The Affordable Care Act was never repealed, but Congress rewrote it piece by piece: one title, one board, three taxes, a zeroed payment, and enlarged credits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: "72"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2011-07-01"
+lang: en
 ---
-
 ## The Question the Affordable Care Act's Amendments Answer
 
 Is the Affordable Care Act still law, or was it repealed somewhere along the way? Visitors type that question into search engines by the thousands, and the honest answer takes more than a sentence. The Affordable Care Act, enacted March 23, 2010 as [Public Law 111-148](/2011/05/01/affordable-care-act-key-provisions/) and amended by the reconciliation companion Public Law 111-152, was never repealed. No repeal bill ever cleared both chambers of Congress and reached the president's desk for signature. What did happen is something subtler and, for understanding the statute's current shape, more important: Congress repeatedly cut pieces out of the law while leaving the underlying structure standing. Repeal removes a statute from the books. Amendment rewrites it. The Affordable Care Act's history since 2010 is the history of a law substantially rewritten by subtraction.
 
-![Amendment timeline of the Affordable Care Act showing each statutory change by year - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Amendment timeline of the Affordable Care Act showing each statutory change by year - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The confusion is understandable because the subtraction was ambitious in scope and dramatic in presentation. In 2011 the Secretary of Health and Human Services suspended the entire long-term care insurance title, Title VIII, as actuarially unworkable, and Congress finished the job by repealing it outright in January 2013. In 2017 Congress zeroed the shared responsibility payment, the enforcement mechanism behind the individual coverage requirement, and the repeal efforts of that same year failed only after a sequence of Senate votes that stood through 2022 as the closest the law ever came to repeal. In 2018 Congress repealed the Independent Payment Advisory Board, a Medicare cost-control mechanism that had never been constituted. The following year brought further repeals of the act's health-related tax provisions. Then the pattern reversed direction: in 2021 Congress enlarged the premium tax credits, and in 2022 extended those enlarged credits through 2025, amendments that made the law more expansive than its 2010 form on the affordability side. Each change left the core of the law, the exchanges, the market rules, the Medicaid expansion, the subsidies, intact. Each change also altered how that core operated.
 

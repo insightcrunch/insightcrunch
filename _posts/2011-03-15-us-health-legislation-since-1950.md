@@ -6,12 +6,12 @@ date: "2011-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Health Policy", "Medicare", "Medicaid", "Federal Statutes", "Health Reform"]
 excerpt: "US health legislation follows one logic across six decades: each statute attacked the gap its predecessors left, from hospital building to market rules."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2011-03-15"
+lang: en
 ---
-
 Ask how American health care works and you will get a puzzling answer, because there is no single system to describe. What the federal government built over the postwar decades is better understood as a stack of statutes, each enacted to solve the problem that looked most urgent at the time, each left in place while the next one piled on top. Beds came before coverage, coverage came before cost control, and cost control came before price regulation. The result is not a design anyone would have drawn from scratch. It is a record of successive problems and the legislative bargains that answered them. The useful question is not what the system is but what each statute was trying to fix, and why the fix took the shape it did.
 
 The layering matters because each statute was written with the earlier ones in place and assumed them. A law that pays for hospital care means something different in a country that has enough hospitals than in one that does not. A law that controls costs means something different when the government is already a large purchaser of care than when it is a marginal one. The stack is the context: no statute in this article can be understood apart from the ones beneath it, and each one narrowed or widened the choices available to the next Congress.
@@ -28,7 +28,7 @@ The four eras are these. Era I, build capacity, runs from 1946 through 1960 and 
 
 A word on selection. The article does not catalog every health-related provision Congress ever passed. "Major" here means statutes that created lasting programs, obligations, or regulatory regimes, the ones whose mechanisms shaped what came after. Smaller provisions are noted only where they altered the trajectory of a larger program.
 
-![A chronological wall of federal health statutes from 1946 to 2010 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A chronological wall of federal health statutes from 1946 to 2010 - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 ## Era I: Build Capacity
 

@@ -6,17 +6,17 @@ date: "2012-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Endangered Species Act", "Environmental Law", "Wildlife Law", "Section 7 Consultation", "Legal Myths"]
 excerpt: "Seven myths about the Endangered Species Act, tested against the statute's text, the consultation record, and attributed research, with each verdict sourced."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: "74"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2012-06-15"
+lang: en
 ---
-
 ## Twelve Claims, One Method
 
 Readers reach this page carrying one of the dozen Endangered Species Act myths that circulate through ranch gates, council chambers, classrooms, and comment threads, and most arrive convinced that someone on the other side has hidden the truth. The contract this page offers is simple. Each of the dozen assertions is stated in the strongest form its holders would recognize, then receives a verdict tied to the statute's text, the administrative record, or attributed research, and the corrections run in both directions with equal length and equal care. An assertion that flatters conservation-minded readers gets no softer treatment than one that flatters their opponents, and no verdict arrives without the specific evidence that decided it.
 
-![Endangered Species Act myths examined](/assets/images/blog/blog-01.webp)
+![Endangered Species Act myths examined](/assets/images/blog/blog-23.webp)
 
 The dozen assertions did not arrive here by accident. They are the claims that search engines surface, that classrooms debate, that landowners repeat at kitchen tables and that conservationists repeat at fundraisers, and each earned its place on this page by circulating widely enough to shape what the public believes the statute does. Some flatter the measure's defenders, like the story that the law single-handedly rescued the bald eagle; some flatter its opponents, like the one percent figure; and the page treats both families with the same skepticism, because a myth is a myth regardless of whose politics it serves. The four tested in this portion are the quantitative and economic core of the mythology, the ones where numbers do the misleading; the companion portions handle the biological and procedural misunderstandings with the same method.
 

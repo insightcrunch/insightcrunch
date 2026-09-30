@@ -6,17 +6,17 @@ date: "2011-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "NAAQS", "EPA", "Air Quality", "Environmental Law"]
 excerpt: "National Ambient Air Quality Standards cap six pollutants nationwide. This guide explains listing, standard setting, designations, state plans, and enforcement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2011-10-01"
+lang: en
 ---
-
 Every breath drawn outdoors in the United States passes through air that no one owns and everyone shares. The national ambient air quality standards are the federal answer to the question of how clean that shared air must be. They do not tell any particular factory, power plant or motor vehicle how much it may emit. That second job belongs to a different legal instrument, the emission limit, which caps what leaves a single source. The distinction between the two is the hinge of the machine Congress built in the Clean Air Act amendments of 1970, and readers who blur it misunderstand every later step, from the listing of pollutants to the lawsuits over cost. The [clean air act complete guide](/2011/09/01/clean-air-act-complete-guide/) maps all six machines of the statute; this article explains the first, the ambient standards machine.
 
 An emission limit looks at the pipe. It says how much pollution may lawfully come out of one identified source, and it is written into a permit that binds that source alone. An ambient benchmark looks at the sky. It sets a ceiling for how much of a pollutant may lawfully be present in the outdoor air of a region, measured by monitors that sample the atmosphere where people live and breathe, regardless of which sources put it there. Congress chose the ambient approach for the first step because the harm the statute targets, dirty air reaching human lungs, comes from the mixture of everything emitted upwind, not from any single stack. One number, set nationally and applied everywhere, defines the ceiling. Dividing responsibility for meeting it among sources comes later, through state plans and permits that translate the national figure into obligations a specific source can read.
 
-![Clean Air Act national ambient air quality standards guide](/assets/images/blog/blog-01.webp)
+![Clean Air Act national ambient air quality standards guide](/assets/images/blog/blog-64.webp)
 
 That order creates a practical consequence that surprises most newcomers. The national number is not itself enforceable against any polluter. No citizen can sue a factory for violating a national ambient air quality standard, and no government lawyer can charge one, because the statute aims the benchmark at the air rather than at the source. The ceiling becomes enforceable only as it travels downstream. The country is divided into areas, each area is classified by whether its air meets each benchmark, each state writes a plan containing enforceable measures that will bring failing areas into compliance, and permits translate the plan into limits on individual sources. The chain runs from a national ceiling for the atmosphere to a binding term in a single factory's permit, and every link is a separate legal decision with its own section number, its own test and its own deadline.
 

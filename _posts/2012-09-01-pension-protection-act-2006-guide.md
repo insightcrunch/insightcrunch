@@ -6,19 +6,19 @@ date: "2012-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Pension Protection Act", "ERISA", "401(k)", "Retirement Saving", "Behavioral Economics"]
 excerpt: "The Pension Protection Act rewrote retirement via defaults, not commands. A guide to safe harbors, funding rules, and how a pension law built the 401(k) era."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2012-09-01"
+lang: en
 ---
-
 ## An Amendment with Two Halves Pointing in Opposite Directions
 
 Few statutes try to pull the same policy in two opposite directions at once, and fewer still succeed at both. The Pension Protection Act of 2006 did. One half of the statute looks backward, to the traditional pension promise, and makes that promise harder to break by making it harder to underfund. The other half looks forward, to the account-based system that was already replacing pensions, and rewrites the legal rules so that millions of workers save by default instead of by deliberate choice. Congress passed both halves in a single enactment because both halves answered the same fear: that American workers were arriving at retirement with less than they had been led to expect.
 
 The fear had concrete roots. In the years before 2006, several large defined benefit plans failed and handed their obligations to the federal pension insurer, and the failures forced Congress to confront how the funding rules written a generation earlier had let sponsors promise benefits first and fund them later, sometimes never. The old rules let a plan measure its obligations against asset values smoothed across time and pay off its shortfalls gradually, which meant that a plan could look adequately funded on paper while sinking in reality. At the same time, a different problem was gathering in the account-based world. Participation in 401(k) plans was stagnant because enrollment required paperwork, paperwork required initiative, and initiative was exactly what most workers never supplied. Two failures, one of funding and one of inertia, and the 2006 act answered both.
 
-![The United States Capitol, where Congress passed the Pension Protection Act of 2006](/assets/images/blog/blog-01.webp)
+![The United States Capitol, where Congress passed the Pension Protection Act of 2006](/assets/images/blog/blog-84.webp)
 
 That pairing is what makes this the amendment-stage article of the series. The original statute, ERISA, had been built to police the pension promise: disclose it, fund it, insure it. By 2006 the pension promise itself was receding, and the question before Congress was no longer only how to protect pensions but how to make the system replacing them actually work. The Pension Protection Act is therefore best read not as a new regime but as a midlife revision, a statute that took the machinery of an earlier law and repurposed it for conditions the earlier law had never imagined. The repurposing worked better in one half than in the other, and the difference between the two halves is the story of American retirement after 2006.
 

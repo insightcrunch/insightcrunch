@@ -6,19 +6,19 @@ date: "2010-11-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Congress", "Legislative History", "Social Security", "Great Society", "Lyndon Johnson"]
 excerpt: "How did Medicare finally pass Congress? The history of the committee blockade, the election that broke it, and the three-part bargain that became law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: "70"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2010-11-15"
+lang: en
 ---
-
 ## How Medicare Passed in a Single Session
 
 Some ideas fail in Washington for so long that their defeat becomes part of the furniture. For twenty years, national health insurance was one of those ideas. Presidents proposed it, legislators reintroduced it, committees studied it, and the same House committee buried it again and again. Medicare changed that in 1965. In the space of a single congressional session, health insurance for Americans aged 65 and older went from a perennial casualty to enacted law, signed by President Lyndon Johnson on July 30, 1965, in Independence, Missouri, with former President Harry Truman looking on.
 
 The question is why 1965 was different, and the answer has two parts. First, the 1964 election redrew the arithmetic of the House Ways and Means Committee, the gate through which every health insurance bill had to pass. After the Democratic landslide of that November, which Republicans privately called an electoral catastrophe, the committee's Democratic majority could report a bill that its chairman, Wilbur Mills, had refused to report before. Second, Mills himself supplied the decisive move. On March 2, 1965, in executive session, he combined three rival proposals into one package: the administration's compulsory hospital insurance for the elderly, which became Medicare Part A; the voluntary physicians' coverage proposed by the committee's ranking Republican, John Byrnes, which became Medicare Part B; and an expanded Kerr-Mills program of aid to the medically needy, which became Medicaid. The opposition's own alternative became the program's second half, leaving the bill's critics with almost nothing left to fight over. The committee approved the package on March 24 by a straight party vote of 17 to 8 and reported H.R. 6675 to the House on March 29.
 
-![Medicare passage history](/assets/images/blog/blog-01.webp)
+![Medicare passage history](/assets/images/blog/blog-05.webp)
 
 This article traces the long defeat that preceded the quick victory. It opens with Truman's 1945 proposal and the reasons it failed, follows the Forand bills that kept the idea alive through the 1950s, examines the Kerr-Mills experiment and the King-Anderson bills that defined the rival approaches, and then turns to the 1964 election, the committee battle of early 1965, the floor fight, and the signing in Independence. The aim is to show how two decades of failure made the 1965 breakthrough possible: the defeats narrowed the proposal, identified the population it would serve, and clarified the coalition that could carry it. The later sections examine the legislative mechanics in detail, and close with the terms of [the enacted statute](/2010/11/01/social-security-amendments-1965-medicare/) itself.
 

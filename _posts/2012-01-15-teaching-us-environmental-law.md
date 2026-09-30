@@ -6,19 +6,19 @@ date: "2012-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Environmental Law", "Study Guides", "Supreme Court", "Congress", "Legislative Process"]
 excerpt: "Master US environmental law teaching: the four regulatory technologies, the statute sequence, key Supreme Court cases, and exam-ready study checkpoints."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: "63"
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: "2012-01-15"
+lang: en
 ---
-
 ## What Students Get Wrong About US Environmental Law
 
 Ask a capable student what US environmental law does, and the answer comes back in one confident clause: it protects the environment. That confidence is the trap. The answer treats the domain as a single instrument with a single logic, as though the measures passed from 1969 to 1980 were variations on one theme, and that assumption quietly corrupts every exam answer that follows from it. A reader who believes the field has one logic will read a procedural duty as a substantive mandate, confuse an ambient goal with a permit limit, and hunt for a balancing test inside a prohibition that permits almost none. The misunderstanding is not a gap in knowledge. It is a wrong map, and a wrong map misleads even a diligent traveler.
 
 The map spread for three innocent reasons. First, textbook compression. Survey courses give the subject two weeks, so authors flatten a dozen distinct mechanisms into a parade of acronyms, NEPA, CAA, CWA, ESA, RCRA, CERCLA, TSCA, SDWA, each summarized in a paragraph that makes them sound like interchangeable members of one family. Second, the shared origin story. From 1969 to 1980 the country produced its landmark measures in a single burst: the National Environmental Policy Act of 1969, Public Law 91-190, 83 Stat. 852, signed January 1, 1970; the first Earth Day on April 22, 1970; the Clean Air Amendments of 1970, Public Law 91-604, signed December 31, 1970; the Federal Water Pollution Control Act Amendments of 1972, Public Law 92-500, enacted October 18, 1972 over a presidential veto; the Endangered Species Act of 1973, Public Law 93-205, signed December 28, 1973; the Safe Drinking Water Act of 1974, Public Law 93-523; the Resource Conservation and Recovery Act of 1976, Public Law 94-580, and the Toxic Substances Control Act of 1976, Public Law 94-469; and the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Public Law 96-510, signed December 11, 1980. Third, the shared agency. The Environmental Protection Agency was established December 2, 1970 under Reorganization Plan No. 3, and because one agency administers so many of these measures, students assume the measures must share one internal logic. The teacher who keeps [the sequence students must hold](/2012/01/01/us-environmental-laws-1970s/) on the board has a weapon against that assumption, because the sequence shows at a glance that the burst was legislative, not logical: Congress reached for different tools in different years for different problems, and the agency inherited the variety.
 
-![Students mapping US environmental law statutes by regulatory technology in a classroom - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Students mapping US environmental law statutes by regulatory technology in a classroom - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The corrective is a namable claim students can carry into any exam. The subject is not one field with one logic. It is at least four regulatory technologies wearing a common name: ambient standards, technology-based limits, information disclosure, and absolute prohibition. Each technology answers a different question. Ambient standards ask what the surrounding air or water must look like. Technology-based limits ask what each source must do, regardless of the surrounding condition. Information disclosure asks what must be revealed, on the theory that revealed facts change behavior. Absolute prohibition asks what is simply forbidden, full stop. A reader who learns each measure as a choice among these four can place an unfamiliar provision correctly on first reading, because the first question becomes diagnostic rather than decorative: which of the four questions is this provision actually answering?
 

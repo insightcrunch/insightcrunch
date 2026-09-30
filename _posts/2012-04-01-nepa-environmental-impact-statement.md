@@ -6,17 +6,17 @@ date: "2012-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "NEPA", "Environmental Law", "Environmental Impact Statement", "Administrative Law", "Federal Permitting"]
 excerpt: "An environmental impact statement anchors federal review. This guide explains the tiers, the document sequence, deadlines, and why the record decides cases."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: "2012-04-01"
+lang: en
 ---
-
 ## The Operative Question
 
 When a federal agency decides to build a highway, permit a pipeline, fund a dam, or lease public land for drilling, a single question controls what happens next: what document must the agency produce before it acts? The answer, in the minority of cases that travel the full distance, is an environmental impact statement, the long public document Congress demanded in section 102(2)(C) of the National Environmental Policy Act. The surprising feature of this corner of federal law is not that the document exists. The surprising feature is how little the law cares about the decision the document accompanies.
 
-![Environmental impact statement document sequence, NEPA three-tier review explainer - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Environmental impact statement document sequence, NEPA three-tier review explainer - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The National Environmental Policy Act, signed on January 1, 1970 as Public Law 91-190, is a procedural statute wearing the costume of a substantive one. Its language speaks grandly about the national policy of protecting the environment, and readers encountering it for the first time often assume it tells agencies which projects to approve and which to reject. It does neither. What section 102(2)(C) actually commands, codified at 42 U.S.C. 4332, is that every recommendation or report on proposals for legislation and other major federal actions significantly affecting the quality of the human environment include a detailed statement by the responsible official on the environmental consequences of the proposal. The operative word is statement. The law compels a disciplined public analysis; it does not compel a particular answer. An agency that prepares an adequate statement may select the alternative with the worst environmental consequences and still comply with the statute, provided the choice is explained on the record. The companion guide to the statute itself, [the National Environmental Policy Act overview](/2012/02/01/national-environmental-policy-act-guide/), traces this procedural character from the act's text through its implementation, and it is worth keeping that character in mind for everything that follows here, because nearly every misunderstanding of the documents below starts with the assumption that the law grades the decision rather than the paperwork.
 

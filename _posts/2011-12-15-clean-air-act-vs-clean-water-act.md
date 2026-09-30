@@ -6,15 +6,15 @@ date: "2011-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Clean Water Act", "Environmental Law", "EPA", "Comparison"]
 excerpt: "Clean Air Act vs Clean Water Act: which should you study first? Five axes, logic, permits, federalism, jurisdiction, deadlines, resolve into a verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: "61"
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2011-12-15"
+lang: en
 ---
-
 Clean Air Act vs Clean Water Act comparisons usually start with the reassuring observation that Congress built two great pollution statutes two years apart, one for the sky and one for the rivers, and that learning one teaches the other. That observation is the most common introductory error in American environmental law. President Nixon signed the Clean Air Act amendments of 1970, Public Law 91-604, on December 31, 1970, and Congress enacted the Federal Water Pollution Control Act Amendments of 1972, Public Law 92-500, over Nixon's veto in October 1972. The coalitions overlapped, the rhetoric overlapped, and the committee rooms overlapped. The regulatory technologies did not. One statute aims a health-based target at the ambient environment and works backward through state-written plans to individual sources. The other aims technology-based limits directly at dischargers and treats ambient water goals as a backstop. Treating the two as parallel siblings obscures the structural choice that explains nearly every difference that follows, from how a permit functions to who a regulated party negotiates with to why one statute spent decades in court arguing about what it covers while the other never faced that fight.
 
-![Clean Air Act vs Clean Water Act regulatory architecture comparison - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Clean Air Act vs Clean Water Act regulatory architecture comparison - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The One Test for this comparison asks three things of a reader who finishes it. First, the reader can state the structural difference between the two statutes without reciting that one covers air and one covers water. The answer is that the air law regulates from the top down, from a national ambient ceiling to state plans to source obligations, while the water law regulates from the source up, from nationally uniform technology floors applied discharger by discharger, with ambient water goals catching what the floors miss. Second, the reader can explain the jurisdiction asymmetry. The water statute has spent decades litigating the meaning of its own central term, "navigable waters," later defined by regulation as "waters of the United States," because Congress wrote a permit prohibition that turns entirely on whether a discharge reaches covered water; every permit, every enforcement action, and every dredge-and-fill authorization depends on that boundary. The air statute never faced an equivalent fight because its central prohibition does not turn on geography. Air moves, mixes, and crosses every boundary drawn on a map, so Congress anchored the air law to health-based concentration targets rather than to a map of covered airspace, and no court has had to decide which cubic meter of sky the law reaches. Third, the reader knows which statute to study first. Study the Clean Air Act first. Its logic is the harder mental model, a national ceiling translated into fifty-odd state plans and then into source limits, and once that backward chain is understood, the water law's direct design, national technology floors written straight onto permits, reads as the simpler mirror image. Studying the water law first teaches the easy instrument and leaves the hard architecture for later.
 

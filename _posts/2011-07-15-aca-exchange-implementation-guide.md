@@ -6,17 +6,17 @@ date: "2011-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Health Insurance Exchanges", "Implementation", "HealthCare.gov", "Public Policy"]
 excerpt: "Health insurance exchanges were the ACA's delivery engine. This guide traces the inversion, the launch failure, the recovery, the risk programs, and the legacy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2011-07-15"
+lang: en
 ---
-
 Congress built the health insurance exchanges to be the front door of a reformed individual market, then watched that front door jam on national television before it admitted a single customer. The story of how the exchanges were designed in sections 1311 and 1321 of Public Law 111-148, why the federal marketplace collapsed when it opened on October 1, 2013, and how a small recovery team restored it within weeks is the most instructive implementation episode in modern American public administration. It is a story about a statute whose federalism assumptions inverted, a procurement that left no one in charge of making the pieces fit, and a rescue that produced permanent institutions.
 
 This guide reconstructs the episode from the statutory blueprint through the failed launch, the technology surge, the three risk programs, the collapse of the consumer co-ops, the silver loading improvisation, and the digital service organizations that outlasted the crisis. Every development is dated as it happened, because the implementation history only makes sense as a sequence: a contingency that became the main system, a failure of procurement rather than of code, and a recovery whose methods the government afterward wrote into doctrine.
 
-![Health insurance exchanges implementation, the 2013 federal marketplace launch and recovery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Health insurance exchanges implementation, the 2013 federal marketplace launch and recovery - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 ## The health insurance exchanges as the statute drew them
 

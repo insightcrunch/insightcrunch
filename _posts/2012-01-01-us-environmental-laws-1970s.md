@@ -6,17 +6,17 @@ date: "2012-01-01"
 categories: ["Industry"]
 tags: ["US Legislation", "environmental laws", "Clean Air Act", "Clean Water Act", "NEPA", "Superfund"]
 excerpt: "How the environmental laws of modern America were written in one eleven-year burst: each statute, its technique, and the votes behind the lopsided margins."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: "78"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2012-01-01"
+lang: en
 ---
-
 Consider the vote counts first, because they are the strangest thing in this story. The environmental laws of the 1970s were not squeaked through on party-line votes or carried by a momentary majority. The National Environmental Policy Act passed the Senate unanimously and the House 372 to 15. The Clean Air Amendments of 1970 cleared the House 374 to 1 on the conference report, and the Senate agreed without a recorded roll call. The Federal Water Pollution Control Act Amendments of 1972 were enacted over a presidential veto, and both chambers mustered more than the two thirds the Constitution requires to do it. The Endangered Species Act of 1973 passed the Senate 92 to 0 and cleared the House conference report 355 to 4. Margins like these are not the product of bargaining or horse trading in the ordinary sense. They are what a legislature looks like when it has decided, almost as one body, that something must be done.
 
 The second strange fact is the calendar. The entire architecture of American environmental law was built in an eleven-year window, from 1969 to 1980, by bipartisan supermajorities, under presidents of both parties. Before that window, federal pollution law was a thin collection of research grants, state planning money, and enforcement procedures so cumbersome they were almost never used. After that window, Congress never again wrote a foundational environmental statute from a blank page. Everything since has been amendment, implementation, and litigation. The 1977 and 1990 clean air amendments, the 1977 and 1987 clean water amendments, the 1986 Superfund amendments, all of them presuppose the framework the 1970s built. Call it the eleven-year window: the shortest and most productive legislative window in this series, in which Congress wrote, in sequence, the procedural template for environmental review, the federal programs for air and water, the pesticide code, the ocean and wildlife statutes, the drinking water and toxics laws, the waste and land programs, and the cleanup liability regime that closed the decade.
 
-![Environmental decade legislation on the congressional floor - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Environmental decade legislation on the congressional floor - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 The surprise is not only that the statutes passed, but who signed most of them. Richard Nixon, a Republican president elected on a law-and-order platform, signed the National Environmental Policy Act on the first day of 1970 and the Clean Air Amendments on the last day of that year. He signed the 1972 pesticide amendments, the Marine Mammal Protection Act, the ocean dumping statute, and the Endangered Species Act. He created the Environmental Protection Agency and the National Oceanic and Atmospheric Administration by executive reorganization. He also vetoed the 1972 water bill, and Congress overrode him within a day. The pattern holds across the aisle: Gerald Ford signed the drinking water, toxics, and waste laws of the mid 1970s, and Jimmy Carter signed the 1977 clean air and water amendments, the surface mining law, and the cleanup statute of 1980. Environmental law in this window was not the project of one party imposing its will. It was the project of a Congress that had decided the federal government should set the terms of pollution control, and of presidents who, whatever their other disagreements with the details, found the politics of opposition unworkable.
 
@@ -282,7 +282,6 @@ The ninth habit is to connect the ending to the present only through dated devel
 ## The Master Summary
 
 The environmental decade ran from 1969 to 1980. In those eleven years Congress wrote the procedural template for environmental review, the federal programs for air and water, the pesticide and ocean dumping codes, the wildlife protections, the drinking water standards, the hazardous waste and toxics regimes, the surface mining floor, and the cleanup liability law that closed the sequence. The statutes shared a design grammar, ambient standards, technology-based limits, procedural commands, absolute prohibitions, and retrospective liability, and they shared a politics, bipartisan supermajorities under presidents of both parties, agreement on the direction of travel, and fierce fights over deadlines, costs, and preemption. The wave ended not in repeal but in a change of venue: to agency implementation, to litigation over what the hurried statutes meant, and to centralized White House review of regulation under the cost-benefit order of 1981. On the assessment common among legal historians, no comparably ambitious new environmental statute has been enacted since the 1990 Clean Air Act amendments. Read this article first, then the cluster guides, and let each cluster article do its own statute's work without re-explaining the field. That division of labor is what a master article is for.
-
 
 
 ## Frequently Asked Questions

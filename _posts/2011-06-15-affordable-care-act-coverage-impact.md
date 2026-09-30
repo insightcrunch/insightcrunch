@@ -6,17 +6,17 @@ date: "2011-06-15"
 categories: "[\"Industry\"]"
 tags: "[\"US Legislation\", \"Affordable Care Act\", \"Health Coverage\", \"Medicaid Expansion\", \"Health Policy\", \"Impact and Outcomes\"]"
 excerpt: "The Affordable Care Act cut the uninsured rate mainly through Medicaid expansion, reduced medical debt, and saw premiums stabilize after early turbulence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2011-06-15"
+lang: en
 ---
-
 ## The evidence question the statute has to answer
 
 The Affordable Care Act asked the federal government to do something no prior American statute had attempted at the same scale: to move the uninsured rate of a nation of more than 300 million people through a single package of insurance provisions, the principal ones taking effect on January 1, 2014. The five machines that made up that package, the coverage provisions whose effects this article measures, are mapped in detail in [the companion treatment of the statute's key provisions](/2011/05/01/affordable-care-act-key-provisions/). This article carries a publication date of 2011-06-15, which places it before any of those provisions operated. It is drafted under a standing series authorization to describe measured outcomes from January 2014 through about 2022, and nothing later. Every number below therefore carries a named source and a period. Findings that are close to settled are presented as settled. Findings that remain contested among health economists are labeled contested, with the methodological reason for the disagreement stated in plain terms.
 
-![Uninsured rate trend chart illustrating the Affordable Care Act coverage impact - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Uninsured rate trend chart illustrating the Affordable Care Act coverage impact - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 Two symmetrical overreaches have to be cleared away before the evidence can be read straight. The first says the law failed because premiums in the individual market rose sharply in its early years. The second says the law succeeded because the number of people with insurance rose. Both pick one outcome and treat it as the whole story. A statute this large never produces a single outcome. It moved the uninsured rate, it moved the composition of who holds insurance, it moved medical debt, it moved measurable health in some dimensions and not in others, and it moved premiums in different market segments in different directions. This article, with its companion sections, holds all of those outcomes at once and names which tradeoffs the statute deliberately made and which ones arrived as surprises.
 

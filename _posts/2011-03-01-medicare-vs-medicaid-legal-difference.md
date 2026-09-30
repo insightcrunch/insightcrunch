@@ -6,12 +6,12 @@ date: "2011-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Medicaid", "Social Security Act", "Health Law", "Dual Eligibility"]
 excerpt: "Medicare vs Medicaid: six legal axes decide which statute answers your question, from entitlement and financing to long-term care and the courthouse door."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: "2011-03-01"
+lang: en
 ---
-
 ## The Two Titles Everyone Confuses
 
 Ask a room of thoughtful adults to name the difference between Medicare and Medicaid, and the answer arrives within seconds: the first is for old people, the second is for poor people. The formula is tidy, memorable, and wrong in every direction that matters. It is not that the two arrangements never line up with age and income; they often do. It is that the formula teaches the wrong mental move. It trains a person to sort by label. The law sorts by statute, and those two habits point at different answers often enough that the tidy formula costs people real money, real coverage, and real time. The rest of this guide is an attempt to replace the label habit with the statute habit, one axis at a time.
@@ -233,7 +233,7 @@ The axes above reduce to a single working method: identify the program, then app
 | Long-term care | Excludes custodial care under 1395y(a)(9); covers only limited skilled facility and home health care. | Principal payer of long-term care, including custodial nursing facility services and waiver-based home care. | Long-term care planning is Medicaid planning: spend-down, transfer penalties, estate recovery, and spousal protections. |
 | Litigation route | Disputes run through a statutory administrative appeal ladder; 405(h), applied to Medicare by 1395ii, channels claims before judicial review. | Disputes more often arrive as suits against state officials under Ex parte Young or 1983, with contested private enforceability of individual provisions. | Medicare challengers exhaust the agency process; Medicaid challengers often start in court against the state. |
 
-![Medicare and Medicaid statute books compared side by side - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Medicare and Medicaid statute books compared side by side - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 ## Axis 6: Litigation Posture
 

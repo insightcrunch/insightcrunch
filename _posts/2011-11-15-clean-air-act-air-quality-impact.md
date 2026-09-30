@@ -6,15 +6,15 @@ date: "2011-11-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Air Quality", "EPA", "Environmental Law", "Benefit Cost Analysis"]
 excerpt: "The Clean Air Act cut air pollution while the economy grew: combined emissions fell nearly four fifths, blood lead fell 93 percent, and cleaner air saved lives."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: "81"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2011-11-15"
+lang: en
 ---
-
 When Congress passed the Clean Air Act in 1970, the United States committed itself to an experiment that no country had tried at comparable scale: setting binding, health based limits on the pollution that industry and automobiles could release into the shared atmosphere, and then measuring whether the air improved. Four decades of evidence now answer the question that motivated the law, and the answer runs against the intuition of nearly everyone who debated the bill in 1970. The nation drove far more miles, produced far more goods, burned more fuel to light and heat a larger country, and added tens of millions of residents, while the aggregate pollution released into American skies fell steeply. That decoupling of economic growth from emissions is the central fact of this article, and it shapes everything that follows. The record deserves scrutiny rather than celebration, because a law that imposes real compliance costs on real businesses owes the public an honest accounting, and the accounting begins with what the monitors recorded.
 
-![Clean Air Act air quality impact: emissions trends and health evidence - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Clean Air Act air quality impact: emissions trends and health evidence - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The skepticism of 1970 was not irrational. Legislators who warned that cleaning the skies would strangle industry were responding to a visible economy that ran on coal fired power, leaded gasoline, and unfiltered smokestacks, and the technology required to control many pollutants did not yet exist in commercial form at the stringency the statute demanded. Environmentalists who predicted catastrophe without federal intervention were responding to riverside cities where smog advisories kept children indoors and where sulfur laden haze dimmed skylines for days at a time. Both sides agreed that the stakes were enormous and neither side could prove in advance what the tradeoff would be. What happened afterward surprised nearly everyone. Pollution control turned out to be an industry in its own right, employing engineers, manufacturing scrubbers and catalytic converters, and steadily lowering the price of compliance as experience accumulated. The economy did not contract to fit cleaner air; cleaner air was produced inside a growing economy.
 

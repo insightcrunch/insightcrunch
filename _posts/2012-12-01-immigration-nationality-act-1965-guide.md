@@ -7,14 +7,14 @@ last_updated: "2012-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Statute Guide", "Visa Categories", "Hemispheric Caps", "Legislative History"]
 excerpt: "The Immigration and Nationality Act, as amended, governs every visa issued. This guide explains the quota repeal, the new preferences, and both ceilings."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: "77"
-author: "Insight Crunch Team"
+author: "simon-hartley"
+lang: en
 ---
-
 Almost every immigration question a researcher, a staffer, or a student asks about the Immigration and Nationality Act of 1965 runs into the same structural confusion, because the name points at 1965 while the law points at 1952. The 1965 measure did not create the American immigration system from nothing. It rewrote key parts of a statute that Congress had enacted thirteen years earlier, and the rewritten parts came to sit inside the older statute's numbering, the older statute's definitions, and the older statute's place in the United States Code. A reader who holds that relationship clearly can locate any provision, follow any later amendment, and understand why the lawyers, the judges, and the agency officials all cite section numbers that look older than the law being discussed. A reader who does not hold it will keep tripping over the names.
 
-![The Immigration and Nationality Act of 1965 guide, explaining the statute's text, structure, and hemispheric ceilings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Immigration and Nationality Act of 1965 guide, explaining the statute's text, structure, and hemispheric ceilings - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 ## The statute behind the name: what the Immigration and Nationality Act of 1965 actually changed
 

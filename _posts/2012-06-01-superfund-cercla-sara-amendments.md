@@ -6,19 +6,19 @@ date: "2012-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Superfund", "CERCLA", "SARA", "Environmental Law", "Toxics Release Inventory"]
 excerpt: "Superfund liability is strict, retroactive, and joint and several. The SARA amendments added a disclosure title that outperformed the entire cleanup program."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: "72"
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: "2012-06-01"
+lang: en
 ---
-
 ## The Question Superfund Answers
 
 Superfund exists because of a question that sounds simple and turns out to be the hardest problem in American environmental law: who pays to clean up a contaminated property when the contamination happened years ago, the company responsible has vanished or collapsed, and the dumping was not necessarily against the law when it occurred? Every earlier statute in the environmental wave of the 1970s aimed at pollution happening in the present tense. The Clean Air Act chased smokestacks still emitting. The Clean Water Act of 1972 required permits for discharges still flowing. The Resource Conservation and Recovery Act of 1976 tracked hazardous waste from the moment of creation to the moment of disposal, a system its drafters called cradle to grave. All of them assumed a living polluter, a current activity, and a permit or prohibition that could be enforced going forward. None of them could reach backward to the thousands of dumps, lagoons, and drum yards where waste had already been buried and the responsible parties had already disappeared.
 
 That gap is the entire reason the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 exists. Congress could have answered the question with public money alone, creating a government cleanup program financed from general tax revenue. It chose something stranger and more ambitious: a liability machine. The statute created a trust fund to pay for cleanups up front, then gave the government sweeping power to find the parties connected to a contaminated facility and make them reimburse the fund, jointly, severally, retroactively, and without any need to prove fault. The fund gave the law its nickname. The liability scheme gave the law its character, and that character is unlike anything else in this series. No other statute in this collection makes a company pay for conduct that was lawful when it occurred, or holds one party responsible for an entire site because the contamination cannot be divided among the contributors, or turns a current landowner who never spilled a drop into a defendant. Understanding the law means understanding that design choice and everything that flowed from it.
 
-![Love Canal evacuated streets and the birth of Superfund liability - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Love Canal evacuated streets and the birth of Superfund liability - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 Put the operative question as a test any reader can apply. A neighborhood discovers that its soil is laced with chemicals buried decades earlier by a company that no longer exists. Three possible answers present themselves. The taxpayers absorb the cost as a public misfortune. The current owners absorb it as a cost of owning land. Or the law reaches back through the chain of ownership and disposal, finds everyone who touched the waste or the property, and divides the bill among them, with the fund covering whatever no one can pay. Congress chose the third answer first and the first answer last. The trust fund exists so that cleanup can begin before the lawyers finish arguing, and the liability provisions exist so that the argument ends with private parties, not the public, holding the bill whenever private parties can be found. That ordering, public money first and private reimbursement second, is the hinge on which the whole statute swings. It explains why the government can start digging before it finishes investigating, why settlement negotiations carry such pressure, and why the litigation the law generates is mostly not government against polluter but polluter against polluter, each trying to push the cost onto someone else in the chain.
 

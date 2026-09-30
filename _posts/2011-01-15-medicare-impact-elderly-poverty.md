@@ -6,15 +6,15 @@ date: "2011-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Elderly Poverty", "Health Policy", "Social Security"]
 excerpt: "Medicare elderly poverty is often miscast: the law insured the old against ruinous bills, not lower poverty or mortality. This account weighs the evidence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: "2011-01-15"
+lang: en
 ---
-
 What did Medicare measurably do to Medicare elderly poverty? The question sounds simple, yet the statute's own record answers it more narrowly and more decisively than either its champions or its critics usually admit. Medicare's demonstrated achievement was the elimination of catastrophic financial risk for the old, not a large first decade gain in survival. The strongest empirical work on the program's early years found no discernible effect on elderly mortality in its first ten years, while documenting a sharp reduction in out of pocket medical spending risk. To judge the statute against mortality is to grade it on an outcome its drafters never promised; to judge it against financial protection is to find the achievement precisely where the legislative record said it would be. This article evaluates the law against its own aims, and separately against aims later observers projected onto it.
 
-![Elderly Americans reviewing Medicare enrollment materials in 1966 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Elderly Americans reviewing Medicare enrollment materials in 1966 - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The statute under examination is the Social Security Amendments of 1965, Public Law 89-97, signed on July 30, 1965, which added Title XVIII to the Social Security Act at 42 U.S.C. 1395 and following. That title is Medicare, and its benefits began flowing on July 1, 1966, when some 19.1 million Americans age 65 or older established entitlement. The companion account of the program's structure and enactment appears in the series treatment of the measure itself, /2010/11/01/social-security-amendments-1965-medicare/, and this article takes that account as its subject and measures it against what came after.
 
@@ -25,7 +25,6 @@ The most disciplined statement of the evidence came from Amy Finkelstein and Rob
 The mortality half of their result deserves careful reading, because it is the one most often misquoted. Finkelstein and McKnight did not argue that Medicare failed to keep anyone alive. They found no discernible effect on overall elderly mortality in the program's first decade, and they offered a mechanism to explain it: in the years before Medicare, the binding barrier to hospital care for people with life threatening but treatable conditions was lack of legal access rather than lack of insurance. Hospitals admitted the seriously ill regardless of coverage, so extending insurance did not change who got urgent care. What changed was who paid, and how much risk of financial ruin the old carried into old age. This distinction between access to treatment and exposure to cost is the key to the whole Medicare elderly poverty story, because it separates the outcome the program actually transformed from the outcome observers have repeatedly wished it would.
 
 The second half of their finding is where the poverty connection lives. A forty percent fall in out of pocket spending among the quarter of elderly spenders with the heaviest bills is not a footnote; for households on fixed incomes, a catastrophic bill was the event that converted modest circumstances into destitution. Insurance that removes the right tail of medical spending is, for the poor and the near poor, an anti poverty device even though it never appears in the income statistics. The official poverty rate counts cash income, so the financial protection Medicare bought does not register as income growth, yet it kept illness from destroying savings that the Census Bureau never measured as income in the first place. Any assessment of Medicare elderly poverty that looks only at the poverty line misses this channel entirely, which is why the program's defenders and critics keep talking past each other.
-
 
 
 To measure Medicare's impact on poverty among the aged, the starting point must be the world it replaced. The elderly of the late 1950s and early 1960s were, by the government's own measurement, the poorest age group in the country, and they were the least protected against medical expense.

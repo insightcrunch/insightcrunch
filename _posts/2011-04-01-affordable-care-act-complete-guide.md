@@ -6,17 +6,17 @@ date: "2011-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Health Law", "Insurance Regulation", "Medicare", "Medicaid", "Tax Policy"]
 excerpt: "The Affordable Care Act is two statutes, not one. This guide maps its five machines: insurance rules, exchanges, Medicaid expansion, financing, and delivery."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2011-04-01"
+lang: en
 ---
-
 Ask what the Affordable Care Act is, and the answer that matters most is structural: the Affordable Care Act is not one statute but two. Public Law 111-148, the Patient Protection and Affordable Care Act, laid the architecture in March 2010, and Public Law 111-152, the Health Care and Education Reconciliation Act of 2010, amended it one week later [the companion passage-history article](/2011/04/15/affordable-care-act-passage-history/). That is the two-statute rule, and it is the namable claim on which this guide turns. Anyone who understands the Affordable Care Act can say, without hesitation, which of the two statutes did what, and can point to the right title of the statute for the insurance rules, the coverage subsidies, the Medicaid expansion, the financing taxes, and the delivery-system reforms.
 
 The One Test for this guide is exactly that. After reading it, a reader should be able to state that the Affordable Care Act is two statutes rather than one, name what each statute did, and locate each of the five machines in its proper title. The insurance market rules sit in Title I. The coverage subsidies, the exchanges, the premium tax credits, and the shared-responsibility requirements sit in Title I as well, in the subtitles that build the coverage machinery. The Medicaid expansion sits in Title II. The financing taxes sit in Title IX. The delivery-system reforms, aimed chiefly at Medicare payment and quality, sit in Title III. A reader who can place all five has passed the test. A reader who treats the law as a single undifferentiated mass has not.
 
-![The Affordable Care Act complete statute guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Affordable Care Act complete statute guide - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The two-statute rule deserves emphasis because the reconciliation act did more than polish the first statute. The Health Care and Education Reconciliation Act rewrote the financing provisions, changed the Medicaid terms, and rewrote the federal student loan provisions through amendments to the Higher Education Act of 1965. Its Title I carried the coverage, Medicare, Medicaid, and revenue changes, and its Title II carried the education and health changes. When later summaries describe the Affordable Care Act as a single law, they describe the two statutes read together, which is how Congress itself presented them: the reconciliation act combined with the Patient Protection and Affordable Care Act to form the health care reform law, in the words of the Congressional Research Service.
 

@@ -6,17 +6,17 @@ date: "2012-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Safe Drinking Water Act", "Drinking Water Standards", "EPA", "Environmental Law", "Public Health"]
 excerpt: "The Safe Drinking Water Act pairs a health goal with an enforceable limit for each tap contaminant. This guide explains the design, coverage, and Flint lesson."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2012-04-15"
+lang: en
 ---
-
 ## The Safe Drinking Water Act and the myth of the compliant glass
 
 The glass of water on the dinner table carries an invisible guarantee that most drinkers never stop to examine. The reasoning runs quietly in the background of American life: a public utility delivers the water, the government regulates utilities, so the water must be safe. The Safe Drinking Water Act stands behind that assumption, and it delivers something narrower and more interesting than a guarantee of safety. The statute builds a framework of enforceable limits on a defined list of contaminants, layered over health goals that the law itself concedes may sit beyond what any enforceable limit can reach. Grasping the space between the goal and the limit, and understanding why Congress designed that space on purpose, changes how every glass drawn from a tap should be read.
 
-![Glass of tap water illustrating the Safe Drinking Water Act gap between legal compliance and health safety - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Glass of tap water illustrating the Safe Drinking Water Act gap between legal compliance and health safety - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 The misunderstanding has a compact form, and it deserves a direct statement: compliant water is not the same thing as safe water. Compliance means a water system sampled for the contaminants on the federal list, used approved methods, kept to the required schedule, and stayed within the enforceable limits. Safety is a wider claim about human health, and the statute never makes it in that unqualified form. The law's own machinery admits the difference, because for every regulated contaminant the federal government sets two numbers. One is a health goal calculated without regard to cost. The other is an enforceable limit calculated with cost as an explicit ingredient. When the two numbers diverge, as they routinely do, the water reaching the tap is lawful without being identical to what pure health science would prefer.
 
