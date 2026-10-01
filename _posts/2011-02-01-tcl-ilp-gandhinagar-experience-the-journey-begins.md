@@ -4,11 +4,11 @@ title: "TCL ILP Gandhinagar Experience – The Journey Begins"
 date: 2011-02-01
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post on TCS ILP by Chandan Kumar Singh. The views expressed are entirely of the author."
+excerpt: "TCS ILP Gandhinagar journey: from arrival to the first days of training. A guest post capturing the excitement, nervousness, and the learning curve."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 5
 author: "vikram-iyer"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 This is a guest post on TCS ILP by Chandan Kumar Singh. The views expressed are entirely of the author.  

@@ -5,11 +5,11 @@ post_title: "How is South Point going to change with the CBSE board being introd
 date: 2011-08-29
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "South Point will finally be allowing its students to opt for the CBSE board. The previous West Bengal board will also continue to be present alongside."
+excerpt: "South Point Kolkata introduces CBSE alongside West Bengal Board. How dual boards will change admissions, curriculum, and the school's identity."
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 4
 author: "amanda-ross"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 South Point will finally be allowing its students to opt for the CBSE board. The previous West Bengal board will also continue to be present alongside. Needless to say, this top prestigious institution is headed towards a major infrastructural revamp following this change. The administration must be accomplishing awareness and training drives to prepare the existing faculties for the challenge. New faculties might also be included in the new

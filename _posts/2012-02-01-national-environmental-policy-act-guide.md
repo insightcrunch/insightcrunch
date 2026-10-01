@@ -9,7 +9,7 @@ excerpt: "The National Environmental Policy Act requires agencies to study effec
 image: "/assets/images/blog/blog-45.webp"
 reading_time: "88"
 author: "patrick-dunn"
-last_updated: "2012-02-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Paradox at the Center of American Environmental Law

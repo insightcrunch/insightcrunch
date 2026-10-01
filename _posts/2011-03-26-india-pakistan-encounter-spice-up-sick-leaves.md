@@ -4,11 +4,11 @@ title: "India Pakistan encounter spice up sick leaves"
 date: 2011-03-26
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "The semi-final clash between India and Pakistan will be doing a trick this week. The companies and schools will see a fishy rise in the number of people..."
+excerpt: "India vs Pakistan cricket semifinal: the day offices emptied, sick leaves spiked, and an entire nation paused for one World Cup match."
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 1
 author: "rachel-foster"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 The semi-final clash between India and Pakistan will be doing a trick this week. The companies and schools will see a fishy rise in the number of people falling ill ;) No doubt this is going to be the biggest clash between the two teams in recent times. And this hype and interest for this match is nothing amusing. It has now become as big as it could be.

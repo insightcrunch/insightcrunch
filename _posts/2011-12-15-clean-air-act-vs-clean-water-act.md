@@ -9,7 +9,7 @@ excerpt: "Clean Air Act vs Clean Water Act: which should you study first? Five a
 image: "/assets/images/blog/blog-41.webp"
 reading_time: "61"
 author: "hannah-moore"
-last_updated: "2011-12-15"
+last_updated: 2026-10-01
 lang: en
 ---
 Clean Air Act vs Clean Water Act comparisons usually start with the reassuring observation that Congress built two great pollution statutes two years apart, one for the sky and one for the rivers, and that learning one teaches the other. That observation is the most common introductory error in American environmental law. President Nixon signed the Clean Air Act amendments of 1970, Public Law 91-604, on December 31, 1970, and Congress enacted the Federal Water Pollution Control Act Amendments of 1972, Public Law 92-500, over Nixon's veto in October 1972. The coalitions overlapped, the rhetoric overlapped, and the committee rooms overlapped. The regulatory technologies did not. One statute aims a health-based target at the ambient environment and works backward through state-written plans to individual sources. The other aims technology-based limits directly at dischargers and treats ambient water goals as a backstop. Treating the two as parallel siblings obscures the structural choice that explains nearly every difference that follows, from how a permit functions to who a regulated party negotiates with to why one statute spent decades in court arguing about what it covers while the other never faced that fight.

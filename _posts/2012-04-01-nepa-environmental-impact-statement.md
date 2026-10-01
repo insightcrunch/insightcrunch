@@ -9,7 +9,7 @@ excerpt: "An environmental impact statement anchors federal review. This guide e
 image: "/assets/images/blog/blog-37.webp"
 reading_time: "69"
 author: "thomas-reid"
-last_updated: "2012-04-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Operative Question

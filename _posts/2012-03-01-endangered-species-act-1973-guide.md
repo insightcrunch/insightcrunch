@@ -9,7 +9,7 @@ excerpt: "The Endangered Species Act is America's strongest wildlife law. This g
 image: "/assets/images/blog/blog-103.webp"
 reading_time: "73"
 author: "daniel-morgan"
-last_updated: "2012-03-01"
+last_updated: 2026-10-01
 lang: en
 ---
 The question Congress confronted in 1973 was deceptively simple to state and brutally hard to answer: when a species is sliding toward extinction, whose plans must give way? The Endangered Species Act answers that question with a command rather than a suggestion, placing the continued existence of listed animals and plants ahead of private development, ahead of federal construction projects, and in some respects ahead of the states themselves. That answer, and the enforcement machinery that made it stick, is what turned an obscure corner of wildlife policy into one of the most consequential federal statutes of the twentieth century.

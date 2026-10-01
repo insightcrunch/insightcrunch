@@ -9,7 +9,7 @@ excerpt: "The Clean Air Act cut air pollution while the economy grew: combined e
 image: "/assets/images/blog/blog-80.webp"
 reading_time: "81"
 author: "maria-santos"
-last_updated: "2011-11-15"
+last_updated: 2026-10-01
 lang: en
 ---
 When Congress passed the Clean Air Act in 1970, the United States committed itself to an experiment that no country had tried at comparable scale: setting binding, health based limits on the pollution that industry and automobiles could release into the shared atmosphere, and then measuring whether the air improved. Four decades of evidence now answer the question that motivated the law, and the answer runs against the intuition of nearly everyone who debated the bill in 1970. The nation drove far more miles, produced far more goods, burned more fuel to light and heat a larger country, and added tens of millions of residents, while the aggregate pollution released into American skies fell steeply. That decoupling of economic growth from emissions is the central fact of this article, and it shapes everything that follows. The record deserves scrutiny rather than celebration, because a law that imposes real compliance costs on real businesses owes the public an honest accounting, and the accounting begins with what the monitors recorded.

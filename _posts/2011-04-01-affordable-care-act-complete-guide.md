@@ -9,7 +9,7 @@ excerpt: "The Affordable Care Act is two statutes, not one. This guide maps its 
 image: "/assets/images/blog/blog-73.webp"
 reading_time: "80"
 author: "jessica-kim"
-last_updated: "2011-04-01"
+last_updated: 2026-10-01
 lang: en
 ---
 Ask what the Affordable Care Act is, and the answer that matters most is structural: the Affordable Care Act is not one statute but two. Public Law 111-148, the Patient Protection and Affordable Care Act, laid the architecture in March 2010, and Public Law 111-152, the Health Care and Education Reconciliation Act of 2010, amended it one week later [the companion passage-history article](/2011/04/15/affordable-care-act-passage-history/). That is the two-statute rule, and it is the namable claim on which this guide turns. Anyone who understands the Affordable Care Act can say, without hesitation, which of the two statutes did what, and can point to the right title of the statute for the insurance rules, the coverage subsidies, the Medicaid expansion, the financing taxes, and the delivery-system reforms.

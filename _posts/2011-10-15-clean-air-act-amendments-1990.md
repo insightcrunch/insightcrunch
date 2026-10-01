@@ -9,7 +9,7 @@ excerpt: "The 1990 Clean Air Act amendments rewrote US air law with graded ozone
 image: "/assets/images/blog/blog-96.webp"
 reading_time: "71"
 author: "natalie-webb"
-last_updated: "2011-10-15"
+last_updated: 2026-10-01
 lang: en
 ---
 The 1990 Clean Air Act amendments were the most ambitious environmental statute the federal government had ever enacted, and no one present at the signing doubted it. President George H. W. Bush affixed his signature on November 15, 1990, closing a legislative campaign that had consumed the first half of his presidency and broken a stalemate that had frozen federal air policy for most of the 1980s. The measure ran to hundreds of pages and reached into nearly every corner of American industrial life. It created a national market in sulfur dioxide allowances to attack acid rain. It rebuilt from the foundation the failed federal program for toxic air chemicals. It sorted the country's smoggiest metropolitan areas into ranked categories, each carrying its own escalating set of obligations. It imposed a comprehensive operating permit system on major sources of contamination and armed regulators with enforcement penalties that finally had teeth. Congress had not merely adjusted the machinery of the 1970 law. It had redesigned the machine while it was running.

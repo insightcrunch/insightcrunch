@@ -9,7 +9,7 @@ excerpt: "A Clean Water Act outcomes assessment: pollution cuts downstream of gr
 image: "/assets/images/blog/blog-103.webp"
 reading_time: "76"
 author: "christopher-wells"
-last_updated: "2012-05-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## What the Clean Water Act Promised

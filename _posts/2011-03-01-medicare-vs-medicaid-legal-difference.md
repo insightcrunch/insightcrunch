@@ -9,7 +9,7 @@ excerpt: "Medicare vs Medicaid: six legal axes decide which statute answers your
 image: "/assets/images/blog/blog-07.webp"
 reading_time: "69"
 author: "simon-hartley"
-last_updated: "2011-03-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Two Titles Everyone Confuses

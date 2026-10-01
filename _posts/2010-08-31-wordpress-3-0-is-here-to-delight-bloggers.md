@@ -4,11 +4,11 @@ title: "Wordpress 3.0 is here to delight bloggers"
 date: 2010-08-31
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "The world’s one of the most popular blogging software, Wordpress, has released it’s 13th version in its history. It’s Wordpress 3.0, codenamed Thelonious."
+excerpt: "WordPress 3.0 Thelonious released: custom post types, new default theme Twenty Ten, merged WordPress MU, and the biggest update in years."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 1
 author: "chloe-martin"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 The world’s one of the most popular blogging software, Wordpress, has released it’s 13th version in its history. It’s Wordpress 3.0, codenamed Thelonious. With the version 2.9 being downloaded more than 10 million times, surely Wordpress has been a favorite to too many users. The new version has a new default theme, a lot of bug fixes and is extremely light-weight.

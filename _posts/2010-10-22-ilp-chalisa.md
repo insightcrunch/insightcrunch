@@ -4,11 +4,11 @@ title: "ILP Chalisa"
 date: 2010-10-22
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest posy by MALAY MAJITHIA. The views expressed are entirely of the author."
+excerpt: "ILP Chalisa: a hilarious parody poem about TCS ILP life at Ahmedabad. The hostel chaos, training pressure, and fresher culture captured in verse."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 5
 author: "arjun-nair"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 This is a guest posy by MALAY MAJITHIA. The views expressed are entirely of the author.   

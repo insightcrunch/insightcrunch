@@ -9,7 +9,7 @@ excerpt: "NFIB v. Sebelius was undecided in the spring, with district courts spl
 image: "/assets/images/blog/blog-68.webp"
 reading_time: "70"
 author: "patrick-dunn"
-last_updated: "2011-05-15"
+last_updated: 2026-10-01
 lang: en
 ---
 On this article's date, May 15, 2011, the Supreme Court had not decided National Federation of Independent Business v. Sebelius. That is the first thing a reader must understand, because everything else in this article is shaped by it. The 2012 Supreme Court decision in that case falls outside the scope of this article: it is not described here, its holdings are not discussed, the votes of the justices are not reported, and no justice's reasoning is examined. The case simply had not been decided. What this article covers instead is the live constitutional challenge as it stood in the spring of 2011, while the litigation was still working its way through the lower courts. The posture was a crowded one: multiple lawsuits filed across the country challenging the [Patient Protection and Affordable Care Act of 2010](/2011/04/01/affordable-care-act-complete-guide/), a split among the federal district courts that had ruled on the merits, and appeals pending in the federal courts of appeals with no appellate ruling yet issued.

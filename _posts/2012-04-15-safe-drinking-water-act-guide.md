@@ -9,7 +9,7 @@ excerpt: "The Safe Drinking Water Act pairs a health goal with an enforceable li
 image: "/assets/images/blog/blog-35.webp"
 reading_time: "68"
 author: "hannah-moore"
-last_updated: "2012-04-15"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Safe Drinking Water Act and the myth of the compliant glass

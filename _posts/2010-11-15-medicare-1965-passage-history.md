@@ -9,7 +9,7 @@ excerpt: "How did Medicare finally pass Congress? The history of the committee b
 image: "/assets/images/blog/blog-05.webp"
 reading_time: "70"
 author: "william-knight"
-last_updated: "2010-11-15"
+last_updated: 2026-10-01
 lang: en
 ---
 ## How Medicare Passed in a Single Session

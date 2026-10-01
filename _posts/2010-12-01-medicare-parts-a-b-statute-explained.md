@@ -9,7 +9,7 @@ excerpt: "Medicare Parts A and B are two statutory programs: hospital insurance 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: "69"
 author: "marcus-hall"
-last_updated: "2010-12-01"
+last_updated: 2026-10-01
 lang: en
 ---
 Medicare Parts A and B are the two original components of the federal health insurance program for the aged and disabled, and this article is a reference to their operative text rather than a summary of their marketing. Brochures, fact sheets, and plan-comparison tools all flatten the program into slogans about hospital coverage and doctor coverage, and those slogans fail at exactly the moments when precision matters: when a hospital stay is coded as observation rather than inpatient, when a skilled nursing facility demands payment after a discharge, when a home health episode is denied as not medically reasonable. In each of those disputes the deciding document is not the brochure. It is Title XVIII of the Social Security Act, codified at 42 U.S.C. 1395 and the sections that follow, and the specific subsections that grant, limit, and condition each benefit.

@@ -9,7 +9,7 @@ excerpt: "Superfund liability is strict, retroactive, and joint and several. The
 image: "/assets/images/blog/blog-95.webp"
 reading_time: "72"
 author: "david-thornton"
-last_updated: "2012-06-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Question Superfund Answers

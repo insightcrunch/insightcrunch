@@ -3,7 +3,7 @@ layout: "post"
 title: "How the Affordable Care Act Passed Without One Minority Vote"
 page_title: "Affordable Care Act Vote Analysis: Every Roll Call That Enacted the Law"
 date: "2011-08-01"
-last_updated: "2011-08-01"
+last_updated: 2026-10-01
 categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Congressional Roll Calls", "Health Care Law", "Senate Votes", "House Votes"]
 excerpt: "The Affordable Care Act passed with zero minority-party votes in either chamber and survived repeal by one vote. Every roll call in both sequences, broken down."

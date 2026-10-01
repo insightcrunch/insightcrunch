@@ -4,11 +4,11 @@ title: "Google shows custom Birthday logo doodle on Your Birthdays"
 date: 2010-11-05
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "This is a rarely known feature of Google but Google will show you a custom doodle wishing you happy birthday on your very special day."
+excerpt: "Google shows a custom birthday doodle on your special day. A hidden personalization feature most people never notice in Google search."
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 1
 author: "kevin-reeves"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 This is a rarely known feature of Google but Google will show you a custom doodle wishing you happy birthday on your very special day.

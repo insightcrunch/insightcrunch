@@ -9,7 +9,7 @@ excerpt: "Social Security drove the decline in elderly poverty, but the famous h
 image: "/assets/images/blog/blog-99.webp"
 reading_time: "68"
 author: "marcus-hall"
-last_updated: "2012-09-15"
+last_updated: 2026-10-01
 lang: en
 ---
 Assessing any statute means holding it against its own aims, and few American laws state their aim as plainly as the one that reshaped old-age poverty. The Social Security Act of 1935, Public Law 74-271, signed on August 14, 1935, declared its purpose in its long title as an act to provide for the general welfare by establishing a system of Federal old-age benefits. Title II of that act, codified principally at 42 U.S.C. sections 401 and following, built the contributory insurance program whose monthly payments still reach the overwhelming majority of older Americans. This article measures what those payments did to poverty among Americans over sixty-five, using the statute's own promise of old-age economic security as the standard of assessment, and it keeps two kinds of evidence strictly separate throughout: the arithmetic that describes the program's reach, and the research that identifies its causal effect.

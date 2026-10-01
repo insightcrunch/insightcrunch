@@ -9,7 +9,7 @@ excerpt: "The Pension Protection Act rewrote retirement via defaults, not comman
 image: "/assets/images/blog/blog-84.webp"
 reading_time: "68"
 author: "daniel-morgan"
-last_updated: "2012-09-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## An Amendment with Two Halves Pointing in Opposite Directions

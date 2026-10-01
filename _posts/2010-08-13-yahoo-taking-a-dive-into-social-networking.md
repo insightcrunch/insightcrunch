@@ -4,11 +4,11 @@ title: "Yahoo! taking a dive into social networking"
 date: 2010-08-13
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Yahoo had been having this social feature for quite some time now, where the user would have to share his status updates. Then it would be visible to his..."
+excerpt: "Yahoo adds social networking features: status updates, friend connections, and content sharing. Can Yahoo compete with Facebook and Twitter?"
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 1
 author: "amanda-ross"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 Yahoo had been having this social feature for quite some time now, where the user would have to share his status updates. Then it would be visible to his friends if he had a mutual both way following and friend approval. But now with the concepts of Facebook and Twitter gaining steady grounds, Yahoo is determined not to fall behind in the race.

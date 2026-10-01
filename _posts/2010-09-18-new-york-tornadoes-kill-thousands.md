@@ -4,11 +4,11 @@ title: "New York Tornadoes kill thousands"
 date: 2010-09-18
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "As National Weather Service officials declared Friday that two tornadoes had indeed swept into New York City on Thursday, some tree-lined streets in..."
+excerpt: "Tornadoes hit New York City: Brooklyn and Queens streets devastated by rare tornado touchdowns. Damage assessment and aftermath across the boroughs."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 1
 author: "chloe-martin"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 As National Weather Service officials declared Friday that two tornadoes had indeed swept into New York City on Thursday, some tree-lined streets in Brooklyn and Queens looked - at least from the air - like Lego masterpieces that angry children had done their best to sweep aside.

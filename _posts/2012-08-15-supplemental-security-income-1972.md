@@ -9,7 +9,7 @@ excerpt: "Supplemental Security Income is a cash floor for the aged, blind, and 
 image: "/assets/images/blog/blog-50.webp"
 reading_time: "73"
 author: "christopher-wells"
-last_updated: "2012-08-15"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Surviving Fragment: How a Failed Guaranteed Income Produced Supplemental Security Income

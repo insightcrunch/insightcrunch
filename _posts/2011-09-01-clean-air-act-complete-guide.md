@@ -9,7 +9,7 @@ excerpt: "The Clean Air Act sets health targets first and weighs cost second. Th
 image: "/assets/images/blog/blog-102.webp"
 reading_time: "78"
 author: "samantha-lee"
-last_updated: "2011-09-01"
+last_updated: 2026-10-01
 lang: en
 ---
 Most Americans picture the Clean Air Act as a law that walks up to a factory and hands its owner a limit on what the smokestack may release. That picture fails the One Test that governs this article, and the test is simple: a reader who finishes this guide should be able to state, in one sentence, the design choice that makes this statute unlike every other regulatory law in this series, and should be able to take any question about air regulation and place it in the right section of the law. For six widespread pollutants, the Clean Air Act does almost the reverse of the pictured scene. It does not begin with the factory at all. It begins with the atmosphere people breathe, asks what condition of that atmosphere human health requires, writes that condition down as a legal target, and then orders the technology, the state governments, and the permits to catch up.

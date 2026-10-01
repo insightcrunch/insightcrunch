@@ -5,11 +5,11 @@ page_title: "Steve Jobs: People voting against Adobe Flash by buying an iPad eve
 date: 2010-08-06
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "It had been a craze for quite a long time, and still so a lot now. But Adobe Flash seems to be on the verge of decline of its usage and popularity with..."
+excerpt: "Steve Jobs declares war on Flash: people buy an iPad every 3 seconds, voting against Adobe with their wallets. The HTML5 vs Flash battle heats up."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 1
 author: "amanda-ross"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 It had been a craze for quite a long time, and still so a lot now. But Adobe Flash seems to be on the verge of decline of its usage and popularity with people giving thumbs up to the iPad, which doesn’t support Flash. Steve Jobs expressed his view on this subject.

@@ -9,7 +9,7 @@ excerpt: "The Medicare Catastrophic Coverage Act expanded Medicare, then was rep
 image: "/assets/images/blog/blog-113.webp"
 reading_time: "71"
 author: "natalie-webb"
-last_updated: "2010-12-15"
+last_updated: 2026-10-01
 lang: en
 ---
 Congress has expanded entitlements many times. It has trimmed them, slowed their growth, and shifted their costs from one group to another. But only once in modern American history has Congress enacted a major new entitlement and then, within eighteen months, repealed it outright. The Medicare Catastrophic Coverage Act of 1988 passed the House 328 to 72 and the Senate 86 to 11, with the support of a Republican president and the most powerful seniors' organizations in the country. Seventeen months after enactment, Congress voted to strike the whole law from the statute books. The prescription drug benefit it contained, the first outpatient drug coverage in Medicare's history, died with it.

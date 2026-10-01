@@ -9,7 +9,7 @@ excerpt: "ERISA began as pension reform and became the law of employer health co
 image: "/assets/images/blog/blog-45.webp"
 reading_time: "72"
 author: "william-knight"
-last_updated: "2012-07-15"
+last_updated: 2026-10-01
 lang: en
 ---
 ## How ERISA Became America's Health Coverage Law

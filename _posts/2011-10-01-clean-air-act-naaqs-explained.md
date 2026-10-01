@@ -9,7 +9,7 @@ excerpt: "National Ambient Air Quality Standards cap six pollutants nationwide. 
 image: "/assets/images/blog/blog-64.webp"
 reading_time: "75"
 author: "maria-santos"
-last_updated: "2011-10-01"
+last_updated: 2026-10-01
 lang: en
 ---
 Every breath drawn outdoors in the United States passes through air that no one owns and everyone shares. The national ambient air quality standards are the federal answer to the question of how clean that shared air must be. They do not tell any particular factory, power plant or motor vehicle how much it may emit. That second job belongs to a different legal instrument, the emission limit, which caps what leaves a single source. The distinction between the two is the hinge of the machine Congress built in the Clean Air Act amendments of 1970, and readers who blur it misunderstand every later step, from the listing of pollutants to the lawsuits over cost. The [clean air act complete guide](/2011/09/01/clean-air-act-complete-guide/) maps all six machines of the statute; this article explains the first, the ambient standards machine.

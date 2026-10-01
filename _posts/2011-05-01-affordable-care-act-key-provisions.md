@@ -9,7 +9,7 @@ excerpt: "The Affordable Care Act binds insurers, employers, individuals, and st
 image: "/assets/images/blog/blog-68.webp"
 reading_time: "70"
 author: "samantha-lee"
-last_updated: "2011-05-01"
+last_updated: 2026-10-01
 lang: en
 ---
 The statute under examination here does not read like a promise. It reads like an operating manual, and this article treats it as one. What follows is a reference to the operative text of the Patient Protection and Affordable Care Act, organized not by the order in which Congress printed its sections but by the party each section binds. Four classes of actors carry the weight of the law. Health insurance issuers must sell, price, and keep coverage on terms the text prescribes. Employers past a headcount threshold must offer coverage or face an assessable payment. Individuals must maintain qualifying coverage or pay the shared responsibility amount enacted alongside the law. States must administer a broadened Medicaid program and stand up the machinery of coverage marketplaces, or watch the federal government do it for them. This article walks through each set of duties in turn, beginning with the duties laid on issuers, because those are the provisions that reorder the private market most directly, and because every other duty in the statute assumes them. Later passes take up employers, individuals, and states in that order. A note on citation form: readers unfamiliar with the section-numbering conventions used here can consult [the series guide on how to read a federal statute](/2022/05/01/how-to-read-a-federal-statute/). The [companion complete guide to the act](/2011/04/01/affordable-care-act-complete-guide/) maps the five machines those duties serve.

@@ -9,7 +9,7 @@ excerpt: "Seven myths about the Endangered Species Act, tested against the statu
 image: "/assets/images/blog/blog-23.webp"
 reading_time: "74"
 author: "michael-brooks"
-last_updated: "2012-06-15"
+last_updated: 2026-10-01
 lang: en
 ---
 ## Twelve Claims, One Method

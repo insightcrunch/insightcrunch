@@ -4,11 +4,11 @@ title: "The Great Businessman"
 date: 2010-12-27
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "A creative fiction piece born from ILP boredom. When a hostel room, an internet connection, and an idle mind produce an unexpected short story."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 5
 author: "diana-patel"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.

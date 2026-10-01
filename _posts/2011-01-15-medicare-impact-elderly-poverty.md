@@ -9,7 +9,7 @@ excerpt: "Medicare elderly poverty is often miscast: the law insured the old aga
 image: "/assets/images/blog/blog-15.webp"
 reading_time: "71"
 author: "ian-fletcher"
-last_updated: "2011-01-15"
+last_updated: 2026-10-01
 lang: en
 ---
 What did Medicare measurably do to Medicare elderly poverty? The question sounds simple, yet the statute's own record answers it more narrowly and more decisively than either its champions or its critics usually admit. Medicare's demonstrated achievement was the elimination of catastrophic financial risk for the old, not a large first decade gain in survival. The strongest empirical work on the program's early years found no discernible effect on elderly mortality in its first ten years, while documenting a sharp reduction in out of pocket medical spending risk. To judge the statute against mortality is to grade it on an outcome its drafters never promised; to judge it against financial protection is to find the achievement precisely where the legislative record said it would be. This article evaluates the law against its own aims, and separately against aims later observers projected onto it.

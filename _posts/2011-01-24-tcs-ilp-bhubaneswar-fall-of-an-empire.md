@@ -5,11 +5,11 @@ page_title: "What Happens if You Fail TCS ILP - Consequences, Bhubaneswar Re-Ass
 date: 2011-01-24
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Failure", "Re-Assessment"]
-excerpt: "The final stretch at TCS ILP Bhubaneswar: project phase pressure, PRA preparation, friendships tested, and the bittersweet countdown to completion."
+excerpt: "Endgame at TCS ILP Bhubaneswar. The project phase, PRA stress, batch dynamics shifting, and the emotional weight of training coming to a close."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "devendra-patil"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 The score appeared on the screen. 12.08%. Everything went black.

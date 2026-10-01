@@ -9,7 +9,7 @@ excerpt: "The Medicaid statute turns federal money into state-run health coverag
 image: "/assets/images/blog/blog-101.webp"
 reading_time: "69"
 author: "michael-brooks"
-last_updated: "2011-02-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## Why the Medicaid Statute Is a Bargain, Not a Benefit Card

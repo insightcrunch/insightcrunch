@@ -9,7 +9,7 @@ excerpt: "How the environmental laws of modern America were written in one eleve
 image: "/assets/images/blog/blog-110.webp"
 reading_time: "78"
 author: "jessica-kim"
-last_updated: "2012-01-01"
+last_updated: 2026-10-01
 lang: en
 ---
 Consider the vote counts first, because they are the strangest thing in this story. The environmental laws of the 1970s were not squeaked through on party-line votes or carried by a momentary majority. The National Environmental Policy Act passed the Senate unanimously and the House 372 to 15. The Clean Air Amendments of 1970 cleared the House 374 to 1 on the conference report, and the Senate agreed without a recorded roll call. The Federal Water Pollution Control Act Amendments of 1972 were enacted over a presidential veto, and both chambers mustered more than the two thirds the Constitution requires to do it. The Endangered Species Act of 1973 passed the Senate 92 to 0 and cleared the House conference report 355 to 4. Margins like these are not the product of bargaining or horse trading in the ordinary sense. They are what a legislature looks like when it has decided, almost as one body, that something must be done.

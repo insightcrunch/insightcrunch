@@ -4,11 +4,11 @@ title: "Initial Learning Program at Trivandrum"
 date: 2010-10-25
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is an article on TCS ILP Trivandrum by Neha Saxena."
+excerpt: "TCS ILP Trivandrum personal account: choosing TCS over Infosys, the excitement of joining, Kerala life, and the initial training experience."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 5
 author: "sneha-reddy"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 This is an article on TCS ILP Trivandrum by Neha Saxena.

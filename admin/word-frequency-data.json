@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-29T12:27:44Z",
+  "generated": "2026-10-01T12:47:10Z",
   "threshold": 50,
-  "totalPosts": 4172,
-  "flaggedPosts": 2656,
+  "totalPosts": 4221,
+  "flaggedPosts": 2671,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 164.4,
+  "avgTopCount": 164.6,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -70903,6 +70903,24 @@
       ]
     },
     {
+      "filename": "2010-11-15-medicare-1965-passage-history.md",
+      "slug": "medicare-1965-passage-history",
+      "title": "How Medicare Passed Congress: The 1965 Three-Layer Cake Deal",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9358,
+      "topWord": "bill",
+      "topCount": 170,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-11-15-medicare-1965-passage-history.md"
+    },
+    {
       "filename": "2010-11-16-love-to-forward-mails-to-a-lot-of-friends-make-gmail-contact-groups.md",
       "slug": "love-to-forward-mails-to-a-lot-of-friends-make-gmail-contact-groups",
       "title": "Love to forward mails to a lot of friends? Make Gmail Contact Groups",
@@ -71243,6 +71261,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-01-how-fatimids-founded-cairo.md"
+    },
+    {
+      "filename": "2010-12-01-medicare-parts-a-b-statute-explained.md",
+      "slug": "medicare-parts-a-b-statute-explained",
+      "title": "Medicare Parts A and B: What the Statute Actually Covers",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9387,
+      "topWord": "statute",
+      "topCount": 152,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-01-medicare-parts-a-b-statute-explained.md"
     },
     {
       "filename": "2010-12-03-banquo-character-analysis.md",
@@ -71743,6 +71779,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2010-12-15-medicare-catastrophic-coverage-act-1988.md",
+      "slug": "medicare-catastrophic-coverage-act-1988",
+      "title": "Medicare Catastrophic Coverage Act: Enacted and Repealed",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9100,
+      "topWord": "medicare",
+      "topCount": 163,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-15-medicare-catastrophic-coverage-act-1988.md"
     },
     {
       "filename": "2010-12-17-lock-folders-and-hide-your-secret-files.md",
@@ -72257,6 +72311,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-01-fatimid-caliphs-who-ruled-egypt.md"
+    },
+    {
+      "filename": "2011-01-01-medicare-modernization-act-2003-part-d.md",
+      "slug": "medicare-modernization-act-2003-part-d",
+      "title": "Medicare Part D and the 2003 Modernization Act Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9710,
+      "topWord": "drug",
+      "topCount": 154,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-01-medicare-modernization-act-2003-part-d.md"
     },
     {
       "filename": "2011-01-03-othello-character-analysis-deep-dive.md",
@@ -72945,6 +73017,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-15-desdemona-othello-character-analysis.md"
+    },
+    {
+      "filename": "2011-01-15-medicare-impact-elderly-poverty.md",
+      "slug": "medicare-impact-elderly-poverty",
+      "title": "Medicare Elderly Poverty: What the Evidence Measures",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9811,
+      "topWord": "medicare",
+      "topCount": 250,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-15-medicare-impact-elderly-poverty.md",
+      "flaggedWords": [
+        {
+          "word": "medicare",
+          "count": 250
+        }
+      ],
+      "top20": [
+        {
+          "word": "medicare",
+          "count": 250
+        },
+        {
+          "word": "poverty",
+          "count": 134
+        },
+        {
+          "word": "percent",
+          "count": 129
+        },
+        {
+          "word": "program",
+          "count": 125
+        },
+        {
+          "word": "insurance",
+          "count": 125
+        },
+        {
+          "word": "hospital",
+          "count": 115
+        },
+        {
+          "word": "elderly",
+          "count": 111
+        },
+        {
+          "word": "spending",
+          "count": 88
+        },
+        {
+          "word": "health",
+          "count": 84
+        },
+        {
+          "word": "mortality",
+          "count": 78
+        },
+        {
+          "word": "security",
+          "count": 65
+        },
+        {
+          "word": "social",
+          "count": 63
+        },
+        {
+          "word": "care",
+          "count": 61
+        },
+        {
+          "word": "hospitals",
+          "count": 60
+        },
+        {
+          "word": "medical",
+          "count": 59
+        },
+        {
+          "word": "cost",
+          "count": 54
+        },
+        {
+          "word": "finkelstein",
+          "count": 52
+        },
+        {
+          "word": "patients",
+          "count": 51
+        },
+        {
+          "word": "age",
+          "count": 44
+        },
+        {
+          "word": "decline",
+          "count": 44
+        }
+      ]
     },
     {
       "filename": "2011-01-16-tcs-ilp-bhubaneswar-survival-of-the-weakest.md",
@@ -73645,6 +73823,112 @@
       ]
     },
     {
+      "filename": "2011-02-01-medicaid-statute-structure-explained.md",
+      "slug": "medicaid-statute-structure-explained",
+      "title": "The Medicaid Statute Explained: How Title XIX Actually Works",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9383,
+      "topWord": "federal",
+      "topCount": 241,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-01-medicaid-statute-structure-explained.md",
+      "flaggedWords": [
+        {
+          "word": "federal",
+          "count": 241
+        }
+      ],
+      "top20": [
+        {
+          "word": "federal",
+          "count": 241
+        },
+        {
+          "word": "program",
+          "count": 149
+        },
+        {
+          "word": "statute",
+          "count": 148
+        },
+        {
+          "word": "plan",
+          "count": 112
+        },
+        {
+          "word": "services",
+          "count": 112
+        },
+        {
+          "word": "jurisdiction",
+          "count": 105
+        },
+        {
+          "word": "states",
+          "count": 91
+        },
+        {
+          "word": "mandatory",
+          "count": 78
+        },
+        {
+          "word": "section",
+          "count": 74
+        },
+        {
+          "word": "medicaid",
+          "count": 73
+        },
+        {
+          "word": "requirements",
+          "count": 70
+        },
+        {
+          "word": "provision",
+          "count": 67
+        },
+        {
+          "word": "benefit",
+          "count": 63
+        },
+        {
+          "word": "care",
+          "count": 60
+        },
+        {
+          "word": "waiver",
+          "count": 56
+        },
+        {
+          "word": "income",
+          "count": 55
+        },
+        {
+          "word": "optional",
+          "count": 55
+        },
+        {
+          "word": "beneficiaries",
+          "count": 46
+        },
+        {
+          "word": "choice",
+          "count": 45
+        },
+        {
+          "word": "share",
+          "count": 44
+        }
+      ]
+    },
+    {
       "filename": "2011-02-01-tcl-ilp-gandhinagar-experience-the-journey-begins.md",
       "slug": "tcl-ilp-gandhinagar-experience-the-journey-begins",
       "title": "TCL ILP Gandhinagar Experience – The Journey Begins",
@@ -74073,6 +74357,24 @@
       ]
     },
     {
+      "filename": "2011-02-15-cms-medicare-rulemaking-guide.md",
+      "slug": "cms-medicare-rulemaking-guide",
+      "title": "CMS Medicare Rulemaking: From Statute to Payment Rule",
+      "categories": [
+        "US Legislation"
+      ],
+      "lang": "en",
+      "wordCount": 11236,
+      "topWord": "agency",
+      "topCount": 215,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-15-cms-medicare-rulemaking-guide.md"
+    },
+    {
       "filename": "2011-02-17-king-lear-character-analysis-deep-dive.md",
       "slug": "king-lear-character-analysis-deep-dive",
       "title": "King Lear Character Analysis - Shakespeare's Foolish Monarch",
@@ -74435,6 +74737,112 @@
       ]
     },
     {
+      "filename": "2011-03-01-medicare-vs-medicaid-legal-difference.md",
+      "slug": "medicare-vs-medicaid-legal-difference",
+      "title": "Medicare vs Medicaid: The Legal Difference Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9874,
+      "topWord": "medicare",
+      "topCount": 247,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-01-medicare-vs-medicaid-legal-difference.md",
+      "flaggedWords": [
+        {
+          "word": "medicare",
+          "count": 247
+        }
+      ],
+      "top20": [
+        {
+          "word": "medicare",
+          "count": 247
+        },
+        {
+          "word": "federal",
+          "count": 196
+        },
+        {
+          "word": "medicaid",
+          "count": 190
+        },
+        {
+          "word": "title",
+          "count": 107
+        },
+        {
+          "word": "program",
+          "count": 83
+        },
+        {
+          "word": "coverage",
+          "count": 81
+        },
+        {
+          "word": "care",
+          "count": 78
+        },
+        {
+          "word": "statute",
+          "count": 72
+        },
+        {
+          "word": "income",
+          "count": 71
+        },
+        {
+          "word": "eligibility",
+          "count": 64
+        },
+        {
+          "word": "states",
+          "count": 60
+        },
+        {
+          "word": "hospital",
+          "count": 57
+        },
+        {
+          "word": "plan",
+          "count": 56
+        },
+        {
+          "word": "insurance",
+          "count": 55
+        },
+        {
+          "word": "question",
+          "count": 54
+        },
+        {
+          "word": "programs",
+          "count": 53
+        },
+        {
+          "word": "payment",
+          "count": 52
+        },
+        {
+          "word": "rules",
+          "count": 50
+        },
+        {
+          "word": "services",
+          "count": 49
+        },
+        {
+          "word": "beneficiary",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2011-03-01-shia-islam-and-fatimid-caliphate.md",
       "slug": "shia-islam-and-fatimid-caliphate",
       "title": "Shia Islam and the Fatimid Caliphate That Ruled Sunnis",
@@ -74779,6 +75187,24 @@
       ]
     },
     {
+      "filename": "2011-03-15-us-health-legislation-since-1950.md",
+      "slug": "us-health-legislation-since-1950",
+      "title": "US Health Legislation Since 1950: Six Decades of Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10201,
+      "topWord": "coverage",
+      "topCount": 173,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-15-us-health-legislation-since-1950.md"
+    },
+    {
       "filename": "2011-03-16-goneril-king-lear-character-analysis.md",
       "slug": "goneril-king-lear-character-analysis",
       "title": "Goneril Character Analysis in Shakespeare's King Lear",
@@ -75027,6 +75453,24 @@
       ]
     },
     {
+      "filename": "2011-04-01-affordable-care-act-complete-guide.md",
+      "slug": "affordable-care-act-complete-guide",
+      "title": "The Affordable Care Act: The Complete Statute Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11265,
+      "topWord": "health",
+      "topCount": 200,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-04-01-affordable-care-act-complete-guide.md"
+    },
+    {
       "filename": "2011-04-01-citizen-kane-inquirer-party-scene.md",
       "slug": "citizen-kane-inquirer-party-scene",
       "title": "Citizen Kane: The Inquirer Party Scene Explained",
@@ -75261,6 +75705,116 @@
         {
           "word": "concealment",
           "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2011-04-15-affordable-care-act-passage-history.md",
+      "slug": "affordable-care-act-passage-history",
+      "title": "How the Affordable Care Act Passed: The Two-Bill Maneuver",
+      "categories": [
+        "US Legislation"
+      ],
+      "lang": "en",
+      "wordCount": 9736,
+      "topWord": "senate",
+      "topCount": 300,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-04-15-affordable-care-act-passage-history.md",
+      "flaggedWords": [
+        {
+          "word": "senate",
+          "count": 300
+        },
+        {
+          "word": "bill",
+          "count": 290
+        }
+      ],
+      "top20": [
+        {
+          "word": "senate",
+          "count": 300
+        },
+        {
+          "word": "bill",
+          "count": 290
+        },
+        {
+          "word": "vote",
+          "count": 156
+        },
+        {
+          "word": "reconciliation",
+          "count": 97
+        },
+        {
+          "word": "committee",
+          "count": 91
+        },
+        {
+          "word": "health",
+          "count": 88
+        },
+        {
+          "word": "text",
+          "count": 79
+        },
+        {
+          "word": "votes",
+          "count": 76
+        },
+        {
+          "word": "care",
+          "count": 73
+        },
+        {
+          "word": "passed",
+          "count": 69
+        },
+        {
+          "word": "amendment",
+          "count": 68
+        },
+        {
+          "word": "abortion",
+          "count": 68
+        },
+        {
+          "word": "law",
+          "count": 63
+        },
+        {
+          "word": "provisions",
+          "count": 62
+        },
+        {
+          "word": "conference",
+          "count": 61
+        },
+        {
+          "word": "majority",
+          "count": 57
+        },
+        {
+          "word": "rule",
+          "count": 57
+        },
+        {
+          "word": "act",
+          "count": 55
+        },
+        {
+          "word": "rules",
+          "count": 55
+        },
+        {
+          "word": "leadership",
+          "count": 54
         }
       ]
     },
@@ -75507,6 +76061,24 @@
       ]
     },
     {
+      "filename": "2011-05-01-affordable-care-act-key-provisions.md",
+      "slug": "affordable-care-act-key-provisions",
+      "title": "The Affordable Care Act's Key Provisions: Duties by Party",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10246,
+      "topWord": "coverage",
+      "topCount": 168,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-05-01-affordable-care-act-key-provisions.md"
+    },
+    {
       "filename": "2011-05-01-citizen-kane-meets-susan-alexander.md",
       "slug": "citizen-kane-meets-susan-alexander",
       "title": "Citizen Kane: Kane Meets Susan Alexander",
@@ -75741,6 +76313,24 @@
       ]
     },
     {
+      "filename": "2011-05-15-nfib-v-sebelius-explained.md",
+      "slug": "nfib-v-sebelius-explained",
+      "title": "NFIB v. Sebelius: The Pending Challenge to the ACA",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9513,
+      "topWord": "court",
+      "topCount": 142,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-05-15-nfib-v-sebelius-explained.md"
+    },
+    {
       "filename": "2011-05-25-amazon-job-application.md",
       "slug": "amazon-job-application",
       "title": "Amazon Job Application",
@@ -75857,6 +76447,24 @@
           "count": 7
         }
       ]
+    },
+    {
+      "filename": "2011-06-01-aca-supreme-court-challenges.md",
+      "slug": "aca-supreme-court-challenges",
+      "title": "Affordable Care Act Supreme Court Challenges Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10085,
+      "topWord": "court",
+      "topCount": 153,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-06-01-aca-supreme-court-challenges.md"
     },
     {
       "filename": "2011-06-01-al-hakim-controversial-caliph.md",
@@ -75985,6 +76593,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2011-06-15-affordable-care-act-coverage-impact.md",
+      "slug": "affordable-care-act-coverage-impact",
+      "title": "What the Affordable Care Act Did to Health Coverage",
+      "categories": [
+        "\\\"Industry\\"
+      ],
+      "lang": "en",
+      "wordCount": 9971,
+      "topWord": "coverage",
+      "topCount": 159,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-06-15-affordable-care-act-coverage-impact.md"
     },
     {
       "filename": "2011-06-15-citizen-kane-losing-the-election.md",
@@ -76243,6 +76869,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-06-28-tcs-2011-batch-joining-dates.md"
     },
     {
+      "filename": "2011-07-01-affordable-care-act-later-changes.md",
+      "slug": "affordable-care-act-later-changes",
+      "title": "How Congress Rewrote the Affordable Care Act After Passage",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10246,
+      "topWord": "law",
+      "topCount": 145,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-07-01-affordable-care-act-later-changes.md"
+    },
+    {
       "filename": "2011-07-01-citizen-kane-leland-kane-fallout.md",
       "slug": "citizen-kane-leland-kane-fallout",
       "title": "Citizen Kane: Leland and Kane Fall Out",
@@ -76369,6 +77013,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-07-01-fatimid-art-and-architecture.md"
+    },
+    {
+      "filename": "2011-07-15-aca-exchange-implementation-guide.md",
+      "slug": "aca-exchange-implementation-guide",
+      "title": "Health Insurance Exchanges: Building the ACA Marketplaces",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9565,
+      "topWord": "federal",
+      "topCount": 133,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-07-15-aca-exchange-implementation-guide.md"
     },
     {
       "filename": "2011-07-15-citizen-kane-susan-opera-debut.md",
@@ -76605,6 +77267,124 @@
         {
           "word": "software",
           "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2011-08-01-affordable-care-act-vote-analysis.md",
+      "slug": "affordable-care-act-vote-analysis",
+      "title": "How the Affordable Care Act Passed Without One Minority Vote",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9188,
+      "topWord": "senate",
+      "topCount": 244,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-08-01-affordable-care-act-vote-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "senate",
+          "count": 244
+        },
+        {
+          "word": "votes",
+          "count": 205
+        },
+        {
+          "word": "vote",
+          "count": 199
+        },
+        {
+          "word": "bill",
+          "count": 193
+        }
+      ],
+      "top20": [
+        {
+          "word": "senate",
+          "count": 244
+        },
+        {
+          "word": "votes",
+          "count": 205
+        },
+        {
+          "word": "vote",
+          "count": 199
+        },
+        {
+          "word": "bill",
+          "count": 193
+        },
+        {
+          "word": "repeal",
+          "count": 114
+        },
+        {
+          "word": "yes",
+          "count": 106
+        },
+        {
+          "word": "voted",
+          "count": 104
+        },
+        {
+          "word": "republican",
+          "count": 101
+        },
+        {
+          "word": "party",
+          "count": 92
+        },
+        {
+          "word": "reconciliation",
+          "count": 83
+        },
+        {
+          "word": "care",
+          "count": 81
+        },
+        {
+          "word": "roll",
+          "count": 79
+        },
+        {
+          "word": "act",
+          "count": 78
+        },
+        {
+          "word": "passed",
+          "count": 78
+        },
+        {
+          "word": "text",
+          "count": 78
+        },
+        {
+          "word": "voting",
+          "count": 67
+        },
+        {
+          "word": "amendment",
+          "count": 67
+        },
+        {
+          "word": "minority",
+          "count": 63
+        },
+        {
+          "word": "democrats",
+          "count": 62
+        },
+        {
+          "word": "republicans",
+          "count": 62
         }
       ]
     },
@@ -77281,6 +78061,24 @@
       ]
     },
     {
+      "filename": "2011-09-01-clean-air-act-complete-guide.md",
+      "slug": "clean-air-act-complete-guide",
+      "title": "The Clean Air Act: The Complete Guide to the Statute",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11308,
+      "topWord": "standards",
+      "topCount": 155,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-09-01-clean-air-act-complete-guide.md"
+    },
+    {
       "filename": "2011-09-06-tcs-vs-accenture-comparison-at-granular-level.md",
       "slug": "tcs-vs-accenture-comparison-at-granular-level",
       "title": "TCS vs Accenture - Detailed Comparison",
@@ -77537,6 +78335,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-09-13-accenture-vs-mckinsey-company-inside-view.md"
     },
     {
+      "filename": "2011-09-15-clean-air-act-1970-passage-history.md",
+      "slug": "clean-air-act-1970-passage-history",
+      "title": "How the Clean Air Act of 1970 Passed Through Congress",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9522,
+      "topWord": "air",
+      "topCount": 129,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-09-15-clean-air-act-1970-passage-history.md"
+    },
+    {
       "filename": "2011-09-15-mckinsey-vs-boston-consulting-group-analysis.md",
       "slug": "mckinsey-vs-boston-consulting-group-analysis",
       "title": "McKinsey vs Boston Consulting Group – Analysis",
@@ -77553,6 +78369,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-09-15-mckinsey-vs-boston-consulting-group-analysis.md"
+    },
+    {
+      "filename": "2011-10-01-clean-air-act-naaqs-explained.md",
+      "slug": "clean-air-act-naaqs-explained",
+      "title": "National Ambient Air Quality Standards and the Clean Air Act",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10844,
+      "topWord": "air",
+      "topCount": 155,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-10-01-clean-air-act-naaqs-explained.md"
     },
     {
       "filename": "2011-10-01-saladin-sultan-of-egypt.md",
@@ -77627,6 +78461,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-10-14-bing-bleeding-millions-as-google-remains-at-top.md"
     },
     {
+      "filename": "2011-10-15-clean-air-act-amendments-1990.md",
+      "slug": "clean-air-act-amendments-1990",
+      "title": "The 1990 Clean Air Act Amendments: What Changed and Why",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10636,
+      "topWord": "program",
+      "topCount": 121,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-10-15-clean-air-act-amendments-1990.md"
+    },
+    {
       "filename": "2011-10-16-amazing-android-app-1-gesture-search.md",
       "slug": "amazing-android-app-1-gesture-search",
       "title": "Amazing Android App with Gesture Search",
@@ -77663,6 +78515,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-10-21-facebook-smileys-you-wished-to-have-forever.md"
     },
     {
+      "filename": "2011-11-01-massachusetts-v-epa-explained.md",
+      "slug": "massachusetts-v-epa-explained",
+      "title": "Massachusetts v. EPA and the Clean Air Act Doctrine",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10358,
+      "topWord": "agency",
+      "topCount": 265,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-11-01-massachusetts-v-epa-explained.md",
+      "flaggedWords": [
+        {
+          "word": "agency",
+          "count": 265
+        }
+      ],
+      "top20": [
+        {
+          "word": "agency",
+          "count": 265
+        },
+        {
+          "word": "court",
+          "count": 139
+        },
+        {
+          "word": "air",
+          "count": 128
+        },
+        {
+          "word": "statute",
+          "count": 112
+        },
+        {
+          "word": "congress",
+          "count": 99
+        },
+        {
+          "word": "act",
+          "count": 87
+        },
+        {
+          "word": "standards",
+          "count": 82
+        },
+        {
+          "word": "majority",
+          "count": 82
+        },
+        {
+          "word": "section",
+          "count": 78
+        },
+        {
+          "word": "power",
+          "count": 61
+        },
+        {
+          "word": "cost",
+          "count": 60
+        },
+        {
+          "word": "clean",
+          "count": 59
+        },
+        {
+          "word": "epa",
+          "count": 57
+        },
+        {
+          "word": "greenhouse",
+          "count": 57
+        },
+        {
+          "word": "decision",
+          "count": 53
+        },
+        {
+          "word": "courts",
+          "count": 53
+        },
+        {
+          "word": "statutory",
+          "count": 51
+        },
+        {
+          "word": "justice",
+          "count": 51
+        },
+        {
+          "word": "law",
+          "count": 50
+        },
+        {
+          "word": "plan",
+          "count": 50
+        }
+      ]
+    },
+    {
       "filename": "2011-11-01-saladin-and-the-crusades.md",
       "slug": "saladin-and-the-crusades",
       "title": "Saladin and the Crusades: Victory, Jerusalem and Restraint",
@@ -77679,6 +78637,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-11-01-saladin-and-the-crusades.md"
+    },
+    {
+      "filename": "2011-11-15-clean-air-act-air-quality-impact.md",
+      "slug": "clean-air-act-air-quality-impact",
+      "title": "Clean Air Act: What Four Decades of Evidence Showed",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11504,
+      "topWord": "air",
+      "topCount": 122,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-11-15-clean-air-act-air-quality-impact.md"
     },
     {
       "filename": "2011-11-17-what-do-you-need-to-get-hired-at-amazon.md",
@@ -77803,6 +78779,24 @@
       ]
     },
     {
+      "filename": "2011-12-01-epa-clean-air-act-rulemaking.md",
+      "slug": "epa-clean-air-act-rulemaking",
+      "title": "How EPA Writes Clean Air Act Rules: Statute to Facility",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10682,
+      "topWord": "agency",
+      "topCount": 160,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-12-01-epa-clean-air-act-rulemaking.md"
+    },
+    {
       "filename": "2011-12-01-how-saladin-ended-fatimids.md",
       "slug": "how-saladin-ended-fatimids",
       "title": "How Saladin Ended the Fatimid Caliphate From the Inside",
@@ -77905,6 +78899,112 @@
         {
           "word": "saladin",
           "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2011-12-15-clean-air-act-vs-clean-water-act.md",
+      "slug": "clean-air-act-vs-clean-water-act",
+      "title": "Clean Air Act vs Clean Water Act: A Structural Comparison",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9305,
+      "topWord": "air",
+      "topCount": 220,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-12-15-clean-air-act-vs-clean-water-act.md",
+      "flaggedWords": [
+        {
+          "word": "air",
+          "count": 220
+        }
+      ],
+      "top20": [
+        {
+          "word": "air",
+          "count": 220
+        },
+        {
+          "word": "law",
+          "count": 182
+        },
+        {
+          "word": "permit",
+          "count": 175
+        },
+        {
+          "word": "act",
+          "count": 156
+        },
+        {
+          "word": "clean",
+          "count": 106
+        },
+        {
+          "word": "epa",
+          "count": 106
+        },
+        {
+          "word": "section",
+          "count": 91
+        },
+        {
+          "word": "states",
+          "count": 88
+        },
+        {
+          "word": "federal",
+          "count": 76
+        },
+        {
+          "word": "statute",
+          "count": 70
+        },
+        {
+          "word": "source",
+          "count": 66
+        },
+        {
+          "word": "permits",
+          "count": 66
+        },
+        {
+          "word": "standards",
+          "count": 66
+        },
+        {
+          "word": "technology",
+          "count": 63
+        },
+        {
+          "word": "waters",
+          "count": 62
+        },
+        {
+          "word": "plan",
+          "count": 62
+        },
+        {
+          "word": "program",
+          "count": 49
+        },
+        {
+          "word": "limits",
+          "count": 47
+        },
+        {
+          "word": "discharge",
+          "count": 45
+        },
+        {
+          "word": "sources",
+          "count": 37
         }
       ]
     },
@@ -78031,6 +79131,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-01-01-citadel-of-cairo-history.md"
+    },
+    {
+      "filename": "2012-01-01-us-environmental-laws-1970s.md",
+      "slug": "us-environmental-laws-1970s",
+      "title": "US Environmental Laws: How One Decade Rebuilt Federal Power",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11143,
+      "topWord": "act",
+      "topCount": 216,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-01-01-us-environmental-laws-1970s.md"
     },
     {
       "filename": "2012-01-05-hafiz-saeed-complete-profile.md",
@@ -78173,6 +79291,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-01-15-onsite-and-the-ghost-in-the-it-industry.md"
+    },
+    {
+      "filename": "2012-01-15-teaching-us-environmental-law.md",
+      "slug": "teaching-us-environmental-law",
+      "title": "Teaching US Environmental Law: A Complete Classroom Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9240,
+      "topWord": "act",
+      "topCount": 129,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-01-15-teaching-us-environmental-law.md"
     },
     {
       "filename": "2012-01-17-good-looks-pay-off-in-the-outsourcing-world.md",
@@ -78517,6 +79653,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-02-01-crusader-invasions-of-egypt.md"
     },
     {
+      "filename": "2012-02-01-national-environmental-policy-act-guide.md",
+      "slug": "national-environmental-policy-act-guide",
+      "title": "National Environmental Policy Act Guide to Federal Review",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12190,
+      "topWord": "agency",
+      "topCount": 294,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-02-01-national-environmental-policy-act-guide.md",
+      "flaggedWords": [
+        {
+          "word": "agency",
+          "count": 294
+        }
+      ],
+      "top20": [
+        {
+          "word": "agency",
+          "count": 294
+        },
+        {
+          "word": "environmental",
+          "count": 240
+        },
+        {
+          "word": "nepa",
+          "count": 188
+        },
+        {
+          "word": "statute",
+          "count": 157
+        },
+        {
+          "word": "federal",
+          "count": 144
+        },
+        {
+          "word": "statement",
+          "count": 124
+        },
+        {
+          "word": "agencies",
+          "count": 115
+        },
+        {
+          "word": "review",
+          "count": 112
+        },
+        {
+          "word": "act",
+          "count": 111
+        },
+        {
+          "word": "action",
+          "count": 105
+        },
+        {
+          "word": "impact",
+          "count": 100
+        },
+        {
+          "word": "project",
+          "count": 98
+        },
+        {
+          "word": "decision",
+          "count": 80
+        },
+        {
+          "word": "council",
+          "count": 78
+        },
+        {
+          "word": "analysis",
+          "count": 78
+        },
+        {
+          "word": "court",
+          "count": 75
+        },
+        {
+          "word": "public",
+          "count": 71
+        },
+        {
+          "word": "effects",
+          "count": 66
+        },
+        {
+          "word": "regulations",
+          "count": 65
+        },
+        {
+          "word": "courts",
+          "count": 63
+        }
+      ]
+    },
+    {
       "filename": "2012-02-04-lashkar-e-taiba-complete-guide.md",
       "slug": "lashkar-e-taiba-complete-guide",
       "title": "Lashkar-e-Taiba Complete Guide",
@@ -78639,6 +79881,24 @@
           "count": 30
         }
       ]
+    },
+    {
+      "filename": "2012-02-15-clean-water-act-1972-complete-guide.md",
+      "slug": "clean-water-act-1972-complete-guide",
+      "title": "The Clean Water Act of 1972: Complete Guide to the Statute",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10200,
+      "topWord": "section",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-02-15-clean-water-act-1972-complete-guide.md"
     },
     {
       "filename": "2012-02-16-hizbul-mujahideen-complete-guide.md",
@@ -79197,6 +80457,24 @@
       ]
     },
     {
+      "filename": "2012-03-01-endangered-species-act-1973-guide.md",
+      "slug": "endangered-species-act-1973-guide",
+      "title": "The Endangered Species Act: A Complete Guide to the Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10262,
+      "topWord": "statute",
+      "topCount": 170,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-03-01-endangered-species-act-1973-guide.md"
+    },
+    {
       "filename": "2012-03-02-amazon-warehouse-jobs-near-me.md",
       "slug": "amazon-warehouse-jobs-near-me",
       "title": "Amazon warehouse jobs near me",
@@ -79535,6 +80813,24 @@
       ]
     },
     {
+      "filename": "2012-03-15-tva-v-hill-snail-darter-case.md",
+      "slug": "tva-v-hill-snail-darter-case",
+      "title": "TVA v. Hill: The Snail Darter Case That Changed Everything",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9719,
+      "topWord": "committee",
+      "topCount": 158,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-03-15-tva-v-hill-snail-darter-case.md"
+    },
+    {
       "filename": "2012-03-17-khalistan-tiger-force-explained.md",
       "slug": "khalistan-tiger-force-explained",
       "title": "Khalistan Tiger Force Explained",
@@ -79765,6 +81061,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-03-29-pakistan-terror-safe-haven-network.md"
     },
     {
+      "filename": "2012-04-01-nepa-environmental-impact-statement.md",
+      "slug": "nepa-environmental-impact-statement",
+      "title": "Environmental Impact Statement: How NEPA Reviews Work",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10252,
+      "topWord": "agency",
+      "topCount": 327,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-04-01-nepa-environmental-impact-statement.md",
+      "flaggedWords": [
+        {
+          "word": "agency",
+          "count": 327
+        }
+      ],
+      "top20": [
+        {
+          "word": "agency",
+          "count": 327
+        },
+        {
+          "word": "environmental",
+          "count": 147
+        },
+        {
+          "word": "statement",
+          "count": 136
+        },
+        {
+          "word": "action",
+          "count": 121
+        },
+        {
+          "word": "analysis",
+          "count": 99
+        },
+        {
+          "word": "record",
+          "count": 98
+        },
+        {
+          "word": "agencies",
+          "count": 95
+        },
+        {
+          "word": "review",
+          "count": 95
+        },
+        {
+          "word": "decision",
+          "count": 93
+        },
+        {
+          "word": "alternatives",
+          "count": 92
+        },
+        {
+          "word": "statute",
+          "count": 90
+        },
+        {
+          "word": "document",
+          "count": 84
+        },
+        {
+          "word": "alternative",
+          "count": 73
+        },
+        {
+          "word": "assessment",
+          "count": 73
+        },
+        {
+          "word": "public",
+          "count": 70
+        },
+        {
+          "word": "federal",
+          "count": 67
+        },
+        {
+          "word": "process",
+          "count": 56
+        },
+        {
+          "word": "effects",
+          "count": 55
+        },
+        {
+          "word": "act",
+          "count": 51
+        },
+        {
+          "word": "project",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2012-04-01-religion-tolerance-ayyubid-egypt.md",
       "slug": "religion-tolerance-ayyubid-egypt",
       "title": "Religion in Ayyubid Egypt: Orthodoxy Alongside Tolerance",
@@ -79905,6 +81307,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-04-10-madrassa-militant-pipeline-pakistan.md"
+    },
+    {
+      "filename": "2012-04-15-safe-drinking-water-act-guide.md",
+      "slug": "safe-drinking-water-act-guide",
+      "title": "Safe Drinking Water Act: Tap Water Standards Explained Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10015,
+      "topWord": "systems",
+      "topCount": 131,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-04-15-safe-drinking-water-act-guide.md"
     },
     {
       "filename": "2012-04-16-pakistan-army-terror-leadership.md",
@@ -80069,6 +81489,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-04-28-terror-leaders-still-at-large.md"
+    },
+    {
+      "filename": "2012-05-01-clean-water-act-outcomes.md",
+      "slug": "clean-water-act-outcomes",
+      "title": "Did the Clean Water Act Clean the Water? Impact, Outcomes",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10672,
+      "topWord": "statute",
+      "topCount": 116,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-05-01-clean-water-act-outcomes.md"
     },
     {
       "filename": "2012-05-01-saladin-hero-or-conqueror.md",
@@ -80317,6 +81755,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-05-13-dropbox-vs-google-drive-the-war-begins.md"
+    },
+    {
+      "filename": "2012-05-15-clean-water-act-section-404-permits.md",
+      "slug": "clean-water-act-section-404-permits",
+      "title": "Section 404 Wetlands Permits: Clean Water Act Permit Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10510,
+      "topWord": "permit",
+      "topCount": 212,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-05-15-clean-water-act-section-404-permits.md",
+      "flaggedWords": [
+        {
+          "word": "permit",
+          "count": 212
+        }
+      ],
+      "top20": [
+        {
+          "word": "permit",
+          "count": 212
+        },
+        {
+          "word": "corps",
+          "count": 174
+        },
+        {
+          "word": "district",
+          "count": 95
+        },
+        {
+          "word": "section",
+          "count": 94
+        },
+        {
+          "word": "program",
+          "count": 94
+        },
+        {
+          "word": "mitigation",
+          "count": 87
+        },
+        {
+          "word": "permits",
+          "count": 85
+        },
+        {
+          "word": "federal",
+          "count": 77
+        },
+        {
+          "word": "act",
+          "count": 77
+        },
+        {
+          "word": "epa",
+          "count": 70
+        },
+        {
+          "word": "rule",
+          "count": 64
+        },
+        {
+          "word": "project",
+          "count": 63
+        },
+        {
+          "word": "waters",
+          "count": 62
+        },
+        {
+          "word": "applicant",
+          "count": 59
+        },
+        {
+          "word": "agency",
+          "count": 52
+        },
+        {
+          "word": "conditions",
+          "count": 52
+        },
+        {
+          "word": "guidelines",
+          "count": 52
+        },
+        {
+          "word": "certification",
+          "count": 52
+        },
+        {
+          "word": "fill",
+          "count": 51
+        },
+        {
+          "word": "environmental",
+          "count": 50
+        }
+      ]
     },
     {
       "filename": "2012-05-16-pathankot-airbase-attack-explained.md",
@@ -80571,6 +82115,24 @@
       ]
     },
     {
+      "filename": "2012-06-01-superfund-cercla-sara-amendments.md",
+      "slug": "superfund-cercla-sara-amendments",
+      "title": "Superfund Cleanup Law: CERCLA, SARA and the TRI Story",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10311,
+      "topWord": "liability",
+      "topCount": 146,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-06-01-superfund-cercla-sara-amendments.md"
+    },
+    {
       "filename": "2012-06-03-pahalgam-attack-2025-explained.md",
       "slug": "pahalgam-attack-2025-explained",
       "title": "Pahalgam Attack 2025 Explained",
@@ -80737,6 +82299,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-06-15-dhangri-terror-attack-explained.md"
+    },
+    {
+      "filename": "2012-06-15-endangered-species-act-myths.md",
+      "slug": "endangered-species-act-myths",
+      "title": "Endangered Species Act Myths: Examined and Corrected",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10005,
+      "topWord": "statute",
+      "topCount": 135,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-06-15-endangered-species-act-myths.md"
     },
     {
       "filename": "2012-06-16-harry-potter-complete-character-analysis.md",
@@ -81111,6 +82691,24 @@
       ]
     },
     {
+      "filename": "2012-07-01-social-security-amendments-history.md",
+      "slug": "social-security-amendments-history",
+      "title": "How Social Security Amendments Built the Modern Program",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10502,
+      "topWord": "program",
+      "topCount": 210,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-07-01-social-security-amendments-history.md"
+    },
+    {
       "filename": "2012-07-02-voldemort-tom-riddle-complete-character-analysis.md",
       "slug": "voldemort-tom-riddle-complete-character-analysis",
       "title": "Voldemort Character Analysis: Making of a Dark Lord",
@@ -81291,6 +82889,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-07-13-balakot-airstrike-2019-explained.md"
+    },
+    {
+      "filename": "2012-07-15-erisa-1974-complete-guide.md",
+      "slug": "erisa-1974-complete-guide",
+      "title": "ERISA: How a Pension Statute Became America's Health Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10644,
+      "topWord": "plan",
+      "topCount": 227,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-07-15-erisa-1974-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "plan",
+          "count": 227
+        }
+      ],
+      "top20": [
+        {
+          "word": "plan",
+          "count": 227
+        },
+        {
+          "word": "law",
+          "count": 144
+        },
+        {
+          "word": "statute",
+          "count": 122
+        },
+        {
+          "word": "plans",
+          "count": 104
+        },
+        {
+          "word": "employer",
+          "count": 103
+        },
+        {
+          "word": "benefit",
+          "count": 99
+        },
+        {
+          "word": "pension",
+          "count": 97
+        },
+        {
+          "word": "insurance",
+          "count": 95
+        },
+        {
+          "word": "health",
+          "count": 92
+        },
+        {
+          "word": "fiduciary",
+          "count": 87
+        },
+        {
+          "word": "section",
+          "count": 87
+        },
+        {
+          "word": "clause",
+          "count": 80
+        },
+        {
+          "word": "court",
+          "count": 79
+        },
+        {
+          "word": "erisa",
+          "count": 75
+        },
+        {
+          "word": "federal",
+          "count": 74
+        },
+        {
+          "word": "benefits",
+          "count": 70
+        },
+        {
+          "word": "congress",
+          "count": 66
+        },
+        {
+          "word": "workers",
+          "count": 62
+        },
+        {
+          "word": "preemption",
+          "count": 53
+        },
+        {
+          "word": "rules",
+          "count": 49
+        }
+      ]
     },
     {
       "filename": "2012-07-18-sirius-black-complete-character-analysis.md",
@@ -81667,6 +83371,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-07-29-india-pakistan-2025-conflict-timeline.md"
+    },
+    {
+      "filename": "2012-08-01-social-security-amendments-1983.md",
+      "slug": "social-security-amendments-1983",
+      "title": "Social Security Amendments: The Backchannel Rescue Deal",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9071,
+      "topWord": "commission",
+      "topCount": 194,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-08-01-social-security-amendments-1983.md",
+      "flaggedWords": [
+        {
+          "word": "commission",
+          "count": 194
+        }
+      ],
+      "top20": [
+        {
+          "word": "commission",
+          "count": 194
+        },
+        {
+          "word": "benefit",
+          "count": 107
+        },
+        {
+          "word": "social",
+          "count": 80
+        },
+        {
+          "word": "security",
+          "count": 76
+        },
+        {
+          "word": "benefits",
+          "count": 74
+        },
+        {
+          "word": "public",
+          "count": 66
+        },
+        {
+          "word": "package",
+          "count": 65
+        },
+        {
+          "word": "tax",
+          "count": 61
+        },
+        {
+          "word": "age",
+          "count": 56
+        },
+        {
+          "word": "revenue",
+          "count": 56
+        },
+        {
+          "word": "congress",
+          "count": 55
+        },
+        {
+          "word": "senate",
+          "count": 54
+        },
+        {
+          "word": "political",
+          "count": 52
+        },
+        {
+          "word": "january",
+          "count": 50
+        },
+        {
+          "word": "democrats",
+          "count": 48
+        },
+        {
+          "word": "retirement",
+          "count": 45
+        },
+        {
+          "word": "program",
+          "count": 44
+        },
+        {
+          "word": "administration",
+          "count": 42
+        },
+        {
+          "word": "vote",
+          "count": 41
+        },
+        {
+          "word": "full",
+          "count": 40
+        }
+      ]
     },
     {
       "filename": "2012-08-01-who-were-the-mamluks.md",
@@ -82137,6 +83947,24 @@
       ]
     },
     {
+      "filename": "2012-08-15-supplemental-security-income-1972.md",
+      "slug": "supplemental-security-income-1972",
+      "title": "Supplemental Security Income: The Surviving Fragment",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9871,
+      "topWord": "program",
+      "topCount": 180,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-08-15-supplemental-security-income-1972.md"
+    },
+    {
       "filename": "2012-08-19-minerva-mcgonagall-complete-character-analysis.md",
       "slug": "minerva-mcgonagall-complete-character-analysis",
       "title": "Minerva McGonagall Analysis: Steel, Grace, and Loyalty",
@@ -82545,6 +84373,24 @@
       ]
     },
     {
+      "filename": "2012-09-01-pension-protection-act-2006-guide.md",
+      "slug": "pension-protection-act-2006-guide",
+      "title": "Pension Protection Act: How Default Rules Rewrote Retirement",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9674,
+      "topWord": "act",
+      "topCount": 173,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-09-01-pension-protection-act-2006-guide.md"
+    },
+    {
       "filename": "2012-09-05-dolores-umbridge-complete-character-analysis.md",
       "slug": "dolores-umbridge-complete-character-analysis",
       "title": "Dolores Umbridge Character Analysis: Bureaucratic Evil",
@@ -82789,6 +84635,116 @@
         {
           "word": "ron",
           "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2012-09-15-social-security-poverty-impact.md",
+      "slug": "social-security-poverty-impact",
+      "title": "How Social Security Cut Elderly Poverty: Evidence and Limits",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9159,
+      "topWord": "poverty",
+      "topCount": 210,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-09-15-social-security-poverty-impact.md",
+      "flaggedWords": [
+        {
+          "word": "poverty",
+          "count": 210
+        },
+        {
+          "word": "program",
+          "count": 186
+        }
+      ],
+      "top20": [
+        {
+          "word": "poverty",
+          "count": 210
+        },
+        {
+          "word": "program",
+          "count": 186
+        },
+        {
+          "word": "benefits",
+          "count": 159
+        },
+        {
+          "word": "elderly",
+          "count": 121
+        },
+        {
+          "word": "benefit",
+          "count": 109
+        },
+        {
+          "word": "percent",
+          "count": 106
+        },
+        {
+          "word": "measure",
+          "count": 88
+        },
+        {
+          "word": "income",
+          "count": 73
+        },
+        {
+          "word": "security",
+          "count": 72
+        },
+        {
+          "word": "social",
+          "count": 70
+        },
+        {
+          "word": "earnings",
+          "count": 67
+        },
+        {
+          "word": "age",
+          "count": 66
+        },
+        {
+          "word": "rate",
+          "count": 55
+        },
+        {
+          "word": "counterfactual",
+          "count": 54
+        },
+        {
+          "word": "article",
+          "count": 49
+        },
+        {
+          "word": "official",
+          "count": 49
+        },
+        {
+          "word": "households",
+          "count": 49
+        },
+        {
+          "word": "lifetime",
+          "count": 46
+        },
+        {
+          "word": "effect",
+          "count": 45
+        },
+        {
+          "word": "trend",
+          "count": 45
         }
       ]
     },
@@ -83543,6 +85499,112 @@
       ]
     },
     {
+      "filename": "2012-10-01-ssa-benefit-administration-law.md",
+      "slug": "ssa-benefit-administration-law",
+      "title": "How Social Security disability benefits reach claimants",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9347,
+      "topWord": "agency",
+      "topCount": 208,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-10-01-ssa-benefit-administration-law.md",
+      "flaggedWords": [
+        {
+          "word": "agency",
+          "count": 208
+        }
+      ],
+      "top20": [
+        {
+          "word": "agency",
+          "count": 208
+        },
+        {
+          "word": "claimant",
+          "count": 105
+        },
+        {
+          "word": "court",
+          "count": 101
+        },
+        {
+          "word": "hearing",
+          "count": 100
+        },
+        {
+          "word": "medical",
+          "count": 98
+        },
+        {
+          "word": "disability",
+          "count": 97
+        },
+        {
+          "word": "security",
+          "count": 76
+        },
+        {
+          "word": "social",
+          "count": 74
+        },
+        {
+          "word": "law",
+          "count": 70
+        },
+        {
+          "word": "decision",
+          "count": 67
+        },
+        {
+          "word": "administrative",
+          "count": 67
+        },
+        {
+          "word": "step",
+          "count": 66
+        },
+        {
+          "word": "federal",
+          "count": 63
+        },
+        {
+          "word": "evidence",
+          "count": 61
+        },
+        {
+          "word": "review",
+          "count": 59
+        },
+        {
+          "word": "level",
+          "count": 58
+        },
+        {
+          "word": "five",
+          "count": 55
+        },
+        {
+          "word": "benefits",
+          "count": 54
+        },
+        {
+          "word": "appeals",
+          "count": 44
+        },
+        {
+          "word": "title",
+          "count": 43
+        }
+      ]
+    },
+    {
       "filename": "2012-10-03-india-pakistan-diplomatic-crisis-history.md",
       "slug": "india-pakistan-diplomatic-crisis-history",
       "title": "India Pakistan Diplomatic Crises History",
@@ -84013,6 +86075,112 @@
       ]
     },
     {
+      "filename": "2012-10-15-pension-vs-401k-law-shift.md",
+      "slug": "pension-vs-401k-law-shift",
+      "title": "Pensions vs 401(k): How Law Shifted Retirement Risk",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9554,
+      "topWord": "pension",
+      "topCount": 222,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-10-15-pension-vs-401k-law-shift.md",
+      "flaggedWords": [
+        {
+          "word": "pension",
+          "count": 222
+        }
+      ],
+      "top20": [
+        {
+          "word": "pension",
+          "count": 222
+        },
+        {
+          "word": "account",
+          "count": 163
+        },
+        {
+          "word": "worker",
+          "count": 143
+        },
+        {
+          "word": "plan",
+          "count": 110
+        },
+        {
+          "word": "benefit",
+          "count": 107
+        },
+        {
+          "word": "employer",
+          "count": 106
+        },
+        {
+          "word": "workers",
+          "count": 83
+        },
+        {
+          "word": "plans",
+          "count": 81
+        },
+        {
+          "word": "law",
+          "count": 81
+        },
+        {
+          "word": "tax",
+          "count": 72
+        },
+        {
+          "word": "funding",
+          "count": 68
+        },
+        {
+          "word": "risk",
+          "count": 66
+        },
+        {
+          "word": "promise",
+          "count": 61
+        },
+        {
+          "word": "employers",
+          "count": 60
+        },
+        {
+          "word": "retirement",
+          "count": 59
+        },
+        {
+          "word": "insurance",
+          "count": 50
+        },
+        {
+          "word": "defined",
+          "count": 48
+        },
+        {
+          "word": "benefits",
+          "count": 44
+        },
+        {
+          "word": "balance",
+          "count": 43
+        },
+        {
+          "word": "cost",
+          "count": 42
+        }
+      ]
+    },
+    {
       "filename": "2012-10-16-peter-pettigrew-complete-character-analysis.md",
       "slug": "peter-pettigrew-complete-character-analysis",
       "title": "Peter Pettigrew Analysis: Cowardice and Betrayal",
@@ -84207,6 +86375,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-11-01-mamluk-egypt-world-trade.md"
+    },
+    {
+      "filename": "2012-11-01-secure-act-retirement-law-changes.md",
+      "slug": "secure-act-retirement-law-changes",
+      "title": "SECURE Act Retirement Changes: How Two Acts Reshaped Saving",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9778,
+      "topWord": "act",
+      "topCount": 163,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-11-01-secure-act-retirement-law-changes.md"
     },
     {
       "filename": "2012-11-02-nymphadora-tonks-complete-character-analysis.md",
@@ -84473,6 +86659,24 @@
           "count": 21
         }
       ]
+    },
+    {
+      "filename": "2012-11-15-teaching-social-security-policy.md",
+      "slug": "teaching-social-security-policy",
+      "title": "Teaching Social Security Policy: Classroom Study Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9672,
+      "topWord": "program",
+      "topCount": 127,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-11-15-teaching-social-security-policy.md"
     },
     {
       "filename": "2012-11-18-gilderoy-lockhart-complete-character-analysis.md",
@@ -84959,6 +87163,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-12-01-black-death-in-mamluk-egypt.md"
+    },
+    {
+      "filename": "2012-12-01-immigration-nationality-act-1965-guide.md",
+      "slug": "immigration-nationality-act-1965-guide",
+      "title": "Immigration and Nationality Act: What the Statute Did",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9933,
+      "topWord": "act",
+      "topCount": 173,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-12-01-immigration-nationality-act-1965-guide.md"
     },
     {
       "filename": "2012-12-06-cornelius-fudge-complete-character-analysis.md",

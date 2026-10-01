@@ -5,11 +5,11 @@ page_title: "Disliked the biased documentary on Kolkata on CNN IBN by Nilanjana 
 date: 2011-04-17
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Today I watched a show on CNN IBN. I love the channel for it's straight forward and informative approach on any topic. But today I watched a program that..."
+excerpt: "CNN IBN documentary on Kolkata: a biased portrayal that missed the city's spirit. Why the show felt unfair to residents who know the real Kolkata."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 2
 author: "amit-chatterjee"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 Today I watched a show on CNN IBN. I love the channel for it's straight forward and informative approach on any topic. But today I watched a program that was showing a documentary on Kolkata the city as a whole. The reporter was Nilanjana Bose. To start with, I am a Calcuttan myself.

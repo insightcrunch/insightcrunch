@@ -4,11 +4,11 @@ title: "Lock Folders and Hide your secret Files"
 date: 2010-12-17
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "How many times shave you wanted to hide a particular folder and searched in vain for a free tool. Finally, you can get it. Install this and let your wings..."
+excerpt: "Lock and hide folders on Windows for free. A simple tool to password-protect and conceal sensitive files from anyone using your computer."
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 1
 author: "diana-patel"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 How many times shave you wanted to hide a particular folder and searched in vain for a free tool. Finally, you can get it. Install this and let your wings let you fly as you store virtually all kinds of files in your computer.

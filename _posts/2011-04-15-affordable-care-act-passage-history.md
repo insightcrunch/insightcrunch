@@ -8,7 +8,7 @@ excerpt: "How did the Affordable Care Act pass? A history of the shell bill, the
 image: "/assets/images/blog/blog-70.webp"
 reading_time: "72"
 author: "simon-hartley"
-last_updated: "2011-04-15"
+last_updated: 2026-10-01
 tags: ["US Legislation", "Affordable Care Act", "Legislative History", "Senate Procedure", "Reconciliation", "Health Care Reform"]
 lang: en
 ---

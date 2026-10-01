@@ -5,11 +5,11 @@ page_title: "Arriving at TCS ILP Bhubaneswar - Travel Guide from Station to Kali
 date: 2011-01-06
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Bhubaneswar", "Arrival Guide"]
-excerpt: "Arriving at TCS ILP Bhubaneswar: the journey from the railway station to Kalinga Park training center, first impressions, and settling into hostel life."
+excerpt: "Your first day at TCS ILP Bhubaneswar. From the station to Kalinga Park, finding your room, meeting batchmates, and the nervous excitement of Day 1."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 45
 author: "nandini-sen"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 The arrival at Bhubaneswar for TCS ILP is one of the first tests of the professional life you are entering. You step off a train into a city whose script you may never have seen before - Odia, which the original account memorably describes as "Jalebis" for their circular, intricate appearance to the uninitiated eye. You negotiate with an auto driver in a garbled mix of whatever language works, load a cumbersome trolley into the vehicle, and make your way to the residency where your college-mates have already claimed the better rooms. The smallest room is what's left. You console yourself that however you arrange the three beds, the room will look equally small regardless.

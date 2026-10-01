@@ -3,7 +3,7 @@ layout: "post"
 title: "Immigration and Nationality Act: What the Statute Did"
 page_title: "Immigration and Nationality Act Guide: Statutory Text, Preference System, Hemispheric Ceilings, and the Two-Door Reading"
 date: "2012-12-01"
-last_updated: "2012-12-01"
+last_updated: 2026-10-01
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Statute Guide", "Visa Categories", "Hemispheric Caps", "Legislative History"]
 excerpt: "The Immigration and Nationality Act, as amended, governs every visa issued. This guide explains the quota repeal, the new preferences, and both ceilings."

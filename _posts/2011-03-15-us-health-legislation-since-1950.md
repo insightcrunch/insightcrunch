@@ -9,7 +9,7 @@ excerpt: "US health legislation follows one logic across six decades: each statu
 image: "/assets/images/blog/blog-61.webp"
 reading_time: "68"
 author: "kevin-reeves"
-last_updated: "2011-03-15"
+last_updated: 2026-10-01
 lang: en
 ---
 Ask how American health care works and you will get a puzzling answer, because there is no single system to describe. What the federal government built over the postwar decades is better understood as a stack of statutes, each enacted to solve the problem that looked most urgent at the time, each left in place while the next one piled on top. Beds came before coverage, coverage came before cost control, and cost control came before price regulation. The result is not a design anyone would have drawn from scratch. It is a record of successive problems and the legislative bargains that answered them. The useful question is not what the system is but what each statute was trying to fix, and why the fix took the shape it did.

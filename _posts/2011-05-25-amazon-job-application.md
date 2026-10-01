@@ -4,11 +4,11 @@ title: "Amazon Job Application"
 date: 2011-05-25
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today. And there are a variety of jobs that candidates can apply for at Amazon based on their skill..."
+excerpt: "How to apply for Amazon jobs: step-by-step application process, resume tips, the portal walkthrough, and what Amazon looks for in candidates."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 13
 author: "benjamin-scott"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 ## Background

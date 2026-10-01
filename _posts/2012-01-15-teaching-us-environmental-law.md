@@ -9,7 +9,7 @@ excerpt: "Master US environmental law teaching: the four regulatory technologies
 image: "/assets/images/blog/blog-103.webp"
 reading_time: "63"
 author: "ryan-walsh"
-last_updated: "2012-01-15"
+last_updated: 2026-10-01
 lang: en
 ---
 ## What Students Get Wrong About US Environmental Law

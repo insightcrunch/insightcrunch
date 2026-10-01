@@ -4,11 +4,11 @@ title: "Health of IT professionals"
 date: 2011-07-16
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "“Hi, did you taste that new Zinger meal at KFC? It’s awesome! Well it doesn’t have as much cheese as you would get in the Chicken Cheese Italiano Pizza in..."
+excerpt: "IT professional health problems: KFC lunches, sedentary desks, missed gym sessions, and the lifestyle that slowly wrecks the tech worker's body."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 4
 author: "rachel-foster"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 “Hi, did you taste that new Zinger meal at KFC? It’s awesome! Well it doesn’t have as much cheese as you would get in the Chicken Cheese Italiano Pizza in Pizza Hut, but it tastes good. Also try the Chocolate pastry at Biscotti if you ever get a chance.” This is pretty much what one would hear if he gets to ask an IT professional about some good food in the city. Yes, they have the money. They have the cool geek status. They don't bother to spend thousands for the style. They surround themselves with all sorts of gadgets (including me!). And last but not the least, they never compromise on eating to focus on their health. In fact, an average IT professional spends anything between 5-10% of his or her salary on food.

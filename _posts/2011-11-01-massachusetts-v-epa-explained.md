@@ -9,7 +9,7 @@ excerpt: "Massachusetts v. EPA made greenhouse gases Clean Air Act pollutants; t
 image: "/assets/images/blog/blog-39.webp"
 reading_time: "70"
 author: "maria-santos"
-last_updated: "2011-11-01"
+last_updated: 2026-10-01
 lang: en
 ---
 Massachusetts v. EPA asked the oldest question in statutory law in its newest form. When Congress writes broad words to solve the problems it can see, who decides what those words require for a problem Congress never named? The Clean Air Act directs the Environmental Protection Agency to prescribe standards for the emission of "any air pollutant" from new motor vehicles, and it defines "air pollutant" in section 302(g) with a sweep that reaches any physical, chemical, or biological substance emitted into or otherwise entering the ambient air. When those words were written, the legislators who wrote them were thinking about smog, soot, and lead, not about carbon dioxide accumulating in the atmosphere over decades. In 1999 a coalition of environmental organizations asked the agency to read the old words as covering greenhouse gases, and the agency's answer, first a long silence and then a formal denial in 2003, set up the litigation that reached the Supreme Court. The decision the Court handed down in 2007 became the most cited environmental ruling of its generation, not because the justices settled the science of climate change, which the administrative record already established, but because they settled the method: how a court reads a capacious statute when the agency charged with enforcing it would rather not.

@@ -5,11 +5,11 @@ page_title: "TCS ILP Rules and Discipline - Complete Bhubaneswar Guide to Attend
 date: 2011-01-13
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Rules", "Discipline Policy"]
-excerpt: "TCS ILP Bhubaneswar's strict monitoring culture: biometric attendance, sensors, surveillance, and how freshers navigate the rigid compliance environment."
+excerpt: "Sensors everywhere at TCS ILP Bhubaneswar. A first-hand look at the attendance monitoring, compliance rules, and how freshers deal with the strictness."
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 45
 author: "shruti-agarwal"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 Stepping through the security gate at the TCS Kalinga Park campus for the first time, Debapriya noticed the baggage scanners and had an unexpected realisation about his backpack. Previously, the same backpack had served for smuggling alcohol into the private college hostel. The landlord had been "mystified" by why everyone used the same backpack for shopping. Now, at the TCS security check, the backpack's purpose was being assessed by an X-ray scanner rather than a puzzled landlord.

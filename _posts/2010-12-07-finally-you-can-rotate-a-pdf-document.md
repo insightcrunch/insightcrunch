@@ -4,11 +4,11 @@ title: "Finally, you can rotate a PDF document"
 date: 2010-12-07
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Many times we PDF readers have faced problems when the landscape and portrait orientation in our document is not as we want it to be. Now it can be done..."
+excerpt: "Rotate PDF pages online for free. Fix landscape and portrait orientation problems in your PDF documents without installing any software."
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 1
 author: "chloe-martin"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 Many times we PDF readers have faced problems when the landscape and portrait orientation in our document is not as we want it to be. Now it can be done in a breeze. [Visit this site](http://www.rotatepdf.net/). Just upload your document and select the orientation you want tit to be in.

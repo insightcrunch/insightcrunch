@@ -9,7 +9,7 @@ excerpt: "The Affordable Care Act was never repealed, but Congress rewrote it pi
 image: "/assets/images/blog/blog-55.webp"
 reading_time: "72"
 author: "natalie-webb"
-last_updated: "2011-07-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Question the Affordable Care Act's Amendments Answer

@@ -9,7 +9,7 @@ excerpt: "Health insurance exchanges were the ACA's delivery engine. This guide 
 image: "/assets/images/blog/blog-73.webp"
 reading_time: "68"
 author: "michael-brooks"
-last_updated: "2011-07-15"
+last_updated: 2026-10-01
 lang: en
 ---
 Congress built the health insurance exchanges to be the front door of a reformed individual market, then watched that front door jam on national television before it admitted a single customer. The story of how the exchanges were designed in sections 1311 and 1321 of Public Law 111-148, why the federal marketplace collapsed when it opened on October 1, 2013, and how a small recovery team restored it within weeks is the most instructive implementation episode in modern American public administration. It is a story about a statute whose federalism assumptions inverted, a procurement that left no one in charge of making the pieces fit, and a rescue that produced permanent institutions.

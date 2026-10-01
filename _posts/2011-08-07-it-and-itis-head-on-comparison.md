@@ -4,11 +4,11 @@ title: "IT and ITIS: Head-on Comparison"
 date: 2011-08-07
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "IT and ITIS. The twins of the outsourcing world. One refers to Information Technology, the other IT Infrastructure Services. Most of us often get confused..."
+excerpt: "IT vs ITIS at TCS: Information Technology vs IT Infrastructure Services. Key differences in work, skills, career path, and which stream suits you."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 3
 author: "nikhil-tiwari"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 ## Overview

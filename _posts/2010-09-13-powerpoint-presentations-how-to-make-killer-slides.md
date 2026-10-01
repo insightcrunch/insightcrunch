@@ -4,11 +4,11 @@ title: "PowerPoint Presentations: How to make killer slides"
 date: 2010-09-13
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "We have all come across presentations, some of them we have found boring to death and struggled to stay awake and some were so enthralling that chills ran..."
+excerpt: "How to make killer PowerPoint presentations: design principles, storytelling techniques, and the difference between slides that bore and slides that..."
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 1
 author: "amanda-ross"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 We have all come across presentations, some of them we have found boring to death and struggled to stay awake and some were so enthralling that chills ran down our spine as time passed. No doubt the presenter has a role to play, but the presentation plays the major role in it.

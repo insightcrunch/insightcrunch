@@ -10510,12 +10510,6 @@ upsc-exam-pattern-2026:
   category: industry
   image: /assets/images/blog/blog-79.webp
   lang: en
-- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
-  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
-  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
-  category: industry
-  image: /assets/images/blog/blog-87.webp
-  lang: en
 upsc-eligibility-age-attempts:
 - slug: upsc-after-30-late-start
   title: 'UPSC After 30: Late Start Strategy'
@@ -23741,6 +23735,12 @@ civil-rights-act-1964-titles-explained:
   category: industry
   image: /assets/images/blog/blog-69.webp
   lang: en
+- slug: pension-vs-401k-law-shift
+  title: 'Pensions vs 401(k): How Law Shifted Retirement Risk'
+  url: /2012/10/15/pension-vs-401k-law-shift/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 how-much-does-amazon-pay-an-hour-online:
 - slug: how-much-does-amazon-pay-to-work-from-home
   title: How much does Amazon pay to work from home?
@@ -24071,12 +24071,6 @@ civil-rights-act-1964-impact:
   url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
   category: industry
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: social-security-amendments-1965-medicare
-  title: Medicare and the Social Security Amendments of 1965
-  url: /2010/11/01/social-security-amendments-1965-medicare/
-  category: industry
-  image: /assets/images/blog/blog-75.webp
   lang: en
 economic-determinism-debate:
 - slug: historical-materialism-complete-guide
@@ -24903,11 +24897,11 @@ voting-rights-act-1965-passage-history:
   category: industry
   image: /assets/images/blog/blog-76.webp
   lang: en
-- slug: civil-rights-act-vs-voting-rights-act
-  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
-  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+- slug: medicare-1965-passage-history
+  title: 'How Medicare Passed Congress: The 1965 Three-Layer Cake Deal'
+  url: /2010/11/15/medicare-1965-passage-history/
   category: industry
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-05.webp
   lang: en
 twitter-has-doubled-in-staff-in-past-6-months:
 - slug: twitter-to-begin-wrapping-up-links-officially-with-t-co-link-shortener
@@ -25226,6 +25220,12 @@ voting-rights-act-section-5-preclearance:
   url: /2010/05/01/civil-rights-act-1964-myths/
   category: industry
   image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: help-america-vote-act-2002-guide
+  title: 'Help America Vote Act of 2002: What It Required States to Do'
+  url: /2010/09/01/help-america-vote-act-2002-guide/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
   lang: en
 yahoo-wants-huffington-post-badly:
 - slug: yahoo-taking-a-dive-into-social-networking
@@ -25944,12 +25944,6 @@ voting-rights-act-registration-impact:
   category: industry
   image: /assets/images/blog/blog-104.webp
   lang: en
-- slug: national-voter-registration-act-1993
-  title: 'National Voter Registration Act: The Motor Voter Law'
-  url: /2010/09/15/national-voter-registration-act-1993/
-  category: industry
-  image: /assets/images/blog/blog-107.webp
-  lang: en
 android-team-determined-to-bring-new-user-friendly-features-in-its-next-release:
 - slug: google-docs-now-try-the-best-online-tool-without-a-google-account
   title: 'Google Docs: Now try the best online tool without a Google Account'
@@ -26450,17 +26444,17 @@ national-voter-registration-act-1993:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: en
-- slug: help-america-vote-act-2002-guide
-  title: 'Help America Vote Act of 2002: What It Required States to Do'
-  url: /2010/09/01/help-america-vote-act-2002-guide/
+- slug: endangered-species-act-1973-guide
+  title: 'The Endangered Species Act: A Complete Guide to the Law'
+  url: /2012/03/01/endangered-species-act-1973-guide/
   category: industry
-  image: /assets/images/blog/blog-37.webp
+  image: /assets/images/blog/blog-103.webp
   lang: en
-- slug: civil-rights-act-1991-amendments
-  title: The Civil Rights Act of 1991 and After
-  url: /2010/04/01/civil-rights-act-1991-amendments/
+- slug: national-environmental-policy-act-guide
+  title: National Environmental Policy Act Guide to Federal Review
+  url: /2012/02/01/national-environmental-policy-act-guide/
   category: industry
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-45.webp
   lang: en
 tcs-ilp-at-infocity-gandhinagar:
 - slug: tcs-ilp-hyderabad
@@ -27494,29 +27488,29 @@ fatimid-egypt-complete-guide:
   image: /assets/images/blog/blog-81.webp
   lang: en
 social-security-amendments-1965-medicare:
-- slug: civil-rights-act-1964-impact
-  title: What the Civil Rights Act Actually Changed
-  url: /2010/03/15/civil-rights-act-1964-impact/
+- slug: medicare-parts-a-b-statute-explained
+  title: 'Medicare Parts A and B: What the Statute Actually Covers'
+  url: /2010/12/01/medicare-parts-a-b-statute-explained/
   category: industry
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: voting-rights-act-1965-passage-history
-  title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
-  url: /2010/06/15/voting-rights-act-1965-passage-history/
+- slug: medicare-vs-medicaid-legal-difference
+  title: 'Medicare vs Medicaid: The Legal Difference Explained'
+  url: /2011/03/01/medicare-vs-medicaid-legal-difference/
   category: industry
-  image: /assets/images/blog/blog-68.webp
+  image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: civil-rights-act-1991-amendments
-  title: The Civil Rights Act of 1991 and After
-  url: /2010/04/01/civil-rights-act-1991-amendments/
+- slug: medicaid-statute-structure-explained
+  title: 'The Medicaid Statute Explained: How Title XIX Actually Works'
+  url: /2011/02/01/medicaid-statute-structure-explained/
   category: industry
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-101.webp
   lang: en
-- slug: voting-rights-act-reauthorizations
-  title: 'Voting Rights Act Reauthorization: Every Extension Explained'
-  url: /2010/08/01/voting-rights-act-reauthorizations/
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
   category: industry
-  image: /assets/images/blog/blog-88.webp
+  image: /assets/images/blog/blog-113.webp
   lang: en
 a-story-between-tcs-and-infosys:
 - slug: tcs-vs-accenture-comparison-at-granular-level
@@ -27723,6 +27717,31 @@ citizen-kane-death-snow-globe-scene:
   url: /2010/05/15/how-to-watch-citizen-kane-closely/
   category: leisure
   image: /assets/images/blog/blog-72.webp
+  lang: en
+medicare-1965-passage-history:
+- slug: voting-rights-act-1965-passage-history
+  title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
+  url: /2010/06/15/voting-rights-act-1965-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: social-security-amendments-1983
+  title: 'Social Security Amendments: The Backchannel Rescue Deal'
+  url: /2012/08/01/social-security-amendments-1983/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: medicare-impact-elderly-poverty
+  title: 'Medicare Elderly Poverty: What the Evidence Measures'
+  url: /2011/01/15/medicare-impact-elderly-poverty/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
   lang: en
 love-to-forward-mails-to-a-lot-of-friends-make-gmail-contact-groups:
 - slug: google-fills-my-world
@@ -27949,6 +27968,31 @@ how-fatimids-founded-cairo:
   category: leisure
   image: /assets/images/blog/blog-107.webp
   lang: en
+medicare-parts-a-b-statute-explained:
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: medicare-impact-elderly-poverty
+  title: 'Medicare Elderly Poverty: What the Evidence Measures'
+  url: /2011/01/15/medicare-impact-elderly-poverty/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: us-health-legislation-since-1950
+  title: 'US Health Legislation Since 1950: Six Decades of Law'
+  url: /2011/03/15/us-health-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 banquo-character-analysis:
 - slug: malcolm-character-analysis
   title: Malcolm Character Analysis in Shakespeare's Macbeth
@@ -28154,6 +28198,37 @@ citizen-kane-projection-room-scene:
   url: /2011/01/01/citizen-kane-el-rancho-nightclub/
   category: leisure
   image: /assets/images/blog/blog-79.webp
+  lang: en
+medicare-catastrophic-coverage-act-1988:
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: us-health-legislation-since-1950
+  title: 'US Health Legislation Since 1950: Six Decades of Law'
+  url: /2011/03/15/us-health-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: medicare-impact-elderly-poverty
+  title: 'Medicare Elderly Poverty: What the Evidence Measures'
+  url: /2011/01/15/medicare-impact-elderly-poverty/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: medicare-modernization-act-2003-part-d
+  title: Medicare Part D and the 2003 Modernization Act Explained
+  url: /2011/01/01/medicare-modernization-act-2003-part-d/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
   lang: en
 lock-folders-and-hide-your-secret-files:
 - slug: how-to-delete-large-folders-in-your-pc-with-gbs-of-files-in-them
@@ -28380,6 +28455,31 @@ fatimid-caliphs-who-ruled-egypt:
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
+medicare-modernization-act-2003-part-d:
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: medicare-vs-medicaid-legal-difference
+  title: 'Medicare vs Medicaid: The Legal Difference Explained'
+  url: /2011/03/01/medicare-vs-medicaid-legal-difference/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: medicare-impact-elderly-poverty
+  title: 'Medicare Elderly Poverty: What the Evidence Measures'
+  url: /2011/01/15/medicare-impact-elderly-poverty/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
 othello-character-analysis-deep-dive:
 - slug: desdemona-othello-character-analysis
   title: Desdemona Character Analysis in Shakespeare's Othello
@@ -28579,6 +28679,31 @@ desdemona-othello-character-analysis:
   url: /2011/01/09/iago-othello-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-74.webp
+  lang: en
+medicare-impact-elderly-poverty:
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: medicare-parts-a-b-statute-explained
+  title: 'Medicare Parts A and B: What the Statute Actually Covers'
+  url: /2010/12/01/medicare-parts-a-b-statute-explained/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: medicare-vs-medicaid-legal-difference
+  title: 'Medicare vs Medicaid: The Legal Difference Explained'
+  url: /2011/03/01/medicare-vs-medicaid-legal-difference/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
   lang: en
 tcs-ilp-bhubaneswar-survival-of-the-weakest:
 - slug: tcs-ilp-java
@@ -28805,6 +28930,31 @@ citizen-kane-boyhood-sledding-scene:
   category: leisure
   image: /assets/images/blog/blog-108.webp
   lang: en
+medicaid-statute-structure-explained:
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: medicare-vs-medicaid-legal-difference
+  title: 'Medicare vs Medicaid: The Legal Difference Explained'
+  url: /2011/03/01/medicare-vs-medicaid-legal-difference/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: us-health-legislation-since-1950
+  title: 'US Health Legislation Since 1950: Six Decades of Law'
+  url: /2011/03/15/us-health-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
 tcl-ilp-gandhinagar-experience-the-journey-begins:
 - slug: ilp-chalisa
   title: ILP Chalisa
@@ -28904,6 +29054,31 @@ citizen-kane-charles-sent-away:
   url: /2011/07/01/citizen-kane-leland-kane-fallout/
   category: leisure
   image: /assets/images/blog/blog-34.webp
+  lang: en
+cms-medicare-rulemaking-guide:
+- slug: affordable-care-act-passage-history
+  title: 'How the Affordable Care Act Passed: The Two-Bill Maneuver'
+  url: /2011/04/15/affordable-care-act-passage-history/
+  category: us legislation
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: medicare-parts-a-b-statute-explained
+  title: 'Medicare Parts A and B: What the Statute Actually Covers'
+  url: /2010/12/01/medicare-parts-a-b-statute-explained/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: epa-clean-air-act-rulemaking
+  title: 'How EPA Writes Clean Air Act Rules: Statute to Facility'
+  url: /2011/12/01/epa-clean-air-act-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: massachusetts-v-epa-explained
+  title: Massachusetts v. EPA and the Clean Air Act Doctrine
+  url: /2011/11/01/massachusetts-v-epa-explained/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
   lang: en
 king-lear-character-analysis-deep-dive:
 - slug: goneril-king-lear-character-analysis
@@ -29030,6 +29205,31 @@ citizen-kane-takes-over-inquirer:
   category: leisure
   image: /assets/images/blog/blog-04.webp
   lang: en
+medicare-vs-medicaid-legal-difference:
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: medicaid-statute-structure-explained
+  title: 'The Medicaid Statute Explained: How Title XIX Actually Works'
+  url: /2011/02/01/medicaid-statute-structure-explained/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
 shia-islam-and-fatimid-caliphate:
 - slug: fatimid-caliphs-who-ruled-egypt
   title: 'The Fatimid Caliphs: Rulers Who Were Also Living Imams'
@@ -29129,6 +29329,31 @@ citizen-kane-declaration-principles-scene:
   url: /2010/03/15/citizen-kane-characters-complete-map/
   category: leisure
   image: /assets/images/blog/blog-02.webp
+  lang: en
+us-health-legislation-since-1950:
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: medicare-parts-a-b-statute-explained
+  title: 'Medicare Parts A and B: What the Statute Actually Covers'
+  url: /2010/12/01/medicare-parts-a-b-statute-explained/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: medicare-impact-elderly-poverty
+  title: 'Medicare Elderly Poverty: What the Evidence Measures'
+  url: /2011/01/15/medicare-impact-elderly-poverty/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
   lang: en
 goneril-king-lear-character-analysis:
 - slug: gloucester-king-lear-character-analysis
@@ -29236,6 +29461,37 @@ fool-king-lear-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-109.webp
   lang: en
+affordable-care-act-complete-guide:
+- slug: affordable-care-act-key-provisions
+  title: 'The Affordable Care Act''s Key Provisions: Duties by Party'
+  url: /2011/05/01/affordable-care-act-key-provisions/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: affordable-care-act-later-changes
+  title: How Congress Rewrote the Affordable Care Act After Passage
+  url: /2011/07/01/affordable-care-act-later-changes/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: medicare-vs-medicaid-legal-difference
+  title: 'Medicare vs Medicaid: The Legal Difference Explained'
+  url: /2011/03/01/medicare-vs-medicaid-legal-difference/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: affordable-care-act-coverage-impact
+  title: What the Affordable Care Act Did to Health Coverage
+  url: /2011/06/15/affordable-care-act-coverage-impact/
+  category: '["industry"]'
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 citizen-kane-inquirer-party-scene:
 - slug: citizen-kane-losing-the-election
   title: 'Citizen Kane: Losing the Election'
@@ -29310,6 +29566,31 @@ kent-king-lear-character-analysis:
   url: /2011/03/16/goneril-king-lear-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-62.webp
+  lang: en
+affordable-care-act-passage-history:
+- slug: cms-medicare-rulemaking-guide
+  title: 'CMS Medicare Rulemaking: From Statute to Payment Rule'
+  url: /2011/02/15/cms-medicare-rulemaking-guide/
+  category: us legislation
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: voting-rights-act-1965-passage-history
+  title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
+  url: /2010/06/15/voting-rights-act-1965-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: affordable-care-act-vote-analysis
+  title: How the Affordable Care Act Passed Without One Minority Vote
+  url: /2011/08/01/affordable-care-act-vote-analysis/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
   lang: en
 citizen-kane-breakfast-montage:
 - slug: citizen-kane-motifs-inventory
@@ -29386,6 +29667,37 @@ tcs-fy-2010-11-q4-performance-detailed-analysis:
   category: industry
   image: /assets/images/blog/blog-78.webp
   lang: en
+affordable-care-act-key-provisions:
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: affordable-care-act-later-changes
+  title: How Congress Rewrote the Affordable Care Act After Passage
+  url: /2011/07/01/affordable-care-act-later-changes/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: aca-supreme-court-challenges
+  title: Affordable Care Act Supreme Court Challenges Explained
+  url: /2011/06/01/aca-supreme-court-challenges/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: affordable-care-act-vote-analysis
+  title: How the Affordable Care Act Passed Without One Minority Vote
+  url: /2011/08/01/affordable-care-act-vote-analysis/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: nfib-v-sebelius-explained
+  title: 'NFIB v. Sebelius: The Pending Challenge to the ACA'
+  url: /2011/05/15/nfib-v-sebelius-explained/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
 citizen-kane-meets-susan-alexander:
 - slug: citizen-kane-losing-the-election
   title: 'Citizen Kane: Losing the Election'
@@ -29461,6 +29773,31 @@ citizen-kane-campaign-speech-scene:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
+nfib-v-sebelius-explained:
+- slug: affordable-care-act-key-provisions
+  title: 'The Affordable Care Act''s Key Provisions: Duties by Party'
+  url: /2011/05/01/affordable-care-act-key-provisions/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: affordable-care-act-later-changes
+  title: How Congress Rewrote the Affordable Care Act After Passage
+  url: /2011/07/01/affordable-care-act-later-changes/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: aca-supreme-court-challenges
+  title: Affordable Care Act Supreme Court Challenges Explained
+  url: /2011/06/01/aca-supreme-court-challenges/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
 amazon-job-application:
 - slug: which-job-is-best-in-amazon
   title: Which job is best in Amazon?
@@ -29491,6 +29828,31 @@ amazon-job-application:
   url: /2022/11/30/amazon-application-login/
   category: industry
   image: /assets/images/blog/blog-81.webp
+  lang: en
+aca-supreme-court-challenges:
+- slug: affordable-care-act-vote-analysis
+  title: How the Affordable Care Act Passed Without One Minority Vote
+  url: /2011/08/01/affordable-care-act-vote-analysis/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: affordable-care-act-key-provisions
+  title: 'The Affordable Care Act''s Key Provisions: Duties by Party'
+  url: /2011/05/01/affordable-care-act-key-provisions/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: affordable-care-act-later-changes
+  title: How Congress Rewrote the Affordable Care Act After Passage
+  url: /2011/07/01/affordable-care-act-later-changes/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
   lang: en
 al-hakim-controversial-caliph:
 - slug: saint-antony-desert-fathers
@@ -29541,6 +29903,31 @@ citizen-kane-confrontation-susan-flat:
   url: /2011/08/15/citizen-kane-susan-suicide-attempt/
   category: leisure
   image: /assets/images/blog/blog-108.webp
+  lang: en
+affordable-care-act-coverage-impact:
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: affordable-care-act-later-changes
+  title: How Congress Rewrote the Affordable Care Act After Passage
+  url: /2011/07/01/affordable-care-act-later-changes/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: aca-supreme-court-challenges
+  title: Affordable Care Act Supreme Court Challenges Explained
+  url: /2011/06/01/aca-supreme-court-challenges/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
   lang: en
 citizen-kane-losing-the-election:
 - slug: citizen-kane-leland-kane-fallout
@@ -29654,6 +30041,31 @@ tcs-2011-batch-joining-dates:
   category: industry
   image: /assets/images/blog/blog-78.webp
   lang: en
+affordable-care-act-later-changes:
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: affordable-care-act-key-provisions
+  title: 'The Affordable Care Act''s Key Provisions: Duties by Party'
+  url: /2011/05/01/affordable-care-act-key-provisions/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: affordable-care-act-vote-analysis
+  title: How the Affordable Care Act Passed Without One Minority Vote
+  url: /2011/08/01/affordable-care-act-vote-analysis/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: aca-supreme-court-challenges
+  title: Affordable Care Act Supreme Court Challenges Explained
+  url: /2011/06/01/aca-supreme-court-challenges/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
 citizen-kane-leland-kane-fallout:
 - slug: citizen-kane-losing-the-election
   title: 'Citizen Kane: Losing the Election'
@@ -29703,6 +30115,31 @@ fatimid-art-and-architecture:
   url: /2012/01/01/citadel-of-cairo-history/
   category: leisure
   image: /assets/images/blog/blog-67.webp
+  lang: en
+aca-exchange-implementation-guide:
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: affordable-care-act-key-provisions
+  title: 'The Affordable Care Act''s Key Provisions: Duties by Party'
+  url: /2011/05/01/affordable-care-act-key-provisions/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: aca-supreme-court-challenges
+  title: Affordable Care Act Supreme Court Challenges Explained
+  url: /2011/06/01/aca-supreme-court-challenges/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: affordable-care-act-vote-analysis
+  title: How the Affordable Care Act Passed Without One Minority Vote
+  url: /2011/08/01/affordable-care-act-vote-analysis/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
   lang: en
 citizen-kane-susan-opera-debut:
 - slug: citizen-kane-el-rancho-nightclub
@@ -29778,6 +30215,31 @@ tcs-itis-detailed-analysis:
   url: /2019/12/18/how-can-i-check-my-tcs-nqt-results/
   category: industry
   image: /assets/images/blog/blog-51.webp
+  lang: en
+affordable-care-act-vote-analysis:
+- slug: aca-supreme-court-challenges
+  title: Affordable Care Act Supreme Court Challenges Explained
+  url: /2011/06/01/aca-supreme-court-challenges/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: affordable-care-act-later-changes
+  title: How Congress Rewrote the Affordable Care Act After Passage
+  url: /2011/07/01/affordable-care-act-later-changes/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: affordable-care-act-complete-guide
+  title: 'The Affordable Care Act: The Complete Statute Guide'
+  url: /2011/04/01/affordable-care-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: affordable-care-act-key-provisions
+  title: 'The Affordable Care Act''s Key Provisions: Duties by Party'
+  url: /2011/05/01/affordable-care-act-key-provisions/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
   lang: en
 citizen-kane-leland-drunken-review:
 - slug: citizen-kane-leland-kane-fallout
@@ -30079,6 +30541,37 @@ ayyubid-egypt-age-of-saladin:
   category: leisure
   image: /assets/images/blog/blog-102.webp
   lang: en
+clean-air-act-complete-guide:
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: clean-air-act-air-quality-impact
+  title: 'Clean Air Act: What Four Decades of Evidence Showed'
+  url: /2011/11/15/clean-air-act-air-quality-impact/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
 tcs-vs-accenture-comparison-at-granular-level:
 - slug: accenture-vs-tcs
   title: Accenture vs TCS - Employee Perspective
@@ -30179,6 +30672,31 @@ accenture-vs-mckinsey-company-inside-view:
   category: industry
   image: /assets/images/blog/blog-59.webp
   lang: en
+clean-air-act-1970-passage-history:
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 mckinsey-vs-boston-consulting-group-analysis:
 - slug: accenture-vs-mckinsey-company-inside-view
   title: Accenture vs McKinsey – Inside View
@@ -30203,6 +30721,31 @@ mckinsey-vs-boston-consulting-group-analysis:
   url: /1997/01/21/sat-cross-text-connections/
   category: industry
   image: /assets/images/blog/blog-59.webp
+  lang: en
+clean-air-act-naaqs-explained:
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: clean-air-act-air-quality-impact
+  title: 'Clean Air Act: What Four Decades of Evidence Showed'
+  url: /2011/11/15/clean-air-act-air-quality-impact/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
   lang: en
 saladin-sultan-of-egypt:
 - slug: ayyubid-egypt-age-of-saladin
@@ -30304,6 +30847,31 @@ bing-bleeding-millions-as-google-remains-at-top:
   category: leisure
   image: /assets/images/blog/blog-115.webp
   lang: en
+clean-air-act-amendments-1990:
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: clean-air-act-air-quality-impact
+  title: 'Clean Air Act: What Four Decades of Evidence Showed'
+  url: /2011/11/15/clean-air-act-air-quality-impact/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 amazing-android-app-1-gesture-search:
 - slug: ebay-search-now-directly-through-kewll
   title: eBay search now directly through Kewll
@@ -30354,6 +30922,31 @@ facebook-smileys-you-wished-to-have-forever:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
+massachusetts-v-epa-explained:
+- slug: epa-clean-air-act-rulemaking
+  title: 'How EPA Writes Clean Air Act Rules: Statute to Facility'
+  url: /2011/12/01/epa-clean-air-act-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 saladin-and-the-crusades:
 - slug: crusader-invasions-of-egypt
   title: 'Crusader Invasions of Egypt: Damietta, Mansurah and Defeat'
@@ -30378,6 +30971,31 @@ saladin-and-the-crusades:
   url: /2011/12/01/how-saladin-ended-fatimids/
   category: leisure
   image: /assets/images/blog/blog-102.webp
+  lang: en
+clean-air-act-air-quality-impact:
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
   lang: en
 what-do-you-need-to-get-hired-at-amazon:
 - slug: is-it-hard-to-get-hired-on-at-amazon
@@ -30404,6 +31022,31 @@ what-do-you-need-to-get-hired-at-amazon:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+epa-clean-air-act-rulemaking:
+- slug: massachusetts-v-epa-explained
+  title: Massachusetts v. EPA and the Clean Air Act Doctrine
+  url: /2011/11/01/massachusetts-v-epa-explained/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 how-saladin-ended-fatimids:
 - slug: ayyubid-egypt-age-of-saladin
   title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
@@ -30428,6 +31071,37 @@ how-saladin-ended-fatimids:
   url: /2011/03/01/shia-islam-and-fatimid-caliphate/
   category: leisure
   image: /assets/images/blog/blog-86.webp
+  lang: en
+clean-air-act-vs-clean-water-act:
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: clean-air-act-air-quality-impact
+  title: 'Clean Air Act: What Four Decades of Evidence Showed'
+  url: /2011/11/15/clean-air-act-air-quality-impact/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: safe-drinking-water-act-guide
+  title: 'Safe Drinking Water Act: Tap Water Standards Explained Guide'
+  url: /2012/04/15/safe-drinking-water-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
   lang: en
 is-it-hard-to-apply-at-amazon:
 - slug: is-it-hard-to-get-hired-at-amazon
@@ -30478,6 +31152,37 @@ citadel-of-cairo-history:
   url: /2012/03/01/ayyubid-economy-spice-trade/
   category: leisure
   image: /assets/images/blog/blog-22.webp
+  lang: en
+us-environmental-laws-1970s:
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: clean-air-act-air-quality-impact
+  title: 'Clean Air Act: What Four Decades of Evidence Showed'
+  url: /2011/11/15/clean-air-act-air-quality-impact/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: superfund-cercla-sara-amendments
+  title: 'Superfund Cleanup Law: CERCLA, SARA and the TRI Story'
+  url: /2012/06/01/superfund-cercla-sara-amendments/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
   lang: en
 hafiz-saeed-complete-profile:
 - slug: lashkar-e-taiba-complete-guide
@@ -30571,6 +31276,31 @@ onsite-and-the-ghost-in-the-it-industry:
   url: /2022/07/19/the-virtual-web3-paradise/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+teaching-us-environmental-law:
+- slug: civil-rights-act-vs-voting-rights-act
+  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
+  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: endangered-species-act-1973-guide
+  title: 'The Endangered Species Act: A Complete Guide to the Law'
+  url: /2012/03/01/endangered-species-act-1973-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: clean-water-act-1972-complete-guide
+  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
+  url: /2012/02/15/clean-water-act-1972-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
   lang: en
 good-looks-pay-off-in-the-outsourcing-world:
 - slug: why-do-one-blog
@@ -30797,6 +31527,31 @@ crusader-invasions-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
+national-environmental-policy-act-guide:
+- slug: nepa-environmental-impact-statement
+  title: 'Environmental Impact Statement: How NEPA Reviews Work'
+  url: /2012/04/01/nepa-environmental-impact-statement/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: us-environmental-laws-1970s
+  title: 'US Environmental Laws: How One Decade Rebuilt Federal Power'
+  url: /2012/01/01/us-environmental-laws-1970s/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
 lashkar-e-taiba-complete-guide:
 - slug: hafiz-saeed-complete-profile
   title: Hafiz Saeed Complete Profile
@@ -30846,6 +31601,31 @@ jaish-e-mohammed-complete-guide:
   url: /2012/03/23/isi-terror-nexus-explained/
   category: industry
   image: /assets/images/blog/blog-18.webp
+  lang: en
+clean-water-act-1972-complete-guide:
+- slug: endangered-species-act-1973-guide
+  title: 'The Endangered Species Act: A Complete Guide to the Law'
+  url: /2012/03/01/endangered-species-act-1973-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: teaching-us-environmental-law
+  title: 'Teaching US Environmental Law: A Complete Classroom Guide'
+  url: /2012/01/15/teaching-us-environmental-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: clean-water-act-section-404-permits
+  title: 'Section 404 Wetlands Permits: Clean Water Act Permit Guide'
+  url: /2012/05/15/clean-water-act-section-404-permits/
+  category: industry
+  image: /assets/images/blog/blog-23.webp
   lang: en
 hizbul-mujahideen-complete-guide:
 - slug: syed-salahuddin-complete-profile
@@ -31003,6 +31783,37 @@ ayyubid-economy-spice-trade:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+endangered-species-act-1973-guide:
+- slug: clean-water-act-1972-complete-guide
+  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
+  url: /2012/02/15/clean-water-act-1972-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: teaching-us-environmental-law
+  title: 'Teaching US Environmental Law: A Complete Classroom Guide'
+  url: /2012/01/15/teaching-us-environmental-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: endangered-species-act-myths
+  title: 'Endangered Species Act Myths: Examined and Corrected'
+  url: /2012/06/15/endangered-species-act-myths/
+  category: industry
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: tva-v-hill-snail-darter-case
+  title: 'TVA v. Hill: The Snail Darter Case That Changed Everything'
+  url: /2012/03/15/tva-v-hill-snail-darter-case/
+  category: industry
+  image: /assets/images/blog/blog-92.webp
+  lang: en
 amazon-warehouse-jobs-near-me:
 - slug: amazon-warehouse-near-me
   title: Amazon warehouse near me
@@ -31078,6 +31889,31 @@ khalistan-commando-force-explained:
   category: industry
   image: /assets/images/blog/blog-105.webp
   lang: en
+tva-v-hill-snail-darter-case:
+- slug: endangered-species-act-1973-guide
+  title: 'The Endangered Species Act: A Complete Guide to the Law'
+  url: /2012/03/01/endangered-species-act-1973-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: civil-rights-act-supreme-court-cases
+  title: The Cases That Shaped the Civil Rights Act
+  url: /2010/03/01/civil-rights-act-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: aca-supreme-court-challenges
+  title: Affordable Care Act Supreme Court Challenges Explained
+  url: /2011/06/01/aca-supreme-court-challenges/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 khalistan-tiger-force-explained:
 - slug: hardeep-singh-nijjar-ktf-canada
   title: Hardeep Singh Nijjar KTF Canada
@@ -31150,6 +31986,31 @@ pakistan-terror-safe-haven-network:
 - slug: rawalpindi-military-terror-nexus
   title: Rawalpindi Military Terror Nexus
   url: /2018/07/23/rawalpindi-military-terror-nexus/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+nepa-environmental-impact-statement:
+- slug: national-environmental-policy-act-guide
+  title: National Environmental Policy Act Guide to Federal Review
+  url: /2012/02/01/national-environmental-policy-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: epa-clean-air-act-rulemaking
+  title: 'How EPA Writes Clean Air Act Rules: Statute to Facility'
+  url: /2011/12/01/epa-clean-air-act-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: us-environmental-laws-1970s
+  title: 'US Environmental Laws: How One Decade Rebuilt Federal Power'
+  url: /2012/01/01/us-environmental-laws-1970s/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: clean-air-act-naaqs-explained
+  title: National Ambient Air Quality Standards and the Clean Air Act
+  url: /2011/10/01/clean-air-act-naaqs-explained/
   category: industry
   image: /assets/images/blog/blog-64.webp
   lang: en
@@ -31227,6 +32088,31 @@ madrassa-militant-pipeline-pakistan:
   url: /2018/10/01/terror-training-camps-mapped/
   category: industry
   image: /assets/images/blog/blog-57.webp
+  lang: en
+safe-drinking-water-act-guide:
+- slug: clean-air-act-vs-clean-water-act
+  title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
+  url: /2011/12/15/clean-air-act-vs-clean-water-act/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: clean-air-act-air-quality-impact
+  title: 'Clean Air Act: What Four Decades of Evidence Showed'
+  url: /2011/11/15/clean-air-act-air-quality-impact/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
   lang: en
 pakistan-army-terror-leadership:
 - slug: isi-terror-nexus-explained
@@ -31334,6 +32220,31 @@ terror-leaders-still-at-large:
   category: industry
   image: /assets/images/blog/blog-24.webp
   lang: en
+clean-water-act-outcomes:
+- slug: clean-water-act-1972-complete-guide
+  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
+  url: /2012/02/15/clean-water-act-1972-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: clean-air-act-complete-guide
+  title: 'The Clean Air Act: The Complete Guide to the Statute'
+  url: /2011/09/01/clean-air-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: us-environmental-laws-1970s
+  title: 'US Environmental Laws: How One Decade Rebuilt Federal Power'
+  url: /2012/01/01/us-environmental-laws-1970s/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 saladin-hero-or-conqueror:
 - slug: ayyubid-egypt-age-of-saladin
   title: 'Ayyubid Egypt: The Base From Which Saladin Counterattacked'
@@ -31439,6 +32350,31 @@ dropbox-vs-google-drive-the-war-begins:
   url: /2011/10/14/bing-bleeding-millions-as-google-remains-at-top/
   category: leisure
   image: /assets/images/blog/blog-109.webp
+  lang: en
+clean-water-act-section-404-permits:
+- slug: clean-water-act-1972-complete-guide
+  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
+  url: /2012/02/15/clean-water-act-1972-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: clean-water-act-outcomes
+  title: Did the Clean Water Act Clean the Water? Impact, Outcomes
+  url: /2012/05/01/clean-water-act-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: us-environmental-laws-1970s
+  title: 'US Environmental Laws: How One Decade Rebuilt Federal Power'
+  url: /2012/01/01/us-environmental-laws-1970s/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
   lang: en
 pathankot-airbase-attack-explained:
 - slug: pulwama-attack-2019-explained
@@ -31546,6 +32482,31 @@ legacy-of-saladin-in-egypt:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
+superfund-cercla-sara-amendments:
+- slug: us-environmental-laws-1970s
+  title: 'US Environmental Laws: How One Decade Rebuilt Federal Power'
+  url: /2012/01/01/us-environmental-laws-1970s/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: clean-water-act-1972-complete-guide
+  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
+  url: /2012/02/15/clean-water-act-1972-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: clean-air-act-1970-passage-history
+  title: How the Clean Air Act of 1970 Passed Through Congress
+  url: /2011/09/15/clean-air-act-1970-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: endangered-species-act-1973-guide
+  title: 'The Endangered Species Act: A Complete Guide to the Law'
+  url: /2012/03/01/endangered-species-act-1973-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
 pahalgam-attack-2025-explained:
 - slug: pahalgam-attack-minute-by-minute
   title: Pahalgam Attack Minute by Minute
@@ -31645,6 +32606,31 @@ dhangri-terror-attack-explained:
   url: /2012/06/03/pahalgam-attack-2025-explained/
   category: industry
   image: /assets/images/blog/blog-75.webp
+  lang: en
+endangered-species-act-myths:
+- slug: endangered-species-act-1973-guide
+  title: 'The Endangered Species Act: A Complete Guide to the Law'
+  url: /2012/03/01/endangered-species-act-1973-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: clean-water-act-1972-complete-guide
+  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
+  url: /2012/02/15/clean-water-act-1972-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: national-environmental-policy-act-guide
+  title: National Environmental Policy Act Guide to Federal Review
+  url: /2012/02/01/national-environmental-policy-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: clean-air-act-amendments-1990
+  title: 'The 1990 Clean Air Act Amendments: What Changed and Why'
+  url: /2011/10/15/clean-air-act-amendments-1990/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
   lang: en
 harry-potter-complete-character-analysis:
 - slug: harry-potter-vs-voldemort-character-comparison
@@ -31802,6 +32788,31 @@ mamluk-sultanate-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-82.webp
   lang: en
+social-security-amendments-history:
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: social-security-amendments-1983
+  title: 'Social Security Amendments: The Backchannel Rescue Deal'
+  url: /2012/08/01/social-security-amendments-1983/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: social-security-poverty-impact
+  title: 'How Social Security Cut Elderly Poverty: Evidence and Limits'
+  url: /2012/09/15/social-security-poverty-impact/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: ssa-benefit-administration-law
+  title: How Social Security disability benefits reach claimants
+  url: /2012/10/01/ssa-benefit-administration-law/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 voldemort-tom-riddle-complete-character-analysis:
 - slug: harry-potter-vs-voldemort-character-comparison
   title: 'Harry Potter vs Voldemort: Full Character Comparison'
@@ -31932,6 +32943,31 @@ balakot-airstrike-2019-explained:
   url: /2012/12/16/india-shadow-war-against-terror-explained/
   category: industry
   image: /assets/images/blog/blog-79.webp
+  lang: en
+erisa-1974-complete-guide:
+- slug: pension-protection-act-2006-guide
+  title: 'Pension Protection Act: How Default Rules Rewrote Retirement'
+  url: /2012/09/01/pension-protection-act-2006-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: us-health-legislation-since-1950
+  title: 'US Health Legislation Since 1950: Six Decades of Law'
+  url: /2011/03/15/us-health-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: medicare-parts-a-b-statute-explained
+  title: 'Medicare Parts A and B: What the Statute Actually Covers'
+  url: /2010/12/01/medicare-parts-a-b-statute-explained/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: aca-exchange-implementation-guide
+  title: 'Health Insurance Exchanges: Building the ACA Marketplaces'
+  url: /2011/07/15/aca-exchange-implementation-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
   lang: en
 sirius-black-complete-character-analysis:
 - slug: james-potter-complete-character-analysis
@@ -32088,6 +33124,31 @@ india-pakistan-2025-conflict-timeline:
   url: /2018/06/18/will-india-pakistan-fight-again/
   category: industry
   image: /assets/images/blog/blog-100.webp
+  lang: en
+social-security-amendments-1983:
+- slug: medicare-1965-passage-history
+  title: 'How Medicare Passed Congress: The 1965 Three-Layer Cake Deal'
+  url: /2010/11/15/medicare-1965-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: social-security-amendments-history
+  title: How Social Security Amendments Built the Modern Program
+  url: /2012/07/01/social-security-amendments-history/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: social-security-poverty-impact
+  title: 'How Social Security Cut Elderly Poverty: Evidence and Limits'
+  url: /2012/09/15/social-security-poverty-impact/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
   lang: en
 who-were-the-mamluks:
 - slug: egypt-under-ottoman-rule
@@ -32250,6 +33311,31 @@ india-defense-doctrine-post-pahalgam:
   url: /2018/01/15/india-response-pahalgam-14-days/
   category: industry
   image: /assets/images/blog/blog-02.webp
+  lang: en
+supplemental-security-income-1972:
+- slug: ssa-benefit-administration-law
+  title: How Social Security disability benefits reach claimants
+  url: /2012/10/01/ssa-benefit-administration-law/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: medicaid-statute-structure-explained
+  title: 'The Medicaid Statute Explained: How Title XIX Actually Works'
+  url: /2011/02/01/medicaid-statute-structure-explained/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: social-security-amendments-history
+  title: How Social Security Amendments Built the Modern Program
+  url: /2012/07/01/social-security-amendments-history/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: medicare-vs-medicaid-legal-difference
+  title: 'Medicare vs Medicaid: The Legal Difference Explained'
+  url: /2011/03/01/medicare-vs-medicaid-legal-difference/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
   lang: en
 minerva-mcgonagall-complete-character-analysis:
 - slug: harry-potter-mcgonagall-vs-umbridge-comparison
@@ -32463,6 +33549,31 @@ battle-of-ayn-jalut-mongols:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+pension-protection-act-2006-guide:
+- slug: erisa-1974-complete-guide
+  title: 'ERISA: How a Pension Statute Became America''s Health Law'
+  url: /2012/07/15/erisa-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: secure-act-retirement-law-changes
+  title: 'SECURE Act Retirement Changes: How Two Acts Reshaped Saving'
+  url: /2012/11/01/secure-act-retirement-law-changes/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: affordable-care-act-later-changes
+  title: How Congress Rewrote the Affordable Care Act After Passage
+  url: /2011/07/01/affordable-care-act-later-changes/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: clean-water-act-outcomes
+  title: Did the Clean Water Act Clean the Water? Impact, Outcomes
+  url: /2012/05/01/clean-water-act-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
 dolores-umbridge-complete-character-analysis:
 - slug: kingsley-shacklebolt-complete-character-analysis
   title: 'Kingsley Shacklebolt Analysis: Quiet Authority'
@@ -32562,6 +33673,31 @@ fred-george-weasley-complete-character-analysis:
   url: /2013/02/12/bill-weasley-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-21.webp
+  lang: en
+social-security-poverty-impact:
+- slug: medicare-impact-elderly-poverty
+  title: 'Medicare Elderly Poverty: What the Evidence Measures'
+  url: /2011/01/15/medicare-impact-elderly-poverty/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: teaching-social-security-policy
+  title: 'Teaching Social Security Policy: Classroom Study Guide'
+  url: /2012/11/15/teaching-social-security-policy/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: ssa-benefit-administration-law
+  title: How Social Security disability benefits reach claimants
+  url: /2012/10/01/ssa-benefit-administration-law/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: social-security-amendments-history
+  title: How Social Security Amendments Built the Modern Program
+  url: /2012/07/01/social-security-amendments-history/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
   lang: en
 tcs-2012-batch-joining-dates:
 - slug: tcs-joining-date-2009-batch
@@ -32738,6 +33874,31 @@ dobby-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-71.webp
   lang: en
+ssa-benefit-administration-law:
+- slug: supplemental-security-income-1972
+  title: 'Supplemental Security Income: The Surviving Fragment'
+  url: /2012/08/15/supplemental-security-income-1972/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: social-security-poverty-impact
+  title: 'How Social Security Cut Elderly Poverty: Evidence and Limits'
+  url: /2012/09/15/social-security-poverty-impact/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: social-security-amendments-history
+  title: How Social Security Amendments Built the Modern Program
+  url: /2012/07/01/social-security-amendments-history/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: teaching-social-security-policy
+  title: 'Teaching Social Security Policy: Classroom Study Guide'
+  url: /2012/11/15/teaching-social-security-policy/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
 india-pakistan-diplomatic-crisis-history:
 - slug: article-370-revocation-impact
   title: Article 370 Revocation Consequences
@@ -32862,6 +34023,31 @@ is-it-hard-to-get-hired-on-at-amazon:
   url: /2013/09/19/is-amazon-hard-to-get-hired/
   category: industry
   image: /assets/images/blog/blog-50.webp
+  lang: en
+pension-vs-401k-law-shift:
+- slug: civil-rights-act-1964-titles-explained
+  title: The Civil Rights Act of 1964 Title by Title
+  url: /2010/02/01/civil-rights-act-1964-titles-explained/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: title-vii-eeoc-enforcement-guide
+  title: Title VII and the EEOC in Practice
+  url: /2010/02/15/title-vii-eeoc-enforcement-guide/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: tcs-itis-and-itis-frequently-asked-questions
+  title: TCS iTIS and iON Platforms - FAQ Guide
+  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
   lang: en
 peter-pettigrew-complete-character-analysis:
 - slug: harry-potter-loyalty-betrayal-analysis
@@ -33013,6 +34199,31 @@ mamluk-egypt-world-trade:
   category: leisure
   image: /assets/images/blog/blog-82.webp
   lang: en
+secure-act-retirement-law-changes:
+- slug: pension-protection-act-2006-guide
+  title: 'Pension Protection Act: How Default Rules Rewrote Retirement'
+  url: /2012/09/01/pension-protection-act-2006-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: national-voter-registration-act-1993
+  title: 'National Voter Registration Act: The Motor Voter Law'
+  url: /2010/09/15/national-voter-registration-act-1993/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: voting-rights-act-registration-impact
+  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
+  url: /2010/08/15/voting-rights-act-registration-impact/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: teaching-voting-rights-act-guide
+  title: 'Teaching the Voting Rights Act: A Complete Classroom Guide'
+  url: /2010/10/15/teaching-voting-rights-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 nymphadora-tonks-complete-character-analysis:
 - slug: luna-lovegood-complete-character-analysis
   title: 'Luna Lovegood Character Analysis: Truth Beyond Reason'
@@ -33137,6 +34348,31 @@ hedwig-complete-character-analysis:
   url: /2013/01/18/james-potter-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-75.webp
+  lang: en
+teaching-social-security-policy:
+- slug: social-security-poverty-impact
+  title: 'How Social Security Cut Elderly Poverty: Evidence and Limits'
+  url: /2012/09/15/social-security-poverty-impact/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: ssa-benefit-administration-law
+  title: How Social Security disability benefits reach claimants
+  url: /2012/10/01/ssa-benefit-administration-law/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: social-security-amendments-history
+  title: How Social Security Amendments Built the Modern Program
+  url: /2012/07/01/social-security-amendments-history/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: teaching-voting-rights-act-guide
+  title: 'Teaching the Voting Rights Act: A Complete Classroom Guide'
+  url: /2010/10/15/teaching-voting-rights-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
   lang: en
 gilderoy-lockhart-complete-character-analysis:
 - slug: ginny-weasley-complete-character-analysis
@@ -33312,6 +34548,31 @@ black-death-in-mamluk-egypt:
   url: /2013/04/01/ottoman-conquest-of-mamluk-egypt/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+immigration-nationality-act-1965-guide:
+- slug: voting-rights-act-1965-passage-history
+  title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
+  url: /2010/06/15/voting-rights-act-1965-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: social-security-amendments-1983
+  title: 'Social Security Amendments: The Backchannel Rescue Deal'
+  url: /2012/08/01/social-security-amendments-1983/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: clean-water-act-1972-complete-guide
+  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
+  url: /2012/02/15/clean-water-act-1972-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: medicare-1965-passage-history
+  title: 'How Medicare Passed Congress: The 1965 Three-Layer Cake Deal'
+  url: /2010/11/15/medicare-1965-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
   lang: en
 cornelius-fudge-complete-character-analysis:
 - slug: rufus-scrimgeour-complete-character-analysis
@@ -54331,6 +55592,12 @@ tcs-to-oxford-harvard-transition-guide:
   category: industry
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: how-to-prepare-for-cat-exam-complete-guide
+  title: 'The Definitive Guide to Cracking CAT: Strategic Path for MBA Aspirants'
+  url: /2026/03/08/how-to-prepare-for-cat-exam-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 scream-craven-meta-horror-revival:
 - slug: hereditary-aster-elevated-horror
   title: Hereditary and the Elevated Horror Movement
@@ -75305,12 +76572,6 @@ infytq-preparation-complete-guide:
   category: industry
   image: /assets/images/blog/blog-75.webp
   lang: en
-- slug: tcs-itis-and-itis-frequently-asked-questions
-  title: TCS iTIS and iON Platforms - FAQ Guide
-  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
-  category: industry
-  image: /assets/images/blog/blog-06.webp
-  lang: en
 - slug: infosys-coding-questions
   title: 'Infosys Coding Questions: Complete Programming Test Guide'
   url: /2021/08/30/infosys-coding-questions/
@@ -75322,6 +76583,12 @@ infytq-preparation-complete-guide:
   url: /2021/09/23/infosys-springboard-guide/
   category: industry
   image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
+  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
+  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
   lang: en
 aks-microservices-architecture:
 - slug: configure-aks-ingress-tls
@@ -84225,17 +85492,17 @@ best-free-online-tools-for-chromebook-students:
   category: industry
   image: /assets/images/blog/blog-85.webp
   lang: en
+- slug: teaching-social-security-policy
+  title: 'Teaching Social Security Policy: Classroom Study Guide'
+  url: /2012/11/15/teaching-social-security-policy/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
 - slug: harvard-neighborhoods-guide-students
   title: Harvard Neighborhoods Guide for Students
   url: /2019/03/04/harvard-neighborhoods-guide-students/
   category: industry
   image: /assets/images/blog/blog-36.webp
-  lang: en
-- slug: how-to-prepare-for-cat-exam-complete-guide
-  title: 'The Definitive Guide to Cracking CAT: Strategic Path for MBA Aspirants'
-  url: /2026/03/08/how-to-prepare-for-cat-exam-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-96.webp
   lang: en
 gaokao-geography-preparation-guide:
 - slug: gaokao-chemistry-preparation-guide

@@ -4,11 +4,11 @@ title: "IE6 usage at 4.7%, IE8 up at 30%, browsers lookout!"
 date: 2010-08-10
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "The IE6 had been a worry for many web developers till now, but in the last one year, its usage has dropped by around 7%. So it's really a cause of..."
+excerpt: "IE6 usage drops to 4.7% while IE8 rises to 30%. Browser market share shifts that signal the slow death of web developers' biggest nightmare."
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 1
 author: "rachel-foster"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 The IE6 had been a worry for many web developers till now, but in the last one year, its usage has dropped by around 7%. So it's really a cause of cheering amongst them, not to forget Microsoft too. IE8 usage has been pretty decently rising, with 30% of the market share being held by it in the US.

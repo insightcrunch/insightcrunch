@@ -5,11 +5,11 @@ page_title: "TCS Batch Community - How to Connect with Fellow Recruits, Build Ne
 date: 2011-02-19
 categories: ["Industry"]
 tags: ["TCS", "Batch Community", "Networking", "Peer Support"]
-excerpt: "The rocking Facebook community is soon going to replace the Orkut community I presume. Just click here in the 'Like' buttons and you will be on your way..."
+excerpt: "TCS 2011 batch Facebook community: the go-to place for freshers to connect, share joining updates, discuss ILP, and find batchmates before Day 1."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 45
 author: "nikhil-tiwari"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 When the first TCS batch communities appeared on Orkut, nobody planned them. There was no HR directive, no official launch, no welcome email pointing freshers to a group page. A few anxious candidates who had received offer letters but had no idea when they would join, no idea where they would be trained, and no one obvious to ask - found each other on the internet, created a group, and started talking. Within weeks, thousands of people who had never met were sharing study materials, swapping information about joining dates, consoling each other through delays, and building something that would matter to them for years.

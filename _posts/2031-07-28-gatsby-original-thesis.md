@@ -9,7 +9,7 @@ excerpt: "Building an original thesis about Gatsby means mastering the scholarsh
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2031-07-28
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Whole Series in Service of One New Sentence

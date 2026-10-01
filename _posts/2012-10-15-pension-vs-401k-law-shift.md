@@ -9,7 +9,7 @@ excerpt: "A history of how Congress moved retirement risk from employers to work
 image: "/assets/images/blog/blog-65.webp"
 reading_time: "65"
 author: "gregory-marsh"
-last_updated: "2012-10-15"
+last_updated: 2026-10-01
 lang: en
 ---
 Every month, the same blunt question gets typed into search boxes hundreds of thousands of times, phrased a dozen different ways: pension vs 401(k), which one is better, and why did the better one vanish? The person typing it is often a mid-career worker holding two different promises from two different employers, one a guaranteed monthly check and the other an account balance that rises and falls with the market. Sometimes the searcher is a student writing a paper on economic inequality, or a journalist looking for a clean explanation of a transformation that played out over four decades. All of them want a verdict. Before any verdict is defensible, though, the two models have to be described as machines, because pensions and 401(k) plans do not merely pay different amounts. They assign investment risk, longevity risk, and legal obligation to different parties, and Congress spent half a century rewriting those assignments one statute at a time.

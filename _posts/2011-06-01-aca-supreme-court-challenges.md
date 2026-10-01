@@ -9,7 +9,7 @@ excerpt: "Seven Supreme Court cases tested the Affordable Care Act in turn. Each
 image: "/assets/images/blog/blog-78.webp"
 reading_time: "69"
 author: "hannah-moore"
-last_updated: "2011-06-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## Seven Cases, One Statute: How the Affordable Care Act Reached the Supreme Court

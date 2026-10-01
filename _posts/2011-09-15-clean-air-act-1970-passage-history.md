@@ -3,7 +3,7 @@ layout: "post"
 title: "How the Clean Air Act of 1970 Passed Through Congress"
 page_title: "Clean Air Act Passage History: Rivalry, Deadlines, and the Votes That Enacted the Law"
 date: "2011-09-15"
-last_updated: "2011-09-15"
+last_updated: 2026-10-01
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Environmental Law", "Congressional History", "Edmund Muskie", "Richard Nixon"]
 excerpt: "Clean Air Act passage history: how a rivalry for ownership pushed the bill toward stringency and produced a statute stronger than either side first proposed."

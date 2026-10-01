@@ -4,11 +4,11 @@ title: "Love to forward mails to a lot of friends? Make Gmail Contact Groups"
 date: 2010-11-16
 categories: ["Leisure"]
 tags: ["Google", "The Web"]
-excerpt: "This will let you mail a lot of your friends by mailing your favorite article to just one single id. This is going to be really useful to you. Instead of..."
+excerpt: "How to create Gmail contact groups for bulk forwarding. Send emails to dozens of friends using a single group address instead of typing each one."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 1
 author: "benjamin-scott"
-last_updated: 2026-04-01
+last_updated: 2026-10-01
 lang: en
 ---
 This will let you mail a lot of your friends by mailing your favorite article to just one single id. This is going to be really useful to you. Instead of typing the emails of your friends one by one you will get to send your mail to them just by one click.

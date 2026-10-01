@@ -9,7 +9,7 @@ excerpt: "Social Security disability benefits are defined by statute but deliver
 image: "/assets/images/blog/blog-64.webp"
 reading_time: "69"
 author: "james-carter"
-last_updated: "2012-10-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Agency Behind the Benefit: From Statute to Decision

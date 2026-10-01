@@ -8,7 +8,7 @@ excerpt: "CMS Medicare rules turn statutes into payment rates and coverage decis
 image: "/assets/images/blog/blog-106.webp"
 reading_time: "78"
 author: "insight-crunch-team"
-last_updated: "2011-02-15"
+last_updated: 2026-10-01
 tags: ["US Legislation", "CMS", "Medicare", "Rulemaking", "Administrative Law", "Coverage Determinations", "Appeals"]
 lang: en
 ---

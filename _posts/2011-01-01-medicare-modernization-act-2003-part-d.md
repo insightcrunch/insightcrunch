@@ -9,7 +9,7 @@ excerpt: "Medicare Part D covers outpatient drugs through private plans, with a 
 image: "/assets/images/blog/blog-28.webp"
 reading_time: "70"
 author: "michael-brooks"
-last_updated: "2011-01-01"
+last_updated: 2026-10-01
 lang: en
 ---
 On December 8, 2003, President George W. Bush signed the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, Public Law 108-173, and Medicare Part D entered the statute books. For the first time, Medicare would cover outpatient prescription drugs for its roughly 40 million beneficiaries. The benefit was voluntary, carried a monthly premium, and did not take effect until January 1, 2006, a full two years after enactment. Lawmakers had debated adding drug coverage to Medicare for decades. The 2003 law ended the debate by writing a new Part D into title XVIII of the Social Security Act. The more consequential decision, though, was not the decision to add a drug benefit. It was the decision about how to deliver it.

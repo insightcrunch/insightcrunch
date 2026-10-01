@@ -9,7 +9,7 @@ excerpt: "The Clean Water Act explained: the discharge ban, the permit system, t
 image: "/assets/images/blog/blog-90.webp"
 reading_time: "70"
 author: "christopher-wells"
-last_updated: "2012-02-15"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The Question the Clean Water Act Answers

@@ -9,7 +9,7 @@ excerpt: "The full history of Social Security amendments: coverage expansion, di
 image: "/assets/images/blog/blog-86.webp"
 reading_time: "77"
 author: "maria-santos"
-last_updated: "2012-07-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## The question the Social Security amendments answer

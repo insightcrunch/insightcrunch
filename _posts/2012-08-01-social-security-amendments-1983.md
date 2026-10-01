@@ -9,7 +9,7 @@ excerpt: "The Social Security Amendments rescue is credited to a commission that
 image: "/assets/images/blog/blog-42.webp"
 reading_time: "70"
 author: "gregory-marsh"
-last_updated: "2012-08-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## Why the 1983 rescue is the template every divided government reaches for

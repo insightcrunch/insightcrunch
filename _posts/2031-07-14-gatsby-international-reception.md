@@ -9,7 +9,7 @@ excerpt: "The reception of Gatsby outside the United States varies by nation: Br
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 68
 author: "amanda-ross"
-last_updated: 2031-07-14
+last_updated: 2026-10-01
 lang: en
 ---
 ## A National Novel Read by Other Nations' Scholars

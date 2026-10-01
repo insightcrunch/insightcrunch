@@ -9,7 +9,7 @@ excerpt: "The SECURE Act and its sequel rewrote retirement law, moving distribut
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 68
 author: "christopher-wells"
-last_updated: "2012-11-01"
+last_updated: 2026-10-01
 lang: en
 ---
 ## Two Acts, One December Vehicle: The Statute That Rewrote American Retirement

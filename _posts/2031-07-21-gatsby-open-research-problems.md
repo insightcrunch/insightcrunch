@@ -9,7 +9,7 @@ excerpt: "Open research problems in Gatsby studies mark where the work still wai
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2031-07-21
+last_updated: 2026-10-01
 lang: en
 ---
 A century of scholarship has not finished The Great Gatsby. That is the first thing to say, because the standing assumption about a novel published in 1925 is that every serious question about it has been asked, answered, and filed away. The assumption feels reasonable. The novel is short, the criticism fills shelves, and the classroom repeats the same themes until they sound exhausted. But the open research problems in Gatsby studies are not the leftovers of a picked-over field. They are the questions that the century of scholarship, by its own progress, has brought into view: textual puzzles that only matter once the text is stable, theoretical inquiries that only arise once the standard lenses have done their work, reception gaps that only become visible once the canon is mapped, and digital frontiers that only became askable when the methods matured. Where the work still waits is the claim this article defends, and the map below makes the claim checkable, problem by problem, across four strands of study.
