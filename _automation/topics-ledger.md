@@ -1,1 +1,2 @@
 2026-10-03 | how-government-cash-payments-work | Economics and markets | how do stimulus checks work | When governments send cash directly to citizens, how does it work and does it achieve what it promises? | Industry | economics-cash-payments
+2026-10-03 | how-deportation-united-states-works | Law and courts | Analytics | 18559 | 78 | 20 | SCOTUS Sept 29 2026 third-country deportations order (signal only, never in article) | When the United States removes a noncitizen, what is the legal process, who decides at each stage, and what rights and defenses apply along the way?
