@@ -6,18 +6,17 @@ date: 2026-10-03
 categories: ["Analytics"]
 tags: ["Immigration Law", "Deportation Law", "Immigration and Nationality Act", "Asylum", "Supreme Court", "Constitutional Law", "US Legislation"]
 excerpt: "How deportation works in the United States: removal tracks, immigration court hearings, detention and bond, defenses, appeals, and execution of orders."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2026-10-03
+lang: en
 ---
-
-
 ## The One-Paragraph Answer
 
 The short answer to the question of how does deportation work begins with a correction. Deportation in the United States is not a single act but a sequence of legal gates, and almost every hard question in immigration enforcement is a fight about which gate a person passes through and what proof each gate demands. The sequence runs from identification, through a formal charge, a hearing before an adjudicator, and a full chance to contest the charge and seek protection under the law, and it ends only when an order becomes final, survives every level of review, and is carried out. Each gate has its own decision maker, evidence rule, and standard of proof.
 
-![Deportation proceedings explained: the five removal tracks and legal gates under United States federal immigration law](/assets/images/blog/blog-01.webp)
+![Deportation proceedings explained: the five removal tracks and legal gates under United States federal immigration law](/assets/images/blog/blog-79.webp)
 
 Under United States federal immigration law the charge takes the form of the Notice to Appear, the document created by INA 239. The notice lays out the factual allegations and legal grounds, and it is filed with the Executive Office for Immigration Review, the adjudication body inside the Department of Justice. Immigration judges, attorneys employed by the Department of Justice rather than Article III judges of the federal courts, hear the cases. That placement decides who selects the adjudicators and where appeals travel.
 
