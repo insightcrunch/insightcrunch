@@ -1,0 +1,1 @@
+2026-10-03 | how-government-cash-payments-work | Economics and markets | Industry | 15089 | 64 | 20 | Trump $90 Medicare senior payments announcement Oct 2 2026 (signal only, never in article) | When governments send cash directly to citizens, how does it work and does it achieve what it promises?

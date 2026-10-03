@@ -1,0 +1,1 @@
+2026-10-03 | how-government-cash-payments-work | Economics and markets | how do stimulus checks work | When governments send cash directly to citizens, how does it work and does it achieve what it promises? | Industry | economics-cash-payments
