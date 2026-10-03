@@ -6,17 +6,17 @@ date: 2026-10-03
 categories: ["Industry"]
 tags: ["stimulus-checks", "cash-transfers", "fiscal-policy", "economic-history", "poverty", "alaska-permanent-fund", "tax-rebates"]
 excerpt: "Stimulus checks move treasury cash to households. This is how the payments are designed and delivered, and what decades of evidence say about whether they work."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 64
-author: "benjamin-scott"
+author: "Insight Crunch Team"
 last_updated: 2026-10-03
-lang: en
 ---
+
 ## The One-Sentence Answer
 
 When a government sends a stimulus check, the treasury moves money to households through the tax system. Eligibility is set by law, the revenue agency matches names to bank accounts or mailing addresses, and the payment arrives as a direct deposit, a paper check, or a prepaid debit card. Direct cash payments work as economic policy precisely to the extent that they are boring. The checks that changed household outcomes were the ones delivered fast, universally, and without conditions, while every clever targeting scheme added administrative cost, delay, and exclusion errors. What follows traces the full machinery behind the payments, from the 1960s proposal that started the modern argument to the programs that tested it at continental scale, and sets out what five decades of evidence say about when the money helps and when it does not.
 
-![A conceptual illustration of government cash payments flowing to households - Insight Crunch](/assets/images/blog/blog-15.webp)
+![A conceptual illustration of government cash payments flowing to households - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 The question matters because the check is the most legible thing a government can do. A tax credit hides inside a filing. A program hides inside an agency. A check arrives with a name on it, and the household that receives it can say exactly what the government did. That legibility is why the payments are popular, why they are contested, and why they keep returning in every downturn. The modern era has made them routine rather than exceptional. Between 2001 and 2021, the United States sent four major rounds of federal payments to most households, Alaska has paid its dividend every year since 1982, and countries from Iran to Kenya have run national-scale cash programs. Each episode added to a body of evidence that now spans randomized experiments, administrative datasets covering hundreds of millions of payments, and five decades of program history. Understanding the payments means understanding three things at once: the plumbing that moves the money, the economics of what households do with it, and the politics of why it keeps being sent.
 
