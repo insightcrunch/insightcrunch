@@ -7,16 +7,16 @@ last_updated: "2013-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration", "Supreme Court", "Constitutional Law", "Congress", "Study Guides"]
 excerpt: "Immigration law in the Supreme Court runs on the plenary power doctrine. This guide traces the doctrine from its roots and states each holding that governs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: "85"
-author: "Insight Crunch Team"
+author: "william-knight"
+lang: en
 ---
-
 ## Why Immigration Law in the Supreme Court Works Differently
 
 Immigration law in the Supreme Court is governed by a doctrine that has no real counterpart anywhere else in American constitutional law. In every other field this series covers, Congress legislates under an enumerated power, the Court measures the statute against constitutional limits, and the ordinary tools of judicial review do the work. In immigration, the Court has held since 1889 that the power to decide who may enter and who must leave belongs to the nation as an attribute of sovereignty itself, not to any clause of the Constitution, and that the political branches exercise that power with a latitude courts in no other field would tolerate. The question this article answers is what that latitude has actually produced: which decisions built it, where its edges were drawn, and what the governing holdings say.
 
-![Immigration law in the Supreme Court, the plenary power doctrine and the decisions that built it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Immigration law in the Supreme Court, the plenary power doctrine and the decisions that built it - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The operative question is deceptively simple: why do courts defer to Congress on immigration when they defer on almost nothing else to the same degree? A litigant challenging an environmental rule or a tax provision can expect the court to parse text, weigh precedent, and test the government's reasoning against constitutional boundaries. A litigant challenging an exclusion or deportation decision enters a courtroom where the controlling precedent says the political branches hold a power "largely immune from judicial control," a phrase the Court used without apology in the middle of the twentieth century. Understanding immigration litigation means understanding why that sentence is possible, how far it reaches, and where later decisions carved exceptions into it without ever repudiating the core.
 

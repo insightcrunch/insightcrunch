@@ -7,14 +7,14 @@ last_updated: "2013-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Visa Policy", "Congress", "INA", "Statutory History"]
 excerpt: "Immigration amendments reshaped American admission, creating the diversity lottery, temporary protected status and a new employment-based visa system."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "ian-fletcher"
+lang: en
 ---
-
 Ask a well-informed citizen to name the statutes that built the American immigration system, and the answers come quickly. The 1965 law repealed the national-origins quotas. The 1986 law combined employer sanctions with a legalization program. Then the trail goes cold. Almost no one names the enactment of November 1990 that raised legal immigration by roughly forty percent, restructured the preference system from top to bottom, and created the three features of the system that later drew the fiercest public argument: the diversity visa lottery, temporary protected status, and the annual cap on the principal skilled-worker visa. That gap between consequence and recognition is the subject of this guide.
 
-![The Immigration Act of 1990 guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Immigration Act of 1990 guide - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The statute is the Immigration Act of 1990, Public Law 101-649, signed on November 29, 1990. It grew out of S. 358 in the 101st Congress and amended the Immigration and Nationality Act, the underlying code that governs admission to the United States. By the end of this guide, a reader should be able to explain a single compact fact: three of the most argued-about features of the American immigration system, the diversity visa lottery, temporary protected status, and the capped specialty-occupation visa, all originate in one statute, signed by a Republican president in 1990, that raised legal immigration by roughly forty percent with bipartisan support. Everything that follows is organized to make that explanation possible, because the explanation is the point.
 

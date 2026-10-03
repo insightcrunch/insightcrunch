@@ -6,17 +6,17 @@ date: "2013-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Cuts and Jobs Act", "Federal Tax Policy", "Tax Reform", "Reconciliation", "Corporate Tax"]
 excerpt: "The 2017 tax act made its corporate cut permanent and its individual cuts temporary because Senate procedure demanded it. Every provision group, explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: "78"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2013-06-15"
+lang: en
 ---
-
 ## The statute whose name is not its name
 
 Every American who followed the news in December 2017 knows the name of the largest tax rewrite in a generation. The Tax Cuts and Jobs Act cut the corporate rate, nearly doubled the standard deduction, capped the deduction for state and local taxes, and rewrote the rules for taxing income earned abroad. There is only one problem with that familiar name. It is not the name of the law. Days before the bill reached the president's desk, a Senate point of order struck the short title from the text, and the measure was enrolled under a long descriptive title that almost nobody has ever quoted. The statute everyone calls the Tax Cuts and Jobs Act is formally "An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018." The popular name survived in headlines and conversation. It did not survive in the law.
 
-![The 2017 tax statute, whose popular short title was struck from the bill before enactment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 2017 tax statute, whose popular short title was struck from the bill before enactment - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 That single episode tells the reader most of what this profile exists to explain. The 2017 tax statute was not written the way most landmark laws are written. It moved through Congress on the budget reconciliation track, which let it clear the Senate with a simple majority but subjected every line of it to a procedural screen called the Byrd rule. The Byrd rule is the reason the individual tax cuts carry expiration dates while the corporate rate cut does not. It is the reason the bill's own name was deleted before enactment. And it is the reason the statute looks the way it does: a collection of measures whose durability was decided not by any judgment about which policies deserved to last, but by whether each item's cost fit inside a ten-year budget instruction. That is the reconciliation asymmetry, and it is the key to the entire law.
 

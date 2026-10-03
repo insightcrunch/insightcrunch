@@ -6,17 +6,17 @@ date: "2013-08-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Legislation", "Congressional Procedure", "Reconciliation", "Byrd Rule", "Tax Policy"]
 excerpt: "How tax bills move through Congress: the Origination Clause, committee markup, official scoring, reconciliation, the Byrd rule, and retroactive effective dates."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: "78"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2013-08-15"
+lang: en
 ---
-
 ## The question every tax story begs
 
 A reporter assigned to cover a tax bill learns quickly that the rates are the easy part. The brackets, the deductions, the credits, the effective dates can all be read off the page, and any competent summary will list them. The hard part is answering the questions readers actually ask once the summary ends. Why did this measure have to start in the House of Representatives? Why can nobody offer an amendment to it on the House floor? Why does the Senate need only fifty-one votes to pass something this large? Why does half of the new law expire in eight years while the other half never does? Why did the new rates apply to income earned before the president signed anything? Each of those questions is procedural, and the general internet answers them in two paragraphs of civics-class summary that get at least one of them wrong.
 
-![The path a revenue measure travels from introduction to enactment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The path a revenue measure travels from introduction to enactment - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 This article is the process layer of the series. Every statute profile in this cluster explains what a particular law did. This article explains the machinery that every one of those laws passed through, so that no statute profile has to re-teach it. The test for the reader is concrete. After working through what follows, a reader should be able to trace a revenue measure from introduction to enactment, name the constitutional clause that dictates where it must start and the workaround the Senate uses when it wants to drive the substance of a revenue bill, identify which office produces the official revenue estimate and how that office differs from the spending scorekeeper, and explain the reconciliation rules that determine whether a given provision can be permanent. That is the full examination, and everything below is organized to make it passable.
 

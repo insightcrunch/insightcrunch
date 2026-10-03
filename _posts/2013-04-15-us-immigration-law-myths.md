@@ -7,12 +7,14 @@ last_updated: "2013-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Immigration and Nationality Act", "Birthright Citizenship", "DACA", "Sanctuary Policies"]
 excerpt: "US immigration law myths tested against the statutes, the cases and the research: what circulating claims about the rules get right, get wrong, and leave open."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "natalie-webb"
+lang: en
 ---
-
 Circulating claims about American immigration law have a peculiar quality. They are stated with unusual confidence, they travel across dinner tables and legislative hearings with equal ease, and they are very often wrong in ways that the underlying statutes make plain. A reader who arrives holding one of them, whichever direction it leans, deserves an answer that begins with the Immigration and Nationality Act as amended, continues through the constitutional case law, and ends with attributed research rather than with an opinion about the reader. That is the method of this article. Each claim below is stated in the strongest form its holders would recognize, corrected at equal length whether the correction lands on one side or the other, and given a verdict of true, partly true, or false that is tied to a specific statute, a specific case, or a named study. Where the honest verdict is that a question is still open, the article says so.
+
+![US Immigration Law Myths Examined Against the Record - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 /assets/images/blog/blog-01.webp
 

@@ -6,17 +6,17 @@ date: "2013-09-15"
 categories: ["Industry"]
 tags: ["US Legislation", "tax myths", "Sixteenth Amendment", "corporate tax", "payroll tax", "marginal rates"]
 excerpt: "US tax law myths persist because the code is long and the stakes feel personal, so this piece tests eleven claims against statutes, decisions, and data."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: "2013-09-15"
+lang: en
 ---
-
 ## The four questions that sort every tax dispute
 
 Few fields of American law produce as many confident falsehoods as the revenue code. The statutes run long, the forms intimidate, and the money involved belongs to the reader, so folk theories about what the law requires, whom it favors, and what it has accomplished circulate with unusual energy. Some of these theories flatter the skeptic, some flatter the defender of the existing system, and the honest response to both is the same: check the statute, check the decisions, check the published numbers, and report what they support.
 
-![US tax law myths examined](/assets/images/blog/blog-01.webp)
+![US tax law myths examined](/assets/images/blog/blog-22.webp)
 
 This article applies one test to a dozen of the most repeated contentions in American tax debate. A reader arrives holding one of the claims that circulate about the national levy on earnings, on wages, and on business, and leaves knowing what the statutes, the courts, and the published data actually support. Each verdict is sourced. Claims get corrected in every direction at equal length, because a correction that only runs one way is advocacy, not competence. And where the evidence genuinely does not settle a question, the article says so, with both sides named, rather than forcing a verdict the record cannot carry.
 

@@ -6,17 +6,17 @@ date: "2013-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Banking Regulation", "Dodd-Frank", "Financial Services", "Congress", "Bank Supervision"]
 excerpt: "The Dodd-Frank rollback left every major authority intact and re-tiered which banks face the toughest rules. The thresholds, the vote, the contested legacy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: "82"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2013-12-15"
+lang: en
 ---
-
 ## The Most Misunderstood Banking Statute of Its Decade
 
 On May 24, 2018, President Donald Trump signed the Economic Growth, Regulatory Relief, and Consumer Protection Act, Public Law 115-174, the most significant revision of the [Dodd-Frank Act](https://insightcrunch.com/2013/10/01/dodd-frank-act-complete-guide/) since its passage, and within hours two incompatible accounts of what he had just signed were in wide circulation. In one account, Congress had begun dismantling the post-crisis framework and the largest banks were the beneficiaries. In the other, Congress had done something far narrower: it had redrawn the lines that determined which institutions faced the toughest Dodd-Frank requirements, leaving the requirements themselves in place. The second account was the accurate one, but the first proved harder to dislodge, and the confusion between the two accounts shaped every later argument about the statute, including the fierce debate that followed the bank failures of March 2023.
 
-![Illustration of tiered bank supervision thresholds](/assets/images/blog/blog-01.webp)
+![Illustration of tiered bank supervision thresholds](/assets/images/blog/blog-71.webp)
 
 This article is about the amendment stage of a statute's life, and about a particular kind of amendment, one that changes coverage rather than substance. The 2018 statute did not rewrite what Dodd-Frank required of the financial system. It rewrote whom those requirements reached. Enhanced prudential standards, the Volcker Rule, stress testing, resolution planning, the derivatives clearing mandate, the Consumer Financial Protection Bureau, the Orderly Liquidation Authority, the Financial Stability Oversight Council: every one of these authorities survived the 2018 law intact. What changed was the set of institutions to which each authority applied, and the mechanism by which it applied, automatic in some cases, discretionary in others, unavailable in still others. To understand the statute is to understand that distinction, because nearly every misdescription of it, from the floor speeches of its opponents to the headlines about its aftermath, comes from collapsing the two.
 

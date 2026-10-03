@@ -7,14 +7,14 @@ last_updated: "2013-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "Earned Income Tax Credit", "Federal Statutes", "Public Law", "Study Guide"]
 excerpt: "The earned income tax credit phases in with earnings, plateaus, then phases out: Section 32 mechanics, refundability, employment evidence, and the error rate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "gregory-marsh"
+lang: en
 ---
-
 The earned income tax credit is the largest cash antipoverty program for working families in the United States, and its entire design lives inside a single provision of the federal tax code. Section 32 of the Internal Revenue Code, codified at 26 U.S.C. section 32, converts low earnings into a cash payment by applying a fixed percentage to the first dollars of earned income, holding the resulting credit flat across a plateau range of earnings, and then withdrawing it gradually as earnings rise. That three-part shape is the whole policy. The phase-in rewards the decision to work, the plateau delivers the maximum benefit to earners in the middle of the low-wage range, and the phase-out removes the benefit without imposing a cliff. Congress created the credit as a temporary measure in the Tax Reduction Act of 1975 and made it permanent three years later, then expanded it in 1986, 1990, 1993, 2001, and 2009. Understanding how this one section works means understanding how the federal government can run a cash transfer at welfare scale without a single benefits office, because every eligibility rule, every rate, and every limit is written as tax law.
 
-![The earned income tax credit phase-in plateau and phase-out structure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The earned income tax credit phase-in plateau and phase-out structure - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 This article applies a single test to itself: after reading it, a reader should be able to explain how the largest cash antipoverty program for working families in the United States operates entirely through the tax code, describe the phase-in, plateau, and phase-out structure and what each stage does to the incentive to work, name the political bargain that created the credit, and understand why the provision carries both the strongest employment evidence and the highest improper payment rate of any major federal program.
 

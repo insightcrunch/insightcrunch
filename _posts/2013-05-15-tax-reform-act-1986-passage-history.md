@@ -9,10 +9,12 @@ tags: ["US Legislation", "Tax Reform", "Congress", "Senate Finance", "Ways and M
 excerpt: "The Tax Reform Act survived three declared deaths, a failed House rule, and a collapsed Senate markup to pass by lopsided margins in both chambers of Congress."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: "74"
-author: "Insight Crunch Team"
+author: "jessica-kim"
+lang: en
 ---
-
 ## The Test This Passage Poses
+
+![Tax Reform Act Passage: How a Dead Bill Became Law - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 A reader who finishes this article should be able to do three things. First, reconstruct how a bill pronounced dead at least three times became law by lopsided margins in both chambers. Second, name the procedural defeat that nearly ended it in the House of Representatives. Third, explain the single strategic decision in a Senate committee that converted a preference-laden bill into the most radical base-broadening measure in modern history. The telling must be procedural rather than anecdotal, because the argument of this article is that procedure determined the text, and that in this rare case the procedural crisis improved the statute it nearly killed.
 

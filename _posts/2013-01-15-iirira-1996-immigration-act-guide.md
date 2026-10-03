@@ -7,14 +7,14 @@ last_updated: "2013-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Act", "IIRIRA", "Deportation Law", "Unlawful Presence", "Statute Profile"]
 excerpt: "IIRIRA rebuilt removal law inside an appropriations bill, creating the unlawful presence bars, expedited removal, and a retroactive aggravated felony category."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: "85"
-author: "Insight Crunch Team"
+author: "michael-brooks"
+lang: en
 ---
-
 Why did a single division of an appropriations act, signed on September 30, 1996, become the statute that practitioners reach for first when a client who has lived in the United States for years asks whether leaving the country to fix a paperwork problem will destroy the family? IIRIRA, the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, answers that question in the severest way the immigration code allows: the departure itself triggers the punishment, and the punishment lasts three or ten years.
 
-![Alt Text - The 1996 immigration act explained as a statute profile of IIRIRA removal law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Alt Text - The 1996 immigration act explained as a statute profile of IIRIRA removal law - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 That inversion, punishing the attempt to comply rather than the violation itself, is the reason this statute profile treats the 1996 enactment as the single most consequential immigration law for people already living inside the United States. The Immigration and Nationality Act of 1965 rebuilt the legal immigration system around family sponsorship and employment categories, and the Immigration Reform and Control Act of 1986 legalized nearly three million people while criminalizing the hiring of unauthorized workers. Neither of those landmarks rewrote the daily mechanics of removal the way the 1996 law did. Enacted as Division C of the Omnibus Consolidated Appropriations Act, 1997, Public Law 104-208, 110 Stat. 3009-546, the measure amended the Immigration and Nationality Act across hundreds of sections, and its Title III provisions took effect on April 1, 1997. The search demand around its individual provisions is the highest in the cluster because every one of them governs a concrete decision a real person must make: whether to leave, whether to fight a case, whether a decades-old conviction ends a green card, whether a local officer may act on a federal detainer.
 

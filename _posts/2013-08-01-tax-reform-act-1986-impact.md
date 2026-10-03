@@ -6,15 +6,15 @@ date: "2013-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Reform Act", "Tax Policy", "Revenue Legislation", "Public Finance", "Economic Impact"]
 excerpt: "Tax reform cut rates that vanished within seven years while base broadening endured. A review of the achievements, the reversals, and the research record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: "85"
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2013-08-01"
+lang: en
 ---
-
 The story of the 1986 tax reform is usually told as a story about rates. The top individual rate fell from half of every marginal dollar to a little more than a quarter, the corporate rate fell from 46 percent to 34 percent, and a fourteen-bracket statutory schedule collapsed into two clean lines. That telling is not wrong, but it misleads, because the part of the law that filled the headlines was the part that disappeared fastest. The two-rate schedule that defined the act in the public mind survived less than five years in its enacted form, and within seven years Congress had restored a top rate higher than the one the reform had replaced. What endured was quieter and, in the judgment of the research literature, far more consequential: a wider base, a new set of limits on the use of paper losses, and a natural experiment that public finance scholars have been mining ever since.
 
-![Tax Reform Act of 1986 impact and outcomes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tax Reform Act of 1986 impact and outcomes - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 ## WHAT THE 1986 TAX REFORM MEASURED UP AGAINST
 

@@ -6,17 +6,17 @@ date: "2014-01-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Banking", "Dodd-Frank", "Financial Regulation", "Financial Crisis"]
 excerpt: "Dodd-Frank promised safer banks and no bailouts. This review measures capital, consolidation, community bank burden and mortgage credit against stated aims."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: "2014-01-01"
+lang: en
 ---
-
 ## Introduction: judging a law by its own promises
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, was signed on July 21, 2010 with two headline promises that have structured every argument about it since. The first was that American banks, above all the largest institutions, would be made safer through stronger capital, tighter supervision, and forward-looking stress tests. The second was that no large financial firm would ever again require a taxpayer bailout, because a new resolution regime would allow even a giant institution to fail in an orderly way. Those were the statute's own stated aims, and this article measures the law against them rather than against anybody's wishes about what it should have done.
 
-![Evidence review of Dodd-Frank banking outcomes](/assets/images/blog/blog-01.webp)
+![Evidence review of Dodd-Frank banking outcomes](/assets/images/blog/blog-109.webp)
 
 That discipline matters because the debate over Dodd-Frank has produced two mirror-image forms of overreach. One camp treats the act as the definitive end of systemic risk in American banking, as though the passage of a statute were the same thing as the demonstration of its effects. The other camp treats the act as nothing more than paperwork, as though higher capital ratios and hundreds of finalized rules were the same thing as no change at all. Both readings fail the same test: they substitute a slogan for evidence. The record, examined layer by layer, is more demanding than either slogan allows. Capital at the largest banks rose substantially and measurably. New liquidity requirements were introduced. The number of banks kept falling along a trend that began decades earlier, and the formation of new banks nearly stopped, though researchers disagree about why. Surveys and econometric studies of compliance costs at small banks point in different directions depending on method. Mortgage underwriting tightened, especially for borrowers with weaker credit profiles, and the rules and post-crisis lender caution share the credit and the blame in proportions nobody can cleanly separate. And the single most important question, whether the resolution regime created in Title II of the act actually works, went effectively untested for more than a decade, because the authority was never used and the failures that did arrive were handled through other channels.
 

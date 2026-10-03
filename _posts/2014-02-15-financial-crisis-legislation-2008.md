@@ -6,15 +6,15 @@ date: "2014-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "TARP", "Financial Crisis", "Housing Policy", "Stimulus", "Banking Regulation"]
 excerpt: "Financial crisis legislation is remembered by authorizations, not outcomes. This hub traces each rescue statute with sourced figures, votes, and verdicts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: "79"
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2014-02-15"
+lang: en
 ---
-
 Between the summer of 2008 and the spring of 2009, Congress wrote the statutes that defined the federal response to the worst banking panic since the Great Depression. The sequence ran from a July housing law, through the September defeat and October passage of the rescue bill, to a February stimulus and a spring of consumer and mortgage measures, ending with a commission charged to explain how the damage happened. Each of these laws arrived with a headline figure that lodged in public memory, and in nearly every case the figure described the maximum authority Congress granted rather than money the government spent. The test this article applies to every statute below is a direct one: place the headline authorization beside the sourced fiscal outcome, and ask which of the two figures the public remembers. The answer, repeated across five major laws, is the subject of everything that follows.
 
-![Crisis legislation timeline illustration](/assets/images/blog/blog-01.webp)
+![Crisis legislation timeline illustration](/assets/images/blog/blog-76.webp)
 
 ## The July law that built the rescue machinery
 

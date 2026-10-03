@@ -7,14 +7,14 @@ last_updated: "2013-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Refugee Act", "Immigration Law", "Asylum", "INA", "Statute Profile"]
 excerpt: "A full statute profile of the Refugee Act: the convention definition it imported, the two doors of admission and asylum, the ceiling, and the case law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "katherine-blake"
+lang: en
 ---
-
 Before March 1980, the United States had no general refugee law. A person fleeing persecution reached American soil only if some other immigration category happened to fit, or if the executive branch chose to admit that person through an emergency tool designed for other purposes. The Refugee Act of 1980 changed that arrangement by writing a definition of refugee into the Immigration and Nationality Act, creating a statutory asylum procedure, and replacing ad hoc admissions with an annual numerical system. Within weeks of its signing, a mass maritime arrival in South Florida tested the new framework in a way its drafters had not anticipated.
 
-![The Refugee Act of 1980 statute profile showing the refugee definition, the two doors of admission, and the annual ceiling - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Refugee Act of 1980 statute profile showing the refugee definition, the two doors of admission, and the annual ceiling - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The Refugee Act of 1980 reorganized how the United States decides who counts as a refugee and how those people enter the country. Before the statute, admission ran on improvisation: the attorney general's parole power handled one crisis while a 1965 provision favored people fleeing communist governments, and no single law described the whole enterprise. The act replaced that patchwork with a uniform definition drawn from international standards, two distinct routes to protection, and an annual ceiling set through a formal consultation between the president and Congress. Within weeks of enactment, a maritime arrival of more than a hundred thousand people tested the new machinery and showed that an orderly statute could not absorb a disorderly event.
 

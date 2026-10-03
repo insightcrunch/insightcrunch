@@ -6,15 +6,15 @@ date: "2013-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Dodd-Frank Act", "Financial Regulation", "Congressional Procedure", "Legislative History", "Senate Cloture"]
 excerpt: "Dodd-Frank took two hundred thirty-one days to pass, from a House vote with no minority support to Senate votes that depended on minority senators at each turn."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: "84"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2013-10-15"
+lang: en
 ---
-
 The Wall Street Reform and Consumer Protection Act, known everywhere by the names of its two sponsors, became law on July 21, 2010, as Public Law 111-203. In the Statutes at Large it is cited as 124 Stat. 1376. The two hundred thirty-one days between introduction and signing hold one of the most instructive passage stories in modern congressional history, because the journey breaks into five distinct stages, each governed by a different procedural logic, and because the pivotal moments are unusually well documented. A reader who follows the whole path can explain how a measure that drew no votes from the minority party in one chamber nonetheless depended on minority votes to survive in the other, can name the amendments that were added and the more far-reaching ones that failed, can describe a televised conference committee that reopened after it had finished its work, and can account for a majority-party senator who voted against the finished product for being too weak.
 
-![The Capitol dome above the chambers where Dodd-Frank was written](/assets/images/blog/blog-01.webp)
+![The Capitol dome above the chambers where Dodd-Frank was written](/assets/images/blog/blog-20.webp)
 
 The paradox at the center of the story is easy to state and harder to absorb. In the House of Representatives, the bill passed in December 2009 without a single Republican vote. In the Senate, where sixty votes were required to break a filibuster, the majority party did not command sixty reliable votes on its own at the decisive moments, so the final text was shaped by a handful of senators from the minority whose support had to be earned provision by provision. The House record supports the reading that one party wrote the law; the Senate record does not. Both records are true at once, and the tension between them is the point of this account.
 

@@ -6,17 +6,17 @@ date: "2014-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "PATRIOT Act", "FISA", "Surveillance Law", "Banking Regulation", "National Security Letters"]
 excerpt: "The PATRIOT Act is an omnibus amendment package, not a surveillance statute. This guide maps its four groups, the two-word amendment, and the sunset record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: "77"
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: "2014-03-01"
+lang: en
 ---
-
 ## The Central Misunderstanding About the USA PATRIOT Act
 
 Almost every public argument about the USA PATRIOT Act begins from a false premise. The premise is that the statute created a surveillance regime, a self-contained system of secret spying powers invented in the autumn of 2001. The text does nothing of the sort. Public Law 107-56 is an omnibus amendment package, a collection of surgical insertions into laws that already existed, and its provisions are scattered across intelligence law, criminal procedure, banking regulation, immigration, and victim compensation. To read the act as though it were a standalone surveillance code is to misunderstand what Congress did, and the misunderstanding distorts every argument that follows from it, whether the argument defends the statute as necessary or condemns it as excessive. The law that most people picture when they hear the name, a single shadowy machine, does not exist in the text. What exists is a bundle of amendments to older statutes, each with its own scope, its own sunset history, and its own legal afterlife. The name itself contributes to the confusion: USA PATRIOT Act sounds like the title of a single program, and the backronym's martial cadence suggests a unified instrument of national power. The enrolled text tells a different story, one of ten titles, dozens of amended Code sections, and provisions whose only common feature is the political moment that assembled them. A reader who starts from the name will misunderstand the statute. A reader who starts from the structure will understand it.
 
-![The USA PATRIOT Act as an omnibus amendment package across intelligence, criminal, banking, and immigration law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The USA PATRIOT Act as an omnibus amendment package across intelligence, criminal, banking, and immigration law - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 That bundle divides, for the reader who wants to hold it in one view, into four groups. The first group amends intelligence collection and criminal procedure: roving surveillance that follows a target rather than a device, delayed notice search warrants, expanded pen register and trap and trace coverage for internet routing information, and the business records authority for orders covering tangible things. The second group is a single provision that did more legal work than all the famous provisions combined: a two-word change to the certification standard for foreign intelligence surveillance, from the purpose to a significant purpose, which dismantled the procedural separation between intelligence collection and criminal prosecution. The third group is the financial title, the least discussed and the most widely experienced, whose customer identification and account rules explain why opening a bank account in the United States requires documentary identification. The fourth group is the national security letter authorities, administrative demands for records issued without prior judicial approval, whose use expanded enormously and whose misuse the Justice Department's own inspector general later documented in a series of reports. These four groups are the map on which everything else in this guide is drawn, and the artifact table at the end of the article lays the map out in full, with each group tied to the statute it amended, the authority it created, its permanent or lapsed status, and the article in this series that carries the detail.
 

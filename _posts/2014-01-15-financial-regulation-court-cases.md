@@ -6,18 +6,17 @@ date: "2014-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Financial Regulation", "Administrative Law", "Supreme Court", "SEC", "CFPB"]
 excerpt: "Why financial regulation loses in court more than any other field: history of cost-benefit review, removal and funding fights, and the end of Chevron deference."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: "2014-01-15"
+lang: en
 ---
-
-
 ## Why financial rules lose in court
 
 Financial regulation is the most frequently vacated corner of American administrative law. In no other field have agencies watched so many major rules fall to judicial review, and in no other field has the experience of losing been converted so completely into a manual for how rules must be written. The decisions gathered in this article run from a 2005 appellate remand of mutual fund governance rules to the Supreme Court decision of June 28, 2024 overruling Chevron deference, and they tell a single story. The story is not that financial regulators are unusually careless, nor that federal judges harbor unusual hostility toward them. It is that three features of this field combine to produce more successful challenges than anywhere else: statutory delegations of unusual breadth, statutory commands to consider economic effects that are unusually specific, and a challengers bar that is unusually well resourced and repeat player in character. Where delegation is broadest, the courts price it most aggressively, and this cluster is where delegation is broadest.
 
-![Financial regulation court challenges](/assets/images/blog/blog-01.webp)
+![Financial regulation court challenges](/assets/images/blog/blog-05.webp)
 
 That pricing takes four forms, and this article follows each of them. First, the economic analysis cases, in which the D.C. Circuit converted the adequacy of an agency cost-benefit record into the dominant litigation strategy in the field, beginning with Business Roundtable v. SEC in 2011. Second, the removal cases, in which the Supreme Court worked a separation of powers line from the audit board through the consumer bureau: Free Enterprise Fund v. PCAOB in 2010, Seila Law LLC v. CFPB in 2020, and Collins v. Yellen in 2021. Third, the funding and adjudication cases, in which the Court sustained the consumer bureau funding structure against an Appropriations Clause attack in 2024 while holding, the next month, that the securities commission must bring civil penalty fraud actions before a jury in an Article III court. Fourth, the deference case, in which the Court in 2024 overruled Chevron and removed the interpretive presumption that had supported many financial rules. A reader who finishes this article should be able to explain why financial rules are challenged more successfully than rules in almost any other field, name the decision that made inadequate economic analysis a reliable basis for vacating a rule, trace the separation of powers line running from the audit board through the consumer bureau to the securities agency's own tribunals, and understand what the end of judicial deference to agency interpretation means for every rule in this cluster.
 

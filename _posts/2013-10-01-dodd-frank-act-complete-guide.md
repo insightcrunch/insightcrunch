@@ -6,17 +6,17 @@ date: "2013-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Dodd-Frank Act", "Financial Regulation", "Volcker Rule", "Consumer Financial Protection Bureau", "Banking Law"]
 excerpt: "Dodd-Frank is less a rulebook than an instruction manual: sixteen titles allocate rulemaking power and create three new institutions to watch the system."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: "81"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2013-10-01"
+lang: en
 ---
-
 ## Dodd-Frank and the architecture of delegation
 
 Most statutes tell people what to do. Dodd-Frank mostly tells agencies to figure out what people should do. That single distinction explains nearly everything confusing about the Dodd-Frank Wall Street Reform and Consumer Protection Act: its length, its slow implementation, the fierce arguments over provisions that Congress never quite wrote, and the reason a reader can finish all sixteen titles and still feel unsure what the law requires of any particular firm. The statute Congress passed in the summer of 2010 is best understood as an allocation of authority, a set of instructions directing regulators to design the actual operating rules over the years that followed. Once that design is visible, the individual provisions stop looking like a miscellany and start looking like a machine with a center.
 
-![Diagram of the sixteen titles of the Dodd-Frank Act arranged around the three new institutions created by the statute, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Diagram of the sixteen titles of the Dodd-Frank Act arranged around the three new institutions created by the statute, Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The confusion has a familiar shape. A reader opens the enrolled text, finds roughly 848 pages, and expects 848 pages of commands. Instead the reader finds page after page of conditional language: the appropriate agencies shall issue rules, the council shall designate, the bureau may prescribe. The operative verbs of the statute are verbs of delegation. Where an older reform law might have specified a capital ratio or a disclosure form, this one specified who would specify the ratio and who would design the form, along with the procedures and deadlines for doing so. The result is a statute whose practical content lived, at the moment of signing, almost entirely in the future. Understanding the law means understanding that future as part of the law itself, because Congress deliberately made the agencies coauthors of the finished product.
 

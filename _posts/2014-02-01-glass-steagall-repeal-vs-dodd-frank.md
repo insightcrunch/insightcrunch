@@ -6,17 +6,17 @@ date: "2014-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Glass-Steagall", "Dodd-Frank", "Banking Regulation", "Financial Crisis", "Regulatory Comparison"]
 excerpt: "Glass-Steagall split banks from securities firms; Dodd-Frank lets them combine under capital rules. This comparison weighs both models and reaches a verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: "2014-02-01"
+lang: en
 ---
-
 ## The argument that never settles
 
 Ask any room of financially literate Americans which law better protects the country from another banking crisis, the Glass-Steagall separation of 1933 or the Dodd-Frank capital and activity regime of 2010, and the room will divide before the question is finished. The division is not really about two statutes. It is about two incompatible theories of what makes finance dangerous. One theory says danger lives in the shape of firms, in the combination of deposit taking with securities dealing under one roof, and the law must therefore keep those shapes apart. The other says danger lives in thin cushions against loss, and the law must therefore make those cushions thick, test them under stress, and plan for orderly failure. Everything else in this comparison, the repeal, the crisis, the Volcker Rule, the restoration bills, is commentary on that single fork.
 
-![Diagram comparing the 1933 structural separation model with the 2010 capital and activity model, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Diagram comparing the 1933 structural separation model with the 2010 capital and activity model, Insight Crunch](/assets/images/blog/blog-103.webp)
 
 This article resolves the comparison structurally, which no widely read page has yet done. The test it sets is simple. When the reader finishes, the reader can state the fundamental difference between the two regulatory philosophies, structural separation of activities into different firms versus permission of combination under capital requirements and activity limits. The reader can explain which parts of the 1933 separation still stand and which fell. The reader can evaluate, firm by firm, whether restoring the separation would have prevented the 2008 crisis. And the reader can reach a defended verdict on which model better addresses the risk, with the deciding factor named explicitly. That is the whole assignment, and every section below serves it.
 

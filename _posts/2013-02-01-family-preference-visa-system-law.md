@@ -7,16 +7,16 @@ last_updated: "2013-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Family Visas", "Visa Bulletin", "Per-Country Ceiling", "CSPA"]
 excerpt: "Family preference categories decide which relatives may immigrate, and how the flat per-country ceiling shapes every family queue under immigration law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "alex-cunningham"
+lang: en
 ---
-
 ## Why these three sections decide family immigration outcomes
 
 Most explanations of family immigration begin with policy arguments and arrive at the statute eventually, if at all. This article reverses that order. The Immigration and Nationality Act devotes three consecutive sections to the mechanics of who may immigrate through a family relationship, how many may do so in a given year, and how the available visa numbers are divided among countries of birth. Section 201 sets the worldwide level. Section 202 imposes the per-country ceiling. Section 203 allocates immigrant visas among the family preference categories. A reader who can state what each of those three sections does, who can name every family category and say who qualifies for each, who can explain the difference between an unlimited immediate relative and a numerically capped preference relative, and who can work the single arithmetic fact that the per-country ceiling is a flat percentage applied identically to every country regardless of its population or demand, possesses the working knowledge that practitioners, journalists, and families search for constantly. Everything else in this article is scaffolding around that core.
 
-![Diagram showing the family preference categories and per-country ceiling](/assets/images/blog/blog-01.webp)
+![Diagram showing the family preference categories and per-country ceiling](/assets/images/blog/blog-86.webp)
 
 The thesis that organizes the pages below is that the operative text is the thing that decides outcomes. Immigration debates tend to be argued in the language of values, and values matter to legislators, but the family that waits twelve years for a visa number is waiting because of arithmetic written into the United States Code, not because of anyone's rhetoric. What follows is a section-by-section account of that arithmetic: the worldwide level, the country ceiling, the preference allocations, and the procedures that turn those numbers into waiting lists.
 

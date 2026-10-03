@@ -6,15 +6,15 @@ date: "2013-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "CFPB", "Dodd-Frank Act", "Consumer Protection", "Title X", "Financial Regulation", "UDAAP"]
 excerpt: "The CFPB moved consumer finance rules from seven regulators to one bureau with independent funding and a novel abusiveness standard. Its design and court tests."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: "70"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2013-12-01"
+lang: en
 ---
-
 The CFPB began as an idea about toasters. That image is not a joke about the agency but the argument that made it plausible. In the summer of 2007, with the housing market already trembling, Elizabeth Warren published an essay arguing that consumer financial products were regulated for safety far more loosely than the physical products sold in the same stores. A toaster could not lawfully carry a one in five chance of burning down a house, she wrote, yet a mortgage could carry the same chance of costing a family its home. The comparison drew attention because it reframed credit as a product subject to product safety logic, and within three years Congress had created an agency whose entire design embodied that reframing.
 
-![The headquarters of the Consumer Financial Protection Bureau, the agency created by Title X of Dodd-Frank whose creation and powers this article explains - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The headquarters of the Consumer Financial Protection Bureau, the agency created by Title X of Dodd-Frank whose creation and powers this article explains - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The agency is the Bureau of Consumer Financial Protection, the name Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act gives it at section 1011. Dodd-Frank was enacted on July 21, 2010 as Public Law 111-203, passing the House 237 to 192 on June 30, 2010 and the Senate 60 to 39 on July 15, 2010. Title X carries its own short title, the Consumer Financial Protection Act of 2010, and it runs across the enrolled statute as the most concentrated redrawing of consumer finance regulation in generations. Before Title X, rulemaking for the federal consumer finance laws lived in several different buildings: the Federal Reserve Board wrote most Truth in Lending rules, the Federal Trade Commission wrote others, and enforcement was scattered among bank supervisors and the trade commission. Title X consolidated the rulemaking in one place, gave that place supervision over the largest banks and named categories of nonbanks, and funded it outside the annual appropriations cycle. Each of those three design choices did real work, and each drew a legal challenge that tested whether the work could survive.
 

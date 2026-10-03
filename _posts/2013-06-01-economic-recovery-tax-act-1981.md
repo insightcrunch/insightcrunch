@@ -7,14 +7,14 @@ last_updated: "2013-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "ERTA", "Bracket Indexation", "Tax Reform", "Reagan Administration"]
 excerpt: "The Economic Recovery Tax Act cut rates across the board, indexed brackets to inflation, and lost its business provisions to reversal within thirteen months."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: "72"
-author: "Insight Crunch Team"
+author: "jessica-kim"
+lang: en
 ---
-
 No federal revenue statute of the late twentieth century is remembered for less than half of what it did. The Economic Recovery Tax Act of 1981 entered the history books as the largest personal rate reduction enacted to that point, a three-year phased cut that pushed the top marginal levy from 70 percent to 50 percent. That headline is accurate, and it is also the least interesting thing about the measure. Public Law 97-34, signed on August 13, 1981, contained a second provision that Congress never advertised, the press scarcely covered, and later students of the code treated as the statute's decisive achievement: the automatic annual adjustment of rate brackets, the personal exemption, and the standard deduction for inflation, effective with tax year 1985. The rate reductions were revised, compressed, and restructured repeatedly within a decade. Indexation was never touched. That asymmetry is the organizing fact of this statute profile.
 
-![The Economic Recovery Tax Act of 1981 and its two halves, the rate cuts and indexation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Economic Recovery Tax Act of 1981 and its two halves, the rate cuts and indexation - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The One Test for this article is direct. A reader who finishes it should be able to explain what the 1981 measure contained beyond the headline reduction in personal rates, identify the one provision that permanently altered American fiscal policy and is almost never discussed, and account for the fact that a substantial portion of the statute was reversed by Congress within thirteen months. Because this profile has no specialist siblings in the series, it carries passage, provisions, reversal, and evidence in a single article. The sequence is worth following in full, because the 1981 act is one of the few revenue statutes where the fight to pass it, the content of what passed, and the partial undoing that followed are all necessary to understand any one of them.
 

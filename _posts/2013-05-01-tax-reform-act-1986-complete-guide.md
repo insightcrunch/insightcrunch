@@ -7,14 +7,14 @@ last_updated: "2013-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "Tax Reform", "Federal Statutes", "Public Law", "Study Guide"]
 excerpt: "How the Tax Reform Act traded eliminated preferences for a twenty-eight percent top individual rate: the closed-system statute guide with the trade table."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: "94"
-author: "Insight Crunch Team"
+author: "jessica-kim"
+lang: en
 ---
-
 No statute in the modern federal code is studied more often for its procedure than for its substance, and the Tax Reform Act of 1986 is the reason. Enacted as Public Law 99-514 and signed on October 22, 1986, the law collapsed fourteen individual brackets into two nominal rates, repealed the investment tax credit, ended the sixty percent capital gains exclusion, phased out the deduction for consumer interest, and replaced an accelerated depreciation system with a longer-lived one. Yet the durable lesson of the measure is not any single provision. It is the design constraint under which every provision was chosen: the bill had to raise the same revenue, preserve the same distribution of the burden across income groups, and cut marginal rates, all at once. Those three simultaneous demands turned lawmaking into a closed system, a zero-sum trade in which every percentage point of rate reduction had to be purchased with an eliminated preference, and that closed system is what this guide explains.
 
-![The Tax Reform Act of 1986 closed-system trade that bought a twenty-eight percent top rate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Tax Reform Act of 1986 closed-system trade that bought a twenty-eight percent top rate - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The One Test for this article is direct. A reader who finishes it should be able to explain the design constraint, meaning revenue neutrality plus distributional neutrality plus rate reduction, and should be able to name what was traded away to buy the lowest top individual rate in half a century. The answer to the second half is a list: the consumer interest deduction, the state and local sales tax deduction, the capital gains exclusion, the investment tax credit, unrestricted IRA deductibility for workers covered by employer plans, accelerated depreciation, and the passive loss shelters that had sustained a mass-market tax avoidance industry. The answer to the first half is a mechanism: because the bill could not lose revenue and could not shift the burden between income groups, the only remaining source of funds for lower rates was the tax base itself, so preferences were sold to buy rates. Everything in the statute follows from that mechanism, and everything in this guide is organized to make the mechanism visible.
 

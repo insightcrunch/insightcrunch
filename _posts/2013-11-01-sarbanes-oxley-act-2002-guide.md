@@ -6,15 +6,15 @@ date: "2013-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Corporate Governance", "Securities Regulation", "Auditing Standards", "Financial Reform", "Investor Protection"]
 excerpt: "Sarbanes-Oxley Act explained: executive and auditor duties, the costly internal control audit, the court challenge, and how later laws reshaped the statute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2013-11-01"
+lang: en
 ---
-
 The Sarbanes-Oxley Act of 2002 remains the most ambitious federal response to corporate accounting fraud in American history. Signed on July 30, 2002, as Public Law 107-204, the statute rewrote the relationship between public companies, their executives, their auditors, and their boards in a single legislative stroke. It created an audit regulator with an unusual structure, imposed personal certification duties on chief executives and chief financial officers, barred auditors from selling most consulting services to the companies they audited, and made the destruction of corporate records a serious federal crime. A decade later, one subsection of one section had absorbed almost the entire controversy over the law, and Congress had begun carving exemptions around exactly that subsection. This profile carries the whole statute in one article: its passage, its provisions, its implementation, its constitutional litigation, and the evidence on what it cost and what it changed.
 
-![Sarbanes-Oxley Act statute profile](/assets/images/blog/blog-01.webp)
+![Sarbanes-Oxley Act statute profile](/assets/images/blog/blog-53.webp)
 
 What follows is organized around the statute's architecture and its afterlife. The first sections reconstruct the scandals and the legislative sprint that produced the law, including the vote counts and the conference dynamics that shaped its final form. The middle sections walk through the substantive pillars the reform erected: the audit regulator, the certification regimes, the internal control requirements, the auditor independence rules, the governance mandates, and the criminal and whistleblower provisions. The later sections trace what happened next: the cost explosion under the first auditing standard, the regulatory retreat to a risk-based model, the constitutional challenge that reshaped the audit regulator, the exemptions that narrowed the law's most expensive requirement, and the unresolved debate over whether the statute damaged American public markets. A table of obligations and a set of frequently asked questions close the profile.
 

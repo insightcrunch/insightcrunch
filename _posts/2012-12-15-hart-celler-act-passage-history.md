@@ -7,15 +7,14 @@ last_updated: "2012-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Congressional History", "Civil Rights Era", "Legislative Process", "Public Policy"]
 excerpt: "The Hart-Celler Act ended national origins quotas after decades of failed reform. This history traces the trades, predictions, and what the record shows."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "simon-hartley"
+lang: en
 ---
-
-
 A reader who finishes this legislative history should be able to answer one test question: why did a proposal to end the national origins quota formula, which had failed for nearly two decades, pass by lopsided bipartisan margins in 1965? The answer has three parts. First, name the trade that secured restrictionist votes. Second, state precisely what the sponsors predicted the bill would do, in their own words and with proper citations. Third, explain what actually happened afterward. This account covers the long failure, the 1952 veto, the changed conditions of the 89th Congress, the path of H.R. 2580 through both chambers, the bargains struck along the way, the predictions entered into the record, and the debate among historians over whether those predictions were deception or honest error.
 
-![The Statue of Liberty viewed from New York Harbor, the setting of the 1965 signing ceremony](/assets/images/blog/blog-01.webp)
+![The Statue of Liberty viewed from New York Harbor, the setting of the 1965 signing ceremony](/assets/images/blog/blog-25.webp)
 
 ### What trade secured restrictionist votes for the Hart-Celler Act?
 
