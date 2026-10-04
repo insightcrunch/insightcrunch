@@ -45,3 +45,27 @@ discretion-enforcement-immigration-prosecutorial | how-deportation-united-states
 administrative-face-it-removal | how-deportation-united-states-works | What is administrative removal and who faces it?
 appeal-board-immigration-role | how-deportation-united-states-works | What is the role of the Board of Immigration Appeals?
 against-being-country-exist-face-protection-sent-someone-torture | how-deportation-united-states-works | What protections exist against being sent to a country where someone faces torture?
+
+## technology-contactless-payments
+
+### how-contactless-payments-work
+card-close-phone-register-tap-terminal | how-contactless-payments-work | How close must a card or phone be to a terminal for a tap to register?
+card-checkout-gas-pump-store-tap-work | how-contactless-payments-work | Why might a card tap work at a store checkout but not at a gas pump?
+battery-complete-dead-payment-phone-tap | how-contactless-payments-work | Can a phone complete a tap payment with a dead battery?
+across-capture-payment-room-tap-thief | how-contactless-payments-work | Can a thief capture a tap payment from across a room?
+pair-phone-same-smartwatch-tap-token-use | how-contactless-payments-work | Does a smartwatch tap use the same token as the phone it is paired with?
+accept-contactless-payment-shopper-tell-terminal-whether | how-contactless-payments-work | How can a shopper tell whether a terminal accepts contactless payment?
+contactless-countri-differ-pin-purchase-threshold | how-contactless-payments-work | Why do PIN thresholds for contactless purchases differ between countries?
+complete-connection-internet-need-phone-tap | how-contactless-payments-work | Does a phone need an internet connection to complete a tap?
+card-merchant-number-real-receive-tap | how-contactless-payments-work | Does the merchant receive the real card number during a tap?
+counter-payment-purpose-tap-transaction | how-contactless-payments-work | What is the purpose of the transaction counter in a tap payment?
+card-charg-result-tapp-twice | how-contactless-payments-work | Can tapping a card twice result in being charged twice?
+card-decide-phone-several-stor-use | how-contactless-payments-work | How does a phone decide which card to use when several are stored?
+bank-card-same-share-terminal-transit | how-contactless-payments-work | Can transit cards and bank cards share the same terminal?
+accept-atm-contactless-tap | how-contactless-payments-work | Do ATMs accept contactless taps?
+authorization-contactless-gas-hold-payment-place-pre-station | how-contactless-payments-work | Why do gas stations place a pre-authorization hold on contactless payments?
+disabl-lost-phone-token | how-contactless-payments-work | How are the tokens on a lost phone disabled?
+beep-different-mean-pattern-payment-terminal | how-contactless-payments-work | What do the different beep patterns on a payment terminal mean?
+card-differ-digit-physical-receipt-show-some | how-contactless-payments-work | Why do some receipts show card digits that differ from the physical card?
+card-children-contactless-issu-prepaid-support-tap | how-contactless-payments-work | Do prepaid cards issued for children support contactless taps?
+card-case-happen-sit-terminal-together-two-wallet | how-contactless-payments-work | What happens when two cards sit together in a wallet case at the terminal?
