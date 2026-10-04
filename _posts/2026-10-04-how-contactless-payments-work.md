@@ -6,17 +6,17 @@ date: 2026-10-04
 categories: ["Technology"]
 tags: ["contactless-payments", "nfc-technology", "payment-security", "tokenization", "emv", "digital-wallets", "payment-networks"]
 excerpt: "How contactless payments work, from the radio signal that leaves the card to the token and cryptogram the issuer verifies, and why the tap beats the swipe."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2026-10-04
+lang: en
 ---
-
 ## The One-Paragraph Answer
 
 A contactless payment looks like a magic trick: a card or phone held near a terminal, a brief pause, a beep, and the sale is done. The apparent simplicity conceals a different story. The number printed on the card never travels across the air between the device and the reader. What crosses that gap is something else entirely: a substitute value called a token, paired with a one-time cryptographic receipt called a cryptogram, minted fresh for that single purchase by the card or the phone itself. That substitution, token plus cryptogram, is the whole mechanism. It is also the reason the tap is both faster and harder to counterfeit than the magnetic stripe swipe it replaced.
 
-![Contactless payment terminal reading a tapped card, showing the radio exchange behind tap-to-pay - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Contactless payment terminal reading a tapped card, showing the radio exchange behind tap-to-pay - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The magnetic stripe that contactless payment displaced carried a fatal design flaw. IBM engineer Forrest Parry invented the stripe in 1960 by fusing magnetic tape to a plastic card with a hot iron, and the format stayed essentially unchanged for five decades. The stripe stores a fixed string of data: the primary account number, the expiration date, the service code. Every swipe transmits the same string. A cheap reader hidden in a gas pump or an ATM bezel can capture that string in a single pass, and a blank card encoded with the same string becomes a working clone. Banks fought the fraud with neural network scoring and chargeback rules, but the defense was statistical rather than structural. The card number itself was the credential, and it was exposed at every use.
 
