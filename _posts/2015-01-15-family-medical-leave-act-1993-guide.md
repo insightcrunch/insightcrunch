@@ -9,7 +9,7 @@ excerpt: "The Family and Medical Leave Act secures a job rather than an income. 
 image: "/assets/images/blog/blog-109.webp"
 reading_time: "71"
 author: "maria-santos"
-last_updated: "2015-01-15"
+last_updated: 2026-10-05
 lang: en
 ---
 The Family and Medical Leave Act of 1993 promises less than its title suggests and delivers exactly what it promises, and the distance between the two is the subject of this profile. It does not pay anyone to stay home with a newborn, to sit beside a parent in a hospital room, or to recover from surgery. It does not reach every employer or every worker. What it does, with unusual precision, is forbid a covered employer from firing or demoting an eligible worker for taking a defined block of time off for defined reasons, and require the employer to keep that worker's group health coverage in place and restore the worker to the same or an equivalent position on return. The unpaid guarantee is the namable claim of this guide: the statute secures a job rather than an income, and the binding constraint on American family leave is the wage rather than the right.

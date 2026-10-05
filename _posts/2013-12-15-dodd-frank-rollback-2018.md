@@ -9,7 +9,7 @@ excerpt: "The Dodd-Frank rollback left every major authority intact and re-tiere
 image: "/assets/images/blog/blog-71.webp"
 reading_time: "82"
 author: "kevin-reeves"
-last_updated: "2013-12-15"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The Most Misunderstood Banking Statute of Its Decade

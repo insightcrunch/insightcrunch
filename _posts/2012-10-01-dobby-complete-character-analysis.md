@@ -5,11 +5,11 @@ page_title: "Dobby Character Analysis in Harry Potter: From Servitude to Sacrifi
 date: 2012-10-01
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "House-Elves", "Freedom", "Sacrifice"]
-excerpt: "Full literary analysis of Dobby in Harry Potter - the sock that freed him, the self-punishment that did not stop, and the free elf's death for the Chosen One."
+excerpt: "Dobby fully decoded: the freed elf, the loyal friend, and the death scene that broke an entire generation."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 57
 author: "elena-wright"
-last_updated: 2012-10-01
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Joke That Became a Eulogy

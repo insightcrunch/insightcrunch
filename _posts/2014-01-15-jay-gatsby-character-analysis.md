@@ -5,11 +5,11 @@ page_title: "Jay Gatsby Character Analysis - Self-Invention, Obsession, the Gree
 date: 2014-01-15
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "jay-gatsby", "character-analysis", "literary-analysis", "classic-literature"]
-excerpt: "Deep analysis of Jay Gatsby - his reinvention, obsession with Daisy, and what his downfall says about America."
+excerpt: "Jay Gatsby fully decoded as the self-made man whose self-invention is the novel's most American tragedy."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 70
 author: "emily-reed"
-last_updated: 2014-01-15
+last_updated: 2026-10-05
 lang: en
 ---
 Jay Gatsby is not a romantic hero. He is a man who spent five years watching a green light across a bay, bought a mansion to position himself in the sightline of a woman he had known for one month, threw parties every Saturday night in the hope that she would wander in, and when she did not come, engineered an ambush reunion through her cousin without telling her he would be present. Fitzgerald knew exactly what he was writing. The textual evidence for reading Gatsby as a romanticized predator rather than a tragic dreamer is overwhelming once the reader stops filtering the story through Nick Carraway's adulatory narration, and the purpose of this analysis is to lay that evidence out scene by scene, chapter by chapter, until the romantic reading collapses under the weight of what the novel actually says.

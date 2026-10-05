@@ -9,7 +9,7 @@ excerpt: "The 2017 tax act made its corporate cut permanent and its individual c
 image: "/assets/images/blog/blog-66.webp"
 reading_time: "78"
 author: "christopher-wells"
-last_updated: "2013-06-15"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The statute whose name is not its name

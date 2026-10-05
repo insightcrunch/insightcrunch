@@ -9,7 +9,7 @@ excerpt: "The Equal Pay Act was the first ban on sex-based wage discrimination. 
 image: "/assets/images/blog/blog-74.webp"
 reading_time: "76"
 author: "michael-brooks"
-last_updated: "2015-02-01"
+last_updated: 2026-10-05
 lang: en
 ---
 On June 10, 1963, President John F. Kennedy signed the Equal Pay Act into law at the White House, creating the first federal prohibition on sex discrimination in employment anywhere in American law. The measure arrived a full year before the Civil Rights Act of 1964, and that twelve-month head start explains nearly everything unusual about it. Rather than sitting inside a new civil rights title with its own procedures, the new ban was grafted onto the Fair Labor Standards Act of 1938, the wage and hour law, which meant it inherited that law's enforcement machinery, its limitations periods, and its remedies. A reader who grasps that architectural choice can answer the four questions that organize this entire guide: what comparison the statute demands, what justifications an employer may offer, why no discriminatory motive need ever be proved, and why almost every modern fight under the law reduces to the meaning of a single open-ended clause.

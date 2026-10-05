@@ -3,7 +3,7 @@ layout: "post"
 title: "IIRIRA Guide: How the Immigration Law Reshaped Deportation"
 page_title: "IIRIRA Explained: The Illegal Immigration Reform and Immigrant Responsibility Act, Its Unlawful Presence Bars, Expedited Removal, Aggravated Felony Expansion, and Removal Consequences"
 date: "2013-01-15"
-last_updated: "2013-01-15"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Act", "IIRIRA", "Deportation Law", "Unlawful Presence", "Statute Profile"]
 excerpt: "IIRIRA rebuilt removal law inside an appropriations bill, creating the unlawful presence bars, expedited removal, and a retroactive aggravated felony category."

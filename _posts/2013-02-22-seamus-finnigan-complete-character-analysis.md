@@ -5,11 +5,11 @@ page_title: "Seamus Finnigan: The Friend Who Was Allowed to Be Wrong - A Complet
 date: 2013-02-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Seamus Finnigan", "Dumbledore's Army", "Gryffindor"]
-excerpt: "Seamus Finnigan in Harry Potter is the friend who is allowed to be wrong: a study of his doubt, his volatility, and his return to loyalty under the Carrows."
+excerpt: "Seamus Finnigan fully analyzed: the doubter turned DA loyalist who blew up the bridge in the final battle."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2013-02-22
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Friend Who Was Allowed to Be Wrong

@@ -2,7 +2,7 @@
 title: "Teaching Federal Education Policy: A Study Guide Built on Conditional Spending"
 excerpt: "Teaching federal education policy through the conditional spending frame: the teaching order, the six distinctions that decide marks, and the nine checkpoints."
 date: "2014-12-15"
-last_updated: "2014-12-15"
+last_updated: 2026-10-05
 author: "insight-crunch-team"
 category: "Teaching & study"
 tags: "education law, conditional spending, teaching guide, certification exam, federal policy"

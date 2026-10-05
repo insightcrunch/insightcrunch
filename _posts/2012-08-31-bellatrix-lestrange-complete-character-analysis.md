@@ -5,11 +5,11 @@ page_title: "Bellatrix Lestrange Character Analysis: Devotion, Madness, and the 
 date: 2012-08-31
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Bellatrix Lestrange", "Death Eaters", "Black Family", "Slytherin"]
-excerpt: "Complete literary analysis of Bellatrix Lestrange in Harry Potter - fanaticism as a love language, the Black sisters, Azkaban, and the duel with Molly."
+excerpt: "Bellatrix Lestrange fully analyzed: madness, worship, and the most terrifying believer in Voldemort's circle."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 58
 author: "sarah-mitchell"
-last_updated: 2012-08-31
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Laugh in the Courtroom

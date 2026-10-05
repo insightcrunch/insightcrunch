@@ -9,7 +9,7 @@ excerpt: "Federal education law in court: Rodriguez denied an education right so
 image: "/assets/images/blog/blog-02.webp"
 reading_time: "83"
 author: "william-knight"
-last_updated: "2014-12-01"
+last_updated: 2026-10-05
 lang: en
 ---
 Ask a working lawyer what federal education law promises a student and the honest answer is narrower than most citizens expect. No clause of the federal Constitution names education as a right. No federal statute funds schools as a national system. What federal law does, through statutes that attach conditions to money, is create a handful of enforceable rights, each drawn narrowly, each contested in court, each defined less by the statute's text than by what judges have said the text allows. This article maps that judicial terrain. It is the litigation article of the education cluster, and it carries a single organizing claim that makes every other article in the cluster legible.

@@ -9,7 +9,7 @@ excerpt: "The CFPB moved consumer finance rules from seven regulators to one bur
 image: "/assets/images/blog/blog-45.webp"
 reading_time: "70"
 author: "maria-santos"
-last_updated: "2013-12-01"
+last_updated: 2026-10-05
 lang: en
 ---
 The CFPB began as an idea about toasters. That image is not a joke about the agency but the argument that made it plausible. In the summer of 2007, with the housing market already trembling, Elizabeth Warren published an essay arguing that consumer financial products were regulated for safety far more loosely than the physical products sold in the same stores. A toaster could not lawfully carry a one in five chance of burning down a house, she wrote, yet a mortgage could carry the same chance of costing a family its home. The comparison drew attention because it reframed credit as a product subject to product safety logic, and within three years Congress had created an agency whose entire design embodied that reframing.

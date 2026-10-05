@@ -3,7 +3,7 @@ layout: "post"
 title: "Tax Reform Act: Complete Guide to the Landmark Statute"
 page_title: "Tax Reform Act: Design, Provisions, and Trade-Offs Explained"
 date: "2013-05-01"
-last_updated: "2013-05-01"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "Tax Reform", "Federal Statutes", "Public Law", "Study Guide"]
 excerpt: "How the Tax Reform Act traded eliminated preferences for a twenty-eight percent top individual rate: the closed-system statute guide with the trade table."

@@ -3,7 +3,7 @@ layout: "post"
 title: "Hart-Celler Act: How Congress Passed the Immigration Reform"
 page_title: "Hart-Celler Act Passage: The Bargain Behind Immigration Reform"
 date: "2012-12-15"
-last_updated: "2012-12-15"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Congressional History", "Civil Rights Era", "Legislative Process", "Public Policy"]
 excerpt: "The Hart-Celler Act ended national origins quotas after decades of failed reform. This history traces the trades, predictions, and what the record shows."

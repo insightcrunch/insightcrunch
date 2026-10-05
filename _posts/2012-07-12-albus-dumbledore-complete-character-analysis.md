@@ -5,11 +5,11 @@ page_title: "Albus Dumbledore Complete Character Analysis: Wisdom, Secrets, and 
 date: 2012-07-12
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Albus Dumbledore", "Hogwarts Headmaster", "Mentor Archetype"]
-excerpt: "Deep literary analysis of Albus Dumbledore across all seven Harry Potter books: fallen idealist, master strategist, and the Machiavellian heart of Hogwarts."
+excerpt: "Dumbledore fully decoded across seven books: brilliance, manipulation, regret, and the mentor who plans his own death."
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 65
 author: "claire-bennett"
-last_updated: 2012-07-12
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Old Man Who Was Not Innocent

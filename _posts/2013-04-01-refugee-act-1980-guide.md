@@ -3,7 +3,7 @@ layout: "post"
 title: "The Refugee Act Explained: Definition, Asylum, and Ceiling"
 page_title: "Refugee Act Explained: Complete Statute Profile of the Refugee Definition, Asylum, and the Annual Admissions Ceiling"
 date: "2013-04-01"
-last_updated: "2013-04-01"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Refugee Act", "Immigration Law", "Asylum", "INA", "Statute Profile"]
 excerpt: "A full statute profile of the Refugee Act: the convention definition it imported, the two doors of admission and asylum, the ceiling, and the case law."

@@ -3,7 +3,7 @@ layout: "post"
 title: "The Forgotten Immigration Expansion: A Complete Legal Guide"
 page_title: "The Forgotten Immigration Expansion: Legal Guide"
 date: "2013-03-01"
-last_updated: "2013-03-01"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Visa Policy", "Congress", "INA", "Statutory History"]
 excerpt: "Immigration amendments reshaped American admission, creating the diversity lottery, temporary protected status and a new employment-based visa system."

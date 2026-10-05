@@ -9,7 +9,7 @@ excerpt: "Title IX bars sex bias in funded schools, yet the short law never ment
 image: "/assets/images/blog/blog-25.webp"
 reading_time: "76"
 author: "gregory-marsh"
-last_updated: "2014-10-15"
+last_updated: 2026-10-05
 lang: en
 ---
 ## Title IX Begins with Thirty-Seven Words

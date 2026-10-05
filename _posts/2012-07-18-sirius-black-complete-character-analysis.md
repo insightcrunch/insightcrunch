@@ -5,11 +5,11 @@ page_title: "Sirius Black Character Analysis: Freedom, Fate, and the Tragedy of 
 date: 2012-07-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sirius Black", "Marauders", "Azkaban"]
-excerpt: "Sirius Black in Harry Potter is the series' definitive study of arrested development: a godfather frozen at twenty-one by Azkaban, lovable and tragic at once."
+excerpt: "Sirius Black fully analyzed: prison, escape, godfather love, and the man Azkaban broke before the veil took him."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 66
 author: "sophia-turner"
-last_updated: 2012-07-18
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Godfather Who Never Grew Up

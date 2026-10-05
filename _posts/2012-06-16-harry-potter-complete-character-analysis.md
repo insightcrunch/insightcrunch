@@ -5,11 +5,11 @@ page_title: "Harry Potter Character Analysis: The Boy Who Lived, the Moral Cente
 date: 2012-06-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Chosen One", "Orphan Hero", "Trauma Survivor"]
-excerpt: "Harry Potter character analysis: why the Boy Who Lived's quiet ordinariness, inherited fortunes, and father-hunger form Rowling's most radical moral argument."
+excerpt: "Harry Potter the character, fully analyzed across seven books for psychology, growth, and enduring literary impact."
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 58
 author: "victoria-stone"
-last_updated: 2012-06-16
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Quietest Protagonist in Modern Fantasy

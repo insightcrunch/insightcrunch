@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-01T12:47:10Z",
+  "generated": "2026-10-05T14:05:26Z",
   "threshold": 50,
-  "totalPosts": 4221,
-  "flaggedPosts": 2671,
+  "totalPosts": 4276,
+  "flaggedPosts": 2690,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 164.6,
+  "avgTopCount": 165.0,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -87413,6 +87413,24 @@
       ]
     },
     {
+      "filename": "2012-12-15-hart-celler-act-passage-history.md",
+      "slug": "hart-celler-act-passage-history",
+      "title": "Hart-Celler Act: How Congress Passed the Immigration Reform",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9288,
+      "topWord": "bill",
+      "topCount": 142,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-12-15-hart-celler-act-passage-history.md"
+    },
+    {
       "filename": "2012-12-15-is-amazon-hard-to-get-hired-2.md",
       "slug": "is-amazon-hard-to-get-hired-2",
       "title": "Amazon Customer Service Jobs: Remote Roles and How to Apply",
@@ -87873,6 +87891,24 @@
       ]
     },
     {
+      "filename": "2013-01-01-immigration-reform-control-act-1986.md",
+      "slug": "immigration-reform-control-act-1986",
+      "title": "Immigration Reform and Control Act: Half-Delivered Bargain",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9772,
+      "topWord": "enforcement",
+      "topCount": 132,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-01-01-immigration-reform-control-act-1986.md"
+    },
+    {
       "filename": "2013-01-01-mamluk-architecture-of-cairo.md",
       "slug": "mamluk-architecture-of-cairo",
       "title": "Mamluk Architecture and Cairo's Monumental Golden Age",
@@ -88067,6 +88103,24 @@
           "count": 26
         }
       ]
+    },
+    {
+      "filename": "2013-01-15-iirira-1996-immigration-act-guide.md",
+      "slug": "iirira-1996-immigration-act-guide",
+      "title": "IIRIRA Guide: How the Immigration Law Reshaped Deportation",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11620,
+      "topWord": "statute",
+      "topCount": 146,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-01-15-iirira-1996-immigration-act-guide.md"
     },
     {
       "filename": "2013-01-17-how-can-i-start-working-at-amazon.md",
@@ -88639,6 +88693,112 @@
       ]
     },
     {
+      "filename": "2013-02-01-family-preference-visa-system-law.md",
+      "slug": "family-preference-visa-system-law",
+      "title": "Family Preference Visas: How the INA Allocates Green Cards",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10167,
+      "topWord": "family",
+      "topCount": 221,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-02-01-family-preference-visa-system-law.md",
+      "flaggedWords": [
+        {
+          "word": "family",
+          "count": 221
+        }
+      ],
+      "top20": [
+        {
+          "word": "family",
+          "count": 221
+        },
+        {
+          "word": "preference",
+          "count": 183
+        },
+        {
+          "word": "country",
+          "count": 162
+        },
+        {
+          "word": "petition",
+          "count": 122
+        },
+        {
+          "word": "category",
+          "count": 120
+        },
+        {
+          "word": "numbers",
+          "count": 113
+        },
+        {
+          "word": "ceiling",
+          "count": 104
+        },
+        {
+          "word": "immediate",
+          "count": 89
+        },
+        {
+          "word": "beneficiary",
+          "count": 89
+        },
+        {
+          "word": "permanent",
+          "count": 86
+        },
+        {
+          "word": "date",
+          "count": 85
+        },
+        {
+          "word": "immigration",
+          "count": 78
+        },
+        {
+          "word": "visa",
+          "count": 78
+        },
+        {
+          "word": "citizen",
+          "count": 74
+        },
+        {
+          "word": "petitioner",
+          "count": 74
+        },
+        {
+          "word": "child",
+          "count": 73
+        },
+        {
+          "word": "allocation",
+          "count": 69
+        },
+        {
+          "word": "act",
+          "count": 68
+        },
+        {
+          "word": "relative",
+          "count": 67
+        },
+        {
+          "word": "percent",
+          "count": 67
+        }
+      ]
+    },
+    {
       "filename": "2013-02-01-mamluk-war-machine-explained.md",
       "slug": "mamluk-war-machine-explained",
       "title": "The Mamluk War Machine: Training, Tactics, and Decline",
@@ -89129,6 +89289,24 @@
       ]
     },
     {
+      "filename": "2013-02-15-immigration-act-1965-demographic-impact.md",
+      "slug": "immigration-act-1965-demographic-impact",
+      "title": "How the Hart-Celler Act Reshaped American Demographics",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10610,
+      "topWord": "percent",
+      "topCount": 145,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-02-15-immigration-act-1965-demographic-impact.md"
+    },
+    {
       "filename": "2013-02-17-colin-creevey-complete-character-analysis.md",
       "slug": "colin-creevey-complete-character-analysis",
       "title": "Colin Creevey Character Analysis: Innocence and Devotion",
@@ -89431,6 +89609,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-01-how-a-slave-army-ruled-egypt.md"
     },
     {
+      "filename": "2013-03-01-immigration-act-1990-guide.md",
+      "slug": "immigration-act-1990-guide",
+      "title": "The Forgotten Immigration Expansion: A Complete Legal Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9674,
+      "topWord": "immigration",
+      "topCount": 150,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-01-immigration-act-1990-guide.md"
+    },
+    {
       "filename": "2013-03-05-sybill-trelawney-complete-character-analysis.md",
       "slug": "sybill-trelawney-complete-character-analysis",
       "title": "Sybill Trelawney Analysis: Fraud Prophet and Survivor",
@@ -89717,6 +89913,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-15-harry-potter-psychology-of-bullying-analysis.md"
+    },
+    {
+      "filename": "2013-03-15-immigration-law-supreme-court-cases.md",
+      "slug": "immigration-law-supreme-court-cases",
+      "title": "Immigration Law in the Supreme Court: Decisions Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12424,
+      "topWord": "power",
+      "topCount": 154,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-15-immigration-law-supreme-court-cases.md"
     },
     {
       "filename": "2013-03-19-saleem-rehmani-profile.md",
@@ -90289,6 +90503,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-01-ottoman-conquest-of-mamluk-egypt.md"
     },
     {
+      "filename": "2013-04-01-refugee-act-1980-guide.md",
+      "slug": "refugee-act-1980-guide",
+      "title": "The Refugee Act Explained: Definition, Asylum, and Ceiling",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9836,
+      "topWord": "definition",
+      "topCount": 151,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-01-refugee-act-1980-guide.md"
+    },
+    {
       "filename": "2013-04-06-harry-potter-women-characters-analysis.md",
       "slug": "harry-potter-women-characters-analysis",
       "title": "Women of Harry Potter: Mothers Warriors and Survivors",
@@ -90627,6 +90859,24 @@
           "count": 34
         }
       ]
+    },
+    {
+      "filename": "2013-04-15-us-immigration-law-myths.md",
+      "slug": "us-immigration-law-myths",
+      "title": "US Immigration Law Myths Examined Against the Record",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9731,
+      "topWord": "immigration",
+      "topCount": 144,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-15-us-immigration-law-myths.md"
     },
     {
       "filename": "2013-04-17-harry-potter-loyalty-betrayal-analysis.md",
@@ -91111,6 +91361,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-01-ottoman-egypt-complete-guide.md"
     },
     {
+      "filename": "2013-05-01-tax-reform-act-1986-complete-guide.md",
+      "slug": "tax-reform-act-1986-complete-guide",
+      "title": "Tax Reform Act: Complete Guide to the Landmark Statute",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13652,
+      "topWord": "tax",
+      "topCount": 284,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-01-tax-reform-act-1986-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "tax",
+          "count": 284
+        }
+      ],
+      "top20": [
+        {
+          "word": "tax",
+          "count": 284
+        },
+        {
+          "word": "rate",
+          "count": 270
+        },
+        {
+          "word": "income",
+          "count": 225
+        },
+        {
+          "word": "percent",
+          "count": 185
+        },
+        {
+          "word": "act",
+          "count": 184
+        },
+        {
+          "word": "revenue",
+          "count": 152
+        },
+        {
+          "word": "base",
+          "count": 105
+        },
+        {
+          "word": "deduction",
+          "count": 103
+        },
+        {
+          "word": "corporate",
+          "count": 96
+        },
+        {
+          "word": "dollars",
+          "count": 96
+        },
+        {
+          "word": "credit",
+          "count": 91
+        },
+        {
+          "word": "individual",
+          "count": 77
+        },
+        {
+          "word": "provisions",
+          "count": 73
+        },
+        {
+          "word": "distributional",
+          "count": 72
+        },
+        {
+          "word": "provision",
+          "count": 69
+        },
+        {
+          "word": "thousand",
+          "count": 67
+        },
+        {
+          "word": "statute",
+          "count": 66
+        },
+        {
+          "word": "rates",
+          "count": 66
+        },
+        {
+          "word": "bill",
+          "count": 60
+        },
+        {
+          "word": "neutrality",
+          "count": 60
+        }
+      ]
+    },
+    {
       "filename": "2013-05-04-harry-potter-leadership-styles-analysis.md",
       "slug": "harry-potter-leadership-styles-analysis",
       "title": "Leadership Styles in Harry Potter: A Full Comparison",
@@ -91483,6 +91839,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-14-harry-potter-redemption-arcs-analysis.md"
     },
     {
+      "filename": "2013-05-15-tax-reform-act-1986-passage-history.md",
+      "slug": "tax-reform-act-1986-passage-history",
+      "title": "Tax Reform Act Passage: How a Dead Bill Became Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9748,
+      "topWord": "bill",
+      "topCount": 259,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-15-tax-reform-act-1986-passage-history.md",
+      "flaggedWords": [
+        {
+          "word": "bill",
+          "count": 259
+        }
+      ],
+      "top20": [
+        {
+          "word": "bill",
+          "count": 259
+        },
+        {
+          "word": "vote",
+          "count": 123
+        },
+        {
+          "word": "senate",
+          "count": 116
+        },
+        {
+          "word": "procedural",
+          "count": 106
+        },
+        {
+          "word": "committee",
+          "count": 104
+        },
+        {
+          "word": "rule",
+          "count": 96
+        },
+        {
+          "word": "constraint",
+          "count": 74
+        },
+        {
+          "word": "substitute",
+          "count": 70
+        },
+        {
+          "word": "procedure",
+          "count": 64
+        },
+        {
+          "word": "packwood",
+          "count": 61
+        },
+        {
+          "word": "floor",
+          "count": 60
+        },
+        {
+          "word": "conference",
+          "count": 59
+        },
+        {
+          "word": "report",
+          "count": 57
+        },
+        {
+          "word": "rate",
+          "count": 56
+        },
+        {
+          "word": "tax",
+          "count": 54
+        },
+        {
+          "word": "december",
+          "count": 53
+        },
+        {
+          "word": "reform",
+          "count": 52
+        },
+        {
+          "word": "coalition",
+          "count": 50
+        },
+        {
+          "word": "passage",
+          "count": 49
+        },
+        {
+          "word": "votes",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2013-05-19-jem-targets-compared.md",
       "slug": "jem-targets-compared",
       "title": "JeM Targets Elimination Compared",
@@ -91731,6 +92193,24 @@
       ]
     },
     {
+      "filename": "2013-06-01-economic-recovery-tax-act-1981.md",
+      "slug": "economic-recovery-tax-act-1981",
+      "title": "Economic Recovery Tax Act: Indexation's Quiet Triumph",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10201,
+      "topWord": "act",
+      "topCount": 197,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-01-economic-recovery-tax-act-1981.md"
+    },
+    {
       "filename": "2013-06-01-harry-potter-hogwarts-houses-personality-analysis.md",
       "slug": "harry-potter-hogwarts-houses-personality-analysis",
       "title": "Hogwarts Houses as Personality Theory: Sorting Decoded",
@@ -91923,6 +92403,112 @@
         {
           "word": "isi",
           "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2013-06-15-tax-cuts-and-jobs-act-2017-guide.md",
+      "slug": "tax-cuts-and-jobs-act-2017-guide",
+      "title": "Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11181,
+      "topWord": "tax",
+      "topCount": 271,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-15-tax-cuts-and-jobs-act-2017-guide.md",
+      "flaggedWords": [
+        {
+          "word": "tax",
+          "count": 271
+        }
+      ],
+      "top20": [
+        {
+          "word": "tax",
+          "count": 271
+        },
+        {
+          "word": "percent",
+          "count": 186
+        },
+        {
+          "word": "income",
+          "count": 121
+        },
+        {
+          "word": "rate",
+          "count": 118
+        },
+        {
+          "word": "bill",
+          "count": 110
+        },
+        {
+          "word": "act",
+          "count": 102
+        },
+        {
+          "word": "provisions",
+          "count": 100
+        },
+        {
+          "word": "individual",
+          "count": 95
+        },
+        {
+          "word": "deduction",
+          "count": 86
+        },
+        {
+          "word": "corporate",
+          "count": 83
+        },
+        {
+          "word": "statute",
+          "count": 78
+        },
+        {
+          "word": "december",
+          "count": 74
+        },
+        {
+          "word": "permanent",
+          "count": 70
+        },
+        {
+          "word": "reconciliation",
+          "count": 69
+        },
+        {
+          "word": "senate",
+          "count": 64
+        },
+        {
+          "word": "rule",
+          "count": 63
+        },
+        {
+          "word": "provision",
+          "count": 63
+        },
+        {
+          "word": "law",
+          "count": 62
+        },
+        {
+          "word": "byrd",
+          "count": 62
+        },
+        {
+          "word": "cuts",
+          "count": 61
         }
       ]
     },
@@ -92395,6 +92981,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-29-kashmir-origin-terrorists-pakistan.md"
     },
     {
+      "filename": "2013-07-01-earned-income-tax-credit-law.md",
+      "slug": "earned-income-tax-credit-law",
+      "title": "Earned Income Tax Credit: Law, Structure, and Evidence Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11048,
+      "topWord": "credit",
+      "topCount": 285,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-01-earned-income-tax-credit-law.md",
+      "flaggedWords": [
+        {
+          "word": "credit",
+          "count": 285
+        },
+        {
+          "word": "tax",
+          "count": 221
+        }
+      ],
+      "top20": [
+        {
+          "word": "credit",
+          "count": 285
+        },
+        {
+          "word": "tax",
+          "count": 221
+        },
+        {
+          "word": "income",
+          "count": 176
+        },
+        {
+          "word": "phase",
+          "count": 120
+        },
+        {
+          "word": "earnings",
+          "count": 110
+        },
+        {
+          "word": "benefit",
+          "count": 103
+        },
+        {
+          "word": "rate",
+          "count": 73
+        },
+        {
+          "word": "workers",
+          "count": 66
+        },
+        {
+          "word": "law",
+          "count": 65
+        },
+        {
+          "word": "provision",
+          "count": 63
+        },
+        {
+          "word": "child",
+          "count": 61
+        },
+        {
+          "word": "low",
+          "count": 59
+        },
+        {
+          "word": "earned",
+          "count": 58
+        },
+        {
+          "word": "program",
+          "count": 58
+        },
+        {
+          "word": "act",
+          "count": 56
+        },
+        {
+          "word": "children",
+          "count": 55
+        },
+        {
+          "word": "payment",
+          "count": 53
+        },
+        {
+          "word": "percent",
+          "count": 52
+        },
+        {
+          "word": "congress",
+          "count": 51
+        },
+        {
+          "word": "households",
+          "count": 49
+        }
+      ]
+    },
+    {
       "filename": "2013-07-01-egypt-under-ottoman-rule.md",
       "slug": "egypt-under-ottoman-rule",
       "title": "How Egypt Was Governed Under the Ottomans: Three Powers",
@@ -92553,6 +93249,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-13-hardeep-singh-nijjar-ktf-canada.md"
+    },
+    {
+      "filename": "2013-07-15-bush-tax-cuts-2001-2003.md",
+      "slug": "bush-tax-cuts-2001-2003",
+      "title": "Bush Tax Cuts Explained: Sunsets, Survival, and the Estate Tax Year",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9621,
+      "topWord": "act",
+      "topCount": 145,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-15-bush-tax-cuts-2001-2003.md"
     },
     {
       "filename": "2013-07-15-harry-potter-dursleys-mundane-evil-analysis.md",
@@ -93125,6 +93839,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-30-harry-potter-wand-object-symbolism-analysis.md"
     },
     {
+      "filename": "2013-08-01-tax-reform-act-1986-impact.md",
+      "slug": "tax-reform-act-1986-impact",
+      "title": "Tax Reform Aftermath: What the Landmark Law Kept and Lost",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11746,
+      "topWord": "rate",
+      "topCount": 270,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-08-01-tax-reform-act-1986-impact.md",
+      "flaggedWords": [
+        {
+          "word": "rate",
+          "count": 270
+        }
+      ],
+      "top20": [
+        {
+          "word": "rate",
+          "count": 270
+        },
+        {
+          "word": "tax",
+          "count": 233
+        },
+        {
+          "word": "reform",
+          "count": 192
+        },
+        {
+          "word": "income",
+          "count": 191
+        },
+        {
+          "word": "percent",
+          "count": 185
+        },
+        {
+          "word": "act",
+          "count": 165
+        },
+        {
+          "word": "base",
+          "count": 123
+        },
+        {
+          "word": "rates",
+          "count": 79
+        },
+        {
+          "word": "revenue",
+          "count": 72
+        },
+        {
+          "word": "top",
+          "count": 69
+        },
+        {
+          "word": "individual",
+          "count": 60
+        },
+        {
+          "word": "cuts",
+          "count": 58
+        },
+        {
+          "word": "broadening",
+          "count": 55
+        },
+        {
+          "word": "dollars",
+          "count": 50
+        },
+        {
+          "word": "corporate",
+          "count": 49
+        },
+        {
+          "word": "economic",
+          "count": 49
+        },
+        {
+          "word": "deduction",
+          "count": 49
+        },
+        {
+          "word": "passive",
+          "count": 49
+        },
+        {
+          "word": "schedule",
+          "count": 48
+        },
+        {
+          "word": "credit",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2013-08-01-trade-decline-ottoman-egypt.md",
       "slug": "trade-decline-ottoman-egypt",
       "title": "Trade and Decline in Ottoman Egypt: Bypassed, Not Broke",
@@ -93589,6 +94409,112 @@
       ]
     },
     {
+      "filename": "2013-08-15-how-tax-bills-move-through-congress.md",
+      "slug": "how-tax-bills-move-through-congress",
+      "title": "How Tax Bills Move Through Congress: The Process Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11048,
+      "topWord": "tax",
+      "topCount": 247,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-08-15-how-tax-bills-move-through-congress.md",
+      "flaggedWords": [
+        {
+          "word": "tax",
+          "count": 247
+        }
+      ],
+      "top20": [
+        {
+          "word": "tax",
+          "count": 247
+        },
+        {
+          "word": "bill",
+          "count": 208
+        },
+        {
+          "word": "committee",
+          "count": 156
+        },
+        {
+          "word": "senate",
+          "count": 137
+        },
+        {
+          "word": "rule",
+          "count": 129
+        },
+        {
+          "word": "reconciliation",
+          "count": 124
+        },
+        {
+          "word": "budget",
+          "count": 124
+        },
+        {
+          "word": "revenue",
+          "count": 101
+        },
+        {
+          "word": "provisions",
+          "count": 97
+        },
+        {
+          "word": "legislation",
+          "count": 95
+        },
+        {
+          "word": "amendments",
+          "count": 79
+        },
+        {
+          "word": "amendment",
+          "count": 75
+        },
+        {
+          "word": "floor",
+          "count": 75
+        },
+        {
+          "word": "provision",
+          "count": 73
+        },
+        {
+          "word": "rules",
+          "count": 71
+        },
+        {
+          "word": "byrd",
+          "count": 70
+        },
+        {
+          "word": "bills",
+          "count": 68
+        },
+        {
+          "word": "majority",
+          "count": 63
+        },
+        {
+          "word": "window",
+          "count": 58
+        },
+        {
+          "word": "fiscal",
+          "count": 56
+        }
+      ]
+    },
+    {
       "filename": "2013-08-16-harry-potter-growing-up-maturity-analysis.md",
       "slug": "harry-potter-growing-up-maturity-analysis",
       "title": "Growing Up With Harry Potter: Maturity and Character",
@@ -93873,6 +94799,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-01-mamluk-beys-of-ottoman-egypt.md"
     },
     {
+      "filename": "2013-09-01-tax-reform-1986-vs-tcja-2017.md",
+      "slug": "tax-reform-1986-vs-tcja-2017",
+      "title": "Tax Reform Compared: Bipartisan Versus Party-Line Models",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11728,
+      "topWord": "rate",
+      "topCount": 214,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-01-tax-reform-1986-vs-tcja-2017.md"
+    },
+    {
       "filename": "2013-09-02-dumbledore-vs-gandalf-mentor-comparison.md",
       "slug": "dumbledore-vs-gandalf-mentor-comparison",
       "title": "Dumbledore vs Gandalf: Two Mentors Two Philosophies",
@@ -94135,6 +95079,116 @@
         {
           "word": "institutional",
           "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2013-09-15-us-tax-law-myths.md",
+      "slug": "us-tax-law-myths",
+      "title": "US Tax Law Myths Examined: Statutes, Cases, and Verdicts",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10562,
+      "topWord": "income",
+      "topCount": 218,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-15-us-tax-law-myths.md",
+      "flaggedWords": [
+        {
+          "word": "income",
+          "count": 218
+        },
+        {
+          "word": "tax",
+          "count": 216
+        }
+      ],
+      "top20": [
+        {
+          "word": "income",
+          "count": 218
+        },
+        {
+          "word": "tax",
+          "count": 216
+        },
+        {
+          "word": "percent",
+          "count": 123
+        },
+        {
+          "word": "section",
+          "count": 76
+        },
+        {
+          "word": "dollars",
+          "count": 75
+        },
+        {
+          "word": "levy",
+          "count": 70
+        },
+        {
+          "word": "claim",
+          "count": 68
+        },
+        {
+          "word": "revenue",
+          "count": 59
+        },
+        {
+          "word": "federal",
+          "count": 58
+        },
+        {
+          "word": "earnings",
+          "count": 56
+        },
+        {
+          "word": "law",
+          "count": 52
+        },
+        {
+          "word": "top",
+          "count": 45
+        },
+        {
+          "word": "rate",
+          "count": 43
+        },
+        {
+          "word": "states",
+          "count": 39
+        },
+        {
+          "word": "record",
+          "count": 36
+        },
+        {
+          "word": "individual",
+          "count": 36
+        },
+        {
+          "word": "court",
+          "count": 35
+        },
+        {
+          "word": "act",
+          "count": 34
+        },
+        {
+          "word": "amendment",
+          "count": 33
+        },
+        {
+          "word": "published",
+          "count": 32
         }
       ]
     },
@@ -94691,6 +95745,112 @@
       ]
     },
     {
+      "filename": "2013-10-01-dodd-frank-act-complete-guide.md",
+      "slug": "dodd-frank-act-complete-guide",
+      "title": "Dodd-Frank Act: Complete Guide to the Statute's Architecture",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12173,
+      "topWord": "statute",
+      "topCount": 248,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-01-dodd-frank-act-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "statute",
+          "count": 248
+        }
+      ],
+      "top20": [
+        {
+          "word": "statute",
+          "count": 248
+        },
+        {
+          "word": "title",
+          "count": 210
+        },
+        {
+          "word": "financial",
+          "count": 117
+        },
+        {
+          "word": "agencies",
+          "count": 106
+        },
+        {
+          "word": "federal",
+          "count": 82
+        },
+        {
+          "word": "rules",
+          "count": 76
+        },
+        {
+          "word": "authority",
+          "count": 73
+        },
+        {
+          "word": "rule",
+          "count": 69
+        },
+        {
+          "word": "market",
+          "count": 66
+        },
+        {
+          "word": "trading",
+          "count": 58
+        },
+        {
+          "word": "bureau",
+          "count": 56
+        },
+        {
+          "word": "mortgage",
+          "count": 54
+        },
+        {
+          "word": "crisis",
+          "count": 52
+        },
+        {
+          "word": "rulemaking",
+          "count": 51
+        },
+        {
+          "word": "commission",
+          "count": 51
+        },
+        {
+          "word": "act",
+          "count": 50
+        },
+        {
+          "word": "dodd",
+          "count": 48
+        },
+        {
+          "word": "council",
+          "count": 48
+        },
+        {
+          "word": "swaps",
+          "count": 48
+        },
+        {
+          "word": "supervision",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2013-10-01-napoleon-invasion-of-egypt.md",
       "slug": "napoleon-invasion-of-egypt",
       "title": "Napoleon's Invasion of Egypt: A Brilliant Strategic Failure",
@@ -95177,6 +96337,112 @@
       ]
     },
     {
+      "filename": "2013-10-15-dodd-frank-passage-history.md",
+      "slug": "dodd-frank-passage-history",
+      "title": "Dodd-Frank Passage: How Congress Turned a Bill Into Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10833,
+      "topWord": "senate",
+      "topCount": 222,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-15-dodd-frank-passage-history.md",
+      "flaggedWords": [
+        {
+          "word": "senate",
+          "count": 222
+        }
+      ],
+      "top20": [
+        {
+          "word": "senate",
+          "count": 222
+        },
+        {
+          "word": "vote",
+          "count": 211
+        },
+        {
+          "word": "bill",
+          "count": 191
+        },
+        {
+          "word": "conference",
+          "count": 181
+        },
+        {
+          "word": "votes",
+          "count": 163
+        },
+        {
+          "word": "majority",
+          "count": 111
+        },
+        {
+          "word": "cloture",
+          "count": 109
+        },
+        {
+          "word": "amendment",
+          "count": 102
+        },
+        {
+          "word": "record",
+          "count": 89
+        },
+        {
+          "word": "senator",
+          "count": 84
+        },
+        {
+          "word": "june",
+          "count": 83
+        },
+        {
+          "word": "sixty",
+          "count": 79
+        },
+        {
+          "word": "substitute",
+          "count": 79
+        },
+        {
+          "word": "report",
+          "count": 78
+        },
+        {
+          "word": "brown",
+          "count": 77
+        },
+        {
+          "word": "committee",
+          "count": 71
+        },
+        {
+          "word": "minority",
+          "count": 67
+        },
+        {
+          "word": "passage",
+          "count": 64
+        },
+        {
+          "word": "text",
+          "count": 64
+        },
+        {
+          "word": "roll",
+          "count": 64
+        }
+      ]
+    },
+    {
       "filename": "2013-10-18-harry-potter-fred-george-vs-draco-comparison.md",
       "slug": "harry-potter-fred-george-vs-draco-comparison",
       "title": "Fred and George vs Draco Malfoy: Humor vs Cruelty as Power",
@@ -95461,6 +96727,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-11-01-battle-of-the-pyramids.md"
     },
     {
+      "filename": "2013-11-01-sarbanes-oxley-act-2002-guide.md",
+      "slug": "sarbanes-oxley-act-2002-guide",
+      "title": "Sarbanes-Oxley Act Explained: Rules, Costs, and Aftermath",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10309,
+      "topWord": "audit",
+      "topCount": 138,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-11-01-sarbanes-oxley-act-2002-guide.md"
+    },
+    {
       "filename": "2013-11-05-harry-potter-dobby-vs-kreacher-comparison.md",
       "slug": "harry-potter-dobby-vs-kreacher-comparison",
       "title": "Dobby vs Kreacher: Two House-Elves Two Journeys to Freedom",
@@ -95613,6 +96897,24 @@
           "count": 5
         }
       ]
+    },
+    {
+      "filename": "2013-11-15-gramm-leach-bliley-act-1999-guide.md",
+      "slug": "gramm-leach-bliley-act-1999-guide",
+      "title": "Gramm-Leach-Bliley Act: the Modernization Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10745,
+      "topWord": "act",
+      "topCount": 199,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-11-15-gramm-leach-bliley-act-1999-guide.md"
     },
     {
       "filename": "2013-11-16-harry-potter-mcgonagall-vs-umbridge-comparison.md",
@@ -95955,6 +97257,112 @@
       ]
     },
     {
+      "filename": "2013-12-01-cfpb-creation-and-powers.md",
+      "slug": "cfpb-creation-and-powers",
+      "title": "CFPB Creation and Powers: How the Bureau Was Funded",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9899,
+      "topWord": "bureau",
+      "topCount": 281,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-12-01-cfpb-creation-and-powers.md",
+      "flaggedWords": [
+        {
+          "word": "bureau",
+          "count": 281
+        }
+      ],
+      "top20": [
+        {
+          "word": "bureau",
+          "count": 281
+        },
+        {
+          "word": "section",
+          "count": 158
+        },
+        {
+          "word": "statute",
+          "count": 140
+        },
+        {
+          "word": "consumer",
+          "count": 137
+        },
+        {
+          "word": "federal",
+          "count": 101
+        },
+        {
+          "word": "act",
+          "count": 92
+        },
+        {
+          "word": "director",
+          "count": 81
+        },
+        {
+          "word": "financial",
+          "count": 78
+        },
+        {
+          "word": "authority",
+          "count": 77
+        },
+        {
+          "word": "funding",
+          "count": 76
+        },
+        {
+          "word": "commission",
+          "count": 73
+        },
+        {
+          "word": "agency",
+          "count": 65
+        },
+        {
+          "word": "title",
+          "count": 61
+        },
+        {
+          "word": "rulemaking",
+          "count": 61
+        },
+        {
+          "word": "appropriations",
+          "count": 60
+        },
+        {
+          "word": "enforcement",
+          "count": 57
+        },
+        {
+          "word": "court",
+          "count": 54
+        },
+        {
+          "word": "congress",
+          "count": 53
+        },
+        {
+          "word": "trade",
+          "count": 53
+        },
+        {
+          "word": "single",
+          "count": 50
+        }
+      ]
+    },
+    {
       "filename": "2013-12-01-napoleon-scholars-rediscovered-egypt.md",
       "slug": "napoleon-scholars-rediscovered-egypt",
       "title": "Napoleon's Scholars: The Army That Launched Egyptology",
@@ -96209,6 +97617,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2013-12-15-dodd-frank-rollback-2018.md",
+      "slug": "dodd-frank-rollback-2018",
+      "title": "Dodd-Frank Rollback and the Re-Tiering of Bank Rules",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11767,
+      "topWord": "billion",
+      "topCount": 136,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-12-15-dodd-frank-rollback-2018.md"
     },
     {
       "filename": "2013-12-16-big-brother-party-analysis-1984.md",
@@ -96753,6 +98179,24 @@
       ]
     },
     {
+      "filename": "2014-01-01-dodd-frank-banking-impact.md",
+      "slug": "dodd-frank-banking-impact",
+      "title": "Dodd-Frank Banking Impact: What Changed, What Is Untested",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10174,
+      "topWord": "capital",
+      "topCount": 112,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-01-01-dodd-frank-banking-impact.md"
+    },
+    {
       "filename": "2014-01-01-rosetta-stone-deciphering-egypt.md",
       "slug": "rosetta-stone-deciphering-egypt",
       "title": "The Rosetta Stone and the Deciphering of Ancient Egypt",
@@ -97201,6 +98645,24 @@
           "count": 24
         }
       ]
+    },
+    {
+      "filename": "2014-01-15-financial-regulation-court-cases.md",
+      "slug": "financial-regulation-court-cases",
+      "title": "Financial Regulation Court Challenges: A Complete History",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11166,
+      "topWord": "agency",
+      "topCount": 152,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-01-15-financial-regulation-court-cases.md"
     },
     {
       "filename": "2014-01-15-jay-gatsby-character-analysis.md",
@@ -97891,6 +99353,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-02-01-did-ottoman-rule-cause-decline.md"
     },
     {
+      "filename": "2014-02-01-glass-steagall-repeal-vs-dodd-frank.md",
+      "slug": "glass-steagall-repeal-vs-dodd-frank",
+      "title": "Glass-Steagall vs Dodd-Frank: Separation or Capital Rules?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10825,
+      "topWord": "firms",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-02-01-glass-steagall-repeal-vs-dodd-frank.md"
+    },
+    {
       "filename": "2014-02-01-wings-aerial-cinematography-craft.md",
       "slug": "wings-aerial-cinematography-craft",
       "title": "Wings (1927): The Craft of Real Aerial Combat",
@@ -98251,6 +99731,24 @@
           "count": 27
         }
       ]
+    },
+    {
+      "filename": "2014-02-15-financial-crisis-legislation-2008.md",
+      "slug": "financial-crisis-legislation-2008",
+      "title": "Financial Crisis Legislation: Rescue Laws Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11241,
+      "topWord": "billion",
+      "topCount": 134,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-02-15-financial-crisis-legislation-2008.md"
     },
     {
       "filename": "2014-02-15-intolerance-parallel-narrative-structure.md",
@@ -98945,6 +100443,24 @@
       ]
     },
     {
+      "filename": "2014-03-01-usa-patriot-act-complete-guide.md",
+      "slug": "usa-patriot-act-complete-guide",
+      "title": "USA PATRIOT Act: The Complete Guide to the Omnibus Statute",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10872,
+      "topWord": "act",
+      "topCount": 205,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-03-01-usa-patriot-act-complete-guide.md"
+    },
+    {
       "filename": "2014-03-01-yellowstone-on-a-budget.md",
       "slug": "yellowstone-on-a-budget",
       "title": "Yellowstone on a Budget",
@@ -99371,6 +100887,24 @@
           "count": 32
         }
       ]
+    },
+    {
+      "filename": "2014-03-15-patriot-act-2001-passage-history.md",
+      "slug": "patriot-act-2001-passage-history",
+      "title": "PATRIOT Act Passage History: How Attack Became Law in Days",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9722,
+      "topWord": "committee",
+      "topCount": 190,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-03-15-patriot-act-2001-passage-history.md"
     },
     {
       "filename": "2014-03-15-the-crowd-vidor-urban-modernity.md",
@@ -99845,6 +101379,120 @@
       ]
     },
     {
+      "filename": "2014-04-01-fisa-1978-complete-guide.md",
+      "slug": "fisa-1978-complete-guide",
+      "title": "Foreign Intelligence Surveillance Act Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10305,
+      "topWord": "statute",
+      "topCount": 216,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-04-01-fisa-1978-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "statute",
+          "count": 216
+        },
+        {
+          "word": "court",
+          "count": 212
+        },
+        {
+          "word": "foreign",
+          "count": 209
+        }
+      ],
+      "top20": [
+        {
+          "word": "statute",
+          "count": 216
+        },
+        {
+          "word": "court",
+          "count": 212
+        },
+        {
+          "word": "foreign",
+          "count": 209
+        },
+        {
+          "word": "intelligence",
+          "count": 170
+        },
+        {
+          "word": "surveillance",
+          "count": 162
+        },
+        {
+          "word": "government",
+          "count": 127
+        },
+        {
+          "word": "fisa",
+          "count": 92
+        },
+        {
+          "word": "power",
+          "count": 92
+        },
+        {
+          "word": "criminal",
+          "count": 81
+        },
+        {
+          "word": "application",
+          "count": 78
+        },
+        {
+          "word": "procedures",
+          "count": 76
+        },
+        {
+          "word": "applications",
+          "count": 66
+        },
+        {
+          "word": "minimization",
+          "count": 66
+        },
+        {
+          "word": "target",
+          "count": 64
+        },
+        {
+          "word": "states",
+          "count": 63
+        },
+        {
+          "word": "section",
+          "count": 62
+        },
+        {
+          "word": "united",
+          "count": 61
+        },
+        {
+          "word": "act",
+          "count": 60
+        },
+        {
+          "word": "standard",
+          "count": 60
+        },
+        {
+          "word": "information",
+          "count": 59
+        }
+      ]
+    },
+    {
       "filename": "2014-04-01-greed-von-stroheim-mcteague-adaptation.md",
       "slug": "greed-von-stroheim-mcteague-adaptation",
       "title": "Greed (1924): The Adaptation That Was Too Faithful",
@@ -100115,6 +101763,112 @@
         {
           "word": "darcy",
           "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2014-04-15-homeland-security-act-2002-guide.md",
+      "slug": "homeland-security-act-2002-guide",
+      "title": "Homeland Security Act: Complete Statute Profile and History",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10998,
+      "topWord": "department",
+      "topCount": 274,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-04-15-homeland-security-act-2002-guide.md",
+      "flaggedWords": [
+        {
+          "word": "department",
+          "count": 274
+        }
+      ],
+      "top20": [
+        {
+          "word": "department",
+          "count": 274
+        },
+        {
+          "word": "act",
+          "count": 193
+        },
+        {
+          "word": "security",
+          "count": 161
+        },
+        {
+          "word": "intelligence",
+          "count": 146
+        },
+        {
+          "word": "reorganization",
+          "count": 112
+        },
+        {
+          "word": "senate",
+          "count": 94
+        },
+        {
+          "word": "administration",
+          "count": 92
+        },
+        {
+          "word": "agencies",
+          "count": 86
+        },
+        {
+          "word": "service",
+          "count": 84
+        },
+        {
+          "word": "statute",
+          "count": 83
+        },
+        {
+          "word": "emergency",
+          "count": 80
+        },
+        {
+          "word": "personnel",
+          "count": 79
+        },
+        {
+          "word": "homeland",
+          "count": 77
+        },
+        {
+          "word": "functions",
+          "count": 77
+        },
+        {
+          "word": "management",
+          "count": 73
+        },
+        {
+          "word": "secretary",
+          "count": 73
+        },
+        {
+          "word": "transportation",
+          "count": 71
+        },
+        {
+          "word": "agency",
+          "count": 70
+        },
+        {
+          "word": "november",
+          "count": 68
+        },
+        {
+          "word": "bill",
+          "count": 65
         }
       ]
     },
@@ -101005,6 +102759,24 @@
       ]
     },
     {
+      "filename": "2014-05-01-usa-freedom-act-2015-guide.md",
+      "slug": "usa-freedom-act-2015-guide",
+      "title": "USA FREEDOM Act Guide: How Bulk Collection Changed",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9869,
+      "topWord": "program",
+      "topCount": 187,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-05-01-usa-freedom-act-2015-guide.md"
+    },
+    {
       "filename": "2014-05-01-yellowstone-geysers-hot-springs-guide.md",
       "slug": "yellowstone-geysers-hot-springs-guide",
       "title": "Yellowstone Geysers and Hot Springs Explained",
@@ -101455,6 +103227,24 @@
       ]
     },
     {
+      "filename": "2014-05-15-fisa-section-702-explained.md",
+      "slug": "fisa-section-702-explained",
+      "title": "Section 702 Surveillance Explained: Targeting, Query Rules",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11330,
+      "topWord": "court",
+      "topCount": 154,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-05-15-fisa-section-702-explained.md"
+    },
+    {
       "filename": "2014-05-15-one-day-in-yellowstone.md",
       "slug": "one-day-in-yellowstone",
       "title": "One Smart Day in Yellowstone",
@@ -101737,6 +103527,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-06-01-how-muhammad-ali-modernized-egypt.md"
+    },
+    {
+      "filename": "2014-06-01-surveillance-law-court-cases.md",
+      "slug": "surveillance-law-court-cases",
+      "title": "Surveillance Law in the Courts: The Standing Wall Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10120,
+      "topWord": "court",
+      "topCount": 189,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-06-01-surveillance-law-court-cases.md"
     },
     {
       "filename": "2014-06-01-wizard-of-oz-meaning-allegory-analysis.md",
@@ -102405,6 +104213,112 @@
       ]
     },
     {
+      "filename": "2014-06-15-patriot-act-civil-liberties-impact.md",
+      "slug": "patriot-act-civil-liberties-impact",
+      "title": "The PATRIOT Act and Civil Liberties",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9945,
+      "topWord": "program",
+      "topCount": 217,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-06-15-patriot-act-civil-liberties-impact.md",
+      "flaggedWords": [
+        {
+          "word": "program",
+          "count": 217
+        }
+      ],
+      "top20": [
+        {
+          "word": "program",
+          "count": 217
+        },
+        {
+          "word": "board",
+          "count": 138
+        },
+        {
+          "word": "section",
+          "count": 124
+        },
+        {
+          "word": "records",
+          "count": 112
+        },
+        {
+          "word": "oversight",
+          "count": 105
+        },
+        {
+          "word": "report",
+          "count": 100
+        },
+        {
+          "word": "finding",
+          "count": 83
+        },
+        {
+          "word": "counterterrorism",
+          "count": 72
+        },
+        {
+          "word": "record",
+          "count": 72
+        },
+        {
+          "word": "reports",
+          "count": 71
+        },
+        {
+          "word": "findings",
+          "count": 69
+        },
+        {
+          "word": "letters",
+          "count": 68
+        },
+        {
+          "word": "security",
+          "count": 66
+        },
+        {
+          "word": "telephone",
+          "count": 66
+        },
+        {
+          "word": "bulk",
+          "count": 66
+        },
+        {
+          "word": "general",
+          "count": 65
+        },
+        {
+          "word": "authority",
+          "count": 65
+        },
+        {
+          "word": "congress",
+          "count": 61
+        },
+        {
+          "word": "notice",
+          "count": 61
+        },
+        {
+          "word": "review",
+          "count": 60
+        }
+      ]
+    },
+    {
       "filename": "2014-06-15-yosemite-5-day-itinerary.md",
       "slug": "yosemite-5-day-itinerary",
       "title": "A First-Timer's 5-Day Yosemite Itinerary",
@@ -102757,6 +104671,24 @@
           "count": 32
         }
       ]
+    },
+    {
+      "filename": "2014-07-01-fisa-vs-patriot-act-authorities.md",
+      "slug": "fisa-vs-patriot-act-authorities",
+      "title": "FISA vs PATRIOT Act: Framework Statute vs Amendment Package",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9737,
+      "topWord": "framework",
+      "topCount": 193,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-01-fisa-vs-patriot-act-authorities.md"
     },
     {
       "filename": "2014-07-01-the-jazz-singer-coming-of-sound.md",
@@ -103221,6 +105153,110 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-15-snow-white-first-animated-feature-making.md"
+    },
+    {
+      "filename": "2014-07-15-surveillance-law-myths.md",
+      "slug": "surveillance-law-myths",
+      "title": "Surveillance Law Myths: Twelve Claims Tested Against the Statutes, the Court and the Reports",
+      "categories": [],
+      "lang": "en",
+      "wordCount": 10254,
+      "topWord": "court",
+      "topCount": 206,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-15-surveillance-law-myths.md",
+      "flaggedWords": [
+        {
+          "word": "court",
+          "count": 206
+        }
+      ],
+      "top20": [
+        {
+          "word": "court",
+          "count": 206
+        },
+        {
+          "word": "surveillance",
+          "count": 131
+        },
+        {
+          "word": "section",
+          "count": 121
+        },
+        {
+          "word": "collection",
+          "count": 116
+        },
+        {
+          "word": "claim",
+          "count": 102
+        },
+        {
+          "word": "program",
+          "count": 97
+        },
+        {
+          "word": "records",
+          "count": 95
+        },
+        {
+          "word": "foreign",
+          "count": 94
+        },
+        {
+          "word": "intelligence",
+          "count": 88
+        },
+        {
+          "word": "act",
+          "count": 80
+        },
+        {
+          "word": "government",
+          "count": 79
+        },
+        {
+          "word": "statute",
+          "count": 71
+        },
+        {
+          "word": "procedures",
+          "count": 70
+        },
+        {
+          "word": "fisa",
+          "count": 67
+        },
+        {
+          "word": "authority",
+          "count": 60
+        },
+        {
+          "word": "communications",
+          "count": 59
+        },
+        {
+          "word": "law",
+          "count": 57
+        },
+        {
+          "word": "targeting",
+          "count": 56
+        },
+        {
+          "word": "applications",
+          "count": 53
+        },
+        {
+          "word": "americans",
+          "count": 49
+        }
+      ]
     },
     {
       "filename": "2014-07-15-yosemite-hidden-gems.md",
@@ -103777,6 +105813,24 @@
           "count": 28
         }
       ]
+    },
+    {
+      "filename": "2014-08-01-elementary-secondary-education-act-1965.md",
+      "slug": "elementary-secondary-education-act-1965",
+      "title": "Elementary and Secondary Education Act: A Full Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9616,
+      "topWord": "national",
+      "topCount": 136,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-01-elementary-secondary-education-act-1965.md"
     },
     {
       "filename": "2014-08-01-trouble-in-paradise-lubitsch-touch.md",
@@ -104419,6 +106473,24 @@
       ]
     },
     {
+      "filename": "2014-08-15-no-child-left-behind-act-2001-guide.md",
+      "slug": "no-child-left-behind-act-2001-guide",
+      "title": "No Child Left Behind: The Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10561,
+      "topWord": "statute",
+      "topCount": 146,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-15-no-child-left-behind-act-2001-guide.md"
+    },
+    {
       "filename": "2014-08-15-stagecoach-john-ford-western-landmark.md",
       "slug": "stagecoach-john-ford-western-landmark",
       "title": "Stagecoach (1939): How Ford Reinvented the Western",
@@ -104875,6 +106947,24 @@
           "count": 26
         }
       ]
+    },
+    {
+      "filename": "2014-09-01-every-student-succeeds-act-2015-guide.md",
+      "slug": "every-student-succeeds-act-2015-guide",
+      "title": "Every Student Succeeds Act Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10540,
+      "topWord": "statute",
+      "topCount": 189,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-01-every-student-succeeds-act-2015-guide.md"
     },
     {
       "filename": "2014-09-01-ismail-pasha-egypt-debt.md",
@@ -105431,6 +107521,22 @@
           "count": 39
         }
       ]
+    },
+    {
+      "filename": "2014-09-15-higher-education-act-1965-guide.md",
+      "slug": "higher-education-act-1965-guide",
+      "title": "Higher Education Act: The Architecture of American Student Aid",
+      "categories": [],
+      "lang": "en",
+      "wordCount": 13769,
+      "topWord": "federal",
+      "topCount": 216,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-15-higher-education-act-1965-guide.md"
     },
     {
       "filename": "2014-09-15-it-happened-one-night-screwball-structure (1).md",
@@ -106223,6 +108329,24 @@
       ]
     },
     {
+      "filename": "2014-10-01-idea-special-education-law-guide.md",
+      "slug": "idea-special-education-law-guide",
+      "title": "IDEA and Special Education Law: The Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10364,
+      "topWord": "child",
+      "topCount": 200,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-01-idea-special-education-law-guide.md"
+    },
+    {
       "filename": "2014-10-01-yosemite-climbing-adventure-guide.md",
       "slug": "yosemite-climbing-adventure-guide",
       "title": "Climbing and Adventure in Yosemite",
@@ -106671,6 +108795,24 @@
           "count": 22
         }
       ]
+    },
+    {
+      "filename": "2014-10-15-title-ix-1972-explained.md",
+      "slug": "title-ix-1972-explained",
+      "title": "Title IX Explained: What the Thirty-Seven Word Statute Says",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10725,
+      "topWord": "statute",
+      "topCount": 134,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-15-title-ix-1972-explained.md"
     },
     {
       "filename": "2014-10-15-yosemite-with-kids.md",
@@ -107459,6 +109601,24 @@
       ]
     },
     {
+      "filename": "2014-11-01-no-child-left-behind-outcomes.md",
+      "slug": "no-child-left-behind-outcomes",
+      "title": "No Child Left Behind Outcomes: What the Evidence Shows",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9818,
+      "topWord": "statute",
+      "topCount": 140,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-11-01-no-child-left-behind-outcomes.md"
+    },
+    {
       "filename": "2014-11-06-george-lennie-character-analysis.md",
       "slug": "george-lennie-character-analysis",
       "title": "George and Lennie Character Analysis",
@@ -107905,6 +110065,112 @@
       ]
     },
     {
+      "filename": "2014-11-15-nclb-vs-essa-accountability.md",
+      "slug": "nclb-vs-essa-accountability",
+      "title": "NCLB vs ESSA Compared: Which Accountability Model Works",
+      "categories": [
+        "Law"
+      ],
+      "lang": "en",
+      "wordCount": 10744,
+      "topWord": "law",
+      "topCount": 235,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-11-15-nclb-vs-essa-accountability.md",
+      "flaggedWords": [
+        {
+          "word": "law",
+          "count": 235
+        }
+      ],
+      "top20": [
+        {
+          "word": "law",
+          "count": 235
+        },
+        {
+          "word": "school",
+          "count": 136
+        },
+        {
+          "word": "schools",
+          "count": 134
+        },
+        {
+          "word": "federal",
+          "count": 117
+        },
+        {
+          "word": "earlier",
+          "count": 107
+        },
+        {
+          "word": "section",
+          "count": 95
+        },
+        {
+          "word": "states",
+          "count": 88
+        },
+        {
+          "word": "percent",
+          "count": 87
+        },
+        {
+          "word": "evidence",
+          "count": 77
+        },
+        {
+          "word": "students",
+          "count": 70
+        },
+        {
+          "word": "statute",
+          "count": 68
+        },
+        {
+          "word": "subgroup",
+          "count": 68
+        },
+        {
+          "word": "progress",
+          "count": 63
+        },
+        {
+          "word": "deadline",
+          "count": 59
+        },
+        {
+          "word": "public",
+          "count": 57
+        },
+        {
+          "word": "regime",
+          "count": 54
+        },
+        {
+          "word": "testing",
+          "count": 51
+        },
+        {
+          "word": "support",
+          "count": 51
+        },
+        {
+          "word": "improvement",
+          "count": 50
+        },
+        {
+          "word": "design",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2014-11-16-complete-analysis-fahrenheit-451.md",
       "slug": "complete-analysis-fahrenheit-451",
       "title": "Complete Analysis of Fahrenheit 451",
@@ -108257,6 +110523,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-01-complete-analysis-scarlet-letter.md"
+    },
+    {
+      "filename": "2014-12-01-education-law-supreme-court-cases.md",
+      "slug": "education-law-supreme-court-cases",
+      "title": "Federal Education Law in the Courts",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12867,
+      "topWord": "education",
+      "topCount": 225,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-01-education-law-supreme-court-cases.md"
     },
     {
       "filename": "2014-12-01-grand-canyon-best-time-to-visit.md",
@@ -108729,6 +111013,22 @@
           "count": 21
         }
       ]
+    },
+    {
+      "filename": "2014-12-15-teaching-federal-education-policy.md",
+      "slug": "teaching-federal-education-policy",
+      "title": "Teaching Federal Education Policy: A Study Guide Built on Conditional Spending",
+      "categories": [],
+      "lang": "en",
+      "wordCount": 10881,
+      "topWord": "students",
+      "topCount": 211,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-15-teaching-federal-education-policy.md"
     },
     {
       "filename": "2014-12-16-complete-analysis-heart-of-darkness.md",
@@ -109503,6 +111803,22 @@
       ]
     },
     {
+      "filename": "2015-01-01-occupational-safety-health-act-1970.md",
+      "slug": "occupational-safety-health-act-1970",
+      "title": "OSH Act: Complete Guide to the Three Body Safety Statute",
+      "categories": [],
+      "lang": "en",
+      "wordCount": 12833,
+      "topWord": "statute",
+      "topCount": 205,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-01-occupational-safety-health-act-1970.md"
+    },
+    {
       "filename": "2015-01-05-1984-vs-brave-new-world-vs-fahrenheit.md",
       "slug": "1984-vs-brave-new-world-vs-fahrenheit",
       "title": "1984 vs Brave New World vs Fahrenheit 451",
@@ -109665,6 +111981,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-15-coming-of-age-novels-compared.md"
+    },
+    {
+      "filename": "2015-01-15-family-medical-leave-act-1993-guide.md",
+      "slug": "family-medical-leave-act-1993-guide",
+      "title": "Family and Medical Leave Act: The Unpaid Job Guarantee",
+      "categories": [
+        "Labor Law"
+      ],
+      "lang": "en",
+      "wordCount": 9644,
+      "topWord": "worker",
+      "topCount": 212,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-15-family-medical-leave-act-1993-guide.md",
+      "flaggedWords": [
+        {
+          "word": "worker",
+          "count": 212
+        }
+      ],
+      "top20": [
+        {
+          "word": "worker",
+          "count": 212
+        },
+        {
+          "word": "employer",
+          "count": 164
+        },
+        {
+          "word": "statute",
+          "count": 146
+        },
+        {
+          "word": "absence",
+          "count": 141
+        },
+        {
+          "word": "twelve",
+          "count": 136
+        },
+        {
+          "word": "workers",
+          "count": 100
+        },
+        {
+          "word": "workweeks",
+          "count": 70
+        },
+        {
+          "word": "family",
+          "count": 66
+        },
+        {
+          "word": "employee",
+          "count": 66
+        },
+        {
+          "word": "care",
+          "count": 58
+        },
+        {
+          "word": "entitlement",
+          "count": 57
+        },
+        {
+          "word": "medical",
+          "count": 53
+        },
+        {
+          "word": "congress",
+          "count": 53
+        },
+        {
+          "word": "health",
+          "count": 51
+        },
+        {
+          "word": "condition",
+          "count": 50
+        },
+        {
+          "word": "covered",
+          "count": 49
+        },
+        {
+          "word": "law",
+          "count": 48
+        },
+        {
+          "word": "employees",
+          "count": 47
+        },
+        {
+          "word": "period",
+          "count": 44
+        },
+        {
+          "word": "notice",
+          "count": 43
+        }
+      ]
     },
     {
       "filename": "2015-01-15-fantasia-music-and-sound-innovation.md",
@@ -110125,6 +112547,24 @@
           "count": 21
         }
       ]
+    },
+    {
+      "filename": "2015-02-01-equal-pay-act-1963-guide.md",
+      "slug": "equal-pay-act-1963-guide",
+      "title": "The Equal Pay Act of 1963 Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10691,
+      "topWord": "statute",
+      "topCount": 179,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-02-01-equal-pay-act-1963-guide.md"
     },
     {
       "filename": "2015-02-01-grand-canyon-sunrise-sunset-viewpoints.md",
@@ -298565,6 +301005,240 @@
         {
           "word": "russian",
           "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2026-10-03-how-deportation-united-states-works.md",
+      "slug": "how-deportation-united-states-works",
+      "title": "How Deportation Works: The US Removal System Explained",
+      "categories": [
+        "Analytics"
+      ],
+      "lang": "en",
+      "wordCount": 9656,
+      "topWord": "removal",
+      "topCount": 301,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-03-how-deportation-united-states-works.md",
+      "flaggedWords": [
+        {
+          "word": "removal",
+          "count": 301
+        },
+        {
+          "word": "immigration",
+          "count": 223
+        }
+      ],
+      "top20": [
+        {
+          "word": "removal",
+          "count": 301
+        },
+        {
+          "word": "immigration",
+          "count": 223
+        },
+        {
+          "word": "person",
+          "count": 123
+        },
+        {
+          "word": "court",
+          "count": 106
+        },
+        {
+          "word": "states",
+          "count": 99
+        },
+        {
+          "word": "united",
+          "count": 95
+        },
+        {
+          "word": "law",
+          "count": 95
+        },
+        {
+          "word": "federal",
+          "count": 82
+        },
+        {
+          "word": "ina",
+          "count": 79
+        },
+        {
+          "word": "judge",
+          "count": 75
+        },
+        {
+          "word": "hearing",
+          "count": 69
+        },
+        {
+          "word": "government",
+          "count": 67
+        },
+        {
+          "word": "review",
+          "count": 65
+        },
+        {
+          "word": "asylum",
+          "count": 58
+        },
+        {
+          "word": "proceedings",
+          "count": 57
+        },
+        {
+          "word": "criminal",
+          "count": 57
+        },
+        {
+          "word": "fear",
+          "count": 53
+        },
+        {
+          "word": "process",
+          "count": 47
+        },
+        {
+          "word": "act",
+          "count": 43
+        },
+        {
+          "word": "statute",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "filename": "2026-10-03-how-government-cash-payments-work.md",
+      "slug": "how-government-cash-payments-work",
+      "title": "How Stimulus Checks Work: Government Cash Payments Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7809,
+      "topWord": "tax",
+      "topCount": 83,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-03-how-government-cash-payments-work.md"
+    },
+    {
+      "filename": "2026-10-04-how-contactless-payments-work.md",
+      "slug": "how-contactless-payments-work",
+      "title": "How Contactless Payments Work: The Technology Explained",
+      "categories": [
+        "Technology"
+      ],
+      "lang": "en",
+      "wordCount": 9844,
+      "topWord": "card",
+      "topCount": 264,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-04-how-contactless-payments-work.md",
+      "flaggedWords": [
+        {
+          "word": "card",
+          "count": 264
+        }
+      ],
+      "top20": [
+        {
+          "word": "card",
+          "count": 264
+        },
+        {
+          "word": "terminal",
+          "count": 148
+        },
+        {
+          "word": "tap",
+          "count": 122
+        },
+        {
+          "word": "token",
+          "count": 114
+        },
+        {
+          "word": "device",
+          "count": 100
+        },
+        {
+          "word": "phone",
+          "count": 99
+        },
+        {
+          "word": "contactless",
+          "count": 97
+        },
+        {
+          "word": "issuer",
+          "count": 97
+        },
+        {
+          "word": "cryptogram",
+          "count": 90
+        },
+        {
+          "word": "payment",
+          "count": 69
+        },
+        {
+          "word": "chip",
+          "count": 69
+        },
+        {
+          "word": "account",
+          "count": 63
+        },
+        {
+          "word": "fraud",
+          "count": 56
+        },
+        {
+          "word": "reader",
+          "count": 54
+        },
+        {
+          "word": "data",
+          "count": 52
+        },
+        {
+          "word": "network",
+          "count": 50
+        },
+        {
+          "word": "authorization",
+          "count": 48
+        },
+        {
+          "word": "cards",
+          "count": 46
+        },
+        {
+          "word": "merchant",
+          "count": 45
+        },
+        {
+          "word": "amount",
+          "count": 44
         }
       ]
     },

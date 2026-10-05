@@ -5,11 +5,11 @@ page_title: "Kreacher Character Analysis: The Bigoted House-Elf, Regulus Black, 
 date: 2012-11-08
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Kreacher", "House-Elves", "Regulus Black", "Grimmauld Place"]
-excerpt: "Deep literary analysis of Kreacher in Harry Potter - the bigoted house-elf whose loyalty to Regulus Black became the series' most uncomfortable redemption."
+excerpt: "Kreacher fully analyzed: the bitter elf who hated Sirius, loved Regulus, and rallied Hogwarts to the fight."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2012-11-08
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Elf Who Saw the Cave

@@ -9,7 +9,7 @@ excerpt: "Stimulus checks move treasury cash to households. This is how the paym
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 64
 author: "benjamin-scott"
-last_updated: 2026-10-03
+last_updated: 2026-10-05
 lang: en
 ---
 ## The One-Sentence Answer

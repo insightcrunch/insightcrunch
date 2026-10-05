@@ -5,11 +5,11 @@ page_title: "Percy Weasley: Ambition, Estrangement, and the Cost of Wanting Out"
 date: 2013-02-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Percy Weasley", "Weasley Family", "Ambition"]
-excerpt: "Percy Weasley in Harry Potter is the brother who reveals what family costs, his ambition and estrangement read as a working-class wound, not a moral lapse."
+excerpt: "Percy Weasley fully decoded: the prodigal Weasley whose return to the fold is the family's most earned moment."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2013-02-07
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Son Who Wanted Out

@@ -24197,6 +24197,12 @@ civil-rights-act-1991-amendments:
   category: industry
   image: /assets/images/blog/blog-09.webp
   lang: en
+- slug: family-medical-leave-act-1993-guide
+  title: 'Family and Medical Leave Act: The Unpaid Job Guarantee'
+  url: /2015/01/15/family-medical-leave-act-1993-guide/
+  category: labor law
+  image: /assets/images/blog/blog-109.webp
+  lang: en
 historical-materialism-vs-idealism:
 - slug: historical-materialism-exam-answers
   title: 'Historical Materialism: Exam Answer Guide'
@@ -24891,17 +24897,17 @@ voting-rights-act-1965-passage-history:
   category: industry
   image: /assets/images/blog/blog-67.webp
   lang: en
+- slug: patriot-act-2001-passage-history
+  title: 'PATRIOT Act Passage History: How Attack Became Law in Days'
+  url: /2014/03/15/patriot-act-2001-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
 - slug: voting-rights-act-registration-impact
   title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
   url: /2010/08/15/voting-rights-act-registration-impact/
   category: industry
   image: /assets/images/blog/blog-76.webp
-  lang: en
-- slug: medicare-1965-passage-history
-  title: 'How Medicare Passed Congress: The 1965 Three-Layer Cake Deal'
-  url: /2010/11/15/medicare-1965-passage-history/
-  category: industry
-  image: /assets/images/blog/blog-05.webp
   lang: en
 twitter-has-doubled-in-staff-in-past-6-months:
 - slug: twitter-to-begin-wrapping-up-links-officially-with-t-co-link-shortener
@@ -28218,11 +28224,11 @@ medicare-catastrophic-coverage-act-1988:
   category: industry
   image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: medicare-impact-elderly-poverty
-  title: 'Medicare Elderly Poverty: What the Evidence Measures'
-  url: /2011/01/15/medicare-impact-elderly-poverty/
+- slug: economic-recovery-tax-act-1981
+  title: 'Economic Recovery Tax Act: Indexation''s Quiet Triumph'
+  url: /2013/06/01/economic-recovery-tax-act-1981/
   category: industry
-  image: /assets/images/blog/blog-15.webp
+  image: /assets/images/blog/blog-27.webp
   lang: en
 - slug: medicare-modernization-act-2003-part-d
   title: Medicare Part D and the 2003 Modernization Act Explained
@@ -29492,6 +29498,12 @@ affordable-care-act-complete-guide:
   category: '["industry"]'
   image: /assets/images/blog/blog-42.webp
   lang: en
+- slug: aca-exchange-implementation-guide
+  title: 'Health Insurance Exchanges: Building the ACA Marketplaces'
+  url: /2011/07/15/aca-exchange-implementation-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
 citizen-kane-inquirer-party-scene:
 - slug: citizen-kane-losing-the-election
   title: 'Citizen Kane: Losing the Election'
@@ -29574,6 +29586,12 @@ affordable-care-act-passage-history:
   category: us legislation
   image: /assets/images/blog/blog-106.webp
   lang: en
+- slug: patriot-act-2001-passage-history
+  title: 'PATRIOT Act Passage History: How Attack Became Law in Days'
+  url: /2014/03/15/patriot-act-2001-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
 - slug: voting-rights-act-1965-passage-history
   title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
   url: /2010/06/15/voting-rights-act-1965-passage-history/
@@ -29585,12 +29603,6 @@ affordable-care-act-passage-history:
   url: /2011/08/01/affordable-care-act-vote-analysis/
   category: industry
   image: /assets/images/blog/blog-04.webp
-  lang: en
-- slug: affordable-care-act-complete-guide
-  title: 'The Affordable Care Act: The Complete Statute Guide'
-  url: /2011/04/01/affordable-care-act-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-73.webp
   lang: en
 citizen-kane-breakfast-montage:
 - slug: citizen-kane-motifs-inventory
@@ -30566,11 +30578,11 @@ clean-air-act-complete-guide:
   category: industry
   image: /assets/images/blog/blog-41.webp
   lang: en
-- slug: immigration-nationality-act-1965-guide
-  title: 'Immigration and Nationality Act: What the Statute Did'
-  url: /2012/12/01/immigration-nationality-act-1965-guide/
-  category: industry
-  image: /assets/images/blog/blog-03.webp
+- slug: occupational-safety-health-act-1970
+  title: 'OSH Act: Complete Guide to the Three Body Safety Statute'
+  url: /2015/01/01/occupational-safety-health-act-1970/
+  category: ''
+  image: /assets/images/blog/blog-74.webp
   lang: en
 tcs-vs-accenture-comparison-at-granular-level:
 - slug: accenture-vs-tcs
@@ -31278,6 +31290,12 @@ onsite-and-the-ghost-in-the-it-industry:
   image: /assets/images/blog/blog-80.webp
   lang: en
 teaching-us-environmental-law:
+- slug: immigration-law-supreme-court-cases
+  title: 'Immigration Law in the Supreme Court: Decisions Guide'
+  url: /2013/03/15/immigration-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: civil-rights-act-vs-voting-rights-act
   title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
   url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
@@ -31295,12 +31313,6 @@ teaching-us-environmental-law:
   url: /2012/02/15/clean-water-act-1972-complete-guide/
   category: industry
   image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: civil-rights-act-1964-myths
-  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
-  url: /2010/05/01/civil-rights-act-1964-myths/
-  category: industry
-  image: /assets/images/blog/blog-96.webp
   lang: en
 good-looks-pay-off-in-the-outsourcing-world:
 - slug: why-do-one-blog
@@ -32957,17 +32969,17 @@ erisa-1974-complete-guide:
   category: industry
   image: /assets/images/blog/blog-61.webp
   lang: en
+- slug: patriot-act-2001-passage-history
+  title: 'PATRIOT Act Passage History: How Attack Became Law in Days'
+  url: /2014/03/15/patriot-act-2001-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
 - slug: medicare-parts-a-b-statute-explained
   title: 'Medicare Parts A and B: What the Statute Actually Covers'
   url: /2010/12/01/medicare-parts-a-b-statute-explained/
   category: industry
   image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: aca-exchange-implementation-guide
-  title: 'Health Insurance Exchanges: Building the ACA Marketplaces'
-  url: /2011/07/15/aca-exchange-implementation-guide/
-  category: industry
-  image: /assets/images/blog/blog-73.webp
   lang: en
 sirius-black-complete-character-analysis:
 - slug: james-potter-complete-character-analysis
@@ -33562,17 +33574,17 @@ pension-protection-act-2006-guide:
   category: industry
   image: /assets/images/blog/blog-45.webp
   lang: en
+- slug: dodd-frank-act-complete-guide
+  title: 'Dodd-Frank Act: Complete Guide to the Statute''s Architecture'
+  url: /2013/10/01/dodd-frank-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
 - slug: affordable-care-act-later-changes
   title: How Congress Rewrote the Affordable Care Act After Passage
   url: /2011/07/01/affordable-care-act-later-changes/
   category: industry
   image: /assets/images/blog/blog-55.webp
-  lang: en
-- slug: clean-water-act-outcomes
-  title: Did the Clean Water Act Clean the Water? Impact, Outcomes
-  url: /2012/05/01/clean-water-act-outcomes/
-  category: industry
-  image: /assets/images/blog/blog-103.webp
   lang: en
 dolores-umbridge-complete-character-analysis:
 - slug: kingsley-shacklebolt-complete-character-analysis
@@ -33698,6 +33710,12 @@ social-security-poverty-impact:
   url: /2012/07/01/social-security-amendments-history/
   category: industry
   image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: how-government-cash-payments-work
+  title: 'How Stimulus Checks Work: Government Cash Payments Explained'
+  url: /2026/10/03/how-government-cash-payments-work/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
   lang: en
 tcs-2012-batch-joining-dates:
 - slug: tcs-joining-date-2009-batch
@@ -34043,11 +34061,11 @@ pension-vs-401k-law-shift:
   category: industry
   image: /assets/images/blog/blog-09.webp
   lang: en
-- slug: tcs-itis-and-itis-frequently-asked-questions
-  title: TCS iTIS and iON Platforms - FAQ Guide
-  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+- slug: equal-pay-act-1963-guide
+  title: The Equal Pay Act of 1963 Explained
+  url: /2015/02/01/equal-pay-act-1963-guide/
   category: industry
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-74.webp
   lang: en
 peter-pettigrew-complete-character-analysis:
 - slug: harry-potter-loyalty-betrayal-analysis
@@ -34212,17 +34230,17 @@ secure-act-retirement-law-changes:
   category: industry
   image: /assets/images/blog/blog-107.webp
   lang: en
-- slug: voting-rights-act-registration-impact
-  title: 'Voting Rights Act Impact: Did the Registration Gains Last?'
-  url: /2010/08/15/voting-rights-act-registration-impact/
+- slug: iirira-1996-immigration-act-guide
+  title: 'IIRIRA Guide: How the Immigration Law Reshaped Deportation'
+  url: /2013/01/15/iirira-1996-immigration-act-guide/
   category: industry
-  image: /assets/images/blog/blog-76.webp
+  image: /assets/images/blog/blog-40.webp
   lang: en
-- slug: teaching-voting-rights-act-guide
-  title: 'Teaching the Voting Rights Act: A Complete Classroom Guide'
-  url: /2010/10/15/teaching-voting-rights-act-guide/
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
   category: industry
-  image: /assets/images/blog/blog-33.webp
+  image: /assets/images/blog/blog-04.webp
   lang: en
 nymphadora-tonks-complete-character-analysis:
 - slug: luna-lovegood-complete-character-analysis
@@ -34550,29 +34568,35 @@ black-death-in-mamluk-egypt:
   image: /assets/images/blog/blog-20.webp
   lang: en
 immigration-nationality-act-1965-guide:
-- slug: voting-rights-act-1965-passage-history
-  title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
-  url: /2010/06/15/voting-rights-act-1965-passage-history/
+- slug: hart-celler-act-passage-history
+  title: 'Hart-Celler Act: How Congress Passed the Immigration Reform'
+  url: /2012/12/15/hart-celler-act-passage-history/
   category: industry
-  image: /assets/images/blog/blog-68.webp
+  image: /assets/images/blog/blog-25.webp
   lang: en
-- slug: social-security-amendments-1983
-  title: 'Social Security Amendments: The Backchannel Rescue Deal'
-  url: /2012/08/01/social-security-amendments-1983/
+- slug: homeland-security-act-2002-guide
+  title: 'Homeland Security Act: Complete Statute Profile and History'
+  url: /2014/04/15/homeland-security-act-2002-guide/
   category: industry
-  image: /assets/images/blog/blog-42.webp
+  image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: clean-water-act-1972-complete-guide
-  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
-  url: /2012/02/15/clean-water-act-1972-complete-guide/
+- slug: immigration-act-1990-guide
+  title: 'The Forgotten Immigration Expansion: A Complete Legal Guide'
+  url: /2013/03/01/immigration-act-1990-guide/
   category: industry
-  image: /assets/images/blog/blog-90.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
-- slug: medicare-1965-passage-history
-  title: 'How Medicare Passed Congress: The 1965 Three-Layer Cake Deal'
-  url: /2010/11/15/medicare-1965-passage-history/
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
   category: industry
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: family-preference-visa-system-law
+  title: 'Family Preference Visas: How the INA Allocates Green Cards'
+  url: /2013/02/01/family-preference-visa-system-law/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
   lang: en
 cornelius-fudge-complete-character-analysis:
 - slug: rufus-scrimgeour-complete-character-analysis
@@ -34648,6 +34672,31 @@ rufus-scrimgeour-complete-character-analysis:
   url: /2012/12/06/cornelius-fudge-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-64.webp
+  lang: en
+hart-celler-act-passage-history:
+- slug: civil-rights-act-1964-passage-history
+  title: How the Civil Rights Act of 1964 Passed
+  url: /2010/01/15/civil-rights-act-1964-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: civil-rights-act-1964-vote-breakdown
+  title: Who Voted for the Civil Rights Act of 1964
+  url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: immigration-act-1990-guide
+  title: 'The Forgotten Immigration Expansion: A Complete Legal Guide'
+  url: /2013/03/01/immigration-act-1990-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: civil-rights-act-vs-voting-rights-act
+  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
+  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
   lang: en
 is-amazon-hard-to-get-hired-2:
 - slug: amazon-jobs-work-from-home
@@ -34798,6 +34847,31 @@ pansy-parkinson-complete-character-analysis:
   url: /2013/09/12/harry-potter-draco-vs-dudley-comparison/
   category: leisure
   image: /assets/images/blog/blog-65.webp
+  lang: en
+immigration-reform-control-act-1986:
+- slug: immigration-act-1990-guide
+  title: 'The Forgotten Immigration Expansion: A Complete Legal Guide'
+  url: /2013/03/01/immigration-act-1990-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: hart-celler-act-passage-history
+  title: 'Hart-Celler Act: How Congress Passed the Immigration Reform'
+  url: /2012/12/15/hart-celler-act-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: homeland-security-act-2002-guide
+  title: 'Homeland Security Act: Complete Statute Profile and History'
+  url: /2014/04/15/homeland-security-act-2002-guide/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
   lang: en
 mamluk-architecture-of-cairo:
 - slug: fatimid-art-and-architecture
@@ -34954,6 +35028,31 @@ lily-potter-complete-character-analysis:
   url: /2013/01/07/regulus-black-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-93.webp
+  lang: en
+iirira-1996-immigration-act-guide:
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: immigration-law-supreme-court-cases
+  title: 'Immigration Law in the Supreme Court: Decisions Guide'
+  url: /2013/03/15/immigration-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: every-student-succeeds-act-2015-guide
+  title: Every Student Succeeds Act Explained
+  url: /2014/09/01/every-student-succeeds-act-2015-guide/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
   lang: en
 how-can-i-start-working-at-amazon:
 - slug: amazon-force
@@ -35130,6 +35229,31 @@ amir-hamza-let-cofounder-shot:
   category: industry
   image: /assets/images/blog/blog-46.webp
   lang: en
+family-preference-visa-system-law:
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: immigration-act-1990-guide
+  title: 'The Forgotten Immigration Expansion: A Complete Legal Guide'
+  url: /2013/03/01/immigration-act-1990-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: us-immigration-law-myths
+  title: US Immigration Law Myths Examined Against the Record
+  url: /2013/04/15/us-immigration-law-myths/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: homeland-security-act-2002-guide
+  title: 'Homeland Security Act: Complete Statute Profile and History'
+  url: /2014/04/15/homeland-security-act-2002-guide/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
 mamluk-war-machine-explained:
 - slug: black-death-in-mamluk-egypt
   title: The Black Death in Mamluk Egypt and Its Lasting Cost
@@ -35304,6 +35428,31 @@ bill-weasley-complete-character-analysis:
   url: /2012/09/25/arthur-weasley-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-04.webp
+  lang: en
+immigration-act-1965-demographic-impact:
+- slug: immigration-law-supreme-court-cases
+  title: 'Immigration Law in the Supreme Court: Decisions Guide'
+  url: /2013/03/15/immigration-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: hart-celler-act-passage-history
+  title: 'Hart-Celler Act: How Congress Passed the Immigration Reform'
+  url: /2012/12/15/hart-celler-act-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
   lang: en
 colin-creevey-complete-character-analysis:
 - slug: hermione-granger-complete-character-analysis
@@ -35486,6 +35635,31 @@ how-a-slave-army-ruled-egypt:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
+immigration-act-1990-guide:
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: hart-celler-act-passage-history
+  title: 'Hart-Celler Act: How Congress Passed the Immigration Reform'
+  url: /2012/12/15/hart-celler-act-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: immigration-law-supreme-court-cases
+  title: 'Immigration Law in the Supreme Court: Decisions Guide'
+  url: /2013/03/15/immigration-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
 sybill-trelawney-complete-character-analysis:
 - slug: harry-potter-prophecy-free-will-destiny-analysis
   title: 'Prophecy and Free Will in Harry Potter: Choice vs Fate'
@@ -35635,6 +35809,37 @@ harry-potter-psychology-of-bullying-analysis:
   url: /2012/09/05/dolores-umbridge-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-04.webp
+  lang: en
+immigration-law-supreme-court-cases:
+- slug: teaching-us-environmental-law
+  title: 'Teaching US Environmental Law: A Complete Classroom Guide'
+  url: /2012/01/15/teaching-us-environmental-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: endangered-species-act-1973-guide
+  title: 'The Endangered Species Act: A Complete Guide to the Law'
+  url: /2012/03/01/endangered-species-act-1973-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: immigration-act-1965-demographic-impact
+  title: How the Hart-Celler Act Reshaped American Demographics
+  url: /2013/02/15/immigration-act-1965-demographic-impact/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
   lang: en
 saleem-rehmani-profile:
 - slug: targeted-killings-pakistan-complete-timeline
@@ -35811,6 +36016,37 @@ ottoman-conquest-of-mamluk-egypt:
   category: leisure
   image: /assets/images/blog/blog-82.webp
   lang: en
+refugee-act-1980-guide:
+- slug: immigration-act-1990-guide
+  title: 'The Forgotten Immigration Expansion: A Complete Legal Guide'
+  url: /2013/03/01/immigration-act-1990-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: homeland-security-act-2002-guide
+  title: 'Homeland Security Act: Complete Statute Profile and History'
+  url: /2014/04/15/homeland-security-act-2002-guide/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: every-student-succeeds-act-2015-guide
+  title: Every Student Succeeds Act Explained
+  url: /2014/09/01/every-student-succeeds-act-2015-guide/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: sarbanes-oxley-act-2002-guide
+  title: 'Sarbanes-Oxley Act Explained: Rules, Costs, and Aftermath'
+  url: /2013/11/01/sarbanes-oxley-act-2002-guide/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
 harry-potter-women-characters-analysis:
 - slug: harry-potter-ginny-vs-cho-comparison
   title: 'Ginny vs Cho: Two Loves Two Paths in Harry Potter'
@@ -35928,6 +36164,37 @@ zahoor-mistry-ic814-hijacker-profile:
   url: /2012/01/11/masood-azhar-complete-profile/
   category: industry
   image: /assets/images/blog/blog-36.webp
+  lang: en
+us-immigration-law-myths:
+- slug: immigration-law-supreme-court-cases
+  title: 'Immigration Law in the Supreme Court: Decisions Guide'
+  url: /2013/03/15/immigration-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: immigration-act-1990-guide
+  title: 'The Forgotten Immigration Expansion: A Complete Legal Guide'
+  url: /2013/03/01/immigration-act-1990-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: surveillance-law-myths
+  title: 'Surveillance Law Myths: Twelve Claims Tested Against the Statutes, the Court and the Reports'
+  url: /2014/07/15/surveillance-law-myths/
+  category: ''
+  image: /assets/images/blog/blog-97.webp
   lang: en
 harry-potter-loyalty-betrayal-analysis:
 - slug: peter-pettigrew-complete-character-analysis
@@ -36110,6 +36377,31 @@ ottoman-egypt-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-16.webp
   lang: en
+tax-reform-act-1986-complete-guide:
+- slug: earned-income-tax-credit-law
+  title: 'Earned Income Tax Credit: Law, Structure, and Evidence Guide'
+  url: /2013/07/01/earned-income-tax-credit-law/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: bush-tax-cuts-2001-2003
+  title: 'Bush Tax Cuts Explained: Sunsets, Survival, and the Estate Tax Year'
+  url: /2013/07/15/bush-tax-cuts-2001-2003/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: economic-recovery-tax-act-1981
+  title: 'Economic Recovery Tax Act: Indexation''s Quiet Triumph'
+  url: /2013/06/01/economic-recovery-tax-act-1981/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: tax-reform-act-1986-impact
+  title: 'Tax Reform Aftermath: What the Landmark Law Kept and Lost'
+  url: /2013/08/01/tax-reform-act-1986-impact/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
 harry-potter-leadership-styles-analysis:
 - slug: harry-potter-vs-voldemort-character-comparison
   title: 'Harry Potter vs Voldemort: Full Character Comparison'
@@ -36260,6 +36552,31 @@ harry-potter-redemption-arcs-analysis:
   category: leisure
   image: /assets/images/blog/blog-98.webp
   lang: en
+tax-reform-act-1986-passage-history:
+- slug: patriot-act-2001-passage-history
+  title: 'PATRIOT Act Passage History: How Attack Became Law in Days'
+  url: /2014/03/15/patriot-act-2001-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: dodd-frank-passage-history
+  title: 'Dodd-Frank Passage: How Congress Turned a Bill Into Law'
+  url: /2013/10/15/dodd-frank-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: tax-reform-1986-vs-tcja-2017
+  title: 'Tax Reform Compared: Bipartisan Versus Party-Line Models'
+  url: /2013/09/01/tax-reform-1986-vs-tcja-2017/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: tax-cuts-and-jobs-act-2017-guide
+  title: 'Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape'
+  url: /2013/06/15/tax-cuts-and-jobs-act-2017-guide/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
 jem-targets-compared:
 - slug: masood-azhar-network-under-siege
   title: Masood Azhar Network Under Siege
@@ -36365,6 +36682,31 @@ bashir-ahmad-peer-hizbul-profile:
   url: /2012/02/16/hizbul-mujahideen-complete-guide/
   category: industry
   image: /assets/images/blog/blog-105.webp
+  lang: en
+economic-recovery-tax-act-1981:
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: medicare-catastrophic-coverage-act-1988
+  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
+  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: tax-reform-1986-vs-tcja-2017
+  title: 'Tax Reform Compared: Bipartisan Versus Party-Line Models'
+  url: /2013/09/01/tax-reform-1986-vs-tcja-2017/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: tax-cuts-and-jobs-act-2017-guide
+  title: 'Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape'
+  url: /2013/06/15/tax-cuts-and-jobs-act-2017-guide/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
   lang: en
 harry-potter-hogwarts-houses-personality-analysis:
 - slug: harry-potter-mcgonagall-vs-umbridge-comparison
@@ -36515,6 +36857,31 @@ aijaz-ahmad-ahangar-isis-kashmir:
   url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
   category: industry
   image: /assets/images/blog/blog-54.webp
+  lang: en
+tax-cuts-and-jobs-act-2017-guide:
+- slug: tax-reform-1986-vs-tcja-2017
+  title: 'Tax Reform Compared: Bipartisan Versus Party-Line Models'
+  url: /2013/09/01/tax-reform-1986-vs-tcja-2017/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: economic-recovery-tax-act-1981
+  title: 'Economic Recovery Tax Act: Indexation''s Quiet Triumph'
+  url: /2013/06/01/economic-recovery-tax-act-1981/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: how-tax-bills-move-through-congress
+  title: 'How Tax Bills Move Through Congress: The Process Explained'
+  url: /2013/08/15/how-tax-bills-move-through-congress/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
   lang: en
 harry-potter-professors-education-philosophy:
 - slug: harry-potter-redemption-arcs-analysis
@@ -36672,6 +37039,31 @@ kashmir-origin-terrorists-pakistan:
   category: industry
   image: /assets/images/blog/blog-105.webp
   lang: en
+earned-income-tax-credit-law:
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: bush-tax-cuts-2001-2003
+  title: 'Bush Tax Cuts Explained: Sunsets, Survival, and the Estate Tax Year'
+  url: /2013/07/15/bush-tax-cuts-2001-2003/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 egypt-under-ottoman-rule:
 - slug: ottoman-conquest-of-egypt-1517
   title: How the Ottomans Took Egypt in 1517 and Demoted Cairo
@@ -36783,6 +37175,31 @@ hardeep-singh-nijjar-ktf-canada:
   url: /2013/07/20/ripudaman-singh-malik-babbar-khalsa/
   category: industry
   image: /assets/images/blog/blog-17.webp
+  lang: en
+bush-tax-cuts-2001-2003:
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: earned-income-tax-credit-law
+  title: 'Earned Income Tax Credit: Law, Structure, and Evidence Guide'
+  url: /2013/07/01/earned-income-tax-credit-law/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: economic-recovery-tax-act-1981
+  title: 'Economic Recovery Tax Act: Indexation''s Quiet Triumph'
+  url: /2013/06/01/economic-recovery-tax-act-1981/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
   lang: en
 harry-potter-dursleys-mundane-evil-analysis:
 - slug: harry-potter-growing-up-maturity-analysis
@@ -36959,6 +37376,31 @@ harry-potter-wand-object-symbolism-analysis:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+tax-reform-act-1986-impact:
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: tax-reform-1986-vs-tcja-2017
+  title: 'Tax Reform Compared: Bipartisan Versus Party-Line Models'
+  url: /2013/09/01/tax-reform-1986-vs-tcja-2017/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: economic-recovery-tax-act-1981
+  title: 'Economic Recovery Tax Act: Indexation''s Quiet Triumph'
+  url: /2013/06/01/economic-recovery-tax-act-1981/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: tax-cuts-and-jobs-act-2017-guide
+  title: 'Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape'
+  url: /2013/06/15/tax-cuts-and-jobs-act-2017-guide/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
 trade-decline-ottoman-egypt:
 - slug: did-ottoman-rule-cause-decline
   title: Did Ottoman Rule Cause Egypt to Decline? The Evidence
@@ -37108,6 +37550,31 @@ sukhdool-singh-sukha-duneke-canada:
   url: /2013/07/27/harvinder-singh-rinda-khalistan/
   category: industry
   image: /assets/images/blog/blog-34.webp
+  lang: en
+how-tax-bills-move-through-congress:
+- slug: tax-reform-1986-vs-tcja-2017
+  title: 'Tax Reform Compared: Bipartisan Versus Party-Line Models'
+  url: /2013/09/01/tax-reform-1986-vs-tcja-2017/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: tax-cuts-and-jobs-act-2017-guide
+  title: 'Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape'
+  url: /2013/06/15/tax-cuts-and-jobs-act-2017-guide/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: tax-reform-act-1986-impact
+  title: 'Tax Reform Aftermath: What the Landmark Law Kept and Lost'
+  url: /2013/08/01/tax-reform-act-1986-impact/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
   lang: en
 harry-potter-growing-up-maturity-analysis:
 - slug: harry-potter-father-figures-analysis
@@ -37271,6 +37738,31 @@ mamluk-beys-of-ottoman-egypt:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+tax-reform-1986-vs-tcja-2017:
+- slug: how-tax-bills-move-through-congress
+  title: 'How Tax Bills Move Through Congress: The Process Explained'
+  url: /2013/08/15/how-tax-bills-move-through-congress/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: tax-cuts-and-jobs-act-2017-guide
+  title: 'Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape'
+  url: /2013/06/15/tax-cuts-and-jobs-act-2017-guide/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: tax-reform-act-1986-impact
+  title: 'Tax Reform Aftermath: What the Landmark Law Kept and Lost'
+  url: /2013/08/01/tax-reform-act-1986-impact/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
 dumbledore-vs-gandalf-mentor-comparison:
 - slug: harry-potter-dumbledore-vs-voldemort-comparison
   title: 'Dumbledore vs Voldemort: Brilliant Minds Opposite Paths'
@@ -37395,6 +37887,31 @@ karachi-elimination-capital:
   url: /2013/01/17/pakistan-safe-havens-hunting-grounds/
   category: industry
   image: /assets/images/blog/blog-29.webp
+  lang: en
+us-tax-law-myths:
+- slug: tax-cuts-and-jobs-act-2017-guide
+  title: 'Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape'
+  url: /2013/06/15/tax-cuts-and-jobs-act-2017-guide/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: us-immigration-law-myths
+  title: US Immigration Law Myths Examined Against the Record
+  url: /2013/04/15/us-immigration-law-myths/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: endangered-species-act-myths
+  title: 'Endangered Species Act Myths: Examined and Corrected'
+  url: /2012/06/15/endangered-species-act-myths/
+  category: industry
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
   lang: en
 neville-vs-harry-potter-chosen-one-comparison:
 - slug: neville-longbottom-complete-character-analysis
@@ -37545,6 +38062,31 @@ pok-operations-shadow-war:
   url: /2012/11/12/us-drone-program-compared/
   category: industry
   image: /assets/images/blog/blog-01.webp
+  lang: en
+dodd-frank-act-complete-guide:
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: dodd-frank-passage-history
+  title: 'Dodd-Frank Passage: How Congress Turned a Bill Into Law'
+  url: /2013/10/15/dodd-frank-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: cfpb-creation-and-powers
+  title: 'CFPB Creation and Powers: How the Bureau Was Funded'
+  url: /2013/12/01/cfpb-creation-and-powers/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: dodd-frank-rollback-2018
+  title: Dodd-Frank Rollback and the Re-Tiering of Bank Rules
+  url: /2013/12/15/dodd-frank-rollback-2018/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
   lang: en
 napoleon-invasion-of-egypt:
 - slug: battle-of-the-pyramids
@@ -37721,6 +38263,31 @@ india-israel-covert-ops-compared:
   category: industry
   image: /assets/images/blog/blog-06.webp
   lang: en
+dodd-frank-passage-history:
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: dodd-frank-act-complete-guide
+  title: 'Dodd-Frank Act: Complete Guide to the Statute''s Architecture'
+  url: /2013/10/01/dodd-frank-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: tax-reform-act-1986-passage-history
+  title: 'Tax Reform Act Passage: How a Dead Bill Became Law'
+  url: /2013/05/15/tax-reform-act-1986-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: patriot-act-2001-passage-history
+  title: 'PATRIOT Act Passage History: How Attack Became Law in Days'
+  url: /2014/03/15/patriot-act-2001-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
 harry-potter-fred-george-vs-draco-comparison:
 - slug: harry-potter-draco-vs-dudley-comparison
   title: 'Draco vs Dudley: Two Bullies Two Paths in Harry Potter'
@@ -37871,6 +38438,31 @@ battle-of-the-pyramids:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
+sarbanes-oxley-act-2002-guide:
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: financial-regulation-court-cases
+  title: 'Financial Regulation Court Challenges: A Complete History'
+  url: /2014/01/15/financial-regulation-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: homeland-security-act-2002-guide
+  title: 'Homeland Security Act: Complete Statute Profile and History'
+  url: /2014/04/15/homeland-security-act-2002-guide/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
 harry-potter-dobby-vs-kreacher-comparison:
 - slug: kreacher-complete-character-analysis
   title: 'Kreacher Character Analysis: Redemption of a House-Elf'
@@ -37945,6 +38537,31 @@ amazon-work-from-home-jobs:
   url: /2022/11/10/amazon-work-from-home-jobs-part-time/
   category: industry
   image: /assets/images/blog/blog-106.webp
+  lang: en
+gramm-leach-bliley-act-1999-guide:
+- slug: glass-steagall-repeal-vs-dodd-frank
+  title: 'Glass-Steagall vs Dodd-Frank: Separation or Capital Rules?'
+  url: /2014/02/01/glass-steagall-repeal-vs-dodd-frank/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: dodd-frank-act-complete-guide
+  title: 'Dodd-Frank Act: Complete Guide to the Statute''s Architecture'
+  url: /2013/10/01/dodd-frank-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: financial-crisis-legislation-2008
+  title: 'Financial Crisis Legislation: Rescue Laws Explained'
+  url: /2014/02/15/financial-crisis-legislation-2008/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
   lang: en
 harry-potter-mcgonagall-vs-umbridge-comparison:
 - slug: minerva-mcgonagall-complete-character-analysis
@@ -38052,6 +38669,31 @@ harry-potter-pettigrew-vs-regulus-comparison:
   category: leisure
   image: /assets/images/blog/blog-117.webp
   lang: en
+cfpb-creation-and-powers:
+- slug: dodd-frank-act-complete-guide
+  title: 'Dodd-Frank Act: Complete Guide to the Statute''s Architecture'
+  url: /2013/10/01/dodd-frank-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: dodd-frank-passage-history
+  title: 'Dodd-Frank Passage: How Congress Turned a Bill Into Law'
+  url: /2013/10/15/dodd-frank-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: financial-regulation-court-cases
+  title: 'Financial Regulation Court Challenges: A Complete History'
+  url: /2014/01/15/financial-regulation-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
 napoleon-scholars-rediscovered-egypt:
 - slug: rosetta-stone-deciphering-egypt
   title: The Rosetta Stone and the Deciphering of Ancient Egypt
@@ -38157,6 +38799,31 @@ winston-smith-character-analysis-1984:
   url: /2014/06/09/boxer-character-analysis-animal-farm/
   category: leisure
   image: /assets/images/blog/blog-32.webp
+  lang: en
+dodd-frank-rollback-2018:
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: glass-steagall-repeal-vs-dodd-frank
+  title: 'Glass-Steagall vs Dodd-Frank: Separation or Capital Rules?'
+  url: /2014/02/01/glass-steagall-repeal-vs-dodd-frank/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: dodd-frank-passage-history
+  title: 'Dodd-Frank Passage: How Congress Turned a Bill Into Law'
+  url: /2013/10/15/dodd-frank-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: dodd-frank-act-complete-guide
+  title: 'Dodd-Frank Act: Complete Guide to the Statute''s Architecture'
+  url: /2013/10/01/dodd-frank-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
   lang: en
 big-brother-party-analysis-1984:
 - slug: julia-character-analysis-1984-orwell
@@ -38282,6 +38949,31 @@ obrien-character-analysis-1984:
   url: /2014/06/09/boxer-character-analysis-animal-farm/
   category: leisure
   image: /assets/images/blog/blog-32.webp
+  lang: en
+dodd-frank-banking-impact:
+- slug: glass-steagall-repeal-vs-dodd-frank
+  title: 'Glass-Steagall vs Dodd-Frank: Separation or Capital Rules?'
+  url: /2014/02/01/glass-steagall-repeal-vs-dodd-frank/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: dodd-frank-act-complete-guide
+  title: 'Dodd-Frank Act: Complete Guide to the Statute''s Architecture'
+  url: /2013/10/01/dodd-frank-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: dodd-frank-rollback-2018
+  title: Dodd-Frank Rollback and the Re-Tiering of Bank Rules
+  url: /2013/12/15/dodd-frank-rollback-2018/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: dodd-frank-passage-history
+  title: 'Dodd-Frank Passage: How Congress Turned a Bill Into Law'
+  url: /2013/10/15/dodd-frank-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
   lang: en
 rosetta-stone-deciphering-egypt:
 - slug: napoleon-scholars-rediscovered-egypt
@@ -38419,6 +39111,31 @@ complete-analysis-great-gatsby:
   url: /2014/01/20/nick-carraway-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-104.webp
+  lang: en
+financial-regulation-court-cases:
+- slug: massachusetts-v-epa-explained
+  title: Massachusetts v. EPA and the Clean Air Act Doctrine
+  url: /2011/11/01/massachusetts-v-epa-explained/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: surveillance-law-court-cases
+  title: 'Surveillance Law in the Courts: The Standing Wall Explained'
+  url: /2014/06/01/surveillance-law-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: immigration-law-supreme-court-cases
+  title: 'Immigration Law in the Supreme Court: Decisions Guide'
+  url: /2013/03/15/immigration-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: cfpb-creation-and-powers
+  title: 'CFPB Creation and Powers: How the Bureau Was Funded'
+  url: /2013/12/01/cfpb-creation-and-powers/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
   lang: en
 jay-gatsby-character-analysis:
 - slug: real-models-for-gatsby
@@ -38626,6 +39343,31 @@ did-ottoman-rule-cause-decline:
   category: leisure
   image: /assets/images/blog/blog-16.webp
   lang: en
+glass-steagall-repeal-vs-dodd-frank:
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: dodd-frank-rollback-2018
+  title: Dodd-Frank Rollback and the Re-Tiering of Bank Rules
+  url: /2013/12/15/dodd-frank-rollback-2018/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: gramm-leach-bliley-act-1999-guide
+  title: 'Gramm-Leach-Bliley Act: the Modernization Explained'
+  url: /2013/11/15/gramm-leach-bliley-act-1999-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: financial-crisis-legislation-2008
+  title: 'Financial Crisis Legislation: Rescue Laws Explained'
+  url: /2014/02/15/financial-crisis-legislation-2008/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
 wings-aerial-cinematography-craft:
 - slug: ben-hur-chariot-race-craft
   title: 'Ben-Hur: The Chariot Race and Real Epic Craft'
@@ -38750,6 +39492,31 @@ complete-analysis-to-kill-a-mockingbird:
   url: /2014/03/16/coming-of-age-to-kill-a-mockingbird/
   category: leisure
   image: /assets/images/blog/blog-83.webp
+  lang: en
+financial-crisis-legislation-2008:
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: glass-steagall-repeal-vs-dodd-frank
+  title: 'Glass-Steagall vs Dodd-Frank: Separation or Capital Rules?'
+  url: /2014/02/01/glass-steagall-repeal-vs-dodd-frank/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: gramm-leach-bliley-act-1999-guide
+  title: 'Gramm-Leach-Bliley Act: the Modernization Explained'
+  url: /2013/11/15/gramm-leach-bliley-act-1999-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: dodd-frank-rollback-2018
+  title: Dodd-Frank Rollback and the Re-Tiering of Bank Rules
+  url: /2013/12/15/dodd-frank-rollback-2018/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
   lang: en
 intolerance-parallel-narrative-structure:
 - slug: all-about-eve-screenplay-bette-davis
@@ -38951,6 +39718,31 @@ phantom-of-the-opera-lon-chaney-performance:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
+usa-patriot-act-complete-guide:
+- slug: fisa-vs-patriot-act-authorities
+  title: 'FISA vs PATRIOT Act: Framework Statute vs Amendment Package'
+  url: /2014/07/01/fisa-vs-patriot-act-authorities/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: patriot-act-civil-liberties-impact
+  title: The PATRIOT Act and Civil Liberties
+  url: /2014/06/15/patriot-act-civil-liberties-impact/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: fisa-section-702-explained
+  title: 'Section 702 Surveillance Explained: Targeting, Query Rules'
+  url: /2014/05/15/fisa-section-702-explained/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: usa-freedom-act-2015-guide
+  title: 'USA FREEDOM Act Guide: How Bulk Collection Changed'
+  url: /2014/05/01/usa-freedom-act-2015-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
 yellowstone-on-a-budget:
 - slug: yellowstone-best-time-to-visit
   title: When to Visit Yellowstone, Season by Season
@@ -39050,6 +39842,31 @@ tom-robinson-character-analysis:
   url: /2014/02/19/atticus-finch-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-63.webp
+  lang: en
+patriot-act-2001-passage-history:
+- slug: voting-rights-act-1965-passage-history
+  title: 'Voting Rights Act of 1965 Passage: How Congress Passed It'
+  url: /2010/06/15/voting-rights-act-1965-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: tax-reform-act-1986-passage-history
+  title: 'Tax Reform Act Passage: How a Dead Bill Became Law'
+  url: /2013/05/15/tax-reform-act-1986-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: dodd-frank-passage-history
+  title: 'Dodd-Frank Passage: How Congress Turned a Bill Into Law'
+  url: /2013/10/15/dodd-frank-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: usa-patriot-act-complete-guide
+  title: 'USA PATRIOT Act: The Complete Guide to the Omnibus Statute'
+  url: /2014/03/01/usa-patriot-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
   lang: en
 the-crowd-vidor-urban-modernity:
 - slug: casablanca-themes-sacrifice-ending
@@ -39201,6 +40018,31 @@ mr-darcy-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
+fisa-1978-complete-guide:
+- slug: patriot-act-civil-liberties-impact
+  title: The PATRIOT Act and Civil Liberties
+  url: /2014/06/15/patriot-act-civil-liberties-impact/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: fisa-section-702-explained
+  title: 'Section 702 Surveillance Explained: Targeting, Query Rules'
+  url: /2014/05/15/fisa-section-702-explained/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: fisa-vs-patriot-act-authorities
+  title: 'FISA vs PATRIOT Act: Framework Statute vs Amendment Package'
+  url: /2014/07/01/fisa-vs-patriot-act-authorities/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: usa-patriot-act-complete-guide
+  title: 'USA PATRIOT Act: The Complete Guide to the Omnibus Statute'
+  url: /2014/03/01/usa-patriot-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
 greed-von-stroheim-mcteague-adaptation:
 - slug: to-kill-a-mockingbird-harper-lee-adaptation
   title: 'To Kill a Mockingbird: Adapting Harper Lee'
@@ -39325,6 +40167,31 @@ mrs-bennet-character-analysis:
   url: /2014/04/20/jane-bennet-bingley-analysis/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+homeland-security-act-2002-guide:
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: immigration-reform-control-act-1986
+  title: 'Immigration Reform and Control Act: Half-Delivered Bargain'
+  url: /2013/01/01/immigration-reform-control-act-1986/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: hart-celler-act-passage-history
+  title: 'Hart-Celler Act: How Congress Passed the Immigration Reform'
+  url: /2012/12/15/hart-celler-act-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
   lang: en
 sunrise-murnau-expressionism-in-hollywood:
 - slug: wings-aerial-cinematography-craft
@@ -39551,6 +40418,31 @@ nanook-of-the-north-documentary-origins:
   category: leisure
   image: /assets/images/blog/blog-93.webp
   lang: en
+usa-freedom-act-2015-guide:
+- slug: patriot-act-civil-liberties-impact
+  title: The PATRIOT Act and Civil Liberties
+  url: /2014/06/15/patriot-act-civil-liberties-impact/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: usa-patriot-act-complete-guide
+  title: 'USA PATRIOT Act: The Complete Guide to the Omnibus Statute'
+  url: /2014/03/01/usa-patriot-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: fisa-vs-patriot-act-authorities
+  title: 'FISA vs PATRIOT Act: Framework Statute vs Amendment Package'
+  url: /2014/07/01/fisa-vs-patriot-act-authorities/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: fisa-1978-complete-guide
+  title: Foreign Intelligence Surveillance Act Complete Guide
+  url: /2014/04/01/fisa-1978-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 yellowstone-geysers-hot-springs-guide:
 - slug: yellowstone-hidden-gems
   title: Yellowstone Beyond Old Faithful
@@ -39675,6 +40567,31 @@ birth-of-a-nation-controversy-reappraisal:
   url: /2018/04/15/do-the-right-thing-spike-lee-race/
   category: leisure
   image: /assets/images/blog/blog-82.webp
+  lang: en
+fisa-section-702-explained:
+- slug: fisa-1978-complete-guide
+  title: Foreign Intelligence Surveillance Act Complete Guide
+  url: /2014/04/01/fisa-1978-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: surveillance-law-court-cases
+  title: 'Surveillance Law in the Courts: The Standing Wall Explained'
+  url: /2014/06/01/surveillance-law-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: usa-patriot-act-complete-guide
+  title: 'USA PATRIOT Act: The Complete Guide to the Omnibus Statute'
+  url: /2014/03/01/usa-patriot-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: patriot-act-civil-liberties-impact
+  title: The PATRIOT Act and Civil Liberties
+  url: /2014/06/15/patriot-act-civil-liberties-impact/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
   lang: en
 one-day-in-yellowstone:
 - slug: yellowstone-national-park-complete-guide
@@ -39831,6 +40748,31 @@ how-muhammad-ali-modernized-egypt:
   url: /2014/10/01/how-cotton-transformed-egypt/
   category: leisure
   image: /assets/images/blog/blog-100.webp
+  lang: en
+surveillance-law-court-cases:
+- slug: fisa-section-702-explained
+  title: 'Section 702 Surveillance Explained: Targeting, Query Rules'
+  url: /2014/05/15/fisa-section-702-explained/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: usa-patriot-act-complete-guide
+  title: 'USA PATRIOT Act: The Complete Guide to the Omnibus Statute'
+  url: /2014/03/01/usa-patriot-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: financial-regulation-court-cases
+  title: 'Financial Regulation Court Challenges: A Complete History'
+  url: /2014/01/15/financial-regulation-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
   lang: en
 wizard-of-oz-meaning-allegory-analysis:
 - slug: princess-bride-cult-fantasy-adaptation
@@ -40019,6 +40961,31 @@ city-lights-chaplin-sound-and-score:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
+patriot-act-civil-liberties-impact:
+- slug: fisa-vs-patriot-act-authorities
+  title: 'FISA vs PATRIOT Act: Framework Statute vs Amendment Package'
+  url: /2014/07/01/fisa-vs-patriot-act-authorities/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: usa-patriot-act-complete-guide
+  title: 'USA PATRIOT Act: The Complete Guide to the Omnibus Statute'
+  url: /2014/03/01/usa-patriot-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: fisa-1978-complete-guide
+  title: Foreign Intelligence Surveillance Act Complete Guide
+  url: /2014/04/01/fisa-1978-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: usa-freedom-act-2015-guide
+  title: 'USA FREEDOM Act Guide: How Bulk Collection Changed'
+  url: /2014/05/01/usa-freedom-act-2015-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
 yosemite-5-day-itinerary:
 - slug: yosemite-national-park-complete-guide
   title: 'Yosemite National Park: The Complete Guide'
@@ -40143,6 +41110,31 @@ egypt-army-under-muhammad-ali:
   url: /2014/09/01/ismail-pasha-egypt-debt/
   category: leisure
   image: /assets/images/blog/blog-109.webp
+  lang: en
+fisa-vs-patriot-act-authorities:
+- slug: usa-patriot-act-complete-guide
+  title: 'USA PATRIOT Act: The Complete Guide to the Omnibus Statute'
+  url: /2014/03/01/usa-patriot-act-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: patriot-act-civil-liberties-impact
+  title: The PATRIOT Act and Civil Liberties
+  url: /2014/06/15/patriot-act-civil-liberties-impact/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: fisa-1978-complete-guide
+  title: Foreign Intelligence Surveillance Act Complete Guide
+  url: /2014/04/01/fisa-1978-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: usa-freedom-act-2015-guide
+  title: 'USA FREEDOM Act Guide: How Bulk Collection Changed'
+  url: /2014/05/01/usa-freedom-act-2015-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
   lang: en
 the-jazz-singer-coming-of-sound:
 - slug: do-the-right-thing-spike-lee-race
@@ -40300,6 +41292,31 @@ snow-white-first-animated-feature-making:
   category: leisure
   image: /assets/images/blog/blog-104.webp
   lang: en
+surveillance-law-myths:
+- slug: us-immigration-law-myths
+  title: US Immigration Law Myths Examined Against the Record
+  url: /2013/04/15/us-immigration-law-myths/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: us-tax-law-myths
+  title: 'US Tax Law Myths Examined: Statutes, Cases, and Verdicts'
+  url: /2013/09/15/us-tax-law-myths/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: endangered-species-act-myths
+  title: 'Endangered Species Act Myths: Examined and Corrected'
+  url: /2012/06/15/endangered-species-act-myths/
+  category: industry
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: immigration-law-supreme-court-cases
+  title: 'Immigration Law in the Supreme Court: Decisions Guide'
+  url: /2013/03/15/immigration-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 yosemite-hidden-gems:
 - slug: yosemite-waterfalls-guide
   title: 'Yosemite Waterfalls: When and Where to See Them'
@@ -40449,6 +41466,31 @@ building-of-the-suez-canal:
   url: /2009/06/01/chalcedon-and-egypt-church-split/
   category: leisure
   image: /assets/images/blog/blog-92.webp
+  lang: en
+elementary-secondary-education-act-1965:
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: patriot-act-2001-passage-history
+  title: 'PATRIOT Act Passage History: How Attack Became Law in Days'
+  url: /2014/03/15/patriot-act-2001-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: homeland-security-act-2002-guide
+  title: 'Homeland Security Act: Complete Statute Profile and History'
+  url: /2014/04/15/homeland-security-act-2002-guide/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
   lang: en
 trouble-in-paradise-lubitsch-touch:
 - slug: tree-of-life-malick-auteur-summit
@@ -40606,6 +41648,31 @@ is-meta-a-good-place-to-work:
   category: industry
   image: /assets/images/blog/blog-111.webp
   lang: en
+no-child-left-behind-act-2001-guide:
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: every-student-succeeds-act-2015-guide
+  title: Every Student Succeeds Act Explained
+  url: /2014/09/01/every-student-succeeds-act-2015-guide/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: civil-rights-act-1964-impact
+  title: What the Civil Rights Act Actually Changed
+  url: /2010/03/15/civil-rights-act-1964-impact/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
 stagecoach-john-ford-western-landmark:
 - slug: the-searchers-influence-new-hollywood
   title: 'The Searchers: How One Western Shaped New Hollywood'
@@ -40730,6 +41797,31 @@ the-creature-frankenstein-analysis:
   url: /2014/09/12/heathcliff-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-78.webp
+  lang: en
+every-student-succeeds-act-2015-guide:
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: title-ix-1972-explained
+  title: 'Title IX Explained: What the Thirty-Seven Word Statute Says'
+  url: /2014/10/15/title-ix-1972-explained/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: iirira-1996-immigration-act-guide
+  title: 'IIRIRA Guide: How the Immigration Law Reshaped Deportation'
+  url: /2013/01/15/iirira-1996-immigration-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-40.webp
   lang: en
 ismail-pasha-egypt-debt:
 - slug: muhammad-ali-pasha-of-egypt
@@ -40880,6 +41972,31 @@ heathcliff-character-analysis:
   url: /2014/07/29/holden-caulfield-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-70.webp
+  lang: en
+higher-education-act-1965-guide:
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: civil-rights-act-1964-impact
+  title: What the Civil Rights Act Actually Changed
+  url: /2010/03/15/civil-rights-act-1964-impact/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: no-child-left-behind-act-2001-guide
+  title: 'No Child Left Behind: The Complete Guide'
+  url: /2014/08/15/no-child-left-behind-act-2001-guide/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
   lang: en
 it-happened-one-night-screwball-structure (1):
 - slug: it-happened-one-night-screwball-structure
@@ -41106,6 +42223,43 @@ how-cotton-transformed-egypt:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+idea-special-education-law-guide:
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: us-health-legislation-since-1950
+  title: 'US Health Legislation Since 1950: Six Decades of Law'
+  url: /2011/03/15/us-health-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: title-ix-1972-explained
+  title: 'Title IX Explained: What the Thirty-Seven Word Statute Says'
+  url: /2014/10/15/title-ix-1972-explained/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: elementary-secondary-education-act-1965
+  title: 'Elementary and Secondary Education Act: A Full Guide'
+  url: /2014/08/01/elementary-secondary-education-act-1965/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: higher-education-act-1965-guide
+  title: 'Higher Education Act: The Architecture of American Student Aid'
+  url: /2014/09/15/higher-education-act-1965-guide/
+  category: ''
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 yosemite-climbing-adventure-guide:
 - slug: yosemite-waterfalls-guide
   title: 'Yosemite Waterfalls: When and Where to See Them'
@@ -41230,6 +42384,31 @@ all-quiet-on-the-western-front-antiwar:
   url: /2019/08/01/saving-private-ryan-combat-realism/
   category: leisure
   image: /assets/images/blog/blog-01.webp
+  lang: en
+title-ix-1972-explained:
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
   lang: en
 yosemite-with-kids:
 - slug: yosemite-easy-family-hikes
@@ -41456,6 +42635,37 @@ grapes-of-wrath-steinbeck-adaptation:
   category: leisure
   image: /assets/images/blog/blog-82.webp
   lang: en
+no-child-left-behind-outcomes:
+- slug: no-child-left-behind-act-2001-guide
+  title: 'No Child Left Behind: The Complete Guide'
+  url: /2014/08/15/no-child-left-behind-act-2001-guide/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: title-ix-1972-explained
+  title: 'Title IX Explained: What the Thirty-Seven Word Statute Says'
+  url: /2014/10/15/title-ix-1972-explained/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: nclb-vs-essa-accountability
+  title: 'NCLB vs ESSA Compared: Which Accountability Model Works'
+  url: /2014/11/15/nclb-vs-essa-accountability/
+  category: law
+  image: /assets/images/blog/blog-103.webp
+  lang: en
 george-lennie-character-analysis:
 - slug: loneliness-of-mice-and-men-themes
   title: Loneliness in Of Mice and Men Explained
@@ -41581,6 +42791,31 @@ henry-v-olivier-wartime-british-cinema:
   category: leisure
   image: /assets/images/blog/blog-48.webp
   lang: en
+nclb-vs-essa-accountability:
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: no-child-left-behind-act-2001-guide
+  title: 'No Child Left Behind: The Complete Guide'
+  url: /2014/08/15/no-child-left-behind-act-2001-guide/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: civil-rights-act-1964-impact
+  title: What the Civil Rights Act Actually Changed
+  url: /2010/03/15/civil-rights-act-1964-impact/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
 complete-analysis-fahrenheit-451:
 - slug: censorship-themes-fahrenheit-451
   title: Censorship and Ignorance in Fahrenheit 451
@@ -41705,6 +42940,31 @@ complete-analysis-scarlet-letter:
   url: /2014/08/18/complete-analysis-frankenstein-shelley/
   category: leisure
   image: /assets/images/blog/blog-36.webp
+  lang: en
+education-law-supreme-court-cases:
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: title-ix-1972-explained
+  title: 'Title IX Explained: What the Thirty-Seven Word Statute Says'
+  url: /2014/10/15/title-ix-1972-explained/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: surveillance-law-court-cases
+  title: 'Surveillance Law in the Courts: The Standing Wall Explained'
+  url: /2014/06/01/surveillance-law-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: immigration-law-supreme-court-cases
+  title: 'Immigration Law in the Supreme Court: Decisions Guide'
+  url: /2013/03/15/immigration-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
   lang: en
 grand-canyon-best-time-to-visit:
 - slug: grand-canyon-north-vs-south-rim
@@ -41855,6 +43115,31 @@ its-a-wonderful-life-reappraisal:
   url: /2015/07/15/sunset-boulevard-hollywood-reception/
   category: leisure
   image: /assets/images/blog/blog-52.webp
+  lang: en
+teaching-federal-education-policy:
+- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
+  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
+  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: teaching-social-security-policy
+  title: 'Teaching Social Security Policy: Classroom Study Guide'
+  url: /2012/11/15/teaching-social-security-policy/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: how-to-prepare-for-cat-exam-complete-guide
+  title: 'The Definitive Guide to Cracking CAT: Strategic Path for MBA Aspirants'
+  url: /2026/03/08/how-to-prepare-for-cat-exam-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
   lang: en
 complete-analysis-heart-of-darkness:
 - slug: kurtz-character-analysis-conrad
@@ -42062,6 +43347,31 @@ grand-canyon-on-a-budget:
   category: travel
   image: /assets/images/blog/blog-35.webp
   lang: en
+occupational-safety-health-act-1970:
+- slug: immigration-nationality-act-1965-guide
+  title: 'Immigration and Nationality Act: What the Statute Did'
+  url: /2012/12/01/immigration-nationality-act-1965-guide/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: civil-rights-act-1964-titles-explained
+  title: The Civil Rights Act of 1964 Title by Title
+  url: /2010/02/01/civil-rights-act-1964-titles-explained/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: title-vii-eeoc-enforcement-guide
+  title: Title VII and the EEOC in Practice
+  url: /2010/02/15/title-vii-eeoc-enforcement-guide/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
 1984-vs-brave-new-world-vs-fahrenheit:
 - slug: brave-new-world-vs-1984-compared
   title: Brave New World vs 1984 Compared
@@ -42161,6 +43471,31 @@ coming-of-age-novels-compared:
   url: /2015/01/10/greatest-literary-villains-compared/
   category: leisure
   image: /assets/images/blog/blog-114.webp
+  lang: en
+family-medical-leave-act-1993-guide:
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: equal-pay-act-1963-guide
+  title: The Equal Pay Act of 1963 Explained
+  url: /2015/02/01/equal-pay-act-1963-guide/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: clean-water-act-1972-complete-guide
+  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
+  url: /2012/02/15/clean-water-act-1972-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: civil-rights-act-supreme-court-cases
+  title: The Cases That Shaped the Civil Rights Act
+  url: /2010/03/01/civil-rights-act-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
   lang: en
 fantasia-music-and-sound-innovation:
 - slug: snow-white-first-animated-feature-making
@@ -42311,6 +43646,31 @@ comedy-against-fascism-dictator-lubitsch:
   url: /2014/01/15/the-general-keaton-action-comedy-landmark/
   category: leisure
   image: /assets/images/blog/blog-94.webp
+  lang: en
+equal-pay-act-1963-guide:
+- slug: civil-rights-act-1964-titles-explained
+  title: The Civil Rights Act of 1964 Title by Title
+  url: /2010/02/01/civil-rights-act-1964-titles-explained/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: title-vii-eeoc-enforcement-guide
+  title: Title VII and the EEOC in Practice
+  url: /2010/02/15/title-vii-eeoc-enforcement-guide/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: refugee-act-1980-guide
+  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
+  url: /2013/04/01/refugee-act-1980-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
   lang: en
 grand-canyon-sunrise-sunset-viewpoints:
 - slug: where-to-stay-grand-canyon
@@ -47678,6 +49038,12 @@ azure-fundamentals-az-900-practice-exam-microsoft-certification:
   category: industry
   image: /assets/images/blog/blog-101.webp
   lang: en
+- slug: teaching-federal-education-policy
+  title: 'Teaching Federal Education Policy: A Study Guide Built on Conditional Spending'
+  url: /2014/12/15/teaching-federal-education-policy/
+  category: ''
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 dr-strangelove-kubrick-cold-war-satire:
 - slug: cold-war-sci-fi-klaatu-vs-body-snatchers
   title: 'Klaatu vs. the Pods: Two Cold War Sci-Fi Poles'
@@ -48683,6 +50049,12 @@ oracle-drm-version-level-specific-access-security-for-users:
   category: analytics
   image: /assets/images/blog/blog-113.webp
   lang: en
+- slug: how-deportation-united-states-works
+  title: 'How Deportation Works: The US Removal System Explained'
+  url: /2026/10/03/how-deportation-united-states-works/
+  category: analytics
+  image: /assets/images/blog/blog-79.webp
+  lang: en
 drm-ebs-integration-find-orphans-in-ebs:
 - slug: load-segment-values-and-hierarchies-drm-ebs-integration
   title: Load Segment Values and Hierarchies - DRM EBS Integration
@@ -48838,12 +50210,6 @@ odisqlunload-and-the-possibilities:
   url: /2016/10/19/odi-automation-of-smart-view-manual-activities/
   category: analytics
   image: /assets/images/blog/blog-95.webp
-  lang: en
-- slug: type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in
-  title: Type 2 Slowly Changing Dimension - How ORA_HASH (mis) fits in
-  url: /2016/10/13/type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in/
-  category: analytics
-  image: /assets/images/blog/blog-117.webp
   lang: en
 evernote-and-how-it-transformed-my-digital-life:
 - slug: echoes-of-life
@@ -55591,12 +56957,6 @@ tcs-to-oxford-harvard-transition-guide:
   url: /2021/09/16/tcs-itis-pra-questions-and-answers/
   category: industry
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: how-to-prepare-for-cat-exam-complete-guide
-  title: 'The Definitive Guide to Cracking CAT: Strategic Path for MBA Aspirants'
-  url: /2026/03/08/how-to-prepare-for-cat-exam-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-96.webp
   lang: en
 scream-craven-meta-horror-revival:
 - slug: hereditary-aster-elevated-horror
@@ -65097,11 +66457,11 @@ microsoft-entra-id-explained:
   category: technology
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: azure-pim-explained
-  title: 'Azure PIM Explained: Privileged Identity Management'
-  url: /2024/03/11/azure-pim-explained/
+- slug: how-contactless-payments-work
+  title: 'How Contactless Payments Work: The Technology Explained'
+  url: /2026/10/04/how-contactless-payments-work/
   category: technology
-  image: /assets/images/blog/blog-74.webp
+  image: /assets/images/blog/blog-88.webp
   lang: en
 romeo-and-juliet-genre-comedy-to-tragedy:
 - slug: why-romeo-and-juliet-is-not-about-love
@@ -76572,6 +77932,12 @@ infytq-preparation-complete-guide:
   category: industry
   image: /assets/images/blog/blog-75.webp
   lang: en
+- slug: tcs-itis-and-itis-frequently-asked-questions
+  title: TCS iTIS and iON Platforms - FAQ Guide
+  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
 - slug: infosys-coding-questions
   title: 'Infosys Coding Questions: Complete Programming Test Guide'
   url: /2021/08/30/infosys-coding-questions/
@@ -76583,12 +77949,6 @@ infytq-preparation-complete-guide:
   url: /2021/09/23/infosys-springboard-guide/
   category: industry
   image: /assets/images/blog/blog-18.webp
-  lang: en
-- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
-  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
-  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
-  category: industry
-  image: /assets/images/blog/blog-87.webp
   lang: en
 aks-microservices-architecture:
 - slug: configure-aks-ingress-tls
@@ -85492,17 +86852,17 @@ best-free-online-tools-for-chromebook-students:
   category: industry
   image: /assets/images/blog/blog-85.webp
   lang: en
-- slug: teaching-social-security-policy
-  title: 'Teaching Social Security Policy: Classroom Study Guide'
-  url: /2012/11/15/teaching-social-security-policy/
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
   category: industry
-  image: /assets/images/blog/blog-82.webp
+  image: /assets/images/blog/blog-50.webp
   lang: en
-- slug: harvard-neighborhoods-guide-students
-  title: Harvard Neighborhoods Guide for Students
-  url: /2019/03/04/harvard-neighborhoods-guide-students/
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
   category: industry
-  image: /assets/images/blog/blog-36.webp
+  image: /assets/images/blog/blog-51.webp
   lang: en
 gaokao-geography-preparation-guide:
 - slug: gaokao-chemistry-preparation-guide
@@ -100696,6 +102056,81 @@ polands-stake-in-ukraines-war:
   url: /2026/09/21/if-ukraine-falls-is-poland-next/
   category: industry
   image: /assets/images/blog/blog-88.webp
+  lang: en
+how-deportation-united-states-works:
+- slug: oracle-drm-version-level-specific-access-security-for-users
+  title: Oracle DRM Version Level Specific Access Security for Users
+  url: /2016/09/25/oracle-drm-version-level-specific-access-security-for-users/
+  category: analytics
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: drm-batch-client-scripting-for-automation
+  title: DRM Batch Client Scripting for Automation
+  url: /2016/09/25/drm-batch-client-scripting-for-automation/
+  category: analytics
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in
+  title: Type 2 Slowly Changing Dimension - How ORA_HASH (mis) fits in
+  url: /2016/10/13/type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in/
+  category: analytics
+  image: /assets/images/blog/blog-117.webp
+  lang: en
+- slug: drm-error-file-does-not-exist
+  title: DRM Error - File Does not Exist
+  url: /2016/09/15/drm-error-file-does-not-exist/
+  category: analytics
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+how-government-cash-payments-work:
+- slug: social-security-poverty-impact
+  title: 'How Social Security Cut Elderly Poverty: Evidence and Limits'
+  url: /2012/09/15/social-security-poverty-impact/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: financial-crisis-legislation-2008
+  title: 'Financial Crisis Legislation: Rescue Laws Explained'
+  url: /2014/02/15/financial-crisis-legislation-2008/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: tcs-may-stretch-working-hours-by-half-an-hour
+  title: TCS Work Hours Policy Explained for Employees
+  url: /2009/02/11/tcs-may-stretch-working-hours-by-half-an-hour/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: h1b-fee-proclamation-10973-explained
+  title: 'Proclamation 10973: The H-1B $100,000 Fee Order'
+  url: /2026/07/15/h1b-fee-proclamation-10973-explained/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+how-contactless-payments-work:
+- slug: entra-app-registrations-explained
+  title: Microsoft Entra App Registrations Explained
+  url: /2024/03/04/entra-app-registrations-explained/
+  category: technology
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: azure-oauth-oidc-explained
+  title: OAuth 2.0 and OIDC in Azure Explained
+  url: /2023/12/25/azure-oauth-oidc-explained/
+  category: technology
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: azure-pim-explained
+  title: 'Azure PIM Explained: Privileged Identity Management'
+  url: /2024/03/11/azure-pim-explained/
+  category: technology
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: azure-zero-trust-architecture
+  title: Azure Zero Trust Architecture Explained
+  url: /2024/02/05/azure-zero-trust-architecture/
+  category: technology
+  image: /assets/images/blog/blog-57.webp
   lang: en
 gatsby-vagueness-mystery:
 - slug: gatsby-modernist-technique

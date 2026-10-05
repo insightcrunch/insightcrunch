@@ -5,11 +5,11 @@ page_title: "Fred and George Weasley: Joy as Resistance, the Twins Who Made Laug
 date: 2012-09-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fred Weasley", "George Weasley", "Weasley Family", "Comic Resistance"]
-excerpt: "Fred and George Weasley in Harry Potter analyzed as Rowling's argument that joy is resistance: pranks as politics, twins as one soul split across two bodies."
+excerpt: "Fred and George Weasley fully decoded: pranks as politics, business as rebellion, and the loss that breaks the joke."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2012-09-15
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Laughing Resistance

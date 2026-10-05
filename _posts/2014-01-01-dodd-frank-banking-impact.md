@@ -9,7 +9,7 @@ excerpt: "Dodd-Frank promised safer banks and no bailouts. This review measures 
 image: "/assets/images/blog/blog-109.webp"
 reading_time: "73"
 author: "alex-cunningham"
-last_updated: "2014-01-01"
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: judging a law by its own promises

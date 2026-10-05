@@ -9,7 +9,7 @@ excerpt: "The Every Student Succeeds Act kept annual testing, ended adequate yea
 image: "/assets/images/blog/blog-65.webp"
 reading_time: "77"
 author: "daniel-morgan"
-last_updated: "2014-09-01"
+last_updated: 2026-10-05
 lang: en
 ---
 The Every Student Succeeds Act is the rare federal statute whose most consequential sentences are prohibitions rather than requirements. Readers arrive at the law expecting a policy about testing or standards, and the 2015 rewrite of the Elementary and Secondary Education Act contains those policies, but the provision that gives the statute its identity is the set of express limits Congress placed on the Secretary of Education: no mandating, directing, or incentivizing the adoption of specific academic standards, no prescribing the components of a state accountability system, no requiring particular teacher evaluation methods, and no conditioning plan approvals or waivers on any of the above. Everything else in the statute can be read as education policy. Those limits can only be read as a message about who gets to make education policy.

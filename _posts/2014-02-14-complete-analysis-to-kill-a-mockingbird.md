@@ -5,11 +5,11 @@ page_title: "Complete Analysis of To Kill a Mockingbird: Why the 1960 Novel Abou
 date: 2014-02-14
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "novel-analysis", "civil-rights-movement", "american-south", "classic-literature"]
-excerpt: "Mockingbird is a 1960 novel about 1935 Alabama. The gap between the writing and the setting is the novel's entire moral situation."
+excerpt: "Decode To Kill a Mockingbird across themes, characters, and the historical moment Harper Lee captured."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
 author: "emily-reed"
-last_updated: 2014-02-14
+last_updated: 2026-10-05
 lang: en
 ---
 Harper Lee published To Kill a Mockingbird in July 1960, five months after four black college students sat down at a Woolworth's lunch counter in Greensboro, North Carolina, and three months before white supremacist bombers struck a Nashville elementary school, and the timing was not incidental. The plot is set in fictional Maycomb, Alabama, between 1933 and 1935. The narrator is an adult Scout Finch recalling her childhood from an unspecified later vantage. The author is a thirty-four-year-old white woman from Monroeville, Alabama, writing and revising in a Manhattan apartment under the editorial guidance of Tay Hohoff at J. B. Lippincott. Three temporal layers are operating simultaneously in every paragraph of the finished text: the 1930s plot, the retrospective narrator, and the 1960 moment of publication. The gap between the writing and the setting is not an accident of literary chronology; it is the entire moral architecture of the work. Mockingbird is a 1960 argument about 1935 Alabama, crafted for a 1960 audience that needed a white Southern hero at the precise historical moment when white Southern heroism on racial matters was in catastrophic short supply.

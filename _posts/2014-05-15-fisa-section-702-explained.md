@@ -9,7 +9,7 @@ excerpt: "This FISA surveillance guide explains targeting rules, incidental coll
 image: "/assets/images/blog/blog-62.webp"
 reading_time: "80"
 author: "kevin-reeves"
-last_updated: "2014-05-15"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The Provision That Collects at Scale Without Individual Warrants

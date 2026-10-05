@@ -9,7 +9,7 @@ excerpt: "The law that paired legalization for millions with first-time employer
 image: "/assets/images/blog/blog-27.webp"
 reading_time: "70"
 author: "maria-santos"
-last_updated: "2013-01-01"
+last_updated: 2026-10-05
 lang: en
 ---
 In November 1986 a single statute attempted something no American law had tried before: it offered lawful status to millions of unauthorized residents at the same time as it made the hiring of unauthorized workers a federal offense for the first time in the nation's history. The Immigration Reform and Control Act, Public Law 99-603, 100 Stat. 3359, struck a three-part bargain. Legalization would regularize the population already here. Employer sanctions would close the jobs magnet that drew new arrivals. Additional border resources would secure the perimeter. Only the first part of that bargain was delivered in full, the second part decayed into a paperwork ritual that a counterfeit market defeated with ease, and the asymmetry between what was delivered and what was not became the single most important fact about immigration politics for a generation.

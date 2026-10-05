@@ -4,11 +4,11 @@ title: "Engineering years - The ideal approach"
 date: 2011-10-08
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "*This guest post was written by Ashish Nandwani*."
+excerpt: "How to approach your engineering years wisely. First year to final year strategy: academics, skills, extracurriculars, and placement preparation."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 4
 author: "diana-patel"
-last_updated: 2026-04-01
+last_updated: 2026-10-05
 lang: en
 ---
 *This guest post was written by Ashish Nandwani*.

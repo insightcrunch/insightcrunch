@@ -4,11 +4,11 @@ title: "How do I work online for Amazon?"
 date: 2013-06-24
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest technology corporations in the world today. Some common type of jobs that are available right now at Amazon are in the fields..."
+excerpt: "Amazon online work opportunities: virtual customer service, data entry, cloud support, and other remote roles you can do from home for Amazon."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 9
 author: "david-thornton"
-last_updated: 2026-04-01
+last_updated: 2026-10-05
 lang: en
 ---
 ## Background

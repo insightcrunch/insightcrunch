@@ -3,7 +3,7 @@ layout: "post"
 title: "Earned Income Tax Credit: Law, Structure, and Evidence Guide"
 page_title: "Earned Income Tax Credit: Section 32 Explained, Phase-In, Plateau, Phase-Out, Refundability, Evidence, and Error Rates"
 date: "2013-07-01"
-last_updated: "2013-07-01"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "Earned Income Tax Credit", "Federal Statutes", "Public Law", "Study Guide"]
 excerpt: "The earned income tax credit phases in with earnings, plateaus, then phases out: Section 32 mechanics, refundability, employment evidence, and the error rate."

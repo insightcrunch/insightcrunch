@@ -5,11 +5,11 @@ page_title: "Mad-Eye Moody Character Analysis: The Auror Who Outlived His Genera
 date: 2012-10-06
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Mad-Eye Moody", "Auror", "Order of the Phoenix"]
-excerpt: "Mad-Eye Moody in Harry Potter as a study of survival, paranoia, and isolation: the Auror whose vigilance saved many but cost him every close relationship."
+excerpt: "Mad-Eye Moody fully analyzed: paranoia, scars, and the auror who showed what war does to its veterans."
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2012-10-06
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Man Whose Suspicion Was Always Correct

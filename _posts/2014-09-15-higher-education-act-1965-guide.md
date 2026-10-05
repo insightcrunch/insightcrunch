@@ -2,7 +2,7 @@
 title: "Higher Education Act: The Architecture of American Student Aid"
 excerpt: "The Higher Education Act built American college finance: grants, loans, accreditation rules, forgiveness programs and reauthorization gridlock explained."
 date: "2014-09-15"
-last_updated: "2014-09-15"
+last_updated: 2026-10-05
 author: "maria-santos"
 category: "US Legislation"
 tags: ["US Legislation", "Higher Education", "Student Loans", "Education Policy", "Federal Funding", "College Access", "Accreditation"]

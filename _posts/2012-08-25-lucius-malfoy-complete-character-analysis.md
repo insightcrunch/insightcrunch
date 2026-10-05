@@ -5,11 +5,11 @@ page_title: "Lucius Malfoy Character Analysis: The Aristocrat of Performed Power
 date: 2012-08-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Lucius Malfoy", "Death Eaters", "Slytherin", "Aristocracy"]
-excerpt: "Deep literary analysis of Lucius Malfoy across all Harry Potter books - performed power, the cane, the Imperius defence, the wand, and aristocratic collapse."
+excerpt: "Lucius Malfoy fully decoded: power, pride, and the patriarch who chose family over the Dark Lord at the end."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2012-08-25
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Cane That Was Always the Wand

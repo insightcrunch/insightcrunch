@@ -9,7 +9,7 @@ excerpt: "Sarbanes-Oxley Act explained: executive and auditor duties, the costly
 image: "/assets/images/blog/blog-53.webp"
 reading_time: "69"
 author: "natalie-webb"
-last_updated: "2013-11-01"
+last_updated: 2026-10-05
 lang: en
 ---
 The Sarbanes-Oxley Act of 2002 remains the most ambitious federal response to corporate accounting fraud in American history. Signed on July 30, 2002, as Public Law 107-204, the statute rewrote the relationship between public companies, their executives, their auditors, and their boards in a single legislative stroke. It created an audit regulator with an unusual structure, imposed personal certification duties on chief executives and chief financial officers, barred auditors from selling most consulting services to the companies they audited, and made the destruction of corporate records a serious federal crime. A decade later, one subsection of one section had absorbed almost the entire controversy over the law, and Congress had begun carving exemptions around exactly that subsection. This profile carries the whole statute in one article: its passage, its provisions, its implementation, its constitutional litigation, and the evidence on what it cost and what it changed.

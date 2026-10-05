@@ -5,11 +5,11 @@ page_title: "Viktor Krum Character Analysis: Fame, Isolation, and the Quiet Cham
 date: 2013-02-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Viktor Krum", "Quidditch", "Triwizard Tournament"]
-excerpt: "Viktor Krum in Harry Potter is Rowling's study of fame as loneliness: the greatest young Seeker alive, watched by thousands, known by almost no one at all."
+excerpt: "Viktor Krum fully analyzed: the famous athlete who turns out to care more about Hermione than the cup."
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-02-02
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Most Watched, Least Known Boy at Hogwarts

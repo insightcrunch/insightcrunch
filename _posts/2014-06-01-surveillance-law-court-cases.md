@@ -9,7 +9,7 @@ excerpt: "This guide to surveillance law in the courts explains the standing wal
 image: "/assets/images/blog/blog-88.webp"
 reading_time: "72"
 author: "william-knight"
-last_updated: "2014-06-01"
+last_updated: 2026-10-05
 lang: en
 ---
 Why do the most far-reaching government monitoring programs almost never receive a ruling on whether they are legal? That is the threshold question of surveillance law in the United States, and its answer says more about the field than any single holding. A reader who works through this article will be able to explain why collection programs are so rarely reviewed on the merits, name the doctrine that defeats most challenges before any panel reaches the substance, trace the decisions that did reach the merits and what each held, and understand the constitutional shift that has quietly done more to limit monitoring than any case brought against a national security program.

@@ -5,11 +5,11 @@ page_title: "The American Dream in The Great Gatsby - How Fitzgerald Exposed the
 date: 2014-02-04
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "american-dream", "literary-analysis", "classic-literature", "social-criticism"]
-excerpt: "How The Great Gatsby dismantles the American Dream - class, wealth, self-invention, and beautiful corruption."
+excerpt: "Decode the American Dream in The Great Gatsby and the systematic critique Fitzgerald hides under the romance."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "elena-wright"
-last_updated: 2014-02-04
+last_updated: 2026-10-05
 lang: en
 ---
 Fitzgerald did not write a simple tragedy about the American Dream's corruption. He wrote a diagnosis of its operations. The distinction matters because the standard classroom reading of The Great Gatsby treats the green light at the end of Daisy Buchanan's dock as the emblem of a beautiful aspiration that America somehow ruined, as if the Dream were a pure thing once and materialism spoiled it. Fitzgerald's argument is harder and more interesting than that. In his construction, the American Dream is not an ideal that failed. It is a mechanism that succeeded. It extracted twenty years of criminal labor from James Gatz of North Dakota, converted him into Jay Gatsby of West Egg, denied him the one prize the mechanism was designed to withhold, and killed him in a swimming pool while the woman he had reorganized his life around drove back to East Egg and ate cold fried chicken with her husband. The Dream worked. Gatsby is its product, not its victim, and the difference between those two readings is the difference between a sentimental novel and a diagnostic one.

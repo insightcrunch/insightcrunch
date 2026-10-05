@@ -9,7 +9,7 @@ excerpt: "US tax law myths persist because the code is long and the stakes feel 
 image: "/assets/images/blog/blog-22.webp"
 reading_time: "73"
 author: "abigail-cooper"
-last_updated: "2013-09-15"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The four questions that sort every tax dispute

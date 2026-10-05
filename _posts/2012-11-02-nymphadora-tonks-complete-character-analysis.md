@@ -5,11 +5,11 @@ page_title: "Nymphadora Tonks Character Analysis: Identity, Love, and the Self C
 date: 2012-11-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Nymphadora Tonks", "Metamorphmagus", "Order of the Phoenix"]
-excerpt: "Complete literary analysis of Nymphadora Tonks in Harry Potter - Metamorphmagus power, identity as choice, marriage to Remus Lupin, and her brutal ending."
+excerpt: "Tonks fully decoded: metamorphmagus, auror, mother, and one half of the war's quietest tragedy."
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 62
 author: "victoria-stone"
-last_updated: 2012-11-02
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Woman Who Refused Her Name

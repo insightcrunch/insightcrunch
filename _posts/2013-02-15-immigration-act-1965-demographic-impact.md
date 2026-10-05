@@ -3,7 +3,7 @@ layout: "post"
 title: "How the Hart-Celler Act Reshaped American Demographics"
 page_title: "Hart-Celler Act: What the Census Record Shows About Change"
 date: "2013-02-15"
-last_updated: "2013-02-15"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Hart-Celler Act", "Immigration Demographics", "Census Data", "Economic Effects", "Immigration Research"]
 excerpt: "How the Hart-Celler Act reshaped demographics: the census record, the statutory mechanism, and the line between settled facts and contested economics."

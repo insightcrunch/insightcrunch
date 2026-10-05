@@ -9,7 +9,7 @@ excerpt: "Why financial regulation loses in court more than any other field: his
 image: "/assets/images/blog/blog-05.webp"
 reading_time: "75"
 author: "benjamin-scott"
-last_updated: "2014-01-15"
+last_updated: 2026-10-05
 lang: en
 ---
 ## Why financial rules lose in court

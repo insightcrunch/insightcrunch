@@ -5,11 +5,11 @@ page_title: "Rubeus Hagrid Character Analysis: The Gentle Giant of Hogwarts and 
 date: 2012-08-09
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Rubeus Hagrid", "Hogwarts Gamekeeper", "Half-Giant", "Magical Creatures"]
-excerpt: "Deep literary analysis of Rubeus Hagrid across all Harry Potter books - the gentle giant, his trust in Harry, naming as love, and institutional exile."
+excerpt: "Hagrid fully analyzed: the gentle giant, the keeper of keys, and the man who gave Harry his first family."
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 57
 author: "emily-reed"
-last_updated: 2012-08-09
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Man Who Knocks Down the Door

@@ -5,11 +5,11 @@ page_title: "Voldemort Character Analysis: The Making of a Dark Lord and the Fli
 date: 2012-07-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Voldemort", "Tom Riddle", "Dark Lord", "Horcruxes"]
-excerpt: "A literary analysis of Voldemort in Harry Potter: the orphan Tom Riddle, the flight from death, Horcruxes, and the psychology of an immortal narcissist."
+excerpt: "Voldemort fully decoded: from Tom Riddle to Dark Lord, the making of a fictional case study in evil."
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2012-07-02
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Architect of His Own Annihilation

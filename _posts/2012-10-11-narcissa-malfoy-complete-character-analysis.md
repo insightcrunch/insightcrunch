@@ -5,11 +5,11 @@ page_title: "Narcissa Malfoy Complete Character Analysis: A Mother Above All in 
 date: 2012-10-11
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Narcissa Malfoy", "Pure-Blood", "Motherhood"]
-excerpt: "Complete literary analysis of Narcissa Malfoy in Harry Potter, the lie that ended the war, motherhood as power, and the pure-blood wife who pivoted history."
+excerpt: "Narcissa Malfoy fully decoded: the mother who lied to Voldemort and changed the war for her son's sake."
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 66
 author: "elena-wright"
-last_updated: 2012-10-11
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Woman Who Won the War

@@ -5,11 +5,11 @@ page_title: "Minerva McGonagall Character Analysis: Steel and Grace Across Seven
 date: 2012-08-19
 categories: ["Leisure"]
 tags: ['Thoughts', 'Harry Potter', 'JK Rowling', 'Fantasy Literature', 'Character Analysis', 'Hogwarts', 'Book Analysis', 'Literary Analysis', 'Minerva McGonagall', 'Transfiguration', 'Gryffindor', 'Animagus']
-excerpt: "Minerva McGonagall in Harry Potter analyzed across seven books: the deputy headmistress whose institutional loyalty becomes a quietly radical position."
+excerpt: "McGonagall fully analyzed: the strict teacher, the quiet rebel, and the deputy who finally drew her wand."
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2012-08-19
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Cat on the Wall

@@ -9,7 +9,7 @@ excerpt: "How deportation works in the United States: removal tracks, immigratio
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 78
 author: "jessica-kim"
-last_updated: 2026-10-03
+last_updated: 2026-10-05
 lang: en
 ---
 ## The One-Paragraph Answer

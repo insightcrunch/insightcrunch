@@ -5,11 +5,11 @@ page_title: "Tom Buchanan Character Analysis - Brutality, Old Money, White Supre
 date: 2014-02-09
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "tom-buchanan", "character-analysis", "literary-analysis", "classic-literature"]
-excerpt: "Complete analysis of Tom Buchanan - his violence, racism, privilege, and role as the novel's true antagonist."
+excerpt: "Tom Buchanan fully decoded as The Great Gatsby's true villain: power, prejudice, and casual cruelty."
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
 author: "sarah-mitchell"
-last_updated: 2014-02-09
+last_updated: 2026-10-05
 lang: en
 ---
 Tom Buchanan is not a stock villain. He is the only character in F. Scott Fitzgerald's masterpiece who never pretends his wealth was earned, his position was merited, or his views are anything other than what they are, and that brutal candor is precisely what makes him the most frightening figure in a cast of liars, dreamers, and cowards.

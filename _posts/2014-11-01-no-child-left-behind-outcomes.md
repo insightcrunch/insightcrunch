@@ -9,7 +9,7 @@ excerpt: "No Child Left Behind outcomes divide opinion, but the evidence is meas
 image: "/assets/images/blog/blog-51.webp"
 reading_time: "70"
 author: "alex-cunningham"
-last_updated: "2014-11-01"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The Evidence Article, and Why It Has to Be Careful

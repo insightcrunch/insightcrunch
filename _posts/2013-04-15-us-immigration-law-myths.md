@@ -3,7 +3,7 @@ layout: "post"
 title: "US Immigration Law Myths Examined Against the Record"
 page_title: "US Immigration Law Myths Examined Against the Statutes and Research"
 date: "2013-04-15"
-last_updated: "2013-04-15"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Immigration and Nationality Act", "Birthright Citizenship", "DACA", "Sanctuary Policies"]
 excerpt: "US immigration law myths tested against the statutes, the cases and the research: what circulating claims about the rules get right, get wrong, and leave open."

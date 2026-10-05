@@ -5,11 +5,11 @@ page_title: "Complete Analysis of 1984 - Themes, Symbols, Totalitarianism, Surve
 date: 2013-12-06
 categories: ["Leisure"]
 tags: ["1984", "george-orwell", "novel-analysis", "literary-analysis", "dystopian-fiction", "classic-literature"]
-excerpt: "The definitive analysis of 1984 - its themes, symbols, political warnings, and enduring relevance in the modern age."
+excerpt: "Decode 1984 by George Orwell across its themes, symbolism, and the political warnings that still apply today."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
 author: "claire-bennett"
-last_updated: 2013-12-06
+last_updated: 2026-10-05
 lang: en
 ---
 1984 is not a prophecy. It is a dispatch filed in 1948 from inside the wreckage of three political catastrophes George Orwell had witnessed with his own eyes: the Stalinist betrayal of the Spanish Republic, the propaganda machinery of wartime Britain, and the Soviet consolidation of Eastern Europe that was still in progress as he typed his final manuscript on the Scottish island of Jura, coughing blood into his handkerchief between chapters. The novel that the world has spent seven decades reading as a warning about a possible future was, for its author, a clinical report on a present he had already survived and a near-future he could see arriving with the certainty of a man reading a train timetable. That distinction, between prophecy and diagnosis, is the key to everything the novel does, everything it means, and everything the study-guide industry has spent decades getting wrong about it.

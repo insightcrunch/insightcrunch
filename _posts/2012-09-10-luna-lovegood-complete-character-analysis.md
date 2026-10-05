@@ -5,11 +5,11 @@ page_title: "Luna Lovegood: The Visionary Mind in Harry Potter, a Complete Chara
 date: 2012-09-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Luna Lovegood", "Ravenclaw", "Order of the Phoenix"]
-excerpt: "Luna Lovegood in Harry Potter as Rowling's argument that some forms of knowing are inaccessible to the rational mind and visionary insight has its own truth."
+excerpt: "Luna Lovegood fully analyzed: oddness, wisdom, and the friend who saved Harry by refusing to be normal."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2012-09-10
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Girl Who Reads Upside Down

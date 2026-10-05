@@ -9,7 +9,7 @@ excerpt: "The USA FREEDOM Act ended government-held bulk telephone metadata coll
 image: "/assets/images/blog/blog-80.webp"
 reading_time: "73"
 author: "hannah-moore"
-last_updated: "2014-05-01"
+last_updated: 2026-10-05
 lang: en
 ---
 On June 2, 2015, President Barack Obama signed the USA FREEDOM Act of 2015, Public Law 114-23, a statute that ended a deeply controversial surveillance program and replaced it with something narrower, more supervised, and, within a few years, abandoned entirely. This guide carries a May 1, 2014 publication date, so every event described below happened after that date, and every one of them is dated explicitly. The story runs from the June 2013 disclosures that exposed the bulk telephone metadata program, through a federal appeals court ruling in May 2015, through a roughly one-day lapse in which major surveillance powers went dark, to the March 15, 2020 expiration of the underlying business records authority. The honest answer to the question this article exists to answer, whether bulk collection ended, is more interesting than either side's version.

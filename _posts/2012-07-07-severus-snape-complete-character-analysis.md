@@ -5,11 +5,11 @@ page_title: "Severus Snape Character Analysis: The Double Life, Obsessive Love, 
 date: 2012-07-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Severus Snape", "Slytherin", "Double Agent"]
-excerpt: "Deep literary analysis of Severus Snape across all seven Harry Potter books - obsessive love, calculated cruelty, hidden courage, and a tragic double life."
+excerpt: "Severus Snape fully analyzed across seven books: love, loss, espionage, and unresolved moral verdicts."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 57
 author: "megan-clark"
-last_updated: 2012-07-07
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Man Behind the Mask

@@ -5,11 +5,11 @@ page_title: "Dolores Umbridge Character Analysis: The Banality of Bureaucratic E
 date: 2012-09-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dolores Umbridge", "Ministry of Magic", "Order of the Phoenix", "Villains"]
-excerpt: "Literary analysis of Dolores Umbridge across the Harry Potter books, exploring bureaucratic cruelty, the pink aesthetic of menace, and quiet atrocity."
+excerpt: "Umbridge fully decoded: pink, polite, and more terrifying than Voldemort because we have all met her."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 59
 author: "megan-clark"
-last_updated: 2012-09-05
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Pink Threat

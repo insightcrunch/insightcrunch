@@ -5,11 +5,11 @@ page_title: "Nick Carraway Character Analysis: Why Fitzgerald's Narrator Is Comp
 date: 2014-01-20
 categories: ["Leisure"]
 tags: ["great-gatsby", "f-scott-fitzgerald", "nick-carraway", "character-analysis", "unreliable-narrator", "classic-literature"]
-excerpt: "Nick Carraway claims he reserves judgment. He judges constantly. The novel's honesty lives in the gap between his claim and his practice."
+excerpt: "Nick Carraway fully decoded as Gatsby's narrator: honest, complicit, judgmental, and never as neutral as he claims."
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
 author: "megan-clark"
-last_updated: 2014-01-20
+last_updated: 2026-10-05
 lang: en
 ---
 Nick Carraway is the most dishonest honest man in American fiction. He opens The Great Gatsby by announcing that he reserves all judgments, then spends nine chapters delivering the sharpest verdicts any narrator in the twentieth-century American canon has ever pronounced. He describes Tom Buchanan's body as cruel within three pages. He calls Jordan Baker incurably dishonest within five chapters and then dates her for the entire summer. He elevates Jay Gatsby to a figure of tragic magnificence even as he conceals evidence that would implicate Daisy Buchanan in a vehicular homicide, and then refuses to shake Tom's hand in their final meeting as if moral clarity were something he had earned rather than something he had forfeited. F. Scott Fitzgerald built his greatest creation not in the green light or the ash-gray valley but in the gap between what Nick Carraway claims about himself and what Nick Carraway actually does. The Gatsby readers receive is not the Gatsby who existed. It is the Gatsby Nick needed.

@@ -9,7 +9,7 @@ excerpt: "The Elementary and Secondary Education Act ended a twenty-year deadloc
 image: "/assets/images/blog/blog-41.webp"
 reading_time: "73"
 author: "jessica-kim"
-last_updated: "2014-08-01"
+last_updated: 2026-10-05
 lang: en
 ---
 For roughly twenty years, every serious attempt to move national dollars into the nation's classrooms died somewhere between introduction and enactment. Bills were drafted, hearings were held, coalitions were assembled, and each effort found the same three walls: race, religion, and the fear of Washington direction. Then, in the winter and spring of 1965, a single measure traveled from introduction to a presidential signature in under three months. The Elementary and Secondary Education Act of 1965, Public Law 89-10, 79 Stat. 27, did not repeal any of the three walls. It walked around each of them, using a different device for each, and in doing so it fixed the template that every national school statute since has been forced to follow.

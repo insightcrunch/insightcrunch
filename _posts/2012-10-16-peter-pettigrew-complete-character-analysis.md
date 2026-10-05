@@ -5,11 +5,11 @@ page_title: "Peter Pettigrew: The Anatomy of Cowardice and the Ordinary Face of 
 date: 2012-10-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Peter Pettigrew", "Wormtail", "Marauders", "Betrayal"]
-excerpt: "Peter Pettigrew in Harry Potter: the ordinary face of betrayal, the Gryffindor turned coward whose cowardice indicts every reader who has ever flinched."
+excerpt: "Peter Pettigrew fully decoded: the rat, the traitor, and the friend who became the series' most damning warning."
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2012-10-16
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Traitor Who Refuses to Be Foreign

@@ -5,11 +5,11 @@ page_title: "Cedric Diggory Character Analysis: The True Hufflepuff and the Cost
 date: 2012-10-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cedric Diggory", "Hufflepuff", "Goblet of Fire", "Triwizard Tournament"]
-excerpt: "Cedric Diggory in Harry Potter as the series' true Hufflepuff: the golden boy whose graveyard death transforms a children's tale into a wartime moral reckoning."
+excerpt: "Cedric Diggory fully analyzed: the true Hufflepuff whose death turns Harry Potter into a war story."
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2012-10-22
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Cost of Uncomplicated Goodness

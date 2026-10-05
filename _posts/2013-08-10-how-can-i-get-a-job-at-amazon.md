@@ -4,11 +4,11 @@ title: "How can I get a job at Amazon?"
 date: 2013-08-10
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon has quite a few types of opportunities that candidates can work for, and many of those includes work from home facilities as well. If you have the..."
+excerpt: "How to get a job at Amazon: available roles, application tips, resume optimization, interview preparation, and the step-by-step path to getting hired."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 9
 author: "jason-mckenzie"
-last_updated: 2026-04-01
+last_updated: 2026-10-05
 lang: en
 ---
 ## Background

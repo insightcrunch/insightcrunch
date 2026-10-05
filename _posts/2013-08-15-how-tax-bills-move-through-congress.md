@@ -9,7 +9,7 @@ excerpt: "How tax bills move through Congress: the Origination Clause, committee
 image: "/assets/images/blog/blog-110.webp"
 reading_time: "78"
 author: "william-knight"
-last_updated: "2013-08-15"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The question every tax story begs

@@ -9,7 +9,7 @@ excerpt: "No Child Left Behind promised universal proficiency, then let each sta
 image: "/assets/images/blog/blog-31.webp"
 reading_time: "78"
 author: "david-thornton"
-last_updated: "2014-08-15"
+last_updated: 2026-10-05
 lang: en
 ---
 No Child Left Behind asked a question that had never been asked of American public education in statutory form: what happens when the federal government demands that every child, in every school, in every state, reach proficiency, and then attaches escalating consequences to the failure to do so. The answer the statute produced was a decade of annual testing, a ladder of sanctions that climbed from school choice to wholesale restructuring, and a deadline, the end of the 2013-14 school year, by which one hundred percent of students were supposed to clear a bar that each state had defined for itself. The law passed with the kind of bipartisan margins that suggest consensus, and it unraveled with the kind of bipartisan consensus that suggests something else entirely. By the time its deadline arrived, the executive branch had waived the statute's central requirements for most of the country, imposing new conditions in exchange for relief, and Congress would soon replace the law rather than reauthorize it. This profile carries the full arc in one place: passage, provisions, implementation, and the waiver era that effectively rewrote the law without an act of Congress.

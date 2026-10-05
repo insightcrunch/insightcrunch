@@ -4,11 +4,11 @@ title: "How long is hiring process for Meta?"
 date: 2013-12-19
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest social media and technology corporations in the world today. One of the most common questions that I get asked by aspirants in..."
+excerpt: "Meta hiring process timeline: from recruiter screen to final offer. How long each stage takes for engineering, product, and other roles at Meta."
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 9
 author: "william-knight"
-last_updated: 2026-04-01
+last_updated: 2026-10-05
 lang: en
 ---
 ## Background

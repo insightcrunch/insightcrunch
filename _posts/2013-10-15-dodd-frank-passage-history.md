@@ -9,7 +9,7 @@ excerpt: "Dodd-Frank took two hundred thirty-one days to pass, from a House vote
 image: "/assets/images/blog/blog-20.webp"
 reading_time: "84"
 author: "michael-brooks"
-last_updated: "2013-10-15"
+last_updated: 2026-10-05
 lang: en
 ---
 The Wall Street Reform and Consumer Protection Act, known everywhere by the names of its two sponsors, became law on July 21, 2010, as Public Law 111-203. In the Statutes at Large it is cited as 124 Stat. 1376. The two hundred thirty-one days between introduction and signing hold one of the most instructive passage stories in modern congressional history, because the journey breaks into five distinct stages, each governed by a different procedural logic, and because the pivotal moments are unusually well documented. A reader who follows the whole path can explain how a measure that drew no votes from the minority party in one chamber nonetheless depended on minority votes to survive in the other, can name the amendments that were added and the more far-reaching ones that failed, can describe a televised conference committee that reopened after it had finished its work, and can account for a majority-party senator who voted against the finished product for being too weak.

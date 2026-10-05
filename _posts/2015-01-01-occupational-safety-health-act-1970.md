@@ -2,7 +2,7 @@
 title: "OSH Act: Complete Guide to the Three Body Safety Statute"
 excerpt: "A complete guide to the Occupational Safety and Health Act, covering its three institutions, the general duty clause, coverage rules, and the penalty structure."
 date: "2015-01-01"
-last_updated: "2015-01-01"
+last_updated: 2026-10-05
 author: "katherine-blake"
 category: "US Legislation"
 tags: "OSHA, OSH Act, labor law, workplace safety, statute guide"

@@ -5,11 +5,11 @@ page_title: "Cho Chang Character Analysis: Grief, Misjudgment, and the Girl the 
 date: 2012-10-27
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cho Chang", "Ravenclaw", "Grief", "Triwizard Tournament"]
-excerpt: "Deep literary analysis of Cho Chang across all Harry Potter books - Cedric's death, complicated grief, Marietta's betrayal, and the girl the series misjudged."
+excerpt: "Cho Chang fully decoded: the girlfriend the fandom unfairly dismissed and the grief readers refused to see."
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 57
 author: "elena-wright"
-last_updated: 2012-10-27
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Girl Who Cried in the Corridor

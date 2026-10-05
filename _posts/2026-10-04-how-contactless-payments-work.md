@@ -9,7 +9,7 @@ excerpt: "How contactless payments work, from the radio signal that leaves the c
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 79
 author: "nathan-cole"
-last_updated: 2026-10-04
+last_updated: 2026-10-05
 lang: en
 ---
 ## The One-Paragraph Answer

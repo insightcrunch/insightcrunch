@@ -9,7 +9,7 @@ excerpt: "Glass-Steagall split banks from securities firms; Dodd-Frank lets them
 image: "/assets/images/blog/blog-103.webp"
 reading_time: "76"
 author: "abigail-cooper"
-last_updated: "2014-02-01"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The argument that never settles

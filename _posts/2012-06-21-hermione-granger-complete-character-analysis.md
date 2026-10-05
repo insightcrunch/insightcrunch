@@ -5,11 +5,11 @@ page_title: "Hermione Granger Character Analysis: The Brightest Witch of Her Age
 date: 2012-06-21
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Hermione Granger", "Gryffindor", "Muggle-Born"]
-excerpt: "A deep Hermione Granger character analysis tracing her moral discipline, intellect, friendships, and the hidden costs of her brilliance in Harry Potter."
+excerpt: "Hermione Granger fully analyzed: the brightest witch, the moral compass, the reason the trio actually wins."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 57
 author: "emily-reed"
-last_updated: 2012-06-21
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Reader Who Walked into a Story

@@ -5,11 +5,11 @@ page_title: "Neville Longbottom Character Analysis: The Other Chosen One Who Bui
 date: 2012-08-03
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Neville Longbottom", "Gryffindor", "The Other Chosen One"]
-excerpt: "Deep literary analysis of Neville Longbottom across all Harry Potter books - earned courage, the prophecy's shadow, Augusta's burden, and a hero rebuilt."
+excerpt: "Neville Longbottom fully decoded: the other chosen one, the late bloomer, the herbology hero of book seven."
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 57
 author: "elena-wright"
-last_updated: 2012-08-03
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Boy Who Was Almost Chosen

@@ -3,7 +3,7 @@ layout: "post"
 title: "Family Preference Visas: How the INA Allocates Green Cards"
 page_title: "Family Preference Categories and the Per-Country Ceiling Explained"
 date: "2013-02-01"
-last_updated: "2013-02-01"
+last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Family Visas", "Visa Bulletin", "Per-Country Ceiling", "CSPA"]
 excerpt: "Family preference categories decide which relatives may immigrate, and how the flat per-country ceiling shapes every family queue under immigration law."

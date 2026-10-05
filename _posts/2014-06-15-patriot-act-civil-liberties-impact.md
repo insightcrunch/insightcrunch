@@ -9,7 +9,7 @@ excerpt: "The PATRIOT Act's tools were judged by official watchdogs. This articl
 image: "/assets/images/blog/blog-105.webp"
 reading_time: "71"
 author: "maria-santos"
-last_updated: "2014-06-15"
+last_updated: 2026-10-05
 lang: en
 ---
 Congress passed the USA PATRIOT Act in October 2001 as an answer to a question nobody had yet learned how to ask: which new powers would actually help stop the next attack, and what would those powers cost the liberties they were meant to defend. More than a decade later, the most reliable answers come not from the statute's defenders or its loudest opponents, but from the government's own oversight machinery. Inspectors general counted the warrants, tracked the letters, and documented the shortcuts. An oversight board created to guard civil liberties examined the flagship collection program and reported that it had made no concrete difference in any counterterrorism investigation. The same board examined a different program, built under a different authority, and found it valuable and effective, unanimously. This article gathers those official findings, ties each one to the report and the date that produced it, and asks what the record actually shows about how the PATRIOT Act's authorities were used.

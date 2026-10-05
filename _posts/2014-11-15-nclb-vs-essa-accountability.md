@@ -9,7 +9,7 @@ excerpt: "Same tests, opposite consequences: how No Child Left Behind and ESSA d
 image: "/assets/images/blog/blog-103.webp"
 reading_time: "75"
 author: "insight-crunch-team"
-last_updated: "2014-11-15"
+last_updated: 2026-10-05
 lang: en
 ---
 Two federal laws measured American schools with almost identical instruments and then answered the only question that mattered in opposite ways. The first, Public Law 107-110, signed on January 8, 2002, read the measurement results and prescribed the response from Washington: a fixed national deadline, a ladder of federally defined interventions, and a Secretary of Education with broad discretion to attach conditions to relief. The second, Public Law 114-95, signed on December 10, 2015, kept the instruments, discarded the federal script for what happens next, and wrote explicit prohibitions on the Secretary into the statute itself. Anyone who wants to understand American education accountability must be able to state exactly which requirements survived the 2015 rewrite and which did not, explain that the shift concerned who designs consequences rather than whether measurement is required, and defend a verdict about which model surfaces inequity and which produces useful responses.

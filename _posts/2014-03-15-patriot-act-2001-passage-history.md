@@ -9,7 +9,7 @@ excerpt: "The PATRIOT Act passage history: a unanimous committee bill, a floor s
 image: "/assets/images/blog/blog-93.webp"
 reading_time: "79"
 author: "patrick-dunn"
-last_updated: "2014-03-15"
+last_updated: 2026-10-05
 lang: en
 ---
 Forty-five days separated the attacks of September 11, 2001, from the presidential signature that made the USA PATRIOT Act law on October 26, 2001. The enacted statute was H.R. 3162 of the 107th Congress, enrolled as Public Law 107-56. A reader who wants to understand this episode should be able to reconstruct those forty-five days date by date, explain how a carefully negotiated committee bill approved unanimously was displaced by a different text, name the single senator who voted no and state his reasons, and explain why sunset provisions were the price that made the speed acceptable. That is the test this article is built to pass, and everything that follows is organized to let a reader pass it.

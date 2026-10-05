@@ -2,7 +2,7 @@
 title: "Surveillance Law Myths: Twelve Claims Tested Against the Statutes, the Court and the Reports"
 slug: "surveillance-law-myths"
 date: "2014-07-15"
-last_updated: "2014-07-15"
+last_updated: 2026-10-05
 framework: "Myths & claims"
 angle: "Myths, misreadings and contested claims"
 word_count: "17066"

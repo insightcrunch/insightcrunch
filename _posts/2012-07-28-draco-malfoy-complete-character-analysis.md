@@ -5,11 +5,11 @@ page_title: "Draco Malfoy Character Analysis: The Bully Whose Privilege Was His 
 date: 2012-07-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Draco Malfoy", "Slytherin", "Death Eaters", "Pureblood Ideology"]
-excerpt: "Draco Malfoy character analysis in Harry Potter: the heir whose privilege was his prison, the bully who never became free, and the boy his father owned."
+excerpt: "Draco Malfoy fully analyzed across seven books: inheritance, fear, conscience, and the half-redemption arc."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 57
 author: "lauren-hayes"
-last_updated: 2012-07-28
+last_updated: 2026-10-05
 lang: en
 ---
 ## Introduction: The Heir Who Could Not Inherit Himself

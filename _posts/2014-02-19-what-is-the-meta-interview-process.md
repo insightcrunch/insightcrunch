@@ -4,11 +4,11 @@ title: "What is the Meta interview process?"
 date: 2014-02-19
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta interview process explained: recruiter screen, coding rounds, system design, behavioral loop, hiring committee, and how each stage is evaluated."
+excerpt: "How does Meta hire engineers? Step-by-step breakdown of every interview stage from recruiter call through coding, system design, and final committee..."
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 12
 author: "nathan-cole"
-last_updated: 2026-04-01
+last_updated: 2026-10-05
 lang: en
 ---
 ## Background

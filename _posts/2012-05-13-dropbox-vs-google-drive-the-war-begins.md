@@ -4,11 +4,11 @@ title: "Dropbox vs Google Drive - The War Begins"
 date: 2012-05-13
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "When the emperor is proudly marching forward conquering everything that comes it’s way, can he leave behind a kingdom that is being defended securely by..."
+excerpt: "Dropbox vs Google Drive: the cloud storage war begins. Feature comparison, pricing, integration, and which platform wins for different types of users."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 3
 author: "ryan-walsh"
-last_updated: 2026-04-01
+last_updated: 2026-10-05
 lang: en
 ---
 When the emperor is proudly marching forward conquering everything that comes it’s way, can he leave behind a kingdom that is being defended securely by its rivals over the years? Definitely not. Despite rumors that kept on emerging over the last few years, Google did not launch its Google Drive until this year. And launched it has, with seamless integration into all its services making it right away the cloud storage candy for computer lovers.

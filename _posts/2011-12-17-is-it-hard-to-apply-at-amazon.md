@@ -4,11 +4,11 @@ title: "Is it hard to apply at Amazon?"
 date: 2011-12-17
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today and employs 1000s of people globally The one of the best aspects of Amazon in the variety of..."
+excerpt: "Is applying to Amazon difficult? The application portal, resume screening process, and what makes some applications succeed while most get filtered."
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 9
 author: "ian-fletcher"
-last_updated: 2026-04-01
+last_updated: 2026-10-05
 lang: en
 ---
 ## Background

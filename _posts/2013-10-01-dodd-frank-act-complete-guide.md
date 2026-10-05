@@ -9,7 +9,7 @@ excerpt: "Dodd-Frank is less a rulebook than an instruction manual: sixteen titl
 image: "/assets/images/blog/blog-103.webp"
 reading_time: "81"
 author: "samantha-lee"
-last_updated: "2013-10-01"
+last_updated: 2026-10-05
 lang: en
 ---
 ## Dodd-Frank and the architecture of delegation

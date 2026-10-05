@@ -4,11 +4,11 @@ title: "Amazon Jobs Login"
 date: 2012-06-09
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon continues to employ hundreds of thousands of workers all around the world due to its vast network of warehouse and logistics. You can find the..."
+excerpt: "Amazon jobs portal login: how to access your application dashboard, check status, update your profile, and navigate the Amazon hiring portal."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 10
 author: "benjamin-scott"
-last_updated: 2026-04-01
+last_updated: 2026-10-05
 lang: en
 ---
 ## Background

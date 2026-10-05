@@ -9,7 +9,7 @@ excerpt: "The PATRIOT Act is an omnibus amendment package, not a surveillance st
 image: "/assets/images/blog/blog-80.webp"
 reading_time: "77"
 author: "simon-hartley"
-last_updated: "2014-03-01"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The Central Misunderstanding About the USA PATRIOT Act

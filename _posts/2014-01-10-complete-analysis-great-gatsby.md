@@ -5,11 +5,11 @@ page_title: "Complete Analysis of The Great Gatsby: Why Fitzgerald's 1925 Novel 
 date: 2014-01-10
 categories: ["Leisure"]
 tags: ["great-gatsby", "f-scott-fitzgerald", "novel-analysis", "american-dream", "jazz-age", "classic-literature"]
-excerpt: "Gatsby is not a love story. It is a 1925 verdict on the American postwar bubble that Fitzgerald knew was about to burst."
+excerpt: "Decode The Great Gatsby across themes, characters, and the symbolism that makes it a permanent American classic."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 72
 author: "megan-clark"
-last_updated: 2014-01-10
+last_updated: 2026-10-05
 lang: en
 ---
 The Great Gatsby is the most misread canonical novel in the United States literary tradition. Generations of high-school curricula have taught it as a tragic love story, a tale of doomed romance set against the sparkling backdrop of the Roaring Twenties. That reading requires ignoring most of what F. Scott Fitzgerald actually put on the page. Gatsby is not a love story. It is a 1925 verdict on the American postwar speculative bubble, written by a man who understood the speculative frenzy of the early twenties with the diagnostic precision of an insider and delivered his findings in prose so beautiful that readers mistake the beauty for endorsement.
