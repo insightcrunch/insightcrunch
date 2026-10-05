@@ -6,15 +6,15 @@ date: "2014-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "National Security", "Supreme Court", "Surveillance Law", "Fourth Amendment"]
 excerpt: "This guide to surveillance law in the courts explains the standing wall, the Keith warrant rule, and the Carpenter shift that narrowed the third party doctrine."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: "72"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2014-06-01"
+lang: en
 ---
-
 Why do the most far-reaching government monitoring programs almost never receive a ruling on whether they are legal? That is the threshold question of surveillance law in the United States, and its answer says more about the field than any single holding. A reader who works through this article will be able to explain why collection programs are so rarely reviewed on the merits, name the doctrine that defeats most challenges before any panel reaches the substance, trace the decisions that did reach the merits and what each held, and understand the constitutional shift that has quietly done more to limit monitoring than any case brought against a national security program.
 
-![Surveillance law courtroom history from Keith to Clapper - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Surveillance law courtroom history from Keith to Clapper - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The pattern has a name. The standing wall: American surveillance law is shaped less by what judges have held than by what they have declined to reach, because secrecy keeps plaintiffs from proving injury, and the most consequential constitutional development in the field arrived through an ordinary criminal case about cell phone records rather than through any challenge to a national security program. That claim sounds sweeping until the docket is laid out case by case. The docket is what this article does. Decisions handed down after this article's reference date of June 1, 2014 are marked as such wherever they appear, so the reader can always tell which rulings belong to the period the article covers and which arrived later.
 

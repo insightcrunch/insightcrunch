@@ -6,15 +6,15 @@ date: "2014-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Federal Aid", "Statute History"]
 excerpt: "The Elementary and Secondary Education Act ended a twenty-year deadlock and passed in under three months: the three obstacles and the device that broke each."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2014-08-01"
+lang: en
 ---
-
 For roughly twenty years, every serious attempt to move national dollars into the nation's classrooms died somewhere between introduction and enactment. Bills were drafted, hearings were held, coalitions were assembled, and each effort found the same three walls: race, religion, and the fear of Washington direction. Then, in the winter and spring of 1965, a single measure traveled from introduction to a presidential signature in under three months. The Elementary and Secondary Education Act of 1965, Public Law 89-10, 79 Stat. 27, did not repeal any of the three walls. It walked around each of them, using a different device for each, and in doing so it fixed the template that every national school statute since has been forced to follow.
 
-![Elementary and Secondary Education Act](/assets/images/blog/blog-01.webp)
+![Elementary and Secondary Education Act](/assets/images/blog/blog-41.webp)
 
 The puzzle of the statute is a design puzzle, not a funding puzzle. Most summaries describe Title I, the act's centerpiece, as a poverty program, and that description is accurate as far as it goes: the first title sends formula grants to local educational agencies based on counts of school-aged children from low-income families. But the poverty targeting was the answer to a prior question, which was how to write a bill that northern members, southern members, Catholic organizations, Protestant organizations, state officials, and local officials could all vote for at the same time. Each group had killed earlier bills for a different reason. The 1965 measure survived because its drafters stopped trying to defeat the objections and instead designed around them, one device per deadlock, so that no bloc had to surrender the point on which it had always insisted.
 

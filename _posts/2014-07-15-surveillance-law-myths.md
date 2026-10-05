@@ -10,11 +10,13 @@ reading_time: "72"
 excerpt: "Twelve persistent claims about American surveillance law, checked against statutes, declassified opinions and reports, with sourced verdicts for each."
 internal_links: "/2014/05/15/fisa-section-702-explained/, /2014/03/01/usa-patriot-act-complete-guide/, /2014/06/15/patriot-act-civil-liberties-impact/, /2014/06/01/surveillance-law-court-cases/, /2014/07/01/fisa-vs-patriot-act-authorities/"
 companion_tools: "https://vaultbook.net/tools/legislation-study-notebook.html"
+image: "/assets/images/blog/blog-97.webp"
+author: "insight-crunch-team"
+lang: en
 ---
-
 Americans argue about surveillance law with unusual confidence and unusually thin evidence. The statutes run to hundreds of pages, the most important court opinions spent years under seal, and the oversight reports arrive in redactions. That combination rewards the loudest assertion rather than the most careful one. This article takes the opposite approach. It gathers twelve of the assertions that circulate most widely about American surveillance, restates each in its strongest form, and then checks it against the foreign intelligence statute as amended, against declassified opinions of the Foreign Intelligence Surveillance Court, and against official oversight and inspector general reports. Where an assertion holds up, the article says so. Where it collapses, the article says so. Where the answer is genuinely contested, the article labels the contest and names what would settle it.
 
-![A researcher comparing surveillance law claims against statutes and court opinions](/assets/images/blog/blog-01.webp)
+![A researcher comparing surveillance law claims against statutes and court opinions](/assets/images/blog/blog-97.webp)
 
 The frame for this article is July 15, 2014. Most of the evidence sits inside that frame. Four clusters of evidence fall after it, and they appear here under a strict rule: they are included only with explicit dates, in past tense, and never in present-relative terms. Those clusters are the June 2015 lapse of three provisions and the June 2, 2015 signing of the USA FREEDOM Act; the October 2018 surveillance court opinion on querying violations, declassified in 2019; the Justice Department inspector general's December 2019 report on four surveillance applications; and the 2024 reauthorization and June 12, 2026 lapse of Section 702. Nothing else after the frame date enters.
 

@@ -6,15 +6,15 @@ date: "2014-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Homeland Security", "Statute Profiles", "Immigration Law", "Counterterrorism Law", "Federal Reorganization"]
 excerpt: "The Homeland Security Act merged twenty-two agencies into one department, split immigration three ways, and left intelligence untouched for two years. Profile."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2014-04-15"
+lang: en
 ---
-
 The Homeland Security Act of 2002 remains the most consequential redrawing of the federal bureaucracy in a generation. Signed on November 25, 2002, as Public Law 107-296, it gathered components from across the government into a single new cabinet department, shifted customs and immigration enforcement into fresh organizational homes, and rewrote the lines of authority for border security, transportation security and emergency management. A reader who grasps this statute can describe the largest federal reorganization since 1947, name what moved into the new department and what pointedly did not, explain the labor dispute that stalled the bill for months and became a national political issue, and understand why a reorganization prompted by intelligence failure left the two agencies most implicated in that failure exactly where they were. Because this profile has no specialist companion articles, it carries origins, structure, the companion intelligence reorganization and consequences in one piece.
 
-![Homeland Security Act of 2002 statute profile - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Homeland Security Act of 2002 statute profile - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 ## The Scale of What Congress Built
 

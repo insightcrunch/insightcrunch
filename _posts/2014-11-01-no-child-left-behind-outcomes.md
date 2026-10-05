@@ -6,18 +6,17 @@ date: "2014-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "No Child Left Behind", "Education Policy", "Education Law", "Policy Analysis", "Federal Statutes"]
 excerpt: "No Child Left Behind outcomes divide opinion, but the evidence is measurable: modest math gains, flat reading, narrowed curriculum, and inflated state scores."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: "70"
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: "2014-11-01"
+lang: en
 ---
-
-
 ## The Evidence Article, and Why It Has to Be Careful
 
 Ask a room of education policy veterans what No Child Left Behind accomplished and the answers will arrive with unusual confidence and unusual disagreement. One side will point to rising proficiency rates and closing gaps, and will describe the statute as the first federal law that made schools answerable for the children they had been overlooking. The other side will point to narrowed curricula, gaming, and the vast machinery of sanctions that punished schools without fixing them, and will describe the statute as an accountability system that measured everything except what mattered. Both sides can produce citations. Both sides can produce charts. That is exactly what makes this article hard to write and necessary to read. The literature on this statute is not a shortage of evidence. It is a surplus of partial evidence, drawn from instruments that disagree with one another, interpreted by analysts whose conclusions were often formed before the data arrived.
 
-![No Child Left Behind outcomes explainer: the five-finding evidence table and the two-ruler measurement problem - Insight Crunch](/assets/images/blog/blog-01.webp)
+![No Child Left Behind outcomes explainer: the five-finding evidence table and the two-ruler measurement problem - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The One Test for this article is a practical one. A reader who finishes it should be able to state what the evidence shows about test scores, achievement gaps, curriculum, and school improvement under the 2001 accountability regime, to distinguish the findings that replicate from the ones that do not, and to understand the measurement problem that makes several popular claims about this statute untestable. The test is deliberately pitched at the level of judgment rather than recall. Knowing a single number is not enough, because the literature rewards anyone who can quote one favorable figure while ignoring the instrument that produced it. What matters is knowing which numbers survive contact with an external yardstick and which do not, and why the distinction decides nearly every argument about this law.
 

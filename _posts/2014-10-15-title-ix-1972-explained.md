@@ -6,17 +6,17 @@ date: "2014-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Title IX", "Education Law", "Civil Rights", "Federal Statutes", "Policy Analysis"]
 excerpt: "Title IX bars sex bias in funded schools, yet the short law never mentions sports, because every famous rule under it was built later by regulation and courts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: "2014-10-15"
+lang: en
 ---
-
 ## Title IX Begins with Thirty-Seven Words
 
 The most consequential sentence in American education law is thirty-seven words long. Title IX of the Education Amendments of 1972 does not mention athletics, teams, scholarships, sexual harassment, disciplinary hearings, or any of the other subjects that fill court dockets and newspaper columns under its name. The operative sentence says one thing, and almost everything people argue about under this law was built later, by federal agencies writing regulations, by an office issuing guidance letters, and by judges deciding what the spare sentence required. To understand what the law actually requires, a reader has to hold two pictures at once: the thirty-seven words Congress wrote, and the enormous apparatus that grew out of them. The distance between those two pictures is the largest in this entire series, and it explains why this statute produces such durable confusion. Nearly every public argument about it proceeds as if the apparatus were the text, and nearly every argument that appeals to the text alone finds that the text settles far less than the speaker hoped.
 
-![Title IX statute text explainer: the thirty-seven word provision and the apparatus built on it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Title IX statute text explainer: the thirty-seven word provision and the apparatus built on it - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 That gap is not an accident of lazy drafting. Congress wrote a broad funding condition, modeled on an earlier civil rights law, and left the details to the executive branch and the courts. The agencies filled in those details over a decade of rulemaking and interpretation, and the Supreme Court then added a private right to sue and an award of damages that converted a funding condition into a full private civil rights remedy. Each addition made sense in its own time, and each moved the law further from the sentence that started it. Readers who want to argue about this law from first principles, whether they defend the apparatus or attack it, need to know which parts Congress wrote and which parts someone else supplied. This article maps that boundary, obligation by obligation, document by document.
 

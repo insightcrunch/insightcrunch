@@ -6,15 +6,15 @@ date: "2014-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Education Law", "Supreme Court", "Litigation", "Title IX", "IDEA"]
 excerpt: "Federal education law in court: Rodriguez denied an education right so finance cases went to state courts and claims need statutes creating enforceable rights."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: "83"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2014-12-01"
+lang: en
 ---
-
 Ask a working lawyer what federal education law promises a student and the honest answer is narrower than most citizens expect. No clause of the federal Constitution names education as a right. No federal statute funds schools as a national system. What federal law does, through statutes that attach conditions to money, is create a handful of enforceable rights, each drawn narrowly, each contested in court, each defined less by the statute's text than by what judges have said the text allows. This article maps that judicial terrain. It is the litigation article of the education cluster, and it carries a single organizing claim that makes every other article in the cluster legible.
 
-![The doctrine ledger of federal education law Supreme Court cases - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The doctrine ledger of federal education law Supreme Court cases - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The organizing claim, stated plainly, is this: because the Constitution supplies no education right, almost every federal education case is really a question about whether a spending statute created enforceable individual rights. The claim has a name for convenience: no federal right, therefore statutes. Hold it steady and the cluster's cases arrange themselves into five lines, each following from it. The foundational holding, San Antonio Independent School District v. Rodriguez, 411 U.S. 1 (1973), closed the constitutional door and redirected school finance litigation into state courts. The private enforcement line asks, statute by statute, who may sue: the Court answered yes for the sex discrimination provision in 1979 and for damages in 1992, and no for the education records statute and for disparate impact regulations in 2001 and 2002. The special education line asks what the federal statute requires of schools, with the substantive standard set in 1982 and disputes over discipline, related services, private placement reimbursement, and exhaustion of remedies filling the decades after. The public funding line asks whether public money may reach religious schools, and the answer moved across half a century from permitting neutral programs that happen to include religious options to barring the exclusion of religious schools from otherwise available benefits. And the executive authority line asks how much a federal official may do under an emergency statute, with a 2023 decision applying the major questions doctrine to invalidate a mass loan cancellation program. Each line is presented from the opinions, majority and dissent given equal care, because the dissents in these cases keep returning: the Rodriguez dissenters argued that education deserved special constitutional treatment, the Gonzaga dissenters argued that records provisions did create individual rights, the Sandoval dissenters argued that agency regulations should be enforceable by individuals, and the voucher dissenters argued that neutrality principles had been misapplied. The litigation never settles into a single philosophy; it settles case by case, and this article inventories the settlement.
 

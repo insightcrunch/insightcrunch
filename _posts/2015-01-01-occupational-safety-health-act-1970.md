@@ -3,18 +3,18 @@ title: "OSH Act: Complete Guide to the Three Body Safety Statute"
 excerpt: "A complete guide to the Occupational Safety and Health Act, covering its three institutions, the general duty clause, coverage rules, and the penalty structure."
 date: "2015-01-01"
 last_updated: "2015-01-01"
-author: "InsightCrunch Research"
+author: "katherine-blake"
 category: "US Legislation"
 tags: "OSHA, OSH Act, labor law, workplace safety, statute guide"
 keywords: "occupational safety health act 1970, OSHA statute guide, general duty clause, OSHA coverage, OSHA penalties"
 slug: "occupational-safety-health-act-1970"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: "93"
+lang: en
 ---
-
 The Occupational Safety and Health Act of 1970 is one of the few federal statutes whose institutional design is more important than its prohibitions. Most workplace laws create one agency and tell it to do a job. This statute created three separate bodies, put them in different departments, and arranged them so that no single one could both discover a hazard and conclusively punish it. Congress then capped the penalties at levels that have barely moved in more than five decades and left one duty, the general duty clause, to cover every hazard no specific rule reaches. To understand American workplace safety law is to understand that architecture, not merely the agency that wears its name.
 
-![The three body design of the OSH Act of 1970](/assets/images/blog/blog-01.webp)
+![The three body design of the OSH Act of 1970](/assets/images/blog/blog-74.webp)
 
 The act arrives in the United States Code as Public Law 91-596, 84 Stat. 1590, signed on December 29, 1970 by President Richard Nixon and effective on April 28, 1971. It originated as S. 2193 in the 91st Congress, passed the Senate 83 to 3 on November 17, 1970, and passed the House on December 17, 1970. It is codified at 29 U.S.C. sections 651 and following, which places it in the labor title alongside the other workplace statutes of the era. This article follows the statute through its passage, its unusual three part institutional design, the two track duty it imposes on employers, the workers it does not reach, the judicial doctrines that constrained its rulemaking power within a decade of enactment, and the penalty structure that has become its most cited structural criticism. Along the way it explains why the separated powers design explains both the credibility of the science the system produces and the slowness of its enforcement.
 

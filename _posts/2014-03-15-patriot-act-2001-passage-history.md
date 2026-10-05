@@ -6,15 +6,15 @@ date: "2014-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "PATRIOT Act", "Legislative History", "Passage History", "Senate Procedure"]
 excerpt: "The PATRIOT Act passage history: a unanimous committee bill, a floor substitution, one Senate dissent, and sunsets that made emergency speed acceptable."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: "79"
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2014-03-15"
+lang: en
 ---
-
 Forty-five days separated the attacks of September 11, 2001, from the presidential signature that made the USA PATRIOT Act law on October 26, 2001. The enacted statute was H.R. 3162 of the 107th Congress, enrolled as Public Law 107-56. A reader who wants to understand this episode should be able to reconstruct those forty-five days date by date, explain how a carefully negotiated committee bill approved unanimously was displaced by a different text, name the single senator who voted no and state his reasons, and explain why sunset provisions were the price that made the speed acceptable. That is the test this article is built to pass, and everything that follows is organized to let a reader pass it.
 
-![The United States Capitol at dusk, seat of the forty-five day legislative sprint that produced the USA PATRIOT Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The United States Capitol at dusk, seat of the forty-five day legislative sprint that produced the USA PATRIOT Act - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The story is usually told as a slogan: Congress passed a sweeping law without reading it. The record is more complicated than the slogan, and more instructive. Several of the authorities in the final text had been drafted and debated in earlier Congresses and were well understood by the committees that handled them. The compressed floor process was nonetheless real, and members said so on the record in language that survives in the Congressional Record. Both halves of that sentence matter, and this article keeps both in view at the same time. What follows is the sequence, the texts, and the votes, with every characterization attributed to the member who made it.
 

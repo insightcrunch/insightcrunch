@@ -3,18 +3,18 @@ title: "Teaching Federal Education Policy: A Study Guide Built on Conditional Sp
 excerpt: "Teaching federal education policy through the conditional spending frame: the teaching order, the six distinctions that decide marks, and the nine checkpoints."
 date: "2014-12-15"
 last_updated: "2014-12-15"
-author: "Insight Crunch"
+author: "insight-crunch-team"
 category: "Teaching & study"
 tags: "education law, conditional spending, teaching guide, certification exam, federal policy"
 keywords: "teaching federal education policy, conditional spending, education law study guide"
 slug: "teaching-federal-education-policy"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: "78"
+lang: en
 ---
-
 Conditions, not commands. Every federal education statute is an offer rather than an order, and students who internalize that single sentence answer both the doctrinal and the policy questions correctly, while students who do not will misdescribe every statute in the field. This page exists so that a teacher can build a defensible unit and a student can prepare for an exam from this page alone, because it supplies the single organizing frame that makes the whole field coherent, conditional spending, along with the teaching order, the distinctions that decide marks, the documents worth assigning, and the errors that cost credit.
 
-![A teacher guiding students through education law materials](/assets/images/blog/blog-01.webp)
+![A teacher guiding students through education law materials](/assets/images/blog/blog-27.webp)
 
 The rest of this guide follows the teaching order that works in real classrooms. It begins with the constitutional frame, because without it nothing else holds together, and it proceeds through the 1965 elementary and secondary statute as the model conditional grant, the nondiscrimination conditions layered on top of it, the accountability era and its two statutes, and higher education finance as a separate architecture with a different beneficiary and a different delivery mechanism. Along the way it names the six exam-critical distinctions, the three documents worth assigning, and the nine checkpoints that make up the study framework a student can carry into any exam room. Teachers can lift the order directly into a unit plan. Students can work the checkpoints in sequence as a self-test. Both can rely on the same guarantee: no statute in this field is presented as a command, because none of them is one.
 

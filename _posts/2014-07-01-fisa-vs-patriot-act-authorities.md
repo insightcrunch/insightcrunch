@@ -6,15 +6,15 @@ date: "2014-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "FISA", "PATRIOT Act", "Surveillance Law", "Title 50", "Legal History"]
 excerpt: "FISA is the framework statute for foreign-intelligence surveillance; the PATRIOT Act is the amendment package that rewrote its purpose standard and rules."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: "70"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2014-07-01"
+lang: en
 ---
-
 Most readers who set out to understand American foreign-intelligence collection law run into the same confusion within the first hour of reading. Two names appear on nearly every page, attached to nearly every controversy, and treated by commentators as though they were rival answers to the same question: the Foreign Intelligence Surveillance Act of 1978, known as FISA, and the USA PATRIOT Act of 2001. Articles describe programs as "FISA surveillance" in one paragraph and "PATRIOT Act surveillance" in the next, as if the two statutes were competing systems, one older and one newer, and a student had to pick which one to believe. That framing is wrong in a way that corrupts everything built on top of it, and the correction is the whole subject of this comparison. FISA is the framework statute. The 2001 act is an amendment package. Almost every authority that public discussion attributes to the 2001 legislation actually operates through the 1978 statute, because the 2001 act did its most consequential work not by building a parallel system but by rewriting the standards, procedures, and coordination rules of the system FISA had already built. Once that relationship is clear, a series of smaller puzzles dissolve on their own: why the surveillance court belongs to one law and not the other, why some provisions expired on a schedule while the underlying statute never did, why the 2008 addition of Section 702 was an amendment to FISA rather than a third rival system, and why a student who wants to understand how foreign-intelligence collection is authorized should begin with the framework statute and treat the amendment package as the second stop.
 
-![Comparing the framework statute and the amendment package](/assets/images/blog/blog-01.webp)
+![Comparing the framework statute and the amendment package](/assets/images/blog/blog-72.webp)
 
 The stakes of getting this distinction right are practical rather than academic. A lawyer, journalist, student, or engaged citizen who reads the 2001 act looking for the surveillance court will not find it, because Congress created that court twenty-three years earlier. A researcher who reads the 1978 statute looking for the business-records provision in its original form will not find it either, because the provision that became famous under the 2001 act arrived through a 1998 authorization measure and was then reshaped by the 2001 amendments. The Congressional Research Service, the Government Publishing Office, the Department of Justice, and the federal courts all describe the two enactments in the same structural terms used here, and this article follows those sources rather than the looser language of public debate. The article is organized along four axes the series uses for every comparison: Nature, which asks what kind of legal instrument each enactment is; Scope, which asks how far across the statute books each one reaches; Durability, which asks which parts endure and which parts were designed to lapse; and Function, which asks how each authority actually operates in practice. The verdict at the end names the single deciding factor that resolves the comparison for a reader deciding what to study first.
 

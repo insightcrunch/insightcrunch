@@ -6,17 +6,17 @@ date: "2014-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "FISA", "Surveillance Law", "Foreign Intelligence", "Privacy", "National Security"]
 excerpt: "This FISA surveillance guide explains targeting rules, incidental collection, and query practices of the foreign collection authority, with later changes dated."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2014-05-15"
+lang: en
 ---
-
 ## The Provision That Collects at Scale Without Individual Warrants
 
 Section 702 of the Foreign Intelligence Surveillance Act is the legal authority under which the United States government collects the communications of foreign targets without obtaining a separate court order for each target. The surveillance court approves the program's rules once a year, and analysts then select individual targets under those approved rules. That single design choice is the reason the program can operate at the scale it does, and it is also the reason the program has been contested in every reauthorization debate since its creation. This article explains the provision as it stood on May 15, 2014, the date carried on this page, and it records every later change with an explicit date, including the 2024 reauthorization and the 2026 lapse of the authority.
 
-![A diagram of Section 702 certification, targeting rules, and query procedures under FISA - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A diagram of Section 702 certification, targeting rules, and query procedures under FISA - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The test for this article is a demanding one. After reading it, a reader should be able to explain how the government collects communications at scale without individual warrants and why that practice is lawful under the statute, state precisely who may and may not be targeted, distinguish incidental collection from targeting and understand why that distinction is where the entire debate actually sits, and describe what a query of collected data means and what rules governed it. Precision is the whole point here. General explainers of this program tend to blur the line between whom the government may target and whose communications the government ends up holding, and that blur is where nearly every public misunderstanding of the program begins.
 

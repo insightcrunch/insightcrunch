@@ -6,17 +6,15 @@ date: "2015-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Equal Pay Act", "Employment Discrimination", "Wage and Hour Law", "EEOC", "Labor Law"]
 excerpt: "The Equal Pay Act was the first ban on sex-based wage discrimination. This guide covers the equal work test, the four defenses, and the filing deadlines."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2015-02-01"
+lang: en
 ---
-
-
-
 On June 10, 1963, President John F. Kennedy signed the Equal Pay Act into law at the White House, creating the first federal prohibition on sex discrimination in employment anywhere in American law. The measure arrived a full year before the Civil Rights Act of 1964, and that twelve-month head start explains nearly everything unusual about it. Rather than sitting inside a new civil rights title with its own procedures, the new ban was grafted onto the Fair Labor Standards Act of 1938, the wage and hour law, which meant it inherited that law's enforcement machinery, its limitations periods, and its remedies. A reader who grasps that architectural choice can answer the four questions that organize this entire guide: what comparison the statute demands, what justifications an employer may offer, why no discriminatory motive need ever be proved, and why almost every modern fight under the law reduces to the meaning of a single open-ended clause.
 
-![The Equal Pay Act of 1963 signing and the equal work test explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Equal Pay Act of 1963 signing and the equal work test explained - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The One Test for this article is straightforward. After reading it, a person should be able to explain that the first federal law against sex discrimination in employment predates the Civil Rights Act by a year, state the four-part test for equal work and the four affirmative defenses, understand that this statute imposes liability without proof of intent while the later civil rights statute does not, and know that nearly all modern litigation turns on a single open-ended defense. Because this is a profile with no specialist siblings in the series, it carries origins, elements, defenses, procedure, and litigation in one article, and each of those layers gets the depth it would receive as a standalone treatment.
 

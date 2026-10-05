@@ -3,22 +3,20 @@ title: "Higher Education Act: The Architecture of American Student Aid"
 excerpt: "The Higher Education Act built American college finance: grants, loans, accreditation rules, forgiveness programs and reauthorization gridlock explained."
 date: "2014-09-15"
 last_updated: "2014-09-15"
-author: "InsightCrunch"
+author: "maria-santos"
 category: "US Legislation"
 tags: ["US Legislation", "Higher Education", "Student Loans", "Education Policy", "Federal Funding", "College Access", "Accreditation"]
 keywords: "Higher Education Act, Pell Grant, student loans, accreditation, Title IV, federal student aid"
 slug: "higher-education-act-1965-guide"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: "89"
+lang: en
 ---
-
-
-
 ## The Statute Behind the Financial Aid Office
 
 Every financial aid office in the United States runs on the same invisible engine. When a learner files an application for assistance, when a grant posts to a tuition account, when a borrower signs a promissory note, when a college proves it deserves to handle public money, the authority traces back to a single statute enacted in the autumn of 1965. The Higher Education Act did not merely create a few programs. It built the architecture inside which American postsecondary finance has operated for half a century: the grant programs, the loan programs, the application, the gatekeeping rules for institutions, and the forgiveness and repayment options that later generations added to the frame. A reader who finishes this profile should be able to explain that essentially the entire structure of American student financial aid rests on one 1965 law, name the amendments that created grants, guaranteed loans, direct lending and forgiveness, describe the accreditation gatekeeping structure, and grasp the reframing fact that the statute has not been comprehensively reauthorized since 2008 and operates under automatic extension. That is the one test of this article, and everything that follows is organized to help a reader pass it.
 
-![Higher Education Act student aid architecture](/assets/images/blog/blog-01.webp)
+![Higher Education Act student aid architecture](/assets/images/blog/blog-64.webp)
 
 The claim at the center of this profile is a namable one: the Higher Education Act is the autopilot statute. The most consequential changes to student aid since the last reauthorization have arrived through regulation, through reconciliation riders attached to budget laws, and through litigation, rather than through the regular reauthorization process that Congress designed for education legislation. The law keeps flying because its authorization is extended automatically and its funding continues through annual appropriations, while lawmakers debate a comprehensive rewrite that never arrives. Understanding the statute therefore means understanding two histories at once: the history of what Congress built between 1965 and 2010, and the history of what Congress stopped building after 2008. The first history explains the machinery. The second explains why the machinery looks the way it does, and why debates about debt, forgiveness and institutional accountability keep returning to a framework that predates most of the borrowers it governs.
 

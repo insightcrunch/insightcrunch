@@ -6,15 +6,15 @@ date: "2014-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Special Education", "IDEA", "Education Policy", "Federal Statutes"]
 excerpt: "IDEA and special education law: courtroom origins, the six governing principles, IEP and hearing rules, landmark cases, and the funding promise never kept."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: "2014-10-01"
+lang: en
 ---
-
 Most federal education statutes begin with a program Congress designed and then funded, but the Individuals with Disabilities Education Act began in reverse: two federal trial judges ordered states to stop excluding children with disabilities from public school, and Congress then wrote those court orders into national law, added money, and built an enforcement machine around the parent of each individual child. The result, first enacted as the Education for All Handicapped Children Act of 1975 (Public Law 94-142, signed November 29, 1975 by President Gerald Ford) and renamed the Individuals with Disabilities Education Act in 1990, is the most procedurally detailed civil rights statute in American schooling. It guarantees every eligible child between the ages of three and twenty-one a free appropriate public education, requires that the education be planned by a team that includes the child's parents, insists that the child learn alongside nondisabled peers to the maximum extent appropriate, and backs every one of those promises with a right to an impartial hearing when the school and the family disagree. This profile carries the whole story in one article, from the two courtroom decisions that forced the issue, through the six principles that govern every case, to the litigation that defined what appropriate means and the funding promise Congress wrote into the law and never kept.
 
-![IDEA and Special Education Law](/assets/images/blog/blog-01.webp)
+![IDEA and Special Education Law](/assets/images/blog/blog-50.webp)
 
 ## Two Courtrooms and No Statute: Where the Law Began
 

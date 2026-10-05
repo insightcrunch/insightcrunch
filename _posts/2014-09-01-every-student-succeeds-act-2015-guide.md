@@ -6,15 +6,15 @@ date: "2014-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Every Student Succeeds Act", "Education Law", "Statute Profile", "Accountability", "Elementary and Secondary Education Act"]
 excerpt: "The Every Student Succeeds Act kept annual testing, ended adequate yearly progress, and wrote express limits on the Secretary of Education into federal statute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: "77"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2014-09-01"
+lang: en
 ---
-
 The Every Student Succeeds Act is the rare federal statute whose most consequential sentences are prohibitions rather than requirements. Readers arrive at the law expecting a policy about testing or standards, and the 2015 rewrite of the Elementary and Secondary Education Act contains those policies, but the provision that gives the statute its identity is the set of express limits Congress placed on the Secretary of Education: no mandating, directing, or incentivizing the adoption of specific academic standards, no prescribing the components of a state accountability system, no requiring particular teacher evaluation methods, and no conditioning plan approvals or waivers on any of the above. Everything else in the statute can be read as education policy. Those limits can only be read as a message about who gets to make education policy.
 
-![Every Student Succeeds Act statute profile, kept and discarded provisions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Every Student Succeeds Act statute profile, kept and discarded provisions - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The test this profile applies is simple enough to state in one sentence. A reader who finishes it can say what the 2015 rewrite kept from the prior accountability regime, what it discarded, and what it added, and can identify the statute's most distinctive feature: that Congress wrote express prohibitions on the Secretary mandating or incentivizing particular standards, assessments, or teacher evaluation systems, a direct statutory rebuke of the waiver practice of the preceding years and one of the clearest examples in this series of a legislature legislating against an executive branch method rather than against a policy. That framing, legislating against a method, is the namable claim this article advances, and the article supports it the way the series demands: from the statutory text and the committee record, with the sharpest characterizations attributed to the officials and members who voiced them, and with no position taken on whether the earlier waiver practice was proper.
 
