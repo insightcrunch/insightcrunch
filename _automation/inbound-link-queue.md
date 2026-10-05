@@ -11,3 +11,7 @@
 - _posts/2026-10-03-how-government-cash-payments-work.md — could carry: "Card networks run on private rails; for the token-and-cryptogram mechanism behind the tap, see how contactless payments work."
 
 - _posts/2025-06-14-personal-finance-guide-india.md — could carry: "For what actually travels between card and terminal during a tap, see how contactless payments work."
+
+## why-media-companies-merge
+- _posts/2026-02-05-bollywood-vs-hollywood-action-films-compared.md — could carry: "Streaming platforms created distribution channels that bypass geographical barriers; our guide to why media companies merge explains the consolidation behind that shift."
+- _posts/2026-03-28-it-sector-layoffs-2026-global-analysis.md — could carry: "The same merger mechanics of financing, conditions, and integration risk apply in media; see why media companies keep merging."

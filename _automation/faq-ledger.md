@@ -69,3 +69,27 @@ beep-different-mean-pattern-payment-terminal | how-contactless-payments-work | W
 card-differ-digit-physical-receipt-show-some | how-contactless-payments-work | Why do some receipts show card digits that differ from the physical card?
 card-children-contactless-issu-prepaid-support-tap | how-contactless-payments-work | Do prepaid cards issued for children support contactless taps?
 card-case-happen-sit-terminal-together-two-wallet | how-contactless-payments-work | What happens when two cards sit together in a wallet case at the terminal?
+
+## business-media-consolidation
+
+### why-media-companies-merge
+Why do media companies keep merging with each other? | why-media-companies-merge | company-keep-media-merg
+What is the difference between vertical and horizontal integration in media? | why-media-companies-merge | difference-horizontal-integr-media-vertical
+What did the Paramount Decree do and why was it terminated? | why-media-companies-merge | decree-paramount-terminat
+Why is AOL-Time Warner considered the worst merger in media history? | why-media-companies-merge | aol-consider-history-media-merger-time-warner-worst
+How did the Disney acquisition of Fox change the media industry? | why-media-companies-merge | acquisit-change-disney-fox-industry-media
+What did the AT&T acquisition of Time Warner prove about vertical integration? | why-media-companies-merge | acquisit-integr-prove-t-time-vertical-warner
+What does the Hart-Scott-Rodino waiting period require of merging companies? | why-media-companies-merge | company-hart-merg-period-require-rodino-scott-wait
+Do streaming prices go up after media mergers are completed? | why-media-companies-merge | complet-go-media-merger-pric-stream
+What happens to jobs and creators when media companies merge? | why-media-companies-merge | company-creator-happen-job-media-merge
+How are cost synergies calculated in a merger announcement? | why-media-companies-merge | announcement-calculat-cost-merger-synergy
+What is a breakup fee in a merger agreement? | why-media-companies-merge | agreement-breakup-fee-merger
+Do bigger studios make better movies than smaller ones? | why-media-companies-merge | better-bigger-make-movy-one-smaller-studio
+What is the conglomerate discount and does it apply to media companies? | why-media-companies-merge | app-company-conglomerate-discount-media
+How are film and television libraries valued in a merger? | why-media-companies-merge | film-library-merger-television-valu
+What does cord cutting have to do with media consolidation? | why-media-companies-merge | consolid-cord-cutt-media
+Why are live sports rights such a big factor in media mergers? | why-media-companies-merge | big-factor-live-media-merger-right-sport
+What kinds of remedies do regulators impose on media mergers? | why-media-companies-merge | impose-kind-media-merger-regulator-remedy
+How do professional investors read a media merger announcement? | why-media-companies-merge | announcement-investor-media-merger-professional-read
+What do failed media mergers teach the industry? | why-media-companies-merge | fail-industry-media-merger-teach
+What was the Skydance, Paramount and Warner Bros. Discovery combination? | why-media-companies-merge | bro-combin-discovery-paramount-skydance-warner
